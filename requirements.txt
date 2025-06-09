@@ -1,0 +1,16 @@
+beautifulsoup4==4.13.4
+bs4==0.0.2
+colorama==0.4.6
+greenlet==3.2.3
+numpy==2.2.6
+pandas==2.3.0
+playwright==1.52.0
+pyee==13.0.0
+python-dateutil==2.9.0.post0
+python-dotenv==1.1.0
+pytz==2025.2
+six==1.17.0
+soupsieve==2.7
+tqdm==4.67.1
+typing_extensions==4.14.0
+tzdata==2025.2
