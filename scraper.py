@@ -12,7 +12,7 @@ Key functions:
 - scrape_team_matches: Compiles match data for all wrestlers on a team.
 - scrape_all_d1_teams: Scrapes and compiles match data for all D1 teams.
 
-Typical usage example:
+Usage example:
 
     scrape_all_d1_teams()
 """
@@ -177,6 +177,7 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug):
         - Result Type
         - Score
         - Opponent
+        - Opponent ID
         - Opponent Record
         - Opponent School
         - Wrestler
@@ -223,6 +224,8 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug):
             # Attempt to parse columns into clean formatting
             try:
                 opponent_raw_name = opponent_a.text.strip()
+                opponent_url = opponent_a['href']
+                opponent_id = int(opponent_url.strip('/').split('/')[1])
                 opponent_record = cols[1].find("small") 
                 opponent_record = opponent_record.text.strip(" ()") if opponent_record else "Unlisted"
 
@@ -245,6 +248,7 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug):
                     "Result Type": cols[7].text.strip(),
                     "Score": cols[8].text.strip(),
                     "Opponent": opponent_name_clean,
+                    "Opponent ID": opponent_id,
                     "Opponent Record": opponent_record,
                     "Opponent School": cleaned_school,
                     "Wrestler": wrestler_name,
@@ -289,6 +293,7 @@ def scrape_team_matches(page, team_id, team_slug, delay=1.0):
         - Result Type
         - Score
         - Opponent
+        - Opponent ID
         - Opponent Record
         - Opponent School
         - Wrestler
@@ -378,5 +383,3 @@ def scrape_all_d1_teams():
             browser.close()
 
 scrape_all_d1_teams()
-
-        
