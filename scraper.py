@@ -93,19 +93,20 @@ def get_all_d1_teams(page):
             teams.append((team_id, team_slug))
     return list(set(teams))
 
-def get_team_roster(page, team_id, team_slug):
+def get_team_roster(page, team_id, team_slug, season_year):
     """Scrapes the WrestleStat roster page for a given NCAA D1 wrestling team
 
-    Navigates to a specific team's profile page on WrestleStat using the team ID and slug.
-    Parses the roster table to extract individual wrestler information. For each valid
-    wrestler entry, collects the wrestler's unique ID, name, and URL slug. Returns a list
-    of tuples containing this information for all wrestlers currently listed on the team’s
-    page.
+    Navigates to a specific team's profile page on WrestleStat using the team ID, slug
+    and year specified. Parses the roster table to extract individual wrestler information. 
+    For each valid wrestler entry, collects the wrestler's unique ID, name, and URL slug. 
+    Returns a list of tuples containing this information for all wrestlers currently listed 
+    on the team’s page.
 
     Args:
         page: A Page instance created by a Playwright Browser
         team_id: An integer representing the team’s unique ID on WrestleStat
         team_slug: A string representing the URL-friendly name of the team (e.g., 'penn-state')
+        season_year: An integer representing the season year to scrape (e.g., 2024)
 
     Returns:
         A list of tuples containing wrestler information for the specified team. Each tuple
@@ -116,58 +117,83 @@ def get_team_roster(page, team_id, team_slug):
          (131570, 'Aaron Brooks', 'brooks-aaron')]
     """
 
-    url = f"https://www.wrestlestat.com/team/{team_id}/{team_slug}/profile"
+    url = f"https://www.wrestlestat.com/season/{season_year}/team/{team_id}/{team_slug}/profile"
     page.goto(url)
     soup = BeautifulSoup(page.content(), 'html.parser')
     roster = []
 
-    rows = soup.select("table.table tbody tr")
-    for row in rows[2:]:
+    # Get the specific table that holds the roster
+    table = soup.select_one('div#roster table.table.table-sm.table-hover.table-striped')
+
+    # Defensive check
+    if not table:
+        print("Roster table not found.")
+        return []
+
+    # Now get all rows from tbody
+    rows = table.find('tbody').find_all('tr')
+
+    # Skip the header row and parse each wrestler's information
+    for row in rows[1:]:
         cols = row.find_all("td")
         if not cols:
             continue
 
-        name_cell = cols[0].find("a", href=True)
+        name_cell = cols[1].find("a", href=True)
         if not name_cell:
             continue
 
         wrestler_url = name_cell['href']
         try:
             parts = wrestler_url.strip('/').split('/')
-            wrestler_id = int(parts[1])
-            wrestler_slug = parts[2]
-            raw_name = name_cell.text
+            
+            if 'season' in parts:
+                # Past season format
+                wrestler_id = int(parts[3])
+                wrestler_slug = parts[4]
+            else:
+                # Current season format
+                wrestler_id = int(parts[1])
+                wrestler_slug = parts[2]
 
+            raw_name = name_cell.text.strip()
+
+            # Example: "#13 Camacho, Jakob"
             match = re.match(r"#\d+\s+([^,]+),\s*(.+)", raw_name)
             if match:
                 last_name, first_name = match.groups()
                 wrestler_name = f"{first_name.strip()} {last_name.strip()}"
+            else:
+                # Fallback to raw name (this might be redshirts with no ranking)
+                wrestler_name = raw_name
 
-            if "(" not in raw_name:
-                roster.append((wrestler_id, wrestler_name, wrestler_slug))
-        except:
+            roster.append((wrestler_id, wrestler_name, wrestler_slug))
+        except Exception as e:
+            print(f"Error parsing row: {e}")
             continue
 
     return roster
 
-def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug):
+
+def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, season_year):
     """Scrapes the match history for a specific NCAA D1 wrestler from WrestleStat
 
     Navigates to an individual wrestler's profile page on WrestleStat using their unique ID
     and URL slug. Parses all season blocks and corresponding match tables to extract detailed
-    match information, including opponent data, match result, event, weight class, and score.
-    Filters out malformed rows and incomplete data entries. Cleans opponent names and schools,
-    and attaches metadata such as wrestler name and ID to each match.
+    match information for a specific year, including opponent data, match result, event, weight 
+    class, and score. Filters out malformed rows and incomplete data entries. Cleans opponent 
+    names and schools, and attaches metadata such as wrestler name and ID to each match.
 
     Args:
         page: A Page instance created by a Playwright Browser
         wrestler_id: An integer representing the wrestler’s unique ID on WrestleStat
         wrestler_name: A string containing the full name of the wrestler (used for tagging matches)
         wrestler_slug: A URL-friendly string representing the wrestler’s name (e.g., 'starocci-carter')
+        season_year: An integer representing the season year to scrape (e.g., 2024)
 
     Returns:
-        A pandas DataFrame containing all parsed and cleaned match data for the given wrestler.
-        Each row in the DataFrame represents a match and includes fields such as:
+        A pandas DataFrame containing all parsed and cleaned match data for the given wrestler for
+        a specific year. Each row in the DataFrame represents a match and includes fields such as:
 
         - Season
         - Date
@@ -254,6 +280,9 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug):
                     "Wrestler": wrestler_name,
                     "Wrestler ID": wrestler_id
                 }
+                # Ensure the match is for the correct season
+                if match["Season"] != str(season_year):
+                    continue
                 all_matches.append(match)
             except Exception as e:
                 print(f"⚠️ Error parsing match row: {e}")
@@ -268,17 +297,19 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug):
     return df
 
 
-def scrape_team_matches(page, team_id, team_slug, delay=1.0):
+def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
     """Scrapes and compiles all match data for a specific NCAA D1 wrestling team from WrestleStat
 
     Retrieves the full active roster for a given team using its team ID and slug, then iteratively
-    scrapes each wrestler’s individual match history. Filters out empty or missing match data, compiles
-    all valid match DataFrames, and saves the combined results as a CSV file in the 'Team Results' directory.
+    scrapes each wrestler’s individual match history for a specified year. Filters out empty or missing 
+    match data, compiles all valid match DataFrames, and saves the combined results as a CSV file in the 
+    'Team Results' directory.
 
     Args:
         page: A Page instance created by a Playwright Browser
         team_id: An integer representing the team’s unique ID on WrestleStat
         team_slug: A string representing the URL-friendly name of the team (e.g., 'penn-state')
+        season_year: An integer representing the season year to scrape (e.g., 2024)
         delay: A float specifying the number of seconds to wait between scraping each wrestler (default is 1.0)
 
     Returns:
@@ -307,14 +338,16 @@ def scrape_team_matches(page, team_id, team_slug, delay=1.0):
         No exceptions are raised directly, allowing scraping to continue for other wrestlers.
     """
 
-    roster = get_team_roster(page, team_id, team_slug)
+    roster = get_team_roster(page, team_id, team_slug, season_year)
     print(f"Found {len(roster)} wrestlers for {team_slug}...")
 
     all_matches = []
 
     # Scrape individual wrestlers from a team's roster
-    for wrestler_id, wrestler_name, wrestler_slug in tqdm(roster, desc=f"Scraping {team_slug.title()}"):
-        df = scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug)
+    for wrestler_id, wrestler_name, wrestler_slug in tqdm(roster, desc=f"Scraping {team_slug.title()}, ({season_year-1} - {season_year}) Season"):
+        # New line character for formatting
+        print("\n")
+        df = scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, season_year)
         if df is not None and not df.empty:
             all_matches.append(df)
         time.sleep(delay)
@@ -322,64 +355,83 @@ def scrape_team_matches(page, team_id, team_slug, delay=1.0):
     # Convert scraped matches into a DataFrame and save as a CSV file
     if all_matches:
         full_df = pd.concat(all_matches, ignore_index=True)
-        full_df.to_csv(f"Team Results/{team_slug}_match_results.csv", index=False)
-        print(f"Saved {len(full_df)} matches to {team_slug}_match_results.csv")
+        full_df.to_csv(f"Team Results/{season_year}_{team_slug}_match_results.csv", index=False)
+        print(f"Saved {len(full_df)} matches to {season_year}_{team_slug}_match_results.csv")
         return full_df
     else:
         print(f"No match data found for team {team_slug}.")
         return None
 
 def scrape_all_d1_teams():
-    """Scrapes match data for all NCAA D1 wrestling programs from WrestleStat
+    """Scrapes match data for all NCAA D1 wrestling programs from WrestleStat (2014–2026).
 
     Authenticates into WrestleStat using credentials stored in environment variables, launches a
-    browser instance, and retrieves the list of all active Division 1 wrestling teams. Iteratively
-    scrapes each team's full match data by calling `scrape_team_matches`. Filters out teams that fail
-    or return no match data. Compiles all valid data into a single DataFrame and exports the full dataset
-    to 'd1_all_match_results.csv'.
+    browser instance, and retrieves the list of all active Division 1 wrestling teams. Iterates
+    through each season from 2014 to 2026, scraping all available match data per team using 
+    `scrape_team_matches`.
 
-    This function is designed to be run as a top-level batch scraper and will open a visible browser
-    window for interaction.
+    For each season:
+        - Scrapes match data from all teams.
+        - Saves season-level results to CSV in the 'Year Results/' folder.
+    
+    After all seasons are processed, compiles all valid match data into a single DataFrame and
+    writes it to 'd1_all_match_results_2014_2025.csv'.
 
     Args:
         None
 
     Returns:
-        None. Writes the compiled match data for all teams to a CSV file in the working directory.
+        None. Writes season-by-season CSV files and a full historical dataset CSV to disk.
 
     Raises:
-        Prints error messages when individual teams fail to scrape due to unexpected issues such as 
-        page load failures, missing data, or parsing errors. These errors are caught and logged, allowing 
-        the scraping process to continue uninterrupted for other teams.
+        Exception: Errors during team-level scraping (e.g., timeouts, broken pages, parsing issues)
+        are caught and logged with a message, but do not interrupt the batch scraping process.
     """
 
     load_dotenv()
 
     with sync_playwright() as p:
-            browser = p.chromium.launch(headless=False)
-            page = browser.new_page()
+        browser = p.chromium.launch(headless=False)
+        page = browser.new_page()
 
-            # WrestleStat requires a logged in account to view wrestler's full match histories
-            login(page, os.getenv('WRESTLESTAT_EMAIL'), os.getenv('WRESTLESTAT_PASSWORD'))
+        # WrestleStat requires a logged in account to view wrestler's full match histories
+        login(page, os.getenv('WRESTLESTAT_EMAIL'), os.getenv('WRESTLESTAT_PASSWORD'))
 
-            all_data = []
-            teams = get_all_d1_teams(page)
-            
-            # Scrape individual teams from list of all teams
-            for team_id, team_slug in tqdm(teams, desc=f"Scraping teams"):
+        all_data = []
+        teams = get_all_d1_teams(page)
+        
+        for season_year in range(2014, 2027):
+            print(f"==== Scraping season {season_year} ====")
+            season_data = []
+
+            # Scrape individual teams from list of all teams for the current season
+            for team_id, team_slug in tqdm(teams, desc=f"Season {season_year}"):
+                # New line character for formatting
+                print("\n")
                 try:
-                    df = scrape_team_matches(page, team_id, team_slug)
-                    if df is not None:
+                    df = scrape_team_matches(page, team_id, team_slug, season_year)
+                    if df is not None and not df.empty:
+                        df["Season Year"] = season_year
+                        season_data.append(df)
                         all_data.append(df)
                 except Exception as e:
-                    print(f"Error scraping team {team_slug} (ID: {team_id}): {e}")
+                    print(f"Error scraping {team_slug} for {season_year}: {e}")
                 time.sleep(2)
 
-            # Convert full match list to a DataFrame and save as a CSV file
-            if all_data:
-                full_df = pd.concat(all_data, ignore_index=True)
-                full_df.to_csv("d1_all_match_results.csv", index=False)
-                print(f"Saved full dataset with {len(full_df)} total matches to d1_all_match_results.csv")
-            browser.close()
+            # Convert season match list to a DataFrame and save as a CSV file
+            if season_data:
+                season_df = pd.concat(season_data, ignore_index=True)
+                season_df.to_csv(f"Year Results/d1_matches_{season_year}.csv", index=False)
+                print(f"Saved {len(season_df)} matches for {season_year}")
+        
+        # Combine all seasons into a single DataFrame and save
+        if all_data:
+            full_df = pd.concat(all_data, ignore_index=True)
+            full_df.to_csv("d1_all_match_results_2014_2025.csv", index=False)
+            print(f"Saved full dataset with {len(full_df)} total matches to d1_all_match_results_2014_2025.csv")
+        else:
+            print("No match data collected.")
+
+        browser.close()
 
 scrape_all_d1_teams()
