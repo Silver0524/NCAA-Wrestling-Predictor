@@ -1,8 +1,9 @@
 """WrestleStat NCAA Division 1 Wrestling Data Scraper.
 
 This module provides functions to scrape and compile NCAA Division 1 wrestling data from WrestleStat,
-including team rosters, individual wrestler match histories, and aggregated team match results. It
-handles authentication, data parsing, and exports match data to CSV files for analysis.
+including team rosters, individual wrestler match histories, and aggregated team match results from
+the 2013 - 2014 season to the present. It handles authentication, data parsing, and exports match data 
+to CSV files for analysis.
 
 Key functions:
 - login: Authenticates a user on WrestleStat.
@@ -14,7 +15,7 @@ Key functions:
 
 Usage example:
 
-    scrape_all_d1_teams()
+    python scraper.py
 """
 
 # import packages
