@@ -175,7 +175,6 @@ def get_team_roster(page, team_id, team_slug, season_year):
 
     return roster
 
-
 def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, season_year):
     """Scrapes the match history for a specific NCAA D1 wrestler from WrestleStat
 
@@ -297,7 +296,6 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, sea
     
     return df
 
-
 def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
     """Scrapes and compiles all match data for a specific NCAA D1 wrestling team from WrestleStat
 
@@ -330,6 +328,7 @@ def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
         - Opponent School
         - Wrestler
         - Wrestler ID
+        - Wrestler School
 
         Returns `None` if no valid match data could be retrieved.
 
@@ -340,24 +339,23 @@ def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
     """
 
     roster = get_team_roster(page, team_id, team_slug, season_year)
-    print(f"Found {len(roster)} wrestlers for {team_slug}...")
+    print(f"Found {len(roster)} wrestlers for {team_slug.title()}...")
 
     all_matches = []
 
     # Scrape individual wrestlers from a team's roster
-    for wrestler_id, wrestler_name, wrestler_slug in tqdm(roster, desc=f"Scraping {team_slug.title()}, ({season_year-1} - {season_year}) Season"):
-        # New line character for formatting
-        print("\n")
+    for wrestler_id, wrestler_name, wrestler_slug in tqdm(roster, desc=f"Scraping {team_slug.title()}, {season_year-1} - {season_year}"):
         df = scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, season_year)
         if df is not None and not df.empty:
+            df["Wrestler School"] = team_slug.replace("-", " ").title()
             all_matches.append(df)
         time.sleep(delay)
 
     # Convert scraped matches into a DataFrame and save as a CSV file
     if all_matches:
         full_df = pd.concat(all_matches, ignore_index=True)
-        full_df.to_csv(f"Team Results/{season_year}_{team_slug}_match_results.csv", index=False)
-        print(f"Saved {len(full_df)} matches to {season_year}_{team_slug}_match_results.csv")
+        full_df.to_csv(f"Team Results/{season_year}_{team_slug}.csv", index=False)
+        print(f"Saved {len(full_df)} matches to {season_year}_{team_slug}.csv")
         return full_df
     else:
         print(f"No match data found for team {team_slug}.")
@@ -376,7 +374,7 @@ def scrape_all_d1_teams():
         - Saves season-level results to CSV in the 'Year Results/' folder.
     
     After all seasons are processed, compiles all valid match data into a single DataFrame and
-    writes it to 'd1_all_match_results_2014_2025.csv'.
+    writes it to 'd1_all_match_results.csv'.
 
     Args:
         None
@@ -402,18 +400,18 @@ def scrape_all_d1_teams():
         teams = get_all_d1_teams(page)
         
         for season_year in range(2014, 2027):
-            print(f"==== Scraping season {season_year} ====")
+            print(f"==== Scraping {season_year-1}-{season_year} Season ====")
             season_data = []
 
             # Scrape individual teams from list of all teams for the current season
-            for team_id, team_slug in tqdm(teams, desc=f"Season {season_year}"):
+            for team_id, team_slug in tqdm(teams, desc=f"{season_year-1} - {season_year} Season"):
                 # New line character for formatting
                 print("\n")
                 try:
                     df = scrape_team_matches(page, team_id, team_slug, season_year)
                     if df is not None and not df.empty:
-                        df["Season Year"] = season_year
                         season_data.append(df)
+                        df["Season Year"] = season_year
                         all_data.append(df)
                 except Exception as e:
                     print(f"Error scraping {team_slug} for {season_year}: {e}")
@@ -422,14 +420,14 @@ def scrape_all_d1_teams():
             # Convert season match list to a DataFrame and save as a CSV file
             if season_data:
                 season_df = pd.concat(season_data, ignore_index=True)
-                season_df.to_csv(f"Year Results/d1_matches_{season_year}.csv", index=False)
+                season_df.to_csv(f"Year Results/{season_year}_matches.csv", index=False)
                 print(f"Saved {len(season_df)} matches for {season_year}")
         
         # Combine all seasons into a single DataFrame and save
         if all_data:
             full_df = pd.concat(all_data, ignore_index=True)
-            full_df.to_csv("d1_all_match_results_2014_2025.csv", index=False)
-            print(f"Saved full dataset with {len(full_df)} total matches to d1_all_match_results_2014_2025.csv")
+            full_df.to_csv("d1_all_match_results.csv", index=False)
+            print(f"Saved full dataset with {len(full_df)} total matches to d1_all_match_results.csv")
         else:
             print("No match data collected.")
 
