@@ -23,6 +23,7 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 import pandas as pd
 import time
+import datetime
 from tqdm import tqdm
 import re
 from dotenv import load_dotenv
@@ -51,7 +52,7 @@ def login(page, email, password):
     page.fill("input[name='Username']", email)
     page.fill("input[name='Password']", password)
     page.click("button[type='submit']")
-    page.wait_for_url("https://www.wrestlestat.com/", timeout=10000)
+    page.wait_for_url("https://www.wrestlestat.com/")
 
 def get_all_d1_teams(page):
     """Scrapes the WrestleStat team rankings for a complete list of all NCAA D1 wrestling programs
@@ -119,7 +120,7 @@ def get_team_roster(page, team_id, team_slug, season_year):
     """
 
     url = f"https://www.wrestlestat.com/season/{season_year}/team/{team_id}/{team_slug}/profile"
-    page.goto(url)
+    page.goto(url, timeout=60000)
     soup = BeautifulSoup(page.content(), 'html.parser')
     roster = []
 
@@ -215,7 +216,7 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, sea
     """
 
     url = f"https://www.wrestlestat.com/wrestler/{wrestler_id}/{wrestler_slug}/profile"
-    page.goto(url)
+    page.goto(url, timeout=60000)
     soup = BeautifulSoup(page.content(), 'html.parser')
     all_matches = []
 
@@ -302,7 +303,7 @@ def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
     Retrieves the full active roster for a given team using its team ID and slug, then iteratively
     scrapes each wrestler’s individual match history for a specified year. Filters out empty or missing 
     match data, compiles all valid match DataFrames, and saves the combined results as a CSV file in the 
-    'Team Results' directory.
+    'Team Results' directory in a dedicated team directory.
 
     Args:
         page: A Page instance created by a Playwright Browser
@@ -354,7 +355,7 @@ def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
     # Convert scraped matches into a DataFrame and save as a CSV file
     if all_matches:
         full_df = pd.concat(all_matches, ignore_index=True)
-        full_df.to_csv(f"Team Results/{season_year}_{team_slug}.csv", index=False)
+        full_df.to_csv(f"Team Results/{team_slug.replace("-", " ").title()}/{season_year}_{team_slug}.csv", index=False)
         print(f"Saved {len(full_df)} matches to {season_year}_{team_slug}.csv")
         return full_df
     else:
@@ -398,6 +399,35 @@ def scrape_all_d1_teams():
 
         all_data = []
         teams = get_all_d1_teams(page)
+
+        # Add teams that were removed from D1 prior to 2026 (thus not in current rankings)
+        teams += [
+            (9, 'boston-u'),
+            (8, 'boise-state'),
+            (25, 'eastern-michigan'),
+            (58, 'old-dominion'),
+            (829, 'fresno-state')
+        ]
+
+        # Keep of teams that were either added or removed from D1 between 2014-2026
+        activity_map = {
+            # Programs that moved up to D1
+            'little-rock' : list(range(2020, 2027)),
+            'liu' : list(range(2020, 2027)),
+            'presbyterian' : list(range(2020, 2027)),
+            'cal-baptist' :  list(range(2023, 2027)),
+            'morgan-state' : list(range(2024, 2027)),
+            'bellarmine' : list(range(2025, 2027)),
+
+            # Programs that moved down from D1
+            'boston-u' : list(range(2014, 2015)),
+            'boise-state' : list(range(2014, 2018)),
+            'eastern-michigan' : list(range(2014, 2019)),
+            'old-dominion' : list(range(2014, 2021)),
+
+            # Programs that were added and then removed from D1
+            'fresno-state' : list(range(2018, 2022))
+        }
         
         for season_year in range(2014, 2027):
             print(f"==== Scraping {season_year-1}-{season_year} Season ====")
@@ -407,11 +437,16 @@ def scrape_all_d1_teams():
             for team_id, team_slug in tqdm(teams, desc=f"{season_year-1} - {season_year} Season"):
                 # New line character for formatting
                 print("\n")
+
+                # Skip teams that weren’t active (designate by activity_map)
+                if team_slug in activity_map and season_year not in activity_map[team_slug]:
+                    print(f"Skipping {team_slug} for {season_year} (inactive)")
+                    continue
+
                 try:
                     df = scrape_team_matches(page, team_id, team_slug, season_year)
                     if df is not None and not df.empty:
                         season_data.append(df)
-                        df["Season Year"] = season_year
                         all_data.append(df)
                 except Exception as e:
                     print(f"Error scraping {team_slug} for {season_year}: {e}")
