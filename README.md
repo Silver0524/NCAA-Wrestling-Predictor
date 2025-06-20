@@ -10,7 +10,6 @@ This project is the foundation for a long-term initiative to:
 - 🤖 **Develop machine learning models** to predict future match outcomes using historical performance data.
 - 🌐 **Scale into a full-stack web application** for fans, analysts, and recruiters to interactively explore wrestlers, teams, trends, and predictions.
 
-
 ## 📍 In Progress
 
 Currently working on:
@@ -18,14 +17,12 @@ Currently working on:
 - ⚡ Adding multithreading to accelerate season scraping performance
 - ⚙️ Implementing CLI options for selecting specific seasons and teams
 
-
 ## 📌 Features
 
 - **User authentication** to access complete match data
 - **Team and wrestler data scraping** for every NCAA D1 program
 - **Seasonal and full dataset generation** in CSV format
 - **Automated coverage of inactive and newly added programs**
-
 
 ## 🧠 Key Functions
 
@@ -37,7 +34,6 @@ Currently working on:
 | `scrape_wrestler_matches` | Extracts individual match data for a specific wrestler |
 | `scrape_team_matches` | Scrapes all wrestlers' matches for a given team |
 | `scrape_all_d1_teams` | Automates scraping across all teams and seasons (2014–2026) |
-
 
 ## 📁 Folder Structure
 ```
@@ -131,6 +127,7 @@ A single match row includes:
 * Add async/multithreaded scraping for faster performance
 * Modularize scraper into a CLI-first package
 * Build ML prediction pipelines based on historical results
+* Add capability to scrape new matches in future seasons
 * Develop front-end dashboard for interactive exploration
 * Integrate cloud database support for data storage and queries
 
