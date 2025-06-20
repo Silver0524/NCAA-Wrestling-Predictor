@@ -2,7 +2,7 @@
 
 This module provides functions to scrape and compile NCAA Division 1 wrestling data from WrestleStat,
 including team rosters, individual wrestler match histories, and aggregated team match results from
-the 2013 - 2014 season to the present. It handles authentication, data parsing, and exports match data 
+the 2013/2014 season to the 2024/2025 season. It handles authentication, data parsing, and exports match data 
 to CSV files for analysis.
 
 Key functions:
@@ -54,11 +54,11 @@ def login(page, email, password):
     page.click("button[type='submit']")
     page.wait_for_url("https://www.wrestlestat.com/")
 
-def get_all_d1_teams(page):
-    """Scrapes the WrestleStat team rankings for a complete list of all NCAA D1 wrestling programs
+def get_current_d1_teams(page):
+    """Scrapes the WrestleStat team rankings for a complete list of active NCAA D1 wrestling programs
 
-    Navigates to WrestleStat's team rankings page and accesses a table containing links for all
-    team pages on WrestleStat. Parses the links into tuples containing a unique team ID and team
+    Navigates to WrestleStat's current team rankings page and accesses a table containing links for 
+    all team pages on WrestleStat. Parses the links into tuples containing a unique team ID and team
     slug. Returns a list containing tuples for all active D1 wrestling programs.
     
     Args:
@@ -96,13 +96,13 @@ def get_all_d1_teams(page):
     return list(set(teams))
 
 def get_team_roster(page, team_id, team_slug, season_year):
-    """Scrapes the WrestleStat roster page for a given NCAA D1 wrestling team
+    """Scrapes the WrestleStat roster page for a given NCAA D1 wrestling team and year.
 
     Navigates to a specific team's profile page on WrestleStat using the team ID, slug
     and year specified. Parses the roster table to extract individual wrestler information. 
     For each valid wrestler entry, collects the wrestler's unique ID, name, and URL slug. 
     Returns a list of tuples containing this information for all wrestlers currently listed 
-    on the team’s page.
+    on the team’s page for that year.
 
     Args:
         page: A Page instance created by a Playwright Browser
@@ -160,7 +160,8 @@ def get_team_roster(page, team_id, team_slug, season_year):
 
             raw_name = name_cell.text.strip()
 
-            # Example: "#13 Camacho, Jakob"
+            # Use regex to extract first and last names from the raw name
+            # Example: "#1 Starocci, Carter"
             match = re.match(r"#\d+\s+([^,]+),\s*(.+)", raw_name)
             if match:
                 last_name, first_name = match.groups()
@@ -177,13 +178,14 @@ def get_team_roster(page, team_id, team_slug, season_year):
     return roster
 
 def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, season_year):
-    """Scrapes the match history for a specific NCAA D1 wrestler from WrestleStat
+    """Scrapes the match history for a specific NCAA D1 wrestler and year from WrestleStat
 
     Navigates to an individual wrestler's profile page on WrestleStat using their unique ID
     and URL slug. Parses all season blocks and corresponding match tables to extract detailed
-    match information for a specific year, including opponent data, match result, event, weight 
-    class, and score. Filters out malformed rows and incomplete data entries. Cleans opponent 
-    names and schools, and attaches metadata such as wrestler name and ID to each match.
+    match information from a specific year, including opponent data, match result, event name, 
+    weight class, and score. Filters out malformed rows and incomplete data entries. Cleans 
+    opponent names and schools, and attaches metadata such as wrestler name, ID, and school
+    to each match.
 
     Args:
         page: A Page instance created by a Playwright Browser
@@ -205,7 +207,6 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, sea
         - Score
         - Opponent
         - Opponent ID
-        - Opponent Record
         - Opponent School
         - Wrestler
         - Wrestler ID
@@ -253,8 +254,6 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, sea
                 opponent_raw_name = opponent_a.text.strip()
                 opponent_url = opponent_a['href']
                 opponent_id = int(opponent_url.strip('/').split('/')[1])
-                opponent_record = cols[1].find("small") 
-                opponent_record = opponent_record.text.strip(" ()") if opponent_record else "Unlisted"
 
                 name_no_rank = re.sub(r"^#\d+\s*", "", opponent_raw_name)
                 if "," in name_no_rank:
@@ -276,7 +275,6 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, sea
                     "Score": cols[8].text.strip(),
                     "Opponent": opponent_name_clean,
                     "Opponent ID": opponent_id,
-                    "Opponent Record": opponent_record,
                     "Opponent School": cleaned_school,
                     "Wrestler": wrestler_name,
                     "Wrestler ID": wrestler_id
@@ -298,7 +296,7 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, sea
     return df
 
 def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
-    """Scrapes and compiles all match data for a specific NCAA D1 wrestling team from WrestleStat
+    """Scrapes and compiles all match data for a specific NCAA D1 wrestling team and year from WrestleStat
 
     Retrieves the full active roster for a given team using its team ID and slug, then iteratively
     scrapes each wrestler’s individual match history for a specified year. Filters out empty or missing 
@@ -325,7 +323,6 @@ def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
         - Score
         - Opponent
         - Opponent ID
-        - Opponent Record
         - Opponent School
         - Wrestler
         - Wrestler ID
@@ -363,12 +360,16 @@ def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
         return None
 
 def scrape_all_d1_teams():
-    """Scrapes match data for all NCAA D1 wrestling programs from WrestleStat (2014–2026).
+    """Scrapes match data for all NCAA D1 wrestling programs from WrestleStat (from 2013/2014 onward).
 
     Authenticates into WrestleStat using credentials stored in environment variables, launches a
-    browser instance, and retrieves the list of all active Division 1 wrestling teams. Iterates
-    through each season from 2014 to 2026, scraping all available match data per team using 
-    `scrape_team_matches`.
+    browser instance, retrieves the list of all active Division 1 wrestling teams and then adds
+    teams that were active during the time period but no longer active. Iterates through each season 
+    from 2014 to 2026, scraping all available match data per team.
+
+    For each team:
+        - Scrapes match data for all years from 2013/2014 to present.
+        - Saves yearly team-level results to CSV in designated folder inside of 'Team Results/'.
 
     For each season:
         - Scrapes match data from all teams.
@@ -381,7 +382,8 @@ def scrape_all_d1_teams():
         None
 
     Returns:
-        None. Writes season-by-season CSV files and a full historical dataset CSV to disk.
+        None. Writes season-by-season CSV files, yearly team specific CSV files, and a full 
+        historical dataset CSV to disk.
 
     Raises:
         Exception: Errors during team-level scraping (e.g., timeouts, broken pages, parsing issues)
@@ -398,7 +400,7 @@ def scrape_all_d1_teams():
         login(page, os.getenv('WRESTLESTAT_EMAIL'), os.getenv('WRESTLESTAT_PASSWORD'))
 
         all_data = []
-        teams = get_all_d1_teams(page)
+        teams = get_current_d1_teams(page)
 
         # Add teams that were removed from D1 prior to 2026 (thus not in current rankings)
         teams += [
@@ -409,7 +411,7 @@ def scrape_all_d1_teams():
             (829, 'fresno-state')
         ]
 
-        # Keep of teams that were either added or removed from D1 between 2014-2026
+        # Keep track of teams that were either added or removed from D1 between 2014-2026
         activity_map = {
             # Programs that moved up to D1
             'little-rock' : list(range(2020, 2027)),
@@ -425,7 +427,7 @@ def scrape_all_d1_teams():
             'eastern-michigan' : list(range(2014, 2019)),
             'old-dominion' : list(range(2014, 2021)),
 
-            # Programs that were added and then removed from D1
+            # Program that was added and then removed from D1
             'fresno-state' : list(range(2018, 2022))
         }
         
