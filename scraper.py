@@ -23,9 +23,9 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 import pandas as pd
 import time
-import datetime
 from tqdm import tqdm
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 import os
 
@@ -201,6 +201,7 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, sea
         - Season
         - Date
         - Event
+        - Is Dual Meet
         - Weight Class
         - Result
         - Result Type
@@ -266,21 +267,22 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, sea
                 cleaned_school = re.sub(r"\(.*?\)|#\d+\s*", "", raw_school).strip()
 
                 match = {
-                    "Season": season,
-                    "Date": cols[3].text.strip(),
-                    "Event": cols[4].text.strip(),
-                    "Weight Class": cols[5].text.strip(),
-                    "Result": cols[6].text.strip(),
-                    "Result Type": cols[7].text.strip(),
-                    "Score": cols[8].text.strip(),
-                    "Opponent": opponent_name_clean,
-                    "Opponent ID": opponent_id,
-                    "Opponent School": cleaned_school,
-                    "Wrestler": wrestler_name,
-                    "Wrestler ID": wrestler_id
+                    "season": season,
+                    "date": cols[3].text.strip(),
+                    "event": cols[4].text.strip(),
+                    "is_dual_meet": "Dual" in cols[4].text.strip(),
+                    "weight_class": cols[5].text.strip(),
+                    "result": cols[6].text.strip(),
+                    "result_type": cols[7].text.strip(),
+                    "score": cols[8].text.strip(),
+                    "opponent": opponent_name_clean,
+                    "opponent_id": opponent_id,
+                    "opponent_school": cleaned_school,
+                    "wrestler": wrestler_name,
+                    "wrestler_id": wrestler_id
                 }
                 # Ensure the match is for the correct season
-                if match["Season"] != str(season_year):
+                if match["season"] != str(season_year):
                     continue
                 all_matches.append(match)
             except Exception as e:
@@ -317,6 +319,7 @@ def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
         - Season
         - Date
         - Event
+        - Is Dual Meet
         - Weight Class
         - Result
         - Result Type
@@ -337,7 +340,6 @@ def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
     """
 
     roster = get_team_roster(page, team_id, team_slug, season_year)
-    print(f"Found {len(roster)} wrestlers for {team_slug.title()}...")
 
     all_matches = []
 
@@ -345,13 +347,14 @@ def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
     for wrestler_id, wrestler_name, wrestler_slug in tqdm(roster, desc=f"Scraping {team_slug.title()}, {season_year-1} - {season_year}"):
         df = scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, season_year)
         if df is not None and not df.empty:
-            df["Wrestler School"] = team_slug.replace("-", " ").title()
+            df["wrestler_school"] = team_slug.replace("-", " ").title()
             all_matches.append(df)
         time.sleep(delay)
 
     # Convert scraped matches into a DataFrame and save as a CSV file
     if all_matches:
         full_df = pd.concat(all_matches, ignore_index=True)
+        os.makedirs(f"Team Results/{team_slug.replace("-", " ").title()}", exist_ok=True)
         full_df.to_csv(f"Team Results/{team_slug.replace("-", " ").title()}/{season_year}_{team_slug}.csv", index=False)
         print(f"Saved {len(full_df)} matches to {season_year}_{team_slug}.csv")
         return full_df
@@ -359,115 +362,146 @@ def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
         print(f"No match data found for team {team_slug}.")
         return None
 
-def scrape_all_d1_teams():
-    """Scrapes match data for all NCAA D1 wrestling programs from WrestleStat (from 2013/2014 onward).
+def scrape_team_for_season(team_id, team_slug, season_year):
+    """Scrapes match data for a single NCAA D1 wrestling team for a specific season.
 
-    Authenticates into WrestleStat using credentials stored in environment variables, launches a
-    browser instance, retrieves the list of all active Division 1 wrestling teams and then adds
-    teams that were active during the time period but no longer active. Iterates through each season 
-    from 2014 to 2026, scraping all available match data per team.
+    Launches a separate headless Playwright browser instance, logs into WrestleStat using 
+    credentials stored in environment variables, and scrapes all available match data for 
+    the specified team and season. Returns a DataFrame containing the results.
 
-    For each team:
-        - Scrapes match data for all years from 2013/2014 to present.
-        - Saves yearly team-level results to CSV in designated folder inside of 'Team Results/'.
-
-    For each season:
-        - Scrapes match data from all teams.
-        - Saves season-level results to CSV in the 'Year Results/' folder.
-    
-    After all seasons are processed, compiles all valid match data into a single DataFrame and
-    writes it to 'd1_all_match_results.csv'.
+    This function is useful for parallelizing scraping across multiple processes or threads,
+    since each invocation creates and manages its own browser context.
 
     Args:
-        None
+        team_id: An integer representing the unique WrestleStat ID for the team.
+        team_slug: A string representing the URL-friendly name of the team (e.g., 'penn-state').
+        season_year: An integer representing the season year to scrape (e.g., 2025).
 
     Returns:
-        None. Writes season-by-season CSV files, yearly team specific CSV files, and a full 
-        historical dataset CSV to disk.
+        A pandas DataFrame containing the match results for the given team and season,
+        or None if the team fails to scrape or an error occurs.
 
     Raises:
-        Exception: Errors during team-level scraping (e.g., timeouts, broken pages, parsing issues)
-        are caught and logged with a message, but do not interrupt the batch scraping process.
+        Prints an error message if the scraping process fails due to issues such as
+        page navigation failures, invalid credentials, or unexpected HTML structure.
+        Errors are caught and logged; no exceptions are propagated.
+    """
+
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page()
+            login(page, os.getenv('WRESTLESTAT_EMAIL'), os.getenv('WRESTLESTAT_PASSWORD'))
+
+            df = scrape_team_matches(page, team_id, team_slug, season_year)
+            browser.close()
+            return df
+    except Exception as e:
+        print(f"❌ Error scraping {team_slug} for {season_year}: {e}")
+        return None
+
+def scrape_all_d1_teams(max_workers=5):
+    """Scrapes match data for all NCAA D1 wrestling teams across multiple seasons in parallel.
+
+    Loads environment variables for login credentials, retrieves both active and inactive 
+    D1 programs (including those added or removed from the division over time), and 
+    uses multithreading to efficiently scrape match results for each team across specified seasons. 
+    Filters teams based on a predefined activity map that accounts for program status over time.
+
+    Each team is scraped in parallel using its own Playwright browser instance. Match data for 
+    each season is saved as a CSV file in the "Year Results" directory, and all data is aggregated 
+    into a final CSV file: 'd1_all_match_results.csv'.
+
+    Args:
+        max_workers: An integer representing the maximum number of threads to use for scraping 
+        (default is 5). Each worker processes a single team.
+
+    Returns:
+        None. Writes season-level and full datasets to disk as CSV files.
+
+    Raises:
+        Prints error messages for individual teams or seasons if scraping fails due to issues 
+        such as timeouts, login failure, unexpected HTML structure, or Playwright/browser 
+        initialization errors. All exceptions are caught and logged to allow uninterrupted scraping.
     """
 
     load_dotenv()
 
+    all_data = []
+
+    # These teams are no longer in the current rankings but still need scraping
+    teams = [
+        (9, 'boston-u'),
+        (8, 'boise-state'),
+        (25, 'eastern-michigan'),
+        (58, 'old-dominion'),
+        (829, 'fresno-state')
+    ]
+
+    # Get currently active teams
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-
-        # WrestleStat requires a logged in account to view wrestler's full match histories
         login(page, os.getenv('WRESTLESTAT_EMAIL'), os.getenv('WRESTLESTAT_PASSWORD'))
+        teams += get_current_d1_teams(page)
+        browser.close()
 
-        all_data = []
-        teams = get_current_d1_teams(page)
+    # Keep track of teams that were either added or removed from D1 between 2014-2026
+    activity_map = {
+        # Programs that moved up to D1
+        'little-rock' : list(range(2020, 2027)),
+        'liu' : list(range(2020, 2027)),
+        'presbyterian' : list(range(2020, 2027)),
+        'cal-baptist' :  list(range(2023, 2027)),
+        'morgan-state' : list(range(2024, 2027)),
+        'bellarmine' : list(range(2025, 2027)),
 
-        # Add teams that were removed from D1 prior to 2026 (thus not in current rankings)
-        teams += [
-            (9, 'boston-u'),
-            (8, 'boise-state'),
-            (25, 'eastern-michigan'),
-            (58, 'old-dominion'),
-            (829, 'fresno-state')
-        ]
+        # Programs that moved down from D1
+        'boston-u' : list(range(2014, 2015)),
+        'boise-state' : list(range(2014, 2018)),
+        'eastern-michigan' : list(range(2014, 2019)),
+        'old-dominion' : list(range(2014, 2021)),
 
-        # Keep track of teams that were either added or removed from D1 between 2014-2026
-        activity_map = {
-            # Programs that moved up to D1
-            'little-rock' : list(range(2020, 2027)),
-            'liu' : list(range(2020, 2027)),
-            'presbyterian' : list(range(2020, 2027)),
-            'cal-baptist' :  list(range(2023, 2027)),
-            'morgan-state' : list(range(2024, 2027)),
-            'bellarmine' : list(range(2025, 2027)),
+        # Program that was added and then removed from D1
+        'fresno-state' : list(range(2018, 2022))
+    }
 
-            # Programs that moved down from D1
-            'boston-u' : list(range(2014, 2015)),
-            'boise-state' : list(range(2014, 2018)),
-            'eastern-michigan' : list(range(2014, 2019)),
-            'old-dominion' : list(range(2014, 2021)),
+    # Full scraping loop for all seasons
+    for season_year in range(2014, 2026):
+        print(f"\n==== Scraping {season_year-1}-{season_year} Season ====")
+        season_data = []
 
-            # Program that was added and then removed from D1
-            'fresno-state' : list(range(2018, 2022))
-        }
-        
-        for season_year in range(2014, 2027):
-            print(f"==== Scraping {season_year-1}-{season_year} Season ====")
-            season_data = []
-
-            # Scrape individual teams from list of all teams for the current season
-            for team_id, team_slug in tqdm(teams, desc=f"{season_year-1} - {season_year} Season"):
-                # New line character for formatting
-                print("\n")
-
-                # Skip teams that weren’t active (designate by activity_map)
+        # Use ThreadPoolExecutor to scrape teams in parallel
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = []
+            for team_id, team_slug in teams:
+                # Check team activity for the season
                 if team_slug in activity_map and season_year not in activity_map[team_slug]:
                     print(f"Skipping {team_slug} for {season_year} (inactive)")
                     continue
+                futures.append(executor.submit(scrape_team_for_season, team_id, team_slug, season_year))
 
-                try:
-                    df = scrape_team_matches(page, team_id, team_slug, season_year)
-                    if df is not None and not df.empty:
-                        season_data.append(df)
-                        all_data.append(df)
-                except Exception as e:
-                    print(f"Error scraping {team_slug} for {season_year}: {e}")
-                time.sleep(2)
+            for future in tqdm(as_completed(futures), total=len(futures), desc=f"{season_year-1}-{season_year} Teams"):
+                df = future.result()
+                if df is not None and not df.empty:
+                    season_data.append(df)
+                    all_data.append(df)
 
-            # Convert season match list to a DataFrame and save as a CSV file
-            if season_data:
-                season_df = pd.concat(season_data, ignore_index=True)
-                season_df.to_csv(f"Year Results/{season_year}_matches.csv", index=False)
-                print(f"Saved {len(season_df)} matches for {season_year}")
-        
-        # Combine all seasons into a single DataFrame and save
-        if all_data:
-            full_df = pd.concat(all_data, ignore_index=True)
-            full_df.to_csv("d1_all_match_results.csv", index=False)
-            print(f"Saved full dataset with {len(full_df)} total matches to d1_all_match_results.csv")
+        # Save the season data to a CSV file in specific directory
+        if season_data:
+            season_df = pd.concat(season_data, ignore_index=True)
+            os.makedir("Year Results", exist_ok=True)
+            season_df.to_csv(f"Year Results/{season_year}_matches.csv", index=False)
+            print(f"✅ Saved {len(season_df)} matches for {season_year}")
         else:
-            print("No match data collected.")
+            print(f"⚠️ No data collected for {season_year}")
 
-        browser.close()
+    # Save the full dataset across all seasons to a CSV file
+    if all_data:
+        full_df = pd.concat(all_data, ignore_index=True)
+        full_df.to_csv("d1_all_match_results.csv", index=False)
+        print(f"\n🎉 Saved full dataset with {len(full_df)} matches to d1_all_match_results.csv")
+    else:
+        print("❌ No match data collected across all seasons.")
 
 scrape_all_d1_teams()
