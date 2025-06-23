@@ -14,7 +14,8 @@ This project is the foundation for a long-term initiative to:
 
 Currently working on:
 
-- ⚙️ Implementing CLI options for selecting specific seasons, teams, or wrestler subsets
+- 📅 Adding capability to scrape new matches once the season begins
+- 🛠 Scraping full dataset and engineering features
 
 ## 📌 Features
 
