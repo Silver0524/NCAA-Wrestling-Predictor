@@ -14,8 +14,8 @@ This project is the foundation for a long-term initiative to:
 
 Currently working on:
 
-- 📅 Adding capability to scrape new matches once the season begins
-- 🛠 Scraping full dataset and engineering features
+- 🛠 Rescraping full dataset and cleaning data
+- 📒 Updating README to reflect new folder structure
 
 ## 📌 Features
 
