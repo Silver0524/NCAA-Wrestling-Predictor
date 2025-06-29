@@ -1,22 +1,28 @@
-"""WrestleStat NCAA Division 1 Wrestling Data Scraper.
+"""
+WrestleStat NCAA Division I Wrestling Data Scraper
 
-This module provides functions to scrape and compile NCAA Division 1 wrestling data from WrestleStat,
-including team rosters, individual wrestler match histories, and aggregated team match results from
-the 2013/2014 season to the 2024/2025 season. It handles authentication, data parsing, and exports match data 
-to CSV files for analysis.
+This module automates the scraping of NCAA Division I wrestling data from WrestleStat.com.
+It supports team-level and wrestler-level data collection from 2014 through the 2025 season, 
+including team rosters, match results, and season-level aggregation. The script is designed 
+to operate in a headless browser environment using Playwright and supports multithreaded scraping 
+to optimize performance.
 
-Key functions:
-- login: Authenticates a user on WrestleStat.
-- get_all_d1_teams: Retrieves all active D1 wrestling teams.
-- get_team_roster: Fetches the roster for a specified team.
-- scrape_wrestler_matches: Scrapes all matches for an individual wrestler.
-- scrape_team_matches: Compiles match data for all wrestlers on a team.
-- scrape_team_for_season: Wrapper function for scraping a team in a single browser instance.
-- scrape_all_d1_teams: Scrapes and compiles match data for all D1 teams.
+Main Features:
+- Logs in to WrestleStat via a Playwright-controlled browser.
+- Retrieves and parses active and historical D1 wrestling team pages.
+- Collects full rosters and match results for individual wrestlers.
+- Aggregates team and season match results into structured CSVs.
+- Saves raw outputs into organized directories for year and team-level analysis.
+- Includes robust error handling, logging, and progress tracking via tqdm.
 
-Usage example:
+Environment:
+Requires a `.env` file with the following:
+    WRESTLESTAT_EMAIL=<your_email>
+    WRESTLESTAT_PASSWORD=<your_password>
 
-    python scraper.py
+Usage:
+    Run as a script to scrape all D1 team data across seasons:
+    $ python scraper.py
 """
 
 # import packages
@@ -29,7 +35,20 @@ import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 import os
+import logging
 
+# Ensure log directory exists
+os.makedirs("data/logs", exist_ok=True)
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.FileHandler("data/logs/scraper.log", mode="a", encoding="utf-8"),
+        logging.StreamHandler()
+    ]
+)
 
 def login(page, email, password):
     """Logs in to the WrestleStat website.
@@ -118,6 +137,9 @@ def get_team_roster(page, team_id, team_slug, season_year):
 
         [(131567, 'Carter Starocci', 'starocci-carter'),
          (131570, 'Aaron Brooks', 'brooks-aaron')]
+
+    Logs:
+        Outputs error messages via the logging module if scraping fails.
     """
 
     url = f"https://www.wrestlestat.com/season/{season_year}/team/{team_id}/{team_slug}/profile"
@@ -130,7 +152,7 @@ def get_team_roster(page, team_id, team_slug, season_year):
 
     # Defensive check
     if not table:
-        print("Roster table not found.")
+        logging.warning("Roster table not found.")
         return []
 
     # Now get all rows from tbody
@@ -173,7 +195,7 @@ def get_team_roster(page, team_id, team_slug, season_year):
 
             roster.append((wrestler_id, wrestler_name, wrestler_slug))
         except Exception as e:
-            print(f"Error parsing row: {e}")
+            logging.warning(f"Error parsing row: {e}")
             continue
 
     return roster
@@ -202,7 +224,6 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, sea
         - Season
         - Date
         - Event
-        - Is Dual Meet
         - Weight Class
         - Result
         - Result Type
@@ -213,9 +234,8 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, sea
         - Wrestler
         - Wrestler ID
 
-    Raises:
-        Prints a warning message for any row that cannot be parsed due to unexpected structure
-        or data formatting issues. These rows are skipped, and scraping continues without interruption.
+    Logs:
+        Outputs error messages via the logging module if scraping fails.
     """
 
     url = f"https://www.wrestlestat.com/wrestler/{wrestler_id}/{wrestler_slug}/profile"
@@ -271,7 +291,6 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, sea
                     "season": season,
                     "date": cols[3].text.strip(),
                     "event": cols[4].text.strip(),
-                    "is_dual_meet": "Dual" in cols[4].text.strip(),
                     "weight_class": cols[5].text.strip(),
                     "result": cols[6].text.strip(),
                     "result_type": cols[7].text.strip(),
@@ -287,7 +306,7 @@ def scrape_wrestler_matches(page, wrestler_id, wrestler_name, wrestler_slug, sea
                     continue
                 all_matches.append(match)
             except Exception as e:
-                print(f"⚠️ Error parsing match row: {e}")
+                logging.warning(f"Error parsing match row: {e}")
                 continue
     
     # Convert to DataFrame and handle duplicates and missing values
@@ -320,7 +339,6 @@ def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
         - Season
         - Date
         - Event
-        - Is Dual Meet
         - Weight Class
         - Result
         - Result Type
@@ -334,10 +352,8 @@ def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
 
         Returns `None` if no valid match data could be retrieved.
 
-    Raises:
-        Prints warning messages when individual wrestler pages cannot be parsed correctly or yield no results.
-        Match DataFrames that are empty or contain only incomplete rows are skipped.
-        No exceptions are raised directly, allowing scraping to continue for other wrestlers.
+    Logs:
+        Outputs error messages via the logging module if scraping fails.
     """
 
     roster = get_team_roster(page, team_id, team_slug, season_year)
@@ -357,10 +373,10 @@ def scrape_team_matches(page, team_id, team_slug, season_year, delay=1.0):
         full_df = pd.concat(all_matches, ignore_index=True)
         os.makedirs(f"data/raw/team_results/{team_slug.replace("-", "_")}", exist_ok=True)
         full_df.to_csv(f"data/raw/team_results/{team_slug.replace("-", "_")}/{season_year}_{team_slug}.csv", index=False)
-        print(f"Saved {len(full_df)} matches to {season_year}_{team_slug}.csv")
+        logging.info(f"Saved {len(full_df)} matches to {season_year}_{team_slug}.csv")
         return full_df
     else:
-        print(f"No match data found for team {team_slug}.")
+        logging.warning(f"No match data found for team {team_slug}.")
         return None
 
 def scrape_team_for_season(team_id, team_slug, season_year):
@@ -382,10 +398,8 @@ def scrape_team_for_season(team_id, team_slug, season_year):
         A pandas DataFrame containing the match results for the given team and season,
         or None if the team fails to scrape or an error occurs.
 
-    Raises:
-        Prints an error message if the scraping process fails due to issues such as
-        page navigation failures, invalid credentials, or unexpected HTML structure.
-        Errors are caught and logged; no exceptions are propagated.
+    Logs:
+        Outputs error messages via the logging module if login, navigation, or scraping fails.
     """
 
     try:
@@ -398,7 +412,7 @@ def scrape_team_for_season(team_id, team_slug, season_year):
             browser.close()
             return df
     except Exception as e:
-        print(f"❌ Error scraping {team_slug} for {season_year}: {e}")
+        logging.error(f"Error scraping {team_slug} for {season_year}: {e}")
         return None
 
 def scrape_all_d1_teams(max_workers=5):
@@ -420,10 +434,8 @@ def scrape_all_d1_teams(max_workers=5):
     Returns:
         None. Writes season-level and full datasets to disk as CSV files.
 
-    Raises:
-        Prints error messages for individual teams or seasons if scraping fails due to issues 
-        such as timeouts, login failure, unexpected HTML structure, or Playwright/browser 
-        initialization errors. All exceptions are caught and logged to allow uninterrupted scraping.
+    Logs:
+        Outputs error messages via the logging module if navigation or scraping fails.
     """
 
     load_dotenv()
@@ -469,7 +481,7 @@ def scrape_all_d1_teams(max_workers=5):
 
     # Full scraping loop for all seasons
     for season_year in range(2014, 2026):
-        print(f"\n==== Scraping {season_year-1}-{season_year} Season ====")
+        logging.info(f"==== Scraping {season_year-1}-{season_year} Season ====")
         season_data = []
 
         # Use ThreadPoolExecutor to scrape teams in parallel
@@ -478,7 +490,7 @@ def scrape_all_d1_teams(max_workers=5):
             for team_id, team_slug in teams:
                 # Check team activity for the season
                 if team_slug in activity_map and season_year not in activity_map[team_slug]:
-                    print(f"Skipping {team_slug} for {season_year} (inactive)")
+                    logging.debug(f"Skipping {team_slug} for {season_year} (inactive)")
                     continue
                 futures.append(executor.submit(scrape_team_for_season, team_id, team_slug, season_year))
 
@@ -493,17 +505,17 @@ def scrape_all_d1_teams(max_workers=5):
             season_df = pd.concat(season_data, ignore_index=True)
             os.makedirs("data/raw/year_results", exist_ok=True)
             season_df.to_csv(f"data/raw/year_results/{season_year}_matches.csv", index=False)
-            print(f"✅ Saved {len(season_df)} matches for {season_year}")
+            logging.info(f"Saved {len(season_df)} matches for {season_year}")
         else:
-            print(f"⚠️ No data collected for {season_year}")
+            logging.warning(f"No data collected for {season_year}")
 
     # Save the full dataset across all seasons to a CSV file
     if all_data:
         full_df = pd.concat(all_data, ignore_index=True)
         full_df.to_csv("data/raw/d1_match_results.csv", index=False)
-        print(f"\n🎉 Saved full dataset with {len(full_df)} matches to d1_match_results.csv")
+        logging.info(f"Saved full dataset with {len(full_df)} matches to d1_match_results.csv")
     else:
-        print("❌ No match data collected across all seasons.")
+        logging.error("No match data collected across all seasons.")
 
 if __name__ == "__main__":
     scrape_all_d1_teams(max_workers=10)
