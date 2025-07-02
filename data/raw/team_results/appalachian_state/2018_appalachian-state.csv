@@ -1,0 +1,567 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2018,03/03,SoCon Championships,125,W,FALL,6:21,Cliff Conway,50304,VMI,De'Andre Swinson,50576,Appalachian State
+2018,03/03,SoCon Championships,125,W,INJ,7:00,Korbin Meink,49074,Campbell,De'Andre Swinson,50576,Appalachian State
+2018,03/03,SoCon Championships,125,L,DEC,9 - 5,Alonzo Allen,19765,Chattanooga,De'Andre Swinson,50576,Appalachian State
+2018,02/18,Appalachian State - The Citadel Dual,125,W,FALL,2:13,William Jacobs,51363,The Citadel,De'Andre Swinson,50576,Appalachian State
+2018,02/08,Duke - Appalachian State Dual,125,L,DEC,4 - 2,Thayer Atkins,19857,Duke,De'Andre Swinson,50576,Appalachian State
+2018,02/04,Appalachian State - Chattanooga Dual,125,L,DEC,3 - 1,Alonzo Allen,19765,Chattanooga,De'Andre Swinson,50576,Appalachian State
+2018,01/31,VMI - Appalachian State Dual,125,W,FALL,2:56,James Milstead,51300,VMI,De'Andre Swinson,50576,Appalachian State
+2018,01/25,Campbell - Appalachian State Dual,125,L,DEC,8 - 6,Korbin Meink,49074,Campbell,De'Andre Swinson,50576,Appalachian State
+2018,01/21,Southern Illinois Edwardsville - Appalachian State Dual,125,L,DEC,3 - 1,Zach Gentzler,41461,SIU Edwardsville,De'Andre Swinson,50576,Appalachian State
+2018,01/06,Franklin & Marshall Open,125,L,DEC,3 - 2,Sam Book,49332,Virginia,De'Andre Swinson,50576,Appalachian State
+2018,01/06,Franklin & Marshall Open,125,W,DEC,5 - 1,Lukus Stricker,49139,Harvard,De'Andre Swinson,50576,Appalachian State
+2018,01/06,Franklin & Marshall Open,125,W,FALL,3:57,Michael McClelland,49116,Davidson,De'Andre Swinson,50576,Appalachian State
+2018,01/06,Franklin & Marshall Open,125,W,MFOR,0 - 0,Aaron Wildonger,47811,Millersville,De'Andre Swinson,50576,Appalachian State
+2018,01/06,Franklin & Marshall Open,125,L,DEC,8 - 5,Justin Patrick,39587,Buffalo,De'Andre Swinson,50576,Appalachian State
+2018,12/17,Appalachian State - Oklahoma Dual,125,L,DEC,6 - 3,Christian Moody,39746,Oklahoma,De'Andre Swinson,50576,Appalachian State
+2018,12/10,North Carolina State - Appalachian State Dual,125,L,FALL,2:19,Tommy Cox,44623,NC State,De'Andre Swinson,50576,Appalachian State
+2018,12/02,Appalachian State - Ohio Dual,125,W,DEC,7 - 2,Coleton Chase,45558,Ohio,De'Andre Swinson,50576,Appalachian State
+2018,11/26,Appalachian State - North Carolina Dual,125,L,MD,12 - 3,Dalton Macri,42225,North Carolina,De'Andre Swinson,50576,Appalachian State
+2018,11/19,Keystone Classic,125,L,DEC,9 - 4,Lukus Stricker,49139,Harvard,De'Andre Swinson,50576,Appalachian State
+2018,11/19,Keystone Classic,125,L,DEC,3 - 0,Thayer Atkins,19857,Duke,De'Andre Swinson,50576,Appalachian State
+2018,11/05,Hokie Open,125,L,DEC,7 - 5,Cliff Conway,50304,VMI,De'Andre Swinson,50576,Appalachian State
+2018,11/05,Hokie Open,125,L,FALL,4:51,Coleton Chase,45558,Ohio,De'Andre Swinson,50576,Appalachian State
+2018,11/11,Appalachian State - Davidson Dual,125,W,FALL,0:46,Michael McClelland,49116,Davidson,Logan Durham,40399,Appalachian State
+2018,11/11,Bloomsburg - Appalachian State Dual,125,L,TF5,16 - 0 4:07,Willy Girard,45191,Bloomsburg,Logan Durham,40399,Appalachian State
+2018,11/05,Hokie Open,125,L,FALL,2:21,Charles Kearney,40372,The Citadel,Logan Durham,40399,Appalachian State
+2018,11/05,Hokie Open,125,L,DEC,13 - 9,Trey Chalifoux,44745,Army West Point,Logan Durham,40399,Appalachian State
+2018,01/27,Appalachian Open,125,L,DEC,7 - 5,Joey Thomas,51008,West Virginia,Andy Richard,50050,Appalachian State
+2018,01/27,Appalachian Open,125,W,DEC,8 - 4,Trevor Edwards,50850,NC State,Andy Richard,50050,Appalachian State
+2018,01/27,Appalachian Open,125,L,FALL,4:47,Fabian Gutierrez,45245,Chattanooga,Andy Richard,50050,Appalachian State
+2018,01/01,Southern Scuffle,125,L,DEC,5 - 1,Luke Resnick,51027,Lehigh,Andy Richard,50050,Appalachian State
+2018,01/01,Southern Scuffle,125,L,MD,14 - 4,Michael Johnson,44962,Northern Colorado,Andy Richard,50050,Appalachian State
+2018,12/16,Cleveland State Open,125,W,DEC,5 - 4,Cody Moosman,49103,Cleveland State,Andy Richard,50050,Appalachian State
+2018,12/16,Cleveland State Open,125,L,TF5,19 - 4 7:00,Sam Book,49332,Virginia,Andy Richard,50050,Appalachian State
+2018,12/16,Cleveland State Open,125,W,MFOR,0 - 0,Brady Koontz,50853,Ohio State,Andy Richard,50050,Appalachian State
+2018,12/16,Cleveland State Open,125,L,DEC,6 - 4,Jack Medley,51392,Michigan,Andy Richard,50050,Appalachian State
+2018,11/19,Wolfpack Open,125,L,MD,11 - 2,TJ Hicks,50948,Chattanooga,Andy Richard,50050,Appalachian State
+2018,11/19,Wolfpack Open,125,L,FALL,2:00,Charlie Lenox,45032,NC State,Andy Richard,50050,Appalachian State
+2018,11/05,Hokie Open,125,L,DEC,6 - 5,Cliff Conway,50304,VMI,Gavin Hutchens,50208,Appalachian State
+2018,11/05,Hokie Open,125,L,DEC,4 - 2,Keegan Duncan,45576,Gardner-Webb,Gavin Hutchens,50208,Appalachian State
+2018,03/03,SoCon Championships,133,W,TF5,18 - 1 4:10,Nicholas Long,51367,The Citadel,Codi Russell,51113,Appalachian State
+2018,03/03,SoCon Championships,133,W,DEC,11 - 5,Chris Debien,39720,Chattanooga,Codi Russell,51113,Appalachian State
+2018,03/03,SoCon Championships,133,L,DEC,5 - 4,John Muldoon,20384,SIU Edwardsville,Codi Russell,51113,Appalachian State
+2018,02/08,Duke - Appalachian State Dual,133,L,DEC,10 - 8,Josh Finesilver,46112,Duke,Codi Russell,51113,Appalachian State
+2018,02/04,Appalachian State - Chattanooga Dual,133,W,FALL,4:12,Chris Debien,39720,Chattanooga,Codi Russell,51113,Appalachian State
+2018,01/31,VMI - Appalachian State Dual,133,W,MD,11 - 1,Hunter Starner,20701,VMI,Codi Russell,51113,Appalachian State
+2018,01/25,Campbell - Appalachian State Dual,133,W,SV-1,10 - 8,Nathan Boston,19956,Campbell,Codi Russell,51113,Appalachian State
+2018,01/21,Southern Illinois Edwardsville - Appalachian State Dual,133,L,DEC,6 - 5,John Muldoon,20384,SIU Edwardsville,Codi Russell,51113,Appalachian State
+2018,01/10,Appalachian State - Gardner-Webb Dual,133,W,SV-1,6 - 4,Philip Anderson,22000,Gardner-Webb,Codi Russell,51113,Appalachian State
+2018,01/06,Franklin & Marshall Open,133,W,MD,16 - 3,Braeden Alevizatos,51170,Maryland,Codi Russell,51113,Appalachian State
+2018,01/06,Franklin & Marshall Open,133,L,TF5,16 - 0 7:00,Nick Lattanze,44760,Brown,Codi Russell,51113,Appalachian State
+2018,01/06,Franklin & Marshall Open,133,W,TF5,16 - 0 7:00,Victor Echeverria,44650,George Mason,Codi Russell,51113,Appalachian State
+2018,01/06,Franklin & Marshall Open,133,W,DEC,8 - 2,Ezekiel Salvo,22497,Brown,Codi Russell,51113,Appalachian State
+2018,12/17,Appalachian State - Oklahoma Dual,133,L,MD,17 - 7,Jacob Rubio,20816,Oklahoma,Codi Russell,51113,Appalachian State
+2018,12/10,North Carolina State - Appalachian State Dual,133,L,DEC,8 - 2,Tariq Wilson,44862,NC State,Codi Russell,51113,Appalachian State
+2018,12/02,Appalachian State - Ohio Dual,133,L,TF5,22 - 5 7:00,Cameron Kelly,39687,Ohio,Codi Russell,51113,Appalachian State
+2018,11/26,Appalachian State - North Carolina Dual,133,L,DEC,6 - 3,Zach Sherman,49216,North Carolina,Codi Russell,51113,Appalachian State
+2018,11/19,Keystone Classic,133,L,FALL,0:56,Austin DeSanto,49117,Drexel,Codi Russell,51113,Appalachian State
+2018,11/19,Keystone Classic,133,L,FALL,4:29,Wil Gil,51024,Franklin & Marshall,Codi Russell,51113,Appalachian State
+2018,11/11,Appalachian State - Davidson Dual,133,W,TF5,25 - 10 6:43,Zamir Ode,40334,Davidson,Codi Russell,51113,Appalachian State
+2018,11/11,Bloomsburg - Appalachian State Dual,133,L,MD,15 - 6,Andy Schutz,19678,Bloomsburg,Codi Russell,51113,Appalachian State
+2018,11/05,Hokie Open,133,W,MD,18 - 4,Zach Clary,51355,Newberry,Codi Russell,51113,Appalachian State
+2018,11/05,Hokie Open,133,L,MD,13 - 2,Cole Manley,49337,Virginia Tech,Codi Russell,51113,Appalachian State
+2018,11/05,Hokie Open,133,W,TF5,24 - 6 6:20,Ryan Haskett,40361,Virginia Tech,Codi Russell,51113,Appalachian State
+2018,11/05,Hokie Open,133,L,TF5,17 - 0 4:17,Dom Latona,45115,Virginia Tech,Codi Russell,51113,Appalachian State
+2018,01/27,Appalachian Open,133,W,MFOR,0 - 0,Danielle Sanders,53653,UNC Pembroke,Patrick Washington,45406,Appalachian State
+2018,01/27,Appalachian Open,133,L,MD,14 - 6,Colton Landers,50949,Chattanooga,Patrick Washington,45406,Appalachian State
+2018,01/27,Appalachian Open,133,L,TF5,17 - 1 2:54,Kellen Devlin,44615,NC State,Patrick Washington,45406,Appalachian State
+2018,11/19,Wolfpack Open,133,L,DEC,5 - 2,John Devine,50851,NC State,Patrick Washington,45406,Appalachian State
+2018,11/19,Wolfpack Open,133,L,MD,14 - 2,Tariq Wilson,44862,NC State,Patrick Washington,45406,Appalachian State
+2018,11/05,Hokie Open,133,L,DEC,2 - 1,Brandon Bright,51345,Gardner-Webb,Patrick Washington,45406,Appalachian State
+2018,11/05,Hokie Open,133,W,DEC,5 - 1,John Devine,50851,NC State,Patrick Washington,45406,Appalachian State
+2018,11/05,Hokie Open,133,W,FALL,2:38,Jacob Mills,51319,VMI,Patrick Washington,45406,Appalachian State
+2018,11/05,Hokie Open,133,L,MD,14 - 1,John Burger,51348,Limestone,Patrick Washington,45406,Appalachian State
+2018,11/05,Hokie Open,133,L,DEC,15 - 11,John Burger,51348,Limestone,Miles Grier,50164,Appalachian State
+2018,11/05,Hokie Open,133,W,DEC,6 - 5,Emery Cline,40653,Emmanuel,Miles Grier,50164,Appalachian State
+2018,11/05,Hokie Open,133,L,TF5,17 - 2 7:00,Dom Latona,45115,Virginia Tech,Miles Grier,50164,Appalachian State
+2018,03/15,NCAA Championships,141,L,TF5,16 - 0 5:46,Kyle Shoop,39682,Lock Haven,Irvin Enriquez,40401,Appalachian State
+2018,03/15,NCAA Championships,141,L,DEC,9 - 6,Nicholas Gil,40255,Navy,Irvin Enriquez,40401,Appalachian State
+2018,03/03,SoCon Championships,141,W,MD,14 - 3,Jonathan Ryan,40425,Campbell,Irvin Enriquez,40401,Appalachian State
+2018,03/03,SoCon Championships,141,W,MD,11 - 2,Dakota Leach,13281,SIU Edwardsville,Irvin Enriquez,40401,Appalachian State
+2018,03/03,SoCon Championships,141,W,DEC,3 - 1,Michael Pongracz,11726,Chattanooga,Irvin Enriquez,40401,Appalachian State
+2018,02/18,Appalachian State - The Citadel Dual,141,L,FALL,3:31,Douglas Gudenburr,45587,The Citadel,Irvin Enriquez,40401,Appalachian State
+2018,02/08,Duke - Appalachian State Dual,141,W,FALL,1:00,Jeremiah Reitz,49123,Duke,Irvin Enriquez,40401,Appalachian State
+2018,02/04,Appalachian State - Chattanooga Dual,141,L,MD,9 - 1,Michael Pongracz,11726,Chattanooga,Irvin Enriquez,40401,Appalachian State
+2018,01/31,VMI - Appalachian State Dual,141,W,FALL,1:15,Michael Hulcher,20697,VMI,Irvin Enriquez,40401,Appalachian State
+2018,01/25,Campbell - Appalachian State Dual,141,L,DEC,10 - 5,Jonathan Ryan,40425,Campbell,Irvin Enriquez,40401,Appalachian State
+2018,01/21,Southern Illinois Edwardsville - Appalachian State Dual,141,W,DEC,8 - 4,Dakota Leach,13281,SIU Edwardsville,Irvin Enriquez,40401,Appalachian State
+2018,01/10,Appalachian State - Gardner-Webb Dual,141,W,DEC,10 - 3,Denton Spencer,49134,Gardner-Webb,Irvin Enriquez,40401,Appalachian State
+2018,01/01,Southern Scuffle,141,W,TF5,19 - 3 6:31,Jeremiah Reitz,49123,Duke,Irvin Enriquez,40401,Appalachian State
+2018,01/01,Southern Scuffle,141,W,DEC,4 - 0,Sam Martino,45237,Virginia,Irvin Enriquez,40401,Appalachian State
+2018,01/01,Southern Scuffle,141,L,DEC,6 - 3,Nicholas Gil,40255,Navy,Irvin Enriquez,40401,Appalachian State
+2018,01/01,Southern Scuffle,141,L,DEC,4 - 0,Garrett O'Shea,44711,Air Force,Irvin Enriquez,40401,Appalachian State
+2018,12/17,Appalachian State - Oklahoma Dual,141,L,DEC,8 - 6,Michael Longo,19624,Oklahoma,Irvin Enriquez,40401,Appalachian State
+2018,12/10,North Carolina State - Appalachian State Dual,141,L,MD,15 - 3,Kevin Jack,20130,NC State,Irvin Enriquez,40401,Appalachian State
+2018,12/02,Appalachian State - Ohio Dual,141,W,DEC,11 - 6,Alec Hagan,49248,Ohio,Irvin Enriquez,40401,Appalachian State
+2018,11/26,Appalachian State - North Carolina Dual,141,L,MD,18 - 6,AC Headlee,39627,North Carolina,Irvin Enriquez,40401,Appalachian State
+2018,11/19,Keystone Classic,141,W,FALL,3:24,Anthony Patsy,52040,Pennsylvania,Irvin Enriquez,40401,Appalachian State
+2018,11/19,Keystone Classic,141,L,DEC,8 - 6,Julian Flores,44791,Drexel,Irvin Enriquez,40401,Appalachian State
+2018,11/19,Keystone Classic,141,L,DEC,9 - 8,Alec McKenna,39584,Northwestern,Irvin Enriquez,40401,Appalachian State
+2018,11/11,Appalachian State - Davidson Dual,141,W,DEC,5 - 1,Dustin Runzo,19843,Davidson,Irvin Enriquez,40401,Appalachian State
+2018,11/11,Bloomsburg - Appalachian State Dual,141,W,MD,9 - 1,Braden Stahlnecker,51046,Bloomsburg,Irvin Enriquez,40401,Appalachian State
+2018,11/05,Hokie Open,141,W,DEC,6 - 4,Austin Harry,22478,Army West Point,Irvin Enriquez,40401,Appalachian State
+2018,11/05,Hokie Open,141,W,DEC,7 - 6,Jaime Hernandez,49213,North Carolina,Irvin Enriquez,40401,Appalachian State
+2018,11/05,Hokie Open,141,W,MD,16 - 5,Nicholas Lirette,44921,North Carolina,Irvin Enriquez,40401,Appalachian State
+2018,11/05,Hokie Open,141,W,MD,12 - 4,Landon LoAlbo,20795,Gardner-Webb,Irvin Enriquez,40401,Appalachian State
+2018,11/05,Hokie Open,141,L,MD,10 - 0,Michael Pongracz,11726,Chattanooga,Irvin Enriquez,40401,Appalachian State
+2018,01/27,Appalachian Open,141,W,DEC,5 - 3,Aiden Murphy,50950,Chattanooga,John Millner,50212,Appalachian State
+2018,01/27,Appalachian Open,141,L,FALL,6:01,Caden Darber,50898,Virginia Tech,John Millner,50212,Appalachian State
+2018,01/27,Appalachian Open,141,L,DEC,8 - 4,Clayton Currier,50235,Campbell,John Millner,50212,Appalachian State
+2018,12/16,Cleveland State Open,141,L,FALL,2:45,Nick Henneman,49160,Kent State,John Millner,50212,Appalachian State
+2018,12/16,Cleveland State Open,141,W,MD,11 - 3,PJ Gohn,51063,Edinboro,John Millner,50212,Appalachian State
+2018,12/16,Cleveland State Open,141,W,FALL,4:25,Kyle Hennig,51056,Cleveland State,John Millner,50212,Appalachian State
+2018,12/16,Cleveland State Open,141,L,TF5,19 - 4 7:00,Jake Newhouse,39946,Kent State,John Millner,50212,Appalachian State
+2018,12/16,Cleveland State Open,141,W,DEC,10 - 5,Landon LoAlbo,20795,Gardner-Webb,John Millner,50212,Appalachian State
+2018,12/16,Cleveland State Open,141,W,DEC,7 - 0,Brendan Fitzgerald,45202,Ohio State,John Millner,50212,Appalachian State
+2018,11/19,Wolfpack Open,141,L,TF5,15 - 0 3:38,Denton Spencer,49134,Gardner-Webb,John Millner,50212,Appalachian State
+2018,11/19,Wolfpack Open,141,W,SV-1,7 - 6,Nicholas Lirette,44921,North Carolina,John Millner,50212,Appalachian State
+2018,11/19,Wolfpack Open,141,L,DEC,4 - 3,Isiah Royal,51307,Newberry,John Millner,50212,Appalachian State
+2018,11/19,Wolfpack Open,141,W,MD,14 - 2,Mason Wohltman,49267,Old Dominion,John Millner,50212,Appalachian State
+2018,11/19,Wolfpack Open,141,W,FALL,2:15,Dominick Forest,52195,St Andrews,John Millner,50212,Appalachian State
+2018,11/05,Hokie Open,141,L,MD,11 - 3,Taylor Brown,51326,Army West Point,John Millner,50212,Appalachian State
+2018,11/05,Hokie Open,141,W,FALL,1:53,Mason Wohltman,49267,Old Dominion,John Millner,50212,Appalachian State
+2018,11/05,Hokie Open,141,W,FALL,4:25,Brandon Ramos,49270,Old Dominion,John Millner,50212,Appalachian State
+2018,11/05,Hokie Open,141,W,MD,14 - 4,Bryan Flores-Garcia,53220,King,John Millner,50212,Appalachian State
+2018,11/05,Hokie Open,141,L,DEC,4 - 3,Brent Moore,44666,Virginia Tech,John Millner,50212,Appalachian State
+2018,01/27,Appalachian Open,141,W,DEC,4 - 3,Billy Benfield,55408,Unattached,Anthony Brito,49035,Appalachian State
+2018,01/27,Appalachian Open,141,L,TB-2,4 - 1,Aiden Murphy,50950,Chattanooga,Anthony Brito,49035,Appalachian State
+2018,01/27,Appalachian Open,141,L,DEC,8 - 2,Kyran Hagan,49247,Ohio,Anthony Brito,49035,Appalachian State
+2018,01/27,Appalachian Open,141,W,DEC,4 - 1,Nicholas Lirette,44921,North Carolina,Anthony Brito,49035,Appalachian State
+2018,01/27,Appalachian Open,141,W,DEC,9 - 2,Logan Sims,44657,Unattached,Anthony Brito,49035,Appalachian State
+2018,12/16,Cleveland State Open,141,L,DEC,3 - 2,Michael Venosa,52043,Spartan Combat RTC,Anthony Brito,49035,Appalachian State
+2018,12/16,Cleveland State Open,141,W,DEC,3 - 1,Sam Matzek,41219,Cleveland State,Anthony Brito,49035,Appalachian State
+2018,12/16,Cleveland State Open,141,L,SV-1,3 - 1,Landon LoAlbo,20795,Gardner-Webb,Anthony Brito,49035,Appalachian State
+2018,12/16,Cleveland State Open,141,W,DEC,7 - 2,Dallas Roemer,20803,Gardner-Webb,Anthony Brito,49035,Appalachian State
+2018,11/19,Wolfpack Open,141,L,DEC,3 - 2,Aiden Murphy,50950,Chattanooga,Anthony Brito,49035,Appalachian State
+2018,11/19,Wolfpack Open,141,L,SV-1,4 - 2,Caden Darber,50898,Virginia Tech,Anthony Brito,49035,Appalachian State
+2018,11/05,Hokie Open,141,W,MD,12 - 3,Brandon Ramos,49270,Old Dominion,Anthony Brito,49035,Appalachian State
+2018,11/05,Hokie Open,141,W,MD,17 - 6,Timmy Martinez,42840,Newberry,Anthony Brito,49035,Appalachian State
+2018,11/05,Hokie Open,141,L,DEC,11 - 8,Moises Guillen,49249,Ohio,Anthony Brito,49035,Appalachian State
+2018,11/05,Hokie Open,141,L,FALL,1:33,Andrew Mehrholz,45163,Virginia Tech,Anthony Brito,49035,Appalachian State
+2018,11/05,Hokie Open,141,W,DEC,6 - 0,Parker Walton,44787,Duke,Anthony Brito,49035,Appalachian State
+2018,11/05,Hokie Open,141,W,DEC,7 - 1,Adrian Davenport,51356,UNC Pembroke,Cody Bond,50267,Appalachian State
+2018,11/05,Hokie Open,141,L,FALL,2:13,Alec Hagan,49248,Ohio,Cody Bond,50267,Appalachian State
+2018,11/05,Hokie Open,141,L,DEC,6 - 2,Aiden Murphy,50950,Chattanooga,Cody Bond,50267,Appalachian State
+2018,03/03,SoCon Championships,149,W,FALL,3:00,Kevin Keaveney,45415,VMI,Gavin Londoff,44823,Appalachian State
+2018,03/03,SoCon Championships,149,L,SV-1,3 - 1,Tyshawn Williams,40203,SIU Edwardsville,Gavin Londoff,44823,Appalachian State
+2018,03/03,SoCon Championships,149,W,TB-1,4 - 2,Ty Buckiso,20399,The Citadel,Gavin Londoff,44823,Appalachian State
+2018,02/18,Appalachian State - The Citadel Dual,149,W,MD,15 - 4,Ethan Phillips,51220,The Citadel,Gavin Londoff,44823,Appalachian State
+2018,02/08,Duke - Appalachian State Dual,149,W,MD,14 - 5,Brandon Leynaud,42790,Duke,Gavin Londoff,44823,Appalachian State
+2018,02/04,Appalachian State - Chattanooga Dual,149,L,SV-1,4 - 2,Roman Boylen,39818,Chattanooga,Gavin Londoff,44823,Appalachian State
+2018,01/31,VMI - Appalachian State Dual,149,W,TF5,15 - 0 3:27,Kevin Keaveney,45415,VMI,Gavin Londoff,44823,Appalachian State
+2018,01/25,Campbell - Appalachian State Dual,149,W,DEC,5 - 4,Zach Barnes,49073,Campbell,Gavin Londoff,44823,Appalachian State
+2018,01/21,Southern Illinois Edwardsville - Appalachian State Dual,149,W,SV-1,6 - 4,Tyshawn Williams,40203,SIU Edwardsville,Gavin Londoff,44823,Appalachian State
+2018,01/10,Appalachian State - Gardner-Webb Dual,149,W,MD,15 - 2,Joby Armenta,20791,Gardner-Webb,Gavin Londoff,44823,Appalachian State
+2018,01/06,Franklin & Marshall Open,149,W,MD,9 - 0,PJ Gohn,51063,Edinboro,Gavin Londoff,44823,Appalachian State
+2018,01/06,Franklin & Marshall Open,149,W,MD,12 - 2,PJ Gohn,51063,Edinboro,Gavin Londoff,44823,Appalachian State
+2018,01/06,Franklin & Marshall Open,149,W,SV-1,3 - 1,Frank Garcia,41394,Binghamton,Gavin Londoff,44823,Appalachian State
+2018,01/06,Franklin & Marshall Open,149,L,DEC,8 - 2,Ryan Blees,20267,Virginia Tech,Gavin Londoff,44823,Appalachian State
+2018,01/06,Franklin & Marshall Open,149,W,DEC,6 - 2,Alex Harnsberger,11787,Sacred Heart,Gavin Londoff,44823,Appalachian State
+2018,12/17,Appalachian State - Oklahoma Dual,149,L,DEC,2 - 1,Davion Jeffries,39653,Oklahoma,Gavin Londoff,44823,Appalachian State
+2018,12/10,North Carolina State - Appalachian State Dual,149,L,DEC,6 - 3,Beau Donahue,11933,NC State,Gavin Londoff,44823,Appalachian State
+2018,12/02,Appalachian State - Ohio Dual,149,L,DEC,4 - 2,Kade Kowalski,41852,Ohio,Gavin Londoff,44823,Appalachian State
+2018,11/26,Appalachian State - North Carolina Dual,149,L,DEC,6 - 1,Troy Heilmann,12036,North Carolina,Gavin Londoff,44823,Appalachian State
+2018,11/19,Keystone Classic,149,W,MD,9 - 1,Carl Antrassian,45263,Pennsylvania,Gavin Londoff,44823,Appalachian State
+2018,11/19,Keystone Classic,149,L,DEC,3 - 1,Trevor Elfvin,51017,Drexel,Gavin Londoff,44823,Appalachian State
+2018,11/19,Keystone Classic,149,W,DEC,5 - 3,Gary Dinmore,23397,Rider,Gavin Londoff,44823,Appalachian State
+2018,11/19,Keystone Classic,149,W,MD,12 - 0,Brandon Leynaud,42790,Duke,Gavin Londoff,44823,Appalachian State
+2018,11/19,Keystone Classic,149,L,DEC,4 - 1,Luke Gardner,44743,Penn State,Gavin Londoff,44823,Appalachian State
+2018,11/11,Appalachian State - Davidson Dual,149,W,MD,12 - 1,Will Baldwin,50967,Davidson,Gavin Londoff,44823,Appalachian State
+2018,11/11,Bloomsburg - Appalachian State Dual,149,W,MD,10 - 1,Evan Campbell,51047,Bloomsburg,Gavin Londoff,44823,Appalachian State
+2018,11/05,Hokie Open,149,L,TB-2,2 - 1,Troy Heilmann,12036,North Carolina,Gavin Londoff,44823,Appalachian State
+2018,11/05,Hokie Open,149,W,DEC,3 - 2,Josh Heil,45100,Campbell,Gavin Londoff,44823,Appalachian State
+2018,11/05,Hokie Open,149,W,TB-2,4 - 3,Austin O'Connor,49214,North Carolina,Gavin Londoff,44823,Appalachian State
+2018,11/05,Hokie Open,149,W,MD,8 - 0,Brandon Leynaud,42790,Duke,Gavin Londoff,44823,Appalachian State
+2018,11/05,Hokie Open,149,W,DEC,6 - 2,Aidan Conroy,39860,Davidson,Gavin Londoff,44823,Appalachian State
+2018,02/25,National Collegiate Open,157,W,DEC,7 - 2,Jake Brindley,49109,Spartan Combat RTC,Matthew Zovistoski,40049,Appalachian State
+2018,02/25,National Collegiate Open,157,W,MD,11 - 0,Chase DeMaille,51165,Maryland,Matthew Zovistoski,40049,Appalachian State
+2018,02/25,National Collegiate Open,157,W,DEC,6 - 0,Jon Errico,45265,Pennsylvania,Matthew Zovistoski,40049,Appalachian State
+2018,02/25,National Collegiate Open,157,W,DEC,6 - 1,Beau Guffey,45643,Army West Point,Matthew Zovistoski,40049,Appalachian State
+2018,02/25,National Collegiate Open,157,W,DEC,9 - 2,James Saylor,45641,Army West Point,Matthew Zovistoski,40049,Appalachian State
+2018,01/27,Appalachian Open,157,L,DEC,8 - 3,Laken Cook,45408,Appalachian State,Matthew Zovistoski,40049,Appalachian State
+2018,01/27,Appalachian Open,157,W,DEC,7 - 3,Diavantae Reddick,50253,Campbell,Matthew Zovistoski,40049,Appalachian State
+2018,01/27,Appalachian Open,157,W,DEC,6 - 3,Trey Watson,42896,Chattanooga,Matthew Zovistoski,40049,Appalachian State
+2018,01/27,Appalachian Open,157,W,DEC,6 - 3,Miller Clark,42795,Appalachian State,Matthew Zovistoski,40049,Appalachian State
+2018,01/01,Southern Scuffle,149,L,FALL,1:03,Jake Keating,50315,Virginia,Matthew Zovistoski,40049,Appalachian State
+2018,01/01,Southern Scuffle,149,L,DEC,10 - 8,Kalani Tonge,45324,CSU Bakersfield,Matthew Zovistoski,40049,Appalachian State
+2018,12/16,Cleveland State Open,149,W,DEC,7 - 3,Nolan Saxton,49081,Central Michigan,Matthew Zovistoski,40049,Appalachian State
+2018,12/16,Cleveland State Open,149,W,MD,15 - 5,Nick Palumbo,49068,Buffalo,Matthew Zovistoski,40049,Appalachian State
+2018,12/16,Cleveland State Open,149,L,MD,13 - 4,Tanner Smith,49129,Eastern Michigan,Matthew Zovistoski,40049,Appalachian State
+2018,12/16,Cleveland State Open,149,W,FALL,5:00,Brodie Zacherl,19789,Clarion,Matthew Zovistoski,40049,Appalachian State
+2018,12/16,Cleveland State Open,149,W,FALL,4:57,Jude Mattocks,51252,Mercyhurst Northeast,Matthew Zovistoski,40049,Appalachian State
+2018,12/16,Cleveland State Open,149,W,MD,12 - 0,Riley Barth,40348,Pittsburgh,Matthew Zovistoski,40049,Appalachian State
+2018,11/19,Wolfpack Open,149,W,DEC,10 - 5,Jake Keating,50315,Virginia,Matthew Zovistoski,40049,Appalachian State
+2018,11/19,Wolfpack Open,149,W,DEC,7 - 3,Taylor Ortz,40103,Clarion,Matthew Zovistoski,40049,Appalachian State
+2018,11/19,Wolfpack Open,149,W,MD,11 - 3,Jake DeAngelo,20554,NC State,Matthew Zovistoski,40049,Appalachian State
+2018,11/19,Wolfpack Open,149,W,MD,11 - 3,Bayne Gordon,49137,George Mason,Matthew Zovistoski,40049,Appalachian State
+2018,11/19,Wolfpack Open,149,W,DEC,9 - 2,Garrett Burnham,51168,Maryland,Matthew Zovistoski,40049,Appalachian State
+2018,11/19,Wolfpack Open,149,L,DEC,6 - 2,Matthew Ontiveros,20417,Utah Valley,Matthew Zovistoski,40049,Appalachian State
+2018,11/05,Hokie Open,149,W,DEC,3 - 2,Josh Heil,45100,Campbell,Matthew Zovistoski,40049,Appalachian State
+2018,11/05,Hokie Open,149,L,DEC,3 - 2,Troy Heilmann,12036,North Carolina,Matthew Zovistoski,40049,Appalachian State
+2018,11/05,Hokie Open,149,W,MD,10 - 2,Sawyer Davidson,45233,North Carolina,Matthew Zovistoski,40049,Appalachian State
+2018,11/05,Hokie Open,149,W,DEC,3 - 0,Requir van der Merwe,45389,Stanford,Matthew Zovistoski,40049,Appalachian State
+2018,01/01,Southern Scuffle,141,L,FALL,5:38,Brian Courtney,49331,Virginia,Bradly Irwin,40555,Appalachian State
+2018,01/01,Southern Scuffle,141,W,MFOR,0 - 0,Denton Spencer,49134,Gardner-Webb,Bradly Irwin,40555,Appalachian State
+2018,01/01,Southern Scuffle,141,W,MFOR,0 - 0,Zach Barnes,49073,Campbell,Bradly Irwin,40555,Appalachian State
+2018,01/01,Southern Scuffle,141,L,DEC,9 - 2,Carlos Herrera,40167,CSU Bakersfield,Bradly Irwin,40555,Appalachian State
+2018,11/19,Keystone Classic,141,W,DEC,8 - 2,Jacob Lizak,44795,Pennsylvania,Bradly Irwin,40555,Appalachian State
+2018,11/19,Keystone Classic,141,W,DEC,5 - 4,Chandler Olson,49119,Drexel,Bradly Irwin,40555,Appalachian State
+2018,11/19,Keystone Classic,141,W,DEC,7 - 3,Brett Kulp,44906,Franklin & Marshall,Bradly Irwin,40555,Appalachian State
+2018,11/19,Keystone Classic,141,L,MD,15 - 3,AJ Jaffe,44752,Harvard,Bradly Irwin,40555,Appalachian State
+2018,11/19,Keystone Classic,141,L,DEC,9 - 3,Alec McKenna,39584,Northwestern,Bradly Irwin,40555,Appalachian State
+2018,11/19,Keystone Classic,141,W,TF5,16 - 0 4:08,Jeremiah Reitz,49123,Duke,Bradly Irwin,40555,Appalachian State
+2018,11/05,Hokie Open,141,L,DEC,8 - 2,Alex Madrigal,39754,Old Dominion,Bradly Irwin,40555,Appalachian State
+2018,11/05,Hokie Open,141,W,DEC,7 - 5,Nicholas Lirette,44921,North Carolina,Bradly Irwin,40555,Appalachian State
+2018,11/05,Hokie Open,141,W,DEC,3 - 1,Dominick Gallo,39739,VMI,Bradly Irwin,40555,Appalachian State
+2018,11/05,Hokie Open,141,L,TF5,16 - 0 4:14,Michael Pongracz,11726,Chattanooga,Bradly Irwin,40555,Appalachian State
+2018,01/27,Appalachian Open,157,L,DEC,3 - 1,Carl Guess,44907,Appalachian State,Miller Clark,42795,Appalachian State
+2018,01/27,Appalachian Open,157,L,DEC,6 - 3,Matthew Zovistoski,40049,Appalachian State,Miller Clark,42795,Appalachian State
+2018,01/27,Appalachian Open,157,W,DEC,4 - 2,Daniel Contraguerro,50394,Ohio,Miller Clark,42795,Appalachian State
+2018,01/27,Appalachian Open,157,W,DEC,3 - 0,Ryan Resnick,49092,Chattanooga,Miller Clark,42795,Appalachian State
+2018,11/19,Wolfpack Open,149,L,DEC,3 - 2,Sawyer Davidson,45233,North Carolina,Miller Clark,42795,Appalachian State
+2018,11/19,Wolfpack Open,149,W,DEC,8 - 4,Simon Kitzis,52197,Queens,Miller Clark,42795,Appalachian State
+2018,11/19,Wolfpack Open,149,L,TF5,16 - 0 4:23,Taylor Ortz,40103,Clarion,Miller Clark,42795,Appalachian State
+2018,11/05,Hokie Open,149,L,DEC,11 - 7,Kenan Carter,39560,Old Dominion,Miller Clark,42795,Appalachian State
+2018,11/05,Hokie Open,149,L,DEC,11 - 6,Josh Heil,45100,Campbell,Miller Clark,42795,Appalachian State
+2018,11/05,Hokie Open,149,W,SV-1,3 - 1,Jake Barry,45391,Stanford,Miller Clark,42795,Appalachian State
+2018,12/16,Cleveland State Open,149,L,FALL,1:55,Dallas Bulsak,49286,Pittsburgh,Christian Beach,45407,Appalachian State
+2018,12/16,Cleveland State Open,149,L,MD,12 - 0,Farouq Muhammed,54090,Unattached,Christian Beach,45407,Appalachian State
+2018,12/16,Cleveland State Open,149,W,FALL,0:48,Derbison Sulfranc,45944,Mercyhurst Northeast,Christian Beach,45407,Appalachian State
+2018,11/19,Wolfpack Open,149,L,FALL,4:24,Brenden Ryan,42872,Virginia Tech,Christian Beach,45407,Appalachian State
+2018,11/19,Wolfpack Open,149,L,DEC,5 - 4,Brodie Zacherl,19789,Clarion,Christian Beach,45407,Appalachian State
+2018,11/19,Wolfpack Open,149,W,DEC,8 - 7,Jake DeAngelo,20554,NC State,Christian Beach,45407,Appalachian State
+2018,11/05,Hokie Open,149,L,DEC,8 - 5,Nicholas Leitten,40779,Limestone,Christian Beach,45407,Appalachian State
+2018,11/05,Hokie Open,149,L,DEC,6 - 0,Ty Buckiso,20399,The Citadel,Christian Beach,45407,Appalachian State
+2018,11/05,Hokie Open,149,L,DEC,6 - 2,Josh Wyland,51362,VA/Southeast Regional Training,Bailey Thomas,50149,Appalachian State
+2018,11/05,Hokie Open,149,L,DEC,2 - 1,Kevin Budock,44576,Old Dominion,Bailey Thomas,50149,Appalachian State
+2018,01/27,Appalachian Open,157,L,DEC,10 - 3,Benjamin Anderson,51087,Duke,Carl Guess,44907,Appalachian State
+2018,01/27,Appalachian Open,157,W,FALL,5:40,Patrick Burton,50338,Campbell,Carl Guess,44907,Appalachian State
+2018,01/27,Appalachian Open,157,W,DEC,9 - 4,Diavantae Reddick,50253,Campbell,Carl Guess,44907,Appalachian State
+2018,01/27,Appalachian Open,157,W,DEC,8 - 6,Ryan Resnick,49092,Chattanooga,Carl Guess,44907,Appalachian State
+2018,01/27,Appalachian Open,157,W,DEC,3 - 1,Miller Clark,42795,Appalachian State,Carl Guess,44907,Appalachian State
+2018,01/27,Appalachian Open,157,L,MD,13 - 2,Jake Adcock,39652,Chattanooga,Carl Guess,44907,Appalachian State
+2018,11/19,Wolfpack Open,157,L,DEC,3 - 2,Eric Milks,20157,UNC Pembroke,Carl Guess,44907,Appalachian State
+2018,11/19,Wolfpack Open,157,W,SV-1,5 - 3,Albert Rechenmacher,45104,North Carolina,Carl Guess,44907,Appalachian State
+2018,11/19,Wolfpack Open,157,L,TF5,20 - 2 4:16,Mitch Finesilver,19861,Duke,Carl Guess,44907,Appalachian State
+2018,11/05,Hokie Open,157,L,DEC,6 - 1,Cullen Cummings,13873,Ohio,Carl Guess,44907,Appalachian State
+2018,11/05,Hokie Open,157,L,MD,17 - 3,Kennedy Monday,45025,North Carolina,Carl Guess,44907,Appalachian State
+2018,03/03,SoCon Championships,157,W,TF5,20 - 2 5:29,Ethan Phillips,51220,The Citadel,Angel Najar,40406,Appalachian State
+2018,03/03,SoCon Championships,157,L,DEC,10 - 3,Tyler Marinelli,20797,Gardner-Webb,Angel Najar,40406,Appalachian State
+2018,03/03,SoCon Championships,157,W,TF5,20 - 3 5:49,Karsten Van Velsor,13807,SIU Edwardsville,Angel Najar,40406,Appalachian State
+2018,02/18,Appalachian State - The Citadel Dual,157,W,INJ,7:00,Rian Burris,45586,The Citadel,Angel Najar,40406,Appalachian State
+2018,02/08,Duke - Appalachian State Dual,157,L,TF5,19 - 2 6:41,Mitch Finesilver,19861,Duke,Angel Najar,40406,Appalachian State
+2018,02/04,Appalachian State - Chattanooga Dual,157,W,DEC,7 - 4,Jake Adcock,39652,Chattanooga,Angel Najar,40406,Appalachian State
+2018,01/31,VMI - Appalachian State Dual,157,W,FALL,3:26,Steven Midkiff,39874,VMI,Angel Najar,40406,Appalachian State
+2018,01/25,Campbell - Appalachian State Dual,157,W,DEC,5 - 3,Austin Kraisser,44588,Campbell,Angel Najar,40406,Appalachian State
+2018,01/21,Southern Illinois Edwardsville - Appalachian State Dual,157,W,DEC,13 - 6,Karsten Van Velsor,13807,SIU Edwardsville,Angel Najar,40406,Appalachian State
+2018,01/01,Southern Scuffle,157,W,DEC,4 - 2,Keegan McCormick,39733,Missouri,Angel Najar,40406,Appalachian State
+2018,01/01,Southern Scuffle,157,L,DEC,8 - 2,Dan Reed,19818,Columbia,Angel Najar,40406,Appalachian State
+2018,01/01,Southern Scuffle,157,L,DEC,8 - 5,Austin Kraisser,44588,Campbell,Angel Najar,40406,Appalachian State
+2018,01/01,Southern Scuffle,157,W,DEC,5 - 3,John Vaughn,40905,Cleveland State,Angel Najar,40406,Appalachian State
+2018,12/16,Cleveland State Open,157,W,DEC,5 - 2,Nick Boggs,41645,Lake Erie College,Angel Najar,40406,Appalachian State
+2018,12/16,Cleveland State Open,157,W,DEC,8 - 1,Chase Archangelo,49104,Cleveland State,Angel Najar,40406,Appalachian State
+2018,12/16,Cleveland State Open,157,W,TF5,16 - 0 7:00,John Dean,51670,Clarion,Angel Najar,40406,Appalachian State
+2018,12/16,Cleveland State Open,157,W,DEC,6 - 3,Nico Odor,45039,Cleveland State,Angel Najar,40406,Appalachian State
+2018,12/16,Cleveland State Open,157,W,DEC,6 - 0,Ryan Montgomery,40191,Cleveland State,Angel Najar,40406,Appalachian State
+2018,12/16,Cleveland State Open,157,L,DEC,9 - 5,Tanner Cook,51408,Spartan Combat RTC,Angel Najar,40406,Appalachian State
+2018,12/02,Appalachian State - Ohio Dual,157,L,DEC,11 - 6,Cullen Cummings,13873,Ohio,Angel Najar,40406,Appalachian State
+2018,11/05,Hokie Open,165,W,DEC,8 - 6,Anderson Pope,15913,North Carolina,Angel Najar,40406,Appalachian State
+2018,11/05,Hokie Open,165,W,DEC,5 - 3,Zach Finesilver,19862,Duke,Angel Najar,40406,Appalachian State
+2018,11/05,Hokie Open,165,W,DEC,8 - 4,Brett Stein,12807,Gardner-Webb,Angel Najar,40406,Appalachian State
+2018,11/05,Hokie Open,165,L,DEC,9 - 3,Chad Pyke,13555,Chattanooga,Angel Najar,40406,Appalachian State
+2018,11/05,Hokie Open,165,W,DEC,8 - 4,Garrett Neff,44769,Duke,Angel Najar,40406,Appalachian State
+2018,11/05,Hokie Open,157,L,DEC,7 - 4,Beau Guffey,45643,Army West Point,Isaiah Johnson,51354,Appalachian State
+2018,11/05,Hokie Open,157,W,DEC,5 - 2,Hunter Quinn,46151,Emmanuel,Isaiah Johnson,51354,Appalachian State
+2018,11/05,Hokie Open,157,W,DEC,4 - 2,Tyler Makosy,44452,UNC Pembroke,Isaiah Johnson,51354,Appalachian State
+2018,11/05,Hokie Open,157,W,DEC,6 - 2,Isaac McMillan,45123,Army West Point,Isaiah Johnson,51354,Appalachian State
+2018,03/03,SoCon Championships,165,W,FALL,1:12,Hunter Costa,45247,Davidson,Laken Cook,45408,Appalachian State
+2018,03/03,SoCon Championships,165,L,DEC,11 - 7,Quentin Perez,40421,Campbell,Laken Cook,45408,Appalachian State
+2018,03/03,SoCon Championships,165,L,DEC,10 - 3,Quentin Perez,40421,Campbell,Laken Cook,45408,Appalachian State
+2018,03/03,SoCon Championships,165,W,DEC,8 - 4,Brett Stein,12807,Gardner-Webb,Laken Cook,45408,Appalachian State
+2018,02/18,Appalachian State - The Citadel Dual,165,W,FALL,1:50,Houston Curtis,51301,The Citadel,Laken Cook,45408,Appalachian State
+2018,02/08,Duke - Appalachian State Dual,165,L,TF5,16 - 1 5:48,Zach Finesilver,19862,Duke,Laken Cook,45408,Appalachian State
+2018,02/04,Appalachian State - Chattanooga Dual,165,L,DEC,8 - 5,Chad Pyke,13555,Chattanooga,Laken Cook,45408,Appalachian State
+2018,01/27,Appalachian Open,157,W,DEC,11 - 4,Benjamin Anderson,51087,Duke,Laken Cook,45408,Appalachian State
+2018,01/27,Appalachian Open,157,W,FALL,4:00,William Lawrence,49340,VMI,Laken Cook,45408,Appalachian State
+2018,01/27,Appalachian Open,157,W,DEC,8 - 3,Matthew Zovistoski,40049,Appalachian State,Laken Cook,45408,Appalachian State
+2018,01/27,Appalachian Open,157,W,FALL,0:36,Jake Adcock,39652,Chattanooga,Laken Cook,45408,Appalachian State
+2018,01/10,Appalachian State - Gardner-Webb Dual,157,L,DEC,4 - 1,Tyler Marinelli,20797,Gardner-Webb,Laken Cook,45408,Appalachian State
+2018,01/01,Southern Scuffle,157,W,DEC,9 - 3,Dylan Forzani,45243,Chattanooga,Laken Cook,45408,Appalachian State
+2018,01/01,Southern Scuffle,157,W,MD,9 - 0,Ricky Stamm,44699,Hofstra,Laken Cook,45408,Appalachian State
+2018,01/01,Southern Scuffle,157,W,DEC,7 - 1,Austin Kraisser,44588,Campbell,Laken Cook,45408,Appalachian State
+2018,01/01,Southern Scuffle,157,W,SV-1,6 - 4,Tyler Marinelli,20797,Gardner-Webb,Laken Cook,45408,Appalachian State
+2018,01/01,Southern Scuffle,157,L,FALL,2:16,Ian Brown,20549,Lehigh,Laken Cook,45408,Appalachian State
+2018,01/01,Southern Scuffle,157,L,DEC,4 - 0,Mitch Finesilver,19861,Duke,Laken Cook,45408,Appalachian State
+2018,01/01,Southern Scuffle,157,L,FALL,3:22,Coleman Hammond,14011,CSU Bakersfield,Laken Cook,45408,Appalachian State
+2018,12/17,Appalachian State - Oklahoma Dual,157,L,DEC,9 - 3,Justin Thomas,44882,Oklahoma,Laken Cook,45408,Appalachian State
+2018,12/10,North Carolina State - Appalachian State Dual,157,L,FALL,6:29,Hayden Hidlay,44595,NC State,Laken Cook,45408,Appalachian State
+2018,11/26,Appalachian State - North Carolina Dual,157,W,DEC,9 - 6,Kennedy Monday,45025,North Carolina,Laken Cook,45408,Appalachian State
+2018,11/19,Keystone Classic,157,W,DQ,0 - 0,David Kasper,39723,Eastern Michigan,Laken Cook,45408,Appalachian State
+2018,11/19,Keystone Classic,157,W,DEC,3 - 1,Evan Barczak,49122,Drexel,Laken Cook,45408,Appalachian State
+2018,11/19,Keystone Classic,157,L,DEC,12 - 9,Shayne Oster,44820,Northwestern,Laken Cook,45408,Appalachian State
+2018,11/19,Keystone Classic,157,W,DEC,7 - 3,Paul Klee,19638,Sacred Heart,Laken Cook,45408,Appalachian State
+2018,11/19,Keystone Classic,157,W,FALL,1:16,Steven Midkiff,39874,VMI,Laken Cook,45408,Appalachian State
+2018,11/19,Keystone Classic,157,L,FALL,1:03,Jason Nolf,20303,Penn State,Laken Cook,45408,Appalachian State
+2018,11/11,Appalachian State - Davidson Dual,157,W,MD,12 - 0,Tony Palumbo,40330,Davidson,Laken Cook,45408,Appalachian State
+2018,11/11,Bloomsburg - Appalachian State Dual,157,W,MD,11 - 2,Kevin Laubach,19674,Bloomsburg,Laken Cook,45408,Appalachian State
+2018,11/05,Hokie Open,157,L,FALL,4:27,Rian Burris,45586,The Citadel,Laken Cook,45408,Appalachian State
+2018,11/05,Hokie Open,157,W,TF5,16 - 1 5:59,Cullen Cummings,13873,Ohio,Laken Cook,45408,Appalachian State
+2018,11/05,Hokie Open,157,W,FALL,0:36,Robert DuPont,45417,VMI,Laken Cook,45408,Appalachian State
+2018,11/05,Hokie Open,157,W,FALL,0:42,Benjamin Cournoyer,20113,North Carolina,Laken Cook,45408,Appalachian State
+2018,11/05,Hokie Open,157,L,DEC,8 - 6,Ryan Blees,20267,Virginia Tech,Laken Cook,45408,Appalachian State
+2018,01/31,VMI - Appalachian State Dual,165,L,TF5,20 - 5 6:31,Blake Hohman,39806,VMI,Thomas Flitz,45410,Appalachian State
+2018,01/25,Campbell - Appalachian State Dual,165,L,DEC,7 - 6,Quentin Perez,40421,Campbell,Thomas Flitz,45410,Appalachian State
+2018,01/21,Southern Illinois Edwardsville - Appalachian State Dual,165,L,DEC,7 - 5,Nate Higgins,20380,SIU Edwardsville,Thomas Flitz,45410,Appalachian State
+2018,01/10,Appalachian State - Gardner-Webb Dual,165,L,DEC,5 - 4,Brett Stein,12807,Gardner-Webb,Thomas Flitz,45410,Appalachian State
+2018,01/01,Southern Scuffle,165,W,MD,12 - 4,Sage Heller,44999,Hofstra,Thomas Flitz,45410,Appalachian State
+2018,01/01,Southern Scuffle,165,L,DEC,6 - 4,Lorenzo De La Riva,40169,CSU Bakersfield,Thomas Flitz,45410,Appalachian State
+2018,01/01,Southern Scuffle,165,L,MD,10 - 2,Andrew Atkinson,11982,Virginia,Thomas Flitz,45410,Appalachian State
+2018,12/17,Appalachian State - Oklahoma Dual,165,L,DEC,3 - 2,Dawaylon Barnes,22085,Oklahoma,Thomas Flitz,45410,Appalachian State
+2018,12/10,North Carolina State - Appalachian State Dual,165,L,DEC,5 - 3,Brian Hamann,13788,NC State,Thomas Flitz,45410,Appalachian State
+2018,12/02,Appalachian State - Ohio Dual,165,L,DEC,4 - 2,Austin Reese,20240,Ohio,Thomas Flitz,45410,Appalachian State
+2018,11/26,Appalachian State - North Carolina Dual,165,W,DEC,10 - 8,Clay Lautt,49212,North Carolina,Thomas Flitz,45410,Appalachian State
+2018,11/19,Keystone Classic,165,W,FALL,2:16,Michael Elliott,40404,Appalachian State,Thomas Flitz,45410,Appalachian State
+2018,11/19,Keystone Classic,165,W,TF5,19 - 1 3:49,Ryan Farber,49283,Pennsylvania,Thomas Flitz,45410,Appalachian State
+2018,11/19,Keystone Classic,165,L,DEC,9 - 5,Ebed Jarrell,40311,Drexel,Thomas Flitz,45410,Appalachian State
+2018,11/19,Keystone Classic,165,W,MD,18 - 4,Michael Sepke,51503,Northwestern,Thomas Flitz,45410,Appalachian State
+2018,11/19,Keystone Classic,165,W,TF5,19 - 1 4:25,Joseph Eiden,50301,Sacred Heart,Thomas Flitz,45410,Appalachian State
+2018,11/19,Keystone Classic,165,L,FALL,4:50,Chad Walsh,13628,Rider,Thomas Flitz,45410,Appalachian State
+2018,11/11,Appalachian State - Davidson Dual,165,W,TF5,17 - 2 5:31,Hunter Costa,45247,Davidson,Thomas Flitz,45410,Appalachian State
+2018,11/11,Bloomsburg - Appalachian State Dual,165,W,MD,12 - 2,Nate Newberry,45190,Bloomsburg,Thomas Flitz,45410,Appalachian State
+2018,11/05,Hokie Open,165,L,SV-1,9 - 7,Andrew Mendel,19640,Army West Point,Thomas Flitz,45410,Appalachian State
+2018,11/05,Hokie Open,165,W,DEC,5 - 3,Brett Stein,12807,Gardner-Webb,Thomas Flitz,45410,Appalachian State
+2018,11/05,Hokie Open,165,W,DEC,6 - 5,Clay Lautt,49212,North Carolina,Thomas Flitz,45410,Appalachian State
+2018,11/05,Hokie Open,165,L,TF5,22 - 7 5:13,David McFadden,39633,Virginia Tech,Thomas Flitz,45410,Appalachian State
+2018,01/27,Appalachian Open,165,W,DEC,9 - 2,Cade Moisey,50970,West Virginia,Michael Elliott,40404,Appalachian State
+2018,01/27,Appalachian Open,165,L,FALL,2:03,Mekhi Lewis,49338,Virginia Tech,Michael Elliott,40404,Appalachian State
+2018,01/27,Appalachian Open,165,W,DEC,5 - 2,William MacDonald,44798,North Carolina,Michael Elliott,40404,Appalachian State
+2018,01/27,Appalachian Open,165,L,MD,19 - 10,Shane Jones,39984,Old Dominion,Michael Elliott,40404,Appalachian State
+2018,01/01,Southern Scuffle,165,L,DEC,2 - 1,Jared Hill,45390,Stanford,Michael Elliott,40404,Appalachian State
+2018,01/01,Southern Scuffle,165,W,MD,10 - 1,Anderson Pope,15913,North Carolina,Michael Elliott,40404,Appalachian State
+2018,01/01,Southern Scuffle,165,L,FALL,3:22,Vincenzo Joseph,39542,Penn State,Michael Elliott,40404,Appalachian State
+2018,11/19,Keystone Classic,165,L,FALL,2:16,Thomas Flitz,45410,Appalachian State,Michael Elliott,40404,Appalachian State
+2018,11/19,Keystone Classic,165,L,FALL,3:48,Zac Carson,39692,Eastern Michigan,Michael Elliott,40404,Appalachian State
+2018,11/19,Keystone Classic,165,W,MD,10 - 0,Jacob Conners,19887,Franklin & Marshall,Michael Elliott,40404,Appalachian State
+2018,11/19,Keystone Classic,165,W,DEC,10 - 6,Michael Sepke,51503,Northwestern,Michael Elliott,40404,Appalachian State
+2018,11/05,Hokie Open,165,L,DEC,6 - 3,Anderson Pope,15913,North Carolina,Michael Elliott,40404,Appalachian State
+2018,11/05,Hokie Open,165,W,DEC,6 - 2,Thomas Williams,15821,Ohio,Michael Elliott,40404,Appalachian State
+2018,11/05,Hokie Open,165,L,TF5,20 - 5 2:51,David McFadden,39633,Virginia Tech,Michael Elliott,40404,Appalachian State
+2018,03/15,NCAA Championships,174,L,MD,11 - 3,Jacobe Smith,22087,Oklahoma State,Forrest Przybysz,12877,Appalachian State
+2018,03/15,NCAA Championships,174,W,SV-1,4 - 2,Kimball Bastian,40322,Utah Valley,Forrest Przybysz,12877,Appalachian State
+2018,03/15,NCAA Championships,174,L,TF5,18 - 3 7:00,Myles Amine,39586,Michigan,Forrest Przybysz,12877,Appalachian State
+2018,03/15,NCAA Championships,174,W,DEC,7 - 2,Ryan Christensen,20481,Wisconsin,Forrest Przybysz,12877,Appalachian State
+2018,03/03,SoCon Championships,174,W,MD,12 - 1,Robert Tywater,51369,The Citadel,Forrest Przybysz,12877,Appalachian State
+2018,03/03,SoCon Championships,174,W,DEC,3 - 2,Andrew Morgan,40250,Campbell,Forrest Przybysz,12877,Appalachian State
+2018,03/03,SoCon Championships,174,W,DEC,5 - 1,Christian Maroni,20798,Gardner-Webb,Forrest Przybysz,12877,Appalachian State
+2018,02/08,Duke - Appalachian State Dual,174,L,MD,15 - 1,Matt Finesilver,47770,Duke,Forrest Przybysz,12877,Appalachian State
+2018,02/04,Appalachian State - Chattanooga Dual,174,W,SV-1,4 - 2,Justin Lampe,40210,Chattanooga,Forrest Przybysz,12877,Appalachian State
+2018,01/25,Campbell - Appalachian State Dual,174,W,DEC,13 - 11,Andrew Morgan,40250,Campbell,Forrest Przybysz,12877,Appalachian State
+2018,01/10,Appalachian State - Gardner-Webb Dual,174,W,TF5,16 - 1 6:04,Christian Maroni,20798,Gardner-Webb,Forrest Przybysz,12877,Appalachian State
+2018,01/01,Southern Scuffle,174,W,DEC,4 - 3,AJ Alford,45382,Navy,Forrest Przybysz,12877,Appalachian State
+2018,01/01,Southern Scuffle,174,W,DEC,8 - 5,Caleb Stockmaster,40177,Cleveland State,Forrest Przybysz,12877,Appalachian State
+2018,01/01,Southern Scuffle,174,L,DEC,4 - 0,Jordan Kutler,39626,Lehigh,Forrest Przybysz,12877,Appalachian State
+2018,01/01,Southern Scuffle,174,L,FALL,2:42,Taylor Lujan,39506,Northern Iowa,Forrest Przybysz,12877,Appalachian State
+2018,01/01,Southern Scuffle,174,W,MFOR,0 - 0,Jadaen Bernstein,20595,Navy,Forrest Przybysz,12877,Appalachian State
+2018,01/01,Southern Scuffle,174,W,DEC,3 - 2,Austin Rose,15461,Drexel,Forrest Przybysz,12877,Appalachian State
+2018,01/01,Southern Scuffle,174,W,MD,18 - 7,Francisco Bisono,40230,Penn State,Forrest Przybysz,12877,Appalachian State
+2018,12/17,Appalachian State - Oklahoma Dual,174,W,SV-1,4 - 2,Yoanse Mejias,41470,Oklahoma,Forrest Przybysz,12877,Appalachian State
+2018,12/10,North Carolina State - Appalachian State Dual,174,W,DEC,10 - 4,Daniel Bullard,44612,NC State,Forrest Przybysz,12877,Appalachian State
+2018,12/02,Appalachian State - Ohio Dual,174,W,DEC,6 - 1,Joseph Terry,45561,Ohio,Forrest Przybysz,12877,Appalachian State
+2018,11/26,Appalachian State - North Carolina Dual,174,L,MD,12 - 2,Ethan Ramos,14560,North Carolina,Forrest Przybysz,12877,Appalachian State
+2018,11/19,Keystone Classic,174,W,TF5,15 - 0 5:25,Khamari Whimper,49284,Pennsylvania,Forrest Przybysz,12877,Appalachian State
+2018,11/19,Keystone Classic,174,W,MD,10 - 0,Andrew McNally,44610,Eastern Michigan,Forrest Przybysz,12877,Appalachian State
+2018,11/19,Keystone Classic,174,W,MD,16 - 5,Josh Young,40386,Franklin & Marshall,Forrest Przybysz,12877,Appalachian State
+2018,11/19,Keystone Classic,174,L,DEC,6 - 2,Josef Johnson,19914,Harvard,Forrest Przybysz,12877,Appalachian State
+2018,11/19,Keystone Classic,174,W,DEC,5 - 2,Johnny Sebastian,20224,Northwestern,Forrest Przybysz,12877,Appalachian State
+2018,11/19,Keystone Classic,174,W,DEC,13 - 11,Matt Finesilver,47770,Duke,Forrest Przybysz,12877,Appalachian State
+2018,11/11,Appalachian State - Davidson Dual,174,W,FALL,3:37,Noah Satterfield,44861,Davidson,Forrest Przybysz,12877,Appalachian State
+2018,11/11,Bloomsburg - Appalachian State Dual,174,W,DEC,6 - 2,Kyle Murphy,44915,Bloomsburg,Forrest Przybysz,12877,Appalachian State
+2018,11/05,Hokie Open,174,L,DEC,6 - 4,Ethan Ramos,14560,North Carolina,Forrest Przybysz,12877,Appalachian State
+2018,11/05,Hokie Open,174,L,DEC,3 - 2,Keaton Subjeck,14567,Stanford,Forrest Przybysz,12877,Appalachian State
+2018,11/05,Hokie Open,174,W,MD,9 - 0,Graham Ratermann,41385,Army West Point,Forrest Przybysz,12877,Appalachian State
+2018,11/05,Hokie Open,174,W,DEC,7 - 1,Cody Hughes,39608,Virginia Tech,Forrest Przybysz,12877,Appalachian State
+2018,02/18,Appalachian State - The Citadel Dual,174,W,TF5,20 - 5 1:13,Michael Mewhorter,49812,The Citadel,Joseph Accousti,49034,Appalachian State
+2018,01/31,VMI - Appalachian State Dual,174,W,DEC,6 - 1,Gage Levine,51260,VMI,Joseph Accousti,49034,Appalachian State
+2018,01/27,Appalachian Open,165,W,DEC,15 - 10,Dominick Petrucelli,50951,Chattanooga,Joseph Accousti,49034,Appalachian State
+2018,01/27,Appalachian Open,165,L,DEC,5 - 4,Cameron Coy,49330,Virginia,Joseph Accousti,49034,Appalachian State
+2018,01/27,Appalachian Open,165,W,DEC,4 - 1,Ben Schneider,45046,Ohio,Joseph Accousti,49034,Appalachian State
+2018,01/27,Appalachian Open,165,W,DEC,5 - 2,William MacDonald,44798,North Carolina,Joseph Accousti,49034,Appalachian State
+2018,01/27,Appalachian Open,165,L,FALL,2:52,Neal Richards,39991,VMI,Joseph Accousti,49034,Appalachian State
+2018,01/06,Franklin & Marshall Open,165,W,DEC,5 - 1,Dylan Gumaer,51021,Franklin & Marshall,Joseph Accousti,49034,Appalachian State
+2018,01/06,Franklin & Marshall Open,165,W,MD,11 - 0,Cade Moisey,50970,West Virginia,Joseph Accousti,49034,Appalachian State
+2018,01/06,Franklin & Marshall Open,165,L,SV-1,5 - 3,Dale Tiongson,49295,Princeton,Joseph Accousti,49034,Appalachian State
+2018,01/06,Franklin & Marshall Open,165,L,FALL,4:30,Patrick Gerish,20005,Maryland,Joseph Accousti,49034,Appalachian State
+2018,12/16,Cleveland State Open,165,W,MFOR,0 - 0,Ben Schram,39659,Old Dominion,Joseph Accousti,49034,Appalachian State
+2018,12/16,Cleveland State Open,165,W,DEC,4 - 1,Bret Fedewa,50920,Central Michigan,Joseph Accousti,49034,Appalachian State
+2018,12/16,Cleveland State Open,165,W,DEC,6 - 4,GioVonne Sanders,50862,Pittsburgh,Joseph Accousti,49034,Appalachian State
+2018,12/16,Cleveland State Open,165,L,FALL,4:14,Patrick Gerish,20005,Maryland,Joseph Accousti,49034,Appalachian State
+2018,12/16,Cleveland State Open,165,W,DEC,3 - 1,Evan Schenk,49136,Gardner-Webb,Joseph Accousti,49034,Appalachian State
+2018,11/19,Keystone Classic,165,L,FALL,2:59,Ebed Jarrell,40311,Drexel,Joseph Accousti,49034,Appalachian State
+2018,11/19,Keystone Classic,165,L,DEC,5 - 2,Michael Sepke,51503,Northwestern,Joseph Accousti,49034,Appalachian State
+2018,11/19,Keystone Classic,165,W,DEC,2 - 0,Joseph Eiden,50301,Sacred Heart,Joseph Accousti,49034,Appalachian State
+2018,11/19,Keystone Classic,165,W,MD,12 - 4,William Schmidt,49605,Sacred Heart,Joseph Accousti,49034,Appalachian State
+2018,11/05,Hokie Open,165,L,TB-2,2 - 1,Luke Drugac,44767,Old Dominion,Joseph Accousti,49034,Appalachian State
+2018,11/05,Hokie Open,165,L,DEC,4 - 2,Derek Ciavarro,45159,Virginia Tech,Joseph Accousti,49034,Appalachian State
+2018,01/27,Appalachian Open,174,W,SV-1,10 - 4,William Carvey,51313,VMI,Garrett Church,45411,Appalachian State
+2018,01/27,Appalachian Open,174,L,FALL,2:26,Matthew Mcfarland,45562,Ohio,Garrett Church,45411,Appalachian State
+2018,01/27,Appalachian Open,174,L,TF5,18 - 2 6:42,Adis Radoncic,39571,North Carolina,Garrett Church,45411,Appalachian State
+2018,11/19,Wolfpack Open,174,L,FALL,0:49,Kyle Jasenski,51164,Maryland,Garrett Church,45411,Appalachian State
+2018,11/19,Wolfpack Open,174,W,DEC,3 - 2,Hunter Queen,49219,North Carolina,Garrett Church,45411,Appalachian State
+2018,11/19,Wolfpack Open,174,L,DEC,6 - 1,Jack Miller,50456,Virginia,Garrett Church,45411,Appalachian State
+2018,11/05,Hokie Open,174,L,FALL,1:19,Neal Richards,39991,VMI,Garrett Church,45411,Appalachian State
+2018,11/05,Hokie Open,174,W,DQ,0 - 0,William Ray,51361,Unattached,Garrett Church,45411,Appalachian State
+2018,11/05,Hokie Open,174,L,MD,14 - 5,Justin Lampe,40210,Chattanooga,Garrett Church,45411,Appalachian State
+2018,03/15,NCAA Championships,184,L,DEC,8 - 5,Chaz Polson,17412,Wyoming,Alan Clothier,45412,Appalachian State
+2018,03/15,NCAA Championships,184,L,DEC,10 - 6,Brandon Krone,20038,Minnesota,Alan Clothier,45412,Appalachian State
+2018,03/03,SoCon Championships,184,W,DEC,4 - 2,Charlie Andrews,44940,Campbell,Alan Clothier,45412,Appalachian State
+2018,03/03,SoCon Championships,184,L,DEC,8 - 2,Bryce Carr,39936,Chattanooga,Alan Clothier,45412,Appalachian State
+2018,03/03,SoCon Championships,184,W,MD,10 - 1,Cole Graves,13757,Gardner-Webb,Alan Clothier,45412,Appalachian State
+2018,02/18,Appalachian State - The Citadel Dual,184,W,TF5,17 - 1 3:52,Michael Lopouchanski,51338,The Citadel,Alan Clothier,45412,Appalachian State
+2018,02/08,Duke - Appalachian State Dual,184,W,MD,17 - 5,Kaden Russell,49124,Duke,Alan Clothier,45412,Appalachian State
+2018,02/04,Appalachian State - Chattanooga Dual,184,L,DEC,9 - 4,Bryce Carr,39936,Chattanooga,Alan Clothier,45412,Appalachian State
+2018,01/31,VMI - Appalachian State Dual,184,W,FALL,2:36,Jack Scalio,45420,VMI,Alan Clothier,45412,Appalachian State
+2018,01/25,Campbell - Appalachian State Dual,184,W,DEC,8 - 2,Luke Funck,50960,Campbell,Alan Clothier,45412,Appalachian State
+2018,01/21,Southern Illinois Edwardsville - Appalachian State Dual,184,W,DEC,6 - 5,Bryce Shewan,45295,SIU Edwardsville,Alan Clothier,45412,Appalachian State
+2018,01/10,Appalachian State - Gardner-Webb Dual,184,W,DEC,6 - 1,Cole Graves,13757,Gardner-Webb,Alan Clothier,45412,Appalachian State
+2018,01/01,Southern Scuffle,184,L,TB-2,6 - 5,Stanley Smeltzer,50902,Virginia Tech,Alan Clothier,45412,Appalachian State
+2018,01/01,Southern Scuffle,184,W,MFOR,0 - 0,Dylan Ammerman,45109,Lehigh,Alan Clothier,45412,Appalachian State
+2018,01/01,Southern Scuffle,184,L,TF5,23 - 8 7:00,Nick Reenan,45035,NC State,Alan Clothier,45412,Appalachian State
+2018,01/01,Southern Scuffle,184,W,DEC,3 - 2,Gary Jantzer,44879,Utah Valley,Alan Clothier,45412,Appalachian State
+2018,01/01,Southern Scuffle,184,W,MD,15 - 4,Austin Flores,39999,Stanford,Alan Clothier,45412,Appalachian State
+2018,01/01,Southern Scuffle,184,L,FALL,6:35,Michael Coleman,20598,Navy,Alan Clothier,45412,Appalachian State
+2018,01/01,Southern Scuffle,184,W,DEC,4 - 3,Dylan Gabel,20186,Northern Colorado,Alan Clothier,45412,Appalachian State
+2018,01/01,Southern Scuffle,184,W,MD,9 - 1,Cory Damiana,19923,Hofstra,Alan Clothier,45412,Appalachian State
+2018,12/17,Appalachian State - Oklahoma Dual,184,W,DEC,11 - 5,Matthew Waddell,49259,Oklahoma,Alan Clothier,45412,Appalachian State
+2018,12/10,North Carolina State - Appalachian State Dual,184,L,DEC,3 - 2,Pete Renda,12371,NC State,Alan Clothier,45412,Appalachian State
+2018,12/02,Appalachian State - Ohio Dual,184,W,DEC,8 - 2,Dontae McGee,39809,Ohio,Alan Clothier,45412,Appalachian State
+2018,11/26,Appalachian State - North Carolina Dual,184,L,DEC,5 - 3,Chip Ness,20118,North Carolina,Alan Clothier,45412,Appalachian State
+2018,11/19,Keystone Classic,184,W,DEC,5 - 2,Kayne MacCallum,19874,Eastern Michigan,Alan Clothier,45412,Appalachian State
+2018,11/19,Keystone Classic,184,W,DEC,6 - 1,Owen Brooks,45256,Drexel,Alan Clothier,45412,Appalachian State
+2018,11/19,Keystone Classic,184,W,DEC,3 - 2,Joshua Murphy,19853,Drexel,Alan Clothier,45412,Appalachian State
+2018,11/19,Keystone Classic,184,L,DEC,4 - 2,Mitch Sliga,12522,Northwestern,Alan Clothier,45412,Appalachian State
+2018,11/19,Keystone Classic,184,W,DEC,3 - 2,Michale Fagg-Daves,20352,Rider,Alan Clothier,45412,Appalachian State
+2018,11/19,Keystone Classic,184,W,SV-1,3 - 1,Devon Van Cura,20306,Penn State,Alan Clothier,45412,Appalachian State
+2018,11/11,Appalachian State - Davidson Dual,184,W,DEC,7 - 4,Conor Fenn,45250,Davidson,Alan Clothier,45412,Appalachian State
+2018,11/11,Bloomsburg - Appalachian State Dual,184,W,DEC,2 - 1,Trevor Allard,40040,Bloomsburg,Alan Clothier,45412,Appalachian State
+2018,11/05,Hokie Open,184,W,SV-1,7 - 5,Taylor Jackson,12867,Appalachian State,Alan Clothier,45412,Appalachian State
+2018,11/05,Hokie Open,184,W,MD,10 - 2,Austin Flores,39999,Stanford,Alan Clothier,45412,Appalachian State
+2018,11/05,Hokie Open,184,W,DEC,7 - 1,Jack Wedholm,19646,Army West Point,Alan Clothier,45412,Appalachian State
+2018,11/05,Hokie Open,184,W,MD,13 - 1,Nick Mosco,49218,North Carolina,Alan Clothier,45412,Appalachian State
+2018,11/05,Hokie Open,184,W,MD,12 - 0,Raekwon Reggler,40682,Limestone,Alan Clothier,45412,Appalachian State
+2018,11/05,Hokie Open,184,L,DEC,8 - 6,Noah Stewart,44599,Army West Point,Alan Clothier,45412,Appalachian State
+2018,01/27,Appalachian Open,184,W,DEC,4 - 0,Nick Mosco,49218,North Carolina,Taylor Jackson,12867,Appalachian State
+2018,01/27,Appalachian Open,184,W,DEC,6 - 1,Jake Walker,45563,Ohio,Taylor Jackson,12867,Appalachian State
+2018,01/27,Appalachian Open,184,L,TF5,21 - 6 4:02,Nick Reenan,45035,NC State,Taylor Jackson,12867,Appalachian State
+2018,01/27,Appalachian Open,184,W,FALL,3:28,Ryan Ashley,40435,Campbell,Taylor Jackson,12867,Appalachian State
+2018,01/01,Southern Scuffle,184,L,DEC,7 - 5,Luke Funck,50960,Campbell,Taylor Jackson,12867,Appalachian State
+2018,01/01,Southern Scuffle,184,W,DEC,4 - 0,Dom Ducharme,45323,CSU Bakersfield,Taylor Jackson,12867,Appalachian State
+2018,01/01,Southern Scuffle,184,L,MD,14 - 5,Nick Reenan,45035,NC State,Taylor Jackson,12867,Appalachian State
+2018,11/19,Keystone Classic,184,L,DEC,3 - 2,Joshua Murphy,19853,Drexel,Taylor Jackson,12867,Appalachian State
+2018,11/19,Keystone Classic,184,W,DEC,3 - 1,Joshua Murphy,19853,Drexel,Taylor Jackson,12867,Appalachian State
+2018,11/19,Keystone Classic,184,W,DEC,4 - 3,Kanon Dean,19912,Harvard,Taylor Jackson,12867,Appalachian State
+2018,11/19,Keystone Classic,184,W,FALL,4:37,Joesph Toci,44809,Sacred Heart,Taylor Jackson,12867,Appalachian State
+2018,11/19,Keystone Classic,184,L,DEC,8 - 3,Michale Fagg-Daves,20352,Rider,Taylor Jackson,12867,Appalachian State
+2018,11/19,Keystone Classic,184,W,DEC,8 - 1,Kaden Russell,49124,Duke,Taylor Jackson,12867,Appalachian State
+2018,11/05,Hokie Open,184,L,SV-1,7 - 5,Alan Clothier,45412,Appalachian State,Taylor Jackson,12867,Appalachian State
+2018,11/05,Hokie Open,184,W,DEC,6 - 1,Jeremiah Imonode,41229,Army West Point,Taylor Jackson,12867,Appalachian State
+2018,11/05,Hokie Open,184,W,MD,11 - 2,Cole Graves,13757,Gardner-Webb,Taylor Jackson,12867,Appalachian State
+2018,11/05,Hokie Open,184,W,MD,13 - 2,Alexander Mina,44269,North Carolina,Taylor Jackson,12867,Appalachian State
+2018,11/05,Hokie Open,184,L,FALL,0:20,Zack Zavatsky,20460,Virginia Tech,Taylor Jackson,12867,Appalachian State
+2018,03/15,NCAA Championships,197,L,TF5,16 - 0 4:43,Jacob Holschlag,39800,Northern Iowa,Randall Diabe,40409,Appalachian State
+2018,03/15,NCAA Championships,197,W,DEC,8 - 4,Corey Griego,20292,Oregon State,Randall Diabe,40409,Appalachian State
+2018,03/15,NCAA Championships,197,L,DEC,3 - 2,Kyle Conel,19973,Kent State,Randall Diabe,40409,Appalachian State
+2018,03/03,SoCon Championships,197,W,TB-2,5 - 4,Chris Kober,50022,Campbell,Randall Diabe,40409,Appalachian State
+2018,03/03,SoCon Championships,197,L,DEC,4 - 3,Sawyer Root,39846,The Citadel,Randall Diabe,40409,Appalachian State
+2018,03/03,SoCon Championships,197,W,FALL,6:19,Christian DuLaney,20211,SIU Edwardsville,Randall Diabe,40409,Appalachian State
+2018,03/03,SoCon Championships,197,W,FALL,2:01,Jake Koch,12298,VMI,Randall Diabe,40409,Appalachian State
+2018,02/18,Appalachian State - The Citadel Dual,197,W,DEC,3 - 2,Sawyer Root,39846,The Citadel,Randall Diabe,40409,Appalachian State
+2018,02/08,Duke - Appalachian State Dual,197,W,DEC,8 - 3,Alec Schenk,19869,Duke,Randall Diabe,40409,Appalachian State
+2018,02/04,Appalachian State - Chattanooga Dual,197,W,DEC,3 - 2,Scottie Boykin,12756,Chattanooga,Randall Diabe,40409,Appalachian State
+2018,01/31,VMI - Appalachian State Dual,197,W,MD,14 - 3,Max Gallahan,45422,VMI,Randall Diabe,40409,Appalachian State
+2018,01/25,Campbell - Appalachian State Dual,197,W,DEC,2 - 0,Chris Kober,50022,Campbell,Randall Diabe,40409,Appalachian State
+2018,01/21,Southern Illinois Edwardsville - Appalachian State Dual,197,W,FALL,7:44,Christian DuLaney,20211,SIU Edwardsville,Randall Diabe,40409,Appalachian State
+2018,01/10,Appalachian State - Gardner-Webb Dual,197,W,DEC,8 - 2,Anthony Perrine,49135,Gardner-Webb,Randall Diabe,40409,Appalachian State
+2018,01/01,Southern Scuffle,197,W,DEC,15 - 9,John Kelbly,50329,Cleveland State,Randall Diabe,40409,Appalachian State
+2018,01/01,Southern Scuffle,197,L,FALL,6:15,Jake Jakobsen,46924,Lehigh,Randall Diabe,40409,Appalachian State
+2018,01/01,Southern Scuffle,197,L,TF5,20 - 2 4:11,Jacob Seely,39665,Northern Colorado,Randall Diabe,40409,Appalachian State
+2018,12/17,Appalachian State - Oklahoma Dual,197,W,DEC,5 - 2,Andrew Dixon,20809,Oklahoma,Randall Diabe,40409,Appalachian State
+2018,12/10,North Carolina State - Appalachian State Dual,197,L,DEC,5 - 2,Michael Macchiavello,12532,NC State,Randall Diabe,40409,Appalachian State
+2018,12/02,Appalachian State - Ohio Dual,197,W,DEC,2 - 1,Hunter Yeargan,45564,Ohio,Randall Diabe,40409,Appalachian State
+2018,11/26,Appalachian State - North Carolina Dual,197,L,FALL,4:30,Daniel Chaid,45044,North Carolina,Randall Diabe,40409,Appalachian State
+2018,11/19,Keystone Classic,197,L,DEC,5 - 1,Stephen Loiseau,19851,Drexel,Randall Diabe,40409,Appalachian State
+2018,11/19,Keystone Classic,197,W,MD,18 - 7,Rico Stormer,19921,Harvard,Randall Diabe,40409,Appalachian State
+2018,11/19,Keystone Classic,197,W,DEC,5 - 2,Luke Farinaro,19860,Duke,Randall Diabe,40409,Appalachian State
+2018,11/19,Keystone Classic,197,W,DEC,9 - 3,Max Gallahan,45422,VMI,Randall Diabe,40409,Appalachian State
+2018,11/19,Keystone Classic,197,W,DEC,6 - 2,Taylor Thomas,20702,VMI,Randall Diabe,40409,Appalachian State
+2018,11/19,Keystone Classic,197,L,TF5,16 - 0 3:48,Matt McCutcheon,12572,Penn State,Randall Diabe,40409,Appalachian State
+2018,11/11,Appalachian State - Davidson Dual,197,W,DEC,2 - 0,Konner Pritchard,19842,Davidson,Randall Diabe,40409,Appalachian State
+2018,11/11,Bloomsburg - Appalachian State Dual,197,W,DEC,8 - 4,Logan Womelsdorf,51054,Bloomsburg,Randall Diabe,40409,Appalachian State
+2018,01/27,Appalachian Open,197,W,DEC,8 - 3,Hunter DeLong,50972,West Virginia,Paul Carson,51334,Appalachian State
+2018,01/27,Appalachian Open,197,L,DEC,5 - 3,John Borst,49336,Virginia Tech,Paul Carson,51334,Appalachian State
+2018,01/27,Appalachian Open,197,W,MFOR,0 - 0,Jake A Smith,23323,West Virginia,Paul Carson,51334,Appalachian State
+2018,01/06,Franklin & Marshall Open,197,W,DEC,13 - 8,Hunter DeLong,50972,West Virginia,Paul Carson,51334,Appalachian State
+2018,01/06,Franklin & Marshall Open,197,L,DEC,8 - 4,Sam Schuyler,50361,Buffalo,Paul Carson,51334,Appalachian State
+2018,01/06,Franklin & Marshall Open,197,W,DEC,8 - 1,Jack Buell,44737,Army West Point,Paul Carson,51334,Appalachian State
+2018,01/06,Franklin & Marshall Open,197,L,DEC,6 - 4,David-Brian Whisler,40241,Maryland,Paul Carson,51334,Appalachian State
+2018,01/01,Southern Scuffle,197,L,TF5,16 - 1 7:00,Luke Farinaro,19860,Duke,Paul Carson,51334,Appalachian State
+2018,01/01,Southern Scuffle,197,L,TF5,15 - 0 3:07,Stephen Loiseau,19851,Drexel,Paul Carson,51334,Appalachian State
+2018,12/16,Cleveland State Open,197,L,DEC,7 - 4,Brad Wilton,49187,Michigan State,Paul Carson,51334,Appalachian State
+2018,12/16,Cleveland State Open,197,W,DEC,6 - 4,Landon Pelham,44838,Central Michigan,Paul Carson,51334,Appalachian State
+2018,12/16,Cleveland State Open,197,L,DEC,13 - 9,John Kelbly,50329,Cleveland State,Paul Carson,51334,Appalachian State
+2018,12/16,Cleveland State Open,197,W,DEC,6 - 2,Sean Mullican,49344,West Virginia,Paul Carson,51334,Appalachian State
+2018,12/16,Cleveland State Open,197,W,DEC,10 - 4,Hunter DeLong,50972,West Virginia,Paul Carson,51334,Appalachian State
+2018,11/19,Wolfpack Open,197,L,DEC,8 - 5,Dylan Cook,42820,Virginia Tech,Paul Carson,51334,Appalachian State
+2018,11/19,Wolfpack Open,197,W,MFOR,0 - 0,Anthony Perrine,49135,Gardner-Webb,Paul Carson,51334,Appalachian State
+2018,11/19,Wolfpack Open,197,L,DEC,9 - 2,Tanner Orndorff,40324,Utah Valley,Paul Carson,51334,Appalachian State
+2018,11/05,Hokie Open,197,L,DEC,14 - 7,Anthony Perrine,49135,Gardner-Webb,Paul Carson,51334,Appalachian State
+2018,11/05,Hokie Open,197,W,MFOR,0 - 0,Aaron Naples,51351,Ohio,Paul Carson,51334,Appalachian State
+2018,11/05,Hokie Open,197,W,DEC,3 - 2,Jared Walker,50953,Chattanooga,Paul Carson,51334,Appalachian State
+2018,11/05,Hokie Open,197,W,MD,14 - 5,Max Gallahan,45422,VMI,Paul Carson,51334,Appalachian State
+2018,11/05,Hokie Open,197,L,FALL,3:57,Elijah Seay,46139,King,Paul Carson,51334,Appalachian State
+2018,03/03,SoCon Championships,285,L,FALL,1:48,Jere Heino,40434,Campbell,Cary Miller,39976,Appalachian State
+2018,03/03,SoCon Championships,285,W,FALL,1:48,Jake Tomlinson,20703,VMI,Cary Miller,39976,Appalachian State
+2018,03/03,SoCon Championships,285,W,MD,11 - 0,Connor Tolley,19780,Chattanooga,Cary Miller,39976,Appalachian State
+2018,02/18,Appalachian State - The Citadel Dual,285,W,MD,10 - 2,Michael McAleavey,45588,The Citadel,Cary Miller,39976,Appalachian State
+2018,02/08,Duke - Appalachian State Dual,285,L,TF5,17 - 1 5:00,Jacob Kasper,12475,Duke,Cary Miller,39976,Appalachian State
+2018,02/04,Appalachian State - Chattanooga Dual,285,W,DEC,7 - 5,Connor Tolley,19780,Chattanooga,Cary Miller,39976,Appalachian State
+2018,01/31,VMI - Appalachian State Dual,285,W,FALL,0:54,Jake Tomlinson,20703,VMI,Cary Miller,39976,Appalachian State
+2018,01/25,Campbell - Appalachian State Dual,285,L,DEC,3 - 2,Jere Heino,40434,Campbell,Cary Miller,39976,Appalachian State
+2018,01/21,Southern Illinois Edwardsville - Appalachian State Dual,285,W,FALL,2:01,Tommy Helton,45298,SIU Edwardsville,Cary Miller,39976,Appalachian State
+2018,01/10,Appalachian State - Gardner-Webb Dual,285,W,DEC,7 - 2,Lathan Bumgarner,45580,Gardner-Webb,Cary Miller,39976,Appalachian State
+2018,12/17,Appalachian State - Oklahoma Dual,285,W,MD,14 - 4,Connor Webb,50999,Oklahoma,Cary Miller,39976,Appalachian State
+2018,12/10,North Carolina State - Appalachian State Dual,285,L,DEC,6 - 1,Malik McDonald,20133,NC State,Cary Miller,39976,Appalachian State
+2018,12/02,Appalachian State - Ohio Dual,285,W,DEC,3 - 1,Zack Parker,20235,Ohio,Cary Miller,39976,Appalachian State
+2018,11/26,Appalachian State - North Carolina Dual,285,L,DEC,8 - 5,Cory Gillilland-Daniel,22024,North Carolina,Cary Miller,39976,Appalachian State
+2018,11/19,Keystone Classic,285,W,DEC,4 - 0,Sean O'Malley,49121,Drexel,Cary Miller,39976,Appalachian State
+2018,11/19,Keystone Classic,285,W,FALL,2:43,Evan Callahan,50874,Harvard,Cary Miller,39976,Appalachian State
+2018,11/19,Keystone Classic,285,L,DEC,4 - 0,Conan Jennings,20222,Northwestern,Cary Miller,39976,Appalachian State
+2018,11/19,Keystone Classic,285,W,FALL,1:59,John Hartnett,20830,Sacred Heart,Cary Miller,39976,Appalachian State
+2018,11/19,Keystone Classic,285,W,DEC,3 - 2,Mauro Correnti,14193,Rider,Cary Miller,39976,Appalachian State
+2018,11/19,Keystone Classic,285,L,DEC,4 - 0,Nick Nevills,20301,Penn State,Cary Miller,39976,Appalachian State
+2018,11/11,Appalachian State - Davidson Dual,285,W,FOR,0 - 0,Will Cooley,19839,Davidson,Cary Miller,39976,Appalachian State
+2018,11/11,Bloomsburg - Appalachian State Dual,285,W,DEC,2 - 1,Bruce Graeber,45188,Bloomsburg,Cary Miller,39976,Appalachian State
+2018,11/05,Hokie Open,285,L,DEC,5 - 3,Cory Gillilland-Daniel,22024,North Carolina,Cary Miller,39976,Appalachian State
+2018,11/05,Hokie Open,285,W,DEC,3 - 2,Andrew Gunning,44876,North Carolina,Cary Miller,39976,Appalachian State
+2018,11/05,Hokie Open,285,W,DEC,8 - 3,Michael McAleavey,45588,The Citadel,Cary Miller,39976,Appalachian State
+2018,11/05,Hokie Open,285,L,DEC,4 - 3,Nathan Butler,14443,Stanford,Cary Miller,39976,Appalachian State
+2018,11/05,Hokie Open,285,W,FALL,2:17,Jake Koch,12298,VMI,Cary Miller,39976,Appalachian State
+2018,01/27,Appalachian Open,285,W,FALL,6:30,Jared Pegher,51352,Ohio,Demazio Samuel,45414,Appalachian State
+2018,01/27,Appalachian Open,285,L,DQ,0 - 0,David Smith,50968,West Virginia,Demazio Samuel,45414,Appalachian State
+2018,01/27,Appalachian Open,285,W,FALL,4:44,Laith Alsous,50004,Campbell,Demazio Samuel,45414,Appalachian State
+2018,01/27,Appalachian Open,285,L,DEC,7 - 2,Andrew Gunning,44876,North Carolina,Demazio Samuel,45414,Appalachian State
+2018,01/01,Southern Scuffle,285,W,INJ,7:00,Jacob Sieder,45321,CSU Bakersfield,Demazio Samuel,45414,Appalachian State
+2018,01/01,Southern Scuffle,285,L,DEC,3 - 1,Christian Colucci,39851,Lehigh,Demazio Samuel,45414,Appalachian State
+2018,01/01,Southern Scuffle,285,L,DEC,3 - 2,Austin Faunce,20605,Navy,Demazio Samuel,45414,Appalachian State
+2018,11/19,Keystone Classic,285,W,DEC,5 - 3,Vincenzo Pelusi,50112,Drexel,Demazio Samuel,45414,Appalachian State
+2018,11/19,Keystone Classic,285,W,DEC,3 - 2,Parker Fox,51020,Franklin & Marshall,Demazio Samuel,45414,Appalachian State
+2018,11/19,Keystone Classic,285,L,DEC,5 - 3,Antonio Pelusi,19894,Franklin & Marshall,Demazio Samuel,45414,Appalachian State
+2018,11/19,Keystone Classic,285,L,DEC,7 - 1,Ryan Cloud,39972,Rider,Demazio Samuel,45414,Appalachian State
+2018,11/05,Hokie Open,285,L,FALL,0:49,Patton Gossett,22280,Newberry,Demazio Samuel,45414,Appalachian State
+2018,11/05,Hokie Open,285,L,DEC,6 - 4,Connor Tolley,19780,Chattanooga,Demazio Samuel,45414,Appalachian State
+2018,01/27,Appalachian Open,285,L,DEC,5 - 4,Andrew Gunning,44876,North Carolina,Zack Willard,45413,Appalachian State
+2018,01/27,Appalachian Open,285,W,DEC,8 - 3,Cale Bonner,40047,Ohio,Zack Willard,45413,Appalachian State
+2018,01/27,Appalachian Open,285,L,FALL,5:31,Denzel Dejournette,14276,Unattached,Zack Willard,45413,Appalachian State
+2018,11/19,Wolfpack Open,285,L,FALL,1:44,Edgar Ruano,19798,Clarion,Zack Willard,45413,Appalachian State
+2018,11/19,Wolfpack Open,285,L,MD,19 - 6,Michael Boykin,20123,NC State,Zack Willard,45413,Appalachian State
+2018,11/19,Wolfpack Open,285,W,DEC,3 - 1,Marshall Frank,52196,Queens,Zack Willard,45413,Appalachian State

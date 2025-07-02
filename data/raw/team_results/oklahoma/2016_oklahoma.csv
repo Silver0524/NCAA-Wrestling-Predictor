@@ -1,0 +1,453 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2016,03/17,NCAA Championships,125,W,DEC,1 - 0,Connor Schram,14982,Stanford,Ryan Millhof,20815,Oklahoma
+2016,03/17,NCAA Championships,125,L,FALL,1:03,Dylan Peters,13253,Northern Iowa,Ryan Millhof,20815,Oklahoma
+2016,03/17,NCAA Championships,125,W,SV-1,4 - 2,Darian Cruz,12135,Lehigh,Ryan Millhof,20815,Oklahoma
+2016,03/17,NCAA Championships,125,W,DEC,1 - 0,Sean Russell,20727,Edinboro,Ryan Millhof,20815,Oklahoma
+2016,03/17,NCAA Championships,125,L,MD,16 - 5,Thomas Gilman,13245,Iowa,Ryan Millhof,20815,Oklahoma
+2016,03/17,NCAA Championships,125,W,DEC,6 - 0,Drew Romero,20712,Air Force,Ryan Millhof,20815,Oklahoma
+2016,03/05,Big 12 Championships,125,W,DEC,6 - 2,Drew Romero,20712,Air Force,Ryan Millhof,20815,Oklahoma
+2016,03/05,Big 12 Championships,125,W,DEC,10 - 5,Josh Rodriguez,13418,North Dakota State,Ryan Millhof,20815,Oklahoma
+2016,03/05,Big 12 Championships,125,W,TB-2,5 - 4,Eddie Klimara,12136,Oklahoma State,Ryan Millhof,20815,Oklahoma
+2016,02/14,South Dakota State - Oklahoma Dual,125,W,DEC,10 - 3,Ben Gillette,13275,South Dakota State,Ryan Millhof,20815,Oklahoma
+2016,02/11,Oklahoma - Oregon State Dual,125,L,DEC,3 - 1,Ronnie Bresser,25183,Oregon State,Ryan Millhof,20815,Oklahoma
+2016,02/05,Oklahoma - Oklahoma State Dual,125,W,DEC,5 - 3,Eddie Klimara,12136,Oklahoma State,Ryan Millhof,20815,Oklahoma
+2016,01/30,Oklahoma - Missouri Dual,125,W,DEC,3 - 2,Barlow McGhee,13251,Missouri,Ryan Millhof,20815,Oklahoma
+2016,01/22,Iowa State - Oklahoma Dual,125,W,DEC,7 - 1,Kyle Larson,12069,Iowa State,Ryan Millhof,20815,Oklahoma
+2016,01/17,Oklahoma - West Virginia Dual,125,W,DEC,2 - 1,Zeke Moisey,20472,West Virginia,Ryan Millhof,20815,Oklahoma
+2016,01/15,Oklahoma - Bucknell Dual,125,W,FALL,5:15,Paul Petrov,12116,Bucknell,Ryan Millhof,20815,Oklahoma
+2016,01/09,Oklahoma - Wyoming Dual,125,W,DEC,6 - 3,Drew Templeman,15167,Wyoming,Ryan Millhof,20815,Oklahoma
+2016,12/20,Lehigh - Oklahoma Dual,125,L,DEC,6 - 2,Darian Cruz,12135,Lehigh,Ryan Millhof,20815,Oklahoma
+2016,12/13,Oklahoma State - Oklahoma Dual,125,L,DEC,5 - 3,Eddie Klimara,12136,Oklahoma State,Ryan Millhof,20815,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,125,L,MFOR,0 - 0,Barlow McGhee,13251,Missouri,Ryan Millhof,20815,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,125,W,DEC,4 - 2,Chasen Tolbert,13373,Utah Valley,Ryan Millhof,20815,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,125,W,MD,8 - 0,Kyle Larson,12069,Iowa State,Ryan Millhof,20815,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,125,L,MD,11 - 3,Nathan Tomasello,14674,Ohio State,Ryan Millhof,20815,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,125,L,INJ,7:00,Paul Petrov,12116,Bucknell,Ryan Millhof,20815,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,125,W,INJ,7:00,Dylan Peters,13253,Northern Iowa,Ryan Millhof,20815,Oklahoma
+2016,11/22,Oklahoma - Michigan Dual,125,W,DEC,3 - 2,Conor Youtsey,13271,Michigan,Ryan Millhof,20815,Oklahoma
+2016,11/19,Northern Colorado - Oklahoma Dual,125,W,DEC,7 - 3,Trey Andrews,13284,Northern Colorado,Ryan Millhof,20815,Oklahoma
+2016,11/15,Army - Oklahoma Dual,125,W,TF5,18 - 3 4:25,Sean Badua,19635,Army West Point,Ryan Millhof,20815,Oklahoma
+2016,11/15,Rutgers - Oklahoma Dual,125,L,DEC,2 - 1,Sean McCabe,12035,Rutgers,Ryan Millhof,20815,Oklahoma
+2016,11/08,Oklahoma Open,125,W,SV-1,5 - 3,Eli Hale,15232,Oklahoma State,Ryan Millhof,20815,Oklahoma
+2016,11/08,Oklahoma Open,125,W,MD,11 - 2,Alfredo Rodriguez,41005,SIU Edwardsville,Ryan Millhof,20815,Oklahoma
+2016,11/08,Oklahoma Open,125,W,TF5,20 - 5 7:00,Cody Randall,40979,Northeastern Oklahoma,Ryan Millhof,20815,Oklahoma
+2016,11/08,Oklahoma Open,125,L,MD,8 - 0,Nick Piccininni,39547,Oklahoma State,Ryan Millhof,20815,Oklahoma
+2016,11/08,Oklahoma Open,125,W,DEC,4 - 3,Donald Cannon,20268,Oklahoma State,Ryan Millhof,20815,Oklahoma
+2016,11/08,Oklahoma Open,125,W,MD,14 - 0,Christian Moody,39746,Oklahoma,Ryan Millhof,20815,Oklahoma
+2016,01/24,Roger Denker Open,125,L,DEC,6 - 1,Aaron Assad,15239,Missouri,Christian Moody,39746,Oklahoma
+2016,01/24,Roger Denker Open,125,L,DEC,7 - 2,Chandler Fohey,39986,Missouri,Christian Moody,39746,Oklahoma
+2016,01/24,Roger Denker Open,125,W,DEC,6 - 4,Nicholas Brennan,21389,Missouri,Christian Moody,39746,Oklahoma
+2016,11/08,Oklahoma Open,125,L,MD,14 - 0,Ryan Millhof,20815,Oklahoma,Christian Moody,39746,Oklahoma
+2016,11/08,Oklahoma Open,125,L,DEC,12 - 10,Eddie Klimara,12136,Oklahoma State,Christian Moody,39746,Oklahoma
+2016,11/08,Oklahoma Open,125,W,DEC,4 - 3,Zach Gentzler,41461,Oklahoma State,Christian Moody,39746,Oklahoma
+2016,11/01,OCU Open,125,W,FALL,4:11,Jacob Espana,40982,New Mexico Highlands,Christian Moody,39746,Oklahoma
+2016,11/01,OCU Open,125,W,FALL,1:25,Logan Myers-webb,40981,Northeastern Oklahoma,Christian Moody,39746,Oklahoma
+2016,11/01,OCU Open,125,W,FALL,0:33,Trevor Perez,40980,New Mexico Highlands,Christian Moody,39746,Oklahoma
+2016,11/01,OCU Open,125,W,MD,11 - 2,Cody Randall,40979,Northeastern Oklahoma,Christian Moody,39746,Oklahoma
+2016,11/01,OCU Open,125,L,TF5,16 - 1 7:00,Nick Piccininni,39547,Oklahoma State,Christian Moody,39746,Oklahoma
+2016,11/01,OCU Open,125,W,FALL,3:45,Dominic Rivera,24832,New Mexico Highlands,Christian Moody,39746,Oklahoma
+2016,11/01,OCU Open,125,W,FALL,1:50,Trent Mills,40977,Wayland Baptist,Christian Moody,39746,Oklahoma
+2016,01/24,Roger Denker Open,133,L,MFOR,0 - 0,Aaron O'brien,44075,Unattached,Sean DeShazer,39873,Oklahoma
+2016,01/24,Roger Denker Open,133,W,DEC,6 - 5,Jacob Grant,23924,Grand View,Sean DeShazer,39873,Oklahoma
+2016,01/24,Roger Denker Open,133,W,DEC,4 - 2,Curtis Burnett,41043,Northeastern Oklahoma,Sean DeShazer,39873,Oklahoma
+2016,01/24,Roger Denker Open,133,W,MFOR,0 - 0,Andy Skaggs,44073,Unattached,Sean DeShazer,39873,Oklahoma
+2016,01/24,Roger Denker Open,133,L,TF5,18 - 3 6:15,Jaydin Eierman,39508,Missouri,Sean DeShazer,39873,Oklahoma
+2016,11/08,Oklahoma Open,133,L,DEC,2 - 1,Brian Crutchmer,13400,Oklahoma State,Sean Williams,16527,Oklahoma
+2016,11/08,Oklahoma Open,133,L,DEC,13 - 6,Kaid Brock,39544,Oklahoma State,Sean Williams,16527,Oklahoma
+2016,11/01,OCU Open,133,L,FALL,4:04,Gary Wayne Harding,20270,Oklahoma State,Sean Williams,16527,Oklahoma
+2016,11/01,OCU Open,133,W,MFOR,0 - 0,Keegan Moore,39680,West Virginia,Sean Williams,16527,Oklahoma
+2016,11/01,OCU Open,133,W,TF5,18 - 3 7:00,Jase Patrick,40964,Unattached,Sean Williams,16527,Oklahoma
+2016,11/01,OCU Open,133,L,TF5,16 - 0 7:00,Kyle Garcia,22451,Oklahoma State,Sean Williams,16527,Oklahoma
+2016,03/17,NCAA Championships,133,W,MD,14 - 4,Cameron Kelly,39687,Ohio,Cody Brewer,12037,Oklahoma
+2016,03/17,NCAA Championships,133,W,DEC,8 - 4,Jordan Conaway,15981,Penn State,Cody Brewer,12037,Oklahoma
+2016,03/17,NCAA Championships,133,W,MD,10 - 2,Jamal Morris,20136,NC State,Cody Brewer,12037,Oklahoma
+2016,03/17,NCAA Championships,133,W,DEC,9 - 3,Eric Montoya,13414,Nebraska,Cody Brewer,12037,Oklahoma
+2016,03/17,NCAA Championships,133,W,DEC,9 - 4,Zane Richards,14736,Illinois,Cody Brewer,12037,Oklahoma
+2016,03/17,NCAA Championships,133,L,FALL,0:21,Nahshon Garrett,12070,Cornell,Cody Brewer,12037,Oklahoma
+2016,03/05,Big 12 Championships,133,W,MD,14 - 5,Keegan Moore,39680,West Virginia,Cody Brewer,12037,Oklahoma
+2016,03/05,Big 12 Championships,133,W,TF5,20 - 2 6:08,Jade Rauser,13291,Utah Valley,Cody Brewer,12037,Oklahoma
+2016,03/05,Big 12 Championships,133,W,DEC,12 - 7,Earl Hall,12220,Iowa State,Cody Brewer,12037,Oklahoma
+2016,02/14,South Dakota State - Oklahoma Dual,133,W,MD,16 - 5,Brance Simms,11703,South Dakota State,Cody Brewer,12037,Oklahoma
+2016,02/11,Oklahoma - Oregon State Dual,133,W,DEC,12 - 7,Joey Palmer,12152,Oregon State,Cody Brewer,12037,Oklahoma
+2016,02/05,Oklahoma - Oklahoma State Dual,133,W,TF5,20 - 3 3:55,Gary Wayne Harding,20270,Oklahoma State,Cody Brewer,12037,Oklahoma
+2016,01/30,Oklahoma - Missouri Dual,133,W,DEC,10 - 3,Zach Synon,12142,Missouri,Cody Brewer,12037,Oklahoma
+2016,01/22,Iowa State - Oklahoma Dual,133,W,MD,12 - 4,Earl Hall,12220,Iowa State,Cody Brewer,12037,Oklahoma
+2016,01/17,Oklahoma - West Virginia Dual,133,W,MD,13 - 3,Cory Stainbrook,12131,West Virginia,Cody Brewer,12037,Oklahoma
+2016,01/09,Oklahoma - Wyoming Dual,133,W,FALL,2:29,PT Garcia,21671,Wyoming,Cody Brewer,12037,Oklahoma
+2016,12/20,Lehigh - Oklahoma Dual,133,W,MD,14 - 5,Mason Beckman,12016,Lehigh,Cody Brewer,12037,Oklahoma
+2016,12/13,Oklahoma State - Oklahoma Dual,133,L,FALL,0:42,Kaid Brock,39544,Oklahoma State,Cody Brewer,12037,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,TF5,20 - 4 6:42,Anthony Racobaldo,41694,Cal Baptist,Cody Brewer,12037,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,TF5,15 - 0 6:42,Anthony Racobaldo,41694,Cal Baptist,Cody Brewer,12037,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,DEC,6 - 2,Daniel DeShazer,21395,Nebraska-Kearney,Cody Brewer,12037,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,MD,17 - 5,Mack McGuire,12004,Kent State,Cody Brewer,12037,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,133,L,DEC,14 - 9,Nahshon Garrett,12070,Cornell,Cody Brewer,12037,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,DEC,12 - 5,Earl Hall,12220,Iowa State,Cody Brewer,12037,Oklahoma
+2016,11/22,Oklahoma - Michigan Dual,133,W,TF5,18 - 2 6:54,Rossi Bruno,15289,Michigan,Cody Brewer,12037,Oklahoma
+2016,11/19,Northern Colorado - Oklahoma Dual,133,W,TF5,20 - 4 4:33,Rico Montoya,39862,Northern Colorado,Cody Brewer,12037,Oklahoma
+2016,11/15,Army - Oklahoma Dual,133,W,TF5,18 - 2 2:48,Justin Seim,15959,Army West Point,Cody Brewer,12037,Oklahoma
+2016,11/15,Rutgers - Oklahoma Dual,133,W,FALL,2:42,Anthony Giraldo,20359,Rutgers,Cody Brewer,12037,Oklahoma
+2016,01/24,Roger Denker Open,141,L,DEC,9 - 2,Will Roark,39509,Missouri,Dylan Lucas,39859,Oklahoma
+2016,01/24,Roger Denker Open,141,W,DEC,8 - 4,Trevor Feagans,11644,SIU Edwardsville,Dylan Lucas,39859,Oklahoma
+2016,01/24,Roger Denker Open,141,W,DEC,10 - 3,Trevor Feagans,11644,SIU Edwardsville,Dylan Lucas,39859,Oklahoma
+2016,01/24,Roger Denker Open,141,W,DEC,9 - 3,Cameron Kelly,22455,SIU Edwardsville,Dylan Lucas,39859,Oklahoma
+2016,11/08,Oklahoma Open,133,L,DEC,6 - 2,Kyle Garcia,22451,Oklahoma State,Dylan Lucas,39859,Oklahoma
+2016,11/08,Oklahoma Open,133,W,FALL,1:36,Michael Lopez,41040,Northeastern Oklahoma,Dylan Lucas,39859,Oklahoma
+2016,11/08,Oklahoma Open,133,W,TF5,18 - 2 7:00,Dillon McCaleb,22816,Northeastern Oklahoma,Dylan Lucas,39859,Oklahoma
+2016,11/08,Oklahoma Open,133,L,MD,15 - 4,Lincoln Olson,39546,Oklahoma State,Dylan Lucas,39859,Oklahoma
+2016,11/08,Oklahoma Open,133,W,FALL,1:35,Brian Crutchmer,13400,Oklahoma State,Dylan Lucas,39859,Oklahoma
+2016,11/01,OCU Open,133,L,DEC,6 - 1,Kaid Brock,39544,Oklahoma State,Dylan Lucas,39859,Oklahoma
+2016,11/01,OCU Open,133,W,MD,19 - 8,Blake Daupnin,40984,Central Oklahoma,Dylan Lucas,39859,Oklahoma
+2016,11/01,OCU Open,133,W,FALL,1:50,Lincoln Olson,39546,Oklahoma State,Dylan Lucas,39859,Oklahoma
+2016,11/01,OCU Open,133,W,FALL,3:21,Demarco Speller,40983,Wayland Baptist,Dylan Lucas,39859,Oklahoma
+2016,03/05,Big 12 Championships,141,W,DEC,6 - 2,Dylan Hyder,41723,Air Force,Trae Blackwell,20807,Oklahoma
+2016,03/05,Big 12 Championships,141,W,DEC,4 - 3,Mitch Bengtson,11619,North Dakota State,Trae Blackwell,20807,Oklahoma
+2016,03/05,Big 12 Championships,141,L,MD,10 - 0,Seth Gross,19949,South Dakota State,Trae Blackwell,20807,Oklahoma
+2016,03/05,Big 12 Championships,141,L,FALL,0:29,Bryce Meredith,20135,Wyoming,Trae Blackwell,20807,Oklahoma
+2016,02/14,South Dakota State - Oklahoma Dual,141,L,DEC,8 - 2,Seth Gross,19949,South Dakota State,Trae Blackwell,20807,Oklahoma
+2016,02/11,Oklahoma - Oregon State Dual,141,L,FALL,4:20,Jack Hathaway,15765,Oregon State,Trae Blackwell,20807,Oklahoma
+2016,01/30,Oklahoma - Missouri Dual,141,L,FALL,2:40,Matt Manley,13384,Missouri,Trae Blackwell,20807,Oklahoma
+2016,01/22,Iowa State - Oklahoma Dual,141,W,DEC,7 - 3,John Meeks,11597,Iowa State,Trae Blackwell,20807,Oklahoma
+2016,01/17,Oklahoma - West Virginia Dual,141,W,DEC,7 - 4,Tony DeAngelo,22458,West Virginia,Trae Blackwell,20807,Oklahoma
+2016,01/15,Oklahoma - Bucknell Dual,141,W,MD,15 - 4,Grim Gonzalez,18150,Bucknell,Trae Blackwell,20807,Oklahoma
+2016,01/09,Oklahoma - Wyoming Dual,141,L,MD,10 - 1,Bryce Meredith,20135,Wyoming,Trae Blackwell,20807,Oklahoma
+2016,12/29,Midlands Championships,141,L,TF5,16 - 1 7:00,Kevin Jack,20130,NC State,Trae Blackwell,20807,Oklahoma
+2016,12/29,Midlands Championships,141,W,DEC,8 - 7,John Muldoon,20384,SIU Edwardsville,Trae Blackwell,20807,Oklahoma
+2016,12/29,Midlands Championships,141,W,DEC,11 - 7,Cole Martin,39773,Wisconsin,Trae Blackwell,20807,Oklahoma
+2016,12/29,Midlands Championships,141,L,MD,12 - 0,Anthony Ashnault,11803,Rutgers,Trae Blackwell,20807,Oklahoma
+2016,12/29,Midlands Championships,141,W,MD,16 - 6,Matt Adcock,23124,Wisconsin-Whitewater,Trae Blackwell,20807,Oklahoma
+2016,12/29,Midlands Championships,141,W,FALL,2:07,Robert Mathers,40849,Arizona State,Trae Blackwell,20807,Oklahoma
+2016,12/20,Lehigh - Oklahoma Dual,141,L,MD,8 - 0,Randy Cruz,11853,Lehigh,Trae Blackwell,20807,Oklahoma
+2016,12/13,Oklahoma State - Oklahoma Dual,141,L,MD,13 - 3,Dean Heil,15376,Oklahoma State,Trae Blackwell,20807,Oklahoma
+2016,11/15,Army - Oklahoma Dual,141,L,DEC,11 - 4,Logan Everett,12041,Army West Point,Trae Blackwell,20807,Oklahoma
+2016,11/15,Rutgers - Oklahoma Dual,141,L,TF5,17 - 1 5:14,Anthony Ashnault,11803,Rutgers,Trae Blackwell,20807,Oklahoma
+2016,11/08,Oklahoma Open,141,L,DEC,5 - 2,Dusty Hone,20271,Oklahoma State,Trae Blackwell,20807,Oklahoma
+2016,11/08,Oklahoma Open,141,L,TB-1,5 - 4,Tristan Moran,39545,Oklahoma State,Trae Blackwell,20807,Oklahoma
+2016,11/08,Oklahoma Open,141,W,DEC,6 - 2,Dusty Hone,20271,Oklahoma State,Trae Blackwell,20807,Oklahoma
+2016,11/08,Oklahoma Open,141,W,FALL,1:14,Noah Teaney,20819,Oklahoma,Trae Blackwell,20807,Oklahoma
+2016,02/05,Oklahoma - Oklahoma State Dual,141,L,TF5,16 - 1 7:00,Dean Heil,15376,Oklahoma State,Noah Teaney,20819,Oklahoma
+2016,12/29,Midlands Championships,141,L,DEC,7 - 2,Seth Gross,19949,South Dakota State,Noah Teaney,20819,Oklahoma
+2016,12/29,Midlands Championships,141,W,DEC,7 - 5,Billy Rappo,14686,Maryland,Noah Teaney,20819,Oklahoma
+2016,12/29,Midlands Championships,141,L,FALL,4:21,Danny Sabatello,11741,Purdue,Noah Teaney,20819,Oklahoma
+2016,12/29,Midlands Championships,141,W,FALL,2:21,Tanner Stephens,20287,Old Dominion,Noah Teaney,20819,Oklahoma
+2016,12/29,Midlands Championships,141,W,MD,16 - 4,Robert Mathers,40849,Arizona State,Noah Teaney,20819,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,141,W,DEC,3 - 2,Jake Velarde,19695,Boise State,Noah Teaney,20819,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,141,W,DEC,5 - 3,Ty Buckiso,20399,The Citadel,Noah Teaney,20819,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,141,L,DEC,6 - 5,Ian Nickell,20540,CSU Bakersfield,Noah Teaney,20819,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,141,L,FALL,0:35,Mitch Bengtson,11619,North Dakota State,Noah Teaney,20819,Oklahoma
+2016,11/22,Oklahoma - Michigan Dual,141,L,DEC,7 - 5,George Fisher,13432,Michigan,Noah Teaney,20819,Oklahoma
+2016,11/19,Northern Colorado - Oklahoma Dual,141,W,FALL,1:43,Michael Espinoza,21974,Northern Colorado,Noah Teaney,20819,Oklahoma
+2016,11/08,Oklahoma Open,141,L,FALL,1:14,Trae Blackwell,20807,Oklahoma,Noah Teaney,20819,Oklahoma
+2016,11/08,Oklahoma Open,141,W,DEC,8 - 5,Lincoln Lemon,17329,Oklahoma State,Noah Teaney,20819,Oklahoma
+2016,11/08,Oklahoma Open,141,L,FALL,2:38,Dean Heil,15376,Oklahoma State,Noah Teaney,20819,Oklahoma
+2016,11/01,OCU Open,141,W,DEC,16 - 12,Dan Gaylor,24648,New Mexico Highlands,Noah Teaney,20819,Oklahoma
+2016,11/01,OCU Open,141,W,DEC,5 - 0,James Landoll,21220,Oklahoma City,Noah Teaney,20819,Oklahoma
+2016,11/01,OCU Open,141,W,FALL,1:17,Carson Moore,40967,Unattached,Noah Teaney,20819,Oklahoma
+2016,11/01,OCU Open,141,W,SV-1,2 - 0,Joe Schumacher,20277,Oklahoma State,Noah Teaney,20819,Oklahoma
+2016,12/06,Bob Smith Open,141,L,MFOR,0 - 0,Riley Thomas,24850,Adams State,Aaron O'brien,40985,Oklahoma
+2016,12/06,Bob Smith Open,141,L,MD,15 - 4,Tristan Moran,39545,Oklahoma State,Aaron O'brien,40985,Oklahoma
+2016,12/06,Bob Smith Open,141,W,FALL,2:48,Joel Rico,43389,Adams State,Aaron O'brien,40985,Oklahoma
+2016,11/08,Oklahoma Open,141,L,MD,10 - 2,Dusty Hone,20271,Oklahoma State,Aaron O'brien,40985,Oklahoma
+2016,11/08,Oklahoma Open,141,L,TF5,20 - 1 7:00,Dean Heil,15376,Oklahoma State,Aaron O'brien,40985,Oklahoma
+2016,11/08,Oklahoma Open,141,W,FALL,1:35,Lincoln Lemon,17329,Oklahoma State,Aaron O'brien,40985,Oklahoma
+2016,11/08,Oklahoma Open,141,W,TF5,17 - 2 7:00,Colton Stalford,41466,Northeastern Oklahoma,Aaron O'brien,40985,Oklahoma
+2016,11/01,OCU Open,141,L,MD,11 - 1,Mitchell Sellers,40987,Northeastern Oklahoma,Aaron O'brien,40985,Oklahoma
+2016,11/01,OCU Open,141,L,MD,14 - 5,Tristan Moran,39545,Oklahoma State,Aaron O'brien,40985,Oklahoma
+2016,11/01,OCU Open,141,W,TF5,20 - 4 7:00,Abraham Rodriguez,40986,Wayland Baptist,Aaron O'brien,40985,Oklahoma
+2016,11/01,OCU Open,141,W,FALL,0:54,Corey Carter,15371,Unattached,Aaron O'brien,40985,Oklahoma
+2016,03/17,NCAA Championships,149,W,DEC,6 - 1,Steven Galiardo,11797,Brown,Davion Jeffries,39653,Oklahoma
+2016,03/17,NCAA Championships,149,L,DEC,3 - 2,Lavion Mayes,11599,Missouri,Davion Jeffries,39653,Oklahoma
+2016,03/17,NCAA Championships,149,W,FALL,4:58,Chris Vassar,11981,Gardner-Webb,Davion Jeffries,39653,Oklahoma
+2016,03/17,NCAA Championships,149,L,DEC,3 - 2,Geordan Martinez,19690,Boise State,Davion Jeffries,39653,Oklahoma
+2016,03/17,NCAA Championships,149,W,MD,11 - 2,Matt Kraus,11779,Arizona State,Davion Jeffries,39653,Oklahoma
+2016,03/05,Big 12 Championships,149,W,DEC,7 - 3,Clay Ream,13748,North Dakota State,Davion Jeffries,39653,Oklahoma
+2016,03/05,Big 12 Championships,149,W,FALL,4:47,Alex Kocer,20562,South Dakota State,Davion Jeffries,39653,Oklahoma
+2016,03/05,Big 12 Championships,149,L,MD,11 - 3,Anthony Collica,11723,Oklahoma State,Davion Jeffries,39653,Oklahoma
+2016,02/14,South Dakota State - Oklahoma Dual,149,L,DEC,9 - 5,Alex Kocer,20562,South Dakota State,Davion Jeffries,39653,Oklahoma
+2016,02/11,Oklahoma - Oregon State Dual,149,W,DEC,11 - 5,Joey Delgado,11620,Oregon State,Davion Jeffries,39653,Oklahoma
+2016,02/05,Oklahoma - Oklahoma State Dual,149,L,MD,16 - 6,Anthony Collica,11723,Oklahoma State,Davion Jeffries,39653,Oklahoma
+2016,01/30,Oklahoma - Missouri Dual,149,L,DEC,4 - 2,Lavion Mayes,11599,Missouri,Davion Jeffries,39653,Oklahoma
+2016,01/22,Iowa State - Oklahoma Dual,149,W,FALL,3:32,Gabe Moreno,11816,Iowa State,Davion Jeffries,39653,Oklahoma
+2016,01/17,Oklahoma - West Virginia Dual,149,W,MD,11 - 1,Zachary Moore,39678,West Virginia,Davion Jeffries,39653,Oklahoma
+2016,01/15,Oklahoma - Bucknell Dual,149,W,DEC,4 - 2,Victor Lopez,11886,Bucknell,Davion Jeffries,39653,Oklahoma
+2016,01/09,Oklahoma - Wyoming Dual,149,W,DEC,10 - 3,Cole Mendenhall,11607,Wyoming,Davion Jeffries,39653,Oklahoma
+2016,12/20,Lehigh - Oklahoma Dual,149,L,DEC,6 - 5,Laike Gardner,11748,Lehigh,Davion Jeffries,39653,Oklahoma
+2016,12/13,Oklahoma State - Oklahoma Dual,149,L,MD,10 - 2,Jonce Blaylock,20266,Oklahoma State,Davion Jeffries,39653,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,149,W,FALL,3:55,Bradford Gerl,43291,Cal Baptist,Davion Jeffries,39653,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,149,L,MD,14 - 6,Michael DePalma,13801,Kent State,Davion Jeffries,39653,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,149,L,MD,13 - 2,Matt Kraus,11779,Arizona State,Davion Jeffries,39653,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,149,L,DEC,5 - 4,Lavion Mayes,11599,Missouri,Davion Jeffries,39653,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,149,W,MD,15 - 4,Benjamin Polkowske,20556,Northern Colorado,Davion Jeffries,39653,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,149,W,DEC,8 - 1,Alec Pantaleo,20020,Michigan,Davion Jeffries,39653,Oklahoma
+2016,11/22,Oklahoma - Michigan Dual,149,W,DEC,4 - 3,Alec Pantaleo,20020,Michigan,Davion Jeffries,39653,Oklahoma
+2016,11/19,Northern Colorado - Oklahoma Dual,149,W,MD,13 - 4,Timmy Box,14724,Northern Colorado,Davion Jeffries,39653,Oklahoma
+2016,11/15,Army - Oklahoma Dual,149,W,FALL,2:34,Javier Rodriguez,14925,Army West Point,Davion Jeffries,39653,Oklahoma
+2016,11/15,Rutgers - Oklahoma Dual,149,W,DEC,9 - 2,Tyson Dippery,11750,Rutgers,Davion Jeffries,39653,Oklahoma
+2016,11/08,Oklahoma Open,149,L,DEC,13 - 7,Anthony Collica,11723,Oklahoma State,Davion Jeffries,39653,Oklahoma
+2016,11/08,Oklahoma Open,149,W,SV-1,6 - 4,Davey Dolan,13223,Oklahoma State,Davion Jeffries,39653,Oklahoma
+2016,11/08,Oklahoma Open,149,W,DEC,5 - 4,Nosomi Poso,41468,Oklahoma,Davion Jeffries,39653,Oklahoma
+2016,11/01,OCU Open,149,W,TF5,17 - 2 7:00,Dustin Hayden,40994,Northeastern Oklahoma,Davion Jeffries,39653,Oklahoma
+2016,11/01,OCU Open,149,W,DEC,1 - 1,Jonce Blaylock,20266,Oklahoma State,Davion Jeffries,39653,Oklahoma
+2016,11/01,OCU Open,149,W,TF5,17 - 2 7:00,Justin Fletcher,40993,Northeastern Oklahoma,Davion Jeffries,39653,Oklahoma
+2016,11/01,OCU Open,149,W,TF5,18 - 3 7:00,Rayshaad Warren,40992,King,Davion Jeffries,39653,Oklahoma
+2016,11/01,OCU Open,149,W,FALL,1:21,Francisco Vazquez,40991,Midland,Davion Jeffries,39653,Oklahoma
+2016,11/08,Oklahoma Open,149,W,TF5,23 - 8 7:00,Josh McDermett,20814,Oklahoma,Nosomi Poso,41468,Oklahoma
+2016,11/08,Oklahoma Open,149,W,TF5,21 - 4 7:00,Nathan Walker,41469,Bacone,Nosomi Poso,41468,Oklahoma
+2016,11/08,Oklahoma Open,149,W,DEC,8 - 7,Jonce Blaylock,20266,Oklahoma State,Nosomi Poso,41468,Oklahoma
+2016,11/08,Oklahoma Open,149,L,DEC,5 - 4,Davion Jeffries,39653,Oklahoma,Nosomi Poso,41468,Oklahoma
+2016,11/01,OCU Open,149,L,MFOR,0 - 0,Will Steltzlen,23690,Central Oklahoma,Jake Thornton,40995,Oklahoma
+2016,11/01,OCU Open,149,L,DEC,6 - 1,Dustin Hayden,40994,Northeastern Oklahoma,Jake Thornton,40995,Oklahoma
+2016,11/01,OCU Open,149,W,FALL,5:51,Mitchell Landgrebe,40997,Oklahoma City,Jake Thornton,40995,Oklahoma
+2016,11/01,OCU Open,149,W,DEC,4 - 0,Jason Hall-box,40996,Northeastern Oklahoma,Jake Thornton,40995,Oklahoma
+2016,11/08,Oklahoma Open,149,L,TF5,21 - 5 7:00,Anthony Collica,11723,Oklahoma State,Josh McDermett,20814,Oklahoma
+2016,11/08,Oklahoma Open,149,W,DEC,11 - 6,Alex Nelson,41479,Northeastern Oklahoma,Josh McDermett,20814,Oklahoma
+2016,11/08,Oklahoma Open,149,L,TF5,23 - 8 7:00,Nosomi Poso,41468,Oklahoma,Josh McDermett,20814,Oklahoma
+2016,11/01,OCU Open,149,L,DEC,7 - 3,Reis Humphrey,40990,New Mexico Highlands,Josh McDermett,20814,Oklahoma
+2016,11/01,OCU Open,149,W,DEC,10 - 7,Ezelle Parks,40989,Midland,Josh McDermett,20814,Oklahoma
+2016,11/01,OCU Open,149,L,DEC,7 - 6,Andrew Hoskins,40988,Campbellsville,Josh McDermett,20814,Oklahoma
+2016,02/14,South Dakota State - Oklahoma Dual,157,L,MD,15 - 1,Cody Pack,13498,South Dakota State,Shayne Tucker,14788,Oklahoma
+2016,02/11,Oklahoma - Oregon State Dual,157,L,DEC,5 - 2,Abraham Rodriquez,42226,Oregon State,Shayne Tucker,14788,Oklahoma
+2016,02/05,Oklahoma - Oklahoma State Dual,157,L,DEC,11 - 4,Joe Smith,39786,Oklahoma State,Shayne Tucker,14788,Oklahoma
+2016,12/29,Midlands Championships,157,L,FALL,5:28,Richie Lewis,40042,Rutgers,Shayne Tucker,14788,Oklahoma
+2016,12/29,Midlands Championships,157,L,MD,16 - 2,Cody Pack,13498,South Dakota State,Shayne Tucker,14788,Oklahoma
+2016,12/29,Midlands Championships,157,W,DEC,9 - 5,Francesco Fabozzi,20335,Princeton,Shayne Tucker,14788,Oklahoma
+2016,12/29,Midlands Championships,157,W,DEC,4 - 2,Renaldo Rodriguez-Spencer,19965,Iowa State,Shayne Tucker,14788,Oklahoma
+2016,12/29,Midlands Championships,157,W,TB-1,5 - 4,Timothy Schaefer,40475,Buffalo,Shayne Tucker,14788,Oklahoma
+2016,12/20,Lehigh - Oklahoma Dual,157,L,FALL,6:04,Mitch Minotti,13880,Lehigh,Shayne Tucker,14788,Oklahoma
+2016,11/22,Oklahoma - Michigan Dual,157,W,INJ,7:00,Brian Murphy,13518,Michigan,Shayne Tucker,14788,Oklahoma
+2016,11/08,Oklahoma Open,157,L,DEC,2 - 1,Ryan Blees,20267,Oklahoma State,Shayne Tucker,14788,Oklahoma
+2016,11/08,Oklahoma Open,157,W,DEC,13 - 6,Dalton Moran,13565,Oklahoma State,Shayne Tucker,14788,Oklahoma
+2016,11/08,Oklahoma Open,157,W,DEC,8 - 5,Hestin Lamons,20272,Oklahoma State,Shayne Tucker,14788,Oklahoma
+2016,11/08,Oklahoma Open,157,L,DEC,3 - 1,Yoanse Mejias,41470,Oklahoma,Shayne Tucker,14788,Oklahoma
+2016,03/05,Big 12 Championships,157,L,DEC,8 - 2,Zachary Stepan,41449,Air Force,Brock Wingbermuehle,20823,Oklahoma
+2016,03/05,Big 12 Championships,157,L,DEC,5 - 2,Kyle Gliva,13424,North Dakota State,Brock Wingbermuehle,20823,Oklahoma
+2016,01/30,Oklahoma - Missouri Dual,157,L,MD,8 - 0,Le'Roy Barnes,20053,Missouri,Brock Wingbermuehle,20823,Oklahoma
+2016,01/22,Iowa State - Oklahoma Dual,157,L,DEC,10 - 8,Renaldo Rodriguez-Spencer,19965,Iowa State,Brock Wingbermuehle,20823,Oklahoma
+2016,01/17,Oklahoma - West Virginia Dual,157,L,MD,12 - 3,Dylan Cottrell,14019,West Virginia,Brock Wingbermuehle,20823,Oklahoma
+2016,01/15,Oklahoma - Bucknell Dual,157,W,DEC,3 - 2,Zach Kelly,40367,Bucknell,Brock Wingbermuehle,20823,Oklahoma
+2016,01/09,Oklahoma - Wyoming Dual,157,L,FALL,4:13,Archie Colgan,15555,Wyoming,Brock Wingbermuehle,20823,Oklahoma
+2016,12/29,Midlands Championships,157,L,TF5,19 - 2 7:00,Jared Scharenbrock,20488,Wisconsin,Brock Wingbermuehle,20823,Oklahoma
+2016,12/29,Midlands Championships,157,W,FALL,4:31,Francesco Fabozzi,20335,Princeton,Brock Wingbermuehle,20823,Oklahoma
+2016,12/29,Midlands Championships,157,W,FALL,1:59,Tim McCarthy,40309,Illinois,Brock Wingbermuehle,20823,Oklahoma
+2016,12/29,Midlands Championships,157,L,DEC,7 - 2,Oliver Pierce,20578,Arizona State,Brock Wingbermuehle,20823,Oklahoma
+2016,12/13,Oklahoma State - Oklahoma Dual,157,L,TF5,16 - 1 7:00,Chance Marsteller,47805,Oklahoma State,Brock Wingbermuehle,20823,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,157,L,TF5,15 - 0 2:08,Ian Miller,11851,Kent State,Brock Wingbermuehle,20823,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,157,W,TF5,15 - 0 1:53,Grant Nehring,13556,North Dakota State,Brock Wingbermuehle,20823,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,157,L,FALL,0:48,Brandon Kingsley,13491,Minnesota,Brock Wingbermuehle,20823,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,157,W,MD,11 - 2,Logan Kerin,11850,Bucknell,Brock Wingbermuehle,20823,Oklahoma
+2016,11/19,Northern Colorado - Oklahoma Dual,157,L,DEC,7 - 2,Eleazar DeLuca,21757,Northern Colorado,Brock Wingbermuehle,20823,Oklahoma
+2016,11/15,Army - Oklahoma Dual,157,L,DEC,8 - 1,Russell Parsons,19642,Army West Point,Brock Wingbermuehle,20823,Oklahoma
+2016,11/15,Rutgers - Oklahoma Dual,157,L,MD,15 - 6,Richie Lewis,40042,Rutgers,Brock Wingbermuehle,20823,Oklahoma
+2016,01/24,Roger Denker Open,165,W,DEC,3 - 1,Matt Lemanowicz,20061,Missouri,Yoanse Mejias,41470,Oklahoma
+2016,11/08,Oklahoma Open,157,L,DEC,8 - 3,Chance Marsteller,47805,Oklahoma State,Yoanse Mejias,41470,Oklahoma
+2016,11/08,Oklahoma Open,157,W,DEC,3 - 1,Shayne Tucker,14788,Oklahoma,Yoanse Mejias,41470,Oklahoma
+2016,11/08,Oklahoma Open,157,W,DEC,8 - 6,Hestin Lamons,20272,Oklahoma State,Yoanse Mejias,41470,Oklahoma
+2016,11/08,Oklahoma Open,157,L,DEC,7 - 4,Joe Smith,39786,Oklahoma State,Yoanse Mejias,41470,Oklahoma
+2016,11/08,Oklahoma Open,157,W,DEC,8 - 5,Kristian Holguin-mendez,41051,Northeastern Oklahoma,Yoanse Mejias,41470,Oklahoma
+2016,03/17,NCAA Championships,165,L,DEC,5 - 2,Anthony Perrotti,13752,Rutgers,Clark Glass,11488,Oklahoma
+2016,03/17,NCAA Championships,165,L,MD,9 - 1,Isaac Jordan,13465,Wisconsin,Clark Glass,11488,Oklahoma
+2016,03/17,NCAA Championships,165,W,TB-1,2 - 1,Ryan Preisch,19987,Lehigh,Clark Glass,11488,Oklahoma
+2016,03/17,NCAA Championships,165,W,DEC,5 - 3,Tyrel White,19820,Columbia,Clark Glass,11488,Oklahoma
+2016,03/05,Big 12 Championships,165,W,DEC,5 - 0,Connor Flynn,39676,West Virginia,Clark Glass,11488,Oklahoma
+2016,03/05,Big 12 Championships,165,W,DEC,4 - 0,Keilan Torres,18105,Northern Colorado,Clark Glass,11488,Oklahoma
+2016,03/05,Big 12 Championships,165,W,DEC,7 - 2,Luke Zilverberg,13633,South Dakota State,Clark Glass,11488,Oklahoma
+2016,03/05,Big 12 Championships,165,L,DEC,5 - 1,Tanner Weatherman,12253,Iowa State,Clark Glass,11488,Oklahoma
+2016,02/14,South Dakota State - Oklahoma Dual,165,W,DEC,6 - 1,Luke Zilverberg,13633,South Dakota State,Clark Glass,11488,Oklahoma
+2016,02/11,Oklahoma - Oregon State Dual,165,W,DEC,3 - 1,Seth Thomas,18159,Oregon State,Clark Glass,11488,Oklahoma
+2016,02/05,Oklahoma - Oklahoma State Dual,165,L,MD,16 - 3,Alex Dieringer,13470,Oklahoma State,Clark Glass,11488,Oklahoma
+2016,01/30,Oklahoma - Missouri Dual,165,L,DEC,4 - 0,Daniel Lewis,20062,Missouri,Clark Glass,11488,Oklahoma
+2016,01/22,Iowa State - Oklahoma Dual,165,L,DEC,6 - 2,Tanner Weatherman,12253,Iowa State,Clark Glass,11488,Oklahoma
+2016,01/17,Oklahoma - West Virginia Dual,165,W,DEC,4 - 0,Connor Flynn,39676,West Virginia,Clark Glass,11488,Oklahoma
+2016,01/15,Oklahoma - Bucknell Dual,165,W,MD,10 - 1,Robert Schlitt,11503,Bucknell,Clark Glass,11488,Oklahoma
+2016,01/09,Oklahoma - Wyoming Dual,165,W,DEC,4 - 1,Kyle Pope,16072,Wyoming,Clark Glass,11488,Oklahoma
+2016,12/29,Midlands Championships,165,L,MFOR,0 - 0,Chad Welch,11543,Purdue,Clark Glass,11488,Oklahoma
+2016,12/29,Midlands Championships,165,W,DEC,7 - 5,Luke Zilverberg,13633,South Dakota State,Clark Glass,11488,Oklahoma
+2016,12/29,Midlands Championships,165,W,DEC,4 - 0,Nolan Kistler,21242,Cal Baptist,Clark Glass,11488,Oklahoma
+2016,12/29,Midlands Championships,165,W,MD,12 - 0,Derek Holcomb,19720,Buffalo,Clark Glass,11488,Oklahoma
+2016,12/29,Midlands Championships,165,L,MFOR,0 - 0,Tyler Rill,12862,Buffalo,Clark Glass,11488,Oklahoma
+2016,12/20,Lehigh - Oklahoma Dual,165,L,DEC,5 - 2,Ryan Preisch,19987,Lehigh,Clark Glass,11488,Oklahoma
+2016,12/13,Oklahoma State - Oklahoma Dual,165,L,MD,13 - 4,Alex Dieringer,13470,Oklahoma State,Clark Glass,11488,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,165,L,DEC,8 - 2,Daniel Lewis,20062,Missouri,Clark Glass,11488,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,165,W,MD,15 - 4,Tyler McNutt,20765,North Dakota State,Clark Glass,11488,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,165,W,TB-2,1 - 0,Devon Gobbo,18139,Harvard,Clark Glass,11488,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,165,W,MD,10 - 1,Justin Kresevic,14838,Ohio State,Clark Glass,11488,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,165,W,DEC,6 - 3,Tyrel White,19820,Columbia,Clark Glass,11488,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,165,L,DEC,2 - 1,Chad Welch,11543,Purdue,Clark Glass,11488,Oklahoma
+2016,11/22,Oklahoma - Michigan Dual,165,W,DEC,3 - 2,Garrett Sutton,20024,Michigan,Clark Glass,11488,Oklahoma
+2016,11/19,Northern Colorado - Oklahoma Dual,165,W,MD,16 - 6,Joseph Grable,20188,Northern Colorado,Clark Glass,11488,Oklahoma
+2016,11/15,Army - Oklahoma Dual,165,W,DEC,13 - 6,Andrew Mendel,19640,Army West Point,Clark Glass,11488,Oklahoma
+2016,11/15,Rutgers - Oklahoma Dual,165,W,DEC,6 - 4,Anthony Perrotti,13752,Rutgers,Clark Glass,11488,Oklahoma
+2016,01/24,Roger Denker Open,165,W,FALL,2:04,Austin Eveler,39579,Missouri,Hayden Hansen,39613,Oklahoma
+2016,01/24,Roger Denker Open,165,L,DEC,6 - 1,Dakota Head,44078,Central Oklahoma,Hayden Hansen,39613,Oklahoma
+2016,01/24,Roger Denker Open,165,L,DEC,4 - 0,Matt Lemanowicz,20061,Missouri,Hayden Hansen,39613,Oklahoma
+2016,01/24,Roger Denker Open,165,W,MD,11 - 3,Samuel Dawes,44077,Northeastern Oklahoma,Hayden Hansen,39613,Oklahoma
+2016,01/24,Roger Denker Open,165,W,FALL,2:04,Austin Schneider,44076,Unattached,Hayden Hansen,39613,Oklahoma
+2016,11/08,Oklahoma Open,165,W,DEC,5 - 2,Jared Schieber,20817,Oklahoma,Hayden Hansen,39613,Oklahoma
+2016,11/08,Oklahoma Open,165,W,TF5,17 - 2 7:00,Saul Ortiz,41000,Northeastern Oklahoma,Hayden Hansen,39613,Oklahoma
+2016,11/08,Oklahoma Open,165,L,SV-1,3 - 1,Dawaylon Barnes,22085,Northeastern Oklahoma,Hayden Hansen,39613,Oklahoma
+2016,11/08,Oklahoma Open,165,W,MD,14 - 1,Tyler Logan,41473,Bacone,Hayden Hansen,39613,Oklahoma
+2016,11/01,OCU Open,165,W,DEC,7 - 0,Chazden Blankenship,41004,Labette Community College,Hayden Hansen,39613,Oklahoma
+2016,11/01,OCU Open,165,W,FALL,2:04,Mikal Walters,41003,Arkansas Baptist,Hayden Hansen,39613,Oklahoma
+2016,11/01,OCU Open,165,W,DEC,12 - 9,Cooper Self,41002,Midland,Hayden Hansen,39613,Oklahoma
+2016,11/01,OCU Open,165,W,DEC,3 - 1,Tyler Mann,20274,Oklahoma State,Hayden Hansen,39613,Oklahoma
+2016,11/08,Oklahoma Open,165,W,DEC,7 - 2,Tyler Mann,20274,Oklahoma State,Jared Schieber,20817,Oklahoma
+2016,11/08,Oklahoma Open,165,L,TF5,21 - 6 7:00,Alex Dieringer,13470,Oklahoma State,Jared Schieber,20817,Oklahoma
+2016,11/08,Oklahoma Open,165,L,DEC,5 - 2,Hayden Hansen,39613,Oklahoma,Jared Schieber,20817,Oklahoma
+2016,11/01,OCU Open,165,L,DEC,5 - 1,Cooper Self,41002,Midland,Jared Schieber,20817,Oklahoma
+2016,11/01,OCU Open,165,W,MD,8 - 0,Andrew Woodward,41001,Midland,Jared Schieber,20817,Oklahoma
+2016,11/01,OCU Open,165,W,DEC,3 - 2,Saul Ortiz,41000,Northeastern Oklahoma,Jared Schieber,20817,Oklahoma
+2016,11/01,OCU Open,165,L,DEC,6 - 6,Justin Mcginnes,40999,Northeastern Oklahoma,Jared Schieber,20817,Oklahoma
+2016,03/17,NCAA Championships,174,L,FALL,6:49,Casey Kent,11517,Pennsylvania,Matt Reed,15381,Oklahoma
+2016,03/17,NCAA Championships,174,L,DEC,2 - 0,Myles Martin,39622,Ohio State,Matt Reed,15381,Oklahoma
+2016,03/17,NCAA Championships,174,W,DEC,16 - 9,Blaise Butler,13756,Missouri,Matt Reed,15381,Oklahoma
+2016,03/17,NCAA Championships,174,W,DEC,11 - 5,Nick Kee,14557,Appalachian State,Matt Reed,15381,Oklahoma
+2016,03/05,Big 12 Championships,174,W,FALL,3:26,Adam Jackson,16161,Air Force,Matt Reed,15381,Oklahoma
+2016,03/05,Big 12 Championships,174,W,DEC,6 - 4,Ross Taylor,15548,Utah Valley,Matt Reed,15381,Oklahoma
+2016,03/05,Big 12 Championships,174,W,MFOR,0 - 0,David Kocer,13612,South Dakota State,Matt Reed,15381,Oklahoma
+2016,03/05,Big 12 Championships,174,L,SV-1,3 - 1,Lelund Weatherspoon,12283,Iowa State,Matt Reed,15381,Oklahoma
+2016,02/14,South Dakota State - Oklahoma Dual,174,W,DEC,9 - 4,David Kocer,13612,South Dakota State,Matt Reed,15381,Oklahoma
+2016,02/11,Oklahoma - Oregon State Dual,174,W,DEC,8 - 2,Tyler Chay,18454,Oregon State,Matt Reed,15381,Oklahoma
+2016,02/05,Oklahoma - Oklahoma State Dual,174,W,DEC,3 - 2,Kyle Crutchmer,12286,Oklahoma State,Matt Reed,15381,Oklahoma
+2016,01/30,Oklahoma - Missouri Dual,174,L,FALL,2:16,Blaise Butler,13756,Missouri,Matt Reed,15381,Oklahoma
+2016,01/22,Iowa State - Oklahoma Dual,174,W,DEC,6 - 1,Lelund Weatherspoon,12283,Iowa State,Matt Reed,15381,Oklahoma
+2016,01/17,Oklahoma - West Virginia Dual,174,W,DEC,4 - 0,Ross Renzi,11474,West Virginia,Matt Reed,15381,Oklahoma
+2016,01/15,Oklahoma - Bucknell Dual,174,L,DEC,7 - 5,Rustin Barrick,11515,Bucknell,Matt Reed,15381,Oklahoma
+2016,01/09,Oklahoma - Wyoming Dual,174,W,DEC,8 - 6,Benjamin Stroh,12647,Wyoming,Matt Reed,15381,Oklahoma
+2016,12/29,Midlands Championships,174,W,FALL,4:49,Ali Alshujery,20290,Oregon State,Matt Reed,15381,Oklahoma
+2016,12/29,Midlands Championships,174,L,DEC,5 - 2,Jacob Holschlag,39800,Northern Iowa,Matt Reed,15381,Oklahoma
+2016,12/29,Midlands Championships,174,L,FALL,4:54,Devin Skatzka,39603,Indiana,Matt Reed,15381,Oklahoma
+2016,12/29,Midlands Championships,174,W,DEC,5 - 3,Jacob Davis,11492,Eastern Michigan,Matt Reed,15381,Oklahoma
+2016,12/20,Lehigh - Oklahoma Dual,174,W,DEC,7 - 5,Gordon Wolf,19992,Lehigh,Matt Reed,15381,Oklahoma
+2016,12/13,Oklahoma State - Oklahoma Dual,174,L,DEC,9 - 3,Kyle Crutchmer,12286,Oklahoma State,Matt Reed,15381,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,174,L,SV-1,1 - 0,Davonte Mahomes,20019,Michigan,Matt Reed,15381,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,174,W,FALL,3:14,Tim Knipl,40028,The Citadel,Matt Reed,15381,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,174,L,SV-1,1 - 0,Jadaen Bernstein,20595,Navy,Matt Reed,15381,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,174,W,FALL,1:14,Jordon Rothers,11571,Minnesota,Matt Reed,15381,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,174,L,SV-1,6 - 4,Davonte Mahomes,20019,Michigan,Matt Reed,15381,Oklahoma
+2016,11/22,Oklahoma - Michigan Dual,174,W,DEC,14 - 7,Davonte Mahomes,20019,Michigan,Matt Reed,15381,Oklahoma
+2016,11/19,Northern Colorado - Oklahoma Dual,174,W,FALL,1:00,Horacio Vialpondo,20193,Northern Colorado,Matt Reed,15381,Oklahoma
+2016,11/15,Army - Oklahoma Dual,174,W,DEC,6 - 2,Brian Harvey,12302,Army West Point,Matt Reed,15381,Oklahoma
+2016,11/15,Rutgers - Oklahoma Dual,174,W,DEC,7 - 6,Phillip Bakuckas,12289,Rutgers,Matt Reed,15381,Oklahoma
+2016,11/08,Oklahoma Open,174,L,FALL,2:40,Jacobe Smith,22087,Northeastern Oklahoma,Brice Inbody,20812,Oklahoma
+2016,11/08,Oklahoma Open,174,W,DEC,5 - 0,Kelvin Grubbs,22688,Northeastern Oklahoma,Brice Inbody,20812,Oklahoma
+2016,11/08,Oklahoma Open,174,W,MD,15 - 2,Riley Betchan,41480,Northeastern Oklahoma,Brice Inbody,20812,Oklahoma
+2016,11/08,Oklahoma Open,174,L,MD,9 - 0,Jacobe Smith,22087,Northeastern Oklahoma,Brice Inbody,20812,Oklahoma
+2016,03/05,Big 12 Championships,184,L,DEC,3 - 2,Bubba Scheffel,20475,West Virginia,Andrew Dixon,20809,Oklahoma
+2016,03/05,Big 12 Championships,184,L,DEC,5 - 2,Brady Ayers,12290,South Dakota State,Andrew Dixon,20809,Oklahoma
+2016,02/14,South Dakota State - Oklahoma Dual,184,W,DEC,4 - 3,Brady Ayers,12290,South Dakota State,Andrew Dixon,20809,Oklahoma
+2016,02/11,Oklahoma - Oregon State Dual,184,L,MD,12 - 1,Corey Griego,20292,Oregon State,Andrew Dixon,20809,Oklahoma
+2016,02/05,Oklahoma - Oklahoma State Dual,184,L,MD,15 - 2,Nolan Boyd,12399,Oklahoma State,Andrew Dixon,20809,Oklahoma
+2016,01/30,Oklahoma - Missouri Dual,184,L,TF5,16 - 0 3:45,Cody Johnston,12284,Missouri,Andrew Dixon,20809,Oklahoma
+2016,01/22,Iowa State - Oklahoma Dual,184,W,SV-1,6 - 4,Dane Pestano,12943,Iowa State,Andrew Dixon,20809,Oklahoma
+2016,01/15,Oklahoma - Bucknell Dual,184,L,FALL,6:27,Tom Sleigh,19710,Bucknell,Andrew Dixon,20809,Oklahoma
+2016,12/20,Lehigh - Oklahoma Dual,184,L,TF5,21 - 5 6:10,Nathaniel Brown,12538,Lehigh,Andrew Dixon,20809,Oklahoma
+2016,12/13,Oklahoma State - Oklahoma Dual,184,L,TF5,17 - 2 7:00,Nolan Boyd,12399,Oklahoma State,Andrew Dixon,20809,Oklahoma
+2016,11/08,Oklahoma Open,184,W,MFOR,0 - 0,Lance Dixon,20811,Oklahoma,Andrew Dixon,20809,Oklahoma
+2016,11/08,Oklahoma Open,184,W,DEC,4 - 1,Luke Bean,22450,Oklahoma State,Andrew Dixon,20809,Oklahoma
+2016,11/08,Oklahoma Open,184,W,FALL,0:09,Jesse Lewis,22673,Northeastern Oklahoma,Andrew Dixon,20809,Oklahoma
+2016,11/08,Oklahoma Open,184,W,FALL,2:12,Cody Haire,41476,Northeastern Oklahoma,Andrew Dixon,20809,Oklahoma
+2016,11/08,Oklahoma Open,184,L,DEC,7 - 2,Nolan Boyd,12399,Oklahoma State,Andrew Dixon,20809,Oklahoma
+2016,11/22,Oklahoma - Michigan Dual,184,L,DEC,8 - 1,Domenic Abounader,12523,Michigan,Joel Dixon,20810,Oklahoma
+2016,11/19,Northern Colorado - Oklahoma Dual,184,W,DEC,6 - 2,Tanner Davis,20184,Northern Colorado,Joel Dixon,20810,Oklahoma
+2016,11/15,Army - Oklahoma Dual,184,W,FALL,4:28,Samson Imonode,12655,Army West Point,Joel Dixon,20810,Oklahoma
+2016,11/15,Rutgers - Oklahoma Dual,184,L,DEC,3 - 2,Nicholas Gravina,20360,Rutgers,Joel Dixon,20810,Oklahoma
+2016,11/01,OCU Open,197,L,MFOR,0 - 0,Miguel Tovar,22524,Oklahoma City,Joel Dixon,20810,Oklahoma
+2016,11/01,OCU Open,197,L,SV-1,6 - 4,Caleb Cotter,40972,Central Oklahoma,Joel Dixon,20810,Oklahoma
+2016,11/01,OCU Open,197,W,DEC,3 - 1,Evan Decker,40971,Campbellsville,Joel Dixon,20810,Oklahoma
+2016,01/17,Oklahoma - West Virginia Dual,184,L,DEC,5 - 0,Bubba Scheffel,20475,West Virginia,Lance Dixon,20811,Oklahoma
+2016,01/09,Oklahoma - Wyoming Dual,184,W,DEC,10 - 8,Luke Paine,16192,Wyoming,Lance Dixon,20811,Oklahoma
+2016,12/29,Midlands Championships,184,L,DEC,3 - 2,Brady Ayers,12290,South Dakota State,Lance Dixon,20811,Oklahoma
+2016,12/29,Midlands Championships,184,L,MD,12 - 2,Corey Griego,20292,Oregon State,Lance Dixon,20811,Oklahoma
+2016,12/29,Midlands Championships,184,W,DEC,6 - 4,Kayne MacCallum,19874,Eastern Michigan,Lance Dixon,20811,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,184,W,FALL,1:59,Chase Campbell,43176,North Idaho College,Lance Dixon,20811,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,184,L,TF5,15 - 0 6:33,Gabe Dean,12580,Cornell,Lance Dixon,20811,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,184,W,DEC,13 - 9,Mitch Woods,19746,Cal Poly,Lance Dixon,20811,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,184,L,SV-1,1 - 0,Dane Pestano,12943,Iowa State,Lance Dixon,20811,Oklahoma
+2016,11/08,Oklahoma Open,184,W,DEC,8 - 2,Landry Chappell,12716,Oklahoma State,Lance Dixon,20811,Oklahoma
+2016,11/08,Oklahoma Open,184,W,MD,16 - 5,Augustus Boyd,41475,Northeastern Oklahoma,Lance Dixon,20811,Oklahoma
+2016,11/08,Oklahoma Open,184,W,TF5,16 - 1 7:00,Jacob Hill,23011,Northeastern Oklahoma,Lance Dixon,20811,Oklahoma
+2016,11/08,Oklahoma Open,184,L,DEC,4 - 3,Landry Chappell,12716,Oklahoma State,Lance Dixon,20811,Oklahoma
+2016,11/08,Oklahoma Open,184,L,MFOR,0 - 0,Andrew Dixon,20809,Oklahoma,Lance Dixon,20811,Oklahoma
+2016,11/08,Oklahoma Open,184,L,DEC,8 - 5,Augustus Boyd,41475,Northeastern Oklahoma,Raul Hernandez,40969,Oklahoma
+2016,11/08,Oklahoma Open,184,L,FALL,0:24,Jordan Rogers,12544,Oklahoma State,Raul Hernandez,40969,Oklahoma
+2016,11/01,OCU Open,184,L,DEC,5 - 1,Caleb Hawes,40970,Central Oklahoma,Raul Hernandez,40969,Oklahoma
+2016,11/01,OCU Open,184,L,DEC,9 - 4,Troy Mercer,40968,Lyon College,Raul Hernandez,40969,Oklahoma
+2016,03/05,Big 12 Championships,197,L,DEC,3 - 2,Derek Thomas,13020,Utah Valley,Brad Johnson,16410,Oklahoma
+2016,03/05,Big 12 Championships,197,W,DEC,4 - 2,Brandon Tribble,13038,Wyoming,Brad Johnson,16410,Oklahoma
+2016,03/05,Big 12 Championships,197,L,DEC,8 - 5,Patrick Downey,44051,Iowa State,Brad Johnson,16410,Oklahoma
+2016,02/14,South Dakota State - Oklahoma Dual,197,L,DEC,6 - 2,Nate Rotert,12968,South Dakota State,Brad Johnson,16410,Oklahoma
+2016,02/11,Oklahoma - Oregon State Dual,197,L,DEC,4 - 2,Cody Crawford,16468,Oregon State,Brad Johnson,16410,Oklahoma
+2016,02/05,Oklahoma - Oklahoma State Dual,197,L,DEC,4 - 3,Preston Weigel,20278,Oklahoma State,Brad Johnson,16410,Oklahoma
+2016,01/30,Oklahoma - Missouri Dual,197,L,MD,9 - 0,J'den Cox,13114,Missouri,Brad Johnson,16410,Oklahoma
+2016,01/22,Iowa State - Oklahoma Dual,197,L,DEC,3 - 2,Marcus Harrington,19961,Iowa State,Brad Johnson,16410,Oklahoma
+2016,01/17,Oklahoma - West Virginia Dual,197,L,MD,13 - 4,Jake A Smith,23323,West Virginia,Brad Johnson,16410,Oklahoma
+2016,01/15,Oklahoma - Bucknell Dual,197,W,DEC,8 - 4,Tyler Greene,12506,Bucknell,Brad Johnson,16410,Oklahoma
+2016,01/09,Oklahoma - Wyoming Dual,197,L,DEC,3 - 1,Brandon Tribble,13038,Wyoming,Brad Johnson,16410,Oklahoma
+2016,12/29,Midlands Championships,197,L,MD,12 - 4,Ryan Wolfe,12552,Rider,Brad Johnson,16410,Oklahoma
+2016,12/29,Midlands Championships,197,W,DEC,6 - 2,Eric Peissig,16414,Wisconsin,Brad Johnson,16410,Oklahoma
+2016,12/29,Midlands Championships,197,L,DEC,8 - 4,Aaron Studebaker,12422,Nebraska,Brad Johnson,16410,Oklahoma
+2016,12/29,Midlands Championships,197,W,FALL,1:53,Cordell Eaton,40458,North Dakota State,Brad Johnson,16410,Oklahoma
+2016,12/20,Lehigh - Oklahoma Dual,197,L,DEC,6 - 4,Ben Haas,11564,Lehigh,Brad Johnson,16410,Oklahoma
+2016,12/13,Oklahoma State - Oklahoma Dual,197,W,DEC,8 - 6,Austin Schafer,13112,Oklahoma State,Brad Johnson,16410,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,197,L,MD,12 - 2,Reuben Franklin,13142,CSU Bakersfield,Brad Johnson,16410,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,197,W,TF5,15 - 0 6:19,Logan Paxton,40457,North Dakota State,Brad Johnson,16410,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,197,W,DEC,6 - 4,Michael Woulfe,12693,Navy,Brad Johnson,16410,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,197,L,SV-1,1 - 0,Jared Haught,13085,Virginia Tech,Brad Johnson,16410,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,197,W,DEC,9 - 3,Drake Stein,14284,Purdue,Brad Johnson,16410,Oklahoma
+2016,11/22,Oklahoma - Michigan Dual,197,L,DEC,8 - 6,Max Huntley,12662,Michigan,Brad Johnson,16410,Oklahoma
+2016,11/19,Northern Colorado - Oklahoma Dual,197,W,DEC,4 - 3,Trent Noon,12471,Northern Colorado,Brad Johnson,16410,Oklahoma
+2016,11/15,Army - Oklahoma Dual,197,W,DEC,3 - 2,Bryce Barnes,13133,Army West Point,Brad Johnson,16410,Oklahoma
+2016,11/15,Rutgers - Oklahoma Dual,197,W,MD,14 - 6,Hayden Hrymack,13118,Rutgers,Brad Johnson,16410,Oklahoma
+2016,11/08,Oklahoma Open,197,W,DEC,8 - 3,Austin Schafer,13112,Oklahoma State,Brad Johnson,16410,Oklahoma
+2016,11/08,Oklahoma Open,197,W,MD,16 - 4,Ben Laures,16322,Oklahoma State,Brad Johnson,16410,Oklahoma
+2016,11/08,Oklahoma Open,197,W,DEC,6 - 1,Preston Weigel,20278,Oklahoma State,Brad Johnson,16410,Oklahoma
+2016,11/08,Oklahoma Open,197,L,DEC,13 - 7,Ben Laures,16322,Oklahoma State,Vincent Fairbairn,41477,Oklahoma
+2016,11/08,Oklahoma Open,197,W,TF5,15 - 0 7:00,Tre'lin Wright,41478,Northeastern Oklahoma,Vincent Fairbairn,41477,Oklahoma
+2016,11/08,Oklahoma Open,197,L,DEC,7 - 3,Austin Schafer,13112,Oklahoma State,Vincent Fairbairn,41477,Oklahoma
+2016,03/17,NCAA Championships,285,W,DEC,8 - 4,William Smith,14207,Rutgers,Ross Larson,14299,Oklahoma
+2016,03/17,NCAA Championships,285,L,MD,10 - 2,Adam Coon,14123,Michigan,Ross Larson,14299,Oklahoma
+2016,03/17,NCAA Championships,285,L,DEC,10 - 6,Tanner Hall,40231,Arizona State,Ross Larson,14299,Oklahoma
+2016,03/17,NCAA Championships,285,W,FALL,1:29,Denzel Dejournette,14276,Appalachian State,Ross Larson,14299,Oklahoma
+2016,03/05,Big 12 Championships,285,W,MD,12 - 0,Marcus Malecek,14376,Air Force,Ross Larson,14299,Oklahoma
+2016,03/05,Big 12 Championships,285,W,FALL,1:49,Benjamin Tyanan,40498,North Dakota State,Ross Larson,14299,Oklahoma
+2016,03/05,Big 12 Championships,285,W,TF5,18 - 0 1:40,Dustin Dennison,20409,Utah Valley,Ross Larson,14299,Oklahoma
+2016,03/05,Big 12 Championships,285,L,DEC,8 - 6,Tanner Harms,14340,Wyoming,Ross Larson,14299,Oklahoma
+2016,02/14,South Dakota State - Oklahoma Dual,285,W,DEC,4 - 0,Alex Macki,14278,South Dakota State,Ross Larson,14299,Oklahoma
+2016,02/11,Oklahoma - Oregon State Dual,285,L,DEC,8 - 6,Amarveer Dhesi,14223,Oregon State,Ross Larson,14299,Oklahoma
+2016,02/05,Oklahoma - Oklahoma State Dual,285,L,DEC,2 - 1,Austin Marsden,14130,Oklahoma State,Ross Larson,14299,Oklahoma
+2016,01/30,Oklahoma - Missouri Dual,285,W,FALL,1:35,James Romero,40021,Missouri,Ross Larson,14299,Oklahoma
+2016,01/22,Iowa State - Oklahoma Dual,285,W,FALL,2:53,Quean Smith,14322,Iowa State,Ross Larson,14299,Oklahoma
+2016,01/17,Oklahoma - West Virginia Dual,285,W,DEC,7 - 1,AJ Vizcarrondo,14266,West Virginia,Ross Larson,14299,Oklahoma
+2016,01/15,Oklahoma - Bucknell Dual,285,L,FALL,3:25,Joe Stolfi,14234,Bucknell,Ross Larson,14299,Oklahoma
+2016,12/29,Midlands Championships,285,W,DEC,5 - 3,William Smith,14207,Rutgers,Ross Larson,14299,Oklahoma
+2016,12/29,Midlands Championships,285,W,FALL,0:57,Benjamin Tyanan,40498,North Dakota State,Ross Larson,14299,Oklahoma
+2016,12/29,Midlands Championships,285,W,DEC,6 - 3,Blaize Cabell,14147,Northern Iowa,Ross Larson,14299,Oklahoma
+2016,12/29,Midlands Championships,285,W,FALL,0:39,Quean Smith,14322,Iowa State,Ross Larson,14299,Oklahoma
+2016,12/29,Midlands Championships,285,L,MD,11 - 1,Sam Stoll,19955,Iowa,Ross Larson,14299,Oklahoma
+2016,12/29,Midlands Championships,285,L,MD,10 - 2,Tanner Hall,40231,Arizona State,Ross Larson,14299,Oklahoma
+2016,12/20,Lehigh - Oklahoma Dual,285,L,DEC,10 - 6,Max Wessell,20550,Lehigh,Ross Larson,14299,Oklahoma
+2016,12/13,Oklahoma State - Oklahoma Dual,285,L,DEC,6 - 1,Austin Marsden,14130,Oklahoma State,Ross Larson,14299,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,285,W,FALL,0:38,Sam Alnassiri,21439,San Francisco State,Ross Larson,14299,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,285,W,FALL,1:22,Damian Davis,42567,gateway international bible institute,Ross Larson,14299,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,285,W,FALL,0:39,Sam Alnassiri,21439,San Francisco State,Ross Larson,14299,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,285,W,DEC,3 - 2,Tanner Hall,40231,Arizona State,Ross Larson,14299,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,285,W,FALL,1:42,Nicholas Gajdzik,14240,Harvard,Ross Larson,14299,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,285,L,DEC,7 - 3,Ty Walz,14246,Virginia Tech,Ross Larson,14299,Oklahoma
+2016,12/04,Cliff Keen Las Vegas Invitational,285,W,DEC,5 - 2,Nick Tavanello,14228,Ohio State,Ross Larson,14299,Oklahoma
+2016,11/22,Oklahoma - Michigan Dual,285,L,DEC,4 - 1,Adam Coon,14123,Michigan,Ross Larson,14299,Oklahoma
+2016,11/19,Northern Colorado - Oklahoma Dual,285,W,MD,9 - 1,Jack Kuck,40206,Northern Colorado,Ross Larson,14299,Oklahoma
+2016,11/15,Rutgers - Oklahoma Dual,285,L,DEC,8 - 1,William Smith,14207,Rutgers,Ross Larson,14299,Oklahoma
+2016,01/09,Oklahoma - Wyoming Dual,285,L,DEC,2 - 0,Tanner Harms,14340,Wyoming,Michael Brown,20256,Oklahoma
+2016,12/29,Midlands Championships,285,W,DEC,5 - 3,Tyler Kral,14261,Purdue,Michael Brown,20256,Oklahoma
+2016,12/29,Midlands Championships,285,W,MD,9 - 0,Benjamin Tyanan,40498,North Dakota State,Michael Brown,20256,Oklahoma
+2016,12/29,Midlands Championships,285,L,MD,10 - 2,William Smith,14207,Rutgers,Michael Brown,20256,Oklahoma
+2016,12/29,Midlands Championships,285,L,FALL,6:24,Conan Jennings,20222,Northwestern,Michael Brown,20256,Oklahoma
+2016,11/15,Army - Oklahoma Dual,285,W,DEC,5 - 2,Trevor Smith,14210,Army West Point,Michael Brown,20256,Oklahoma
+2016,11/08,Oklahoma Open,285,W,DEC,2 - 0,Blake Andrews,41481,Northeastern Oklahoma,Michael Brown,20256,Oklahoma
+2016,11/08,Oklahoma Open,285,W,FALL,1:10,Christian Robertson,41068,Northeastern Oklahoma,Michael Brown,20256,Oklahoma
+2016,11/08,Oklahoma Open,285,L,DEC,4 - 1,Austin Marsden,14130,Oklahoma State,Michael Brown,20256,Oklahoma
+2016,11/08,Oklahoma Open,285,W,DEC,4 - 2,Blake Andrews,41481,Northeastern Oklahoma,Michael Brown,20256,Oklahoma
+2016,11/08,Oklahoma Open,285,L,DEC,9 - 5,Christian Robertson,41068,Northeastern Oklahoma,Rex Shotts,21249,Oklahoma
+2016,11/08,Oklahoma Open,285,L,DEC,5 - 0,Blake Andrews,41481,Northeastern Oklahoma,Rex Shotts,21249,Oklahoma
+2016,11/01,OCU Open,285,L,DEC,1 - 0,Andrew Lutterloh,40976,King,Rex Shotts,21249,Oklahoma
+2016,11/01,OCU Open,285,L,FALL,2:26,Evan Mcgee,25134,Central Oklahoma,Rex Shotts,21249,Oklahoma
+2016,11/01,OCU Open,285,W,FALL,0:45,Monte Wallace,40974,New Mexico Highlands,Rex Shotts,21249,Oklahoma

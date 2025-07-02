@@ -1,0 +1,636 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2017,03/16,NCAA Championships,125,L,DEC,5 - 2,Sean Russell,20727,Edinboro,Drew Templeman,15167,Wyoming
+2017,03/16,NCAA Championships,125,W,MD,10 - 2,Jake Gromacki,20324,Clarion,Drew Templeman,15167,Wyoming
+2017,03/16,NCAA Championships,125,L,MD,12 - 2,Joey Dance,12221,Virginia Tech,Drew Templeman,15167,Wyoming
+2017,03/16,NCAA Championships,125,W,DEC,4 - 3,Conor Youtsey,13271,Michigan,Drew Templeman,15167,Wyoming
+2017,03/04,Big 12 Championships,125,L,DEC,4 - 0,Nick Piccininni,39547,Oklahoma State,Drew Templeman,15167,Wyoming
+2017,03/04,Big 12 Championships,125,W,DEC,4 - 3,Christian Moody,39746,Oklahoma,Drew Templeman,15167,Wyoming
+2017,03/04,Big 12 Championships,125,W,MD,12 - 2,Trey Andrews,13284,Northern Colorado,Drew Templeman,15167,Wyoming
+2017,03/04,Big 12 Championships,125,W,DEC,5 - 1,Kyle Larson,12069,Iowa State,Drew Templeman,15167,Wyoming
+2017,02/12,North Dakota State - Wyoming Dual,125,L,MD,14 - 5,Josh Rodriguez,13418,North Dakota State,Drew Templeman,15167,Wyoming
+2017,02/10,Wyoming - Oklahoma Dual,125,W,DEC,2 - 1,Christian Moody,39746,Oklahoma,Drew Templeman,15167,Wyoming
+2017,02/08,Wyoming - Northern Colorado Dual,125,W,DEC,6 - 1,Trey Andrews,13284,Northern Colorado,Drew Templeman,15167,Wyoming
+2017,02/04,Air Force - Wyoming Dual,125,W,DEC,4 - 1,Drew Romero,20712,Air Force,Drew Templeman,15167,Wyoming
+2017,01/30,Boise State - Wyoming Dual,125,W,MD,12 - 0,Will Bardezbain,42644,Boise State,Drew Templeman,15167,Wyoming
+2017,01/28,Wyoming - Utah Valley Dual,125,W,DEC,2 - 0,Mitch Brown,40325,Utah Valley,Drew Templeman,15167,Wyoming
+2017,01/20,Wyoming - Cal Poly Dual,125,W,MD,14 - 0,Isaac Blackburn,19734,Cal Poly,Drew Templeman,15167,Wyoming
+2017,01/15,Oregon State - Wyoming Dual,125,W,MD,12 - 0,Kegan Calkins,20291,Oregon State,Drew Templeman,15167,Wyoming
+2017,01/13,South Dakota State - Wyoming Dual,125,W,MD,12 - 0,Ben Gillette,13275,South Dakota State,Drew Templeman,15167,Wyoming
+2017,01/06,Wyoming - North Carolina Dual,125,W,TF5,17 - 0 3:38,James Szymanski,39623,North Carolina,Drew Templeman,15167,Wyoming
+2017,01/06,Army - Wyoming Dual,125,W,DEC,4 - 1,Trey Chalifoux,44745,Army West Point,Drew Templeman,15167,Wyoming
+2017,01/06,American - Wyoming Dual,125,L,DEC,6 - 4,Josh Terao,20533,American,Drew Templeman,15167,Wyoming
+2017,12/18,Reno Tournament of Champions,133,W,MD,12 - 0,Austin Reed,48292,Clackamas Community College,Drew Templeman,15167,Wyoming
+2017,12/18,Reno Tournament of Champions,133,W,DEC,4 - 2,Juaquin Olivas,40388,Colorado Mesa,Drew Templeman,15167,Wyoming
+2017,12/18,Reno Tournament of Champions,133,W,FALL,2:14,Trevor Williams,46725,Fresno State,Drew Templeman,15167,Wyoming
+2017,12/18,Reno Tournament of Champions,133,L,SV-1,3 - 1,Connor Schram,14982,Stanford,Drew Templeman,15167,Wyoming
+2017,12/18,Reno Tournament of Champions,133,W,DEC,4 - 3,Austin Eicher,20200,Michigan State,Drew Templeman,15167,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,133,W,DEC,6 - 0,Bryson Beard,47813,North Idaho College,Drew Templeman,15167,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,133,L,DEC,6 - 4,Eli Stickley,39697,Wisconsin,Drew Templeman,15167,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,133,W,DEC,10 - 4,Yoshito Funakoshi,19739,Cal Poly,Drew Templeman,15167,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,133,L,MD,17 - 4,Stevan Micic,20223,Michigan,Drew Templeman,15167,Wyoming
+2017,11/27,Iowa State - Wyoming Dual,133,L,DEC,10 - 4,Earl Hall,12220,Iowa State,Drew Templeman,15167,Wyoming
+2017,02/12,North Dakota State - Wyoming Dual,133,L,TF5,16 - 0 4:48,Cameron Sykora,39757,North Dakota State,Gunnar Woodburn,16526,Wyoming
+2017,02/10,Wyoming - Oklahoma State Dual,133,L,MD,14 - 5,Kaid Brock,39544,Oklahoma State,Gunnar Woodburn,16526,Wyoming
+2017,02/10,Wyoming - Oklahoma Dual,133,W,SV-1,8 - 6,Trae Blackwell,20807,Oklahoma,Gunnar Woodburn,16526,Wyoming
+2017,01/28,Wyoming - Utah Valley Dual,133,L,SV-1,4 - 2,Jarod Maynes,20416,Utah Valley,Gunnar Woodburn,16526,Wyoming
+2017,01/20,Wyoming - Cal Poly Dual,133,W,DEC,8 - 3,Yoshito Funakoshi,19739,Cal Poly,Gunnar Woodburn,16526,Wyoming
+2017,01/15,Oregon State - Wyoming Dual,133,L,TF5,24 - 9 7:00,Joey Palmer,12152,Oregon State,Gunnar Woodburn,16526,Wyoming
+2017,01/06,Wyoming - North Carolina Dual,133,L,DEC,3 - 1,Nicholas Lirette,44921,North Carolina,Gunnar Woodburn,16526,Wyoming
+2017,01/06,Army - Wyoming Dual,133,L,DEC,6 - 2,Austin Harry,22478,Army West Point,Gunnar Woodburn,16526,Wyoming
+2017,12/18,Reno Tournament of Champions,125,W,FALL,4:21,Aram Villegas,48294,Unattached,Gunnar Woodburn,16526,Wyoming
+2017,12/18,Reno Tournament of Champions,125,W,FALL,4:56,Devaughn Sapien,41504,Clackamas Community College,Gunnar Woodburn,16526,Wyoming
+2017,12/18,Reno Tournament of Champions,125,W,FALL,6:16,josiah Seaton,23653,CSU-Pueblo,Gunnar Woodburn,16526,Wyoming
+2017,12/18,Reno Tournament of Champions,125,L,DEC,7 - 1,Eli Hale,15232,Oklahoma State,Gunnar Woodburn,16526,Wyoming
+2017,12/18,Reno Tournament of Champions,125,L,FALL,2:40,Logan Griffin,40454,Michigan State,Gunnar Woodburn,16526,Wyoming
+2017,11/27,Iowa State - Wyoming Dual,125,L,DEC,13 - 7,Markus Simmons,39505,Iowa State,Gunnar Woodburn,16526,Wyoming
+2017,11/20,Nebraska - Wyoming Dual,125,L,FALL,3:18,Tim Lambert,13256,Nebraska,Gunnar Woodburn,16526,Wyoming
+2017,11/13,Northern Colorado Open,125,W,FALL,1:03,Tanner Watson,47086,Northeastern Oklahoma,Gunnar Woodburn,16526,Wyoming
+2017,11/13,Northern Colorado Open,125,W,FALL,2:34,Channing Lewis,47045,Colorado Mesa,Gunnar Woodburn,16526,Wyoming
+2017,11/13,Northern Colorado Open,125,W,MD,10 - 0,Tanner Kuktez,47044,CSU-Pueblo,Gunnar Woodburn,16526,Wyoming
+2017,11/13,Northern Colorado Open,125,W,MD,8 - 0,josiah Seaton,23653,CSU-Pueblo,Gunnar Woodburn,16526,Wyoming
+2017,11/13,Northern Colorado Open,125,W,TB-1,4 - 1,Drake Foster,39797,Wyoming,Gunnar Woodburn,16526,Wyoming
+2017,11/05,Cowboy Open,125,L,SV-1,4 - 2,Ronald Stevens,41507,Wyoming,Gunnar Woodburn,16526,Wyoming
+2017,11/05,Cowboy Open,125,W,FALL,1:59,Austin Dodson,17831,Providence,Gunnar Woodburn,16526,Wyoming
+2017,11/05,Cowboy Open,125,L,DEC,4 - 3,Cole Verner,41722,Western Wyoming College,Gunnar Woodburn,16526,Wyoming
+2017,11/19,Northwest Open,125,W,FALL,4:59,Andrew Maldonado,47481,Western Wyoming College,Mark McConnell,45165,Wyoming
+2017,11/19,Northwest Open,125,W,MD,13 - 4,Matthew Barfuss,47476,Northwest College,Mark McConnell,45165,Wyoming
+2017,11/19,Northwest Open,125,L,DEC,8 - 2,Tony DeCesare,46349,Air Force Prep,Mark McConnell,45165,Wyoming
+2017,11/05,Cowboy Open,125,L,FALL,5:00,Wesley Dawkins,46310,Nebraska-Kearney,Mark McConnell,45165,Wyoming
+2017,11/05,Cowboy Open,125,L,MD,8 - 0,Matthew Barfuss,47476,Northwest College,Mark McConnell,45165,Wyoming
+2017,02/10,Wyoming - Oklahoma State Dual,125,L,DEC,8 - 2,Nick Piccininni,39547,Oklahoma State,Doyle Trout,39591,Wyoming
+2017,12/03,Bob Smith Open,125,W,TF5,15 - 0 7:00,Skylar Johnson,48095,Barton,Doyle Trout,39591,Wyoming
+2017,12/03,Bob Smith Open,125,W,DEC,4 - 2,John Feeney,48093,Central Missouri,Doyle Trout,39591,Wyoming
+2017,12/03,Bob Smith Open,125,L,DEC,8 - 2,Zane Baugh,43392,Baker,Doyle Trout,39591,Wyoming
+2017,12/03,Bob Smith Open,125,L,DEC,6 - 5,Timothy Null,42455,Central Oklahoma,Doyle Trout,39591,Wyoming
+2017,12/03,Bob Smith Open,125,W,DEC,8 - 6,Cody Randall,40979,Northeastern Oklahoma,Doyle Trout,39591,Wyoming
+2017,11/19,Holiday Inn Open,125,L,DEC,6 - 2,Wesley Dawkins,46310,Nebraska-Kearney,Doyle Trout,39591,Wyoming
+2017,11/19,Holiday Inn Open,125,L,DEC,7 - 2,Zane Baugh,43392,Baker,Doyle Trout,39591,Wyoming
+2017,11/13,Northern Colorado Open,125,W,DEC,9 - 2,Thomas Munoz,47083,New Mexico Highlands,Doyle Trout,39591,Wyoming
+2017,11/13,Northern Colorado Open,125,W,DEC,6 - 5,Levi Maes,47078,CSU-Pueblo,Doyle Trout,39591,Wyoming
+2017,11/13,Northern Colorado Open,125,L,TF5,19 - 4 7:00,Michael Johnson,44962,Northern Colorado,Doyle Trout,39591,Wyoming
+2017,11/13,Northern Colorado Open,125,L,DEC,8 - 3,Cassidy Oshiro,16913,Air Force,Doyle Trout,39591,Wyoming
+2017,11/05,Cowboy Open,125,W,DEC,6 - 0,Garreth Erhardt,46312,Northeastern Oklahoma,Doyle Trout,39591,Wyoming
+2017,11/05,Cowboy Open,125,L,DEC,6 - 2,Tim Romero,46327,Colorado Mesa,Doyle Trout,39591,Wyoming
+2017,11/05,Cowboy Open,125,L,DEC,8 - 4,Robert Pair,46280,Montana State-Northern,Doyle Trout,39591,Wyoming
+2017,03/04,Big 12 Championships,133,L,DEC,3 - 2,Jacob Rubio,20816,Oklahoma,Ronald Stevens,41507,Wyoming
+2017,03/04,Big 12 Championships,133,L,MD,10 - 1,Dylan Hyder,41723,Air Force,Ronald Stevens,41507,Wyoming
+2017,02/08,Wyoming - Northern Colorado Dual,133,L,MD,10 - 2,Rico Montoya,39862,Northern Colorado,Ronald Stevens,41507,Wyoming
+2017,02/04,Air Force - Wyoming Dual,133,L,DEC,4 - 3,Dylan Hyder,41723,Air Force,Ronald Stevens,41507,Wyoming
+2017,01/30,Boise State - Wyoming Dual,133,W,DEC,4 - 3,Josh Newburg,13286,Boise State,Ronald Stevens,41507,Wyoming
+2017,01/13,South Dakota State - Wyoming Dual,133,L,FALL,2:15,Seth Gross,19949,South Dakota State,Ronald Stevens,41507,Wyoming
+2017,01/06,American - Wyoming Dual,133,L,DEC,7 - 1,Esteban Gomez-Rivera,18134,American,Ronald Stevens,41507,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,125,L,MD,15 - 3,Sean Russell,20727,Edinboro,Ronald Stevens,41507,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,125,L,DEC,11 - 9,Jake Gromacki,20324,Clarion,Ronald Stevens,41507,Wyoming
+2017,11/20,Nebraska - Wyoming Dual,133,L,TF5,17 - 2 3:30,Eric Montoya,13414,Nebraska,Ronald Stevens,41507,Wyoming
+2017,11/13,Northern Colorado Open,125,W,TF5,18 - 2 7:00,Victor Munoz,47048,New Mexico Highlands,Ronald Stevens,41507,Wyoming
+2017,11/13,Northern Colorado Open,125,W,DEC,6 - 3,Colby Duncan,46351,Western Colorado,Ronald Stevens,41507,Wyoming
+2017,11/13,Northern Colorado Open,125,W,DEC,2 - 1,Zackery Bibb,46253,Otero Junior College,Ronald Stevens,41507,Wyoming
+2017,11/13,Northern Colorado Open,125,W,DEC,8 - 3,Alec Opsal,44909,Air Force,Ronald Stevens,41507,Wyoming
+2017,11/13,Northern Colorado Open,125,L,FALL,4:46,Alec Opsal,44909,Air Force,Ronald Stevens,41507,Wyoming
+2017,11/13,Northern Colorado Open,125,W,DEC,3 - 2,Drake Foster,39797,Wyoming,Ronald Stevens,41507,Wyoming
+2017,11/13,Northern Colorado Open,125,W,DEC,5 - 4,Cassidy Oshiro,16913,Air Force,Ronald Stevens,41507,Wyoming
+2017,11/05,Cowboy Open,125,L,FALL,2:10,Isaac Wilson,46332,Providence,Ronald Stevens,41507,Wyoming
+2017,11/05,Cowboy Open,125,W,DEC,10 - 4,Jesse Reed,40205,Northern Colorado,Ronald Stevens,41507,Wyoming
+2017,11/05,Cowboy Open,125,W,SV-1,4 - 2,Gunnar Woodburn,16526,Wyoming,Ronald Stevens,41507,Wyoming
+2017,11/05,Cowboy Open,125,L,DEC,7 - 3,Will Bardezbain,42644,Boise State,Ronald Stevens,41507,Wyoming
+2017,01/06,American - Wyoming Dual,141,W,MD,10 - 2,Jack Mutchnik,13900,American,Drake Foster,39797,Wyoming
+2017,11/13,Northern Colorado Open,125,L,DEC,3 - 2,Ronald Stevens,41507,Wyoming,Drake Foster,39797,Wyoming
+2017,11/13,Northern Colorado Open,125,L,TB-1,4 - 1,Gunnar Woodburn,16526,Wyoming,Drake Foster,39797,Wyoming
+2017,11/13,Northern Colorado Open,125,W,DEC,9 - 4,Conrad Cole,40140,Fort Hays State,Drake Foster,39797,Wyoming
+2017,11/13,Northern Colorado Open,125,W,MD,11 - 3,Tony DeCesare,46349,Air Force Prep,Drake Foster,39797,Wyoming
+2017,11/13,Northern Colorado Open,125,W,FALL,6:14,Landon McBride,46717,Sierra College,Drake Foster,39797,Wyoming
+2017,11/05,Cowboy Open,125,W,MD,9 - 1,Tyler Scott,20418,Utah Valley,Drake Foster,39797,Wyoming
+2017,11/05,Cowboy Open,125,W,DEC,8 - 2,Isaac Wilson,46332,Providence,Drake Foster,39797,Wyoming
+2017,11/05,Cowboy Open,125,W,MFOR,0 - 0,Cole Verner,41722,Western Wyoming College,Drake Foster,39797,Wyoming
+2017,11/05,Cowboy Open,125,L,DEC,4 - 2,Drew Romero,20712,Air Force,Drake Foster,39797,Wyoming
+2017,11/05,Cowboy Open,125,L,DEC,5 - 2,Drew Romero,20712,Air Force,Drake Foster,39797,Wyoming
+2017,11/05,Cowboy Open,125,W,DEC,5 - 1,Cassidy Oshiro,16913,Air Force,Drake Foster,39797,Wyoming
+2017,02/26,National Collegiate Open,133,W,TB-2,2 - 1,Taylor LaMont,44777,Utah Valley,Montorie Bridges,44844,Wyoming
+2017,02/26,National Collegiate Open,133,W,FALL,2:35,Connor Wallace,44779,Old Dominion,Montorie Bridges,44844,Wyoming
+2017,02/26,National Collegiate Open,133,W,DEC,9 - 6,Lane Peters,45639,United States Military Academy,Montorie Bridges,44844,Wyoming
+2017,02/26,National Collegiate Open,133,W,DEC,9 - 5,Brett Kulp,44906,Franklin & Marshall,Montorie Bridges,44844,Wyoming
+2017,12/03,Bob Smith Open,133,W,TF5,17 - 2 7:00,Nicholas Ornelas,47297,Neosho County Community College,Montorie Bridges,44844,Wyoming
+2017,12/03,Bob Smith Open,133,L,DEC,5 - 4,Sean DeShazer,48092,Northeastern Oklahoma,Montorie Bridges,44844,Wyoming
+2017,12/03,Bob Smith Open,133,W,TF5,20 - 5 7:00,Josh Martinez,47079,Fort Hays State,Montorie Bridges,44844,Wyoming
+2017,12/03,Bob Smith Open,133,W,MD,14 - 2,Darek Huff,43394,Adams State,Montorie Bridges,44844,Wyoming
+2017,11/19,Northwest Open,133,W,FALL,0:37,David Yagong,47487,Unattached,Montorie Bridges,44844,Wyoming
+2017,11/19,Northwest Open,133,W,FALL,4:40,Andrew Astle,47474,Western Wyoming College,Montorie Bridges,44844,Wyoming
+2017,11/19,Northwest Open,133,W,MD,14 - 5,Max Stevens,40143,Wyoming,Montorie Bridges,44844,Wyoming
+2017,11/13,Northern Colorado Open,133,W,FALL,4:06,Sam Hughes,23659,CSU-Pueblo,Montorie Bridges,44844,Wyoming
+2017,11/13,Northern Colorado Open,133,W,TF5,21 - 5 7:00,Wyatt Alvis,47017,Fort Hays State,Montorie Bridges,44844,Wyoming
+2017,11/13,Northern Colorado Open,133,W,DEC,10 - 5,Brett Kasprzyk,22194,Colorado Mesa,Montorie Bridges,44844,Wyoming
+2017,11/13,Northern Colorado Open,133,L,DEC,11 - 5,Rico Montoya,39862,Northern Colorado,Montorie Bridges,44844,Wyoming
+2017,11/05,Cowboy Open,133,W,DEC,6 - 4,Trent Olson,44718,Wyoming,Montorie Bridges,44844,Wyoming
+2017,11/05,Cowboy Open,133,W,TF5,18 - 0 2:16,Dylan Lockwood,46319,Montana State-Northern,Montorie Bridges,44844,Wyoming
+2017,11/05,Cowboy Open,133,W,MD,20 - 7,Tanner Cox,46309,Western Wyoming College,Montorie Bridges,44844,Wyoming
+2017,11/05,Cowboy Open,133,W,DEC,11 - 4,Garrett O'Shea,44711,Air Force,Montorie Bridges,44844,Wyoming
+2017,11/19,Holiday Inn Open,133,W,DEC,3 - 1,Austin Hernandez,47021,Northwest Kansas Technical College,Trent Olson,44718,Wyoming
+2017,11/19,Holiday Inn Open,133,W,DEC,6 - 1,Darek Huff,43394,Adams State,Trent Olson,44718,Wyoming
+2017,11/19,Holiday Inn Open,133,W,TF5,17 - 1 7:00,Caysen Smith,42621,Barton,Trent Olson,44718,Wyoming
+2017,11/19,Holiday Inn Open,133,W,DEC,6 - 3,Chad Skokowski,41101,Concordia,Trent Olson,44718,Wyoming
+2017,11/19,Holiday Inn Open,133,W,FALL,3:57,David Berg,41041,Midland,Trent Olson,44718,Wyoming
+2017,11/13,Northern Colorado Open,133,W,TF5,16 - 0 7:00,Jesus Morales,47082,Northwest Kansas Technical College,Trent Olson,44718,Wyoming
+2017,11/13,Northern Colorado Open,133,L,FALL,1:47,Josh Martinez,47079,Fort Hays State,Trent Olson,44718,Wyoming
+2017,11/13,Northern Colorado Open,133,W,FALL,5:41,Sam Hughes,23659,CSU-Pueblo,Trent Olson,44718,Wyoming
+2017,11/13,Northern Colorado Open,133,W,DEC,10 - 4,Michael McDaniel,47047,Colorado Mesa,Trent Olson,44718,Wyoming
+2017,11/13,Northern Colorado Open,133,L,DEC,8 - 2,Brett Kasprzyk,22194,Colorado Mesa,Trent Olson,44718,Wyoming
+2017,11/13,Northern Colorado Open,133,W,DEC,6 - 2,Garrett O'Shea,44711,Air Force,Trent Olson,44718,Wyoming
+2017,11/13,Northern Colorado Open,133,W,FALL,3:31,Sean Cannon,40053,Northern Colorado,Trent Olson,44718,Wyoming
+2017,11/05,Cowboy Open,133,L,DEC,6 - 4,Montorie Bridges,44844,Wyoming,Trent Olson,44718,Wyoming
+2017,11/05,Cowboy Open,133,W,DEC,4 - 1,Tyler Hanenberg,40600,Western Colorado,Trent Olson,44718,Wyoming
+2017,11/05,Cowboy Open,133,W,DEC,5 - 2,Noah Au-yeung,44295,Colorado School Of Mines,Trent Olson,44718,Wyoming
+2017,11/05,Cowboy Open,133,W,SV-1,9 - 7,Brett Kasprzyk,22194,Colorado Mesa,Trent Olson,44718,Wyoming
+2017,02/12,Rocky Mountain Collegiate Open,133,W,DEC,7 - 4,Braden Visnieski,49922,Fort Hays State,Max Stevens,40143,Wyoming
+2017,02/12,Rocky Mountain Collegiate Open,133,W,DEC,8 - 7,Aaron Anguiano,43393,Western Colorado,Max Stevens,40143,Wyoming
+2017,02/12,Rocky Mountain Collegiate Open,133,L,DEC,3 - 2,Michael Johnson,44962,Northern Colorado,Max Stevens,40143,Wyoming
+2017,11/19,Northwest Open,133,L,MD,14 - 5,Montorie Bridges,44844,Wyoming,Max Stevens,40143,Wyoming
+2017,11/19,Northwest Open,133,W,FALL,0:10,David Yagong,47487,Unattached,Max Stevens,40143,Wyoming
+2017,11/19,Northwest Open,133,W,DEC,7 - 4,Andrew Astle,47474,Western Wyoming College,Max Stevens,40143,Wyoming
+2017,11/13,Northern Colorado Open,133,W,DEC,4 - 2,Josh Martinez,47079,Fort Hays State,Max Stevens,40143,Wyoming
+2017,11/13,Northern Colorado Open,133,W,DEC,5 - 2,Patrick Vega,47058,New Mexico Highlands,Max Stevens,40143,Wyoming
+2017,11/13,Northern Colorado Open,133,L,MD,10 - 2,Brett Kasprzyk,22194,Colorado Mesa,Max Stevens,40143,Wyoming
+2017,11/13,Northern Colorado Open,133,L,MD,8 - 0,Garrett O'Shea,44711,Air Force,Max Stevens,40143,Wyoming
+2017,11/05,Cowboy Open,133,L,FALL,4:19,Gunner Laffoon,46317,Ottawa,Max Stevens,40143,Wyoming
+2017,11/05,Cowboy Open,133,L,DEC,3 - 2,Michael McDaniel,47047,Colorado Mesa,Max Stevens,40143,Wyoming
+2017,03/16,NCAA Championships,141,L,FALL,6:20,Kevin Jack,20130,NC State,Bryce Meredith,20135,Wyoming
+2017,03/16,NCAA Championships,141,W,DEC,8 - 4,Jaydin Eierman,39508,Missouri,Bryce Meredith,20135,Wyoming
+2017,03/16,NCAA Championships,141,L,DEC,10 - 7,George DiCamillo,20426,Virginia,Bryce Meredith,20135,Wyoming
+2017,03/16,NCAA Championships,141,W,DEC,6 - 5,Kevin Jack,20130,NC State,Bryce Meredith,20135,Wyoming
+2017,03/16,NCAA Championships,141,W,MD,8 - 0,Jack Hathaway,15765,Oregon State,Bryce Meredith,20135,Wyoming
+2017,03/16,NCAA Championships,141,W,MD,12 - 4,Michael Longo,19624,Oklahoma,Bryce Meredith,20135,Wyoming
+2017,03/04,Big 12 Championships,141,W,MD,12 - 2,Joe Wheeling,13551,West Virginia,Bryce Meredith,20135,Wyoming
+2017,03/04,Big 12 Championships,141,L,DEC,10 - 7,Dean Heil,15376,Oklahoma State,Bryce Meredith,20135,Wyoming
+2017,03/04,Big 12 Championships,141,W,DEC,13 - 7,Michael Longo,19624,Oklahoma,Bryce Meredith,20135,Wyoming
+2017,02/12,North Dakota State - Wyoming Dual,141,W,FALL,1:42,Taylor Nein,45593,North Dakota State,Bryce Meredith,20135,Wyoming
+2017,02/10,Wyoming - Oklahoma State Dual,141,L,DEC,7 - 5,Dean Heil,15376,Oklahoma State,Bryce Meredith,20135,Wyoming
+2017,02/10,Wyoming - Oklahoma Dual,141,W,FALL,6:50,Michael Longo,19624,Oklahoma,Bryce Meredith,20135,Wyoming
+2017,02/08,Wyoming - Northern Colorado Dual,141,W,FALL,2:37,Sean Cannon,40053,Northern Colorado,Bryce Meredith,20135,Wyoming
+2017,02/04,Air Force - Wyoming Dual,141,W,TF5,19 - 3 5:57,John Twomey,40122,Air Force,Bryce Meredith,20135,Wyoming
+2017,01/30,Boise State - Wyoming Dual,141,W,FALL,0:21,Rami Haddadin,16069,Boise State,Bryce Meredith,20135,Wyoming
+2017,01/28,Wyoming - Utah Valley Dual,141,W,MD,12 - 2,Trevor Willson,13714,Utah Valley,Bryce Meredith,20135,Wyoming
+2017,01/20,Wyoming - Cal Poly Dual,141,W,DEC,5 - 2,Colton Schilling,12033,Cal Poly,Bryce Meredith,20135,Wyoming
+2017,01/15,Oregon State - Wyoming Dual,141,W,DEC,3 - 0,Jack Hathaway,15765,Oregon State,Bryce Meredith,20135,Wyoming
+2017,01/13,South Dakota State - Wyoming Dual,141,W,MD,13 - 4,Isaac Andrade,13269,South Dakota State,Bryce Meredith,20135,Wyoming
+2017,01/06,Wyoming - North Carolina Dual,141,L,SV-1,8 - 6,Joey Ward,11615,North Carolina,Bryce Meredith,20135,Wyoming
+2017,01/06,Army - Wyoming Dual,141,W,DEC,6 - 5,Logan Everett,12041,Army West Point,Bryce Meredith,20135,Wyoming
+2017,12/18,Reno Tournament of Champions,141,W,FALL,0:38,Ian Barreda,43285,gateway international bible institute,Bryce Meredith,20135,Wyoming
+2017,12/18,Reno Tournament of Champions,141,W,TF5,16 - 1 3:45,Daniel Salazar,23989,Colorado Mesa,Bryce Meredith,20135,Wyoming
+2017,12/18,Reno Tournament of Champions,141,W,DEC,2 - 0,Requir van der Merwe,45389,Stanford,Bryce Meredith,20135,Wyoming
+2017,12/18,Reno Tournament of Champions,141,W,FALL,0:47,Alex Rich,40236,Oregon State,Bryce Meredith,20135,Wyoming
+2017,12/18,Reno Tournament of Champions,141,L,DEC,7 - 3,Boo Lewallen,39543,Oklahoma State,Bryce Meredith,20135,Wyoming
+2017,12/18,Reno Tournament of Champions,141,W,TF5,17 - 1 4:43,Connor Pollock,42488,Cal Poly,Bryce Meredith,20135,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,141,W,FALL,0:47,Thunder Morales,47814,North Idaho College,Bryce Meredith,20135,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,141,L,DEC,3 - 1,Joseph McKenna,24215,Stanford,Bryce Meredith,20135,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,141,W,FALL,5:13,Ozzy Lugo,45029,Edinboro,Bryce Meredith,20135,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,141,W,DEC,5 - 4,Russell Rohlfing,40166,CSU Bakersfield,Bryce Meredith,20135,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,141,W,MD,12 - 1,Mason Smith,39789,Central Michigan,Bryce Meredith,20135,Wyoming
+2017,11/27,Iowa State - Wyoming Dual,141,W,FALL,4:10,Gabe Moreno,11816,Iowa State,Bryce Meredith,20135,Wyoming
+2017,11/20,Nebraska - Wyoming Dual,141,L,DEC,6 - 2,Colton McCrystal,13191,Nebraska,Bryce Meredith,20135,Wyoming
+2017,11/13,Northern Colorado Open,141,W,FALL,0:39,Anthony Rees,47031,Ottawa,Bryce Meredith,20135,Wyoming
+2017,11/13,Northern Colorado Open,141,W,FALL,1:16,Marc Farina,47020,Colorado Mesa,Bryce Meredith,20135,Wyoming
+2017,11/13,Northern Colorado Open,141,W,MD,15 - 6,Brandon Ball,42603,Fort Hays State,Bryce Meredith,20135,Wyoming
+2017,11/13,Northern Colorado Open,141,W,FALL,6:03,Timmy Box,14724,Northern Colorado,Bryce Meredith,20135,Wyoming
+2017,11/13,Northern Colorado Open,141,W,TF5,23 - 8 7:00,Anthony McHugh,13217,Air Force,Bryce Meredith,20135,Wyoming
+2017,02/12,Rocky Mountain Collegiate Open,149,W,MD,13 - 5,Noah Ottum,47408,Colorado School Of Mines,Ben Hornickle,42602,Wyoming
+2017,02/12,Rocky Mountain Collegiate Open,149,W,MD,14 - 2,Sam Hughes,49921,CSU Bakersfield,Ben Hornickle,42602,Wyoming
+2017,02/12,Rocky Mountain Collegiate Open,149,W,FALL,2:01,Zachary Martinez,45360,Northern Colorado,Ben Hornickle,42602,Wyoming
+2017,02/12,Rocky Mountain Collegiate Open,149,W,FALL,2:58,Robert Walker,20716,Air Force,Ben Hornickle,42602,Wyoming
+2017,02/04,Air Force - Wyoming Dual,149,L,DEC,5 - 1,Gerald McGinty,25203,Air Force,Ben Hornickle,42602,Wyoming
+2017,01/15,Oregon State - Wyoming Dual,149,W,FALL,1:11,Bryce Parson,39600,Oregon State,Ben Hornickle,42602,Wyoming
+2017,12/18,Reno Tournament of Champions,141,L,INJ,7:00,karrel estell,15228,Unattached,Ben Hornickle,42602,Wyoming
+2017,12/18,Reno Tournament of Champions,141,L,FALL,2:18,Colton Schilling,12033,Cal Poly,Ben Hornickle,42602,Wyoming
+2017,11/19,Northwest Open,141,W,DEC,8 - 3,Riley Loveless,47480,Northwest College,Ben Hornickle,42602,Wyoming
+2017,11/19,Northwest Open,141,W,FALL,2:27,Kenny Astle,43897,Western Wyoming College,Ben Hornickle,42602,Wyoming
+2017,11/19,Northwest Open,141,W,TF5,18 - 2 7:00,Miguel Ramos,46364,Western Wyoming College,Ben Hornickle,42602,Wyoming
+2017,11/13,Northern Colorado Open,141,W,FALL,0:16,Trey Waltz,47060,Ouachita Baptist University,Ben Hornickle,42602,Wyoming
+2017,11/13,Northern Colorado Open,141,W,FALL,0:35,Anthony Calderon,23665,Fort Hays State,Ben Hornickle,42602,Wyoming
+2017,11/13,Northern Colorado Open,141,W,FALL,6:51,Sam Turner,45009,Wyoming,Ben Hornickle,42602,Wyoming
+2017,11/13,Northern Colorado Open,141,W,FALL,0:49,John Twomey,40122,Air Force,Ben Hornickle,42602,Wyoming
+2017,11/13,Northern Colorado Open,141,W,DEC,9 - 3,John Twomey,40122,Air Force,Ben Hornickle,42602,Wyoming
+2017,11/13,Northern Colorado Open,141,L,MD,12 - 4,Timmy Box,14724,Northern Colorado,Ben Hornickle,42602,Wyoming
+2017,11/05,Cowboy Open,141,W,DEC,4 - 3,Daniel Salazar,23989,Colorado Mesa,Ben Hornickle,42602,Wyoming
+2017,11/05,Cowboy Open,141,W,MD,10 - 0,Joshua Giorgio,40580,Air Force,Ben Hornickle,42602,Wyoming
+2017,11/05,Cowboy Open,141,W,DEC,3 - 1,Lyle Plummer,20710,Air Force,Ben Hornickle,42602,Wyoming
+2017,11/05,Cowboy Open,141,W,DEC,5 - 2,Anthony McHugh,13217,Air Force,Ben Hornickle,42602,Wyoming
+2017,11/19,Holiday Inn Open,141,W,FALL,1:39,Dante Preciado,47409,Northwestern,Sam Turner,45009,Wyoming
+2017,11/19,Holiday Inn Open,141,W,DEC,8 - 2,Noah Ottum,47408,Colorado School Of Mines,Sam Turner,45009,Wyoming
+2017,11/19,Holiday Inn Open,141,L,SV-1,7 - 5,Colton Adams,20091,Iowa Western Community College,Sam Turner,45009,Wyoming
+2017,11/19,Holiday Inn Open,141,W,TF5,16 - 0 7:00,Gavin Melendez,47062,CSU-Pueblo,Sam Turner,45009,Wyoming
+2017,11/19,Holiday Inn Open,141,W,MD,10 - 0,Trey Waltz,47060,Ouachita Baptist University,Sam Turner,45009,Wyoming
+2017,11/19,Holiday Inn Open,141,W,FALL,0:24,Lukas Erickson,42598,Colorado School Of Mines,Sam Turner,45009,Wyoming
+2017,11/19,Holiday Inn Open,141,W,FALL,1:12,Dy'juan Carney,42043,Pratt Community College,Sam Turner,45009,Wyoming
+2017,11/13,Northern Colorado Open,141,L,FALL,6:51,Ben Hornickle,42602,Wyoming,Sam Turner,45009,Wyoming
+2017,11/13,Northern Colorado Open,141,W,TF5,17 - 0 7:00,Ernesto Garley,47071,New Mexico Highlands,Sam Turner,45009,Wyoming
+2017,11/13,Northern Colorado Open,141,W,FALL,2:29,Downey Wood,41876,Pratt Community College,Sam Turner,45009,Wyoming
+2017,11/13,Northern Colorado Open,141,W,DEC,7 - 1,Cory Crooks,45179,Arizona State,Sam Turner,45009,Wyoming
+2017,11/13,Northern Colorado Open,141,L,DEC,6 - 5,Brandon Ball,42603,Fort Hays State,Sam Turner,45009,Wyoming
+2017,11/13,Northern Colorado Open,141,W,TF5,18 - 2 7:00,Joshua Giorgio,40580,Air Force,Sam Turner,45009,Wyoming
+2017,11/13,Northern Colorado Open,141,W,DEC,5 - 1,Anthony McHugh,13217,Air Force,Sam Turner,45009,Wyoming
+2017,11/05,Cowboy Open,141,W,FALL,7:00,Caleb Haskell,46313,Chadron State,Sam Turner,45009,Wyoming
+2017,11/05,Cowboy Open,141,W,FALL,4:19,James Taylor,46329,Northwest Kansas Technical College,Sam Turner,45009,Wyoming
+2017,11/05,Cowboy Open,141,W,FALL,2:05,Dakota Macy,46320,Northeastern Oklahoma,Sam Turner,45009,Wyoming
+2017,11/05,Cowboy Open,141,W,DEC,7 - 0,Jonathan Killingsworth,46316,Nebraska-Kearney,Sam Turner,45009,Wyoming
+2017,11/05,Cowboy Open,141,W,DEC,9 - 8,Shonn Roberts,46324,Providence,Sam Turner,45009,Wyoming
+2017,11/05,Cowboy Open,141,L,DEC,4 - 2,Jacob Wasser,46331,Nebraska-Kearney,Sam Turner,45009,Wyoming
+2017,03/16,NCAA Championships,149,L,SV-1,6 - 4,Jordan Laster,11916,Princeton,Cole Mendenhall,11607,Wyoming
+2017,03/16,NCAA Championships,149,W,DEC,4 - 1,Samuel Krivus,43190,Virginia,Cole Mendenhall,11607,Wyoming
+2017,03/16,NCAA Championships,149,L,MD,11 - 2,Anthony Collica,11723,Oklahoma State,Cole Mendenhall,11607,Wyoming
+2017,03/04,Big 12 Championships,149,W,DEC,4 - 3,Grant LaMont,40320,Utah Valley,Cole Mendenhall,11607,Wyoming
+2017,03/04,Big 12 Championships,149,W,FALL,1:13,Alex Kocer,20562,South Dakota State,Cole Mendenhall,11607,Wyoming
+2017,03/04,Big 12 Championships,149,L,MD,16 - 4,Anthony Collica,11723,Oklahoma State,Cole Mendenhall,11607,Wyoming
+2017,03/04,Big 12 Championships,149,W,MD,11 - 0,Gerald McGinty,25203,Air Force,Cole Mendenhall,11607,Wyoming
+2017,02/12,North Dakota State - Wyoming Dual,149,W,MD,13 - 4,Mitchell Friedman,11668,North Dakota State,Cole Mendenhall,11607,Wyoming
+2017,02/10,Wyoming - Oklahoma State Dual,149,L,DEC,7 - 2,Anthony Collica,11723,Oklahoma State,Cole Mendenhall,11607,Wyoming
+2017,02/10,Wyoming - Oklahoma Dual,149,L,DEC,7 - 4,Davion Jeffries,39653,Oklahoma,Cole Mendenhall,11607,Wyoming
+2017,02/08,Wyoming - Northern Colorado Dual,149,W,FALL,3:57,Benjamin Polkowske,20556,Northern Colorado,Cole Mendenhall,11607,Wyoming
+2017,01/30,Boise State - Wyoming Dual,149,W,MD,13 - 5,Dakota Wall,39900,Boise State,Cole Mendenhall,11607,Wyoming
+2017,01/28,Wyoming - Utah Valley Dual,149,W,DEC,3 - 2,Grant LaMont,40320,Utah Valley,Cole Mendenhall,11607,Wyoming
+2017,01/20,Wyoming - Cal Poly Dual,149,W,FALL,1:44,Joshua Cortez,40840,Cal Poly,Cole Mendenhall,11607,Wyoming
+2017,01/13,South Dakota State - Wyoming Dual,149,L,MD,12 - 2,Alex Kocer,20562,South Dakota State,Cole Mendenhall,11607,Wyoming
+2017,01/06,Wyoming - North Carolina Dual,149,L,DEC,9 - 5,Troy Heilmann,12036,North Carolina,Cole Mendenhall,11607,Wyoming
+2017,01/06,Army - Wyoming Dual,149,W,DEC,8 - 1,Luke Weiland,41243,Army West Point,Cole Mendenhall,11607,Wyoming
+2017,01/06,American - Wyoming Dual,149,L,DEC,6 - 5,Michael Sprague,19618,American,Cole Mendenhall,11607,Wyoming
+2017,12/18,Reno Tournament of Champions,149,W,FALL,3:28,Alex Colpo,48285,University of Arizona,Cole Mendenhall,11607,Wyoming
+2017,12/18,Reno Tournament of Champions,149,W,MD,17 - 3,Drake Randall,41835,Montana State-Northern,Cole Mendenhall,11607,Wyoming
+2017,12/18,Reno Tournament of Champions,149,W,FALL,3:41,Nick Trimble,13665,Michigan State,Cole Mendenhall,11607,Wyoming
+2017,12/18,Reno Tournament of Champions,149,W,FALL,3:27,Killian Vendler,43315,Cal Poly,Cole Mendenhall,11607,Wyoming
+2017,12/18,Reno Tournament of Champions,149,W,DEC,4 - 0,Christian Pagdilao,20575,Arizona State,Cole Mendenhall,11607,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,149,W,FALL,2:40,Walker Johnson,42132,Nebraska-Kearney,Cole Mendenhall,11607,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,149,W,FALL,5:29,Solomon Chishko,20440,Virginia Tech,Cole Mendenhall,11607,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,149,W,DEC,9 - 4,Fredy Stroker,39520,Minnesota,Cole Mendenhall,11607,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,149,L,DEC,6 - 0,Justin Oliver,19758,Central Michigan,Cole Mendenhall,11607,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,149,L,DEC,14 - 11,Justin Oliver,19758,Central Michigan,Cole Mendenhall,11607,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,149,W,DEC,6 - 3,Chase Straw,39610,Iowa State,Cole Mendenhall,11607,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,149,W,DEC,7 - 3,Joseph Galasso,40376,Cornell,Cole Mendenhall,11607,Wyoming
+2017,11/27,Iowa State - Wyoming Dual,149,W,DEC,9 - 4,Chase Straw,39610,Iowa State,Cole Mendenhall,11607,Wyoming
+2017,11/20,Nebraska - Wyoming Dual,149,W,TF5,18 - 3 4:44,Jordan Shearer,39602,Nebraska,Cole Mendenhall,11607,Wyoming
+2017,11/13,Northern Colorado Open,149,W,FALL,0:20,Michael Montano,47081,Ottawa,Cole Mendenhall,11607,Wyoming
+2017,11/13,Northern Colorado Open,149,W,TF5,17 - 1 7:00,Landon Knutzen,45365,Utah Valley,Cole Mendenhall,11607,Wyoming
+2017,11/13,Northern Colorado Open,149,W,TF5,20 - 1 7:00,Isaac Rider,40621,Colorado Mesa,Cole Mendenhall,11607,Wyoming
+2017,11/13,Northern Colorado Open,149,W,MD,16 - 2,Benjamin Polkowske,20556,Northern Colorado,Cole Mendenhall,11607,Wyoming
+2017,11/05,Cowboy Open,149,W,FALL,6:56,Jacob Gerken,41448,Colorado School Of Mines,Cole Mendenhall,11607,Wyoming
+2017,11/05,Cowboy Open,149,W,DEC,6 - 0,Benjamin Polkowske,20556,Northern Colorado,Cole Mendenhall,11607,Wyoming
+2017,11/05,Cowboy Open,149,W,DEC,10 - 3,Robert Walker,20716,Air Force,Cole Mendenhall,11607,Wyoming
+2017,11/05,Cowboy Open,149,W,MFOR,0 - 0,Gerald McGinty,25203,Air Force,Cole Mendenhall,11607,Wyoming
+2017,12/18,Reno Tournament of Champions,157,W,DEC,7 - 1,Alexis Martinez,42553,gateway international bible institute,Jake Elliott,14663,Wyoming
+2017,12/18,Reno Tournament of Champions,157,W,FALL,3:08,Cole Hornbrook,48249,Southwestern Oregon Community College,Jake Elliott,14663,Wyoming
+2017,12/18,Reno Tournament of Champions,157,W,DEC,4 - 2,John Leal,41544,Clackamas Community College,Jake Elliott,14663,Wyoming
+2017,12/18,Reno Tournament of Champions,157,W,TB-2,7 - 6,Wyatt Sheets,44863,Oklahoma State,Jake Elliott,14663,Wyoming
+2017,12/18,Reno Tournament of Champions,157,L,DEC,7 - 4,Austin Thompson,39737,Michigan State,Jake Elliott,14663,Wyoming
+2017,12/18,Reno Tournament of Champions,157,L,FALL,2:36,Colt Shorts,11611,Cal Poly,Jake Elliott,14663,Wyoming
+2017,12/03,Bob Smith Open,157,W,DEC,10 - 4,Jacoby Ward,48102,Air Force Prep,Jake Elliott,14663,Wyoming
+2017,12/03,Bob Smith Open,157,W,MD,12 - 2,Christian Rivas,48101,Barton,Jake Elliott,14663,Wyoming
+2017,12/03,Bob Smith Open,157,W,FALL,0:49,Forlanda Parker,48099,Newman,Jake Elliott,14663,Wyoming
+2017,12/03,Bob Smith Open,157,W,DEC,3 - 2,Bryan Dutton,41020,Central Oklahoma,Jake Elliott,14663,Wyoming
+2017,12/03,Bob Smith Open,157,W,DEC,8 - 3,Luke Weber,45050,Nebraska,Jake Elliott,14663,Wyoming
+2017,12/03,Bob Smith Open,157,W,MD,10 - 2,Wyatt Sheets,44863,Oklahoma State,Jake Elliott,14663,Wyoming
+2017,12/03,Bob Smith Open,157,L,DEC,6 - 4,Dane Robbins,20711,Air Force,Jake Elliott,14663,Wyoming
+2017,11/19,Northwest Open,149,W,FALL,6:20,Garrett Wood,46306,Northwest College,Jake Elliott,14663,Wyoming
+2017,11/19,Northwest Open,149,W,FALL,1:14,Andy Larsen,47479,Western Wyoming College,Jake Elliott,14663,Wyoming
+2017,11/19,Northwest Open,149,W,TF5,18 - 3 7:00,Terence Perkins,47049,Air Force Prep,Jake Elliott,14663,Wyoming
+2017,11/13,Northern Colorado Open,149,W,DEC,4 - 3,Clay Archer,47037,CSU-Pueblo,Jake Elliott,14663,Wyoming
+2017,11/13,Northern Colorado Open,149,W,DEC,3 - 2,Nick Swanson,46296,Colorado Mesa,Jake Elliott,14663,Wyoming
+2017,11/13,Northern Colorado Open,149,L,SV-1,3 - 1,Nick Swanson,46296,Colorado Mesa,Jake Elliott,14663,Wyoming
+2017,11/13,Northern Colorado Open,149,W,TF5,18 - 0 7:00,Landon Knutzen,45365,Utah Valley,Jake Elliott,14663,Wyoming
+2017,11/13,Northern Colorado Open,149,W,MD,10 - 2,Zachary Martinez,45360,Northern Colorado,Jake Elliott,14663,Wyoming
+2017,11/13,Northern Colorado Open,149,W,FALL,3:44,Jacob Kay,43395,Fort Hays State,Jake Elliott,14663,Wyoming
+2017,11/05,Cowboy Open,149,L,MFOR,0 - 0,Dakota Wall,39900,Boise State,Jake Elliott,14663,Wyoming
+2017,11/05,Cowboy Open,149,W,FALL,2:15,Isiah Yates,23098,Providence,Jake Elliott,14663,Wyoming
+2017,11/05,Cowboy Open,149,W,DEC,5 - 4,Jacob Gerken,41448,Colorado School Of Mines,Jake Elliott,14663,Wyoming
+2017,11/05,Cowboy Open,149,W,DEC,7 - 3,Dakota Wall,39900,Boise State,Jake Elliott,14663,Wyoming
+2017,11/05,Cowboy Open,149,L,DEC,6 - 5,Benjamin Polkowske,20556,Northern Colorado,Jake Elliott,14663,Wyoming
+2017,11/05,Cowboy Open,149,W,DEC,3 - 1,Conor O'Hara,13211,Air Force,Jake Elliott,14663,Wyoming
+2017,03/16,NCAA Championships,157,L,TB-1,5 - 4,Paul Fox,20390,Stanford,Archie Colgan,15555,Wyoming
+2017,03/16,NCAA Championships,157,W,DEC,6 - 2,Taleb Rahmani,40082,Pittsburgh,Archie Colgan,15555,Wyoming
+2017,03/16,NCAA Championships,157,W,DEC,3 - 1,Victor Lopez,11886,Bucknell,Archie Colgan,15555,Wyoming
+2017,03/16,NCAA Championships,157,W,DEC,9 - 6,Jake Danishek,20520,Indiana,Archie Colgan,15555,Wyoming
+2017,03/16,NCAA Championships,157,L,DEC,8 - 2,Chase Delande,15217,Edinboro,Archie Colgan,15555,Wyoming
+2017,03/04,Big 12 Championships,157,L,MD,8 - 0,Joe Smith,39786,Oklahoma State,Archie Colgan,15555,Wyoming
+2017,03/04,Big 12 Championships,157,L,DEC,2 - 0,Clark Glass,11488,Oklahoma,Archie Colgan,15555,Wyoming
+2017,03/04,Big 12 Championships,157,W,TF5,15 - 0 7:00,Colston DiBlasi,39718,Iowa State,Archie Colgan,15555,Wyoming
+2017,03/04,Big 12 Championships,157,W,TB-2,7 - 2,Alex Mossing,23680,Air Force,Archie Colgan,15555,Wyoming
+2017,02/12,North Dakota State - Wyoming Dual,157,L,DEC,8 - 3,Clay Ream,13748,North Dakota State,Archie Colgan,15555,Wyoming
+2017,02/10,Wyoming - Oklahoma State Dual,157,W,SV-1,3 - 1,Davey Dolan,13223,Oklahoma State,Archie Colgan,15555,Wyoming
+2017,02/10,Wyoming - Oklahoma Dual,157,W,DEC,5 - 2,Jared Schieber,20817,Oklahoma,Archie Colgan,15555,Wyoming
+2017,02/08,Wyoming - Northern Colorado Dual,157,W,MD,11 - 3,Jimmy Fate,44736,Northern Colorado,Archie Colgan,15555,Wyoming
+2017,02/04,Air Force - Wyoming Dual,157,W,DEC,5 - 2,Alex Mossing,23680,Air Force,Archie Colgan,15555,Wyoming
+2017,01/30,Boise State - Wyoming Dual,157,W,DEC,9 - 3,Fred Green,39780,Boise State,Archie Colgan,15555,Wyoming
+2017,01/28,Wyoming - Utah Valley Dual,157,W,SV-1,8 - 6,Raider Lofthouse,20414,Utah Valley,Archie Colgan,15555,Wyoming
+2017,01/20,Wyoming - Cal Poly Dual,157,W,DEC,6 - 4,Colt Shorts,11611,Cal Poly,Archie Colgan,15555,Wyoming
+2017,01/15,Oregon State - Wyoming Dual,157,W,TF5,16 - 1 3:53,Abraham Rodriquez,42226,Oregon State,Archie Colgan,15555,Wyoming
+2017,01/13,South Dakota State - Wyoming Dual,157,W,DEC,10 - 5,Logan Peterson,20374,South Dakota State,Archie Colgan,15555,Wyoming
+2017,01/06,Wyoming - North Carolina Dual,157,L,DEC,7 - 2,Joe Moon,11646,North Carolina,Archie Colgan,15555,Wyoming
+2017,01/06,Army - Wyoming Dual,157,L,DEC,6 - 1,Russell Parsons,19642,Army West Point,Archie Colgan,15555,Wyoming
+2017,01/06,American - Wyoming Dual,157,W,DEC,5 - 3,Tom Page,11812,American,Archie Colgan,15555,Wyoming
+2017,12/18,Reno Tournament of Champions,157,W,FALL,1:01,Joshua Beckler,41534,Clackamas Community College,Archie Colgan,15555,Wyoming
+2017,12/18,Reno Tournament of Champions,157,W,DEC,9 - 4,Davey Dolan,13223,Oklahoma State,Archie Colgan,15555,Wyoming
+2017,12/18,Reno Tournament of Champions,157,W,DEC,7 - 2,Austin Thompson,39737,Michigan State,Archie Colgan,15555,Wyoming
+2017,12/18,Reno Tournament of Champions,157,W,MD,13 - 5,Joe Granger,19741,Cal Poly,Archie Colgan,15555,Wyoming
+2017,12/18,Reno Tournament of Champions,157,W,DEC,3 - 1,Colt Shorts,11611,Cal Poly,Archie Colgan,15555,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,157,W,DEC,6 - 2,Jared Scharenbrock,20488,Wisconsin,Archie Colgan,15555,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,157,W,MFOR,0 - 0,Sal Mastriani,13766,Virginia Tech,Archie Colgan,15555,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,157,W,MD,13 - 4,Jimmy Fate,44736,Northern Colorado,Archie Colgan,15555,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,157,W,TB-2,4 - 2,Colt Shorts,11611,Cal Poly,Archie Colgan,15555,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,157,W,SV-1,2 - 1,Victor Lopez,11886,Bucknell,Archie Colgan,15555,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,157,W,MD,8 - 0,Cole Moseley,13717,American,Archie Colgan,15555,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,157,L,MD,10 - 2,Taylor Simaz,13490,Cornell,Archie Colgan,15555,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,157,W,TB-1,9 - 2,Brian Murphy,13518,Michigan,Archie Colgan,15555,Wyoming
+2017,11/27,Iowa State - Wyoming Dual,157,L,DEC,5 - 3,Colston DiBlasi,39718,Iowa State,Archie Colgan,15555,Wyoming
+2017,11/20,Nebraska - Wyoming Dual,157,L,DEC,5 - 2,Tyler Berger,20096,Nebraska,Archie Colgan,15555,Wyoming
+2017,11/13,Northern Colorado Open,157,W,DEC,8 - 3,Alex Smith,47084,CSU-Pueblo,Archie Colgan,15555,Wyoming
+2017,11/13,Northern Colorado Open,157,W,DEC,7 - 6,Sam Kreimier,20709,Air Force,Archie Colgan,15555,Wyoming
+2017,11/13,Northern Colorado Open,157,W,FALL,1:43,Payton Tawater,40578,Colorado Mesa,Archie Colgan,15555,Wyoming
+2017,11/13,Northern Colorado Open,157,W,DEC,11 - 4,Dewey Krueger,40144,Wyoming,Archie Colgan,15555,Wyoming
+2017,11/05,Cowboy Open,157,W,DEC,3 - 1,Jake Anderson,46246,Chadron State,Archie Colgan,15555,Wyoming
+2017,11/05,Cowboy Open,157,W,MFOR,0 - 0,Ian Steen,46294,Western Colorado,Archie Colgan,15555,Wyoming
+2017,11/05,Cowboy Open,157,W,DEC,9 - 2,Andrew Fierro,37928,Boise State,Archie Colgan,15555,Wyoming
+2017,11/05,Cowboy Open,157,W,SV-1,3 - 2,Branson Ashworth,21676,Wyoming,Archie Colgan,15555,Wyoming
+2017,11/05,Cowboy Open,157,W,DEC,5 - 3,Dane Robbins,20711,Air Force,Archie Colgan,15555,Wyoming
+2017,11/19,Northwest Open,157,W,TF5,19 - 2 7:00,Ryan Winger,47485,Western Wyoming College,Dewey Krueger,40144,Wyoming
+2017,11/19,Northwest Open,157,W,FALL,0:53,Nic Urbach,47482,Northwest College,Dewey Krueger,40144,Wyoming
+2017,11/19,Northwest Open,157,W,MD,10 - 2,Cameron Braden,43229,Northwest College,Dewey Krueger,40144,Wyoming
+2017,11/19,Northwest Open,157,W,DEC,8 - 5,Parker Simington,44708,Air Force Prep,Dewey Krueger,40144,Wyoming
+2017,11/13,Northern Colorado Open,157,L,DEC,11 - 4,Archie Colgan,15555,Wyoming,Dewey Krueger,40144,Wyoming
+2017,11/13,Northern Colorado Open,157,W,FALL,0:45,Jayden Miller,47080,Colby Community College,Dewey Krueger,40144,Wyoming
+2017,11/13,Northern Colorado Open,157,W,DEC,11 - 4,Jordan Jimenez,40623,CSU-Pueblo,Dewey Krueger,40144,Wyoming
+2017,11/13,Northern Colorado Open,157,W,FALL,3:11,Jimmy Fate,44736,Northern Colorado,Dewey Krueger,40144,Wyoming
+2017,11/13,Northern Colorado Open,157,W,DEC,5 - 4,Parker Simington,44708,Air Force Prep,Dewey Krueger,40144,Wyoming
+2017,11/05,Cowboy Open,157,W,FALL,6:59,Destin Mccauley,41879,Nebraska-Kearney,Dewey Krueger,40144,Wyoming
+2017,11/05,Cowboy Open,157,W,SV-1,8 - 7,Brandon Weber,41833,Montana State-Northern,Dewey Krueger,40144,Wyoming
+2017,11/05,Cowboy Open,157,L,DEC,6 - 0,Fred Green,39780,Boise State,Dewey Krueger,40144,Wyoming
+2017,11/05,Cowboy Open,157,L,DEC,6 - 3,Shawn Beiriger,46251,Western Colorado,Dewey Krueger,40144,Wyoming
+2017,03/16,NCAA Championships,165,L,DEC,6 - 3,Joey Gunther,39725,Iowa,Branson Ashworth,21676,Wyoming
+2017,03/16,NCAA Championships,165,L,MD,12 - 4,Vincenzo Joseph,39542,Penn State,Branson Ashworth,21676,Wyoming
+2017,03/16,NCAA Championships,165,W,DEC,7 - 0,Brian Hamann,13788,NC State,Branson Ashworth,21676,Wyoming
+2017,03/04,Big 12 Championships,165,W,MD,11 - 2,Koy Wilkinson,45053,Utah Valley,Branson Ashworth,21676,Wyoming
+2017,03/04,Big 12 Championships,165,L,DEC,4 - 3,Luke Zilverberg,13633,South Dakota State,Branson Ashworth,21676,Wyoming
+2017,03/04,Big 12 Championships,165,W,DEC,3 - 2,Andrew Fogarty,39706,North Dakota State,Branson Ashworth,21676,Wyoming
+2017,03/04,Big 12 Championships,165,L,DEC,5 - 3,Andrew Fogarty,39706,North Dakota State,Branson Ashworth,21676,Wyoming
+2017,02/12,North Dakota State - Wyoming Dual,165,W,DEC,6 - 2,Andrew Fogarty,39706,North Dakota State,Branson Ashworth,21676,Wyoming
+2017,02/10,Wyoming - Oklahoma State Dual,165,L,DEC,10 - 6,Chandler Rogers,20559,Oklahoma State,Branson Ashworth,21676,Wyoming
+2017,02/10,Wyoming - Oklahoma Dual,165,W,DEC,5 - 2,Yoanse Mejias,41470,Oklahoma,Branson Ashworth,21676,Wyoming
+2017,02/08,Wyoming - Northern Colorado Dual,165,W,SV-1,3 - 1,Keilan Torres,18105,Northern Colorado,Branson Ashworth,21676,Wyoming
+2017,02/04,Air Force - Wyoming Dual,165,W,FALL,0:48,Tyler Wiederholt,44897,Air Force,Branson Ashworth,21676,Wyoming
+2017,01/30,Boise State - Wyoming Dual,165,W,FALL,4:22,Demetrius Romero,39948,Boise State,Branson Ashworth,21676,Wyoming
+2017,01/28,Wyoming - Utah Valley Dual,165,W,DEC,8 - 2,Koy Wilkinson,45053,Utah Valley,Branson Ashworth,21676,Wyoming
+2017,01/20,Wyoming - Cal Poly Dual,165,W,MD,12 - 1,Luke Wilson,19745,Cal Poly,Branson Ashworth,21676,Wyoming
+2017,01/15,Oregon State - Wyoming Dual,165,W,FALL,1:37,Rodney Williams,20296,Oregon State,Branson Ashworth,21676,Wyoming
+2017,01/13,South Dakota State - Wyoming Dual,165,L,SV-1,8 - 6,Luke Zilverberg,13633,South Dakota State,Branson Ashworth,21676,Wyoming
+2017,01/06,Wyoming - North Carolina Dual,165,W,DEC,3 - 0,Jack Clark,20111,North Carolina,Branson Ashworth,21676,Wyoming
+2017,01/06,Army - Wyoming Dual,165,W,DEC,6 - 4,Andrew Mendel,19640,Army West Point,Branson Ashworth,21676,Wyoming
+2017,01/06,American - Wyoming Dual,165,W,MD,11 - 3,Cole Moseley,13717,American,Branson Ashworth,21676,Wyoming
+2017,12/18,Reno Tournament of Champions,165,W,MD,8 - 0,JaCobi Jones,24034,CSU-Pueblo,Branson Ashworth,21676,Wyoming
+2017,12/18,Reno Tournament of Champions,165,W,FALL,1:07,Joseph DeMatteo,22452,Oregon State,Branson Ashworth,21676,Wyoming
+2017,12/18,Reno Tournament of Champions,165,L,SV-1,2 - 0,Drew Hughes,44802,Michigan State,Branson Ashworth,21676,Wyoming
+2017,12/18,Reno Tournament of Champions,165,W,FALL,3:51,Jason Bergquist,44959,Cal Poly,Branson Ashworth,21676,Wyoming
+2017,12/18,Reno Tournament of Champions,165,W,DEC,7 - 2,Demetrius Romero,39948,Boise State,Branson Ashworth,21676,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,165,W,MD,11 - 3,Trey Meyer,44825,North Idaho College,Branson Ashworth,21676,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,165,W,DEC,6 - 0,Keaton Subjeck,14567,Stanford,Branson Ashworth,21676,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,165,W,DEC,5 - 0,Dylan Lydy,39998,Purdue,Branson Ashworth,21676,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,165,W,MD,15 - 6,Brandon Kingsley,13491,Minnesota,Branson Ashworth,21676,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,165,W,DEC,7 - 2,Austin Matthews,22442,Edinboro,Branson Ashworth,21676,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,165,W,DEC,5 - 2,Anthony Valencia,39500,Arizona State,Branson Ashworth,21676,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,165,L,DEC,7 - 4,Anthony Valencia,39500,Arizona State,Branson Ashworth,21676,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,165,W,MD,10 - 1,Alexandre Lopouchanski,39855,Air Force,Branson Ashworth,21676,Wyoming
+2017,11/27,Iowa State - Wyoming Dual,165,W,DEC,3 - 0,Renaldo Rodriguez-Spencer,19965,Iowa State,Branson Ashworth,21676,Wyoming
+2017,11/20,Nebraska - Wyoming Dual,165,W,SV-1,3 - 1,Dustin Williams,20108,Nebraska,Branson Ashworth,21676,Wyoming
+2017,11/13,Northern Colorado Open,165,W,FALL,3:39,Monquez Towsend,47085,Colby Community College,Branson Ashworth,21676,Wyoming
+2017,11/13,Northern Colorado Open,165,W,TF5,16 - 1 7:00,Michael Milliner,45362,Utah Valley,Branson Ashworth,21676,Wyoming
+2017,11/13,Northern Colorado Open,165,W,TF5,16 - 0 7:00,Tyler Wiederholt,44897,Air Force,Branson Ashworth,21676,Wyoming
+2017,11/13,Northern Colorado Open,165,W,DEC,7 - 2,Tyler Kinn,16786,Northern Colorado,Branson Ashworth,21676,Wyoming
+2017,11/13,Northern Colorado Open,165,W,MD,12 - 3,Kyle Pope,16072,Wyoming,Branson Ashworth,21676,Wyoming
+2017,11/05,Cowboy Open,157,L,SV-1,3 - 2,Archie Colgan,15555,Wyoming,Branson Ashworth,21676,Wyoming
+2017,11/05,Cowboy Open,157,W,TF5,17 - 0 2:37,Tommy Cooper,46308,Montana State-Northern,Branson Ashworth,21676,Wyoming
+2017,11/05,Cowboy Open,157,W,DEC,9 - 3,Payton Tawater,40578,Colorado Mesa,Branson Ashworth,21676,Wyoming
+2017,11/05,Cowboy Open,157,W,FALL,3:00,Fred Green,39780,Boise State,Branson Ashworth,21676,Wyoming
+2017,11/05,Cowboy Open,157,W,DEC,7 - 0,Alex Mossing,23680,Air Force,Branson Ashworth,21676,Wyoming
+2017,02/12,North Dakota State - Wyoming Dual,184,L,DEC,11 - 5,Tyler McNutt,20765,North Dakota State,Chaz Polson,17412,Wyoming
+2017,01/13,South Dakota State - Wyoming Dual,174,L,TF5,23 - 3 5:47,David Kocer,13612,South Dakota State,Chaz Polson,17412,Wyoming
+2017,01/06,Wyoming - North Carolina Dual,184,L,DEC,4 - 3,Elijah Kerr-Brown,40327,North Carolina,Chaz Polson,17412,Wyoming
+2017,01/06,Army - Wyoming Dual,184,L,DEC,11 - 5,Samson Imonode,12655,Army West Point,Chaz Polson,17412,Wyoming
+2017,01/06,American - Wyoming Dual,184,L,DEC,6 - 3,Jason Grimes,12276,American,Chaz Polson,17412,Wyoming
+2017,12/18,Reno Tournament of Champions,174,W,DEC,8 - 3,Colt Doyle,48240,Clackamas Community College,Chaz Polson,17412,Wyoming
+2017,12/18,Reno Tournament of Champions,174,W,MD,15 - 3,Drew Barnes,20750,Michigan State,Chaz Polson,17412,Wyoming
+2017,12/18,Reno Tournament of Champions,174,L,FALL,6:09,Austin Dewey,12380,Boise State,Chaz Polson,17412,Wyoming
+2017,12/18,Reno Tournament of Champions,174,L,FALL,5:31,Andrew Morgan,40250,Campbell,Chaz Polson,17412,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,174,W,TF5,16 - 0 4:33,Ty Millward,17929,West Virginia,Chaz Polson,17412,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,174,L,DEC,5 - 3,Jim Wilson,11535,Stanford,Chaz Polson,17412,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,174,L,DEC,5 - 2,Ben Harvey,40935,Army West Point,Chaz Polson,17412,Wyoming
+2017,11/05,Cowboy Open,165,W,DEC,8 - 7,Richard Miranda,41456,Nebraska-Kearney,Chaz Polson,17412,Wyoming
+2017,11/05,Cowboy Open,165,W,DEC,6 - 0,Billy Bigelow,45195,Boise State,Chaz Polson,17412,Wyoming
+2017,11/05,Cowboy Open,165,W,SV-1,3 - 2,Travis Bradford,46254,Western Colorado,Chaz Polson,17412,Wyoming
+2017,11/05,Cowboy Open,165,L,MFOR,0 - 0,Keilan Torres,18105,Northern Colorado,Chaz Polson,17412,Wyoming
+2017,11/05,Cowboy Open,165,W,DEC,5 - 2,Ricky Padilla,40631,Air Force,Chaz Polson,17412,Wyoming
+2017,11/05,Cowboy Open,165,W,DEC,3 - 0,Josh Mossing,39709,Air Force,Chaz Polson,17412,Wyoming
+2017,11/05,Cowboy Open,165,L,DEC,4 - 3,Alexandre Lopouchanski,39855,Air Force,Chaz Polson,17412,Wyoming
+2017,03/04,Big 12 Championships,174,W,DEC,4 - 3,Kimball Bastian,40322,Utah Valley,Kyle Pope,16072,Wyoming
+2017,03/04,Big 12 Championships,174,L,DEC,3 - 2,David Kocer,13612,South Dakota State,Kyle Pope,16072,Wyoming
+2017,03/04,Big 12 Championships,174,L,DEC,3 - 2,Lelund Weatherspoon,12283,Iowa State,Kyle Pope,16072,Wyoming
+2017,03/04,Big 12 Championships,174,W,DEC,10 - 3,Michael Billingsley,20704,Air Force,Kyle Pope,16072,Wyoming
+2017,02/12,North Dakota State - Wyoming Dual,174,W,DEC,10 - 5,Dylan Urbach,20050,North Dakota State,Kyle Pope,16072,Wyoming
+2017,02/10,Wyoming - Oklahoma State Dual,174,L,DEC,12 - 5,Kyle Crutchmer,12286,Oklahoma State,Kyle Pope,16072,Wyoming
+2017,02/10,Wyoming - Oklahoma Dual,174,L,DEC,9 - 2,Matt Reed,15381,Oklahoma,Kyle Pope,16072,Wyoming
+2017,02/08,Wyoming - Northern Colorado Dual,174,W,DEC,13 - 7,Dalton Robertson,44695,Northern Colorado,Kyle Pope,16072,Wyoming
+2017,02/04,Air Force - Wyoming Dual,174,W,DEC,8 - 6,Michael Billingsley,20704,Air Force,Kyle Pope,16072,Wyoming
+2017,01/30,Boise State - Wyoming Dual,174,L,DEC,3 - 2,Austin Dewey,12380,Boise State,Kyle Pope,16072,Wyoming
+2017,01/28,Wyoming - Utah Valley Dual,174,L,DEC,3 - 1,Kimball Bastian,40322,Utah Valley,Kyle Pope,16072,Wyoming
+2017,01/20,Wyoming - Cal Poly Dual,174,W,DEC,8 - 4,Xavier Johnson,13743,Cal Poly,Kyle Pope,16072,Wyoming
+2017,01/15,Oregon State - Wyoming Dual,174,W,TF5,17 - 2 4:21,Weston Dobler,39614,Oregon State,Kyle Pope,16072,Wyoming
+2017,01/13,South Dakota State - Wyoming Dual,184,L,FALL,6:55,Martin Mueller,40281,South Dakota State,Kyle Pope,16072,Wyoming
+2017,01/06,Wyoming - North Carolina Dual,174,L,MD,13 - 5,Ethan Ramos,14560,North Carolina,Kyle Pope,16072,Wyoming
+2017,01/06,Army - Wyoming Dual,174,L,DEC,7 - 4,Ben Harvey,40935,Army West Point,Kyle Pope,16072,Wyoming
+2017,01/06,American - Wyoming Dual,174,W,DEC,8 - 4,Michael Eckhart,19614,American,Kyle Pope,16072,Wyoming
+2017,12/18,Reno Tournament of Champions,174,W,TF5,18 - 3 3:55,Dominic Merlo,46700,Simpson,Kyle Pope,16072,Wyoming
+2017,12/18,Reno Tournament of Champions,174,L,FALL,6:19,Adrian Lyons-lopez,41550,Southwestern Oregon Community College,Kyle Pope,16072,Wyoming
+2017,12/18,Reno Tournament of Champions,174,W,DEC,5 - 3,Kieffer Taylor,39912,Utah Valley,Kyle Pope,16072,Wyoming
+2017,12/18,Reno Tournament of Champions,174,W,TF5,18 - 3 2:41,Drew Barnes,20750,Michigan State,Kyle Pope,16072,Wyoming
+2017,12/18,Reno Tournament of Champions,174,L,TB-2,7 - 6,Travis Berridge,14904,Cal Poly,Kyle Pope,16072,Wyoming
+2017,12/03,Bob Smith Open,165,W,DEC,9 - 6,Gage Stallworth,42405,Central Oklahoma,Kyle Pope,16072,Wyoming
+2017,12/03,Bob Smith Open,165,W,TF5,16 - 1 7:00,Andrew Simmons,23998,Missouri Baptist,Kyle Pope,16072,Wyoming
+2017,12/03,Bob Smith Open,165,W,TF5,16 - 1 7:00,Travis Bradford,46254,Western Colorado,Kyle Pope,16072,Wyoming
+2017,12/03,Bob Smith Open,165,W,TF5,20 - 4 7:00,Dalton Tipton,42253,Missouri Valley,Kyle Pope,16072,Wyoming
+2017,12/03,Bob Smith Open,165,W,DEC,6 - 2,Ricky Padilla,40631,Air Force,Kyle Pope,16072,Wyoming
+2017,11/27,Iowa State - Wyoming Dual,174,L,DEC,10 - 7,Lelund Weatherspoon,12283,Iowa State,Kyle Pope,16072,Wyoming
+2017,11/20,Nebraska - Wyoming Dual,174,L,DEC,7 - 6,Micah Barnes,16164,Nebraska,Kyle Pope,16072,Wyoming
+2017,11/13,Northern Colorado Open,165,L,MD,12 - 3,Branson Ashworth,21676,Wyoming,Kyle Pope,16072,Wyoming
+2017,11/13,Northern Colorado Open,165,W,TF5,16 - 0 7:00,Schyler James,47074,Northwest Kansas Technical College,Kyle Pope,16072,Wyoming
+2017,11/13,Northern Colorado Open,165,W,SV-2,4 - 2,Jessie Hoffschneider,46314,Colorado Mesa,Kyle Pope,16072,Wyoming
+2017,11/13,Northern Colorado Open,165,W,DEC,3 - 2,Trace Carello,44643,Air Force Prep,Kyle Pope,16072,Wyoming
+2017,11/13,Northern Colorado Open,165,W,DEC,9 - 5,Lucas Lovvorn,42626,Wyoming,Kyle Pope,16072,Wyoming
+2017,11/13,Northern Colorado Open,165,W,FALL,2:55,Kellen Pelzel,41052,New Mexico Highlands,Kyle Pope,16072,Wyoming
+2017,11/05,Cowboy Open,165,W,DEC,6 - 5,Jessie Hoffschneider,46314,Colorado Mesa,Kyle Pope,16072,Wyoming
+2017,11/05,Cowboy Open,165,L,MFOR,0 - 0,Demetrius Romero,39948,Boise State,Kyle Pope,16072,Wyoming
+2017,11/05,Cowboy Open,165,L,MFOR,0 - 0,Khaldoon Rashid,46286,Providence,Kyle Pope,16072,Wyoming
+2017,02/12,North Dakota State - Wyoming Dual,197,L,FALL,3:06,Cordell Eaton,40458,North Dakota State,Nate Shaw,43405,Wyoming
+2017,01/28,Wyoming - Utah Valley Dual,197,L,MD,11 - 2,Tanner Orndorff,40324,Utah Valley,Nate Shaw,43405,Wyoming
+2017,01/20,Wyoming - Cal Poly Dual,197,W,DEC,8 - 4,JT Goodwin,19740,Cal Poly,Nate Shaw,43405,Wyoming
+2017,01/13,South Dakota State - Wyoming Dual,197,L,FALL,1:51,Nate Rotert,12968,South Dakota State,Nate Shaw,43405,Wyoming
+2017,12/18,Reno Tournament of Champions,197,L,DEC,3 - 2,Wyatt Westfall,48295,Southwestern Oregon Community College,Nate Shaw,43405,Wyoming
+2017,12/18,Reno Tournament of Champions,197,W,DEC,10 - 6,Harley DiLulo,19686,Boise State,Nate Shaw,43405,Wyoming
+2017,12/18,Reno Tournament of Champions,197,L,DEC,7 - 3,Sullivan Cauley,20567,Arizona State,Nate Shaw,43405,Wyoming
+2017,12/03,Bob Smith Open,184,W,MD,12 - 3,Tyler Crow,42271,Missouri Valley,Nate Shaw,43405,Wyoming
+2017,12/03,Bob Smith Open,184,L,DEC,5 - 3,Konnor Schmidt,40587,Western Colorado,Nate Shaw,43405,Wyoming
+2017,12/03,Bob Smith Open,184,L,DEC,3 - 2,Tristan Ramberg,41065,Labette Community College,Nate Shaw,43405,Wyoming
+2017,11/13,Northern Colorado Open,184,W,MD,11 - 1,Dylan Buschow,47067,Northeastern Oklahoma,Nate Shaw,43405,Wyoming
+2017,11/13,Northern Colorado Open,184,W,FALL,1:01,Christian Baker,47066,Unattached,Nate Shaw,43405,Wyoming
+2017,11/13,Northern Colorado Open,184,W,DEC,5 - 2,Adam Visconti,47059,Colorado Mesa,Nate Shaw,43405,Wyoming
+2017,11/13,Northern Colorado Open,184,W,FALL,3:18,Wesley Schultz,40548,Wyoming,Nate Shaw,43405,Wyoming
+2017,11/13,Northern Colorado Open,184,L,DEC,9 - 8,Luis Terrazas,44424,New Mexico Highlands,Nate Shaw,43405,Wyoming
+2017,11/13,Northern Colorado Open,184,L,MFOR,0 - 0,Rakim Dean,42607,Fort Hays State,Nate Shaw,43405,Wyoming
+2017,11/05,Cowboy Open,184,L,FALL,6:03,Zach Stodden,46328,Nebraska-Kearney,Nate Shaw,43405,Wyoming
+2017,11/05,Cowboy Open,184,L,SV-1,3 - 2,Kadyn Del toro,44256,Boise State,Nate Shaw,43405,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,184,W,DEC,7 - 6,Bob Coleman,45118,Oregon State,Wesley Schultz,40548,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,184,L,FALL,3:42,Myles Martin,39622,Ohio State,Wesley Schultz,40548,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,184,L,DEC,8 - 5,Samson Imonode,12655,Army West Point,Wesley Schultz,40548,Wyoming
+2017,11/13,Northern Colorado Open,184,L,FALL,3:18,Nate Shaw,43405,Wyoming,Wesley Schultz,40548,Wyoming
+2017,11/13,Northern Colorado Open,184,W,FALL,1:57,John Lewis,47077,CSU-Pueblo,Wesley Schultz,40548,Wyoming
+2017,11/13,Northern Colorado Open,184,W,MD,13 - 2,Adam Visconti,47059,Colorado Mesa,Wesley Schultz,40548,Wyoming
+2017,11/13,Northern Colorado Open,184,L,TF5,16 - 0 7:00,Dylan Gabel,20186,Northern Colorado,Wesley Schultz,40548,Wyoming
+2017,11/05,Cowboy Open,184,W,DEC,10 - 4,Kadyn Del toro,44256,Boise State,Wesley Schultz,40548,Wyoming
+2017,11/05,Cowboy Open,184,W,DEC,11 - 6,Will Sumner,20419,Utah Valley,Wesley Schultz,40548,Wyoming
+2017,11/05,Cowboy Open,184,W,MFOR,0 - 0,Zach Stodden,46328,Nebraska-Kearney,Wesley Schultz,40548,Wyoming
+2017,03/04,Big 12 Championships,184,W,SV-1,4 - 2,Abel Gomez,18177,Utah Valley,Lucas Lovvorn,42626,Wyoming
+2017,03/04,Big 12 Championships,184,L,MD,13 - 1,Dylan Gabel,20186,Northern Colorado,Lucas Lovvorn,42626,Wyoming
+2017,03/04,Big 12 Championships,184,L,DEC,3 - 1,Zen Ikehara,20707,Air Force,Lucas Lovvorn,42626,Wyoming
+2017,02/10,Wyoming - Oklahoma State Dual,184,L,TF5,19 - 4 4:15,Nolan Boyd,12399,Oklahoma State,Lucas Lovvorn,42626,Wyoming
+2017,02/10,Wyoming - Oklahoma Dual,197,L,MD,16 - 7,Brad Johnson,16410,Oklahoma,Lucas Lovvorn,42626,Wyoming
+2017,02/08,Wyoming - Northern Colorado Dual,184,L,DEC,5 - 0,Dylan Gabel,20186,Northern Colorado,Lucas Lovvorn,42626,Wyoming
+2017,02/04,Air Force - Wyoming Dual,184,W,TB-1,2 - 1,Zen Ikehara,20707,Air Force,Lucas Lovvorn,42626,Wyoming
+2017,01/30,Boise State - Wyoming Dual,184,L,DEC,7 - 1,Kadyn Del toro,44256,Boise State,Lucas Lovvorn,42626,Wyoming
+2017,01/28,Wyoming - Utah Valley Dual,184,L,TB-2,3 - 2,Will Sumner,20419,Utah Valley,Lucas Lovvorn,42626,Wyoming
+2017,01/20,Wyoming - Cal Poly Dual,184,L,DEC,4 - 1,Mitch Woods,19746,Cal Poly,Lucas Lovvorn,42626,Wyoming
+2017,01/15,Oregon State - Wyoming Dual,184,W,DEC,7 - 2,Bob Coleman,45118,Oregon State,Lucas Lovvorn,42626,Wyoming
+2017,12/03,Bob Smith Open,174,W,MD,9 - 0,Nick Moore,48096,Baker,Lucas Lovvorn,42626,Wyoming
+2017,12/03,Bob Smith Open,174,W,DEC,3 - 1,Sadarriss Patterson,20883,Ellsworth CC,Lucas Lovvorn,42626,Wyoming
+2017,12/03,Bob Smith Open,174,W,FALL,3:23,Schyler James,48094,NWMSU Wrestling Club,Lucas Lovvorn,42626,Wyoming
+2017,12/03,Bob Smith Open,174,W,DEC,6 - 5,Miguel Barreras,44074,Central Oklahoma,Lucas Lovvorn,42626,Wyoming
+2017,11/19,Northwest Open,165,W,DEC,8 - 6,Andrew Vonrein,41826,Northwest College,Lucas Lovvorn,42626,Wyoming
+2017,11/19,Northwest Open,165,W,MD,12 - 0,Mason Perkins,46341,Western Wyoming College,Lucas Lovvorn,42626,Wyoming
+2017,11/19,Northwest Open,165,W,DEC,2 - 0,Trace Carello,44643,Air Force Prep,Lucas Lovvorn,42626,Wyoming
+2017,11/13,Northern Colorado Open,165,L,DEC,9 - 5,Kyle Pope,16072,Wyoming,Lucas Lovvorn,42626,Wyoming
+2017,11/13,Northern Colorado Open,165,W,FALL,1:36,Drew Engberson,47070,Sierra College,Lucas Lovvorn,42626,Wyoming
+2017,11/13,Northern Colorado Open,165,W,FALL,0:20,Jason Buhr,46256,Colorado Mesa,Lucas Lovvorn,42626,Wyoming
+2017,11/13,Northern Colorado Open,165,W,TF5,18 - 3 7:00,Kyle Snelling,45363,Utah Valley,Lucas Lovvorn,42626,Wyoming
+2017,11/13,Northern Colorado Open,165,L,FALL,3:38,Tyler Wiederholt,44897,Air Force,Lucas Lovvorn,42626,Wyoming
+2017,11/13,Northern Colorado Open,165,W,SV-1,9 - 7,Keilan Torres,18105,Northern Colorado,Lucas Lovvorn,42626,Wyoming
+2017,11/05,Cowboy Open,165,W,DEC,10 - 4,Jason Buhr,46256,Colorado Mesa,Lucas Lovvorn,42626,Wyoming
+2017,11/05,Cowboy Open,165,L,DEC,5 - 3,Tyler Kinn,16786,Northern Colorado,Lucas Lovvorn,42626,Wyoming
+2017,11/05,Cowboy Open,165,W,MFOR,0 - 0,Reed Burgener,41778,Chadron State,Lucas Lovvorn,42626,Wyoming
+2017,11/05,Cowboy Open,165,L,FALL,4:27,Keilan Torres,18105,Northern Colorado,Lucas Lovvorn,42626,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,197,L,FALL,2:31,Logan Kirby,19916,Harvard,Cody Vigoren,39732,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,197,L,DEC,8 - 5,Matt Williams,16442,CSU Bakersfield,Cody Vigoren,39732,Wyoming
+2017,11/27,Iowa State - Wyoming Dual,197,W,MD,9 - 0,Joe Teague,39959,Iowa State,Cody Vigoren,39732,Wyoming
+2017,11/20,Nebraska - Wyoming Dual,197,L,MD,14 - 3,Aaron Studebaker,12422,Nebraska,Cody Vigoren,39732,Wyoming
+2017,11/13,Northern Colorado Open,197,W,FALL,1:36,Ben Hinds,47072,Northeastern Oklahoma,Cody Vigoren,39732,Wyoming
+2017,11/13,Northern Colorado Open,197,W,FALL,6:11,Jareb Aziz,47065,Colorado Mesa,Cody Vigoren,39732,Wyoming
+2017,11/13,Northern Colorado Open,197,W,FALL,1:34,Jon Good,46698,Sierra College,Cody Vigoren,39732,Wyoming
+2017,11/13,Northern Colorado Open,197,L,DEC,5 - 2,Jon Inman,23671,Fort Hays State,Cody Vigoren,39732,Wyoming
+2017,11/13,Northern Colorado Open,197,W,FALL,0:53,Aryton Almberg,13048,Utah Valley,Cody Vigoren,39732,Wyoming
+2017,11/13,Northern Colorado Open,197,W,DEC,3 - 2,Brandon Tribble,13038,Wyoming,Cody Vigoren,39732,Wyoming
+2017,11/05,Cowboy Open,197,W,FALL,3:58,Aryton Almberg,13048,Utah Valley,Cody Vigoren,39732,Wyoming
+2017,11/05,Cowboy Open,197,L,DEC,8 - 4,Austin Gaun,23806,Colorado Mesa,Cody Vigoren,39732,Wyoming
+2017,11/05,Cowboy Open,197,W,DEC,3 - 1,Keavon Buckley,19684,Boise State,Cody Vigoren,39732,Wyoming
+2017,11/05,Cowboy Open,197,L,TF5,17 - 1 4:06,Jacob Seely,39665,Northern Colorado,Cody Vigoren,39732,Wyoming
+2017,03/04,Big 12 Championships,197,L,DEC,3 - 2,Cordell Eaton,40458,North Dakota State,Luke Paine,16192,Wyoming
+2017,03/04,Big 12 Championships,197,L,DEC,7 - 5,Marcus Harrington,19961,Iowa State,Luke Paine,16192,Wyoming
+2017,02/10,Wyoming - Oklahoma State Dual,197,L,TF5,16 - 0 2:24,Preston Weigel,20278,Oklahoma State,Luke Paine,16192,Wyoming
+2017,02/10,Wyoming - Oklahoma Dual,184,L,DEC,8 - 5,Dawaylon Barnes,22085,Oklahoma,Luke Paine,16192,Wyoming
+2017,02/08,Wyoming - Northern Colorado Dual,197,W,DEC,3 - 2,Jamarcus Grant,44974,Northern Colorado,Luke Paine,16192,Wyoming
+2017,02/04,Air Force - Wyoming Dual,197,L,DEC,3 - 2,Anthony McLaughlin,23674,Air Force,Luke Paine,16192,Wyoming
+2017,01/30,Boise State - Wyoming Dual,197,W,DEC,6 - 5,Harley DiLulo,19686,Boise State,Luke Paine,16192,Wyoming
+2017,01/15,Oregon State - Wyoming Dual,197,L,DEC,8 - 1,Corey Griego,20292,Oregon State,Luke Paine,16192,Wyoming
+2017,01/06,Wyoming - North Carolina Dual,197,L,DEC,7 - 3,Daniel Chaid,45044,North Carolina,Luke Paine,16192,Wyoming
+2017,01/06,Army - Wyoming Dual,197,L,DEC,4 - 0,Jack Wedholm,19646,Army West Point,Luke Paine,16192,Wyoming
+2017,01/06,American - Wyoming Dual,197,L,DEC,2 - 0,Jeric Kasunic,19615,American,Luke Paine,16192,Wyoming
+2017,12/18,Reno Tournament of Champions,184,W,DEC,5 - 3,JaVaughn Perkins,48293,CSU-Pueblo,Luke Paine,16192,Wyoming
+2017,12/18,Reno Tournament of Champions,184,W,MD,18 - 4,Andrew Tausch,48273,Clackamas Community College,Luke Paine,16192,Wyoming
+2017,12/18,Reno Tournament of Champions,184,L,DEC,6 - 1,Austin Gaun,23806,Colorado Mesa,Luke Paine,16192,Wyoming
+2017,12/18,Reno Tournament of Champions,184,W,DEC,5 - 2,Bob Coleman,45118,Oregon State,Luke Paine,16192,Wyoming
+2017,12/18,Reno Tournament of Champions,184,L,DEC,5 - 1,Mitch Woods,19746,Cal Poly,Luke Paine,16192,Wyoming
+2017,12/18,Reno Tournament of Champions,184,W,MD,10 - 2,Josh Weinstein,44914,Arizona State,Luke Paine,16192,Wyoming
+2017,11/27,Iowa State - Wyoming Dual,184,L,DEC,6 - 0,Carson Powell,11570,Iowa State,Luke Paine,16192,Wyoming
+2017,11/20,Nebraska - Wyoming Dual,184,L,MD,18 - 4,TJ Dudley,12526,Nebraska,Luke Paine,16192,Wyoming
+2017,11/13,Northern Colorado Open,184,W,MD,8 - 0,Jamarcus Grant,44974,Northern Colorado,Luke Paine,16192,Wyoming
+2017,11/13,Northern Colorado Open,184,W,MD,13 - 5,Bridger Barker,44778,Air Force,Luke Paine,16192,Wyoming
+2017,11/13,Northern Colorado Open,184,W,FALL,0:51,Luis Terrazas,44424,New Mexico Highlands,Luke Paine,16192,Wyoming
+2017,11/13,Northern Colorado Open,184,L,DEC,5 - 1,Dylan Gabel,20186,Northern Colorado,Luke Paine,16192,Wyoming
+2017,11/05,Cowboy Open,184,W,TF5,19 - 1 5:49,Sam Voigtlaender,46301,Providence,Luke Paine,16192,Wyoming
+2017,11/05,Cowboy Open,184,L,DEC,10 - 5,Zach Stodden,46328,Nebraska-Kearney,Luke Paine,16192,Wyoming
+2017,11/05,Cowboy Open,184,L,DEC,4 - 2,Benjamin Stroh,12647,Montana State-Northern,Luke Paine,16192,Wyoming
+2017,03/04,Big 12 Championships,285,L,DEC,5 - 3,Dustin Dennison,20409,Utah Valley,Brandon Tribble,13038,Wyoming
+2017,03/04,Big 12 Championships,285,W,DEC,4 - 1,Alex Macki,14278,South Dakota State,Brandon Tribble,13038,Wyoming
+2017,03/04,Big 12 Championships,285,L,DEC,6 - 1,Benjamin Tyanan,40498,North Dakota State,Brandon Tribble,13038,Wyoming
+2017,03/04,Big 12 Championships,285,L,FALL,1:55,Quean Smith,14322,Iowa State,Brandon Tribble,13038,Wyoming
+2017,02/12,North Dakota State - Wyoming Dual,285,L,DEC,2 - 1,Benjamin Tyanan,40498,North Dakota State,Brandon Tribble,13038,Wyoming
+2017,02/10,Wyoming - Oklahoma State Dual,285,L,DEC,5 - 4,Tanner Allen,20264,Oklahoma State,Brandon Tribble,13038,Wyoming
+2017,02/10,Wyoming - Oklahoma Dual,285,L,FALL,1:43,Ross Larson,14299,Oklahoma,Brandon Tribble,13038,Wyoming
+2017,02/08,Wyoming - Northern Colorado Dual,285,L,DEC,3 - 2,Jack Kuck,40206,Northern Colorado,Brandon Tribble,13038,Wyoming
+2017,02/04,Air Force - Wyoming Dual,285,W,INJ,8:00,Kerry Powers,42612,Air Force,Brandon Tribble,13038,Wyoming
+2017,01/30,Boise State - Wyoming Dual,285,W,DEC,3 - 0,Gabriel Gonzalez,19688,Boise State,Brandon Tribble,13038,Wyoming
+2017,01/28,Wyoming - Utah Valley Dual,285,L,SV-2,4 - 2,Dustin Dennison,20409,Utah Valley,Brandon Tribble,13038,Wyoming
+2017,01/20,Wyoming - Cal Poly Dual,285,W,DEC,6 - 4,Spencer Empey,14403,Cal Poly,Brandon Tribble,13038,Wyoming
+2017,01/15,Oregon State - Wyoming Dual,285,L,FALL,3:47,Cody Crawford,16468,Oregon State,Brandon Tribble,13038,Wyoming
+2017,01/13,South Dakota State - Wyoming Dual,285,L,SV-1,5 - 3,Alex Macki,14278,South Dakota State,Brandon Tribble,13038,Wyoming
+2017,01/06,Army - Wyoming Dual,285,L,DEC,4 - 1,Trevor Smith,14210,Army West Point,Brandon Tribble,13038,Wyoming
+2017,01/06,American - Wyoming Dual,285,L,MD,10 - 2,Brett Dempsey,12443,American,Brandon Tribble,13038,Wyoming
+2017,12/18,Reno Tournament of Champions,285,L,DEC,3 - 2,Jose Alvarez,48284,Clackamas Community College,Brandon Tribble,13038,Wyoming
+2017,12/18,Reno Tournament of Champions,285,W,MD,12 - 0,Eric Fan,48257,Eastern Oregon University,Brandon Tribble,13038,Wyoming
+2017,12/18,Reno Tournament of Champions,285,L,DEC,11 - 4,Jordan Karst,17060,Utah Valley,Brandon Tribble,13038,Wyoming
+2017,12/18,Reno Tournament of Champions,285,W,DEC,8 - 4,Trevor Rasmussen,40001,Stanford,Brandon Tribble,13038,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,285,W,DEC,2 - 1,Jack Kuck,40206,Northern Colorado,Brandon Tribble,13038,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,285,L,DEC,10 - 4,Michael Kroells,14331,Minnesota,Brandon Tribble,13038,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,285,W,DEC,7 - 4,Tyler Greene,12506,Bucknell,Brandon Tribble,13038,Wyoming
+2017,12/02,Cliff Keen Las Vegas Invite,285,L,DEC,6 - 2,Trevor Smith,14210,Army West Point,Brandon Tribble,13038,Wyoming
+2017,11/27,Iowa State - Wyoming Dual,285,W,DEC,4 - 3,Quean Smith,14322,Iowa State,Brandon Tribble,13038,Wyoming
+2017,11/13,Northern Colorado Open,197,L,DEC,3 - 2,Cody Vigoren,39732,Wyoming,Brandon Tribble,13038,Wyoming
+2017,11/13,Northern Colorado Open,197,W,TF5,17 - 1 7:00,Ben Hinds,47072,Northeastern Oklahoma,Brandon Tribble,13038,Wyoming
+2017,11/13,Northern Colorado Open,197,W,MD,10 - 2,Jareb Aziz,47065,Colorado Mesa,Brandon Tribble,13038,Wyoming
+2017,11/13,Northern Colorado Open,197,L,DEC,7 - 3,Jacob Seely,39665,Northern Colorado,Brandon Tribble,13038,Wyoming
+2017,11/05,Cowboy Open,197,L,DEC,7 - 3,Tanner Orndorff,40324,Utah Valley,Brandon Tribble,13038,Wyoming
+2017,11/05,Cowboy Open,197,W,MD,9 - 1,Corey Van dorn,41837,Nebraska-Kearney,Brandon Tribble,13038,Wyoming
+2017,11/05,Cowboy Open,197,L,DEC,6 - 5,Jacob Seely,39665,Northern Colorado,Brandon Tribble,13038,Wyoming
+2017,01/06,Wyoming - North Carolina Dual,285,L,DEC,5 - 3,Cory Gillilland-Daniel,22024,North Carolina,Sam Eagan,21507,Wyoming
+2017,11/20,Nebraska - Wyoming Dual,285,L,TF5,16 - 0 2:44,Collin Jensen,14132,Nebraska,Sam Eagan,21507,Wyoming
+2017,11/13,Northern Colorado Open,285,W,FALL,2:02,Rodney Jones,47076,Northwest Kansas Technical College,Sam Eagan,21507,Wyoming
+2017,11/13,Northern Colorado Open,285,W,TF5,16 - 0 7:00,Kyle Jennings,47075,Colorado Mesa,Sam Eagan,21507,Wyoming
+2017,11/13,Northern Colorado Open,285,W,MD,14 - 0,Shane Coombs,47069,CSU-Pueblo,Sam Eagan,21507,Wyoming
+2017,11/13,Northern Colorado Open,285,W,FALL,2:39,Jacob Robles,46325,Ottawa,Sam Eagan,21507,Wyoming
+2017,11/13,Northern Colorado Open,285,L,DEC,7 - 4,Christian Lance,41064,Fort Hays State,Sam Eagan,21507,Wyoming
+2017,11/13,Northern Colorado Open,285,W,TB-1,2 - 1,Jack Kuck,40206,Northern Colorado,Sam Eagan,21507,Wyoming
+2017,11/05,Cowboy Open,285,W,DEC,4 - 2,Brady Radik,21419,Nebraska-Kearney,Sam Eagan,21507,Wyoming
+2017,11/05,Cowboy Open,285,L,DEC,7 - 2,Tuli Laulu,46318,Adams State,Sam Eagan,21507,Wyoming
+2017,11/05,Cowboy Open,285,W,DEC,5 - 4,Mathew Hopkins,41751,Providence,Sam Eagan,21507,Wyoming
+2017,11/05,Cowboy Open,285,W,MD,11 - 2,Joseph Valencia,46330,Providence,Sam Eagan,21507,Wyoming
+2017,11/05,Cowboy Open,285,L,FALL,4:56,Jordan Karst,17060,Utah Valley,Sam Eagan,21507,Wyoming
+2017,12/18,Reno Tournament of Champions,285,L,DEC,6 - 0,Sean Molle,45744,Simon Fraser,Hunter Mullins,44807,Wyoming
+2017,12/18,Reno Tournament of Champions,285,L,DEC,3 - 1,Christian Rebottaro,44850,Michigan State,Hunter Mullins,44807,Wyoming
+2017,11/19,Northwest Open,285,L,FALL,6:03,Jake Van Valkenburg,46299,Western Wyoming College,Hunter Mullins,44807,Wyoming
+2017,11/19,Northwest Open,285,W,DEC,6 - 2,Joe Hensley,47478,Air Force Prep,Hunter Mullins,44807,Wyoming
+2017,11/19,Northwest Open,285,W,FALL,1:57,Eduardo Anguiano,47473,Western Wyoming College,Hunter Mullins,44807,Wyoming
+2017,11/19,Northwest Open,285,W,DEC,3 - 0,Wade French,46262,Western Wyoming College,Hunter Mullins,44807,Wyoming
+2017,11/13,Northern Colorado Open,285,W,MD,9 - 1,Kyle Jennings,47075,Colorado Mesa,Hunter Mullins,44807,Wyoming
+2017,11/13,Northern Colorado Open,285,W,DEC,5 - 2,Gabriel Ledesma,46338,Colby Community College,Hunter Mullins,44807,Wyoming
+2017,11/13,Northern Colorado Open,285,W,FALL,4:55,Bryce Town,45026,Air Force,Hunter Mullins,44807,Wyoming
+2017,11/13,Northern Colorado Open,285,L,DEC,3 - 2,Christian Lance,41064,Fort Hays State,Hunter Mullins,44807,Wyoming
+2017,11/13,Northern Colorado Open,285,L,DEC,4 - 2,Jack Kuck,40206,Northern Colorado,Hunter Mullins,44807,Wyoming
+2017,11/05,Cowboy Open,285,W,FALL,5:17,Aaron Griffith,43468,Nebraska-Kearney,Hunter Mullins,44807,Wyoming
+2017,11/05,Cowboy Open,285,W,DEC,5 - 3,Torrey Reinhart,46323,Northwest Kansas Technical College,Hunter Mullins,44807,Wyoming
+2017,11/05,Cowboy Open,285,W,DEC,3 - 2,Jacob Robles,46325,Ottawa,Hunter Mullins,44807,Wyoming
+2017,11/05,Cowboy Open,285,W,DEC,3 - 1,Jake Van Valkenburg,46299,Western Wyoming College,Hunter Mullins,44807,Wyoming
+2017,11/05,Cowboy Open,285,L,TF5,18 - 0 2:41,Ben Andrew,45361,Utah Valley,Hunter Mullins,44807,Wyoming
+2017,11/05,Cowboy Open,285,L,MD,9 - 0,Kerry Powers,42612,Air Force,Hunter Mullins,44807,Wyoming
+2017,12/03,Bob Smith Open,285,W,DEC,6 - 0,Anthony Ottinger,48098,Labette Community College,Danny Gordon,39798,Wyoming
+2017,12/03,Bob Smith Open,285,L,DEC,12 - 6,Odgerek Batkhishig,46249,Northwest Kansas Technical College,Danny Gordon,39798,Wyoming
+2017,12/03,Bob Smith Open,285,W,DEC,6 - 4,Jerhett Lee,47333,Ouachita Baptist University,Danny Gordon,39798,Wyoming
+2017,12/03,Bob Smith Open,285,W,DEC,12 - 6,Gabriel Ledesma,46338,Colby Community College,Danny Gordon,39798,Wyoming
+2017,12/03,Bob Smith Open,285,L,DEC,6 - 4,Christian Robertson,41068,Northeastern Oklahoma,Danny Gordon,39798,Wyoming
+2017,11/19,Northwest Open,285,W,DEC,7 - 5,Jake Van Valkenburg,46299,Western Wyoming College,Danny Gordon,39798,Wyoming
+2017,11/19,Northwest Open,285,W,MD,10 - 0,Eduardo Anguiano,47473,Western Wyoming College,Danny Gordon,39798,Wyoming
+2017,11/19,Northwest Open,285,W,MD,11 - 3,Wade French,46262,Western Wyoming College,Danny Gordon,39798,Wyoming
+2017,11/13,Northern Colorado Open,285,L,FALL,5:40,Augustine Desantis,43033,CSU-Pueblo,Danny Gordon,39798,Wyoming
+2017,11/13,Northern Colorado Open,285,L,DEC,6 - 3,Dakota Gulley,46527,Fort Hays State,Danny Gordon,39798,Wyoming
+2017,11/13,Northern Colorado Open,285,W,FALL,4:52,Kris Davis,46258,Western Colorado,Danny Gordon,39798,Wyoming
+2017,11/05,Cowboy Open,285,L,DEC,5 - 3,Dylan Stadel,43909,Utah State University Wrestling,Danny Gordon,39798,Wyoming
+2017,11/05,Cowboy Open,285,W,DEC,6 - 4,Brady Radik,21419,Nebraska-Kearney,Danny Gordon,39798,Wyoming
+2017,11/05,Cowboy Open,285,W,MD,9 - 1,Demetreus Roby,46326,Providence,Danny Gordon,39798,Wyoming
+2017,11/05,Cowboy Open,285,L,FALL,0:29,Gabriel Gonzalez,19688,Boise State,Danny Gordon,39798,Wyoming

@@ -1,0 +1,552 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2019,03/09,EWL Championships,125,L,MFOR,0 - 0,Talha Farooq,45317,George Mason,Gavin Park,49094,Clarion
+2019,03/09,EWL Championships,125,L,INJ,7:00,Willy Girard,45191,Bloomsburg,Gavin Park,49094,Clarion
+2019,02/24,Clarion - Michigan Dual,125,L,TF5,18 - 2 2:57,Drew Mattin,49180,Michigan,Gavin Park,49094,Clarion
+2019,02/22,Clarion - Edinboro Dual,125,L,DEC,8 - 2,Lucas Rodriguez,51061,Edinboro,Gavin Park,49094,Clarion
+2019,02/10,Clarion - Lock Haven Dual,125,L,MD,13 - 1,Luke Werner,50282,Lock Haven,Gavin Park,49094,Clarion
+2019,02/08,Clarion - Cleveland State Dual,125,L,DEC,4 - 3,Cameron Lathem,44691,Cleveland State,Gavin Park,49094,Clarion
+2019,02/02,Clarion - Rider Dual,125,L,MD,12 - 4,Jonathon Tropea,46048,Rider,Gavin Park,49094,Clarion
+2019,01/17,George Mason - Clarion Dual,125,L,DEC,7 - 6,Talha Farooq,45317,George Mason,Gavin Park,49094,Clarion
+2019,01/13,Bloomsburg - Clarion Dual,125,L,DEC,5 - 0,Willy Girard,45191,Bloomsburg,Gavin Park,49094,Clarion
+2019,01/09,Long Island University-Post - Clarion Dual,125,W,FALL,0:42,Brandon Mercado,59786,LIU,Gavin Park,49094,Clarion
+2019,12/22,Clarion - Buffalo Dual,125,L,DEC,7 - 2,Kyle Akins,19714,Buffalo,Gavin Park,49094,Clarion
+2019,12/21,Pittsburgh - Clarion Dual,125,L,SV-1,7 - 4,Brendon Fenton,50938,Pittsburgh,Gavin Park,49094,Clarion
+2019,11/11,Ohio Intercollegiate Open,125,L,TB-1,6 - 4,Andrew Perelka,59022,John Carroll,Gavin Park,49094,Clarion
+2019,11/11,Ohio Intercollegiate Open,125,L,INJ,7:00,Jack Medley,51392,Michigan,Gavin Park,49094,Clarion
+2019,11/03,Clarion Open,125,W,DEC,7 - 0,Cheveay Morton,57402,Pitt-Johnstown,Gavin Park,49094,Clarion
+2019,11/03,Clarion Open,125,L,DEC,9 - 5,Tomas Gutierrez,45017,Kent State,Gavin Park,49094,Clarion
+2019,11/03,Clarion Open,125,L,FALL,3:00,Cameron Lathem,44691,Cleveland State,Gavin Park,49094,Clarion
+2019,12/08,PSAC Championships,125,W,DEC,5 - 0,Matt Wilde,57391,Kutztown,Tyshawn White,45934,Clarion
+2019,12/08,PSAC Championships,125,W,MD,16 - 5,Eric Bartos,50271,Mercyhurst,Tyshawn White,45934,Clarion
+2019,12/08,PSAC Championships,125,W,DEC,10 - 3,Brendan Howard,39805,Pitt-Johnstown,Tyshawn White,45934,Clarion
+2019,11/30,Cliff Keen Invitational,125,W,DEC,11 - 9,Joe Heilmann,51223,North Carolina,Tyshawn White,45934,Clarion
+2019,11/30,Cliff Keen Invitational,125,W,TF5,17 - 2 5:43,Jacob Allen,50935,Navy,Tyshawn White,45934,Clarion
+2019,11/30,Cliff Keen Invitational,125,W,MD,11 - 3,Joey Prata,44734,Virginia Tech,Tyshawn White,45934,Clarion
+2019,11/30,Cliff Keen Invitational,125,L,FALL,1:44,Jacob Schwarm,39750,Northern Iowa,Tyshawn White,45934,Clarion
+2019,11/30,Cliff Keen Invitational,125,L,DEC,8 - 2,Zeke Moisey,20472,Nebraska,Tyshawn White,45934,Clarion
+2019,11/30,Cliff Keen Invitational,125,W,DEC,13 - 7,Trey Keeley,44696,Brown,Tyshawn White,45934,Clarion
+2019,11/17,Utah Valley - Clarion Dual,125,W,FALL,7:00,Josh Jensen,41784,Utah Valley,Tyshawn White,45934,Clarion
+2019,11/17,Harper College - Clarion Dual,125,W,FALL,2:08,Mitchell Bastea,58427,Harper College,Tyshawn White,45934,Clarion
+2019,11/17,Clarion - Northern Illinois Dual,125,L,DEC,4 - 1,Bryce West,50039,Northern Illinois,Tyshawn White,45934,Clarion
+2019,11/03,Clarion Open,125,W,MD,18 - 9,Jake Ferri,51179,Kent State,Tyshawn White,45934,Clarion
+2019,11/03,Clarion Open,125,W,MD,8 - 0,Justin Lopez,45141,Penn State,Tyshawn White,45934,Clarion
+2019,11/03,Clarion Open,125,W,TF5,19 - 4 7:00,Tomas Gutierrez,45017,Kent State,Tyshawn White,45934,Clarion
+2019,03/02,National Collegiate Open,133,W,DEC,6 - 2,Decklan Fischer,57117,Maryland,Brock Whorton,50666,Clarion
+2019,03/02,National Collegiate Open,133,L,DEC,3 - 1,Patrick McCormick,57063,Virginia,Brock Whorton,50666,Clarion
+2019,03/02,National Collegiate Open,133,W,MFOR,0 - 0,Chris Wright,51092,Rider,Brock Whorton,50666,Clarion
+2019,03/02,National Collegiate Open,133,W,DEC,8 - 3,Anthony Sciotto,51072,US Naval Academy Prep School,Brock Whorton,50666,Clarion
+2019,03/02,National Collegiate Open,133,L,MD,12 - 1,Jarrett Trombley,50807,NC State,Brock Whorton,50666,Clarion
+2019,12/15,Cleveland State Open,125,L,MFOR,0 - 0,Trevor Giallombardo,45033,Ohio,Brock Whorton,50666,Clarion
+2019,12/15,Cleveland State Open,125,L,DEC,7 - 1,Tomas Gutierrez,45017,Kent State,Brock Whorton,50666,Clarion
+2019,12/02,Storm Open,125,W,DEC,5 - 0,Joseph Wright,59895,Notre Dame,Brock Whorton,50666,Clarion
+2019,12/02,Storm Open,125,W,DEC,8 - 3,Derek Giallombardo,51614,Ohio,Brock Whorton,50666,Clarion
+2019,12/02,Storm Open,125,W,DEC,7 - 6,Brady Koontz,50853,Ohio State,Brock Whorton,50666,Clarion
+2019,12/02,Storm Open,125,W,SV-1,6 - 4,Hunter Lucas,45132,Ohio State,Brock Whorton,50666,Clarion
+2019,11/11,Ohio Intercollegiate Open,125,L,DEC,7 - 3,Jack Medley,51392,Michigan,Brock Whorton,50666,Clarion
+2019,11/11,Ohio Intercollegiate Open,125,L,DEC,9 - 5,Liam Cronin,45061,Indiana,Brock Whorton,50666,Clarion
+2019,11/11,Ohio Intercollegiate Open,125,W,DEC,6 - 0,Dylan Shockey,41931,Ashland,Brock Whorton,50666,Clarion
+2019,11/11,Ohio Intercollegiate Open,125,L,DEC,6 - 5,Brakan Mead,50226,Ohio State,Brock Whorton,50666,Clarion
+2019,11/03,Clarion Open,125,L,DEC,5 - 3,Cody Moosman,49103,Cleveland State,Brock Whorton,50666,Clarion
+2019,11/03,Clarion Open,125,L,SV-1,3 - 1,Willy Girard,45191,Bloomsburg,Brock Whorton,50666,Clarion
+2019,03/09,EWL Championships,133,L,DEC,6 - 3,Richie Gomez,51062,Edinboro,Seth Koleno,51157,Clarion
+2019,03/09,EWL Championships,133,W,FALL,1:57,Spencer Reed,48319,George Mason,Seth Koleno,51157,Clarion
+2019,03/09,EWL Championships,133,L,DEC,14 - 7,DJ Fehlman,39898,Lock Haven,Seth Koleno,51157,Clarion
+2019,03/09,EWL Championships,133,W,DEC,3 - 1,Armando Torres,19876,Cleveland State,Seth Koleno,51157,Clarion
+2019,02/24,Clarion - Michigan Dual,133,W,DEC,11 - 9,Jack Medley,51392,Michigan,Seth Koleno,51157,Clarion
+2019,02/22,Clarion - Edinboro Dual,133,W,FALL,5:24,Richie Gomez,51062,Edinboro,Seth Koleno,51157,Clarion
+2019,02/10,Clarion - Lock Haven Dual,133,L,DEC,9 - 5,DJ Fehlman,39898,Lock Haven,Seth Koleno,51157,Clarion
+2019,02/08,Clarion - Cleveland State Dual,133,W,MD,13 - 3,Armando Torres,19876,Cleveland State,Seth Koleno,51157,Clarion
+2019,02/02,Clarion - Rider Dual,133,L,MD,11 - 3,Anthony Cefolo,40284,Rider,Seth Koleno,51157,Clarion
+2019,01/17,George Mason - Clarion Dual,133,W,FALL,0:35,Spencer Reed,48319,George Mason,Seth Koleno,51157,Clarion
+2019,01/13,Bloomsburg - Clarion Dual,133,L,DEC,5 - 4,Lewis Williams,40291,Bloomsburg,Seth Koleno,51157,Clarion
+2019,01/09,Long Island University-Post - Clarion Dual,133,W,TF5,17 - 1 5:35,Jacob Zuller,51914,LIU,Seth Koleno,51157,Clarion
+2019,12/22,Clarion - Buffalo Dual,133,L,DEC,5 - 2,Derek Spann,45028,Buffalo,Seth Koleno,51157,Clarion
+2019,12/21,Pittsburgh - Clarion Dual,133,L,TF5,20 - 5 6:40,Micky Phillippi,45230,Pittsburgh,Seth Koleno,51157,Clarion
+2019,12/08,PSAC Championships,133,L,DEC,12 - 5,Alexis Soriano,52922,Mercyhurst,Seth Koleno,51157,Clarion
+2019,12/08,PSAC Championships,133,L,MFOR,0 - 0,Ryan McGuire,51194,Millersville,Seth Koleno,51157,Clarion
+2019,12/08,PSAC Championships,133,W,MD,11 - 3,Colby Ems,20721,East Stroudsburg,Seth Koleno,51157,Clarion
+2019,11/30,Cliff Keen Invitational,133,L,DEC,7 - 5,Colin Valdiviez,49244,Northwestern,Seth Koleno,51157,Clarion
+2019,11/30,Cliff Keen Invitational,133,L,TF5,21 - 6 6:16,Nick Suriano,44648,Rutgers,Seth Koleno,51157,Clarion
+2019,11/30,Cliff Keen Invitational,133,W,DEC,10 - 5,Adam Velasquez,51704,Cal Baptist,Seth Koleno,51157,Clarion
+2019,11/17,Utah Valley - Clarion Dual,133,L,FALL,7:00,Mitch Brown,40325,Utah Valley,Seth Koleno,51157,Clarion
+2019,11/17,Harper College - Clarion Dual,133,W,FALL,2:21,Riley Stonitsch,59559,Harper College,Seth Koleno,51157,Clarion
+2019,11/17,Clarion - Northern Illinois Dual,133,L,DEC,7 - 2,Alijah Jeffery,20204,Northern Illinois,Seth Koleno,51157,Clarion
+2019,11/03,Clarion Open,133,W,FALL,3:36,Alexander Miscovich,57401,Pitt-Johnstown,Seth Koleno,51157,Clarion
+2019,11/03,Clarion Open,133,L,MFOR,0 - 0,Caleb Rea,56445,West Virginia,Seth Koleno,51157,Clarion
+2019,11/03,Clarion Open,133,W,MD,12 - 3,Brandon Bright,51345,Gardner-Webb,Seth Koleno,51157,Clarion
+2019,11/03,Clarion Open,133,W,FALL,2:29,Dalton Rohrbaugh,51091,Lock Haven,Seth Koleno,51157,Clarion
+2019,11/03,Clarion Open,133,W,DEC,10 - 7,Cameron Butler,44660,Clarion,Seth Koleno,51157,Clarion
+2019,11/03,Clarion Open,133,L,MD,18 - 5,Tim Rooney,39949,Kent State,Seth Koleno,51157,Clarion
+2019,11/03,Clarion Open,133,W,INJ,7:00,Roshaun Cooley,39552,Clarion,Seth Koleno,51157,Clarion
+2019,11/02,Gardner-Webb - Clarion Dual,133,W,FALL,1:06,Brandon Bright,51345,Gardner-Webb,Seth Koleno,51157,Clarion
+2019,02/02,Edinboro Open,125,L,DEC,14 - 8,Isaac Crowell,58909,Southeastern University,Cameron Butler,44660,Clarion
+2019,02/02,Edinboro Open,125,W,DEC,4 - 2,Hunter Ryan,51188,Cleveland State,Cameron Butler,44660,Clarion
+2019,02/02,Edinboro Open,125,L,MD,15 - 7,Malik Heinselman,50611,Ohio State,Cameron Butler,44660,Clarion
+2019,12/15,Cleveland State Open,133,L,MD,15 - 3,Harry Feuer,47546,Kent State,Cameron Butler,44660,Clarion
+2019,12/15,Cleveland State Open,133,L,DEC,6 - 3,Kelan Mckenna,46038,Notre Dame,Cameron Butler,44660,Clarion
+2019,12/15,Cleveland State Open,133,W,DEC,3 - 1,Dawson Bates,50914,Appalachian State,Cameron Butler,44660,Clarion
+2019,12/02,Storm Open,133,L,DEC,10 - 4,Abraham Guarriello,47429,Gannon,Cameron Butler,44660,Clarion
+2019,12/02,Storm Open,133,L,FALL,0:25,Hunter Bray,47125,Notre Dame,Cameron Butler,44660,Clarion
+2019,11/11,Ohio Intercollegiate Open,133,L,SV-1,6 - 4,Colin Schuster,51178,Kent State,Cameron Butler,44660,Clarion
+2019,11/11,Ohio Intercollegiate Open,133,W,DEC,2 - 0,Mike Santillo,51055,Cleveland State,Cameron Butler,44660,Clarion
+2019,11/11,Ohio Intercollegiate Open,133,L,DEC,6 - 4,Deven Perez,45274,Central Michigan,Cameron Butler,44660,Clarion
+2019,11/03,Clarion Open,133,L,DEC,10 - 7,Seth Koleno,51157,Clarion,Cameron Butler,44660,Clarion
+2019,11/03,Clarion Open,133,L,DEC,11 - 6,Caleb Rea,56445,West Virginia,Cameron Butler,44660,Clarion
+2019,12/15,Cleveland State Open,133,W,DEC,5 - 4,Richie Gomez,51062,Edinboro,Roshaun Cooley,39552,Clarion
+2019,12/15,Cleveland State Open,133,L,FALL,6:38,Kyle Luigs,50007,Indiana,Roshaun Cooley,39552,Clarion
+2019,12/15,Cleveland State Open,133,L,DEC,7 - 1,Armando Torres,19876,Cleveland State,Roshaun Cooley,39552,Clarion
+2019,11/03,Clarion Open,133,L,INJ,7:00,Seth Koleno,51157,Clarion,Roshaun Cooley,39552,Clarion
+2019,11/03,Clarion Open,133,W,DEC,6 - 1,Garrett Reinsfelder,57931,Pittsburgh,Roshaun Cooley,39552,Clarion
+2019,11/03,Clarion Open,133,W,SV-1,3 - 1,Colin Schuster,51178,Kent State,Roshaun Cooley,39552,Clarion
+2019,11/03,Clarion Open,133,L,DEC,3 - 1,Lucas Miller,46174,Kutztown,Roshaun Cooley,39552,Clarion
+2019,03/09,EWL Championships,141,L,MD,11 - 0,Carmine Ciotti,48218,Edinboro,Jalin Hankerson,49095,Clarion
+2019,03/09,EWL Championships,141,L,MD,10 - 2,Sam Matzek,41219,Cleveland State,Jalin Hankerson,49095,Clarion
+2019,03/09,EWL Championships,141,W,DEC,14 - 8,Aaron Coleman,56856,Bloomsburg,Jalin Hankerson,49095,Clarion
+2019,02/10,Clarion - Lock Haven Dual,141,L,TF5,16 - 0 7:00,Kyle Shoop,39682,Lock Haven,Jalin Hankerson,49095,Clarion
+2019,02/08,Clarion - Cleveland State Dual,141,L,DEC,6 - 0,Sam Matzek,41219,Cleveland State,Jalin Hankerson,49095,Clarion
+2019,02/02,Clarion - Rider Dual,141,L,DEC,5 - 3,Travis Layton,49041,Rider,Jalin Hankerson,49095,Clarion
+2019,01/17,George Mason - Clarion Dual,141,L,FALL,3:22,Julio Alegria,56956,George Mason,Jalin Hankerson,49095,Clarion
+2019,12/22,Clarion - Buffalo Dual,149,L,DEC,7 - 2,Jason Estevez,17873,Buffalo,Jalin Hankerson,49095,Clarion
+2019,12/21,Pittsburgh - Clarion Dual,149,L,FALL,2:40,Robert Lee,39975,Pittsburgh,Jalin Hankerson,49095,Clarion
+2019,11/30,Cliff Keen Invitational,141,W,DEC,6 - 5,Dalton Young,49328,Stanford,Taylor Ortz,40103,Clarion
+2019,11/30,Cliff Keen Invitational,141,W,MD,18 - 8,Brent Jones,49188,Minnesota,Taylor Ortz,40103,Clarion
+2019,11/30,Cliff Keen Invitational,141,W,DEC,4 - 2,Chad Red,44683,Nebraska,Taylor Ortz,40103,Clarion
+2019,11/30,Cliff Keen Invitational,141,L,DEC,4 - 3,LJ Bentley,39598,Pittsburgh,Taylor Ortz,40103,Clarion
+2019,11/30,Cliff Keen Invitational,141,L,FALL,2:45,Josh Alber,20208,Northern Iowa,Taylor Ortz,40103,Clarion
+2019,11/17,Utah Valley - Clarion Dual,141,L,DEC,10 - 5,Matthew Findlay,45366,Utah Valley,Taylor Ortz,40103,Clarion
+2019,11/17,Clarion - Northern Illinois Dual,141,W,DEC,6 - 4,Anthony Cheloni,53565,Northern Illinois,Taylor Ortz,40103,Clarion
+2019,11/03,Clarion Open,141,W,TF5,17 - 2 4:36,Lukas Martin,57150,West Virginia,Taylor Ortz,40103,Clarion
+2019,11/03,Clarion Open,141,W,TF5,22 - 6 4:23,Anthony Sciotto,51072,US Naval Academy Prep School,Taylor Ortz,40103,Clarion
+2019,11/03,Clarion Open,141,W,TF5,17 - 1 5:44,Jake Cherry,49288,Pittsburgh,Taylor Ortz,40103,Clarion
+2019,11/03,Clarion Open,141,L,DEC,7 - 3,DJ Fehlman,39898,Lock Haven,Taylor Ortz,40103,Clarion
+2019,11/03,Clarion Open,141,L,FALL,3:40,Nick Casella,39708,Buffalo,Taylor Ortz,40103,Clarion
+2019,11/02,Gardner-Webb - Clarion Dual,141,W,MD,17 - 4,Blake Mulkey,56348,Gardner-Webb,Taylor Ortz,40103,Clarion
+2019,02/24,Clarion - Michigan Dual,141,L,FALL,6:49,Kanen Storr,44714,Michigan,Andrew Gapas,51204,Clarion
+2019,02/22,Clarion - Edinboro Dual,141,L,DEC,8 - 2,Carmine Ciotti,48218,Edinboro,Andrew Gapas,51204,Clarion
+2019,02/02,Edinboro Open,141,L,TF5,17 - 2 7:00,Ben Freeman,49177,Michigan,Andrew Gapas,51204,Clarion
+2019,02/02,Edinboro Open,141,W,DEC,13 - 9,Moises Guillen,49249,Ohio,Andrew Gapas,51204,Clarion
+2019,02/02,Edinboro Open,141,W,DEC,4 - 3,Zackery Zeamer,57141,Oklahoma,Andrew Gapas,51204,Clarion
+2019,01/13,Bloomsburg - Clarion Dual,141,W,FALL,2:43,Aaron Coleman,56856,Bloomsburg,Andrew Gapas,51204,Clarion
+2019,01/09,Long Island University-Post - Clarion Dual,141,W,FALL,1:50,Joseph Calderone,23481,LIU,Andrew Gapas,51204,Clarion
+2019,12/22,Clarion - Buffalo Dual,141,L,DEC,6 - 1,Bryan Lantry,19723,Buffalo,Andrew Gapas,51204,Clarion
+2019,12/21,Pittsburgh - Clarion Dual,141,L,FALL,2:44,LJ Bentley,39598,Pittsburgh,Andrew Gapas,51204,Clarion
+2019,12/15,Cleveland State Open,141,L,DEC,9 - 5,Carmine Ciotti,48218,Edinboro,Andrew Gapas,51204,Clarion
+2019,12/15,Cleveland State Open,141,W,DEC,6 - 4,David Bavery,47138,Notre Dame,Andrew Gapas,51204,Clarion
+2019,12/15,Cleveland State Open,141,W,DEC,5 - 2,Kole Krauss,45305,Michigan State,Andrew Gapas,51204,Clarion
+2019,12/15,Cleveland State Open,141,L,FALL,1:03,Evan Cheek,40190,Cleveland State,Andrew Gapas,51204,Clarion
+2019,12/08,PSAC Championships,141,L,DEC,13 - 6,Aidan Burke,49387,Mercyhurst,Andrew Gapas,51204,Clarion
+2019,12/08,PSAC Championships,141,L,DEC,14 - 9,Aaron Coleman,56856,Bloomsburg,Andrew Gapas,51204,Clarion
+2019,12/02,Storm Open,141,W,TF5,16 - 1 2:06,Brian Shaw,58148,Notre Dame,Andrew Gapas,51204,Clarion
+2019,12/02,Storm Open,141,L,MD,12 - 3,Matthew Swanson,49887,Binghamton,Andrew Gapas,51204,Clarion
+2019,12/02,Storm Open,141,W,DEC,1 - 0,Jerry Fenner III,46541,Ashland,Andrew Gapas,51204,Clarion
+2019,12/02,Storm Open,141,L,FALL,5:17,Andrew Lieb,41634,Lake Erie College,Andrew Gapas,51204,Clarion
+2019,11/11,Ohio Intercollegiate Open,141,W,MD,17 - 6,Jeff Sisk,48229,Mercyhurst,Andrew Gapas,51204,Clarion
+2019,11/11,Ohio Intercollegiate Open,141,L,DEC,3 - 2,Darius Bunch,46053,West Liberty University,Andrew Gapas,51204,Clarion
+2019,11/11,Ohio Intercollegiate Open,141,L,TF5,18 - 2 7:00,Clay Ragon,45201,Ohio State,Andrew Gapas,51204,Clarion
+2019,11/03,Clarion Open,141,L,DEC,6 - 4,Caleb Morris,57151,West Virginia,Andrew Gapas,51204,Clarion
+2019,11/03,Clarion Open,141,L,DEC,6 - 1,John Arceri,47552,Buffalo,Andrew Gapas,51204,Clarion
+2019,01/09,Long Island University-Post - Clarion Dual,149,L,MD,10 - 0,Chris Gomez,56270,LIU,Austin Jamison,40659,Clarion
+2019,12/08,PSAC Championships,149,L,DEC,8 - 4,Michael Cusick,57393,Kutztown,Austin Jamison,40659,Clarion
+2019,12/08,PSAC Championships,149,W,MFOR,0 - 0,Logan McKoy,49375,Seton Hill,Austin Jamison,40659,Clarion
+2019,12/08,PSAC Championships,149,L,DEC,6 - 2,Justin Smith,41312,Pitt-Johnstown,Austin Jamison,40659,Clarion
+2019,12/02,Storm Open,141,L,DEC,7 - 0,Joel Cawoski,50246,Seton Hill,Austin Jamison,40659,Clarion
+2019,12/02,Storm Open,141,W,DEC,3 - 2,Kole Krauss,45305,Michigan State,Austin Jamison,40659,Clarion
+2019,12/02,Storm Open,141,L,DEC,5 - 4,Andrew Lieb,41634,Lake Erie College,Austin Jamison,40659,Clarion
+2019,11/17,Harper College - Clarion Dual,141,W,FALL,1:33,Noah Garcia,58446,Harper College,Austin Jamison,40659,Clarion
+2019,11/03,Clarion Open,141,W,DEC,4 - 2,Marcus Baptiste,52280,Wheeling,Austin Jamison,40659,Clarion
+2019,11/03,Clarion Open,141,L,MD,10 - 0,Carmine Ciotti,48218,Edinboro,Austin Jamison,40659,Clarion
+2019,11/03,Clarion Open,141,W,SV-1,3 - 1,Cory Simpson,45037,Kent State,Austin Jamison,40659,Clarion
+2019,11/03,Clarion Open,141,L,DEC,5 - 2,Brandon Gould,44977,Buffalo,Austin Jamison,40659,Clarion
+2019,02/02,Edinboro Open,141,L,MD,18 - 9,Colin Schuster,51178,Kent State,Justin Ingram,56235,Clarion
+2019,02/02,Edinboro Open,141,L,FALL,1:11,Cole Matthews,50936,Pittsburgh,Justin Ingram,56235,Clarion
+2019,12/15,Cleveland State Open,141,L,MD,16 - 6,Nicholas Lirette,44921,North Carolina,Justin Ingram,56235,Clarion
+2019,12/15,Cleveland State Open,141,L,DEC,9 - 5,Mason Breece,57362,Central Michigan,Justin Ingram,56235,Clarion
+2019,02/02,Edinboro Open,141,L,FALL,1:38,Imran Heard,51595,Lock Haven,Evan Myers,44985,Clarion
+2019,02/02,Edinboro Open,141,L,MD,13 - 5,Darius Bunch,46053,West Liberty University,Evan Myers,44985,Clarion
+2019,03/09,EWL Championships,149,L,DEC,4 - 2,Evan Fidelibus,44900,Rider,Avery Shay,50309,Clarion
+2019,03/09,EWL Championships,149,L,DEC,3 - 1,Tyler Vath,40445,Edinboro,Avery Shay,50309,Clarion
+2019,03/09,EWL Championships,149,W,TF5,16 - 0 4:40,Gavin Hale,56791,Bloomsburg,Avery Shay,50309,Clarion
+2019,02/24,Clarion - Michigan Dual,149,L,DEC,10 - 3,Malik Amine,14753,Michigan,Avery Shay,50309,Clarion
+2019,02/22,Clarion - Edinboro Dual,149,W,DEC,5 - 1,Tyler Vath,40445,Edinboro,Avery Shay,50309,Clarion
+2019,02/10,Clarion - Lock Haven Dual,149,W,DEC,3 - 2,Brock Port,49168,Lock Haven,Avery Shay,50309,Clarion
+2019,02/08,Clarion - Cleveland State Dual,149,L,DEC,5 - 2,Brady Barnett,50220,Cleveland State,Avery Shay,50309,Clarion
+2019,02/02,Clarion - Rider Dual,149,W,MD,9 - 0,Evan Fidelibus,44900,Rider,Avery Shay,50309,Clarion
+2019,01/09,Long Island University-Post - Clarion Dual,157,W,DEC,4 - 1,Anthony Dushaj,56124,LIU,Avery Shay,50309,Clarion
+2019,12/22,Clarion - Buffalo Dual,157,L,DEC,3 - 2,Alex Smythe,19730,Buffalo,Avery Shay,50309,Clarion
+2019,12/21,Pittsburgh - Clarion Dual,157,L,DEC,9 - 4,Taleb Rahmani,40082,Pittsburgh,Avery Shay,50309,Clarion
+2019,11/17,Harper College - Clarion Dual,157,W,DEC,11 - 9,Brandan Velazquez,59561,Harper College,Avery Shay,50309,Clarion
+2019,11/03,Clarion Open,157,W,MD,10 - 0,Brian Friery,45073,Penn State,Avery Shay,50309,Clarion
+2019,11/03,Clarion Open,157,W,DEC,7 - 5,Nico Odor,45039,Cleveland State,Avery Shay,50309,Clarion
+2019,11/03,Clarion Open,157,W,DEC,4 - 0,Nick Monico,44694,Kent State,Avery Shay,50309,Clarion
+2019,11/03,Clarion Open,157,L,DEC,6 - 5,Alex Klucker,40289,Lock Haven,Avery Shay,50309,Clarion
+2019,11/03,Clarion Open,157,W,FALL,1:32,Nate Newberry,45190,Bloomsburg,Avery Shay,50309,Clarion
+2019,11/30,Cliff Keen Invitational,149,L,INJ,7:00,Austin O'Connor,49214,North Carolina,Brock Zacherl,19787,Clarion
+2019,11/30,Cliff Keen Invitational,149,W,DEC,8 - 7,Russell Rohlfing,40166,CSU Bakersfield,Brock Zacherl,19787,Clarion
+2019,11/30,Cliff Keen Invitational,149,W,DEC,7 - 3,Robert Lee,39975,Pittsburgh,Brock Zacherl,19787,Clarion
+2019,11/30,Cliff Keen Invitational,149,L,MD,19 - 6,Micah Jordan,20557,Ohio State,Brock Zacherl,19787,Clarion
+2019,11/30,Cliff Keen Invitational,149,W,DEC,3 - 2,Grant Leeth,19866,Missouri,Brock Zacherl,19787,Clarion
+2019,11/30,Cliff Keen Invitational,149,W,DEC,10 - 6,Josh Heil,45100,Campbell,Brock Zacherl,19787,Clarion
+2019,11/17,Utah Valley - Clarion Dual,149,W,MD,10 - 2,Matthew Ontiveros,20417,Utah Valley,Brock Zacherl,19787,Clarion
+2019,11/17,Harper College - Clarion Dual,149,W,MD,18 - 4,Darian Padgett,59560,Harper College,Brock Zacherl,19787,Clarion
+2019,11/17,Clarion - Northern Illinois Dual,149,W,DEC,5 - 1,McCoy Kent,39791,Northern Illinois,Brock Zacherl,19787,Clarion
+2019,11/03,Clarion Open,149,W,TF5,19 - 4 4:57,Noah Caskey,58225,US Naval Academy Prep School,Brock Zacherl,19787,Clarion
+2019,11/03,Clarion Open,149,W,MD,10 - 2,Kody Komara,50094,Kent State,Brock Zacherl,19787,Clarion
+2019,11/03,Clarion Open,149,W,DEC,10 - 4,Jonathan Ross,44894,Lock Haven,Brock Zacherl,19787,Clarion
+2019,11/03,Clarion Open,149,W,DEC,4 - 0,Collin Glorioso,44819,Lock Haven,Brock Zacherl,19787,Clarion
+2019,11/03,Clarion Open,149,W,MD,14 - 3,Sam Matzek,41219,Cleveland State,Brock Zacherl,19787,Clarion
+2019,11/02,Gardner-Webb - Clarion Dual,149,W,MD,13 - 3,Taylor Parks,51306,Gardner-Webb,Brock Zacherl,19787,Clarion
+2019,03/02,National Collegiate Open,157,W,FALL,5:21,Willy Kaiser,56008,Pennsylvania,Hunter Michaels,51134,Clarion
+2019,03/02,National Collegiate Open,157,L,FALL,3:29,Jacori Teemer,50581,Arizona State,Hunter Michaels,51134,Clarion
+2019,03/02,National Collegiate Open,157,L,DEC,9 - 8,Carl Antrassian,45263,Pennsylvania,Hunter Michaels,51134,Clarion
+2019,02/02,Edinboro Open,157,W,DEC,8 - 6,Conan Becker,57242,Kent State,Hunter Michaels,51134,Clarion
+2019,02/02,Edinboro Open,157,L,DEC,11 - 5,Kameron Bush,49080,Central Michigan,Hunter Michaels,51134,Clarion
+2019,02/02,Edinboro Open,157,L,DEC,7 - 4,Markus Hartman,50585,Army West Point,Hunter Michaels,51134,Clarion
+2019,12/15,Cleveland State Open,157,L,DEC,7 - 4,Daniel Contraguerro,50394,Pittsburgh,Hunter Michaels,51134,Clarion
+2019,12/15,Cleveland State Open,157,L,MD,14 - 4,Nick Vestal,44944,Ohio,Hunter Michaels,51134,Clarion
+2019,12/02,Storm Open,149,L,FALL,1:07,Sandro Ramirez,51161,Notre Dame,Hunter Michaels,51134,Clarion
+2019,12/02,Storm Open,149,W,FALL,4:46,Justin Crawford,58145,Notre Dame,Hunter Michaels,51134,Clarion
+2019,12/02,Storm Open,149,L,SV-1,10 - 8,Sam Meddings,50511,Ohio,Hunter Michaels,51134,Clarion
+2019,11/11,Ohio Intercollegiate Open,149,L,DEC,9 - 4,Brendan Fitzgerald,45202,Ohio State,Hunter Michaels,51134,Clarion
+2019,11/11,Ohio Intercollegiate Open,149,L,SV-1,5 - 3,Sam Meddings,50511,Ohio,Hunter Michaels,51134,Clarion
+2019,11/03,Clarion Open,149,L,FALL,6:14,Danny Coles,54117,Unattached,Hunter Michaels,51134,Clarion
+2019,11/03,Clarion Open,149,L,TF5,16 - 0 2:11,Brock Port,49168,Lock Haven,Hunter Michaels,51134,Clarion
+2019,02/10,Clarion - Lock Haven Dual,157,L,TF5,16 - 0 7:00,Alex Klucker,40289,Lock Haven,Joe Sliwoski,44849,Clarion
+2019,01/17,George Mason - Clarion Dual,149,W,DEC,4 - 3,Justin Yorkdale,45347,George Mason,Joe Sliwoski,44849,Clarion
+2019,01/13,Bloomsburg - Clarion Dual,149,L,DEC,5 - 1,Grant Bond,40304,Bloomsburg,Joe Sliwoski,44849,Clarion
+2019,03/09,EWL Championships,157,W,SV-1,5 - 3,Nico Odor,45039,Cleveland State,Michael Bartolo,40462,Clarion
+2019,03/09,EWL Championships,157,L,DEC,6 - 2,Gino Fluri,40130,Rider,Michael Bartolo,40462,Clarion
+2019,03/09,EWL Championships,157,L,DEC,4 - 3,Gino Fluri,40130,Rider,Michael Bartolo,40462,Clarion
+2019,02/24,Clarion - Michigan Dual,157,L,MD,23 - 9,Alec Pantaleo,20020,Michigan,Michael Bartolo,40462,Clarion
+2019,02/22,Clarion - Edinboro Dual,157,W,DEC,9 - 4,Matthew Dowler,44891,Edinboro,Michael Bartolo,40462,Clarion
+2019,02/08,Clarion - Cleveland State Dual,157,W,DEC,5 - 4,Nico Odor,45039,Cleveland State,Michael Bartolo,40462,Clarion
+2019,02/02,Clarion - Rider Dual,157,L,DEC,3 - 2,Gino Fluri,40130,Rider,Michael Bartolo,40462,Clarion
+2019,01/17,George Mason - Clarion Dual,157,W,DEC,8 - 7,Tejon Anthony,19896,George Mason,Michael Bartolo,40462,Clarion
+2019,01/13,Bloomsburg - Clarion Dual,157,L,DEC,7 - 6,Nate Newberry,45190,Bloomsburg,Michael Bartolo,40462,Clarion
+2019,11/17,Utah Valley - Clarion Dual,157,W,DEC,9 - 3,Grant LaMont,40320,Utah Valley,Michael Bartolo,40462,Clarion
+2019,11/17,Clarion - Northern Illinois Dual,157,L,DEC,4 - 2,Mason Kauffman,49128,Northern Illinois,Michael Bartolo,40462,Clarion
+2019,11/03,Clarion Open,157,W,TF5,16 - 0 5:00,Jerad Habben,58224,US Naval Academy Prep School,Michael Bartolo,40462,Clarion
+2019,11/03,Clarion Open,157,W,DEC,12 - 7,River Curtis,56071,US Naval Academy Prep School,Michael Bartolo,40462,Clarion
+2019,11/03,Clarion Open,157,L,DEC,6 - 5,Daniel Contraguerro,50394,Pittsburgh,Michael Bartolo,40462,Clarion
+2019,11/03,Clarion Open,157,L,DEC,4 - 3,Nate Newberry,45190,Bloomsburg,Michael Bartolo,40462,Clarion
+2019,11/02,Gardner-Webb - Clarion Dual,157,L,DEC,5 - 3,Tyler Marinelli,20797,Gardner-Webb,Michael Bartolo,40462,Clarion
+2019,03/02,National Collegiate Open,157,L,DEC,10 - 8,Micah Hoffman,58938,Spartan Combat RTC,Lavinsky Collins,51268,Clarion
+2019,03/02,National Collegiate Open,157,W,FALL,1:19,Michael Goldfeder,57128,North Carolina,Lavinsky Collins,51268,Clarion
+2019,03/02,National Collegiate Open,157,L,TF5,21 - 6 7:00,Lucas Cordio,57120,Maryland,Lavinsky Collins,51268,Clarion
+2019,03/02,National Collegiate Open,157,W,TB-2,4 - 2,Christian Hunt,50638,United States Military Academy,Lavinsky Collins,51268,Clarion
+2019,03/02,National Collegiate Open,157,W,DEC,7 - 4,Carl Antrassian,45263,Pennsylvania,Lavinsky Collins,51268,Clarion
+2019,12/02,Storm Open,157,W,DEC,11 - 4,Michael Kurelowech,53722,Gannon,Lavinsky Collins,51268,Clarion
+2019,12/02,Storm Open,157,L,MFOR,0 - 0,Chris Barker,51233,Binghamton,Lavinsky Collins,51268,Clarion
+2019,12/02,Storm Open,157,W,DEC,7 - 2,Richard Jackson,45040,Kent State,Lavinsky Collins,51268,Clarion
+2019,12/02,Storm Open,157,L,DEC,4 - 0,Elijah Cleary,44828,Ohio State,Lavinsky Collins,51268,Clarion
+2019,11/03,Clarion Open,157,L,DEC,15 - 10,Daniel Contraguerro,50394,Pittsburgh,Lavinsky Collins,51268,Clarion
+2019,11/03,Clarion Open,157,W,MFOR,0 - 0,Colin Cronin,49291,Kutztown,Lavinsky Collins,51268,Clarion
+2019,11/03,Clarion Open,157,L,DEC,5 - 4,Chase Archangelo,49104,Cleveland State,Lavinsky Collins,51268,Clarion
+2019,11/03,Clarion Open,157,W,INJ,7:00,Nick Monico,44694,Kent State,Lavinsky Collins,51268,Clarion
+2019,11/03,Clarion Open,157,W,DEC,6 - 2,Ben Heyob,40178,Kent State,Lavinsky Collins,51268,Clarion
+2019,02/02,Edinboro Open,157,W,MFOR,0 - 0,Joseph Andrassy,57240,Kent State,Caleb Hetrick,51135,Clarion
+2019,02/02,Edinboro Open,157,L,DEC,8 - 3,Caleb Cass,57214,Cleveland State,Caleb Hetrick,51135,Clarion
+2019,02/02,Edinboro Open,157,L,DEC,9 - 4,Alex Farenchak,56175,Gannon,Caleb Hetrick,51135,Clarion
+2019,12/15,Cleveland State Open,157,L,INJ,7:00,Blake Miller,56685,Wheeling,Caleb Hetrick,51135,Clarion
+2019,12/15,Cleveland State Open,157,W,DEC,8 - 1,Hunter Yackee,56305,Kent State,Caleb Hetrick,51135,Clarion
+2019,12/15,Cleveland State Open,157,L,DEC,11 - 4,Mike D'angelo,43678,NJRTC,Caleb Hetrick,51135,Clarion
+2019,12/02,Storm Open,157,W,MD,14 - 5,Joseph Andrassy,57240,Kent State,Caleb Hetrick,51135,Clarion
+2019,12/02,Storm Open,157,W,DEC,8 - 1,Nico Marsico,56223,Gannon,Caleb Hetrick,51135,Clarion
+2019,12/02,Storm Open,157,W,MD,12 - 0,Michael Kurelowech,53722,Gannon,Caleb Hetrick,51135,Clarion
+2019,12/02,Storm Open,157,L,DEC,4 - 2,Elijah Cleary,44828,Ohio State,Caleb Hetrick,51135,Clarion
+2019,11/11,Ohio Intercollegiate Open,157,L,MD,14 - 6,Peter Pappas,49131,Edinboro,Caleb Hetrick,51135,Clarion
+2019,11/11,Ohio Intercollegiate Open,157,L,DEC,8 - 3,Michael Petite,55596,Buffalo,Caleb Hetrick,51135,Clarion
+2019,11/03,Clarion Open,157,W,DEC,5 - 2,David Johnson,57238,Kent State,Caleb Hetrick,51135,Clarion
+2019,11/03,Clarion Open,157,W,DEC,7 - 4,Will Kaldes,50123,Pittsburgh,Caleb Hetrick,51135,Clarion
+2019,11/03,Clarion Open,157,W,DEC,4 - 1,Luke Sorboro,49343,West Virginia,Caleb Hetrick,51135,Clarion
+2019,11/03,Clarion Open,157,L,FALL,2:30,Alex Klucker,40289,Lock Haven,Caleb Hetrick,51135,Clarion
+2019,11/03,Clarion Open,157,L,SV-1,3 - 1,Nate Newberry,45190,Bloomsburg,Caleb Hetrick,51135,Clarion
+2019,03/02,National Collegiate Open,174,L,TF5,16 - 0 5:12,Michael O'Malley,50836,Drexel,John Dean,51670,Clarion
+2019,03/02,National Collegiate Open,174,L,FALL,0:52,Drew Peck,49055,Virginia,John Dean,51670,Clarion
+2019,03/02,National Collegiate Open,174,W,DEC,3 - 2,Gary Eakin,45569,Navy,John Dean,51670,Clarion
+2019,03/02,National Collegiate Open,174,W,DEC,10 - 6,Colin Shannon,50060,American,John Dean,51670,Clarion
+2019,02/02,Edinboro Open,165,L,MD,12 - 1,Jack Peura,44868,Clarion,John Dean,51670,Clarion
+2019,02/02,Edinboro Open,165,L,DEC,9 - 6,Noah Grover,51227,Buffalo,John Dean,51670,Clarion
+2019,01/09,Long Island University-Post - Clarion Dual,174,L,SV-1,5 - 3,Dan Arkow,41711,LIU,John Dean,51670,Clarion
+2019,12/15,Cleveland State Open,165,L,MD,12 - 1,Jack Peura,44868,Clarion,John Dean,51670,Clarion
+2019,12/15,Cleveland State Open,165,L,MD,14 - 2,Andrew Merola,50667,Spartan Combat RTC,John Dean,51670,Clarion
+2019,12/15,Cleveland State Open,165,W,DEC,5 - 3,Jack Mulay,49063,Bucknell,John Dean,51670,Clarion
+2019,12/02,Storm Open,165,L,MFOR,0 - 0,Jacob Kallenborn,52118,Gannon,John Dean,51670,Clarion
+2019,12/02,Storm Open,165,L,MFOR,0 - 0,Nicholas Smythe,59050,Tiffin University,John Dean,51670,Clarion
+2019,11/18,Wolfpack Open,165,W,DEC,9 - 5,Tucker Nadeau,56465,West Virginia,John Dean,51670,Clarion
+2019,11/18,Wolfpack Open,165,L,FALL,1:16,Jake Allar,49155,Minnesota,John Dean,51670,Clarion
+2019,11/18,Wolfpack Open,165,L,SV-1,3 - 1,Carl Guess,44907,Appalachian State,John Dean,51670,Clarion
+2019,11/03,Clarion Open,165,L,DEC,4 - 2,Jack Peura,44868,Clarion,John Dean,51670,Clarion
+2019,11/03,Clarion Open,165,W,MD,15 - 4,Tanner Vogel,51627,Pitt-Johnstown,John Dean,51670,Clarion
+2019,11/03,Clarion Open,165,L,FALL,4:09,Brady Chrisman,51190,Kent State,John Dean,51670,Clarion
+2019,03/21,NCAA Championships,165,L,DEC,12 - 10,Gordon Wolf,19992,Lehigh,Evan DeLong,19790,Clarion
+2019,03/21,NCAA Championships,165,L,FALL,2:58,Vincenzo Joseph,39542,Penn State,Evan DeLong,19790,Clarion
+2019,03/09,EWL Championships,165,L,FALL,5:45,Chance Marsteller,47805,Lock Haven,Evan DeLong,19790,Clarion
+2019,03/09,EWL Championships,165,W,DEC,4 - 2,Ryan Ford,44594,Cleveland State,Evan DeLong,19790,Clarion
+2019,03/09,EWL Championships,165,W,DEC,3 - 1,Colston DiBlasi,39718,George Mason,Evan DeLong,19790,Clarion
+2019,02/24,Clarion - Michigan Dual,165,L,MD,12 - 4,Logan Massa,39517,Michigan,Evan DeLong,19790,Clarion
+2019,02/22,Clarion - Edinboro Dual,165,W,DEC,5 - 4,Fritz Hoehn,39762,Edinboro,Evan DeLong,19790,Clarion
+2019,02/10,Clarion - Lock Haven Dual,165,L,FALL,4:31,Chance Marsteller,47805,Lock Haven,Evan DeLong,19790,Clarion
+2019,02/08,Clarion - Cleveland State Dual,165,W,DEC,3 - 2,Ryan Ford,44594,Cleveland State,Evan DeLong,19790,Clarion
+2019,02/02,Clarion - Rider Dual,165,L,DEC,6 - 2,Jesse Dellavecchia,39574,Rider,Evan DeLong,19790,Clarion
+2019,01/17,George Mason - Clarion Dual,165,L,DEC,4 - 2,Colston DiBlasi,39718,George Mason,Evan DeLong,19790,Clarion
+2019,01/13,Bloomsburg - Clarion Dual,165,W,MD,13 - 3,Domenic DeMarco,56788,Bloomsburg,Evan DeLong,19790,Clarion
+2019,01/09,Long Island University-Post - Clarion Dual,165,W,TF5,20 - 4 5:11,Kenny Cooper,57778,LIU,Evan DeLong,19790,Clarion
+2019,12/22,Clarion - Buffalo Dual,165,L,TF5,17 - 2 7:00,Troy Keller,47129,Buffalo,Evan DeLong,19790,Clarion
+2019,12/21,Pittsburgh - Clarion Dual,165,W,DEC,7 - 4,Jake Wentzel,45151,Pittsburgh,Evan DeLong,19790,Clarion
+2019,12/08,PSAC Championships,165,W,DEC,6 - 1,Sean Hoover,53174,Seton Hill,Evan DeLong,19790,Clarion
+2019,12/08,PSAC Championships,165,L,FALL,2:55,Shane Ruhnke,24247,Millersville,Evan DeLong,19790,Clarion
+2019,12/08,PSAC Championships,165,W,MD,11 - 3,Richard Viruet,19856,East Stroudsburg,Evan DeLong,19790,Clarion
+2019,11/30,Cliff Keen Invitational,165,W,MD,13 - 1,Izaiah Duran,60221,North Idaho College,Evan DeLong,19790,Clarion
+2019,11/30,Cliff Keen Invitational,165,L,DEC,8 - 2,Demetrius Romero,39948,Utah Valley,Evan DeLong,19790,Clarion
+2019,11/30,Cliff Keen Invitational,165,L,FALL,6:20,Carson Brolsma,39549,Minnesota,Evan DeLong,19790,Clarion
+2019,11/30,Cliff Keen Invitational,165,W,DEC,12 - 6,Anthony Wokasch,44729,American,Evan DeLong,19790,Clarion
+2019,11/17,Utah Valley - Clarion Dual,165,L,DEC,10 - 4,Demetrius Romero,39948,Utah Valley,Evan DeLong,19790,Clarion
+2019,11/17,Harper College - Clarion Dual,165,L,DEC,10 - 7,Mason Skloot,59562,Harper College,Evan DeLong,19790,Clarion
+2019,11/17,Clarion - Northern Illinois Dual,165,L,FALL,2:42,Kenny Moore,46406,Northern Illinois,Evan DeLong,19790,Clarion
+2019,11/03,Clarion Open,165,W,MD,14 - 6,Mikey Vernagallo,52100,Clarion,Evan DeLong,19790,Clarion
+2019,11/03,Clarion Open,165,W,DEC,15 - 8,Michael O'Brien,46220,Kutztown,Evan DeLong,19790,Clarion
+2019,11/03,Clarion Open,165,W,MD,10 - 2,Kade Byland,45313,Kent State,Evan DeLong,19790,Clarion
+2019,11/03,Clarion Open,165,L,DEC,15 - 8,Isaac Bast,19972,Kent State,Evan DeLong,19790,Clarion
+2019,11/03,Clarion Open,165,W,MD,12 - 4,Dillon Ross,57213,Buffalo,Evan DeLong,19790,Clarion
+2019,11/02,Gardner-Webb - Clarion Dual,165,W,TF5,18 - 3 7:00,Evan Schenk,49136,Gardner-Webb,Evan DeLong,19790,Clarion
+2019,11/03,Clarion Open,165,L,MD,14 - 6,Evan DeLong,19790,Clarion,Mikey Vernagallo,52100,Clarion
+2019,11/03,Clarion Open,165,W,DEC,7 - 3,Caleb Clymer,56372,Lock Haven,Mikey Vernagallo,52100,Clarion
+2019,11/03,Clarion Open,165,L,DEC,7 - 6,Rodrick Mosley,50889,Gardner-Webb,Mikey Vernagallo,52100,Clarion
+2019,11/03,Clarion Open,165,W,TF5,20 - 5 7:00,Joshua Walker,45579,Gardner-Webb,Mikey Vernagallo,52100,Clarion
+2019,11/03,Clarion Open,165,W,TF5,16 - 1 5:53,Lane Hinkle,45314,Kent State,Mikey Vernagallo,52100,Clarion
+2019,03/02,National Collegiate Open,165,L,DEC,6 - 5,Andrew Merola,50667,Spartan Combat RTC,Jack Peura,44868,Clarion
+2019,03/02,National Collegiate Open,165,W,FALL,2:14,Josh Swanson,56157,Pennsylvania,Jack Peura,44868,Clarion
+2019,03/02,National Collegiate Open,165,L,DEC,5 - 3,Timothy Fitzpatrick,57254,American,Jack Peura,44868,Clarion
+2019,02/02,Edinboro Open,165,L,DEC,6 - 3,Hunter Kernan,57929,Pittsburgh,Jack Peura,44868,Clarion
+2019,02/02,Edinboro Open,165,W,MD,12 - 1,John Dean,51670,Clarion,Jack Peura,44868,Clarion
+2019,02/02,Edinboro Open,165,L,DEC,5 - 0,Shane Jones,39984,Old Dominion,Jack Peura,44868,Clarion
+2019,12/15,Cleveland State Open,165,W,MD,12 - 1,John Dean,51670,Clarion,Jack Peura,44868,Clarion
+2019,12/15,Cleveland State Open,165,L,FALL,0:31,Sammy Cokeley,50287,Spartan Combat RTC,Jack Peura,44868,Clarion
+2019,12/15,Cleveland State Open,165,W,DEC,4 - 3,Dillon Ross,57213,Buffalo,Jack Peura,44868,Clarion
+2019,12/15,Cleveland State Open,165,L,DEC,9 - 6,Riley Smucker,56147,Appalachian State,Jack Peura,44868,Clarion
+2019,12/02,Storm Open,165,W,MD,12 - 0,Mike Carpenter,58129,Unattached,Jack Peura,44868,Clarion
+2019,12/02,Storm Open,165,W,TF5,20 - 2 4:54,Luke Ewing,51287,Seton Hill,Jack Peura,44868,Clarion
+2019,12/02,Storm Open,165,L,FALL,5:44,Nathan Atienza,51212,Michigan State,Jack Peura,44868,Clarion
+2019,12/02,Storm Open,165,W,MD,13 - 4,Jr Andrejcik,41274,Notre Dame,Jack Peura,44868,Clarion
+2019,12/02,Storm Open,165,W,DEC,8 - 7,Anthony Dailey,23386,Notre Dame,Jack Peura,44868,Clarion
+2019,11/11,Ohio Intercollegiate Open,165,W,FALL,6:15,Zach Kelly,40367,Notre Dame,Jack Peura,44868,Clarion
+2019,11/11,Ohio Intercollegiate Open,165,W,DEC,7 - 3,Richard Screptock,46550,Tiffin University,Jack Peura,44868,Clarion
+2019,11/11,Ohio Intercollegiate Open,165,W,DEC,2 - 1,Kade Byland,45313,Kent State,Jack Peura,44868,Clarion
+2019,11/11,Ohio Intercollegiate Open,165,L,FALL,4:04,Davey Tunon,44908,Indiana,Jack Peura,44868,Clarion
+2019,11/11,Ohio Intercollegiate Open,165,L,FALL,5:00,Anthony Dailey,23386,Notre Dame,Jack Peura,44868,Clarion
+2019,11/03,Clarion Open,165,W,DEC,4 - 2,John Dean,51670,Clarion,Jack Peura,44868,Clarion
+2019,11/03,Clarion Open,165,W,DEC,7 - 6,Rodrick Mosley,50889,Gardner-Webb,Jack Peura,44868,Clarion
+2019,11/03,Clarion Open,165,W,TF5,16 - 0 2:11,Lane Hinkle,45314,Kent State,Jack Peura,44868,Clarion
+2019,11/03,Clarion Open,165,W,DEC,6 - 2,Kade Byland,45313,Kent State,Jack Peura,44868,Clarion
+2019,11/03,Clarion Open,165,L,DEC,8 - 2,Isaac Bast,19972,Kent State,Jack Peura,44868,Clarion
+2019,11/03,Clarion Open,165,W,DEC,7 - 4,Dillon Ross,57213,Buffalo,Jack Peura,44868,Clarion
+2019,11/03,Clarion Open,165,L,MFOR,0 - 0,Noah Grover,51227,Buffalo,Jack Peura,44868,Clarion
+2019,02/24,Clarion - Michigan Dual,174,L,FALL,6:40,Myles Amine,39586,Michigan,Max Wohlabaugh,49096,Clarion
+2019,02/22,Clarion - Edinboro Dual,174,L,DEC,8 - 4,Jacob Oliver,49130,Edinboro,Max Wohlabaugh,49096,Clarion
+2019,02/10,Clarion - Lock Haven Dual,174,L,DEC,11 - 6,Jared Siegrist,45101,Lock Haven,Max Wohlabaugh,49096,Clarion
+2019,02/08,Clarion - Cleveland State Dual,174,W,TF5,21 - 5 5:43,Colton Carroll,45335,Cleveland State,Max Wohlabaugh,49096,Clarion
+2019,02/02,Clarion - Rider Dual,174,W,DEC,6 - 2,Dean Sherry,40019,Rider,Max Wohlabaugh,49096,Clarion
+2019,01/17,George Mason - Clarion Dual,174,W,DEC,3 - 2,Cornelius Schuster,55781,George Mason,Max Wohlabaugh,49096,Clarion
+2019,01/13,Bloomsburg - Clarion Dual,174,W,DEC,6 - 1,Anthony Vetrano,45189,Bloomsburg,Max Wohlabaugh,49096,Clarion
+2019,12/15,Cleveland State Open,174,W,FALL,6:38,Mark Trifelos,58126,Findlay,Max Wohlabaugh,49096,Clarion
+2019,12/15,Cleveland State Open,174,L,DEC,4 - 0,Layne Malczewski,51828,Michigan State,Max Wohlabaugh,49096,Clarion
+2019,12/15,Cleveland State Open,174,W,TB-1,8 - 6,Emilio Fowler,41290,Notre Dame,Max Wohlabaugh,49096,Clarion
+2019,12/15,Cleveland State Open,174,L,MFOR,0 - 0,Barrett Blakely,54239,Appalachian State,Max Wohlabaugh,49096,Clarion
+2019,12/02,Storm Open,174,W,MD,16 - 5,James Wujek,57159,West Virginia,Max Wohlabaugh,49096,Clarion
+2019,12/02,Storm Open,174,W,DEC,5 - 3,Emilio Fowler,41290,Notre Dame,Max Wohlabaugh,49096,Clarion
+2019,12/02,Storm Open,174,L,DEC,5 - 1,Jairod James,19971,Mount Union,Max Wohlabaugh,49096,Clarion
+2019,12/02,Storm Open,174,W,MFOR,0 - 0,Tylor Orrison,57443,Lake Erie College,Max Wohlabaugh,49096,Clarion
+2019,11/11,Ohio Intercollegiate Open,174,W,DEC,7 - 3,Donny Didion,58007,Otterbein University,Max Wohlabaugh,49096,Clarion
+2019,11/11,Ohio Intercollegiate Open,174,W,FALL,2:53,Kian Thompson,51425,Tiffin University,Max Wohlabaugh,49096,Clarion
+2019,11/11,Ohio Intercollegiate Open,174,W,DEC,4 - 3,Jake Henderson,49102,Cleveland State,Max Wohlabaugh,49096,Clarion
+2019,11/11,Ohio Intercollegiate Open,174,L,DEC,12 - 6,Christian Price,41655,Ashland,Max Wohlabaugh,49096,Clarion
+2019,11/11,Ohio Intercollegiate Open,174,L,DEC,12 - 6,Ethan Smith,50025,Ohio State,Max Wohlabaugh,49096,Clarion
+2019,11/03,Clarion Open,174,W,DEC,6 - 3,David Crawford,51042,Pittsburgh,Max Wohlabaugh,49096,Clarion
+2019,11/03,Clarion Open,174,L,DEC,7 - 6,Tommy O'Brien,49289,Pittsburgh,Max Wohlabaugh,49096,Clarion
+2019,11/03,Clarion Open,174,L,TB-2,3 - 1,Dylan Barreiro,44632,Kent State,Max Wohlabaugh,49096,Clarion
+2019,11/03,Clarion Open,174,W,DEC,5 - 2,James Meyer,40775,Kutztown,Max Wohlabaugh,49096,Clarion
+2019,03/09,EWL Championships,174,W,DEC,8 - 3,Cornelius Schuster,55781,George Mason,Taylor Cahill,39848,Clarion
+2019,03/09,EWL Championships,174,L,DEC,6 - 1,Jared Siegrist,45101,Lock Haven,Taylor Cahill,39848,Clarion
+2019,03/09,EWL Championships,174,L,DEC,9 - 3,Dean Sherry,40019,Rider,Taylor Cahill,39848,Clarion
+2019,12/22,Clarion - Buffalo Dual,174,W,DEC,6 - 4,Jake Lanning,49069,Buffalo,Taylor Cahill,39848,Clarion
+2019,12/21,Pittsburgh - Clarion Dual,174,L,DEC,6 - 3,Gregg Harvey,45148,Pittsburgh,Taylor Cahill,39848,Clarion
+2019,12/08,PSAC Championships,174,L,DEC,2 - 1,Jacob Oliver,49130,Edinboro,Taylor Cahill,39848,Clarion
+2019,12/08,PSAC Championships,174,W,SV-1,6 - 4,Damon Greenwald,45959,Seton Hill,Taylor Cahill,39848,Clarion
+2019,12/08,PSAC Championships,174,W,SV-1,3 - 1,Damon Greenwald,45959,Seton Hill,Taylor Cahill,39848,Clarion
+2019,12/08,PSAC Championships,174,L,DEC,3 - 2,Michael Raccioppi,43155,East Stroudsburg,Taylor Cahill,39848,Clarion
+2019,11/30,Cliff Keen Invitational,174,W,MD,13 - 4,Wyatt Monroe,56582,Western Wyoming College,Taylor Cahill,39848,Clarion
+2019,11/30,Cliff Keen Invitational,174,L,SV-1,3 - 1,Spencer Carey,44817,Navy,Taylor Cahill,39848,Clarion
+2019,11/30,Cliff Keen Invitational,174,L,MD,15 - 4,Collin Lieber,49084,Central Michigan,Taylor Cahill,39848,Clarion
+2019,11/17,Utah Valley - Clarion Dual,174,L,DEC,7 - 1,Kimball Bastian,40322,Utah Valley,Taylor Cahill,39848,Clarion
+2019,11/17,Harper College - Clarion Dual,174,W,MD,10 - 2,Spencer Matheu,59563,Harper College,Taylor Cahill,39848,Clarion
+2019,11/17,Clarion - Northern Illinois Dual,174,L,FALL,4:55,Brit Wilson,49235,Northern Illinois,Taylor Cahill,39848,Clarion
+2019,11/03,Clarion Open,174,W,DEC,2 - 1,Tommy O'Brien,49289,Pittsburgh,Taylor Cahill,39848,Clarion
+2019,11/03,Clarion Open,174,W,SV-1,3 - 1,Dimitri Williams,49100,Cleveland State,Taylor Cahill,39848,Clarion
+2019,11/03,Clarion Open,174,W,SV-1,3 - 1,Jared Siegrist,45101,Lock Haven,Taylor Cahill,39848,Clarion
+2019,11/03,Clarion Open,174,L,DEC,4 - 3,Dylan Barreiro,44632,Kent State,Taylor Cahill,39848,Clarion
+2019,11/02,Gardner-Webb - Clarion Dual,174,L,FALL,7:25,Kyle Homet,57168,Gardner-Webb,Taylor Cahill,39848,Clarion
+2019,03/09,EWL Championships,184,L,DEC,6 - 5,Paul Pierce,56165,George Mason,Tyler Bagoly,49098,Clarion
+2019,03/09,EWL Championships,184,L,DEC,6 - 2,Trevor Allard,40040,Bloomsburg,Tyler Bagoly,49098,Clarion
+2019,02/24,Clarion - Michigan Dual,184,L,DEC,9 - 2,Jelani Embree,49179,Michigan,Tyler Bagoly,49098,Clarion
+2019,02/22,Clarion - Edinboro Dual,184,L,DEC,5 - 2,Zach Ancewicz,49132,Edinboro,Tyler Bagoly,49098,Clarion
+2019,02/10,Clarion - Lock Haven Dual,184,L,DEC,7 - 4,Corey Hazel,39756,Lock Haven,Tyler Bagoly,49098,Clarion
+2019,02/08,Clarion - Cleveland State Dual,184,W,MD,8 - 0,Chris Morrow,45336,Cleveland State,Tyler Bagoly,49098,Clarion
+2019,02/02,Clarion - Rider Dual,184,L,DEC,9 - 4,Michale Fagg-Daves,20352,Rider,Tyler Bagoly,49098,Clarion
+2019,01/17,George Mason - Clarion Dual,184,W,FALL,1:15,Phillip Stolfi,44942,George Mason,Tyler Bagoly,49098,Clarion
+2019,01/09,Long Island University-Post - Clarion Dual,184,W,DEC,6 - 1,James Langan,57781,LIU,Tyler Bagoly,49098,Clarion
+2019,12/22,Clarion - Buffalo Dual,197,L,DEC,6 - 3,Sam Schuyler,50361,Buffalo,Tyler Bagoly,49098,Clarion
+2019,12/21,Pittsburgh - Clarion Dual,184,L,MD,13 - 4,Nino Bonaccorsi,49285,Pittsburgh,Tyler Bagoly,49098,Clarion
+2019,12/08,PSAC Championships,184,W,MD,13 - 1,Breylon Douglas,56388,Lock Haven,Tyler Bagoly,49098,Clarion
+2019,12/08,PSAC Championships,184,W,DEC,7 - 2,Trever Begin,56281,Mercyhurst,Tyler Bagoly,49098,Clarion
+2019,12/08,PSAC Championships,184,L,DEC,7 - 4,Zach Ancewicz,49132,Edinboro,Tyler Bagoly,49098,Clarion
+2019,12/08,PSAC Championships,184,W,DEC,11 - 5,Alex Delp,45149,Pitt-Johnstown,Tyler Bagoly,49098,Clarion
+2019,11/30,Cliff Keen Invitational,184,L,DEC,8 - 6,Dalton Robertson,44695,Northern Colorado,Tyler Bagoly,49098,Clarion
+2019,11/30,Cliff Keen Invitational,184,L,DEC,6 - 2,Louie DePrez,49046,Binghamton,Tyler Bagoly,49098,Clarion
+2019,11/17,Utah Valley - Clarion Dual,184,L,DEC,6 - 4,Will Sumner,20419,Utah Valley,Tyler Bagoly,49098,Clarion
+2019,11/17,Clarion - Northern Illinois Dual,184,W,FALL,1:42,Michael Aldrich,40014,Northern Illinois,Tyler Bagoly,49098,Clarion
+2019,11/03,Clarion Open,184,W,FALL,4:25,Matt Lewandowski,57394,Kutztown,Tyler Bagoly,49098,Clarion
+2019,11/03,Clarion Open,184,W,MFOR,0 - 0,Shae Bloom,56809,Clarion,Tyler Bagoly,49098,Clarion
+2019,11/03,Clarion Open,184,W,DEC,7 - 0,Luke Funck,50960,Clarion,Tyler Bagoly,49098,Clarion
+2019,11/03,Clarion Open,184,L,MD,13 - 5,Andrew McNally,44610,Kent State,Tyler Bagoly,49098,Clarion
+2019,11/03,Clarion Open,184,W,FALL,2:32,Cameron Caldarelli,44952,Buffalo,Tyler Bagoly,49098,Clarion
+2019,11/03,Clarion Open,184,W,TF5,16 - 1 4:20,Michael Porreca,51053,Bloomsburg,Tyler Bagoly,49098,Clarion
+2019,11/02,Gardner-Webb - Clarion Dual,184,W,FALL,2:07,Nathaniel Kale,45577,Gardner-Webb,Tyler Bagoly,49098,Clarion
+2019,01/05,Franklin & Marshall Open,174,L,INJ,7:00,Leonardo Tarantino,51222,Harvard,Shae Bloom,56809,Clarion
+2019,01/05,Franklin & Marshall Open,174,W,FALL,2:21,Matthew Fallon,40033,Sacred Heart,Shae Bloom,56809,Clarion
+2019,01/05,Franklin & Marshall Open,174,W,DEC,8 - 2,Caleb Hopkins,56482,Campbell,Shae Bloom,56809,Clarion
+2019,01/05,Franklin & Marshall Open,174,L,MFOR,0 - 0,Charlie Andrews,44940,Campbell,Shae Bloom,56809,Clarion
+2019,12/22,Clarion - Buffalo Dual,184,W,DEC,9 - 4,Logan Rill,44775,Buffalo,Shae Bloom,56809,Clarion
+2019,12/21,Pittsburgh - Clarion Dual,197,L,DEC,5 - 0,Kellan Stout,39528,Pittsburgh,Shae Bloom,56809,Clarion
+2019,12/08,PSAC Championships,197,L,DEC,7 - 3,Dylan Reynolds,45374,Edinboro,Shae Bloom,56809,Clarion
+2019,12/08,PSAC Championships,197,L,DEC,5 - 1,Colton Dull,43163,Millersville,Shae Bloom,56809,Clarion
+2019,12/08,PSAC Championships,197,W,MD,10 - 1,Mike Geyer,41253,Pitt-Johnstown,Shae Bloom,56809,Clarion
+2019,12/08,PSAC Championships,197,W,DEC,6 - 4,Kyle Murphy,44915,Bloomsburg,Shae Bloom,56809,Clarion
+2019,12/02,Storm Open,184,W,DEC,8 - 2,Blake Wilson,56169,Ohio,Shae Bloom,56809,Clarion
+2019,12/02,Storm Open,184,W,MFOR,0 - 0,Luke Funck,50960,Clarion,Shae Bloom,56809,Clarion
+2019,12/02,Storm Open,184,L,DEC,11 - 5,Stanley Smeltzer,50902,Virginia Tech,Shae Bloom,56809,Clarion
+2019,12/02,Storm Open,184,W,DEC,7 - 4,Jake Walker,45563,Ohio,Shae Bloom,56809,Clarion
+2019,11/17,Harper College - Clarion Dual,184,W,FALL,2:33,Maxx Demann,58464,Harper College,Shae Bloom,56809,Clarion
+2019,11/03,Clarion Open,184,L,MFOR,0 - 0,Tyler Bagoly,49098,Clarion,Shae Bloom,56809,Clarion
+2019,11/03,Clarion Open,184,W,FALL,1:00,Dalton Group,57412,Pitt-Johnstown,Shae Bloom,56809,Clarion
+2019,11/03,Clarion Open,184,W,FALL,1:02,Matt McGillick,51259,Pittsburgh,Shae Bloom,56809,Clarion
+2019,11/03,Clarion Open,184,W,FALL,0:22,Tim Wallace,50532,Kent State,Shae Bloom,56809,Clarion
+2019,11/03,Clarion Open,184,W,DEC,9 - 5,Chris Morrow,45336,Cleveland State,Shae Bloom,56809,Clarion
+2019,11/03,Clarion Open,184,W,FALL,3:44,Shane Mast,39974,Kent State,Shae Bloom,56809,Clarion
+2019,11/03,Clarion Open,184,W,MFOR,0 - 0,Cameron Caldarelli,44952,Buffalo,Shae Bloom,56809,Clarion
+2019,11/03,Clarion Open,184,L,DEC,7 - 6,Trevor Allard,40040,Bloomsburg,Shae Bloom,56809,Clarion
+2019,12/15,Cleveland State Open,184,W,FALL,4:31,Cullen Wolford,45371,Edinboro,Chris Sequete,56345,Clarion
+2019,12/15,Cleveland State Open,184,L,TF5,25 - 10 7:00,Peter Acciardi,51069,Buffalo,Chris Sequete,56345,Clarion
+2019,12/15,Cleveland State Open,184,L,DEC,4 - 3,Cameron Caldarelli,44952,Buffalo,Chris Sequete,56345,Clarion
+2019,12/02,Storm Open,197,W,MFOR,0 - 0,Dennis Whitehead,58127,Notre Dame,Chris Sequete,56345,Clarion
+2019,12/02,Storm Open,197,L,DEC,6 - 2,Mason Kroening,50158,Ohio,Chris Sequete,56345,Clarion
+2019,12/02,Storm Open,197,L,FALL,3:33,Colin McCracken,50064,Kent State,Chris Sequete,56345,Clarion
+2019,12/02,Storm Open,197,W,MFOR,0 - 0,Kevin Snyder,44847,Ohio State,Chris Sequete,56345,Clarion
+2019,11/03,Clarion Open,184,L,FALL,3:00,Luke Funck,50960,Clarion,Chris Sequete,56345,Clarion
+2019,11/03,Clarion Open,184,W,FALL,6:23,Matt Lewandowski,57394,Kutztown,Chris Sequete,56345,Clarion
+2019,11/03,Clarion Open,184,W,FALL,0:56,Ethan Okunas,44997,Clarion,Chris Sequete,56345,Clarion
+2019,11/03,Clarion Open,184,L,DEC,4 - 3,Cameron Caldarelli,44952,Buffalo,Chris Sequete,56345,Clarion
+2019,02/02,Edinboro Open,184,W,MD,13 - 2,Luigi Yates,51288,Gannon,Luke Funck,50960,Clarion
+2019,02/02,Edinboro Open,184,L,DEC,5 - 0,Lane Hinkle,45314,Kent State,Luke Funck,50960,Clarion
+2019,02/02,Edinboro Open,184,W,FALL,0:40,Ethan Okunas,44997,Clarion,Luke Funck,50960,Clarion
+2019,02/02,Edinboro Open,184,W,DEC,2 - 0,Vinny Levin,42331,Liberty University,Luke Funck,50960,Clarion
+2019,02/02,Edinboro Open,184,L,DEC,8 - 3,Zach Steiner,49251,Ohio State,Luke Funck,50960,Clarion
+2019,01/13,Bloomsburg - Clarion Dual,184,L,DEC,5 - 0,Trevor Allard,40040,Bloomsburg,Luke Funck,50960,Clarion
+2019,12/15,Cleveland State Open,184,L,SV-1,9 - 7,Peter Acciardi,51069,Buffalo,Luke Funck,50960,Clarion
+2019,12/15,Cleveland State Open,184,L,DEC,7 - 3,Jacob Ferreira,56807,Bucknell,Luke Funck,50960,Clarion
+2019,12/02,Storm Open,184,L,MFOR,0 - 0,Shae Bloom,56809,Clarion,Luke Funck,50960,Clarion
+2019,12/02,Storm Open,184,W,SV-1,3 - 1,Trent Wechsler,57275,Binghamton,Luke Funck,50960,Clarion
+2019,12/02,Storm Open,184,W,DEC,5 - 1,Logan Hall,50331,Notre Dame,Luke Funck,50960,Clarion
+2019,12/02,Storm Open,184,L,MD,12 - 4,Hayden Bronne,41630,Tiffin University,Luke Funck,50960,Clarion
+2019,11/11,Ohio Intercollegiate Open,184,L,DEC,7 - 0,Cody Mulligan,50589,Edinboro,Luke Funck,50960,Clarion
+2019,11/11,Ohio Intercollegiate Open,184,W,MD,15 - 4,Nick Konyk,48055,Mercyhurst,Luke Funck,50960,Clarion
+2019,11/11,Ohio Intercollegiate Open,184,L,DEC,7 - 0,Hayden Bronne,41630,Tiffin University,Luke Funck,50960,Clarion
+2019,11/11,Ohio Intercollegiate Open,184,W,DEC,9 - 5,Jacob Gray,50918,Central Michigan,Luke Funck,50960,Clarion
+2019,11/03,Clarion Open,184,L,DEC,7 - 0,Tyler Bagoly,49098,Clarion,Luke Funck,50960,Clarion
+2019,11/03,Clarion Open,184,W,DEC,3 - 2,Dalton Group,57412,Pitt-Johnstown,Luke Funck,50960,Clarion
+2019,11/03,Clarion Open,184,W,DEC,3 - 2,Austin Hoopes,57103,Penn State,Luke Funck,50960,Clarion
+2019,11/03,Clarion Open,184,W,FALL,3:00,Chris Sequete,56345,Clarion,Luke Funck,50960,Clarion
+2019,11/03,Clarion Open,184,L,DEC,6 - 2,Trevor Allard,40040,Bloomsburg,Luke Funck,50960,Clarion
+2019,02/02,Edinboro Open,184,L,FALL,0:40,Luke Funck,50960,Clarion,Ethan Okunas,44997,Clarion
+2019,02/02,Edinboro Open,184,L,FALL,1:08,Gavin Hoffman,50609,Ohio State,Ethan Okunas,44997,Clarion
+2019,02/02,Edinboro Open,184,L,FALL,7:00,Gavin Hoffman,50609,Ohio State,Ethan Okunas,44997,Clarion
+2019,11/03,Clarion Open,184,L,FALL,0:56,Chris Sequete,56345,Clarion,Ethan Okunas,44997,Clarion
+2019,11/03,Clarion Open,184,L,TF5,19 - 4 6:42,Brinton Simington,57358,Lock Haven,Ethan Okunas,44997,Clarion
+2019,03/21,NCAA Championships,197,L,DEC,8 - 6,Benjamin Honis,43656,Cornell,Greg Bulsak,44655,Clarion
+2019,03/21,NCAA Championships,197,L,DEC,7 - 3,Nathan Traxler,45395,Stanford,Greg Bulsak,44655,Clarion
+2019,03/09,EWL Championships,197,L,DEC,3 - 2,Dylan Reynolds,45374,Edinboro,Greg Bulsak,44655,Clarion
+2019,03/09,EWL Championships,197,L,SV-1,4 - 2,Kyle Murphy,44915,Bloomsburg,Greg Bulsak,44655,Clarion
+2019,02/24,Clarion - Michigan Dual,197,W,DEC,8 - 4,Jackson Striggow,39831,Michigan,Greg Bulsak,44655,Clarion
+2019,02/22,Clarion - Edinboro Dual,197,W,DEC,4 - 0,Dylan Reynolds,45374,Edinboro,Greg Bulsak,44655,Clarion
+2019,02/10,Clarion - Lock Haven Dual,197,W,DEC,5 - 0,Parker McClellan,56598,Lock Haven,Greg Bulsak,44655,Clarion
+2019,02/08,Clarion - Cleveland State Dual,197,W,DEC,4 - 2,Ben Smith,56236,Cleveland State,Greg Bulsak,44655,Clarion
+2019,02/02,Clarion - Rider Dual,197,W,DEC,8 - 5,Ethan Laird,50134,Rider,Greg Bulsak,44655,Clarion
+2019,01/17,George Mason - Clarion Dual,197,W,FALL,1:15,Alex Donahue,54386,George Mason,Greg Bulsak,44655,Clarion
+2019,01/13,Bloomsburg - Clarion Dual,197,W,DEC,3 - 0,Kyle Murphy,44915,Bloomsburg,Greg Bulsak,44655,Clarion
+2019,01/09,Long Island University-Post - Clarion Dual,197,W,FALL,2:32,Dan Shafran,57782,LIU,Greg Bulsak,44655,Clarion
+2019,11/30,Cliff Keen Invitational,197,L,DEC,5 - 1,Nathan Traxler,45395,Stanford,Greg Bulsak,44655,Clarion
+2019,11/30,Cliff Keen Invitational,197,L,DEC,8 - 6,Eric Schultz,44853,Nebraska,Greg Bulsak,44655,Clarion
+2019,11/30,Cliff Keen Invitational,197,L,MFOR,0 - 0,Christian Brunner,44744,Purdue,Greg Bulsak,44655,Clarion
+2019,11/30,Cliff Keen Invitational,197,W,FALL,4:32,Wyatt Koelling,44722,Missouri,Greg Bulsak,44655,Clarion
+2019,11/30,Cliff Keen Invitational,197,W,DEC,8 - 1,Tom Sleigh,19710,Virginia Tech,Greg Bulsak,44655,Clarion
+2019,11/30,Cliff Keen Invitational,197,W,TF5,15 - 0 7:00,Sage Mosco,57252,American,Greg Bulsak,44655,Clarion
+2019,11/17,Utah Valley - Clarion Dual,197,L,DEC,7 - 5,Tanner Orndorff,40324,Utah Valley,Greg Bulsak,44655,Clarion
+2019,11/17,Clarion - Northern Illinois Dual,197,W,FALL,0:47,Ross Sealby,44145,Northern Illinois,Greg Bulsak,44655,Clarion
+2019,11/03,Clarion Open,197,W,FALL,1:41,Ben Smith,56236,Cleveland State,Greg Bulsak,44655,Clarion
+2019,11/03,Clarion Open,197,L,DEC,13 - 9,Michael Beard,50614,Unattached,Greg Bulsak,44655,Clarion
+2019,11/03,Clarion Open,197,W,FALL,0:36,Chase Emory,50352,Gardner-Webb,Greg Bulsak,44655,Clarion
+2019,11/03,Clarion Open,197,W,MD,12 - 2,Colin McCracken,50064,Kent State,Greg Bulsak,44655,Clarion
+2019,11/02,Gardner-Webb - Clarion Dual,197,W,TF5,16 - 0 1:47,Chase Emory,50352,Gardner-Webb,Greg Bulsak,44655,Clarion
+2019,02/24,Clarion - Michigan Dual,285,L,FALL,4:43,Mason Parris,51176,Michigan,Toby Cahill,49097,Clarion
+2019,02/22,Clarion - Edinboro Dual,285,L,DEC,10 - 6,Jon Spaulding,50330,Edinboro,Toby Cahill,49097,Clarion
+2019,02/10,Clarion - Lock Haven Dual,285,L,FALL,5:45,Thomas Haines,20247,Lock Haven,Toby Cahill,49097,Clarion
+2019,02/08,Clarion - Cleveland State Dual,285,W,MD,10 - 2,Collin Kelly,45338,Cleveland State,Toby Cahill,49097,Clarion
+2019,02/02,Clarion - Rider Dual,285,L,DEC,7 - 2,Ryan Cloud,39972,Rider,Toby Cahill,49097,Clarion
+2019,01/17,George Mason - Clarion Dual,285,L,MD,14 - 6,Matthew Voss,19908,George Mason,Toby Cahill,49097,Clarion
+2019,01/13,Bloomsburg - Clarion Dual,285,W,FALL,5:13,Logan Womelsdorf,51054,Bloomsburg,Toby Cahill,49097,Clarion
+2019,01/09,Long Island University-Post - Clarion Dual,285,W,TF5,19 - 3 3:35,Tim Nagosky,57783,LIU,Toby Cahill,49097,Clarion
+2019,12/22,Clarion - Buffalo Dual,285,L,DEC,3 - 2,Jake Gunning,19718,Buffalo,Toby Cahill,49097,Clarion
+2019,12/21,Pittsburgh - Clarion Dual,285,L,FALL,6:18,Demetrius Thomas,47357,Pittsburgh,Toby Cahill,49097,Clarion
+2019,12/15,Cleveland State Open,285,L,TF5,21 - 6 7:00,Mason Parris,51176,Michigan,Toby Cahill,49097,Clarion
+2019,12/15,Cleveland State Open,285,W,DEC,3 - 1,Cole Rickert,50864,Pittsburgh,Toby Cahill,49097,Clarion
+2019,12/15,Cleveland State Open,285,W,FALL,0:44,Spencer Berthold,50157,Kent State,Toby Cahill,49097,Clarion
+2019,12/15,Cleveland State Open,285,W,DEC,5 - 1,Seth Bloor,44046,Wheeling,Toby Cahill,49097,Clarion
+2019,12/15,Cleveland State Open,285,W,DEC,3 - 2,Nolan Terrance,39572,Buffalo,Toby Cahill,49097,Clarion
+2019,12/15,Cleveland State Open,285,L,TF5,21 - 6 6:47,Mason Parris,51176,Michigan,Toby Cahill,49097,Clarion
+2019,12/08,PSAC Championships,285,W,TF5,20 - 2 7:00,Cameron Kates,57686,East Stroudsburg,Toby Cahill,49097,Clarion
+2019,12/08,PSAC Championships,285,L,DEC,5 - 3,Tyler Oliver,41268,Pitt-Johnstown,Toby Cahill,49097,Clarion
+2019,12/08,PSAC Championships,285,L,MD,10 - 0,Thomas Haines,20247,Lock Haven,Toby Cahill,49097,Clarion
+2019,11/30,Cliff Keen Invitational,285,L,FALL,0:46,Zach Elam,51612,Missouri,Toby Cahill,49097,Clarion
+2019,11/30,Cliff Keen Invitational,285,L,DEC,4 - 1,Haydn Maley,49327,Stanford,Toby Cahill,49097,Clarion
+2019,11/17,Clarion - Northern Illinois Dual,285,L,FALL,6:17,Caleb Gossett,40013,Northern Illinois,Toby Cahill,49097,Clarion
+2019,03/09,EWL Championships,285,L,DEC,8 - 3,Jon Spaulding,50330,Edinboro,Edgar Ruano,19798,Clarion
+2019,03/09,EWL Championships,285,W,FALL,5:00,Collin Kelly,45338,Cleveland State,Edgar Ruano,19798,Clarion
+2019,03/09,EWL Championships,285,L,DEC,8 - 3,Ryan Cloud,39972,Rider,Edgar Ruano,19798,Clarion
+2019,03/02,National Collegiate Open,285,L,DEC,12 - 10,Zachary Knighton-Ward,53791,Hofstra,Edgar Ruano,19798,Clarion
+2019,03/02,National Collegiate Open,285,W,DEC,5 - 4,Sean O'Malley,49121,Drexel,Edgar Ruano,19798,Clarion
+2019,03/02,National Collegiate Open,285,W,DEC,6 - 2,Deonte Wilson,56403,NC State,Edgar Ruano,19798,Clarion
+2019,03/02,National Collegiate Open,285,L,DEC,4 - 1,Colin Lawler,54114,NC State,Edgar Ruano,19798,Clarion
+2019,02/02,Edinboro Open,285,W,DEC,10 - 5,Jacob Cover,57237,Kent State,Edgar Ruano,19798,Clarion
+2019,02/02,Edinboro Open,285,L,FALL,0:54,Ali Wahab,44627,Old Dominion,Edgar Ruano,19798,Clarion
+2019,02/02,Edinboro Open,285,L,TF5,16 - 1 3:00,Fletcher Miller,20525,Indiana,Edgar Ruano,19798,Clarion
+2019,11/17,Utah Valley - Clarion Dual,285,L,MD,16 - 8,Tate Orndorff,50974,Utah Valley,Edgar Ruano,19798,Clarion
+2019,11/17,Harper College - Clarion Dual,285,W,DEC,8 - 3,Jacob Weingardt,59564,Harper College,Edgar Ruano,19798,Clarion
+2019,11/03,Clarion Open,285,L,MD,8 - 0,Jake Evans,54102,Waynesburg,Edgar Ruano,19798,Clarion
+2019,11/03,Clarion Open,285,W,DEC,6 - 3,Jake Koser,50890,US Naval Academy Prep School,Edgar Ruano,19798,Clarion
+2019,11/03,Clarion Open,285,L,FALL,4:29,Demetrius Thomas,47357,Pittsburgh,Edgar Ruano,19798,Clarion
+2019,11/03,Clarion Open,285,W,DEC,10 - 3,Alex Nicholas,45076,Penn State,Edgar Ruano,19798,Clarion
+2019,11/03,Clarion Open,285,W,DEC,5 - 1,Tyler Oliver,41268,Pitt-Johnstown,Edgar Ruano,19798,Clarion
+2019,11/03,Clarion Open,285,W,MFOR,0 - 0,Zach Bruce,20321,Pittsburgh,Edgar Ruano,19798,Clarion
+2019,11/03,Clarion Open,285,W,DEC,3 - 2,Nolan Terrance,39572,Buffalo,Edgar Ruano,19798,Clarion
+2019,11/02,Gardner-Webb - Clarion Dual,285,W,FALL,3:20,Gabriel Pickett,57164,Gardner-Webb,Edgar Ruano,19798,Clarion
+2019,12/02,Storm Open,197,L,TF5,15 - 0 1:59,Mason Kroening,50158,Ohio,Willie Bivens,39741,Clarion
+2019,12/02,Storm Open,197,W,DEC,5 - 3,Nunzio Crowley,45185,Binghamton,Willie Bivens,39741,Clarion
+2019,12/02,Storm Open,197,L,MFOR,0 - 0,Anthony DePrez,19650,Binghamton,Willie Bivens,39741,Clarion
+2019,11/03,Clarion Open,285,L,FALL,6:23,Jacob Cover,57237,Kent State,Willie Bivens,39741,Clarion
+2019,11/03,Clarion Open,285,L,FALL,1:35,Devan Uzelak,52189,Wheeling,Willie Bivens,39741,Clarion
+2019,12/15,Cleveland State Open,285,W,FALL,2:44,Paul McKnight,59045,Notre Dame,Brylee Shumaker,45572,Clarion
+2019,12/15,Cleveland State Open,285,L,FALL,4:26,Jon Spaulding,50330,Edinboro,Brylee Shumaker,45572,Clarion
+2019,12/15,Cleveland State Open,285,W,DEC,7 - 2,Sean Mullican,49344,West Virginia,Brylee Shumaker,45572,Clarion
+2019,12/15,Cleveland State Open,285,L,DEC,8 - 1,Zach Bruce,20321,Pittsburgh,Brylee Shumaker,45572,Clarion
+2019,12/15,Cleveland State Open,285,W,TF5,16 - 0 7:00,Jacob Adams,51059,Cleveland State,Brylee Shumaker,45572,Clarion
+2019,11/03,Clarion Open,285,L,DEC,13 - 6,Jake Evans,54102,Waynesburg,Brylee Shumaker,45572,Clarion
+2019,11/03,Clarion Open,285,L,MFOR,0 - 0,Devan Uzelak,52189,Wheeling,Brylee Shumaker,45572,Clarion

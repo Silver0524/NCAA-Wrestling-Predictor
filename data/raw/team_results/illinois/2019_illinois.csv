@@ -1,0 +1,531 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2019,03/21,NCAA Championships,125,L,DEC,8 - 2,Jacob Schwarm,39750,Northern Iowa,Travis Piotrowski,44646,Illinois
+2019,03/21,NCAA Championships,125,L,MD,10 - 1,Sean Russell,20727,Minnesota,Travis Piotrowski,44646,Illinois
+2019,03/21,NCAA Championships,125,W,DEC,4 - 3,Cole Verner,41722,Wyoming,Travis Piotrowski,44646,Illinois
+2019,03/09,Big Ten Championships,125,W,DEC,8 - 4,Ethan Rotondo,51219,Wisconsin,Travis Piotrowski,44646,Illinois
+2019,03/09,Big Ten Championships,125,W,MFOR,0 - 0,Rayvon Foley,50823,Michigan State,Travis Piotrowski,44646,Illinois
+2019,03/09,Big Ten Championships,125,L,DEC,7 - 3,Rayvon Foley,50823,Michigan State,Travis Piotrowski,44646,Illinois
+2019,03/09,Big Ten Championships,125,W,TF5,17 - 0 4:39,Devin Schnupp,45072,Penn State,Travis Piotrowski,44646,Illinois
+2019,03/09,Big Ten Championships,125,W,DEC,7 - 4,Devin Schroder,44591,Purdue,Travis Piotrowski,44646,Illinois
+2019,03/09,Big Ten Championships,125,L,INJ,7:00,Sean Russell,20727,Minnesota,Travis Piotrowski,44646,Illinois
+2019,02/17,Penn State - Illinois Dual,125,W,FALL,1:06,Devin Schnupp,45072,Penn State,Travis Piotrowski,44646,Illinois
+2019,02/15,Illinois - Northwestern Dual,125,L,MD,14 - 5,Sebastian Rivera,44799,Northwestern,Travis Piotrowski,44646,Illinois
+2019,02/10,Illinois - Wisconsin Dual,125,W,DEC,12 - 6,Ethan Rotondo,51219,Wisconsin,Travis Piotrowski,44646,Illinois
+2019,02/01,Ohio State - Illinois Dual,125,W,DEC,3 - 1,Hunter Lucas,45132,Ohio State,Travis Piotrowski,44646,Illinois
+2019,01/27,Illinois - Nebraska Dual,125,W,DEC,6 - 5,Zeke Moisey,20472,Nebraska,Travis Piotrowski,44646,Illinois
+2019,01/25,Iowa - Illinois Dual,125,L,FALL,6:06,Spencer Lee,49146,Iowa,Travis Piotrowski,44646,Illinois
+2019,01/12,Illinois - Michigan Dual,125,W,DEC,3 - 2,Drew Mattin,49180,Michigan,Travis Piotrowski,44646,Illinois
+2019,01/11,Illinois - Michigan State Dual,125,L,DEC,6 - 1,Rayvon Foley,50823,Michigan State,Travis Piotrowski,44646,Illinois
+2019,12/29,Midlands Championships,125,W,MFOR,0 - 0,Justin Cardani,51687,Illinois,Travis Piotrowski,44646,Illinois
+2019,12/29,Midlands Championships,125,W,DEC,5 - 0,Kyle Biscoglia,51109,Northern Iowa,Travis Piotrowski,44646,Illinois
+2019,12/29,Midlands Championships,125,L,TF5,17 - 1 7:00,Patrick Glory,51100,Princeton,Travis Piotrowski,44646,Illinois
+2019,12/29,Midlands Championships,125,W,MFOR,0 - 0,Joey Melendez,50805,North Carolina,Travis Piotrowski,44646,Illinois
+2019,12/29,Midlands Championships,125,L,DEC,8 - 4,Connor Brown,49321,Wisconsin,Travis Piotrowski,44646,Illinois
+2019,12/29,Midlands Championships,125,W,DEC,5 - 1,Jacob Schwarm,39750,Northern Iowa,Travis Piotrowski,44646,Illinois
+2019,12/29,Midlands Championships,125,W,DEC,8 - 1,Ryan Hetrick,45638,Army West Point,Travis Piotrowski,44646,Illinois
+2019,12/07,Illinois - Northern Illinois Dual,125,W,DEC,5 - 4,Bryce West,50039,Northern Illinois,Travis Piotrowski,44646,Illinois
+2019,11/30,Cliff Keen Invitational,125,L,DEC,3 - 2,Drew Mattin,49180,Michigan,Travis Piotrowski,44646,Illinois
+2019,11/30,Cliff Keen Invitational,125,W,MFOR,0 - 0,Colby Smith,44996,Missouri,Travis Piotrowski,44646,Illinois
+2019,11/30,Cliff Keen Invitational,125,W,DEC,5 - 3,Devin Schroder,44591,Purdue,Travis Piotrowski,44646,Illinois
+2019,11/30,Cliff Keen Invitational,125,W,DEC,9 - 7,Cole Verner,41722,Wyoming,Travis Piotrowski,44646,Illinois
+2019,11/30,Cliff Keen Invitational,125,L,DEC,2 - 0,Sean Russell,20727,Minnesota,Travis Piotrowski,44646,Illinois
+2019,11/30,Cliff Keen Invitational,125,L,DEC,4 - 0,Brent Fleetwood,19750,North Dakota State,Travis Piotrowski,44646,Illinois
+2019,11/30,Cliff Keen Invitational,125,W,DEC,4 - 0,Dominic LaJoie,49112,Cornell,Travis Piotrowski,44646,Illinois
+2019,12/29,Midlands Championships,125,L,MFOR,0 - 0,Travis Piotrowski,44646,Illinois,Justin Cardani,51687,Illinois
+2019,12/29,Midlands Championships,125,L,MD,10 - 0,Patrick Glory,51100,Princeton,Justin Cardani,51687,Illinois
+2019,12/29,Midlands Championships,125,L,DEC,7 - 0,Connor Brown,49321,Wisconsin,Justin Cardani,51687,Illinois
+2019,12/29,Midlands Championships,125,W,DEC,2 - 1,Brandon Cray,44681,Maryland,Justin Cardani,51687,Illinois
+2019,12/29,Midlands Championships,125,W,DEC,4 - 2,Perez Perez,40132,Iowa,Justin Cardani,51687,Illinois
+2019,12/29,Midlands Championships,125,W,DEC,3 - 2,Elijah Oliver,39583,Indiana,Justin Cardani,51687,Illinois
+2019,12/29,Midlands Championships,125,W,DEC,8 - 7,Brandon Courtney,50881,Arizona State,Justin Cardani,51687,Illinois
+2019,12/29,Midlands Championships,125,W,INJ,7:00,Ryan Millhof,20815,Arizona State,Justin Cardani,51687,Illinois
+2019,12/08,UNI Open,125,W,TF5,16 - 1 7:00,Tom Dineen,60175,Unattached,Justin Cardani,51687,Illinois
+2019,12/08,UNI Open,125,W,DEC,3 - 2,Corey Cabanban,57236,Iowa State,Justin Cardani,51687,Illinois
+2019,12/08,UNI Open,125,L,DEC,8 - 3,Kyle Biscoglia,51109,Northern Iowa,Justin Cardani,51687,Illinois
+2019,12/08,UNI Open,125,W,DEC,7 - 1,Gage Datlovsky,45290,SIU Edwardsville,Justin Cardani,51687,Illinois
+2019,12/08,UNI Open,125,W,MFOR,0 - 0,Skyler Petry,20045,Minnesota,Justin Cardani,51687,Illinois
+2019,12/08,UNI Open,125,L,DEC,5 - 1,Skyler Petry,20045,Minnesota,Justin Cardani,51687,Illinois
+2019,11/17,Lindenwood Open,125,W,DEC,8 - 3,Austin Macias,57088,SIU Edwardsville,Justin Cardani,51687,Illinois
+2019,11/17,Lindenwood Open,125,W,DEC,4 - 3,Tyler Kreith,51944,Maryville University,Justin Cardani,51687,Illinois
+2019,11/17,Lindenwood Open,125,L,DEC,8 - 6,Malik Heinselman,50611,Ohio State,Justin Cardani,51687,Illinois
+2019,11/17,Lindenwood Open,125,W,DEC,8 - 7,Cameron Valdiviez,49029,Missouri,Justin Cardani,51687,Illinois
+2019,11/17,Lindenwood Open,125,L,MD,13 - 4,Cameron Valdiviez,49029,Missouri,Justin Cardani,51687,Illinois
+2019,11/10,Maryville Open,125,W,DEC,4 - 0,Robert Rosser,58773,Missouri Valley,Justin Cardani,51687,Illinois
+2019,11/10,Maryville Open,125,W,FALL,4:38,Terrin Machart,56675,Purdue,Justin Cardani,51687,Illinois
+2019,11/10,Maryville Open,125,W,DEC,4 - 2,Cevion Severado,51610,Missouri,Justin Cardani,51687,Illinois
+2019,11/10,Maryville Open,125,W,DEC,7 - 3,Weston DiBlasi,50590,Missouri,Justin Cardani,51687,Illinois
+2019,11/10,Maryville Open,125,W,TF5,16 - 0 7:00,Hayden Williams,58779,Missouri Valley,Dane Durlacher,56817,Illinois
+2019,11/10,Maryville Open,125,L,DEC,7 - 4,Robert Rosser,58773,Missouri Valley,Dane Durlacher,56817,Illinois
+2019,11/10,Maryville Open,125,W,MD,9 - 1,Adam Bender,57529,Kentucky Wesleyan,Dane Durlacher,56817,Illinois
+2019,11/10,Maryville Open,125,W,DEC,4 - 3,Joe Lupton,56531,Hannibal-LaGrange,Dane Durlacher,56817,Illinois
+2019,11/10,Maryville Open,125,L,DEC,9 - 5,Anthony Pisciotta,52536,Maryville University,Dane Durlacher,56817,Illinois
+2019,11/10,Maryville Open,125,L,DEC,15 - 10,Anthony Pisciotta,52536,Maryville University,Dane Durlacher,56817,Illinois
+2019,02/17,Penn State - Illinois Dual,133,L,DEC,6 - 4,Scott Stossel,40229,Penn State,Josh Contreras,50857,Illinois
+2019,11/10,Maryville Open,125,L,DEC,4 - 1,Tyler Kreith,51944,Maryville University,Josh Contreras,50857,Illinois
+2019,11/10,Maryville Open,125,W,DEC,5 - 4,Dj Smith,44342,Indianapolis,Josh Contreras,50857,Illinois
+2019,11/10,Maryville Open,125,L,FALL,2:28,Carlos Jacquez,41156,Lindenwood,Josh Contreras,50857,Illinois
+2019,11/10,Maryville Open,125,W,DEC,9 - 2,Lamont Wilson,40859,Kentucky Wesleyan,Josh Contreras,50857,Illinois
+2019,11/03,Missouri - Illinois Dual,125,L,TF5,15 - 0 7:00,Colby Smith,44996,Missouri,Josh Contreras,50857,Illinois
+2019,03/21,NCAA Championships,133,L,DEC,7 - 5,Devan Turner,45397,Oregon State,Dylan Duncan,44647,Illinois
+2019,03/21,NCAA Championships,133,L,MD,12 - 3,Nick Suriano,44648,Rutgers,Dylan Duncan,44647,Illinois
+2019,03/09,Big Ten Championships,133,L,DEC,3 - 2,Roman Bravo-Young,49665,Penn State,Dylan Duncan,44647,Illinois
+2019,03/09,Big Ten Championships,133,W,DEC,6 - 3,Colin Valdiviez,49244,Northwestern,Dylan Duncan,44647,Illinois
+2019,03/09,Big Ten Championships,133,L,SV-1,3 - 1,Ben Thornton,20350,Purdue,Dylan Duncan,44647,Illinois
+2019,03/09,Big Ten Championships,133,L,DEC,9 - 4,Stevan Micic,20223,Michigan,Dylan Duncan,44647,Illinois
+2019,03/09,Big Ten Championships,133,W,SV-1,3 - 1,Anthony Tutolo,19968,Michigan State,Dylan Duncan,44647,Illinois
+2019,02/15,Illinois - Northwestern Dual,133,W,TB-1,6 - 5,Colin Valdiviez,49244,Northwestern,Dylan Duncan,44647,Illinois
+2019,02/10,Illinois - Wisconsin Dual,133,L,DEC,5 - 4,Jens Lantz,20484,Wisconsin,Dylan Duncan,44647,Illinois
+2019,02/01,Ohio State - Illinois Dual,133,L,DEC,3 - 2,Luke Pletcher,44636,Ohio State,Dylan Duncan,44647,Illinois
+2019,01/27,Illinois - Nebraska Dual,133,W,DEC,10 - 7,Jevon Parrish,51235,Nebraska,Dylan Duncan,44647,Illinois
+2019,01/25,Iowa - Illinois Dual,133,L,SV-1,3 - 1,Paul Glynn,39535,Iowa,Dylan Duncan,44647,Illinois
+2019,01/18,Minnesota - Illinois Dual,133,L,DEC,12 - 9,Ethan Lizak,20040,Minnesota,Dylan Duncan,44647,Illinois
+2019,01/12,Illinois - Michigan Dual,133,L,MD,18 - 8,Stevan Micic,20223,Michigan,Dylan Duncan,44647,Illinois
+2019,01/11,Illinois - Michigan State Dual,133,W,DEC,7 - 5,Anthony Tutolo,19968,Michigan State,Dylan Duncan,44647,Illinois
+2019,12/29,Midlands Championships,133,W,DEC,11 - 5,Bobby Jordan,57853,Johnson & Wales,Dylan Duncan,44647,Illinois
+2019,12/29,Midlands Championships,133,W,DEC,9 - 6,Colin Valdiviez,49244,Northwestern,Dylan Duncan,44647,Illinois
+2019,12/29,Midlands Championships,133,L,DEC,8 - 5,Zach Sherman,49216,North Carolina,Dylan Duncan,44647,Illinois
+2019,12/29,Midlands Championships,133,L,DQ,0 - 0,Austin DeSanto,49117,Iowa,Dylan Duncan,44647,Illinois
+2019,12/29,Midlands Championships,133,L,MFOR,0 - 0,Paul Glynn,39535,Iowa,Dylan Duncan,44647,Illinois
+2019,12/29,Midlands Championships,133,W,DEC,6 - 2,Lukus Stricker,49139,Harvard,Dylan Duncan,44647,Illinois
+2019,12/07,Illinois - Northern Illinois Dual,133,W,FALL,2:07,Alijah Jeffery,20204,Northern Illinois,Dylan Duncan,44647,Illinois
+2019,11/30,Cliff Keen Invitational,133,W,DEC,4 - 1,Anthony Madrigal,50633,Oklahoma,Dylan Duncan,44647,Illinois
+2019,11/30,Cliff Keen Invitational,133,W,MD,12 - 4,Colin Valdiviez,49244,Northwestern,Dylan Duncan,44647,Illinois
+2019,11/30,Cliff Keen Invitational,133,L,DEC,4 - 3,Korbin Myers,39637,Virginia Tech,Dylan Duncan,44647,Illinois
+2019,11/30,Cliff Keen Invitational,133,W,FALL,2:30,Lukus Stricker,49139,Harvard,Dylan Duncan,44647,Illinois
+2019,11/30,Cliff Keen Invitational,133,W,DEC,9 - 2,Ty Smith,52110,Drexel,Dylan Duncan,44647,Illinois
+2019,11/30,Cliff Keen Invitational,133,L,DEC,5 - 3,Chaz Tucker,39771,Cornell,Dylan Duncan,44647,Illinois
+2019,02/17,Penn State - Illinois Dual,141,L,TF5,18 - 2 3:51,Nick Lee,49276,Penn State,Abdullah Assaf,50139,Illinois
+2019,02/15,Illinois - Northwestern Dual,141,L,DEC,7 - 4,Alec McKenna,39584,Northwestern,Abdullah Assaf,50139,Illinois
+2019,12/29,Midlands Championships,133,W,FALL,1:56,Lukus Stricker,49139,Harvard,Abdullah Assaf,50139,Illinois
+2019,12/29,Midlands Championships,133,L,DEC,13 - 8,Noah Gonser,40087,Campbell,Abdullah Assaf,50139,Illinois
+2019,12/29,Midlands Championships,133,W,MD,12 - 4,David Campbell,49061,Bucknell,Abdullah Assaf,50139,Illinois
+2019,12/29,Midlands Championships,133,L,DEC,15 - 9,Josiah Kline,45924,Arizona State,Abdullah Assaf,50139,Illinois
+2019,12/07,Illinois - Northern Illinois Dual,141,L,DEC,5 - 3,Anthony Cheloni,53565,Northern Illinois,Abdullah Assaf,50139,Illinois
+2019,11/03,Missouri - Illinois Dual,133,L,MD,13 - 0,John Erneste,20058,Missouri,Abdullah Assaf,50139,Illinois
+2019,11/17,Lindenwood Open,133,L,DEC,9 - 3,Charles McNeal,47180,McKendree University,Andy O'Brien,50858,Illinois
+2019,11/17,Lindenwood Open,133,L,MD,19 - 9,Todd Small,45992,Iowa State,Andy O'Brien,50858,Illinois
+2019,11/10,Maryville Open,133,L,DEC,5 - 4,Kolby Smith,49875,Maryville University,Andy O'Brien,50858,Illinois
+2019,11/10,Maryville Open,133,L,DEC,7 - 2,Alex Waggoner,43459,Maryville University,Andy O'Brien,50858,Illinois
+2019,03/21,NCAA Championships,141,L,FALL,2:19,Matthew Findlay,45366,Utah Valley,Mike Carr,44645,Illinois
+2019,03/21,NCAA Championships,141,W,DEC,10 - 4,AC Headlee,39627,North Carolina,Mike Carr,44645,Illinois
+2019,03/21,NCAA Championships,141,L,DEC,4 - 3,Max Murin,49148,Iowa,Mike Carr,44645,Illinois
+2019,03/21,NCAA Championships,141,W,DEC,8 - 2,Anthony Sparacio,47621,Binghamton,Mike Carr,44645,Illinois
+2019,03/09,Big Ten Championships,141,L,DEC,8 - 4,Chad Red,44683,Nebraska,Mike Carr,44645,Illinois
+2019,03/09,Big Ten Championships,141,W,DEC,6 - 2,Nate Limmex,39663,Purdue,Mike Carr,44645,Illinois
+2019,03/09,Big Ten Championships,141,L,DEC,9 - 4,Tristan Moran,39545,Wisconsin,Mike Carr,44645,Illinois
+2019,03/09,Big Ten Championships,141,L,DEC,3 - 1,Max Murin,49148,Iowa,Mike Carr,44645,Illinois
+2019,02/10,Illinois - Wisconsin Dual,141,W,DEC,2 - 1,Tristan Moran,39545,Wisconsin,Mike Carr,44645,Illinois
+2019,02/01,Ohio State - Illinois Dual,141,W,TF5,20 - 5 5:47,Clay Ragon,45201,Ohio State,Mike Carr,44645,Illinois
+2019,01/27,Illinois - Nebraska Dual,141,W,TB-1,4 - 3,Chad Red,44683,Nebraska,Mike Carr,44645,Illinois
+2019,01/25,Iowa - Illinois Dual,141,W,DEC,6 - 4,Max Murin,49148,Iowa,Mike Carr,44645,Illinois
+2019,01/18,Minnesota - Illinois Dual,141,W,DEC,5 - 2,Mitch McKee,45139,Minnesota,Mike Carr,44645,Illinois
+2019,01/12,Illinois - Michigan Dual,141,W,DEC,3 - 2,Kanen Storr,44714,Michigan,Mike Carr,44645,Illinois
+2019,01/11,Illinois - Michigan State Dual,141,W,DEC,6 - 4,Austin Eicher,20200,Michigan State,Mike Carr,44645,Illinois
+2019,11/30,Cliff Keen Invitational,141,W,MD,12 - 3,Dalton Young,49328,Stanford,Mike Carr,44645,Illinois
+2019,11/30,Cliff Keen Invitational,141,L,MFOR,0 - 0,Dominick Demas,49256,Oklahoma,Mike Carr,44645,Illinois
+2019,11/30,Cliff Keen Invitational,141,W,MD,14 - 3,Sam Turner,45009,Wyoming,Mike Carr,44645,Illinois
+2019,11/30,Cliff Keen Invitational,141,L,DEC,5 - 2,Jaydin Eierman,39508,Missouri,Mike Carr,44645,Illinois
+2019,11/30,Cliff Keen Invitational,141,L,MFOR,0 - 0,Josh Alber,20208,Northern Iowa,Mike Carr,44645,Illinois
+2019,11/30,Cliff Keen Invitational,141,W,DEC,8 - 3,Colin Realbuto,56797,Brown,Mike Carr,44645,Illinois
+2019,11/30,Cliff Keen Invitational,141,W,DEC,6 - 2,Garrett O'Shea,44711,Air Force,Mike Carr,44645,Illinois
+2019,11/03,Missouri - Illinois Dual,141,L,DEC,12 - 10,Jaydin Eierman,39508,Missouri,Mike Carr,44645,Illinois
+2019,03/09,Big Ten Championships,149,L,DEC,3 - 1,Jaden Enriquez,49186,Michigan State,Christian Kanzler,53194,Illinois
+2019,03/09,Big Ten Championships,149,L,FALL,2:35,Cole Martin,39773,Wisconsin,Christian Kanzler,53194,Illinois
+2019,02/17,Penn State - Illinois Dual,149,L,MD,15 - 4,Brady Berge,49277,Penn State,Christian Kanzler,53194,Illinois
+2019,02/15,Illinois - Northwestern Dual,149,W,DEC,9 - 6,Shayne Oster,44820,Northwestern,Christian Kanzler,53194,Illinois
+2019,02/10,Illinois - Wisconsin Dual,149,L,DEC,7 - 1,Cole Martin,39773,Wisconsin,Christian Kanzler,53194,Illinois
+2019,02/01,Ohio State - Illinois Dual,149,L,TF5,27 - 12 6:30,Micah Jordan,20557,Ohio State,Christian Kanzler,53194,Illinois
+2019,01/27,Illinois - Nebraska Dual,149,L,DEC,7 - 3,Jordan Shearer,39602,Nebraska,Christian Kanzler,53194,Illinois
+2019,01/18,Minnesota - Illinois Dual,149,L,MD,11 - 0,Thomas Thorn,21082,Minnesota,Christian Kanzler,53194,Illinois
+2019,01/12,Illinois - Michigan Dual,149,L,DEC,4 - 0,Malik Amine,14753,Michigan,Christian Kanzler,53194,Illinois
+2019,01/11,Illinois - Michigan State Dual,149,W,DEC,8 - 4,Jaden Enriquez,49186,Michigan State,Christian Kanzler,53194,Illinois
+2019,12/29,Midlands Championships,149,L,DEC,5 - 1,Shayne Oster,44820,Northwestern,Christian Kanzler,53194,Illinois
+2019,12/29,Midlands Championships,149,L,DEC,9 - 5,Tres Leon,42941,Cumberlands,Christian Kanzler,53194,Illinois
+2019,12/29,Midlands Championships,149,W,MFOR,0 - 0,Ryan Diehl,40240,Maryland,Christian Kanzler,53194,Illinois
+2019,12/29,Midlands Championships,149,W,MFOR,0 - 0,Cole Aaron,44902,Franklin & Marshall,Christian Kanzler,53194,Illinois
+2019,12/07,Illinois - Northern Illinois Dual,149,L,TB-1,4 - 2,McCoy Kent,39791,Northern Illinois,Christian Kanzler,53194,Illinois
+2019,11/30,Cliff Keen Invitational,149,L,DEC,5 - 1,Robert Lee,39975,Pittsburgh,Christian Kanzler,53194,Illinois
+2019,11/30,Cliff Keen Invitational,149,L,DEC,14 - 7,Davion Jeffries,39653,Oklahoma,Christian Kanzler,53194,Illinois
+2019,11/03,Missouri - Illinois Dual,149,L,DQ,0 - 0,Grant Leeth,19866,Missouri,Christian Kanzler,53194,Illinois
+2019,01/25,Iowa - Illinois Dual,149,L,MD,14 - 4,Patricio Lugo,39919,Iowa,Mousa Jodeh,40308,Illinois
+2019,12/29,Midlands Championships,149,L,MD,17 - 3,Matt Kolodzik,45071,Princeton,Mousa Jodeh,40308,Illinois
+2019,12/29,Midlands Championships,149,L,DEC,14 - 11,Cole Aaron,44902,Franklin & Marshall,Mousa Jodeh,40308,Illinois
+2019,12/08,UNI Open,149,W,TF5,17 - 2 7:00,Weston Wichman,58537,Unattached,Mousa Jodeh,40308,Illinois
+2019,12/08,UNI Open,149,W,TF5,16 - 0 7:00,Gable Fox,50832,Northern Iowa,Mousa Jodeh,40308,Illinois
+2019,12/08,UNI Open,149,L,MD,11 - 0,Jake Bergeland,49189,Minnesota,Mousa Jodeh,40308,Illinois
+2019,12/08,UNI Open,149,L,DEC,7 - 0,Henry Pohlmeyer,39803,South Dakota State,Mousa Jodeh,40308,Illinois
+2019,11/17,Lindenwood Open,149,W,FALL,1:42,Graham Rooks,51283,Indiana,Mousa Jodeh,40308,Illinois
+2019,11/17,Lindenwood Open,149,W,DEC,4 - 2,Jacob Silzer,44889,Illinois,Mousa Jodeh,40308,Illinois
+2019,11/17,Lindenwood Open,149,W,MFOR,0 - 0,Gavin DeWitt,44604,Maryville University,Mousa Jodeh,40308,Illinois
+2019,11/17,Lindenwood Open,149,L,DEC,6 - 2,Isaiah Kemper,41173,McKendree University,Mousa Jodeh,40308,Illinois
+2019,11/17,Lindenwood Open,149,L,DEC,6 - 2,Tyshawn Williams,40203,SIU Edwardsville,Mousa Jodeh,40308,Illinois
+2019,11/10,Maryville Open,149,L,DEC,8 - 4,Lawyer Beckum,58763,Drury University,Mousa Jodeh,40308,Illinois
+2019,11/10,Maryville Open,149,L,TB-1,2 - 1,Gavin Londoff,44823,Lindenwood,Mousa Jodeh,40308,Illinois
+2019,11/10,Maryville Open,149,W,FALL,2:47,Seth Johnson,42458,Missouri Valley,Mousa Jodeh,40308,Illinois
+2019,11/17,Lindenwood Open,149,L,DEC,4 - 2,Mousa Jodeh,40308,Illinois,Jacob Silzer,44889,Illinois
+2019,11/17,Lindenwood Open,149,W,DEC,2 - 0,Eric Yang,46554,Northwestern,Jacob Silzer,44889,Illinois
+2019,11/17,Lindenwood Open,149,L,DEC,4 - 1,Gavin Londoff,44823,Lindenwood,Jacob Silzer,44889,Illinois
+2019,11/17,Lindenwood Open,149,W,DEC,4 - 1,Juan Rivera,21210,Baker,Jacob Silzer,44889,Illinois
+2019,11/10,Maryville Open,149,L,DEC,6 - 5,Demarius Smith,50859,Illinois,Jacob Silzer,44889,Illinois
+2019,11/10,Maryville Open,149,L,DEC,8 - 2,Brock Mauller,50596,Missouri,Jacob Silzer,44889,Illinois
+2019,11/10,Maryville Open,149,W,DEC,4 - 3,Isaiah Kemper,41173,McKendree University,Jacob Silzer,44889,Illinois
+2019,11/17,Lindenwood Open,149,W,DEC,6 - 2,Casper Sherow,59419,Missouri Valley,Demarius Smith,50859,Illinois
+2019,11/17,Lindenwood Open,149,L,TF5,20 - 4 7:00,Brock Mauller,50596,Missouri,Demarius Smith,50859,Illinois
+2019,11/17,Lindenwood Open,149,L,DEC,1 - 0,Gavin Londoff,44823,Lindenwood,Demarius Smith,50859,Illinois
+2019,11/10,Maryville Open,149,W,FALL,4:31,Raivyn Alicea,58762,Unattached,Demarius Smith,50859,Illinois
+2019,11/10,Maryville Open,149,W,MD,12 - 2,Bryce Bachowski,52524,Missouri Baptist,Demarius Smith,50859,Illinois
+2019,11/10,Maryville Open,149,W,DEC,6 - 5,Jacob Silzer,44889,Illinois,Demarius Smith,50859,Illinois
+2019,11/10,Maryville Open,149,L,MD,11 - 1,Gavin DeWitt,44604,Maryville University,Demarius Smith,50859,Illinois
+2019,11/10,Maryville Open,149,L,DEC,4 - 3,Isaiah Kemper,41173,McKendree University,Demarius Smith,50859,Illinois
+2019,11/10,Maryville Open,149,L,MFOR,0 - 0,Payton Price,58772,Westminster,Baan Rachal,56821,Illinois
+2019,11/10,Maryville Open,149,W,TF5,15 - 0 7:00,Jason Johnson,58768,Unattached,Baan Rachal,56821,Illinois
+2019,11/10,Maryville Open,149,W,FALL,2:36,Kendall Biddle,58764,Cowley College,Baan Rachal,56821,Illinois
+2019,11/10,Maryville Open,149,L,FALL,3:48,Anthony Michaels,56991,Lindenwood,Baan Rachal,56821,Illinois
+2019,11/17,Lindenwood Open,149,W,MD,19 - 6,Ryan Surguy,54748,Marian University,Eddie Ordonez,56820,Illinois
+2019,11/17,Lindenwood Open,149,W,TF5,17 - 2 7:00,Houston Hemingsen,58121,Davenport,Eddie Ordonez,56820,Illinois
+2019,11/17,Lindenwood Open,149,L,DEC,7 - 2,Anthony Gibson,56508,Northern Illinois,Eddie Ordonez,56820,Illinois
+2019,11/17,Lindenwood Open,149,L,FALL,5:34,Zachary Axmear,50001,Iowa,Eddie Ordonez,56820,Illinois
+2019,11/10,Maryville Open,149,L,FALL,4:30,Sean Sax,58774,Westminster,Eddie Ordonez,56820,Illinois
+2019,11/10,Maryville Open,149,W,DEC,9 - 4,Payton Price,58772,Westminster,Eddie Ordonez,56820,Illinois
+2019,11/10,Maryville Open,149,L,FALL,4:16,Justin West,58136,Findlay,Eddie Ordonez,56820,Illinois
+2019,11/10,Maryville Open,149,W,DEC,5 - 3,Trace Manspeaker,53964,Indianapolis,Eddie Ordonez,56820,Illinois
+2019,11/10,Maryville Open,149,W,FALL,2:43,Colin Harper,52556,Drury University,Eddie Ordonez,56820,Illinois
+2019,11/17,Lindenwood Open,149,L,DEC,11 - 4,Graham Rooks,51283,Indiana,Ryder Punke,45127,Illinois
+2019,11/17,Lindenwood Open,149,L,DEC,9 - 4,Isaiah Kemper,41173,McKendree University,Ryder Punke,45127,Illinois
+2019,11/10,Maryville Open,149,W,DEC,3 - 1,Ryan Skonieczny,58776,Findlay,Ryder Punke,45127,Illinois
+2019,11/10,Maryville Open,149,L,DEC,4 - 3,Seth Johnson,42458,Missouri Valley,Ryder Punke,45127,Illinois
+2019,11/10,Maryville Open,149,L,DEC,6 - 1,Alexander Butler,39647,Missouri,Ryder Punke,45127,Illinois
+2019,03/21,NCAA Championships,157,W,DEC,6 - 3,Brian LaPrade,45112,Virginia Tech,Eric Barone,39566,Illinois
+2019,03/21,NCAA Championships,157,L,TB-2,3 - 2,Steve Bleise,20195,Minnesota,Eric Barone,39566,Illinois
+2019,03/21,NCAA Championships,157,L,FALL,6:07,Tyler Berger,20096,Nebraska,Eric Barone,39566,Illinois
+2019,03/21,NCAA Championships,157,W,DEC,5 - 3,Logan Parks,40153,Central Michigan,Eric Barone,39566,Illinois
+2019,03/09,Big Ten Championships,157,W,MD,10 - 2,Garrett Model,49351,Wisconsin,Eric Barone,39566,Illinois
+2019,03/09,Big Ten Championships,157,W,TB-1,5 - 4,Griffin Parriott,44608,Purdue,Eric Barone,39566,Illinois
+2019,03/09,Big Ten Championships,157,L,DEC,5 - 2,Griffin Parriott,44608,Purdue,Eric Barone,39566,Illinois
+2019,03/09,Big Ten Championships,157,L,DEC,3 - 1,Ke-Shawn Hayes,39609,Ohio State,Eric Barone,39566,Illinois
+2019,03/09,Big Ten Championships,157,L,FALL,2:14,Jason Nolf,20303,Penn State,Eric Barone,39566,Illinois
+2019,02/17,Penn State - Illinois Dual,157,L,INJ,7:00,Jason Nolf,20303,Penn State,Eric Barone,39566,Illinois
+2019,02/15,Illinois - Northwestern Dual,157,L,DEC,6 - 1,Ryan Deakin,44716,Northwestern,Eric Barone,39566,Illinois
+2019,02/10,Illinois - Wisconsin Dual,157,W,DEC,15 - 13,Garrett Model,49351,Wisconsin,Eric Barone,39566,Illinois
+2019,02/01,Ohio State - Illinois Dual,157,L,SV-1,3 - 1,Ke-Shawn Hayes,39609,Ohio State,Eric Barone,39566,Illinois
+2019,01/27,Illinois - Nebraska Dual,157,L,FALL,6:37,Tyler Berger,20096,Nebraska,Eric Barone,39566,Illinois
+2019,01/25,Iowa - Illinois Dual,157,W,SV-1,3 - 1,Kaleb Young,44572,Iowa,Eric Barone,39566,Illinois
+2019,01/18,Minnesota - Illinois Dual,157,L,FALL,6:17,Steve Bleise,20195,Minnesota,Eric Barone,39566,Illinois
+2019,01/12,Illinois - Michigan Dual,157,L,DEC,10 - 3,Alec Pantaleo,20020,Michigan,Eric Barone,39566,Illinois
+2019,01/11,Illinois - Michigan State Dual,157,W,DEC,2 - 1,Jacob Tucker,44639,Michigan State,Eric Barone,39566,Illinois
+2019,12/29,Midlands Championships,157,L,DEC,9 - 3,Ryan Deakin,44716,Northwestern,Eric Barone,39566,Illinois
+2019,12/29,Midlands Championships,157,W,DEC,6 - 2,Mike D'angelo,43678,NJRTC,Eric Barone,39566,Illinois
+2019,12/29,Midlands Championships,157,W,DEC,10 - 3,Mike D'angelo,43678,NJRTC,Eric Barone,39566,Illinois
+2019,12/29,Midlands Championships,157,L,SV-1,3 - 1,Jaren Glosser,41095,Iowa,Eric Barone,39566,Illinois
+2019,12/29,Midlands Championships,157,W,DEC,9 - 8,Joe Oliva,20318,Pennsylvania,Eric Barone,39566,Illinois
+2019,12/29,Midlands Championships,157,W,DEC,6 - 0,Adam Whitesell,20016,Maryland,Eric Barone,39566,Illinois
+2019,12/07,Illinois - Northern Illinois Dual,157,W,DEC,8 - 4,Mason Kauffman,49128,Northern Illinois,Eric Barone,39566,Illinois
+2019,11/30,Cliff Keen Invitational,157,W,DEC,4 - 2,Jarrett Jacques,50597,Missouri,Eric Barone,39566,Illinois
+2019,11/30,Cliff Keen Invitational,157,W,DEC,4 - 0,Hunter Willits,49272,Oregon State,Eric Barone,39566,Illinois
+2019,11/30,Cliff Keen Invitational,157,L,MD,12 - 4,Taleb Rahmani,40082,Pittsburgh,Eric Barone,39566,Illinois
+2019,11/30,Cliff Keen Invitational,157,W,DEC,2 - 1,Ke-Shawn Hayes,39609,Ohio State,Eric Barone,39566,Illinois
+2019,11/30,Cliff Keen Invitational,157,L,DEC,5 - 1,Tyler Berger,20096,Nebraska,Eric Barone,39566,Illinois
+2019,11/30,Cliff Keen Invitational,157,W,FALL,8:00,Christian LaBrie,19701,Brown,Eric Barone,39566,Illinois
+2019,11/17,Lindenwood Open,157,W,DEC,9 - 5,Ethan Karsten,44903,Iowa Central Community College,Eric Barone,39566,Illinois
+2019,11/17,Lindenwood Open,157,L,MFOR,0 - 0,Tyler Mann,52228,Ouachita Baptist University,Eric Barone,39566,Illinois
+2019,11/17,Lindenwood Open,157,L,MFOR,0 - 0,Erich Byelick,50837,Northwestern,Eric Barone,39566,Illinois
+2019,11/17,Lindenwood Open,157,W,FALL,1:55,Chris Gillesse,42266,McKendree University,Eric Barone,39566,Illinois
+2019,11/17,Lindenwood Open,157,L,FALL,6:35,Jaren Glosser,41095,Iowa,Eric Barone,39566,Illinois
+2019,11/17,Lindenwood Open,157,W,DEC,12 - 5,Preston Stephenson,41075,Iowa,Eric Barone,39566,Illinois
+2019,11/03,Missouri - Illinois Dual,157,W,DEC,9 - 2,Lane Stigall,49196,Missouri,Eric Barone,39566,Illinois
+2019,12/08,UNI Open,157,L,DEC,8 - 2,Chase Straw,39610,Iowa State,Johnny Mologousis,49144,Illinois
+2019,12/08,UNI Open,157,W,DEC,6 - 1,Isaiah Patton,39553,Northern Iowa,Johnny Mologousis,49144,Illinois
+2019,12/08,UNI Open,157,L,DEC,5 - 2,Devin Bahr,49349,Wisconsin,Johnny Mologousis,49144,Illinois
+2019,11/17,Lindenwood Open,157,L,DEC,10 - 6,Ethan Karsten,44903,Iowa Central Community College,Johnny Mologousis,49144,Illinois
+2019,11/17,Lindenwood Open,157,W,DEC,5 - 0,Marcus Thompson,51950,Missouri Valley,Johnny Mologousis,49144,Illinois
+2019,11/17,Lindenwood Open,157,W,TF5,16 - 0 7:00,Nick Mcghee,42243,Maryville University,Johnny Mologousis,49144,Illinois
+2019,11/17,Lindenwood Open,157,L,DEC,9 - 5,Jaren Glosser,41095,Iowa,Johnny Mologousis,49144,Illinois
+2019,11/10,Maryville Open,157,W,DEC,4 - 3,Jarrett Jacques,50597,Missouri,Johnny Mologousis,49144,Illinois
+2019,11/10,Maryville Open,157,W,MD,14 - 0,James Wimer,46493,Findlay,Johnny Mologousis,49144,Illinois
+2019,11/10,Maryville Open,157,W,DEC,4 - 0,Nate Smalling,44331,McKendree University,Johnny Mologousis,49144,Illinois
+2019,11/10,Maryville Open,157,W,FALL,2:56,Matt Pratt,42252,Maryville University,Johnny Mologousis,49144,Illinois
+2019,11/10,Maryville Open,149,L,MD,18 - 4,Brock Mauller,50596,Missouri,Dylan Thurston,44815,Illinois
+2019,11/10,Maryville Open,149,L,MFOR,0 - 0,Isaiah Kemper,41173,McKendree University,Dylan Thurston,44815,Illinois
+2019,12/08,UNI Open,157,L,FALL,5:38,Ethan Karsten,44903,Iowa Central Community College,Kenny Kerstein,56819,Illinois
+2019,12/08,UNI Open,157,L,FALL,6:36,Cayd Lara,54225,Northern Iowa,Kenny Kerstein,56819,Illinois
+2019,11/17,Lindenwood Open,157,L,DEC,5 - 2,Justin Peterson,52367,Northeastern Oklahoma,Kenny Kerstein,56819,Illinois
+2019,11/17,Lindenwood Open,157,L,DEC,10 - 4,Tanner Sparks,51949,Maryville University,Kenny Kerstein,56819,Illinois
+2019,11/10,Maryville Open,157,W,DEC,7 - 2,Joseph Stegall,58777,Missouri Baptist,Kenny Kerstein,56819,Illinois
+2019,11/10,Maryville Open,157,L,DEC,8 - 4,Blaze Lowery,58771,Indianapolis,Kenny Kerstein,56819,Illinois
+2019,11/10,Maryville Open,157,W,DEC,14 - 7,Gabe Capp,58023,Cowley College,Kenny Kerstein,56819,Illinois
+2019,11/10,Maryville Open,157,L,FALL,0:34,Nathan Trepanier,49440,Lindenwood,Kenny Kerstein,56819,Illinois
+2019,03/21,NCAA Championships,165,L,DEC,13 - 7,Gordon Wolf,19992,Lehigh,Joey Gunther,39725,Illinois
+2019,03/21,NCAA Championships,165,W,TB-2,5 - 4,Cael McCormick,44622,Army West Point,Joey Gunther,39725,Illinois
+2019,03/21,NCAA Championships,165,W,DEC,6 - 3,Zach Finesilver,19862,Duke,Joey Gunther,39725,Illinois
+2019,03/21,NCAA Championships,165,L,DEC,5 - 1,Isaiah White,47106,Nebraska,Joey Gunther,39725,Illinois
+2019,03/09,Big Ten Championships,165,L,DEC,7 - 4,Tyler Morland,49243,Northwestern,Joey Gunther,39725,Illinois
+2019,03/09,Big Ten Championships,165,W,DEC,7 - 3,Austin Hiles,44866,Michigan State,Joey Gunther,39725,Illinois
+2019,03/09,Big Ten Championships,165,W,TB-2,3 - 2,Carson Brolsma,39549,Minnesota,Joey Gunther,39725,Illinois
+2019,03/09,Big Ten Championships,165,L,DEC,3 - 1,Carson Brolsma,39549,Minnesota,Joey Gunther,39725,Illinois
+2019,03/09,Big Ten Championships,165,L,TF5,21 - 6 5:59,Vincenzo Joseph,39542,Penn State,Joey Gunther,39725,Illinois
+2019,02/10,Illinois - Wisconsin Dual,165,L,DEC,9 - 3,Evan Wick,44730,Wisconsin,Joey Gunther,39725,Illinois
+2019,02/01,Ohio State - Illinois Dual,165,W,SV-1,3 - 1,Kaleb Romero,49252,Ohio State,Joey Gunther,39725,Illinois
+2019,01/27,Illinois - Nebraska Dual,165,L,DEC,7 - 2,Isaiah White,47106,Nebraska,Joey Gunther,39725,Illinois
+2019,01/25,Iowa - Illinois Dual,165,L,DQ,0 - 0,Alex Marinelli,44574,Iowa,Joey Gunther,39725,Illinois
+2019,01/18,Minnesota - Illinois Dual,165,L,DEC,3 - 2,Carson Brolsma,39549,Minnesota,Joey Gunther,39725,Illinois
+2019,12/29,Midlands Championships,165,W,MD,13 - 4,Neil Antrassian,56202,Pennsylvania,Joey Gunther,39725,Illinois
+2019,12/29,Midlands Championships,165,W,TB-1,2 - 1,Emil Soehnlen,52105,Purdue,Joey Gunther,39725,Illinois
+2019,12/29,Midlands Championships,165,W,DEC,9 - 7,Philip Spadafora,51167,Maryland,Joey Gunther,39725,Illinois
+2019,12/29,Midlands Championships,165,W,MD,8 - 0,Dillon Hoey,50239,Indiana,Joey Gunther,39725,Illinois
+2019,12/29,Midlands Championships,165,L,DEC,3 - 0,Jonathan Viruet,39839,Brown,Joey Gunther,39725,Illinois
+2019,12/29,Midlands Championships,165,L,TF5,17 - 2 7:00,Josh Shields,39511,Arizona State,Joey Gunther,39725,Illinois
+2019,12/29,Midlands Championships,165,W,DEC,6 - 5,Jacen Petersen,20577,Arizona State,Joey Gunther,39725,Illinois
+2019,12/07,Illinois - Northern Illinois Dual,165,W,DEC,4 - 2,Kenny Moore,46406,Northern Illinois,Joey Gunther,39725,Illinois
+2019,11/30,Cliff Keen Invitational,165,W,SV-1,3 - 1,Cameron Coy,49330,Virginia,Joey Gunther,39725,Illinois
+2019,11/30,Cliff Keen Invitational,165,L,DEC,7 - 3,Isaiah White,47106,Nebraska,Joey Gunther,39725,Illinois
+2019,11/30,Cliff Keen Invitational,165,W,DEC,3 - 2,Jake Wentzel,45151,Pittsburgh,Joey Gunther,39725,Illinois
+2019,11/30,Cliff Keen Invitational,165,L,DEC,6 - 3,Demetrius Romero,39948,Utah Valley,Joey Gunther,39725,Illinois
+2019,11/30,Cliff Keen Invitational,165,L,DEC,4 - 0,Connor Flynn,39676,Missouri,Joey Gunther,39725,Illinois
+2019,11/30,Cliff Keen Invitational,165,W,DEC,8 - 5,Jacob Thalin,40165,CSU Bakersfield,Joey Gunther,39725,Illinois
+2019,11/30,Cliff Keen Invitational,165,W,MD,12 - 3,Dylan Miracle,56311,Cal Poly,Joey Gunther,39725,Illinois
+2019,11/17,Lindenwood Open,165,W,DEC,3 - 2,Emil Soehnlen,52105,Purdue,Joey Gunther,39725,Illinois
+2019,11/17,Lindenwood Open,165,L,DEC,3 - 1,Nelson Brands,49994,Iowa,Joey Gunther,39725,Illinois
+2019,11/17,Lindenwood Open,165,W,MD,13 - 2,Matt Landgraff,47224,Oklahoma City,Joey Gunther,39725,Illinois
+2019,11/17,Lindenwood Open,165,W,MD,10 - 2,Tyler Harrington,44384,Maryville University,Joey Gunther,39725,Illinois
+2019,11/17,Lindenwood Open,165,W,DEC,3 - 2,Nate Higgins,20380,SIU Edwardsville,Joey Gunther,39725,Illinois
+2019,11/03,Missouri - Illinois Dual,165,W,DEC,4 - 1,Connor Flynn,39676,Missouri,Joey Gunther,39725,Illinois
+2019,12/29,Midlands Championships,165,L,FALL,1:21,Jake Allar,49155,Minnesota,Danny Braunagel,50926,Illinois
+2019,12/29,Midlands Championships,165,L,MD,12 - 2,Alex Marinelli,44574,Iowa,Danny Braunagel,50926,Illinois
+2019,12/29,Midlands Championships,165,W,DEC,10 - 4,Adam Kemp,57045,Fresno State,Danny Braunagel,50926,Illinois
+2019,12/29,Midlands Championships,165,W,MD,15 - 7,Noah Grover,51227,Buffalo,Danny Braunagel,50926,Illinois
+2019,11/17,Lindenwood Open,165,L,DEC,3 - 1,Nelson Brands,49994,Iowa,Danny Braunagel,50926,Illinois
+2019,11/17,Lindenwood Open,165,W,TF5,21 - 2 7:00,Tristan McDonald,46589,Iowa,Danny Braunagel,50926,Illinois
+2019,11/17,Lindenwood Open,165,W,TF5,22 - 7 7:00,Brady Jennings,40222,Iowa State,Danny Braunagel,50926,Illinois
+2019,11/17,Lindenwood Open,165,W,DEC,14 - 7,Nate Higgins,20380,SIU Edwardsville,Danny Braunagel,50926,Illinois
+2019,11/10,Maryville Open,165,W,MD,17 - 5,Elias Vaoifi,58778,Missouri Valley,Danny Braunagel,50926,Illinois
+2019,11/10,Maryville Open,165,W,TF5,21 - 6 7:00,Kyle Jolas,42403,Lindenwood,Danny Braunagel,50926,Illinois
+2019,11/10,Maryville Open,165,W,DEC,11 - 4,Qiante Wagner,42402,McKendree University,Danny Braunagel,50926,Illinois
+2019,11/10,Maryville Open,165,W,TF5,18 - 3 7:00,Armon Mansouri,41054,Lyon College,Danny Braunagel,50926,Illinois
+2019,02/17,Penn State - Illinois Dual,165,L,MD,15 - 4,Vincenzo Joseph,39542,Penn State,Nick Gasbarro,39724,Illinois
+2019,02/15,Illinois - Northwestern Dual,165,L,DEC,5 - 2,Tyler Morland,49243,Northwestern,Nick Gasbarro,39724,Illinois
+2019,01/25,Iowa - Illinois Dual,174,L,DEC,5 - 2,Keegan Shaw,39536,Iowa,Nick Gasbarro,39724,Illinois
+2019,01/12,Illinois - Michigan Dual,165,L,TF5,24 - 9 5:44,Logan Massa,39517,Michigan,Nick Gasbarro,39724,Illinois
+2019,01/11,Illinois - Michigan State Dual,165,W,DEC,5 - 1,Gary Ritchie,40448,Michigan State,Nick Gasbarro,39724,Illinois
+2019,12/29,Midlands Championships,165,L,DEC,4 - 2,Kenny O'Neil,51243,South Dakota State,Nick Gasbarro,39724,Illinois
+2019,12/29,Midlands Championships,165,L,DEC,5 - 2,Logan Peterson,20374,South Dakota State,Nick Gasbarro,39724,Illinois
+2019,12/08,UNI Open,165,W,DEC,10 - 4,Travis Willers,60364,Unattached,Nick Gasbarro,39724,Illinois
+2019,12/08,UNI Open,165,W,MD,16 - 6,Martell Boone,58031,Missouri,Nick Gasbarro,39724,Illinois
+2019,12/08,UNI Open,165,W,DEC,9 - 3,Tate Battani,57232,Iowa State,Nick Gasbarro,39724,Illinois
+2019,12/08,UNI Open,165,W,DEC,7 - 3,Trent Rakers,50965,SIU Edwardsville,Nick Gasbarro,39724,Illinois
+2019,12/08,UNI Open,165,L,MD,13 - 4,Brady Jennings,40222,Iowa State,Nick Gasbarro,39724,Illinois
+2019,12/08,UNI Open,165,W,DEC,11 - 10,Logan Peterson,20374,South Dakota State,Nick Gasbarro,39724,Illinois
+2019,12/08,UNI Open,165,W,MFOR,0 - 0,Skyler St John,19954,Iowa State,Nick Gasbarro,39724,Illinois
+2019,11/10,Maryville Open,165,L,MFOR,0 - 0,James Donald Waters,58767,Indianapolis,Nick Gasbarro,39724,Illinois
+2019,11/10,Maryville Open,165,L,MFOR,0 - 0,Will Seibert,49755,Missouri Valley,Nick Gasbarro,39724,Illinois
+2019,11/10,Maryville Open,165,W,MD,12 - 4,Grant Taylor,48368,Drury University,Nick Gasbarro,39724,Illinois
+2019,11/10,Maryville Open,165,W,DEC,3 - 1,Tyler Harrington,44384,Maryville University,Nick Gasbarro,39724,Illinois
+2019,11/10,Maryville Open,165,L,DEC,6 - 3,Qiante Wagner,42402,McKendree University,Nick Gasbarro,39724,Illinois
+2019,11/17,Lindenwood Open,165,L,DEC,6 - 3,Kyle Jolas,42403,Lindenwood,Colin Carr,20032,Illinois
+2019,11/17,Lindenwood Open,165,L,MD,13 - 2,Nate Higgins,20380,SIU Edwardsville,Colin Carr,20032,Illinois
+2019,11/10,Maryville Open,165,L,FALL,0:38,James Donald Waters,58767,Indianapolis,Colin Carr,20032,Illinois
+2019,11/10,Maryville Open,165,W,FALL,2:25,Tony Bustos,58766,Unattached,Colin Carr,20032,Illinois
+2019,11/10,Maryville Open,165,L,DEC,6 - 2,Kyle Jolas,42403,Lindenwood,Colin Carr,20032,Illinois
+2019,11/10,Maryville Open,165,L,INJ,7:00,Ethan Schumaker,48495,McKendree University,Garett Rich,56822,Illinois
+2019,11/10,Maryville Open,165,W,TF5,17 - 2 7:00,Angelo Talabert,54303,Kentucky Wesleyan,Garett Rich,56822,Illinois
+2019,11/10,Maryville Open,165,L,TF5,15 - 0 7:00,Tanner Webster,50269,Purdue,Garett Rich,56822,Illinois
+2019,12/08,UNI Open,165,W,FALL,5:21,Jonathan Carr,59589,Iowa Central Community College,Tim McCarthy,40309,Illinois
+2019,12/08,UNI Open,165,W,DEC,6 - 2,Austin Stotts,50647,Iowa State,Tim McCarthy,40309,Illinois
+2019,12/08,UNI Open,165,L,FALL,2:00,Jake Allar,49155,Minnesota,Tim McCarthy,40309,Illinois
+2019,12/08,UNI Open,165,W,DEC,5 - 0,Tristan McDonald,46589,Iowa,Tim McCarthy,40309,Illinois
+2019,12/08,UNI Open,165,L,DEC,5 - 2,Luke Fortuna,39654,Missouri,Tim McCarthy,40309,Illinois
+2019,11/17,Lindenwood Open,165,L,FALL,3:53,Trezdon O'Neal,47317,Marian University,Tim McCarthy,40309,Illinois
+2019,11/17,Lindenwood Open,165,L,TF5,20 - 4 7:00,Nelson Brands,49994,Iowa,Tim McCarthy,40309,Illinois
+2019,03/09,Big Ten Championships,174,L,DEC,5 - 2,Ethan Smith,50025,Ohio State,Carver James,39662,Illinois
+2019,03/09,Big Ten Championships,174,L,FALL,2:22,Michael Labriola,49207,Nebraska,Carver James,39662,Illinois
+2019,03/09,Big Ten Championships,174,W,TF5,20 - 5 7:00,Braxton Cody,40139,Northwestern,Carver James,39662,Illinois
+2019,03/09,Big Ten Championships,174,W,FALL,1:10,Braxton Cody,40139,Northwestern,Carver James,39662,Illinois
+2019,03/09,Big Ten Championships,174,L,DEC,8 - 2,Mitch Bowman,19946,Iowa,Carver James,39662,Illinois
+2019,02/17,Penn State - Illinois Dual,174,L,FALL,2:20,Mark Hall,44839,Penn State,Carver James,39662,Illinois
+2019,02/15,Illinois - Northwestern Dual,174,L,DEC,10 - 5,Johnny Sebastian,20224,Northwestern,Carver James,39662,Illinois
+2019,02/10,Illinois - Wisconsin Dual,174,W,MD,12 - 3,Anders Lantz,51005,Wisconsin,Carver James,39662,Illinois
+2019,02/01,Ohio State - Illinois Dual,174,L,DEC,7 - 5,Ethan Smith,50025,Ohio State,Carver James,39662,Illinois
+2019,01/27,Illinois - Nebraska Dual,174,L,MD,16 - 7,Michael Labriola,49207,Nebraska,Carver James,39662,Illinois
+2019,01/18,Minnesota - Illinois Dual,174,L,MD,12 - 4,Devin Skatzka,39603,Minnesota,Carver James,39662,Illinois
+2019,01/12,Illinois - Michigan Dual,174,L,MD,12 - 3,Myles Amine,39586,Michigan,Carver James,39662,Illinois
+2019,01/11,Illinois - Michigan State Dual,174,L,SV-1,4 - 2,Drew Hughes,44802,Michigan State,Carver James,39662,Illinois
+2019,12/29,Midlands Championships,174,W,MFOR,0 - 0,Joseph Grello,44858,Rutgers,Carver James,39662,Illinois
+2019,12/29,Midlands Championships,174,W,MD,14 - 4,Brian Krasowski,44804,Pennsylvania,Carver James,39662,Illinois
+2019,12/29,Midlands Championships,174,L,FALL,5:37,Taylor Lujan,39506,Northern Iowa,Carver James,39662,Illinois
+2019,12/29,Midlands Championships,174,L,DEC,3 - 2,Andrew Morgan,40250,Campbell,Carver James,39662,Illinois
+2019,12/07,Illinois - Northern Illinois Dual,174,W,DEC,4 - 3,Brit Wilson,49235,Northern Illinois,Carver James,39662,Illinois
+2019,11/30,Cliff Keen Invitational,174,W,MD,15 - 4,Kettner Fields,58966,Highline Community College,Carver James,39662,Illinois
+2019,11/30,Cliff Keen Invitational,174,W,DEC,7 - 2,Zach Stodden,46328,Nebraska-Kearney,Carver James,39662,Illinois
+2019,11/30,Cliff Keen Invitational,174,L,DEC,11 - 4,Devin Kane,44607,North Carolina,Carver James,39662,Illinois
+2019,11/30,Cliff Keen Invitational,174,L,FALL,5:43,Taylor Lujan,39506,Northern Iowa,Carver James,39662,Illinois
+2019,11/10,Maryville Open,174,W,MFOR,0 - 0,Jake Mattson,53839,Missouri Baptist,Carver James,39662,Illinois
+2019,11/10,Maryville Open,174,W,DEC,5 - 2,Jeremiah Kent,50824,Missouri,Carver James,39662,Illinois
+2019,11/10,Maryville Open,174,W,MFOR,0 - 0,David Riojas,50222,Illinois,Carver James,39662,Illinois
+2019,11/10,Maryville Open,174,L,DEC,2 - 0,Nick Foster,47173,McKendree University,Carver James,39662,Illinois
+2019,11/10,Maryville Open,174,W,DEC,9 - 6,Dan Fillipek,46631,McKendree University,Carver James,39662,Illinois
+2019,11/10,Maryville Open,174,W,DEC,3 - 2,Jonathan Stewart,42425,Williams Baptist,Carver James,39662,Illinois
+2019,12/29,Midlands Championships,174,L,MD,14 - 2,Grant Cuomo,50892,Princeton,Jake DiBenedetto,50125,Illinois
+2019,12/29,Midlands Championships,174,L,FALL,4:08,Caleb Hopkins,56482,Campbell,Jake DiBenedetto,50125,Illinois
+2019,12/08,UNI Open,174,L,DEC,9 - 8,Austin Hansen,52631,Luther,Jake DiBenedetto,50125,Illinois
+2019,12/08,UNI Open,174,L,TF5,17 - 2 7:00,Jeremiah Kent,50824,Missouri,Jake DiBenedetto,50125,Illinois
+2019,11/10,Maryville Open,174,W,DEC,6 - 0,Kyle Summers,54972,Lindenwood,Jake DiBenedetto,50125,Illinois
+2019,11/10,Maryville Open,174,L,MD,17 - 6,Jeremiah Kent,50824,Missouri,Jake DiBenedetto,50125,Illinois
+2019,11/10,Maryville Open,174,W,DEC,5 - 0,Jack Stein,50068,Illinois,Jake DiBenedetto,50125,Illinois
+2019,11/10,Maryville Open,174,L,DEC,4 - 2,Dan Fillipek,46631,McKendree University,Jake DiBenedetto,50125,Illinois
+2019,11/03,Missouri - Illinois Dual,174,L,FALL,7:00,Daniel Lewis,20062,Missouri,Jake DiBenedetto,50125,Illinois
+2019,12/29,Midlands Championships,184,W,DEC,5 - 0,Austin Andres,57007,SIU Edwardsville,Zach Braunagel,50925,Illinois
+2019,12/29,Midlands Championships,184,L,FALL,6:56,Kevin Parker,44710,Princeton,Zach Braunagel,50925,Illinois
+2019,12/29,Midlands Championships,184,L,FALL,7:43,Trevor Allard,40040,Bloomsburg,Zach Braunagel,50925,Illinois
+2019,12/08,UNI Open,184,W,FALL,1:39,Trajae Lackland,58695,Iowa Central Community College,Zach Braunagel,50925,Illinois
+2019,12/08,UNI Open,184,W,FALL,4:27,Noah Cressell,51692,North Dakota State,Zach Braunagel,50925,Illinois
+2019,12/08,UNI Open,184,L,DEC,11 - 9,Joel Devine,50653,Iowa State,Zach Braunagel,50925,Illinois
+2019,12/08,UNI Open,184,L,MFOR,0 - 0,Danny Bush,50488,Iowa State,Zach Braunagel,50925,Illinois
+2019,12/08,UNI Open,184,L,DEC,6 - 4,Danny Bush,50488,Iowa State,Zach Braunagel,50925,Illinois
+2019,12/08,UNI Open,184,W,MD,14 - 5,Alec McDowell,50262,Iowa State,Zach Braunagel,50925,Illinois
+2019,12/08,UNI Open,184,W,DEC,4 - 2,Alec McDowell,50262,Iowa State,Zach Braunagel,50925,Illinois
+2019,11/17,Lindenwood Open,174,L,DEC,4 - 1,Jacob Covaciu,44805,Indiana,Zach Braunagel,50925,Illinois
+2019,11/17,Lindenwood Open,174,W,DEC,9 - 6,Trevor Lawson,56200,Lindsey Wilson,Zach Braunagel,50925,Illinois
+2019,11/17,Lindenwood Open,174,W,DEC,10 - 5,John Anderson,49877,Maryville University,Zach Braunagel,50925,Illinois
+2019,11/17,Lindenwood Open,174,W,MFOR,0 - 0,Nick Foster,47173,McKendree University,Zach Braunagel,50925,Illinois
+2019,11/10,Maryville Open,174,W,MFOR,0 - 0,Mladen Vasilev,49840,Maryville University,Zach Braunagel,50925,Illinois
+2019,11/10,Maryville Open,174,W,DEC,8 - 5,Nick Foster,47173,McKendree University,Zach Braunagel,50925,Illinois
+2019,11/10,Maryville Open,174,W,DEC,11 - 5,Dan Fillipek,46631,McKendree University,Zach Braunagel,50925,Illinois
+2019,11/10,Maryville Open,174,W,TF5,25 - 10 7:00,Natean Vandermeer,46568,Findlay,Zach Braunagel,50925,Illinois
+2019,11/10,Maryville Open,174,L,MFOR,0 - 0,Carver James,39662,Illinois,David Riojas,50222,Illinois
+2019,11/10,Maryville Open,174,W,FALL,1:59,Jake Mattson,53839,Missouri Baptist,David Riojas,50222,Illinois
+2019,11/10,Maryville Open,174,L,FALL,5:00,John Anderson,49877,Maryville University,David Riojas,50222,Illinois
+2019,11/10,Maryville Open,174,W,DEC,7 - 4,Jonathan Stewart,42425,Williams Baptist,David Riojas,50222,Illinois
+2019,12/08,UNI Open,174,W,FALL,1:17,Reymundo Vasquez,58052,Iowa Central Community College,Jack Stein,50068,Illinois
+2019,12/08,UNI Open,174,L,DEC,7 - 3,Logan Schumacher,56307,Iowa State,Jack Stein,50068,Illinois
+2019,12/08,UNI Open,174,L,DEC,6 - 0,Austin Hansen,52631,Luther,Jack Stein,50068,Illinois
+2019,11/17,Lindenwood Open,165,L,DEC,11 - 9,Matt Landgraff,47224,Oklahoma City,Jack Stein,50068,Illinois
+2019,11/17,Lindenwood Open,165,L,DEC,8 - 3,Tyler Harrington,44384,Maryville University,Jack Stein,50068,Illinois
+2019,11/10,Maryville Open,174,L,DEC,5 - 0,Jake DiBenedetto,50125,Illinois,Jack Stein,50068,Illinois
+2019,11/10,Maryville Open,174,L,TF5,18 - 0 7:00,Jeremiah Kent,50824,Missouri,Jack Stein,50068,Illinois
+2019,03/21,NCAA Championships,184,L,DEC,5 - 2,Myles Martin,39622,Ohio State,Emery Parker,19939,Illinois
+2019,03/21,NCAA Championships,184,W,DEC,11 - 5,Chip Ness,20118,North Carolina,Emery Parker,19939,Illinois
+2019,03/21,NCAA Championships,184,W,DEC,5 - 2,Samuel Colbray,44873,Iowa State,Emery Parker,19939,Illinois
+2019,03/21,NCAA Championships,184,W,DEC,7 - 4,Zack Zavatsky,20460,Virginia Tech,Emery Parker,19939,Illinois
+2019,03/21,NCAA Championships,184,W,SV-1,8 - 6,Dylan Wisman,39507,Missouri,Emery Parker,19939,Illinois
+2019,03/21,NCAA Championships,184,W,FALL,5:23,Cash Wilcke,39502,Iowa,Emery Parker,19939,Illinois
+2019,03/21,NCAA Championships,184,L,DEC,9 - 7,Nino Bonaccorsi,49285,Pittsburgh,Emery Parker,19939,Illinois
+2019,03/21,NCAA Championships,184,W,DEC,5 - 2,Will Schany,20435,Virginia,Emery Parker,19939,Illinois
+2019,03/09,Big Ten Championships,184,W,DEC,7 - 3,Kyle Jasenski,51164,Maryland,Emery Parker,19939,Illinois
+2019,03/09,Big Ten Championships,184,W,DEC,5 - 1,Taylor Venz,44854,Nebraska,Emery Parker,19939,Illinois
+2019,03/09,Big Ten Championships,184,L,DEC,8 - 3,Myles Martin,39622,Ohio State,Emery Parker,19939,Illinois
+2019,03/09,Big Ten Championships,184,W,MFOR,0 - 0,Nicholas Gravina,20360,Rutgers,Emery Parker,19939,Illinois
+2019,03/09,Big Ten Championships,184,W,DEC,3 - 2,Cash Wilcke,39502,Iowa,Emery Parker,19939,Illinois
+2019,02/17,Penn State - Illinois Dual,184,W,DEC,7 - 3,Mason Manville,50841,Penn State,Emery Parker,19939,Illinois
+2019,02/15,Illinois - Northwestern Dual,184,W,FALL,4:50,Brendan Devine,57086,Northwestern,Emery Parker,19939,Illinois
+2019,02/10,Illinois - Wisconsin Dual,184,W,DEC,10 - 4,Mason Reinhardt,39748,Wisconsin,Emery Parker,19939,Illinois
+2019,02/01,Ohio State - Illinois Dual,184,L,DEC,7 - 4,Myles Martin,39622,Ohio State,Emery Parker,19939,Illinois
+2019,01/27,Illinois - Nebraska Dual,184,L,FALL,5:33,Taylor Venz,44854,Nebraska,Emery Parker,19939,Illinois
+2019,01/25,Iowa - Illinois Dual,184,W,DEC,4 - 1,Cash Wilcke,39502,Iowa,Emery Parker,19939,Illinois
+2019,01/18,Minnesota - Illinois Dual,184,W,DEC,10 - 4,Owen Webster,48190,Minnesota,Emery Parker,19939,Illinois
+2019,01/12,Illinois - Michigan Dual,184,W,MD,15 - 4,JT Correll,45659,Michigan,Emery Parker,19939,Illinois
+2019,01/11,Illinois - Michigan State Dual,184,W,SV-1,6 - 4,Cameron Caffey,50273,Michigan State,Emery Parker,19939,Illinois
+2019,12/07,Illinois - Northern Illinois Dual,184,W,DEC,8 - 5,Will Feldkamp,51599,Northern Illinois,Emery Parker,19939,Illinois
+2019,11/17,Lindenwood Open,184,W,MD,12 - 2,Thomas Penola,57105,Purdue,Emery Parker,19939,Illinois
+2019,11/17,Lindenwood Open,184,W,TF5,18 - 3 7:00,Sergio Villalobos,57005,SIU Edwardsville,Emery Parker,19939,Illinois
+2019,11/17,Lindenwood Open,184,W,MD,12 - 4,Colton Gonzalez,54612,Lindsey Wilson,Emery Parker,19939,Illinois
+2019,11/17,Lindenwood Open,184,W,DEC,5 - 4,Gavin Hoffman,50609,Ohio State,Emery Parker,19939,Illinois
+2019,11/17,Lindenwood Open,184,W,DEC,5 - 2,Danny Bush,50488,Iowa State,Emery Parker,19939,Illinois
+2019,11/03,Missouri - Illinois Dual,184,W,DEC,5 - 3,Dylan Wisman,39507,Missouri,Emery Parker,19939,Illinois
+2019,11/10,Maryville Open,184,L,MFOR,0 - 0,Jacob Lambert,58770,Lyon College,Seamus O'Donnell,56824,Illinois
+2019,11/10,Maryville Open,184,L,INJ,7:00,Dayton Brown,58765,Missouri Valley,Seamus O'Donnell,56824,Illinois
+2019,11/10,Maryville Open,184,W,FALL,1:57,Corban Watson,52349,Hannibal-LaGrange,Seamus O'Donnell,56824,Illinois
+2019,03/09,Big Ten Championships,197,L,DEC,5 - 3,Brad Wilton,49187,Michigan State,Andre Lee,19938,Illinois
+2019,03/09,Big Ten Championships,197,L,DEC,4 - 1,Dylan Anderson,44970,Minnesota,Andre Lee,19938,Illinois
+2019,03/09,Big Ten Championships,197,W,DEC,10 - 6,Matt Correnti,44705,Rutgers,Andre Lee,19938,Illinois
+2019,02/15,Illinois - Northwestern Dual,197,L,FALL,3:29,Zack Chakonis,39740,Northwestern,Andre Lee,19938,Illinois
+2019,02/10,Illinois - Wisconsin Dual,197,L,SV-2,4 - 2,Beau Breske,44757,Wisconsin,Andre Lee,19938,Illinois
+2019,02/01,Ohio State - Illinois Dual,197,L,FALL,3:39,Kollin Moore,39638,Ohio State,Andre Lee,19938,Illinois
+2019,01/27,Illinois - Nebraska Dual,197,L,DEC,2 - 1,Eric Schultz,44853,Nebraska,Andre Lee,19938,Illinois
+2019,01/25,Iowa - Illinois Dual,197,L,DEC,5 - 1,Jacob Warner,49151,Iowa,Andre Lee,19938,Illinois
+2019,01/18,Minnesota - Illinois Dual,197,W,DEC,7 - 3,Rylee Streifel,39721,Minnesota,Andre Lee,19938,Illinois
+2019,01/11,Illinois - Michigan State Dual,197,L,FALL,5:44,Brad Wilton,49187,Michigan State,Andre Lee,19938,Illinois
+2019,12/29,Midlands Championships,197,L,DEC,10 - 5,Patrick Brucki,49296,Princeton,Andre Lee,19938,Illinois
+2019,12/29,Midlands Championships,197,W,DEC,10 - 5,Martin Mueller,40281,South Dakota State,Andre Lee,19938,Illinois
+2019,12/29,Midlands Championships,197,W,FALL,4:28,Tyler Hall,39555,Pennsylvania,Andre Lee,19938,Illinois
+2019,12/29,Midlands Championships,197,W,MD,12 - 2,Austin McNeil,40431,Campbell,Andre Lee,19938,Illinois
+2019,12/29,Midlands Championships,197,L,DEC,3 - 1,Brett Perry,19726,Buffalo,Andre Lee,19938,Illinois
+2019,12/07,Illinois - Northern Illinois Dual,197,W,SV-1,3 - 1,Max Ihry,44857,Northern Illinois,Andre Lee,19938,Illinois
+2019,11/30,Cliff Keen Invitational,197,L,DEC,5 - 2,Jake Woodley,49257,Oklahoma,Andre Lee,19938,Illinois
+2019,11/30,Cliff Keen Invitational,197,W,SV-1,3 - 1,Chasen Blair,49217,North Carolina,Andre Lee,19938,Illinois
+2019,11/30,Cliff Keen Invitational,197,W,SV-1,3 - 1,Wyatt Koelling,44722,Missouri,Andre Lee,19938,Illinois
+2019,11/30,Cliff Keen Invitational,197,L,DEC,3 - 1,Cordell Eaton,40458,North Dakota State,Andre Lee,19938,Illinois
+2019,11/30,Cliff Keen Invitational,197,W,DEC,11 - 4,Casey Jumps,50817,Air Force,Andre Lee,19938,Illinois
+2019,11/17,Lindenwood Open,197,W,DEC,3 - 2,Ryan Vasbinder,53358,McKendree University,Andre Lee,19938,Illinois
+2019,11/17,Lindenwood Open,197,L,DEC,8 - 3,Lucas Davison,51236,Northwestern,Andre Lee,19938,Illinois
+2019,11/17,Lindenwood Open,197,W,DEC,3 - 2,Kaden Sauer,50987,Iowa State,Andre Lee,19938,Illinois
+2019,11/17,Lindenwood Open,197,W,DEC,7 - 4,Taylor Watkins,40180,Missouri,Andre Lee,19938,Illinois
+2019,11/17,Lindenwood Open,197,W,DEC,5 - 2,Taylor Watkins,40180,Missouri,Andre Lee,19938,Illinois
+2019,11/10,Maryville Open,197,W,SV-1,3 - 1,Matt Wroblewski,50019,Illinois,Andre Lee,19938,Illinois
+2019,11/10,Maryville Open,197,W,FALL,4:19,Tyler Scott,47540,Indianapolis,Andre Lee,19938,Illinois
+2019,11/10,Maryville Open,197,W,MFOR,0 - 0,Jared Rennick,47337,Drury University,Andre Lee,19938,Illinois
+2019,11/10,Maryville Open,197,W,MD,13 - 4,Ethan Sherertz,47184,Maryville University,Andre Lee,19938,Illinois
+2019,11/03,Missouri - Illinois Dual,197,L,DEC,2 - 1,Wyatt Koelling,44722,Missouri,Andre Lee,19938,Illinois
+2019,02/17,Penn State - Illinois Dual,197,L,TF5,19 - 3 6:34,Bo Nickal,20302,Penn State,Matt Wroblewski,50019,Illinois
+2019,01/12,Illinois - Michigan Dual,197,L,DEC,8 - 5,Jackson Striggow,39831,Michigan,Matt Wroblewski,50019,Illinois
+2019,12/29,Midlands Championships,197,L,DEC,6 - 1,Jacob Warner,49151,Iowa,Matt Wroblewski,50019,Illinois
+2019,12/29,Midlands Championships,197,W,DEC,5 - 4,Kevin Snyder,44847,Ohio State,Matt Wroblewski,50019,Illinois
+2019,12/29,Midlands Championships,197,W,FALL,4:29,Steven Mercadante,44803,Franklin & Marshall,Matt Wroblewski,50019,Illinois
+2019,12/29,Midlands Championships,197,L,DEC,8 - 3,Brett Perry,19726,Buffalo,Matt Wroblewski,50019,Illinois
+2019,12/08,UNI Open,197,W,DEC,3 - 2,Cole Witzig,45596,North Dakota State,Matt Wroblewski,50019,Illinois
+2019,12/08,UNI Open,197,L,DEC,4 - 3,Dylan Anderson,44970,Minnesota,Matt Wroblewski,50019,Illinois
+2019,12/08,UNI Open,197,L,DEC,4 - 0,Wyatt Koelling,44722,Missouri,Matt Wroblewski,50019,Illinois
+2019,12/08,UNI Open,197,W,DEC,7 - 1,Martin Mueller,40281,South Dakota State,Matt Wroblewski,50019,Illinois
+2019,11/17,Lindenwood Open,197,L,FALL,2:23,Ryan Vasbinder,53358,McKendree University,Matt Wroblewski,50019,Illinois
+2019,11/17,Lindenwood Open,197,L,DEC,4 - 2,Ryan Vasbinder,53358,McKendree University,Matt Wroblewski,50019,Illinois
+2019,11/17,Lindenwood Open,197,W,FALL,0:31,Kaden Sauer,50987,Iowa State,Matt Wroblewski,50019,Illinois
+2019,11/17,Lindenwood Open,197,W,DEC,4 - 1,David Dow,47202,Baker,Matt Wroblewski,50019,Illinois
+2019,11/17,Lindenwood Open,197,W,TF5,19 - 3 7:00,John Kramer,42419,Lindenwood,Matt Wroblewski,50019,Illinois
+2019,11/17,Lindenwood Open,197,W,DEC,6 - 4,Taylor Watkins,40180,Missouri,Matt Wroblewski,50019,Illinois
+2019,11/10,Maryville Open,197,L,SV-1,3 - 1,Andre Lee,19938,Illinois,Matt Wroblewski,50019,Illinois
+2019,11/10,Maryville Open,197,W,MD,9 - 1,Aric Bohn,57004,SIU Edwardsville,Matt Wroblewski,50019,Illinois
+2019,11/10,Maryville Open,197,W,SV-2,3 - 2,Brian Burns,56823,Illinois,Matt Wroblewski,50019,Illinois
+2019,11/10,Maryville Open,197,W,DEC,9 - 2,Duane Deerwester,44328,Indianapolis,Matt Wroblewski,50019,Illinois
+2019,11/10,Maryville Open,197,W,DEC,8 - 2,Taylor Watkins,40180,Missouri,Matt Wroblewski,50019,Illinois
+2019,11/10,Maryville Open,197,W,DEC,5 - 2,Taylor Watkins,40180,Missouri,Matt Wroblewski,50019,Illinois
+2019,12/29,Midlands Championships,285,W,MD,8 - 0,Jack Heyob,55585,Northwestern,Brian Burns,56823,Illinois
+2019,12/29,Midlands Championships,285,W,DEC,5 - 2,Nick Jenkins,49079,Central Michigan,Brian Burns,56823,Illinois
+2019,12/29,Midlands Championships,285,L,DEC,5 - 0,Ben Sullivan,49040,Army West Point,Brian Burns,56823,Illinois
+2019,12/29,Midlands Championships,285,L,DEC,3 - 1,Brady Gilliland-Daniel,50884,Arizona State,Brian Burns,56823,Illinois
+2019,12/08,UNI Open,285,W,TF5,16 - 0 7:00,Ja'Quez Bostic,58032,Iowa Central Community College,Brian Burns,56823,Illinois
+2019,12/08,UNI Open,285,L,DEC,4 - 2,Francis Duggan,51112,Iowa State,Brian Burns,56823,Illinois
+2019,12/08,UNI Open,285,W,MD,14 - 1,Blake Wolters,45289,South Dakota State,Brian Burns,56823,Illinois
+2019,12/08,UNI Open,285,L,DEC,2 - 0,Carter Isley,44719,Northern Iowa,Brian Burns,56823,Illinois
+2019,11/17,Lindenwood Open,197,L,DEC,3 - 0,Ryan Vasbinder,53358,McKendree University,Brian Burns,56823,Illinois
+2019,11/17,Lindenwood Open,197,W,DEC,13 - 8,John Kramer,42419,Lindenwood,Brian Burns,56823,Illinois
+2019,11/17,Lindenwood Open,197,L,DEC,3 - 0,Taylor Watkins,40180,Missouri,Brian Burns,56823,Illinois
+2019,11/17,Lindenwood Open,197,W,MFOR,0 - 0,Joe Teague,39959,Iowa State,Brian Burns,56823,Illinois
+2019,11/10,Maryville Open,197,L,SV-2,3 - 2,Matt Wroblewski,50019,Illinois,Brian Burns,56823,Illinois
+2019,11/10,Maryville Open,197,L,DEC,5 - 3,Jared Rennick,47337,Drury University,Brian Burns,56823,Illinois
+2019,11/10,Maryville Open,197,W,TF5,16 - 0 7:00,Ethan Sherertz,47184,Maryville University,Brian Burns,56823,Illinois
+2019,11/10,Maryville Open,197,W,DEC,7 - 3,Brian Wagner,42200,Indianapolis,Brian Burns,56823,Illinois
+2019,11/10,Maryville Open,197,W,DEC,3 - 2,Jared McKindley,41197,Lindenwood,Brian Burns,56823,Illinois
+2019,03/09,Big Ten Championships,285,L,MD,13 - 4,Youssif Hemida,39563,Maryland,Deuce Rachal,19940,Illinois
+2019,03/09,Big Ten Championships,285,L,DEC,1 - 0,Conan Jennings,20222,Northwestern,Deuce Rachal,19940,Illinois
+2019,02/17,Penn State - Illinois Dual,285,L,FALL,2:06,Anthony Cassar,20299,Penn State,Deuce Rachal,19940,Illinois
+2019,02/15,Illinois - Northwestern Dual,285,L,DEC,1 - 0,Conan Jennings,20222,Northwestern,Deuce Rachal,19940,Illinois
+2019,02/10,Illinois - Wisconsin Dual,285,L,MD,16 - 5,Trent Hillger,49350,Wisconsin,Deuce Rachal,19940,Illinois
+2019,02/01,Ohio State - Illinois Dual,285,W,DEC,3 - 2,Gary Traub,45199,Ohio State,Deuce Rachal,19940,Illinois
+2019,01/27,Illinois - Nebraska Dual,285,L,FALL,3:32,David Jensen,43467,Nebraska,Deuce Rachal,19940,Illinois
+2019,01/25,Iowa - Illinois Dual,285,L,FALL,4:37,Sam Stoll,19955,Iowa,Deuce Rachal,19940,Illinois
+2019,01/18,Minnesota - Illinois Dual,285,L,FALL,1:43,Gable Steveson,50624,Minnesota,Deuce Rachal,19940,Illinois
+2019,01/12,Illinois - Michigan Dual,285,L,FALL,5:58,Mason Parris,51176,Michigan,Deuce Rachal,19940,Illinois
+2019,01/11,Illinois - Michigan State Dual,285,L,DEC,6 - 4,Chase Beard,51214,Michigan State,Deuce Rachal,19940,Illinois
+2019,12/29,Midlands Championships,285,W,DEC,8 - 2,Jack Heyob,55585,Northwestern,Deuce Rachal,19940,Illinois
+2019,12/29,Midlands Championships,285,L,FALL,2:20,Anthony Cassioppi,50650,Iowa,Deuce Rachal,19940,Illinois
+2019,12/29,Midlands Championships,285,L,DEC,4 - 2,Blake Wolters,45289,South Dakota State,Deuce Rachal,19940,Illinois
+2019,12/07,Illinois - Northern Illinois Dual,285,L,DEC,2 - 0,Caleb Gossett,40013,Northern Illinois,Deuce Rachal,19940,Illinois
+2019,11/30,Cliff Keen Invitational,285,L,DEC,2 - 0,Brian Andrews,50489,Wyoming,Deuce Rachal,19940,Illinois
+2019,11/30,Cliff Keen Invitational,285,L,DEC,4 - 0,Zach Elam,51612,Missouri,Deuce Rachal,19940,Illinois
+2019,11/30,Cliff Keen Invitational,285,W,DEC,5 - 4,Zach Schrader,45168,Cal Baptist,Deuce Rachal,19940,Illinois
+2019,11/17,Lindenwood Open,285,W,DEC,4 - 3,Jonathon Morris,52305,Missouri Valley,Deuce Rachal,19940,Illinois
+2019,11/17,Lindenwood Open,285,L,DEC,6 - 4,Logan Radik,47209,Maryville University,Deuce Rachal,19940,Illinois
+2019,11/17,Lindenwood Open,285,L,DEC,8 - 3,Korey Walker,41069,Oklahoma City,Deuce Rachal,19940,Illinois
+2019,11/10,Maryville Open,285,W,FALL,1:49,Matthew Jones,58769,Central Baptist College,Deuce Rachal,19940,Illinois
+2019,11/10,Maryville Open,285,W,FALL,0:52,Colton McKiernan,57003,SIU Edwardsville,Deuce Rachal,19940,Illinois
+2019,11/10,Maryville Open,285,W,FALL,3:48,Jesse Gomez,51774,Missouri Valley,Deuce Rachal,19940,Illinois
+2019,11/10,Maryville Open,285,W,DEC,7 - 1,Luke Diener,47171,McKendree University,Deuce Rachal,19940,Illinois
+2019,11/03,Missouri - Illinois Dual,285,L,DEC,10 - 4,Zach Elam,51612,Missouri,Deuce Rachal,19940,Illinois

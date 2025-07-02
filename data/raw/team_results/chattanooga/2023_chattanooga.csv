@@ -1,0 +1,442 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2023,03/04,SoCon Championships,125,W,MD,8 - 0,Tony Burke,78464,VMI,Logan Ashton,57605,Chattanooga
+2023,03/04,SoCon Championships,125,L,DEC,1 - 0,Drew West,50041,Gardner-Webb,Logan Ashton,57605,Chattanooga
+2023,03/04,SoCon Championships,125,L,DEC,3 - 1,Anthony Molton,57207,Campbell,Logan Ashton,57605,Chattanooga
+2023,02/17,Bellarmine - Chattanooga Dual,125,L,DEC,3 - 2,Jack Parker,71291,Bellarmine,Logan Ashton,57605,Chattanooga
+2023,02/12,Campbell - Chattanooga Dual,125,L,DEC,3 - 0,Anthony Molton,57207,Campbell,Logan Ashton,57605,Chattanooga
+2023,02/10,Gardner-Webb - Chattanooga Dual,125,L,DEC,3 - 2,Drew West,50041,Gardner-Webb,Logan Ashton,57605,Chattanooga
+2023,02/05,Chattanooga - Appalachian State Dual,125,L,DEC,8 - 5,Caleb Smith,58559,Appalachian State,Logan Ashton,57605,Chattanooga
+2023,01/29,Chattanooga - The Citadel Dual,125,L,DEC,4 - 3,Blair Orr,55804,The Citadel,Logan Ashton,57605,Chattanooga
+2023,01/27,Chattanooga - Presbyterian Dual,125,L,DEC,8 - 2,Dominic Chavez,62498,Presbyterian,Logan Ashton,57605,Chattanooga
+2023,01/21,Davidson - Chattanooga Dual,125,W,FALL,2:11,Hale Robinson,70746,Davidson,Logan Ashton,57605,Chattanooga
+2023,01/01,Southern Scuffle,125,L,DEC,4 - 0,Reid Nelson,72129,Little Rock,Logan Ashton,57605,Chattanooga
+2023,01/01,Southern Scuffle,125,L,MD,13 - 2,Stevo Poulin,71929,Northern Colorado,Logan Ashton,57605,Chattanooga
+2023,12/16,Clarion - Chattanooga Dual,125,W,DEC,4 - 0,Joseph Fischer,68702,Clarion,Logan Ashton,57605,Chattanooga
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,125,L,DEC,7 - 2,Davian Guanajuato,74863,SIU Edwardsville,Logan Ashton,57605,Chattanooga
+2023,12/10,Iowa - Chattanooga Dual,125,W,DEC,1 - 0,Charles Matthews,67463,Iowa,Logan Ashton,57605,Chattanooga
+2023,12/03,Chattanooga - Illinois Dual,125,L,FALL,5:40,Maximo Renteria,71870,Illinois,Logan Ashton,57605,Chattanooga
+2023,11/20,Chattanooga - Northern Illinois Dual,125,L,DEC,6 - 1,Blake West,73337,Northern Illinois,Logan Ashton,57605,Chattanooga
+2023,11/20,Chattanooga - Cleveland State Dual,125,L,DEC,5 - 3,Nick Molchak,78590,Cleveland State,Logan Ashton,57605,Chattanooga
+2023,11/20,Chattanooga - Purdue Dual,125,L,MD,13 - 4,Matt Ramos,57134,Purdue,Logan Ashton,57605,Chattanooga
+2023,11/05,Little Rock - Chattanooga Dual,125,L,DEC,6 - 1,Jeremiah Reno,62342,Little Rock,Logan Ashton,57605,Chattanooga
+2023,11/05,Buffalo - Chattanooga Dual,125,L,DEC,3 - 1,Tristan Daugherty,62877,Buffalo,Logan Ashton,57605,Chattanooga
+2023,11/05,Wisconsin - Chattanooga Dual,125,L,DEC,4 - 0,Eric Barnett,56753,Wisconsin,Logan Ashton,57605,Chattanooga
+2023,02/05,Newberry Open,125,W,MFOR,0 - 0,Cole Hunt,72654,North Carolina,Dominic DiTomasso,73858,Chattanooga
+2023,02/05,Newberry Open,125,W,MFOR,0 - 0,Troy Hohman,75816,NC State,Dominic DiTomasso,73858,Chattanooga
+2023,02/05,Newberry Open,125,W,FALL,3:31,William Bishop,83810,Unattached,Dominic DiTomasso,73858,Chattanooga
+2023,02/05,Newberry Open,125,W,DEC,3 - 2,Matthew Rowland,80035,Gardner-Webb,Dominic DiTomasso,73858,Chattanooga
+2023,01/28,Appalachian Open,125,L,DEC,6 - 2,Matthew Rowland,80035,Gardner-Webb,Dominic DiTomasso,73858,Chattanooga
+2023,01/28,Appalachian Open,125,L,DEC,9 - 2,Malik Hardy,73357,The Citadel,Dominic DiTomasso,73858,Chattanooga
+2023,01/13,West Virginia - Chattanooga Dual,125,L,MD,10 - 2,Killian Cardinale,49268,West Virginia,Dominic DiTomasso,73858,Chattanooga
+2023,01/06,Chattanooga - VMI Dual,125,W,DEC,2 - 0,Tony Burke,78464,VMI,Dominic DiTomasso,73858,Chattanooga
+2023,11/13,Battle at the Citadel,125,W,FALL,7:00,Hale Robinson,70746,Davidson,Dominic DiTomasso,73858,Chattanooga
+2023,11/13,Battle at the Citadel,125,L,MD,15 - 2,Isaac Crowell,58909,Southeastern University,Dominic DiTomasso,73858,Chattanooga
+2023,11/13,Battle at the Citadel,125,L,FALL,1:17,Maximillian Leete,72678,American,Dominic DiTomasso,73858,Chattanooga
+2023,03/16,NCAA Championships,133,L,DEC,6 - 3,Micky Phillippi,45230,Pittsburgh,Brayden Palmer,59826,Chattanooga
+2023,03/16,NCAA Championships,133,W,MD,10 - 1,Jack Maida,72679,American,Brayden Palmer,59826,Chattanooga
+2023,03/16,NCAA Championships,133,L,DEC,5 - 2,Roman Bravo-Young,49665,Penn State,Brayden Palmer,59826,Chattanooga
+2023,03/16,NCAA Championships,133,W,DEC,4 - 2,Joe Heilmann,51223,Rutgers,Brayden Palmer,59826,Chattanooga
+2023,03/04,SoCon Championships,133,W,DEC,4 - 3,Ethan Oakley,62754,Appalachian State,Brayden Palmer,59826,Chattanooga
+2023,03/04,SoCon Championships,133,W,DEC,4 - 0,Jackson Sichelstiel,78851,Davidson,Brayden Palmer,59826,Chattanooga
+2023,03/04,SoCon Championships,133,W,SV-1,3 - 1,Domenic Zaccone,56926,Campbell,Brayden Palmer,59826,Chattanooga
+2023,02/19,Indiana - Chattanooga Dual,133,L,DEC,8 - 3,Henry Porter,71920,Indiana,Brayden Palmer,59826,Chattanooga
+2023,02/17,Bellarmine - Chattanooga Dual,133,W,TF5,20 - 5 6:25,Michael Schiffhauer,79327,Bellarmine,Brayden Palmer,59826,Chattanooga
+2023,02/12,Campbell - Chattanooga Dual,133,L,SV-1,4 - 2,Domenic Zaccone,56926,Campbell,Brayden Palmer,59826,Chattanooga
+2023,02/10,Gardner-Webb - Chattanooga Dual,133,W,DEC,1 - 0,Todd Carter,69785,Gardner-Webb,Brayden Palmer,59826,Chattanooga
+2023,02/05,Chattanooga - Appalachian State Dual,133,L,DEC,5 - 2,Ethan Oakley,62754,Appalachian State,Brayden Palmer,59826,Chattanooga
+2023,01/21,Davidson - Chattanooga Dual,133,W,DEC,5 - 0,Jackson Sichelstiel,78851,Davidson,Brayden Palmer,59826,Chattanooga
+2023,01/13,West Virginia - Chattanooga Dual,133,W,DEC,7 - 3,Davin Rhoads,68739,West Virginia,Brayden Palmer,59826,Chattanooga
+2023,01/06,Chattanooga - VMI Dual,133,W,DEC,6 - 4,Dyson Dunham,73559,VMI,Brayden Palmer,59826,Chattanooga
+2023,01/01,Southern Scuffle,133,W,MD,8 - 0,Conner Quinn,72582,Maryland,Brayden Palmer,59826,Chattanooga
+2023,01/01,Southern Scuffle,133,W,FALL,2:36,Aaron Nagao,63016,Minnesota,Brayden Palmer,59826,Chattanooga
+2023,01/01,Southern Scuffle,133,W,DEC,7 - 4,Ramazan Attasauov,58943,Iowa State,Brayden Palmer,59826,Chattanooga
+2023,01/01,Southern Scuffle,133,L,DEC,7 - 3,Daton Fix,49263,Oklahoma State,Brayden Palmer,59826,Chattanooga
+2023,01/01,Southern Scuffle,133,W,DEC,3 - 1,McGwire Midkiff,49224,North Dakota State,Brayden Palmer,59826,Chattanooga
+2023,12/16,Clarion - Chattanooga Dual,133,W,DEC,5 - 1,Koen Kish,70988,Clarion,Brayden Palmer,59826,Chattanooga
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,133,W,TF5,16 - 0 6:36,Aaron Schulist,57012,SIU Edwardsville,Brayden Palmer,59826,Chattanooga
+2023,12/10,Iowa - Chattanooga Dual,133,W,SV-1,3 - 1,Cullan Schriever,57331,Iowa,Brayden Palmer,59826,Chattanooga
+2023,12/03,Chattanooga - Illinois Dual,133,L,DEC,5 - 0,Lucas Byrd,56714,Illinois,Brayden Palmer,59826,Chattanooga
+2023,11/20,Chattanooga - Northern Illinois Dual,133,W,DEC,4 - 2,Bryce West,50039,Northern Illinois,Brayden Palmer,59826,Chattanooga
+2023,11/20,Chattanooga - Cleveland State Dual,133,W,DEC,5 - 3,Jacob Manley,67785,Cleveland State,Brayden Palmer,59826,Chattanooga
+2023,11/20,Chattanooga - Purdue Dual,133,W,INJ,1:14,Dustin Norris,72154,Purdue,Brayden Palmer,59826,Chattanooga
+2023,11/05,Little Rock - Chattanooga Dual,133,W,TF5,15 - 0 7:00,Joshua Sarpy,65932,Little Rock,Brayden Palmer,59826,Chattanooga
+2023,11/05,Buffalo - Chattanooga Dual,133,W,DEC,4 - 0,Mason Bush,72224,Buffalo,Brayden Palmer,59826,Chattanooga
+2023,11/05,Wisconsin - Chattanooga Dual,133,L,DEC,2 - 0,Taylor LaMont,44777,Wisconsin,Brayden Palmer,59826,Chattanooga
+2023,01/27,Chattanooga - Presbyterian Dual,133,W,FALL,6:40,Jacob Brasseur,61212,Presbyterian,Eli Knight,73351,Chattanooga
+2023,01/21,Chattanooga Davidson ECM,141,W,MD,12 - 0,Noah Burstein,59677,Davidson,Eli Knight,73351,Chattanooga
+2023,01/01,Southern Scuffle,141,L,FALL,1:27,Andrew Bloemhof,62861,Oklahoma State,Eli Knight,73351,Chattanooga
+2023,01/01,Southern Scuffle,141,L,TF5,18 - 3 6:08,Darren Miller,57210,Bucknell,Eli Knight,73351,Chattanooga
+2023,11/13,Battle at the Citadel,133,L,DEC,5 - 2,Jackson Sichelstiel,78851,Davidson,Eli Knight,73351,Chattanooga
+2023,11/13,Battle at the Citadel,133,L,DEC,6 - 3,Ryan Luna,72566,Presbyterian,Eli Knight,73351,Chattanooga
+2023,03/04,SoCon Championships,141,L,DEC,8 - 1,Jacob Silka,78557,The Citadel,Francisco Valdes,49089,Chattanooga
+2023,03/04,SoCon Championships,141,W,MD,10 - 1,Joshua Viarengo,71129,Davidson,Francisco Valdes,49089,Chattanooga
+2023,03/04,SoCon Championships,141,L,DEC,4 - 0,Heath Gonyer,62522,Appalachian State,Francisco Valdes,49089,Chattanooga
+2023,02/17,Bellarmine - Chattanooga Dual,141,W,DEC,5 - 3,Chase Hall,78650,Bellarmine,Francisco Valdes,49089,Chattanooga
+2023,02/12,Campbell - Chattanooga Dual,141,L,DEC,8 - 2,Shannon Hanna,57654,Campbell,Francisco Valdes,49089,Chattanooga
+2023,02/05,Chattanooga - Appalachian State Dual,141,L,DEC,4 - 0,Heath Gonyer,62522,Appalachian State,Francisco Valdes,49089,Chattanooga
+2023,01/29,Chattanooga - The Citadel Dual,141,W,MD,13 - 1,Dillon Roman,78297,The Citadel,Francisco Valdes,49089,Chattanooga
+2023,01/21,Davidson - Chattanooga Dual,141,W,DEC,8 - 2,Joshua Viarengo,71129,Davidson,Francisco Valdes,49089,Chattanooga
+2023,01/06,Chattanooga - VMI Dual,141,W,DEC,5 - 1,Freddy Junko,67430,VMI,Francisco Valdes,49089,Chattanooga
+2023,01/01,Southern Scuffle,141,L,SV-1,3 - 1,Jayden Gomez,72122,Little Rock,Francisco Valdes,49089,Chattanooga
+2023,01/01,Southern Scuffle,141,L,FALL,4:31,Allan Hart,49193,Missouri,Francisco Valdes,49089,Chattanooga
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,141,L,DEC,4 - 3,Marcel Lopez,78290,SIU Edwardsville,Francisco Valdes,49089,Chattanooga
+2023,11/05,Little Rock - Chattanooga Dual,141,L,DEC,5 - 3,Jayden Gomez,72122,Little Rock,Francisco Valdes,49089,Chattanooga
+2023,11/05,Buffalo - Chattanooga Dual,141,L,DEC,3 - 2,Jack Marlow,73355,Buffalo,Francisco Valdes,49089,Chattanooga
+2023,11/05,Wisconsin - Chattanooga Dual,141,L,DEC,10 - 5,Joseph Zargo,62890,Wisconsin,Francisco Valdes,49089,Chattanooga
+2023,02/05,Newberry Open,141,W,TF5,21 - 5 7:00,Jackson Crawford,83985,Southeastern University,Blake Boarman,70737,Chattanooga
+2023,02/05,Newberry Open,141,W,MD,10 - 0,Tyler Garrett,83616,Reinhardt University,Blake Boarman,70737,Chattanooga
+2023,02/05,Newberry Open,141,W,TF5,19 - 3 7:00,Austin Zehring,78802,VMI,Blake Boarman,70737,Chattanooga
+2023,02/05,Newberry Open,141,W,MD,19 - 9,Dillon Roman,78297,The Citadel,Blake Boarman,70737,Chattanooga
+2023,02/05,Newberry Open,141,L,MFOR,0 - 0,Dillon Roman,78297,The Citadel,Blake Boarman,70737,Chattanooga
+2023,02/05,Newberry Open,141,L,MFOR,0 - 0,James Roberts,75074,St Andrews,Blake Boarman,70737,Chattanooga
+2023,01/29,Chattanooga - The Citadel Dual,133,W,DEC,3 - 2,George Rosas,78686,The Citadel,Blake Boarman,70737,Chattanooga
+2023,01/01,Southern Scuffle,141,L,FALL,5:00,Teague Travis,63722,Oklahoma State,Blake Boarman,70737,Chattanooga
+2023,01/01,Southern Scuffle,141,L,MD,13 - 1,Collin Gerardi,51286,Virginia Tech,Blake Boarman,70737,Chattanooga
+2023,11/20,Chattanooga - Cleveland State Dual,141,L,MD,10 - 0,Dylan Layton,72925,Cleveland State,Blake Boarman,70737,Chattanooga
+2023,11/13,Battle at the Citadel,141,L,DEC,3 - 1,Dayne Dalrymple,71790,Chattanooga,Blake Boarman,70737,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,DEC,6 - 0,Trenton Donahue,71638,Presbyterian,Blake Boarman,70737,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,MD,18 - 7,Matthew McLaughlin,70742,Davidson,Blake Boarman,70737,Chattanooga
+2023,11/13,Battle at the Citadel,141,L,DEC,4 - 0,Zeth Brower,56243,Lander,Blake Boarman,70737,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,FALL,4:55,Jason Garay,73358,The Citadel,Blake Boarman,70737,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,FALL,1:18,Joe Clement,69605,The Citadel,Blake Boarman,70737,Chattanooga
+2023,02/19,Indiana - Chattanooga Dual,141,L,DEC,3 - 1,Cayden Rooks,56710,Indiana,Dayne Dalrymple,71790,Chattanooga
+2023,02/10,Gardner-Webb - Chattanooga Dual,141,L,DEC,6 - 2,Zach Price,50932,Gardner-Webb,Dayne Dalrymple,71790,Chattanooga
+2023,01/27,Chattanooga - Presbyterian Dual,141,W,DEC,2 - 1,Trenton Donahue,71638,Presbyterian,Dayne Dalrymple,71790,Chattanooga
+2023,01/13,West Virginia - Chattanooga Dual,141,L,DEC,6 - 2,Jordan Titus,68738,West Virginia,Dayne Dalrymple,71790,Chattanooga
+2023,01/01,Southern Scuffle,141,L,MD,8 - 0,Dylan Chappell,71754,Bucknell,Dayne Dalrymple,71790,Chattanooga
+2023,01/01,Southern Scuffle,141,L,DEC,4 - 1,Kyren Butler,72944,Virginia,Dayne Dalrymple,71790,Chattanooga
+2023,12/16,Clarion - Chattanooga Dual,141,L,DEC,5 - 3,Seth Koleno,51157,Clarion,Dayne Dalrymple,71790,Chattanooga
+2023,12/10,Iowa - Chattanooga Dual,141,L,TF5,16 - 0 2:58,Real Woods,50664,Iowa,Dayne Dalrymple,71790,Chattanooga
+2023,12/03,Chattanooga - Illinois Dual,141,L,FALL,4:00,Danny Pucino,66101,Illinois,Dayne Dalrymple,71790,Chattanooga
+2023,11/20,Chattanooga - Northern Illinois Dual,141,L,DEC,3 - 1,Jaivon Jones,62724,Northern Illinois,Dayne Dalrymple,71790,Chattanooga
+2023,11/20,Purdue Chattanooga ECM,141,W,DEC,6 - 2,Christian White,72619,Purdue,Dayne Dalrymple,71790,Chattanooga
+2023,11/20,Chattanooga - Purdue Dual,141,L,DEC,5 - 2,Parker Filius,49302,Purdue,Dayne Dalrymple,71790,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,MD,16 - 7,Ethan Gustilo,71122,Southeastern University,Dayne Dalrymple,71790,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,FALL,0:28,Joseph Nicholson,71014,UNC Pembroke,Dayne Dalrymple,71790,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,DEC,3 - 1,Blake Boarman,70737,Chattanooga,Dayne Dalrymple,71790,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,MD,14 - 4,Jake Insko,70020,Chattanooga,Dayne Dalrymple,71790,Chattanooga
+2023,11/13,Battle at the Citadel,141,L,DEC,3 - 2,Parker Dobrocky,64211,Southeastern University,Dayne Dalrymple,71790,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,FALL,5:00,Ethan Szerencsits,69902,American,Dayne Dalrymple,71790,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,DEC,3 - 0,Dillon Roman,78297,The Citadel,Dayne Dalrymple,71790,Chattanooga
+2023,11/13,Battle at the Citadel,141,L,MD,14 - 4,Dayne Dalrymple,71790,Chattanooga,Jake Insko,70020,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,MD,11 - 2,Miguel Jaimes,82075,Truett-McConnell,Jake Insko,70020,Chattanooga
+2023,11/13,Battle at the Citadel,141,L,DEC,5 - 2,Chris Kelly,77901,Southeastern University,Jake Insko,70020,Chattanooga
+2023,01/28,Blue Raider Open,149,L,DEC,6 - 2,Reese Jones,83820,Life University,Cole Thomas,70736,Chattanooga
+2023,01/28,Blue Raider Open,149,W,MFOR,0 - 0,Mohamed Ben Hafsia,83819,Montreat College,Cole Thomas,70736,Chattanooga
+2023,01/28,Blue Raider Open,149,W,FALL,3:51,Logan Reaves,81858,Life University,Cole Thomas,70736,Chattanooga
+2023,01/28,Blue Raider Open,149,W,DEC,6 - 2,Derrick Bannister,76675,Cumberlands,Cole Thomas,70736,Chattanooga
+2023,01/28,Blue Raider Open,149,W,DEC,8 - 4,Cameron Crump,76402,Life University,Cole Thomas,70736,Chattanooga
+2023,01/28,Blue Raider Open,149,L,DEC,5 - 2,Brevin Balmeceda,57352,Life University,Cole Thomas,70736,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,DEC,7 - 1,Chris Kelly,77901,Southeastern University,Cole Thomas,70736,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,TF5,19 - 4 5:09,Ethan Gustilo,71122,Southeastern University,Cole Thomas,70736,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,FALL,2:42,Matthew McLaughlin,70742,Davidson,Cole Thomas,70736,Chattanooga
+2023,11/13,Battle at the Citadel,141,L,MD,12 - 1,Zeth Brower,56243,Lander,Cole Thomas,70736,Chattanooga
+2023,11/13,Battle at the Citadel,141,W,MD,10 - 0,Jacob Silka,78557,The Citadel,Cole Thomas,70736,Chattanooga
+2023,03/04,SoCon Championships,149,L,DEC,4 - 0,John Millner,50212,Appalachian State,Noah Castillo,67364,Chattanooga
+2023,03/04,SoCon Championships,149,W,TF5,21 - 3 5:00,Khalid Brinkley,61614,Presbyterian,Noah Castillo,67364,Chattanooga
+2023,03/04,SoCon Championships,149,W,DEC,8 - 3,Chris Rivera,62331,Campbell,Noah Castillo,67364,Chattanooga
+2023,02/19,Indiana - Chattanooga Dual,149,L,DEC,6 - 4,Graham Rooks,51283,Indiana,Noah Castillo,67364,Chattanooga
+2023,02/17,Bellarmine - Chattanooga Dual,149,W,MD,16 - 6,Zac Cowan,73532,Bellarmine,Noah Castillo,67364,Chattanooga
+2023,02/12,Campbell - Chattanooga Dual,149,W,DEC,4 - 1,Chris Rivera,62331,Campbell,Noah Castillo,67364,Chattanooga
+2023,02/10,Gardner-Webb - Chattanooga Dual,149,W,MD,20 - 6,Parker Corwin,63037,Gardner-Webb,Noah Castillo,67364,Chattanooga
+2023,02/05,Chattanooga - Appalachian State Dual,149,L,DEC,4 - 0,John Millner,50212,Appalachian State,Noah Castillo,67364,Chattanooga
+2023,01/29,Chattanooga - The Citadel Dual,149,W,TF5,22 - 5 5:21,Ethan Willis,62074,The Citadel,Noah Castillo,67364,Chattanooga
+2023,01/27,Chattanooga - Presbyterian Dual,149,W,MD,14 - 3,Khalid Brinkley,61614,Presbyterian,Noah Castillo,67364,Chattanooga
+2023,01/01,Southern Scuffle,149,L,MFOR,0 - 0,Grant Lundy,59756,Chattanooga,Noah Castillo,67364,Chattanooga
+2023,01/01,Southern Scuffle,149,W,DEC,8 - 3,Blaine Brenner,72138,Minnesota,Noah Castillo,67364,Chattanooga
+2023,01/01,Southern Scuffle,149,L,DEC,2 - 0,Nathan Pulliam,70916,Missouri,Noah Castillo,67364,Chattanooga
+2023,12/16,Clarion - Chattanooga Dual,149,L,DEC,7 - 4,Kyle Schickel,67305,Clarion,Noah Castillo,67364,Chattanooga
+2023,12/10,Iowa - Chattanooga Dual,149,W,TB-1,3 - 2,Joel Jesuroga,74084,Iowa,Noah Castillo,67364,Chattanooga
+2023,12/03,Chattanooga - Illinois Dual,149,W,FALL,3:28,Kevon Davenport,57216,Illinois,Noah Castillo,67364,Chattanooga
+2023,01/21,Davidson - Chattanooga Dual,149,W,MD,19 - 7,Matthew McLaughlin,70742,Davidson,Grant Lundy,59756,Chattanooga
+2023,01/13,West Virginia - Chattanooga Dual,149,L,DEC,12 - 10,Sam Hillegas,61125,West Virginia,Grant Lundy,59756,Chattanooga
+2023,01/06,Chattanooga - VMI Dual,149,W,DEC,3 - 0,Josh Yost,62379,VMI,Grant Lundy,59756,Chattanooga
+2023,01/01,Southern Scuffle,149,W,DEC,6 - 3,Jaden Reynolds,72620,Purdue,Grant Lundy,59756,Chattanooga
+2023,01/01,Southern Scuffle,149,W,MFOR,0 - 0,Noah Castillo,67364,Chattanooga,Grant Lundy,59756,Chattanooga
+2023,01/01,Southern Scuffle,149,L,DEC,9 - 5,Marcos Polanco,57653,Minnesota,Grant Lundy,59756,Chattanooga
+2023,01/01,Southern Scuffle,149,L,FALL,4:22,Quinn Kinner,51144,Rider,Grant Lundy,59756,Chattanooga
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,149,L,TF5,17 - 0 5:19,Caleb Tyus,72912,SIU Edwardsville,Grant Lundy,59756,Chattanooga
+2023,11/20,Chattanooga - Northern Illinois Dual,149,L,DEC,3 - 2,Anthony Cheloni,53565,Northern Illinois,Grant Lundy,59756,Chattanooga
+2023,11/20,Chattanooga - Cleveland State Dual,149,W,DEC,7 - 2,Douglas Terry,70741,Cleveland State,Grant Lundy,59756,Chattanooga
+2023,11/20,Chattanooga - Purdue Dual,149,L,DEC,7 - 2,Trey Kruse,67044,Purdue,Grant Lundy,59756,Chattanooga
+2023,11/13,Battle at the Citadel,149,W,DEC,6 - 1,Noah Frack,71728,Davidson,Grant Lundy,59756,Chattanooga
+2023,11/13,Battle at the Citadel,149,W,MFOR,0 - 0,Andreus Bond,64186,Southeastern University,Grant Lundy,59756,Chattanooga
+2023,11/13,Battle at the Citadel,149,W,TF5,17 - 2 4:44,David Diaz,62396,VMI,Grant Lundy,59756,Chattanooga
+2023,11/13,Battle at the Citadel,149,W,DEC,3 - 2,Ethan Willis,62074,The Citadel,Grant Lundy,59756,Chattanooga
+2023,11/05,Little Rock - Chattanooga Dual,149,L,DEC,5 - 3,Joseph Bianchi,62836,Little Rock,Grant Lundy,59756,Chattanooga
+2023,11/05,Buffalo - Chattanooga Dual,149,L,DEC,5 - 2,Kaleb Burgess,72225,Buffalo,Grant Lundy,59756,Chattanooga
+2023,11/05,Wisconsin - Chattanooga Dual,149,L,FALL,2:44,Austin Gomez,49153,Wisconsin,Grant Lundy,59756,Chattanooga
+2023,01/28,Appalachian Open,149,W,DEC,6 - 5,Kai O'Dell,79083,Appalachian State,Matthew Williams,69865,Chattanooga
+2023,01/28,Appalachian Open,149,W,DEC,8 - 2,Sam Harris,78672,Gardner-Webb,Matthew Williams,69865,Chattanooga
+2023,01/28,Appalachian Open,149,L,DEC,6 - 2,Tommy Curran,77778,NC State,Matthew Williams,69865,Chattanooga
+2023,01/28,Appalachian Open,149,L,DEC,8 - 2,Kaden Keiser,75728,Appalachian State,Matthew Williams,69865,Chattanooga
+2023,01/21,Davidson - Chattanooga Dual,157,L,DEC,3 - 1,Tanner Peake,78288,Davidson,Matthew Williams,69865,Chattanooga
+2023,01/01,Southern Scuffle,149,L,SV-1,5 - 3,Theo Cha,71025,Minnesota,Matthew Williams,69865,Chattanooga
+2023,01/01,Southern Scuffle,149,L,TF5,18 - 3 4:38,Jaden Abas,56738,Stanford,Matthew Williams,69865,Chattanooga
+2023,11/20,Purdue Chattanooga ECM,149,L,DEC,4 - 3,Jaden Reynolds,72620,Purdue,Matthew Williams,69865,Chattanooga
+2023,11/13,Battle at the Citadel,149,W,FALL,0:25,Kael Brisker,77897,Southeastern University,Matthew Williams,69865,Chattanooga
+2023,11/13,Battle at the Citadel,149,L,FALL,2:28,Noah Frack,71728,Davidson,Matthew Williams,69865,Chattanooga
+2023,11/13,Battle at the Citadel,149,W,DEC,4 - 3,Maxwell Kauffman,64196,Southeastern University,Matthew Williams,69865,Chattanooga
+2023,11/13,Battle at the Citadel,149,W,DEC,2 - 0,Leonel Silvestre,59800,Truett-McConnell,Matthew Williams,69865,Chattanooga
+2023,11/13,Battle at the Citadel,149,L,DEC,2 - 0,Hayden Watson,74085,The Citadel,Matthew Williams,69865,Chattanooga
+2023,03/04,SoCon Championships,157,W,DEC,13 - 6,Michael Ramirez,69874,Presbyterian,Lincoln Heck,66629,Chattanooga
+2023,03/04,SoCon Championships,157,L,TF5,16 - 1 4:53,Jobe Chishko,56805,VMI,Lincoln Heck,66629,Chattanooga
+2023,03/04,SoCon Championships,157,L,DEC,5 - 0,Troy Nation,57189,Campbell,Lincoln Heck,66629,Chattanooga
+2023,02/19,Indiana - Chattanooga Dual,157,L,DEC,4 - 1,Derek Gilcher,62760,Indiana,Lincoln Heck,66629,Chattanooga
+2023,02/17,Bellarmine - Chattanooga Dual,157,W,MD,10 - 2,Tavius Hosley,79278,Bellarmine,Lincoln Heck,66629,Chattanooga
+2023,02/12,Campbell - Chattanooga Dual,157,L,FALL,3:39,Troy Nation,57189,Campbell,Lincoln Heck,66629,Chattanooga
+2023,02/10,Gardner-Webb - Chattanooga Dual,157,W,DEC,3 - 1,Tyler Brignola,73727,Gardner-Webb,Lincoln Heck,66629,Chattanooga
+2023,02/05,Chattanooga - Appalachian State Dual,157,L,MD,13 - 3,Tommy Askey,67040,Appalachian State,Lincoln Heck,66629,Chattanooga
+2023,01/29,Chattanooga - The Citadel Dual,157,W,DEC,4 - 3,Tucker Allen,69724,The Citadel,Lincoln Heck,66629,Chattanooga
+2023,01/27,Chattanooga - Presbyterian Dual,157,W,MD,13 - 4,Michael Ramirez,69874,Presbyterian,Lincoln Heck,66629,Chattanooga
+2023,01/13,West Virginia - Chattanooga Dual,157,L,DEC,3 - 2,Alex Hornfeck,56494,West Virginia,Lincoln Heck,66629,Chattanooga
+2023,01/06,Chattanooga - VMI Dual,157,W,MD,14 - 2,Jobe Chishko,56805,VMI,Lincoln Heck,66629,Chattanooga
+2023,01/01,Southern Scuffle,157,L,MD,9 - 1,Vince Zerban,73032,Northern Colorado,Lincoln Heck,66629,Chattanooga
+2023,01/01,Southern Scuffle,157,W,DEC,6 - 5,Luke Mechler,71940,Oklahoma State,Lincoln Heck,66629,Chattanooga
+2023,01/01,Southern Scuffle,157,L,DEC,10 - 6,Andrew Huddleston,71153,Iowa State,Lincoln Heck,66629,Chattanooga
+2023,01/01,Southern Scuffle,157,W,DEC,6 - 4,Tim Stapleton,71026,Minnesota,Lincoln Heck,66629,Chattanooga
+2023,12/16,Clarion - Chattanooga Dual,157,W,DEC,5 - 4,Trevor Elfvin,51017,Clarion,Lincoln Heck,66629,Chattanooga
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,157,W,DEC,7 - 2,Alec Peralta,78291,SIU Edwardsville,Lincoln Heck,66629,Chattanooga
+2023,12/10,Iowa - Chattanooga Dual,157,L,DEC,5 - 2,Cobe Siebrecht,60716,Iowa,Lincoln Heck,66629,Chattanooga
+2023,12/03,Chattanooga - Illinois Dual,157,W,DEC,3 - 2,Anthony Federico,67140,Illinois,Lincoln Heck,66629,Chattanooga
+2023,11/20,Chattanooga - Northern Illinois Dual,157,W,DEC,8 - 6,Munkhtulga Zuunbayan,64263,Northern Illinois,Lincoln Heck,66629,Chattanooga
+2023,11/20,Chattanooga - Cleveland State Dual,157,L,DEC,3 - 2,Shane Heil,72593,Cleveland State,Lincoln Heck,66629,Chattanooga
+2023,11/20,Chattanooga - Purdue Dual,157,L,DEC,7 - 2,Kendall Coleman,50626,Purdue,Lincoln Heck,66629,Chattanooga
+2023,11/05,Buffalo - Chattanooga Dual,157,W,DEC,6 - 4,Nick Stampoulos,74398,Buffalo,Lincoln Heck,66629,Chattanooga
+2023,11/05,Wisconsin - Chattanooga Dual,157,L,DEC,6 - 2,Garrett Model,49351,Wisconsin,Lincoln Heck,66629,Chattanooga
+2023,01/28,Appalachian Open,157,L,MFOR,0 - 0,Mason Stefanelli,79924,Virginia,Jeremy Paradice,73957,Chattanooga
+2023,01/28,Appalachian Open,157,W,FALL,6:14,Nick Sanko,72927,Virginia,Jeremy Paradice,73957,Chattanooga
+2023,01/28,Appalachian Open,157,L,INJ,0:53,Tanner Peake,78288,Davidson,Jeremy Paradice,73957,Chattanooga
+2023,01/28,Appalachian Open,157,W,DEC,9 - 3,Marc Koch,73735,Davidson,Jeremy Paradice,73957,Chattanooga
+2023,11/13,Battle at the Citadel,157,W,MD,12 - 1,Salvador Silva,76667,Southeastern University,Jeremy Paradice,73957,Chattanooga
+2023,11/13,Battle at the Citadel,157,W,DEC,3 - 2,Antonio Segura,64117,American,Jeremy Paradice,73957,Chattanooga
+2023,11/13,Battle at the Citadel,157,W,DEC,3 - 2,Thomas Snipes,73714,The Citadel,Jeremy Paradice,73957,Chattanooga
+2023,11/13,Battle at the Citadel,157,L,DEC,4 - 2,Selwyn Porter,57380,The Citadel,Jeremy Paradice,73957,Chattanooga
+2023,11/13,Battle at the Citadel,157,L,DEC,8 - 6,Trace Braun,77985,Southeastern University,Cole Cochran,73759,Chattanooga
+2023,11/13,Battle at the Citadel,157,W,DEC,3 - 2,Jackson Hurst,73352,Chattanooga,Cole Cochran,73759,Chattanooga
+2023,11/13,Battle at the Citadel,157,W,DEC,8 - 2,Preston Decker,69856,Duke,Cole Cochran,73759,Chattanooga
+2023,11/13,Battle at the Citadel,157,W,DEC,4 - 1,Antonio Segura,64117,American,Cole Cochran,73759,Chattanooga
+2023,11/13,Battle at the Citadel,157,L,TF5,18 - 2 6:58,Thomas Snipes,73714,The Citadel,Cole Cochran,73759,Chattanooga
+2023,11/05,Little Rock - Chattanooga Dual,157,L,DEC,5 - 2,Matt Bianchi,72120,Little Rock,Cole Cochran,73759,Chattanooga
+2023,03/04,SoCon Championships,165,L,DEC,11 - 9,Braxton Lewis,78474,VMI,Weston Wichman,58537,Chattanooga
+2023,03/04,SoCon Championships,165,W,DEC,9 - 8,Bryce Sanderlin,63711,Davidson,Weston Wichman,58537,Chattanooga
+2023,03/04,SoCon Championships,165,L,TB-1,4 - 1,Rodrick Mosley,50889,Gardner-Webb,Weston Wichman,58537,Chattanooga
+2023,02/12,Campbell - Chattanooga Dual,165,W,DEC,5 - 2,Domonic Baker,71742,Campbell,Weston Wichman,58537,Chattanooga
+2023,02/05,Chattanooga - Appalachian State Dual,165,L,DEC,6 - 0,William Formato,57034,Appalachian State,Weston Wichman,58537,Chattanooga
+2023,01/29,Chattanooga - The Citadel Dual,165,W,DEC,6 - 0,Aidan Lenz,73359,The Citadel,Weston Wichman,58537,Chattanooga
+2023,01/21,Davidson - Chattanooga Dual,165,W,DEC,3 - 1,Bryce Sanderlin,63711,Davidson,Weston Wichman,58537,Chattanooga
+2023,11/05,Little Rock - Chattanooga Dual,165,L,DEC,7 - 1,Tyler Brennan,62844,Little Rock,Weston Wichman,58537,Chattanooga
+2023,11/05,Wisconsin - Chattanooga Dual,165,L,MD,11 - 3,Dean Hamiti,62894,Wisconsin,Weston Wichman,58537,Chattanooga
+2023,02/17,Bellarmine - Chattanooga Dual,165,W,DEC,8 - 5,Cole Nance,73533,Bellarmine,Kamdyn Munro,71789,Chattanooga
+2023,02/10,Gardner-Webb - Chattanooga Dual,165,L,MD,16 - 5,Rodrick Mosley,50889,Gardner-Webb,Kamdyn Munro,71789,Chattanooga
+2023,02/05,Newberry Open,165,L,MFOR,0 - 0,Brodie Porter,79293,The Citadel,Kamdyn Munro,71789,Chattanooga
+2023,02/05,Newberry Open,165,W,TF5,16 - 1 7:00,Connor Reese,83987,Unattached,Kamdyn Munro,71789,Chattanooga
+2023,02/05,Newberry Open,165,L,MFOR,0 - 0,Brandon Jacoby,80039,Presbyterian,Kamdyn Munro,71789,Chattanooga
+2023,02/05,Newberry Open,165,W,FALL,5:23,Brodie Porter,79293,The Citadel,Kamdyn Munro,71789,Chattanooga
+2023,02/05,Newberry Open,165,L,MFOR,0 - 0,Justin Hayes,79292,The Citadel,Kamdyn Munro,71789,Chattanooga
+2023,02/05,Newberry Open,165,W,DEC,8 - 4,Marcus Murabito,78999,North Carolina,Kamdyn Munro,71789,Chattanooga
+2023,01/28,Appalachian Open,165,W,TF5,16 - 0 2:10,Luke Gregory,80516,Greensboro,Kamdyn Munro,71789,Chattanooga
+2023,01/28,Appalachian Open,165,W,FALL,2:54,Justin Hayes,79292,The Citadel,Kamdyn Munro,71789,Chattanooga
+2023,01/28,Appalachian Open,165,L,DEC,6 - 2,Derek Fields,71932,NC State,Kamdyn Munro,71789,Chattanooga
+2023,01/28,Appalachian Open,165,W,MFOR,0 - 0,Bryce Sanderlin,63711,Davidson,Kamdyn Munro,71789,Chattanooga
+2023,01/01,Southern Scuffle,165,W,DEC,8 - 4,Chase Barlow,78732,Bucknell,Kamdyn Munro,71789,Chattanooga
+2023,01/01,Southern Scuffle,165,W,FALL,0:58,Gaetano Console,73305,Duke,Kamdyn Munro,71789,Chattanooga
+2023,01/01,Southern Scuffle,165,L,DEC,9 - 3,Dimitri Gamkrelidze,67295,Binghamton,Kamdyn Munro,71789,Chattanooga
+2023,01/01,Southern Scuffle,165,L,DEC,6 - 2,Baylor Fernandes,57351,Northern Colorado,Kamdyn Munro,71789,Chattanooga
+2023,11/13,Battle at the Citadel,165,W,FALL,1:16,Spencer Fields,80143,Truett-McConnell,Kamdyn Munro,71789,Chattanooga
+2023,11/13,Battle at the Citadel,165,W,DEC,8 - 5,Wyatt Kirkham,66160,Southeastern University,Kamdyn Munro,71789,Chattanooga
+2023,11/13,Battle at the Citadel,165,L,DEC,6 - 2,Caleb Campos,78804,American,Kamdyn Munro,71789,Chattanooga
+2023,11/13,Battle at the Citadel,165,W,DEC,7 - 1,Ryan Zimmerman,69904,American,Kamdyn Munro,71789,Chattanooga
+2023,11/13,Battle at the Citadel,165,W,FALL,2:46,Tucker Allen,69724,The Citadel,Kamdyn Munro,71789,Chattanooga
+2023,02/19,Indiana - Chattanooga Dual,165,L,DEC,4 - 1,Nicholas South,56709,Indiana,Jackson Hurst,73352,Chattanooga
+2023,01/27,Chattanooga - Presbyterian Dual,165,L,FALL,0:32,Ty Chittum,74566,Presbyterian,Jackson Hurst,73352,Chattanooga
+2023,01/21,Chattanooga Davidson ECM,165,W,MD,12 - 0,Christian Rutherford,77921,Davidson,Jackson Hurst,73352,Chattanooga
+2023,01/01,Southern Scuffle,157,L,DEC,7 - 5,Jason Kraisser,57287,Iowa State,Jackson Hurst,73352,Chattanooga
+2023,01/01,Southern Scuffle,157,L,DEC,3 - 2,Nathan Moore,56919,Northern Colorado,Jackson Hurst,73352,Chattanooga
+2023,12/16,Clarion - Chattanooga Dual,165,L,MD,10 - 0,Cameron Pine,57196,Clarion,Jackson Hurst,73352,Chattanooga
+2023,12/10,Iowa - Chattanooga Dual,165,L,TF5,23 - 8 7:00,Patrick Kennedy,56760,Iowa,Jackson Hurst,73352,Chattanooga
+2023,12/03,Chattanooga - Illinois Dual,165,L,TF5,22 - 7 6:04,Danny Braunagel,50926,Illinois,Jackson Hurst,73352,Chattanooga
+2023,11/20,Chattanooga - Cleveland State Dual,165,W,DEC,8 - 2,Caleb Cass,57214,Cleveland State,Jackson Hurst,73352,Chattanooga
+2023,11/20,Chattanooga - Purdue Dual,165,L,MD,12 - 4,Stoney Buell,72153,Purdue,Jackson Hurst,73352,Chattanooga
+2023,11/13,Battle at the Citadel,157,L,DEC,3 - 2,Cole Cochran,73759,Chattanooga,Jackson Hurst,73352,Chattanooga
+2023,11/13,Battle at the Citadel,157,W,FALL,1:52,Anthony Greear,77769,Truett-McConnell,Jackson Hurst,73352,Chattanooga
+2023,11/13,Battle at the Citadel,157,L,DEC,8 - 4,Salvador Silva,76667,Southeastern University,Jackson Hurst,73352,Chattanooga
+2023,11/13,Battle at the Citadel,157,W,DEC,6 - 2,Bryson Ethington,63110,Lander,Jackson Hurst,73352,Chattanooga
+2023,01/06,Chattanooga - VMI Dual,165,L,MD,14 - 6,Braxton Lewis,78474,VMI,Caleb Waddell,70021,Chattanooga
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,165,L,DEC,6 - 2,Cardeionte Wilson,67405,SIU Edwardsville,Caleb Waddell,70021,Chattanooga
+2023,11/20,Chattanooga - Northern Illinois Dual,165,L,FALL,1:43,Izzak Olejnik,56509,Northern Illinois,Caleb Waddell,70021,Chattanooga
+2023,11/05,Buffalo - Chattanooga Dual,165,L,DEC,10 - 7,Ty Raines,57719,Buffalo,Caleb Waddell,70021,Chattanooga
+2023,03/16,NCAA Championships,174,L,DEC,2 - 0,Edmond Ruth,51277,Illinois,Rocky Jordan,50928,Chattanooga
+2023,03/16,NCAA Championships,174,W,MD,12 - 0,Sal Perrine,73171,Ohio,Rocky Jordan,50928,Chattanooga
+2023,03/16,NCAA Championships,174,L,DEC,8 - 7,Michael O'Malley,50836,Drexel,Rocky Jordan,50928,Chattanooga
+2023,03/04,SoCon Championships,174,W,DEC,4 - 2,Will Miller,73102,Appalachian State,Rocky Jordan,50928,Chattanooga
+2023,03/04,SoCon Championships,174,W,FALL,4:03,Andrew Wilson,73732,Gardner-Webb,Rocky Jordan,50928,Chattanooga
+2023,03/04,SoCon Championships,174,W,MD,13 - 0,Jaden Hardrick,65048,Davidson,Rocky Jordan,50928,Chattanooga
+2023,02/19,Indiana - Chattanooga Dual,174,L,DEC,4 - 1,Donnell Washington,57738,Indiana,Rocky Jordan,50928,Chattanooga
+2023,02/17,Bellarmine - Chattanooga Dual,174,W,DEC,8 - 1,Devan Hendricks,62787,Bellarmine,Rocky Jordan,50928,Chattanooga
+2023,02/12,Campbell - Chattanooga Dual,174,W,MD,10 - 1,Riley Augustine,69727,Campbell,Rocky Jordan,50928,Chattanooga
+2023,02/10,Gardner-Webb - Chattanooga Dual,174,W,FALL,1:15,Andrew Wilson,73732,Gardner-Webb,Rocky Jordan,50928,Chattanooga
+2023,02/05,Chattanooga - Appalachian State Dual,174,W,DEC,11 - 5,Will Miller,73102,Appalachian State,Rocky Jordan,50928,Chattanooga
+2023,01/29,Chattanooga - The Citadel Dual,174,W,TF5,15 - 0 4:36,Benjamin Haubert,71286,The Citadel,Rocky Jordan,50928,Chattanooga
+2023,01/27,Chattanooga - Presbyterian Dual,174,W,TF5,19 - 3 6:23,Zachary Wells,67829,Presbyterian,Rocky Jordan,50928,Chattanooga
+2023,01/21,Davidson - Chattanooga Dual,174,W,TF5,15 - 0 4:35,Jaden Hardrick,65048,Davidson,Rocky Jordan,50928,Chattanooga
+2023,01/13,West Virginia - Chattanooga Dual,174,W,MD,9 - 0,Scott Joll,62424,West Virginia,Rocky Jordan,50928,Chattanooga
+2023,01/06,Chattanooga - VMI Dual,174,W,TF5,16 - 0 5:24,Jon Hoover,57525,VMI,Rocky Jordan,50928,Chattanooga
+2023,12/16,Clarion - Chattanooga Dual,174,W,TF5,16 - 1 2:31,John Worthing,61847,Clarion,Rocky Jordan,50928,Chattanooga
+2023,12/10,Iowa - Chattanooga Dual,174,W,DEC,3 - 1,Nelson Brands,49994,Iowa,Rocky Jordan,50928,Chattanooga
+2023,12/03,Chattanooga - Illinois Dual,174,L,DEC,5 - 2,Edmond Ruth,51277,Illinois,Rocky Jordan,50928,Chattanooga
+2023,11/20,Chattanooga - Northern Illinois Dual,174,W,DEC,6 - 0,Hayden Pummel,73344,Northern Illinois,Rocky Jordan,50928,Chattanooga
+2023,11/20,Chattanooga - Cleveland State Dual,174,W,TF5,16 - 0 4:31,Tate Geiser,78813,Cleveland State,Rocky Jordan,50928,Chattanooga
+2023,11/20,Chattanooga - Purdue Dual,174,W,MD,14 - 0,Macartney Parkinson,67304,Purdue,Rocky Jordan,50928,Chattanooga
+2023,11/05,Buffalo - Chattanooga Dual,174,W,DEC,12 - 5,Marcus Petite,67407,Buffalo,Rocky Jordan,50928,Chattanooga
+2023,11/05,Wisconsin - Chattanooga Dual,174,W,DEC,4 - 0,Joshua Otto,56743,Wisconsin,Rocky Jordan,50928,Chattanooga
+2023,02/17,Bellarmine - Chattanooga Dual,197,W,FALL,5:20,Luke LeClerc,78876,Bellarmine,Thomas Sell,64478,Chattanooga
+2023,01/27,Chattanooga - Presbyterian Dual,197,L,DEC,9 - 4,Malcolm Wiley,62915,Presbyterian,Thomas Sell,64478,Chattanooga
+2023,01/21,Chattanooga Davidson ECM,184,W,FALL,4:29,Cameo Blankenship,79784,Davidson,Thomas Sell,64478,Chattanooga
+2023,01/13,West Virginia - Chattanooga Dual,165,L,FALL,4:50,Peyton Hall,57711,West Virginia,Thomas Sell,64478,Chattanooga
+2023,01/01,Southern Scuffle,165,L,DEC,13 - 10,Will Ebert,76486,Binghamton,Thomas Sell,64478,Chattanooga
+2023,01/01,Southern Scuffle,165,L,DEC,18 - 12,Hunter Garvin,73862,Stanford,Thomas Sell,64478,Chattanooga
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,174,L,DEC,2 - 1,Chase Diehl,60388,SIU Edwardsville,Thomas Sell,64478,Chattanooga
+2023,11/20,Purdue Chattanooga ECM,174,L,MD,14 - 5,Brody Baumann,73558,Purdue,Thomas Sell,64478,Chattanooga
+2023,11/13,Battle at the Citadel,174,W,FALL,4:40,Nate Stephenson,71582,Davidson,Thomas Sell,64478,Chattanooga
+2023,11/13,Battle at the Citadel,174,W,DEC,10 - 6,Conor Becker,69858,Duke,Thomas Sell,64478,Chattanooga
+2023,11/13,Battle at the Citadel,174,W,FALL,0:31,Jack Bond,56516,Lander,Thomas Sell,64478,Chattanooga
+2023,11/13,Battle at the Citadel,174,W,DEC,9 - 7,Jack Bond,56516,Lander,Thomas Sell,64478,Chattanooga
+2023,11/13,Battle at the Citadel,174,L,FALL,2:50,Lucas White,72683,American,Thomas Sell,64478,Chattanooga
+2023,11/05,Little Rock - Chattanooga Dual,174,L,DEC,6 - 2,Triston Wills,58611,Little Rock,Thomas Sell,64478,Chattanooga
+2023,02/05,Newberry Open,174,W,MFOR,0 - 0,Cade Tenold,77999,North Carolina,Bryce Keckley,79013,Chattanooga
+2023,02/05,Newberry Open,174,W,TF5,16 - 1 7:00,Luca Flammina,83986,Clemson,Bryce Keckley,79013,Chattanooga
+2023,02/05,Newberry Open,174,W,TF5,16 - 0 7:00,Jonathan Vanderbilt,82169,Southeastern University,Bryce Keckley,79013,Chattanooga
+2023,02/05,Newberry Open,174,L,DEC,5 - 2,Andrew Reed,80203,Newberry,Bryce Keckley,79013,Chattanooga
+2023,02/05,Newberry Open,174,W,MD,12 - 0,Gabriel Anderson,73865,Reinhardt University,Bryce Keckley,79013,Chattanooga
+2023,01/28,Appalachian Open,174,L,DEC,6 - 2,Carson Tenold,78585,North Carolina,Bryce Keckley,79013,Chattanooga
+2023,01/28,Appalachian Open,174,L,MD,10 - 1,Brock Delsignore,71935,NC State,Bryce Keckley,79013,Chattanooga
+2023,01/01,Southern Scuffle,174,L,TF5,18 - 3 6:11,Julien Broderson,57644,Iowa State,Bryce Keckley,79013,Chattanooga
+2023,01/01,Southern Scuffle,174,L,MD,13 - 3,Jordan Florence,52574,Virginia Tech,Bryce Keckley,79013,Chattanooga
+2023,03/16,NCAA Championships,184,L,DEC,3 - 1,Jha'Quan Anderson,62407,Gardner-Webb,Matthew Waddell,49259,Chattanooga
+2023,03/16,NCAA Championships,184,L,MD,13 - 4,Aaron Brooks,54280,Penn State,Matthew Waddell,49259,Chattanooga
+2023,03/04,SoCon Championships,184,W,DEC,4 - 3,Lucas Uliano,71130,Appalachian State,Matthew Waddell,49259,Chattanooga
+2023,03/04,SoCon Championships,184,L,DEC,3 - 2,Jha'Quan Anderson,62407,Gardner-Webb,Matthew Waddell,49259,Chattanooga
+2023,03/04,SoCon Championships,184,W,DEC,7 - 5,Timothy Fitzpatrick,57254,The Citadel,Matthew Waddell,49259,Chattanooga
+2023,03/04,SoCon Championships,184,W,DEC,5 - 2,Cordell Duhart,56938,Presbyterian,Matthew Waddell,49259,Chattanooga
+2023,02/19,Indiana - Chattanooga Dual,184,W,DEC,5 - 2,Drayton Harris,69357,Indiana,Matthew Waddell,49259,Chattanooga
+2023,02/17,Bellarmine - Chattanooga Dual,184,W,MD,12 - 4,Kennedy Wyatt,79333,Bellarmine,Matthew Waddell,49259,Chattanooga
+2023,02/12,Campbell - Chattanooga Dual,184,W,DEC,4 - 3,Caleb Hopkins,56482,Campbell,Matthew Waddell,49259,Chattanooga
+2023,02/10,Gardner-Webb - Chattanooga Dual,184,L,SV-1,3 - 1,Jha'Quan Anderson,62407,Gardner-Webb,Matthew Waddell,49259,Chattanooga
+2023,02/05,Chattanooga - Appalachian State Dual,184,W,DEC,5 - 2,Lucas Uliano,71130,Appalachian State,Matthew Waddell,49259,Chattanooga
+2023,01/29,Chattanooga - The Citadel Dual,184,W,TF5,21 - 6 7:00,Micah Dicarlo,73053,The Citadel,Matthew Waddell,49259,Chattanooga
+2023,01/27,Chattanooga - Presbyterian Dual,184,L,DEC,4 - 3,Cordell Duhart,56938,Presbyterian,Matthew Waddell,49259,Chattanooga
+2023,01/21,Davidson - Chattanooga Dual,184,W,FALL,3:23,Oliver Tipton,79057,Davidson,Matthew Waddell,49259,Chattanooga
+2023,01/13,West Virginia - Chattanooga Dual,184,W,FALL,4:03,Anthony Carman,62423,West Virginia,Matthew Waddell,49259,Chattanooga
+2023,01/06,Chattanooga - VMI Dual,184,W,FALL,1:23,Zach Brown,62390,VMI,Matthew Waddell,49259,Chattanooga
+2023,01/01,Southern Scuffle,184,L,DEC,9 - 4,Kyle Haas,67222,Oklahoma State,Matthew Waddell,49259,Chattanooga
+2023,01/01,Southern Scuffle,184,W,DEC,9 - 3,Jacob Hansen,66542,CSU Bakersfield,Matthew Waddell,49259,Chattanooga
+2023,01/01,Southern Scuffle,184,L,DEC,3 - 1,Sam Fisher,62358,Virginia Tech,Matthew Waddell,49259,Chattanooga
+2023,12/16,Clarion - Chattanooga Dual,184,W,FALL,0:32,Will Feldkamp,51599,Clarion,Matthew Waddell,49259,Chattanooga
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,184,W,MD,12 - 3,Sergio Villalobos,57005,SIU Edwardsville,Matthew Waddell,49259,Chattanooga
+2023,12/10,Iowa - Chattanooga Dual,184,L,MD,14 - 4,Abe Assad,56936,Iowa,Matthew Waddell,49259,Chattanooga
+2023,12/03,Chattanooga - Illinois Dual,184,L,DEC,3 - 1,Dylan Connell,67216,Illinois,Matthew Waddell,49259,Chattanooga
+2023,11/20,Chattanooga - Northern Illinois Dual,184,W,DEC,8 - 3,Matt Zuber,66265,Northern Illinois,Matthew Waddell,49259,Chattanooga
+2023,11/20,Chattanooga - Cleveland State Dual,184,W,DEC,2 - 1,Deandre Nassar,62202,Cleveland State,Matthew Waddell,49259,Chattanooga
+2023,11/20,Chattanooga - Purdue Dual,184,W,DEC,6 - 0,Ben Vanadia,68732,Purdue,Matthew Waddell,49259,Chattanooga
+2023,01/28,Appalachian Open,184,W,DEC,10 - 3,Aiden McCafferty,78747,NC State,Sergio Desiante,78495,Chattanooga
+2023,01/28,Appalachian Open,184,W,TF5,18 - 0 4:31,Hunter Adams,75723,Appalachian State,Sergio Desiante,78495,Chattanooga
+2023,01/28,Appalachian Open,184,W,MD,9 - 1,Landon Lewis,73353,Chattanooga,Sergio Desiante,78495,Chattanooga
+2023,01/28,Appalachian Open,184,W,TF5,15 - 0 3:35,Joseph Pargoe,71973,Gardner-Webb,Sergio Desiante,78495,Chattanooga
+2023,01/28,Appalachian Open,184,L,TF5,19 - 4 7:00,Joey Milano,70919,NC State,Sergio Desiante,78495,Chattanooga
+2023,01/01,Southern Scuffle,174,L,MD,16 - 5,Brody Baumann,73558,Purdue,Sergio Desiante,78495,Chattanooga
+2023,01/01,Southern Scuffle,174,L,DEC,8 - 3,Andrew Berreyesa,49111,Northern Colorado,Sergio Desiante,78495,Chattanooga
+2023,11/13,Battle at the Citadel,184,W,MD,9 - 1,David Bertrand,73013,Presbyterian,Sergio Desiante,78495,Chattanooga
+2023,11/13,Battle at the Citadel,184,W,DEC,8 - 4,Jack Wimmer,69859,Duke,Sergio Desiante,78495,Chattanooga
+2023,11/13,Battle at the Citadel,184,L,DEC,10 - 3,Logan Hall,50331,Lander,Sergio Desiante,78495,Chattanooga
+2023,11/13,Battle at the Citadel,184,W,DEC,12 - 5,William Rogers,71667,The Citadel,Sergio Desiante,78495,Chattanooga
+2023,11/05,Little Rock - Chattanooga Dual,184,L,DEC,6 - 3,Mason Diel,73207,Little Rock,Sergio Desiante,78495,Chattanooga
+2023,11/05,Buffalo - Chattanooga Dual,184,L,DEC,10 - 5,Guiseppe Hoose,56371,Buffalo,Sergio Desiante,78495,Chattanooga
+2023,11/05,Wisconsin - Chattanooga Dual,184,L,DEC,5 - 3,Tyler Dow,50622,Wisconsin,Sergio Desiante,78495,Chattanooga
+2023,02/05,Newberry Open,184,L,DEC,3 - 2,Caleb Roe,80041,Presbyterian,Landon Lewis,73353,Chattanooga
+2023,02/05,Newberry Open,184,W,MD,15 - 5,Wilson Major,79922,North Carolina,Landon Lewis,73353,Chattanooga
+2023,02/05,Newberry Open,184,L,DEC,5 - 2,Jeffrey Tubbs,79357,Huntingdon,Landon Lewis,73353,Chattanooga
+2023,01/28,Appalachian Open,184,L,MD,9 - 1,Sergio Desiante,78495,Chattanooga,Landon Lewis,73353,Chattanooga
+2023,01/28,Appalachian Open,184,L,DEC,12 - 5,David Bertrand,73013,Presbyterian,Landon Lewis,73353,Chattanooga
+2023,01/28,Appalachian Open,184,W,DEC,12 - 8,Oliver Tipton,79057,Davidson,Landon Lewis,73353,Chattanooga
+2023,01/06,Chattanooga - VMI Dual,197,L,TF5,15 - 0 7:00,Tyler Mousaw,67432,VMI,Landon Lewis,73353,Chattanooga
+2023,01/01,Southern Scuffle,184,L,FALL,4:48,Luke Chakonis,65933,Duke,Landon Lewis,73353,Chattanooga
+2023,01/01,Southern Scuffle,184,L,MD,18 - 6,Sean Harman,59678,Missouri,Landon Lewis,73353,Chattanooga
+2023,11/13,Battle at the Citadel,184,W,DEC,6 - 3,Christopher Dickey,76418,UNC Pembroke,Landon Lewis,73353,Chattanooga
+2023,11/13,Battle at the Citadel,184,L,MFOR,0 - 0,Jack Wimmer,69859,Duke,Landon Lewis,73353,Chattanooga
+2023,11/13,Battle at the Citadel,184,L,MD,10 - 1,Logan Hall,50331,Lander,Landon Lewis,73353,Chattanooga
+2023,11/05,Little Rock - Chattanooga Dual,197,L,MD,22 - 8,Stephen Little,73285,Little Rock,Landon Lewis,73353,Chattanooga
+2023,11/05,Wisconsin - Chattanooga Dual,197,L,TF5,17 - 2 5:47,Braxton Amos,62756,Wisconsin,Landon Lewis,73353,Chattanooga
+2023,02/05,Newberry Open,184,L,SV-1,9 - 7,Jeffrey Tubbs,79357,Huntingdon,Ben Bumgarner,79783,Chattanooga
+2023,02/05,Newberry Open,184,L,DEC,10 - 3,William Rogers,71667,The Citadel,Ben Bumgarner,79783,Chattanooga
+2023,01/28,Appalachian Open,184,L,DEC,3 - 2,Marquez Hunt,81437,Reinhardt University,Ben Bumgarner,79783,Chattanooga
+2023,01/28,Appalachian Open,184,L,MD,12 - 3,Dalton Battle,73100,Appalachian State,Ben Bumgarner,79783,Chattanooga
+2023,01/01,Southern Scuffle,184,L,MD,14 - 4,Brook Byers,77775,Stanford,Ben Bumgarner,79783,Chattanooga
+2023,01/01,Southern Scuffle,184,L,FALL,2:26,Gavin Stika,56258,Oklahoma State,Ben Bumgarner,79783,Chattanooga
+2023,03/04,SoCon Championships,197,L,MFOR,0 - 0,Mark Chaid,51294,The Citadel,Jake Boyd,49260,Chattanooga
+2023,03/04,SoCon Championships,197,W,DEC,11 - 5,Tyler Mousaw,67432,VMI,Jake Boyd,49260,Chattanooga
+2023,03/04,SoCon Championships,197,W,DEC,5 - 2,Samuel Mora,62408,Gardner-Webb,Jake Boyd,49260,Chattanooga
+2023,03/04,SoCon Championships,197,L,DEC,1 - 0,Levi Hopkins,62508,Campbell,Jake Boyd,49260,Chattanooga
+2023,02/19,Indiana - Chattanooga Dual,197,L,DEC,2 - 1,Nick Willham,62447,Indiana,Jake Boyd,49260,Chattanooga
+2023,02/12,Campbell - Chattanooga Dual,197,L,DEC,6 - 4,Levi Hopkins,62508,Campbell,Jake Boyd,49260,Chattanooga
+2023,02/10,Gardner-Webb - Chattanooga Dual,197,L,DEC,9 - 3,Samuel Mora,62408,Gardner-Webb,Jake Boyd,49260,Chattanooga
+2023,02/05,Chattanooga - Appalachian State Dual,197,L,DEC,3 - 0,Carson Floyd,78561,Appalachian State,Jake Boyd,49260,Chattanooga
+2023,01/29,Chattanooga - The Citadel Dual,197,W,DEC,4 - 2,Mark Chaid,51294,The Citadel,Jake Boyd,49260,Chattanooga
+2023,01/21,Davidson - Chattanooga Dual,197,W,DEC,5 - 4,Gavin Henry,61929,Davidson,Jake Boyd,49260,Chattanooga
+2023,01/13,West Virginia - Chattanooga Dual,197,W,DEC,3 - 2,Ian Bush,76349,West Virginia,Jake Boyd,49260,Chattanooga
+2023,01/01,Southern Scuffle,197,L,SV-1,3 - 1,Carson Floyd,78561,Appalachian State,Jake Boyd,49260,Chattanooga
+2023,01/01,Southern Scuffle,197,W,DEC,2 - 0,Tylynn Lukens,70993,Little Rock,Jake Boyd,49260,Chattanooga
+2023,01/01,Southern Scuffle,197,L,DEC,1 - 0,Michial Foy,53189,Minnesota,Jake Boyd,49260,Chattanooga
+2023,12/16,Clarion - Chattanooga Dual,197,W,DEC,4 - 3,Tyler Bagoly,49098,Clarion,Jake Boyd,49260,Chattanooga
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,197,W,DEC,5 - 2,Ryan Yarnell,57006,SIU Edwardsville,Jake Boyd,49260,Chattanooga
+2023,12/10,Iowa - Chattanooga Dual,197,L,MD,10 - 1,Jacob Warner,49151,Iowa,Jake Boyd,49260,Chattanooga
+2023,12/03,Chattanooga - Illinois Dual,197,L,DEC,11 - 5,Zach Braunagel,50925,Illinois,Jake Boyd,49260,Chattanooga
+2023,11/20,Chattanooga - Northern Illinois Dual,197,W,DEC,6 - 0,Devonjae Hudson,73346,Northern Illinois,Jake Boyd,49260,Chattanooga
+2023,11/20,Chattanooga - Cleveland State Dual,197,W,DEC,3 - 2,Anthony Perrine,49135,Cleveland State,Jake Boyd,49260,Chattanooga
+2023,11/20,Chattanooga - Purdue Dual,197,W,DEC,5 - 1,Hayden Filipovich,71689,Purdue,Jake Boyd,49260,Chattanooga
+2023,11/05,Buffalo - Chattanooga Dual,197,L,DEC,4 - 1,Eli Sheeran,71783,Buffalo,Jake Boyd,49260,Chattanooga
+2023,02/19,Indiana - Chattanooga Dual,285,L,TF5,17 - 1 5:11,Jacob Bullock,57724,Indiana,Nicholas Benton,62490,Chattanooga
+2023,02/17,Bellarmine - Chattanooga Dual,285,L,FALL,2:01,Thadd Huff,79335,Bellarmine,Nicholas Benton,62490,Chattanooga
+2023,01/28,Appalachian Open,197,L,INJ,1:38,Joshua McCutchen,75730,Gardner-Webb,Nicholas Benton,62490,Chattanooga
+2023,01/28,Appalachian Open,197,L,MD,12 - 3,Christian Knop,57096,NC State,Nicholas Benton,62490,Chattanooga
+2023,11/20,Cleveland State Chattanooga ECM,197,L,DEC,8 - 5,Joey Lyons,72596,Cleveland State,Nicholas Benton,62490,Chattanooga
+2023,11/13,Battle at the Citadel,197,L,MD,12 - 2,Malcolm Wiley,62915,Presbyterian,Nicholas Benton,62490,Chattanooga
+2023,11/13,Battle at the Citadel,197,L,DEC,9 - 2,Gavin Henry,61929,Davidson,Nicholas Benton,62490,Chattanooga
+2023,11/05,Wisconsin - Chattanooga Dual,285,L,TF5,16 - 0 3:23,Trent Hillger,49350,Wisconsin,Nicholas Benton,62490,Chattanooga
+2023,02/12,Campbell - Chattanooga Dual,285,L,FALL,1:46,Taye Ghadiali,62500,Campbell,Logan Webster,78501,Chattanooga
+2023,02/05,Newberry Open,197,L,DEC,9 - 3,Austin Suess,76271,Unattached,Logan Webster,78501,Chattanooga
+2023,02/05,Newberry Open,197,W,DEC,8 - 1,Christian Poplous,76267,Allen University,Logan Webster,78501,Chattanooga
+2023,02/05,Newberry Open,197,W,MD,17 - 9,Mac Hirsh,65495,Huntingdon,Logan Webster,78501,Chattanooga
+2023,02/05,Newberry Open,197,L,DEC,7 - 6,Jack Trautman,57165,Limestone,Logan Webster,78501,Chattanooga
+2023,01/28,Appalachian Open,197,W,FALL,3:46,Mathew Catania,80553,Greensboro,Logan Webster,78501,Chattanooga
+2023,01/28,Appalachian Open,197,W,MFOR,0 - 0,Cade Lautt,69676,North Carolina,Logan Webster,78501,Chattanooga
+2023,01/28,Appalachian Open,197,L,MD,19 - 8,Christian Knop,57096,NC State,Logan Webster,78501,Chattanooga
+2023,01/01,Southern Scuffle,197,L,FALL,0:26,Tylynn Lukens,70993,Little Rock,Logan Webster,78501,Chattanooga
+2023,01/01,Southern Scuffle,197,L,DEC,6 - 5,Brayden Ray,57271,Duke,Logan Webster,78501,Chattanooga
+2023,11/13,Battle at the Citadel,197,W,DEC,5 - 3,Tristan Middlebrook,82078,Southeastern University,Logan Webster,78501,Chattanooga
+2023,11/13,Battle at the Citadel,197,L,FALL,4:01,Liam Volk-Klos,78524,American,Logan Webster,78501,Chattanooga
+2023,11/13,Battle at the Citadel,197,L,DEC,10 - 6,Patrick Brophy,78688,The Citadel,Logan Webster,78501,Chattanooga
+2023,03/04,SoCon Championships,285,W,DEC,4 - 3,Josh Evans,72531,VMI,Logan Andrew,59757,Chattanooga
+2023,03/04,SoCon Championships,285,L,DEC,4 - 0,Jake Fernicola,62822,Davidson,Logan Andrew,59757,Chattanooga
+2023,03/04,SoCon Championships,285,L,FALL,4:06,Taye Ghadiali,62500,Campbell,Logan Andrew,59757,Chattanooga
+2023,02/10,Gardner-Webb - Chattanooga Dual,285,W,DEC,8 - 1,Abraham Preston,73731,Gardner-Webb,Logan Andrew,59757,Chattanooga
+2023,02/05,Chattanooga - Appalachian State Dual,285,L,DEC,6 - 0,Jacob Sartorio,65393,Appalachian State,Logan Andrew,59757,Chattanooga
+2023,01/29,Chattanooga - The Citadel Dual,285,L,DEC,5 - 4,Jonathan Chesser,73052,The Citadel,Logan Andrew,59757,Chattanooga
+2023,01/27,Chattanooga - Presbyterian Dual,285,W,FALL,2:16,Morvens Saint Jean,78606,Presbyterian,Logan Andrew,59757,Chattanooga
+2023,01/13,West Virginia - Chattanooga Dual,285,L,DEC,14 - 8,Michael Wolfgram,57526,West Virginia,Logan Andrew,59757,Chattanooga
+2023,01/06,Chattanooga - VMI Dual,285,W,DEC,7 - 3,Josh Evans,72531,VMI,Logan Andrew,59757,Chattanooga
+2023,01/01,Southern Scuffle,285,W,DEC,6 - 2,Jake Andrews,73174,CSU Bakersfield,Logan Andrew,59757,Chattanooga
+2023,01/01,Southern Scuffle,285,W,DEC,3 - 1,Apollo Gothard,72124,Little Rock,Logan Andrew,59757,Chattanooga
+2023,01/01,Southern Scuffle,285,L,SV-1,3 - 1,Juan Mora,71675,North Dakota State,Logan Andrew,59757,Chattanooga
+2023,01/01,Southern Scuffle,285,L,DEC,2 - 0,Peter Ming,62611,Stanford,Logan Andrew,59757,Chattanooga
+2023,12/16,Clarion - Chattanooga Dual,285,W,DEC,2 - 1,Reynold Maines,39928,Clarion,Logan Andrew,59757,Chattanooga
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,285,L,DEC,3 - 0,Colton McKiernan,57003,SIU Edwardsville,Logan Andrew,59757,Chattanooga
+2023,12/10,Iowa - Chattanooga Dual,285,L,FALL,1:16,Anthony Cassioppi,50650,Iowa,Logan Andrew,59757,Chattanooga
+2023,12/03,Chattanooga - Illinois Dual,285,L,DEC,2 - 1,Matt Wroblewski,50019,Illinois,Logan Andrew,59757,Chattanooga
+2023,11/20,Chattanooga - Northern Illinois Dual,285,W,DEC,6 - 4,Terrese Aaron,51827,Northern Illinois,Logan Andrew,59757,Chattanooga
+2023,11/20,Chattanooga - Cleveland State Dual,285,L,DEC,6 - 1,Daniel Bucknavich,62488,Cleveland State,Logan Andrew,59757,Chattanooga
+2023,11/20,Chattanooga - Purdue Dual,285,L,FALL,2:52,Tristan Ruhlman,71690,Purdue,Logan Andrew,59757,Chattanooga
+2023,11/05,Little Rock - Chattanooga Dual,285,L,DEC,5 - 0,Josiah Hill,65931,Little Rock,Logan Andrew,59757,Chattanooga
+2023,11/05,Buffalo - Chattanooga Dual,285,L,DEC,3 - 2,Sam Mitchell,61028,Buffalo,Logan Andrew,59757,Chattanooga
+2023,11/13,Battle at the Citadel,285,L,MFOR,0 - 0,Morvens Saint Jean,78606,Presbyterian,Ryan Stein,79015,Chattanooga
+2023,11/13,Battle at the Citadel,285,L,MD,8 - 0,Isaac Righter,62521,American,Ryan Stein,79015,Chattanooga

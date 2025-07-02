@@ -1,0 +1,509 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2015,03/19,NCAA Championships,125,L,DEC,9 - 4,Josh Rodriguez,13418,North Dakota State,Dom Forys,20323,Pittsburgh
+2015,03/19,NCAA Championships,125,L,FALL,6:37,Joey Dance,12221,Virginia Tech,Dom Forys,20323,Pittsburgh
+2015,03/08,ACC Championships,125,W,SV-1,11 - 7,Joe DeAngelo,11918,NC State,Dom Forys,20323,Pittsburgh
+2015,03/08,ACC Championships,125,W,FALL,2:54,Cody Karns,12199,North Carolina,Dom Forys,20323,Pittsburgh
+2015,03/08,ACC Championships,125,W,MD,14 - 4,Thayer Atkins,19857,Duke,Dom Forys,20323,Pittsburgh
+2015,03/08,ACC Championships,125,L,FALL,5:57,Joey Dance,12221,Virginia Tech,Dom Forys,20323,Pittsburgh
+2015,02/22,West Virginia - Pittsburgh Dual,125,L,MD,14 - 5,Zeke Moisey,20472,West Virginia,Dom Forys,20323,Pittsburgh
+2015,02/20,Pittsburgh - Michigan Dual,125,L,DEC,6 - 0,Conor Youtsey,13271,Michigan,Dom Forys,20323,Pittsburgh
+2015,02/14,Pittsburgh - North Carolina State Dual,125,L,DEC,4 - 2,Joe DeAngelo,11918,NC State,Dom Forys,20323,Pittsburgh
+2015,02/08,Clarion - Pittsburgh Dual,125,W,FALL,1:42,Hunter Jones,12147,Clarion,Dom Forys,20323,Pittsburgh
+2015,02/06,Pittsburgh @ Virginia Tech,125,L,DEC,10 - 3,Joey Dance,12221,Virginia Tech,Dom Forys,20323,Pittsburgh
+2015,01/25,Virginia - Pittsburgh Dual,125,L,DEC,9 - 5,Nick Herrmann,12144,Virginia,Dom Forys,20323,Pittsburgh
+2015,01/18,Pittsburgh - Oklahoma State Dual,125,L,DEC,4 - 1,Eddie Klimara,12136,Oklahoma State,Dom Forys,20323,Pittsburgh
+2015,01/11,North Carolina - Pittsburgh Dual,125,W,FALL,4:22,Cody Karns,12199,North Carolina,Dom Forys,20323,Pittsburgh
+2015,01/11,Duke - Pittsburgh Dual,125,W,MD,14 - 4,Thayer Atkins,19857,Duke,Dom Forys,20323,Pittsburgh
+2015,01/10,Drexel - Pittsburgh Dual,125,W,MD,10 - 2,Tanner Shoap,12205,Drexel,Dom Forys,20323,Pittsburgh
+2015,01/01,Southern Scuffle,125,L,MD,8 - 0,Jordan Conaway,15981,Penn State,Dom Forys,20323,Pittsburgh
+2015,01/01,Southern Scuffle,125,L,MD,17 - 7,Tyler Cox,13326,Wyoming,Dom Forys,20323,Pittsburgh
+2015,01/01,Southern Scuffle,125,W,MD,12 - 3,Tyler Walker,20789,Campbell,Dom Forys,20323,Pittsburgh
+2015,01/01,Southern Scuffle,125,W,FALL,2:20,Cory Hollister,12060,Buffalo,Dom Forys,20323,Pittsburgh
+2015,01/01,Southern Scuffle,125,W,DEC,4 - 2,Darian Cruz,12135,Lehigh,Dom Forys,20323,Pittsburgh
+2015,12/05,Maryland - Pittsburgh Dual,125,W,MD,16 - 4,Josh Polacek,16017,Maryland,Dom Forys,20323,Pittsburgh
+2015,11/23,Keystone Classic,125,W,DEC,4 - 0,Shayne Wireman,12103,Eastern Michigan,Dom Forys,20323,Pittsburgh
+2015,11/23,Keystone Classic,125,W,DEC,7 - 3,Mason Pengilly,20392,Stanford,Dom Forys,20323,Pittsburgh
+2015,11/23,Keystone Classic,125,W,MD,13 - 3,Blake Caudill,13356,Eastern Michigan,Dom Forys,20323,Pittsburgh
+2015,11/23,Keystone Classic,125,W,MD,17 - 6,Garrison White,12112,Northwestern,Dom Forys,20323,Pittsburgh
+2015,11/21,Penn State - Pittsburgh Dual,125,L,DEC,8 - 4,Jordan Conaway,15981,Penn State,Dom Forys,20323,Pittsburgh
+2015,11/15,Pittsburgh - Lehigh Dual,125,L,DEC,8 - 4,Scott Parker,19985,Lehigh,Dom Forys,20323,Pittsburgh
+2015,11/08,Bucknell - Pittsburgh Dual,125,L,DEC,8 - 6,Paul Petrov,12116,Bucknell,Dom Forys,20323,Pittsburgh
+2015,11/06,Pittsburgh - Edinboro Dual,125,W,DEC,6 - 0,Kory Mines,12134,Edinboro,Dom Forys,20323,Pittsburgh
+2015,11/02,Pittsburgh - Bloomsburg Dual,125,W,TF4,15 - 0 7:00,Elliot Zackoski,14980,Bloomsburg,Dom Forys,20323,Pittsburgh
+2015,01/01,Southern Scuffle,125,L,DEC,5 - 0,Jordan Conaway,15981,Penn State,Jake Gromacki,20324,Pittsburgh
+2015,01/01,Southern Scuffle,125,L,DEC,4 - 1,Max Soria,12190,Buffalo,Jake Gromacki,20324,Pittsburgh
+2015,01/01,Southern Scuffle,125,W,SV-1,5 - 4,Evan Silver,12224,Stanford,Jake Gromacki,20324,Pittsburgh
+2015,11/23,Keystone Classic,125,W,DEC,9 - 3,Mason Pengilly,20392,Stanford,Jake Gromacki,20324,Pittsburgh
+2015,11/23,Keystone Classic,125,W,DEC,7 - 3,Blake Caudill,13356,Eastern Michigan,Jake Gromacki,20324,Pittsburgh
+2015,11/23,Keystone Classic,125,L,DEC,8 - 3,Isaac Andrade,13269,South Dakota State,Jake Gromacki,20324,Pittsburgh
+2015,11/23,Keystone Classic,125,W,FALL,0:21,David Conte,20519,Indiana,Jake Gromacki,20324,Pittsburgh
+2015,11/23,Keystone Classic,125,L,DEC,7 - 3,Dominic Parisi,13296,Appalachian State,Jake Gromacki,20324,Pittsburgh
+2015,11/23,Keystone Classic,125,W,DEC,4 - 2,Zach Valcarce,12156,Rider,Jake Gromacki,20324,Pittsburgh
+2015,01/03,Franklin & Marshall Open,125,L,MFOR,0 - 0,Jake Field,12108,Lock Haven,Evan Link,23551,Pittsburgh
+2015,01/03,Franklin & Marshall Open,125,W,DEC,5 - 3,Kaleb LeMaire,12109,Lock Haven,Evan Link,23551,Pittsburgh
+2015,01/03,Franklin & Marshall Open,125,W,MD,17 - 5,George Carpenter,20298,Penn State,Evan Link,23551,Pittsburgh
+2015,12/06,PSAC Championships,125,W,DEC,6 - 2,Kaleb LeMaire,12109,Lock Haven,Evan Link,23551,Pittsburgh
+2015,12/06,PSAC Championships,125,W,FALL,1:58,Seth Carr,12126,Clarion,Evan Link,23551,Pittsburgh
+2015,12/06,PSAC Championships,125,L,MD,12 - 4,Kory Mines,12134,Edinboro,Evan Link,23551,Pittsburgh
+2015,11/30,Mat Town,125,L,DEC,6 - 2,James Sulkosky,22535,Lock Haven,Brendan Price,20327,Pittsburgh
+2015,11/30,Mat Town,125,L,MD,12 - 0,Dan Martoccio,19891,Franklin & Marshall,Brendan Price,20327,Pittsburgh
+2015,11/30,Mat Town,125,W,DEC,7 - 5,Edgar Garcia,19888,Franklin & Marshall,Brendan Price,20327,Pittsburgh
+2015,11/02,Clarion Open,125,L,DEC,5 - 0,Chris Brown,19799,Cleveland State,Brendan Price,20327,Pittsburgh
+2015,01/03,Franklin & Marshall Open,125,L,DEC,6 - 0,Jon Haas,19672,Bloomsburg,James Harrison,24271,Pittsburgh
+2015,03/08,ACC Championships,133,L,DEC,6 - 2,Bryce Meredith,20135,Wyoming,Nick Zanetta,15385,Pittsburgh
+2015,03/08,ACC Championships,133,L,SV-1,5 - 3,Troy Heilmann,12036,North Carolina,Nick Zanetta,15385,Pittsburgh
+2015,02/22,West Virginia - Pittsburgh Dual,133,W,DEC,3 - 1,Cory Stainbrook,12131,West Virginia,Nick Zanetta,15385,Pittsburgh
+2015,02/20,Pittsburgh - Michigan Dual,133,L,DEC,6 - 1,Rossi Bruno,15289,Michigan,Nick Zanetta,15385,Pittsburgh
+2015,02/14,Pittsburgh - North Carolina State Dual,133,L,FALL,4:11,Bryce Meredith,20135,Wyoming,Nick Zanetta,15385,Pittsburgh
+2015,02/08,Clarion - Pittsburgh Dual,133,W,FALL,3:42,Matt Liggett,19781,Clarion,Nick Zanetta,15385,Pittsburgh
+2015,02/06,Pittsburgh @ Virginia Tech,133,L,DEC,3 - 2,Kevin Norstrem,11999,Virginia Tech,Nick Zanetta,15385,Pittsburgh
+2015,01/25,Virginia - Pittsburgh Dual,141,W,DEC,5 - 4,Justin Van Hoose,11810,Virginia,Nick Zanetta,15385,Pittsburgh
+2015,01/18,Pittsburgh - Oklahoma State Dual,133,L,DEC,6 - 4,Gary Wayne Harding,20270,Oklahoma State,Nick Zanetta,15385,Pittsburgh
+2015,01/11,North Carolina - Pittsburgh Dual,133,L,TB-1,3 - 2,Troy Heilmann,12036,North Carolina,Nick Zanetta,15385,Pittsburgh
+2015,01/11,Duke - Pittsburgh Dual,133,W,DEC,5 - 3,Mitch Finesilver,19861,Duke,Nick Zanetta,15385,Pittsburgh
+2015,01/10,Drexel - Pittsburgh Dual,133,W,SV-1,4 - 2,Kevin Devoy Jr,12047,Drexel,Nick Zanetta,15385,Pittsburgh
+2015,01/01,Southern Scuffle,133,W,MD,15 - 3,Tyler Ziegler,13787,Gardner-Webb,Nick Zanetta,15385,Pittsburgh
+2015,01/01,Southern Scuffle,133,L,DEC,6 - 3,George DiCamillo,20426,Virginia,Nick Zanetta,15385,Pittsburgh
+2015,01/01,Southern Scuffle,133,W,DEC,3 - 2,Tyler Keselring,13388,Central Michigan,Nick Zanetta,15385,Pittsburgh
+2015,01/01,Southern Scuffle,133,L,DEC,2 - 0,Zach Synon,12142,Missouri,Nick Zanetta,15385,Pittsburgh
+2015,12/13,Cleveland State Open,133,W,DEC,8 - 3,Luke Schroeder,12114,Purdue,Nick Zanetta,15385,Pittsburgh
+2015,12/13,Cleveland State Open,133,L,DEC,3 - 1,Chase Zemenak,19681,Bloomsburg,Nick Zanetta,15385,Pittsburgh
+2015,12/13,Cleveland State Open,133,W,DEC,10 - 4,Tyler Ziegler,13787,Gardner-Webb,Nick Zanetta,15385,Pittsburgh
+2015,12/13,Cleveland State Open,133,W,TF4,15 - 0 7:00,Bobby Vedda,19806,Cleveland State,Nick Zanetta,15385,Pittsburgh
+2015,12/13,Cleveland State Open,133,W,DEC,5 - 0,Mike Kostandaras,19803,Cleveland State,Nick Zanetta,15385,Pittsburgh
+2015,12/13,Cleveland State Open,133,W,DEC,3 - 2,Josh Terao,20533,American,Nick Zanetta,15385,Pittsburgh
+2015,12/13,Cleveland State Open,133,L,DEC,6 - 5,Esteban Gomez-Rivera,18134,American,Nick Zanetta,15385,Pittsburgh
+2015,12/13,Cleveland State Open,133,W,DEC,7 - 0,Ben Calandrino,12202,Eastern Michigan,Nick Zanetta,15385,Pittsburgh
+2015,12/05,Maryland - Pittsburgh Dual,133,L,DEC,3 - 1,Geoffrey Alexander,12022,Maryland,Nick Zanetta,15385,Pittsburgh
+2015,11/23,Keystone Classic,133,L,DEC,6 - 5,Dominick Malone,12015,Northwestern,Nick Zanetta,15385,Pittsburgh
+2015,11/23,Keystone Classic,133,L,FALL,1:02,Andy Schutz,19678,Bloomsburg,Nick Zanetta,15385,Pittsburgh
+2015,11/23,Keystone Classic,133,W,DEC,5 - 2,Payton Shuford,19629,Appalachian State,Nick Zanetta,15385,Pittsburgh
+2015,11/15,Pittsburgh - Lehigh Dual,133,L,DEC,2 - 0,Mason Beckman,12016,Lehigh,Nick Zanetta,15385,Pittsburgh
+2015,11/08,Bucknell - Pittsburgh Dual,133,W,DEC,3 - 1,Zach Valley,19712,Bucknell,Nick Zanetta,15385,Pittsburgh
+2015,11/06,Pittsburgh - Edinboro Dual,133,L,MD,10 - 0,AJ Schopp,12026,Edinboro,Nick Zanetta,15385,Pittsburgh
+2015,11/02,Pittsburgh - Bloomsburg Dual,133,W,SV-1,6 - 4,Andy Schutz,19678,Bloomsburg,Nick Zanetta,15385,Pittsburgh
+2015,01/03,Franklin & Marshall Open,133,L,DEC,8 - 1,Cody Wheeler,15130,Lock Haven,Malachi Krenzelak,23553,Pittsburgh
+2015,01/03,Franklin & Marshall Open,133,W,MD,11 - 0,Emilio Saavedra,20285,Old Dominion,Malachi Krenzelak,23553,Pittsburgh
+2015,01/03,Franklin & Marshall Open,133,W,DEC,5 - 3,Marc Mastropietro,20317,Pennsylvania,Malachi Krenzelak,23553,Pittsburgh
+2015,01/03,Franklin & Marshall Open,133,L,FALL,2:39,Zack Davis,20604,Navy,Malachi Krenzelak,23553,Pittsburgh
+2015,01/03,Franklin & Marshall Open,133,W,DEC,7 - 3,Zack Davis,20604,Navy,Malachi Krenzelak,23553,Pittsburgh
+2015,12/06,PSAC Championships,133,W,TF4,15 - 0 6:36,Joel Rosko,21119,Clarion,Malachi Krenzelak,23553,Pittsburgh
+2015,12/06,PSAC Championships,133,L,FALL,3:40,AJ Schopp,12026,Edinboro,Malachi Krenzelak,23553,Pittsburgh
+2015,01/03,Franklin & Marshall Open,133,L,DEC,12 - 7,Esteban Gomez-Rivera,18134,American,Corey Bush,24262,Pittsburgh
+2015,01/03,Franklin & Marshall Open,133,W,DEC,5 - 2,Scott Stevens,15131,Franklin & Marshall,Corey Bush,24262,Pittsburgh
+2015,01/03,Franklin & Marshall Open,133,L,DEC,12 - 11,Patrick Quinlan,20543,Franklin & Marshall,Corey Bush,24262,Pittsburgh
+2015,01/03,Franklin & Marshall Open,133,W,FALL,6:02,Christopher Reilly,17259,Maryland,Joe Davis,24226,Pittsburgh
+2015,01/03,Franklin & Marshall Open,133,L,MD,21 - 9,Patrick Quinlan,20543,Franklin & Marshall,Joe Davis,24226,Pittsburgh
+2015,01/03,Franklin & Marshall Open,133,L,MD,9 - 0,Ezekiel Salvo,22497,Brown,Joe Davis,24226,Pittsburgh
+2015,01/03,Franklin & Marshall Open,133,L,TF4,19 - 3 5:50,Cody Wheeler,15130,Lock Haven,John Lobeck,24301,Pittsburgh
+2015,03/08,ACC Championships,141,L,FALL,4:19,Joe Spisak,11839,Virginia,Ben Ross,20331,Pittsburgh
+2015,03/08,ACC Championships,141,L,FALL,3:21,Kevin Jack,20130,NC State,Ben Ross,20331,Pittsburgh
+2015,02/22,West Virginia - Pittsburgh Dual,141,L,TF4,22 - 5 7:00,Michael Morales,20474,West Virginia,Ben Ross,20331,Pittsburgh
+2015,02/20,Pittsburgh - Michigan Dual,141,L,MD,18 - 4,George Fisher,13432,Michigan,Ben Ross,20331,Pittsburgh
+2015,02/14,Pittsburgh - North Carolina State Dual,141,L,FALL,5:33,Kevin Jack,20130,NC State,Ben Ross,20331,Pittsburgh
+2015,02/08,Clarion - Pittsburgh Dual,141,W,FALL,4:26,Sam Sherlock,15334,Clarion,Ben Ross,20331,Pittsburgh
+2015,02/06,Pittsburgh @ Virginia Tech,141,L,TF4,21 - 6 5:13,Devin Carter,11609,Virginia Tech,Ben Ross,20331,Pittsburgh
+2015,01/25,Virginia - Pittsburgh Dual,133,L,MD,22 - 10,George DiCamillo,20426,Virginia,Ben Ross,20331,Pittsburgh
+2015,12/13,Cleveland State Open,133,W,DEC,3 - 2,Radley Gillis,19770,Chattanooga,Ben Ross,20331,Pittsburgh
+2015,12/13,Cleveland State Open,133,L,DEC,4 - 3,Michael Hayes,15134,Old Dominion,Ben Ross,20331,Pittsburgh
+2015,12/13,Cleveland State Open,133,L,DEC,5 - 1,Mike Kostandaras,19803,Cleveland State,Ben Ross,20331,Pittsburgh
+2015,12/13,Cleveland State Open,133,W,FALL,1:36,Nick DeRosa,19801,Cleveland State,Ben Ross,20331,Pittsburgh
+2015,11/23,Keystone Classic,133,L,DEC,7 - 2,Ryan Osleeb,11828,Harvard,Ben Ross,20331,Pittsburgh
+2015,11/23,Keystone Classic,133,L,DEC,14 - 7,Vincent Pizzuto,13387,Eastern Michigan,Ben Ross,20331,Pittsburgh
+2015,11/08,Bucknell - Pittsburgh Dual,141,L,TF4,18 - 3 5:00,Tyler Smith,22439,Bucknell,Ben Ross,20331,Pittsburgh
+2015,11/02,Pittsburgh - Bloomsburg Dual,141,L,DEC,9 - 3,Tanner Cahill,11840,Bloomsburg,Ben Ross,20331,Pittsburgh
+2015,01/03,Franklin & Marshall Open,141,W,MD,8 - 0,Cam Perry,20432,Virginia,Sam Hanau,23544,Pittsburgh
+2015,01/03,Franklin & Marshall Open,141,L,DEC,3 - 1,Max Good,19671,Bloomsburg,Sam Hanau,23544,Pittsburgh
+2015,01/03,Franklin & Marshall Open,141,L,MFOR,0 - 0,Robert Ruiz,14975,Franklin & Marshall,Sam Hanau,23544,Pittsburgh
+2015,01/03,Franklin & Marshall Open,141,W,MD,16 - 3,Jason Bing,12124,Franklin & Marshall,Sam Hanau,23544,Pittsburgh
+2015,12/06,PSAC Championships,141,L,MD,15 - 4,Robert Rehm,21101,Lock Haven,Sam Hanau,23544,Pittsburgh
+2015,12/06,PSAC Championships,141,W,DEC,4 - 2,Tanner Cahill,11840,Bloomsburg,Sam Hanau,23544,Pittsburgh
+2015,01/18,Pittsburgh - Oklahoma State Dual,141,L,FALL,2:47,Dean Heil,15376,Oklahoma State,Travis Shaffer,11777,Pittsburgh
+2015,12/05,Maryland - Pittsburgh Dual,141,L,DEC,5 - 2,Shyheim Brown,11811,Maryland,Travis Shaffer,11777,Pittsburgh
+2015,11/23,Keystone Classic,141,W,FALL,1:11,Sean Brown,11612,Indiana,Travis Shaffer,11777,Pittsburgh
+2015,11/23,Keystone Classic,141,W,TF4,16 - 0 2:42,Andrew Mauriello,11880,Drexel,Travis Shaffer,11777,Pittsburgh
+2015,11/23,Keystone Classic,141,L,DEC,12 - 8,Tanner Cahill,11840,Bloomsburg,Travis Shaffer,11777,Pittsburgh
+2015,11/23,Keystone Classic,141,L,DEC,12 - 8,Michael Longo,19624,Appalachian State,Travis Shaffer,11777,Pittsburgh
+2015,11/15,Pittsburgh - Lehigh Dual,141,L,DEC,6 - 2,Randy Cruz,11853,Lehigh,Travis Shaffer,11777,Pittsburgh
+2015,11/06,Pittsburgh - Edinboro Dual,141,L,FALL,5:10,Mitchell Port,11732,Edinboro,Travis Shaffer,11777,Pittsburgh
+2015,11/22,TCNJ Fall College Open,141,L,FALL,0:28,Tyson Dippery,11750,Rutgers,TYREE EDMOND,23298,Pittsburgh
+2015,01/03,Franklin & Marshall Open,141,L,TF4,17 - 0 4:50,Brandon Walker,20014,Maryland,Craig Dawson,24284,Pittsburgh
+2015,03/19,NCAA Championships,149,L,DEC,10 - 6,Brandon Nelsen,13725,Purdue,Mike Racciato,13823,Pittsburgh
+2015,03/19,NCAA Championships,149,W,DEC,3 - 2,Christian Barber,13833,North Carolina,Mike Racciato,13823,Pittsburgh
+2015,03/19,NCAA Championships,149,L,MD,16 - 3,Bryant Clagon,18514,Rider,Mike Racciato,13823,Pittsburgh
+2015,03/08,ACC Championships,149,W,SV-1,3 - 1,Christian Barber,13833,North Carolina,Mike Racciato,13823,Pittsburgh
+2015,03/08,ACC Championships,149,W,DEC,16 - 9,Marcus Cain,14796,Duke,Mike Racciato,13823,Pittsburgh
+2015,02/22,West Virginia - Pittsburgh Dual,149,W,MD,13 - 4,Roman Perryman,15260,West Virginia,Mike Racciato,13823,Pittsburgh
+2015,02/20,Pittsburgh - Michigan Dual,149,W,FALL,4:11,Angelo Latora,11733,Michigan,Mike Racciato,13823,Pittsburgh
+2015,02/14,Pittsburgh - North Carolina State Dual,149,W,DEC,7 - 2,Beau Donahue,11933,NC State,Mike Racciato,13823,Pittsburgh
+2015,02/08,Clarion - Pittsburgh Dual,149,W,FALL,0:59,Brodie Zacherl,19789,Clarion,Mike Racciato,13823,Pittsburgh
+2015,02/06,Pittsburgh @ Virginia Tech,149,W,FALL,5:29,Brent Waterman,20457,Virginia Tech,Mike Racciato,13823,Pittsburgh
+2015,01/25,Virginia - Pittsburgh Dual,149,W,DEC,10 - 4,TJ Miller,13827,Virginia,Mike Racciato,13823,Pittsburgh
+2015,01/18,Pittsburgh - Oklahoma State Dual,149,L,DEC,12 - 8,Josh Kindig,13908,Oklahoma State,Mike Racciato,13823,Pittsburgh
+2015,01/11,North Carolina - Pittsburgh Dual,149,W,DEC,10 - 3,Christian Barber,13833,North Carolina,Mike Racciato,13823,Pittsburgh
+2015,01/11,Duke - Pittsburgh Dual,149,W,MD,12 - 4,Marcus Cain,14796,Duke,Mike Racciato,13823,Pittsburgh
+2015,01/10,Drexel - Pittsburgh Dual,149,L,DEC,7 - 4,Matthew Cimato,11725,Drexel,Mike Racciato,13823,Pittsburgh
+2015,01/01,Southern Scuffle,149,W,DEC,3 - 2,Colin Heffernan,13795,Central Michigan,Mike Racciato,13823,Pittsburgh
+2015,01/01,Southern Scuffle,149,L,DEC,3 - 1,Tyler Berger,20096,Nebraska,Mike Racciato,13823,Pittsburgh
+2015,01/01,Southern Scuffle,149,W,MD,13 - 5,Justin Arthur,22462,Nebraska,Mike Racciato,13823,Pittsburgh
+2015,01/01,Southern Scuffle,149,W,DEC,4 - 2,Grant Leeth,19866,Duke,Mike Racciato,13823,Pittsburgh
+2015,01/01,Southern Scuffle,149,W,FALL,3:37,Konbeh Koroma,19902,George Mason,Mike Racciato,13823,Pittsburgh
+2015,01/01,Southern Scuffle,149,L,DEC,11 - 7,Drake Houdashelt,13640,Missouri,Mike Racciato,13823,Pittsburgh
+2015,12/05,Maryland - Pittsburgh Dual,149,W,DEC,11 - 6,Ben Dorsay,15191,Maryland,Mike Racciato,13823,Pittsburgh
+2015,11/23,Keystone Classic,149,L,DEC,12 - 6,Nicholas Barber,11739,Eastern Michigan,Mike Racciato,13823,Pittsburgh
+2015,11/23,Keystone Classic,149,L,MFOR,0 - 0,Matthew Cimato,11725,Drexel,Mike Racciato,13823,Pittsburgh
+2015,11/23,Keystone Classic,149,W,DEC,3 - 2,Matthew Cimato,11725,Drexel,Mike Racciato,13823,Pittsburgh
+2015,11/23,Keystone Classic,149,W,DEC,6 - 1,Kevin Laubach,19674,Bloomsburg,Mike Racciato,13823,Pittsburgh
+2015,11/23,Keystone Classic,149,L,DEC,8 - 2,Dylan Cottrell,14019,Appalachian State,Mike Racciato,13823,Pittsburgh
+2015,11/21,Penn State - Pittsburgh Dual,149,L,DEC,11 - 5,Zack Beitz,11955,Penn State,Mike Racciato,13823,Pittsburgh
+2015,11/15,Pittsburgh - Lehigh Dual,149,W,DEC,11 - 9,Drew Longo,18193,Lehigh,Mike Racciato,13823,Pittsburgh
+2015,11/08,Bucknell - Pittsburgh Dual,149,W,DEC,6 - 4,Victor Lopez,11886,Bucknell,Mike Racciato,13823,Pittsburgh
+2015,11/06,Pittsburgh - Edinboro Dual,149,W,MD,12 - 4,Jensen Lorea,20723,Edinboro,Mike Racciato,13823,Pittsburgh
+2015,11/02,Pittsburgh - Bloomsburg Dual,149,W,DEC,7 - 3,Kevin Laubach,19674,Bloomsburg,Mike Racciato,13823,Pittsburgh
+2015,01/01,Southern Scuffle,149,W,DEC,3 - 2,Zack Beitz,11955,Penn State,Edgar Bright,11820,Pittsburgh
+2015,01/01,Southern Scuffle,149,W,DEC,3 - 2,Tyler Berger,20096,Nebraska,Edgar Bright,11820,Pittsburgh
+2015,01/01,Southern Scuffle,149,L,DEC,3 - 2,Josh Kindig,13908,Oklahoma State,Edgar Bright,11820,Pittsburgh
+2015,01/01,Southern Scuffle,149,W,DEC,10 - 6,Gabe Moreno,11816,Iowa State,Edgar Bright,11820,Pittsburgh
+2015,01/01,Southern Scuffle,149,W,DEC,11 - 4,Justin Oliver,19758,Central Michigan,Edgar Bright,11820,Pittsburgh
+2015,01/01,Southern Scuffle,149,W,DEC,7 - 3,Matt Frisch,13722,The Citadel,Edgar Bright,11820,Pittsburgh
+2015,11/21,Penn State - Pittsburgh Dual,141,W,DEC,3 - 2,Kade Moss,15933,Penn State,Edgar Bright,11820,Pittsburgh
+2015,01/03,Franklin & Marshall Open,149,W,DEC,5 - 2,Ian Brown,20549,Lehigh,Colin Landowski,23545,Pittsburgh
+2015,01/03,Franklin & Marshall Open,149,L,FALL,3:26,Jimmy Morris,20353,Rider,Colin Landowski,23545,Pittsburgh
+2015,01/03,Franklin & Marshall Open,149,W,DEC,6 - 2,RJ DeGeorge,11804,Maryland,Colin Landowski,23545,Pittsburgh
+2015,01/03,Franklin & Marshall Open,149,W,DEC,11 - 8,Patrick Hogan,19913,Harvard,Colin Landowski,23545,Pittsburgh
+2015,01/03,Franklin & Marshall Open,149,W,DEC,5 - 4,Michael Dahlstrom,19613,American,Colin Landowski,23545,Pittsburgh
+2015,01/03,Franklin & Marshall Open,149,W,DEC,5 - 4,William McDonald,15839,Brown,Colin Landowski,23545,Pittsburgh
+2015,12/06,PSAC Championships,149,L,DEC,5 - 3,Dan Neff,11761,Lock Haven,Colin Landowski,23545,Pittsburgh
+2015,12/06,PSAC Championships,149,L,TF4,26 - 9 6:36,Dave Habat,13800,Edinboro,Colin Landowski,23545,Pittsburgh
+2015,12/06,PSAC Championships,149,W,DEC,9 - 4,Kevin Laubach,19674,Bloomsburg,Colin Landowski,23545,Pittsburgh
+2015,01/18,Purple Raider Open,149,W,DEC,9 - 2,Trevor Hoffmier,19719,Buffalo,Jake Keller,11778,Pittsburgh
+2015,12/07,Nittany Lion Open,149,L,DEC,7 - 3,Taylor Misuna,20448,Virginia Tech,Jake Keller,11778,Pittsburgh
+2015,12/07,Nittany Lion Open,149,L,DEC,11 - 7,Shane Arechiga,11919,Maryland,Jake Keller,11778,Pittsburgh
+2015,11/02,Clarion Open,149,L,DEC,6 - 4,Trevor Willson,13714,Utah Valley,Jake Keller,11778,Pittsburgh
+2015,11/02,Clarion Open,149,L,MD,10 - 2,Laike Gardner,11748,Lehigh,Jake Keller,11778,Pittsburgh
+2015,01/03,Franklin & Marshall Open,149,L,FALL,5:30,Aaron Hartman,19926,Hofstra,Kevin Synan,24279,Pittsburgh
+2015,01/03,Franklin & Marshall Open,149,W,MD,17 - 5,Shane Arechiga,11919,Maryland,Kevin Synan,24279,Pittsburgh
+2015,01/18,Shorty Hitchcock Memorial Open,149,L,FALL,2:13,Freddie Dunau,20312,Pennsylvania,Nathan Russell,20772,Pittsburgh
+2015,01/18,Shorty Hitchcock Memorial Open,149,L,DEC,6 - 4,AJ Murabito,11949,Pennsylvania,Nathan Russell,20772,Pittsburgh
+2015,01/18,Shorty Hitchcock Memorial Open,149,W,DEC,10 - 7,Matt Filbert,19636,Army West Point,Nathan Russell,20772,Pittsburgh
+2015,01/03,Franklin & Marshall Open,125,L,FALL,3:14,Jake Field,12108,Lock Haven,Nathan Russell,20772,Pittsburgh
+2015,01/03,Franklin & Marshall Open,125,L,FALL,5:00,Edgar Garcia,19888,Franklin & Marshall,Nathan Russell,20772,Pittsburgh
+2015,12/13,Cleveland State Open,149,W,MFOR,0 - 0,Eric Wolfe,23354,Notre Dame,Nathan Russell,20772,Pittsburgh
+2015,12/13,Cleveland State Open,149,L,DEC,5 - 1,Robert Janis,23871,Notre Dame,Nathan Russell,20772,Pittsburgh
+2015,12/13,Cleveland State Open,149,L,DEC,6 - 2,Michael Dahlstrom,19613,American,Nathan Russell,20772,Pittsburgh
+2015,12/13,Cleveland State Open,149,W,DEC,6 - 5,LaRone Mack,20585,Eastern Michigan,Nathan Russell,20772,Pittsburgh
+2015,12/07,Nittany Lion Open,149,L,DEC,7 - 0,Jake DeAngelo,20554,NC State,Nathan Russell,20772,Pittsburgh
+2015,12/07,Nittany Lion Open,149,L,DEC,9 - 2,Laike Gardner,11748,Lehigh,Nathan Russell,20772,Pittsburgh
+2015,12/07,Nittany Lion Open,149,W,DEC,5 - 1,Michael Marano,19890,Franklin & Marshall,Nathan Russell,20772,Pittsburgh
+2015,11/23,Keystone Classic,149,L,DEC,6 - 5,Trevor Moody,11769,Indiana,Nathan Russell,20772,Pittsburgh
+2015,11/23,Keystone Classic,149,L,MD,13 - 4,Jeff Canfora,11887,Pennsylvania,Nathan Russell,20772,Pittsburgh
+2015,11/02,Clarion Open,149,L,FALL,3:55,RJ LaBeef,11973,Cleveland State,Nathan Russell,20772,Pittsburgh
+2015,11/02,Clarion Open,149,W,FALL,4:25,Chas Busz,11902,Cleveland State,Nathan Russell,20772,Pittsburgh
+2015,01/03,Franklin & Marshall Open,149,L,MD,17 - 7,Joe Ghione,20590,Lock Haven,Dakota Laughman,24289,Pittsburgh
+2015,01/03,Franklin & Marshall Open,149,L,DEC,4 - 0,Chad Pyke,13555,NC State,Dakota Laughman,24289,Pittsburgh
+2015,11/23,Keystone Classic,149,L,FALL,4:18,Garrett Schaner,13763,Stanford,Andrew Kaluzny,13879,Pittsburgh
+2015,11/23,Keystone Classic,149,L,DEC,5 - 1,Dylan Cottrell,14019,Appalachian State,Andrew Kaluzny,13879,Pittsburgh
+2015,11/02,Clarion Open,149,L,DEC,4 - 2,Brodie Zacherl,19789,Clarion,Andrew Kaluzny,13879,Pittsburgh
+2015,03/08,ACC Championships,157,W,DEC,2 - 1,Chad Pyke,13555,NC State,Ronnie Garbinsky,15349,Pittsburgh
+2015,03/08,ACC Championships,157,W,DEC,5 - 2,Chris Mears,20116,North Carolina,Ronnie Garbinsky,15349,Pittsburgh
+2015,03/08,ACC Championships,157,W,DEC,5 - 1,Immanuel Kerr-Brown,13770,Duke,Ronnie Garbinsky,15349,Pittsburgh
+2015,03/08,ACC Championships,157,L,DEC,7 - 2,Nick Brascetta,14786,Virginia Tech,Ronnie Garbinsky,15349,Pittsburgh
+2015,02/22,West Virginia - Pittsburgh Dual,157,W,TB-1,4 - 3,George Scheffel,13588,West Virginia,Ronnie Garbinsky,15349,Pittsburgh
+2015,02/20,Pittsburgh - Michigan Dual,157,L,DEC,7 - 0,Brian Murphy,13518,Michigan,Ronnie Garbinsky,15349,Pittsburgh
+2015,02/14,Pittsburgh - North Carolina State Dual,157,W,DEC,9 - 7,Sam Melikian,20134,NC State,Ronnie Garbinsky,15349,Pittsburgh
+2015,02/08,Clarion - Pittsburgh Dual,157,W,FALL,3:56,Evan DeLong,19790,Clarion,Ronnie Garbinsky,15349,Pittsburgh
+2015,02/06,Pittsburgh @ Virginia Tech,157,L,DEC,12 - 5,Nick Brascetta,14786,Virginia Tech,Ronnie Garbinsky,15349,Pittsburgh
+2015,01/25,Virginia - Pittsburgh Dual,157,L,SV-1,5 - 3,Andrew Atkinson,11982,Virginia,Ronnie Garbinsky,15349,Pittsburgh
+2015,01/18,Pittsburgh - Oklahoma State Dual,157,W,TB-1,6 - 5,Anthony Collica,11723,Oklahoma State,Ronnie Garbinsky,15349,Pittsburgh
+2015,01/11,North Carolina - Pittsburgh Dual,157,W,DEC,4 - 3,Chris Mears,20116,North Carolina,Ronnie Garbinsky,15349,Pittsburgh
+2015,01/11,Duke - Pittsburgh Dual,157,L,DEC,8 - 2,Immanuel Kerr-Brown,13770,Duke,Ronnie Garbinsky,15349,Pittsburgh
+2015,01/10,Drexel - Pittsburgh Dual,157,L,DEC,3 - 1,Noel Blanco,11950,Drexel,Ronnie Garbinsky,15349,Pittsburgh
+2015,01/01,Southern Scuffle,157,L,DEC,5 - 4,Robert Henderson,14761,North Carolina,Ronnie Garbinsky,15349,Pittsburgh
+2015,01/01,Southern Scuffle,157,W,SV-1,14 - 4,Malcolm Martin,15578,Central Michigan,Ronnie Garbinsky,15349,Pittsburgh
+2015,01/01,Southern Scuffle,157,L,DEC,6 - 0,Greg Flournoy,18154,George Mason,Ronnie Garbinsky,15349,Pittsburgh
+2015,12/06,PSAC Championships,197,L,FALL,0:50,Adam Mackie,12802,Lock Haven,Ronnie Garbinsky,15349,Pittsburgh
+2015,12/06,PSAC Championships,197,W,DEC,4 - 2,Adam Mackie,12802,Lock Haven,Ronnie Garbinsky,15349,Pittsburgh
+2015,12/06,PSAC Championships,197,L,DEC,5 - 3,Michael Mirra,13137,Bloomsburg,Ronnie Garbinsky,15349,Pittsburgh
+2015,12/05,Maryland - Pittsburgh Dual,157,L,DEC,5 - 2,Lou Mascola,16743,Maryland,Ronnie Garbinsky,15349,Pittsburgh
+2015,11/23,Keystone Classic,157,L,DEC,9 - 5,Cody Pack,13498,South Dakota State,Ronnie Garbinsky,15349,Pittsburgh
+2015,11/23,Keystone Classic,157,W,DEC,12 - 6,Peter Galli,15320,Stanford,Ronnie Garbinsky,15349,Pittsburgh
+2015,11/23,Keystone Classic,157,W,FALL,1:42,Colton Peppelman,12894,Harvard,Ronnie Garbinsky,15349,Pittsburgh
+2015,11/23,Keystone Classic,157,W,MD,15 - 3,Noel Blanco,11950,Drexel,Ronnie Garbinsky,15349,Pittsburgh
+2015,11/21,Penn State - Pittsburgh Dual,157,W,DEC,6 - 4,Cody Law,15263,Penn State,Ronnie Garbinsky,15349,Pittsburgh
+2015,11/15,Pittsburgh - Lehigh Dual,157,L,MD,10 - 0,Dylan Milonas,19983,Lehigh,Ronnie Garbinsky,15349,Pittsburgh
+2015,11/08,Bucknell - Pittsburgh Dual,157,W,DEC,7 - 6,Rustin Barrick,11515,Bucknell,Ronnie Garbinsky,15349,Pittsburgh
+2015,11/06,Pittsburgh - Edinboro Dual,157,L,DEC,7 - 4,Austin Matthews,22442,Edinboro,Ronnie Garbinsky,15349,Pittsburgh
+2015,11/02,Pittsburgh - Bloomsburg Dual,157,W,DEC,8 - 2,Matt Hammerstone,13834,Bloomsburg,Ronnie Garbinsky,15349,Pittsburgh
+2015,01/01,Southern Scuffle,157,W,TF4,20 - 5 7:00,Daniel Richardson,20787,Campbell,Eric Nutter,12609,Pittsburgh
+2015,01/01,Southern Scuffle,157,W,DEC,4 - 0,Latrell Davis,13750,Cleveland State,Eric Nutter,12609,Pittsburgh
+2015,01/01,Southern Scuffle,157,L,DEC,7 - 1,Steven Hernandez,15477,Boise State,Eric Nutter,12609,Pittsburgh
+2015,01/01,Southern Scuffle,157,L,DEC,5 - 1,Mitch Minotti,13880,Lehigh,Eric Nutter,12609,Pittsburgh
+2015,11/23,Keystone Classic,157,L,TB-1,4 - 2,Chad Walsh,13628,Rider,Eric Nutter,12609,Pittsburgh
+2015,11/23,Keystone Classic,157,L,FALL,2:07,Brooks Martino,20316,Pennsylvania,Eric Nutter,12609,Pittsburgh
+2015,11/02,Pittsburgh - Bloomsburg Dual,165,W,DEC,6 - 0,Bradley Miccio,19676,Bloomsburg,Eric Nutter,12609,Pittsburgh
+2015,01/03,Franklin & Marshall Open,157,W,DEC,3 - 1,Henry Cousins,19910,Harvard,Boe Bonzo,24275,Pittsburgh
+2015,02/07,Edinboro Open,157,L,DEC,4 - 2,Gary Dinmore,23397,Unattached,Matt Gotzon,18268,Pittsburgh
+2015,02/07,Edinboro Open,157,L,DEC,6 - 1,Matt Bonshak,20692,Lehigh,Matt Gotzon,18268,Pittsburgh
+2015,02/07,Edinboro Open,157,W,MFOR,0 - 0,Joel Smith,14912,Arizona State,Matt Gotzon,18268,Pittsburgh
+2015,03/19,NCAA Championships,165,L,MD,12 - 4,Michael England,20057,Missouri,Troy Reaghard,20328,Pittsburgh
+2015,03/19,NCAA Championships,165,W,SV-1,3 - 1,Garrett Sutton,20024,Michigan,Troy Reaghard,20328,Pittsburgh
+2015,03/19,NCAA Championships,165,L,MD,14 - 4,Dylan Palacio,11481,Cornell,Troy Reaghard,20328,Pittsburgh
+2015,03/08,ACC Championships,165,W,DEC,4 - 3,Max Rohskopf,13645,NC State,Troy Reaghard,20328,Pittsburgh
+2015,03/08,ACC Championships,165,W,DEC,6 - 2,Jake Faust,13643,Duke,Troy Reaghard,20328,Pittsburgh
+2015,03/08,ACC Championships,165,L,DEC,5 - 3,Chad Strube,13878,Virginia Tech,Troy Reaghard,20328,Pittsburgh
+2015,02/22,West Virginia - Pittsburgh Dual,184,L,DEC,9 - 2,Bubba Scheffel,20475,West Virginia,Troy Reaghard,20328,Pittsburgh
+2015,02/20,Pittsburgh - Michigan Dual,165,L,DEC,5 - 1,Garrett Sutton,20024,Michigan,Troy Reaghard,20328,Pittsburgh
+2015,02/08,Clarion - Pittsburgh Dual,165,W,DEC,5 - 2,Slade Horner,19792,Clarion,Troy Reaghard,20328,Pittsburgh
+2015,01/25,Virginia - Pittsburgh Dual,165,L,MD,14 - 5,Nick Sulzer,11483,Virginia,Troy Reaghard,20328,Pittsburgh
+2015,01/10,Drexel - Pittsburgh Dual,165,W,DEC,3 - 2,Nick Elmer,15530,Drexel,Troy Reaghard,20328,Pittsburgh
+2015,01/01,Southern Scuffle,165,L,DEC,6 - 2,Austin Wilson,11470,Nebraska,Troy Reaghard,20328,Pittsburgh
+2015,01/01,Southern Scuffle,165,W,MFOR,0 - 0,Jordan Atienza,19747,Central Michigan,Troy Reaghard,20328,Pittsburgh
+2015,01/01,Southern Scuffle,165,W,DEC,7 - 3,Nick Kee,14557,Appalachian State,Troy Reaghard,20328,Pittsburgh
+2015,01/01,Southern Scuffle,165,L,DEC,5 - 0,Cole Gracey,11479,Army West Point,Troy Reaghard,20328,Pittsburgh
+2015,12/05,Maryland - Pittsburgh Dual,174,W,TB-1,4 - 2,Josh Snook,14801,Maryland,Troy Reaghard,20328,Pittsburgh
+2015,11/23,Keystone Classic,165,L,DEC,8 - 3,Jim Wilson,11535,Stanford,Troy Reaghard,20328,Pittsburgh
+2015,11/23,Keystone Classic,165,W,DEC,3 - 2,Derek Davison,14835,Eastern Michigan,Troy Reaghard,20328,Pittsburgh
+2015,11/23,Keystone Classic,165,L,DEC,8 - 7,Austin Geerlings,14858,Eastern Michigan,Troy Reaghard,20328,Pittsburgh
+2015,11/23,Keystone Classic,165,W,MD,11 - 0,Quinton Hiles,15028,Pennsylvania,Troy Reaghard,20328,Pittsburgh
+2015,11/21,Penn State - Pittsburgh Dual,174,L,MD,17 - 6,Matt Brown,12256,Penn State,Troy Reaghard,20328,Pittsburgh
+2015,11/15,Pittsburgh - Lehigh Dual,174,L,DEC,4 - 2,Marshall Peppelman,22444,Lehigh,Troy Reaghard,20328,Pittsburgh
+2015,11/08,Bucknell - Pittsburgh Dual,174,W,DEC,6 - 2,Joey Krulock,12790,Bucknell,Troy Reaghard,20328,Pittsburgh
+2015,11/06,Pittsburgh - Edinboro Dual,174,W,DEC,6 - 5,Patrick Jennings,12254,Edinboro,Troy Reaghard,20328,Pittsburgh
+2015,11/02,Pittsburgh - Bloomsburg Dual,174,W,DEC,4 - 1,Mark Granahan,14629,Bloomsburg,Troy Reaghard,20328,Pittsburgh
+2015,02/22,West Virginia - Pittsburgh Dual,165,L,DEC,5 - 2,Ross Renzi,11474,West Virginia,Cody Wiercioch,14845,Pittsburgh
+2015,02/14,Pittsburgh - North Carolina State Dual,165,L,DEC,3 - 2,Max Rohskopf,13645,NC State,Cody Wiercioch,14845,Pittsburgh
+2015,02/06,Pittsburgh @ Virginia Tech,165,L,DEC,6 - 4,Chad Strube,13878,Virginia Tech,Cody Wiercioch,14845,Pittsburgh
+2015,01/18,Pittsburgh - Oklahoma State Dual,165,L,FALL,1:30,Alex Dieringer,13470,Oklahoma State,Cody Wiercioch,14845,Pittsburgh
+2015,01/11,North Carolina - Pittsburgh Dual,165,L,DEC,5 - 1,Ethan Ramos,14560,North Carolina,Cody Wiercioch,14845,Pittsburgh
+2015,01/11,Duke - Pittsburgh Dual,165,L,SV-1,11 - 9,Jake Faust,13643,Duke,Cody Wiercioch,14845,Pittsburgh
+2015,01/01,Southern Scuffle,165,L,DEC,4 - 2,Brian Dorsey,14869,Duke,Cody Wiercioch,14845,Pittsburgh
+2015,01/01,Southern Scuffle,165,W,DEC,8 - 6,Jake Faust,13643,Duke,Cody Wiercioch,14845,Pittsburgh
+2015,01/01,Southern Scuffle,165,L,MD,16 - 3,Nick Sulzer,11483,Virginia,Cody Wiercioch,14845,Pittsburgh
+2015,01/01,Southern Scuffle,165,W,DEC,9 - 3,John Weiss,20790,Campbell,Cody Wiercioch,14845,Pittsburgh
+2015,12/05,Maryland - Pittsburgh Dual,165,W,MD,13 - 5,Tyler Manion,14894,Maryland,Cody Wiercioch,14845,Pittsburgh
+2015,11/23,Keystone Classic,165,L,DEC,7 - 3,Devan Marry,14832,Eastern Michigan,Cody Wiercioch,14845,Pittsburgh
+2015,11/23,Keystone Classic,165,W,TF4,17 - 2 4:42,Ned Batts,17321,Campbell,Cody Wiercioch,14845,Pittsburgh
+2015,11/23,Keystone Classic,165,L,DEC,8 - 2,Nick Kee,14557,Appalachian State,Cody Wiercioch,14845,Pittsburgh
+2015,11/21,Penn State - Pittsburgh Dual,165,W,DEC,11 - 8,Garett Hammond,14829,Penn State,Cody Wiercioch,14845,Pittsburgh
+2015,11/15,Pittsburgh - Lehigh Dual,165,W,DEC,9 - 5,Santiago Martinez,19981,Lehigh,Cody Wiercioch,14845,Pittsburgh
+2015,11/08,Bucknell - Pittsburgh Dual,165,W,DEC,12 - 5,Robert Schlitt,11503,Bucknell,Cody Wiercioch,14845,Pittsburgh
+2015,11/06,Pittsburgh - Edinboro Dual,165,W,DEC,5 - 3,Casey Fuller,14860,Edinboro,Cody Wiercioch,14845,Pittsburgh
+2015,01/03,Franklin & Marshall Open,165,L,MFOR,0 - 0,Dillon Gavlock,13920,Lock Haven,Tyler Reinhart,23546,Pittsburgh
+2015,01/03,Franklin & Marshall Open,165,W,DEC,1 - 0,Jake Henson,20427,Virginia,Tyler Reinhart,23546,Pittsburgh
+2015,01/03,Franklin & Marshall Open,165,L,MFOR,0 - 0,Colin Gironda,12825,Franklin & Marshall,Tyler Reinhart,23546,Pittsburgh
+2015,12/06,PSAC Championships,165,L,DEC,3 - 0,Aaron McKinney,14815,Lock Haven,Tyler Reinhart,23546,Pittsburgh
+2015,12/06,PSAC Championships,165,L,DEC,6 - 4,Slade Horner,19792,Clarion,Tyler Reinhart,23546,Pittsburgh
+2015,12/06,PSAC Championships,165,W,FALL,2:44,Brandon Meisner,17845,Bloomsburg,Tyler Reinhart,23546,Pittsburgh
+2015,01/03,Franklin & Marshall Open,165,L,DEC,12 - 6,Kyle Bova,20587,Lock Haven,Heath Coles,24260,Pittsburgh
+2015,01/03,Franklin & Marshall Open,165,W,DEC,5 - 1,Kanon Dean,19912,Harvard,Heath Coles,24260,Pittsburgh
+2015,01/03,Franklin & Marshall Open,165,L,DEC,3 - 2,Colin Gironda,12825,Franklin & Marshall,Heath Coles,24260,Pittsburgh
+2015,11/23,Keystone Classic,165,L,DEC,8 - 2,Tyler Grimaldi,13501,Harvard,Alexander Kail,16658,Pittsburgh
+2015,11/23,Keystone Classic,165,L,SV-1,3 - 1,Garrison Matthews,15003,Campbell,Alexander Kail,16658,Pittsburgh
+2015,11/02,Clarion Open,165,L,DEC,11 - 7,Nathan Wynkoop,14640,Cleveland State,Alexander Kail,16658,Pittsburgh
+2015,11/02,Clarion Open,165,L,FALL,4:50,Matt Donohoe,13536,Cleveland State,Alexander Kail,16658,Pittsburgh
+2015,02/20,Pittsburgh - Michigan Dual,184,L,FALL,4:16,Domenic Abounader,12523,Michigan,Noah Wilps,20561,Pittsburgh
+2015,12/13,Cleveland State Open,174,L,DEC,9 - 8,Dominic Rigous,19793,Clarion,Noah Wilps,20561,Pittsburgh
+2015,12/13,Cleveland State Open,174,W,MFOR,0 - 0,Michael Vollant,14777,Kent State,Noah Wilps,20561,Pittsburgh
+2015,12/13,Cleveland State Open,174,W,MFOR,0 - 0,Jacob Bresciani,12809,Ohio State,Noah Wilps,20561,Pittsburgh
+2015,12/13,Cleveland State Open,174,L,FALL,2:15,Johnny Sebastian,20224,Northwestern,Noah Wilps,20561,Pittsburgh
+2015,12/13,Cleveland State Open,174,W,DEC,6 - 2,Blake Reid,20349,Purdue,Noah Wilps,20561,Pittsburgh
+2015,11/30,Mat Town,174,L,DEC,11 - 4,Brandon Womack,40379,Spartan Combat RTC,Noah Wilps,20561,Pittsburgh
+2015,11/30,Mat Town,174,W,MD,12 - 3,Rex Lutz,12658,Penn State,Noah Wilps,20561,Pittsburgh
+2015,11/30,Mat Town,174,L,DEC,6 - 1,Travis Moyer,12792,Lock Haven,Noah Wilps,20561,Pittsburgh
+2015,11/30,Mat Town,174,W,DEC,4 - 2,Jake Weber,19731,Buffalo,Noah Wilps,20561,Pittsburgh
+2015,11/02,Clarion Open,184,L,DEC,2 - 1,Rory Bonner,12613,Bucknell,Noah Wilps,20561,Pittsburgh
+2015,03/19,NCAA Championships,174,W,DEC,3 - 2,Robert Kokesh,12265,Nebraska,Tyler Wilps,12287,Pittsburgh
+2015,03/19,NCAA Championships,174,W,DEC,8 - 3,Cody Walters,12401,Ohio,Tyler Wilps,12287,Pittsburgh
+2015,03/19,NCAA Championships,174,W,DEC,7 - 4,Matt Reed,15381,Oklahoma,Tyler Wilps,12287,Pittsburgh
+2015,03/19,NCAA Championships,174,W,SV-1,3 - 1,Kyle Crutchmer,12286,Oklahoma State,Tyler Wilps,12287,Pittsburgh
+2015,03/19,NCAA Championships,174,L,DEC,5 - 4,Matt Brown,12256,Penn State,Tyler Wilps,12287,Pittsburgh
+2015,03/08,ACC Championships,174,W,DEC,4 - 1,Blaise Butler,13756,Virginia,Tyler Wilps,12287,Pittsburgh
+2015,03/08,ACC Championships,174,W,DEC,6 - 2,John Michael Staudenmayer,11516,North Carolina,Tyler Wilps,12287,Pittsburgh
+2015,02/22,West Virginia - Pittsburgh Dual,174,W,MD,14 - 5,Weston Parker VonEgidy,23919,West Virginia,Tyler Wilps,12287,Pittsburgh
+2015,02/20,Pittsburgh - Michigan Dual,174,W,DEC,4 - 2,Taylor Massa,11462,Michigan,Tyler Wilps,12287,Pittsburgh
+2015,02/14,Pittsburgh - North Carolina State Dual,174,W,DEC,11 - 4,Pete Renda,12371,NC State,Tyler Wilps,12287,Pittsburgh
+2015,02/08,Clarion - Pittsburgh Dual,174,W,FALL,5:47,Michael Pavasko,14800,Clarion,Tyler Wilps,12287,Pittsburgh
+2015,02/06,Pittsburgh @ Virginia Tech,174,L,DEC,3 - 2,Zach Epperly,12258,Virginia Tech,Tyler Wilps,12287,Pittsburgh
+2015,01/25,Virginia - Pittsburgh Dual,174,W,DEC,6 - 2,Blaise Butler,13756,Virginia,Tyler Wilps,12287,Pittsburgh
+2015,01/18,Pittsburgh - Oklahoma State Dual,174,W,MD,17 - 8,Jordan Rogers,12544,Oklahoma State,Tyler Wilps,12287,Pittsburgh
+2015,01/11,North Carolina - Pittsburgh Dual,174,W,TB-1,2 - 1,John Michael Staudenmayer,11516,North Carolina,Tyler Wilps,12287,Pittsburgh
+2015,01/11,Duke - Pittsburgh Dual,174,W,DEC,7 - 5,Trey Adamson,12787,Duke,Tyler Wilps,12287,Pittsburgh
+2015,01/10,Drexel - Pittsburgh Dual,174,W,FALL,4:18,Connor Moran,19852,Drexel,Tyler Wilps,12287,Pittsburgh
+2015,01/01,Southern Scuffle,174,W,MFOR,0 - 0,Kyle Crutchmer,12286,Oklahoma State,Tyler Wilps,12287,Pittsburgh
+2015,01/01,Southern Scuffle,174,L,DEC,6 - 5,Matt Brown,12256,Penn State,Tyler Wilps,12287,Pittsburgh
+2015,01/01,Southern Scuffle,174,W,DEC,5 - 2,Andy McCulley,13524,Wyoming,Tyler Wilps,12287,Pittsburgh
+2015,01/01,Southern Scuffle,174,W,FALL,2:30,Randy Roden,19867,Duke,Tyler Wilps,12287,Pittsburgh
+2015,01/01,Southern Scuffle,174,W,FALL,5:45,Brett Stein,12807,Gardner-Webb,Tyler Wilps,12287,Pittsburgh
+2015,01/01,Southern Scuffle,174,L,DEC,7 - 3,Johnny Eblen,12537,Missouri,Tyler Wilps,12287,Pittsburgh
+2015,01/03,Franklin & Marshall Open,174,L,MD,10 - 0,Stephen Loiseau,19851,Drexel,John Blankenship,23549,Pittsburgh
+2015,01/03,Franklin & Marshall Open,174,L,DEC,8 - 3,Shakur Rasheed,20305,Penn State,John Blankenship,23549,Pittsburgh
+2015,01/03,Franklin & Marshall Open,174,W,DEC,5 - 0,Kyle Roddy,15953,Princeton,John Blankenship,23549,Pittsburgh
+2015,12/06,PSAC Championships,174,L,DEC,6 - 1,Tyler Wood,12415,Lock Haven,John Blankenship,23549,Pittsburgh
+2015,12/06,PSAC Championships,174,L,DEC,6 - 3,Michael Pavasko,14800,Clarion,John Blankenship,23549,Pittsburgh
+2015,12/06,PSAC Championships,174,W,DEC,7 - 3,Casey Bearden,19664,Bloomsburg,John Blankenship,23549,Pittsburgh
+2015,03/19,NCAA Championships,184,L,DEC,7 - 1,Hayden Zillmer,12280,North Dakota State,Max Thomusseit,12477,Pittsburgh
+2015,03/19,NCAA Championships,184,L,DEC,7 - 4,Nathaniel Brown,12538,Lehigh,Max Thomusseit,12477,Pittsburgh
+2015,03/19,NCAA Championships,184,W,DEC,11 - 4,Ricky Robertson,14042,Wisconsin,Max Thomusseit,12477,Pittsburgh
+2015,03/19,NCAA Championships,184,W,MD,14 - 4,Bubba Scheffel,20475,West Virginia,Max Thomusseit,12477,Pittsburgh
+2015,03/08,ACC Championships,184,W,MD,19 - 8,Tyler Askey,12657,Virginia,Max Thomusseit,12477,Pittsburgh
+2015,03/08,ACC Championships,184,W,MD,14 - 6,Jacob Kasper,12475,Duke,Max Thomusseit,12477,Pittsburgh
+2015,02/14,Pittsburgh - North Carolina State Dual,184,W,DEC,10 - 4,Nicky Hall,20129,NC State,Max Thomusseit,12477,Pittsburgh
+2015,02/08,Clarion - Pittsburgh Dual,184,W,FALL,2:42,Daniel Sutherland,12575,Clarion,Max Thomusseit,12477,Pittsburgh
+2015,02/06,Pittsburgh @ Virginia Tech,184,W,MD,10 - 2,Austin Gabel,12396,Virginia Tech,Max Thomusseit,12477,Pittsburgh
+2015,01/25,Virginia - Pittsburgh Dual,184,W,TF4,21 - 6 7:00,Tyler Askey,12657,Virginia,Max Thomusseit,12477,Pittsburgh
+2015,01/18,Pittsburgh - Oklahoma State Dual,184,W,DEC,14 - 13,Nolan Boyd,12399,Oklahoma State,Max Thomusseit,12477,Pittsburgh
+2015,01/11,North Carolina - Pittsburgh Dual,184,W,DEC,7 - 3,Scott Marmoll,12361,North Carolina,Max Thomusseit,12477,Pittsburgh
+2015,01/11,Duke - Pittsburgh Dual,184,W,DEC,5 - 2,Jacob Kasper,12475,Duke,Max Thomusseit,12477,Pittsburgh
+2015,01/10,Drexel - Pittsburgh Dual,184,W,TF4,22 - 7 5:46,Alex DeCiantis,12387,Drexel,Max Thomusseit,12477,Pittsburgh
+2015,01/01,Southern Scuffle,184,L,FALL,3:55,Gabe Dean,12580,Cornell,Max Thomusseit,12477,Pittsburgh
+2015,01/01,Southern Scuffle,184,W,DEC,7 - 4,Benjamin Stroh,12647,Wyoming,Max Thomusseit,12477,Pittsburgh
+2015,01/01,Southern Scuffle,184,W,DEC,4 - 0,Ville Heino,12518,Campbell,Max Thomusseit,12477,Pittsburgh
+2015,01/01,Southern Scuffle,184,W,DEC,8 - 3,Samson Imonode,12655,Army West Point,Max Thomusseit,12477,Pittsburgh
+2015,01/01,Southern Scuffle,184,W,DEC,3 - 1,Nathaniel Brown,12538,Lehigh,Max Thomusseit,12477,Pittsburgh
+2015,12/05,Maryland - Pittsburgh Dual,184,W,FALL,3:47,Anthony Gardner,22164,Maryland,Max Thomusseit,12477,Pittsburgh
+2015,11/23,Keystone Classic,184,W,MD,15 - 7,Garet Krohn,12464,Stanford,Max Thomusseit,12477,Pittsburgh
+2015,11/23,Keystone Classic,184,W,MD,14 - 4,Mike Curby,12262,Eastern Michigan,Max Thomusseit,12477,Pittsburgh
+2015,11/23,Keystone Classic,184,W,MD,15 - 5,Marcus Johnson,19622,Appalachian State,Max Thomusseit,12477,Pittsburgh
+2015,11/23,Keystone Classic,184,W,DEC,5 - 3,Lorenzo Thomas,12543,Pennsylvania,Max Thomusseit,12477,Pittsburgh
+2015,11/21,Penn State - Pittsburgh Dual,184,W,DEC,5 - 3,Matt McCutcheon,12572,Penn State,Max Thomusseit,12477,Pittsburgh
+2015,11/15,Pittsburgh - Lehigh Dual,184,W,DEC,6 - 4,Nathaniel Brown,12538,Lehigh,Max Thomusseit,12477,Pittsburgh
+2015,11/08,Bucknell - Pittsburgh Dual,184,W,MD,18 - 6,Tom Sleigh,19710,Bucknell,Max Thomusseit,12477,Pittsburgh
+2015,11/06,Pittsburgh - Edinboro Dual,184,W,DEC,5 - 3,Vic Avery,12614,Edinboro,Max Thomusseit,12477,Pittsburgh
+2015,11/02,Pittsburgh - Bloomsburg Dual,184,W,FALL,4:45,David Williams,19679,Bloomsburg,Max Thomusseit,12477,Pittsburgh
+2015,02/07,Edinboro Open,184,W,DEC,8 - 4,Jacob Davis,11492,Eastern Michigan,Travis McKillop,22563,Pittsburgh
+2015,02/07,Edinboro Open,184,L,MFOR,0 - 0,Nick Mitchell,12625,Edinboro,Travis McKillop,22563,Pittsburgh
+2015,02/07,Edinboro Open,184,L,MD,14 - 1,Blake Stauffer,12447,Arizona State,Travis McKillop,22563,Pittsburgh
+2015,02/07,Edinboro Open,184,W,DEC,7 - 6,Christian Brucki,20980,Central Michigan,Travis McKillop,22563,Pittsburgh
+2015,01/03,Franklin & Marshall Open,184,W,TF4,15 - 0 2:46,Matt Doggett,19811,Columbia,Travis McKillop,22563,Pittsburgh
+2015,01/03,Franklin & Marshall Open,184,W,MD,13 - 4,Chanse Menendez,20748,Maryland,Travis McKillop,22563,Pittsburgh
+2015,01/03,Franklin & Marshall Open,184,W,DEC,8 - 1,Michael Mocco,19918,Harvard,Travis McKillop,22563,Pittsburgh
+2015,01/03,Franklin & Marshall Open,184,W,MD,12 - 2,Scott Gibbons,12404,Princeton,Travis McKillop,22563,Pittsburgh
+2015,11/16,East Stroudsburg Open,184,L,MFOR,0 - 0,Taylor Jackson,12867,Rutgers,Travis McKillop,22563,Pittsburgh
+2015,11/16,East Stroudsburg Open,184,W,DEC,4 - 1,Rory Bonner,12613,Bucknell,Travis McKillop,22563,Pittsburgh
+2015,11/16,East Stroudsburg Open,184,W,MFOR,0 - 0,Reggie Williams,19663,Binghamton,Travis McKillop,22563,Pittsburgh
+2015,11/16,East Stroudsburg Open,184,W,DEC,8 - 4,Michael Woulfe,12693,Navy,Travis McKillop,22563,Pittsburgh
+2015,11/15,East Stroudsburg Open,184,L,MFOR,0 - 0,Taylor Jackson,12867,Rutgers,Travis McKillop,22563,Pittsburgh
+2015,11/15,East Stroudsburg Open,184,W,DEC,8 - 4,Michael Woulfe,12693,Navy,Travis McKillop,22563,Pittsburgh
+2015,11/15,East Stroudsburg Open,184,W,DEC,4 - 1,Rory Bonner,12613,Bucknell,Travis McKillop,22563,Pittsburgh
+2015,01/18,Shorty Hitchcock Memorial Open,184,W,DEC,5 - 2,Austin Wilding,12511,Army West Point,Zach Bruce,20321,Pittsburgh
+2015,12/07,Nittany Lion Open,184,W,DEC,9 - 7,Samson Imonode,12655,Army West Point,Zach Bruce,20321,Pittsburgh
+2015,12/07,Nittany Lion Open,184,W,DEC,9 - 3,Tyler McLees,12737,Army West Point,Zach Bruce,20321,Pittsburgh
+2015,12/07,Nittany Lion Open,184,W,DEC,6 - 1,Lucky Shaut,20366,Rutgers,Zach Bruce,20321,Pittsburgh
+2015,12/07,Nittany Lion Open,184,W,DEC,3 - 1,Mark Tracy,19662,Binghamton,Zach Bruce,20321,Pittsburgh
+2015,12/07,Nittany Lion Open,184,L,DEC,6 - 2,Nicholas Weldon,20307,Penn State,Zach Bruce,20321,Pittsburgh
+2015,12/07,Nittany Lion Open,184,L,TF4,18 - 2 5:41,Matt McCutcheon,12572,Penn State,Zach Bruce,20321,Pittsburgh
+2015,12/07,Nittany Lion Open,184,L,TF4,15 - 0 4:30,James Frascella,12578,Penn State,Zach Bruce,20321,Pittsburgh
+2015,02/07,Edinboro Open,197,L,FALL,6:04,Ben Honis,23243,Spartan Combat RTC,Alen Turcinhodzic,13091,Pittsburgh
+2015,02/07,Edinboro Open,197,L,DEC,3 - 2,Dustin Conti,12468,Clarion,Alen Turcinhodzic,13091,Pittsburgh
+2015,12/07,Nittany Lion Open,197,L,DEC,9 - 4,Tristan Sponseller,20593,Lock Haven,Alen Turcinhodzic,13091,Pittsburgh
+2015,12/07,Nittany Lion Open,197,W,DEC,6 - 5,Derrick Maisonet,20132,NC State,Alen Turcinhodzic,13091,Pittsburgh
+2015,12/07,Nittany Lion Open,197,W,MD,9 - 0,Nick Mabry,20613,Navy,Alen Turcinhodzic,13091,Pittsburgh
+2015,12/07,Nittany Lion Open,197,L,DEC,10 - 4,Anthony Cassar,20299,Penn State,Alen Turcinhodzic,13091,Pittsburgh
+2015,11/23,Keystone Classic,184,W,FALL,3:11,Jake Koch,12298,VMI,Alen Turcinhodzic,13091,Pittsburgh
+2015,11/23,Keystone Classic,184,L,DEC,4 - 2,Ryan Davies,12528,Stanford,Alen Turcinhodzic,13091,Pittsburgh
+2015,11/23,Keystone Classic,184,L,DEC,8 - 4,Matt Irick,12356,Indiana,Alen Turcinhodzic,13091,Pittsburgh
+2015,11/23,Keystone Classic,184,W,FALL,0:37,Michael Mocco,19918,Harvard,Alen Turcinhodzic,13091,Pittsburgh
+2015,11/08,Cowboy Open,184,L,DEC,8 - 2,Benjamin Stroh,12647,Wyoming,Alen Turcinhodzic,13091,Pittsburgh
+2015,11/02,Clarion Open,184,L,DEC,10 - 6,Ross Taylor,15548,Utah Valley,Alen Turcinhodzic,13091,Pittsburgh
+2015,11/02,Clarion Open,184,W,FALL,4:01,Jeremy B,21729,Penn State,Alen Turcinhodzic,13091,Pittsburgh
+2015,01/03,Franklin & Marshall Open,184,L,DEC,10 - 4,Stout Watson,12442,Navy,Adam Nickleson,23579,Pittsburgh
+2015,12/06,PSAC Championships,184,L,FALL,4:22,Daniel Sutherland,12575,Clarion,Adam Nickleson,23579,Pittsburgh
+2015,11/23,Keystone Classic,174,L,MD,15 - 5,Nate Jackson,12264,Indiana,Ryan McMullan,20325,Pittsburgh
+2015,11/23,Keystone Classic,174,L,MD,17 - 8,Dan McDevitt,12847,Pennsylvania,Ryan McMullan,20325,Pittsburgh
+2015,11/02,Clarion Open,184,L,DEC,7 - 4,Abel Gomez,18177,Utah Valley,Ryan McMullan,20325,Pittsburgh
+2015,11/02,Clarion Open,184,W,DEC,8 - 2,Jeremy B,21729,Penn State,Ryan McMullan,20325,Pittsburgh
+2015,03/08,ACC Championships,197,W,DEC,4 - 1,Michael Boykin,20123,NC State,Nick Bonaccorsi,13141,Pittsburgh
+2015,03/08,ACC Championships,197,W,TB-2,3 - 2,Jared Haught,13085,Virginia Tech,Nick Bonaccorsi,13141,Pittsburgh
+2015,03/08,ACC Championships,197,L,DEC,4 - 2,Jared Haught,13085,Virginia Tech,Nick Bonaccorsi,13141,Pittsburgh
+2015,02/22,West Virginia - Pittsburgh Dual,197,L,FALL,1:45,Jake A Smith,23323,West Virginia,Nick Bonaccorsi,13141,Pittsburgh
+2015,02/20,Pittsburgh - Michigan Dual,197,L,DEC,5 - 1,Max Huntley,12662,Michigan,Nick Bonaccorsi,13141,Pittsburgh
+2015,02/14,Pittsburgh - North Carolina State Dual,197,L,DEC,6 - 1,Michael Boykin,20123,NC State,Nick Bonaccorsi,13141,Pittsburgh
+2015,02/08,Clarion - Pittsburgh Dual,197,W,DEC,6 - 2,Ryan Darch,12769,Clarion,Nick Bonaccorsi,13141,Pittsburgh
+2015,02/06,Pittsburgh @ Virginia Tech,197,L,DEC,3 - 2,Jared Haught,13085,Virginia Tech,Nick Bonaccorsi,13141,Pittsburgh
+2015,01/25,Virginia - Pittsburgh Dual,197,L,TB-1,2 - 1,Zach Nye,13160,Virginia,Nick Bonaccorsi,13141,Pittsburgh
+2015,01/18,Pittsburgh - Oklahoma State Dual,197,W,DEC,8 - 2,Austin Schafer,13112,Oklahoma State,Nick Bonaccorsi,13141,Pittsburgh
+2015,01/11,North Carolina - Pittsburgh Dual,197,L,DEC,8 - 5,Chip Ness,20118,North Carolina,Nick Bonaccorsi,13141,Pittsburgh
+2015,01/11,Duke - Pittsburgh Dual,197,L,DEC,5 - 2,Conner Hartmann,13169,Duke,Nick Bonaccorsi,13141,Pittsburgh
+2015,01/10,Drexel - Pittsburgh Dual,197,W,DEC,8 - 3,Brandon Litten,13097,Drexel,Nick Bonaccorsi,13141,Pittsburgh
+2015,01/01,Southern Scuffle,197,L,DEC,8 - 2,Bryce Barnes,13133,Army West Point,Nick Bonaccorsi,13141,Pittsburgh
+2015,01/01,Southern Scuffle,197,W,MD,11 - 0,Ira Dent,12620,Chattanooga,Nick Bonaccorsi,13141,Pittsburgh
+2015,01/01,Southern Scuffle,197,L,DEC,2 - 1,John Bolich,13056,Lehigh,Nick Bonaccorsi,13141,Pittsburgh
+2015,12/05,Maryland - Pittsburgh Dual,197,W,DEC,12 - 5,Rob Fitzgerald,20002,Maryland,Nick Bonaccorsi,13141,Pittsburgh
+2015,11/23,Keystone Classic,197,L,DEC,6 - 2,Alex Polizzi,13018,Northwestern,Nick Bonaccorsi,13141,Pittsburgh
+2015,11/23,Keystone Classic,197,W,DEC,7 - 0,Luke Sheridan,12459,Indiana,Nick Bonaccorsi,13141,Pittsburgh
+2015,11/23,Keystone Classic,197,W,DEC,8 - 4,Joshua Murphy,19853,Drexel,Nick Bonaccorsi,13141,Pittsburgh
+2015,11/23,Keystone Classic,197,W,FALL,1:56,Collin Johnson,12540,Appalachian State,Nick Bonaccorsi,13141,Pittsburgh
+2015,11/21,Penn State - Pittsburgh Dual,197,L,FALL,4:05,Morgan McIntosh,13012,Penn State,Nick Bonaccorsi,13141,Pittsburgh
+2015,11/15,Pittsburgh - Lehigh Dual,197,W,SV-1,5 - 3,Elliot Riddick,12793,Lehigh,Nick Bonaccorsi,13141,Pittsburgh
+2015,11/08,Bucknell - Pittsburgh Dual,197,W,DEC,5 - 1,Tyler Lyster,13064,Bucknell,Nick Bonaccorsi,13141,Pittsburgh
+2015,11/06,Pittsburgh - Edinboro Dual,197,W,DEC,4 - 1,Vince Pickett,13060,Edinboro,Nick Bonaccorsi,13141,Pittsburgh
+2015,11/02,Pittsburgh - Bloomsburg Dual,197,W,MD,9 - 0,Michael Mirra,13137,Bloomsburg,Nick Bonaccorsi,13141,Pittsburgh
+2015,02/07,Edinboro Open,197,L,DEC,10 - 6,Regis Durbin,20220,Northwestern,Matt Patrick,13057,Pittsburgh
+2015,02/07,Edinboro Open,197,W,MD,15 - 6,Edgar Ruano,19798,Clarion,Matt Patrick,13057,Pittsburgh
+2015,02/07,Edinboro Open,197,L,MD,12 - 2,Jackson Lewis,13107,Central Michigan,Matt Patrick,13057,Pittsburgh
+2015,01/03,Franklin & Marshall Open,197,L,TF4,16 - 0 5:23,Josh Popple,19920,Harvard,Matt Patrick,13057,Pittsburgh
+2015,01/03,Franklin & Marshall Open,197,L,DEC,10 - 3,Charles Kerkesner,13158,Franklin & Marshall,Matt Patrick,13057,Pittsburgh
+2015,12/13,Cleveland State Open,197,L,DEC,12 - 5,Matthew O'Hara,20251,Ohio State,Matt Patrick,13057,Pittsburgh
+2015,12/13,Cleveland State Open,197,W,DEC,6 - 3,Aaron Page,23558,Mercyhurst,Matt Patrick,13057,Pittsburgh
+2015,12/13,Cleveland State Open,197,L,DEC,8 - 1,Boyce Cornwell,13173,Gardner-Webb,Matt Patrick,13057,Pittsburgh
+2015,11/23,Keystone Classic,197,L,DEC,5 - 3,Luke Sheridan,12459,Indiana,Matt Patrick,13057,Pittsburgh
+2015,11/23,Keystone Classic,197,L,FALL,2:24,Josh Popple,19920,Harvard,Matt Patrick,13057,Pittsburgh
+2015,11/02,Clarion Open,197,L,TF4,15 - 0 7:00,Elliot Riddick,12793,Lehigh,Matt Patrick,13057,Pittsburgh
+2015,03/19,NCAA Championships,285,L,DEC,5 - 3,Devin Mellon,14302,Missouri,Ryan Solomon,13146,Pittsburgh
+2015,03/19,NCAA Championships,285,W,DEC,6 - 4,Jared Johnson,19773,Chattanooga,Ryan Solomon,13146,Pittsburgh
+2015,03/19,NCAA Championships,285,W,MFOR,0 - 0,Joe Stolfi,14234,Bucknell,Ryan Solomon,13146,Pittsburgh
+2015,03/19,NCAA Championships,285,L,DEC,8 - 3,Tyler Deuel,19652,Binghamton,Ryan Solomon,13146,Pittsburgh
+2015,03/08,ACC Championships,285,L,MD,14 - 3,Nick Gwiazdowski,14221,NC State,Ryan Solomon,13146,Pittsburgh
+2015,03/08,ACC Championships,285,W,DEC,6 - 4,Brendan Walsh,14355,Duke,Ryan Solomon,13146,Pittsburgh
+2015,03/08,ACC Championships,285,W,DEC,3 - 2,Ty Walz,14246,Virginia Tech,Ryan Solomon,13146,Pittsburgh
+2015,02/22,West Virginia - Pittsburgh Dual,285,L,DEC,2 - 1,AJ Vizcarrondo,14266,West Virginia,Ryan Solomon,13146,Pittsburgh
+2015,02/14,Pittsburgh - North Carolina State Dual,285,L,FALL,1:58,Nick Gwiazdowski,14221,NC State,Ryan Solomon,13146,Pittsburgh
+2015,02/08,Clarion - Pittsburgh Dual,285,W,DEC,1 - 0,Joshua Davis,14211,Clarion,Ryan Solomon,13146,Pittsburgh
+2015,02/06,Pittsburgh @ Virginia Tech,285,L,DEC,4 - 2,Ty Walz,14246,Virginia Tech,Ryan Solomon,13146,Pittsburgh
+2015,01/25,Virginia - Pittsburgh Dual,285,W,DEC,4 - 3,Patrick Gillen,13125,Virginia,Ryan Solomon,13146,Pittsburgh
+2015,01/11,North Carolina - Pittsburgh Dual,285,W,SV-1,4 - 2,Frank Abbondanza,13100,North Carolina,Ryan Solomon,13146,Pittsburgh
+2015,01/11,Duke - Pittsburgh Dual,285,W,TB-1,2 - 1,Brendan Walsh,14355,Duke,Ryan Solomon,13146,Pittsburgh
+2015,01/01,Southern Scuffle,197,L,DEC,6 - 0,Shane Woods,13015,Wyoming,Ryan Solomon,13146,Pittsburgh
+2015,01/01,Southern Scuffle,197,W,MD,12 - 4,Brandon Tribble,13038,Wyoming,Ryan Solomon,13146,Pittsburgh
+2015,01/01,Southern Scuffle,197,W,FALL,1:38,Ira Dent,12620,Chattanooga,Ryan Solomon,13146,Pittsburgh
+2015,01/01,Southern Scuffle,197,L,MD,15 - 5,Max Huntley,12662,Michigan,Ryan Solomon,13146,Pittsburgh
+2015,01/01,Southern Scuffle,197,W,DEC,6 - 4,Marshall Haas,13170,The Citadel,Ryan Solomon,13146,Pittsburgh
+2015,12/13,Cleveland State Open,197,L,DEC,8 - 2,Kevin Beazley,12757,Old Dominion,Ryan Solomon,13146,Pittsburgh
+2015,12/13,Cleveland State Open,197,L,SV-1,3 - 1,Joseph Brandt,23366,Ashland,Ryan Solomon,13146,Pittsburgh
+2015,12/13,Cleveland State Open,197,W,FALL,0:20,James Empfield,23885,Mercyhurst,Ryan Solomon,13146,Pittsburgh
+2015,12/13,Cleveland State Open,197,W,DEC,4 - 2,Nigel Toussaint,43157,Unattached,Ryan Solomon,13146,Pittsburgh
+2015,11/23,Keystone Classic,197,W,DEC,3 - 2,Nate Rotert,12968,South Dakota State,Ryan Solomon,13146,Pittsburgh
+2015,11/23,Keystone Classic,197,W,FALL,0:36,Jake Tomlinson,20703,VMI,Ryan Solomon,13146,Pittsburgh
+2015,11/23,Keystone Classic,197,L,DEC,6 - 2,Alex Polizzi,13018,Northwestern,Ryan Solomon,13146,Pittsburgh
+2015,11/23,Keystone Classic,197,L,FALL,1:00,Luke Sheridan,12459,Indiana,Ryan Solomon,13146,Pittsburgh
+2015,11/23,Keystone Classic,197,W,DEC,8 - 3,Angus Cowell,19911,Harvard,Ryan Solomon,13146,Pittsburgh
+2015,11/23,Keystone Classic,197,W,MD,13 - 1,Anthony Abro,12495,Eastern Michigan,Ryan Solomon,13146,Pittsburgh
+2015,01/03,Franklin & Marshall Open,285,W,FALL,1:49,Patrick Gillen,13125,Virginia,Zachary Bennett,24268,Pittsburgh
+2015,01/03,Franklin & Marshall Open,285,W,DEC,5 - 0,Ethan Stanley,14308,Navy,Zachary Bennett,24268,Pittsburgh
+2015,01/03,Franklin & Marshall Open,285,W,DEC,7 - 4,Connor Calkins,19648,Binghamton,Zachary Bennett,24268,Pittsburgh
+2015,02/20,Pittsburgh - Michigan Dual,285,L,DEC,8 - 2,Adam Coon,14123,Michigan,John Rizzo,20329,Pittsburgh
+2015,01/18,Pittsburgh - Oklahoma State Dual,285,L,MD,11 - 1,Austin Marsden,14130,Oklahoma State,John Rizzo,20329,Pittsburgh
+2015,01/10,Drexel - Pittsburgh Dual,285,W,DEC,7 - 4,Alex Foley,19848,Drexel,John Rizzo,20329,Pittsburgh
+2015,01/01,Southern Scuffle,285,L,DEC,4 - 3,Jake Kettler,14191,George Mason,John Rizzo,20329,Pittsburgh
+2015,01/01,Southern Scuffle,285,L,TB-1,2 - 1,Doug Vollaro,14167,Lehigh,John Rizzo,20329,Pittsburgh
+2015,12/05,Maryland - Pittsburgh Dual,285,W,DEC,6 - 4,Sean Twigg,14162,Maryland,John Rizzo,20329,Pittsburgh
+2015,11/23,Keystone Classic,285,L,DEC,5 - 0,Juan Adams,14175,VMI,John Rizzo,20329,Pittsburgh
+2015,11/23,Keystone Classic,285,L,DEC,5 - 1,Greg Velasco,14233,Rider,John Rizzo,20329,Pittsburgh
+2015,11/21,Penn State - Pittsburgh Dual,285,L,MD,9 - 1,Jon Gingrich,14213,Penn State,John Rizzo,20329,Pittsburgh
+2015,11/15,Pittsburgh - Lehigh Dual,285,L,TB-1,4 - 1,Doug Vollaro,14167,Lehigh,John Rizzo,20329,Pittsburgh
+2015,11/08,Bucknell - Pittsburgh Dual,285,L,DEC,7 - 2,Joe Stolfi,14234,Bucknell,John Rizzo,20329,Pittsburgh
+2015,11/06,Pittsburgh - Edinboro Dual,285,W,FALL,4:53,Warren Bosch,17928,Edinboro,John Rizzo,20329,Pittsburgh
+2015,11/02,Pittsburgh - Bloomsburg Dual,285,W,FALL,4:25,Shaun Heist,13122,Bloomsburg,John Rizzo,20329,Pittsburgh
+2015,01/03,Franklin & Marshall Open,285,L,DEC,3 - 1,Joey Goodhart,19849,Drexel,Josh Duplin,24243,Pittsburgh
+2015,01/03,Franklin & Marshall Open,285,L,SV-1,5 - 3,Alex Henry,14146,Franklin & Marshall,Josh Duplin,24243,Pittsburgh
+2015,01/03,Franklin & Marshall Open,285,W,FALL,5:23,Isaiah Cromwell,16346,Franklin & Marshall,Josh Duplin,24243,Pittsburgh
+2015,01/03,Franklin & Marshall Open,285,W,TB-2,4 - 3,Chuck Boddy,14205,Bucknell,Damon Sims,23559,Pittsburgh
+2015,01/03,Franklin & Marshall Open,285,L,DEC,6 - 2,Joey Goodhart,19849,Drexel,Damon Sims,23559,Pittsburgh
+2015,01/03,Franklin & Marshall Open,285,W,DEC,6 - 4,Alex Henry,14146,Franklin & Marshall,Damon Sims,23559,Pittsburgh
+2015,01/03,Franklin & Marshall Open,285,W,MD,16 - 5,Michael Markulec,20337,Princeton,Damon Sims,23559,Pittsburgh
+2015,12/06,PSAC Championships,285,L,DEC,7 - 6,Warren Bosch,17928,Edinboro,Damon Sims,23559,Pittsburgh
+2015,11/23,Keystone Classic,285,L,DEC,6 - 0,Nathan Butler,14443,Stanford,Lucas Chestnut,20322,Pittsburgh
+2015,11/23,Keystone Classic,285,W,MD,10 - 1,Yousif Malif,24431,VMI,Lucas Chestnut,20322,Pittsburgh
+2015,11/23,Keystone Classic,285,L,FALL,0:18,Gage Hutchison,14259,Eastern Michigan,Lucas Chestnut,20322,Pittsburgh
+2015,11/02,Clarion Open,285,L,DEC,11 - 4,Adam Fager,14125,Utah Valley,Lucas Chestnut,20322,Pittsburgh
+2015,11/02,Clarion Open,285,L,FALL,4:35,Joe Stolfi,14234,Bucknell,Lucas Chestnut,20322,Pittsburgh

@@ -1,0 +1,544 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2020,03/07,PAC 12 Championships,125,W,FALL,6:29,Jayden Carson,62838,Little Rock,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,03/07,PAC 12 Championships,125,L,DEC,7 - 3,Brandon Kaylor,51198,Oregon State,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,03/07,PAC 12 Championships,125,W,MD,10 - 0,Benjamin Martinez,56668,Cal Poly,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,03/07,PAC 12 Championships,125,L,MD,16 - 7,Brandon Courtney,50881,Arizona State,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,02/16,Arizona State - CSU Bakersfield Dual,125,L,MD,14 - 6,Brandon Courtney,50881,Arizona State,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,02/14,CSU Bakersfield - Cal Poly Dual,125,W,DEC,7 - 1,Benjamin Martinez,56668,Cal Poly,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,02/08,CSU Bakersfield - Stanford Dual,125,L,MD,14 - 2,Jackson DiSario,57126,Stanford,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,02/07,Oregon State - CSU Bakersfield Dual,125,L,DEC,5 - 2,Brandon Kaylor,51198,Oregon State,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,01/26,CSU Bakersfield - Northern Colorado Dual,125,L,DEC,4 - 1,Jace Koelzer,50912,Northern Colorado,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,01/24,CSU Bakersfield - Wyoming Dual,125,L,DEC,8 - 6,Jake Svihel,59535,Wyoming,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,01/01,Southern Scuffle,125,W,MD,14 - 1,Romeo McNeil,63461,Spartan Combat RTC,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,01/01,Southern Scuffle,125,L,MD,17 - 5,Sam Latona,56742,Virginia Tech,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,01/01,Southern Scuffle,125,L,TB-2,3 - 2,Zurich Storm,50138,Campbell,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,125,L,DEC,11 - 4,Alex Mackall,44577,Iowa State,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,125,L,DEC,5 - 3,Kahlen Morris,40278,South Dakota State,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,125,W,MD,9 - 0,Matthew Templeton,56397,Hofstra,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,11/24,Roadrunner Open,125,L,DEC,7 - 5,Eddie Flores,51127,CSU Bakersfield,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,11/24,Roadrunner Open,125,W,DEC,4 - 2,Tony Margiotta,57016,San Francisco State,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,11/24,Roadrunner Open,125,W,FALL,3:54,Cody Cabanban,46710,Menlo,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,11/24,Roadrunner Open,125,L,DEC,6 - 0,Joe Manchio,50937,Columbia,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,11/22,Buffalo - CSU Bakersfield Dual,125,W,DEC,4 - 3,Jordan Reyes,61394,Buffalo,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,11/16,Rutgers - CSU Bakersfield Dual,125,L,DEC,8 - 2,Malcolm Robinson,49472,Rutgers,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,11/03,CSU Bakersfield - North Dakota State Dual,125,L,MD,10 - 2,McGwire Midkiff,49224,North Dakota State,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,11/01,CSU Bakersfield - Minnesota Dual,125,L,FALL,0:57,Patrick McKee,50594,Minnesota,Alejandro Hernandez-Figueroa,45325,Csu Bakersfield
+2020,01/25,California Collegiate Open,125,L,DEC,8 - 7,Jacob Mendoza,63685,Menlo,Eddie Flores,51127,Csu Bakersfield
+2020,01/25,California Collegiate Open,125,W,MD,13 - 4,Aria Mazroy,61253,San Francisco State,Eddie Flores,51127,Csu Bakersfield
+2020,01/25,California Collegiate Open,125,W,DEC,9 - 2,Kade Uyesaka,62938,Oregon State,Eddie Flores,51127,Csu Bakersfield
+2020,01/25,California Collegiate Open,125,L,DEC,6 - 2,Logan Ashton,57605,Stanford,Eddie Flores,51127,Csu Bakersfield
+2020,11/24,Roadrunner Open,125,W,DEC,7 - 5,Alejandro Hernandez-Figueroa,45325,CSU Bakersfield,Eddie Flores,51127,Csu Bakersfield
+2020,11/24,Roadrunner Open,125,W,DEC,4 - 3,Destin Summers,62244,Fresno State,Eddie Flores,51127,Csu Bakersfield
+2020,11/24,Roadrunner Open,125,W,DEC,4 - 2,Jackson DiSario,57126,Stanford,Eddie Flores,51127,Csu Bakersfield
+2020,11/24,Roadrunner Open,125,L,DEC,4 - 0,Angelo Rini,56766,Columbia,Eddie Flores,51127,Csu Bakersfield
+2020,11/24,Roadrunner Open,125,L,DEC,10 - 5,Angelo Rini,56766,Columbia,Eddie Flores,51127,Csu Bakersfield
+2020,11/24,Roadrunner Open,125,W,DEC,10 - 4,Cole Reyes,56700,Cal Poly,Eddie Flores,51127,Csu Bakersfield
+2020,11/03,Menlo Open,125,W,SV-2,9 - 7,Jacob Mendoza,63685,Menlo,Eddie Flores,51127,Csu Bakersfield
+2020,11/03,Menlo Open,125,W,DEC,9 - 2,Gregory Viloria,63667,Menlo,Eddie Flores,51127,Csu Bakersfield
+2020,11/03,Menlo Open,125,L,DEC,6 - 4,Antonio Lorenzo,57329,Cal Poly,Eddie Flores,51127,Csu Bakersfield
+2020,11/03,Menlo Open,125,W,DEC,5 - 3,Cole Reyes,56700,Cal Poly,Eddie Flores,51127,Csu Bakersfield
+2020,11/24,Roadrunner Open,125,L,MD,14 - 5,Destin Summers,62244,Fresno State,Pedro Ramirez,62859,Csu Bakersfield
+2020,11/24,Roadrunner Open,125,L,FALL,2:19,Cole Reyes,56700,Cal Poly,Pedro Ramirez,62859,Csu Bakersfield
+2020,11/03,Menlo Open,125,W,INJ,7:00,Manuel Jaramillo,63682,Vanguard University,Pedro Ramirez,62859,Csu Bakersfield
+2020,11/03,Menlo Open,125,W,FALL,0:53,Josiah Griego,63677,Grand Canyon,Pedro Ramirez,62859,Csu Bakersfield
+2020,11/03,Menlo Open,125,L,DEC,12 - 5,Gregory Viloria,63667,Menlo,Pedro Ramirez,62859,Csu Bakersfield
+2020,11/03,Menlo Open,125,L,DEC,6 - 2,Antonio Lorenzo,57329,Cal Poly,Pedro Ramirez,62859,Csu Bakersfield
+2020,03/07,PAC 12 Championships,133,W,DEC,5 - 3,Cole Reyes,56700,Cal Poly,Chance Rich,50933,Csu Bakersfield
+2020,03/07,PAC 12 Championships,133,L,MD,8 - 0,Joshua Kramer,39736,Arizona State,Chance Rich,50933,Csu Bakersfield
+2020,03/07,PAC 12 Championships,133,L,DEC,3 - 2,Joshua Kramer,39736,Arizona State,Chance Rich,50933,Csu Bakersfield
+2020,02/21,California Baptist (Calif) - CSU Bakersfield Dual,133,W,FALL,4:00,Christian Nunez,63215,Cal Baptist,Chance Rich,50933,Csu Bakersfield
+2020,02/16,Arizona State - CSU Bakersfield Dual,133,L,DEC,8 - 3,Joshua Kramer,39736,Arizona State,Chance Rich,50933,Csu Bakersfield
+2020,02/14,CSU Bakersfield - Cal Poly Dual,133,W,DEC,5 - 1,Cole Reyes,56700,Cal Poly,Chance Rich,50933,Csu Bakersfield
+2020,02/08,CSU Bakersfield - Stanford Dual,133,L,DEC,6 - 4,Gabe Townsell,45387,Stanford,Chance Rich,50933,Csu Bakersfield
+2020,02/07,Oregon State - CSU Bakersfield Dual,133,L,DEC,5 - 3,Devan Turner,45397,Oregon State,Chance Rich,50933,Csu Bakersfield
+2020,02/02,CSU Bakersfield - Fresno State Dual,133,L,MD,8 - 0,Gary Joint,50163,Fresno State,Chance Rich,50933,Csu Bakersfield
+2020,01/26,CSU Bakersfield - Northern Colorado Dual,133,L,FALL,3:23,Mosha Schwartz,55841,Northern Colorado,Chance Rich,50933,Csu Bakersfield
+2020,01/24,CSU Bakersfield - Wyoming Dual,133,L,DEC,7 - 4,Montorie Bridges,44844,Wyoming,Chance Rich,50933,Csu Bakersfield
+2020,01/19,Duke - CSU Bakersfield Dual,133,W,DEC,6 - 5,Harrison Campbell,49125,Duke,Chance Rich,50933,Csu Bakersfield
+2020,01/01,Southern Scuffle,133,L,FALL,3:57,Kai Orine,56908,NC State,Chance Rich,50933,Csu Bakersfield
+2020,01/01,Southern Scuffle,133,W,MD,14 - 2,Cliff Conway,50304,VMI,Chance Rich,50933,Csu Bakersfield
+2020,01/01,Southern Scuffle,133,L,SV-1,7 - 5,Colton Landers,50949,Chattanooga,Chance Rich,50933,Csu Bakersfield
+2020,01/01,Southern Scuffle,133,W,FALL,6:34,Cameron Lathem,44691,Cleveland State,Chance Rich,50933,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,133,W,FALL,1:28,Josiah Griego,63677,Grand Canyon,Chance Rich,50933,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,133,L,DEC,3 - 2,Collin Gerardi,51286,Virginia Tech,Chance Rich,50933,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,133,L,DEC,6 - 3,Zach Price,50932,South Dakota State,Chance Rich,50933,Csu Bakersfield
+2020,11/24,Roadrunner Open,133,L,MFOR,0 - 0,Isaha Perez,62563,Fresno State,Chance Rich,50933,Csu Bakersfield
+2020,11/24,Roadrunner Open,133,L,MFOR,0 - 0,Jason Valencia,62184,Embry-Riddle,Chance Rich,50933,Csu Bakersfield
+2020,11/24,Roadrunner Open,133,W,SV-1,3 - 1,Brandon Paulson,58561,Cal Baptist,Chance Rich,50933,Csu Bakersfield
+2020,11/22,Buffalo - CSU Bakersfield Dual,133,L,DEC,9 - 2,Derek Spann,45028,Buffalo,Chance Rich,50933,Csu Bakersfield
+2020,11/16,Rutgers - CSU Bakersfield Dual,133,W,FALL,6:50,Sammy Alvarez,56763,Rutgers,Chance Rich,50933,Csu Bakersfield
+2020,11/03,CSU Bakersfield - North Dakota State Dual,133,L,TF5,15 - 0 5:53,Cameron Sykora,39757,North Dakota State,Chance Rich,50933,Csu Bakersfield
+2020,11/01,CSU Bakersfield - Minnesota Dual,133,W,DEC,7 - 4,Brent Jones,49188,Minnesota,Chance Rich,50933,Csu Bakersfield
+2020,03/07,PAC 12 Championships,141,L,SV-1,7 - 5,Conner Ward,56587,Little Rock,Angelo Martinoni,57199,Csu Bakersfield
+2020,03/07,PAC 12 Championships,141,L,DEC,9 - 4,Grant Willits,49273,Oregon State,Angelo Martinoni,57199,Csu Bakersfield
+2020,03/07,PAC 12 Championships,141,W,MFOR,0 - 0,Jake Ryan,50922,Cal Poly,Angelo Martinoni,57199,Csu Bakersfield
+2020,03/07,PAC 12 Championships,141,W,DEC,14 - 12,Cory Crooks,45179,Arizona State,Angelo Martinoni,57199,Csu Bakersfield
+2020,02/16,Arizona State - CSU Bakersfield Dual,141,W,FALL,0:16,Navonte Demison,49036,Arizona State,Angelo Martinoni,57199,Csu Bakersfield
+2020,02/14,CSU Bakersfield - Cal Poly Dual,141,W,MD,14 - 5,Jake Ryan,50922,Cal Poly,Angelo Martinoni,57199,Csu Bakersfield
+2020,02/08,CSU Bakersfield - Stanford Dual,141,L,TF5,16 - 0 3:00,Real Woods,50664,Stanford,Angelo Martinoni,57199,Csu Bakersfield
+2020,02/07,Oregon State - CSU Bakersfield Dual,141,L,MD,12 - 2,Grant Willits,49273,Oregon State,Angelo Martinoni,57199,Csu Bakersfield
+2020,02/02,CSU Bakersfield - Fresno State Dual,141,L,DEC,6 - 3,Lawrence Saenz,56597,Fresno State,Angelo Martinoni,57199,Csu Bakersfield
+2020,01/26,CSU Bakersfield - Northern Colorado Dual,141,W,DEC,11 - 8,Chris Sandoval,49229,Northern Colorado,Angelo Martinoni,57199,Csu Bakersfield
+2020,01/24,CSU Bakersfield - Wyoming Dual,141,L,MD,13 - 2,Trevor Jeffries,57064,Wyoming,Angelo Martinoni,57199,Csu Bakersfield
+2020,01/01,Southern Scuffle,141,L,MD,12 - 2,Dusty Hone,20271,Oklahoma State,Angelo Martinoni,57199,Csu Bakersfield
+2020,01/01,Southern Scuffle,141,L,DEC,7 - 2,Kaden Gfeller,49261,Oklahoma State,Angelo Martinoni,57199,Csu Bakersfield
+2020,01/01,Southern Scuffle,141,W,TB-2,13 - 11,Tariq Wilson,44862,NC State,Angelo Martinoni,57199,Csu Bakersfield
+2020,01/01,Southern Scuffle,141,L,TF5,16 - 0 4:36,Alex Madrigal,39754,George Mason,Angelo Martinoni,57199,Csu Bakersfield
+2020,01/01,Southern Scuffle,141,W,MFOR,0 - 0,JoJo Aragona,56736,Rutgers,Angelo Martinoni,57199,Csu Bakersfield
+2020,01/01,Southern Scuffle,141,W,MD,10 - 0,Zach Firestone,45219,Rutgers,Angelo Martinoni,57199,Csu Bakersfield
+2020,01/01,Southern Scuffle,141,W,FALL,6:24,Peter Lipari,39530,Rider,Angelo Martinoni,57199,Csu Bakersfield
+2020,01/01,Southern Scuffle,141,W,DEC,9 - 7,Danny Moran,49162,Lehigh,Angelo Martinoni,57199,Csu Bakersfield
+2020,11/16,Rutgers - CSU Bakersfield Dual,141,W,DEC,18 - 12,Zach Firestone,45219,Rutgers,Angelo Martinoni,57199,Csu Bakersfield
+2020,11/03,CSU Bakersfield - North Dakota State Dual,141,L,DEC,7 - 0,Sawyer Degen,50567,North Dakota State,Angelo Martinoni,57199,Csu Bakersfield
+2020,11/01,CSU Bakersfield - Minnesota Dual,141,L,MD,14 - 5,Mitch McKee,45139,Minnesota,Angelo Martinoni,57199,Csu Bakersfield
+2020,11/03,Menlo Open,141,L,INJ,7:00,Raul Ortiz,63663,Sacramento City College,Carlos Herrera,40167,Csu Bakersfield
+2020,11/03,Menlo Open,141,W,FALL,1:38,Wyland Nicholson,63660,Cerritos College,Carlos Herrera,40167,Csu Bakersfield
+2020,11/03,Menlo Open,141,L,INJ,7:00,Marco Ruffinelli,62544,San Francisco State,Carlos Herrera,40167,Csu Bakersfield
+2020,02/21,California Baptist (Calif) - CSU Bakersfield Dual,141,W,DEC,7 - 4,Adam Velasquez,51704,Cal Baptist,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,01/25,California Collegiate Open,141,L,DEC,8 - 1,Isaha Perez,62563,Fresno State,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,01/25,California Collegiate Open,141,W,FALL,3:37,George Montesdeoca,66565,Unattached,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,01/25,California Collegiate Open,141,W,DEC,3 - 2,Joshua Fuentes-Noriyo,65535,San Francisco State,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,01/25,California Collegiate Open,141,W,TF5,16 - 0 7:00,Marco Ruffinelli,62544,San Francisco State,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,01/25,California Collegiate Open,141,W,FALL,6:45,Armand Molina,42025,Simpson,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,01/25,California Collegiate Open,141,L,FALL,1:21,Connor Noonan,45400,Oregon State,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,141,W,DEC,7 - 4,Eric Reyes,65097,Menlo,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,141,W,DEC,8 - 4,Matt Robertson,53617,Grand View,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,141,W,FALL,4:45,Kedric Coonis,52792,Western Wyoming College,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,141,L,DEC,11 - 5,Durbin Lloren,44916,Fresno State,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,141,L,DEC,5 - 1,Chase Zollmann,50917,Wyoming,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,141,W,DEC,7 - 3,Chase Zollmann,50917,Wyoming,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,141,L,FALL,2:34,Dominick Demas,49256,Oklahoma,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,141,L,DEC,10 - 4,Noah Baughman,44749,Cornell,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,11/24,Roadrunner Open,141,W,DEC,10 - 4,Andrew Bloemhof,62861,CSU Bakersfield,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,11/24,Roadrunner Open,141,W,DEC,6 - 1,Jacob Peralta,62860,CSU Bakersfield,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,11/24,Roadrunner Open,141,W,DEC,8 - 4,Alex Felix,52108,San Francisco State,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,11/24,Roadrunner Open,141,W,TF5,18 - 3 7:00,Edison Alanis,62923,Cal Baptist,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,11/24,Roadrunner Open,141,L,FALL,3:20,Lawrence Saenz,56597,Fresno State,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,11/24,Roadrunner Open,141,L,TF5,20 - 1 7:00,Matthew Kazimir,51644,Columbia,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,11/22,Buffalo - CSU Bakersfield Dual,141,L,SV-1,3 - 1,John Arceri,47552,Buffalo,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,11/03,Menlo Open,141,W,INJ,7:00,Ryan Harlow,63680,Sacramento City College,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,11/03,Menlo Open,141,W,DEC,8 - 6,Raul Ortiz,63663,Sacramento City College,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,11/03,Menlo Open,141,W,MD,17 - 8,Stefano McKinney,63656,Cerritos College,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,11/03,Menlo Open,141,W,DEC,9 - 4,Andrew Bloemhof,62861,CSU Bakersfield,Noah Blakely-Beanes,40168,Csu Bakersfield
+2020,01/25,California Collegiate Open,141,L,DEC,10 - 3,Joshua Fuentes-Noriyo,65535,San Francisco State,Andrew Bloemhof,62861,Csu Bakersfield
+2020,01/25,California Collegiate Open,141,L,SV-1,4 - 2,Marco Ruffinelli,62544,San Francisco State,Andrew Bloemhof,62861,Csu Bakersfield
+2020,01/25,California Collegiate Open,141,W,FALL,1:47,Joshua Jimenez,62924,Cal Baptist,Andrew Bloemhof,62861,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,141,L,MD,13 - 0,Grant Willits,49273,Oregon State,Andrew Bloemhof,62861,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,141,L,DEC,3 - 0,Connor Noonan,45400,Oregon State,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/24,Roadrunner Open,141,L,DEC,10 - 4,Noah Blakely-Beanes,40168,CSU Bakersfield,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/24,Roadrunner Open,141,W,DEC,9 - 3,Nick Camacho,63674,Menlo,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/24,Roadrunner Open,141,L,FALL,1:31,Kyle Parco,58562,Fresno State,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/24,Roadrunner Open,141,W,INJ,7:00,Clai Quintanilla,50472,Fresno State,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/09,Bill Musick Open,141,W,MD,14 - 2,Anthony Chavez,65384,Fresno City College,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/09,Bill Musick Open,141,W,DEC,6 - 2,Anthony Chavez,65384,Fresno City College,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/09,Bill Musick Open,141,W,MD,15 - 2,Paul Adkisson,65383,Unattached,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/09,Bill Musick Open,141,W,MD,18 - 8,Stefano McKinney,63656,Cerritos College,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/09,Bill Musick Open,141,L,MD,9 - 0,Kyle Parco,58562,Fresno State,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/03,Menlo Open,141,L,DEC,9 - 4,Noah Blakely-Beanes,40168,CSU Bakersfield,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/03,Menlo Open,141,W,FALL,5:00,Michael Pajaro,63688,Life Pacific,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/03,Menlo Open,141,W,MFOR,0 - 0,Gabriel Cortez,63675,Vanguard University,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/03,Menlo Open,141,W,DEC,6 - 1,Nick Camacho,63674,Menlo,Andrew Bloemhof,62861,Csu Bakersfield
+2020,11/03,Menlo Open,141,W,DEC,10 - 3,Nick Camacho,63674,Menlo,Andrew Bloemhof,62861,Csu Bakersfield
+2020,03/07,PAC 12 Championships,149,W,DEC,11 - 4,Requir van der Merwe,45389,Stanford,Russell Rohlfing,40166,Csu Bakersfield
+2020,03/07,PAC 12 Championships,149,W,DEC,4 - 3,Josh Maruca,39512,Arizona State,Russell Rohlfing,40166,Csu Bakersfield
+2020,02/21,California Baptist (Calif) - CSU Bakersfield Dual,149,W,DEC,4 - 0,A J Raya,51181,Cal Baptist,Russell Rohlfing,40166,Csu Bakersfield
+2020,02/16,Arizona State - CSU Bakersfield Dual,149,W,MD,12 - 1,Dillon Ulrey,45848,Arizona State,Russell Rohlfing,40166,Csu Bakersfield
+2020,02/14,CSU Bakersfield - Cal Poly Dual,149,W,DEC,7 - 3,Wyatt Cornelison,50514,Cal Poly,Russell Rohlfing,40166,Csu Bakersfield
+2020,02/08,CSU Bakersfield - Stanford Dual,149,W,FALL,4:16,Dawson Sihavong,56737,Stanford,Russell Rohlfing,40166,Csu Bakersfield
+2020,02/07,Oregon State - CSU Bakersfield Dual,149,W,MD,13 - 5,Lane Stigall,49196,Oregon State,Russell Rohlfing,40166,Csu Bakersfield
+2020,02/02,CSU Bakersfield - Fresno State Dual,149,W,MD,10 - 2,Greg Gaxiola,47675,Fresno State,Russell Rohlfing,40166,Csu Bakersfield
+2020,01/26,CSU Bakersfield - Northern Colorado Dual,149,W,TF5,17 - 0 5:44,Ethan Leake,52127,Northern Colorado,Russell Rohlfing,40166,Csu Bakersfield
+2020,01/24,CSU Bakersfield - Wyoming Dual,149,W,DEC,6 - 0,Jaron Jensen,44910,Wyoming,Russell Rohlfing,40166,Csu Bakersfield
+2020,01/01,Southern Scuffle,149,W,DEC,5 - 0,Wyatt Long,49201,Navy,Russell Rohlfing,40166,Csu Bakersfield
+2020,01/01,Southern Scuffle,149,L,FALL,5:33,Colston DiBlasi,39718,George Mason,Russell Rohlfing,40166,Csu Bakersfield
+2020,01/01,Southern Scuffle,149,W,MD,8 - 0,Jobe Chishko,56805,VMI,Russell Rohlfing,40166,Csu Bakersfield
+2020,01/01,Southern Scuffle,149,L,SV-1,7 - 6,Tanner Smith,49129,Chattanooga,Russell Rohlfing,40166,Csu Bakersfield
+2020,01/01,Southern Scuffle,149,W,MD,9 - 1,Tyler Brennan,62844,Little Rock,Russell Rohlfing,40166,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,149,W,DEC,10 - 4,Kody Komara,50094,Kent State,Russell Rohlfing,40166,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,149,W,TF5,16 - 0 6:06,Aaron Kruk,44797,Harvard,Russell Rohlfing,40166,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,149,L,DEC,11 - 9,Collin Purinton,40505,Nebraska,Russell Rohlfing,40166,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,149,W,DEC,6 - 3,Ben Lamantia,39644,Michigan,Russell Rohlfing,40166,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,149,L,DEC,6 - 2,Brock Zacherl,19787,Clarion,Russell Rohlfing,40166,Csu Bakersfield
+2020,11/24,Roadrunner Open,149,W,MD,18 - 7,Eduardo Penha,65102,Unattached,Russell Rohlfing,40166,Csu Bakersfield
+2020,11/24,Roadrunner Open,149,L,DEC,4 - 2,A J Raya,51181,Cal Baptist,Russell Rohlfing,40166,Csu Bakersfield
+2020,11/24,Roadrunner Open,149,W,DEC,10 - 5,Jaden Abas,56738,Stanford,Russell Rohlfing,40166,Csu Bakersfield
+2020,11/24,Roadrunner Open,149,W,FALL,6:45,Daniel Vizcarra,59546,Cal Poly,Russell Rohlfing,40166,Csu Bakersfield
+2020,11/22,Buffalo - CSU Bakersfield Dual,149,W,MD,9 - 1,Kyle Todrank,40157,Buffalo,Russell Rohlfing,40166,Csu Bakersfield
+2020,11/16,Rutgers - CSU Bakersfield Dual,149,L,MD,13 - 5,Gerard Angelo,50661,Rutgers,Russell Rohlfing,40166,Csu Bakersfield
+2020,11/03,CSU Bakersfield - North Dakota State Dual,149,W,DEC,7 - 2,Jaden Van Maanen,49227,North Dakota State,Russell Rohlfing,40166,Csu Bakersfield
+2020,11/01,CSU Bakersfield - Minnesota Dual,149,L,DEC,8 - 7,Brayton Lee,52079,Minnesota,Russell Rohlfing,40166,Csu Bakersfield
+2020,01/25,California Collegiate Open,149,W,DEC,8 - 5,Nick Camacho,63674,Menlo,Josh Brown,62862,Csu Bakersfield
+2020,01/25,California Collegiate Open,149,W,TF5,20 - 5 7:00,Sebastian Marin,54723,Menlo,Josh Brown,62862,Csu Bakersfield
+2020,01/25,California Collegiate Open,149,W,MFOR,0 - 0,Mason Boutain,46709,San Francisco State,Josh Brown,62862,Csu Bakersfield
+2020,01/25,California Collegiate Open,149,L,DEC,8 - 2,Jaden Abas,56738,Stanford,Josh Brown,62862,Csu Bakersfield
+2020,01/01,Southern Scuffle,149,L,TF5,16 - 1 7:00,AJ Leitten,49221,NC State,Josh Brown,62862,Csu Bakersfield
+2020,01/01,Southern Scuffle,149,L,DEC,15 - 9,Spencer Leonhardt,63524,Campbell,Josh Brown,62862,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,149,W,TF5,15 - 0 4:16,Daniel Rodriguez,64920,Eastern Oregon University,Josh Brown,62862,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,149,W,MD,14 - 6,Joey Revelli,51586,Western Wyoming College,Josh Brown,62862,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,149,W,DEC,7 - 4,Dillon Ulrey,45848,Arizona State,Josh Brown,62862,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,149,L,DEC,10 - 8,Nathan Moore,56919,Northern Colorado,Josh Brown,62862,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,149,L,FALL,0:47,Daxton Gordon,44358,Oregon State,Josh Brown,62862,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,149,W,FALL,5:36,Dawson Sihavong,56737,Stanford,Josh Brown,62862,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,L,FALL,1:10,Wyatt Gerl,57201,CSU Bakersfield,Josh Brown,62862,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,L,DEC,10 - 4,Keller Rock,65095,Unattached,Josh Brown,62862,Csu Bakersfield
+2020,11/03,Menlo Open,149,W,FALL,1:16,Killian Vendler,63692,Unattached,Josh Brown,62862,Csu Bakersfield
+2020,11/03,Menlo Open,149,W,FALL,2:30,Isaiah Mora,63687,Cerritos College,Josh Brown,62862,Csu Bakersfield
+2020,11/03,Menlo Open,149,W,DEC,10 - 4,Armand Molina,42025,Simpson,Josh Brown,62862,Csu Bakersfield
+2020,11/03,Menlo Open,149,W,DEC,8 - 3,Joseph Dominguez,59688,Menlo,Josh Brown,62862,Csu Bakersfield
+2020,01/25,California Collegiate Open,141,W,MD,13 - 1,Evan Janson,66556,Unattached,Jacob Peralta,62860,Csu Bakersfield
+2020,01/25,California Collegiate Open,141,L,DEC,3 - 1,Lorenso De La Cruz,57261,Cal Baptist,Jacob Peralta,62860,Csu Bakersfield
+2020,01/25,California Collegiate Open,141,L,MD,8 - 0,Connor Noonan,45400,Oregon State,Jacob Peralta,62860,Csu Bakersfield
+2020,11/24,Roadrunner Open,141,L,DEC,6 - 1,Noah Blakely-Beanes,40168,CSU Bakersfield,Jacob Peralta,62860,Csu Bakersfield
+2020,11/24,Roadrunner Open,141,L,DEC,4 - 3,Wyatt Cornelison,50514,Cal Poly,Jacob Peralta,62860,Csu Bakersfield
+2020,11/09,Bill Musick Open,149,W,DEC,9 - 7,Josh Sparks,65394,Cerritos College,Jacob Peralta,62860,Csu Bakersfield
+2020,11/09,Bill Musick Open,149,L,MD,11 - 2,Daniel Ruiz,65392,Loras,Jacob Peralta,62860,Csu Bakersfield
+2020,11/09,Bill Musick Open,149,W,FALL,2:43,Logan Garcia Lassen,65387,Lassen College,Jacob Peralta,62860,Csu Bakersfield
+2020,11/09,Bill Musick Open,149,W,DEC,12 - 11,Logan Garcia Lassen,65387,Lassen College,Jacob Peralta,62860,Csu Bakersfield
+2020,11/09,Bill Musick Open,149,W,MD,13 - 4,Patrick Garcia Iii,63649,Simpson,Jacob Peralta,62860,Csu Bakersfield
+2020,11/03,Menlo Open,149,W,FALL,1:07,Jonathan Whitworth,63694,Simpson,Jacob Peralta,62860,Csu Bakersfield
+2020,11/03,Menlo Open,149,W,INJ,7:00,Killian Vendler,63692,Unattached,Jacob Peralta,62860,Csu Bakersfield
+2020,11/03,Menlo Open,149,W,DEC,7 - 5,Richard Gurule,63678,Cerritos College,Jacob Peralta,62860,Csu Bakersfield
+2020,11/03,Menlo Open,149,L,DEC,9 - 7,Joseph Dominguez,59688,Menlo,Jacob Peralta,62860,Csu Bakersfield
+2020,11/03,Menlo Open,149,L,DEC,3 - 1,Anthony Loera,57745,Life Pacific,Jacob Peralta,62860,Csu Bakersfield
+2020,03/07,PAC 12 Championships,157,W,MFOR,0 - 0,Logan Meek,56779,Oregon State,Wyatt Gerl,57201,Csu Bakersfield
+2020,03/07,PAC 12 Championships,157,L,DEC,3 - 1,Tyler Eischens,51205,Stanford,Wyatt Gerl,57201,Csu Bakersfield
+2020,03/07,PAC 12 Championships,157,W,MD,12 - 3,Jose Champagne,45138,Little Rock,Wyatt Gerl,57201,Csu Bakersfield
+2020,03/07,PAC 12 Championships,157,W,DEC,5 - 3,Brawley Lamer,50051,Cal Poly,Wyatt Gerl,57201,Csu Bakersfield
+2020,02/21,California Baptist (Calif) - CSU Bakersfield Dual,157,W,DEC,8 - 2,Zachary Rowe,62929,Cal Baptist,Wyatt Gerl,57201,Csu Bakersfield
+2020,02/16,Arizona State - CSU Bakersfield Dual,157,L,DEC,6 - 3,Jacori Teemer,50581,Arizona State,Wyatt Gerl,57201,Csu Bakersfield
+2020,02/14,CSU Bakersfield - Cal Poly Dual,157,W,DEC,4 - 3,Brawley Lamer,50051,Cal Poly,Wyatt Gerl,57201,Csu Bakersfield
+2020,02/08,CSU Bakersfield - Stanford Dual,157,L,DEC,3 - 2,Tyler Eischens,51205,Stanford,Wyatt Gerl,57201,Csu Bakersfield
+2020,02/07,Oregon State - CSU Bakersfield Dual,157,W,FALL,5:27,Logan Meek,56779,Oregon State,Wyatt Gerl,57201,Csu Bakersfield
+2020,02/02,CSU Bakersfield - Fresno State Dual,157,W,DEC,3 - 2,Jacob Wright,49463,Fresno State,Wyatt Gerl,57201,Csu Bakersfield
+2020,01/26,CSU Bakersfield - Northern Colorado Dual,157,W,DEC,7 - 2,Nathan Moore,56919,Northern Colorado,Wyatt Gerl,57201,Csu Bakersfield
+2020,01/24,CSU Bakersfield - Wyoming Dual,157,L,DEC,5 - 2,Dewey Krueger,40144,Wyoming,Wyatt Gerl,57201,Csu Bakersfield
+2020,01/01,Southern Scuffle,157,L,DEC,2 - 0,Taleb Rahmani,40082,Pittsburgh,Wyatt Gerl,57201,Csu Bakersfield
+2020,01/01,Southern Scuffle,157,L,DEC,10 - 7,Robert Kanniard,56136,Rutgers,Wyatt Gerl,57201,Csu Bakersfield
+2020,01/01,Southern Scuffle,157,W,FALL,1:17,Grant Stotts,51284,Iowa State,Wyatt Gerl,57201,Csu Bakersfield
+2020,01/01,Southern Scuffle,157,W,FALL,4:46,Chris Barker,51233,Binghamton,Wyatt Gerl,57201,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,157,L,DEC,7 - 2,Justin McCoy,50946,Virginia,Wyatt Gerl,57201,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,157,L,DEC,6 - 4,Colten Carlson,45286,South Dakota State,Wyatt Gerl,57201,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,W,FALL,0:18,Josiah Quiroz,65094,Unattached,Wyatt Gerl,57201,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,W,FALL,1:10,Josh Brown,62862,CSU Bakersfield,Wyatt Gerl,57201,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,W,DEC,9 - 3,Jace Luchau,58617,Fresno State,Wyatt Gerl,57201,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,L,DEC,2 - 0,Jacob Wright,49463,Fresno State,Wyatt Gerl,57201,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,W,DEC,4 - 2,Tyler Eischens,51205,Stanford,Wyatt Gerl,57201,Csu Bakersfield
+2020,11/22,Buffalo - CSU Bakersfield Dual,157,W,DEC,3 - 0,Hunter Shaut,61754,Buffalo,Wyatt Gerl,57201,Csu Bakersfield
+2020,11/16,Rutgers - CSU Bakersfield Dual,157,L,DEC,4 - 2,Mike Van Brill,44613,Rutgers,Wyatt Gerl,57201,Csu Bakersfield
+2020,11/03,CSU Bakersfield - North Dakota State Dual,157,L,DEC,7 - 3,Jared Franek,50639,North Dakota State,Wyatt Gerl,57201,Csu Bakersfield
+2020,11/01,CSU Bakersfield - Minnesota Dual,157,L,SV-1,3 - 1,Carson Brolsma,39549,Minnesota,Wyatt Gerl,57201,Csu Bakersfield
+2020,01/25,California Collegiate Open,157,W,DEC,5 - 4,Cole Drescher,66022,Arizona Christian,Kalani Tonge,45324,Csu Bakersfield
+2020,01/25,California Collegiate Open,157,W,TF5,17 - 0 7:00,Estebon Molina,59730,Simpson,Kalani Tonge,45324,Csu Bakersfield
+2020,01/25,California Collegiate Open,157,W,DEC,3 - 1,Ethan Woods,49329,Stanford,Kalani Tonge,45324,Csu Bakersfield
+2020,01/25,California Collegiate Open,157,W,DEC,11 - 7,Jake Barry,45391,Stanford,Kalani Tonge,45324,Csu Bakersfield
+2020,01/19,Duke - CSU Bakersfield Dual,157,W,DEC,10 - 5,Eric Carter,51085,Duke,Kalani Tonge,45324,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,W,DEC,4 - 1,Brock Rogers,62863,CSU Bakersfield,Kalani Tonge,45324,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,L,TB-1,5 - 2,Jacob Wright,49463,Fresno State,Kalani Tonge,45324,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,L,FALL,6:20,Tyler Eischens,51205,Stanford,Kalani Tonge,45324,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,W,MFOR,0 - 0,Gabe Dinette,51191,Stanford,Kalani Tonge,45324,Csu Bakersfield
+2020,11/03,Menlo Open,157,W,DEC,6 - 2,Larry Rodriguez,63690,Cerritos College,Kalani Tonge,45324,Csu Bakersfield
+2020,11/03,Menlo Open,157,W,DEC,3 - 2,Brock Rogers,62863,CSU Bakersfield,Kalani Tonge,45324,Csu Bakersfield
+2020,11/03,Menlo Open,157,W,MD,13 - 2,Joseph Valdez,55503,CSU Bakersfield,Kalani Tonge,45324,Csu Bakersfield
+2020,11/03,Menlo Open,157,W,FALL,7:00,Dawson Sihavong,56737,Stanford,Kalani Tonge,45324,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,157,W,DEC,8 - 3,Tyler Hardin,65816,Treasure Valley Community College,Joseph Valdez,55503,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,157,L,MD,13 - 5,Renadlo Rodriguez-spencer,65814,Grand View,Joseph Valdez,55503,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,157,W,MFOR,0 - 0,Joel Romero,56600,Clackamas Community College,Joseph Valdez,55503,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,157,L,FALL,0:49,Payton Tawater,40578,Colorado Mesa,Joseph Valdez,55503,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,157,W,MD,10 - 2,Hunter Balk,62765,Arizona State,Joseph Valdez,55503,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,157,W,DEC,8 - 3,Ethan Woods,49329,Stanford,Joseph Valdez,55503,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,W,DEC,6 - 5,Sheldon Cole,65105,Embry-Riddle,Joseph Valdez,55503,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,L,MD,13 - 5,Dawson Sihavong,56737,Stanford,Joseph Valdez,55503,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,L,DEC,10 - 5,Riley Jacops,51032,Columbia,Joseph Valdez,55503,Csu Bakersfield
+2020,11/03,Menlo Open,157,L,MD,13 - 2,Kalani Tonge,45324,CSU Bakersfield,Joseph Valdez,55503,Csu Bakersfield
+2020,11/03,Menlo Open,157,W,DEC,6 - 3,Brian Isaias,63670,Vanguard University,Joseph Valdez,55503,Csu Bakersfield
+2020,11/03,Menlo Open,157,W,SV-1,3 - 1,Ryan Ojeda,63662,Sierra College,Joseph Valdez,55503,Csu Bakersfield
+2020,11/03,Menlo Open,157,W,SV-1,6 - 4,Max Anderson,59545,Cal Poly,Joseph Valdez,55503,Csu Bakersfield
+2020,01/25,California Collegiate Open,157,W,DEC,8 - 3,Joseph Valdez,66545,Unattached,Brock Rogers,62863,Csu Bakersfield
+2020,01/25,California Collegiate Open,157,L,DEC,8 - 2,Cole Drescher,66022,Arizona Christian,Brock Rogers,62863,Csu Bakersfield
+2020,01/25,California Collegiate Open,157,W,DEC,6 - 3,Nick Peterson,65836,Southern Oregon,Brock Rogers,62863,Csu Bakersfield
+2020,01/25,California Collegiate Open,157,W,TB-1,7 - 6,Maxwell Hammond,62926,Cal Baptist,Brock Rogers,62863,Csu Bakersfield
+2020,01/25,California Collegiate Open,157,L,DEC,6 - 4,Maxwell Hammond,62926,Cal Baptist,Brock Rogers,62863,Csu Bakersfield
+2020,01/25,California Collegiate Open,157,W,SV-1,10 - 8,Max Anderson,59545,Cal Poly,Brock Rogers,62863,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,L,DEC,4 - 1,Kalani Tonge,45324,CSU Bakersfield,Brock Rogers,62863,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,L,DEC,8 - 3,Keller Rock,65095,Unattached,Brock Rogers,62863,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,W,FALL,3:35,Paul Barrera,63668,Grand Canyon,Brock Rogers,62863,Csu Bakersfield
+2020,11/24,Roadrunner Open,157,W,DEC,3 - 2,Alex Torres,56914,Arizona State,Brock Rogers,62863,Csu Bakersfield
+2020,11/03,Menlo Open,157,L,DEC,3 - 2,Kalani Tonge,45324,CSU Bakersfield,Brock Rogers,62863,Csu Bakersfield
+2020,11/03,Menlo Open,157,W,DEC,8 - 1,Michael Pechina,63689,Menlo,Brock Rogers,62863,Csu Bakersfield
+2020,11/03,Menlo Open,157,W,DEC,9 - 3,Josh Aceves,58107,Skyline College,Brock Rogers,62863,Csu Bakersfield
+2020,11/03,Menlo Open,157,L,DEC,4 - 2,Max Anderson,59545,Cal Poly,Brock Rogers,62863,Csu Bakersfield
+2020,03/07,PAC 12 Championships,165,W,DEC,5 - 1,Will Edgar,60624,Little Rock,Jacob Thalin,40165,Csu Bakersfield
+2020,03/07,PAC 12 Championships,165,W,DEC,4 - 3,Aaron Olmos,50177,Oregon State,Jacob Thalin,40165,Csu Bakersfield
+2020,03/07,PAC 12 Championships,165,L,MD,11 - 2,Shane Griffith,49991,Stanford,Jacob Thalin,40165,Csu Bakersfield
+2020,03/07,PAC 12 Championships,165,L,DEC,3 - 0,Bernie Truax,51133,Cal Poly,Jacob Thalin,40165,Csu Bakersfield
+2020,02/16,Arizona State - CSU Bakersfield Dual,165,L,MD,13 - 4,Josh Shields,39511,Arizona State,Jacob Thalin,40165,Csu Bakersfield
+2020,02/14,CSU Bakersfield - Cal Poly Dual,165,L,TF5,15 - 0 7:00,Bernie Truax,51133,Cal Poly,Jacob Thalin,40165,Csu Bakersfield
+2020,02/08,CSU Bakersfield - Stanford Dual,165,L,MD,13 - 4,Shane Griffith,49991,Stanford,Jacob Thalin,40165,Csu Bakersfield
+2020,02/07,Oregon State - CSU Bakersfield Dual,165,W,DEC,7 - 5,Aaron Olmos,50177,Oregon State,Jacob Thalin,40165,Csu Bakersfield
+2020,02/02,CSU Bakersfield - Fresno State Dual,165,W,DEC,5 - 2,Ricky Padilla,40631,Fresno State,Jacob Thalin,40165,Csu Bakersfield
+2020,01/26,CSU Bakersfield - Northern Colorado Dual,165,W,DEC,4 - 1,Macoy Flanagan,44926,Northern Colorado,Jacob Thalin,40165,Csu Bakersfield
+2020,01/24,CSU Bakersfield - Wyoming Dual,165,L,DEC,4 - 2,Cole Moody,57067,Wyoming,Jacob Thalin,40165,Csu Bakersfield
+2020,01/01,Southern Scuffle,165,W,FALL,6:26,Julian Ramirez,56706,Spartan Combat RTC,Jacob Thalin,40165,Csu Bakersfield
+2020,01/01,Southern Scuffle,165,W,DEC,2 - 1,Drew Nicholson,49091,Chattanooga,Jacob Thalin,40165,Csu Bakersfield
+2020,01/01,Southern Scuffle,165,W,DEC,4 - 2,Nick Kiussis,49345,West Virginia,Jacob Thalin,40165,Csu Bakersfield
+2020,01/01,Southern Scuffle,165,L,DEC,8 - 2,Ebed Jarrell,40311,Drexel,Jacob Thalin,40165,Csu Bakersfield
+2020,01/01,Southern Scuffle,165,L,TF5,18 - 0 2:47,Connor Flynn,39676,Missouri,Jacob Thalin,40165,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,165,L,DEC,7 - 3,Bailee O'Reilly,50166,Minnesota,Jacob Thalin,40165,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,165,L,DEC,8 - 4,Ricky Padilla,40631,Fresno State,Jacob Thalin,40165,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,165,W,DEC,8 - 5,Ricky Stamm,44699,Hofstra,Jacob Thalin,40165,Csu Bakersfield
+2020,11/24,Roadrunner Open,165,W,MD,8 - 0,Michael Densmore,62185,Embry-Riddle,Jacob Thalin,40165,Csu Bakersfield
+2020,11/24,Roadrunner Open,165,L,DEC,6 - 5,Adam Kemp,57045,Fresno State,Jacob Thalin,40165,Csu Bakersfield
+2020,11/24,Roadrunner Open,165,W,MFOR,0 - 0,Rodrick Mosley,50889,Gardner-Webb,Jacob Thalin,40165,Csu Bakersfield
+2020,11/24,Roadrunner Open,165,W,DEC,7 - 3,Kyle Mosher,57125,Columbia,Jacob Thalin,40165,Csu Bakersfield
+2020,11/24,Roadrunner Open,165,W,DEC,7 - 1,Dylan Miracle,56311,Cal Poly,Jacob Thalin,40165,Csu Bakersfield
+2020,11/22,Buffalo - CSU Bakersfield Dual,165,L,DEC,6 - 2,Troy Keller,47129,Buffalo,Jacob Thalin,40165,Csu Bakersfield
+2020,11/16,Rutgers - CSU Bakersfield Dual,165,W,DEC,2 - 1,Jackson Turley,57636,Rutgers,Jacob Thalin,40165,Csu Bakersfield
+2020,11/03,CSU Bakersfield - North Dakota State Dual,165,L,DEC,9 - 4,Andrew Fogarty,39706,North Dakota State,Jacob Thalin,40165,Csu Bakersfield
+2020,11/01,CSU Bakersfield - Minnesota Dual,165,L,DEC,6 - 5,Bailee O'Reilly,50166,Minnesota,Jacob Thalin,40165,Csu Bakersfield
+2020,01/25,California Collegiate Open,165,L,DEC,7 - 3,Braden Suzuki-Scott,54866,Southern Oregon,Bradley Harper,66550,Csu Bakersfield
+2020,01/25,California Collegiate Open,165,W,DEC,9 - 2,William Westbrock,66567,Santa Rosa Junior College,Bradley Harper,66550,Csu Bakersfield
+2020,01/25,California Collegiate Open,165,L,MD,15 - 6,Cole Pruitt,57259,Cal Baptist,Bradley Harper,66550,Csu Bakersfield
+2020,03/07,PAC 12 Championships,174,W,TF5,16 - 0 6:58,Tristan Tadeo,62846,Little Rock,Albert Urias,57203,Csu Bakersfield
+2020,03/07,PAC 12 Championships,174,W,MD,15 - 2,Tristan Tadeo,62846,Little Rock,Albert Urias,57203,Csu Bakersfield
+2020,03/07,PAC 12 Championships,174,L,SV-1,8 - 6,Jackson McKinney,56781,Oregon State,Albert Urias,57203,Csu Bakersfield
+2020,03/07,PAC 12 Championships,174,L,SV-1,7 - 5,Jared Hill,45390,Stanford,Albert Urias,57203,Csu Bakersfield
+2020,02/21,California Baptist (Calif) - CSU Bakersfield Dual,174,W,MD,12 - 2,Jacob Cooper,52270,Cal Baptist,Albert Urias,57203,Csu Bakersfield
+2020,02/16,Arizona State - CSU Bakersfield Dual,174,L,FALL,0:41,Anthony Valencia,39500,Arizona State,Albert Urias,57203,Csu Bakersfield
+2020,02/14,CSU Bakersfield - Cal Poly Dual,174,W,DEC,4 - 2,Dylan Miracle,56311,Cal Poly,Albert Urias,57203,Csu Bakersfield
+2020,02/08,CSU Bakersfield - Stanford Dual,174,L,DEC,8 - 3,Foster Karmon,46061,Stanford,Albert Urias,57203,Csu Bakersfield
+2020,02/07,Oregon State - CSU Bakersfield Dual,174,W,FALL,6:14,Jackson McKinney,56781,Oregon State,Albert Urias,57203,Csu Bakersfield
+2020,02/02,CSU Bakersfield - Fresno State Dual,174,W,DEC,7 - 4,Adam Kemp,57045,Fresno State,Albert Urias,57203,Csu Bakersfield
+2020,01/26,CSU Bakersfield - Northern Colorado Dual,174,L,DEC,5 - 3,Billy Higgins,50623,Northern Colorado,Albert Urias,57203,Csu Bakersfield
+2020,01/24,CSU Bakersfield - Wyoming Dual,174,L,FALL,1:50,Hayden Hastings,49354,Wyoming,Albert Urias,57203,Csu Bakersfield
+2020,01/19,Duke - CSU Bakersfield Dual,174,L,MD,8 - 0,Mason Eaglin,57137,Duke,Albert Urias,57203,Csu Bakersfield
+2020,01/01,Southern Scuffle,174,L,FALL,4:18,Dean Caravela,44816,Navy,Albert Urias,57203,Csu Bakersfield
+2020,01/01,Southern Scuffle,174,L,TF5,18 - 1 6:42,Carter Starocci,58819,Penn State,Albert Urias,57203,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,174,W,MD,15 - 1,Brian Horn,62865,CSU Bakersfield,Albert Urias,57203,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,174,W,DEC,12 - 8,Chase Short,53449,Montana State-Northern,Albert Urias,57203,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,174,W,MD,17 - 4,Shaun Van der Torre,53115,Hastings,Albert Urias,57203,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,174,L,DEC,8 - 3,Trey Munoz,59555,Arizona State,Albert Urias,57203,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,174,L,DEC,6 - 1,Hayden Hastings,49354,Wyoming,Albert Urias,57203,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,174,L,MD,8 - 0,Hayden Hastings,49354,Wyoming,Albert Urias,57203,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,174,L,MD,17 - 4,Brandon Womack,40379,Cornell,Albert Urias,57203,Csu Bakersfield
+2020,11/24,Roadrunner Open,174,W,DEC,7 - 5,Louis Rojas,65110,Unattached,Albert Urias,57203,Csu Bakersfield
+2020,11/24,Roadrunner Open,174,W,MD,12 - 4,Tyee Ducharme,62639,San Francisco State,Albert Urias,57203,Csu Bakersfield
+2020,11/24,Roadrunner Open,174,W,DEC,10 - 7,Josh Annis,43313,CSU Bakersfield,Albert Urias,57203,Csu Bakersfield
+2020,11/24,Roadrunner Open,174,W,DEC,6 - 1,Christian Rodriguez,56745,Fresno State,Albert Urias,57203,Csu Bakersfield
+2020,11/24,Roadrunner Open,174,L,DEC,6 - 2,Jackson Hemauer,49347,Fresno State,Albert Urias,57203,Csu Bakersfield
+2020,11/24,Roadrunner Open,174,L,DEC,7 - 3,Trey Munoz,59555,Arizona State,Albert Urias,57203,Csu Bakersfield
+2020,11/22,Buffalo - CSU Bakersfield Dual,174,L,DEC,7 - 6,Jake Lanning,49069,Buffalo,Albert Urias,57203,Csu Bakersfield
+2020,11/03,Menlo Open,174,W,TF5,16 - 1 7:00,Chase Miles,63686,Sacramento City College,Albert Urias,57203,Csu Bakersfield
+2020,11/03,Menlo Open,174,W,FALL,5:00,Sam Justo,63683,Sacramento City College,Albert Urias,57203,Csu Bakersfield
+2020,11/03,Menlo Open,174,W,FALL,7:03,Cobe Hatcher,63681,Cerritos College,Albert Urias,57203,Csu Bakersfield
+2020,11/03,Menlo Open,174,W,DEC,8 - 5,Armon Fayyazi,51513,Vanguard University,Albert Urias,57203,Csu Bakersfield
+2020,01/25,California Collegiate Open,174,W,FALL,1:41,Easton Howe,65827,Simpson,Brian Horn,62865,Csu Bakersfield
+2020,01/25,California Collegiate Open,174,W,DEC,7 - 4,Fabian Miranda-Walls,64326,Southern Oregon,Brian Horn,62865,Csu Bakersfield
+2020,01/25,California Collegiate Open,174,L,DEC,8 - 2,Armon Fayyazi,51513,Vanguard University,Brian Horn,62865,Csu Bakersfield
+2020,01/25,California Collegiate Open,174,L,DEC,5 - 0,Logan Nelson,45832,Simon Fraser,Brian Horn,62865,Csu Bakersfield
+2020,01/25,California Collegiate Open,174,L,DEC,3 - 2,Logan Nelson,45832,Simon Fraser,Brian Horn,62865,Csu Bakersfield
+2020,01/25,California Collegiate Open,174,W,DEC,6 - 1,Louis Rojas,62930,Cal Baptist,Brian Horn,62865,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,174,L,MD,15 - 1,Albert Urias,57203,CSU Bakersfield,Brian Horn,62865,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,174,W,TF5,15 - 0 5:17,JaMarcus Thomas,63831,Texas Wesleyan,Brian Horn,62865,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,174,L,DEC,9 - 3,Gavin Stika,56258,Oklahoma State,Brian Horn,62865,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,W,DEC,5 - 1,Noe Garcia,45322,Minot State,Brian Horn,62865,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,W,DEC,4 - 0,Christian Salter,51036,Gardner-Webb,Brian Horn,62865,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,L,MD,11 - 0,Michael Baker,56891,Columbia,Brian Horn,62865,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,L,FALL,2:51,Austin Clayton,50883,Arizona State,Brian Horn,62865,Csu Bakersfield
+2020,11/03,Menlo Open,184,W,FALL,5:41,Ivan Sevilla,63666,Simpson,Brian Horn,62865,Csu Bakersfield
+2020,11/03,Menlo Open,184,W,DEC,3 - 1,Anthony Lugo,63655,Unattached,Brian Horn,62865,Csu Bakersfield
+2020,11/03,Menlo Open,184,W,DEC,4 - 0,Adrian Chavez-Morales,62866,CSU Bakersfield,Brian Horn,62865,Csu Bakersfield
+2020,11/03,Menlo Open,184,W,DEC,9 - 2,Jordan Bernal,52759,Menlo,Brian Horn,62865,Csu Bakersfield
+2020,11/03,Menlo Open,184,L,MD,11 - 3,Anthony Orozco,52503,Menlo,Brian Horn,62865,Csu Bakersfield
+2020,11/03,Menlo Open,184,W,DEC,1 - 0,Noe Garcia,45322,Minot State,Brian Horn,62865,Csu Bakersfield
+2020,03/07,PAC 12 Championships,184,W,DEC,7 - 3,Colt Doyle,48240,Oregon State,Josh Loomer,51232,Csu Bakersfield
+2020,03/07,PAC 12 Championships,184,W,DEC,3 - 1,Foster Karmon,46061,Stanford,Josh Loomer,51232,Csu Bakersfield
+2020,02/21,California Baptist (Calif) - CSU Bakersfield Dual,184,L,DEC,6 - 5,Garrett Strang,47064,Cal Baptist,Josh Loomer,51232,Csu Bakersfield
+2020,02/16,Arizona State - CSU Bakersfield Dual,184,L,DEC,2 - 0,Austin Clayton,50883,Arizona State,Josh Loomer,51232,Csu Bakersfield
+2020,02/14,CSU Bakersfield - Cal Poly Dual,184,W,MD,11 - 3,Uriel Beristain,56313,Cal Poly,Josh Loomer,51232,Csu Bakersfield
+2020,02/08,CSU Bakersfield - Stanford Dual,184,W,DEC,7 - 5,Nick Addison,57655,Stanford,Josh Loomer,51232,Csu Bakersfield
+2020,02/07,Oregon State - CSU Bakersfield Dual,184,W,MD,12 - 4,Colt Doyle,48240,Oregon State,Josh Loomer,51232,Csu Bakersfield
+2020,02/02,CSU Bakersfield - Fresno State Dual,184,L,DEC,2 - 1,Hunter Cruz,56318,Fresno State,Josh Loomer,51232,Csu Bakersfield
+2020,01/26,CSU Bakersfield - Northern Colorado Dual,184,L,MD,12 - 2,Alan Clothier,45412,Northern Colorado,Josh Loomer,51232,Csu Bakersfield
+2020,01/24,CSU Bakersfield - Wyoming Dual,184,L,MD,13 - 4,Tate Samuelson,57066,Wyoming,Josh Loomer,51232,Csu Bakersfield
+2020,01/01,Southern Scuffle,184,L,MD,12 - 4,Nino Bonaccorsi,49285,Pittsburgh,Josh Loomer,51232,Csu Bakersfield
+2020,01/01,Southern Scuffle,184,L,DEC,8 - 3,Jake Thompson,50875,Air Force,Josh Loomer,51232,Csu Bakersfield
+2020,01/01,Southern Scuffle,184,W,DEC,5 - 2,Austin Clayton,50883,Arizona State,Josh Loomer,51232,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,184,L,MD,14 - 5,Michael Battista,51672,Virginia,Josh Loomer,51232,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,184,L,FALL,1:59,Taylor Venz,44854,Nebraska,Josh Loomer,51232,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,W,DEC,8 - 3,Adrian Chavez-Morales,62866,CSU Bakersfield,Josh Loomer,51232,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,L,TB-2,4 - 3,Hunter Cruz,56318,Fresno State,Josh Loomer,51232,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,L,DEC,3 - 2,Dominic Kincaid,45678,Fresno State,Josh Loomer,51232,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,W,DEC,4 - 2,Michael Baker,56891,Columbia,Josh Loomer,51232,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,W,FALL,0:33,Austin Clayton,50883,Arizona State,Josh Loomer,51232,Csu Bakersfield
+2020,11/22,Buffalo - CSU Bakersfield Dual,184,W,DEC,7 - 3,Peter Acciardi,51069,Buffalo,Josh Loomer,51232,Csu Bakersfield
+2020,11/16,Rutgers - CSU Bakersfield Dual,184,L,DEC,2 - 0,Billy Janzer,49473,Rutgers,Josh Loomer,51232,Csu Bakersfield
+2020,11/03,CSU Bakersfield - North Dakota State Dual,184,L,DEC,7 - 6,TJ Pottinger,57098,North Dakota State,Josh Loomer,51232,Csu Bakersfield
+2020,11/01,CSU Bakersfield - Minnesota Dual,184,L,MD,16 - 3,Owen Webster,48190,Minnesota,Josh Loomer,51232,Csu Bakersfield
+2020,01/25,California Collegiate Open,197,W,FALL,2:10,Cylus Hoke,65837,Southern Oregon,Mark Cardwell,62864,Csu Bakersfield
+2020,01/25,California Collegiate Open,197,W,MD,8 - 0,Afton Silvis,63766,Menlo,Mark Cardwell,62864,Csu Bakersfield
+2020,01/25,California Collegiate Open,197,W,FALL,4:33,Jacob Gonsalves,59709,Simpson,Mark Cardwell,62864,Csu Bakersfield
+2020,01/25,California Collegiate Open,197,W,DEC,6 - 0,Arick Lopez,52962,Cal Baptist,Mark Cardwell,62864,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,197,W,FALL,1:49,Jacob Gonsalves,59709,Simpson,Mark Cardwell,62864,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,197,W,MD,14 - 5,Kash Anderson,62720,Colorado Mesa,Mark Cardwell,62864,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,197,L,SV-1,15 - 13,Jake Boyd,49260,Oklahoma,Mark Cardwell,62864,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,197,W,DEC,8 - 6,Austin McNeil,40431,Campbell,Mark Cardwell,62864,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,197,W,DEC,11 - 9,Stephen Buchanan,60451,Wyoming,Mark Cardwell,62864,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,W,TF5,16 - 0 7:00,Oliver Myers,65111,Embry-Riddle,Mark Cardwell,62864,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,L,FALL,3:51,Caden Gerlach,62931,Cal Baptist,Mark Cardwell,62864,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,W,DEC,11 - 5,Tyler Hall,52961,Embry-Riddle,Mark Cardwell,62864,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,L,DEC,16 - 12,Garrett Strang,47064,Cal Baptist,Mark Cardwell,62864,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,W,DEC,8 - 4,Joe Franzese,57273,Columbia,Mark Cardwell,62864,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,184,W,FALL,0:47,Jace Anderson,56405,Western Wyoming College,Adrian Chavez-Morales,62866,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,184,L,INJ,7:00,Ben Lee,53616,Grand View,Adrian Chavez-Morales,62866,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,184,L,DEC,10 - 3,Caleb Hopkins,56482,Campbell,Adrian Chavez-Morales,62866,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,L,DEC,8 - 3,Josh Loomer,51232,CSU Bakersfield,Adrian Chavez-Morales,62866,Csu Bakersfield
+2020,11/24,Roadrunner Open,184,L,DEC,7 - 0,Justin Pichedwatana,46704,San Francisco State,Adrian Chavez-Morales,62866,Csu Bakersfield
+2020,11/09,Bill Musick Open,184,W,FALL,7:00,Angel Verduzco,65395,Cerritos College,Adrian Chavez-Morales,62866,Csu Bakersfield
+2020,11/09,Bill Musick Open,184,W,DEC,4 - 2,Robert Ochoa,65391,Simpson,Adrian Chavez-Morales,62866,Csu Bakersfield
+2020,11/09,Bill Musick Open,184,W,TF5,15 - 0 7:00,Hayden Elias,65385,Sacramento City College,Adrian Chavez-Morales,62866,Csu Bakersfield
+2020,11/09,Bill Musick Open,184,W,FALL,7:00,Hayden Elias,65385,Sacramento City College,Adrian Chavez-Morales,62866,Csu Bakersfield
+2020,11/09,Bill Musick Open,184,L,DEC,3 - 0,Oliver Myers,65111,Embry-Riddle,Adrian Chavez-Morales,62866,Csu Bakersfield
+2020,11/03,Menlo Open,184,L,DEC,4 - 0,Brian Horn,62865,CSU Bakersfield,Adrian Chavez-Morales,62866,Csu Bakersfield
+2020,11/03,Menlo Open,184,L,DEC,8 - 2,Anthony Lugo,63655,Unattached,Adrian Chavez-Morales,62866,Csu Bakersfield
+2020,11/03,Menlo Open,184,W,INJ,7:00,Jesus Zamorano,50429,Menlo,Adrian Chavez-Morales,62866,Csu Bakersfield
+2020,03/07,PAC 12 Championships,197,L,TF5,16 - 1 4:49,Dylan Johnson,63817,Little Rock,Josh Annis,43313,Csu Bakersfield
+2020,03/07,PAC 12 Championships,197,L,TF5,16 - 1 3:14,Jj Dixon,56784,Oregon State,Josh Annis,43313,Csu Bakersfield
+2020,03/07,PAC 12 Championships,197,L,FALL,1:25,Thomas Lane,39966,Cal Poly,Josh Annis,43313,Csu Bakersfield
+2020,02/21,California Baptist (Calif) - CSU Bakersfield Dual,197,L,DEC,5 - 1,Arick Lopez,52962,Cal Baptist,Josh Annis,43313,Csu Bakersfield
+2020,02/16,Arizona State - CSU Bakersfield Dual,197,L,TF5,19 - 4 5:00,Kordell Norfleet,49038,Arizona State,Josh Annis,43313,Csu Bakersfield
+2020,02/14,CSU Bakersfield - Cal Poly Dual,197,L,MD,17 - 4,Thomas Lane,39966,Cal Poly,Josh Annis,43313,Csu Bakersfield
+2020,02/08,CSU Bakersfield - Stanford Dual,197,L,FALL,2:00,Nathan Traxler,45395,Stanford,Josh Annis,43313,Csu Bakersfield
+2020,01/25,California Collegiate Open,174,W,FALL,0:35,Nate Carnicle,66563,Western Washington,Josh Annis,43313,Csu Bakersfield
+2020,01/25,California Collegiate Open,174,W,FALL,6:41,Jordan Bernal,52759,Menlo,Josh Annis,43313,Csu Bakersfield
+2020,01/25,California Collegiate Open,174,W,DEC,6 - 4,Armon Fayyazi,51513,Vanguard University,Josh Annis,43313,Csu Bakersfield
+2020,01/25,California Collegiate Open,174,L,TF5,16 - 0 7:00,Foster Karmon,46061,Stanford,Josh Annis,43313,Csu Bakersfield
+2020,01/19,Duke - CSU Bakersfield Dual,184,W,DEC,7 - 0,Kai Blake,62377,Duke,Josh Annis,43313,Csu Bakersfield
+2020,11/24,Roadrunner Open,174,L,DEC,10 - 7,Albert Urias,57203,CSU Bakersfield,Josh Annis,43313,Csu Bakersfield
+2020,11/24,Roadrunner Open,174,L,MD,11 - 0,Daniel Butler,52956,Embry-Riddle,Josh Annis,43313,Csu Bakersfield
+2020,11/24,Roadrunner Open,174,W,MD,10 - 0,Elias Rosales,46739,San Francisco State,Josh Annis,43313,Csu Bakersfield
+2020,11/16,Rutgers - CSU Bakersfield Dual,174,L,TF5,16 - 1 3:41,Willie Scott,39861,Rutgers,Josh Annis,43313,Csu Bakersfield
+2020,11/03,CSU Bakersfield - North Dakota State Dual,174,W,DEC,10 - 6,James Noel,51691,North Dakota State,Josh Annis,43313,Csu Bakersfield
+2020,11/01,CSU Bakersfield - Minnesota Dual,174,L,TF5,19 - 0 4:01,Devin Skatzka,39603,Minnesota,Josh Annis,43313,Csu Bakersfield
+2020,02/07,Oregon State - CSU Bakersfield Dual,197,L,INJ,7:00,Jj Dixon,56784,Oregon State,Dom Ducharme,45323,Csu Bakersfield
+2020,02/02,CSU Bakersfield - Fresno State Dual,197,W,MD,13 - 0,Isaiah Perez,52109,Fresno State,Dom Ducharme,45323,Csu Bakersfield
+2020,01/26,CSU Bakersfield - Northern Colorado Dual,197,W,DEC,9 - 6,Sethan Bogulski,45359,Northern Colorado,Dom Ducharme,45323,Csu Bakersfield
+2020,01/24,CSU Bakersfield - Wyoming Dual,197,L,MD,14 - 6,Stephen Buchanan,60451,Wyoming,Dom Ducharme,45323,Csu Bakersfield
+2020,01/19,Duke - CSU Bakersfield Dual,197,W,MD,13 - 5,Vincent Baker,56930,Duke,Dom Ducharme,45323,Csu Bakersfield
+2020,01/01,Southern Scuffle,197,L,DEC,8 - 3,Cordell Eaton,40458,North Dakota State,Dom Ducharme,45323,Csu Bakersfield
+2020,01/01,Southern Scuffle,197,L,DEC,9 - 2,Roderick Davis,39752,Gardner-Webb,Dom Ducharme,45323,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,197,L,DEC,6 - 5,Eric Schultz,44853,Nebraska,Dom Ducharme,45323,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,197,L,DEC,4 - 3,Jacob Seely,39665,Northern Colorado,Dom Ducharme,45323,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,197,W,FALL,3:51,Robert Hetherman,57209,Sacred Heart,Dom Ducharme,45323,Csu Bakersfield
+2020,11/24,Roadrunner Open,197,W,FALL,3:56,Malik Lewis,62932,Cal Baptist,Dom Ducharme,45323,Csu Bakersfield
+2020,11/24,Roadrunner Open,197,W,FALL,1:20,Arick Lopez,52962,Cal Baptist,Dom Ducharme,45323,Csu Bakersfield
+2020,11/24,Roadrunner Open,197,L,DEC,6 - 1,Ryan Reyes,57638,Fresno State,Dom Ducharme,45323,Csu Bakersfield
+2020,11/24,Roadrunner Open,197,W,FALL,2:47,Roderick Davis,39752,Gardner-Webb,Dom Ducharme,45323,Csu Bakersfield
+2020,11/24,Roadrunner Open,197,W,DEC,10 - 4,Sam Wustefeld,57272,Columbia,Dom Ducharme,45323,Csu Bakersfield
+2020,11/22,Buffalo - CSU Bakersfield Dual,197,L,DEC,4 - 3,Sam Schuyler,50361,Buffalo,Dom Ducharme,45323,Csu Bakersfield
+2020,11/16,Rutgers - CSU Bakersfield Dual,197,L,DEC,5 - 2,Matt Correnti,44705,Rutgers,Dom Ducharme,45323,Csu Bakersfield
+2020,11/03,CSU Bakersfield - North Dakota State Dual,197,W,DEC,3 - 1,Cordell Eaton,40458,North Dakota State,Dom Ducharme,45323,Csu Bakersfield
+2020,11/01,CSU Bakersfield - Minnesota Dual,197,W,DEC,6 - 4,Garrett Joles,50908,Minnesota,Dom Ducharme,45323,Csu Bakersfield
+2020,03/07,PAC 12 Championships,285,W,DEC,7 - 2,Jamarcus Grant,44974,Oregon State,Jarrod Snyder,45319,Csu Bakersfield
+2020,03/07,PAC 12 Championships,285,L,DEC,3 - 2,David Showunmi,39853,Stanford,Jarrod Snyder,45319,Csu Bakersfield
+2020,03/07,PAC 12 Championships,285,W,DEC,6 - 2,Samuel Aguilar,49661,Cal Poly,Jarrod Snyder,45319,Csu Bakersfield
+2020,02/21,California Baptist (Calif) - CSU Bakersfield Dual,285,L,DEC,8 - 3,Zach Schrader,45168,Cal Baptist,Jarrod Snyder,45319,Csu Bakersfield
+2020,02/16,Arizona State - CSU Bakersfield Dual,285,L,DEC,6 - 2,Tanner Hall,40231,Arizona State,Jarrod Snyder,45319,Csu Bakersfield
+2020,02/14,CSU Bakersfield - Cal Poly Dual,285,W,DEC,2 - 0,Samuel Aguilar,49661,Cal Poly,Jarrod Snyder,45319,Csu Bakersfield
+2020,02/08,CSU Bakersfield - Stanford Dual,285,W,DEC,6 - 5,David Showunmi,39853,Stanford,Jarrod Snyder,45319,Csu Bakersfield
+2020,02/07,Oregon State - CSU Bakersfield Dual,285,W,DEC,9 - 6,Jamarcus Grant,44974,Oregon State,Jarrod Snyder,45319,Csu Bakersfield
+2020,02/02,CSU Bakersfield - Fresno State Dual,285,W,SV-1,3 - 1,Danny Salas,50230,Fresno State,Jarrod Snyder,45319,Csu Bakersfield
+2020,01/26,CSU Bakersfield - Northern Colorado Dual,285,W,TB-1,2 - 1,Robert Winters,44813,Northern Colorado,Jarrod Snyder,45319,Csu Bakersfield
+2020,01/24,CSU Bakersfield - Wyoming Dual,285,L,MD,13 - 3,Brian Andrews,50489,Wyoming,Jarrod Snyder,45319,Csu Bakersfield
+2020,01/19,Duke - CSU Bakersfield Dual,285,W,MD,12 - 1,Jonah Niesenbaum,60444,Duke,Jarrod Snyder,45319,Csu Bakersfield
+2020,01/01,Southern Scuffle,285,W,DEC,3 - 0,Riley Smith,56459,Navy,Jarrod Snyder,45319,Csu Bakersfield
+2020,01/01,Southern Scuffle,285,W,DEC,5 - 0,Grayson Walthall,62675,Chattanooga,Jarrod Snyder,45319,Csu Bakersfield
+2020,01/01,Southern Scuffle,285,L,DEC,6 - 3,Brandon Ngati,45167,West Virginia,Jarrod Snyder,45319,Csu Bakersfield
+2020,01/01,Southern Scuffle,285,L,DEC,6 - 5,John Kelbly,50329,Cleveland State,Jarrod Snyder,45319,Csu Bakersfield
+2020,01/01,Southern Scuffle,285,W,DEC,2 - 1,Collin Kelly,45338,Cleveland State,Jarrod Snyder,45319,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,285,L,MD,12 - 4,Yaraslau Slavikouski,62196,Harvard,Jarrod Snyder,45319,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,285,W,DEC,7 - 2,Jack Heyob,55585,Northwestern,Jarrod Snyder,45319,Csu Bakersfield
+2020,12/06,Cliff Keen Invitational,285,L,FALL,0:38,Brian Andrews,50489,Wyoming,Jarrod Snyder,45319,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,W,FALL,2:19,Elias Kenneryd,63652,Menlo,Jarrod Snyder,45319,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,W,FALL,5:00,Antonio Gomez,59693,San Francisco State,Jarrod Snyder,45319,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,W,DEC,3 - 2,Jacob Sieder,45321,CSU Bakersfield,Jarrod Snyder,45319,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,W,TF5,17 - 0 7:00,Gabriel Pickett,57164,Gardner-Webb,Jarrod Snyder,45319,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,L,FALL,0:22,Trevor Rasmussen,40001,Stanford,Jarrod Snyder,45319,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,L,MD,10 - 1,Daniel Conley,51103,Columbia,Jarrod Snyder,45319,Csu Bakersfield
+2020,11/22,Buffalo - CSU Bakersfield Dual,285,W,DEC,2 - 0,Nolan Terrance,39572,Buffalo,Jarrod Snyder,45319,Csu Bakersfield
+2020,11/16,Rutgers - CSU Bakersfield Dual,285,L,DEC,3 - 2,Christian Colucci,39851,Rutgers,Jarrod Snyder,45319,Csu Bakersfield
+2020,11/03,CSU Bakersfield - North Dakota State Dual,285,L,DEC,2 - 1,Brandon Metz,49222,North Dakota State,Jarrod Snyder,45319,Csu Bakersfield
+2020,11/01,CSU Bakersfield - Minnesota Dual,285,W,TB-1,4 - 1,Chase O'Connor,43960,Minnesota,Jarrod Snyder,45319,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,FALL,2:05,Caleb Baker,66562,Arizona Christian,Jacob Sieder,45321,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,FALL,2:44,Ismael DeLa Torre,64911,Southern Oregon,Jacob Sieder,45321,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,FALL,0:55,Michael Ruiz,62868,CSU Bakersfield,Jacob Sieder,45321,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,MD,10 - 2,Brayden Ray,57271,CSU Bakersfield,Jacob Sieder,45321,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,FALL,1:48,Haydn Maley,49327,Stanford,Jacob Sieder,45321,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,285,W,TF5,16 - 1 4:13,Kaden Montano,63549,Western Wyoming College,Jacob Sieder,45321,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,285,W,FALL,3:50,Tommy Mommer,56594,Clackamas Community College,Jacob Sieder,45321,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,285,W,FALL,1:21,JJ Perez,52879,Southwestern Oregon Community College,Jacob Sieder,45321,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,285,L,FALL,2:58,Landon Brown,51556,Western Wyoming College,Jacob Sieder,45321,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,285,W,MFOR,0 - 0,Samuel Aguilar,49661,Cal Poly,Jacob Sieder,45321,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,285,L,MD,15 - 7,Josh Hokit,44586,Fresno State,Jacob Sieder,45321,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,W,TF5,18 - 2 4:26,Justin Ramos,62539,San Francisco State,Jacob Sieder,45321,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,L,DEC,3 - 2,Jarrod Snyder,45319,CSU Bakersfield,Jacob Sieder,45321,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,L,FALL,2:09,AJ Nevills,47810,Fresno State,Jacob Sieder,45321,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,W,MFOR,0 - 0,David Showunmi,39853,Stanford,Jacob Sieder,45321,Csu Bakersfield
+2020,11/03,Menlo Open,285,W,TF5,19 - 3 7:00,Victor Yakshin,63695,Sierra College,Jacob Sieder,45321,Csu Bakersfield
+2020,11/03,Menlo Open,285,W,DEC,10 - 3,Elias Kenneryd,63652,Menlo,Jacob Sieder,45321,Csu Bakersfield
+2020,11/03,Menlo Open,285,W,DEC,9 - 3,Antonio DaCosta,63646,Life Pacific,Jacob Sieder,45321,Csu Bakersfield
+2020,11/03,Menlo Open,285,L,INJ,7:00,Seamus O'Malley,57706,Stanford,Jacob Sieder,45321,Csu Bakersfield
+2020,11/03,Menlo Open,285,L,INJ,7:00,Victor Jacquez,56933,Cal Poly,Jacob Sieder,45321,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,DEC,5 - 3,Taniela Feliciano-Takafua,57549,Simon Fraser,Brayden Ray,57271,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,L,MD,10 - 2,Jacob Sieder,45321,CSU Bakersfield,Brayden Ray,57271,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,DEC,4 - 3,Dominic Balmer,40162,CSU Bakersfield,Brayden Ray,57271,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,DEC,3 - 2,Mark Chaid,51294,North Carolina,Brayden Ray,57271,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,285,W,FALL,6:15,Cortez Rodelo,58996,Warner Pacific,Brayden Ray,57271,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,285,W,DEC,6 - 4,Jase Stokes,58260,Montana State-Northern,Brayden Ray,57271,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,285,W,FALL,1:01,Victor Jacquez,56933,Cal Poly,Brayden Ray,57271,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,285,L,SV-1,3 - 1,Landon Brown,51556,Western Wyoming College,Brayden Ray,57271,Csu Bakersfield
+2020,12/15,Reno Tournament of Champions,285,W,DEC,3 - 2,Robert Winters,44813,Northern Colorado,Brayden Ray,57271,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,L,DEC,3 - 2,David Showunmi,39853,Stanford,Brayden Ray,57271,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,W,INJ,7:00,Daniel Herman,51035,Columbia,Brayden Ray,57271,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,L,MD,21 - 8,Victor Jacquez,56933,Cal Poly,Brayden Ray,57271,Csu Bakersfield
+2020,11/03,Menlo Open,285,W,DEC,10 - 7,Ramon Guzman,63679,Unattached,Brayden Ray,57271,Csu Bakersfield
+2020,11/03,Menlo Open,285,W,DEC,3 - 2,Joshua Sapien,63665,Vanguard University,Brayden Ray,57271,Csu Bakersfield
+2020,11/03,Menlo Open,285,W,DEC,3 - 1,Dominic Balmer,40162,CSU Bakersfield,Brayden Ray,57271,Csu Bakersfield
+2020,11/03,Menlo Open,285,W,DEC,6 - 4,Seamus O'Malley,57706,Stanford,Brayden Ray,57271,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,L,DEC,4 - 3,Brayden Ray,57271,CSU Bakersfield,Dominic Balmer,40162,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,INJ,7:00,Victor Moore,66566,Unattached,Dominic Balmer,40162,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,DEC,4 - 3,Elias Kenneryd,63652,Menlo,Dominic Balmer,40162,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,MD,12 - 3,Michael Ruiz,62868,CSU Bakersfield,Dominic Balmer,40162,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,FALL,3:40,Justin Ramos,62539,San Francisco State,Dominic Balmer,40162,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,INJ,7:00,Haydn Maley,49327,Stanford,Dominic Balmer,40162,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,L,DEC,7 - 3,Elias Kenneryd,63652,Menlo,Dominic Balmer,40162,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,L,DEC,3 - 1,Justin Ramos,62539,San Francisco State,Dominic Balmer,40162,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,W,FALL,2:10,Benjamin Allen,62934,Cal Baptist,Dominic Balmer,40162,Csu Bakersfield
+2020,11/03,Menlo Open,285,L,DEC,3 - 1,Brayden Ray,57271,CSU Bakersfield,Dominic Balmer,40162,Csu Bakersfield
+2020,11/03,Menlo Open,285,W,FALL,1:44,David Aragon,63672,Cerritos College,Dominic Balmer,40162,Csu Bakersfield
+2020,11/03,Menlo Open,285,L,INJ,7:00,Hunter Priest,63664,Menlo,Dominic Balmer,40162,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,L,FALL,0:55,Jacob Sieder,45321,CSU Bakersfield,Michael Ruiz,62868,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,L,MD,12 - 3,Dominic Balmer,40162,CSU Bakersfield,Michael Ruiz,62868,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,DEC,13 - 10,Ramon Guzman,63679,Unattached,Michael Ruiz,62868,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,DEC,8 - 4,Joshua Sapien,63665,Vanguard University,Michael Ruiz,62868,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,L,FALL,4:15,Taniela Feliciano-Takafua,57549,Simon Fraser,Michael Ruiz,62868,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,L,FALL,2:34,Michael Slivinski,63691,Grand Canyon,Michael Ruiz,62868,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,L,FALL,1:29,David Showunmi,39853,Stanford,Michael Ruiz,62868,Csu Bakersfield
+2020,11/09,Bill Musick Open,285,L,FALL,7:00,Jacob Sartorio,65393,Fresno City College,Michael Ruiz,62868,Csu Bakersfield
+2020,11/09,Bill Musick Open,285,W,DEC,7 - 3,Elias Kennyrd,65389,Menlo,Michael Ruiz,62868,Csu Bakersfield
+2020,11/09,Bill Musick Open,285,L,FALL,7:00,Matt Johnston,65388,Fresno City College,Michael Ruiz,62868,Csu Bakersfield
+2020,11/09,Bill Musick Open,285,W,TF5,21 - 4 7:00,Hunter Priest,63664,Menlo,Michael Ruiz,62868,Csu Bakersfield
+2020,11/09,Bill Musick Open,285,W,DEC,9 - 4,Eric Mittlestead,62867,CSU Bakersfield,Michael Ruiz,62868,Csu Bakersfield
+2020,11/09,Bill Musick Open,285,W,DEC,11 - 6,Garrette Branson,56611,Embry-Riddle,Michael Ruiz,62868,Csu Bakersfield
+2020,11/03,Menlo Open,285,L,FALL,4:24,Ramon Guzman,63679,Unattached,Michael Ruiz,62868,Csu Bakersfield
+2020,11/03,Menlo Open,285,W,FALL,2:29,Erick Sanchez,59701,Simpson,Michael Ruiz,62868,Csu Bakersfield
+2020,11/03,Menlo Open,285,L,FALL,4:55,Seamus O'Malley,57706,Stanford,Michael Ruiz,62868,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,W,FALL,2:01,Omar Angulo,66561,San Jose State,Eric Mittlestead,62867,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,L,FALL,2:08,Justin Ramos,62539,San Francisco State,Eric Mittlestead,62867,Csu Bakersfield
+2020,01/25,California Collegiate Open,285,L,DEC,7 - 3,Jeremiah Holbrook,52513,Menlo,Eric Mittlestead,62867,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,L,DEC,3 - 2,Garrette Branson,56611,Embry-Riddle,Eric Mittlestead,62867,Csu Bakersfield
+2020,11/24,Roadrunner Open,285,L,FALL,2:45,Jacob Smith,62935,Cal Baptist,Eric Mittlestead,62867,Csu Bakersfield
+2020,11/09,Bill Musick Open,285,L,DEC,9 - 4,Michael Ruiz,62868,CSU Bakersfield,Eric Mittlestead,62867,Csu Bakersfield
+2020,11/09,Bill Musick Open,285,W,FALL,7:00,Adrian Maldanado,65390,Unattached,Eric Mittlestead,62867,Csu Bakersfield
+2020,11/09,Bill Musick Open,285,L,FALL,0:47,Elder Cruz,65090,Unattached,Eric Mittlestead,62867,Csu Bakersfield
+2020,11/03,Menlo Open,285,L,MD,12 - 1,Michael Slivinski,63691,Grand Canyon,Eric Mittlestead,62867,Csu Bakersfield
+2020,11/03,Menlo Open,285,L,MD,15 - 4,Alex Mosqueda,63659,Sierra College,Eric Mittlestead,62867,Csu Bakersfield

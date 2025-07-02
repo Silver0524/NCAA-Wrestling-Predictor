@@ -1,0 +1,545 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2022,03/17,NCAA Championships,125,L,DEC,10 - 4,Malik Heinselman,50611,Ohio State,Korbin Meink,49074,Campbell
+2022,03/17,NCAA Championships,125,L,MD,11 - 2,Killian Cardinale,49268,West Virginia,Korbin Meink,49074,Campbell
+2022,03/05,SoCon Championships,125,L,DEC,3 - 1,Fabian Gutierrez,45245,Chattanooga,Korbin Meink,49074,Campbell
+2022,03/05,SoCon Championships,125,W,SV-1,6 - 4,Benny Gomez,47503,Presbyterian,Korbin Meink,49074,Campbell
+2022,03/05,SoCon Championships,125,W,SV-1,5 - 3,Caleb Smith,58559,Appalachian State,Korbin Meink,49074,Campbell
+2022,02/19,UVA Round Robin Open,125,W,DEC,5 - 2,Trey Lane,62197,Virginia,Korbin Meink,49074,Campbell
+2022,02/19,UVA Round Robin Open,125,W,DEC,2 - 0,Benny Gomez,47503,Presbyterian,Korbin Meink,49074,Campbell
+2022,02/13,Campbell - Appalachian State Dual,125,L,SV-1,3 - 1,Caleb Smith,58559,Appalachian State,Korbin Meink,49074,Campbell
+2022,01/30,VMI - Campbell Dual,125,W,TF5,17 - 2 3:47,Cameron Chicella,62394,VMI,Korbin Meink,49074,Campbell
+2022,01/30,Chattanooga - Campbell Dual,125,L,DEC,5 - 2,Fabian Gutierrez,45245,Chattanooga,Korbin Meink,49074,Campbell
+2022,01/23,North Carolina State - Campbell Dual,125,L,DEC,3 - 1,Jakob Camacho,50655,NC State,Korbin Meink,49074,Campbell
+2022,01/23,The Citadel - Campbell Dual,125,W,MD,10 - 0,Malik Hardy,73357,The Citadel,Korbin Meink,49074,Campbell
+2022,01/16,Campbell - CSU Bakersfield Dual,125,W,SV-1,7 - 5,Eddie Flores,51127,CSU Bakersfield,Korbin Meink,49074,Campbell
+2022,01/16,Campbell - Central Michigan Dual,125,W,DEC,4 - 1,Brock Bergelin,49078,Central Michigan,Korbin Meink,49074,Campbell
+2022,01/16,Campbell - American Dual,125,W,FALL,2:00,Maximillian Leete,72678,American,Korbin Meink,49074,Campbell
+2022,01/09,Campbell - Bellarmine Dual,125,W,DEC,11 - 4,Jack Parker,71291,Bellarmine,Korbin Meink,49074,Campbell
+2022,11/20,Campbell - Virginia Dual,125,W,DEC,4 - 2,Patrick McCormick,57063,Virginia,Korbin Meink,49074,Campbell
+2022,11/14,Wolfpack Open,125,L,TB-2,6 - 5,Cooper Flynn,72148,Virginia Tech,Korbin Meink,49074,Campbell
+2022,11/14,Wolfpack Open,125,W,MD,14 - 1,Sebastian Melguizo,71739,Campbell,Korbin Meink,49074,Campbell
+2022,11/14,Wolfpack Open,125,W,DEC,4 - 1,Eddie Ventresca,62357,Virginia Tech,Korbin Meink,49074,Campbell
+2022,11/14,Wolfpack Open,125,W,MD,8 - 0,Kevin Radcliff,52130,Limestone,Korbin Meink,49074,Campbell
+2022,11/14,Wolfpack Open,125,W,MFOR,0 - 0,Jakob Camacho,50655,NC State,Korbin Meink,49074,Campbell
+2022,11/06,Lehigh Campbell ECM,125,L,DEC,3 - 2,Sheldon Seymour,62339,Lehigh,Korbin Meink,49074,Campbell
+2022,02/06,Edinboro Open,125,W,MD,12 - 1,Christian Tanefeu,73460,Michigan,Joziah Fry,80544,Campbell
+2022,02/06,Edinboro Open,125,W,DEC,10 - 3,Jace Schafer,73377,West Virginia,Joziah Fry,80544,Campbell
+2022,02/06,Edinboro Open,125,W,DEC,7 - 6,Ethan Berginc,71779,United States Military Academy,Joziah Fry,80544,Campbell
+2022,02/06,Edinboro Open,125,W,DEC,8 - 7,Colton Drousias,63171,West Virginia,Joziah Fry,80544,Campbell
+2022,02/06,Edinboro Open,125,W,MD,10 - 2,Patrick Adams,72223,Buffalo,Joziah Fry,80544,Campbell
+2022,11/14,Wolfpack Open,125,L,DEC,8 - 5,Spencer Moore,68720,North Carolina,Joziah Fry,80544,Campbell
+2022,11/14,Wolfpack Open,125,W,MD,16 - 4,Evan Carrigan,63515,Newberry,Joziah Fry,80544,Campbell
+2022,11/14,Wolfpack Open,125,L,MD,12 - 3,Jakob Camacho,50655,NC State,Joziah Fry,80544,Campbell
+2022,11/07,Southeast Open,125,W,MD,10 - 2,Brandon Mendoza,69796,Tiffin University,Joziah Fry,80544,Campbell
+2022,11/07,Southeast Open,125,L,DEC,7 - 3,Sam Latona,56742,Virginia Tech,Joziah Fry,80544,Campbell
+2022,11/07,Southeast Open,125,W,DEC,6 - 4,Nick Babin,65929,Columbia,Joziah Fry,80544,Campbell
+2022,11/03,Campbell Montreat Extra,133,W,TF5,25 - 10 6:35,Braden Wharton,73967,Montreat College,Joziah Fry,80544,Campbell
+2022,01/30,Presbyterian - Campbell Dual,125,W,TF5,17 - 2 3:18,Jacob Brasseur,61212,Presbyterian,Anthony Molton,57207,Campbell
+2022,01/23,NC State Campbell ECM,133,L,DEC,10 - 6,James Joplin,71930,NC State,Anthony Molton,57207,Campbell
+2022,12/29,Illinois Matmen Open,125,L,DEC,6 - 4,Blake West,73337,Northern Illinois,Anthony Molton,57207,Campbell
+2022,12/29,Illinois Matmen Open,125,L,MD,13 - 3,Lucian Brink,64945,Northern Illinois,Anthony Molton,57207,Campbell
+2022,11/21,Campbell - North Carolina Dual,125,W,DEC,6 - 3,Spencer Moore,68720,North Carolina,Anthony Molton,57207,Campbell
+2022,11/14,Wolfpack Open,125,W,FALL,2:36,Nathnael Bullard,74848,Limestone,Anthony Molton,57207,Campbell
+2022,11/14,Wolfpack Open,125,L,DEC,7 - 1,Stevo Poulin,71929,NC State,Anthony Molton,57207,Campbell
+2022,11/14,Wolfpack Open,125,W,MD,14 - 6,Eddie Ventresca,62357,Virginia Tech,Anthony Molton,57207,Campbell
+2022,11/14,Wolfpack Open,125,W,DEC,7 - 4,Kevin Radcliff,52130,Limestone,Anthony Molton,57207,Campbell
+2022,11/14,Wolfpack Open,125,W,TF5,20 - 5 7:00,Zach Shupp,51187,Newberry,Anthony Molton,57207,Campbell
+2022,11/14,Wolfpack Open,125,W,DEC,9 - 8,Zurich Storm,50138,Campbell,Anthony Molton,57207,Campbell
+2022,11/06,Campbell - Oregon State Dual,125,L,FALL,2:46,Brandon Kaylor,51198,Oregon State,Anthony Molton,57207,Campbell
+2022,11/06,Campbell - Lehigh Dual,125,W,DEC,3 - 2,Sheldon Seymour,62339,Lehigh,Anthony Molton,57207,Campbell
+2022,02/06,Davidson - Campbell Dual,125,W,TF5,16 - 1 2:44,Hale Robinson,70746,Davidson,Zurich Storm,50138,Campbell
+2022,01/16,Central Michigan Campbell ECM,125,L,SV-1,7 - 5,Sean Spidle,63063,Central Michigan,Zurich Storm,50138,Campbell
+2022,12/29,Illinois Matmen Open,125,W,FALL,3:48,Maximo Renteria,71870,Illinois,Zurich Storm,50138,Campbell
+2022,12/29,Illinois Matmen Open,125,W,SV-1,4 - 2,Blair Orr,55804,Pennsylvania,Zurich Storm,50138,Campbell
+2022,12/29,Illinois Matmen Open,125,L,DEC,6 - 5,Lucian Brink,64945,Northern Illinois,Zurich Storm,50138,Campbell
+2022,12/29,Illinois Matmen Open,125,L,DEC,3 - 2,Dylan Shawver,61767,Rutgers,Zurich Storm,50138,Campbell
+2022,11/20,Campbell Virginia ECM,125,W,DEC,6 - 5,Trey Lane,62197,Virginia,Zurich Storm,50138,Campbell
+2022,11/14,Wolfpack Open,125,L,DEC,9 - 8,Anthony Molton,57207,Campbell,Zurich Storm,50138,Campbell
+2022,11/14,Wolfpack Open,125,L,DEC,8 - 2,Cooper Flynn,72148,Virginia Tech,Zurich Storm,50138,Campbell
+2022,11/14,Wolfpack Open,125,W,MD,14 - 2,Zak Thompson,71128,Campbell,Zurich Storm,50138,Campbell
+2022,11/14,Wolfpack Open,125,W,FALL,3:17,Evan Carrigan,63515,Newberry,Zurich Storm,50138,Campbell
+2022,11/14,Wolfpack Open,125,L,MD,14 - 2,Zurich Storm,50138,Campbell,Zak Thompson,71128,Campbell
+2022,11/14,Wolfpack Open,125,W,TF5,16 - 1 6:38,Tyson Upchurch,75995,King,Zak Thompson,71128,Campbell
+2022,11/14,Wolfpack Open,125,W,DEC,11 - 10,Zein Bazzi,75987,Unattached,Zak Thompson,71128,Campbell
+2022,11/14,Wolfpack Open,125,L,MD,12 - 1,Spencer Moore,68720,North Carolina,Zak Thompson,71128,Campbell
+2022,11/07,Southeast Open,125,W,FALL,1:59,Orlando Hernandez,74446,Emory & Henry College,Zak Thompson,71128,Campbell
+2022,11/07,Southeast Open,125,W,FALL,2:08,Caden Crawford,74443,Tiffin University,Zak Thompson,71128,Campbell
+2022,11/07,Southeast Open,125,W,FALL,6:28,Josh Pence,72942,George Mason,Zak Thompson,71128,Campbell
+2022,11/07,Southeast Open,125,L,DEC,8 - 1,Ben Monn,69708,George Mason,Zak Thompson,71128,Campbell
+2022,11/07,Southeast Open,125,L,DEC,8 - 5,Samuel Congleton,63712,VMI,Zak Thompson,71128,Campbell
+2022,11/07,Southeast Open,125,W,MD,11 - 1,Hale Robinson,70746,Davidson,Zak Thompson,71128,Campbell
+2022,11/14,Wolfpack Open,125,L,MD,14 - 1,Korbin Meink,49074,Campbell,Sebastian Melguizo,71739,Campbell
+2022,11/14,Wolfpack Open,125,L,TF5,22 - 4 5:00,Spencer Moore,68720,North Carolina,Sebastian Melguizo,71739,Campbell
+2022,11/07,Southeast Open,125,W,DEC,8 - 7,Josh Pence,72942,George Mason,Sebastian Melguizo,71739,Campbell
+2022,11/07,Southeast Open,125,L,TF5,16 - 0 5:00,Ben Monn,69708,George Mason,Sebastian Melguizo,71739,Campbell
+2022,11/07,Southeast Open,125,L,MD,16 - 6,Eddie Ventresca,62357,Virginia Tech,Sebastian Melguizo,71739,Campbell
+2022,03/17,NCAA Championships,133,L,TF5,19 - 4 6:51,Richie Koehler,51648,Rider,Domenic Zaccone,56926,Campbell
+2022,03/17,NCAA Championships,133,L,DEC,9 - 5,Dominic LaJoie,49112,Cornell,Domenic Zaccone,56926,Campbell
+2022,03/05,SoCon Championships,133,W,TF5,19 - 2 1:45,Patrick Maglathlin,72521,VMI,Domenic Zaccone,56926,Campbell
+2022,03/05,SoCon Championships,133,W,MD,11 - 3,Todd Carter,69785,Gardner-Webb,Domenic Zaccone,56926,Campbell
+2022,03/05,SoCon Championships,133,W,MD,10 - 2,Jake Rotunda,55953,The Citadel,Domenic Zaccone,56926,Campbell
+2022,03/05,SoCon Championships,133,L,FALL,6:55,Kyle Gorant,51686,Davidson,Domenic Zaccone,56926,Campbell
+2022,02/13,Campbell - Appalachian State Dual,133,L,DEC,9 - 5,Codi Russell,51113,Appalachian State,Domenic Zaccone,56926,Campbell
+2022,02/06,Davidson - Campbell Dual,133,L,DEC,6 - 1,Kyle Gorant,51686,Davidson,Domenic Zaccone,56926,Campbell
+2022,01/30,Presbyterian - Campbell Dual,133,W,DEC,6 - 4,Dominic Chavez,62498,Presbyterian,Domenic Zaccone,56926,Campbell
+2022,01/30,Chattanooga - Campbell Dual,133,L,DEC,7 - 3,Brayden Palmer,59826,Chattanooga,Domenic Zaccone,56926,Campbell
+2022,01/23,North Carolina State - Campbell Dual,133,L,MD,10 - 1,Kai Orine,56908,NC State,Domenic Zaccone,56926,Campbell
+2022,01/23,The Citadel - Campbell Dual,133,W,DEC,9 - 5,Jake Rotunda,55953,The Citadel,Domenic Zaccone,56926,Campbell
+2022,01/16,Campbell - Central Michigan Dual,133,W,DEC,12 - 9,Vince Perez,60001,Central Michigan,Domenic Zaccone,56926,Campbell
+2022,01/16,Campbell - American Dual,133,W,MD,13 - 3,Jack Maida,72679,American,Domenic Zaccone,56926,Campbell
+2022,01/09,Campbell - Bellarmine Dual,133,W,FALL,1:11,Max Dansereau,62790,Bellarmine,Domenic Zaccone,56926,Campbell
+2022,11/21,Campbell - North Carolina Dual,133,L,DEC,18 - 11,Jaime Hernandez,49213,North Carolina,Domenic Zaccone,56926,Campbell
+2022,11/20,Campbell - Virginia Dual,133,L,MD,14 - 3,Brian Courtney,49331,Virginia,Domenic Zaccone,56926,Campbell
+2022,11/14,Wolfpack Open,133,W,DEC,4 - 3,Erik Roggie,73059,Virginia,Domenic Zaccone,56926,Campbell
+2022,11/14,Wolfpack Open,133,W,DEC,10 - 3,Timothy Decatur,63018,Newberry,Domenic Zaccone,56926,Campbell
+2022,11/14,Wolfpack Open,133,W,DEC,3 - 2,Gabe Hixenbaugh,57133,Campbell,Domenic Zaccone,56926,Campbell
+2022,11/14,Wolfpack Open,133,L,DEC,9 - 4,Jarrett Trombley,50807,NC State,Domenic Zaccone,56926,Campbell
+2022,11/06,Campbell - Oregon State Dual,133,W,DEC,5 - 4,Devan Turner,45397,Oregon State,Domenic Zaccone,56926,Campbell
+2022,11/06,Campbell - Lehigh Dual,133,L,DEC,8 - 4,Malyke Hines,56932,Lehigh,Domenic Zaccone,56926,Campbell
+2022,02/06,Davidson - Campbell Dual,141,W,MD,11 - 3,Nick Cambria,70989,Davidson,Gabe Hixenbaugh,57133,Campbell
+2022,01/23,NC State Campbell ECM,133,L,TF5,16 - 1 7:00,Kai Orine,56908,NC State,Gabe Hixenbaugh,57133,Campbell
+2022,01/23,NC State Campbell ECM,133,L,TF5,16 - 1 7:00,Jarrett Trombley,50807,NC State,Gabe Hixenbaugh,57133,Campbell
+2022,12/29,Illinois Matmen Open,133,W,FALL,4:37,Abraham Hinrichsen,70734,Cal Poly,Gabe Hixenbaugh,57133,Campbell
+2022,12/29,Illinois Matmen Open,133,L,DEC,8 - 7,Nick Masters,67288,Princeton,Gabe Hixenbaugh,57133,Campbell
+2022,12/29,Illinois Matmen Open,133,L,DEC,8 - 2,Julian Farber,65843,Northern Iowa,Gabe Hixenbaugh,57133,Campbell
+2022,12/05,Patriot Open,133,W,DEC,8 - 3,Michael Dolan,73378,West Virginia,Gabe Hixenbaugh,57133,Campbell
+2022,12/05,Patriot Open,133,L,DEC,10 - 3,Jordan Titus,68738,West Virginia,Gabe Hixenbaugh,57133,Campbell
+2022,12/05,Patriot Open,133,L,DEC,7 - 3,Jackson Cockrell,63028,Maryland,Gabe Hixenbaugh,57133,Campbell
+2022,12/05,Patriot Open,133,W,DEC,6 - 1,Spencer Good,51030,Columbia,Gabe Hixenbaugh,57133,Campbell
+2022,11/14,Wolfpack Open,133,L,DEC,3 - 2,Domenic Zaccone,56926,Campbell,Gabe Hixenbaugh,57133,Campbell
+2022,11/14,Wolfpack Open,133,W,MD,20 - 6,Jace Palmer,73198,North Carolina,Gabe Hixenbaugh,57133,Campbell
+2022,11/14,Wolfpack Open,133,L,DEC,10 - 3,Joe Heilmann,51223,North Carolina,Gabe Hixenbaugh,57133,Campbell
+2022,11/03,Campbell Montreat Extra,141,W,FALL,1:32,Chris McHenry,73965,Montreat College,Gabe Hixenbaugh,57133,Campbell
+2022,11/03,Montreat College - Campbell Dual,141,W,TF5,20 - 5 6:15,Louis Mehaffey,73974,Montreat College,Gabe Hixenbaugh,57133,Campbell
+2022,11/03,Montreat College - Campbell Dual,133,L,FALL,4:48,Braden Wharton,73967,Montreat College,Cole Wilson,69721,Campbell
+2022,03/17,NCAA Championships,141,L,DEC,9 - 8,Joseph Zargo,62890,Wisconsin,Shannon Hanna,57654,Campbell
+2022,03/17,NCAA Championships,141,L,DEC,5 - 2,Matthew Kazimir,51644,Columbia,Shannon Hanna,57654,Campbell
+2022,03/05,SoCon Championships,141,W,TB-1,10 - 4,Heath Gonyer,62522,Appalachian State,Shannon Hanna,57654,Campbell
+2022,03/05,SoCon Championships,141,W,TF5,19 - 4 5:00,Khalid Brinkley,61614,Presbyterian,Shannon Hanna,57654,Campbell
+2022,03/05,SoCon Championships,141,W,SV-1,3 - 1,Francisco Valdes,49089,Chattanooga,Shannon Hanna,57654,Campbell
+2022,02/13,Campbell - Appalachian State Dual,141,W,SV-1,4 - 2,Heath Gonyer,62522,Appalachian State,Shannon Hanna,57654,Campbell
+2022,01/30,Presbyterian - Campbell Dual,141,W,FALL,4:43,Khalid Brinkley,61614,Presbyterian,Shannon Hanna,57654,Campbell
+2022,01/30,VMI - Campbell Dual,141,W,MD,13 - 5,Freddy Junko,67430,VMI,Shannon Hanna,57654,Campbell
+2022,01/30,Chattanooga - Campbell Dual,141,W,DEC,5 - 3,Francisco Valdes,49089,Chattanooga,Shannon Hanna,57654,Campbell
+2022,01/23,North Carolina State - Campbell Dual,141,W,SV-1,3 - 1,Ryan Jack,61122,NC State,Shannon Hanna,57654,Campbell
+2022,01/23,The Citadel - Campbell Dual,141,W,FALL,6:21,Joe Clement,69605,The Citadel,Shannon Hanna,57654,Campbell
+2022,01/16,Campbell - CSU Bakersfield Dual,141,L,FALL,4:39,Angelo Martinoni,57199,CSU Bakersfield,Shannon Hanna,57654,Campbell
+2022,01/16,Campbell - Central Michigan Dual,149,L,DEC,6 - 0,Corbyn Munson,51197,Central Michigan,Shannon Hanna,57654,Campbell
+2022,01/16,Campbell - American Dual,141,W,DEC,9 - 6,Ethan Szerencsits,69902,American,Shannon Hanna,57654,Campbell
+2022,11/21,Campbell - North Carolina Dual,141,L,DEC,6 - 1,Kizhan Clarke,44878,North Carolina,Shannon Hanna,57654,Campbell
+2022,11/20,Campbell - Virginia Dual,141,W,DEC,10 - 5,Scott Kiyono,50458,Virginia,Shannon Hanna,57654,Campbell
+2022,11/14,Wolfpack Open,141,W,DEC,6 - 2,Nolan Daerr,75991,Seton Hill,Shannon Hanna,57654,Campbell
+2022,11/14,Wolfpack Open,141,W,TF5,20 - 3 5:17,Zach Harrington,75081,Newberry,Shannon Hanna,57654,Campbell
+2022,11/14,Wolfpack Open,141,L,DEC,8 - 2,Ryan Jack,61122,NC State,Shannon Hanna,57654,Campbell
+2022,11/14,Wolfpack Open,141,W,DEC,12 - 5,Hunter Lewis,57309,NC State,Shannon Hanna,57654,Campbell
+2022,11/14,Wolfpack Open,141,W,DEC,7 - 4,Jarred Papscy,56827,NC State,Shannon Hanna,57654,Campbell
+2022,11/06,Campbell - Oregon State Dual,141,L,DEC,7 - 4,Grant Willits,49273,Oregon State,Shannon Hanna,57654,Campbell
+2022,11/06,Campbell - Lehigh Dual,141,W,DEC,7 - 4,Danny Moran,49162,Lehigh,Shannon Hanna,57654,Campbell
+2022,02/19,UVA Round Robin Open,141,W,MD,10 - 2,Patrick Schellpfeffer,69712,George Mason,Chris Rivera,62331,Campbell
+2022,02/19,UVA Round Robin Open,141,W,DEC,9 - 2,Riley Edwards,71715,Appalachian State,Chris Rivera,62331,Campbell
+2022,02/06,Davidson - Campbell Dual,149,L,DEC,2 - 0,Gavin Damasco,62965,Davidson,Chris Rivera,62331,Campbell
+2022,01/30,Presbyterian - Campbell Dual,149,W,SV-1,3 - 1,Michael Ramirez,69874,Presbyterian,Chris Rivera,62331,Campbell
+2022,01/30,VMI - Campbell Dual,149,W,MD,14 - 2,Luke Hart,72524,VMI,Chris Rivera,62331,Campbell
+2022,01/23,North Carolina State - Campbell Dual,149,L,DEC,4 - 0,Tariq Wilson,44862,NC State,Chris Rivera,62331,Campbell
+2022,01/23,The Citadel - Campbell Dual,149,W,DEC,8 - 5,Ethan Willis,62074,The Citadel,Chris Rivera,62331,Campbell
+2022,01/16,Campbell - CSU Bakersfield Dual,149,W,DEC,8 - 7,Josh Brown,62862,CSU Bakersfield,Chris Rivera,62331,Campbell
+2022,01/16,Campbell - Central Michigan Dual,141,L,DEC,6 - 1,Dresden Simon,44707,Central Michigan,Chris Rivera,62331,Campbell
+2022,01/16,Campbell - American Dual,149,L,DEC,9 - 4,Patrick Ryan,57253,American,Chris Rivera,62331,Campbell
+2022,12/29,Illinois Matmen Open,141,W,DEC,6 - 0,Dillon Nichols,61650,Northern Illinois,Chris Rivera,62331,Campbell
+2022,12/29,Illinois Matmen Open,141,L,DEC,6 - 5,We Rachal,56818,Illinois,Chris Rivera,62331,Campbell
+2022,12/29,Illinois Matmen Open,141,L,MD,8 - 0,Parker Filius,49302,Purdue,Chris Rivera,62331,Campbell
+2022,12/05,Patriot Open,141,W,TF5,16 - 1 4:37,Gage Denatale,67547,Navy,Chris Rivera,62331,Campbell
+2022,12/05,Patriot Open,141,L,TB-2,3 - 2,Jarred Papscy,56827,NC State,Chris Rivera,62331,Campbell
+2022,12/05,Patriot Open,141,W,DEC,4 - 2,Riley Edwards,71715,Appalachian State,Chris Rivera,62331,Campbell
+2022,12/05,Patriot Open,141,W,DEC,7 - 0,Nick Cambria,70989,Davidson,Chris Rivera,62331,Campbell
+2022,12/05,Patriot Open,141,L,DEC,5 - 1,Gavin Damasco,62965,Davidson,Chris Rivera,62331,Campbell
+2022,11/14,Wolfpack Open,141,W,TF5,18 - 3 6:08,Landen Hacker,72945,Virginia,Chris Rivera,62331,Campbell
+2022,11/14,Wolfpack Open,141,L,DEC,2 - 0,Christian Small,67560,King,Chris Rivera,62331,Campbell
+2022,11/14,Wolfpack Open,141,W,MD,12 - 2,Devan Moore,63324,Newberry,Chris Rivera,62331,Campbell
+2022,11/14,Wolfpack Open,141,L,SV-1,3 - 1,Hunter Lewis,57309,NC State,Chris Rivera,62331,Campbell
+2022,11/06,Campbell Oregon State ECM,141,W,MD,16 - 4,Kaden Kuenzi,70294,Oregon State,Chris Rivera,62331,Campbell
+2022,11/03,Campbell Montreat Extra,149,W,TF5,20 - 5 3:30,Jonathan Zafra,60946,Montreat College,Chris Rivera,62331,Campbell
+2022,11/03,Montreat College - Campbell Dual,149,W,TF5,22 - 4 6:36,Landon Chambers,73976,Montreat College,Chris Rivera,62331,Campbell
+2022,02/19,UVA Round Robin Open,149,L,DEC,6 - 2,Justin Rivera,61114,Campbell,Callum Sitek,73201,Campbell
+2022,02/19,UVA Round Robin Open,149,W,FALL,1:19,David Diaz,62396,VMI,Callum Sitek,73201,Campbell
+2022,11/07,Southeast Open,141,L,INJ,7:00,Kyren Butler,72944,Virginia,Callum Sitek,73201,Campbell
+2022,11/07,Southeast Open,141,W,DEC,3 - 0,Nathan Higley,71834,George Mason,Callum Sitek,73201,Campbell
+2022,11/07,Southeast Open,141,W,DEC,2 - 0,Jared Dihn,71830,Gardner-Webb,Callum Sitek,73201,Campbell
+2022,11/07,Southeast Open,141,L,INJ,5:00,Heath Gonyer,62522,Appalachian State,Callum Sitek,73201,Campbell
+2022,11/14,Wolfpack Open,141,L,FALL,6:56,Hunter Lewis,57309,NC State,Domenic DeFalco,71746,Campbell
+2022,11/14,Wolfpack Open,141,L,DEC,10 - 3,Jarred Papscy,56827,NC State,Domenic DeFalco,71746,Campbell
+2022,11/07,Southeast Open,141,W,MD,16 - 2,Isaiah Dotson,74420,Emory & Henry College,Domenic DeFalco,71746,Campbell
+2022,11/07,Southeast Open,141,W,FALL,3:37,Thomas Fierro,73805,Alderson-Broaddus University,Domenic DeFalco,71746,Campbell
+2022,11/07,Southeast Open,141,L,FALL,1:39,Jared Dihn,71830,Gardner-Webb,Domenic DeFalco,71746,Campbell
+2022,11/07,Southeast Open,141,L,TF5,16 - 0 3:52,Kaden Cassidy,65847,George Mason,Domenic DeFalco,71746,Campbell
+2022,03/17,NCAA Championships,149,L,FALL,6:56,Pj Ogunsanya,54496,Army West Point,Josh Heil,45100,Campbell
+2022,03/17,NCAA Championships,149,L,DEC,8 - 1,Ridge Lovett,57520,Nebraska,Josh Heil,45100,Campbell
+2022,03/17,NCAA Championships,149,W,MD,8 - 0,Josh Edmond,62704,Missouri,Josh Heil,45100,Campbell
+2022,03/05,SoCon Championships,149,L,DEC,5 - 4,John Millner,50212,Appalachian State,Josh Heil,45100,Campbell
+2022,03/05,SoCon Championships,149,W,SV-1,3 - 1,Noah Castillo,67364,Chattanooga,Josh Heil,45100,Campbell
+2022,03/05,SoCon Championships,149,W,MD,15 - 2,Ethan Willis,62074,The Citadel,Josh Heil,45100,Campbell
+2022,02/13,Campbell - Appalachian State Dual,149,L,DEC,3 - 2,John Millner,50212,Appalachian State,Josh Heil,45100,Campbell
+2022,01/30,Chattanooga - Campbell Dual,149,W,DEC,4 - 2,Noah Castillo,67364,Chattanooga,Josh Heil,45100,Campbell
+2022,12/29,Illinois Matmen Open,149,W,SV-1,3 - 1,Austin Gomez,49153,Wisconsin,Josh Heil,45100,Campbell
+2022,12/29,Illinois Matmen Open,149,W,DEC,2 - 0,Anthony White,70924,Rutgers,Josh Heil,45100,Campbell
+2022,12/29,Illinois Matmen Open,149,W,DEC,5 - 2,Al De Santis,67002,Rutgers,Josh Heil,45100,Campbell
+2022,12/29,Illinois Matmen Open,149,W,DEC,3 - 1,Anthony Cheloni,53565,Northern Illinois,Josh Heil,45100,Campbell
+2022,11/21,Campbell - North Carolina Dual,149,W,SV-2,2 - 1,Zach Sherman,49216,North Carolina,Josh Heil,45100,Campbell
+2022,11/20,Campbell - Virginia Dual,149,W,DEC,4 - 2,Jarod Verkleeren,49156,Virginia,Josh Heil,45100,Campbell
+2022,11/06,Campbell - Oregon State Dual,149,W,DEC,5 - 0,Cory Crooks,45179,Oregon State,Josh Heil,45100,Campbell
+2022,11/06,Campbell - Lehigh Dual,149,W,DEC,3 - 2,Jimmy Hoffman,49165,Lehigh,Josh Heil,45100,Campbell
+2022,02/19,UVA Round Robin Open,149,W,DEC,6 - 2,Callum Sitek,73201,Campbell,Justin Rivera,61114,Campbell
+2022,02/19,UVA Round Robin Open,149,W,TF5,20 - 5 7:00,David Diaz,62396,VMI,Justin Rivera,61114,Campbell
+2022,11/14,Wolfpack Open,149,W,TF5,23 - 8 6:54,Ryan Bennett,75989,Unattached,Justin Rivera,61114,Campbell
+2022,11/14,Wolfpack Open,149,W,DEC,11 - 4,Jake Piccirilli,75041,UNC Pembroke,Justin Rivera,61114,Campbell
+2022,11/14,Wolfpack Open,149,W,FALL,3:20,Demetri Teddlie,67562,King,Justin Rivera,61114,Campbell
+2022,11/14,Wolfpack Open,149,L,DEC,6 - 2,Mason Phillips,52835,North Carolina,Justin Rivera,61114,Campbell
+2022,11/14,Wolfpack Open,149,W,MD,16 - 7,Logan McKoy,49375,Seton Hill,Justin Rivera,61114,Campbell
+2022,11/07,Southeast Open,149,W,FALL,0:24,Ryan Tucker,74450,Tiffin University,Justin Rivera,61114,Campbell
+2022,11/07,Southeast Open,149,W,TF5,22 - 7 4:37,William Kennedy,73627,Roanoke College,Justin Rivera,61114,Campbell
+2022,11/07,Southeast Open,149,W,DEC,5 - 3,Matthew Williams,69865,Chattanooga,Justin Rivera,61114,Campbell
+2022,11/07,Southeast Open,149,W,DEC,8 - 4,Noah Frack,71728,Davidson,Justin Rivera,61114,Campbell
+2022,11/07,Southeast Open,149,W,DEC,7 - 2,Garrett Stewart,62609,Davidson,Justin Rivera,61114,Campbell
+2022,11/21,King Open,149,W,DEC,10 - 6,Zach Harrington,75081,Newberry,Brennan Watkins,73390,Campbell
+2022,11/21,King Open,149,W,MFOR,0 - 0,Demetri Teddlie,67562,King,Brennan Watkins,73390,Campbell
+2022,11/21,King Open,149,L,DEC,11 - 10,Craig Cook,63176,Davis & Elkins,Brennan Watkins,73390,Campbell
+2022,11/21,King Open,149,W,DEC,6 - 4,Matthew Williams,69865,Chattanooga,Brennan Watkins,73390,Campbell
+2022,11/14,Wolfpack Open,149,W,FALL,2:13,Darious Williams,75997,King,Brennan Watkins,73390,Campbell
+2022,11/14,Wolfpack Open,149,W,DEC,4 - 2,Matthew Williams,69865,Chattanooga,Brennan Watkins,73390,Campbell
+2022,11/14,Wolfpack Open,149,L,DEC,8 - 6,Connor Alexander,62464,North Carolina,Brennan Watkins,73390,Campbell
+2022,11/14,Wolfpack Open,149,L,FALL,1:00,Mason Phillips,52835,North Carolina,Brennan Watkins,73390,Campbell
+2022,11/07,Southeast Open,149,W,DEC,4 - 3,Anthony Gaskin,74445,Ferrum,Brennan Watkins,73390,Campbell
+2022,11/07,Southeast Open,149,L,DEC,6 - 3,Jarrod Pominville,73629,Roanoke College,Brennan Watkins,73390,Campbell
+2022,11/07,Southeast Open,149,W,DEC,9 - 5,Gavin Lloyd,73628,Roanoke College,Brennan Watkins,73390,Campbell
+2022,11/07,Southeast Open,149,W,DEC,13 - 6,Luke Hart,72524,VMI,Brennan Watkins,73390,Campbell
+2022,11/07,Southeast Open,149,L,MD,15 - 1,Matthew Williams,69865,Chattanooga,Brennan Watkins,73390,Campbell
+2022,03/05,SoCon Championships,157,W,DEC,6 - 3,Bryce Sanderlin,63711,Davidson,JoJo Aragona,56736,Campbell
+2022,03/05,SoCon Championships,157,W,DEC,3 - 2,Seth Fillers,57321,VMI,JoJo Aragona,56736,Campbell
+2022,03/05,SoCon Championships,157,W,DEC,4 - 2,Taylor Parks,51306,Gardner-Webb,JoJo Aragona,56736,Campbell
+2022,03/05,SoCon Championships,157,L,DEC,9 - 6,Cody Bond,50267,Appalachian State,JoJo Aragona,56736,Campbell
+2022,02/13,Campbell - Appalachian State Dual,157,L,MD,14 - 5,Cody Bond,50267,Appalachian State,JoJo Aragona,56736,Campbell
+2022,02/06,Davidson - Campbell Dual,157,W,DEC,13 - 8,Bryce Sanderlin,63711,Davidson,JoJo Aragona,56736,Campbell
+2022,02/19,UVA Round Robin Open,157,W,FALL,2:38,Kevin Schork,72105,Maryland,Jakob Chisolm,73391,Campbell
+2022,02/19,UVA Round Robin Open,157,L,DEC,7 - 3,Loranzo Rajaonarivelo,62067,George Mason,Jakob Chisolm,73391,Campbell
+2022,02/19,UVA Round Robin Open,157,W,MD,13 - 4,Noah Roulo,61776,VMI,Jakob Chisolm,73391,Campbell
+2022,02/19,UVA Round Robin Open,165,L,FALL,1:04,Justin McCoy,50946,Virginia,Jakob Chisolm,73391,Campbell
+2022,02/19,UVA Round Robin Open,157,L,MD,9 - 0,Cayleb Atkins,71776,Appalachian State,Jakob Chisolm,73391,Campbell
+2022,01/30,Presbyterian - Campbell Dual,157,W,DEC,7 - 4,Logan Spell,73011,Presbyterian,Jakob Chisolm,73391,Campbell
+2022,12/29,Illinois Matmen Open,157,L,FALL,5:40,Anthony Gibson,56508,Northern Illinois,Jakob Chisolm,73391,Campbell
+2022,12/29,Illinois Matmen Open,157,L,DEC,3 - 0,Matthew Dallara,51712,Campbell,Jakob Chisolm,73391,Campbell
+2022,12/05,Patriot Open,157,L,FALL,1:19,Kevin Schork,72105,Maryland,Jakob Chisolm,73391,Campbell
+2022,12/05,Patriot Open,157,W,FALL,2:23,Matt Romanelli,71735,Columbia,Jakob Chisolm,73391,Campbell
+2022,12/05,Patriot Open,157,L,MD,11 - 2,Cesar Alvan,71732,Columbia,Jakob Chisolm,73391,Campbell
+2022,12/05,Patriot Open,157,W,FALL,2:27,Christian Hite,59065,Ferrum,Jakob Chisolm,73391,Campbell
+2022,11/20,Campbell Virginia ECM,157,W,FALL,5:20,Alex Cruz,50942,Virginia,Jakob Chisolm,73391,Campbell
+2022,11/14,Wolfpack Open,157,L,DEC,10 - 4,Matthew Dallara,51712,Campbell,Jakob Chisolm,73391,Campbell
+2022,11/14,Wolfpack Open,157,W,FALL,1:59,David Varner,75996,King,Jakob Chisolm,73391,Campbell
+2022,11/14,Wolfpack Open,157,L,DEC,8 - 2,Jake Hart,55793,Virginia Tech,Jakob Chisolm,73391,Campbell
+2022,11/07,Southeast Open,157,W,MD,17 - 3,Levi Field,74430,Emory & Henry College,Jakob Chisolm,73391,Campbell
+2022,11/07,Southeast Open,157,W,DEC,7 - 2,Ryan Foutz,71263,Roanoke College,Jakob Chisolm,73391,Campbell
+2022,11/07,Southeast Open,157,W,DEC,10 - 3,Jack Campbell,69457,Roanoke College,Jakob Chisolm,73391,Campbell
+2022,11/07,Southeast Open,157,L,DEC,7 - 0,Cayleb Atkins,71776,Appalachian State,Jakob Chisolm,73391,Campbell
+2022,11/07,Southeast Open,157,L,MD,16 - 6,Tommy Askey,67040,Appalachian State,Jakob Chisolm,73391,Campbell
+2022,11/03,Montreat College - Campbell Dual,157,W,TF5,16 - 1 7:00,Daniel Bennett,74018,Montreat College,Jakob Chisolm,73391,Campbell
+2022,01/30,VMI - Campbell Dual,157,W,DEC,7 - 3,Seth Fillers,57321,VMI,Matthew Dallara,51712,Campbell
+2022,01/30,Chattanooga - Campbell Dual,157,L,SV-1,3 - 1,Weston Wichman,58537,Chattanooga,Matthew Dallara,51712,Campbell
+2022,01/23,North Carolina State - Campbell Dual,157,L,FALL,1:46,Ed Scott,64653,NC State,Matthew Dallara,51712,Campbell
+2022,01/23,The Citadel - Campbell Dual,157,W,DEC,6 - 1,Grant Speer,57381,The Citadel,Matthew Dallara,51712,Campbell
+2022,01/16,Campbell - CSU Bakersfield Dual,157,W,DEC,7 - 2,Brock Rogers,62863,CSU Bakersfield,Matthew Dallara,51712,Campbell
+2022,01/16,Campbell - Central Michigan Dual,157,L,MD,13 - 2,Johnny Lovett,61935,Central Michigan,Matthew Dallara,51712,Campbell
+2022,01/16,Campbell - American Dual,157,L,SV-1,5 - 3,Antonio Segura,64117,American,Matthew Dallara,51712,Campbell
+2022,01/09,Campbell - Bellarmine Dual,157,W,DEC,4 - 0,Alex Rivera,61865,Bellarmine,Matthew Dallara,51712,Campbell
+2022,12/29,Illinois Matmen Open,157,W,DEC,3 - 1,Alec Rees,59684,Northern Illinois,Matthew Dallara,51712,Campbell
+2022,12/29,Illinois Matmen Open,157,W,DEC,3 - 0,Jakob Chisolm,73391,Campbell,Matthew Dallara,51712,Campbell
+2022,12/29,Illinois Matmen Open,157,L,FALL,1:54,Tyler Badgett,67118,Pittsburgh,Matthew Dallara,51712,Campbell
+2022,12/29,Illinois Matmen Open,157,L,DEC,10 - 8,Jake Keating,50315,Virginia,Matthew Dallara,51712,Campbell
+2022,11/21,Campbell - North Carolina Dual,157,L,DQ,0 - 0,Austin O'Connor,49214,North Carolina,Matthew Dallara,51712,Campbell
+2022,11/20,Campbell - Virginia Dual,157,L,DEC,4 - 2,Jon Errico,45265,Virginia,Matthew Dallara,51712,Campbell
+2022,11/14,Wolfpack Open,157,L,DEC,6 - 4,Hunter Noland,73726,Chattanooga,Matthew Dallara,51712,Campbell
+2022,11/14,Wolfpack Open,157,W,DEC,10 - 4,Jakob Chisolm,73391,Campbell,Matthew Dallara,51712,Campbell
+2022,11/14,Wolfpack Open,157,L,DEC,7 - 6,Ty Finn,72150,Virginia Tech,Matthew Dallara,51712,Campbell
+2022,11/14,Wolfpack Open,157,W,DEC,8 - 4,Dallas Boone,60136,King,Matthew Dallara,51712,Campbell
+2022,11/06,Campbell - Oregon State Dual,157,L,DEC,5 - 0,Hunter Willits,49272,Oregon State,Matthew Dallara,51712,Campbell
+2022,11/06,Campbell - Lehigh Dual,157,L,MD,8 - 0,Josh Humphreys,55860,Lehigh,Matthew Dallara,51712,Campbell
+2022,12/05,Patriot Open,157,W,FALL,5:54,Logan Sciotto,73332,Navy,Jared Hopkins,71741,Campbell
+2022,12/05,Patriot Open,157,L,TF5,16 - 0 3:43,Ty Finn,72150,Virginia Tech,Jared Hopkins,71741,Campbell
+2022,12/05,Patriot Open,157,L,TF5,17 - 1 5:09,Avery Bassett,71835,George Mason,Jared Hopkins,71741,Campbell
+2022,12/05,Patriot Open,157,W,DEC,11 - 4,Logan Sanom,62487,Bucknell,Jared Hopkins,71741,Campbell
+2022,11/21,King Open,157,W,FALL,2:16,Hunter Dodson,71296,Davis & Elkins,Jared Hopkins,71741,Campbell
+2022,11/21,King Open,157,L,DEC,9 - 6,Dallas Boone,60136,King,Jared Hopkins,71741,Campbell
+2022,11/21,King Open,157,W,DEC,3 - 2,Josh Wynn,57428,King,Jared Hopkins,71741,Campbell
+2022,11/21,King Open,157,L,DEC,7 - 6,Jackson Hurst,73352,Chattanooga,Jared Hopkins,71741,Campbell
+2022,11/14,Wolfpack Open,157,L,DEC,8 - 4,Ryan Dobbs,71786,The Citadel,Jared Hopkins,71741,Campbell
+2022,11/14,Wolfpack Open,157,L,DEC,9 - 7,Tucker Allen,69724,The Citadel,Jared Hopkins,71741,Campbell
+2022,11/14,Wolfpack Open,157,W,FALL,6:17,Vincent Galang,67565,King,Jared Hopkins,71741,Campbell
+2022,11/14,Wolfpack Open,157,W,FALL,2:16,Alex Mercado,64938,King,Jared Hopkins,71741,Campbell
+2022,11/07,Southeast Open,157,W,FALL,2:27,Marshall Hammond,73634,Roanoke College,Jared Hopkins,71741,Campbell
+2022,11/07,Southeast Open,157,W,FALL,3:25,Jackson Hurst,73352,Chattanooga,Jared Hopkins,71741,Campbell
+2022,11/07,Southeast Open,157,W,INJ,7:00,Evan Glynos,72517,VMI,Jared Hopkins,71741,Campbell
+2022,11/07,Southeast Open,157,L,DEC,6 - 0,Ty Finn,72150,Virginia Tech,Jared Hopkins,71741,Campbell
+2022,11/07,Southeast Open,157,L,MD,10 - 2,Tommy Askey,67040,Appalachian State,Jared Hopkins,71741,Campbell
+2022,11/03,Campbell Montreat Extra,157,L,INJ,6:35,Freddy Guardiola,73971,Montreat College,Alex Rivera,52120,Campbell
+2022,03/05,SoCon Championships,165,W,DEC,8 - 3,Jaden Hardrick,65048,Davidson,Troy Nation,57189,Campbell
+2022,03/05,SoCon Championships,165,W,DEC,7 - 3,Selwyn Porter,57380,The Citadel,Troy Nation,57189,Campbell
+2022,03/05,SoCon Championships,165,L,MD,8 - 0,Rodrick Mosley,50889,Gardner-Webb,Troy Nation,57189,Campbell
+2022,03/05,SoCon Championships,165,L,MD,11 - 1,William Formato,57034,Appalachian State,Troy Nation,57189,Campbell
+2022,02/13,Campbell - Appalachian State Dual,165,L,DEC,7 - 2,William Formato,57034,Appalachian State,Troy Nation,57189,Campbell
+2022,01/23,The Citadel - Campbell Dual,165,L,FALL,5:31,Selwyn Porter,57380,The Citadel,Troy Nation,57189,Campbell
+2022,01/16,Campbell - CSU Bakersfield Dual,165,W,FALL,1:58,Augustine Garcia,69363,CSU Bakersfield,Troy Nation,57189,Campbell
+2022,01/16,Campbell - Central Michigan Dual,165,L,DEC,7 - 5,Tracy Hubbard,57361,Central Michigan,Troy Nation,57189,Campbell
+2022,01/16,Campbell - American Dual,165,W,TF5,16 - 0 7:00,Breon Phifer,72682,American,Troy Nation,57189,Campbell
+2022,01/09,Campbell - Bellarmine Dual,165,W,FALL,1:24,Devan Hendricks,62787,Bellarmine,Troy Nation,57189,Campbell
+2022,11/14,Wolfpack Open,165,W,TF5,20 - 3 4:30,Colby Romjue,69612,Seton Hill,Troy Nation,57189,Campbell
+2022,11/14,Wolfpack Open,165,L,MFOR,0 - 0,Sonny Santiago,61113,North Carolina,Troy Nation,57189,Campbell
+2022,11/14,Wolfpack Open,165,W,DEC,10 - 3,Joey Mazzara,54232,North Carolina,Troy Nation,57189,Campbell
+2022,11/14,Wolfpack Open,165,L,MFOR,0 - 0,Thomas Bullard,44611,NC State,Troy Nation,57189,Campbell
+2022,11/06,Campbell - Oregon State Dual,165,L,DEC,15 - 9,Matthew Olguin,57218,Oregon State,Troy Nation,57189,Campbell
+2022,11/06,Campbell - Lehigh Dual,165,W,SV-1,8 - 6,Brian Meyer,50941,Lehigh,Troy Nation,57189,Campbell
+2022,11/14,Wolfpack Open,165,W,TF5,19 - 0 5:22,Patrick Adams,73392,Campbell,Kevin Muschell,73393,Campbell
+2022,11/14,Wolfpack Open,165,L,MD,14 - 1,Isaias Estrada,72152,North Carolina,Kevin Muschell,73393,Campbell
+2022,11/14,Wolfpack Open,165,W,DEC,4 - 3,Loudon Hurt,67385,Virginia,Kevin Muschell,73393,Campbell
+2022,11/14,Wolfpack Open,165,L,TF5,20 - 5 7:00,Donald Cates,64932,NC State,Kevin Muschell,73393,Campbell
+2022,11/07,Southeast Open,165,L,MD,12 - 3,Cale Hoskinson,74447,Notre Dame,Kevin Muschell,73393,Campbell
+2022,11/07,Southeast Open,165,L,DEC,4 - 0,Braxton Lewis,74422,Virginia Slaughter House,Kevin Muschell,73393,Campbell
+2022,02/06,Davidson - Campbell Dual,165,L,DEC,6 - 3,Jaden Hardrick,65048,Davidson,Riley Augustine,69727,Campbell
+2022,01/30,Presbyterian - Campbell Dual,165,L,DEC,11 - 5,Zachary Phillips,65871,Presbyterian,Riley Augustine,69727,Campbell
+2022,01/30,VMI - Campbell Dual,165,W,MD,17 - 5,River Carroll,72526,VMI,Riley Augustine,69727,Campbell
+2022,01/30,Chattanooga - Campbell Dual,165,L,MD,11 - 3,Drew Nicholson,49091,Chattanooga,Riley Augustine,69727,Campbell
+2022,01/23,North Carolina State - Campbell Dual,165,L,TF5,16 - 0 3:50,Thomas Bullard,44611,NC State,Riley Augustine,69727,Campbell
+2022,11/21,Campbell - North Carolina Dual,165,L,DEC,6 - 3,Sonny Santiago,61113,North Carolina,Riley Augustine,69727,Campbell
+2022,11/20,Campbell - Virginia Dual,165,L,TF5,17 - 2 3:50,Justin McCoy,50946,Virginia,Riley Augustine,69727,Campbell
+2022,11/14,Wolfpack Open,165,W,FALL,2:09,Jimmy Bendsten,75988,Seton Hill,Riley Augustine,69727,Campbell
+2022,11/14,Wolfpack Open,165,L,DEC,9 - 3,Isaias Estrada,72152,North Carolina,Riley Augustine,69727,Campbell
+2022,11/14,Wolfpack Open,165,W,FALL,2:25,Colby Romjue,69612,Seton Hill,Riley Augustine,69727,Campbell
+2022,11/14,Wolfpack Open,165,L,DEC,3 - 2,Sonny Santiago,61113,North Carolina,Riley Augustine,69727,Campbell
+2022,11/06,Lehigh Campbell ECM,165,L,FALL,4:04,Tyler Sung,64675,Lehigh,Riley Augustine,69727,Campbell
+2022,11/03,Montreat College - Campbell Dual,165,W,MD,20 - 9,Easton Griffin,61646,Montreat College,Riley Augustine,69727,Campbell
+2022,02/06,Edinboro Open,165,L,FALL,3:59,Ethan Wiant,63052,Clarion,Josh Epperly,69731,Campbell
+2022,02/06,Edinboro Open,165,L,DEC,8 - 1,Mason Karpinski,63010,Kent State,Josh Epperly,69731,Campbell
+2022,01/23,NC State Campbell ECM,165,L,TF5,16 - 0 7:00,Thomas Bullard,44611,NC State,Josh Epperly,69731,Campbell
+2022,12/05,Patriot Open,165,L,DEC,8 - 1,Andrew Javier,62911,Navy,Josh Epperly,69731,Campbell
+2022,12/05,Patriot Open,165,L,MD,12 - 1,Drew Dickson,62581,George Mason,Josh Epperly,69731,Campbell
+2022,11/14,Wolfpack Open,165,L,MD,10 - 2,Isaias Estrada,72152,North Carolina,Josh Epperly,69731,Campbell
+2022,11/14,Wolfpack Open,165,L,DEC,4 - 3,Nolan Wheeler,69430,Newberry,Josh Epperly,69731,Campbell
+2022,11/07,Southeast Open,165,W,DEC,6 - 4,John Moshman,69730,Roanoke College,Josh Epperly,69731,Campbell
+2022,11/07,Southeast Open,165,L,FALL,1:23,Kamdyn Munro,71789,Boom Ranch WC,Josh Epperly,69731,Campbell
+2022,11/07,Southeast Open,165,W,DEC,6 - 3,Conner Johnson,72525,VMI,Josh Epperly,69731,Campbell
+2022,11/07,Southeast Open,165,W,TF5,16 - 1 3:51,Matt Cox,71240,Emory & Henry College,Josh Epperly,69731,Campbell
+2022,11/07,Southeast Open,165,L,MD,15 - 1,Tyler Kocak,69715,George Mason,Josh Epperly,69731,Campbell
+2022,11/03,Campbell Montreat Extra,165,W,DEC,5 - 2,Easton Griffin,61646,Montreat College,Josh Epperly,69731,Campbell
+2022,11/20,Life University Open,165,L,SV-1,3 - 1,Logan Sowders,82796,Thomas More College,Patrick Adams,73392,Campbell
+2022,11/20,Life University Open,165,W,MFOR,0 - 0,Isaias Estrada,72152,North Carolina,Patrick Adams,73392,Campbell
+2022,11/20,Life University Open,165,L,TF5,16 - 0 7:00,Kailan Keith,76134,Thomas More College,Patrick Adams,73392,Campbell
+2022,11/14,Wolfpack Open,165,L,TF5,19 - 0 5:22,Kevin Muschell,73393,Campbell,Patrick Adams,73392,Campbell
+2022,11/14,Wolfpack Open,165,L,FALL,1:09,Colby Romjue,69612,Seton Hill,Patrick Adams,73392,Campbell
+2022,11/07,Southeast Open,165,L,MD,9 - 0,Anthony Robinson,62583,George Mason,Patrick Adams,73392,Campbell
+2022,11/07,Southeast Open,165,L,MD,14 - 0,Loranzo Rajaonarivelo,62067,George Mason,Patrick Adams,73392,Campbell
+2022,11/03,Campbell Montreat Extra,165,L,DEC,13 - 6,Daniel Bennett,74018,Montreat College,Patrick Adams,73392,Campbell
+2022,03/05,SoCon Championships,174,L,TB-1,3 - 2,Thomas Flitz,45410,Appalachian State,Austin Murphy,51608,Campbell
+2022,03/05,SoCon Championships,174,W,TF5,16 - 1 2:47,Mason Watkins,73387,Presbyterian,Austin Murphy,51608,Campbell
+2022,03/05,SoCon Championships,174,W,DEC,5 - 3,Benjamin Haubert,71286,The Citadel,Austin Murphy,51608,Campbell
+2022,02/13,Campbell - Appalachian State Dual,174,L,DEC,2 - 1,Thomas Flitz,45410,Appalachian State,Austin Murphy,51608,Campbell
+2022,02/06,Davidson - Campbell Dual,174,W,DEC,5 - 0,Steven Newell,57721,Davidson,Austin Murphy,51608,Campbell
+2022,01/30,VMI - Campbell Dual,174,W,DEC,1 - 0,Jon Hoover,57525,VMI,Austin Murphy,51608,Campbell
+2022,01/30,Chattanooga - Campbell Dual,174,W,DEC,3 - 1,Carial Tarter,56078,Chattanooga,Austin Murphy,51608,Campbell
+2022,01/23,North Carolina State - Campbell Dual,174,L,TF5,15 - 0 7:00,Hayden Hidlay,44595,NC State,Austin Murphy,51608,Campbell
+2022,01/23,The Citadel - Campbell Dual,174,W,DEC,11 - 4,Cole Burke,57379,The Citadel,Austin Murphy,51608,Campbell
+2022,01/16,Campbell - CSU Bakersfield Dual,174,W,DEC,5 - 3,Albert Urias,57203,CSU Bakersfield,Austin Murphy,51608,Campbell
+2022,01/16,Campbell - Central Michigan Dual,174,W,DEC,6 - 1,Bret Fedewa,50920,Central Michigan,Austin Murphy,51608,Campbell
+2022,01/16,Campbell - American Dual,174,W,DEC,10 - 7,Timothy Fitzpatrick,57254,American,Austin Murphy,51608,Campbell
+2022,11/21,Campbell - North Carolina Dual,174,L,DEC,3 - 2,Clay Lautt,49212,North Carolina,Austin Murphy,51608,Campbell
+2022,11/20,Campbell - Virginia Dual,174,W,FALL,2:52,Krystian Kinsey,57061,Virginia,Austin Murphy,51608,Campbell
+2022,11/06,Campbell - Oregon State Dual,174,L,DEC,6 - 4,Aaron Olmos,50177,Oregon State,Austin Murphy,51608,Campbell
+2022,11/06,Campbell - Lehigh Dual,174,W,DEC,3 - 2,Jake Logan,57185,Lehigh,Austin Murphy,51608,Campbell
+2022,01/30,Presbyterian - Campbell Dual,174,W,DEC,7 - 1,Bryton Goering,61211,Presbyterian,Cameron Andrews,61898,Campbell
+2022,01/23,NC State Campbell ECM,174,L,FALL,1:23,Hayden Hidlay,44595,NC State,Cameron Andrews,61898,Campbell
+2022,11/14,Wolfpack Open,174,L,DEC,3 - 2,Austin Dempsey,73151,Virginia Tech,Cameron Andrews,61898,Campbell
+2022,11/14,Wolfpack Open,174,L,DEC,6 - 2,Rocco Contino,70927,Virginia,Cameron Andrews,61898,Campbell
+2022,11/06,Campbell Oregon State ECM,174,W,DEC,4 - 2,Brad Kata,51984,Oregon State,Cameron Andrews,61898,Campbell
+2022,11/03,Montreat College - Campbell Dual,174,W,MD,14 - 1,Tyler McDonald,73985,Montreat College,Cameron Andrews,61898,Campbell
+2022,03/17,NCAA Championships,184,L,MD,10 - 0,Taylor Venz,44854,Nebraska,Caleb Hopkins,56482,Campbell
+2022,03/17,NCAA Championships,184,W,FALL,1:42,Michael Battista,51672,Virginia,Caleb Hopkins,56482,Campbell
+2022,03/17,NCAA Championships,184,L,DEC,11 - 4,Zach Braunagel,50925,Illinois,Caleb Hopkins,56482,Campbell
+2022,03/05,SoCon Championships,184,W,DEC,8 - 3,Jha'Quan Anderson,62407,Gardner-Webb,Caleb Hopkins,56482,Campbell
+2022,03/05,SoCon Championships,184,W,TF5,19 - 1 6:16,Joel Diaz,67424,VMI,Caleb Hopkins,56482,Campbell
+2022,03/05,SoCon Championships,184,W,DEC,5 - 3,Barrett Blakely,54239,Appalachian State,Caleb Hopkins,56482,Campbell
+2022,02/13,Campbell - Appalachian State Dual,184,W,DEC,5 - 4,Barrett Blakely,54239,Appalachian State,Caleb Hopkins,56482,Campbell
+2022,02/06,Davidson - Campbell Dual,184,W,FALL,3:30,Gavin Henry,61929,Davidson,Caleb Hopkins,56482,Campbell
+2022,01/30,Presbyterian - Campbell Dual,184,W,DEC,8 - 5,David Bertrand,73013,Presbyterian,Caleb Hopkins,56482,Campbell
+2022,01/30,VMI - Campbell Dual,184,W,MD,11 - 2,Max Gourley,72529,VMI,Caleb Hopkins,56482,Campbell
+2022,01/30,Chattanooga - Campbell Dual,184,W,DEC,6 - 0,Thomas Sell,64478,Chattanooga,Caleb Hopkins,56482,Campbell
+2022,01/23,North Carolina State - Campbell Dual,184,L,MD,15 - 4,Trent Hidlay,51224,NC State,Caleb Hopkins,56482,Campbell
+2022,01/23,The Citadel - Campbell Dual,184,W,DEC,5 - 4,Benjamin Haubert,71286,The Citadel,Caleb Hopkins,56482,Campbell
+2022,01/16,Campbell - CSU Bakersfield Dual,184,W,DEC,3 - 0,Jacob Hansen,66542,CSU Bakersfield,Caleb Hopkins,56482,Campbell
+2022,01/16,Campbell - Central Michigan Dual,184,W,FALL,1:03,Ben Cushman,57359,Central Michigan,Caleb Hopkins,56482,Campbell
+2022,01/16,Campbell - American Dual,184,W,DEC,11 - 5,Colin Shannon,50060,American,Caleb Hopkins,56482,Campbell
+2022,11/21,Campbell - North Carolina Dual,184,L,DEC,7 - 3,Gavin Kane,62429,North Carolina,Caleb Hopkins,56482,Campbell
+2022,11/20,Campbell - Virginia Dual,184,L,DEC,6 - 5,Michael Battista,51672,Virginia,Caleb Hopkins,56482,Campbell
+2022,11/14,Wolfpack Open,184,W,DEC,3 - 0,Brandon Matthews,57939,Seton Hill,Caleb Hopkins,56482,Campbell
+2022,11/14,Wolfpack Open,184,W,FALL,2:06,Holden Cypher,71936,NC State,Caleb Hopkins,56482,Campbell
+2022,11/14,Wolfpack Open,184,W,FALL,6:04,Joey Milano,70919,NC State,Caleb Hopkins,56482,Campbell
+2022,11/14,Wolfpack Open,184,L,DEC,10 - 3,Nick Reenan,45035,NC State,Caleb Hopkins,56482,Campbell
+2022,11/06,Campbell - Oregon State Dual,184,W,DEC,3 - 2,Mason Reiniche,67415,Oregon State,Caleb Hopkins,56482,Campbell
+2022,11/06,Campbell - Lehigh Dual,184,W,SV-1,4 - 2,AJ Burkhart,50632,Lehigh,Caleb Hopkins,56482,Campbell
+2022,02/06,Edinboro Open,184,W,FALL,5:40,Nate Barrett,74293,Ashland,Cole Rees,71005,Campbell
+2022,02/06,Edinboro Open,184,W,DEC,5 - 3,Adrien Cramer,68713,Maryland,Cole Rees,71005,Campbell
+2022,02/06,Edinboro Open,184,L,DEC,5 - 3,Jaden Bullock,67035,Michigan,Cole Rees,71005,Campbell
+2022,02/06,Edinboro Open,184,W,MD,15 - 4,Nick Meglino,62803,Pittsburgh,Cole Rees,71005,Campbell
+2022,12/29,Illinois Matmen Open,184,L,DEC,4 - 3,Dylan Connell,67216,Illinois,Cole Rees,71005,Campbell
+2022,12/29,Illinois Matmen Open,184,L,MD,9 - 1,Brit Wilson,49235,Northern Illinois,Cole Rees,71005,Campbell
+2022,11/14,Wolfpack Open,184,L,INJ,3:00,Brandon Matthews,57939,Seton Hill,Cole Rees,71005,Campbell
+2022,11/14,Wolfpack Open,184,W,DEC,7 - 0,Holden Cypher,71936,NC State,Cole Rees,71005,Campbell
+2022,11/14,Wolfpack Open,184,W,FALL,4:34,Armando Acosta,71224,Newberry,Cole Rees,71005,Campbell
+2022,11/14,Wolfpack Open,184,W,FALL,0:22,Riley O'Mara,62412,Seton Hill,Cole Rees,71005,Campbell
+2022,11/14,Wolfpack Open,184,W,DEC,9 - 3,Hunter Queen,49219,North Carolina,Cole Rees,71005,Campbell
+2022,11/14,Wolfpack Open,184,L,MD,13 - 3,Nick Reenan,45035,NC State,Cole Rees,71005,Campbell
+2022,11/07,Southeast Open,184,W,TF5,16 - 0 2:46,Jack Dyess,73645,Roanoke College,Cole Rees,71005,Campbell
+2022,11/07,Southeast Open,184,W,MD,8 - 0,Vikram Ostrander,73058,Virginia,Cole Rees,71005,Campbell
+2022,11/07,Southeast Open,184,W,DEC,5 - 3,Hadyn Danals,73055,Virginia,Cole Rees,71005,Campbell
+2022,11/07,Southeast Open,184,W,DEC,4 - 2,Justin Hart,72530,VMI,Cole Rees,71005,Campbell
+2022,01/23,NC State Campbell ECM,184,L,FALL,5:16,Trent Hidlay,51224,NC State,Shane Quick,69733,Campbell
+2022,01/09,Campbell - Bellarmine Dual,184,L,DEC,6 - 5,Eric Beck,49377,Bellarmine,Shane Quick,69733,Campbell
+2022,11/07,Southeast Open,184,L,INJ,7:00,Vikram Ostrander,73058,Virginia,Shane Quick,69733,Campbell
+2022,11/07,Southeast Open,184,L,TF5,17 - 2 4:33,Hadyn Danals,73055,Virginia,Shane Quick,69733,Campbell
+2022,11/03,Campbell Montreat Extra,197,W,MD,14 - 2,Antonio Petraglia,73990,Montreat College,Shane Quick,69733,Campbell
+2022,03/05,SoCon Championships,197,L,DEC,3 - 1,Matthew Waddell,49259,Chattanooga,Chris Kober,50022,Campbell
+2022,03/05,SoCon Championships,197,W,FALL,3:32,Aiden Jean,73012,Presbyterian,Chris Kober,50022,Campbell
+2022,03/05,SoCon Championships,197,W,DEC,5 - 2,Anthony Perrine,49135,Gardner-Webb,Chris Kober,50022,Campbell
+2022,02/13,Campbell - Appalachian State Dual,197,W,SV-1,3 - 1,Wyatt Miller,71718,Appalachian State,Chris Kober,50022,Campbell
+2022,01/30,VMI - Campbell Dual,197,W,DEC,8 - 6,Tyler Mousaw,67432,VMI,Chris Kober,50022,Campbell
+2022,01/23,North Carolina State - Campbell Dual,197,L,DEC,1 - 0,Isaac Trumble,67131,NC State,Chris Kober,50022,Campbell
+2022,01/23,The Citadel - Campbell Dual,197,W,FALL,4:25,Ben Stemmet,65010,The Citadel,Chris Kober,50022,Campbell
+2022,01/16,Campbell - Central Michigan Dual,197,L,DEC,7 - 4,Aaron Bolo,50919,Central Michigan,Chris Kober,50022,Campbell
+2022,01/16,Campbell - American Dual,197,W,MD,12 - 4,Carston Rawls,72684,American,Chris Kober,50022,Campbell
+2022,12/29,Illinois Matmen Open,197,W,DEC,6 - 1,Levi Hopkins,62508,Campbell,Chris Kober,50022,Campbell
+2022,12/29,Illinois Matmen Open,197,W,DEC,2 - 0,Caden Rogers,64004,High School,Chris Kober,50022,Campbell
+2022,12/29,Illinois Matmen Open,197,L,DEC,7 - 1,Braxton Amos,62756,Wisconsin,Chris Kober,50022,Campbell
+2022,12/29,Illinois Matmen Open,197,W,DEC,2 - 0,Bobby Striggow,51240,Michigan,Chris Kober,50022,Campbell
+2022,12/29,Illinois Matmen Open,197,L,DEC,6 - 1,Cody Baldridge,67627,North Central,Chris Kober,50022,Campbell
+2022,11/20,Campbell - Virginia Dual,197,W,SV-1,4 - 2,Ethan Weatherspoon,60762,Virginia,Chris Kober,50022,Campbell
+2022,11/14,Wolfpack Open,197,W,FALL,2:35,Colden Dorfman,73056,Virginia,Chris Kober,50022,Campbell
+2022,11/14,Wolfpack Open,197,L,DEC,10 - 6,Brock Delsignore,71935,NC State,Chris Kober,50022,Campbell
+2022,11/14,Wolfpack Open,197,W,MFOR,0 - 0,Conor Maslanek,71006,Campbell,Chris Kober,50022,Campbell
+2022,11/14,Wolfpack Open,197,W,DEC,5 - 1,Brendan Finnerty,69613,Seton Hill,Chris Kober,50022,Campbell
+2022,11/14,Wolfpack Open,197,L,TB-2,3 - 2,Christian Knop,57096,NC State,Chris Kober,50022,Campbell
+2022,11/06,Campbell - Lehigh Dual,197,W,MD,12 - 2,JT Davis,65763,Lehigh,Chris Kober,50022,Campbell
+2022,02/06,Davidson - Campbell Dual,197,W,FALL,5:17,Finlay Holston,57215,Davidson,Levi Hopkins,62508,Campbell
+2022,01/30,Presbyterian - Campbell Dual,197,W,DEC,11 - 5,Malcolm Wiley,62915,Presbyterian,Levi Hopkins,62508,Campbell
+2022,01/30,Chattanooga - Campbell Dual,197,W,DEC,6 - 4,Matthew Waddell,49259,Chattanooga,Levi Hopkins,62508,Campbell
+2022,01/16,Campbell - CSU Bakersfield Dual,197,L,DEC,3 - 2,Josh Loomer,51232,CSU Bakersfield,Levi Hopkins,62508,Campbell
+2022,01/09,Campbell - Bellarmine Dual,197,W,FALL,1:11,Bryant Wilkinson,73535,Bellarmine,Levi Hopkins,62508,Campbell
+2022,12/29,Illinois Matmen Open,197,L,DEC,6 - 1,Chris Kober,50022,Campbell,Levi Hopkins,62508,Campbell
+2022,12/29,Illinois Matmen Open,197,W,DEC,11 - 9,Kolby Franklin,73803,High School,Levi Hopkins,62508,Campbell
+2022,12/29,Illinois Matmen Open,197,W,DEC,3 - 2,Trent Tracy,56701,Cal Poly,Levi Hopkins,62508,Campbell
+2022,12/29,Illinois Matmen Open,197,L,MD,11 - 0,Cole Urbas,56773,Pennsylvania,Levi Hopkins,62508,Campbell
+2022,12/29,Illinois Matmen Open,197,L,MD,11 - 3,Nino Bonaccorsi,49285,Pittsburgh,Levi Hopkins,62508,Campbell
+2022,12/05,Patriot Open,197,W,MD,10 - 2,Josh Labarbera,69261,Pennsylvania,Levi Hopkins,62508,Campbell
+2022,12/05,Patriot Open,197,L,SV-1,7 - 5,Jacob Ferreira,56807,NC State,Levi Hopkins,62508,Campbell
+2022,12/05,Patriot Open,197,W,DEC,12 - 7,Braden Homsey,56011,Ferrum,Levi Hopkins,62508,Campbell
+2022,12/05,Patriot Open,197,W,MD,13 - 1,Triston Norris,71717,Appalachian State,Levi Hopkins,62508,Campbell
+2022,11/21,Campbell - North Carolina Dual,197,L,DEC,3 - 2,Max Shaw,61959,North Carolina,Levi Hopkins,62508,Campbell
+2022,11/14,Wolfpack Open,197,W,FALL,4:27,Colden Dorfman,73056,Virginia,Levi Hopkins,62508,Campbell
+2022,11/14,Wolfpack Open,197,L,FALL,5:55,Brock Delsignore,71935,NC State,Levi Hopkins,62508,Campbell
+2022,11/14,Wolfpack Open,197,W,DEC,2 - 0,Christian Knop,57096,NC State,Levi Hopkins,62508,Campbell
+2022,11/14,Wolfpack Open,197,L,DEC,10 - 7,Jacob Ferreira,56807,NC State,Levi Hopkins,62508,Campbell
+2022,11/06,Campbell - Oregon State Dual,197,W,DEC,3 - 1,Jj Dixon,56784,Oregon State,Levi Hopkins,62508,Campbell
+2022,11/03,Montreat College - Campbell Dual,197,W,FALL,1:11,Antonio Petraglia,73990,Montreat College,Levi Hopkins,62508,Campbell
+2022,02/19,UVA Round Robin Open,197,L,MD,14 - 5,Jaxon Smith,68714,Maryland,Collin Nation,71738,Campbell
+2022,02/19,UVA Round Robin Open,197,W,DEC,6 - 5,Gabe Christenson,61850,Virginia,Collin Nation,71738,Campbell
+2022,02/19,UVA Round Robin Open,197,W,FALL,2:10,Triston Norris,71717,Appalachian State,Collin Nation,71738,Campbell
+2022,12/29,Illinois Matmen Open,197,L,FALL,5:44,Mason McCready,57223,Bucknell,Brandon Hoselton,71740,Campbell
+2022,12/29,Illinois Matmen Open,197,L,FALL,4:21,Cade Wilson,56799,Brown,Brandon Hoselton,71740,Campbell
+2022,11/14,Wolfpack Open,197,L,TF5,18 - 3 4:48,Brock Delsignore,71935,NC State,Brandon Hoselton,71740,Campbell
+2022,11/14,Wolfpack Open,197,L,DEC,12 - 5,Christian Knop,57096,NC State,Brandon Hoselton,71740,Campbell
+2022,11/14,Wolfpack Open,197,W,TF5,16 - 1 3:30,Kaleb Haven,75088,Newberry,Brandon Hoselton,71740,Campbell
+2022,11/14,Wolfpack Open,197,W,MD,16 - 4,Jonathan Chesser,73052,The Citadel,Brandon Hoselton,71740,Campbell
+2022,11/07,Southeast Open,197,L,DEC,8 - 3,Colden Dorfman,73056,Virginia,Brandon Hoselton,71740,Campbell
+2022,11/07,Southeast Open,197,W,DEC,3 - 1,Conor Maslanek,71006,Campbell,Brandon Hoselton,71740,Campbell
+2022,11/07,Southeast Open,197,W,FALL,0:43,Owen Vietmeier,70743,Davidson,Brandon Hoselton,71740,Campbell
+2022,02/06,Edinboro Open,197,W,MFOR,0 - 0,Brendin Yatooma,66965,Michigan,Conor Maslanek,71006,Campbell
+2022,02/06,Edinboro Open,197,W,DEC,1 - 0,Keagan Carmenatty,62903,West Virginia,Conor Maslanek,71006,Campbell
+2022,02/06,Edinboro Open,197,L,DEC,7 - 2,Tyler Stein,56778,Ohio State,Conor Maslanek,71006,Campbell
+2022,02/06,Edinboro Open,197,L,DEC,5 - 0,Eli Sheeran,71783,Buffalo,Conor Maslanek,71006,Campbell
+2022,12/29,Illinois Matmen Open,197,L,FALL,1:50,Trent Tracy,56701,Cal Poly,Conor Maslanek,71006,Campbell
+2022,12/29,Illinois Matmen Open,197,L,MD,13 - 2,Bobby Striggow,51240,Michigan,Conor Maslanek,71006,Campbell
+2022,11/20,Life University Open,197,W,DEC,4 - 2,Gabriel Rangel,76663,Life University,Conor Maslanek,71006,Campbell
+2022,11/20,Life University Open,197,L,TF5,16 - 0 7:00,Tony Rogers,76426,Life University,Conor Maslanek,71006,Campbell
+2022,11/20,Life University Open,197,L,DEC,6 - 5,Tony Rogers,76426,Life University,Conor Maslanek,71006,Campbell
+2022,11/20,Life University Open,197,W,TB-1,6 - 5,Curtis Thomas,65671,Campbellsville,Conor Maslanek,71006,Campbell
+2022,11/20,Life University Open,197,W,FALL,1:59,Nolan Cook,63337,Truett-McConnell,Conor Maslanek,71006,Campbell
+2022,11/20,Life University Open,197,W,DEC,3 - 2,Marcus Bell,57835,UNC Pembroke,Conor Maslanek,71006,Campbell
+2022,11/14,Wolfpack Open,197,L,MFOR,0 - 0,Chris Kober,50022,Campbell,Conor Maslanek,71006,Campbell
+2022,11/14,Wolfpack Open,197,W,DEC,5 - 3,Isaiah Myers,75993,UNC Pembroke,Conor Maslanek,71006,Campbell
+2022,11/14,Wolfpack Open,197,W,MD,15 - 3,Spencer Bovenizer,73361,The Citadel,Conor Maslanek,71006,Campbell
+2022,11/14,Wolfpack Open,197,L,MD,15 - 4,Isaac Trumble,67131,NC State,Conor Maslanek,71006,Campbell
+2022,11/07,Southeast Open,197,L,DEC,3 - 1,Brandon Hoselton,71740,Campbell,Conor Maslanek,71006,Campbell
+2022,11/07,Southeast Open,197,W,MD,13 - 2,Clay Ours,74427,Tiffin University,Conor Maslanek,71006,Campbell
+2022,11/07,Southeast Open,197,L,DEC,5 - 2,Jon List,71833,George Mason,Conor Maslanek,71006,Campbell
+2022,11/14,Wolfpack Open,197,L,DEC,7 - 6,Colden Dorfman,73056,Virginia,Conner Miller,73395,Campbell
+2022,11/14,Wolfpack Open,197,L,TF5,16 - 1 2:45,Isaac Trumble,67131,NC State,Conner Miller,73395,Campbell
+2022,11/07,Southeast Open,197,L,DEC,7 - 2,Wyatt Miller,71718,Appalachian State,Conner Miller,73395,Campbell
+2022,11/07,Southeast Open,197,L,DEC,3 - 0,Triston Norris,71717,Appalachian State,Conner Miller,73395,Campbell
+2022,03/17,NCAA Championships,285,L,FALL,5:58,Zach Elam,51612,Missouri,Taye Ghadiali,62500,Campbell
+2022,03/17,NCAA Championships,285,W,SV-1,10 - 8,Zachary Knighton-Ward,53791,Hofstra,Taye Ghadiali,62500,Campbell
+2022,03/17,NCAA Championships,285,L,DEC,4 - 0,Lewis Fernandes,56901,Cornell,Taye Ghadiali,62500,Campbell
+2022,03/05,SoCon Championships,285,W,SV-1,3 - 1,Michael McAleavey,45588,The Citadel,Taye Ghadiali,62500,Campbell
+2022,03/05,SoCon Championships,285,W,FALL,0:37,Airin Spell,69876,Presbyterian,Taye Ghadiali,62500,Campbell
+2022,03/05,SoCon Championships,285,W,FALL,1:16,Mitchell Trigg,56339,Davidson,Taye Ghadiali,62500,Campbell
+2022,02/13,Campbell - Appalachian State Dual,285,W,MD,14 - 5,Michael Burchell,57036,Appalachian State,Taye Ghadiali,62500,Campbell
+2022,01/30,VMI - Campbell Dual,285,W,MD,16 - 7,Josh Evans,72531,VMI,Taye Ghadiali,62500,Campbell
+2022,01/30,Chattanooga - Campbell Dual,285,W,DEC,8 - 1,Matthias Ervin,69867,Chattanooga,Taye Ghadiali,62500,Campbell
+2022,01/23,North Carolina State - Campbell Dual,285,W,DEC,9 - 6,Tyrie Houghton,51136,NC State,Taye Ghadiali,62500,Campbell
+2022,01/23,The Citadel - Campbell Dual,285,W,DEC,6 - 1,Michael McAleavey,45588,The Citadel,Taye Ghadiali,62500,Campbell
+2022,01/16,Campbell - CSU Bakersfield Dual,285,W,DEC,8 - 7,Jacob Sieder,45321,CSU Bakersfield,Taye Ghadiali,62500,Campbell
+2022,01/16,Campbell - Central Michigan Dual,285,L,SV-1,2 - 1,Matt Stencel,44592,Central Michigan,Taye Ghadiali,62500,Campbell
+2022,01/09,Campbell - Bellarmine Dual,285,W,TF5,19 - 4 5:00,Charlie Cadell,56942,Bellarmine,Taye Ghadiali,62500,Campbell
+2022,11/20,Campbell - Virginia Dual,285,W,DEC,3 - 2,Quinn Miller,49333,Virginia,Taye Ghadiali,62500,Campbell
+2022,11/14,Wolfpack Open,285,W,FALL,0:24,Ethan New,75994,Limestone,Taye Ghadiali,62500,Campbell
+2022,11/14,Wolfpack Open,285,W,FALL,3:51,Ty-Darius Kelly,75791,King,Taye Ghadiali,62500,Campbell
+2022,11/14,Wolfpack Open,285,W,DEC,3 - 2,Hunter Catka,62425,Virginia Tech,Taye Ghadiali,62500,Campbell
+2022,11/14,Wolfpack Open,285,W,DEC,2 - 1,Deonte Wilson,56403,NC State,Taye Ghadiali,62500,Campbell
+2022,11/07,Southeast Open,285,W,FALL,0:40,Thomas Roberts,71250,Emory & Henry College,Taye Ghadiali,62500,Campbell
+2022,11/07,Southeast Open,285,W,SV-1,3 - 1,Hunter Catka,62425,Virginia Tech,Taye Ghadiali,62500,Campbell
+2022,11/07,Southeast Open,285,W,DEC,10 - 3,Matthew Cover,57523,Princeton,Taye Ghadiali,62500,Campbell
+2022,11/07,Southeast Open,285,L,DEC,3 - 2,Nathan Traxler,45395,Virginia Tech,Taye Ghadiali,62500,Campbell
+2022,02/19,UVA Round Robin Open,285,L,MFOR,0 - 0,Luke Davis,69736,Campbell,Elijah Daugherty,69735,Campbell
+2022,02/19,UVA Round Robin Open,285,W,DEC,10 - 3,Sam O'Brian,72104,Maryland,Elijah Daugherty,69735,Campbell
+2022,02/19,UVA Round Robin Open,285,W,DEC,10 - 8,Jessie Knight,64891,Virginia,Elijah Daugherty,69735,Campbell
+2022,02/19,UVA Round Robin Open,285,L,TF5,18 - 0 7:00,Quinn Miller,49333,Virginia,Elijah Daugherty,69735,Campbell
+2022,11/14,Wolfpack Open,285,W,FALL,2:44,Ethan New,75994,Limestone,Elijah Daugherty,69735,Campbell
+2022,11/14,Wolfpack Open,285,W,DEC,4 - 0,Luke Davis,69736,Campbell,Elijah Daugherty,69735,Campbell
+2022,11/14,Wolfpack Open,285,L,TF5,22 - 5 5:57,Owen Trephan,56903,NC State,Elijah Daugherty,69735,Campbell
+2022,11/14,Wolfpack Open,285,L,MD,15 - 1,Tyrie Houghton,51136,NC State,Elijah Daugherty,69735,Campbell
+2022,11/07,Southeast Open,285,W,TF5,15 - 0 6:11,Ethan Fragoso,74444,Ferrum,Elijah Daugherty,69735,Campbell
+2022,11/07,Southeast Open,285,W,DEC,6 - 3,Abraham Preston,73731,Gardner-Webb,Elijah Daugherty,69735,Campbell
+2022,11/07,Southeast Open,285,L,MD,13 - 3,Peyton McComas,71831,Gardner-Webb,Elijah Daugherty,69735,Campbell
+2022,11/07,Southeast Open,285,W,DEC,6 - 2,Rayshawn Dixon,70075,Ferrum,Elijah Daugherty,69735,Campbell
+2022,11/07,Southeast Open,285,L,DEC,6 - 4,Jacob Sartorio,65393,Appalachian State,Elijah Daugherty,69735,Campbell
+2022,11/03,Campbell Montreat Extra,285,W,FALL,1:32,James Connaghan,74019,Montreat College,Elijah Daugherty,69735,Campbell
+2022,02/19,UVA Round Robin Open,285,W,FALL,1:29,Sam O'Brian,72104,Maryland,Luke Davis,69736,Campbell
+2022,02/19,UVA Round Robin Open,285,W,MFOR,0 - 0,Elijah Daugherty,69735,Campbell,Luke Davis,69736,Campbell
+2022,02/19,UVA Round Robin Open,285,W,DEC,4 - 1,Jessie Knight,64891,Virginia,Luke Davis,69736,Campbell
+2022,02/19,UVA Round Robin Open,285,L,TF5,16 - 0 7:00,Quinn Miller,49333,Virginia,Luke Davis,69736,Campbell
+2022,02/06,Davidson - Campbell Dual,285,L,DEC,6 - 0,Mitchell Trigg,56339,Davidson,Luke Davis,69736,Campbell
+2022,01/30,Presbyterian - Campbell Dual,285,W,MD,8 - 0,Will Pontoon,63040,Presbyterian,Luke Davis,69736,Campbell
+2022,01/16,Campbell - American Dual,285,L,DEC,8 - 2,Isaac Righter,62521,American,Luke Davis,69736,Campbell
+2022,12/05,Patriot Open,285,W,FALL,3:33,Trent Ray,76276,Ferrum,Luke Davis,69736,Campbell
+2022,12/05,Patriot Open,285,W,FALL,2:29,Jordan Gabriel,74518,Maryland,Luke Davis,69736,Campbell
+2022,12/05,Patriot Open,285,L,DEC,7 - 3,Josh Evans,72531,VMI,Luke Davis,69736,Campbell
+2022,12/05,Patriot Open,285,L,TF5,16 - 0 1:48,Hunter Catka,62425,Virginia Tech,Luke Davis,69736,Campbell
+2022,11/20,Life University Open,285,L,DEC,6 - 0,Greg Hagan,57737,Grand View,Luke Davis,69736,Campbell
+2022,11/20,Life University Open,285,L,DEC,4 - 0,Nic Jarvis,76715,Reinhardt University,Luke Davis,69736,Campbell
+2022,11/20,Life University Open,285,W,FALL,1:56,Chris Alvizures,76435,Midway University,Luke Davis,69736,Campbell
+2022,11/20,Life University Open,285,W,FALL,2:12,Michael Morales,74357,Central Florida,Luke Davis,69736,Campbell
+2022,11/20,Life University Open,285,W,FALL,1:40,Joel Faglier,74705,Brewton-Parker,Luke Davis,69736,Campbell
+2022,11/20,Life University Open,285,W,DEC,3 - 1,Cameron Coffman,50368,Lander,Luke Davis,69736,Campbell
+2022,11/14,Wolfpack Open,285,L,DEC,4 - 0,Elijah Daugherty,69735,Campbell,Luke Davis,69736,Campbell
+2022,11/14,Wolfpack Open,285,W,FALL,2:11,Damon Loveless,75089,Newberry,Luke Davis,69736,Campbell
+2022,11/14,Wolfpack Open,285,W,DEC,15 - 13,John Meyers,69618,Seton Hill,Luke Davis,69736,Campbell
+2022,11/14,Wolfpack Open,285,L,TF5,18 - 0 2:40,Hunter Catka,62425,Virginia Tech,Luke Davis,69736,Campbell
+2022,11/03,Montreat College - Campbell Dual,285,W,FALL,2:17,James Connaghan,74019,Montreat College,Luke Davis,69736,Campbell
+2022,11/06,Campbell - Oregon State Dual,285,L,TF5,27 - 9 6:53,Gary Traub,45199,Oregon State,Chad Nix,64674,Campbell
+2022,11/06,Campbell - Lehigh Dual,285,L,MD,12 - 4,Jordan Wood,45107,Lehigh,Chad Nix,64674,Campbell
+2022,11/14,Wolfpack Open,285,L,DQ,0 - 0,John Meyers,69618,Seton Hill,Calvin Hayford,57198,Campbell
+2022,11/14,Wolfpack Open,285,L,MFOR,0 - 0,Tyrie Houghton,51136,NC State,Calvin Hayford,57198,Campbell
+2022,11/03,Campbell Montreat Extra,285,W,FALL,4:16,James Connaghan,74019,Montreat College,Calvin Hayford,57198,Campbell

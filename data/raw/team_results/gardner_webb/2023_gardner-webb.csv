@@ -1,0 +1,513 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2023,03/04,SoCon Championships,125,W,DEC,9 - 5,Blair Orr,55804,The Citadel,Drew West,50041,Gardner Webb
+2023,03/04,SoCon Championships,125,W,DEC,2 - 1,Blair Orr,55804,The Citadel,Drew West,50041,Gardner Webb
+2023,03/04,SoCon Championships,125,W,DEC,1 - 0,Logan Ashton,57605,Chattanooga,Drew West,50041,Gardner Webb
+2023,03/04,SoCon Championships,125,L,DEC,8 - 1,Caleb Smith,58559,Appalachian State,Drew West,50041,Gardner Webb
+2023,02/18,Davidson - Gardner-Webb Dual,125,W,DEC,6 - 2,Devon Diaco,78849,Davidson,Drew West,50041,Gardner Webb
+2023,02/15,Duke - Gardner-Webb Dual,125,W,FALL,0:39,Ethan Grimminger,79008,Duke,Drew West,50041,Gardner Webb
+2023,02/12,Gardner-Webb - Presbyterian Dual,125,L,DEC,8 - 2,Dominic Chavez,62498,Presbyterian,Drew West,50041,Gardner Webb
+2023,02/10,Gardner-Webb - Chattanooga Dual,125,W,DEC,3 - 2,Logan Ashton,57605,Chattanooga,Drew West,50041,Gardner Webb
+2023,02/03,VMI - Gardner-Webb Dual,125,W,MD,9 - 0,Tony Burke,78464,VMI,Drew West,50041,Gardner Webb
+2023,01/30,Appalachian State - Gardner-Webb Dual,125,L,MD,15 - 4,Caleb Smith,58559,Appalachian State,Drew West,50041,Gardner Webb
+2023,01/20,The Citadel - Gardner-Webb Dual,125,W,DEC,7 - 2,Blair Orr,55804,The Citadel,Drew West,50041,Gardner Webb
+2023,01/15,Army - Gardner-Webb Dual,125,L,DEC,11 - 4,Ethan Berginc,71779,Army West Point,Drew West,50041,Gardner Webb
+2023,01/13,Bellarmine - Gardner-Webb Dual,125,W,DEC,7 - 4,Jack Parker,71291,Bellarmine,Drew West,50041,Gardner Webb
+2023,01/07,Nebraska - Gardner-Webb Dual,125,L,MD,13 - 3,Liam Cronin,45061,Nebraska,Drew West,50041,Gardner Webb
+2023,01/07,Gardner-Webb - Campbell Dual,125,W,DEC,6 - 5,Zak Thompson,71128,Campbell,Drew West,50041,Gardner Webb
+2023,01/01,Southern Scuffle,125,L,MD,13 - 5,Micah Roes,67299,Binghamton,Drew West,50041,Gardner Webb
+2023,01/01,Southern Scuffle,125,L,SV-1,3 - 1,Caleb Fuessley,62605,Iowa State,Drew West,50041,Gardner Webb
+2023,12/19,Gardner-Webb - Ohio Dual,125,W,FALL,5:25,Oscar Sanchez,57320,Ohio,Drew West,50041,Gardner Webb
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,125,W,FALL,2:52,Austin Macias,57088,SIU Edwardsville,Drew West,50041,Gardner Webb
+2023,12/16,Clarion - Gardner-Webb Dual,125,W,SV-1,8 - 6,Joseph Fischer,68702,Clarion,Drew West,50041,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,W,DEC,5 - 1,Aedyn Concepcion,69782,Gardner-Webb,Drew West,50041,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,L,TF5,19 - 4 5:37,Anthony Noto,64642,Lock Haven,Drew West,50041,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,W,MFOR,0 - 0,Matt Maloney,62920,Lock Haven,Drew West,50041,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,W,FALL,1:46,Shamil Kalmatov,72680,American,Drew West,50041,Gardner Webb
+2023,12/02,Gardner-Webb - Bloomsburg Dual,125,W,FALL,6:11,Bronson Garber,56759,Bloomsburg,Drew West,50041,Gardner Webb
+2023,12/02,Gardner-Webb - George Mason Dual,125,W,DEC,9 - 7,Markel Baker,78892,George Mason,Drew West,50041,Gardner Webb
+2023,11/12,Appalachian State Invitational,125,W,FALL,1:10,Kade Orr,73311,Kent State,Drew West,50041,Gardner Webb
+2023,11/12,Appalachian State Invitational,125,W,DEC,4 - 2,Kyle Montaperto,73138,Virginia,Drew West,50041,Gardner Webb
+2023,11/12,Appalachian State Invitational,125,L,DEC,10 - 6,Nico Provo,65883,Stanford,Drew West,50041,Gardner Webb
+2023,11/12,Appalachian State Invitational,125,W,FALL,0:48,Oscar Sanchez,57320,Ohio,Drew West,50041,Gardner Webb
+2023,11/12,Appalachian State Invitational,125,L,SV-1,10 - 8,Logan Jaquay,67227,Edinboro,Drew West,50041,Gardner Webb
+2023,11/06,Clarion Open,125,L,FALL,2:43,Jax Forrest,81114,Unattached,Drew West,50041,Gardner Webb
+2023,11/06,Clarion Open,125,W,DEC,6 - 1,Zach Starr,79789,Kent State,Drew West,50041,Gardner Webb
+2023,11/06,Clarion Open,125,W,DEC,3 - 2,Jeffrey Jacome,73699,Gardner-Webb,Drew West,50041,Gardner Webb
+2023,11/06,Clarion Open,125,W,MFOR,0 - 0,Dayton DelViscio,73322,Navy,Drew West,50041,Gardner Webb
+2023,11/06,Clarion Open,125,L,DEC,6 - 4,Zach Espalin,72186,Navy,Drew West,50041,Gardner Webb
+2023,01/28,Appalachian Open,125,L,SV-1,3 - 1,Matthew Rowland,80035,Gardner-Webb,Aedyn Concepcion,69782,Gardner Webb
+2023,01/28,Appalachian Open,125,L,DEC,6 - 1,Noah Luna,79081,Appalachian State,Aedyn Concepcion,69782,Gardner Webb
+2023,01/28,Appalachian Open,125,W,MD,11 - 2,Devon Diaco,78849,Davidson,Aedyn Concepcion,69782,Gardner Webb
+2023,01/18,Crusader Throwdown 1.18.2023,133,W,DEC,8 - 2,Logan Pugh,74336,Belmont Abbey,Aedyn Concepcion,69782,Gardner Webb
+2023,01/18,Crusader Throwdown 1.18.2023,125,W,MD,17 - 4,Aaron Zebrauskas,59806,Belmont Abbey,Aedyn Concepcion,69782,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,L,DEC,5 - 1,Drew West,50041,Gardner-Webb,Aedyn Concepcion,69782,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,W,DEC,4 - 3,Matthew Rowland,80035,Gardner-Webb,Aedyn Concepcion,69782,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,W,DEC,9 - 6,Foster Cardinale,77874,Spartan Combat RTC,Aedyn Concepcion,69782,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,W,SV-1,3 - 1,Ben Monn,69708,George Mason,Aedyn Concepcion,69782,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,L,MD,14 - 0,Nick Babin,65929,Columbia,Aedyn Concepcion,69782,Gardner Webb
+2023,11/12,App State Open,125,L,SV-1,3 - 1,Tyson Lane,75724,Gardner-Webb,Aedyn Concepcion,69782,Gardner Webb
+2023,11/12,App State Open,125,W,DEC,6 - 1,Chris Merlo,69410,Edinboro,Aedyn Concepcion,69782,Gardner Webb
+2023,11/12,App State Open,125,W,DEC,4 - 0,Patrick McCormick,57063,Virginia,Aedyn Concepcion,69782,Gardner Webb
+2023,11/05,Southeast Open,125,L,DEC,6 - 3,Conrad Hendriksen,80186,Boom Ranch WC,Aedyn Concepcion,69782,Gardner Webb
+2023,11/05,Southeast Open,125,L,DEC,6 - 2,Patrick McCormick,57063,Virginia,Aedyn Concepcion,69782,Gardner Webb
+2023,02/05,Newberry Open,125,W,TF5,15 - 0 7:00,Hunter Fulp,81734,Patrick Henry Community College,Matthew Rowland,80035,Gardner Webb
+2023,02/05,Newberry Open,125,W,FALL,4:20,Gage Bomar,80031,Belmont Abbey,Matthew Rowland,80035,Gardner Webb
+2023,02/05,Newberry Open,125,L,MD,20 - 8,Zein Bazzi,75987,Unattached,Matthew Rowland,80035,Gardner Webb
+2023,02/05,Newberry Open,125,L,DEC,3 - 2,Dominic DiTomasso,73858,Chattanooga,Matthew Rowland,80035,Gardner Webb
+2023,01/28,Appalachian Open,125,L,DEC,6 - 0,Cole Hunt,72654,North Carolina,Matthew Rowland,80035,Gardner Webb
+2023,01/28,Appalachian Open,125,W,SV-1,3 - 1,Aedyn Concepcion,69782,Gardner-Webb,Matthew Rowland,80035,Gardner Webb
+2023,01/28,Appalachian Open,125,L,DEC,8 - 5,Chad Bellis,71922,Appalachian State,Matthew Rowland,80035,Gardner Webb
+2023,01/28,Appalachian Open,125,W,DEC,6 - 2,Dominic DiTomasso,73858,Chattanooga,Matthew Rowland,80035,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,L,DEC,4 - 3,Aedyn Concepcion,69782,Gardner-Webb,Matthew Rowland,80035,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,W,DEC,4 - 1,Jeffrey Jacome,73699,Gardner-Webb,Matthew Rowland,80035,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,L,TF5,19 - 2 5:00,Anthony Noto,64642,Lock Haven,Matthew Rowland,80035,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,W,FALL,6:54,Christian Decatur,62466,Newberry,Matthew Rowland,80035,Gardner Webb
+2023,11/12,Appalachian State Invitational,125,L,SV-1,3 - 1,Kade Orr,73311,Kent State,Matthew Rowland,80035,Gardner Webb
+2023,11/12,Appalachian State Invitational,125,L,DEC,11 - 5,Kyle Montaperto,73138,Virginia,Matthew Rowland,80035,Gardner Webb
+2023,11/12,Appalachian State Invitational,125,W,MD,13 - 3,Logan Jaquay,67227,Edinboro,Matthew Rowland,80035,Gardner Webb
+2023,11/06,Clarion Open,125,W,TF5,20 - 4 7:00,Branton Rice,79422,Pitt-Johnstown,Matthew Rowland,80035,Gardner Webb
+2023,11/06,Clarion Open,125,W,DEC,5 - 3,Kade Orr,73311,Kent State,Matthew Rowland,80035,Gardner Webb
+2023,11/06,Clarion Open,125,L,MD,12 - 4,Zach Espalin,72186,Navy,Matthew Rowland,80035,Gardner Webb
+2023,11/06,Clarion Open,125,L,MD,12 - 0,Aiden Lewis,71750,Edinboro,Matthew Rowland,80035,Gardner Webb
+2023,02/05,Newberry Open,125,W,MFOR,0 - 0,Troy Hohman,75816,NC State,Jeffrey Jacome,73699,Gardner Webb
+2023,02/05,Newberry Open,125,W,MD,13 - 3,Kaluv Petaria,83983,Unattached,Jeffrey Jacome,73699,Gardner Webb
+2023,02/05,Newberry Open,125,W,MD,10 - 1,William Bishop,83810,Unattached,Jeffrey Jacome,73699,Gardner Webb
+2023,02/05,Newberry Open,125,W,FALL,5:50,Hunter Fulp,81734,Patrick Henry Community College,Jeffrey Jacome,73699,Gardner Webb
+2023,02/05,Newberry Open,125,W,MD,10 - 2,Bryson Harper,81433,UNC Pembroke,Jeffrey Jacome,73699,Gardner Webb
+2023,02/05,Newberry Open,125,L,MD,8 - 0,Cole Hunt,72654,North Carolina,Jeffrey Jacome,73699,Gardner Webb
+2023,02/05,Newberry Open,125,W,FALL,2:53,Ashton Thompson,79817,Queens,Jeffrey Jacome,73699,Gardner Webb
+2023,01/28,Appalachian Open,125,W,FALL,3:29,William Bishop,83810,Unattached,Jeffrey Jacome,73699,Gardner Webb
+2023,01/28,Appalachian Open,125,W,MD,13 - 2,Brayden Adams,78607,Presbyterian,Jeffrey Jacome,73699,Gardner Webb
+2023,01/28,Appalachian Open,125,L,DEC,4 - 1,Malik Hardy,73357,The Citadel,Jeffrey Jacome,73699,Gardner Webb
+2023,01/28,Appalachian Open,125,L,FALL,3:34,Chad Bellis,71922,Appalachian State,Jeffrey Jacome,73699,Gardner Webb
+2023,01/18,Crusader Throwdown 1.18.2023,125,W,MD,16 - 2,Cameron Greene,75017,UNC Pembroke,Jeffrey Jacome,73699,Gardner Webb
+2023,01/18,Crusader Throwdown 1.18.2023,125,W,MD,13 - 2,Josh Vega,62256,Belmont Abbey,Jeffrey Jacome,73699,Gardner Webb
+2023,01/01,Southern Scuffle,125,L,FALL,1:23,Braxton Brown,72103,Maryland,Jeffrey Jacome,73699,Gardner Webb
+2023,01/01,Southern Scuffle,125,L,DEC,5 - 3,Richard Castro-Sandoval,69366,CSU Bakersfield,Jeffrey Jacome,73699,Gardner Webb
+2023,01/01,Southern Scuffle,125,W,MFOR,0 - 0,Carlos Negrete Jr,67085,North Dakota State,Jeffrey Jacome,73699,Gardner Webb
+2023,01/01,Southern Scuffle,125,W,DEC,4 - 1,Kooper Loehr,62509,Purdue,Jeffrey Jacome,73699,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,L,DEC,4 - 1,Matthew Rowland,80035,Gardner-Webb,Jeffrey Jacome,73699,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,W,DEC,6 - 4,Zach Shupp,51187,Newberry,Jeffrey Jacome,73699,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,L,DEC,6 - 0,Markel Baker,78892,George Mason,Jeffrey Jacome,73699,Gardner Webb
+2023,11/12,Appalachian State Invitational,125,L,DEC,8 - 2,Kyle Montaperto,73138,Virginia,Jeffrey Jacome,73699,Gardner Webb
+2023,11/12,Appalachian State Invitational,125,L,DEC,10 - 3,Oscar Sanchez,57320,Ohio,Jeffrey Jacome,73699,Gardner Webb
+2023,11/06,Clarion Open,125,L,DEC,3 - 2,Drew West,50041,Gardner-Webb,Jeffrey Jacome,73699,Gardner Webb
+2023,11/06,Clarion Open,125,L,FALL,4:46,Jacob Houpt,75641,Kent State,Jeffrey Jacome,73699,Gardner Webb
+2023,11/06,Clarion Open,125,W,DEC,5 - 3,Logan Mazzeo,65011,Clarion,Jeffrey Jacome,73699,Gardner Webb
+2023,11/06,Clarion Open,125,W,DEC,3 - 2,Jared Brunner,76391,Brown,Jeffrey Jacome,73699,Gardner Webb
+2023,03/04,SoCon Championships,133,L,DEC,6 - 2,Domenic Zaccone,56926,Campbell,Todd Carter,69785,Gardner Webb
+2023,03/04,SoCon Championships,133,W,DEC,5 - 3,George Rosas,78686,The Citadel,Todd Carter,69785,Gardner Webb
+2023,03/04,SoCon Championships,133,W,MD,14 - 2,Jacob Brasseur,61212,Presbyterian,Todd Carter,69785,Gardner Webb
+2023,03/04,SoCon Championships,133,L,DEC,8 - 5,Ethan Oakley,62754,Appalachian State,Todd Carter,69785,Gardner Webb
+2023,02/18,Davidson - Gardner-Webb Dual,133,W,MD,13 - 2,Jackson Sichelstiel,78851,Davidson,Todd Carter,69785,Gardner Webb
+2023,02/15,Duke - Gardner-Webb Dual,133,W,FALL,2:46,Logan Agin,62979,Duke,Todd Carter,69785,Gardner Webb
+2023,02/10,Gardner-Webb - Chattanooga Dual,133,L,DEC,1 - 0,Brayden Palmer,59826,Chattanooga,Todd Carter,69785,Gardner Webb
+2023,02/03,VMI - Gardner-Webb Dual,133,W,DEC,8 - 3,Dyson Dunham,73559,VMI,Todd Carter,69785,Gardner Webb
+2023,01/30,Appalachian State - Gardner-Webb Dual,133,L,DEC,7 - 3,Ethan Oakley,62754,Appalachian State,Todd Carter,69785,Gardner Webb
+2023,01/20,The Citadel - Gardner-Webb Dual,133,W,DEC,4 - 3,George Rosas,78686,The Citadel,Todd Carter,69785,Gardner Webb
+2023,01/15,Queens - Gardner-Webb Dual,133,W,FALL,5:34,Ananth Manibushan,79816,Queens,Todd Carter,69785,Gardner Webb
+2023,01/15,Army - Gardner-Webb Dual,133,W,DEC,7 - 3,Ryan Franco,70909,Army West Point,Todd Carter,69785,Gardner Webb
+2023,01/13,Bellarmine - Gardner-Webb Dual,133,W,DEC,14 - 9,Michael Schiffhauer,79327,Bellarmine,Todd Carter,69785,Gardner Webb
+2023,01/07,Nebraska - Gardner-Webb Dual,133,W,DEC,3 - 2,Boo Dryden,52313,Nebraska,Todd Carter,69785,Gardner Webb
+2023,01/07,Gardner-Webb - Campbell Dual,133,L,MD,10 - 2,Domenic Zaccone,56926,Campbell,Todd Carter,69785,Gardner Webb
+2023,01/01,Southern Scuffle,133,W,DEC,9 - 8,Joe Sparacio,78472,Hofstra,Todd Carter,69785,Gardner Webb
+2023,01/01,Southern Scuffle,133,W,MD,15 - 2,Brady Hankin,73003,Northern Colorado,Todd Carter,69785,Gardner Webb
+2023,01/01,Southern Scuffle,133,L,DEC,9 - 3,Aaron Nagao,63016,Minnesota,Todd Carter,69785,Gardner Webb
+2023,01/01,Southern Scuffle,133,L,MD,13 - 5,Reece Witcraft,57312,Oklahoma State,Todd Carter,69785,Gardner Webb
+2023,12/19,Gardner-Webb - Ohio Dual,133,W,DEC,4 - 2,Mason Brugh,76364,Ohio,Todd Carter,69785,Gardner Webb
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,133,W,MD,16 - 6,Aaron Schulist,57012,SIU Edwardsville,Todd Carter,69785,Gardner Webb
+2023,12/16,Clarion - Gardner-Webb Dual,133,W,DEC,16 - 10,Koen Kish,70988,Clarion,Todd Carter,69785,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,133,W,DEC,9 - 2,Caden Hagler,74459,Virginia Tech,Todd Carter,69785,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,133,L,DEC,14 - 7,Gable Strickland,71822,Lock Haven,Todd Carter,69785,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,133,W,TF5,18 - 1 4:20,Brandon Sauter,78642,Franklin & Marshall,Todd Carter,69785,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,133,L,DEC,6 - 5,Ethan Oakley,62754,Appalachian State,Todd Carter,69785,Gardner Webb
+2023,12/02,Gardner-Webb - Bloomsburg Dual,133,W,DEC,4 - 2,Cole Rhone,62773,Bloomsburg,Todd Carter,69785,Gardner Webb
+2023,12/02,Gardner-Webb - George Mason Dual,133,W,MD,11 - 2,Josh Jones,57073,George Mason,Todd Carter,69785,Gardner Webb
+2023,11/12,Appalachian State Invitational,133,L,DEC,6 - 3,Garrett Grice,72957,Virginia,Todd Carter,69785,Gardner Webb
+2023,11/12,Appalachian State Invitational,133,W,MD,17 - 3,Marlon Yarbrough,72946,Virginia,Todd Carter,69785,Gardner Webb
+2023,11/12,Appalachian State Invitational,133,L,MD,10 - 2,Jackson DiSario,57126,Stanford,Todd Carter,69785,Gardner Webb
+2023,11/12,Appalachian State Invitational,133,W,DEC,11 - 4,Ethan Oakley,62754,Appalachian State,Todd Carter,69785,Gardner Webb
+2023,11/12,Appalachian State Invitational,133,W,DEC,5 - 2,Nick Krug,57660,Air Force,Todd Carter,69785,Gardner Webb
+2023,11/12,Appalachian State Invitational,133,L,MD,11 - 3,Cody Phippen,50644,Air Force,Todd Carter,69785,Gardner Webb
+2023,11/06,Clarion Open,133,W,DEC,8 - 2,Venumadhava Mirel,79459,Navy,Todd Carter,69785,Gardner Webb
+2023,11/06,Clarion Open,133,W,TF5,20 - 4 4:58,Ryan Aquilani,77266,Kent State,Todd Carter,69785,Gardner Webb
+2023,11/06,Clarion Open,133,L,DEC,5 - 2,Brendan Ferretti,72187,Navy,Todd Carter,69785,Gardner Webb
+2023,11/06,Clarion Open,133,L,DEC,11 - 4,Brendan Ferretti,72187,Navy,Todd Carter,69785,Gardner Webb
+2023,11/06,Clarion Open,133,W,DEC,7 - 2,Tommy Maddox,63165,Buffalo,Todd Carter,69785,Gardner Webb
+2023,02/12,Gardner-Webb - Presbyterian Dual,133,L,FALL,5:50,Jacob Brasseur,61212,Presbyterian,Tyson Lane,75724,Gardner Webb
+2023,02/05,Newberry Open,133,W,TF5,17 - 2 7:00,Jp Gamez,74332,Newberry,Tyson Lane,75724,Gardner Webb
+2023,02/05,Newberry Open,133,W,TF5,19 - 1 7:00,Luke Martin,84067,Unattached,Tyson Lane,75724,Gardner Webb
+2023,02/05,Newberry Open,133,W,MD,9 - 1,Kaiden Fisher,70938,Lander,Tyson Lane,75724,Gardner Webb
+2023,02/05,Newberry Open,133,W,MFOR,0 - 0,Logan Heil,57515,Campbell,Tyson Lane,75724,Gardner Webb
+2023,01/28,Appalachian Open,133,W,DEC,5 - 2,Max Martin,73698,North Carolina,Tyson Lane,75724,Gardner Webb
+2023,01/28,Appalachian Open,133,L,DEC,4 - 0,Spencer Moore,68720,North Carolina,Tyson Lane,75724,Gardner Webb
+2023,01/28,Appalachian Open,133,W,MFOR,0 - 0,Joey Melendez,50805,North Carolina,Tyson Lane,75724,Gardner Webb
+2023,01/18,Crusader Throwdown 1.18.2023,133,W,FALL,1:45,Will Cline,74344,Belmont Abbey,Tyson Lane,75724,Gardner Webb
+2023,01/01,Southern Scuffle,133,L,DEC,8 - 2,Dustin Norris,72154,Purdue,Tyson Lane,75724,Gardner Webb
+2023,01/01,Southern Scuffle,133,L,TF5,19 - 4 6:02,Daton Fix,49263,Oklahoma State,Tyson Lane,75724,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,L,DEC,6 - 2,Ben Monn,69708,George Mason,Tyson Lane,75724,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,L,FALL,2:46,Matt Maloney,62920,Lock Haven,Tyson Lane,75724,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,125,W,TF5,18 - 1 4:00,Hale Robinson,70746,Davidson,Tyson Lane,75724,Gardner Webb
+2023,11/12,App State Open,125,W,SV-1,3 - 1,Aedyn Concepcion,69782,Gardner-Webb,Tyson Lane,75724,Gardner Webb
+2023,11/12,App State Open,125,W,DEC,2 - 0,Noah Luna,79081,Appalachian State,Tyson Lane,75724,Gardner Webb
+2023,11/12,App State Open,125,W,DEC,3 - 2,Joe Haynes,73057,Virginia,Tyson Lane,75724,Gardner Webb
+2023,11/06,Clarion Open,125,L,FALL,6:43,Dayton DelViscio,73322,Navy,Tyson Lane,75724,Gardner Webb
+2023,11/06,Clarion Open,125,W,DEC,2 - 0,Kade Orr,73311,Kent State,Tyson Lane,75724,Gardner Webb
+2023,11/06,Clarion Open,125,L,FALL,1:34,Matt Ramos,57134,Purdue,Tyson Lane,75724,Gardner Webb
+2023,11/06,Clarion Open,133,W,FALL,3:57,Constantinos Gourgoulianis,70739,Unattached,Dominic DiTullio,71972,Gardner Webb
+2023,11/06,Clarion Open,133,W,DEC,6 - 2,Jack Martinec,79832,Clarion,Dominic DiTullio,71972,Gardner Webb
+2023,11/06,Clarion Open,133,W,DEC,5 - 0,Cole French,78180,Buffalo,Dominic DiTullio,71972,Gardner Webb
+2023,11/06,Clarion Open,133,L,INJ,1:23,Kurt Phipps,63966,Bucknell,Dominic DiTullio,71972,Gardner Webb
+2023,11/06,Clarion Open,133,L,DEC,7 - 5,Nicky Cabanillas,57513,Brown,Dominic DiTullio,71972,Gardner Webb
+2023,03/04,SoCon Championships,141,L,TB-1,6 - 3,Shannon Hanna,57654,Campbell,Zach Price,50932,Gardner Webb
+2023,03/04,SoCon Championships,141,W,MD,12 - 4,Trenton Donahue,71638,Presbyterian,Zach Price,50932,Gardner Webb
+2023,03/04,SoCon Championships,141,W,DEC,8 - 1,Heath Gonyer,62522,Appalachian State,Zach Price,50932,Gardner Webb
+2023,02/18,Davidson - Gardner-Webb Dual,141,W,TF5,23 - 8 6:19,Joshua Viarengo,71129,Davidson,Zach Price,50932,Gardner Webb
+2023,02/15,Duke - Gardner-Webb Dual,141,W,TF5,19 - 3 5:36,Christian Colman,71684,Duke,Zach Price,50932,Gardner Webb
+2023,02/12,Gardner-Webb - Presbyterian Dual,141,W,DEC,13 - 8,Trenton Donahue,71638,Presbyterian,Zach Price,50932,Gardner Webb
+2023,02/10,Gardner-Webb - Chattanooga Dual,141,W,DEC,6 - 2,Dayne Dalrymple,71790,Chattanooga,Zach Price,50932,Gardner Webb
+2023,02/03,VMI - Gardner-Webb Dual,141,W,MD,12 - 4,Freddy Junko,67430,VMI,Zach Price,50932,Gardner Webb
+2023,01/30,Appalachian State - Gardner-Webb Dual,141,W,DEC,3 - 2,Heath Gonyer,62522,Appalachian State,Zach Price,50932,Gardner Webb
+2023,01/20,The Citadel - Gardner-Webb Dual,141,W,MD,14 - 1,Dillon Roman,78297,The Citadel,Zach Price,50932,Gardner Webb
+2023,01/15,Queens - Gardner-Webb Dual,141,W,TF5,18 - 3 4:54,Melvin Rubio,52204,Queens,Zach Price,50932,Gardner Webb
+2023,01/15,Army - Gardner-Webb Dual,141,W,DEC,9 - 3,Julian Sanchez,57318,Army West Point,Zach Price,50932,Gardner Webb
+2023,01/13,Bellarmine - Gardner-Webb Dual,141,W,FALL,4:17,Chase Hall,78650,Bellarmine,Zach Price,50932,Gardner Webb
+2023,01/07,Nebraska - Gardner-Webb Dual,141,L,DEC,4 - 0,Brock Hardy,51242,Nebraska,Zach Price,50932,Gardner Webb
+2023,01/07,Gardner-Webb - Campbell Dual,141,L,TB-2,2 - 1,Shannon Hanna,57654,Campbell,Zach Price,50932,Gardner Webb
+2023,01/01,Southern Scuffle,141,L,FALL,7:35,Dylan Cedeno,63068,Virginia,Zach Price,50932,Gardner Webb
+2023,01/01,Southern Scuffle,141,L,MD,16 - 6,Angelo Martinoni,57199,CSU Bakersfield,Zach Price,50932,Gardner Webb
+2023,01/01,Southern Scuffle,141,W,DEC,9 - 2,Jarred Papscy,56827,Duke,Zach Price,50932,Gardner Webb
+2023,12/19,Gardner-Webb - Ohio Dual,141,W,DEC,5 - 2,Kyran Hagan,49247,Ohio,Zach Price,50932,Gardner Webb
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,141,W,DEC,4 - 3,Marcel Lopez,78290,SIU Edwardsville,Zach Price,50932,Gardner Webb
+2023,12/16,Clarion - Gardner-Webb Dual,141,L,DEC,6 - 5,Seth Koleno,51157,Clarion,Zach Price,50932,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,141,W,TF5,15 - 0 2:18,David Graves,73328,Navy,Zach Price,50932,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,141,W,MD,12 - 2,Kelly Dunnigan,71694,PRTC,Zach Price,50932,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,141,W,MD,10 - 0,Kenny Duschek,71820,Columbia,Zach Price,50932,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,141,W,DEC,7 - 3,Isaac Byers,62807,Appalachian State,Zach Price,50932,Gardner Webb
+2023,11/12,App State Open,141,W,DEC,4 - 0,Pierce Taylor,78588,Ohio,Zach Price,50932,Gardner Webb
+2023,11/12,App State Open,141,W,MD,14 - 2,Mason Lynch,73312,Kent State,Zach Price,50932,Gardner Webb
+2023,11/12,App State Open,141,W,DEC,7 - 3,Josh Wilson,69722,Greensboro,Zach Price,50932,Gardner Webb
+2023,11/05,Southeast Open,141,L,INJ,6:02,Kyren Butler,72944,Virginia,Zach Price,50932,Gardner Webb
+2023,11/05,Southeast Open,141,L,MFOR,0 - 0,Freddy Junko,67430,VMI,Zach Price,50932,Gardner Webb
+2023,01/28,Appalachian Open,141,W,FALL,6:05,Tyler Garrett,83616,Reinhardt University,Tyler Lamon,79479,Gardner Webb
+2023,01/28,Appalachian Open,141,W,TB-2,4 - 2,Thomas Termini,78550,The Citadel,Tyler Lamon,79479,Gardner Webb
+2023,01/28,Appalachian Open,141,L,DEC,5 - 1,Ryan Luna,72566,Presbyterian,Tyler Lamon,79479,Gardner Webb
+2023,01/28,Appalachian Open,141,W,DEC,7 - 0,Nate Cotroneo,62743,The Citadel,Tyler Lamon,79479,Gardner Webb
+2023,01/28,Appalachian Open,141,L,DEC,6 - 0,Riley Edwards,71715,Appalachian State,Tyler Lamon,79479,Gardner Webb
+2023,01/18,Crusader Throwdown 1.18.2023,141,L,DEC,6 - 4,Luke Kunath,80028,Unattached,Tyler Lamon,79479,Gardner Webb
+2023,01/18,Crusader Throwdown 1.18.2023,141,W,FALL,2:49,Maximus Buico,71051,Belmont Abbey,Tyler Lamon,79479,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,141,L,DEC,3 - 2,Bryce Kresho,78572,Franklin & Marshall,Tyler Lamon,79479,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,141,L,DEC,8 - 1,Isaac Byers,62807,Appalachian State,Tyler Lamon,79479,Gardner Webb
+2023,12/02,Gardner-Webb - Bloomsburg Dual,141,L,MD,8 - 0,Josh Mason,53817,Bloomsburg,Tyler Lamon,79479,Gardner Webb
+2023,12/02,Gardner-Webb - George Mason Dual,141,L,DEC,7 - 1,Anthony Glasl,69714,George Mason,Tyler Lamon,79479,Gardner Webb
+2023,11/12,Appalachian State Invitational,141,L,DEC,7 - 1,Aidan Waszak,73163,Ohio,Tyler Lamon,79479,Gardner Webb
+2023,11/12,Appalachian State Invitational,141,L,MD,14 - 1,Heath Gonyer,62522,Appalachian State,Tyler Lamon,79479,Gardner Webb
+2023,11/06,Clarion Open,141,L,DEC,6 - 0,Billy Meiszner,75815,Kent State,Tyler Lamon,79479,Gardner Webb
+2023,11/06,Clarion Open,141,L,MD,8 - 0,Emory Taylor,72119,Pittsburgh,Tyler Lamon,79479,Gardner Webb
+2023,02/05,Newberry Open,141,L,DEC,6 - 0,Tyler Barb,83981,Reinhardt University,Khamani Harrison,79412,Gardner Webb
+2023,02/05,Newberry Open,141,L,DEC,9 - 3,Raymond Cmil,73243,VMI,Khamani Harrison,79412,Gardner Webb
+2023,01/28,Appalachian Open,141,L,MD,14 - 6,Mitchell Johnson,82055,Unattached,Khamani Harrison,79412,Gardner Webb
+2023,01/28,Appalachian Open,141,L,DEC,9 - 5,Isaac Byers,62807,Appalachian State,Khamani Harrison,79412,Gardner Webb
+2023,01/18,Crusader Throwdown 1.18.2023,141,L,TF5,17 - 2 4:28,Luke Kunath,80028,Unattached,Khamani Harrison,79412,Gardner Webb
+2023,01/18,Crusader Throwdown 1.18.2023,141,L,DEC,9 - 7,Maximus Buico,71051,Belmont Abbey,Khamani Harrison,79412,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,141,L,TF5,16 - 0 2:18,Anthony Glasl,69714,George Mason,Khamani Harrison,79412,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,141,L,MD,10 - 1,Shawn Nonaka,62580,George Mason,Khamani Harrison,79412,Gardner Webb
+2023,11/12,App State Open,141,L,TF5,16 - 1 3:09,Billy Meiszner,75815,Kent State,Khamani Harrison,79412,Gardner Webb
+2023,11/12,App State Open,141,L,TF5,16 - 1 5:00,Riley Edwards,71715,Appalachian State,Khamani Harrison,79412,Gardner Webb
+2023,11/06,Clarion Open,141,L,TF5,15 - 0 3:34,Sean Pitts,79834,Purdue,Khamani Harrison,79412,Gardner Webb
+2023,11/06,Clarion Open,141,L,FALL,4:20,Chad Ozias,78525,Pitt-Johnstown,Khamani Harrison,79412,Gardner Webb
+2023,11/06,Clarion Open,141,W,FALL,6:27,Caden Reamer,74520,Slippery Rock,Khamani Harrison,79412,Gardner Webb
+2023,03/04,SoCon Championships,149,L,MD,12 - 1,Ethan Willis,62074,The Citadel,Parker Corwin,63037,Gardner Webb
+2023,03/04,SoCon Championships,149,L,FALL,2:00,John Millner,50212,Appalachian State,Parker Corwin,63037,Gardner Webb
+2023,02/18,Davidson - Gardner-Webb Dual,149,W,MD,8 - 0,Matthew McLaughlin,70742,Davidson,Parker Corwin,63037,Gardner Webb
+2023,02/15,Duke - Gardner-Webb Dual,149,L,DEC,10 - 3,Patrick Rowland,60597,Duke,Parker Corwin,63037,Gardner Webb
+2023,02/12,Gardner-Webb - Presbyterian Dual,149,L,DEC,3 - 1,Khalid Brinkley,61614,Presbyterian,Parker Corwin,63037,Gardner Webb
+2023,02/10,Gardner-Webb - Chattanooga Dual,149,L,MD,20 - 6,Noah Castillo,67364,Chattanooga,Parker Corwin,63037,Gardner Webb
+2023,02/05,Newberry Open,149,W,FALL,1:25,Kevin Quinn,83984,Keiser,Parker Corwin,63037,Gardner Webb
+2023,02/05,Newberry Open,149,W,FALL,2:15,Cale Goss,83982,Unattached,Parker Corwin,63037,Gardner Webb
+2023,02/05,Newberry Open,149,L,MD,12 - 3,Junior Downing,79070,Lander,Parker Corwin,63037,Gardner Webb
+2023,02/05,Newberry Open,149,W,MFOR,0 - 0,Finn Solomon,73123,NC State,Parker Corwin,63037,Gardner Webb
+2023,02/05,Newberry Open,149,W,DEC,2 - 0,Nico D'Amico,73863,Queens,Parker Corwin,63037,Gardner Webb
+2023,01/28,Appalachian Open,149,L,FALL,0:52,Tommy Curran,77778,NC State,Parker Corwin,63037,Gardner Webb
+2023,01/28,Appalachian Open,149,L,FALL,5:49,Anthony Conetta,79084,Appalachian State,Parker Corwin,63037,Gardner Webb
+2023,01/15,Army Gardner Webb ECM,149,L,TF5,19 - 3 7:00,Thomas Deck,69378,Army West Point,Parker Corwin,63037,Gardner Webb
+2023,01/01,Southern Scuffle,149,L,TF5,16 - 0 4:53,Ethen Miller,70914,Maryland,Parker Corwin,63037,Gardner Webb
+2023,01/01,Southern Scuffle,149,L,DEC,4 - 0,Patrick Rowland,60597,Duke,Parker Corwin,63037,Gardner Webb
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,157,L,FALL,4:45,Alec Peralta,78291,SIU Edwardsville,Parker Corwin,63037,Gardner Webb
+2023,12/16,Clarion - Gardner-Webb Dual,157,L,FALL,3:56,Trevor Elfvin,51017,Clarion,Parker Corwin,63037,Gardner Webb
+2023,11/12,App State Open,149,W,FALL,1:07,Samad Al-Khatib,81385,Mount Olive,Parker Corwin,63037,Gardner Webb
+2023,11/12,App State Open,149,W,DEC,4 - 3,Zachary Soda,72220,Edinboro,Parker Corwin,63037,Gardner Webb
+2023,11/12,App State Open,149,L,MD,14 - 3,Kai O'Dell,79083,Appalachian State,Parker Corwin,63037,Gardner Webb
+2023,11/12,App State Open,149,L,DEC,6 - 0,Nick Grizales,78634,Appalachian State,Parker Corwin,63037,Gardner Webb
+2023,11/05,Southeast Open,149,L,SV-1,8 - 2,Matt Zuckerman,62685,Tiffin University,Parker Corwin,63037,Gardner Webb
+2023,11/05,Southeast Open,149,L,DEC,8 - 1,Jerome Scott,67027,Columbia,Parker Corwin,63037,Gardner Webb
+2023,02/03,VMI - Gardner-Webb Dual,149,L,MD,14 - 3,Ryan Vigil,63624,VMI,Corbin Dion,69783,Gardner Webb
+2023,01/20,The Citadel - Gardner-Webb Dual,149,L,DEC,5 - 4,Ethan Willis,62074,The Citadel,Corbin Dion,69783,Gardner Webb
+2023,01/15,Queens - Gardner-Webb Dual,149,W,DEC,8 - 3,Nico D'Amico,73863,Queens,Corbin Dion,69783,Gardner Webb
+2023,01/15,Army - Gardner-Webb Dual,149,L,MD,14 - 2,Trae McDaniel,71768,Army West Point,Corbin Dion,69783,Gardner Webb
+2023,01/13,Bellarmine - Gardner-Webb Dual,149,L,DEC,13 - 12,Zac Cowan,73532,Bellarmine,Corbin Dion,69783,Gardner Webb
+2023,01/07,Nebraska - Gardner-Webb Dual,149,L,DEC,5 - 2,Blake Cushing,73160,Nebraska,Corbin Dion,69783,Gardner Webb
+2023,01/07,Gardner-Webb - Campbell Dual,149,L,DEC,8 - 2,Chris Rivera,62331,Campbell,Corbin Dion,69783,Gardner Webb
+2023,01/01,Southern Scuffle,149,L,MD,11 - 3,Maxwell Petersen,73016,North Dakota State,Corbin Dion,69783,Gardner Webb
+2023,01/01,Southern Scuffle,149,L,DEC,12 - 6,Michael Zarif,57277,Binghamton,Corbin Dion,69783,Gardner Webb
+2023,12/19,Gardner-Webb - Ohio Dual,149,L,FALL,0:53,Alec Hagan,49248,Ohio,Corbin Dion,69783,Gardner Webb
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,149,L,MD,12 - 4,Caleb Tyus,72912,SIU Edwardsville,Corbin Dion,69783,Gardner Webb
+2023,12/16,Clarion - Gardner-Webb Dual,149,L,DEC,4 - 3,Kyle Schickel,67305,Clarion,Corbin Dion,69783,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,149,L,DEC,6 - 4,Luke Robie,78543,Southeast RTC,Corbin Dion,69783,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,149,W,MFOR,0 - 0,Preston Walls,77589,Virginia Tech,Corbin Dion,69783,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,149,L,TF5,16 - 1 2:46,Devan Moore,63324,Newberry,Corbin Dion,69783,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,149,W,MD,12 - 2,Colin Calvetti,73111,Columbia,Corbin Dion,69783,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,149,W,MD,13 - 1,David Loniewski,57701,Davidson,Corbin Dion,69783,Gardner Webb
+2023,12/02,Gardner-Webb - Bloomsburg Dual,149,W,DEC,11 - 6,William Morrow,79213,Bloomsburg,Corbin Dion,69783,Gardner Webb
+2023,12/02,Gardner-Webb - George Mason Dual,149,L,DEC,7 - 4,DJ McGee,78901,George Mason,Corbin Dion,69783,Gardner Webb
+2023,11/12,Appalachian State Invitational,157,L,FALL,0:21,Daniel Cardenas,72978,Stanford,Corbin Dion,69783,Gardner Webb
+2023,11/12,Appalachian State Invitational,157,L,DEC,10 - 4,Tommy Askey,67040,Appalachian State,Corbin Dion,69783,Gardner Webb
+2023,11/06,Clarion Open,157,L,MD,12 - 4,Benny Rodgers,81116,Spartan Combat RTC,Corbin Dion,69783,Gardner Webb
+2023,11/06,Clarion Open,157,L,MD,14 - 4,Luke Kemerer,50929,Edinboro,Corbin Dion,69783,Gardner Webb
+2023,02/05,Newberry Open,149,L,DEC,5 - 1,Isham Peace,75039,Lander,Sam Harris,78672,Gardner Webb
+2023,02/05,Newberry Open,149,L,FALL,3:48,Cole Luallen,59500,Reinhardt University,Sam Harris,78672,Gardner Webb
+2023,01/28,Appalachian Open,149,L,FALL,1:34,Wil Guida,62410,North Carolina,Sam Harris,78672,Gardner Webb
+2023,01/28,Appalachian Open,149,L,DEC,8 - 2,Matthew Williams,69865,Chattanooga,Sam Harris,78672,Gardner Webb
+2023,01/18,Crusader Throwdown 1.18.2023,149,L,FALL,4:45,Bryson Bench,81558,Belmont Abbey,Sam Harris,78672,Gardner Webb
+2023,01/18,Crusader Throwdown 1.18.2023,149,L,FALL,1:40,David Panone,80029,Belmont Abbey,Sam Harris,78672,Gardner Webb
+2023,11/12,Appalachian State Invitational,149,L,FALL,0:52,Alec Hagan,49248,Ohio,Sam Harris,78672,Gardner Webb
+2023,11/12,Appalachian State Invitational,149,W,MFOR,0 - 0,Ryan Burgos,63141,Edinboro,Sam Harris,78672,Gardner Webb
+2023,11/12,Appalachian State Invitational,149,L,FALL,1:06,John Millner,50212,Appalachian State,Sam Harris,78672,Gardner Webb
+2023,11/06,Clarion Open,149,W,DEC,8 - 6,Tyler Merritt,81115,Slippery Rock,Sam Harris,78672,Gardner Webb
+2023,11/06,Clarion Open,149,L,TF5,16 - 0 4:20,Kelin Laffey,78143,Pittsburgh,Sam Harris,78672,Gardner Webb
+2023,11/06,Clarion Open,149,W,DEC,3 - 2,Jake Pail,62853,Edinboro,Sam Harris,78672,Gardner Webb
+2023,11/06,Clarion Open,149,L,DEC,7 - 1,Shermuhammad Sadriddinov,79833,Clarion,Sam Harris,78672,Gardner Webb
+2023,03/04,SoCon Championships,157,L,MD,12 - 3,Tucker Allen,69724,The Citadel,Tyler Brignola,73727,Gardner Webb
+2023,03/04,SoCon Championships,157,L,TF5,16 - 0 2:53,Troy Nation,57189,Campbell,Tyler Brignola,73727,Gardner Webb
+2023,02/18,Davidson - Gardner-Webb Dual,157,L,MD,14 - 1,Tanner Peake,78288,Davidson,Tyler Brignola,73727,Gardner Webb
+2023,02/15,Duke - Gardner-Webb Dual,157,W,DEC,5 - 2,Logan Ferrero,74330,Duke,Tyler Brignola,73727,Gardner Webb
+2023,02/12,Gardner-Webb - Presbyterian Dual,157,W,MD,8 - 0,Michael Ramirez,69874,Presbyterian,Tyler Brignola,73727,Gardner Webb
+2023,02/10,Gardner-Webb - Chattanooga Dual,157,L,DEC,3 - 1,Lincoln Heck,66629,Chattanooga,Tyler Brignola,73727,Gardner Webb
+2023,02/03,VMI - Gardner-Webb Dual,157,L,MD,10 - 1,Jobe Chishko,56805,VMI,Tyler Brignola,73727,Gardner Webb
+2023,01/30,Appalachian State - Gardner-Webb Dual,157,L,TF5,23 - 7 7:00,Tommy Askey,67040,Appalachian State,Tyler Brignola,73727,Gardner Webb
+2023,01/20,The Citadel - Gardner-Webb Dual,157,L,DEC,8 - 4,Thomas Snipes,73714,The Citadel,Tyler Brignola,73727,Gardner Webb
+2023,01/15,Queens - Gardner-Webb Dual,157,W,FALL,2:16,Toure Moore,73864,Queens,Tyler Brignola,73727,Gardner Webb
+2023,01/15,Army - Gardner-Webb Dual,157,L,MD,13 - 3,Nathan Lukez,69377,Army West Point,Tyler Brignola,73727,Gardner Webb
+2023,01/13,Bellarmine - Gardner-Webb Dual,157,L,SV-1,3 - 1,Grant O'Dell,78484,Bellarmine,Tyler Brignola,73727,Gardner Webb
+2023,01/07,Nebraska - Gardner-Webb Dual,157,L,TF5,16 - 1 2:57,Peyton Robb,56387,Nebraska,Tyler Brignola,73727,Gardner Webb
+2023,01/01,Southern Scuffle,157,L,MD,14 - 6,Charlie Darracott,62985,Stanford,Tyler Brignola,73727,Gardner Webb
+2023,01/01,Southern Scuffle,157,L,MD,10 - 0,Michael North,57335,Maryland,Tyler Brignola,73727,Gardner Webb
+2023,12/19,Gardner-Webb - Ohio Dual,157,L,TF5,15 - 0 7:00,Peyten Kellar,73168,Ohio,Tyler Brignola,73727,Gardner Webb
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,165,L,MD,15 - 5,Cardeionte Wilson,67405,SIU Edwardsville,Tyler Brignola,73727,Gardner Webb
+2023,12/16,Clarion - Gardner-Webb Dual,165,L,TF5,16 - 1 7:00,Cameron Pine,57196,Clarion,Tyler Brignola,73727,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,157,W,FALL,4:00,Aidan Lambert,78197,Newberry,Tyler Brignola,73727,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,157,L,DEC,5 - 4,Nolan Wheeler,69430,Newberry,Tyler Brignola,73727,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,157,L,DEC,3 - 2,Clayton Ulrey,62889,Virginia Tech,Tyler Brignola,73727,Gardner Webb
+2023,12/02,Gardner-Webb - Bloomsburg Dual,157,L,DEC,4 - 3,Cade Balestrini,62514,Bloomsburg,Tyler Brignola,73727,Gardner Webb
+2023,12/02,Gardner-Webb - George Mason Dual,157,L,MD,20 - 9,Peter Pappas,49131,George Mason,Tyler Brignola,73727,Gardner Webb
+2023,11/12,Appalachian State Invitational,157,L,DEC,8 - 3,Luke Kemerer,50929,Edinboro,Tyler Brignola,73727,Gardner Webb
+2023,11/12,Appalachian State Invitational,157,L,TF5,18 - 3 5:39,Cody Bond,50267,Appalachian State,Tyler Brignola,73727,Gardner Webb
+2023,11/12,Appalachian State Invitational,157,W,DEC,5 - 1,Colton Woods,61835,Air Force,Tyler Brignola,73727,Gardner Webb
+2023,11/06,Clarion Open,157,W,MD,8 - 0,Reece Goss,79793,Kent State,Tyler Brignola,73727,Gardner Webb
+2023,11/06,Clarion Open,157,L,DEC,5 - 1,Jack Pletcher,76351,Pittsburgh,Tyler Brignola,73727,Gardner Webb
+2023,11/06,Clarion Open,157,L,DEC,7 - 4,Kyler Crawford,74006,Pitt-Johnstown,Tyler Brignola,73727,Gardner Webb
+2023,03/16,NCAA Championships,165,L,DEC,6 - 1,Matthew Olguin,57218,Oregon State,Rodrick Mosley,50889,Gardner Webb
+2023,03/16,NCAA Championships,165,L,DEC,1 - 0,Shane Griffith,49991,Stanford,Rodrick Mosley,50889,Gardner Webb
+2023,03/04,SoCon Championships,165,W,DEC,3 - 1,William Formato,57034,Appalachian State,Rodrick Mosley,50889,Gardner Webb
+2023,03/04,SoCon Championships,165,W,MD,11 - 3,Ty Chittum,74566,Presbyterian,Rodrick Mosley,50889,Gardner Webb
+2023,03/04,SoCon Championships,165,W,TB-1,4 - 1,Weston Wichman,58537,Chattanooga,Rodrick Mosley,50889,Gardner Webb
+2023,02/18,Davidson - Gardner-Webb Dual,165,W,DEC,7 - 2,Bryce Sanderlin,63711,Davidson,Rodrick Mosley,50889,Gardner Webb
+2023,02/15,Duke - Gardner-Webb Dual,165,W,MD,13 - 5,Gabe Dinette,51191,Duke,Rodrick Mosley,50889,Gardner Webb
+2023,02/12,Gardner-Webb - Presbyterian Dual,165,W,TF5,18 - 3 6:18,Ty Chittum,74566,Presbyterian,Rodrick Mosley,50889,Gardner Webb
+2023,02/10,Gardner-Webb - Chattanooga Dual,165,W,MD,16 - 5,Kamdyn Munro,71789,Chattanooga,Rodrick Mosley,50889,Gardner Webb
+2023,02/03,VMI - Gardner-Webb Dual,165,W,DEC,3 - 1,Braxton Lewis,78474,VMI,Rodrick Mosley,50889,Gardner Webb
+2023,01/30,Appalachian State - Gardner-Webb Dual,165,L,SV-1,2 - 1,William Formato,57034,Appalachian State,Rodrick Mosley,50889,Gardner Webb
+2023,01/20,The Citadel - Gardner-Webb Dual,165,W,FALL,3:32,Brodie Porter,79293,The Citadel,Rodrick Mosley,50889,Gardner Webb
+2023,01/15,Queens - Gardner-Webb Dual,165,W,DEC,8 - 1,Vladimir Sukhikh,79825,Queens,Rodrick Mosley,50889,Gardner Webb
+2023,01/15,Army - Gardner-Webb Dual,165,W,DEC,5 - 2,Dalton Harkins,65872,Army West Point,Rodrick Mosley,50889,Gardner Webb
+2023,01/13,Bellarmine - Gardner-Webb Dual,165,W,DEC,5 - 2,Cole Nance,73533,Bellarmine,Rodrick Mosley,50889,Gardner Webb
+2023,01/07,Nebraska - Gardner-Webb Dual,165,W,SV-1,4 - 2,Bubba Wilson,57936,Nebraska,Rodrick Mosley,50889,Gardner Webb
+2023,01/07,Gardner-Webb - Campbell Dual,165,W,SV-2,3 - 2,Domonic Baker,71742,Campbell,Rodrick Mosley,50889,Gardner Webb
+2023,12/19,Gardner-Webb - Ohio Dual,165,W,TB-2,2 - 1,Jordan Slivka,57602,Ohio,Rodrick Mosley,50889,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,165,W,MD,12 - 3,Ty Finn,72150,Virginia Tech,Rodrick Mosley,50889,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,165,W,TB-2,2 - 1,Avery Bassett,71835,Lock Haven,Rodrick Mosley,50889,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,165,W,DEC,4 - 3,Drew Dickson,62581,George Mason,Rodrick Mosley,50889,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,165,W,DEC,8 - 3,Jaden Hardrick,65048,Davidson,Rodrick Mosley,50889,Gardner Webb
+2023,12/02,Gardner-Webb - Bloomsburg Dual,165,W,TF5,18 - 2 4:12,Josh Bonomo,74512,Bloomsburg,Rodrick Mosley,50889,Gardner Webb
+2023,12/02,Gardner-Webb - George Mason Dual,165,W,DEC,10 - 5,Drew Dickson,62581,George Mason,Rodrick Mosley,50889,Gardner Webb
+2023,11/12,Appalachian State Invitational,165,W,DEC,6 - 4,Enrique Munguia,73500,Kent State,Rodrick Mosley,50889,Gardner Webb
+2023,11/12,Appalachian State Invitational,165,L,DEC,6 - 3,Enrique Munguia,73500,Kent State,Rodrick Mosley,50889,Gardner Webb
+2023,11/12,Appalachian State Invitational,165,L,DEC,3 - 2,Shane Griffith,49991,Stanford,Rodrick Mosley,50889,Gardner Webb
+2023,11/12,Appalachian State Invitational,165,W,TB-2,3 - 2,Giano Petrucelli,62610,Air Force,Rodrick Mosley,50889,Gardner Webb
+2023,11/06,Clarion Open,165,W,DEC,5 - 2,Roberto Padilla,81108,Spartan Combat RTC,Rodrick Mosley,50889,Gardner Webb
+2023,11/06,Clarion Open,165,W,MD,10 - 1,Max Kirby,78782,Edinboro,Rodrick Mosley,50889,Gardner Webb
+2023,11/06,Clarion Open,165,L,TB-2,5 - 4,Jared Keslar,72953,Pittsburgh,Rodrick Mosley,50889,Gardner Webb
+2023,11/06,Clarion Open,165,W,MD,11 - 1,Stoney Buell,72153,Purdue,Rodrick Mosley,50889,Gardner Webb
+2023,11/06,Clarion Open,165,L,DEC,10 - 7,Gaven Bell,72136,Maryland,Rodrick Mosley,50889,Gardner Webb
+2023,11/06,Clarion Open,165,W,DEC,5 - 0,Ayden Miller,72194,Clarion,Rodrick Mosley,50889,Gardner Webb
+2023,03/04,SoCon Championships,174,L,DEC,4 - 1,Jon Hoover,57525,VMI,Andrew Wilson,73732,Gardner Webb
+2023,03/04,SoCon Championships,174,L,FALL,4:03,Rocky Jordan,50928,Chattanooga,Andrew Wilson,73732,Gardner Webb
+2023,02/18,Davidson - Gardner-Webb Dual,174,W,SV-1,3 - 1,Anthony Spera,62879,Davidson,Andrew Wilson,73732,Gardner Webb
+2023,02/15,Duke - Gardner-Webb Dual,174,W,DEC,7 - 4,Nick Tattini,79009,Duke,Andrew Wilson,73732,Gardner Webb
+2023,02/12,Gardner-Webb - Presbyterian Dual,174,L,DEC,6 - 2,Zachary Wells,67829,Presbyterian,Andrew Wilson,73732,Gardner Webb
+2023,02/10,Gardner-Webb - Chattanooga Dual,174,L,FALL,1:15,Rocky Jordan,50928,Chattanooga,Andrew Wilson,73732,Gardner Webb
+2023,02/03,VMI - Gardner-Webb Dual,174,L,DEC,3 - 2,Jon Hoover,57525,VMI,Andrew Wilson,73732,Gardner Webb
+2023,01/30,Appalachian State - Gardner-Webb Dual,174,L,TF5,22 - 7 7:00,Will Miller,73102,Appalachian State,Andrew Wilson,73732,Gardner Webb
+2023,01/20,The Citadel - Gardner-Webb Dual,174,L,DEC,8 - 7,Benjamin Haubert,71286,The Citadel,Andrew Wilson,73732,Gardner Webb
+2023,01/15,Queens - Gardner-Webb Dual,174,W,DEC,14 - 7,JT Skalecki,62062,Queens,Andrew Wilson,73732,Gardner Webb
+2023,01/15,Army - Gardner-Webb Dual,174,L,FALL,0:30,Ben Pasiuk,57286,Army West Point,Andrew Wilson,73732,Gardner Webb
+2023,01/13,Bellarmine - Gardner-Webb Dual,174,L,MD,12 - 3,Devan Hendricks,62787,Bellarmine,Andrew Wilson,73732,Gardner Webb
+2023,01/07,Nebraska - Gardner-Webb Dual,174,L,TF5,17 - 2 4:56,Michael Labriola,49207,Nebraska,Andrew Wilson,73732,Gardner Webb
+2023,01/07,Gardner-Webb - Campbell Dual,174,L,DEC,5 - 2,Cole Rees,71005,Campbell,Andrew Wilson,73732,Gardner Webb
+2023,01/01,Southern Scuffle,174,L,DEC,8 - 4,Conor Becker,69858,Duke,Andrew Wilson,73732,Gardner Webb
+2023,01/01,Southern Scuffle,174,L,DEC,4 - 0,Macartney Parkinson,67304,Purdue,Andrew Wilson,73732,Gardner Webb
+2023,12/19,Gardner-Webb - Ohio Dual,174,L,DEC,10 - 4,Sal Perrine,73171,Ohio,Andrew Wilson,73732,Gardner Webb
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,174,L,MD,8 - 0,Chase Diehl,60388,SIU Edwardsville,Andrew Wilson,73732,Gardner Webb
+2023,12/16,Clarion - Gardner-Webb Dual,174,L,MD,10 - 2,John Worthing,61847,Clarion,Andrew Wilson,73732,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,174,W,MD,14 - 4,Cole Tolley,83141,Unattached,Andrew Wilson,73732,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,174,L,DEC,11 - 4,Isaac Dean,72506,Rider,Andrew Wilson,73732,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,174,L,DEC,3 - 2,Jeremy Seymour,62586,George Mason,Andrew Wilson,73732,Gardner Webb
+2023,12/02,Gardner-Webb - Bloomsburg Dual,174,W,DEC,3 - 2,Anthony Derosa,74515,Bloomsburg,Andrew Wilson,73732,Gardner Webb
+2023,12/02,Gardner-Webb - George Mason Dual,174,L,DEC,9 - 5,Logan Messer,71846,George Mason,Andrew Wilson,73732,Gardner Webb
+2023,11/06,Clarion Open,174,L,DEC,6 - 1,Carson Miller,79338,Pittsburgh,Andrew Wilson,73732,Gardner Webb
+2023,11/06,Clarion Open,174,W,DEC,11 - 4,Tony Salopek,74007,Pitt-Johnstown,Andrew Wilson,73732,Gardner Webb
+2023,11/06,Clarion Open,174,L,FALL,2:22,Sammy Starr,73336,Navy,Andrew Wilson,73732,Gardner Webb
+2023,11/06,Clarion Open,174,W,DEC,6 - 4,Nick Olivieri,76389,Brown,Andrew Wilson,73732,Gardner Webb
+2023,03/16,NCAA Championships,184,L,MD,12 - 1,Jacob Nolan,62415,Binghamton,Jha'Quan Anderson,62407,Gardner Webb
+2023,03/16,NCAA Championships,184,W,DEC,3 - 1,Matthew Waddell,49259,Chattanooga,Jha'Quan Anderson,62407,Gardner Webb
+2023,03/16,NCAA Championships,184,L,SV-1,5 - 3,Anthony Carman,62423,West Virginia,Jha'Quan Anderson,62407,Gardner Webb
+2023,03/04,SoCon Championships,184,L,DEC,4 - 0,Caleb Hopkins,56482,Campbell,Jha'Quan Anderson,62407,Gardner Webb
+2023,03/04,SoCon Championships,184,W,DEC,4 - 1,Zach Brown,62390,VMI,Jha'Quan Anderson,62407,Gardner Webb
+2023,03/04,SoCon Championships,184,W,DEC,3 - 2,Matthew Waddell,49259,Chattanooga,Jha'Quan Anderson,62407,Gardner Webb
+2023,02/18,Davidson - Gardner-Webb Dual,184,W,DEC,6 - 2,Cameo Blankenship,79784,Davidson,Jha'Quan Anderson,62407,Gardner Webb
+2023,02/15,Duke - Gardner-Webb Dual,184,W,DEC,10 - 4,Luke Chakonis,65933,Duke,Jha'Quan Anderson,62407,Gardner Webb
+2023,02/12,Gardner-Webb - Presbyterian Dual,184,W,DEC,5 - 2,Cordell Duhart,56938,Presbyterian,Jha'Quan Anderson,62407,Gardner Webb
+2023,02/10,Gardner-Webb - Chattanooga Dual,184,W,SV-1,3 - 1,Matthew Waddell,49259,Chattanooga,Jha'Quan Anderson,62407,Gardner Webb
+2023,02/03,VMI - Gardner-Webb Dual,184,W,DEC,6 - 1,Zach Brown,62390,VMI,Jha'Quan Anderson,62407,Gardner Webb
+2023,01/30,Appalachian State - Gardner-Webb Dual,184,W,SV-1,3 - 1,Lucas Uliano,71130,Appalachian State,Jha'Quan Anderson,62407,Gardner Webb
+2023,01/20,The Citadel - Gardner-Webb Dual,184,W,MD,14 - 1,Micah Dicarlo,73053,The Citadel,Jha'Quan Anderson,62407,Gardner Webb
+2023,01/15,Queens - Gardner-Webb Dual,184,W,TF5,15 - 0 3:16,D'Andree Hunt,79826,Queens,Jha'Quan Anderson,62407,Gardner Webb
+2023,01/15,Army - Gardner-Webb Dual,184,W,DEC,5 - 4,Sahm AbdulRazzaq,58214,Army West Point,Jha'Quan Anderson,62407,Gardner Webb
+2023,01/13,Bellarmine - Gardner-Webb Dual,184,W,DEC,4 - 0,Kennedy Wyatt,79333,Bellarmine,Jha'Quan Anderson,62407,Gardner Webb
+2023,01/07,Nebraska - Gardner-Webb Dual,184,L,FALL,1:24,Lenny Pinto,63137,Nebraska,Jha'Quan Anderson,62407,Gardner Webb
+2023,01/07,Gardner-Webb - Campbell Dual,184,L,DEC,2 - 1,Caleb Hopkins,56482,Campbell,Jha'Quan Anderson,62407,Gardner Webb
+2023,01/01,Southern Scuffle,184,L,DEC,6 - 4,Mason Diel,73207,Little Rock,Jha'Quan Anderson,62407,Gardner Webb
+2023,01/01,Southern Scuffle,184,W,DEC,6 - 3,Jack Wimmer,69859,Duke,Jha'Quan Anderson,62407,Gardner Webb
+2023,01/01,Southern Scuffle,184,L,DEC,5 - 4,Colton Hawks,62375,Missouri,Jha'Quan Anderson,62407,Gardner Webb
+2023,12/19,Gardner-Webb - Ohio Dual,184,L,DEC,3 - 1,Zayne Lehman,71781,Ohio,Jha'Quan Anderson,62407,Gardner Webb
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,184,W,SV-1,3 - 1,Micah Ervin,69866,SIU Edwardsville,Jha'Quan Anderson,62407,Gardner Webb
+2023,12/16,Clarion - Gardner-Webb Dual,184,L,DEC,7 - 3,Will Feldkamp,51599,Clarion,Jha'Quan Anderson,62407,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,184,L,DEC,4 - 3,Tyler Kocak,69715,George Mason,Jha'Quan Anderson,62407,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,184,W,MD,18 - 4,Joe Zovistoski,73103,Appalachian State,Jha'Quan Anderson,62407,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,184,W,DEC,6 - 1,Dalton Battle,73100,Appalachian State,Jha'Quan Anderson,62407,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,184,W,MD,9 - 1,Carston Rawls,72684,American,Jha'Quan Anderson,62407,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,184,W,DEC,6 - 1,Cameo Blankenship,79784,Davidson,Jha'Quan Anderson,62407,Gardner Webb
+2023,12/02,Gardner-Webb - Bloomsburg Dual,184,W,MD,11 - 3,David Tuttle,67654,Bloomsburg,Jha'Quan Anderson,62407,Gardner Webb
+2023,12/02,Gardner-Webb - George Mason Dual,184,L,DEC,3 - 2,Malachi Duvall,72189,George Mason,Jha'Quan Anderson,62407,Gardner Webb
+2023,11/12,Appalachian State Invitational,184,L,DEC,10 - 5,Brook Byers,77775,Stanford,Jha'Quan Anderson,62407,Gardner Webb
+2023,11/12,Appalachian State Invitational,184,W,DEC,6 - 4,Jack Darrah,73242,Stanford,Jha'Quan Anderson,62407,Gardner Webb
+2023,11/12,Appalachian State Invitational,184,L,MD,11 - 3,Hadyn Danals,73055,Virginia,Jha'Quan Anderson,62407,Gardner Webb
+2023,11/12,Appalachian State Invitational,184,W,MD,12 - 1,Andrew Wenzel,71713,Air Force,Jha'Quan Anderson,62407,Gardner Webb
+2023,11/12,Appalachian State Invitational,184,L,DEC,3 - 2,Noah Blake,57245,Air Force,Jha'Quan Anderson,62407,Gardner Webb
+2023,11/06,Clarion Open,184,W,TF5,18 - 2 4:13,Anthony Bradley,79091,Maryland,Jha'Quan Anderson,62407,Gardner Webb
+2023,11/06,Clarion Open,184,W,DEC,10 - 4,Aiden Hanning,74562,Spartan Combat RTC,Jha'Quan Anderson,62407,Gardner Webb
+2023,11/06,Clarion Open,184,W,DEC,10 - 8,James Lledo,69571,Pittsburgh,Jha'Quan Anderson,62407,Gardner Webb
+2023,11/06,Clarion Open,184,L,DEC,5 - 4,Nick Meglino,62803,Pittsburgh,Jha'Quan Anderson,62407,Gardner Webb
+2023,11/06,Clarion Open,184,L,DEC,3 - 1,David Key,56717,Navy,Jha'Quan Anderson,62407,Gardner Webb
+2023,11/06,Clarion Open,184,W,MD,15 - 2,Riley Godek,78722,Bucknell,Jha'Quan Anderson,62407,Gardner Webb
+2023,11/06,Clarion Open,197,W,DEC,7 - 6,Joshua McCutchen,75730,Gardner-Webb,Jeffrey Geller,61952,Gardner Webb
+2023,11/06,Clarion Open,197,L,FALL,1:48,Mac Stout,72505,Pittsburgh,Jeffrey Geller,61952,Gardner Webb
+2023,11/06,Clarion Open,197,L,MFOR,0 - 0,Jacob Lucas,72192,Navy,Jeffrey Geller,61952,Gardner Webb
+2023,02/05,Newberry Open,184,W,TF5,18 - 0 7:00,John Hetrick,83753,Unattached,Joseph Pargoe,71973,Gardner Webb
+2023,02/05,Newberry Open,184,L,MD,10 - 1,Carson Tenold,78585,North Carolina,Joseph Pargoe,71973,Gardner Webb
+2023,02/05,Newberry Open,184,W,FALL,4:32,Andrew Macchiavello,77777,NC State,Joseph Pargoe,71973,Gardner Webb
+2023,02/05,Newberry Open,184,L,DEC,7 - 3,Nathan Buckovich,75063,Lander,Joseph Pargoe,71973,Gardner Webb
+2023,01/28,Appalachian Open,184,W,SV-1,8 - 6,Marquez Hunt,81437,Reinhardt University,Joseph Pargoe,71973,Gardner Webb
+2023,01/28,Appalachian Open,184,L,FALL,1:06,Hunter Adams,75723,Appalachian State,Joseph Pargoe,71973,Gardner Webb
+2023,01/28,Appalachian Open,184,L,TF5,15 - 0 3:35,Sergio Desiante,78495,Chattanooga,Joseph Pargoe,71973,Gardner Webb
+2023,01/15,Army Gardner Webb ECM,184,L,DEC,10 - 4,Walker Stephenson,73369,Army West Point,Joseph Pargoe,71973,Gardner Webb
+2023,01/01,Southern Scuffle,184,L,MD,12 - 2,Mason Diel,73207,Little Rock,Joseph Pargoe,71973,Gardner Webb
+2023,01/01,Southern Scuffle,184,L,FALL,4:50,Ben Vanadia,68732,Purdue,Joseph Pargoe,71973,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,184,L,MD,16 - 3,Dalton Battle,73100,Appalachian State,Joseph Pargoe,71973,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,184,L,DEC,7 - 3,Carston Rawls,72684,American,Joseph Pargoe,71973,Gardner Webb
+2023,03/04,SoCon Championships,197,L,MD,12 - 2,Malcolm Wiley,62915,Presbyterian,Samuel Mora,62408,Gardner Webb
+2023,03/04,SoCon Championships,197,W,DEC,8 - 2,Gavin Henry,61929,Davidson,Samuel Mora,62408,Gardner Webb
+2023,03/04,SoCon Championships,197,L,DEC,5 - 2,Jake Boyd,49260,Chattanooga,Samuel Mora,62408,Gardner Webb
+2023,02/18,Davidson - Gardner-Webb Dual,197,W,DEC,5 - 0,Gavin Henry,61929,Davidson,Samuel Mora,62408,Gardner Webb
+2023,02/15,Duke - Gardner-Webb Dual,197,L,DEC,6 - 2,Vincent Baker,56930,Duke,Samuel Mora,62408,Gardner Webb
+2023,02/12,Gardner-Webb - Presbyterian Dual,197,W,DEC,5 - 0,David Bertrand,73013,Presbyterian,Samuel Mora,62408,Gardner Webb
+2023,02/10,Gardner-Webb - Chattanooga Dual,197,W,DEC,9 - 3,Jake Boyd,49260,Chattanooga,Samuel Mora,62408,Gardner Webb
+2023,02/03,VMI - Gardner-Webb Dual,197,W,DEC,5 - 0,Tyler Mousaw,67432,VMI,Samuel Mora,62408,Gardner Webb
+2023,01/30,Appalachian State - Gardner-Webb Dual,197,L,DEC,5 - 2,Carson Floyd,78561,Appalachian State,Samuel Mora,62408,Gardner Webb
+2023,01/20,The Citadel - Gardner-Webb Dual,197,W,DEC,8 - 6,Mark Chaid,51294,The Citadel,Samuel Mora,62408,Gardner Webb
+2023,01/15,Queens - Gardner-Webb Dual,197,W,TF5,18 - 3 4:03,Riley Kuhn,72235,Queens,Samuel Mora,62408,Gardner Webb
+2023,01/15,Army - Gardner-Webb Dual,197,W,DEC,3 - 1,Kyle Swartz,65875,Army West Point,Samuel Mora,62408,Gardner Webb
+2023,01/13,Bellarmine - Gardner-Webb Dual,197,W,MD,13 - 4,Royce Hall,79331,Bellarmine,Samuel Mora,62408,Gardner Webb
+2023,01/07,Nebraska - Gardner-Webb Dual,197,L,FALL,2:08,Silas Allred,62343,Nebraska,Samuel Mora,62408,Gardner Webb
+2023,01/07,Gardner-Webb - Campbell Dual,197,L,TF5,24 - 9 6:34,Levi Hopkins,62508,Campbell,Samuel Mora,62408,Gardner Webb
+2023,01/01,Southern Scuffle,197,L,DEC,9 - 3,TJ Stewart,74569,Virginia Tech,Samuel Mora,62408,Gardner Webb
+2023,01/01,Southern Scuffle,197,W,DEC,7 - 5,Hayden Filipovich,71689,Purdue,Samuel Mora,62408,Gardner Webb
+2023,01/01,Southern Scuffle,197,L,FALL,1:23,Spencer Mooberry,69967,North Dakota State,Samuel Mora,62408,Gardner Webb
+2023,12/19,Gardner-Webb - Ohio Dual,197,L,DEC,9 - 7,Carson Brewer,60286,Ohio,Samuel Mora,62408,Gardner Webb
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,197,W,SV-1,10 - 8,Ryan Yarnell,57006,SIU Edwardsville,Samuel Mora,62408,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,197,L,FALL,1:05,Jon List,71833,George Mason,Samuel Mora,62408,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,197,W,TF5,17 - 1 6:47,Paul Warner,70147,Navy,Samuel Mora,62408,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,197,L,MFOR,0 - 0,Ike Schmidt,78993,Columbia,Samuel Mora,62408,Gardner Webb
+2023,12/02,Gardner-Webb - Bloomsburg Dual,197,W,DEC,5 - 1,Tanner Culver,62461,Bloomsburg,Samuel Mora,62408,Gardner Webb
+2023,12/02,Gardner-Webb - George Mason Dual,197,L,DEC,3 - 2,Tyler Kocak,69715,George Mason,Samuel Mora,62408,Gardner Webb
+2023,11/12,Appalachian State Invitational,197,L,FALL,5:22,Austin Starr,76357,Ohio,Samuel Mora,62408,Gardner Webb
+2023,11/12,Appalachian State Invitational,197,L,FALL,3:52,Austin Starr,76357,Ohio,Samuel Mora,62408,Gardner Webb
+2023,11/12,Appalachian State Invitational,197,W,DEC,6 - 4,Ryan Boyle,62134,Kent State,Samuel Mora,62408,Gardner Webb
+2023,11/12,Appalachian State Invitational,197,W,DEC,7 - 3,Calvin Sund,57634,Air Force,Samuel Mora,62408,Gardner Webb
+2023,11/06,Clarion Open,197,W,TF5,16 - 0 1:54,Andy Rosa,81117,Spartan Combat RTC,Samuel Mora,62408,Gardner Webb
+2023,11/06,Clarion Open,197,W,DEC,10 - 4,Ryan Boyle,62134,Kent State,Samuel Mora,62408,Gardner Webb
+2023,11/06,Clarion Open,197,L,FALL,1:34,Jake Koser,50890,Navy,Samuel Mora,62408,Gardner Webb
+2023,11/06,Clarion Open,197,L,MD,9 - 1,Michael Bartush,72602,Bucknell,Samuel Mora,62408,Gardner Webb
+2023,02/05,Newberry Open,197,W,DEC,7 - 4,Quintez Shipman,82314,UNC Pembroke,Joshua McCutchen,75730,Gardner Webb
+2023,02/05,Newberry Open,197,W,MD,10 - 2,Austin Cain,81447,Unattached,Joshua McCutchen,75730,Gardner Webb
+2023,02/05,Newberry Open,197,L,MFOR,0 - 0,Franklin Rivero,80034,St Andrews,Joshua McCutchen,75730,Gardner Webb
+2023,02/05,Newberry Open,197,L,DEC,4 - 3,Kyle McGill,76718,Reinhardt University,Joshua McCutchen,75730,Gardner Webb
+2023,02/05,Newberry Open,197,W,DEC,8 - 6,Garrett Steele,71015,UNC Pembroke,Joshua McCutchen,75730,Gardner Webb
+2023,02/05,Newberry Open,197,W,MFOR,0 - 0,Christian Knop,57096,NC State,Joshua McCutchen,75730,Gardner Webb
+2023,01/28,Appalachian Open,197,W,TF5,15 - 0 3:23,Mathew Catania,80553,Greensboro,Joshua McCutchen,75730,Gardner Webb
+2023,01/28,Appalachian Open,197,W,FALL,1:58,George Hopkins,80040,Presbyterian,Joshua McCutchen,75730,Gardner Webb
+2023,01/28,Appalachian Open,197,L,TF5,20 - 5 7:00,Cade Lautt,69676,North Carolina,Joshua McCutchen,75730,Gardner Webb
+2023,01/28,Appalachian Open,197,W,INJ,1:38,Nicholas Benton,62490,Chattanooga,Joshua McCutchen,75730,Gardner Webb
+2023,01/01,Southern Scuffle,197,L,DEC,7 - 2,TJ Stewart,74569,Virginia Tech,Joshua McCutchen,75730,Gardner Webb
+2023,01/01,Southern Scuffle,197,W,FALL,2:06,Jesse Cassat,73384,Missouri,Joshua McCutchen,75730,Gardner Webb
+2023,01/01,Southern Scuffle,197,L,TF5,16 - 1 7:00,Louie DePrez,49046,Binghamton,Joshua McCutchen,75730,Gardner Webb
+2023,12/16,Clarion - Gardner-Webb Dual,197,L,MD,9 - 1,Tyler Bagoly,49098,Clarion,Joshua McCutchen,75730,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,197,L,MD,10 - 2,Brad Morrison,78739,Lock Haven,Joshua McCutchen,75730,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,197,W,DEC,13 - 6,John Parker-wilson,74335,Newberry,Joshua McCutchen,75730,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,197,W,FALL,6:08,Kaleb Snodgrass,64676,Lock Haven,Joshua McCutchen,75730,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,197,W,MD,12 - 3,Ike Schmidt,78993,Columbia,Joshua McCutchen,75730,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,197,L,MD,12 - 1,Gavin Henry,61929,Davidson,Joshua McCutchen,75730,Gardner Webb
+2023,11/12,App State Open,197,W,INJ,7:00,Mathew Catania,80553,Greensboro,Joshua McCutchen,75730,Gardner Webb
+2023,11/12,App State Open,197,W,TF5,22 - 5 7:00,Miles Ashbaugh,79796,Kent State,Joshua McCutchen,75730,Gardner Webb
+2023,11/12,App State Open,197,L,DEC,4 - 0,Carson Floyd,78561,Appalachian State,Joshua McCutchen,75730,Gardner Webb
+2023,11/06,Clarion Open,197,L,DEC,7 - 6,Jeffrey Geller,61952,Gardner-Webb,Joshua McCutchen,75730,Gardner Webb
+2023,11/06,Clarion Open,197,W,MD,11 - 3,Spencer Vos,79798,Kent State,Joshua McCutchen,75730,Gardner Webb
+2023,11/06,Clarion Open,197,L,DEC,8 - 1,Hayden Filipovich,71689,Purdue,Joshua McCutchen,75730,Gardner Webb
+2023,03/04,SoCon Championships,285,L,DEC,6 - 0,Jonathan Chesser,73052,The Citadel,Abraham Preston,73731,Gardner Webb
+2023,03/04,SoCon Championships,285,L,DEC,6 - 0,Jake Fernicola,62822,Davidson,Abraham Preston,73731,Gardner Webb
+2023,02/15,Duke - Gardner-Webb Dual,285,L,MD,19 - 6,Jonah Niesenbaum,60444,Duke,Abraham Preston,73731,Gardner Webb
+2023,02/12,Gardner-Webb - Presbyterian Dual,285,L,MD,13 - 1,Malcolm Wiley,62915,Presbyterian,Abraham Preston,73731,Gardner Webb
+2023,02/10,Gardner-Webb - Chattanooga Dual,285,L,DEC,8 - 1,Logan Andrew,59757,Chattanooga,Abraham Preston,73731,Gardner Webb
+2023,02/03,VMI - Gardner-Webb Dual,285,L,DEC,6 - 2,Josh Evans,72531,VMI,Abraham Preston,73731,Gardner Webb
+2023,01/30,Appalachian State - Gardner-Webb Dual,285,L,DEC,7 - 2,Jacob Sartorio,65393,Appalachian State,Abraham Preston,73731,Gardner Webb
+2023,01/20,The Citadel - Gardner-Webb Dual,285,L,DEC,1 - 0,Jonathan Chesser,73052,The Citadel,Abraham Preston,73731,Gardner Webb
+2023,01/15,Queens - Gardner-Webb Dual,285,W,DEC,2 - 1,Josh Voelkel,67504,Queens,Abraham Preston,73731,Gardner Webb
+2023,01/15,Army - Gardner-Webb Dual,285,L,DEC,6 - 2,Kade Carlson,73370,Army West Point,Abraham Preston,73731,Gardner Webb
+2023,01/13,Bellarmine - Gardner-Webb Dual,285,L,DEC,4 - 1,Thadd Huff,79335,Bellarmine,Abraham Preston,73731,Gardner Webb
+2023,01/07,Nebraska - Gardner-Webb Dual,285,L,TF5,16 - 1 5:50,Cale Davidson,49353,Nebraska,Abraham Preston,73731,Gardner Webb
+2023,01/07,Gardner-Webb - Campbell Dual,285,L,MD,22 - 8,Taye Ghadiali,62500,Campbell,Abraham Preston,73731,Gardner Webb
+2023,12/19,Gardner-Webb - Ohio Dual,285,L,DEC,4 - 1,Jacob Padilla,62517,Ohio,Abraham Preston,73731,Gardner Webb
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,285,L,MD,13 - 0,Colton McKiernan,57003,SIU Edwardsville,Abraham Preston,73731,Gardner Webb
+2023,12/16,Clarion - Gardner-Webb Dual,285,L,FALL,3:25,Reynold Maines,39928,Clarion,Abraham Preston,73731,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,285,L,DEC,4 - 0,Ethan Miller,78742,Lock Haven,Abraham Preston,73731,Gardner Webb
+2023,12/04,ARMS Software Patriots Open,285,L,TF5,20 - 5 7:00,Jacob Sartorio,65393,Appalachian State,Abraham Preston,73731,Gardner Webb
+2023,12/02,Gardner-Webb - Bloomsburg Dual,285,L,DEC,8 - 1,Shane Noonan,58615,Bloomsburg,Abraham Preston,73731,Gardner Webb
+2023,12/02,Gardner-Webb - George Mason Dual,285,L,DEC,3 - 2,Jon List,71833,George Mason,Abraham Preston,73731,Gardner Webb
+2023,11/12,App State Open,285,L,DEC,4 - 3,Kade Sottolano,78785,Edinboro,Abraham Preston,73731,Gardner Webb
+2023,11/12,App State Open,285,W,SV-1,3 - 1,Levi Andrews,75727,Appalachian State,Abraham Preston,73731,Gardner Webb
+2023,11/12,App State Open,285,L,DEC,2 - 0,Tristan Kemp,74521,West Virginia,Abraham Preston,73731,Gardner Webb
+2023,11/06,Clarion Open,285,L,INJ,1:19,Ashton Davis,77922,Spartan Combat RTC,Abraham Preston,73731,Gardner Webb
+2023,11/06,Clarion Open,285,L,MD,15 - 4,Nick Lodato,72606,Edinboro,Abraham Preston,73731,Gardner Webb
+2023,01/28,Appalachian Open,285,W,MD,11 - 1,Adam Honis,69793,North Carolina,Peyton McComas,71831,Gardner Webb
+2023,01/28,Appalachian Open,285,L,DEC,4 - 2,Brandon Williams,59083,Greensboro,Peyton McComas,71831,Gardner Webb
+2023,01/28,Appalachian Open,285,L,MD,11 - 1,Jacob Sartorio,65393,Appalachian State,Peyton McComas,71831,Gardner Webb

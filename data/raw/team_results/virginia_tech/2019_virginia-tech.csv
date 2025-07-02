@@ -1,0 +1,538 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2019,03/09,ACC Championships,125,W,DEC,5 - 2,Brendon Fenton,50938,Pittsburgh,Joey Prata,44734,Virginia Tech
+2019,03/09,ACC Championships,125,W,SV-1,3 - 1,Joe Heilmann,51223,North Carolina,Joey Prata,44734,Virginia Tech
+2019,03/09,ACC Championships,125,L,MD,10 - 1,Sean Fausz,20126,NC State,Joey Prata,44734,Virginia Tech
+2019,03/09,ACC Championships,125,W,DEC,10 - 6,Harrison Campbell,49125,Duke,Joey Prata,44734,Virginia Tech
+2019,02/22,North Carolina State - Virginia Tech Dual,125,L,MD,11 - 0,Sean Fausz,20126,NC State,Joey Prata,44734,Virginia Tech
+2019,02/16,Virginia - Virginia Tech Dual,125,L,DEC,6 - 2,Jack Mueller,45232,Virginia,Joey Prata,44734,Virginia Tech
+2019,02/15,Cornell - Virginia Tech Dual,125,L,DEC,4 - 2,Vitali Arujau,49108,Cornell,Joey Prata,44734,Virginia Tech
+2019,02/08,Virginia Tech - North Carolina Dual,125,W,DEC,2 - 0,Joe Heilmann,51223,North Carolina,Joey Prata,44734,Virginia Tech
+2019,02/01,Virginia Tech - Duke Dual,125,W,MD,14 - 2,Harrison Campbell,49125,Duke,Joey Prata,44734,Virginia Tech
+2019,01/27,Virginia Tech - Lehigh Dual,125,W,DEC,5 - 1,Luke Resnick,51027,Lehigh,Joey Prata,44734,Virginia Tech
+2019,01/25,Pittsburgh - Virginia Tech Dual,125,W,DEC,6 - 1,Brendon Fenton,50938,Pittsburgh,Joey Prata,44734,Virginia Tech
+2019,01/11,Chattanooga - Virginia Tech Dual,125,L,MD,10 - 2,Alonzo Allen,19765,Chattanooga,Joey Prata,44734,Virginia Tech
+2019,01/05,Franklin & Marshall Open,125,W,MD,11 - 2,Kyle Randall,56471,Sacred Heart,Joey Prata,44734,Virginia Tech
+2019,01/05,Franklin & Marshall Open,125,W,FALL,5:34,Blair Orr,55804,Pennsylvania,Joey Prata,44734,Virginia Tech
+2019,01/05,Franklin & Marshall Open,125,L,DEC,4 - 0,Joey Melendez,50805,North Carolina,Joey Prata,44734,Virginia Tech
+2019,01/05,Franklin & Marshall Open,125,W,DEC,3 - 2,King Sandoval,57116,Maryland,Joey Prata,44734,Virginia Tech
+2019,01/05,Franklin & Marshall Open,125,L,SV-1,3 - 1,King Sandoval,57116,Maryland,Joey Prata,44734,Virginia Tech
+2019,12/19,Virginia Tech - West Virginia Dual,125,L,SV-1,4 - 2,Joey Thomas,51008,West Virginia,Joey Prata,44734,Virginia Tech
+2019,12/07,Princeton - Virginia Tech Dual,125,L,TF5,17 - 2 4:43,Patrick Glory,51100,Princeton,Joey Prata,44734,Virginia Tech
+2019,11/30,Cliff Keen Invitational,125,W,SV-1,6 - 4,Josh Portillo,44832,Nebraska-Kearney,Joey Prata,44734,Virginia Tech
+2019,11/30,Cliff Keen Invitational,125,L,MD,20 - 7,Sean Russell,20727,Minnesota,Joey Prata,44734,Virginia Tech
+2019,11/30,Cliff Keen Invitational,125,L,MD,11 - 3,Tyshawn White,45934,Clarion,Joey Prata,44734,Virginia Tech
+2019,11/18,Virginia Tech - Northwestern Dual,125,L,MD,19 - 6,Sebastian Rivera,44799,Northwestern,Joey Prata,44734,Virginia Tech
+2019,11/04,Hokie Open,125,W,MD,19 - 5,Deven Perez,57826,Emmanuel,Joey Prata,44734,Virginia Tech
+2019,11/04,Hokie Open,125,W,DEC,11 - 7,Rylee Billings,57430,King,Joey Prata,44734,Virginia Tech
+2019,11/04,Hokie Open,125,W,MD,12 - 2,Nick Daggett,51295,UNC Pembroke,Joey Prata,44734,Virginia Tech
+2019,11/04,Hokie Open,125,W,DEC,3 - 2,Kyle Norstrem,45110,Virginia Tech,Joey Prata,44734,Virginia Tech
+2019,11/04,Hokie Open,125,L,MD,14 - 3,Jakob Camacho,50655,NC State,Joey Prata,44734,Virginia Tech
+2019,01/12,Old Dominion - Virginia Tech Dual,125,L,FALL,5:42,Michael McGee,49264,Old Dominion,Kyle Norstrem,45110,Virginia Tech
+2019,01/12,Virginia - Virginia Tech Dual,125,L,TF5,21 - 6 7:00,Jack Mueller,45232,Virginia,Kyle Norstrem,45110,Virginia Tech
+2019,12/19,Virginia Tech - West Virginia Dual,133,W,DEC,9 - 2,KJ Fenstermacher,49290,West Virginia,Kyle Norstrem,45110,Virginia Tech
+2019,11/16,Virginia Tech - Missouri Dual,125,L,DEC,11 - 4,Colby Smith,44996,Missouri,Kyle Norstrem,45110,Virginia Tech
+2019,11/04,Hokie Open,125,L,DEC,3 - 2,Joey Prata,44734,Virginia Tech,Kyle Norstrem,45110,Virginia Tech
+2019,11/04,Hokie Open,125,W,DEC,6 - 1,Joey Thomas,51008,West Virginia,Kyle Norstrem,45110,Virginia Tech
+2019,11/04,Hokie Open,125,L,DEC,7 - 5,KJ Fenstermacher,49290,West Virginia,Kyle Norstrem,45110,Virginia Tech
+2019,11/04,Hokie Open,125,W,TF5,16 - 0 3:33,Frank Velez,44439,Coker,Kyle Norstrem,45110,Virginia Tech
+2019,11/04,Hokie Open,125,W,FALL,2:48,Rhett Golowenski,51120,Appalachian State,Kyle Norstrem,45110,Virginia Tech
+2019,01/26,Appalachian Open,133,W,FALL,4:02,Rhett Plemmons,61209,Clemson,Hunter Graf,51359,Virginia Tech
+2019,01/26,Appalachian Open,133,L,MD,10 - 0,Jarrett Trombley,50807,NC State,Hunter Graf,51359,Virginia Tech
+2019,01/26,Appalachian Open,133,L,DEC,10 - 3,Codi Russell,51113,Appalachian State,Hunter Graf,51359,Virginia Tech
+2019,01/05,Franklin & Marshall Open,133,L,MD,13 - 3,Jonathan Gomez,49300,Princeton,Hunter Graf,51359,Virginia Tech
+2019,01/05,Franklin & Marshall Open,133,L,MD,12 - 2,Cody Trybus,45568,Navy,Hunter Graf,51359,Virginia Tech
+2019,12/09,Patriots Open,133,L,DEC,9 - 2,Sam Book,49332,Virginia,Hunter Graf,51359,Virginia Tech
+2019,12/09,Patriots Open,133,L,DEC,3 - 1,Mel Ortiz,56954,George Mason,Hunter Graf,51359,Virginia Tech
+2019,11/18,Wolfpack Open,125,W,MFOR,0 - 0,Jonathan Consorti,59637,Unattached,Hunter Graf,51359,Virginia Tech
+2019,11/18,Wolfpack Open,125,W,TF5,16 - 1 2:22,William Jacobs,51363,The Citadel,Hunter Graf,51359,Virginia Tech
+2019,11/18,Wolfpack Open,125,L,TF5,18 - 3 7:00,Zurich Storm,50138,NC State,Hunter Graf,51359,Virginia Tech
+2019,11/18,Wolfpack Open,125,L,MD,14 - 6,Alonzo Allen,19765,Chattanooga,Hunter Graf,51359,Virginia Tech
+2019,11/04,Hokie Open,125,W,FALL,1:23,Avery Brown,58315,Bluefield College,Hunter Graf,51359,Virginia Tech
+2019,11/04,Hokie Open,125,L,DEC,5 - 4,Rylee Billings,57430,King,Hunter Graf,51359,Virginia Tech
+2019,11/04,Hokie Open,125,L,DEC,10 - 7,KJ Fenstermacher,49290,West Virginia,Hunter Graf,51359,Virginia Tech
+2019,11/04,Hokie Open,125,W,MD,11 - 2,Jeremiah Derby,56331,North Carolina,Hunter Graf,51359,Virginia Tech
+2019,11/04,Hokie Open,125,W,DEC,8 - 4,Charles Steckline,57033,Appalachian State,Hunter Graf,51359,Virginia Tech
+2019,01/26,Appalachian Open,125,L,TF5,16 - 1 6:37,Tommy Cox,44623,NC State,Ryan More,45164,Virginia Tech
+2019,01/26,Appalachian Open,125,L,TF5,21 - 3 3:59,Sean Fausz,20126,NC State,Ryan More,45164,Virginia Tech
+2019,11/18,Wolfpack Open,125,L,MD,13 - 5,Anthony New,57182,The Citadel,Ryan More,45164,Virginia Tech
+2019,11/18,Wolfpack Open,125,L,TF5,18 - 3 6:30,Jakob Camacho,50655,NC State,Ryan More,45164,Virginia Tech
+2019,11/04,Hokie Open,125,W,TF5,16 - 1 3:00,Deven Perez,57826,Emmanuel,Ryan More,45164,Virginia Tech
+2019,11/04,Hokie Open,125,L,DEC,9 - 3,Ben Kamali,50947,Virginia,Ryan More,45164,Virginia Tech
+2019,11/04,Hokie Open,125,L,MD,18 - 5,Jakob Camacho,50655,NC State,Ryan More,45164,Virginia Tech
+2019,11/04,Hokie Open,125,W,FALL,0:45,Spencer Reed,48319,George Mason,Ryan More,45164,Virginia Tech
+2019,03/21,NCAA Championships,133,L,MD,13 - 0,Tariq Wilson,44862,NC State,Korbin Myers,39637,Virginia Tech
+2019,03/21,NCAA Championships,133,W,FALL,4:54,Gary Joint,50163,Fresno State,Korbin Myers,39637,Virginia Tech
+2019,03/21,NCAA Championships,133,L,DEC,7 - 2,Nick Suriano,44648,Rutgers,Korbin Myers,39637,Virginia Tech
+2019,03/21,NCAA Championships,133,W,MD,11 - 3,Josh Terao,20533,American,Korbin Myers,39637,Virginia Tech
+2019,03/09,ACC Championships,133,W,MD,10 - 1,Louie Hayes,44641,Virginia,Korbin Myers,39637,Virginia Tech
+2019,03/09,ACC Championships,133,L,TB-1,2 - 1,Micky Phillippi,45230,Pittsburgh,Korbin Myers,39637,Virginia Tech
+2019,03/09,ACC Championships,133,W,DEC,5 - 2,Gary Wayne Harding,20270,North Carolina,Korbin Myers,39637,Virginia Tech
+2019,03/09,ACC Championships,133,W,TF5,19 - 3 6:47,Arien Leigh,57136,Duke,Korbin Myers,39637,Virginia Tech
+2019,02/22,North Carolina State - Virginia Tech Dual,133,L,DEC,6 - 1,Tariq Wilson,44862,NC State,Korbin Myers,39637,Virginia Tech
+2019,02/16,Virginia - Virginia Tech Dual,133,W,DEC,5 - 2,Louie Hayes,44641,Virginia,Korbin Myers,39637,Virginia Tech
+2019,02/15,Cornell - Virginia Tech Dual,133,L,DEC,8 - 3,Chaz Tucker,39771,Cornell,Korbin Myers,39637,Virginia Tech
+2019,02/08,Virginia Tech - North Carolina Dual,133,L,DEC,12 - 8,Gary Wayne Harding,20270,North Carolina,Korbin Myers,39637,Virginia Tech
+2019,01/27,Virginia Tech - Lehigh Dual,133,W,DEC,4 - 1,Brandon Paetzell,44578,Lehigh,Korbin Myers,39637,Virginia Tech
+2019,01/25,Pittsburgh - Virginia Tech Dual,133,W,DEC,5 - 3,Micky Phillippi,45230,Pittsburgh,Korbin Myers,39637,Virginia Tech
+2019,01/12,Old Dominion - Virginia Tech Dual,133,W,MD,14 - 5,Killian Cardinale,49268,Old Dominion,Korbin Myers,39637,Virginia Tech
+2019,01/12,Virginia - Virginia Tech Dual,133,W,DEC,7 - 3,Louie Hayes,44641,Virginia,Korbin Myers,39637,Virginia Tech
+2019,01/11,Chattanooga - Virginia Tech Dual,133,W,DEC,6 - 1,Jake Huffine,40207,Chattanooga,Korbin Myers,39637,Virginia Tech
+2019,12/07,Princeton - Virginia Tech Dual,133,W,FALL,3:44,Jacob Adkins,39828,Princeton,Korbin Myers,39637,Virginia Tech
+2019,11/30,Cliff Keen Invitational,133,W,TF5,18 - 3 7:00,Nicholas Hara,55119,North Idaho College,Korbin Myers,39637,Virginia Tech
+2019,11/30,Cliff Keen Invitational,133,L,SV-1,6 - 4,Montorie Bridges,44844,Wyoming,Korbin Myers,39637,Virginia Tech
+2019,11/30,Cliff Keen Invitational,133,L,DEC,7 - 2,Nick Suriano,44648,Rutgers,Korbin Myers,39637,Virginia Tech
+2019,11/30,Cliff Keen Invitational,133,W,DEC,4 - 3,Dylan Duncan,44647,Illinois,Korbin Myers,39637,Virginia Tech
+2019,11/18,Virginia Tech - Northwestern Dual,133,W,DEC,6 - 4,Colin Valdiviez,49244,Northwestern,Korbin Myers,39637,Virginia Tech
+2019,11/16,Virginia Tech - Missouri Dual,133,L,DEC,6 - 2,John Erneste,20058,Missouri,Korbin Myers,39637,Virginia Tech
+2019,11/04,Hokie Open,133,W,MD,13 - 2,Gary Wayne Harding,20270,North Carolina,Korbin Myers,39637,Virginia Tech
+2019,11/04,Hokie Open,133,W,DEC,5 - 1,Garrett Pepple,39561,Indiana,Korbin Myers,39637,Virginia Tech
+2019,11/04,Hokie Open,133,W,MD,15 - 4,Francisco Valdes,49089,Chattanooga,Korbin Myers,39637,Virginia Tech
+2019,11/04,Hokie Open,133,W,DEC,5 - 2,Austin Warner,51998,Campbell,Korbin Myers,39637,Virginia Tech
+2019,11/04,Hokie Open,133,L,DEC,8 - 3,Noah Gonser,40087,Campbell,Korbin Myers,39637,Virginia Tech
+2019,01/26,Appalachian Open,133,W,DEC,6 - 2,Jarrett Trombley,50807,NC State,Collin Gerardi,51286,Virginia Tech
+2019,01/26,Appalachian Open,133,W,TF5,20 - 2 4:11,Kyle Sams,57187,Campbell,Collin Gerardi,51286,Virginia Tech
+2019,01/26,Appalachian Open,133,W,DEC,11 - 5,Codi Russell,51113,Appalachian State,Collin Gerardi,51286,Virginia Tech
+2019,01/01,Southern Scuffle,133,W,DEC,9 - 4,Codi Russell,51113,Appalachian State,Collin Gerardi,51286,Virginia Tech
+2019,01/01,Southern Scuffle,133,L,SV-1,8 - 6,Roman Bravo-Young,49665,Penn State,Collin Gerardi,51286,Virginia Tech
+2019,01/01,Southern Scuffle,133,L,SV-1,7 - 5,Todd Small,45992,Iowa State,Collin Gerardi,51286,Virginia Tech
+2019,01/01,Southern Scuffle,133,W,DEC,8 - 4,Cody Trybus,45568,Navy,Collin Gerardi,51286,Virginia Tech
+2019,01/01,Southern Scuffle,133,W,SV-1,2 - 0,John Twomey,40122,Air Force,Collin Gerardi,51286,Virginia Tech
+2019,01/01,Southern Scuffle,133,W,DEC,2 - 0,Nick Farro,44590,Lehigh,Collin Gerardi,51286,Virginia Tech
+2019,12/02,Storm Open,133,W,MD,8 - 0,Wyatt Lutz,57147,West Virginia,Collin Gerardi,51286,Virginia Tech
+2019,12/02,Storm Open,133,W,MD,12 - 2,Abraham Guarriello,47429,Gannon,Collin Gerardi,51286,Virginia Tech
+2019,12/02,Storm Open,133,L,DEC,4 - 2,Hunter Bray,47125,Notre Dame,Collin Gerardi,51286,Virginia Tech
+2019,12/02,Storm Open,133,W,MD,12 - 2,Giuseppe Penzone,46573,Tiffin University,Collin Gerardi,51286,Virginia Tech
+2019,11/18,Wolfpack Open,133,W,DEC,9 - 2,Orion Anderson,56379,Maryland,Collin Gerardi,51286,Virginia Tech
+2019,11/18,Wolfpack Open,133,W,MD,12 - 1,Charles Kearney,40372,The Citadel,Collin Gerardi,51286,Virginia Tech
+2019,11/18,Wolfpack Open,133,L,MD,10 - 1,Tariq Wilson,44862,NC State,Collin Gerardi,51286,Virginia Tech
+2019,11/18,Wolfpack Open,133,L,DEC,10 - 5,Gary Wayne Harding,20270,North Carolina,Collin Gerardi,51286,Virginia Tech
+2019,11/18,Wolfpack Open,133,W,DEC,6 - 0,Jake Huffine,40207,Chattanooga,Collin Gerardi,51286,Virginia Tech
+2019,11/04,Hokie Open,133,W,DEC,7 - 5,Jake Rotunda,55953,The Citadel,Collin Gerardi,51286,Virginia Tech
+2019,11/04,Hokie Open,133,L,DEC,2 - 1,Jarrett Trombley,50807,NC State,Collin Gerardi,51286,Virginia Tech
+2019,11/04,Hokie Open,133,W,DEC,7 - 3,Mel Ortiz,56954,George Mason,Collin Gerardi,51286,Virginia Tech
+2019,11/04,Hokie Open,133,W,DEC,9 - 2,Kyle Gorant,51686,Davidson,Collin Gerardi,51286,Virginia Tech
+2019,03/21,NCAA Championships,141,L,DEC,5 - 4,Sam Turner,45009,Wyoming,Mitch Moore,50620,Virginia Tech
+2019,03/21,NCAA Championships,141,W,FALL,1:41,Josh Finesilver,46112,Duke,Mitch Moore,50620,Virginia Tech
+2019,03/21,NCAA Championships,141,L,MD,11 - 3,Dominick Demas,49256,Oklahoma,Mitch Moore,50620,Virginia Tech
+2019,03/09,ACC Championships,141,W,DEC,6 - 3,AC Headlee,39627,North Carolina,Mitch Moore,50620,Virginia Tech
+2019,03/09,ACC Championships,141,L,DEC,6 - 3,Jamel Morris,43775,NC State,Mitch Moore,50620,Virginia Tech
+2019,02/22,North Carolina State - Virginia Tech Dual,141,L,DEC,4 - 0,Jamel Morris,43775,NC State,Mitch Moore,50620,Virginia Tech
+2019,02/16,Virginia - Virginia Tech Dual,141,W,TF5,16 - 0 6:31,Samuel Krivus,43190,Virginia,Mitch Moore,50620,Virginia Tech
+2019,02/15,Cornell - Virginia Tech Dual,141,L,DEC,6 - 1,Yianni Diakomihalis,49110,Cornell,Mitch Moore,50620,Virginia Tech
+2019,02/08,Virginia Tech - North Carolina Dual,141,L,SV-1,4 - 2,AC Headlee,39627,North Carolina,Mitch Moore,50620,Virginia Tech
+2019,02/01,Virginia Tech - Duke Dual,141,W,FALL,0:45,Josh Finesilver,46112,Duke,Mitch Moore,50620,Virginia Tech
+2019,01/27,Virginia Tech - Lehigh Dual,141,W,DEC,3 - 1,Ryan Pomrinca,39667,Lehigh,Mitch Moore,50620,Virginia Tech
+2019,01/12,Old Dominion - Virginia Tech Dual,141,L,DEC,3 - 2,Sa'Derian Perry,40084,Old Dominion,Mitch Moore,50620,Virginia Tech
+2019,01/12,Virginia - Virginia Tech Dual,141,W,FALL,3:18,Samuel Krivus,43190,Virginia,Mitch Moore,50620,Virginia Tech
+2019,01/11,Chattanooga - Virginia Tech Dual,141,W,FALL,1:32,Chris Debien,39720,Chattanooga,Mitch Moore,50620,Virginia Tech
+2019,01/05,Franklin & Marshall Open,141,W,FALL,2:15,Jacob Jones,46195,Kutztown,Mitch Moore,50620,Virginia Tech
+2019,01/05,Franklin & Marshall Open,141,W,FALL,0:19,Josh Breeding,50616,Princeton,Mitch Moore,50620,Virginia Tech
+2019,01/05,Franklin & Marshall Open,141,W,FALL,0:44,Wil Gil,51024,Franklin & Marshall,Mitch Moore,50620,Virginia Tech
+2019,01/05,Franklin & Marshall Open,141,W,FALL,0:17,Patrick Quinlan,20543,Franklin & Marshall,Mitch Moore,50620,Virginia Tech
+2019,01/05,Franklin & Marshall Open,141,W,DEC,3 - 0,Nathan Boston,19956,Campbell,Mitch Moore,50620,Virginia Tech
+2019,11/18,Virginia Tech - Northwestern Dual,141,L,DEC,2 - 1,Yahya Thomas,49245,Northwestern,Mitch Moore,50620,Virginia Tech
+2019,11/16,Virginia Tech - Missouri Dual,141,L,DEC,9 - 2,Jaydin Eierman,39508,Missouri,Mitch Moore,50620,Virginia Tech
+2019,11/04,Hokie Open,141,W,MD,12 - 1,Isiah Royal,51307,Newberry,Mitch Moore,50620,Virginia Tech
+2019,11/04,Hokie Open,141,W,FALL,1:19,Gray Hart,57062,Virginia,Mitch Moore,50620,Virginia Tech
+2019,11/04,Hokie Open,141,W,DEC,9 - 3,Alex Urquiza,56828,NC State,Mitch Moore,50620,Virginia Tech
+2019,11/04,Hokie Open,141,W,MD,10 - 2,Jarred Papscy,56827,NC State,Mitch Moore,50620,Virginia Tech
+2019,11/04,Hokie Open,141,W,FALL,3:10,Caleb Ziebell,51121,Davidson,Mitch Moore,50620,Virginia Tech
+2019,01/26,Appalachian Open,141,W,MD,14 - 4,Miles Grier,61204,Unattached,Dom Latona,45115,Virginia Tech
+2019,01/26,Appalachian Open,141,L,DEC,6 - 5,Alex Urquiza,56828,NC State,Dom Latona,45115,Virginia Tech
+2019,01/26,Appalachian Open,141,L,MD,11 - 3,Matt Fields,51613,NC State,Dom Latona,45115,Virginia Tech
+2019,01/26,Appalachian Open,141,W,DEC,9 - 7,Aiden Murphy,50950,Chattanooga,Dom Latona,45115,Virginia Tech
+2019,01/05,Franklin & Marshall Open,141,L,DEC,7 - 6,Kyle Slendorn,60672,High School,Dom Latona,45115,Virginia Tech
+2019,01/05,Franklin & Marshall Open,141,W,TF5,18 - 2 7:00,Hunter Adams,51116,Sacred Heart,Dom Latona,45115,Virginia Tech
+2019,01/05,Franklin & Marshall Open,141,W,TF5,16 - 0 7:00,Tucker Ribman,56815,Harvard,Dom Latona,45115,Virginia Tech
+2019,01/05,Franklin & Marshall Open,141,W,FALL,1:19,Trevor Tarsi,49140,Harvard,Dom Latona,45115,Virginia Tech
+2019,01/05,Franklin & Marshall Open,141,L,TF5,20 - 4 7:00,Wil Gil,51024,Franklin & Marshall,Dom Latona,45115,Virginia Tech
+2019,01/05,Franklin & Marshall Open,141,W,DEC,15 - 8,Theo Powers,44793,Brown,Dom Latona,45115,Virginia Tech
+2019,12/19,Virginia Tech - West Virginia Dual,141,L,DEC,8 - 7,Lukas Martin,57150,West Virginia,Dom Latona,45115,Virginia Tech
+2019,12/07,Princeton - Virginia Tech Dual,141,L,TF5,20 - 3 6:55,Marshall Keller,51509,Princeton,Dom Latona,45115,Virginia Tech
+2019,11/30,Cliff Keen Invitational,141,L,MD,11 - 3,LJ Bentley,39598,Pittsburgh,Dom Latona,45115,Virginia Tech
+2019,11/30,Cliff Keen Invitational,141,L,FALL,5:00,Jaydin Eierman,39508,Missouri,Dom Latona,45115,Virginia Tech
+2019,11/30,Cliff Keen Invitational,141,W,SV-1,5 - 3,Drew Marten,49077,Central Michigan,Dom Latona,45115,Virginia Tech
+2019,11/30,Cliff Keen Invitational,141,W,MD,14 - 2,Nathan Boston,19956,Campbell,Dom Latona,45115,Virginia Tech
+2019,11/18,Wolfpack Open,141,W,TF5,16 - 0 5:52,Andrew Mckahan,58323,Limestone,Dom Latona,45115,Virginia Tech
+2019,11/18,Wolfpack Open,141,W,TF5,16 - 0 3:00,Isiah Royal,51307,Newberry,Dom Latona,45115,Virginia Tech
+2019,11/18,Wolfpack Open,141,L,DEC,8 - 7,Jamal Morris,20136,NC State,Dom Latona,45115,Virginia Tech
+2019,11/18,Wolfpack Open,141,W,DEC,8 - 4,Bradly Irwin,40555,Appalachian State,Dom Latona,45115,Virginia Tech
+2019,11/04,Hokie Open,141,L,DEC,5 - 0,AJ Leitten,49221,NC State,Dom Latona,45115,Virginia Tech
+2019,11/04,Hokie Open,141,L,FALL,2:41,Jamel Morris,43775,NC State,Dom Latona,45115,Virginia Tech
+2019,11/04,Hokie Open,141,W,TF5,17 - 2 3:44,Clayton Currier,50235,Campbell,Dom Latona,45115,Virginia Tech
+2019,11/04,Hokie Open,141,W,DEC,4 - 1,Nathan Boston,19956,Campbell,Dom Latona,45115,Virginia Tech
+2019,11/04,Hokie Open,141,W,TF5,16 - 0 3:00,Anthony Brito,49035,Appalachian State,Dom Latona,45115,Virginia Tech
+2019,11/18,Wolfpack Open,141,L,DEC,6 - 3,Jonathan Miller,40697,UNC Pembroke,Ryan Haskett,40361,Virginia Tech
+2019,11/18,Wolfpack Open,141,W,MD,12 - 2,Devin Dicarlo,51378,Limestone,Ryan Haskett,40361,Virginia Tech
+2019,11/18,Wolfpack Open,141,L,DEC,8 - 7,Alex Urquiza,56828,NC State,Ryan Haskett,40361,Virginia Tech
+2019,11/18,Wolfpack Open,141,W,TF5,16 - 0 2:21,Conrad Schiess,57171,Gardner-Webb,Ryan Haskett,40361,Virginia Tech
+2019,11/18,Wolfpack Open,141,W,DEC,12 - 6,Davion Fairley,49087,Chattanooga,Ryan Haskett,40361,Virginia Tech
+2019,11/04,Hokie Open,141,W,FALL,3:42,Christopher Poland,58328,Coker,Ryan Haskett,40361,Virginia Tech
+2019,11/04,Hokie Open,141,W,DEC,9 - 3,Will Clark,39681,NC State,Ryan Haskett,40361,Virginia Tech
+2019,11/04,Hokie Open,141,L,FALL,4:47,AC Headlee,39627,North Carolina,Ryan Haskett,40361,Virginia Tech
+2019,11/04,Hokie Open,141,L,FALL,4:19,Josh Finesilver,46112,Duke,Ryan Haskett,40361,Virginia Tech
+2019,03/21,NCAA Championships,149,L,FALL,4:16,Russell Rohlfing,40166,CSU Bakersfield,Ryan Blees,20267,Virginia Tech
+2019,03/21,NCAA Championships,149,L,SV-2,4 - 2,Patricio Lugo,39919,Iowa,Ryan Blees,20267,Virginia Tech
+2019,03/21,NCAA Championships,149,W,SV-1,5 - 1,Kaden Gfeller,49261,Oklahoma State,Ryan Blees,20267,Virginia Tech
+2019,03/09,ACC Championships,149,W,DEC,2 - 0,Michael Murphy,45236,Virginia,Ryan Blees,20267,Virginia Tech
+2019,03/09,ACC Championships,149,W,TF5,17 - 0 5:31,Dallas Bulsak,49286,Pittsburgh,Ryan Blees,20267,Virginia Tech
+2019,03/09,ACC Championships,149,L,DEC,6 - 1,Justin Oliver,19758,NC State,Ryan Blees,20267,Virginia Tech
+2019,03/09,ACC Championships,149,L,DEC,4 - 0,Mitch Finesilver,19861,Duke,Ryan Blees,20267,Virginia Tech
+2019,02/22,North Carolina State - Virginia Tech Dual,149,L,DEC,6 - 3,Justin Oliver,19758,NC State,Ryan Blees,20267,Virginia Tech
+2019,02/16,Virginia - Virginia Tech Dual,149,W,DEC,3 - 2,Michael Murphy,45236,Virginia,Ryan Blees,20267,Virginia Tech
+2019,02/15,Cornell - Virginia Tech Dual,149,W,DEC,9 - 6,William Koll,40375,Cornell,Ryan Blees,20267,Virginia Tech
+2019,02/08,Virginia Tech - North Carolina Dual,149,L,DEC,2 - 1,Austin O'Connor,49214,North Carolina,Ryan Blees,20267,Virginia Tech
+2019,02/01,Virginia Tech - Duke Dual,149,L,DEC,3 - 1,Mitch Finesilver,19861,Duke,Ryan Blees,20267,Virginia Tech
+2019,01/27,Virginia Tech - Lehigh Dual,149,W,DEC,8 - 3,Cortlandt Schuyler,19989,Lehigh,Ryan Blees,20267,Virginia Tech
+2019,01/25,Pittsburgh - Virginia Tech Dual,149,W,DEC,6 - 3,Robert Lee,39975,Pittsburgh,Ryan Blees,20267,Virginia Tech
+2019,01/12,Old Dominion - Virginia Tech Dual,149,W,DEC,8 - 3,Kevin Budock,44576,Old Dominion,Ryan Blees,20267,Virginia Tech
+2019,01/12,Virginia - Virginia Tech Dual,149,W,DEC,6 - 3,Michael Murphy,45236,Virginia,Ryan Blees,20267,Virginia Tech
+2019,01/11,Chattanooga - Virginia Tech Dual,149,W,DEC,4 - 1,Mason Wallace,49086,Chattanooga,Ryan Blees,20267,Virginia Tech
+2019,01/05,Franklin & Marshall Open,149,L,FALL,3:34,Sam Emburgia,60669,Middlesex Community College,Ryan Blees,20267,Virginia Tech
+2019,01/05,Franklin & Marshall Open,149,W,FALL,1:47,Sean Coakley,57228,Franklin & Marshall,Ryan Blees,20267,Virginia Tech
+2019,01/05,Franklin & Marshall Open,149,L,DEC,7 - 6,Parker Kropman,45187,Drexel,Ryan Blees,20267,Virginia Tech
+2019,01/05,Franklin & Marshall Open,149,W,DEC,17 - 16,Troy Nation,57189,Campbell,Ryan Blees,20267,Virginia Tech
+2019,01/05,Franklin & Marshall Open,149,W,DEC,10 - 8,Jack Bokina,56798,Brown,Ryan Blees,20267,Virginia Tech
+2019,12/19,Virginia Tech - West Virginia Dual,149,L,DEC,4 - 1,Christian Monserrat,20473,West Virginia,Ryan Blees,20267,Virginia Tech
+2019,12/07,Princeton - Virginia Tech Dual,149,L,DEC,8 - 2,Matt Kolodzik,45071,Princeton,Ryan Blees,20267,Virginia Tech
+2019,11/30,Cliff Keen Invitational,149,W,DEC,7 - 4,Parker Filius,49302,Purdue,Ryan Blees,20267,Virginia Tech
+2019,11/30,Cliff Keen Invitational,149,L,TF5,16 - 1 6:08,Khristian Olivas,40318,Fresno State,Ryan Blees,20267,Virginia Tech
+2019,11/30,Cliff Keen Invitational,149,L,DEC,8 - 5,Alec Opsal,44909,Air Force,Ryan Blees,20267,Virginia Tech
+2019,11/18,Virginia Tech - Northwestern Dual,149,L,TB-1,8 - 7,Shayne Oster,44820,Northwestern,Ryan Blees,20267,Virginia Tech
+2019,11/16,Virginia Tech - Missouri Dual,149,L,DEC,3 - 1,Grant Leeth,19866,Missouri,Ryan Blees,20267,Virginia Tech
+2019,11/04,Hokie Open,149,W,MD,14 - 2,Matthew Kieta,51304,Coker,Ryan Blees,20267,Virginia Tech
+2019,11/04,Hokie Open,149,L,DEC,6 - 1,Mitch Finesilver,19861,Duke,Ryan Blees,20267,Virginia Tech
+2019,11/04,Hokie Open,149,W,DEC,5 - 1,Josh Heil,45100,Campbell,Ryan Blees,20267,Virginia Tech
+2019,11/04,Hokie Open,149,W,MD,14 - 3,John Millner,50212,Appalachian State,Ryan Blees,20267,Virginia Tech
+2019,01/26,Appalachian Open,149,W,DEC,4 - 3,Kyran Hagan,49247,Ohio,Caden Darber,50898,Virginia Tech
+2019,01/26,Appalachian Open,149,L,FALL,6:45,Josiah Rider,54920,NC State,Caden Darber,50898,Virginia Tech
+2019,01/26,Appalachian Open,149,L,DEC,14 - 10,Matthew Grippi,50662,NC State,Caden Darber,50898,Virginia Tech
+2019,01/26,Appalachian Open,149,W,DEC,6 - 1,Anthony DeMartino,51086,Duke,Caden Darber,50898,Virginia Tech
+2019,01/26,Appalachian Open,149,W,MD,13 - 4,Bobby Pryhocki,50956,Campbell,Caden Darber,50898,Virginia Tech
+2019,12/02,Storm Open,149,W,DEC,9 - 3,Cameron Jenkins,51483,Ashland,Caden Darber,50898,Virginia Tech
+2019,12/02,Storm Open,149,L,FALL,2:17,Austin Shaw,47962,Seton Hill,Caden Darber,50898,Virginia Tech
+2019,12/02,Storm Open,149,W,TF5,17 - 2 5:26,Conan Becker,57242,Kent State,Caden Darber,50898,Virginia Tech
+2019,12/02,Storm Open,149,W,DEC,9 - 2,Michael Zarif,57277,Binghamton,Caden Darber,50898,Virginia Tech
+2019,11/04,Hokie Open,149,L,SV-1,5 - 3,Matt Fields,51613,NC State,Caden Darber,50898,Virginia Tech
+2019,11/04,Hokie Open,149,W,DEC,8 - 6,Mason Wallace,49086,Chattanooga,Caden Darber,50898,Virginia Tech
+2019,11/04,Hokie Open,149,W,MD,17 - 6,Devin Rivet,56278,Campbell,Caden Darber,50898,Virginia Tech
+2019,11/04,Hokie Open,149,W,MD,11 - 2,Taylor Philpotts,56127,Appalachian State,Caden Darber,50898,Virginia Tech
+2019,11/04,Hokie Open,149,W,MFOR,0 - 0,Alex Cruz,50942,Virginia,Josh Baier,50897,Virginia Tech
+2019,11/04,Hokie Open,149,L,DEC,7 - 4,Matt Fields,51613,NC State,Josh Baier,50897,Virginia Tech
+2019,11/04,Hokie Open,149,W,DEC,4 - 2,Will Baldwin,50967,Davidson,Josh Baier,50897,Virginia Tech
+2019,11/04,Hokie Open,149,W,DEC,6 - 5,Devin Rivet,56278,Campbell,Josh Baier,50897,Virginia Tech
+2019,11/18,Wolfpack Open,149,W,DEC,6 - 3,Chase DeMaille,51165,Maryland,Brenden Ryan,42872,Virginia Tech
+2019,11/18,Wolfpack Open,149,L,MD,8 - 0,Tanner Smith,49129,Chattanooga,Brenden Ryan,42872,Virginia Tech
+2019,11/18,Wolfpack Open,149,L,DEC,5 - 2,Devin Rivet,56278,Campbell,Brenden Ryan,42872,Virginia Tech
+2019,11/04,Hokie Open,149,L,DEC,13 - 6,Justin Yorkdale,45347,George Mason,Brenden Ryan,42872,Virginia Tech
+2019,11/04,Hokie Open,149,L,MD,8 - 0,Matthew Zovistoski,40049,Appalachian State,Brenden Ryan,42872,Virginia Tech
+2019,03/21,NCAA Championships,157,L,DEC,6 - 3,Eric Barone,39566,Illinois,Brian LaPrade,45112,Virginia Tech
+2019,03/21,NCAA Championships,157,W,MD,12 - 4,Benjamin Anderson,51087,Duke,Brian LaPrade,45112,Virginia Tech
+2019,03/21,NCAA Championships,157,L,MD,10 - 2,John Van Brill,20367,Rutgers,Brian LaPrade,45112,Virginia Tech
+2019,03/09,ACC Championships,157,L,TB-2,4 - 3,Taleb Rahmani,40082,Pittsburgh,Brian LaPrade,45112,Virginia Tech
+2019,03/09,ACC Championships,157,W,MFOR,0 - 0,Josh McClure,44697,North Carolina,Brian LaPrade,45112,Virginia Tech
+2019,03/09,ACC Championships,157,W,MD,11 - 2,Benjamin Anderson,51087,Duke,Brian LaPrade,45112,Virginia Tech
+2019,03/09,ACC Championships,157,W,DEC,10 - 7,Benjamin Anderson,51087,Duke,Brian LaPrade,45112,Virginia Tech
+2019,02/22,North Carolina State - Virginia Tech Dual,157,L,DEC,6 - 4,Hayden Hidlay,44595,NC State,Brian LaPrade,45112,Virginia Tech
+2019,02/16,Virginia - Virginia Tech Dual,157,W,DEC,12 - 5,Jake Keating,50315,Virginia,Brian LaPrade,45112,Virginia Tech
+2019,02/15,Cornell - Virginia Tech Dual,157,W,DEC,10 - 5,Adam Santoro,46089,Cornell,Brian LaPrade,45112,Virginia Tech
+2019,02/08,Virginia Tech - North Carolina Dual,157,L,SV-1,3 - 1,Josh McClure,44697,North Carolina,Brian LaPrade,45112,Virginia Tech
+2019,02/01,Virginia Tech - Duke Dual,157,W,MD,14 - 5,Benjamin Anderson,51087,Duke,Brian LaPrade,45112,Virginia Tech
+2019,01/27,Virginia Tech - Lehigh Dual,157,L,DEC,6 - 1,Josh Humphreys,55860,Lehigh,Brian LaPrade,45112,Virginia Tech
+2019,01/25,Pittsburgh - Virginia Tech Dual,157,L,DEC,7 - 4,Taleb Rahmani,40082,Pittsburgh,Brian LaPrade,45112,Virginia Tech
+2019,01/12,Old Dominion - Virginia Tech Dual,157,W,DEC,8 - 4,Larry Early,39519,Old Dominion,Brian LaPrade,45112,Virginia Tech
+2019,01/12,Virginia - Virginia Tech Dual,157,W,FALL,0:43,Jake Keating,50315,Virginia,Brian LaPrade,45112,Virginia Tech
+2019,01/11,Chattanooga - Virginia Tech Dual,157,W,DEC,7 - 0,Ryan Resnick,49092,Chattanooga,Brian LaPrade,45112,Virginia Tech
+2019,01/01,Southern Scuffle,157,W,TF5,15 - 0 5:22,Ryan Resnick,49092,Chattanooga,Brian LaPrade,45112,Virginia Tech
+2019,01/01,Southern Scuffle,157,L,MFOR,0 - 0,Chase Straw,39610,Iowa State,Brian LaPrade,45112,Virginia Tech
+2019,01/01,Southern Scuffle,157,L,INJ,7:00,Dominick Mandarino,49324,Stanford,Brian LaPrade,45112,Virginia Tech
+2019,01/01,Southern Scuffle,157,W,DEC,5 - 2,Jordan Robison,49232,Northern Colorado,Brian LaPrade,45112,Virginia Tech
+2019,12/19,Virginia Tech - West Virginia Dual,157,W,MD,14 - 2,Zachary Moore,39678,West Virginia,Brian LaPrade,45112,Virginia Tech
+2019,12/07,Princeton - Virginia Tech Dual,157,W,TB-1,5 - 4,Quincy Monday,53967,Princeton,Brian LaPrade,45112,Virginia Tech
+2019,11/30,Cliff Keen Invitational,157,L,DEC,6 - 3,Dominick Mandarino,49324,Stanford,Brian LaPrade,45112,Virginia Tech
+2019,11/30,Cliff Keen Invitational,157,L,FALL,6:59,John Van Brill,20367,Rutgers,Brian LaPrade,45112,Virginia Tech
+2019,11/30,Cliff Keen Invitational,157,W,DEC,6 - 4,Nick Knutson,45598,North Dakota State,Brian LaPrade,45112,Virginia Tech
+2019,11/30,Cliff Keen Invitational,157,W,MD,13 - 1,Chris Mauriello,44614,Hofstra,Brian LaPrade,45112,Virginia Tech
+2019,11/30,Cliff Keen Invitational,157,W,TF5,18 - 3 5:34,Brandon Leynaud,42790,Duke,Brian LaPrade,45112,Virginia Tech
+2019,11/18,Virginia Tech - Northwestern Dual,157,L,DEC,14 - 7,Ryan Deakin,44716,Northwestern,Brian LaPrade,45112,Virginia Tech
+2019,11/16,Virginia Tech - Missouri Dual,157,W,SV-1,9 - 3,Jarrett Jacques,50597,Missouri,Brian LaPrade,45112,Virginia Tech
+2019,01/26,Appalachian Open,157,W,TF5,15 - 0 5:30,Hunter Corwin,51975,Coker,Jake Hart,55793,Virginia Tech
+2019,01/26,Appalachian Open,157,L,FALL,0:28,Nick Vestal,44944,Ohio,Jake Hart,55793,Virginia Tech
+2019,01/26,Appalachian Open,157,L,DEC,6 - 0,Benjamin Barton,44733,Campbell,Jake Hart,55793,Virginia Tech
+2019,01/26,Appalachian Open,157,W,DEC,10 - 5,Christian Beach,45407,Appalachian State,Jake Hart,55793,Virginia Tech
+2019,01/05,Franklin & Marshall Open,157,W,SV-1,6 - 2,Ryan Yorkdale,60667,Unattached,Jake Hart,55793,Virginia Tech
+2019,01/05,Franklin & Marshall Open,157,L,MD,17 - 4,Noah Chan,57227,Franklin & Marshall,Jake Hart,55793,Virginia Tech
+2019,01/05,Franklin & Marshall Open,157,L,MD,10 - 2,Evan Barczak,49122,Drexel,Jake Hart,55793,Virginia Tech
+2019,12/02,Storm Open,157,W,DEC,5 - 0,Owen Balas,51360,Gannon,Jake Hart,55793,Virginia Tech
+2019,12/02,Storm Open,157,W,DEC,5 - 4,Joseph Andrassy,57240,Kent State,Jake Hart,55793,Virginia Tech
+2019,12/02,Storm Open,157,L,TB-1,3 - 2,Elijah Cleary,44828,Ohio State,Jake Hart,55793,Virginia Tech
+2019,12/02,Storm Open,157,W,SV-2,4 - 2,Chris Barker,51233,Binghamton,Jake Hart,55793,Virginia Tech
+2019,11/18,Wolfpack Open,157,L,SV-1,3 - 1,Cole Smith,50659,Old Dominion,Jake Hart,55793,Virginia Tech
+2019,11/18,Wolfpack Open,157,W,MD,12 - 2,Michael Goldfeder,57128,North Carolina,Jake Hart,55793,Virginia Tech
+2019,11/18,Wolfpack Open,157,W,DEC,8 - 2,Ryan Resnick,49092,Chattanooga,Jake Hart,55793,Virginia Tech
+2019,11/18,Wolfpack Open,157,L,DEC,10 - 7,Zach Barnes,49073,Campbell,Jake Hart,55793,Virginia Tech
+2019,11/04,Hokie Open,157,W,DEC,7 - 1,Andrew Capul,58331,UNC Pembroke,Jake Hart,55793,Virginia Tech
+2019,11/04,Hokie Open,157,W,MD,11 - 3,Kyle Daley,58317,Limestone,Jake Hart,55793,Virginia Tech
+2019,11/04,Hokie Open,157,W,MFOR,0 - 0,Michael Goldfeder,57128,North Carolina,Jake Hart,55793,Virginia Tech
+2019,11/04,Hokie Open,157,W,FALL,6:33,Alex Rivera,52120,Campbell,Jake Hart,55793,Virginia Tech
+2019,11/04,Hokie Open,157,L,FALL,6:39,Oszkar Kasch,51592,Campbell,Jake Hart,55793,Virginia Tech
+2019,11/04,Hokie Open,157,L,DEC,13 - 9,William Formato,57034,Appalachian State,Jake Hart,55793,Virginia Tech
+2019,03/21,NCAA Championships,165,W,DEC,7 - 1,Vincenzo Joseph,39542,Penn State,Mekhi Lewis,49338,Virginia Tech
+2019,03/21,NCAA Championships,165,W,DEC,5 - 2,Evan Wick,44730,Wisconsin,Mekhi Lewis,49338,Virginia Tech
+2019,03/21,NCAA Championships,165,W,DEC,3 - 1,Alex Marinelli,44574,Iowa,Mekhi Lewis,49338,Virginia Tech
+2019,03/21,NCAA Championships,165,W,DEC,4 - 1,Cael McCormick,44622,Army West Point,Mekhi Lewis,49338,Virginia Tech
+2019,03/21,NCAA Championships,165,W,FALL,6:49,Cameron Coy,49330,Virginia,Mekhi Lewis,49338,Virginia Tech
+2019,03/09,ACC Championships,165,W,DEC,7 - 4,Thomas Bullard,44611,NC State,Mekhi Lewis,49338,Virginia Tech
+2019,03/09,ACC Championships,165,W,DEC,14 - 7,Zach Finesilver,19862,Duke,Mekhi Lewis,49338,Virginia Tech
+2019,02/22,North Carolina State - Virginia Tech Dual,165,W,DEC,11 - 5,Thomas Bullard,44611,NC State,Mekhi Lewis,49338,Virginia Tech
+2019,02/16,Virginia - Virginia Tech Dual,165,W,MD,10 - 1,Cameron Coy,49330,Virginia,Mekhi Lewis,49338,Virginia Tech
+2019,02/15,Cornell - Virginia Tech Dual,165,W,MD,14 - 5,Andrew Berreyesa,49111,Cornell,Mekhi Lewis,49338,Virginia Tech
+2019,02/08,Virginia Tech - North Carolina Dual,165,W,MD,14 - 4,Sawyer Davidson,45233,North Carolina,Mekhi Lewis,49338,Virginia Tech
+2019,02/01,Virginia Tech - Duke Dual,165,W,MD,18 - 5,Zach Finesilver,19862,Duke,Mekhi Lewis,49338,Virginia Tech
+2019,01/27,Virginia Tech - Lehigh Dual,165,W,TF5,22 - 7 7:00,Kent Lane,39601,Lehigh,Mekhi Lewis,49338,Virginia Tech
+2019,01/25,Pittsburgh - Virginia Tech Dual,165,W,DEC,6 - 3,Jake Wentzel,45151,Pittsburgh,Mekhi Lewis,49338,Virginia Tech
+2019,01/12,Old Dominion - Virginia Tech Dual,165,W,MD,16 - 4,Luke Drugac,44767,Old Dominion,Mekhi Lewis,49338,Virginia Tech
+2019,01/12,Virginia - Virginia Tech Dual,165,W,DEC,6 - 2,Cameron Coy,49330,Virginia,Mekhi Lewis,49338,Virginia Tech
+2019,01/11,Chattanooga - Virginia Tech Dual,165,W,TF5,18 - 2 3:18,Trey Watson,42896,Chattanooga,Mekhi Lewis,49338,Virginia Tech
+2019,12/19,Virginia Tech - West Virginia Dual,165,W,MD,15 - 2,Nick Kiussis,49345,West Virginia,Mekhi Lewis,49338,Virginia Tech
+2019,12/07,Princeton - Virginia Tech Dual,165,W,MD,16 - 4,Dale Tiongson,49295,Princeton,Mekhi Lewis,49338,Virginia Tech
+2019,11/30,Cliff Keen Invitational,165,W,DEC,3 - 1,Branson Ashworth,21676,Wyoming,Mekhi Lewis,49338,Virginia Tech
+2019,11/30,Cliff Keen Invitational,165,W,DEC,2 - 0,Bryce Steiert,39504,Northern Iowa,Mekhi Lewis,49338,Virginia Tech
+2019,11/30,Cliff Keen Invitational,165,L,DEC,2 - 0,Isaiah White,47106,Nebraska,Mekhi Lewis,49338,Virginia Tech
+2019,11/30,Cliff Keen Invitational,165,W,TF5,19 - 4 6:42,Bret Fedewa,50920,Central Michigan,Mekhi Lewis,49338,Virginia Tech
+2019,11/30,Cliff Keen Invitational,165,W,DEC,6 - 4,Jonathan Viruet,39839,Brown,Mekhi Lewis,49338,Virginia Tech
+2019,11/18,Virginia Tech - Northwestern Dual,165,W,FALL,3:55,Anthony Petrone,39585,Northwestern,Mekhi Lewis,49338,Virginia Tech
+2019,11/16,Virginia Tech - Missouri Dual,165,L,DEC,8 - 6,Connor Flynn,39676,Missouri,Mekhi Lewis,49338,Virginia Tech
+2019,11/04,Hokie Open,165,W,DEC,5 - 3,Nick Kiussis,49345,West Virginia,Mekhi Lewis,49338,Virginia Tech
+2019,11/04,Hokie Open,165,W,DEC,8 - 6,Bryce Martin,20524,Indiana,Mekhi Lewis,49338,Virginia Tech
+2019,11/04,Hokie Open,165,W,DEC,10 - 4,Cameron Pine,57196,Campbell,Mekhi Lewis,49338,Virginia Tech
+2019,11/04,Hokie Open,165,W,MD,18 - 6,Carl Guess,44907,Appalachian State,Mekhi Lewis,49338,Virginia Tech
+2019,01/26,Appalachian Open,165,L,DEC,9 - 5,Krystian Kinsey,57061,Virginia,Jordan Florence,52574,Virginia Tech
+2019,01/26,Appalachian Open,165,L,TF5,18 - 3 5:28,Tyler Marinelli,20797,Gardner-Webb,Jordan Florence,52574,Virginia Tech
+2019,01/26,Appalachian Open,165,W,DEC,9 - 3,Carial Tarter,56078,Chattanooga,Jordan Florence,52574,Virginia Tech
+2019,01/26,Appalachian Open,165,W,DEC,10 - 6,Trey Watson,42896,Chattanooga,Jordan Florence,52574,Virginia Tech
+2019,01/05,Franklin & Marshall Open,165,L,DEC,8 - 4,Curtis Decker,45153,Pittsburgh,Jordan Florence,52574,Virginia Tech
+2019,01/05,Franklin & Marshall Open,165,L,TF5,21 - 5 7:00,Quentin Perez,40421,Campbell,Jordan Florence,52574,Virginia Tech
+2019,12/09,Patriots Open,165,L,DEC,8 - 7,Tucker Nadeau,56465,West Virginia,Jordan Florence,52574,Virginia Tech
+2019,12/09,Patriots Open,165,W,MD,15 - 6,Dane Morgan,46500,Johns Hopkins,Jordan Florence,52574,Virginia Tech
+2019,12/09,Patriots Open,165,L,FALL,4:47,Colston DiBlasi,39718,George Mason,Jordan Florence,52574,Virginia Tech
+2019,12/09,Patriots Open,165,L,DEC,9 - 2,Krystian Kinsey,57061,Virginia,Kristian Scott,59632,Virginia Tech
+2019,12/09,Patriots Open,165,L,DEC,5 - 1,Timothy Fitzpatrick,57254,American,Kristian Scott,59632,Virginia Tech
+2019,11/18,Wolfpack Open,165,L,FALL,1:16,Jay Dominguez,58332,Newberry,Kristian Scott,59632,Virginia Tech
+2019,11/18,Wolfpack Open,165,L,DEC,7 - 3,Timothy Fitzpatrick,57254,American,Kristian Scott,59632,Virginia Tech
+2019,03/21,NCAA Championships,174,W,DEC,4 - 3,Michael Labriola,49207,Nebraska,David McFadden,39633,Virginia Tech
+2019,03/21,NCAA Championships,174,L,DEC,6 - 0,Daniel Lewis,20062,Missouri,David McFadden,39633,Virginia Tech
+2019,03/21,NCAA Championships,174,W,MD,20 - 9,Taylor Lujan,39506,Northern Iowa,David McFadden,39633,Virginia Tech
+2019,03/21,NCAA Championships,174,W,DEC,2 - 0,Jordan Kutler,39626,Lehigh,David McFadden,39633,Virginia Tech
+2019,03/21,NCAA Championships,174,W,DEC,7 - 3,Joseph Grello,44858,Rutgers,David McFadden,39633,Virginia Tech
+2019,03/21,NCAA Championships,174,W,DEC,6 - 2,Marcus Coleman,49154,Iowa State,David McFadden,39633,Virginia Tech
+2019,03/21,NCAA Championships,174,L,SV-1,5 - 3,Ben Harvey,40935,Army West Point,David McFadden,39633,Virginia Tech
+2019,03/21,NCAA Championships,174,W,DEC,4 - 0,Vincent DePrez,19651,Binghamton,David McFadden,39633,Virginia Tech
+2019,03/09,ACC Championships,174,W,MD,9 - 1,Devin Kane,44607,North Carolina,David McFadden,39633,Virginia Tech
+2019,03/09,ACC Championships,174,W,DEC,7 - 3,Matt Finesilver,47770,Duke,David McFadden,39633,Virginia Tech
+2019,02/22,North Carolina State - Virginia Tech Dual,174,W,DEC,9 - 8,Daniel Bullard,44612,NC State,David McFadden,39633,Virginia Tech
+2019,02/16,Virginia - Virginia Tech Dual,174,W,MD,13 - 4,Robert Patrick,50665,Virginia,David McFadden,39633,Virginia Tech
+2019,02/15,Cornell - Virginia Tech Dual,174,W,DEC,8 - 6,Brandon Womack,40379,Cornell,David McFadden,39633,Virginia Tech
+2019,02/08,Virginia Tech - North Carolina Dual,174,W,DEC,9 - 4,Devin Kane,44607,North Carolina,David McFadden,39633,Virginia Tech
+2019,02/01,Virginia Tech - Duke Dual,174,W,DEC,6 - 2,Matt Finesilver,47770,Duke,David McFadden,39633,Virginia Tech
+2019,01/27,Virginia Tech - Lehigh Dual,174,L,DEC,4 - 2,Jordan Kutler,39626,Lehigh,David McFadden,39633,Virginia Tech
+2019,01/25,Pittsburgh - Virginia Tech Dual,174,W,DEC,7 - 3,Gregg Harvey,45148,Pittsburgh,David McFadden,39633,Virginia Tech
+2019,01/12,Old Dominion - Virginia Tech Dual,174,W,DEC,5 - 0,Seldon Wright,39604,Old Dominion,David McFadden,39633,Virginia Tech
+2019,01/12,Virginia - Virginia Tech Dual,174,W,TF5,18 - 1 7:00,Robert Patrick,50665,Virginia,David McFadden,39633,Virginia Tech
+2019,01/11,Chattanooga - Virginia Tech Dual,174,W,DEC,10 - 3,Hunter Fortner,50952,Chattanooga,David McFadden,39633,Virginia Tech
+2019,01/01,Southern Scuffle,174,W,DEC,10 - 4,Marcus Coleman,49154,Iowa State,David McFadden,39633,Virginia Tech
+2019,01/01,Southern Scuffle,174,W,DEC,7 - 3,Jacob Oliver,49130,Edinboro,David McFadden,39633,Virginia Tech
+2019,01/01,Southern Scuffle,174,L,DEC,11 - 4,Joe Smith,39786,Oklahoma State,David McFadden,39633,Virginia Tech
+2019,01/01,Southern Scuffle,174,W,MD,18 - 5,Randy Meneweather II,44843,Air Force,David McFadden,39633,Virginia Tech
+2019,01/01,Southern Scuffle,174,W,TB-2,3 - 2,Trent Hidlay,51224,NC State,David McFadden,39633,Virginia Tech
+2019,01/01,Southern Scuffle,174,W,TF5,18 - 0 2:17,Ethan Hoffman,51346,North Carolina,David McFadden,39633,Virginia Tech
+2019,12/19,Virginia Tech - West Virginia Dual,174,W,DEC,8 - 2,Josh Ramirez,57158,West Virginia,David McFadden,39633,Virginia Tech
+2019,12/07,Princeton - Virginia Tech Dual,174,W,DEC,4 - 0,Travis Stefanik,49301,Princeton,David McFadden,39633,Virginia Tech
+2019,01/26,Appalachian Open,174,L,FALL,1:16,Clay Lautt,49212,North Carolina,Cody Hughes,39608,Virginia Tech
+2019,01/26,Appalachian Open,174,W,DEC,9 - 3,Mason Eaglin,57137,Duke,Cody Hughes,39608,Virginia Tech
+2019,01/26,Appalachian Open,174,W,DEC,9 - 5,Caleb Hopkins,56482,Campbell,Cody Hughes,39608,Virginia Tech
+2019,01/26,Appalachian Open,174,W,DEC,6 - 2,Thomas Flitz,45410,Appalachian State,Cody Hughes,39608,Virginia Tech
+2019,01/01,Southern Scuffle,174,L,FALL,0:37,Michael O'Malley,50836,Drexel,Cody Hughes,39608,Virginia Tech
+2019,01/01,Southern Scuffle,174,W,DEC,7 - 4,Christian Bahl,49262,Oklahoma State,Cody Hughes,39608,Virginia Tech
+2019,01/01,Southern Scuffle,174,L,TF5,22 - 7 6:36,Mark Hall,44839,Penn State,Cody Hughes,39608,Virginia Tech
+2019,01/01,Southern Scuffle,174,W,FALL,4:50,Foster Karmon,46061,Stanford,Cody Hughes,39608,Virginia Tech
+2019,11/30,Cliff Keen Invitational,174,W,DEC,6 - 3,Robert Patrick,50665,Virginia,Cody Hughes,39608,Virginia Tech
+2019,11/30,Cliff Keen Invitational,174,L,DEC,4 - 3,Devin Kane,44607,North Carolina,Cody Hughes,39608,Virginia Tech
+2019,11/30,Cliff Keen Invitational,174,W,DEC,7 - 4,Ricky Padilla,40631,Fresno State,Cody Hughes,39608,Virginia Tech
+2019,11/30,Cliff Keen Invitational,174,L,SV-1,6 - 4,Andrew Morgan,40250,Campbell,Cody Hughes,39608,Virginia Tech
+2019,11/18,Virginia Tech - Northwestern Dual,174,L,DEC,6 - 1,Johnny Sebastian,20224,Northwestern,Cody Hughes,39608,Virginia Tech
+2019,11/16,Virginia Tech - Missouri Dual,174,L,DEC,7 - 3,Daniel Lewis,20062,Missouri,Cody Hughes,39608,Virginia Tech
+2019,11/18,Wolfpack Open,184,L,MD,13 - 4,ZeBrandon Gant,58319,Newberry,Eric Hansen,45160,Virginia Tech
+2019,11/18,Wolfpack Open,184,W,MD,16 - 4,Dylan Eaton,51976,Newberry,Eric Hansen,45160,Virginia Tech
+2019,11/18,Wolfpack Open,184,W,DEC,10 - 6,Robert Tywater,51369,The Citadel,Eric Hansen,45160,Virginia Tech
+2019,11/18,Wolfpack Open,184,L,FALL,2:39,Will Schany,20435,Virginia,Eric Hansen,45160,Virginia Tech
+2019,11/04,Hokie Open,174,W,DEC,5 - 4,Myles Williams,57819,Emmanuel,Eric Hansen,45160,Virginia Tech
+2019,11/04,Hokie Open,174,L,DEC,7 - 4,Cooper Youngblood,57376,The Citadel,Eric Hansen,45160,Virginia Tech
+2019,11/04,Hokie Open,174,L,FALL,2:41,Ethan Hoffman,51346,North Carolina,Eric Hansen,45160,Virginia Tech
+2019,03/21,NCAA Championships,184,L,DEC,5 - 4,Dakota Geer,45373,Oklahoma State,Zack Zavatsky,20460,Virginia Tech
+2019,03/21,NCAA Championships,184,W,DEC,5 - 4,Taylor Venz,44854,Nebraska,Zack Zavatsky,20460,Virginia Tech
+2019,03/21,NCAA Championships,184,L,DEC,7 - 4,Emery Parker,19939,Illinois,Zack Zavatsky,20460,Virginia Tech
+2019,03/21,NCAA Championships,184,L,DEC,6 - 2,Drew Foster,20212,Northern Iowa,Zack Zavatsky,20460,Virginia Tech
+2019,03/21,NCAA Championships,184,W,DEC,9 - 7,Cameron Caffey,50273,Michigan State,Zack Zavatsky,20460,Virginia Tech
+2019,03/21,NCAA Championships,184,W,DEC,8 - 2,Dom Ducharme,45323,CSU Bakersfield,Zack Zavatsky,20460,Virginia Tech
+2019,03/09,ACC Championships,184,W,DEC,4 - 1,Nino Bonaccorsi,49285,Pittsburgh,Zack Zavatsky,20460,Virginia Tech
+2019,03/09,ACC Championships,184,W,DEC,8 - 1,Chip Ness,20118,North Carolina,Zack Zavatsky,20460,Virginia Tech
+2019,02/22,North Carolina State - Virginia Tech Dual,184,W,DEC,6 - 2,Nick Reenan,45035,NC State,Zack Zavatsky,20460,Virginia Tech
+2019,02/16,Virginia - Virginia Tech Dual,184,W,TF5,18 - 3 5:36,Drew Peck,49055,Virginia,Zack Zavatsky,20460,Virginia Tech
+2019,02/15,Cornell - Virginia Tech Dual,184,L,MD,9 - 0,Max Dean,46025,Cornell,Zack Zavatsky,20460,Virginia Tech
+2019,02/08,Virginia Tech - North Carolina Dual,184,W,MD,12 - 4,Chip Ness,20118,North Carolina,Zack Zavatsky,20460,Virginia Tech
+2019,02/01,Virginia Tech - Duke Dual,184,W,MD,18 - 9,Kaden Russell,49124,Duke,Zack Zavatsky,20460,Virginia Tech
+2019,01/27,Virginia Tech - Lehigh Dual,184,W,DEC,6 - 2,Ryan Preisch,19987,Lehigh,Zack Zavatsky,20460,Virginia Tech
+2019,01/25,Pittsburgh - Virginia Tech Dual,184,W,DEC,2 - 0,Nino Bonaccorsi,49285,Pittsburgh,Zack Zavatsky,20460,Virginia Tech
+2019,01/12,Old Dominion - Virginia Tech Dual,184,W,TF5,19 - 4 7:00,Dean Drugac,44766,Old Dominion,Zack Zavatsky,20460,Virginia Tech
+2019,01/12,Virginia - Virginia Tech Dual,184,W,MD,17 - 4,Chance McClure,20430,Virginia,Zack Zavatsky,20460,Virginia Tech
+2019,01/11,Chattanooga - Virginia Tech Dual,184,W,FALL,5:55,Dominic Lampe,39819,Chattanooga,Zack Zavatsky,20460,Virginia Tech
+2019,12/19,Virginia Tech - West Virginia Dual,184,W,MD,15 - 6,Hunter DeLong,50972,West Virginia,Zack Zavatsky,20460,Virginia Tech
+2019,12/07,Princeton - Virginia Tech Dual,184,W,MD,14 - 6,Kevin Parker,44710,Princeton,Zack Zavatsky,20460,Virginia Tech
+2019,11/30,Cliff Keen Invitational,184,W,DEC,7 - 4,Will Sumner,20419,Utah Valley,Zack Zavatsky,20460,Virginia Tech
+2019,11/30,Cliff Keen Invitational,184,W,DEC,6 - 2,Nino Bonaccorsi,49285,Pittsburgh,Zack Zavatsky,20460,Virginia Tech
+2019,11/30,Cliff Keen Invitational,184,W,TF5,20 - 5 7:00,Myles Terry,51640,Oregon State,Zack Zavatsky,20460,Virginia Tech
+2019,11/30,Cliff Keen Invitational,184,L,DEC,9 - 6,Drew Foster,20212,Northern Iowa,Zack Zavatsky,20460,Virginia Tech
+2019,11/30,Cliff Keen Invitational,184,L,DEC,9 - 5,Drew Foster,20212,Northern Iowa,Zack Zavatsky,20460,Virginia Tech
+2019,11/30,Cliff Keen Invitational,184,W,DEC,3 - 2,Dylan Wisman,39507,Missouri,Zack Zavatsky,20460,Virginia Tech
+2019,11/30,Cliff Keen Invitational,184,W,DEC,6 - 4,Owen Webster,48190,Minnesota,Zack Zavatsky,20460,Virginia Tech
+2019,11/30,Cliff Keen Invitational,184,W,DEC,13 - 6,Max Dean,46025,Cornell,Zack Zavatsky,20460,Virginia Tech
+2019,11/18,Virginia Tech - Northwestern Dual,184,W,TF5,24 - 9 5:50,Brendan Devine,57086,Northwestern,Zack Zavatsky,20460,Virginia Tech
+2019,11/16,Virginia Tech - Missouri Dual,184,W,DEC,8 - 5,Dylan Wisman,39507,Missouri,Zack Zavatsky,20460,Virginia Tech
+2019,11/04,Hokie Open,184,W,MD,16 - 5,Hunter Queen,49219,North Carolina,Zack Zavatsky,20460,Virginia Tech
+2019,11/04,Hokie Open,184,W,DEC,11 - 5,Kaden Russell,49124,Duke,Zack Zavatsky,20460,Virginia Tech
+2019,11/04,Hokie Open,184,W,FALL,6:37,Alan Clothier,45412,Appalachian State,Zack Zavatsky,20460,Virginia Tech
+2019,01/01,Southern Scuffle,184,W,DEC,3 - 2,Louie DePrez,49046,Binghamton,Hunter Bolen,49335,Virginia Tech
+2019,01/01,Southern Scuffle,184,W,FALL,2:13,Alan Clothier,45412,Appalachian State,Hunter Bolen,49335,Virginia Tech
+2019,01/01,Southern Scuffle,184,W,DEC,3 - 1,Jacobe Smith,22087,Oklahoma State,Hunter Bolen,49335,Virginia Tech
+2019,01/01,Southern Scuffle,184,L,DEC,4 - 1,Shakur Rasheed,20305,Penn State,Hunter Bolen,49335,Virginia Tech
+2019,01/01,Southern Scuffle,184,W,MD,11 - 3,Dalton Robertson,44695,Northern Colorado,Hunter Bolen,49335,Virginia Tech
+2019,01/01,Southern Scuffle,184,W,MD,11 - 3,Joe Franzese,57273,Columbia,Hunter Bolen,49335,Virginia Tech
+2019,11/18,Wolfpack Open,184,W,TF5,15 - 0 4:01,ZeBrandon Gant,58319,Newberry,Hunter Bolen,49335,Virginia Tech
+2019,11/18,Wolfpack Open,184,W,TF5,17 - 0 4:07,Noah Curreri,52208,Queens,Hunter Bolen,49335,Virginia Tech
+2019,11/18,Wolfpack Open,184,W,FALL,0:51,Robert Tywater,51369,The Citadel,Hunter Bolen,49335,Virginia Tech
+2019,11/18,Wolfpack Open,184,W,MD,12 - 0,Victor Marcelli,50587,Virginia,Hunter Bolen,49335,Virginia Tech
+2019,11/04,Hokie Open,184,W,TF5,15 - 0 3:59,Brandon Sloop,44458,UNC Pembroke,Hunter Bolen,49335,Virginia Tech
+2019,11/04,Hokie Open,184,W,DEC,4 - 2,Chip Ness,20118,North Carolina,Hunter Bolen,49335,Virginia Tech
+2019,11/04,Hokie Open,184,W,TF5,16 - 0 2:36,Norman Conley,39929,Indiana,Hunter Bolen,49335,Virginia Tech
+2019,01/01,Southern Scuffle,184,W,MD,17 - 4,Bear Hughes,52303,Oklahoma State,Stanley Smeltzer,50902,Virginia Tech
+2019,01/01,Southern Scuffle,184,L,MFOR,0 - 0,Anthony Cable,40260,Navy,Stanley Smeltzer,50902,Virginia Tech
+2019,01/01,Southern Scuffle,184,L,FALL,2:59,Dom Ducharme,45323,CSU Bakersfield,Stanley Smeltzer,50902,Virginia Tech
+2019,12/02,Storm Open,184,L,MD,17 - 7,Tim Wallace,50532,Kent State,Stanley Smeltzer,50902,Virginia Tech
+2019,12/02,Storm Open,184,W,DEC,11 - 5,Shae Bloom,56809,Clarion,Stanley Smeltzer,50902,Virginia Tech
+2019,12/02,Storm Open,184,W,TF5,15 - 0 4:42,John Penfold,48051,Lake Erie College,Stanley Smeltzer,50902,Virginia Tech
+2019,12/02,Storm Open,184,W,DEC,8 - 5,Jesse Palser,41631,Lake Erie College,Stanley Smeltzer,50902,Virginia Tech
+2019,12/09,Patriots Open,184,W,FALL,6:22,Isaac Morales,47790,Johns Hopkins,D'Angelo DeWitt,57933,Virginia Tech
+2019,12/09,Patriots Open,184,W,DEC,5 - 0,Jack Walsh,44951,Virginia,D'Angelo DeWitt,57933,Virginia Tech
+2019,12/09,Patriots Open,184,L,FALL,2:04,Bryan Martin,56433,Rider,D'Angelo DeWitt,57933,Virginia Tech
+2019,12/09,Patriots Open,184,L,FALL,4:06,Billy Janzer,49473,Rutgers,D'Angelo DeWitt,57933,Virginia Tech
+2019,11/18,Wolfpack Open,184,L,TF5,15 - 0 5:00,Noah Curreri,52208,Queens,D'Angelo DeWitt,57933,Virginia Tech
+2019,11/18,Wolfpack Open,184,W,MD,11 - 3,Jacob Balmas,52206,Queens,D'Angelo DeWitt,57933,Virginia Tech
+2019,11/18,Wolfpack Open,184,L,DEC,7 - 6,Lance Armenta,40328,North Carolina,D'Angelo DeWitt,57933,Virginia Tech
+2019,11/04,Hokie Open,184,W,DEC,5 - 3,ZeBrandon Gant,58319,Newberry,D'Angelo DeWitt,57933,Virginia Tech
+2019,11/04,Hokie Open,184,L,DEC,12 - 7,Hunter DeLong,50972,West Virginia,D'Angelo DeWitt,57933,Virginia Tech
+2019,11/04,Hokie Open,184,W,FALL,1:25,Jack Walsh,44951,Virginia,D'Angelo DeWitt,57933,Virginia Tech
+2019,11/04,Hokie Open,184,W,TF5,19 - 1 6:02,Jacob Fereday,56921,Chattanooga,D'Angelo DeWitt,57933,Virginia Tech
+2019,11/04,Hokie Open,184,W,MD,13 - 4,Cole Maddox,57197,Campbell,D'Angelo DeWitt,57933,Virginia Tech
+2019,03/21,NCAA Championships,197,L,DEC,6 - 2,Jacob Warner,49151,Iowa,Tom Sleigh,19710,Virginia Tech
+2019,03/21,NCAA Championships,197,L,DEC,17 - 11,Kollin Moore,39638,Ohio State,Tom Sleigh,19710,Virginia Tech
+2019,03/21,NCAA Championships,197,W,DEC,9 - 8,Jay Aiello,44667,Virginia,Tom Sleigh,19710,Virginia Tech
+2019,03/21,NCAA Championships,197,W,DEC,2 - 1,Kellan Stout,39528,Pittsburgh,Tom Sleigh,19710,Virginia Tech
+2019,03/09,ACC Championships,197,W,DEC,4 - 3,Kellan Stout,39528,Pittsburgh,Tom Sleigh,19710,Virginia Tech
+2019,03/09,ACC Championships,197,W,FALL,4:24,Brandon Whitman,50602,North Carolina,Tom Sleigh,19710,Virginia Tech
+2019,03/09,ACC Championships,197,L,DEC,3 - 2,Malik McDonald,20133,NC State,Tom Sleigh,19710,Virginia Tech
+2019,02/22,North Carolina State - Virginia Tech Dual,197,W,DEC,3 - 2,Malik McDonald,20133,NC State,Tom Sleigh,19710,Virginia Tech
+2019,02/08,Virginia Tech - North Carolina Dual,197,L,DEC,7 - 4,Brandon Whitman,50602,North Carolina,Tom Sleigh,19710,Virginia Tech
+2019,02/01,Virginia Tech - Duke Dual,197,W,DEC,3 - 2,Alec Schenk,19869,Duke,Tom Sleigh,19710,Virginia Tech
+2019,01/27,Virginia Tech - Lehigh Dual,197,W,DEC,7 - 2,Chris Weiler,45108,Lehigh,Tom Sleigh,19710,Virginia Tech
+2019,01/25,Pittsburgh - Virginia Tech Dual,197,W,DEC,3 - 1,Kellan Stout,39528,Pittsburgh,Tom Sleigh,19710,Virginia Tech
+2019,01/12,Virginia - Virginia Tech Dual,197,W,DEC,7 - 3,Jay Aiello,44667,Virginia,Tom Sleigh,19710,Virginia Tech
+2019,01/11,Chattanooga - Virginia Tech Dual,197,W,DEC,4 - 2,Rodney Jones,40212,Chattanooga,Tom Sleigh,19710,Virginia Tech
+2019,01/01,Southern Scuffle,197,W,DEC,9 - 3,Dakota Geer,45373,Oklahoma State,Tom Sleigh,19710,Virginia Tech
+2019,01/01,Southern Scuffle,197,W,DEC,4 - 0,Eli Spencer,45318,George Mason,Tom Sleigh,19710,Virginia Tech
+2019,01/01,Southern Scuffle,197,L,FALL,1:12,Bo Nickal,20302,Penn State,Tom Sleigh,19710,Virginia Tech
+2019,01/01,Southern Scuffle,197,W,DEC,5 - 2,Stephen Loiseau,19851,Drexel,Tom Sleigh,19710,Virginia Tech
+2019,01/01,Southern Scuffle,197,W,DEC,3 - 1,Jacob Seely,39665,Northern Colorado,Tom Sleigh,19710,Virginia Tech
+2019,01/01,Southern Scuffle,197,W,DEC,2 - 0,Anthony Perrine,49135,Gardner-Webb,Tom Sleigh,19710,Virginia Tech
+2019,12/19,Virginia Tech - West Virginia Dual,197,W,DEC,3 - 1,Noah Adams,49342,West Virginia,Tom Sleigh,19710,Virginia Tech
+2019,12/07,Princeton - Virginia Tech Dual,197,L,DEC,8 - 3,Patrick Brucki,49296,Princeton,Tom Sleigh,19710,Virginia Tech
+2019,11/30,Cliff Keen Invitational,197,W,TB-2,1 - 0,Cale Davidson,49353,Wyoming,Tom Sleigh,19710,Virginia Tech
+2019,11/30,Cliff Keen Invitational,197,L,MD,9 - 1,Jay Aiello,44667,Virginia,Tom Sleigh,19710,Virginia Tech
+2019,11/30,Cliff Keen Invitational,197,W,MFOR,0 - 0,Tanner Orndorff,40324,Utah Valley,Tom Sleigh,19710,Virginia Tech
+2019,11/30,Cliff Keen Invitational,197,W,DEC,4 - 1,Zack Chakonis,39740,Northwestern,Tom Sleigh,19710,Virginia Tech
+2019,11/30,Cliff Keen Invitational,197,L,DEC,8 - 1,Greg Bulsak,44655,Clarion,Tom Sleigh,19710,Virginia Tech
+2019,11/30,Cliff Keen Invitational,197,W,TF5,15 - 0 4:43,Frank Wyshinski,52965,Cal Baptist,Tom Sleigh,19710,Virginia Tech
+2019,11/18,Virginia Tech - Northwestern Dual,197,W,DEC,4 - 2,Zack Chakonis,39740,Northwestern,Tom Sleigh,19710,Virginia Tech
+2019,11/16,Virginia Tech - Missouri Dual,197,W,DEC,4 - 3,Wyatt Koelling,44722,Missouri,Tom Sleigh,19710,Virginia Tech
+2019,01/26,Appalachian Open,197,W,TF5,20 - 5 5:19,Jake Johnson,56922,Chattanooga,Dakota Howard,51202,Virginia Tech
+2019,01/26,Appalachian Open,197,W,TF5,20 - 5 5:07,Brandon Skinner,39843,Campbell,Dakota Howard,51202,Virginia Tech
+2019,01/26,Appalachian Open,197,L,DEC,9 - 2,Paul Carson,51334,Appalachian State,Dakota Howard,51202,Virginia Tech
+2019,01/26,Appalachian Open,197,W,TF5,18 - 2 4:49,Demazio Samuel,45414,Appalachian State,Dakota Howard,51202,Virginia Tech
+2019,12/02,Storm Open,197,W,DEC,10 - 8,Mason Kroening,50158,Ohio,Dakota Howard,51202,Virginia Tech
+2019,12/02,Storm Open,197,L,MFOR,0 - 0,Colin McCracken,50064,Kent State,Dakota Howard,51202,Virginia Tech
+2019,12/02,Storm Open,197,W,DEC,12 - 5,John Kelbly,50329,Cleveland State,Dakota Howard,51202,Virginia Tech
+2019,12/02,Storm Open,197,W,DEC,6 - 4,Anthony DePrez,19650,Binghamton,Dakota Howard,51202,Virginia Tech
+2019,11/04,Hokie Open,197,W,FALL,3:13,Jake Johnson,58327,Unattached,Dakota Howard,51202,Virginia Tech
+2019,11/04,Hokie Open,197,W,FALL,4:03,Marcus Montgomery,57836,UNC Pembroke,Dakota Howard,51202,Virginia Tech
+2019,11/04,Hokie Open,197,L,FALL,1:34,Tony Wuest,50927,NC State,Dakota Howard,51202,Virginia Tech
+2019,11/04,Hokie Open,197,W,TB-2,9 - 8,Jake Kleimola,44956,Indiana,Dakota Howard,51202,Virginia Tech
+2019,11/04,Hokie Open,197,L,MFOR,0 - 0,Ben Stacey,44899,Chattanooga,Dakota Howard,51202,Virginia Tech
+2019,02/16,Virginia - Virginia Tech Dual,197,L,DEC,14 - 7,Jay Aiello,44667,Virginia,Brooks Wilding,40356,Virginia Tech
+2019,02/15,Cornell - Virginia Tech Dual,197,L,DEC,11 - 5,Benjamin Honis,43656,Cornell,Brooks Wilding,40356,Virginia Tech
+2019,03/21,NCAA Championships,285,L,DEC,3 - 2,Cary Miller,39976,Appalachian State,Billy Miller,20725,Virginia Tech
+2019,03/21,NCAA Championships,285,L,MD,13 - 4,Thomas Haines,20247,Lock Haven,Billy Miller,20725,Virginia Tech
+2019,03/09,ACC Championships,285,W,MD,10 - 2,Tyler Love,43203,Virginia,Billy Miller,20725,Virginia Tech
+2019,03/09,ACC Championships,285,L,DEC,10 - 9,Demetrius Thomas,47357,Pittsburgh,Billy Miller,20725,Virginia Tech
+2019,03/09,ACC Championships,285,W,DEC,6 - 2,Deonte Wilson,56403,NC State,Billy Miller,20725,Virginia Tech
+2019,03/09,ACC Championships,285,W,FALL,4:14,Araad Fisher,40068,Duke,Billy Miller,20725,Virginia Tech
+2019,02/22,North Carolina State - Virginia Tech Dual,285,W,MD,10 - 2,Colin Lawler,54114,NC State,Billy Miller,20725,Virginia Tech
+2019,02/16,Virginia - Virginia Tech Dual,285,W,DEC,4 - 1,Tyler Love,43203,Virginia,Billy Miller,20725,Virginia Tech
+2019,02/15,Cornell - Virginia Tech Dual,285,W,DEC,4 - 3,Jeramy Sweany,40382,Cornell,Billy Miller,20725,Virginia Tech
+2019,02/08,Virginia Tech - North Carolina Dual,285,L,DEC,3 - 2,Cory Gillilland-Daniel,22024,North Carolina,Billy Miller,20725,Virginia Tech
+2019,02/01,Virginia Tech - Duke Dual,285,W,FALL,1:11,Araad Fisher,40068,Duke,Billy Miller,20725,Virginia Tech
+2019,01/27,Virginia Tech - Lehigh Dual,285,L,DEC,3 - 2,Jordan Wood,45107,Lehigh,Billy Miller,20725,Virginia Tech
+2019,01/25,Pittsburgh - Virginia Tech Dual,285,L,DEC,11 - 7,Demetrius Thomas,47357,Pittsburgh,Billy Miller,20725,Virginia Tech
+2019,01/12,Old Dominion - Virginia Tech Dual,285,W,DEC,8 - 2,Ali Wahab,44627,Old Dominion,Billy Miller,20725,Virginia Tech
+2019,01/12,Virginia - Virginia Tech Dual,285,W,MD,12 - 3,Tyler Love,43203,Virginia,Billy Miller,20725,Virginia Tech
+2019,01/11,Chattanooga - Virginia Tech Dual,285,W,DEC,8 - 1,Connor Tolley,19780,Chattanooga,Billy Miller,20725,Virginia Tech
+2019,01/01,Southern Scuffle,285,W,DEC,6 - 0,Gannon Gremmel,44856,Iowa State,Billy Miller,20725,Virginia Tech
+2019,01/01,Southern Scuffle,285,W,TF5,17 - 2 5:09,Sean Dee,40026,Binghamton,Billy Miller,20725,Virginia Tech
+2019,01/01,Southern Scuffle,285,L,MD,8 - 0,Nick Nevills,20301,Penn State,Billy Miller,20725,Virginia Tech
+2019,01/01,Southern Scuffle,285,L,DEC,4 - 3,Matthew Voss,19908,George Mason,Billy Miller,20725,Virginia Tech
+2019,01/01,Southern Scuffle,285,L,DEC,4 - 3,Joey Goodhart,19849,Drexel,Billy Miller,20725,Virginia Tech
+2019,01/01,Southern Scuffle,285,W,DEC,10 - 4,Haydn Maley,49327,Stanford,Billy Miller,20725,Virginia Tech
+2019,01/01,Southern Scuffle,285,W,DEC,7 - 2,David Showunmi,39853,Stanford,Billy Miller,20725,Virginia Tech
+2019,12/19,Virginia Tech - West Virginia Dual,285,W,DEC,4 - 0,Brandon Ngati,45167,West Virginia,Billy Miller,20725,Virginia Tech
+2019,12/07,Princeton - Virginia Tech Dual,285,W,MD,10 - 2,Kendall Elfstrum,49299,Princeton,Billy Miller,20725,Virginia Tech
+2019,01/26,Appalachian Open,285,W,DEC,7 - 1,Keaton Kluever,50603,North Carolina,John Borst,49336,Virginia Tech
+2019,01/26,Appalachian Open,285,W,TF5,20 - 2 7:00,Jeffrey Linker,57166,Gardner-Webb,John Borst,49336,Virginia Tech
+2019,01/26,Appalachian Open,285,L,DEC,4 - 2,Odgerek Batkhishig,46249,Campbell,John Borst,49336,Virginia Tech
+2019,01/26,Appalachian Open,285,W,TF5,16 - 0 5:26,Tim Warren,57649,Appalachian State,John Borst,49336,Virginia Tech
+2019,01/26,Appalachian Open,285,W,MD,18 - 7,Michael Burchell,57036,Appalachian State,John Borst,49336,Virginia Tech
+2019,01/05,Franklin & Marshall Open,285,W,MD,12 - 3,Ray O'Donnell,60681,PFW,John Borst,49336,Virginia Tech
+2019,01/05,Franklin & Marshall Open,285,L,DEC,3 - 2,Seth Nevills,50625,High School,John Borst,49336,Virginia Tech
+2019,01/05,Franklin & Marshall Open,285,W,TF5,16 - 1 7:00,Maguire Horl,51596,Sacred Heart,John Borst,49336,Virginia Tech
+2019,01/05,Franklin & Marshall Open,285,W,DEC,3 - 1,Zach Bruce,20321,Pittsburgh,John Borst,49336,Virginia Tech
+2019,01/05,Franklin & Marshall Open,285,W,DEC,4 - 3,Parker Fox,51020,Franklin & Marshall,John Borst,49336,Virginia Tech
+2019,01/01,Southern Scuffle,285,L,SV-1,3 - 1,Thomas Ott,40265,Navy,John Borst,49336,Virginia Tech
+2019,01/01,Southern Scuffle,285,L,TF5,20 - 5 7:00,Nick Nevills,20301,Penn State,John Borst,49336,Virginia Tech
+2019,01/01,Southern Scuffle,285,W,MD,12 - 3,Trevor Rasmussen,40001,Stanford,John Borst,49336,Virginia Tech
+2019,11/30,Cliff Keen Invitational,285,W,DEC,5 - 4,Michael McAleavey,45588,The Citadel,John Borst,49336,Virginia Tech
+2019,11/30,Cliff Keen Invitational,285,L,MD,10 - 2,Demetrius Thomas,47357,Pittsburgh,John Borst,49336,Virginia Tech
+2019,11/30,Cliff Keen Invitational,285,W,DEC,3 - 1,Thomas Ott,40265,Navy,John Borst,49336,Virginia Tech
+2019,11/30,Cliff Keen Invitational,285,L,TF5,18 - 3 2:49,Gable Steveson,50624,Minnesota,John Borst,49336,Virginia Tech
+2019,11/18,Virginia Tech - Northwestern Dual,285,L,MD,12 - 0,Conan Jennings,20222,Northwestern,John Borst,49336,Virginia Tech
+2019,11/16,Virginia Tech - Missouri Dual,285,L,DEC,5 - 4,Zach Elam,51612,Missouri,John Borst,49336,Virginia Tech
+2019,11/04,Hokie Open,285,W,DEC,4 - 1,David Smith,50968,West Virginia,John Borst,49336,Virginia Tech
+2019,11/04,Hokie Open,285,L,DEC,3 - 2,Matthew Voss,19908,George Mason,John Borst,49336,Virginia Tech
+2019,11/04,Hokie Open,285,L,DEC,3 - 1,Cary Miller,39976,Appalachian State,John Borst,49336,Virginia Tech
+2019,01/26,Appalachian Open,285,L,FALL,1:51,Colin Lawler,54114,NC State,Trent Ragland,56588,Virginia Tech
+2019,01/26,Appalachian Open,285,L,FALL,1:32,Keaton Kluever,50603,North Carolina,Trent Ragland,56588,Virginia Tech
+2019,01/26,Appalachian Open,285,W,MD,10 - 2,Jeffrey Linker,57166,Gardner-Webb,Trent Ragland,56588,Virginia Tech
+2019,01/26,Appalachian Open,285,W,DEC,3 - 0,Tim Warren,57649,Appalachian State,Trent Ragland,56588,Virginia Tech
+2019,01/05,Franklin & Marshall Open,285,L,FALL,2:15,Caleb Warner,48403,Millersville,Trent Ragland,56588,Virginia Tech
+2019,01/05,Franklin & Marshall Open,285,L,MD,10 - 0,Zach Bruce,20321,Pittsburgh,Trent Ragland,56588,Virginia Tech
+2019,12/09,Patriots Open,285,L,DEC,3 - 1,Ramses Montalvo,55869,George Mason,Trent Ragland,56588,Virginia Tech
+2019,12/09,Patriots Open,285,L,FALL,2:40,Matthew Voss,19908,George Mason,Trent Ragland,56588,Virginia Tech
+2019,11/18,Wolfpack Open,285,L,DEC,8 - 5,River Henry,52834,Old Dominion,Trent Ragland,56588,Virginia Tech
+2019,11/18,Wolfpack Open,285,L,DQ,0 - 0,Andrew Gunning,44876,North Carolina,Trent Ragland,56588,Virginia Tech

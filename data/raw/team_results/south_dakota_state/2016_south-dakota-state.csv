@@ -1,0 +1,685 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2016,03/05,Big 12 Championships,125,W,TF5,18 - 1 5:51,Jesse Reed,40205,Northern Colorado,Ben Gillette,13275,South Dakota State
+2016,03/05,Big 12 Championships,125,L,DEC,10 - 4,Kyle Larson,12069,Iowa State,Ben Gillette,13275,South Dakota State
+2016,03/05,Big 12 Championships,125,L,FALL,1:23,Eddie Klimara,12136,Oklahoma State,Ben Gillette,13275,South Dakota State
+2016,02/21,South Dakota State - North Dakota State Dual,125,L,FALL,6:31,Josh Rodriguez,13418,North Dakota State,Ben Gillette,13275,South Dakota State
+2016,02/14,South Dakota State - Oklahoma Dual,125,L,DEC,10 - 3,Ryan Millhof,20815,Oklahoma,Ben Gillette,13275,South Dakota State
+2016,02/12,West Virginia - South Dakota State Dual,125,L,DEC,4 - 1,Zeke Moisey,20472,West Virginia,Ben Gillette,13275,South Dakota State
+2016,02/07,South Dakota State - Boise State Dual,125,W,DEC,8 - 6,Rami Haddadin,16069,Boise State,Ben Gillette,13275,South Dakota State
+2016,02/05,South Dakota State - Utah Valley Dual,125,L,MD,13 - 5,Chasen Tolbert,13373,Utah Valley,Ben Gillette,13275,South Dakota State
+2016,01/29,Wyoming - South Dakota State Dual,125,W,INJ,7:00,Drew Templeman,15167,Wyoming,Ben Gillette,13275,South Dakota State
+2016,01/24,Air Force - South Dakota State Dual,125,W,MD,15 - 4,Drew Romero,20712,Air Force,Ben Gillette,13275,South Dakota State
+2016,01/22,Southern Illinois Edwardsville - South Dakota State Dual,125,W,MD,11 - 2,Joe Antonelli,40200,SIU Edwardsville,Ben Gillette,13275,South Dakota State
+2016,01/22,CSU Bakersfield - South Dakota State Dual,125,W,DEC,13 - 9,Sergio Mendez,15986,CSU Bakersfield,Ben Gillette,13275,South Dakota State
+2016,01/15,South Dakota State - Northern Colorado Dual,125,W,TF5,18 - 3 7:00,Jesse Reed,40205,Northern Colorado,Ben Gillette,13275,South Dakota State
+2016,12/29,Midlands Championships,125,L,MD,14 - 6,Ronnie Bresser,25183,Oregon State,Ben Gillette,13275,South Dakota State
+2016,12/29,Midlands Championships,125,W,DEC,13 - 7,Shakur Laney,39917,Ohio,Ben Gillette,13275,South Dakota State
+2016,12/29,Midlands Championships,125,L,TF5,16 - 0 7:00,Brandon Jeske,12133,Old Dominion,Ben Gillette,13275,South Dakota State
+2016,12/29,Midlands Championships,125,W,SV-1,6 - 4,Nathan Boston,19956,Iowa State,Ben Gillette,13275,South Dakota State
+2016,12/13,North Dakota State - South Dakota State Dual,125,L,FALL,4:34,Josh Rodriguez,13418,North Dakota State,Ben Gillette,13275,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,133,W,DEC,8 - 3,Quinten Berres,42126,St Cloud State,Ben Gillette,13275,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,133,L,DEC,7 - 3,jacob colon,21374,Grand View,Ben Gillette,13275,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,133,W,DEC,8 - 2,Jacob Grant,23924,Grand View,Ben Gillette,13275,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,133,W,DEC,10 - 8,Blake Walker,41102,Ellsworth CC,Ben Gillette,13275,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,133,W,TB-1,15 - 7,Josh Newburg,13286,Boise State,Ben Gillette,13275,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,133,L,DEC,12 - 5,Earl Hall,12220,Iowa State,Ben Gillette,13275,South Dakota State
+2016,11/01,Daktronics Open,133,L,FALL,0:50,Sam Brancale,13257,Minnesota,Ben Gillette,13275,South Dakota State
+2016,11/01,Daktronics Open,133,W,DEC,8 - 6,Blake Bosch,25199,Minnesota State Moorhead,Ben Gillette,13275,South Dakota State
+2016,11/01,Daktronics Open,133,W,MD,16 - 2,David Potratz,40521,Augustana,Ben Gillette,13275,South Dakota State
+2016,11/01,Daktronics Open,133,W,DEC,7 - 2,Henry Pohlmeyer,39803,South Dakota State,Ben Gillette,13275,South Dakota State
+2016,11/01,Daktronics Open,133,W,DEC,9 - 3,Gresh Jones,40193,Minnesota,Ben Gillette,13275,South Dakota State
+2016,11/01,Daktronics Open,133,W,FALL,6:59,Mario Haynes,23858,Iowa Central Community College,Ben Gillette,13275,South Dakota State
+2016,11/01,Daktronics Open,133,W,DEC,10 - 4,Nicholas O'Brien,21470,North Dakota State,Ben Gillette,13275,South Dakota State
+2016,11/01,Daktronics Open,133,L,DEC,11 - 8,Albert Landeros,40487,North Dakota State,Ben Gillette,13275,South Dakota State
+2016,02/06,Messiah Open,141,L,FALL,3:25,Adam Whitesell,20016,Maryland,Anthony Cefolo,40284,South Dakota State
+2016,02/06,Messiah Open,141,W,FALL,1:30,Chris Martorello,40384,Franklin & Marshall,Anthony Cefolo,40284,South Dakota State
+2016,02/06,Messiah Open,141,L,DEC,6 - 3,Triston Law,39765,Penn State,Anthony Cefolo,40284,South Dakota State
+2016,11/21,Virginia Tech - South Dakota State Dual,125,L,TF5,17 - 2 4:39,Joey Dance,12221,Virginia Tech,Anthony Cefolo,40284,South Dakota State
+2016,11/07,South Dakota State - Grand Canyon Dual,125,L,DEC,7 - 2,Trayton Libolt,40387,Grand Canyon,Anthony Cefolo,40284,South Dakota State
+2016,11/07,Virginia - South Dakota State Dual,125,W,DEC,10 - 8,Nick Herrmann,12144,Virginia,Anthony Cefolo,40284,South Dakota State
+2016,11/07,South Dakota State - Minnesota Dual,125,L,DEC,3 - 2,Skyler Petry,20045,Minnesota,Anthony Cefolo,40284,South Dakota State
+2016,11/01,Daktronics Open,125,L,DEC,8 - 1,Skyler Petry,20045,Minnesota,Anthony Cefolo,40284,South Dakota State
+2016,11/01,Daktronics Open,125,W,FALL,2:03,Javier Vieyra,21701,Augustana,Anthony Cefolo,40284,South Dakota State
+2016,11/01,Daktronics Open,125,W,MD,13 - 2,Arthur Payne,40485,North Dakota State,Anthony Cefolo,40284,South Dakota State
+2016,11/01,Daktronics Open,125,L,DEC,6 - 2,Kris Williams,39807,Nebraska,Anthony Cefolo,40284,South Dakota State
+2016,11/14,Bison Open,125,L,MD,20 - 7,Josh Rodriguez,13418,North Dakota State,Cameron Sykora,39757,South Dakota State
+2016,11/14,Bison Open,125,W,TF5,16 - 0 4:49,Jonathan Lewis,41760,Minnesota State Moorhead,Cameron Sykora,39757,South Dakota State
+2016,11/14,Bison Open,125,W,MD,11 - 2,Arthur Payne,40485,North Dakota State,Cameron Sykora,39757,South Dakota State
+2016,11/01,Daktronics Open,125,L,FALL,2:04,Ethan Lizak,20040,Minnesota,Cameron Sykora,39757,South Dakota State
+2016,11/01,Daktronics Open,125,W,DEC,10 - 7,Alex DelaCruz,21390,Iowa Central Community College,Cameron Sykora,39757,South Dakota State
+2016,11/01,Daktronics Open,125,W,TF5,18 - 0 1:44,Mitch Brinkman,40526,Iowa Central Community College,Cameron Sykora,39757,South Dakota State
+2016,11/01,Daktronics Open,125,L,TF5,23 - 3 3:27,Josh Rodriguez,13418,North Dakota State,Cameron Sykora,39757,South Dakota State
+2016,11/01,Daktronics Open,125,W,TF5,16 - 0 5:36,Arthur Payne,40485,North Dakota State,Cameron Sykora,39757,South Dakota State
+2016,11/01,Daktronics Open,125,L,DEC,9 - 2,Tim Lambert,13256,Nebraska,Cameron Sykora,39757,South Dakota State
+2016,01/16,Worthington Open,125,L,MD,10 - 0,Kolby Smith,43971,Briar Cliff,Kahlen Morris,40278,South Dakota State
+2016,01/16,Worthington Open,125,L,DEC,3 - 1,Andrew Mcfall,43259,Minnesota State Mankato,Kahlen Morris,40278,South Dakota State
+2016,12/06,Northern State - South Dakota State Dual,125,L,FALL,2:03,Carson Henry,43183,Northern State University,Kahlen Morris,40278,South Dakota State
+2016,12/06,Augustana (SD) - South Dakota State Dual,125,L,DEC,8 - 2,Javier Vieyra,21701,Augustana,Kahlen Morris,40278,South Dakota State
+2016,12/06,Dakota Wesleyan - South Dakota State Dual,125,W,DEC,9 - 6,Will Seydel,21080,Dakota Wesleyan,Kahlen Morris,40278,South Dakota State
+2016,12/04,South Dakota State - Iowa Dual,125,L,FALL,1:34,Thomas Gilman,13245,Iowa,Kahlen Morris,40278,South Dakota State
+2016,11/27,Oklahoma State - South Dakota State Dual,125,L,TF5,20 - 2 5:31,Eddie Klimara,12136,Oklahoma State,Kahlen Morris,40278,South Dakota State
+2016,11/21,Finn Grinaker Open,125,L,MD,14 - 6,Jared Goldsmith,41785,Minnesota State Moorhead,Kahlen Morris,40278,South Dakota State
+2016,11/21,Finn Grinaker Open,125,L,MD,16 - 4,Aaron Dick,42307,Concordia-Moorhead,Kahlen Morris,40278,South Dakota State
+2016,11/14,Bison Open,125,L,DEC,14 - 7,Michael Rangel,41759,Minot State,Kahlen Morris,40278,South Dakota State
+2016,11/14,Bison Open,125,L,TF5,20 - 4 5:00,Josh Rodriguez,13418,North Dakota State,Kahlen Morris,40278,South Dakota State
+2016,11/07,Grand View Open,125,W,MD,18 - 4,Chad Skokowski,41101,Concordia,Kahlen Morris,40278,South Dakota State
+2016,11/07,Grand View Open,125,L,DEC,7 - 4,Lucas Bernal,40201,SIU Edwardsville,Kahlen Morris,40278,South Dakota State
+2016,11/07,Grand View Open,125,L,DEC,4 - 2,Joe Antonelli,40200,SIU Edwardsville,Kahlen Morris,40278,South Dakota State
+2016,11/01,Daktronics Open,125,L,DEC,4 - 3,Curtis Cannon,40525,Iowa Central Community College,Kahlen Morris,40278,South Dakota State
+2016,11/01,Daktronics Open,125,L,FALL,5:36,Alex DelaCruz,21390,Iowa Central Community College,Kahlen Morris,40278,South Dakota State
+2016,03/05,Big 12 Championships,133,L,DEC,7 - 0,Jade Rauser,13291,Utah Valley,Brance Simms,11703,South Dakota State
+2016,03/05,Big 12 Championships,133,L,DEC,3 - 2,Keegan Moore,39680,West Virginia,Brance Simms,11703,South Dakota State
+2016,02/21,South Dakota State - North Dakota State Dual,133,W,MD,8 - 0,Nico Colunga,39981,North Dakota State,Brance Simms,11703,South Dakota State
+2016,02/14,South Dakota State - Oklahoma Dual,133,L,MD,16 - 5,Cody Brewer,12037,Oklahoma,Brance Simms,11703,South Dakota State
+2016,02/12,West Virginia - South Dakota State Dual,133,W,DEC,8 - 4,Cory Stainbrook,12131,West Virginia,Brance Simms,11703,South Dakota State
+2016,02/07,South Dakota State - Boise State Dual,133,W,MD,10 - 2,Josh Newburg,13286,Boise State,Brance Simms,11703,South Dakota State
+2016,02/05,South Dakota State - Utah Valley Dual,133,L,FALL,2:16,Jade Rauser,13291,Utah Valley,Brance Simms,11703,South Dakota State
+2016,01/29,Wyoming - South Dakota State Dual,133,L,DEC,9 - 5,Drake Foster,39797,Wyoming,Brance Simms,11703,South Dakota State
+2016,01/24,Air Force - South Dakota State Dual,133,L,FALL,6:00,Josh Martinez,12145,Air Force,Brance Simms,11703,South Dakota State
+2016,01/22,Southern Illinois Edwardsville - South Dakota State Dual,133,W,DEC,7 - 3,Dakota Leach,13281,SIU Edwardsville,Brance Simms,11703,South Dakota State
+2016,01/22,CSU Bakersfield - South Dakota State Dual,133,W,DEC,3 - 1,Carlos Herrera,40167,CSU Bakersfield,Brance Simms,11703,South Dakota State
+2016,01/15,South Dakota State - Northern Colorado Dual,133,W,DEC,6 - 4,Rico Montoya,39862,Northern Colorado,Brance Simms,11703,South Dakota State
+2016,12/29,Midlands Championships,133,L,MD,11 - 2,Eric Montoya,13414,Nebraska,Brance Simms,11703,South Dakota State
+2016,12/29,Midlands Championships,133,W,DEC,8 - 2,Joel Shump,12023,Ohio,Brance Simms,11703,South Dakota State
+2016,12/29,Midlands Championships,133,W,DEC,5 - 2,Austin Eicher,20200,Northern Illinois,Brance Simms,11703,South Dakota State
+2016,12/29,Midlands Championships,133,L,MD,10 - 2,Mason Beckman,12016,Lehigh,Brance Simms,11703,South Dakota State
+2016,12/13,North Dakota State - South Dakota State Dual,133,W,MD,11 - 2,Nico Colunga,39981,North Dakota State,Brance Simms,11703,South Dakota State
+2016,12/06,Augustana (SD) - South Dakota State Dual,133,W,MD,13 - 4,David Potratz,40521,Augustana,Brance Simms,11703,South Dakota State
+2016,12/04,South Dakota State - Iowa Dual,133,L,DEC,4 - 1,Cory Clark,13249,Iowa,Brance Simms,11703,South Dakota State
+2016,11/27,Oklahoma State - South Dakota State Dual,133,W,SV-1,7 - 5,Gary Wayne Harding,20270,Oklahoma State,Brance Simms,11703,South Dakota State
+2016,11/21,Virginia Tech - South Dakota State Dual,133,W,DEC,6 - 4,Kevin Norstrem,11999,Virginia Tech,Brance Simms,11703,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,133,L,FALL,5:55,jacob colon,21374,Grand View,Brance Simms,11703,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,133,L,DEC,5 - 4,Daniel DeShazer,21395,Nebraska-Kearney,Brance Simms,11703,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,133,W,FALL,5:39,jacob colon,21374,Grand View,Brance Simms,11703,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,133,W,DEC,8 - 3,Josh Newburg,13286,Boise State,Brance Simms,11703,South Dakota State
+2016,11/07,South Dakota State - Grand Canyon Dual,133,W,DEC,2 - 0,Juaquin Olivas,40388,Grand Canyon,Brance Simms,11703,South Dakota State
+2016,11/07,Virginia - South Dakota State Dual,133,L,MD,13 - 5,George DiCamillo,20426,Virginia,Brance Simms,11703,South Dakota State
+2016,11/07,South Dakota State - Minnesota Dual,133,L,DEC,13 - 7,Sam Brancale,13257,Minnesota,Brance Simms,11703,South Dakota State
+2016,01/16,Worthington Open,133,W,FALL,0:31,Lamont Wilson,40859,Iowa Lakes Community College,Henry Pohlmeyer,39803,South Dakota State
+2016,01/16,Worthington Open,133,L,DEC,8 - 5,Paul Selman,43966,Minnesota State Mankato,Henry Pohlmeyer,39803,South Dakota State
+2016,01/16,Worthington Open,133,W,FALL,0:20,Morgan Engbrecht,23451,Augustana,Henry Pohlmeyer,39803,South Dakota State
+2016,01/16,Worthington Open,133,W,FALL,3:53,Cornelious Elliott,42041,St Cloud State,Henry Pohlmeyer,39803,South Dakota State
+2016,01/16,Worthington Open,133,W,MD,8 - 0,Gresh Jones,40193,Minnesota,Henry Pohlmeyer,39803,South Dakota State
+2016,11/21,Finn Grinaker Open,133,W,FALL,1:00,Lukas Maughan,41761,Minnesota State Moorhead,Henry Pohlmeyer,39803,South Dakota State
+2016,11/21,Finn Grinaker Open,133,W,FALL,5:34,Daniel Cota,42308,Minot State,Henry Pohlmeyer,39803,South Dakota State
+2016,11/21,Finn Grinaker Open,133,W,FALL,1:45,Carson Rhoads,42309,Buena Vista,Henry Pohlmeyer,39803,South Dakota State
+2016,11/21,Finn Grinaker Open,133,W,DEC,10 - 4,Tyler Pieper,20375,South Dakota State,Henry Pohlmeyer,39803,South Dakota State
+2016,11/21,Finn Grinaker Open,133,W,FALL,1:54,Darrin Eades,23751,Northern Iowa,Henry Pohlmeyer,39803,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,133,L,DEC,5 - 0,Tyler Pasvogel,24935,St Cloud State,Henry Pohlmeyer,39803,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,133,L,DEC,8 - 7,Brian Peska,20103,Nebraska,Henry Pohlmeyer,39803,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,133,W,DEC,6 - 2,Ryan Bauer,21346,Nebraska-Kearney,Henry Pohlmeyer,39803,South Dakota State
+2016,11/07,Grand View Open,133,W,FALL,2:36,Blake Walker,41102,Ellsworth CC,Henry Pohlmeyer,39803,South Dakota State
+2016,11/07,Grand View Open,133,W,FALL,2:58,David Berg,41041,Midland,Henry Pohlmeyer,39803,South Dakota State
+2016,11/07,Grand View Open,133,W,FALL,2:10,Nick Santos,40500,Iowa Central Community College,Henry Pohlmeyer,39803,South Dakota State
+2016,11/07,Grand View Open,133,W,MD,8 - 0,George Farmah,41104,Iowa Lakes Community College,Henry Pohlmeyer,39803,South Dakota State
+2016,11/01,Daktronics Open,133,W,MD,10 - 0,Morgan Engbrecht,23451,Augustana,Henry Pohlmeyer,39803,South Dakota State
+2016,11/01,Daktronics Open,133,L,FALL,4:41,Sam Brancale,13257,Minnesota,Henry Pohlmeyer,39803,South Dakota State
+2016,11/01,Daktronics Open,133,L,DEC,7 - 2,Ben Gillette,13275,South Dakota State,Henry Pohlmeyer,39803,South Dakota State
+2016,11/01,Daktronics Open,133,W,FALL,4:58,David Flynn,39693,North Dakota State,Henry Pohlmeyer,39803,South Dakota State
+2016,01/16,Worthington Open,141,L,DEC,3 - 2,Wilfred Charbono iii,43953,Morningside,Jaxon Fitzgerald,20371,South Dakota State
+2016,01/16,Worthington Open,141,W,DEC,4 - 2,Craig De la cruz,43954,Unattached,Jaxon Fitzgerald,20371,South Dakota State
+2016,01/16,Worthington Open,141,W,TF5,15 - 0 7:00,Dakota Clark,42348,Unattached,Jaxon Fitzgerald,20371,South Dakota State
+2016,01/16,Worthington Open,141,L,MD,10 - 0,Lamont Cannon,43174,Minnesota West Comm & Tech,Jaxon Fitzgerald,20371,South Dakota State
+2016,12/06,Northern State - South Dakota State Dual,141,L,DEC,8 - 2,Cody Voegeli,43184,Northern State University,Jaxon Fitzgerald,20371,South Dakota State
+2016,12/06,Dakota Wesleyan - South Dakota State Dual,149,W,TF5,16 - 0 3:44,Tanner Wonch,43179,Dakota Wesleyan,Jaxon Fitzgerald,20371,South Dakota State
+2016,11/07,Grand View Open,141,L,MFOR,0 - 0,George Benoit,41122,Grand View,Jaxon Fitzgerald,20371,South Dakota State
+2016,11/07,Grand View Open,141,L,INJ,7:00,Grayson Brenna,41123,Grand View,Jaxon Fitzgerald,20371,South Dakota State
+2016,11/07,Grand View Open,141,L,TF5,15 - 0 6:30,Josh Wenger,41092,Grand View,Jaxon Fitzgerald,20371,South Dakota State
+2016,11/07,Grand View Open,141,W,DEC,8 - 6,Anthony Wesley,40221,Iowa State,Jaxon Fitzgerald,20371,South Dakota State
+2016,11/07,Grand View Open,141,W,DEC,12 - 6,George Benoit,41122,Grand View,Jaxon Fitzgerald,20371,South Dakota State
+2016,11/01,Daktronics Open,133,W,FALL,1:20,Colin Corey,40520,Iowa Central Community College,Jaxon Fitzgerald,20371,South Dakota State
+2016,11/01,Daktronics Open,133,W,TF5,16 - 0 3:57,Jose Ramos,40519,Iowa Central Community College,Jaxon Fitzgerald,20371,South Dakota State
+2016,11/01,Daktronics Open,133,L,MD,14 - 3,Nicholas O'Brien,21470,North Dakota State,Jaxon Fitzgerald,20371,South Dakota State
+2016,11/01,Daktronics Open,133,L,FALL,5:46,Nico Colunga,39981,North Dakota State,Jaxon Fitzgerald,20371,South Dakota State
+2016,12/12,UNI Open,133,L,TF5,18 - 1 5:31,Markus Simmons,39505,Iowa State,Chris Walters,20377,South Dakota State
+2016,12/12,UNI Open,133,L,FALL,4:53,Austin Anderson,16080,Iowa State,Chris Walters,20377,South Dakota State
+2016,12/12,UNI Open,133,W,DEC,3 - 2,Darrin Eades,23751,Northern Iowa,Chris Walters,20377,South Dakota State
+2016,01/16,Worthington Open,133,L,FALL,0:30,Terrell Pampkin,40496,Iowa Central Community College,Tyler Pieper,20375,South Dakota State
+2016,01/16,Worthington Open,133,L,DEC,8 - 2,Lamont Wilson,40859,Iowa Lakes Community College,Tyler Pieper,20375,South Dakota State
+2016,12/06,Northern State - South Dakota State Dual,133,W,DEC,5 - 1,Kenny Mcaleavey,40511,Northern State University,Tyler Pieper,20375,South Dakota State
+2016,11/21,Finn Grinaker Open,133,W,FALL,6:13,Lukas Maughan,41761,Minnesota State Moorhead,Tyler Pieper,20375,South Dakota State
+2016,11/21,Finn Grinaker Open,133,L,DEC,10 - 6,Daniel Cota,42308,Minot State,Tyler Pieper,20375,South Dakota State
+2016,11/21,Finn Grinaker Open,133,W,SV-1,6 - 4,Carson Rhoads,42309,Buena Vista,Tyler Pieper,20375,South Dakota State
+2016,11/21,Finn Grinaker Open,133,L,DEC,10 - 4,Henry Pohlmeyer,39803,South Dakota State,Tyler Pieper,20375,South Dakota State
+2016,11/21,Finn Grinaker Open,133,L,DEC,4 - 1,Darrin Eades,23751,Northern Iowa,Tyler Pieper,20375,South Dakota State
+2016,11/14,Bison Open,133,L,DEC,6 - 0,Tate Barnhardt,41762,Mary,Tyler Pieper,20375,South Dakota State
+2016,11/14,Bison Open,133,L,FALL,1:14,David Flynn,39693,North Dakota State,Tyler Pieper,20375,South Dakota State
+2016,11/14,Bison Open,133,W,FALL,6:08,Lukas Maughan,41761,Minnesota State Moorhead,Tyler Pieper,20375,South Dakota State
+2016,11/14,Bison Open,133,L,FALL,0:51,Blake Bosch,25199,Minnesota State Moorhead,Tyler Pieper,20375,South Dakota State
+2016,11/07,Grand View Open,133,L,DEC,5 - 2,Taylor Wright,41103,Calumet,Tyler Pieper,20375,South Dakota State
+2016,11/07,Grand View Open,133,L,TF5,16 - 1 7:00,Blake Walker,41102,Ellsworth CC,Tyler Pieper,20375,South Dakota State
+2016,11/01,Daktronics Open,133,L,MD,13 - 5,Adrain Lozano,40512,Augustana,Tyler Pieper,20375,South Dakota State
+2016,11/01,Daktronics Open,133,L,MD,14 - 2,David Potratz,40521,Augustana,Tyler Pieper,20375,South Dakota State
+2016,03/17,NCAA Championships,141,L,DEC,10 - 3,Solomon Chishko,20440,Virginia Tech,Seth Gross,19949,South Dakota State
+2016,03/17,NCAA Championships,141,L,MD,15 - 2,Anthony Ashnault,11803,Rutgers,Seth Gross,19949,South Dakota State
+2016,03/17,NCAA Championships,141,W,DEC,12 - 10,Danny Sabatello,11741,Purdue,Seth Gross,19949,South Dakota State
+2016,03/17,NCAA Championships,141,W,DEC,10 - 6,Jimmy Gulibon,13371,Penn State,Seth Gross,19949,South Dakota State
+2016,03/17,NCAA Championships,141,W,DEC,6 - 3,Steve Bleise,20195,Northern Illinois,Seth Gross,19949,South Dakota State
+2016,03/05,Big 12 Championships,141,W,MD,10 - 0,Trae Blackwell,20807,Oklahoma,Seth Gross,19949,South Dakota State
+2016,03/05,Big 12 Championships,141,W,DEC,8 - 3,Bryce Meredith,20135,Wyoming,Seth Gross,19949,South Dakota State
+2016,03/05,Big 12 Championships,141,L,DEC,5 - 3,Dean Heil,15376,Oklahoma State,Seth Gross,19949,South Dakota State
+2016,02/21,South Dakota State - North Dakota State Dual,141,W,DEC,5 - 3,Mitch Bengtson,11619,North Dakota State,Seth Gross,19949,South Dakota State
+2016,02/14,South Dakota State - Oklahoma Dual,141,W,DEC,8 - 2,Trae Blackwell,20807,Oklahoma,Seth Gross,19949,South Dakota State
+2016,02/12,West Virginia - South Dakota State Dual,141,W,MD,13 - 1,Tony DeAngelo,22458,West Virginia,Seth Gross,19949,South Dakota State
+2016,02/07,South Dakota State - Boise State Dual,141,W,FALL,1:34,Jake Velarde,19695,Boise State,Seth Gross,19949,South Dakota State
+2016,02/05,South Dakota State - Utah Valley Dual,141,W,MD,10 - 0,Trevor Willson,13714,Utah Valley,Seth Gross,19949,South Dakota State
+2016,01/29,Wyoming - South Dakota State Dual,141,L,DEC,6 - 4,Bryce Meredith,20135,Wyoming,Seth Gross,19949,South Dakota State
+2016,01/24,Air Force - South Dakota State Dual,141,W,FALL,2:49,Dylan Hyder,41723,Air Force,Seth Gross,19949,South Dakota State
+2016,01/22,Southern Illinois Edwardsville - South Dakota State Dual,141,W,FALL,6:10,John Muldoon,20384,SIU Edwardsville,Seth Gross,19949,South Dakota State
+2016,01/22,CSU Bakersfield - South Dakota State Dual,141,W,DEC,4 - 2,Ian Nickell,20540,CSU Bakersfield,Seth Gross,19949,South Dakota State
+2016,01/15,South Dakota State - Northern Colorado Dual,141,W,MD,9 - 1,Colton Orrino,20191,Northern Colorado,Seth Gross,19949,South Dakota State
+2016,12/29,Midlands Championships,141,L,MD,10 - 2,Kevin Jack,20130,NC State,Seth Gross,19949,South Dakota State
+2016,12/29,Midlands Championships,141,W,DEC,8 - 5,Jimmy Morris,20353,Rider,Seth Gross,19949,South Dakota State
+2016,12/29,Midlands Championships,141,W,DEC,7 - 2,Noah Teaney,20819,Oklahoma,Seth Gross,19949,South Dakota State
+2016,12/29,Midlands Championships,141,L,DEC,4 - 3,Chris Mecate,11835,Old Dominion,Seth Gross,19949,South Dakota State
+2016,12/29,Midlands Championships,141,W,DEC,7 - 2,Topher Carton,11639,Iowa,Seth Gross,19949,South Dakota State
+2016,12/29,Midlands Championships,141,W,DEC,6 - 4,Jack Mutchnik,13900,American,Seth Gross,19949,South Dakota State
+2016,12/13,North Dakota State - South Dakota State Dual,141,L,DEC,5 - 4,Mitch Bengtson,11619,North Dakota State,Seth Gross,19949,South Dakota State
+2016,12/06,Augustana (SD) - South Dakota State Dual,141,W,MD,20 - 6,Brandon Charbonneau,24915,Augustana,Seth Gross,19949,South Dakota State
+2016,12/04,South Dakota State - Iowa Dual,141,W,DEC,3 - 2,Logan Ryan,13992,Iowa,Seth Gross,19949,South Dakota State
+2016,11/27,Oklahoma State - South Dakota State Dual,141,L,DEC,5 - 3,Dean Heil,15376,Oklahoma State,Seth Gross,19949,South Dakota State
+2016,11/21,Virginia Tech - South Dakota State Dual,141,L,DEC,10 - 5,Solomon Chishko,20440,Virginia Tech,Seth Gross,19949,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,141,L,FALL,5:12,Josh Wenger,41092,Grand View,Seth Gross,19949,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,141,W,TF5,16 - 0 6:53,Matt Nelson,42106,St Cloud State,Seth Gross,19949,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,141,W,FALL,2:46,Hunter Genco,24693,Grand View,Seth Gross,19949,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,141,L,DEC,10 - 8,Vincent Turk,39726,Iowa,Seth Gross,19949,South Dakota State
+2016,11/07,South Dakota State - Grand Canyon Dual,141,W,DEC,8 - 4,Ralph Tovar,40391,Grand Canyon,Seth Gross,19949,South Dakota State
+2016,11/07,Virginia - South Dakota State Dual,141,L,DEC,8 - 3,Zachary Watson,40812,Virginia,Seth Gross,19949,South Dakota State
+2016,11/07,South Dakota State - Minnesota Dual,141,L,DEC,2 - 1,Thomas Thorn,21082,Minnesota,Seth Gross,19949,South Dakota State
+2016,11/01,Daktronics Open,141,L,DEC,5 - 2,Thomas Thorn,21082,Minnesota,Seth Gross,19949,South Dakota State
+2016,11/01,Daktronics Open,141,W,DEC,7 - 1,Ben Brancale,39822,Minnesota,Seth Gross,19949,South Dakota State
+2016,11/01,Daktronics Open,141,W,TF5,17 - 1 5:00,Merrick Purcell,40517,Iowa Central Community College,Seth Gross,19949,South Dakota State
+2016,11/01,Daktronics Open,141,W,FALL,3:45,Aris Shino,20105,Nebraska,Seth Gross,19949,South Dakota State
+2016,01/16,Worthington Open,149,W,TF5,16 - 0 7:00,Nathan Ryan,15674,Unattached,Louie Sanders,39540,South Dakota State
+2016,01/16,Worthington Open,149,W,INJ,7:00,Dylan Herman,46861,Minnesota State Mankato,Louie Sanders,39540,South Dakota State
+2016,01/16,Worthington Open,149,W,FALL,1:08,Nickolas Madsen,43972,Morningside,Louie Sanders,39540,South Dakota State
+2016,01/16,Worthington Open,149,W,FALL,3:28,Dalton Hanson,24009,Morningside,Louie Sanders,39540,South Dakota State
+2016,01/16,Worthington Open,149,W,FALL,1:16,Quentin Wren,41099,Iowa Central Community College,Louie Sanders,39540,South Dakota State
+2016,01/16,Worthington Open,149,L,FALL,3:30,Nathan Ryan,15674,Unattached,Louie Sanders,39540,South Dakota State
+2016,12/12,UNI Open,141,L,FALL,0:50,Cole Martin,39773,Wisconsin,Louie Sanders,39540,South Dakota State
+2016,12/12,UNI Open,141,W,DEC,7 - 6,Alec McKenna,39584,Northwestern,Louie Sanders,39540,South Dakota State
+2016,12/12,UNI Open,141,L,MD,10 - 1,Jake Hodges,11666,Northern Iowa,Louie Sanders,39540,South Dakota State
+2016,03/17,NCAA Championships,149,L,DEC,9 - 7,Joey Delgado,11620,Oregon State,Alex Kocer,20562,South Dakota State
+2016,03/17,NCAA Championships,149,L,DEC,7 - 1,Jason Tsirtsis,13629,Northwestern,Alex Kocer,20562,South Dakota State
+2016,03/05,Big 12 Championships,149,W,MD,15 - 7,Timmy Box,14724,Northern Colorado,Alex Kocer,20562,South Dakota State
+2016,03/05,Big 12 Championships,149,L,FALL,4:47,Davion Jeffries,39653,Oklahoma,Alex Kocer,20562,South Dakota State
+2016,03/05,Big 12 Championships,149,L,DEC,9 - 6,Cole Mendenhall,11607,Wyoming,Alex Kocer,20562,South Dakota State
+2016,03/05,Big 12 Championships,149,W,DEC,1 - 0,John Meeks,11597,Iowa State,Alex Kocer,20562,South Dakota State
+2016,02/21,South Dakota State - North Dakota State Dual,149,W,DEC,9 - 6,Clay Ream,13748,North Dakota State,Alex Kocer,20562,South Dakota State
+2016,02/14,South Dakota State - Oklahoma Dual,149,W,DEC,9 - 5,Davion Jeffries,39653,Oklahoma,Alex Kocer,20562,South Dakota State
+2016,02/12,West Virginia - South Dakota State Dual,149,W,TF5,20 - 2 5:50,Zachary Moore,39678,West Virginia,Alex Kocer,20562,South Dakota State
+2016,02/07,South Dakota State - Boise State Dual,149,L,DEC,7 - 5,Geordan Martinez,19690,Boise State,Alex Kocer,20562,South Dakota State
+2016,02/05,South Dakota State - Utah Valley Dual,149,W,FALL,2:40,Matthew Ontiveros,20417,Utah Valley,Alex Kocer,20562,South Dakota State
+2016,01/29,Wyoming - South Dakota State Dual,149,W,DEC,5 - 4,Cole Mendenhall,11607,Wyoming,Alex Kocer,20562,South Dakota State
+2016,01/24,Air Force - South Dakota State Dual,149,W,DEC,12 - 9,Alex Mossing,23680,Air Force,Alex Kocer,20562,South Dakota State
+2016,01/22,Southern Illinois Edwardsville - South Dakota State Dual,149,W,FALL,5:59,John Fahy,11776,SIU Edwardsville,Alex Kocer,20562,South Dakota State
+2016,01/22,CSU Bakersfield - South Dakota State Dual,149,W,DEC,8 - 2,Coleman Hammond,14011,CSU Bakersfield,Alex Kocer,20562,South Dakota State
+2016,01/15,South Dakota State - Northern Colorado Dual,149,L,DEC,16 - 12,Timmy Box,14724,Northern Colorado,Alex Kocer,20562,South Dakota State
+2016,12/29,Midlands Championships,149,W,DEC,6 - 4,Sam Melikian,20134,NC State,Alex Kocer,20562,South Dakota State
+2016,12/29,Midlands Championships,149,W,DEC,2 - 1,Shyheim Brown,11811,Maryland,Alex Kocer,20562,South Dakota State
+2016,12/29,Midlands Championships,149,L,DEC,6 - 3,Max Thomsen,39503,Northern Iowa,Alex Kocer,20562,South Dakota State
+2016,12/29,Midlands Championships,149,L,FALL,4:23,Gabe Moreno,11816,Iowa State,Alex Kocer,20562,South Dakota State
+2016,12/29,Midlands Championships,149,W,MD,11 - 0,Dan Reed,19818,Columbia,Alex Kocer,20562,South Dakota State
+2016,12/13,North Dakota State - South Dakota State Dual,149,W,DEC,13 - 6,Clay Ream,13748,North Dakota State,Alex Kocer,20562,South Dakota State
+2016,12/06,Augustana (SD) - South Dakota State Dual,149,W,FALL,5:40,Jacob Anderson,23453,Augustana,Alex Kocer,20562,South Dakota State
+2016,12/04,South Dakota State - Iowa Dual,149,L,MD,8 - 0,Brandon Sorensen,13456,Iowa,Alex Kocer,20562,South Dakota State
+2016,11/27,Oklahoma State - South Dakota State Dual,149,L,DEC,5 - 3,Anthony Collica,11723,Oklahoma State,Alex Kocer,20562,South Dakota State
+2016,11/21,Virginia Tech - South Dakota State Dual,149,W,TF5,16 - 1 5:58,Chad Saunders,20453,Virginia Tech,Alex Kocer,20562,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,149,W,DEC,4 - 3,Jordan Shearer,39602,Nebraska,Alex Kocer,20562,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,149,W,TF5,18 - 0 3:49,Walker Johnson,42132,Nebraska-Kearney,Alex Kocer,20562,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,149,W,TF5,18 - 0 4:28,Peter Stewart,41878,Northern Iowa,Alex Kocer,20562,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,149,W,TF5,17 - 1 7:00,Blayne Briceno,13636,Iowa State,Alex Kocer,20562,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,149,L,MD,17 - 4,Michael Kemerer,39526,Iowa,Alex Kocer,20562,South Dakota State
+2016,11/07,South Dakota State - Grand Canyon Dual,149,L,DEC,6 - 4,Blake Monty,40392,Grand Canyon,Alex Kocer,20562,South Dakota State
+2016,11/07,Virginia - South Dakota State Dual,149,W,DEC,7 - 6,TJ Miller,13827,Virginia,Alex Kocer,20562,South Dakota State
+2016,11/07,South Dakota State - Minnesota Dual,149,W,MD,15 - 6,Miles Patton,40129,Minnesota,Alex Kocer,20562,South Dakota State
+2016,11/01,Daktronics Open,149,L,MFOR,0 - 0,Carson Brolsma,39549,Minnesota,Alex Kocer,20562,South Dakota State
+2016,11/01,Daktronics Open,149,W,DEC,9 - 4,Isaac Novacek,40522,Minnesota State Moorhead,Alex Kocer,20562,South Dakota State
+2016,11/01,Daktronics Open,149,L,MFOR,0 - 0,Sean Murphy,20101,Nebraska,Alex Kocer,20562,South Dakota State
+2016,01/16,Worthington Open,149,L,MD,10 - 2,Nathan Ryan,15674,Unattached,Tayt Boeckholdt,41100,South Dakota State
+2016,01/16,Worthington Open,149,W,SV-1,6 - 4,Robert Shirley,42627,Morningside,Tayt Boeckholdt,41100,South Dakota State
+2016,01/16,Worthington Open,149,L,DEC,5 - 2,Dalton Hanson,24009,Morningside,Tayt Boeckholdt,41100,South Dakota State
+2016,11/21,Finn Grinaker Open,149,L,DEC,5 - 2,Ben Baumgartner,42300,Concordia-Moorhead,Tayt Boeckholdt,41100,South Dakota State
+2016,11/21,Finn Grinaker Open,149,W,MFOR,0 - 0,Ty Johnson,42312,Concordia-Moorhead,Tayt Boeckholdt,41100,South Dakota State
+2016,11/21,Finn Grinaker Open,149,L,MD,12 - 4,James Pleski,41880,St Cloud State,Tayt Boeckholdt,41100,South Dakota State
+2016,11/14,Bison Open,149,L,FALL,1:24,Cody Haugen,41765,Minot State,Tayt Boeckholdt,41100,South Dakota State
+2016,11/14,Bison Open,149,W,TF5,17 - 1 4:47,Kyle Caputo,41764,Northland Community & Technical College,Tayt Boeckholdt,41100,South Dakota State
+2016,11/14,Bison Open,149,L,DEC,5 - 4,Dylan Connell,41763,Minnesota State Moorhead,Tayt Boeckholdt,41100,South Dakota State
+2016,11/07,Grand View Open,149,L,FALL,1:30,Brady Jennings,40222,Iowa State,Tayt Boeckholdt,41100,South Dakota State
+2016,11/07,Grand View Open,149,W,FALL,4:09,Fabian Rodriguez,41124,William Penn,Tayt Boeckholdt,41100,South Dakota State
+2016,11/07,Grand View Open,149,L,MD,11 - 1,Matt Wempen,40022,Iowa,Tayt Boeckholdt,41100,South Dakota State
+2016,11/01,Daktronics Open,149,L,DEC,7 - 3,Jacob Anderson,23453,Augustana,Tayt Boeckholdt,41100,South Dakota State
+2016,11/01,Daktronics Open,149,L,TF5,16 - 1 1:43,Clay Ream,13748,North Dakota State,Tayt Boeckholdt,41100,South Dakota State
+2016,03/17,NCAA Championships,157,L,DEC,11 - 10,Chad Walsh,13628,Rider,Cody Pack,13498,South Dakota State
+2016,03/17,NCAA Championships,157,W,MD,9 - 1,Neal Richards,39991,VMI,Cody Pack,13498,South Dakota State
+2016,03/17,NCAA Championships,157,W,TB-1,2 - 1,John Boyle,13875,American,Cody Pack,13498,South Dakota State
+2016,03/17,NCAA Championships,157,L,DEC,10 - 3,Dylan Palacio,11481,Cornell,Cody Pack,13498,South Dakota State
+2016,03/05,Big 12 Championships,157,W,TF5,16 - 0 4:25,Kyle Gliva,13424,North Dakota State,Cody Pack,13498,South Dakota State
+2016,03/05,Big 12 Championships,157,W,DEC,3 - 2,Archie Colgan,15555,Wyoming,Cody Pack,13498,South Dakota State
+2016,03/05,Big 12 Championships,157,L,DEC,8 - 4,Joe Smith,39786,Oklahoma State,Cody Pack,13498,South Dakota State
+2016,02/21,South Dakota State - North Dakota State Dual,157,W,DEC,8 - 2,Kyle Gliva,13424,North Dakota State,Cody Pack,13498,South Dakota State
+2016,02/14,South Dakota State - Oklahoma Dual,157,W,MD,15 - 1,Shayne Tucker,14788,Oklahoma,Cody Pack,13498,South Dakota State
+2016,02/12,West Virginia - South Dakota State Dual,157,W,SV-1,11 - 5,Dylan Cottrell,14019,West Virginia,Cody Pack,13498,South Dakota State
+2016,02/05,South Dakota State - Utah Valley Dual,157,W,DEC,11 - 5,Raider Lofthouse,20414,Utah Valley,Cody Pack,13498,South Dakota State
+2016,01/29,Wyoming - South Dakota State Dual,157,W,DEC,1 - 0,Archie Colgan,15555,Wyoming,Cody Pack,13498,South Dakota State
+2016,01/24,Air Force - South Dakota State Dual,157,W,DEC,10 - 6,Zachary Stepan,41449,Air Force,Cody Pack,13498,South Dakota State
+2016,01/22,Southern Illinois Edwardsville - South Dakota State Dual,157,W,DEC,5 - 1,Erik Travers,20386,SIU Edwardsville,Cody Pack,13498,South Dakota State
+2016,01/22,CSU Bakersfield - South Dakota State Dual,157,W,DEC,6 - 0,Andrew Fierro,37928,CSU Bakersfield,Cody Pack,13498,South Dakota State
+2016,01/15,South Dakota State - Northern Colorado Dual,157,W,DEC,9 - 3,Joseph Grable,20188,Northern Colorado,Cody Pack,13498,South Dakota State
+2016,12/29,Midlands Championships,157,L,DEC,4 - 2,Thomas Gantt,40196,NC State,Cody Pack,13498,South Dakota State
+2016,12/29,Midlands Championships,157,W,MD,16 - 2,Shayne Tucker,14788,Oklahoma,Cody Pack,13498,South Dakota State
+2016,12/29,Midlands Championships,157,W,TF5,19 - 4 7:00,Devin Geoghegan,14859,Old Dominion,Cody Pack,13498,South Dakota State
+2016,12/29,Midlands Championships,157,W,FALL,5:52,Markus Scheidel,13741,Columbia,Cody Pack,13498,South Dakota State
+2016,12/29,Midlands Championships,157,W,DEC,6 - 2,John Boyle,13875,American,Cody Pack,13498,South Dakota State
+2016,12/13,North Dakota State - South Dakota State Dual,157,W,MD,16 - 6,Grant Nehring,13556,North Dakota State,Cody Pack,13498,South Dakota State
+2016,12/06,Augustana (SD) - South Dakota State Dual,157,W,TF5,16 - 0 5:22,Shawn Hatlestad,23454,Augustana,Cody Pack,13498,South Dakota State
+2016,12/04,South Dakota State - Iowa Dual,157,W,DEC,6 - 5,Edwin Cooper Jr,19947,Iowa,Cody Pack,13498,South Dakota State
+2016,11/27,Oklahoma State - South Dakota State Dual,157,W,DEC,11 - 5,Ryan Blees,20267,Oklahoma State,Cody Pack,13498,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,157,W,DEC,5 - 2,Gabe Fogarty,23502,St Cloud State,Cody Pack,13498,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,157,W,FALL,0:46,Cade Noble,42128,Pratt Community College,Cody Pack,13498,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,157,W,FALL,3:54,Jake Mize,42127,Simpson,Cody Pack,13498,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,157,W,DEC,7 - 5,Chris Castillo,14014,Boise State,Cody Pack,13498,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,157,W,DEC,9 - 3,Renaldo Rodriguez-Spencer,19965,Iowa State,Cody Pack,13498,South Dakota State
+2016,11/07,South Dakota State - Grand Canyon Dual,157,W,FALL,4:31,Chayse Jackson,22155,Grand Canyon,Cody Pack,13498,South Dakota State
+2016,11/07,Virginia - South Dakota State Dual,157,L,DEC,7 - 4,Andrew Atkinson,11982,Virginia,Cody Pack,13498,South Dakota State
+2016,11/07,South Dakota State - Minnesota Dual,157,W,DEC,6 - 4,Jack Bass,20031,Minnesota,Cody Pack,13498,South Dakota State
+2016,11/21,Finn Grinaker Open,157,L,MFOR,0 - 0,Larry Bomstad,23220,St Cloud State,Colin Holler,13485,South Dakota State
+2016,11/21,Finn Grinaker Open,157,W,TB-1,13 - 4,Garrett Hoffner,41802,Minnesota State Moorhead,Colin Holler,13485,South Dakota State
+2016,11/21,Finn Grinaker Open,157,W,DEC,7 - 6,Garrett Hoffner,41802,Minnesota State Moorhead,Colin Holler,13485,South Dakota State
+2016,11/21,Finn Grinaker Open,157,W,DEC,2 - 1,Zach Witte,16642,Northern Iowa,Colin Holler,13485,South Dakota State
+2016,11/21,Finn Grinaker Open,157,L,DEC,6 - 1,Andrew Fogarty,39706,North Dakota State,Colin Holler,13485,South Dakota State
+2016,11/21,Finn Grinaker Open,157,W,MFOR,0 - 0,Marquis Dominique,42322,Buena Vista,Lucas Eastman,39901,South Dakota State
+2016,11/21,Finn Grinaker Open,157,W,MD,13 - 3,Alexi Bode,42321,Concordia-Moorhead,Lucas Eastman,39901,South Dakota State
+2016,11/21,Finn Grinaker Open,157,W,MD,13 - 1,Jackson Schauer,42320,Jamestown,Lucas Eastman,39901,South Dakota State
+2016,11/21,Finn Grinaker Open,157,W,FALL,2:51,Jonathan Hoffner,41767,Minnesota State Moorhead,Lucas Eastman,39901,South Dakota State
+2016,11/21,Finn Grinaker Open,157,W,FALL,2:02,Tanner Schreifels,41803,Northland Community & Technical College,Lucas Eastman,39901,South Dakota State
+2016,11/14,Bison Open,157,L,DEC,3 - 2,Nick Mergen,40489,North Dakota State,Lucas Eastman,39901,South Dakota State
+2016,11/14,Bison Open,157,L,FALL,8:21,Dane Fischer,41766,Mary,Lucas Eastman,39901,South Dakota State
+2016,11/14,Bison Open,157,L,DEC,14 - 7,Andrew Fogarty,39706,North Dakota State,Lucas Eastman,39901,South Dakota State
+2016,11/14,Bison Open,157,W,FALL,4:07,Jonathan Hoffner,41767,Minnesota State Moorhead,Lucas Eastman,39901,South Dakota State
+2016,11/14,Bison Open,157,W,DEC,9 - 3,Dane Fischer,41766,Mary,Lucas Eastman,39901,South Dakota State
+2016,11/07,Grand View Open,157,W,FALL,4:02,Austinn Goin,41108,William Penn,Lucas Eastman,39901,South Dakota State
+2016,11/07,Grand View Open,157,L,DEC,11 - 10,Chase Lemons,41107,Iowa Western Community College,Lucas Eastman,39901,South Dakota State
+2016,11/07,Grand View Open,157,L,DEC,9 - 5,Caleb Coleman,41076,Grand View,Lucas Eastman,39901,South Dakota State
+2016,11/07,Grand View Open,157,W,FALL,5:27,Austinn Goin,41108,William Penn,Lucas Eastman,39901,South Dakota State
+2016,11/07,Grand View Open,157,W,DEC,3 - 1,Chase Lemons,41107,Iowa Western Community College,Lucas Eastman,39901,South Dakota State
+2016,11/01,Daktronics Open,157,L,DEC,12 - 5,Brad Dolezal,13566,Minnesota,Lucas Eastman,39901,South Dakota State
+2016,11/01,Daktronics Open,157,W,DEC,7 - 5,Matt Njos,40490,North Dakota State,Lucas Eastman,39901,South Dakota State
+2016,11/01,Daktronics Open,157,L,DEC,5 - 4,Nick Mergen,40489,North Dakota State,Lucas Eastman,39901,South Dakota State
+2016,03/05,Big 12 Championships,165,W,SV-1,4 - 2,Michael Billingsley,20704,Air Force,Luke Zilverberg,13633,South Dakota State
+2016,03/05,Big 12 Championships,165,L,DEC,7 - 2,Clark Glass,11488,Oklahoma,Luke Zilverberg,13633,South Dakota State
+2016,03/05,Big 12 Championships,165,L,DEC,4 - 2,Connor Flynn,39676,West Virginia,Luke Zilverberg,13633,South Dakota State
+2016,03/05,Big 12 Championships,165,W,DEC,8 - 5,Grant Nehring,13556,North Dakota State,Luke Zilverberg,13633,South Dakota State
+2016,02/21,South Dakota State - North Dakota State Dual,165,W,DEC,14 - 7,Grant Nehring,13556,North Dakota State,Luke Zilverberg,13633,South Dakota State
+2016,02/14,South Dakota State - Oklahoma Dual,165,L,DEC,6 - 1,Clark Glass,11488,Oklahoma,Luke Zilverberg,13633,South Dakota State
+2016,02/12,West Virginia - South Dakota State Dual,165,L,DEC,7 - 2,Connor Flynn,39676,West Virginia,Luke Zilverberg,13633,South Dakota State
+2016,02/07,South Dakota State - Boise State Dual,165,W,DEC,10 - 6,Taylor West,13744,Boise State,Luke Zilverberg,13633,South Dakota State
+2016,01/22,Southern Illinois Edwardsville - South Dakota State Dual,165,L,INJ,7:00,Nate Higgins,20380,SIU Edwardsville,Luke Zilverberg,13633,South Dakota State
+2016,01/15,South Dakota State - Northern Colorado Dual,165,W,DEC,7 - 4,Keilan Torres,18105,Northern Colorado,Luke Zilverberg,13633,South Dakota State
+2016,12/29,Midlands Championships,165,L,DEC,7 - 5,Clark Glass,11488,Oklahoma,Luke Zilverberg,13633,South Dakota State
+2016,12/29,Midlands Championships,165,L,DEC,3 - 1,Austin Reese,20240,Ohio,Luke Zilverberg,13633,South Dakota State
+2016,12/29,Midlands Championships,165,W,DEC,6 - 5,Arsen Ashughyan,20225,Ohio,Luke Zilverberg,13633,South Dakota State
+2016,12/29,Midlands Championships,165,W,DEC,6 - 5,Shaun'Qae McMurtry,15516,Northern Illinois,Luke Zilverberg,13633,South Dakota State
+2016,12/13,North Dakota State - South Dakota State Dual,165,W,TF5,15 - 0 7:00,Tyler McNutt,20765,North Dakota State,Luke Zilverberg,13633,South Dakota State
+2016,12/06,Augustana (SD) - South Dakota State Dual,165,W,MD,13 - 3,Bruce Lemon,40527,Augustana,Luke Zilverberg,13633,South Dakota State
+2016,12/04,South Dakota State - Iowa Dual,165,W,DEC,4 - 2,Burke Paddock,19953,Iowa,Luke Zilverberg,13633,South Dakota State
+2016,11/27,Oklahoma State - South Dakota State Dual,165,L,DEC,6 - 1,Alex Dieringer,13470,Oklahoma State,Luke Zilverberg,13633,South Dakota State
+2016,11/21,Virginia Tech - South Dakota State Dual,165,L,DEC,6 - 4,David McFadden,39633,Virginia Tech,Luke Zilverberg,13633,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,165,W,MD,15 - 3,Isaac Deaton,21410,Nebraska-Kearney,Luke Zilverberg,13633,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,165,L,DEC,6 - 5,Clint Poster,23192,St Cloud State,Luke Zilverberg,13633,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,165,W,MD,9 - 1,Dallas Houchins,24904,Grand View,Luke Zilverberg,13633,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,165,W,MD,9 - 1,Joseph Aguila,41133,Midland,Luke Zilverberg,13633,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,165,W,MD,16 - 2,Bryce Wignall,42129,Simpson,Luke Zilverberg,13633,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,165,W,MD,18 - 5,Taylor West,13744,Boise State,Luke Zilverberg,13633,South Dakota State
+2016,11/07,South Dakota State - Grand Canyon Dual,165,W,MD,12 - 3,Casey Larson,22156,Grand Canyon,Luke Zilverberg,13633,South Dakota State
+2016,11/07,Virginia - South Dakota State Dual,165,L,SV-2,7 - 5,Garrett Peppelman,20431,Virginia,Luke Zilverberg,13633,South Dakota State
+2016,11/07,South Dakota State - Minnesota Dual,165,W,DEC,5 - 2,Dylan Urbach,20050,Minnesota,Luke Zilverberg,13633,South Dakota State
+2016,11/01,Daktronics Open,165,W,DEC,7 - 4,Sean Havlovic,40506,Northern State University,Luke Zilverberg,13633,South Dakota State
+2016,11/01,Daktronics Open,165,W,DEC,5 - 1,Brandon Krone,20038,Minnesota,Luke Zilverberg,13633,South Dakota State
+2016,11/01,Daktronics Open,165,W,DEC,8 - 5,Dylan Urbach,20050,Minnesota,Luke Zilverberg,13633,South Dakota State
+2016,11/01,Daktronics Open,165,W,DEC,3 - 0,Bruce Lemon,40527,Augustana,Luke Zilverberg,13633,South Dakota State
+2016,11/01,Daktronics Open,165,W,DEC,4 - 0,Spencer Derifield,20370,South Dakota State,Luke Zilverberg,13633,South Dakota State
+2016,11/01,Daktronics Open,165,L,DEC,3 - 2,Dustin Williams,20108,Nebraska,Luke Zilverberg,13633,South Dakota State
+2016,12/29,Midlands Championships,165,W,INJ,7:00,Nolan Kistler,21242,Cal Baptist,Joe Brewster,11490,South Dakota State
+2016,12/29,Midlands Championships,165,L,DEC,5 - 1,Austin Wilson,11470,Nebraska,Joe Brewster,11490,South Dakota State
+2016,12/29,Midlands Championships,165,L,DEC,3 - 2,Patrick Rhoads,13455,Iowa,Joe Brewster,11490,South Dakota State
+2016,12/06,Northern State - South Dakota State Dual,165,W,DEC,11 - 5,Sean Havlovic,40506,Northern State University,Joe Brewster,11490,South Dakota State
+2016,12/06,Dakota Wesleyan - South Dakota State Dual,165,W,TF5,16 - 0 3:30,Alex Osborne,23773,Dakota Wesleyan,Joe Brewster,11490,South Dakota State
+2016,02/05,South Dakota State - Utah Valley Dual,165,W,DEC,9 - 4,Brayden Humpherys,20413,Utah Valley,Logan Peterson,20374,South Dakota State
+2016,01/29,Wyoming - South Dakota State Dual,165,L,TF5,16 - 0 2:55,Chaz Polson,17412,Wyoming,Logan Peterson,20374,South Dakota State
+2016,01/24,Air Force - South Dakota State Dual,165,L,DEC,7 - 3,Alexandre Lopouchanski,39855,Air Force,Logan Peterson,20374,South Dakota State
+2016,01/22,CSU Bakersfield - South Dakota State Dual,165,L,DEC,8 - 3,Adam Fierro,15184,CSU Bakersfield,Logan Peterson,20374,South Dakota State
+2016,01/16,Worthington Open,157,W,FALL,1:03,Tyler Perry,43963,Unattached,Logan Peterson,20374,South Dakota State
+2016,01/16,Worthington Open,157,W,FALL,4:56,Andrew White,24018,Morningside,Logan Peterson,20374,South Dakota State
+2016,01/16,Worthington Open,157,W,MD,12 - 2,Dereal Vasser,43978,Iowa Central Community College,Logan Peterson,20374,South Dakota State
+2016,01/16,Worthington Open,157,W,DEC,12 - 5,Travis Deegan,43977,Ridgewater College,Logan Peterson,20374,South Dakota State
+2016,01/16,Worthington Open,157,L,MD,12 - 3,Fredy Stroker,39520,Minnesota,Logan Peterson,20374,South Dakota State
+2016,01/16,Worthington Open,157,W,DEC,8 - 4,Dalton Clark,39842,Minnesota,Logan Peterson,20374,South Dakota State
+2016,12/29,Midlands Championships,157,W,DEC,13 - 10,Nate Higgins,20380,SIU Edwardsville,Logan Peterson,20374,South Dakota State
+2016,12/29,Midlands Championships,157,L,DEC,6 - 3,Logan Breitenbach,19957,Iowa State,Logan Peterson,20374,South Dakota State
+2016,12/29,Midlands Championships,157,L,MD,16 - 4,Edwin Cooper Jr,19947,Iowa,Logan Peterson,20374,South Dakota State
+2016,12/12,UNI Open,157,L,DEC,2 - 1,Santonio Cathery,15568,Wisconsin,Logan Peterson,20374,South Dakota State
+2016,12/12,UNI Open,157,W,TF5,21 - 6 6:00,Braxton Cody,40139,Northwestern,Logan Peterson,20374,South Dakota State
+2016,12/12,UNI Open,157,L,DEC,9 - 6,Larry Early,39519,Minnesota,Logan Peterson,20374,South Dakota State
+2016,12/12,UNI Open,157,W,DEC,7 - 5,Zach Witte,16642,Northern Iowa,Logan Peterson,20374,South Dakota State
+2016,12/06,Northern State - South Dakota State Dual,157,W,FALL,4:26,Grant Steen,23495,Northern State University,Logan Peterson,20374,South Dakota State
+2016,12/06,Dakota Wesleyan - South Dakota State Dual,157,W,FALL,7:00,Chris Wheeler,43180,Dakota Wesleyan,Logan Peterson,20374,South Dakota State
+2016,11/07,Grand View Open,165,L,DEC,7 - 4,Kenan Jackson,24721,Grand View,Logan Peterson,20374,South Dakota State
+2016,11/07,Grand View Open,165,W,DEC,7 - 6,Matthew Rodriguez-kirkland,41106,Ellsworth CC,Logan Peterson,20374,South Dakota State
+2016,11/07,Grand View Open,165,W,MD,12 - 4,Johnny Hopper,41111,William Penn,Logan Peterson,20374,South Dakota State
+2016,11/07,Grand View Open,165,W,MD,17 - 6,Cooper Self,41002,Midland,Logan Peterson,20374,South Dakota State
+2016,11/07,Grand View Open,165,L,DEC,7 - 2,Tommy Bailey,41110,Concordia,Logan Peterson,20374,South Dakota State
+2016,11/07,Grand View Open,165,W,FALL,1:56,Keithen Johnson,41109,Iowa Western Community College,Logan Peterson,20374,South Dakota State
+2016,11/07,Grand View Open,165,W,DEC,17 - 11,Kenan Jackson,24721,Grand View,Logan Peterson,20374,South Dakota State
+2016,11/01,Daktronics Open,165,L,SV-1,7 - 5,Colin Carr,20032,Minnesota,Logan Peterson,20374,South Dakota State
+2016,11/01,Daktronics Open,165,W,DEC,7 - 3,Kasey Klapprodt,39539,South Dakota State,Logan Peterson,20374,South Dakota State
+2016,11/01,Daktronics Open,165,L,DEC,6 - 2,Spencer Derifield,20370,South Dakota State,Logan Peterson,20374,South Dakota State
+2016,01/16,Worthington Open,174,L,INJ,7:00,Nathan Guillermo,43970,Waldorf,Spencer Derifield,20370,South Dakota State
+2016,01/16,Worthington Open,174,L,DEC,6 - 5,Tanner Schaefer,24950,St Cloud State,Spencer Derifield,20370,South Dakota State
+2016,12/06,Dakota Wesleyan - South Dakota State Dual,174,W,MD,16 - 2,Nick Woslum,21104,Dakota Wesleyan,Spencer Derifield,20370,South Dakota State
+2016,11/21,Finn Grinaker Open,174,L,DEC,4 - 1,Vince Dietz,42131,St Cloud State,Spencer Derifield,20370,South Dakota State
+2016,11/21,Finn Grinaker Open,174,L,DEC,3 - 1,Aaron Bates,23208,St Cloud State,Spencer Derifield,20370,South Dakota State
+2016,11/07,Grand View Open,165,L,DEC,6 - 0,Dallas Houchins,24904,Grand View,Spencer Derifield,20370,South Dakota State
+2016,11/07,Grand View Open,165,W,DEC,7 - 2,Matthew Rodriguez-kirkland,41106,Ellsworth CC,Spencer Derifield,20370,South Dakota State
+2016,11/07,Grand View Open,165,W,DEC,12 - 5,Jacob Blackwell,24694,Grand View,Spencer Derifield,20370,South Dakota State
+2016,11/07,Grand View Open,165,W,FALL,4:00,Joshua Wooten,41105,William Penn,Spencer Derifield,20370,South Dakota State
+2016,11/01,Daktronics Open,165,L,DEC,4 - 0,Luke Zilverberg,13633,South Dakota State,Spencer Derifield,20370,South Dakota State
+2016,11/01,Daktronics Open,165,W,DEC,6 - 2,Logan Peterson,20374,South Dakota State,Spencer Derifield,20370,South Dakota State
+2016,11/01,Daktronics Open,165,W,FALL,2:21,Ben Fichter,40508,Northern State University,Spencer Derifield,20370,South Dakota State
+2016,11/01,Daktronics Open,165,L,DEC,6 - 3,Tyler McNutt,20765,North Dakota State,Spencer Derifield,20370,South Dakota State
+2016,01/16,Worthington Open,165,L,DEC,3 - 1,Kasey Klapprodt,39539,South Dakota State,Brett Bye,39538,South Dakota State
+2016,01/16,Worthington Open,165,W,DEC,13 - 6,Mitchell Zachman,42324,Northland Community & Technical College,Brett Bye,39538,South Dakota State
+2016,01/16,Worthington Open,165,W,DEC,6 - 0,Dereck Samudio,43973,King,Brett Bye,39538,South Dakota State
+2016,01/16,Worthington Open,165,W,DEC,7 - 4,Colin Carr,20032,Minnesota,Brett Bye,39538,South Dakota State
+2016,11/21,Finn Grinaker Open,165,W,SV-2,4 - 2,Kasey Klapprodt,39539,South Dakota State,Brett Bye,39538,South Dakota State
+2016,11/21,Finn Grinaker Open,165,W,TF5,16 - 1 6:15,Alex Giese,41808,Northland Community & Technical College,Brett Bye,39538,South Dakota State
+2016,11/21,Finn Grinaker Open,165,W,DEC,8 - 2,Isaiah Patton,39553,Northern Iowa,Brett Bye,39538,South Dakota State
+2016,11/14,Bison Open,165,W,SV-1,7 - 5,Paul Michaelson,41770,Mary,Brett Bye,39538,South Dakota State
+2016,11/14,Bison Open,165,W,FALL,2:11,Levi Schonebaun,41769,Unattached,Brett Bye,39538,South Dakota State
+2016,11/14,Bison Open,165,L,DEC,5 - 4,Ricards Avakovs,41768,Minot State,Brett Bye,39538,South Dakota State
+2016,11/14,Bison Open,165,W,DEC,2 - 1,Alex Blaney,13649,North Dakota State,Brett Bye,39538,South Dakota State
+2016,11/07,Grand View Open,165,L,DEC,6 - 1,Jose Rodriguez,41079,Iowa Central Community College,Brett Bye,39538,South Dakota State
+2016,11/07,Grand View Open,165,L,DEC,3 - 1,Joey Gunther,39725,Iowa,Brett Bye,39538,South Dakota State
+2016,11/01,Daktronics Open,165,L,INJ,7:00,Brandon Krone,20038,Minnesota,Brett Bye,39538,South Dakota State
+2016,11/01,Daktronics Open,165,L,FALL,3:18,Sean Havlovic,40506,Northern State University,Brett Bye,39538,South Dakota State
+2016,11/01,Daktronics Open,165,W,DEC,2 - 1,Dylan Urbach,20050,Minnesota,Brett Bye,39538,South Dakota State
+2016,11/01,Daktronics Open,165,L,DEC,5 - 2,Tyler McNutt,20765,North Dakota State,Brett Bye,39538,South Dakota State
+2016,01/16,Worthington Open,165,W,DEC,10 - 7,Stephon Gray,22401,Iowa Central Community College,Kasey Klapprodt,39539,South Dakota State
+2016,01/16,Worthington Open,165,W,DEC,5 - 3,Trevor Paulson,19963,Iowa State,Kasey Klapprodt,39539,South Dakota State
+2016,01/16,Worthington Open,165,W,DEC,11 - 4,Connor Hanson,43959,Rochester Community & Tech College,Kasey Klapprodt,39539,South Dakota State
+2016,01/16,Worthington Open,165,W,DEC,3 - 1,Brett Bye,39538,South Dakota State,Kasey Klapprodt,39539,South Dakota State
+2016,12/12,UNI Open,165,L,DEC,4 - 0,Billy Poray,24198,Luther,Kasey Klapprodt,39539,South Dakota State
+2016,12/12,UNI Open,165,L,FALL,1:54,Cooper Moore,11482,Northern Iowa,Kasey Klapprodt,39539,South Dakota State
+2016,11/21,Finn Grinaker Open,165,W,DEC,2 - 1,Adam Blees,42317,Minnesota State Moorhead,Kasey Klapprodt,39539,South Dakota State
+2016,11/21,Finn Grinaker Open,165,W,DEC,4 - 1,Coleby Bratrud,42316,Buena Vista,Kasey Klapprodt,39539,South Dakota State
+2016,11/21,Finn Grinaker Open,165,W,MD,13 - 5,Nick Gravdahl,42323,Concordia-Moorhead,Kasey Klapprodt,39539,South Dakota State
+2016,11/21,Finn Grinaker Open,165,L,SV-2,4 - 2,Brett Bye,39538,South Dakota State,Kasey Klapprodt,39539,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,165,L,TF5,16 - 1 2:44,Tanner Weatherman,12253,Iowa State,Kasey Klapprodt,39539,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,165,W,TB-1,4 - 3,Joey Gunther,39725,Iowa,Kasey Klapprodt,39539,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,165,L,DEC,6 - 4,Jeremiah Moody,39968,Iowa,Kasey Klapprodt,39539,South Dakota State
+2016,11/07,Grand View Open,165,W,DEC,10 - 4,Jacob Hoch,41077,Grand View,Kasey Klapprodt,39539,South Dakota State
+2016,11/07,Grand View Open,165,W,DEC,2 - 0,Jose Rodriguez,41079,Iowa Central Community College,Kasey Klapprodt,39539,South Dakota State
+2016,11/07,Grand View Open,165,W,FALL,5:53,Tyler Howell,41113,Graceland University,Kasey Klapprodt,39539,South Dakota State
+2016,11/07,Grand View Open,165,W,MD,13 - 1,Ben Norton,41112,Calumet,Kasey Klapprodt,39539,South Dakota State
+2016,11/07,Grand View Open,165,L,DEC,2 - 1,Jeremiah Moody,39968,Iowa,Kasey Klapprodt,39539,South Dakota State
+2016,11/01,Daktronics Open,165,L,DEC,7 - 3,Logan Peterson,20374,South Dakota State,Kasey Klapprodt,39539,South Dakota State
+2016,11/01,Daktronics Open,165,L,TF5,16 - 0 4:31,Brandon Krone,20038,Minnesota,Kasey Klapprodt,39539,South Dakota State
+2016,03/17,NCAA Championships,174,W,DEC,4 - 3,Ricky Robertson,14042,Wisconsin,David Kocer,13612,South Dakota State
+2016,03/17,NCAA Championships,174,W,DEC,10 - 7,Te'Shan Campbell,40351,Pittsburgh,David Kocer,13612,South Dakota State
+2016,03/17,NCAA Championships,174,L,DEC,7 - 3,Cody Walters,12401,Ohio,David Kocer,13612,South Dakota State
+2016,03/17,NCAA Championships,174,L,MD,8 - 0,Casey Kent,11517,Pennsylvania,David Kocer,13612,South Dakota State
+2016,03/05,Big 12 Championships,174,L,MFOR,0 - 0,Matt Reed,15381,Oklahoma,David Kocer,13612,South Dakota State
+2016,03/05,Big 12 Championships,174,W,TB-2,3 - 2,Ross Renzi,11474,West Virginia,David Kocer,13612,South Dakota State
+2016,03/05,Big 12 Championships,174,W,DEC,10 - 6,Ross Taylor,15548,Utah Valley,David Kocer,13612,South Dakota State
+2016,03/05,Big 12 Championships,174,L,DEC,10 - 8,Chandler Rogers,20559,Oklahoma State,David Kocer,13612,South Dakota State
+2016,02/21,South Dakota State - North Dakota State Dual,174,W,MD,10 - 2,Tyler McNutt,20765,North Dakota State,David Kocer,13612,South Dakota State
+2016,02/14,South Dakota State - Oklahoma Dual,174,L,DEC,9 - 4,Matt Reed,15381,Oklahoma,David Kocer,13612,South Dakota State
+2016,02/12,West Virginia - South Dakota State Dual,174,W,DEC,7 - 5,Ross Renzi,11474,West Virginia,David Kocer,13612,South Dakota State
+2016,02/07,South Dakota State - Boise State Dual,174,W,DEC,4 - 3,Austin Dewey,12380,Boise State,David Kocer,13612,South Dakota State
+2016,02/05,South Dakota State - Utah Valley Dual,174,W,DEC,6 - 4,Ross Taylor,15548,Utah Valley,David Kocer,13612,South Dakota State
+2016,01/29,Wyoming - South Dakota State Dual,174,W,MD,13 - 3,Jace Jensen,12336,Wyoming,David Kocer,13612,South Dakota State
+2016,01/24,Air Force - South Dakota State Dual,174,W,MD,19 - 6,Zen Ikehara,20707,Air Force,David Kocer,13612,South Dakota State
+2016,01/22,Southern Illinois Edwardsville - South Dakota State Dual,174,W,FALL,6:48,Clayton Bass,20379,SIU Edwardsville,David Kocer,13612,South Dakota State
+2016,01/22,CSU Bakersfield - South Dakota State Dual,174,W,MD,14 - 0,Bryan Battisto,19830,CSU Bakersfield,David Kocer,13612,South Dakota State
+2016,01/15,South Dakota State - Northern Colorado Dual,174,W,TF5,21 - 4 6:28,Tanner Davis,20184,Northern Colorado,David Kocer,13612,South Dakota State
+2016,12/29,Midlands Championships,174,W,DEC,5 - 0,Blake Thompson,20422,North Dakota State,David Kocer,13612,South Dakota State
+2016,12/29,Midlands Championships,174,L,DEC,4 - 1,Phillip Bakuckas,12289,Rutgers,David Kocer,13612,South Dakota State
+2016,12/29,Midlands Championships,174,W,DEC,4 - 2,Tyler Chay,18454,Oregon State,David Kocer,13612,South Dakota State
+2016,12/29,Midlands Championships,174,W,DEC,5 - 4,Taylor Lujan,39506,Northern Iowa,David Kocer,13612,South Dakota State
+2016,12/29,Midlands Championships,174,W,MD,9 - 0,Trace Engelkes,11506,Northern Illinois,David Kocer,13612,South Dakota State
+2016,12/29,Midlands Championships,174,L,DEC,4 - 1,Lelund Weatherspoon,12283,Iowa State,David Kocer,13612,South Dakota State
+2016,12/29,Midlands Championships,174,W,DEC,7 - 1,Jacob Davis,11492,Eastern Michigan,David Kocer,13612,South Dakota State
+2016,12/29,Midlands Championships,174,L,DEC,3 - 2,Alex Meyer,12321,Iowa,David Kocer,13612,South Dakota State
+2016,12/13,North Dakota State - South Dakota State Dual,174,W,MD,10 - 1,Blake Thompson,20422,North Dakota State,David Kocer,13612,South Dakota State
+2016,12/06,Northern State - South Dakota State Dual,174,W,FALL,4:44,Anthony Navarro,40524,Northern State University,David Kocer,13612,South Dakota State
+2016,12/06,Augustana (SD) - South Dakota State Dual,174,W,DEC,8 - 1,Tim Weber,21110,Augustana,David Kocer,13612,South Dakota State
+2016,12/04,South Dakota State - Iowa Dual,174,L,DEC,5 - 2,Alex Meyer,12321,Iowa,David Kocer,13612,South Dakota State
+2016,11/27,Oklahoma State - South Dakota State Dual,174,L,DEC,7 - 2,Kyle Crutchmer,12286,Oklahoma State,David Kocer,13612,South Dakota State
+2016,11/21,Virginia Tech - South Dakota State Dual,174,W,MD,9 - 1,Cody Hughes,39608,Virginia Tech,David Kocer,13612,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,174,W,DEC,8 - 3,Jordan Gundrum,41115,Ellsworth CC,David Kocer,13612,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,174,W,DEC,4 - 1,Vince Dietz,42131,St Cloud State,David Kocer,13612,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,174,W,FALL,2:24,Spencer Ward,42130,Simpson,David Kocer,13612,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,174,W,MD,10 - 0,Austin Dewey,12380,Boise State,David Kocer,13612,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,174,L,DEC,3 - 2,Lelund Weatherspoon,12283,Iowa State,David Kocer,13612,South Dakota State
+2016,11/07,South Dakota State - Grand Canyon Dual,174,W,DEC,3 - 0,Kenny Moore,46406,Grand Canyon,David Kocer,13612,South Dakota State
+2016,11/07,Virginia - South Dakota State Dual,174,L,DEC,6 - 5,Fox Baldwin,39716,Virginia,David Kocer,13612,South Dakota State
+2016,11/07,South Dakota State - Minnesota Dual,174,L,DEC,6 - 5,Nick Wanzek,11511,Minnesota,David Kocer,13612,South Dakota State
+2016,11/01,Daktronics Open,174,W,MD,10 - 0,Tim Weber,21110,Augustana,David Kocer,13612,South Dakota State
+2016,11/01,Daktronics Open,174,W,DEC,3 - 1,Darius Wright,20052,Minnesota,David Kocer,13612,South Dakota State
+2016,11/01,Daktronics Open,174,W,DEC,7 - 1,Blake Thompson,20422,North Dakota State,David Kocer,13612,South Dakota State
+2016,11/01,Daktronics Open,174,L,DEC,3 - 2,Micah Barnes,16164,Nebraska,David Kocer,13612,South Dakota State
+2016,01/16,Worthington Open,174,W,DEC,9 - 7,Lukas Poloncic,43164,Augustana,Zach Carlson,40280,South Dakota State
+2016,01/16,Worthington Open,174,W,FALL,1:50,Zach Determan,43969,Augustana,Zach Carlson,40280,South Dakota State
+2016,01/16,Worthington Open,174,L,DEC,7 - 5,Harrison Swalla,44138,Iowa State,Zach Carlson,40280,South Dakota State
+2016,01/16,Worthington Open,174,W,MD,13 - 0,Tyler Vogt,24969,Rochester Community & Tech College,Zach Carlson,40280,South Dakota State
+2016,01/16,Worthington Open,174,W,MD,12 - 1,Gage Thom,43968,Minnesota State Mankato,Zach Carlson,40280,South Dakota State
+2016,12/12,UNI Open,174,L,DEC,4 - 2,Javier Reyes,23946,Luther,Zach Carlson,40280,South Dakota State
+2016,12/12,UNI Open,174,L,FALL,4:27,Travis Lang,42202,Maryville University,Zach Carlson,40280,South Dakota State
+2016,12/12,UNI Open,174,W,DEC,10 - 7,Luke Entzel,40219,Iowa State,Zach Carlson,40280,South Dakota State
+2016,11/21,Finn Grinaker Open,174,W,DEC,6 - 5,Monty Holm,41892,St Cloud State,Zach Carlson,40280,South Dakota State
+2016,11/21,Finn Grinaker Open,174,W,DEC,4 - 0,Logan Rhode,41783,Minnesota State Moorhead,Zach Carlson,40280,South Dakota State
+2016,11/21,Finn Grinaker Open,174,W,MD,13 - 0,Mitchell Zachman,42324,Northland Community & Technical College,Zach Carlson,40280,South Dakota State
+2016,11/21,Finn Grinaker Open,174,W,DEC,7 - 6,Brady Nelson,41893,St Cloud State,Zach Carlson,40280,South Dakota State
+2016,11/14,Bison Open,174,W,SV-1,7 - 5,Tyler Harrington,44384,North Dakota State,Zach Carlson,40280,South Dakota State
+2016,11/14,Bison Open,174,W,FALL,1:15,Carter Nielsen,39908,North Dakota State,Zach Carlson,40280,South Dakota State
+2016,11/14,Bison Open,174,W,TF5,15 - 0 3:39,Dylan Huttunen,41758,Minnesota State Moorhead,Zach Carlson,40280,South Dakota State
+2016,11/07,Grand View Open,174,W,DEC,4 - 1,Jordan Gundrum,41115,Ellsworth CC,Zach Carlson,40280,South Dakota State
+2016,11/07,Grand View Open,174,W,INJ,7:00,Luke Entzel,40219,Iowa State,Zach Carlson,40280,South Dakota State
+2016,11/07,Grand View Open,174,W,DEC,4 - 0,Seth Novak,41114,Iowa Western Community College,Zach Carlson,40280,South Dakota State
+2016,11/01,Daktronics Open,174,W,TF5,15 - 0 7:00,Ayden Garcia,40528,Northern State University,Zach Carlson,40280,South Dakota State
+2016,11/01,Daktronics Open,174,L,DEC,3 - 2,Carter Nielsen,39908,North Dakota State,Zach Carlson,40280,South Dakota State
+2016,11/01,Daktronics Open,174,L,MD,13 - 2,Micah Barnes,16164,Nebraska,Zach Carlson,40280,South Dakota State
+2016,11/01,Daktronics Open,174,W,DEC,4 - 1,Eric Engler,20098,Nebraska,Zach Carlson,40280,South Dakota State
+2016,03/05,Big 12 Championships,184,W,TF5,16 - 0 2:44,Horacio Vialpondo,20193,Northern Colorado,Brady Ayers,12290,South Dakota State
+2016,03/05,Big 12 Championships,184,W,DEC,4 - 2,Will Sumner,20419,Utah Valley,Brady Ayers,12290,South Dakota State
+2016,03/05,Big 12 Championships,184,W,DEC,5 - 2,Andrew Dixon,20809,Oklahoma,Brady Ayers,12290,South Dakota State
+2016,03/05,Big 12 Championships,184,L,DEC,11 - 4,Benjamin Stroh,12647,Wyoming,Brady Ayers,12290,South Dakota State
+2016,03/05,Big 12 Championships,184,L,SV-1,3 - 1,Dane Pestano,12943,Iowa State,Brady Ayers,12290,South Dakota State
+2016,03/05,Big 12 Championships,184,L,MD,8 - 0,Nolan Boyd,12399,Oklahoma State,Brady Ayers,12290,South Dakota State
+2016,02/21,South Dakota State - North Dakota State Dual,184,L,TF5,21 - 5 6:24,Hayden Zillmer,12280,North Dakota State,Brady Ayers,12290,South Dakota State
+2016,02/14,South Dakota State - Oklahoma Dual,184,L,DEC,4 - 3,Andrew Dixon,20809,Oklahoma,Brady Ayers,12290,South Dakota State
+2016,02/12,West Virginia - South Dakota State Dual,184,L,DEC,6 - 3,Bubba Scheffel,20475,West Virginia,Brady Ayers,12290,South Dakota State
+2016,02/07,South Dakota State - Boise State Dual,184,W,MD,13 - 5,Zach Coffman,16305,Boise State,Brady Ayers,12290,South Dakota State
+2016,02/05,South Dakota State - Utah Valley Dual,184,W,DEC,9 - 4,Will Sumner,20419,Utah Valley,Brady Ayers,12290,South Dakota State
+2016,01/29,Wyoming - South Dakota State Dual,184,W,DEC,6 - 5,Benjamin Stroh,12647,Wyoming,Brady Ayers,12290,South Dakota State
+2016,01/24,Air Force - South Dakota State Dual,184,L,DEC,3 - 2,Anthony McLaughlin,23674,Air Force,Brady Ayers,12290,South Dakota State
+2016,01/22,Southern Illinois Edwardsville - South Dakota State Dual,184,L,DEC,10 - 5,Derek Nagel,12989,SIU Edwardsville,Brady Ayers,12290,South Dakota State
+2016,01/22,CSU Bakersfield - South Dakota State Dual,184,W,MD,13 - 2,Dylan Bollinger,19831,CSU Bakersfield,Brady Ayers,12290,South Dakota State
+2016,01/15,South Dakota State - Northern Colorado Dual,184,W,TF5,25 - 10 6:07,Horacio Vialpondo,20193,Northern Colorado,Brady Ayers,12290,South Dakota State
+2016,12/29,Midlands Championships,184,L,TF5,15 - 0 7:00,David Taylor,43625,Unattached,Brady Ayers,12290,South Dakota State
+2016,12/29,Midlands Championships,184,L,DEC,4 - 3,Michale Fagg-Daves,20352,Rider,Brady Ayers,12290,South Dakota State
+2016,12/29,Midlands Championships,184,W,DEC,3 - 2,Lance Dixon,20811,Oklahoma,Brady Ayers,12290,South Dakota State
+2016,12/29,Midlands Championships,184,W,DEC,3 - 1,Mike Fetchet,13068,Columbia,Brady Ayers,12290,South Dakota State
+2016,12/13,North Dakota State - South Dakota State Dual,184,L,DEC,4 - 1,Hayden Zillmer,12280,North Dakota State,Brady Ayers,12290,South Dakota State
+2016,12/06,Northern State - South Dakota State Dual,184,W,FALL,2:45,David Murphy,40514,Northern State University,Brady Ayers,12290,South Dakota State
+2016,12/06,Augustana (SD) - South Dakota State Dual,184,L,DEC,3 - 2,Aero Amo,23456,Augustana,Brady Ayers,12290,South Dakota State
+2016,12/04,South Dakota State - Iowa Dual,184,L,FALL,0:43,Sammy Brooks,12589,Iowa,Brady Ayers,12290,South Dakota State
+2016,11/27,Oklahoma State - South Dakota State Dual,184,L,MD,11 - 2,Nolan Boyd,12399,Oklahoma State,Brady Ayers,12290,South Dakota State
+2016,11/21,Virginia Tech - South Dakota State Dual,184,L,DEC,7 - 4,Zack Zavatsky,20460,Virginia Tech,Brady Ayers,12290,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,W,SV-1,3 - 1,Zach Stodden,22201,Nebraska-Kearney,Brady Ayers,12290,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,W,TF5,16 - 0 4:40,Asiah Dyer,21270,Midland,Brady Ayers,12290,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,W,MD,16 - 2,Mike Lambert,41749,Nebraska-Kearney,Brady Ayers,12290,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,W,DEC,8 - 5,Keavon Buckley,19684,Boise State,Brady Ayers,12290,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,W,DEC,8 - 3,Dalton Lunde,20041,Minnesota,Brady Ayers,12290,South Dakota State
+2016,11/07,South Dakota State - Grand Canyon Dual,184,W,DEC,9 - 7,Cale Wilson,40397,Grand Canyon,Brady Ayers,12290,South Dakota State
+2016,11/07,Virginia - South Dakota State Dual,184,W,DEC,6 - 4,Will Schany,20435,Virginia,Brady Ayers,12290,South Dakota State
+2016,11/07,South Dakota State - Minnesota Dual,184,W,DEC,6 - 5,Chris Pfarr,11524,Minnesota,Brady Ayers,12290,South Dakota State
+2016,11/01,Daktronics Open,184,W,DEC,4 - 3,Martin Mueller,40281,South Dakota State,Brady Ayers,12290,South Dakota State
+2016,11/01,Daktronics Open,184,W,DEC,1 - 0,Jordon Rothers,11571,Minnesota,Brady Ayers,12290,South Dakota State
+2016,11/01,Daktronics Open,184,W,FALL,6:59,Timothy Young,40523,Unattached,Brady Ayers,12290,South Dakota State
+2016,11/01,Daktronics Open,184,L,FALL,3:26,Hayden Zillmer,12280,North Dakota State,Brady Ayers,12290,South Dakota State
+2016,01/16,Worthington Open,184,W,DEC,10 - 9,Cole Hennen,43238,Southwest Minnesota State,Martin Mueller,40281,South Dakota State
+2016,01/16,Worthington Open,184,W,FALL,2:46,Monty Holm,41892,St Cloud State,Martin Mueller,40281,South Dakota State
+2016,01/16,Worthington Open,184,W,FALL,2:28,Jayce Frank,43237,Morningside,Martin Mueller,40281,South Dakota State
+2016,01/16,Worthington Open,184,W,DEC,13 - 8,Will Balow,20030,Minnesota,Martin Mueller,40281,South Dakota State
+2016,11/01,Daktronics Open,184,L,INJ,7:00,Chris Pfarr,11524,Minnesota,Martin Mueller,40281,South Dakota State
+2016,11/01,Daktronics Open,184,W,DEC,7 - 4,Nick Lawrence,11744,Unattached,Martin Mueller,40281,South Dakota State
+2016,11/01,Daktronics Open,184,W,DEC,13 - 10,Chris Pfarr,11524,Minnesota,Martin Mueller,40281,South Dakota State
+2016,11/01,Daktronics Open,184,W,MD,14 - 2,Logan Henning,24153,Augustana,Martin Mueller,40281,South Dakota State
+2016,11/01,Daktronics Open,184,W,DEC,5 - 2,Dalton Lunde,20041,Minnesota,Martin Mueller,40281,South Dakota State
+2016,11/01,Daktronics Open,184,L,DEC,4 - 3,Brady Ayers,12290,South Dakota State,Martin Mueller,40281,South Dakota State
+2016,12/29,Midlands Championships,184,L,DEC,6 - 1,Corey Griego,20292,Oregon State,Ben Schwery,12454,South Dakota State
+2016,12/29,Midlands Championships,184,W,DEC,3 - 1,Danny Hicks,16403,Illinois,Ben Schwery,12454,South Dakota State
+2016,12/29,Midlands Championships,184,L,DEC,9 - 4,Sammy Brooks,12589,Iowa,Ben Schwery,12454,South Dakota State
+2016,12/29,Midlands Championships,184,W,DEC,3 - 0,Cash Wilcke,39502,Iowa,Ben Schwery,12454,South Dakota State
+2016,12/06,Northern State - South Dakota State Dual,197,L,DEC,3 - 2,Joe Gomez,43186,Northern State University,Ben Schwery,12454,South Dakota State
+2016,12/06,Dakota Wesleyan - South Dakota State Dual,184,W,DEC,8 - 1,Isaac Rangel,24338,Dakota Wesleyan,Ben Schwery,12454,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,L,DEC,7 - 5,Chevy Farris,42057,St Cloud State,Ben Schwery,12454,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,W,FALL,4:49,Asiah Dyer,21270,Midland,Ben Schwery,12454,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,W,TF5,16 - 0 5:19,Ty Karsgaard,42133,Midland,Ben Schwery,12454,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,L,FALL,0:59,Keavon Buckley,19684,Boise State,Ben Schwery,12454,South Dakota State
+2016,11/07,South Dakota State - Grand Canyon Dual,197,W,DEC,4 - 3,Austin Gaun,23806,Grand Canyon,Ben Schwery,12454,South Dakota State
+2016,11/01,Daktronics Open,184,L,DEC,2 - 1,Nick Lawrence,11744,Unattached,Ben Schwery,12454,South Dakota State
+2016,11/01,Daktronics Open,184,L,FALL,1:58,Aero Amo,23456,Augustana,Ben Schwery,12454,South Dakota State
+2016,11/01,Daktronics Open,184,W,DEC,8 - 4,Anthony Navarro,40524,Northern State University,Ben Schwery,12454,South Dakota State
+2016,01/16,Worthington Open,184,L,MD,11 - 0,Cole Hennen,43238,Southwest Minnesota State,Josh Casperson,20368,South Dakota State
+2016,01/16,Worthington Open,184,W,DEC,10 - 5,Dustin Lee,43979,Rochester Community & Tech College,Josh Casperson,20368,South Dakota State
+2016,01/16,Worthington Open,184,W,FALL,1:48,Monty Holm,41892,St Cloud State,Josh Casperson,20368,South Dakota State
+2016,01/16,Worthington Open,184,W,TF5,16 - 0 7:00,Caleb Deemer,42606,Morningside,Josh Casperson,20368,South Dakota State
+2016,01/16,Worthington Open,184,W,INJ,7:00,Dalton Lunde,20041,Minnesota,Josh Casperson,20368,South Dakota State
+2016,01/16,Worthington Open,184,L,DEC,5 - 3,Dalton Lunde,20041,Minnesota,Josh Casperson,20368,South Dakota State
+2016,12/29,Midlands Championships,184,L,FALL,3:26,Abram Ayala,13120,Princeton,Josh Casperson,20368,South Dakota State
+2016,12/29,Midlands Championships,184,L,DEC,2 - 1,Cash Wilcke,39502,Iowa,Josh Casperson,20368,South Dakota State
+2016,12/06,Dakota Wesleyan - South Dakota State Dual,197,W,FALL,2:35,Matt Schirado,43181,Dakota Wesleyan,Josh Casperson,20368,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,L,DEC,14 - 8,Uthman Rabiu,23201,St Cloud State,Josh Casperson,20368,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,W,FALL,2:28,Atavion Oliver,41083,Ellsworth CC,Josh Casperson,20368,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,L,DEC,9 - 6,Zach Stodden,22201,Nebraska-Kearney,Josh Casperson,20368,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,W,DEC,9 - 2,Jake Anderson,20093,Nebraska,Josh Casperson,20368,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,L,FALL,1:25,Dalton Lunde,20041,Minnesota,Josh Casperson,20368,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,184,W,MD,10 - 1,Faris Karaborni,20036,Minnesota,Josh Casperson,20368,South Dakota State
+2016,11/07,Grand View Open,184,L,FALL,0:59,Wesley Schultz,40548,Iowa Lakes Community College,Josh Casperson,20368,South Dakota State
+2016,11/07,Grand View Open,184,W,FALL,2:07,Alex Bleeker,40492,North Dakota State,Josh Casperson,20368,South Dakota State
+2016,11/07,Grand View Open,184,W,DEC,10 - 4,John Orscheln,23940,Grand View,Josh Casperson,20368,South Dakota State
+2016,11/07,Grand View Open,184,W,FALL,3:36,Nick Wise,41126,William Penn,Josh Casperson,20368,South Dakota State
+2016,11/07,Grand View Open,184,W,FALL,2:24,Bradley Recker,41125,William Penn,Josh Casperson,20368,South Dakota State
+2016,11/07,Grand View Open,184,L,FALL,1:36,Derek Nagel,12989,SIU Edwardsville,Josh Casperson,20368,South Dakota State
+2016,11/01,Daktronics Open,184,L,FALL,2:00,Chris Pfarr,11524,Minnesota,Josh Casperson,20368,South Dakota State
+2016,11/01,Daktronics Open,184,W,DEC,7 - 1,Anthony Navarro,40524,Northern State University,Josh Casperson,20368,South Dakota State
+2016,11/01,Daktronics Open,184,W,DEC,5 - 2,Josh Kettel,20100,Nebraska,Josh Casperson,20368,South Dakota State
+2016,11/01,Daktronics Open,184,L,DEC,7 - 5,Jake Anderson,20093,Nebraska,Josh Casperson,20368,South Dakota State
+2016,03/17,NCAA Championships,197,W,MD,11 - 3,Hayden Hrymack,13118,Rutgers,Nate Rotert,12968,South Dakota State
+2016,03/17,NCAA Championships,197,L,DEC,9 - 4,Kyle Conel,19973,Kent State,Nate Rotert,12968,South Dakota State
+2016,03/17,NCAA Championships,197,L,DEC,7 - 4,Scottie Boykin,12756,Chattanooga,Nate Rotert,12968,South Dakota State
+2016,03/05,Big 12 Championships,197,W,DEC,7 - 6,Trent Noon,12471,Northern Colorado,Nate Rotert,12968,South Dakota State
+2016,03/05,Big 12 Championships,197,W,DEC,8 - 2,Brandon Tribble,13038,Wyoming,Nate Rotert,12968,South Dakota State
+2016,03/05,Big 12 Championships,197,L,DEC,4 - 3,Preston Weigel,20278,Oklahoma State,Nate Rotert,12968,South Dakota State
+2016,02/21,South Dakota State - North Dakota State Dual,197,W,DEC,10 - 4,Charley Popp,20768,North Dakota State,Nate Rotert,12968,South Dakota State
+2016,02/14,South Dakota State - Oklahoma Dual,197,W,DEC,6 - 2,Brad Johnson,16410,Oklahoma,Nate Rotert,12968,South Dakota State
+2016,02/12,West Virginia - South Dakota State Dual,197,L,DEC,5 - 4,Jake A Smith,23323,West Virginia,Nate Rotert,12968,South Dakota State
+2016,02/07,South Dakota State - Boise State Dual,197,W,FALL,4:57,Kadyn Del toro,44256,Boise State,Nate Rotert,12968,South Dakota State
+2016,02/05,South Dakota State - Utah Valley Dual,197,W,FALL,1:14,Aryton Almberg,13048,Utah Valley,Nate Rotert,12968,South Dakota State
+2016,01/29,Wyoming - South Dakota State Dual,197,W,DEC,6 - 2,Brandon Tribble,13038,Wyoming,Nate Rotert,12968,South Dakota State
+2016,01/24,Air Force - South Dakota State Dual,197,W,DEC,8 - 7,Parker Hines,13041,Air Force,Nate Rotert,12968,South Dakota State
+2016,01/22,Southern Illinois Edwardsville - South Dakota State Dual,197,W,FALL,3:27,Jake Tindle,12670,SIU Edwardsville,Nate Rotert,12968,South Dakota State
+2016,01/22,CSU Bakersfield - South Dakota State Dual,197,L,MD,14 - 2,Reuben Franklin,13142,CSU Bakersfield,Nate Rotert,12968,South Dakota State
+2016,01/15,South Dakota State - Northern Colorado Dual,197,W,DEC,9 - 5,Trent Noon,12471,Northern Colorado,Nate Rotert,12968,South Dakota State
+2016,12/29,Midlands Championships,197,W,FALL,2:39,Michael Boykin,20123,NC State,Nate Rotert,12968,South Dakota State
+2016,12/29,Midlands Championships,197,W,DEC,7 - 3,Ryan Wolfe,12552,Rider,Nate Rotert,12968,South Dakota State
+2016,12/29,Midlands Championships,197,W,MD,17 - 6,Drake Stein,14284,Purdue,Nate Rotert,12968,South Dakota State
+2016,12/29,Midlands Championships,197,L,DEC,5 - 3,Derek White,20107,Nebraska,Nate Rotert,12968,South Dakota State
+2016,12/29,Midlands Championships,197,L,DEC,10 - 4,Brett Harner,12294,Princeton,Nate Rotert,12968,South Dakota State
+2016,12/29,Midlands Championships,197,W,DEC,9 - 2,Cody Crawford,16468,Oregon State,Nate Rotert,12968,South Dakota State
+2016,12/29,Midlands Championships,197,W,DEC,11 - 9,Steven Holloway,40038,Iowa,Nate Rotert,12968,South Dakota State
+2016,12/13,North Dakota State - South Dakota State Dual,197,W,MD,14 - 5,Logan Paxton,40457,North Dakota State,Nate Rotert,12968,South Dakota State
+2016,12/06,Augustana (SD) - South Dakota State Dual,197,W,TF5,19 - 4 4:52,Clayton Wahlstrom,21078,Augustana,Nate Rotert,12968,South Dakota State
+2016,11/27,Oklahoma State - South Dakota State Dual,197,W,DEC,15 - 10,Jordan Rogers,12544,Oklahoma State,Nate Rotert,12968,South Dakota State
+2016,11/21,Virginia Tech - South Dakota State Dual,197,L,DEC,3 - 2,Jared Haught,13085,Virginia Tech,Nate Rotert,12968,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,197,W,SV-1,6 - 5,Evan Hansen,41089,Grand View,Nate Rotert,12968,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,197,W,MD,10 - 1,Derrick Hawkins,42125,Grand View,Nate Rotert,12968,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,197,W,FALL,0:48,Dagan Willingham,42124,Pratt Community College,Nate Rotert,12968,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,197,W,MD,15 - 6,Corey Van dorn,41837,Nebraska-Kearney,Nate Rotert,12968,South Dakota State
+2016,11/15,Harold Nichols Cyclone Open,197,W,DEC,4 - 1,Steven Holloway,40038,Iowa,Nate Rotert,12968,South Dakota State
+2016,11/07,Virginia - South Dakota State Dual,197,L,SV-1,4 - 3,Zach Nye,13160,Virginia,Nate Rotert,12968,South Dakota State
+2016,11/07,South Dakota State - Minnesota Dual,197,L,MD,12 - 0,Brett Pfarr,12441,Minnesota,Nate Rotert,12968,South Dakota State
+2016,11/01,Daktronics Open,197,L,TF5,15 - 0 5:30,Brett Pfarr,12441,Minnesota,Nate Rotert,12968,South Dakota State
+2016,11/01,Daktronics Open,197,W,DEC,4 - 1,Cordell Eaton,40458,North Dakota State,Nate Rotert,12968,South Dakota State
+2016,11/01,Daktronics Open,197,W,SV-1,8 - 6,Aaron Studebaker,12422,Nebraska,Nate Rotert,12968,South Dakota State
+2016,01/16,Worthington Open,197,L,FALL,2:22,Lukas Forsling,43976,Morningside,Caleb Ward,39988,South Dakota State
+2016,01/16,Worthington Open,197,W,FALL,6:09,Barrett Hamilton,42635,Morningside,Caleb Ward,39988,South Dakota State
+2016,01/16,Worthington Open,197,L,DEC,6 - 4,Atavion Oliver,41083,Ellsworth CC,Caleb Ward,39988,South Dakota State
+2016,01/16,Worthington Open,197,W,FALL,5:57,Phillip Jackson,41772,Northland Community & Technical College,Caleb Ward,39988,South Dakota State
+2016,12/12,UNI Open,197,L,TF5,15 - 0 6:22,Nic Veling,12952,Wisconsin,Caleb Ward,39988,South Dakota State
+2016,12/12,UNI Open,197,W,TF5,16 - 0 2:48,Noah Uhing,40283,South Dakota State,Caleb Ward,39988,South Dakota State
+2016,12/12,UNI Open,197,L,TF5,19 - 3 3:49,Robert Steveson,39518,Minnesota,Caleb Ward,39988,South Dakota State
+2016,11/21,Finn Grinaker Open,197,L,DEC,3 - 1,Hunter Santamour,42319,Concordia-Moorhead,Caleb Ward,39988,South Dakota State
+2016,11/21,Finn Grinaker Open,197,W,MD,14 - 3,Hunter Hart,41771,Minot State,Caleb Ward,39988,South Dakota State
+2016,11/21,Finn Grinaker Open,197,W,FALL,2:04,Phillip Jackson,41772,Northland Community & Technical College,Caleb Ward,39988,South Dakota State
+2016,11/21,Finn Grinaker Open,197,W,TF5,18 - 0 4:26,Noah Uhing,40283,South Dakota State,Caleb Ward,39988,South Dakota State
+2016,11/14,Bison Open,197,L,DEC,7 - 1,Collin Huckbody,41774,Unattached,Caleb Ward,39988,South Dakota State
+2016,11/14,Bison Open,197,W,DEC,5 - 0,Cody Anderson,40888,Minnesota State Moorhead,Caleb Ward,39988,South Dakota State
+2016,11/14,Bison Open,197,L,FALL,4:15,Cordell Eaton,40458,North Dakota State,Caleb Ward,39988,South Dakota State
+2016,11/14,Bison Open,197,W,DEC,7 - 4,Austin Warren,41773,Minnesota State Moorhead,Caleb Ward,39988,South Dakota State
+2016,11/14,Bison Open,197,W,TF5,18 - 0 2:26,Phillip Jackson,41772,Northland Community & Technical College,Caleb Ward,39988,South Dakota State
+2016,11/07,Grand View Open,197,L,DEC,10 - 4,Ethan Leighton,41088,Grand View,Caleb Ward,39988,South Dakota State
+2016,11/07,Grand View Open,197,L,DEC,5 - 1,Jones Kendrick,40886,Iowa Central Community College,Caleb Ward,39988,South Dakota State
+2016,11/07,Grand View Open,197,W,FALL,3:22,Jonathan Garcia,41087,Lindenwood - Belleville,Caleb Ward,39988,South Dakota State
+2016,11/07,Grand View Open,197,W,DEC,8 - 7,John Ware,41120,Grand View,Caleb Ward,39988,South Dakota State
+2016,11/07,Grand View Open,197,L,DEC,13 - 7,Ethan Leighton,41088,Grand View,Caleb Ward,39988,South Dakota State
+2016,11/07,Grand View Open,197,W,DEC,6 - 2,Cody Anderson,40888,Minnesota State Moorhead,Caleb Ward,39988,South Dakota State
+2016,11/01,Daktronics Open,197,L,DEC,5 - 2,Clayton Wahlstrom,21078,Augustana,Caleb Ward,39988,South Dakota State
+2016,11/01,Daktronics Open,197,L,FALL,1:49,Brett Pfarr,12441,Minnesota,Caleb Ward,39988,South Dakota State
+2016,01/16,Worthington Open,197,L,FALL,1:20,Lukas Forsling,43976,Morningside,Noah Uhing,40283,South Dakota State
+2016,01/16,Worthington Open,197,L,MD,15 - 3,Chaydon O'fallon,43975,Minnesota State Mankato,Noah Uhing,40283,South Dakota State
+2016,01/16,Worthington Open,197,W,FALL,6:44,Mason Pembo,43974,Iowa Lakes Community College,Noah Uhing,40283,South Dakota State
+2016,12/12,UNI Open,197,L,TF5,16 - 0 2:48,Caleb Ward,39988,South Dakota State,Noah Uhing,40283,South Dakota State
+2016,12/12,UNI Open,197,L,TF5,15 - 0 3:20,Dustin Politte,42199,Maryville University,Noah Uhing,40283,South Dakota State
+2016,11/21,Finn Grinaker Open,197,W,SV-1,3 - 1,Phillip Jackson,41772,Northland Community & Technical College,Noah Uhing,40283,South Dakota State
+2016,11/21,Finn Grinaker Open,197,L,TF5,18 - 0 4:26,Caleb Ward,39988,South Dakota State,Noah Uhing,40283,South Dakota State
+2016,11/21,Finn Grinaker Open,197,L,DEC,6 - 2,Hunter Hart,41771,Minot State,Noah Uhing,40283,South Dakota State
+2016,11/21,Finn Grinaker Open,197,L,FALL,1:45,Hunter Santamour,42319,Concordia-Moorhead,Noah Uhing,40283,South Dakota State
+2016,11/14,Bison Open,197,L,TF5,16 - 0 7:00,Cody Anderson,40888,Minnesota State Moorhead,Noah Uhing,40283,South Dakota State
+2016,11/14,Bison Open,197,L,MD,8 - 0,Hunter Hart,41771,Minot State,Noah Uhing,40283,South Dakota State
+2016,03/05,Big 12 Championships,285,L,DEC,2 - 0,AJ Vizcarrondo,14266,West Virginia,Alex Macki,14278,South Dakota State
+2016,03/05,Big 12 Championships,285,L,DEC,1 - 0,Marcus Malecek,14376,Air Force,Alex Macki,14278,South Dakota State
+2016,02/21,South Dakota State - North Dakota State Dual,285,L,DEC,5 - 3,Benjamin Tyanan,40498,North Dakota State,Alex Macki,14278,South Dakota State
+2016,02/14,South Dakota State - Oklahoma Dual,285,L,DEC,4 - 0,Ross Larson,14299,Oklahoma,Alex Macki,14278,South Dakota State
+2016,02/12,West Virginia - South Dakota State Dual,285,L,DEC,2 - 1,AJ Vizcarrondo,14266,West Virginia,Alex Macki,14278,South Dakota State
+2016,02/07,South Dakota State - Boise State Dual,285,W,DEC,5 - 4,Harley DiLulo,19686,Boise State,Alex Macki,14278,South Dakota State
+2016,02/05,South Dakota State - Utah Valley Dual,285,L,DEC,5 - 0,Dustin Dennison,20409,Utah Valley,Alex Macki,14278,South Dakota State
+2016,01/29,Wyoming - South Dakota State Dual,285,L,MD,13 - 0,Tanner Harms,14340,Wyoming,Alex Macki,14278,South Dakota State
+2016,01/24,Air Force - South Dakota State Dual,285,L,DEC,2 - 0,Marcus Malecek,14376,Air Force,Alex Macki,14278,South Dakota State
+2016,01/22,Southern Illinois Edwardsville - South Dakota State Dual,285,L,DEC,3 - 2,Chris Johnson,12407,SIU Edwardsville,Alex Macki,14278,South Dakota State
+2016,01/22,CSU Bakersfield - South Dakota State Dual,285,L,DEC,4 - 0,Matt Williams,16442,CSU Bakersfield,Alex Macki,14278,South Dakota State
+2016,01/15,South Dakota State - Northern Colorado Dual,285,W,TB-2,4 - 2,Jack Kuck,40206,Northern Colorado,Alex Macki,14278,South Dakota State
+2016,12/13,North Dakota State - South Dakota State Dual,285,L,DEC,4 - 0,Benjamin Tyanan,40498,North Dakota State,Alex Macki,14278,South Dakota State
+2016,12/06,Augustana (SD) - South Dakota State Dual,285,L,DEC,5 - 2,Michael Lowman,23458,Augustana,Alex Macki,14278,South Dakota State
+2016,12/06,Dakota Wesleyan - South Dakota State Dual,285,W,MD,12 - 4,Jade Hoisington,43182,Dakota Wesleyan,Alex Macki,14278,South Dakota State
+2016,12/04,South Dakota State - Iowa Dual,285,L,DQ,0 - 0,Sam Stoll,19955,Iowa,Alex Macki,14278,South Dakota State
+2016,11/21,Virginia Tech - South Dakota State Dual,285,L,DEC,5 - 3,Ty Walz,14246,Virginia Tech,Alex Macki,14278,South Dakota State
+2016,11/07,Grand View Open,285,L,DEC,7 - 2,Daniel Chaid,45044,North Carolina,Alex Macki,14278,South Dakota State
+2016,11/07,Virginia - South Dakota State Dual,285,L,MD,12 - 0,Patrick Gillen,13125,Virginia,Alex Macki,14278,South Dakota State
+2016,11/07,South Dakota State - Minnesota Dual,285,L,MD,14 - 1,Michael Kroells,14331,Minnesota,Alex Macki,14278,South Dakota State
+2016,11/01,Daktronics Open,285,L,DEC,3 - 2,Joe Scanlan,14338,Iowa State,Alex Macki,14278,South Dakota State
+2016,11/01,Daktronics Open,285,W,MD,10 - 2,Luke Destiche,20034,Minnesota,Alex Macki,14278,South Dakota State
+2016,11/01,Daktronics Open,285,W,FALL,2:33,Richard Gonzalez,21096,Iowa Central Community College,Alex Macki,14278,South Dakota State
+2016,11/01,Daktronics Open,285,W,SV-1,4 - 2,Adam Freimund,20762,North Dakota State,Alex Macki,14278,South Dakota State
+2016,11/01,Daktronics Open,285,L,DEC,3 - 0,Benjamin Tyanan,40498,North Dakota State,Alex Macki,14278,South Dakota State
+2016,11/14,Bison Open,285,L,DQ,0 - 0,Carson Hagen,40459,North Dakota State,Jimsher Sidhu,40282,South Dakota State
+2016,11/14,Bison Open,285,L,TF5,23 - 7 6:22,Benjamin Tyanan,40498,North Dakota State,Jimsher Sidhu,40282,South Dakota State
+2016,11/07,Grand View Open,285,L,SV-1,7 - 5,Stephen Boone,41119,Iowa Western Community College,Jimsher Sidhu,40282,South Dakota State
+2016,11/07,Grand View Open,285,W,DEC,8 - 3,Tra'von Butler,41118,Iowa Central Community College,Jimsher Sidhu,40282,South Dakota State
+2016,11/07,Grand View Open,285,W,DEC,9 - 4,Gabriel Rangel,41117,Grand View,Jimsher Sidhu,40282,South Dakota State
+2016,11/07,Grand View Open,285,W,DEC,9 - 4,Richard Belmontez,41116,Unattached,Jimsher Sidhu,40282,South Dakota State
+2016,11/01,Daktronics Open,285,L,DEC,7 - 5,Luke Destiche,20034,Minnesota,Jimsher Sidhu,40282,South Dakota State
+2016,11/01,Daktronics Open,285,W,DEC,11 - 4,Chase O'connor,40515,Unattached,Jimsher Sidhu,40282,South Dakota State
+2016,11/01,Daktronics Open,285,L,DEC,5 - 0,Michael Lowman,23458,Augustana,Jimsher Sidhu,40282,South Dakota State

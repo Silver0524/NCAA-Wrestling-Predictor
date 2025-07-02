@@ -1,0 +1,527 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2018,03/15,NCAA Championships,125,L,FALL,4:49,Sebastian Rivera,44799,Northwestern,Elijah Oliver,39583,Indiana
+2018,03/15,NCAA Championships,125,W,DEC,8 - 1,Barlow McGhee,13251,Missouri,Elijah Oliver,39583,Indiana
+2018,03/15,NCAA Championships,125,L,DEC,5 - 4,Ronnie Bresser,25183,Oregon State,Elijah Oliver,39583,Indiana
+2018,03/03,Big Ten Championships,125,L,MD,15 - 3,Rayvon Foley,50823,Michigan State,Elijah Oliver,39583,Indiana
+2018,03/03,Big Ten Championships,125,L,DEC,8 - 6,Rayvon Foley,50823,Michigan State,Elijah Oliver,39583,Indiana
+2018,03/03,Big Ten Championships,125,L,FALL,4:55,Sebastian Rivera,44799,Northwestern,Elijah Oliver,39583,Indiana
+2018,03/03,Big Ten Championships,125,W,DEC,7 - 3,Travis Piotrowski,44646,Illinois,Elijah Oliver,39583,Indiana
+2018,02/11,Northwestern - Indiana Dual,125,L,FALL,4:11,Sebastian Rivera,44799,Northwestern,Elijah Oliver,39583,Indiana
+2018,02/04,Purdue - Indiana Dual,125,L,MD,12 - 4,Luke Welch,13436,Purdue,Elijah Oliver,39583,Indiana
+2018,02/02,Illinois - Indiana Dual,125,L,FALL,6:26,Travis Piotrowski,44646,Illinois,Elijah Oliver,39583,Indiana
+2018,01/28,Indiana - Nebraska Dual,125,W,SV-1,3 - 1,Mitchell Maginnis,15418,Nebraska,Elijah Oliver,39583,Indiana
+2018,01/26,Indiana - Wisconsin Dual,125,W,FALL,2:31,Ethan Rotondo,51219,Wisconsin,Elijah Oliver,39583,Indiana
+2018,01/19,Michigan State - Indiana Dual,125,W,DEC,11 - 8,Rayvon Foley,50823,Michigan State,Elijah Oliver,39583,Indiana
+2018,12/17,Indiana - Penn State Dual,125,W,DEC,7 - 2,Devin Schnupp,45072,Penn State,Elijah Oliver,39583,Indiana
+2018,12/10,Indiana - Ohio State Dual,125,W,DEC,9 - 5,Brakan Mead,50226,Ohio State,Elijah Oliver,39583,Indiana
+2018,12/02,Southern Illinois Edwardsville - Indiana Dual,125,W,MD,16 - 4,Zach Gentzler,41461,SIU Edwardsville,Elijah Oliver,39583,Indiana
+2018,12/02,Cleveland State - Indiana Dual,125,W,TF5,19 - 3 4:23,Cameron Lathem,44691,Cleveland State,Elijah Oliver,39583,Indiana
+2018,11/26,Indianapolis - Indiana Dual,125,W,MD,18 - 8,Dj Smith,44342,Indianapolis,Elijah Oliver,39583,Indiana
+2018,11/26,Eastern Michigan - Indiana Dual,125,W,MD,11 - 2,Tomas Gutierrez,45017,Eastern Michigan,Elijah Oliver,39583,Indiana
+2018,11/26,Binghamton - Indiana Dual,125,L,DEC,9 - 7,Joe Nelson,19659,Binghamton,Elijah Oliver,39583,Indiana
+2018,11/18,Navy Classic,125,L,DEC,10 - 3,Michael McGee,49264,Old Dominion,Elijah Oliver,39583,Indiana
+2018,11/18,Navy Classic,125,W,MD,14 - 3,Logan Treaster,49205,Navy,Elijah Oliver,39583,Indiana
+2018,11/18,Navy Classic,125,W,DEC,8 - 3,Ibrahim Bunduka,19897,George Mason,Elijah Oliver,39583,Indiana
+2018,11/18,Navy Classic,125,W,TF5,25 - 10 6:03,Spencer Good,51030,Columbia,Elijah Oliver,39583,Indiana
+2018,11/18,Navy Classic,125,L,DEC,3 - 2,Gage Curry,44583,American,Elijah Oliver,39583,Indiana
+2018,11/16,Indiana - Bloomsburg Dual,125,L,DEC,12 - 5,Willy Girard,45191,Bloomsburg,Elijah Oliver,39583,Indiana
+2018,11/05,Clarion Open,125,L,DEC,5 - 4,Zeke Moisey,20472,West Virginia,Elijah Oliver,39583,Indiana
+2018,11/05,Clarion Open,125,W,MD,11 - 3,Sam Book,49332,Virginia,Elijah Oliver,39583,Indiana
+2018,11/05,Clarion Open,125,W,FALL,5:17,Luke Werner,50282,Lock Haven,Elijah Oliver,39583,Indiana
+2018,11/05,Clarion Open,125,L,DEC,5 - 3,Louie Hayes,44641,Virginia,Elijah Oliver,39583,Indiana
+2018,11/05,Clarion Open,125,W,MD,16 - 5,Austin Clabaugh,51622,Penn State,Elijah Oliver,39583,Indiana
+2018,11/05,Clarion Open,125,W,MD,14 - 0,Brendan Howard,39805,Pitt-Johnstown,Elijah Oliver,39583,Indiana
+2018,01/28,Greyhound Open,125,W,TF5,24 - 9 0:16,Matt Malavsky,50962,SIU Edwardsville,Liam Cronin,45061,Indiana
+2018,01/28,Greyhound Open,125,W,TF5,24 - 9 7:00,Matt Malavsky,55528,Unattached,Liam Cronin,45061,Indiana
+2018,01/28,Greyhound Open,125,W,TF5,20 - 4 7:00,Marshall Craig,51419,Purdue,Liam Cronin,45061,Indiana
+2018,01/28,Greyhound Open,125,L,DEC,6 - 4,Devin Schroder,44591,Purdue,Liam Cronin,45061,Indiana
+2018,01/28,Greyhound Open,125,W,FALL,3:43,Kolby Smith,49875,Maryville University,Liam Cronin,45061,Indiana
+2018,01/20,Alma Open,125,W,TF5,26 - 11 7:00,Austin Wieczorek,54806,Alma College,Liam Cronin,45061,Indiana
+2018,01/20,Alma Open,125,W,DEC,8 - 3,Brock Bergelin,49078,Central Michigan,Liam Cronin,45061,Indiana
+2018,01/20,Alma Open,125,L,DEC,4 - 2,Benny Gomez,47503,Muskegon Community College,Liam Cronin,45061,Indiana
+2018,01/14,Purple Raider Open,125,W,DEC,3 - 1,Joey Thomas,51008,West Virginia,Liam Cronin,45061,Indiana
+2018,01/14,Purple Raider Open,125,W,DEC,4 - 1,Hunter Lucas,45132,Ohio State,Liam Cronin,45061,Indiana
+2018,01/14,Purple Raider Open,125,W,DEC,7 - 3,Brock Bergelin,49078,Central Michigan,Liam Cronin,45061,Indiana
+2018,01/14,Purple Raider Open,125,W,MD,18 - 5,Ethan Curtin,45303,Michigan State,Liam Cronin,45061,Indiana
+2018,12/29,Midlands Invitational,125,L,DEC,8 - 3,Jake Gromacki,20324,Clarion,Liam Cronin,45061,Indiana
+2018,12/29,Midlands Invitational,125,L,DEC,7 - 1,Drew Hildebrandt,44818,Central Michigan,Liam Cronin,45061,Indiana
+2018,11/05,Michigan State Open,125,L,TF5,17 - 0 7:00,Ryan Millhof,20815,Arizona State,Liam Cronin,45061,Indiana
+2018,11/05,Michigan State Open,125,W,DEC,13 - 10,Dalton Duffield,44881,Oklahoma,Liam Cronin,45061,Indiana
+2018,11/05,Michigan State Open,125,L,DEC,8 - 3,Joshua Kramer,39736,Arizona State,Liam Cronin,45061,Indiana
+2018,01/28,Greyhound Open,125,W,FALL,7:00,Nathaniel Stubblefield,46566,Tiffin University,Seth Horty,51182,Indiana
+2018,01/28,Greyhound Open,125,L,DEC,7 - 4,Nick Brady,52290,Indianapolis,Seth Horty,51182,Indiana
+2018,12/16,Cleveland State Open,125,L,FALL,4:41,Joey Thomas,51008,West Virginia,Seth Horty,51182,Indiana
+2018,12/16,Cleveland State Open,125,W,DEC,3 - 2,Trent Gill,53675,Mount Union,Seth Horty,51182,Indiana
+2018,12/16,Cleveland State Open,125,L,FALL,4:47,Cameron Lathem,44691,Cleveland State,Seth Horty,51182,Indiana
+2018,11/05,Michigan State Open,125,L,TF5,16 - 1 6:19,Bryce Davis,51484,Ashland,Seth Horty,51182,Indiana
+2018,11/05,Michigan State Open,125,L,MFOR,0 - 0,Gage Griffith,51485,Ashland,Seth Horty,51182,Indiana
+2018,03/03,Big Ten Championships,133,L,DEC,5 - 4,Luke Pletcher,44636,Ohio State,Garrett Pepple,39561,Indiana
+2018,03/03,Big Ten Championships,133,W,DEC,3 - 1,Paul Glynn,39535,Iowa,Garrett Pepple,39561,Indiana
+2018,03/03,Big Ten Championships,133,L,DEC,3 - 0,Ben Thornton,20350,Purdue,Garrett Pepple,39561,Indiana
+2018,02/11,Northwestern - Indiana Dual,133,L,DEC,3 - 1,Colin Valdiviez,49244,Northwestern,Garrett Pepple,39561,Indiana
+2018,02/04,Purdue - Indiana Dual,133,L,DEC,3 - 2,Ben Thornton,20350,Purdue,Garrett Pepple,39561,Indiana
+2018,02/02,Illinois - Indiana Dual,133,L,DEC,7 - 2,Dylan Duncan,44647,Illinois,Garrett Pepple,39561,Indiana
+2018,01/28,Indiana - Nebraska Dual,133,W,FALL,1:56,Brian Peska,20103,Nebraska,Garrett Pepple,39561,Indiana
+2018,01/26,Indiana - Wisconsin Dual,133,L,DEC,3 - 0,Jens Lantz,20484,Wisconsin,Garrett Pepple,39561,Indiana
+2018,01/19,Michigan State - Indiana Dual,133,W,DEC,6 - 2,Matt Santos,44890,Michigan State,Garrett Pepple,39561,Indiana
+2018,01/05,Michigan - Indiana Dual,133,L,MD,14 - 1,Stevan Micic,20223,Michigan,Garrett Pepple,39561,Indiana
+2018,12/29,Midlands Invitational,133,L,DEC,4 - 1,Ben Thornton,20350,Purdue,Garrett Pepple,39561,Indiana
+2018,12/29,Midlands Invitational,133,L,TF5,18 - 3 7:00,Seth Gross,19949,South Dakota State,Garrett Pepple,39561,Indiana
+2018,12/29,Midlands Invitational,133,W,DEC,2 - 1,Drew Marten,49077,Central Michigan,Garrett Pepple,39561,Indiana
+2018,12/17,Indiana - Penn State Dual,133,L,MD,11 - 3,Corey Keener,12111,Penn State,Garrett Pepple,39561,Indiana
+2018,12/10,Indiana - Ohio State Dual,133,L,DEC,4 - 3,Luke Pletcher,44636,Ohio State,Garrett Pepple,39561,Indiana
+2018,12/02,Southern Illinois Edwardsville - Indiana Dual,133,W,TF5,17 - 0 3:55,Joe Antonelli,40200,SIU Edwardsville,Garrett Pepple,39561,Indiana
+2018,12/02,Cleveland State - Indiana Dual,133,W,FALL,3:39,Andrew Coghill,19800,Cleveland State,Garrett Pepple,39561,Indiana
+2018,12/02,Northern Illinois - Indiana Dual,133,L,DEC,3 - 0,Alijah Jeffery,20204,Northern Illinois,Garrett Pepple,39561,Indiana
+2018,11/26,Indianapolis - Indiana Dual,133,W,FALL,4:25,Nick Brady,52290,Indianapolis,Garrett Pepple,39561,Indiana
+2018,11/26,Eastern Michigan - Indiana Dual,133,W,DEC,2 - 1,Noah Gonser,40087,Eastern Michigan,Garrett Pepple,39561,Indiana
+2018,11/26,Binghamton - Indiana Dual,133,L,DEC,9 - 4,Jacob Nicholson,40186,Binghamton,Garrett Pepple,39561,Indiana
+2018,11/18,Navy Classic,133,L,MD,12 - 2,Cameron Kelly,39687,Ohio,Garrett Pepple,39561,Indiana
+2018,11/18,Navy Classic,133,W,DEC,10 - 3,Kegan Calkins,20291,Oregon State,Garrett Pepple,39561,Indiana
+2018,11/18,Navy Classic,133,W,SV-1,4 - 2,Anthony Tutolo,19968,Kent State,Garrett Pepple,39561,Indiana
+2018,11/18,Navy Classic,133,W,FALL,1:56,Chris Scorese,51031,Columbia,Garrett Pepple,39561,Indiana
+2018,11/18,Navy Classic,133,L,MD,10 - 1,Nathan Boston,19956,Campbell,Garrett Pepple,39561,Indiana
+2018,11/16,Indiana - Bloomsburg Dual,133,L,DEC,4 - 0,Andy Schutz,19678,Bloomsburg,Garrett Pepple,39561,Indiana
+2018,11/05,Clarion Open,133,L,DEC,3 - 2,DJ Fehlman,39898,Lock Haven,Garrett Pepple,39561,Indiana
+2018,11/05,Clarion Open,133,L,DEC,8 - 3,Dom Forys,20323,Pittsburgh,Garrett Pepple,39561,Indiana
+2018,11/05,Clarion Open,133,W,DEC,7 - 4,Roshaun Cooley,39552,Clarion,Garrett Pepple,39561,Indiana
+2018,11/05,Clarion Open,133,W,FALL,1:29,Kyle Greenwald,19785,Clarion,Garrett Pepple,39561,Indiana
+2018,01/20,Alma Open,133,W,MD,15 - 1,Santos Alvarez,55568,Heidelberg,Kyle Luigs,50007,Indiana
+2018,01/20,Alma Open,133,W,FALL,1:25,Jacob Kinney,55557,Olivet,Kyle Luigs,50007,Indiana
+2018,01/20,Alma Open,133,W,FALL,4:31,Marina Goocher,55316,Unattached,Kyle Luigs,50007,Indiana
+2018,01/20,Alma Open,133,L,DEC,10 - 8,Deven Perez,45274,Central Michigan,Kyle Luigs,50007,Indiana
+2018,01/14,Purple Raider Open,133,W,TF5,18 - 0 7:00,Colin Schuster,51178,Kent State,Kyle Luigs,50007,Indiana
+2018,01/14,Purple Raider Open,133,W,MD,11 - 2,Michael De La Peña,50427,Indiana,Kyle Luigs,50007,Indiana
+2018,01/14,Purple Raider Open,133,W,MFOR,0 - 0,Lawrance Dudgeon,41649,Ashland,Kyle Luigs,50007,Indiana
+2018,01/14,Purple Raider Open,133,W,FALL,4:13,Andrew Coghill,19800,Cleveland State,Kyle Luigs,50007,Indiana
+2018,01/14,Purple Raider Open,133,L,DEC,5 - 3,Drew Marten,49077,Central Michigan,Kyle Luigs,50007,Indiana
+2018,01/14,Purple Raider Open,133,W,FALL,2:43,Bjorn Schroeder,54593,Purdue,Kyle Luigs,50007,Indiana
+2018,12/16,Cleveland State Open,133,L,DEC,11 - 5,Arthur Payne,54084,Mott Community College,Kyle Luigs,50007,Indiana
+2018,12/16,Cleveland State Open,133,L,TF5,15 - 0 7:00,Drew Marten,49077,Central Michigan,Kyle Luigs,50007,Indiana
+2018,11/05,Michigan State Open,133,L,FALL,6:57,Clay Smith,51209,Michigan State,Kyle Luigs,50007,Indiana
+2018,11/05,Michigan State Open,133,W,DEC,8 - 2,Justin Wilcox,49385,Ashland,Kyle Luigs,50007,Indiana
+2018,11/05,Michigan State Open,133,L,MD,9 - 0,Drew Marten,49077,Central Michigan,Kyle Luigs,50007,Indiana
+2018,01/14,Purple Raider Open,149,L,DEC,11 - 4,Zach Blevins,45057,Toledo,Brandon James,39673,Indiana
+2018,01/14,Purple Raider Open,149,L,DEC,5 - 3,Lane Householder,54853,Kent State University - Tuscarawas,Brandon James,39673,Indiana
+2018,01/05,Michigan - Indiana Dual,157,L,TF5,21 - 6 4:49,Alec Pantaleo,20020,Michigan,Brandon James,39673,Indiana
+2018,11/05,Clarion Open,133,L,DEC,8 - 5,Durbin Lloren,44916,Utah Valley,Brandon James,39673,Indiana
+2018,11/05,Clarion Open,133,L,DEC,9 - 4,Jack Mueller,45232,Virginia,Brandon James,39673,Indiana
+2018,11/05,Clarion Open,133,W,FALL,1:03,Andrew Coghill,19800,Cleveland State,Brandon James,39673,Indiana
+2018,11/05,Clarion Open,133,W,FALL,1:29,Kyle Greenwald,19785,Clarion,Brandon James,39673,Indiana
+2018,01/28,Greyhound Open,133,W,MD,13 - 2,David Ramirez,55529,Indiana Tech,Michael De La Peña,50427,Indiana
+2018,01/28,Greyhound Open,133,L,DEC,9 - 2,Jacob Blaha,50963,SIU Edwardsville,Michael De La Peña,50427,Indiana
+2018,01/28,Greyhound Open,133,W,DEC,7 - 0,Cam Fender,47519,Indiana Tech,Michael De La Peña,50427,Indiana
+2018,01/28,Greyhound Open,133,L,FALL,6:22,Bjorn Schroeder,54593,Purdue,Michael De La Peña,50427,Indiana
+2018,01/28,Greyhound Open,133,W,DEC,8 - 3,Lucas Bernal,40201,SIU Edwardsville,Michael De La Peña,50427,Indiana
+2018,01/28,Greyhound Open,133,W,MD,13 - 0,Connor Allen,47548,Indianapolis,Michael De La Peña,50427,Indiana
+2018,01/20,Alma Open,133,W,TF5,18 - 3 7:00,Jacob Kinney,55557,Olivet,Michael De La Peña,50427,Indiana
+2018,01/20,Alma Open,133,L,FALL,7:00,Deven Perez,45274,Central Michigan,Michael De La Peña,50427,Indiana
+2018,01/20,Alma Open,133,W,TF5,18 - 2 7:00,Jacob Kinney,55557,Olivet,Michael De La Peña,50427,Indiana
+2018,01/20,Alma Open,133,W,DEC,3 - 1,Jacob Donahue,55315,Wheeling,Michael De La Peña,50427,Indiana
+2018,01/20,Alma Open,133,L,SV-1,12 - 10,Arthur Payne,54084,Mott Community College,Michael De La Peña,50427,Indiana
+2018,01/20,Alma Open,133,L,FALL,1:42,Deven Perez,45274,Central Michigan,Michael De La Peña,50427,Indiana
+2018,01/20,Alma Open,133,W,DEC,6 - 3,Chase Beecher,54780,Alma College,Michael De La Peña,50427,Indiana
+2018,01/14,Purple Raider Open,133,L,MD,11 - 2,Kyle Luigs,50007,Indiana,Michael De La Peña,50427,Indiana
+2018,01/14,Purple Raider Open,133,W,MD,14 - 3,Dakota McCloskey,53686,Mount Union,Michael De La Peña,50427,Indiana
+2018,01/14,Purple Raider Open,133,L,DEC,6 - 1,Lawrance Dudgeon,41649,Ashland,Michael De La Peña,50427,Indiana
+2018,01/14,Purple Raider Open,133,L,DEC,5 - 1,Lawrance Dudgeon,41649,Ashland,Michael De La Peña,50427,Indiana
+2018,01/14,Purple Raider Open,133,W,DEC,5 - 0,Raphael Rodriguez,51180,Kent State,Michael De La Peña,50427,Indiana
+2018,12/29,Midlands Invitational,133,L,DEC,8 - 4,Tristin DeVincenzo,39730,Pennsylvania,Michael De La Peña,50427,Indiana
+2018,12/29,Midlands Invitational,133,L,DEC,9 - 2,Phillip Laux,15040,Iowa,Michael De La Peña,50427,Indiana
+2018,11/11,Eastern Michigan Open,133,L,DEC,11 - 4,Drew Marten,49077,Central Michigan,Michael De La Peña,50427,Indiana
+2018,11/11,Eastern Michigan Open,133,W,DEC,6 - 3,Dylan Koontz,50854,Ohio State,Michael De La Peña,50427,Indiana
+2018,11/11,Eastern Michigan Open,133,W,DEC,11 - 5,Clay Smith,51209,Michigan State,Michael De La Peña,50427,Indiana
+2018,11/05,Michigan State Open,133,W,DEC,7 - 3,Matt Santos,44890,Michigan State,Michael De La Peña,50427,Indiana
+2018,11/05,Michigan State Open,133,W,DEC,5 - 2,Nathan Ellis,48561,Michigan State,Michael De La Peña,50427,Indiana
+2018,11/05,Michigan State Open,133,W,DEC,9 - 4,Clay Smith,51209,Michigan State,Michael De La Peña,50427,Indiana
+2018,11/05,Michigan State Open,133,W,DEC,5 - 2,Clay Vincent,45103,Oklahoma,Michael De La Peña,50427,Indiana
+2018,11/05,Michigan State Open,133,L,DEC,5 - 2,Matt Santos,44890,Michigan State,Michael De La Peña,50427,Indiana
+2018,11/05,Michigan State Open,133,W,DEC,8 - 1,Stephen Gordy,49932,Ashland,Michael De La Peña,50427,Indiana
+2018,03/15,NCAA Championships,141,L,MD,13 - 5,Nick Lee,49276,Penn State,Cole Weaver,20529,Indiana
+2018,03/15,NCAA Championships,141,W,DEC,6 - 2,Eli Stickley,39697,Wisconsin,Cole Weaver,20529,Indiana
+2018,03/15,NCAA Championships,141,W,DEC,7 - 6,Colton Schilling,12033,Cal Poly,Cole Weaver,20529,Indiana
+2018,03/15,NCAA Championships,141,L,DEC,4 - 3,Vincent Turk,39726,Iowa,Cole Weaver,20529,Indiana
+2018,03/03,Big Ten Championships,141,L,MD,13 - 3,Nick Lee,49276,Penn State,Cole Weaver,20529,Indiana
+2018,03/03,Big Ten Championships,141,W,DEC,5 - 0,Mike Van Brill,44613,Rutgers,Cole Weaver,20529,Indiana
+2018,03/03,Big Ten Championships,141,W,DEC,7 - 3,Salvatore Profaci,39825,Michigan,Cole Weaver,20529,Indiana
+2018,03/03,Big Ten Championships,141,L,DEC,3 - 2,Eli Stickley,39697,Wisconsin,Cole Weaver,20529,Indiana
+2018,03/03,Big Ten Championships,141,W,FALL,3:43,Alec McKenna,39584,Northwestern,Cole Weaver,20529,Indiana
+2018,02/11,Northwestern - Indiana Dual,141,W,DEC,7 - 0,Alec McKenna,39584,Northwestern,Cole Weaver,20529,Indiana
+2018,02/04,Purdue - Indiana Dual,141,L,DEC,4 - 2,Nate Limmex,39663,Purdue,Cole Weaver,20529,Indiana
+2018,02/02,Illinois - Indiana Dual,141,L,DEC,8 - 5,Mike Carr,44645,Illinois,Cole Weaver,20529,Indiana
+2018,01/28,Indiana - Nebraska Dual,141,W,TB-1,6 - 5,Chad Red,44683,Nebraska,Cole Weaver,20529,Indiana
+2018,01/26,Indiana - Wisconsin Dual,141,W,FALL,0:34,Eli Stickley,39697,Wisconsin,Cole Weaver,20529,Indiana
+2018,01/19,Michigan State - Indiana Dual,141,W,DEC,2 - 1,Javier Gasca,13435,Michigan State,Cole Weaver,20529,Indiana
+2018,01/05,Michigan - Indiana Dual,141,L,DEC,6 - 4,Salvatore Profaci,39825,Michigan,Cole Weaver,20529,Indiana
+2018,12/29,Midlands Invitational,141,W,DEC,6 - 3,Yahya Thomas,49245,Northwestern,Cole Weaver,20529,Indiana
+2018,12/29,Midlands Invitational,141,W,DEC,7 - 4,Ben Freeman,49177,Michigan,Cole Weaver,20529,Indiana
+2018,12/29,Midlands Invitational,141,W,DEC,8 - 3,Vincent Turk,39726,Iowa,Cole Weaver,20529,Indiana
+2018,12/29,Midlands Invitational,141,W,DEC,7 - 2,Nate Limmex,39663,Purdue,Cole Weaver,20529,Indiana
+2018,12/29,Midlands Invitational,141,W,DEC,3 - 0,Isaac Andrade,13269,South Dakota State,Cole Weaver,20529,Indiana
+2018,12/29,Midlands Invitational,141,L,DEC,6 - 0,Mason Smith,39789,Central Michigan,Cole Weaver,20529,Indiana
+2018,12/17,Indiana - Penn State Dual,141,L,DEC,6 - 5,Jered Cortez,19934,Penn State,Cole Weaver,20529,Indiana
+2018,12/10,Indiana - Ohio State Dual,141,L,DEC,8 - 2,Joseph McKenna,24215,Ohio State,Cole Weaver,20529,Indiana
+2018,12/02,Southern Illinois Edwardsville - Indiana Dual,141,W,FALL,4:12,John Muldoon,20384,SIU Edwardsville,Cole Weaver,20529,Indiana
+2018,12/02,Cleveland State - Indiana Dual,141,W,DEC,5 - 3,Evan Cheek,40190,Cleveland State,Cole Weaver,20529,Indiana
+2018,12/02,Northern Illinois - Indiana Dual,141,W,FALL,1:21,Anthony Rubino,45301,Northern Illinois,Cole Weaver,20529,Indiana
+2018,11/26,Indianapolis - Indiana Dual,141,W,FALL,4:49,Angelo Robles,24586,Indianapolis,Cole Weaver,20529,Indiana
+2018,11/26,Eastern Michigan - Indiana Dual,141,W,DEC,5 - 0,Sa'Derian Perry,40084,Eastern Michigan,Cole Weaver,20529,Indiana
+2018,11/26,Binghamton - Indiana Dual,141,W,DEC,6 - 1,Joe Russ,22848,Binghamton,Cole Weaver,20529,Indiana
+2018,11/18,Navy Classic,141,L,DEC,8 - 3,Nicholas Gil,40255,Navy,Cole Weaver,20529,Indiana
+2018,11/18,Navy Classic,141,W,TB-2,2 - 1,Jack Hathaway,15765,Oregon State,Cole Weaver,20529,Indiana
+2018,11/18,Navy Classic,141,W,FALL,4:50,Tyler Smith,22439,Bucknell,Cole Weaver,20529,Indiana
+2018,11/18,Navy Classic,141,W,DEC,8 - 1,Ben Bliss,39704,Bucknell,Cole Weaver,20529,Indiana
+2018,11/16,Indiana - Bloomsburg Dual,141,W,FALL,2:00,Braden Stahlnecker,51046,Bloomsburg,Cole Weaver,20529,Indiana
+2018,11/05,Clarion Open,141,W,DEC,5 - 3,Brian Courtney,49331,Virginia,Cole Weaver,20529,Indiana
+2018,11/05,Clarion Open,141,L,DEC,10 - 4,Brock Zacherl,19787,Clarion,Cole Weaver,20529,Indiana
+2018,11/05,Clarion Open,141,W,DEC,8 - 1,Ryan Peters,45240,Buffalo,Cole Weaver,20529,Indiana
+2018,11/05,Clarion Open,141,W,DEC,6 - 3,Nick Henneman,49160,Kent State,Cole Weaver,20529,Indiana
+2018,01/28,Greyhound Open,141,W,MD,18 - 7,Cashe Quiroga,55517,Unattached,Breyden Bailey,49237,Indiana
+2018,01/28,Greyhound Open,141,W,DEC,7 - 0,Matthew Miller,55236,Indiana Tech,Breyden Bailey,49237,Indiana
+2018,01/28,Greyhound Open,141,L,DEC,5 - 2,Mike Carr,44645,Illinois,Breyden Bailey,49237,Indiana
+2018,01/28,Greyhound Open,141,W,TF5,18 - 2 7:00,Nick Peglow,51765,Truman,Breyden Bailey,49237,Indiana
+2018,01/28,Greyhound Open,141,W,TF5,16 - 1 7:00,Nick Peglow,51765,Truman,Breyden Bailey,49237,Indiana
+2018,01/20,Alma Open,141,W,FALL,0:32,Martin Bustos,55556,Heidelberg,Breyden Bailey,49237,Indiana
+2018,01/20,Alma Open,141,W,FALL,2:09,Clay Smith,51209,Michigan State,Breyden Bailey,49237,Indiana
+2018,01/20,Alma Open,141,W,DEC,7 - 4,Jackson Renicker,45310,Michigan State,Breyden Bailey,49237,Indiana
+2018,01/20,Alma Open,141,L,DEC,7 - 4,Alex Hrisopoulos,45308,Michigan State,Breyden Bailey,49237,Indiana
+2018,01/20,Alma Open,141,W,DEC,4 - 2,Kole Krauss,45305,Michigan State,Breyden Bailey,49237,Indiana
+2018,11/19,Lindenwood Open,141,W,FALL,2:30,Kurt Kaiser,42420,Missouri Valley,Breyden Bailey,49237,Indiana
+2018,11/19,Lindenwood Open,141,W,DEC,2 - 1,Alema Favors,49955,Cumberland,Breyden Bailey,49237,Indiana
+2018,11/19,Lindenwood Open,141,W,MD,8 - 0,Bryce Sheffer,50964,SIU Edwardsville,Breyden Bailey,49237,Indiana
+2018,11/19,Lindenwood Open,141,W,DEC,9 - 2,Danny Murphy,39550,Iowa,Breyden Bailey,49237,Indiana
+2018,11/11,Eastern Michigan Open,141,W,DEC,9 - 2,Andrew Fairbanks,50040,Cleveland State,Breyden Bailey,49237,Indiana
+2018,11/11,Eastern Michigan Open,141,W,DEC,10 - 9,Jaden Enriquez,49186,Michigan State,Breyden Bailey,49237,Indiana
+2018,11/11,Eastern Michigan Open,141,L,FALL,6:56,Nick Henneman,49160,Kent State,Breyden Bailey,49237,Indiana
+2018,11/11,Eastern Michigan Open,141,W,MD,13 - 2,PJ Gohn,51063,Edinboro,Breyden Bailey,49237,Indiana
+2018,11/11,Eastern Michigan Open,141,W,TB-1,2 - 1,PJ Gohn,51063,Edinboro,Breyden Bailey,49237,Indiana
+2018,03/03,Big Ten Championships,149,L,FALL,1:37,Ryan Deakin,44716,Northwestern,A J Raya,51181,Indiana
+2018,03/03,Big Ten Championships,149,W,DEC,8 - 5,Austin Nash,39744,Purdue,A J Raya,51181,Indiana
+2018,03/03,Big Ten Championships,149,L,DEC,3 - 1,Austin Nash,39744,Purdue,A J Raya,51181,Indiana
+2018,03/03,Big Ten Championships,149,L,MD,8 - 0,Malik Amine,14753,Michigan,A J Raya,51181,Indiana
+2018,02/11,Northwestern - Indiana Dual,149,L,FALL,1:21,Ryan Deakin,44716,Northwestern,A J Raya,51181,Indiana
+2018,02/04,Purdue - Indiana Dual,149,L,DEC,6 - 4,Austin Nash,39744,Purdue,A J Raya,51181,Indiana
+2018,02/02,Illinois - Indiana Dual,149,L,FALL,6:32,Eric Barone,39566,Illinois,A J Raya,51181,Indiana
+2018,01/28,Indiana - Nebraska Dual,149,L,MD,15 - 3,Colton McCrystal,13191,Nebraska,A J Raya,51181,Indiana
+2018,01/26,Indiana - Wisconsin Dual,149,L,TF5,15 - 0 5:49,Cole Martin,39773,Wisconsin,A J Raya,51181,Indiana
+2018,01/20,Alma Open,149,L,DEC,8 - 3,Tyree Johnson,53193,Triton College,A J Raya,51181,Indiana
+2018,01/20,Alma Open,149,W,DEC,13 - 9,Dren Bratrum,52183,Muskegon Community College,A J Raya,51181,Indiana
+2018,01/20,Alma Open,149,W,DEC,10 - 4,Dren Bratrum,52183,Muskegon Community College,A J Raya,51181,Indiana
+2018,01/20,Alma Open,149,W,DEC,9 - 5,Tyler Hogue,48038,Wheeling,A J Raya,51181,Indiana
+2018,01/20,Alma Open,149,W,MD,14 - 5,Jeff Andrews,47465,Ohio Northern,A J Raya,51181,Indiana
+2018,01/14,Purple Raider Open,149,W,FALL,5:00,Austin Bailey,50493,Kent State University - Tuscarawas,A J Raya,51181,Indiana
+2018,01/14,Purple Raider Open,149,W,DEC,8 - 3,Dominic Means,51632,Pitt-Johnstown,A J Raya,51181,Indiana
+2018,01/14,Purple Raider Open,149,W,DEC,4 - 3,Luke Raczkowski,50921,Central Michigan,A J Raya,51181,Indiana
+2018,01/14,Purple Raider Open,149,L,DEC,3 - 0,Nolan Saxton,49081,Central Michigan,A J Raya,51181,Indiana
+2018,01/14,Purple Raider Open,149,L,DEC,7 - 0,JJ Diven,46558,Ashland,A J Raya,51181,Indiana
+2018,01/28,Greyhound Open,149,W,TF5,15 - 0 7:00,Tony Vasquez,47523,Indiana Tech,Davey Tunon,44908,Indiana
+2018,01/28,Greyhound Open,149,W,DEC,4 - 1,Koby Reyes,51397,Purdue,Davey Tunon,44908,Indiana
+2018,01/28,Greyhound Open,149,W,MD,13 - 2,Tyler Stegall,49444,Maryville University,Davey Tunon,44908,Indiana
+2018,01/28,Greyhound Open,149,W,MD,19 - 8,Elliott Molloy,47508,Indianapolis,Davey Tunon,44908,Indiana
+2018,01/28,Greyhound Open,149,W,TF5,19 - 3 7:00,Evan Smiley,42240,Indianapolis,Davey Tunon,44908,Indiana
+2018,01/19,Michigan State - Indiana Dual,149,L,MD,10 - 1,Jwan Britton,45307,Michigan State,Davey Tunon,44908,Indiana
+2018,01/05,Michigan - Indiana Dual,149,L,MD,10 - 2,Malik Amine,14753,Michigan,Davey Tunon,44908,Indiana
+2018,12/29,Midlands Invitational,149,W,MD,15 - 2,Patrick Spray,45008,Wisconsin,Davey Tunon,44908,Indiana
+2018,12/29,Midlands Invitational,149,L,FALL,3:52,Brandon Sorensen,13456,Iowa,Davey Tunon,44908,Indiana
+2018,12/29,Midlands Invitational,149,L,MD,14 - 4,Kyle Springer,37484,Eastern Michigan,Davey Tunon,44908,Indiana
+2018,12/17,Indiana - Penn State Dual,149,L,FALL,3:42,Zain Retherford,11781,Penn State,Davey Tunon,44908,Indiana
+2018,12/10,Indiana - Ohio State Dual,149,L,TF5,16 - 0 2:58,Ke-Shawn Hayes,39609,Ohio State,Davey Tunon,44908,Indiana
+2018,12/02,Southern Illinois Edwardsville - Indiana Dual,149,L,DEC,9 - 3,Tyshawn Williams,40203,SIU Edwardsville,Davey Tunon,44908,Indiana
+2018,12/02,Cleveland State - Indiana Dual,149,L,DEC,4 - 2,Ryan Ford,44594,Cleveland State,Davey Tunon,44908,Indiana
+2018,12/02,Northern Illinois - Indiana Dual,149,W,DEC,5 - 0,Zackary Velasquez,40394,Northern Illinois,Davey Tunon,44908,Indiana
+2018,11/26,Indianapolis - Indiana Dual,149,W,DEC,8 - 3,Kyle Barkovich,42244,Indianapolis,Davey Tunon,44908,Indiana
+2018,11/26,Eastern Michigan - Indiana Dual,149,W,DEC,9 - 8,Kyle Springer,37484,Eastern Michigan,Davey Tunon,44908,Indiana
+2018,11/26,Binghamton - Indiana Dual,149,L,SV-1,4 - 2,Frank Garcia,41394,Binghamton,Davey Tunon,44908,Indiana
+2018,11/18,Navy Classic,149,L,MD,11 - 1,Corey Wilding,20626,Navy,Davey Tunon,44908,Indiana
+2018,11/18,Navy Classic,149,W,DEC,8 - 1,John Kenyon,20609,Navy,Davey Tunon,44908,Indiana
+2018,11/18,Navy Classic,149,L,DEC,8 - 1,Matt Kolodzik,45071,Princeton,Davey Tunon,44908,Indiana
+2018,11/18,Navy Classic,149,W,FALL,4:24,Robert Duxbury,47797,Delaware Valley,Davey Tunon,44908,Indiana
+2018,11/18,Navy Classic,149,W,SV-1,6 - 4,Koby Reyes,51397,Purdue,Davey Tunon,44908,Indiana
+2018,11/16,Indiana - Bloomsburg Dual,149,W,DEC,4 - 1,Ryan Stocku,51049,Bloomsburg,Davey Tunon,44908,Indiana
+2018,11/05,Clarion Open,149,L,DEC,4 - 2,Jake Keating,50315,Virginia,Davey Tunon,44908,Indiana
+2018,11/05,Clarion Open,149,W,FALL,1:40,Grant Turnmire,39857,Cleveland State,Davey Tunon,44908,Indiana
+2018,11/05,Clarion Open,149,L,DEC,5 - 3,Taylor Ortz,40103,Clarion,Davey Tunon,44908,Indiana
+2018,11/05,Clarion Open,149,W,FALL,1:48,Mohamed Kaba,51048,Bloomsburg,Davey Tunon,44908,Indiana
+2018,01/28,Greyhound Open,149,W,DEC,7 - 3,Cameron Kelly,22455,SIU Edwardsville,Evan Eldred,44836,Indiana
+2018,01/28,Greyhound Open,149,L,DEC,8 - 1,Justin Atkinson,47498,Indiana Tech,Evan Eldred,44836,Indiana
+2018,01/28,Greyhound Open,149,L,DEC,5 - 3,Koby Reyes,51397,Purdue,Evan Eldred,44836,Indiana
+2018,01/28,Greyhound Open,149,W,DEC,6 - 0,Trace Manspeaker,53964,Indianapolis,Evan Eldred,44836,Indiana
+2018,01/28,Greyhound Open,149,L,MFOR,0 - 0,Elliott Molloy,47508,Indianapolis,Evan Eldred,44836,Indiana
+2018,03/03,Big Ten Championships,157,L,SV-1,9 - 7,Jacob Tucker,44639,Michigan State,Jake Danishek,20520,Indiana
+2018,03/03,Big Ten Championships,157,L,FALL,0:44,Griffin Parriott,44608,Purdue,Jake Danishek,20520,Indiana
+2018,03/03,Big Ten Championships,157,L,FALL,3:49,Michael Kemerer,39526,Iowa,Jake Danishek,20520,Indiana
+2018,02/11,Northwestern - Indiana Dual,157,L,DEC,9 - 2,Shayne Oster,44820,Northwestern,Jake Danishek,20520,Indiana
+2018,12/29,Midlands Invitational,157,W,DEC,6 - 4,Devin Bahr,49349,Wisconsin,Jake Danishek,20520,Indiana
+2018,12/29,Midlands Invitational,157,W,FALL,4:27,Hunter Willits,49272,Oregon State,Jake Danishek,20520,Indiana
+2018,12/29,Midlands Invitational,157,L,FALL,4:24,Michael Kemerer,39526,Iowa,Jake Danishek,20520,Indiana
+2018,12/29,Midlands Invitational,157,L,MD,8 - 0,John Van Brill,20367,Rutgers,Jake Danishek,20520,Indiana
+2018,12/17,Indiana - Penn State Dual,157,L,FALL,1:30,Jason Nolf,20303,Penn State,Jake Danishek,20520,Indiana
+2018,12/10,Indiana - Ohio State Dual,157,L,MD,14 - 4,Micah Jordan,20557,Ohio State,Jake Danishek,20520,Indiana
+2018,12/02,Southern Illinois Edwardsville - Indiana Dual,157,W,MD,17 - 8,Karsten Van Velsor,13807,SIU Edwardsville,Jake Danishek,20520,Indiana
+2018,12/02,Cleveland State - Indiana Dual,157,W,FALL,2:32,Ryan Montgomery,40191,Cleveland State,Jake Danishek,20520,Indiana
+2018,12/02,Northern Illinois - Indiana Dual,157,W,DEC,6 - 0,Caden McWhirter,40016,Northern Illinois,Jake Danishek,20520,Indiana
+2018,11/26,Indianapolis - Indiana Dual,157,W,FALL,2:06,Tony Vaughn,42441,Indianapolis,Jake Danishek,20520,Indiana
+2018,11/26,Eastern Michigan - Indiana Dual,157,W,FALL,5:44,JJ Wolfe,39766,Eastern Michigan,Jake Danishek,20520,Indiana
+2018,11/26,Binghamton - Indiana Dual,157,W,SV-1,11 - 9,Tristan Rifanburg,39674,Binghamton,Jake Danishek,20520,Indiana
+2018,02/04,Purdue - Indiana Dual,157,L,FALL,3:42,Griffin Parriott,44608,Purdue,Austin Holmes,44701,Indiana
+2018,02/02,Illinois - Indiana Dual,157,L,MD,17 - 5,Kyle Langenderfer,15698,Illinois,Austin Holmes,44701,Indiana
+2018,01/28,Indiana - Nebraska Dual,157,L,FALL,2:16,Tyler Berger,20096,Nebraska,Austin Holmes,44701,Indiana
+2018,01/26,Indiana - Wisconsin Dual,157,L,MD,14 - 2,Andrew Crone,13197,Wisconsin,Austin Holmes,44701,Indiana
+2018,01/19,Michigan State - Indiana Dual,157,L,TF5,17 - 0 3:45,Jacob Tucker,44639,Michigan State,Austin Holmes,44701,Indiana
+2018,01/14,Purple Raider Open,157,W,TF5,20 - 5 7:00,Quam Jackson,50180,Lake Erie College,Austin Holmes,44701,Indiana
+2018,01/14,Purple Raider Open,157,W,MD,9 - 1,Chase Archangelo,49104,Cleveland State,Austin Holmes,44701,Indiana
+2018,01/14,Purple Raider Open,157,W,DEC,5 - 0,John Dean,51670,Clarion,Austin Holmes,44701,Indiana
+2018,01/14,Purple Raider Open,157,W,TF5,16 - 1 3:00,Ameen Hamdan,51486,Michigan,Austin Holmes,44701,Indiana
+2018,01/14,Purple Raider Open,157,L,DEC,3 - 1,Layne van Anrooy,49182,Michigan,Austin Holmes,44701,Indiana
+2018,01/05,Michigan - Indiana Dual,165,L,DEC,10 - 4,Reece Hughes,49181,Michigan,Austin Holmes,44701,Indiana
+2018,12/29,Midlands Invitational,157,L,DEC,2 - 0,Spencer Nagy,40444,Edinboro,Austin Holmes,44701,Indiana
+2018,12/29,Midlands Invitational,157,W,MD,12 - 3,Blake Montrie,45047,Central Michigan,Austin Holmes,44701,Indiana
+2018,12/29,Midlands Invitational,157,L,FALL,2:40,Josh Shields,39511,Arizona State,Austin Holmes,44701,Indiana
+2018,11/18,Navy Classic,149,W,TF5,18 - 3 4:10,Justin Yorkdale,45347,George Mason,Austin Holmes,44701,Indiana
+2018,11/18,Navy Classic,149,L,DEC,10 - 7,Jacob Macalolooy,19813,Columbia,Austin Holmes,44701,Indiana
+2018,11/18,Navy Classic,149,L,DEC,9 - 4,Matt Lattanze,44759,Brown,Austin Holmes,44701,Indiana
+2018,11/16,Indiana - Bloomsburg Dual,157,L,FALL,2:18,Kevin Laubach,19674,Bloomsburg,Austin Holmes,44701,Indiana
+2018,11/05,Clarion Open,149,L,FALL,1:34,Bo Pipher,45075,Penn State,Austin Holmes,44701,Indiana
+2018,11/05,Clarion Open,149,W,FALL,1:23,Sean Agnello,51623,Pitt-Johnstown,Austin Holmes,44701,Indiana
+2018,11/05,Clarion Open,149,L,DEC,6 - 1,Christian Monserrat,20473,West Virginia,Austin Holmes,44701,Indiana
+2018,11/05,Clarion Open,149,W,FALL,2:39,Brandon Miller,51674,Penn State Behrend,Austin Holmes,44701,Indiana
+2018,11/05,Clarion Open,149,W,DEC,5 - 2,Chase Archangelo,49104,Cleveland State,Austin Holmes,44701,Indiana
+2018,01/28,Greyhound Open,157,W,DEC,4 - 2,Derek Gross,52187,Tiffin University,JD Greathouse,50075,Indiana
+2018,01/28,Greyhound Open,157,L,TF5,16 - 0 7:00,Tanner Sparks,51949,Maryville University,JD Greathouse,50075,Indiana
+2018,01/28,Greyhound Open,157,L,DEC,2 - 0,Tony Vaughn,42441,Indianapolis,JD Greathouse,50075,Indiana
+2018,01/14,Purple Raider Open,157,L,MD,16 - 4,Quam Jackson,50180,Lake Erie College,JD Greathouse,50075,Indiana
+2018,01/14,Purple Raider Open,157,L,FALL,4:46,Daniel Contraguerro,50394,Ohio,JD Greathouse,50075,Indiana
+2018,12/16,Cleveland State Open,157,L,FALL,1:33,Dillon Hoey,50239,Indiana,JD Greathouse,50075,Indiana
+2018,12/16,Cleveland State Open,157,W,MD,13 - 2,John Iacano,52926,University of Arizona,JD Greathouse,50075,Indiana
+2018,12/16,Cleveland State Open,157,L,TF5,17 - 2 7:00,Kyle Simaz,40378,Cornell,JD Greathouse,50075,Indiana
+2018,11/11,Eastern Michigan Open,157,L,MD,13 - 3,Mason Kauffman,49128,Eastern Michigan,JD Greathouse,50075,Indiana
+2018,11/11,Eastern Michigan Open,157,L,DEC,3 - 1,Elijah Davis,51421,Purdue,JD Greathouse,50075,Indiana
+2018,03/15,NCAA Championships,165,L,TF5,16 - 1 4:40,Chandler Rogers,20559,Oklahoma State,Bryce Martin,20524,Indiana
+2018,03/15,NCAA Championships,165,L,MD,9 - 1,Chance Marsteller,47805,Lock Haven,Bryce Martin,20524,Indiana
+2018,03/03,Big Ten Championships,165,W,DEC,4 - 1,Michael Sepke,51503,Northwestern,Bryce Martin,20524,Indiana
+2018,03/03,Big Ten Championships,165,W,DEC,12 - 6,Michael Sepke,51503,Northwestern,Bryce Martin,20524,Indiana
+2018,03/03,Big Ten Championships,165,L,DEC,8 - 2,Evan Wick,44730,Wisconsin,Bryce Martin,20524,Indiana
+2018,03/03,Big Ten Championships,165,L,MFOR,0 - 0,Te'Shan Campbell,40351,Ohio State,Bryce Martin,20524,Indiana
+2018,03/03,Big Ten Championships,165,W,MD,18 - 4,Jacob Morrissey,12818,Purdue,Bryce Martin,20524,Indiana
+2018,03/03,Big Ten Championships,165,L,DEC,5 - 2,Nick Wanzek,11511,Minnesota,Bryce Martin,20524,Indiana
+2018,02/11,Northwestern - Indiana Dual,165,W,DEC,11 - 7,Michael Sepke,51503,Northwestern,Bryce Martin,20524,Indiana
+2018,01/28,Greyhound Open,125,W,TF5,23 - 7 0:13,Matt Malavsky,50962,SIU Edwardsville,Bryce Martin,20524,Indiana
+2018,12/10,Indiana - Ohio State Dual,165,L,DEC,3 - 2,Cody Burcher,20243,Ohio State,Bryce Martin,20524,Indiana
+2018,12/02,Cleveland State - Indiana Dual,165,W,MD,9 - 1,John Vaughn,40905,Cleveland State,Bryce Martin,20524,Indiana
+2018,12/02,Northern Illinois - Indiana Dual,165,W,DEC,7 - 1,Andrew Scott,40213,Northern Illinois,Bryce Martin,20524,Indiana
+2018,11/26,Indianapolis - Indiana Dual,165,W,DEC,10 - 4,Jd Waters,47525,Indianapolis,Bryce Martin,20524,Indiana
+2018,11/26,Eastern Michigan - Indiana Dual,165,W,DEC,9 - 6,Zac Carson,39692,Eastern Michigan,Bryce Martin,20524,Indiana
+2018,11/26,Binghamton - Indiana Dual,165,L,DEC,9 - 4,Vincent DePrez,19651,Binghamton,Bryce Martin,20524,Indiana
+2018,11/18,Navy Classic,165,L,SV-1,3 - 1,Drew Daniels,20601,Navy,Bryce Martin,20524,Indiana
+2018,11/18,Navy Classic,165,W,DEC,6 - 3,Jonathan Schleifer,20340,Princeton,Bryce Martin,20524,Indiana
+2018,11/18,Navy Classic,165,W,DEC,4 - 2,Luke Drugac,44767,Old Dominion,Bryce Martin,20524,Indiana
+2018,11/18,Navy Classic,165,W,TF5,17 - 1 5:48,Kade Byland,45313,Kent State,Bryce Martin,20524,Indiana
+2018,11/18,Navy Classic,165,W,SV-1,3 - 1,Jonathan Viruet,39839,Brown,Bryce Martin,20524,Indiana
+2018,11/16,Indiana - Bloomsburg Dual,165,W,MD,13 - 4,Anthony Vetrano,45189,Bloomsburg,Bryce Martin,20524,Indiana
+2018,11/05,Clarion Open,165,L,DEC,10 - 5,Demetrius Romero,39948,Utah Valley,Bryce Martin,20524,Indiana
+2018,11/05,Clarion Open,165,L,DEC,7 - 6,John Vaughn,40905,Cleveland State,Bryce Martin,20524,Indiana
+2018,11/05,Clarion Open,165,W,DEC,5 - 3,Eric Fasnacht,44992,Buffalo,Bryce Martin,20524,Indiana
+2018,11/05,Clarion Open,165,W,MD,17 - 7,Kade Byland,45313,Kent State,Bryce Martin,20524,Indiana
+2018,02/04,Purdue - Indiana Dual,165,L,MD,13 - 2,Jacob Morrissey,12818,Purdue,Dillon Hoey,50239,Indiana
+2018,02/02,Illinois - Indiana Dual,165,L,TF5,21 - 5 4:20,Isaiah Martinez,13466,Illinois,Dillon Hoey,50239,Indiana
+2018,01/28,Indiana - Nebraska Dual,165,L,FALL,0:40,Isaiah White,47106,Nebraska,Dillon Hoey,50239,Indiana
+2018,01/26,Indiana - Wisconsin Dual,165,L,TF5,23 - 8 6:42,Evan Wick,44730,Wisconsin,Dillon Hoey,50239,Indiana
+2018,01/19,Michigan State - Indiana Dual,165,L,DEC,5 - 0,Austin Hiles,44866,Michigan State,Dillon Hoey,50239,Indiana
+2018,01/14,Purple Raider Open,157,L,DEC,6 - 0,Nick Boggs,41645,Lake Erie College,Dillon Hoey,50239,Indiana
+2018,01/14,Purple Raider Open,157,L,MD,14 - 4,Blake Montrie,45047,Central Michigan,Dillon Hoey,50239,Indiana
+2018,12/29,Midlands Invitational,157,L,MD,11 - 0,Jon Errico,45265,Pennsylvania,Dillon Hoey,50239,Indiana
+2018,12/29,Midlands Invitational,157,L,DEC,9 - 3,Joe Velliquette,20320,Pennsylvania,Dillon Hoey,50239,Indiana
+2018,12/16,Cleveland State Open,157,L,FALL,1:05,Tanner Cook,51408,Spartan Combat RTC,Dillon Hoey,50239,Indiana
+2018,12/16,Cleveland State Open,157,W,FALL,1:33,JD Greathouse,50075,Indiana,Dillon Hoey,50239,Indiana
+2018,12/16,Cleveland State Open,157,L,DEC,4 - 3,Mason Kauffman,49128,Eastern Michigan,Dillon Hoey,50239,Indiana
+2018,12/16,Cleveland State Open,157,W,DEC,6 - 2,Luke Sorboro,49343,West Virginia,Dillon Hoey,50239,Indiana
+2018,12/16,Cleveland State Open,157,W,FALL,3:43,Dakota Smith,54085,University of Arizona,Dillon Hoey,50239,Indiana
+2018,11/11,Eastern Michigan Open,157,L,FALL,1:08,Brady Barnett,50220,Cleveland State,Dillon Hoey,50239,Indiana
+2018,11/11,Eastern Michigan Open,157,W,FALL,0:56,Elijah Davis,51421,Purdue,Dillon Hoey,50239,Indiana
+2018,11/11,Eastern Michigan Open,157,W,DEC,3 - 2,Ameen Hamdan,51486,Michigan,Dillon Hoey,50239,Indiana
+2018,11/05,Michigan State Open,157,W,TF5,15 - 0 5:47,Quam Jackson,50180,Lake Erie College,Dillon Hoey,50239,Indiana
+2018,11/05,Michigan State Open,157,W,DEC,5 - 2,Ameen Hamdan,51486,Michigan,Dillon Hoey,50239,Indiana
+2018,11/05,Michigan State Open,157,W,TF5,15 - 0 7:00,Quam Jackson,50180,Lake Erie College,Dillon Hoey,50239,Indiana
+2018,11/05,Michigan State Open,157,W,DEC,9 - 3,Cameron Jenkins,51483,Ashland,Dillon Hoey,50239,Indiana
+2018,11/05,Michigan State Open,157,L,DEC,6 - 3,James Wimer,46493,Findlay,Dillon Hoey,50239,Indiana
+2018,11/05,Michigan State Open,157,L,TF5,16 - 0 7:00,Johnny Mologousis,49144,Illinois,Dillon Hoey,50239,Indiana
+2018,01/28,Greyhound Open,165,W,DEC,7 - 2,Mathew Burns,50275,Marian University,Logan Herrera,51184,Indiana
+2018,01/28,Greyhound Open,165,L,FALL,1:45,Hunter Gasper,51892,Indiana Tech,Logan Herrera,51184,Indiana
+2018,01/28,Greyhound Open,165,L,MD,14 - 6,Jacob Gross,49868,Indiana Tech,Logan Herrera,51184,Indiana
+2018,01/14,Purple Raider Open,165,L,DEC,3 - 0,Taylor Workman,43128,Toledo,Logan Herrera,51184,Indiana
+2018,01/14,Purple Raider Open,165,L,DEC,7 - 2,Kameron Bush,49080,Central Michigan,Logan Herrera,51184,Indiana
+2018,11/05,Michigan State Open,165,L,TF5,15 - 0 4:02,Joe Koontz,51470,Lake Erie College,Logan Herrera,51184,Indiana
+2018,11/05,Michigan State Open,165,L,MD,13 - 4,Zachary Bierfeldt,46393,Tiffin University,Logan Herrera,51184,Indiana
+2018,03/15,NCAA Championships,174,L,MD,13 - 5,Ty Schoffstall,15353,Edinboro,Devin Skatzka,39603,Indiana
+2018,03/15,NCAA Championships,174,L,DEC,8 - 4,Keaton Subjeck,14567,Stanford,Devin Skatzka,39603,Indiana
+2018,03/03,Big Ten Championships,174,L,TB-1,5 - 4,Joey Gunther,39725,Iowa,Devin Skatzka,39603,Indiana
+2018,03/03,Big Ten Championships,174,L,DEC,9 - 5,Myles Amine,39586,Michigan,Devin Skatzka,39603,Indiana
+2018,03/03,Big Ten Championships,174,L,DEC,10 - 7,Ryan Christensen,20481,Wisconsin,Devin Skatzka,39603,Indiana
+2018,03/03,Big Ten Championships,174,W,MD,12 - 2,David Riojas,50222,Illinois,Devin Skatzka,39603,Indiana
+2018,02/11,Northwestern - Indiana Dual,174,W,FALL,0:25,Braxton Cody,40139,Northwestern,Devin Skatzka,39603,Indiana
+2018,02/04,Purdue - Indiana Dual,174,L,DEC,8 - 5,Dylan Lydy,39998,Purdue,Devin Skatzka,39603,Indiana
+2018,02/02,Illinois - Indiana Dual,174,W,DEC,10 - 5,David Riojas,50222,Illinois,Devin Skatzka,39603,Indiana
+2018,01/28,Indiana - Nebraska Dual,174,W,DEC,8 - 3,Beau Breske,44757,Nebraska,Devin Skatzka,39603,Indiana
+2018,01/26,Indiana - Wisconsin Dual,174,W,MD,9 - 1,Ryan Christensen,20481,Wisconsin,Devin Skatzka,39603,Indiana
+2018,01/19,Michigan State - Indiana Dual,174,W,DEC,4 - 1,Gary Ritchie,40448,Michigan State,Devin Skatzka,39603,Indiana
+2018,01/05,Michigan - Indiana Dual,174,L,DEC,4 - 3,Myles Amine,39586,Michigan,Devin Skatzka,39603,Indiana
+2018,12/29,Midlands Invitational,174,W,TF5,15 - 0 7:00,Khamari Whimper,49284,Pennsylvania,Devin Skatzka,39603,Indiana
+2018,12/29,Midlands Invitational,174,W,MD,12 - 4,Devin Kane,44607,North Carolina,Devin Skatzka,39603,Indiana
+2018,12/29,Midlands Invitational,174,L,SV-1,4 - 2,Dylan Lydy,39998,Purdue,Devin Skatzka,39603,Indiana
+2018,12/29,Midlands Invitational,174,L,MD,14 - 5,Johnny Sebastian,20224,Northwestern,Devin Skatzka,39603,Indiana
+2018,12/29,Midlands Invitational,174,W,DEC,9 - 5,Josef Johnson,19914,Harvard,Devin Skatzka,39603,Indiana
+2018,12/29,Midlands Invitational,174,L,DEC,7 - 0,Christian Brucki,20980,Central Michigan,Devin Skatzka,39603,Indiana
+2018,12/29,Midlands Invitational,174,W,DEC,9 - 4,Josh Ugalde,39515,Maryland,Devin Skatzka,39603,Indiana
+2018,12/17,Indiana - Penn State Dual,174,L,TF5,17 - 0 4:56,Mark Hall,44839,Penn State,Devin Skatzka,39603,Indiana
+2018,12/10,Indiana - Ohio State Dual,174,W,DEC,9 - 5,Fritz Schierl,44840,Ohio State,Devin Skatzka,39603,Indiana
+2018,12/02,Cleveland State - Indiana Dual,174,W,FALL,3:32,Gabe Stark,16682,Cleveland State,Devin Skatzka,39603,Indiana
+2018,12/02,Northern Illinois - Indiana Dual,174,W,FALL,0:47,Quinton Rosser,20206,Northern Illinois,Devin Skatzka,39603,Indiana
+2018,11/18,Navy Classic,174,L,DEC,5 - 3,Jadaen Bernstein,20595,Navy,Devin Skatzka,39603,Indiana
+2018,11/18,Navy Classic,174,W,TF5,21 - 3 2:47,AJ Alford,45382,Navy,Devin Skatzka,39603,Indiana
+2018,11/18,Navy Classic,174,W,FALL,2:14,Tyrel White,19820,Columbia,Devin Skatzka,39603,Indiana
+2018,11/18,Navy Classic,174,W,FALL,1:04,Kyle Inlander,44835,Bucknell,Devin Skatzka,39603,Indiana
+2018,11/18,Navy Classic,174,W,DEC,9 - 4,Andrew Morgan,40250,Campbell,Devin Skatzka,39603,Indiana
+2018,11/16,Indiana - Bloomsburg Dual,174,W,DEC,10 - 6,Kyle Murphy,44915,Bloomsburg,Devin Skatzka,39603,Indiana
+2018,11/05,Clarion Open,174,L,DEC,8 - 5,Will Schany,20435,Virginia,Devin Skatzka,39603,Indiana
+2018,11/05,Clarion Open,174,W,TF5,18 - 3 7:00,Jared Siegrist,45101,Lock Haven,Devin Skatzka,39603,Indiana
+2018,11/05,Clarion Open,174,W,FALL,3:25,Austin Weigel,15015,Buffalo,Devin Skatzka,39603,Indiana
+2018,11/05,Clarion Open,174,W,FALL,3:41,Dylan Barreiro,44632,Kent State,Devin Skatzka,39603,Indiana
+2018,12/29,Midlands Invitational,174,L,DEC,10 - 3,Jacob Covaciu,44805,Wisconsin,Gabe Koontz,39694,Indiana
+2018,12/29,Midlands Invitational,174,L,TF5,20 - 1 7:00,Christian Brucki,20980,Central Michigan,Gabe Koontz,39694,Indiana
+2018,11/26,Indianapolis - Indiana Dual,174,W,SV-1,6 - 4,Luke Kriech,46773,Indianapolis,Gabe Koontz,39694,Indiana
+2018,11/26,Eastern Michigan - Indiana Dual,174,L,DEC,5 - 4,Andrew McNally,44610,Eastern Michigan,Gabe Koontz,39694,Indiana
+2018,11/26,Binghamton - Indiana Dual,174,L,FALL,2:42,Anthony Lombardo,19656,Binghamton,Gabe Koontz,39694,Indiana
+2018,11/18,Navy Classic,174,L,MD,13 - 3,Dylan Lydy,39998,Purdue,Gabe Koontz,39694,Indiana
+2018,11/18,Navy Classic,174,W,TF5,15 - 0 5:35,Brandon Rudy,46502,Delaware Valley,Gabe Koontz,39694,Indiana
+2018,11/18,Navy Classic,174,L,DEC,10 - 6,Dylan Barreiro,44632,Kent State,Gabe Koontz,39694,Indiana
+2018,11/18,Navy Classic,174,W,DEC,5 - 3,Frankie Guida,50819,Bucknell,Gabe Koontz,39694,Indiana
+2018,11/18,Navy Classic,174,W,MD,11 - 1,Conner Allshouse,44877,American,Gabe Koontz,39694,Indiana
+2018,11/05,Clarion Open,174,L,MD,13 - 1,Parker Von Egidy,12308,West Virginia,Gabe Koontz,39694,Indiana
+2018,11/05,Clarion Open,174,L,TF5,17 - 2 7:00,Jacob Oliver,49130,Edinboro,Gabe Koontz,39694,Indiana
+2018,11/05,Clarion Open,174,W,MD,8 - 0,Michael Porreca,51053,Bloomsburg,Gabe Koontz,39694,Indiana
+2018,03/03,Big Ten Championships,184,L,MD,8 - 0,Taylor Venz,44854,Nebraska,Norman Conley,39929,Indiana
+2018,03/03,Big Ten Championships,184,W,DEC,8 - 4,Shwan Shadaia,20759,Michigan State,Norman Conley,39929,Indiana
+2018,03/03,Big Ten Championships,184,L,DEC,3 - 0,Nicholas Gravina,20360,Rutgers,Norman Conley,39929,Indiana
+2018,03/03,Big Ten Championships,184,L,DEC,6 - 0,Mitch Sliga,12522,Northwestern,Norman Conley,39929,Indiana
+2018,02/11,Northwestern - Indiana Dual,184,L,DEC,5 - 2,Mitch Sliga,12522,Northwestern,Norman Conley,39929,Indiana
+2018,02/04,Purdue - Indiana Dual,184,W,DEC,5 - 4,Max Lyon,49303,Purdue,Norman Conley,39929,Indiana
+2018,01/28,Indiana - Nebraska Dual,184,L,MD,12 - 2,Taylor Venz,44854,Nebraska,Norman Conley,39929,Indiana
+2018,01/26,Indiana - Wisconsin Dual,184,L,MD,8 - 0,Ricky Robertson,14042,Wisconsin,Norman Conley,39929,Indiana
+2018,01/19,Michigan State - Indiana Dual,184,W,DEC,3 - 2,Shwan Shadaia,20759,Michigan State,Norman Conley,39929,Indiana
+2018,01/05,Michigan - Indiana Dual,184,L,MD,16 - 2,Domenic Abounader,12523,Michigan,Norman Conley,39929,Indiana
+2018,12/29,Midlands Invitational,184,L,DEC,4 - 2,Martin Mueller,40281,South Dakota State,Norman Conley,39929,Indiana
+2018,12/29,Midlands Invitational,184,L,DEC,4 - 0,Mitch Sliga,12522,Northwestern,Norman Conley,39929,Indiana
+2018,12/17,Indiana - Penn State Dual,184,L,FALL,0:42,Bo Nickal,20302,Penn State,Norman Conley,39929,Indiana
+2018,12/10,Indiana - Ohio State Dual,184,L,MD,16 - 5,Myles Martin,39622,Ohio State,Norman Conley,39929,Indiana
+2018,12/02,Southern Illinois Edwardsville - Indiana Dual,184,W,DEC,8 - 4,Bryce Shewan,45295,SIU Edwardsville,Norman Conley,39929,Indiana
+2018,12/02,Cleveland State - Indiana Dual,184,W,DEC,5 - 3,Chris Morrow,45336,Cleveland State,Norman Conley,39929,Indiana
+2018,12/02,Northern Illinois - Indiana Dual,184,W,DEC,5 - 2,Bryce Gorman,20203,Northern Illinois,Norman Conley,39929,Indiana
+2018,11/26,Indianapolis - Indiana Dual,184,W,DEC,3 - 2,Brody Conner,42198,Indianapolis,Norman Conley,39929,Indiana
+2018,11/26,Eastern Michigan - Indiana Dual,197,L,DEC,6 - 2,Derek Hillman,19872,Eastern Michigan,Norman Conley,39929,Indiana
+2018,11/26,Binghamton - Indiana Dual,184,L,DEC,4 - 1,Steve Schneider,19660,Binghamton,Norman Conley,39929,Indiana
+2018,11/18,Navy Classic,184,W,SV-1,3 - 2,Alex Benoit,41416,Navy,Norman Conley,39929,Indiana
+2018,11/18,Navy Classic,184,L,DEC,6 - 0,Michael Coleman,20598,Navy,Norman Conley,39929,Indiana
+2018,11/18,Navy Classic,184,W,DEC,10 - 6,Shane Mast,39974,Kent State,Norman Conley,39929,Indiana
+2018,11/18,Navy Classic,184,L,DEC,10 - 3,AJ Pedro,49056,Brown,Norman Conley,39929,Indiana
+2018,11/18,Navy Classic,184,W,DEC,9 - 4,Nino Bastianelli,50818,Brown,Norman Conley,39929,Indiana
+2018,11/16,Indiana - Bloomsburg Dual,184,L,DEC,6 - 5,Trevor Allard,40040,Bloomsburg,Norman Conley,39929,Indiana
+2018,11/05,Clarion Open,184,W,MD,12 - 4,Spencer Irick,45355,Indiana,Norman Conley,39929,Indiana
+2018,11/05,Clarion Open,184,L,DEC,10 - 4,Nino Bonaccorsi,49285,Pittsburgh,Norman Conley,39929,Indiana
+2018,11/05,Clarion Open,184,W,FALL,2:46,Jack Walsh,44951,Virginia,Norman Conley,39929,Indiana
+2018,11/05,Clarion Open,184,W,MD,10 - 2,Tyler Koreski,47472,Ohio Valley University,Norman Conley,39929,Indiana
+2018,11/05,Clarion Open,184,L,SV-1,4 - 2,Tyler Bagoly,49098,Clarion,Norman Conley,39929,Indiana
+2018,01/05,Michigan - Indiana Dual,197,L,FALL,0:32,Kevin Beazley,12757,Michigan,Spencer Irick,45355,Indiana
+2018,12/29,Midlands Invitational,184,L,TF5,26 - 10 7:00,Nate Jackson,12264,Princeton Wrestling Club,Spencer Irick,45355,Indiana
+2018,12/29,Midlands Invitational,184,L,MD,9 - 0,Greg Bulsak,44655,Clarion,Spencer Irick,45355,Indiana
+2018,12/17,Indiana - Penn State Dual,197,L,MD,16 - 5,Anthony Cassar,20299,Penn State,Spencer Irick,45355,Indiana
+2018,12/10,Indiana - Ohio State Dual,197,L,MD,14 - 5,Kollin Moore,39638,Ohio State,Spencer Irick,45355,Indiana
+2018,11/18,Navy Classic,184,L,DEC,8 - 4,Andrew Psomas,12410,Columbia,Spencer Irick,45355,Indiana
+2018,11/18,Navy Classic,184,L,DEC,3 - 2,Abraham Correa-Medina,45350,American,Spencer Irick,45355,Indiana
+2018,11/05,Clarion Open,184,L,MD,12 - 4,Norman Conley,39929,Indiana,Spencer Irick,45355,Indiana
+2018,11/05,Clarion Open,184,W,DEC,7 - 6,Brenden McRill,49346,West Virginia,Spencer Irick,45355,Indiana
+2018,11/05,Clarion Open,184,W,DEC,5 - 2,Emorson Wentz,51676,Pitt-Johnstown,Spencer Irick,45355,Indiana
+2018,11/05,Clarion Open,184,L,DEC,8 - 2,Tyler Bagoly,49098,Clarion,Spencer Irick,45355,Indiana
+2018,03/03,Big Ten Championships,197,L,MD,18 - 4,Eric Schultz,44853,Nebraska,Jake Kleimola,44956,Indiana
+2018,03/03,Big Ten Championships,197,L,DEC,8 - 4,Shakur Rasheed,20305,Penn State,Jake Kleimola,44956,Indiana
+2018,02/11,Northwestern - Indiana Dual,197,L,DEC,6 - 1,Zack Chakonis,39740,Northwestern,Jake Kleimola,44956,Indiana
+2018,02/04,Purdue - Indiana Dual,197,L,TF5,17 - 2 5:54,Christian Brunner,44744,Purdue,Jake Kleimola,44956,Indiana
+2018,02/02,Illinois - Indiana Dual,197,L,DEC,4 - 2,Andre Lee,19938,Illinois,Jake Kleimola,44956,Indiana
+2018,01/28,Indiana - Nebraska Dual,197,L,DEC,6 - 4,Eric Schultz,44853,Nebraska,Jake Kleimola,44956,Indiana
+2018,01/26,Indiana - Wisconsin Dual,197,L,DEC,6 - 5,Hunter Ritter,39783,Wisconsin,Jake Kleimola,44956,Indiana
+2018,01/19,Michigan State - Indiana Dual,197,L,DEC,3 - 2,Nick May,44742,Michigan State,Jake Kleimola,44956,Indiana
+2018,01/14,Purple Raider Open,197,L,DEC,6 - 4,James Ritchie,54512,Baldwin Wallace,Jake Kleimola,44956,Indiana
+2018,01/14,Purple Raider Open,197,L,DEC,4 - 3,Tyler Koreski,47472,Ohio Valley University,Jake Kleimola,44956,Indiana
+2018,11/18,Navy Classic,197,L,TF5,18 - 2 4:01,John D'Agostino,23884,Old Dominion,Jake Kleimola,44956,Indiana
+2018,11/18,Navy Classic,197,L,MD,15 - 5,Patrick Brucki,49296,Princeton,Jake Kleimola,44956,Indiana
+2018,11/16,Indiana - Bloomsburg Dual,197,L,DEC,3 - 1,Logan Womelsdorf,51054,Bloomsburg,Jake Kleimola,44956,Indiana
+2018,12/02,Southern Illinois Edwardsville - Indiana Dual,197,L,DEC,9 - 7,Christian DuLaney,20211,SIU Edwardsville,Jakob Hinz,40067,Indiana
+2018,12/02,Cleveland State - Indiana Dual,197,L,MD,17 - 4,John Kelbly,50329,Cleveland State,Jakob Hinz,40067,Indiana
+2018,12/02,Northern Illinois - Indiana Dual,197,W,DEC,5 - 3,Max Ihry,44857,Northern Illinois,Jakob Hinz,40067,Indiana
+2018,11/26,Indianapolis - Indiana Dual,197,L,MD,12 - 3,Brian Wagner,42200,Indianapolis,Jakob Hinz,40067,Indiana
+2018,11/26,Eastern Michigan - Indiana Dual,184,W,DEC,10 - 7,Kayne MacCallum,19874,Eastern Michigan,Jakob Hinz,40067,Indiana
+2018,11/26,Binghamton - Indiana Dual,197,L,DEC,8 - 3,Mark Tracy,19662,Binghamton,Jakob Hinz,40067,Indiana
+2018,11/18,Navy Classic,184,L,MD,14 - 4,Seth McLeod,39832,Oregon State,Jakob Hinz,40067,Indiana
+2018,11/18,Navy Classic,184,W,DEC,5 - 3,Antonio Agee,44635,Old Dominion,Jakob Hinz,40067,Indiana
+2018,11/18,Navy Classic,184,W,DEC,3 - 2,Colin McCracken,50064,Kent State,Jakob Hinz,40067,Indiana
+2018,11/18,Navy Classic,184,W,DEC,5 - 2,Seth McLeod,39832,Oregon State,Jakob Hinz,40067,Indiana
+2018,11/18,Navy Classic,184,L,DEC,8 - 4,Christian LaFragola,40032,Brown,Jakob Hinz,40067,Indiana
+2018,11/05,Clarion Open,184,W,TF5,17 - 2 3:26,Brodie Englert,45958,Pitt-Johnstown,Jakob Hinz,40067,Indiana
+2018,11/05,Clarion Open,184,L,DEC,7 - 4,Gary Jantzer,44879,Utah Valley,Jakob Hinz,40067,Indiana
+2018,11/05,Clarion Open,184,W,FALL,1:32,Jacob Adams,51059,Cleveland State,Jakob Hinz,40067,Indiana
+2018,11/05,Clarion Open,184,L,DEC,8 - 7,Colin McCracken,50064,Kent State,Jakob Hinz,40067,Indiana
+2018,01/28,Greyhound Open,285,L,DEC,7 - 4,Zachary Horwitz,41573,Indiana,Mike Maguire,51185,Indiana
+2018,01/28,Greyhound Open,285,W,FALL,6:30,Dylan Cain,55526,Indiana Tech,Mike Maguire,51185,Indiana
+2018,01/28,Greyhound Open,285,L,FALL,3:25,Isiah Bollenbacher,41660,Indiana Tech,Mike Maguire,51185,Indiana
+2018,01/28,Greyhound Open,285,W,MFOR,0 - 0,Austin Winegarner,52929,Tiffin University,Mike Maguire,51185,Indiana
+2018,01/28,Greyhound Open,285,W,FALL,2:32,David Henson,46560,Tiffin University,Mike Maguire,51185,Indiana
+2018,01/20,Alma Open,197,L,DEC,8 - 7,John Penfold,48051,Lake Erie College,Mike Maguire,51185,Indiana
+2018,01/20,Alma Open,197,L,FALL,4:21,Baker Hadwan,44066,Muskegon Community College,Mike Maguire,51185,Indiana
+2018,01/14,Purple Raider Open,197,L,DEC,9 - 7,James Ritchie,54512,Baldwin Wallace,Mike Maguire,51185,Indiana
+2018,01/14,Purple Raider Open,197,L,FALL,1:06,Brad Wilton,49187,Michigan State,Mike Maguire,51185,Indiana
+2018,11/11,Eastern Michigan Open,197,W,DEC,7 - 6,Dylan Powers,51726,Eastern Michigan,Mike Maguire,51185,Indiana
+2018,11/11,Eastern Michigan Open,197,L,FALL,2:08,David Eli,50318,Purdue,Mike Maguire,51185,Indiana
+2018,11/11,Eastern Michigan Open,197,L,FALL,4:12,JT Correll,45659,Michigan,Mike Maguire,51185,Indiana
+2018,11/05,Michigan State Open,197,L,DEC,8 - 6,Logan Hall,50331,Notre Dame,Mike Maguire,51185,Indiana
+2018,11/05,Michigan State Open,197,L,FALL,1:40,Andrew Davison,49178,Michigan,Mike Maguire,51185,Indiana
+2018,03/03,Big Ten Championships,285,L,DEC,7 - 2,Rylee Streifel,39721,Minnesota,Fletcher Miller,20525,Indiana
+2018,03/03,Big Ten Championships,285,L,TF5,24 - 9 7:00,Kyle Snyder,20253,Ohio State,Fletcher Miller,20525,Indiana
+2018,02/11,Northwestern - Indiana Dual,285,L,DEC,4 - 2,Conan Jennings,20222,Northwestern,Fletcher Miller,20525,Indiana
+2018,02/04,Purdue - Indiana Dual,285,L,DEC,6 - 2,Jacob Aven,20343,Purdue,Fletcher Miller,20525,Indiana
+2018,02/02,Illinois - Indiana Dual,285,L,DEC,3 - 2,Deuce Rachal,19940,Illinois,Fletcher Miller,20525,Indiana
+2018,01/28,Indiana - Nebraska Dual,285,W,DEC,5 - 2,Patrick Grayson,39580,Nebraska,Fletcher Miller,20525,Indiana
+2018,01/26,Indiana - Wisconsin Dual,285,W,DEC,3 - 1,Ben Stone,40146,Wisconsin,Fletcher Miller,20525,Indiana
+2018,01/19,Michigan State - Indiana Dual,285,L,DEC,5 - 3,Christian Rebottaro,44850,Michigan State,Fletcher Miller,20525,Indiana
+2018,01/14,Purple Raider Open,285,L,SV-1,9 - 7,Chase Singletary,49253,Ohio State,Fletcher Miller,20525,Indiana
+2018,01/14,Purple Raider Open,285,W,DEC,7 - 3,Chase Beard,51214,Michigan State,Fletcher Miller,20525,Indiana
+2018,01/14,Purple Raider Open,285,W,DEC,8 - 4,Kevin Snyder,44847,Ohio State,Fletcher Miller,20525,Indiana
+2018,01/14,Purple Raider Open,285,W,FALL,4:02,Stephen Suglio,13094,Kent State,Fletcher Miller,20525,Indiana
+2018,01/05,Michigan - Indiana Dual,285,L,TF5,22 - 6 7:00,Adam Coon,14123,Michigan,Fletcher Miller,20525,Indiana
+2018,12/17,Indiana - Penn State Dual,285,L,MD,11 - 3,Nick Nevills,20301,Penn State,Fletcher Miller,20525,Indiana
+2018,12/10,Indiana - Ohio State Dual,285,W,DEC,3 - 1,Kevin Snyder,44847,Ohio State,Fletcher Miller,20525,Indiana
+2018,12/02,Southern Illinois Edwardsville - Indiana Dual,285,W,FALL,2:36,Tommy Helton,45298,SIU Edwardsville,Fletcher Miller,20525,Indiana
+2018,12/02,Cleveland State - Indiana Dual,285,W,MD,9 - 1,Collin Kelly,45338,Cleveland State,Fletcher Miller,20525,Indiana
+2018,12/02,Northern Illinois - Indiana Dual,285,L,DEC,12 - 6,Caleb Gossett,40013,Northern Illinois,Fletcher Miller,20525,Indiana
+2018,11/18,Navy Classic,285,W,DEC,6 - 2,Ali Wahab,44627,Old Dominion,Fletcher Miller,20525,Indiana
+2018,11/18,Navy Classic,285,L,FALL,6:41,Matthew Voss,19908,George Mason,Fletcher Miller,20525,Indiana
+2018,11/18,Navy Classic,285,L,MFOR,0 - 0,Evan Ellis,49053,Brown,Fletcher Miller,20525,Indiana
+2018,11/16,Indiana - Bloomsburg Dual,285,W,SV-1,7 - 5,Bruce Graeber,45188,Bloomsburg,Fletcher Miller,20525,Indiana
+2018,11/05,Clarion Open,285,L,FALL,0:45,Tate Orndorff,50974,Utah Valley,Fletcher Miller,20525,Indiana
+2018,11/05,Clarion Open,285,W,DEC,7 - 4,Ben Andrew,45361,Utah Valley,Fletcher Miller,20525,Indiana
+2018,11/05,Clarion Open,285,W,FALL,1:36,Nolan Terrance,39572,Buffalo,Fletcher Miller,20525,Indiana
+2018,11/05,Clarion Open,285,W,FALL,1:00,Devin Nye,19975,Kent State,Fletcher Miller,20525,Indiana
+2018,11/05,Clarion Open,285,W,FALL,2:29,Devin Nye,19975,Kent State,Fletcher Miller,20525,Indiana
+2018,01/28,Greyhound Open,285,W,DEC,7 - 4,Mike Maguire,51185,Indiana,Zachary Horwitz,41573,Indiana
+2018,01/28,Greyhound Open,285,W,DEC,4 - 2,Kobe Hicks,50174,Indiana Tech,Zachary Horwitz,41573,Indiana
+2018,01/28,Greyhound Open,285,W,DEC,2 - 0,Isiah Bollenbacher,41660,Indiana Tech,Zachary Horwitz,41573,Indiana
+2018,01/28,Greyhound Open,285,L,MD,12 - 4,Jacob Aven,20343,Purdue,Zachary Horwitz,41573,Indiana
+2018,01/28,Greyhound Open,285,W,DEC,3 - 0,David Henson,46560,Tiffin University,Zachary Horwitz,41573,Indiana
+2018,01/14,Purple Raider Open,285,L,DEC,4 - 2,David Smith,50968,West Virginia,Zachary Horwitz,41573,Indiana
+2018,01/14,Purple Raider Open,285,L,DEC,6 - 1,Billy Bolia,50176,Kent State,Zachary Horwitz,41573,Indiana
+2018,11/26,Indianapolis - Indiana Dual,285,L,MD,17 - 5,Dylan Faulkenberg,24579,Indianapolis,Zachary Horwitz,41573,Indiana
+2018,11/26,Eastern Michigan - Indiana Dual,285,L,FALL,4:33,Gage Hutchison,14259,Eastern Michigan,Zachary Horwitz,41573,Indiana
+2018,11/26,Binghamton - Indiana Dual,285,L,TF5,17 - 1 4:17,Connor Calkins,19648,Binghamton,Zachary Horwitz,41573,Indiana
+2018,11/18,Navy Classic,285,L,DEC,5 - 3,Michael Markulec,20337,Princeton,Zachary Horwitz,41573,Indiana
+2018,11/18,Navy Classic,285,L,SV-1,3 - 1,Nate Feyrer,50821,Bucknell,Zachary Horwitz,41573,Indiana
+2018,11/05,Clarion Open,285,W,DEC,3 - 1,Jacob Parker,39995,Pittsburgh,Zachary Horwitz,41573,Indiana
+2018,11/05,Clarion Open,285,L,SV-1,4 - 3,David Smith,50968,West Virginia,Zachary Horwitz,41573,Indiana
+2018,11/05,Clarion Open,285,L,DEC,10 - 3,Jon Spaulding,50330,Edinboro,Zachary Horwitz,41573,Indiana

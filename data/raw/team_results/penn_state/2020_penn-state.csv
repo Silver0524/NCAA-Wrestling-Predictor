@@ -1,0 +1,524 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2020,03/07,Big Ten Championships,125,L,DEC,4 - 3,Nic Aguilar,51104,Rutgers,Brandon Meredith,56935,Penn State
+2020,03/07,Big Ten Championships,125,L,DEC,5 - 1,Logan Griffin,40454,Michigan State,Brandon Meredith,56935,Penn State
+2020,03/07,Big Ten Championships,125,L,DEC,8 - 2,Michael DeAugustino,56007,Northwestern,Brandon Meredith,56935,Penn State
+2020,03/07,Big Ten Championships,125,W,DEC,3 - 2,Patrick McKee,50594,Minnesota,Brandon Meredith,56935,Penn State
+2020,02/23,American - Penn State Dual,125,L,SV-1,4 - 2,Gage Curry,44583,American,Brandon Meredith,56935,Penn State
+2020,02/15,Ohio State - Penn State Dual,125,L,DEC,5 - 3,Malik Heinselman,50611,Ohio State,Brandon Meredith,56935,Penn State
+2020,02/07,Penn State - Wisconsin Dual,125,L,DEC,4 - 0,Eric Barnett,56753,Wisconsin,Brandon Meredith,56935,Penn State
+2020,02/02,Maryland - Penn State Dual,125,L,DEC,8 - 7,Brandon Cray,44681,Maryland,Brandon Meredith,56935,Penn State
+2020,01/31,Penn State - Iowa Dual,125,L,TF5,16 - 1 3:18,Spencer Lee,49146,Iowa,Brandon Meredith,56935,Penn State
+2020,01/24,Penn State - Nebraska Dual,125,L,SV-1,3 - 1,Alex Thomsen,50601,Nebraska,Brandon Meredith,56935,Penn State
+2020,01/19,Rutgers - Penn State Dual,125,L,DEC,10 - 4,Nic Aguilar,51104,Rutgers,Brandon Meredith,56935,Penn State
+2020,01/12,Northwestern - Penn State Dual,125,L,DEC,7 - 3,Michael DeAugustino,56007,Northwestern,Brandon Meredith,56935,Penn State
+2020,01/10,Illinois - Penn State Dual,125,L,DEC,6 - 0,Justin Cardani,51687,Illinois,Brandon Meredith,56935,Penn State
+2020,12/22,Wilkes Open,125,W,FALL,6:30,Frank Silva,65853,Union County College,Brandon Meredith,56935,Penn State
+2020,12/22,Wilkes Open,125,W,FALL,6:55,Brandon Spellman,63969,NJRTC,Brandon Meredith,56935,Penn State
+2020,12/22,Wilkes Open,125,W,MD,20 - 6,Baylor Shunk,62899,Penn State,Brandon Meredith,56935,Penn State
+2020,12/22,Wilkes Open,125,W,MFOR,0 - 0,Devin Schnupp,45072,Penn State,Brandon Meredith,56935,Penn State
+2020,12/08,Pennsylvania - Penn State Dual,125,W,DEC,7 - 5,Michael Colaiocco,56733,Pennsylvania,Brandon Meredith,56935,Penn State
+2020,12/06,Penn State - Lehigh Dual,125,L,MD,15 - 5,Brandon Paetzell,44578,Lehigh,Brandon Meredith,56935,Penn State
+2020,11/17,Black Knight Invitational,125,W,DEC,4 - 2,Devin Schnupp,45072,Penn State,Brandon Meredith,56935,Penn State
+2020,11/17,Black Knight Invitational,125,L,DEC,6 - 2,Jack Medley,51392,Michigan,Brandon Meredith,56935,Penn State
+2020,11/17,Black Knight Invitational,125,L,MD,8 - 0,Drew Hildebrandt,44818,Central Michigan,Brandon Meredith,56935,Penn State
+2020,11/17,Black Knight Invitational,125,W,MD,12 - 4,Christian Gannone,62458,Bloomsburg,Brandon Meredith,56935,Penn State
+2020,11/17,Black Knight Invitational,125,W,TF5,22 - 7 6:23,Ryan Chauvin,50835,Army West Point,Brandon Meredith,56935,Penn State
+2020,11/03,Clarion Open,125,L,SV-1,6 - 4,Logan Heil,57515,Cleveland State,Brandon Meredith,56935,Penn State
+2020,11/03,Clarion Open,125,W,MD,14 - 5,Cody Moosman,49103,Cleveland State,Brandon Meredith,56935,Penn State
+2020,11/03,Clarion Open,125,W,TF5,16 - 0 6:35,Cameron Lathem,44691,Cleveland State,Brandon Meredith,56935,Penn State
+2020,11/03,Clarion Open,125,W,MD,19 - 7,Blake Jackson,58818,Clarion,Brandon Meredith,56935,Penn State
+2020,11/03,Clarion Open,125,W,FALL,6:45,Willy Girard,45191,Bloomsburg,Brandon Meredith,56935,Penn State
+2020,11/22,Penn State - Arizona State Dual,125,L,MD,19 - 7,Brandon Courtney,50881,Arizona State,Brody Teske,52779,Penn State
+2020,11/17,Black Knight Invitational,125,W,DEC,5 - 4,Jack Medley,51392,Michigan,Brody Teske,52779,Penn State
+2020,11/17,Black Knight Invitational,125,W,DEC,8 - 3,Brandon Cray,44681,Maryland,Brody Teske,52779,Penn State
+2020,11/17,Black Knight Invitational,125,L,DEC,6 - 0,Drew Hildebrandt,44818,Central Michigan,Brody Teske,52779,Penn State
+2020,11/17,Black Knight Invitational,125,W,MFOR,0 - 0,Ryan Chauvin,50835,Army West Point,Brody Teske,52779,Penn State
+2020,11/17,Black Knight Invitational,125,W,FALL,6:10,Ryan Chauvin,50835,Army West Point,Brody Teske,52779,Penn State
+2020,11/10,Navy - Penn State Dual,125,W,DEC,2 - 1,Logan Treaster,49205,Navy,Brody Teske,52779,Penn State
+2020,01/11,Shorty Hitchcock Classic,125,W,MD,15 - 4,Brandon Spellman,63969,NJRTC,Devin Schnupp,45072,Penn State
+2020,01/11,Shorty Hitchcock Classic,125,W,MFOR,0 - 0,Romeo McNeil,63461,Spartan Combat RTC,Devin Schnupp,45072,Penn State
+2020,01/11,Shorty Hitchcock Classic,125,W,TF5,20 - 5 5:15,David Colton,62821,Drexel,Devin Schnupp,45072,Penn State
+2020,01/11,Shorty Hitchcock Classic,125,L,MD,13 - 2,Geo Barzona,49064,Bucknell,Devin Schnupp,45072,Penn State
+2020,01/11,Shorty Hitchcock Classic,125,W,FALL,1:36,Jose Diaz,57229,Franklin & Marshall,Devin Schnupp,45072,Penn State
+2020,12/22,Wilkes Open,125,L,MFOR,0 - 0,Brandon Meredith,56935,Penn State,Devin Schnupp,45072,Penn State
+2020,12/22,Wilkes Open,125,L,MFOR,0 - 0,Nico Provo,65883,High School,Devin Schnupp,45072,Penn State
+2020,12/22,Wilkes Open,125,W,FALL,2:03,Hunter Brown,65877,Ursinus,Devin Schnupp,45072,Penn State
+2020,12/22,Wilkes Open,125,W,FALL,1:42,Lian Khai,65676,University of Maryland Baltimore County,Devin Schnupp,45072,Penn State
+2020,12/22,Wilkes Open,125,W,DEC,3 - 1,Quinn Melofchik,61895,Air Force,Devin Schnupp,45072,Penn State
+2020,11/17,Black Knight Invitational,125,L,DEC,4 - 2,Brandon Meredith,56935,Penn State,Devin Schnupp,45072,Penn State
+2020,11/17,Black Knight Invitational,125,W,INJ,7:00,Brandon Cray,44681,Maryland,Devin Schnupp,45072,Penn State
+2020,11/17,Black Knight Invitational,125,L,DEC,3 - 1,Trey Chalifoux,44745,Army West Point,Devin Schnupp,45072,Penn State
+2020,02/29,National Collegiate Open,125,L,DEC,6 - 4,Patrick McCormick,57063,Virginia,Baylor Shunk,62899,Penn State
+2020,02/29,National Collegiate Open,125,W,DEC,9 - 3,Matt Maloney,62920,Lock Haven,Baylor Shunk,62899,Penn State
+2020,02/29,National Collegiate Open,125,L,DEC,8 - 4,Carson Smith,62812,Appalachian State,Baylor Shunk,62899,Penn State
+2020,02/08,Messiah Open,125,W,TF5,18 - 1 4:35,Nick DeNora,66718,The College of New Jersey,Baylor Shunk,62899,Penn State
+2020,02/08,Messiah Open,125,W,TF5,18 - 1 7:00,Nick DeNora,66718,The College of New Jersey,Baylor Shunk,62899,Penn State
+2020,02/08,Messiah Open,125,W,DEC,16 - 10,Dante Mininno,50646,Drexel,Baylor Shunk,62899,Penn State
+2020,01/11,Shorty Hitchcock Classic,125,L,DEC,10 - 3,Devin Flannery,62457,Millersville,Baylor Shunk,62899,Penn State
+2020,01/11,Shorty Hitchcock Classic,125,W,DEC,10 - 9,Matt Maloney,62920,Lock Haven,Baylor Shunk,62899,Penn State
+2020,01/11,Shorty Hitchcock Classic,125,W,DEC,6 - 3,Jose Diaz,57229,Franklin & Marshall,Baylor Shunk,62899,Penn State
+2020,12/22,Wilkes Open,125,L,MD,20 - 6,Brandon Meredith,56935,Penn State,Baylor Shunk,62899,Penn State
+2020,12/22,Wilkes Open,125,W,MD,18 - 6,Nico Provo,65883,High School,Baylor Shunk,62899,Penn State
+2020,12/22,Wilkes Open,125,W,MFOR,0 - 0,Devin Flannery,62457,Millersville,Baylor Shunk,62899,Penn State
+2020,12/22,Wilkes Open,125,W,DEC,11 - 7,Terry Adams,61868,Ursinus,Baylor Shunk,62899,Penn State
+2020,12/22,Wilkes Open,125,W,MD,14 - 1,David Yeh,61166,Williams College,Baylor Shunk,62899,Penn State
+2020,12/01,Mat-Town Open I,125,L,MD,13 - 5,Colton Camacho,58029,Pittsburgh,Baylor Shunk,62899,Penn State
+2020,12/01,Mat-Town Open I,125,W,FALL,5:52,Jordan Reyes,61394,Buffalo,Baylor Shunk,62899,Penn State
+2020,12/01,Mat-Town Open I,125,W,DEC,5 - 4,Matt Maloney,62920,Lock Haven,Baylor Shunk,62899,Penn State
+2020,12/01,Mat-Town Open I,125,L,FALL,2:38,Dalton Rohrbaugh,51091,Lock Haven,Baylor Shunk,62899,Penn State
+2020,12/01,Mat-Town Open I,125,L,MD,17 - 5,Luke Werner,50282,Lock Haven,Baylor Shunk,62899,Penn State
+2020,11/03,Clarion Open,125,W,TF5,21 - 6 5:17,Wyatt Maturin,63006,Kent State,Baylor Shunk,62899,Penn State
+2020,11/03,Clarion Open,125,W,DEC,7 - 5,Jacob Sherman,57303,Kent State,Baylor Shunk,62899,Penn State
+2020,11/03,Clarion Open,125,L,DEC,9 - 4,Logan Heil,57515,Cleveland State,Baylor Shunk,62899,Penn State
+2020,11/03,Clarion Open,125,L,MD,17 - 9,Cody Moosman,49103,Cleveland State,Baylor Shunk,62899,Penn State
+2020,03/07,Big Ten Championships,133,L,DEC,7 - 2,Sebastian Rivera,44799,Northwestern,Roman Bravo-Young,49665,Penn State
+2020,03/07,Big Ten Championships,133,W,DEC,3 - 2,Austin DeSanto,49117,Iowa,Roman Bravo-Young,49665,Penn State
+2020,03/07,Big Ten Championships,133,W,DEC,5 - 2,Sammy Alvarez,56763,Rutgers,Roman Bravo-Young,49665,Penn State
+2020,02/23,American - Penn State Dual,133,W,FALL,2:10,Joshua Vega,62910,American,Roman Bravo-Young,49665,Penn State
+2020,02/15,Ohio State - Penn State Dual,133,W,DEC,10 - 4,Jordan Decatur,56727,Ohio State,Roman Bravo-Young,49665,Penn State
+2020,02/09,Penn State - Minnesota Dual,133,W,TF5,23 - 8 6:29,Boo Dryden,52313,Minnesota,Roman Bravo-Young,49665,Penn State
+2020,02/07,Penn State - Wisconsin Dual,133,L,DEC,6 - 5,Seth Gross,19949,Wisconsin,Roman Bravo-Young,49665,Penn State
+2020,02/02,Maryland - Penn State Dual,133,W,TF5,24 - 9 7:00,King Sandoval,57116,Maryland,Roman Bravo-Young,49665,Penn State
+2020,01/31,Penn State - Iowa Dual,133,W,INJ,7:00,Austin DeSanto,49117,Iowa,Roman Bravo-Young,49665,Penn State
+2020,01/24,Penn State - Nebraska Dual,133,W,MD,11 - 3,Ridge Lovett,57520,Nebraska,Roman Bravo-Young,49665,Penn State
+2020,01/19,Rutgers - Penn State Dual,133,W,SV-2,4 - 2,Sammy Alvarez,56763,Rutgers,Roman Bravo-Young,49665,Penn State
+2020,01/12,Northwestern - Penn State Dual,133,W,TF5,23 - 8 6:26,Dylan Utterback,51399,Northwestern,Roman Bravo-Young,49665,Penn State
+2020,12/22,Wilkes Open,133,W,TF5,23 - 7 7:00,Justin Mastroianni,65882,Unattached,Roman Bravo-Young,49665,Penn State
+2020,12/22,Wilkes Open,133,W,DEC,9 - 3,Jaret Lane,50909,Lehigh,Roman Bravo-Young,49665,Penn State
+2020,12/22,Wilkes Open,133,W,MD,14 - 5,Brandon Loperfido,44874,Lock Haven,Roman Bravo-Young,49665,Penn State
+2020,12/08,Pennsylvania - Penn State Dual,133,W,MD,21 - 9,Carmen Ferrante,50660,Pennsylvania,Roman Bravo-Young,49665,Penn State
+2020,12/06,Penn State - Lehigh Dual,133,W,DEC,7 - 2,Jaret Lane,50909,Lehigh,Roman Bravo-Young,49665,Penn State
+2020,11/22,Penn State - Arizona State Dual,133,W,DEC,7 - 6,Joshua Kramer,39736,Arizona State,Roman Bravo-Young,49665,Penn State
+2020,11/17,Black Knight Invitational,133,W,MD,17 - 9,Austin Assad,39516,Michigan,Roman Bravo-Young,49665,Penn State
+2020,11/17,Black Knight Invitational,133,W,MD,20 - 9,Shawn Orem,51045,Bloomsburg,Roman Bravo-Young,49665,Penn State
+2020,11/17,Black Knight Invitational,133,W,DEC,9 - 4,Andrew Wert,50945,Army West Point,Roman Bravo-Young,49665,Penn State
+2020,11/10,Navy - Penn State Dual,133,W,MD,17 - 6,Casey Cobb,45566,Navy,Roman Bravo-Young,49665,Penn State
+2020,01/10,Illinois - Penn State Dual,133,L,FALL,6:54,Travis Piotrowski,44646,Illinois,Austin Clabaugh,51622,Penn State
+2020,12/22,Wilkes Open,133,W,TF5,16 - 1 5:53,Brock Horton,54215,Wilkes,Austin Clabaugh,51622,Penn State
+2020,12/22,Wilkes Open,133,W,DEC,9 - 6,Shawn Orem,51045,Bloomsburg,Austin Clabaugh,51622,Penn State
+2020,12/22,Wilkes Open,133,L,DEC,5 - 1,Jaret Lane,50909,Lehigh,Austin Clabaugh,51622,Penn State
+2020,12/22,Wilkes Open,133,L,DEC,8 - 4,Brandon Loperfido,44874,Lock Haven,Austin Clabaugh,51622,Penn State
+2020,03/07,Big Ten Championships,141,L,DEC,6 - 5,Luke Pletcher,44636,Ohio State,Nick Lee,49276,Penn State
+2020,03/07,Big Ten Championships,141,W,DEC,7 - 5,Chad Red,44683,Nebraska,Nick Lee,49276,Penn State
+2020,03/07,Big Ten Championships,141,W,FALL,0:37,Parker Filius,49302,Purdue,Nick Lee,49276,Penn State
+2020,02/23,American - Penn State Dual,141,W,DEC,7 - 3,Salvatore Profaci,39825,American,Nick Lee,49276,Penn State
+2020,02/15,Ohio State - Penn State Dual,141,W,DEC,8 - 4,Luke Pletcher,44636,Ohio State,Nick Lee,49276,Penn State
+2020,02/09,Penn State - Minnesota Dual,141,W,FALL,1:57,Mitch McKee,45139,Minnesota,Nick Lee,49276,Penn State
+2020,02/07,Penn State - Wisconsin Dual,141,W,MD,14 - 1,Tristan Moran,39545,Wisconsin,Nick Lee,49276,Penn State
+2020,02/02,Maryland - Penn State Dual,141,W,TF5,16 - 0 5:52,Hunter Baxter,49172,Maryland,Nick Lee,49276,Penn State
+2020,01/31,Penn State - Iowa Dual,141,W,TF5,20 - 5 5:53,Carter Happel,44756,Iowa,Nick Lee,49276,Penn State
+2020,01/24,Penn State - Nebraska Dual,141,W,MD,9 - 1,Chad Red,44683,Nebraska,Nick Lee,49276,Penn State
+2020,01/19,Rutgers - Penn State Dual,141,W,TF5,19 - 4 7:00,JoJo Aragona,56736,Rutgers,Nick Lee,49276,Penn State
+2020,01/12,Northwestern - Penn State Dual,141,W,TF5,20 - 5 4:51,Alec McKenna,39584,Northwestern,Nick Lee,49276,Penn State
+2020,01/10,Illinois - Penn State Dual,141,W,MD,13 - 5,Dylan Duncan,44647,Illinois,Nick Lee,49276,Penn State
+2020,12/08,Pennsylvania - Penn State Dual,141,W,MD,13 - 4,Doug Zapf,50656,Pennsylvania,Nick Lee,49276,Penn State
+2020,12/06,Penn State - Lehigh Dual,141,W,TF5,22 - 7 7:00,Joe Lobeck,44686,Lehigh,Nick Lee,49276,Penn State
+2020,11/22,Penn State - Arizona State Dual,141,W,TF5,18 - 3 4:28,Cory Crooks,45179,Arizona State,Nick Lee,49276,Penn State
+2020,11/17,Black Knight Invitational,141,W,FALL,2:42,Quinn Devaney,49175,Maryland,Nick Lee,49276,Penn State
+2020,11/17,Black Knight Invitational,141,W,TF5,18 - 0 3:32,Drew Marten,49077,Central Michigan,Nick Lee,49276,Penn State
+2020,11/17,Black Knight Invitational,141,W,DEC,11 - 5,Dresden Simon,44707,Central Michigan,Nick Lee,49276,Penn State
+2020,11/17,Black Knight Invitational,141,W,FALL,1:29,Marco Macrino,50359,Bloomsburg,Nick Lee,49276,Penn State
+2020,11/10,Navy - Penn State Dual,141,W,FALL,6:16,Cody Trybus,45568,Navy,Nick Lee,49276,Penn State
+2020,01/11,Shorty Hitchcock Classic,141,W,FALL,6:19,Tyler Cutright,63178,Davis & Elkins,Joey Blumer,49278,Penn State
+2020,01/11,Shorty Hitchcock Classic,141,L,DEC,7 - 2,Tyler Hunt,55813,US Naval Academy Prep School,Joey Blumer,49278,Penn State
+2020,01/11,Shorty Hitchcock Classic,141,W,DEC,6 - 3,Ryan McGuire,51194,Millersville,Joey Blumer,49278,Penn State
+2020,01/11,Shorty Hitchcock Classic,141,L,DEC,8 - 2,Cody Trybus,45568,Navy,Joey Blumer,49278,Penn State
+2020,01/11,Shorty Hitchcock Classic,141,W,DEC,9 - 8,Imran Heard,51595,Lock Haven,Joey Blumer,49278,Penn State
+2020,01/11,Shorty Hitchcock Classic,141,W,DEC,7 - 6,Julian Flores,44791,Drexel,Joey Blumer,49278,Penn State
+2020,12/22,Wilkes Open,141,W,DEC,5 - 3,Tyler Dilley,62919,Lock Haven,Joey Blumer,49278,Penn State
+2020,12/22,Wilkes Open,141,W,MD,12 - 0,Adam Barker,62761,LIU,Joey Blumer,49278,Penn State
+2020,12/22,Wilkes Open,141,W,DEC,8 - 7,Shawn Nonaka,62580,George Mason,Joey Blumer,49278,Penn State
+2020,12/22,Wilkes Open,141,W,FALL,5:47,Ryan McGuire,51194,Millersville,Joey Blumer,49278,Penn State
+2020,12/22,Wilkes Open,141,L,DEC,3 - 2,Theo Powers,44793,Brown,Joey Blumer,49278,Penn State
+2020,11/17,Black Knight Invitational,141,L,DEC,4 - 0,Hunter Baxter,49172,Maryland,Dom Giannangeli,40063,Penn State
+2020,11/17,Black Knight Invitational,141,L,FALL,2:31,Logan Brown,53821,Army West Point,Dom Giannangeli,40063,Penn State
+2020,03/07,Big Ten Championships,149,W,DEC,6 - 4,Graham Rooks,51283,Indiana,Jarod Verkleeren,49156,Penn State
+2020,03/07,Big Ten Championships,149,W,DEC,4 - 2,Yahya Thomas,49245,Northwestern,Jarod Verkleeren,49156,Penn State
+2020,03/07,Big Ten Championships,149,L,DEC,5 - 2,Collin Purinton,40505,Nebraska,Jarod Verkleeren,49156,Penn State
+2020,03/07,Big Ten Championships,149,L,DEC,6 - 3,Yahya Thomas,49245,Northwestern,Jarod Verkleeren,49156,Penn State
+2020,02/23,American - Penn State Dual,149,W,DEC,3 - 1,Kizhan Clarke,44878,American,Jarod Verkleeren,49156,Penn State
+2020,02/15,Ohio State - Penn State Dual,149,L,SV-1,3 - 1,Sammy Sasso,51143,Ohio State,Jarod Verkleeren,49156,Penn State
+2020,02/09,Penn State - Minnesota Dual,149,L,SV-1,7 - 5,Brayton Lee,52079,Minnesota,Jarod Verkleeren,49156,Penn State
+2020,02/07,Penn State - Wisconsin Dual,149,W,DEC,3 - 2,Cole Martin,39773,Wisconsin,Jarod Verkleeren,49156,Penn State
+2020,02/02,Maryland - Penn State Dual,149,W,MD,9 - 0,Ryan Garlitz,62701,Maryland,Jarod Verkleeren,49156,Penn State
+2020,01/31,Penn State - Iowa Dual,149,L,DEC,6 - 1,Patricio Lugo,39919,Iowa,Jarod Verkleeren,49156,Penn State
+2020,01/24,Penn State - Nebraska Dual,149,L,FALL,5:50,Collin Purinton,40505,Nebraska,Jarod Verkleeren,49156,Penn State
+2020,01/19,Rutgers - Penn State Dual,149,W,DEC,7 - 3,Nick Santos,50283,Rutgers,Jarod Verkleeren,49156,Penn State
+2020,01/12,Northwestern - Penn State Dual,149,W,DEC,8 - 2,Eric Yang,46554,Northwestern,Jarod Verkleeren,49156,Penn State
+2020,01/10,Illinois - Penn State Dual,149,W,DEC,6 - 2,Mousa Jodeh,40308,Illinois,Jarod Verkleeren,49156,Penn State
+2020,12/22,Wilkes Open,149,W,FALL,1:04,Zachary McCann,62909,American,Jarod Verkleeren,49156,Penn State
+2020,12/22,Wilkes Open,149,W,TF5,16 - 1 2:43,Chris Naegele,62477,Sacred Heart,Jarod Verkleeren,49156,Penn State
+2020,12/22,Wilkes Open,149,W,MD,16 - 4,Tyler Gazaway,60420,Roger Williams,Jarod Verkleeren,49156,Penn State
+2020,12/22,Wilkes Open,149,W,MD,16 - 6,JT Cooley,51026,Lehigh,Jarod Verkleeren,49156,Penn State
+2020,12/22,Wilkes Open,149,W,MFOR,0 - 0,Jimmy Hoffman,49165,Lehigh,Jarod Verkleeren,49156,Penn State
+2020,12/06,Penn State - Lehigh Dual,149,L,SV-1,3 - 1,Jimmy Hoffman,49165,Lehigh,Jarod Verkleeren,49156,Penn State
+2020,11/22,Penn State - Arizona State Dual,149,L,DEC,5 - 4,Josh Maruca,39512,Arizona State,Jarod Verkleeren,49156,Penn State
+2020,11/17,Black Knight Invitational,149,W,DEC,3 - 2,Luke Gardner,44743,Penn State,Jarod Verkleeren,49156,Penn State
+2020,11/17,Black Knight Invitational,149,W,FALL,6:34,Nick Lombard,51422,Michigan,Jarod Verkleeren,49156,Penn State
+2020,11/17,Black Knight Invitational,149,W,DEC,6 - 1,Michael Doetsch,44919,Maryland,Jarod Verkleeren,49156,Penn State
+2020,11/17,Black Knight Invitational,149,W,DEC,6 - 2,Reece Heller,61961,Hofstra,Jarod Verkleeren,49156,Penn State
+2020,02/29,National Collegiate Open,149,W,DEC,9 - 2,Josh Breeding,50616,Princeton,Terrell Barraclough,62900,Penn State
+2020,02/29,National Collegiate Open,149,L,DEC,11 - 4,Matthew Grippi,50662,NC State,Terrell Barraclough,62900,Penn State
+2020,02/29,National Collegiate Open,149,W,MD,11 - 1,Morgan Fuenffinger,54498,Navy,Terrell Barraclough,62900,Penn State
+2020,02/29,National Collegiate Open,149,W,TF5,22 - 6 6:39,Adrian St Germain,63056,Hofstra,Terrell Barraclough,62900,Penn State
+2020,02/29,National Collegiate Open,149,W,DEC,4 - 2,A J Raya,51181,Cal Baptist,Terrell Barraclough,62900,Penn State
+2020,02/29,National Collegiate Open,149,W,DEC,9 - 5,Cody Bond,50267,Appalachian State,Terrell Barraclough,62900,Penn State
+2020,02/01,Edinboro Open,149,W,DEC,6 - 5,Mason Breece,57362,Central Michigan,Terrell Barraclough,62900,Penn State
+2020,02/01,Edinboro Open,149,W,TF5,17 - 2 7:00,Austin Wilson,56381,Lock Haven,Terrell Barraclough,62900,Penn State
+2020,02/01,Edinboro Open,149,W,DEC,4 - 1,River Curtis,56071,Navy,Terrell Barraclough,62900,Penn State
+2020,02/01,Edinboro Open,149,W,DEC,5 - 2,Michael Venosa,52043,Cornell,Terrell Barraclough,62900,Penn State
+2020,02/01,Edinboro Open,149,L,MD,10 - 0,Matt Kolodzik,45071,Princeton,Terrell Barraclough,62900,Penn State
+2020,12/22,Wilkes Open,149,W,MD,12 - 1,Josh Tuckey,59672,Millersville,Terrell Barraclough,62900,Penn State
+2020,12/22,Wilkes Open,149,W,DEC,5 - 1,Jackson Erb,57322,Millersville,Terrell Barraclough,62900,Penn State
+2020,12/22,Wilkes Open,149,W,MD,13 - 4,Paul Watkins,56931,Lehigh,Terrell Barraclough,62900,Penn State
+2020,12/22,Wilkes Open,149,W,MD,12 - 1,Scott Obendorfer,50843,Penn State,Terrell Barraclough,62900,Penn State
+2020,12/22,Wilkes Open,149,L,DEC,6 - 2,Jimmy Hoffman,49165,Lehigh,Terrell Barraclough,62900,Penn State
+2020,11/03,Clarion Open,149,W,DEC,6 - 2,Ian Senz,57241,Kent State,Terrell Barraclough,62900,Penn State
+2020,11/03,Clarion Open,149,W,MD,14 - 4,Alex Garcia,62852,Edinboro,Terrell Barraclough,62900,Penn State
+2020,11/03,Clarion Open,149,W,MFOR,0 - 0,Sam Matzek,41219,Cleveland State,Terrell Barraclough,62900,Penn State
+2020,11/03,Clarion Open,149,W,MD,9 - 1,Sam Matzek,41219,Cleveland State,Terrell Barraclough,62900,Penn State
+2020,11/03,Clarion Open,149,W,DEC,7 - 2,Alec Cook,58618,West Liberty University,Terrell Barraclough,62900,Penn State
+2020,11/03,Clarion Open,149,L,DEC,3 - 1,Brock Zacherl,19787,Clarion,Terrell Barraclough,62900,Penn State
+2020,02/08,Messiah Open,149,W,DEC,7 - 2,Connor Trowbridge,62818,Drexel,Scott Obendorfer,50843,Penn State
+2020,02/08,Messiah Open,149,L,DEC,8 - 3,Evan Widing,62119,Delaware Valley,Scott Obendorfer,50843,Penn State
+2020,02/08,Messiah Open,149,L,MFOR,0 - 0,Jake Coniglio,60018,Messiah,Scott Obendorfer,50843,Penn State
+2020,02/08,Messiah Open,149,W,MD,10 - 2,Josh Tuckey,59672,Millersville,Scott Obendorfer,50843,Penn State
+2020,02/08,Messiah Open,149,L,MFOR,0 - 0,Patrick Ryan,57253,American,Scott Obendorfer,50843,Penn State
+2020,12/22,Wilkes Open,149,L,MD,12 - 1,Terrell Barraclough,62900,Penn State,Scott Obendorfer,50843,Penn State
+2020,12/22,Wilkes Open,149,W,MD,12 - 2,Drew Dickson,62581,George Mason,Scott Obendorfer,50843,Penn State
+2020,12/22,Wilkes Open,149,W,MD,13 - 3,Max Shaffer,60520,Wilkes,Scott Obendorfer,50843,Penn State
+2020,12/22,Wilkes Open,149,W,MD,10 - 2,Josh Tuckey,59672,Millersville,Scott Obendorfer,50843,Penn State
+2020,12/22,Wilkes Open,149,L,TF5,15 - 0 7:00,Luke Karam,44703,Lehigh,Scott Obendorfer,50843,Penn State
+2020,12/01,Mat-Town Open I,149,W,FALL,1:13,Tyler Greer,62800,Pittsburgh,Scott Obendorfer,50843,Penn State
+2020,12/01,Mat-Town Open I,149,L,DEC,8 - 1,Kyle Todrank,40157,Buffalo,Scott Obendorfer,50843,Penn State
+2020,12/01,Mat-Town Open I,149,L,DEC,7 - 0,Collin Glorioso,44819,Lock Haven,Scott Obendorfer,50843,Penn State
+2020,02/01,Edinboro Open,149,L,DEC,4 - 1,Alec Cook,58618,West Liberty University,Adam Busiello,58651,Penn State
+2020,02/01,Edinboro Open,149,W,MD,10 - 1,Darese Sparkman,63991,Notre Dame,Adam Busiello,58651,Penn State
+2020,02/01,Edinboro Open,149,W,FALL,3:36,Jake Pail,62853,Edinboro,Adam Busiello,58651,Penn State
+2020,02/01,Edinboro Open,149,W,FALL,0:55,River Curtis,56071,Navy,Adam Busiello,58651,Penn State
+2020,02/01,Edinboro Open,149,L,TF5,18 - 0 6:04,Matt Kolodzik,45071,Princeton,Adam Busiello,58651,Penn State
+2020,03/07,Big Ten Championships,157,L,TF5,18 - 1 6:10,Garrett Model,49351,Wisconsin,Bo Pipher,45075,Penn State
+2020,03/07,Big Ten Championships,157,L,SV-1,5 - 3,Will Lewan,50934,Michigan,Bo Pipher,45075,Penn State
+2020,02/07,Penn State - Wisconsin Dual,157,L,MD,13 - 4,Garrett Model,49351,Wisconsin,Bo Pipher,45075,Penn State
+2020,02/02,Maryland - Penn State Dual,157,W,DEC,3 - 0,Jahi Jones,41460,Maryland,Bo Pipher,45075,Penn State
+2020,01/31,Penn State - Iowa Dual,157,L,DEC,6 - 1,Kaleb Young,44572,Iowa,Bo Pipher,45075,Penn State
+2020,01/24,Penn State - Nebraska Dual,157,L,DEC,5 - 3,Peyton Robb,56387,Nebraska,Bo Pipher,45075,Penn State
+2020,01/19,Rutgers - Penn State Dual,157,L,TB-1,1 - 0,Mike Van Brill,44613,Rutgers,Bo Pipher,45075,Penn State
+2020,01/12,Northwestern - Penn State Dual,157,L,DEC,6 - 0,Ryan Deakin,44716,Northwestern,Bo Pipher,45075,Penn State
+2020,01/10,Illinois - Penn State Dual,157,L,DEC,5 - 2,Eric Barone,39566,Illinois,Bo Pipher,45075,Penn State
+2020,12/22,Wilkes Open,157,W,FALL,1:40,James Shaw,65885,Wilkes,Bo Pipher,45075,Penn State
+2020,12/22,Wilkes Open,157,W,MD,8 - 0,Brendon Stocku,63034,Lock Haven,Bo Pipher,45075,Penn State
+2020,12/22,Wilkes Open,157,W,DEC,7 - 1,AJ Burkhart,50632,Lehigh,Bo Pipher,45075,Penn State
+2020,12/22,Wilkes Open,157,W,TF5,15 - 0 2:20,Elijah Murphy,45346,American,Bo Pipher,45075,Penn State
+2020,12/22,Wilkes Open,157,L,DEC,5 - 3,Jonathan Ross,44894,Lock Haven,Bo Pipher,45075,Penn State
+2020,12/08,Pennsylvania - Penn State Dual,157,L,DEC,5 - 2,Anthony Artalona,51039,Pennsylvania,Bo Pipher,45075,Penn State
+2020,11/22,Penn State - Arizona State Dual,157,L,DEC,9 - 4,Jacori Teemer,50581,Arizona State,Bo Pipher,45075,Penn State
+2020,11/17,Black Knight Invitational,157,W,MFOR,0 - 0,Tyler Meisinger,45010,Michigan,Bo Pipher,45075,Penn State
+2020,11/17,Black Knight Invitational,157,W,SV-1,6 - 5,Fernie Silva,46045,Indiana,Bo Pipher,45075,Penn State
+2020,11/17,Black Knight Invitational,157,L,DEC,7 - 3,Logan Parks,40153,Central Michigan,Bo Pipher,45075,Penn State
+2020,11/17,Black Knight Invitational,157,W,FALL,0:49,Markus Hartman,50585,Army West Point,Bo Pipher,45075,Penn State
+2020,11/17,Black Knight Invitational,157,L,DEC,6 - 1,Luke Weiland,41243,Army West Point,Bo Pipher,45075,Penn State
+2020,11/10,Navy - Penn State Dual,157,W,DEC,7 - 6,Scout Skidgel,44939,Navy,Bo Pipher,45075,Penn State
+2020,02/15,Ohio State - Penn State Dual,157,L,DEC,4 - 3,Quinn Kinner,51144,Ohio State,Brady Berge,49277,Penn State
+2020,12/06,Penn State - Lehigh Dual,157,W,DEC,5 - 3,Josh Humphreys,55860,Lehigh,Brady Berge,49277,Penn State
+2020,02/23,American - Penn State Dual,157,W,DEC,7 - 5,Ethan Karsten,44903,American,Luke Gardner,44743,Penn State
+2020,02/09,Penn State - Minnesota Dual,157,L,DEC,5 - 4,Ryan Thomas,50839,Minnesota,Luke Gardner,44743,Penn State
+2020,01/11,Shorty Hitchcock Classic,149,L,MFOR,0 - 0,Tanner Craig,59533,United States Military Academy,Luke Gardner,44743,Penn State
+2020,01/11,Shorty Hitchcock Classic,149,W,FALL,0:32,Sam Mandelbraut,57281,Rider,Luke Gardner,44743,Penn State
+2020,01/11,Shorty Hitchcock Classic,149,L,MFOR,0 - 0,Ryan Anderson,57130,Centenary,Luke Gardner,44743,Penn State
+2020,01/11,Shorty Hitchcock Classic,149,W,DEC,8 - 4,Nick Widmann,40313,Drexel,Luke Gardner,44743,Penn State
+2020,12/08,Pennsylvania - Penn State Dual,149,W,DEC,7 - 6,Lucas Revano,56734,Pennsylvania,Luke Gardner,44743,Penn State
+2020,11/17,Black Knight Invitational,149,L,DEC,3 - 2,Jarod Verkleeren,49156,Penn State,Luke Gardner,44743,Penn State
+2020,11/17,Black Knight Invitational,149,W,MD,12 - 4,Luke Raczkowski,50921,Central Michigan,Luke Gardner,44743,Penn State
+2020,11/17,Black Knight Invitational,149,W,DEC,3 - 0,Pj Ogunsanya,54496,Army West Point,Luke Gardner,44743,Penn State
+2020,11/10,Navy - Penn State Dual,149,W,FALL,1:46,Jon Park,60226,Navy,Luke Gardner,44743,Penn State
+2020,12/22,Wilkes Open,157,W,DEC,9 - 4,Liam Flaherty,65881,Wilkes,Paul Feite,56605,Penn State
+2020,12/22,Wilkes Open,157,W,MFOR,0 - 0,AJ Burkhart,50632,Lehigh,Paul Feite,56605,Penn State
+2020,12/22,Wilkes Open,157,W,DEC,4 - 0,Cole Aaron,44902,Franklin & Marshall,Paul Feite,56605,Penn State
+2020,12/22,Wilkes Open,157,L,MD,9 - 0,Jonathan Ross,44894,Lock Haven,Paul Feite,56605,Penn State
+2020,11/17,Black Knight Invitational,157,L,MD,12 - 3,Jahi Jones,41460,Maryland,Paul Feite,56605,Penn State
+2020,11/17,Black Knight Invitational,157,L,DEC,7 - 3,Fernie Silva,46045,Indiana,Paul Feite,56605,Penn State
+2020,11/17,Black Knight Invitational,157,W,DEC,3 - 2,Nate Newberry,45190,Bloomsburg,Paul Feite,56605,Penn State
+2020,11/03,Clarion Open,157,L,DEC,6 - 1,Nico Odor,45039,Cleveland State,Paul Feite,56605,Penn State
+2020,11/03,Clarion Open,157,W,DEC,8 - 5,Joe Sliwoski,44849,Clarion,Paul Feite,56605,Penn State
+2020,11/03,Clarion Open,157,L,DEC,7 - 1,Alex Carida,56789,Bloomsburg,Paul Feite,56605,Penn State
+2020,11/02,Brockport Open,157,W,FALL,0:55,Kyle Liguori,66351,Alfred State,Alex Barnett,68672,Penn State
+2020,11/02,Brockport Open,157,W,DEC,6 - 4,Jesse Johnson,66350,Alfred State,Alex Barnett,68672,Penn State
+2020,11/02,Brockport Open,157,L,MFOR,0 - 0,Anthony Miraglia,66349,Alfred State,Jimmy Kramer,68673,Penn State
+2020,03/07,Big Ten Championships,165,L,DEC,3 - 2,Alex Marinelli,44574,Iowa,Vincenzo Joseph,39542,Penn State
+2020,03/07,Big Ten Championships,165,W,DEC,6 - 3,Isaiah White,47106,Nebraska,Vincenzo Joseph,39542,Penn State
+2020,03/07,Big Ten Championships,165,W,MD,16 - 5,Drew Hughes,44802,Michigan State,Vincenzo Joseph,39542,Penn State
+2020,02/23,American - Penn State Dual,165,W,FALL,4:00,Timothy Fitzpatrick,57254,American,Vincenzo Joseph,39542,Penn State
+2020,02/15,Ohio State - Penn State Dual,165,W,MD,13 - 5,Ethan Smith,50025,Ohio State,Vincenzo Joseph,39542,Penn State
+2020,02/09,Penn State - Minnesota Dual,165,W,MD,14 - 5,Bailee O'Reilly,50166,Minnesota,Vincenzo Joseph,39542,Penn State
+2020,02/07,Penn State - Wisconsin Dual,165,W,MD,8 - 0,Evan Wick,44730,Wisconsin,Vincenzo Joseph,39542,Penn State
+2020,02/02,Maryland - Penn State Dual,165,W,FALL,4:01,Kyle Cochran,49174,Maryland,Vincenzo Joseph,39542,Penn State
+2020,01/31,Penn State - Iowa Dual,165,W,DEC,7 - 5,Alex Marinelli,44574,Iowa,Vincenzo Joseph,39542,Penn State
+2020,01/24,Penn State - Nebraska Dual,165,W,DEC,5 - 1,Isaiah White,47106,Nebraska,Vincenzo Joseph,39542,Penn State
+2020,01/19,Rutgers - Penn State Dual,165,W,FALL,6:15,Brett Donner,44581,Rutgers,Vincenzo Joseph,39542,Penn State
+2020,01/12,Northwestern - Penn State Dual,165,W,FALL,0:56,Shayne Oster,44820,Northwestern,Vincenzo Joseph,39542,Penn State
+2020,12/08,Pennsylvania - Penn State Dual,165,W,FALL,4:25,Jacob Lizak,44795,Pennsylvania,Vincenzo Joseph,39542,Penn State
+2020,12/06,Penn State - Lehigh Dual,165,W,DEC,7 - 4,Brian Meyer,50941,Lehigh,Vincenzo Joseph,39542,Penn State
+2020,11/22,Penn State - Arizona State Dual,165,W,DEC,7 - 4,Josh Shields,39511,Arizona State,Vincenzo Joseph,39542,Penn State
+2020,11/10,Navy - Penn State Dual,165,W,TF5,20 - 5 6:02,Tanner Skidgel,49200,Navy,Vincenzo Joseph,39542,Penn State
+2020,01/01,Southern Scuffle,165,L,DEC,8 - 4,Travis Wittlake,50615,Oklahoma State,Joe Lee,49666,Penn State
+2020,01/01,Southern Scuffle,165,W,DEC,10 - 3,Jake Wentzel,45151,Pittsburgh,Joe Lee,49666,Penn State
+2020,01/01,Southern Scuffle,165,L,DEC,9 - 4,Thomas Bullard,44611,NC State,Joe Lee,49666,Penn State
+2020,01/01,Southern Scuffle,165,W,MFOR,0 - 0,Ebed Jarrell,40311,Drexel,Joe Lee,49666,Penn State
+2020,01/01,Southern Scuffle,165,W,TF5,16 - 1 2:16,Christopher Fasano,62651,The Citadel,Joe Lee,49666,Penn State
+2020,01/01,Southern Scuffle,165,W,TF5,15 - 0 2:42,Randy Meneweather II,44843,Air Force,Joe Lee,49666,Penn State
+2020,01/01,Southern Scuffle,165,W,FALL,2:17,Connor Flynn,39676,Missouri,Joe Lee,49666,Penn State
+2020,12/22,Wilkes Open,165,W,FALL,1:24,Fabio Preka,63166,Buffalo,Joe Lee,49666,Penn State
+2020,12/22,Wilkes Open,165,W,FALL,1:31,Blaise Bressler,61222,Norwich,Joe Lee,49666,Penn State
+2020,12/22,Wilkes Open,165,W,TF5,20 - 3 1:57,Rob Saum,54296,Millersville,Joe Lee,49666,Penn State
+2020,12/22,Wilkes Open,165,W,DEC,6 - 3,Brian Meyer,50941,Lehigh,Joe Lee,49666,Penn State
+2020,12/22,Wilkes Open,165,W,TF5,31 - 16 6:25,Trey Cornish,48467,Lehigh,Joe Lee,49666,Penn State
+2020,11/03,Clarion Open,165,W,FALL,5:52,Larry Brown,50242,Lock Haven,Joe Lee,49666,Penn State
+2020,11/03,Clarion Open,165,W,DEC,6 - 4,James Limongi,57342,Kent State,Joe Lee,49666,Penn State
+2020,11/03,Clarion Open,165,W,MD,17 - 5,Riley Smucker,56147,Cleveland State,Joe Lee,49666,Penn State
+2020,11/03,Clarion Open,165,W,MD,13 - 2,Michael Bartolo,40462,Clarion,Joe Lee,49666,Penn State
+2020,01/10,Illinois - Penn State Dual,165,L,MD,12 - 3,Danny Braunagel,50926,Illinois,Konner Kraeszig,57104,Penn State
+2020,12/22,Wilkes Open,165,W,MD,11 - 3,Jeremiah Oakes,65018,Scranton,Konner Kraeszig,57104,Penn State
+2020,12/22,Wilkes Open,165,W,INJ,7:00,Nick Sansone,62198,Virginia,Konner Kraeszig,57104,Penn State
+2020,12/22,Wilkes Open,165,W,DEC,8 - 4,James Weber,60007,Pitt-Johnstown,Konner Kraeszig,57104,Penn State
+2020,12/22,Wilkes Open,165,L,SV-1,12 - 10,Luca Frinzi,57518,Lehigh,Konner Kraeszig,57104,Penn State
+2020,12/22,Wilkes Open,165,W,FALL,3:00,Rob Saum,54296,Millersville,Konner Kraeszig,57104,Penn State
+2020,12/22,Wilkes Open,165,W,DEC,6 - 4,Nate Newberry,45190,Bloomsburg,Konner Kraeszig,57104,Penn State
+2020,11/17,Black Knight Invitational,165,W,SV-1,3 - 1,Layne van Anrooy,49182,Michigan,Konner Kraeszig,57104,Penn State
+2020,11/17,Black Knight Invitational,165,W,MD,15 - 4,Davey Tunon,44908,Indiana,Konner Kraeszig,57104,Penn State
+2020,11/17,Black Knight Invitational,165,W,MD,15 - 5,Tracy Hubbard,57361,Central Michigan,Konner Kraeszig,57104,Penn State
+2020,11/17,Black Knight Invitational,165,L,DEC,7 - 3,Cael McCormick,44622,Army West Point,Konner Kraeszig,57104,Penn State
+2020,03/07,Big Ten Championships,174,W,DEC,8 - 5,Michael Kemerer,39526,Iowa,Mark Hall,44839,Penn State
+2020,03/07,Big Ten Championships,174,W,DEC,5 - 4,Dylan Lydy,39998,Purdue,Mark Hall,44839,Penn State
+2020,03/07,Big Ten Championships,174,W,TF5,4:12,Joey Gunther,39725,Illinois,Mark Hall,44839,Penn State
+2020,02/23,American - Penn State Dual,174,W,FALL,2:33,Anthony Wokasch,44729,American,Mark Hall,44839,Penn State
+2020,02/15,Ohio State - Penn State Dual,174,W,FALL,0:46,Kaleb Romero,49252,Ohio State,Mark Hall,44839,Penn State
+2020,02/09,Penn State - Minnesota Dual,174,W,DEC,7 - 4,Devin Skatzka,39603,Minnesota,Mark Hall,44839,Penn State
+2020,02/07,Penn State - Wisconsin Dual,174,W,FALL,4:15,Jared Krattiger,50621,Wisconsin,Mark Hall,44839,Penn State
+2020,02/02,Maryland - Penn State Dual,174,W,FALL,0:51,Philip Spadafora,51167,Maryland,Mark Hall,44839,Penn State
+2020,01/31,Penn State - Iowa Dual,174,L,DEC,11 - 6,Michael Kemerer,39526,Iowa,Mark Hall,44839,Penn State
+2020,01/24,Penn State - Nebraska Dual,174,W,FALL,6:52,Michael Labriola,49207,Nebraska,Mark Hall,44839,Penn State
+2020,01/19,Rutgers - Penn State Dual,174,W,INJ,7:00,Joseph Grello,44858,Rutgers,Mark Hall,44839,Penn State
+2020,01/12,Northwestern - Penn State Dual,174,W,TF5,17 - 2 5:21,Tyler Morland,49243,Northwestern,Mark Hall,44839,Penn State
+2020,01/10,Illinois - Penn State Dual,174,W,DQ,0 - 0,Joey Gunther,39725,Illinois,Mark Hall,44839,Penn State
+2020,12/22,Wilkes Open,174,W,FALL,3:27,Nathan Cheek,65880,Unattached,Mark Hall,44839,Penn State
+2020,12/22,Wilkes Open,174,W,FALL,6:17,Jake Logan,57185,Lehigh,Mark Hall,44839,Penn State
+2020,12/22,Wilkes Open,174,W,FALL,1:51,Creighton Edsell,56934,Penn State,Mark Hall,44839,Penn State
+2020,12/22,Wilkes Open,174,W,FALL,1:23,Nick Cope,56673,Muhlenberg,Mark Hall,44839,Penn State
+2020,12/22,Wilkes Open,174,W,MD,11 - 0,Larry Brown,50242,Lock Haven,Mark Hall,44839,Penn State
+2020,12/08,Pennsylvania - Penn State Dual,174,W,TF5,19 - 4 7:00,Neil Antrassian,56202,Pennsylvania,Mark Hall,44839,Penn State
+2020,12/06,Penn State - Lehigh Dual,174,W,DEC,7 - 2,Jordan Kutler,39626,Lehigh,Mark Hall,44839,Penn State
+2020,11/22,Penn State - Arizona State Dual,174,W,MD,11 - 3,Anthony Valencia,39500,Arizona State,Mark Hall,44839,Penn State
+2020,11/17,Black Knight Invitational,174,W,FALL,4:12,Philip Spadafora,51167,Maryland,Mark Hall,44839,Penn State
+2020,11/17,Black Knight Invitational,174,W,MD,14 - 2,Jacob Covaciu,44805,Indiana,Mark Hall,44839,Penn State
+2020,11/17,Black Knight Invitational,174,W,FALL,1:44,Justin Hayward,56792,Bloomsburg,Mark Hall,44839,Penn State
+2020,11/10,Navy - Penn State Dual,174,W,FALL,0:58,Spencer Carey,44817,Navy,Mark Hall,44839,Penn State
+2020,02/01,Edinboro Open,174,W,TF5,17 - 2 5:00,Derek Brown,61398,Clarion,Carter Starocci,58819,Penn State
+2020,02/01,Edinboro Open,174,W,DEC,10 - 3,Chris Foca,56712,Spartan Combat RTC,Carter Starocci,58819,Penn State
+2020,02/01,Edinboro Open,174,W,DEC,6 - 1,Andrew Berreyesa,49111,Cornell,Carter Starocci,58819,Penn State
+2020,02/01,Edinboro Open,174,W,MD,20 - 7,Fritz Schierl,44840,Ohio State,Carter Starocci,58819,Penn State
+2020,02/01,Edinboro Open,174,W,MD,18 - 5,Alonzo Turner,22044,Notre Dame,Carter Starocci,58819,Penn State
+2020,01/01,Southern Scuffle,174,W,TF5,18 - 1 6:42,Albert Urias,57203,CSU Bakersfield,Carter Starocci,58819,Penn State
+2020,01/01,Southern Scuffle,174,W,DEC,11 - 6,Gregg Harvey,45148,Pittsburgh,Carter Starocci,58819,Penn State
+2020,01/01,Southern Scuffle,174,W,MD,13 - 5,Spencer Carey,44817,Navy,Carter Starocci,58819,Penn State
+2020,01/01,Southern Scuffle,174,W,DEC,9 - 2,Neal Richards,39991,VMI,Carter Starocci,58819,Penn State
+2020,01/01,Southern Scuffle,174,W,FALL,1:54,Kyle Kretzer,57184,The Citadel,Carter Starocci,58819,Penn State
+2020,01/01,Southern Scuffle,174,W,MD,12 - 2,Cody Surratt,49030,Air Force,Carter Starocci,58819,Penn State
+2020,12/07,Patriot Open,174,W,FALL,6:50,Jack Bond,56516,Old Dominion,Carter Starocci,58819,Penn State
+2020,12/07,Patriot Open,174,W,DEC,7 - 3,Brad Laughlin,51265,Army West Point,Carter Starocci,58819,Penn State
+2020,12/07,Patriot Open,174,W,FALL,5:57,Frankie Guida,50819,Bucknell,Carter Starocci,58819,Penn State
+2020,12/07,Patriot Open,174,W,DEC,3 - 2,Ben Harvey,40935,Army West Point,Carter Starocci,58819,Penn State
+2020,11/03,Clarion Open,174,W,FALL,2:03,Alexander Fouse,63511,Shippensburg,Carter Starocci,58819,Penn State
+2020,11/03,Clarion Open,174,W,DEC,2 - 0,Jared Siegrist,45101,Lock Haven,Carter Starocci,58819,Penn State
+2020,11/03,Clarion Open,174,W,MD,18 - 5,Chris Sequete,56345,Clarion,Carter Starocci,58819,Penn State
+2020,11/03,Clarion Open,174,W,FALL,0:37,Colin Shannon,50060,American,Carter Starocci,58819,Penn State
+2020,02/23,Mat-Town Open II,174,L,DEC,3 - 2,Jake Logan,57185,Lehigh,Creighton Edsell,56934,Penn State
+2020,02/23,Mat-Town Open II,174,W,DEC,4 - 0,Corey Connolly,62210,Rider,Creighton Edsell,56934,Penn State
+2020,02/23,Mat-Town Open II,174,L,TB-1,6 - 5,Jake Logan,57185,Lehigh,Creighton Edsell,56934,Penn State
+2020,02/23,Mat-Town Open II,174,W,DEC,6 - 3,Tucker Nadeau,56465,West Virginia,Creighton Edsell,56934,Penn State
+2020,02/23,Mat-Town Open II,174,W,DEC,4 - 2,Larry Brown,50242,Lock Haven,Creighton Edsell,56934,Penn State
+2020,02/23,Mat-Town Open II,174,W,DEC,6 - 4,Sam Barnes,63005,Bucknell,Creighton Edsell,56934,Penn State
+2020,02/02,Maryland - Penn State Dual,184,W,DEC,5 - 2,Kyle Jasenski,51164,Maryland,Creighton Edsell,56934,Penn State
+2020,01/12,Northwestern - Penn State Dual,184,W,DEC,4 - 1,Jack Jessen,50838,Northwestern,Creighton Edsell,56934,Penn State
+2020,01/11,Shorty Hitchcock Classic,174,L,MFOR,0 - 0,Derek Yingling,60759,United States Military Academy,Creighton Edsell,56934,Penn State
+2020,01/11,Shorty Hitchcock Classic,174,W,DEC,4 - 1,Brad Laughlin,51265,Army West Point,Creighton Edsell,56934,Penn State
+2020,01/11,Shorty Hitchcock Classic,174,L,MFOR,0 - 0,Bryson Alsteen,63217,Buffalo,Creighton Edsell,56934,Penn State
+2020,12/22,Wilkes Open,174,L,FALL,1:51,Mark Hall,44839,Penn State,Creighton Edsell,56934,Penn State
+2020,12/22,Wilkes Open,174,W,DEC,4 - 1,Edmond Ruth,51277,Lehigh,Creighton Edsell,56934,Penn State
+2020,12/22,Wilkes Open,174,W,FALL,1:53,Tommy Disisto,54763,Muhlenberg,Creighton Edsell,56934,Penn State
+2020,12/22,Wilkes Open,174,W,DEC,6 - 1,Benjamin Root,51221,American,Creighton Edsell,56934,Penn State
+2020,11/17,Black Knight Invitational,184,L,DEC,3 - 1,Jelani Embree,49179,Michigan,Creighton Edsell,56934,Penn State
+2020,11/17,Black Knight Invitational,184,L,DEC,6 - 3,Kyle Jasenski,51164,Maryland,Creighton Edsell,56934,Penn State
+2020,11/17,Black Knight Invitational,184,W,DEC,8 - 4,Jakob Hinz,40067,Indiana,Creighton Edsell,56934,Penn State
+2020,11/17,Black Knight Invitational,184,W,DEC,11 - 4,Ben Cushman,57359,Central Michigan,Creighton Edsell,56934,Penn State
+2020,11/10,Navy - Penn State Dual,184,W,DEC,5 - 2,Andrew Buckley,44654,Navy,Creighton Edsell,56934,Penn State
+2020,03/07,Big Ten Championships,184,W,DEC,3 - 2,Cameron Caffey,50273,Michigan State,Aaron Brooks,54280,Penn State
+2020,03/07,Big Ten Championships,184,W,FALL,4:00,Taylor Venz,44854,Nebraska,Aaron Brooks,54280,Penn State
+2020,03/07,Big Ten Championships,184,W,MD,15 - 4,Owen Webster,48190,Minnesota,Aaron Brooks,54280,Penn State
+2020,02/23,American - Penn State Dual,184,W,DEC,8 - 5,Tanner Harvey,48451,American,Aaron Brooks,54280,Penn State
+2020,02/15,Ohio State - Penn State Dual,184,W,MD,15 - 4,Rocky Jordan,50928,Ohio State,Aaron Brooks,54280,Penn State
+2020,02/09,Penn State - Minnesota Dual,184,W,MD,13 - 3,Owen Webster,48190,Minnesota,Aaron Brooks,54280,Penn State
+2020,02/07,Penn State - Wisconsin Dual,184,W,DEC,3 - 2,Johnny Sebastian,20224,Wisconsin,Aaron Brooks,54280,Penn State
+2020,01/31,Penn State - Iowa Dual,184,W,DEC,7 - 3,Abe Assad,56936,Iowa,Aaron Brooks,54280,Penn State
+2020,01/24,Penn State - Nebraska Dual,184,L,DEC,9 - 5,Taylor Venz,44854,Nebraska,Aaron Brooks,54280,Penn State
+2020,01/19,Rutgers - Penn State Dual,184,W,FALL,4:36,Billy Janzer,49473,Rutgers,Aaron Brooks,54280,Penn State
+2020,01/10,Illinois - Penn State Dual,184,W,DEC,9 - 4,Zach Braunagel,50925,Illinois,Aaron Brooks,54280,Penn State
+2020,12/08,Pennsylvania - Penn State Dual,184,W,TF5,19 - 4 6:03,Jesse Quatse,56151,Pennsylvania,Aaron Brooks,54280,Penn State
+2020,12/06,Penn State - Lehigh Dual,184,W,DEC,10 - 5,Chris Weiler,45108,Lehigh,Aaron Brooks,54280,Penn State
+2020,12/01,Mat-Town Open I,184,W,FALL,4:50,Kyle Myers,62590,West Virginia,Aaron Brooks,54280,Penn State
+2020,12/01,Mat-Town Open I,184,W,DEC,11 - 5,Jared McGill,50995,Pittsburgh,Aaron Brooks,54280,Penn State
+2020,12/01,Mat-Town Open I,184,W,DEC,7 - 4,Kyle Inlander,44835,Bucknell,Aaron Brooks,54280,Penn State
+2020,02/23,Mat-Town Open II,184,W,DEC,6 - 2,Andrew Shedleski,56939,Lehigh,Donovan Ball,57646,Penn State
+2020,02/23,Mat-Town Open II,184,W,DEC,5 - 3,Kendall Elfstrum,49299,NJRTC,Donovan Ball,57646,Penn State
+2020,02/23,Mat-Town Open II,184,L,DEC,6 - 4,Kendall Elfstrum,49299,NJRTC,Donovan Ball,57646,Penn State
+2020,02/23,Mat-Town Open II,184,L,TB-1,6 - 5,Lars Schafle,63167,Buffalo,Donovan Ball,57646,Penn State
+2020,02/23,Mat-Town Open II,184,W,DEC,6 - 1,Cory Day,62418,Binghamton,Donovan Ball,57646,Penn State
+2020,02/08,Messiah Open,184,W,MD,12 - 0,Kal-El Corbitt,66713,The College of New Jersey,Donovan Ball,57646,Penn State
+2020,02/08,Messiah Open,184,W,MD,12 - 3,Robert Gennat,64619,Stevens Tech,Donovan Ball,57646,Penn State
+2020,02/08,Messiah Open,184,W,TF5,18 - 3 7:00,Kyle Hillermeier,58159,Delaware Valley,Donovan Ball,57646,Penn State
+2020,02/08,Messiah Open,184,W,FALL,1:55,Sam Karel,52226,Liberty University,Donovan Ball,57646,Penn State
+2020,12/22,Wilkes Open,184,W,DEC,11 - 5,Joe Kurtz,62904,Penn State,Donovan Ball,57646,Penn State
+2020,12/22,Wilkes Open,184,W,MD,17 - 5,Tyler Lynde,60380,Nassau Community College,Donovan Ball,57646,Penn State
+2020,12/22,Wilkes Open,184,L,DEC,8 - 3,Gino Sita,52064,Alderson-Broaddus University,Donovan Ball,57646,Penn State
+2020,12/22,Wilkes Open,184,W,MD,10 - 2,Evan Morrill,48203,Millersville,Donovan Ball,57646,Penn State
+2020,12/07,Patriot Open,184,L,DEC,5 - 4,Jha'Quan Anderson,62407,Gardner-Webb,Donovan Ball,57646,Penn State
+2020,12/07,Patriot Open,184,W,DEC,3 - 2,Chris Garrison,62401,NC State,Donovan Ball,57646,Penn State
+2020,12/07,Patriot Open,184,W,DEC,8 - 6,Jacob Ferreira,56807,NC State,Donovan Ball,57646,Penn State
+2020,12/07,Patriot Open,184,L,TF5,17 - 1 6:30,Joe Franzese,57273,Columbia,Donovan Ball,57646,Penn State
+2020,11/10,Jonathan Kaloust Bearcat Open,184,L,DEC,6 - 3,Jonathan Fagen,57304,Cornell,Donovan Ball,57646,Penn State
+2020,11/10,Jonathan Kaloust Bearcat Open,184,L,DEC,12 - 7,Kendall Elfstrum,49299,NJRTC,Donovan Ball,57646,Penn State
+2020,11/03,Clarion Open,184,L,DEC,5 - 2,Ray Bernot,45102,Lock Haven,Donovan Ball,57646,Penn State
+2020,11/03,Clarion Open,184,L,DEC,4 - 3,Tyler Bates,56413,Kent State,Donovan Ball,57646,Penn State
+2020,02/23,Mat-Town Open II,184,W,DEC,5 - 0,Andrew Shedleski,56939,Lehigh,Ritchie Heywood,62901,Penn State
+2020,02/23,Mat-Town Open II,184,L,TF5,16 - 0 1:55,Drew Peck,49055,Virginia,Ritchie Heywood,62901,Penn State
+2020,02/23,Mat-Town Open II,184,W,FALL,0:47,Ray Bernot,45102,Lock Haven,Ritchie Heywood,62901,Penn State
+2020,12/22,Wilkes Open,184,W,MD,14 - 1,Dawson Tallant,65887,Wilkes,Ritchie Heywood,62901,Penn State
+2020,12/22,Wilkes Open,184,W,MD,12 - 3,William Smith,65886,Williams College,Ritchie Heywood,62901,Penn State
+2020,12/22,Wilkes Open,184,L,MD,10 - 2,Colin Fegley,63035,Lock Haven,Ritchie Heywood,62901,Penn State
+2020,12/22,Wilkes Open,184,L,FALL,4:37,Cory Day,62418,Binghamton,Ritchie Heywood,62901,Penn State
+2020,12/22,Wilkes Open,184,W,MFOR,0 - 0,Evan Morrill,48203,Millersville,Ritchie Heywood,62901,Penn State
+2020,11/10,Jonathan Kaloust Bearcat Open,184,W,FALL,5:51,Michael Rivera,63965,Unattached,Ritchie Heywood,62901,Penn State
+2020,11/10,Jonathan Kaloust Bearcat Open,184,L,DEC,4 - 3,Jonah Barley,51013,Cornell,Ritchie Heywood,62901,Penn State
+2020,11/10,Jonathan Kaloust Bearcat Open,184,L,DEC,3 - 2,Brandon Stokes,44634,Bucknell,Ritchie Heywood,62901,Penn State
+2020,02/29,National Collegiate Open,184,W,FALL,1:25,Hunter Morse,64816,Unattached,Joe Kurtz,62904,Penn State
+2020,02/29,National Collegiate Open,184,L,TF5,17 - 2 5:21,Noah Bushman,49266,Old Dominion,Joe Kurtz,62904,Penn State
+2020,02/29,National Collegiate Open,184,L,MD,12 - 0,Michael Baker,56891,Columbia,Joe Kurtz,62904,Penn State
+2020,02/08,Messiah Open,184,W,DEC,6 - 5,Austin Williams,62087,Delaware Valley,Joe Kurtz,62904,Penn State
+2020,02/08,Messiah Open,184,L,FALL,5:47,Sam Karel,52226,Liberty University,Joe Kurtz,62904,Penn State
+2020,02/08,Messiah Open,184,W,DEC,8 - 7,Caleb Edwards,46235,Unattached,Joe Kurtz,62904,Penn State
+2020,02/08,Messiah Open,184,L,MFOR,0 - 0,Colin Fegley,63035,Lock Haven,Joe Kurtz,62904,Penn State
+2020,12/22,Wilkes Open,184,L,DEC,11 - 5,Donovan Ball,57646,Penn State,Joe Kurtz,62904,Penn State
+2020,12/22,Wilkes Open,184,W,DEC,11 - 8,Michael Cannon,54760,Muhlenberg,Joe Kurtz,62904,Penn State
+2020,12/22,Wilkes Open,184,L,DEC,7 - 5,Colin Fegley,63035,Lock Haven,Joe Kurtz,62904,Penn State
+2020,12/22,Wilkes Open,184,W,DEC,7 - 4,Cory Day,62418,Binghamton,Joe Kurtz,62904,Penn State
+2020,12/01,Mat-Town Open I,197,W,MD,12 - 3,Eddie Smith,62902,Penn State,Joe Kurtz,62904,Penn State
+2020,12/01,Mat-Town Open I,197,L,DEC,7 - 4,Sam Mitchell,61028,Buffalo,Joe Kurtz,62904,Penn State
+2020,12/01,Mat-Town Open I,197,L,FALL,1:30,Blake Reynolds,49167,Lock Haven,Joe Kurtz,62904,Penn State
+2020,11/03,Clarion Open,197,L,DEC,4 - 1,Ryan Boyle,62134,Kent State,Joe Kurtz,62904,Penn State
+2020,11/03,Clarion Open,197,L,FALL,2:11,Greg Bulsak,44655,Clarion,Joe Kurtz,62904,Penn State
+2020,03/07,Big Ten Championships,197,L,INJ,3:00,Jacob Warner,49151,Iowa,Shakur Rasheed,20305,Penn State
+2020,03/07,Big Ten Championships,197,W,MFOR,0 - 0,Christian Brunner,44744,Purdue,Shakur Rasheed,20305,Penn State
+2020,03/07,Big Ten Championships,197,L,DEC,4 - 3,Eric Schultz,44853,Nebraska,Shakur Rasheed,20305,Penn State
+2020,03/07,Big Ten Championships,197,W,DEC,3 - 1,Jacob Warner,49151,Iowa,Shakur Rasheed,20305,Penn State
+2020,03/07,Big Ten Championships,197,W,FALL,0:53,Matt Wroblewski,50019,Illinois,Shakur Rasheed,20305,Penn State
+2020,02/23,American - Penn State Dual,197,W,FALL,1:04,William Jarrell,62907,American,Shakur Rasheed,20305,Penn State
+2020,02/15,Ohio State - Penn State Dual,197,L,MD,14 - 6,Kollin Moore,39638,Ohio State,Shakur Rasheed,20305,Penn State
+2020,02/09,Penn State - Minnesota Dual,197,W,DEC,7 - 5,Garrett Joles,50908,Minnesota,Shakur Rasheed,20305,Penn State
+2020,02/07,Penn State - Wisconsin Dual,197,W,DEC,6 - 0,Taylor Watkins,40180,Wisconsin,Shakur Rasheed,20305,Penn State
+2020,01/31,Penn State - Iowa Dual,197,L,DEC,4 - 2,Jacob Warner,49151,Iowa,Shakur Rasheed,20305,Penn State
+2020,01/24,Penn State - Nebraska Dual,197,L,DEC,3 - 1,Eric Schultz,44853,Nebraska,Shakur Rasheed,20305,Penn State
+2020,01/19,Rutgers - Penn State Dual,197,W,DEC,6 - 0,Jordan Pagano,20304,Rutgers,Shakur Rasheed,20305,Penn State
+2020,01/12,Northwestern - Penn State Dual,197,L,DEC,7 - 5,Lucas Davison,51236,Northwestern,Shakur Rasheed,20305,Penn State
+2020,01/10,Illinois - Penn State Dual,197,W,DEC,3 - 0,Matt Wroblewski,50019,Illinois,Shakur Rasheed,20305,Penn State
+2020,01/01,Southern Scuffle,197,L,DEC,9 - 7,Ethan Laird,50134,Rider,Michael Beard,50614,Penn State
+2020,01/01,Southern Scuffle,197,L,DEC,9 - 7,Nathan Traxler,45395,Stanford,Michael Beard,50614,Penn State
+2020,01/01,Southern Scuffle,197,W,DEC,10 - 5,Dakota Geer,45373,Oklahoma State,Michael Beard,50614,Penn State
+2020,01/01,Southern Scuffle,197,W,DEC,1 - 0,Nick Reenan,45035,NC State,Michael Beard,50614,Penn State
+2020,01/01,Southern Scuffle,197,W,MD,9 - 0,Jordan Pagano,20304,Rutgers,Michael Beard,50614,Penn State
+2020,01/01,Southern Scuffle,197,W,TF5,15 - 0 3:06,Martin Duane,45583,The Citadel,Michael Beard,50614,Penn State
+2020,12/22,Wilkes Open,197,W,TF5,16 - 0 2:33,Jason Carter,65879,Ursinus,Michael Beard,50614,Penn State
+2020,12/22,Wilkes Open,197,W,TF5,16 - 0 1:24,Ethan Seeley,62875,Franklin & Marshall,Michael Beard,50614,Penn State
+2020,12/22,Wilkes Open,197,W,TF5,15 - 0 3:27,Elijah Jones,56940,Lehigh,Michael Beard,50614,Penn State
+2020,12/22,Wilkes Open,197,W,TF5,20 - 5 3:57,Sam DePrez,56480,Binghamton,Michael Beard,50614,Penn State
+2020,12/01,Mat-Town Open I,197,W,MD,13 - 3,Sam Mitchell,61028,Buffalo,Michael Beard,50614,Penn State
+2020,12/01,Mat-Town Open I,197,W,TF5,22 - 6 5:00,Mason McCready,57223,Bucknell,Michael Beard,50614,Penn State
+2020,12/01,Mat-Town Open I,197,W,TF5,18 - 3 7:00,Parker McClellan,56598,Lock Haven,Michael Beard,50614,Penn State
+2020,11/03,Clarion Open,197,W,MD,14 - 2,Zach Ancewicz,49132,Edinboro,Michael Beard,50614,Penn State
+2020,11/03,Clarion Open,197,L,DEC,11 - 8,Greg Bulsak,44655,Clarion,Michael Beard,50614,Penn State
+2020,11/03,Clarion Open,197,W,DEC,8 - 2,Kyle Murphy,44915,Bloomsburg,Michael Beard,50614,Penn State
+2020,12/08,Pennsylvania - Penn State Dual,197,W,DEC,6 - 5,Cole Urbas,56773,Pennsylvania,Kyle Conel,19973,Penn State
+2020,12/06,Penn State - Lehigh Dual,197,L,DEC,3 - 1,Jake Jakobsen,46924,Lehigh,Kyle Conel,19973,Penn State
+2020,11/22,Penn State - Arizona State Dual,197,L,DEC,10 - 4,Kordell Norfleet,49038,Arizona State,Kyle Conel,19973,Penn State
+2020,11/17,Black Knight Invitational,197,L,MFOR,0 - 0,Austin Hoopes,57103,Penn State,Kyle Conel,19973,Penn State
+2020,11/17,Black Knight Invitational,197,W,TB-2,2 - 1,Jaron Smith,41353,Maryland,Kyle Conel,19973,Penn State
+2020,11/17,Black Knight Invitational,197,L,DEC,5 - 3,Aaron Bolo,50919,Central Michigan,Kyle Conel,19973,Penn State
+2020,11/10,Navy - Penn State Dual,197,W,DEC,4 - 3,Jake Koser,50890,Navy,Kyle Conel,19973,Penn State
+2020,02/02,Maryland - Penn State Dual,197,W,DEC,3 - 2,Niko Cappello,44773,Maryland,Austin Hoopes,57103,Penn State
+2020,01/11,Shorty Hitchcock Classic,197,W,DEC,5 - 2,Jack Files,62448,Millersville,Austin Hoopes,57103,Penn State
+2020,01/11,Shorty Hitchcock Classic,197,L,DEC,9 - 7,Chris Garrison,62401,NC State,Austin Hoopes,57103,Penn State
+2020,01/11,Shorty Hitchcock Classic,197,W,SV-1,3 - 1,Mason McCready,57223,Bucknell,Austin Hoopes,57103,Penn State
+2020,01/11,Shorty Hitchcock Classic,197,W,DEC,5 - 2,Ethan Seeley,62875,Franklin & Marshall,Austin Hoopes,57103,Penn State
+2020,01/11,Shorty Hitchcock Classic,197,W,DEC,4 - 1,Michael Waszen,51829,Franklin & Marshall,Austin Hoopes,57103,Penn State
+2020,12/22,Wilkes Open,197,W,FALL,1:47,Daniel Robitaille,65884,Nassau Community College,Austin Hoopes,57103,Penn State
+2020,12/22,Wilkes Open,197,W,DEC,4 - 2,Jason Carter,65879,Ursinus,Austin Hoopes,57103,Penn State
+2020,12/22,Wilkes Open,197,W,FALL,1:26,Patrick Eltouny,65864,Union County College,Austin Hoopes,57103,Penn State
+2020,12/22,Wilkes Open,197,L,DEC,3 - 1,Ethan Seeley,62875,Franklin & Marshall,Austin Hoopes,57103,Penn State
+2020,12/22,Wilkes Open,197,L,DEC,8 - 5,Elijah Jones,56940,Lehigh,Austin Hoopes,57103,Penn State
+2020,12/08,Pennsylvania - Penn State Dual,285,L,MD,14 - 4,Joey Slackman,56929,Pennsylvania,Austin Hoopes,57103,Penn State
+2020,11/17,Black Knight Invitational,197,W,MFOR,0 - 0,Kyle Conel,19973,Penn State,Austin Hoopes,57103,Penn State
+2020,11/17,Black Knight Invitational,197,L,DEC,3 - 2,Niko Cappello,44773,Maryland,Austin Hoopes,57103,Penn State
+2020,11/17,Black Knight Invitational,197,L,DEC,3 - 2,Aaron Bolo,50919,Central Michigan,Austin Hoopes,57103,Penn State
+2020,11/17,Black Knight Invitational,197,L,DEC,10 - 4,Landon Pelham,44838,Central Michigan,Austin Hoopes,57103,Penn State
+2020,11/17,Black Knight Invitational,197,W,DEC,3 - 2,Kyle Murphy,44915,Bloomsburg,Austin Hoopes,57103,Penn State
+2020,02/08,Messiah Open,197,L,TF5,15 - 0 0:00,Michael Kustanbauter,66710,Lycoming,Eddie Smith,62902,Penn State
+2020,02/08,Messiah Open,197,W,FALL,5:54,Tymothy Nevadomsky,66720,Lycoming,Eddie Smith,62902,Penn State
+2020,02/08,Messiah Open,197,L,MFOR,0 - 0,Sean Gillispie,66719,Liberty University,Eddie Smith,62902,Penn State
+2020,02/08,Messiah Open,197,L,TF5,15 - 0 7:00,Michael Kustanbauter,66710,Lycoming,Eddie Smith,62902,Penn State
+2020,02/08,Messiah Open,197,L,FALL,5:41,Blake Barrick,64992,Liberty University,Eddie Smith,62902,Penn State
+2020,12/22,Wilkes Open,197,L,TF5,15 - 0 6:06,Sam DePrez,56480,Binghamton,Eddie Smith,62902,Penn State
+2020,12/22,Wilkes Open,197,L,FALL,2:24,Michael Waszen,51829,Franklin & Marshall,Eddie Smith,62902,Penn State
+2020,12/07,Patriot Open,197,L,FALL,2:08,William Jarrell,62907,American,Eddie Smith,62902,Penn State
+2020,12/07,Patriot Open,197,L,FALL,2:03,Alex Hopkins,45122,Army West Point,Eddie Smith,62902,Penn State
+2020,12/01,Mat-Town Open I,197,L,MD,12 - 3,Joe Kurtz,62904,Penn State,Eddie Smith,62902,Penn State
+2020,12/01,Mat-Town Open I,197,L,FALL,2:29,Parker McClellan,56598,Lock Haven,Eddie Smith,62902,Penn State
+2020,11/03,Clarion Open,197,L,FALL,1:19,Parker McClellan,56598,Lock Haven,Eddie Smith,62902,Penn State
+2020,11/03,Clarion Open,197,L,MD,12 - 4,Ryan Boyle,62134,Kent State,Eddie Smith,62902,Penn State
+2020,03/07,Big Ten Championships,285,L,MFOR,0 - 0,Luke Luffman,56708,Illinois,Seth Nevills,50625,Penn State
+2020,03/07,Big Ten Championships,285,L,INJ,4:19,Alex Esposito,50637,Rutgers,Seth Nevills,50625,Penn State
+2020,02/23,American - Penn State Dual,285,W,MD,10 - 2,Niko Camacho,49032,American,Seth Nevills,50625,Penn State
+2020,02/15,Ohio State - Penn State Dual,285,L,DEC,5 - 4,Gary Traub,45199,Ohio State,Seth Nevills,50625,Penn State
+2020,02/09,Penn State - Minnesota Dual,285,L,MD,13 - 5,Gable Steveson,50624,Minnesota,Seth Nevills,50625,Penn State
+2020,02/02,Maryland - Penn State Dual,285,W,TF5,21 - 6 6:07,Parker Robinson,56203,Maryland,Seth Nevills,50625,Penn State
+2020,01/31,Penn State - Iowa Dual,285,L,DEC,7 - 0,Anthony Cassioppi,50650,Iowa,Seth Nevills,50625,Penn State
+2020,01/24,Penn State - Nebraska Dual,285,W,DEC,4 - 0,Christian Lance,41064,Nebraska,Seth Nevills,50625,Penn State
+2020,01/19,Rutgers - Penn State Dual,285,W,FALL,2:24,Alex Esposito,50637,Rutgers,Seth Nevills,50625,Penn State
+2020,01/12,Northwestern - Penn State Dual,285,W,DEC,8 - 1,Jack Heyob,55585,Northwestern,Seth Nevills,50625,Penn State
+2020,01/10,Illinois - Penn State Dual,285,W,DEC,6 - 3,Luke Luffman,56708,Illinois,Seth Nevills,50625,Penn State
+2020,12/22,Wilkes Open,285,W,DEC,8 - 2,Joshua Walls,56969,Millersville,Seth Nevills,50625,Penn State
+2020,12/22,Wilkes Open,285,W,FALL,4:05,Roger Horton,60533,Wilkes,Seth Nevills,50625,Penn State
+2020,12/22,Wilkes Open,285,W,TF5,17 - 2 7:00,Keegan Connelly,54422,Scranton,Seth Nevills,50625,Penn State
+2020,12/01,Mat-Town Open I,285,W,FALL,1:42,Cole Rickert,50864,Pittsburgh,Seth Nevills,50625,Penn State
+2020,12/01,Mat-Town Open I,285,W,DEC,3 - 0,Victor Lacombe,49659,Lehigh,Seth Nevills,50625,Penn State
+2020,12/01,Mat-Town Open I,285,W,FALL,2:45,Greg Hodulick,49406,Buffalo,Seth Nevills,50625,Penn State
+2020,12/06,Penn State - Lehigh Dual,285,W,DEC,9 - 4,Jordan Wood,45107,Lehigh,Anthony Cassar,20299,Penn State
+2020,11/22,Penn State - Arizona State Dual,285,W,DEC,9 - 5,Tanner Hall,40231,Arizona State,Anthony Cassar,20299,Penn State
+2020,11/10,Navy - Penn State Dual,285,W,FALL,4:41,John Birchmeier,54075,Navy,Anthony Cassar,20299,Penn State
+2020,02/23,Mat-Town Open II,285,W,FALL,1:32,Zakaria Loudini,65085,Pennsylvania,Greg Kerkvliet,61842,Penn State
+2020,02/23,Mat-Town Open II,285,W,FALL,0:50,Michael Tyle,59072,Rider,Greg Kerkvliet,61842,Penn State
+2020,02/23,Mat-Town Open II,285,W,MFOR,0 - 0,Ryan Cloud,39972,Rider,Greg Kerkvliet,61842,Penn State
+2020,02/23,Mat-Town Open II,285,W,MD,21 - 9,Gavin Hoffman,50609,Ohio State,Greg Kerkvliet,61842,Penn State
+2020,01/11,Shorty Hitchcock Classic,285,W,DEC,6 - 4,Lewis Fernandes,56901,Spartan Combat RTC,Greg Kerkvliet,61842,Penn State
+2020,01/11,Shorty Hitchcock Classic,285,W,FALL,0:48,Daimere Wilson-Turner,62172,Davis & Elkins,Greg Kerkvliet,61842,Penn State
+2020,01/11,Shorty Hitchcock Classic,285,W,FALL,4:29,Eric Keosseian,49044,Army West Point,Greg Kerkvliet,61842,Penn State
+2020,01/11,Shorty Hitchcock Classic,285,W,FALL,2:34,Caleb Warner,48403,Millersville,Greg Kerkvliet,61842,Penn State
+2020,01/11,Shorty Hitchcock Classic,285,W,DEC,4 - 1,Vincenzo Pelusi,50112,Franklin & Marshall,Greg Kerkvliet,61842,Penn State
+2020,12/07,Patriot Open,285,L,MD,17 - 5,Jacob Bullock,57724,Old Dominion,Keagan Carmenatty,62903,Penn State
+2020,12/07,Patriot Open,285,L,DEC,6 - 4,Jeffrey Linker,57166,Gardner-Webb,Keagan Carmenatty,62903,Penn State
+2020,12/07,Patriot Open,285,W,FALL,6:38,Gabriel Pickett,57164,Gardner-Webb,Keagan Carmenatty,62903,Penn State
+2020,12/07,Patriot Open,285,W,DEC,3 - 1,Derek Rose,51019,Drexel,Keagan Carmenatty,62903,Penn State
+2020,11/10,Jonathan Kaloust Bearcat Open,285,L,DEC,6 - 3,Dante DelBonis,56241,Sacred Heart,Keagan Carmenatty,62903,Penn State
+2020,11/10,Jonathan Kaloust Bearcat Open,285,L,MD,10 - 0,Aidan Conner,57524,Princeton,Keagan Carmenatty,62903,Penn State
+2020,11/10,Jonathan Kaloust Bearcat Open,285,W,FALL,5:00,Obinna Ajah,46018,Princeton,Keagan Carmenatty,62903,Penn State
+2020,11/03,Clarion Open,285,L,MD,10 - 2,Dan Scheib,56300,Shippensburg,Keagan Carmenatty,62903,Penn State
+2020,11/03,Clarion Open,285,W,DEC,12 - 8,Shane Noonan,58615,Edinboro,Keagan Carmenatty,62903,Penn State
+2020,11/03,Clarion Open,285,L,DEC,2 - 0,Tyler Bagoly,49098,Clarion,Keagan Carmenatty,62903,Penn State

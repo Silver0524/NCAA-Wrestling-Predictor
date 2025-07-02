@@ -1,0 +1,606 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2015,03/07,Big Ten Championships,125,L,DEC,2 - 1,Conor Youtsey,13271,Michigan,Sean McCabe,12035,Rutgers
+2015,03/07,Big Ten Championships,125,L,DEC,7 - 2,Tim Lambert,13256,Nebraska,Sean McCabe,12035,Rutgers
+2015,02/14,Princeton - Rutgers Dual,125,W,MD,10 - 2,John Aslanian,13333,Princeton,Sean McCabe,12035,Rutgers
+2015,02/08,Rutgers - Northwestern Dual,125,L,DEC,7 - 5,Garrison White,12112,Northwestern,Sean McCabe,12035,Rutgers
+2015,02/06,Rutgers - Wisconsin Dual,125,W,DEC,2 - 1,Johnny Jimenez,20483,Wisconsin,Sean McCabe,12035,Rutgers
+2015,01/31,Navy - Rutgers Dual,125,L,DEC,3 - 0,Cam Timok,20624,Navy,Sean McCabe,12035,Rutgers
+2015,01/25,Rutgers - Nebraska Dual,125,L,MD,12 - 1,Tim Lambert,13256,Nebraska,Sean McCabe,12035,Rutgers
+2015,01/18,Rutgers - Maryland Dual,125,W,DEC,3 - 1,Josh Polacek,16017,Maryland,Sean McCabe,12035,Rutgers
+2015,01/16,Penn State - Rutgers Dual,125,L,MD,10 - 2,Jordan Conaway,15981,Penn State,Sean McCabe,12035,Rutgers
+2015,01/11,Minnesota - Rutgers Dual,125,W,DEC,5 - 3,Jordan Bremer,16116,Minnesota,Sean McCabe,12035,Rutgers
+2015,01/09,Rutgers - Illinois Dual,125,W,DEC,5 - 4,Dominic Olivieri,13265,Illinois,Sean McCabe,12035,Rutgers
+2015,01/02,Iowa - Rutgers Dual,125,L,TF4,25 - 10 7:00,Thomas Gilman,13245,Iowa,Sean McCabe,12035,Rutgers
+2015,12/21,Rutgers - Army Dual,125,W,DEC,8 - 2,Sean Badua,19635,Army West Point,Sean McCabe,12035,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,125,L,DEC,4 - 2,Zeke Moisey,20472,West Virginia,Sean McCabe,12035,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,125,L,MD,15 - 2,Nahshon Garrett,12070,Cornell,Sean McCabe,12035,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,125,W,MFOR,0 - 0,Gabe Balderas,22367,San Francisco State,Sean McCabe,12035,Rutgers
+2015,11/29,Rutgers - Oklahoma Dual,125,W,DEC,4 - 3,Sean Williams,16527,Oklahoma,Sean McCabe,12035,Rutgers
+2015,11/29,Rutgers - West Virginia Dual,125,L,DEC,9 - 3,Zeke Moisey,20472,West Virginia,Sean McCabe,12035,Rutgers
+2015,11/22,TCNJ Fall College Open,125,W,DEC,5 - 2,Josh Patrick,12056,Rutgers,Sean McCabe,12035,Rutgers
+2015,11/22,TCNJ Fall College Open,125,W,MD,17 - 5,James Goldschmidt,23285,The Citadel,Sean McCabe,12035,Rutgers
+2015,11/22,TCNJ Fall College Open,125,W,FALL,5:53,Brandon Hyman,22636,Midland,Sean McCabe,12035,Rutgers
+2015,11/16,Hofstra - Rutgers Dual,125,W,DEC,6 - 0,Travis Passaro,11857,Hofstra,Sean McCabe,12035,Rutgers
+2015,11/02,Delaware Valley - Rutgers Dual,125,W,MD,14 - 4,Connor Kirkegard,21548,Delaware Valley,Sean McCabe,12035,Rutgers
+2015,11/02,Stevens Institute of Technology  - Rutgers Dual,125,W,DEC,4 - 2,Rob Murray,12160,Stevens Tech,Sean McCabe,12035,Rutgers
+2015,03/19,NCAA Championships,133,L,DEC,9 - 4,Mason Beckman,12016,Lehigh,Scott DelVecchio,12021,Rutgers
+2015,03/19,NCAA Championships,133,L,MD,11 - 3,Jimmy Gulibon,13371,Penn State,Scott DelVecchio,12021,Rutgers
+2015,03/07,Big Ten Championships,133,W,FALL,6:34,Danny Sabatello,11741,Purdue,Scott DelVecchio,12021,Rutgers
+2015,03/07,Big Ten Championships,133,W,DEC,9 - 6,Dominick Malone,12015,Northwestern,Scott DelVecchio,12021,Rutgers
+2015,03/07,Big Ten Championships,133,L,DEC,8 - 5,Rossi Bruno,15289,Michigan,Scott DelVecchio,12021,Rutgers
+2015,03/07,Big Ten Championships,133,L,DEC,3 - 1,Danny Sabatello,11741,Purdue,Scott DelVecchio,12021,Rutgers
+2015,02/19,Rutgers - Drexel Dual,133,L,DEC,3 - 2,Kevin Devoy Jr,12047,Drexel,Scott DelVecchio,12021,Rutgers
+2015,02/14,Princeton - Rutgers Dual,133,W,MD,13 - 5,Jordan Reich,20339,Princeton,Scott DelVecchio,12021,Rutgers
+2015,02/08,Rutgers - Northwestern Dual,133,W,MD,10 - 1,Dominick Malone,12015,Northwestern,Scott DelVecchio,12021,Rutgers
+2015,02/06,Rutgers - Wisconsin Dual,133,L,MD,17 - 4,Ryan Taylor,12219,Wisconsin,Scott DelVecchio,12021,Rutgers
+2015,02/01,Ohio State - Rutgers Dual,133,W,DEC,7 - 1,Johnni DiJulius,14679,Ohio State,Scott DelVecchio,12021,Rutgers
+2015,01/31,Navy - Rutgers Dual,133,W,DEC,7 - 4,Colton Rasche,13383,Navy,Scott DelVecchio,12021,Rutgers
+2015,01/25,Rutgers - Nebraska Dual,133,L,DEC,7 - 4,Eric Montoya,13414,Nebraska,Scott DelVecchio,12021,Rutgers
+2015,01/18,Rutgers - Maryland Dual,133,W,DEC,10 - 4,Geoffrey Alexander,12022,Maryland,Scott DelVecchio,12021,Rutgers
+2015,01/16,Penn State - Rutgers Dual,133,L,MD,12 - 2,Jimmy Gulibon,13371,Penn State,Scott DelVecchio,12021,Rutgers
+2015,01/11,Minnesota - Rutgers Dual,133,W,DEC,8 - 3,Jordan Kingsley,12238,Minnesota,Scott DelVecchio,12021,Rutgers
+2015,01/09,Rutgers - Illinois Dual,133,L,DEC,11 - 8,Zane Richards,14736,Illinois,Scott DelVecchio,12021,Rutgers
+2015,01/02,Iowa - Rutgers Dual,133,W,DEC,10 - 3,Phillip Laux,15040,Iowa,Scott DelVecchio,12021,Rutgers
+2015,12/21,Rutgers - Davidson Dual,133,W,MD,11 - 2,Anthony Elias,15359,Davidson,Scott DelVecchio,12021,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,133,L,DEC,6 - 2,Kevin Norstrem,11999,Virginia Tech,Scott DelVecchio,12021,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,133,W,MD,11 - 2,Zachary Shank,22787,Western Colorado,Scott DelVecchio,12021,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,133,W,DEC,9 - 3,Michael Espinoza,21974,Northern Colorado,Scott DelVecchio,12021,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,133,W,DEC,6 - 2,Cord Coronado,15172,Arizona State,Scott DelVecchio,12021,Rutgers
+2015,11/29,Rutgers - Oklahoma Dual,133,L,DEC,11 - 5,Cody Brewer,12037,Oklahoma,Scott DelVecchio,12021,Rutgers
+2015,11/29,Rutgers - Buffalo Dual,133,W,FALL,5:57,Sean Peacock,19725,Buffalo,Scott DelVecchio,12021,Rutgers
+2015,11/29,Rutgers - West Virginia Dual,133,W,DEC,7 - 4,Cory Stainbrook,12131,West Virginia,Scott DelVecchio,12021,Rutgers
+2015,11/16,Hofstra - Rutgers Dual,133,W,DEC,9 - 8,Maverick Passaro,20545,Hofstra,Scott DelVecchio,12021,Rutgers
+2015,11/02,Clarion Open,133,W,DEC,6 - 4,Jade Rauser,13291,Utah Valley,Scott DelVecchio,12021,Rutgers
+2015,11/02,Clarion Open,133,W,MD,13 - 2,rodney sunday,21724,Seton Hill,Scott DelVecchio,12021,Rutgers
+2015,11/02,Clarion Open,133,W,MD,12 - 4,Nolan Whitely,21166,Unattached,Scott DelVecchio,12021,Rutgers
+2015,11/02,Clarion Open,133,W,DEC,5 - 2,Chase Zemenak,19681,Bloomsburg,Scott DelVecchio,12021,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,141,L,DEC,3 - 2,Jeff Canfora,11887,Pennsylvania,Anthony Giraldo,20359,Rutgers
+2015,12/29,Midlands Championships,133,L,MFOR,0 - 0,Ryan Taylor,12219,Wisconsin,Anthony Giraldo,20359,Rutgers
+2015,12/29,Midlands Championships,133,W,DEC,4 - 3,Brance Simms,11703,South Dakota State,Anthony Giraldo,20359,Rutgers
+2015,12/29,Midlands Championships,133,W,DEC,6 - 1,Michael Hayes,15134,Old Dominion,Anthony Giraldo,20359,Rutgers
+2015,12/29,Midlands Championships,133,L,TB-2,4 - 4,Kevin Norstrem,11999,Virginia Tech,Anthony Giraldo,20359,Rutgers
+2015,12/29,Midlands Championships,133,W,MD,10 - 1,Josh Alber,20208,Northern Iowa,Anthony Giraldo,20359,Rutgers
+2015,12/07,Nittany Lion Open,133,W,TF4,21 - 5 6:37,Brendan Hasson,23584,Spartan Combat RTC,Anthony Giraldo,20359,Rutgers
+2015,12/07,Nittany Lion Open,133,W,MD,9 - 1,Camden Fischer,19978,Lehigh,Anthony Giraldo,20359,Rutgers
+2015,12/07,Nittany Lion Open,133,W,DEC,7 - 2,Tyler Goodwin,18147,Maryland,Anthony Giraldo,20359,Rutgers
+2015,12/07,Nittany Lion Open,133,L,DEC,3 - 1,Jimmy Gulibon,13371,Penn State,Anthony Giraldo,20359,Rutgers
+2015,11/16,East Stroudsburg Open,133,W,DEC,4 - 0,Esteban Gomez-Rivera,18134,American,Anthony Giraldo,20359,Rutgers
+2015,11/15,East Stroudsburg Open,133,W,TB-2,2 - 1,Kevin Devoy Jr,12047,Drexel,Anthony Giraldo,20359,Rutgers
+2015,11/15,East Stroudsburg Open,133,W,DEC,4 - 0,Esteban Gomez-Rivera,18134,American,Anthony Giraldo,20359,Rutgers
+2015,11/15,East Stroudsburg Open,133,W,MD,9 - 1,Caleb Richardson,12113,Pennsylvania,Anthony Giraldo,20359,Rutgers
+2015,11/02,Clarion Open,133,L,DEC,4 - 3,Jade Rauser,13291,Utah Valley,Anthony Giraldo,20359,Rutgers
+2015,11/02,Clarion Open,133,W,DEC,5 - 0,Alfredo Gray,19802,Cleveland State,Anthony Giraldo,20359,Rutgers
+2015,11/02,Clarion Open,133,W,DEC,8 - 3,Jonathan Mele,12168,Clarion,Anthony Giraldo,20359,Rutgers
+2015,11/02,Clarion Open,133,W,DEC,1 - 0,Zach Valley,19712,Bucknell,Anthony Giraldo,20359,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,141,W,FALL,6:21,Andrew Mauriello,11880,Drexel,Nicholas Ottaviano,20364,Rutgers
+2015,12/07,Nittany Lion Open,133,L,MD,19 - 5,Sean Fausz,20126,NC State,Nicholas Ottaviano,20364,Rutgers
+2015,12/07,Nittany Lion Open,133,L,FALL,0:40,Adam Whitesell,20016,Maryland,Nicholas Ottaviano,20364,Rutgers
+2015,11/15,East Stroudsburg Open,133,L,DEC,10 - 3,Zach Valley,19712,Bucknell,Nicholas Ottaviano,20364,Rutgers
+2015,11/15,East Stroudsburg Open,133,W,FALL,2:32,Christian Innarella,20336,Princeton,Nicholas Ottaviano,20364,Rutgers
+2015,11/02,Clarion Open,125,W,DEC,7 - 6,Yoshito Funakoshi,19739,Cal Poly,Nicholas Ottaviano,20364,Rutgers
+2015,11/02,Clarion Open,125,L,DEC,11 - 4,Ben Willeford,12093,Cleveland State,Nicholas Ottaviano,20364,Rutgers
+2015,11/02,Clarion Open,125,L,DEC,8 - 3,Kenneth Yanovich,20308,Penn State,Nicholas Ottaviano,20364,Rutgers
+2015,12/21,Reno Tournament of Champions,285,W,FALL,6:55,Josh Parazoo,14467,Oregon State,Jalen Ramos,14713,Rutgers
+2015,12/21,Reno Tournament of Champions,285,L,FALL,4:23,Tanner Harms,14340,Wyoming,Jalen Ramos,14713,Rutgers
+2015,12/07,Nittany Lion Open,141,L,MD,13 - 1,Brock Zacherl,19787,Clarion,Jalen Ramos,14713,Rutgers
+2015,12/07,Nittany Lion Open,141,L,DEC,4 - 3,Jack Lucie,19639,Army West Point,Jalen Ramos,14713,Rutgers
+2015,11/22,TCNJ Fall College Open,133,W,DEC,7 - 2,Etai Yonah,23266,Rowan College of South Jersey,Jalen Ramos,14713,Rutgers
+2015,11/22,TCNJ Fall College Open,133,W,DEC,6 - 4,Zach Ulerick,22529,Kutztown,Jalen Ramos,14713,Rutgers
+2015,11/22,TCNJ Fall College Open,133,L,TF4,15 - 0 7:00,Chase Zemenak,19681,Bloomsburg,Jalen Ramos,14713,Rutgers
+2015,11/22,TCNJ Fall College Open,133,W,DEC,8 - 1,Anthony Genco,20004,Maryland,Jalen Ramos,14713,Rutgers
+2015,11/15,East Stroudsburg Open,133,L,DEC,3 - 2,Christian Innarella,20336,Princeton,Jalen Ramos,14713,Rutgers
+2015,11/02,Delaware Valley - Rutgers Dual,133,L,FALL,3:42,Zach Haynes,22600,Delaware Valley,Jalen Ramos,14713,Rutgers
+2015,11/02,Centenary - Rutgers Dual,133,W,FALL,2:17,Andrew Perez,23246,Centenary,Jalen Ramos,14713,Rutgers
+2015,03/19,NCAA Championships,141,L,MFOR,0 - 0,Lavion Mayes,11599,Missouri,Anthony Ashnault,11803,Rutgers
+2015,03/19,NCAA Championships,141,L,DEC,9 - 4,Dean Heil,15376,Oklahoma State,Anthony Ashnault,11803,Rutgers
+2015,03/19,NCAA Championships,141,W,DEC,3 - 2,Randy Cruz,11853,Lehigh,Anthony Ashnault,11803,Rutgers
+2015,03/19,NCAA Championships,141,L,DEC,9 - 4,Mitchell Port,11732,Edinboro,Anthony Ashnault,11803,Rutgers
+2015,03/19,NCAA Championships,141,W,DEC,6 - 3,Zach Horan,11624,Central Michigan,Anthony Ashnault,11803,Rutgers
+2015,03/19,NCAA Championships,141,W,DEC,9 - 2,Michael Longo,19624,Appalachian State,Anthony Ashnault,11803,Rutgers
+2015,03/07,Big Ten Championships,141,W,DEC,3 - 2,Nick Lawrence,11744,Purdue,Anthony Ashnault,11803,Rutgers
+2015,03/07,Big Ten Championships,141,L,DEC,5 - 2,Anthony Abidin,11584,Nebraska,Anthony Ashnault,11803,Rutgers
+2015,03/07,Big Ten Championships,141,L,DEC,5 - 1,Logan Stieber,11610,Ohio State,Anthony Ashnault,11803,Rutgers
+2015,03/07,Big Ten Championships,141,W,FALL,5:50,Jesse Thielke,11772,Wisconsin,Anthony Ashnault,11803,Rutgers
+2015,03/07,Big Ten Championships,141,W,DEC,7 - 2,Shyheim Brown,11811,Maryland,Anthony Ashnault,11803,Rutgers
+2015,02/19,Rutgers - Drexel Dual,141,W,FALL,7:00,Andrew Mauriello,11880,Drexel,Anthony Ashnault,11803,Rutgers
+2015,02/14,Princeton - Rutgers Dual,141,W,DEC,3 - 2,Jordan Laster,11916,Princeton,Anthony Ashnault,11803,Rutgers
+2015,02/08,Rutgers - Northwestern Dual,141,W,DEC,4 - 2,Jameson Oster,11659,Northwestern,Anthony Ashnault,11803,Rutgers
+2015,02/06,Rutgers - Wisconsin Dual,141,W,MD,11 - 2,Jesse Thielke,11772,Wisconsin,Anthony Ashnault,11803,Rutgers
+2015,02/01,Ohio State - Rutgers Dual,141,W,TF4,20 - 4 7:00,Sal Marandino,20249,Ohio State,Anthony Ashnault,11803,Rutgers
+2015,01/31,Navy - Rutgers Dual,141,W,MD,11 - 2,Patrick Prada,11878,Navy,Anthony Ashnault,11803,Rutgers
+2015,01/25,Rutgers - Nebraska Dual,141,L,DEC,5 - 2,Anthony Abidin,11584,Nebraska,Anthony Ashnault,11803,Rutgers
+2015,01/18,Rutgers - Maryland Dual,141,W,DEC,3 - 1,Shyheim Brown,11811,Maryland,Anthony Ashnault,11803,Rutgers
+2015,01/16,Penn State - Rutgers Dual,141,W,DEC,6 - 4,Kade Moss,15933,Penn State,Anthony Ashnault,11803,Rutgers
+2015,01/11,Minnesota - Rutgers Dual,141,W,DEC,12 - 5,Conrad Rangell,13634,Minnesota,Anthony Ashnault,11803,Rutgers
+2015,01/09,Rutgers - Illinois Dual,141,L,DEC,2 - 0,Steven Rodrigues,11888,Illinois,Anthony Ashnault,11803,Rutgers
+2015,01/02,Iowa - Rutgers Dual,141,W,DEC,3 - 1,Josh Dziewa,11626,Iowa,Anthony Ashnault,11803,Rutgers
+2015,12/21,Rutgers - Army Dual,141,W,DEC,11 - 5,Logan Everett,12041,Army West Point,Anthony Ashnault,11803,Rutgers
+2015,12/21,Rutgers - Davidson Dual,141,W,FALL,1:41,James McCord,11837,Davidson,Anthony Ashnault,11803,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,141,L,MD,9 - 1,Logan Stieber,11610,Ohio State,Anthony Ashnault,11803,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,141,L,DEC,6 - 3,Nick Dardanes,13620,Minnesota,Anthony Ashnault,11803,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,DEC,9 - 7,Joe Spisak,11839,Virginia,Anthony Ashnault,11803,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,DEC,10 - 8,Geordan Martinez,19690,Boise State,Anthony Ashnault,11803,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,DEC,3 - 1,Corbin Bennetts,23798,Western Colorado,Anthony Ashnault,11803,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,TF4,15 - 0 4:54,Collin Boylan,19706,Bucknell,Anthony Ashnault,11803,Rutgers
+2015,11/29,Rutgers - Oklahoma Dual,141,W,TF4,15 - 0 5:00,Shayne Tucker,14788,Oklahoma,Anthony Ashnault,11803,Rutgers
+2015,11/29,Rutgers - Buffalo Dual,141,W,MD,12 - 3,Jason Estevez,17873,Buffalo,Anthony Ashnault,11803,Rutgers
+2015,11/29,Rutgers - West Virginia Dual,141,W,DEC,7 - 2,Michael Morales,20474,West Virginia,Anthony Ashnault,11803,Rutgers
+2015,11/16,Hofstra - Rutgers Dual,141,W,DEC,10 - 7,Jamel Hudson,12024,Hofstra,Anthony Ashnault,11803,Rutgers
+2015,11/02,Delaware Valley - Rutgers Dual,141,W,FALL,2:39,David Davidson,23238,Delaware Valley,Anthony Ashnault,11803,Rutgers
+2015,11/02,Centenary - Rutgers Dual,141,W,FALL,2:44,Adam Swift,21979,Centenary,Anthony Ashnault,11803,Rutgers
+2015,11/02,Stevens Institute of Technology  - Rutgers Dual,141,W,DEC,17 - 1 5:32,Aaron Wolfang,21009,Stevens Tech,Anthony Ashnault,11803,Rutgers
+2015,02/07,Edinboro Open,149,W,TF4,21 - 0 6:06,Laken Cook,23585,Spartan Combat RTC,Tyson Dippery,11750,Rutgers
+2015,02/07,Edinboro Open,149,L,MD,9 - 0,Solomon Chishko,20440,Virginia Tech,Tyson Dippery,11750,Rutgers
+2015,02/07,Edinboro Open,149,W,DEC,6 - 2,Konbeh Koroma,19902,George Mason,Tyson Dippery,11750,Rutgers
+2015,02/07,Edinboro Open,149,W,TF4,16 - 1 3:20,Alex Harnsberger,11787,Sacred Heart,Tyson Dippery,11750,Rutgers
+2015,02/07,Edinboro Open,149,L,DEC,9 - 8,Le'Roy Barnes,20053,Missouri,Tyson Dippery,11750,Rutgers
+2015,02/07,Edinboro Open,149,W,DEC,10 - 6,Preston McCalmon,13964,Arizona State,Tyson Dippery,11750,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,149,W,DEC,9 - 2,AJ Murabito,11949,Pennsylvania,Tyson Dippery,11750,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,149,W,MD,15 - 3,AJ Murabito,11949,Pennsylvania,Tyson Dippery,11750,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,149,W,SV-1,5 - 3,Ian Brown,20549,Lehigh,Tyson Dippery,11750,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,149,L,FALL,2:35,Ian Brown,20549,Lehigh,Tyson Dippery,11750,Rutgers
+2015,01/18,Rutgers - Maryland Dual,149,W,FALL,1:26,Anthony Duncan,20000,Maryland,Tyson Dippery,11750,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,149,W,MD,13 - 3,Connor Lapresi,11754,Bucknell,Tyson Dippery,11750,Rutgers
+2015,12/29,Midlands Championships,141,L,MFOR,0 - 0,Brock Ervin,20546,Illinois,Tyson Dippery,11750,Rutgers
+2015,12/29,Midlands Championships,141,L,MD,14 - 4,Tyler Argue,11722,Northern Illinois,Tyson Dippery,11750,Rutgers
+2015,12/29,Midlands Championships,141,W,DEC,14 - 12,Jon Henslee,24204,Unattached,Tyson Dippery,11750,Rutgers
+2015,12/07,Nittany Lion Open,141,L,DEC,8 - 1,Dennis Gustafson,11706,Virginia Tech,Tyson Dippery,11750,Rutgers
+2015,12/07,Nittany Lion Open,141,W,MD,11 - 3,Gerald Ronnau,22010,Virginia Tech,Tyson Dippery,11750,Rutgers
+2015,12/07,Nittany Lion Open,141,W,TF4,16 - 0 2:01,jose hernandez,23603,Midland,Tyson Dippery,11750,Rutgers
+2015,12/07,Nittany Lion Open,141,W,FALL,0:39,Jake Stanford,23605,Pennsylvania,Tyson Dippery,11750,Rutgers
+2015,12/07,Nittany Lion Open,141,W,DEC,9 - 7,Kade Moss,15933,Penn State,Tyson Dippery,11750,Rutgers
+2015,11/22,TCNJ Fall College Open,141,W,FALL,0:28,TYREE EDMOND,23298,Pittsburgh,Tyson Dippery,11750,Rutgers
+2015,11/22,TCNJ Fall College Open,141,W,TF4,15 - 0 7:00,Brandon Walker,20014,Maryland,Tyson Dippery,11750,Rutgers
+2015,11/22,TCNJ Fall College Open,141,L,DEC,4 - 3,Shyheim Brown,11811,Maryland,Tyson Dippery,11750,Rutgers
+2015,11/22,TCNJ Fall College Open,141,W,TF4,15 - 0 7:00,Spencer Slishman,11752,American,Tyson Dippery,11750,Rutgers
+2015,11/16,East Stroudsburg Open,141,W,DEC,5 - 4,Matt Bryer,12020,Lock Haven,Tyson Dippery,11750,Rutgers
+2015,11/15,East Stroudsburg Open,141,W,DEC,17 - 0 1:47,Josh Di Santo,22798,Delaware Valley,Tyson Dippery,11750,Rutgers
+2015,11/15,East Stroudsburg Open,141,W,FALL,0:57,Joe Rizzi,22630,Unattached,Tyson Dippery,11750,Rutgers
+2015,11/15,East Stroudsburg Open,141,W,DEC,1 - 0,David Pearce,13379,Drexel,Tyson Dippery,11750,Rutgers
+2015,11/15,East Stroudsburg Open,141,W,MFOR,0 - 0,Kade Moss,15933,Penn State,Tyson Dippery,11750,Rutgers
+2015,11/15,East Stroudsburg Open,141,W,DEC,12 - 6,Taylor French,13280,Navy,Tyson Dippery,11750,Rutgers
+2015,11/15,East Stroudsburg Open,141,W,DEC,5 - 4,Matt Bryer,12020,Lock Haven,Tyson Dippery,11750,Rutgers
+2015,11/02,Clarion Open,141,L,DEC,1 - 0,Tyler Smith,22439,Bucknell,Tyson Dippery,11750,Rutgers
+2015,11/02,Clarion Open,141,L,DEC,1 - 0,Brock Zacherl,19787,Clarion,Tyson Dippery,11750,Rutgers
+2015,11/02,Clarion Open,141,W,DEC,11 - 6,Joey Alessandro,21705,Unattached,Tyson Dippery,11750,Rutgers
+2015,11/02,Clarion Open,141,W,DEC,15 - 0 7:00,John Kenyon,20609,Navy,Tyson Dippery,11750,Rutgers
+2015,03/19,NCAA Championships,149,L,DEC,10 - 6,Chris Perez,12006,Princeton,Ken Theobold,11789,Rutgers
+2015,03/19,NCAA Championships,149,L,DEC,11 - 6,Sal Mastriani,13766,Virginia Tech,Ken Theobold,11789,Rutgers
+2015,03/19,NCAA Championships,149,W,DEC,6 - 5,Christian Pagdilao,20575,Arizona State,Ken Theobold,11789,Rutgers
+2015,03/07,Big Ten Championships,149,L,MD,16 - 4,Brandon Nelsen,13725,Purdue,Ken Theobold,11789,Rutgers
+2015,03/07,Big Ten Championships,149,L,INJ,7:00,Alec Pantaleo,20020,Michigan,Ken Theobold,11789,Rutgers
+2015,02/19,Rutgers - Drexel Dual,149,W,MD,9 - 1,Matthew Cimato,11725,Drexel,Ken Theobold,11789,Rutgers
+2015,02/14,Princeton - Rutgers Dual,149,W,DEC,5 - 3,Chris Perez,12006,Princeton,Ken Theobold,11789,Rutgers
+2015,02/08,Rutgers - Northwestern Dual,149,L,MD,12 - 2,Jason Tsirtsis,13629,Northwestern,Ken Theobold,11789,Rutgers
+2015,02/06,Rutgers - Wisconsin Dual,149,W,MD,8 - 0,Rylan Lubeck,13818,Wisconsin,Ken Theobold,11789,Rutgers
+2015,02/01,Ohio State - Rutgers Dual,149,W,DEC,3 - 0,Randy Languis,13509,Ohio State,Ken Theobold,11789,Rutgers
+2015,01/31,Navy - Rutgers Dual,149,W,DEC,6 - 1,Corey Wilding,20626,Navy,Ken Theobold,11789,Rutgers
+2015,01/25,Rutgers - Nebraska Dual,149,W,FALL,1:27,Justin Arthur,22462,Nebraska,Ken Theobold,11789,Rutgers
+2015,01/18,Rutgers - Maryland Dual,149,W,TF4,16 - 0 5:19,Shane Arechiga,11919,Maryland,Ken Theobold,11789,Rutgers
+2015,01/16,Penn State - Rutgers Dual,149,W,DEC,5 - 2,Zack Beitz,11955,Penn State,Ken Theobold,11789,Rutgers
+2015,01/11,Minnesota - Rutgers Dual,149,W,DEC,7 - 6,Jake Short,13599,Minnesota,Ken Theobold,11789,Rutgers
+2015,01/09,Rutgers - Illinois Dual,149,W,DEC,5 - 2,Kyle Langenderfer,15698,Illinois,Ken Theobold,11789,Rutgers
+2015,01/02,Iowa - Rutgers Dual,149,L,MD,18 - 5,Brandon Sorensen,13456,Iowa,Ken Theobold,11789,Rutgers
+2015,12/21,Rutgers - Army Dual,149,W,DEC,3 - 1,Andrew Mendel,19640,Army West Point,Ken Theobold,11789,Rutgers
+2015,12/21,Rutgers - Davidson Dual,149,W,FALL,3:28,Kevin Birmingham,11896,Davidson,Ken Theobold,11789,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,149,L,DEC,7 - 1,Justin Arthur,22462,Nebraska,Ken Theobold,11789,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,149,L,SV-1,13 - 8,Gabe Moreno,11816,Iowa State,Ken Theobold,11789,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,149,W,DEC,6 - 4,Rodney Shepard,14784,NC State,Ken Theobold,11789,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,149,W,MD,10 - 0,Gerald McGinty,25203,Air Force,Ken Theobold,11789,Rutgers
+2015,11/29,Rutgers - Oklahoma Dual,149,W,DEC,9 - 2,Shayne Tucker,14788,Oklahoma,Ken Theobold,11789,Rutgers
+2015,11/29,Rutgers - Buffalo Dual,149,W,MD,16 - 3,Justin Cooksey,19715,Buffalo,Ken Theobold,11789,Rutgers
+2015,11/29,Rutgers - West Virginia Dual,149,W,DEC,6 - 2,James Dekrone,20467,West Virginia,Ken Theobold,11789,Rutgers
+2015,11/22,TCNJ Fall College Open,149,W,DEC,3 - 0,Tyler Hunt,13943,Rutgers,Ken Theobold,11789,Rutgers
+2015,11/22,TCNJ Fall College Open,149,W,DEC,8 - 1,Brendon Colbert,19667,Bloomsburg,Ken Theobold,11789,Rutgers
+2015,11/22,TCNJ Fall College Open,149,W,DEC,7 - 0,Frank Goodwin,18169,Maryland,Ken Theobold,11789,Rutgers
+2015,11/22,TCNJ Fall College Open,149,W,DEC,8 - 1,Derrick Evanovich,13907,Maryland,Ken Theobold,11789,Rutgers
+2015,11/16,Hofstra - Rutgers Dual,149,L,DEC,5 - 2,Cody Ruggirello,13711,Hofstra,Ken Theobold,11789,Rutgers
+2015,11/02,Delaware Valley - Rutgers Dual,149,W,DEC,5 - 4,Vincent Fava,21520,Delaware Valley,Ken Theobold,11789,Rutgers
+2015,11/02,Centenary - Rutgers Dual,149,W,FALL,2:28,Allan Jordan,21980,Centenary,Ken Theobold,11789,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,157,W,DEC,5 - 0,Kyle Simaz,40378,Spartan Combat RTC,John Van Brill,20367,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,157,W,FALL,0:56,Dustin Roemer,16216,Virginia,John Van Brill,20367,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,157,W,DEC,7 - 5,Craemer Hedash,15123,Army West Point,John Van Brill,20367,Rutgers
+2015,12/29,Midlands Championships,149,L,DEC,9 - 5,Coleman Hammond,14011,CSU Bakersfield,John Van Brill,20367,Rutgers
+2015,12/29,Midlands Championships,149,L,DEC,6 - 5,Jake Williams,23465,Cumberland,John Van Brill,20367,Rutgers
+2015,12/29,Midlands Championships,149,W,DEC,5 - 2,Nicholas Barber,11739,Eastern Michigan,John Van Brill,20367,Rutgers
+2015,12/07,Nittany Lion Open,149,W,MFOR,0 - 0,Gary Dinmore,23397,Unattached,John Van Brill,20367,Rutgers
+2015,12/07,Nittany Lion Open,149,W,DEC,1 - 0,Brent Waterman,20457,Virginia Tech,John Van Brill,20367,Rutgers
+2015,12/07,Nittany Lion Open,149,W,DEC,11 - 4,Taylor Misuna,20448,Virginia Tech,John Van Brill,20367,Rutgers
+2015,12/07,Nittany Lion Open,149,L,DEC,7 - 5,Gary Dinmore,23397,Unattached,John Van Brill,20367,Rutgers
+2015,12/07,Nittany Lion Open,149,W,MD,14 - 1,Storm Slade,23602,Pennsylvania,John Van Brill,20367,Rutgers
+2015,12/07,Nittany Lion Open,149,W,DEC,8 - 1,Willie Davis,19845,Drexel,John Van Brill,20367,Rutgers
+2015,12/07,Nittany Lion Open,149,L,MD,14 - 1,Luke Frey,14015,Penn State,John Van Brill,20367,Rutgers
+2015,12/07,Nittany Lion Open,149,W,DEC,9 - 5,Zack Beitz,11955,Penn State,John Van Brill,20367,Rutgers
+2015,11/22,TCNJ Fall College Open,149,W,TF4,15 - 0 7:00,Chayoot Chengsupanimit,23053,Muhlenberg,John Van Brill,20367,Rutgers
+2015,11/22,TCNJ Fall College Open,149,L,DEC,9 - 8,Brendon Colbert,19667,Bloomsburg,John Van Brill,20367,Rutgers
+2015,11/22,TCNJ Fall College Open,149,W,MD,13 - 3,Shane Arechiga,11919,Maryland,John Van Brill,20367,Rutgers
+2015,11/22,TCNJ Fall College Open,149,L,DEC,1 - 0,Frank Goodwin,18169,Maryland,John Van Brill,20367,Rutgers
+2015,11/16,East Stroudsburg Open,149,W,FALL,6:01,Michael Eckhart,19614,American,John Van Brill,20367,Rutgers
+2015,11/15,East Stroudsburg Open,149,L,DEC,6 - 5,Tyler Hunt,13943,Rutgers,John Van Brill,20367,Rutgers
+2015,11/15,East Stroudsburg Open,149,L,DEC,5 - 3,Matthew Cimato,11725,Drexel,John Van Brill,20367,Rutgers
+2015,11/15,East Stroudsburg Open,149,W,FALL,6:01,Michael Eckhart,19614,American,John Van Brill,20367,Rutgers
+2015,11/15,East Stroudsburg Open,149,W,MD,9 - 0,AJ Murabito,11949,Pennsylvania,John Van Brill,20367,Rutgers
+2015,11/02,Clarion Open,149,W,DEC,1 - 0,Sam Sherlock,15334,Clarion,John Van Brill,20367,Rutgers
+2015,11/02,Clarion Open,149,W,MD,12 - 3,RJ LaBeef,11973,Cleveland State,John Van Brill,20367,Rutgers
+2015,11/02,Clarion Open,149,W,DEC,8 - 2,Blake Morder,13898,Clarion,John Van Brill,20367,Rutgers
+2015,11/02,Clarion Open,149,W,MD,9 - 0,Connor Lapresi,11754,Bucknell,John Van Brill,20367,Rutgers
+2015,12/07,Nittany Lion Open,149,W,DEC,4 - 2,Ryan Snow,40301,Bloomsburg,Tyler Hunt,13943,Rutgers
+2015,12/07,Nittany Lion Open,149,W,DEC,5 - 3,Kevin Jack,20130,NC State,Tyler Hunt,13943,Rutgers
+2015,12/07,Nittany Lion Open,149,L,DEC,10 - 5,Laike Gardner,11748,Lehigh,Tyler Hunt,13943,Rutgers
+2015,12/07,Nittany Lion Open,149,W,DEC,6 - 4,Willie Davis,19845,Drexel,Tyler Hunt,13943,Rutgers
+2015,12/07,Nittany Lion Open,149,L,DEC,7 - 5,Mark Marchetti,13931,Army West Point,Tyler Hunt,13943,Rutgers
+2015,12/07,Nittany Lion Open,149,W,DEC,9 - 5,Matt Filbert,19636,Army West Point,Tyler Hunt,13943,Rutgers
+2015,11/22,TCNJ Fall College Open,149,L,DEC,3 - 0,Ken Theobold,11789,Rutgers,Tyler Hunt,13943,Rutgers
+2015,11/22,TCNJ Fall College Open,149,W,DEC,6 - 4,Michael Underwood,13870,Rutgers,Tyler Hunt,13943,Rutgers
+2015,11/22,TCNJ Fall College Open,149,W,FALL,2:17,Anthony Duncan,20000,Maryland,Tyler Hunt,13943,Rutgers
+2015,11/22,TCNJ Fall College Open,149,W,DEC,4 - 1,Shane Arechiga,11919,Maryland,Tyler Hunt,13943,Rutgers
+2015,11/16,East Stroudsburg Open,149,W,DEC,7 - 1,Jonathan Carrera,21959,Wyoming,Tyler Hunt,13943,Rutgers
+2015,11/16,East Stroudsburg Open,149,W,SV-1,5 - 3,Nicholas Gil,21561,US Naval Academy Prep School,Tyler Hunt,13943,Rutgers
+2015,11/16,East Stroudsburg Open,149,W,MD,12 - 0,Matt Filbert,19636,Army West Point,Tyler Hunt,13943,Rutgers
+2015,11/15,East Stroudsburg Open,149,W,FALL,1:50,Blake Cohen,23051,East Stroudsburg,Tyler Hunt,13943,Rutgers
+2015,11/15,East Stroudsburg Open,149,W,SV-1,5 - 3,Nicholas Gil,21561,US Naval Academy Prep School,Tyler Hunt,13943,Rutgers
+2015,11/15,East Stroudsburg Open,149,W,MFOR,0 - 0,Gary Dinmore,23397,Unattached,Tyler Hunt,13943,Rutgers
+2015,11/15,East Stroudsburg Open,149,W,DEC,6 - 5,John Van Brill,20367,Rutgers,Tyler Hunt,13943,Rutgers
+2015,11/15,East Stroudsburg Open,149,W,DEC,7 - 1,Jonathan Carrera,21959,Wyoming,Tyler Hunt,13943,Rutgers
+2015,11/15,East Stroudsburg Open,149,L,MD,11 - 3,Laike Gardner,11748,Lehigh,Tyler Hunt,13943,Rutgers
+2015,11/15,East Stroudsburg Open,149,W,MFOR,0 - 0,Michael Marano,19890,Franklin & Marshall,Tyler Hunt,13943,Rutgers
+2015,11/15,East Stroudsburg Open,149,W,DEC,1 - 0,Victor Lopez,11886,Bucknell,Tyler Hunt,13943,Rutgers
+2015,11/15,East Stroudsburg Open,149,W,MD,12 - 0,Matt Filbert,19636,Army West Point,Tyler Hunt,13943,Rutgers
+2015,11/15,East Stroudsburg Open,149,W,DEC,6 - 1,Nick Maselli,11791,Princeton,Tyler Hunt,13943,Rutgers
+2015,11/02,Stevens Institute of Technology  - Rutgers Dual,149,W,MD,10 - 1,Ricky Perrine,11883,Stevens Tech,Tyler Hunt,13943,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,149,L,DEC,9 - 3,Freddie Dunau,20312,Pennsylvania,Michael Underwood,13870,Rutgers
+2015,01/18,Rutgers - Maryland Dual,149,L,DEC,4 - 2,Matt Pente,20010,Maryland,Michael Underwood,13870,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,149,W,DEC,2 - 0,Willie Davis,19845,Drexel,Michael Underwood,13870,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,149,W,DEC,2 - 1,Lincoln Mallinger,15912,Army West Point,Michael Underwood,13870,Rutgers
+2015,12/28,Wilkes Open,149,L,DEC,6 - 4,Shane Arechiga,11919,Maryland,Michael Underwood,13870,Rutgers
+2015,12/28,Wilkes Open,149,W,DEC,6 - 2,Danny Graham,19717,Buffalo,Michael Underwood,13870,Rutgers
+2015,12/28,Wilkes Open,149,W,DEC,2 - 0,James Palys,24113,Lindsey Wilson,Michael Underwood,13870,Rutgers
+2015,12/28,Wilkes Open,149,L,DEC,7 - 2,Derek Arnold,24112,Mercyhurst,Michael Underwood,13870,Rutgers
+2015,12/07,Nittany Lion Open,149,L,DEC,2 - 0,Brent Waterman,20457,Virginia Tech,Michael Underwood,13870,Rutgers
+2015,12/07,Nittany Lion Open,149,W,FALL,4:13,Laken Cook,23585,Spartan Combat RTC,Michael Underwood,13870,Rutgers
+2015,12/07,Nittany Lion Open,149,L,DEC,6 - 1,Solomon Chishko,20440,Virginia Tech,Michael Underwood,13870,Rutgers
+2015,12/07,Nittany Lion Open,149,W,DEC,6 - 3,RJ DeGeorge,11804,Maryland,Michael Underwood,13870,Rutgers
+2015,11/22,TCNJ Fall College Open,149,W,FALL,1:32,Nick Herring,23272,The Citadel,Michael Underwood,13870,Rutgers
+2015,11/22,TCNJ Fall College Open,149,L,DEC,6 - 4,Tyler Hunt,13943,Rutgers,Michael Underwood,13870,Rutgers
+2015,11/22,TCNJ Fall College Open,149,L,DEC,8 - 6,Brendon Colbert,19667,Bloomsburg,Michael Underwood,13870,Rutgers
+2015,11/22,TCNJ Fall College Open,149,W,DEC,3 - 1,RJ DeGeorge,11804,Maryland,Michael Underwood,13870,Rutgers
+2015,11/16,East Stroudsburg Open,149,L,SV-1,3 - 1,Joe Ghione,20590,Lock Haven,Michael Underwood,13870,Rutgers
+2015,11/15,East Stroudsburg Open,149,L,SV-1,3 - 1,Joe Ghione,20590,Lock Haven,Michael Underwood,13870,Rutgers
+2015,03/19,NCAA Championships,157,L,SV-1,3 - 1,Markus Scheidel,13741,Columbia,Anthony Perrotti,13752,Rutgers
+2015,03/19,NCAA Championships,157,L,SV-1,5 - 3,Noel Blanco,11950,Drexel,Anthony Perrotti,13752,Rutgers
+2015,03/07,Big Ten Championships,157,W,DEC,4 - 1,Lou Mascola,16743,Maryland,Anthony Perrotti,13752,Rutgers
+2015,03/07,Big Ten Championships,157,L,TB-1,2 - 1,Josh Demas,20245,Ohio State,Anthony Perrotti,13752,Rutgers
+2015,03/07,Big Ten Championships,157,W,FALL,0:55,Michael Kelly,13998,Iowa,Anthony Perrotti,13752,Rutgers
+2015,03/07,Big Ten Championships,157,L,TB-1,7 - 5,Luke Frey,14015,Penn State,Anthony Perrotti,13752,Rutgers
+2015,02/19,Rutgers - Drexel Dual,157,W,TF4,15 - 0 7:00,Noel Blanco,11950,Drexel,Anthony Perrotti,13752,Rutgers
+2015,02/14,Princeton - Rutgers Dual,157,W,MD,14 - 2,Rich Eva,20334,Princeton,Anthony Perrotti,13752,Rutgers
+2015,02/06,Rutgers - Wisconsin Dual,157,W,MD,12 - 4,Jarod Donar,13598,Wisconsin,Anthony Perrotti,13752,Rutgers
+2015,02/01,Ohio State - Rutgers Dual,157,W,DEC,8 - 5,Josh Demas,20245,Ohio State,Anthony Perrotti,13752,Rutgers
+2015,01/31,Navy - Rutgers Dual,157,W,MD,11 - 1,Drew Daniels,20601,Navy,Anthony Perrotti,13752,Rutgers
+2015,01/25,Rutgers - Nebraska Dual,157,L,DEC,11 - 4,James Green,13471,Nebraska,Anthony Perrotti,13752,Rutgers
+2015,01/09,Rutgers - Illinois Dual,157,L,MD,19 - 6,Isaiah Martinez,13466,Illinois,Anthony Perrotti,13752,Rutgers
+2015,01/02,Iowa - Rutgers Dual,157,L,DEC,4 - 0,Michael Kelly,13998,Iowa,Anthony Perrotti,13752,Rutgers
+2015,12/21,Rutgers - Army Dual,157,L,DEC,3 - 2,Russell Parsons,19642,Army West Point,Anthony Perrotti,13752,Rutgers
+2015,12/21,Rutgers - Davidson Dual,157,W,FALL,1:03,Alex Palinski,15251,Davidson,Anthony Perrotti,13752,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,157,L,DEC,11 - 6,James Green,13471,Nebraska,Anthony Perrotti,13752,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,MD,10 - 1,Tim Wheeling,20564,West Virginia,Anthony Perrotti,13752,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,MFOR,0 - 0,Steven Hernandez,15477,Boise State,Anthony Perrotti,13752,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,DEC,3 - 1,Justin Staudenmayer,15115,Brown,Anthony Perrotti,13752,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,MD,11 - 0,David Wesley,15329,Virginia Tech,Anthony Perrotti,13752,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,MD,13 - 5,Alex Elder,18158,Oregon State,Anthony Perrotti,13752,Rutgers
+2015,11/29,Rutgers - Oklahoma Dual,157,L,DEC,6 - 3,Justin DeAngelis,20257,Oklahoma,Anthony Perrotti,13752,Rutgers
+2015,11/29,Rutgers - Buffalo Dual,157,W,DEC,6 - 1,Wally Maziarz,11459,Buffalo,Anthony Perrotti,13752,Rutgers
+2015,11/29,Rutgers - West Virginia Dual,157,W,DEC,8 - 4,Roman Perryman,15260,West Virginia,Anthony Perrotti,13752,Rutgers
+2015,11/16,Hofstra - Rutgers Dual,157,W,DEC,9 - 2,Jahlani Callender,13882,Hofstra,Anthony Perrotti,13752,Rutgers
+2015,11/02,Delaware Valley - Rutgers Dual,157,W,FALL,1:46,Nicholas Menkin,22480,Delaware Valley,Anthony Perrotti,13752,Rutgers
+2015,11/02,Centenary - Rutgers Dual,157,W,TF4,16 - 0 2:59,Cole Cameron,23247,Centenary,Anthony Perrotti,13752,Rutgers
+2015,11/02,Stevens Institute of Technology  - Rutgers Dual,157,W,DEC,17 - 0 2:32,Will Mason,12187,Virginia,Anthony Perrotti,13752,Rutgers
+2015,01/18,Rutgers - Maryland Dual,157,L,TF4,17 - 1 5:13,Lou Mascola,16743,Maryland,Dylan Painton,20365,Rutgers
+2015,01/16,Penn State - Rutgers Dual,157,L,MD,11 - 3,Andrew Alton,11792,Penn State,Dylan Painton,20365,Rutgers
+2015,01/11,Minnesota - Rutgers Dual,157,L,FALL,4:30,Dylan Ness,13472,Minnesota,Dylan Painton,20365,Rutgers
+2015,12/28,Wilkes Open,157,L,DEC,7 - 0,Casey Mitchell,15264,Sacred Heart,Dylan Painton,20365,Rutgers
+2015,12/28,Wilkes Open,157,W,FALL,6:18,Daniel Downes,24117,Roger Williams,Dylan Painton,20365,Rutgers
+2015,12/28,Wilkes Open,157,W,FALL,2:30,Cameron Bowen,13889,Virginia Tech,Dylan Painton,20365,Rutgers
+2015,12/28,Wilkes Open,157,W,TF4,16 - 1 4:50,Justin Martinez,24116,New Mexico Highlands,Dylan Painton,20365,Rutgers
+2015,12/28,Wilkes Open,157,L,MD,8 - 0,Tyler Herzog,24115,Roger Williams,Dylan Painton,20365,Rutgers
+2015,12/28,Wilkes Open,157,W,DEC,8 - 1,Stephen Turner,24114,Lindsey Wilson,Dylan Painton,20365,Rutgers
+2015,12/07,Nittany Lion Open,157,L,MD,12 - 0,Kyle Simaz,40378,Spartan Combat RTC,Dylan Painton,20365,Rutgers
+2015,12/07,Nittany Lion Open,157,W,TF4,15 - 0 7:00,christian ortiz,23606,Midland,Dylan Painton,20365,Rutgers
+2015,12/07,Nittany Lion Open,157,L,MD,12 - 3,Javier Rodriguez,14925,Army West Point,Dylan Painton,20365,Rutgers
+2015,12/07,Nittany Lion Open,157,W,DEC,8 - 3,Craemer Hedash,15123,Army West Point,Dylan Painton,20365,Rutgers
+2015,12/07,Nittany Lion Open,157,W,FALL,6:54,Patrick Gerish,20005,Maryland,Dylan Painton,20365,Rutgers
+2015,12/07,Nittany Lion Open,157,L,TF4,22 - 6 5:45,Jason Nolf,20303,Penn State,Dylan Painton,20365,Rutgers
+2015,11/22,TCNJ Fall College Open,157,W,FALL,0:12,elijah villapiano,23287,Midland,Dylan Painton,20365,Rutgers
+2015,11/22,TCNJ Fall College Open,157,L,DEC,6 - 2,Wayne Stinson,15117,Rider,Dylan Painton,20365,Rutgers
+2015,11/22,TCNJ Fall College Open,157,W,FALL,0:48,Josh Ortman,19677,Bloomsburg,Dylan Painton,20365,Rutgers
+2015,11/22,TCNJ Fall College Open,157,W,DEC,6 - 3,Toby Hague,20006,Maryland,Dylan Painton,20365,Rutgers
+2015,11/22,TCNJ Fall College Open,157,W,FALL,1:22,Patrick Gerish,20005,Maryland,Dylan Painton,20365,Rutgers
+2015,11/16,East Stroudsburg Open,157,L,MFOR,0 - 0,Joe Mastro,19657,Binghamton,Dylan Painton,20365,Rutgers
+2015,11/15,East Stroudsburg Open,157,L,MFOR,0 - 0,Joe Mastro,19657,Binghamton,Dylan Painton,20365,Rutgers
+2015,11/15,East Stroudsburg Open,157,L,DEC,4 - 2,Casey Mitchell,15264,Sacred Heart,Dylan Painton,20365,Rutgers
+2015,11/16,East Stroudsburg Open,157,W,MFOR,0 - 0,Colton Perry,14787,Binghamton,Vincent Corsaro,20358,Rutgers
+2015,11/15,East Stroudsburg Open,157,L,DEC,6 - 4,Logan Kerin,11850,Bucknell,Vincent Corsaro,20358,Rutgers
+2015,11/15,East Stroudsburg Open,157,W,DEC,8 - 3,John Faugno,19707,Bucknell,Vincent Corsaro,20358,Rutgers
+2015,11/15,East Stroudsburg Open,157,W,MFOR,0 - 0,Colton Perry,14787,Binghamton,Vincent Corsaro,20358,Rutgers
+2015,11/15,East Stroudsburg Open,157,L,DEC,6 - 4,May Bethea,20309,Pennsylvania,Vincent Corsaro,20358,Rutgers
+2015,11/02,Clarion Open,157,W,DEC,5 - 2,Logan Addis,11534,Utah Valley,Vincent Corsaro,20358,Rutgers
+2015,02/19,Rutgers - Drexel Dual,165,L,DEC,3 - 1,Nick Elmer,15530,Drexel,Mikey Simmons,14812,Rutgers
+2015,12/28,Wilkes Open,165,L,DEC,3 - 1,Deuly Espinal,22943,Nassau Community College,Mikey Simmons,14812,Rutgers
+2015,12/28,Wilkes Open,165,W,FALL,1:51,John Messinger,22921,New Mexico Highlands,Mikey Simmons,14812,Rutgers
+2015,12/28,Wilkes Open,165,W,FALL,2:09,Ryan Therrien,14813,Buffalo,Mikey Simmons,14812,Rutgers
+2015,12/28,Wilkes Open,165,W,FALL,2:37,Ryan Dougherty,20744,Bloomsburg,Mikey Simmons,14812,Rutgers
+2015,12/28,Wilkes Open,165,L,DEC,5 - 3,Mason Mcintyre,24118,Wilkes,Mikey Simmons,14812,Rutgers
+2015,12/07,Nittany Lion Open,165,L,DEC,3 - 2,Nick Visicaro,11489,Rutgers,Mikey Simmons,14812,Rutgers
+2015,12/07,Nittany Lion Open,165,W,DEC,2 - 1,Zach Heeter,15304,West Virginia,Mikey Simmons,14812,Rutgers
+2015,12/07,Nittany Lion Open,165,W,DEC,6 - 2,Andrew Reca,17185,Rider,Mikey Simmons,14812,Rutgers
+2015,12/07,Nittany Lion Open,165,L,DEC,6 - 0,Ryan Preisch,19987,Lehigh,Mikey Simmons,14812,Rutgers
+2015,12/07,Nittany Lion Open,165,W,FALL,1:25,Caleb Livingston,13876,Penn State,Mikey Simmons,14812,Rutgers
+2015,11/22,TCNJ Fall College Open,165,L,DEC,5 - 0,KURT MESKE,12750,Unattached,Mikey Simmons,14812,Rutgers
+2015,11/22,TCNJ Fall College Open,165,W,FALL,1:23,Logan Laughlin,23302,Muhlenberg,Mikey Simmons,14812,Rutgers
+2015,11/22,TCNJ Fall College Open,165,L,DEC,4 - 3,Doug Hamann,23301,The Citadel,Mikey Simmons,14812,Rutgers
+2015,11/22,TCNJ Fall College Open,165,W,MD,16 - 3,PAUL SARAIVA,23300,Unattached,Mikey Simmons,14812,Rutgers
+2015,11/22,TCNJ Fall College Open,165,W,MFOR,0 - 0,Inan Sikel,20011,Maryland,Mikey Simmons,14812,Rutgers
+2015,11/02,Clarion Open,165,L,DEC,5 - 2,Gabe Stark,16682,Cleveland State,Mikey Simmons,14812,Rutgers
+2015,11/02,Clarion Open,165,W,DEC,11 - 5,Kyle Braddock,14828,Clarion,Mikey Simmons,14812,Rutgers
+2015,11/02,Clarion Open,165,L,DEC,7 - 3,Dalton Harmon,20411,Utah Valley,Mikey Simmons,14812,Rutgers
+2015,01/11,Minnesota - Rutgers Dual,165,L,DEC,4 - 0,Brandon Kingsley,13491,Minnesota,Nicholas Gravina,20360,Rutgers
+2015,01/09,Rutgers - Illinois Dual,165,L,MD,10 - 2,Jackson Morse,14762,Illinois,Nicholas Gravina,20360,Rutgers
+2015,01/02,Iowa - Rutgers Dual,165,L,MD,16 - 4,Nick Moore,11454,Iowa,Nicholas Gravina,20360,Rutgers
+2015,12/28,Wilkes Open,165,W,TB-2,2 - 1,Zach Heeter,15304,West Virginia,Nicholas Gravina,20360,Rutgers
+2015,12/28,Wilkes Open,165,W,MD,8 - 0,John Messinger,22921,New Mexico Highlands,Nicholas Gravina,20360,Rutgers
+2015,12/28,Wilkes Open,165,W,MD,8 - 0,Thomas Grosso,20829,Sacred Heart,Nicholas Gravina,20360,Rutgers
+2015,12/28,Wilkes Open,165,L,SV-1,7 - 5,Garrett Peppelman,20431,Virginia,Nicholas Gravina,20360,Rutgers
+2015,12/21,Rutgers - Army Dual,165,W,DEC,6 - 5,Chandler Smith,11484,Army West Point,Nicholas Gravina,20360,Rutgers
+2015,11/02,Delaware Valley - Rutgers Dual,165,W,TF4,17 - 2 6:48,Steve Acevedo,22619,Delaware Valley,Nicholas Gravina,20360,Rutgers
+2015,11/02,Centenary - Rutgers Dual,165,W,FALL,2:03,Anthony Kubish,21982,Centenary,Nicholas Gravina,20360,Rutgers
+2015,11/02,Stevens Institute of Technology  - Rutgers Dual,165,W,MD,11 - 1,Connor Bass,13712,Duke,Nicholas Gravina,20360,Rutgers
+2015,03/07,Big Ten Championships,165,L,DEC,5 - 3,Justin Alexander,11801,Maryland,Nick Visicaro,11489,Rutgers
+2015,03/07,Big Ten Championships,165,L,DEC,8 - 2,Garett Hammond,14829,Penn State,Nick Visicaro,11489,Rutgers
+2015,02/14,Princeton - Rutgers Dual,165,L,MD,18 - 4,Jonathan Schleifer,20340,Princeton,Nick Visicaro,11489,Rutgers
+2015,02/08,Rutgers - Northwestern Dual,165,L,DEC,4 - 0,Pierce Harger,11463,Northwestern,Nick Visicaro,11489,Rutgers
+2015,02/06,Rutgers - Wisconsin Dual,165,L,TF4,19 - 4 7:00,Isaac Jordan,13465,Wisconsin,Nick Visicaro,11489,Rutgers
+2015,02/01,Ohio State - Rutgers Dual,165,L,TF4,16 - 0 7:00,Bo Jordan,14840,Ohio State,Nick Visicaro,11489,Rutgers
+2015,01/31,Navy - Rutgers Dual,165,L,DEC,4 - 2,Peyton Walsh,11485,Navy,Nick Visicaro,11489,Rutgers
+2015,01/25,Rutgers - Nebraska Dual,165,L,DEC,3 - 1,Austin Wilson,11470,Nebraska,Nick Visicaro,11489,Rutgers
+2015,01/18,Rutgers - Maryland Dual,165,W,DEC,4 - 1,Tyler Manion,14894,Maryland,Nick Visicaro,11489,Rutgers
+2015,01/16,Penn State - Rutgers Dual,165,L,MD,13 - 4,Garett Hammond,14829,Penn State,Nick Visicaro,11489,Rutgers
+2015,12/07,Nittany Lion Open,165,L,DEC,6 - 0,David Bergida,14803,Virginia Tech,Nick Visicaro,11489,Rutgers
+2015,12/07,Nittany Lion Open,165,L,DEC,6 - 2,Jon Jay Chavez,23434,Spartan Combat RTC,Nick Visicaro,11489,Rutgers
+2015,12/07,Nittany Lion Open,165,W,DEC,3 - 2,Mikey Simmons,14812,Rutgers,Nick Visicaro,11489,Rutgers
+2015,12/07,Nittany Lion Open,165,W,DEC,9 - 5,Jacob Conners,19887,Franklin & Marshall,Nick Visicaro,11489,Rutgers
+2015,12/07,Nittany Lion Open,165,W,FALL,4:13,Jordan Pagano,20304,Penn State,Nick Visicaro,11489,Rutgers
+2015,12/07,Nittany Lion Open,165,L,MFOR,0 - 0,Garett Hammond,14829,Penn State,Nick Visicaro,11489,Rutgers
+2015,12/21,Rutgers - Davidson Dual,165,W,MD,14 - 5,Patrick Devlin,20541,Davidson,Ethan Orr,14895,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,165,L,DEC,7 - 1,Michael Moreno,11457,Iowa State,Ethan Orr,14895,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,165,W,DEC,5 - 3,Terrell Forbes,12362,The Citadel,Ethan Orr,14895,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,165,W,MFOR,0 - 0,Chad Strube,13878,Virginia Tech,Ethan Orr,14895,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,165,L,DEC,3 - 2,Richard Muniz,15152,Brown,Ethan Orr,14895,Rutgers
+2015,11/29,Rutgers - Oklahoma Dual,165,L,DEC,5 - 2,Ethan Orr,23325,Oklahoma,Ethan Orr,14895,Rutgers
+2015,11/29,Rutgers - Buffalo Dual,165,L,DEC,7 - 5,Rrok Ndokaj,12255,Buffalo,Ethan Orr,14895,Rutgers
+2015,11/29,Rutgers - West Virginia Dual,165,W,DEC,5 - 3,Tim Wheeling,20564,West Virginia,Ethan Orr,14895,Rutgers
+2015,11/22,TCNJ Fall College Open,165,W,DEC,2 - 1,Connor Donahue,23275,Rowan College of South Jersey,Ethan Orr,14895,Rutgers
+2015,11/22,TCNJ Fall College Open,165,W,MD,10 - 0,KURT MESKE,12750,Unattached,Ethan Orr,14895,Rutgers
+2015,11/22,TCNJ Fall College Open,165,W,FALL,0:32,Julien Faison,23299,Camden County Community College,Ethan Orr,14895,Rutgers
+2015,11/16,Hofstra - Rutgers Dual,165,W,FALL,3:32,Nick Terdick,14764,Hofstra,Ethan Orr,14895,Rutgers
+2015,03/07,Big Ten Championships,174,W,MD,12 - 1,Josh Snook,14801,Maryland,Phillip Bakuckas,12289,Rutgers
+2015,03/07,Big Ten Championships,174,L,DEC,7 - 5,Nate Jackson,12264,Indiana,Phillip Bakuckas,12289,Rutgers
+2015,03/07,Big Ten Championships,174,L,DEC,8 - 7,Zac Brunson,15112,Illinois,Phillip Bakuckas,12289,Rutgers
+2015,03/07,Big Ten Championships,174,L,DEC,6 - 2,Mark Martin,12338,Ohio State,Phillip Bakuckas,12289,Rutgers
+2015,02/19,Rutgers - Drexel Dual,174,W,SV-1,2 - 0,Stephen Loiseau,19851,Drexel,Phillip Bakuckas,12289,Rutgers
+2015,02/14,Princeton - Rutgers Dual,174,W,DEC,8 - 3,Judd Ziegler,11464,Princeton,Phillip Bakuckas,12289,Rutgers
+2015,02/06,Rutgers - Wisconsin Dual,174,L,DEC,3 - 2,Frank Cousins,11582,Wisconsin,Phillip Bakuckas,12289,Rutgers
+2015,02/01,Ohio State - Rutgers Dual,174,L,DEC,8 - 2,Mark Martin,12338,Ohio State,Phillip Bakuckas,12289,Rutgers
+2015,01/31,Navy - Rutgers Dual,174,L,SV-1,6 - 4,Jadaen Bernstein,20595,Navy,Phillip Bakuckas,12289,Rutgers
+2015,01/25,Rutgers - Nebraska Dual,174,L,DEC,7 - 1,Robert Kokesh,12265,Nebraska,Phillip Bakuckas,12289,Rutgers
+2015,01/18,Rutgers - Maryland Dual,174,W,DEC,4 - 3,Josh Snook,14801,Maryland,Phillip Bakuckas,12289,Rutgers
+2015,01/16,Penn State - Rutgers Dual,174,L,DEC,7 - 1,Matt Brown,12256,Penn State,Phillip Bakuckas,12289,Rutgers
+2015,01/11,Minnesota - Rutgers Dual,174,L,DEC,5 - 1,Logan Storley,12266,Minnesota,Phillip Bakuckas,12289,Rutgers
+2015,01/09,Rutgers - Illinois Dual,174,L,DEC,8 - 2,Zac Brunson,15112,Illinois,Phillip Bakuckas,12289,Rutgers
+2015,01/02,Iowa - Rutgers Dual,174,L,DEC,5 - 0,Mike Evans,12244,Iowa,Phillip Bakuckas,12289,Rutgers
+2015,12/21,Rutgers - Army Dual,174,L,DEC,4 - 2,Brian Harvey,12302,Army West Point,Phillip Bakuckas,12289,Rutgers
+2015,12/21,Rutgers - Davidson Dual,174,W,TF4,17 - 1 4:09,Nathaniel Powers,12788,Davidson,Phillip Bakuckas,12289,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,174,L,SV-1,3 - 1,Davonte Mahomes,20019,Michigan,Phillip Bakuckas,12289,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,174,L,DEC,6 - 5,Mark Martin,12338,Ohio State,Phillip Bakuckas,12289,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,174,W,DEC,1 - 0,Duke Pickett,12281,Cornell,Phillip Bakuckas,12289,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,174,W,SV-1,2 - 1,Frank Affronti,12301,Hofstra,Phillip Bakuckas,12289,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,174,W,DEC,3 - 2,Curt Maas,11528,Northern Iowa,Phillip Bakuckas,12289,Rutgers
+2015,11/29,Rutgers - Oklahoma Dual,174,W,DEC,4 - 3,Matt Reed,15381,Oklahoma,Phillip Bakuckas,12289,Rutgers
+2015,11/29,Rutgers - Buffalo Dual,174,W,MD,15 - 6,Muhamid McBryde,15128,Buffalo,Phillip Bakuckas,12289,Rutgers
+2015,11/29,Rutgers - West Virginia Dual,174,W,MD,8 - 0,Ross Renzi,11474,West Virginia,Phillip Bakuckas,12289,Rutgers
+2015,11/22,TCNJ Fall College Open,174,W,TF4,17 - 2 3:05,Devin Mcmonagle,23277,Rowan College of South Jersey,Phillip Bakuckas,12289,Rutgers
+2015,11/22,TCNJ Fall College Open,174,W,TF4,15 - 0 7:00,Joe Prevost,20738,Rider,Phillip Bakuckas,12289,Rutgers
+2015,11/22,TCNJ Fall College Open,174,W,FALL,1:54,David Fenton,12860,Rider,Phillip Bakuckas,12289,Rutgers
+2015,11/22,TCNJ Fall College Open,174,W,FALL,1:49,Auston Hummel,19673,Bloomsburg,Phillip Bakuckas,12289,Rutgers
+2015,11/16,Hofstra - Rutgers Dual,174,W,FALL,4:18,Frank Affronti,12301,Hofstra,Phillip Bakuckas,12289,Rutgers
+2015,11/02,Delaware Valley - Rutgers Dual,174,W,TF4,17 - 1 4:12,Ben Schweiger,23239,Delaware Valley,Phillip Bakuckas,12289,Rutgers
+2015,11/02,Centenary - Rutgers Dual,174,W,FALL,2:28,Donald Wagner,21983,Centenary,Phillip Bakuckas,12289,Rutgers
+2015,11/02,Stevens Institute of Technology  - Rutgers Dual,174,W,MD,15 - 7,Zachary Bass,14578,Stevens Tech,Phillip Bakuckas,12289,Rutgers
+2015,03/07,Big Ten Championships,184,W,DEC,4 - 3,Mitch Sliga,12522,Northwestern,Anthony Pafumi,12873,Rutgers
+2015,03/07,Big Ten Championships,184,L,MD,11 - 0,Patrick Kissel,12339,Purdue,Anthony Pafumi,12873,Rutgers
+2015,03/07,Big Ten Championships,184,L,DEC,8 - 3,Kenny Courts,12279,Ohio State,Anthony Pafumi,12873,Rutgers
+2015,03/07,Big Ten Championships,184,W,DEC,8 - 2,Anthony Gardner,22164,Maryland,Anthony Pafumi,12873,Rutgers
+2015,03/07,Big Ten Championships,184,L,MD,11 - 3,TJ Dudley,12526,Nebraska,Anthony Pafumi,12873,Rutgers
+2015,02/19,Rutgers - Drexel Dual,184,L,TB-1,4 - 2,Alex DeCiantis,12387,Drexel,Anthony Pafumi,12873,Rutgers
+2015,02/14,Princeton - Rutgers Dual,184,L,MD,10 - 2,Brett Harner,12294,Princeton,Anthony Pafumi,12873,Rutgers
+2015,02/08,Rutgers - Northwestern Dual,184,W,DEC,6 - 2,Mitch Sliga,12522,Northwestern,Anthony Pafumi,12873,Rutgers
+2015,02/06,Rutgers - Wisconsin Dual,184,L,DEC,9 - 3,Ricky Robertson,14042,Wisconsin,Anthony Pafumi,12873,Rutgers
+2015,01/31,Navy - Rutgers Dual,184,L,FALL,3:22,Michael Woulfe,12693,Navy,Anthony Pafumi,12873,Rutgers
+2015,01/25,Rutgers - Nebraska Dual,184,L,DEC,9 - 4,TJ Dudley,12526,Nebraska,Anthony Pafumi,12873,Rutgers
+2015,01/18,Rutgers - Maryland Dual,184,W,MD,11 - 2,Anthony Gardner,22164,Maryland,Anthony Pafumi,12873,Rutgers
+2015,01/16,Penn State - Rutgers Dual,184,L,DEC,10 - 4,Matt McCutcheon,12572,Penn State,Anthony Pafumi,12873,Rutgers
+2015,01/09,Rutgers - Illinois Dual,184,L,MD,12 - 4,Nikko Reyes,12688,Illinois,Anthony Pafumi,12873,Rutgers
+2015,12/28,Wilkes Open,184,L,DEC,6 - 1,Zack Zavatsky,20460,Virginia Tech,Anthony Pafumi,12873,Rutgers
+2015,12/28,Wilkes Open,184,W,FALL,5:54,Mark Tracy,19662,Binghamton,Anthony Pafumi,12873,Rutgers
+2015,12/28,Wilkes Open,184,W,FALL,2:44,Jake Koch,12298,VMI,Anthony Pafumi,12873,Rutgers
+2015,12/28,Wilkes Open,184,W,MFOR,0 - 0,Taylor Jackson,12867,Rutgers,Anthony Pafumi,12873,Rutgers
+2015,12/21,Rutgers - Davidson Dual,184,W,FALL,5:00,Scott Patrick,19841,Davidson,Anthony Pafumi,12873,Rutgers
+2015,12/07,Nittany Lion Open,184,W,DEC,3 - 1,Nathan Dow,12744,Army West Point,Anthony Pafumi,12873,Rutgers
+2015,12/07,Nittany Lion Open,184,L,FALL,0:49,Zack Zavatsky,20460,Virginia Tech,Anthony Pafumi,12873,Rutgers
+2015,12/07,Nittany Lion Open,184,W,DEC,7 - 3,Samson Imonode,12655,Army West Point,Anthony Pafumi,12873,Rutgers
+2015,12/07,Nittany Lion Open,184,W,MD,12 - 2,Kurtis Hewitt,23304,Midland,Anthony Pafumi,12873,Rutgers
+2015,12/07,Nittany Lion Open,184,W,FALL,6:42,AMRO ELANSARI,22608,Unattached,Anthony Pafumi,12873,Rutgers
+2015,12/07,Nittany Lion Open,184,W,DEC,7 - 3,James Frascella,12578,Penn State,Anthony Pafumi,12873,Rutgers
+2015,11/29,Rutgers - Oklahoma Dual,197,L,DEC,3 - 2,Brad Johnson,16410,Oklahoma,Anthony Pafumi,12873,Rutgers
+2015,11/29,Rutgers - West Virginia Dual,184,L,FALL,6:06,Bubba Scheffel,20475,West Virginia,Anthony Pafumi,12873,Rutgers
+2015,11/22,TCNJ Fall College Open,184,W,DEC,12 - 5,Zac Cibula,23305,Unattached,Anthony Pafumi,12873,Rutgers
+2015,11/22,TCNJ Fall College Open,184,W,FALL,4:27,Darren Pringle,23306,Kutztown,Anthony Pafumi,12873,Rutgers
+2015,11/22,TCNJ Fall College Open,184,W,DEC,3 - 1,Taylor Jackson,12867,Rutgers,Anthony Pafumi,12873,Rutgers
+2015,11/22,TCNJ Fall College Open,184,L,DEC,4 - 2,Hayden Hrymack,13118,Rutgers,Anthony Pafumi,12873,Rutgers
+2015,11/16,Hofstra - Rutgers Dual,184,W,TF4,16 - 1 7:00,Jermaine John,19927,Hofstra,Anthony Pafumi,12873,Rutgers
+2015,11/02,Centenary - Rutgers Dual,184,L,DEC,6 - 4,Joshua Sibblies,25205,Centenary,Anthony Pafumi,12873,Rutgers
+2015,11/02,Centenary - Rutgers Dual,184,L,DEC,6 - 4,Anthony Pafumi,23248,Centenary,Anthony Pafumi,12873,Rutgers
+2015,11/02,Delaware Valley - Rutgers Dual,184,W,DEC,8 - 2,Conner Gabriel,21528,Delaware Valley,Anthony Pafumi,12873,Rutgers
+2015,12/28,Wilkes Open,184,L,DEC,4 - 2,Nick Corba,12817,Cleveland State,Anthony Messner,12564,Rutgers
+2015,12/28,Wilkes Open,184,W,MD,12 - 0,Elliott Antler,20824,Sacred Heart,Anthony Messner,12564,Rutgers
+2015,12/28,Wilkes Open,184,L,DEC,3 - 1,Zack Zavatsky,20460,Virginia Tech,Anthony Messner,12564,Rutgers
+2015,12/28,Wilkes Open,184,W,DEC,5 - 2,Nick Corba,12817,Cleveland State,Anthony Messner,12564,Rutgers
+2015,12/07,Nittany Lion Open,184,L,MFOR,0 - 0,Nathan Dow,12744,Army West Point,Anthony Messner,12564,Rutgers
+2015,12/07,Nittany Lion Open,184,W,TF4,15 - 0 7:00,Nick Cortopassi,23575,Bethany,Anthony Messner,12564,Rutgers
+2015,12/07,Nittany Lion Open,184,W,DEC,7 - 1,Matt Doggett,19811,Columbia,Anthony Messner,12564,Rutgers
+2015,12/07,Nittany Lion Open,184,L,DEC,2 - 0,Jack McKeever,12791,Binghamton,Anthony Messner,12564,Rutgers
+2015,11/22,TCNJ Fall College Open,184,W,TF4,15 - 0 7:00,Zac Cibula,23305,Unattached,Anthony Messner,12564,Rutgers
+2015,11/22,TCNJ Fall College Open,184,L,DEC,7 - 3,Hayden Hrymack,13118,Rutgers,Anthony Messner,12564,Rutgers
+2015,11/22,TCNJ Fall College Open,184,W,TF4,15 - 0 7:00,Chris Miller,19905,George Mason,Anthony Messner,12564,Rutgers
+2015,11/22,TCNJ Fall College Open,184,W,FALL,0:45,Chanse Menendez,20748,Maryland,Anthony Messner,12564,Rutgers
+2015,11/16,East Stroudsburg Open,184,L,DEC,5 - 2,Samson Imonode,12655,Army West Point,Anthony Messner,12564,Rutgers
+2015,11/15,East Stroudsburg Open,184,W,MD,11 - 3,Lucky Shaut,20366,Rutgers,Anthony Messner,12564,Rutgers
+2015,11/15,East Stroudsburg Open,184,L,DEC,1 - 0,Alex DeCiantis,12387,Drexel,Anthony Messner,12564,Rutgers
+2015,11/15,East Stroudsburg Open,184,L,DEC,5 - 2,Samson Imonode,12655,Army West Point,Anthony Messner,12564,Rutgers
+2015,11/15,East Stroudsburg Open,184,W,DEC,3 - 2,Elliott Antler,20824,Sacred Heart,Anthony Messner,12564,Rutgers
+2015,02/01,Ohio State - Rutgers Dual,184,L,TF4,16 - 1 7:00,Kenny Courts,12279,Ohio State,Taylor Jackson,12867,Rutgers
+2015,12/28,Wilkes Open,184,L,MFOR,0 - 0,Nick Corba,12817,Cleveland State,Taylor Jackson,12867,Rutgers
+2015,12/28,Wilkes Open,184,L,MFOR,0 - 0,Anthony Pafumi,12873,Rutgers,Taylor Jackson,12867,Rutgers
+2015,12/28,Wilkes Open,184,W,MD,11 - 2,Giovanni Santiago,22905,Nassau Community College,Taylor Jackson,12867,Rutgers
+2015,12/28,Wilkes Open,184,W,FALL,1:45,Josh Durso-Finley,19697,Brown,Taylor Jackson,12867,Rutgers
+2015,11/22,TCNJ Fall College Open,184,L,DEC,3 - 1,Anthony Pafumi,12873,Rutgers,Taylor Jackson,12867,Rutgers
+2015,11/22,TCNJ Fall College Open,184,W,DEC,9 - 5,Kurtis Hewitt,23304,Midland,Taylor Jackson,12867,Rutgers
+2015,11/22,TCNJ Fall College Open,184,L,DEC,12 - 6,Chanse Menendez,20748,Maryland,Taylor Jackson,12867,Rutgers
+2015,11/16,East Stroudsburg Open,184,W,MFOR,0 - 0,Travis McKillop,22563,Pittsburgh,Taylor Jackson,12867,Rutgers
+2015,11/16,East Stroudsburg Open,184,W,DEC,7 - 4,Nick Corba,12817,Cleveland State,Taylor Jackson,12867,Rutgers
+2015,11/16,East Stroudsburg Open,184,W,MD,9 - 1,Tyler McLees,12737,Army West Point,Taylor Jackson,12867,Rutgers
+2015,11/16,East Stroudsburg Open,184,W,MD,15 - 5,Samson Imonode,12655,Army West Point,Taylor Jackson,12867,Rutgers
+2015,11/15,East Stroudsburg Open,184,L,MD,15 - 1,Lorenzo Thomas,12543,Pennsylvania,Taylor Jackson,12867,Rutgers
+2015,11/15,East Stroudsburg Open,184,W,MFOR,0 - 0,Travis McKillop,22563,Pittsburgh,Taylor Jackson,12867,Rutgers
+2015,11/15,East Stroudsburg Open,184,W,DEC,7 - 4,Nick Corba,12817,Cleveland State,Taylor Jackson,12867,Rutgers
+2015,11/15,East Stroudsburg Open,184,W,DEC,8 - 3,Anthony Mancini,19889,Franklin & Marshall,Taylor Jackson,12867,Rutgers
+2015,11/15,East Stroudsburg Open,184,W,MD,9 - 1,Tyler McLees,12737,Army West Point,Taylor Jackson,12867,Rutgers
+2015,11/15,East Stroudsburg Open,184,W,MD,15 - 5,Samson Imonode,12655,Army West Point,Taylor Jackson,12867,Rutgers
+2015,11/15,East Stroudsburg Open,184,L,TF4,15 - 0 7:00,Lorenzo Thomas,12543,Pennsylvania,Taylor Jackson,12867,Rutgers
+2015,11/02,Stevens Institute of Technology  - Rutgers Dual,184,W,DEC,7 - 3,Phil Woods,16519,Stevens Tech,Taylor Jackson,12867,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,184,L,DEC,13 - 7,Dalton Shoop,16270,Army West Point,Lucky Shaut,20366,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,184,L,DEC,6 - 4,Joe Prevost,20738,Rider,Lucky Shaut,20366,Rutgers
+2015,12/07,Nittany Lion Open,184,L,DEC,6 - 2,Scott Votino,19645,Army West Point,Lucky Shaut,20366,Rutgers
+2015,12/07,Nittany Lion Open,184,L,DEC,6 - 1,Zach Bruce,20321,Pittsburgh,Lucky Shaut,20366,Rutgers
+2015,11/22,TCNJ Fall College Open,184,W,FALL,2:20,Nathanael Carbonaro,23293,Camden County Community College,Lucky Shaut,20366,Rutgers
+2015,11/22,TCNJ Fall College Open,184,L,DEC,8 - 4,Zac Cibula,23305,Unattached,Lucky Shaut,20366,Rutgers
+2015,11/22,TCNJ Fall College Open,184,W,DEC,5 - 2,Kyle Lynch,23294,The Citadel,Lucky Shaut,20366,Rutgers
+2015,11/22,TCNJ Fall College Open,184,L,DEC,10 - 4,Chanse Menendez,20748,Maryland,Lucky Shaut,20366,Rutgers
+2015,11/15,East Stroudsburg Open,184,L,MD,11 - 3,Anthony Messner,12564,Rutgers,Lucky Shaut,20366,Rutgers
+2015,11/02,Clarion Open,184,L,MD,8 - 0,Nick Fiegener,19738,Cal Poly,Lucky Shaut,20366,Rutgers
+2015,03/07,Big Ten Championships,197,W,MFOR,0 - 0,Timmy McCall,13109,Wisconsin,Hayden Hrymack,13118,Rutgers
+2015,03/07,Big Ten Championships,197,L,DEC,6 - 2,Aaron Studebaker,12422,Nebraska,Hayden Hrymack,13118,Rutgers
+2015,03/07,Big Ten Championships,197,L,DEC,2 - 0,Jeff Koepke,12676,Illinois,Hayden Hrymack,13118,Rutgers
+2015,03/07,Big Ten Championships,197,L,DEC,9 - 5,Nathan Burak,13135,Iowa,Hayden Hrymack,13118,Rutgers
+2015,03/07,Big Ten Championships,197,W,DEC,6 - 3,Aaron Studebaker,12422,Nebraska,Hayden Hrymack,13118,Rutgers
+2015,02/19,Rutgers - Drexel Dual,197,W,DEC,7 - 2,Brandon Litten,13097,Drexel,Hayden Hrymack,13118,Rutgers
+2015,02/14,Princeton - Rutgers Dual,197,L,DEC,13 - 6,Abram Ayala,13120,Princeton,Hayden Hrymack,13118,Rutgers
+2015,02/08,Rutgers - Northwestern Dual,197,L,FALL,5:32,Alex Polizzi,13018,Northwestern,Hayden Hrymack,13118,Rutgers
+2015,02/06,Rutgers - Wisconsin Dual,197,W,DEC,6 - 5,Timmy McCall,13109,Wisconsin,Hayden Hrymack,13118,Rutgers
+2015,02/01,Ohio State - Rutgers Dual,197,L,TF4,24 - 8 7:00,Kyle Snyder,20253,Ohio State,Hayden Hrymack,13118,Rutgers
+2015,01/31,Navy - Rutgers Dual,197,W,DEC,4 - 3,Steban Cervantes,20597,Navy,Hayden Hrymack,13118,Rutgers
+2015,01/11,Minnesota - Rutgers Dual,184,L,MD,19 - 9,Brett Pfarr,12441,Minnesota,Hayden Hrymack,13118,Rutgers
+2015,01/02,Iowa - Rutgers Dual,184,L,FALL,3:52,Sammy Brooks,12589,Iowa,Hayden Hrymack,13118,Rutgers
+2015,12/21,Rutgers - Army Dual,184,L,DEC,3 - 1,Austin Wilding,12511,Army West Point,Hayden Hrymack,13118,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,184,L,MD,9 - 0,TJ Dudley,12526,Nebraska,Hayden Hrymack,13118,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,184,L,MD,14 - 3,Gabe Dean,12580,Cornell,Hayden Hrymack,13118,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,SV-1,6 - 5,Tyler Askey,12657,Virginia,Hayden Hrymack,13118,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,DEC,6 - 4,Austin Gaun,23806,Grand Canyon,Hayden Hrymack,13118,Rutgers
+2015,11/29,Rutgers - Oklahoma Dual,184,W,FALL,5:30,Brooks Climmons,20808,Oklahoma,Hayden Hrymack,13118,Rutgers
+2015,11/29,Rutgers - Buffalo Dual,184,W,DEC,7 - 5,Tony Lock,12489,Buffalo,Hayden Hrymack,13118,Rutgers
+2015,11/29,Rutgers - West Virginia Dual,197,L,MD,12 - 4,Hayden Hrymack,23310,West Virginia,Hayden Hrymack,13118,Rutgers
+2015,11/22,TCNJ Fall College Open,184,W,DEC,4 - 2,Anthony Pafumi,12873,Rutgers,Hayden Hrymack,13118,Rutgers
+2015,11/22,TCNJ Fall College Open,184,W,DEC,7 - 3,Anthony Messner,12564,Rutgers,Hayden Hrymack,13118,Rutgers
+2015,11/22,TCNJ Fall College Open,184,W,FALL,6:00,Nick Del Priscolli,23303,Rowan College of South Jersey,Hayden Hrymack,13118,Rutgers
+2015,11/22,TCNJ Fall College Open,184,W,DEC,8 - 7,Chanse Menendez,20748,Maryland,Hayden Hrymack,13118,Rutgers
+2015,11/16,Hofstra - Rutgers Dual,197,W,MD,13 - 3,Michael Oxley,19929,Hofstra,Hayden Hrymack,13118,Rutgers
+2015,01/18,Rutgers - Maryland Dual,197,L,DEC,6 - 4,Rob Fitzgerald,20002,Maryland,Andrew Campolattano,20357,Rutgers
+2015,01/16,Penn State - Rutgers Dual,197,L,DEC,8 - 2,Morgan McIntosh,13012,Penn State,Andrew Campolattano,20357,Rutgers
+2015,01/11,Minnesota - Rutgers Dual,197,L,MD,11 - 2,Scott Schiller,12736,Minnesota,Andrew Campolattano,20357,Rutgers
+2015,01/09,Rutgers - Illinois Dual,197,L,DEC,2 - 0,Jeff Koepke,12676,Illinois,Andrew Campolattano,20357,Rutgers
+2015,01/02,Iowa - Rutgers Dual,197,W,DEC,8 - 5,Kris Klapprodt,14496,Iowa,Andrew Campolattano,20357,Rutgers
+2015,01/25,Rutgers - Nebraska Dual,197,L,MD,14 - 1,Aaron Studebaker,12422,Nebraska,Ralph Normandia,20363,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,197,L,DEC,8 - 5,Tristan Sponseller,20593,Lock Haven,Ralph Normandia,20363,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,197,W,MD,11 - 3,Nick Perri,24655,Unattached,Ralph Normandia,20363,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,197,W,MD,15 - 7,Peter Stewart,41878,Northern Iowa,Ralph Normandia,20363,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,197,W,FALL,0:46,Brandon Stover,24730,Pennsylvania,Ralph Normandia,20363,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,197,L,DEC,8 - 1,Jake Anderson,23596,Spartan Combat RTC,Ralph Normandia,20363,Rutgers
+2015,12/28,Wilkes Open,197,L,FALL,1:43,Freddy Vidal,22912,Nassau Community College,Ralph Normandia,20363,Rutgers
+2015,12/28,Wilkes Open,197,W,DEC,11 - 10,Kanez Omar,19804,Cleveland State,Ralph Normandia,20363,Rutgers
+2015,12/28,Wilkes Open,197,L,DEC,6 - 3,Sebastien Levin,13150,Brown,Ralph Normandia,20363,Rutgers
+2015,12/21,Rutgers - Army Dual,197,L,MD,11 - 3,Bryce Barnes,13133,Army West Point,Ralph Normandia,20363,Rutgers
+2015,12/21,Rutgers - Davidson Dual,197,L,DEC,4 - 3,Ian Solcz,12550,Davidson,Ralph Normandia,20363,Rutgers
+2015,11/29,Rutgers - Buffalo Dual,197,L,DEC,7 - 4,Joe Ariola,12696,Buffalo,Ralph Normandia,20363,Rutgers
+2015,11/22,TCNJ Fall College Open,197,W,FALL,1:04,Connor Dixon,23296,Rowan College of South Jersey,Ralph Normandia,20363,Rutgers
+2015,11/22,TCNJ Fall College Open,197,L,DEC,4 - 3,Nathaniel Leer,21572,The Citadel,Ralph Normandia,20363,Rutgers
+2015,11/22,TCNJ Fall College Open,197,W,FALL,1:26,Mathew Oliva,23307,Midland,Ralph Normandia,20363,Rutgers
+2015,11/22,TCNJ Fall College Open,197,W,DEC,7 - 3,Dominic Carfagno,19665,Bloomsburg,Ralph Normandia,20363,Rutgers
+2015,11/22,TCNJ Fall College Open,197,W,DEC,6 - 2,Dominic Carfagno,19665,Bloomsburg,Ralph Normandia,20363,Rutgers
+2015,11/02,Delaware Valley - Rutgers Dual,197,W,DEC,3 - 1,Aaron Karns,22801,Delaware Valley,Ralph Normandia,20363,Rutgers
+2015,11/02,Centenary - Rutgers Dual,197,W,DEC,9 - 4,Joe Ragsdale,23249,Centenary,Ralph Normandia,20363,Rutgers
+2015,11/02,Stevens Institute of Technology  - Rutgers Dual,197,W,DEC,7 - 6,Rob Maggiulli,21010,Stevens Tech,Ralph Normandia,20363,Rutgers
+2015,03/19,NCAA Championships,285,L,DEC,5 - 3,Ty Walz,14246,Virginia Tech,William Smith,14207,Rutgers
+2015,03/19,NCAA Championships,285,W,MD,12 - 2,Ross Larson,14299,Oklahoma,William Smith,14207,Rutgers
+2015,03/19,NCAA Championships,285,W,MD,8 - 0,Jake Kettler,14191,George Mason,William Smith,14207,Rutgers
+2015,03/19,NCAA Championships,285,L,DEC,8 - 2,Nick Gwiazdowski,14221,NC State,William Smith,14207,Rutgers
+2015,03/07,Big Ten Championships,285,W,DEC,5 - 2,Collin Jensen,14132,Nebraska,William Smith,14207,Rutgers
+2015,03/07,Big Ten Championships,285,W,DEC,6 - 1,Garret Goldman,18200,Indiana,William Smith,14207,Rutgers
+2015,03/07,Big Ten Championships,285,L,DEC,6 - 4,Spencer Myers,14271,Maryland,William Smith,14207,Rutgers
+2015,03/07,Big Ten Championships,285,L,DEC,6 - 3,Connor Medbery,14314,Wisconsin,William Smith,14207,Rutgers
+2015,03/07,Big Ten Championships,285,W,DEC,8 - 1,Nick Tavanello,14228,Ohio State,William Smith,14207,Rutgers
+2015,02/19,Rutgers - Drexel Dual,285,W,MD,11 - 2,Alex Foley,19848,Drexel,William Smith,14207,Rutgers
+2015,02/14,Princeton - Rutgers Dual,285,W,DEC,7 - 2,Raymond O'Donnell,37426,Princeton,William Smith,14207,Rutgers
+2015,02/08,Rutgers - Northwestern Dual,285,L,DEC,8 - 2,Mike McMullan,14239,Northwestern,William Smith,14207,Rutgers
+2015,02/06,Rutgers - Wisconsin Dual,285,L,DEC,4 - 1,Connor Medbery,14314,Wisconsin,William Smith,14207,Rutgers
+2015,02/01,Ohio State - Rutgers Dual,285,W,DEC,5 - 2,Ray Gordon,18179,Ohio State,William Smith,14207,Rutgers
+2015,01/31,Navy - Rutgers Dual,285,W,DEC,8 - 1,Colynn Cook,14176,Navy,William Smith,14207,Rutgers
+2015,01/25,Rutgers - Nebraska Dual,285,W,SV-1,5 - 3,Collin Jensen,14132,Nebraska,William Smith,14207,Rutgers
+2015,01/18,Rutgers - Maryland Dual,285,L,SV-2,5 - 3,Spencer Myers,14271,Maryland,William Smith,14207,Rutgers
+2015,01/16,Penn State - Rutgers Dual,285,L,SV-1,5 - 3,Jon Gingrich,14213,Penn State,William Smith,14207,Rutgers
+2015,01/11,Minnesota - Rutgers Dual,285,L,DEC,6 - 5,Michael Kroells,14331,Minnesota,William Smith,14207,Rutgers
+2015,01/09,Rutgers - Illinois Dual,285,W,SV-2,2 - 1,Brooks Black,19933,Illinois,William Smith,14207,Rutgers
+2015,01/02,Iowa - Rutgers Dual,285,L,DEC,6 - 2,Bobby Telford,14116,Iowa,William Smith,14207,Rutgers
+2015,12/28,Wilkes Open,285,W,MD,14 - 0,Mauro Correnti,14193,Lock Haven,William Smith,14207,Rutgers
+2015,12/28,Wilkes Open,285,W,MD,11 - 0,Connor Calkins,19648,Binghamton,William Smith,14207,Rutgers
+2015,12/28,Wilkes Open,285,W,DEC,8 - 1,Alex Foley,19848,Drexel,William Smith,14207,Rutgers
+2015,12/28,Wilkes Open,285,W,DEC,8 - 1,Mike Silvis,14180,Buffalo,William Smith,14207,Rutgers
+2015,12/21,Rutgers - Army Dual,285,W,FALL,3:00,Mason Kumashiro,12509,Army West Point,William Smith,14207,Rutgers
+2015,12/21,Rutgers - Davidson Dual,285,W,FALL,1:43,Ed Isola,14192,Davidson,William Smith,14207,Rutgers
+2015,11/02,Stevens Institute of Technology  - Rutgers Dual,285,W,MD,14 - 1,Chris Florek,23245,Stevens Tech,William Smith,14207,Rutgers
+2015,11/02,Delaware Valley - Rutgers Dual,285,W,DEC,5 - 0,Zachery Roseberry,21575,Delaware Valley,William Smith,14207,Rutgers
+2015,12/29,Midlands Championships,285,L,DEC,7 - 0,Brock Horwath,16995,Wisconsin,Wesley Bernard,20356,Rutgers
+2015,12/29,Midlands Championships,285,W,DEC,4 - 1,Alex Macki,14278,South Dakota State,Wesley Bernard,20356,Rutgers
+2015,12/29,Midlands Championships,285,L,TF4,16 - 0 7:00,Connor Medbery,14314,Wisconsin,Wesley Bernard,20356,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,285,L,DEC,4 - 1,Brian Macchione,13045,Northern Colorado,Wesley Bernard,20356,Rutgers
+2015,12/05,Cliff Keen Las Vegas Invitational,285,L,DEC,8 - 1,David Ng,14206,Harvard,Wesley Bernard,20356,Rutgers
+2015,11/29,Rutgers - Oklahoma Dual,285,L,FALL,0:28,Ross Larson,14299,Oklahoma,Wesley Bernard,20356,Rutgers
+2015,11/29,Rutgers - Buffalo Dual,285,W,DEC,2 - 1,Ian James,19721,Buffalo,Wesley Bernard,20356,Rutgers
+2015,11/29,Rutgers - West Virginia Dual,285,L,DEC,1 - 0,AJ Vizcarrondo,14266,West Virginia,Wesley Bernard,20356,Rutgers
+2015,11/22,TCNJ Fall College Open,285,W,DEC,9 - 2,Christian Jenco,22617,Kutztown,Wesley Bernard,20356,Rutgers
+2015,11/22,TCNJ Fall College Open,285,W,DEC,9 - 2,Ben Aquilina,22488,Midland,Wesley Bernard,20356,Rutgers
+2015,11/22,TCNJ Fall College Open,285,L,DEC,4 - 0,Dawson Peck,22445,Maryland,Wesley Bernard,20356,Rutgers
+2015,11/22,TCNJ Fall College Open,285,W,DEC,3 - 0,Sean Twigg,14162,Maryland,Wesley Bernard,20356,Rutgers
+2015,11/16,Hofstra - Rutgers Dual,285,L,DEC,2 - 0,Michael Hughes,14198,Hofstra,Wesley Bernard,20356,Rutgers
+2015,11/02,Clarion Open,285,L,DEC,1 - 0,Joshua Davis,14211,Clarion,Wesley Bernard,20356,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,285,L,DEC,4 - 0,Carter Shipley,24630,Navy,Nicholas LaShell,20362,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,285,W,DEC,5 - 3,Ethan Stanley,14308,Navy,Nicholas LaShell,20362,Rutgers
+2015,01/18,Shorty Hitchcock Memorial Open,285,W,DEC,2 - 1,Mason Kumashiro,12509,Army West Point,Nicholas LaShell,20362,Rutgers
+2015,12/28,Wilkes Open,285,L,DEC,1 - 0,Alex Foley,19848,Drexel,Nicholas LaShell,20362,Rutgers
+2015,12/28,Wilkes Open,285,L,MD,12 - 4,Mauro Correnti,14193,Lock Haven,Nicholas LaShell,20362,Rutgers
+2015,12/28,Wilkes Open,285,W,FALL,3:51,John Hartnett,20830,Sacred Heart,Nicholas LaShell,20362,Rutgers
+2015,12/28,Wilkes Open,285,W,DEC,4 - 0,Ryan Kail,14182,Maryland,Nicholas LaShell,20362,Rutgers
+2015,12/07,Nittany Lion Open,285,L,DEC,6 - 0,Brandon Taylor,22456,Virginia Tech,Nicholas LaShell,20362,Rutgers
+2015,12/07,Nittany Lion Open,285,L,DEC,3 - 1,Ben Aquilina,22488,Midland,Nicholas LaShell,20362,Rutgers
+2015,11/15,East Stroudsburg Open,285,L,DEC,3 - 0,Alex Foley,19848,Drexel,Nicholas LaShell,20362,Rutgers
+2015,11/15,East Stroudsburg Open,285,L,DEC,4 - 0,Colynn Cook,14176,Navy,Nicholas LaShell,20362,Rutgers
+2015,11/02,Clarion Open,285,L,DEC,4 - 3,Jordan Karst,17060,Utah Valley,Nicholas LaShell,20362,Rutgers
+2015,11/02,Delaware Valley - Rutgers Dual,285,W,DEC,5 - 0,Zachery Roseberry,21575,Delaware Valley,Zach Roseberry,23240,Rutgers

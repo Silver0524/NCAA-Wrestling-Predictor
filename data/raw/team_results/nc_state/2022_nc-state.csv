@@ -1,0 +1,654 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2022,03/17,NCAA Championships,125,L,DEC,5 - 1,Eric Barnett,56753,Wisconsin,Jakob Camacho,50655,Nc State
+2022,03/17,NCAA Championships,125,W,DEC,8 - 5,Drake Ayala,66975,Iowa,Jakob Camacho,50655,Nc State
+2022,03/17,NCAA Championships,125,L,MD,10 - 2,Patrick Glory,51100,Princeton,Jakob Camacho,50655,Nc State
+2022,03/17,NCAA Championships,125,W,DEC,8 - 3,Joey Prata,44734,Oklahoma,Jakob Camacho,50655,Nc State
+2022,03/06,ACC Championships,125,W,DEC,3 - 1,Sam Latona,56742,Virginia Tech,Jakob Camacho,50655,Nc State
+2022,03/06,ACC Championships,125,W,DEC,8 - 3,Gage Curry,44583,Pittsburgh,Jakob Camacho,50655,Nc State
+2022,02/20,Virginia Tech - North Carolina State Dual,125,L,DEC,9 - 3,Sam Latona,56742,Virginia Tech,Jakob Camacho,50655,Nc State
+2022,02/18,North Carolina - North Carolina State Dual,125,W,DEC,7 - 2,Spencer Moore,68720,North Carolina,Jakob Camacho,50655,Nc State
+2022,02/11,Pittsburgh - North Carolina State Dual,125,W,MD,15 - 6,Gage Curry,44583,Pittsburgh,Jakob Camacho,50655,Nc State
+2022,02/04,Virginia - North Carolina State Dual,125,W,MD,12 - 3,Patrick McCormick,57063,Virginia,Jakob Camacho,50655,Nc State
+2022,01/29,NC State Presbyterian ECM,125,W,TF5,18 - 3 5:37,Jacob Brasseur,61212,Presbyterian,Jakob Camacho,50655,Nc State
+2022,01/28,North Carolina State - Duke Dual,125,W,FALL,6:16,Logan Agin,62979,Duke,Jakob Camacho,50655,Nc State
+2022,01/23,North Carolina State - Campbell Dual,125,W,DEC,3 - 1,Korbin Meink,49074,Campbell,Jakob Camacho,50655,Nc State
+2022,12/21,North Carolina State - Iowa Dual,125,L,DEC,6 - 1,Spencer Lee,49146,Iowa,Jakob Camacho,50655,Nc State
+2022,12/20,North Carolina State - Missouri Dual,125,L,DEC,7 - 4,Noah Surtin,56715,Missouri,Jakob Camacho,50655,Nc State
+2022,12/20,Binghamton - North Carolina State Dual,125,W,FALL,5:29,Nick Curley,73364,Binghamton,Jakob Camacho,50655,Nc State
+2022,12/12,North Carolina State - Appalachian State Dual,125,W,DEC,5 - 3,Caleb Smith,58559,Appalachian State,Jakob Camacho,50655,Nc State
+2022,12/02,Gardner-Webb - North Carolina State Dual,125,W,FALL,2:37,Aedyn Concepcion,69782,Gardner-Webb,Jakob Camacho,50655,Nc State
+2022,11/21,West Virginia - North Carolina State Dual,125,W,MD,14 - 4,Colton Drousias,63171,West Virginia,Jakob Camacho,50655,Nc State
+2022,11/14,Wolfpack Open,125,W,TF5,18 - 3 6:24,Caden Hagler,74459,Virginia Tech,Jakob Camacho,50655,Nc State
+2022,11/14,Wolfpack Open,125,W,TF5,19 - 4 5:44,Rylee Billings,57430,King,Jakob Camacho,50655,Nc State
+2022,11/14,Wolfpack Open,125,W,MD,12 - 3,Joziah Fry,80544,Campbell,Jakob Camacho,50655,Nc State
+2022,11/14,Wolfpack Open,125,L,MFOR,0 - 0,Korbin Meink,49074,Campbell,Jakob Camacho,50655,Nc State
+2022,01/29,NC State Presbyterian ECM,125,W,MD,16 - 4,Jacob Brasseur,61212,Presbyterian,James Joplin,71930,Nc State
+2022,01/29,NC State Presbyterian ECM,125,W,SV-1,3 - 1,Benny Gomez,47503,Presbyterian,James Joplin,71930,Nc State
+2022,01/23,NC State Campbell ECM,133,W,DEC,10 - 6,Anthony Molton,57207,Campbell,James Joplin,71930,Nc State
+2022,12/05,Patriot Open,125,W,MFOR,0 - 0,Cooper Flynn,72148,Virginia Tech,James Joplin,71930,Nc State
+2022,12/05,Patriot Open,125,W,DEC,3 - 2,Eddie Ventresca,62357,Virginia Tech,James Joplin,71930,Nc State
+2022,12/05,Patriot Open,125,W,MD,11 - 3,Kelly Dunnigan,71694,Pennsylvania,James Joplin,71930,Nc State
+2022,12/05,Patriot Open,125,W,DEC,5 - 3,Josh Pence,72942,George Mason,James Joplin,71930,Nc State
+2022,11/21,King Open,125,W,MD,16 - 6,William Finnearty,69411,Limestone,James Joplin,71930,Nc State
+2022,11/21,King Open,125,W,FALL,0:56,Evan Carrigan,63515,Newberry,James Joplin,71930,Nc State
+2022,11/21,King Open,125,W,DEC,7 - 4,Rylee Billings,57430,King,James Joplin,71930,Nc State
+2022,11/21,King Open,125,W,FALL,5:00,Zach Shupp,51187,Newberry,James Joplin,71930,Nc State
+2022,11/14,Wolfpack Open,125,L,DEC,10 - 5,Stevo Poulin,71929,NC State,James Joplin,71930,Nc State
+2022,11/14,Wolfpack Open,125,W,FALL,1:38,Caden Hagler,74459,Virginia Tech,James Joplin,71930,Nc State
+2022,11/14,Wolfpack Open,125,L,DEC,3 - 2,Eddie Ventresca,62357,Virginia Tech,James Joplin,71930,Nc State
+2022,11/14,Wolfpack Open,125,W,FALL,5:26,Frank Bonura,56342,Seton Hill,James Joplin,71930,Nc State
+2022,11/06,Battle at the Citadel,125,W,FALL,3:26,Jacob Simmons,71487,The Citadel,James Joplin,71930,Nc State
+2022,11/06,Battle at the Citadel,125,W,DEC,8 - 1,Ty Naquin,74339,Duke,James Joplin,71930,Nc State
+2022,11/06,Battle at the Citadel,125,L,TB-2,2 - 1,Quinn Melofchik,61895,Air Force,James Joplin,71930,Nc State
+2022,11/14,Wolfpack Open,125,L,MFOR,0 - 0,Cooper Flynn,72148,Virginia Tech,Stevo Poulin,71929,Nc State
+2022,11/14,Wolfpack Open,125,W,DEC,10 - 5,James Joplin,71930,NC State,Stevo Poulin,71929,Nc State
+2022,11/14,Wolfpack Open,125,W,TF5,18 - 2 5:19,Brady Sherback,57784,Seton Hill,Stevo Poulin,71929,Nc State
+2022,11/14,Wolfpack Open,125,W,DEC,7 - 1,Anthony Molton,57207,Campbell,Stevo Poulin,71929,Nc State
+2022,11/06,Battle at the Citadel,125,W,TF5,17 - 2 7:00,Christian Decatur,62466,Newberry,Stevo Poulin,71929,Nc State
+2022,11/06,Battle at the Citadel,125,W,DEC,6 - 1,Logan Agin,62979,Duke,Stevo Poulin,71929,Nc State
+2022,11/06,Battle at the Citadel,125,W,DEC,8 - 1,Quinn Melofchik,61895,Air Force,Stevo Poulin,71929,Nc State
+2022,03/17,NCAA Championships,133,L,DEC,4 - 1,Matt Ramos,57134,Purdue,Kai Orine,56908,Nc State
+2022,03/17,NCAA Championships,133,W,DEC,3 - 2,Haiden Drury,64645,Utah Valley,Kai Orine,56908,Nc State
+2022,03/17,NCAA Championships,133,L,DEC,7 - 4,Daton Fix,49263,Oklahoma State,Kai Orine,56908,Nc State
+2022,03/17,NCAA Championships,133,W,DEC,4 - 3,Joe Heilmann,51223,North Carolina,Kai Orine,56908,Nc State
+2022,03/06,ACC Championships,133,W,DEC,5 - 2,Brian Courtney,49331,Virginia,Kai Orine,56908,Nc State
+2022,03/06,ACC Championships,133,L,DEC,6 - 2,Korbin Myers,39637,Virginia Tech,Kai Orine,56908,Nc State
+2022,03/06,ACC Championships,133,W,DEC,5 - 3,Joe Heilmann,51223,North Carolina,Kai Orine,56908,Nc State
+2022,03/06,ACC Championships,133,W,TF5,19 - 3 4:00,Drake Doolittle,62376,Duke,Kai Orine,56908,Nc State
+2022,02/20,Virginia Tech - North Carolina State Dual,133,L,MD,14 - 6,Korbin Myers,39637,Virginia Tech,Kai Orine,56908,Nc State
+2022,02/18,North Carolina - North Carolina State Dual,133,L,SV-1,4 - 2,Joe Heilmann,51223,North Carolina,Kai Orine,56908,Nc State
+2022,02/11,Pittsburgh - North Carolina State Dual,133,L,DEC,4 - 1,Micky Phillippi,45230,Pittsburgh,Kai Orine,56908,Nc State
+2022,02/04,Virginia - North Carolina State Dual,133,W,DEC,10 - 5,Brian Courtney,49331,Virginia,Kai Orine,56908,Nc State
+2022,01/29,NC State Presbyterian ECM,133,W,TF5,16 - 1 7:00,Dominic Chavez,62498,Presbyterian,Kai Orine,56908,Nc State
+2022,01/28,North Carolina State - Duke Dual,133,W,TF5,17 - 2 4:25,Drake Doolittle,62376,Duke,Kai Orine,56908,Nc State
+2022,01/23,NC State Campbell ECM,133,W,TF5,16 - 1 7:00,Gabe Hixenbaugh,57133,Campbell,Kai Orine,56908,Nc State
+2022,01/23,North Carolina State - Campbell Dual,133,W,MD,10 - 1,Domenic Zaccone,56926,Campbell,Kai Orine,56908,Nc State
+2022,12/21,North Carolina State - Iowa Dual,133,L,MD,16 - 7,Austin DeSanto,49117,Iowa,Kai Orine,56908,Nc State
+2022,12/20,North Carolina State - Missouri Dual,133,W,DEC,7 - 3,Connor Brown,49321,Missouri,Kai Orine,56908,Nc State
+2022,12/02,Gardner-Webb - North Carolina State Dual,133,W,DEC,11 - 5,Todd Carter,69785,Gardner-Webb,Kai Orine,56908,Nc State
+2022,11/21,West Virginia - North Carolina State Dual,133,W,DEC,4 - 1,Garett Lautzenheiser,72996,West Virginia,Kai Orine,56908,Nc State
+2022,11/14,Wolfpack Open,133,W,DEC,7 - 0,Erik Roggie,73059,Virginia,Kai Orine,56908,Nc State
+2022,11/14,Wolfpack Open,133,W,TF5,15 - 0 4:52,Jake Keeling,72516,Virginia Tech,Kai Orine,56908,Nc State
+2022,11/14,Wolfpack Open,133,W,MD,13 - 3,Brandon Wittenberg,57647,Virginia Tech,Kai Orine,56908,Nc State
+2022,11/14,Wolfpack Open,133,W,DEC,2 - 0,Jarrett Trombley,50807,NC State,Kai Orine,56908,Nc State
+2022,11/14,Wolfpack Open,133,W,TF5,16 - 0 1:52,Marco Johnson,75078,Newberry,Kai Orine,56908,Nc State
+2022,02/04,NC State Virginia ECM,133,L,DEC,4 - 3,Brian Courtney,49331,Virginia,Jarrett Trombley,50807,Nc State
+2022,01/29,NC State Presbyterian ECM,133,W,FALL,6:11,Dominic Chavez,62498,Presbyterian,Jarrett Trombley,50807,Nc State
+2022,01/23,NC State Campbell ECM,133,W,TF5,16 - 1 7:00,Gabe Hixenbaugh,57133,Campbell,Jarrett Trombley,50807,Nc State
+2022,01/09,North Carolina State - Princeton Dual,133,W,MD,11 - 3,Nick Masters,67288,Princeton,Jarrett Trombley,50807,Nc State
+2022,12/20,Binghamton - North Carolina State Dual,133,W,INJ,6:01,Anthony Sobotker,60378,Binghamton,Jarrett Trombley,50807,Nc State
+2022,12/12,North Carolina State - Appalachian State Dual,133,L,SV-1,3 - 1,Sean Carter,62808,Appalachian State,Jarrett Trombley,50807,Nc State
+2022,11/14,Wolfpack Open,133,L,DEC,2 - 0,Kai Orine,56908,NC State,Jarrett Trombley,50807,Nc State
+2022,11/14,Wolfpack Open,133,W,MD,12 - 2,Joe Haynes,73057,Virginia,Jarrett Trombley,50807,Nc State
+2022,11/14,Wolfpack Open,133,W,DEC,3 - 0,Andrew Wert,50945,Virginia Tech,Jarrett Trombley,50807,Nc State
+2022,11/14,Wolfpack Open,133,W,DEC,9 - 4,Domenic Zaccone,56926,Campbell,Jarrett Trombley,50807,Nc State
+2022,11/06,Battle at the Citadel,133,W,DEC,6 - 0,Elijah Boyd,74349,Belmont Abbey,Jarrett Trombley,50807,Nc State
+2022,11/06,Battle at the Citadel,133,W,DEC,6 - 2,Jake Rotunda,55953,The Citadel,Jarrett Trombley,50807,Nc State
+2022,11/06,Battle at the Citadel,133,W,DEC,10 - 4,Drake Doolittle,62376,Duke,Jarrett Trombley,50807,Nc State
+2022,11/06,Battle at the Citadel,133,L,SV-1,6 - 4,Sidney Flores,49031,Air Force,Jarrett Trombley,50807,Nc State
+2022,03/17,NCAA Championships,141,L,SV-1,2 - 1,Clay Carlson,56441,South Dakota State,Ryan Jack,61122,Nc State
+2022,03/17,NCAA Championships,141,W,DEC,6 - 4,Quinn Kinner,51144,Rider,Ryan Jack,61122,Nc State
+2022,03/17,NCAA Championships,141,W,DEC,10 - 5,Wil Gil,51024,Franklin & Marshall,Ryan Jack,61122,Nc State
+2022,03/17,NCAA Championships,141,L,DEC,4 - 3,Kizhan Clarke,44878,North Carolina,Ryan Jack,61122,Nc State
+2022,03/06,ACC Championships,141,L,DEC,3 - 2,Cole Matthews,50936,Pittsburgh,Ryan Jack,61122,Nc State
+2022,03/06,ACC Championships,141,W,DEC,4 - 3,Kizhan Clarke,44878,North Carolina,Ryan Jack,61122,Nc State
+2022,03/06,ACC Championships,141,W,TF5,20 - 5 7:00,Patrick Rowland,60597,Duke,Ryan Jack,61122,Nc State
+2022,02/20,Virginia Tech - North Carolina State Dual,141,W,DEC,4 - 3,Collin Gerardi,51286,Virginia Tech,Ryan Jack,61122,Nc State
+2022,02/18,North Carolina - North Carolina State Dual,141,L,DEC,4 - 3,Kizhan Clarke,44878,North Carolina,Ryan Jack,61122,Nc State
+2022,02/11,Pittsburgh - North Carolina State Dual,141,L,DEC,3 - 1,Cole Matthews,50936,Pittsburgh,Ryan Jack,61122,Nc State
+2022,02/04,Virginia - North Carolina State Dual,141,W,DEC,4 - 3,Dylan Cedeno,63068,Virginia,Ryan Jack,61122,Nc State
+2022,01/23,North Carolina State - Campbell Dual,141,L,SV-1,3 - 1,Shannon Hanna,57654,Campbell,Ryan Jack,61122,Nc State
+2022,01/09,North Carolina State - Princeton Dual,141,W,MD,14 - 3,Danny Coles,54117,Princeton,Ryan Jack,61122,Nc State
+2022,12/21,North Carolina State - Iowa Dual,141,L,DEC,7 - 6,Jaydin Eierman,39508,Iowa,Ryan Jack,61122,Nc State
+2022,12/20,North Carolina State - Missouri Dual,141,L,DEC,9 - 3,Allan Hart,49193,Missouri,Ryan Jack,61122,Nc State
+2022,12/12,North Carolina State - Appalachian State Dual,141,W,DEC,9 - 3,Anthony Brito,49035,Appalachian State,Ryan Jack,61122,Nc State
+2022,12/02,Gardner-Webb - North Carolina State Dual,141,W,DEC,5 - 3,Trevon Majette,51364,Gardner-Webb,Ryan Jack,61122,Nc State
+2022,11/21,West Virginia - North Carolina State Dual,141,W,DEC,8 - 7,Caleb Rea,56445,West Virginia,Ryan Jack,61122,Nc State
+2022,11/14,Wolfpack Open,141,W,FALL,6:10,Kyren Butler,72944,Virginia,Ryan Jack,61122,Nc State
+2022,11/14,Wolfpack Open,141,L,DEC,3 - 1,Lachlan McNeil,62891,North Carolina,Ryan Jack,61122,Nc State
+2022,11/14,Wolfpack Open,141,W,DEC,8 - 7,Christian Small,67560,King,Ryan Jack,61122,Nc State
+2022,11/14,Wolfpack Open,141,W,DEC,8 - 2,Shannon Hanna,57654,Campbell,Ryan Jack,61122,Nc State
+2022,11/06,Battle at the Citadel,141,W,MD,13 - 2,Skylar Caban,74350,Belmont Abbey,Ryan Jack,61122,Nc State
+2022,11/06,Battle at the Citadel,141,W,FALL,1:35,Jackson Whitmire,71387,The Citadel,Ryan Jack,61122,Nc State
+2022,11/06,Battle at the Citadel,141,W,DEC,11 - 7,Garrett Kuchan,69522,Air Force,Ryan Jack,61122,Nc State
+2022,11/06,Battle at the Citadel,141,W,MD,10 - 2,Cody Phippen,50644,Air Force,Ryan Jack,61122,Nc State
+2022,01/29,NC State Presbyterian ECM,149,W,FALL,1:09,Michael Ramirez,69874,Presbyterian,Hunter Lewis,57309,Nc State
+2022,01/29,NC State Presbyterian ECM,141,W,MD,11 - 0,Khalid Brinkley,61614,Presbyterian,Hunter Lewis,57309,Nc State
+2022,01/09,NC State Princeton ECM,141,L,DEC,7 - 1,Jacob Mann,72935,Princeton,Hunter Lewis,57309,Nc State
+2022,01/09,NC State Princeton ECM,149,L,TF5,16 - 0 3:26,Josh Breeding,50616,Princeton,Hunter Lewis,57309,Nc State
+2022,12/20,Binghamton - North Carolina State Dual,141,L,DEC,8 - 2,Ryan Anderson,57130,Binghamton,Hunter Lewis,57309,Nc State
+2022,12/05,Patriot Open,141,L,DEC,8 - 4,Sam Hillegas,61125,Virginia Tech,Hunter Lewis,57309,Nc State
+2022,12/05,Patriot Open,141,W,DEC,6 - 4,David Kreidler,73329,Navy,Hunter Lewis,57309,Nc State
+2022,12/05,Patriot Open,141,W,MD,10 - 1,River Curtis,56071,Navy,Hunter Lewis,57309,Nc State
+2022,12/05,Patriot Open,141,W,FALL,1:21,Anthony Sciotto,51072,Navy,Hunter Lewis,57309,Nc State
+2022,12/05,Patriot Open,141,W,MD,16 - 5,Nick Cambria,70989,Davidson,Hunter Lewis,57309,Nc State
+2022,12/05,Patriot Open,141,W,FALL,2:27,Gavin Damasco,62965,Davidson,Hunter Lewis,57309,Nc State
+2022,11/21,NC State West Virginia ECM,149,L,DEC,4 - 0,Brayden Roberts,64960,West Virginia,Hunter Lewis,57309,Nc State
+2022,11/14,Wolfpack Open,141,W,FALL,1:14,Weston Ngyuen,76311,Unattached,Hunter Lewis,57309,Nc State
+2022,11/14,Wolfpack Open,141,L,MD,9 - 1,Lachlan McNeil,62891,North Carolina,Hunter Lewis,57309,Nc State
+2022,11/14,Wolfpack Open,141,W,FALL,6:56,Domenic DeFalco,71746,Campbell,Hunter Lewis,57309,Nc State
+2022,11/14,Wolfpack Open,141,W,SV-1,3 - 1,Chris Rivera,62331,Campbell,Hunter Lewis,57309,Nc State
+2022,11/14,Wolfpack Open,141,L,DEC,12 - 5,Shannon Hanna,57654,Campbell,Hunter Lewis,57309,Nc State
+2022,11/06,Battle at the Citadel,141,W,FALL,3:52,Will Cline,74344,Belmont Abbey,Hunter Lewis,57309,Nc State
+2022,11/06,Battle at the Citadel,141,W,FALL,1:52,Joe Clement,69605,The Citadel,Hunter Lewis,57309,Nc State
+2022,11/06,Battle at the Citadel,141,W,FALL,3:45,Patrick Rowland,60597,Duke,Hunter Lewis,57309,Nc State
+2022,11/06,Battle at the Citadel,141,W,DEC,3 - 2,Garrett Kuchan,69522,Air Force,Hunter Lewis,57309,Nc State
+2022,11/06,Battle at the Citadel,141,L,DEC,4 - 1,Cody Phippen,50644,Air Force,Hunter Lewis,57309,Nc State
+2022,01/29,NC State Presbyterian ECM,141,W,FALL,0:36,Khalid Brinkley,61614,Presbyterian,Jarred Papscy,56827,Nc State
+2022,01/09,NC State Princeton ECM,141,L,DEC,8 - 3,Danny Coles,54117,Princeton,Jarred Papscy,56827,Nc State
+2022,01/09,NC State Princeton ECM,149,L,FALL,2:32,Marshall Keller,51509,Princeton,Jarred Papscy,56827,Nc State
+2022,01/07,David Lehman Open,141,L,FALL,5:32,Gage Denatale,67547,Navy,Jarred Papscy,56827,Nc State
+2022,01/07,David Lehman Open,141,L,SV-1,3 - 1,Logan Brown,53821,Army West Point,Jarred Papscy,56827,Nc State
+2022,12/05,Patriot Open,141,W,DEC,4 - 1,Anthony Sciotto,51072,Navy,Jarred Papscy,56827,Nc State
+2022,12/05,Patriot Open,141,L,FALL,5:42,Anthony Sciotto,51072,Navy,Jarred Papscy,56827,Nc State
+2022,12/05,Patriot Open,141,W,DEC,6 - 2,Michael Cetta,72114,Rutgers,Jarred Papscy,56827,Nc State
+2022,12/05,Patriot Open,141,L,FALL,2:09,McKenzie Bell,67375,Rider,Jarred Papscy,56827,Nc State
+2022,12/05,Patriot Open,141,W,TB-2,3 - 2,Chris Rivera,62331,Campbell,Jarred Papscy,56827,Nc State
+2022,11/14,Wolfpack Open,141,W,FALL,3:58,Kyren Butler,72944,Virginia,Jarred Papscy,56827,Nc State
+2022,11/14,Wolfpack Open,141,W,DEC,3 - 2,Luke Ahrberg,71931,NC State,Jarred Papscy,56827,Nc State
+2022,11/14,Wolfpack Open,141,W,FALL,0:42,Devan Moore,63324,Newberry,Jarred Papscy,56827,Nc State
+2022,11/14,Wolfpack Open,141,W,DEC,10 - 3,Domenic DeFalco,71746,Campbell,Jarred Papscy,56827,Nc State
+2022,11/14,Wolfpack Open,141,L,DEC,7 - 4,Shannon Hanna,57654,Campbell,Jarred Papscy,56827,Nc State
+2022,03/17,NCAA Championships,149,W,MD,14 - 2,Kyle Parco,58562,Arizona State,Tariq Wilson,44862,Nc State
+2022,03/17,NCAA Championships,149,L,DEC,6 - 2,Austin Gomez,49153,Wisconsin,Tariq Wilson,44862,Nc State
+2022,03/17,NCAA Championships,149,W,DEC,9 - 5,Yahya Thomas,49245,Northwestern,Tariq Wilson,44862,Nc State
+2022,03/17,NCAA Championships,149,L,FALL,4:16,Ridge Lovett,57520,Nebraska,Tariq Wilson,44862,Nc State
+2022,03/17,NCAA Championships,149,W,DEC,4 - 3,Anthony Artalona,51039,Pennsylvania,Tariq Wilson,44862,Nc State
+2022,03/17,NCAA Championships,149,W,DEC,5 - 3,Michael Blockhus,57163,Minnesota,Tariq Wilson,44862,Nc State
+2022,03/06,ACC Championships,149,W,DEC,10 - 4,Bryce Andonian,56739,Virginia Tech,Tariq Wilson,44862,Nc State
+2022,03/06,ACC Championships,149,W,DEC,4 - 2,Zach Sherman,49216,North Carolina,Tariq Wilson,44862,Nc State
+2022,02/20,Virginia Tech - North Carolina State Dual,149,W,DEC,9 - 3,Bryce Andonian,56739,Virginia Tech,Tariq Wilson,44862,Nc State
+2022,02/18,North Carolina - North Carolina State Dual,149,W,DEC,6 - 2,Zach Sherman,49216,North Carolina,Tariq Wilson,44862,Nc State
+2022,02/11,Pittsburgh - North Carolina State Dual,149,W,DEC,6 - 3,Dan Mancini,58612,Pittsburgh,Tariq Wilson,44862,Nc State
+2022,02/04,Virginia - North Carolina State Dual,149,W,DEC,5 - 1,Jarod Verkleeren,49156,Virginia,Tariq Wilson,44862,Nc State
+2022,01/29,NC State Presbyterian ECM,149,W,TF5,15 - 0 3:24,Evan Clark,73009,Presbyterian,Tariq Wilson,44862,Nc State
+2022,01/28,North Carolina State - Duke Dual,149,W,DEC,4 - 3,Josh Finesilver,46112,Duke,Tariq Wilson,44862,Nc State
+2022,01/23,North Carolina State - Campbell Dual,149,W,DEC,4 - 0,Chris Rivera,62331,Campbell,Tariq Wilson,44862,Nc State
+2022,01/09,North Carolina State - Princeton Dual,149,W,DEC,6 - 4,Marshall Keller,51509,Princeton,Tariq Wilson,44862,Nc State
+2022,12/21,North Carolina State - Iowa Dual,149,W,DEC,7 - 3,Cobe Siebrecht,60716,Iowa,Tariq Wilson,44862,Nc State
+2022,12/20,North Carolina State - Missouri Dual,149,W,DEC,11 - 8,Josh Edmond,62704,Missouri,Tariq Wilson,44862,Nc State
+2022,12/20,Binghamton - North Carolina State Dual,149,W,DEC,9 - 4,Nick Lombard,51422,Binghamton,Tariq Wilson,44862,Nc State
+2022,12/02,Gardner-Webb - North Carolina State Dual,149,W,FALL,1:38,Corbin Dion,69783,Gardner-Webb,Tariq Wilson,44862,Nc State
+2022,11/21,West Virginia - North Carolina State Dual,149,W,MD,13 - 4,Jeffrey Boyd,62594,West Virginia,Tariq Wilson,44862,Nc State
+2022,01/29,Appalachain Open,149,L,DEC,3 - 1,Logan Ferrero,74330,Duke,Luke Ahrberg,71931,Nc State
+2022,01/29,Appalachain Open,149,W,MD,10 - 2,Matthew Williams,69865,Chattanooga,Luke Ahrberg,71931,Nc State
+2022,01/07,David Lehman Open,149,W,DEC,10 - 3,George Johnson,74525,West Virginia,Luke Ahrberg,71931,Nc State
+2022,01/07,David Lehman Open,149,W,FALL,2:57,Connor Eck,71824,Lock Haven,Luke Ahrberg,71931,Nc State
+2022,01/07,David Lehman Open,149,L,DEC,10 - 4,Cameron Robinson,62108,Iowa State,Luke Ahrberg,71931,Nc State
+2022,01/07,David Lehman Open,149,L,DEC,6 - 2,Tyler Morris,69862,Army West Point,Luke Ahrberg,71931,Nc State
+2022,12/11,Cleveland State Open,149,W,DEC,3 - 2,Walker Heard,62592,West Virginia,Luke Ahrberg,71931,Nc State
+2022,12/11,Cleveland State Open,149,L,DEC,9 - 4,Marcus Robinson,56479,Cleveland State,Luke Ahrberg,71931,Nc State
+2022,12/11,Cleveland State Open,149,L,DEC,9 - 3,Mason Breece,57362,Central Michigan,Luke Ahrberg,71931,Nc State
+2022,12/11,Cleveland State Open,149,W,FALL,1:16,Zac Cowan,73532,Bellarmine,Luke Ahrberg,71931,Nc State
+2022,12/05,Patriot Open,149,W,DEC,11 - 4,Josh Yost,62379,Unattached,Luke Ahrberg,71931,Nc State
+2022,12/05,Patriot Open,149,L,DEC,6 - 4,Ethen Miller,70914,Maryland,Luke Ahrberg,71931,Nc State
+2022,12/05,Patriot Open,149,L,MD,9 - 1,Danny Fongaro,51713,Columbia,Luke Ahrberg,71931,Nc State
+2022,12/05,Patriot Open,149,W,MD,14 - 4,Nathan Higley,71834,George Mason,Luke Ahrberg,71931,Nc State
+2022,12/05,Patriot Open,149,W,DEC,8 - 6,Matt Hoelke,72512,Rider,Luke Ahrberg,71931,Nc State
+2022,12/05,Patriot Open,149,W,MD,12 - 1,Garrett Stewart,62609,Davidson,Luke Ahrberg,71931,Nc State
+2022,11/21,King Open,149,W,FALL,2:39,Zach Harrington,75081,Newberry,Luke Ahrberg,71931,Nc State
+2022,11/21,King Open,149,W,MD,15 - 3,Peter Haverick,65007,Davis & Elkins,Luke Ahrberg,71931,Nc State
+2022,11/21,King Open,149,W,DEC,5 - 4,Craig Cook,63176,Davis & Elkins,Luke Ahrberg,71931,Nc State
+2022,11/14,Wolfpack Open,141,L,DEC,3 - 2,Jarred Papscy,56827,NC State,Luke Ahrberg,71931,Nc State
+2022,11/14,Wolfpack Open,141,W,FALL,1:41,Zach Harrington,75081,Newberry,Luke Ahrberg,71931,Nc State
+2022,11/14,Wolfpack Open,141,L,DEC,5 - 3,Wil Guida,62410,North Carolina,Luke Ahrberg,71931,Nc State
+2022,11/14,Wolfpack Open,141,W,FALL,2:59,Joel Cawoski,50246,Seton Hill,Luke Ahrberg,71931,Nc State
+2022,11/06,Battle at the Citadel,141,W,TF5,22 - 7 6:34,Skylar Caban,74350,Belmont Abbey,Luke Ahrberg,71931,Nc State
+2022,11/06,Battle at the Citadel,141,W,FALL,1:45,Khalid Brinkley,61614,Presbyterian,Luke Ahrberg,71931,Nc State
+2022,11/06,Battle at the Citadel,141,W,FALL,4:39,Parker Decker,69855,Duke,Luke Ahrberg,71931,Nc State
+2022,11/06,Battle at the Citadel,141,W,DEC,7 - 0,Patrick Rowland,60597,Duke,Luke Ahrberg,71931,Nc State
+2022,11/06,Battle at the Citadel,141,L,DEC,10 - 7,Garrett Kuchan,69522,Air Force,Luke Ahrberg,71931,Nc State
+2022,02/04,NC State Virginia ECM,157,L,MD,10 - 2,Jon Errico,45265,Virginia,Matt Fields,51613,Nc State
+2022,01/29,NC State Presbyterian ECM,157,W,DEC,7 - 0,Logan Spell,73011,Presbyterian,Matt Fields,51613,Nc State
+2022,12/12,North Carolina State - Appalachian State Dual,149,L,MD,11 - 3,John Millner,50212,Appalachian State,Matt Fields,51613,Nc State
+2022,03/17,NCAA Championships,157,L,FALL,4:36,Peyton Robb,56387,Nebraska,Ed Scott,64653,Nc State
+2022,03/17,NCAA Championships,157,L,DEC,5 - 3,Quincy Monday,53967,Princeton,Ed Scott,64653,Nc State
+2022,03/17,NCAA Championships,157,W,DEC,9 - 6,Justin Thomas,44882,Oklahoma,Ed Scott,64653,Nc State
+2022,03/17,NCAA Championships,157,W,FALL,4:45,Michael Petite,55596,Buffalo,Ed Scott,64653,Nc State
+2022,03/06,ACC Championships,157,W,DEC,5 - 2,Connor Brady,56741,Virginia Tech,Ed Scott,64653,Nc State
+2022,03/06,ACC Championships,157,W,FALL,2:03,Jake Keating,50315,Virginia,Ed Scott,64653,Nc State
+2022,03/06,ACC Championships,157,W,DEC,3 - 2,Austin O'Connor,49214,North Carolina,Ed Scott,64653,Nc State
+2022,02/20,Virginia Tech - North Carolina State Dual,157,W,DEC,4 - 3,Connor Brady,56741,Virginia Tech,Ed Scott,64653,Nc State
+2022,02/18,North Carolina - North Carolina State Dual,157,W,TF5,22 - 6 5:18,Mason Phillips,52835,North Carolina,Ed Scott,64653,Nc State
+2022,02/11,Pittsburgh - North Carolina State Dual,157,W,DEC,6 - 2,Elijah Cleary,44828,Pittsburgh,Ed Scott,64653,Nc State
+2022,02/04,Virginia - North Carolina State Dual,157,L,DEC,11 - 10,Jake Keating,50315,Virginia,Ed Scott,64653,Nc State
+2022,01/28,North Carolina State - Duke Dual,157,W,TF5,19 - 4 4:56,Wade Unger,63134,Duke,Ed Scott,64653,Nc State
+2022,01/23,North Carolina State - Campbell Dual,157,W,FALL,1:46,Matthew Dallara,51712,Campbell,Ed Scott,64653,Nc State
+2022,01/09,North Carolina State - Princeton Dual,157,W,DEC,6 - 4,Quincy Monday,53967,Princeton,Ed Scott,64653,Nc State
+2022,12/21,North Carolina State - Iowa Dual,157,W,FALL,1:10,Kaleb Young,44572,Iowa,Ed Scott,64653,Nc State
+2022,12/20,North Carolina State - Missouri Dual,157,W,DEC,3 - 2,Jarrett Jacques,50597,Missouri,Ed Scott,64653,Nc State
+2022,12/20,Binghamton - North Carolina State Dual,157,W,TF5,18 - 1 3:39,Tyler Martin,67294,Binghamton,Ed Scott,64653,Nc State
+2022,12/12,North Carolina State - Appalachian State Dual,157,W,MD,18 - 7,Cody Bond,50267,Appalachian State,Ed Scott,64653,Nc State
+2022,12/02,Gardner-Webb - North Carolina State Dual,157,W,TF5,20 - 4 3:42,Tyler Brignola,73727,Gardner-Webb,Ed Scott,64653,Nc State
+2022,11/21,West Virginia - North Carolina State Dual,157,W,MD,22 - 8,Alex Hornfeck,56494,West Virginia,Ed Scott,64653,Nc State
+2022,11/14,Wolfpack Open,157,W,DEC,4 - 0,Derek Fields,71932,NC State,Ed Scott,64653,Nc State
+2022,11/14,Wolfpack Open,157,W,FALL,2:18,AJ Kovacs,62442,NC State,Ed Scott,64653,Nc State
+2022,11/14,Wolfpack Open,157,W,TF5,16 - 1 2:04,Vincent Galang,67565,King,Ed Scott,64653,Nc State
+2022,11/14,Wolfpack Open,157,W,TF5,23 - 7 4:15,Hunter Noland,73726,Chattanooga,Ed Scott,64653,Nc State
+2022,11/14,Wolfpack Open,157,W,FALL,3:37,Jackson Hurst,73352,Chattanooga,Ed Scott,64653,Nc State
+2022,11/06,Battle at the Citadel,157,L,DEC,9 - 8,AJ Kovacs,62442,NC State,Ed Scott,64653,Nc State
+2022,11/06,Battle at the Citadel,157,W,FALL,0:56,Paul Jakub,74347,Belmont Abbey,Ed Scott,64653,Nc State
+2022,11/06,Battle at the Citadel,157,W,FALL,0:29,Aidan Lenz,73359,The Citadel,Ed Scott,64653,Nc State
+2022,11/06,Battle at the Citadel,157,W,FALL,1:54,Adar Schwarzbach,70747,Duke,Ed Scott,64653,Nc State
+2022,11/06,Battle at the Citadel,157,W,MD,15 - 6,Giano Petrucelli,62610,Air Force,Ed Scott,64653,Nc State
+2022,02/18,NC State North Carolina ECM,165,W,FALL,6:35,Isaias Estrada,72152,North Carolina,AJ Kovacs,62442,Nc State
+2022,02/04,NC State Virginia ECM,157,L,DEC,3 - 2,Jake Keating,50315,Virginia,AJ Kovacs,62442,Nc State
+2022,01/29,NC State Presbyterian ECM,174,W,DEC,6 - 5,Zachary Wells,67829,Presbyterian,AJ Kovacs,62442,Nc State
+2022,01/29,NC State Presbyterian ECM,157,W,DEC,10 - 3,Zachary Phillips,65871,Presbyterian,AJ Kovacs,62442,Nc State
+2022,01/09,NC State Princeton ECM,165,L,MD,15 - 3,Blaine Bergey,63157,Princeton,AJ Kovacs,62442,Nc State
+2022,01/09,North Carolina State - Princeton Dual,165,L,DEC,5 - 4,Jake Marsh,51129,Princeton,AJ Kovacs,62442,Nc State
+2022,01/07,David Lehman Open,157,L,MFOR,0 - 0,Nate Stephenson,71582,Davidson,AJ Kovacs,62442,Nc State
+2022,01/07,David Lehman Open,157,L,DEC,7 - 4,Keegan Rothrock,67258,Brown,AJ Kovacs,62442,Nc State
+2022,01/01,Southern Scuffle,157,L,DEC,7 - 3,Hunter Richard,49107,Cornell,AJ Kovacs,62442,Nc State
+2022,01/01,Southern Scuffle,157,W,DEC,6 - 3,Joe Lee,49666,Penn State,AJ Kovacs,62442,Nc State
+2022,01/01,Southern Scuffle,157,L,FALL,4:01,Jarrett Jacques,50597,Missouri,AJ Kovacs,62442,Nc State
+2022,01/01,Southern Scuffle,157,L,DEC,8 - 4,Brock Mauller,50596,Missouri,AJ Kovacs,62442,Nc State
+2022,01/01,Southern Scuffle,157,W,DEC,15 - 10,Tommy Askey,67040,Appalachian State,AJ Kovacs,62442,Nc State
+2022,01/01,Southern Scuffle,157,W,DEC,6 - 5,Cody Bond,50267,Appalachian State,AJ Kovacs,62442,Nc State
+2022,01/01,Southern Scuffle,157,W,DEC,4 - 1,Alex Hornfeck,56494,West Virginia,AJ Kovacs,62442,Nc State
+2022,01/01,Southern Scuffle,157,W,DEC,7 - 5,Lincoln Heck,66629,Chattanooga,AJ Kovacs,62442,Nc State
+2022,12/20,Collegiate Dual ECM,157,W,DEC,4 - 1,Luca Frinzi,57518,Lehigh,AJ Kovacs,62442,Nc State
+2022,11/14,Wolfpack Open,157,L,FALL,2:18,Ed Scott,64653,NC State,AJ Kovacs,62442,Nc State
+2022,11/14,Wolfpack Open,157,W,MD,10 - 2,Jackson Spires,71788,Virginia Tech,AJ Kovacs,62442,Nc State
+2022,11/14,Wolfpack Open,157,W,FALL,4:13,Jake Hart,55793,Virginia Tech,AJ Kovacs,62442,Nc State
+2022,11/14,Wolfpack Open,157,W,TF5,16 - 0 1:16,Alex Mercado,64938,King,AJ Kovacs,62442,Nc State
+2022,11/14,Wolfpack Open,157,W,TF5,16 - 1 2:58,Ryan Dobbs,71786,The Citadel,AJ Kovacs,62442,Nc State
+2022,11/06,Battle at the Citadel,157,W,TF5,17 - 1 5:36,Anthony Allen,74327,The Citadel,AJ Kovacs,62442,Nc State
+2022,11/06,Battle at the Citadel,157,W,DEC,9 - 8,Ed Scott,64653,NC State,AJ Kovacs,62442,Nc State
+2022,11/06,Battle at the Citadel,157,W,DEC,10 - 3,Dazjon Casto,57183,The Citadel,AJ Kovacs,62442,Nc State
+2022,11/06,Battle at the Citadel,157,W,TF5,16 - 0 3:27,Matthew Sloan,53252,Belmont Abbey,AJ Kovacs,62442,Nc State
+2022,11/06,Battle at the Citadel,157,W,SV-1,3 - 1,Wade Unger,63134,Duke,AJ Kovacs,62442,Nc State
+2022,01/29,Appalachain Open,157,W,TF5,16 - 0 1:28,Brandon Irigoyen-Camero,76652,Life University,Derek Fields,71932,Nc State
+2022,01/29,Appalachain Open,157,W,DEC,6 - 3,Garrett Thompson,73169,Ohio,Derek Fields,71932,Nc State
+2022,01/29,Appalachain Open,157,L,FALL,3:56,Austin O'Connor,49214,North Carolina,Derek Fields,71932,Nc State
+2022,01/29,Appalachain Open,157,W,SV-1,6 - 4,Tommy Askey,67040,Appalachian State,Derek Fields,71932,Nc State
+2022,01/07,David Lehman Open,157,L,FALL,1:31,Denton Spencer,49134,Virginia,Derek Fields,71932,Nc State
+2022,01/07,David Lehman Open,157,L,DEC,4 - 2,Jon Errico,45265,Virginia,Derek Fields,71932,Nc State
+2022,01/07,David Lehman Open,157,W,MD,12 - 3,George Ruiz,68719,Navy,Derek Fields,71932,Nc State
+2022,12/11,Cleveland State Open,157,W,TF5,15 - 0 7:00,Robert Boley,72212,Gannon,Derek Fields,71932,Nc State
+2022,12/11,Cleveland State Open,157,L,DEC,3 - 2,Paddy Gallagher,68724,Ohio State,Derek Fields,71932,Nc State
+2022,12/11,Cleveland State Open,157,W,TF5,15 - 0 7:00,Jayden Johnson,68160,Millersville,Derek Fields,71932,Nc State
+2022,12/11,Cleveland State Open,157,W,TF5,16 - 0 7:00,Bobby Pryhocki,50956,Kent State,Derek Fields,71932,Nc State
+2022,12/11,Cleveland State Open,157,L,DEC,5 - 4,Daniel Patten,62489,Cleveland State,Derek Fields,71932,Nc State
+2022,12/05,Patriot Open,157,W,DEC,7 - 3,Ty Finn,72150,Virginia Tech,Derek Fields,71932,Nc State
+2022,12/05,Patriot Open,157,W,DEC,6 - 0,Ty Finn,72150,Virginia Tech,Derek Fields,71932,Nc State
+2022,12/05,Patriot Open,157,W,TF5,17 - 1 6:14,Kevin Schork,72105,Maryland,Derek Fields,71932,Nc State
+2022,12/05,Patriot Open,157,L,FALL,5:54,Andrew Garr,57348,Columbia,Derek Fields,71932,Nc State
+2022,12/05,Patriot Open,157,W,DEC,14 - 9,Tyler Sung,64675,Lehigh,Derek Fields,71932,Nc State
+2022,12/05,Patriot Open,157,W,DEC,10 - 6,Bryce Sanderlin,63711,Davidson,Derek Fields,71932,Nc State
+2022,11/21,King Open,157,W,MD,14 - 3,Dallas Boone,60136,King,Derek Fields,71932,Nc State
+2022,11/21,King Open,157,W,TF5,15 - 0 7:00,Alex Jablonski,59859,Fairmont State,Derek Fields,71932,Nc State
+2022,11/21,King Open,157,W,MD,10 - 2,Noah Tarr,54400,Davis & Elkins,Derek Fields,71932,Nc State
+2022,11/21,King Open,157,L,DEC,3 - 1,Weston Wichman,58537,Chattanooga,Derek Fields,71932,Nc State
+2022,11/14,Wolfpack Open,157,L,DEC,4 - 0,Ed Scott,64653,NC State,Derek Fields,71932,Nc State
+2022,11/14,Wolfpack Open,157,W,MD,8 - 0,Ty Finn,72150,Virginia Tech,Derek Fields,71932,Nc State
+2022,11/14,Wolfpack Open,157,W,DEC,7 - 1,Jake Hart,55793,Virginia Tech,Derek Fields,71932,Nc State
+2022,11/14,Wolfpack Open,157,W,MD,15 - 6,Dallas Boone,60136,King,Derek Fields,71932,Nc State
+2022,11/14,Wolfpack Open,157,W,TF5,15 - 0 2:05,Aidan Lenz,73359,The Citadel,Derek Fields,71932,Nc State
+2022,11/06,Battle at the Citadel,157,W,FALL,2:34,Ryan Dobbs,71786,The Citadel,Derek Fields,71932,Nc State
+2022,11/06,Battle at the Citadel,157,W,TF5,17 - 1 5:07,Adar Schwarzbach,70747,Duke,Derek Fields,71932,Nc State
+2022,11/06,Battle at the Citadel,157,W,TF5,16 - 1 3:38,Grant Speer,57381,The Citadel,Derek Fields,71932,Nc State
+2022,11/06,Battle at the Citadel,157,W,TF5,16 - 0 3:35,Matthew Sloan,53252,Belmont Abbey,Derek Fields,71932,Nc State
+2022,11/06,Battle at the Citadel,157,W,MD,11 - 2,Brandon LaRue,63132,Duke,Derek Fields,71932,Nc State
+2022,11/06,Battle at the Citadel,157,L,DEC,2 - 0,Giano Petrucelli,62610,Air Force,Derek Fields,71932,Nc State
+2022,03/17,NCAA Championships,165,L,DEC,4 - 2,Izzak Olejnik,56509,Northern Illinois,Thomas Bullard,44611,Nc State
+2022,03/17,NCAA Championships,165,W,TF5,15 - 0 3:17,Cael Carlson,57337,Minnesota,Thomas Bullard,44611,Nc State
+2022,03/17,NCAA Championships,165,L,DEC,5 - 1,Zach Hartman,50586,Bucknell,Thomas Bullard,44611,Nc State
+2022,03/06,ACC Championships,165,W,DEC,1 - 0,Clayton Ulrey,62889,Virginia Tech,Thomas Bullard,44611,Nc State
+2022,03/06,ACC Championships,165,L,DEC,1 - 0,Justin McCoy,50946,Virginia,Thomas Bullard,44611,Nc State
+2022,03/06,ACC Championships,165,W,DEC,1 - 0,Sonny Santiago,61113,North Carolina,Thomas Bullard,44611,Nc State
+2022,02/20,Virginia Tech - North Carolina State Dual,165,W,DEC,4 - 0,Clayton Ulrey,62889,Virginia Tech,Thomas Bullard,44611,Nc State
+2022,02/18,North Carolina - North Carolina State Dual,165,W,MD,10 - 2,Isaias Estrada,72152,North Carolina,Thomas Bullard,44611,Nc State
+2022,02/11,Pittsburgh - North Carolina State Dual,165,L,TB-1,4 - 3,Jake Wentzel,45151,Pittsburgh,Thomas Bullard,44611,Nc State
+2022,02/04,Virginia - North Carolina State Dual,165,W,DEC,4 - 1,Justin McCoy,50946,Virginia,Thomas Bullard,44611,Nc State
+2022,01/28,NC State Duke ECM,165,W,DEC,6 - 0,Brandon LaRue,63132,Duke,Thomas Bullard,44611,Nc State
+2022,01/28,North Carolina State - Duke Dual,165,W,DEC,5 - 0,Gabe Dinette,51191,Duke,Thomas Bullard,44611,Nc State
+2022,01/23,NC State Campbell ECM,165,W,TF5,16 - 0 7:00,Josh Epperly,69731,Campbell,Thomas Bullard,44611,Nc State
+2022,01/23,North Carolina State - Campbell Dual,165,W,TF5,16 - 0 3:50,Riley Augustine,69727,Campbell,Thomas Bullard,44611,Nc State
+2022,01/01,Southern Scuffle,165,W,DEC,6 - 2,Jacob Null,71933,NC State,Thomas Bullard,44611,Nc State
+2022,01/01,Southern Scuffle,165,W,DEC,3 - 2,Alex Facundo,66706,Penn State,Thomas Bullard,44611,Nc State
+2022,01/01,Southern Scuffle,165,L,MFOR,0 - 0,Rodrick Mosley,50889,Gardner-Webb,Thomas Bullard,44611,Nc State
+2022,01/01,Southern Scuffle,165,L,MFOR,0 - 0,Cael Carlson,57337,Minnesota,Thomas Bullard,44611,Nc State
+2022,01/01,Southern Scuffle,165,L,DEC,3 - 2,William Formato,57034,Appalachian State,Thomas Bullard,44611,Nc State
+2022,01/01,Southern Scuffle,165,W,FALL,2:22,Drew Dickson,62581,George Mason,Thomas Bullard,44611,Nc State
+2022,01/01,Southern Scuffle,165,W,DEC,5 - 0,River Carroll,72526,VMI,Thomas Bullard,44611,Nc State
+2022,12/20,North Carolina State - Missouri Dual,165,L,DEC,9 - 3,Keegan O'Toole,61119,Missouri,Thomas Bullard,44611,Nc State
+2022,12/20,Binghamton - North Carolina State Dual,165,W,DEC,6 - 0,Brevin Cassella,67293,Binghamton,Thomas Bullard,44611,Nc State
+2022,12/12,North Carolina State - Appalachian State Dual,165,L,DEC,6 - 1,William Formato,57034,Appalachian State,Thomas Bullard,44611,Nc State
+2022,11/21,West Virginia - North Carolina State Dual,165,L,DEC,6 - 3,Peyton Hall,57711,West Virginia,Thomas Bullard,44611,Nc State
+2022,11/14,Wolfpack Open,165,W,FALL,3:48,Isaias Estrada,72152,North Carolina,Thomas Bullard,44611,Nc State
+2022,11/14,Wolfpack Open,165,W,TF5,15 - 0 5:18,Donald Cates,64932,NC State,Thomas Bullard,44611,Nc State
+2022,11/14,Wolfpack Open,165,W,FALL,1:18,Nolan Wheeler,69430,Newberry,Thomas Bullard,44611,Nc State
+2022,11/14,Wolfpack Open,165,W,FALL,2:25,Isaiah Poppe,71287,The Citadel,Thomas Bullard,44611,Nc State
+2022,11/14,Wolfpack Open,165,W,MFOR,0 - 0,Troy Nation,57189,Campbell,Thomas Bullard,44611,Nc State
+2022,01/01,Southern Scuffle,165,L,DEC,5 - 1,Rodrick Mosley,50889,Gardner-Webb,Donald Cates,64932,Nc State
+2022,01/01,Southern Scuffle,165,L,DEC,4 - 3,Cael Carlson,57337,Minnesota,Donald Cates,64932,Nc State
+2022,01/01,Southern Scuffle,165,W,DEC,8 - 2,Will Miller,73102,Appalachian State,Donald Cates,64932,Nc State
+2022,01/01,Southern Scuffle,165,W,DEC,9 - 4,Drew Nicholson,49091,Chattanooga,Donald Cates,64932,Nc State
+2022,01/01,Southern Scuffle,165,W,DEC,7 - 3,Devan Hendricks,62787,Bellarmine,Donald Cates,64932,Nc State
+2022,12/21,North Carolina State - Iowa Dual,165,L,DEC,7 - 2,Alex Marinelli,44574,Iowa,Donald Cates,64932,Nc State
+2022,12/20,Collegiate Dual ECM,174,L,DEC,6 - 2,Sean Harman,59678,Missouri,Donald Cates,64932,Nc State
+2022,12/05,Patriot Open,165,W,MD,10 - 2,Jake Stefanowicz,57039,Pennsylvania,Donald Cates,64932,Nc State
+2022,12/05,Patriot Open,165,W,DEC,4 - 2,Sammy Starr,73336,Navy,Donald Cates,64932,Nc State
+2022,12/05,Patriot Open,165,W,TF5,17 - 2 4:15,Gunner Spain,67255,Drexel,Donald Cates,64932,Nc State
+2022,12/05,Patriot Open,165,W,DEC,8 - 6,Jack McGill,71733,Columbia,Donald Cates,64932,Nc State
+2022,12/05,Patriot Open,165,W,DEC,11 - 5,Thayne Lawrence,62598,Lehigh,Donald Cates,64932,Nc State
+2022,11/14,Wolfpack Open,165,L,TF5,15 - 0 5:18,Thomas Bullard,44611,NC State,Donald Cates,64932,Nc State
+2022,11/14,Wolfpack Open,165,W,DEC,6 - 4,Sonny Santiago,61113,North Carolina,Donald Cates,64932,Nc State
+2022,11/14,Wolfpack Open,165,W,FALL,1:38,Otto Wolin,59633,Unattached,Donald Cates,64932,Nc State
+2022,11/14,Wolfpack Open,165,W,TF5,20 - 5 7:00,Kevin Muschell,73393,Campbell,Donald Cates,64932,Nc State
+2022,11/06,Battle at the Citadel,165,W,TF5,18 - 2 6:16,Andrew Morgan,62258,Belmont Abbey,Donald Cates,64932,Nc State
+2022,11/06,Battle at the Citadel,165,L,DEC,5 - 3,Selwyn Porter,57380,The Citadel,Donald Cates,64932,Nc State
+2022,11/06,Battle at the Citadel,165,W,DEC,9 - 3,Gabe Dinette,51191,Duke,Donald Cates,64932,Nc State
+2022,11/06,Battle at the Citadel,165,W,DEC,7 - 5,Jack Ganos,68695,Air Force,Donald Cates,64932,Nc State
+2022,03/17,NCAA Championships,174,W,MD,12 - 4,Michael Kemerer,39526,Iowa,Hayden Hidlay,44595,Nc State
+2022,03/17,NCAA Championships,174,W,DEC,8 - 2,Dustin Plott,57607,Oklahoma State,Hayden Hidlay,44595,Nc State
+2022,03/17,NCAA Championships,174,L,DEC,10 - 3,Carter Starocci,58819,Penn State,Hayden Hidlay,44595,Nc State
+2022,03/17,NCAA Championships,174,W,DEC,5 - 3,Michael Kemerer,39526,Iowa,Hayden Hidlay,44595,Nc State
+2022,03/17,NCAA Championships,174,W,MD,13 - 5,Matt Finesilver,47770,Duke,Hayden Hidlay,44595,Nc State
+2022,03/17,NCAA Championships,174,W,FALL,2:43,Jay Nivison,65850,Buffalo,Hayden Hidlay,44595,Nc State
+2022,03/06,ACC Championships,174,W,FALL,4:30,Justin Phillips,57093,Virginia,Hayden Hidlay,44595,Nc State
+2022,03/06,ACC Championships,174,L,DEC,3 - 2,Mekhi Lewis,49338,Virginia Tech,Hayden Hidlay,44595,Nc State
+2022,03/06,ACC Championships,174,W,DEC,7 - 6,Matt Finesilver,47770,Duke,Hayden Hidlay,44595,Nc State
+2022,02/20,Virginia Tech - North Carolina State Dual,174,W,SV-1,3 - 1,Mekhi Lewis,49338,Virginia Tech,Hayden Hidlay,44595,Nc State
+2022,02/18,North Carolina - North Carolina State Dual,174,L,FALL,4:36,Clay Lautt,49212,North Carolina,Hayden Hidlay,44595,Nc State
+2022,02/11,Pittsburgh - North Carolina State Dual,174,W,TF5,18 - 0 2:53,Hunter Kernan,57929,Pittsburgh,Hayden Hidlay,44595,Nc State
+2022,02/04,Virginia - North Carolina State Dual,174,W,FALL,2:56,Justin Phillips,57093,Virginia,Hayden Hidlay,44595,Nc State
+2022,01/28,North Carolina State - Duke Dual,174,W,DEC,6 - 3,Matt Finesilver,47770,Duke,Hayden Hidlay,44595,Nc State
+2022,01/23,NC State Campbell ECM,174,W,FALL,1:23,Cameron Andrews,61898,Campbell,Hayden Hidlay,44595,Nc State
+2022,01/23,North Carolina State - Campbell Dual,174,W,TF5,15 - 0 7:00,Austin Murphy,51608,Campbell,Hayden Hidlay,44595,Nc State
+2022,01/09,North Carolina State - Princeton Dual,174,W,TF5,17 - 2 7:00,Nate Dugan,57662,Princeton,Hayden Hidlay,44595,Nc State
+2022,12/21,North Carolina State - Iowa Dual,174,W,DEC,4 - 2,Nelson Brands,49994,Iowa,Hayden Hidlay,44595,Nc State
+2022,12/20,North Carolina State - Missouri Dual,174,W,DEC,9 - 5,Peyton Mocco,50635,Missouri,Hayden Hidlay,44595,Nc State
+2022,12/20,Binghamton - North Carolina State Dual,174,W,MD,12 - 3,Jacob Nolan,62415,Binghamton,Hayden Hidlay,44595,Nc State
+2022,12/12,North Carolina State - Appalachian State Dual,174,W,MD,14 - 4,Thomas Flitz,45410,Appalachian State,Hayden Hidlay,44595,Nc State
+2022,11/21,West Virginia - North Carolina State Dual,174,W,TF5,20 - 3 5:30,Dennis Robin,69638,West Virginia,Hayden Hidlay,44595,Nc State
+2022,01/29,NC State Presbyterian ECM,184,W,MD,15 - 5,David Bertrand,73013,Presbyterian,Alex Faison,56428,Nc State
+2022,01/07,David Lehman Open,174,W,DEC,12 - 7,Hudson Stewart,67386,Virginia,Alex Faison,56428,Nc State
+2022,01/07,David Lehman Open,174,W,MFOR,0 - 0,Anthony Yacovetti,56360,Millersville,Alex Faison,56428,Nc State
+2022,01/07,David Lehman Open,174,L,TB-2,4 - 2,Julien Broderson,57644,Iowa State,Alex Faison,56428,Nc State
+2022,01/07,David Lehman Open,174,W,DEC,7 - 3,Colt Barley,73206,Cornell,Alex Faison,56428,Nc State
+2022,01/07,David Lehman Open,174,W,DEC,3 - 2,Dominic Falcone,68700,Army West Point,Alex Faison,56428,Nc State
+2022,12/05,Patriot Open,174,W,FALL,4:12,James Brown,74418,Virginia Tech,Alex Faison,56428,Nc State
+2022,12/05,Patriot Open,174,W,MD,16 - 6,Kolton Clark,62772,Virginia Tech,Alex Faison,56428,Nc State
+2022,12/05,Patriot Open,174,W,MD,10 - 2,Shane Sosinsky,49204,Navy,Alex Faison,56428,Nc State
+2022,12/05,Patriot Open,174,W,DEC,9 - 4,Malachi Duvall,72189,George Mason,Alex Faison,56428,Nc State
+2022,12/05,Patriot Open,174,W,MD,17 - 8,Nolan Springer,71749,Bucknell,Alex Faison,56428,Nc State
+2022,12/02,Gardner-Webb - North Carolina State Dual,174,W,MD,12 - 4,Evan Schenk,49136,Gardner-Webb,Alex Faison,56428,Nc State
+2022,11/21,NC State West Virginia ECM,174,L,DEC,7 - 6,Scott Joll,62424,West Virginia,Alex Faison,56428,Nc State
+2022,11/06,Battle at the Citadel,174,W,DEC,7 - 1,David Wilson,74348,Belmont Abbey,Alex Faison,56428,Nc State
+2022,11/06,Battle at the Citadel,174,W,MD,16 - 4,Amir Joseph,71046,Belmont Abbey,Alex Faison,56428,Nc State
+2022,11/06,Battle at the Citadel,174,L,SV-1,6 - 4,Sam Wolf,66631,Air Force,Alex Faison,56428,Nc State
+2022,11/06,Battle at the Citadel,174,W,MFOR,0 - 0,Harlan Steffensmeier,54231,Air Force,Alex Faison,56428,Nc State
+2022,01/01,Southern Scuffle,165,L,DEC,6 - 2,Thomas Bullard,44611,NC State,Jacob Null,71933,Nc State
+2022,01/01,Southern Scuffle,165,W,FALL,1:57,John McClimon,73175,Iowa,Jacob Null,71933,Nc State
+2022,01/01,Southern Scuffle,165,L,DEC,8 - 1,Peyton Hall,57711,West Virginia,Jacob Null,71933,Nc State
+2022,01/01,Southern Scuffle,165,W,DEC,12 - 5,Drew Nicholson,49091,Chattanooga,Jacob Null,71933,Nc State
+2022,01/01,Southern Scuffle,165,W,DEC,9 - 3,Jack Janda,71665,Drexel,Jacob Null,71933,Nc State
+2022,12/11,Cleveland State Open,165,W,DEC,10 - 4,Hayden Lohrey,62511,Purdue,Jacob Null,71933,Nc State
+2022,12/11,Cleveland State Open,165,W,DEC,7 - 0,Aidan Faria,73313,Kent State,Jacob Null,71933,Nc State
+2022,12/11,Cleveland State Open,165,L,FALL,1:21,Riley Smucker,56147,Cleveland State,Jacob Null,71933,Nc State
+2022,12/11,Cleveland State Open,165,L,DEC,7 - 6,Marcus Petite,67407,Buffalo,Jacob Null,71933,Nc State
+2022,12/05,Patriot Open,165,W,FALL,1:02,Ryan Bolletino,69989,Sacred Heart,Jacob Null,71933,Nc State
+2022,12/05,Patriot Open,165,L,DEC,13 - 6,Michael Kistler,56735,Pennsylvania,Jacob Null,71933,Nc State
+2022,12/05,Patriot Open,165,L,DEC,10 - 5,Sammy Starr,73336,Navy,Jacob Null,71933,Nc State
+2022,12/05,Patriot Open,165,W,DEC,7 - 4,Gaven Bell,72136,Maryland,Jacob Null,71933,Nc State
+2022,12/05,Patriot Open,165,W,FALL,2:45,Gunner Spain,67255,Drexel,Jacob Null,71933,Nc State
+2022,12/05,Patriot Open,165,W,TF5,16 - 1 2:55,Miles Bassett,70025,Bucknell,Jacob Null,71933,Nc State
+2022,11/21,King Open,174,W,FALL,2:04,Dalton Matthews,76889,Unattached,Jacob Null,71933,Nc State
+2022,11/21,King Open,174,L,DEC,6 - 4,Caleb Spears,63520,Newberry,Jacob Null,71933,Nc State
+2022,11/21,King Open,174,W,FALL,4:49,Jeremiah Colon,58443,Limestone,Jacob Null,71933,Nc State
+2022,11/21,King Open,174,W,FALL,6:35,Dalton Battle,73100,Appalachian State,Jacob Null,71933,Nc State
+2022,11/21,King Open,174,W,DEC,6 - 3,Diavantae Reddick,50253,Appalachian State,Jacob Null,71933,Nc State
+2022,11/21,King Open,174,W,DEC,12 - 6,Diavantae Reddick,50253,Appalachian State,Jacob Null,71933,Nc State
+2022,11/14,Wolfpack Open,174,W,DEC,6 - 4,Hudson Stewart,67386,Virginia,Jacob Null,71933,Nc State
+2022,11/14,Wolfpack Open,174,W,DEC,8 - 2,Garrett Hill,63383,UNC Pembroke,Jacob Null,71933,Nc State
+2022,11/14,Wolfpack Open,174,W,DEC,8 - 5,Gavin Kane,62429,North Carolina,Jacob Null,71933,Nc State
+2022,11/14,Wolfpack Open,174,W,FALL,1:28,Zane Van Vleet,73060,The Citadel,Jacob Null,71933,Nc State
+2022,11/06,Battle at the Citadel,174,W,DEC,8 - 3,Benjamin Haubert,71286,The Citadel,Jacob Null,71933,Nc State
+2022,11/06,Battle at the Citadel,174,W,MD,12 - 4,Dylan Reinert,63029,NC State,Jacob Null,71933,Nc State
+2022,11/06,Battle at the Citadel,174,W,DEC,10 - 3,Cole Burke,57379,The Citadel,Jacob Null,71933,Nc State
+2022,11/06,Battle at the Citadel,174,L,DEC,11 - 4,Matt Finesilver,47770,Duke,Jacob Null,71933,Nc State
+2022,12/05,Patriot Open,174,L,DEC,6 - 3,Justin Phillips,57093,Virginia,Dylan Reinert,63029,Nc State
+2022,12/05,Patriot Open,174,W,DEC,6 - 1,Tate Nichter,72623,Drexel,Dylan Reinert,63029,Nc State
+2022,12/05,Patriot Open,174,L,DEC,3 - 0,Sam Barnes,63005,Bucknell,Dylan Reinert,63029,Nc State
+2022,11/21,King Open,174,W,DEC,1 - 0,Dalton Matthews,76889,Unattached,Dylan Reinert,63029,Nc State
+2022,11/21,King Open,174,W,DEC,12 - 5,Caleb Spears,63520,Newberry,Dylan Reinert,63029,Nc State
+2022,11/21,King Open,174,W,FALL,6:39,Mason Smith,50584,Unattached,Dylan Reinert,63029,Nc State
+2022,11/21,King Open,174,W,MD,12 - 0,Dalton Battle,73100,Appalachian State,Dylan Reinert,63029,Nc State
+2022,11/14,Wolfpack Open,174,W,FALL,5:00,Austin Dempsey,73151,Virginia Tech,Dylan Reinert,63029,Nc State
+2022,11/14,Wolfpack Open,174,W,MD,14 - 2,Rocco Contino,70927,Virginia,Dylan Reinert,63029,Nc State
+2022,11/14,Wolfpack Open,174,L,DEC,11 - 4,Gavin Kane,62429,North Carolina,Dylan Reinert,63029,Nc State
+2022,11/14,Wolfpack Open,174,W,FALL,0:50,Zane Van Vleet,73060,The Citadel,Dylan Reinert,63029,Nc State
+2022,11/06,Battle at the Citadel,174,L,MD,12 - 4,Jacob Null,71933,NC State,Dylan Reinert,63029,Nc State
+2022,11/06,Battle at the Citadel,174,W,FALL,4:44,Dylan Zabbaro,63641,Belmont Abbey,Dylan Reinert,63029,Nc State
+2022,11/06,Battle at the Citadel,174,L,MD,11 - 1,Sam Wolf,66631,Air Force,Dylan Reinert,63029,Nc State
+2022,03/17,NCAA Championships,184,W,DEC,3 - 2,Kaleb Romero,49252,Ohio State,Trent Hidlay,51224,Nc State
+2022,03/17,NCAA Championships,184,L,TB-1,7 - 5,Parker Keckeisen,56724,Northern Iowa,Trent Hidlay,51224,Nc State
+2022,03/17,NCAA Championships,184,L,SV-1,6 - 4,Aaron Brooks,54280,Penn State,Trent Hidlay,51224,Nc State
+2022,03/17,NCAA Championships,184,W,DEC,6 - 2,Trey Munoz,59555,Oregon State,Trent Hidlay,51224,Nc State
+2022,03/17,NCAA Championships,184,W,DEC,5 - 3,Isaiah Salazar,62340,Minnesota,Trent Hidlay,51224,Nc State
+2022,03/17,NCAA Championships,184,W,MD,12 - 3,Max Lyon,49303,Purdue,Trent Hidlay,51224,Nc State
+2022,03/06,ACC Championships,184,W,MD,19 - 5,Gregg Harvey,45148,Pittsburgh,Trent Hidlay,51224,Nc State
+2022,03/06,ACC Championships,184,W,MD,11 - 0,Gavin Kane,62429,North Carolina,Trent Hidlay,51224,Nc State
+2022,02/20,Virginia Tech - North Carolina State Dual,184,W,DEC,2 - 1,Hunter Bolen,49335,Virginia Tech,Trent Hidlay,51224,Nc State
+2022,02/18,North Carolina - North Carolina State Dual,184,W,MD,13 - 3,Gavin Kane,62429,North Carolina,Trent Hidlay,51224,Nc State
+2022,02/11,Pittsburgh - North Carolina State Dual,184,W,TF5,22 - 7 6:35,Gregg Harvey,45148,Pittsburgh,Trent Hidlay,51224,Nc State
+2022,02/04,Virginia - North Carolina State Dual,184,W,MD,16 - 5,Michael Battista,51672,Virginia,Trent Hidlay,51224,Nc State
+2022,01/29,NC State Presbyterian ECM,184,W,FALL,1:40,David Bertrand,73013,Presbyterian,Trent Hidlay,51224,Nc State
+2022,01/28,North Carolina State - Duke Dual,184,W,FALL,0:24,Vincent Baker,56930,Duke,Trent Hidlay,51224,Nc State
+2022,01/23,NC State Campbell ECM,184,W,FALL,5:16,Shane Quick,69733,Campbell,Trent Hidlay,51224,Nc State
+2022,01/23,North Carolina State - Campbell Dual,184,W,MD,15 - 4,Caleb Hopkins,56482,Campbell,Trent Hidlay,51224,Nc State
+2022,01/09,North Carolina State - Princeton Dual,184,W,MD,17 - 4,Travis Stefanik,49301,Princeton,Trent Hidlay,51224,Nc State
+2022,12/21,North Carolina State - Iowa Dual,184,W,DEC,6 - 0,Abe Assad,56936,Iowa,Trent Hidlay,51224,Nc State
+2022,12/20,North Carolina State - Missouri Dual,184,W,MD,13 - 5,Jeremiah Kent,50824,Missouri,Trent Hidlay,51224,Nc State
+2022,12/20,Binghamton - North Carolina State Dual,184,W,TF5,19 - 4 7:00,Sam DePrez,56480,Binghamton,Trent Hidlay,51224,Nc State
+2022,12/12,North Carolina State - Appalachian State Dual,184,W,MD,12 - 4,Barrett Blakely,54239,Appalachian State,Trent Hidlay,51224,Nc State
+2022,12/02,Gardner-Webb - North Carolina State Dual,184,W,TF5,22 - 5 6:01,Jha'Quan Anderson,62407,Gardner-Webb,Trent Hidlay,51224,Nc State
+2022,11/21,West Virginia - North Carolina State Dual,184,W,FALL,0:23,Anthony Carman,62423,West Virginia,Trent Hidlay,51224,Nc State
+2022,11/14,Wolfpack Open,184,W,FALL,2:03,Hadyn Danals,73055,Virginia,Nick Reenan,45035,Nc State
+2022,11/14,Wolfpack Open,184,W,MD,16 - 3,Freddie Garcia,63643,King,Nick Reenan,45035,Nc State
+2022,11/14,Wolfpack Open,184,W,DEC,5 - 2,Ja'Quez Bostic,58032,Limestone,Nick Reenan,45035,Nc State
+2022,11/14,Wolfpack Open,184,W,MD,13 - 3,Cole Rees,71005,Campbell,Nick Reenan,45035,Nc State
+2022,11/14,Wolfpack Open,184,W,DEC,10 - 3,Caleb Hopkins,56482,Campbell,Nick Reenan,45035,Nc State
+2022,01/29,Appalachain Open,184,W,FALL,4:15,Scott Schlett,77649,Ohio,Joey Milano,70919,Nc State
+2022,01/29,Appalachain Open,184,W,TF5,15 - 0 3:06,Hadyn Danals,73055,Virginia,Joey Milano,70919,Nc State
+2022,01/29,Appalachain Open,184,L,MD,12 - 3,Gavin Kane,62429,North Carolina,Joey Milano,70919,Nc State
+2022,01/29,Appalachain Open,184,W,FALL,2:28,Andrew Wilson,73732,Gardner-Webb,Joey Milano,70919,Nc State
+2022,01/01,Southern Scuffle,184,L,DEC,3 - 2,Gavin Stika,56258,Oklahoma State,Joey Milano,70919,Nc State
+2022,01/01,Southern Scuffle,184,L,DEC,4 - 0,Jeremiah Kent,50824,Missouri,Joey Milano,70919,Nc State
+2022,01/01,Southern Scuffle,184,W,DEC,9 - 4,Branson Britten,71938,Northern Colorado,Joey Milano,70919,Nc State
+2022,01/01,Southern Scuffle,184,W,DEC,6 - 2,Tanner Mendoza,65930,Little Rock,Joey Milano,70919,Nc State
+2022,01/01,Southern Scuffle,184,W,DEC,5 - 2,Josh Stillings,50895,Drexel,Joey Milano,70919,Nc State
+2022,12/11,Cleveland State Open,184,W,FALL,1:24,Mitch Hutmacher,67388,Purdue,Joey Milano,70919,Nc State
+2022,12/11,Cleveland State Open,184,W,FALL,2:47,Darian Huff,67332,Bellarmine,Joey Milano,70919,Nc State
+2022,12/11,Cleveland State Open,184,W,TF5,17 - 2 7:00,Macartney Parkinson,67304,Purdue,Joey Milano,70919,Nc State
+2022,12/11,Cleveland State Open,184,W,DEC,7 - 3,Deandre Nassar,62202,Cleveland State,Joey Milano,70919,Nc State
+2022,12/11,Cleveland State Open,184,L,DEC,3 - 2,Deandre Nassar,62202,Cleveland State,Joey Milano,70919,Nc State
+2022,12/05,Patriot Open,184,W,MD,11 - 3,Gavin Henry,61929,Davidson,Joey Milano,70919,Nc State
+2022,12/05,Patriot Open,184,W,MD,12 - 1,Jesse Martinez,63017,Pennsylvania,Joey Milano,70919,Nc State
+2022,12/05,Patriot Open,184,W,DEC,7 - 3,Josh Stillings,50895,Drexel,Joey Milano,70919,Nc State
+2022,12/05,Patriot Open,184,W,TF5,15 - 0 5:12,Jack Wilt,73042,Lehigh,Joey Milano,70919,Nc State
+2022,11/21,King Open,184,W,TF5,17 - 2 7:00,Michael Schneider,67406,Davis & Elkins,Joey Milano,70919,Nc State
+2022,11/21,King Open,184,W,TF5,15 - 0 7:00,John Parker-wilson,74335,Newberry,Joey Milano,70919,Nc State
+2022,11/21,King Open,184,W,DEC,8 - 1,Holden Cypher,71936,NC State,Joey Milano,70919,Nc State
+2022,11/21,King Open,184,W,MD,11 - 2,Thomas Sell,64478,Chattanooga,Joey Milano,70919,Nc State
+2022,11/14,Wolfpack Open,184,L,DEC,6 - 1,Hadyn Danals,73055,Virginia,Joey Milano,70919,Nc State
+2022,11/14,Wolfpack Open,184,W,TF5,15 - 0 4:51,Simeone Holmes,69707,Virginia Tech,Joey Milano,70919,Nc State
+2022,11/14,Wolfpack Open,184,W,FALL,2:38,Micah Dicarlo,73053,The Citadel,Joey Milano,70919,Nc State
+2022,11/14,Wolfpack Open,184,L,FALL,6:04,Caleb Hopkins,56482,Campbell,Joey Milano,70919,Nc State
+2022,11/06,Battle at the Citadel,184,W,MD,12 - 4,David Bertrand,73013,Presbyterian,Joey Milano,70919,Nc State
+2022,11/06,Battle at the Citadel,184,W,DEC,8 - 3,Calvin Sund,57634,Air Force,Joey Milano,70919,Nc State
+2022,11/06,Battle at the Citadel,184,W,DEC,6 - 4,Jake Thompson,50875,Air Force,Joey Milano,70919,Nc State
+2022,01/29,Appalachain Open,184,W,MFOR,0 - 0,Scott Schlett,77649,Ohio,Brock Delsignore,71935,Nc State
+2022,01/29,Appalachain Open,184,L,DEC,8 - 1,Krystian Kinsey,57061,Virginia,Brock Delsignore,71935,Nc State
+2022,01/29,Appalachain Open,184,L,MD,11 - 1,Gavin Kane,62429,North Carolina,Brock Delsignore,71935,Nc State
+2022,01/29,Appalachain Open,184,W,MD,18 - 5,Joe Zovistoski,73103,Appalachian State,Brock Delsignore,71935,Nc State
+2022,01/07,David Lehman Open,184,W,MD,13 - 4,Anthony Giampietro,72634,Millersville,Brock Delsignore,71935,Nc State
+2022,01/07,David Lehman Open,184,W,MD,12 - 4,Hunter Johns,62914,Navy,Brock Delsignore,71935,Nc State
+2022,01/07,David Lehman Open,184,W,MD,13 - 4,Walker Stephenson,73369,Army West Point,Brock Delsignore,71935,Nc State
+2022,01/07,David Lehman Open,184,W,DEC,3 - 2,Daniel Lawrence,69375,Army West Point,Brock Delsignore,71935,Nc State
+2022,01/07,David Lehman Open,184,W,DEC,10 - 5,Sahm AbdulRazzaq,58214,Army West Point,Brock Delsignore,71935,Nc State
+2022,12/11,Cleveland State Open,197,L,DEC,7 - 4,Tyler Bates,56413,Kent State,Brock Delsignore,71935,Nc State
+2022,12/11,Cleveland State Open,197,L,DEC,9 - 2,Cade Dallwitz,60002,Central Michigan,Brock Delsignore,71935,Nc State
+2022,12/05,Patriot Open,197,W,DEC,5 - 2,Christian Knop,57096,NC State,Brock Delsignore,71935,Nc State
+2022,12/05,Patriot Open,197,L,DEC,6 - 3,Braden Homsey,56011,Ferrum,Brock Delsignore,71935,Nc State
+2022,12/05,Patriot Open,197,W,MD,15 - 4,Gregory Bensley,56214,Pennsylvania,Brock Delsignore,71935,Nc State
+2022,12/05,Patriot Open,197,W,DEC,4 - 2,Trevor Swier,67129,Navy,Brock Delsignore,71935,Nc State
+2022,12/05,Patriot Open,197,L,SV-1,3 - 1,Jaxon Smith,68714,Maryland,Brock Delsignore,71935,Nc State
+2022,11/21,King Open,197,W,FALL,0:31,Kaleb Haven,75088,Newberry,Brock Delsignore,71935,Nc State
+2022,11/21,King Open,197,W,TF5,18 - 2 7:00,Brandon Dickman,58292,Newberry,Brock Delsignore,71935,Nc State
+2022,11/21,King Open,197,W,MD,13 - 5,Triston Norris,71717,Appalachian State,Brock Delsignore,71935,Nc State
+2022,11/14,Wolfpack Open,197,L,MD,9 - 0,Isaac Trumble,67131,NC State,Brock Delsignore,71935,Nc State
+2022,11/14,Wolfpack Open,197,W,TF5,18 - 3 4:48,Brandon Hoselton,71740,Campbell,Brock Delsignore,71935,Nc State
+2022,11/14,Wolfpack Open,197,W,FALL,5:55,Levi Hopkins,62508,Campbell,Brock Delsignore,71935,Nc State
+2022,11/14,Wolfpack Open,197,W,DEC,10 - 6,Chris Kober,50022,Campbell,Brock Delsignore,71935,Nc State
+2022,11/06,Battle at the Citadel,197,W,TF5,18 - 0 1:37,Spencer Bovenizer,73361,The Citadel,Brock Delsignore,71935,Nc State
+2022,11/06,Battle at the Citadel,197,W,MD,13 - 0,Ben Stemmet,65010,The Citadel,Brock Delsignore,71935,Nc State
+2022,11/06,Battle at the Citadel,197,L,MD,11 - 2,Kaden Russell,49124,Duke,Brock Delsignore,71935,Nc State
+2022,11/06,Battle at the Citadel,197,W,MD,17 - 7,Cole Forrester,55812,Air Force,Brock Delsignore,71935,Nc State
+2022,11/06,Battle at the Citadel,197,W,MD,14 - 2,Kayne Hutchison,49026,Air Force,Brock Delsignore,71935,Nc State
+2022,12/05,Patriot Open,184,W,FALL,3:25,Mohamed Ibrahim,77590,Unattached,Holden Cypher,71936,Nc State
+2022,12/05,Patriot Open,184,L,MD,11 - 1,Sam Fisher,62358,Virginia Tech,Holden Cypher,71936,Nc State
+2022,12/05,Patriot Open,184,L,DEC,6 - 1,Ethan Stern,61836,Navy,Holden Cypher,71936,Nc State
+2022,11/21,King Open,184,L,DEC,8 - 1,Joey Milano,70919,NC State,Holden Cypher,71936,Nc State
+2022,11/21,King Open,184,W,TF5,15 - 0 7:00,Ethan Sutton,76886,Lincoln Memorial,Holden Cypher,71936,Nc State
+2022,11/21,King Open,184,W,DEC,4 - 3,Armando Acosta,71224,Newberry,Holden Cypher,71936,Nc State
+2022,11/21,King Open,184,W,MFOR,0 - 0,Freddie Garcia,63643,King,Holden Cypher,71936,Nc State
+2022,11/21,King Open,184,L,DEC,3 - 1,Luke Young,58290,Bluefield College,Holden Cypher,71936,Nc State
+2022,11/14,Wolfpack Open,184,W,FALL,5:37,Gustavo Martinez,69889,Limestone,Holden Cypher,71936,Nc State
+2022,11/14,Wolfpack Open,184,L,DEC,7 - 0,Cole Rees,71005,Campbell,Holden Cypher,71936,Nc State
+2022,11/14,Wolfpack Open,184,L,FALL,2:06,Caleb Hopkins,56482,Campbell,Holden Cypher,71936,Nc State
+2022,11/06,Battle at the Citadel,184,W,FALL,6:00,Zion James,74351,Central Florida,Holden Cypher,71936,Nc State
+2022,11/06,Battle at the Citadel,184,W,TF5,16 - 0 3:17,Mason Watkins,73387,Presbyterian,Holden Cypher,71936,Nc State
+2022,11/06,Battle at the Citadel,184,L,DEC,7 - 2,Calvin Sund,57634,Air Force,Holden Cypher,71936,Nc State
+2022,11/06,Battle at the Citadel,184,L,DEC,6 - 0,Jake Thompson,50875,Air Force,Holden Cypher,71936,Nc State
+2022,03/17,NCAA Championships,197,L,DEC,6 - 5,Jay Aiello,44667,Virginia,Isaac Trumble,67131,Nc State
+2022,03/17,NCAA Championships,197,W,FALL,5:33,Jack Brown,51262,Army West Point,Isaac Trumble,67131,Nc State
+2022,03/17,NCAA Championships,197,L,SV-1,6 - 4,Luke Stout,62599,Princeton,Isaac Trumble,67131,Nc State
+2022,03/06,ACC Championships,197,L,DEC,5 - 2,Nino Bonaccorsi,49285,Pittsburgh,Isaac Trumble,67131,Nc State
+2022,03/06,ACC Championships,197,W,DEC,9 - 2,Max Shaw,61959,North Carolina,Isaac Trumble,67131,Nc State
+2022,02/20,Virginia Tech - North Carolina State Dual,197,W,DEC,6 - 0,Dakota Howard,51202,Virginia Tech,Isaac Trumble,67131,Nc State
+2022,02/18,North Carolina - North Carolina State Dual,197,W,DEC,6 - 0,Max Shaw,61959,North Carolina,Isaac Trumble,67131,Nc State
+2022,02/11,Pittsburgh - North Carolina State Dual,197,W,DEC,2 - 0,Nino Bonaccorsi,49285,Pittsburgh,Isaac Trumble,67131,Nc State
+2022,02/04,Virginia - North Carolina State Dual,197,W,SV-1,7 - 5,Jay Aiello,44667,Virginia,Isaac Trumble,67131,Nc State
+2022,01/29,NC State Presbyterian ECM,197,W,MD,16 - 3,Malcolm Wiley,62915,Presbyterian,Isaac Trumble,67131,Nc State
+2022,01/28,North Carolina State - Duke Dual,197,W,DEC,2 - 1,Kaden Russell,49124,Duke,Isaac Trumble,67131,Nc State
+2022,01/23,North Carolina State - Campbell Dual,197,W,DEC,1 - 0,Chris Kober,50022,Campbell,Isaac Trumble,67131,Nc State
+2022,01/09,North Carolina State - Princeton Dual,197,L,FALL,2:43,Aidan Conner,57524,Princeton,Isaac Trumble,67131,Nc State
+2022,12/21,North Carolina State - Iowa Dual,197,L,DEC,3 - 2,Jacob Warner,49151,Iowa,Isaac Trumble,67131,Nc State
+2022,12/20,North Carolina State - Missouri Dual,197,W,DEC,5 - 3,Rocky Elam,62027,Missouri,Isaac Trumble,67131,Nc State
+2022,12/20,Binghamton - North Carolina State Dual,197,L,MD,10 - 2,Louie DePrez,49046,Binghamton,Isaac Trumble,67131,Nc State
+2022,12/12,North Carolina State - Appalachian State Dual,197,W,MD,12 - 2,Mason Fiscella,57035,Appalachian State,Isaac Trumble,67131,Nc State
+2022,12/02,Gardner-Webb - North Carolina State Dual,197,W,MD,9 - 0,Anthony Perrine,49135,Gardner-Webb,Isaac Trumble,67131,Nc State
+2022,11/21,West Virginia - North Carolina State Dual,197,W,TF5,18 - 0 5:49,Jackson Moomau,57161,West Virginia,Isaac Trumble,67131,Nc State
+2022,11/14,Wolfpack Open,197,W,MD,9 - 0,Brock Delsignore,71935,NC State,Isaac Trumble,67131,Nc State
+2022,11/14,Wolfpack Open,197,W,INJ,3:41,Andrew Freeman,69879,Limestone,Isaac Trumble,67131,Nc State
+2022,11/14,Wolfpack Open,197,W,TF5,16 - 1 2:45,Conner Miller,73395,Campbell,Isaac Trumble,67131,Nc State
+2022,11/14,Wolfpack Open,197,W,MD,15 - 4,Conor Maslanek,71006,Campbell,Isaac Trumble,67131,Nc State
+2022,11/06,Battle at the Citadel,197,W,FALL,2:09,Joseph Pesce,62257,Belmont Abbey,Isaac Trumble,67131,Nc State
+2022,11/06,Battle at the Citadel,197,W,DEC,6 - 4,Christian Knop,57096,NC State,Isaac Trumble,67131,Nc State
+2022,11/06,Battle at the Citadel,197,W,DEC,4 - 2,Jacob Ferreira,56807,NC State,Isaac Trumble,67131,Nc State
+2022,11/06,Battle at the Citadel,197,W,DEC,8 - 2,Cole Forrester,55812,Air Force,Isaac Trumble,67131,Nc State
+2022,01/29,NC State Presbyterian ECM,197,W,DEC,6 - 3,Malcolm Wiley,62915,Presbyterian,Jacob Ferreira,56807,Nc State
+2022,01/07,David Lehman Open,197,W,FALL,2:12,Colden Dorfman,73056,Virginia,Jacob Ferreira,56807,Nc State
+2022,01/07,David Lehman Open,197,L,DEC,5 - 3,Max Shaw,61959,North Carolina,Jacob Ferreira,56807,Nc State
+2022,01/07,David Lehman Open,197,W,DEC,11 - 9,Lucas Cochran,71705,Penn State,Jacob Ferreira,56807,Nc State
+2022,01/07,David Lehman Open,197,W,DEC,7 - 4,Levko Higgins,50870,Penn State,Jacob Ferreira,56807,Nc State
+2022,01/07,David Lehman Open,197,W,FALL,3:53,Shane Rockett,71703,Harvard,Jacob Ferreira,56807,Nc State
+2022,12/05,Patriot Open,197,W,FALL,4:07,Travis Fridley,74421,VMI,Jacob Ferreira,56807,Nc State
+2022,12/05,Patriot Open,197,L,MD,15 - 3,Cole Urbas,56773,Pennsylvania,Jacob Ferreira,56807,Nc State
+2022,12/05,Patriot Open,197,W,DEC,8 - 6,Jaxon Smith,68714,Maryland,Jacob Ferreira,56807,Nc State
+2022,12/05,Patriot Open,197,W,SV-1,7 - 5,Levi Hopkins,62508,Campbell,Jacob Ferreira,56807,Nc State
+2022,11/14,Wolfpack Open,197,W,MD,12 - 4,Cade Lautt,69676,North Carolina,Jacob Ferreira,56807,Nc State
+2022,11/14,Wolfpack Open,197,W,FALL,3:56,Nick Whittington,69616,Seton Hill,Jacob Ferreira,56807,Nc State
+2022,11/14,Wolfpack Open,197,W,DEC,10 - 7,Levi Hopkins,62508,Campbell,Jacob Ferreira,56807,Nc State
+2022,11/06,Battle at the Citadel,197,L,DEC,4 - 2,Isaac Trumble,67131,NC State,Jacob Ferreira,56807,Nc State
+2022,11/06,Battle at the Citadel,197,W,FALL,1:02,Jason Rehberg,74354,Central Florida,Jacob Ferreira,56807,Nc State
+2022,11/06,Battle at the Citadel,197,W,DEC,7 - 6,Kaden Russell,49124,Duke,Jacob Ferreira,56807,Nc State
+2022,11/06,Battle at the Citadel,197,W,MD,10 - 2,Kayne Hutchison,49026,Air Force,Jacob Ferreira,56807,Nc State
+2022,01/29,NC State Presbyterian ECM,197,W,DEC,10 - 3,Malcolm Wiley,62915,Presbyterian,Christian Knop,57096,Nc State
+2022,12/05,Patriot Open,197,L,DEC,5 - 2,Brock Delsignore,71935,NC State,Christian Knop,57096,Nc State
+2022,12/05,Patriot Open,197,W,DEC,5 - 3,Channing Connors,63516,Virginia,Christian Knop,57096,Nc State
+2022,12/05,Patriot Open,197,W,TF5,19 - 3 6:30,Travis Fridley,74421,VMI,Christian Knop,57096,Nc State
+2022,12/05,Patriot Open,197,L,DEC,8 - 2,Cole Urbas,56773,Pennsylvania,Christian Knop,57096,Nc State
+2022,11/14,Wolfpack Open,197,W,DEC,12 - 5,Brandon Hoselton,71740,Campbell,Christian Knop,57096,Nc State
+2022,11/14,Wolfpack Open,197,W,TB-2,4 - 3,Cade Lautt,69676,North Carolina,Christian Knop,57096,Nc State
+2022,11/14,Wolfpack Open,197,W,FALL,2:43,Jeremiah Good,67568,King,Christian Knop,57096,Nc State
+2022,11/14,Wolfpack Open,197,L,DEC,2 - 0,Levi Hopkins,62508,Campbell,Christian Knop,57096,Nc State
+2022,11/14,Wolfpack Open,197,W,TB-2,3 - 2,Chris Kober,50022,Campbell,Christian Knop,57096,Nc State
+2022,11/06,Battle at the Citadel,197,L,DEC,6 - 4,Isaac Trumble,67131,NC State,Christian Knop,57096,Nc State
+2022,11/06,Battle at the Citadel,197,W,TF5,20 - 5 6:00,Edwin Brown,74341,Unattached,Christian Knop,57096,Nc State
+2022,11/06,Battle at the Citadel,197,W,SV-1,5 - 3,Ben Stemmet,65010,The Citadel,Christian Knop,57096,Nc State
+2022,11/06,Battle at the Citadel,197,W,DEC,6 - 5,Kaden Russell,49124,Duke,Christian Knop,57096,Nc State
+2022,03/17,NCAA Championships,285,L,SV-1,5 - 1,Gary Traub,45199,Oregon State,Tyrie Houghton,51136,Nc State
+2022,03/17,NCAA Championships,285,W,DEC,9 - 4,Michael McAleavey,45588,The Citadel,Tyrie Houghton,51136,Nc State
+2022,03/17,NCAA Championships,285,L,DEC,3 - 2,Christian Lance,41064,Nebraska,Tyrie Houghton,51136,Nc State
+2022,03/06,ACC Championships,285,L,DEC,9 - 6,Nathan Traxler,45395,Virginia Tech,Tyrie Houghton,51136,Nc State
+2022,03/06,ACC Championships,285,W,SV-1,6 - 5,Brandon Whitman,50602,North Carolina,Tyrie Houghton,51136,Nc State
+2022,02/11,Pittsburgh - North Carolina State Dual,285,W,DEC,9 - 4,Jacob Slinger,57307,Pittsburgh,Tyrie Houghton,51136,Nc State
+2022,02/04,Virginia - North Carolina State Dual,285,W,DEC,4 - 2,Quinn Miller,49333,Virginia,Tyrie Houghton,51136,Nc State
+2022,01/29,NC State Presbyterian ECM,285,W,TF5,18 - 3 3:46,Will Pontoon,63040,Presbyterian,Tyrie Houghton,51136,Nc State
+2022,01/28,North Carolina State - Duke Dual,285,W,DEC,4 - 1,Jonah Niesenbaum,60444,Duke,Tyrie Houghton,51136,Nc State
+2022,01/23,North Carolina State - Campbell Dual,285,L,DEC,9 - 6,Taye Ghadiali,62500,Campbell,Tyrie Houghton,51136,Nc State
+2022,01/09,North Carolina State - Princeton Dual,285,W,DEC,6 - 3,Matthew Cover,57523,Princeton,Tyrie Houghton,51136,Nc State
+2022,01/01,Southern Scuffle,285,W,TB-2,3 - 2,Owen Trephan,56903,NC State,Tyrie Houghton,51136,Nc State
+2022,01/01,Southern Scuffle,285,W,DEC,5 - 2,Austin Harris,52334,Oklahoma State,Tyrie Houghton,51136,Nc State
+2022,01/01,Southern Scuffle,285,W,DEC,1 - 0,Austin Harris,52334,Oklahoma State,Tyrie Houghton,51136,Nc State
+2022,01/01,Southern Scuffle,285,L,DEC,5 - 2,Brandon Metz,49222,North Dakota State,Tyrie Houghton,51136,Nc State
+2022,01/01,Southern Scuffle,285,L,DEC,7 - 5,Aaron Costello,49149,Iowa,Tyrie Houghton,51136,Nc State
+2022,01/01,Southern Scuffle,285,W,TB-2,6 - 4,AJ Nevills,47810,South Dakota State,Tyrie Houghton,51136,Nc State
+2022,01/01,Southern Scuffle,285,W,DEC,5 - 3,Seth Nevills,50625,Penn State,Tyrie Houghton,51136,Nc State
+2022,12/21,North Carolina State - Iowa Dual,285,L,DEC,6 - 2,Anthony Cassioppi,50650,Iowa,Tyrie Houghton,51136,Nc State
+2022,12/20,North Carolina State - Missouri Dual,285,L,DEC,6 - 5,Zach Elam,51612,Missouri,Tyrie Houghton,51136,Nc State
+2022,12/05,Patriot Open,285,W,MD,10 - 2,Hunter Catka,62425,Virginia Tech,Tyrie Houghton,51136,Nc State
+2022,12/05,Patriot Open,285,W,MD,17 - 4,Ryan Catka,72191,Navy,Tyrie Houghton,51136,Nc State
+2022,12/05,Patriot Open,285,L,DEC,5 - 4,Ethan Laird,50134,Rider,Tyrie Houghton,51136,Nc State
+2022,12/05,Patriot Open,285,W,DEC,8 - 1,TJ Moore,62573,Lehigh,Tyrie Houghton,51136,Nc State
+2022,11/14,Wolfpack Open,285,L,SV-1,6 - 5,Hunter Catka,62425,Virginia Tech,Tyrie Houghton,51136,Nc State
+2022,11/14,Wolfpack Open,285,W,FALL,2:11,Ty-Darius Kelly,75791,King,Tyrie Houghton,51136,Nc State
+2022,11/14,Wolfpack Open,285,W,FALL,4:01,Damon Loveless,75089,Newberry,Tyrie Houghton,51136,Nc State
+2022,11/14,Wolfpack Open,285,W,MD,15 - 1,Elijah Daugherty,69735,Campbell,Tyrie Houghton,51136,Nc State
+2022,11/14,Wolfpack Open,285,W,MFOR,0 - 0,Calvin Hayford,57198,Campbell,Tyrie Houghton,51136,Nc State
+2022,11/06,Battle at the Citadel,285,W,TF5,18 - 0 7:00,Jake Thompson,73362,The Citadel,Tyrie Houghton,51136,Nc State
+2022,11/06,Battle at the Citadel,285,L,DEC,6 - 3,Deonte Wilson,56403,NC State,Tyrie Houghton,51136,Nc State
+2022,11/06,Battle at the Citadel,285,W,FALL,4:11,Nate Miller,74353,Belmont Abbey,Tyrie Houghton,51136,Nc State
+2022,11/06,Battle at the Citadel,285,W,DEC,9 - 5,Michael McAleavey,45588,The Citadel,Tyrie Houghton,51136,Nc State
+2022,02/20,Virginia Tech - North Carolina State Dual,285,L,DEC,3 - 2,Nathan Traxler,45395,Virginia Tech,Owen Trephan,56903,Nc State
+2022,02/18,North Carolina - North Carolina State Dual,285,W,DEC,6 - 2,Brandon Whitman,50602,North Carolina,Owen Trephan,56903,Nc State
+2022,02/04,NC State Virginia ECM,285,W,TF5,24 - 9 5:17,Jessie Knight,64891,Virginia,Owen Trephan,56903,Nc State
+2022,01/29,NC State Presbyterian ECM,285,W,MD,17 - 4,Will Pontoon,63040,Presbyterian,Owen Trephan,56903,Nc State
+2022,01/28,NC State Duke ECM,285,W,MD,18 - 7,Brayden Ray,57271,Duke,Owen Trephan,56903,Nc State
+2022,01/09,NC State Princeton ECM,285,W,DEC,9 - 6,Jack DelGarbino,57603,Princeton,Owen Trephan,56903,Nc State
+2022,01/01,Southern Scuffle,285,L,TB-2,3 - 2,Tyrie Houghton,51136,NC State,Owen Trephan,56903,Nc State
+2022,01/01,Southern Scuffle,285,W,SV-1,3 - 1,Michael McAleavey,45588,The Citadel,Owen Trephan,56903,Nc State
+2022,01/01,Southern Scuffle,285,L,DEC,5 - 4,Michael McAleavey,45588,The Citadel,Owen Trephan,56903,Nc State
+2022,01/01,Southern Scuffle,285,L,TB-2,3 - 2,Brandon Metz,49222,North Dakota State,Owen Trephan,56903,Nc State
+2022,01/01,Southern Scuffle,285,W,DEC,6 - 2,Brendan Furman,49113,Cornell,Owen Trephan,56903,Nc State
+2022,01/01,Southern Scuffle,285,W,MD,12 - 4,AJ Nevills,47810,South Dakota State,Owen Trephan,56903,Nc State
+2022,01/01,Southern Scuffle,285,W,MD,18 - 4,Peyton McComas,71831,Gardner-Webb,Owen Trephan,56903,Nc State
+2022,01/01,Southern Scuffle,285,W,DEC,5 - 3,Hunter Catka,62425,Virginia Tech,Owen Trephan,56903,Nc State
+2022,01/01,Southern Scuffle,285,W,MD,19 - 7,Josh Evans,72531,VMI,Owen Trephan,56903,Nc State
+2022,12/20,Binghamton - North Carolina State Dual,285,W,DEC,5 - 2,Joe Doyle,49050,Binghamton,Owen Trephan,56903,Nc State
+2022,11/21,West Virginia - North Carolina State Dual,285,L,DEC,6 - 5,Michael Wolfgram,57526,West Virginia,Owen Trephan,56903,Nc State
+2022,11/14,Wolfpack Open,285,L,DEC,5 - 3,Hunter Catka,62425,Virginia Tech,Owen Trephan,56903,Nc State
+2022,11/14,Wolfpack Open,285,W,FALL,1:24,Sawyer Daugherty,69617,Seton Hill,Owen Trephan,56903,Nc State
+2022,11/14,Wolfpack Open,285,W,TF5,22 - 5 5:57,Elijah Daugherty,69735,Campbell,Owen Trephan,56903,Nc State
+2022,11/06,Battle at the Citadel,285,W,TF5,22 - 4 7:00,Kent Jinkins,74352,Central Florida,Owen Trephan,56903,Nc State
+2022,11/06,Battle at the Citadel,285,W,DEC,10 - 3,Deonte Wilson,56403,NC State,Owen Trephan,56903,Nc State
+2022,11/06,Battle at the Citadel,285,W,DEC,5 - 2,Michael McAleavey,45588,The Citadel,Owen Trephan,56903,Nc State
+2022,11/06,Battle at the Citadel,285,W,SV-1,3 - 1,Jonah Niesenbaum,60444,Duke,Owen Trephan,56903,Nc State
+2022,01/29,NC State Presbyterian ECM,285,W,FALL,1:41,Will Pontoon,63040,Presbyterian,Deonte Wilson,56403,Nc State
+2022,01/01,Southern Scuffle,285,L,DEC,4 - 3,Seth Nevills,50625,Penn State,Deonte Wilson,56403,Nc State
+2022,01/01,Southern Scuffle,285,W,DEC,3 - 1,Michael Wolfgram,57526,West Virginia,Deonte Wilson,56403,Nc State
+2022,01/01,Southern Scuffle,285,W,DEC,13 - 6,Robert Winters,44813,Northern Colorado,Deonte Wilson,56403,Nc State
+2022,01/01,Southern Scuffle,285,L,FALL,2:58,David Szuba,72908,Rider,Deonte Wilson,56403,Nc State
+2022,12/20,Collegiate Dual ECM,285,W,DEC,3 - 1,TJ Moore,62573,Lehigh,Deonte Wilson,56403,Nc State
+2022,12/12,North Carolina State - Appalachian State Dual,285,W,DEC,7 - 2,Michael Burchell,57036,Appalachian State,Deonte Wilson,56403,Nc State
+2022,12/02,Gardner-Webb - North Carolina State Dual,285,W,DEC,11 - 4,Peyton McComas,71831,Gardner-Webb,Deonte Wilson,56403,Nc State
+2022,11/14,Wolfpack Open,285,W,DEC,11 - 4,John Meyers,69618,Seton Hill,Deonte Wilson,56403,Nc State
+2022,11/14,Wolfpack Open,285,L,DEC,2 - 1,Taye Ghadiali,62500,Campbell,Deonte Wilson,56403,Nc State
+2022,11/06,Battle at the Citadel,285,L,DEC,10 - 3,Owen Trephan,56903,NC State,Deonte Wilson,56403,Nc State
+2022,11/06,Battle at the Citadel,285,W,FALL,6:00,Trip Carroll,61927,Belmont Abbey,Deonte Wilson,56403,Nc State
+2022,11/06,Battle at the Citadel,285,W,MD,16 - 3,Malcolm Wiley,62915,Presbyterian,Deonte Wilson,56403,Nc State
+2022,11/06,Battle at the Citadel,285,W,DEC,6 - 3,Tyrie Houghton,51136,NC State,Deonte Wilson,56403,Nc State

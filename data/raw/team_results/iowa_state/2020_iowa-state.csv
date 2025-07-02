@@ -1,0 +1,887 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2020,03/07,Big 12 Championships,125,L,DEC,3 - 1,Nick Piccininni,39547,Oklahoma State,Alex Mackall,44577,Iowa State
+2020,03/07,Big 12 Championships,125,W,DEC,7 - 3,Cody Phippen,50644,Air Force,Alex Mackall,44577,Iowa State
+2020,03/07,Big 12 Championships,125,W,DEC,13 - 6,Danny Vega,45142,South Dakota State,Alex Mackall,44577,Iowa State
+2020,02/23,North Dakota State - Iowa State Dual,125,W,DEC,6 - 3,McGwire Midkiff,49224,North Dakota State,Alex Mackall,44577,Iowa State
+2020,02/22,Iowa State - Missouri Dual,125,W,DEC,9 - 5,Cameron Valdiviez,49029,Missouri,Alex Mackall,44577,Iowa State
+2020,02/16,Northern Iowa - Iowa State Dual,125,L,FALL,2:17,Jacob Schwarm,39750,Northern Iowa,Alex Mackall,44577,Iowa State
+2020,02/09,Iowa State - Oklahoma Dual,125,W,MD,14 - 4,Christian Moody,39746,Oklahoma,Alex Mackall,44577,Iowa State
+2020,01/26,Oklahoma State - Iowa State Dual,125,L,MD,10 - 2,Nick Piccininni,39547,Oklahoma State,Alex Mackall,44577,Iowa State
+2020,01/17,Iowa State - South Dakota State Dual,125,W,FALL,4:54,Danny Vega,45142,South Dakota State,Alex Mackall,44577,Iowa State
+2020,01/11,Iowa State - Arizona State Dual,125,L,DEC,5 - 3,Brandon Courtney,50881,Arizona State,Alex Mackall,44577,Iowa State
+2020,01/11,Iowa State - Harvard Dual,125,W,MD,11 - 2,Nolan Hellickson,39558,Harvard,Alex Mackall,44577,Iowa State
+2020,01/11,Campbell - Iowa State Dual,125,W,DEC,9 - 2,Korbin Meink,49074,Campbell,Alex Mackall,44577,Iowa State
+2020,01/09,Iowa State - Utah Valley Dual,125,W,FALL,2:55,William Edelblute,57059,Utah Valley,Alex Mackall,44577,Iowa State
+2020,12/14,Chattanooga - Iowa State Dual,125,W,DEC,6 - 1,Fabian Gutierrez,45245,Chattanooga,Alex Mackall,44577,Iowa State
+2020,12/06,Cliff Keen Invitational,125,W,TB-2,7 - 6,Alex Thomsen,50601,Nebraska,Alex Mackall,44577,Iowa State
+2020,12/06,Cliff Keen Invitational,125,L,DEC,7 - 5,Joey Prata,44734,Virginia Tech,Alex Mackall,44577,Iowa State
+2020,12/06,Cliff Keen Invitational,125,L,DEC,6 - 2,Devin Schroder,44591,Purdue,Alex Mackall,44577,Iowa State
+2020,12/06,Cliff Keen Invitational,125,W,DEC,11 - 4,Alejandro Hernandez-Figueroa,45325,CSU Bakersfield,Alex Mackall,44577,Iowa State
+2020,12/06,Cliff Keen Invitational,125,W,DEC,8 - 5,Brandon Courtney,50881,Arizona State,Alex Mackall,44577,Iowa State
+2020,12/06,Cliff Keen Invitational,125,W,TF5,15 - 0 3:10,Kyle Randall,56471,Sacred Heart,Alex Mackall,44577,Iowa State
+2020,11/24,Iowa - Iowa State Dual,125,L,TF5,17 - 2 2:53,Spencer Lee,49146,Iowa,Alex Mackall,44577,Iowa State
+2020,11/17,Bucknell - Iowa State Dual,125,W,DEC,10 - 3,Brandon Seidman,56803,Bucknell,Alex Mackall,44577,Iowa State
+2020,11/10,Cyclone Open,125,W,DEC,3 - 1,Kyle Biscoglia,51109,Northern Iowa,Alex Mackall,44577,Iowa State
+2020,11/10,Cyclone Open,125,W,TF5,22 - 7 4:47,Jacob Schipper,50021,Northern Iowa,Alex Mackall,44577,Iowa State
+2020,11/10,Cyclone Open,125,W,TF5,20 - 4 6:45,Jacob Schwarm,39750,Northern Iowa,Alex Mackall,44577,Iowa State
+2020,02/22,Last Chance Open,125,W,MD,14 - 6,Tanner Jordan,57664,Jackrabbit Wrestling Club,Corey Cabanban,57236,Iowa State
+2020,02/22,Last Chance Open,125,L,SV-1,4 - 2,Ethan Rotondo,51219,Wisconsin,Corey Cabanban,57236,Iowa State
+2020,02/22,Last Chance Open,125,W,DEC,7 - 3,Dack Punke,49195,Missouri,Corey Cabanban,57236,Iowa State
+2020,02/15,West Virginia - Iowa State Dual,125,W,DEC,9 - 5,Joey Thomas,51008,West Virginia,Corey Cabanban,57236,Iowa State
+2020,01/01,Southern Scuffle,125,W,DEC,4 - 0,Matt Maloney,62920,Lock Haven,Corey Cabanban,57236,Iowa State
+2020,01/01,Southern Scuffle,125,L,DEC,3 - 2,Logan Treaster,49205,Navy,Corey Cabanban,57236,Iowa State
+2020,01/01,Southern Scuffle,125,W,MFOR,0 - 0,Gabe Townsell,45387,Stanford,Corey Cabanban,57236,Iowa State
+2020,01/01,Southern Scuffle,125,L,DEC,10 - 5,Michael McGee,49264,Old Dominion,Corey Cabanban,57236,Iowa State
+2020,01/01,Southern Scuffle,125,W,DEC,7 - 3,Jayden Carson,62838,Little Rock,Corey Cabanban,57236,Iowa State
+2020,12/14,UNI Open,125,L,MFOR,0 - 0,Aden Reeves,56711,Iowa State,Corey Cabanban,57236,Iowa State
+2020,12/14,UNI Open,125,W,DEC,3 - 1,Brandon Betancourt,47695,St Cloud State,Corey Cabanban,57236,Iowa State
+2020,12/14,UNI Open,125,L,SV-1,13 - 11,Liam Cronin,45061,Indiana,Corey Cabanban,57236,Iowa State
+2020,12/14,UNI Open,125,L,FALL,0:54,Noah Surtin,56715,Missouri,Corey Cabanban,57236,Iowa State
+2020,11/23,Lindenwood Open,125,W,DEC,7 - 5,Tyler Kreith,51944,Maryville University,Corey Cabanban,57236,Iowa State
+2020,11/23,Lindenwood Open,125,W,DEC,9 - 4,Cameron Valdiviez,49029,Missouri,Corey Cabanban,57236,Iowa State
+2020,11/23,Lindenwood Open,125,L,FALL,1:12,Cameron Valdiviez,49029,Missouri,Corey Cabanban,57236,Iowa State
+2020,11/23,Lindenwood Open,125,L,DEC,7 - 5,Marcus Povlick,47368,McKendree University,Corey Cabanban,57236,Iowa State
+2020,11/23,Lindenwood Open,125,W,MFOR,0 - 0,Carlos Jacquez,41156,Lindenwood,Corey Cabanban,57236,Iowa State
+2020,11/16,Grand View Open,125,W,FALL,6:48,Thomas Russell,60190,Triton College,Corey Cabanban,57236,Iowa State
+2020,11/16,Grand View Open,125,W,DEC,4 - 1,Matt Randone,61232,Loras,Corey Cabanban,57236,Iowa State
+2020,11/16,Grand View Open,125,W,DEC,8 - 3,Jake Hiles,54310,Loras,Corey Cabanban,57236,Iowa State
+2020,11/16,Grand View Open,125,L,DEC,8 - 1,Kyle Biscoglia,51109,Northern Iowa,Corey Cabanban,57236,Iowa State
+2020,11/16,Grand View Open,125,W,FALL,1:35,Justin Portillo,44829,Grand View,Corey Cabanban,57236,Iowa State
+2020,11/10,Cyclone Open,125,W,DEC,8 - 4,Kyle Biscoglia,51109,Northern Iowa,Corey Cabanban,57236,Iowa State
+2020,11/10,Cyclone Open,125,L,FALL,0:54,Justin Portillo,44829,Grand View,Corey Cabanban,57236,Iowa State
+2020,11/10,Cyclone Open,125,L,DEC,4 - 3,Justin Portillo,44829,Grand View,Corey Cabanban,57236,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,125,L,TF5,18 - 3 7:00,Tanner Jordan,57664,Jackrabbit Wrestling Club,Aden Reeves,56711,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,125,W,DEC,8 - 3,Matthew Jordan,62270,Iowa Lakes Community College,Aden Reeves,56711,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,125,W,TF5,24 - 8 7:00,Nathan Rizek,61843,Unattached,Aden Reeves,56711,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,125,W,FALL,0:52,Gregory Coapstick,57179,South Dakota State,Aden Reeves,56711,Iowa State
+2020,01/01,Southern Scuffle,125,L,MD,11 - 2,Louis Newell,50916,Pittsburgh,Aden Reeves,56711,Iowa State
+2020,01/01,Southern Scuffle,125,L,DEC,8 - 4,Gabe Townsell,45387,Stanford,Aden Reeves,56711,Iowa State
+2020,12/14,UNI Open,125,W,MFOR,0 - 0,Corey Cabanban,57236,Iowa State,Aden Reeves,56711,Iowa State
+2020,12/14,UNI Open,125,W,DEC,11 - 9,Liam Cronin,45061,Indiana,Aden Reeves,56711,Iowa State
+2020,12/14,UNI Open,125,L,DEC,6 - 5,Cevion Severado,51610,Missouri,Aden Reeves,56711,Iowa State
+2020,12/14,UNI Open,125,L,FALL,5:39,Kyle Biscoglia,51109,Northern Iowa,Aden Reeves,56711,Iowa State
+2020,11/23,Lindenwood Open,125,W,MD,13 - 2,Michael Taylor,64379,Hannibal-LaGrange,Aden Reeves,56711,Iowa State
+2020,11/23,Lindenwood Open,125,L,DEC,22 - 19,Riley Weir,63837,Northeastern Oklahoma,Aden Reeves,56711,Iowa State
+2020,11/23,Lindenwood Open,125,W,FALL,2:44,Dalen Moore,63821,Northeastern Oklahoma,Aden Reeves,56711,Iowa State
+2020,11/23,Lindenwood Open,125,W,MFOR,0 - 0,Nick Alayan,63226,Davenport,Aden Reeves,56711,Iowa State
+2020,11/23,Lindenwood Open,125,W,DEC,11 - 7,Preston Mattingly,61887,Lindsey Wilson,Aden Reeves,56711,Iowa State
+2020,11/16,Grand View Open,125,W,INJ,7:00,Robbie Rosser,64752,Cowley College,Aden Reeves,56711,Iowa State
+2020,11/16,Grand View Open,125,W,FALL,2:23,Daniel Porter,64750,Iowa Lakes Community College,Aden Reeves,56711,Iowa State
+2020,11/16,Grand View Open,125,W,DEC,14 - 7,Daniel Vargas,64243,Iowa Central Community College,Aden Reeves,56711,Iowa State
+2020,11/16,Grand View Open,125,W,MD,15 - 2,Blake Bills,58780,Missouri Valley,Aden Reeves,56711,Iowa State
+2020,11/16,Grand View Open,125,L,DEC,6 - 5,Kyle Gollhofer,57224,Northern Iowa,Aden Reeves,56711,Iowa State
+2020,11/10,Cyclone Open,125,W,FALL,2:34,Rhyker Sims,64045,Iowa Central Community College,Aden Reeves,56711,Iowa State
+2020,11/10,Cyclone Open,125,L,FALL,3:44,Chris Cannon,62895,Northwestern,Aden Reeves,56711,Iowa State
+2020,11/10,Cyclone Open,125,W,TF5,17 - 2 7:00,Caleb Meekins,62725,Northern Illinois,Aden Reeves,56711,Iowa State
+2020,11/10,Cyclone Open,125,W,DEC,12 - 7,Jaxson Roney,58049,Iowa Central Community College,Aden Reeves,56711,Iowa State
+2020,11/10,Cyclone Open,125,L,DEC,9 - 7,Kyle Gollhofer,57224,Northern Iowa,Aden Reeves,56711,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,125,W,TF5,19 - 4 7:00,Tyler Halloran,65451,Briar Cliff,Caleb Fuessley,62605,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,125,L,FALL,6:29,Tanner Jordan,57664,Jackrabbit Wrestling Club,Caleb Fuessley,62605,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,125,L,MD,11 - 3,Matthew Jordan,62270,Iowa Lakes Community College,Caleb Fuessley,62605,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,125,W,FALL,0:28,Casey Baker,59536,Grand View,Caleb Fuessley,62605,Iowa State
+2020,01/04,Pat Flanagan Open,125,W,SV-2,4 - 2,Peyton Bass,64699,Loras,Caleb Fuessley,62605,Iowa State
+2020,01/04,Pat Flanagan Open,125,W,DEC,13 - 6,Duncan McCain,60656,Loras,Caleb Fuessley,62605,Iowa State
+2020,12/14,UNI Open,125,L,MD,12 - 1,Liam Cronin,45061,Indiana,Caleb Fuessley,62605,Iowa State
+2020,12/14,UNI Open,125,L,DEC,9 - 7,Cevion Severado,51610,Missouri,Caleb Fuessley,62605,Iowa State
+2020,11/23,Lindenwood Open,125,L,DEC,5 - 4,Studd Morris,63872,Central Oklahoma,Caleb Fuessley,62605,Iowa State
+2020,11/23,Lindenwood Open,125,W,FALL,5:58,Colten Klein,62749,Oklahoma State,Caleb Fuessley,62605,Iowa State
+2020,11/23,Lindenwood Open,125,L,FALL,1:39,Parker Avendano,62628,Newman,Caleb Fuessley,62605,Iowa State
+2020,11/23,Lindenwood Open,125,W,DEC,12 - 8,Austin Weaver,59606,Joliet Junior College,Caleb Fuessley,62605,Iowa State
+2020,11/23,Lindenwood Open,125,W,TF5,21 - 6 7:00,Robert Fairchild,59601,Williams Baptist,Caleb Fuessley,62605,Iowa State
+2020,11/16,Grand View Open,125,W,DEC,6 - 3,Dennis McNeal,64744,Ellsworth CC,Caleb Fuessley,62605,Iowa State
+2020,11/16,Grand View Open,125,W,MD,18 - 8,Nate Kahoe,64741,Grand View,Caleb Fuessley,62605,Iowa State
+2020,11/16,Grand View Open,125,W,TF5,17 - 2 7:00,Dalton Gosselink,64740,William Penn,Caleb Fuessley,62605,Iowa State
+2020,11/16,Grand View Open,125,L,MFOR,0 - 0,Isaac Garcia,64738,Iowa Western Community College,Caleb Fuessley,62605,Iowa State
+2020,11/16,Grand View Open,125,L,DEC,12 - 10,Christopher Busutil,64734,Ellsworth CC,Caleb Fuessley,62605,Iowa State
+2020,11/16,Grand View Open,125,W,MD,20 - 7,Michael Taylor,64379,Hannibal-LaGrange,Caleb Fuessley,62605,Iowa State
+2020,11/16,Grand View Open,125,W,DEC,12 - 10,CaRon Watson,58284,Briar Cliff,Caleb Fuessley,62605,Iowa State
+2020,11/10,Cyclone Open,125,W,TF5,18 - 3 5:32,Couy Weil,64047,Iowa Central Community College,Caleb Fuessley,62605,Iowa State
+2020,11/10,Cyclone Open,125,L,DEC,14 - 12,Rhyker Sims,64045,Iowa Central Community College,Caleb Fuessley,62605,Iowa State
+2020,11/10,Cyclone Open,125,L,DEC,8 - 4,Kyle Gollhofer,57224,Northern Iowa,Caleb Fuessley,62605,Iowa State
+2020,03/07,Big 12 Championships,133,L,SV-1,5 - 3,Taylor LaMont,44777,Utah Valley,Todd Small,45992,Iowa State
+2020,03/07,Big 12 Championships,133,W,MD,11 - 3,Jared Van Vleet,51357,Air Force,Todd Small,45992,Iowa State
+2020,03/07,Big 12 Championships,133,L,DEC,10 - 7,Jack Skudlarczyk,49241,Northern Iowa,Todd Small,45992,Iowa State
+2020,03/07,Big 12 Championships,133,L,DEC,11 - 9,Zach Price,50932,South Dakota State,Todd Small,45992,Iowa State
+2020,02/23,North Dakota State - Iowa State Dual,133,L,INJ,7:00,Cameron Sykora,39757,North Dakota State,Todd Small,45992,Iowa State
+2020,02/22,Iowa State - Missouri Dual,133,L,DEC,9 - 5,Allan Hart,49193,Missouri,Todd Small,45992,Iowa State
+2020,02/16,Northern Iowa - Iowa State Dual,133,W,DEC,6 - 4,Jack Skudlarczyk,49241,Northern Iowa,Todd Small,45992,Iowa State
+2020,02/15,West Virginia - Iowa State Dual,133,W,MD,15 - 7,Lucas Seibert,56444,West Virginia,Todd Small,45992,Iowa State
+2020,02/09,Iowa State - Oklahoma Dual,133,L,DEC,8 - 6,Anthony Madrigal,50633,Oklahoma,Todd Small,45992,Iowa State
+2020,01/31,Iowa State - Fresno State Dual,133,W,MD,17 - 4,Gary Joint,50163,Fresno State,Todd Small,45992,Iowa State
+2020,01/26,Oklahoma State - Iowa State Dual,133,L,DEC,9 - 8,Reece Witcraft,57312,Oklahoma State,Todd Small,45992,Iowa State
+2020,01/17,Iowa State - South Dakota State Dual,133,W,DEC,11 - 5,Zach Price,50932,South Dakota State,Todd Small,45992,Iowa State
+2020,01/11,Iowa State - Arizona State Dual,133,W,DEC,5 - 3,Joshua Kramer,39736,Arizona State,Todd Small,45992,Iowa State
+2020,01/11,Iowa State - Harvard Dual,133,W,DEC,9 - 6,Michael Jaffe,57702,Harvard,Todd Small,45992,Iowa State
+2020,01/11,Campbell - Iowa State Dual,133,L,SV-1,6 - 4,Noah Gonser,40087,Campbell,Todd Small,45992,Iowa State
+2020,01/09,Iowa State - Utah Valley Dual,133,W,DEC,13 - 12,Taylor LaMont,44777,Utah Valley,Todd Small,45992,Iowa State
+2020,12/14,Chattanooga - Iowa State Dual,133,W,DEC,7 - 6,Francisco Valdes,49089,Chattanooga,Todd Small,45992,Iowa State
+2020,12/06,Cliff Keen Invitational,133,L,DEC,7 - 1,Ridge Lovett,57520,Nebraska,Todd Small,45992,Iowa State
+2020,12/06,Cliff Keen Invitational,133,W,FALL,4:46,Travis Ford-Melton,57291,Purdue,Todd Small,45992,Iowa State
+2020,12/06,Cliff Keen Invitational,133,W,DEC,12 - 6,Zach Price,50932,South Dakota State,Todd Small,45992,Iowa State
+2020,12/06,Cliff Keen Invitational,133,W,DEC,5 - 3,Dylan Koontz,50854,Ohio State,Todd Small,45992,Iowa State
+2020,12/06,Cliff Keen Invitational,133,W,DEC,10 - 5,Louie Hayes,44641,Virginia,Todd Small,45992,Iowa State
+2020,12/06,Cliff Keen Invitational,133,W,SV-1,6 - 4,Tim Rooney,39949,Kent State,Todd Small,45992,Iowa State
+2020,12/06,Cliff Keen Invitational,133,L,DEC,5 - 3,Chaz Tucker,39771,Cornell,Todd Small,45992,Iowa State
+2020,12/06,Cliff Keen Invitational,133,W,DEC,9 - 3,Seth Koleno,51157,Clarion,Todd Small,45992,Iowa State
+2020,11/24,Iowa - Iowa State Dual,133,L,MD,16 - 4,Austin DeSanto,49117,Iowa,Todd Small,45992,Iowa State
+2020,11/17,Bucknell - Iowa State Dual,133,L,DEC,3 - 1,Darren Miller,57210,Bucknell,Todd Small,45992,Iowa State
+2020,11/10,Cyclone Open,133,W,DEC,6 - 1,Drew Bennett,51142,Northern Iowa,Todd Small,45992,Iowa State
+2020,11/10,Cyclone Open,133,W,DEC,6 - 4,Colin Valdiviez,49244,Northwestern,Todd Small,45992,Iowa State
+2020,11/10,Cyclone Open,133,W,DEC,8 - 3,Jack Wagner,44755,Northern Iowa,Todd Small,45992,Iowa State
+2020,02/22,Last Chance Open,133,W,INJ,7:00,Nate Hansen,53395,Unattached,Ramazan Attasauov,58943,Iowa State
+2020,02/22,Last Chance Open,133,L,DEC,3 - 2,Nate Hansen,53395,Unattached,Ramazan Attasauov,58943,Iowa State
+2020,02/22,Last Chance Open,133,W,MFOR,0 - 0,Paul Bianchi,45589,Little Rock,Ramazan Attasauov,58943,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,133,W,TF5,16 - 0 7:00,Quaid Werklund,66669,Iowa Western Community College,Ramazan Attasauov,58943,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,133,W,FALL,4:08,Carter Logue,66668,Grand View,Ramazan Attasauov,58943,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,133,W,DEC,7 - 3,Daniel Kimball,57663,South Dakota State,Ramazan Attasauov,58943,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,133,W,FALL,4:29,Bailey Bright,45998,Briar Cliff,Ramazan Attasauov,58943,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,133,W,DEC,10 - 3,Zak Hensley,40529,Nebraska,Ramazan Attasauov,58943,Iowa State
+2020,01/01,Southern Scuffle,133,L,DEC,2 - 1,Sammy Alvarez,56763,Rutgers,Ramazan Attasauov,58943,Iowa State
+2020,01/01,Southern Scuffle,133,L,DEC,7 - 3,Colton Landers,50949,Chattanooga,Ramazan Attasauov,58943,Iowa State
+2020,01/01,Southern Scuffle,133,W,MD,12 - 1,Codi Russell,51113,Appalachian State,Ramazan Attasauov,58943,Iowa State
+2020,01/01,Southern Scuffle,133,W,DEC,9 - 8,Justin Patrick,39587,Cleveland State,Ramazan Attasauov,58943,Iowa State
+2020,12/14,UNI Open,133,W,DEC,6 - 5,Connor Brown,49321,Missouri,Ramazan Attasauov,58943,Iowa State
+2020,12/14,UNI Open,133,W,SV-1,7 - 5,Trayton Anderson,62667,South Dakota State,Ramazan Attasauov,58943,Iowa State
+2020,12/14,UNI Open,133,L,DEC,3 - 2,Drew Bennett,51142,Northern Iowa,Ramazan Attasauov,58943,Iowa State
+2020,11/23,Lindenwood Open,133,L,DEC,8 - 6,Marcus Castillo,62843,Little Rock,Ramazan Attasauov,58943,Iowa State
+2020,11/23,Lindenwood Open,133,L,MFOR,0 - 0,Dylan Utterback,51399,Northwestern,Ramazan Attasauov,58943,Iowa State
+2020,11/23,Lindenwood Open,133,W,MD,12 - 3,Lamont Wilson,40859,Kentucky Wesleyan,Ramazan Attasauov,58943,Iowa State
+2020,11/16,Grand View Open,133,W,MFOR,0 - 0,Zach Licht,75301,Loras,Ramazan Attasauov,58943,Iowa State
+2020,11/16,Grand View Open,133,W,MD,9 - 0,Isiah Lysius,64344,Briar Cliff,Ramazan Attasauov,58943,Iowa State
+2020,11/16,Grand View Open,133,W,MFOR,0 - 0,Zeke Smith,60658,Loras,Ramazan Attasauov,58943,Iowa State
+2020,11/16,Grand View Open,133,W,DEC,8 - 4,Mason McMillen,59206,Loras,Ramazan Attasauov,58943,Iowa State
+2020,11/16,Grand View Open,133,L,DEC,5 - 4,Drew Bennett,51142,Northern Iowa,Ramazan Attasauov,58943,Iowa State
+2020,11/16,Grand View Open,133,W,DEC,3 - 2,Dante Tacchia,49999,Grand View,Ramazan Attasauov,58943,Iowa State
+2020,11/16,Grand View Open,133,W,TF5,17 - 2 7:00,Leonard Bingham III,45997,Briar Cliff,Ramazan Attasauov,58943,Iowa State
+2020,11/10,Cyclone Open,133,W,TF5,18 - 3 4:52,Sinjin Briggs,54314,Iowa State,Ramazan Attasauov,58943,Iowa State
+2020,11/10,Cyclone Open,133,W,SV-1,14 - 12,Drew Bennett,51142,Northern Iowa,Ramazan Attasauov,58943,Iowa State
+2020,11/10,Cyclone Open,133,W,TF5,18 - 0 6:02,Shea Ruffridge,51095,Grand View,Ramazan Attasauov,58943,Iowa State
+2020,11/10,Cyclone Open,133,L,DEC,9 - 4,Jack Skudlarczyk,49241,Northern Iowa,Ramazan Attasauov,58943,Iowa State
+2020,11/10,Cyclone Open,133,L,DEC,7 - 3,Jack Skudlarczyk,49241,Northern Iowa,Ramazan Attasauov,58943,Iowa State
+2020,12/14,UNI Open,133,L,MFOR,0 - 0,Charlie Klepps,57235,Iowa State,Sinjin Briggs,54314,Iowa State
+2020,12/14,UNI Open,133,L,INJ,7:00,Jonathan Moran,57078,Indiana,Sinjin Briggs,54314,Iowa State
+2020,11/23,Lindenwood Open,133,L,DEC,5 - 4,Charlie Klepps,57235,Iowa State,Sinjin Briggs,54314,Iowa State
+2020,11/23,Lindenwood Open,133,W,FALL,2:29,Ryan Shumaker,64479,MacMurray,Sinjin Briggs,54314,Iowa State
+2020,11/23,Lindenwood Open,133,W,DEC,6 - 3,Logan Farrell,63858,Central Oklahoma,Sinjin Briggs,54314,Iowa State
+2020,11/23,Lindenwood Open,133,W,DEC,5 - 2,Michael Leveille,57716,Purdue,Sinjin Briggs,54314,Iowa State
+2020,11/23,Lindenwood Open,133,W,DEC,2 - 0,Joe Lupton,56531,Hannibal-LaGrange,Sinjin Briggs,54314,Iowa State
+2020,11/23,Lindenwood Open,133,L,DEC,3 - 2,Joe Lupton,56531,Hannibal-LaGrange,Sinjin Briggs,54314,Iowa State
+2020,11/16,Grand View Open,133,L,MD,13 - 0,Zach Licht,75301,Loras,Sinjin Briggs,54314,Iowa State
+2020,11/16,Grand View Open,133,L,DEC,8 - 3,Isiah Lysius,64344,Briar Cliff,Sinjin Briggs,54314,Iowa State
+2020,11/10,Cyclone Open,133,L,TF5,18 - 3 4:52,Ramazan Attasauov,58943,Iowa State,Sinjin Briggs,54314,Iowa State
+2020,11/10,Cyclone Open,133,W,DEC,3 - 0,Daniel Monahan,62596,Nebraska,Sinjin Briggs,54314,Iowa State
+2020,11/10,Cyclone Open,133,L,DEC,10 - 3,Jevon Parrish,51235,Nebraska,Sinjin Briggs,54314,Iowa State
+2020,03/07,Big 12 Championships,141,W,SV-2,4 - 2,Dominick Demas,49256,Oklahoma,Ian Parker,44732,Iowa State
+2020,03/07,Big 12 Championships,141,W,DEC,7 - 2,Dylan Droegemueller,51082,North Dakota State,Ian Parker,44732,Iowa State
+2020,03/07,Big 12 Championships,141,W,DEC,4 - 0,Michael Blockhus,57163,Northern Iowa,Ian Parker,44732,Iowa State
+2020,03/07,Big 12 Championships,141,W,DEC,8 - 4,Clay Carlson,56441,South Dakota State,Ian Parker,44732,Iowa State
+2020,02/23,North Dakota State - Iowa State Dual,141,W,FALL,6:18,Sawyer Degen,50567,North Dakota State,Ian Parker,44732,Iowa State
+2020,02/16,Northern Iowa - Iowa State Dual,141,W,DEC,7 - 2,Michael Blockhus,57163,Northern Iowa,Ian Parker,44732,Iowa State
+2020,02/15,West Virginia - Iowa State Dual,141,W,MD,8 - 0,Caleb Rea,56445,West Virginia,Ian Parker,44732,Iowa State
+2020,02/09,Iowa State - Oklahoma Dual,141,L,SV-1,3 - 1,Dominick Demas,49256,Oklahoma,Ian Parker,44732,Iowa State
+2020,01/31,Iowa State - Fresno State Dual,141,W,MD,9 - 1,Durbin Lloren,44916,Fresno State,Ian Parker,44732,Iowa State
+2020,01/26,Oklahoma State - Iowa State Dual,141,W,DEC,5 - 2,Dusty Hone,20271,Oklahoma State,Ian Parker,44732,Iowa State
+2020,01/17,Iowa State - South Dakota State Dual,141,W,DEC,8 - 2,Clay Carlson,56441,South Dakota State,Ian Parker,44732,Iowa State
+2020,01/11,Iowa State - Arizona State Dual,141,W,DEC,4 - 2,Navonte Demison,49036,Arizona State,Ian Parker,44732,Iowa State
+2020,01/11,Iowa State - Harvard Dual,141,W,FALL,4:30,Lukus Stricker,49139,Harvard,Ian Parker,44732,Iowa State
+2020,01/11,Campbell - Iowa State Dual,141,W,DEC,3 - 1,Josh Heil,45100,Campbell,Ian Parker,44732,Iowa State
+2020,01/09,Iowa State - Utah Valley Dual,141,W,FALL,6:43,Cameron Hunsaker,62438,Utah Valley,Ian Parker,44732,Iowa State
+2020,12/14,Chattanooga - Iowa State Dual,141,W,DEC,10 - 4,Mason Wallace,49086,Chattanooga,Ian Parker,44732,Iowa State
+2020,12/06,Cliff Keen Invitational,141,W,DEC,3 - 0,Mitch Moore,50620,Virginia Tech,Ian Parker,44732,Iowa State
+2020,12/06,Cliff Keen Invitational,141,L,TF5,19 - 4 5:05,Dominick Demas,49256,Oklahoma,Ian Parker,44732,Iowa State
+2020,12/06,Cliff Keen Invitational,141,W,MD,12 - 1,Jack Tolin,49242,Northwestern,Ian Parker,44732,Iowa State
+2020,12/06,Cliff Keen Invitational,141,L,MD,8 - 0,Mitch McKee,45139,Minnesota,Ian Parker,44732,Iowa State
+2020,12/06,Cliff Keen Invitational,141,W,DEC,5 - 3,Chad Red,44683,Nebraska,Ian Parker,44732,Iowa State
+2020,12/06,Cliff Keen Invitational,141,W,MD,8 - 0,Noah Baughman,44749,Cornell,Ian Parker,44732,Iowa State
+2020,12/06,Cliff Keen Invitational,141,W,MD,8 - 0,Wesley Dawkins,46310,Nebraska-Kearney,Ian Parker,44732,Iowa State
+2020,11/24,Iowa - Iowa State Dual,141,W,SV-1,6 - 4,Carter Happel,44756,Iowa,Ian Parker,44732,Iowa State
+2020,11/17,Bucknell - Iowa State Dual,141,W,DEC,6 - 2,Noah Levett,50658,Bucknell,Ian Parker,44732,Iowa State
+2020,02/22,Iowa State - Missouri Dual,141,L,DEC,4 - 3,Alexander Butler,39647,Missouri,Noah Nemer,57233,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,141,W,FALL,5:45,Israel Miranda,64763,Briar Cliff,Noah Nemer,57233,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,141,L,DEC,4 - 2,Grayson Brenna,41123,Grand View,Noah Nemer,57233,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,141,W,FALL,1:48,Lane Eggen,54651,Morningside,Noah Nemer,57233,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,141,L,DEC,13 - 10,Matt Robertson,53617,Grand View,Noah Nemer,57233,Iowa State
+2020,01/19,Roger Denker Open,141,W,TF5,19 - 2 7:00,Aaron Barefield,66427,Central Methodist,Noah Nemer,57233,Iowa State
+2020,01/19,Roger Denker Open,141,L,FALL,4:17,Conner Dalton,59196,Central Missouri,Noah Nemer,57233,Iowa State
+2020,01/19,Roger Denker Open,141,W,FALL,4:24,Ryan Wahl,52088,Ottawa,Noah Nemer,57233,Iowa State
+2020,01/04,Pat Flanagan Open,141,W,MD,15 - 1,Andrew Flora,61920,Iowa State,Noah Nemer,57233,Iowa State
+2020,01/04,Pat Flanagan Open,141,L,FALL,0:42,Tate Murty,58473,Upper Iowa,Noah Nemer,57233,Iowa State
+2020,01/04,Pat Flanagan Open,141,W,FALL,3:52,Tristan Barr,55141,Maryville University,Noah Nemer,57233,Iowa State
+2020,12/14,UNI Open,141,W,SV-1,7 - 5,Asa Garcia,57341,Indiana,Noah Nemer,57233,Iowa State
+2020,12/14,UNI Open,141,L,DEC,11 - 4,Aric Williams,51002,South Dakota State,Noah Nemer,57233,Iowa State
+2020,12/14,UNI Open,141,L,DEC,5 - 2,Rylee Molitor,49322,South Dakota State,Noah Nemer,57233,Iowa State
+2020,12/14,UNI Open,141,W,DEC,4 - 0,Garrett Moll,62608,Northern Iowa,Noah Nemer,57233,Iowa State
+2020,11/23,Lindenwood Open,141,L,FALL,1:40,Precious Essien,62663,Missouri,Noah Nemer,57233,Iowa State
+2020,11/23,Lindenwood Open,141,W,TF5,18 - 2 7:00,Dillon Nichols,61650,Northern Illinois,Noah Nemer,57233,Iowa State
+2020,11/23,Lindenwood Open,141,W,FALL,5:52,Jesus Mancera,59571,Marian University,Noah Nemer,57233,Iowa State
+2020,11/23,Lindenwood Open,141,W,DEC,6 - 4,Michael Kumlien,58596,Northeastern Oklahoma,Noah Nemer,57233,Iowa State
+2020,11/23,Lindenwood Open,141,W,DEC,10 - 4,Asher Meekhof,57947,Davenport,Noah Nemer,57233,Iowa State
+2020,11/23,Lindenwood Open,141,W,DEC,9 - 8,Baylor Smith,57462,Newman,Noah Nemer,57233,Iowa State
+2020,11/23,Lindenwood Open,141,W,DEC,6 - 2,Nate Cotroneo,62743,Illinois,Noah Nemer,57233,Iowa State
+2020,11/16,Grand View Open,141,L,DEC,14 - 11,Ramiro Mosquera,64747,Missouri Valley,Noah Nemer,57233,Iowa State
+2020,11/16,Grand View Open,141,W,DEC,6 - 2,Jacob Mitchell,64041,Pratt Community College,Noah Nemer,57233,Iowa State
+2020,11/16,Grand View Open,141,W,MD,12 - 2,Maximus Barajas,61510,Briar Cliff,Noah Nemer,57233,Iowa State
+2020,11/16,Grand View Open,141,L,DEC,9 - 6,Diego Guerrero,61393,Iowa Western Community College,Noah Nemer,57233,Iowa State
+2020,11/10,Cyclone Open,141,W,FALL,3:55,Abraham Sanchez,64044,Pratt Community College,Noah Nemer,57233,Iowa State
+2020,11/10,Cyclone Open,141,L,FALL,0:24,Derek Anderson,64028,Grand View,Noah Nemer,57233,Iowa State
+2020,11/10,Cyclone Open,141,L,DEC,11 - 8,Nick Termini,57212,Wisconsin,Noah Nemer,57233,Iowa State
+2020,11/10,Cyclone Open,141,W,DEC,13 - 8,Killyan Green,51074,Grand View,Noah Nemer,57233,Iowa State
+2020,02/22,Last Chance Open,141,L,DEC,6 - 0,Caleb Gross,62668,South Dakota State,Charlie Klepps,57235,Iowa State
+2020,02/22,Last Chance Open,141,W,TF5,24 - 5 7:00,Zachary Fuessley,58056,Iowa State University Wrestling Club,Charlie Klepps,57235,Iowa State
+2020,02/22,Last Chance Open,141,W,MD,22 - 8,Caleb Poche,54671,Dubuque,Charlie Klepps,57235,Iowa State
+2020,02/22,Last Chance Open,141,L,FALL,5:49,Grant Leeth,19866,Missouri,Charlie Klepps,57235,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,141,L,DEC,8 - 3,Derek Anderson,64028,Grand View,Charlie Klepps,57235,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,141,L,DEC,10 - 4,Tyler Deen,57770,Nebraska,Charlie Klepps,57235,Iowa State
+2020,01/01,Southern Scuffle,133,L,DEC,7 - 6,Tyler Hunt,55813,US Naval Academy Prep School,Charlie Klepps,57235,Iowa State
+2020,01/01,Southern Scuffle,133,L,DEC,3 - 1,Devan Turner,45397,Oregon State,Charlie Klepps,57235,Iowa State
+2020,12/14,UNI Open,133,W,DEC,5 - 3,Jonathan Moran,57078,Indiana,Charlie Klepps,57235,Iowa State
+2020,12/14,UNI Open,133,W,MFOR,0 - 0,Sinjin Briggs,54314,Iowa State,Charlie Klepps,57235,Iowa State
+2020,12/14,UNI Open,133,L,DEC,10 - 3,Connor Brown,49321,Missouri,Charlie Klepps,57235,Iowa State
+2020,12/14,UNI Open,133,L,DEC,11 - 6,Drew Bennett,51142,Northern Iowa,Charlie Klepps,57235,Iowa State
+2020,11/23,Lindenwood Open,133,W,FALL,6:08,Laif Jones,63864,Northeastern Oklahoma,Charlie Klepps,57235,Iowa State
+2020,11/23,Lindenwood Open,133,W,DEC,5 - 4,Laif Jones,63864,Northeastern Oklahoma,Charlie Klepps,57235,Iowa State
+2020,11/23,Lindenwood Open,133,W,FALL,4:03,Dante Williams,63390,Spartanburg Methodist College,Charlie Klepps,57235,Iowa State
+2020,11/23,Lindenwood Open,133,W,DEC,4 - 2,Hector Candelaria,59574,Ellsworth CC,Charlie Klepps,57235,Iowa State
+2020,11/23,Lindenwood Open,133,L,DEC,8 - 3,Christian Mejia,56521,McKendree University,Charlie Klepps,57235,Iowa State
+2020,11/23,Lindenwood Open,133,W,DEC,5 - 4,Sinjin Briggs,54314,Iowa State,Charlie Klepps,57235,Iowa State
+2020,11/16,Grand View Open,133,W,MD,14 - 3,Brayden Strachan,64755,Cowley College,Charlie Klepps,57235,Iowa State
+2020,11/16,Grand View Open,133,W,TF5,17 - 2 7:00,Alfredo Moreno,64745,Waldorf,Charlie Klepps,57235,Iowa State
+2020,11/16,Grand View Open,133,W,MFOR,0 - 0,Maddie Roney,64067,Iowa Central Community College,Charlie Klepps,57235,Iowa State
+2020,11/16,Grand View Open,133,W,TB-1,3 - 2,Daniel Leal,59649,Iowa Western Community College,Charlie Klepps,57235,Iowa State
+2020,11/16,Grand View Open,133,W,DEC,8 - 3,Joseph Rice,59398,Missouri Valley,Charlie Klepps,57235,Iowa State
+2020,11/16,Grand View Open,133,L,MD,11 - 3,Mikey Mascarenas,53303,Northeastern Oklahoma,Charlie Klepps,57235,Iowa State
+2020,11/10,Cyclone Open,133,W,DEC,12 - 7,Bobby Tellez,64046,Iowa Central Community College,Charlie Klepps,57235,Iowa State
+2020,11/10,Cyclone Open,133,L,FALL,2:24,Justin Benjamin,61997,Northwestern,Charlie Klepps,57235,Iowa State
+2020,11/10,Cyclone Open,133,W,FALL,6:43,Sam Loyd,51094,Grand View,Charlie Klepps,57235,Iowa State
+2020,02/22,Last Chance Open,141,L,DEC,7 - 4,Caleb Gross,62668,South Dakota State,Andrew Flora,61920,Iowa State
+2020,02/22,Last Chance Open,141,W,FALL,2:52,Zachary Fuessley,58056,Iowa State University Wrestling Club,Andrew Flora,61920,Iowa State
+2020,02/22,Last Chance Open,141,W,MD,14 - 2,Caleb Poche,54671,Dubuque,Andrew Flora,61920,Iowa State
+2020,02/22,Last Chance Open,141,L,FALL,5:36,Grant Leeth,19866,Missouri,Andrew Flora,61920,Iowa State
+2020,01/04,Pat Flanagan Open,141,L,MD,15 - 1,Noah Nemer,57233,Iowa State,Andrew Flora,61920,Iowa State
+2020,01/04,Pat Flanagan Open,141,W,DEC,3 - 1,Reis Ginter,60654,Loras,Andrew Flora,61920,Iowa State
+2020,01/04,Pat Flanagan Open,141,W,DEC,5 - 3,Tristan Barr,55141,Maryville University,Andrew Flora,61920,Iowa State
+2020,01/04,Pat Flanagan Open,141,W,DEC,10 - 4,Kade Smith,52543,Maryville University,Andrew Flora,61920,Iowa State
+2020,11/23,Lindenwood Open,141,W,DEC,2 - 1,Blake Ackerman,64397,Missouri Valley,Andrew Flora,61920,Iowa State
+2020,11/23,Lindenwood Open,141,L,FALL,0:38,Michael Kumlien,58596,Northeastern Oklahoma,Andrew Flora,61920,Iowa State
+2020,11/23,Lindenwood Open,141,L,DEC,10 - 7,Trey Piotrowski,62741,Illinois,Andrew Flora,61920,Iowa State
+2020,11/16,Grand View Open,141,L,DEC,10 - 4,Preston Wiest,64757,William Penn,Andrew Flora,61920,Iowa State
+2020,11/16,Grand View Open,141,W,FALL,5:59,Ramon Lopez,64743,Iowa Lakes Community College,Andrew Flora,61920,Iowa State
+2020,11/16,Grand View Open,141,W,DEC,4 - 3,Blake Ackerman,64397,Missouri Valley,Andrew Flora,61920,Iowa State
+2020,11/16,Grand View Open,141,L,FALL,6:12,Christian Vertedor,64276,Iowa Central Community College,Andrew Flora,61920,Iowa State
+2020,11/16,Grand View Open,141,W,DEC,3 - 2,Justin Gibson,54119,Providence,Andrew Flora,61920,Iowa State
+2020,11/10,Cyclone Open,141,W,DEC,7 - 3,Jacob Mitchell,64041,Pratt Community College,Andrew Flora,61920,Iowa State
+2020,11/10,Cyclone Open,141,W,TF5,16 - 0 7:00,Javier Martinez,64039,Pratt Community College,Andrew Flora,61920,Iowa State
+2020,11/10,Cyclone Open,141,L,DEC,7 - 1,Dillon Nichols,61650,Northern Illinois,Andrew Flora,61920,Iowa State
+2020,11/10,Cyclone Open,141,L,MD,13 - 5,Killyan Green,51074,Grand View,Andrew Flora,61920,Iowa State
+2020,03/07,Big 12 Championships,149,W,DEC,5 - 3,Andrew Alirez,56723,Northern Colorado,Jarrett Degen,44855,Iowa State
+2020,03/07,Big 12 Championships,149,W,FALL,4:21,Greg Gaxiola,47675,Fresno State,Jarrett Degen,44855,Iowa State
+2020,03/07,Big 12 Championships,149,W,DEC,4 - 3,Andrew Alirez,56723,Northern Colorado,Jarrett Degen,44855,Iowa State
+2020,03/07,Big 12 Championships,149,L,FALL,6:18,Boo Lewallen,39543,Oklahoma State,Jarrett Degen,44855,Iowa State
+2020,02/23,North Dakota State - Iowa State Dual,149,W,DEC,4 - 3,Jaden Van Maanen,49227,North Dakota State,Jarrett Degen,44855,Iowa State
+2020,02/22,Last Chance Open,149,W,DEC,8 - 1,Daniel Stilling,62175,Wisconsin,Jarrett Degen,44855,Iowa State
+2020,02/22,Last Chance Open,149,L,MFOR,0 - 0,Daniel Stilling,62175,Wisconsin,Jarrett Degen,44855,Iowa State
+2020,02/22,Last Chance Open,149,L,MFOR,0 - 0,Carter Weeks,58065,Iowa State University Wrestling Club,Jarrett Degen,44855,Iowa State
+2020,02/22,Last Chance Open,149,W,DEC,9 - 6,Aric Williams,51002,South Dakota State,Jarrett Degen,44855,Iowa State
+2020,02/22,Last Chance Open,149,L,MFOR,0 - 0,Aric Williams,51002,South Dakota State,Jarrett Degen,44855,Iowa State
+2020,02/16,Northern Iowa - Iowa State Dual,149,L,SV-1,3 - 1,Max Thomsen,39503,Northern Iowa,Jarrett Degen,44855,Iowa State
+2020,02/15,West Virginia - Iowa State Dual,149,W,FALL,4:19,Liam Lusher,61516,West Virginia,Jarrett Degen,44855,Iowa State
+2020,02/09,Iowa State - Oklahoma Dual,149,W,DEC,8 - 4,Jacob Butler,57142,Oklahoma,Jarrett Degen,44855,Iowa State
+2020,01/31,Iowa State - Fresno State Dual,149,W,FALL,4:27,Greg Gaxiola,47675,Fresno State,Jarrett Degen,44855,Iowa State
+2020,12/06,Cliff Keen Invitational,149,W,DEC,8 - 2,Nathan Moore,56919,Northern Colorado,Jarrett Degen,44855,Iowa State
+2020,12/06,Cliff Keen Invitational,149,L,MFOR,0 - 0,Sammy Sasso,51143,Ohio State,Jarrett Degen,44855,Iowa State
+2020,12/06,Cliff Keen Invitational,149,L,MFOR,0 - 0,Yahya Thomas,49245,Northwestern,Jarrett Degen,44855,Iowa State
+2020,12/06,Cliff Keen Invitational,149,W,DEC,10 - 9,Collin Purinton,40505,Nebraska,Jarrett Degen,44855,Iowa State
+2020,12/06,Cliff Keen Invitational,149,W,DEC,7 - 4,Ben Lamantia,39644,Michigan,Jarrett Degen,44855,Iowa State
+2020,12/06,Cliff Keen Invitational,149,L,MFOR,0 - 0,Max Thomsen,39503,Northern Iowa,Jarrett Degen,44855,Iowa State
+2020,11/24,Iowa - Iowa State Dual,149,L,DEC,4 - 3,Patricio Lugo,39919,Iowa,Jarrett Degen,44855,Iowa State
+2020,11/17,Bucknell - Iowa State Dual,149,W,MD,15 - 5,Matt Kolonia,49066,Bucknell,Jarrett Degen,44855,Iowa State
+2020,11/10,Cyclone Open,149,W,DEC,7 - 4,Josh Wenger,64048,Grand View,Jarrett Degen,44855,Iowa State
+2020,11/10,Cyclone Open,149,W,DEC,11 - 7,Trevor Chumbley,57938,Northwestern,Jarrett Degen,44855,Iowa State
+2020,11/10,Cyclone Open,149,W,MD,15 - 6,Kevon Davenport,57216,Nebraska,Jarrett Degen,44855,Iowa State
+2020,11/10,Cyclone Open,149,L,DEC,12 - 7,Max Thomsen,39503,Northern Iowa,Jarrett Degen,44855,Iowa State
+2020,02/22,Iowa State - Missouri Dual,149,L,DEC,4 - 2,Brock Mauller,50596,Missouri,Ryan Leisure,49152,Iowa State
+2020,01/26,Oklahoma State - Iowa State Dual,149,L,MD,13 - 1,Boo Lewallen,39543,Oklahoma State,Ryan Leisure,49152,Iowa State
+2020,01/17,Iowa State - South Dakota State Dual,149,L,DEC,1 - 0,Henry Pohlmeyer,39803,South Dakota State,Ryan Leisure,49152,Iowa State
+2020,01/11,Iowa State - Arizona State Dual,149,W,DEC,9 - 4,Dillon Ulrey,45848,Arizona State,Ryan Leisure,49152,Iowa State
+2020,01/11,Iowa State - Harvard Dual,149,W,DEC,7 - 5,Andrew Pace,62195,Harvard,Ryan Leisure,49152,Iowa State
+2020,01/11,Campbell - Iowa State Dual,149,L,FALL,4:03,Jason Kraisser,57287,Campbell,Ryan Leisure,49152,Iowa State
+2020,01/09,Iowa State - Utah Valley Dual,149,W,FALL,1:50,Landon Knutzen,45365,Utah Valley,Ryan Leisure,49152,Iowa State
+2020,01/01,Southern Scuffle,149,L,MFOR,0 - 0,Brevin Balmeceda,57352,Oklahoma State,Ryan Leisure,49152,Iowa State
+2020,01/01,Southern Scuffle,149,W,MD,14 - 3,Thomas Lisher,52421,Little Rock,Ryan Leisure,49152,Iowa State
+2020,01/01,Southern Scuffle,149,L,DEC,13 - 7,Josh Finesilver,46112,Duke,Ryan Leisure,49152,Iowa State
+2020,12/14,Chattanooga - Iowa State Dual,149,L,MD,13 - 1,Tanner Smith,49129,Chattanooga,Ryan Leisure,49152,Iowa State
+2020,11/10,Cyclone Open,149,L,FALL,5:51,Kevon Davenport,57216,Nebraska,Ryan Leisure,49152,Iowa State
+2020,11/10,Cyclone Open,149,L,MD,11 - 3,Zemua Baptista,44875,Nebraska,Ryan Leisure,49152,Iowa State
+2020,03/07,Big 12 Championships,157,W,DEC,6 - 4,Wyatt Sheets,44863,Oklahoma State,David Carr,51126,Iowa State
+2020,03/07,Big 12 Championships,157,W,DEC,4 - 1,Justin Thomas,44882,Oklahoma,David Carr,51126,Iowa State
+2020,03/07,Big 12 Championships,157,W,DEC,11 - 5,Dewey Krueger,40144,Wyoming,David Carr,51126,Iowa State
+2020,02/22,Last Chance Open,157,L,MFOR,0 - 0,Payton Sitzmann,66917,Iowa State University Wrestling Club,David Carr,51126,Iowa State
+2020,02/22,Last Chance Open,157,W,FALL,0:52,Eric Owens,62174,Iowa State,David Carr,51126,Iowa State
+2020,02/22,Last Chance Open,157,L,MFOR,0 - 0,Cael Carlson,57337,Minnesota,David Carr,51126,Iowa State
+2020,01/26,Oklahoma State - Iowa State Dual,157,W,MD,14 - 6,Wyatt Sheets,44863,Oklahoma State,David Carr,51126,Iowa State
+2020,01/17,Iowa State - South Dakota State Dual,157,W,MD,16 - 5,Colten Carlson,45286,South Dakota State,David Carr,51126,Iowa State
+2020,01/11,Iowa State - Arizona State Dual,157,W,DEC,4 - 1,Jacori Teemer,50581,Arizona State,David Carr,51126,Iowa State
+2020,01/11,Iowa State - Harvard Dual,157,W,MD,17 - 6,Hunter Ladnier,44784,Harvard,David Carr,51126,Iowa State
+2020,01/11,Campbell - Iowa State Dual,157,W,MD,18 - 5,Matthew Dallara,51712,Campbell,David Carr,51126,Iowa State
+2020,01/09,Iowa State - Utah Valley Dual,157,W,FALL,1:29,Jerry Rubio,57051,Utah Valley,David Carr,51126,Iowa State
+2020,12/14,Chattanooga - Iowa State Dual,157,W,TF5,21 - 6 5:30,Tyler Shilson,49352,Chattanooga,David Carr,51126,Iowa State
+2020,12/06,Cliff Keen Invitational,157,W,DEC,11 - 4,Jared Franek,50639,North Dakota State,David Carr,51126,Iowa State
+2020,12/06,Cliff Keen Invitational,157,W,DEC,4 - 0,Kendall Coleman,50626,Purdue,David Carr,51126,Iowa State
+2020,12/06,Cliff Keen Invitational,157,W,DEC,6 - 5,Justin Thomas,44882,Oklahoma,David Carr,51126,Iowa State
+2020,12/06,Cliff Keen Invitational,157,L,DEC,9 - 3,Ryan Deakin,44716,Northwestern,David Carr,51126,Iowa State
+2020,12/06,Cliff Keen Invitational,157,W,MD,9 - 0,Jacob Wright,49463,Fresno State,David Carr,51126,Iowa State
+2020,12/06,Cliff Keen Invitational,157,W,DEC,8 - 2,Avery Shay,50309,Clarion,David Carr,51126,Iowa State
+2020,11/24,Iowa - Iowa State Dual,157,W,DEC,6 - 1,Kaleb Young,44572,Iowa,David Carr,51126,Iowa State
+2020,11/17,Bucknell - Iowa State Dual,157,W,TF5,18 - 3 7:00,Jaden Fisher,56900,Bucknell,David Carr,51126,Iowa State
+2020,02/22,Last Chance Open,157,W,DEC,9 - 2,Nicco Mazzanti,61239,Dubuque,Grant Stotts,51284,Iowa State
+2020,02/22,Last Chance Open,157,W,DEC,4 - 0,Carter Schmidt,62606,Iowa State,Grant Stotts,51284,Iowa State
+2020,02/22,Last Chance Open,157,L,DEC,3 - 2,Cade DeVos,57072,South Dakota State,Grant Stotts,51284,Iowa State
+2020,02/16,Northern Iowa - Iowa State Dual,157,L,DEC,5 - 3,Paden Moore,39541,Northern Iowa,Grant Stotts,51284,Iowa State
+2020,02/15,West Virginia - Iowa State Dual,157,L,SV-1,6 - 4,Alex Hornfeck,56494,West Virginia,Grant Stotts,51284,Iowa State
+2020,02/09,Iowa State - Oklahoma Dual,157,L,FALL,4:23,Justin Thomas,44882,Oklahoma,Grant Stotts,51284,Iowa State
+2020,01/31,Iowa State - Fresno State Dual,157,L,DEC,3 - 2,Jacob Wright,49463,Fresno State,Grant Stotts,51284,Iowa State
+2020,01/01,Southern Scuffle,157,L,FALL,1:17,Wyatt Gerl,57201,CSU Bakersfield,Grant Stotts,51284,Iowa State
+2020,01/01,Southern Scuffle,157,L,DEC,4 - 1,Tyler Eischens,51205,Stanford,Grant Stotts,51284,Iowa State
+2020,12/14,UNI Open,157,W,TF5,17 - 0 7:00,Eric Owens,62174,Iowa State,Grant Stotts,51284,Iowa State
+2020,12/14,UNI Open,157,W,DEC,3 - 2,Joey Sanchez,61029,Indiana,Grant Stotts,51284,Iowa State
+2020,12/14,UNI Open,157,L,DEC,5 - 4,Fernie Silva,46045,Indiana,Grant Stotts,51284,Iowa State
+2020,12/14,UNI Open,157,W,DEC,3 - 2,Keaton Geerts,49240,Northern Iowa,Grant Stotts,51284,Iowa State
+2020,11/23,Lindenwood Open,157,W,FALL,1:12,Andy Santana,53576,Kentucky Wesleyan,Grant Stotts,51284,Iowa State
+2020,11/23,Lindenwood Open,157,W,DEC,3 - 2,Tyler Lucas,53301,Central Oklahoma,Grant Stotts,51284,Iowa State
+2020,11/23,Lindenwood Open,157,W,MD,10 - 1,Dawson Sickmeier,49438,Lindenwood,Grant Stotts,51284,Iowa State
+2020,11/23,Lindenwood Open,157,W,DEC,10 - 3,Tim Bogar,47169,Lindenwood,Grant Stotts,51284,Iowa State
+2020,11/23,Lindenwood Open,157,W,DEC,4 - 2,Phyllip DeLoach,40074,Missouri,Grant Stotts,51284,Iowa State
+2020,11/23,Lindenwood Open,157,L,DEC,6 - 5,Phyllip DeLoach,40074,Missouri,Grant Stotts,51284,Iowa State
+2020,11/16,Grand View Open,157,W,FALL,1:40,Kiesean Stephens,61016,Life University,Grant Stotts,51284,Iowa State
+2020,11/16,Grand View Open,157,L,DEC,9 - 5,Drew Scharenbrock,59184,Wisconsin,Grant Stotts,51284,Iowa State
+2020,11/16,Grand View Open,157,W,DEC,8 - 4,Denver Stonecheck,51902,Life University,Grant Stotts,51284,Iowa State
+2020,11/16,Grand View Open,157,L,SV-1,3 - 1,Devin Bahr,49349,Wisconsin,Grant Stotts,51284,Iowa State
+2020,11/16,Grand View Open,157,W,DEC,4 - 3,Derek Holschlag,49238,Northern Iowa,Grant Stotts,51284,Iowa State
+2020,11/10,Cyclone Open,157,W,MD,10 - 2,Mitchel Mangold,64038,Grand View,Grant Stotts,51284,Iowa State
+2020,11/10,Cyclone Open,157,W,MD,12 - 2,Andrew Gamble,64034,Iowa Central Community College,Grant Stotts,51284,Iowa State
+2020,11/10,Cyclone Open,157,W,DEC,7 - 5,James Foy,64032,Northwest Kansas Technical College,Grant Stotts,51284,Iowa State
+2020,11/10,Cyclone Open,157,W,DEC,8 - 4,Dayton Porsch,57521,Northern Iowa,Grant Stotts,51284,Iowa State
+2020,02/22,Last Chance Open,157,W,FALL,2:59,Nicco Mazzanti,61239,Dubuque,Eric Owens,62174,Iowa State
+2020,02/22,Last Chance Open,157,L,FALL,0:52,David Carr,51126,Iowa State,Eric Owens,62174,Iowa State
+2020,02/22,Last Chance Open,157,L,MFOR,0 - 0,Payton Sitzmann,66917,Iowa State University Wrestling Club,Eric Owens,62174,Iowa State
+2020,02/22,Last Chance Open,157,L,MFOR,0 - 0,Cael Carlson,57337,Minnesota,Eric Owens,62174,Iowa State
+2020,02/22,Last Chance Open,157,W,DEC,8 - 6,Dalton Lakmann,57177,South Dakota State,Eric Owens,62174,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,157,L,FALL,4:02,Kory Van Oort,65553,Morningside,Eric Owens,62174,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,157,L,DEC,16 - 9,Julian Giustiniano,65438,Waldorf,Eric Owens,62174,Iowa State
+2020,01/04,Pat Flanagan Open,157,W,MFOR,0 - 0,Brad Holmes,60633,Loras,Eric Owens,62174,Iowa State
+2020,01/04,Pat Flanagan Open,157,W,FALL,0:50,Blake Weglarz,65959,Loras,Eric Owens,62174,Iowa State
+2020,01/04,Pat Flanagan Open,157,L,MD,16 - 3,Nathan Pitts,60657,Loras,Eric Owens,62174,Iowa State
+2020,01/04,Pat Flanagan Open,157,L,DEC,8 - 3,Ryan Steffen,58425,Upper Iowa,Eric Owens,62174,Iowa State
+2020,12/14,UNI Open,157,L,TF5,17 - 0 7:00,Grant Stotts,51284,Iowa State,Eric Owens,62174,Iowa State
+2020,12/14,UNI Open,157,L,FALL,5:47,Keaton Geerts,49240,Northern Iowa,Eric Owens,62174,Iowa State
+2020,11/23,Lindenwood Open,157,L,MD,14 - 4,Scott Radke,64764,Northeastern Oklahoma,Eric Owens,62174,Iowa State
+2020,11/23,Lindenwood Open,157,L,MD,12 - 3,Joey Sanchez,61029,Indiana,Eric Owens,62174,Iowa State
+2020,11/16,Grand View Open,157,L,DEC,8 - 4,Dylan Ames,62269,Iowa Lakes Community College,Eric Owens,62174,Iowa State
+2020,11/16,Grand View Open,157,L,FALL,2:17,Jayden Terronez,61514,Grand View,Eric Owens,62174,Iowa State
+2020,11/16,Grand View Open,157,W,FALL,6:55,Shamar Pugh,60178,Triton College,Eric Owens,62174,Iowa State
+2020,11/10,Cyclone Open,157,W,FALL,4:55,Quincy Saddler,64043,Pratt Community College,Eric Owens,62174,Iowa State
+2020,11/10,Cyclone Open,157,L,MD,11 - 3,Nolan Miller-Johnston,64040,Iowa Central Community College,Eric Owens,62174,Iowa State
+2020,11/10,Cyclone Open,157,L,FALL,5:42,Mitchel Mangold,64038,Grand View,Eric Owens,62174,Iowa State
+2020,02/22,Last Chance Open,157,L,DEC,4 - 0,Grant Stotts,51284,Iowa State,Carter Schmidt,62606,Iowa State
+2020,02/22,Last Chance Open,157,W,TF5,19 - 4 7:00,Payton Sitzmann,66917,Iowa State University Wrestling Club,Carter Schmidt,62606,Iowa State
+2020,02/22,Last Chance Open,157,L,DEC,7 - 0,Cael Carlson,57337,Minnesota,Carter Schmidt,62606,Iowa State
+2020,02/22,Last Chance Open,157,W,MD,10 - 2,Dalton Lakmann,57177,South Dakota State,Carter Schmidt,62606,Iowa State
+2020,01/04,Pat Flanagan Open,157,W,TF5,22 - 6 4:25,Nathan Pitts,60657,Loras,Carter Schmidt,62606,Iowa State
+2020,01/04,Pat Flanagan Open,157,W,TF5,20 - 5 5:17,Brad Holmes,60633,Loras,Carter Schmidt,62606,Iowa State
+2020,01/04,Pat Flanagan Open,157,W,TF5,22 - 6 7:00,Nathan Pitts,60657,Loras,Carter Schmidt,62606,Iowa State
+2020,01/04,Pat Flanagan Open,157,W,TF5,20 - 5 7:00,Brad Holmes,60633,Loras,Carter Schmidt,62606,Iowa State
+2020,01/04,Pat Flanagan Open,157,L,DEC,3 - 2,Tanner Sparks,51949,Maryville University,Carter Schmidt,62606,Iowa State
+2020,12/14,UNI Open,157,L,TB-1,7 - 5,Dalton Lakmann,57177,South Dakota State,Carter Schmidt,62606,Iowa State
+2020,12/14,UNI Open,157,L,MD,13 - 4,Derek Holschlag,49238,Northern Iowa,Carter Schmidt,62606,Iowa State
+2020,11/23,Lindenwood Open,157,W,MD,12 - 3,Vernell Hawkins,63921,Labette Community College,Carter Schmidt,62606,Iowa State
+2020,11/23,Lindenwood Open,157,W,FALL,1:01,Derrick Nicks,63245,Davenport,Carter Schmidt,62606,Iowa State
+2020,11/23,Lindenwood Open,157,L,DEC,7 - 3,Anthony Des Vigne,57475,Central Oklahoma,Carter Schmidt,62606,Iowa State
+2020,11/23,Lindenwood Open,157,L,DEC,6 - 1,Chance McLane,57206,Oklahoma State,Carter Schmidt,62606,Iowa State
+2020,11/16,Grand View Open,157,W,MD,9 - 0,Caleb Shields,64754,Doane College,Carter Schmidt,62606,Iowa State
+2020,11/16,Grand View Open,157,W,MFOR,0 - 0,Liam Corbett,64736,Cowley College,Carter Schmidt,62606,Iowa State
+2020,11/16,Grand View Open,157,W,DEC,3 - 2,Mitchel Mangold,64038,Grand View,Carter Schmidt,62606,Iowa State
+2020,11/16,Grand View Open,157,L,DEC,3 - 2,Andrew Gamble,64034,Iowa Central Community College,Carter Schmidt,62606,Iowa State
+2020,11/16,Grand View Open,157,W,FALL,2:56,Dylan Ames,62269,Iowa Lakes Community College,Carter Schmidt,62606,Iowa State
+2020,11/16,Grand View Open,157,W,DEC,5 - 3,Ben Peters,49424,Briar Cliff,Carter Schmidt,62606,Iowa State
+2020,11/10,Cyclone Open,157,W,DEC,9 - 2,Quincy Saddler,64043,Pratt Community College,Carter Schmidt,62606,Iowa State
+2020,11/10,Cyclone Open,157,W,DEC,9 - 2,Nolan Miller-Johnston,64040,Iowa Central Community College,Carter Schmidt,62606,Iowa State
+2020,11/10,Cyclone Open,157,W,DEC,3 - 2,Mitchel Mangold,64038,Grand View,Carter Schmidt,62606,Iowa State
+2020,11/10,Cyclone Open,157,W,FALL,0:49,Spencer Griffin,64035,Grand View,Carter Schmidt,62606,Iowa State
+2020,11/10,Cyclone Open,157,W,DEC,9 - 4,James Foy,64032,Northwest Kansas Technical College,Carter Schmidt,62606,Iowa State
+2020,11/10,Cyclone Open,157,L,SV-1,8 - 7,Jayden Terronez,61514,Grand View,Carter Schmidt,62606,Iowa State
+2020,03/07,Big 12 Championships,165,W,DEC,9 - 5,Cole Moody,57067,Wyoming,Chase Straw,39610,Iowa State
+2020,03/07,Big 12 Championships,165,L,FALL,4:58,Tanner Cook,51408,South Dakota State,Chase Straw,39610,Iowa State
+2020,03/07,Big 12 Championships,165,W,SV-1,10 - 8,Adam Kemp,57045,Fresno State,Chase Straw,39610,Iowa State
+2020,03/07,Big 12 Championships,165,W,DEC,7 - 4,Jordan Robison,49232,Northern Colorado,Chase Straw,39610,Iowa State
+2020,03/07,Big 12 Championships,165,L,MD,15 - 2,Andrew Fogarty,39706,North Dakota State,Chase Straw,39610,Iowa State
+2020,02/23,North Dakota State - Iowa State Dual,165,L,DEC,8 - 1,Andrew Fogarty,39706,North Dakota State,Chase Straw,39610,Iowa State
+2020,02/22,Iowa State - Missouri Dual,165,L,DEC,5 - 3,Peyton Mocco,50635,Missouri,Chase Straw,39610,Iowa State
+2020,02/16,Northern Iowa - Iowa State Dual,165,W,SV-1,3 - 1,Austin Yant,50261,Northern Iowa,Chase Straw,39610,Iowa State
+2020,02/15,West Virginia - Iowa State Dual,165,W,DEC,4 - 1,Nick Kiussis,49345,West Virginia,Chase Straw,39610,Iowa State
+2020,02/09,Iowa State - Oklahoma Dual,165,W,MD,11 - 1,Elijah Joseph,57146,Oklahoma,Chase Straw,39610,Iowa State
+2020,01/31,Iowa State - Fresno State Dual,165,L,DEC,8 - 6,Adam Kemp,57045,Fresno State,Chase Straw,39610,Iowa State
+2020,01/26,Oklahoma State - Iowa State Dual,165,L,DEC,9 - 4,Travis Wittlake,50615,Oklahoma State,Chase Straw,39610,Iowa State
+2020,01/17,Iowa State - South Dakota State Dual,165,L,FALL,3:47,Tanner Cook,51408,South Dakota State,Chase Straw,39610,Iowa State
+2020,01/11,Iowa State - Arizona State Dual,165,L,DEC,7 - 3,Josh Shields,39511,Arizona State,Chase Straw,39610,Iowa State
+2020,01/11,Campbell - Iowa State Dual,165,L,MD,17 - 3,Quentin Perez,40421,Campbell,Chase Straw,39610,Iowa State
+2020,01/09,Iowa State - Utah Valley Dual,165,W,DEC,11 - 5,Koy Wilkinson,45053,Utah Valley,Chase Straw,39610,Iowa State
+2020,01/01,Southern Scuffle,165,W,DEC,6 - 1,Julian Ramirez,56706,Spartan Combat RTC,Chase Straw,39610,Iowa State
+2020,01/01,Southern Scuffle,165,L,MD,11 - 2,Shane Griffith,49991,Stanford,Chase Straw,39610,Iowa State
+2020,01/01,Southern Scuffle,165,L,DEC,3 - 2,Brett Donner,44581,Rutgers,Chase Straw,39610,Iowa State
+2020,01/01,Southern Scuffle,165,W,DEC,6 - 3,William Formato,57034,Appalachian State,Chase Straw,39610,Iowa State
+2020,12/14,Chattanooga - Iowa State Dual,165,W,DEC,5 - 3,Drew Nicholson,49091,Chattanooga,Chase Straw,39610,Iowa State
+2020,12/06,Cliff Keen Invitational,165,W,DEC,4 - 1,Krystian Kinsey,57061,Virginia,Chase Straw,39610,Iowa State
+2020,12/06,Cliff Keen Invitational,165,L,DEC,4 - 0,Andrew Fogarty,39706,North Dakota State,Chase Straw,39610,Iowa State
+2020,12/06,Cliff Keen Invitational,165,L,MD,17 - 5,Bernie Truax,51133,Cal Poly,Chase Straw,39610,Iowa State
+2020,11/24,Iowa - Iowa State Dual,165,L,DEC,13 - 7,Alex Marinelli,44574,Iowa,Chase Straw,39610,Iowa State
+2020,11/17,Bucknell - Iowa State Dual,165,L,DEC,4 - 3,Zach Hartman,50586,Bucknell,Chase Straw,39610,Iowa State
+2020,11/10,Cyclone Open,165,W,DEC,8 - 4,Zane Mulder,51192,Iowa State,Chase Straw,39610,Iowa State
+2020,11/10,Cyclone Open,165,W,DEC,4 - 2,Isaac Judge,51071,Iowa State,Chase Straw,39610,Iowa State
+2020,11/10,Cyclone Open,165,W,MD,10 - 2,Xavier Miller,50499,Grand View,Chase Straw,39610,Iowa State
+2020,02/23,North Dakota State - Iowa State Dual,157,L,MD,11 - 2,Jared Franek,50639,North Dakota State,Isaac Judge,51071,Iowa State
+2020,02/22,Iowa State - Missouri Dual,157,L,DEC,7 - 3,Jarrett Jacques,50597,Missouri,Isaac Judge,51071,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,165,W,TF5,16 - 0 7:00,Brody Kacmarynski,60112,Morningside,Isaac Judge,51071,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,165,W,FALL,4:11,Drake Engelking,56755,Northern Colorado,Isaac Judge,51071,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,165,W,DEC,3 - 1,Kenny O'Neil,51243,South Dakota State,Isaac Judge,51071,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,165,W,MFOR,0 - 0,Drew Sams,50090,Graceland University,Isaac Judge,51071,Iowa State
+2020,01/11,Iowa State - Harvard Dual,165,L,DEC,4 - 2,Phillip Conigliaro,51201,Harvard,Isaac Judge,51071,Iowa State
+2020,01/01,Southern Scuffle,165,L,DEC,6 - 0,Jake Wentzel,45151,Pittsburgh,Isaac Judge,51071,Iowa State
+2020,01/01,Southern Scuffle,165,W,FALL,4:52,Austin Bell,44596,Lock Haven,Isaac Judge,51071,Iowa State
+2020,01/01,Southern Scuffle,165,W,DEC,5 - 3,Austin Matthews,22442,Northern Colorado,Isaac Judge,51071,Iowa State
+2020,01/01,Southern Scuffle,165,L,FALL,2:10,Randy Meneweather II,44843,Air Force,Isaac Judge,51071,Iowa State
+2020,12/14,UNI Open,165,W,DEC,7 - 1,Dillon Hoey,50239,Indiana,Isaac Judge,51071,Iowa State
+2020,12/14,UNI Open,165,W,FALL,2:29,Martell Boone,58031,Missouri,Isaac Judge,51071,Iowa State
+2020,12/14,UNI Open,165,L,TF5,16 - 1 7:00,Peyton Mocco,50635,Missouri,Isaac Judge,51071,Iowa State
+2020,12/14,UNI Open,165,L,MD,17 - 6,Peyton Mocco,50635,Missouri,Isaac Judge,51071,Iowa State
+2020,11/23,Lindenwood Open,165,W,DEC,6 - 0,Bryce Hoffman,41955,Lindsey Wilson,Isaac Judge,51071,Iowa State
+2020,11/23,Lindenwood Open,165,W,DEC,4 - 2,Logan Schumacher,56307,Iowa State,Isaac Judge,51071,Iowa State
+2020,11/23,Lindenwood Open,165,L,DEC,11 - 7,Austin Stofer,50038,Lindenwood,Isaac Judge,51071,Iowa State
+2020,11/23,Lindenwood Open,165,W,FALL,2:54,Connor Villarmia,47322,Maryville University,Isaac Judge,51071,Iowa State
+2020,11/23,Lindenwood Open,165,L,DEC,3 - 1,Nicholas South,56709,Indiana,Isaac Judge,51071,Iowa State
+2020,11/16,Grand View Open,165,L,DEC,9 - 4,Logan Schumacher,56307,Iowa State,Isaac Judge,51071,Iowa State
+2020,11/16,Grand View Open,165,L,DEC,3 - 2,Travis Willers,64758,Loras,Isaac Judge,51071,Iowa State
+2020,11/16,Grand View Open,165,W,DEC,4 - 1,Giovanni Bonilla,64733,Grand View,Isaac Judge,51071,Iowa State
+2020,11/16,Grand View Open,165,W,FALL,6:55,Sid Ohl,63327,Life University,Isaac Judge,51071,Iowa State
+2020,11/16,Grand View Open,165,W,DEC,9 - 7,Jacob Shoop,55226,Grand View,Isaac Judge,51071,Iowa State
+2020,11/10,Cyclone Open,165,L,DEC,4 - 2,Chase Straw,39610,Iowa State,Isaac Judge,51071,Iowa State
+2020,11/10,Cyclone Open,165,W,DEC,11 - 8,Logan Schumacher,56307,Iowa State,Isaac Judge,51071,Iowa State
+2020,11/10,Cyclone Open,165,W,DEC,7 - 0,Zackary Velasquez,40394,Northern Illinois,Isaac Judge,51071,Iowa State
+2020,02/22,Last Chance Open,165,W,FALL,1:45,Andrew Suacedo,67805,Dubuque,Zane Mulder,51192,Iowa State
+2020,02/22,Last Chance Open,165,W,FALL,2:02,Jakari Harris,66915,Dubuque,Zane Mulder,51192,Iowa State
+2020,02/22,Last Chance Open,165,W,FALL,1:45,Andrew Saucedo,61672,Dubuque,Zane Mulder,51192,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,165,L,MFOR,0 - 0,John Blankenship,45857,Nebraska,Zane Mulder,51192,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,165,W,TF5,15 - 0 7:00,Tate Nordby,66205,Dickinson State,Zane Mulder,51192,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,165,W,DEC,4 - 1,Michael Scarponi,64753,Doane College,Zane Mulder,51192,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,165,W,TF5,17 - 1 7:00,Braydon Johnson,58469,Minnesota West Comm & Tech,Zane Mulder,51192,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,165,W,DEC,7 - 1,Kenny O'Neil,51243,South Dakota State,Zane Mulder,51192,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,165,L,DEC,7 - 3,John Blankenship,45857,Nebraska,Zane Mulder,51192,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,165,W,MD,15 - 2,James Buckhanan,44382,Briar Cliff,Zane Mulder,51192,Iowa State
+2020,01/01,Southern Scuffle,165,W,DEC,6 - 4,Hunter Kernan,57929,Pittsburgh,Zane Mulder,51192,Iowa State
+2020,01/01,Southern Scuffle,165,L,DEC,6 - 0,Tanner Skidgel,49200,Navy,Zane Mulder,51192,Iowa State
+2020,01/01,Southern Scuffle,165,L,DEC,7 - 3,Brett Donner,44581,Rutgers,Zane Mulder,51192,Iowa State
+2020,01/01,Southern Scuffle,165,W,DEC,7 - 3,Georgio Poullas,49101,Rider,Zane Mulder,51192,Iowa State
+2020,12/14,UNI Open,165,L,SV-1,4 - 2,Logan Schumacher,56307,Iowa State,Zane Mulder,51192,Iowa State
+2020,12/14,UNI Open,165,W,FALL,4:11,Dillon Hoey,50239,Indiana,Zane Mulder,51192,Iowa State
+2020,12/14,UNI Open,165,W,DEC,3 - 2,Austin Yant,50261,Northern Iowa,Zane Mulder,51192,Iowa State
+2020,12/14,UNI Open,165,L,SV-1,10 - 8,Austin Yant,50261,Northern Iowa,Zane Mulder,51192,Iowa State
+2020,11/23,Lindenwood Open,165,L,DEC,7 - 4,Elias Vaoifi,58778,Missouri Valley,Zane Mulder,51192,Iowa State
+2020,11/23,Lindenwood Open,165,W,FALL,2:35,Jose Lao Cooper,57145,Oklahoma,Zane Mulder,51192,Iowa State
+2020,11/23,Lindenwood Open,165,W,MFOR,0 - 0,Austin Stofer,50038,Lindenwood,Zane Mulder,51192,Iowa State
+2020,11/23,Lindenwood Open,165,W,DEC,12 - 6,Dayton Garrett,45170,Central Oklahoma,Zane Mulder,51192,Iowa State
+2020,11/23,Lindenwood Open,165,W,MD,15 - 2,Tyler Harrington,44384,Maryville University,Zane Mulder,51192,Iowa State
+2020,11/23,Lindenwood Open,165,W,DEC,9 - 8,Qiante Wagner,42402,McKendree University,Zane Mulder,51192,Iowa State
+2020,11/16,Grand View Open,165,L,DEC,9 - 8,Travis Willers,64758,Loras,Zane Mulder,51192,Iowa State
+2020,11/16,Grand View Open,165,W,DEC,7 - 3,Mason McDaniel,45292,Life University,Zane Mulder,51192,Iowa State
+2020,11/16,Grand View Open,165,W,DEC,8 - 6,Logan Schumacher,56307,Iowa State,Zane Mulder,51192,Iowa State
+2020,11/16,Grand View Open,165,W,DEC,2 - 1,Eddie Smith,54585,Loras,Zane Mulder,51192,Iowa State
+2020,11/10,Cyclone Open,165,L,DEC,6 - 4,Logan Schumacher,56307,Iowa State,Zane Mulder,51192,Iowa State
+2020,11/10,Cyclone Open,165,L,DEC,8 - 4,Chase Straw,39610,Iowa State,Zane Mulder,51192,Iowa State
+2020,11/10,Cyclone Open,165,W,DEC,5 - 2,Taylan Entriken,50983,Iowa State,Zane Mulder,51192,Iowa State
+2020,11/10,Cyclone Open,165,W,FALL,4:47,Pat Schoenfelder,50280,Northern Iowa,Zane Mulder,51192,Iowa State
+2020,02/22,Last Chance Open,174,W,FALL,3:21,Stone Durham,61243,Dubuque,Logan Schumacher,56307,Iowa State
+2020,02/22,Last Chance Open,174,W,DEC,9 - 5,Gavin Stika,56258,Oklahoma State,Logan Schumacher,56307,Iowa State
+2020,02/22,Last Chance Open,174,W,MFOR,0 - 0,Jeremiah Kent,50824,Missouri,Logan Schumacher,56307,Iowa State
+2020,02/22,Last Chance Open,174,W,MFOR,0 - 0,Samuel Colbray,44873,Iowa State,Logan Schumacher,56307,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,TF5,19 - 3 7:00,Caleb Long,59679,Iowa State,Logan Schumacher,56307,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,DEC,8 - 3,Taylan Entriken,50983,Iowa State,Logan Schumacher,56307,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,FALL,1:02,Deandre Chery,46624,Concordia,Logan Schumacher,56307,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,DEC,9 - 3,Blake Castillo,46623,Concordia,Logan Schumacher,56307,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,FALL,1:30,Jonah Egli,46001,Morningside,Logan Schumacher,56307,Iowa State
+2020,01/01,Southern Scuffle,165,L,DEC,8 - 7,Austin Matthews,22442,Northern Colorado,Logan Schumacher,56307,Iowa State
+2020,01/01,Southern Scuffle,165,L,DEC,4 - 2,Drew Nicholson,49091,Chattanooga,Logan Schumacher,56307,Iowa State
+2020,12/14,UNI Open,165,W,SV-1,4 - 2,Zane Mulder,51192,Iowa State,Logan Schumacher,56307,Iowa State
+2020,12/14,UNI Open,165,W,DEC,8 - 1,Martell Boone,58031,Missouri,Logan Schumacher,56307,Iowa State
+2020,12/14,UNI Open,165,W,MD,11 - 0,Pat Schoenfelder,50280,Northern Iowa,Logan Schumacher,56307,Iowa State
+2020,11/23,Lindenwood Open,165,L,DEC,4 - 2,Isaac Judge,51071,Iowa State,Logan Schumacher,56307,Iowa State
+2020,11/23,Lindenwood Open,165,W,MD,14 - 2,Jose Lao Cooper,57145,Oklahoma,Logan Schumacher,56307,Iowa State
+2020,11/23,Lindenwood Open,165,W,DEC,9 - 3,Noah Perkins,52425,Newman,Logan Schumacher,56307,Iowa State
+2020,11/23,Lindenwood Open,165,L,DEC,5 - 3,Nicholas South,56709,Indiana,Logan Schumacher,56307,Iowa State
+2020,11/16,Grand View Open,165,L,DEC,8 - 6,Zane Mulder,51192,Iowa State,Logan Schumacher,56307,Iowa State
+2020,11/16,Grand View Open,165,W,TF5,18 - 2 7:00,Zion Vasquez,64756,Central Missouri,Logan Schumacher,56307,Iowa State
+2020,11/16,Grand View Open,165,W,DEC,10 - 4,Jordan Komac,58266,Providence,Logan Schumacher,56307,Iowa State
+2020,11/16,Grand View Open,165,W,DEC,7 - 3,Joshua Otto,56743,Wisconsin,Logan Schumacher,56307,Iowa State
+2020,11/16,Grand View Open,165,W,DEC,9 - 4,Isaac Judge,51071,Iowa State,Logan Schumacher,56307,Iowa State
+2020,11/10,Cyclone Open,165,L,DEC,11 - 8,Isaac Judge,51071,Iowa State,Logan Schumacher,56307,Iowa State
+2020,11/10,Cyclone Open,165,W,DEC,6 - 4,Zane Mulder,51192,Iowa State,Logan Schumacher,56307,Iowa State
+2020,11/10,Cyclone Open,165,W,TF5,19 - 1 5:57,Jacob Shoop,55226,Grand View,Logan Schumacher,56307,Iowa State
+2020,11/10,Cyclone Open,165,W,DEC,11 - 6,Taylan Entriken,50983,Iowa State,Logan Schumacher,56307,Iowa State
+2020,02/22,Last Chance Open,174,L,MFOR,0 - 0,DeMichael Franklin,50984,Iowa State,Taylan Entriken,50983,Iowa State
+2020,02/22,Last Chance Open,174,W,FALL,5:43,Tevin Bailey,66914,Dubuque,Taylan Entriken,50983,Iowa State
+2020,02/22,Last Chance Open,174,W,SV-1,8 - 6,Skyler Noftsger,56909,South Dakota State,Taylan Entriken,50983,Iowa State
+2020,02/22,Last Chance Open,174,W,FALL,0:54,Stone Durham,61243,Dubuque,Taylan Entriken,50983,Iowa State
+2020,02/22,Last Chance Open,174,L,FALL,1:49,Jeremiah Kent,50824,Missouri,Taylan Entriken,50983,Iowa State
+2020,02/22,Last Chance Open,174,W,MFOR,0 - 0,Samuel Colbray,44873,Iowa State,Taylan Entriken,50983,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,L,MFOR,0 - 0,Cade Mueller,59675,Augustana,Taylan Entriken,50983,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,L,DEC,8 - 3,Logan Schumacher,56307,Iowa State,Taylan Entriken,50983,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,FALL,1:15,Austin Garcia,65977,Doane College,Taylan Entriken,50983,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,DEC,7 - 3,Caleb Coleman,64054,Grand View,Taylan Entriken,50983,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,TF5,17 - 0 7:00,Tyler Zeimen,61444,Northwestern,Taylan Entriken,50983,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,FALL,1:10,Tucker Allison,58347,Chadron State,Taylan Entriken,50983,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,TF5,20 - 3 7:00,Caden Haugen,55703,Unattached,Taylan Entriken,50983,Iowa State
+2020,01/04,Pat Flanagan Open,174,L,DEC,8 - 4,Kirk Mommsen,60662,Loras,Taylan Entriken,50983,Iowa State
+2020,01/04,Pat Flanagan Open,174,W,SV-1,6 - 4,Bret Heil,56271,Maryville University,Taylan Entriken,50983,Iowa State
+2020,01/04,Pat Flanagan Open,174,W,FALL,5:59,Brock Timmons,54588,Loras,Taylan Entriken,50983,Iowa State
+2020,01/04,Pat Flanagan Open,174,W,FALL,4:52,Myron Crawford,51872,Upper Iowa,Taylan Entriken,50983,Iowa State
+2020,01/04,Pat Flanagan Open,174,L,DEC,5 - 4,Matt Pratt,42252,Maryville University,Taylan Entriken,50983,Iowa State
+2020,12/14,UNI Open,174,L,SV-1,4 - 2,Mac Southard,50986,Iowa State,Taylan Entriken,50983,Iowa State
+2020,12/14,UNI Open,174,L,DEC,8 - 4,Donnell Washington,57738,Indiana,Taylan Entriken,50983,Iowa State
+2020,12/14,UNI Open,174,W,DEC,4 - 1,Brandon Tessau,56317,Iowa State,Taylan Entriken,50983,Iowa State
+2020,12/14,UNI Open,174,W,DEC,4 - 2,Robert Weber,62665,Missouri,Taylan Entriken,50983,Iowa State
+2020,12/14,UNI Open,174,W,DEC,3 - 2,Kelby Hawkins,49318,South Dakota State,Taylan Entriken,50983,Iowa State
+2020,11/23,Lindenwood Open,165,W,DEC,4 - 1,Bryce Hoffman,41955,Lindsey Wilson,Taylan Entriken,50983,Iowa State
+2020,11/23,Lindenwood Open,165,W,MD,17 - 4,Brett Johnson,47316,Marian University,Taylan Entriken,50983,Iowa State
+2020,11/23,Lindenwood Open,165,L,DEC,14 - 7,Dayton Garrett,45170,Central Oklahoma,Taylan Entriken,50983,Iowa State
+2020,11/23,Lindenwood Open,165,L,FALL,1:34,Qiante Wagner,42402,McKendree University,Taylan Entriken,50983,Iowa State
+2020,11/10,Cyclone Open,165,L,DEC,5 - 2,Zane Mulder,51192,Iowa State,Taylan Entriken,50983,Iowa State
+2020,11/10,Cyclone Open,165,L,DEC,11 - 6,Logan Schumacher,56307,Iowa State,Taylan Entriken,50983,Iowa State
+2020,11/10,Cyclone Open,165,W,MD,14 - 2,Xavier Miller,50499,Grand View,Taylan Entriken,50983,Iowa State
+2020,11/10,Cyclone Open,165,W,DEC,8 - 5,Pat Schoenfelder,50280,Northern Iowa,Taylan Entriken,50983,Iowa State
+2020,11/10,Cyclone Open,165,L,MD,9 - 1,Pat Schoenfelder,50280,Northern Iowa,Taylan Entriken,50983,Iowa State
+2020,03/07,Big 12 Championships,174,W,SV-2,4 - 2,Kimball Bastian,40322,Utah Valley,Samuel Colbray,44873,Iowa State
+2020,03/07,Big 12 Championships,174,L,INJ,7:00,Joe Smith,39786,Oklahoma State,Samuel Colbray,44873,Iowa State
+2020,03/07,Big 12 Championships,174,L,DEC,6 - 5,Anthony Mantanona,49258,Oklahoma,Samuel Colbray,44873,Iowa State
+2020,03/07,Big 12 Championships,174,W,DEC,3 - 2,Hayden Hastings,49354,Wyoming,Samuel Colbray,44873,Iowa State
+2020,02/23,North Dakota State - Iowa State Dual,174,W,DEC,7 - 3,Luke Weber,45050,North Dakota State,Samuel Colbray,44873,Iowa State
+2020,02/22,Last Chance Open,174,L,MFOR,0 - 0,Logan Schumacher,56307,Iowa State,Samuel Colbray,44873,Iowa State
+2020,02/22,Last Chance Open,174,L,MFOR,0 - 0,Taylan Entriken,50983,Iowa State,Samuel Colbray,44873,Iowa State
+2020,02/22,Last Chance Open,174,W,MD,12 - 2,Skyler Noftsger,56909,South Dakota State,Samuel Colbray,44873,Iowa State
+2020,02/22,Last Chance Open,174,W,TF5,16 - 1 7:00,Nolan Harsh,61910,Iowa State,Samuel Colbray,44873,Iowa State
+2020,02/22,Last Chance Open,174,L,MFOR,0 - 0,Gavin Stika,56258,Oklahoma State,Samuel Colbray,44873,Iowa State
+2020,02/16,Northern Iowa - Iowa State Dual,174,W,DEC,7 - 6,Bryce Steiert,39504,Northern Iowa,Samuel Colbray,44873,Iowa State
+2020,02/15,West Virginia - Iowa State Dual,174,W,MD,18 - 7,Scott Joll,62424,West Virginia,Samuel Colbray,44873,Iowa State
+2020,02/09,Iowa State - Oklahoma Dual,174,W,SV-1,7 - 5,Anthony Mantanona,49258,Oklahoma,Samuel Colbray,44873,Iowa State
+2020,01/31,Iowa State - Fresno State Dual,174,L,DEC,6 - 5,Brandon Martino,50244,Fresno State,Samuel Colbray,44873,Iowa State
+2020,01/26,Oklahoma State - Iowa State Dual,174,L,DEC,5 - 2,Joe Smith,39786,Oklahoma State,Samuel Colbray,44873,Iowa State
+2020,01/17,Iowa State - South Dakota State Dual,174,W,DEC,6 - 1,Cade King,62671,South Dakota State,Samuel Colbray,44873,Iowa State
+2020,01/11,Iowa State - Arizona State Dual,174,L,DEC,6 - 5,Anthony Valencia,39500,Arizona State,Samuel Colbray,44873,Iowa State
+2020,01/11,Iowa State - Harvard Dual,174,W,FALL,3:21,Pierce Bausano,56814,Harvard,Samuel Colbray,44873,Iowa State
+2020,01/11,Campbell - Iowa State Dual,174,W,MD,15 - 4,Austin Murphy,51608,Campbell,Samuel Colbray,44873,Iowa State
+2020,01/09,Iowa State - Utah Valley Dual,174,W,DEC,4 - 1,Grant LaMont,40320,Utah Valley,Samuel Colbray,44873,Iowa State
+2020,12/14,Chattanooga - Iowa State Dual,184,W,SV-1,3 - 1,Matthew Waddell,49259,Chattanooga,Samuel Colbray,44873,Iowa State
+2020,12/06,Cliff Keen Invitational,184,W,DEC,8 - 3,TJ Pottinger,57098,North Dakota State,Samuel Colbray,44873,Iowa State
+2020,12/06,Cliff Keen Invitational,184,W,TB-2,3 - 2,Jelani Embree,49179,Michigan,Samuel Colbray,44873,Iowa State
+2020,12/06,Cliff Keen Invitational,184,L,DEC,12 - 6,Ben Darmstadt,45876,Cornell,Samuel Colbray,44873,Iowa State
+2020,12/06,Cliff Keen Invitational,184,L,TF5,26 - 8 6:14,Zahid Valencia,39501,Arizona State,Samuel Colbray,44873,Iowa State
+2020,11/24,Iowa - Iowa State Dual,184,L,TB-1,4 - 3,Nelson Brands,49994,Iowa,Samuel Colbray,44873,Iowa State
+2020,11/17,Bucknell - Iowa State Dual,184,W,DEC,7 - 3,Brandon Stokes,44634,Bucknell,Samuel Colbray,44873,Iowa State
+2020,11/10,Cyclone Open,184,W,FALL,2:54,Colton Wolfe,50184,Nebraska,Samuel Colbray,44873,Iowa State
+2020,11/10,Cyclone Open,184,W,FALL,2:49,Zac Stork,49357,Grand View,Samuel Colbray,44873,Iowa State
+2020,11/10,Cyclone Open,184,L,DEC,7 - 5,Taylor Lujan,39506,Northern Iowa,Samuel Colbray,44873,Iowa State
+2020,02/22,Last Chance Open,174,W,DEC,4 - 3,Gavin Stika,56258,Oklahoma State,DeMichael Franklin,50984,Iowa State
+2020,02/22,Last Chance Open,174,W,MFOR,0 - 0,Taylan Entriken,50983,Iowa State,DeMichael Franklin,50984,Iowa State
+2020,02/22,Last Chance Open,174,L,MD,11 - 0,Jeremiah Kent,50824,Missouri,DeMichael Franklin,50984,Iowa State
+2020,02/22,Last Chance Open,174,W,DEC,6 - 3,Joe Smith,39786,Oklahoma State,DeMichael Franklin,50984,Iowa State
+2020,01/01,Southern Scuffle,174,L,DEC,8 - 4,Gavin Stika,56258,Oklahoma State,DeMichael Franklin,50984,Iowa State
+2020,01/01,Southern Scuffle,174,L,MD,16 - 5,Neal Richards,39991,VMI,DeMichael Franklin,50984,Iowa State
+2020,01/01,Southern Scuffle,174,W,DEC,9 - 2,Scott Joll,62424,West Virginia,DeMichael Franklin,50984,Iowa State
+2020,11/23,Lindenwood Open,174,W,FALL,4:32,Nolan Puletasi,64149,Missouri Valley,DeMichael Franklin,50984,Iowa State
+2020,11/23,Lindenwood Open,174,W,MD,10 - 0,JaQuan Jackson,58594,Oklahoma State,DeMichael Franklin,50984,Iowa State
+2020,11/23,Lindenwood Open,174,L,TF5,18 - 1 7:00,Connor Flynn,39676,Missouri,DeMichael Franklin,50984,Iowa State
+2020,11/23,Lindenwood Open,174,W,DEC,7 - 6,Trey Sizemore,62241,Illinois,DeMichael Franklin,50984,Iowa State
+2020,11/23,Lindenwood Open,174,L,DEC,14 - 7,Jake DiBenedetto,50125,Illinois,DeMichael Franklin,50984,Iowa State
+2020,11/16,Grand View Open,174,W,DEC,3 - 0,Dustin Carstens,64735,Doane College,DeMichael Franklin,50984,Iowa State
+2020,11/16,Grand View Open,174,W,MFOR,0 - 0,Caleb Coleman,64054,Grand View,DeMichael Franklin,50984,Iowa State
+2020,11/16,Grand View Open,174,L,DEC,5 - 1,Caleb Coleman,64054,Grand View,DeMichael Franklin,50984,Iowa State
+2020,11/16,Grand View Open,174,W,MD,10 - 1,Chris Guest,60641,Grand View,DeMichael Franklin,50984,Iowa State
+2020,11/16,Grand View Open,174,W,MFOR,0 - 0,Logan Bowen,60200,St Mary,DeMichael Franklin,50984,Iowa State
+2020,11/16,Grand View Open,174,W,MFOR,0 - 0,Ashton Eyler,58037,Iowa Central Community College,DeMichael Franklin,50984,Iowa State
+2020,11/16,Grand View Open,174,W,DEC,7 - 2,Will Seibert,49755,Missouri Valley,DeMichael Franklin,50984,Iowa State
+2020,11/10,Cyclone Open,174,L,DEC,10 - 3,Mac Southard,50986,Iowa State,DeMichael Franklin,50984,Iowa State
+2020,11/10,Cyclone Open,174,W,DEC,9 - 2,Michial Foy,53189,Harper College,DeMichael Franklin,50984,Iowa State
+2020,11/10,Cyclone Open,174,L,FALL,0:51,Ashton Eyler,58037,Iowa Central Community College,DeMichael Franklin,50984,Iowa State
+2020,11/10,Cyclone Open,174,L,DEC,6 - 3,Ashton Eyler,58037,Iowa Central Community College,DeMichael Franklin,50984,Iowa State
+2020,11/10,Cyclone Open,174,W,MD,12 - 2,Seth Vosters,52654,Wisconsin,DeMichael Franklin,50984,Iowa State
+2020,11/10,Cyclone Open,174,W,DEC,5 - 2,Anders Lantz,51005,Wisconsin,DeMichael Franklin,50984,Iowa State
+2020,02/22,Iowa State - Missouri Dual,174,L,DEC,3 - 0,Connor Flynn,39676,Missouri,Mac Southard,50986,Iowa State
+2020,01/01,Southern Scuffle,174,W,DEC,5 - 3,Anthony Lombardo,19656,George Mason,Mac Southard,50986,Iowa State
+2020,01/01,Southern Scuffle,174,L,DEC,8 - 1,Dean Sherry,40019,Rider,Mac Southard,50986,Iowa State
+2020,01/01,Southern Scuffle,174,L,DEC,10 - 3,Jake Logan,57185,Lehigh,Mac Southard,50986,Iowa State
+2020,01/01,Southern Scuffle,174,W,MD,14 - 5,Kyle Homet,57168,Gardner-Webb,Mac Southard,50986,Iowa State
+2020,12/14,UNI Open,174,W,MD,13 - 5,Nolan Harsh,61910,Iowa State,Mac Southard,50986,Iowa State
+2020,12/14,UNI Open,174,W,SV-1,4 - 2,Taylan Entriken,50983,Iowa State,Mac Southard,50986,Iowa State
+2020,12/14,UNI Open,174,W,DEC,3 - 0,Robert Weber,62665,Missouri,Mac Southard,50986,Iowa State
+2020,12/14,UNI Open,174,L,DEC,7 - 5,Sean Harman,59678,Missouri,Mac Southard,50986,Iowa State
+2020,12/14,UNI Open,174,W,DEC,3 - 1,Kelby Hawkins,49318,South Dakota State,Mac Southard,50986,Iowa State
+2020,12/14,UNI Open,174,W,DEC,7 - 3,Keegan Moore,44872,Northern Iowa,Mac Southard,50986,Iowa State
+2020,11/23,Lindenwood Open,174,W,DEC,6 - 3,Bret Heil,56271,Maryville University,Mac Southard,50986,Iowa State
+2020,11/23,Lindenwood Open,174,W,MD,15 - 6,Kevin Gschwendtner,54028,SIU Edwardsville,Mac Southard,50986,Iowa State
+2020,11/23,Lindenwood Open,174,L,MD,10 - 0,Jeremiah Kent,50824,Missouri,Mac Southard,50986,Iowa State
+2020,11/23,Lindenwood Open,174,W,MFOR,0 - 0,Christian Bahl,49262,Oklahoma State,Mac Southard,50986,Iowa State
+2020,11/23,Lindenwood Open,174,L,DEC,3 - 2,Donnell Washington,57738,Indiana,Mac Southard,50986,Iowa State
+2020,11/16,Grand View Open,174,W,DEC,8 - 2,Brian Stanford,64058,Grand View,Mac Southard,50986,Iowa State
+2020,11/16,Grand View Open,174,W,DEC,4 - 1,Jacob Krakow,61230,Loras,Mac Southard,50986,Iowa State
+2020,11/16,Grand View Open,174,W,MD,14 - 5,Ashton Eyler,58037,Iowa Central Community College,Mac Southard,50986,Iowa State
+2020,11/16,Grand View Open,174,W,MD,18 - 9,Seth Vosters,52654,Wisconsin,Mac Southard,50986,Iowa State
+2020,11/10,Cyclone Open,174,W,MD,14 - 3,Allen Swanson,57730,Northern Illinois,Mac Southard,50986,Iowa State
+2020,11/10,Cyclone Open,174,W,DEC,3 - 2,Troy Fisher,57601,Northwestern,Mac Southard,50986,Iowa State
+2020,11/10,Cyclone Open,174,W,DEC,10 - 3,DeMichael Franklin,50984,Iowa State,Mac Southard,50986,Iowa State
+2020,11/10,Cyclone Open,174,L,MD,9 - 0,Bryce Steiert,39504,Northern Iowa,Mac Southard,50986,Iowa State
+2020,02/22,Last Chance Open,174,L,DEC,6 - 3,Gavin Stika,56258,Oklahoma State,Anthony Sherry,50887,Iowa State
+2020,02/22,Last Chance Open,174,L,DEC,8 - 1,Joe Smith,39786,Oklahoma State,Anthony Sherry,50887,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,FALL,0:48,Dallas Horne,64220,Iowa Lakes Community College,Anthony Sherry,50887,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,L,MD,9 - 1,Caleb Coleman,64054,Grand View,Anthony Sherry,50887,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,FALL,4:53,Skyler Noftsger,56909,South Dakota State,Anthony Sherry,50887,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,L,DEC,4 - 2,Cade Mueller,59675,Augustana,Anthony Sherry,50887,Iowa State
+2020,11/10,Cyclone Open,174,L,DEC,6 - 0,Zach Lee,61367,Grand View,Anthony Sherry,50887,Iowa State
+2020,11/10,Cyclone Open,174,L,DEC,14 - 9,Zach Lee,61367,Grand View,Anthony Sherry,50887,Iowa State
+2020,11/10,Cyclone Open,174,W,DEC,7 - 4,Brandon Tessau,56317,Iowa State,Anthony Sherry,50887,Iowa State
+2020,11/10,Cyclone Open,174,W,MFOR,0 - 0,Nathan Haynes,52101,Grand View,Anthony Sherry,50887,Iowa State
+2020,02/22,Last Chance Open,184,L,MFOR,0 - 0,Julien Broderson,57644,Iowa State,Austin Stotts,50647,Iowa State
+2020,02/22,Last Chance Open,184,L,INJ,7:00,Marcus Coleman,49154,Iowa State,Austin Stotts,50647,Iowa State
+2020,01/04,Pat Flanagan Open,174,W,DEC,7 - 6,Brandon Turner,65958,Loras,Austin Stotts,50647,Iowa State
+2020,01/04,Pat Flanagan Open,174,L,DEC,6 - 0,Kirk Mommsen,60662,Loras,Austin Stotts,50647,Iowa State
+2020,01/04,Pat Flanagan Open,174,W,TB-1,2 - 1,Matt Pratt,42252,Maryville University,Austin Stotts,50647,Iowa State
+2020,12/14,UNI Open,174,L,SV-1,5 - 1,Brandon Tessau,56317,Iowa State,Austin Stotts,50647,Iowa State
+2020,12/14,UNI Open,174,L,SV-1,3 - 1,Zach Lee,61367,Grand View,Austin Stotts,50647,Iowa State
+2020,11/23,Lindenwood Open,174,L,DEC,3 - 1,Hunter Tessman,54659,Westminster,Austin Stotts,50647,Iowa State
+2020,11/23,Lindenwood Open,174,L,MD,12 - 2,Trey Sizemore,62241,Illinois,Austin Stotts,50647,Iowa State
+2020,11/16,Grand View Open,174,L,DEC,10 - 7,Dustin Carstens,64735,Doane College,Austin Stotts,50647,Iowa State
+2020,11/16,Grand View Open,174,L,DEC,7 - 2,Jacob Krakow,61230,Loras,Austin Stotts,50647,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,L,DEC,5 - 0,Zach Lee,61367,Grand View,Brandon Tessau,56317,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,DEC,7 - 6,Konrich Speelmon,60052,Dickinson State,Brandon Tessau,56317,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,L,DEC,6 - 3,Isaiah Alford,57092,Nebraska,Brandon Tessau,56317,Iowa State
+2020,12/14,UNI Open,174,L,DEC,4 - 1,Taylan Entriken,50983,Iowa State,Brandon Tessau,56317,Iowa State
+2020,12/14,UNI Open,174,W,SV-1,5 - 1,Austin Stotts,50647,Iowa State,Brandon Tessau,56317,Iowa State
+2020,12/14,UNI Open,174,W,DEC,5 - 2,Samuel Grove,49320,South Dakota State,Brandon Tessau,56317,Iowa State
+2020,12/14,UNI Open,174,L,TF5,18 - 0 7:00,Kelby Hawkins,49318,South Dakota State,Brandon Tessau,56317,Iowa State
+2020,11/16,Grand View Open,174,W,MD,17 - 3,Austin Manley,64374,Missouri Valley,Brandon Tessau,56317,Iowa State
+2020,11/16,Grand View Open,174,W,TF5,25 - 10 7:00,Kyle Guilliams,64036,Iowa Central Community College,Brandon Tessau,56317,Iowa State
+2020,11/16,Grand View Open,174,L,FALL,2:16,Jayden Smith,63898,Northeastern Oklahoma,Brandon Tessau,56317,Iowa State
+2020,11/16,Grand View Open,174,L,MFOR,0 - 0,Stetson Clary,49749,Missouri Valley,Brandon Tessau,56317,Iowa State
+2020,11/10,Cyclone Open,174,L,DEC,7 - 4,Anthony Sherry,50887,Iowa State,Brandon Tessau,56317,Iowa State
+2020,11/10,Cyclone Open,174,W,FALL,0:25,Kyle Guilliams,64036,Iowa Central Community College,Brandon Tessau,56317,Iowa State
+2020,11/10,Cyclone Open,174,L,DEC,13 - 12,Nathan Haynes,52101,Grand View,Brandon Tessau,56317,Iowa State
+2020,02/22,Last Chance Open,174,L,TF5,16 - 1 7:00,Samuel Colbray,44873,Iowa State,Nolan Harsh,61910,Iowa State
+2020,02/22,Last Chance Open,174,L,FALL,2:25,Tevin Bailey,66914,Dubuque,Nolan Harsh,61910,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,FALL,5:29,Caleb Coleman,64054,Grand View,Nolan Harsh,61910,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,L,DEC,10 - 7,Haggen Meyer,58422,Northwestern,Nolan Harsh,61910,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,L,DEC,7 - 2,Jonah Egli,46001,Morningside,Nolan Harsh,61910,Iowa State
+2020,01/04,Pat Flanagan Open,174,L,DEC,8 - 4,James Anding,62730,Maryville University,Nolan Harsh,61910,Iowa State
+2020,01/04,Pat Flanagan Open,174,L,DEC,6 - 3,Matt Pratt,42252,Maryville University,Nolan Harsh,61910,Iowa State
+2020,12/14,UNI Open,174,L,MD,13 - 5,Mac Southard,50986,Iowa State,Nolan Harsh,61910,Iowa State
+2020,12/14,UNI Open,174,L,DEC,10 - 4,Skyler Noftsger,56909,South Dakota State,Nolan Harsh,61910,Iowa State
+2020,11/23,Lindenwood Open,174,L,FALL,0:59,Jt Stambeck,63885,Central Oklahoma,Nolan Harsh,61910,Iowa State
+2020,11/23,Lindenwood Open,174,L,MFOR,0 - 0,Cody Everhart,59409,Maryville University,Nolan Harsh,61910,Iowa State
+2020,11/23,Lindenwood Open,174,W,DEC,13 - 6,Sean Grim,63021,Indiana,Nolan Harsh,61910,Iowa State
+2020,11/16,Grand View Open,174,W,MD,12 - 0,Michael Gibson,63310,Life University,Nolan Harsh,61910,Iowa State
+2020,11/16,Grand View Open,174,L,FALL,3:18,Jayden Smith,63898,Northeastern Oklahoma,Nolan Harsh,61910,Iowa State
+2020,11/16,Grand View Open,174,W,DEC,4 - 3,Jack Goin,62796,Central Missouri,Nolan Harsh,61910,Iowa State
+2020,11/16,Grand View Open,174,W,DEC,7 - 0,Stetson Clary,49749,Missouri Valley,Nolan Harsh,61910,Iowa State
+2020,11/10,Cyclone Open,174,L,MD,17 - 6,Tate Battani,57232,Iowa State,Nolan Harsh,61910,Iowa State
+2020,11/10,Cyclone Open,174,W,DEC,15 - 8,Chris Guest,60641,Grand View,Nolan Harsh,61910,Iowa State
+2020,11/10,Cyclone Open,174,W,MD,10 - 0,Nathan Haynes,52101,Grand View,Nolan Harsh,61910,Iowa State
+2020,02/22,Last Chance Open,184,L,INJ,7:00,Marcus Coleman,49154,Iowa State,Caleb Long,59679,Iowa State
+2020,02/22,Last Chance Open,184,W,DEC,4 - 3,Caleb Orris,62673,South Dakota State,Caleb Long,59679,Iowa State
+2020,02/22,Last Chance Open,184,L,MFOR,0 - 0,Caleb Orris,62673,South Dakota State,Caleb Long,59679,Iowa State
+2020,02/22,Last Chance Open,184,L,FALL,1:15,Caden Steffen,51689,Minnesota,Caleb Long,59679,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,L,TF5,19 - 3 7:00,Logan Schumacher,56307,Iowa State,Caleb Long,59679,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,L,DEC,9 - 7,Caleb Coleman,64054,Grand View,Caleb Long,59679,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,174,W,DEC,5 - 3,Isaiah Alford,57092,Nebraska,Caleb Long,59679,Iowa State
+2020,01/04,Pat Flanagan Open,174,L,TB-1,7 - 6,Brandon Turner,65958,Loras,Caleb Long,59679,Iowa State
+2020,01/04,Pat Flanagan Open,174,L,DEC,5 - 3,Kolton Bartow,60650,Loras,Caleb Long,59679,Iowa State
+2020,12/14,UNI Open,165,W,DEC,15 - 13,Tyler Harris,65269,Grand View,Caleb Long,59679,Iowa State
+2020,12/14,UNI Open,165,L,DEC,5 - 0,Matt Ortiz,56762,Indiana,Caleb Long,59679,Iowa State
+2020,12/14,UNI Open,165,L,MD,11 - 1,Pat Schoenfelder,50280,Northern Iowa,Caleb Long,59679,Iowa State
+2020,11/23,Lindenwood Open,165,L,DEC,5 - 3,Jon Trowbridge,63888,Northeastern Oklahoma,Caleb Long,59679,Iowa State
+2020,11/23,Lindenwood Open,165,W,FALL,5:24,Nolan Saale,63828,Northeastern Oklahoma,Caleb Long,59679,Iowa State
+2020,11/23,Lindenwood Open,165,L,DEC,11 - 5,Joseph Scott,52352,Liberty University,Caleb Long,59679,Iowa State
+2020,11/23,Lindenwood Open,165,W,MD,10 - 0,Gavin Wells,49456,Williams Baptist,Caleb Long,59679,Iowa State
+2020,11/16,Grand View Open,165,W,MD,9 - 1,Michael Scarponi,64753,Doane College,Caleb Long,59679,Iowa State
+2020,11/16,Grand View Open,165,W,FALL,2:15,Radley Reed,64751,William Penn,Caleb Long,59679,Iowa State
+2020,11/16,Grand View Open,165,W,DEC,4 - 0,Cameron Nesbitt,64748,Ellsworth CC,Caleb Long,59679,Iowa State
+2020,11/16,Grand View Open,165,W,DEC,6 - 2,Mikael Failor,64737,Ellsworth CC,Caleb Long,59679,Iowa State
+2020,11/16,Grand View Open,165,L,DEC,10 - 3,Meshai Coleman,64079,Life University,Caleb Long,59679,Iowa State
+2020,11/16,Grand View Open,165,W,DEC,4 - 3,Scott Betterton,64031,Grand View,Caleb Long,59679,Iowa State
+2020,11/10,Cyclone Open,165,W,DEC,8 - 1,Scott Betterton,64031,Grand View,Caleb Long,59679,Iowa State
+2020,11/10,Cyclone Open,165,W,TB-1,6 - 4,Chinges Tsermaa,61725,Northwest Kansas Technical College,Caleb Long,59679,Iowa State
+2020,11/10,Cyclone Open,165,W,FALL,2:19,Luke Culbertson,59639,Pratt Community College,Caleb Long,59679,Iowa State
+2020,11/10,Cyclone Open,165,L,DEC,7 - 3,Joshua Otto,56743,Wisconsin,Caleb Long,59679,Iowa State
+2020,03/07,Big 12 Championships,184,W,FALL,5:47,Tate Samuelson,57066,Wyoming,Marcus Coleman,49154,Iowa State
+2020,03/07,Big 12 Championships,184,L,DEC,10 - 4,Anthony Montalvo,51619,Oklahoma State,Marcus Coleman,49154,Iowa State
+2020,03/07,Big 12 Championships,184,W,DEC,4 - 3,Alan Clothier,45412,Northern Colorado,Marcus Coleman,49154,Iowa State
+2020,03/07,Big 12 Championships,184,L,DEC,4 - 0,Taylor Lujan,39506,Northern Iowa,Marcus Coleman,49154,Iowa State
+2020,02/23,North Dakota State - Iowa State Dual,184,W,MD,15 - 4,TJ Pottinger,57098,North Dakota State,Marcus Coleman,49154,Iowa State
+2020,02/22,Last Chance Open,184,W,INJ,7:00,Caleb Long,59679,Iowa State,Marcus Coleman,49154,Iowa State
+2020,02/22,Last Chance Open,184,W,INJ,7:00,Tate Battani,57232,Iowa State,Marcus Coleman,49154,Iowa State
+2020,02/22,Last Chance Open,184,W,INJ,7:00,Austin Stotts,50647,Iowa State,Marcus Coleman,49154,Iowa State
+2020,02/22,Last Chance Open,184,W,INJ,7:00,Johnny Sebastian,20224,Wisconsin,Marcus Coleman,49154,Iowa State
+2020,02/16,Northern Iowa - Iowa State Dual,184,L,MD,13 - 5,Taylor Lujan,39506,Northern Iowa,Marcus Coleman,49154,Iowa State
+2020,02/15,West Virginia - Iowa State Dual,184,W,FALL,0:24,Jackson Moomau,57161,West Virginia,Marcus Coleman,49154,Iowa State
+2020,02/09,Iowa State - Oklahoma Dual,184,W,MD,14 - 4,Darrien Roberts,60446,Oklahoma,Marcus Coleman,49154,Iowa State
+2020,01/31,Iowa State - Fresno State Dual,184,W,MD,13 - 2,Hunter Cruz,56318,Fresno State,Marcus Coleman,49154,Iowa State
+2020,01/26,Oklahoma State - Iowa State Dual,184,L,DEC,6 - 2,Anthony Montalvo,51619,Oklahoma State,Marcus Coleman,49154,Iowa State
+2020,01/17,Iowa State - South Dakota State Dual,184,L,MD,8 - 0,Zach Carlson,40280,South Dakota State,Marcus Coleman,49154,Iowa State
+2020,01/11,Iowa State - Arizona State Dual,184,L,MD,20 - 8,Zahid Valencia,39501,Arizona State,Marcus Coleman,49154,Iowa State
+2020,01/11,Iowa State - Harvard Dual,184,W,TF5,18 - 1 4:37,Michael Doggett,62194,Harvard,Marcus Coleman,49154,Iowa State
+2020,01/11,Campbell - Iowa State Dual,184,L,SV-2,8 - 6,Andrew Morgan,40250,Campbell,Marcus Coleman,49154,Iowa State
+2020,01/09,Iowa State - Utah Valley Dual,184,W,DEC,7 - 4,Jacob Armstrong,40321,Utah Valley,Marcus Coleman,49154,Iowa State
+2020,12/14,Chattanooga - Iowa State Dual,174,W,DEC,6 - 4,Hunter Fortner,50952,Chattanooga,Marcus Coleman,49154,Iowa State
+2020,12/06,Cliff Keen Invitational,174,L,MD,12 - 0,Hayden Hastings,49354,Wyoming,Marcus Coleman,49154,Iowa State
+2020,12/06,Cliff Keen Invitational,174,W,DEC,9 - 6,Devin Skatzka,39603,Minnesota,Marcus Coleman,49154,Iowa State
+2020,12/06,Cliff Keen Invitational,174,L,MD,15 - 6,Anthony Valencia,39500,Arizona State,Marcus Coleman,49154,Iowa State
+2020,11/24,Iowa - Iowa State Dual,174,L,MD,14 - 5,Michael Kemerer,39526,Iowa,Marcus Coleman,49154,Iowa State
+2020,11/17,Bucknell - Iowa State Dual,174,W,FALL,5:00,Frankie Guida,50819,Bucknell,Marcus Coleman,49154,Iowa State
+2020,11/10,Cyclone Open,174,W,TF5,19 - 2 6:18,Michial Foy,53189,Harper College,Marcus Coleman,49154,Iowa State
+2020,11/10,Cyclone Open,174,W,MD,16 - 4,Troy Fisher,57601,Northwestern,Marcus Coleman,49154,Iowa State
+2020,11/10,Cyclone Open,174,L,DEC,6 - 0,Bryce Steiert,39504,Northern Iowa,Marcus Coleman,49154,Iowa State
+2020,02/22,Last Chance Open,184,L,INJ,7:00,Jacob Schoon,62672,South Dakota State,Julien Broderson,57644,Iowa State
+2020,02/22,Last Chance Open,184,L,MFOR,0 - 0,Caden Steffen,51689,Minnesota,Julien Broderson,57644,Iowa State
+2020,02/22,Last Chance Open,184,W,MFOR,0 - 0,Austin Stotts,50647,Iowa State,Julien Broderson,57644,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,FALL,6:04,Tanner Stamper-Smith,61452,Unattached,Julien Broderson,57644,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,FALL,2:20,Jonathan Garcia,58280,Briar Cliff,Julien Broderson,57644,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,DEC,7 - 3,Tate Battani,57232,Iowa State,Julien Broderson,57644,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,DEC,6 - 1,Ben Lee,53616,Grand View,Julien Broderson,57644,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,DEC,5 - 2,Samuel Grove,49320,South Dakota State,Julien Broderson,57644,Iowa State
+2020,01/01,Southern Scuffle,184,L,DEC,8 - 4,Anthony Montalvo,51619,Oklahoma State,Julien Broderson,57644,Iowa State
+2020,01/01,Southern Scuffle,184,L,MD,17 - 4,Nino Bonaccorsi,49285,Pittsburgh,Julien Broderson,57644,Iowa State
+2020,01/01,Southern Scuffle,184,W,DEC,7 - 1,Corey Hazel,39756,Lock Haven,Julien Broderson,57644,Iowa State
+2020,01/01,Southern Scuffle,184,W,MD,13 - 4,Anthony Walters,50831,Drexel,Julien Broderson,57644,Iowa State
+2020,12/14,UNI Open,184,W,FALL,0:15,Tyler Buesgens,54237,Iowa State,Julien Broderson,57644,Iowa State
+2020,12/14,UNI Open,184,W,FALL,2:18,Cordell Duhart,56938,Missouri,Julien Broderson,57644,Iowa State
+2020,11/23,Lindenwood Open,184,W,FALL,2:42,Trevor Blue,62512,Purdue,Julien Broderson,57644,Iowa State
+2020,11/23,Lindenwood Open,184,W,FALL,4:13,Joey Williams,54074,Maryville University,Julien Broderson,57644,Iowa State
+2020,11/23,Lindenwood Open,184,L,DEC,10 - 3,Heath Gray,52385,Central Oklahoma,Julien Broderson,57644,Iowa State
+2020,11/23,Lindenwood Open,184,W,DEC,2 - 0,Canten Marriott,44723,Missouri,Julien Broderson,57644,Iowa State
+2020,11/23,Lindenwood Open,184,W,DEC,8 - 3,Abe Assad,56936,Iowa,Julien Broderson,57644,Iowa State
+2020,11/16,Grand View Open,184,W,FALL,0:56,Otis Peeler,62039,Cowley College,Julien Broderson,57644,Iowa State
+2020,11/16,Grand View Open,184,W,FALL,2:03,Logan Koedam,62272,Iowa Lakes Community College,Julien Broderson,57644,Iowa State
+2020,11/16,Grand View Open,184,W,FALL,1:02,Derek Venteicher,59190,Loras,Julien Broderson,57644,Iowa State
+2020,11/16,Grand View Open,184,W,FALL,4:40,Noah Glaser,51108,Northern Iowa,Julien Broderson,57644,Iowa State
+2020,11/10,Cyclone Open,184,W,FALL,1:23,Bobby Williams,64049,Pratt Community College,Julien Broderson,57644,Iowa State
+2020,11/10,Cyclone Open,184,L,MD,18 - 8,Parker Keckeisen,56724,Northern Iowa,Julien Broderson,57644,Iowa State
+2020,11/10,Cyclone Open,184,W,FALL,5:53,Ben Lee,53616,Grand View,Julien Broderson,57644,Iowa State
+2020,11/10,Cyclone Open,184,W,FALL,1:08,Noah Glaser,51108,Northern Iowa,Julien Broderson,57644,Iowa State
+2020,02/22,Last Chance Open,184,L,INJ,7:00,Marcus Coleman,49154,Iowa State,Tate Battani,57232,Iowa State
+2020,02/22,Last Chance Open,184,W,DEC,7 - 3,Jacob Schoon,62672,South Dakota State,Tate Battani,57232,Iowa State
+2020,02/22,Last Chance Open,184,W,DEC,6 - 1,Caden Steffen,51689,Minnesota,Tate Battani,57232,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,184,L,DEC,7 - 3,Julien Broderson,57644,Iowa State,Tate Battani,57232,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,MD,18 - 10,Caleb Orris,62673,South Dakota State,Tate Battani,57232,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,DEC,3 - 1,Colton Wolfe,50184,Nebraska,Tate Battani,57232,Iowa State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,FALL,0:28,Jay Westcott,43903,Chadron State,Tate Battani,57232,Iowa State
+2020,11/10,Cyclone Open,174,W,FALL,2:13,Gerald Wiza,64050,Northwest Kansas Technical College,Tate Battani,57232,Iowa State
+2020,11/10,Cyclone Open,174,W,TF5,22 - 7 4:07,Kyle Guilliams,64036,Iowa Central Community College,Tate Battani,57232,Iowa State
+2020,11/10,Cyclone Open,174,W,MD,17 - 6,Nolan Harsh,61910,Iowa State,Tate Battani,57232,Iowa State
+2020,11/10,Cyclone Open,174,W,MD,16 - 7,Zach Lee,61367,Grand View,Tate Battani,57232,Iowa State
+2020,12/14,UNI Open,184,L,FALL,0:15,Julien Broderson,57644,Iowa State,Tyler Buesgens,54237,Iowa State
+2020,12/14,UNI Open,184,W,DEC,9 - 2,Harrison Swalla,44138,Iowa State,Tyler Buesgens,54237,Iowa State
+2020,12/14,UNI Open,184,W,DEC,8 - 2,Jakob Hinz,40067,Indiana,Tyler Buesgens,54237,Iowa State
+2020,11/23,Lindenwood Open,184,L,FALL,2:51,Ryan Herman,62734,Maryville University,Tyler Buesgens,54237,Iowa State
+2020,11/23,Lindenwood Open,184,L,DEC,7 - 4,Sam Karel,52226,Liberty University,Tyler Buesgens,54237,Iowa State
+2020,11/16,Grand View Open,184,W,DEC,6 - 0,Jace Morgenstern,64746,Graceland University,Tyler Buesgens,54237,Iowa State
+2020,11/16,Grand View Open,184,W,FALL,1:16,Bobby Williams,64049,Pratt Community College,Tyler Buesgens,54237,Iowa State
+2020,11/16,Grand View Open,184,L,DEC,13 - 7,Otis Peeler,62039,Cowley College,Tyler Buesgens,54237,Iowa State
+2020,11/16,Grand View Open,184,W,FALL,4:46,Colin Murphy,61228,Loras,Tyler Buesgens,54237,Iowa State
+2020,11/16,Grand View Open,184,W,FALL,1:01,Derek Venteicher,59190,Loras,Tyler Buesgens,54237,Iowa State
+2020,11/16,Grand View Open,184,W,FALL,2:55,Noah Glaser,51108,Northern Iowa,Tyler Buesgens,54237,Iowa State
+2020,11/10,Cyclone Open,184,W,FALL,2:20,Tate Beardsley,64030,Grand View,Tyler Buesgens,54237,Iowa State
+2020,11/10,Cyclone Open,184,W,FALL,4:10,Jacari Deal,63584,Northwest Kansas Technical College,Tyler Buesgens,54237,Iowa State
+2020,11/10,Cyclone Open,184,L,MD,18 - 4,Parker Keckeisen,56724,Northern Iowa,Tyler Buesgens,54237,Iowa State
+2020,11/10,Cyclone Open,184,W,MD,13 - 5,Ben Lee,53616,Grand View,Tyler Buesgens,54237,Iowa State
+2020,11/10,Cyclone Open,184,W,MD,15 - 3,Noah Glaser,51108,Northern Iowa,Tyler Buesgens,54237,Iowa State
+2020,02/22,Iowa State - Missouri Dual,184,L,FALL,3:44,Dylan Wisman,39507,Missouri,Harrison Swalla,44138,Iowa State
+2020,12/14,UNI Open,184,L,DEC,9 - 2,Tyler Buesgens,54237,Iowa State,Harrison Swalla,44138,Iowa State
+2020,12/14,UNI Open,184,W,DEC,7 - 4,Zac Stork,49357,Grand View,Harrison Swalla,44138,Iowa State
+2020,12/14,UNI Open,184,W,MD,14 - 5,Samuel East,62664,Missouri,Harrison Swalla,44138,Iowa State
+2020,12/14,UNI Open,184,L,DEC,3 - 1,Cordell Duhart,56938,Missouri,Harrison Swalla,44138,Iowa State
+2020,03/07,Big 12 Championships,197,L,DEC,13 - 7,Dakota Geer,45373,Oklahoma State,Joel Devine,50653,Iowa State
+2020,03/07,Big 12 Championships,197,L,MD,9 - 0,Tanner Sloan,56251,South Dakota State,Joel Devine,50653,Iowa State
+2020,02/23,North Dakota State - Iowa State Dual,197,L,DEC,3 - 2,Cordell Eaton,40458,North Dakota State,Joel Devine,50653,Iowa State
+2020,02/22,Iowa State - Missouri Dual,197,L,DEC,3 - 2,Canten Marriott,44723,Missouri,Joel Devine,50653,Iowa State
+2020,02/16,Northern Iowa - Iowa State Dual,197,W,DEC,6 - 2,Isaiah Patton,39553,Northern Iowa,Joel Devine,50653,Iowa State
+2020,02/15,West Virginia - Iowa State Dual,197,L,DEC,6 - 2,Noah Adams,49342,West Virginia,Joel Devine,50653,Iowa State
+2020,02/09,Iowa State - Oklahoma Dual,197,L,DEC,7 - 3,Jake Woodley,49257,Oklahoma,Joel Devine,50653,Iowa State
+2020,01/31,Iowa State - Fresno State Dual,197,W,FALL,4:18,Isaiah Perez,52109,Fresno State,Joel Devine,50653,Iowa State
+2020,01/17,Iowa State - South Dakota State Dual,197,L,MD,10 - 2,Tanner Sloan,56251,South Dakota State,Joel Devine,50653,Iowa State
+2020,01/11,Iowa State - Arizona State Dual,197,L,MD,10 - 2,Kordell Norfleet,49038,Arizona State,Joel Devine,50653,Iowa State
+2020,01/11,Campbell - Iowa State Dual,197,L,DEC,3 - 1,Chris Kober,50022,Campbell,Joel Devine,50653,Iowa State
+2020,01/09,Iowa State - Utah Valley Dual,197,W,FALL,2:12,Tanner Orndorff,40324,Utah Valley,Joel Devine,50653,Iowa State
+2020,01/01,Southern Scuffle,197,L,DEC,6 - 0,Matt Correnti,44705,Rutgers,Joel Devine,50653,Iowa State
+2020,01/01,Southern Scuffle,197,L,MD,9 - 1,Jordan Pagano,20304,Rutgers,Joel Devine,50653,Iowa State
+2020,01/01,Southern Scuffle,197,W,DEC,8 - 5,Ben Smith,56236,Cleveland State,Joel Devine,50653,Iowa State
+2020,01/01,Southern Scuffle,197,W,DEC,6 - 1,Conor Fenn,45250,Davidson,Joel Devine,50653,Iowa State
+2020,12/14,UNI Open,197,W,DEC,5 - 2,Nick Willham,62447,Indiana,Joel Devine,50653,Iowa State
+2020,12/14,UNI Open,197,W,DEC,10 - 7,Jake Kleimola,44956,Indiana,Joel Devine,50653,Iowa State
+2020,12/14,UNI Open,197,W,DEC,4 - 0,Tyrell Gordon,51694,Northern Iowa,Joel Devine,50653,Iowa State
+2020,12/06,Cliff Keen Invitational,197,L,DEC,4 - 2,Jacob Seely,39665,Northern Colorado,Joel Devine,50653,Iowa State
+2020,12/06,Cliff Keen Invitational,197,L,DEC,11 - 5,Jonathan Loew,51080,Cornell,Joel Devine,50653,Iowa State
+2020,11/24,Iowa - Iowa State Dual,197,L,MD,11 - 2,Jacob Warner,49151,Iowa,Joel Devine,50653,Iowa State
+2020,11/17,Bucknell - Iowa State Dual,197,L,DEC,4 - 0,Drew Phipps,45224,Bucknell,Joel Devine,50653,Iowa State
+2020,11/10,Cyclone Open,197,W,FALL,3:47,Trent Allen,41965,Grand View,Joel Devine,50653,Iowa State
+2020,11/10,Cyclone Open,197,L,DEC,9 - 3,Tyree Sutton,51452,Grand View,Joel Devine,50653,Iowa State
+2020,11/10,Cyclone Open,197,W,DEC,3 - 1,Francis Duggan,51112,Iowa State,Joel Devine,50653,Iowa State
+2020,11/10,Cyclone Open,197,W,FALL,5:32,Brady Wetter,44937,Wisconsin,Joel Devine,50653,Iowa State
+2020,02/22,Last Chance Open,197,W,FALL,2:22,Noah Wynbrandt,67806,Dubuque,Francis Duggan,51112,Iowa State
+2020,02/22,Last Chance Open,197,L,DEC,10 - 5,Beau Yineman,58540,Wisconsin-Oshkosh,Francis Duggan,51112,Iowa State
+2020,02/22,Last Chance Open,197,W,DEC,4 - 0,Samuel Grove,49320,South Dakota State,Francis Duggan,51112,Iowa State
+2020,01/26,Oklahoma State - Iowa State Dual,197,L,MD,21 - 8,Dakota Geer,45373,Oklahoma State,Francis Duggan,51112,Iowa State
+2020,01/11,Iowa State - Harvard Dual,197,W,DEC,6 - 2,Evan Callahan,50874,Harvard,Francis Duggan,51112,Iowa State
+2020,01/01,Southern Scuffle,197,L,DEC,5 - 2,Matt Correnti,44705,Rutgers,Francis Duggan,51112,Iowa State
+2020,01/01,Southern Scuffle,197,L,FALL,3:37,Jordan Pagano,20304,Rutgers,Francis Duggan,51112,Iowa State
+2020,01/01,Southern Scuffle,197,W,MFOR,0 - 0,Taye Ghadiali,62500,Campbell,Francis Duggan,51112,Iowa State
+2020,01/01,Southern Scuffle,197,W,DEC,2 - 1,Martin Duane,45583,The Citadel,Francis Duggan,51112,Iowa State
+2020,12/14,Chattanooga - Iowa State Dual,197,L,DEC,8 - 4,Rodney Jones,40212,Chattanooga,Francis Duggan,51112,Iowa State
+2020,11/23,Lindenwood Open,197,L,DEC,6 - 4,Kalin Winkler,46346,Central Oklahoma,Francis Duggan,51112,Iowa State
+2020,11/23,Lindenwood Open,197,W,DEC,10 - 4,Jake McKiernan,20382,SIU Edwardsville,Francis Duggan,51112,Iowa State
+2020,11/23,Lindenwood Open,197,L,DEC,5 - 2,Connor Corbin,50643,Iowa,Francis Duggan,51112,Iowa State
+2020,11/16,Grand View Open,197,W,FALL,3:15,Tyler Nguyen,64749,Briar Cliff,Francis Duggan,51112,Iowa State
+2020,11/16,Grand View Open,197,L,FALL,1:09,Peter Christensen,57076,Wisconsin,Francis Duggan,51112,Iowa State
+2020,11/16,Grand View Open,197,W,TF5,16 - 0 7:00,Austin Coppinger,49425,Briar Cliff,Francis Duggan,51112,Iowa State
+2020,11/16,Grand View Open,197,L,SV-1,3 - 1,John Hensley,46377,Providence,Francis Duggan,51112,Iowa State
+2020,11/10,Cyclone Open,197,L,DEC,3 - 1,Joel Devine,50653,Iowa State,Francis Duggan,51112,Iowa State
+2020,11/10,Cyclone Open,197,W,DEC,12 - 5,Tyler Roling,64042,Unattached,Francis Duggan,51112,Iowa State
+2020,11/10,Cyclone Open,197,W,MD,15 - 3,Trent Allen,41965,Grand View,Francis Duggan,51112,Iowa State
+2020,11/10,Cyclone Open,197,L,DEC,4 - 2,Tyrell Gordon,51694,Northern Iowa,Francis Duggan,51112,Iowa State
+2020,03/07,Big 12 Championships,285,L,DEC,3 - 2,Brian Andrews,50489,Wyoming,Gannon Gremmel,44856,Iowa State
+2020,03/07,Big 12 Championships,285,W,DEC,10 - 3,Dalton Robertson,44695,Northern Colorado,Gannon Gremmel,44856,Iowa State
+2020,03/07,Big 12 Championships,285,W,DEC,3 - 0,Brandon Metz,49222,North Dakota State,Gannon Gremmel,44856,Iowa State
+2020,03/07,Big 12 Championships,285,W,DEC,4 - 1,Josiah Jones,51617,Oklahoma,Gannon Gremmel,44856,Iowa State
+2020,02/23,North Dakota State - Iowa State Dual,285,W,DEC,4 - 0,Brandon Metz,49222,North Dakota State,Gannon Gremmel,44856,Iowa State
+2020,02/22,Iowa State - Missouri Dual,285,W,DEC,6 - 2,Jacob Bohlken,44953,Missouri,Gannon Gremmel,44856,Iowa State
+2020,02/16,Northern Iowa - Iowa State Dual,285,W,DEC,4 - 0,Carter Isley,44719,Northern Iowa,Gannon Gremmel,44856,Iowa State
+2020,02/15,West Virginia - Iowa State Dual,285,W,MD,12 - 1,Sean Mullican,49344,West Virginia,Gannon Gremmel,44856,Iowa State
+2020,02/09,Iowa State - Oklahoma Dual,285,W,MD,14 - 3,Josiah Jones,51617,Oklahoma,Gannon Gremmel,44856,Iowa State
+2020,01/31,Iowa State - Fresno State Dual,285,W,MD,21 - 8,Danny Salas,50230,Fresno State,Gannon Gremmel,44856,Iowa State
+2020,01/26,Oklahoma State - Iowa State Dual,285,W,DEC,6 - 2,Cornelius Putnam,52368,Oklahoma State,Gannon Gremmel,44856,Iowa State
+2020,01/17,Iowa State - South Dakota State Dual,285,W,DEC,4 - 3,Blake Wolters,45289,South Dakota State,Gannon Gremmel,44856,Iowa State
+2020,01/11,Iowa State - Arizona State Dual,285,L,MD,11 - 3,Tanner Hall,40231,Arizona State,Gannon Gremmel,44856,Iowa State
+2020,01/11,Iowa State - Harvard Dual,285,L,DEC,5 - 3,Yaraslau Slavikouski,62196,Harvard,Gannon Gremmel,44856,Iowa State
+2020,01/11,Campbell - Iowa State Dual,285,L,DEC,5 - 2,Jere Heino,40434,Campbell,Gannon Gremmel,44856,Iowa State
+2020,01/09,Iowa State - Utah Valley Dual,285,W,DEC,3 - 2,Chase Trussell,57046,Utah Valley,Gannon Gremmel,44856,Iowa State
+2020,01/01,Southern Scuffle,285,W,DEC,8 - 4,Owen Trephan,56903,NC State,Gannon Gremmel,44856,Iowa State
+2020,01/01,Southern Scuffle,285,W,DEC,5 - 1,Lewis Fernandes,56901,Spartan Combat RTC,Gannon Gremmel,44856,Iowa State
+2020,01/01,Southern Scuffle,285,W,MD,16 - 6,Alex Esposito,50637,Rutgers,Gannon Gremmel,44856,Iowa State
+2020,01/01,Southern Scuffle,285,W,INJ,7:00,Dalton Robertson,44695,Northern Colorado,Gannon Gremmel,44856,Iowa State
+2020,01/01,Southern Scuffle,285,W,DEC,3 - 2,Cary Miller,39976,Appalachian State,Gannon Gremmel,44856,Iowa State
+2020,12/14,Chattanooga - Iowa State Dual,285,W,DEC,6 - 0,Grayson Walthall,62675,Chattanooga,Gannon Gremmel,44856,Iowa State
+2020,12/06,Cliff Keen Invitational,285,L,DEC,7 - 3,Tate Orndorff,50974,Utah Valley,Gannon Gremmel,44856,Iowa State
+2020,12/06,Cliff Keen Invitational,285,L,DEC,3 - 2,Tate Orndorff,50974,Utah Valley,Gannon Gremmel,44856,Iowa State
+2020,12/06,Cliff Keen Invitational,285,W,SV-1,3 - 1,Brian Andrews,50489,Wyoming,Gannon Gremmel,44856,Iowa State
+2020,12/06,Cliff Keen Invitational,285,W,SV-1,3 - 1,John Borst,49336,Virginia Tech,Gannon Gremmel,44856,Iowa State
+2020,12/06,Cliff Keen Invitational,285,W,DEC,5 - 2,Christian Lance,41064,Nebraska,Gannon Gremmel,44856,Iowa State
+2020,12/06,Cliff Keen Invitational,285,W,DEC,8 - 6,Yaraslau Slavikouski,62196,Harvard,Gannon Gremmel,44856,Iowa State
+2020,12/06,Cliff Keen Invitational,285,W,DEC,8 - 3,Samuel Aguilar,49661,Cal Poly,Gannon Gremmel,44856,Iowa State
+2020,11/24,Iowa - Iowa State Dual,285,L,DEC,6 - 0,Anthony Cassioppi,50650,Iowa,Gannon Gremmel,44856,Iowa State
+2020,11/17,Bucknell - Iowa State Dual,285,L,DQ,0 - 0,Nate Feyrer,50821,Bucknell,Gannon Gremmel,44856,Iowa State
+2020,11/10,Cyclone Open,285,W,INJ,7:00,Cole Mair,64037,Grand View,Gannon Gremmel,44856,Iowa State
+2020,11/10,Cyclone Open,285,W,FALL,2:51,Chris Aschenbrenner,64029,Unattached,Gannon Gremmel,44856,Iowa State
+2020,11/10,Cyclone Open,285,W,DEC,3 - 1,Carter Isley,44719,Northern Iowa,Gannon Gremmel,44856,Iowa State

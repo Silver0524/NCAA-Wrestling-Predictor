@@ -1,0 +1,596 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2018,03/15,NCAA Championships,125,L,DEC,16 - 11,Connor Brown,49321,South Dakota State,Alonzo Allen,19765,Chattanooga
+2018,03/15,NCAA Championships,125,W,DEC,10 - 9,Sergio Mendez,15986,CSU Bakersfield,Alonzo Allen,19765,Chattanooga
+2018,03/15,NCAA Championships,125,L,TF5,18 - 0 1:41,Spencer Lee,49146,Iowa,Alonzo Allen,19765,Chattanooga
+2018,03/03,SoCon Championships,125,W,FALL,1:47,Michael McClelland,49116,Davidson,Alonzo Allen,19765,Chattanooga
+2018,03/03,SoCon Championships,125,W,DEC,12 - 7,Zach Gentzler,41461,SIU Edwardsville,Alonzo Allen,19765,Chattanooga
+2018,03/03,SoCon Championships,125,W,DEC,9 - 5,De'Andre Swinson,50576,Appalachian State,Alonzo Allen,19765,Chattanooga
+2018,02/17,Chattanooga - Campbell Dual,125,W,MD,18 - 5,Aaron Burton,40429,Campbell,Alonzo Allen,19765,Chattanooga
+2018,02/04,Appalachian State - Chattanooga Dual,125,W,DEC,3 - 1,De'Andre Swinson,50576,Appalachian State,Alonzo Allen,19765,Chattanooga
+2018,01/27,Appalachian Open,125,W,DEC,14 - 10,Fabian Gutierrez,45245,Chattanooga,Alonzo Allen,19765,Chattanooga
+2018,01/27,Appalachian Open,125,W,MD,12 - 2,Charlie Lenox,45032,NC State,Alonzo Allen,19765,Chattanooga
+2018,01/27,Appalachian Open,125,W,DEC,9 - 2,Paxton Rosen,49072,Campbell,Alonzo Allen,19765,Chattanooga
+2018,01/21,Chattanooga - The Citadel Dual,125,W,TF5,16 - 1 1:42,William Jacobs,51363,The Citadel,Alonzo Allen,19765,Chattanooga
+2018,01/19,Southern Illinois Edwardsville - Chattanooga Dual,125,L,DEC,5 - 4,Zach Gentzler,41461,SIU Edwardsville,Alonzo Allen,19765,Chattanooga
+2018,01/12,Chattanooga - Lock Haven Dual,125,L,FALL,2:31,Josiah Kline,45924,Lock Haven,Alonzo Allen,19765,Chattanooga
+2018,01/12,Chattanooga - Northern Iowa Dual,125,L,FALL,1:24,Jacob Schwarm,39750,Northern Iowa,Alonzo Allen,19765,Chattanooga
+2018,01/12,Kent State - Chattanooga Dual,125,W,MD,11 - 3,Jake Ferri,51179,Kent State,Alonzo Allen,19765,Chattanooga
+2018,01/01,Southern Scuffle,125,L,FALL,0:41,Jacob Schwarm,39750,Northern Iowa,Alonzo Allen,19765,Chattanooga
+2018,01/01,Southern Scuffle,125,L,DEC,10 - 3,Ibrahim Bunduka,19897,George Mason,Alonzo Allen,19765,Chattanooga
+2018,01/01,Southern Scuffle,125,W,MD,10 - 2,Tony DeCesare,46349,Air Force,Alonzo Allen,19765,Chattanooga
+2018,01/01,Southern Scuffle,125,W,DEC,14 - 8,Devin Schnupp,45072,Penn State,Alonzo Allen,19765,Chattanooga
+2018,12/18,Ohio - Chattanooga Dual,125,W,MD,18 - 6,Trevor Giallombardo,45033,Ohio,Alonzo Allen,19765,Chattanooga
+2018,12/17,Ohio State - Chattanooga Dual,125,W,DEC,6 - 3,Brakan Mead,50226,Ohio State,Alonzo Allen,19765,Chattanooga
+2018,12/02,Chattanooga - North Carolina State Dual,125,L,FALL,4:32,Tommy Cox,44623,NC State,Alonzo Allen,19765,Chattanooga
+2018,12/02,Chattanooga - Davidson Dual,125,W,TF5,20 - 2 3:41,Michael McClelland,49116,Davidson,Alonzo Allen,19765,Chattanooga
+2018,11/19,Black Knight Invitational,125,W,MD,21 - 9,Joe Nelson,19659,Binghamton,Alonzo Allen,19765,Chattanooga
+2018,11/19,Black Knight Invitational,125,W,FALL,6:54,Trey Chalifoux,44745,Army West Point,Alonzo Allen,19765,Chattanooga
+2018,11/19,Black Knight Invitational,125,L,MD,8 - 0,Nick Suriano,44648,Rutgers,Alonzo Allen,19765,Chattanooga
+2018,11/17,Virginia Tech - Chattanooga Dual,125,L,MD,17 - 6,Kyle Norstrem,45110,Virginia Tech,Alonzo Allen,19765,Chattanooga
+2018,11/05,Hokie Open,125,L,MFOR,0 - 0,Paxton Rosen,49072,Campbell,Alonzo Allen,19765,Chattanooga
+2018,11/05,Hokie Open,125,L,MFOR,0 - 0,Steven Simpson,39905,Old Dominion,Alonzo Allen,19765,Chattanooga
+2018,11/05,Hokie Open,125,W,DEC,6 - 4,Kyle Norstrem,45110,Virginia Tech,Alonzo Allen,19765,Chattanooga
+2018,11/05,Hokie Open,125,W,DEC,4 - 1,Brian Rossi,20394,Stanford,Alonzo Allen,19765,Chattanooga
+2018,11/04,Chattanooga - VMI Dual,125,W,MD,20 - 8,Cliff Conway,50304,VMI,Alonzo Allen,19765,Chattanooga
+2018,01/27,Appalachian Open,125,L,DEC,14 - 10,Alonzo Allen,19765,Chattanooga,Fabian Gutierrez,45245,Chattanooga
+2018,01/27,Appalachian Open,125,W,DEC,9 - 3,Joey Thomas,51008,West Virginia,Fabian Gutierrez,45245,Chattanooga
+2018,01/27,Appalachian Open,125,W,DEC,7 - 0,Harrison Campbell,49125,Duke,Fabian Gutierrez,45245,Chattanooga
+2018,01/27,Appalachian Open,125,W,FALL,4:47,Andy Richard,50050,Appalachian State,Fabian Gutierrez,45245,Chattanooga
+2018,01/13,Chattanooga - Old Dominion Dual,125,L,MD,12 - 3,Michael McGee,49264,Old Dominion,Fabian Gutierrez,45245,Chattanooga
+2018,01/01,Southern Scuffle,125,W,MD,15 - 7,Aslan Kilic,45565,Navy,Fabian Gutierrez,45245,Chattanooga
+2018,01/01,Southern Scuffle,125,L,DEC,9 - 3,Gabe Townsell,45387,Stanford,Fabian Gutierrez,45245,Chattanooga
+2018,01/01,Southern Scuffle,125,L,DEC,11 - 5,Thayer Atkins,19857,Duke,Fabian Gutierrez,45245,Chattanooga
+2018,01/01,Southern Scuffle,125,W,DEC,8 - 6,Devin Schnupp,45072,Penn State,Fabian Gutierrez,45245,Chattanooga
+2018,12/16,Cleveland State Open,125,L,INJ,7:00,Jake Ferri,51179,Kent State,Fabian Gutierrez,45245,Chattanooga
+2018,12/16,Cleveland State Open,125,W,DEC,11 - 9,Sam Book,49332,Virginia,Fabian Gutierrez,45245,Chattanooga
+2018,12/16,Cleveland State Open,125,W,DEC,4 - 1,Brady Koontz,50853,Ohio State,Fabian Gutierrez,45245,Chattanooga
+2018,12/16,Cleveland State Open,125,W,DEC,7 - 6,Jack Medley,51392,Michigan,Fabian Gutierrez,45245,Chattanooga
+2018,11/19,Black Knight Invitational,125,L,DEC,14 - 9,Joe Nelson,19659,Binghamton,Fabian Gutierrez,45245,Chattanooga
+2018,11/19,Black Knight Invitational,125,L,MD,16 - 4,Nick Suriano,44648,Rutgers,Fabian Gutierrez,45245,Chattanooga
+2018,11/05,Hokie Open,125,L,DEC,4 - 2,Charlie Lenox,45032,NC State,Fabian Gutierrez,45245,Chattanooga
+2018,11/05,Hokie Open,125,L,DEC,8 - 3,Zurich Storm,50138,NC State,Fabian Gutierrez,45245,Chattanooga
+2018,11/05,Hokie Open,125,W,MD,13 - 3,Coleton Chase,45558,Ohio,Fabian Gutierrez,45245,Chattanooga
+2018,11/05,Hokie Open,125,W,MD,12 - 2,Trevor Edwards,50850,NC State,Fabian Gutierrez,45245,Chattanooga
+2018,11/19,Wolfpack Open,125,L,MD,10 - 2,Killian Cardinale,49268,Old Dominion,TJ Hicks,50948,Chattanooga
+2018,11/19,Wolfpack Open,125,L,DEC,7 - 1,Tommy Cox,44623,NC State,TJ Hicks,50948,Chattanooga
+2018,11/19,Wolfpack Open,125,W,DEC,8 - 1,Christopher Derosa,50954,Campbell,TJ Hicks,50948,Chattanooga
+2018,11/19,Wolfpack Open,125,W,MD,11 - 2,Andy Richard,50050,Appalachian State,TJ Hicks,50948,Chattanooga
+2018,11/05,Hokie Open,125,L,DEC,9 - 3,Nick Daggett,51295,UNC Pembroke,TJ Hicks,50948,Chattanooga
+2018,11/05,Hokie Open,125,L,DEC,6 - 3,Keegan Duncan,45576,Gardner-Webb,TJ Hicks,50948,Chattanooga
+2018,11/05,Hokie Open,125,W,FALL,0:44,Joey Retherford,51330,UNC Pembroke,TJ Hicks,50948,Chattanooga
+2018,11/05,Hokie Open,125,W,FALL,0:32,Billy Gordy,46031,Emmanuel,TJ Hicks,50948,Chattanooga
+2018,11/05,Hokie Open,125,W,FALL,1:12,Austin Neal,49795,Newberry,TJ Hicks,50948,Chattanooga
+2018,11/05,Hokie Open,125,L,FALL,2:36,Kyle Norstrem,45110,Virginia Tech,Cody Hill,19772,Chattanooga
+2018,11/05,Hokie Open,125,L,DEC,12 - 6,Conner Ziegler,43075,Army West Point,Cody Hill,19772,Chattanooga
+2018,03/03,SoCon Championships,133,W,DEC,4 - 1,Philip Anderson,22000,Gardner-Webb,Chris Debien,39720,Chattanooga
+2018,03/03,SoCon Championships,133,W,DEC,3 - 1,Hunter Starner,20701,VMI,Chris Debien,39720,Chattanooga
+2018,03/03,SoCon Championships,133,W,DEC,5 - 0,Nathan Boston,19956,Campbell,Chris Debien,39720,Chattanooga
+2018,03/03,SoCon Championships,133,L,DEC,11 - 5,Codi Russell,51113,Appalachian State,Chris Debien,39720,Chattanooga
+2018,02/17,Chattanooga - Campbell Dual,133,W,DEC,5 - 2,Nathan Boston,19956,Campbell,Chris Debien,39720,Chattanooga
+2018,02/11,Gardner-Webb - Chattanooga Dual,133,W,DEC,7 - 1,Philip Anderson,22000,Gardner-Webb,Chris Debien,39720,Chattanooga
+2018,02/04,Appalachian State - Chattanooga Dual,133,L,FALL,4:12,Codi Russell,51113,Appalachian State,Chris Debien,39720,Chattanooga
+2018,01/21,Chattanooga - The Citadel Dual,133,W,FALL,0:57,Nicholas Long,51367,The Citadel,Chris Debien,39720,Chattanooga
+2018,01/19,Southern Illinois Edwardsville - Chattanooga Dual,133,W,FALL,0:52,Joe Antonelli,40200,SIU Edwardsville,Chris Debien,39720,Chattanooga
+2018,01/13,Chattanooga - Old Dominion Dual,133,L,DEC,6 - 2,Caleb Richardson,12113,Old Dominion,Chris Debien,39720,Chattanooga
+2018,01/12,Chattanooga - Lock Haven Dual,133,W,DEC,10 - 4,DJ Fehlman,39898,Lock Haven,Chris Debien,39720,Chattanooga
+2018,01/12,Chattanooga - Northern Iowa Dual,133,L,SV-1,8 - 6,Jack Wagner,44755,Northern Iowa,Chris Debien,39720,Chattanooga
+2018,01/12,Kent State - Chattanooga Dual,133,L,DEC,3 - 2,Anthony Tutolo,19968,Kent State,Chris Debien,39720,Chattanooga
+2018,01/01,Southern Scuffle,141,W,MD,12 - 1,Jeremiah Reitz,49123,Duke,Chris Debien,39720,Chattanooga
+2018,01/01,Southern Scuffle,141,L,MD,10 - 1,Russell Rohlfing,40166,CSU Bakersfield,Chris Debien,39720,Chattanooga
+2018,01/01,Southern Scuffle,141,L,DEC,8 - 7,Jonathan Ryan,40425,Campbell,Chris Debien,39720,Chattanooga
+2018,12/18,Ohio - Chattanooga Dual,149,L,TF5,15 - 0 7:00,Kade Kowalski,41852,Ohio,Chris Debien,39720,Chattanooga
+2018,12/17,Ohio State - Chattanooga Dual,149,L,TF5,16 - 0 5:22,Ke-Shawn Hayes,39609,Ohio State,Chris Debien,39720,Chattanooga
+2018,12/02,Chattanooga - North Carolina State Dual,149,L,DEC,12 - 7,Beau Donahue,11933,NC State,Chris Debien,39720,Chattanooga
+2018,12/02,Chattanooga - Davidson Dual,141,W,DEC,10 - 8,Dustin Runzo,19843,Davidson,Chris Debien,39720,Chattanooga
+2018,11/19,Black Knight Invitational,141,W,DEC,4 - 3,Michael Pongracz,11726,Chattanooga,Chris Debien,39720,Chattanooga
+2018,11/19,Black Knight Invitational,141,W,FALL,4:25,Austin Harry,22478,Army West Point,Chris Debien,39720,Chattanooga
+2018,11/19,Black Knight Invitational,141,L,DEC,8 - 7,Peter Lipari,39530,Rutgers,Chris Debien,39720,Chattanooga
+2018,11/19,Black Knight Invitational,141,L,DEC,4 - 1,Mike Van Brill,44613,Rutgers,Chris Debien,39720,Chattanooga
+2018,11/05,Hokie Open,141,L,DEC,11 - 5,Zach Barnes,49073,Campbell,Chris Debien,39720,Chattanooga
+2018,11/05,Hokie Open,141,W,MFOR,0 - 0,Isaiah Locsin,20391,Stanford,Chris Debien,39720,Chattanooga
+2018,11/05,Hokie Open,141,L,DEC,4 - 3,AC Headlee,39627,North Carolina,Chris Debien,39720,Chattanooga
+2018,11/05,Hokie Open,141,W,FALL,4:33,Stephen Hart,51336,Unattached,Chris Debien,39720,Chattanooga
+2018,01/27,Appalachian Open,133,W,DEC,7 - 3,Colton Landers,50949,Chattanooga,Wade Cummings,44642,Chattanooga
+2018,01/27,Appalachian Open,133,W,FALL,0:23,Kellen Devlin,44615,NC State,Wade Cummings,44642,Chattanooga
+2018,01/27,Appalachian Open,133,W,DEC,5 - 1,Jake Huffine,40207,Chattanooga,Wade Cummings,44642,Chattanooga
+2018,01/27,Appalachian Open,133,L,TF5,19 - 1 7:00,Dom Latona,45115,Virginia Tech,Wade Cummings,44642,Chattanooga
+2018,01/01,Southern Scuffle,133,L,DEC,5 - 1,Durbin Lloren,44916,Utah Valley,Wade Cummings,44642,Chattanooga
+2018,01/01,Southern Scuffle,133,L,MD,12 - 1,Corey Keener,12111,Penn State,Wade Cummings,44642,Chattanooga
+2018,12/02,Chattanooga - Davidson Dual,133,W,TF5,17 - 1 2:49,Zamir Ode,40334,Davidson,Wade Cummings,44642,Chattanooga
+2018,11/19,Black Knight Invitational,133,L,DEC,9 - 3,DJ Fehlman,39898,Lock Haven,Wade Cummings,44642,Chattanooga
+2018,11/19,Black Knight Invitational,133,L,MD,13 - 5,Kyle DiNapoli,44982,Rutgers,Wade Cummings,44642,Chattanooga
+2018,11/17,Virginia Tech - Chattanooga Dual,133,L,TF5,17 - 1 4:39,Dennis Gustafson,11706,Virginia Tech,Wade Cummings,44642,Chattanooga
+2018,11/05,Hokie Open,133,L,DEC,11 - 4,Nolan Whitley,51299,Newberry,Wade Cummings,44642,Chattanooga
+2018,11/05,Hokie Open,133,L,MD,17 - 4,Dennis Gustafson,11706,Virginia Tech,Wade Cummings,44642,Chattanooga
+2018,11/05,Hokie Open,133,W,MD,19 - 5,Jacob Romano,47348,Limestone,Wade Cummings,44642,Chattanooga
+2018,11/04,Chattanooga - VMI Dual,133,L,MD,14 - 5,Hunter Starner,20701,VMI,Wade Cummings,44642,Chattanooga
+2018,01/27,Appalachian Open,133,L,DEC,5 - 1,Wade Cummings,44642,Chattanooga,Jake Huffine,40207,Chattanooga
+2018,01/27,Appalachian Open,133,W,SV-1,5 - 3,John Devine,50851,NC State,Jake Huffine,40207,Chattanooga
+2018,01/27,Appalachian Open,133,L,DEC,6 - 2,John Devine,50851,NC State,Jake Huffine,40207,Chattanooga
+2018,01/27,Appalachian Open,133,W,MFOR,0 - 0,Kellen Devlin,44615,NC State,Jake Huffine,40207,Chattanooga
+2018,01/27,Appalachian Open,133,W,MD,14 - 6,Austin Warner,51998,Campbell,Jake Huffine,40207,Chattanooga
+2018,01/01,Southern Scuffle,133,L,MD,12 - 3,Garrett Lambert,44698,Hofstra,Jake Huffine,40207,Chattanooga
+2018,01/01,Southern Scuffle,133,L,DEC,10 - 5,Sean Nickell,11606,CSU Bakersfield,Jake Huffine,40207,Chattanooga
+2018,12/18,Ohio - Chattanooga Dual,133,L,DEC,6 - 1,Cameron Kelly,39687,Ohio,Jake Huffine,40207,Chattanooga
+2018,12/17,Ohio State - Chattanooga Dual,133,L,MD,12 - 4,Luke Pletcher,44636,Ohio State,Jake Huffine,40207,Chattanooga
+2018,12/02,Chattanooga - North Carolina State Dual,133,L,MD,12 - 2,Tariq Wilson,44862,NC State,Jake Huffine,40207,Chattanooga
+2018,01/27,Appalachian Open,133,L,DEC,7 - 3,Wade Cummings,44642,Chattanooga,Colton Landers,50949,Chattanooga
+2018,01/27,Appalachian Open,133,W,FALL,4:55,Joey Retherford,51330,UNC Pembroke,Colton Landers,50949,Chattanooga
+2018,01/27,Appalachian Open,133,L,TF5,18 - 0 3:26,Jamel Morris,43775,NC State,Colton Landers,50949,Chattanooga
+2018,01/27,Appalachian Open,133,W,MD,14 - 6,Patrick Washington,45406,Appalachian State,Colton Landers,50949,Chattanooga
+2018,01/01,Southern Scuffle,133,L,FALL,6:40,Scott Kiyono,50458,Virginia,Colton Landers,50949,Chattanooga
+2018,01/01,Southern Scuffle,133,L,TF5,16 - 1 3:00,Scott Parker,19985,Lehigh,Colton Landers,50949,Chattanooga
+2018,12/16,Cleveland State Open,133,L,DEC,8 - 2,Kyran Hagan,49247,Ohio,Colton Landers,50949,Chattanooga
+2018,12/16,Cleveland State Open,133,W,MFOR,0 - 0,Jaquan Loney,40176,Old Dominion,Colton Landers,50949,Chattanooga
+2018,12/16,Cleveland State Open,133,W,TF5,18 - 0 7:00,Ryan Matthews,52921,University of Arizona,Colton Landers,50949,Chattanooga
+2018,12/16,Cleveland State Open,133,W,MD,16 - 8,Jonathan Martin,45272,Central Michigan,Colton Landers,50949,Chattanooga
+2018,12/16,Cleveland State Open,133,L,DEC,10 - 4,Philip Anderson,22000,Gardner-Webb,Colton Landers,50949,Chattanooga
+2018,11/19,Wolfpack Open,133,L,DEC,4 - 2,Nolan Whitley,51299,Newberry,Colton Landers,50949,Chattanooga
+2018,11/19,Wolfpack Open,133,L,MD,17 - 5,James Szymanski,39623,North Carolina,Colton Landers,50949,Chattanooga
+2018,11/05,Hokie Open,133,L,DEC,12 - 5,Lane Peters,45639,Army West Point,Colton Landers,50949,Chattanooga
+2018,11/05,Hokie Open,133,L,DEC,9 - 3,Kyran Hagan,49247,Ohio,Colton Landers,50949,Chattanooga
+2018,03/03,SoCon Championships,141,W,DEC,3 - 0,Douglas Gudenburr,45587,The Citadel,Michael Pongracz,11726,Chattanooga
+2018,03/03,SoCon Championships,141,W,FALL,4:46,Michael Hulcher,20697,VMI,Michael Pongracz,11726,Chattanooga
+2018,03/03,SoCon Championships,141,W,DEC,5 - 0,Dustin Runzo,19843,Davidson,Michael Pongracz,11726,Chattanooga
+2018,03/03,SoCon Championships,141,L,DEC,3 - 1,Irvin Enriquez,40401,Appalachian State,Michael Pongracz,11726,Chattanooga
+2018,02/17,Chattanooga - Campbell Dual,141,W,DEC,7 - 4,Jonathan Ryan,40425,Campbell,Michael Pongracz,11726,Chattanooga
+2018,02/11,Gardner-Webb - Chattanooga Dual,141,W,MD,12 - 0,Landon LoAlbo,20795,Gardner-Webb,Michael Pongracz,11726,Chattanooga
+2018,02/04,Appalachian State - Chattanooga Dual,141,W,MD,9 - 1,Irvin Enriquez,40401,Appalachian State,Michael Pongracz,11726,Chattanooga
+2018,01/21,Chattanooga - The Citadel Dual,141,W,DEC,2 - 1,Douglas Gudenburr,45587,The Citadel,Michael Pongracz,11726,Chattanooga
+2018,01/19,Southern Illinois Edwardsville - Chattanooga Dual,141,W,TF5,18 - 0 6:01,Dakota Leach,13281,SIU Edwardsville,Michael Pongracz,11726,Chattanooga
+2018,01/13,Chattanooga - Old Dominion Dual,141,W,MD,14 - 2,Mason Wohltman,49267,Old Dominion,Michael Pongracz,11726,Chattanooga
+2018,01/12,Chattanooga - Lock Haven Dual,141,L,DEC,3 - 2,Kyle Shoop,39682,Lock Haven,Michael Pongracz,11726,Chattanooga
+2018,01/12,Chattanooga - Northern Iowa Dual,141,L,DEC,5 - 2,Josh Alber,20208,Northern Iowa,Michael Pongracz,11726,Chattanooga
+2018,01/12,Kent State - Chattanooga Dual,141,W,DEC,7 - 0,Tim Rooney,39949,Kent State,Michael Pongracz,11726,Chattanooga
+2018,01/01,Southern Scuffle,141,L,DEC,7 - 0,Kyle Shoop,39682,Lock Haven,Michael Pongracz,11726,Chattanooga
+2018,01/01,Southern Scuffle,141,W,DEC,2 - 1,Benjamin Polkowske,20556,Northern Colorado,Michael Pongracz,11726,Chattanooga
+2018,01/01,Southern Scuffle,141,L,DEC,4 - 1,Alec Opsal,44909,Air Force,Michael Pongracz,11726,Chattanooga
+2018,12/18,Ohio - Chattanooga Dual,141,W,TF5,18 - 1 5:00,Coleton Chase,45558,Ohio,Michael Pongracz,11726,Chattanooga
+2018,12/17,Ohio State - Chattanooga Dual,141,L,DEC,8 - 2,Joseph McKenna,24215,Ohio State,Michael Pongracz,11726,Chattanooga
+2018,12/02,Chattanooga - North Carolina State Dual,141,L,MD,15 - 2,Kevin Jack,20130,NC State,Michael Pongracz,11726,Chattanooga
+2018,11/19,Black Knight Invitational,141,L,DEC,4 - 3,Chris Debien,39720,Chattanooga,Michael Pongracz,11726,Chattanooga
+2018,11/19,Black Knight Invitational,141,W,DEC,7 - 3,Braden Stahlnecker,51046,Bloomsburg,Michael Pongracz,11726,Chattanooga
+2018,11/19,Black Knight Invitational,141,L,DEC,6 - 4,Joe Russ,22848,Binghamton,Michael Pongracz,11726,Chattanooga
+2018,11/19,Black Knight Invitational,141,W,DEC,5 - 2,Taylor Brown,51326,Army West Point,Michael Pongracz,11726,Chattanooga
+2018,11/19,Black Knight Invitational,141,L,DEC,6 - 4,Mike Van Brill,44613,Rutgers,Michael Pongracz,11726,Chattanooga
+2018,11/17,Virginia Tech - Chattanooga Dual,141,W,MD,10 - 2,Brent Moore,44666,Virginia Tech,Michael Pongracz,11726,Chattanooga
+2018,11/05,Hokie Open,141,W,TF5,16 - 0 4:14,Bradly Irwin,40555,Appalachian State,Michael Pongracz,11726,Chattanooga
+2018,11/05,Hokie Open,141,L,DEC,3 - 2,AC Headlee,39627,North Carolina,Michael Pongracz,11726,Chattanooga
+2018,11/05,Hokie Open,141,W,MD,10 - 0,Irvin Enriquez,40401,Appalachian State,Michael Pongracz,11726,Chattanooga
+2018,11/05,Hokie Open,141,W,MD,12 - 0,Dustin Runzo,19843,Davidson,Michael Pongracz,11726,Chattanooga
+2018,02/03,Edinboro Open,141,L,DEC,4 - 3,Zack Trampe,51913,Binghamton,Davion Fairley,49087,Chattanooga
+2018,02/03,Edinboro Open,141,L,DEC,8 - 6,Cory Simpson,45037,Kent State,Davion Fairley,49087,Chattanooga
+2018,01/27,Appalachian Open,141,L,MD,19 - 6,Brian Courtney,49331,Virginia,Davion Fairley,49087,Chattanooga
+2018,01/27,Appalachian Open,141,W,MFOR,0 - 0,Will Clark,39681,NC State,Davion Fairley,49087,Chattanooga
+2018,01/27,Appalachian Open,141,W,DEC,4 - 2,Clayton Currier,50235,Campbell,Davion Fairley,49087,Chattanooga
+2018,01/27,Appalachian Open,141,W,DEC,10 - 6,Caden Darber,50898,Virginia Tech,Davion Fairley,49087,Chattanooga
+2018,01/06,Franklin & Marshall Open,141,L,DEC,3 - 2,Francisco Valdes,49089,Chattanooga,Davion Fairley,49087,Chattanooga
+2018,01/06,Franklin & Marshall Open,141,W,MD,14 - 5,Isaiah Ocasio,42655,Rochester Institute of Technology,Davion Fairley,49087,Chattanooga
+2018,01/06,Franklin & Marshall Open,141,L,DEC,5 - 2,Brett Kulp,44906,Franklin & Marshall,Davion Fairley,49087,Chattanooga
+2018,12/16,Cleveland State Open,141,L,DEC,4 - 3,Jason Isparides,40057,Northwestern,Davion Fairley,49087,Chattanooga
+2018,12/16,Cleveland State Open,141,W,DEC,8 - 7,Cory Simpson,45037,Kent State,Davion Fairley,49087,Chattanooga
+2018,12/16,Cleveland State Open,141,W,TF5,16 - 0 7:00,Aaron J Kammeyer,53679,Mount Union,Davion Fairley,49087,Chattanooga
+2018,12/16,Cleveland State Open,141,L,DEC,5 - 1,Lincoln Olson,39546,Central Michigan,Davion Fairley,49087,Chattanooga
+2018,11/19,Wolfpack Open,141,L,DEC,7 - 2,Timmy Martinez,42840,Newberry,Davion Fairley,49087,Chattanooga
+2018,11/19,Wolfpack Open,141,L,SV-1,10 - 8,Devinaire Hayes,52200,Queens,Davion Fairley,49087,Chattanooga
+2018,01/27,Appalachian Open,141,L,MD,8 - 0,Kyran Hagan,49247,Ohio,Aiden Murphy,50950,Chattanooga
+2018,01/27,Appalachian Open,141,L,DEC,5 - 3,John Millner,50212,Appalachian State,Aiden Murphy,50950,Chattanooga
+2018,01/27,Appalachian Open,141,W,TB-2,4 - 1,Anthony Brito,49035,Appalachian State,Aiden Murphy,50950,Chattanooga
+2018,01/01,Southern Scuffle,141,L,DEC,3 - 2,Will Clark,39681,NC State,Aiden Murphy,50950,Chattanooga
+2018,01/01,Southern Scuffle,141,L,DEC,4 - 2,Jake Hodges,11666,Northern Iowa,Aiden Murphy,50950,Chattanooga
+2018,01/01,Southern Scuffle,141,W,MFOR,0 - 0,Zach Barnes,49073,Campbell,Aiden Murphy,50950,Chattanooga
+2018,11/19,Wolfpack Open,141,W,DEC,8 - 7,Dustin Runzo,19843,Davidson,Aiden Murphy,50950,Chattanooga
+2018,11/19,Wolfpack Open,141,W,DEC,3 - 2,Anthony Brito,49035,Appalachian State,Aiden Murphy,50950,Chattanooga
+2018,11/19,Wolfpack Open,141,L,DEC,5 - 2,Jarod Maynes,20416,Utah Valley,Aiden Murphy,50950,Chattanooga
+2018,11/05,Hokie Open,141,L,DEC,4 - 2,Mason Wohltman,49267,Old Dominion,Aiden Murphy,50950,Chattanooga
+2018,11/05,Hokie Open,141,W,DEC,6 - 2,Cody Bond,50267,Appalachian State,Aiden Murphy,50950,Chattanooga
+2018,11/05,Hokie Open,141,L,MD,13 - 4,Andrew Mehrholz,45163,Virginia Tech,Aiden Murphy,50950,Chattanooga
+2018,11/05,Hokie Open,141,W,DEC,5 - 2,Jeremiah Reitz,49123,Duke,Aiden Murphy,50950,Chattanooga
+2018,01/06,Franklin & Marshall Open,141,W,DEC,3 - 2,Davion Fairley,49087,Chattanooga,Francisco Valdes,49089,Chattanooga
+2018,01/06,Franklin & Marshall Open,141,L,DEC,8 - 1,AJ Jaffe,44752,Harvard,Francisco Valdes,49089,Chattanooga
+2018,01/06,Franklin & Marshall Open,141,L,DEC,3 - 2,Julian Flores,44791,Drexel,Francisco Valdes,49089,Chattanooga
+2018,01/06,Franklin & Marshall Open,141,W,FALL,2:53,Hunter Adams,51116,Sacred Heart,Francisco Valdes,49089,Chattanooga
+2018,01/01,Southern Scuffle,141,L,MFOR,0 - 0,Landon LoAlbo,20795,Gardner-Webb,Francisco Valdes,49089,Chattanooga
+2018,01/01,Southern Scuffle,141,L,MFOR,0 - 0,Jered Cortez,19934,Penn State,Francisco Valdes,49089,Chattanooga
+2018,12/16,Cleveland State Open,141,L,DEC,7 - 1,Cory Simpson,45037,Kent State,Francisco Valdes,49089,Chattanooga
+2018,12/16,Cleveland State Open,141,L,DEC,4 - 1,Tyler Sage,54089,University of Frasier Valley,Francisco Valdes,49089,Chattanooga
+2018,11/19,Wolfpack Open,141,L,TF5,15 - 0 3:02,Denton Spencer,49134,Gardner-Webb,Francisco Valdes,49089,Chattanooga
+2018,11/19,Wolfpack Open,141,L,MD,12 - 2,Isiah Royal,51307,Newberry,Francisco Valdes,49089,Chattanooga
+2018,11/05,Hokie Open,141,L,MD,11 - 1,Andrew Mehrholz,45163,Virginia Tech,Francisco Valdes,49089,Chattanooga
+2018,11/05,Hokie Open,141,W,MD,16 - 6,Gino Esposito,51329,North Carolina,Francisco Valdes,49089,Chattanooga
+2018,11/05,Hokie Open,141,W,MD,12 - 3,Jeremiah Reitz,49123,Duke,Francisco Valdes,49089,Chattanooga
+2018,11/05,Hokie Open,141,W,MD,12 - 4,Michael John Harris,51337,Emmanuel,Francisco Valdes,49089,Chattanooga
+2018,11/05,Hokie Open,141,L,DEC,7 - 3,Taylor Brown,51326,Army West Point,Francisco Valdes,49089,Chattanooga
+2018,11/05,Hokie Open,141,W,MD,16 - 3,Dalton Flint,51335,Emmanuel,Francisco Valdes,49089,Chattanooga
+2018,03/03,SoCon Championships,149,W,FALL,2:28,Kevin Keaveney,45415,VMI,Roman Boylen,39818,Chattanooga
+2018,03/03,SoCon Championships,149,L,DEC,9 - 3,Ty Buckiso,20399,The Citadel,Roman Boylen,39818,Chattanooga
+2018,03/03,SoCon Championships,149,L,DEC,7 - 2,Ty Buckiso,20399,The Citadel,Roman Boylen,39818,Chattanooga
+2018,03/03,SoCon Championships,149,W,DEC,7 - 3,Zach Barnes,49073,Campbell,Roman Boylen,39818,Chattanooga
+2018,02/17,Chattanooga - Campbell Dual,149,L,DEC,5 - 2,Zach Barnes,49073,Campbell,Roman Boylen,39818,Chattanooga
+2018,02/11,Gardner-Webb - Chattanooga Dual,149,W,MD,14 - 4,Joby Armenta,20791,Gardner-Webb,Roman Boylen,39818,Chattanooga
+2018,02/04,Appalachian State - Chattanooga Dual,149,W,SV-1,4 - 2,Gavin Londoff,44823,Appalachian State,Roman Boylen,39818,Chattanooga
+2018,01/27,Appalachian Open,149,W,DEC,6 - 4,Josh Wyland,51362,VA/Southeast Regional Training,Roman Boylen,39818,Chattanooga
+2018,01/27,Appalachian Open,149,W,DEC,7 - 1,Anthony DeMartino,51086,Duke,Roman Boylen,39818,Chattanooga
+2018,01/27,Appalachian Open,149,L,DEC,4 - 1,AJ Leitten,49221,NC State,Roman Boylen,39818,Chattanooga
+2018,01/27,Appalachian Open,149,L,FALL,6:10,Sawyer Davidson,45233,North Carolina,Roman Boylen,39818,Chattanooga
+2018,01/27,Appalachian Open,149,W,DEC,6 - 4,Nick Vestal,44944,Ohio,Roman Boylen,39818,Chattanooga
+2018,01/27,Appalachian Open,149,W,MD,18 - 6,Andrew Mehrholz,45163,Virginia Tech,Roman Boylen,39818,Chattanooga
+2018,01/21,Chattanooga - The Citadel Dual,149,L,DEC,6 - 3,Ty Buckiso,20399,The Citadel,Roman Boylen,39818,Chattanooga
+2018,01/19,Southern Illinois Edwardsville - Chattanooga Dual,149,L,DEC,14 - 8,Tyshawn Williams,40203,SIU Edwardsville,Roman Boylen,39818,Chattanooga
+2018,01/01,Southern Scuffle,149,L,DEC,5 - 2,Trevor Elfvin,51017,Drexel,Roman Boylen,39818,Chattanooga
+2018,01/01,Southern Scuffle,149,W,MD,13 - 0,Kalani Tonge,45324,CSU Bakersfield,Roman Boylen,39818,Chattanooga
+2018,01/01,Southern Scuffle,149,W,DEC,7 - 0,Brandon Leynaud,42790,Duke,Roman Boylen,39818,Chattanooga
+2018,01/01,Southern Scuffle,149,W,DEC,7 - 5,Joby Armenta,20791,Gardner-Webb,Roman Boylen,39818,Chattanooga
+2018,01/01,Southern Scuffle,149,W,MFOR,0 - 0,Ty Buckiso,20399,The Citadel,Roman Boylen,39818,Chattanooga
+2018,01/01,Southern Scuffle,149,L,DEC,10 - 4,Jonathan Mele,12168,Lehigh,Roman Boylen,39818,Chattanooga
+2018,01/01,Southern Scuffle,149,W,DEC,4 - 1,Benjamin Barton,44733,Campbell,Roman Boylen,39818,Chattanooga
+2018,01/01,Southern Scuffle,149,L,DEC,2 - 1,Jarod Verkleeren,49156,Penn State,Roman Boylen,39818,Chattanooga
+2018,12/02,Chattanooga - Davidson Dual,149,W,MD,18 - 4,Aidan Conroy,39860,Davidson,Roman Boylen,39818,Chattanooga
+2018,11/19,Black Knight Invitational,149,W,TB-1,2 - 1,Jake Adcock,39652,Chattanooga,Roman Boylen,39818,Chattanooga
+2018,11/19,Black Knight Invitational,149,W,DEC,7 - 1,Knox Fuller,49042,Army West Point,Roman Boylen,39818,Chattanooga
+2018,11/19,Black Knight Invitational,149,L,DEC,8 - 4,Will Lucie,45640,Army West Point,Roman Boylen,39818,Chattanooga
+2018,11/19,Black Knight Invitational,149,W,DEC,4 - 2,Nick Santos,50283,Rutgers,Roman Boylen,39818,Chattanooga
+2018,11/17,Virginia Tech - Chattanooga Dual,149,L,DEC,3 - 1,Solomon Chishko,20440,Virginia Tech,Roman Boylen,39818,Chattanooga
+2018,11/05,Hokie Open,149,W,FALL,6:56,Jake Adcock,39652,Chattanooga,Roman Boylen,39818,Chattanooga
+2018,11/05,Hokie Open,149,L,DEC,8 - 4,Josh McClure,44697,North Carolina,Roman Boylen,39818,Chattanooga
+2018,11/05,Hokie Open,149,W,MD,9 - 1,Nicholas Leitten,40779,Limestone,Roman Boylen,39818,Chattanooga
+2018,11/05,Hokie Open,149,L,DEC,6 - 3,Austin O'Connor,49214,North Carolina,Roman Boylen,39818,Chattanooga
+2018,11/05,Hokie Open,149,W,DEC,6 - 3,Brandon Leynaud,42790,Duke,Roman Boylen,39818,Chattanooga
+2018,02/25,National Collegiate Open,149,L,DEC,9 - 4,Hunter Baxter,49172,Maryland,Mason Wallace,49086,Chattanooga
+2018,02/25,National Collegiate Open,149,W,FALL,1:59,Chris Martorello,40384,Franklin & Marshall,Mason Wallace,49086,Chattanooga
+2018,02/25,National Collegiate Open,149,W,DEC,15 - 11,Patrick Quinlan,20543,Franklin & Marshall,Mason Wallace,49086,Chattanooga
+2018,02/25,National Collegiate Open,149,L,DEC,8 - 4,Gino Fluri,40130,Rider,Mason Wallace,49086,Chattanooga
+2018,02/25,National Collegiate Open,149,W,TF5,15 - 0 6:18,Matthew Conte,46024,American,Mason Wallace,49086,Chattanooga
+2018,01/27,Appalachian Open,149,L,DEC,8 - 6,Tanner Stephens,20287,Old Dominion,Mason Wallace,49086,Chattanooga
+2018,01/27,Appalachian Open,149,L,FALL,2:34,Andrew Mehrholz,45163,Virginia Tech,Mason Wallace,49086,Chattanooga
+2018,01/06,Franklin & Marshall Open,149,W,DEC,3 - 2,Justin Yorkdale,45347,George Mason,Mason Wallace,49086,Chattanooga
+2018,01/06,Franklin & Marshall Open,149,L,DEC,3 - 2,Tejon Anthony,19896,George Mason,Mason Wallace,49086,Chattanooga
+2018,01/06,Franklin & Marshall Open,149,L,DEC,9 - 2,Zachary Krause,44980,Brown,Mason Wallace,49086,Chattanooga
+2018,01/01,Southern Scuffle,149,L,DEC,7 - 3,Trevor Elfvin,51017,Drexel,Mason Wallace,49086,Chattanooga
+2018,01/01,Southern Scuffle,149,L,MD,10 - 2,Samuel Krivus,43190,Virginia,Mason Wallace,49086,Chattanooga
+2018,12/16,Cleveland State Open,149,L,DEC,11 - 7,Kody Komara,50094,Kent State,Mason Wallace,49086,Chattanooga
+2018,12/16,Cleveland State Open,149,L,MD,16 - 2,Kenan Carter,39560,Old Dominion,Mason Wallace,49086,Chattanooga
+2018,12/16,Cleveland State Open,149,W,FALL,6:45,Andrew Fairbanks,50040,Cleveland State,Mason Wallace,49086,Chattanooga
+2018,11/19,Wolfpack Open,149,L,TF5,19 - 2 4:26,Jake DiBenedetto,50125,Old Dominion,Mason Wallace,49086,Chattanooga
+2018,11/19,Wolfpack Open,149,W,FALL,2:24,Karson Ayres,52205,Queens,Mason Wallace,49086,Chattanooga
+2018,11/19,Wolfpack Open,149,L,FALL,2:48,Beau Donahue,11933,NC State,Mason Wallace,49086,Chattanooga
+2018,11/19,Wolfpack Open,149,W,DEC,4 - 2,Joby Armenta,20791,Gardner-Webb,Mason Wallace,49086,Chattanooga
+2018,11/05,Hokie Open,149,L,DEC,7 - 6,Matthew Kieta,51304,Coker,Mason Wallace,49086,Chattanooga
+2018,11/05,Hokie Open,149,W,DEC,6 - 0,Brenden Ryan,42872,Virginia Tech,Mason Wallace,49086,Chattanooga
+2018,11/05,Hokie Open,149,W,DEC,6 - 4,Luke McDonough,51305,UNC Pembroke,Mason Wallace,49086,Chattanooga
+2018,11/05,Hokie Open,149,L,DEC,9 - 8,Taylor Parks,51306,Gardner-Webb,Mason Wallace,49086,Chattanooga
+2018,11/05,Hokie Open,149,W,MD,17 - 4,Will Baldwin,50967,Davidson,Mason Wallace,49086,Chattanooga
+2018,01/27,Appalachian Open,149,W,DEC,7 - 5,Eric Carter,51085,Duke,Zach Shareef,39565,Chattanooga
+2018,01/27,Appalachian Open,149,L,DEC,7 - 2,Austin O'Connor,49214,North Carolina,Zach Shareef,39565,Chattanooga
+2018,01/27,Appalachian Open,149,L,DEC,15 - 14,Andrew Mehrholz,45163,Virginia Tech,Zach Shareef,39565,Chattanooga
+2018,01/13,Chattanooga - Old Dominion Dual,149,L,DEC,10 - 3,Kenan Carter,39560,Old Dominion,Zach Shareef,39565,Chattanooga
+2018,01/12,Chattanooga - Lock Haven Dual,149,L,DEC,9 - 2,Ronnie Perry,12058,Lock Haven,Zach Shareef,39565,Chattanooga
+2018,01/12,Chattanooga - Northern Iowa Dual,149,L,MD,10 - 1,Max Thomsen,39503,Northern Iowa,Zach Shareef,39565,Chattanooga
+2018,01/12,Kent State - Chattanooga Dual,149,L,DEC,8 - 3,Nick Monico,44694,Kent State,Zach Shareef,39565,Chattanooga
+2018,01/01,Southern Scuffle,149,L,FALL,3:24,Jared Prince,41363,Navy,Zach Shareef,39565,Chattanooga
+2018,01/01,Southern Scuffle,149,L,MD,16 - 6,Tejon Anthony,19896,George Mason,Zach Shareef,39565,Chattanooga
+2018,12/16,Cleveland State Open,149,W,FALL,4:45,Robert Cobb,53667,Mount Union,Zach Shareef,39565,Chattanooga
+2018,12/16,Cleveland State Open,149,W,DEC,3 - 2,Nick Palumbo,49068,Buffalo,Zach Shareef,39565,Chattanooga
+2018,12/16,Cleveland State Open,149,L,MD,13 - 2,Jake Keating,50315,Virginia,Zach Shareef,39565,Chattanooga
+2018,12/16,Cleveland State Open,149,L,TF5,19 - 4 7:00,Tyler Meisinger,45010,Michigan,Zach Shareef,39565,Chattanooga
+2018,11/19,Wolfpack Open,149,L,MD,12 - 4,Jake DiBenedetto,50125,Old Dominion,Zach Shareef,39565,Chattanooga
+2018,11/19,Wolfpack Open,149,L,DEC,6 - 3,Taylor Ortz,40103,Clarion,Zach Shareef,39565,Chattanooga
+2018,11/19,Wolfpack Open,149,W,DEC,6 - 0,Simon Kitzis,52197,Queens,Zach Shareef,39565,Chattanooga
+2018,11/05,Hokie Open,149,L,DEC,5 - 3,Brendan Grammes,50899,Virginia Tech,Zach Shareef,39565,Chattanooga
+2018,11/05,Hokie Open,149,W,DEC,6 - 3,Jody McAlister,51339,Newberry,Zach Shareef,39565,Chattanooga
+2018,11/05,Hokie Open,149,W,DEC,7 - 3,Frankie Bruno,44888,Ohio,Zach Shareef,39565,Chattanooga
+2018,11/05,Hokie Open,149,L,DEC,10 - 4,Knox Fuller,49042,Army West Point,Zach Shareef,39565,Chattanooga
+2018,03/03,SoCon Championships,157,W,TF5,22 - 7 5:00,Ethan Phillips,51220,The Citadel,Jake Adcock,39652,Chattanooga
+2018,03/03,SoCon Championships,157,L,FALL,2:05,Karsten Van Velsor,13807,SIU Edwardsville,Jake Adcock,39652,Chattanooga
+2018,03/03,SoCon Championships,157,L,MD,10 - 2,Austin Kraisser,44588,Campbell,Jake Adcock,39652,Chattanooga
+2018,02/17,Chattanooga - Campbell Dual,157,W,DEC,6 - 5,Austin Kraisser,44588,Campbell,Jake Adcock,39652,Chattanooga
+2018,02/04,Appalachian State - Chattanooga Dual,157,L,DEC,7 - 4,Angel Najar,40406,Appalachian State,Jake Adcock,39652,Chattanooga
+2018,01/27,Appalachian Open,157,W,DEC,7 - 6,Benjamin Anderson,51087,Duke,Jake Adcock,39652,Chattanooga
+2018,01/27,Appalachian Open,157,W,TF5,21 - 6 6:21,Luke Sorboro,49343,West Virginia,Jake Adcock,39652,Chattanooga
+2018,01/27,Appalachian Open,157,W,MD,11 - 3,Trey Watson,42896,Chattanooga,Jake Adcock,39652,Chattanooga
+2018,01/27,Appalachian Open,157,W,TF5,20 - 5 5:36,Patrick Burton,50338,Campbell,Jake Adcock,39652,Chattanooga
+2018,01/27,Appalachian Open,157,L,FALL,0:36,Laken Cook,45408,Appalachian State,Jake Adcock,39652,Chattanooga
+2018,01/27,Appalachian Open,157,W,MD,13 - 2,Carl Guess,44907,Appalachian State,Jake Adcock,39652,Chattanooga
+2018,01/13,Chattanooga - Old Dominion Dual,157,L,MD,12 - 1,Larry Early,39519,Old Dominion,Jake Adcock,39652,Chattanooga
+2018,01/01,Southern Scuffle,157,W,DEC,8 - 2,Keegan McCormick,39733,Missouri,Jake Adcock,39652,Chattanooga
+2018,01/01,Southern Scuffle,157,L,TB-2,3 - 2,Josh McClure,44697,North Carolina,Jake Adcock,39652,Chattanooga
+2018,01/01,Southern Scuffle,157,L,FALL,3:54,Fred Green,39780,Virginia,Jake Adcock,39652,Chattanooga
+2018,01/01,Southern Scuffle,157,W,DEC,14 - 12,Tyler Kinn,16786,Northern Colorado,Jake Adcock,39652,Chattanooga
+2018,11/19,Black Knight Invitational,149,L,TB-1,2 - 1,Roman Boylen,39818,Chattanooga,Jake Adcock,39652,Chattanooga
+2018,11/19,Black Knight Invitational,149,W,DEC,7 - 1,Ryan Stocku,51049,Bloomsburg,Jake Adcock,39652,Chattanooga
+2018,11/19,Black Knight Invitational,149,L,DEC,5 - 3,Knox Fuller,49042,Army West Point,Jake Adcock,39652,Chattanooga
+2018,11/05,Hokie Open,149,L,FALL,6:56,Roman Boylen,39818,Chattanooga,Jake Adcock,39652,Chattanooga
+2018,11/05,Hokie Open,149,L,MD,16 - 4,Troy Heilmann,12036,North Carolina,Jake Adcock,39652,Chattanooga
+2018,11/05,Hokie Open,149,W,DEC,9 - 6,Joby Armenta,20791,Gardner-Webb,Jake Adcock,39652,Chattanooga
+2018,11/04,Chattanooga - VMI Dual,149,W,MD,13 - 4,Dolan Walsh,45416,VMI,Jake Adcock,39652,Chattanooga
+2018,02/25,National Collegiate Open,157,W,FALL,2:44,Dominick Esposito,55978,Unattached,Ryan Resnick,49092,Chattanooga
+2018,02/25,National Collegiate Open,157,W,DEC,8 - 3,Chase Archangelo,49104,Cleveland State,Ryan Resnick,49092,Chattanooga
+2018,02/25,National Collegiate Open,157,L,DEC,11 - 8,Jon Errico,45265,Pennsylvania,Ryan Resnick,49092,Chattanooga
+2018,02/25,National Collegiate Open,157,W,MD,12 - 1,Brian Friery,45073,Penn State,Ryan Resnick,49092,Chattanooga
+2018,02/25,National Collegiate Open,157,L,FALL,1:30,James Saylor,45641,Army West Point,Ryan Resnick,49092,Chattanooga
+2018,01/27,Appalachian Open,157,W,FALL,0:48,Daniel Pauley,55412,Unattached,Ryan Resnick,49092,Chattanooga
+2018,01/27,Appalachian Open,157,L,DEC,8 - 6,Carl Guess,44907,Appalachian State,Ryan Resnick,49092,Chattanooga
+2018,01/27,Appalachian Open,157,L,DEC,3 - 0,Miller Clark,42795,Appalachian State,Ryan Resnick,49092,Chattanooga
+2018,01/06,Franklin & Marshall Open,157,W,DEC,7 - 0,Luke Sorboro,49343,West Virginia,Ryan Resnick,49092,Chattanooga
+2018,01/06,Franklin & Marshall Open,157,L,DEC,3 - 1,Jack Mulay,49063,Bucknell,Ryan Resnick,49092,Chattanooga
+2018,01/06,Franklin & Marshall Open,157,L,FALL,5:34,Nigel Ruiz,41222,Army West Point,Ryan Resnick,49092,Chattanooga
+2018,01/01,Southern Scuffle,157,W,MFOR,0 - 0,Bryce Reddington,50046,George Mason,Ryan Resnick,49092,Chattanooga
+2018,01/01,Southern Scuffle,157,L,TF5,16 - 0 4:26,Cameron Coy,49330,Virginia,Ryan Resnick,49092,Chattanooga
+2018,01/01,Southern Scuffle,157,L,FALL,0:59,Coleman Hammond,14011,CSU Bakersfield,Ryan Resnick,49092,Chattanooga
+2018,12/22,Wilkes Open,157,W,FALL,2:25,Gavin Mitchner,52036,Wyoming Seminary Prep,Ryan Resnick,49092,Chattanooga
+2018,12/22,Wilkes Open,157,L,DEC,6 - 2,Conor Melbourne,49298,Princeton,Ryan Resnick,49092,Chattanooga
+2018,12/22,Wilkes Open,157,W,MD,18 - 6,Michael Brown,48314,Wilkes,Ryan Resnick,49092,Chattanooga
+2018,12/22,Wilkes Open,157,W,DEC,12 - 11,Brian Friery,45073,Penn State,Ryan Resnick,49092,Chattanooga
+2018,12/22,Wilkes Open,157,L,MD,8 - 0,Avery Shay,50309,Clarion,Ryan Resnick,49092,Chattanooga
+2018,12/16,Cleveland State Open,157,W,SV-1,6 - 4,Nathan Atienza,51212,Michigan State,Ryan Resnick,49092,Chattanooga
+2018,12/16,Cleveland State Open,157,L,DEC,9 - 3,Ryan Lopez,41289,West Virginia,Ryan Resnick,49092,Chattanooga
+2018,12/16,Cleveland State Open,157,L,DEC,9 - 2,Reece Hughes,49181,Michigan,Ryan Resnick,49092,Chattanooga
+2018,02/11,Gardner-Webb - Chattanooga Dual,157,L,TF5,16 - 0 4:37,Tyler Marinelli,20797,Gardner-Webb,Dylan Forzani,45243,Chattanooga
+2018,01/21,Chattanooga - The Citadel Dual,157,W,DEC,7 - 2,Rian Burris,45586,The Citadel,Dylan Forzani,45243,Chattanooga
+2018,01/19,Southern Illinois Edwardsville - Chattanooga Dual,157,L,FALL,4:06,Karsten Van Velsor,13807,SIU Edwardsville,Dylan Forzani,45243,Chattanooga
+2018,01/12,Chattanooga - Lock Haven Dual,157,L,DEC,8 - 6,Alex Klucker,40289,Lock Haven,Dylan Forzani,45243,Chattanooga
+2018,01/12,Chattanooga - Northern Iowa Dual,157,L,MD,13 - 5,Logan Ryan,13992,Northern Iowa,Dylan Forzani,45243,Chattanooga
+2018,01/12,Kent State - Chattanooga Dual,157,L,DEC,4 - 2,Casey Sparkman,19970,Kent State,Dylan Forzani,45243,Chattanooga
+2018,01/01,Southern Scuffle,157,W,DEC,8 - 5,Michael Murphy,45236,Virginia,Dylan Forzani,45243,Chattanooga
+2018,01/01,Southern Scuffle,157,L,FALL,5:55,Logan Ryan,13992,Northern Iowa,Dylan Forzani,45243,Chattanooga
+2018,01/01,Southern Scuffle,157,L,DEC,9 - 3,Laken Cook,45408,Appalachian State,Dylan Forzani,45243,Chattanooga
+2018,12/18,Ohio - Chattanooga Dual,157,L,DEC,6 - 4,Cullen Cummings,13873,Ohio,Dylan Forzani,45243,Chattanooga
+2018,12/17,Ohio State - Chattanooga Dual,157,L,FALL,1:25,Micah Jordan,20557,Ohio State,Dylan Forzani,45243,Chattanooga
+2018,12/02,Chattanooga - North Carolina State Dual,157,L,FALL,3:22,Hayden Hidlay,44595,NC State,Dylan Forzani,45243,Chattanooga
+2018,12/02,Chattanooga - Davidson Dual,157,W,DEC,3 - 1,Tony Palumbo,40330,Davidson,Dylan Forzani,45243,Chattanooga
+2018,11/19,Black Knight Invitational,157,W,MD,9 - 1,Jonathan Ross,44894,Lock Haven,Dylan Forzani,45243,Chattanooga
+2018,11/19,Black Knight Invitational,157,L,DEC,11 - 4,Tristan Rifanburg,39674,Binghamton,Dylan Forzani,45243,Chattanooga
+2018,11/19,Black Knight Invitational,157,L,DEC,6 - 3,Tristan Rifanburg,39674,Binghamton,Dylan Forzani,45243,Chattanooga
+2018,11/19,Black Knight Invitational,157,W,MFOR,0 - 0,James Saylor,45641,Army West Point,Dylan Forzani,45243,Chattanooga
+2018,11/17,Virginia Tech - Chattanooga Dual,157,L,MD,16 - 7,Brian LaPrade,45112,Virginia Tech,Dylan Forzani,45243,Chattanooga
+2018,11/05,Hokie Open,157,L,MFOR,0 - 0,Jay Sheppard,46044,Emmanuel,Chase Stephens,49093,Chattanooga
+2018,11/05,Hokie Open,157,L,MFOR,0 - 0,Cade Hepner,49269,Old Dominion,Chase Stephens,49093,Chattanooga
+2018,11/05,Hokie Open,157,W,DEC,9 - 7,James Saylor,45641,Army West Point,Chase Stephens,49093,Chattanooga
+2018,11/04,Chattanooga - VMI Dual,157,L,DEC,10 - 8,Robert DuPont,45417,VMI,Chase Stephens,49093,Chattanooga
+2018,01/27,Appalachian Open,157,L,MD,11 - 3,Jake Adcock,39652,Chattanooga,Trey Watson,42896,Chattanooga
+2018,01/27,Appalachian Open,157,L,DEC,6 - 3,Matthew Zovistoski,40049,Appalachian State,Trey Watson,42896,Chattanooga
+2018,01/01,Southern Scuffle,157,L,DEC,13 - 9,Macoy Flanagan,44926,Northern Colorado,Trey Watson,42896,Chattanooga
+2018,01/01,Southern Scuffle,157,L,MD,13 - 5,Alex Klucker,40289,Lock Haven,Trey Watson,42896,Chattanooga
+2018,03/03,SoCon Championships,165,W,FALL,1:50,Hunter Costa,45247,Davidson,Chad Pyke,13555,Chattanooga
+2018,03/03,SoCon Championships,165,L,FALL,4:38,Nate Higgins,20380,SIU Edwardsville,Chad Pyke,13555,Chattanooga
+2018,03/03,SoCon Championships,165,W,DEC,10 - 6,Quentin Perez,40421,Campbell,Chad Pyke,13555,Chattanooga
+2018,02/17,Chattanooga - Campbell Dual,165,W,MD,11 - 3,Quentin Perez,40421,Campbell,Chad Pyke,13555,Chattanooga
+2018,02/11,Gardner-Webb - Chattanooga Dual,165,W,DEC,6 - 4,Brett Stein,12807,Gardner-Webb,Chad Pyke,13555,Chattanooga
+2018,02/04,Appalachian State - Chattanooga Dual,165,W,DEC,8 - 5,Laken Cook,45408,Appalachian State,Chad Pyke,13555,Chattanooga
+2018,01/21,Chattanooga - The Citadel Dual,165,W,FALL,2:34,Michael Mewhorter,49812,The Citadel,Chad Pyke,13555,Chattanooga
+2018,01/19,Southern Illinois Edwardsville - Chattanooga Dual,165,L,DEC,10 - 3,Nate Higgins,20380,SIU Edwardsville,Chad Pyke,13555,Chattanooga
+2018,01/13,Chattanooga - Old Dominion Dual,165,W,DEC,6 - 1,Luke Drugac,44767,Old Dominion,Chad Pyke,13555,Chattanooga
+2018,01/12,Chattanooga - Lock Haven Dual,165,L,MD,12 - 4,Chance Marsteller,47805,Lock Haven,Chad Pyke,13555,Chattanooga
+2018,01/12,Chattanooga - Northern Iowa Dual,165,W,MD,15 - 3,Isaiah Patton,39553,Northern Iowa,Chad Pyke,13555,Chattanooga
+2018,01/12,Kent State - Chattanooga Dual,165,W,DEC,5 - 2,Isaac Bast,19972,Kent State,Chad Pyke,13555,Chattanooga
+2018,01/01,Southern Scuffle,165,W,MD,12 - 2,Brandon Dallavia,45394,Stanford,Chad Pyke,13555,Chattanooga
+2018,01/01,Southern Scuffle,165,W,DEC,8 - 2,Elijah Kerr-Brown,40327,North Carolina,Chad Pyke,13555,Chattanooga
+2018,01/01,Southern Scuffle,165,L,MD,12 - 1,Ebed Jarrell,40311,Drexel,Chad Pyke,13555,Chattanooga
+2018,01/01,Southern Scuffle,165,L,FALL,1:12,Zach Finesilver,19862,Duke,Chad Pyke,13555,Chattanooga
+2018,12/18,Ohio - Chattanooga Dual,165,W,TF5,16 - 0 3:33,Ben Schneider,45046,Ohio,Chad Pyke,13555,Chattanooga
+2018,12/17,Ohio State - Chattanooga Dual,165,L,MD,9 - 1,Te'Shan Campbell,40351,Ohio State,Chad Pyke,13555,Chattanooga
+2018,12/02,Chattanooga - North Carolina State Dual,165,L,DEC,5 - 3,Brian Hamann,13788,NC State,Chad Pyke,13555,Chattanooga
+2018,12/02,Chattanooga - Davidson Dual,165,W,TF5,17 - 1 2:25,Hunter Costa,45247,Davidson,Chad Pyke,13555,Chattanooga
+2018,11/19,Black Knight Invitational,165,W,MD,13 - 5,Dominick Petrucelli,50951,Chattanooga,Chad Pyke,13555,Chattanooga
+2018,11/19,Black Knight Invitational,165,W,MD,14 - 1,Anthony Vetrano,45189,Bloomsburg,Chad Pyke,13555,Chattanooga
+2018,11/19,Black Knight Invitational,165,W,SV-1,3 - 1,Vincent DePrez,19651,Binghamton,Chad Pyke,13555,Chattanooga
+2018,11/19,Black Knight Invitational,165,L,DEC,7 - 4,Andrew Mendel,19640,Army West Point,Chad Pyke,13555,Chattanooga
+2018,11/17,Virginia Tech - Chattanooga Dual,165,L,DEC,9 - 5,David McFadden,39633,Virginia Tech,Chad Pyke,13555,Chattanooga
+2018,11/05,Hokie Open,165,L,DEC,10 - 3,David McFadden,39633,Virginia Tech,Chad Pyke,13555,Chattanooga
+2018,11/05,Hokie Open,165,W,DEC,10 - 4,Andrew Mendel,19640,Army West Point,Chad Pyke,13555,Chattanooga
+2018,11/05,Hokie Open,165,W,DEC,4 - 1,Blake Hohman,39806,VMI,Chad Pyke,13555,Chattanooga
+2018,11/05,Hokie Open,165,W,DEC,9 - 3,Angel Najar,40406,Appalachian State,Chad Pyke,13555,Chattanooga
+2018,11/05,Hokie Open,165,W,TF5,16 - 1 5:48,Thomas Williams,15821,Ohio,Chad Pyke,13555,Chattanooga
+2018,11/04,Chattanooga - VMI Dual,165,W,DEC,8 - 2,Blake Hohman,39806,VMI,Chad Pyke,13555,Chattanooga
+2018,02/25,National Collegiate Open,165,W,DEC,6 - 5,Jonah Barley,51013,Cornell,Drew Nicholson,49091,Chattanooga
+2018,02/25,National Collegiate Open,165,L,DEC,12 - 5,Conor Melbourne,49298,Princeton,Drew Nicholson,49091,Chattanooga
+2018,02/25,National Collegiate Open,165,L,MD,14 - 6,Dale Tiongson,49295,Princeton,Drew Nicholson,49091,Chattanooga
+2018,02/03,Edinboro Open,165,L,DEC,11 - 6,Ben Heyob,40178,Kent State,Drew Nicholson,49091,Chattanooga
+2018,02/03,Edinboro Open,165,L,DEC,6 - 2,Tanner Skidgel,49200,Navy,Drew Nicholson,49091,Chattanooga
+2018,02/03,Edinboro Open,165,W,DEC,5 - 3,Hannibal Tate,21803,Notre Dame,Drew Nicholson,49091,Chattanooga
+2018,02/03,Edinboro Open,165,W,DEC,8 - 5,Cade Moisey,50970,West Virginia,Drew Nicholson,49091,Chattanooga
+2018,01/27,Appalachian Open,165,L,DEC,5 - 3,William MacDonald,44798,North Carolina,Drew Nicholson,49091,Chattanooga
+2018,01/27,Appalachian Open,165,L,TF5,20 - 4 5:53,Mekhi Lewis,49338,Virginia Tech,Drew Nicholson,49091,Chattanooga
+2018,01/06,Franklin & Marshall Open,165,W,DEC,6 - 5,Dylan Gumaer,51021,Franklin & Marshall,Drew Nicholson,49091,Chattanooga
+2018,01/06,Franklin & Marshall Open,165,L,MD,10 - 1,Shane Jones,39984,Old Dominion,Drew Nicholson,49091,Chattanooga
+2018,01/06,Franklin & Marshall Open,165,L,DEC,7 - 5,John Weiss,20790,Campbell,Drew Nicholson,49091,Chattanooga
+2018,01/06,Franklin & Marshall Open,165,W,FALL,4:22,Jacob Bueno,51324,Army West Point,Drew Nicholson,49091,Chattanooga
+2018,01/06,Franklin & Marshall Open,165,W,MD,11 - 3,Nicholas Fierro,49314,Sacred Heart,Drew Nicholson,49091,Chattanooga
+2018,01/27,Appalachian Open,165,L,MD,13 - 3,Shane Jones,39984,Old Dominion,Dominick Petrucelli,50951,Chattanooga
+2018,01/27,Appalachian Open,165,L,DEC,15 - 10,Joseph Accousti,49034,Appalachian State,Dominick Petrucelli,50951,Chattanooga
+2018,01/01,Southern Scuffle,165,L,FALL,6:00,Tanner Skidgel,49200,Navy,Dominick Petrucelli,50951,Chattanooga
+2018,01/01,Southern Scuffle,165,L,FALL,2:54,Jared Hill,45390,Stanford,Dominick Petrucelli,50951,Chattanooga
+2018,12/16,Cleveland State Open,165,W,MD,10 - 2,Jerrod Mullins,54095,Mott Community College,Dominick Petrucelli,50951,Chattanooga
+2018,12/16,Cleveland State Open,165,L,DEC,7 - 2,Brett Freeman,54093,Unattached,Dominick Petrucelli,50951,Chattanooga
+2018,12/16,Cleveland State Open,165,L,MFOR,0 - 0,Idris White,41379,Maryland,Dominick Petrucelli,50951,Chattanooga
+2018,12/16,Cleveland State Open,165,W,TF5,17 - 1 7:00,Evan Schenk,49136,Gardner-Webb,Dominick Petrucelli,50951,Chattanooga
+2018,12/16,Cleveland State Open,165,W,DEC,3 - 2,Cade Moisey,50970,West Virginia,Dominick Petrucelli,50951,Chattanooga
+2018,11/19,Black Knight Invitational,165,L,MD,13 - 5,Chad Pyke,13555,Chattanooga,Dominick Petrucelli,50951,Chattanooga
+2018,11/19,Black Knight Invitational,165,L,TF5,19 - 3 2:15,Chance Marsteller,47805,Lock Haven,Dominick Petrucelli,50951,Chattanooga
+2018,11/19,Black Knight Invitational,165,W,DEC,8 - 5,Anthony Vetrano,45189,Bloomsburg,Dominick Petrucelli,50951,Chattanooga
+2018,11/19,Black Knight Invitational,165,W,DEC,9 - 3,Sam Williams,41314,Army West Point,Dominick Petrucelli,50951,Chattanooga
+2018,11/05,Hokie Open,165,W,DEC,8 - 3,Steele Stout,51342,Ohio,Dominick Petrucelli,50951,Chattanooga
+2018,11/05,Hokie Open,165,L,TF5,22 - 7 5:58,Mekhi Lewis,49338,Virginia Tech,Dominick Petrucelli,50951,Chattanooga
+2018,11/05,Hokie Open,165,W,MD,12 - 0,Calvin Nimely,51340,Emmanuel,Dominick Petrucelli,50951,Chattanooga
+2018,11/05,Hokie Open,165,W,MD,16 - 5,Louis Wilson,46069,Newberry,Dominick Petrucelli,50951,Chattanooga
+2018,03/03,SoCon Championships,174,W,MD,10 - 2,Cade Kiely,45419,VMI,Justin Lampe,40210,Chattanooga
+2018,03/03,SoCon Championships,174,W,DEC,13 - 6,Bryce Shewan,45295,SIU Edwardsville,Justin Lampe,40210,Chattanooga
+2018,03/03,SoCon Championships,174,W,FALL,1:20,Noah Satterfield,44861,Davidson,Justin Lampe,40210,Chattanooga
+2018,03/03,SoCon Championships,174,L,SV-1,3 - 1,Andrew Morgan,40250,Campbell,Justin Lampe,40210,Chattanooga
+2018,02/17,Chattanooga - Campbell Dual,174,W,DEC,7 - 6,Andrew Morgan,40250,Campbell,Justin Lampe,40210,Chattanooga
+2018,02/11,Gardner-Webb - Chattanooga Dual,174,W,DEC,5 - 3,Christian Maroni,20798,Gardner-Webb,Justin Lampe,40210,Chattanooga
+2018,02/04,Appalachian State - Chattanooga Dual,174,L,SV-1,4 - 2,Forrest Przybysz,12877,Appalachian State,Justin Lampe,40210,Chattanooga
+2018,01/21,Chattanooga - The Citadel Dual,174,W,FALL,1:05,Robert Tywater,51369,The Citadel,Justin Lampe,40210,Chattanooga
+2018,01/13,Chattanooga - Old Dominion Dual,174,L,DEC,9 - 4,Seldon Wright,39604,Old Dominion,Justin Lampe,40210,Chattanooga
+2018,01/12,Chattanooga - Lock Haven Dual,174,W,DEC,7 - 3,Jared Siegrist,45101,Lock Haven,Justin Lampe,40210,Chattanooga
+2018,01/12,Chattanooga - Northern Iowa Dual,174,L,MD,16 - 4,Taylor Lujan,39506,Northern Iowa,Justin Lampe,40210,Chattanooga
+2018,01/12,Kent State - Chattanooga Dual,174,W,DEC,9 - 5,Dylan Barreiro,44632,Kent State,Justin Lampe,40210,Chattanooga
+2018,01/01,Southern Scuffle,174,L,DEC,7 - 5,Spencer Carey,44817,Navy,Justin Lampe,40210,Chattanooga
+2018,01/01,Southern Scuffle,174,L,DEC,8 - 2,Caleb Stockmaster,40177,Cleveland State,Justin Lampe,40210,Chattanooga
+2018,01/01,Southern Scuffle,174,W,DEC,9 - 5,Andrew Morgan,40250,Campbell,Justin Lampe,40210,Chattanooga
+2018,12/18,Ohio - Chattanooga Dual,174,L,MD,18 - 5,Austin Reese,20240,Ohio,Justin Lampe,40210,Chattanooga
+2018,12/17,Ohio State - Chattanooga Dual,174,L,MD,12 - 2,Bo Jordan,14840,Ohio State,Justin Lampe,40210,Chattanooga
+2018,12/02,Chattanooga - North Carolina State Dual,174,L,DEC,7 - 2,Daniel Bullard,44612,NC State,Justin Lampe,40210,Chattanooga
+2018,12/02,Chattanooga - Davidson Dual,174,W,FALL,1:21,Noah Satterfield,44861,Davidson,Justin Lampe,40210,Chattanooga
+2018,11/19,Black Knight Invitational,174,W,DEC,5 - 2,Anthony Lombardo,19656,Binghamton,Justin Lampe,40210,Chattanooga
+2018,11/19,Black Knight Invitational,174,W,DEC,12 - 5,Jed Smith,45645,Army West Point,Justin Lampe,40210,Chattanooga
+2018,11/19,Black Knight Invitational,174,W,DEC,7 - 4,Graham Ratermann,41385,Army West Point,Justin Lampe,40210,Chattanooga
+2018,11/19,Black Knight Invitational,174,L,FALL,1:46,Jordan Pagano,20304,Rutgers,Justin Lampe,40210,Chattanooga
+2018,11/17,Virginia Tech - Chattanooga Dual,174,W,SV-1,6 - 4,Hunter Bolen,49335,Virginia Tech,Justin Lampe,40210,Chattanooga
+2018,11/05,Hokie Open,174,L,DEC,7 - 4,Seldon Wright,39604,Old Dominion,Justin Lampe,40210,Chattanooga
+2018,11/05,Hokie Open,174,W,DEC,11 - 6,Graham Ratermann,41385,Army West Point,Justin Lampe,40210,Chattanooga
+2018,11/05,Hokie Open,174,L,MD,13 - 5,Ethan Ramos,14560,North Carolina,Justin Lampe,40210,Chattanooga
+2018,11/05,Hokie Open,174,W,MD,14 - 5,Garrett Church,45411,Appalachian State,Justin Lampe,40210,Chattanooga
+2018,11/05,Hokie Open,174,W,DEC,8 - 2,Alexander Aguilar,51332,Newberry,Justin Lampe,40210,Chattanooga
+2018,11/04,Chattanooga - VMI Dual,174,W,MD,16 - 5,Cade Kiely,45419,VMI,Justin Lampe,40210,Chattanooga
+2018,02/25,National Collegiate Open,174,L,FALL,0:51,Anthony Mantanona,49258,Oklahoma,Hunter Fortner,50952,Chattanooga
+2018,02/25,National Collegiate Open,174,L,DEC,5 - 3,Hunter Queen,49219,North Carolina,Hunter Fortner,50952,Chattanooga
+2018,02/25,National Collegiate Open,174,W,FALL,2:16,Colton Carroll,45335,Cleveland State,Hunter Fortner,50952,Chattanooga
+2018,02/25,National Collegiate Open,174,W,SV-1,6 - 2,Dean Drugac,44766,Old Dominion,Hunter Fortner,50952,Chattanooga
+2018,02/25,National Collegiate Open,174,W,FALL,3:58,Frankie Guida,50819,Bucknell,Hunter Fortner,50952,Chattanooga
+2018,02/25,National Collegiate Open,174,L,DEC,11 - 6,Bailee O'Reilly,50166,Minnesota,Hunter Fortner,50952,Chattanooga
+2018,01/27,Appalachian Open,174,W,MD,12 - 0,Grant Jefferson,55411,North Carolina,Hunter Fortner,50952,Chattanooga
+2018,01/27,Appalachian Open,174,L,DEC,5 - 3,Evan Schenk,49136,Gardner-Webb,Hunter Fortner,50952,Chattanooga
+2018,01/27,Appalachian Open,174,L,TF5,17 - 2 6:43,Ethan Ramos,14560,North Carolina,Hunter Fortner,50952,Chattanooga
+2018,01/01,Southern Scuffle,174,L,DEC,5 - 2,Jared Siegrist,45101,Lock Haven,Hunter Fortner,50952,Chattanooga
+2018,01/01,Southern Scuffle,174,L,FALL,1:34,Austin Rose,15461,Drexel,Hunter Fortner,50952,Chattanooga
+2018,12/16,Cleveland State Open,174,L,DEC,8 - 3,Christian Dietrich,44717,Buffalo,Hunter Fortner,50952,Chattanooga
+2018,12/16,Cleveland State Open,174,W,DEC,11 - 6,Cameron Caldarelli,44952,Buffalo,Hunter Fortner,50952,Chattanooga
+2018,12/16,Cleveland State Open,174,L,MD,14 - 2,AJ Pedro,49056,Brown,Hunter Fortner,50952,Chattanooga
+2018,11/19,Wolfpack Open,174,L,FALL,2:41,Devin Kane,44607,North Carolina,Hunter Fortner,50952,Chattanooga
+2018,11/19,Wolfpack Open,174,L,MD,10 - 0,Dominic Rigous,19793,Clarion,Hunter Fortner,50952,Chattanooga
+2018,11/05,Hokie Open,174,L,DEC,9 - 3,Michael Lopouchanski,51338,The Citadel,Hunter Fortner,50952,Chattanooga
+2018,11/05,Hokie Open,174,W,FALL,1:47,Matt McGillick,51259,The Citadel,Hunter Fortner,50952,Chattanooga
+2018,11/05,Hokie Open,174,W,MD,14 - 2,William Carvey,51313,VMI,Hunter Fortner,50952,Chattanooga
+2018,11/05,Hokie Open,174,L,DEC,9 - 7,Nathaniel Kale,45577,Gardner-Webb,Hunter Fortner,50952,Chattanooga
+2018,03/15,NCAA Championships,184,L,DEC,6 - 4,Max Dean,46025,Cornell,Bryce Carr,39936,Chattanooga
+2018,03/15,NCAA Championships,184,W,DEC,7 - 3,Nicholas Gravina,20360,Rutgers,Bryce Carr,39936,Chattanooga
+2018,03/15,NCAA Championships,184,W,SV-1,3 - 1,Ricky Robertson,14042,Wisconsin,Bryce Carr,39936,Chattanooga
+2018,03/15,NCAA Championships,184,W,DEC,7 - 1,Brandon Krone,20038,Minnesota,Bryce Carr,39936,Chattanooga
+2018,03/15,NCAA Championships,184,L,TB-1,6 - 3,Corey Hazel,39756,Lock Haven,Bryce Carr,39936,Chattanooga
+2018,03/03,SoCon Championships,184,W,FALL,0:54,Michael Lopouchanski,51338,The Citadel,Bryce Carr,39936,Chattanooga
+2018,03/03,SoCon Championships,184,W,DEC,4 - 1,Christopher Beck,45424,VMI,Bryce Carr,39936,Chattanooga
+2018,03/03,SoCon Championships,184,W,DEC,8 - 2,Alan Clothier,45412,Appalachian State,Bryce Carr,39936,Chattanooga
+2018,02/17,Chattanooga - Campbell Dual,184,W,MD,18 - 8,Luke Funck,50960,Campbell,Bryce Carr,39936,Chattanooga
+2018,02/11,Gardner-Webb - Chattanooga Dual,184,W,MD,16 - 6,Cole Graves,13757,Gardner-Webb,Bryce Carr,39936,Chattanooga
+2018,02/04,Appalachian State - Chattanooga Dual,184,W,DEC,9 - 4,Alan Clothier,45412,Appalachian State,Bryce Carr,39936,Chattanooga
+2018,01/21,Chattanooga - The Citadel Dual,184,W,FALL,1:52,Michael Lopouchanski,51338,The Citadel,Bryce Carr,39936,Chattanooga
+2018,01/19,Southern Illinois Edwardsville - Chattanooga Dual,184,W,FALL,1:54,Jacob Godinez,40204,SIU Edwardsville,Bryce Carr,39936,Chattanooga
+2018,01/13,Chattanooga - Old Dominion Dual,184,W,FALL,1:43,Antonio Agee,44635,Old Dominion,Bryce Carr,39936,Chattanooga
+2018,01/12,Chattanooga - Northern Iowa Dual,184,L,TB-1,2 - 1,Drew Foster,20212,Northern Iowa,Bryce Carr,39936,Chattanooga
+2018,01/12,Kent State - Chattanooga Dual,184,W,TF5,16 - 1 7:00,Colin McCracken,50064,Kent State,Bryce Carr,39936,Chattanooga
+2018,01/01,Southern Scuffle,184,W,FALL,1:21,Judah Duhm,52487,Stanford,Bryce Carr,39936,Chattanooga
+2018,01/01,Southern Scuffle,184,W,FALL,2:41,Owen Brooks,45256,Drexel,Bryce Carr,39936,Chattanooga
+2018,01/01,Southern Scuffle,184,W,DEC,4 - 3,Nick Reenan,45035,NC State,Bryce Carr,39936,Chattanooga
+2018,01/01,Southern Scuffle,184,W,DEC,2 - 1,Michael Coleman,20598,Navy,Bryce Carr,39936,Chattanooga
+2018,01/01,Southern Scuffle,184,L,DEC,2 - 0,Drew Foster,20212,Northern Iowa,Bryce Carr,39936,Chattanooga
+2018,01/01,Southern Scuffle,184,W,TF5,16 - 1 7:00,Dylan Gabel,20186,Northern Colorado,Bryce Carr,39936,Chattanooga
+2018,12/18,Ohio - Chattanooga Dual,184,W,MD,12 - 3,Hunter Yeargan,45564,Ohio,Bryce Carr,39936,Chattanooga
+2018,12/17,Ohio State - Chattanooga Dual,184,L,DEC,10 - 5,Myles Martin,39622,Ohio State,Bryce Carr,39936,Chattanooga
+2018,12/02,Chattanooga - North Carolina State Dual,184,L,DEC,2 - 1,Pete Renda,12371,NC State,Bryce Carr,39936,Chattanooga
+2018,12/02,Chattanooga - Davidson Dual,184,W,FALL,2:29,Conor Fenn,45250,Davidson,Bryce Carr,39936,Chattanooga
+2018,11/19,Black Knight Invitational,184,W,MD,10 - 1,Trey Hartsock,44869,Lock Haven,Bryce Carr,39936,Chattanooga
+2018,11/19,Black Knight Invitational,184,W,MD,16 - 6,Trevor Allard,40040,Bloomsburg,Bryce Carr,39936,Chattanooga
+2018,11/19,Black Knight Invitational,184,W,DEC,8 - 3,Noah Stewart,44599,Army West Point,Bryce Carr,39936,Chattanooga
+2018,11/17,Virginia Tech - Chattanooga Dual,184,L,SV-1,3 - 1,Zack Zavatsky,20460,Virginia Tech,Bryce Carr,39936,Chattanooga
+2018,11/05,Hokie Open,184,W,DEC,4 - 2,Nick Reenan,45035,NC State,Bryce Carr,39936,Chattanooga
+2018,11/05,Hokie Open,184,W,MD,10 - 1,Noah Stewart,44599,Army West Point,Bryce Carr,39936,Chattanooga
+2018,11/05,Hokie Open,184,W,DEC,7 - 4,Jack Wedholm,19646,Army West Point,Bryce Carr,39936,Chattanooga
+2018,11/05,Hokie Open,184,W,TF5,17 - 1 4:34,Steven Decius,40719,Limestone,Bryce Carr,39936,Chattanooga
+2018,11/04,Chattanooga - VMI Dual,184,W,FALL,0:39,Gage Levine,51260,VMI,Bryce Carr,39936,Chattanooga
+2018,01/27,Appalachian Open,184,L,DEC,6 - 2,Nick Reenan,45035,NC State,Rodney Jones,40212,Chattanooga
+2018,01/27,Appalachian Open,184,L,DEC,10 - 6,Stanley Smeltzer,50902,Virginia Tech,Rodney Jones,40212,Chattanooga
+2018,01/12,Chattanooga - Lock Haven Dual,184,L,DEC,4 - 2,Corey Hazel,39756,Lock Haven,Rodney Jones,40212,Chattanooga
+2018,01/01,Southern Scuffle,184,W,MD,17 - 4,Owen Brooks,45256,Drexel,Rodney Jones,40212,Chattanooga
+2018,01/01,Southern Scuffle,184,L,DEC,10 - 6,Gary Jantzer,44879,Utah Valley,Rodney Jones,40212,Chattanooga
+2018,01/01,Southern Scuffle,184,W,SV-1,3 - 1,Trey Hartsock,44869,Lock Haven,Rodney Jones,40212,Chattanooga
+2018,01/01,Southern Scuffle,184,L,DEC,4 - 2,Michael Coleman,20598,Navy,Rodney Jones,40212,Chattanooga
+2018,01/01,Southern Scuffle,184,W,DEC,6 - 5,Luke Funck,50960,Campbell,Rodney Jones,40212,Chattanooga
+2018,12/16,Cleveland State Open,184,L,MD,12 - 1,Nino Bonaccorsi,49285,Pittsburgh,Rodney Jones,40212,Chattanooga
+2018,12/16,Cleveland State Open,184,W,DEC,10 - 4,Colin McCracken,50064,Kent State,Rodney Jones,40212,Chattanooga
+2018,12/16,Cleveland State Open,184,W,DEC,8 - 1,Jake Walker,45563,Ohio,Rodney Jones,40212,Chattanooga
+2018,12/16,Cleveland State Open,184,W,TF5,19 - 4 7:00,Noah Upchurch,52371,Joliet Junior College,Rodney Jones,40212,Chattanooga
+2018,12/16,Cleveland State Open,184,L,FALL,0:52,Jelani Embree,49179,Michigan,Rodney Jones,40212,Chattanooga
+2018,11/19,Black Knight Invitational,184,L,DEC,8 - 1,Trevor Allard,40040,Bloomsburg,Rodney Jones,40212,Chattanooga
+2018,11/19,Black Knight Invitational,184,L,TF5,16 - 0 4:16,Noah Stewart,44599,Army West Point,Rodney Jones,40212,Chattanooga
+2018,11/19,Black Knight Invitational,184,L,DEC,6 - 3,Jeremiah Imonode,41229,Army West Point,Rodney Jones,40212,Chattanooga
+2018,11/19,Black Knight Invitational,184,W,DEC,14 - 10,Willie Scott,39861,Rutgers,Rodney Jones,40212,Chattanooga
+2018,11/05,Hokie Open,184,L,SV-1,3 - 1,Robbie Bowers,49246,Ohio,Rodney Jones,40212,Chattanooga
+2018,11/05,Hokie Open,184,W,TF5,20 - 5 5:11,Sam Ashway,53259,Emmanuel,Rodney Jones,40212,Chattanooga
+2018,11/05,Hokie Open,184,L,DEC,4 - 3,Connor Frey,44631,Old Dominion,Rodney Jones,40212,Chattanooga
+2018,11/05,Hokie Open,184,W,DEC,6 - 2,Hunter Yeargan,45564,Ohio,Rodney Jones,40212,Chattanooga
+2018,03/15,NCAA Championships,197,L,DEC,4 - 1,Rocco Caywood,22565,Army West Point,Scottie Boykin,12756,Chattanooga
+2018,03/15,NCAA Championships,197,L,DEC,4 - 1,Chris Weiler,45108,Lehigh,Scottie Boykin,12756,Chattanooga
+2018,03/03,SoCon Championships,197,W,DEC,13 - 9,Sawyer Root,39846,The Citadel,Scottie Boykin,12756,Chattanooga
+2018,03/03,SoCon Championships,197,W,FALL,1:49,Konner Pritchard,19842,Davidson,Scottie Boykin,12756,Chattanooga
+2018,03/03,SoCon Championships,197,W,MD,12 - 4,Chris Kober,50022,Campbell,Scottie Boykin,12756,Chattanooga
+2018,02/17,Chattanooga - Campbell Dual,197,W,DEC,9 - 3,Chris Kober,50022,Campbell,Scottie Boykin,12756,Chattanooga
+2018,02/11,Gardner-Webb - Chattanooga Dual,197,W,MD,16 - 3,Anthony Perrine,49135,Gardner-Webb,Scottie Boykin,12756,Chattanooga
+2018,02/04,Appalachian State - Chattanooga Dual,197,L,DEC,3 - 2,Randall Diabe,40409,Appalachian State,Scottie Boykin,12756,Chattanooga
+2018,01/21,Chattanooga - The Citadel Dual,197,W,DEC,9 - 4,Sawyer Root,39846,The Citadel,Scottie Boykin,12756,Chattanooga
+2018,01/19,Southern Illinois Edwardsville - Chattanooga Dual,197,W,DEC,6 - 3,Christian DuLaney,20211,SIU Edwardsville,Scottie Boykin,12756,Chattanooga
+2018,01/13,Chattanooga - Old Dominion Dual,197,W,MD,17 - 6,Noah Bushman,49266,Old Dominion,Scottie Boykin,12756,Chattanooga
+2018,01/12,Chattanooga - Northern Iowa Dual,197,W,DEC,8 - 7,Jacob Holschlag,39800,Northern Iowa,Scottie Boykin,12756,Chattanooga
+2018,01/12,Kent State - Chattanooga Dual,197,W,TF5,17 - 2 7:00,Kyle Conel,19973,Kent State,Scottie Boykin,12756,Chattanooga
+2018,01/01,Southern Scuffle,197,W,FALL,2:48,John Borst,49336,Virginia Tech,Scottie Boykin,12756,Chattanooga
+2018,01/01,Southern Scuffle,197,W,DEC,3 - 2,Jake Jakobsen,46924,Lehigh,Scottie Boykin,12756,Chattanooga
+2018,01/01,Southern Scuffle,197,W,DEC,11 - 8,Chris Weiler,45108,Lehigh,Scottie Boykin,12756,Chattanooga
+2018,01/01,Southern Scuffle,197,W,MD,12 - 4,Nezar Haddad,19850,Hofstra,Scottie Boykin,12756,Chattanooga
+2018,01/01,Southern Scuffle,197,W,DEC,8 - 6,Matt Williams,16442,CSU Bakersfield,Scottie Boykin,12756,Chattanooga
+2018,01/01,Southern Scuffle,197,L,FALL,0:27,Shakur Rasheed,20305,Penn State,Scottie Boykin,12756,Chattanooga
+2018,01/01,Southern Scuffle,197,L,SV-1,9 - 7,Anthony Cassar,20299,Penn State,Scottie Boykin,12756,Chattanooga
+2018,12/18,Ohio - Chattanooga Dual,197,W,MD,11 - 3,Aaron Naples,51351,Ohio,Scottie Boykin,12756,Chattanooga
+2018,12/17,Ohio State - Chattanooga Dual,197,L,MD,20 - 8,Kollin Moore,39638,Ohio State,Scottie Boykin,12756,Chattanooga
+2018,12/02,Chattanooga - North Carolina State Dual,197,L,DEC,8 - 2,Michael Macchiavello,12532,NC State,Scottie Boykin,12756,Chattanooga
+2018,11/19,Black Knight Invitational,197,W,MD,8 - 0,Mark Tracy,19662,Binghamton,Scottie Boykin,12756,Chattanooga
+2018,11/19,Black Knight Invitational,197,W,DEC,8 - 3,Alex Hopkins,45122,Army West Point,Scottie Boykin,12756,Chattanooga
+2018,11/19,Black Knight Invitational,197,W,DEC,10 - 9,Kevin Mulligan,44814,Rutgers,Scottie Boykin,12756,Chattanooga
+2018,11/17,Virginia Tech - Chattanooga Dual,197,L,DEC,10 - 8,Jared Haught,13085,Virginia Tech,Scottie Boykin,12756,Chattanooga
+2018,11/05,Hokie Open,197,W,DEC,11 - 9,Nathan Traxler,45395,Stanford,Scottie Boykin,12756,Chattanooga
+2018,11/05,Hokie Open,197,W,DEC,6 - 5,Rocco Caywood,22565,Army West Point,Scottie Boykin,12756,Chattanooga
+2018,11/05,Hokie Open,197,W,DEC,9 - 3,Haszell West,21887,Newberry,Scottie Boykin,12756,Chattanooga
+2018,11/05,Hokie Open,197,W,TF5,22 - 6 5:51,Taylor Thomas,20702,VMI,Scottie Boykin,12756,Chattanooga
+2018,11/04,Chattanooga - VMI Dual,197,W,MD,17 - 6,Taylor Thomas,20702,VMI,Scottie Boykin,12756,Chattanooga
+2018,01/21,Chattanooga - The Citadel Dual,285,L,MD,18 - 4,Michael McAleavey,45588,The Citadel,Ben Stacey,44899,Chattanooga
+2018,01/19,Southern Illinois Edwardsville - Chattanooga Dual,285,W,DEC,13 - 7,Bryce Shewan,45295,SIU Edwardsville,Ben Stacey,44899,Chattanooga
+2018,01/13,Chattanooga - Old Dominion Dual,285,L,DEC,4 - 2,Ali Wahab,44627,Old Dominion,Ben Stacey,44899,Chattanooga
+2018,01/01,Southern Scuffle,197,L,TF5,18 - 0 3:00,Chris Weiler,45108,Lehigh,Ben Stacey,44899,Chattanooga
+2018,01/01,Southern Scuffle,197,L,FALL,5:40,Matt McCutcheon,12572,Penn State,Ben Stacey,44899,Chattanooga
+2018,12/18,Ohio - Chattanooga Dual,285,L,MD,15 - 3,Zack Parker,20235,Ohio,Ben Stacey,44899,Chattanooga
+2018,12/17,Ohio State - Chattanooga Dual,285,L,FALL,3:17,Kyle Snyder,20253,Ohio State,Ben Stacey,44899,Chattanooga
+2018,11/19,Wolfpack Open,197,L,DEC,5 - 1,John Borst,49336,Virginia Tech,Ben Stacey,44899,Chattanooga
+2018,11/19,Wolfpack Open,197,W,FALL,1:40,Seth Petarra,48057,Queens,Ben Stacey,44899,Chattanooga
+2018,11/19,Wolfpack Open,197,L,DEC,4 - 2,Anthony Perrine,49135,Gardner-Webb,Ben Stacey,44899,Chattanooga
+2018,11/19,Wolfpack Open,197,W,DEC,4 - 0,Ryan Ashley,40435,Campbell,Ben Stacey,44899,Chattanooga
+2018,11/05,Hokie Open,197,L,FALL,3:51,Bryce Walker,51343,UNC Pembroke,Ben Stacey,44899,Chattanooga
+2018,11/05,Hokie Open,197,L,MD,8 - 0,Elijah Seay,46139,King,Ben Stacey,44899,Chattanooga
+2018,11/05,Hokie Open,197,W,DEC,5 - 4,Max Gallahan,45422,VMI,Ben Stacey,44899,Chattanooga
+2018,12/02,Chattanooga - North Carolina State Dual,285,L,FALL,2:40,Malik McDonald,20133,NC State,Jared Walker,50953,Chattanooga
+2018,12/02,Chattanooga - Davidson Dual,285,L,DEC,5 - 1,Will Cooley,19839,Davidson,Jared Walker,50953,Chattanooga
+2018,11/19,Wolfpack Open,197,L,DEC,3 - 2,Jordan Lacalle,51297,Newberry,Jared Walker,50953,Chattanooga
+2018,11/19,Wolfpack Open,197,W,SV-1,3 - 1,Benjie Hund,52202,Queens,Jared Walker,50953,Chattanooga
+2018,11/19,Wolfpack Open,197,L,SV-1,4 - 2,Nicholas Weldon,20307,Newberry,Jared Walker,50953,Chattanooga
+2018,11/19,Wolfpack Open,197,W,DEC,6 - 4,Konner Pritchard,19842,Davidson,Jared Walker,50953,Chattanooga
+2018,11/05,Hokie Open,197,L,DEC,3 - 2,Paul Carson,51334,Appalachian State,Jared Walker,50953,Chattanooga
+2018,11/05,Hokie Open,197,L,DEC,3 - 2,Gunnar Larson,51322,Army West Point,Jared Walker,50953,Chattanooga
+2018,11/05,Hokie Open,197,W,DEC,4 - 2,Matthew Smith,51341,North Carolina,Jared Walker,50953,Chattanooga
+2018,03/03,SoCon Championships,285,W,DEC,3 - 2,Michael McAleavey,45588,The Citadel,Connor Tolley,19780,Chattanooga
+2018,03/03,SoCon Championships,285,W,DEC,5 - 3,Lathan Bumgarner,45580,Gardner-Webb,Connor Tolley,19780,Chattanooga
+2018,03/03,SoCon Championships,285,W,DEC,9 - 5,Tommy Helton,45298,SIU Edwardsville,Connor Tolley,19780,Chattanooga
+2018,03/03,SoCon Championships,285,L,MD,11 - 0,Cary Miller,39976,Appalachian State,Connor Tolley,19780,Chattanooga
+2018,02/17,Chattanooga - Campbell Dual,285,L,DEC,6 - 0,Jere Heino,40434,Campbell,Connor Tolley,19780,Chattanooga
+2018,02/11,Gardner-Webb - Chattanooga Dual,285,W,FALL,5:48,Lathan Bumgarner,45580,Gardner-Webb,Connor Tolley,19780,Chattanooga
+2018,02/04,Appalachian State - Chattanooga Dual,285,L,DEC,7 - 5,Cary Miller,39976,Appalachian State,Connor Tolley,19780,Chattanooga
+2018,11/19,Black Knight Invitational,285,L,DEC,9 - 2,Thomas Haines,20247,Lock Haven,Connor Tolley,19780,Chattanooga
+2018,11/19,Black Knight Invitational,285,W,DEC,5 - 4,Bruce Graeber,45188,Bloomsburg,Connor Tolley,19780,Chattanooga
+2018,11/19,Black Knight Invitational,285,L,DEC,6 - 4,Connor Calkins,19648,Binghamton,Connor Tolley,19780,Chattanooga
+2018,11/19,Black Knight Invitational,285,W,DEC,6 - 1,Ralph Normandia,20363,Rutgers,Connor Tolley,19780,Chattanooga
+2018,11/17,Virginia Tech - Chattanooga Dual,285,L,DEC,5 - 2,Andrew Dunn,45111,Virginia Tech,Connor Tolley,19780,Chattanooga
+2018,11/05,Hokie Open,285,L,MD,8 - 0,Cory Gillilland-Daniel,22024,North Carolina,Connor Tolley,19780,Chattanooga
+2018,11/05,Hokie Open,285,W,MD,13 - 4,Kyle Wilkins,50652,Army West Point,Connor Tolley,19780,Chattanooga
+2018,11/05,Hokie Open,285,W,DEC,6 - 4,Demazio Samuel,45414,Appalachian State,Connor Tolley,19780,Chattanooga
+2018,11/05,Hokie Open,285,L,DEC,8 - 5,Andrew Gunning,44876,North Carolina,Connor Tolley,19780,Chattanooga
+2018,11/05,Hokie Open,285,W,DEC,6 - 2,Michael McAleavey,45588,The Citadel,Connor Tolley,19780,Chattanooga
+2018,11/05,Hokie Open,285,W,DEC,10 - 4,Will Cooley,19839,Davidson,Connor Tolley,19780,Chattanooga
+2018,11/04,Chattanooga - VMI Dual,285,W,FALL,6:29,Jake Koch,12298,VMI,Connor Tolley,19780,Chattanooga
+2018,01/12,Kent State - Chattanooga Dual,285,L,MFOR,0 - 0,Devin Nye,19975,Kent State,Torrez Finney,54458,Chattanooga

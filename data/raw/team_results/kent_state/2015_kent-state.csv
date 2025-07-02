@@ -1,0 +1,668 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2015,11/22,Simonson Open,125,W,MD,14 - 5,Jesse Schiffbauer,20477,West Virginia,Anthony Tutolo,19968,Kent State
+2015,11/22,Simonson Open,125,W,MD,15 - 2,Sebastian Arroyo,13312,Ohio,Anthony Tutolo,19968,Kent State
+2015,11/22,Simonson Open,125,L,DEC,7 - 0,Sean Boyle,19766,Chattanooga,Anthony Tutolo,19968,Kent State
+2015,11/08,Brockport Invite,125,L,FALL,3:15,Kaleb LeMaire,12109,Lock Haven,Anthony Tutolo,19968,Kent State
+2015,11/08,Brockport Invite,125,W,DEC,8 - 7,Jake Field,12108,Lock Haven,Anthony Tutolo,19968,Kent State
+2015,11/08,Brockport Invite,125,L,DEC,3 - 2,Ryan Millhof,20815,Oklahoma,Anthony Tutolo,19968,Kent State
+2015,11/08,Brockport Invite,125,W,FALL,2:23,Kevin O'Hagan,21970,Unattached,Anthony Tutolo,19968,Kent State
+2015,11/08,Brockport Invite,125,W,DEC,2 - 0,Edilberto Vinas,20938,Kent State,Anthony Tutolo,19968,Kent State
+2015,02/14,Ashland Open,125,W,DEC,9 - 2,Luke Nace,20234,Ohio,Drew Dickson,20964,Kent State
+2015,02/14,Ashland Open,125,W,DEC,6 - 3,Trae Coopwood,25085,Ashland,Drew Dickson,20964,Kent State
+2015,02/14,Ashland Open,125,W,TF4,15 - 0 4:00,Sean Kuklisin,23362,Baldwin Wallace,Drew Dickson,20964,Kent State
+2015,02/14,Ashland Open,125,W,DEC,5 - 1,Chris Doyle,24417,Baldwin Wallace,Drew Dickson,20964,Kent State
+2015,01/18,Purple Raider Open,125,L,DEC,8 - 5,John Martin,12102,Cleveland State,Drew Dickson,20964,Kent State
+2015,12/19,Kent State - South Dakota State Dual,125,L,DEC,10 - 3,Isaac Andrade,13269,South Dakota State,Drew Dickson,20964,Kent State
+2015,12/19,Kent State - Southern Illinois Edwardsville Dual,125,W,TF4,15 - 0 7:00,Kenny Baldridge,20378,SIU Edwardsville,Drew Dickson,20964,Kent State
+2015,12/19,Kent State - Missouri Dual,125,L,TF4,16 - 0 5:07,Alan Waters,13372,Missouri,Drew Dickson,20964,Kent State
+2015,12/13,Cleveland State Open,125,W,DEC,5 - 2,Luke Nace,20234,Ohio,Drew Dickson,20964,Kent State
+2015,12/13,Cleveland State Open,125,W,DEC,6 - 5,Landon LoAlbo,20795,Gardner-Webb,Drew Dickson,20964,Kent State
+2015,12/13,Cleveland State Open,125,L,MD,11 - 2,David Terao,12068,American,Drew Dickson,20964,Kent State
+2015,12/13,Cleveland State Open,125,L,MD,8 - 0,Blake Caudill,13356,Eastern Michigan,Drew Dickson,20964,Kent State
+2015,11/22,Simonson Open,125,L,MFOR,0 - 0,Stephen Ireland,22704,Notre Dame,Drew Dickson,20964,Kent State
+2015,11/22,Simonson Open,125,L,MFOR,0 - 0,Sean Kuklisin,23362,Baldwin Wallace,Drew Dickson,20964,Kent State
+2015,11/22,Simonson Open,125,W,DEC,7 - 2,Zach Young,17305,The Citadel,Drew Dickson,20964,Kent State
+2015,11/22,Simonson Open,125,L,FALL,4:32,Zak Hassan,15159,Ohio,Drew Dickson,20964,Kent State
+2015,11/22,Simonson Open,125,L,DEC,7 - 6,Michael Russo,19704,Brown,Drew Dickson,20964,Kent State
+2015,11/08,Brockport Invite,125,L,DEC,6 - 1,Kaleb LeMaire,12109,Lock Haven,Drew Dickson,20964,Kent State
+2015,11/08,Brockport Invite,125,L,DEC,7 - 3,Sean Badua,19635,Army West Point,Drew Dickson,20964,Kent State
+2015,11/02,Michigan State Open,125,L,DEC,9 - 4,James Flint,20960,Lindsey Wilson,Drew Dickson,20964,Kent State
+2015,11/02,Michigan State Open,125,L,DEC,7 - 0,Forrest Glogouski,41619,Lake Erie College,Drew Dickson,20964,Kent State
+2015,11/02,Michigan State Open,125,W,SV-1,6 - 4,Patrick Blommel,20751,Michigan State,Drew Dickson,20964,Kent State
+2015,02/15,Kent State - Illinois Dual,133,L,TF4,23 - 7 4:57,Zane Richards,14736,Illinois,Kyle Lukowich,19969,Kent State
+2015,02/07,Edinboro Open,133,L,DEC,5 - 0,Joshua Davis,25048,Lake Erie College,Kyle Lukowich,19969,Kent State
+2015,02/07,Edinboro Open,133,L,TB-2,4 - 3,James Sulkosky,22535,Lock Haven,Kyle Lukowich,19969,Kent State
+2015,01/18,Purple Raider Open,133,W,DEC,6 - 0,Patrick Blommel,20751,Michigan State,Kyle Lukowich,19969,Kent State
+2015,01/18,Purple Raider Open,133,L,DEC,3 - 2,Bryan Lantry,19723,Buffalo,Kyle Lukowich,19969,Kent State
+2015,12/13,Cleveland State Open,133,L,DEC,8 - 2,Bryan Lantry,19723,Buffalo,Kyle Lukowich,19969,Kent State
+2015,12/13,Cleveland State Open,133,W,DEC,9 - 2,Patrick Blommel,20751,Michigan State,Kyle Lukowich,19969,Kent State
+2015,12/13,Cleveland State Open,133,L,DEC,13 - 11,Jordan Reich,20339,Princeton,Kyle Lukowich,19969,Kent State
+2015,11/22,Simonson Open,133,L,DEC,4 - 0,Joel Shump,12023,Ohio,Kyle Lukowich,19969,Kent State
+2015,11/15,Kent State - Michigan State Dual,133,L,DEC,3 - 2,Hermilo Esquivel,13293,Michigan State,Kyle Lukowich,19969,Kent State
+2015,11/08,Brockport Invite,133,L,TF4,15 - 0 7:00,Cody Brewer,12037,Oklahoma,Kyle Lukowich,19969,Kent State
+2015,11/08,Brockport Invite,133,L,DEC,7 - 3,Sean Peacock,19725,Buffalo,Kyle Lukowich,19969,Kent State
+2015,11/02,Michigan State Open,133,L,FALL,2:33,Mitch Pawlak,20992,Indiana Tech,Kyle Lukowich,19969,Kent State
+2015,11/02,Michigan State Open,133,W,DEC,8 - 4,Ross Bahro,21808,Unattached,Kyle Lukowich,19969,Kent State
+2015,11/02,Michigan State Open,133,W,FALL,5:16,John-Martin Cannon,17904,Unattached,Kyle Lukowich,19969,Kent State
+2015,11/02,Michigan State Open,133,L,MD,12 - 0,Jered Cortez,19934,Illinois,Kyle Lukowich,19969,Kent State
+2015,11/02,Michigan State Open,133,W,DEC,5 - 4,Ben Calandrino,12202,Eastern Michigan,Kyle Lukowich,19969,Kent State
+2015,03/19,NCAA Championships,133,L,MD,12 - 3,Mason Beckman,12016,Lehigh,Mack McGuire,12004,Kent State
+2015,03/19,NCAA Championships,133,W,DEC,4 - 3,Nick Soto,12005,Chattanooga,Mack McGuire,12004,Kent State
+2015,03/19,NCAA Championships,133,W,DEC,10 - 4,Gary Wayne Harding,20270,Oklahoma State,Mack McGuire,12004,Kent State
+2015,03/19,NCAA Championships,133,L,DEC,3 - 1,Chris Dardanes,11676,Minnesota,Mack McGuire,12004,Kent State
+2015,03/07,MAC Championships,133,W,DEC,3 - 2,Kagan Squire,13386,Ohio,Mack McGuire,12004,Kent State
+2015,03/07,MAC Championships,133,W,DEC,4 - 3,Jordan Northrup,13353,Northern Illinois,Mack McGuire,12004,Kent State
+2015,03/07,MAC Championships,133,L,DEC,3 - 2,Kagan Squire,13386,Ohio,Mack McGuire,12004,Kent State
+2015,03/07,MAC Championships,133,W,DEC,10 - 3,Vincent Pizzuto,13387,Eastern Michigan,Mack McGuire,12004,Kent State
+2015,02/13,Northern Illinois - Kent State Dual,133,W,DEC,7 - 1,Jordan Northrup,13353,Northern Illinois,Mack McGuire,12004,Kent State
+2015,02/08,Northern Iowa @ Kent State,133,W,DEC,4 - 1,Leighton Gaul,15052,Northern Iowa,Mack McGuire,12004,Kent State
+2015,02/01,Kent State - Central Michigan Dual,133,L,DEC,5 - 2,Tyler Keselring,13388,Central Michigan,Mack McGuire,12004,Kent State
+2015,01/30,Eastern Michigan - Kent State Dual,133,L,SV-1,4 - 2,Vincent Pizzuto,13387,Eastern Michigan,Mack McGuire,12004,Kent State
+2015,01/25,Kent State - Old Dominion Dual,133,W,DEC,4 - 3,Michael Hayes,15134,Old Dominion,Mack McGuire,12004,Kent State
+2015,01/24,Kent State - North Carolina State Dual,133,W,MD,10 - 2,Chris Wilkes,12043,NC State,Mack McGuire,12004,Kent State
+2015,01/18,Kent State - Edinboro Dual,133,W,MD,12 - 3,Anthony Rivera,14699,Edinboro,Mack McGuire,12004,Kent State
+2015,01/16,Ohio - Kent State Dual,133,W,FALL,1:18,Josh Parrett,20236,Ohio,Mack McGuire,12004,Kent State
+2015,01/10,Kent St. - Chattanooga Dual,133,L,DEC,7 - 3,Nick Soto,12005,Chattanooga,Mack McGuire,12004,Kent State
+2015,01/10,Kent St - The Citadel Dual,133,W,DEC,3 - 1,Aaron Hansen,11993,The Citadel,Mack McGuire,12004,Kent State
+2015,01/09,Kent St - Arizona State Dual,133,W,DEC,5 - 0,Judson Preskitt,20579,Arizona State,Mack McGuire,12004,Kent State
+2015,01/09,Virginia Tech - Kent State (Virginia Duals),133,W,FALL,4:07,Kevin Norstrem,11999,Virginia Tech,Mack McGuire,12004,Kent State
+2015,01/01,Southern Scuffle,133,W,DEC,6 - 0,Troy Heilmann,12036,North Carolina,Mack McGuire,12004,Kent State
+2015,01/01,Southern Scuffle,133,W,DEC,3 - 1,Eric Montoya,13414,Nebraska,Mack McGuire,12004,Kent State
+2015,01/01,Southern Scuffle,133,L,DEC,4 - 2,Kevin Devoy Jr,12047,Drexel,Mack McGuire,12004,Kent State
+2015,01/01,Southern Scuffle,133,L,DEC,3 - 1,Kevin Devoy Jr,12047,Drexel,Mack McGuire,12004,Kent State
+2015,01/01,Southern Scuffle,133,W,DEC,6 - 2,Mark Grey,12040,Cornell,Mack McGuire,12004,Kent State
+2015,01/01,Southern Scuffle,133,W,DEC,4 - 2,Daniel King,12138,Cleveland State,Mack McGuire,12004,Kent State
+2015,01/01,Southern Scuffle,133,W,DEC,6 - 0,Radley Gillis,19770,Chattanooga,Mack McGuire,12004,Kent State
+2015,01/01,Southern Scuffle,133,L,DEC,7 - 2,Jimmy Gulibon,13371,Penn State,Mack McGuire,12004,Kent State
+2015,12/19,Kent State - South Dakota State Dual,133,W,DEC,9 - 2,Brance Simms,11703,South Dakota State,Mack McGuire,12004,Kent State
+2015,12/19,Kent State - Southern Illinois Edwardsville Dual,133,W,DEC,9 - 2,Patrick Myers,11876,SIU Edwardsville,Mack McGuire,12004,Kent State
+2015,12/19,Kent State - Missouri Dual,133,W,DEC,2 - 0,Matt Manley,13384,Missouri,Mack McGuire,12004,Kent State
+2015,12/06,Kent State - Buffalo Dual,133,W,DEC,7 - 2,Sean Peacock,19725,Buffalo,Mack McGuire,12004,Kent State
+2015,11/22,Simonson Open,133,W,FALL,1:26,Alex Rinaldi,20120,North Carolina,Mack McGuire,12004,Kent State
+2015,11/22,Simonson Open,133,W,DEC,6 - 2,Colton Rasche,13383,Navy,Mack McGuire,12004,Kent State
+2015,11/22,Simonson Open,133,W,MD,10 - 0,Robert Dooley,19898,George Mason,Mack McGuire,12004,Kent State
+2015,11/15,Kent State - Lock Haven Dual,133,L,SV-1,5 - 3,Ronnie Perry,12058,Lock Haven,Mack McGuire,12004,Kent State
+2015,11/15,Kent State - Michigan State Dual,133,L,DEC,8 - 6,Javier Gasca,13435,Michigan State,Mack McGuire,12004,Kent State
+2015,11/15,Chattanooga - Kent State Dual,133,L,DEC,5 - 4,Nick Soto,12005,Chattanooga,Mack McGuire,12004,Kent State
+2015,11/13,Kent State - Ohio State Dual,133,L,DEC,2 - 1,Johnni DiJulius,14679,Ohio State,Mack McGuire,12004,Kent State
+2015,11/08,Brockport Invite,133,L,MD,11 - 2,Cody Brewer,12037,Oklahoma,Mack McGuire,12004,Kent State
+2015,11/08,Brockport Invite,133,W,MFOR,0 - 0,Cody Wheeler,15130,Lock Haven,Mack McGuire,12004,Kent State
+2015,11/08,Brockport Invite,133,W,DEC,8 - 3,Andy Schutz,19678,Bloomsburg,Mack McGuire,12004,Kent State
+2015,02/07,Edinboro Open,133,W,DEC,8 - 2,Ryan Hardaway,23360,Mercyhurst,Zack Durbin,19967,Kent State
+2015,02/07,Edinboro Open,133,W,DEC,8 - 1,Sam Holandez,20745,Bloomsburg,Zack Durbin,19967,Kent State
+2015,02/07,Edinboro Open,133,L,FALL,0:56,Connor Schram,14982,Stanford,Zack Durbin,19967,Kent State
+2015,02/07,Edinboro Open,133,W,MFOR,0 - 0,Ronnie Perry,12058,Lock Haven,Zack Durbin,19967,Kent State
+2015,12/13,Cleveland State Open,133,L,DEC,8 - 3,Nate Reckner,42499,Gannon,Zack Durbin,19967,Kent State
+2015,12/13,Cleveland State Open,133,L,FALL,1:35,Victor LiPari,19782,Clarion,Zack Durbin,19967,Kent State
+2015,11/22,Simonson Open,133,L,MD,11 - 3,Aaron Smith,15358,Unattached,Zack Durbin,19967,Kent State
+2015,11/22,Simonson Open,133,L,FALL,5:50,David Bavery,21022,Notre Dame,Zack Durbin,19967,Kent State
+2015,11/15,Eastern Michigan Open,133,L,MD,10 - 1,Luke Schroeder,12114,Purdue,Zack Durbin,19967,Kent State
+2015,11/08,Brockport Invite,133,L,FALL,0:59,Blake Retell,19727,Buffalo,Zack Durbin,19967,Kent State
+2015,11/08,Brockport Invite,133,L,DEC,10 - 8,Blake Retell,19727,Buffalo,Zack Durbin,19967,Kent State
+2015,11/02,Michigan State Open,133,L,MD,16 - 4,Josh Wimer,21021,Findlay,Zack Durbin,19967,Kent State
+2015,11/02,Michigan State Open,133,L,DEC,6 - 3,Kyle Noonan,19757,Central Michigan,Zack Durbin,19967,Kent State
+2015,02/15,Kent State - Illinois Dual,149,L,DEC,4 - 3,Kyle Langenderfer,15698,Illinois,Kyle Bauer,11922,Kent State
+2015,01/18,Purple Raider Open,141,W,MFOR,0 - 0,Brandon Fifield,20025,Michigan State,Kyle Bauer,11922,Kent State
+2015,01/18,Purple Raider Open,141,W,DEC,9 - 2,Jayce Carr,11983,Cleveland State,Kyle Bauer,11922,Kent State
+2015,01/01,Southern Scuffle,141,L,DEC,1 - 0,Ryan Dunphy,23949,Cornell,Kyle Bauer,11922,Kent State
+2015,01/01,Southern Scuffle,141,L,DEC,2 - 1,Cole Mendenhall,11607,Wyoming,Kyle Bauer,11922,Kent State
+2015,12/06,Kent State - Buffalo Dual,141,L,DEC,2 - 1,Jason Estevez,17873,Buffalo,Kyle Bauer,11922,Kent State
+2015,11/22,Simonson Open,141,W,DEC,4 - 2,Gabriel Grahek,11661,Wisconsin,Kyle Bauer,11922,Kent State
+2015,11/22,Simonson Open,141,W,MD,8 - 0,Ty Buckiso,20399,The Citadel,Kyle Bauer,11922,Kent State
+2015,11/22,Simonson Open,141,L,DEC,3 - 1,Noah Forrider,11648,Ohio,Kyle Bauer,11922,Kent State
+2015,11/22,Simonson Open,141,L,DEC,4 - 3,Jordan Laster,11916,Princeton,Kyle Bauer,11922,Kent State
+2015,11/15,Kent State - Lock Haven Dual,141,W,DEC,3 - 1,Robert Rehm,21101,Lock Haven,Kyle Bauer,11922,Kent State
+2015,11/15,Kent State - Michigan State Dual,141,L,FALL,5:00,Garth Yenter,13374,Michigan State,Kyle Bauer,11922,Kent State
+2015,11/15,Chattanooga - Kent State Dual,141,L,FALL,5:00,Michael Pongracz,11726,Chattanooga,Kyle Bauer,11922,Kent State
+2015,11/13,Kent State - Ohio State Dual,141,L,TF4,15 - 0 3:00,Logan Stieber,11610,Ohio State,Kyle Bauer,11922,Kent State
+2015,11/08,Brockport Invite,141,W,DEC,6 - 4,Robert Rehm,21101,Lock Haven,Kyle Bauer,11922,Kent State
+2015,11/08,Brockport Invite,141,W,DEC,6 - 0,Dalton Dennis,14727,Oklahoma,Kyle Bauer,11922,Kent State
+2015,11/08,Brockport Invite,141,W,DEC,6 - 2,Tanner Cahill,11840,Bloomsburg,Kyle Bauer,11922,Kent State
+2015,11/08,Brockport Invite,141,W,DEC,8 - 4,Logan Everett,12041,Army West Point,Kyle Bauer,11922,Kent State
+2015,11/02,Michigan State Open,141,W,DEC,3 - 2,Andrew Bannister,22712,Notre Dame,Kyle Bauer,11922,Kent State
+2015,11/02,Michigan State Open,141,W,FALL,6:33,Narcisco Inchaurregui,21026,Notre Dame,Kyle Bauer,11922,Kent State
+2015,11/02,Michigan State Open,141,W,DEC,5 - 2,Kyle Springer,37484,Eastern Michigan,Kyle Bauer,11922,Kent State
+2015,11/02,Michigan State Open,141,L,DEC,1 - 0,Jake S Smith,20479,West Virginia,Kyle Bauer,11922,Kent State
+2015,03/19,NCAA Championships,141,L,TF4,23 - 7 6:59,Devin Carter,11609,Virginia Tech,Tyler Small,11836,Kent State
+2015,03/19,NCAA Championships,141,L,FALL,5:56,Dante Rodriguez,19964,Iowa State,Tyler Small,11836,Kent State
+2015,03/07,MAC Championships,141,L,SV-2,4 - 3,Lavion Mayes,11599,Missouri,Tyler Small,11836,Kent State
+2015,03/07,MAC Championships,141,W,FALL,2:09,Joel Shump,12023,Ohio,Tyler Small,11836,Kent State
+2015,03/07,MAC Championships,141,W,DEC,6 - 2,Michael Shaw,11783,Eastern Michigan,Tyler Small,11836,Kent State
+2015,03/07,MAC Championships,141,L,FALL,5:44,Jake Hodges,11666,Northern Iowa,Tyler Small,11836,Kent State
+2015,02/15,Kent State - Illinois Dual,141,L,DEC,6 - 4,Steven Rodrigues,11888,Illinois,Tyler Small,11836,Kent State
+2015,02/13,Northern Illinois - Kent State Dual,141,W,MD,12 - 0,Tyler Argue,11722,Northern Illinois,Tyler Small,11836,Kent State
+2015,02/08,Northern Iowa @ Kent State,141,W,MD,10 - 0,Jake Hodges,11666,Northern Iowa,Tyler Small,11836,Kent State
+2015,02/01,Kent State - Central Michigan Dual,141,L,DEC,5 - 2,Zach Horan,11624,Central Michigan,Tyler Small,11836,Kent State
+2015,01/30,Eastern Michigan - Kent State Dual,141,W,MD,9 - 1,Michael Shaw,11783,Eastern Michigan,Tyler Small,11836,Kent State
+2015,01/25,Kent State - Old Dominion Dual,141,L,SV-1,3 - 1,Chris Mecate,11835,Old Dominion,Tyler Small,11836,Kent State
+2015,01/24,Kent State - North Carolina State Dual,141,L,DEC,6 - 5,Sam Speno,11813,NC State,Tyler Small,11836,Kent State
+2015,01/18,Kent State - Edinboro Dual,141,L,FALL,2:56,Mitchell Port,11732,Edinboro,Tyler Small,11836,Kent State
+2015,01/16,Ohio - Kent State Dual,141,L,DEC,5 - 4,Joel Shump,12023,Ohio,Tyler Small,11836,Kent State
+2015,01/10,Kent St. - Chattanooga Dual,141,W,SV-1,5 - 3,Michael Pongracz,11726,Chattanooga,Tyler Small,11836,Kent State
+2015,01/10,Kent St - The Citadel Dual,141,W,DEC,6 - 1,Ty Buckiso,20399,The Citadel,Tyler Small,11836,Kent State
+2015,01/09,Kent St - Arizona State Dual,141,L,DEC,3 - 0,Matt Kraus,11779,Arizona State,Tyler Small,11836,Kent State
+2015,01/01,Southern Scuffle,141,L,DEC,3 - 0,Anthony Abidin,11584,Nebraska,Tyler Small,11836,Kent State
+2015,01/01,Southern Scuffle,141,W,SV-1,3 - 1,Ryan Dunphy,23949,Cornell,Tyler Small,11836,Kent State
+2015,01/01,Southern Scuffle,141,W,SV-1,6 - 4,Luke Stewart,20788,Campbell,Tyler Small,11836,Kent State
+2015,01/01,Southern Scuffle,141,W,MFOR,0 - 0,Dante Rodriguez,19964,Iowa State,Tyler Small,11836,Kent State
+2015,01/01,Southern Scuffle,141,W,MFOR,0 - 0,Joe Spisak,11839,Virginia,Tyler Small,11836,Kent State
+2015,01/01,Southern Scuffle,141,L,FALL,6:17,George Fisher,13432,Michigan,Tyler Small,11836,Kent State
+2015,12/19,Kent State - South Dakota State Dual,141,W,MD,9 - 0,Alex Kocer,20562,South Dakota State,Tyler Small,11836,Kent State
+2015,12/19,Kent State - Southern Illinois Edwardsville Dual,141,W,DEC,6 - 1,John Petrov,15998,SIU Edwardsville,Tyler Small,11836,Kent State
+2015,12/19,Kent State - Missouri Dual,141,L,DEC,5 - 2,Lavion Mayes,11599,Missouri,Tyler Small,11836,Kent State
+2015,11/22,Simonson Open,141,W,DEC,7 - 2,Maurice Miller,22713,Notre Dame,Tyler Small,11836,Kent State
+2015,11/22,Simonson Open,141,W,MD,11 - 2,Cobey Fehr,22710,Notre Dame,Tyler Small,11836,Kent State
+2015,11/22,Simonson Open,141,W,DEC,3 - 0,Nick Hannan,23371,Mercyhurst,Tyler Small,11836,Kent State
+2015,11/22,Simonson Open,141,W,FALL,1:10,Isaiah Deguzman,23370,Notre Dame,Tyler Small,11836,Kent State
+2015,11/22,Simonson Open,141,W,DEC,7 - 4,Travis Salyer,20959,Tiffin University,Tyler Small,11836,Kent State
+2015,11/15,Eastern Michigan Open,141,W,MD,8 - 0,Connor Hughes,22682,Davidson,Tyler Small,11836,Kent State
+2015,11/08,Brockport Invite,141,W,DEC,7 - 5,Brock Zacherl,19787,Clarion,Tyler Small,11836,Kent State
+2015,11/08,Brockport Invite,141,W,DEC,7 - 0,Brandon Lapi,19724,Buffalo,Tyler Small,11836,Kent State
+2015,11/02,Michigan State Open,141,L,DEC,3 - 2,Nick Lawrence,11744,Purdue,Tyler Small,11836,Kent State
+2015,11/02,Michigan State Open,141,W,DEC,7 - 0,Ryan Ponte,20537,Columbia,Tyler Small,11836,Kent State
+2015,11/02,Michigan State Open,141,W,FALL,3:57,Sal Annoreno,11628,Northern Illinois,Tyler Small,11836,Kent State
+2015,11/02,Michigan State Open,141,W,DEC,7 - 3,Terry Turner,11991,Michigan State,Tyler Small,11836,Kent State
+2015,11/02,Michigan State Open,141,W,MFOR,0 - 0,Brandon Fifield,20025,Michigan State,Tyler Small,11836,Kent State
+2015,11/02,Michigan State Open,141,W,FALL,4:29,Michael Morales,20474,West Virginia,Tyler Small,11836,Kent State
+2015,02/07,Edinboro Open,141,L,SV-1,3 - 2,Robert Mason,23889,Ashland,Chance Driscoll,11980,Kent State
+2015,02/07,Edinboro Open,141,L,SV-1,7 - 5,Zehlin Storr,20023,Michigan,Chance Driscoll,11980,Kent State
+2015,01/18,Kent State - Edinboro Dual,141,W,FALL,1:06,Avery Henry,20722,Edinboro,Chance Driscoll,11980,Kent State
+2015,01/18,Purple Raider Open,141,L,DEC,6 - 1,Brandon Fifield,20025,Michigan State,Chance Driscoll,11980,Kent State
+2015,01/09,Virginia Tech - Kent State (Virginia Duals),141,L,TF4,29 - 14 6:08,Devin Carter,11609,Virginia Tech,Chance Driscoll,11980,Kent State
+2015,12/13,Cleveland State Open,141,L,MD,8 - 0,Max Good,19671,Bloomsburg,Chance Driscoll,11980,Kent State
+2015,12/13,Cleveland State Open,141,W,DEC,9 - 3,Nathan Coburn,15249,Old Dominion,Chance Driscoll,11980,Kent State
+2015,12/13,Cleveland State Open,141,L,DEC,10 - 4,Maurice Miller,22713,Notre Dame,Chance Driscoll,11980,Kent State
+2015,12/13,Cleveland State Open,141,W,DEC,10 - 4,Michael Sprague,19618,American,Chance Driscoll,11980,Kent State
+2015,11/22,Simonson Open,141,L,DEC,5 - 3,Cody Ross,20121,North Carolina,Chance Driscoll,11980,Kent State
+2015,11/22,Simonson Open,141,L,TF4,15 - 0 7:00,Michael Pongracz,11726,Chattanooga,Chance Driscoll,11980,Kent State
+2015,11/22,Simonson Open,141,W,MD,10 - 0,James Bell,22471,Brown,Chance Driscoll,11980,Kent State
+2015,11/15,Kent State - Michigan State Dual,141,W,DEC,8 - 5,Kyle Abdellatif,20749,Michigan State,Chance Driscoll,11980,Kent State
+2015,11/08,Brockport Invite,141,L,DEC,3 - 0,Trae Blackwell,20807,Oklahoma,Chance Driscoll,11980,Kent State
+2015,11/08,Brockport Invite,141,L,DEC,14 - 8,Rocco Russo,19728,Buffalo,Chance Driscoll,11980,Kent State
+2015,11/02,Michigan State Open,141,W,TF4,15 - 0 3:57,Derek Krajewski,23396,Spartan Combat RTC,Chance Driscoll,11980,Kent State
+2015,11/02,Michigan State Open,141,L,DEC,9 - 7,Dominic Boggia,15997,Unattached,Chance Driscoll,11980,Kent State
+2015,11/02,Michigan State Open,141,W,DEC,8 - 2,Jacob Gross,21003,Indiana Tech,Chance Driscoll,11980,Kent State
+2015,11/02,Michigan State Open,141,L,DEC,6 - 2,Cody LeCount,19754,Central Michigan,Chance Driscoll,11980,Kent State
+2015,11/02,Michigan State Open,141,W,DEC,10 - 4,Ben Griffin,19871,Eastern Michigan,Chance Driscoll,11980,Kent State
+2015,11/02,Michigan State Open,141,W,DEC,7 - 0,Josh Evans,19870,Eastern Michigan,Chance Driscoll,11980,Kent State
+2015,03/19,NCAA Championships,149,L,FALL,4:48,Kyle Langenderfer,15698,Illinois,Michael DePalma,13801,Kent State
+2015,03/19,NCAA Championships,149,L,DEC,8 - 5,CJ Cobb,24217,Pennsylvania,Michael DePalma,13801,Kent State
+2015,03/07,MAC Championships,149,W,FALL,1:52,Tywan Claxton,13846,Ohio,Michael DePalma,13801,Kent State
+2015,03/07,MAC Championships,149,L,DEC,5 - 2,Alexander Richardson,13802,Old Dominion,Michael DePalma,13801,Kent State
+2015,03/07,MAC Championships,149,W,FALL,3:21,Nicholas Barber,11739,Eastern Michigan,Michael DePalma,13801,Kent State
+2015,03/07,MAC Championships,149,W,DEC,3 - 1,Colin Heffernan,13795,Central Michigan,Michael DePalma,13801,Kent State
+2015,02/13,Northern Illinois - Kent State Dual,149,W,MD,9 - 0,Austin Culton,20198,Northern Illinois,Michael DePalma,13801,Kent State
+2015,02/08,Northern Iowa @ Kent State,149,W,FALL,1:21,Gunnar Wolfensperger,13604,Northern Iowa,Michael DePalma,13801,Kent State
+2015,02/01,Kent State - Central Michigan Dual,149,L,DEC,5 - 1,Colin Heffernan,13795,Central Michigan,Michael DePalma,13801,Kent State
+2015,01/30,Eastern Michigan - Kent State Dual,149,L,DEC,10 - 4,Nicholas Barber,11739,Eastern Michigan,Michael DePalma,13801,Kent State
+2015,01/25,Kent State - Old Dominion Dual,149,L,FALL,1:30,Alexander Richardson,13802,Old Dominion,Michael DePalma,13801,Kent State
+2015,01/24,Kent State - North Carolina State Dual,149,L,FALL,1:38,Beau Donahue,11933,NC State,Michael DePalma,13801,Kent State
+2015,01/18,Kent State - Edinboro Dual,149,L,DEC,4 - 3,Dave Habat,13800,Edinboro,Michael DePalma,13801,Kent State
+2015,01/16,Ohio - Kent State Dual,149,L,DEC,9 - 4,Tywan Claxton,13846,Ohio,Michael DePalma,13801,Kent State
+2015,01/10,Kent St. - Chattanooga Dual,149,L,TF4,17 - 2 6:57,Shawn Greevy,13799,Chattanooga,Michael DePalma,13801,Kent State
+2015,01/10,Kent St - The Citadel Dual,149,L,DEC,7 - 4,Matt Frisch,13722,The Citadel,Michael DePalma,13801,Kent State
+2015,01/09,Kent St - Arizona State Dual,149,L,FALL,4:13,Christian Pagdilao,20575,Arizona State,Michael DePalma,13801,Kent State
+2015,01/09,Virginia Tech - Kent State (Virginia Duals),149,L,FALL,2:06,Sal Mastriani,13766,Virginia Tech,Michael DePalma,13801,Kent State
+2015,01/01,Southern Scuffle,149,L,DEC,4 - 2,Beau Donahue,11933,NC State,Michael DePalma,13801,Kent State
+2015,01/01,Southern Scuffle,149,W,TF4,16 - 0 7:00,Nate Valentine,13828,Kent State,Michael DePalma,13801,Kent State
+2015,01/01,Southern Scuffle,149,L,DEC,11 - 4,Drew Longo,18193,Lehigh,Michael DePalma,13801,Kent State
+2015,12/19,Kent State - South Dakota State Dual,149,W,DEC,3 - 2,Colin Holler,13485,South Dakota State,Michael DePalma,13801,Kent State
+2015,12/19,Kent State - Southern Illinois Edwardsville Dual,149,W,TF4,15 - 0 7:00,Karsten Van Velsor,13807,SIU Edwardsville,Michael DePalma,13801,Kent State
+2015,12/19,Kent State - Missouri Dual,149,L,TF4,16 - 0 5:00,Drake Houdashelt,13640,Missouri,Michael DePalma,13801,Kent State
+2015,12/13,Cleveland State Open,149,W,MD,9 - 0,James Jenkins,23875,Notre Dame,Michael DePalma,13801,Kent State
+2015,12/13,Cleveland State Open,149,W,MD,12 - 1,Zach Dailey,20971,Notre Dame,Michael DePalma,13801,Kent State
+2015,12/13,Cleveland State Open,149,W,DEC,8 - 5,Colin Heffernan,13795,Central Michigan,Michael DePalma,13801,Kent State
+2015,12/13,Cleveland State Open,149,W,TF4,16 - 0 7:00,Ryan Martini,23876,Mercyhurst,Michael DePalma,13801,Kent State
+2015,12/13,Cleveland State Open,149,W,FALL,2:49,Eric Wolfe,23354,Notre Dame,Michael DePalma,13801,Kent State
+2015,12/13,Cleveland State Open,149,W,MD,10 - 2,Ryan Mosley,11753,Gardner-Webb,Michael DePalma,13801,Kent State
+2015,12/06,Kent State - Buffalo Dual,149,W,FALL,4:29,Justin Cooksey,19715,Buffalo,Michael DePalma,13801,Kent State
+2015,11/22,Simonson Open,149,L,FALL,1:28,Konbeh Koroma,19902,George Mason,Michael DePalma,13801,Kent State
+2015,11/22,Simonson Open,149,L,FALL,4:54,Shawn Greevy,13799,Chattanooga,Michael DePalma,13801,Kent State
+2015,11/22,Simonson Open,149,W,DEC,5 - 3,Steven Galiardo,11797,Brown,Michael DePalma,13801,Kent State
+2015,11/22,Simonson Open,149,W,DEC,7 - 3,William McDonald,15839,Brown,Michael DePalma,13801,Kent State
+2015,11/15,Kent State - Lock Haven Dual,149,L,FALL,5:56,Dan Neff,11761,Lock Haven,Michael DePalma,13801,Kent State
+2015,11/15,Kent State - Michigan State Dual,149,L,SV-1,8 - 6,Nick Trimble,13665,Michigan State,Michael DePalma,13801,Kent State
+2015,11/15,Chattanooga - Kent State Dual,149,W,DEC,10 - 8,Shawn Greevy,13799,Chattanooga,Michael DePalma,13801,Kent State
+2015,11/13,Kent State - Ohio State Dual,149,W,MD,12 - 0,Blake Riley-Hawkins,20558,Ohio State,Michael DePalma,13801,Kent State
+2015,01/10,Kent St - The Citadel Dual,157,L,DEC,4 - 1,Aaron Walker,13517,The Citadel,Nate Valentine,13828,Kent State
+2015,01/01,Southern Scuffle,149,L,TF4,16 - 0 7:00,Michael DePalma,13801,Kent State,Nate Valentine,13828,Kent State
+2015,01/01,Southern Scuffle,149,L,MD,13 - 0,Matt Frisch,13722,The Citadel,Nate Valentine,13828,Kent State
+2015,12/13,Cleveland State Open,149,L,FALL,2:40,Ryan Snow,40301,Bloomsburg,Nate Valentine,13828,Kent State
+2015,12/13,Cleveland State Open,149,L,DEC,2 - 0,Trevor Hoffmier,19719,Buffalo,Nate Valentine,13828,Kent State
+2015,12/13,Cleveland State Open,149,W,DEC,8 - 2,Hunter Sharf,20021,Michigan,Nate Valentine,13828,Kent State
+2015,11/22,Simonson Open,149,W,DEC,4 - 2,Blake Peek,11798,Navy,Nate Valentine,13828,Kent State
+2015,11/22,Simonson Open,149,L,MD,13 - 0,Chris Perez,12006,Princeton,Nate Valentine,13828,Kent State
+2015,11/15,Kent State - Lock Haven Dual,149,W,MFOR,0 - 0,Tanner Sutton,11843,Lock Haven,Nate Valentine,13828,Kent State
+2015,11/15,Kent State - Michigan State Dual,149,L,DEC,2 - 0,Josh Pennell,13862,Michigan State,Nate Valentine,13828,Kent State
+2015,11/08,Brockport Invite,149,L,MD,12 - 3,Shayne Tucker,14788,Oklahoma,Nate Valentine,13828,Kent State
+2015,11/08,Brockport Invite,149,W,DEC,4 - 2,Dan Reagan,13810,Unattached,Nate Valentine,13828,Kent State
+2015,11/08,Brockport Invite,149,L,MD,8 - 0,Mark Marchetti,13931,Army West Point,Nate Valentine,13828,Kent State
+2015,11/02,Michigan State Open,149,L,DEC,9 - 3,Casey Sparkman,19970,Kent State,Nate Valentine,13828,Kent State
+2015,11/02,Michigan State Open,149,L,DEC,6 - 0,Josh Pennell,13862,Michigan State,Nate Valentine,13828,Kent State
+2015,03/19,NCAA Championships,157,W,DEC,9 - 4,Doug Welch,14760,Purdue,Ian Miller,11851,Kent State
+2015,03/19,NCAA Championships,157,W,TF4,24 - 6 5:26,Alex Elder,18158,Oregon State,Ian Miller,11851,Kent State
+2015,03/19,NCAA Championships,157,W,FALL,5:07,Justin DeAngelis,20257,Oklahoma,Ian Miller,11851,Kent State
+2015,03/19,NCAA Championships,157,L,MD,13 - 4,James Green,13471,Nebraska,Ian Miller,11851,Kent State
+2015,03/19,NCAA Championships,157,W,DEC,8 - 4,Brian Murphy,13518,Michigan,Ian Miller,11851,Kent State
+2015,03/19,NCAA Championships,157,L,SV-1,11 - 9,Brian Realbuto,13519,Cornell,Ian Miller,11851,Kent State
+2015,03/19,NCAA Championships,157,W,MFOR,0 - 0,Dylan Ness,13472,Minnesota,Ian Miller,11851,Kent State
+2015,03/07,MAC Championships,157,W,DEC,4 - 2,Joey Lavallee,13513,Missouri,Ian Miller,11851,Kent State
+2015,03/07,MAC Championships,157,W,MD,14 - 5,Devin Geoghegan,14859,Old Dominion,Ian Miller,11851,Kent State
+2015,03/07,MAC Championships,157,W,DEC,13 - 6,Brandon Zeerip,19877,Eastern Michigan,Ian Miller,11851,Kent State
+2015,02/15,Kent State - Illinois Dual,157,L,FALL,6:35,Isaiah Martinez,13466,Illinois,Ian Miller,11851,Kent State
+2015,02/13,Northern Illinois - Kent State Dual,157,W,MD,15 - 4,Andrew Morse,13512,Northern Illinois,Ian Miller,11851,Kent State
+2015,02/08,Northern Iowa @ Kent State,157,L,DEC,5 - 4,Jarrett Jensen,13534,Northern Iowa,Ian Miller,11851,Kent State
+2015,02/01,Kent State - Central Michigan Dual,157,W,DEC,5 - 2,Cody LeCount,19754,Central Michigan,Ian Miller,11851,Kent State
+2015,01/30,Eastern Michigan - Kent State Dual,157,W,TF4,19 - 4 7:00,Brandon Zeerip,19877,Eastern Michigan,Ian Miller,11851,Kent State
+2015,01/25,Kent State - Old Dominion Dual,157,W,MD,19 - 5,Devin Geoghegan,14859,Old Dominion,Ian Miller,11851,Kent State
+2015,01/24,Kent State - North Carolina State Dual,157,W,DEC,8 - 3,Chad Pyke,13555,NC State,Ian Miller,11851,Kent State
+2015,01/18,Kent State - Edinboro Dual,157,W,TF4,17 - 2 7:00,Kasey Davis,14868,Edinboro,Ian Miller,11851,Kent State
+2015,01/16,Ohio - Kent State Dual,157,W,FALL,1:31,Spartak Chino,13542,Ohio,Ian Miller,11851,Kent State
+2015,01/01,Southern Scuffle,157,W,DEC,12 - 5,Noel Blanco,11950,Drexel,Ian Miller,11851,Kent State
+2015,01/01,Southern Scuffle,157,L,MFOR,0 - 0,Zack Strickland,14892,Appalachian State,Ian Miller,11851,Kent State
+2015,01/01,Southern Scuffle,157,L,MFOR,0 - 0,Maxwell Hvolbek,15823,Stanford,Ian Miller,11851,Kent State
+2015,12/19,Kent State - South Dakota State Dual,157,W,DEC,7 - 3,Cody Pack,13498,South Dakota State,Ian Miller,11851,Kent State
+2015,12/19,Kent State - Southern Illinois Edwardsville Dual,157,W,MD,12 - 2,Erik Travers,20386,SIU Edwardsville,Ian Miller,11851,Kent State
+2015,12/19,Kent State - Missouri Dual,157,W,SV-1,3 - 1,Joey Lavallee,13513,Missouri,Ian Miller,11851,Kent State
+2015,12/06,Kent State - Buffalo Dual,157,W,FALL,5:40,Wally Maziarz,11459,Buffalo,Ian Miller,11851,Kent State
+2015,11/13,Kent State - Ohio State Dual,157,L,MFOR,0 - 0,Josh Demas,20245,Ohio State,Ian Miller,11851,Kent State
+2015,02/14,Ashland Open,157,W,MFOR,0 - 0,Peyton Geary,23381,Wisconsin-Whitewater,Casey Sparkman,19970,Kent State
+2015,02/14,Ashland Open,157,W,DEC,8 - 4,Thomas Williams,15821,Ohio,Casey Sparkman,19970,Kent State
+2015,02/14,Ashland Open,157,W,MD,17 - 7,Adam Kehr,24471,Lake Erie College,Casey Sparkman,19970,Kent State
+2015,02/07,Edinboro Open,157,W,MD,23 - 10,Mason McCollum,23382,Mercyhurst,Casey Sparkman,19970,Kent State
+2015,02/07,Edinboro Open,157,L,DEC,11 - 6,Chase Delande,15217,Edinboro,Casey Sparkman,19970,Kent State
+2015,02/07,Edinboro Open,157,W,DEC,10 - 4,Tevin Machart,19755,Central Michigan,Casey Sparkman,19970,Kent State
+2015,02/07,Edinboro Open,157,L,TB-2,3 - 1,Cody LeCount,19754,Central Michigan,Casey Sparkman,19970,Kent State
+2015,12/13,Cleveland State Open,157,W,DEC,12 - 6,Grayson Davis,20227,Ohio,Casey Sparkman,19970,Kent State
+2015,12/13,Cleveland State Open,157,W,MD,13 - 5,Ryan Dougherty,20744,Bloomsburg,Casey Sparkman,19970,Kent State
+2015,12/13,Cleveland State Open,157,L,DEC,6 - 3,Jake Danishek,20520,Indiana,Casey Sparkman,19970,Kent State
+2015,12/13,Cleveland State Open,157,L,MFOR,0 - 0,John Boyle,13875,American,Casey Sparkman,19970,Kent State
+2015,11/22,Simonson Open,157,L,DEC,2 - 1,Jonatan Rivera,20997,Notre Dame,Casey Sparkman,19970,Kent State
+2015,11/22,Simonson Open,157,W,DEC,3 - 2,Zebulan Beam,22533,Ashland,Casey Sparkman,19970,Kent State
+2015,11/22,Simonson Open,157,W,DEC,3 - 2,Travis Curley,14841,Michigan State,Casey Sparkman,19970,Kent State
+2015,11/22,Simonson Open,157,W,DEC,3 - 1,Jarad VanVleet,22741,Findlay,Casey Sparkman,19970,Kent State
+2015,11/22,Simonson Open,157,W,MD,11 - 2,JP Newton,20250,Ohio State,Casey Sparkman,19970,Kent State
+2015,11/15,Kent State - Michigan State Dual,157,L,DEC,4 - 1,Joe Johnson,13814,Michigan State,Casey Sparkman,19970,Kent State
+2015,11/02,Michigan State Open,149,L,DEC,4 - 3,Ben Whitford,21806,Unattached,Casey Sparkman,19970,Kent State
+2015,11/02,Michigan State Open,149,W,DEC,3 - 2,Robert Janis,13881,Maryland,Casey Sparkman,19970,Kent State
+2015,11/02,Michigan State Open,149,W,DEC,12 - 9,Ben Whitford,21806,Unattached,Casey Sparkman,19970,Kent State
+2015,11/02,Michigan State Open,149,W,DEC,9 - 3,Nate Valentine,13828,Kent State,Casey Sparkman,19970,Kent State
+2015,11/02,Michigan State Open,149,L,SV-1,6 - 4,Steve Bleise,20195,Northern Illinois,Casey Sparkman,19970,Kent State
+2015,11/02,Michigan State Open,149,W,DEC,11 - 5,Corey Wilding,20626,Navy,Casey Sparkman,19970,Kent State
+2015,11/02,Michigan State Open,149,W,TF4,18 - 3 3:50,Kaelan Richards,13866,Michigan State,Casey Sparkman,19970,Kent State
+2015,11/15,Kent State - Lock Haven Dual,157,W,FALL,5:45,Elias Biddle,13764,Lock Haven,Jacob Globke,16906,Kent State
+2015,11/15,Kent State - Michigan State Dual,157,L,TF4,15 - 0 5:00,Roger Wildmo,13469,Michigan State,Jacob Globke,16906,Kent State
+2015,11/02,Michigan State Open,157,L,DEC,7 - 1,Chase Hack,21047,Indiana Tech,Jacob Globke,16906,Kent State
+2015,11/02,Michigan State Open,157,W,FALL,2:59,jon denikas,21809,Harvard,Jacob Globke,16906,Kent State
+2015,11/02,Michigan State Open,157,W,DEC,3 - 0,Jarad VanVleet,22741,Findlay,Jacob Globke,16906,Kent State
+2015,11/02,Michigan State Open,157,L,DEC,2 - 1,Drew Daniels,20601,Navy,Jacob Globke,16906,Kent State
+2015,01/10,Kent St. - Chattanooga Dual,157,L,DEC,8 - 6,Austin Sams,14020,Chattanooga,Andrew Candiello,13561,Kent State
+2015,01/09,Kent St - Arizona State Dual,157,L,FALL,1:56,Oliver Pierce,20578,Arizona State,Andrew Candiello,13561,Kent State
+2015,01/09,Virginia Tech - Kent State (Virginia Duals),157,L,DEC,14 - 7,Jake Spengler,20454,Virginia Tech,Andrew Candiello,13561,Kent State
+2015,11/22,Simonson Open,157,L,FALL,1:25,Jarod Donar,13598,Wisconsin,Andrew Candiello,13561,Kent State
+2015,11/22,Simonson Open,157,W,DEC,9 - 5,Alberto Salabarria,20621,Navy,Andrew Candiello,13561,Kent State
+2015,11/22,Simonson Open,157,L,DEC,5 - 3,Austin Sams,14020,Chattanooga,Andrew Candiello,13561,Kent State
+2015,11/15,Chattanooga - Kent State Dual,157,W,FALL,6:47,Austin Sams,14020,Chattanooga,Andrew Candiello,13561,Kent State
+2015,11/08,Brockport Invite,157,L,SV-1,2 - 1,Alex Smythe,19730,Buffalo,Andrew Candiello,13561,Kent State
+2015,11/08,Brockport Invite,157,L,FALL,4:51,Wally Maziarz,11459,Buffalo,Andrew Candiello,13561,Kent State
+2015,11/02,Michigan State Open,157,L,DEC,3 - 2,Joey White,21014,Findlay,Andrew Candiello,13561,Kent State
+2015,11/02,Michigan State Open,157,L,FALL,2:02,Roger Wildmo,13469,Michigan State,Andrew Candiello,13561,Kent State
+2015,03/07,MAC Championships,165,L,DEC,3 - 2,Shaun'Qae McMurtry,15516,Northern Illinois,Tyler Buckwalter,15498,Kent State
+2015,03/07,MAC Championships,165,L,DEC,3 - 2,Harrison Hightower,11491,Ohio,Tyler Buckwalter,15498,Kent State
+2015,02/15,Kent State - Illinois Dual,165,L,DEC,9 - 4,Jackson Morse,14762,Illinois,Tyler Buckwalter,15498,Kent State
+2015,02/13,Northern Illinois - Kent State Dual,165,W,DEC,8 - 5,Shaun'Qae McMurtry,15516,Northern Illinois,Tyler Buckwalter,15498,Kent State
+2015,02/08,Northern Iowa @ Kent State,165,L,DEC,7 - 2,Cooper Moore,11482,Northern Iowa,Tyler Buckwalter,15498,Kent State
+2015,02/01,Kent State - Central Michigan Dual,165,L,TB-1,4 - 2,Jordan Wohlfert,19762,Central Michigan,Tyler Buckwalter,15498,Kent State
+2015,01/30,Eastern Michigan - Kent State Dual,165,W,DEC,9 - 5,Devan Marry,14832,Eastern Michigan,Tyler Buckwalter,15498,Kent State
+2015,01/25,Kent State - Old Dominion Dual,165,L,DEC,8 - 1,Tristan Warner,13553,Old Dominion,Tyler Buckwalter,15498,Kent State
+2015,01/24,Kent State - North Carolina State Dual,165,W,DEC,8 - 7,Max Rohskopf,13645,NC State,Tyler Buckwalter,15498,Kent State
+2015,01/18,Kent State - Edinboro Dual,165,W,DEC,3 - 2,Casey Fuller,14860,Edinboro,Tyler Buckwalter,15498,Kent State
+2015,01/16,Ohio - Kent State Dual,165,W,DEC,4 - 0,Harrison Hightower,11491,Ohio,Tyler Buckwalter,15498,Kent State
+2015,01/10,Kent St. - Chattanooga Dual,165,W,DEC,4 - 2,John Lampe,12444,Chattanooga,Tyler Buckwalter,15498,Kent State
+2015,01/10,Kent St - The Citadel Dual,165,W,TF4,16 - 1 7:00,William Connell,24462,The Citadel,Tyler Buckwalter,15498,Kent State
+2015,01/09,Kent St - Arizona State Dual,165,W,DEC,6 - 3,Jacen Petersen,20577,Arizona State,Tyler Buckwalter,15498,Kent State
+2015,01/09,Virginia Tech - Kent State (Virginia Duals),165,W,DEC,7 - 1,Chad Strube,13878,Virginia Tech,Tyler Buckwalter,15498,Kent State
+2015,01/01,Southern Scuffle,165,W,DEC,2 - 1,Stacy Davis,22281,NC State,Tyler Buckwalter,15498,Kent State
+2015,01/01,Southern Scuffle,165,L,FALL,1:28,Austin Trott,14906,Gardner-Webb,Tyler Buckwalter,15498,Kent State
+2015,01/01,Southern Scuffle,165,W,TB-2,3 - 2,Paul Duggan,14910,Campbell,Tyler Buckwalter,15498,Kent State
+2015,01/01,Southern Scuffle,165,L,DEC,4 - 1,Chandler Smith,11484,Army West Point,Tyler Buckwalter,15498,Kent State
+2015,12/19,Kent State - South Dakota State Dual,165,W,FALL,2:54,John Nething II,12326,South Dakota State,Tyler Buckwalter,15498,Kent State
+2015,12/19,Kent State - Southern Illinois Edwardsville Dual,165,W,FALL,4:55,Casey Bartee,12921,SIU Edwardsville,Tyler Buckwalter,15498,Kent State
+2015,12/19,Kent State - Missouri Dual,165,W,DEC,9 - 7,Cody Johnston,12284,Missouri,Tyler Buckwalter,15498,Kent State
+2015,12/13,Cleveland State Open,165,W,MD,9 - 1,Alonzo Turner,22044,Findlay,Tyler Buckwalter,15498,Kent State
+2015,12/13,Cleveland State Open,165,W,MD,15 - 3,Nick Miller,23347,Mercyhurst,Tyler Buckwalter,15498,Kent State
+2015,12/13,Cleveland State Open,165,W,MD,9 - 1,Rich Eva,20334,Princeton,Tyler Buckwalter,15498,Kent State
+2015,12/13,Cleveland State Open,165,W,MFOR,0 - 0,Bryce Martin,20524,Indiana,Tyler Buckwalter,15498,Kent State
+2015,12/13,Cleveland State Open,165,L,MD,13 - 5,Bryce Martin,20524,Indiana,Tyler Buckwalter,15498,Kent State
+2015,12/13,Cleveland State Open,165,W,DEC,4 - 2,Paul Duggan,14910,Campbell,Tyler Buckwalter,15498,Kent State
+2015,12/13,Cleveland State Open,165,L,DEC,6 - 4,Derek Davison,14835,Eastern Michigan,Tyler Buckwalter,15498,Kent State
+2015,12/06,Kent State - Buffalo Dual,165,L,DEC,7 - 4,Rrok Ndokaj,12255,Buffalo,Tyler Buckwalter,15498,Kent State
+2015,11/15,Kent State - Lock Haven Dual,165,L,DEC,4 - 3,Aaron McKinney,14815,Lock Haven,Tyler Buckwalter,15498,Kent State
+2015,11/15,Kent State - Michigan State Dual,165,L,DEC,8 - 3,Ryan Watts,13531,Michigan State,Tyler Buckwalter,15498,Kent State
+2015,11/15,Chattanooga - Kent State Dual,165,L,TF4,17 - 2 7:00,Corey Mock,11541,Chattanooga,Tyler Buckwalter,15498,Kent State
+2015,11/13,Kent State - Ohio State Dual,165,L,FALL,6:44,Justin Kresevic,14838,Ohio State,Tyler Buckwalter,15498,Kent State
+2015,11/08,Brockport Invite,165,L,DEC,6 - 0,Aaron McKinney,14815,Lock Haven,Tyler Buckwalter,15498,Kent State
+2015,11/08,Brockport Invite,165,W,DEC,9 - 2,Dillon Gavlock,13920,Lock Haven,Tyler Buckwalter,15498,Kent State
+2015,11/08,Brockport Invite,165,W,FALL,1:32,Michael Falcon,41432,Brockport,Tyler Buckwalter,15498,Kent State
+2015,11/08,Brockport Invite,165,W,MD,15 - 2,Rrok Ndokaj,12255,Buffalo,Tyler Buckwalter,15498,Kent State
+2015,11/08,Brockport Invite,165,W,DEC,6 - 0,Brandon Meisner,17845,Bloomsburg,Tyler Buckwalter,15498,Kent State
+2015,11/08,Brockport Invite,165,L,MD,15 - 2,Cole Gracey,11479,Army West Point,Tyler Buckwalter,15498,Kent State
+2015,02/07,Edinboro Open,165,L,TB-2,3 - 2,Michael Coleman,20598,Navy,Isaac Bast,19972,Kent State
+2015,02/07,Edinboro Open,165,L,MD,14 - 2,Aaron McKinney,14815,Lock Haven,Isaac Bast,19972,Kent State
+2015,01/18,Purple Raider Open,165,W,DEC,4 - 3,Matt Pasqualini,15825,Michigan State,Isaac Bast,19972,Kent State
+2015,01/18,Purple Raider Open,165,W,MD,13 - 5,Ryan Therrien,14813,Buffalo,Isaac Bast,19972,Kent State
+2015,12/13,Cleveland State Open,165,W,MD,15 - 3,Derek Holcomb,19720,Buffalo,Isaac Bast,19972,Kent State
+2015,12/13,Cleveland State Open,165,L,DEC,8 - 5,Garrett Sutton,20024,Michigan,Isaac Bast,19972,Kent State
+2015,12/13,Cleveland State Open,165,L,DEC,3 - 1,Bryce Martin,20524,Indiana,Isaac Bast,19972,Kent State
+2015,12/13,Cleveland State Open,165,W,DEC,5 - 1,John Weiss,20790,Campbell,Isaac Bast,19972,Kent State
+2015,12/13,Cleveland State Open,165,W,DEC,5 - 3,Brad Mutchnik,20532,American,Isaac Bast,19972,Kent State
+2015,11/15,Kent State - Lock Haven Dual,165,W,DEC,6 - 2,Dillon Gavlock,13920,Lock Haven,Isaac Bast,19972,Kent State
+2015,11/02,Michigan State Open,165,L,DEC,7 - 6,Garrett Sutton,20024,Michigan,Isaac Bast,19972,Kent State
+2015,11/02,Michigan State Open,165,W,DEC,4 - 3,Randy Caris,41949,Findlay,Isaac Bast,19972,Kent State
+2015,11/02,Michigan State Open,165,L,FALL,4:40,Emery Parker,19939,Illinois,Isaac Bast,19972,Kent State
+2015,03/07,MAC Championships,184,L,TF4,16 - 0 5:12,Jack Dechow,12476,Old Dominion,Jerald Spohn,12856,Kent State
+2015,03/07,MAC Championships,184,L,DEC,7 - 6,Austin Severn,12293,Central Michigan,Jerald Spohn,12856,Kent State
+2015,03/07,MAC Championships,184,L,INJ,7:00,Cody Caldwell,12376,Northern Iowa,Jerald Spohn,12856,Kent State
+2015,03/07,MAC Championships,184,W,SV-1,8 - 6,Cody Caldwell,12376,Northern Iowa,Jerald Spohn,12856,Kent State
+2015,02/15,Kent State - Illinois Dual,184,L,DEC,6 - 3,Nikko Reyes,12688,Illinois,Jerald Spohn,12856,Kent State
+2015,02/13,Northern Illinois - Kent State Dual,184,W,DEC,9 - 7,Quinton Rosser,20206,Northern Illinois,Jerald Spohn,12856,Kent State
+2015,02/08,Northern Iowa @ Kent State,184,L,DEC,10 - 5,Kyle Lux,12278,Northern Iowa,Jerald Spohn,12856,Kent State
+2015,02/01,Kent State - Central Michigan Dual,184,W,MD,15 - 4,Christian Brucki,20980,Central Michigan,Jerald Spohn,12856,Kent State
+2015,01/30,Eastern Michigan - Kent State Dual,184,W,DEC,6 - 4,Mike Curby,12262,Eastern Michigan,Jerald Spohn,12856,Kent State
+2015,01/25,Kent State - Old Dominion Dual,184,L,MD,16 - 6,Jack Dechow,12476,Old Dominion,Jerald Spohn,12856,Kent State
+2015,01/24,Kent State - North Carolina State Dual,184,L,DEC,9 - 5,Nicky Hall,20129,NC State,Jerald Spohn,12856,Kent State
+2015,01/18,Kent State - Edinboro Dual,184,L,DEC,14 - 9,Nick Mitchell,12625,Edinboro,Jerald Spohn,12856,Kent State
+2015,01/16,Ohio - Kent State Dual,184,W,DEC,6 - 3,Andrew Romanchik,13530,Ohio,Jerald Spohn,12856,Kent State
+2015,01/10,Kent St. - Chattanooga Dual,174,L,FALL,1:27,Sean Mappes,19775,Chattanooga,Jerald Spohn,12856,Kent State
+2015,01/10,Kent St - The Citadel Dual,174,W,SV-1,7 - 5,Kenneth Radford,11480,The Citadel,Jerald Spohn,12856,Kent State
+2015,01/09,Kent St - Arizona State Dual,174,L,DEC,11 - 6,Ray Waters,15279,Arizona State,Jerald Spohn,12856,Kent State
+2015,01/09,Virginia Tech - Kent State (Virginia Duals),174,L,FALL,1:51,Zach Epperly,12258,Virginia Tech,Jerald Spohn,12856,Kent State
+2015,01/01,Southern Scuffle,165,L,FALL,1:04,Austin Wilson,11470,Nebraska,Jerald Spohn,12856,Kent State
+2015,01/01,Southern Scuffle,165,W,DEC,6 - 0,Logan Molina,13740,Iowa State,Jerald Spohn,12856,Kent State
+2015,01/01,Southern Scuffle,165,L,FALL,2:49,Santiago Martinez,19981,Lehigh,Jerald Spohn,12856,Kent State
+2015,12/19,Kent State - Southern Illinois Edwardsville Dual,174,L,FALL,2:00,Jake Residori,12297,SIU Edwardsville,Jerald Spohn,12856,Kent State
+2015,12/13,Cleveland State Open,165,L,MD,14 - 4,Jordan Wohlfert,19762,Central Michigan,Jerald Spohn,12856,Kent State
+2015,12/13,Cleveland State Open,165,W,MD,16 - 4,Ryan Kromer,23894,Missouri Valley,Jerald Spohn,12856,Kent State
+2015,12/13,Cleveland State Open,165,W,DEC,7 - 0,Rich Eva,20334,Princeton,Jerald Spohn,12856,Kent State
+2015,12/13,Cleveland State Open,165,W,FALL,1:14,Dakota Juarez,19873,Eastern Michigan,Jerald Spohn,12856,Kent State
+2015,12/13,Cleveland State Open,165,L,MD,15 - 5,Derek Davison,14835,Eastern Michigan,Jerald Spohn,12856,Kent State
+2015,12/06,Kent State - Buffalo Dual,174,W,DEC,6 - 0,Austin Weigel,15015,Buffalo,Jerald Spohn,12856,Kent State
+2015,11/22,Simonson Open,165,L,TF4,15 - 0 7:00,Peyton Walsh,11485,Navy,Jerald Spohn,12856,Kent State
+2015,11/22,Simonson Open,165,L,TF4,15 - 0 7:00,Michael Coleman,20598,Navy,Jerald Spohn,12856,Kent State
+2015,11/22,Simonson Open,165,W,DEC,4 - 2,Robert Schlitt,11503,Bucknell,Jerald Spohn,12856,Kent State
+2015,11/22,Simonson Open,165,W,DEC,9 - 3,Laurent Remillard,22484,Brown,Jerald Spohn,12856,Kent State
+2015,11/15,Eastern Michigan Open,165,W,DEC,9 - 5,Peter Andreotti,20342,Purdue,Jerald Spohn,12856,Kent State
+2015,11/08,Brockport Invite,165,L,FALL,1:10,Dillon Gavlock,13920,Lock Haven,Jerald Spohn,12856,Kent State
+2015,11/08,Brockport Invite,165,L,DEC,6 - 5,Aaron McKinney,14815,Lock Haven,Jerald Spohn,12856,Kent State
+2015,11/08,Brockport Invite,165,W,MD,12 - 3,Ryan Therrien,14813,Buffalo,Jerald Spohn,12856,Kent State
+2015,11/08,Brockport Invite,165,L,DEC,10 - 7,Rrok Ndokaj,12255,Buffalo,Jerald Spohn,12856,Kent State
+2015,11/08,Brockport Invite,165,W,DEC,7 - 0,Troy Taylor,19644,Army West Point,Jerald Spohn,12856,Kent State
+2015,11/02,Michigan State Open,165,L,FALL,2:33,Garrett Sutton,20024,Michigan,Jerald Spohn,12856,Kent State
+2015,11/02,Michigan State Open,165,W,TF4,15 - 0 4:55,Jairod James,19971,Kent State,Jerald Spohn,12856,Kent State
+2015,11/02,Michigan State Open,165,W,DEC,9 - 6,Zack Ladich,41327,Notre Dame,Jerald Spohn,12856,Kent State
+2015,11/02,Michigan State Open,165,W,DEC,6 - 2,Peter Andreotti,20342,Purdue,Jerald Spohn,12856,Kent State
+2015,11/02,Michigan State Open,165,W,DEC,8 - 6,Jordan Atienza,19747,Central Michigan,Jerald Spohn,12856,Kent State
+2015,11/22,Simonson Open,165,L,MFOR,0 - 0,Ehrin Lee,23056,Mercyhurst,Jairod James,19971,Kent State
+2015,11/22,Simonson Open,165,L,MFOR,0 - 0,Kaegan Pearsall,23372,Baldwin Wallace,Jairod James,19971,Kent State
+2015,11/02,Michigan State Open,165,L,TF4,15 - 0 4:55,Jerald Spohn,12856,Kent State,Jairod James,19971,Kent State
+2015,11/02,Michigan State Open,165,W,MD,14 - 4,Duncan Ibister,21173,Purdue,Jairod James,19971,Kent State
+2015,11/02,Michigan State Open,165,W,DEC,7 - 5,Dakota Juarez,19873,Eastern Michigan,Jairod James,19971,Kent State
+2015,11/02,Michigan State Open,165,L,FALL,4:23,Austin Reese,20240,Ohio,Jairod James,19971,Kent State
+2015,03/07,MAC Championships,174,W,MD,10 - 0,Austin Coburn,12273,Old Dominion,Caleb Marsh,14094,Kent State
+2015,03/07,MAC Championships,174,L,DEC,6 - 2,Johnny Eblen,12537,Missouri,Caleb Marsh,14094,Kent State
+2015,03/07,MAC Championships,174,W,DEC,10 - 6,Trace Engelkes,11506,Northern Illinois,Caleb Marsh,14094,Kent State
+2015,03/07,MAC Championships,174,L,DEC,4 - 3,Jordan Ellingwood,14564,Central Michigan,Caleb Marsh,14094,Kent State
+2015,02/15,Kent State - Illinois Dual,174,L,DEC,3 - 2,Zac Brunson,15112,Illinois,Caleb Marsh,14094,Kent State
+2015,02/13,Northern Illinois - Kent State Dual,174,W,DEC,10 - 4,Trace Engelkes,11506,Northern Illinois,Caleb Marsh,14094,Kent State
+2015,02/08,Northern Iowa @ Kent State,174,L,DEC,5 - 1,Curt Maas,11528,Northern Iowa,Caleb Marsh,14094,Kent State
+2015,02/01,Kent State - Central Michigan Dual,174,L,DEC,7 - 0,Jordan Ellingwood,14564,Central Michigan,Caleb Marsh,14094,Kent State
+2015,01/30,Eastern Michigan - Kent State Dual,174,W,MD,12 - 2,Kayne MacCallum,19874,Eastern Michigan,Caleb Marsh,14094,Kent State
+2015,12/19,Kent State - South Dakota State Dual,174,W,DEC,5 - 0,David Kocer,13612,South Dakota State,Caleb Marsh,14094,Kent State
+2015,12/19,Kent State - Missouri Dual,174,L,FALL,3:51,Michael England,20057,Missouri,Caleb Marsh,14094,Kent State
+2015,11/22,Simonson Open,174,L,DEC,4 - 1,Cody Walters,12401,Ohio,Caleb Marsh,14094,Kent State
+2015,11/22,Simonson Open,174,W,TF4,15 - 0 7:00,Alex Bergman,15004,Navy,Caleb Marsh,14094,Kent State
+2015,11/22,Simonson Open,174,W,TF4,15 - 0 7:00,Sean Mappes,19775,Chattanooga,Caleb Marsh,14094,Kent State
+2015,11/22,Simonson Open,174,W,DEF,7:00,Joey Krulock,12790,Bucknell,Caleb Marsh,14094,Kent State
+2015,11/22,Simonson Open,174,W,TF4,15 - 0 7:00,Steven Leshinger,15484,Princeton,Caleb Marsh,14094,Kent State
+2015,11/15,Kent State - Lock Haven Dual,174,L,MD,10 - 0,Tyler Wood,12415,Lock Haven,Caleb Marsh,14094,Kent State
+2015,11/15,Kent State - Michigan State Dual,174,W,MD,12 - 0,Nick Proctor,15209,Michigan State,Caleb Marsh,14094,Kent State
+2015,11/15,Chattanooga - Kent State Dual,174,W,TB-1,5 - 3,Sean Mappes,19775,Chattanooga,Caleb Marsh,14094,Kent State
+2015,11/13,Kent State - Ohio State Dual,174,L,DEC,3 - 1,Mark Martin,12338,Ohio State,Caleb Marsh,14094,Kent State
+2015,11/08,Brockport Invite,174,W,MD,12 - 4,Travis Moyer,12792,Lock Haven,Caleb Marsh,14094,Kent State
+2015,11/08,Brockport Invite,174,W,FALL,2:39,Tyler Lusht,41395,Brockport,Caleb Marsh,14094,Kent State
+2015,11/08,Brockport Invite,174,W,FALL,2:55,Jack Wedholm,19646,Army West Point,Caleb Marsh,14094,Kent State
+2015,11/08,Brockport Invite,174,W,DEC,12 - 9,Brian Harvey,12302,Army West Point,Caleb Marsh,14094,Kent State
+2015,01/25,Kent State - Old Dominion Dual,174,L,DEC,3 - 2,Austin Coburn,12273,Old Dominion,Michael Vollant,14777,Kent State
+2015,01/24,Kent State - North Carolina State Dual,174,L,MD,12 - 1,Pete Renda,12371,NC State,Michael Vollant,14777,Kent State
+2015,01/18,Kent State - Edinboro Dual,174,L,DEC,4 - 3,Patrick Jennings,12254,Edinboro,Michael Vollant,14777,Kent State
+2015,01/16,Ohio - Kent State Dual,174,L,DEC,5 - 0,Cody Walters,12401,Ohio,Michael Vollant,14777,Kent State
+2015,01/10,Kent St. - Chattanooga Dual,184,L,DEC,7 - 4,John Shrader,12630,Chattanooga,Michael Vollant,14777,Kent State
+2015,01/10,Kent St - The Citadel Dual,184,W,DEC,3 - 2,Kendall Hemmings,21197,The Citadel,Michael Vollant,14777,Kent State
+2015,01/09,Kent St - Arizona State Dual,184,L,MD,8 - 0,Blake Stauffer,12447,Arizona State,Michael Vollant,14777,Kent State
+2015,01/09,Virginia Tech - Kent State (Virginia Duals),184,L,DEC,8 - 3,Austin Gabel,12396,Virginia Tech,Michael Vollant,14777,Kent State
+2015,01/01,Southern Scuffle,174,L,DEC,7 - 5,Levi Clemons,12861,Chattanooga,Michael Vollant,14777,Kent State
+2015,01/01,Southern Scuffle,174,L,DEC,4 - 1,Duke Pickett,12281,Cornell,Michael Vollant,14777,Kent State
+2015,01/01,Southern Scuffle,174,W,FALL,1:11,Kenneth Radford,11480,The Citadel,Michael Vollant,14777,Kent State
+2015,12/13,Cleveland State Open,174,W,DEC,4 - 3,Randy Roden,19867,Duke,Michael Vollant,14777,Kent State
+2015,12/13,Cleveland State Open,174,W,MD,9 - 0,Mike Green,23389,Mercyhurst,Michael Vollant,14777,Kent State
+2015,12/13,Cleveland State Open,174,L,DEC,3 - 1,Domenic Prezzia,41590,Ohio State,Michael Vollant,14777,Kent State
+2015,12/13,Cleveland State Open,174,L,MFOR,0 - 0,Noah Wilps,20561,Pittsburgh,Michael Vollant,14777,Kent State
+2015,11/22,Simonson Open,184,L,DEC,7 - 5,John Duane,21994,The Citadel,Michael Vollant,14777,Kent State
+2015,11/22,Simonson Open,184,L,DEC,6 - 2,Scott Gibbons,12404,Princeton,Michael Vollant,14777,Kent State
+2015,11/08,Brockport Invite,184,L,MD,11 - 0,Greg Wilson,20822,Oklahoma,Michael Vollant,14777,Kent State
+2015,11/08,Brockport Invite,184,W,DEC,5 - 3,Brett Perry,19726,Buffalo,Michael Vollant,14777,Kent State
+2015,11/08,Brockport Invite,184,L,DEC,3 - 2,Austin Weigel,15015,Buffalo,Michael Vollant,14777,Kent State
+2015,11/08,Brockport Invite,184,W,DEC,5 - 3,Austin Weigel,15015,Buffalo,Michael Vollant,14777,Kent State
+2015,11/08,Brockport Invite,184,L,MD,9 - 0,Austin Wilding,12511,Army West Point,Michael Vollant,14777,Kent State
+2015,11/02,Michigan State Open,184,W,DEC,9 - 8,Erick Gomez,21056,Lindsey Wilson,Michael Vollant,14777,Kent State
+2015,11/02,Michigan State Open,184,L,DEC,4 - 2,Jack Rozema,12582,Ohio State,Michael Vollant,14777,Kent State
+2015,11/02,Michigan State Open,184,L,DEC,4 - 2,Michael Woulfe,12693,Navy,Michael Vollant,14777,Kent State
+2015,12/13,Cleveland State Open,184,L,MFOR,0 - 0,Gabe Dzuro,20228,Ohio,Charlie Keenan,12480,Kent State
+2015,12/13,Cleveland State Open,184,L,MD,11 - 1,Jason Grimes,12276,American,Charlie Keenan,12480,Kent State
+2015,11/22,Simonson Open,184,L,MD,10 - 0,Bubba Scheffel,20475,West Virginia,Charlie Keenan,12480,Kent State
+2015,11/22,Simonson Open,184,W,MD,12 - 0,Andrew Thomas,14092,George Mason,Charlie Keenan,12480,Kent State
+2015,11/22,Simonson Open,184,L,DEC,5 - 4,James Corbett,12409,Brown,Charlie Keenan,12480,Kent State
+2015,11/15,Eastern Michigan Open,184,W,TF4,17 - 2 7:00,Joel Wenk,22727,Davidson,Charlie Keenan,12480,Kent State
+2015,11/15,Minnesota - Air Force Dual,184,W,TF4,17 - 2 7:00,Jordan Wengreen,20717,Air Force,Charlie Keenan,12480,Kent State
+2015,11/15,Eastern Michigan Open,184,W,FALL,1:57,Jake Masengale,19944,Indiana,Charlie Keenan,12480,Kent State
+2015,11/08,Brockport Invite,184,L,TF4,15 - 0 7:00,Fred Garcia,12466,Lock Haven,Charlie Keenan,12480,Kent State
+2015,11/08,Brockport Invite,184,W,DEC,7 - 4,Brett Perry,19726,Buffalo,Charlie Keenan,12480,Kent State
+2015,11/08,Brockport Invite,184,L,DEC,4 - 3,Austin Weigel,15015,Buffalo,Charlie Keenan,12480,Kent State
+2015,11/02,Michigan State Open,184,L,TF4,16 - 0 2:34,Garrett Linton,41233,Notre Dame,Charlie Keenan,12480,Kent State
+2015,11/02,Michigan State Open,184,W,DEC,10 - 4,chance shae,21810,Harvard,Charlie Keenan,12480,Kent State
+2015,11/02,Michigan State Open,184,W,FALL,2:57,Brandon Sunday,21027,Indiana Tech,Charlie Keenan,12480,Kent State
+2015,11/02,Michigan State Open,184,W,DEC,5 - 3,Jake Masengale,19944,Indiana,Charlie Keenan,12480,Kent State
+2015,11/02,Michigan State Open,184,W,DEC,5 - 3,Derek Schultz,12602,Eastern Michigan,Charlie Keenan,12480,Kent State
+2015,01/01,Southern Scuffle,184,L,DEC,9 - 3,Michael Woulfe,12693,Navy,Cory Campbell,12478,Kent State
+2015,01/01,Southern Scuffle,184,L,MFOR,0 - 0,Dominick Vetell,21228,Appalachian State,Cory Campbell,12478,Kent State
+2015,12/19,Kent State - Southern Illinois Edwardsville Dual,184,W,MD,14 - 5,Derek Nagel,12989,SIU Edwardsville,Cory Campbell,12478,Kent State
+2015,12/19,Kent State - Missouri Dual,184,L,MD,21 - 7,Willie Miklus,14058,Missouri,Cory Campbell,12478,Kent State
+2015,12/06,Kent State - Buffalo Dual,184,W,DEC,8 - 6,Anthony Lock,22871,Buffalo,Cory Campbell,12478,Kent State
+2015,11/22,Simonson Open,184,W,TF4,16 - 1 7:00,Greg Thurston,12874,West Virginia,Cory Campbell,12478,Kent State
+2015,11/22,Simonson Open,184,L,FALL,1:38,Bubba Scheffel,20475,West Virginia,Cory Campbell,12478,Kent State
+2015,11/22,Simonson Open,184,W,DEC,7 - 5,Ryan Harman,12794,Navy,Cory Campbell,12478,Kent State
+2015,11/22,Simonson Open,184,L,DEC,3 - 2,John Lampe,12444,Chattanooga,Cory Campbell,12478,Kent State
+2015,11/22,Simonson Open,184,L,FALL,2:40,Ophir Bernstein,12567,Brown,Cory Campbell,12478,Kent State
+2015,11/22,Simonson Open,184,W,DEC,11 - 4,James Corbett,12409,Brown,Cory Campbell,12478,Kent State
+2015,11/15,Kent State - Lock Haven Dual,184,L,DEC,14 - 11,Fred Garcia,12466,Lock Haven,Cory Campbell,12478,Kent State
+2015,11/15,Kent State - Michigan State Dual,184,L,DEC,7 - 2,John Rizqallah,12403,Michigan State,Cory Campbell,12478,Kent State
+2015,11/15,Chattanooga - Kent State Dual,184,L,DEC,8 - 5,John Shrader,12630,Chattanooga,Cory Campbell,12478,Kent State
+2015,11/13,Kent State - Ohio State Dual,184,L,MD,17 - 5,Kenny Courts,12279,Ohio State,Cory Campbell,12478,Kent State
+2015,11/08,Brockport Invite,184,W,DEC,5 - 4,David Williams,19679,Bloomsburg,Cory Campbell,12478,Kent State
+2015,11/08,Brockport Invite,184,L,DEC,8 - 6,Austin Wilding,12511,Army West Point,Cory Campbell,12478,Kent State
+2015,11/08,Brockport Invite,184,L,DEC,4 - 2,Samson Imonode,12655,Army West Point,Cory Campbell,12478,Kent State
+2015,11/02,Michigan State Open,184,W,DEC,4 - 1,LJ Grayson,21052,Indiana Tech,Cory Campbell,12478,Kent State
+2015,11/02,Michigan State Open,184,L,MD,13 - 5,Joey Davis,22725,Notre Dame,Cory Campbell,12478,Kent State
+2015,11/02,Michigan State Open,184,W,DEC,6 - 5,Christian Brucki,20980,Central Michigan,Cory Campbell,12478,Kent State
+2015,11/02,Michigan State Open,184,W,MFOR,0 - 0,Jack Rozema,12582,Ohio State,Cory Campbell,12478,Kent State
+2015,11/02,Michigan State Open,184,W,MD,17 - 3,Greg Thurston,12874,West Virginia,Cory Campbell,12478,Kent State
+2015,11/02,Michigan State Open,184,L,MD,11 - 2,Bubba Scheffel,20475,West Virginia,Cory Campbell,12478,Kent State
+2015,11/22,Simonson Open,184,L,DEC,9 - 2,Adam Drain,20210,Northern Iowa,Trevor White,12498,Kent State
+2015,02/15,Kent State - Illinois Dual,197,L,FALL,4:30,Jeff Koepke,12676,Illinois,Stephen Suglio,13094,Kent State
+2015,02/13,Northern Illinois - Kent State Dual,197,L,DEC,6 - 0,Shawn Scott,13164,Northern Illinois,Stephen Suglio,13094,Kent State
+2015,02/07,Edinboro Open,197,L,MFOR,0 - 0,Jake Anderson,23596,Spartan Combat RTC,Stephen Suglio,13094,Kent State
+2015,02/07,Edinboro Open,197,L,MFOR,0 - 0,Frank Mattiace,13058,Pennsylvania,Stephen Suglio,13094,Kent State
+2015,02/07,Edinboro Open,197,W,DEC,6 - 4,Chance McClure,20430,Virginia,Stephen Suglio,13094,Kent State
+2015,02/07,Edinboro Open,197,W,MD,11 - 0,Jimmy Szep,14543,Central Michigan,Stephen Suglio,13094,Kent State
+2015,01/01,Southern Scuffle,197,L,FALL,2:40,Spencer Johnson,14062,Nebraska,Stephen Suglio,13094,Kent State
+2015,01/01,Southern Scuffle,197,L,DEC,7 - 3,John Bolich,13056,Lehigh,Stephen Suglio,13094,Kent State
+2015,12/13,Cleveland State Open,197,L,MD,12 - 4,Kevin Beazley,12757,Old Dominion,Stephen Suglio,13094,Kent State
+2015,12/13,Cleveland State Open,197,W,MFOR,0 - 0,Joseph Brandt,23366,Ashland,Stephen Suglio,13094,Kent State
+2015,12/13,Cleveland State Open,197,W,DEC,4 - 1,Dustin Conti,12468,Clarion,Stephen Suglio,13094,Kent State
+2015,12/13,Cleveland State Open,197,W,FALL,3:50,Trevor Beiter,25168,Gannon,Stephen Suglio,13094,Kent State
+2015,12/13,Cleveland State Open,197,W,FALL,2:43,Jamar Henry,23879,Mercyhurst,Stephen Suglio,13094,Kent State
+2015,12/13,Cleveland State Open,197,L,DEC,6 - 5,Jacob Berkowitz,12585,Northwestern,Stephen Suglio,13094,Kent State
+2015,12/13,Cleveland State Open,197,W,MD,10 - 0,Thomas Bennett,22223,American,Stephen Suglio,13094,Kent State
+2015,11/22,Simonson Open,197,W,DEC,7 - 4,Jake A Smith,23323,West Virginia,Stephen Suglio,13094,Kent State
+2015,11/22,Simonson Open,197,L,TF4,15 - 0 7:00,Timmy McCall,13109,Wisconsin,Stephen Suglio,13094,Kent State
+2015,11/22,Simonson Open,197,W,DEC,13 - 9,Marshall Haas,13170,The Citadel,Stephen Suglio,13094,Kent State
+2015,11/22,Simonson Open,197,L,DEC,9 - 2,Phil Wellington,13130,Ohio,Stephen Suglio,13094,Kent State
+2015,11/22,Simonson Open,197,W,FALL,4:09,Paul Rands,13131,Navy,Stephen Suglio,13094,Kent State
+2015,11/22,Simonson Open,197,W,DEC,7 - 3,Sebastien Levin,13150,Brown,Stephen Suglio,13094,Kent State
+2015,11/15,Kent State - Lock Haven Dual,197,W,FALL,2:47,Phil Sprenkle,13062,Lock Haven,Stephen Suglio,13094,Kent State
+2015,11/15,Kent State - Michigan State Dual,197,L,FALL,4:13,Nick McDiarmid,13013,Michigan State,Stephen Suglio,13094,Kent State
+2015,11/15,Chattanooga - Kent State Dual,197,L,DEC,12 - 10,Scottie Boykin,12756,Chattanooga,Stephen Suglio,13094,Kent State
+2015,02/07,Edinboro Open,197,W,TF4,15 - 0 7:00,Trevor Beiter,25168,Gannon,Kyle Conel,19973,Kent State
+2015,02/07,Edinboro Open,197,W,DEC,3 - 2,Frank Mattiace,13058,Pennsylvania,Kyle Conel,19973,Kent State
+2015,02/07,Edinboro Open,197,W,DEC,13 - 6,Anthony Cassar,20299,Penn State,Kyle Conel,19973,Kent State
+2015,02/07,Edinboro Open,197,W,FALL,5:15,Josh DaSilveira,13017,Arizona State,Kyle Conel,19973,Kent State
+2015,02/07,Edinboro Open,197,W,DEC,7 - 5,Tristan Sponseller,20593,Lock Haven,Kyle Conel,19973,Kent State
+2015,12/13,Cleveland State Open,197,L,MD,9 - 0,Kevin Beazley,12757,Old Dominion,Kyle Conel,19973,Kent State
+2015,12/13,Cleveland State Open,197,W,MFOR,0 - 0,Sam Wheeler,23878,Indiana,Kyle Conel,19973,Kent State
+2015,12/13,Cleveland State Open,197,W,DEC,6 - 2,Gunner Loughman,25149,Gannon,Kyle Conel,19973,Kent State
+2015,12/13,Cleveland State Open,197,W,MD,17 - 8,Boyce Cornwell,13173,Gardner-Webb,Kyle Conel,19973,Kent State
+2015,12/13,Cleveland State Open,197,L,DEC,6 - 4,Brett Dempsey,12443,American,Kyle Conel,19973,Kent State
+2015,11/15,Eastern Michigan Open,184,W,DEC,5 - 2,Tanner Lynde,12514,Purdue,Kyle Conel,19973,Kent State
+2015,11/15,Kent State - Lock Haven Dual,184,W,FALL,6:40,Adam Mackie,12802,Lock Haven,Kyle Conel,19973,Kent State
+2015,11/15,Eastern Michigan Open,184,L,DEC,7 - 5,Tanner Lynde,12514,Purdue,Kyle Conel,19973,Kent State
+2015,11/15,Eastern Michigan Open,184,W,TF4,16 - 1 4:12,Jake Masengale,19944,Indiana,Kyle Conel,19973,Kent State
+2015,11/08,Brockport Invite,184,W,DEC,10 - 3,Nick Shawley,14470,Clarion,Kyle Conel,19973,Kent State
+2015,11/02,Michigan State Open,184,L,DEC,3 - 1,Tyler Hughes,41623,Lake Erie College,Kyle Conel,19973,Kent State
+2015,11/02,Michigan State Open,184,L,DEC,7 - 6,Jake Masengale,19944,Indiana,Kyle Conel,19973,Kent State
+2015,11/02,Michigan State Open,184,W,DEC,11 - 5,Antonio Reynolds,12889,Ohio,Kyle Conel,19973,Kent State
+2015,12/13,Cleveland State Open,197,W,DEC,6 - 5,Kevin Beazley,12757,Old Dominion,Sam Wheeler,12456,Kent State
+2015,03/07,MAC Championships,197,L,DEC,4 - 0,Phil Wellington,13130,Ohio,Cole Baxter,13065,Kent State
+2015,03/07,MAC Championships,197,L,DEC,8 - 7,Anthony Abro,12495,Eastern Michigan,Cole Baxter,13065,Kent State
+2015,02/08,Northern Iowa @ Kent State,197,W,DEC,7 - 3,Basil Minto,14056,Northern Iowa,Cole Baxter,13065,Kent State
+2015,02/01,Kent State - Central Michigan Dual,197,W,DEC,4 - 0,Jackson Lewis,13107,Central Michigan,Cole Baxter,13065,Kent State
+2015,01/30,Eastern Michigan - Kent State Dual,197,L,DEC,2 - 1,Anthony Abro,12495,Eastern Michigan,Cole Baxter,13065,Kent State
+2015,01/25,Kent State - Old Dominion Dual,197,L,DEC,8 - 5,Kevin Beazley,12757,Old Dominion,Cole Baxter,13065,Kent State
+2015,01/24,Kent State - North Carolina State Dual,197,W,DEC,1 - 0,Michael Macchiavello,12532,NC State,Cole Baxter,13065,Kent State
+2015,01/18,Kent State - Edinboro Dual,197,L,DEC,8 - 1,Vic Avery,12614,Edinboro,Cole Baxter,13065,Kent State
+2015,01/16,Ohio - Kent State Dual,197,L,TB-1,2 - 1,Phil Wellington,13130,Ohio,Cole Baxter,13065,Kent State
+2015,01/10,Kent St. - Chattanooga Dual,197,W,DEC,5 - 2,Scottie Boykin,12756,Chattanooga,Cole Baxter,13065,Kent State
+2015,01/10,Kent St - The Citadel Dual,197,W,DEC,3 - 0,Marshall Haas,13170,The Citadel,Cole Baxter,13065,Kent State
+2015,01/09,Kent St - Arizona State Dual,197,L,DEC,5 - 3,Josh DaSilveira,13017,Arizona State,Cole Baxter,13065,Kent State
+2015,01/09,Virginia Tech - Kent State (Virginia Duals),197,W,FALL,1:41,Jared Haught,13085,Virginia Tech,Cole Baxter,13065,Kent State
+2015,01/01,Southern Scuffle,197,W,DEC,6 - 3,Paul Rands,13131,Navy,Cole Baxter,13065,Kent State
+2015,01/01,Southern Scuffle,197,W,DEC,9 - 2,Boyce Cornwell,13173,Gardner-Webb,Cole Baxter,13065,Kent State
+2015,01/01,Southern Scuffle,197,L,DEC,9 - 2,Jace Bennett,13106,Cornell,Cole Baxter,13065,Kent State
+2015,01/01,Southern Scuffle,197,L,MD,13 - 2,Max Huntley,12662,Michigan,Cole Baxter,13065,Kent State
+2015,12/19,Kent State - South Dakota State Dual,197,L,DEC,3 - 2,Nate Rotert,12968,South Dakota State,Cole Baxter,13065,Kent State
+2015,12/19,Kent State - Southern Illinois Edwardsville Dual,197,W,DEC,9 - 3,Matthew McClimens,12918,SIU Edwardsville,Cole Baxter,13065,Kent State
+2015,12/19,Kent State - Missouri Dual,197,L,DEC,9 - 3,J'den Cox,13114,Missouri,Cole Baxter,13065,Kent State
+2015,12/13,Cleveland State Open,197,W,DEC,5 - 2,Dustin Conti,12468,Clarion,Cole Baxter,13065,Kent State
+2015,12/13,Cleveland State Open,197,W,DEC,5 - 0,Dominic Carfagno,19665,Bloomsburg,Cole Baxter,13065,Kent State
+2015,12/13,Cleveland State Open,197,W,TF4,16 - 1 7:00,Trevor Beiter,25168,Gannon,Cole Baxter,13065,Kent State
+2015,12/13,Cleveland State Open,197,W,FALL,1:21,Jacob Berkowitz,12585,Northwestern,Cole Baxter,13065,Kent State
+2015,12/13,Cleveland State Open,197,W,FALL,1:50,Brett Dempsey,12443,American,Cole Baxter,13065,Kent State
+2015,12/06,Kent State - Buffalo Dual,197,W,FALL,3:42,Joe Ariola,12696,Buffalo,Cole Baxter,13065,Kent State
+2015,11/13,Kent State - Ohio State Dual,197,L,DEC,11 - 6,Kyle Snyder,20253,Ohio State,Cole Baxter,13065,Kent State
+2015,11/08,Brockport Invite,197,W,DEC,4 - 2,Phil Sprenkle,13062,Lock Haven,Cole Baxter,13065,Kent State
+2015,11/08,Brockport Invite,197,W,DEC,9 - 2,Michael Mirra,13137,Bloomsburg,Cole Baxter,13065,Kent State
+2015,03/19,NCAA Championships,285,L,DEC,8 - 4,Riley Shaw,14328,Cleveland State,Mimmo Lytle,14142,Kent State
+2015,03/19,NCAA Championships,285,L,DEC,7 - 4,Denzel Dejournette,14276,Appalachian State,Mimmo Lytle,14142,Kent State
+2015,03/07,MAC Championships,285,L,DEC,2 - 1,Jacob Henderson,13099,Old Dominion,Mimmo Lytle,14142,Kent State
+2015,03/07,MAC Championships,285,W,DEC,3 - 1,Arthur Bunce,14282,Northern Illinois,Mimmo Lytle,14142,Kent State
+2015,03/07,MAC Championships,285,L,DEC,8 - 3,Devin Mellon,14302,Missouri,Mimmo Lytle,14142,Kent State
+2015,03/07,MAC Championships,285,W,DEC,2 - 1,Adam Robinson,14143,Central Michigan,Mimmo Lytle,14142,Kent State
+2015,02/15,Kent State - Illinois Dual,285,L,DEC,5 - 0,Brooks Black,19933,Illinois,Mimmo Lytle,14142,Kent State
+2015,02/13,Northern Illinois - Kent State Dual,285,W,DEC,4 - 2,Arthur Bunce,14282,Northern Illinois,Mimmo Lytle,14142,Kent State
+2015,02/08,Northern Iowa @ Kent State,285,L,DEC,7 - 5,Blaize Cabell,14147,Northern Iowa,Mimmo Lytle,14142,Kent State
+2015,02/01,Kent State - Central Michigan Dual,285,W,DEC,3 - 2,Adam Robinson,14143,Central Michigan,Mimmo Lytle,14142,Kent State
+2015,01/30,Eastern Michigan - Kent State Dual,285,W,DEC,9 - 3,Gage Hutchison,14259,Eastern Michigan,Mimmo Lytle,14142,Kent State
+2015,01/25,Kent State - Old Dominion Dual,285,W,TB-3,4 - 3,Jacob Henderson,13099,Old Dominion,Mimmo Lytle,14142,Kent State
+2015,01/24,Kent State - North Carolina State Dual,285,L,FALL,4:36,Nick Gwiazdowski,14221,NC State,Mimmo Lytle,14142,Kent State
+2015,01/18,Kent State - Edinboro Dual,285,L,FALL,0:45,Warren Bosch,17928,Edinboro,Mimmo Lytle,14142,Kent State
+2015,01/16,Ohio - Kent State Dual,285,W,DEC,1 - 0,Jesse Webb,20242,Ohio,Mimmo Lytle,14142,Kent State
+2015,01/10,Kent St. - Chattanooga Dual,285,L,DEC,3 - 2,Jared Johnson,19773,Chattanooga,Mimmo Lytle,14142,Kent State
+2015,01/10,Kent St - The Citadel Dual,285,W,DEC,2 - 1,Joe Bexley,14177,The Citadel,Mimmo Lytle,14142,Kent State
+2015,01/09,Kent St - Arizona State Dual,285,L,DEC,3 - 2,Chace Eskam,13040,Arizona State,Mimmo Lytle,14142,Kent State
+2015,01/09,Virginia Tech - Kent State (Virginia Duals),285,L,DEC,5 - 0,Ty Walz,14246,Virginia Tech,Mimmo Lytle,14142,Kent State
+2015,01/01,Southern Scuffle,285,W,SV-1,3 - 1,Jared Johnson,19773,Chattanooga,Mimmo Lytle,14142,Kent State
+2015,01/01,Southern Scuffle,285,W,DEC,3 - 2,Mike Kosoy,14294,NC State,Mimmo Lytle,14142,Kent State
+2015,01/01,Southern Scuffle,285,W,DEC,5 - 2,Jake Kettler,14191,George Mason,Mimmo Lytle,14142,Kent State
+2015,01/01,Southern Scuffle,285,W,DEC,3 - 1,Justin Kozera,14184,Gardner-Webb,Mimmo Lytle,14142,Kent State
+2015,01/01,Southern Scuffle,285,L,DEC,7 - 1,Austin Marsden,14130,Oklahoma State,Mimmo Lytle,14142,Kent State
+2015,01/01,Southern Scuffle,285,L,TF4,15 - 0 7:00,Jon Gingrich,14213,Penn State,Mimmo Lytle,14142,Kent State
+2015,01/01,Southern Scuffle,285,W,DEC,3 - 2,Joe Bexley,14177,The Citadel,Mimmo Lytle,14142,Kent State
+2015,12/19,Kent State - South Dakota State Dual,285,W,DEC,3 - 2,JJ Everard,14324,South Dakota State,Mimmo Lytle,14142,Kent State
+2015,12/19,Kent State - Southern Illinois Edwardsville Dual,285,W,SV-2,5 - 3,Chris Johnson,12407,SIU Edwardsville,Mimmo Lytle,14142,Kent State
+2015,12/06,Kent State - Buffalo Dual,285,W,DEC,7 - 3,Mike Silvis,14180,Buffalo,Mimmo Lytle,14142,Kent State
+2015,11/22,Simonson Open,285,W,FALL,5:27,Matthew Moore,20117,North Carolina,Mimmo Lytle,14142,Kent State
+2015,11/22,Simonson Open,285,W,DEC,4 - 1,Brendan Kahle,14254,Navy,Mimmo Lytle,14142,Kent State
+2015,11/22,Simonson Open,285,L,DEC,6 - 2,Joe Stolfi,14234,Bucknell,Mimmo Lytle,14142,Kent State
+2015,11/22,Simonson Open,285,L,DEC,3 - 0,Raymond O'Donnell,37426,Princeton,Mimmo Lytle,14142,Kent State
+2015,11/15,Kent State - Lock Haven Dual,285,L,DEC,3 - 2,Brad Emerick,14170,Lock Haven,Mimmo Lytle,14142,Kent State
+2015,11/15,Kent State - Michigan State Dual,285,W,DEC,7 - 3,Chris Nash,14145,Michigan State,Mimmo Lytle,14142,Kent State
+2015,11/15,Chattanooga - Kent State Dual,285,W,DEC,5 - 3,Jared Johnson,19773,Chattanooga,Mimmo Lytle,14142,Kent State
+2015,11/13,Kent State - Ohio State Dual,285,L,TB-1,3 - 3,Nick Tavanello,14228,Ohio State,Mimmo Lytle,14142,Kent State
+2015,11/08,Brockport Invite,285,L,DEC,5 - 4,Ross Larson,14299,Oklahoma,Mimmo Lytle,14142,Kent State
+2015,11/08,Brockport Invite,285,W,DEC,3 - 2,Sam Breese,19974,Kent State,Mimmo Lytle,14142,Kent State
+2015,11/08,Brockport Invite,285,L,DEC,6 - 4,Michael Brown,20256,Oklahoma,Mimmo Lytle,14142,Kent State
+2015,11/08,Brockport Invite,285,W,DEC,8 - 1,Ross Larson,14299,Oklahoma,Mimmo Lytle,14142,Kent State
+2015,11/02,Michigan State Open,285,W,TB-2,5 - 3,Nicholas Gajdzik,14240,Harvard,Mimmo Lytle,14142,Kent State
+2015,11/02,Michigan State Open,285,W,DEC,6 - 2,Robert Zappitelli II,14280,Unattached,Mimmo Lytle,14142,Kent State
+2015,11/02,Michigan State Open,285,W,MFOR,0 - 0,Tyler Kral,14261,Purdue,Mimmo Lytle,14142,Kent State
+2015,11/02,Michigan State Open,285,L,FALL,3:21,Garrett Ryan,13538,Columbia,Mimmo Lytle,14142,Kent State
+2015,11/02,Michigan State Open,285,L,DEC,2 - 1,Newton Smerchek,14224,Central Michigan,Mimmo Lytle,14142,Kent State
+2015,02/07,Edinboro Open,285,W,DEC,2 - 0,Terrell Fields,25150,Lindenwood - Belleville,Devin Nye,19975,Kent State
+2015,02/07,Edinboro Open,285,L,DEC,8 - 2,Brandon Taylor,22456,Virginia Tech,Devin Nye,19975,Kent State
+2015,02/07,Edinboro Open,285,L,DEC,15 - 8,Adam Robinson,14143,Central Michigan,Devin Nye,19975,Kent State
+2015,01/18,Purple Raider Open,285,W,SV-1,7 - 5,Dimitrus Renfroe,14495,Michigan State,Devin Nye,19975,Kent State
+2015,01/18,Kent State - Edinboro Dual,285,W,DEC,6 - 0,Jeff Miller,13865,Edinboro,Devin Nye,19975,Kent State
+2015,12/13,Cleveland State Open,285,L,MD,15 - 6,Mohammed Mudassar,22720,Notre Dame,Devin Nye,19975,Kent State
+2015,12/13,Cleveland State Open,285,L,DEC,8 - 1,Logan Rimmer,21030,Notre Dame,Devin Nye,19975,Kent State
+2015,12/13,Cleveland State Open,285,W,FALL,2:09,Chris McDermand,19616,American,Devin Nye,19975,Kent State
+2015,11/22,Simonson Open,285,L,FALL,0:49,Chris Nash,14145,Michigan State,Devin Nye,19975,Kent State
+2015,11/22,Simonson Open,285,W,FALL,2:35,Chris Miles,23369,Franklin & Marshall,Devin Nye,19975,Kent State
+2015,11/22,Simonson Open,285,W,FALL,2:14,Lorenzo Maddox,42500,Gannon,Devin Nye,19975,Kent State
+2015,11/22,Simonson Open,285,W,MD,8 - 0,Tyler Shank,22045,Ashland,Devin Nye,19975,Kent State
+2015,11/22,Simonson Open,285,W,DEC,5 - 3,Forrest Christmann,14263,Edinboro,Devin Nye,19975,Kent State
+2015,11/15,Kent State - Lock Haven Dual,285,W,DEC,8 - 1,Matt Moore,13071,Lock Haven,Devin Nye,19975,Kent State
+2015,11/15,North Carolina - Stanford Dual,285,W,DEC,8 - 1,Matthew Moore,20117,North Carolina,Devin Nye,19975,Kent State
+2015,11/02,Michigan State Open,285,L,DEC,8 - 6,Jeffrey Tautolo,21033,Unattached,Devin Nye,19975,Kent State
+2015,11/02,Michigan State Open,285,W,FALL,2:45,Noah Hosking,41661,Lake Erie College,Devin Nye,19975,Kent State
+2015,11/02,Michigan State Open,285,W,FALL,1:21,Jay Sroufe,23540,Muskegon Community College,Devin Nye,19975,Kent State
+2015,11/02,Michigan State Open,285,W,DEC,5 - 3,Conan Jennings,20222,Northwestern,Devin Nye,19975,Kent State
+2015,11/02,Michigan State Open,285,L,DEC,7 - 4,Chico Adams,21035,Lindsey Wilson,Devin Nye,19975,Kent State
+2015,11/02,Michigan State Open,285,W,SV-1,4 - 2,Sam Breese,19974,Kent State,Devin Nye,19975,Kent State
+2015,02/07,Edinboro Open,285,W,SV-1,3 - 1,Dan Garwood,14293,Virginia Tech,Sam Breese,19974,Kent State
+2015,02/07,Edinboro Open,285,W,FALL,1:54,Brian Lipps,23886,Mercyhurst,Sam Breese,19974,Kent State
+2015,02/07,Edinboro Open,285,L,MD,14 - 0,Nicholas Gajdzik,23887,Missouri Valley,Sam Breese,19974,Kent State
+2015,02/07,Edinboro Open,285,L,DEC,7 - 4,Conan Jennings,20222,Northwestern,Sam Breese,19974,Kent State
+2015,01/01,Southern Scuffle,285,L,DEC,5 - 3,Frank Abbondanza,13100,North Carolina,Sam Breese,19974,Kent State
+2015,01/01,Southern Scuffle,285,L,FALL,3:21,Adam Coon,14123,Michigan,Sam Breese,19974,Kent State
+2015,12/13,Cleveland State Open,285,L,DEC,11 - 6,Newton Smerchek,14224,Central Michigan,Sam Breese,19974,Kent State
+2015,12/13,Cleveland State Open,285,W,DEC,3 - 0,Payton Demos,19768,Chattanooga,Sam Breese,19974,Kent State
+2015,12/13,Cleveland State Open,285,L,DEC,3 - 1,Tracey Green,23365,Mercyhurst,Sam Breese,19974,Kent State
+2015,12/13,Cleveland State Open,285,W,FALL,1:24,Christian Kinzer,20230,Ohio,Sam Breese,19974,Kent State
+2015,12/13,Cleveland State Open,285,W,FALL,3:21,Drew Barrett,22019,Gardner-Webb,Sam Breese,19974,Kent State
+2015,11/22,Simonson Open,285,L,DEC,3 - 2,AJ Vizcarrondo,14266,West Virginia,Sam Breese,19974,Kent State
+2015,11/22,Simonson Open,285,W,DEC,8 - 2,Brendan Kahle,14254,Navy,Sam Breese,19974,Kent State
+2015,11/22,Simonson Open,285,L,MD,10 - 1,Jared Johnson,19773,Chattanooga,Sam Breese,19974,Kent State
+2015,11/15,Kent State - Michigan State Dual,285,W,SV-1,6 - 4,Dimitrus Renfroe,14495,Michigan State,Sam Breese,19974,Kent State
+2015,11/15,Eastern Michigan Open,285,L,FALL,1:18,Fletcher Miller,20525,Indiana,Sam Breese,19974,Kent State
+2015,11/08,Brockport Invite,285,L,MD,15 - 4,Zach Merrill,20262,Oklahoma,Sam Breese,19974,Kent State
+2015,11/08,Brockport Invite,285,W,DEC,3 - 2,Matt Moore,13071,Lock Haven,Sam Breese,19974,Kent State
+2015,11/08,Brockport Invite,285,L,DEC,3 - 2,Mimmo Lytle,14142,Kent State,Sam Breese,19974,Kent State
+2015,11/08,Brockport Invite,285,W,DEC,3 - 2,Mike Silvis,14180,Buffalo,Sam Breese,19974,Kent State
+2015,11/08,Brockport Invite,285,W,FALL,2:07,Shaun Heist,13122,Bloomsburg,Sam Breese,19974,Kent State
+2015,11/08,Brockport Invite,285,L,DEC,8 - 3,Trevor Smith,14210,Army West Point,Sam Breese,19974,Kent State
+2015,11/02,Michigan State Open,285,L,SV-1,4 - 2,Devin Nye,19975,Kent State,Sam Breese,19974,Kent State
+2015,11/02,Michigan State Open,285,L,DEC,3 - 2,Zack Parker,20235,Ohio,Sam Breese,19974,Kent State
+2015,11/09,Hokie Open,285,W,DEC,3 - 0,Yousif Malif,24431,VMI,Brandon Taylor,12828,Kent State
+2015,11/09,Hokie Open,285,L,DEC,11 - 4,Connor Tolley,19780,Chattanooga,Brandon Taylor,12828,Kent State
+2015,11/02,Michigan State Open,285,W,DEC,3 - 0,Ameer Daniels,21812,Lindsey Wilson,Brion Blades,21031,Kent State
+2015,11/02,Michigan State Open,285,L,DEC,5 - 4,Kameron Hardwick,21811,Harvard,Brion Blades,21031,Kent State
+2015,11/02,Michigan State Open,285,L,DEC,5 - 1,Jesse Webb,20242,Ohio,Brion Blades,21031,Kent State

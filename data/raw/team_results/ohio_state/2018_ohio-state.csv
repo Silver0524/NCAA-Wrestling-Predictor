@@ -1,0 +1,648 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2018,03/15,NCAA Championships,125,W,INJ,7:00,Ryan Millhof,20815,Arizona State,Nathan Tomasello,14674,Ohio State
+2018,03/15,NCAA Championships,125,W,FALL,1:14,Sebastian Rivera,44799,Northwestern,Nathan Tomasello,14674,Ohio State
+2018,03/15,NCAA Championships,125,W,SV-1,8 - 6,Ethan Lizak,20040,Minnesota,Nathan Tomasello,14674,Ohio State
+2018,03/15,NCAA Championships,125,L,FALL,6:05,Spencer Lee,49146,Iowa,Nathan Tomasello,14674,Ohio State
+2018,03/15,NCAA Championships,125,W,MD,12 - 4,Taylor LaMont,44777,Utah Valley,Nathan Tomasello,14674,Ohio State
+2018,03/15,NCAA Championships,125,W,FALL,2:19,Gabe Townsell,45387,Stanford,Nathan Tomasello,14674,Ohio State
+2018,03/03,Big Ten Championships,125,W,DEC,10 - 7,Ethan Lizak,20040,Minnesota,Nathan Tomasello,14674,Ohio State
+2018,03/03,Big Ten Championships,125,W,TF5,21 - 6 5:52,Carson Kuhn,16532,Penn State,Nathan Tomasello,14674,Ohio State
+2018,03/03,Big Ten Championships,125,W,MD,14 - 3,Luke Welch,13436,Purdue,Nathan Tomasello,14674,Ohio State
+2018,03/03,Big Ten Championships,125,W,DEC,2 - 1,Spencer Lee,49146,Iowa,Nathan Tomasello,14674,Ohio State
+2018,02/18,Ohio State - North Carolina State Dual,125,W,DEC,12 - 6,Sean Fausz,20126,NC State,Nathan Tomasello,14674,Ohio State
+2018,02/11,Ohio State - Michigan Dual,125,W,TF5,20 - 5 7:00,Drew Mattin,49180,Michigan,Nathan Tomasello,14674,Ohio State
+2018,02/03,Ohio State - Penn State Dual,125,W,MD,21 - 12,Carson Kuhn,16532,Penn State,Nathan Tomasello,14674,Ohio State
+2018,01/28,Purdue - Ohio State Dual,125,W,MD,18 - 5,Luke Welch,13436,Purdue,Nathan Tomasello,14674,Ohio State
+2018,01/26,Ohio State - Michigan State Dual,125,W,DEC,7 - 3,Rayvon Foley,50823,Michigan State,Nathan Tomasello,14674,Ohio State
+2018,01/21,Iowa - Ohio State Dual,125,L,DEC,3 - 2,Spencer Lee,49146,Iowa,Nathan Tomasello,14674,Ohio State
+2018,01/12,Minnesota - Ohio State Dual,125,W,TF5,18 - 3 7:00,Ethan Lizak,20040,Minnesota,Nathan Tomasello,14674,Ohio State
+2018,01/05,Ohio State - Maryland Dual,125,W,TF5,18 - 2 7:00,Brandon Cray,44681,Maryland,Nathan Tomasello,14674,Ohio State
+2018,02/03,Edinboro Open,125,W,FALL,2:32,Jeremy Trihn,50849,Fresno State,Hunter Lucas,45132,Ohio State
+2018,02/03,Edinboro Open,125,W,SV-1,6 - 4,Logan Treaster,49205,Navy,Hunter Lucas,45132,Ohio State
+2018,02/03,Edinboro Open,125,L,DEC,8 - 3,Dominic LaJoie,49112,Spartan Combat RTC,Hunter Lucas,45132,Ohio State
+2018,02/03,Edinboro Open,125,W,DEC,7 - 5,Luke Resnick,51027,Lehigh,Hunter Lucas,45132,Ohio State
+2018,01/14,Purple Raider Open,125,W,SV-1,5 - 3,Trent Gill,53675,Mount Union,Hunter Lucas,45132,Ohio State
+2018,01/14,Purple Raider Open,125,W,DEC,9 - 4,Marshall Craig,51419,Purdue,Hunter Lucas,45132,Ohio State
+2018,01/14,Purple Raider Open,125,W,DEC,8 - 3,Joey Thomas,51008,West Virginia,Hunter Lucas,45132,Ohio State
+2018,01/14,Purple Raider Open,125,W,DEC,6 - 5,Brady Koontz,50853,Ohio State,Hunter Lucas,45132,Ohio State
+2018,01/14,Purple Raider Open,125,L,DEC,4 - 1,Liam Cronin,45061,Indiana,Hunter Lucas,45132,Ohio State
+2018,12/03,Storm Open,125,W,DEC,9 - 5,Brady Koontz,50853,Ohio State,Hunter Lucas,45132,Ohio State
+2018,12/03,Storm Open,125,W,MFOR,0 - 0,Blake Glogouski,46400,Lake Erie College,Hunter Lucas,45132,Ohio State
+2018,12/03,Storm Open,125,W,DEC,18 - 14,Jake Ferri,51179,Kent State,Hunter Lucas,45132,Ohio State
+2018,12/03,Storm Open,125,W,FALL,2:38,Daniel Kidd,50026,American,Hunter Lucas,45132,Ohio State
+2018,11/18,Findlay Open,125,W,TF5,19 - 4 4:36,Nick Brady,52290,Indianapolis,Hunter Lucas,45132,Ohio State
+2018,11/18,Findlay Open,125,W,FALL,0:44,Josh Talbott,52297,West Liberty University,Hunter Lucas,45132,Ohio State
+2018,11/18,Findlay Open,125,W,DEC,13 - 7,Brady Koontz,50853,Ohio State,Hunter Lucas,45132,Ohio State
+2018,11/18,Findlay Open,125,W,DEC,5 - 2,Blake Glogouski,46400,Lake Erie College,Hunter Lucas,45132,Ohio State
+2018,11/18,Findlay Open,125,W,TF5,19 - 4 7:00,Nick Brady,52290,Indianapolis,Hunter Lucas,45132,Ohio State
+2018,11/11,Eastern Michigan Open,125,W,MD,17 - 6,Zach Collins,50325,Findlay,Hunter Lucas,45132,Ohio State
+2018,11/11,Eastern Michigan Open,125,L,DEC,8 - 4,Rayvon Foley,50823,Michigan State,Hunter Lucas,45132,Ohio State
+2018,11/11,Eastern Michigan Open,125,W,DEC,7 - 6,Jack Medley,51392,Michigan,Hunter Lucas,45132,Ohio State
+2018,11/11,Eastern Michigan Open,125,W,MD,13 - 4,Jake Ferri,51179,Kent State,Hunter Lucas,45132,Ohio State
+2018,11/11,Eastern Michigan Open,125,W,FALL,5:00,Amir Muhammad,51060,Edinboro,Hunter Lucas,45132,Ohio State
+2018,11/04,Princeton Open,125,L,DEC,9 - 5,Matteo DeVincenzo,44772,Princeton,Hunter Lucas,45132,Ohio State
+2018,11/04,Princeton Open,125,L,DEC,7 - 2,Colton Cummings,49045,United States Military Academy,Hunter Lucas,45132,Ohio State
+2018,11/04,Princeton Open,125,W,DEC,7 - 4,Luke Resnick,51027,Lehigh,Hunter Lucas,45132,Ohio State
+2018,01/28,Purdue - Ohio State Dual,133,L,MD,10 - 2,Ben Thornton,20350,Purdue,Brakan Mead,50226,Ohio State
+2018,01/14,Purple Raider Open,125,L,MFOR,0 - 0,Brady Koontz,50853,Ohio State,Brakan Mead,50226,Ohio State
+2018,01/14,Purple Raider Open,125,L,MFOR,0 - 0,Joey Thomas,51008,West Virginia,Brakan Mead,50226,Ohio State
+2018,01/14,Purple Raider Open,125,L,MFOR,0 - 0,Brock Bergelin,49078,Central Michigan,Brakan Mead,50226,Ohio State
+2018,01/14,Purple Raider Open,125,W,DEC,9 - 7,Jack Medley,51392,Michigan,Brakan Mead,50226,Ohio State
+2018,01/07,Ohio State - Rutgers Dual,125,L,TF5,24 - 9 7:00,Nick Suriano,44648,Rutgers,Brakan Mead,50226,Ohio State
+2018,12/17,Ohio State - Chattanooga Dual,125,L,DEC,6 - 3,Alonzo Allen,19765,Chattanooga,Brakan Mead,50226,Ohio State
+2018,12/15,Ohio State - Princeton Dual,125,W,DEC,11 - 8,Matteo DeVincenzo,44772,Princeton,Brakan Mead,50226,Ohio State
+2018,12/10,Indiana - Ohio State Dual,125,L,DEC,9 - 5,Elijah Oliver,39583,Indiana,Brakan Mead,50226,Ohio State
+2018,12/01,Cliff Keen Invitational,125,L,MD,14 - 2,Connor Schram,14982,Stanford,Brakan Mead,50226,Ohio State
+2018,12/01,Cliff Keen Invitational,125,W,DEC,3 - 2,Aslan Kilic,45565,Navy,Brakan Mead,50226,Ohio State
+2018,12/01,Cliff Keen Invitational,125,L,DEC,10 - 4,Trey Keeley,44696,Brown,Brakan Mead,50226,Ohio State
+2018,12/01,Cliff Keen Invitational,125,W,DEC,4 - 3,Sean Williams,16527,Fresno State,Brakan Mead,50226,Ohio State
+2018,11/21,Kent State - Ohio State Dual,125,L,DEC,10 - 5,Will Bardezbain,42644,Kent State,Brakan Mead,50226,Ohio State
+2018,11/21,Cleveland State - Ohio State Dual,125,L,DEC,7 - 3,Cameron Lathem,44691,Cleveland State,Brakan Mead,50226,Ohio State
+2018,11/12,Arizona State - Ohio State Dual,125,L,FALL,5:16,Ryan Millhof,20815,Arizona State,Brakan Mead,50226,Ohio State
+2018,11/04,Princeton Open,125,L,DEC,7 - 1,Jonathan Gomez,49300,Princeton,Brakan Mead,50226,Ohio State
+2018,11/04,Princeton Open,125,W,FALL,4:56,Colton Cummings,49045,United States Military Academy,Brakan Mead,50226,Ohio State
+2018,11/04,Princeton Open,125,L,SV-1,2 - 1,Austin Petril,40771,Kutztown,Brakan Mead,50226,Ohio State
+2018,11/04,Princeton Open,125,W,DEC,8 - 3,Luke Resnick,51027,Lehigh,Brakan Mead,50226,Ohio State
+2018,11/04,Princeton Open,125,W,DEC,6 - 3,Michael Macklin,39870,Bucknell,Brakan Mead,50226,Ohio State
+2018,11/04,Princeton Open,125,W,FALL,2:12,Mike Simonetti,51025,Franklin & Marshall,Brakan Mead,50226,Ohio State
+2018,01/14,Purple Raider Open,125,L,DEC,6 - 5,Hunter Lucas,45132,Ohio State,Brady Koontz,50853,Ohio State
+2018,01/14,Purple Raider Open,125,W,DEC,5 - 3,Marshall Craig,51419,Purdue,Brady Koontz,50853,Ohio State
+2018,01/14,Purple Raider Open,125,W,DEC,2 - 1,Jack Medley,51392,Michigan,Brady Koontz,50853,Ohio State
+2018,01/14,Purple Raider Open,125,W,MFOR,0 - 0,Brakan Mead,50226,Ohio State,Brady Koontz,50853,Ohio State
+2018,01/14,Purple Raider Open,125,L,DEC,7 - 2,Brock Bergelin,49078,Central Michigan,Brady Koontz,50853,Ohio State
+2018,01/14,Purple Raider Open,125,W,DEC,5 - 1,Anthony Tripke,49855,Ohio Valley University,Brady Koontz,50853,Ohio State
+2018,01/14,Purple Raider Open,125,W,TB-2,2 - 1,Jack Medley,51392,Michigan,Brady Koontz,50853,Ohio State
+2018,12/16,Cleveland State Open,125,L,MFOR,0 - 0,Andy Richard,50050,Appalachian State,Brady Koontz,50853,Ohio State
+2018,12/16,Cleveland State Open,125,L,DEC,4 - 1,Fabian Gutierrez,45245,Chattanooga,Brady Koontz,50853,Ohio State
+2018,12/16,Cleveland State Open,125,W,DEC,6 - 5,Devin Brown,39619,West Virginia,Brady Koontz,50853,Ohio State
+2018,12/03,Storm Open,125,L,DEC,9 - 5,Hunter Lucas,45132,Ohio State,Brady Koontz,50853,Ohio State
+2018,12/03,Storm Open,125,W,DEC,6 - 1,Nicholas Berry,49937,Baldwin Wallace,Brady Koontz,50853,Ohio State
+2018,12/03,Storm Open,125,W,FALL,4:48,Kyle Quinn,41237,Notre Dame,Brady Koontz,50853,Ohio State
+2018,12/03,Storm Open,125,W,DEC,8 - 5,Gavin Park,49094,Clarion,Brady Koontz,50853,Ohio State
+2018,11/18,Findlay Open,125,L,DEC,13 - 7,Hunter Lucas,45132,Ohio State,Brady Koontz,50853,Ohio State
+2018,11/18,Findlay Open,125,W,DEC,9 - 5,Sebastian Vidika,47120,Ashland,Brady Koontz,50853,Ohio State
+2018,11/18,Findlay Open,125,W,DEC,3 - 2,Jacob Dunlop,59662,Gannon,Brady Koontz,50853,Ohio State
+2018,11/18,Findlay Open,125,W,FALL,1:26,Nathaniel Stubblefield,46566,Tiffin University,Brady Koontz,50853,Ohio State
+2018,11/11,Eastern Michigan Open,125,W,DEC,8 - 5,Bryce West,50039,Northern Illinois,Brady Koontz,50853,Ohio State
+2018,11/11,Eastern Michigan Open,125,L,FALL,2:25,Drew West,50041,Northern Illinois,Brady Koontz,50853,Ohio State
+2018,11/11,Eastern Michigan Open,125,W,FALL,3:41,Donte River-Garcia,51497,Muskegon Community College,Brady Koontz,50853,Ohio State
+2018,11/11,Eastern Michigan Open,125,W,FALL,3:40,Amir Muhammad,51060,Edinboro,Brady Koontz,50853,Ohio State
+2018,11/05,Michigan State Open,125,W,FALL,3:57,Jason Givens-Brewster,51506,Lake Erie College,Brady Koontz,50853,Ohio State
+2018,11/05,Michigan State Open,125,W,DEC,5 - 1,Bryce Davis,51484,Ashland,Brady Koontz,50853,Ohio State
+2018,11/05,Michigan State Open,125,L,DEC,7 - 3,Jack Medley,51392,Michigan,Brady Koontz,50853,Ohio State
+2018,11/05,Michigan State Open,125,W,DEC,5 - 1,Josh Contreras,50857,Illinois,Brady Koontz,50853,Ohio State
+2018,11/05,Michigan State Open,125,L,DEC,3 - 2,Brock Bergelin,49078,Central Michigan,Brady Koontz,50853,Ohio State
+2018,11/05,Michigan State Open,125,W,MD,13 - 4,Marshall Craig,51419,Purdue,Brady Koontz,50853,Ohio State
+2018,03/15,NCAA Championships,133,W,DEC,12 - 8,Kaid Brock,39544,Oklahoma State,Luke Pletcher,44636,Ohio State
+2018,03/15,NCAA Championships,133,L,MD,17 - 8,Tariq Wilson,44862,NC State,Luke Pletcher,44636,Ohio State
+2018,03/15,NCAA Championships,133,L,DEC,8 - 4,Stevan Micic,20223,Michigan,Luke Pletcher,44636,Ohio State
+2018,03/15,NCAA Championships,133,W,DEC,3 - 1,Scott Parker,19985,Lehigh,Luke Pletcher,44636,Ohio State
+2018,03/15,NCAA Championships,133,W,DEC,4 - 3,Korbin Myers,39637,Edinboro,Luke Pletcher,44636,Ohio State
+2018,03/15,NCAA Championships,133,W,DEC,2 - 1,Mason Pengilly,20392,Stanford,Luke Pletcher,44636,Ohio State
+2018,03/03,Big Ten Championships,133,L,DEC,7 - 4,Stevan Micic,20223,Michigan,Luke Pletcher,44636,Ohio State
+2018,03/03,Big Ten Championships,133,W,SV-1,6 - 4,Mitch McKee,45139,Minnesota,Luke Pletcher,44636,Ohio State
+2018,03/03,Big Ten Championships,133,W,DEC,5 - 4,Garrett Pepple,39561,Indiana,Luke Pletcher,44636,Ohio State
+2018,03/03,Big Ten Championships,133,W,DEC,4 - 3,Dylan Duncan,44647,Illinois,Luke Pletcher,44636,Ohio State
+2018,02/18,Ohio State - North Carolina State Dual,133,W,DEC,7 - 3,Tariq Wilson,44862,NC State,Luke Pletcher,44636,Ohio State
+2018,02/11,Ohio State - Michigan Dual,133,L,DEC,11 - 4,Stevan Micic,20223,Michigan,Luke Pletcher,44636,Ohio State
+2018,02/03,Ohio State - Penn State Dual,133,W,DEC,5 - 4,Corey Keener,12111,Penn State,Luke Pletcher,44636,Ohio State
+2018,01/26,Ohio State - Michigan State Dual,133,W,FALL,4:35,Nathan Ellis,48561,Michigan State,Luke Pletcher,44636,Ohio State
+2018,01/21,Iowa - Ohio State Dual,133,W,DEC,8 - 2,Paul Glynn,39535,Iowa,Luke Pletcher,44636,Ohio State
+2018,01/12,Minnesota - Ohio State Dual,133,W,DEC,9 - 6,Steve Polakowski,20046,Minnesota,Luke Pletcher,44636,Ohio State
+2018,01/07,Ohio State - Rutgers Dual,133,W,DEC,4 - 2,Scott DelVecchio,12021,Rutgers,Luke Pletcher,44636,Ohio State
+2018,01/05,Ohio State - Maryland Dual,133,W,MD,17 - 6,Jhared Simmons,20012,Maryland,Luke Pletcher,44636,Ohio State
+2018,12/17,Ohio State - Chattanooga Dual,133,W,MD,12 - 4,Jake Huffine,40207,Chattanooga,Luke Pletcher,44636,Ohio State
+2018,12/15,Ohio State - Princeton Dual,133,W,DEC,9 - 3,Ty Agaisse,45131,Princeton,Luke Pletcher,44636,Ohio State
+2018,12/10,Indiana - Ohio State Dual,133,W,DEC,4 - 3,Garrett Pepple,39561,Indiana,Luke Pletcher,44636,Ohio State
+2018,12/01,Cliff Keen Invitational,133,W,DEC,2 - 1,Ben Thornton,20350,Purdue,Luke Pletcher,44636,Ohio State
+2018,12/01,Cliff Keen Invitational,133,W,DEC,8 - 6,Montorie Bridges,44844,Wyoming,Luke Pletcher,44636,Ohio State
+2018,12/01,Cliff Keen Invitational,133,W,DEC,5 - 1,Korbin Myers,39637,Edinboro,Luke Pletcher,44636,Ohio State
+2018,12/01,Cliff Keen Invitational,133,W,DEC,5 - 2,Ali Naser,23812,Arizona State,Luke Pletcher,44636,Ohio State
+2018,12/01,Cliff Keen Invitational,133,W,DEC,9 - 2,Josh Terao,20533,American,Luke Pletcher,44636,Ohio State
+2018,12/01,Cliff Keen Invitational,133,W,DEC,7 - 5,Stevan Micic,20223,Michigan,Luke Pletcher,44636,Ohio State
+2018,11/21,Kent State - Ohio State Dual,133,W,DEC,2 - 0,Anthony Tutolo,19968,Kent State,Luke Pletcher,44636,Ohio State
+2018,11/21,Cleveland State - Ohio State Dual,133,W,FALL,4:12,Andrew Coghill,19800,Cleveland State,Luke Pletcher,44636,Ohio State
+2018,11/12,Arizona State - Ohio State Dual,133,W,SV-1,7 - 5,Ali Naser,23812,Arizona State,Luke Pletcher,44636,Ohio State
+2018,11/04,Princeton Open,133,W,DEC,10 - 7,Anthony Cefolo,40284,Rider,Luke Pletcher,44636,Ohio State
+2018,11/04,Princeton Open,133,W,SV-1,10 - 4,Nick Farro,44590,Lehigh,Luke Pletcher,44636,Ohio State
+2018,11/04,Princeton Open,133,W,DEC,3 - 2,Brandon Paetzell,44578,Lehigh,Luke Pletcher,44636,Ohio State
+2018,11/04,Princeton Open,133,W,DEC,11 - 5,Wil Gil,51024,Franklin & Marshall,Luke Pletcher,44636,Ohio State
+2018,01/14,Purple Raider Open,133,W,DEC,7 - 3,Colin Schuster,51178,Kent State,Dylan Koontz,50854,Ohio State
+2018,01/14,Purple Raider Open,133,L,MD,13 - 4,Drew Marten,49077,Central Michigan,Dylan Koontz,50854,Ohio State
+2018,01/14,Purple Raider Open,133,L,FALL,1:11,Jack Cheney,51721,Purdue,Dylan Koontz,50854,Ohio State
+2018,12/16,Cleveland State Open,133,L,FALL,4:22,Jonathan Martin,45272,Central Michigan,Dylan Koontz,50854,Ohio State
+2018,12/16,Cleveland State Open,133,W,FALL,5:48,Richie Gomez,51062,Edinboro,Dylan Koontz,50854,Ohio State
+2018,12/16,Cleveland State Open,133,L,FALL,4:38,Deven Perez,45274,Central Michigan,Dylan Koontz,50854,Ohio State
+2018,12/03,Storm Open,133,L,MD,13 - 4,David Bavery,47138,Notre Dame,Dylan Koontz,50854,Ohio State
+2018,12/03,Storm Open,133,W,FALL,4:59,David Poff,50131,Lake Erie College,Dylan Koontz,50854,Ohio State
+2018,12/03,Storm Open,133,W,FALL,3:00,Antonio Estrada,50303,Notre Dame,Dylan Koontz,50854,Ohio State
+2018,12/03,Storm Open,133,L,DEC,8 - 6,Harry Feuer,47546,Kent State,Dylan Koontz,50854,Ohio State
+2018,11/18,Findlay Open,133,W,INJ,7:00,Forrest Glogouski,41619,Lake Erie College,Dylan Koontz,50854,Ohio State
+2018,11/18,Findlay Open,133,W,INJ,7:00,Ivan McClay,46063,Notre Dame,Dylan Koontz,50854,Ohio State
+2018,11/18,Findlay Open,133,L,DEC,12 - 8,John Shirkey,52296,Ohio Northern,Dylan Koontz,50854,Ohio State
+2018,11/18,Findlay Open,133,W,DEC,7 - 1,Dan Morell,43205,Ashland,Dylan Koontz,50854,Ohio State
+2018,11/18,Findlay Open,133,L,DEC,8 - 4,Jerry Fenner III,46541,Ashland,Dylan Koontz,50854,Ohio State
+2018,11/18,Findlay Open,133,W,DEC,8 - 2,Connor Allen,47548,Indianapolis,Dylan Koontz,50854,Ohio State
+2018,11/11,Eastern Michigan Open,133,L,DEC,6 - 3,Michael De La Peña,50427,Indiana,Dylan Koontz,50854,Ohio State
+2018,11/11,Eastern Michigan Open,133,W,MD,12 - 2,Cody Orcutt,51720,Davenport,Dylan Koontz,50854,Ohio State
+2018,11/11,Eastern Michigan Open,133,W,FALL,8:00,Richie Gomez,51062,Edinboro,Dylan Koontz,50854,Ohio State
+2018,11/11,Eastern Michigan Open,133,L,MD,15 - 3,Cody Trybus,45568,Navy,Dylan Koontz,50854,Ohio State
+2018,11/05,Michigan State Open,133,L,DEC,9 - 3,Clay Smith,51209,Michigan State,Dylan Koontz,50854,Ohio State
+2018,11/05,Michigan State Open,133,L,DEC,9 - 4,Chance Ikei,45178,Arizona State,Dylan Koontz,50854,Ohio State
+2018,03/15,NCAA Championships,141,W,DEC,4 - 3,Kevin Jack,20130,NC State,Joseph McKenna,24215,Ohio State
+2018,03/15,NCAA Championships,141,W,DEC,7 - 2,Jaydin Eierman,39508,Missouri,Joseph McKenna,24215,Ohio State
+2018,03/15,NCAA Championships,141,L,DEC,1 - 0,Bryce Meredith,20135,Wyoming,Joseph McKenna,24215,Ohio State
+2018,03/15,NCAA Championships,141,W,DEC,8 - 3,Tyler Smith,22439,Bucknell,Joseph McKenna,24215,Ohio State
+2018,03/15,NCAA Championships,141,W,TF5,15 - 0 5:18,Luke Karam,44703,Lehigh,Joseph McKenna,24215,Ohio State
+2018,03/15,NCAA Championships,141,W,TF5,16 - 1 5:20,Alex Madrigal,39754,Old Dominion,Joseph McKenna,24215,Ohio State
+2018,03/03,Big Ten Championships,141,W,MD,13 - 0,Mike Carr,44645,Illinois,Joseph McKenna,24215,Ohio State
+2018,03/03,Big Ten Championships,141,W,DEC,6 - 0,Nate Limmex,39663,Purdue,Joseph McKenna,24215,Ohio State
+2018,03/03,Big Ten Championships,141,W,FALL,2:12,Javier Gasca,13435,Michigan State,Joseph McKenna,24215,Ohio State
+2018,03/03,Big Ten Championships,141,W,DEC,4 - 0,Vincent Turk,39726,Iowa,Joseph McKenna,24215,Ohio State
+2018,02/18,Ohio State - North Carolina State Dual,141,W,DEC,6 - 2,Kevin Jack,20130,NC State,Joseph McKenna,24215,Ohio State
+2018,02/11,Ohio State - Michigan Dual,141,W,DEC,6 - 2,Salvatore Profaci,39825,Michigan,Joseph McKenna,24215,Ohio State
+2018,02/03,Ohio State - Penn State Dual,141,W,DEC,7 - 6,Nick Lee,49276,Penn State,Joseph McKenna,24215,Ohio State
+2018,01/28,Purdue - Ohio State Dual,141,W,DEC,6 - 0,Nate Limmex,39663,Purdue,Joseph McKenna,24215,Ohio State
+2018,01/26,Ohio State - Michigan State Dual,141,W,FALL,1:23,Kole Krauss,45305,Michigan State,Joseph McKenna,24215,Ohio State
+2018,01/21,Iowa - Ohio State Dual,141,W,MD,13 - 2,Carter Happel,44756,Iowa,Joseph McKenna,24215,Ohio State
+2018,01/12,Minnesota - Ohio State Dual,141,L,MD,13 - 3,Thomas Thorn,21082,Minnesota,Joseph McKenna,24215,Ohio State
+2018,01/07,Ohio State - Rutgers Dual,141,W,MD,13 - 3,Mike Van Brill,44613,Rutgers,Joseph McKenna,24215,Ohio State
+2018,01/05,Ohio State - Maryland Dual,141,W,TF5,23 - 5 7:00,Ryan Diehl,40240,Maryland,Joseph McKenna,24215,Ohio State
+2018,12/17,Ohio State - Chattanooga Dual,141,W,DEC,8 - 2,Michael Pongracz,11726,Chattanooga,Joseph McKenna,24215,Ohio State
+2018,12/15,Ohio State - Princeton Dual,141,W,MD,10 - 2,Pat D'arcy,43692,Princeton,Joseph McKenna,24215,Ohio State
+2018,12/10,Indiana - Ohio State Dual,141,W,DEC,8 - 2,Cole Weaver,20529,Indiana,Joseph McKenna,24215,Ohio State
+2018,11/12,Arizona State - Ohio State Dual,141,W,DEC,6 - 1,Cory Crooks,45179,Arizona State,Joseph McKenna,24215,Ohio State
+2018,02/03,Edinboro Open,141,L,DEC,6 - 1,Caden Darber,50898,Virginia Tech,Clay Ragon,45201,Ohio State
+2018,02/03,Edinboro Open,141,L,MD,10 - 2,Cory Crooks,45179,Arizona State,Clay Ragon,45201,Ohio State
+2018,02/03,Edinboro Open,141,W,DEC,9 - 5,Travis Layton,49041,Rider,Clay Ragon,45201,Ohio State
+2018,01/14,Purple Raider Open,141,W,MD,9 - 1,De'Ante Evans,54857,Toledo,Clay Ragon,45201,Ohio State
+2018,01/14,Purple Raider Open,141,L,MD,13 - 0,Chandler Minnard,41856,Ashland,Clay Ragon,45201,Ohio State
+2018,01/14,Purple Raider Open,141,L,DEC,3 - 2,Nick Lombard,51422,Michigan,Clay Ragon,45201,Ohio State
+2018,11/21,Cleveland State - Ohio State Dual,141,W,SV-1,9 - 7,Sam Matzek,41219,Cleveland State,Clay Ragon,45201,Ohio State
+2018,11/11,Eastern Michigan Open,141,W,INJ,7:00,Kyle Hennig,51056,Cleveland State,Clay Ragon,45201,Ohio State
+2018,11/11,Eastern Michigan Open,141,W,SV-1,9 - 7,Jackson Renicker,45310,Michigan State,Clay Ragon,45201,Ohio State
+2018,11/11,Eastern Michigan Open,141,L,DEC,10 - 6,Nick Lombard,51422,Michigan,Clay Ragon,45201,Ohio State
+2018,11/11,Eastern Michigan Open,141,L,TF5,18 - 0 4:19,Jake Martinez,49159,Kent State,Clay Ragon,45201,Ohio State
+2018,11/04,Princeton Open,141,W,SV-1,3 - 1,Mark McCormick,44597,Rider,Clay Ragon,45201,Ohio State
+2018,11/04,Princeton Open,141,W,FALL,2:03,Hunter Adams,51116,Sacred Heart,Clay Ragon,45201,Ohio State
+2018,11/04,Princeton Open,141,L,MD,10 - 2,Pat D'arcy,43692,Princeton,Clay Ragon,45201,Ohio State
+2018,11/04,Princeton Open,141,L,DEC,8 - 1,Danny Moran,49162,Lehigh,Clay Ragon,45201,Ohio State
+2018,01/14,Purple Raider Open,141,W,FALL,0:23,Daniel Bishel,51667,Penn State Behrend,Jaimen Hood,50067,Ohio State
+2018,01/14,Purple Raider Open,141,W,MD,13 - 4,Brendan Fitzgerald,45202,Ohio State,Jaimen Hood,50067,Ohio State
+2018,01/14,Purple Raider Open,141,L,MD,15 - 6,Reiley Brown,45273,Central Michigan,Jaimen Hood,50067,Ohio State
+2018,01/14,Purple Raider Open,141,L,DEC,7 - 4,Alec White,49305,Purdue,Jaimen Hood,50067,Ohio State
+2018,12/16,Cleveland State Open,141,W,DEC,11 - 8,Chase Bates,54086,Mott Community College,Jaimen Hood,50067,Ohio State
+2018,12/16,Cleveland State Open,141,L,DEC,3 - 1,Chance Driscoll,11980,Kent State,Jaimen Hood,50067,Ohio State
+2018,12/16,Cleveland State Open,141,L,FALL,2:37,Ben Freeman,49177,Michigan,Jaimen Hood,50067,Ohio State
+2018,01/14,Purple Raider Open,141,L,MD,13 - 4,Jaimen Hood,50067,Ohio State,Brendan Fitzgerald,45202,Ohio State
+2018,01/14,Purple Raider Open,141,W,FALL,0:16,Aaron J Kammeyer,53679,Mount Union,Brendan Fitzgerald,45202,Ohio State
+2018,01/14,Purple Raider Open,141,L,FALL,4:21,Evan Cheek,40190,Cleveland State,Brendan Fitzgerald,45202,Ohio State
+2018,12/16,Cleveland State Open,141,L,DEC,7 - 0,John Millner,50212,Appalachian State,Brendan Fitzgerald,45202,Ohio State
+2018,12/16,Cleveland State Open,141,L,FALL,3:54,Denton Spencer,49134,Gardner-Webb,Brendan Fitzgerald,45202,Ohio State
+2018,12/16,Cleveland State Open,141,W,FALL,0:46,Brendan Black,50346,Michigan State,Brendan Fitzgerald,45202,Ohio State
+2018,12/16,Cleveland State Open,141,W,FALL,4:18,Ben Freeman,49177,Michigan,Brendan Fitzgerald,45202,Ohio State
+2018,12/01,Cliff Keen Invitational,141,L,TF5,17 - 0 4:03,Isaiah Locsin,20391,Stanford,Brendan Fitzgerald,45202,Ohio State
+2018,12/01,Cliff Keen Invitational,141,L,TF5,15 - 0 3:16,Mason Smith,39789,Central Michigan,Brendan Fitzgerald,45202,Ohio State
+2018,11/21,Kent State - Ohio State Dual,141,L,FALL,6:56,Tim Rooney,39949,Kent State,Brendan Fitzgerald,45202,Ohio State
+2018,11/18,Findlay Open,141,W,FALL,0:44,Matt Oblock,52294,Wheeling,Brendan Fitzgerald,45202,Ohio State
+2018,11/18,Findlay Open,141,L,DEC,10 - 6,Carson Speelman,51971,Ashland,Brendan Fitzgerald,45202,Ohio State
+2018,11/18,Findlay Open,141,W,MFOR,0 - 0,Angelo Robles,24586,Indianapolis,Brendan Fitzgerald,45202,Ohio State
+2018,11/18,Findlay Open,141,W,FALL,1:33,Tyler Alberts,49454,Wheeling,Brendan Fitzgerald,45202,Ohio State
+2018,11/18,Findlay Open,141,W,MFOR,0 - 0,Connor Knapp,42238,Indianapolis,Brendan Fitzgerald,45202,Ohio State
+2018,11/18,Findlay Open,141,W,FALL,0:26,Aidan Pierobon,52295,Ohio Northern,Brendan Fitzgerald,45202,Ohio State
+2018,11/18,Findlay Open,141,L,DEC,5 - 4,Matt McKinney,47522,Indianapolis,Brendan Fitzgerald,45202,Ohio State
+2018,11/05,Michigan State Open,141,L,FALL,5:33,Alec McKenna,39584,Northwestern,Brendan Fitzgerald,45202,Ohio State
+2018,11/05,Michigan State Open,141,W,FALL,0:27,Ben Lamantia,39644,Michigan,Brendan Fitzgerald,45202,Ohio State
+2018,11/05,Michigan State Open,141,L,TF5,18 - 2 7:00,Mason Smith,39789,Central Michigan,Brendan Fitzgerald,45202,Ohio State
+2018,11/05,Michigan State Open,141,W,FALL,0:36,Nicholas Villarreal,42556,Arizona State,Brendan Fitzgerald,45202,Ohio State
+2018,03/15,NCAA Championships,149,L,MD,9 - 0,Brandon Sorensen,13456,Iowa,Ke-Shawn Hayes,39609,Ohio State
+2018,03/15,NCAA Championships,149,L,TB-1,2 - 1,Troy Heilmann,12036,North Carolina,Ke-Shawn Hayes,39609,Ohio State
+2018,03/15,NCAA Championships,149,W,DEC,12 - 6,Ryan Blees,20267,Virginia Tech,Ke-Shawn Hayes,39609,Ohio State
+2018,03/15,NCAA Championships,149,W,TB-1,6 - 5,Malik Amine,14753,Michigan,Ke-Shawn Hayes,39609,Ohio State
+2018,03/03,Big Ten Championships,149,W,DEC,7 - 5,Colton McCrystal,13191,Nebraska,Ke-Shawn Hayes,39609,Ohio State
+2018,03/03,Big Ten Championships,149,L,MD,10 - 0,Zain Retherford,11781,Penn State,Ke-Shawn Hayes,39609,Ohio State
+2018,03/03,Big Ten Championships,149,W,DEC,7 - 6,Colton McCrystal,13191,Nebraska,Ke-Shawn Hayes,39609,Ohio State
+2018,03/03,Big Ten Championships,149,W,MD,9 - 1,Alfred Bannister,19997,Maryland,Ke-Shawn Hayes,39609,Ohio State
+2018,03/03,Big Ten Championships,149,W,MD,12 - 1,Eric Barone,39566,Illinois,Ke-Shawn Hayes,39609,Ohio State
+2018,02/18,Ohio State - North Carolina State Dual,149,W,DEC,11 - 5,Beau Donahue,11933,NC State,Ke-Shawn Hayes,39609,Ohio State
+2018,02/11,Ohio State - Michigan Dual,149,W,DEC,9 - 2,Malik Amine,14753,Michigan,Ke-Shawn Hayes,39609,Ohio State
+2018,02/03,Ohio State - Penn State Dual,149,L,TF5,20 - 4 7:00,Zain Retherford,11781,Penn State,Ke-Shawn Hayes,39609,Ohio State
+2018,01/28,Purdue - Ohio State Dual,149,W,TF5,24 - 6 7:00,Austin Nash,39744,Purdue,Ke-Shawn Hayes,39609,Ohio State
+2018,01/26,Ohio State - Michigan State Dual,149,W,TF5,16 - 1 7:00,Jwan Britton,45307,Michigan State,Ke-Shawn Hayes,39609,Ohio State
+2018,01/21,Iowa - Ohio State Dual,149,L,DEC,4 - 2,Brandon Sorensen,13456,Iowa,Ke-Shawn Hayes,39609,Ohio State
+2018,01/12,Minnesota - Ohio State Dual,149,W,MD,14 - 2,Ben Brancale,39822,Minnesota,Ke-Shawn Hayes,39609,Ohio State
+2018,01/07,Ohio State - Rutgers Dual,149,L,DEC,12 - 6,Eleazar DeLuca,21757,Rutgers,Ke-Shawn Hayes,39609,Ohio State
+2018,01/05,Ohio State - Maryland Dual,149,W,MD,8 - 0,Alfred Bannister,19997,Maryland,Ke-Shawn Hayes,39609,Ohio State
+2018,12/17,Ohio State - Chattanooga Dual,149,W,TF5,16 - 0 5:22,Chris Debien,39720,Chattanooga,Ke-Shawn Hayes,39609,Ohio State
+2018,12/15,Ohio State - Princeton Dual,149,W,DEC,2 - 0,Matt Kolodzik,45071,Princeton,Ke-Shawn Hayes,39609,Ohio State
+2018,12/10,Indiana - Ohio State Dual,149,W,TF5,16 - 0 2:58,Davey Tunon,44908,Indiana,Ke-Shawn Hayes,39609,Ohio State
+2018,12/01,Cliff Keen Invitational,149,W,DEC,4 - 3,Max Thomsen,39503,Northern Iowa,Ke-Shawn Hayes,39609,Ohio State
+2018,12/01,Cliff Keen Invitational,149,L,DEC,10 - 8,Troy Heilmann,12036,North Carolina,Ke-Shawn Hayes,39609,Ohio State
+2018,12/01,Cliff Keen Invitational,149,W,MFOR,0 - 0,Colton McCrystal,13191,Nebraska,Ke-Shawn Hayes,39609,Ohio State
+2018,12/01,Cliff Keen Invitational,149,W,MD,9 - 1,Corey Wilding,20626,Navy,Ke-Shawn Hayes,39609,Ohio State
+2018,12/01,Cliff Keen Invitational,149,W,TF5,16 - 0 2:29,Kyle Springer,37484,Eastern Michigan,Ke-Shawn Hayes,39609,Ohio State
+2018,12/01,Cliff Keen Invitational,149,W,DEC,7 - 1,Jacob Macalolooy,19813,Columbia,Ke-Shawn Hayes,39609,Ohio State
+2018,12/01,Cliff Keen Invitational,149,W,MD,13 - 2,Michael Sprague,19618,American,Ke-Shawn Hayes,39609,Ohio State
+2018,11/21,Kent State - Ohio State Dual,149,W,DEC,7 - 2,Nick Monico,44694,Kent State,Ke-Shawn Hayes,39609,Ohio State
+2018,11/21,Cleveland State - Ohio State Dual,149,W,MD,12 - 2,Ryan Ford,44594,Cleveland State,Ke-Shawn Hayes,39609,Ohio State
+2018,11/12,Arizona State - Ohio State Dual,149,W,DEC,6 - 3,Josh Maruca,39512,Arizona State,Ke-Shawn Hayes,39609,Ohio State
+2018,11/04,Princeton Open,149,W,TF5,17 - 0 7:00,Christian Innarella,20336,Princeton,Ke-Shawn Hayes,39609,Ohio State
+2018,11/04,Princeton Open,149,W,DEC,7 - 6,Alfred Bannister,19997,Maryland,Ke-Shawn Hayes,39609,Ohio State
+2018,11/04,Princeton Open,149,W,TF5,16 - 0 7:00,Camden Fischer,19978,Lehigh,Ke-Shawn Hayes,39609,Ohio State
+2018,11/04,Princeton Open,149,W,FALL,3:26,Patrick Quinlan,20543,Franklin & Marshall,Ke-Shawn Hayes,39609,Ohio State
+2018,11/04,Princeton Open,149,W,TF5,15 - 0 7:00,Dylan Wood,51028,Binghamton,Ke-Shawn Hayes,39609,Ohio State
+2018,03/15,NCAA Championships,157,L,SV-1,4 - 2,Tyler Berger,20096,Nebraska,Micah Jordan,20557,Ohio State
+2018,03/15,NCAA Championships,157,L,DEC,6 - 3,Alec Pantaleo,20020,Michigan,Micah Jordan,20557,Ohio State
+2018,03/15,NCAA Championships,157,L,TF5,16 - 0 4:28,Jason Nolf,20303,Penn State,Micah Jordan,20557,Ohio State
+2018,03/15,NCAA Championships,157,W,MD,17 - 5,John Van Brill,20367,Rutgers,Micah Jordan,20557,Ohio State
+2018,03/15,NCAA Championships,157,W,FALL,3:10,Markus Scheidel,13741,Columbia,Micah Jordan,20557,Ohio State
+2018,03/15,NCAA Championships,157,W,MD,14 - 5,Luke Weiland,41243,Army West Point,Micah Jordan,20557,Ohio State
+2018,03/03,Big Ten Championships,157,L,DEC,3 - 1,Alec Pantaleo,20020,Michigan,Micah Jordan,20557,Ohio State
+2018,03/03,Big Ten Championships,157,W,DEC,4 - 3,Tyler Berger,20096,Nebraska,Micah Jordan,20557,Ohio State
+2018,03/03,Big Ten Championships,157,W,FALL,5:48,Michael Kemerer,39526,Iowa,Micah Jordan,20557,Ohio State
+2018,02/18,Ohio State - North Carolina State Dual,157,L,DEC,6 - 3,Hayden Hidlay,44595,NC State,Micah Jordan,20557,Ohio State
+2018,02/11,Ohio State - Michigan Dual,157,L,DEC,12 - 7,Alec Pantaleo,20020,Michigan,Micah Jordan,20557,Ohio State
+2018,02/03,Ohio State - Penn State Dual,157,W,TF5,24 - 9 6:06,Bo Pipher,45075,Penn State,Micah Jordan,20557,Ohio State
+2018,01/28,Purdue - Ohio State Dual,157,W,MD,21 - 9,Cole Wysocki,39960,Purdue,Micah Jordan,20557,Ohio State
+2018,01/26,Ohio State - Michigan State Dual,157,W,FALL,3:36,Jacob Tucker,44639,Michigan State,Micah Jordan,20557,Ohio State
+2018,01/21,Iowa - Ohio State Dual,157,L,DEC,8 - 4,Michael Kemerer,39526,Iowa,Micah Jordan,20557,Ohio State
+2018,01/12,Minnesota - Ohio State Dual,157,W,DEC,11 - 4,Jake Short,13599,Minnesota,Micah Jordan,20557,Ohio State
+2018,01/07,Ohio State - Rutgers Dual,157,W,DEC,11 - 5,John Van Brill,20367,Rutgers,Micah Jordan,20557,Ohio State
+2018,01/05,Ohio State - Maryland Dual,157,W,INJ,7:00,Justin Alexander,11801,Maryland,Micah Jordan,20557,Ohio State
+2018,12/17,Ohio State - Chattanooga Dual,157,W,FALL,1:25,Dylan Forzani,45243,Chattanooga,Micah Jordan,20557,Ohio State
+2018,12/15,Ohio State - Princeton Dual,157,W,MD,15 - 6,Mike D'angelo,43678,Princeton,Micah Jordan,20557,Ohio State
+2018,12/10,Indiana - Ohio State Dual,157,W,MD,14 - 4,Jake Danishek,20520,Indiana,Micah Jordan,20557,Ohio State
+2018,12/01,Cliff Keen Invitational,157,W,FALL,3:28,Casey Sparkman,19970,Kent State,Micah Jordan,20557,Ohio State
+2018,12/01,Cliff Keen Invitational,157,W,FALL,4:05,Tristan Rifanburg,39674,Binghamton,Micah Jordan,20557,Ohio State
+2018,12/01,Cliff Keen Invitational,157,W,MD,19 - 6,Luke Weiland,41243,Army West Point,Micah Jordan,20557,Ohio State
+2018,12/01,Cliff Keen Invitational,157,W,FALL,1:19,Jett Moy,44968,Cal Poly,Micah Jordan,20557,Ohio State
+2018,12/01,Cliff Keen Invitational,157,W,SV-1,8 - 6,Josh Shields,39511,Arizona State,Micah Jordan,20557,Ohio State
+2018,12/01,Cliff Keen Invitational,157,L,DEC,10 - 3,Alec Pantaleo,20020,Michigan,Micah Jordan,20557,Ohio State
+2018,11/21,Kent State - Ohio State Dual,157,W,TF5,19 - 4 7:00,Casey Sparkman,19970,Kent State,Micah Jordan,20557,Ohio State
+2018,11/21,Cleveland State - Ohio State Dual,157,W,FALL,5:31,Georgio Poullas,49101,Cleveland State,Micah Jordan,20557,Ohio State
+2018,11/12,Arizona State - Ohio State Dual,157,L,DEC,7 - 4,Josh Shields,39511,Arizona State,Micah Jordan,20557,Ohio State
+2018,11/04,Princeton Open,157,W,DEC,14 - 7,Mike D'angelo,43678,Princeton,Micah Jordan,20557,Ohio State
+2018,11/04,Princeton Open,157,W,FALL,2:39,John Pipa,49294,Princeton,Micah Jordan,20557,Ohio State
+2018,11/04,Princeton Open,157,W,DEC,13 - 9,Paul Klee,19638,Sacred Heart,Micah Jordan,20557,Ohio State
+2018,11/04,Princeton Open,157,W,FALL,0:41,Jon Walden,51278,United States Military Academy,Micah Jordan,20557,Ohio State
+2018,03/15,NCAA Championships,165,W,DEC,9 - 8,Connor Flynn,39676,Missouri,Te'Shan Campbell,40351,Ohio State
+2018,03/15,NCAA Championships,165,L,DEC,4 - 3,Nick Wanzek,11511,Minnesota,Te'Shan Campbell,40351,Ohio State
+2018,03/15,NCAA Championships,165,L,MD,8 - 0,Chad Walsh,13628,Rider,Te'Shan Campbell,40351,Ohio State
+2018,03/15,NCAA Championships,165,W,DEC,4 - 2,Dawaylon Barnes,22085,Oklahoma,Te'Shan Campbell,40351,Ohio State
+2018,03/03,Big Ten Championships,165,L,DEC,6 - 1,Isaiah White,47106,Nebraska,Te'Shan Campbell,40351,Ohio State
+2018,03/03,Big Ten Championships,165,W,MD,9 - 0,Brendan Burnham,39821,Maryland,Te'Shan Campbell,40351,Ohio State
+2018,03/03,Big Ten Championships,165,L,DEC,9 - 3,Alex Marinelli,44574,Iowa,Te'Shan Campbell,40351,Ohio State
+2018,03/03,Big Ten Championships,165,W,MFOR,0 - 0,Bryce Martin,20524,Indiana,Te'Shan Campbell,40351,Ohio State
+2018,02/18,Ohio State - North Carolina State Dual,165,W,DEC,7 - 0,Brian Hamann,13788,NC State,Te'Shan Campbell,40351,Ohio State
+2018,02/11,Ohio State - Michigan Dual,165,L,DEC,7 - 2,Logan Massa,39517,Michigan,Te'Shan Campbell,40351,Ohio State
+2018,02/03,Ohio State - Penn State Dual,165,L,MD,12 - 3,Vincenzo Joseph,39542,Penn State,Te'Shan Campbell,40351,Ohio State
+2018,01/26,Ohio State - Michigan State Dual,165,L,DQ,0 - 0,Austin Hiles,44866,Michigan State,Te'Shan Campbell,40351,Ohio State
+2018,01/21,Iowa - Ohio State Dual,165,L,DEC,4 - 1,Alex Marinelli,44574,Iowa,Te'Shan Campbell,40351,Ohio State
+2018,01/12,Minnesota - Ohio State Dual,165,L,DEC,8 - 5,Nick Wanzek,11511,Minnesota,Te'Shan Campbell,40351,Ohio State
+2018,01/07,Ohio State - Rutgers Dual,165,L,DEC,5 - 2,Richie Lewis,40042,Rutgers,Te'Shan Campbell,40351,Ohio State
+2018,01/05,Ohio State - Maryland Dual,165,W,DEC,7 - 2,Brendan Burnham,39821,Maryland,Te'Shan Campbell,40351,Ohio State
+2018,12/17,Ohio State - Chattanooga Dual,165,W,MD,9 - 1,Chad Pyke,13555,Chattanooga,Te'Shan Campbell,40351,Ohio State
+2018,12/15,Ohio State - Princeton Dual,165,W,MD,8 - 0,Jonathan Schleifer,20340,Princeton,Te'Shan Campbell,40351,Ohio State
+2018,12/01,Cliff Keen Invitational,165,W,MD,11 - 0,Andrew Fogarty,39706,North Dakota State,Te'Shan Campbell,40351,Ohio State
+2018,12/01,Cliff Keen Invitational,165,L,DEC,4 - 1,Isaiah White,47106,Nebraska,Te'Shan Campbell,40351,Ohio State
+2018,12/01,Cliff Keen Invitational,165,W,DEC,3 - 1,Isaiah White,47106,Nebraska,Te'Shan Campbell,40351,Ohio State
+2018,12/01,Cliff Keen Invitational,165,L,DEC,4 - 0,David McFadden,39633,Virginia Tech,Te'Shan Campbell,40351,Ohio State
+2018,12/01,Cliff Keen Invitational,165,W,MFOR,0 - 0,Andrew Mendel,19640,Army West Point,Te'Shan Campbell,40351,Ohio State
+2018,12/01,Cliff Keen Invitational,165,W,FALL,2:15,Demetrius Romero,39948,Utah Valley,Te'Shan Campbell,40351,Ohio State
+2018,11/21,Kent State - Ohio State Dual,165,W,TF5,15 - 0 7:00,Isaac Bast,19972,Kent State,Te'Shan Campbell,40351,Ohio State
+2018,11/21,Cleveland State - Ohio State Dual,165,W,MD,11 - 1,John Vaughn,40905,Cleveland State,Te'Shan Campbell,40351,Ohio State
+2018,11/12,Arizona State - Ohio State Dual,165,W,MD,14 - 0,Anthony Valencia,39500,Arizona State,Te'Shan Campbell,40351,Ohio State
+2018,11/04,Princeton Open,165,W,TF5,18 - 3 7:00,Fritz Schierl,44840,Ohio State,Te'Shan Campbell,40351,Ohio State
+2018,11/04,Princeton Open,165,W,TF5,18 - 0 7:00,Brad Laughlin,51265,United States Military Academy,Te'Shan Campbell,40351,Ohio State
+2018,11/04,Princeton Open,165,W,MD,12 - 2,Idris White,41379,Maryland,Te'Shan Campbell,40351,Ohio State
+2018,11/04,Princeton Open,165,W,TF5,16 - 0 7:00,Tristan Goering,50218,Hofstra,Te'Shan Campbell,40351,Ohio State
+2018,01/28,Purdue - Ohio State Dual,165,W,FALL,0:34,Jacob Morrissey,12818,Purdue,Cody Burcher,20243,Ohio State
+2018,01/14,Purple Raider Open,165,W,MD,8 - 0,Conner Homan,53678,Mount Union,Cody Burcher,20243,Ohio State
+2018,01/14,Purple Raider Open,165,W,FALL,2:51,Georgio Poullas,49101,Cleveland State,Cody Burcher,20243,Ohio State
+2018,01/14,Purple Raider Open,165,W,DEC,4 - 2,Sage Castillo,45270,Central Michigan,Cody Burcher,20243,Ohio State
+2018,01/14,Purple Raider Open,165,W,FALL,2:14,TJ Lambiotte,50146,Ohio Valley University,Cody Burcher,20243,Ohio State
+2018,12/10,Indiana - Ohio State Dual,165,W,DEC,3 - 2,Bryce Martin,20524,Indiana,Cody Burcher,20243,Ohio State
+2018,02/03,Edinboro Open,174,W,FALL,4:18,Bena Senatus,52712,Wyoming Seminary Prep,Fritz Schierl,44840,Ohio State
+2018,02/03,Edinboro Open,174,W,TF5,20 - 3 5:18,Colton Carroll,45335,Cleveland State,Fritz Schierl,44840,Ohio State
+2018,02/03,Edinboro Open,174,L,DEC,11 - 4,Jacob Oliver,49130,Edinboro,Fritz Schierl,44840,Ohio State
+2018,02/03,Edinboro Open,174,L,MD,18 - 9,Ty Schoffstall,15353,Edinboro,Fritz Schierl,44840,Ohio State
+2018,01/26,Ohio State - Michigan State Dual,174,L,DEC,9 - 6,Gary Ritchie,40448,Michigan State,Fritz Schierl,44840,Ohio State
+2018,01/14,Purple Raider Open,174,W,DEC,9 - 5,Kade Byland,45313,Kent State,Fritz Schierl,44840,Ohio State
+2018,01/14,Purple Raider Open,174,W,TF5,19 - 3 7:00,Devon Pingel,45337,Cleveland State,Fritz Schierl,44840,Ohio State
+2018,01/14,Purple Raider Open,174,W,DEC,9 - 5,Colton Carroll,45335,Cleveland State,Fritz Schierl,44840,Ohio State
+2018,01/05,Ohio State - Maryland Dual,174,W,INJ,7:00,Josh Ugalde,39515,Maryland,Fritz Schierl,44840,Ohio State
+2018,12/10,Indiana - Ohio State Dual,174,L,DEC,9 - 5,Devin Skatzka,39603,Indiana,Fritz Schierl,44840,Ohio State
+2018,12/03,Storm Open,165,W,DEC,12 - 6,Anthony Dailey,23386,Notre Dame,Fritz Schierl,44840,Ohio State
+2018,12/03,Storm Open,165,W,FALL,6:51,Nick Vandermeer,41629,Lake Erie College,Fritz Schierl,44840,Ohio State
+2018,12/03,Storm Open,165,L,DEC,7 - 6,Anthony Dailey,23386,Notre Dame,Fritz Schierl,44840,Ohio State
+2018,12/03,Storm Open,165,W,DEC,6 - 5,Lane Hinkle,45314,Kent State,Fritz Schierl,44840,Ohio State
+2018,12/03,Storm Open,165,W,DEC,9 - 5,Colin Shannon,50060,American,Fritz Schierl,44840,Ohio State
+2018,12/03,Storm Open,165,W,DEC,5 - 3,Bryce Dempsey,51011,American,Fritz Schierl,44840,Ohio State
+2018,11/18,Findlay Open,165,W,MD,12 - 1,Antwon Pugh,51963,Notre Dame,Fritz Schierl,44840,Ohio State
+2018,11/18,Findlay Open,165,W,DEC,11 - 5,Jd Waters,47525,Indianapolis,Fritz Schierl,44840,Ohio State
+2018,11/18,Findlay Open,165,W,MFOR,0 - 0,Anthony Smith,42097,Wheeling,Fritz Schierl,44840,Ohio State
+2018,11/18,Findlay Open,165,W,DEC,3 - 0,Bret Romanzak,41599,Ashland,Fritz Schierl,44840,Ohio State
+2018,11/18,Findlay Open,165,W,MD,13 - 0,Nick Vandermeer,41629,Lake Erie College,Fritz Schierl,44840,Ohio State
+2018,11/11,Eastern Michigan Open,165,W,DEC,6 - 5,Bret Fedewa,50920,Central Michigan,Fritz Schierl,44840,Ohio State
+2018,11/11,Eastern Michigan Open,165,W,DEC,6 - 2,Kameron Bush,49080,Central Michigan,Fritz Schierl,44840,Ohio State
+2018,11/11,Eastern Michigan Open,165,W,DEC,4 - 0,Laine Frazee,51722,Purdue,Fritz Schierl,44840,Ohio State
+2018,11/04,Princeton Open,165,L,TF5,18 - 3 7:00,Te'Shan Campbell,40351,Ohio State,Fritz Schierl,44840,Ohio State
+2018,11/04,Princeton Open,165,W,TF5,20 - 5 7:00,Nicholas Fierro,49314,Sacred Heart,Fritz Schierl,44840,Ohio State
+2018,11/04,Princeton Open,165,W,DEC,10 - 5,Philip Spadafora,51167,Maryland,Fritz Schierl,44840,Ohio State
+2018,11/04,Princeton Open,165,W,DEC,12 - 5,Aidan Monteverdi,49048,Binghamton,Fritz Schierl,44840,Ohio State
+2018,02/03,Edinboro Open,165,W,TB-2,3 - 2,Jordon Tague,46497,Notre Dame,Elijah Cleary,44828,Ohio State
+2018,02/03,Edinboro Open,165,W,DEC,1 - 0,John Stawinski,49114,Spartan Combat RTC,Elijah Cleary,44828,Ohio State
+2018,02/03,Edinboro Open,165,W,DEC,11 - 4,Paul Zacherl,44986,Clarion,Elijah Cleary,44828,Ohio State
+2018,02/03,Edinboro Open,165,L,DEC,3 - 1,Thomas Bullard,44611,NC State,Elijah Cleary,44828,Ohio State
+2018,02/03,Edinboro Open,165,L,DEC,2 - 0,Jonathan Carrera,40266,Navy,Elijah Cleary,44828,Ohio State
+2018,02/03,Edinboro Open,165,W,DEC,4 - 2,Cade Moisey,50970,West Virginia,Elijah Cleary,44828,Ohio State
+2018,02/03,Edinboro Open,165,W,FALL,2:25,Jacob Taylor,53698,Mount Union,Ryan Ferro,50086,Ohio State
+2018,02/03,Edinboro Open,165,W,FALL,6:09,Hannibal Tate,21803,Notre Dame,Ryan Ferro,50086,Ohio State
+2018,02/03,Edinboro Open,165,L,MD,10 - 2,Cade Moisey,50970,West Virginia,Ryan Ferro,50086,Ohio State
+2018,02/03,Edinboro Open,165,L,MD,16 - 7,Spencer Nagy,40444,Edinboro,Ryan Ferro,50086,Ohio State
+2018,01/14,Purple Raider Open,165,L,FALL,1:42,Conner Homan,53678,Mount Union,Ryan Ferro,50086,Ohio State
+2018,01/14,Purple Raider Open,165,W,DEC,5 - 4,Jared Sample,47457,Gannon,Ryan Ferro,50086,Ohio State
+2018,01/14,Purple Raider Open,165,L,DEC,7 - 6,Georgio Poullas,49101,Cleveland State,Ryan Ferro,50086,Ohio State
+2018,12/16,Cleveland State Open,174,L,TF5,17 - 1 7:00,Andrew Berreyesa,49111,Spartan Combat RTC,Ryan Ferro,50086,Ohio State
+2018,12/16,Cleveland State Open,174,L,MD,13 - 2,Evan DeLong,19790,Clarion,Ryan Ferro,50086,Ohio State
+2018,12/16,Cleveland State Open,174,W,DEC,6 - 5,Christian Maroni,20798,Gardner-Webb,Ryan Ferro,50086,Ohio State
+2018,12/16,Cleveland State Open,174,W,DEC,8 - 3,Cameron Caldarelli,44952,Buffalo,Ryan Ferro,50086,Ohio State
+2018,12/16,Cleveland State Open,174,W,FALL,2:27,Colton Carroll,45335,Cleveland State,Ryan Ferro,50086,Ohio State
+2018,11/11,Eastern Michigan Open,165,L,DEC,8 - 5,Kenny Moore,46406,Northern Illinois,Ryan Ferro,50086,Ohio State
+2018,11/11,Eastern Michigan Open,165,L,TF5,22 - 6 3:52,Fritz Hoehn,39762,Edinboro,Ryan Ferro,50086,Ohio State
+2018,11/04,Princeton Open,165,W,DEC,8 - 4,Patrick O'Donnell,49310,Sacred Heart,Ryan Ferro,50086,Ohio State
+2018,11/04,Princeton Open,165,W,DEC,8 - 7,Owen Brown,50437,United States Military Academy,Ryan Ferro,50086,Ohio State
+2018,11/04,Princeton Open,165,L,DEC,12 - 8,Philip Spadafora,51167,Maryland,Ryan Ferro,50086,Ohio State
+2018,11/04,Princeton Open,165,L,DEC,5 - 3,Aidan Monteverdi,49048,Binghamton,Ryan Ferro,50086,Ohio State
+2018,01/14,Purple Raider Open,174,L,MD,18 - 7,Jon Garrison,54855,Temple,Cody Dingess,40133,Ohio State
+2018,01/14,Purple Raider Open,174,L,DEC,2 - 1,Collin Lieber,49084,Central Michigan,Cody Dingess,40133,Ohio State
+2018,01/14,Purple Raider Open,174,W,FALL,2:29,Zach Willard,53716,Ohio Valley University,Cody Dingess,40133,Ohio State
+2018,11/18,Findlay Open,165,W,TF5,20 - 3 3:56,Jared Meise,50000,Gannon,Cody Dingess,40133,Ohio State
+2018,11/18,Findlay Open,165,L,DEC,6 - 2,Bret Romanzak,41599,Ashland,Cody Dingess,40133,Ohio State
+2018,11/18,Findlay Open,165,W,MFOR,0 - 0,Anthony Smith,42097,Wheeling,Cody Dingess,40133,Ohio State
+2018,11/18,Findlay Open,165,W,FALL,5:42,Sage Gonzalez,52293,Muskegon Community College,Cody Dingess,40133,Ohio State
+2018,11/18,Findlay Open,165,W,DEC,11 - 7,Zachary Bierfeldt,46393,Tiffin University,Cody Dingess,40133,Ohio State
+2018,11/18,Findlay Open,165,L,DEC,8 - 6,Richard Screptock,46550,Tiffin University,Cody Dingess,40133,Ohio State
+2018,11/04,Princeton Open,165,W,FALL,3:52,William Schmidt,49605,Sacred Heart,Cody Dingess,40133,Ohio State
+2018,11/04,Princeton Open,165,W,DEC,8 - 6,Chris Zaccaria,49660,Sacred Heart,Cody Dingess,40133,Ohio State
+2018,11/04,Princeton Open,165,L,DEC,2 - 1,Brad Laughlin,51265,United States Military Academy,Cody Dingess,40133,Ohio State
+2018,11/04,Princeton Open,165,W,MFOR,0 - 0,Edmond Ruth,51277,High School,Cody Dingess,40133,Ohio State
+2018,11/04,Princeton Open,165,L,TF5,20 - 2 7:00,Philip Spadafora,51167,Maryland,Cody Dingess,40133,Ohio State
+2018,01/14,Purple Raider Open,165,L,DEC,6 - 3,Logan Broskie,54783,Heidelberg,Anthony DeCarlo,20244,Ohio State
+2018,01/14,Purple Raider Open,165,L,DEC,4 - 2,Bret Fedewa,50920,Central Michigan,Anthony DeCarlo,20244,Ohio State
+2018,11/11,Eastern Michigan Open,165,L,DEC,3 - 2,John Vaughn,40905,Cleveland State,Anthony DeCarlo,20244,Ohio State
+2018,11/11,Eastern Michigan Open,165,L,DEC,7 - 6,Braxton Cody,40139,Northwestern,Anthony DeCarlo,20244,Ohio State
+2018,03/15,NCAA Championships,174,L,DEC,6 - 2,Myles Amine,39586,Michigan,Bo Jordan,14840,Ohio State
+2018,03/15,NCAA Championships,174,W,MFOR,0 - 0,Jordan Kutler,39626,Lehigh,Bo Jordan,14840,Ohio State
+2018,03/15,NCAA Championships,174,W,MD,16 - 2,Jacobe Smith,22087,Oklahoma State,Bo Jordan,14840,Ohio State
+2018,03/15,NCAA Championships,174,W,DEC,11 - 6,Ben Harvey,40935,Army West Point,Bo Jordan,14840,Ohio State
+2018,03/15,NCAA Championships,174,L,DEC,3 - 1,Daniel Lewis,20062,Missouri,Bo Jordan,14840,Ohio State
+2018,03/15,NCAA Championships,174,W,MD,11 - 3,David Kocer,13612,South Dakota State,Bo Jordan,14840,Ohio State
+2018,03/15,NCAA Championships,174,W,SV-1,4 - 2,Brandon Womack,40379,Cornell,Bo Jordan,14840,Ohio State
+2018,03/03,Big Ten Championships,174,W,DEC,9 - 5,Johnny Sebastian,20224,Northwestern,Bo Jordan,14840,Ohio State
+2018,03/03,Big Ten Championships,174,W,DEC,6 - 2,Dylan Lydy,39998,Purdue,Bo Jordan,14840,Ohio State
+2018,03/03,Big Ten Championships,174,L,FALL,5:30,Myles Amine,39586,Michigan,Bo Jordan,14840,Ohio State
+2018,03/03,Big Ten Championships,174,W,FALL,1:37,Josh Ugalde,39515,Maryland,Bo Jordan,14840,Ohio State
+2018,03/03,Big Ten Championships,174,W,DEC,8 - 3,Joey Gunther,39725,Iowa,Bo Jordan,14840,Ohio State
+2018,02/18,Ohio State - North Carolina State Dual,174,W,FALL,1:37,Daniel Bullard,44612,NC State,Bo Jordan,14840,Ohio State
+2018,02/11,Ohio State - Michigan Dual,174,L,DEC,6 - 5,Myles Amine,39586,Michigan,Bo Jordan,14840,Ohio State
+2018,02/03,Ohio State - Penn State Dual,174,L,DEC,6 - 4,Mark Hall,44839,Penn State,Bo Jordan,14840,Ohio State
+2018,01/28,Purdue - Ohio State Dual,174,W,DEC,9 - 4,Dylan Lydy,39998,Purdue,Bo Jordan,14840,Ohio State
+2018,01/21,Iowa - Ohio State Dual,174,W,DEC,10 - 5,Kaleb Young,44572,Iowa,Bo Jordan,14840,Ohio State
+2018,01/12,Minnesota - Ohio State Dual,174,W,MD,12 - 4,Chris Pfarr,11524,Minnesota,Bo Jordan,14840,Ohio State
+2018,01/07,Ohio State - Rutgers Dual,174,W,DEC,7 - 3,Joseph Grello,44858,Rutgers,Bo Jordan,14840,Ohio State
+2018,12/17,Ohio State - Chattanooga Dual,174,W,MD,12 - 2,Justin Lampe,40210,Chattanooga,Bo Jordan,14840,Ohio State
+2018,12/15,Ohio State - Princeton Dual,174,W,FALL,1:57,Matthew Gancayco,15125,Princeton,Bo Jordan,14840,Ohio State
+2018,12/01,Cliff Keen Invitational,174,W,FALL,4:38,Zach Stodden,46328,Nebraska-Kearney,Bo Jordan,14840,Ohio State
+2018,12/01,Cliff Keen Invitational,174,W,DEC,9 - 5,Keaton Subjeck,14567,Stanford,Bo Jordan,14840,Ohio State
+2018,12/01,Cliff Keen Invitational,174,W,DEC,7 - 2,Hunter Bolen,49335,Virginia Tech,Bo Jordan,14840,Ohio State
+2018,12/01,Cliff Keen Invitational,174,W,DEC,7 - 2,Ryan Christensen,20481,Wisconsin,Bo Jordan,14840,Ohio State
+2018,12/01,Cliff Keen Invitational,174,L,DEC,9 - 6,Zahid Valencia,39501,Arizona State,Bo Jordan,14840,Ohio State
+2018,12/01,Cliff Keen Invitational,174,W,DEC,6 - 4,Myles Amine,39586,Michigan,Bo Jordan,14840,Ohio State
+2018,11/21,Kent State - Ohio State Dual,174,W,TF5,19 - 4 7:00,Dylan Barreiro,44632,Kent State,Bo Jordan,14840,Ohio State
+2018,11/21,Cleveland State - Ohio State Dual,174,W,TF5,19 - 4 7:00,Gabe Stark,16682,Cleveland State,Bo Jordan,14840,Ohio State
+2018,11/12,Arizona State - Ohio State Dual,174,L,DEC,9 - 4,Zahid Valencia,39501,Arizona State,Bo Jordan,14840,Ohio State
+2018,11/04,Princeton Open,174,W,TF5,15 - 0 7:00,Wayne Stinson,15117,Rider,Bo Jordan,14840,Ohio State
+2018,11/04,Princeton Open,174,W,FALL,3:46,Matthew Gancayco,15125,Princeton,Bo Jordan,14840,Ohio State
+2018,11/04,Princeton Open,174,W,DEC,11 - 8,Dean Sherry,40019,Rider,Bo Jordan,14840,Ohio State
+2018,11/04,Princeton Open,174,W,FALL,2:37,Kyle Jasenski,51164,Maryland,Bo Jordan,14840,Ohio State
+2018,11/04,Princeton Open,174,W,TF5,20 - 4 7:00,Frankie Guida,50819,Bucknell,Bo Jordan,14840,Ohio State
+2018,02/03,Edinboro Open,174,W,DEC,5 - 3,Joel Leise,50170,Gannon,Kaleb Romero,49252,Ohio State
+2018,02/03,Edinboro Open,174,W,DEC,3 - 2,Andrew Berreyesa,49111,Spartan Combat RTC,Kaleb Romero,49252,Ohio State
+2018,02/03,Edinboro Open,174,W,MD,21 - 8,Jake Lanning,49069,Buffalo,Kaleb Romero,49252,Ohio State
+2018,02/03,Edinboro Open,174,W,DEC,10 - 4,Lane Hinkle,45314,Kent State,Kaleb Romero,49252,Ohio State
+2018,02/03,Edinboro Open,174,W,MFOR,0 - 0,Ty Schoffstall,15353,Edinboro,Kaleb Romero,49252,Ohio State
+2018,01/14,Purple Raider Open,174,W,DEC,5 - 2,Jon Garrison,54855,Temple,Kaleb Romero,49252,Ohio State
+2018,01/14,Purple Raider Open,174,W,SV-1,3 - 2,Jairod James,19971,Mount Union,Kaleb Romero,49252,Ohio State
+2018,01/14,Purple Raider Open,174,W,MD,16 - 3,Collin Lieber,49084,Central Michigan,Kaleb Romero,49252,Ohio State
+2018,12/16,Cleveland State Open,174,L,DEC,5 - 4,Evan DeLong,19790,Clarion,Kaleb Romero,49252,Ohio State
+2018,12/16,Cleveland State Open,174,W,SV-1,5 - 3,Andrew Berreyesa,49111,Spartan Combat RTC,Kaleb Romero,49252,Ohio State
+2018,12/16,Cleveland State Open,174,W,DEC,6 - 3,Caleb Stockmaster,40177,Cleveland State,Kaleb Romero,49252,Ohio State
+2018,12/16,Cleveland State Open,174,W,DEC,12 - 5,Tommy O'Brien,49289,Pittsburgh,Kaleb Romero,49252,Ohio State
+2018,03/15,NCAA Championships,184,L,FALL,2:30,Bo Nickal,20302,Penn State,Myles Martin,39622,Ohio State
+2018,03/15,NCAA Championships,184,W,DEC,8 - 4,Zack Zavatsky,20460,Virginia Tech,Myles Martin,39622,Ohio State
+2018,03/15,NCAA Championships,184,W,DEC,10 - 6,Chip Ness,20118,North Carolina,Myles Martin,39622,Ohio State
+2018,03/15,NCAA Championships,184,W,MD,17 - 5,Mitch Bowman,19946,Iowa,Myles Martin,39622,Ohio State
+2018,03/15,NCAA Championships,184,W,TF5,24 - 9 7:00,Bryce Gorman,20203,Northern Illinois,Myles Martin,39622,Ohio State
+2018,03/03,Big Ten Championships,184,L,DEC,7 - 4,Bo Nickal,20302,Penn State,Myles Martin,39622,Ohio State
+2018,03/03,Big Ten Championships,184,W,FALL,2:46,Max Lyon,49303,Purdue,Myles Martin,39622,Ohio State
+2018,03/03,Big Ten Championships,184,W,TF5,23 - 8 7:00,Ricky Robertson,14042,Wisconsin,Myles Martin,39622,Ohio State
+2018,03/03,Big Ten Championships,184,W,DEC,7 - 3,Domenic Abounader,12523,Michigan,Myles Martin,39622,Ohio State
+2018,02/18,Ohio State - North Carolina State Dual,184,W,DEC,8 - 1,Pete Renda,12371,NC State,Myles Martin,39622,Ohio State
+2018,02/11,Ohio State - Michigan Dual,184,W,DEC,5 - 3,Domenic Abounader,12523,Michigan,Myles Martin,39622,Ohio State
+2018,02/03,Ohio State - Penn State Dual,184,L,MD,10 - 2,Bo Nickal,20302,Penn State,Myles Martin,39622,Ohio State
+2018,01/28,Purdue - Ohio State Dual,184,W,TF5,20 - 4 7:00,Jonathan Morales,40023,Purdue,Myles Martin,39622,Ohio State
+2018,01/26,Ohio State - Michigan State Dual,184,W,TF5,16 - 1 7:00,Shwan Shadaia,20759,Michigan State,Myles Martin,39622,Ohio State
+2018,01/21,Iowa - Ohio State Dual,184,W,MD,17 - 8,Mitch Bowman,19946,Iowa,Myles Martin,39622,Ohio State
+2018,01/12,Minnesota - Ohio State Dual,184,W,MD,18 - 7,Dylan Anderson,44970,Minnesota,Myles Martin,39622,Ohio State
+2018,01/07,Ohio State - Rutgers Dual,184,W,FALL,0:37,Jordan Pagano,20304,Rutgers,Myles Martin,39622,Ohio State
+2018,01/05,Ohio State - Maryland Dual,184,W,FALL,2:24,Jahi Jones,41460,Maryland,Myles Martin,39622,Ohio State
+2018,12/17,Ohio State - Chattanooga Dual,184,W,DEC,10 - 5,Bryce Carr,39936,Chattanooga,Myles Martin,39622,Ohio State
+2018,12/15,Ohio State - Princeton Dual,184,W,TF5,19 - 4 5:08,Kevin Parker,44710,Princeton,Myles Martin,39622,Ohio State
+2018,12/10,Indiana - Ohio State Dual,184,W,MD,16 - 5,Norman Conley,39929,Indiana,Myles Martin,39622,Ohio State
+2018,12/01,Cliff Keen Invitational,184,W,TF5,20 - 5 4:15,Payton Mair,52275,Embry-Riddle,Myles Martin,39622,Ohio State
+2018,12/01,Cliff Keen Invitational,184,W,FALL,6:02,Isaac Deaton,46259,Nebraska-Kearney,Myles Martin,39622,Ohio State
+2018,12/01,Cliff Keen Invitational,184,W,TF5,19 - 4 7:00,Taylor Venz,44854,Nebraska,Myles Martin,39622,Ohio State
+2018,12/01,Cliff Keen Invitational,184,W,MD,14 - 4,Steve Schneider,19660,Binghamton,Myles Martin,39622,Ohio State
+2018,12/01,Cliff Keen Invitational,184,W,DEC,8 - 5,Domenic Abounader,12523,Michigan,Myles Martin,39622,Ohio State
+2018,11/21,Kent State - Ohio State Dual,184,W,TF5,27 - 12 7:00,Colin McCracken,50064,Kent State,Myles Martin,39622,Ohio State
+2018,11/21,Cleveland State - Ohio State Dual,184,W,TF5,23 - 7 7:00,Nick Corba,12817,Cleveland State,Myles Martin,39622,Ohio State
+2018,11/12,Arizona State - Ohio State Dual,184,W,FALL,4:31,Kordell Norfleet,49038,Arizona State,Myles Martin,39622,Ohio State
+2018,11/04,Princeton Open,184,W,TF5,16 - 1 7:00,Michale Fagg-Daves,20352,Rider,Myles Martin,39622,Ohio State
+2018,11/04,Princeton Open,184,W,MD,17 - 6,Kendall Elfstrum,49299,Princeton,Myles Martin,39622,Ohio State
+2018,11/04,Princeton Open,184,W,TF5,20 - 5 7:00,Mark Boyle,20825,Sacred Heart,Myles Martin,39622,Ohio State
+2018,11/04,Princeton Open,184,W,TF5,23 - 8 7:00,Anthony Mancini,19889,Franklin & Marshall,Myles Martin,39622,Ohio State
+2018,11/04,Princeton Open,184,W,MD,12 - 3,Louie DePrez,49046,Binghamton,Myles Martin,39622,Ohio State
+2018,02/03,Edinboro Open,184,W,TF5,16 - 0 2:45,Jacob Adams,51059,Cleveland State,Ethan Smith,50025,Ohio State
+2018,02/03,Edinboro Open,184,W,DEC,5 - 3,Tyler Bagoly,49098,Clarion,Ethan Smith,50025,Ohio State
+2018,02/03,Edinboro Open,184,W,DEC,3 - 2,Shane Mast,39974,Kent State,Ethan Smith,50025,Ohio State
+2018,02/03,Edinboro Open,184,W,MD,13 - 5,Austin Clayton,50883,Arizona State,Ethan Smith,50025,Ohio State
+2018,02/03,Edinboro Open,184,W,MFOR,0 - 0,Kordell Norfleet,49038,Arizona State,Ethan Smith,50025,Ohio State
+2018,02/03,Edinboro Open,184,L,DEC,9 - 7,Dakota Geer,45373,Edinboro,Ethan Smith,50025,Ohio State
+2018,02/03,Edinboro Open,184,L,DEC,4 - 3,Jelani Embree,49179,Michigan,Ethan Smith,50025,Ohio State
+2018,01/14,Purple Raider Open,184,L,DEC,6 - 3,Dylan Wisman,39507,Missouri,Ethan Smith,50025,Ohio State
+2018,01/14,Purple Raider Open,184,W,MD,13 - 3,Jake Lowell,50530,Central Michigan,Ethan Smith,50025,Ohio State
+2018,01/14,Purple Raider Open,184,W,DEC,8 - 5,Hunter Rollins,19760,Central Michigan,Ethan Smith,50025,Ohio State
+2018,01/14,Purple Raider Open,184,L,DEC,8 - 6,Cameron Caffey,50273,Michigan State,Ethan Smith,50025,Ohio State
+2018,12/16,Cleveland State Open,184,W,DEC,11 - 7,Cameron Caffey,50273,Michigan State,Ethan Smith,50025,Ohio State
+2018,12/16,Cleveland State Open,184,W,DEC,3 - 2,Danny Kruse,45311,Michigan State,Ethan Smith,50025,Ohio State
+2018,12/16,Cleveland State Open,184,W,MD,13 - 5,Colin McCracken,50064,Kent State,Ethan Smith,50025,Ohio State
+2018,12/16,Cleveland State Open,184,W,MD,20 - 7,Tyler Stepic,49203,Unattached,Ethan Smith,50025,Ohio State
+2018,12/16,Cleveland State Open,184,W,TF5,20 - 5 7:00,Jacob Adams,51059,Cleveland State,Ethan Smith,50025,Ohio State
+2018,12/16,Cleveland State Open,184,L,DEC,8 - 6,Nino Bonaccorsi,49285,Pittsburgh,Ethan Smith,50025,Ohio State
+2018,12/16,Cleveland State Open,184,W,DEC,11 - 7,Brandon Moen,49127,Eastern Michigan,Ethan Smith,50025,Ohio State
+2018,11/11,Eastern Michigan Open,184,W,DEC,12 - 11,Brandon Moen,49127,Eastern Michigan,Ethan Smith,50025,Ohio State
+2018,11/11,Eastern Michigan Open,184,W,MD,16 - 4,Brenden DeVries,51728,Grand Valley State University,Ethan Smith,50025,Ohio State
+2018,11/11,Eastern Michigan Open,184,L,DEC,9 - 5,Jelani Embree,49179,Michigan,Ethan Smith,50025,Ohio State
+2018,11/04,Princeton Open,184,W,DEC,10 - 6,Michale Fagg-Daves,20352,Rider,Ethan Smith,50025,Ohio State
+2018,11/04,Princeton Open,184,W,MD,13 - 5,Kevin Parker,44710,Princeton,Ethan Smith,50025,Ohio State
+2018,11/04,Princeton Open,184,W,DEC,9 - 5,Paul Dunn,40247,Lehigh,Ethan Smith,50025,Ohio State
+2018,11/04,Princeton Open,184,W,DEC,7 - 4,Andrew Price,39648,Lehigh,Ethan Smith,50025,Ohio State
+2018,11/04,Princeton Open,184,W,DEC,10 - 8,Anthony Mancini,19889,Franklin & Marshall,Ethan Smith,50025,Ohio State
+2018,11/04,Princeton Open,184,L,DEC,9 - 2,Louie DePrez,49046,Binghamton,Ethan Smith,50025,Ohio State
+2018,12/16,Cleveland State Open,184,L,SV-1,8 - 6,Cameron Caffey,50273,Michigan State,Zach Steiner,49251,Ohio State
+2018,12/16,Cleveland State Open,184,W,DEC,5 - 4,Tyler Bagoly,49098,Clarion,Zach Steiner,49251,Ohio State
+2018,12/16,Cleveland State Open,184,W,DEC,5 - 2,Brandon Moen,49127,Eastern Michigan,Zach Steiner,49251,Ohio State
+2018,12/16,Cleveland State Open,184,W,FALL,2:20,Quentin Ellis,45918,Mercyhurst Northeast,Zach Steiner,49251,Ohio State
+2018,12/16,Cleveland State Open,184,W,MD,15 - 7,Tyler Stepic,49203,Unattached,Zach Steiner,49251,Ohio State
+2018,12/16,Cleveland State Open,184,L,DEC,4 - 2,Jelani Embree,49179,Michigan,Zach Steiner,49251,Ohio State
+2018,11/11,Eastern Michigan Open,184,L,SV-1,3 - 1,Zach Ancewicz,49132,Edinboro,Zach Steiner,49251,Ohio State
+2018,11/11,Eastern Michigan Open,184,L,DEC,4 - 2,Alex Benoit,41416,Navy,Zach Steiner,49251,Ohio State
+2018,11/04,Princeton Open,184,L,DEC,13 - 6,Kendall Elfstrum,49299,Princeton,Zach Steiner,49251,Ohio State
+2018,11/04,Princeton Open,184,W,FALL,2:14,Charlie Cohen,50866,Princeton,Zach Steiner,49251,Ohio State
+2018,11/04,Princeton Open,184,L,FALL,2:41,Kevin Parker,44710,Princeton,Zach Steiner,49251,Ohio State
+2018,11/04,Princeton Open,184,W,DEC,8 - 3,Phillip Stolfi,44942,George Mason,Zach Steiner,49251,Ohio State
+2018,03/15,NCAA Championships,197,L,DEC,5 - 3,Kyle Conel,19973,Kent State,Kollin Moore,39638,Ohio State
+2018,03/15,NCAA Championships,197,W,DEC,7 - 4,Ben Darmstadt,45876,Cornell,Kollin Moore,39638,Ohio State
+2018,03/15,NCAA Championships,197,W,DEC,7 - 4,Shakur Rasheed,20305,Penn State,Kollin Moore,39638,Ohio State
+2018,03/15,NCAA Championships,197,W,DEC,6 - 2,Cash Wilcke,39502,Iowa,Kollin Moore,39638,Ohio State
+2018,03/15,NCAA Championships,197,L,FALL,1:30,Kyle Conel,19973,Kent State,Kollin Moore,39638,Ohio State
+2018,03/15,NCAA Championships,197,W,MD,14 - 4,Patrick Brucki,49296,Princeton,Kollin Moore,39638,Ohio State
+2018,03/15,NCAA Championships,197,W,DEC,12 - 8,Tanner Orndorff,40324,Utah Valley,Kollin Moore,39638,Ohio State
+2018,03/03,Big Ten Championships,197,W,DEC,8 - 4,Shakur Rasheed,20305,Penn State,Kollin Moore,39638,Ohio State
+2018,03/03,Big Ten Championships,197,W,DEC,10 - 4,Eric Schultz,44853,Nebraska,Kollin Moore,39638,Ohio State
+2018,03/03,Big Ten Championships,197,W,DEC,5 - 3,Kevin Beazley,12757,Michigan,Kollin Moore,39638,Ohio State
+2018,02/18,Ohio State - North Carolina State Dual,197,L,DEC,7 - 5,Michael Macchiavello,12532,NC State,Kollin Moore,39638,Ohio State
+2018,02/11,Ohio State - Michigan Dual,197,W,MD,17 - 6,Kevin Beazley,12757,Michigan,Kollin Moore,39638,Ohio State
+2018,02/03,Ohio State - Penn State Dual,197,L,DEC,6 - 3,Anthony Cassar,20299,Penn State,Kollin Moore,39638,Ohio State
+2018,01/28,Purdue - Ohio State Dual,197,W,TF5,18 - 3 7:00,Christian Brunner,44744,Purdue,Kollin Moore,39638,Ohio State
+2018,01/26,Ohio State - Michigan State Dual,197,W,TF5,20 - 2 7:00,Nick May,44742,Michigan State,Kollin Moore,39638,Ohio State
+2018,01/21,Iowa - Ohio State Dual,197,W,DEC,6 - 3,Cash Wilcke,39502,Iowa,Kollin Moore,39638,Ohio State
+2018,01/12,Minnesota - Ohio State Dual,197,W,DEC,7 - 4,Robert Steveson,39518,Minnesota,Kollin Moore,39638,Ohio State
+2018,01/07,Ohio State - Rutgers Dual,197,W,MD,18 - 7,Anthony Messner,12564,Rutgers,Kollin Moore,39638,Ohio State
+2018,01/05,Ohio State - Maryland Dual,197,W,FALL,2:01,Mansur Abdul-Malik,49171,Maryland,Kollin Moore,39638,Ohio State
+2018,12/17,Ohio State - Chattanooga Dual,197,W,MD,20 - 8,Scottie Boykin,12756,Chattanooga,Kollin Moore,39638,Ohio State
+2018,12/15,Ohio State - Princeton Dual,197,W,MD,14 - 5,Patrick Brucki,49296,Princeton,Kollin Moore,39638,Ohio State
+2018,12/10,Indiana - Ohio State Dual,197,W,MD,14 - 5,Spencer Irick,45355,Indiana,Kollin Moore,39638,Ohio State
+2018,12/01,Cliff Keen Invitational,197,W,DEC,3 - 2,Eric Schultz,44853,Nebraska,Kollin Moore,39638,Ohio State
+2018,12/01,Cliff Keen Invitational,197,W,FALL,1:52,Jared Haught,13085,Virginia Tech,Kollin Moore,39638,Ohio State
+2018,12/01,Cliff Keen Invitational,197,W,MD,20 - 7,Hunter Ritter,39783,Wisconsin,Kollin Moore,39638,Ohio State
+2018,12/01,Cliff Keen Invitational,197,W,DEC,10 - 4,Matt Williams,16442,CSU Bakersfield,Kollin Moore,39638,Ohio State
+2018,12/01,Cliff Keen Invitational,197,W,DEC,5 - 3,Benjamin Honis,43656,Cornell,Kollin Moore,39638,Ohio State
+2018,12/01,Cliff Keen Invitational,197,W,DEC,15 - 11,Tanner Orndorff,40324,Utah Valley,Kollin Moore,39638,Ohio State
+2018,11/21,Kent State - Ohio State Dual,197,W,FALL,1:16,Shane Mast,39974,Kent State,Kollin Moore,39638,Ohio State
+2018,11/21,Cleveland State - Ohio State Dual,197,W,TF5,18 - 2 7:00,John Kelbly,50329,Cleveland State,Kollin Moore,39638,Ohio State
+2018,03/15,NCAA Championships,285,W,DEC,3 - 2,Adam Coon,14123,Michigan,Kyle Snyder,20253,Ohio State
+2018,03/15,NCAA Championships,285,W,DEC,10 - 5,Jacob Kasper,12475,Duke,Kyle Snyder,20253,Ohio State
+2018,03/15,NCAA Championships,285,W,DEC,6 - 3,Derek White,20107,Oklahoma State,Kyle Snyder,20253,Ohio State
+2018,03/15,NCAA Championships,285,W,TF5,23 - 8 6:41,Jere Heino,40434,Campbell,Kyle Snyder,20253,Ohio State
+2018,03/15,NCAA Championships,285,W,MD,15 - 5,Ryan Solomon,13146,Pittsburgh,Kyle Snyder,20253,Ohio State
+2018,03/03,Big Ten Championships,285,W,SV-2,4 - 2,Adam Coon,14123,Michigan,Kyle Snyder,20253,Ohio State
+2018,03/03,Big Ten Championships,285,W,MD,17 - 6,Shawn Streck,44822,Purdue,Kyle Snyder,20253,Ohio State
+2018,03/03,Big Ten Championships,285,W,MD,14 - 5,Nick Nevills,20301,Penn State,Kyle Snyder,20253,Ohio State
+2018,03/03,Big Ten Championships,285,W,TF5,24 - 9 7:00,Fletcher Miller,20525,Indiana,Kyle Snyder,20253,Ohio State
+2018,02/18,Ohio State - North Carolina State Dual,285,W,TF5,23 - 8 7:00,Michael Boykin,20123,NC State,Kyle Snyder,20253,Ohio State
+2018,02/11,Ohio State - Michigan Dual,285,L,DEC,3 - 1,Adam Coon,14123,Michigan,Kyle Snyder,20253,Ohio State
+2018,02/03,Ohio State - Penn State Dual,285,W,DEC,15 - 10,Nick Nevills,20301,Penn State,Kyle Snyder,20253,Ohio State
+2018,01/21,Iowa - Ohio State Dual,285,W,TF5,24 - 9 4:59,Steven Holloway,40038,Iowa,Kyle Snyder,20253,Ohio State
+2018,01/12,Minnesota - Ohio State Dual,285,W,TF5,24 - 9 7:00,Rylee Streifel,39721,Minnesota,Kyle Snyder,20253,Ohio State
+2018,01/07,Ohio State - Rutgers Dual,285,W,FALL,1:59,Razohnn Gross,45114,Rutgers,Kyle Snyder,20253,Ohio State
+2018,12/17,Ohio State - Chattanooga Dual,285,W,FALL,3:17,Ben Stacey,44899,Chattanooga,Kyle Snyder,20253,Ohio State
+2018,11/21,Kent State - Ohio State Dual,285,W,FALL,3:39,Devin Nye,19975,Kent State,Kyle Snyder,20253,Ohio State
+2018,11/12,Arizona State - Ohio State Dual,285,W,FALL,6:17,Austyn Harris,20571,Arizona State,Kyle Snyder,20253,Ohio State
+2018,02/03,Edinboro Open,285,W,SV-1,3 - 1,Nolan Terrance,39572,Buffalo,Chase Singletary,49253,Ohio State
+2018,02/03,Edinboro Open,285,L,SV-1,5 - 3,Joey Goodhart,19849,Drexel,Chase Singletary,49253,Ohio State
+2018,02/03,Edinboro Open,285,W,DEC,7 - 0,David Smith,50968,West Virginia,Chase Singletary,49253,Ohio State
+2018,02/03,Edinboro Open,285,W,TF5,16 - 0 3:00,Terrence Cheeks,14342,Edinboro,Chase Singletary,49253,Ohio State
+2018,01/14,Purple Raider Open,285,W,SV-1,9 - 7,Fletcher Miller,20525,Indiana,Chase Singletary,49253,Ohio State
+2018,01/14,Purple Raider Open,285,W,FALL,5:38,Newton Smerchek,14224,Central Michigan,Chase Singletary,49253,Ohio State
+2018,01/14,Purple Raider Open,285,W,DEC,8 - 1,Jacob Aven,20343,Purdue,Chase Singletary,49253,Ohio State
+2018,01/14,Purple Raider Open,285,W,MD,8 - 0,Jackson Ross,51217,Michigan State,Chase Singletary,49253,Ohio State
+2018,01/14,Purple Raider Open,285,W,FALL,2:12,Luke Ready,47512,Michigan,Chase Singletary,49253,Ohio State
+2018,12/16,Cleveland State Open,285,W,DEC,6 - 2,Brendan Furman,49113,Spartan Combat RTC,Chase Singletary,49253,Ohio State
+2018,12/16,Cleveland State Open,285,W,DEC,5 - 2,Nick Jenkins,49079,Central Michigan,Chase Singletary,49253,Ohio State
+2018,12/16,Cleveland State Open,285,L,MD,15 - 3,Devin Nye,19975,Kent State,Chase Singletary,49253,Ohio State
+2018,12/16,Cleveland State Open,285,W,FALL,2:45,Jackson Price,20801,Gardner-Webb,Chase Singletary,49253,Ohio State
+2018,12/16,Cleveland State Open,285,W,DEC,5 - 0,Jacob Parker,39995,Pittsburgh,Chase Singletary,49253,Ohio State
+2018,12/16,Cleveland State Open,285,W,DEC,3 - 2,Zachery Nemec,49183,Michigan,Chase Singletary,49253,Ohio State
+2018,11/11,Eastern Michigan Open,285,W,TF5,16 - 0 5:16,Ross Sealby,44145,Northern Illinois,Chase Singletary,49253,Ohio State
+2018,11/11,Eastern Michigan Open,285,W,DEC,4 - 3,Mimmo Lytle,51423,Findlay,Chase Singletary,49253,Ohio State
+2018,11/11,Eastern Michigan Open,285,W,FALL,1:54,Christian Rebottaro,44850,Michigan State,Chase Singletary,49253,Ohio State
+2018,11/11,Eastern Michigan Open,285,W,FALL,3:19,Jacob Parker,39995,Pittsburgh,Chase Singletary,49253,Ohio State
+2018,11/11,Eastern Michigan Open,285,L,SV-1,3 - 1,Austin Faunce,20605,Navy,Chase Singletary,49253,Ohio State
+2018,11/04,Princeton Open,285,W,MD,18 - 6,Christian Araneo,44728,Princeton,Chase Singletary,49253,Ohio State
+2018,11/04,Princeton Open,285,W,DEC,8 - 2,Kevin Snyder,44847,Ohio State,Chase Singletary,49253,Ohio State
+2018,11/04,Princeton Open,285,W,DEC,3 - 1,Michael Markulec,20337,Princeton,Chase Singletary,49253,Ohio State
+2018,11/04,Princeton Open,285,W,TF5,16 - 0 7:00,Nate Feyrer,50821,Bucknell,Chase Singletary,49253,Ohio State
+2018,02/03,Edinboro Open,285,W,INJ,7:00,Joey Goodhart,19849,Drexel,Gary Traub,45199,Ohio State
+2018,02/03,Edinboro Open,285,W,DEC,4 - 3,Jacob Peru,49047,Binghamton,Gary Traub,45199,Ohio State
+2018,02/03,Edinboro Open,285,W,DEC,2 - 0,Cole Rickert,50864,Pittsburgh,Gary Traub,45199,Ohio State
+2018,02/03,Edinboro Open,285,W,DEC,6 - 1,Alex Nicholas,45076,Penn State,Gary Traub,45199,Ohio State
+2018,02/03,Edinboro Open,285,W,DEC,2 - 0,Terrence Cheeks,14342,Edinboro,Gary Traub,45199,Ohio State
+2018,01/14,Purple Raider Open,285,L,MFOR,0 - 0,Chase Beard,51214,Michigan State,Gary Traub,45199,Ohio State
+2018,01/14,Purple Raider Open,285,L,DEC,4 - 3,Chase Beard,51214,Michigan State,Gary Traub,45199,Ohio State
+2018,01/14,Purple Raider Open,285,W,MFOR,0 - 0,Kevin Snyder,44847,Ohio State,Gary Traub,45199,Ohio State
+2018,01/14,Purple Raider Open,285,W,DEC,4 - 1,Nick Jenkins,49079,Central Michigan,Gary Traub,45199,Ohio State
+2018,01/14,Purple Raider Open,285,W,DEC,5 - 1,Newton Smerchek,14224,Central Michigan,Gary Traub,45199,Ohio State
+2018,01/14,Purple Raider Open,285,W,FALL,2:35,Ben Willard,54513,Ohio Valley University,Gary Traub,45199,Ohio State
+2018,01/14,Purple Raider Open,285,L,FALL,2:05,Luke Ready,47512,Michigan,Gary Traub,45199,Ohio State
+2018,12/16,Cleveland State Open,285,L,FALL,5:37,Brendan Furman,49113,Spartan Combat RTC,Gary Traub,45199,Ohio State
+2018,12/16,Cleveland State Open,285,L,DEC,7 - 0,Newton Smerchek,14224,Central Michigan,Gary Traub,45199,Ohio State
+2018,12/16,Cleveland State Open,285,W,DEC,7 - 2,Collin Kelly,45338,Cleveland State,Gary Traub,45199,Ohio State
+2018,12/16,Cleveland State Open,285,W,DEC,3 - 2,Luke Ready,47512,Michigan,Gary Traub,45199,Ohio State
+2018,11/18,Findlay Open,285,W,FALL,5:41,Gerald Beck,22736,Findlay,Gary Traub,45199,Ohio State
+2018,11/18,Findlay Open,285,L,DEC,7 - 4,Kevin Snyder,44847,Ohio State,Gary Traub,45199,Ohio State
+2018,11/18,Findlay Open,285,L,DEC,6 - 2,Kam Teacher,48043,Notre Dame,Gary Traub,45199,Ohio State
+2018,11/18,Findlay Open,285,W,DEC,2 - 0,David Henson,46560,Tiffin University,Gary Traub,45199,Ohio State
+2018,11/18,Findlay Open,285,W,DEC,7 - 2,Seth Bloor,44046,Wheeling,Gary Traub,45199,Ohio State
+2018,11/18,Findlay Open,285,W,MD,14 - 2,Matt Lloyd,45312,Michigan State,Gary Traub,45199,Ohio State
+2018,11/11,Eastern Michigan Open,285,W,DEC,11 - 10,Wyatt Harden,45056,Eastern Michigan,Gary Traub,45199,Ohio State
+2018,11/11,Eastern Michigan Open,285,W,DEC,5 - 2,Nick Jenkins,49079,Central Michigan,Gary Traub,45199,Ohio State
+2018,11/11,Eastern Michigan Open,285,L,DEC,7 - 4,Zachery Nemec,49183,Michigan,Gary Traub,45199,Ohio State
+2018,11/11,Eastern Michigan Open,285,W,DEC,7 - 6,Andrew Piehl,44833,Navy,Gary Traub,45199,Ohio State
+2018,11/04,Princeton Open,285,L,TB-3,6 - 5,Mauro Correnti,14193,Rider,Gary Traub,45199,Ohio State
+2018,11/04,Princeton Open,285,L,DEC,10 - 3,Christian Araneo,44728,Princeton,Gary Traub,45199,Ohio State
+2018,11/04,Princeton Open,285,W,FALL,2:54,John Hartnett,20830,Sacred Heart,Gary Traub,45199,Ohio State
+2018,11/04,Princeton Open,285,W,SV-1,7 - 5,Mauro Correnti,14193,Rider,Gary Traub,45199,Ohio State
+2018,11/04,Princeton Open,285,W,DEC,2 - 0,Eric Keosseian,49044,United States Military Academy,Gary Traub,45199,Ohio State
+2018,01/28,Purdue - Ohio State Dual,285,L,DEC,5 - 2,Shawn Streck,44822,Purdue,Kevin Snyder,44847,Ohio State
+2018,01/26,Ohio State - Michigan State Dual,285,L,DEC,4 - 2,Christian Rebottaro,44850,Michigan State,Kevin Snyder,44847,Ohio State
+2018,01/14,Purple Raider Open,285,L,MFOR,0 - 0,Gary Traub,45199,Ohio State,Kevin Snyder,44847,Ohio State
+2018,01/14,Purple Raider Open,285,W,FALL,1:32,Brandon Gray,54094,Mount Union,Kevin Snyder,44847,Ohio State
+2018,01/14,Purple Raider Open,285,W,MD,11 - 3,David Smith,50968,West Virginia,Kevin Snyder,44847,Ohio State
+2018,01/14,Purple Raider Open,285,L,DEC,8 - 4,Fletcher Miller,20525,Indiana,Kevin Snyder,44847,Ohio State
+2018,01/14,Purple Raider Open,285,W,DEC,4 - 1,Cale Bonner,40047,Ohio,Kevin Snyder,44847,Ohio State
+2018,01/05,Ohio State - Maryland Dual,285,L,DEC,7 - 1,Youssif Hemida,39563,Maryland,Kevin Snyder,44847,Ohio State
+2018,12/15,Ohio State - Princeton Dual,285,W,DEC,3 - 2,Michael Markulec,20337,Princeton,Kevin Snyder,44847,Ohio State
+2018,12/10,Indiana - Ohio State Dual,285,L,DEC,3 - 1,Fletcher Miller,20525,Indiana,Kevin Snyder,44847,Ohio State
+2018,12/01,Cliff Keen Invitational,285,L,DEC,9 - 5,Zach Schrader,45168,Cal Baptist,Kevin Snyder,44847,Ohio State
+2018,12/01,Cliff Keen Invitational,285,L,MD,10 - 1,Garrett Ryan,13538,Columbia,Kevin Snyder,44847,Ohio State
+2018,11/21,Cleveland State - Ohio State Dual,285,W,TF5,20 - 5 7:00,Collin Kelly,45338,Cleveland State,Kevin Snyder,44847,Ohio State
+2018,11/18,Findlay Open,285,W,FALL,1:20,Tristen Weirich,51477,Ashland,Kevin Snyder,44847,Ohio State
+2018,11/18,Findlay Open,285,W,DEC,4 - 3,Nick Budd,42522,Gannon,Kevin Snyder,44847,Ohio State
+2018,11/18,Findlay Open,285,L,DEC,9 - 2,Terrance Fanning,47469,Wheeling,Kevin Snyder,44847,Ohio State
+2018,11/18,Findlay Open,285,W,FALL,3:50,Ron D'Amico,50276,West Liberty University,Kevin Snyder,44847,Ohio State
+2018,11/18,Findlay Open,285,W,MD,11 - 3,Caleb Fry,23344,Tiffin University,Kevin Snyder,44847,Ohio State
+2018,11/18,Findlay Open,285,W,DEC,7 - 4,Gary Traub,45199,Ohio State,Kevin Snyder,44847,Ohio State
+2018,11/11,Eastern Michigan Open,285,W,TF5,18 - 2 3:52,Weston DeHaven,51727,Davenport,Kevin Snyder,44847,Ohio State
+2018,11/11,Eastern Michigan Open,285,W,FALL,2:07,Cole Rickert,50864,Pittsburgh,Kevin Snyder,44847,Ohio State
+2018,11/11,Eastern Michigan Open,285,W,DEC,4 - 2,Billy Bolia,50176,Kent State,Kevin Snyder,44847,Ohio State
+2018,11/11,Eastern Michigan Open,285,L,DEC,5 - 2,Jon Spaulding,50330,Edinboro,Kevin Snyder,44847,Ohio State
+2018,11/11,Eastern Michigan Open,285,W,DEC,7 - 4,Andrew Piehl,44833,Navy,Kevin Snyder,44847,Ohio State
+2018,11/04,Princeton Open,285,L,DEC,8 - 2,Chase Singletary,49253,Ohio State,Kevin Snyder,44847,Ohio State
+2018,11/04,Princeton Open,285,L,MFOR,0 - 0,Ryan Cloud,39972,Rider,Kevin Snyder,44847,Ohio State
+2018,11/04,Princeton Open,285,W,DEC,7 - 4,Parker Fox,51020,Franklin & Marshall,Kevin Snyder,44847,Ohio State
+2018,11/04,Princeton Open,285,W,DEC,9 - 4,Jacob Peru,49047,Binghamton,Kevin Snyder,44847,Ohio State
+2018,01/14,Purple Raider Open,285,W,MD,8 - 0,Keith Swartley,50136,Gannon,Troy Caldwell,40062,Ohio State
+2018,01/14,Purple Raider Open,285,L,FALL,2:31,Seth Brennock,19611,Ohio State Wrestling Club,Troy Caldwell,40062,Ohio State
+2018,01/14,Purple Raider Open,285,L,DEC,10 - 6,Billy Bolia,50176,Kent State,Troy Caldwell,40062,Ohio State

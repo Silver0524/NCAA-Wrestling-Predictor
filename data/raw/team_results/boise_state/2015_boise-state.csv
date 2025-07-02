@@ -1,0 +1,367 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2015,03/01,Pac-12 Championships,125,L,INJ,7:00,Evan Silver,12224,Stanford,Carson Kuhn,16532,Boise State
+2015,03/01,Pac-12 Championships,125,L,MFOR,0 - 0,Sergio Mendez,15986,CSU Bakersfield,Carson Kuhn,16532,Boise State
+2015,03/01,Pac-12 Championships,125,L,MFOR,0 - 0,Yoshito Funakoshi,19739,Cal Poly,Carson Kuhn,16532,Boise State
+2015,02/15,Boise State - Wyoming Dual,125,L,DEC,14 - 12,Tyler Cox,13326,Wyoming,Carson Kuhn,16532,Boise State
+2015,02/08,Boise State - Oregon State Dual,125,L,DEC,6 - 2,Ronnie Bresser,25183,Oregon State,Carson Kuhn,16532,Boise State
+2015,02/06,CSU Bakersfield - Boise State Dual,125,W,DEC,10 - 5,Sergio Mendez,15986,CSU Bakersfield,Carson Kuhn,16532,Boise State
+2015,02/05,Boise State vs Cal Poly -  Dual,125,W,DEC,5 - 0,Yoshito Funakoshi,19739,Cal Poly,Carson Kuhn,16532,Boise State
+2015,02/01,Stanford - Boise State Dual,125,W,DEC,7 - 3,Evan Silver,12224,Stanford,Carson Kuhn,16532,Boise State
+2015,01/23,Arizona State - Boise State Dual,125,W,DEC,5 - 3,Ares Carpio,12143,Arizona State,Carson Kuhn,16532,Boise State
+2015,01/16,Boise State - South Dakota State Dual,125,W,DEC,7 - 0,Isaac Andrade,13269,South Dakota State,Carson Kuhn,16532,Boise State
+2015,01/09,Boise State - Northern Colorado Dual,125,W,FALL,2:40,Trey Andrews,13284,Northern Colorado,Carson Kuhn,16532,Boise State
+2015,12/13,Oregon State - Boise State Dual,125,L,MD,15 - 6,Ronnie Bresser,25183,Oregon State,Carson Kuhn,16532,Boise State
+2015,11/14,Utah Valley University - Boise State Dual,125,L,DEC,8 - 2,Chasen Tolbert,13373,Utah Valley,Carson Kuhn,16532,Boise State
+2015,03/01,Pac-12 Championships,133,L,DEC,6 - 0,Ian Nickell,20540,CSU Bakersfield,Michael Cook,19685,Boise State
+2015,03/01,Pac-12 Championships,133,L,FALL,2:27,Jason DelaCruz,19736,Cal Poly,Michael Cook,19685,Boise State
+2015,03/01,Pac-12 Championships,133,W,DEC,5 - 2,Jason DelaCruz,19736,Cal Poly,Michael Cook,19685,Boise State
+2015,02/08,Boise State - Oregon State Dual,133,L,FALL,0:50,Jack Hathaway,15765,Oregon State,Michael Cook,19685,Boise State
+2015,02/06,CSU Bakersfield - Boise State Dual,133,L,DEC,6 - 0,Ian Nickell,20540,CSU Bakersfield,Michael Cook,19685,Boise State
+2015,02/05,Boise State vs Cal Poly -  Dual,133,L,DEC,9 - 7,Jason DelaCruz,19736,Cal Poly,Michael Cook,19685,Boise State
+2015,02/01,Stanford - Boise State Dual,133,L,DEC,6 - 2,Connor Schram,14982,Stanford,Michael Cook,19685,Boise State
+2015,01/23,Arizona State - Boise State Dual,133,W,DEC,9 - 8,Judson Preskitt,20579,Arizona State,Michael Cook,19685,Boise State
+2015,01/18,Boise State - North Dakota State Dual,133,W,DEC,4 - 2,Hunter Weber,13273,North Dakota State,Michael Cook,19685,Boise State
+2015,01/16,Boise State - South Dakota State Dual,133,W,DEC,6 - 5,Brance Simms,11703,South Dakota State,Michael Cook,19685,Boise State
+2015,01/09,Boise State - Northern Colorado Dual,133,W,FALL,6:37,Abe Fox,20185,Northern Colorado,Michael Cook,19685,Boise State
+2015,01/01,Southern Scuffle,133,L,SV-1,3 - 1,Tyler Ziegler,13787,Gardner-Webb,Michael Cook,19685,Boise State
+2015,01/01,Southern Scuffle,133,L,MD,10 - 2,Mark Grey,12040,Cornell,Michael Cook,19685,Boise State
+2015,12/21,Reno Tournament of Champions,133,L,DEC,5 - 1,Devin Poppen,22026,Southern Oregon,Michael Cook,19685,Boise State
+2015,12/21,Reno Tournament of Champions,133,W,FALL,1:04,Danny Sabatello,11741,Purdue,Michael Cook,19685,Boise State
+2015,12/21,Reno Tournament of Champions,133,L,DEC,5 - 4,Gary Wayne Harding,20270,Oklahoma State,Michael Cook,19685,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,133,L,FALL,7:00,Ryan Osleeb,11828,Harvard,Michael Cook,19685,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,133,W,DEC,8 - 5,Maverick Passaro,20545,Hofstra,Michael Cook,19685,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,133,W,DEC,7 - 3,Deondre Wilson,23800,North Idaho College,Michael Cook,19685,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,133,W,DEC,3 - 2,Chris Caton,13376,Indiana,Michael Cook,19685,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,133,L,MD,13 - 3,Earl Hall,12220,Iowa State,Michael Cook,19685,Boise State
+2015,11/14,Utah Valley University - Boise State Dual,133,L,DEC,4 - 1,Jade Rauser,13291,Utah Valley,Michael Cook,19685,Boise State
+2015,11/14,Iowa State @ Boise State,133,L,MD,13 - 4,Earl Hall,12220,Iowa State,Michael Cook,19685,Boise State
+2015,11/08,Cowboy Open,133,W,DEC,5 - 0,Taylor Summers,21100,Chadron State,Michael Cook,19685,Boise State
+2015,03/19,NCAA Championships,141,W,SV-1,6 - 4,Michael Morales,20474,West Virginia,Geordan Martinez,19690,Boise State
+2015,03/19,NCAA Championships,141,L,DEC,6 - 4,Anthony Abidin,11584,Nebraska,Geordan Martinez,19690,Boise State
+2015,03/19,NCAA Championships,141,W,DEC,6 - 4,David Pearce,13379,Drexel,Geordan Martinez,19690,Boise State
+2015,03/19,NCAA Championships,141,W,FALL,1:40,Michael Longo,19624,Appalachian State,Geordan Martinez,19690,Boise State
+2015,03/19,NCAA Championships,141,L,DEC,9 - 5,Dean Heil,15376,Oklahoma State,Geordan Martinez,19690,Boise State
+2015,03/01,Pac-12 Championships,141,W,DEC,5 - 3,Devin Reynolds,20294,Oregon State,Geordan Martinez,19690,Boise State
+2015,03/01,Pac-12 Championships,141,W,DEC,6 - 3,Matt Kraus,11779,Arizona State,Geordan Martinez,19690,Boise State
+2015,02/15,Boise State - Wyoming Dual,141,W,DEC,10 - 3,Cole Mendenhall,11607,Wyoming,Geordan Martinez,19690,Boise State
+2015,02/08,Boise State - Oregon State Dual,141,W,DEC,13 - 7,Devin Reynolds,20294,Oregon State,Geordan Martinez,19690,Boise State
+2015,02/06,CSU Bakersfield - Boise State Dual,141,W,FALL,1:25,Timmy Box,14724,CSU Bakersfield,Geordan Martinez,19690,Boise State
+2015,02/05,Boise State vs Cal Poly -  Dual,141,W,DEC,8 - 1,Colton Schilling,12033,Cal Poly,Geordan Martinez,19690,Boise State
+2015,02/01,Stanford - Boise State Dual,141,W,TF4,18 - 2 6:34,Mason Pengilly,20392,Stanford,Geordan Martinez,19690,Boise State
+2015,01/23,Arizona State - Boise State Dual,141,W,DEC,5 - 3,Matt Kraus,11779,Arizona State,Geordan Martinez,19690,Boise State
+2015,01/09,Boise State - Northern Colorado Dual,141,W,FALL,4:17,Benjamin Polkowske,20556,Northern Colorado,Geordan Martinez,19690,Boise State
+2015,01/01,Southern Scuffle,141,W,FALL,1:41,Zach Horan,11624,Central Michigan,Geordan Martinez,19690,Boise State
+2015,01/01,Southern Scuffle,141,W,MD,10 - 2,Anthony Abidin,11584,Nebraska,Geordan Martinez,19690,Boise State
+2015,01/01,Southern Scuffle,141,W,MD,9 - 0,Jason Estevez,17873,Buffalo,Geordan Martinez,19690,Boise State
+2015,01/01,Southern Scuffle,141,W,MD,13 - 5,Tanner Tough,24326,Duke,Geordan Martinez,19690,Boise State
+2015,01/01,Southern Scuffle,141,L,DEC,6 - 4,Lavion Mayes,11599,Missouri,Geordan Martinez,19690,Boise State
+2015,12/13,Oregon State - Boise State Dual,141,W,DEC,7 - 4,Devin Reynolds,20294,Oregon State,Geordan Martinez,19690,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,DEC,5 - 4,Michael Morales,20474,West Virginia,Geordan Martinez,19690,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,L,DEC,6 - 1,Todd Preston,11608,Harvard,Geordan Martinez,19690,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,FALL,5:09,Jamel Hudson,12024,Hofstra,Geordan Martinez,19690,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,DEC,9 - 3,Ty Buckiso,20399,The Citadel,Geordan Martinez,19690,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,DEC,10 - 6,Sam Speno,11813,NC State,Geordan Martinez,19690,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,DEC,4 - 3,Mitch Bengtson,11619,North Dakota State,Geordan Martinez,19690,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,DEC,8 - 4,Michael Morales,20474,West Virginia,Geordan Martinez,19690,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,FALL,7:00,Jamel Hudson,12024,Hofstra,Geordan Martinez,19690,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,TF4,15 - 0 5:37,Dante Rodriguez,19964,Iowa State,Geordan Martinez,19690,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,L,DEC,10 - 8,Anthony Ashnault,11803,Rutgers,Geordan Martinez,19690,Boise State
+2015,11/14,Utah Valley University - Boise State Dual,141,W,FALL,1:32,Derek Malan,20415,Utah Valley,Geordan Martinez,19690,Boise State
+2015,11/14,Iowa State @ Boise State,141,W,DEC,9 - 5,John Meeks,11597,Iowa State,Geordan Martinez,19690,Boise State
+2015,11/23,Spokane Open,141,L,MFOR,0 - 0,erick garcia,21842,New Mexico Highlands,Chris Caldwell,15660,Boise State
+2015,11/23,Spokane Open,141,L,MFOR,0 - 0,Eric Ambriz,23078,Cerritos College,Chris Caldwell,15660,Boise State
+2015,11/23,Spokane Open,141,L,DEC,4 - 0,Bryce Weatherston,23079,North Idaho College,Chris Caldwell,15660,Boise State
+2015,11/23,Spokane Open,141,W,DEC,6 - 3,Robert Rizzolino,21847,Clarion,Chris Caldwell,15660,Boise State
+2015,11/23,Spokane Open,141,W,DEC,8 - 2,Cesar Montes,23081,Belmont Abbey,Chris Caldwell,15660,Boise State
+2015,11/23,Spokane Open,141,W,FALL,1:31,chauncey kono,23080,New Mexico Highlands,Chris Caldwell,15660,Boise State
+2015,11/22,Nor Cal Invitational,141,L,MD,10 - 2,Tommy Pawelski,12007,Stanford,Chris Caldwell,15660,Boise State
+2015,11/22,Nor Cal Invitational,141,L,MD,10 - 2,Brian Rossi,20394,Stanford,Chris Caldwell,15660,Boise State
+2015,01/18,Boise State - North Dakota State Dual,141,L,FALL,3:44,Mitch Bengtson,11619,North Dakota State,Jared Jonshoy,23076,Boise State
+2015,01/16,Boise State - South Dakota State Dual,141,L,MD,10 - 1,Luke Zilverberg,13633,South Dakota State,Jared Jonshoy,23076,Boise State
+2015,12/21,Reno Tournament of Champions,141,L,MD,14 - 5,Austin Solari,23973,Grand Canyon,Jared Jonshoy,23076,Boise State
+2015,12/21,Reno Tournament of Champions,141,L,FALL,5:27,Isaiah Locsin,20391,Stanford,Jared Jonshoy,23076,Boise State
+2015,12/06,Battle of the Rockies,141,L,DEC,5 - 3,Michael Asselstine,23464,Boston U,Jared Jonshoy,23076,Boise State
+2015,12/06,Battle of the Rockies,141,W,DEC,11 - 7,Jimmy Zhen,23463,Unattached,Jared Jonshoy,23076,Boise State
+2015,12/06,Battle of the Rockies,141,L,MD,11 - 2,Darren Wynn,23462,McKendree University,Jared Jonshoy,23076,Boise State
+2015,12/06,Battle of the Rockies,141,W,TF4,15 - 0 7:00,Austin Meyn,22301,Cumberland,Jared Jonshoy,23076,Boise State
+2015,11/23,Spokane Open,141,W,DEC,12 - 5,Bryce Weatherston,23079,North Idaho College,Jared Jonshoy,23076,Boise State
+2015,11/23,Spokane Open,141,W,MD,16 - 4,erick garcia,21842,New Mexico Highlands,Jared Jonshoy,23076,Boise State
+2015,11/23,Spokane Open,141,W,MD,16 - 6,Eric Ambriz,23078,Cerritos College,Jared Jonshoy,23076,Boise State
+2015,11/23,Spokane Open,141,W,TF4,19 - 3 5:41,Ricky Moroguez,23077,Unattached,Jared Jonshoy,23076,Boise State
+2015,11/23,Spokane Open,141,W,FALL,0:39,Jake Crawford,21841,Western Colorado,Jared Jonshoy,23076,Boise State
+2015,03/01,Pac-12 Championships,149,L,DEC,7 - 4,Garrett Schaner,13763,Stanford,Jake Velarde,19695,Boise State
+2015,03/01,Pac-12 Championships,149,L,DEC,3 - 1,Blake Kastl,11799,Cal Poly,Jake Velarde,19695,Boise State
+2015,03/01,Pac-12 Championships,149,L,MD,10 - 0,Coleman Hammond,14011,CSU Bakersfield,Jake Velarde,19695,Boise State
+2015,02/15,Boise State - Wyoming Dual,149,L,FALL,2:40,Austin Breckenridge,16769,Wyoming,Jake Velarde,19695,Boise State
+2015,02/08,Boise State - Oregon State Dual,149,L,MD,11 - 3,Abraham Rodriquez,42226,Oregon State,Jake Velarde,19695,Boise State
+2015,02/06,CSU Bakersfield - Boise State Dual,149,L,DEC,4 - 0,Coleman Hammond,14011,CSU Bakersfield,Jake Velarde,19695,Boise State
+2015,02/05,Boise State vs Cal Poly -  Dual,149,L,DEC,7 - 4,Blake Kastl,11799,Cal Poly,Jake Velarde,19695,Boise State
+2015,02/01,Stanford - Boise State Dual,149,L,DEC,8 - 2,Garrett Schaner,13763,Stanford,Jake Velarde,19695,Boise State
+2015,01/23,Arizona State - Boise State Dual,149,L,MD,16 - 5,Christian Pagdilao,20575,Arizona State,Jake Velarde,19695,Boise State
+2015,12/21,Reno Tournament of Champions,149,L,DEC,6 - 4,Joe Mavins,21853,Unattached,Jake Velarde,19695,Boise State
+2015,12/21,Reno Tournament of Champions,149,L,MD,8 - 0,Jake Ekster,22969,Missouri Baptist,Jake Velarde,19695,Boise State
+2015,02/15,Boise State - Wyoming Dual,157,L,MD,10 - 1,Brandon Richardson,13647,Wyoming,Lucas Somera,15847,Boise State
+2015,01/10,UVU Open,157,L,MFOR,0 - 0,Raider Lofthouse,20414,Utah Valley,Lucas Somera,15847,Boise State
+2015,12/21,Reno Tournament of Champions,149,L,FALL,0:28,Jordan Henrickson,13523,Oregon State,Lucas Somera,15847,Boise State
+2015,12/21,Reno Tournament of Champions,149,L,FALL,1:54,Brayden Humpherys,20413,Utah Valley,Lucas Somera,15847,Boise State
+2015,12/21,Reno Tournament of Champions,149,W,FALL,0:19,Christopher Garcia,21754,Clackamas Community College,Lucas Somera,15847,Boise State
+2015,11/23,Spokane Open,149,L,DEC,10 - 9,Christopher Garcia,21754,Clackamas Community College,Lucas Somera,15847,Boise State
+2015,11/23,Spokane Open,149,W,DEC,6 - 2,Cody Yeik,23094,Washington State University,Lucas Somera,15847,Boise State
+2015,11/23,Spokane Open,149,W,DEC,9 - 4,James Ost,23088,North Idaho College,Lucas Somera,15847,Boise State
+2015,11/23,Spokane Open,149,W,FALL,5:16,Josh Smith,43641,Highline Community College,Lucas Somera,15847,Boise State
+2015,11/23,Spokane Open,149,W,FALL,2:44,Eric Bauer,21855,Simon Fraser,Lucas Somera,15847,Boise State
+2015,11/23,Spokane Open,149,L,DEC,9 - 8,Antonio McKee,23089,Cerritos College,Lucas Somera,15847,Boise State
+2015,11/23,Spokane Open,149,W,TF4,21 - 2 3:45,Jack Larsen,23092,Western Colorado,Lucas Somera,15847,Boise State
+2015,11/23,Spokane Open,149,L,TF4,15 - 0 3:51,Travis Himmelman,15646,Boise State,Lucas Somera,15847,Boise State
+2015,01/16,Boise State - South Dakota State Dual,149,L,MD,12 - 4,Alex Kocer,20562,South Dakota State,Travis Himmelman,15646,Boise State
+2015,01/09,Boise State - Northern Colorado Dual,149,W,TF4,17 - 2 7:00,Nick Adams,11894,Northern Colorado,Travis Himmelman,15646,Boise State
+2015,12/21,Reno Tournament of Champions,149,L,DEC,9 - 4,Paul Fox,20390,Stanford,Travis Himmelman,15646,Boise State
+2015,12/21,Reno Tournament of Champions,149,W,MD,10 - 2,Nick Swanson,21913,Colorado Mesa,Travis Himmelman,15646,Boise State
+2015,12/21,Reno Tournament of Champions,149,L,MD,11 - 3,Tywan Claxton,13846,Ohio,Travis Himmelman,15646,Boise State
+2015,12/21,Reno Tournament of Champions,149,W,FALL,5:43,Jake Elliott,14663,Wyoming,Travis Himmelman,15646,Boise State
+2015,12/13,Oregon State - Boise State Dual,149,L,DEC,3 - 1,Abraham Rodriquez,42226,Oregon State,Travis Himmelman,15646,Boise State
+2015,12/06,Battle of the Rockies,149,L,FALL,1:30,Jake Williams,23465,Cumberland,Travis Himmelman,15646,Boise State
+2015,12/06,Battle of the Rockies,149,W,DEC,4 - 2,Jeff McCormick,21675,Northwestern,Travis Himmelman,15646,Boise State
+2015,12/06,Battle of the Rockies,149,W,TF4,15 - 0 7:00,Ladigo Williams,21136,Cumberland,Travis Himmelman,15646,Boise State
+2015,12/06,Battle of the Rockies,149,W,TF4,15 - 0 7:00,Isiah Yates,23098,Providence,Travis Himmelman,15646,Boise State
+2015,11/23,Spokane Open,149,W,TF4,15 - 0 3:51,Lucas Somera,15847,Boise State,Travis Himmelman,15646,Boise State
+2015,11/23,Spokane Open,149,L,FALL,5:53,Kenji Yamishita,21856,Simon Fraser,Travis Himmelman,15646,Boise State
+2015,11/23,Spokane Open,149,W,FALL,5:28,Kit Major,23091,North Idaho College,Travis Himmelman,15646,Boise State
+2015,11/23,Spokane Open,149,W,FALL,3:49,Maverick Reddaway,23090,Central Washington University,Travis Himmelman,15646,Boise State
+2015,11/23,Spokane Open,149,L,DEC,2 - 1,Josh Reyes,19693,Boise State,Travis Himmelman,15646,Boise State
+2015,01/25,Clackamas Open,149,L,DEC,4 - 0,Joey Delgado,11620,Oregon State,Josh Reyes,19693,Boise State
+2015,01/25,Clackamas Open,149,W,SV-1,8 - 6,Aaron David,18204,Oregon State,Josh Reyes,19693,Boise State
+2015,12/21,Reno Tournament of Champions,149,L,MFOR,0 - 0,Garrett Schaner,13763,Stanford,Josh Reyes,19693,Boise State
+2015,12/21,Reno Tournament of Champions,149,L,MFOR,0 - 0,Jake Elliott,14663,Wyoming,Josh Reyes,19693,Boise State
+2015,12/21,Reno Tournament of Champions,149,L,MFOR,0 - 0,Coleman Hammond,14011,CSU Bakersfield,Josh Reyes,19693,Boise State
+2015,12/21,Reno Tournament of Champions,149,W,DEC,5 - 4,Drew Schumann,22786,Colorado Mesa,Josh Reyes,19693,Boise State
+2015,12/21,Reno Tournament of Champions,149,W,DEC,9 - 4,Christian Franks,23976,Menlo,Josh Reyes,19693,Boise State
+2015,12/21,Reno Tournament of Champions,149,W,DEC,3 - 1,Hans Rasmusson,19632,Arizona State,Josh Reyes,19693,Boise State
+2015,11/23,Spokane Open,149,W,MFOR,0 - 0,Antonio McKee,23089,Cerritos College,Josh Reyes,19693,Boise State
+2015,11/23,Spokane Open,149,W,DEC,2 - 1,Travis Himmelman,15646,Boise State,Josh Reyes,19693,Boise State
+2015,11/23,Spokane Open,149,W,DEC,4 - 2,James Ost,23088,North Idaho College,Josh Reyes,19693,Boise State
+2015,11/23,Spokane Open,149,W,MD,16 - 6,Nathan Vulliet,21850,Simon Fraser,Josh Reyes,19693,Boise State
+2015,12/21,Reno Tournament of Champions,149,L,MFOR,0 - 0,Christopher Garcia,21754,Clackamas Community College,Blaine Invernon,15165,Boise State
+2015,12/21,Reno Tournament of Champions,149,L,MFOR,0 - 0,Drew Schumann,22786,Colorado Mesa,Blaine Invernon,15165,Boise State
+2015,12/21,Reno Tournament of Champions,149,W,DEC,5 - 3,Tyler Mann,20274,Oklahoma State,Blaine Invernon,15165,Boise State
+2015,03/19,NCAA Championships,157,L,MD,9 - 0,Joey Lavallee,13513,Missouri,Steven Hernandez,15477,Boise State
+2015,03/19,NCAA Championships,157,L,DEC,6 - 2,John Boyle,13875,American,Steven Hernandez,15477,Boise State
+2015,03/01,Pac-12 Championships,157,W,FALL,2:11,Spencer Hill,13516,CSU Bakersfield,Steven Hernandez,15477,Boise State
+2015,03/01,Pac-12 Championships,157,W,INJ,7:00,Maxwell Hvolbek,15823,Stanford,Steven Hernandez,15477,Boise State
+2015,03/01,Pac-12 Championships,157,L,DEC,3 - 1,Alex Elder,18158,Oregon State,Steven Hernandez,15477,Boise State
+2015,02/08,Boise State - Oregon State Dual,157,L,MD,13 - 4,Alex Elder,18158,Oregon State,Steven Hernandez,15477,Boise State
+2015,02/06,CSU Bakersfield - Boise State Dual,157,W,DEC,7 - 5,Spencer Hill,13516,CSU Bakersfield,Steven Hernandez,15477,Boise State
+2015,02/05,Boise State vs Cal Poly -  Dual,157,W,FALL,4:24,Colt Shorts,11611,Cal Poly,Steven Hernandez,15477,Boise State
+2015,02/01,Stanford - Boise State Dual,157,W,FALL,0:34,Maxwell Hvolbek,15823,Stanford,Steven Hernandez,15477,Boise State
+2015,01/23,Arizona State - Boise State Dual,157,W,DEC,3 - 1,Oliver Pierce,20578,Arizona State,Steven Hernandez,15477,Boise State
+2015,01/18,Boise State - North Dakota State Dual,157,W,DEC,11 - 5,Steven Keogh,20764,North Dakota State,Steven Hernandez,15477,Boise State
+2015,01/16,Boise State - South Dakota State Dual,157,L,DEC,3 - 0,Cody Pack,13498,South Dakota State,Steven Hernandez,15477,Boise State
+2015,01/09,Boise State - Northern Colorado Dual,157,W,DEC,11 - 6,Beau Roberts,13806,Northern Colorado,Steven Hernandez,15477,Boise State
+2015,01/01,Southern Scuffle,157,L,DEC,3 - 1,Chris Mears,20116,North Carolina,Steven Hernandez,15477,Boise State
+2015,01/01,Southern Scuffle,157,W,FALL,2:53,Greg Flournoy,18154,George Mason,Steven Hernandez,15477,Boise State
+2015,01/01,Southern Scuffle,157,W,DEC,14 - 7,Austin Sams,14020,Chattanooga,Steven Hernandez,15477,Boise State
+2015,01/01,Southern Scuffle,157,L,DEC,11 - 4,Anthony Collica,11723,Oklahoma State,Steven Hernandez,15477,Boise State
+2015,01/01,Southern Scuffle,157,W,DEC,7 - 1,Eric Nutter,12609,Pittsburgh,Steven Hernandez,15477,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,FALL,3:30,Brian Murphy,13518,Michigan,Steven Hernandez,15477,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,157,L,MFOR,0 - 0,Russell Parsons,19642,Army West Point,Steven Hernandez,15477,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,FALL,7:00,Tyler McLean,23097,North Idaho College,Steven Hernandez,15477,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,DEC,11 - 5,Tim Wheeling,20564,West Virginia,Steven Hernandez,15477,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,DEC,5 - 3,Logan Addis,11534,Utah Valley,Steven Hernandez,15477,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,FALL,7:00,Joel Smith,14912,Arizona State,Steven Hernandez,15477,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,FALL,7:00,Brian Murphy,13518,Michigan,Steven Hernandez,15477,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,DEC,12 - 8,Andrew Atkinson,11982,Virginia,Steven Hernandez,15477,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,157,L,MFOR,0 - 0,Anthony Perrotti,13752,Rutgers,Steven Hernandez,15477,Boise State
+2015,11/14,Utah Valley University - Boise State Dual,157,W,FALL,4:09,Koleton Hardy,16737,Utah Valley,Steven Hernandez,15477,Boise State
+2015,11/14,Iowa State @ Boise State,157,W,FALL,1:13,Luke Goettl,18168,Iowa State,Steven Hernandez,15477,Boise State
+2015,01/10,UVU Open,157,L,MD,12 - 3,Raider Lofthouse,20414,Utah Valley,Brandon Brenenstahl,19683,Boise State
+2015,12/21,Reno Tournament of Champions,157,L,MD,12 - 2,Dalton Urrutia,21863,Southern Oregon,Brandon Brenenstahl,19683,Boise State
+2015,12/21,Reno Tournament of Champions,157,W,DEC,7 - 0,Justin Weiding,23977,New Mexico Highlands,Brandon Brenenstahl,19683,Boise State
+2015,12/21,Reno Tournament of Champions,157,L,MD,21 - 8,Anthony Collica,11723,Oklahoma State,Brandon Brenenstahl,19683,Boise State
+2015,12/06,Battle of the Rockies,157,L,DEC,11 - 4,Tommy Cooper,23096,Montana State-Northern,Brandon Brenenstahl,19683,Boise State
+2015,12/06,Battle of the Rockies,157,W,FALL,4:45,Nate Croley,23467,Cumberland,Brandon Brenenstahl,19683,Boise State
+2015,12/06,Battle of the Rockies,157,L,DEC,12 - 9,CJ Clark,21067,Chadron State,Brandon Brenenstahl,19683,Boise State
+2015,12/06,Battle of the Rockies,157,W,FALL,4:31,Justin Meier,23466,Providence,Brandon Brenenstahl,19683,Boise State
+2015,11/23,Spokane Open,157,L,MD,10 - 2,Tommy Cooper,23096,Montana State-Northern,Brandon Brenenstahl,19683,Boise State
+2015,11/23,Spokane Open,157,L,DEC,3 - 2,Tyler McLean,23097,North Idaho College,Brandon Brenenstahl,19683,Boise State
+2015,11/23,Spokane Open,157,L,MD,14 - 5,Eleazar DeLuca,21757,Clackamas Community College,Brandon Brenenstahl,19683,Boise State
+2015,11/23,Spokane Open,157,W,FALL,6:15,Tommy Cooper,23096,Montana State-Northern,Brandon Brenenstahl,19683,Boise State
+2015,11/23,Spokane Open,157,W,FALL,5:42,Aj Garcia,23095,North Idaho College,Brandon Brenenstahl,19683,Boise State
+2015,11/08,Cowboy Open,157,W,FALL,2:46,Johnny Porter,21498,Chadron State,Brandon Brenenstahl,19683,Boise State
+2015,01/10,UVU Open,157,L,MD,17 - 6,Michael Suwyn,20420,Utah Valley,Michael McDonald,16762,Boise State
+2015,12/21,Reno Tournament of Champions,157,L,TF4,16 - 1 3:55,Archie Colgan,15555,Wyoming,Michael McDonald,16762,Boise State
+2015,12/21,Reno Tournament of Champions,157,L,MD,14 - 4,Joe Granger,19741,Cal Poly,Michael McDonald,16762,Boise State
+2015,12/21,Reno Tournament of Champions,157,W,DEC,7 - 5,Tommy Cooper,23096,Montana State-Northern,Michael McDonald,16762,Boise State
+2015,02/15,Boise State - Wyoming Dual,165,L,DEC,7 - 4,Dakota Friesth,11519,Wyoming,Taylor West,13744,Boise State
+2015,12/21,Reno Tournament of Champions,165,L,DEC,5 - 4,Brock Crocker,23978,Southern Oregon,Taylor West,13744,Boise State
+2015,12/21,Reno Tournament of Champions,165,L,DEC,9 - 3,Chandler Rogers,20559,Oklahoma State,Taylor West,13744,Boise State
+2015,12/13,Oregon State - Boise State Dual,157,L,DEC,12 - 5,Alex Elder,18158,Oregon State,Taylor West,13744,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,165,L,SV-1,5 - 4,Max Rohskopf,13645,NC State,Taylor West,13744,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,165,W,MD,10 - 2,Casey Larson,22156,Grand Canyon,Taylor West,13744,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,165,L,DEC,5 - 1,Jesse Stafford,11518,Air Force,Taylor West,13744,Boise State
+2015,11/23,Spokane Open,157,L,DEC,7 - 3,Eleazar DeLuca,21757,Clackamas Community College,Taylor West,13744,Boise State
+2015,11/23,Spokane Open,157,W,FALL,0:41,Keanu Tom,23099,Cerritos College,Taylor West,13744,Boise State
+2015,11/23,Spokane Open,157,W,DEC,4 - 3,Tyler McLean,23097,North Idaho College,Taylor West,13744,Boise State
+2015,11/23,Spokane Open,157,W,MD,10 - 1,Isiah Yates,23098,Providence,Taylor West,13744,Boise State
+2015,03/01,Pac-12 Championships,165,L,DEC,4 - 3,Seth Thomas,18159,Oregon State,Chris Castillo,14014,Boise State
+2015,03/01,Pac-12 Championships,165,L,DEC,5 - 2,Adam Fierro,15184,CSU Bakersfield,Chris Castillo,14014,Boise State
+2015,03/01,Pac-12 Championships,165,W,MD,12 - 4,Travis Berridge,14904,Cal Poly,Chris Castillo,14014,Boise State
+2015,02/08,Boise State - Oregon State Dual,165,W,DEC,5 - 3,Seth Thomas,18159,Oregon State,Chris Castillo,14014,Boise State
+2015,02/06,CSU Bakersfield - Boise State Dual,165,W,DEC,6 - 5,Adam Fierro,15184,CSU Bakersfield,Chris Castillo,14014,Boise State
+2015,02/05,Boise State vs Cal Poly -  Dual,165,W,DEC,5 - 2,Travis Berridge,14904,Cal Poly,Chris Castillo,14014,Boise State
+2015,02/01,Stanford - Boise State Dual,165,L,DEC,5 - 3,Jim Wilson,11535,Stanford,Chris Castillo,14014,Boise State
+2015,01/23,Arizona State - Boise State Dual,165,W,MFOR,0 - 0,Joel Smith,14912,Arizona State,Chris Castillo,14014,Boise State
+2015,01/18,Boise State - North Dakota State Dual,165,W,DEC,7 - 3,Grant Nehring,13556,North Dakota State,Chris Castillo,14014,Boise State
+2015,01/16,Boise State - South Dakota State Dual,165,L,DEC,6 - 4,John Nething II,12326,South Dakota State,Chris Castillo,14014,Boise State
+2015,01/09,Boise State - Northern Colorado Dual,165,L,DEC,6 - 3,Mitchell Polkowske,13749,Northern Colorado,Chris Castillo,14014,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,149,L,DEC,2 - 1,Abraham Rodriquez,42226,Oregon State,Chris Castillo,14014,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,149,L,FALL,2:32,Cody Ruggirello,13711,Hofstra,Chris Castillo,14014,Boise State
+2015,11/14,Utah Valley University - Boise State Dual,149,W,DEC,5 - 3,Trevor Willson,13714,Utah Valley,Chris Castillo,14014,Boise State
+2015,11/14,Iowa State @ Boise State,149,L,DEC,6 - 5,Gabe Moreno,11816,Iowa State,Chris Castillo,14014,Boise State
+2015,03/01,Pac-12 Championships,174,W,DEC,6 - 5,Keaton Subjeck,14567,Stanford,Holden Packard,11565,Boise State
+2015,03/01,Pac-12 Championships,174,W,DEC,4 - 3,Jesus Ambriz,12379,CSU Bakersfield,Holden Packard,11565,Boise State
+2015,03/01,Pac-12 Championships,174,W,DEC,11 - 10,Ray Waters,15279,Arizona State,Holden Packard,11565,Boise State
+2015,03/01,Pac-12 Championships,174,L,FALL,4:56,Dominic Kastl,14609,Cal Poly,Holden Packard,11565,Boise State
+2015,02/15,Boise State - Wyoming Dual,184,L,FALL,1:41,Benjamin Stroh,12647,Wyoming,Holden Packard,11565,Boise State
+2015,02/08,Boise State - Oregon State Dual,184,L,DEC,6 - 0,Taylor Meeks,18155,Oregon State,Holden Packard,11565,Boise State
+2015,02/06,CSU Bakersfield - Boise State Dual,184,W,SV-1,6 - 4,Sean Pollock,12446,CSU Bakersfield,Holden Packard,11565,Boise State
+2015,01/31,California Collegiate Open,165,W,DQ,0 - 0,Vincent Aboytes,21445,San Francisco State,Holden Packard,11565,Boise State
+2015,01/31,California Collegiate Open,165,W,DEC,7 - 3,Daniel Murakami,25077,Southwest Minnesota State,Holden Packard,11565,Boise State
+2015,01/31,California Collegiate Open,165,W,MD,20 - 6,Dominic Merlo,25076,Simpson,Holden Packard,11565,Boise State
+2015,12/21,Reno Tournament of Champions,165,L,SV-1,2 - 1,Dalton Harmon,20411,Utah Valley,Holden Packard,11565,Boise State
+2015,12/21,Reno Tournament of Champions,165,L,DEC,4 - 0,Jim Wilson,11535,Stanford,Holden Packard,11565,Boise State
+2015,12/21,Reno Tournament of Champions,165,W,DEC,5 - 2,Tyler Chay,18454,Oregon State,Holden Packard,11565,Boise State
+2015,12/13,Oregon State - Boise State Dual,165,L,DEC,3 - 1,Seth Thomas,18159,Oregon State,Holden Packard,11565,Boise State
+2015,11/23,Spokane Open,165,L,FALL,4:39,Ethan Hinebauch,23102,Montana State-Northern,Holden Packard,11565,Boise State
+2015,11/23,Spokane Open,165,W,DEC,13 - 10,Dajour Reece,23101,North Idaho College,Holden Packard,11565,Boise State
+2015,11/23,Spokane Open,165,W,MD,13 - 5,tyler noon,21870,New Mexico Highlands,Holden Packard,11565,Boise State
+2015,11/23,Spokane Open,165,W,TF4,23 - 8 5:39,James Malone,23100,North Idaho College,Holden Packard,11565,Boise State
+2015,11/14,Utah Valley University - Boise State Dual,165,L,TB-1,4 - 2,Dalton Harmon,20411,Utah Valley,Holden Packard,11565,Boise State
+2015,11/14,Iowa State @ Boise State,165,L,FALL,1:53,Michael Moreno,11457,Iowa State,Holden Packard,11565,Boise State
+2015,03/01,Pac-12 Championships,184,L,DEC,6 - 2,Zach Nevills,12328,Stanford,Austin Dewey,12380,Boise State
+2015,03/01,Pac-12 Championships,184,L,MD,10 - 2,Nick Fiegener,19738,Cal Poly,Austin Dewey,12380,Boise State
+2015,03/01,Pac-12 Championships,184,L,DEC,7 - 0,Nick Fiegener,19738,Cal Poly,Austin Dewey,12380,Boise State
+2015,02/15,Boise State - Wyoming Dual,174,L,DEC,2 - 1,Andy McCulley,13524,Wyoming,Austin Dewey,12380,Boise State
+2015,02/08,Boise State - Oregon State Dual,174,L,DEC,3 - 1,Joe Latham,18140,Oregon State,Austin Dewey,12380,Boise State
+2015,02/06,CSU Bakersfield - Boise State Dual,174,W,TB-1,4 - 2,Jesus Ambriz,12379,CSU Bakersfield,Austin Dewey,12380,Boise State
+2015,02/05,Boise State vs Cal Poly -  Dual,174,L,DEC,5 - 3,Dominic Kastl,14609,Cal Poly,Austin Dewey,12380,Boise State
+2015,02/01,Stanford - Boise State Dual,174,L,DEC,6 - 2,Keaton Subjeck,14567,Stanford,Austin Dewey,12380,Boise State
+2015,01/23,Arizona State - Boise State Dual,174,L,DEC,8 - 5,Ray Waters,15279,Arizona State,Austin Dewey,12380,Boise State
+2015,01/18,Boise State - North Dakota State Dual,174,L,DEC,3 - 2,Kurtis Julson,12375,North Dakota State,Austin Dewey,12380,Boise State
+2015,01/16,Boise State - South Dakota State Dual,174,W,DEC,4 - 2,David Kocer,13612,South Dakota State,Austin Dewey,12380,Boise State
+2015,01/09,Boise State - Northern Colorado Dual,174,W,DEC,7 - 1,Josh VanTine,12296,Northern Colorado,Austin Dewey,12380,Boise State
+2015,12/21,Reno Tournament of Champions,174,W,DEC,5 - 2,Joe Latham,18140,Oregon State,Austin Dewey,12380,Boise State
+2015,12/21,Reno Tournament of Champions,174,L,DEC,10 - 3,Jordan Rogers,12544,Oklahoma State,Austin Dewey,12380,Boise State
+2015,12/21,Reno Tournament of Champions,174,W,MD,15 - 1,Andrew Orr,23980,Southwest Minnesota State,Austin Dewey,12380,Boise State
+2015,12/21,Reno Tournament of Champions,174,W,MD,11 - 2,Dylan Morris,20563,Stanford,Austin Dewey,12380,Boise State
+2015,12/21,Reno Tournament of Champions,174,L,SV-1,3 - 1,Andy McCulley,13524,Wyoming,Austin Dewey,12380,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,174,L,DEC,6 - 3,Pete Renda,12371,NC State,Austin Dewey,12380,Boise State
+2015,11/14,Utah Valley University - Boise State Dual,174,L,SV-1,6 - 4,Ethan Smith,12482,Utah Valley,Austin Dewey,12380,Boise State
+2015,11/14,Iowa State @ Boise State,174,L,TF4,18 - 3 7:00,Tanner Weatherman,12253,Iowa State,Austin Dewey,12380,Boise State
+2015,12/21,Reno Tournament of Champions,174,L,MFOR,0 - 0,Ethan Smith,12482,Utah Valley,Chris Nile,19691,Boise State
+2015,12/21,Reno Tournament of Champions,174,L,MFOR,0 - 0,Cody Walters,12401,Ohio,Chris Nile,19691,Boise State
+2015,12/21,Reno Tournament of Champions,174,W,DEC,2 - 0,Stephen Mejia,22181,Colorado Mesa,Chris Nile,19691,Boise State
+2015,12/21,Reno Tournament of Champions,174,W,DEC,5 - 3,Reed Tennyson,23979,Southern Oregon,Chris Nile,19691,Boise State
+2015,12/21,Reno Tournament of Champions,174,L,FALL,6:33,Reed Tennyson,23979,Southern Oregon,Wilhelm Meyer,17378,Boise State
+2015,12/21,Reno Tournament of Champions,174,L,FALL,4:57,Andrew Orr,23980,Southwest Minnesota State,Wilhelm Meyer,17378,Boise State
+2015,12/21,Reno Tournament of Champions,174,W,MD,15 - 6,Mario Garcia,23981,Adams State,Wilhelm Meyer,17378,Boise State
+2015,12/21,Reno Tournament of Champions,184,L,DEC,7 - 4,Scott VanDeLoo,23792,Southwest Minnesota State,Chili Sabin,19694,Boise State
+2015,12/21,Reno Tournament of Champions,184,L,DEC,15 - 11,William Miller,23472,Montana State-Northern,Chili Sabin,19694,Boise State
+2015,12/21,Reno Tournament of Champions,184,W,FALL,1:19,Gabe Gonzalez,23982,Grand Canyon,Chili Sabin,19694,Boise State
+2015,01/31,California Collegiate Open,184,L,DEC,5 - 1,Harlan Kistler,22364,Cal Baptist,Zach Coffman,16305,Boise State
+2015,01/31,California Collegiate Open,184,L,FALL,3:36,Max Hane,24825,Southern Oregon,Zach Coffman,16305,Boise State
+2015,01/09,Boise State - Northern Colorado Dual,184,L,FALL,4:15,Keith Johnson,20189,Northern Colorado,Zach Coffman,16305,Boise State
+2015,03/01,Pac-12 Championships,197,W,DEC,9 - 2,JT Goodwin,19740,Cal Poly,Cody Dixon,19687,Boise State
+2015,03/01,Pac-12 Championships,197,W,DEC,3 - 2,Garet Krohn,12464,Stanford,Cody Dixon,19687,Boise State
+2015,03/01,Pac-12 Championships,197,W,FALL,0:21,Josh DaSilveira,13017,Arizona State,Cody Dixon,19687,Boise State
+2015,03/01,Pac-12 Championships,197,L,DEC,6 - 5,Cody Crawford,16468,Oregon State,Cody Dixon,19687,Boise State
+2015,02/15,Boise State - Wyoming Dual,197,L,DEC,5 - 1,Shane Woods,13015,Wyoming,Cody Dixon,19687,Boise State
+2015,02/08,Boise State - Oregon State Dual,197,L,DEC,8 - 7,Cody Crawford,16468,Oregon State,Cody Dixon,19687,Boise State
+2015,02/06,CSU Bakersfield - Boise State Dual,197,L,DEC,4 - 1,Matt Williams,16442,CSU Bakersfield,Cody Dixon,19687,Boise State
+2015,02/05,Boise State vs Cal Poly -  Dual,197,L,FALL,2:59,JT Goodwin,19740,Cal Poly,Cody Dixon,19687,Boise State
+2015,02/01,Stanford - Boise State Dual,197,W,DEC,6 - 4,Garet Krohn,12464,Stanford,Cody Dixon,19687,Boise State
+2015,01/23,Arizona State - Boise State Dual,197,L,FALL,2:57,Josh DaSilveira,13017,Arizona State,Cody Dixon,19687,Boise State
+2015,01/18,Boise State - North Dakota State Dual,197,W,DEC,9 - 4,Thomas Petersen,21090,North Dakota State,Cody Dixon,19687,Boise State
+2015,01/16,Boise State - South Dakota State Dual,197,W,DEC,5 - 4,Nate Rotert,12968,South Dakota State,Cody Dixon,19687,Boise State
+2015,01/09,Boise State - Northern Colorado Dual,197,W,DEC,7 - 3,Trent Noon,12471,Northern Colorado,Cody Dixon,19687,Boise State
+2015,01/01,Southern Scuffle,197,W,SV-1,7 - 5,Scottie Boykin,12756,Chattanooga,Cody Dixon,19687,Boise State
+2015,01/01,Southern Scuffle,197,L,DEC,3 - 1,Conner Hartmann,13169,Duke,Cody Dixon,19687,Boise State
+2015,01/01,Southern Scuffle,197,W,DEC,13 - 6,James Benjamin,13108,Buffalo,Cody Dixon,19687,Boise State
+2015,01/01,Southern Scuffle,197,L,DEC,4 - 3,Shane Woods,13015,Wyoming,Cody Dixon,19687,Boise State
+2015,12/21,Reno Tournament of Champions,197,L,DEC,7 - 1,Ihoghama Odighizuwa,23984,Clarion,Cody Dixon,19687,Boise State
+2015,12/21,Reno Tournament of Champions,197,L,FALL,6:49,Matt Williams,16442,CSU Bakersfield,Cody Dixon,19687,Boise State
+2015,12/21,Reno Tournament of Champions,197,W,DEC,8 - 5,Austin Schafer,13112,Oklahoma State,Cody Dixon,19687,Boise State
+2015,12/21,Reno Tournament of Champions,197,W,DEC,6 - 5,Brad Johnson,16410,Oklahoma,Cody Dixon,19687,Boise State
+2015,12/13,Oregon State - Boise State Dual,184,L,DEC,3 - 0,Taylor Meeks,18155,Oregon State,Cody Dixon,19687,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,184,L,DEC,9 - 3,Taylor Meeks,18155,Oregon State,Cody Dixon,19687,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,MD,19 - 7,Michael Mocco,19918,Harvard,Cody Dixon,19687,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,184,L,TB-2,4 - 3,Lelund Weatherspoon,12283,Iowa State,Cody Dixon,19687,Boise State
+2015,11/16,East Stroudsburg Open,197,L,DEC,3 - 2,Brandon Litten,13097,Drexel,Cody Dixon,19687,Boise State
+2015,11/15,East Stroudsburg Open,197,L,DEC,3 - 2,Brandon Litten,13097,Drexel,Cody Dixon,19687,Boise State
+2015,11/14,Utah Valley University - Boise State Dual,184,W,MD,12 - 4,Abel Gomez,18177,Utah Valley,Cody Dixon,19687,Boise State
+2015,11/14,Iowa State @ Boise State,184,L,DEC,3 - 1,Lelund Weatherspoon,12283,Iowa State,Cody Dixon,19687,Boise State
+2015,11/02,Clarion Open,197,L,MFOR,0 - 0,Thomas Murray,19984,Lehigh,Cole Rice,15588,Boise State
+2015,12/21,Reno Tournament of Champions,197,L,SV-1,3 - 1,Boomer Fleming,20389,Stanford,Colton Grossaint,19689,Boise State
+2015,12/21,Reno Tournament of Champions,197,L,DEC,8 - 3,Coleman Johns,22025,Southern Oregon,Colton Grossaint,19689,Boise State
+2015,11/23,Spokane Open,197,L,DEC,1 - 0,Jerimiah Gerl,23087,Cerritos College,Colton Grossaint,19689,Boise State
+2015,11/23,Spokane Open,197,W,DEC,10 - 7,Justin Harbinson,23086,Providence,Colton Grossaint,19689,Boise State
+2015,11/23,Spokane Open,197,W,FALL,6:35,John Evans,23082,University of Idaho,Colton Grossaint,19689,Boise State
+2015,11/23,Spokane Open,197,W,DEC,3 - 2,Oscar Martinez,23085,Cerritos College,Colton Grossaint,19689,Boise State
+2015,11/23,Spokane Open,197,L,DEC,4 - 3,Tristian Baus,23084,Providence,Colton Grossaint,19689,Boise State
+2015,11/14,Utah Valley University - Boise State Dual,197,L,DEC,5 - 2,Derek Thomas,13020,Utah Valley,Colton Grossaint,19689,Boise State
+2015,12/21,Reno Tournament of Champions,197,L,FALL,6:22,Ian Baker,20332,Princeton,Harley DiLulo,19686,Boise State
+2015,12/21,Reno Tournament of Champions,197,L,MD,12 - 4,Marcus Haughian,22939,Grand Canyon,Harley DiLulo,19686,Boise State
+2015,12/06,Battle of the Rockies,197,L,DEC,4 - 1,Devan Fors,21114,Chadron State,Harley DiLulo,19686,Boise State
+2015,12/06,Battle of the Rockies,197,L,DEC,5 - 1,Garrett DeMers,23468,Montana State-Northern,Harley DiLulo,19686,Boise State
+2015,11/08,Cowboy Open,197,W,DEC,7 - 2,Cooper Cogdill,21499,Chadron State,Harley DiLulo,19686,Boise State
+2015,01/10,UVU Open,184,L,FALL,1:34,Will Sumner,20419,Utah Valley,Keavon Buckley,19684,Boise State
+2015,12/21,Reno Tournament of Champions,184,L,DEC,3 - 2,Scott VanDeLoo,23792,Southwest Minnesota State,Keavon Buckley,19684,Boise State
+2015,12/21,Reno Tournament of Champions,184,L,DEC,5 - 2,Zach Nevills,12328,Stanford,Keavon Buckley,19684,Boise State
+2015,11/23,Spokane Open,197,L,DEC,6 - 4,Trent Allen,23083,North Idaho College,Keavon Buckley,19684,Boise State
+2015,11/23,Spokane Open,197,L,DEC,6 - 5,Ciaran Ball,21890,Simon Fraser,Keavon Buckley,19684,Boise State
+2015,11/23,Spokane Open,197,W,FALL,0:41,John Evans,23082,University of Idaho,Keavon Buckley,19684,Boise State
+2015,11/08,Cowboy Open,197,W,DEC,5 - 3,Cooper Cogdill,21499,Chadron State,Keavon Buckley,19684,Boise State
+2015,11/08,Cowboy Open,197,W,FALL,1:29,Zach Thompson,21500,Chadron State,Keavon Buckley,19684,Boise State
+2015,02/05,Boise State vs Cal Poly -  Dual,184,L,MD,16 - 4,Nick Fiegener,19738,Cal Poly,Xavier Callejas,12333,Boise State
+2015,02/01,Stanford - Boise State Dual,184,L,DEC,8 - 4,Ryan Davies,12528,Stanford,Xavier Callejas,12333,Boise State
+2015,01/23,Arizona State - Boise State Dual,184,L,MD,13 - 3,Blake Stauffer,12447,Arizona State,Xavier Callejas,12333,Boise State
+2015,01/18,Boise State - North Dakota State Dual,184,L,FALL,1:25,Hayden Zillmer,12280,North Dakota State,Xavier Callejas,12333,Boise State
+2015,01/16,Boise State - South Dakota State Dual,184,L,DEC,3 - 2,Brady Ayers,12290,South Dakota State,Xavier Callejas,12333,Boise State
+2015,12/21,Reno Tournament of Champions,197,L,MFOR,0 - 0,Erick Parsons,23983,Menlo,Xavier Callejas,12333,Boise State
+2015,12/21,Reno Tournament of Champions,197,W,DEC,9 - 3,Chris Zimmer,23779,Minnesota State Mankato,Xavier Callejas,12333,Boise State
+2015,12/21,Reno Tournament of Champions,197,L,DEC,5 - 2,Josh DaSilveira,13017,Arizona State,Xavier Callejas,12333,Boise State
+2015,12/13,Oregon State - Boise State Dual,197,L,DEC,3 - 0,Cody Crawford,16468,Oregon State,Xavier Callejas,12333,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,197,L,DEC,2 - 1,Micah Barnes,16164,Nebraska,Xavier Callejas,12333,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,197,L,TF4,15 - 0 5:45,Josh Popple,19920,Harvard,Xavier Callejas,12333,Boise State
+2015,11/14,Iowa State @ Boise State,197,L,FALL,4:43,Kyven Gadson,13104,Iowa State,Xavier Callejas,12333,Boise State
+2015,03/01,Pac-12 Championships,285,L,DEC,2 - 1,Nate Keeve,13113,Oregon State,Gaylen Edmo,14369,Boise State
+2015,03/01,Pac-12 Championships,285,L,DEC,8 - 6,Nicolas Johnson,14060,Cal Poly,Gaylen Edmo,14369,Boise State
+2015,02/15,Boise State - Wyoming Dual,285,L,DEC,6 - 2,Leland Pfeifer,14398,Wyoming,Gaylen Edmo,14369,Boise State
+2015,02/08,Boise State - Oregon State Dual,285,L,TB-1,2 - 1,Nate Keeve,13113,Oregon State,Gaylen Edmo,14369,Boise State
+2015,02/06,CSU Bakersfield - Boise State Dual,285,W,DEC,6 - 2,Alex Encarnarcion-Strand,16466,CSU Bakersfield,Gaylen Edmo,14369,Boise State
+2015,02/05,Boise State vs Cal Poly -  Dual,285,L,DEC,4 - 2,Nicolas Johnson,14060,Cal Poly,Gaylen Edmo,14369,Boise State
+2015,02/01,Stanford - Boise State Dual,285,L,DEC,6 - 2,Josh Marchok,14339,Stanford,Gaylen Edmo,14369,Boise State
+2015,01/23,Arizona State - Boise State Dual,285,L,DEC,3 - 1,Chace Eskam,13040,Arizona State,Gaylen Edmo,14369,Boise State
+2015,01/10,UVU Open,285,L,DEC,5 - 2,Dustin Dennison,20409,Utah Valley,Gaylen Edmo,14369,Boise State
+2015,12/21,Reno Tournament of Champions,285,L,DEC,3 - 2,Steven Wood,17086,CSU Bakersfield,Gaylen Edmo,14369,Boise State
+2015,12/21,Reno Tournament of Champions,285,L,DEC,6 - 3,Leland Pfeifer,14398,Wyoming,Gaylen Edmo,14369,Boise State
+2015,12/06,Battle of the Rockies,285,L,DEC,3 - 0,Mitchell Eull,23470,Minot State,Gaylen Edmo,14369,Boise State
+2015,12/06,Battle of the Rockies,285,W,DEC,9 - 6,Austin Abbey,21508,Chadron State,Gaylen Edmo,14369,Boise State
+2015,12/06,Battle of the Rockies,285,L,DEC,8 - 4,Jaydn Wilson,23469,Providence,Gaylen Edmo,14369,Boise State
+2015,11/14,Iowa State @ Boise State,285,L,DEC,6 - 3,Quean Smith,14322,Iowa State,Gaylen Edmo,14369,Boise State
+2015,01/18,Boise State - North Dakota State Dual,285,L,DEC,4 - 0,Evan Knutson,14327,North Dakota State,Gabriel Gonzalez,19688,Boise State
+2015,01/16,Boise State - South Dakota State Dual,285,L,DEC,6 - 3,JJ Everard,14324,South Dakota State,Gabriel Gonzalez,19688,Boise State
+2015,01/09,Boise State - Northern Colorado Dual,285,L,FALL,3:28,Brian Macchione,13045,Northern Colorado,Gabriel Gonzalez,19688,Boise State
+2015,12/21,Reno Tournament of Champions,285,L,DEC,8 - 5,Steven Wood,17086,CSU Bakersfield,Gabriel Gonzalez,19688,Boise State
+2015,12/21,Reno Tournament of Champions,285,L,TB-2,4 - 4,Jordan Karst,17060,Utah Valley,Gabriel Gonzalez,19688,Boise State
+2015,12/21,Reno Tournament of Champions,285,W,DEC,5 - 2,Jordan Passehl,21912,Colorado Mesa,Gabriel Gonzalez,19688,Boise State
+2015,12/13,Oregon State - Boise State Dual,285,L,DEC,5 - 3,Nate Keeve,13113,Oregon State,Gabriel Gonzalez,19688,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,285,L,DEC,5 - 2,Ty Walz,14246,Virginia Tech,Gabriel Gonzalez,19688,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,285,W,FALL,7:00,Nate Zabbott,23899,Grand Canyon,Gabriel Gonzalez,19688,Boise State
+2015,12/05,Cliff Keen Las Vegas Invitational,285,L,SV-1,3 - 1,Marcus Malecek,14376,Air Force,Gabriel Gonzalez,19688,Boise State
+2015,11/23,Spokane Open,285,L,DEC,7 - 3,Jesse Gomez,23107,Cerritos College,Gabriel Gonzalez,19688,Boise State
+2015,11/23,Spokane Open,285,L,DEC,3 - 2,John Morin,21898,Clackamas Community College,Gabriel Gonzalez,19688,Boise State
+2015,11/23,Spokane Open,285,W,FALL,0:53,Alexis Garcia,23106,Providence,Gabriel Gonzalez,19688,Boise State
+2015,11/23,Spokane Open,285,W,FALL,1:27,Ryan Yewchin,23105,Simon Fraser,Gabriel Gonzalez,19688,Boise State
+2015,11/23,Spokane Open,285,W,FALL,3:57,Thomas Harvey,23104,Providence,Gabriel Gonzalez,19688,Boise State
+2015,11/23,Spokane Open,285,L,TB-1,4 - 2,Zack McCarley,23103,Central Washington University,Gabriel Gonzalez,19688,Boise State
+2015,11/14,Utah Valley University - Boise State Dual,285,L,DEC,7 - 1,Jordan Karst,17060,Utah Valley,Gabriel Gonzalez,19688,Boise State

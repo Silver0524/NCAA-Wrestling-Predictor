@@ -1,0 +1,608 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2023,03/16,NCAA Championships,125,L,FALL,0:29,Eric Barnett,56753,Wisconsin,Brandon Kaylor,51198,Oregon State
+2023,03/16,NCAA Championships,125,W,DEC,11 - 6,Jake Ferri,51179,Kent State,Brandon Kaylor,51198,Oregon State
+2023,03/16,NCAA Championships,125,L,DEC,3 - 1,Jack Wagner,44755,North Carolina,Brandon Kaylor,51198,Oregon State
+2023,03/05,PAC 12 Championships,125,W,DEC,6 - 5,Nico Provo,65883,Stanford,Brandon Kaylor,51198,Oregon State
+2023,03/05,PAC 12 Championships,125,W,TB-2,3 - 2,Brandon Courtney,50881,Arizona State,Brandon Kaylor,51198,Oregon State
+2023,02/26,Stanford - Oregon State Dual,125,W,DEC,3 - 2,Nico Provo,65883,Stanford,Brandon Kaylor,51198,Oregon State
+2023,02/19,Oregon State - Cal Poly Dual,125,W,DEC,11 - 4,Koda Holeman,73792,Cal Poly,Brandon Kaylor,51198,Oregon State
+2023,02/05,Arizona State - Oregon State Dual,125,L,DEC,10 - 5,Brandon Courtney,50881,Arizona State,Brandon Kaylor,51198,Oregon State
+2023,01/29,CSU Bakersfield - Oregon State Dual,125,W,DEC,3 - 2,Eddie Flores,51127,CSU Bakersfield,Brandon Kaylor,51198,Oregon State
+2023,01/15,Oregon State - Little Rock Dual,125,W,MD,21 - 12,Jeremiah Reno,62342,Little Rock,Brandon Kaylor,51198,Oregon State
+2023,01/13,Princeton - Oregon State Dual,125,L,DEC,7 - 2,Patrick Glory,51100,Princeton,Brandon Kaylor,51198,Oregon State
+2023,01/08,Oklahoma State - Oregon State Dual,125,L,DEC,3 - 2,Trevor Mastrogiovanni,57608,Oklahoma State,Brandon Kaylor,51198,Oregon State
+2023,12/20,Central Michigan - Oregon State Dual,125,W,FALL,5:34,Anthony Walker,79052,Central Michigan,Brandon Kaylor,51198,Oregon State
+2023,12/19,Oregon State - Cornell Dual,125,L,SV-1,3 - 1,Brett Ungar,68705,Cornell,Brandon Kaylor,51198,Oregon State
+2023,12/19,Oregon State - Iowa State Dual,125,W,DEC,5 - 2,Ethan Perryman,78477,Iowa State,Brandon Kaylor,51198,Oregon State
+2023,12/11,Oregon State - Penn State Dual,125,W,DEC,4 - 0,Gary Steen,68731,Penn State,Brandon Kaylor,51198,Oregon State
+2023,12/02,Cliff Keen Invitational,125,W,DEC,4 - 2,Kyle Gollhofer,57224,Northern Iowa,Brandon Kaylor,51198,Oregon State
+2023,12/02,Cliff Keen Invitational,125,W,DEC,3 - 1,Malik Heinselman,50611,Ohio State,Brandon Kaylor,51198,Oregon State
+2023,12/02,Cliff Keen Invitational,125,L,DEC,4 - 2,Liam Cronin,45061,Nebraska,Brandon Kaylor,51198,Oregon State
+2023,12/02,Cliff Keen Invitational,125,L,DEC,3 - 2,Matt Ramos,57134,Purdue,Brandon Kaylor,51198,Oregon State
+2023,12/02,Cliff Keen Invitational,125,W,SV-1,6 - 4,Eddie Ventresca,62357,Virginia Tech,Brandon Kaylor,51198,Oregon State
+2023,12/02,Cliff Keen Invitational,125,W,DEC,5 - 4,Joseph Fischer,68702,Clarion,Brandon Kaylor,51198,Oregon State
+2023,11/20,Roadrunner Open,125,W,TF5,20 - 5 7:00,Christian Vasquez,75001,Menlo,Brandon Kaylor,51198,Oregon State
+2023,11/20,Roadrunner Open,125,W,DEC,2 - 1,Dean Peterson,72936,Rutgers,Brandon Kaylor,51198,Oregon State
+2023,11/20,Roadrunner Open,125,W,SV-1,3 - 1,Dylan Shawver,61767,Rutgers,Brandon Kaylor,51198,Oregon State
+2023,11/20,Roadrunner Open,125,W,MFOR,0 - 0,Rhys Sellers,81264,New Mexico Highlands,Brandon Kaylor,51198,Oregon State
+2023,11/13,Linfield University - Oregon State Dual,125,W,FALL,2:42,Jacob Moore,81584,Linfield University,Brandon Kaylor,51198,Oregon State
+2023,11/06,Black Knight Scramble,125,W,DEC,10 - 5,Robbie Sagaris,73406,LIU,Brandon Kaylor,51198,Oregon State
+2023,11/06,Black Knight Scramble,125,L,SV-1,3 - 1,Ethan Berginc,71779,Army West Point,Brandon Kaylor,51198,Oregon State
+2023,11/05,Oregon State - Lehigh Dual,125,W,DEC,5 - 3,Carter Bailey,73039,Lehigh,Brandon Kaylor,51198,Oregon State
+2023,02/11,Wyoming - Oregon State Dual,125,L,MD,10 - 1,Jore Volk,72600,Wyoming,Caleb Coyle,69462,Oregon State
+2023,01/29,Clackamas Open,125,W,TF5,16 - 1 7:00,Thomas Turner,81803,Pacific,Caleb Coyle,69462,Oregon State
+2023,01/29,Clackamas Open,125,W,FALL,1:31,Jacob Moore,81584,Linfield University,Caleb Coyle,69462,Oregon State
+2023,01/29,Clackamas Open,125,W,DEC,10 - 7,Mikey Doerr,78671,Southwestern Oregon Community College,Caleb Coyle,69462,Oregon State
+2023,01/29,Clackamas Open,125,W,TF5,19 - 3 7:00,Adrian Guevara,77216,Eastern Oregon University,Caleb Coyle,69462,Oregon State
+2023,11/20,Roadrunner Open,125,W,DEC,6 - 2,Devin Garcia,69952,Cal Baptist,Caleb Coyle,69462,Oregon State
+2023,11/20,Roadrunner Open,125,L,SV-1,9 - 7,Richard Castro-Sandoval,69366,CSU Bakersfield,Caleb Coyle,69462,Oregon State
+2023,11/20,Roadrunner Open,125,L,DEC,3 - 2,Yusief Lillie,72995,Utah Valley,Caleb Coyle,69462,Oregon State
+2023,11/12,Bison Open,125,L,DEC,10 - 6,Ryan Henningson,67078,North Dakota State,Caleb Coyle,69462,Oregon State
+2023,11/12,Bison Open,125,L,FALL,3:30,Patrick McKee,50594,Minnesota,Caleb Coyle,69462,Oregon State
+2023,03/16,NCAA Championships,133,L,FALL,5:17,Jack Maida,72679,American,Jason Shaner Jr,56244,Oregon State
+2023,03/16,NCAA Championships,133,L,FALL,6:02,Kyle Biscoglia,51109,Northern Iowa,Jason Shaner Jr,56244,Oregon State
+2023,03/05,PAC 12 Championships,133,W,DEC,6 - 5,Chance Rich,50933,CSU Bakersfield,Jason Shaner Jr,56244,Oregon State
+2023,03/05,PAC 12 Championships,133,L,DEC,6 - 1,Michael McGee,49264,Arizona State,Jason Shaner Jr,56244,Oregon State
+2023,02/26,Stanford - Oregon State Dual,133,W,DEC,4 - 2,Jackson DiSario,57126,Stanford,Jason Shaner Jr,56244,Oregon State
+2023,02/19,Oregon State - Cal Poly Dual,133,L,DEC,6 - 1,Ethan Rotondo,51219,Cal Poly,Jason Shaner Jr,56244,Oregon State
+2023,02/11,Wyoming - Oregon State Dual,133,W,DEC,11 - 8,Garrett Ricks,67111,Wyoming,Jason Shaner Jr,56244,Oregon State
+2023,02/05,Arizona State - Oregon State Dual,133,L,TF5,17 - 2 6:31,Michael McGee,49264,Arizona State,Jason Shaner Jr,56244,Oregon State
+2023,01/15,Oregon State - Little Rock Dual,133,W,DEC,19 - 12,Joshua Sarpy,65932,Little Rock,Jason Shaner Jr,56244,Oregon State
+2023,01/13,Princeton - Oregon State Dual,133,W,DEC,14 - 7,Sean Pierson,60443,Princeton,Jason Shaner Jr,56244,Oregon State
+2023,01/08,Oklahoma State - Oregon State Dual,133,L,MD,12 - 4,Daton Fix,49263,Oklahoma State,Jason Shaner Jr,56244,Oregon State
+2023,12/20,Central Michigan - Oregon State Dual,133,W,DEC,8 - 3,Vince Perez,60001,Central Michigan,Jason Shaner Jr,56244,Oregon State
+2023,12/19,Oregon State - Cornell Dual,133,L,TF5,19 - 4 6:57,Vitali Arujau,49108,Cornell,Jason Shaner Jr,56244,Oregon State
+2023,12/19,Oregon State - Iowa State Dual,133,L,DEC,6 - 3,Ramazan Attasauov,58943,Iowa State,Jason Shaner Jr,56244,Oregon State
+2023,12/02,Cliff Keen Invitational,133,W,DEC,9 - 4,Kai Orine,56908,NC State,Jason Shaner Jr,56244,Oregon State
+2023,12/02,Cliff Keen Invitational,133,L,MFOR,0 - 0,Kyle Biscoglia,51109,Northern Iowa,Jason Shaner Jr,56244,Oregon State
+2023,12/02,Cliff Keen Invitational,133,W,DEC,3 - 1,Sam Latona,56742,Virginia Tech,Jason Shaner Jr,56244,Oregon State
+2023,12/02,Cliff Keen Invitational,133,L,DEC,5 - 2,Sam Latona,56742,Virginia Tech,Jason Shaner Jr,56244,Oregon State
+2023,12/02,Cliff Keen Invitational,133,W,SV-1,8 - 6,Chance Rich,50933,CSU Bakersfield,Jason Shaner Jr,56244,Oregon State
+2023,12/02,Cliff Keen Invitational,133,W,DEC,8 - 4,Cameron Soda,72219,Edinboro,Jason Shaner Jr,56244,Oregon State
+2023,12/02,Cliff Keen Invitational,133,W,DEC,17 - 10,Andrew Fallon,69899,Sacred Heart,Jason Shaner Jr,56244,Oregon State
+2023,12/02,Cliff Keen Invitational,133,W,DEC,13 - 6,Garrett Ricks,67111,Wyoming,Jason Shaner Jr,56244,Oregon State
+2023,11/20,Roadrunner Open,133,W,FALL,5:00,Yoshiya Funakoshi,79038,Cal Baptist,Jason Shaner Jr,56244,Oregon State
+2023,11/20,Roadrunner Open,133,W,DEC,3 - 2,Chance Rich,50933,CSU Bakersfield,Jason Shaner Jr,56244,Oregon State
+2023,11/20,Roadrunner Open,133,W,DEC,5 - 2,Kobe Nelms,63874,Utah Valley,Jason Shaner Jr,56244,Oregon State
+2023,11/20,Roadrunner Open,133,W,DEC,14 - 8,Devon Britton,61762,Rutgers,Jason Shaner Jr,56244,Oregon State
+2023,11/20,Roadrunner Open,133,L,DEC,2 - 0,Joe Heilmann,51223,Rutgers,Jason Shaner Jr,56244,Oregon State
+2023,11/13,Linfield University - Oregon State Dual,133,W,TF5,20 - 4 2:40,Joel Nelson,79019,Linfield University,Jason Shaner Jr,56244,Oregon State
+2023,11/06,Black Knight Scramble,133,W,MD,19 - 8,Kaelen Francois,73404,LIU,Jason Shaner Jr,56244,Oregon State
+2023,11/06,Black Knight Scramble,133,W,DEC,11 - 5,Ryan Franco,70909,Army West Point,Jason Shaner Jr,56244,Oregon State
+2023,11/06,Black Knight Scramble,133,L,FALL,7:00,Richard Treanor,68698,Army West Point,Jason Shaner Jr,56244,Oregon State
+2023,11/05,Oregon State - Lehigh Dual,133,L,DEC,9 - 2,Connor McGonagle,56713,Lehigh,Jason Shaner Jr,56244,Oregon State
+2023,01/29,CSU Bakersfield - Oregon State Dual,133,W,MD,12 - 4,Richard Castro-Sandoval,69366,CSU Bakersfield,Gabe Whisenhunt,67729,Oregon State
+2023,12/11,Oregon State - Penn State Dual,133,L,MD,17 - 8,Roman Bravo-Young,49665,Penn State,Gabe Whisenhunt,67729,Oregon State
+2023,11/20,Roadrunner Open,133,L,MFOR,0 - 0,Kaden Kuenzi,70294,Oregon State,Gabe Whisenhunt,67729,Oregon State
+2023,11/20,Roadrunner Open,133,W,DEC,7 - 1,Johnny Lopez,77399,Cal Poly,Gabe Whisenhunt,67729,Oregon State
+2023,11/20,Roadrunner Open,133,W,FALL,4:12,Damion Elliott,76356,Oregon State,Gabe Whisenhunt,67729,Oregon State
+2023,11/20,Roadrunner Open,133,W,MD,13 - 3,Ty Chandler,73187,Cal Poly,Gabe Whisenhunt,67729,Oregon State
+2023,11/20,Roadrunner Open,133,L,MD,10 - 2,Joe Heilmann,51223,Rutgers,Gabe Whisenhunt,67729,Oregon State
+2023,11/12,Cowboy Open,133,L,SV-1,3 - 1,Damion Elliott,76356,Oregon State,Gabe Whisenhunt,67729,Oregon State
+2023,11/12,Cowboy Open,133,W,FALL,2:47,John Braman,81876,Unattached,Gabe Whisenhunt,67729,Oregon State
+2023,11/12,Cowboy Open,133,L,DEC,8 - 3,Cody Phelps,77956,Western Wyoming College,Gabe Whisenhunt,67729,Oregon State
+2023,11/12,Cowboy Open,133,L,DEC,6 - 3,Aidan Noonan,70757,Wyoming,Gabe Whisenhunt,67729,Oregon State
+2023,11/12,Cowboy Open,133,W,DEC,7 - 4,Joe Fernau,79037,Air Force,Gabe Whisenhunt,67729,Oregon State
+2023,11/06,Black Knight Scramble,133,W,TF5,19 - 4 7:00,Kaelen Francois,73404,LIU,Gabe Whisenhunt,67729,Oregon State
+2023,11/06,Black Knight Scramble,133,W,DEC,4 - 3,Ryan Franco,70909,Army West Point,Gabe Whisenhunt,67729,Oregon State
+2023,11/06,Black Knight Scramble,133,W,DEC,9 - 3,Richard Treanor,68698,Army West Point,Gabe Whisenhunt,67729,Oregon State
+2023,02/19,Oregon State - Cal Poly Dual,141,L,MD,12 - 2,Lawrence Saenz,56597,Cal Poly,Damion Elliott,76356,Oregon State
+2023,01/29,Clackamas Open,133,W,FALL,1:27,Timothy Lopez,83357,Clackamas Community College,Damion Elliott,76356,Oregon State
+2023,01/29,Clackamas Open,133,W,MD,16 - 4,Kellen Hanson,78452,Linfield University,Damion Elliott,76356,Oregon State
+2023,01/29,Clackamas Open,133,W,FALL,2:47,Raul Ruiz,77226,Eastern Oregon University,Damion Elliott,76356,Oregon State
+2023,01/29,Clackamas Open,133,W,DEC,15 - 9,Nic Aguilar,51104,Beaver Dam RTC,Damion Elliott,76356,Oregon State
+2023,12/18,Reno TOC,133,W,TF5,18 - 3 6:13,Kyle Jeong,81158,San Francisco State,Damion Elliott,76356,Oregon State
+2023,12/18,Reno TOC,133,W,DEC,9 - 2,Aidan Noonan,70757,Wyoming,Damion Elliott,76356,Oregon State
+2023,12/18,Reno TOC,133,L,FALL,3:29,Henry Porter,71920,Indiana,Damion Elliott,76356,Oregon State
+2023,11/20,Roadrunner Open,133,L,SV-1,5 - 3,Kaden Kuenzi,70294,Oregon State,Damion Elliott,76356,Oregon State
+2023,11/20,Roadrunner Open,133,L,FALL,4:12,Gabe Whisenhunt,67729,Oregon State,Damion Elliott,76356,Oregon State
+2023,11/20,Roadrunner Open,133,W,SV-1,8 - 6,Hunter Leake,67190,Cal Baptist,Damion Elliott,76356,Oregon State
+2023,11/12,Cowboy Open,133,W,TF5,17 - 2 7:00,Colter Julian,71964,Chadron State,Damion Elliott,76356,Oregon State
+2023,11/12,Cowboy Open,133,W,DEC,4 - 1,Aidan Noonan,70757,Wyoming,Damion Elliott,76356,Oregon State
+2023,11/12,Cowboy Open,133,W,SV-1,3 - 1,Gabe Whisenhunt,67729,Oregon State,Damion Elliott,76356,Oregon State
+2023,11/12,Cowboy Open,133,L,DEC,9 - 4,Kyle Burwick,57385,Nebraska,Damion Elliott,76356,Oregon State
+2023,12/18,Reno TOC,133,L,MD,15 - 2,Reece Witcraft,57312,Oklahoma State,Kaden Kuenzi,70294,Oregon State
+2023,12/18,Reno TOC,133,L,MD,12 - 1,Yoshiya Funakoshi,79038,Cal Baptist,Kaden Kuenzi,70294,Oregon State
+2023,11/20,Roadrunner Open,133,W,SV-1,5 - 3,Damion Elliott,76356,Oregon State,Kaden Kuenzi,70294,Oregon State
+2023,11/20,Roadrunner Open,133,W,MFOR,0 - 0,Gabe Whisenhunt,67729,Oregon State,Kaden Kuenzi,70294,Oregon State
+2023,11/20,Roadrunner Open,133,W,MD,10 - 2,Antonio Saldate,57263,Cal Baptist,Kaden Kuenzi,70294,Oregon State
+2023,11/20,Roadrunner Open,133,W,DEC,6 - 0,Benjamin Martinez,56668,Cal Poly,Kaden Kuenzi,70294,Oregon State
+2023,11/20,Roadrunner Open,133,W,MFOR,0 - 0,Chance Rich,50933,CSU Bakersfield,Kaden Kuenzi,70294,Oregon State
+2023,11/20,Roadrunner Open,133,L,TF5,16 - 1 7:00,Joe Heilmann,51223,Rutgers,Kaden Kuenzi,70294,Oregon State
+2023,11/20,Roadrunner Open,133,W,DEC,11 - 4,Tony Margiotta,57016,San Francisco State,Kaden Kuenzi,70294,Oregon State
+2023,11/13,Clackamas Community College - Oregon State Dual,141,L,MD,18 - 4,Justin Mejia,49143,Clackamas Community College,Kaden Kuenzi,70294,Oregon State
+2023,11/13,Linfield University - Oregon State Dual,141,W,DEC,4 - 0,Jakob Jarvis,81585,Linfield University,Kaden Kuenzi,70294,Oregon State
+2023,11/06,Mountaineer Open,133,W,FALL,0:37,Dennak Towne,81103,Umpqua Community College,Kaden Kuenzi,70294,Oregon State
+2023,11/06,Mountaineer Open,133,L,INJ,1:13,David Campbell,81091,Warner Pacific,Kaden Kuenzi,70294,Oregon State
+2023,11/06,Mountaineer Open,133,L,MFOR,0 - 0,Garret Burns,81090,Southwestern Oregon Community College,Kaden Kuenzi,70294,Oregon State
+2023,11/06,Mountaineer Open,133,W,MD,13 - 3,Raul Ruiz,77226,Eastern Oregon University,Kaden Kuenzi,70294,Oregon State
+2023,11/06,Mountaineer Open,133,L,MFOR,0 - 0,Tanner Ulrey,64926,Umpqua Community College,Kaden Kuenzi,70294,Oregon State
+2023,01/29,Clackamas Open,133,L,MD,12 - 4,Timothy Lopez,83357,Clackamas Community College,Ricky Bell,67731,Oregon State
+2023,01/29,Clackamas Open,133,W,FALL,3:51,Jacob Navarro,77917,Southwestern Oregon Community College,Ricky Bell,67731,Oregon State
+2023,01/29,Clackamas Open,133,L,MFOR,0 - 0,Raul Ruiz,77226,Eastern Oregon University,Ricky Bell,67731,Oregon State
+2023,01/29,Clackamas Open,133,L,FALL,0:54,Nic Aguilar,51104,Beaver Dam RTC,Ricky Bell,67731,Oregon State
+2023,12/18,Reno TOC,133,L,DEC,5 - 2,Isaac Thornton,78984,Indiana,Ricky Bell,67731,Oregon State
+2023,12/18,Reno TOC,133,L,TF5,15 - 0 4:01,Rayvon Foley,50823,Michigan State,Ricky Bell,67731,Oregon State
+2023,11/20,Roadrunner Open,133,L,DEC,7 - 4,Allan Hendricks,80309,Embry-Riddle,Ricky Bell,67731,Oregon State
+2023,11/20,Roadrunner Open,133,L,TF5,16 - 0 7:00,Chance Rich,50933,CSU Bakersfield,Ricky Bell,67731,Oregon State
+2023,11/12,Cowboy Open,133,L,MD,10 - 2,Cody Phelps,77956,Western Wyoming College,Ricky Bell,67731,Oregon State
+2023,11/12,Cowboy Open,133,L,FALL,1:27,Kyle Burwick,57385,Nebraska,Ricky Bell,67731,Oregon State
+2023,03/16,NCAA Championships,141,L,DEC,5 - 2,Saul Ervin,57010,SIU Edwardsville,Cleveland Belton,57334,Oregon State
+2023,03/16,NCAA Championships,141,L,DEC,8 - 3,Parker Filius,49302,Purdue,Cleveland Belton,57334,Oregon State
+2023,03/05,PAC 12 Championships,141,W,SV-1,9 - 7,Jason Miranda,64654,Stanford,Cleveland Belton,57334,Oregon State
+2023,03/05,PAC 12 Championships,141,W,FALL,6:05,Emilio Ysaguirre,77145,Arizona State,Cleveland Belton,57334,Oregon State
+2023,02/26,Stanford - Oregon State Dual,141,W,DEC,7 - 5,Jason Miranda,64654,Stanford,Cleveland Belton,57334,Oregon State
+2023,02/11,Wyoming - Oregon State Dual,141,L,DEC,8 - 6,Job Greenwood,67455,Wyoming,Cleveland Belton,57334,Oregon State
+2023,02/05,Arizona State - Oregon State Dual,141,L,DEC,5 - 2,Jesse Vasquez,67152,Arizona State,Cleveland Belton,57334,Oregon State
+2023,01/29,CSU Bakersfield - Oregon State Dual,141,W,FALL,1:42,Jose Landin,69362,CSU Bakersfield,Cleveland Belton,57334,Oregon State
+2023,01/15,Oregon State - Little Rock Dual,141,W,TF5,16 - 1 5:09,Jayden Carson,62838,Little Rock,Cleveland Belton,57334,Oregon State
+2023,01/13,Princeton - Oregon State Dual,141,W,MD,11 - 2,Danny Coles,54117,Princeton,Cleveland Belton,57334,Oregon State
+2023,01/08,Oklahoma State - Oregon State Dual,141,L,DEC,6 - 2,Carter Young,71954,Oklahoma State,Cleveland Belton,57334,Oregon State
+2023,12/20,Central Michigan - Oregon State Dual,141,W,FALL,0:41,Jimmy Nugent,79053,Central Michigan,Cleveland Belton,57334,Oregon State
+2023,12/19,Oregon State - Cornell Dual,141,L,DEC,4 - 2,Vince Cornella,71813,Cornell,Cleveland Belton,57334,Oregon State
+2023,12/19,Oregon State - Iowa State Dual,141,L,DEC,6 - 5,Zach Redding,62726,Iowa State,Cleveland Belton,57334,Oregon State
+2023,12/11,Oregon State - Penn State Dual,141,L,DEC,5 - 3,Beau Bartlett,62221,Penn State,Cleveland Belton,57334,Oregon State
+2023,12/02,Cliff Keen Invitational,141,L,DEC,15 - 14,Joshua Koderhandt,70917,Navy,Cleveland Belton,57334,Oregon State
+2023,12/02,Cliff Keen Invitational,141,L,DEC,6 - 1,Ryan Jack,61122,NC State,Cleveland Belton,57334,Oregon State
+2023,12/02,Cliff Keen Invitational,141,W,DEC,3 - 2,Parker Filius,49302,Purdue,Cleveland Belton,57334,Oregon State
+2023,12/02,Cliff Keen Invitational,141,W,FALL,3:39,Nick James,62636,Nebraska-Kearney,Cleveland Belton,57334,Oregon State
+2023,11/20,Roadrunner Open,141,W,MD,10 - 1,Isaac Salas,72230,CSU Bakersfield,Cleveland Belton,57334,Oregon State
+2023,11/20,Roadrunner Open,141,W,MD,20 - 6,Jose Landin,69362,CSU Bakersfield,Cleveland Belton,57334,Oregon State
+2023,11/20,Roadrunner Open,141,W,DEC,10 - 5,Nicholas Camacho,66011,Menlo,Cleveland Belton,57334,Oregon State
+2023,11/20,Roadrunner Open,141,W,FALL,1:04,Christian Nunez,63215,Cal Baptist,Cleveland Belton,57334,Oregon State
+2023,11/20,Roadrunner Open,141,W,DEC,4 - 2,Angelo Martinoni,57199,CSU Bakersfield,Cleveland Belton,57334,Oregon State
+2023,11/06,Black Knight Scramble,141,W,TF5,20 - 5 7:00,Melvin Rubio,52204,Queens,Cleveland Belton,57334,Oregon State
+2023,11/06,Black Knight Scramble,141,W,TF5,22 - 7 7:00,Devin Matthews,70150,LIU,Cleveland Belton,57334,Oregon State
+2023,11/06,Black Knight Scramble,141,W,DEC,8 - 6,Julian Sanchez,57318,Army West Point,Cleveland Belton,57334,Oregon State
+2023,11/05,Oregon State - Lehigh Dual,141,W,SV-1,8 - 6,Malyke Hines,56932,Lehigh,Cleveland Belton,57334,Oregon State
+2023,01/29,Clackamas Open,141,W,FALL,0:29,Cutter Tanaka,82209,Eastern Oregon University,Nash Singleton,73038,Oregon State
+2023,01/29,Clackamas Open,141,W,FALL,0:51,Jakob Jarvis,81585,Linfield University,Nash Singleton,73038,Oregon State
+2023,01/29,Clackamas Open,141,W,DEC,3 - 1,Chase DeBlaere,72993,Oregon State,Nash Singleton,73038,Oregon State
+2023,01/29,Clackamas Open,141,W,MD,12 - 1,Randy MacDonald,52872,Simon Fraser,Nash Singleton,73038,Oregon State
+2023,12/18,Reno TOC,141,W,DEC,5 - 1,Louie Ramos,73173,CSU Bakersfield,Nash Singleton,73038,Oregon State
+2023,12/18,Reno TOC,141,W,FALL,1:56,Jose Landin,69362,CSU Bakersfield,Nash Singleton,73038,Oregon State
+2023,12/18,Reno TOC,141,L,DEC,5 - 1,Darren Green,62886,Wyoming,Nash Singleton,73038,Oregon State
+2023,11/20,Roadrunner Open,141,W,FALL,6:35,Ashton Stanley,82752,Menlo,Nash Singleton,73038,Oregon State
+2023,11/20,Roadrunner Open,141,W,DEC,4 - 2,Edison Alanis,62923,Cal Baptist,Nash Singleton,73038,Oregon State
+2023,11/20,Roadrunner Open,141,L,TF5,16 - 0 7:00,Angelo Martinoni,57199,CSU Bakersfield,Nash Singleton,73038,Oregon State
+2023,11/20,Roadrunner Open,141,L,DEC,11 - 4,Kainalu Estrella,57058,Utah Valley,Nash Singleton,73038,Oregon State
+2023,11/20,Roadrunner Open,141,W,DEC,7 - 1,Joseph Fongaro,73552,Rutgers,Nash Singleton,73038,Oregon State
+2023,11/20,Roadrunner Open,141,W,FALL,1:51,Andre Dargani,79188,San Francisco State,Nash Singleton,73038,Oregon State
+2023,11/12,Cowboy Open,141,L,DEC,11 - 5,Jakob Romero,75096,High School,Nash Singleton,73038,Oregon State
+2023,11/12,Cowboy Open,141,W,FALL,3:43,Skyler Geier-Dodson,72646,Chadron State,Nash Singleton,73038,Oregon State
+2023,11/12,Cowboy Open,141,L,DEC,5 - 2,Kainalu Estrella,57058,Utah Valley,Nash Singleton,73038,Oregon State
+2023,01/29,Clackamas Open,141,L,DEC,3 - 1,Nash Singleton,73038,Oregon State,Chase DeBlaere,72993,Oregon State
+2023,01/29,Clackamas Open,141,W,SV-1,7 - 5,Justin Rodriguez,83714,Clackamas Community College,Chase DeBlaere,72993,Oregon State
+2023,01/29,Clackamas Open,141,W,FALL,3:11,Cole Cross,78884,Eastern Oregon University,Chase DeBlaere,72993,Oregon State
+2023,01/29,Clackamas Open,141,W,FALL,1:07,Derek Ramos,76826,Southern Oregon,Chase DeBlaere,72993,Oregon State
+2023,11/20,Roadrunner Open,141,L,DEC,3 - 2,Nathan Aguilar,77905,Oregon State,Chase DeBlaere,72993,Oregon State
+2023,11/20,Roadrunner Open,141,W,DEC,5 - 1,Jose Landin,69362,CSU Bakersfield,Chase DeBlaere,72993,Oregon State
+2023,11/20,Roadrunner Open,141,W,FALL,3:11,Tyler Deen,57770,CSU Bakersfield,Chase DeBlaere,72993,Oregon State
+2023,11/20,Roadrunner Open,141,L,DEC,9 - 3,Kainalu Estrella,57058,Utah Valley,Chase DeBlaere,72993,Oregon State
+2023,11/12,Bison Open,141,L,FALL,6:31,Walker Bents,73549,North Dakota State,Chase DeBlaere,72993,Oregon State
+2023,11/12,Bison Open,141,L,DEC,5 - 2,Gavin Drexler,73017,North Dakota State,Chase DeBlaere,72993,Oregon State
+2023,11/06,Mountaineer Open,141,W,MD,15 - 2,Lance Stover,81102,Corban University,Chase DeBlaere,72993,Oregon State
+2023,11/06,Mountaineer Open,141,W,FALL,0:34,Bo Davis,81093,Grays Harbor,Chase DeBlaere,72993,Oregon State
+2023,11/06,Mountaineer Open,141,W,TF5,16 - 0 7:00,Tucker Bonner,78886,Eastern Oregon University,Chase DeBlaere,72993,Oregon State
+2023,11/06,Mountaineer Open,141,W,DEC,6 - 3,Braden Carson,78885,Eastern Oregon University,Chase DeBlaere,72993,Oregon State
+2023,01/29,Clackamas Open,141,L,MFOR,0 - 0,Justin Rodriguez,83714,Clackamas Community College,Nathan Aguilar,77905,Oregon State
+2023,01/29,Clackamas Open,141,W,FALL,1:01,Brody Piercy,82200,Corban University,Nathan Aguilar,77905,Oregon State
+2023,01/29,Clackamas Open,141,L,DEC,8 - 2,Derek Ramos,76826,Southern Oregon,Nathan Aguilar,77905,Oregon State
+2023,12/18,Reno TOC,141,L,MD,12 - 1,Darren Green,62886,Wyoming,Nathan Aguilar,77905,Oregon State
+2023,12/18,Reno TOC,141,W,DEC,6 - 4,Christian Nunez,63215,Cal Baptist,Nathan Aguilar,77905,Oregon State
+2023,11/20,Roadrunner Open,141,W,DEC,3 - 2,Chase DeBlaere,72993,Oregon State,Nathan Aguilar,77905,Oregon State
+2023,11/20,Roadrunner Open,141,W,DEC,4 - 1,Jacob Peralta,62860,CSU Bakersfield,Nathan Aguilar,77905,Oregon State
+2023,11/20,Roadrunner Open,141,L,MD,9 - 1,Angelo Martinoni,57199,CSU Bakersfield,Nathan Aguilar,77905,Oregon State
+2023,11/20,Roadrunner Open,141,L,DEC,3 - 2,Joseph Fongaro,73552,Rutgers,Nathan Aguilar,77905,Oregon State
+2023,11/12,Cowboy Open,141,L,SV-1,5 - 1,Ramon Salazar,81874,Unattached,Nathan Aguilar,77905,Oregon State
+2023,11/12,Cowboy Open,141,L,DEC,4 - 3,Bryce Shelton,75097,Air Force,Nathan Aguilar,77905,Oregon State
+2023,11/12,Cowboy Open,141,W,DEC,8 - 3,Ryker Johnecheck,73388,Air Force,Nathan Aguilar,77905,Oregon State
+2023,01/29,Clackamas Open,141,W,DEC,4 - 3,Jakob Jarvis,81585,Linfield University,Krayle Stormer,77904,Oregon State
+2023,01/29,Clackamas Open,141,W,FALL,5:13,Dylan Dahling,81092,Umpqua Community College,Krayle Stormer,77904,Oregon State
+2023,01/29,Clackamas Open,141,L,DEC,7 - 6,Cole Cross,78884,Eastern Oregon University,Krayle Stormer,77904,Oregon State
+2023,01/29,Clackamas Open,141,L,DEC,5 - 2,Derek Ramos,76826,Southern Oregon,Krayle Stormer,77904,Oregon State
+2023,01/29,Clackamas Open,141,W,DEC,7 - 3,Travis Sherman,70296,Eastern Oregon University,Krayle Stormer,77904,Oregon State
+2023,01/29,Clackamas Open,141,L,DEC,13 - 6,Travis Sherman,70296,Eastern Oregon University,Krayle Stormer,77904,Oregon State
+2023,12/18,Reno TOC,141,L,FALL,2:08,Andrew Bloemhof,62861,Oklahoma State,Krayle Stormer,77904,Oregon State
+2023,11/20,Roadrunner Open,141,L,DEC,6 - 2,Isaac Salas,72230,CSU Bakersfield,Krayle Stormer,77904,Oregon State
+2023,11/20,Roadrunner Open,141,L,DEC,6 - 4,Edison Alanis,62923,Cal Baptist,Krayle Stormer,77904,Oregon State
+2023,11/13,Mike Clock Open,141,L,FALL,0:26,Jeremy Roberts,82205,Grays Harbor,Krayle Stormer,77904,Oregon State
+2023,11/13,Mike Clock Open,141,L,FALL,2:58,Tony Cisneros,82178,Southwestern Oregon Community College,Krayle Stormer,77904,Oregon State
+2023,11/06,Mountaineer Open,141,W,DEC,9 - 6,Dylan Dahling,81092,Umpqua Community College,Krayle Stormer,77904,Oregon State
+2023,11/06,Mountaineer Open,141,L,DEC,3 - 2,Gonzalo Aleman,81088,Washington State University,Krayle Stormer,77904,Oregon State
+2023,11/06,Mountaineer Open,141,L,DEC,6 - 3,Tucker Bonner,78886,Eastern Oregon University,Krayle Stormer,77904,Oregon State
+2023,03/05,PAC 12 Championships,149,L,DEC,7 - 3,Joseph Bianchi,62836,Little Rock,Riley Gurr,56785,Oregon State
+2023,03/05,PAC 12 Championships,149,L,DEC,6 - 3,Josh Brown,62862,CSU Bakersfield,Riley Gurr,56785,Oregon State
+2023,03/05,PAC 12 Championships,149,L,DEC,5 - 3,Dominick Demas,49256,Cal Poly,Riley Gurr,56785,Oregon State
+2023,02/26,Stanford - Oregon State Dual,149,W,MD,10 - 2,Luciano Arroyo,57707,Stanford,Riley Gurr,56785,Oregon State
+2023,02/19,Oregon State - Cal Poly Dual,149,L,DEC,3 - 2,Dominick Demas,49256,Cal Poly,Riley Gurr,56785,Oregon State
+2023,02/11,Wyoming - Oregon State Dual,149,W,DEC,9 - 4,Chase Zollmann,50917,Wyoming,Riley Gurr,56785,Oregon State
+2023,02/05,Arizona State - Oregon State Dual,149,L,DEC,7 - 5,Kyle Parco,58562,Arizona State,Riley Gurr,56785,Oregon State
+2023,01/29,CSU Bakersfield - Oregon State Dual,149,L,MD,16 - 7,Josh Brown,62862,CSU Bakersfield,Riley Gurr,56785,Oregon State
+2023,01/15,Oregon State - Little Rock Dual,149,L,DEC,10 - 4,Joseph Bianchi,62836,Little Rock,Riley Gurr,56785,Oregon State
+2023,01/13,Princeton - Oregon State Dual,149,W,DEC,7 - 3,Rocco Camillaci,73321,Princeton,Riley Gurr,56785,Oregon State
+2023,01/08,Oklahoma State - Oregon State Dual,149,L,MD,10 - 2,Victor Voinovich,67220,Oklahoma State,Riley Gurr,56785,Oregon State
+2023,12/20,Central Michigan - Oregon State Dual,149,W,DEC,9 - 4,Mason Shrader,73720,Central Michigan,Riley Gurr,56785,Oregon State
+2023,12/19,Oregon State - Cornell Dual,149,L,FALL,5:54,Yianni Diakomihalis,49110,Cornell,Riley Gurr,56785,Oregon State
+2023,12/19,Oregon State - Iowa State Dual,149,L,MD,14 - 5,Paniro Johnson,68708,Iowa State,Riley Gurr,56785,Oregon State
+2023,11/20,Roadrunner Open,149,W,DEC,8 - 1,Jonah Chew,77695,Embry-Riddle,Riley Gurr,56785,Oregon State
+2023,11/20,Roadrunner Open,149,W,MD,14 - 3,Johnathan Viveros,72229,CSU Bakersfield,Riley Gurr,56785,Oregon State
+2023,11/20,Roadrunner Open,149,W,TF5,21 - 3 7:00,Thomas Chapman,61260,Menlo,Riley Gurr,56785,Oregon State
+2023,11/20,Roadrunner Open,149,L,DEC,8 - 7,Anthony White,70924,Rutgers,Riley Gurr,56785,Oregon State
+2023,11/06,Mountaineer Open,149,W,TF5,16 - 0 7:00,Mark Martinez,81099,Big Bend Community College,Riley Gurr,56785,Oregon State
+2023,11/06,Mountaineer Open,149,W,FALL,2:47,Wylder Kraght,81097,Corban University,Riley Gurr,56785,Oregon State
+2023,11/06,Mountaineer Open,149,W,FALL,0:34,Travis Sherman,70296,Eastern Oregon University,Riley Gurr,56785,Oregon State
+2023,11/06,Mountaineer Open,149,W,TF5,17 - 0 7:00,Michael Murphy,57316,Corban University,Riley Gurr,56785,Oregon State
+2023,01/29,Clackamas Open,149,W,DEC,9 - 3,Peyton Hughes,83715,Clackamas Community College,Noah Tolentino,74563,Oregon State
+2023,01/29,Clackamas Open,149,W,FALL,5:57,Dante Oliverio,82056,Clackamas Community College,Noah Tolentino,74563,Oregon State
+2023,01/29,Clackamas Open,149,W,DEC,5 - 4,Ayden Garver,78488,Oregon State,Noah Tolentino,74563,Oregon State
+2023,01/29,Clackamas Open,149,W,DEC,6 - 2,Hunter Eveland,72990,Oregon State,Noah Tolentino,74563,Oregon State
+2023,12/11,Oregon State - Penn State Dual,149,L,DEC,6 - 1,Shayne Van Ness,71588,Penn State,Noah Tolentino,74563,Oregon State
+2023,12/02,Cliff Keen Invitational,149,W,TF5,15 - 0 5:04,Colton Erickson,78674,Western Wyoming College,Noah Tolentino,74563,Oregon State
+2023,12/02,Cliff Keen Invitational,149,W,DEC,8 - 2,Dayne Morton,56980,Nebraska,Noah Tolentino,74563,Oregon State
+2023,12/02,Cliff Keen Invitational,149,L,FALL,5:58,Sammy Sasso,51143,Ohio State,Noah Tolentino,74563,Oregon State
+2023,12/02,Cliff Keen Invitational,149,L,MD,10 - 2,Kody Komara,50094,Kent State,Noah Tolentino,74563,Oregon State
+2023,11/20,Roadrunner Open,149,W,TF5,17 - 1 7:00,Zahi Davis,82737,Cal Baptist,Noah Tolentino,74563,Oregon State
+2023,11/20,Roadrunner Open,149,W,FALL,4:38,Koa Ruiz,78502,Cal Baptist,Noah Tolentino,74563,Oregon State
+2023,11/20,Roadrunner Open,149,W,DEC,5 - 3,Johnathan Viveros,72229,CSU Bakersfield,Noah Tolentino,74563,Oregon State
+2023,11/20,Roadrunner Open,149,L,FALL,2:27,Chaz Hallmark,62925,Cal Baptist,Noah Tolentino,74563,Oregon State
+2023,11/20,Roadrunner Open,149,W,TF5,20 - 2 7:00,Thomas Chapman,61260,Menlo,Noah Tolentino,74563,Oregon State
+2023,11/20,Roadrunner Open,149,L,DEC,7 - 0,Isaiah Delgado,57056,Utah Valley,Noah Tolentino,74563,Oregon State
+2023,11/06,Black Knight Scramble,149,W,INJ,7:00,Thomas Deck,69378,Army West Point,Noah Tolentino,74563,Oregon State
+2023,11/06,Black Knight Scramble,149,W,DEC,3 - 2,Matthew Williams,69376,Army West Point,Noah Tolentino,74563,Oregon State
+2023,11/06,Black Knight Scramble,149,L,DEC,6 - 4,Logan Brown,53821,Army West Point,Noah Tolentino,74563,Oregon State
+2023,11/05,Oregon State - Lehigh Dual,149,L,DEC,9 - 5,Max Brignola,73041,Lehigh,Noah Tolentino,74563,Oregon State
+2023,01/29,Clackamas Open,149,L,DEC,6 - 2,Noah Tolentino,74563,Oregon State,Hunter Eveland,72990,Oregon State
+2023,01/29,Clackamas Open,149,W,MD,15 - 2,Ryder Fassett,83866,Southwestern Oregon Community College,Hunter Eveland,72990,Oregon State
+2023,01/29,Clackamas Open,149,W,SV-1,4 - 2,Peyton Hughes,83715,Clackamas Community College,Hunter Eveland,72990,Oregon State
+2023,01/29,Clackamas Open,149,W,FALL,1:22,Dylan Bonfield,83364,Clackamas Community College,Hunter Eveland,72990,Oregon State
+2023,01/29,Clackamas Open,149,W,FALL,1:37,Dante Oliverio,82056,Clackamas Community College,Hunter Eveland,72990,Oregon State
+2023,12/18,Reno TOC,149,L,MD,13 - 3,Zahi Davis,82737,Cal Baptist,Hunter Eveland,72990,Oregon State
+2023,11/20,Roadrunner Open,149,L,MFOR,0 - 0,Adam Jacob,67022,Cal Poly,Hunter Eveland,72990,Oregon State
+2023,11/13,Clackamas Community College - Oregon State Dual,149,W,DEC,6 - 3,Dante Oliverio,82056,Clackamas Community College,Hunter Eveland,72990,Oregon State
+2023,11/13,Linfield University - Oregon State Dual,149,W,DEC,3 - 2,Micah Worthington,71950,Linfield University,Hunter Eveland,72990,Oregon State
+2023,01/29,Clackamas Open,149,L,DEC,5 - 4,Noah Tolentino,74563,Oregon State,Ayden Garver,78488,Oregon State
+2023,01/29,Clackamas Open,149,W,FALL,1:29,Nolan Randles,77245,Southern Oregon,Ayden Garver,78488,Oregon State
+2023,01/29,Clackamas Open,149,W,FALL,2:55,Ryan Hicks,70325,Simon Fraser,Ayden Garver,78488,Oregon State
+2023,03/05,PAC 12 Championships,157,W,MD,16 - 7,Matt Bianchi,72120,Little Rock,Isaiah Crosby,65258,Oregon State
+2023,03/05,PAC 12 Championships,157,W,MD,15 - 3,Brock Rogers,62863,CSU Bakersfield,Isaiah Crosby,65258,Oregon State
+2023,03/05,PAC 12 Championships,157,L,DEC,6 - 0,Luka Wick,71782,Cal Poly,Isaiah Crosby,65258,Oregon State
+2023,03/05,PAC 12 Championships,157,W,DEC,8 - 2,Maxwell Wilner,63168,Arizona State,Isaiah Crosby,65258,Oregon State
+2023,02/26,Stanford - Oregon State Dual,157,L,DEC,17 - 13,Daniel Cardenas,72978,Stanford,Isaiah Crosby,65258,Oregon State
+2023,02/19,Oregon State - Cal Poly Dual,157,L,DEC,3 - 0,Luka Wick,71782,Cal Poly,Isaiah Crosby,65258,Oregon State
+2023,02/11,Wyoming - Oregon State Dual,157,L,DEC,6 - 4,Jacob Wright,49463,Wyoming,Isaiah Crosby,65258,Oregon State
+2023,02/05,Arizona State - Oregon State Dual,157,W,DEC,10 - 6,Maxwell Wilner,63168,Arizona State,Isaiah Crosby,65258,Oregon State
+2023,01/29,CSU Bakersfield - Oregon State Dual,157,W,FALL,0:29,Brock Rogers,62863,CSU Bakersfield,Isaiah Crosby,65258,Oregon State
+2023,01/15,Oregon State - Little Rock Dual,157,W,DEC,8 - 5,Matt Bianchi,72120,Little Rock,Isaiah Crosby,65258,Oregon State
+2023,01/13,Princeton - Oregon State Dual,157,W,DEC,13 - 6,Ty Whalen,72988,Princeton,Isaiah Crosby,65258,Oregon State
+2023,01/08,Oklahoma State - Oregon State Dual,157,L,DEC,10 - 9,Kaden Gfeller,49261,Oklahoma State,Isaiah Crosby,65258,Oregon State
+2023,12/19,Oregon State - Cornell Dual,157,W,DEC,9 - 2,Colton Yapoujian,56705,Cornell,Isaiah Crosby,65258,Oregon State
+2023,12/19,Oregon State - Iowa State Dual,157,L,DEC,10 - 8,Jason Kraisser,57287,Iowa State,Isaiah Crosby,65258,Oregon State
+2023,12/11,Oregon State - Penn State Dual,157,L,DEC,8 - 4,Terrell Barraclough,62900,Penn State,Isaiah Crosby,65258,Oregon State
+2023,11/05,Oregon State - Lehigh Dual,157,L,TF5,18 - 3 6:32,Josh Humphreys,55860,Lehigh,Isaiah Crosby,65258,Oregon State
+2023,01/29,Clackamas Open,157,W,FALL,2:52,K'den McMullin,77734,Pacific,Graham Gambrall,70752,Oregon State
+2023,01/29,Clackamas Open,157,W,DEC,10 - 4,Jacob Kessinger,77731,Clackamas Community College,Graham Gambrall,70752,Oregon State
+2023,01/29,Clackamas Open,157,W,DEC,2 - 1,Victor Jacinto,72228,Clackamas Community College,Graham Gambrall,70752,Oregon State
+2023,01/29,Clackamas Open,157,W,DEC,7 - 5,Magnus McCrackin,70327,Simon Fraser,Graham Gambrall,70752,Oregon State
+2023,12/20,Central Michigan - Oregon State Dual,157,L,MD,10 - 1,Corbyn Munson,51197,Central Michigan,Graham Gambrall,70752,Oregon State
+2023,12/19,Collegiate Duals ECM,157,L,DEC,5 - 2,Isaac Judge,51071,Iowa State,Graham Gambrall,70752,Oregon State
+2023,12/11,Penn State Oregon State ECM,157,W,DEC,4 - 3,Aurelius Dunbar,62422,Penn State,Graham Gambrall,70752,Oregon State
+2023,12/02,Cliff Keen Invitational,157,L,DEC,10 - 5,Kendall Coleman,50626,Purdue,Graham Gambrall,70752,Oregon State
+2023,12/02,Cliff Keen Invitational,157,L,FALL,3:12,Selwyn Porter,57380,The Citadel,Graham Gambrall,70752,Oregon State
+2023,12/02,Cliff Keen Invitational,157,W,MD,15 - 5,Eric Shindel,73026,Hofstra,Graham Gambrall,70752,Oregon State
+2023,11/20,Roadrunner Open,157,W,DEC,7 - 2,Nicholas Martino,82750,Unattached,Graham Gambrall,70752,Oregon State
+2023,11/20,Roadrunner Open,157,W,MD,15 - 4,Kydyn Lima,79191,San Francisco State,Graham Gambrall,70752,Oregon State
+2023,11/20,Roadrunner Open,157,L,SV-1,3 - 1,Al De Santis,67002,Rutgers,Graham Gambrall,70752,Oregon State
+2023,11/20,Roadrunner Open,157,L,DEC,5 - 4,Andrew Clark,66883,Rutgers,Graham Gambrall,70752,Oregon State
+2023,11/20,Roadrunner Open,157,W,MFOR,0 - 0,Evan Killgore,63577,New Mexico Highlands,Graham Gambrall,70752,Oregon State
+2023,11/13,Linfield University - Oregon State Dual,157,W,FALL,4:18,Josh Cox,81586,Linfield University,Graham Gambrall,70752,Oregon State
+2023,11/06,Black Knight Scramble,157,L,MD,10 - 0,Trae McDaniel,71768,Army West Point,Graham Gambrall,70752,Oregon State
+2023,11/06,Black Knight Scramble,157,L,MD,12 - 4,Nathan Lukez,69377,Army West Point,Graham Gambrall,70752,Oregon State
+2023,11/06,Black Knight Scramble,157,L,DEC,7 - 5,Tanner Craig,59533,Army West Point,Graham Gambrall,70752,Oregon State
+2023,11/12,Cowboy Open,157,L,MD,14 - 2,Cameron Lucero,63642,Northern Colorado,Austin Scott,76361,Oregon State
+2023,11/12,Cowboy Open,157,L,DEC,7 - 0,Nathan Moore,56919,Northern Colorado,Austin Scott,76361,Oregon State
+2023,11/12,Cowboy Open,157,W,DEC,6 - 2,Reagan LeFevre,72650,Air Force,Austin Scott,76361,Oregon State
+2023,11/12,Cowboy Open,157,W,DEC,3 - 1,Reagan LeFevre,72650,Air Force,Austin Scott,76361,Oregon State
+2023,11/12,Cowboy Open,157,W,DEC,8 - 6,Robert Woodcock,65764,Air Force,Austin Scott,76361,Oregon State
+2023,11/12,Cowboy Open,157,W,DEC,7 - 4,Gabriel Hawthorne,62597,Air Force,Austin Scott,76361,Oregon State
+2023,11/06,Mountaineer Open,157,L,FALL,4:28,Cael Brunson,64966,Oregon State,Austin Scott,76361,Oregon State
+2023,11/06,Mountaineer Open,157,W,FALL,0:54,Samuel Balderston,81089,Umpqua Community College,Austin Scott,76361,Oregon State
+2023,11/06,Mountaineer Open,157,W,FALL,6:10,Austin Dalton,78881,Eastern Oregon University,Austin Scott,76361,Oregon State
+2023,11/06,Mountaineer Open,157,W,FALL,4:22,James Cox,77724,Washington State University,Austin Scott,76361,Oregon State
+2023,12/18,Reno TOC,157,L,DEC,6 - 3,Sonny Santiago,61113,North Carolina,Murphy Menke,79262,Oregon State
+2023,12/18,Reno TOC,157,L,DEC,5 - 2,Cooper Voorhees,67459,Wyoming,Murphy Menke,79262,Oregon State
+2023,01/29,Clackamas Open,157,W,TF5,16 - 0 7:00,Taro Harmon,82746,Unattached,"Brunson, Cael",64966,Oregon State
+2023,01/29,Clackamas Open,157,L,FALL,5:33,Hunter Harwood,82183,Southern Oregon,"Brunson, Cael",64966,Oregon State
+2023,01/29,Clackamas Open,157,W,FALL,2:27,K'den McMullin,77734,Pacific,"Brunson, Cael",64966,Oregon State
+2023,01/29,Clackamas Open,157,W,DEC,4 - 2,Magnus McCrackin,70327,Simon Fraser,"Brunson, Cael",64966,Oregon State
+2023,01/29,Clackamas Open,157,W,MD,8 - 0,Elijah Lazar,70324,Simon Fraser,"Brunson, Cael",64966,Oregon State
+2023,12/18,Reno TOC,157,L,MD,10 - 2,Devyn Flores-Che,79002,CSU Bakersfield,"Brunson, Cael",64966,Oregon State
+2023,12/18,Reno TOC,157,L,DEC,6 - 1,Charlie Darracott,62985,Stanford,"Brunson, Cael",64966,Oregon State
+2023,11/20,Roadrunner Open,157,W,FALL,2:18,Matthew Buck,82742,Cal Baptist,"Brunson, Cael",64966,Oregon State
+2023,11/20,Roadrunner Open,157,W,SV-1,4 - 2,Richard Gurule,74482,Menlo,"Brunson, Cael",64966,Oregon State
+2023,11/20,Roadrunner Open,157,L,FALL,3:46,Al De Santis,67002,Rutgers,"Brunson, Cael",64966,Oregon State
+2023,11/20,Roadrunner Open,157,L,MD,10 - 0,Andrew Clark,66883,Rutgers,"Brunson, Cael",64966,Oregon State
+2023,11/06,Mountaineer Open,157,W,FALL,1:08,Gabriel Westergard,81104,Washington State University,"Brunson, Cael",64966,Oregon State
+2023,11/06,Mountaineer Open,157,W,FALL,4:13,Ki Murdock,81100,Big Bend Community College,"Brunson, Cael",64966,Oregon State
+2023,11/06,Mountaineer Open,157,W,DEC,9 - 2,Michael Fox,78880,Eastern Oregon University,"Brunson, Cael",64966,Oregon State
+2023,11/06,Mountaineer Open,157,W,FALL,4:28,Austin Scott,76361,Oregon State,"Brunson, Cael",64966,Oregon State
+2023,03/16,NCAA Championships,165,L,DEC,9 - 8,Michael Caliendo,71699,North Dakota State,Matthew Olguin,57218,Oregon State
+2023,03/16,NCAA Championships,165,W,DEC,6 - 1,Rodrick Mosley,50889,Gardner-Webb,Matthew Olguin,57218,Oregon State
+2023,03/16,NCAA Championships,165,L,SV-1,3 - 1,Bubba Wilson,57936,Nebraska,Matthew Olguin,57218,Oregon State
+2023,03/05,PAC 12 Championships,165,W,TB-2,3 - 2,Shane Griffith,49991,Stanford,Matthew Olguin,57218,Oregon State
+2023,03/05,PAC 12 Championships,165,W,MD,9 - 0,Tyler Brennan,62844,Little Rock,Matthew Olguin,57218,Oregon State
+2023,02/26,Stanford - Oregon State Dual,165,W,DEC,3 - 2,Shane Griffith,49991,Stanford,Matthew Olguin,57218,Oregon State
+2023,02/19,Oregon State - Cal Poly Dual,165,W,SV-1,7 - 5,Legend Lamer,56776,Cal Poly,Matthew Olguin,57218,Oregon State
+2023,02/11,Wyoming - Oregon State Dual,165,W,DEC,6 - 3,Cole Moody,57067,Wyoming,Matthew Olguin,57218,Oregon State
+2023,02/05,Arizona State - Oregon State Dual,165,W,TF5,18 - 3 7:00,Tony Negron,58308,Arizona State,Matthew Olguin,57218,Oregon State
+2023,01/15,Oregon State - Little Rock Dual,165,W,DEC,4 - 0,Tyler Brennan,62844,Little Rock,Matthew Olguin,57218,Oregon State
+2023,01/13,Princeton - Oregon State Dual,165,L,SV-1,5 - 3,Quincy Monday,53967,Princeton,Matthew Olguin,57218,Oregon State
+2023,01/08,Oklahoma State - Oregon State Dual,165,W,SV-1,7 - 5,Wyatt Sheets,44863,Oklahoma State,Matthew Olguin,57218,Oregon State
+2023,12/20,Central Michigan - Oregon State Dual,165,W,FALL,1:14,Tracy Hubbard,57361,Central Michigan,Matthew Olguin,57218,Oregon State
+2023,12/19,Oregon State - Cornell Dual,165,L,DEC,6 - 2,Julian Ramirez,56706,Cornell,Matthew Olguin,57218,Oregon State
+2023,12/19,Oregon State - Iowa State Dual,165,L,DEC,6 - 1,David Carr,51126,Iowa State,Matthew Olguin,57218,Oregon State
+2023,12/11,Oregon State - Penn State Dual,165,L,DEC,3 - 2,Alex Facundo,66706,Penn State,Matthew Olguin,57218,Oregon State
+2023,12/02,Cliff Keen Invitational,165,L,DEC,5 - 2,Joshua Ogunsanya,66970,Columbia,Matthew Olguin,57218,Oregon State
+2023,12/02,Cliff Keen Invitational,165,W,DEC,10 - 3,Donald Cates,64932,NC State,Matthew Olguin,57218,Oregon State
+2023,12/02,Cliff Keen Invitational,165,W,FALL,7:41,Bubba Wilson,57936,Nebraska,Matthew Olguin,57218,Oregon State
+2023,12/02,Cliff Keen Invitational,165,W,MD,12 - 3,William Formato,57034,Appalachian State,Matthew Olguin,57218,Oregon State
+2023,12/02,Cliff Keen Invitational,165,W,MFOR,0 - 0,Austin Yant,50261,Northern Iowa,Matthew Olguin,57218,Oregon State
+2023,12/02,Cliff Keen Invitational,165,W,DEC,2 - 1,Giano Petrucelli,62610,Air Force,Matthew Olguin,57218,Oregon State
+2023,12/02,Cliff Keen Invitational,165,W,MD,12 - 4,Enrique Munguia,73500,Kent State,Matthew Olguin,57218,Oregon State
+2023,11/20,Roadrunner Open,165,W,FALL,1:43,Jesus Navarrete,82751,Unattached,Matthew Olguin,57218,Oregon State
+2023,11/20,Roadrunner Open,165,W,MD,14 - 3,Cash Stewart,77763,Cal Poly,Matthew Olguin,57218,Oregon State
+2023,11/20,Roadrunner Open,165,W,TF5,19 - 3 7:00,Cameron Haddock,57050,Utah Valley,Matthew Olguin,57218,Oregon State
+2023,11/20,Roadrunner Open,165,W,TF5,20 - 4 7:00,Luke Gayer,77388,Rutgers,Matthew Olguin,57218,Oregon State
+2023,11/13,Clackamas Community College - Oregon State Dual,165,W,DEC,7 - 4,Steele Starren,73050,Clackamas Community College,Matthew Olguin,57218,Oregon State
+2023,11/06,Black Knight Scramble,165,L,DEC,5 - 1,Dalton Harkins,65872,Army West Point,Matthew Olguin,57218,Oregon State
+2023,11/06,Black Knight Scramble,165,W,FALL,0:55,Christian Hunt,50638,Army West Point,Matthew Olguin,57218,Oregon State
+2023,11/05,Oregon State - Lehigh Dual,165,W,MD,12 - 2,Brian Meyer,50941,Lehigh,Matthew Olguin,57218,Oregon State
+2023,01/29,Clackamas Open,165,L,DEC,6 - 5,Christopher Hamblin,77146,Oregon State,Cole Zoller,70297,Oregon State
+2023,01/29,Clackamas Open,165,W,TF5,17 - 1 7:00,Brian Walker,83870,Unattached,Cole Zoller,70297,Oregon State
+2023,01/29,Clackamas Open,165,W,DEC,6 - 2,Varrius Scanlan,83869,Umpqua Community College,Cole Zoller,70297,Oregon State
+2023,01/29,Clackamas Open,165,L,DEC,5 - 3,Jordan Faifai,82298,Southern Oregon,Cole Zoller,70297,Oregon State
+2023,12/18,Reno TOC,165,L,TF5,15 - 0 5:10,Cole Moody,57067,Wyoming,Cole Zoller,70297,Oregon State
+2023,11/20,Roadrunner Open,165,W,FALL,2:12,Christopher Capobianco,82749,Unattached,Cole Zoller,70297,Oregon State
+2023,11/20,Roadrunner Open,165,W,MD,17 - 3,Jonothan Moreno,82748,Menlo Wrestling Club,Cole Zoller,70297,Oregon State
+2023,11/20,Roadrunner Open,165,L,FALL,4:20,Cash Stewart,77763,Cal Poly,Cole Zoller,70297,Oregon State
+2023,11/20,Roadrunner Open,165,W,FALL,3:26,Jaden Sanchez,69364,CSU Bakersfield,Cole Zoller,70297,Oregon State
+2023,11/20,Roadrunner Open,165,L,MD,13 - 0,Daniel Snediker,63557,Utah Valley,Cole Zoller,70297,Oregon State
+2023,11/13,Linfield University - Oregon State Dual,165,W,FALL,1:35,Jack Barrett,81588,Linfield University,Cole Zoller,70297,Oregon State
+2023,11/06,Mountaineer Open,165,W,FALL,1:02,Franklin Lincoln,81098,Washington State University,Cole Zoller,70297,Oregon State
+2023,11/06,Mountaineer Open,165,W,DEC,8 - 5,Vincent Cramer,77900,Eastern Oregon University,Cole Zoller,70297,Oregon State
+2023,11/06,Mountaineer Open,165,W,FALL,4:29,DJ Hunter,77236,Unattached,Cole Zoller,70297,Oregon State
+2023,01/29,Clackamas Open,165,L,DEC,5 - 1,Kekana Fouret,61652,Unattached,Christopher Hamblin,77146,Oregon State
+2023,01/29,Clackamas Open,165,W,FALL,0:56,Francisco Endi,81805,Pacific,Christopher Hamblin,77146,Oregon State
+2023,01/29,Clackamas Open,165,W,DEC,6 - 5,Cole Zoller,70297,Oregon State,Christopher Hamblin,77146,Oregon State
+2023,01/29,Clackamas Open,165,L,DEC,3 - 0,Kekana Fouret,61652,Unattached,Hunter Meinzen,69316,Oregon State
+2023,01/29,Clackamas Open,165,W,DEC,3 - 1,Varrius Scanlan,83869,Umpqua Community College,Hunter Meinzen,69316,Oregon State
+2023,01/29,Clackamas Open,165,L,MFOR,0 - 0,Varrius Scanlan,83869,Umpqua Community College,Hunter Meinzen,69316,Oregon State
+2023,01/29,Clackamas Open,165,L,FALL,1:53,Jordan Faifai,82298,Southern Oregon,Hunter Meinzen,69316,Oregon State
+2023,12/18,Reno TOC,165,W,DEC,3 - 2,Braden Smelser,70199,CSU Bakersfield,Hunter Meinzen,69316,Oregon State
+2023,12/18,Reno TOC,165,L,DEC,4 - 2,Michael Goldfeder,57128,North Carolina,Hunter Meinzen,69316,Oregon State
+2023,12/18,Reno TOC,165,L,DEC,6 - 2,Zachary Rowe,62929,Cal Baptist,Hunter Meinzen,69316,Oregon State
+2023,11/20,Roadrunner Open,165,L,MFOR,0 - 0,Jonothan Moreno,82748,Menlo Wrestling Club,Hunter Meinzen,69316,Oregon State
+2023,11/20,Roadrunner Open,165,L,INJ,5:00,Rysan Leong,65108,Menlo,Hunter Meinzen,69316,Oregon State
+2023,11/12,Bison Open,165,L,DEC,5 - 1,Alex Kowalchyk,75669,North Dakota State,Hunter Meinzen,69316,Oregon State
+2023,11/12,Bison Open,165,L,DEC,6 - 0,Brendan Howes,73498,North Dakota State,Hunter Meinzen,69316,Oregon State
+2023,03/16,NCAA Championships,174,L,SV-1,3 - 1,Cade DeVos,57072,South Dakota State,Aaron Olmos,50177,Oregon State
+2023,03/16,NCAA Championships,174,W,DEC,9 - 2,Tyler Eischens,51205,Stanford,Aaron Olmos,50177,Oregon State
+2023,03/16,NCAA Championships,174,L,DEC,10 - 6,Dustin Plott,57607,Oklahoma State,Aaron Olmos,50177,Oregon State
+2023,03/16,NCAA Championships,174,W,DEC,6 - 3,Lennox Wolak,57767,Columbia,Aaron Olmos,50177,Oregon State
+2023,03/05,PAC 12 Championships,174,W,DEC,3 - 1,Tyler Eischens,51205,Stanford,Aaron Olmos,50177,Oregon State
+2023,03/05,PAC 12 Championships,174,W,DEC,6 - 5,Albert Urias,57203,CSU Bakersfield,Aaron Olmos,50177,Oregon State
+2023,02/26,Stanford - Oregon State Dual,174,W,SV-1,4 - 2,Tyler Eischens,51205,Stanford,Aaron Olmos,50177,Oregon State
+2023,02/19,Oregon State - Cal Poly Dual,174,W,DEC,13 - 6,Brawley Lamer,50051,Cal Poly,Aaron Olmos,50177,Oregon State
+2023,02/11,Wyoming - Oregon State Dual,174,W,DEC,8 - 3,Hayden Lieb,69789,Wyoming,Aaron Olmos,50177,Oregon State
+2023,02/05,Arizona State - Oregon State Dual,174,L,SV-1,6 - 4,Cael Valencia,70908,Arizona State,Aaron Olmos,50177,Oregon State
+2023,01/29,CSU Bakersfield - Oregon State Dual,174,W,DEC,3 - 1,Albert Urias,57203,CSU Bakersfield,Aaron Olmos,50177,Oregon State
+2023,01/15,Oregon State - Little Rock Dual,174,W,DEC,3 - 2,Triston Wills,58611,Little Rock,Aaron Olmos,50177,Oregon State
+2023,01/13,Princeton - Oregon State Dual,174,W,DEC,6 - 2,Kole Mulhauser,73135,Princeton,Aaron Olmos,50177,Oregon State
+2023,01/08,Oklahoma State - Oregon State Dual,174,W,DEC,9 - 4,Dustin Plott,57607,Oklahoma State,Aaron Olmos,50177,Oregon State
+2023,12/20,Central Michigan - Oregon State Dual,174,W,DEC,7 - 1,Alex Cramer,56732,Central Michigan,Aaron Olmos,50177,Oregon State
+2023,12/19,Oregon State - Cornell Dual,174,L,FALL,0:58,Chris Foca,56712,Cornell,Aaron Olmos,50177,Oregon State
+2023,12/19,Oregon State - Iowa State Dual,174,L,DEC,5 - 2,Julien Broderson,57644,Iowa State,Aaron Olmos,50177,Oregon State
+2023,12/11,Oregon State - Penn State Dual,174,L,MD,14 - 3,Carter Starocci,58819,Penn State,Aaron Olmos,50177,Oregon State
+2023,12/02,Cliff Keen Invitational,174,W,SV-1,3 - 1,Jared Simma,73007,Northern Iowa,Aaron Olmos,50177,Oregon State
+2023,12/02,Cliff Keen Invitational,174,W,DEC,8 - 5,Lennox Wolak,57767,Columbia,Aaron Olmos,50177,Oregon State
+2023,12/02,Cliff Keen Invitational,174,L,DEC,4 - 3,Troy Fisher,57601,Northwestern,Aaron Olmos,50177,Oregon State
+2023,12/02,Cliff Keen Invitational,174,L,FALL,3:12,Chris Foca,56712,Cornell,Aaron Olmos,50177,Oregon State
+2023,12/02,Cliff Keen Invitational,174,W,SV-1,3 - 1,Alex Faison,56428,NC State,Aaron Olmos,50177,Oregon State
+2023,12/02,Cliff Keen Invitational,174,W,DEC,7 - 3,Sal Perrine,73171,Ohio,Aaron Olmos,50177,Oregon State
+2023,12/02,Cliff Keen Invitational,174,W,DEC,9 - 5,John Worthing,61847,Clarion,Aaron Olmos,50177,Oregon State
+2023,01/29,Clackamas Open,174,W,FALL,0:56,Price Pothier,79026,Linfield University,Mason Reiniche,67415,Oregon State
+2023,01/29,Clackamas Open,174,W,FALL,0:42,Zach Higgins,77729,Pacific,Mason Reiniche,67415,Oregon State
+2023,01/29,Clackamas Open,174,W,FALL,1:43,Arashk Rasti,77246,Simon Fraser,Mason Reiniche,67415,Oregon State
+2023,01/29,Clackamas Open,174,W,DEC,11 - 6,John Knight,76897,Oregon State,Mason Reiniche,67415,Oregon State
+2023,12/18,Reno TOC,174,W,FALL,0:47,Rollie Denker,79315,Michigan State,Mason Reiniche,67415,Oregon State
+2023,11/20,Roadrunner Open,174,W,DEC,8 - 3,Jarad Priest,62329,Cal Poly,Mason Reiniche,67415,Oregon State
+2023,11/20,Roadrunner Open,174,W,FALL,2:40,Kekana Fouret,61652,Unattached,Mason Reiniche,67415,Oregon State
+2023,11/20,Roadrunner Open,174,W,DEC,4 - 3,Caleb Uhlenhopp,79836,Utah Valley,Mason Reiniche,67415,Oregon State
+2023,11/20,Roadrunner Open,174,W,FALL,1:42,Luke Allan,52375,New Mexico Highlands,Mason Reiniche,67415,Oregon State
+2023,01/29,Clackamas Open,174,L,DEC,11 - 6,Mason Reiniche,67415,Oregon State,John Knight,76897,Oregon State
+2023,01/29,Clackamas Open,174,W,FALL,1:04,Boe Clayson,83865,Southwestern Oregon Community College,John Knight,76897,Oregon State
+2023,01/29,Clackamas Open,174,W,FALL,0:42,Andrew Zinn,77745,Pacific,John Knight,76897,Oregon State
+2023,01/29,Clackamas Open,174,W,MD,15 - 6,Austin Raby,72658,Clackamas Community College,John Knight,76897,Oregon State
+2023,12/18,Reno TOC,174,W,DEC,5 - 3,Brett McIntosh,62757,Wyoming,John Knight,76897,Oregon State
+2023,11/20,Roadrunner Open,174,L,DEC,3 - 1,Isaiah Anderson,73132,Oregon State,John Knight,76897,Oregon State
+2023,11/20,Roadrunner Open,174,W,MFOR,0 - 0,Timothy Cowan,79040,Cal Baptist,John Knight,76897,Oregon State
+2023,11/20,Roadrunner Open,174,W,MFOR,0 - 0,Mason Christiansen,67100,Oregon State,John Knight,76897,Oregon State
+2023,11/20,Roadrunner Open,174,L,MD,10 - 1,Demetrius Romero,39948,Utah Valley,John Knight,76897,Oregon State
+2023,11/12,Cowboy Open,174,L,MD,14 - 1,Darion Johnson,78709,Western Wyoming College,John Knight,76897,Oregon State
+2023,11/12,Cowboy Open,174,L,DEC,5 - 4,Tucker Naccarato,73946,Northeastern Junior College,John Knight,76897,Oregon State
+2023,11/12,Cowboy Open,174,W,FALL,2:14,Isaiah Anderson,73132,Oregon State,John Knight,76897,Oregon State
+2023,11/12,Cowboy Open,174,W,DEC,4 - 3,Merrell Morley,73064,Utah Valley,John Knight,76897,Oregon State
+2023,11/12,Cowboy Open,174,L,DEC,6 - 0,Guillermo Escobedo,66969,Wyoming,John Knight,76897,Oregon State
+2023,11/20,Roadrunner Open,174,W,DEC,3 - 1,John Knight,76897,Oregon State,Isaiah Anderson,73132,Oregon State
+2023,11/20,Roadrunner Open,174,L,MD,11 - 3,Albert Urias,57203,CSU Bakersfield,Isaiah Anderson,73132,Oregon State
+2023,11/20,Roadrunner Open,174,L,DEC,7 - 4,Albert Urias,57203,CSU Bakersfield,Isaiah Anderson,73132,Oregon State
+2023,11/20,Roadrunner Open,174,W,FALL,0:57,Thomas Tolbert,63611,New Mexico Highlands,Isaiah Anderson,73132,Oregon State
+2023,11/20,Roadrunner Open,174,W,TF5,19 - 3 7:00,Luke Allan,52375,New Mexico Highlands,Isaiah Anderson,73132,Oregon State
+2023,11/12,Cowboy Open,174,L,FALL,2:14,John Knight,76897,Oregon State,Isaiah Anderson,73132,Oregon State
+2023,11/12,Cowboy Open,174,L,DEC,10 - 4,Darion Johnson,78709,Western Wyoming College,Isaiah Anderson,73132,Oregon State
+2023,11/12,Cowboy Open,174,W,FALL,0:29,Brayden Engelking,67553,Northern Colorado,Isaiah Anderson,73132,Oregon State
+2023,11/12,Cowboy Open,174,W,DEC,8 - 4,Kevin Anderson,66453,Wyoming,Isaiah Anderson,73132,Oregon State
+2023,11/06,Mountaineer Open,174,W,FALL,0:24,Jake Henggeler,81096,Washington State University,Isaiah Anderson,73132,Oregon State
+2023,11/06,Mountaineer Open,174,W,INJ,6:02,Elijah Fisher,81094,Grays Harbor,Isaiah Anderson,73132,Oregon State
+2023,11/06,Mountaineer Open,174,W,FALL,1:51,Jaycen Crisostomo,77725,Southwestern Oregon Community College,Isaiah Anderson,73132,Oregon State
+2023,11/06,Mountaineer Open,174,W,FALL,4:02,Matthew Bartlett,64298,Corban University,Isaiah Anderson,73132,Oregon State
+2023,12/18,Reno TOC,174,L,MD,21 - 11,Donnell Washington,57738,Indiana,Mason Christiansen,67100,Oregon State
+2023,11/20,Roadrunner Open,174,L,MFOR,0 - 0,John Knight,76897,Oregon State,Mason Christiansen,67100,Oregon State
+2023,11/20,Roadrunner Open,174,L,INJ,3:58,Louis Rojas,62930,Cal Baptist,Mason Christiansen,67100,Oregon State
+2023,11/20,Roadrunner Open,174,W,MD,13 - 5,Gage Mettler,74112,San Francisco State,Mason Christiansen,67100,Oregon State
+2023,11/13,Clackamas Community College - Oregon State Dual,174,W,TF5,21 - 6 3:40,Asaiah Kamplain,82057,Clackamas Community College,Mason Christiansen,67100,Oregon State
+2023,11/13,Linfield University - Oregon State Dual,174,W,TF5,22 - 6 6:59,Lance Van Hoose,81590,Linfield University,Mason Christiansen,67100,Oregon State
+2023,11/06,Black Knight Scramble,174,W,MD,17 - 7,Blake Bahna,72236,LIU,Mason Christiansen,67100,Oregon State
+2023,11/06,Black Knight Scramble,174,L,INJ,7:00,Ben Pasiuk,57286,Army West Point,Mason Christiansen,67100,Oregon State
+2023,11/05,Oregon State - Lehigh Dual,174,L,DEC,6 - 5,Jake Logan,57185,Lehigh,Mason Christiansen,67100,Oregon State
+2023,03/16,NCAA Championships,184,L,MFOR,0 - 0,Marcus Coleman,49154,Iowa State,Trey Munoz,59555,Oregon State
+2023,03/16,NCAA Championships,184,L,MFOR,0 - 0,Kaleb Romero,49252,Ohio State,Trey Munoz,59555,Oregon State
+2023,03/16,NCAA Championships,184,L,DEC,5 - 1,Parker Keckeisen,56724,Northern Iowa,Trey Munoz,59555,Oregon State
+2023,03/16,NCAA Championships,184,W,SV-1,3 - 1,Marcus Coleman,49154,Iowa State,Trey Munoz,59555,Oregon State
+2023,03/16,NCAA Championships,184,W,DEC,6 - 2,Neil Antrassian,56202,Virginia,Trey Munoz,59555,Oregon State
+2023,03/16,NCAA Championships,184,W,DEC,2 - 1,Deanthony Parker,71644,North Dakota State,Trey Munoz,59555,Oregon State
+2023,03/05,PAC 12 Championships,184,W,MD,13 - 5,Brook Byers,77775,Stanford,Trey Munoz,59555,Oregon State
+2023,03/05,PAC 12 Championships,184,W,DEC,5 - 2,Anthony Montalvo,51619,Arizona State,Trey Munoz,59555,Oregon State
+2023,02/26,Stanford - Oregon State Dual,184,W,MD,24 - 13,Brook Byers,77775,Stanford,Trey Munoz,59555,Oregon State
+2023,02/19,Oregon State - Cal Poly Dual,184,W,FALL,4:35,Jarad Priest,62329,Cal Poly,Trey Munoz,59555,Oregon State
+2023,02/11,Wyoming - Oregon State Dual,184,W,DEC,6 - 3,Quayin Short,70764,Wyoming,Trey Munoz,59555,Oregon State
+2023,02/05,Arizona State - Oregon State Dual,184,W,MD,14 - 4,Anthony Montalvo,51619,Arizona State,Trey Munoz,59555,Oregon State
+2023,01/29,CSU Bakersfield - Oregon State Dual,184,W,TF5,19 - 3 5:00,Jacob Hansen,66542,CSU Bakersfield,Trey Munoz,59555,Oregon State
+2023,01/15,Oregon State - Little Rock Dual,184,W,TF5,17 - 2 3:59,Mason Diel,73207,Little Rock,Trey Munoz,59555,Oregon State
+2023,01/13,Princeton - Oregon State Dual,184,W,DEC,6 - 3,Nate Dugan,57662,Princeton,Trey Munoz,59555,Oregon State
+2023,01/08,Oklahoma State - Oregon State Dual,184,W,DEC,4 - 3,Travis Wittlake,50615,Oklahoma State,Trey Munoz,59555,Oregon State
+2023,12/20,Central Michigan - Oregon State Dual,184,W,FALL,1:50,Ben Cushman,57359,Central Michigan,Trey Munoz,59555,Oregon State
+2023,12/19,Oregon State - Cornell Dual,184,W,MD,12 - 3,Evan Canoyer,71815,Cornell,Trey Munoz,59555,Oregon State
+2023,12/19,Oregon State - Iowa State Dual,184,W,DEC,8 - 4,Marcus Coleman,49154,Iowa State,Trey Munoz,59555,Oregon State
+2023,12/02,Cliff Keen Invitational,184,L,DEC,5 - 4,Lenny Pinto,63137,Nebraska,Trey Munoz,59555,Oregon State
+2023,12/02,Cliff Keen Invitational,184,L,INJ,7:00,Matt Finesilver,47770,Michigan,Trey Munoz,59555,Oregon State
+2023,12/02,Cliff Keen Invitational,184,L,MFOR,0 - 0,Cade King,62671,South Dakota State,Trey Munoz,59555,Oregon State
+2023,12/02,Cliff Keen Invitational,184,W,DEC,12 - 5,Peter Acciardi,51069,Cal Baptist,Trey Munoz,59555,Oregon State
+2023,12/02,Cliff Keen Invitational,184,W,DEC,5 - 3,Tyler Bates,56413,Kent State,Trey Munoz,59555,Oregon State
+2023,12/02,Cliff Keen Invitational,184,W,DEC,5 - 3,Jacob Ferreira,56807,Hofstra,Trey Munoz,59555,Oregon State
+2023,11/20,Roadrunner Open,184,W,FALL,2:45,Isaiah Morales,81142,Menlo,Trey Munoz,59555,Oregon State
+2023,11/20,Roadrunner Open,184,W,TF5,24 - 8 7:00,Khristian Dove,79004,CSU Bakersfield,Trey Munoz,59555,Oregon State
+2023,11/20,Roadrunner Open,184,W,MD,13 - 4,Peter Acciardi,51069,Cal Baptist,Trey Munoz,59555,Oregon State
+2023,11/20,Roadrunner Open,184,W,DEC,5 - 3,Brian Soldano,67558,Rutgers,Trey Munoz,59555,Oregon State
+2023,11/06,Black Knight Scramble,184,W,TF5,23 - 8 7:00,Cole Karpinski,78462,Army West Point,Trey Munoz,59555,Oregon State
+2023,11/06,Black Knight Scramble,184,W,TF5,24 - 9 7:00,Walker Stephenson,73369,Army West Point,Trey Munoz,59555,Oregon State
+2023,11/06,Black Knight Scramble,184,W,DEC,5 - 3,Sahm AbdulRazzaq,58214,Army West Point,Trey Munoz,59555,Oregon State
+2023,11/05,Oregon State - Lehigh Dual,184,W,DEC,7 - 3,Tate Samuelson,57066,Lehigh,Trey Munoz,59555,Oregon State
+2023,02/11,Wyoming - Oregon State Dual,197,W,DEC,7 - 6,Tyce Raddon,67096,Wyoming,Jackson McKinney,56781,Oregon State
+2023,01/29,CSU Bakersfield - Oregon State Dual,197,W,FALL,4:17,Mateo Morales,71495,CSU Bakersfield,Jackson McKinney,56781,Oregon State
+2023,12/19,Collegiate Duals ECM,197,W,DEC,3 - 1,Kalob Runyon,73006,Northern Iowa,Jackson McKinney,56781,Oregon State
+2023,12/11,Oregon State - Penn State Dual,184,L,DEC,3 - 1,Donovan Ball,57646,Penn State,Jackson McKinney,56781,Oregon State
+2023,11/20,Roadrunner Open,184,W,MD,13 - 2,Davit Gevogyan,82738,Unattached,Jackson McKinney,56781,Oregon State
+2023,11/20,Roadrunner Open,184,W,DEC,3 - 2,Isaiah Morales,81142,Menlo,Jackson McKinney,56781,Oregon State
+2023,11/20,Roadrunner Open,184,W,MFOR,0 - 0,Jacob Hansen,66542,CSU Bakersfield,Jackson McKinney,56781,Oregon State
+2023,11/20,Roadrunner Open,184,L,DEC,6 - 2,Jacob Hansen,66542,CSU Bakersfield,Jackson McKinney,56781,Oregon State
+2023,11/20,Roadrunner Open,184,W,DEC,6 - 3,Peter Acciardi,51069,Cal Baptist,Jackson McKinney,56781,Oregon State
+2023,11/20,Roadrunner Open,184,W,TF5,16 - 1 7:00,Lance Killgore,52693,New Mexico Highlands,Jackson McKinney,56781,Oregon State
+2023,11/13,Clackamas Community College - Oregon State Dual,184,W,TF5,19 - 1 5:35,Marshall Rodenbeck,82058,Clackamas Community College,Jackson McKinney,56781,Oregon State
+2023,11/13,Linfield University - Oregon State Dual,184,W,TF5,17 - 2 4:23,Price Pothier,79026,Linfield University,Jackson McKinney,56781,Oregon State
+2023,11/06,Black Knight Scramble,184,W,DEC,12 - 6,Cole Karpinski,78462,Army West Point,Jackson McKinney,56781,Oregon State
+2023,11/06,Black Knight Scramble,184,W,MD,13 - 4,Walker Stephenson,73369,Army West Point,Jackson McKinney,56781,Oregon State
+2023,11/06,Black Knight Scramble,184,L,DEC,5 - 4,Sahm AbdulRazzaq,58214,Army West Point,Jackson McKinney,56781,Oregon State
+2023,11/05,Lehigh Oregon State ECM,184,W,DEC,3 - 2,AJ Burkhart,50632,Lehigh,Jackson McKinney,56781,Oregon State
+2023,01/29,Clackamas Open,184,W,FALL,0:13,Marshall Rodenbeck,82058,Clackamas Community College,Kodiak Stephens,69319,Oregon State
+2023,01/29,Clackamas Open,184,W,FALL,0:43,Michael Madden,81806,Pacific,Kodiak Stephens,69319,Oregon State
+2023,01/29,Clackamas Open,184,W,DEC,7 - 0,Donivan Giangregorio,70753,Oregon State,Kodiak Stephens,69319,Oregon State
+2023,12/18,Reno TOC,184,L,SV-1,3 - 1,Jack Darrah,73242,Stanford,Kodiak Stephens,69319,Oregon State
+2023,11/20,Roadrunner Open,184,W,FALL,2:19,Juan Zapien,82753,Unattached,Kodiak Stephens,69319,Oregon State
+2023,11/20,Roadrunner Open,184,W,MFOR,0 - 0,Jacob Hansen,66542,CSU Bakersfield,Kodiak Stephens,69319,Oregon State
+2023,11/20,Roadrunner Open,184,L,FALL,1:28,Peter Acciardi,51069,Cal Baptist,Kodiak Stephens,69319,Oregon State
+2023,11/20,Roadrunner Open,184,W,SV-1,3 - 1,Hunter Morse,64816,Utah Valley,Kodiak Stephens,69319,Oregon State
+2023,11/20,Roadrunner Open,184,L,FALL,3:40,Brian Soldano,67558,Rutgers,Kodiak Stephens,69319,Oregon State
+2023,11/20,Roadrunner Open,184,W,FALL,2:15,Gavin Funk,82501,San Francisco State,Kodiak Stephens,69319,Oregon State
+2023,11/12,Cowboy Open,184,W,DEC,4 - 3,Jameel Coles,81871,Northwest Kansas Technical College,Kodiak Stephens,69319,Oregon State
+2023,11/12,Cowboy Open,184,L,MD,14 - 2,Quayin Short,70764,Wyoming,Kodiak Stephens,69319,Oregon State
+2023,11/12,Cowboy Open,184,W,DEC,5 - 1,Donivan Giangregorio,70753,Oregon State,Kodiak Stephens,69319,Oregon State
+2023,11/12,Cowboy Open,184,W,FALL,6:36,Garrett Henigin,69523,Air Force,Kodiak Stephens,69319,Oregon State
+2023,01/29,Clackamas Open,184,L,DEC,7 - 0,Kodiak Stephens,69319,Oregon State,Donivan Giangregorio,70753,Oregon State
+2023,01/29,Clackamas Open,184,W,FALL,2:27,Spyre Nelson,82836,Pacific,Donivan Giangregorio,70753,Oregon State
+2023,01/29,Clackamas Open,184,W,MD,11 - 0,Micaiah Montalbin,82197,Southwestern Oregon Community College,Donivan Giangregorio,70753,Oregon State
+2023,01/29,Clackamas Open,184,W,DEC,6 - 5,Rick Feroce,70330,Simon Fraser,Donivan Giangregorio,70753,Oregon State
+2023,12/18,Reno TOC,184,L,MD,14 - 2,Quayin Short,70764,Wyoming,Donivan Giangregorio,70753,Oregon State
+2023,11/12,Cowboy Open,184,L,DEC,5 - 1,Kodiak Stephens,69319,Oregon State,Donivan Giangregorio,70753,Oregon State
+2023,11/12,Cowboy Open,184,W,DEC,10 - 3,Luke Arthur,81870,Northeastern Junior College,Donivan Giangregorio,70753,Oregon State
+2023,11/12,Cowboy Open,184,L,MD,13 - 1,Mahonri Rushton,73063,Utah Valley,Donivan Giangregorio,70753,Oregon State
+2023,11/12,Cowboy Open,184,W,DEC,9 - 5,Jaden Stange,71785,Western Wyoming College,Donivan Giangregorio,70753,Oregon State
+2023,11/12,Cowboy Open,184,W,DEC,12 - 5,Jaden Stange,71785,Western Wyoming College,Donivan Giangregorio,70753,Oregon State
+2023,11/06,Mountaineer Open,184,W,FALL,1:00,Darien Rivera,81101,Washington State University,Donivan Giangregorio,70753,Oregon State
+2023,11/06,Mountaineer Open,184,W,TF5,16 - 0 7:00,Sergio Galicia,81095,Grays Harbor,Donivan Giangregorio,70753,Oregon State
+2023,11/06,Mountaineer Open,184,L,MD,12 - 0,Kyle Knudtson,77219,Eastern Oregon University,Donivan Giangregorio,70753,Oregon State
+2023,03/16,NCAA Championships,197,L,DEC,10 - 5,Max Dean,46025,Penn State,Tanner Harvey,48451,Oregon State
+2023,03/16,NCAA Championships,197,W,TF5,20 - 5 6:52,Owen Pentz,50250,North Dakota State,Tanner Harvey,48451,Oregon State
+2023,03/16,NCAA Championships,197,W,MD,10 - 2,Austin Cooley,56772,West Virginia,Tanner Harvey,48451,Oregon State
+2023,03/16,NCAA Championships,197,L,DEC,8 - 1,Luke Surber,62347,Oklahoma State,Tanner Harvey,48451,Oregon State
+2023,03/05,PAC 12 Championships,197,L,DEC,9 - 7,Nick Stemmet,63032,Stanford,Tanner Harvey,48451,Oregon State
+2023,03/05,PAC 12 Championships,197,W,MD,15 - 4,Matthew Weinert,74053,Little Rock,Tanner Harvey,48451,Oregon State
+2023,03/05,PAC 12 Championships,197,W,FALL,2:23,Mateo Morales,71495,CSU Bakersfield,Tanner Harvey,48451,Oregon State
+2023,02/26,Stanford - Oregon State Dual,197,W,MD,17 - 6,Nick Stemmet,63032,Stanford,Tanner Harvey,48451,Oregon State
+2023,02/19,Oregon State - Cal Poly Dual,197,L,DEC,7 - 5,Bernie Truax,51133,Cal Poly,Tanner Harvey,48451,Oregon State
+2023,02/05,Arizona State - Oregon State Dual,197,W,MD,14 - 4,Jonathan Fagen,57304,Arizona State,Tanner Harvey,48451,Oregon State
+2023,01/15,Oregon State - Little Rock Dual,197,W,FALL,4:24,Tylynn Lukens,70993,Little Rock,Tanner Harvey,48451,Oregon State
+2023,01/13,Princeton - Oregon State Dual,197,W,DEC,3 - 1,Luke Stout,62599,Princeton,Tanner Harvey,48451,Oregon State
+2023,01/08,Oklahoma State - Oregon State Dual,197,W,DEC,14 - 9,Luke Surber,62347,Oklahoma State,Tanner Harvey,48451,Oregon State
+2023,12/20,Central Michigan - Oregon State Dual,197,W,FALL,2:52,Cameron Wood,73724,Central Michigan,Tanner Harvey,48451,Oregon State
+2023,12/19,Oregon State - Cornell Dual,197,L,DEC,9 - 5,Jacob Cardenas,56770,Cornell,Tanner Harvey,48451,Oregon State
+2023,12/19,Oregon State - Iowa State Dual,197,L,DEC,3 - 2,Yonger Bastida,70963,Iowa State,Tanner Harvey,48451,Oregon State
+2023,12/11,Oregon State - Penn State Dual,197,L,DEC,6 - 3,Max Dean,46025,Penn State,Tanner Harvey,48451,Oregon State
+2023,12/02,Cliff Keen Invitational,197,L,DEC,6 - 4,Isaac Trumble,67131,NC State,Tanner Harvey,48451,Oregon State
+2023,12/02,Cliff Keen Invitational,197,W,DEC,5 - 2,Kordell Norfleet,49038,Arizona State,Tanner Harvey,48451,Oregon State
+2023,12/02,Cliff Keen Invitational,197,W,DEC,3 - 2,Andy Smith,63528,Virginia Tech,Tanner Harvey,48451,Oregon State
+2023,12/02,Cliff Keen Invitational,197,W,DEC,4 - 2,Cody Mulligan,50589,Edinboro,Tanner Harvey,48451,Oregon State
+2023,12/02,Cliff Keen Invitational,197,W,TF5,20 - 5 7:00,Mark Chaid,51294,The Citadel,Tanner Harvey,48451,Oregon State
+2023,11/20,Roadrunner Open,197,W,FALL,1:24,Amrit Singh,74494,Menlo,Tanner Harvey,48451,Oregon State
+2023,11/20,Roadrunner Open,197,W,DEC,5 - 0,Ryan Reyes,57638,Oregon State,Tanner Harvey,48451,Oregon State
+2023,11/20,Roadrunner Open,197,W,DEC,8 - 4,Evan Bockman,57270,Utah Valley,Tanner Harvey,48451,Oregon State
+2023,11/20,Roadrunner Open,197,W,TF5,16 - 1 7:00,Zach Ferris,75835,New Mexico Highlands,Tanner Harvey,48451,Oregon State
+2023,11/13,Clackamas Community College - Oregon State Dual,197,W,DEC,5 - 3,Michael Gasper,67273,Clackamas Community College,Tanner Harvey,48451,Oregon State
+2023,11/13,Linfield University - Oregon State Dual,197,W,FALL,1:58,Darius Walker,78546,Linfield University,Tanner Harvey,48451,Oregon State
+2023,11/06,Black Knight Scramble,197,W,FALL,7:00,John Dusza,74411,LIU,Tanner Harvey,48451,Oregon State
+2023,11/06,Black Knight Scramble,197,W,FALL,0:40,Joseph LoPresti,70154,LIU,Tanner Harvey,48451,Oregon State
+2023,11/06,Black Knight Scramble,197,W,DEC,8 - 2,Daniel Lawrence,69375,Army West Point,Tanner Harvey,48451,Oregon State
+2023,11/05,Oregon State - Lehigh Dual,197,L,DEC,9 - 5,Michael Beard,50614,Lehigh,Tanner Harvey,48451,Oregon State
+2023,12/20,Central Michigan - Oregon State Dual,285,L,FALL,3:36,Bryan Caves,71791,Central Michigan,Ryan Reyes,57638,Oregon State
+2023,12/19,Oregon State - Cornell Dual,285,L,DEC,4 - 0,Brendan Furman,49113,Cornell,Ryan Reyes,57638,Oregon State
+2023,12/19,Oregon State - Iowa State Dual,285,L,MD,16 - 4,Sam Schuyler,50361,Iowa State,Ryan Reyes,57638,Oregon State
+2023,12/02,Cliff Keen Invitational,285,L,FALL,3:53,Grady Griess,63170,Navy,Ryan Reyes,57638,Oregon State
+2023,12/02,Cliff Keen Invitational,285,L,SV-1,3 - 1,Austin Chapman,63708,Clarion,Ryan Reyes,57638,Oregon State
+2023,11/20,Roadrunner Open,197,L,DEC,5 - 0,Tanner Harvey,48451,Oregon State,Ryan Reyes,57638,Oregon State
+2023,11/20,Roadrunner Open,197,W,DEC,8 - 2,Hunter James,74485,Menlo,Ryan Reyes,57638,Oregon State
+2023,11/20,Roadrunner Open,197,W,DEC,6 - 1,Afton Silvis,63766,Menlo,Ryan Reyes,57638,Oregon State
+2023,11/20,Roadrunner Open,197,W,TF5,20 - 5 7:00,Jayden Johnson,76832,New Mexico Highlands,Ryan Reyes,57638,Oregon State
+2023,03/05,PAC 12 Championships,285,W,DEC,2 - 1,Peter Ming,62611,Stanford,Jj Dixon,56784,Oregon State
+2023,03/05,PAC 12 Championships,285,L,DEC,3 - 2,Josiah Hill,65931,Little Rock,Jj Dixon,56784,Oregon State
+2023,03/05,PAC 12 Championships,285,W,DEC,4 - 0,Jake Andrews,73174,CSU Bakersfield,Jj Dixon,56784,Oregon State
+2023,03/05,PAC 12 Championships,285,L,DEC,5 - 1,Trevor Tinker,66973,Cal Poly,Jj Dixon,56784,Oregon State
+2023,02/26,Stanford - Oregon State Dual,285,W,DEC,5 - 2,Peter Ming,62611,Stanford,Jj Dixon,56784,Oregon State
+2023,02/19,Oregon State - Cal Poly Dual,285,L,DEC,8 - 2,Trevor Tinker,66973,Cal Poly,Jj Dixon,56784,Oregon State
+2023,02/11,Wyoming - Oregon State Dual,285,W,MD,12 - 3,Terren Swartz,57983,Wyoming,Jj Dixon,56784,Oregon State
+2023,02/05,Arizona State - Oregon State Dual,285,L,FALL,6:16,Cohlton Schultz,56899,Arizona State,Jj Dixon,56784,Oregon State
+2023,01/15,Oregon State - Little Rock Dual,285,W,DEC,5 - 4,Josiah Hill,65931,Little Rock,Jj Dixon,56784,Oregon State
+2023,01/13,Princeton - Oregon State Dual,285,L,DEC,8 - 3,Travis Stefanik,49301,Princeton,Jj Dixon,56784,Oregon State
+2023,01/08,Oklahoma State - Oregon State Dual,285,L,DEC,3 - 2,Konner Doucet,57801,Oklahoma State,Jj Dixon,56784,Oregon State
+2023,12/19,Collegiate Duals ECM,285,W,DEC,3 - 1,Brandon Whitman,50602,North Carolina,Jj Dixon,56784,Oregon State
+2023,12/11,Oregon State - Penn State Dual,285,L,TF5,18 - 2 6:12,Greg Kerkvliet,61842,Penn State,Jj Dixon,56784,Oregon State
+2023,11/20,Roadrunner Open,285,W,MD,14 - 0,Alan Carrillo,82743,Vanguard University,Jj Dixon,56784,Oregon State
+2023,11/20,Roadrunner Open,285,W,DEC,9 - 2,Nathan Glass,78149,Cal Poly,Jj Dixon,56784,Oregon State
+2023,11/20,Roadrunner Open,285,W,SV-1,3 - 1,Luke Meyer,78082,Cal Poly,Jj Dixon,56784,Oregon State
+2023,11/20,Roadrunner Open,285,W,DEC,3 - 1,Nicolas Rodriguez,79386,Utah Valley,Jj Dixon,56784,Oregon State
+2023,11/20,Roadrunner Open,285,L,DEC,3 - 1,Chase Trussell,57046,Utah Valley,Jj Dixon,56784,Oregon State
+2023,11/20,Roadrunner Open,285,W,MFOR,0 - 0,Emilio Sandoval,73375,San Francisco State,Jj Dixon,56784,Oregon State
+2023,11/06,Black Knight Scramble,285,W,INJ,7:00,Jamikael Lytle,79829,Queens,Jj Dixon,56784,Oregon State
+2023,11/06,Black Knight Scramble,285,W,DEC,3 - 2,Aeden Begue,72233,LIU,Jj Dixon,56784,Oregon State
+2023,11/06,Black Knight Scramble,285,W,DEC,4 - 2,Paul Robinson,50583,Army West Point,Jj Dixon,56784,Oregon State
+2023,11/05,Oregon State - Lehigh Dual,285,L,DEC,7 - 4,Nathan Taylor,73044,Lehigh,Jj Dixon,56784,Oregon State
+2023,01/29,CSU Bakersfield - Oregon State Dual,285,W,MD,9 - 1,Jake Andrews,73174,CSU Bakersfield,Charles Hastriter,69318,Oregon State
+2023,12/18,Reno TOC,285,L,MD,14 - 6,Peter Ming,62611,Stanford,Charles Hastriter,69318,Oregon State
+2023,12/18,Reno TOC,285,L,DEC,8 - 4,Kevin Zimmer,72685,Wyoming,Charles Hastriter,69318,Oregon State
+2023,11/20,Roadrunner Open,285,L,FALL,1:23,Nathan Glass,78149,Cal Poly,Charles Hastriter,69318,Oregon State
+2023,11/20,Roadrunner Open,285,L,DEC,3 - 2,Christopher Island,69373,Cal Baptist,Charles Hastriter,69318,Oregon State
+2023,11/20,Roadrunner Open,285,W,DEC,5 - 2,Nicolas Rodriguez,79386,Utah Valley,Charles Hastriter,69318,Oregon State
+2023,11/20,Roadrunner Open,285,W,MFOR,0 - 0,Emilio Sandoval,73375,San Francisco State,Charles Hastriter,69318,Oregon State
+2023,11/13,Clackamas Community College - Oregon State Dual,285,W,DEC,10 - 4,Braden Pease,82059,Clackamas Community College,Charles Hastriter,69318,Oregon State
+2023,11/13,Linfield University - Oregon State Dual,285,L,DEC,2 - 1,Jacob Barnes,69317,Linfield University,Charles Hastriter,69318,Oregon State
+2023,11/06,Black Knight Scramble,285,L,FALL,7:00,Aeden Begue,72233,LIU,Charles Hastriter,69318,Oregon State
+2023,11/06,Black Knight Scramble,285,L,DEC,5 - 3,Kade Carlson,73370,Army West Point,Charles Hastriter,69318,Oregon State

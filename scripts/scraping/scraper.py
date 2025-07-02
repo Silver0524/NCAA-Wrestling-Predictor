@@ -490,7 +490,7 @@ def scrape_all_d1_teams(max_workers=5):
             for team_id, team_slug in teams:
                 # Check team activity for the season
                 if team_slug in activity_map and season_year not in activity_map[team_slug]:
-                    logging.debug(f"Skipping {team_slug} for {season_year} (inactive)")
+                    logging.info(f"Skipping {team_slug} for {season_year} (inactive)")
                     continue
                 futures.append(executor.submit(scrape_team_for_season, team_id, team_slug, season_year))
 
@@ -512,8 +512,8 @@ def scrape_all_d1_teams(max_workers=5):
     # Save the full dataset across all seasons to a CSV file
     if all_data:
         full_df = pd.concat(all_data, ignore_index=True)
-        full_df.to_csv("data/raw/d1_match_results.csv", index=False)
-        logging.info(f"Saved full dataset with {len(full_df)} matches to d1_match_results.csv")
+        full_df.to_csv("data/raw/d1_results_raw.csv", index=False)
+        logging.info(f"Saved full dataset with {len(full_df)} matches to d1_results_raw.csv")
     else:
         logging.error("No match data collected across all seasons.")
 

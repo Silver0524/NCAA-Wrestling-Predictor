@@ -1,0 +1,553 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2016,03/17,NCAA Championships,125,W,MFOR,0 - 0,Dylan Peters,13253,Northern Iowa,Conor Youtsey,13271,Michigan
+2016,03/17,NCAA Championships,125,L,MD,10 - 1,Nathan Tomasello,14674,Ohio State,Conor Youtsey,13271,Michigan
+2016,03/17,NCAA Championships,125,W,TB-2,4 - 3,Connor Schram,14982,Stanford,Conor Youtsey,13271,Michigan
+2016,03/17,NCAA Championships,125,W,SV-2,5 - 3,Barlow McGhee,13251,Missouri,Conor Youtsey,13271,Michigan
+2016,03/17,NCAA Championships,125,L,DEC,4 - 0,Nico Megaludis,12051,Penn State,Conor Youtsey,13271,Michigan
+2016,03/17,NCAA Championships,125,W,DEC,7 - 6,Eddie Klimara,12136,Oklahoma State,Conor Youtsey,13271,Michigan
+2016,03/17,NCAA Championships,125,W,SV-1,7 - 5,Dalton Macri,42225,Cornell,Conor Youtsey,13271,Michigan
+2016,03/05,Big Ten Championships,125,L,DEC,6 - 3,Elijah Oliver,39583,Indiana,Conor Youtsey,13271,Michigan
+2016,03/05,Big Ten Championships,125,W,DEC,5 - 1,Johnny Jimenez,20483,Wisconsin,Conor Youtsey,13271,Michigan
+2016,03/05,Big Ten Championships,125,W,MD,12 - 2,Ben Thornton,20350,Purdue,Conor Youtsey,13271,Michigan
+2016,03/05,Big Ten Championships,125,W,MD,9 - 1,Garrison White,12112,Northwestern,Conor Youtsey,13271,Michigan
+2016,03/05,Big Ten Championships,125,L,DEC,7 - 1,Tim Lambert,13256,Nebraska,Conor Youtsey,13271,Michigan
+2016,03/05,Big Ten Championships,125,L,MD,14 - 4,Thomas Gilman,13245,Iowa,Conor Youtsey,13271,Michigan
+2016,02/21,Virginia Tech - Michigan Dual,125,L,SV-2,11 - 9,Joey Dance,12221,Virginia Tech,Conor Youtsey,13271,Michigan
+2016,02/12,Purdue - Michigan Dual,125,W,MD,11 - 3,Luke Schroeder,12114,Purdue,Conor Youtsey,13271,Michigan
+2016,02/07,Michigan - Rutgers Dual,125,W,SV-1,3 - 1,Sean McCabe,12035,Rutgers,Conor Youtsey,13271,Michigan
+2016,02/05,Michigan - Maryland Dual,125,W,DEC,10 - 5,Michael Beck,19998,Maryland,Conor Youtsey,13271,Michigan
+2016,01/31,Michigan - Penn State Dual,125,L,DEC,10 - 4,Nico Megaludis,12051,Penn State,Conor Youtsey,13271,Michigan
+2016,01/29,Northwestern - Michigan Dual,125,W,TF5,20 - 2 6:23,Garrison White,12112,Northwestern,Conor Youtsey,13271,Michigan
+2016,01/24,Indiana - Michigan Dual,125,L,DEC,5 - 4,Elijah Oliver,39583,Indiana,Conor Youtsey,13271,Michigan
+2016,01/22,Central Michigan - Michigan Dual,125,W,DEC,4 - 2,Brent Fleetwood,19750,Central Michigan,Conor Youtsey,13271,Michigan
+2016,01/15,Illinois - Michigan Dual,125,W,TF5,25 - 10 6:27,Francis Edelen,40307,Illinois,Conor Youtsey,13271,Michigan
+2016,01/09,Michigan - Ohio State Dual,125,L,DEC,4 - 2,Nathan Tomasello,14674,Ohio State,Conor Youtsey,13271,Michigan
+2016,01/07,Oregon State - Michigan Dual,125,L,DEC,3 - 1,Ronnie Bresser,25183,Oregon State,Conor Youtsey,13271,Michigan
+2016,12/10,Michigan State - Michigan Dual,125,L,DEC,8 - 5,Mitch Rogaliner,12203,Michigan State,Conor Youtsey,13271,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,125,W,MD,12 - 4,Sergio Mendez,15986,CSU Bakersfield,Conor Youtsey,13271,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,125,L,TB-2,1 - 0,Josh Rodriguez,13418,North Dakota State,Conor Youtsey,13271,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,125,L,TB-1,2 - 1,Josh Rodriguez,13418,North Dakota State,Conor Youtsey,13271,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,125,W,DEC,4 - 3,Ben Thornton,20350,Purdue,Conor Youtsey,13271,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,125,L,DEC,4 - 1,Paul Petrov,12116,Bucknell,Conor Youtsey,13271,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,125,W,DEC,11 - 4,Sergio Mendez,15986,CSU Bakersfield,Conor Youtsey,13271,Michigan
+2016,11/22,Oklahoma - Michigan Dual,125,L,DEC,3 - 2,Ryan Millhof,20815,Oklahoma,Conor Youtsey,13271,Michigan
+2016,11/15,Michigan - Sacred Heart Dual,125,W,TF5,19 - 4 7:00,Patrick Skinner,12062,Sacred Heart,Conor Youtsey,13271,Michigan
+2016,11/15,Michigan - West Virginia Dual,125,L,DEC,5 - 3,Zeke Moisey,20472,West Virginia,Conor Youtsey,13271,Michigan
+2016,01/17,Purple Raider Open,125,W,MFOR,0 - 0,Justin Patrick,39587,Buffalo,Austin Assad,39516,Michigan
+2016,01/17,Purple Raider Open,125,W,FALL,4:11,Brendan Howard,39805,Clarion,Austin Assad,39516,Michigan
+2016,01/17,Purple Raider Open,125,W,MD,12 - 2,Drew Dickson,20964,Kent State,Austin Assad,39516,Michigan
+2016,01/17,Purple Raider Open,125,W,MD,13 - 1,Nick DeRosa,19801,Cleveland State,Austin Assad,39516,Michigan
+2016,01/01,Southern Scuffle,125,L,MD,10 - 2,Darian Cruz,12135,Lehigh,Austin Assad,39516,Michigan
+2016,01/01,Southern Scuffle,125,L,DEC,2 - 0,Brent Fleetwood,19750,Central Michigan,Austin Assad,39516,Michigan
+2016,01/01,Southern Scuffle,125,W,MD,12 - 4,Eli Hale,15232,Oklahoma State,Austin Assad,39516,Michigan
+2016,01/01,Southern Scuffle,125,W,DEC,7 - 5,Will Mason,12187,Virginia,Austin Assad,39516,Michigan
+2016,01/01,Southern Scuffle,125,L,MD,16 - 3,Darian Cruz,12135,Lehigh,Austin Assad,39516,Michigan
+2016,01/01,Southern Scuffle,125,W,DEC,10 - 6,Drew Templeman,15167,Wyoming,Austin Assad,39516,Michigan
+2016,01/01,Southern Scuffle,125,W,FALL,2:50,David Gonzalez,40838,Cal Poly,Austin Assad,39516,Michigan
+2016,12/12,Cleveland State Open,125,W,DEC,12 - 5,Landon LoAlbo,20795,Gardner-Webb,Austin Assad,39516,Michigan
+2016,12/12,Cleveland State Open,125,W,DEC,3 - 0,Mitch Rogaliner,12203,Michigan State,Austin Assad,39516,Michigan
+2016,12/12,Cleveland State Open,125,W,DEC,6 - 0,Justin Patrick,39587,Buffalo,Austin Assad,39516,Michigan
+2016,12/12,Cleveland State Open,125,W,DEC,5 - 2,John Martin,12102,Cleveland State,Austin Assad,39516,Michigan
+2016,12/12,Cleveland State Open,125,W,DEC,13 - 7,Ben Smith,23445,Shorter,Austin Assad,39516,Michigan
+2016,11/15,Michigan State Open,125,W,DEC,7 - 5,Noah Gonser,40087,Eastern Michigan,Austin Assad,39516,Michigan
+2016,11/15,Michigan State Open,125,W,TF5,17 - 0 4:57,Sebastian Vidika,22059,Ashland,Austin Assad,39516,Michigan
+2016,11/15,Michigan State Open,125,W,FALL,1:16,Jacob Busing,41946,Davenport,Austin Assad,39516,Michigan
+2016,11/15,Michigan State Open,125,W,MD,10 - 2,Ngun Uk,41846,Indiana Tech,Austin Assad,39516,Michigan
+2016,11/15,Michigan State Open,125,W,DEC,8 - 7,Shakur Laney,39917,Ohio,Austin Assad,39516,Michigan
+2016,01/01,Southern Scuffle,125,L,MD,18 - 6,Dalton Macri,42225,Cornell,Cory Lester,13307,Michigan
+2016,01/01,Southern Scuffle,125,L,MD,11 - 3,Brent Fleetwood,19750,Central Michigan,Cory Lester,13307,Michigan
+2016,11/15,Michigan - Hofstra Dual,125,W,DEC,6 - 4,Bryan Damon,19924,Hofstra,Cory Lester,13307,Michigan
+2016,02/06,Edinboro Open,125,W,DEC,5 - 2,Ezekiel Beatty,44261,Pitt-Johnstown,Mike Volyanyuk,40460,Michigan
+2016,02/06,Edinboro Open,125,L,DEC,6 - 3,Mikel Perales,20576,Arizona State,Mike Volyanyuk,40460,Michigan
+2016,02/06,Edinboro Open,125,L,DEC,8 - 3,Keanan Bottorf,40295,Lock Haven,Mike Volyanyuk,40460,Michigan
+2016,01/23,Alma Open,125,L,DEC,5 - 1,Logan Griffin,40454,Michigan State,Mike Volyanyuk,40460,Michigan
+2016,01/23,Alma Open,125,W,TB-2,7 - 6,Damian Short,43438,Muskegon Community College,Mike Volyanyuk,40460,Michigan
+2016,01/23,Alma Open,125,W,DEC,6 - 1,Brandon Harris,44058,Adrian,Mike Volyanyuk,40460,Michigan
+2016,01/17,Purple Raider Open,125,L,DEC,3 - 1,Logan Griffin,40454,Michigan State,Mike Volyanyuk,40460,Michigan
+2016,01/17,Purple Raider Open,125,W,MFOR,0 - 0,Ryan Burns,45113,VA/Southeast Regional Training,Mike Volyanyuk,40460,Michigan
+2016,01/17,Purple Raider Open,125,W,DEC,4 - 1,Trenton Gill,24500,Mount Union,Mike Volyanyuk,40460,Michigan
+2016,01/17,Purple Raider Open,125,W,MD,12 - 0,Luke Nace,20234,Ohio,Mike Volyanyuk,40460,Michigan
+2016,01/17,Purple Raider Open,125,L,DEC,4 - 2,Judah Caballero,41845,Notre Dame,Mike Volyanyuk,40460,Michigan
+2016,12/12,Cleveland State Open,125,L,DEC,5 - 2,Jake Ayers,41293,Notre Dame,Mike Volyanyuk,40460,Michigan
+2016,12/12,Cleveland State Open,125,L,DEC,6 - 1,Landon LoAlbo,20795,Gardner-Webb,Mike Volyanyuk,40460,Michigan
+2016,12/12,Cleveland State Open,125,W,DEC,6 - 0,Keanan Bottorf,40295,Lock Haven,Mike Volyanyuk,40460,Michigan
+2016,11/15,Michigan State Open,125,L,DEC,5 - 2,Jerry Fenner III,46541,Ashland,Mike Volyanyuk,40460,Michigan
+2016,11/15,Michigan State Open,125,W,DEC,5 - 3,Anthony Jagel,41256,Notre Dame,Mike Volyanyuk,40460,Michigan
+2016,11/15,Michigan State Open,125,L,MD,10 - 0,Hayden Lee,40362,Ohio,Mike Volyanyuk,40460,Michigan
+2016,11/07,Eastern Michigan Open,125,L,DEC,8 - 3,Kirk Johansen,40079,Northern Illinois,Mike Volyanyuk,40460,Michigan
+2016,11/07,Eastern Michigan Open,125,W,DEC,8 - 4,Giuseppe Penzone,20963,Tiffin University,Mike Volyanyuk,40460,Michigan
+2016,11/07,Eastern Michigan Open,125,L,DEC,1 - 0,Hayden Lee,40362,Ohio,Mike Volyanyuk,40460,Michigan
+2016,11/07,Eastern Michigan Open,125,L,DEC,3 - 1,Drew Dickson,20964,Kent State,Mike Volyanyuk,40460,Michigan
+2016,11/07,Eastern Michigan Open,125,W,DEC,10 - 3,Roshaun Cooley,39552,Clarion,Mike Volyanyuk,40460,Michigan
+2016,03/17,NCAA Championships,133,L,TB-1,3 - 2,Mack McGuire,12004,Kent State,Rossi Bruno,15289,Michigan
+2016,03/17,NCAA Championships,133,W,TB-1,2 - 1,Caleb Richardson,12113,Pennsylvania,Rossi Bruno,15289,Michigan
+2016,03/17,NCAA Championships,133,L,DEC,3 - 2,Josh Martinez,12145,Air Force,Rossi Bruno,15289,Michigan
+2016,03/05,Big Ten Championships,133,L,DEC,7 - 3,Dominick Malone,12015,Northwestern,Rossi Bruno,15289,Michigan
+2016,03/05,Big Ten Championships,133,W,MD,15 - 7,Alonzo Shepherd,12076,Indiana,Rossi Bruno,15289,Michigan
+2016,03/05,Big Ten Championships,133,L,DEC,10 - 3,Zane Richards,14736,Illinois,Rossi Bruno,15289,Michigan
+2016,03/05,Big Ten Championships,133,W,FALL,6:37,Dominick Malone,12015,Northwestern,Rossi Bruno,15289,Michigan
+2016,02/21,Virginia Tech - Michigan Dual,133,W,DEC,5 - 1,Dennis Gustafson,11706,Virginia Tech,Rossi Bruno,15289,Michigan
+2016,02/12,Purdue - Michigan Dual,133,W,MD,10 - 1,Luke Welch,13436,Purdue,Rossi Bruno,15289,Michigan
+2016,02/07,Michigan - Rutgers Dual,133,W,TB-1,5 - 2,Anthony Giraldo,20359,Rutgers,Rossi Bruno,15289,Michigan
+2016,02/05,Michigan - Maryland Dual,133,L,DEC,3 - 1,Geoffrey Alexander,12022,Maryland,Rossi Bruno,15289,Michigan
+2016,01/31,Michigan - Penn State Dual,133,L,DEC,9 - 4,Jordan Conaway,15981,Penn State,Rossi Bruno,15289,Michigan
+2016,01/29,Northwestern - Michigan Dual,133,L,DEC,3 - 2,Dominick Malone,12015,Northwestern,Rossi Bruno,15289,Michigan
+2016,01/24,Indiana - Michigan Dual,133,W,MD,15 - 2,Alonzo Shepherd,12076,Indiana,Rossi Bruno,15289,Michigan
+2016,01/22,Central Michigan - Michigan Dual,133,W,SV-1,4 - 2,Corey Keener,12111,Central Michigan,Rossi Bruno,15289,Michigan
+2016,01/15,Illinois - Michigan Dual,133,L,DEC,4 - 1,Zane Richards,14736,Illinois,Rossi Bruno,15289,Michigan
+2016,01/09,Michigan - Ohio State Dual,133,W,DEC,4 - 1,Johnni DiJulius,14679,Ohio State,Rossi Bruno,15289,Michigan
+2016,01/07,Oregon State - Michigan Dual,133,L,DEC,12 - 6,Joey Palmer,12152,Oregon State,Rossi Bruno,15289,Michigan
+2016,12/10,Michigan State - Michigan Dual,133,W,TF5,16 - 1 3:26,Patrick Blommel,20751,Michigan State,Rossi Bruno,15289,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,133,L,FALL,2:29,Sam Brancale,13257,Minnesota,Rossi Bruno,15289,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,DEC,9 - 3,Jordan Gurrola,22354,San Francisco State,Rossi Bruno,15289,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,MD,11 - 1,Jacob Nicholson,40186,Binghamton,Rossi Bruno,15289,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,133,L,DEC,12 - 9,Keegan Moore,39680,West Virginia,Rossi Bruno,15289,Michigan
+2016,11/22,Oklahoma - Michigan Dual,133,L,TF5,18 - 2 6:54,Cody Brewer,12037,Oklahoma,Rossi Bruno,15289,Michigan
+2016,11/15,Michigan - Sacred Heart Dual,133,W,TF5,17 - 1 3:41,Tim Johnson,20831,Sacred Heart,Rossi Bruno,15289,Michigan
+2016,11/15,Michigan - West Virginia Dual,133,W,DEC,6 - 4,Cory Stainbrook,12131,West Virginia,Rossi Bruno,15289,Michigan
+2016,02/06,Edinboro Open,133,W,TF5,15 - 0 3:34,Joe Wheeling,13551,West Virginia,Ben Lamantia,39644,Michigan
+2016,02/06,Edinboro Open,133,W,MD,17 - 5,Dean Somers,12153,Lehigh,Ben Lamantia,39644,Michigan
+2016,02/06,Edinboro Open,133,L,DEC,6 - 3,Korbin Myers,39637,Edinboro,Ben Lamantia,39644,Michigan
+2016,02/06,Edinboro Open,133,W,TF5,15 - 0 2:03,Ben Ross,20331,Pittsburgh,Ben Lamantia,39644,Michigan
+2016,02/06,Edinboro Open,133,W,TF5,15 - 0 2:55,Nick Mayer,43218,Spartan Combat RTC,Ben Lamantia,39644,Michigan
+2016,02/06,Edinboro Open,133,L,FALL,8:21,John Erneste,20058,Missouri,Ben Lamantia,39644,Michigan
+2016,01/17,Purple Raider Open,133,L,DEC,4 - 0,Jose Rodriguez,39639,Ohio State,Ben Lamantia,39644,Michigan
+2016,01/17,Purple Raider Open,133,W,MD,13 - 5,Ryan Haskett,40361,Virginia Tech,Ben Lamantia,39644,Michigan
+2016,01/17,Purple Raider Open,133,W,MD,13 - 3,Christopher Poland,42518,Eastern Michigan,Ben Lamantia,39644,Michigan
+2016,01/17,Purple Raider Open,133,W,DEC,9 - 4,Evan Cheek,40190,Cleveland State,Ben Lamantia,39644,Michigan
+2016,01/17,Purple Raider Open,133,W,MD,12 - 0,Josh Parrett,20236,Ohio,Ben Lamantia,39644,Michigan
+2016,01/01,Southern Scuffle,133,L,DEC,6 - 1,Garth Yenter,13374,Michigan State,Ben Lamantia,39644,Michigan
+2016,01/01,Southern Scuffle,133,W,MD,14 - 2,Tony Recco,40442,Edinboro,Ben Lamantia,39644,Michigan
+2016,01/01,Southern Scuffle,133,L,MD,20 - 7,Kaid Brock,39544,Oklahoma State,Ben Lamantia,39644,Michigan
+2016,01/01,Southern Scuffle,133,W,TF5,17 - 0 4:04,Caleb Smith,40371,The Citadel,Ben Lamantia,39644,Michigan
+2016,12/12,Cleveland State Open,133,W,MFOR,0 - 0,Salvatore Profaci,39825,Michigan,Ben Lamantia,39644,Michigan
+2016,12/12,Cleveland State Open,133,W,DEC,5 - 4,Brandon James,39673,Old Dominion,Ben Lamantia,39644,Michigan
+2016,12/12,Cleveland State Open,133,W,MD,10 - 1,Tyler Ziegler,13787,Gardner-Webb,Ben Lamantia,39644,Michigan
+2016,12/12,Cleveland State Open,133,W,TF5,16 - 1 3:25,Alfred Shavers,40762,Shorter,Ben Lamantia,39644,Michigan
+2016,11/15,Michigan State Open,133,W,MFOR,0 - 0,Salvatore Profaci,39825,Michigan,Ben Lamantia,39644,Michigan
+2016,11/15,Michigan State Open,133,L,DEC,5 - 3,Jose Rodriguez,39639,Ohio State,Ben Lamantia,39644,Michigan
+2016,11/15,Michigan State Open,133,W,FALL,0:10,Erique Early,22463,Indiana Tech,Ben Lamantia,39644,Michigan
+2016,11/15,Michigan State Open,133,W,DEC,7 - 3,David Bavery,21022,Notre Dame,Ben Lamantia,39644,Michigan
+2016,11/07,Eastern Michigan Open,133,L,FALL,4:38,Jonathan Marmolejo,20347,Purdue,Ben Lamantia,39644,Michigan
+2016,11/07,Eastern Michigan Open,133,W,MD,8 - 0,Zak Hassan,15159,Ohio,Ben Lamantia,39644,Michigan
+2016,11/07,Eastern Michigan Open,133,W,MD,9 - 0,Garrett Pepple,39561,Indiana,Ben Lamantia,39644,Michigan
+2016,11/07,Eastern Michigan Open,133,L,DEC,10 - 4,Korbin Myers,39637,Edinboro,Ben Lamantia,39644,Michigan
+2016,11/07,Eastern Michigan Open,133,L,DEC,3 - 2,Anthony Rivera,14699,Edinboro,Ben Lamantia,39644,Michigan
+2016,02/06,Edinboro Open,133,W,MD,12 - 1,Ben Ross,20331,Pittsburgh,Salvatore Profaci,39825,Michigan
+2016,02/06,Edinboro Open,133,L,DEC,6 - 2,Scott Parker,19985,Lehigh,Salvatore Profaci,39825,Michigan
+2016,02/06,Edinboro Open,133,W,MD,10 - 1,Dean Somers,12153,Lehigh,Salvatore Profaci,39825,Michigan
+2016,02/06,Edinboro Open,133,W,MD,13 - 1,Tony Recco,40442,Edinboro,Salvatore Profaci,39825,Michigan
+2016,02/06,Edinboro Open,133,L,FALL,2:28,John Erneste,20058,Missouri,Salvatore Profaci,39825,Michigan
+2016,01/23,Alma Open,133,W,DEC,6 - 2,Noah Gonser,40087,Eastern Michigan,Salvatore Profaci,39825,Michigan
+2016,01/23,Alma Open,133,W,MD,15 - 4,Sawyer Miller,44061,Indiana Tech,Salvatore Profaci,39825,Michigan
+2016,01/23,Alma Open,133,W,FALL,1:51,Austin Eldred,44060,Adrian,Salvatore Profaci,39825,Michigan
+2016,01/23,Alma Open,133,W,FALL,1:04,Christopher Poland,42518,Eastern Michigan,Salvatore Profaci,39825,Michigan
+2016,01/17,Purple Raider Open,133,L,DEC,3 - 1,Noah Gonser,40087,Eastern Michigan,Salvatore Profaci,39825,Michigan
+2016,01/17,Purple Raider Open,133,L,FALL,6:04,Ryan Haskett,40361,Virginia Tech,Salvatore Profaci,39825,Michigan
+2016,01/17,Purple Raider Open,133,W,DEC,3 - 0,Josh Parrett,20236,Ohio,Salvatore Profaci,39825,Michigan
+2016,01/17,Purple Raider Open,133,W,DEC,4 - 0,KeVon Powell,13309,Ohio,Salvatore Profaci,39825,Michigan
+2016,01/17,Purple Raider Open,133,W,FALL,3:10,Alex Aguayo,44017,Ohio Valley University,Salvatore Profaci,39825,Michigan
+2016,01/17,Purple Raider Open,133,L,DEC,6 - 4,Jose Rodriguez,39639,Ohio State,Salvatore Profaci,39825,Michigan
+2016,12/12,Cleveland State Open,133,W,MD,16 - 7,Joel Shump,12023,Ohio,Salvatore Profaci,39825,Michigan
+2016,12/12,Cleveland State Open,133,W,MD,10 - 2,Philip Anderson,22000,Gardner-Webb,Salvatore Profaci,39825,Michigan
+2016,12/12,Cleveland State Open,133,W,DEC,7 - 2,Josh Markham,25207,Old Dominion,Salvatore Profaci,39825,Michigan
+2016,12/12,Cleveland State Open,133,L,MFOR,0 - 0,Ben Lamantia,39644,Michigan,Salvatore Profaci,39825,Michigan
+2016,11/15,Michigan State Open,133,W,FALL,0:42,Tyler Sicotte,41921,Tiffin University,Salvatore Profaci,39825,Michigan
+2016,11/15,Michigan State Open,133,W,FALL,3:53,Jared Brickley,41370,Olivet,Salvatore Profaci,39825,Michigan
+2016,11/15,Michigan State Open,133,L,MFOR,0 - 0,Ben Lamantia,39644,Michigan,Salvatore Profaci,39825,Michigan
+2016,11/15,Michigan State Open,133,W,DEC,8 - 5,Garrett Pepple,39561,Indiana,Salvatore Profaci,39825,Michigan
+2016,11/15,Michigan State Open,133,L,DEC,9 - 3,Cameron Kelly,39687,Ohio,Salvatore Profaci,39825,Michigan
+2016,11/07,Eastern Michigan Open,133,W,DEC,5 - 2,Jonathan Marmolejo,20347,Purdue,Salvatore Profaci,39825,Michigan
+2016,11/07,Eastern Michigan Open,133,W,DEC,11 - 7,Jose Rodriguez,39639,Ohio State,Salvatore Profaci,39825,Michigan
+2016,11/07,Eastern Michigan Open,133,L,DEC,4 - 3,Anthony Tutolo,19968,Kent State,Salvatore Profaci,39825,Michigan
+2016,11/07,Eastern Michigan Open,133,W,DEC,6 - 5,Korbin Myers,39637,Edinboro,Salvatore Profaci,39825,Michigan
+2016,11/07,Eastern Michigan Open,133,W,FALL,1:23,Kyle Greenwald,19785,Clarion,Salvatore Profaci,39825,Michigan
+2016,03/05,Big Ten Championships,141,W,DEC,4 - 2,Jameson Oster,11659,Northwestern,George Fisher,13432,Michigan
+2016,03/05,Big Ten Championships,141,L,FALL,4:56,Anthony Abidin,11584,Nebraska,George Fisher,13432,Michigan
+2016,03/05,Big Ten Championships,141,L,MD,10 - 0,Micah Jordan,20557,Ohio State,George Fisher,13432,Michigan
+2016,03/05,Big Ten Championships,141,L,FALL,3:40,Anthony Ashnault,11803,Rutgers,George Fisher,13432,Michigan
+2016,02/21,Virginia Tech - Michigan Dual,141,L,DEC,6 - 5,Solomon Chishko,20440,Virginia Tech,George Fisher,13432,Michigan
+2016,02/05,Michigan - Maryland Dual,141,L,SV-1,3 - 1,Alfred Bannister,19997,Maryland,George Fisher,13432,Michigan
+2016,01/31,Michigan - Penn State Dual,141,L,DEC,9 - 4,Jimmy Gulibon,13371,Penn State,George Fisher,13432,Michigan
+2016,01/22,Central Michigan - Michigan Dual,141,L,DEC,3 - 1,Zach Horan,11624,Central Michigan,George Fisher,13432,Michigan
+2016,01/15,Illinois - Michigan Dual,141,L,DEC,4 - 1,Brock Ervin,20546,Illinois,George Fisher,13432,Michigan
+2016,01/09,Michigan - Ohio State Dual,141,L,DEC,7 - 3,Micah Jordan,20557,Ohio State,George Fisher,13432,Michigan
+2016,01/07,Oregon State - Michigan Dual,141,W,SV-1,3 - 1,Jack Hathaway,15765,Oregon State,George Fisher,13432,Michigan
+2016,12/10,Michigan State - Michigan Dual,141,L,DEC,5 - 3,Javier Gasca,13435,Michigan State,George Fisher,13432,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,141,W,DEC,13 - 8,Chance Driscoll,11980,Kent State,George Fisher,13432,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,141,L,DEC,3 - 0,Mitch Bengtson,11619,North Dakota State,George Fisher,13432,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,141,W,DEC,13 - 6,Hunter Bamford,43175,Nebraska-Kearney,George Fisher,13432,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,141,L,DEC,10 - 7,Tyler Smith,22439,Bucknell,George Fisher,13432,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,141,W,DEC,14 - 7,Chance Driscoll,11980,Kent State,George Fisher,13432,Michigan
+2016,11/22,Oklahoma - Michigan Dual,141,W,DEC,7 - 5,Noah Teaney,20819,Oklahoma,George Fisher,13432,Michigan
+2016,11/15,Michigan - Sacred Heart Dual,141,W,FALL,1:24,Michael Worthington,39847,Sacred Heart,George Fisher,13432,Michigan
+2016,11/15,Michigan - Hofstra Dual,141,L,DEC,5 - 4,Jamel Hudson,12024,Hofstra,George Fisher,13432,Michigan
+2016,11/15,Michigan - West Virginia Dual,141,W,DEC,11 - 5,Tony DeAngelo,22458,West Virginia,George Fisher,13432,Michigan
+2016,02/12,Purdue - Michigan Dual,141,L,MD,10 - 1,Danny Sabatello,11741,Purdue,Zac Hall,20017,Michigan
+2016,02/07,Michigan - Rutgers Dual,141,L,DEC,2 - 0,Anthony Ashnault,11803,Rutgers,Zac Hall,20017,Michigan
+2016,01/24,Indiana - Michigan Dual,141,W,DEC,6 - 3,Cole Weaver,20529,Indiana,Zac Hall,20017,Michigan
+2016,01/01,Southern Scuffle,141,L,DEC,6 - 1,Connor Prince,41355,US Naval Academy Prep School,Zac Hall,20017,Michigan
+2016,01/01,Southern Scuffle,141,W,DEC,8 - 5,Michael Pongracz,11726,Chattanooga,Zac Hall,20017,Michigan
+2016,01/01,Southern Scuffle,141,W,DEC,6 - 3,Jimmy Gulibon,13371,Penn State,Zac Hall,20017,Michigan
+2016,01/01,Southern Scuffle,141,W,DEC,8 - 5,Eli Bienstock,11895,Cornell,Zac Hall,20017,Michigan
+2016,01/01,Southern Scuffle,141,L,MD,9 - 1,Zach Finesilver,19862,Duke,Zac Hall,20017,Michigan
+2016,01/01,Southern Scuffle,141,L,DEC,4 - 2,Dylan Realbuto,20539,Cornell,Malik Amine,14753,Michigan
+2016,01/01,Southern Scuffle,141,W,TF5,18 - 2 2:27,Evan Botwin,13361,Duke,Malik Amine,14753,Michigan
+2016,01/01,Southern Scuffle,141,W,MFOR,0 - 0,James Connell,40571,Navy,Malik Amine,14753,Michigan
+2016,01/01,Southern Scuffle,141,L,MD,9 - 0,Randy Cruz,11853,Lehigh,Malik Amine,14753,Michigan
+2016,12/12,Cleveland State Open,141,L,DEC,8 - 6,Joe Ghione,20590,Lock Haven,Malik Amine,14753,Michigan
+2016,12/12,Cleveland State Open,141,W,DEC,9 - 5,Tim Rooney,39949,Kent State,Malik Amine,14753,Michigan
+2016,12/12,Cleveland State Open,141,L,DEC,6 - 5,Ronnie Perry,12058,Lock Haven,Malik Amine,14753,Michigan
+2016,12/12,Cleveland State Open,141,W,MD,10 - 1,Zack Durbin,19967,Kent State,Malik Amine,14753,Michigan
+2016,12/12,Cleveland State Open,141,W,DEC,10 - 7,Buddy Scarborough,12186,Old Dominion,Malik Amine,14753,Michigan
+2016,11/07,Eastern Michigan Open,141,W,DEC,7 - 5,Michael Labry,22681,Ashland,Malik Amine,14753,Michigan
+2016,11/07,Eastern Michigan Open,141,W,DEC,7 - 4,Kyle Ayersman,11705,Purdue,Malik Amine,14753,Michigan
+2016,11/07,Eastern Michigan Open,141,L,FALL,4:06,Micah Jordan,20557,Ohio State,Malik Amine,14753,Michigan
+2016,11/07,Eastern Michigan Open,141,W,MD,13 - 5,Mike Hozan,15902,Ohio State,Malik Amine,14753,Michigan
+2016,11/07,Eastern Michigan Open,141,W,DEC,6 - 3,Cole Weaver,20529,Indiana,Malik Amine,14753,Michigan
+2016,01/23,Alma Open,141,W,DEC,4 - 1,Kyle Noonan,19757,Central Michigan,Cameron Kennedy,11656,Michigan
+2016,01/23,Alma Open,141,W,TF5,18 - 0 3:26,Trenton Roesly,44059,Adrian,Cameron Kennedy,11656,Michigan
+2016,01/23,Alma Open,141,W,FALL,1:49,Joey Baitt,24541,Heidelberg,Cameron Kennedy,11656,Michigan
+2016,01/23,Alma Open,141,W,MD,10 - 2,Dylan Dolph,22822,Ohio Northern,Cameron Kennedy,11656,Michigan
+2016,01/01,Southern Scuffle,141,L,TF5,15 - 0 6:54,Michael Longo,19624,Appalachian State,Cameron Kennedy,11656,Michigan
+2016,01/01,Southern Scuffle,141,L,DEC,8 - 3,Nicholas Gil,40255,Navy,Cameron Kennedy,11656,Michigan
+2016,11/07,Eastern Michigan Open,141,L,MFOR,0 - 0,Travis Salyer,20959,Tiffin University,Cameron Kennedy,11656,Michigan
+2016,11/07,Eastern Michigan Open,141,L,FALL,5:00,Nate Hagan,39830,Edinboro,Cameron Kennedy,11656,Michigan
+2016,01/01,Southern Scuffle,141,L,MD,19 - 10,Christian Monserrat,20473,West Virginia,Zehlin Storr,20023,Michigan
+2016,01/01,Southern Scuffle,141,L,MD,11 - 2,Tony DeAngelo,22458,West Virginia,Zehlin Storr,20023,Michigan
+2016,11/15,Michigan State Open,141,W,FALL,2:00,Jimmy Schroader,41909,Unattached,Zehlin Storr,20023,Michigan
+2016,11/15,Michigan State Open,141,L,DEC,9 - 6,Jason Isparides,40057,Northwestern,Zehlin Storr,20023,Michigan
+2016,11/15,Michigan State Open,141,L,FALL,4:54,Tyler Smith,22439,Bucknell,Zehlin Storr,20023,Michigan
+2016,11/07,Eastern Michigan Open,141,L,DEC,12 - 7,McCoy Kent,39791,Northern Illinois,Zehlin Storr,20023,Michigan
+2016,11/07,Eastern Michigan Open,141,W,DEC,9 - 3,Brad Green,40018,Northern Illinois,Zehlin Storr,20023,Michigan
+2016,11/07,Eastern Michigan Open,141,L,FALL,4:36,Micah Jordan,20557,Ohio State,Zehlin Storr,20023,Michigan
+2016,11/07,Eastern Michigan Open,141,W,DEC,3 - 2,Cole Weaver,20529,Indiana,Zehlin Storr,20023,Michigan
+2016,11/07,Eastern Michigan Open,141,W,MD,16 - 3,Joel Rosko,21119,Clarion,Zehlin Storr,20023,Michigan
+2016,11/07,Eastern Michigan Open,141,W,MD,9 - 1,Collin Vargo,41588,Central Michigan,Zehlin Storr,20023,Michigan
+2016,11/07,Eastern Michigan Open,141,W,DEC,9 - 7,Kyle Noonan,19757,Central Michigan,Zehlin Storr,20023,Michigan
+2016,03/17,NCAA Championships,149,L,FALL,3:30,Michael DePalma,13801,Kent State,Alec Pantaleo,20020,Michigan
+2016,03/17,NCAA Championships,149,L,FALL,2:49,Lavion Mayes,11599,Missouri,Alec Pantaleo,20020,Michigan
+2016,03/17,NCAA Championships,149,L,FALL,4:49,Zain Retherford,11781,Penn State,Alec Pantaleo,20020,Michigan
+2016,03/17,NCAA Championships,149,W,DEC,4 - 0,Jake Short,13599,Minnesota,Alec Pantaleo,20020,Michigan
+2016,03/17,NCAA Championships,149,W,DEC,8 - 3,Geordan Martinez,19690,Boise State,Alec Pantaleo,20020,Michigan
+2016,03/17,NCAA Championships,149,W,FALL,3:49,Matthew Cimato,11725,Drexel,Alec Pantaleo,20020,Michigan
+2016,03/05,Big Ten Championships,149,W,DEC,8 - 4,Jason Tsirtsis,13629,Northwestern,Alec Pantaleo,20020,Michigan
+2016,03/05,Big Ten Championships,149,L,FALL,2:46,Zain Retherford,11781,Penn State,Alec Pantaleo,20020,Michigan
+2016,03/05,Big Ten Championships,149,W,DEC,3 - 2,Jason Tsirtsis,13629,Northwestern,Alec Pantaleo,20020,Michigan
+2016,03/05,Big Ten Championships,149,W,DEC,4 - 1,Tyson Dippery,11750,Rutgers,Alec Pantaleo,20020,Michigan
+2016,03/05,Big Ten Championships,149,W,DEC,6 - 2,Tyson Dippery,11750,Rutgers,Alec Pantaleo,20020,Michigan
+2016,02/21,Virginia Tech - Michigan Dual,149,W,TF5,19 - 4 3:43,Sal Mastriani,13766,Virginia Tech,Alec Pantaleo,20020,Michigan
+2016,02/12,Purdue - Michigan Dual,149,W,MD,12 - 2,Jeremy Golding,44345,Purdue,Alec Pantaleo,20020,Michigan
+2016,02/07,Michigan - Rutgers Dual,149,W,MD,14 - 5,Tyson Dippery,11750,Rutgers,Alec Pantaleo,20020,Michigan
+2016,02/05,Michigan - Maryland Dual,149,W,DEC,5 - 1,Wade Hodges,39698,Maryland,Alec Pantaleo,20020,Michigan
+2016,01/31,Michigan - Penn State Dual,149,L,FALL,6:35,Zain Retherford,11781,Penn State,Alec Pantaleo,20020,Michigan
+2016,01/29,Northwestern - Michigan Dual,149,L,SV-1,4 - 2,Jason Tsirtsis,13629,Northwestern,Alec Pantaleo,20020,Michigan
+2016,01/24,Indiana - Michigan Dual,149,W,DEC,7 - 2,Luke Blanton,13850,Indiana,Alec Pantaleo,20020,Michigan
+2016,01/22,Central Michigan - Michigan Dual,149,W,DEC,10 - 4,Colin Heffernan,13795,Central Michigan,Alec Pantaleo,20020,Michigan
+2016,01/15,Illinois - Michigan Dual,149,W,DEC,5 - 2,Kyle Langenderfer,15698,Illinois,Alec Pantaleo,20020,Michigan
+2016,01/09,Michigan - Ohio State Dual,149,W,DEC,5 - 3,Hunter Stieber,11785,Ohio State,Alec Pantaleo,20020,Michigan
+2016,01/07,Oregon State - Michigan Dual,149,W,MD,18 - 4,Joey Delgado,11620,Oregon State,Alec Pantaleo,20020,Michigan
+2016,12/10,Michigan State - Michigan Dual,149,W,TF5,19 - 4 7:00,Mark Bozzo,20752,Michigan State,Alec Pantaleo,20020,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,149,W,TF5,15 - 0 5:38,Tyler Ponte,11946,Columbia,Alec Pantaleo,20020,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,149,W,DEC,7 - 2,Matt Kraus,11779,Arizona State,Alec Pantaleo,20020,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,149,W,FALL,1:47,Michael DePalma,13801,Kent State,Alec Pantaleo,20020,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,149,W,DEC,7 - 4,Geordan Martinez,19690,Boise State,Alec Pantaleo,20020,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,149,W,DEC,7 - 3,Cody Burcher,20243,Ohio State,Alec Pantaleo,20020,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,149,L,DEC,8 - 1,Davion Jeffries,39653,Oklahoma,Alec Pantaleo,20020,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,149,W,DEC,5 - 3,Joey Delgado,11620,Oregon State,Alec Pantaleo,20020,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,149,W,TF5,18 - 3 5:25,Tyler Ponte,11946,Columbia,Alec Pantaleo,20020,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,149,W,MD,14 - 3,Zachary Moore,39678,West Virginia,Alec Pantaleo,20020,Michigan
+2016,11/22,Oklahoma - Michigan Dual,149,L,DEC,4 - 3,Davion Jeffries,39653,Oklahoma,Alec Pantaleo,20020,Michigan
+2016,11/15,Michigan - Sacred Heart Dual,149,W,FALL,2:03,Jordan Velez,20837,Sacred Heart,Alec Pantaleo,20020,Michigan
+2016,11/15,Michigan - Hofstra Dual,149,W,MD,12 - 3,Aaron Hartman,19926,Hofstra,Alec Pantaleo,20020,Michigan
+2016,11/15,Michigan - West Virginia Dual,149,W,MD,18 - 5,Jake S Smith,20479,West Virginia,Alec Pantaleo,20020,Michigan
+2016,02/06,Edinboro Open,149,L,MFOR,0 - 0,Ty Millward,17929,West Virginia,Hunter Sharf,20021,Michigan
+2016,02/06,Edinboro Open,149,L,FALL,7:00,Jensen Lorea,20723,Edinboro,Hunter Sharf,20021,Michigan
+2016,11/15,Michigan State Open,149,L,DEC,3 - 2,Max Fisher,39996,Northern Illinois,Hunter Sharf,20021,Michigan
+2016,11/15,Michigan State Open,149,W,FALL,2:08,Avery Martin,25043,Lindsey Wilson,Hunter Sharf,20021,Michigan
+2016,11/15,Michigan State Open,149,L,DEC,8 - 4,Seth Elwood,41286,Notre Dame,Hunter Sharf,20021,Michigan
+2016,11/15,Michigan State Open,149,W,DEC,5 - 4,Nate Limmex,39663,Purdue,Hunter Sharf,20021,Michigan
+2016,11/07,Eastern Michigan Open,149,L,DEC,12 - 6,Zach Wilson,16742,Ohio,Hunter Sharf,20021,Michigan
+2016,11/07,Eastern Michigan Open,149,L,MD,9 - 1,Trevor Moody,11769,Indiana,Hunter Sharf,20021,Michigan
+2016,11/07,Eastern Michigan Open,149,W,FALL,4:05,Sean Caruso,40463,Clarion,Hunter Sharf,20021,Michigan
+2016,03/17,NCAA Championships,157,L,DEC,6 - 2,Thomas Gantt,40196,NC State,Brian Murphy,13518,Michigan
+2016,03/17,NCAA Championships,157,L,DEC,6 - 3,Ian Miller,11851,Kent State,Brian Murphy,13518,Michigan
+2016,03/17,NCAA Championships,157,W,DEC,4 - 0,Justin Staudenmayer,15115,Brown,Brian Murphy,13518,Michigan
+2016,03/17,NCAA Championships,157,W,DEC,8 - 7,Dylan Palacio,11481,Cornell,Brian Murphy,13518,Michigan
+2016,03/05,Big Ten Championships,157,L,DEC,5 - 4,Isaiah Martinez,13466,Illinois,Brian Murphy,13518,Michigan
+2016,03/05,Big Ten Championships,157,W,DEC,6 - 1,Jake Danishek,20520,Indiana,Brian Murphy,13518,Michigan
+2016,03/05,Big Ten Championships,157,W,FALL,5:25,Jake Ryan,20252,Ohio State,Brian Murphy,13518,Michigan
+2016,03/05,Big Ten Championships,157,W,TB-1,2 - 1,Edwin Cooper Jr,19947,Iowa,Brian Murphy,13518,Michigan
+2016,02/21,Virginia Tech - Michigan Dual,157,L,DEC,4 - 3,Nick Brascetta,14786,Virginia Tech,Brian Murphy,13518,Michigan
+2016,02/07,Michigan - Rutgers Dual,157,L,DEC,3 - 2,Richie Lewis,40042,Rutgers,Brian Murphy,13518,Michigan
+2016,02/05,Michigan - Maryland Dual,157,W,DEC,6 - 5,Lou Mascola,16743,Maryland,Brian Murphy,13518,Michigan
+2016,01/31,Michigan - Penn State Dual,157,L,TF5,22 - 6 6:14,Jason Nolf,20303,Penn State,Brian Murphy,13518,Michigan
+2016,01/29,Northwestern - Michigan Dual,157,W,FALL,1:03,Anthony Petrone,39585,Northwestern,Brian Murphy,13518,Michigan
+2016,01/22,Central Michigan - Michigan Dual,157,L,DEC,5 - 4,Luke Smith,13537,Central Michigan,Brian Murphy,13518,Michigan
+2016,01/15,Illinois - Michigan Dual,157,L,TF5,18 - 3 4:44,Isaiah Martinez,13466,Illinois,Brian Murphy,13518,Michigan
+2016,01/09,Michigan - Ohio State Dual,157,W,DEC,5 - 2,Justin Kresevic,14838,Ohio State,Brian Murphy,13518,Michigan
+2016,01/07,Oregon State - Michigan Dual,157,W,FALL,4:39,Abraham Rodriquez,42226,Oregon State,Brian Murphy,13518,Michigan
+2016,12/10,Michigan State - Michigan Dual,157,W,MD,14 - 2,Joe Johnson,13814,Michigan State,Brian Murphy,13518,Michigan
+2016,11/22,Oklahoma - Michigan Dual,157,L,INJ,7:00,Shayne Tucker,14788,Oklahoma,Brian Murphy,13518,Michigan
+2016,11/15,Michigan - West Virginia Dual,157,L,FALL,2:40,Dylan Cottrell,14019,West Virginia,Brian Murphy,13518,Michigan
+2016,03/05,Big Ten Championships,165,L,TF5,16 - 0 2:27,Chad Welch,11543,Purdue,Jordan Amine,20551,Michigan
+2016,03/05,Big Ten Championships,165,L,MD,12 - 4,Austin Wilson,11470,Nebraska,Jordan Amine,20551,Michigan
+2016,02/21,Virginia Tech - Michigan Dual,165,L,MD,13 - 4,David McFadden,39633,Virginia Tech,Jordan Amine,20551,Michigan
+2016,02/12,Purdue - Michigan Dual,157,L,MD,9 - 0,Doug Welch,14760,Purdue,Jordan Amine,20551,Michigan
+2016,01/01,Southern Scuffle,157,L,MD,13 - 0,Dylan Cottrell,14019,West Virginia,Jordan Amine,20551,Michigan
+2016,01/01,Southern Scuffle,157,W,DEC,11 - 9,Cameron Harrell,39705,Virginia,Jordan Amine,20551,Michigan
+2016,01/01,Southern Scuffle,157,W,DEC,8 - 4,Colt Shorts,11611,Cal Poly,Jordan Amine,20551,Michigan
+2016,01/01,Southern Scuffle,157,L,DEC,10 - 8,Chris Dowdy,15303,Cornell,Jordan Amine,20551,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,157,W,SV-1,1 - 0,Oliver Pierce,20578,Arizona State,Jordan Amine,20551,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,157,L,DEC,4 - 3,Luke Fortuna,39654,Missouri,Jordan Amine,20551,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,157,L,DEC,7 - 3,Bryce Steiert,39504,Northern Iowa,Jordan Amine,20551,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,157,W,SV-2,7 - 1,Oliver Pierce,20578,Arizona State,Jordan Amine,20551,Michigan
+2016,11/15,Michigan - Sacred Heart Dual,157,L,DEC,10 - 6,Matt Fisher,15127,Sacred Heart,Jordan Amine,20551,Michigan
+2016,11/15,Michigan - Hofstra Dual,157,L,DEC,8 - 6,Jahlani Callender,13882,Hofstra,Jordan Amine,20551,Michigan
+2016,11/07,Eastern Michigan Open,157,W,DEC,5 - 2,Joey White,21014,Findlay,Jordan Amine,20551,Michigan
+2016,11/07,Eastern Michigan Open,157,W,DEC,7 - 1,Matt Pasqualini,15825,Michigan State,Jordan Amine,20551,Michigan
+2016,11/07,Eastern Michigan Open,157,L,DEC,6 - 4,Gavin Murray,39788,Purdue,Jordan Amine,20551,Michigan
+2016,11/07,Eastern Michigan Open,157,W,DEC,6 - 0,Anthony DeCarlo,20244,Ohio State,Jordan Amine,20551,Michigan
+2016,11/07,Eastern Michigan Open,157,L,DEC,6 - 3,Carver James,39662,Illinois,Jordan Amine,20551,Michigan
+2016,11/07,Eastern Michigan Open,157,W,DEC,7 - 2,Kaleb Rahoi,41583,Central Michigan,Jordan Amine,20551,Michigan
+2016,02/06,Edinboro Open,157,L,DEC,3 - 1,Jacob Trujillo,41414,Spartan Combat RTC,Cody VanderHagen,13887,Michigan
+2016,02/06,Edinboro Open,157,L,MD,8 - 0,Mark Bozzo,20752,Michigan State,Cody VanderHagen,13887,Michigan
+2016,02/06,Edinboro Open,157,W,SV-1,1 - 0,Matt Pasqualini,15825,Michigan State,Cody VanderHagen,13887,Michigan
+2016,01/24,Indiana - Michigan Dual,157,L,DEC,10 - 3,Jake Danishek,20520,Indiana,Cody VanderHagen,13887,Michigan
+2016,01/23,Alma Open,157,L,TB-1,2 - 1,Kaleb Rahoi,41583,Central Michigan,Cody VanderHagen,13887,Michigan
+2016,01/23,Alma Open,157,W,DEC,3 - 2,Dillon Ellsworth,40450,Michigan State,Cody VanderHagen,13887,Michigan
+2016,01/23,Alma Open,157,W,DEC,3 - 2,Logan Parks,40153,Central Michigan,Cody VanderHagen,13887,Michigan
+2016,01/23,Alma Open,157,W,DEC,7 - 3,Noah Messerall,24567,Heidelberg,Cody VanderHagen,13887,Michigan
+2016,11/15,Michigan State Open,157,L,DEC,8 - 2,Tevin Machart,19755,Central Michigan,Cody VanderHagen,13887,Michigan
+2016,11/15,Michigan State Open,157,W,DEC,3 - 1,Anthony Long,22532,Olivet,Cody VanderHagen,13887,Michigan
+2016,11/15,Michigan State Open,157,L,MD,10 - 2,Cam Tessari,41914,Lindsey Wilson,Cody VanderHagen,13887,Michigan
+2016,11/15,Michigan State Open,157,W,DEC,4 - 3,Logan Kerin,11850,Bucknell,Cody VanderHagen,13887,Michigan
+2016,11/07,Eastern Michigan Open,157,L,DEC,3 - 2,Joey White,21014,Findlay,Cody VanderHagen,13887,Michigan
+2016,11/07,Eastern Michigan Open,157,L,DEC,7 - 3,Jake Ryan,20252,Ohio State,Cody VanderHagen,13887,Michigan
+2016,11/07,Eastern Michigan Open,157,W,DEC,9 - 3,Jacob Spino,41637,Kent State,Cody VanderHagen,13887,Michigan
+2016,02/12,Purdue - Michigan Dual,165,L,DEC,7 - 6,Chad Welch,11543,Purdue,Garrett Sutton,20024,Michigan
+2016,02/07,Michigan - Rutgers Dual,165,L,MD,13 - 1,Anthony Perrotti,13752,Rutgers,Garrett Sutton,20024,Michigan
+2016,02/05,Michigan - Maryland Dual,165,W,DEC,5 - 2,Brendan Burnham,39821,Maryland,Garrett Sutton,20024,Michigan
+2016,01/31,Michigan - Penn State Dual,165,L,DEC,6 - 5,Shakur Rasheed,20305,Penn State,Garrett Sutton,20024,Michigan
+2016,01/29,Northwestern - Michigan Dual,165,W,DEC,8 - 3,Luke Norland,39578,Northwestern,Garrett Sutton,20024,Michigan
+2016,01/24,Indiana - Michigan Dual,165,W,DEC,6 - 2,Eric Roach,13723,Indiana,Garrett Sutton,20024,Michigan
+2016,01/22,Central Michigan - Michigan Dual,165,L,DEC,7 - 3,Jordan Atienza,19747,Central Michigan,Garrett Sutton,20024,Michigan
+2016,01/15,Illinois - Michigan Dual,165,L,DEC,10 - 3,Steven Rodrigues,11888,Illinois,Garrett Sutton,20024,Michigan
+2016,01/09,Michigan - Ohio State Dual,165,L,TF5,19 - 4 7:00,Bo Jordan,14840,Ohio State,Garrett Sutton,20024,Michigan
+2016,01/07,Oregon State - Michigan Dual,165,L,DEC,7 - 4,Seth Thomas,18159,Oregon State,Garrett Sutton,20024,Michigan
+2016,12/10,Michigan State - Michigan Dual,165,W,INJ,7:00,Travis Curley,14841,Michigan State,Garrett Sutton,20024,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,165,L,DEC,2 - 1,Devon Gobbo,18139,Harvard,Garrett Sutton,20024,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,165,L,DEC,1 - 0,Isaac Jordan,13465,Wisconsin,Garrett Sutton,20024,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,165,W,DEC,6 - 4,Brandon Krone,20038,Minnesota,Garrett Sutton,20024,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,165,W,DEC,8 - 3,Robert Schlitt,11503,Bucknell,Garrett Sutton,20024,Michigan
+2016,11/22,Oklahoma - Michigan Dual,165,L,DEC,3 - 2,Clark Glass,11488,Oklahoma,Garrett Sutton,20024,Michigan
+2016,11/15,Michigan - Sacred Heart Dual,165,W,MD,16 - 4,Johnny Vrasidas,12811,Sacred Heart,Garrett Sutton,20024,Michigan
+2016,11/15,Michigan - Hofstra Dual,165,W,DEC,8 - 2,Bobby Fehr,19925,Hofstra,Garrett Sutton,20024,Michigan
+2016,11/15,Michigan - West Virginia Dual,165,W,SV-1,3 - 1,Ross Renzi,11474,West Virginia,Garrett Sutton,20024,Michigan
+2016,01/01,Southern Scuffle,165,L,DEC,8 - 2,Alex Dieringer,13470,Oklahoma State,Logan Massa,39517,Michigan
+2016,01/01,Southern Scuffle,165,W,DEC,7 - 3,Duke Pickett,12281,Cornell,Logan Massa,39517,Michigan
+2016,01/01,Southern Scuffle,165,W,DEC,6 - 0,Tyler Marinelli,20797,Gardner-Webb,Logan Massa,39517,Michigan
+2016,01/01,Southern Scuffle,165,W,DEC,5 - 3,Shakur Rasheed,20305,Penn State,Logan Massa,39517,Michigan
+2016,01/01,Southern Scuffle,165,W,TF5,22 - 5 5:53,Alexandre Lopouchanski,39855,Air Force,Logan Massa,39517,Michigan
+2016,11/15,Michigan State Open,165,W,TF5,21 - 6 6:17,Jordan Atienza,19747,Central Michigan,Logan Massa,39517,Michigan
+2016,11/15,Michigan State Open,165,W,TF5,17 - 2 4:33,Nicholas Skonieczny,22716,Findlay,Logan Massa,39517,Michigan
+2016,11/15,Michigan State Open,165,W,DEC,14 - 9,Forrest Przybysz,12877,Appalachian State,Logan Massa,39517,Michigan
+2016,11/15,Michigan State Open,165,W,FALL,1:09,Chad Welch,11543,Purdue,Logan Massa,39517,Michigan
+2016,11/07,Eastern Michigan Open,165,W,FALL,1:32,Dan Andress,40017,Northern Illinois,Logan Massa,39517,Michigan
+2016,11/07,Eastern Michigan Open,165,W,TF5,21 - 6 5:54,Andrew Hoselton,41640,Purdue,Logan Massa,39517,Michigan
+2016,11/07,Eastern Michigan Open,165,W,FALL,6:38,Arsen Ashughyan,20225,Ohio,Logan Massa,39517,Michigan
+2016,11/07,Eastern Michigan Open,165,W,MD,15 - 5,Devin Skatzka,39603,Indiana,Logan Massa,39517,Michigan
+2016,11/07,Eastern Michigan Open,165,W,MD,15 - 6,Jordan Atienza,19747,Central Michigan,Logan Massa,39517,Michigan
+2016,02/06,Edinboro Open,174,W,FALL,4:00,Michael Pavasko,14800,Clarion,Myles Amine,39586,Michigan
+2016,02/06,Edinboro Open,174,L,DEC,6 - 5,Christian Brucki,20980,Central Michigan,Myles Amine,39586,Michigan
+2016,02/06,Edinboro Open,174,W,FALL,5:47,Dean Sherry,40019,Rider,Myles Amine,39586,Michigan
+2016,02/06,Edinboro Open,174,W,TF5,15 - 0 6:46,Davis Solak,21310,Alderson-Broaddus University,Myles Amine,39586,Michigan
+2016,02/06,Edinboro Open,174,W,DEC,6 - 1,Ryan Kromer,19722,Buffalo,Myles Amine,39586,Michigan
+2016,02/06,Edinboro Open,174,W,DEC,7 - 4,Dylan Wisman,39507,Missouri,Myles Amine,39586,Michigan
+2016,01/23,Alma Open,174,L,MD,12 - 4,Christian Brucki,20980,Central Michigan,Myles Amine,39586,Michigan
+2016,01/23,Alma Open,174,W,DEC,3 - 0,Hunter Rollins,19760,Central Michigan,Myles Amine,39586,Michigan
+2016,01/23,Alma Open,174,W,MD,15 - 3,Chad Decker,20747,Eastern Michigan,Myles Amine,39586,Michigan
+2016,01/23,Alma Open,174,W,FALL,1:03,Roderick Howard,24561,Alma College,Myles Amine,39586,Michigan
+2016,12/12,Cleveland State Open,165,W,MD,11 - 3,Jordan Atienza,19747,Central Michigan,Myles Amine,39586,Michigan
+2016,12/12,Cleveland State Open,165,W,MD,14 - 4,Derek Holcomb,19720,Buffalo,Myles Amine,39586,Michigan
+2016,12/12,Cleveland State Open,165,W,FALL,3:42,Garrett Smith,42508,Gannon,Myles Amine,39586,Michigan
+2016,12/12,Cleveland State Open,165,W,DEC,8 - 3,Jared Walker,39690,Kent State,Myles Amine,39586,Michigan
+2016,12/12,Cleveland State Open,165,W,TF5,21 - 6 7:00,Kade Kitchens,40676,Shorter,Myles Amine,39586,Michigan
+2016,03/05,Big Ten Championships,174,L,MD,9 - 1,Mitch Sliga,12522,Northwestern,Aaron Calderon,16726,Michigan
+2016,03/05,Big Ten Championships,174,L,TF5,22 - 6 4:55,Nate Jackson,12264,Indiana,Aaron Calderon,16726,Michigan
+2016,03/05,Big Ten Championships,174,W,DEC,11 - 4,Andrew Hoselton,41640,Purdue,Aaron Calderon,16726,Michigan
+2016,03/05,Big Ten Championships,174,L,DEC,10 - 3,Micah Barnes,16164,Nebraska,Aaron Calderon,16726,Michigan
+2016,02/21,Virginia Tech - Michigan Dual,174,L,TF5,20 - 5 4:10,Zach Epperly,12258,Virginia Tech,Aaron Calderon,16726,Michigan
+2016,02/12,Purdue - Michigan Dual,174,W,DEC,8 - 3,Jacob Morrissey,12818,Purdue,Aaron Calderon,16726,Michigan
+2016,02/07,Michigan - Rutgers Dual,174,L,FALL,2:49,Phillip Bakuckas,12289,Rutgers,Aaron Calderon,16726,Michigan
+2016,02/05,Michigan - Maryland Dual,174,W,FALL,5:00,Josh Snook,14801,Maryland,Aaron Calderon,16726,Michigan
+2016,01/23,Alma Open,157,W,DEC,4 - 3,Logan Parks,40153,Central Michigan,Aaron Calderon,16726,Michigan
+2016,01/23,Alma Open,157,W,FALL,5:43,Dillon Ellsworth,40450,Michigan State,Aaron Calderon,16726,Michigan
+2016,01/23,Alma Open,157,W,FALL,5:54,Dominic Trevino,44063,Davenport,Aaron Calderon,16726,Michigan
+2016,01/23,Alma Open,157,W,TF5,18 - 2 6:02,James Pace,44062,Adrian,Aaron Calderon,16726,Michigan
+2016,01/23,Alma Open,157,L,FALL,6:21,Tevin Machart,19755,Central Michigan,Aaron Calderon,16726,Michigan
+2016,11/15,Michigan State Open,165,L,DEC,9 - 4,Devin Skatzka,39603,Indiana,Aaron Calderon,16726,Michigan
+2016,11/15,Michigan State Open,165,L,DEC,5 - 2,Robert Schlitt,11503,Bucknell,Aaron Calderon,16726,Michigan
+2016,01/31,Michigan - Penn State Dual,174,L,INJ,7:00,Bo Nickal,20302,Penn State,Davonte Mahomes,20019,Michigan
+2016,01/29,Northwestern - Michigan Dual,174,W,MD,12 - 4,Mitch Sliga,12522,Northwestern,Davonte Mahomes,20019,Michigan
+2016,01/24,Indiana - Michigan Dual,174,W,DEC,9 - 8,Nate Jackson,12264,Indiana,Davonte Mahomes,20019,Michigan
+2016,01/22,Central Michigan - Michigan Dual,174,L,DEC,8 - 4,Mike Ottinger,12372,Central Michigan,Davonte Mahomes,20019,Michigan
+2016,01/15,Illinois - Michigan Dual,174,W,MD,12 - 3,Emery Parker,19939,Illinois,Davonte Mahomes,20019,Michigan
+2016,01/09,Michigan - Ohio State Dual,174,W,SV-1,3 - 1,Myles Martin,39622,Ohio State,Davonte Mahomes,20019,Michigan
+2016,01/07,Oregon State - Michigan Dual,174,W,MD,14 - 2,Tyler Chay,18454,Oregon State,Davonte Mahomes,20019,Michigan
+2016,12/10,Michigan State - Michigan Dual,174,W,DEC,11 - 4,Shane Shadaia,20758,Michigan State,Davonte Mahomes,20019,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,174,W,SV-1,1 - 0,Matt Reed,15381,Oklahoma,Davonte Mahomes,20019,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,174,W,SV-1,1 - 0,Jack McKeever,12791,Binghamton,Davonte Mahomes,20019,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,174,L,FALL,0:57,Rustin Barrick,11515,Bucknell,Davonte Mahomes,20019,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,174,L,DEC,6 - 3,Brian Harvey,12302,Army West Point,Davonte Mahomes,20019,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,174,W,SV-1,6 - 4,Matt Reed,15381,Oklahoma,Davonte Mahomes,20019,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,174,W,SV-1,3 - 1,Jack McKeever,12791,Binghamton,Davonte Mahomes,20019,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,174,W,MD,13 - 5,Ross Taylor,15548,Utah Valley,Davonte Mahomes,20019,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,174,L,SV-1,10 - 8,Lelund Weatherspoon,12283,Iowa State,Davonte Mahomes,20019,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,174,W,DEC,10 - 4,Austin Dewey,12380,Boise State,Davonte Mahomes,20019,Michigan
+2016,11/22,Oklahoma - Michigan Dual,174,L,DEC,14 - 7,Matt Reed,15381,Oklahoma,Davonte Mahomes,20019,Michigan
+2016,11/15,Michigan - Sacred Heart Dual,174,W,DEC,9 - 5,Conan Schuster,15022,Sacred Heart,Davonte Mahomes,20019,Michigan
+2016,11/15,Michigan - Hofstra Dual,174,L,SV-2,3 - 2,Frank Affronti,12301,Hofstra,Davonte Mahomes,20019,Michigan
+2016,11/15,Michigan - West Virginia Dual,174,L,DEC,9 - 7,Weston Parker VonEgidy,23919,West Virginia,Davonte Mahomes,20019,Michigan
+2016,03/17,NCAA Championships,184,W,TB-2,3 - 2,Hayden Zillmer,12280,North Dakota State,Domenic Abounader,12523,Michigan
+2016,03/17,NCAA Championships,184,W,TB-1,3 - 1,Corey Griego,20292,Oregon State,Domenic Abounader,12523,Michigan
+2016,03/17,NCAA Championships,184,L,SV-1,4 - 2,Pete Renda,12371,NC State,Domenic Abounader,12523,Michigan
+2016,03/17,NCAA Championships,184,W,MD,8 - 0,Jeff Koepke,12676,Illinois,Domenic Abounader,12523,Michigan
+2016,03/17,NCAA Championships,184,L,DEC,13 - 7,Sammy Brooks,12589,Iowa,Domenic Abounader,12523,Michigan
+2016,03/05,Big Ten Championships,184,W,DEC,9 - 2,Jeff Koepke,12676,Illinois,Domenic Abounader,12523,Michigan
+2016,03/05,Big Ten Championships,184,W,MD,9 - 1,Ryan Christensen,20481,Wisconsin,Domenic Abounader,12523,Michigan
+2016,03/05,Big Ten Championships,184,L,DEC,4 - 1,TJ Dudley,12526,Nebraska,Domenic Abounader,12523,Michigan
+2016,03/05,Big Ten Championships,184,W,MD,11 - 0,Nicholas Gravina,20360,Rutgers,Domenic Abounader,12523,Michigan
+2016,02/21,Virginia Tech - Michigan Dual,184,W,TB-1,5 - 3,Zack Zavatsky,20460,Virginia Tech,Domenic Abounader,12523,Michigan
+2016,02/12,Purdue - Michigan Dual,184,W,MD,11 - 2,Tanner Lynde,12514,Purdue,Domenic Abounader,12523,Michigan
+2016,02/07,Michigan - Rutgers Dual,184,W,TF5,16 - 0 7:00,Anthony Pafumi,12873,Rutgers,Domenic Abounader,12523,Michigan
+2016,02/05,Michigan - Maryland Dual,184,W,MD,10 - 2,Jaron Smith,41353,Maryland,Domenic Abounader,12523,Michigan
+2016,01/31,Michigan - Penn State Dual,184,W,DEC,9 - 2,Brian Brill,40239,Penn State,Domenic Abounader,12523,Michigan
+2016,01/29,Northwestern - Michigan Dual,184,W,FALL,1:56,Regis Durbin,20220,Northwestern,Domenic Abounader,12523,Michigan
+2016,01/24,Indiana - Michigan Dual,184,W,FALL,1:16,Wyatt Wilson,16230,Indiana,Domenic Abounader,12523,Michigan
+2016,01/22,Central Michigan - Michigan Dual,184,W,TF5,15 - 0 6:11,Jordan Ellingwood,14564,Central Michigan,Domenic Abounader,12523,Michigan
+2016,01/15,Illinois - Michigan Dual,184,W,DEC,8 - 2,Jeff Koepke,12676,Illinois,Domenic Abounader,12523,Michigan
+2016,01/09,Michigan - Ohio State Dual,184,W,DEC,5 - 0,Kenny Courts,12279,Ohio State,Domenic Abounader,12523,Michigan
+2016,01/07,Oregon State - Michigan Dual,184,W,DEC,10 - 4,Corey Griego,20292,Oregon State,Domenic Abounader,12523,Michigan
+2016,12/10,Michigan State - Michigan Dual,184,W,FALL,4:40,Wesley Maskill,20755,Michigan State,Domenic Abounader,12523,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,184,L,MD,15 - 6,Gabe Dean,12580,Cornell,Domenic Abounader,12523,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,184,W,DEC,5 - 4,Zack Zavatsky,20460,Virginia Tech,Domenic Abounader,12523,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,184,W,DEC,3 - 0,Kenny Courts,12279,Ohio State,Domenic Abounader,12523,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,184,W,FALL,2:21,Chase Campbell,43176,North Idaho College,Domenic Abounader,12523,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,184,W,DEC,9 - 3,Cole Baxter,13065,Kent State,Domenic Abounader,12523,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,184,W,DEC,9 - 4,Johnathon Costa,21778,San Francisco State,Domenic Abounader,12523,Michigan
+2016,11/22,Oklahoma - Michigan Dual,184,W,DEC,8 - 1,Joel Dixon,20810,Oklahoma,Domenic Abounader,12523,Michigan
+2016,11/15,Michigan - Sacred Heart Dual,184,W,FALL,1:07,Elliott Antler,20824,Sacred Heart,Domenic Abounader,12523,Michigan
+2016,11/15,Michigan - West Virginia Dual,184,W,DEC,5 - 1,Bubba Scheffel,20475,West Virginia,Domenic Abounader,12523,Michigan
+2016,01/01,Southern Scuffle,184,L,MD,13 - 4,John Lampe,12444,Chattanooga,Ben Ralston,12901,Michigan
+2016,01/01,Southern Scuffle,184,W,DEC,12 - 6,Wesley Maskill,20755,Michigan State,Ben Ralston,12901,Michigan
+2016,01/01,Southern Scuffle,184,W,DEC,7 - 3,Robert Mannier,20614,Navy,Ben Ralston,12901,Michigan
+2016,01/01,Southern Scuffle,184,L,DEC,5 - 4,Bubba Scheffel,20475,West Virginia,Ben Ralston,12901,Michigan
+2016,01/01,Southern Scuffle,184,W,DEC,2 - 1,Stephen Loiseau,19851,Drexel,Ben Ralston,12901,Michigan
+2016,11/15,Michigan - Hofstra Dual,184,W,DEC,3 - 0,Cory Damiana,19923,Hofstra,Ben Ralston,12901,Michigan
+2016,02/06,Edinboro Open,184,L,MFOR,0 - 0,Derrick Washington,20730,Edinboro,Ernest Battaglia,12891,Michigan
+2016,02/06,Edinboro Open,184,L,INJ,7:00,Ryan Wosick,39793,Pennsylvania,Ernest Battaglia,12891,Michigan
+2016,01/23,Alma Open,184,W,MD,15 - 7,Tyler Blagg,43420,Muskegon Community College,Ernest Battaglia,12891,Michigan
+2016,01/23,Alma Open,184,W,DEC,8 - 4,Norman Conley,39929,Indiana,Ernest Battaglia,12891,Michigan
+2016,01/23,Alma Open,184,L,DEC,13 - 11,Wesley Maskill,20755,Michigan State,Ernest Battaglia,12891,Michigan
+2016,01/23,Alma Open,184,W,TF5,16 - 1 4:43,Drake Vanderberg,44065,Adrian,Ernest Battaglia,12891,Michigan
+2016,01/23,Alma Open,184,W,FALL,3:56,Austin Windle,44064,Ohio Northern,Ernest Battaglia,12891,Michigan
+2016,11/07,Eastern Michigan Open,184,W,DEC,10 - 3,Brendan Winning,41662,Lake Erie College,Ernest Battaglia,12891,Michigan
+2016,11/07,Eastern Michigan Open,184,W,FALL,2:51,Ty Lehman,41615,Unattached,Ernest Battaglia,12891,Michigan
+2016,11/07,Eastern Michigan Open,184,L,INJ,7:00,Charlie Keenan,12480,Kent State,Ernest Battaglia,12891,Michigan
+2016,11/07,Eastern Michigan Open,184,L,DEC,13 - 8,Danny Hicks,16403,Illinois,Ernest Battaglia,12891,Michigan
+2016,03/17,NCAA Championships,197,L,FALL,2:16,Brett Harner,12294,Princeton,Max Huntley,12662,Michigan
+2016,03/17,NCAA Championships,197,L,DQ,0 - 0,Phil Sprenkle,13062,Lock Haven,Max Huntley,12662,Michigan
+2016,03/17,NCAA Championships,197,W,DEC,8 - 4,Bryce Barnes,13133,Army West Point,Max Huntley,12662,Michigan
+2016,03/05,Big Ten Championships,197,W,TF5,16 - 0 5:18,Drake Stein,14284,Purdue,Max Huntley,12662,Michigan
+2016,03/05,Big Ten Championships,197,W,MD,14 - 3,Eric Peissig,16414,Wisconsin,Max Huntley,12662,Michigan
+2016,03/05,Big Ten Championships,197,L,TF5,17 - 2 7:00,Aaron Studebaker,12422,Nebraska,Max Huntley,12662,Michigan
+2016,03/05,Big Ten Championships,197,L,DEC,8 - 3,Brett Pfarr,12441,Minnesota,Max Huntley,12662,Michigan
+2016,03/05,Big Ten Championships,197,W,FALL,5:52,Hayden Hrymack,13118,Rutgers,Max Huntley,12662,Michigan
+2016,02/21,Virginia Tech - Michigan Dual,197,L,DEC,5 - 1,Jared Haught,13085,Virginia Tech,Max Huntley,12662,Michigan
+2016,02/12,Purdue - Michigan Dual,197,W,TF5,16 - 1 5:20,Drake Stein,14284,Purdue,Max Huntley,12662,Michigan
+2016,02/07,Michigan - Rutgers Dual,197,W,FALL,2:09,Hayden Hrymack,13118,Rutgers,Max Huntley,12662,Michigan
+2016,02/05,Michigan - Maryland Dual,197,W,TF5,17 - 0 4:09,Sean Twigg,14162,Maryland,Max Huntley,12662,Michigan
+2016,01/29,Northwestern - Michigan Dual,197,W,DEC,8 - 5,Jacob Berkowitz,12585,Northwestern,Max Huntley,12662,Michigan
+2016,01/24,Indiana - Michigan Dual,197,W,FALL,4:24,Jake Masengale,19944,Indiana,Max Huntley,12662,Michigan
+2016,01/22,Central Michigan - Michigan Dual,197,W,DEC,12 - 6,Jackson Lewis,13107,Central Michigan,Max Huntley,12662,Michigan
+2016,01/15,Illinois - Michigan Dual,197,W,FALL,2:40,Andre Lee,19938,Illinois,Max Huntley,12662,Michigan
+2016,01/09,Michigan - Ohio State Dual,197,W,DEC,8 - 3,Mark Martin,12338,Ohio State,Max Huntley,12662,Michigan
+2016,01/07,Oregon State - Michigan Dual,197,W,MD,12 - 2,Cody Crawford,16468,Oregon State,Max Huntley,12662,Michigan
+2016,12/10,Michigan State - Michigan Dual,197,W,TF5,22 - 7 6:28,Jacob Cooper,39640,Michigan State,Max Huntley,12662,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,197,W,DEC,10 - 3,Jared Haught,13085,Virginia Tech,Max Huntley,12662,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,197,L,FALL,4:14,Reuben Franklin,13142,CSU Bakersfield,Max Huntley,12662,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,197,L,MD,13 - 3,Brett Pfarr,12441,Minnesota,Max Huntley,12662,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,197,W,DEC,7 - 2,Trent Noon,12471,Northern Colorado,Max Huntley,12662,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,197,W,FALL,4:26,Kyle Conel,19973,Kent State,Max Huntley,12662,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,197,W,MD,14 - 4,Jared Bartel,12953,Northern Iowa,Max Huntley,12662,Michigan
+2016,11/22,Oklahoma - Michigan Dual,197,W,DEC,8 - 6,Brad Johnson,16410,Oklahoma,Max Huntley,12662,Michigan
+2016,11/15,Michigan - Sacred Heart Dual,197,W,FALL,4:01,Sasha Oliinyk,20833,Sacred Heart,Max Huntley,12662,Michigan
+2016,11/15,Michigan - Hofstra Dual,197,W,FALL,1:08,Omar Haddad,40070,Hofstra,Max Huntley,12662,Michigan
+2016,11/15,Michigan - West Virginia Dual,197,W,DEC,5 - 3,Jake A Smith,23323,West Virginia,Max Huntley,12662,Michigan
+2016,02/06,Edinboro Open,197,W,DEC,4 - 3,Warren Bosch,17928,Edinboro,Jackson Striggow,39831,Michigan
+2016,02/06,Edinboro Open,197,W,DEC,3 - 1,Nathanael Rose,39657,Buffalo,Jackson Striggow,39831,Michigan
+2016,02/06,Edinboro Open,197,W,DEC,2 - 0,Lance Benick,39510,Arizona State,Jackson Striggow,39831,Michigan
+2016,02/06,Edinboro Open,197,L,DEC,5 - 4,Josh DaSilveira,13017,Arizona State,Jackson Striggow,39831,Michigan
+2016,02/06,Edinboro Open,197,W,DEC,9 - 4,Michael Oxley,19929,Hofstra,Jackson Striggow,39831,Michigan
+2016,01/23,Alma Open,197,W,DEC,5 - 3,Tyrus Kemp,19753,Central Michigan,Jackson Striggow,39831,Michigan
+2016,01/23,Alma Open,197,W,DEC,9 - 2,Jared Langley,39781,Eastern Michigan,Jackson Striggow,39831,Michigan
+2016,01/23,Alma Open,197,W,TF5,16 - 1 5:10,Baker Hadwan,44066,Muskegon Community College,Jackson Striggow,39831,Michigan
+2016,01/17,Purple Raider Open,197,L,DEC,13 - 6,Kollin Moore,39638,Ohio State,Jackson Striggow,39831,Michigan
+2016,01/17,Purple Raider Open,197,W,DEC,5 - 3,Nathanael Rose,39657,Buffalo,Jackson Striggow,39831,Michigan
+2016,01/17,Purple Raider Open,197,W,DEC,3 - 1,James Russell,20968,Michigan State,Jackson Striggow,39831,Michigan
+2016,01/17,Purple Raider Open,197,W,MD,11 - 1,Jared Langley,39781,Eastern Michigan,Jackson Striggow,39831,Michigan
+2016,01/17,Purple Raider Open,197,W,DEC,11 - 6,Nate Hall,41646,Ohio,Jackson Striggow,39831,Michigan
+2016,12/12,Cleveland State Open,197,L,DEC,10 - 9,Sam Wheeler,40908,Cleveland State,Jackson Striggow,39831,Michigan
+2016,12/12,Cleveland State Open,197,W,MD,9 - 1,Nate Hall,41646,Ohio,Jackson Striggow,39831,Michigan
+2016,12/12,Cleveland State Open,197,W,DEC,3 - 1,Warren Bosch,17928,Edinboro,Jackson Striggow,39831,Michigan
+2016,12/12,Cleveland State Open,197,W,MD,11 - 2,Diallo Matsimela,40155,Central Michigan,Jackson Striggow,39831,Michigan
+2016,12/12,Cleveland State Open,197,L,DEC,7 - 6,Gray Jones,12449,Gardner-Webb,Jackson Striggow,39831,Michigan
+2016,11/15,Michigan State Open,197,W,FALL,4:41,Allen Steele,41947,Unattached,Jackson Striggow,39831,Michigan
+2016,11/15,Michigan State Open,197,W,MD,9 - 0,James Russell,20968,Michigan State,Jackson Striggow,39831,Michigan
+2016,11/15,Michigan State Open,197,W,DEC,8 - 2,Matthew Okaiye,20756,Michigan State,Jackson Striggow,39831,Michigan
+2016,11/15,Michigan State Open,197,W,DEC,5 - 2,Nate Hall,41646,Ohio,Jackson Striggow,39831,Michigan
+2016,11/07,Eastern Michigan Open,197,L,DEC,2 - 0,Matthew O'Hara,20251,Ohio State,Jackson Striggow,39831,Michigan
+2016,11/07,Eastern Michigan Open,197,L,MD,15 - 6,Kollin Moore,39638,Ohio State,Jackson Striggow,39831,Michigan
+2016,11/07,Eastern Michigan Open,197,W,MD,12 - 4,Fletcher Miller,20525,Indiana,Jackson Striggow,39831,Michigan
+2016,11/07,Eastern Michigan Open,197,W,DEC,4 - 0,Jared Langley,39781,Eastern Michigan,Jackson Striggow,39831,Michigan
+2016,11/07,Eastern Michigan Open,197,W,DEC,7 - 0,Diallo Matsimela,40155,Central Michigan,Jackson Striggow,39831,Michigan
+2016,03/05,National Collegiate Open,197,L,MD,11 - 1,Luke Greenberg,40015,Northern Illinois,Ty Wildmo,39764,Michigan
+2016,03/17,NCAA Championships,285,W,FALL,7:57,Ty Walz,14246,Virginia Tech,Adam Coon,14123,Michigan
+2016,03/17,NCAA Championships,285,W,FALL,0:48,Amarveer Dhesi,14223,Oregon State,Adam Coon,14123,Michigan
+2016,03/17,NCAA Championships,285,L,DEC,3 - 2,Nick Gwiazdowski,14221,NC State,Adam Coon,14123,Michigan
+2016,03/17,NCAA Championships,285,W,DEC,3 - 2,Austin Marsden,14130,Oklahoma State,Adam Coon,14123,Michigan
+2016,03/17,NCAA Championships,285,W,MD,10 - 2,Ross Larson,14299,Oklahoma,Adam Coon,14123,Michigan
+2016,03/17,NCAA Championships,285,W,FALL,4:22,Patrick Gillen,13125,Virginia,Adam Coon,14123,Michigan
+2016,03/05,Big Ten Championships,285,W,FALL,0:38,Brock Horwath,16995,Wisconsin,Adam Coon,14123,Michigan
+2016,03/05,Big Ten Championships,285,W,MD,14 - 4,Garret Goldman,18200,Indiana,Adam Coon,14123,Michigan
+2016,03/05,Big Ten Championships,285,W,TB-2,3 - 2,Michael Kroells,14331,Minnesota,Adam Coon,14123,Michigan
+2016,03/05,Big Ten Championships,285,L,DEC,7 - 4,Kyle Snyder,20253,Ohio State,Adam Coon,14123,Michigan
+2016,02/21,Virginia Tech - Michigan Dual,285,L,DEC,3 - 2,Ty Walz,14246,Virginia Tech,Adam Coon,14123,Michigan
+2016,02/12,Purdue - Michigan Dual,285,W,INJ,7:00,Tyler Kral,14261,Purdue,Adam Coon,14123,Michigan
+2016,02/07,Michigan - Rutgers Dual,285,W,FALL,1:25,William Smith,14207,Rutgers,Adam Coon,14123,Michigan
+2016,02/05,Michigan - Maryland Dual,285,W,FALL,2:15,Dawson Peck,22445,Maryland,Adam Coon,14123,Michigan
+2016,01/31,Michigan - Penn State Dual,285,W,MD,15 - 5,Jan Johnson,40456,Penn State,Adam Coon,14123,Michigan
+2016,01/29,Northwestern - Michigan Dual,285,W,FALL,0:40,Conan Jennings,20222,Northwestern,Adam Coon,14123,Michigan
+2016,01/24,Indiana - Michigan Dual,285,W,TF5,19 - 4 6:59,Fletcher Miller,20525,Indiana,Adam Coon,14123,Michigan
+2016,01/22,Central Michigan - Michigan Dual,285,W,TF5,21 - 6 7:00,Newton Smerchek,14224,Central Michigan,Adam Coon,14123,Michigan
+2016,01/15,Illinois - Michigan Dual,285,W,MD,11 - 2,Brooks Black,19933,Illinois,Adam Coon,14123,Michigan
+2016,01/09,Michigan - Ohio State Dual,285,W,DEC,4 - 1,Nick Tavanello,14228,Ohio State,Adam Coon,14123,Michigan
+2016,01/07,Oregon State - Michigan Dual,285,W,DEC,6 - 3,Amarveer Dhesi,14223,Oregon State,Adam Coon,14123,Michigan
+2016,12/10,Michigan State - Michigan Dual,285,W,TF5,17 - 1 5:21,Dimitrus Renfroe,14495,Michigan State,Adam Coon,14123,Michigan
+2016,11/22,Oklahoma - Michigan Dual,285,W,DEC,4 - 1,Ross Larson,14299,Oklahoma,Adam Coon,14123,Michigan
+2016,11/15,Michigan - Sacred Heart Dual,285,W,FALL,1:27,Ray Sherwood,42040,Sacred Heart,Adam Coon,14123,Michigan
+2016,11/15,Michigan - Hofstra Dual,285,W,FALL,0:47,Michael Hughes,14198,Hofstra,Adam Coon,14123,Michigan
+2016,11/15,Michigan - West Virginia Dual,285,W,DEC,3 - 0,AJ Vizcarrondo,14266,West Virginia,Adam Coon,14123,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,285,L,TF5,15 - 0 5:42,Patrick Gillen,13125,Virginia,Payne Hayden,13174,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,285,L,TF5,17 - 1 5:42,Patrick Gillen,13125,Virginia,Payne Hayden,13174,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,285,W,FALL,0:24,Damian Davis,42567,gateway international bible institute,Payne Hayden,13174,Michigan
+2016,12/04,Cliff Keen Las Vegas Invitational,285,L,FALL,2:20,Sam Alnassiri,21439,San Francisco State,Payne Hayden,13174,Michigan
+2016,11/07,Eastern Michigan Open,285,W,FALL,2:15,Harun Bogdanic,41663,Grand Valley State University,Payne Hayden,13174,Michigan
+2016,11/07,Eastern Michigan Open,285,W,FALL,2:45,Noah Hosking,41661,Lake Erie College,Payne Hayden,13174,Michigan
+2016,11/07,Eastern Michigan Open,285,W,DEC,8 - 5,James Ford,40025,Purdue,Payne Hayden,13174,Michigan
+2016,11/07,Eastern Michigan Open,285,L,TF5,16 - 1 4:36,Nick Tavanello,14228,Ohio State,Payne Hayden,13174,Michigan
+2016,11/07,Eastern Michigan Open,285,L,DEC,11 - 4,Garret Goldman,18200,Indiana,Payne Hayden,13174,Michigan
+2016,03/05,National Collegiate Open,285,L,FALL,1:39,Daniel Chaid,45044,North Carolina,Kostya Golobokov,40455,Michigan
+2016,02/06,Edinboro Open,285,L,DEC,4 - 0,Ian James,19721,Buffalo,Kostya Golobokov,40455,Michigan
+2016,02/06,Edinboro Open,285,L,FALL,2:16,Michael Hughes,14198,Hofstra,Kostya Golobokov,40455,Michigan

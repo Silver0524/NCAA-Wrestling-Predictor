@@ -1,0 +1,532 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2024,03/21,NCAA Championships,125,L,DEC,9 - 3,Michael DeAugustino,56007,Michigan,Tyler Klinsky,62353,Rider
+2024,03/21,NCAA Championships,125,L,MD,11 - 2,Luke Stanich,78768,Lehigh,Tyler Klinsky,62353,Rider
+2024,03/08,MAC Championships,125,W,DEC,6 - 1,Joseph Fischer,68702,Clarion,Tyler Klinsky,62353,Rider
+2024,03/08,MAC Championships,125,W,DEC,3 - 2,Sean Spidle,63063,Central Michigan,Tyler Klinsky,62353,Rider
+2024,03/08,MAC Championships,125,L,MD,8 - 0,Blake West,73337,Northern Illinois,Tyler Klinsky,62353,Rider
+2024,03/08,MAC Championships,125,W,TF5,20 - 4 5:42,Caleb Edwards,72216,Edinboro,Tyler Klinsky,62353,Rider
+2024,03/08,MAC Championships,125,W,SV-1,12 - 5,Benjamin Aranda,71804,Cleveland State,Tyler Klinsky,62353,Rider
+2024,02/23,Rider - Cleveland State Dual,125,W,SV-1,4 - 1,Benjamin Aranda,71804,Cleveland State,Tyler Klinsky,62353,Rider
+2024,02/22,Rider - Pittsburgh Dual,125,L,TF5,19 - 4 7:00,Colton Camacho,58029,Pittsburgh,Tyler Klinsky,62353,Rider
+2024,02/16,Clarion - Rider Dual,125,W,DEC,5 - 1,Joseph Fischer,68702,Clarion,Tyler Klinsky,62353,Rider
+2024,02/04,Rider - George Mason Dual,125,W,TF5,18 - 3 5:00,JB Dragovich,78828,George Mason,Tyler Klinsky,62353,Rider
+2024,02/03,Rider - Drexel Dual,125,W,DEC,7 - 3,Desmond Pleasant,71583,Drexel,Tyler Klinsky,62353,Rider
+2024,01/28,Bloomsburg - Rider Dual,125,W,FALL,3:00,Bronson Garber,56759,Bloomsburg,Tyler Klinsky,62353,Rider
+2024,01/26,Lock Haven - Rider Dual,125,L,DEC,8 - 2,Anthony Noto,64642,Lock Haven,Tyler Klinsky,62353,Rider
+2024,01/14,Edinboro - Rider Dual,125,W,TF5,22 - 6 5:00,Caleb Edwards,72216,Edinboro,Tyler Klinsky,62353,Rider
+2024,01/11,Princeton - Rider Dual,125,W,MD,17 - 3,Drew Heethuis,78620,Princeton,Tyler Klinsky,62353,Rider
+2024,01/07,Rider - Rutgers Dual,125,W,DEC,9 - 6,Dean Peterson,72936,Rutgers,Tyler Klinsky,62353,Rider
+2024,01/05,Northern Illinois - Rider Dual,125,L,DEC,8 - 5,Blake West,73337,Northern Illinois,Tyler Klinsky,62353,Rider
+2024,12/29,Midlands Championships,125,W,DEC,6 - 4,Jett Strickenberger,74382,West Virginia,Tyler Klinsky,62353,Rider
+2024,12/29,Midlands Championships,125,L,DEC,4 - 1,Ryan Miller,62350,Pennsylvania,Tyler Klinsky,62353,Rider
+2024,12/29,Midlands Championships,125,L,MD,11 - 1,Eli Griffin,68743,Cal Baptist,Tyler Klinsky,62353,Rider
+2024,12/09,Wisconsin - Rider Dual,125,L,MD,13 - 5,Eric Barnett,56753,Wisconsin,Tyler Klinsky,62353,Rider
+2024,12/03,Patriot Open,125,L,MD,14 - 2,Ryan Miller,62350,Pennsylvania,Tyler Klinsky,62353,Rider
+2024,12/03,Patriot Open,125,W,TF5,18 - 3 7:00,Zander Phaturos,73554,Campbell,Tyler Klinsky,62353,Rider
+2024,12/03,Patriot Open,125,W,DEC,6 - 5,Chad Bellis,71922,Appalachian State,Tyler Klinsky,62353,Rider
+2024,12/03,Patriot Open,125,L,DEC,7 - 5,Jace Schafer,73377,West Virginia,Tyler Klinsky,62353,Rider
+2024,11/19,Michigan - Rider Dual,125,W,TF5,26 - 9 7:00,Christian Tanefeu,73460,Michigan,Tyler Klinsky,62353,Rider
+2024,11/12,Rider - Southern Illinois Edwardsville Dual,125,W,TF5,21 - 3 5:44,Davian Guanajuato,74863,SIU Edwardsville,Tyler Klinsky,62353,Rider
+2024,11/10,Rider - Indiana Dual,125,L,DEC,13 - 9,Michael Spangler,60212,Indiana,Tyler Klinsky,62353,Rider
+2024,11/05,Princeton Open,125,W,TF5,23 - 6 6:10,Luke Sirianni,84262,United States Military Academy,Tyler Klinsky,62353,Rider
+2024,11/05,Princeton Open,125,W,MD,15 - 1,Tommy Link,73764,United States Military Academy,Tyler Klinsky,62353,Rider
+2024,11/05,Princeton Open,125,L,TF5,16 - 1 5:29,Sheldon Seymour,62339,Lehigh,Tyler Klinsky,62353,Rider
+2024,11/05,Princeton Open,125,L,SV-1,4 - 1,Sheldon Seymour,62339,Lehigh,Tyler Klinsky,62353,Rider
+2024,11/05,Princeton Open,125,W,TF5,21 - 6 5:55,Noah Tonsor,81065,Army West Point,Tyler Klinsky,62353,Rider
+2024,02/03,Edinboro Open,125,W,DEC,5 - 4,Marco Vespa,66717,Penn State,Kaden Naame,84336,Rider
+2024,02/03,Edinboro Open,125,L,MD,12 - 0,Gabe Giampietro,72979,Drexel,Kaden Naame,84336,Rider
+2024,02/03,Edinboro Open,125,L,DEC,4 - 3,Wyatt Skebba,79470,Central Michigan,Kaden Naame,84336,Rider
+2024,01/05,David Lehman Open,125,L,DEC,3 - 0,Logan Sallot,79291,Lock Haven,Kaden Naame,84336,Rider
+2024,01/05,David Lehman Open,125,L,DEC,7 - 2,Nico Tocci,73466,Air Force,Kaden Naame,84336,Rider
+2024,01/05,David Lehman Open,125,W,DEC,8 - 5,Shamil Kalmatov,72680,American,Kaden Naame,84336,Rider
+2024,11/05,Princeton Open,125,L,DEC,5 - 4,Tyler Washburn,85947,United States Military Academy,Kaden Naame,84336,Rider
+2024,11/05,Princeton Open,125,L,DEC,7 - 5,Harrison Gordon,80514,Johnson & Wales,Kaden Naame,84336,Rider
+2024,11/05,Princeton Open,125,W,DEC,5 - 4,Dylan Acevedo-Switzer,73023,Hofstra,Kaden Naame,84336,Rider
+2024,11/05,Princeton Open,125,L,DEC,10 - 5,Luke Sirianni,84262,United States Military Academy,Ethan Titus,78447,Rider
+2024,11/05,Princeton Open,125,L,FALL,6:46,Bronson Garber,56759,Bloomsburg,Ethan Titus,78447,Rider
+2024,03/03,Zingo Nationals,125,L,TF5,15 - 0 2:11,Gunner Chambers,84437,George Mason,Kyle Hill,79296,Rider
+2024,03/03,Zingo Nationals,125,L,TF5,18 - 1 3:00,Jack Parker,83327,Franklin & Marshall,Kyle Hill,79296,Rider
+2024,03/03,Zingo Nationals,125,L,FALL,1:13,Gabe Giampietro,72979,Drexel,Kyle Hill,79296,Rider
+2024,12/03,Patriot Open,125,L,TF5,17 - 0 3:56,Hayden Benter,84926,Navy,Kyle Hill,79296,Rider
+2024,12/03,Patriot Open,125,L,FALL,0:52,John Hager,84396,Davidson,Kyle Hill,79296,Rider
+2024,11/05,Princeton Open,125,L,TF5,18 - 1 3:00,Ethan Smith,84634,Lehigh,Kyle Hill,79296,Rider
+2024,11/05,Princeton Open,125,L,FALL,1:15,Luke Stanich,78768,Lehigh,Kyle Hill,79296,Rider
+2024,03/08,MAC Championships,133,L,DEC,4 - 3,Gable Strickland,71822,Lock Haven,Richie Koehler,51648,Rider
+2024,03/08,MAC Championships,133,W,DEC,9 - 8,Mikey Kaminski,68722,Northern Illinois,Richie Koehler,51648,Rider
+2024,03/08,MAC Championships,133,W,DEC,8 - 1,Pablo Castro,79792,Kent State,Richie Koehler,51648,Rider
+2024,03/08,MAC Championships,133,W,TF5,20 - 3 3:43,Major Lewis,84530,Bloomsburg,Richie Koehler,51648,Rider
+2024,02/23,Rider - Cleveland State Dual,133,W,DEC,7 - 2,Nick Molchak,78590,Cleveland State,Richie Koehler,51648,Rider
+2024,02/22,Rider - Pittsburgh Dual,133,L,DEC,9 - 7,Vince Santaniello,72185,Pittsburgh,Richie Koehler,51648,Rider
+2024,02/16,Clarion - Rider Dual,133,W,DEC,9 - 4,TJ England,63058,Clarion,Richie Koehler,51648,Rider
+2024,02/04,Rider - George Mason Dual,133,W,FALL,1:34,Brandon Wittenberg,57647,George Mason,Richie Koehler,51648,Rider
+2024,02/03,Rider - Drexel Dual,133,L,DEC,5 - 2,John Hildebrandt,78511,Drexel,Richie Koehler,51648,Rider
+2024,01/28,Bloomsburg - Rider Dual,133,W,TF5,17 - 1 3:00,Major Lewis,84530,Bloomsburg,Richie Koehler,51648,Rider
+2024,01/26,Lock Haven - Rider Dual,133,W,SV-1,4 - 1,Gable Strickland,71822,Lock Haven,Richie Koehler,51648,Rider
+2024,01/14,Edinboro - Rider Dual,133,W,MD,8 - 0,Lane Aikey,71975,Edinboro,Richie Koehler,51648,Rider
+2024,01/11,Princeton - Rider Dual,133,W,DEC,10 - 4,Sean Pierson,60443,Princeton,Richie Koehler,51648,Rider
+2024,01/07,Rider - Rutgers Dual,133,L,DEC,10 - 4,Dylan Shawver,61767,Rutgers,Richie Koehler,51648,Rider
+2024,12/29,Midlands Championships,133,L,INJ,4:37,Coleman Nogle,84309,Harvard,Richie Koehler,51648,Rider
+2024,12/29,Midlands Championships,133,L,FALL,7:49,Marcel Lopez,78290,SIU Edwardsville,Richie Koehler,51648,Rider
+2024,12/09,Wisconsin - Rider Dual,133,L,MD,18 - 8,Nicolar Rivera,78438,Wisconsin,Richie Koehler,51648,Rider
+2024,12/01,Cliff Keen Invitational,133,L,DEC,8 - 4,Tyler Knox,83265,Stanford,Richie Koehler,51648,Rider
+2024,12/01,Cliff Keen Invitational,133,W,FALL,4:44,Wilfred Tanefeu,73461,Michigan,Richie Koehler,51648,Rider
+2024,12/01,Cliff Keen Invitational,133,L,MD,14 - 4,Julian Chlebove,56769,Arizona State,Richie Koehler,51648,Rider
+2024,12/01,Cliff Keen Invitational,133,W,DEC,6 - 2,George Rosas,78686,The Citadel,Richie Koehler,51648,Rider
+2024,11/12,Rider - Southern Illinois Edwardsville Dual,133,W,MD,9 - 0,Marcel Lopez,78290,SIU Edwardsville,Richie Koehler,51648,Rider
+2024,11/10,Rider - Indiana Dual,133,W,DEC,6 - 5,Cayden Rooks,56710,Indiana,Richie Koehler,51648,Rider
+2024,11/05,Princeton Open,133,W,DEC,6 - 2,Max Hermes,78841,Rutgers,Richie Koehler,51648,Rider
+2024,11/05,Princeton Open,133,L,MD,14 - 4,Ryan Crookham,73116,Lehigh,Richie Koehler,51648,Rider
+2024,11/05,Princeton Open,133,W,DEC,9 - 7,Conor Collins,74086,Army West Point,Richie Koehler,51648,Rider
+2024,11/05,Princeton Open,133,W,SV-1,8 - 4,Daniel Uhorchuk,71765,Army West Point,Richie Koehler,51648,Rider
+2024,03/03,Zingo Nationals,133,L,DEC,8 - 5,Zack Witmer,68704,NYC RTC,Nieko Malone,72910,Rider
+2024,03/03,Zingo Nationals,133,L,DEC,10 - 4,Andre Ruiz,66888,Unattached,Nieko Malone,72910,Rider
+2024,03/03,Zingo Nationals,133,W,MD,8 - 0,Jared Chuqulin,87620,LIU,Nieko Malone,72910,Rider
+2024,03/03,Zingo Nationals,133,L,DEC,7 - 5,Brandan Chletsos,72969,Rutgers,Nieko Malone,72910,Rider
+2024,12/03,Patriot Open,133,W,FALL,4:23,Caden Hagler,74459,Virginia Tech,Nieko Malone,72910,Rider
+2024,12/03,Patriot Open,133,L,DEC,8 - 2,Logan Frazier,73869,Virginia Tech,Nieko Malone,72910,Rider
+2024,12/03,Patriot Open,133,L,MD,14 - 2,Zack Witmer,68704,NYC RTC,Nieko Malone,72910,Rider
+2024,11/18,Shorty Hitchcock Memorial,133,W,MD,12 - 4,Caleb Peralta,83303,Nassau Community College,Nieko Malone,72910,Rider
+2024,11/18,Shorty Hitchcock Memorial,133,L,TF5,15 - 0 5:58,Nicholas Cottone,77953,Millersville,Nieko Malone,72910,Rider
+2024,11/18,Shorty Hitchcock Memorial,133,L,DEC,6 - 5,Sean Logue,78512,Lock Haven,Nieko Malone,72910,Rider
+2024,11/18,Shorty Hitchcock Memorial,133,W,MD,14 - 3,Drew Currier,78643,Franklin & Marshall,Nieko Malone,72910,Rider
+2024,11/18,Shorty Hitchcock Memorial,133,W,DEC,16 - 9,Jack Bastarrika,84366,Virginia Tech,Nieko Malone,72910,Rider
+2024,11/05,Princeton Open,133,L,DEC,3 - 2,D’Amani Almodovar,77346,Rider,Nieko Malone,72910,Rider
+2024,11/05,Princeton Open,133,L,DEC,7 - 6,Daniel Uhorchuk,71765,Army West Point,Nieko Malone,72910,Rider
+2024,11/05,Princeton Open,133,W,DEC,18 - 14,Ryan Arbeit,84814,Hofstra,Nieko Malone,72910,Rider
+2024,02/03,Edinboro Open,133,L,DEC,5 - 1,Tyler Ferrera,78735,Spartan Combat RTC,D’Amani Almodovar,77346,Rider
+2024,02/03,Edinboro Open,133,W,DEC,13 - 10,Bryce Shingleton,84448,Michigan State,D’Amani Almodovar,77346,Rider
+2024,02/03,Edinboro Open,133,L,MFOR,0 - 0,Amarfio Reynolds,84917,Gannon,D’Amani Almodovar,77346,Rider
+2024,01/05,Northern Illinois - Rider Dual,133,L,DEC,6 - 4,Nathaniel Genobana,73338,Northern Illinois,D’Amani Almodovar,77346,Rider
+2024,12/03,Patriot Open,133,W,DEC,4 - 1,Jack Bastarrika,84366,Virginia Tech,D’Amani Almodovar,77346,Rider
+2024,12/03,Patriot Open,133,L,DEC,6 - 4,Zack Witmer,68704,NYC RTC,D’Amani Almodovar,77346,Rider
+2024,12/03,Patriot Open,133,L,DEC,3 - 0,Gable Strickland,71822,Lock Haven,D’Amani Almodovar,77346,Rider
+2024,11/12,Rider - Southern Illinois Edwardsville Dual,141,L,DEC,2 - 0,Danny Martinez,83252,SIU Edwardsville,D’Amani Almodovar,77346,Rider
+2024,11/10,Rider - Indiana Dual,141,L,MD,14 - 2,Danny Fongaro,51713,Indiana,D’Amani Almodovar,77346,Rider
+2024,11/05,Princeton Open,133,W,DEC,3 - 1,Eren Sement,85949,High School,D’Amani Almodovar,77346,Rider
+2024,11/05,Princeton Open,133,L,MD,11 - 0,Max Hermes,78841,Rutgers,D’Amani Almodovar,77346,Rider
+2024,11/05,Princeton Open,133,W,DEC,3 - 2,Nieko Malone,72910,Rider,D’Amani Almodovar,77346,Rider
+2024,11/05,Princeton Open,133,W,DEC,4 - 1,Anthony Clark,62983,Princeton,D’Amani Almodovar,77346,Rider
+2024,11/05,Princeton Open,133,L,MD,11 - 0,Gable Strickland,71822,Lock Haven,D’Amani Almodovar,77346,Rider
+2024,03/08,MAC Championships,141,L,DEC,4 - 2,Eric Almarinez,80240,SIU Edwardsville,Will Betancourt,67444,Rider
+2024,03/08,MAC Championships,141,L,DEC,2 - 0,Ryan Sullivan,56764,Clarion,Will Betancourt,67444,Rider
+2024,02/23,Rider - Cleveland State Dual,141,L,DEC,3 - 0,Dylan Layton,72925,Cleveland State,Will Betancourt,67444,Rider
+2024,02/22,Rider - Pittsburgh Dual,141,L,MD,9 - 1,Cole Matthews,50936,Pittsburgh,Will Betancourt,67444,Rider
+2024,02/16,Clarion - Rider Dual,141,L,DEC,7 - 1,Ryan Sullivan,56764,Clarion,Will Betancourt,67444,Rider
+2024,02/04,Rider - George Mason Dual,141,L,SV-1,4 - 1,Dominic Hargrove,78900,George Mason,Will Betancourt,67444,Rider
+2024,02/03,Rider - Drexel Dual,141,L,DEC,2 - 0,Jordan Soriano,73711,Drexel,Will Betancourt,67444,Rider
+2024,01/26,Lock Haven - Rider Dual,141,L,TF5,22 - 6 4:21,Wyatt Henson,63069,Lock Haven,Will Betancourt,67444,Rider
+2024,01/14,Edinboro - Rider Dual,141,W,MD,13 - 5,Jacob Brennaman,80127,Edinboro,Will Betancourt,67444,Rider
+2024,01/11,Princeton - Rider Dual,141,L,DEC,1 - 0,Tyler Vasquez,76366,Princeton,Will Betancourt,67444,Rider
+2024,01/07,Rider - Rutgers Dual,141,L,FALL,4:14,Mitch Moore,50620,Rutgers,Will Betancourt,67444,Rider
+2024,01/05,Northern Illinois - Rider Dual,141,L,FALL,4:11,Jacob Brya,73037,Northern Illinois,Will Betancourt,67444,Rider
+2024,12/09,Wisconsin - Rider Dual,141,W,DEC,8 - 3,Felix Lettini,77386,Wisconsin,McKenzie Bell,67375,Rider
+2024,12/01,Cliff Keen Invitational,141,L,DEC,5 - 2,Sergio Lemley,78641,Michigan,McKenzie Bell,67375,Rider
+2024,12/01,Cliff Keen Invitational,141,W,MD,15 - 1,Aidan Waszak,73163,Ohio,McKenzie Bell,67375,Rider
+2024,12/01,Cliff Keen Invitational,141,W,DEC,7 - 3,Isaac Byers,62807,Appalachian State,McKenzie Bell,67375,Rider
+2024,12/01,Cliff Keen Invitational,141,L,DEC,14 - 8,Ryan Jack,61122,NC State,McKenzie Bell,67375,Rider
+2024,11/19,Michigan - Rider Dual,141,L,TF5,19 - 4 5:36,Sergio Lemley,78641,Michigan,McKenzie Bell,67375,Rider
+2024,11/05,Princeton Open,141,L,MFOR,0 - 0,Evan Mougalian,72984,PRTC,McKenzie Bell,67375,Rider
+2024,11/05,Princeton Open,141,L,FALL,3:29,Victor Perlleshi,67845,Johnson & Wales,McKenzie Bell,67375,Rider
+2024,03/21,NCAA Championships,149,L,MD,19 - 8,Casey Swiderski,71913,Iowa State,Quinn Kinner,51144,Rider
+2024,03/21,NCAA Championships,149,L,MD,10 - 2,Tyler Kasak,78731,Penn State,Quinn Kinner,51144,Rider
+2024,03/21,NCAA Championships,149,W,DEC,10 - 5,Chance Lamer,70915,Cal Poly,Quinn Kinner,51144,Rider
+2024,03/21,NCAA Championships,149,W,TB-1,3 - 2,Jordan Williams,73709,Oklahoma State,Quinn Kinner,51144,Rider
+2024,03/21,NCAA Championships,149,W,DEC,4 - 3,Willie McDougald,67042,Oklahoma,Quinn Kinner,51144,Rider
+2024,03/21,NCAA Championships,149,W,TF5,16 - 1 5:20,Jack Crook,73703,Harvard,Quinn Kinner,51144,Rider
+2024,03/21,NCAA Championships,149,L,MD,8 - 0,Gabe Willochell,62335,Wyoming,Quinn Kinner,51144,Rider
+2024,03/08,MAC Championships,149,W,MD,18 - 5,Corbyn Munson,51197,Central Michigan,Quinn Kinner,51144,Rider
+2024,03/08,MAC Championships,149,W,DEC,1 - 0,Derek Raike,76503,Ohio,Quinn Kinner,51144,Rider
+2024,03/08,MAC Championships,149,W,DEC,8 - 5,Kaden Cassidy,65847,George Mason,Quinn Kinner,51144,Rider
+2024,03/08,MAC Championships,149,W,MD,14 - 6,Kyle Schickel,67305,Clarion,Quinn Kinner,51144,Rider
+2024,02/23,Rider - Cleveland State Dual,149,W,MD,15 - 3,Douglas Terry,70741,Cleveland State,Quinn Kinner,51144,Rider
+2024,02/22,Rider - Pittsburgh Dual,149,L,DEC,5 - 2,Finn Solomon,73123,Pittsburgh,Quinn Kinner,51144,Rider
+2024,02/16,Clarion - Rider Dual,149,W,DEC,10 - 6,Kyle Schickel,67305,Clarion,Quinn Kinner,51144,Rider
+2024,02/04,Rider - George Mason Dual,149,W,DEC,4 - 0,Kaden Cassidy,65847,George Mason,Quinn Kinner,51144,Rider
+2024,02/03,Rider - Drexel Dual,149,W,DEC,5 - 3,Dominic Findora,78518,Drexel,Quinn Kinner,51144,Rider
+2024,01/28,Bloomsburg - Rider Dual,149,W,TF5,17 - 1 3:41,Nik Antonelli,84527,Bloomsburg,Quinn Kinner,51144,Rider
+2024,01/26,Lock Haven - Rider Dual,149,L,SV-1,8 - 5,Nicholas Stonecheck,62691,Lock Haven,Quinn Kinner,51144,Rider
+2024,01/14,Edinboro - Rider Dual,149,W,TF5,17 - 0 4:13,Colin Roberts,73166,Edinboro,Quinn Kinner,51144,Rider
+2024,01/11,Princeton - Rider Dual,149,L,SV-1,11 - 8,Eligh Rivera,77389,Princeton,Quinn Kinner,51144,Rider
+2024,01/07,Rider - Rutgers Dual,149,L,DEC,8 - 6,Michael Cetta,72114,Rutgers,Quinn Kinner,51144,Rider
+2024,01/05,Northern Illinois - Rider Dual,149,W,DEC,9 - 7,Jaivon Jones,62724,Northern Illinois,Quinn Kinner,51144,Rider
+2024,12/29,Midlands Championships,149,W,DEC,5 - 0,Kelvin Griffin,78848,Lehigh,Quinn Kinner,51144,Rider
+2024,12/29,Midlands Championships,149,L,DEC,7 - 5,Sam Cartella,77873,Northwestern,Quinn Kinner,51144,Rider
+2024,12/29,Midlands Championships,149,L,DEC,8 - 6,Erik Roggie,73059,Virginia,Quinn Kinner,51144,Rider
+2024,12/09,Wisconsin - Rider Dual,149,L,DEC,7 - 1,Joseph Zargo,62890,Wisconsin,Quinn Kinner,51144,Rider
+2024,12/01,Cliff Keen Invitational,149,L,DEC,8 - 6,Nash Singleton,73038,Oregon State,Quinn Kinner,51144,Rider
+2024,12/01,Cliff Keen Invitational,149,W,FALL,7:53,Ethen Miller,70914,Maryland,Quinn Kinner,51144,Rider
+2024,12/01,Cliff Keen Invitational,149,L,DEC,13 - 6,Ridge Lovett,57520,Nebraska,Quinn Kinner,51144,Rider
+2024,12/01,Cliff Keen Invitational,149,W,FALL,2:25,Vincent Milazzo,69698,Sacred Heart,Quinn Kinner,51144,Rider
+2024,11/19,Michigan - Rider Dual,149,W,DEC,5 - 2,Dylan Gilcher,77964,Michigan,Quinn Kinner,51144,Rider
+2024,11/12,Rider - Southern Illinois Edwardsville Dual,149,W,DEC,5 - 4,Caleb Tyus,72912,SIU Edwardsville,Quinn Kinner,51144,Rider
+2024,11/10,Rider - Indiana Dual,149,W,DEC,8 - 2,Graham Rooks,51283,Indiana,Quinn Kinner,51144,Rider
+2024,03/03,Zingo Nationals,157,L,MFOR,0 - 0,JT Chance,84412,George Mason,Giovanni Alejandro,84361,Rider
+2024,03/03,Zingo Nationals,157,L,DEC,4 - 1,Loranzo Rajaonarivelo,62067,George Mason,Giovanni Alejandro,84361,Rider
+2024,03/03,Zingo Nationals,157,W,MD,11 - 1,Aboubakare Diaby,72624,Drexel,Giovanni Alejandro,84361,Rider
+2024,01/05,David Lehman Open,149,L,DEC,8 - 5,Josh Hillard,78475,Franklin & Marshall,Giovanni Alejandro,84361,Rider
+2024,01/05,David Lehman Open,149,L,DEC,8 - 3,Hagen Heistand,76354,Campbell,Giovanni Alejandro,84361,Rider
+2024,11/05,Princeton Open,149,W,TF5,19 - 4 7:00,Cole Cifrodelli,85161,Rider,Giovanni Alejandro,84361,Rider
+2024,11/05,Princeton Open,149,L,TF5,16 - 1 6:23,Ty Whalen,72988,NJRTC,Giovanni Alejandro,84361,Rider
+2024,11/05,Princeton Open,149,L,DEC,5 - 2,Matthew Repos,78916,Lehigh,Giovanni Alejandro,84361,Rider
+2024,01/05,David Lehman Open,149,L,DEC,5 - 0,Drew Witham,70151,LIU,Mason Lynch,73312,Rider
+2024,01/05,David Lehman Open,149,L,MD,13 - 4,Jack Pletcher,76351,Pittsburgh,Mason Lynch,73312,Rider
+2024,12/03,Patriot Open,149,L,DEC,8 - 1,Sean Seefeldt,70755,Pennsylvania,Mason Lynch,73312,Rider
+2024,12/03,Patriot Open,149,L,TF5,17 - 2 7:00,Ty Linsenbigler,71825,Lock Haven,Mason Lynch,73312,Rider
+2024,11/05,Princeton Open,157,L,MD,15 - 5,Hogan Horsey,78443,Rider,Mason Lynch,73312,Rider
+2024,11/05,Princeton Open,157,L,DEC,2 - 0,James Hogan,78744,Lock Haven,Mason Lynch,73312,Rider
+2024,01/28,Mat-Town Open II,149,L,FALL,0:30,Aaron Lanster,84537,Buffalo,Branden Palcko,85162,Rider
+2024,01/28,Mat-Town Open II,149,L,DEC,2 - 0,Ty Linsenbigler,71825,Lock Haven,Branden Palcko,85162,Rider
+2024,11/05,Princeton Open,149,L,MFOR,0 - 0,Billy Talmadge,67442,Lock Haven,Branden Palcko,85162,Rider
+2024,11/05,Princeton Open,149,L,INJ,5:54,Cade Balestrini,62514,Bloomsburg,Branden Palcko,85162,Rider
+2024,03/03,Zingo Nationals,149,L,TF5,21 - 5 6:27,Tyler Tracy,84335,NC State,Cole Cifrodelli,85161,Rider
+2024,03/03,Zingo Nationals,149,W,MFOR,0 - 0,Cale Roggie,84307,George Mason,Cole Cifrodelli,85161,Rider
+2024,03/03,Zingo Nationals,149,L,TF5,19 - 3 5:36,Nicholas Romero,79484,Brown,Cole Cifrodelli,85161,Rider
+2024,01/05,David Lehman Open,149,L,TF5,16 - 0 6:19,William McMullen,84607,LIU,Cole Cifrodelli,85161,Rider
+2024,01/05,David Lehman Open,149,L,MD,17 - 7,Cale Roggie,84307,George Mason,Cole Cifrodelli,85161,Rider
+2024,12/03,Patriot Open,157,L,MD,14 - 2,Jackson Berry-Bissessar,84954,Morgan State,Cole Cifrodelli,85161,Rider
+2024,12/03,Patriot Open,157,L,MD,9 - 0,Devon Capato,78303,American,Cole Cifrodelli,85161,Rider
+2024,11/05,Princeton Open,149,L,TF5,19 - 4 7:00,Giovanni Alejandro,84361,Rider,Cole Cifrodelli,85161,Rider
+2024,11/05,Princeton Open,149,L,TF5,20 - 4 5:21,Michael Conklin,75966,The College of New Jersey,Cole Cifrodelli,85161,Rider
+2024,03/21,NCAA Championships,157,L,TF5,20 - 4 5:00,Cody Chittum,60816,Iowa State,Colton Washleski,72909,Rider
+2024,03/21,NCAA Championships,157,W,MD,12 - 4,Nick Stampoulos,74398,Buffalo,Colton Washleski,72909,Rider
+2024,03/21,NCAA Championships,157,L,FALL,4:17,Meyer Shapiro,78556,Cornell,Colton Washleski,72909,Rider
+2024,03/08,MAC Championships,157,W,MD,19 - 11,Munkhtulga Zuunbayan,64263,Northern Illinois,Colton Washleski,72909,Rider
+2024,03/08,MAC Championships,157,W,DEC,7 - 4,Marcus Robinson,56479,Cleveland State,Colton Washleski,72909,Rider
+2024,03/08,MAC Championships,157,L,DEC,13 - 8,Johnny Lovett,61935,Central Michigan,Colton Washleski,72909,Rider
+2024,03/08,MAC Championships,157,W,DEC,7 - 1,Connor Eck,71824,Lock Haven,Colton Washleski,72909,Rider
+2024,03/08,MAC Championships,157,W,TF5,20 - 4 2:03,Gannon Jaquay,78780,Edinboro,Colton Washleski,72909,Rider
+2024,03/08,MAC Championships,157,L,DEC,6 - 4,Nick Stampoulos,74398,Buffalo,Colton Washleski,72909,Rider
+2024,02/23,Rider - Cleveland State Dual,157,W,DEC,6 - 5,Marcus Robinson,56479,Cleveland State,Colton Washleski,72909,Rider
+2024,02/22,Rider - Pittsburgh Dual,157,W,DEC,8 - 6,Jared Keslar,72953,Pittsburgh,Colton Washleski,72909,Rider
+2024,02/16,Clarion - Rider Dual,157,W,MD,15 - 5,John Altieri,70738,Clarion,Colton Washleski,72909,Rider
+2024,02/04,Rider - George Mason Dual,157,L,DEC,4 - 2,DJ McGee,78901,George Mason,Colton Washleski,72909,Rider
+2024,02/03,Rider - Drexel Dual,157,W,DEC,6 - 2,Tyler Williams,59552,Drexel,Colton Washleski,72909,Rider
+2024,01/28,Bloomsburg - Rider Dual,157,W,DEC,10 - 3,William Morrow,79213,Bloomsburg,Colton Washleski,72909,Rider
+2024,01/26,Lock Haven - Rider Dual,157,W,DEC,12 - 8,Connor Eck,71824,Lock Haven,Colton Washleski,72909,Rider
+2024,01/14,Edinboro - Rider Dual,157,W,TF5,19 - 4 4:05,Steffan Lynch,84643,Edinboro,Colton Washleski,72909,Rider
+2024,01/11,Princeton - Rider Dual,157,W,DEC,8 - 3,Rocco Camillaci,73321,Princeton,Colton Washleski,72909,Rider
+2024,01/07,Rider - Rutgers Dual,157,W,DEC,4 - 1,Andrew Clark,66883,Rutgers,Colton Washleski,72909,Rider
+2024,01/05,Northern Illinois - Rider Dual,157,W,MD,10 - 2,Munkhtulga Zuunbayan,64263,Northern Illinois,Colton Washleski,72909,Rider
+2024,12/29,Midlands Championships,157,W,SV-1,12 - 6,Anthony Artalona,92018,PRTC,Colton Washleski,72909,Rider
+2024,12/29,Midlands Championships,157,W,DEC,7 - 4,Michael Kilic,72091,Arizona State,Colton Washleski,72909,Rider
+2024,12/29,Midlands Championships,157,L,DEC,10 - 7,Johnny Lovett,61935,Central Michigan,Colton Washleski,72909,Rider
+2024,12/29,Midlands Championships,157,L,MD,14 - 3,Lucas Revano,56734,Pennsylvania,Colton Washleski,72909,Rider
+2024,12/29,Midlands Championships,157,L,DEC,17 - 13,Jacori Teemer,50581,Arizona State,Colton Washleski,72909,Rider
+2024,12/29,Midlands Championships,157,W,SV-1,10 - 9,Andrew Clark,66883,Rutgers,Colton Washleski,72909,Rider
+2024,12/29,Midlands Championships,157,W,TF5,24 - 9 7:00,Chaz Hallmark,62925,Cal Baptist,Colton Washleski,72909,Rider
+2024,12/09,Wisconsin - Rider Dual,157,W,MD,12 - 4,Luke Mechler,71940,Wisconsin,Colton Washleski,72909,Rider
+2024,12/03,Patriot Open,157,W,TF5,20 - 5 5:49,Jackson Berry-Bissessar,84954,Morgan State,Colton Washleski,72909,Rider
+2024,12/03,Patriot Open,157,W,DEC,12 - 5,JT Chance,84412,George Mason,Colton Washleski,72909,Rider
+2024,12/03,Patriot Open,157,W,MD,13 - 3,Loranzo Rajaonarivelo,62067,George Mason,Colton Washleski,72909,Rider
+2024,12/03,Patriot Open,157,W,TF5,17 - 2 7:00,Nick Grizales,78634,Appalachian State,Colton Washleski,72909,Rider
+2024,12/03,Patriot Open,157,W,DEC,9 - 4,Mason Stefanelli,79924,Virginia,Colton Washleski,72909,Rider
+2024,11/19,Michigan - Rider Dual,157,L,DEC,8 - 3,Will Lewan,50934,Michigan,Colton Washleski,72909,Rider
+2024,11/12,Rider - Southern Illinois Edwardsville Dual,157,W,MD,13 - 3,Brock Woodcock,78293,SIU Edwardsville,Colton Washleski,72909,Rider
+2024,11/10,Rider - Indiana Dual,157,W,DEC,9 - 5,Nico Bolivar,62427,Indiana,Colton Washleski,72909,Rider
+2024,11/05,Princeton Open,157,W,TB-2,5 - 1,Jake Silverstein,67370,Rider,Colton Washleski,72909,Rider
+2024,11/05,Princeton Open,157,W,TF5,19 - 4 5:26,Zander Silva,78817,Princeton,Colton Washleski,72909,Rider
+2024,11/05,Princeton Open,157,W,MD,11 - 0,Connor Eck,71824,Lock Haven,Colton Washleski,72909,Rider
+2024,11/05,Princeton Open,157,L,MD,21 - 8,Max Brignola,73041,Lehigh,Colton Washleski,72909,Rider
+2024,11/05,Princeton Open,157,W,MD,11 - 2,William Morrow,79213,Bloomsburg,Colton Washleski,72909,Rider
+2024,01/28,Mat-Town Open II,157,L,MD,18 - 4,Dom Parker,84595,West Virginia,Hogan Horsey,78443,Rider
+2024,01/28,Mat-Town Open II,157,L,MD,12 - 2,Cade Wirnsberger,84272,Bucknell,Hogan Horsey,78443,Rider
+2024,01/28,Mat-Town Open II,157,W,MD,14 - 5,Caleb Swanson,84650,VMI,Hogan Horsey,78443,Rider
+2024,12/03,Patriot Open,157,L,MD,20 - 7,Kaleb Williams,81113,Spartan Combat RTC,Hogan Horsey,78443,Rider
+2024,12/03,Patriot Open,157,L,TF5,16 - 1 2:44,JT Chance,84412,George Mason,Hogan Horsey,78443,Rider
+2024,11/05,Princeton Open,157,W,MD,15 - 5,Mason Lynch,73312,Rider,Hogan Horsey,78443,Rider
+2024,11/05,Princeton Open,157,L,TF5,21 - 6 7:00,Luca Frinzi,57518,Lehigh,Hogan Horsey,78443,Rider
+2024,11/05,Princeton Open,157,L,FALL,2:56,Nathan Haubert,57091,Lehigh,Hogan Horsey,78443,Rider
+2024,01/28,Mat-Town Open II,157,W,DEC,5 - 0,Dom Parker,84595,West Virginia,Matt Hoelke,72512,Rider
+2024,01/28,Mat-Town Open II,157,L,FALL,3:57,Richie Grungo,84321,Lehigh,Matt Hoelke,72512,Rider
+2024,01/28,Mat-Town Open II,157,L,DEC,4 - 1,Luke Nichter,67003,Drexel,Matt Hoelke,72512,Rider
+2024,01/28,Mat-Town Open II,157,W,FALL,1:20,Caleb Swanson,84650,VMI,Matt Hoelke,72512,Rider
+2024,01/05,David Lehman Open,149,L,TF5,19 - 3 4:40,Noah Tapia,84311,Hofstra,Matt Hoelke,72512,Rider
+2024,01/05,David Lehman Open,149,L,FALL,3:42,Callum Sitek,73201,Campbell,Matt Hoelke,72512,Rider
+2024,12/03,Patriot Open,157,L,MD,14 - 2,Kylan Montgomery,76528,Virginia Tech,Matt Hoelke,72512,Rider
+2024,12/03,Patriot Open,157,L,DEC,7 - 3,Tyler Barrett,79304,Columbia,Matt Hoelke,72512,Rider
+2024,11/05,Princeton Open,157,L,DEC,12 - 6,Cooper Pontelandolfo,74099,NYU,Matt Hoelke,72512,Rider
+2024,11/05,Princeton Open,157,L,MD,20 - 6,Blaine Bergey,63157,Princeton,Matt Hoelke,72512,Rider
+2024,03/03,Zingo Nationals,165,L,FALL,1:41,Braeden Scoles,78917,Illinois,Eric Broadie,85163,Rider
+2024,03/03,Zingo Nationals,165,L,SV-1,4 - 1,Rafael Knapp,84273,Buffalo,Eric Broadie,85163,Rider
+2024,01/05,David Lehman Open,157,W,MD,8 - 0,James Hogan,78744,Lock Haven,Eric Broadie,85163,Rider
+2024,01/05,David Lehman Open,157,W,MD,9 - 0,Christopher Arciuolo,77872,Franklin & Marshall,Eric Broadie,85163,Rider
+2024,01/05,David Lehman Open,157,L,DEC,6 - 1,Avery Clarke,72672,Franklin & Marshall,Eric Broadie,85163,Rider
+2024,01/05,David Lehman Open,157,L,FALL,1:44,Connor Eck,71824,Lock Haven,Eric Broadie,85163,Rider
+2024,11/05,Princeton Open,157,L,DEC,3 - 2,Taythan Silva,83324,United States Military Academy,Eric Broadie,85163,Rider
+2024,11/05,Princeton Open,157,L,DEC,5 - 4,Connor Eck,71824,Lock Haven,Eric Broadie,85163,Rider
+2024,03/08,MAC Championships,165,L,SV-1,4 - 1,Tommy Bennett,78096,Northern Illinois,Jake Silverstein,67370,Rider
+2024,03/08,MAC Championships,165,W,DEC,4 - 1,Eric Alderfer,78522,Lock Haven,Jake Silverstein,67370,Rider
+2024,03/08,MAC Championships,165,L,DEC,2 - 1,Caden Dobbins,81883,Bloomsburg,Jake Silverstein,67370,Rider
+2024,02/22,Rider - Pittsburgh Dual,165,L,DEC,2 - 0,Holden Heller,50940,Pittsburgh,Jake Silverstein,67370,Rider
+2024,02/16,Clarion - Rider Dual,165,W,DEC,10 - 4,Eli Brinsky,67110,Clarion,Jake Silverstein,67370,Rider
+2024,02/04,Rider - George Mason Dual,165,W,DEC,12 - 9,Evan Maag,78473,George Mason,Jake Silverstein,67370,Rider
+2024,02/03,Rider - Drexel Dual,165,L,DEC,1 - 0,Cody Walsh,71125,Drexel,Jake Silverstein,67370,Rider
+2024,01/26,Lock Haven - Rider Dual,165,W,DEC,9 - 5,Eric Alderfer,78522,Lock Haven,Jake Silverstein,67370,Rider
+2024,01/11,Princeton - Rider Dual,165,L,TF5,23 - 7 5:07,Blaine Bergey,63157,Princeton,Jake Silverstein,67370,Rider
+2024,01/07,Rider - Rutgers Dual,165,L,DEC,4 - 1,Anthony White,70924,Rutgers,Jake Silverstein,67370,Rider
+2024,01/05,Northern Illinois - Rider Dual,165,L,DEC,5 - 4,Tommy Bennett,78096,Northern Illinois,Jake Silverstein,67370,Rider
+2024,12/29,Midlands Championships,165,L,DEC,5 - 0,Beau Mantanona,78420,Michigan,Jake Silverstein,67370,Rider
+2024,12/29,Midlands Championships,165,L,DEC,2 - 1,Ty Finn,72150,Virginia Tech,Jake Silverstein,67370,Rider
+2024,12/29,Midlands Championships,165,W,DEC,7 - 1,Brady Unger,79411,Buffalo,Jake Silverstein,67370,Rider
+2024,12/09,Wisconsin - Rider Dual,165,W,MD,10 - 2,Gavin Model,63172,Wisconsin,Jake Silverstein,67370,Rider
+2024,12/03,Patriot Open,165,L,MFOR,0 - 0,Enrique Munguia,73500,Rider,Jake Silverstein,67370,Rider
+2024,12/03,Patriot Open,165,W,MD,16 - 4,Zack Arsala,83138,Unattached,Jake Silverstein,67370,Rider
+2024,12/03,Patriot Open,165,W,DEC,4 - 2,Shane Reitsma,63067,Rider,Jake Silverstein,67370,Rider
+2024,12/03,Patriot Open,165,L,MD,17 - 4,Clayton Ulrey,62889,Virginia Tech,Jake Silverstein,67370,Rider
+2024,12/03,Patriot Open,165,W,MD,14 - 3,Tyler Sagi,84334,Navy,Jake Silverstein,67370,Rider
+2024,12/03,Patriot Open,165,W,DEC,4 - 1,Ryan Money,84579,Maryland,Jake Silverstein,67370,Rider
+2024,11/05,Princeton Open,157,L,TB-2,5 - 1,Colton Washleski,72909,Rider,Jake Silverstein,67370,Rider
+2024,11/05,Princeton Open,157,W,MD,11 - 3,Eric Alderfer,78522,Lock Haven,Jake Silverstein,67370,Rider
+2024,11/05,Princeton Open,157,L,CMFF,0 - 0,Luca Frinzi,57518,Lehigh,Jake Silverstein,67370,Rider
+2024,11/05,Princeton Open,157,W,TF5,21 - 6 5:28,Frankie Volpe,84312,Hofstra,Jake Silverstein,67370,Rider
+2024,11/05,Princeton Open,157,W,DEC,4 - 1,Trenton Harder,71680,Bloomsburg,Jake Silverstein,67370,Rider
+2024,03/03,Zingo Nationals,174,W,DEC,8 - 2,Luke Ahrberg,71931,NC State,Enrique Munguia,73500,Rider
+2024,03/03,Zingo Nationals,174,W,TF5,17 - 2 7:00,Noah Bash,72675,Franklin & Marshall,Enrique Munguia,73500,Rider
+2024,03/03,Zingo Nationals,174,W,FALL,4:46,George Rhodes,84619,Drexel,Enrique Munguia,73500,Rider
+2024,12/03,Patriot Open,165,W,MD,12 - 2,Liam Scrivanich,84464,Rider,Enrique Munguia,73500,Rider
+2024,12/03,Patriot Open,165,W,MFOR,0 - 0,Jake Silverstein,67370,Rider,Enrique Munguia,73500,Rider
+2024,12/03,Patriot Open,165,W,DEC,3 - 2,Cole Spencer,68728,Pennsylvania,Enrique Munguia,73500,Rider
+2024,12/03,Patriot Open,165,L,DEC,11 - 4,Derek Fields,71932,NC State,Enrique Munguia,73500,Rider
+2024,02/03,Edinboro Open,165,L,SV-1,4 - 1,Roberto Padilla,81108,Spartan Combat RTC,Liam Scrivanich,84464,Rider
+2024,02/03,Edinboro Open,165,W,FALL,1:33,Jack Lledo,78924,Ohio,Liam Scrivanich,84464,Rider
+2024,02/03,Edinboro Open,165,W,INJ,1:10,Jake Slotnick,84500,Hofstra,Liam Scrivanich,84464,Rider
+2024,02/03,Edinboro Open,165,W,FALL,4:26,Alex Garee,71817,Edinboro,Liam Scrivanich,84464,Rider
+2024,02/03,Edinboro Open,165,L,DEC,4 - 2,Domenic D'Agostino,78471,Drexel,Liam Scrivanich,84464,Rider
+2024,02/03,Edinboro Open,165,W,SV-1,8 - 5,Brady Unger,79411,Buffalo,Liam Scrivanich,84464,Rider
+2024,01/28,Mat-Town Open II,165,W,MD,11 - 3,Dylan McCullough,84534,Bucknell,Liam Scrivanich,84464,Rider
+2024,01/28,Mat-Town Open II,165,W,MFOR,0 - 0,Tyler Sagi,84334,Navy,Liam Scrivanich,84464,Rider
+2024,01/28,Mat-Town Open II,165,W,MD,12 - 3,Angelo Esposito,77762,Rider,Liam Scrivanich,84464,Rider
+2024,01/28,Mat-Town Open II,165,L,FALL,5:57,Cooper Haase,73434,United States Military Academy,Liam Scrivanich,84464,Rider
+2024,01/28,Mat-Town Open II,165,L,FALL,1:59,Gunner Filipowicz,72974,Army West Point,Liam Scrivanich,84464,Rider
+2024,01/05,David Lehman Open,165,W,TF5,16 - 0 3:21,Jack Pickersgill,84609,LIU,Liam Scrivanich,84464,Rider
+2024,01/05,David Lehman Open,165,W,DEC,6 - 4,Cole Spencer,68728,Pennsylvania,Liam Scrivanich,84464,Rider
+2024,01/05,David Lehman Open,165,L,DEC,4 - 2,Connor Herceg,63054,Lehigh,Liam Scrivanich,84464,Rider
+2024,01/05,David Lehman Open,165,L,DEC,8 - 1,Joshua Kim,51200,Harvard,Liam Scrivanich,84464,Rider
+2024,12/03,Patriot Open,165,L,MD,12 - 2,Enrique Munguia,73500,Rider,Liam Scrivanich,84464,Rider
+2024,12/03,Patriot Open,165,W,FALL,4:31,Ty Finn,72150,Virginia Tech,Liam Scrivanich,84464,Rider
+2024,12/03,Patriot Open,165,L,DEC,8 - 7,Kaya Sement,63454,Pennsylvania,Liam Scrivanich,84464,Rider
+2024,12/03,Patriot Open,165,W,DEC,5 - 2,Genaro Quodala,76008,Navy,Liam Scrivanich,84464,Rider
+2024,12/03,Patriot Open,165,W,FALL,1:23,Sagbe Sieh,85303,Morgan State,Liam Scrivanich,84464,Rider
+2024,12/03,Patriot Open,165,W,DEC,6 - 3,Evan Maag,78473,George Mason,Liam Scrivanich,84464,Rider
+2024,11/05,Princeton Open,165,W,TF5,19 - 4 2:59,Angelo Esposito,77762,Rider,Liam Scrivanich,84464,Rider
+2024,11/05,Princeton Open,165,L,SV-1,4 - 1,Holden Garcia,77148,Princeton,Liam Scrivanich,84464,Rider
+2024,11/05,Princeton Open,165,L,MD,11 - 3,Hunter Mays,73136,Lehigh,Liam Scrivanich,84464,Rider
+2024,11/05,Princeton Open,165,W,DEC,10 - 5,Matt Waddell,84313,Hofstra,Liam Scrivanich,84464,Rider
+2024,11/05,Princeton Open,165,W,DEC,9 - 5,Eric Shindel,73026,Hofstra,Liam Scrivanich,84464,Rider
+2024,03/03,Zingo Nationals,157,W,DEC,9 - 3,Joe Russo,77835,Hofstra,Cole McComas,62984,Rider
+2024,03/03,Zingo Nationals,157,W,TF5,18 - 3 5:46,Tyler Shea,84670,Franklin & Marshall,Cole McComas,62984,Rider
+2024,03/03,Zingo Nationals,157,W,MD,17 - 3,Billy Templeton,84633,Franklin & Marshall,Cole McComas,62984,Rider
+2024,03/03,Zingo Nationals,157,W,MD,8 - 0,Aboubakare Diaby,72624,Drexel,Cole McComas,62984,Rider
+2024,03/03,Zingo Nationals,157,L,DEC,9 - 3,Luke Nichter,67003,Drexel,Cole McComas,62984,Rider
+2024,02/23,Rider - Cleveland State Dual,165,L,DEC,4 - 1,Daniel Patten,62489,Cleveland State,Cole McComas,62984,Rider
+2024,01/28,Bloomsburg - Rider Dual,165,L,DEC,5 - 0,Caden Dobbins,81883,Bloomsburg,Cole McComas,62984,Rider
+2024,01/14,Edinboro - Rider Dual,165,L,DEC,9 - 5,Max Kirby,78782,Edinboro,Cole McComas,62984,Rider
+2024,01/05,David Lehman Open,157,W,MD,11 - 2,Luke Bender,84628,Franklin & Marshall,Cole McComas,62984,Rider
+2024,01/05,David Lehman Open,157,L,DEC,8 - 5,Reed Fullmer,78627,PRTC,Cole McComas,62984,Rider
+2024,01/05,David Lehman Open,157,W,DEC,8 - 5,Micah Hanau,78564,Army West Point,Cole McComas,62984,Rider
+2024,01/05,David Lehman Open,157,W,DEC,6 - 3,Mark Metz,73368,Army West Point,Cole McComas,62984,Rider
+2024,01/05,David Lehman Open,157,W,DEC,10 - 5,Connor Eck,71824,Lock Haven,Cole McComas,62984,Rider
+2024,01/05,David Lehman Open,157,W,DEC,4 - 2,Rhise Royster,62049,LIU,Cole McComas,62984,Rider
+2024,11/19,Michigan - Rider Dual,165,L,TF5,18 - 3 5:17,Cameron Amine,57289,Michigan,Cole McComas,62984,Rider
+2024,11/12,Rider - Southern Illinois Edwardsville Dual,165,W,DEC,4 - 1,Justin Ruffin,57008,SIU Edwardsville,Cole McComas,62984,Rider
+2024,11/10,Rider - Indiana Dual,165,L,DEC,7 - 2,Derek Gilcher,62760,Indiana,Cole McComas,62984,Rider
+2024,11/05,Princeton Open,165,W,DEC,7 - 0,Brady Conlin,84362,Rider,Cole McComas,62984,Rider
+2024,11/05,Princeton Open,165,L,DEC,7 - 4,Tyler Sung,64675,Lehigh,Cole McComas,62984,Rider
+2024,11/05,Princeton Open,165,L,MD,13 - 5,Tanner Craig,59533,Army West Point,Cole McComas,62984,Rider
+2024,11/05,Princeton Open,165,W,SV-1,4 - 1,Jake Slotnick,84500,Hofstra,Cole McComas,62984,Rider
+2024,03/03,Zingo Nationals,165,W,TF5,15 - 0 4:32,Kevin McBride,85160,Rider,Angelo Esposito,77762,Rider
+2024,03/03,Zingo Nationals,165,L,TF5,17 - 1 5:13,Domenic D'Agostino,78471,Drexel,Angelo Esposito,77762,Rider
+2024,03/03,Zingo Nationals,165,L,TF5,17 - 2 3:22,Dom Frontino,84271,Brown,Angelo Esposito,77762,Rider
+2024,01/28,Mat-Town Open II,165,L,MD,12 - 3,Liam Scrivanich,84464,Rider,Angelo Esposito,77762,Rider
+2024,01/28,Mat-Town Open II,165,W,MD,11 - 1,Brett Barbush,82506,Lock Haven,Angelo Esposito,77762,Rider
+2024,01/28,Mat-Town Open II,165,L,FALL,3:52,Grant MacKay,73570,Pittsburgh,Angelo Esposito,77762,Rider
+2024,01/05,David Lehman Open,174,L,MD,15 - 3,George Rhodes,84619,Drexel,Angelo Esposito,77762,Rider
+2024,01/05,David Lehman Open,174,L,FALL,4:19,Dillon Sheehy,69861,Army West Point,Angelo Esposito,77762,Rider
+2024,12/03,Patriot Open,174,L,FALL,4:09,Luke Ahrberg,71931,NC State,Angelo Esposito,77762,Rider
+2024,12/03,Patriot Open,174,L,TF5,20 - 5 4:37,Nolan O'Boyle,79776,North Carolina,Angelo Esposito,77762,Rider
+2024,11/05,Princeton Open,165,L,TF5,19 - 4 2:59,Liam Scrivanich,84464,Rider,Angelo Esposito,77762,Rider
+2024,11/05,Princeton Open,165,W,DEC,4 - 2,Jack Lang,57726,Princeton,Angelo Esposito,77762,Rider
+2024,11/05,Princeton Open,165,L,TF5,16 - 0 3:00,Dakota Morris,73960,Army West Point,Angelo Esposito,77762,Rider
+2024,11/05,Princeton Open,165,L,DEC,7 - 0,Cole McComas,62984,Rider,Brady Conlin,84362,Rider
+2024,11/05,Princeton Open,165,W,MFOR,0 - 0,Patrick Wisniewski,74158,Johnson & Wales,Brady Conlin,84362,Rider
+2024,11/05,Princeton Open,165,L,MD,9 - 0,Caden Dobbins,81883,Bloomsburg,Brady Conlin,84362,Rider
+2024,03/03,Zingo Nationals,165,L,TF5,15 - 0 4:32,Angelo Esposito,77762,Rider,Kevin McBride,85160,Rider
+2024,03/03,Zingo Nationals,165,L,MD,12 - 0,Eric Shindel,73026,Hofstra,Kevin McBride,85160,Rider
+2024,02/03,Edinboro Open,165,L,TF5,17 - 2 6:14,Jake Slotnick,84500,Hofstra,Kevin McBride,85160,Rider
+2024,02/03,Edinboro Open,165,L,MD,11 - 2,Rafael Knapp,84273,Buffalo,Kevin McBride,85160,Rider
+2024,01/28,Mat-Town Open II,165,L,FALL,3:00,Dylan McCullough,84534,Bucknell,Kevin McBride,85160,Rider
+2024,01/28,Mat-Town Open II,165,L,DEC,8 - 2,Tyler Reed,84443,Binghamton,Kevin McBride,85160,Rider
+2024,01/05,David Lehman Open,157,L,TF5,19 - 4 2:59,David Berkovich,62569,Columbia,Kevin McBride,85160,Rider
+2024,01/05,David Lehman Open,157,L,TF5,16 - 1 1:18,Jared Keslar,72953,Pittsburgh,Kevin McBride,85160,Rider
+2024,12/03,Patriot Open,157,L,TF5,17 - 1 6:53,Kaleb Williams,81113,Spartan Combat RTC,Kevin McBride,85160,Rider
+2024,12/03,Patriot Open,157,L,TF5,18 - 2 7:00,Ben Bancroft,70144,Navy,Kevin McBride,85160,Rider
+2024,03/21,NCAA Championships,174,L,FALL,4:11,MJ Gaitan,78494,Iowa State,Michael Wilson,62190,Rider
+2024,03/21,NCAA Championships,174,L,TF5,15 - 0 4:43,Cade DeVos,57072,South Dakota State,Michael Wilson,62190,Rider
+2024,03/08,MAC Championships True 2nd,174,W,MD,11 - 2,John Worthing,61847,Clarion,Michael Wilson,62190,Rider
+2024,03/08,MAC Championships,174,L,TF5,16 - 1 7:00,Alex Cramer,56732,Central Michigan,Michael Wilson,62190,Rider
+2024,03/08,MAC Championships,174,W,TB-1,7 - 6,Sal Perrine,73171,Ohio,Michael Wilson,62190,Rider
+2024,03/08,MAC Championships,174,W,DEC,7 - 3,Joey Arnold,72215,Edinboro,Michael Wilson,62190,Rider
+2024,03/08,MAC Championships,174,W,DEC,9 - 5,Jay Nivison,65850,Buffalo,Michael Wilson,62190,Rider
+2024,02/23,Rider - Cleveland State Dual,174,W,DEC,13 - 9,Deandre Nassar,62202,Cleveland State,Michael Wilson,62190,Rider
+2024,02/22,Rider - Pittsburgh Dual,174,L,DEC,13 - 9,Luca Augustine,68730,Pittsburgh,Michael Wilson,62190,Rider
+2024,02/16,Clarion - Rider Dual,174,W,MD,10 - 1,Suds Dubler,78567,Clarion,Michael Wilson,62190,Rider
+2024,02/04,Rider - George Mason Dual,174,W,DEC,9 - 7,Paul Pierce,56165,George Mason,Michael Wilson,62190,Rider
+2024,02/03,Rider - Drexel Dual,174,W,SV-1,4 - 1,Jack Janda,71665,Drexel,Michael Wilson,62190,Rider
+2024,01/28,Bloomsburg - Rider Dual,174,W,MD,15 - 4,Nolen Zeigler,84532,Bloomsburg,Michael Wilson,62190,Rider
+2024,01/26,Lock Haven - Rider Dual,174,W,MD,15 - 7,Tyler Stoltzfus,65398,Lock Haven,Michael Wilson,62190,Rider
+2024,01/14,Edinboro - Rider Dual,174,W,MD,14 - 5,Joey Arnold,72215,Edinboro,Michael Wilson,62190,Rider
+2024,01/11,Princeton - Rider Dual,174,W,DEC,4 - 1,Mikey Squires,67290,Princeton,Michael Wilson,62190,Rider
+2024,01/07,Rider - Rutgers Dual,174,L,FALL,1:05,Jackson Turley,57636,Rutgers,Michael Wilson,62190,Rider
+2024,01/05,Northern Illinois - Rider Dual,174,W,FALL,4:48,Hayden Pummel,73344,Northern Illinois,Michael Wilson,62190,Rider
+2024,12/22,Sheridan Invitational,174,W,MD,14 - 3,Jonathan Conrad,73553,Brown,Michael Wilson,62190,Rider
+2024,12/22,Sheridan Invitational,174,W,DEC,4 - 2,Dimitri Gamkrelidze,67295,Binghamton,Michael Wilson,62190,Rider
+2024,12/22,Sheridan Invitational,174,L,TF5,17 - 1 1:03,Donnell Washington,57738,Indiana,Michael Wilson,62190,Rider
+2024,12/22,Sheridan Invitational,174,L,FALL,2:31,Alex Cramer,56732,Central Michigan,Michael Wilson,62190,Rider
+2024,12/22,Sheridan Invitational,174,W,DEC,9 - 6,Thayne Lawrence,62598,Lehigh,Michael Wilson,62190,Rider
+2024,12/09,Wisconsin - Rider Dual,174,L,MD,15 - 4,Dean Hamiti,62894,Wisconsin,Michael Wilson,62190,Rider
+2024,12/01,Cliff Keen Invitational,174,W,DEC,8 - 6,Brody Baumann,73558,Purdue,Michael Wilson,62190,Rider
+2024,12/01,Cliff Keen Invitational,174,L,DEC,3 - 2,Alex Faison,56428,NC State,Michael Wilson,62190,Rider
+2024,12/01,Cliff Keen Invitational,174,L,TF5,18 - 2 6:26,Austin Murphy,51608,Campbell,Michael Wilson,62190,Rider
+2024,11/19,Michigan - Rider Dual,174,L,DEC,5 - 3,Shane Griffith,49991,Michigan,Michael Wilson,62190,Rider
+2024,11/12,Rider - Southern Illinois Edwardsville Dual,174,W,DEC,4 - 2,Dominic Lopez,85352,SIU Edwardsville,Michael Wilson,62190,Rider
+2024,11/10,Rider - Indiana Dual,174,L,TF5,18 - 3 3:12,Donnell Washington,57738,Indiana,Michael Wilson,62190,Rider
+2024,11/05,Princeton Open,174,W,DEC,8 - 1,Cooper Haase,73434,United States Military Academy,Michael Wilson,62190,Rider
+2024,11/05,Princeton Open,174,W,DEC,4 - 2,Mikey Squires,67290,Princeton,Michael Wilson,62190,Rider
+2024,11/05,Princeton Open,174,W,SV-1,9 - 6,Kevin McCombs,73766,Army West Point,Michael Wilson,62190,Rider
+2024,11/05,Princeton Open,174,L,DEC,9 - 6,Gunner Filipowicz,72974,Army West Point,Michael Wilson,62190,Rider
+2024,03/03,Zingo Nationals,174,L,DEC,12 - 5,Luke Ahrberg,71931,NC State,Shane Reitsma,63067,Rider
+2024,03/03,Zingo Nationals,174,W,MD,11 - 2,Nicolas Alvarez,78573,Franklin & Marshall,Shane Reitsma,63067,Rider
+2024,03/03,Zingo Nationals,174,L,DEC,4 - 2,George Rhodes,84619,Drexel,Shane Reitsma,63067,Rider
+2024,02/03,Edinboro Open,174,L,MD,17 - 5,Travis Mastrogiovanni,67221,Northern Colorado,Shane Reitsma,63067,Rider
+2024,02/03,Edinboro Open,174,W,DEC,7 - 3,Ayden Miller,72194,Clarion,Shane Reitsma,63067,Rider
+2024,02/03,Edinboro Open,174,L,SV-1,7 - 4,Nick Marienfeld,79054,Central Michigan,Shane Reitsma,63067,Rider
+2024,12/03,Patriot Open,165,L,DEC,4 - 2,Jake Silverstein,67370,Rider,Shane Reitsma,63067,Rider
+2024,12/03,Patriot Open,165,W,MFOR,0 - 0,Jagger Gray,84325,Maryland,Shane Reitsma,63067,Rider
+2024,12/03,Patriot Open,165,L,DEC,4 - 1,Oren Bost,73101,Appalachian State,Shane Reitsma,63067,Rider
+2024,12/03,Patriot Open,165,W,DEC,5 - 2,Miles Bassett,70025,Bucknell,Shane Reitsma,63067,Rider
+2024,03/08,MAC Championships,184,L,DEC,8 - 1,Zayne Lehman,71781,Ohio,Isaac Dean,72506,Rider
+2024,03/08,MAC Championships,184,L,DEC,2 - 1,Colin Fegley,63035,Lock Haven,Isaac Dean,72506,Rider
+2024,03/08,MAC Championships,184,W,SV-1,4 - 1,Adrien Cramer,68713,Central Michigan,Isaac Dean,72506,Rider
+2024,03/08,MAC Championships,184,L,DEC,12 - 5,Chase Kranitz,73700,Buffalo,Isaac Dean,72506,Rider
+2024,02/23,Rider - Cleveland State Dual,184,W,DEC,4 - 2,Joey Lyons,72596,Cleveland State,Isaac Dean,72506,Rider
+2024,02/22,Rider - Pittsburgh Dual,184,L,DEC,1 - 0,Reece Heller,61961,Pittsburgh,Isaac Dean,72506,Rider
+2024,02/04,Rider - George Mason Dual,184,L,SV-1,4 - 1,Malachi Duvall,72189,George Mason,Isaac Dean,72506,Rider
+2024,02/03,Rider - Drexel Dual,184,L,FALL,3:44,Ethan Wilson,76858,Drexel,Isaac Dean,72506,Rider
+2024,01/28,Bloomsburg - Rider Dual,184,W,DEC,7 - 2,Tanner Culver,62461,Bloomsburg,Isaac Dean,72506,Rider
+2024,01/26,Lock Haven - Rider Dual,184,W,SV-1,7 - 1,Colin Fegley,63035,Lock Haven,Isaac Dean,72506,Rider
+2024,01/14,Edinboro - Rider Dual,184,W,DEC,8 - 1,Brody Evans,84305,Edinboro,Isaac Dean,72506,Rider
+2024,01/11,Princeton - Rider Dual,184,L,MD,12 - 3,Nate Dugan,57662,Princeton,Isaac Dean,72506,Rider
+2024,01/07,Rider - Rutgers Dual,184,L,DEC,7 - 1,Brian Soldano,67558,Rutgers,Isaac Dean,72506,Rider
+2024,01/05,Northern Illinois - Rider Dual,184,W,DEC,4 - 3,Matt Zuber,66265,Northern Illinois,Isaac Dean,72506,Rider
+2024,12/09,Wisconsin - Rider Dual,184,L,SV-1,4 - 1,Max Maylor,56310,Wisconsin,Isaac Dean,72506,Rider
+2024,12/03,Patriot Open,184,W,DEC,7 - 1,Joe Burch,85786,Unattached,Isaac Dean,72506,Rider
+2024,12/03,Patriot Open,184,L,TF5,17 - 1 4:42,Bennett Berge,73099,South Dakota State,Isaac Dean,72506,Rider
+2024,12/03,Patriot Open,184,W,DEC,7 - 4,Dylan Reinert,63029,NC State,Isaac Dean,72506,Rider
+2024,12/03,Patriot Open,184,W,FALL,1:26,Alexander Newkirk,84959,Morgan State,Isaac Dean,72506,Rider
+2024,12/03,Patriot Open,184,W,DEC,4 - 2,Tomas Brooker,79391,Appalachian State,Isaac Dean,72506,Rider
+2024,11/19,Michigan - Rider Dual,184,L,MD,12 - 0,Jaden Bullock,67035,Michigan,Isaac Dean,72506,Rider
+2024,11/12,Rider - Southern Illinois Edwardsville Dual,184,W,TB-2,3 - 2,Deron Pulliam,77410,SIU Edwardsville,Isaac Dean,72506,Rider
+2024,11/10,Rider - Indiana Dual,184,L,FALL,5:37,Roman Rogotzke,70925,Indiana,Isaac Dean,72506,Rider
+2024,11/05,Princeton Open,184,W,DEC,2 - 1,Brock Zurawski,78679,Rider,Isaac Dean,72506,Rider
+2024,11/05,Princeton Open,184,L,DEC,8 - 6,Jack Wilt,73042,Lehigh,Isaac Dean,72506,Rider
+2024,11/05,Princeton Open,184,L,DEC,4 - 2,JT Davis,65763,Lehigh,Isaac Dean,72506,Rider
+2024,11/05,Princeton Open,184,W,DEC,8 - 2,Tanner Culver,62461,Bloomsburg,Isaac Dean,72506,Rider
+2024,03/03,Zingo Nationals,184,W,FALL,0:52,John Steele,89851,Unattached,Brock Zurawski,78679,Rider
+2024,03/03,Zingo Nationals,184,L,MD,12 - 4,Nick Fine,71734,NYC RTC,Brock Zurawski,78679,Rider
+2024,03/03,Zingo Nationals,184,W,MD,13 - 3,Gavin Claro,73410,LIU,Brock Zurawski,78679,Rider
+2024,03/03,Zingo Nationals,184,L,MFOR,0 - 0,Nathaniel Lapinski,67252,Drexel,Brock Zurawski,78679,Rider
+2024,02/03,Edinboro Open,184,W,TF5,17 - 0 4:59,Gavin Bell,65314,Ohio State,Brock Zurawski,78679,Rider
+2024,02/03,Edinboro Open,184,W,DEC,12 - 9,Gavin Bell,65314,Ohio State,Brock Zurawski,78679,Rider
+2024,02/03,Edinboro Open,184,W,TF5,15 - 0 2:49,Landon Christie,87692,Mercyhurst,Brock Zurawski,78679,Rider
+2024,02/03,Edinboro Open,184,W,TF5,18 - 3 7:00,Ike Schmidt,78993,Columbia,Brock Zurawski,78679,Rider
+2024,02/03,Edinboro Open,184,L,DEC,6 - 3,Caleb Campos,78804,American,Brock Zurawski,78679,Rider
+2024,01/28,Mat-Town Open II,184,W,DEC,6 - 3,Carson Crace,89072,Spartan Combat RTC,Brock Zurawski,78679,Rider
+2024,01/28,Mat-Town Open II,184,W,TF5,20 - 5 4:14,Leo Hess,84528,Bloomsburg,Brock Zurawski,78679,Rider
+2024,01/28,Mat-Town Open II,184,L,TF5,19 - 3 6:14,Josh Barr,77988,Penn State,Brock Zurawski,78679,Rider
+2024,01/28,Mat-Town Open II,184,W,MD,16 - 8,Nolan Springer,71749,Bucknell,Brock Zurawski,78679,Rider
+2024,01/05,David Lehman Open,184,L,DEC,8 - 5,David Barrett,84263,United States Military Academy,Brock Zurawski,78679,Rider
+2024,01/05,David Lehman Open,184,W,DEC,7 - 4,Gavin Claro,73410,LIU,Brock Zurawski,78679,Rider
+2024,01/05,David Lehman Open,184,W,TF5,17 - 2 2:33,Ericson Velasquez,68554,Hofstra,Brock Zurawski,78679,Rider
+2024,01/05,David Lehman Open,184,L,MD,12 - 4,Leonardo Tarantino,51222,Harvard,Brock Zurawski,78679,Rider
+2024,12/22,Sheridan Invitational,184,L,DEC,10 - 6,Drew Clearie,71778,Unattached,Brock Zurawski,78679,Rider
+2024,12/22,Sheridan Invitational,184,L,DEC,5 - 3,Nicholas South,56709,Indiana,Brock Zurawski,78679,Rider
+2024,12/09,Wisconsin - Rider Dual,197,L,MD,13 - 5,Shane Liegel,66103,Wisconsin,Brock Zurawski,78679,Rider
+2024,11/19,Michigan - Rider Dual,197,L,DEC,5 - 0,Bobby Striggow,51240,Michigan,Brock Zurawski,78679,Rider
+2024,11/05,Princeton Open,184,L,DEC,2 - 1,Isaac Dean,72506,Rider,Brock Zurawski,78679,Rider
+2024,11/05,Princeton Open,184,L,DEC,3 - 2,Caden Rogers,64004,Lehigh,Brock Zurawski,78679,Rider
+2024,11/05,Princeton Open,184,W,MD,16 - 7,Will Conlon,84816,Hofstra,Brock Zurawski,78679,Rider
+2024,02/03,Edinboro Open,197,L,MD,14 - 2,Xavier Vasquez,49233,Northern Colorado,Quinn Collins,79801,Rider
+2024,02/03,Edinboro Open,197,L,DEC,10 - 3,Trent Thomas,86118,Kent State,Quinn Collins,79801,Rider
+2024,02/03,Edinboro Open,197,W,MD,13 - 1,Gavin Proffitt,84817,Hofstra,Quinn Collins,79801,Rider
+2024,12/03,Patriot Open,184,L,FALL,2:22,Carson Crace,89072,Spartan Combat RTC,Quinn Collins,79801,Rider
+2024,12/03,Patriot Open,184,W,DEC,2 - 1,Andrew Macchiavello,77777,NC State,Quinn Collins,79801,Rider
+2024,12/03,Patriot Open,184,W,FALL,1:24,Eric Washington,81707,Morgan State,Quinn Collins,79801,Rider
+2024,12/03,Patriot Open,184,W,DEC,5 - 1,Dalton Battle,73100,Appalachian State,Quinn Collins,79801,Rider
+2024,12/03,Patriot Open,184,L,MD,11 - 2,Tomas Brooker,79391,Appalachian State,Quinn Collins,79801,Rider
+2024,11/05,Princeton Open,197,L,MD,11 - 3,Reid Schroeder,79343,United States Military Academy,Quinn Collins,79801,Rider
+2024,11/05,Princeton Open,197,L,DEC,9 - 7,Thomas Godbee,71643,Army West Point,Quinn Collins,79801,Rider
+2024,03/08,MAC Championships,197,W,DEC,8 - 2,Tyler Kocak,69715,George Mason,Azeem Bell,67120,Rider
+2024,03/08,MAC Championships,197,W,DEC,2 - 0,Jack Kilner,65375,Edinboro,Azeem Bell,67120,Rider
+2024,03/08,MAC Championships,197,L,DEC,10 - 8,Cameron Wood,73724,Central Michigan,Azeem Bell,67120,Rider
+2024,03/08,MAC Championships,197,W,MD,8 - 0,Cael Black,78740,Lock Haven,Azeem Bell,67120,Rider
+2024,03/08,MAC Championships,197,L,MD,14 - 3,Ben Smith,56236,Cleveland State,Azeem Bell,67120,Rider
+2024,02/23,Rider - Cleveland State Dual,197,L,FALL,3:35,Ben Smith,56236,Cleveland State,Azeem Bell,67120,Rider
+2024,02/22,Rider - Pittsburgh Dual,197,L,TF5,21 - 5 6:22,Mac Stout,72505,Pittsburgh,Azeem Bell,67120,Rider
+2024,02/16,Clarion - Rider Dual,197,W,MD,11 - 0,Ethan Wiant,63052,Clarion,Azeem Bell,67120,Rider
+2024,02/04,Rider - George Mason Dual,197,W,MD,14 - 4,Nick Foster,78902,George Mason,Azeem Bell,67120,Rider
+2024,02/03,Rider - Drexel Dual,197,L,FALL,4:56,Ibrahim Ameer,75829,Drexel,Azeem Bell,67120,Rider
+2024,01/28,Bloomsburg - Rider Dual,197,W,TF5,22 - 7 3:00,David Tuttle,67654,Bloomsburg,Azeem Bell,67120,Rider
+2024,01/26,Lock Haven - Rider Dual,197,W,INJ,1:39,Brad Morrison,78739,Lock Haven,Azeem Bell,67120,Rider
+2024,01/14,Edinboro - Rider Dual,197,L,DEC,4 - 1,Jack Kilner,65375,Edinboro,Azeem Bell,67120,Rider
+2024,01/11,Princeton - Rider Dual,197,L,TF5,21 - 4 6:20,Luke Stout,62599,Princeton,Azeem Bell,67120,Rider
+2024,01/07,Rider - Rutgers Dual,197,L,MD,17 - 5,John Poznanski,61124,Rutgers,Azeem Bell,67120,Rider
+2024,01/05,Northern Illinois - Rider Dual,197,W,DEC,5 - 1,Sean Carroll,81794,Northern Illinois,Azeem Bell,67120,Rider
+2024,12/22,Sheridan Invitational,197,L,DEC,17 - 11,James Araneo,71780,Brown,Azeem Bell,67120,Rider
+2024,12/22,Sheridan Invitational,197,L,DEC,8 - 1,JT Davis,65763,Lehigh,Azeem Bell,67120,Rider
+2024,12/03,Patriot Open,197,W,MD,13 - 1,Omar Palmer,89468,Unattached,Azeem Bell,67120,Rider
+2024,12/03,Patriot Open,197,L,DEC,7 - 4,Liam Volk-Klos,78524,American,Azeem Bell,67120,Rider
+2024,12/03,Patriot Open,197,L,DEC,10 - 4,Carston Rawls,72684,American,Azeem Bell,67120,Rider
+2024,12/03,Patriot Open,197,W,DEC,6 - 4,Michael Baker,56891,Columbia,Azeem Bell,67120,Rider
+2024,11/10,Rider - Indiana Dual,197,L,FALL,4:21,Gabe Sollars,77269,Indiana,Azeem Bell,67120,Rider
+2024,11/05,Princeton Open,197,W,DEC,5 - 1,Hadyn Packer,84363,Rutgers,Azeem Bell,67120,Rider
+2024,11/05,Princeton Open,197,W,SV-1,4 - 1,Aidan Conner,57524,Princeton,Azeem Bell,67120,Rider
+2024,11/05,Princeton Open,197,W,DEC,8 - 2,Dante Hoose,81067,Lehigh,Azeem Bell,67120,Rider
+2024,11/05,Princeton Open,197,L,DEC,4 - 1,Daniel Lawrence,69375,Army West Point,Azeem Bell,67120,Rider
+2024,12/03,Patriot Open,197,L,SV-1,4 - 1,Carston Rawls,72684,American,Asa Terrell,69517,Rider
+2024,12/03,Patriot Open,197,L,DEC,8 - 6,Michael Baker,56891,Columbia,Asa Terrell,69517,Rider
+2024,11/12,Rider - Southern Illinois Edwardsville Dual,197,L,DEC,4 - 0,Ryan Yarnell,57006,SIU Edwardsville,Asa Terrell,69517,Rider
+2024,11/05,Princeton Open,197,L,TF5,22 - 6 3:08,Wolfgang Frable,78566,Army West Point,Lucas Ainbinder,85164,Rider
+2024,11/05,Princeton Open,197,L,MD,14 - 2,Eli Pack,71767,Army West Point,Lucas Ainbinder,85164,Rider
+2024,03/21,NCAA Championships,285,L,FALL,4:09,Grady Griess,63170,Navy,David Szuba,72908,Rider
+2024,03/21,NCAA Championships,285,W,MD,16 - 8,Bennett Tabor,72142,Minnesota,David Szuba,72908,Rider
+2024,03/21,NCAA Championships,285,L,MD,12 - 2,Lewis Fernandes,56901,Cornell,David Szuba,72908,Rider
+2024,03/08,MAC Championships,285,W,DEC,7 - 3,Daniel Bucknavich,62488,Cleveland State,David Szuba,72908,Rider
+2024,03/08,MAC Championships,285,W,MD,13 - 1,Jordan Greer,62652,Ohio,David Szuba,72908,Rider
+2024,03/08,MAC Championships,285,W,TF5,17 - 1 3:46,Josh Boggan,79799,Kent State,David Szuba,72908,Rider
+2024,03/08,MAC Championships,285,W,TF5,21 - 6 7:00,Donovan Sprouse,78363,George Mason,David Szuba,72908,Rider
+2024,02/23,Rider - Cleveland State Dual,285,W,MD,16 - 2,Daniel Bucknavich,62488,Cleveland State,David Szuba,72908,Rider
+2024,02/22,Rider - Pittsburgh Dual,285,W,FALL,4:19,Geoff Magin,62874,Pittsburgh,David Szuba,72908,Rider
+2024,02/16,Clarion - Rider Dual,285,W,DEC,4 - 1,Austin Chapman,63708,Clarion,David Szuba,72908,Rider
+2024,02/04,Rider - George Mason Dual,285,W,TF5,22 - 5 3:51,Donovan Sprouse,78363,George Mason,David Szuba,72908,Rider
+2024,02/03,Rider - Drexel Dual,285,W,MD,18 - 4,Santino Morina,62654,Drexel,David Szuba,72908,Rider
+2024,01/28,Bloomsburg - Rider Dual,285,W,TF5,21 - 4 5:06,Tyler McCatharn,79217,Bloomsburg,David Szuba,72908,Rider
+2024,01/26,Lock Haven - Rider Dual,285,W,TF5,17 - 2 2:31,Ethan Miller,78742,Lock Haven,David Szuba,72908,Rider
+2024,01/14,Edinboro - Rider Dual,285,W,MD,11 - 1,Nick Lodato,72606,Edinboro,David Szuba,72908,Rider
+2024,01/11,Princeton - Rider Dual,285,W,FALL,0:40,Sebastian Garibaldi,72130,Princeton,David Szuba,72908,Rider
+2024,01/07,Rider - Rutgers Dual,285,L,MD,11 - 2,Yaraslau Slavikouski,62196,Rutgers,David Szuba,72908,Rider
+2024,01/05,Northern Illinois - Rider Dual,285,L,DEC,8 - 6,Jacobi Jackson,72513,Northern Illinois,David Szuba,72908,Rider
+2024,12/22,Sheridan Invitational,285,W,MD,9 - 1,Bryan Caves,71791,Central Michigan,David Szuba,72908,Rider
+2024,12/22,Sheridan Invitational,285,L,FALL,4:22,Nathan Taylor,73044,Lehigh,David Szuba,72908,Rider
+2024,12/22,Sheridan Invitational,285,W,MD,11 - 3,Karam Chakif,67262,Lehigh,David Szuba,72908,Rider
+2024,12/09,Wisconsin - Rider Dual,285,W,TF5,22 - 6 5:44,Gannon Rosenfeld,79252,Wisconsin,David Szuba,72908,Rider
+2024,12/01,Cliff Keen Invitational,285,W,DEC,4 - 2,Jacob Sartorio,65393,Appalachian State,David Szuba,72908,Rider
+2024,12/01,Cliff Keen Invitational,285,L,DEC,11 - 10,Cory Day,62418,Binghamton,David Szuba,72908,Rider
+2024,12/01,Cliff Keen Invitational,285,L,DEC,4 - 2,Owen Trephan,56903,NC State,David Szuba,72908,Rider
+2024,12/01,Cliff Keen Invitational,285,W,FALL,2:20,Jeffrey Crooks,72111,Harvard,David Szuba,72908,Rider
+2024,11/19,Michigan - Rider Dual,285,L,MD,12 - 1,Lucas Davison,51236,Michigan,David Szuba,72908,Rider
+2024,11/12,Rider - Southern Illinois Edwardsville Dual,285,W,MD,14 - 4,Bryson Buhk,78485,SIU Edwardsville,David Szuba,72908,Rider
+2024,11/05,Princeton Open,285,L,CMFF,0 - 0,John O'Donnell,72115,Rutgers,David Szuba,72908,Rider
+2024,11/05,Princeton Open,285,W,MD,12 - 3,Peter Wersinger,56532,The College of New Jersey,David Szuba,72908,Rider
+2024,11/05,Princeton Open,285,L,FALL,3:48,Nathan Taylor,73044,Lehigh,David Szuba,72908,Rider
+2024,11/05,Princeton Open,285,W,DEC,4 - 1,Austin Kohlhofer,78530,Army West Point,David Szuba,72908,Rider
+2024,11/05,Princeton Open,285,W,DEC,9 - 2,Gage Cook,71772,Army West Point,David Szuba,72908,Rider

@@ -1,0 +1,522 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2020,03/07,Big 12 Championships,125,W,DEC,3 - 1,Alex Mackall,44577,Iowa State,Nick Piccininni,39547,Oklahoma State
+2020,03/07,Big 12 Championships,125,W,MD,12 - 1,McGwire Midkiff,49224,North Dakota State,Nick Piccininni,39547,Oklahoma State
+2020,03/07,Big 12 Championships,125,W,TF5,20 - 3 7:00,Joey Thomas,51008,West Virginia,Nick Piccininni,39547,Oklahoma State
+2020,02/23,Oklahoma State - Iowa Dual,125,L,MD,12 - 3,Spencer Lee,49146,Iowa,Nick Piccininni,39547,Oklahoma State
+2020,02/16,Oklahoma - Oklahoma State Dual,125,W,FALL,5:54,Christian Moody,39746,Oklahoma,Nick Piccininni,39547,Oklahoma State
+2020,02/08,Oklahoma State - Wyoming Dual,125,W,DEC,8 - 2,Jake Svihel,59535,Wyoming,Nick Piccininni,39547,Oklahoma State
+2020,02/08,Oklahoma State - Air Force Dual,125,W,TF5,18 - 2 5:15,Graham Shore,50580,Air Force,Nick Piccininni,39547,Oklahoma State
+2020,02/02,Oklahoma State - Missouri Dual,125,W,TF5,20 - 5 7:00,Cameron Valdiviez,49029,Missouri,Nick Piccininni,39547,Oklahoma State
+2020,01/31,South Dakota State - Oklahoma State Dual,125,W,TF5,17 - 1 6:28,Danny Vega,45142,South Dakota State,Nick Piccininni,39547,Oklahoma State
+2020,01/26,Oklahoma State - Iowa State Dual,125,W,MD,10 - 2,Alex Mackall,44577,Iowa State,Nick Piccininni,39547,Oklahoma State
+2020,01/25,Oklahoma State - Northern Iowa Dual,125,W,DEC,9 - 6,Jacob Schwarm,39750,Northern Iowa,Nick Piccininni,39547,Oklahoma State
+2020,01/18,Oklahoma State - Pittsburgh Dual,125,W,FALL,4:15,Louis Newell,50916,Pittsburgh,Nick Piccininni,39547,Oklahoma State
+2020,01/17,Oklahoma State - West Virginia Dual,125,W,TF5,18 - 0 3:00,Joey Thomas,51008,West Virginia,Nick Piccininni,39547,Oklahoma State
+2020,01/12,Northern Colorado - Oklahoma State Dual,125,W,TF5,20 - 5 7:00,Jace Koelzer,50912,Northern Colorado,Nick Piccininni,39547,Oklahoma State
+2020,01/01,Southern Scuffle,125,W,DEC,6 - 4,Sam Latona,56742,Virginia Tech,Nick Piccininni,39547,Oklahoma State
+2020,01/01,Southern Scuffle,125,W,MD,10 - 0,Luke Werner,50282,Lock Haven,Nick Piccininni,39547,Oklahoma State
+2020,01/01,Southern Scuffle,125,W,TF5,17 - 0 4:16,Malcolm Robinson,49472,Rutgers,Nick Piccininni,39547,Oklahoma State
+2020,01/01,Southern Scuffle,125,W,TF5,16 - 0 3:51,Tommaso Frezza,62421,Binghamton,Nick Piccininni,39547,Oklahoma State
+2020,01/01,Southern Scuffle,125,W,DEC,9 - 3,Caleb Smith,58559,Appalachian State,Nick Piccininni,39547,Oklahoma State
+2020,01/01,Southern Scuffle,125,W,FALL,0:18,Cian Fischer,57516,Davidson,Nick Piccininni,39547,Oklahoma State
+2020,12/15,Oklahoma State - Oklahoma Dual,125,W,MD,14 - 2,Christian Moody,39746,Oklahoma,Nick Piccininni,39547,Oklahoma State
+2020,12/06,Princeton - Oklahoma State Dual,125,L,DEC,9 - 4,Patrick Glory,51100,Princeton,Nick Piccininni,39547,Oklahoma State
+2020,11/24,Minnesota - Oklahoma State Dual,125,W,DEC,3 - 2,Patrick McKee,50594,Minnesota,Nick Piccininni,39547,Oklahoma State
+2020,11/16,Oklahoma State - Lehigh Dual,125,W,MD,11 - 3,Brandon Paetzell,44578,Lehigh,Nick Piccininni,39547,Oklahoma State
+2020,11/15,Oklahoma State - Drexel Dual,125,W,TF5,16 - 1 2:22,Dante Mininno,50646,Drexel,Nick Piccininni,39547,Oklahoma State
+2020,11/09,Oklahoma City Open,125,W,FALL,3:29,Jayden Carson,62838,Little Rock,Nick Piccininni,39547,Oklahoma State
+2020,11/09,Oklahoma City Open,125,W,TF5,17 - 2 7:00,Tanner Cole,53315,Central Oklahoma,Nick Piccininni,39547,Oklahoma State
+2020,11/09,Oklahoma City Open,125,W,MD,10 - 1,Cody Karstetter,40326,Central Oklahoma,Nick Piccininni,39547,Oklahoma State
+2020,12/07,Bob Smith Open,125,W,DEC,10 - 3,Studd Morris,63872,Central Oklahoma,Dallas Wilson,52442,Oklahoma State
+2020,12/07,Bob Smith Open,125,W,FALL,0:35,Evan Shell,59963,Northeastern Junior College,Dallas Wilson,52442,Oklahoma State
+2020,12/07,Bob Smith Open,125,L,DEC,11 - 7,Tanner Cole,53315,Central Oklahoma,Dallas Wilson,52442,Oklahoma State
+2020,12/07,Bob Smith Open,125,W,DEC,9 - 5,Isaiah Delacerda,52435,Adams State,Dallas Wilson,52442,Oklahoma State
+2020,11/23,Lindenwood Open,125,W,MD,15 - 3,Jacob Garrison,65034,Missouri Valley,Dallas Wilson,52442,Oklahoma State
+2020,11/23,Lindenwood Open,125,L,DEC,4 - 1,Tyler Kreith,51944,Maryville University,Dallas Wilson,52442,Oklahoma State
+2020,11/23,Lindenwood Open,125,L,MD,10 - 2,Noah Surtin,56715,Missouri,Dallas Wilson,52442,Oklahoma State
+2020,11/09,Oklahoma City Open,125,W,FALL,5:22,Riley Weir,63837,Northeastern Oklahoma,Dallas Wilson,52442,Oklahoma State
+2020,11/09,Oklahoma City Open,125,W,MD,14 - 3,Dalen Moore,63821,Northeastern Oklahoma,Dallas Wilson,52442,Oklahoma State
+2020,11/09,Oklahoma City Open,125,W,DEC,4 - 2,Corwin Strachan,63747,Cowley College,Dallas Wilson,52442,Oklahoma State
+2020,11/09,Oklahoma City Open,125,W,MD,13 - 0,Robert Fairchild,59601,Williams Baptist,Dallas Wilson,52442,Oklahoma State
+2020,02/08,NEO Golden Norsemen,133,L,TF5,16 - 0 1:42,Mason Turner,52115,Fort Hays State,Colten Klein,62749,Oklahoma State
+2020,02/08,NEO Golden Norsemen,133,L,FALL,3:00,Logan Farrell,63858,Central Oklahoma,Colten Klein,62749,Oklahoma State
+2020,12/07,Bob Smith Open,125,L,TF5,15 - 0 5:46,Studd Morris,63872,Central Oklahoma,Colten Klein,62749,Oklahoma State
+2020,12/07,Bob Smith Open,125,W,FALL,1:10,Alec Segarra,62637,Nebraska-Kearney,Colten Klein,62749,Oklahoma State
+2020,12/07,Bob Smith Open,125,L,FALL,5:51,Tanner Cole,53315,Central Oklahoma,Colten Klein,62749,Oklahoma State
+2020,11/23,Lindenwood Open,125,L,FALL,2:00,Riley Weir,63837,Northeastern Oklahoma,Colten Klein,62749,Oklahoma State
+2020,11/23,Lindenwood Open,125,L,FALL,5:58,Caleb Fuessley,62605,Iowa State,Colten Klein,62749,Oklahoma State
+2020,11/09,Oklahoma City Open,125,L,FALL,6:07,Dalen Moore,63821,Northeastern Oklahoma,Colten Klein,62749,Oklahoma State
+2020,11/09,Oklahoma City Open,125,L,MD,11 - 2,Trey Taylor,63295,Ouachita Baptist University,Colten Klein,62749,Oklahoma State
+2020,01/01,Southern Scuffle,125,L,FALL,2:46,Nic Aguilar,51104,Rutgers,Rhett Golowenski,51120,Oklahoma State
+2020,01/01,Southern Scuffle,125,L,DEC,5 - 2,Cian Fischer,57516,Davidson,Rhett Golowenski,51120,Oklahoma State
+2020,11/09,Oklahoma City Open,125,L,DEC,8 - 1,Tanner Cole,53315,Central Oklahoma,Rhett Golowenski,51120,Oklahoma State
+2020,11/09,Oklahoma City Open,125,W,FALL,2:06,Iyean Varela,47057,New Mexico Highlands,Rhett Golowenski,51120,Oklahoma State
+2020,11/09,Oklahoma City Open,125,L,MD,8 - 0,Cody Karstetter,40326,Central Oklahoma,Rhett Golowenski,51120,Oklahoma State
+2020,03/07,Big 12 Championships,133,W,TF5,22 - 7 7:00,Lucas Seibert,56444,West Virginia,Reece Witcraft,57312,Oklahoma State
+2020,03/07,Big 12 Championships,133,L,MD,16 - 7,Lawrence Saenz,56597,Fresno State,Reece Witcraft,57312,Oklahoma State
+2020,03/07,Big 12 Championships,133,L,DEC,9 - 6,Jared Van Vleet,51357,Air Force,Reece Witcraft,57312,Oklahoma State
+2020,03/07,Big 12 Championships,133,W,DEC,5 - 3,Taylor LaMont,44777,Utah Valley,Reece Witcraft,57312,Oklahoma State
+2020,02/23,Oklahoma State - Iowa Dual,133,L,FALL,2:38,Austin DeSanto,49117,Iowa,Reece Witcraft,57312,Oklahoma State
+2020,02/16,Oklahoma - Oklahoma State Dual,133,W,DEC,11 - 7,Tommy Hoskins,50613,Oklahoma,Reece Witcraft,57312,Oklahoma State
+2020,02/08,Oklahoma State - Wyoming Dual,133,W,SV-1,3 - 1,Montorie Bridges,44844,Wyoming,Reece Witcraft,57312,Oklahoma State
+2020,02/08,Oklahoma State - Air Force Dual,133,W,DEC,11 - 6,Jared Van Vleet,51357,Air Force,Reece Witcraft,57312,Oklahoma State
+2020,02/02,Oklahoma State - Missouri Dual,133,L,DEC,11 - 7,Allan Hart,49193,Missouri,Reece Witcraft,57312,Oklahoma State
+2020,01/31,South Dakota State - Oklahoma State Dual,133,W,DEC,9 - 4,Zach Price,50932,South Dakota State,Reece Witcraft,57312,Oklahoma State
+2020,01/26,Oklahoma State - Iowa State Dual,133,W,DEC,9 - 8,Todd Small,45992,Iowa State,Reece Witcraft,57312,Oklahoma State
+2020,01/25,Oklahoma State - Northern Iowa Dual,133,L,DEC,10 - 5,Jack Skudlarczyk,49241,Northern Iowa,Reece Witcraft,57312,Oklahoma State
+2020,01/18,Oklahoma State - Pittsburgh Dual,133,L,FALL,4:04,Micky Phillippi,45230,Pittsburgh,Reece Witcraft,57312,Oklahoma State
+2020,01/17,Oklahoma State - West Virginia Dual,133,W,TF5,17 - 1 5:31,Lucas Seibert,56444,West Virginia,Reece Witcraft,57312,Oklahoma State
+2020,01/12,Northern Colorado - Oklahoma State Dual,133,L,DEC,12 - 11,Mosha Schwartz,55841,Northern Colorado,Reece Witcraft,57312,Oklahoma State
+2020,01/01,Southern Scuffle,133,L,DEC,8 - 4,Casey Cobb,45566,Navy,Reece Witcraft,57312,Oklahoma State
+2020,01/01,Southern Scuffle,133,W,DEC,11 - 6,Cole Manley,49337,Lock Haven,Reece Witcraft,57312,Oklahoma State
+2020,01/01,Southern Scuffle,133,W,DEC,3 - 2,Brandon Kier,45388,Stanford,Reece Witcraft,57312,Oklahoma State
+2020,01/01,Southern Scuffle,133,L,DEC,4 - 3,Micky Phillippi,45230,Pittsburgh,Reece Witcraft,57312,Oklahoma State
+2020,01/01,Southern Scuffle,133,W,MD,13 - 4,Colton Landers,50949,Chattanooga,Reece Witcraft,57312,Oklahoma State
+2020,12/15,Oklahoma State - Oklahoma Dual,133,W,DEC,6 - 5,Anthony Madrigal,50633,Oklahoma,Reece Witcraft,57312,Oklahoma State
+2020,12/06,Princeton - Oklahoma State Dual,133,W,DEC,8 - 3,Sean Pierson,60443,Princeton,Reece Witcraft,57312,Oklahoma State
+2020,11/24,Minnesota - Oklahoma State Dual,133,W,FALL,3:56,Brent Jones,49188,Minnesota,Reece Witcraft,57312,Oklahoma State
+2020,11/15,Oklahoma State - Drexel Dual,133,L,DEC,5 - 1,Chandler Olson,49119,Drexel,Reece Witcraft,57312,Oklahoma State
+2020,11/09,Oklahoma City Open,133,W,MD,17 - 7,Jaylen Carson,62839,Little Rock,Reece Witcraft,57312,Oklahoma State
+2020,11/09,Oklahoma City Open,133,W,DEC,19 - 16,Mikey Mascarenas,53303,Northeastern Oklahoma,Reece Witcraft,57312,Oklahoma State
+2020,11/09,Oklahoma City Open,133,W,FALL,4:01,Noah McQuigg,47227,Central Oklahoma,Reece Witcraft,57312,Oklahoma State
+2020,11/09,Oklahoma City Open,133,W,MD,14 - 4,Paul Bianchi,45589,Little Rock,Reece Witcraft,57312,Oklahoma State
+2020,11/09,Oklahoma City Open,133,W,MD,11 - 2,Adelfo Valdez,63834,Wayland Baptist,Andrew Nieman,45154,Oklahoma State
+2020,11/09,Oklahoma City Open,133,W,TF5,16 - 1 7:00,Saul Rocha,63827,Wayland Baptist,Andrew Nieman,45154,Oklahoma State
+2020,11/09,Oklahoma City Open,133,L,MD,14 - 2,Wyatt Henson,63814,High School,Andrew Nieman,45154,Oklahoma State
+2020,11/09,Oklahoma City Open,133,L,FALL,2:52,Noah McQuigg,47227,Central Oklahoma,Andrew Nieman,45154,Oklahoma State
+2020,12/15,Reno Tournament of Champions,141,L,DEC,10 - 9,Wyatt Cornelison,50514,Cal Poly,Conner Wilson,57248,Oklahoma State
+2020,12/15,Reno Tournament of Champions,141,L,MD,19 - 7,Derek Fisher,63024,Utah Valley,Conner Wilson,57248,Oklahoma State
+2020,11/23,Lindenwood Open,133,W,DEC,9 - 7,Noah McQuigg,47227,Central Oklahoma,Conner Wilson,57248,Oklahoma State
+2020,11/23,Lindenwood Open,133,W,MD,10 - 2,Dylan Utterback,51399,Northwestern,Conner Wilson,57248,Oklahoma State
+2020,11/23,Lindenwood Open,133,W,DEC,7 - 3,Jaylen Carson,62839,Little Rock,Conner Wilson,57248,Oklahoma State
+2020,11/23,Lindenwood Open,133,L,DEC,11 - 8,Lucas Byrd,56714,Illinois,Conner Wilson,57248,Oklahoma State
+2020,11/09,Oklahoma City Open,133,W,DEC,8 - 4,Wyatt Henson,63814,High School,Conner Wilson,57248,Oklahoma State
+2020,11/09,Oklahoma City Open,133,W,DEC,6 - 1,Gage Gomez,63810,Central Oklahoma,Conner Wilson,57248,Oklahoma State
+2020,11/09,Oklahoma City Open,133,L,DEC,6 - 4,Boo Dryden,52313,Minnesota,Conner Wilson,57248,Oklahoma State
+2020,11/09,Oklahoma City Open,133,L,INJ,7:00,Collin Anderson,52783,Embry-Riddle,Conner Wilson,57248,Oklahoma State
+2020,03/07,Big 12 Championships,141,W,DEC,4 - 2,Clay Carlson,56441,South Dakota State,Dusty Hone,20271,Oklahoma State
+2020,03/07,Big 12 Championships,141,W,DEC,6 - 4,Dylan Droegemueller,51082,North Dakota State,Dusty Hone,20271,Oklahoma State
+2020,03/07,Big 12 Championships,141,L,DEC,3 - 1,Dominick Demas,49256,Oklahoma,Dusty Hone,20271,Oklahoma State
+2020,03/07,Big 12 Championships,141,W,MD,11 - 3,Durbin Lloren,44916,Fresno State,Dusty Hone,20271,Oklahoma State
+2020,02/23,Oklahoma State - Iowa Dual,141,L,MD,15 - 4,Max Murin,49148,Iowa,Dusty Hone,20271,Oklahoma State
+2020,02/16,Oklahoma - Oklahoma State Dual,141,L,DEC,4 - 3,Dominick Demas,49256,Oklahoma,Dusty Hone,20271,Oklahoma State
+2020,02/08,Oklahoma State - Wyoming Dual,141,W,DEC,8 - 2,Trevor Jeffries,57064,Wyoming,Dusty Hone,20271,Oklahoma State
+2020,02/08,Oklahoma State - Air Force Dual,141,W,MD,13 - 4,Lenny Petersen,49024,Air Force,Dusty Hone,20271,Oklahoma State
+2020,02/02,Oklahoma State - Missouri Dual,141,W,DEC,9 - 3,Alexander Butler,39647,Missouri,Dusty Hone,20271,Oklahoma State
+2020,01/31,South Dakota State - Oklahoma State Dual,141,W,DEC,5 - 2,Clay Carlson,56441,South Dakota State,Dusty Hone,20271,Oklahoma State
+2020,01/26,Oklahoma State - Iowa State Dual,141,L,DEC,5 - 2,Ian Parker,44732,Iowa State,Dusty Hone,20271,Oklahoma State
+2020,01/25,Oklahoma State - Northern Iowa Dual,141,L,DEC,4 - 3,Michael Blockhus,57163,Northern Iowa,Dusty Hone,20271,Oklahoma State
+2020,01/18,Oklahoma State - Pittsburgh Dual,141,W,DEC,7 - 1,Cole Matthews,50936,Pittsburgh,Dusty Hone,20271,Oklahoma State
+2020,01/17,Oklahoma State - West Virginia Dual,141,W,DEC,7 - 2,Caleb Rea,56445,West Virginia,Dusty Hone,20271,Oklahoma State
+2020,01/12,Northern Colorado - Oklahoma State Dual,141,W,MD,8 - 0,Chris Sandoval,49229,Northern Colorado,Dusty Hone,20271,Oklahoma State
+2020,01/01,Southern Scuffle,141,W,MD,13 - 1,Riley Gurr,56785,Oregon State,Dusty Hone,20271,Oklahoma State
+2020,01/01,Southern Scuffle,141,W,SV-1,6 - 4,Tariq Wilson,44862,NC State,Dusty Hone,20271,Oklahoma State
+2020,01/01,Southern Scuffle,141,W,DEC,3 - 1,Kyle Shoop,39682,Lock Haven,Dusty Hone,20271,Oklahoma State
+2020,01/01,Southern Scuffle,141,W,DEC,4 - 2,Alex Madrigal,39754,George Mason,Dusty Hone,20271,Oklahoma State
+2020,01/01,Southern Scuffle,141,W,MD,12 - 2,Angelo Martinoni,57199,CSU Bakersfield,Dusty Hone,20271,Oklahoma State
+2020,01/01,Southern Scuffle,141,L,DEC,6 - 2,Real Woods,50664,Stanford,Dusty Hone,20271,Oklahoma State
+2020,01/01,Southern Scuffle,141,W,MD,8 - 0,Zach Firestone,45219,Rutgers,Dusty Hone,20271,Oklahoma State
+2020,12/15,Oklahoma State - Oklahoma Dual,141,L,DEC,6 - 4,Dominick Demas,49256,Oklahoma,Dusty Hone,20271,Oklahoma State
+2020,12/06,Princeton - Oklahoma State Dual,141,W,DEC,7 - 4,Marshall Keller,51509,Princeton,Dusty Hone,20271,Oklahoma State
+2020,11/24,Minnesota - Oklahoma State Dual,141,L,DEC,10 - 5,Mitch McKee,45139,Minnesota,Dusty Hone,20271,Oklahoma State
+2020,11/16,Oklahoma State - Lehigh Dual,141,L,DEC,3 - 2,Ryan Pomrinca,39667,Lehigh,Dusty Hone,20271,Oklahoma State
+2020,11/15,Oklahoma State - Drexel Dual,141,W,DEC,6 - 0,Tyler Williams,59552,Drexel,Dusty Hone,20271,Oklahoma State
+2020,11/09,Oklahoma City Open,141,W,FALL,3:00,Brice O'Hara,57140,Oklahoma,Dusty Hone,20271,Oklahoma State
+2020,11/09,Oklahoma City Open,141,W,MD,17 - 7,Trent Dooley,62845,Little Rock,Dusty Hone,20271,Oklahoma State
+2020,11/09,Oklahoma City Open,141,W,DEC,6 - 0,Joseph Bianchi,62836,Little Rock,Dusty Hone,20271,Oklahoma State
+2020,01/01,Southern Scuffle,141,W,FALL,3:57,Kyle Shoop,39682,Lock Haven,Kaden Gfeller,49261,Oklahoma State
+2020,01/01,Southern Scuffle,141,W,DEC,7 - 2,Angelo Martinoni,57199,CSU Bakersfield,Kaden Gfeller,49261,Oklahoma State
+2020,01/01,Southern Scuffle,141,L,DEC,6 - 1,Real Woods,50664,Stanford,Kaden Gfeller,49261,Oklahoma State
+2020,01/01,Southern Scuffle,141,W,DEC,6 - 3,Anthony Sparacio,47621,Binghamton,Kaden Gfeller,49261,Oklahoma State
+2020,01/01,Southern Scuffle,141,W,DEC,3 - 0,Herbert Edwards,50630,Rider,Kaden Gfeller,49261,Oklahoma State
+2020,01/01,Southern Scuffle,141,W,MD,13 - 0,Jacob Dado,59673,The Citadel,Kaden Gfeller,49261,Oklahoma State
+2020,12/07,Bob Smith Open,141,L,DEC,5 - 4,Gage Gomez,63810,Central Oklahoma,Colt Newton,57135,Oklahoma State
+2020,12/07,Bob Smith Open,141,W,FALL,1:34,Nick James,62636,Nebraska-Kearney,Colt Newton,57135,Oklahoma State
+2020,12/07,Bob Smith Open,141,W,FALL,3:44,Rush Fannon,62301,Colby Community College,Colt Newton,57135,Oklahoma State
+2020,12/07,Bob Smith Open,141,W,DEC,14 - 10,Ryan Johnson,57572,Nebraska-Kearney,Colt Newton,57135,Oklahoma State
+2020,12/07,Bob Smith Open,141,L,DEC,10 - 5,Jonathan Killingsworth,46316,Nebraska-Kearney,Colt Newton,57135,Oklahoma State
+2020,02/08,NEO Golden Norsemen,149,L,MD,10 - 1,Gage Hight,63815,Northeastern Oklahoma,Price Perrier,62751,Oklahoma State
+2020,02/08,NEO Golden Norsemen,149,L,DEC,4 - 3,Zach Porter,59442,Northeastern Oklahoma,Price Perrier,62751,Oklahoma State
+2020,12/07,Bob Smith Open,141,L,TF5,16 - 0 3:55,Jonathan Killingsworth,46316,Nebraska-Kearney,Price Perrier,62751,Oklahoma State
+2020,12/07,Bob Smith Open,141,L,DEC,8 - 1,Baylor Smith,57462,Newman,Price Perrier,62751,Oklahoma State
+2020,03/07,Big 12 Championships,149,W,DEC,8 - 5,Henry Pohlmeyer,39803,South Dakota State,Boo Lewallen,39543,Oklahoma State
+2020,03/07,Big 12 Championships,149,W,FALL,6:18,Jarrett Degen,44855,Iowa State,Boo Lewallen,39543,Oklahoma State
+2020,03/07,Big 12 Championships,149,W,TF5,15 - 0 3:10,Cameron Hunsaker,62438,Utah Valley,Boo Lewallen,39543,Oklahoma State
+2020,02/23,Oklahoma State - Iowa Dual,149,L,FALL,2:22,Patricio Lugo,39919,Iowa,Boo Lewallen,39543,Oklahoma State
+2020,02/16,Oklahoma - Oklahoma State Dual,149,W,MD,14 - 1,Jacob Butler,57142,Oklahoma,Boo Lewallen,39543,Oklahoma State
+2020,02/08,Oklahoma State - Wyoming Dual,149,W,MD,14 - 2,Jacob Greenwood,51093,Wyoming,Boo Lewallen,39543,Oklahoma State
+2020,02/08,Oklahoma State - Air Force Dual,149,W,MD,16 - 5,Dylan Martinez,51607,Air Force,Boo Lewallen,39543,Oklahoma State
+2020,02/02,Oklahoma State - Missouri Dual,149,L,SV-1,5 - 3,Brock Mauller,50596,Missouri,Boo Lewallen,39543,Oklahoma State
+2020,01/31,South Dakota State - Oklahoma State Dual,149,W,MD,10 - 0,Henry Pohlmeyer,39803,South Dakota State,Boo Lewallen,39543,Oklahoma State
+2020,01/26,Oklahoma State - Iowa State Dual,149,W,MD,13 - 1,Ryan Leisure,49152,Iowa State,Boo Lewallen,39543,Oklahoma State
+2020,01/25,Oklahoma State - Northern Iowa Dual,149,W,DEC,5 - 2,Max Thomsen,39503,Northern Iowa,Boo Lewallen,39543,Oklahoma State
+2020,01/18,Oklahoma State - Pittsburgh Dual,149,W,TF5,19 - 4 6:39,Luke Kemerer,50929,Pittsburgh,Boo Lewallen,39543,Oklahoma State
+2020,01/17,Oklahoma State - West Virginia Dual,149,W,FALL,1:10,Liam Lusher,61516,West Virginia,Boo Lewallen,39543,Oklahoma State
+2020,01/12,Northern Colorado - Oklahoma State Dual,149,W,DEC,11 - 4,Andrew Alirez,56723,Northern Colorado,Boo Lewallen,39543,Oklahoma State
+2020,12/15,Oklahoma State - Oklahoma Dual,149,W,MD,12 - 4,Jacob Butler,57142,Oklahoma,Boo Lewallen,39543,Oklahoma State
+2020,12/06,Princeton - Oklahoma State Dual,149,W,DEC,7 - 4,Mike D'angelo,43678,Princeton,Boo Lewallen,39543,Oklahoma State
+2020,11/24,Minnesota - Oklahoma State Dual,149,W,DEC,8 - 3,Brayton Lee,52079,Minnesota,Boo Lewallen,39543,Oklahoma State
+2020,11/16,Oklahoma State - Lehigh Dual,149,W,DEC,4 - 0,Jimmy Hoffman,49165,Lehigh,Boo Lewallen,39543,Oklahoma State
+2020,11/15,Oklahoma State - Drexel Dual,149,W,MD,10 - 2,Vincent Foggia,45252,Drexel,Boo Lewallen,39543,Oklahoma State
+2020,11/09,Oklahoma City Open,149,W,FALL,2:09,Jake Turner,63833,Unattached,Boo Lewallen,39543,Oklahoma State
+2020,11/09,Oklahoma City Open,149,W,DEC,6 - 2,Zachary Moore,39678,Central Oklahoma,Boo Lewallen,39543,Oklahoma State
+2020,11/09,Oklahoma City Open,149,W,MD,10 - 2,Sam Dover,56729,Oklahoma,Boo Lewallen,39543,Oklahoma State
+2020,11/09,Oklahoma City Open,149,W,MD,10 - 2,Brik Filippo,49388,Central Oklahoma,Boo Lewallen,39543,Oklahoma State
+2020,01/01,Southern Scuffle,149,L,DEC,4 - 1,Jaden Van Maanen,49227,North Dakota State,Brevin Balmeceda,57352,Oklahoma State
+2020,01/01,Southern Scuffle,149,W,DEC,5 - 3,Wyatt Long,49201,Navy,Brevin Balmeceda,57352,Oklahoma State
+2020,01/01,Southern Scuffle,149,L,DEC,6 - 4,Justin Yorkdale,45347,George Mason,Brevin Balmeceda,57352,Oklahoma State
+2020,01/01,Southern Scuffle,149,W,MFOR,0 - 0,Ryan Leisure,49152,Iowa State,Brevin Balmeceda,57352,Oklahoma State
+2020,01/01,Southern Scuffle,149,W,MD,15 - 5,Liam Lusher,61516,West Virginia,Brevin Balmeceda,57352,Oklahoma State
+2020,01/01,Southern Scuffle,149,W,DEC,10 - 5,Sam Matzek,41219,Cleveland State,Brevin Balmeceda,57352,Oklahoma State
+2020,12/15,Reno Tournament of Champions,149,W,TF5,16 - 1 4:09,Ethan Pickren,63062,Arizona State,Brevin Balmeceda,57352,Oklahoma State
+2020,12/15,Reno Tournament of Champions,149,W,DEC,6 - 3,Nathan Moore,56919,Northern Colorado,Brevin Balmeceda,57352,Oklahoma State
+2020,12/15,Reno Tournament of Champions,149,W,TF5,17 - 2 3:38,Trevor Anderson,56166,Grand View,Brevin Balmeceda,57352,Oklahoma State
+2020,12/15,Reno Tournament of Champions,149,W,DEC,5 - 3,A J Raya,51181,Cal Baptist,Brevin Balmeceda,57352,Oklahoma State
+2020,12/15,Reno Tournament of Champions,149,L,MD,9 - 0,Mason Smith,39789,Campbell,Brevin Balmeceda,57352,Oklahoma State
+2020,12/07,Bob Smith Open,141,W,TF5,16 - 0 1:47,Kurgan Cornwell,63804,Central Oklahoma,Brevin Balmeceda,57352,Oklahoma State
+2020,12/07,Bob Smith Open,141,W,DEC,5 - 1,Markus Simmons,39505,Unattached,Brevin Balmeceda,57352,Oklahoma State
+2020,12/07,Bob Smith Open,141,W,TF5,16 - 0 7:00,Kaena DeSantos,62300,Colby Community College,Brevin Balmeceda,57352,Oklahoma State
+2020,12/07,Bob Smith Open,141,W,DEC,6 - 1,Jonathan Killingsworth,46316,Nebraska-Kearney,Brevin Balmeceda,57352,Oklahoma State
+2020,11/23,Lindenwood Open,141,W,TF5,17 - 0 7:00,Caleb Craig,57538,Kentucky Wesleyan,Brevin Balmeceda,57352,Oklahoma State
+2020,11/23,Lindenwood Open,141,L,DEC,3 - 2,Nate Keim,52389,Central Oklahoma,Brevin Balmeceda,57352,Oklahoma State
+2020,11/23,Lindenwood Open,141,L,MFOR,0 - 0,Brandon James,39673,Marian University,Brevin Balmeceda,57352,Oklahoma State
+2020,11/23,Lindenwood Open,141,W,DEC,6 - 4,Joseph Bianchi,62836,Little Rock,Brevin Balmeceda,57352,Oklahoma State
+2020,11/23,Lindenwood Open,141,L,DEC,7 - 2,Justin Stickley,46895,Iowa,Brevin Balmeceda,57352,Oklahoma State
+2020,11/09,Oklahoma City Open,141,W,TF5,16 - 0 7:00,Cade Wathke,63836,Labette Community College,Brevin Balmeceda,57352,Oklahoma State
+2020,11/09,Oklahoma City Open,141,W,TF5,16 - 0 7:00,Bryan Pena,63826,Wayland Baptist,Brevin Balmeceda,57352,Oklahoma State
+2020,11/09,Oklahoma City Open,141,W,FALL,1:20,Kurgan Cornwell,63804,Central Oklahoma,Brevin Balmeceda,57352,Oklahoma State
+2020,11/09,Oklahoma City Open,141,W,DEC,6 - 0,Jaxen Gilmore,58187,Oklahoma City,Brevin Balmeceda,57352,Oklahoma State
+2020,11/09,Oklahoma City Open,141,W,FALL,0:34,Von Gray,53289,Central Oklahoma,Brevin Balmeceda,57352,Oklahoma State
+2020,02/08,NEO Golden Norsemen,157,W,TF5,18 - 3 2:56,Elijah Cherry,61610,Northeastern Oklahoma,Daniel Manibog,58564,Oklahoma State
+2020,02/08,NEO Golden Norsemen,157,W,DEC,5 - 3,Kobi Gomez,63811,Central Oklahoma,Daniel Manibog,58564,Oklahoma State
+2020,02/08,NEO Golden Norsemen,157,W,MD,14 - 4,Gage Gomez,63810,Central Oklahoma,Daniel Manibog,58564,Oklahoma State
+2020,12/15,Reno Tournament of Champions,149,W,FALL,5:36,Titus Mejia,63957,Umpqua Community College,Daniel Manibog,58564,Oklahoma State
+2020,12/15,Reno Tournament of Champions,149,W,FALL,0:48,Brice O'Hara,57140,Oklahoma,Daniel Manibog,58564,Oklahoma State
+2020,12/15,Reno Tournament of Champions,149,L,MD,15 - 7,Zachery Sias,52894,Warner Pacific,Daniel Manibog,58564,Oklahoma State
+2020,12/15,Reno Tournament of Champions,149,W,FALL,3:13,Daniel McClung,62206,Oregon State,Daniel Manibog,58564,Oklahoma State
+2020,12/15,Reno Tournament of Champions,149,L,TF5,16 - 1 6:09,Lane Stigall,49196,Oregon State,Daniel Manibog,58564,Oklahoma State
+2020,12/07,Bob Smith Open,149,W,MD,14 - 4,Mouhammad Sangariev,64856,Colby Community College,Daniel Manibog,58564,Oklahoma State
+2020,12/07,Bob Smith Open,149,L,FALL,6:47,Kevin Kissane,53731,Newman,Daniel Manibog,58564,Oklahoma State
+2020,12/07,Bob Smith Open,149,W,FALL,2:24,Cole Zebley,52095,Fort Hays State,Daniel Manibog,58564,Oklahoma State
+2020,12/07,Bob Smith Open,149,L,DEC,6 - 0,Jonathan Ball,50027,Fort Hays State,Daniel Manibog,58564,Oklahoma State
+2020,11/23,Lindenwood Open,149,W,TF5,16 - 1 7:00,Kobi Gomez,63811,Central Oklahoma,Daniel Manibog,58564,Oklahoma State
+2020,11/23,Lindenwood Open,149,W,FALL,0:40,Kobi Gomez,63811,Central Oklahoma,Daniel Manibog,58564,Oklahoma State
+2020,11/23,Lindenwood Open,149,W,MD,15 - 1,Julian Abbott,63213,Davenport,Daniel Manibog,58564,Oklahoma State
+2020,11/23,Lindenwood Open,149,W,MD,14 - 2,Cordell Hunt,60209,Labette Community College,Daniel Manibog,58564,Oklahoma State
+2020,11/23,Lindenwood Open,149,L,FALL,1:54,Sean Sax,58774,Westminster,Daniel Manibog,58564,Oklahoma State
+2020,11/23,Lindenwood Open,149,W,TF5,18 - 1 7:00,Jake Turner,61849,Little Rock,Daniel Manibog,58564,Oklahoma State
+2020,11/09,Oklahoma City Open,149,W,FALL,2:35,Payton McCarty,63820,Cowley College,Daniel Manibog,58564,Oklahoma State
+2020,11/09,Oklahoma City Open,149,W,TF5,20 - 2 7:00,Cordell Hunt,60209,Labette Community College,Daniel Manibog,58564,Oklahoma State
+2020,11/09,Oklahoma City Open,149,W,MD,14 - 4,Zach Porter,59442,Northeastern Oklahoma,Daniel Manibog,58564,Oklahoma State
+2020,11/09,Oklahoma City Open,149,L,DEC,8 - 2,Jonathon Trujillo,59371,New Mexico Highlands,Daniel Manibog,58564,Oklahoma State
+2020,11/09,Oklahoma City Open,149,W,MD,10 - 1,Kolby Droegemeier,59366,Barton,Daniel Manibog,58564,Oklahoma State
+2020,11/23,Lindenwood Open,149,L,FALL,1:02,Zachary Moore,39678,Central Oklahoma,Bennett Sherrer,57247,Oklahoma State
+2020,11/23,Lindenwood Open,149,W,TF5,15 - 0 7:00,Cole Van Vleet,59373,Oklahoma State,Bennett Sherrer,57247,Oklahoma State
+2020,11/23,Lindenwood Open,149,L,DEC,8 - 1,Trevor Chumbley,57938,Northwestern,Bennett Sherrer,57247,Oklahoma State
+2020,11/09,Oklahoma City Open,149,L,TF5,18 - 3 7:00,Sam Dover,56729,Oklahoma,Bennett Sherrer,57247,Oklahoma State
+2020,11/09,Oklahoma City Open,149,L,MD,16 - 4,Nick Souder,49458,Williams Baptist,Bennett Sherrer,57247,Oklahoma State
+2020,12/07,Bob Smith Open,149,W,DEC,7 - 6,Garrett Messimor,63871,Central Oklahoma,Jarod Kadel,62750,Oklahoma State
+2020,12/07,Bob Smith Open,149,L,DEC,7 - 3,Cole Zebley,52095,Fort Hays State,Jarod Kadel,62750,Oklahoma State
+2020,12/07,Bob Smith Open,149,L,MD,9 - 0,Jonathan Ball,50027,Fort Hays State,Jarod Kadel,62750,Oklahoma State
+2020,11/23,Lindenwood Open,149,L,MD,10 - 2,Jordan Ringler,52345,Davenport,Jarod Kadel,62750,Oklahoma State
+2020,11/23,Lindenwood Open,149,W,DEC,7 - 4,Bryce Raphael,52340,Maryville University,Jarod Kadel,62750,Oklahoma State
+2020,11/23,Lindenwood Open,149,L,FALL,2:27,Mitchell Bohlken,62076,Missouri,Jarod Kadel,62750,Oklahoma State
+2020,11/09,Oklahoma City Open,149,W,MD,13 - 4,Rhett Womack,63838,Williams Baptist,Jarod Kadel,62750,Oklahoma State
+2020,11/09,Oklahoma City Open,149,W,DEC,5 - 3,Austin Johnson,63816,Northeastern Oklahoma,Jarod Kadel,62750,Oklahoma State
+2020,11/09,Oklahoma City Open,149,W,FALL,5:00,Gage Hight,63815,Northeastern Oklahoma,Jarod Kadel,62750,Oklahoma State
+2020,11/09,Oklahoma City Open,149,W,DEC,8 - 5,Kobi Gomez,63811,Central Oklahoma,Jarod Kadel,62750,Oklahoma State
+2020,11/09,Oklahoma City Open,149,W,DEC,12 - 8,Mason Ford,63809,Oklahoma City,Jarod Kadel,62750,Oklahoma State
+2020,11/09,Oklahoma City Open,149,L,DEC,3 - 2,Jason Chambers,63803,Texas Wesleyan,Jarod Kadel,62750,Oklahoma State
+2020,11/23,Lindenwood Open,149,L,TF5,15 - 0 7:00,Bennett Sherrer,57247,Oklahoma State,Cole Van Vleet,59373,Oklahoma State
+2020,11/23,Lindenwood Open,149,L,FALL,2:54,Logan Hurley,47291,Marian University,Cole Van Vleet,59373,Oklahoma State
+2020,11/09,Oklahoma City Open,149,L,TF5,15 - 0 7:00,Kyle Prewitt,60626,Little Rock,Cole Van Vleet,59373,Oklahoma State
+2020,11/09,Oklahoma City Open,149,L,TF5,16 - 0 7:00,Brik Filippo,49388,Central Oklahoma,Cole Van Vleet,59373,Oklahoma State
+2020,03/07,Big 12 Championships,157,L,DEC,6 - 4,David Carr,51126,Iowa State,Wyatt Sheets,44863,Oklahoma State
+2020,03/07,Big 12 Championships,157,W,MD,14 - 5,Jared Franek,50639,North Dakota State,Wyatt Sheets,44863,Oklahoma State
+2020,03/07,Big 12 Championships,157,W,TF5,16 - 1 7:00,Alex Hornfeck,56494,West Virginia,Wyatt Sheets,44863,Oklahoma State
+2020,02/23,Oklahoma State - Iowa Dual,157,W,DEC,9 - 4,Kaleb Young,44572,Iowa,Wyatt Sheets,44863,Oklahoma State
+2020,02/16,Oklahoma - Oklahoma State Dual,157,W,DEC,8 - 3,Justin Thomas,44882,Oklahoma,Wyatt Sheets,44863,Oklahoma State
+2020,02/08,Oklahoma State - Wyoming Dual,157,W,DEC,6 - 0,Dewey Krueger,40144,Wyoming,Wyatt Sheets,44863,Oklahoma State
+2020,02/08,Oklahoma State - Air Force Dual,157,W,TF5,19 - 1 6:39,Trey Brisker,57545,Air Force,Wyatt Sheets,44863,Oklahoma State
+2020,02/02,Oklahoma State - Missouri Dual,157,W,TB-1,8 - 6,Jarrett Jacques,50597,Missouri,Wyatt Sheets,44863,Oklahoma State
+2020,01/31,South Dakota State - Oklahoma State Dual,157,W,MD,11 - 3,Peyton Smith,51004,South Dakota State,Wyatt Sheets,44863,Oklahoma State
+2020,01/26,Oklahoma State - Iowa State Dual,157,L,MD,14 - 6,David Carr,51126,Iowa State,Wyatt Sheets,44863,Oklahoma State
+2020,01/25,Oklahoma State - Northern Iowa Dual,157,L,DEC,8 - 6,Keaton Geerts,49240,Northern Iowa,Wyatt Sheets,44863,Oklahoma State
+2020,01/18,Oklahoma State - Pittsburgh Dual,157,W,DEC,9 - 8,Taleb Rahmani,40082,Pittsburgh,Wyatt Sheets,44863,Oklahoma State
+2020,01/17,Oklahoma State - West Virginia Dual,157,W,MD,12 - 0,Alex Hornfeck,56494,West Virginia,Wyatt Sheets,44863,Oklahoma State
+2020,01/12,Northern Colorado - Oklahoma State Dual,157,W,MD,17 - 4,Nathan Moore,56919,Northern Colorado,Wyatt Sheets,44863,Oklahoma State
+2020,01/01,Southern Scuffle,157,W,MD,8 - 0,Hunter Willits,49272,Oregon State,Wyatt Sheets,44863,Oklahoma State
+2020,01/01,Southern Scuffle,157,L,MD,12 - 4,Hayden Hidlay,44595,NC State,Wyatt Sheets,44863,Oklahoma State
+2020,01/01,Southern Scuffle,157,W,TF5,18 - 2 4:58,Scout Skidgel,44939,Navy,Wyatt Sheets,44863,Oklahoma State
+2020,01/01,Southern Scuffle,157,W,DEC,8 - 3,Kolby Ho,55945,George Mason,Wyatt Sheets,44863,Oklahoma State
+2020,01/01,Southern Scuffle,157,W,DEC,6 - 2,Taleb Rahmani,40082,Pittsburgh,Wyatt Sheets,44863,Oklahoma State
+2020,01/01,Southern Scuffle,157,W,DEC,3 - 1,Matthew Zovistoski,40049,Appalachian State,Wyatt Sheets,44863,Oklahoma State
+2020,12/15,Oklahoma State - Oklahoma Dual,157,L,DEC,5 - 3,Justin Thomas,44882,Oklahoma,Wyatt Sheets,44863,Oklahoma State
+2020,12/06,Princeton - Oklahoma State Dual,157,L,DEC,3 - 2,Quincy Monday,53967,Princeton,Wyatt Sheets,44863,Oklahoma State
+2020,11/24,Minnesota - Oklahoma State Dual,157,W,DEC,8 - 1,Carson Brolsma,39549,Minnesota,Wyatt Sheets,44863,Oklahoma State
+2020,11/16,Oklahoma State - Lehigh Dual,157,L,MD,16 - 2,Josh Humphreys,55860,Lehigh,Wyatt Sheets,44863,Oklahoma State
+2020,11/15,Oklahoma State - Drexel Dual,157,W,MD,13 - 3,Parker Kropman,45187,Drexel,Wyatt Sheets,44863,Oklahoma State
+2020,11/09,Oklahoma City Open,157,W,DEC,6 - 0,Jalin Harper,51618,Oklahoma State,Wyatt Sheets,44863,Oklahoma State
+2020,11/09,Oklahoma City Open,157,W,DEC,10 - 4,Jose Champagne,45138,Little Rock,Wyatt Sheets,44863,Oklahoma State
+2020,12/15,Reno Tournament of Champions,157,W,DEC,7 - 6,John Sowers,63962,Highline Community College,Chance McLane,57206,Oklahoma State
+2020,12/15,Reno Tournament of Champions,157,W,DEC,8 - 4,Ethan Leake,52127,Northern Colorado,Chance McLane,57206,Oklahoma State
+2020,12/15,Reno Tournament of Champions,157,L,DEC,7 - 5,Jacob Swift,50574,North Idaho College,Chance McLane,57206,Oklahoma State
+2020,12/15,Reno Tournament of Champions,157,L,DEC,11 - 5,Payton Tawater,40578,Colorado Mesa,Chance McLane,57206,Oklahoma State
+2020,12/15,Reno Tournament of Champions,157,W,DEC,4 - 3,Spencer Heywood,50977,Utah Valley,Chance McLane,57206,Oklahoma State
+2020,12/07,Bob Smith Open,157,W,FALL,0:57,Lazura Osayande,64123,Colby Community College,Chance McLane,57206,Oklahoma State
+2020,12/07,Bob Smith Open,157,W,DEC,10 - 4,Zachary Moore,39678,Central Oklahoma,Chance McLane,57206,Oklahoma State
+2020,12/07,Bob Smith Open,157,L,FALL,6:39,Kameron Frame,51518,Newman,Chance McLane,57206,Oklahoma State
+2020,12/07,Bob Smith Open,157,W,MD,13 - 4,Anthony Scantlin,49415,Fort Hays State,Chance McLane,57206,Oklahoma State
+2020,11/23,Lindenwood Open,157,W,FALL,1:08,Clay Critchfield,64417,Kentucky Wesleyan,Chance McLane,57206,Oklahoma State
+2020,11/23,Lindenwood Open,157,W,MD,12 - 2,Thomas Schock,63294,Spartanburg Methodist College,Chance McLane,57206,Oklahoma State
+2020,11/23,Lindenwood Open,157,W,MD,11 - 1,Brody Nielsen,57567,Minnesota State Mankato,Chance McLane,57206,Oklahoma State
+2020,11/23,Lindenwood Open,157,W,MD,12 - 0,Austin Landow,56990,Lindenwood,Chance McLane,57206,Oklahoma State
+2020,11/23,Lindenwood Open,157,W,DEC,6 - 1,Carter Schmidt,62606,Iowa State,Chance McLane,57206,Oklahoma State
+2020,11/23,Lindenwood Open,157,W,DEC,7 - 2,Joey Sanchez,61029,Indiana,Chance McLane,57206,Oklahoma State
+2020,11/09,Oklahoma City Open,157,W,FALL,1:52,Nick Hammond,63812,Schreiner,Chance McLane,57206,Oklahoma State
+2020,11/09,Oklahoma City Open,157,W,DEC,5 - 1,Kye Fahrenbacher,63808,Wayland Baptist,Chance McLane,57206,Oklahoma State
+2020,11/09,Oklahoma City Open,157,W,FALL,2:23,Baltazar Loza,58597,Oklahoma City,Chance McLane,57206,Oklahoma State
+2020,11/09,Oklahoma City Open,157,W,MD,12 - 3,Jon McGowan,58190,Oklahoma City,Chance McLane,57206,Oklahoma State
+2020,11/09,Oklahoma City Open,157,W,FALL,0:48,Gabe Capp,58023,Cowley College,Chance McLane,57206,Oklahoma State
+2020,11/23,Lindenwood Open,157,W,FALL,2:09,Andy Santana,53576,Kentucky Wesleyan,Jalin Harper,51618,Oklahoma State
+2020,11/23,Lindenwood Open,157,W,DEC,3 - 0,Tyler Lucas,53301,Central Oklahoma,Jalin Harper,51618,Oklahoma State
+2020,11/23,Lindenwood Open,157,W,FALL,1:38,Gage Maxwell,50018,Hannibal-LaGrange,Jalin Harper,51618,Oklahoma State
+2020,11/23,Lindenwood Open,157,L,DEC,7 - 6,Phyllip DeLoach,40074,Missouri,Jalin Harper,51618,Oklahoma State
+2020,11/23,Lindenwood Open,157,L,DEC,4 - 2,Phyllip DeLoach,40074,Missouri,Jalin Harper,51618,Oklahoma State
+2020,11/23,Lindenwood Open,157,W,DEC,3 - 2,Johnny Mologousis,49144,Illinois,Jalin Harper,51618,Oklahoma State
+2020,11/09,Oklahoma City Open,157,L,DEC,6 - 0,Wyatt Sheets,44863,Oklahoma State,Jalin Harper,51618,Oklahoma State
+2020,11/09,Oklahoma City Open,157,W,FALL,5:42,Allen Michel,54679,New Mexico Highlands,Jalin Harper,51618,Oklahoma State
+2020,11/09,Oklahoma City Open,157,W,DEC,4 - 1,Tyler Lucas,53301,Central Oklahoma,Jalin Harper,51618,Oklahoma State
+2020,03/07,Big 12 Championships,165,W,DEC,8 - 4,Andrew Fogarty,39706,North Dakota State,Travis Wittlake,50615,Oklahoma State
+2020,03/07,Big 12 Championships,165,W,TF5,17 - 1 6:43,Austin Yant,50261,Northern Iowa,Travis Wittlake,50615,Oklahoma State
+2020,03/07,Big 12 Championships,165,W,DEC,10 - 3,Tanner Cook,51408,South Dakota State,Travis Wittlake,50615,Oklahoma State
+2020,02/23,Oklahoma State - Iowa Dual,165,L,DEC,3 - 2,Alex Marinelli,44574,Iowa,Travis Wittlake,50615,Oklahoma State
+2020,02/16,Oklahoma - Oklahoma State Dual,165,W,TF5,19 - 4 5:26,Elijah Joseph,57146,Oklahoma,Travis Wittlake,50615,Oklahoma State
+2020,02/08,Oklahoma State - Wyoming Dual,165,W,DEC,10 - 5,Cole Moody,57067,Wyoming,Travis Wittlake,50615,Oklahoma State
+2020,02/08,Oklahoma State - Air Force Dual,165,W,MD,17 - 4,Vincent Dolce,49023,Air Force,Travis Wittlake,50615,Oklahoma State
+2020,02/02,Oklahoma State - Missouri Dual,165,W,DEC,11 - 6,Peyton Mocco,50635,Missouri,Travis Wittlake,50615,Oklahoma State
+2020,01/31,South Dakota State - Oklahoma State Dual,165,W,MD,14 - 6,Tanner Cook,51408,South Dakota State,Travis Wittlake,50615,Oklahoma State
+2020,01/26,Oklahoma State - Iowa State Dual,165,W,DEC,9 - 4,Chase Straw,39610,Iowa State,Travis Wittlake,50615,Oklahoma State
+2020,01/25,Oklahoma State - Northern Iowa Dual,165,W,MD,14 - 5,Austin Yant,50261,Northern Iowa,Travis Wittlake,50615,Oklahoma State
+2020,01/18,Oklahoma State - Pittsburgh Dual,165,W,DEC,9 - 2,Jake Wentzel,45151,Pittsburgh,Travis Wittlake,50615,Oklahoma State
+2020,01/17,Oklahoma State - West Virginia Dual,165,W,MD,12 - 3,Nick Kiussis,49345,West Virginia,Travis Wittlake,50615,Oklahoma State
+2020,01/12,Northern Colorado - Oklahoma State Dual,165,W,TF5,16 - 1 2:23,Macoy Flanagan,44926,Northern Colorado,Travis Wittlake,50615,Oklahoma State
+2020,01/01,Southern Scuffle,165,W,DQ,0 - 0,Noah Satterfield,44861,Davidson,Travis Wittlake,50615,Oklahoma State
+2020,01/01,Southern Scuffle,165,W,DEC,9 - 3,Thomas Bullard,44611,NC State,Travis Wittlake,50615,Oklahoma State
+2020,01/01,Southern Scuffle,165,L,DEC,4 - 1,Shane Griffith,49991,Stanford,Travis Wittlake,50615,Oklahoma State
+2020,01/01,Southern Scuffle,165,W,DEC,7 - 3,Jake Wentzel,45151,Pittsburgh,Travis Wittlake,50615,Oklahoma State
+2020,01/01,Southern Scuffle,165,W,FALL,2:33,Brett Donner,44581,Rutgers,Travis Wittlake,50615,Oklahoma State
+2020,01/01,Southern Scuffle,165,W,DEC,8 - 4,Joe Lee,49666,Penn State,Travis Wittlake,50615,Oklahoma State
+2020,01/01,Southern Scuffle,165,W,DEC,4 - 2,Randy Meneweather II,44843,Air Force,Travis Wittlake,50615,Oklahoma State
+2020,12/15,Oklahoma State - Oklahoma Dual,165,W,DEC,3 - 2,Sam Dover,56729,Oklahoma,Travis Wittlake,50615,Oklahoma State
+2020,11/24,Minnesota - Oklahoma State Dual,165,W,DEC,5 - 3,Bailee O'Reilly,50166,Minnesota,Travis Wittlake,50615,Oklahoma State
+2020,11/16,Oklahoma State - Lehigh Dual,165,W,DEC,3 - 1,Brian Meyer,50941,Lehigh,Travis Wittlake,50615,Oklahoma State
+2020,11/15,Oklahoma State - Drexel Dual,165,W,DEC,5 - 1,Ebed Jarrell,40311,Drexel,Travis Wittlake,50615,Oklahoma State
+2020,11/09,Oklahoma City Open,165,W,TF5,18 - 2 7:00,Dustin Basham,63797,Schreiner,Travis Wittlake,50615,Oklahoma State
+2020,11/09,Oklahoma City Open,165,W,TF5,21 - 5 7:00,Taylor Owens,52785,Embry-Riddle,Travis Wittlake,50615,Oklahoma State
+2020,11/09,Oklahoma City Open,165,W,FALL,3:14,Gavin Wells,49456,Williams Baptist,Travis Wittlake,50615,Oklahoma State
+2020,11/09,Oklahoma City Open,165,W,DEC,5 - 3,Andrew Shomers,39642,Oklahoma State,Travis Wittlake,50615,Oklahoma State
+2020,12/15,Reno Tournament of Champions,165,L,MD,11 - 2,Angel Solis,50426,Fresno State,Cade Lindsey,59550,Oklahoma State
+2020,12/15,Reno Tournament of Champions,165,L,TF5,18 - 3 5:12,Quentin Perez,40421,Campbell,Cade Lindsey,59550,Oklahoma State
+2020,11/23,Lindenwood Open,165,W,DEC,4 - 1,Christian Hudson,65063,Kentucky Wesleyan,Cade Lindsey,59550,Oklahoma State
+2020,11/23,Lindenwood Open,165,W,TF5,16 - 1 7:00,Elijah Cherry,61610,Northeastern Oklahoma,Cade Lindsey,59550,Oklahoma State
+2020,11/23,Lindenwood Open,165,L,DEC,6 - 5,Cory Peterson,56744,McKendree University,Cade Lindsey,59550,Oklahoma State
+2020,11/23,Lindenwood Open,165,W,DEC,2 - 1,Joseph Scott,52352,Liberty University,Cade Lindsey,59550,Oklahoma State
+2020,11/23,Lindenwood Open,165,W,FALL,1:03,Ismael Cornejo,51871,Marian University,Cade Lindsey,59550,Oklahoma State
+2020,11/09,Oklahoma City Open,165,W,TF5,18 - 0 7:00,Jonathan Vizcarrondo,63835,Williams Baptist,Cade Lindsey,59550,Oklahoma State
+2020,11/09,Oklahoma City Open,165,W,DEC,7 - 0,Nolan Saale,63828,Northeastern Oklahoma,Cade Lindsey,59550,Oklahoma State
+2020,11/09,Oklahoma City Open,165,W,FALL,1:35,Dakota Martin,63819,Labette Community College,Cade Lindsey,59550,Oklahoma State
+2020,11/09,Oklahoma City Open,165,W,DEC,4 - 2,Hunter Jump,63818,Central Oklahoma,Cade Lindsey,59550,Oklahoma State
+2020,03/07,Big 12 Championships,174,W,DEC,5 - 2,Hayden Hastings,49354,Wyoming,Joe Smith,39786,Oklahoma State
+2020,03/07,Big 12 Championships,174,W,INJ,7:00,Samuel Colbray,44873,Iowa State,Joe Smith,39786,Oklahoma State
+2020,03/07,Big 12 Championships,174,W,DEC,4 - 3,Luke Weber,45050,North Dakota State,Joe Smith,39786,Oklahoma State
+2020,03/07,Big 12 Championships,174,L,DEC,4 - 1,Bryce Steiert,39504,Northern Iowa,Joe Smith,39786,Oklahoma State
+2020,03/07,Big 12 Championships,174,W,SV-1,3 - 1,Kimball Bastian,40322,Utah Valley,Joe Smith,39786,Oklahoma State
+2020,02/23,Oklahoma State - Iowa Dual,174,L,MD,12 - 2,Michael Kemerer,39526,Iowa,Joe Smith,39786,Oklahoma State
+2020,02/22,Last Chance Open,174,L,MFOR,0 - 0,Stone Durham,61243,Dubuque,Joe Smith,39786,Oklahoma State
+2020,02/22,Last Chance Open,174,L,DEC,6 - 3,DeMichael Franklin,50984,Iowa State,Joe Smith,39786,Oklahoma State
+2020,02/22,Last Chance Open,174,W,DEC,8 - 1,Anthony Sherry,50887,Iowa State,Joe Smith,39786,Oklahoma State
+2020,02/16,Oklahoma - Oklahoma State Dual,174,L,DEC,10 - 5,Anthony Mantanona,49258,Oklahoma,Joe Smith,39786,Oklahoma State
+2020,02/08,Oklahoma State - Wyoming Dual,174,W,DEC,8 - 2,Hayden Hastings,49354,Wyoming,Joe Smith,39786,Oklahoma State
+2020,02/08,Oklahoma State - Air Force Dual,174,W,DEC,4 - 1,Cody Surratt,49030,Air Force,Joe Smith,39786,Oklahoma State
+2020,02/02,Oklahoma State - Missouri Dual,174,W,DEC,12 - 6,Connor Flynn,39676,Missouri,Joe Smith,39786,Oklahoma State
+2020,01/31,South Dakota State - Oklahoma State Dual,174,W,DEC,9 - 3,Kelby Hawkins,49318,South Dakota State,Joe Smith,39786,Oklahoma State
+2020,01/26,Oklahoma State - Iowa State Dual,174,W,DEC,5 - 2,Samuel Colbray,44873,Iowa State,Joe Smith,39786,Oklahoma State
+2020,01/25,Oklahoma State - Northern Iowa Dual,174,L,MD,13 - 2,Bryce Steiert,39504,Northern Iowa,Joe Smith,39786,Oklahoma State
+2020,01/01,Southern Scuffle,174,W,MD,12 - 3,Mason Reiniche,67415,Spartan Combat RTC,Joe Smith,39786,Oklahoma State
+2020,01/01,Southern Scuffle,174,L,DEC,7 - 2,Lorenzo De La Riva,40169,North Dakota State,Joe Smith,39786,Oklahoma State
+2020,01/01,Southern Scuffle,174,L,MFOR,0 - 0,Dean Caravela,44816,Navy,Joe Smith,39786,Oklahoma State
+2020,01/01,Southern Scuffle,174,W,FALL,3:34,Luke Nicksic,57295,VMI,Joe Smith,39786,Oklahoma State
+2020,01/18,Oklahoma State - Pittsburgh Dual,174,W,MD,10 - 0,Gregg Harvey,45148,Pittsburgh,Andrew Shomers,39642,Oklahoma State
+2020,01/17,Oklahoma State - West Virginia Dual,174,W,MD,11 - 3,Scott Joll,62424,West Virginia,Andrew Shomers,39642,Oklahoma State
+2020,01/12,Northern Colorado - Oklahoma State Dual,174,W,MD,9 - 0,Billy Higgins,50623,Northern Colorado,Andrew Shomers,39642,Oklahoma State
+2020,01/01,Southern Scuffle,165,W,DQ,0 - 0,Noah Satterfield,44861,Davidson,Andrew Shomers,39642,Oklahoma State
+2020,01/01,Southern Scuffle,165,W,DEC,5 - 2,William Formato,57034,Appalachian State,Andrew Shomers,39642,Oklahoma State
+2020,01/01,Southern Scuffle,165,W,SV-1,2 - 0,Evan Barczak,49122,Drexel,Andrew Shomers,39642,Oklahoma State
+2020,01/01,Southern Scuffle,165,L,SV-1,4 - 2,Ebed Jarrell,40311,Drexel,Andrew Shomers,39642,Oklahoma State
+2020,01/01,Southern Scuffle,165,W,TF5,17 - 0 4:51,Luca Frinzi,57518,Lehigh,Andrew Shomers,39642,Oklahoma State
+2020,01/01,Southern Scuffle,165,W,TF5,19 - 4 7:00,Trey Cornish,48467,Lehigh,Andrew Shomers,39642,Oklahoma State
+2020,01/01,Southern Scuffle,165,L,DEC,8 - 2,Connor Flynn,39676,Missouri,Andrew Shomers,39642,Oklahoma State
+2020,12/15,Oklahoma State - Oklahoma Dual,174,L,SV-1,10 - 8,Anthony Mantanona,49258,Oklahoma,Andrew Shomers,39642,Oklahoma State
+2020,12/06,Princeton - Oklahoma State Dual,174,L,DEC,5 - 2,Kevin Parker,44710,Princeton,Andrew Shomers,39642,Oklahoma State
+2020,11/24,Minnesota - Oklahoma State Dual,174,L,DEC,5 - 2,Devin Skatzka,39603,Minnesota,Andrew Shomers,39642,Oklahoma State
+2020,11/16,Oklahoma State - Lehigh Dual,174,L,MD,20 - 6,Jordan Kutler,39626,Lehigh,Andrew Shomers,39642,Oklahoma State
+2020,11/15,Oklahoma State - Drexel Dual,174,W,SV-1,4 - 2,Michael O'Malley,50836,Drexel,Andrew Shomers,39642,Oklahoma State
+2020,11/09,Oklahoma City Open,165,L,DEC,5 - 3,Travis Wittlake,50615,Oklahoma State,Andrew Shomers,39642,Oklahoma State
+2020,11/09,Oklahoma City Open,165,W,DEC,3 - 0,Jake Stiles,57290,Oklahoma,Andrew Shomers,39642,Oklahoma State
+2020,11/09,Oklahoma City Open,165,W,TF5,18 - 2 7:00,Dayton Garrett,45170,Central Oklahoma,Andrew Shomers,39642,Oklahoma State
+2020,11/23,Lindenwood Open,174,W,FALL,0:33,Hunter Tessman,54659,Westminster,Christian Bahl,49262,Oklahoma State
+2020,11/23,Lindenwood Open,174,L,MFOR,0 - 0,Mac Southard,50986,Iowa State,Christian Bahl,49262,Oklahoma State
+2020,11/23,Lindenwood Open,174,L,DEC,6 - 2,Donnell Washington,57738,Indiana,Christian Bahl,49262,Oklahoma State
+2020,02/22,Last Chance Open,174,W,MD,19 - 11,Tevin Bailey,66914,Dubuque,Gavin Stika,56258,Oklahoma State
+2020,02/22,Last Chance Open,174,L,DEC,9 - 5,Logan Schumacher,56307,Iowa State,Gavin Stika,56258,Oklahoma State
+2020,02/22,Last Chance Open,174,L,DEC,4 - 3,DeMichael Franklin,50984,Iowa State,Gavin Stika,56258,Oklahoma State
+2020,02/22,Last Chance Open,174,W,DEC,6 - 3,Anthony Sherry,50887,Iowa State,Gavin Stika,56258,Oklahoma State
+2020,02/22,Last Chance Open,174,W,MFOR,0 - 0,Samuel Colbray,44873,Iowa State,Gavin Stika,56258,Oklahoma State
+2020,02/08,NEO Golden Norsemen,174,W,FALL,1:24,Diego Maturino,66754,Northeastern Oklahoma,Gavin Stika,56258,Oklahoma State
+2020,02/08,NEO Golden Norsemen,174,W,TF5,16 - 1 6:16,Jayden Smith,63898,Northeastern Oklahoma,Gavin Stika,56258,Oklahoma State
+2020,02/08,NEO Golden Norsemen,174,W,INJ,7:00,Tyree Avery,46522,Central Baptist College,Gavin Stika,56258,Oklahoma State
+2020,02/08,NEO Golden Norsemen,174,W,DEC,6 - 4,Gage McBride,52412,Central Oklahoma,Gavin Stika,56258,Oklahoma State
+2020,01/01,Southern Scuffle,174,L,MD,8 - 0,Jared Siegrist,45101,Lock Haven,Gavin Stika,56258,Oklahoma State
+2020,01/01,Southern Scuffle,174,L,DEC,10 - 9,Willie Scott,39861,Rutgers,Gavin Stika,56258,Oklahoma State
+2020,01/01,Southern Scuffle,174,W,DEC,8 - 4,DeMichael Franklin,50984,Iowa State,Gavin Stika,56258,Oklahoma State
+2020,01/01,Southern Scuffle,174,W,DEC,2 - 1,Hunter Fortner,50952,Chattanooga,Gavin Stika,56258,Oklahoma State
+2020,12/15,Reno Tournament of Champions,174,L,DEC,8 - 2,Lucas Lovvorn,65277,Baker,Gavin Stika,56258,Oklahoma State
+2020,12/15,Reno Tournament of Champions,174,W,SV-1,3 - 1,Levi Perry,64328,Corban University,Gavin Stika,56258,Oklahoma State
+2020,12/15,Reno Tournament of Champions,174,W,DEC,9 - 3,Brian Horn,62865,CSU Bakersfield,Gavin Stika,56258,Oklahoma State
+2020,12/15,Reno Tournament of Champions,174,W,DEC,8 - 2,Jared Bird,56467,Western Wyoming College,Gavin Stika,56258,Oklahoma State
+2020,12/15,Reno Tournament of Champions,174,W,MFOR,0 - 0,Abner Romero,46088,Lindenwood,Gavin Stika,56258,Oklahoma State
+2020,11/09,Oklahoma City Open,174,W,TF5,17 - 0 7:00,Matthew Alejandro,63795,Wayland Baptist,Gavin Stika,56258,Oklahoma State
+2020,11/09,Oklahoma City Open,174,W,SV-1,4 - 2,Daniel Butler,52956,Embry-Riddle,Gavin Stika,56258,Oklahoma State
+2020,11/09,Oklahoma City Open,174,W,DEC,6 - 1,Gage McBride,52412,Central Oklahoma,Gavin Stika,56258,Oklahoma State
+2020,11/23,Lindenwood Open,174,L,FALL,4:28,Will Seibert,49755,Missouri Valley,JaQuan Jackson,58594,Oklahoma State
+2020,11/23,Lindenwood Open,174,L,MD,10 - 0,DeMichael Franklin,50984,Iowa State,JaQuan Jackson,58594,Oklahoma State
+2020,11/23,Lindenwood Open,174,W,MFOR,0 - 0,DJ Shannon,51137,Illinois,JaQuan Jackson,58594,Oklahoma State
+2020,11/09,Oklahoma City Open,174,W,FALL,2:00,Cameron Pelkey,63825,Schreiner,JaQuan Jackson,58594,Oklahoma State
+2020,11/09,Oklahoma City Open,174,W,FALL,3:48,Carden Busby,63802,Ottawa,JaQuan Jackson,58594,Oklahoma State
+2020,11/09,Oklahoma City Open,174,W,DEC,9 - 2,Tyler Estep,63737,Central Christian College,JaQuan Jackson,58594,Oklahoma State
+2020,11/09,Oklahoma City Open,174,W,FALL,0:48,Jacob Sanchez,63588,Barton,JaQuan Jackson,58594,Oklahoma State
+2020,11/09,Oklahoma City Open,174,L,DEC,5 - 3,Jacob Viera,59374,New Mexico Highlands,JaQuan Jackson,58594,Oklahoma State
+2020,11/09,Oklahoma City Open,174,L,MD,13 - 3,Jesus Nunez,58024,Cowley College,JaQuan Jackson,58594,Oklahoma State
+2020,03/07,Big 12 Championships,184,W,DEC,11 - 7,Alan Clothier,45412,Northern Colorado,Anthony Montalvo,51619,Oklahoma State
+2020,03/07,Big 12 Championships,184,W,DEC,10 - 4,Marcus Coleman,49154,Iowa State,Anthony Montalvo,51619,Oklahoma State
+2020,03/07,Big 12 Championships,184,W,SV-1,5 - 3,Darrien Roberts,60446,Oklahoma,Anthony Montalvo,51619,Oklahoma State
+2020,03/07,Big 12 Championships,184,W,FALL,1:21,Hunter Cruz,56318,Fresno State,Anthony Montalvo,51619,Oklahoma State
+2020,03/07,Big 12 Championships,184,W,FALL,2:23,Jackson Moomau,57161,West Virginia,Anthony Montalvo,51619,Oklahoma State
+2020,03/07,Big 12 Championships,184,L,DEC,3 - 2,Tate Samuelson,57066,Wyoming,Anthony Montalvo,51619,Oklahoma State
+2020,02/23,Oklahoma State - Iowa Dual,184,W,DEC,8 - 2,Nelson Brands,49994,Iowa,Anthony Montalvo,51619,Oklahoma State
+2020,02/16,Oklahoma - Oklahoma State Dual,184,W,DEC,4 - 0,Darrien Roberts,60446,Oklahoma,Anthony Montalvo,51619,Oklahoma State
+2020,02/08,Oklahoma State - Wyoming Dual,184,W,DEC,2 - 1,Tate Samuelson,57066,Wyoming,Anthony Montalvo,51619,Oklahoma State
+2020,02/08,Oklahoma State - Air Force Dual,184,W,MD,18 - 5,Jake Thompson,50875,Air Force,Anthony Montalvo,51619,Oklahoma State
+2020,02/02,Oklahoma State - Missouri Dual,184,W,DEC,9 - 5,Dylan Wisman,39507,Missouri,Anthony Montalvo,51619,Oklahoma State
+2020,01/31,South Dakota State - Oklahoma State Dual,184,W,DEC,3 - 1,Zach Carlson,40280,South Dakota State,Anthony Montalvo,51619,Oklahoma State
+2020,01/26,Oklahoma State - Iowa State Dual,184,W,DEC,6 - 2,Marcus Coleman,49154,Iowa State,Anthony Montalvo,51619,Oklahoma State
+2020,01/25,Oklahoma State - Northern Iowa Dual,184,L,DEC,4 - 0,Taylor Lujan,39506,Northern Iowa,Anthony Montalvo,51619,Oklahoma State
+2020,01/18,Oklahoma State - Pittsburgh Dual,184,W,DEC,6 - 4,Nino Bonaccorsi,49285,Pittsburgh,Anthony Montalvo,51619,Oklahoma State
+2020,01/17,Oklahoma State - West Virginia Dual,184,W,FALL,2:30,Jackson Moomau,57161,West Virginia,Anthony Montalvo,51619,Oklahoma State
+2020,01/12,Northern Colorado - Oklahoma State Dual,184,W,DEC,6 - 3,Alan Clothier,45412,Northern Colorado,Anthony Montalvo,51619,Oklahoma State
+2020,01/01,Southern Scuffle,184,L,MFOR,0 - 0,David Key,56717,US Naval Academy Prep School,Anthony Montalvo,51619,Oklahoma State
+2020,01/01,Southern Scuffle,184,L,FALL,0:38,David Key,56717,US Naval Academy Prep School,Anthony Montalvo,51619,Oklahoma State
+2020,01/01,Southern Scuffle,184,W,DEC,3 - 1,Alan Clothier,45412,Northern Colorado,Anthony Montalvo,51619,Oklahoma State
+2020,01/01,Southern Scuffle,184,W,FALL,5:10,TJ Pottinger,57098,North Dakota State,Anthony Montalvo,51619,Oklahoma State
+2020,01/01,Southern Scuffle,184,W,DEC,10 - 3,Andrew Buckley,44654,Navy,Anthony Montalvo,51619,Oklahoma State
+2020,01/01,Southern Scuffle,184,W,MD,10 - 2,Nick Addison,57655,Stanford,Anthony Montalvo,51619,Oklahoma State
+2020,01/01,Southern Scuffle,184,W,DEC,8 - 4,Julien Broderson,57644,Iowa State,Anthony Montalvo,51619,Oklahoma State
+2020,01/01,Southern Scuffle,184,L,DEC,4 - 2,Matthew Waddell,49259,Chattanooga,Anthony Montalvo,51619,Oklahoma State
+2020,12/15,Oklahoma State - Oklahoma Dual,184,W,MD,13 - 5,Darrien Roberts,60446,Oklahoma,Anthony Montalvo,51619,Oklahoma State
+2020,12/06,Princeton - Oklahoma State Dual,184,L,SV-1,5 - 3,Travis Stefanik,49301,Princeton,Anthony Montalvo,51619,Oklahoma State
+2020,11/24,Minnesota - Oklahoma State Dual,184,L,DEC,4 - 3,Owen Webster,48190,Minnesota,Anthony Montalvo,51619,Oklahoma State
+2020,11/16,Oklahoma State - Lehigh Dual,184,W,FALL,6:26,Chris Weiler,45108,Lehigh,Anthony Montalvo,51619,Oklahoma State
+2020,11/15,Oklahoma State - Drexel Dual,184,W,MD,14 - 3,Owen Brooks,45256,Drexel,Anthony Montalvo,51619,Oklahoma State
+2020,11/09,Oklahoma City Open,184,W,TF5,20 - 5 7:00,Drake Barbee,63796,Unattached,Anthony Montalvo,51619,Oklahoma State
+2020,11/09,Oklahoma City Open,184,W,MD,13 - 1,Tyler Hall,52961,Embry-Riddle,Anthony Montalvo,51619,Oklahoma State
+2020,02/08,NEO Golden Norsemen,184,W,FALL,0:30,Taylor Traffanstedt,63832,Central Baptist College,Christian McCutcheon,62753,Oklahoma State
+2020,02/08,NEO Golden Norsemen,184,L,DEC,5 - 3,Joshua Molinar,59440,Northeastern Oklahoma,Christian McCutcheon,62753,Oklahoma State
+2020,02/08,NEO Golden Norsemen,184,L,MD,8 - 0,Carson Berryhill,61936,Oklahoma,Christian McCutcheon,62753,Oklahoma State
+2020,12/15,Reno Tournament of Champions,184,L,FALL,2:32,Caden Gerlach,62931,Cal Baptist,Christian McCutcheon,62753,Oklahoma State
+2020,12/15,Reno Tournament of Champions,184,L,TF5,16 - 1 1:57,Dominic Kincaid,45678,Fresno State,Christian McCutcheon,62753,Oklahoma State
+2020,12/07,Bob Smith Open,184,L,DEC,3 - 0,Jacobi Deal,63621,Northwest Kansas Technical College,Christian McCutcheon,62753,Oklahoma State
+2020,12/07,Bob Smith Open,184,W,DEC,8 - 3,Matt Hook,62623,Fort Hays State,Christian McCutcheon,62753,Oklahoma State
+2020,12/07,Bob Smith Open,184,L,SV-1,2 - 1,Hayden Wempen,59654,Northeastern Junior College,Christian McCutcheon,62753,Oklahoma State
+2020,11/23,Lindenwood Open,184,L,DEC,7 - 6,Nikolas Perovic,59605,MacMurray,Christian McCutcheon,62753,Oklahoma State
+2020,11/23,Lindenwood Open,184,W,MD,12 - 0,Dakota McCaleb,59383,Labette Community College,Christian McCutcheon,62753,Oklahoma State
+2020,11/23,Lindenwood Open,184,L,SV-1,5 - 3,Talon Borror,60447,Oklahoma,Christian McCutcheon,62753,Oklahoma State
+2020,11/09,Oklahoma City Open,184,W,FALL,0:06,Taylor Traffanstedt,63832,Central Baptist College,Christian McCutcheon,62753,Oklahoma State
+2020,11/09,Oklahoma City Open,184,W,DEC,9 - 4,JaMarcus Thomas,63831,Texas Wesleyan,Christian McCutcheon,62753,Oklahoma State
+2020,11/09,Oklahoma City Open,184,W,DEC,7 - 1,Seth Sarasua,63829,Northeastern Oklahoma,Christian McCutcheon,62753,Oklahoma State
+2020,11/09,Oklahoma City Open,184,L,DEC,4 - 1,Otis Peeler,62039,Cowley College,Christian McCutcheon,62753,Oklahoma State
+2020,11/09,Oklahoma City Open,184,W,DEC,3 - 0,Rey Reyes,63330,Ouachita Baptist University,Christian McCutcheon,62753,Oklahoma State
+2020,03/07,Big 12 Championships,197,W,DEC,8 - 2,Jake Woodley,49257,Oklahoma,Dakota Geer,45373,Oklahoma State
+2020,03/07,Big 12 Championships,197,W,TF5,17 - 0 3:47,Jacob Seely,39665,Northern Colorado,Dakota Geer,45373,Oklahoma State
+2020,03/07,Big 12 Championships,197,W,FALL,3:19,Isaiah Perez,52109,Fresno State,Dakota Geer,45373,Oklahoma State
+2020,03/07,Big 12 Championships,197,W,DEC,13 - 7,Joel Devine,50653,Iowa State,Dakota Geer,45373,Oklahoma State
+2020,03/07,Big 12 Championships,197,W,DEC,10 - 7,Cordell Eaton,40458,North Dakota State,Dakota Geer,45373,Oklahoma State
+2020,03/07,Big 12 Championships,197,L,DEC,9 - 5,Stephen Buchanan,60451,Wyoming,Dakota Geer,45373,Oklahoma State
+2020,02/23,Oklahoma State - Iowa Dual,197,L,DEC,8 - 3,Jacob Warner,49151,Iowa,Dakota Geer,45373,Oklahoma State
+2020,02/16,Oklahoma - Oklahoma State Dual,197,L,DEC,10 - 9,Jake Woodley,49257,Oklahoma,Dakota Geer,45373,Oklahoma State
+2020,02/08,Oklahoma State - Wyoming Dual,197,L,DEC,8 - 6,Stephen Buchanan,60451,Wyoming,Dakota Geer,45373,Oklahoma State
+2020,02/08,Oklahoma State - Air Force Dual,197,W,TF5,16 - 0 3:46,Casey Jumps,50817,Air Force,Dakota Geer,45373,Oklahoma State
+2020,02/02,Oklahoma State - Missouri Dual,197,W,DEC,10 - 5,Wyatt Koelling,44722,Missouri,Dakota Geer,45373,Oklahoma State
+2020,01/31,South Dakota State - Oklahoma State Dual,197,W,INJ,7:00,Tanner Sloan,56251,South Dakota State,Dakota Geer,45373,Oklahoma State
+2020,01/26,Oklahoma State - Iowa State Dual,197,W,MD,21 - 8,Francis Duggan,51112,Iowa State,Dakota Geer,45373,Oklahoma State
+2020,01/25,Oklahoma State - Northern Iowa Dual,197,W,TF5,20 - 4 5:29,Noah Glaser,51108,Northern Iowa,Dakota Geer,45373,Oklahoma State
+2020,01/18,Oklahoma State - Pittsburgh Dual,197,W,DEC,6 - 2,Kellan Stout,39528,Pittsburgh,Dakota Geer,45373,Oklahoma State
+2020,01/17,Oklahoma State - West Virginia Dual,197,L,FALL,1:07,Noah Adams,49342,West Virginia,Dakota Geer,45373,Oklahoma State
+2020,01/12,Northern Colorado - Oklahoma State Dual,197,W,TF5,19 - 3 4:35,Sethan Bogulski,45359,Northern Colorado,Dakota Geer,45373,Oklahoma State
+2020,01/01,Southern Scuffle,197,W,DEC,7 - 3,Jacob Cardenas,56770,Spartan Combat RTC,Dakota Geer,45373,Oklahoma State
+2020,01/01,Southern Scuffle,197,W,DEC,9 - 3,Jordan Pagano,20304,Rutgers,Dakota Geer,45373,Oklahoma State
+2020,01/01,Southern Scuffle,197,W,FALL,2:46,Zach Brown,62390,VMI,Dakota Geer,45373,Oklahoma State
+2020,01/01,Southern Scuffle,197,L,DEC,3 - 2,Ethan Laird,50134,Rider,Dakota Geer,45373,Oklahoma State
+2020,01/01,Southern Scuffle,197,W,FALL,5:34,Bryan McLaughlin,49120,Drexel,Dakota Geer,45373,Oklahoma State
+2020,01/01,Southern Scuffle,197,L,DEC,10 - 5,Michael Beard,50614,Penn State,Dakota Geer,45373,Oklahoma State
+2020,01/01,Southern Scuffle,197,W,TF5,20 - 5 5:58,Taye Ghadiali,62500,Campbell,Dakota Geer,45373,Oklahoma State
+2020,12/15,Oklahoma State - Oklahoma Dual,197,W,DEC,4 - 2,Jake Woodley,49257,Oklahoma,Dakota Geer,45373,Oklahoma State
+2020,12/06,Princeton - Oklahoma State Dual,197,L,DEC,12 - 6,Patrick Brucki,49296,Princeton,Dakota Geer,45373,Oklahoma State
+2020,11/24,Minnesota - Oklahoma State Dual,197,W,DEC,7 - 2,Garrett Joles,50908,Minnesota,Dakota Geer,45373,Oklahoma State
+2020,11/16,Oklahoma State - Lehigh Dual,197,W,MD,15 - 5,Jake Jakobsen,46924,Lehigh,Dakota Geer,45373,Oklahoma State
+2020,11/15,Oklahoma State - Drexel Dual,197,W,MD,16 - 7,Bryan McLaughlin,49120,Drexel,Dakota Geer,45373,Oklahoma State
+2020,11/09,Oklahoma City Open,184,W,MD,14 - 3,Talon Borror,60447,Oklahoma,Dakota Geer,45373,Oklahoma State
+2020,11/09,Oklahoma City Open,184,W,TF5,18 - 3 7:00,Carson Berryhill,61936,Oklahoma,Dakota Geer,45373,Oklahoma State
+2020,11/09,Oklahoma City Open,184,W,DEC,8 - 4,Heath Gray,52385,Central Oklahoma,Dakota Geer,45373,Oklahoma State
+2020,11/09,Oklahoma City Open,197,W,DEC,4 - 3,Bear Hughes,52303,Oklahoma State,Alex Kauffman,52363,Oklahoma State
+2020,11/09,Oklahoma City Open,197,W,TB-2,2 - 1,Kalin Winkler,46346,Central Oklahoma,Alex Kauffman,52363,Oklahoma State
+2020,01/01,Southern Scuffle,197,L,MD,12 - 3,Nathan Traxler,45395,Stanford,Bear Hughes,52303,Oklahoma State
+2020,01/01,Southern Scuffle,197,L,DEC,11 - 7,Zach Brown,62390,VMI,Bear Hughes,52303,Oklahoma State
+2020,01/01,Southern Scuffle,197,W,MD,10 - 2,Ben Stacey,44899,Chattanooga,Bear Hughes,52303,Oklahoma State
+2020,12/15,Reno Tournament of Champions,197,W,DEC,4 - 3,Jacob Gonsalves,59709,Simpson,Bear Hughes,52303,Oklahoma State
+2020,12/15,Reno Tournament of Champions,197,L,DEC,5 - 0,Afton Silvis,63766,Menlo,Bear Hughes,52303,Oklahoma State
+2020,12/15,Reno Tournament of Champions,197,W,FALL,4:52,Adam Rateb,45404,Oregon State,Bear Hughes,52303,Oklahoma State
+2020,12/15,Reno Tournament of Champions,197,W,DEC,10 - 4,Seamus O'Malley,57706,Stanford,Bear Hughes,52303,Oklahoma State
+2020,12/15,Reno Tournament of Champions,197,L,MD,9 - 0,Jayden Woodruff,54236,Utah Valley,Bear Hughes,52303,Oklahoma State
+2020,11/23,Lindenwood Open,197,W,DEC,11 - 6,Aric Bohn,57004,SIU Edwardsville,Bear Hughes,52303,Oklahoma State
+2020,11/23,Lindenwood Open,197,W,DEC,5 - 2,Austin Amos,55193,Liberty University,Bear Hughes,52303,Oklahoma State
+2020,11/23,Lindenwood Open,197,W,FALL,0:42,Drew Mccollum,52853,Hannibal-LaGrange,Bear Hughes,52303,Oklahoma State
+2020,11/23,Lindenwood Open,197,L,FALL,6:56,Jack Flynn,51611,Missouri,Bear Hughes,52303,Oklahoma State
+2020,11/23,Lindenwood Open,197,L,DEC,10 - 4,Wyatt Koelling,44722,Missouri,Bear Hughes,52303,Oklahoma State
+2020,11/23,Lindenwood Open,197,W,MFOR,0 - 0,Sam Cook,50880,Iowa,Bear Hughes,52303,Oklahoma State
+2020,11/09,Oklahoma City Open,197,L,DEC,4 - 3,Alex Kauffman,52363,Oklahoma State,Bear Hughes,52303,Oklahoma State
+2020,11/09,Oklahoma City Open,197,W,FALL,2:44,Dylan Johnson,63817,Little Rock,Bear Hughes,52303,Oklahoma State
+2020,11/09,Oklahoma City Open,197,W,SV-1,3 - 1,Steve Elwell,62840,Little Rock,Bear Hughes,52303,Oklahoma State
+2020,03/07,Big 12 Championships,285,L,DEC,8 - 4,Brandon Metz,49222,North Dakota State,Austin Harris,52334,Oklahoma State
+2020,03/07,Big 12 Championships,285,L,DEC,8 - 2,Brian Andrews,50489,Wyoming,Austin Harris,52334,Oklahoma State
+2020,02/23,Oklahoma State - Iowa Dual,285,L,MD,11 - 1,Anthony Cassioppi,50650,Iowa,Austin Harris,52334,Oklahoma State
+2020,02/16,Oklahoma - Oklahoma State Dual,285,W,MD,13 - 5,Collin McCoy,51000,Oklahoma,Austin Harris,52334,Oklahoma State
+2020,02/08,Oklahoma State - Wyoming Dual,285,L,TF5,15 - 0 7:00,Brian Andrews,50489,Wyoming,Austin Harris,52334,Oklahoma State
+2020,01/31,South Dakota State - Oklahoma State Dual,285,L,DEC,4 - 3,Blake Wolters,45289,South Dakota State,Austin Harris,52334,Oklahoma State
+2020,01/25,Oklahoma State - Northern Iowa Dual,285,L,DEC,5 - 2,Carter Isley,44719,Northern Iowa,Austin Harris,52334,Oklahoma State
+2020,01/18,Oklahoma State - Pittsburgh Dual,285,L,MD,14 - 3,Demetrius Thomas,47357,Pittsburgh,Austin Harris,52334,Oklahoma State
+2020,01/12,Northern Colorado - Oklahoma State Dual,285,W,DEC,4 - 3,Robert Winters,44813,Northern Colorado,Austin Harris,52334,Oklahoma State
+2020,01/01,Southern Scuffle,285,L,DEC,8 - 4,Joe Doyle,49050,Binghamton,Austin Harris,52334,Oklahoma State
+2020,01/01,Southern Scuffle,285,L,MD,14 - 6,Michael Burchell,57036,Appalachian State,Austin Harris,52334,Oklahoma State
+2020,12/15,Oklahoma State - Oklahoma Dual,285,W,DEC,6 - 2,Josiah Jones,51617,Oklahoma,Austin Harris,52334,Oklahoma State
+2020,12/06,Princeton - Oklahoma State Dual,285,W,DEC,5 - 2,Aidan Conner,57524,Princeton,Austin Harris,52334,Oklahoma State
+2020,11/24,Minnesota - Oklahoma State Dual,285,L,DEC,11 - 5,Robert Steveson,39518,Minnesota,Austin Harris,52334,Oklahoma State
+2020,11/16,Oklahoma State - Lehigh Dual,285,L,DEC,9 - 4,Jordan Wood,45107,Lehigh,Austin Harris,52334,Oklahoma State
+2020,11/15,Oklahoma State - Drexel Dual,285,L,DEC,2 - 1,Sean O'Malley,49121,Drexel,Austin Harris,52334,Oklahoma State
+2020,11/09,Oklahoma City Open,285,L,MFOR,0 - 0,Josh Heindselman,57311,Oklahoma,Austin Harris,52334,Oklahoma State
+2020,11/09,Oklahoma City Open,285,W,DEC,5 - 2,Gabriel Beyer,63800,Unattached,Austin Harris,52334,Oklahoma State
+2020,11/09,Oklahoma City Open,285,L,MFOR,0 - 0,Maleek Caton,46524,Williams Baptist,Austin Harris,52334,Oklahoma State
+2020,02/08,Oklahoma State - Air Force Dual,285,L,DEC,6 - 5,Kayne Hutchison,49026,Air Force,Cornelius Putnam,52368,Oklahoma State
+2020,02/02,Oklahoma State - Missouri Dual,285,W,TB-2,3 - 2,Jacob Bohlken,44953,Missouri,Cornelius Putnam,52368,Oklahoma State
+2020,01/26,Oklahoma State - Iowa State Dual,285,L,DEC,6 - 2,Gannon Gremmel,44856,Iowa State,Cornelius Putnam,52368,Oklahoma State
+2020,01/17,Oklahoma State - West Virginia Dual,285,L,SV-1,3 - 1,Brandon Ngati,45167,West Virginia,Cornelius Putnam,52368,Oklahoma State

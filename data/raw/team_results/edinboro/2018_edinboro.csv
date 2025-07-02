@@ -1,0 +1,563 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2018,03/15,NCAA Championships,125,W,DEC,8 - 1,Michael McGee,49264,Old Dominion,Sean Russell,20727,Edinboro
+2018,03/15,NCAA Championships,125,L,DEC,4 - 3,Luke Welch,13436,Purdue,Sean Russell,20727,Edinboro
+2018,03/15,NCAA Championships,125,L,DEC,6 - 3,Nick Piccininni,39547,Oklahoma State,Sean Russell,20727,Edinboro
+2018,03/15,NCAA Championships,125,W,MD,16 - 3,Gage Curry,44583,American,Sean Russell,20727,Edinboro
+2018,03/03,EWL Championships,125,W,DEC,7 - 0,JR Wert,24310,Rider,Sean Russell,20727,Edinboro
+2018,03/03,EWL Championships,125,W,DEC,2 - 0,Ibrahim Bunduka,19897,George Mason,Sean Russell,20727,Edinboro
+2018,03/03,EWL Championships,125,W,TF5,23 - 6 3:33,John Martin,12102,Cleveland State,Sean Russell,20727,Edinboro
+2018,02/17,Edinboro - Cleveland State Dual,125,W,TF5,21 - 6 4:24,John Martin,12102,Cleveland State,Sean Russell,20727,Edinboro
+2018,02/15,West Virginia - Edinboro Dual,125,W,SV-1,6 - 4,Zeke Moisey,20472,West Virginia,Sean Russell,20727,Edinboro
+2018,02/10,Edinboro - Oklahoma Dual,125,W,DEC,10 - 5,Christian Moody,39746,Oklahoma,Sean Russell,20727,Edinboro
+2018,02/09,Edinboro - Oklahoma State Dual,125,L,DEC,3 - 1,Nick Piccininni,39547,Oklahoma State,Sean Russell,20727,Edinboro
+2018,02/01,Edinboro - Lock Haven Dual,125,W,MD,20 - 8,Luke Werner,50282,Lock Haven,Sean Russell,20727,Edinboro
+2018,01/27,George Mason - Edinboro Dual,125,W,FALL,3:12,Talha Farooq,45317,George Mason,Sean Russell,20727,Edinboro
+2018,01/26,Edinboro - Clarion Dual,125,W,TF5,24 - 9 7:00,Gavin Park,49094,Clarion,Sean Russell,20727,Edinboro
+2018,01/21,Rider - Edinboro Dual,125,W,DEC,5 - 1,JR Wert,24310,Rider,Sean Russell,20727,Edinboro
+2018,01/19,Virginia Tech - Edinboro Dual,125,W,DEC,11 - 5,Kyle Norstrem,45110,Virginia Tech,Sean Russell,20727,Edinboro
+2018,12/29,Midlands Invitational,125,W,MFOR,0 - 0,Spencer Lee,49146,Iowa,Sean Russell,20727,Edinboro
+2018,12/29,Midlands Invitational,125,L,TF5,15 - 0 7:00,Spencer Lee,49146,Iowa,Sean Russell,20727,Edinboro
+2018,12/29,Midlands Invitational,125,L,DEC,6 - 0,Sebastian Rivera,44799,Northwestern,Sean Russell,20727,Edinboro
+2018,12/29,Midlands Invitational,125,W,DEC,8 - 5,Luke Welch,13436,Purdue,Sean Russell,20727,Edinboro
+2018,12/29,Midlands Invitational,125,W,DEC,8 - 2,Jake Gromacki,20324,Clarion,Sean Russell,20727,Edinboro
+2018,12/29,Midlands Invitational,125,W,MD,16 - 5,Brandon Cray,44681,Maryland,Sean Russell,20727,Edinboro
+2018,12/29,Midlands Invitational,125,W,DEC,6 - 2,Kyle Akins,19714,Buffalo,Sean Russell,20727,Edinboro
+2018,12/09,PSAC Championships,125,W,TF5,25 - 10 5:58,Aaron Wildonger,47811,Millersville,Sean Russell,20727,Edinboro
+2018,12/09,PSAC Championships,125,W,MD,19 - 8,Alan Diltz,53670,Seton Hill,Sean Russell,20727,Edinboro
+2018,12/09,PSAC Championships,125,W,FALL,6:01,Josiah Kline,45924,Lock Haven,Sean Russell,20727,Edinboro
+2018,12/01,Cliff Keen Invitational,125,W,SV-1,6 - 4,Kris Williams,39807,Nebraska,Sean Russell,20727,Edinboro
+2018,12/01,Cliff Keen Invitational,125,W,FALL,0:32,Michael Johnson,44962,Northern Colorado,Sean Russell,20727,Edinboro
+2018,12/01,Cliff Keen Invitational,125,W,DEC,9 - 2,Christian Moody,39746,Oklahoma,Sean Russell,20727,Edinboro
+2018,12/01,Cliff Keen Invitational,125,W,DEC,8 - 7,Jacob Schwarm,39750,Northern Iowa,Sean Russell,20727,Edinboro
+2018,12/01,Cliff Keen Invitational,125,W,FALL,3:30,Spencer Good,51030,Columbia,Sean Russell,20727,Edinboro
+2018,12/01,Cliff Keen Invitational,125,L,DEC,4 - 3,Taylor LaMont,44777,Utah Valley,Sean Russell,20727,Edinboro
+2018,11/17,Edinboro - Lehigh Dual,125,W,TF5,19 - 4 5:09,Aaron Burkett,44628,Lehigh,Sean Russell,20727,Edinboro
+2018,11/11,Eastern Michigan Open,125,L,DEC,6 - 3,Drew Mattin,49180,Michigan,Sean Russell,20727,Edinboro
+2018,11/11,Eastern Michigan Open,125,W,FALL,3:38,Cameron Lathem,44691,Cleveland State,Sean Russell,20727,Edinboro
+2018,11/11,Eastern Michigan Open,125,W,MD,12 - 3,Joshua Kramer,39736,Arizona State,Sean Russell,20727,Edinboro
+2018,11/05,Bucknell - Edinboro Dual,125,W,DEC,7 - 3,Jakob Campbell,49060,Bucknell,Sean Russell,20727,Edinboro
+2018,11/05,CSU Bakersfield - Edinboro Dual,125,W,TF5,20 - 4 6:01,Sergio Mendez,15986,CSU Bakersfield,Sean Russell,20727,Edinboro
+2018,01/06,Franklin & Marshall Open,125,L,DEC,8 - 3,Logan Treaster,49205,Navy,Lucas Rodriguez,51061,Edinboro
+2018,01/06,Franklin & Marshall Open,125,W,MD,10 - 2,Edgar Garcia,19888,Franklin & Marshall,Lucas Rodriguez,51061,Edinboro
+2018,01/06,Franklin & Marshall Open,125,L,MD,13 - 4,Joe Nelson,19659,Binghamton,Lucas Rodriguez,51061,Edinboro
+2018,11/11,Eastern Michigan Open,125,L,SV-2,3 - 1,Jack Medley,51392,Michigan,Lucas Rodriguez,51061,Edinboro
+2018,11/11,Eastern Michigan Open,125,L,DEC,6 - 1,Drew West,50041,Northern Illinois,Lucas Rodriguez,51061,Edinboro
+2018,11/11,Eastern Michigan Open,125,W,MFOR,0 - 0,Aslan Kilic,45565,Navy,Lucas Rodriguez,51061,Edinboro
+2018,11/11,Eastern Michigan Open,125,L,DEC,4 - 2,Jake Ferri,51179,Kent State,Mitch Seaver,50322,Edinboro
+2018,11/11,Eastern Michigan Open,125,W,DEC,5 - 1,Ethan Curtin,45303,Michigan State,Mitch Seaver,50322,Edinboro
+2018,11/11,Eastern Michigan Open,125,L,TF5,16 - 1 5:48,Aslan Kilic,45565,Navy,Mitch Seaver,50322,Edinboro
+2018,11/11,Eastern Michigan Open,125,L,FALL,5:00,Hunter Lucas,45132,Ohio State,Amir Muhammad,51060,Edinboro
+2018,11/11,Eastern Michigan Open,125,L,FALL,3:40,Brady Koontz,50853,Ohio State,Amir Muhammad,51060,Edinboro
+2018,03/15,NCAA Championships,133,L,DEC,5 - 2,Colin Valdiviez,49244,Northwestern,Korbin Myers,39637,Edinboro
+2018,03/15,NCAA Championships,133,L,DEC,4 - 3,Luke Pletcher,44636,Ohio State,Korbin Myers,39637,Edinboro
+2018,03/15,NCAA Championships,133,W,DEC,4 - 0,Scott DelVecchio,12021,Rutgers,Korbin Myers,39637,Edinboro
+2018,03/03,EWL Championships,133,W,FALL,4:30,DJ Fehlman,39898,Lock Haven,Korbin Myers,39637,Edinboro
+2018,03/03,EWL Championships,133,W,FALL,1:38,Roshaun Cooley,39552,Clarion,Korbin Myers,39637,Edinboro
+2018,03/03,EWL Championships,133,W,DEC,4 - 0,Andy Schutz,19678,Bloomsburg,Korbin Myers,39637,Edinboro
+2018,02/17,Edinboro - Cleveland State Dual,133,W,TF5,18 - 3 7:00,Andrew Coghill,19800,Cleveland State,Korbin Myers,39637,Edinboro
+2018,02/15,West Virginia - Edinboro Dual,133,W,DEC,6 - 0,Matthew Schmitt,45171,West Virginia,Korbin Myers,39637,Edinboro
+2018,02/10,Edinboro - Oklahoma Dual,133,W,MD,12 - 3,Jacob Rubio,20816,Oklahoma,Korbin Myers,39637,Edinboro
+2018,02/09,Edinboro - Oklahoma State Dual,133,L,DEC,5 - 4,Kaid Brock,39544,Oklahoma State,Korbin Myers,39637,Edinboro
+2018,02/01,Edinboro - Lock Haven Dual,133,W,DEC,9 - 4,DJ Fehlman,39898,Lock Haven,Korbin Myers,39637,Edinboro
+2018,01/27,George Mason - Edinboro Dual,133,W,TF5,22 - 7 5:57,Ibrahim Bunduka,19897,George Mason,Korbin Myers,39637,Edinboro
+2018,01/26,Edinboro - Clarion Dual,133,W,MD,16 - 4,Roshaun Cooley,39552,Clarion,Korbin Myers,39637,Edinboro
+2018,01/21,Rider - Edinboro Dual,133,W,DEC,12 - 5,Anthony Cefolo,40284,Rider,Korbin Myers,39637,Edinboro
+2018,01/19,Virginia Tech - Edinboro Dual,133,W,DEC,6 - 4,Dennis Gustafson,11706,Virginia Tech,Korbin Myers,39637,Edinboro
+2018,01/06,Bloomsburg - Edinboro Dual,133,W,DEC,4 - 1,Andy Schutz,19678,Bloomsburg,Korbin Myers,39637,Edinboro
+2018,12/29,Midlands Invitational,133,W,MD,11 - 3,Abdullah Assaf,50139,Illinois,Korbin Myers,39637,Edinboro
+2018,12/29,Midlands Invitational,133,W,DEC,3 - 1,Paul Konrath,49348,Wisconsin,Korbin Myers,39637,Edinboro
+2018,12/29,Midlands Invitational,133,L,DEC,3 - 2,Paul Konrath,49348,Wisconsin,Korbin Myers,39637,Edinboro
+2018,12/29,Midlands Invitational,133,L,DEC,3 - 2,Micky Phillippi,45230,Pittsburgh,Korbin Myers,39637,Edinboro
+2018,12/29,Midlands Invitational,133,W,DEC,6 - 1,Jens Lantz,20484,Wisconsin,Korbin Myers,39637,Edinboro
+2018,12/29,Midlands Invitational,133,L,DEC,7 - 6,Bryan Lantry,19723,Buffalo,Korbin Myers,39637,Edinboro
+2018,12/09,PSAC Championships,133,W,MD,18 - 5,Alex Baider,24195,Millersville,Korbin Myers,39637,Edinboro
+2018,12/09,PSAC Championships,133,W,MD,12 - 4,Cole Rush,48206,Shippensburg,Korbin Myers,39637,Edinboro
+2018,12/09,PSAC Championships,133,W,DEC,10 - 3,Roshaun Cooley,39552,Clarion,Korbin Myers,39637,Edinboro
+2018,12/09,PSAC Championships,133,W,DEC,6 - 2,Andy Schutz,19678,Bloomsburg,Korbin Myers,39637,Edinboro
+2018,12/01,Cliff Keen Invitational,133,L,DEC,5 - 1,Luke Pletcher,44636,Ohio State,Korbin Myers,39637,Edinboro
+2018,12/01,Cliff Keen Invitational,133,W,MD,11 - 3,Rico Montoya,39862,Northern Colorado,Korbin Myers,39637,Edinboro
+2018,12/01,Cliff Keen Invitational,133,W,DEC,6 - 3,Zach Sherman,49216,North Carolina,Korbin Myers,39637,Edinboro
+2018,12/01,Cliff Keen Invitational,133,W,DEC,7 - 6,Dennis Gustafson,11706,Virginia Tech,Korbin Myers,39637,Edinboro
+2018,12/01,Cliff Keen Invitational,133,L,DEC,7 - 2,Jack Mueller,45232,Virginia,Korbin Myers,39637,Edinboro
+2018,12/01,Cliff Keen Invitational,133,W,FALL,2:44,Kedric Coonis,52792,Western Wyoming College,Korbin Myers,39637,Edinboro
+2018,12/01,Cliff Keen Invitational,133,L,DEC,8 - 2,Stevan Micic,20223,Michigan,Korbin Myers,39637,Edinboro
+2018,11/17,Edinboro - Lehigh Dual,133,L,FALL,5:33,Scott Parker,19985,Lehigh,Korbin Myers,39637,Edinboro
+2018,11/11,Eastern Michigan Open,133,L,DEC,2 - 0,Micky Phillippi,45230,Pittsburgh,Korbin Myers,39637,Edinboro
+2018,11/11,Eastern Michigan Open,133,W,SV-1,7 - 5,Alijah Jeffery,20204,Northern Illinois,Korbin Myers,39637,Edinboro
+2018,11/11,Eastern Michigan Open,133,W,MD,12 - 3,Mike Stewart,41905,Findlay,Korbin Myers,39637,Edinboro
+2018,11/05,Bucknell - Edinboro Dual,133,W,DEC,8 - 2,David Campbell,49061,Bucknell,Korbin Myers,39637,Edinboro
+2018,11/05,CSU Bakersfield - Edinboro Dual,133,W,DEC,8 - 2,Sean Nickell,11606,CSU Bakersfield,Korbin Myers,39637,Edinboro
+2018,02/03,Edinboro Open,133,L,DEC,9 - 3,Drew Marten,49077,Central Michigan,Tony Recco,40442,Edinboro
+2018,02/03,Edinboro Open,133,W,DEC,1 - 0,Jason Javier,44981,Binghamton,Tony Recco,40442,Edinboro
+2018,02/03,Edinboro Open,133,L,DEC,5 - 4,Mike Volyanyuk,40460,Michigan,Tony Recco,40442,Edinboro
+2018,02/03,Edinboro Open,133,W,TF5,16 - 1 5:38,Caleb Wiggins,55637,Jamestown Community College,Richie Gomez,51062,Edinboro
+2018,02/03,Edinboro Open,133,W,DEC,5 - 2,Matt Siszka,51631,Pitt-Johnstown,Richie Gomez,51062,Edinboro
+2018,02/03,Edinboro Open,133,L,MD,9 - 0,Drew Marten,49077,Central Michigan,Richie Gomez,51062,Edinboro
+2018,02/03,Edinboro Open,133,W,MFOR,0 - 0,Scott Parker,19985,Lehigh,Richie Gomez,51062,Edinboro
+2018,02/03,Edinboro Open,133,W,DEC,7 - 6,Mike Volyanyuk,40460,Michigan,Richie Gomez,51062,Edinboro
+2018,02/03,Edinboro Open,133,L,DEC,5 - 2,Mike Volyanyuk,40460,Michigan,Richie Gomez,51062,Edinboro
+2018,12/16,Cleveland State Open,133,L,FALL,1:55,Steven Simpson,39905,Old Dominion,Richie Gomez,51062,Edinboro
+2018,12/16,Cleveland State Open,133,L,FALL,5:48,Dylan Koontz,50854,Ohio State,Richie Gomez,51062,Edinboro
+2018,11/11,Eastern Michigan Open,133,L,DEC,6 - 5,Colin Schuster,51178,Kent State,Richie Gomez,51062,Edinboro
+2018,11/11,Eastern Michigan Open,133,L,FALL,8:00,Dylan Koontz,50854,Ohio State,Richie Gomez,51062,Edinboro
+2018,11/11,Eastern Michigan Open,133,W,DEC,6 - 5,Raphael Rodriguez,51180,Kent State,Richie Gomez,51062,Edinboro
+2018,11/05,Clarion Open,133,L,FALL,0:31,Roshaun Cooley,39552,Clarion,Richie Gomez,51062,Edinboro
+2018,11/05,Clarion Open,133,L,DEC,7 - 3,Harry Feuer,47546,Kent State,Richie Gomez,51062,Edinboro
+2018,03/03,EWL Championships,141,L,DEC,8 - 1,Kyle Shoop,39682,Lock Haven,Nate Hagan,39830,Edinboro
+2018,03/03,EWL Championships,141,L,MFOR,0 - 0,Tejon Anthony,19896,George Mason,Nate Hagan,39830,Edinboro
+2018,03/03,EWL Championships,141,L,DEC,8 - 2,Tyson Dippery,11750,Rider,Nate Hagan,39830,Edinboro
+2018,02/17,Edinboro - Cleveland State Dual,141,L,FALL,2:42,Evan Cheek,40190,Cleveland State,Nate Hagan,39830,Edinboro
+2018,02/15,West Virginia - Edinboro Dual,141,L,DEC,2 - 1,Christian Monserrat,20473,West Virginia,Nate Hagan,39830,Edinboro
+2018,02/10,Edinboro - Oklahoma Dual,141,L,MD,8 - 0,Michael Longo,19624,Oklahoma,Nate Hagan,39830,Edinboro
+2018,02/09,Edinboro - Oklahoma State Dual,141,L,TF5,17 - 1 5:30,Dean Heil,15376,Oklahoma State,Nate Hagan,39830,Edinboro
+2018,02/01,Edinboro - Lock Haven Dual,141,L,DEC,7 - 2,Kyle Shoop,39682,Lock Haven,Nate Hagan,39830,Edinboro
+2018,01/27,George Mason - Edinboro Dual,141,W,MD,10 - 2,Trevor Mello,44664,George Mason,Nate Hagan,39830,Edinboro
+2018,01/26,Edinboro - Clarion Dual,141,W,DEC,5 - 1,Evan Myers,44985,Clarion,Nate Hagan,39830,Edinboro
+2018,01/21,Rider - Edinboro Dual,141,L,TF5,15 - 0 5:31,Tyson Dippery,11750,Rider,Nate Hagan,39830,Edinboro
+2018,01/19,Virginia Tech - Edinboro Dual,141,L,DEC,2 - 1,Brent Moore,44666,Virginia Tech,Nate Hagan,39830,Edinboro
+2018,01/06,Bloomsburg - Edinboro Dual,141,W,MD,15 - 2,Shawn Orem,51045,Bloomsburg,Nate Hagan,39830,Edinboro
+2018,12/29,Midlands Invitational,141,W,DEC,4 - 2,Anthony Rubino,45301,Northern Illinois,Nate Hagan,39830,Edinboro
+2018,12/29,Midlands Invitational,141,L,DEC,6 - 1,Pat D'arcy,43692,Princeton,Nate Hagan,39830,Edinboro
+2018,12/29,Midlands Invitational,141,L,DEC,7 - 2,Christian Monserrat,20473,West Virginia,Nate Hagan,39830,Edinboro
+2018,12/09,PSAC Championships,141,W,DEC,12 - 5,Kevin Kinyua,45923,Mercyhurst,Nate Hagan,39830,Edinboro
+2018,12/09,PSAC Championships,141,L,FALL,2:56,Carmine Ciotti,48218,Gannon,Nate Hagan,39830,Edinboro
+2018,12/09,PSAC Championships,141,W,DEC,8 - 5,Joel Cawoski,50246,Seton Hill,Nate Hagan,39830,Edinboro
+2018,12/09,PSAC Championships,141,W,DEC,5 - 3,Dante Steffenino,24222,Shippensburg,Nate Hagan,39830,Edinboro
+2018,12/09,PSAC Championships,141,W,FALL,2:41,Keegan Worley,48224,Millersville,Nate Hagan,39830,Edinboro
+2018,12/09,PSAC Championships,141,L,MD,13 - 3,Brock Zacherl,19787,Clarion,Nate Hagan,39830,Edinboro
+2018,12/01,Cliff Keen Invitational,141,L,SV-1,3 - 1,Brent Moore,44666,Virginia Tech,Nate Hagan,39830,Edinboro
+2018,12/01,Cliff Keen Invitational,141,L,MD,9 - 1,Matthew Findlay,45366,Utah Valley,Nate Hagan,39830,Edinboro
+2018,11/17,Edinboro - Lehigh Dual,141,L,DEC,6 - 1,Luke Karam,44703,Lehigh,Nate Hagan,39830,Edinboro
+2018,11/11,Eastern Michigan Open,141,L,DEC,6 - 1,Nick Zanetta,15385,Pittsburgh,Nate Hagan,39830,Edinboro
+2018,11/11,Eastern Michigan Open,141,W,DEC,3 - 2,Jason Isparides,40057,Northwestern,Nate Hagan,39830,Edinboro
+2018,11/11,Eastern Michigan Open,141,L,DEC,4 - 0,Yahya Thomas,49245,Northwestern,Nate Hagan,39830,Edinboro
+2018,11/11,Eastern Michigan Open,141,W,DEC,5 - 1,Anthony Rubino,45301,Northern Illinois,Nate Hagan,39830,Edinboro
+2018,11/05,Bucknell - Edinboro Dual,141,L,MD,16 - 6,Tyler Smith,22439,Bucknell,Nate Hagan,39830,Edinboro
+2018,11/05,CSU Bakersfield - Edinboro Dual,141,L,DEC,4 - 0,Russell Rohlfing,40166,CSU Bakersfield,Nate Hagan,39830,Edinboro
+2018,02/03,Edinboro Open,141,L,DEC,14 - 7,Zack Trampe,51913,Binghamton,PJ Gohn,51063,Edinboro
+2018,02/03,Edinboro Open,141,L,DEC,6 - 4,Alex Hrisopoulos,45308,Michigan State,PJ Gohn,51063,Edinboro
+2018,01/06,Franklin & Marshall Open,149,W,INJ,7:00,Douglas Mele,24229,Millersville,PJ Gohn,51063,Edinboro
+2018,01/06,Franklin & Marshall Open,149,W,DEC,8 - 2,Michael Hulcher,20697,VMI,PJ Gohn,51063,Edinboro
+2018,01/06,Franklin & Marshall Open,149,W,MFOR,0 - 0,Parker Kropman,45187,Binghamton,PJ Gohn,51063,Edinboro
+2018,01/06,Franklin & Marshall Open,149,W,FALL,0:55,Jeffrey Mayolo,51325,Army West Point,PJ Gohn,51063,Edinboro
+2018,01/06,Franklin & Marshall Open,149,L,MD,9 - 0,Gavin Londoff,44823,Appalachian State,PJ Gohn,51063,Edinboro
+2018,01/06,Franklin & Marshall Open,149,L,MD,12 - 2,Gavin Londoff,44823,Appalachian State,PJ Gohn,51063,Edinboro
+2018,01/06,Franklin & Marshall Open,149,W,DEC,7 - 3,Jay Oakes,20832,Sacred Heart,PJ Gohn,51063,Edinboro
+2018,12/16,Cleveland State Open,141,W,DEC,9 - 4,Kole Krauss,45305,Michigan State,PJ Gohn,51063,Edinboro
+2018,12/16,Cleveland State Open,141,L,MD,12 - 1,Tim Rooney,39949,Kent State,PJ Gohn,51063,Edinboro
+2018,12/16,Cleveland State Open,141,W,DEC,8 - 3,Reiley Brown,45273,Central Michigan,PJ Gohn,51063,Edinboro
+2018,12/16,Cleveland State Open,141,L,MD,11 - 3,John Millner,50212,Appalachian State,PJ Gohn,51063,Edinboro
+2018,11/11,Eastern Michigan Open,141,L,MD,13 - 2,Breyden Bailey,49237,Indiana,PJ Gohn,51063,Edinboro
+2018,11/11,Eastern Michigan Open,141,W,DEC,4 - 2,Kole Krauss,45305,Michigan State,PJ Gohn,51063,Edinboro
+2018,11/11,Eastern Michigan Open,141,W,FALL,5:48,Cooper Gunnells,51478,Eastern Michigan,PJ Gohn,51063,Edinboro
+2018,11/11,Eastern Michigan Open,141,L,TB-1,2 - 1,Breyden Bailey,49237,Indiana,PJ Gohn,51063,Edinboro
+2018,02/03,Edinboro Open,141,L,FALL,0:48,Tim Kane,52711,Wyoming Seminary Prep,Avery Henry,20722,Edinboro
+2018,02/03,Edinboro Open,141,L,TF5,15 - 0 3:04,Jalin Hankerson,49095,Clarion,Avery Henry,20722,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,141,W,MD,12 - 3,Kevin Constantine,54325,Millersville,Avery Henry,20722,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,141,W,MFOR,0 - 0,Peter Lipari,39530,Rutgers,Avery Henry,20722,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,141,L,FALL,1:37,Patrick Quinlan,20543,Franklin & Marshall,Avery Henry,20722,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,141,L,TF5,17 - 2 7:00,Marco Macrino,50359,Bloomsburg,Avery Henry,20722,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,141,W,SV-1,3 - 1,Anthony Patsy,52040,Pennsylvania,Avery Henry,20722,Edinboro
+2018,11/11,Eastern Michigan Open,133,L,FALL,0:35,Andrew Coghill,19800,Cleveland State,Avery Henry,20722,Edinboro
+2018,11/11,Eastern Michigan Open,133,L,FALL,0:35,Dresden Simon,44707,Central Michigan,Avery Henry,20722,Edinboro
+2018,03/03,EWL Championships,149,W,DEC,6 - 5,Justin Yorkdale,45347,George Mason,Jensen Lorea,20723,Edinboro
+2018,03/03,EWL Championships,149,L,DEC,5 - 3,Gary Dinmore,23397,Rider,Jensen Lorea,20723,Edinboro
+2018,03/03,EWL Championships,149,L,DEC,4 - 1,Gary Dinmore,23397,Rider,Jensen Lorea,20723,Edinboro
+2018,03/03,EWL Championships,149,W,MD,13 - 1,Braden Stahlnecker,51046,Bloomsburg,Jensen Lorea,20723,Edinboro
+2018,02/17,Edinboro - Cleveland State Dual,149,L,DEC,7 - 5,Ryan Ford,44594,Cleveland State,Jensen Lorea,20723,Edinboro
+2018,02/15,West Virginia - Edinboro Dual,149,L,DEC,4 - 1,Kyler Rea,44945,West Virginia,Jensen Lorea,20723,Edinboro
+2018,02/10,Edinboro - Oklahoma Dual,149,L,MD,12 - 0,Davion Jeffries,39653,Oklahoma,Jensen Lorea,20723,Edinboro
+2018,02/09,Edinboro - Oklahoma State Dual,149,L,FALL,5:11,Boo Lewallen,39543,Oklahoma State,Jensen Lorea,20723,Edinboro
+2018,02/01,Edinboro - Lock Haven Dual,149,L,MD,18 - 4,Ronnie Perry,12058,Lock Haven,Jensen Lorea,20723,Edinboro
+2018,01/27,George Mason - Edinboro Dual,149,W,DEC,9 - 4,Tejon Anthony,19896,George Mason,Jensen Lorea,20723,Edinboro
+2018,01/26,Edinboro - Clarion Dual,149,L,DEC,7 - 1,Taylor Ortz,40103,Clarion,Jensen Lorea,20723,Edinboro
+2018,12/29,Midlands Invitational,149,W,DEC,5 - 3,Connor Noonan,45400,Oregon State,Jensen Lorea,20723,Edinboro
+2018,12/29,Midlands Invitational,149,L,DEC,9 - 4,Kevin Budock,44576,Old Dominion,Jensen Lorea,20723,Edinboro
+2018,12/29,Midlands Invitational,149,L,MD,15 - 4,Kyle Springer,37484,Eastern Michigan,Jensen Lorea,20723,Edinboro
+2018,12/16,Cleveland State Open,149,L,DEC,9 - 4,Farouq Muhammed,54090,Unattached,Jensen Lorea,20723,Edinboro
+2018,12/16,Cleveland State Open,149,W,DEC,9 - 2,Jude Mattocks,51252,Mercyhurst Northeast,Jensen Lorea,20723,Edinboro
+2018,12/16,Cleveland State Open,149,W,TF5,19 - 2 7:00,Anthony Palmiotto,46766,Spartan Combat RTC,Jensen Lorea,20723,Edinboro
+2018,12/16,Cleveland State Open,149,L,DEC,6 - 0,Joby Armenta,20791,Gardner-Webb,Jensen Lorea,20723,Edinboro
+2018,11/11,Eastern Michigan Open,149,L,DEC,4 - 3,Riley Barth,40348,Pittsburgh,Jensen Lorea,20723,Edinboro
+2018,11/11,Eastern Michigan Open,149,L,DEC,6 - 5,Alesandro Murray,40349,Pittsburgh,Jensen Lorea,20723,Edinboro
+2018,01/21,Rider - Edinboro Dual,149,L,MD,10 - 2,Gary Dinmore,23397,Rider,Peter Pappas,49131,Edinboro
+2018,01/19,Virginia Tech - Edinboro Dual,149,L,MD,18 - 4,Ryan Blees,20267,Virginia Tech,Peter Pappas,49131,Edinboro
+2018,01/06,Bloomsburg - Edinboro Dual,149,W,MD,12 - 2,Evan Campbell,51047,Bloomsburg,Peter Pappas,49131,Edinboro
+2018,12/29,Midlands Invitational,149,L,DEC,8 - 2,Matt Kolodzik,45071,Princeton,Peter Pappas,49131,Edinboro
+2018,12/29,Midlands Invitational,149,L,SV-1,7 - 5,Jordan Shearer,39602,Nebraska,Peter Pappas,49131,Edinboro
+2018,12/09,PSAC Championships,149,L,MD,10 - 0,Ronnie Perry,12058,Lock Haven,Peter Pappas,49131,Edinboro
+2018,12/09,PSAC Championships,149,W,DEC,10 - 3,Logan Grass,43410,Mercyhurst,Peter Pappas,49131,Edinboro
+2018,12/09,PSAC Championships,149,W,DEC,6 - 5,Austin Shaw,47962,Seton Hill,Peter Pappas,49131,Edinboro
+2018,12/01,Cliff Keen Invitational,149,L,DEC,6 - 2,Corey Wilding,20626,Navy,Peter Pappas,49131,Edinboro
+2018,12/01,Cliff Keen Invitational,149,W,DEC,6 - 4,Frank Garcia,41394,Binghamton,Peter Pappas,49131,Edinboro
+2018,12/01,Cliff Keen Invitational,149,W,DEC,7 - 3,Robert Lee,39975,Pittsburgh,Peter Pappas,49131,Edinboro
+2018,12/01,Cliff Keen Invitational,149,L,DEC,5 - 3,Josh Maruca,39512,Arizona State,Peter Pappas,49131,Edinboro
+2018,11/17,Edinboro - Lehigh Dual,149,W,DEC,11 - 10,Jonathan Mele,12168,Lehigh,Peter Pappas,49131,Edinboro
+2018,11/11,Eastern Michigan Open,149,W,MD,15 - 2,Matthew Dowler,44891,Edinboro,Peter Pappas,49131,Edinboro
+2018,11/11,Eastern Michigan Open,149,L,DEC,4 - 3,Tanner Smith,49129,Eastern Michigan,Peter Pappas,49131,Edinboro
+2018,11/11,Eastern Michigan Open,149,W,TF5,18 - 2 6:27,Dallas Bulsak,49286,Pittsburgh,Peter Pappas,49131,Edinboro
+2018,11/11,Eastern Michigan Open,149,W,DEC,9 - 4,Luke Raczkowski,50921,Central Michigan,Peter Pappas,49131,Edinboro
+2018,11/05,Bucknell - Edinboro Dual,149,W,DEC,8 - 4,Seth Hogue,44668,Bucknell,Peter Pappas,49131,Edinboro
+2018,11/05,CSU Bakersfield - Edinboro Dual,149,W,MD,16 - 4,Kalani Tonge,45324,CSU Bakersfield,Peter Pappas,49131,Edinboro
+2018,02/03,Edinboro Open,149,L,MD,9 - 1,Jared Prince,41363,Navy,Matthew Dowler,44891,Edinboro
+2018,02/03,Edinboro Open,149,L,SV-1,4 - 2,Connor Muli,19928,Hofstra,Matthew Dowler,44891,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,149,L,MD,13 - 2,Nick Santos,50283,Rutgers,Matthew Dowler,44891,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,149,W,FALL,2:01,Shawn Jones,48400,Millersville,Matthew Dowler,44891,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,149,W,FALL,1:05,Kevin Budock,44576,Old Dominion,Matthew Dowler,44891,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,149,L,MD,19 - 5,Evan Fidelibus,44900,Rider,Matthew Dowler,44891,Edinboro
+2018,11/26,Mat Town Open I,149,L,DEC,13 - 12,Matt Kolonia,49066,Bucknell,Matthew Dowler,44891,Edinboro
+2018,11/26,Mat Town Open I,149,W,FALL,3:34,Kevin Loughney,52713,Wyoming Seminary Prep,Matthew Dowler,44891,Edinboro
+2018,11/26,Mat Town Open I,149,W,FALL,0:43,Ryan Stocku,51049,Bloomsburg,Matthew Dowler,44891,Edinboro
+2018,11/26,Mat Town Open I,149,L,DEC,15 - 8,Seth Hogue,44668,Bucknell,Matthew Dowler,44891,Edinboro
+2018,11/26,Mat Town Open I,149,W,FALL,0:30,Shawn Orem,51045,Bloomsburg,Matthew Dowler,44891,Edinboro
+2018,11/11,Eastern Michigan Open,149,L,MD,15 - 2,Peter Pappas,49131,Edinboro,Matthew Dowler,44891,Edinboro
+2018,11/11,Eastern Michigan Open,149,L,DEC,8 - 5,Ryan Ford,44594,Cleveland State,Matthew Dowler,44891,Edinboro
+2018,11/11,Eastern Michigan Open,149,W,FALL,4:07,Dylan Dwyer,51715,Grand Valley State University,Matthew Dowler,44891,Edinboro
+2018,11/11,Eastern Michigan Open,149,W,MD,13 - 4,Tyler Brewer,47969,Davenport,Matthew Dowler,44891,Edinboro
+2018,02/11,JCU Open,149,L,DEC,5 - 3,Kody Komara,50094,Kent State,Chris Matzke,45369,Edinboro
+2018,02/11,JCU Open,149,W,DEC,7 - 5,Jake Hinkson,49158,Kent State,Chris Matzke,45369,Edinboro
+2018,02/11,JCU Open,149,L,MD,19 - 6,Dominic Means,51632,Pitt-Johnstown,Chris Matzke,45369,Edinboro
+2018,02/11,JCU Open,149,W,MFOR,0 - 0,Carson Speelman,51971,Ashland,Chris Matzke,45369,Edinboro
+2018,02/03,Edinboro Open,149,L,DEC,8 - 4,Brendan Grammes,50899,Virginia Tech,Chris Matzke,45369,Edinboro
+2018,02/03,Edinboro Open,149,W,DEC,9 - 3,Joe Sliwoski,44849,Clarion,Chris Matzke,45369,Edinboro
+2018,02/03,Edinboro Open,149,L,TF5,15 - 0 6:17,Riley Barth,40348,Pittsburgh,Chris Matzke,45369,Edinboro
+2018,12/16,Cleveland State Open,149,W,DEC,5 - 2,Jimmy Muscato,51211,Michigan State,Chris Matzke,45369,Edinboro
+2018,12/16,Cleveland State Open,149,L,DEC,5 - 4,Joby Armenta,20791,Gardner-Webb,Chris Matzke,45369,Edinboro
+2018,12/16,Cleveland State Open,149,L,DEC,8 - 4,Ben Lamantia,39644,Michigan,Chris Matzke,45369,Edinboro
+2018,11/11,Eastern Michigan Open,149,L,DEC,13 - 11,Luke Raczkowski,50921,Central Michigan,Chris Matzke,45369,Edinboro
+2018,11/11,Eastern Michigan Open,149,L,DEC,5 - 3,Ryan Ford,44594,Cleveland State,Chris Matzke,45369,Edinboro
+2018,11/11,Eastern Michigan Open,149,W,MD,13 - 2,Jonathon Woods,51719,Findlay,Chris Matzke,45369,Edinboro
+2018,11/05,Clarion Open,149,L,TF5,15 - 0 3:09,Grant LaMont,40320,Utah Valley,Chris Matzke,45369,Edinboro
+2018,11/05,Clarion Open,149,L,MD,10 - 2,Taylor Ortz,40103,Clarion,Chris Matzke,45369,Edinboro
+2018,11/05,Clarion Open,149,W,DEC,4 - 3,Evan Campbell,51047,Bloomsburg,Chris Matzke,45369,Edinboro
+2018,01/06,Franklin & Marshall Open,157,L,DEC,11 - 4,Brock Wilson,49141,Harvard,Tim Suter,51064,Edinboro
+2018,01/06,Franklin & Marshall Open,157,L,DEC,6 - 1,Tyler Tarsi,19922,Harvard,Tim Suter,51064,Edinboro
+2018,01/06,Franklin & Marshall Open,157,W,FALL,2:15,Andrew Millsap,19708,Bucknell,Tim Suter,51064,Edinboro
+2018,11/11,Eastern Michigan Open,149,L,DEC,5 - 4,Luke Raczkowski,50921,Central Michigan,Tim Suter,51064,Edinboro
+2018,11/11,Eastern Michigan Open,149,W,DEC,11 - 4,Dylan Dwyer,51715,Grand Valley State University,Tim Suter,51064,Edinboro
+2018,11/11,Eastern Michigan Open,149,L,DEC,8 - 1,Tanner Smith,49129,Eastern Michigan,Tim Suter,51064,Edinboro
+2018,11/05,Clarion Open,149,L,FALL,1:34,Will Kaldes,50123,Pittsburgh,Tim Suter,51064,Edinboro
+2018,11/05,Clarion Open,149,L,FALL,6:00,Jake Keating,50315,Virginia,Tim Suter,51064,Edinboro
+2018,11/05,Clarion Open,149,W,FALL,2:16,Andrew Barnett,51634,Unattached,Tim Suter,51064,Edinboro
+2018,02/03,Edinboro Open,149,L,TF5,16 - 1 6:55,Luke Raczkowski,50921,Central Michigan,Mike Resignalo,45368,Edinboro
+2018,02/03,Edinboro Open,149,W,DEC,4 - 1,Charlie Kane,45049,Hofstra,Mike Resignalo,45368,Edinboro
+2018,02/03,Edinboro Open,149,L,TF5,20 - 3 4:58,Jamal Morris,20136,NC State,Mike Resignalo,45368,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,149,L,DEC,5 - 2,Mitchell Camp,46213,Kutztown,Mike Resignalo,45368,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,149,L,MD,12 - 2,Dakota Roark,51010,American,Mike Resignalo,45368,Edinboro
+2018,11/05,Clarion Open,149,L,DEC,9 - 5,Brandon Miller,51674,Penn State Behrend,Mike Resignalo,45368,Edinboro
+2018,11/05,Clarion Open,149,L,TF5,16 - 0 4:44,Christian Monserrat,20473,West Virginia,Mike Resignalo,45368,Edinboro
+2018,03/15,NCAA Championships,157,L,MD,9 - 1,Luke Weiland,41243,Army West Point,Andrew Shomers,39642,Edinboro
+2018,03/15,NCAA Championships,157,L,DEC,6 - 4,Markus Scheidel,13741,Columbia,Andrew Shomers,39642,Edinboro
+2018,03/03,EWL Championships,157,L,FALL,0:52,Alex Klucker,40289,Lock Haven,Andrew Shomers,39642,Edinboro
+2018,03/03,EWL Championships,157,W,DEC,14 - 7,Bryant Clagon,18514,Rider,Andrew Shomers,39642,Edinboro
+2018,03/03,EWL Championships,157,W,MD,9 - 0,Avery Shay,50309,Clarion,Andrew Shomers,39642,Edinboro
+2018,02/17,Edinboro - Cleveland State Dual,157,W,TF5,19 - 0 7:00,Ryan Montgomery,40191,Cleveland State,Andrew Shomers,39642,Edinboro
+2018,02/15,West Virginia - Edinboro Dual,157,W,TF5,16 - 0 3:26,Hunter Jones,45169,West Virginia,Andrew Shomers,39642,Edinboro
+2018,02/10,Edinboro - Oklahoma Dual,157,W,DEC,3 - 1,Justin Thomas,44882,Oklahoma,Andrew Shomers,39642,Edinboro
+2018,02/09,Edinboro - Oklahoma State Dual,157,W,DEC,3 - 0,Jonce Blaylock,20266,Oklahoma State,Andrew Shomers,39642,Edinboro
+2018,02/01,Edinboro - Lock Haven Dual,157,W,DEC,7 - 0,Alex Klucker,40289,Lock Haven,Andrew Shomers,39642,Edinboro
+2018,01/27,George Mason - Edinboro Dual,157,W,TF5,18 - 0 4:18,Justin Yorkdale,45347,George Mason,Andrew Shomers,39642,Edinboro
+2018,01/26,Edinboro - Clarion Dual,157,W,TB-1,4 - 2,Avery Shay,50309,Clarion,Andrew Shomers,39642,Edinboro
+2018,01/21,Rider - Edinboro Dual,157,W,DEC,4 - 3,Bryant Clagon,18514,Rider,Andrew Shomers,39642,Edinboro
+2018,01/19,Virginia Tech - Edinboro Dual,157,W,DEC,6 - 2,Brian LaPrade,45112,Virginia Tech,Andrew Shomers,39642,Edinboro
+2018,01/06,Bloomsburg - Edinboro Dual,157,W,MD,8 - 0,Kevin Laubach,19674,Bloomsburg,Andrew Shomers,39642,Edinboro
+2018,12/29,Midlands Invitational,157,W,MD,14 - 1,Jon Errico,45265,Pennsylvania,Andrew Shomers,39642,Edinboro
+2018,12/29,Midlands Invitational,157,L,DEC,5 - 3,Griffin Parriott,44608,Purdue,Andrew Shomers,39642,Edinboro
+2018,12/29,Midlands Invitational,157,W,TF5,15 - 0 7:00,Tyler Tarsi,19922,Harvard,Andrew Shomers,39642,Edinboro
+2018,12/29,Midlands Invitational,157,L,INJ,7:00,John Van Brill,20367,Rutgers,Andrew Shomers,39642,Edinboro
+2018,12/09,PSAC Championships,157,W,TF5,16 - 0 4:30,Jake Willochell,41242,Seton Hill,Andrew Shomers,39642,Edinboro
+2018,12/09,PSAC Championships,157,W,FALL,1:26,Owen Watkins,52915,Mercyhurst,Andrew Shomers,39642,Edinboro
+2018,12/09,PSAC Championships,157,W,MD,12 - 4,Micailum Tanner,44961,Clarion,Andrew Shomers,39642,Edinboro
+2018,12/01,Cliff Keen Invitational,157,L,DEC,6 - 0,Tristan Rifanburg,39674,Binghamton,Andrew Shomers,39642,Edinboro
+2018,12/01,Cliff Keen Invitational,157,W,MD,9 - 0,Zack Davis,20604,Navy,Andrew Shomers,39642,Edinboro
+2018,12/01,Cliff Keen Invitational,157,W,TF5,16 - 0 2:46,Ky Webb,51570,Western Wyoming College,Andrew Shomers,39642,Edinboro
+2018,12/01,Cliff Keen Invitational,157,W,DEC,3 - 2,Brian LaPrade,45112,Virginia Tech,Andrew Shomers,39642,Edinboro
+2018,12/01,Cliff Keen Invitational,157,W,MD,8 - 0,Jose Champagne,45138,Minnesota,Andrew Shomers,39642,Edinboro
+2018,12/01,Cliff Keen Invitational,157,W,DEC,4 - 0,Justin Staudenmayer,15115,Brown,Andrew Shomers,39642,Edinboro
+2018,12/01,Cliff Keen Invitational,157,L,DEC,6 - 3,Eric Hong,50071,American,Andrew Shomers,39642,Edinboro
+2018,11/17,Edinboro - Lehigh Dual,157,W,DEC,5 - 3,Ian Brown,20549,Lehigh,Andrew Shomers,39642,Edinboro
+2018,11/11,Eastern Michigan Open,157,W,DEC,2 - 0,Layne van Anrooy,49182,Michigan,Andrew Shomers,39642,Edinboro
+2018,11/11,Eastern Michigan Open,157,W,DEC,4 - 0,Chase Archangelo,49104,Cleveland State,Andrew Shomers,39642,Edinboro
+2018,11/11,Eastern Michigan Open,157,W,TF5,17 - 1 5:24,James Wimer,46493,Findlay,Andrew Shomers,39642,Edinboro
+2018,11/11,Eastern Michigan Open,157,W,TF5,16 - 1 7:00,Chase Archangelo,49104,Cleveland State,Andrew Shomers,39642,Edinboro
+2018,11/11,Eastern Michigan Open,157,L,DEC,2 - 0,Zack Davis,20604,Navy,Andrew Shomers,39642,Edinboro
+2018,11/05,Bucknell - Edinboro Dual,157,W,MD,12 - 0,Mitchell Hartman,45921,Bucknell,Andrew Shomers,39642,Edinboro
+2018,11/05,CSU Bakersfield - Edinboro Dual,157,W,DEC,2 - 0,Coleman Hammond,14011,CSU Bakersfield,Andrew Shomers,39642,Edinboro
+2018,02/03,Edinboro Open,165,L,FALL,6:01,Joe Lee,49666,High School,Spencer Nagy,40444,Edinboro
+2018,02/03,Edinboro Open,165,W,MD,16 - 7,Ryan Ferro,50086,Ohio State,Spencer Nagy,40444,Edinboro
+2018,02/03,Edinboro Open,165,W,FALL,2:33,John Stawinski,49114,Spartan Combat RTC,Spencer Nagy,40444,Edinboro
+2018,02/03,Edinboro Open,165,L,DEC,5 - 4,Thomas Bullard,44611,NC State,Spencer Nagy,40444,Edinboro
+2018,12/29,Midlands Invitational,157,W,DEC,5 - 2,Johnny Mologousis,49144,Illinois,Spencer Nagy,40444,Edinboro
+2018,12/29,Midlands Invitational,157,W,DEC,2 - 0,Austin Holmes,44701,Indiana,Spencer Nagy,40444,Edinboro
+2018,12/29,Midlands Invitational,157,W,DEC,6 - 3,Carson Brolsma,39549,Minnesota,Spencer Nagy,40444,Edinboro
+2018,12/29,Midlands Invitational,157,L,TF5,19 - 2 7:00,Larry Early,39519,Old Dominion,Spencer Nagy,40444,Edinboro
+2018,12/29,Midlands Invitational,157,L,FALL,2:27,John Van Brill,20367,Rutgers,Spencer Nagy,40444,Edinboro
+2018,11/11,Eastern Michigan Open,157,L,DEC,5 - 2,Layne van Anrooy,49182,Michigan,Spencer Nagy,40444,Edinboro
+2018,11/11,Eastern Michigan Open,157,W,FALL,6:49,Blake Montrie,45047,Central Michigan,Spencer Nagy,40444,Edinboro
+2018,11/11,Eastern Michigan Open,157,W,MD,12 - 0,Ameer Munassar,45117,Eastern Michigan,Spencer Nagy,40444,Edinboro
+2018,11/11,Eastern Michigan Open,157,L,DEC,5 - 1,Taleb Rahmani,40082,Pittsburgh,Spencer Nagy,40444,Edinboro
+2018,02/03,Edinboro Open,157,W,DEC,7 - 0,Kyle Jenkins,52978,Mount Union,Sam Ziff,16706,Edinboro
+2018,02/03,Edinboro Open,157,L,MD,12 - 3,Evan Fisler,50324,Gannon,Sam Ziff,16706,Edinboro
+2018,02/03,Edinboro Open,157,L,MD,13 - 3,Quentin Hovis,49199,Navy,Sam Ziff,16706,Edinboro
+2018,11/11,Eastern Michigan Open,157,L,DEC,5 - 0,Chase Archangelo,49104,Cleveland State,Sam Ziff,16706,Edinboro
+2018,11/11,Eastern Michigan Open,157,L,MD,12 - 4,Jacob Tucker,44639,Michigan State,Sam Ziff,16706,Edinboro
+2018,11/11,Eastern Michigan Open,157,W,DEC,7 - 3,James Wimer,46493,Findlay,Sam Ziff,16706,Edinboro
+2018,03/03,EWL Championships,165,L,MD,13 - 2,Chad Walsh,13628,Rider,Fritz Hoehn,39762,Edinboro
+2018,03/03,EWL Championships,165,L,MD,12 - 3,Max Wohlabaugh,49096,Clarion,Fritz Hoehn,39762,Edinboro
+2018,03/03,EWL Championships,165,W,MD,10 - 1,Nate Newberry,45190,Bloomsburg,Fritz Hoehn,39762,Edinboro
+2018,02/17,Edinboro - Cleveland State Dual,165,L,DEC,14 - 8,Georgio Poullas,49101,Cleveland State,Fritz Hoehn,39762,Edinboro
+2018,02/15,West Virginia - Edinboro Dual,165,W,DEC,6 - 4,Nick Kiussis,49345,West Virginia,Fritz Hoehn,39762,Edinboro
+2018,02/10,Edinboro - Oklahoma Dual,165,L,MD,14 - 6,Dawaylon Barnes,22085,Oklahoma,Fritz Hoehn,39762,Edinboro
+2018,02/09,Edinboro - Oklahoma State Dual,165,L,FALL,0:35,Chandler Rogers,20559,Oklahoma State,Fritz Hoehn,39762,Edinboro
+2018,02/01,Edinboro - Lock Haven Dual,165,L,MD,12 - 4,Chance Marsteller,47805,Lock Haven,Fritz Hoehn,39762,Edinboro
+2018,01/27,George Mason - Edinboro Dual,165,W,TF5,15 - 0 2:18,Bryce Reddington,50046,George Mason,Fritz Hoehn,39762,Edinboro
+2018,01/26,Edinboro - Clarion Dual,165,W,TF5,18 - 3 6:52,Micailum Tanner,44961,Clarion,Fritz Hoehn,39762,Edinboro
+2018,01/21,Rider - Edinboro Dual,165,L,MD,16 - 5,Chad Walsh,13628,Rider,Fritz Hoehn,39762,Edinboro
+2018,01/19,Virginia Tech - Edinboro Dual,165,L,DEC,14 - 8,David McFadden,39633,Virginia Tech,Fritz Hoehn,39762,Edinboro
+2018,01/06,Bloomsburg - Edinboro Dual,165,W,MD,10 - 1,Nate Newberry,45190,Bloomsburg,Fritz Hoehn,39762,Edinboro
+2018,12/29,Midlands Invitational,165,L,DEC,12 - 11,Dale Tiongson,49295,Princeton,Fritz Hoehn,39762,Edinboro
+2018,12/29,Midlands Invitational,165,L,DEC,16 - 9,Anthony Valencia,39500,Arizona State,Fritz Hoehn,39762,Edinboro
+2018,12/09,PSAC Championships,165,L,FALL,0:52,Devin Austin,41223,Pitt-Johnstown,Fritz Hoehn,39762,Edinboro
+2018,12/09,PSAC Championships,165,L,DEC,12 - 9,Shane Ruhnke,24247,Millersville,Fritz Hoehn,39762,Edinboro
+2018,12/09,PSAC Championships,165,W,DEC,7 - 2,Nate Ross,52974,Gannon,Fritz Hoehn,39762,Edinboro
+2018,12/09,PSAC Championships,165,W,MD,16 - 8,Gavin Wilkerson,52916,Mercyhurst,Fritz Hoehn,39762,Edinboro
+2018,12/09,PSAC Championships,165,L,MD,14 - 5,Max Wohlabaugh,49096,Clarion,Fritz Hoehn,39762,Edinboro
+2018,12/09,PSAC Championships,165,W,MD,8 - 0,Nate Newberry,45190,Bloomsburg,Fritz Hoehn,39762,Edinboro
+2018,11/17,Edinboro - Lehigh Dual,174,L,MD,14 - 5,Jordan Kutler,39626,Lehigh,Fritz Hoehn,39762,Edinboro
+2018,11/11,Eastern Michigan Open,165,W,DEC,10 - 6,Andrew Scott,40213,Northern Illinois,Fritz Hoehn,39762,Edinboro
+2018,11/11,Eastern Michigan Open,165,W,TF5,16 - 0 2:59,Braxton Cody,40139,Northwestern,Fritz Hoehn,39762,Edinboro
+2018,11/11,Eastern Michigan Open,165,W,TF5,22 - 6 3:52,Ryan Ferro,50086,Ohio State,Fritz Hoehn,39762,Edinboro
+2018,11/11,Eastern Michigan Open,165,W,DEC,9 - 5,Alonzo Turner,22044,Findlay,Fritz Hoehn,39762,Edinboro
+2018,11/11,Eastern Michigan Open,165,L,DEC,4 - 3,Drew Daniels,20601,Navy,Fritz Hoehn,39762,Edinboro
+2018,11/05,Bucknell - Edinboro Dual,165,W,TF5,16 - 0 4:49,Joey Schiele,49065,Bucknell,Fritz Hoehn,39762,Edinboro
+2018,11/05,CSU Bakersfield - Edinboro Dual,165,W,FALL,2:40,Lorenzo De La Riva,40169,CSU Bakersfield,Fritz Hoehn,39762,Edinboro
+2018,11/17,Edinboro - Lehigh Dual,165,L,MD,16 - 8,Gordon Wolf,19992,Lehigh,Austin Matthews,22442,Edinboro
+2018,02/03,Edinboro Open,165,W,FALL,4:49,Richard Rush,53693,Mount Union,Cullen Wolford,45371,Edinboro
+2018,02/03,Edinboro Open,165,L,DEC,8 - 2,Aidan Monteverdi,49048,Binghamton,Cullen Wolford,45371,Edinboro
+2018,02/03,Edinboro Open,165,L,DEC,3 - 1,David Kasper,39723,Eastern Michigan,Cullen Wolford,45371,Edinboro
+2018,11/11,Eastern Michigan Open,165,L,MFOR,0 - 0,Kameron Bush,49080,Central Michigan,Cullen Wolford,45371,Edinboro
+2018,11/11,Eastern Michigan Open,165,L,MD,9 - 1,Bret Fedewa,50920,Central Michigan,Cullen Wolford,45371,Edinboro
+2018,11/11,Eastern Michigan Open,165,W,DEC,8 - 2,Caleb Norris,41940,Davenport,Cullen Wolford,45371,Edinboro
+2018,11/05,Clarion Open,165,L,DEC,4 - 3,TJ Lambiotte,50146,Ohio Valley University,Cullen Wolford,45371,Edinboro
+2018,11/05,Clarion Open,165,L,TF5,21 - 6 4:00,Chance Marsteller,47805,Lock Haven,Cullen Wolford,45371,Edinboro
+2018,03/15,NCAA Championships,174,L,DEC,12 - 6,Ethan Ramos,14560,North Carolina,Ty Schoffstall,15353,Edinboro
+2018,03/15,NCAA Championships,174,W,MD,13 - 5,Devin Skatzka,39603,Indiana,Ty Schoffstall,15353,Edinboro
+2018,03/15,NCAA Championships,174,L,DEC,8 - 4,Jadaen Bernstein,20595,Navy,Ty Schoffstall,15353,Edinboro
+2018,03/03,EWL Championships,174,W,TF5,19 - 4 5:27,Levko Higgins,50870,George Mason,Ty Schoffstall,15353,Edinboro
+2018,03/03,EWL Championships,174,W,MD,12 - 3,Jared Siegrist,45101,Lock Haven,Ty Schoffstall,15353,Edinboro
+2018,03/03,EWL Championships,174,L,DEC,16 - 12,Dean Sherry,40019,Rider,Ty Schoffstall,15353,Edinboro
+2018,02/17,Edinboro - Cleveland State Dual,174,W,DEC,18 - 12,Gabe Stark,16682,Cleveland State,Ty Schoffstall,15353,Edinboro
+2018,02/15,West Virginia - Edinboro Dual,174,W,MD,12 - 4,Parker Von Egidy,12308,West Virginia,Ty Schoffstall,15353,Edinboro
+2018,02/10,Edinboro - Oklahoma Dual,174,L,DEC,3 - 2,Yoanse Mejias,41470,Oklahoma,Ty Schoffstall,15353,Edinboro
+2018,02/09,Edinboro - Oklahoma State Dual,174,W,DEC,13 - 7,Hestin Lamons,20272,Oklahoma State,Ty Schoffstall,15353,Edinboro
+2018,02/03,Edinboro Open,174,W,DEC,11 - 5,Brandon Martino,50244,Fresno State,Ty Schoffstall,15353,Edinboro
+2018,02/03,Edinboro Open,174,L,MFOR,0 - 0,Kaleb Romero,49252,Ohio State,Ty Schoffstall,15353,Edinboro
+2018,02/03,Edinboro Open,174,W,MD,18 - 9,Fritz Schierl,44840,Ohio State,Ty Schoffstall,15353,Edinboro
+2018,02/03,Edinboro Open,174,W,DEC,12 - 7,Devin Kane,44607,North Carolina,Ty Schoffstall,15353,Edinboro
+2018,02/03,Edinboro Open,174,W,FALL,2:56,Caleb Stockmaster,40177,Cleveland State,Ty Schoffstall,15353,Edinboro
+2018,02/01,Edinboro - Lock Haven Dual,174,W,DEC,6 - 5,Jared Siegrist,45101,Lock Haven,Ty Schoffstall,15353,Edinboro
+2018,01/27,George Mason - Edinboro Dual,174,W,MD,16 - 8,Levko Higgins,50870,George Mason,Ty Schoffstall,15353,Edinboro
+2018,01/26,Edinboro - Clarion Dual,174,W,DEC,6 - 4,Dominic Rigous,19793,Clarion,Ty Schoffstall,15353,Edinboro
+2018,01/21,Rider - Edinboro Dual,174,L,MD,21 - 12,Dean Sherry,40019,Rider,Ty Schoffstall,15353,Edinboro
+2018,01/19,Virginia Tech - Edinboro Dual,174,W,DEC,9 - 8,Cody Hughes,39608,Virginia Tech,Ty Schoffstall,15353,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,174,W,FALL,3:21,Shane Sosinsky,49204,US Naval Academy Prep School,Ty Schoffstall,15353,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,174,W,DEC,8 - 6,Joseph Grello,44858,Rutgers,Ty Schoffstall,15353,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,174,W,DEC,11 - 7,Jordan Pagano,20304,Rutgers,Ty Schoffstall,15353,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,174,W,DEC,14 - 9,Bryan McLaughlin,49120,Drexel,Ty Schoffstall,15353,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,174,W,FALL,2:48,Ryan Farber,49283,Pennsylvania,Ty Schoffstall,15353,Edinboro
+2018,01/06,Bloomsburg - Edinboro Dual,174,W,MD,14 - 4,Kyle Murphy,44915,Bloomsburg,Ty Schoffstall,15353,Edinboro
+2018,11/05,Bucknell - Edinboro Dual,174,W,DEC,12 - 6,Nick Stephani,40369,Bucknell,Ty Schoffstall,15353,Edinboro
+2018,11/05,CSU Bakersfield - Edinboro Dual,174,W,MD,15 - 4,Bryan Battisto,19830,CSU Bakersfield,Ty Schoffstall,15353,Edinboro
+2018,02/03,Edinboro Open,174,W,TF5,16 - 1 3:35,Jake Lanning,49069,Buffalo,Jacob Oliver,49130,Edinboro
+2018,02/03,Edinboro Open,174,W,DEC,11 - 4,Fritz Schierl,44840,Ohio State,Jacob Oliver,49130,Edinboro
+2018,02/03,Edinboro Open,174,L,DEC,6 - 3,Devin Kane,44607,North Carolina,Jacob Oliver,49130,Edinboro
+2018,02/03,Edinboro Open,174,W,DEC,6 - 0,Anthony Williamson,42504,Gannon,Jacob Oliver,49130,Edinboro
+2018,02/03,Edinboro Open,174,L,DEC,8 - 4,Cody Hughes,39608,Virginia Tech,Jacob Oliver,49130,Edinboro
+2018,12/22,Wilkes Open,174,W,TF5,18 - 2 5:00,Josh Young,40386,Franklin & Marshall,Jacob Oliver,49130,Edinboro
+2018,12/22,Wilkes Open,174,L,DEC,10 - 9,Bryan McLaughlin,49120,Drexel,Jacob Oliver,49130,Edinboro
+2018,12/22,Wilkes Open,174,L,MFOR,0 - 0,Charlie Andrews,44940,Campbell,Jacob Oliver,49130,Edinboro
+2018,11/11,Eastern Michigan Open,174,W,DEC,6 - 0,Koltyn Eason,45372,Edinboro,Jacob Oliver,49130,Edinboro
+2018,11/11,Eastern Michigan Open,174,L,TF5,19 - 4 7:00,Brit Wilson,49235,Northern Illinois,Jacob Oliver,49130,Edinboro
+2018,11/11,Eastern Michigan Open,174,W,MD,13 - 2,Sam Greco,51717,Davenport,Jacob Oliver,49130,Edinboro
+2018,11/05,Clarion Open,174,W,TF5,17 - 2 7:00,Gabe Koontz,39694,Indiana,Jacob Oliver,49130,Edinboro
+2018,11/05,Clarion Open,174,W,DEC,7 - 2,Robert Patrick,50665,High School,Jacob Oliver,49130,Edinboro
+2018,11/05,Clarion Open,174,L,DEC,9 - 7,Gabe Stark,16682,Cleveland State,Jacob Oliver,49130,Edinboro
+2018,11/05,Clarion Open,174,W,MFOR,0 - 0,Evan DeLong,19790,Clarion,Jacob Oliver,49130,Edinboro
+2018,11/05,Clarion Open,174,L,DEC,6 - 3,Dylan Barreiro,44632,Kent State,Jacob Oliver,49130,Edinboro
+2018,11/05,Clarion Open,174,W,DEC,3 - 2,Kyle Murphy,44915,Bloomsburg,Jacob Oliver,49130,Edinboro
+2018,02/03,Edinboro Open,174,L,TF5,16 - 1 4:47,Brandon Martino,50244,Fresno State,Koltyn Eason,45372,Edinboro
+2018,02/03,Edinboro Open,174,L,DEC,5 - 2,Christian Dietrich,44717,Buffalo,Koltyn Eason,45372,Edinboro
+2018,02/03,Edinboro Open,174,W,TF5,16 - 0 2:55,Kyle Rogers,40171,West Virginia,Koltyn Eason,45372,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,174,W,DEC,7 - 0,Bailey Shutt,54401,Thaddeus Stevens College Of Tech,Koltyn Eason,45372,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,174,W,FALL,6:26,Brad Laughlin,51265,United States Military Academy,Koltyn Eason,45372,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,174,W,FALL,3:35,Jesse Weiner,47569,LIU,Koltyn Eason,45372,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,174,L,DEC,5 - 1,Joseph Grello,44858,Rutgers,Koltyn Eason,45372,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,174,L,DEC,8 - 1,Jordan Pagano,20304,Rutgers,Koltyn Eason,45372,Edinboro
+2018,01/13,Shorty Hitchcock Memorial,174,W,DEC,11 - 8,Bryan McLaughlin,49120,Drexel,Koltyn Eason,45372,Edinboro
+2018,12/22,Wilkes Open,174,W,TF5,16 - 0 5:20,John Ritter,43562,Wilkes,Koltyn Eason,45372,Edinboro
+2018,12/22,Wilkes Open,174,L,DEC,10 - 6,Josh Young,40386,Franklin & Marshall,Koltyn Eason,45372,Edinboro
+2018,12/22,Wilkes Open,174,W,DEC,9 - 2,Dalton Ray,45019,Clarion,Koltyn Eason,45372,Edinboro
+2018,12/22,Wilkes Open,174,W,SV-1,7 - 5,Nunzio Crowley,45185,Binghamton,Koltyn Eason,45372,Edinboro
+2018,12/22,Wilkes Open,174,L,DEC,5 - 0,Michael Eckhart,19614,American,Koltyn Eason,45372,Edinboro
+2018,12/01,Cliff Keen Invitational,174,L,FALL,2:15,Andrew McNally,44610,Eastern Michigan,Koltyn Eason,45372,Edinboro
+2018,12/01,Cliff Keen Invitational,174,W,SV-1,7 - 5,Myles Terry,51640,Oregon State,Koltyn Eason,45372,Edinboro
+2018,12/01,Cliff Keen Invitational,174,L,TF5,17 - 1 4:37,Zahid Valencia,39501,Arizona State,Koltyn Eason,45372,Edinboro
+2018,11/26,Mat Town Open I,174,W,TF5,17 - 0 7:00,Jarek Gozdieski,45222,Bucknell,Koltyn Eason,45372,Edinboro
+2018,11/26,Mat Town Open I,174,W,MD,9 - 0,Josh Young,40386,Franklin & Marshall,Koltyn Eason,45372,Edinboro
+2018,11/26,Mat Town Open I,174,L,TF5,17 - 0 7:00,Jared Siegrist,45101,Lock Haven,Koltyn Eason,45372,Edinboro
+2018,11/26,Mat Town Open I,174,L,MD,17 - 5,Kyle Jasenski,51164,Maryland,Koltyn Eason,45372,Edinboro
+2018,11/11,Eastern Michigan Open,174,L,DEC,6 - 0,Jacob Oliver,49130,Edinboro,Koltyn Eason,45372,Edinboro
+2018,11/11,Eastern Michigan Open,174,L,DEC,17 - 11,Anthony Falbo,51716,Purdue,Koltyn Eason,45372,Edinboro
+2018,11/11,Eastern Michigan Open,174,W,MD,10 - 2,Kolin Leyrer,50225,Eastern Michigan,Koltyn Eason,45372,Edinboro
+2018,11/11,Eastern Michigan Open,174,W,SV-1,9 - 2,Austen Malczewski,51213,Michigan State,Koltyn Eason,45372,Edinboro
+2018,02/03,Edinboro Open,174,L,FALL,0:50,Joel Leise,50170,Gannon,Ryan Newman,51065,Edinboro
+2018,02/03,Edinboro Open,174,L,FALL,1:49,John Staron,48462,Mount Union,Ryan Newman,51065,Edinboro
+2018,03/03,EWL Championships,184,W,SV-3,4 - 3,Wayne Stinson,15117,Rider,Zach Ancewicz,49132,Edinboro
+2018,03/03,EWL Championships,184,L,DEC,3 - 0,Greg Bulsak,44655,Clarion,Zach Ancewicz,49132,Edinboro
+2018,03/03,EWL Championships,184,L,DEC,6 - 1,Trevor Allard,40040,Bloomsburg,Zach Ancewicz,49132,Edinboro
+2018,02/17,Edinboro - Cleveland State Dual,184,W,SV-2,4 - 2,Nick Corba,12817,Cleveland State,Zach Ancewicz,49132,Edinboro
+2018,02/15,West Virginia - Edinboro Dual,184,L,DEC,5 - 0,Brenden McRill,49346,West Virginia,Zach Ancewicz,49132,Edinboro
+2018,02/10,Edinboro - Oklahoma Dual,184,W,DEC,3 - 1,Matthew Waddell,49259,Oklahoma,Zach Ancewicz,49132,Edinboro
+2018,02/09,Edinboro - Oklahoma State Dual,184,L,DEC,9 - 2,Keegan Moore,44872,Oklahoma State,Zach Ancewicz,49132,Edinboro
+2018,02/01,Edinboro - Lock Haven Dual,184,L,DEC,2 - 0,Corey Hazel,39756,Lock Haven,Zach Ancewicz,49132,Edinboro
+2018,01/27,George Mason - Edinboro Dual,184,W,DEC,8 - 2,Austin Harrison,19900,George Mason,Zach Ancewicz,49132,Edinboro
+2018,01/26,Edinboro - Clarion Dual,184,L,DEC,5 - 0,Greg Bulsak,44655,Clarion,Zach Ancewicz,49132,Edinboro
+2018,01/21,Rider - Edinboro Dual,184,W,SV-1,3 - 1,Michale Fagg-Daves,20352,Rider,Zach Ancewicz,49132,Edinboro
+2018,01/19,Virginia Tech - Edinboro Dual,184,L,MD,10 - 2,Zack Zavatsky,20460,Virginia Tech,Zach Ancewicz,49132,Edinboro
+2018,01/06,Bloomsburg - Edinboro Dual,184,L,DEC,3 - 2,Trevor Allard,40040,Bloomsburg,Zach Ancewicz,49132,Edinboro
+2018,12/29,Midlands Invitational,174,L,DEC,8 - 3,Dylan Lydy,39998,Purdue,Zach Ancewicz,49132,Edinboro
+2018,12/29,Midlands Invitational,174,L,TB-1,3 - 2,Ryan Christensen,20481,Wisconsin,Zach Ancewicz,49132,Edinboro
+2018,12/29,Midlands Invitational,174,W,DEC,4 - 1,Ryan Kromer,19722,Buffalo,Zach Ancewicz,49132,Edinboro
+2018,12/09,PSAC Championships,174,L,MD,11 - 2,Tyler Reinhart,43162,Pitt-Johnstown,Zach Ancewicz,49132,Edinboro
+2018,12/09,PSAC Championships,174,L,DEC,7 - 6,Jake Stratton,25148,Gannon,Zach Ancewicz,49132,Edinboro
+2018,12/09,PSAC Championships,174,W,FALL,5:50,James Meyer,40775,Kutztown,Zach Ancewicz,49132,Edinboro
+2018,12/09,PSAC Championships,174,W,DEC,6 - 2,Damon Greenwald,45959,Seton Hill,Zach Ancewicz,49132,Edinboro
+2018,12/09,PSAC Championships,174,W,DEC,6 - 2,Kyle Narber,53807,Millersville,Zach Ancewicz,49132,Edinboro
+2018,12/09,PSAC Championships,174,L,SV-2,4 - 2,Taylor Cahill,39848,Clarion,Zach Ancewicz,49132,Edinboro
+2018,11/11,Eastern Michigan Open,184,W,DEC,6 - 1,Jake Lowell,50530,Central Michigan,Zach Ancewicz,49132,Edinboro
+2018,11/11,Eastern Michigan Open,184,W,SV-1,3 - 1,Zach Steiner,49251,Ohio State,Zach Ancewicz,49132,Edinboro
+2018,11/11,Eastern Michigan Open,184,L,DEC,10 - 4,Jelani Embree,49179,Michigan,Zach Ancewicz,49132,Edinboro
+2018,11/05,Clarion Open,184,W,DEC,11 - 4,John Prentice,41282,Pennsylvania State University - Dubois,Zach Ancewicz,49132,Edinboro
+2018,11/05,Clarion Open,184,L,DEC,4 - 0,Nick Corba,12817,Cleveland State,Zach Ancewicz,49132,Edinboro
+2018,11/05,Clarion Open,184,L,DEC,4 - 1,Colin McCracken,50064,Kent State,Zach Ancewicz,49132,Edinboro
+2018,02/03,Edinboro Open,184,W,MD,16 - 2,Jake Lowell,50530,Central Michigan,Dakota Geer,45373,Edinboro
+2018,02/03,Edinboro Open,184,W,DEC,9 - 4,Cameron Caffey,50273,Michigan State,Dakota Geer,45373,Edinboro
+2018,02/03,Edinboro Open,184,W,DEC,9 - 7,Ethan Smith,50025,Ohio State,Dakota Geer,45373,Edinboro
+2018,02/03,Edinboro Open,184,L,MD,10 - 0,Louie DePrez,49046,Binghamton,Dakota Geer,45373,Edinboro
+2018,02/03,Edinboro Open,184,W,TF5,15 - 0 5:54,Connor Doyle,45379,Navy,Dakota Geer,45373,Edinboro
+2018,12/29,Midlands Invitational,184,L,TB-1,5 - 4,Nino Bonaccorsi,49285,Pittsburgh,Dakota Geer,45373,Edinboro
+2018,12/29,Midlands Invitational,184,W,TF5,16 - 1 7:00,Michael Aldrich,40014,Northern Illinois,Dakota Geer,45373,Edinboro
+2018,12/29,Midlands Invitational,184,L,MFOR,0 - 0,Mitch Sliga,12522,Northwestern,Dakota Geer,45373,Edinboro
+2018,12/16,Cleveland State Open,184,L,DEC,8 - 5,Nino Bonaccorsi,49285,Pittsburgh,Dakota Geer,45373,Edinboro
+2018,12/16,Cleveland State Open,184,W,MD,13 - 4,Tyler Bagoly,49098,Clarion,Dakota Geer,45373,Edinboro
+2018,12/16,Cleveland State Open,184,W,FALL,1:41,Cole Graves,13757,Gardner-Webb,Dakota Geer,45373,Edinboro
+2018,12/16,Cleveland State Open,184,W,DEC,4 - 2,Jelani Embree,49179,Michigan,Dakota Geer,45373,Edinboro
+2018,11/11,Eastern Michigan Open,184,W,DEC,9 - 4,Cameron Caffey,50273,Michigan State,Dakota Geer,45373,Edinboro
+2018,11/11,Eastern Michigan Open,184,W,DEC,3 - 2,Zach Bruce,20321,Pittsburgh,Dakota Geer,45373,Edinboro
+2018,11/11,Eastern Michigan Open,184,W,TF5,18 - 0 4:24,Nick May,44742,Michigan State,Dakota Geer,45373,Edinboro
+2018,11/11,Eastern Michigan Open,184,L,DEC,5 - 3,Michael Coleman,20598,Navy,Dakota Geer,45373,Edinboro
+2018,11/05,Clarion Open,184,W,DEC,5 - 4,Nino Bonaccorsi,49285,Pittsburgh,Dakota Geer,45373,Edinboro
+2018,11/05,Clarion Open,184,W,MFOR,0 - 0,Chance McClure,20430,Virginia,Dakota Geer,45373,Edinboro
+2018,11/05,Clarion Open,184,W,DEC,8 - 2,Gary Jantzer,44879,Utah Valley,Dakota Geer,45373,Edinboro
+2018,11/05,Clarion Open,184,W,MD,11 - 3,Brenden McRill,49346,West Virginia,Dakota Geer,45373,Edinboro
+2018,11/05,Clarion Open,184,W,DEC,10 - 5,Colin McCracken,50064,Kent State,Dakota Geer,45373,Edinboro
+2018,03/03,EWL Championships,197,L,DEC,5 - 3,Ethan Laird,50134,Rider,Dylan Reynolds,45374,Edinboro
+2018,03/03,EWL Championships,197,L,DEC,6 - 0,Tristan Sponseller,20593,Lock Haven,Dylan Reynolds,45374,Edinboro
+2018,03/03,EWL Championships,197,W,DEC,4 - 1,Logan Womelsdorf,51054,Bloomsburg,Dylan Reynolds,45374,Edinboro
+2018,02/17,Edinboro - Cleveland State Dual,197,W,FALL,5:41,John Kelbly,50329,Cleveland State,Dylan Reynolds,45374,Edinboro
+2018,02/10,Edinboro - Oklahoma Dual,197,L,MD,9 - 0,Andrew Dixon,20809,Oklahoma,Dylan Reynolds,45374,Edinboro
+2018,02/09,Edinboro - Oklahoma State Dual,197,L,MD,20 - 6,Andrew Marsden,39548,Oklahoma State,Dylan Reynolds,45374,Edinboro
+2018,02/01,Edinboro - Lock Haven Dual,197,W,DEC,2 - 0,Trey Hartsock,44869,Lock Haven,Dylan Reynolds,45374,Edinboro
+2018,01/27,George Mason - Edinboro Dual,197,W,SV-1,3 - 1,Eli Spencer,45318,George Mason,Dylan Reynolds,45374,Edinboro
+2018,12/29,Midlands Invitational,184,L,TF5,20 - 5 7:00,Nicholas Gravina,20360,Rutgers,Dylan Reynolds,45374,Edinboro
+2018,12/29,Midlands Invitational,184,L,DEC,3 - 1,Sohrab Movahedi,11537,Cal Poly,Dylan Reynolds,45374,Edinboro
+2018,12/09,PSAC Championships,184,W,DEC,8 - 3,Steve Edwards,24233,Pitt-Johnstown,Dylan Reynolds,45374,Edinboro
+2018,12/09,PSAC Championships,184,L,DEC,4 - 3,Nick Costa,42509,Gannon,Dylan Reynolds,45374,Edinboro
+2018,12/09,PSAC Championships,184,W,DEC,3 - 1,Nathan Bowlen,53700,Seton Hill,Dylan Reynolds,45374,Edinboro
+2018,12/09,PSAC Championships,184,L,DEC,6 - 0,Greg Bulsak,44655,Clarion,Dylan Reynolds,45374,Edinboro
+2018,12/01,Cliff Keen Invitational,184,L,DEC,3 - 2,Gregg Harvey,45148,Pittsburgh,Dylan Reynolds,45374,Edinboro
+2018,12/01,Cliff Keen Invitational,184,L,DEC,6 - 0,Michael Coleman,20598,Navy,Dylan Reynolds,45374,Edinboro
+2018,11/17,Edinboro - Lehigh Dual,184,W,DEC,5 - 2,Andrew Price,39648,Lehigh,Dylan Reynolds,45374,Edinboro
+2018,11/11,Eastern Michigan Open,184,L,SV-1,4 - 2,Bradley Metz,41652,Findlay,Dylan Reynolds,45374,Edinboro
+2018,11/11,Eastern Michigan Open,184,L,DEC,5 - 3,Gregg Harvey,45148,Pittsburgh,Dylan Reynolds,45374,Edinboro
+2018,11/11,Eastern Michigan Open,184,W,FALL,2:14,Bryce Gorman,20203,Northern Illinois,Dylan Reynolds,45374,Edinboro
+2018,11/05,Bucknell - Edinboro Dual,184,W,DEC,3 - 2,Chad Reese,19709,Bucknell,Dylan Reynolds,45374,Edinboro
+2018,11/05,CSU Bakersfield - Edinboro Dual,184,W,DEC,4 - 3,Dom Ducharme,45323,CSU Bakersfield,Dylan Reynolds,45374,Edinboro
+2018,02/03,Edinboro Open,197,W,MD,10 - 2,Aaron Bolo,50919,Central Michigan,Aaron Paddock,44685,Edinboro
+2018,02/03,Edinboro Open,197,W,MFOR,0 - 0,Jake Jakobsen,46924,Lehigh,Aaron Paddock,44685,Edinboro
+2018,02/03,Edinboro Open,197,L,MD,11 - 3,JT Correll,45659,Michigan,Aaron Paddock,44685,Edinboro
+2018,02/03,Edinboro Open,197,L,FALL,3:53,Jackson Striggow,39831,Michigan,Aaron Paddock,44685,Edinboro
+2018,01/26,Edinboro - Clarion Dual,197,W,MD,15 - 4,Edgar Ruano,19798,Clarion,Aaron Paddock,44685,Edinboro
+2018,01/21,Rider - Edinboro Dual,197,L,MD,13 - 3,Ethan Laird,50134,Rider,Aaron Paddock,44685,Edinboro
+2018,01/19,Virginia Tech - Edinboro Dual,197,L,FALL,1:34,Jared Haught,13085,Virginia Tech,Aaron Paddock,44685,Edinboro
+2018,01/06,Bloomsburg - Edinboro Dual,197,W,DEC,7 - 6,Logan Womelsdorf,51054,Bloomsburg,Aaron Paddock,44685,Edinboro
+2018,12/09,PSAC Championships,197,L,TF5,17 - 2 7:00,Tristan Sponseller,20593,Lock Haven,Aaron Paddock,44685,Edinboro
+2018,12/09,PSAC Championships,197,L,DEC,10 - 7,Wes Phipps,48213,Mercyhurst,Aaron Paddock,44685,Edinboro
+2018,12/09,PSAC Championships,197,W,DEC,7 - 3,Gunner Loughman,48073,Gannon,Aaron Paddock,44685,Edinboro
+2018,12/09,PSAC Championships,197,W,DEC,8 - 5,Jake Temple,48223,Seton Hill,Aaron Paddock,44685,Edinboro
+2018,12/09,PSAC Championships,197,L,DEC,1 - 0,Dustin Conti,12468,Clarion,Aaron Paddock,44685,Edinboro
+2018,12/09,PSAC Championships,197,W,DEC,2 - 1,Logan Womelsdorf,51054,Bloomsburg,Aaron Paddock,44685,Edinboro
+2018,12/01,Cliff Keen Invitational,197,L,FALL,2:28,Nathan Traxler,45395,Stanford,Aaron Paddock,44685,Edinboro
+2018,12/01,Cliff Keen Invitational,197,L,MD,10 - 1,Kellan Stout,39528,Pittsburgh,Aaron Paddock,44685,Edinboro
+2018,11/17,Edinboro - Lehigh Dual,197,L,FALL,0:52,Jake Jakobsen,46924,Lehigh,Aaron Paddock,44685,Edinboro
+2018,11/11,Eastern Michigan Open,197,L,MD,11 - 3,Brad Wilton,49187,Michigan State,Aaron Paddock,44685,Edinboro
+2018,11/11,Eastern Michigan Open,197,L,FALL,1:37,John Kelbly,50329,Cleveland State,Aaron Paddock,44685,Edinboro
+2018,11/11,Eastern Michigan Open,197,W,MD,9 - 1,David Eli,50318,Purdue,Aaron Paddock,44685,Edinboro
+2018,11/05,Bucknell - Edinboro Dual,197,L,FALL,4:52,Drew Phipps,45224,Bucknell,Aaron Paddock,44685,Edinboro
+2018,11/05,CSU Bakersfield - Edinboro Dual,197,L,FALL,5:56,Matt Williams,16442,CSU Bakersfield,Aaron Paddock,44685,Edinboro
+2018,11/11,Eastern Michigan Open,197,L,DEC,10 - 7,David Eli,50318,Purdue,Kencaide Bunfill,51066,Edinboro
+2018,11/11,Eastern Michigan Open,197,L,FALL,7:39,Brad Wilton,49187,Michigan State,Kencaide Bunfill,51066,Edinboro
+2018,02/03,Edinboro Open,197,L,FALL,4:18,Danny Salas,50230,Fresno State,Gordon Truesdale,20729,Edinboro
+2018,02/03,Edinboro Open,197,L,MD,14 - 1,Sean Mullican,49344,West Virginia,Gordon Truesdale,20729,Edinboro
+2018,02/17,Edinboro - Cleveland State Dual,285,W,MD,12 - 4,Collin Kelly,45338,Cleveland State,Jon Spaulding,50330,Edinboro
+2018,02/03,Edinboro Open,285,L,DEC,6 - 2,David Smith,50968,West Virginia,Jon Spaulding,50330,Edinboro
+2018,02/03,Edinboro Open,285,L,DEC,2 - 1,Seth Janney,49115,Spartan Combat RTC,Jon Spaulding,50330,Edinboro
+2018,12/29,Midlands Invitational,285,L,TF5,21 - 6 7:00,Amarveer Dhesi,14223,Oregon State,Jon Spaulding,50330,Edinboro
+2018,12/29,Midlands Invitational,285,L,MD,11 - 2,Gannon Gremmel,44856,Iowa State,Jon Spaulding,50330,Edinboro
+2018,12/09,PSAC Championships,285,W,FALL,2:48,Dereck Berberick,45873,Shippensburg,Jon Spaulding,50330,Edinboro
+2018,12/09,PSAC Championships,285,L,DEC,6 - 1,Ryan Appleby,22634,Kutztown,Jon Spaulding,50330,Edinboro
+2018,12/09,PSAC Championships,285,W,SV-1,3 - 1,Nick Budd,42522,Gannon,Jon Spaulding,50330,Edinboro
+2018,12/09,PSAC Championships,285,W,DEC,4 - 3,Toby Cahill,49097,Clarion,Jon Spaulding,50330,Edinboro
+2018,12/09,PSAC Championships,285,L,DEC,2 - 0,Bruce Graeber,45188,Bloomsburg,Jon Spaulding,50330,Edinboro
+2018,12/01,Cliff Keen Invitational,285,L,DEC,4 - 2,Hunter Mullins,44807,Wyoming,Jon Spaulding,50330,Edinboro
+2018,12/01,Cliff Keen Invitational,285,L,DEC,4 - 0,Andrew Dunn,45111,Virginia Tech,Jon Spaulding,50330,Edinboro
+2018,12/01,Cliff Keen Invitational,285,W,SV-1,3 - 1,Zach Schrader,45168,Cal Baptist,Jon Spaulding,50330,Edinboro
+2018,11/17,Edinboro - Lehigh Dual,285,L,MD,9 - 0,Jordan Wood,45107,Lehigh,Jon Spaulding,50330,Edinboro
+2018,11/11,Eastern Michigan Open,285,W,MFOR,0 - 0,Wyatt Harden,45056,Eastern Michigan,Jon Spaulding,50330,Edinboro
+2018,11/11,Eastern Michigan Open,285,L,MD,11 - 2,Zachery Nemec,49183,Michigan,Jon Spaulding,50330,Edinboro
+2018,11/11,Eastern Michigan Open,285,W,DEC,5 - 2,Kevin Snyder,44847,Ohio State,Jon Spaulding,50330,Edinboro
+2018,11/05,Clarion Open,285,W,DEC,4 - 2,Aj Jones,48072,Unattached,Jon Spaulding,50330,Edinboro
+2018,11/05,Clarion Open,285,W,DEC,3 - 1,Quinn Miller,49333,Virginia,Jon Spaulding,50330,Edinboro
+2018,11/05,Clarion Open,285,W,DEC,10 - 3,Zachary Horwitz,41573,Indiana,Jon Spaulding,50330,Edinboro
+2018,11/05,Clarion Open,285,W,DEC,4 - 1,Bryce Hanley,41232,Pennsylvania State University - Dubois,Jon Spaulding,50330,Edinboro
+2018,11/05,Clarion Open,285,L,TB-2,2 - 1,Ian James,19721,Buffalo,Jon Spaulding,50330,Edinboro
+2018,11/05,Clarion Open,285,L,DEC,2 - 0,Devin Nye,19975,Kent State,Jon Spaulding,50330,Edinboro
+2018,03/15,NCAA Championships,285,W,MD,11 - 1,Michael Boykin,20123,NC State,Billy Miller,20725,Edinboro
+2018,03/15,NCAA Championships,285,L,DEC,2 - 0,Michael Hughes,14198,Hofstra,Billy Miller,20725,Edinboro
+2018,03/15,NCAA Championships,285,W,DEC,8 - 4,AJ Nevills,47810,Fresno State,Billy Miller,20725,Edinboro
+2018,03/15,NCAA Championships,285,L,DEC,11 - 5,Shawn Streck,44822,Purdue,Billy Miller,20725,Edinboro
+2018,03/03,EWL Championships,285,W,DEC,4 - 2,Thomas Haines,20247,Lock Haven,Billy Miller,20725,Edinboro
+2018,03/03,EWL Championships,285,W,MD,12 - 0,Toby Cahill,49097,Clarion,Billy Miller,20725,Edinboro
+2018,02/15,West Virginia - Edinboro Dual,285,W,DEC,4 - 0,Brandon Ngati,45167,West Virginia,Billy Miller,20725,Edinboro
+2018,02/10,Edinboro - Oklahoma Dual,285,W,DEC,4 - 0,Connor Webb,50999,Oklahoma,Billy Miller,20725,Edinboro
+2018,02/09,Edinboro - Oklahoma State Dual,285,L,MD,12 - 3,Derek White,20107,Oklahoma State,Billy Miller,20725,Edinboro
+2018,02/01,Edinboro - Lock Haven Dual,285,W,FALL,4:37,Derek Dragon,40286,Lock Haven,Billy Miller,20725,Edinboro
+2018,01/27,George Mason - Edinboro Dual,285,W,DEC,6 - 1,Matthew Voss,19908,George Mason,Billy Miller,20725,Edinboro
+2018,01/26,Edinboro - Clarion Dual,285,W,DEC,8 - 2,Toby Cahill,49097,Clarion,Billy Miller,20725,Edinboro
+2018,01/21,Rider - Edinboro Dual,285,W,DEC,3 - 2,Mauro Correnti,14193,Rider,Billy Miller,20725,Edinboro
+2018,01/19,Virginia Tech - Edinboro Dual,285,W,DEC,3 - 2,Andrew Dunn,45111,Virginia Tech,Billy Miller,20725,Edinboro
+2018,01/06,Bloomsburg - Edinboro Dual,285,W,DEC,5 - 1,Bruce Graeber,45188,Bloomsburg,Billy Miller,20725,Edinboro
+2018,12/29,Midlands Invitational,285,W,MD,13 - 3,Nick Jenkins,49079,Central Michigan,Billy Miller,20725,Edinboro
+2018,12/29,Midlands Invitational,285,L,DEC,7 - 2,Matt Stencel,44592,Central Michigan,Billy Miller,20725,Edinboro
+2018,12/29,Midlands Invitational,285,L,DEC,5 - 1,Youssif Hemida,39563,Maryland,Billy Miller,20725,Edinboro
+2018,12/29,Midlands Invitational,285,W,FALL,6:47,Matt Correnti,44705,Rutgers,Billy Miller,20725,Edinboro
+2018,11/11,Eastern Michigan Open,285,W,MFOR,0 - 0,Newton Smerchek,14224,Central Michigan,Billy Miller,20725,Edinboro
+2018,11/11,Eastern Michigan Open,285,L,MFOR,0 - 0,Matt Stencel,44592,Central Michigan,Billy Miller,20725,Edinboro
+2018,11/11,Eastern Michigan Open,285,W,FALL,5:33,Gerald Beck,22736,Findlay,Billy Miller,20725,Edinboro
+2018,11/05,Bucknell - Edinboro Dual,285,W,FALL,4:35,Eric Chakonis,49059,Bucknell,Billy Miller,20725,Edinboro
+2018,11/05,CSU Bakersfield - Edinboro Dual,285,W,FALL,4:48,Jarrod Snyder,45319,CSU Bakersfield,Billy Miller,20725,Edinboro
+2018,02/03,Edinboro Open,285,W,FALL,0:52,Brandon Gray,54094,Mount Union,Terrence Cheeks,14342,Edinboro
+2018,02/03,Edinboro Open,285,L,TF5,16 - 0 3:00,Chase Singletary,49253,Ohio State,Terrence Cheeks,14342,Edinboro
+2018,02/03,Edinboro Open,285,W,DEC,4 - 2,Nick Jenkins,49079,Central Michigan,Terrence Cheeks,14342,Edinboro
+2018,02/03,Edinboro Open,285,L,DEC,2 - 0,Gary Traub,45199,Ohio State,Terrence Cheeks,14342,Edinboro
+2018,02/03,Edinboro Open,285,W,DEC,3 - 2,Sam Weinger,42684,Unattached,Terrence Cheeks,14342,Edinboro

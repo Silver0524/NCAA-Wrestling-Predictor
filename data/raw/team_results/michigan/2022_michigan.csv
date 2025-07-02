@@ -1,0 +1,588 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2022,03/17,NCAA Championships,125,W,DEC,5 - 3,Patrick Glory,51100,Princeton,Nick Suriano,44648,Michigan
+2022,03/17,NCAA Championships,125,W,DEC,4 - 1,Brandon Courtney,50881,Arizona State,Nick Suriano,44648,Michigan
+2022,03/17,NCAA Championships,125,W,FALL,2:19,Sam Latona,56742,Virginia Tech,Nick Suriano,44648,Michigan
+2022,03/17,NCAA Championships,125,W,DEC,8 - 3,Anthony Noto,64642,Lock Haven,Nick Suriano,44648,Michigan
+2022,03/17,NCAA Championships,125,W,MD,16 - 3,Logan Ashton,57605,Stanford,Nick Suriano,44648,Michigan
+2022,03/05,Big Ten Championships,125,W,MD,12 - 4,Eric Barnett,56753,Wisconsin,Nick Suriano,44648,Michigan
+2022,03/05,Big Ten Championships,125,W,MD,18 - 6,Dylan Shawver,61767,Rutgers,Nick Suriano,44648,Michigan
+2022,03/05,Big Ten Championships,125,W,FALL,2:40,Devin Schroder,44591,Purdue,Nick Suriano,44648,Michigan
+2022,02/13,Michigan - Michigan State Dual,125,W,MD,14 - 3,Tristan Lujan,63015,Michigan State,Nick Suriano,44648,Michigan
+2022,02/11,Michigan - Indiana Dual,125,W,FALL,5:34,Jacob Moran,63550,Indiana,Nick Suriano,44648,Michigan
+2022,01/28,Minnesota - Michigan Dual,125,W,MD,14 - 6,Patrick McKee,50594,Minnesota,Nick Suriano,44648,Michigan
+2022,01/23,Rutgers - Michigan Dual,125,W,TF5,16 - 1 7:00,Dylan Shawver,61767,Rutgers,Nick Suriano,44648,Michigan
+2022,01/21,Penn State - Michigan Dual,125,W,DEC,2 - 1,Drew Hildebrandt,44818,Penn State,Nick Suriano,44648,Michigan
+2022,01/14,Michigan - Ohio State Dual,125,W,MD,11 - 3,Malik Heinselman,50611,Ohio State,Nick Suriano,44648,Michigan
+2022,01/09,Army Michigan ECM,125,W,TF5,19 - 2 4:40,Jake Staud,73365,Army West Point,Nick Suriano,44648,Michigan
+2022,01/09,Michigan - Pittsburgh Dual,125,W,MD,18 - 7,Gage Curry,44583,Pittsburgh,Nick Suriano,44648,Michigan
+2022,02/20,Michigan - Central Michigan Dual,125,W,DEC,5 - 2,Brock Bergelin,49078,Central Michigan,Jack Medley,51392,Michigan
+2022,02/04,Michigan - Nebraska Dual,125,W,TF5,24 - 8 6:11,Jeremiah Reno,62342,Nebraska,Jack Medley,51392,Michigan
+2022,01/30,Michigan - Maryland Dual,125,W,FALL,2:31,Zach Spence,57519,Maryland,Jack Medley,51392,Michigan
+2022,01/23,Michigan Rutgers ECM,125,W,FALL,1:39,Nico Messina,67200,Rutgers,Jack Medley,51392,Michigan
+2022,01/14,Ohio State Michigan ECM,125,W,DEC,3 - 2,Brady Koontz,50853,Ohio State,Jack Medley,51392,Michigan
+2022,01/09,Michigan - Pittsburgh Dual,133,L,DEC,5 - 2,Micky Phillippi,45230,Pittsburgh,Jack Medley,51392,Michigan
+2022,01/03,Arizona State Michigan ECM,125,L,DEC,5 - 4,Brandon Courtney,50881,Arizona State,Jack Medley,51392,Michigan
+2022,12/03,CKLV Invitational,125,W,TF5,18 - 3 7:00,Jeremiah Reno,62342,Nebraska,Jack Medley,51392,Michigan
+2022,12/03,CKLV Invitational,125,W,DEC,6 - 1,Josh Portillo,44832,Nebraska-Kearney,Jack Medley,51392,Michigan
+2022,12/03,CKLV Invitational,125,L,DEC,7 - 2,Brandon Kaylor,51198,Oregon State,Jack Medley,51392,Michigan
+2022,12/03,CKLV Invitational,125,L,DEC,4 - 2,Patrick Glory,51100,Princeton,Jack Medley,51392,Michigan
+2022,12/03,CKLV Invitational,125,W,DEC,6 - 3,Joe Manchio,50937,Columbia,Jack Medley,51392,Michigan
+2022,12/03,CKLV Invitational,125,W,DEC,8 - 2,Antonio Lorenzo,57329,Cal Poly,Jack Medley,51392,Michigan
+2022,11/21,Michigan - Buffalo Dual,125,W,DEC,8 - 2,Tristan Daugherty,62877,Buffalo,Jack Medley,51392,Michigan
+2022,11/19,Michigan - Columbia Dual,125,W,DEC,6 - 3,Joe Manchio,50937,Columbia,Jack Medley,51392,Michigan
+2022,11/14,CSU Bakersfield - Michigan Dual,125,W,DEC,15 - 9,Eddie Flores,51127,CSU Bakersfield,Jack Medley,51392,Michigan
+2022,12/29,Illinois Matmen Open,125,L,MD,10 - 2,Lucian Brink,64945,Northern Illinois,Wilfred Tanefeu,73461,Michigan
+2022,12/29,Illinois Matmen Open,125,W,DEC,8 - 4,Drew West,50041,Northern Illinois,Wilfred Tanefeu,73461,Michigan
+2022,12/29,Illinois Matmen Open,125,L,DEC,2 - 1,Gio Diaz,67279,Franklin & Marshall,Wilfred Tanefeu,73461,Michigan
+2022,12/11,Cleveland State Open,133,L,DEC,5 - 4,TJ England,63058,Clarion,Wilfred Tanefeu,73461,Michigan
+2022,12/11,Cleveland State Open,133,L,DEC,7 - 3,Ja'Kerion Merritt,67176,Central Michigan,Wilfred Tanefeu,73461,Michigan
+2022,11/20,Findlay Open,125,L,DEC,6 - 5,Kurt McHenry,56182,Michigan,Wilfred Tanefeu,73461,Michigan
+2022,11/20,Findlay Open,125,W,DEC,9 - 7,Christian Tanefeu,73460,Michigan,Wilfred Tanefeu,73461,Michigan
+2022,11/20,Findlay Open,125,W,DEC,6 - 5,Sean Spidle,63063,Central Michigan,Wilfred Tanefeu,73461,Michigan
+2022,11/20,Findlay Open,125,W,DEC,8 - 6,Christian Wellman,49942,Ashland,Wilfred Tanefeu,73461,Michigan
+2022,11/06,Michigan State Open,133,W,FALL,4:06,Hunter Major,74311,Rochester Christian,Wilfred Tanefeu,73461,Michigan
+2022,11/06,Michigan State Open,133,L,DEC,9 - 3,Ja'Kerion Merritt,67176,Central Michigan,Wilfred Tanefeu,73461,Michigan
+2022,11/06,Michigan State Open,133,L,FALL,3:22,Jack Lenox,62234,Cal Poly,Wilfred Tanefeu,73461,Michigan
+2022,02/06,Edinboro Open,125,W,DEC,4 - 2,Charlie Farmer,71771,United States Military Academy,Christian Tanefeu,73460,Michigan
+2022,02/06,Edinboro Open,125,W,SV-1,12 - 8,Kade Orr,73311,Kent State,Christian Tanefeu,73460,Michigan
+2022,02/06,Edinboro Open,125,L,FALL,3:29,Conor Knopick,72174,Iowa State,Christian Tanefeu,73460,Michigan
+2022,02/06,Edinboro Open,125,L,MD,12 - 1,Joziah Fry,80544,Campbell,Christian Tanefeu,73460,Michigan
+2022,01/16,Purple Raider Open,125,W,DEC,3 - 1,Marcello Milani,78106,High School,Christian Tanefeu,73460,Michigan
+2022,01/16,Purple Raider Open,125,W,DEC,8 - 4,Patrick Adams,72223,Buffalo,Christian Tanefeu,73460,Michigan
+2022,01/16,Purple Raider Open,125,L,DEC,6 - 3,Kooper Loehr,62509,Purdue,Christian Tanefeu,73460,Michigan
+2022,01/16,Purple Raider Open,125,W,DEC,7 - 5,Nathan Cummings,51073,Purdue,Christian Tanefeu,73460,Michigan
+2022,12/29,Illinois Matmen Open,125,L,MD,12 - 0,Bryce West,50039,Northern Illinois,Christian Tanefeu,73460,Michigan
+2022,12/29,Illinois Matmen Open,125,L,TF5,16 - 0 5:21,Diego Sotelo,71874,Harvard,Christian Tanefeu,73460,Michigan
+2022,12/11,Cleveland State Open,125,L,MD,15 - 5,Colton Camacho,58029,Pittsburgh,Christian Tanefeu,73460,Michigan
+2022,12/11,Cleveland State Open,125,L,DEC,8 - 5,Patrick Adams,72223,Buffalo,Christian Tanefeu,73460,Michigan
+2022,11/20,Findlay Open,125,L,DEC,9 - 7,Wilfred Tanefeu,73461,Michigan,Christian Tanefeu,73460,Michigan
+2022,11/20,Findlay Open,125,W,DEC,3 - 1,Brendon Mark,70808,Indiana Tech,Christian Tanefeu,73460,Michigan
+2022,11/20,Findlay Open,125,L,MD,10 - 1,Brady Koontz,50853,Ohio State,Christian Tanefeu,73460,Michigan
+2022,11/20,Findlay Open,125,W,TF5,17 - 1 7:00,Caden Crawford,74443,Tiffin University,Christian Tanefeu,73460,Michigan
+2022,11/20,Findlay Open,125,W,DEC,4 - 2,Jacob Dunlop,59662,Gannon,Christian Tanefeu,73460,Michigan
+2022,11/20,Findlay Open,125,L,DEC,4 - 0,Jacob Dunlop,59662,Gannon,Christian Tanefeu,73460,Michigan
+2022,11/06,Michigan State Open,125,L,DEC,13 - 9,Dierre Clayton,72515,Ohio,Christian Tanefeu,73460,Michigan
+2022,11/06,Michigan State Open,125,L,FALL,3:17,Logan Jaquay,67227,Edinboro,Christian Tanefeu,73460,Michigan
+2022,11/06,Michigan State Open,125,W,DEC,7 - 4,Benjamin Aranda,71804,Cleveland State,Christian Tanefeu,73460,Michigan
+2022,11/06,Michigan State Open,125,W,DEC,7 - 6,Trey Bates,71792,Central Michigan,Christian Tanefeu,73460,Michigan
+2022,11/20,Findlay Open,125,W,DEC,6 - 5,Wilfred Tanefeu,73461,Michigan,Kurt McHenry,56182,Michigan
+2022,11/20,Findlay Open,125,W,SV-1,10 - 8,Brady Koontz,50853,Ohio State,Kurt McHenry,56182,Michigan
+2022,11/20,Findlay Open,125,W,DEC,13 - 8,Trey Bates,71792,Central Michigan,Kurt McHenry,56182,Michigan
+2022,11/20,Findlay Open,125,W,SV-1,3 - 1,Cole Laya,52575,West Liberty University,Kurt McHenry,56182,Michigan
+2022,11/20,Findlay Open,125,W,MD,18 - 7,Nicholas Korhorn,71988,Findlay,Kurt McHenry,56182,Michigan
+2022,03/17,NCAA Championships,133,L,DEC,6 - 5,Lucas Byrd,56714,Illinois,Dylan Ragusin,63153,Michigan
+2022,03/17,NCAA Championships,133,L,DEC,8 - 7,Michael McGee,49264,Arizona State,Dylan Ragusin,63153,Michigan
+2022,03/17,NCAA Championships,133,W,DEC,4 - 2,Devan Turner,45397,Oregon State,Dylan Ragusin,63153,Michigan
+2022,03/17,NCAA Championships,133,W,DEC,8 - 5,Malyke Hines,56932,Lehigh,Dylan Ragusin,63153,Michigan
+2022,03/05,Big Ten Championships,133,W,SV-1,3 - 1,Lucas Byrd,56714,Illinois,Dylan Ragusin,63153,Michigan
+2022,03/05,Big Ten Championships,133,W,DEC,7 - 2,Chris Cannon,62895,Northwestern,Dylan Ragusin,63153,Michigan
+2022,03/05,Big Ten Championships,133,W,DEC,5 - 1,Jake Gliva,51241,Minnesota,Dylan Ragusin,63153,Michigan
+2022,03/05,Big Ten Championships,133,W,DEC,3 - 1,Rayvon Foley,50823,Michigan State,Dylan Ragusin,63153,Michigan
+2022,03/05,Big Ten Championships,133,L,DEC,4 - 0,Roman Bravo-Young,49665,Penn State,Dylan Ragusin,63153,Michigan
+2022,02/20,Michigan - Central Michigan Dual,133,W,TF5,24 - 9 4:12,Vince Perez,60001,Central Michigan,Dylan Ragusin,63153,Michigan
+2022,02/13,Michigan - Michigan State Dual,133,L,DEC,7 - 2,Rayvon Foley,50823,Michigan State,Dylan Ragusin,63153,Michigan
+2022,02/11,Michigan - Indiana Dual,133,W,DEC,6 - 3,Brock Hudkins,44808,Indiana,Dylan Ragusin,63153,Michigan
+2022,02/04,Michigan - Nebraska Dual,133,W,DEC,6 - 2,Dominick Serrano,61120,Nebraska,Dylan Ragusin,63153,Michigan
+2022,01/30,Michigan - Maryland Dual,133,W,TF5,16 - 1 3:57,King Sandoval,57116,Maryland,Dylan Ragusin,63153,Michigan
+2022,01/28,Minnesota - Michigan Dual,133,W,DEC,6 - 5,Jake Gliva,51241,Minnesota,Dylan Ragusin,63153,Michigan
+2022,01/23,Rutgers - Michigan Dual,133,W,DEC,3 - 1,Joey Olivieri,67238,Rutgers,Dylan Ragusin,63153,Michigan
+2022,01/21,Penn State - Michigan Dual,133,L,DEC,8 - 1,Roman Bravo-Young,49665,Penn State,Dylan Ragusin,63153,Michigan
+2022,01/14,Michigan - Ohio State Dual,133,W,MD,14 - 5,Will Betancourt,67444,Ohio State,Dylan Ragusin,63153,Michigan
+2022,01/03,Arizona State Michigan ECM,133,L,MD,10 - 0,Michael McGee,49264,Arizona State,Dylan Ragusin,63153,Michigan
+2022,12/03,CKLV Invitational,133,W,DEC,10 - 4,Dominic LaJoie,49112,Cornell,Dylan Ragusin,63153,Michigan
+2022,12/03,CKLV Invitational,133,W,DEC,4 - 3,Haiden Drury,64645,Utah Valley,Dylan Ragusin,63153,Michigan
+2022,12/03,CKLV Invitational,133,W,DEC,9 - 5,Chris Cannon,62895,Northwestern,Dylan Ragusin,63153,Michigan
+2022,12/03,CKLV Invitational,133,W,TF5,16 - 1 4:43,Joshua Koderhandt,70917,Navy,Dylan Ragusin,63153,Michigan
+2022,11/21,Michigan - Buffalo Dual,133,W,MD,14 - 4,Derek Spann,45028,Buffalo,Dylan Ragusin,63153,Michigan
+2022,11/19,Michigan - Columbia Dual,133,W,TF5,23 - 7 6:02,Zack Witmer,68704,Columbia,Dylan Ragusin,63153,Michigan
+2022,11/06,Michigan State Open,133,W,TF5,26 - 11 7:00,Dylan Phelps,71151,Olivet,Dylan Ragusin,63153,Michigan
+2022,11/06,Michigan State Open,133,W,INJ,2:33,Caleb Tanner,66892,Oklahoma,Dylan Ragusin,63153,Michigan
+2022,11/06,Michigan State Open,133,W,MD,10 - 1,Phillip Kue,63244,Ohio State,Dylan Ragusin,63153,Michigan
+2022,11/06,Michigan State Open,133,L,DEC,4 - 3,Anthony Madrigal,50633,Oklahoma,Dylan Ragusin,63153,Michigan
+2022,11/06,Michigan State Open,133,W,MD,15 - 2,Drew Mattin,49180,Michigan,Dylan Ragusin,63153,Michigan
+2022,11/06,Michigan State Open,133,L,DEC,5 - 2,Lucas Byrd,56714,Illinois,Dylan Ragusin,63153,Michigan
+2022,01/21,Penn State - Michigan Dual,141,L,TF5,21 - 6 6:10,Nick Lee,49276,Penn State,Drew Mattin,49180,Michigan
+2022,12/29,Illinois Matmen Open,133,W,MD,10 - 0,Julian Farber,65843,Northern Iowa,Drew Mattin,49180,Michigan
+2022,12/29,Illinois Matmen Open,133,W,SV-1,7 - 5,Joey Olivieri,67238,Rutgers,Drew Mattin,49180,Michigan
+2022,12/29,Illinois Matmen Open,133,W,MD,11 - 3,Ethan Harsted,64145,Wheaton,Drew Mattin,49180,Michigan
+2022,12/29,Illinois Matmen Open,133,W,DEC,8 - 4,Devon Britton,61762,Rutgers,Drew Mattin,49180,Michigan
+2022,12/29,Illinois Matmen Open,133,W,DEC,10 - 3,Michael Colaiocco,56733,Pennsylvania,Drew Mattin,49180,Michigan
+2022,12/29,Illinois Matmen Open,133,L,DEC,8 - 3,Lucas Byrd,56714,Illinois,Drew Mattin,49180,Michigan
+2022,12/11,Cleveland State Open,133,W,MD,11 - 2,Dustin Norris,72154,Purdue,Drew Mattin,49180,Michigan
+2022,12/11,Cleveland State Open,133,W,TF5,16 - 0 7:00,Noah Gochberg,71953,Indiana,Drew Mattin,49180,Michigan
+2022,12/11,Cleveland State Open,133,W,DEC,6 - 0,Ja'Kerion Merritt,67176,Central Michigan,Drew Mattin,49180,Michigan
+2022,12/11,Cleveland State Open,133,W,MD,18 - 4,Vince Perez,60001,Central Michigan,Drew Mattin,49180,Michigan
+2022,11/21,Daktronics Open,133,W,FALL,1:06,Beau Klingensmith,69969,Unattached,Drew Mattin,49180,Michigan
+2022,11/21,Daktronics Open,133,W,FALL,1:01,Derrick Cardinal,68734,South Dakota State,Drew Mattin,49180,Michigan
+2022,11/21,Daktronics Open,133,W,DEC,7 - 0,Vance Vombaur,68715,Minnesota,Drew Mattin,49180,Michigan
+2022,11/21,Daktronics Open,133,W,DEC,4 - 3,Ramazan Attasauov,58943,Iowa State,Drew Mattin,49180,Michigan
+2022,11/06,Michigan State Open,133,L,MD,15 - 2,Dylan Ragusin,63153,Michigan,Drew Mattin,49180,Michigan
+2022,11/06,Michigan State Open,133,W,DEC,6 - 3,Jordan Hamdan,57705,Michigan State,Drew Mattin,49180,Michigan
+2022,11/06,Michigan State Open,133,W,DEC,8 - 4,Kyle Burwick,57385,Wisconsin,Drew Mattin,49180,Michigan
+2022,11/06,Michigan State Open,133,L,DEC,5 - 1,Rayvon Foley,50823,Michigan State,Drew Mattin,49180,Michigan
+2022,11/06,Michigan State Open,133,W,FALL,2:32,Josh Contreras,50857,Illinois,Drew Mattin,49180,Michigan
+2022,03/17,NCAA Championships,141,L,SV-1,10 - 4,CJ Composto,62430,Pennsylvania,Stevan Micic,20223,Michigan
+2022,03/17,NCAA Championships,141,W,INJ,4:36,Jaydin Eierman,39508,Iowa,Stevan Micic,20223,Michigan
+2022,03/17,NCAA Championships,141,W,MD,10 - 2,Frankie Tal-Shahar,64959,Northwestern,Stevan Micic,20223,Michigan
+2022,03/17,NCAA Championships,141,W,DEC,7 - 4,Carter Young,71954,Oklahoma State,Stevan Micic,20223,Michigan
+2022,03/17,NCAA Championships,141,L,DEC,7 - 3,Allan Hart,49193,Missouri,Stevan Micic,20223,Michigan
+2022,03/05,Big Ten Championships,141,L,DEC,4 - 0,Jake Bergeland,49189,Minnesota,Stevan Micic,20223,Michigan
+2022,03/05,Big Ten Championships,141,W,MFOR,0 - 0,Sebastian Rivera,44799,Rutgers,Stevan Micic,20223,Michigan
+2022,03/05,Big Ten Championships,141,W,DEC,4 - 3,Frankie Tal-Shahar,64959,Northwestern,Stevan Micic,20223,Michigan
+2022,03/05,Big Ten Championships,141,L,DEC,7 - 4,Parker Filius,49302,Purdue,Stevan Micic,20223,Michigan
+2022,03/05,Big Ten Championships,141,W,DEC,9 - 7,Danny Bertoni,49173,Maryland,Stevan Micic,20223,Michigan
+2022,03/05,Big Ten Championships,141,W,DEC,6 - 5,Cayden Rooks,56710,Indiana,Stevan Micic,20223,Michigan
+2022,02/20,Michigan - Central Michigan Dual,141,L,DEC,7 - 6,Dresden Simon,44707,Central Michigan,Stevan Micic,20223,Michigan
+2022,02/13,Michigan - Michigan State Dual,141,W,DEC,10 - 3,Matt Santos,44890,Michigan State,Stevan Micic,20223,Michigan
+2022,02/11,Michigan Indiana ECM,141,W,FALL,7:00,Noah Gochberg,71953,Indiana,Stevan Micic,20223,Michigan
+2022,02/11,Michigan - Indiana Dual,141,W,DEC,10 - 4,Cayden Rooks,56710,Indiana,Stevan Micic,20223,Michigan
+2022,02/04,Michigan - Nebraska Dual,141,L,DEC,7 - 3,Chad Red,44683,Nebraska,Stevan Micic,20223,Michigan
+2022,01/30,Michigan - Maryland Dual,141,W,MD,16 - 3,Danny Bertoni,49173,Maryland,Stevan Micic,20223,Michigan
+2022,01/28,Minnesota - Michigan Dual,141,L,DEC,5 - 2,Jake Bergeland,49189,Minnesota,Stevan Micic,20223,Michigan
+2022,01/14,Michigan - Ohio State Dual,141,W,DEC,12 - 7,Dylan D'Emilio,56726,Ohio State,Stevan Micic,20223,Michigan
+2022,01/09,Michigan - Pittsburgh Dual,141,L,DEC,11 - 5,Cole Matthews,50936,Pittsburgh,Stevan Micic,20223,Michigan
+2022,01/03,Arizona State Michigan ECM,141,W,DEC,8 - 6,Julian Chlebove,56769,Arizona State,Stevan Micic,20223,Michigan
+2022,02/06,Edinboro Open,141,W,TF5,16 - 0 3:54,Blake Boyers,73379,West Virginia,Christopher Kim,64644,Michigan
+2022,02/06,Edinboro Open,141,L,DEC,3 - 0,Drew Marten,49077,Central Michigan,Christopher Kim,64644,Michigan
+2022,02/06,Edinboro Open,141,W,FALL,0:49,Jack Marlow,73355,Buffalo,Christopher Kim,64644,Michigan
+2022,02/06,Edinboro Open,141,W,FALL,0:43,Riley Edwards,71715,Appalachian State,Christopher Kim,64644,Michigan
+2022,01/23,Rutgers - Michigan Dual,141,L,TF5,19 - 4 4:30,Sebastian Rivera,44799,Rutgers,Christopher Kim,64644,Michigan
+2022,01/16,Purple Raider Open,141,W,MD,14 - 1,Ethan Hardy,73216,Glenville State University,Christopher Kim,64644,Michigan
+2022,01/16,Purple Raider Open,141,L,DEC,5 - 3,Jordin James,51894,Mount Union,Christopher Kim,64644,Michigan
+2022,01/16,Purple Raider Open,141,W,DEC,9 - 6,Klay Reeves,62470,Ohio State,Christopher Kim,64644,Michigan
+2022,01/16,Purple Raider Open,141,W,FALL,1:18,Michael Leveille,57716,Purdue,Christopher Kim,64644,Michigan
+2022,11/06,Michigan State Open,133,L,DEC,2 - 0,Andre Gonzales,72135,Ohio State,Christopher Kim,64644,Michigan
+2022,11/06,Michigan State Open,133,W,DEC,4 - 0,Chase Liardi,72134,Ohio State,Christopher Kim,64644,Michigan
+2022,11/06,Michigan State Open,133,W,DEC,2 - 1,Will Betancourt,67444,Ohio State,Christopher Kim,64644,Michigan
+2022,11/06,Michigan State Open,133,W,FALL,1:49,Cameron Soda,72219,Edinboro,Christopher Kim,64644,Michigan
+2022,03/05,Big Ten Championships,149,L,DEC,3 - 1,Beau Bartlett,62221,Penn State,Kanen Storr,44714,Michigan
+2022,03/05,Big Ten Championships,149,L,DEC,7 - 5,Michael Blockhus,57163,Minnesota,Kanen Storr,44714,Michigan
+2022,03/05,Big Ten Championships,149,W,DEC,5 - 1,Alec White,49305,Purdue,Kanen Storr,44714,Michigan
+2022,03/05,Big Ten Championships,149,W,DEC,8 - 7,Yahya Thomas,49245,Northwestern,Kanen Storr,44714,Michigan
+2022,03/05,Big Ten Championships,149,L,FALL,4:27,Mike Van Brill,44613,Rutgers,Kanen Storr,44714,Michigan
+2022,02/20,Michigan - Central Michigan Dual,149,L,FALL,4:06,Corbyn Munson,51197,Central Michigan,Kanen Storr,44714,Michigan
+2022,02/13,Michigan - Michigan State Dual,149,W,DEC,5 - 2,Peyton Omania,56081,Michigan State,Kanen Storr,44714,Michigan
+2022,02/11,Michigan - Indiana Dual,149,L,DEC,4 - 1,Graham Rooks,51283,Indiana,Kanen Storr,44714,Michigan
+2022,02/06,Edinboro Open,149,W,TF5,20 - 0 3:39,Carson Filer,72202,Gannon,Kanen Storr,44714,Michigan
+2022,02/06,Edinboro Open,149,L,DEC,6 - 5,Brock McMillen,72116,Pittsburgh,Kanen Storr,44714,Michigan
+2022,02/06,Edinboro Open,149,L,DEC,9 - 5,Paniro Johnson,68708,Cyclone Regional Training Center,Kanen Storr,44714,Michigan
+2022,02/06,Edinboro Open,149,W,DEC,7 - 1,Imran Heard,51595,Penn State,Kanen Storr,44714,Michigan
+2022,02/06,Edinboro Open,149,W,TF5,18 - 2 6:50,Billy Talmadge,67442,Lock Haven,Kanen Storr,44714,Michigan
+2022,02/06,Edinboro Open,149,W,MFOR,0 - 0,Kaleb Burgess,72225,Buffalo,Kanen Storr,44714,Michigan
+2022,12/03,CKLV Invitational,149,L,MFOR,0 - 0,Sam Turner,45009,Nebraska-Kearney,Kanen Storr,44714,Michigan
+2022,12/03,CKLV Invitational,149,L,INJ,2:31,Michael Blockhus,57163,Minnesota,Kanen Storr,44714,Michigan
+2022,11/21,Michigan - Buffalo Dual,149,W,DEC,2 - 0,John Arceri,47552,Buffalo,Kanen Storr,44714,Michigan
+2022,11/19,Michigan - Columbia Dual,149,W,MD,15 - 6,Danny Fongaro,51713,Columbia,Kanen Storr,44714,Michigan
+2022,11/14,CSU Bakersfield - Michigan Dual,149,W,MD,17 - 6,Josh Brown,62862,CSU Bakersfield,Kanen Storr,44714,Michigan
+2022,02/06,Edinboro Open,149,W,INJ,1:19,Nate Wade,76000,Spartan Combat RTC,Chance Lamer,70915,Michigan
+2022,02/06,Edinboro Open,149,W,DEC,7 - 1,Brock McMillen,72116,Pittsburgh,Chance Lamer,70915,Michigan
+2022,02/06,Edinboro Open,149,W,DEC,8 - 2,Paniro Johnson,68708,Cyclone Regional Training Center,Chance Lamer,70915,Michigan
+2022,02/06,Edinboro Open,149,W,FALL,1:51,Sully Allen,65014,Edinboro,Chance Lamer,70915,Michigan
+2022,02/06,Edinboro Open,149,W,DEC,5 - 4,Mason Breece,57362,Central Michigan,Chance Lamer,70915,Michigan
+2022,01/16,Purple Raider Open,149,W,FALL,2:56,Gavin Quiocho,73218,Glenville State University,Chance Lamer,70915,Michigan
+2022,01/16,Purple Raider Open,149,W,FALL,0:42,Matthew Kaufmann,67089,Notre Dame,Chance Lamer,70915,Michigan
+2022,01/16,Purple Raider Open,149,W,TF5,19 - 4 4:30,Matthew Ferraro,62000,Mercyhurst,Chance Lamer,70915,Michigan
+2022,01/16,Purple Raider Open,149,W,MD,20 - 8,Ty Linsenbigler,71825,Lock Haven,Chance Lamer,70915,Michigan
+2022,01/16,Purple Raider Open,149,W,MD,13 - 2,Jaden Reynolds,72620,Purdue,Chance Lamer,70915,Michigan
+2022,12/11,Cleveland State Open,149,W,DEC,8 - 6,Graham Rooks,51283,Indiana,Chance Lamer,70915,Michigan
+2022,12/11,Cleveland State Open,149,W,DEC,10 - 7,Marcus Robinson,56479,Cleveland State,Chance Lamer,70915,Michigan
+2022,12/11,Cleveland State Open,149,L,DEC,12 - 5,Marcus Robinson,56479,Cleveland State,Chance Lamer,70915,Michigan
+2022,12/11,Cleveland State Open,149,W,FALL,0:57,John Altieri,70738,Clarion,Chance Lamer,70915,Michigan
+2022,12/11,Cleveland State Open,149,L,MD,14 - 6,Corbyn Munson,51197,Central Michigan,Chance Lamer,70915,Michigan
+2022,11/06,Michigan State Open,141,W,MFOR,0 - 0,Anthony Echemendia,62882,Ohio State,Chance Lamer,70915,Michigan
+2022,11/06,Michigan State Open,141,W,MD,15 - 5,Zackery Zeamer,57141,Oklahoma,Chance Lamer,70915,Michigan
+2022,11/06,Michigan State Open,141,W,MFOR,0 - 0,Dresden Simon,44707,Central Michigan,Chance Lamer,70915,Michigan
+2022,11/06,Michigan State Open,141,W,DEC,10 - 4,Lawrence Saenz,56597,Cal Poly,Chance Lamer,70915,Michigan
+2022,01/21,Penn State - Michigan Dual,149,L,INJ,0:12,Beau Bartlett,62221,Penn State,Cole Mattin,57715,Michigan
+2022,01/14,Michigan - Ohio State Dual,149,L,DEC,9 - 4,Sammy Sasso,51143,Ohio State,Cole Mattin,57715,Michigan
+2022,01/09,Michigan - Pittsburgh Dual,149,W,DEC,9 - 4,Dan Mancini,58612,Pittsburgh,Cole Mattin,57715,Michigan
+2022,12/03,CKLV Invitational,141,L,DEC,6 - 1,Chad Red,44683,Nebraska,Cole Mattin,57715,Michigan
+2022,12/03,CKLV Invitational,141,L,FALL,3:00,Grant Willits,49273,Oregon State,Cole Mattin,57715,Michigan
+2022,12/03,CKLV Invitational,141,W,DEC,3 - 2,Frankie Tal-Shahar,64959,Northwestern,Cole Mattin,57715,Michigan
+2022,12/03,CKLV Invitational,141,W,FALL,3:21,Parker Filius,49302,Purdue,Cole Mattin,57715,Michigan
+2022,12/03,CKLV Invitational,141,W,DEC,5 - 4,Angelo Martinoni,57199,CSU Bakersfield,Cole Mattin,57715,Michigan
+2022,12/03,CKLV Invitational,141,W,DEC,6 - 2,Zackery Zeamer,57141,Oklahoma,Cole Mattin,57715,Michigan
+2022,12/03,CKLV Invitational,141,W,FALL,2:44,Michael Zarif,57277,Binghamton,Cole Mattin,57715,Michigan
+2022,12/03,CKLV Invitational,141,W,DEC,3 - 2,Lawrence Saenz,56597,Cal Poly,Cole Mattin,57715,Michigan
+2022,11/21,Michigan - Buffalo Dual,141,W,SV-1,3 - 1,Ben Freeman,49177,Buffalo,Cole Mattin,57715,Michigan
+2022,11/19,Michigan Columbia Extra,141,W,DEC,6 - 2,Kenny Duschek,71820,Columbia,Cole Mattin,57715,Michigan
+2022,11/06,Michigan State Open,141,W,FALL,1:45,Hunter Baker,59896,Rochester Christian,Cole Mattin,57715,Michigan
+2022,11/06,Michigan State Open,141,L,DEC,7 - 3,Matt Santos,44890,Michigan State,Cole Mattin,57715,Michigan
+2022,11/06,Michigan State Open,141,L,DEC,6 - 5,Nico Bolivar,62427,Indiana,Cole Mattin,57715,Michigan
+2022,02/11,Michigan Indiana ECM,149,L,DEC,4 - 2,Nico Bolivar,62427,Indiana,Patrick Nolan,57652,Michigan
+2022,02/04,Michigan - Nebraska Dual,149,L,MD,11 - 3,Ridge Lovett,57520,Nebraska,Patrick Nolan,57652,Michigan
+2022,01/30,Michigan - Maryland Dual,149,W,DEC,9 - 8,Michael North,57335,Maryland,Patrick Nolan,57652,Michigan
+2022,01/28,Minnesota - Michigan Dual,149,L,MD,14 - 4,Michael Blockhus,57163,Minnesota,Patrick Nolan,57652,Michigan
+2022,01/23,Rutgers - Michigan Dual,149,L,DEC,4 - 1,Mike Van Brill,44613,Rutgers,Patrick Nolan,57652,Michigan
+2022,01/14,Michigan - Ohio State Dual,165,L,TF5,22 - 6 6:30,Carson Kharchla,57703,Ohio State,Patrick Nolan,57652,Michigan
+2022,12/11,Cleveland State Open,141,W,SV-1,7 - 5,Cayden Rooks,56710,Indiana,Patrick Nolan,57652,Michigan
+2022,12/11,Cleveland State Open,141,W,DEC,7 - 3,Will Grater,67164,Central Michigan,Patrick Nolan,57652,Michigan
+2022,12/11,Cleveland State Open,141,W,DEC,6 - 0,Drew Marten,49077,Central Michigan,Patrick Nolan,57652,Michigan
+2022,11/19,Michigan - Columbia Dual,141,W,MD,16 - 6,Gunnar Fuss,62570,Columbia,Patrick Nolan,57652,Michigan
+2022,11/14,CSU Bakersfield - Michigan Dual,141,L,DEC,10 - 8,Angelo Martinoni,57199,CSU Bakersfield,Patrick Nolan,57652,Michigan
+2022,11/06,Michigan State Open,141,L,DEC,4 - 0,Jaivon Jones,62724,Northern Illinois,Patrick Nolan,57652,Michigan
+2022,11/06,Michigan State Open,141,L,MD,14 - 3,Dylan D'Emilio,56726,Ohio State,Patrick Nolan,57652,Michigan
+2022,11/06,Michigan State Open,141,W,DEC,10 - 8,Gabe Willochell,62335,Edinboro,Patrick Nolan,57652,Michigan
+2022,11/06,Michigan State Open,149,W,FALL,1:22,Matthew Fales,74294,Cornerstone,Zack Mattin,72210,Michigan
+2022,11/06,Michigan State Open,149,W,DEC,10 - 3,Grant Hansen,73342,Northern Illinois,Zack Mattin,72210,Michigan
+2022,11/06,Michigan State Open,149,W,FALL,0:52,Aidan Medora,62360,Wisconsin,Zack Mattin,72210,Michigan
+2022,11/06,Michigan State Open,149,W,FALL,4:26,Zack Rotkvich,73383,Indiana,Zack Mattin,72210,Michigan
+2022,11/06,Michigan State Open,149,L,FALL,1:35,Luka Wick,71782,Cal Poly,Zack Mattin,72210,Michigan
+2022,01/09,Pitt Michigan ECM,149,L,DEC,6 - 2,Luke Kemerer,50929,Pittsburgh,Nick Freeman,50641,Michigan
+2022,02/06,Edinboro Open,149,L,FALL,4:30,Brock Holek,73021,Michigan State,Alex Wesselman,73463,Michigan
+2022,02/06,Edinboro Open,149,L,TF5,18 - 3 3:36,Emory Taylor,72119,Pittsburgh,Alex Wesselman,73463,Michigan
+2022,01/16,Purple Raider Open,149,L,DEC,8 - 1,Gustavo DeLima,63219,Grand Valley State University,Alex Wesselman,73463,Michigan
+2022,01/16,Purple Raider Open,149,L,FALL,1:58,Brady O’Connor,61607,Lake Erie College,Alex Wesselman,73463,Michigan
+2022,11/20,Findlay Open,149,L,FALL,0:21,Logan Bailey,67575,Indianapolis,Alex Wesselman,73463,Michigan
+2022,11/20,Findlay Open,149,L,FALL,1:55,Donovan Bukaczeski,72213,Gannon,Alex Wesselman,73463,Michigan
+2022,11/06,Michigan State Open,149,L,TF5,17 - 2 7:00,Christian Lenon,71537,Olivet,Alex Wesselman,73463,Michigan
+2022,11/06,Michigan State Open,149,L,TF5,16 - 0 7:00,Cole Hansen,69871,Michigan State,Alex Wesselman,73463,Michigan
+2022,03/17,NCAA Championships,157,W,SV-1,4 - 2,Jacori Teemer,50581,Arizona State,Will Lewan,50934,Michigan
+2022,03/17,NCAA Championships,157,L,DEC,6 - 3,David Carr,51126,Iowa State,Will Lewan,50934,Michigan
+2022,03/17,NCAA Championships,157,L,DEC,3 - 2,Quincy Monday,53967,Princeton,Will Lewan,50934,Michigan
+2022,03/17,NCAA Championships,157,W,DEC,3 - 1,Hunter Willits,49272,Oregon State,Will Lewan,50934,Michigan
+2022,03/17,NCAA Championships,157,W,SV-1,3 - 1,Kaleb Young,44572,Iowa,Will Lewan,50934,Michigan
+2022,03/17,NCAA Championships,157,W,SV-2,4 - 2,Jarrett Jacques,50597,Missouri,Will Lewan,50934,Michigan
+2022,03/05,Big Ten Championships,157,L,DEC,7 - 2,Ryan Deakin,44716,Northwestern,Will Lewan,50934,Michigan
+2022,03/05,Big Ten Championships,157,W,DEC,3 - 1,Chase Saldate,61118,Michigan State,Will Lewan,50934,Michigan
+2022,03/05,Big Ten Championships,157,W,DEC,6 - 2,Sebas Swiggum,57336,Minnesota,Will Lewan,50934,Michigan
+2022,03/05,Big Ten Championships,157,W,SV-1,3 - 1,Brady Berge,49277,Penn State,Will Lewan,50934,Michigan
+2022,02/20,Michigan - Central Michigan Dual,157,L,TB-2,3 - 2,Johnny Lovett,61935,Central Michigan,Will Lewan,50934,Michigan
+2022,02/13,Michigan - Michigan State Dual,157,W,DEC,3 - 2,Chase Saldate,61118,Michigan State,Will Lewan,50934,Michigan
+2022,02/11,Michigan - Indiana Dual,157,W,DEC,3 - 2,Derek Gilcher,62760,Indiana,Will Lewan,50934,Michigan
+2022,02/04,Michigan - Nebraska Dual,157,W,SV-1,3 - 1,Peyton Robb,56387,Nebraska,Will Lewan,50934,Michigan
+2022,01/30,Michigan - Maryland Dual,157,W,MD,18 - 5,Conner Decker,71752,Maryland,Will Lewan,50934,Michigan
+2022,01/28,Minnesota - Michigan Dual,157,L,DEC,5 - 4,Brayton Lee,52079,Minnesota,Will Lewan,50934,Michigan
+2022,01/23,Rutgers - Michigan Dual,157,W,DEC,9 - 3,Al De Santis,67002,Rutgers,Will Lewan,50934,Michigan
+2022,01/21,Penn State - Michigan Dual,157,W,DEC,5 - 2,Terrell Barraclough,62900,Penn State,Will Lewan,50934,Michigan
+2022,01/14,Michigan - Ohio State Dual,157,W,DEC,6 - 3,Jashon Hubbard,50610,Ohio State,Will Lewan,50934,Michigan
+2022,01/09,Michigan - Pittsburgh Dual,157,W,DEC,3 - 1,Elijah Cleary,44828,Pittsburgh,Will Lewan,50934,Michigan
+2022,12/03,CKLV Invitational,157,W,DEC,3 - 1,Bryce Hepner,64961,Ohio State,Will Lewan,50934,Michigan
+2022,12/03,CKLV Invitational,157,L,DEC,6 - 3,Quincy Monday,53967,Princeton,Will Lewan,50934,Michigan
+2022,12/03,CKLV Invitational,157,W,MFOR,0 - 0,Kendall Coleman,50626,Purdue,Will Lewan,50934,Michigan
+2022,12/03,CKLV Invitational,157,L,DEC,3 - 2,Jacob Wright,49463,Wyoming,Will Lewan,50934,Michigan
+2022,12/03,CKLV Invitational,157,W,DEC,5 - 3,Andrew Cerniglia,62439,Navy,Will Lewan,50934,Michigan
+2022,12/03,CKLV Invitational,157,W,MD,14 - 5,Charlie Darracott,62985,Stanford,Will Lewan,50934,Michigan
+2022,11/21,Michigan - Buffalo Dual,157,W,DEC,4 - 3,Ty Raines,57719,Buffalo,Will Lewan,50934,Michigan
+2022,11/19,Michigan - Columbia Dual,157,W,MD,12 - 2,Kyle Mosher,57125,Columbia,Will Lewan,50934,Michigan
+2022,12/11,Cleveland State Open,157,L,MFOR,0 - 0,Bobby Pryhocki,50956,Kent State,Fidel Mayora,62366,Michigan
+2022,12/11,Cleveland State Open,157,W,FALL,5:38,Kasper McIntosh,50856,Indiana,Fidel Mayora,62366,Michigan
+2022,12/11,Cleveland State Open,157,L,INJ,0:51,Trenton Wachter,73721,Central Michigan,Fidel Mayora,62366,Michigan
+2022,11/14,CSU Bakersfield - Michigan Dual,157,W,MD,12 - 4,Brock Rogers,62863,CSU Bakersfield,Fidel Mayora,62366,Michigan
+2022,11/06,Michigan State Open,157,L,DEC,4 - 0,Bryce Hepner,64961,Ohio State,Fidel Mayora,62366,Michigan
+2022,11/06,Michigan State Open,157,W,FALL,1:05,Coltin Jezioro,62046,Ohio,Fidel Mayora,62366,Michigan
+2022,11/06,Michigan State Open,157,L,DEC,3 - 2,Joe Roberts,62344,Illinois,Fidel Mayora,62366,Michigan
+2022,11/06,Michigan State Open,157,W,MD,12 - 4,Alex Garcia,62852,Edinboro,Fidel Mayora,62366,Michigan
+2022,11/06,Michigan State Open,157,W,DEC,4 - 0,Daniel Vizcarra,59546,Cal Poly,Fidel Mayora,62366,Michigan
+2022,12/11,Cleveland State Open,157,L,TF5,18 - 2 7:00,Zack Rotkvich,73383,Indiana,Joaquin Consuelos,73462,Michigan
+2022,12/11,Cleveland State Open,157,L,FALL,1:07,Kasper McIntosh,50856,Indiana,Joaquin Consuelos,73462,Michigan
+2022,03/17,NCAA Championships,165,L,DEC,3 - 2,Evan Wick,44730,Cal Poly,Cameron Amine,57289,Michigan
+2022,03/17,NCAA Championships,165,W,DEC,7 - 5,Dean Hamiti,62894,Wisconsin,Cameron Amine,57289,Michigan
+2022,03/17,NCAA Championships,165,L,DEC,4 - 0,Keegan O'Toole,61119,Missouri,Cameron Amine,57289,Michigan
+2022,03/17,NCAA Championships,165,W,SV-1,3 - 1,Alex Marinelli,44574,Iowa,Cameron Amine,57289,Michigan
+2022,03/17,NCAA Championships,165,W,DEC,4 - 2,Izzak Olejnik,56509,Northern Illinois,Cameron Amine,57289,Michigan
+2022,03/17,NCAA Championships,165,W,DEC,3 - 1,Bubba Wilson,57936,Nebraska,Cameron Amine,57289,Michigan
+2022,03/05,Big Ten Championships,165,L,DEC,2 - 1,Alex Marinelli,44574,Iowa,Cameron Amine,57289,Michigan
+2022,03/05,Big Ten Championships,165,W,MD,11 - 1,Caleb Fish,63045,Michigan State,Cameron Amine,57289,Michigan
+2022,03/05,Big Ten Championships,165,W,SV-1,3 - 1,Carson Kharchla,57703,Ohio State,Cameron Amine,57289,Michigan
+2022,03/05,Big Ten Championships,165,W,DEC,5 - 1,Kasper McIntosh,50856,Indiana,Cameron Amine,57289,Michigan
+2022,02/20,Michigan - Central Michigan Dual,165,W,DEC,4 - 2,Tracy Hubbard,57361,Central Michigan,Cameron Amine,57289,Michigan
+2022,02/13,Michigan - Michigan State Dual,165,W,DEC,5 - 1,Caleb Fish,63045,Michigan State,Cameron Amine,57289,Michigan
+2022,02/11,Michigan - Indiana Dual,165,W,DEC,3 - 2,Kasper McIntosh,50856,Indiana,Cameron Amine,57289,Michigan
+2022,02/04,Michigan - Nebraska Dual,165,L,DEC,5 - 3,Bubba Wilson,57936,Nebraska,Cameron Amine,57289,Michigan
+2022,01/30,Michigan - Maryland Dual,165,W,MD,16 - 3,Gaven Bell,72136,Maryland,Cameron Amine,57289,Michigan
+2022,01/28,Minnesota - Michigan Dual,165,W,DEC,6 - 1,Cael Carlson,57337,Minnesota,Cameron Amine,57289,Michigan
+2022,01/23,Rutgers - Michigan Dual,165,W,DEC,3 - 1,Andrew Clark,66883,Rutgers,Cameron Amine,57289,Michigan
+2022,01/21,Penn State - Michigan Dual,165,L,DEC,3 - 1,Brady Berge,49277,Penn State,Cameron Amine,57289,Michigan
+2022,12/03,CKLV Invitational,165,W,DEC,5 - 3,Bubba Wilson,57936,Nebraska,Cameron Amine,57289,Michigan
+2022,12/03,CKLV Invitational,165,L,DEC,9 - 6,Julian Ramirez,56706,Cornell,Cameron Amine,57289,Michigan
+2022,12/03,CKLV Invitational,165,W,SV-1,3 - 1,Phillip Conigliaro,51201,Harvard,Cameron Amine,57289,Michigan
+2022,12/03,CKLV Invitational,165,W,FALL,7:29,Phillip Conigliaro,51201,Harvard,Cameron Amine,57289,Michigan
+2022,12/03,CKLV Invitational,165,L,DEC,4 - 1,Evan Wick,44730,Cal Poly,Cameron Amine,57289,Michigan
+2022,12/03,CKLV Invitational,165,W,MD,10 - 2,Scott Jarosz,62478,Sacred Heart,Cameron Amine,57289,Michigan
+2022,11/21,Michigan - Buffalo Dual,165,W,DEC,3 - 2,Noah Grover,51227,Buffalo,Cameron Amine,57289,Michigan
+2022,11/19,Michigan - Columbia Dual,165,W,DEC,3 - 1,Joshua Ogunsanya,66970,Columbia,Cameron Amine,57289,Michigan
+2022,11/14,CSU Bakersfield - Michigan Dual,165,W,DEC,5 - 2,Augustine Garcia,69363,CSU Bakersfield,Cameron Amine,57289,Michigan
+2022,03/17,NCAA Championships,174,W,DEC,5 - 1,Dustin Plott,57607,Oklahoma State,Logan Massa,39517,Michigan
+2022,03/17,NCAA Championships,174,L,SV-1,6 - 4,Michael Kemerer,39526,Iowa,Logan Massa,39517,Michigan
+2022,03/17,NCAA Championships,174,L,FALL,6:19,Mekhi Lewis,49338,Virginia Tech,Logan Massa,39517,Michigan
+2022,03/17,NCAA Championships,174,W,DEC,8 - 3,Dustin Plott,57607,Oklahoma State,Logan Massa,39517,Michigan
+2022,03/17,NCAA Championships,174,W,MD,15 - 5,Thomas Flitz,45410,Appalachian State,Logan Massa,39517,Michigan
+2022,03/17,NCAA Championships,174,W,MD,12 - 4,Jacob Nolan,62415,Binghamton,Logan Massa,39517,Michigan
+2022,03/05,Big Ten Championships,174,L,DEC,5 - 1,Carter Starocci,58819,Penn State,Logan Massa,39517,Michigan
+2022,03/05,Big Ten Championships,174,W,DEC,8 - 3,Troy Fisher,57601,Northwestern,Logan Massa,39517,Michigan
+2022,03/05,Big Ten Championships,174,W,DEC,6 - 5,Michael Labriola,49207,Nebraska,Logan Massa,39517,Michigan
+2022,02/20,Michigan - Central Michigan Dual,174,W,MD,13 - 2,Bret Fedewa,50920,Central Michigan,Logan Massa,39517,Michigan
+2022,02/13,Michigan - Michigan State Dual,174,W,TF5,17 - 1 4:13,Nate Jimenez,51688,Michigan State,Logan Massa,39517,Michigan
+2022,02/11,Michigan - Indiana Dual,174,W,TF5,20 - 5 7:00,Nicholas South,56709,Indiana,Logan Massa,39517,Michigan
+2022,02/04,Michigan - Nebraska Dual,174,W,DEC,4 - 1,Michael Labriola,49207,Nebraska,Logan Massa,39517,Michigan
+2022,01/28,Minnesota - Michigan Dual,174,W,DEC,7 - 4,Bailee O'Reilly,50166,Minnesota,Logan Massa,39517,Michigan
+2022,01/23,Rutgers - Michigan Dual,174,W,FALL,4:15,Connor O'Neill,62354,Rutgers,Logan Massa,39517,Michigan
+2022,01/21,Penn State - Michigan Dual,174,L,DEC,3 - 2,Carter Starocci,58819,Penn State,Logan Massa,39517,Michigan
+2022,01/14,Michigan - Ohio State Dual,174,W,DEC,10 - 5,Ethan Smith,50025,Ohio State,Logan Massa,39517,Michigan
+2022,01/09,Michigan - Pittsburgh Dual,174,W,FALL,2:20,Hunter Kernan,57929,Pittsburgh,Logan Massa,39517,Michigan
+2022,12/11,Cleveland State Open,174,W,TF5,17 - 2 7:00,Evan Canoyer,71815,Spartan Combat RTC,Logan Massa,39517,Michigan
+2022,12/11,Cleveland State Open,174,W,FALL,2:46,Coy Bastian,71757,Bucknell,Logan Massa,39517,Michigan
+2022,12/11,Cleveland State Open,174,W,MD,13 - 3,Luca Augustine,68730,Pittsburgh,Logan Massa,39517,Michigan
+2022,12/11,Cleveland State Open,174,W,TF5,19 - 3 7:00,Fritz Schierl,44840,Ohio State,Logan Massa,39517,Michigan
+2022,12/11,Cleveland State Open,174,W,DEC,10 - 5,Bret Fedewa,50920,Central Michigan,Logan Massa,39517,Michigan
+2022,02/06,Edinboro Open,174,L,DEC,10 - 7,Joseph Walker,63717,Michigan,Max Maylor,56310,Michigan
+2022,02/06,Edinboro Open,174,W,FALL,1:05,Bryer Hall,71787,Ohio State,Max Maylor,56310,Michigan
+2022,02/06,Edinboro Open,174,W,DEC,7 - 0,Luca Augustine,68730,Pittsburgh,Max Maylor,56310,Michigan
+2022,02/06,Edinboro Open,174,W,MD,11 - 3,Sean Kilrain,64015,Lehigh,Max Maylor,56310,Michigan
+2022,02/06,Edinboro Open,174,W,MD,12 - 2,Dalton Battle,73100,Appalachian State,Max Maylor,56310,Michigan
+2022,12/03,CKLV Invitational,174,L,TF5,26 - 9 6:52,Ethan Smith,50025,Ohio State,Max Maylor,56310,Michigan
+2022,12/03,CKLV Invitational,174,W,DEC,11 - 10,Mikey Squires,67290,Princeton,Max Maylor,56310,Michigan
+2022,12/03,CKLV Invitational,174,L,FALL,4:05,Hayden Hastings,49354,Wyoming,Max Maylor,56310,Michigan
+2022,12/03,CKLV Invitational,174,W,DEC,4 - 3,Albert Urias,57203,CSU Bakersfield,Max Maylor,56310,Michigan
+2022,12/03,CKLV Invitational,174,W,DEC,7 - 5,Aaron Ayzerov,70911,Columbia,Max Maylor,56310,Michigan
+2022,11/21,Michigan - Buffalo Dual,174,W,DEC,9 - 6,Guiseppe Hoose,56371,Buffalo,Max Maylor,56310,Michigan
+2022,11/19,Michigan - Columbia Dual,174,L,DEC,8 - 4,Aaron Ayzerov,70911,Columbia,Max Maylor,56310,Michigan
+2022,11/14,CSU Bakersfield - Michigan Dual,174,W,FALL,1:29,Albert Urias,57203,CSU Bakersfield,Max Maylor,56310,Michigan
+2022,01/09,Army Michigan ECM,174,W,TF5,16 - 0 4:51,Dominic Falcone,68700,Army West Point,Matt McKenna,67334,Michigan
+2022,01/07,David Lehman Open,174,L,DEC,6 - 2,Austin Dempsey,73151,Virginia Tech,Matt McKenna,67334,Michigan
+2022,01/07,David Lehman Open,174,W,DEC,3 - 2,Shane Sosinsky,49204,Navy,Matt McKenna,67334,Michigan
+2022,01/07,David Lehman Open,174,L,DEC,8 - 1,Coy Bastian,71757,Bucknell,Matt McKenna,67334,Michigan
+2022,12/29,Illinois Matmen Open,174,L,MD,11 - 2,Michael Doggett,62194,Harvard,Matt McKenna,67334,Michigan
+2022,12/29,Illinois Matmen Open,174,L,DEC,5 - 2,John Crawford,62873,Franklin & Marshall,Matt McKenna,67334,Michigan
+2022,12/11,Cleveland State Open,174,W,DEC,2 - 0,Anthony Cicciarelli,50435,West Virginia,Matt McKenna,67334,Michigan
+2022,12/11,Cleveland State Open,174,L,DEC,6 - 1,Bryson Alsteen,63217,Buffalo,Matt McKenna,67334,Michigan
+2022,12/11,Cleveland State Open,174,L,DEC,9 - 2,Bret Fedewa,50920,Central Michigan,Matt McKenna,67334,Michigan
+2022,11/19,Michigan Columbia Extra,174,L,TF5,15 - 0 7:00,Nick Fine,71734,Columbia,Matt McKenna,67334,Michigan
+2022,11/06,Michigan State Open,174,L,DEC,10 - 3,Ankhaa Enkhmandakh,62897,Northwestern,Matt McKenna,67334,Michigan
+2022,11/06,Michigan State Open,174,L,MD,12 - 1,Nate Jimenez,51688,Michigan State,Matt McKenna,67334,Michigan
+2022,02/06,Edinboro Open,174,W,FALL,4:51,Hudson Stewart,67386,Virginia,Joseph Walker,63717,Michigan
+2022,02/06,Edinboro Open,174,W,MD,14 - 4,Tucker Nadeau,56465,West Virginia,Joseph Walker,63717,Michigan
+2022,02/06,Edinboro Open,174,W,DEC,10 - 7,Max Maylor,56310,Michigan,Joseph Walker,63717,Michigan
+2022,02/06,Edinboro Open,174,W,DEC,4 - 2,Connor Herceg,63054,Lehigh,Joseph Walker,63717,Michigan
+2022,02/06,Edinboro Open,174,W,DEC,6 - 0,Bryson Alsteen,63217,Buffalo,Joseph Walker,63717,Michigan
+2022,12/29,Illinois Matmen Open,174,L,MFOR,0 - 0,Jaden Bullock,67035,Michigan,Joseph Walker,63717,Michigan
+2022,12/29,Illinois Matmen Open,174,L,SV-1,8 - 4,Edmond Ruth,51277,Unattached,Joseph Walker,63717,Michigan
+2022,12/11,Cleveland State Open,174,W,TF5,19 - 4 7:00,Christian Hansen,71809,Spartan Combat RTC,Joseph Walker,63717,Michigan
+2022,12/11,Cleveland State Open,174,L,DEC,4 - 1,Fritz Schierl,44840,Ohio State,Joseph Walker,63717,Michigan
+2022,12/11,Cleveland State Open,174,W,FALL,2:02,Mike Caniglia,63012,Kent State,Joseph Walker,63717,Michigan
+2022,12/11,Cleveland State Open,174,W,DEC,6 - 5,Nicholas South,56709,Indiana,Joseph Walker,63717,Michigan
+2022,12/11,Cleveland State Open,174,L,MFOR,0 - 0,Bret Fedewa,50920,Central Michigan,Joseph Walker,63717,Michigan
+2022,11/20,Findlay Open,174,W,DEC,4 - 3,Jaden Bullock,67035,Michigan,Joseph Walker,63717,Michigan
+2022,11/20,Findlay Open,174,W,FALL,1:47,Leonardo Galasso,73722,Central Michigan,Joseph Walker,63717,Michigan
+2022,11/20,Findlay Open,174,W,DEC,7 - 4,Job Ayala,49530,Wisconsin-Parkside,Joseph Walker,63717,Michigan
+2022,11/20,Findlay Open,174,W,FALL,5:41,Chance Morgan,50052,West Liberty University,Joseph Walker,63717,Michigan
+2022,11/20,Findlay Open,174,W,DEC,4 - 1,Daniel Beemer,57437,Ashland,Joseph Walker,63717,Michigan
+2022,11/06,Michigan State Open,174,L,DEC,12 - 6,Anthony Mantanona,49258,Oklahoma,Joseph Walker,63717,Michigan
+2022,11/06,Michigan State Open,174,L,SV-1,11 - 9,Fritz Schierl,44840,Ohio State,Joseph Walker,63717,Michigan
+2022,11/06,Michigan State Open,174,W,SV-1,6 - 4,Bret Fedewa,50920,Central Michigan,Joseph Walker,63717,Michigan
+2022,02/06,Edinboro Open,184,W,TF5,16 - 1 5:14,Scott Schlett,77649,Ohio,Jaden Bullock,67035,Michigan
+2022,02/06,Edinboro Open,184,W,DEC,4 - 0,Chase Mielnik,67431,Maryland,Jaden Bullock,67035,Michigan
+2022,02/06,Edinboro Open,184,W,TF5,15 - 0 5:38,Spencer Steiner,72700,Central Michigan,Jaden Bullock,67035,Michigan
+2022,02/06,Edinboro Open,184,W,DEC,5 - 3,Cole Rees,71005,Campbell,Jaden Bullock,67035,Michigan
+2022,01/16,Purple Raider Open,174,W,MFOR,0 - 0,Bryer Hall,71787,Ohio State,Jaden Bullock,67035,Michigan
+2022,01/16,Purple Raider Open,174,W,MD,15 - 2,Hunter DeLong,50972,Glenville State University,Jaden Bullock,67035,Michigan
+2022,01/16,Purple Raider Open,174,W,FALL,1:55,AJ Baxter,78105,Kent State,Jaden Bullock,67035,Michigan
+2022,01/16,Purple Raider Open,174,W,TF5,15 - 0 6:02,Anthony Cicciarelli,50435,West Virginia,Jaden Bullock,67035,Michigan
+2022,12/29,Illinois Matmen Open,174,W,MFOR,0 - 0,Joseph Walker,63717,Michigan,Jaden Bullock,67035,Michigan
+2022,12/29,Illinois Matmen Open,174,L,DEC,7 - 3,Gerrit Nijenhuis,62352,Purdue,Jaden Bullock,67035,Michigan
+2022,12/29,Illinois Matmen Open,174,L,DEC,10 - 4,Nate Dugan,57662,Princeton,Jaden Bullock,67035,Michigan
+2022,12/29,Illinois Matmen Open,174,W,MFOR,0 - 0,Trey Sizemore,62241,Illinois,Jaden Bullock,67035,Michigan
+2022,12/11,Cleveland State Open,174,L,DEC,3 - 1,Lucas Daly,71943,Michigan State,Jaden Bullock,67035,Michigan
+2022,12/11,Cleveland State Open,174,L,DEC,7 - 5,Christian Hansen,71809,Spartan Combat RTC,Jaden Bullock,67035,Michigan
+2022,12/11,Cleveland State Open,174,W,DEC,8 - 3,Coy Bastian,71757,Bucknell,Jaden Bullock,67035,Michigan
+2022,12/11,Cleveland State Open,174,W,FALL,0:33,Andrew Sharer,67440,West Virginia,Jaden Bullock,67035,Michigan
+2022,12/11,Cleveland State Open,174,W,TF5,17 - 1 7:00,Leonardo Galasso,73722,Central Michigan,Jaden Bullock,67035,Michigan
+2022,11/20,Findlay Open,174,L,DEC,4 - 3,Joseph Walker,63717,Michigan,Jaden Bullock,67035,Michigan
+2022,11/20,Findlay Open,174,W,FALL,0:19,Bret Fedewa,50920,Central Michigan,Jaden Bullock,67035,Michigan
+2022,11/20,Findlay Open,174,W,MFOR,0 - 0,Ty McGeary,62987,West Liberty University,Jaden Bullock,67035,Michigan
+2022,11/20,Findlay Open,174,W,MD,17 - 9,Kyle Saez,62526,Indianapolis,Jaden Bullock,67035,Michigan
+2022,11/20,Findlay Open,174,W,FALL,1:25,Mason Sutandar,70290,Ashland,Jaden Bullock,67035,Michigan
+2022,11/06,Michigan State Open,174,L,DEC,6 - 4,Troy Fisher,57601,Northwestern,Jaden Bullock,67035,Michigan
+2022,11/06,Michigan State Open,174,W,FALL,0:54,Drayton Harris,69357,Indiana,Jaden Bullock,67035,Michigan
+2022,11/06,Michigan State Open,174,L,DEC,6 - 2,Adam Kemp,57045,Cal Poly,Jaden Bullock,67035,Michigan
+2022,03/17,NCAA Championships,184,L,DEC,5 - 3,Aaron Brooks,54280,Penn State,Myles Amine,39586,Michigan
+2022,03/17,NCAA Championships,184,W,SV-1,3 - 1,Bernie Truax,51133,Cal Poly,Myles Amine,39586,Michigan
+2022,03/17,NCAA Championships,184,W,DEC,12 - 5,Zach Braunagel,50925,Illinois,Myles Amine,39586,Michigan
+2022,03/17,NCAA Championships,184,W,DEC,5 - 1,Dakota Geer,45373,Oklahoma State,Myles Amine,39586,Michigan
+2022,03/17,NCAA Championships,184,W,TF5,18 - 3 7:00,Colin McCracken,50064,Kent State,Myles Amine,39586,Michigan
+2022,03/05,Big Ten Championships,184,W,SV-1,6 - 4,Aaron Brooks,54280,Penn State,Myles Amine,39586,Michigan
+2022,03/05,Big Ten Championships,184,W,DEC,9 - 3,Isaiah Salazar,62340,Minnesota,Myles Amine,39586,Michigan
+2022,03/05,Big Ten Championships,184,W,DEC,4 - 2,Kaleb Romero,49252,Ohio State,Myles Amine,39586,Michigan
+2022,02/20,Michigan - Central Michigan Dual,184,W,MD,20 - 7,Ben Cushman,57359,Central Michigan,Myles Amine,39586,Michigan
+2022,02/13,Michigan - Michigan State Dual,184,W,DEC,8 - 4,Layne Malczewski,51828,Michigan State,Myles Amine,39586,Michigan
+2022,02/11,Michigan - Indiana Dual,184,W,TF5,22 - 3 7:00,Sean Grim,63021,Indiana,Myles Amine,39586,Michigan
+2022,02/04,Michigan - Nebraska Dual,184,W,DEC,8 - 2,Taylor Venz,44854,Nebraska,Myles Amine,39586,Michigan
+2022,01/30,Michigan - Maryland Dual,184,W,DEC,6 - 2,Kyle Cochran,49174,Maryland,Myles Amine,39586,Michigan
+2022,01/28,Minnesota - Michigan Dual,184,W,MD,12 - 4,Sam Skillings,67436,Minnesota,Myles Amine,39586,Michigan
+2022,01/21,Penn State - Michigan Dual,184,L,DEC,3 - 1,Aaron Brooks,54280,Penn State,Myles Amine,39586,Michigan
+2022,01/14,Michigan - Ohio State Dual,184,W,SV-1,3 - 1,Kaleb Romero,49252,Ohio State,Myles Amine,39586,Michigan
+2022,01/09,Michigan - Pittsburgh Dual,184,W,FALL,0:47,Nick Meglino,62803,Pittsburgh,Myles Amine,39586,Michigan
+2022,01/03,Arizona State Michigan ECM,184,W,TF5,17 - 2 4:28,Josh Nummer,62766,Arizona State,Myles Amine,39586,Michigan
+2022,12/29,Illinois Matmen Open,184,W,DEC,4 - 2,Mark Hall,77963,Unattached,Myles Amine,39586,Michigan
+2022,12/29,Illinois Matmen Open,184,W,DEC,7 - 1,Neil Antrassian,56202,Pennsylvania,Myles Amine,39586,Michigan
+2022,12/29,Illinois Matmen Open,184,W,FALL,1:51,Kendall Elfstrum,49299,Princeton,Myles Amine,39586,Michigan
+2022,12/29,Illinois Matmen Open,184,W,DEC,7 - 0,Brit Wilson,49235,Northern Illinois,Myles Amine,39586,Michigan
+2022,11/21,Michigan - Buffalo Dual,184,W,MD,16 - 5,Jake Lanning,49069,Buffalo,Jelani Embree,49179,Michigan
+2022,11/19,Michigan - Columbia Dual,184,W,MD,10 - 2,Brian Bonino,51034,Columbia,Jelani Embree,49179,Michigan
+2022,11/14,CSU Bakersfield - Michigan Dual,184,W,MD,13 - 3,Jacob Hansen,66542,CSU Bakersfield,Jelani Embree,49179,Michigan
+2022,03/17,NCAA Championships,197,L,DEC,3 - 2,Eric Schultz,44853,Nebraska,Patrick Brucki,49296,Michigan
+2022,03/17,NCAA Championships,197,L,DEC,3 - 1,Nino Bonaccorsi,49285,Pittsburgh,Patrick Brucki,49296,Michigan
+2022,03/17,NCAA Championships,197,W,SV-1,8 - 6,Jacob Cardenas,56770,Cornell,Patrick Brucki,49296,Michigan
+2022,03/17,NCAA Championships,197,L,DEC,6 - 3,Jake Woodley,49257,Oklahoma,Patrick Brucki,49296,Michigan
+2022,03/17,NCAA Championships,197,W,DEC,8 - 3,Ben Smith,56236,Cleveland State,Patrick Brucki,49296,Michigan
+2022,03/05,Big Ten Championships,197,W,DEC,3 - 1,Jacob Warner,49151,Iowa,Patrick Brucki,49296,Michigan
+2022,03/05,Big Ten Championships,197,W,DEC,4 - 2,Thomas Penola,57105,Purdue,Patrick Brucki,49296,Michigan
+2022,03/05,Big Ten Championships,197,W,DEC,8 - 3,Michial Foy,53189,Minnesota,Patrick Brucki,49296,Michigan
+2022,03/05,Big Ten Championships,197,L,DEC,3 - 2,Eric Schultz,44853,Nebraska,Patrick Brucki,49296,Michigan
+2022,02/20,Michigan - Central Michigan Dual,197,W,FALL,4:15,Aaron Bolo,50919,Central Michigan,Patrick Brucki,49296,Michigan
+2022,02/11,Michigan - Indiana Dual,197,W,SV-1,3 - 1,Nick Willham,62447,Indiana,Patrick Brucki,49296,Michigan
+2022,02/04,Michigan - Nebraska Dual,197,L,DEC,8 - 5,Eric Schultz,44853,Nebraska,Patrick Brucki,49296,Michigan
+2022,01/30,Michigan - Maryland Dual,197,L,SV-1,11 - 9,Jaron Smith,41353,Maryland,Patrick Brucki,49296,Michigan
+2022,01/28,Minnesota - Michigan Dual,197,W,DEC,8 - 2,Michial Foy,53189,Minnesota,Patrick Brucki,49296,Michigan
+2022,01/23,Rutgers - Michigan Dual,197,W,SV-1,4 - 2,Greg Bulsak,44655,Rutgers,Patrick Brucki,49296,Michigan
+2022,01/21,Penn State - Michigan Dual,197,L,SV-1,6 - 4,Max Dean,46025,Penn State,Patrick Brucki,49296,Michigan
+2022,01/14,Michigan - Ohio State Dual,197,W,DEC,5 - 2,Gavin Hoffman,50609,Ohio State,Patrick Brucki,49296,Michigan
+2022,01/09,Michigan - Pittsburgh Dual,197,W,DEC,6 - 3,Nino Bonaccorsi,49285,Pittsburgh,Patrick Brucki,49296,Michigan
+2022,12/03,CKLV Invitational,197,W,DEC,8 - 5,Gavin Hoffman,50609,Ohio State,Patrick Brucki,49296,Michigan
+2022,12/03,CKLV Invitational,197,L,MFOR,0 - 0,Luke Stout,62599,Princeton,Patrick Brucki,49296,Michigan
+2022,12/03,CKLV Invitational,197,L,MFOR,0 - 0,Thomas Penola,57105,Purdue,Patrick Brucki,49296,Michigan
+2022,12/03,CKLV Invitational,197,L,DEC,2 - 1,Stephen Buchanan,60451,Wyoming,Patrick Brucki,49296,Michigan
+2022,12/03,CKLV Invitational,197,W,FALL,4:14,Mateo Morales,71495,CSU Bakersfield,Patrick Brucki,49296,Michigan
+2022,12/03,CKLV Invitational,197,W,MD,13 - 3,Michial Foy,53189,Minnesota,Patrick Brucki,49296,Michigan
+2022,11/21,Michigan - Buffalo Dual,197,W,TF5,20 - 4 7:00,Sam Mitchell,61028,Buffalo,Patrick Brucki,49296,Michigan
+2022,11/19,Michigan - Columbia Dual,197,W,MD,13 - 5,Joe Franzese,57273,Columbia,Patrick Brucki,49296,Michigan
+2022,11/14,CSU Bakersfield - Michigan Dual,197,W,FALL,2:21,Josh Loomer,51232,CSU Bakersfield,Patrick Brucki,49296,Michigan
+2022,11/06,Michigan State Open,197,W,FALL,2:11,Brendan Devine,57086,Northwestern,Patrick Brucki,49296,Michigan
+2022,11/06,Michigan State Open,197,W,MD,13 - 3,Tyler Stein,56778,Ohio State,Patrick Brucki,49296,Michigan
+2022,11/06,Michigan State Open,197,W,DEC,9 - 3,Ryan Vasbinder,53358,Michigan State,Patrick Brucki,49296,Michigan
+2022,11/06,Michigan State Open,197,L,SV-1,4 - 2,Jake Woodley,49257,Oklahoma,Patrick Brucki,49296,Michigan
+2022,11/06,Michigan State Open,197,W,MD,11 - 2,Trent Tracy,56701,Cal Poly,Patrick Brucki,49296,Michigan
+2022,02/13,Michigan - Michigan State Dual,197,L,MD,17 - 7,Cameron Caffey,50273,Michigan State,Bobby Striggow,51240,Michigan
+2022,02/06,Edinboro Open,197,W,DEC,2 - 0,Brendin Yatooma,66965,Michigan,Bobby Striggow,51240,Michigan
+2022,02/06,Edinboro Open,197,L,DEC,4 - 3,Garrett Joles,50908,Minnesota,Bobby Striggow,51240,Michigan
+2022,02/06,Edinboro Open,197,W,DEC,5 - 2,Levko Higgins,50870,Penn State,Bobby Striggow,51240,Michigan
+2022,02/06,Edinboro Open,197,L,DEC,9 - 5,Jaxon Smith,68714,Maryland,Bobby Striggow,51240,Michigan
+2022,02/06,Edinboro Open,197,W,MD,9 - 0,Jack Kilner,65375,Edinboro,Bobby Striggow,51240,Michigan
+2022,02/06,Edinboro Open,197,W,DEC,6 - 2,Eli Sheeran,71783,Buffalo,Bobby Striggow,51240,Michigan
+2022,02/04,Nebraska Michigan ECM,197,L,DEC,5 - 3,Brandyn Van Tassell,67259,Nebraska,Bobby Striggow,51240,Michigan
+2022,01/30,Michigan Maryland ECM,197,W,DEC,5 - 1,Kevin Makosy,59551,Maryland,Bobby Striggow,51240,Michigan
+2022,01/23,Michigan Rutgers ECM,197,W,DEC,6 - 0,Kyle Epperly,62885,Rutgers,Bobby Striggow,51240,Michigan
+2022,01/09,Army Michigan ECM,197,W,TF5,18 - 1 5:35,Thomas Godbee,71643,Army West Point,Bobby Striggow,51240,Michigan
+2022,01/07,David Lehman Open,197,W,DEC,5 - 0,Cory Johnston,67439,Lock Haven,Bobby Striggow,51240,Michigan
+2022,01/07,David Lehman Open,197,L,DEC,5 - 3,Geoff Magin,62874,Pittsburgh,Bobby Striggow,51240,Michigan
+2022,01/07,David Lehman Open,197,L,DEC,4 - 3,Jack Brown,51262,Army West Point,Bobby Striggow,51240,Michigan
+2022,12/29,Illinois Matmen Open,197,L,DEC,5 - 2,Aidan Conner,57524,Princeton,Bobby Striggow,51240,Michigan
+2022,12/29,Illinois Matmen Open,197,L,DEC,2 - 0,Chris Kober,50022,Campbell,Bobby Striggow,51240,Michigan
+2022,12/29,Illinois Matmen Open,197,W,MD,13 - 2,Conor Maslanek,71006,Campbell,Bobby Striggow,51240,Michigan
+2022,12/11,Cleveland State Open,197,L,DEC,7 - 3,Evan Bates,72133,Northwestern,Bobby Striggow,51240,Michigan
+2022,12/11,Cleveland State Open,197,W,SV-1,8 - 6,Ethan Finch,72117,Pittsburgh,Bobby Striggow,51240,Michigan
+2022,12/11,Cleveland State Open,197,W,MFOR,0 - 0,Garrett Hoffman,44672,Indiana,Bobby Striggow,51240,Michigan
+2022,12/11,Cleveland State Open,197,W,DEC,6 - 5,Garrett Hoffman,44672,Indiana,Bobby Striggow,51240,Michigan
+2022,12/11,Cleveland State Open,197,L,DEC,1 - 0,Aaron Bolo,50919,Central Michigan,Bobby Striggow,51240,Michigan
+2022,11/21,Michigan - Buffalo Dual,285,L,DEC,2 - 0,Toby Cahill,49097,Buffalo,Bobby Striggow,51240,Michigan
+2022,11/06,Michigan State Open,197,L,DEC,12 - 5,Jake Woodley,49257,Oklahoma,Bobby Striggow,51240,Michigan
+2022,11/06,Michigan State Open,197,L,DEC,8 - 6,Trent Tracy,56701,Cal Poly,Bobby Striggow,51240,Michigan
+2022,02/20,Michigan Central Michigan ECM,197,W,DEC,6 - 1,Cade Dallwitz,60002,Central Michigan,JT Correll,45659,Michigan
+2022,02/06,Edinboro Open,197,L,DEC,4 - 3,Gabe Christenson,61850,Virginia,JT Correll,45659,Michigan
+2022,02/06,Edinboro Open,197,W,DEC,8 - 1,Kevin Makosy,59551,Maryland,JT Correll,45659,Michigan
+2022,02/06,Edinboro Open,197,W,TF5,16 - 1 5:45,Nick Lodato,72606,Edinboro,JT Correll,45659,Michigan
+2022,02/06,Edinboro Open,197,W,SV-1,6 - 4,Jack Kilner,65375,Edinboro,JT Correll,45659,Michigan
+2022,01/14,Ohio State Michigan ECM,197,L,DEC,6 - 4,Tyler Stein,56778,Ohio State,JT Correll,45659,Michigan
+2022,01/01,Southern Scuffle,197,L,DEC,9 - 6,Eli Sheeran,71783,Buffalo,JT Correll,45659,Michigan
+2022,01/01,Southern Scuffle,197,L,FALL,2:31,Tyler Mousaw,67432,VMI,JT Correll,45659,Michigan
+2022,11/19,Michigan - Columbia Dual,285,W,SV-1,9 - 3,Daniel Conley,51103,Columbia,JT Correll,45659,Michigan
+2022,11/06,Michigan State Open,197,W,DEC,10 - 6,Colin Jagielski,66266,Northern Illinois,JT Correll,45659,Michigan
+2022,11/06,Michigan State Open,197,L,DEC,19 - 13,Cameron Caffey,50273,Michigan State,JT Correll,45659,Michigan
+2022,11/06,Michigan State Open,197,L,MD,13 - 2,Andrew Davison,49178,Northwestern,JT Correll,45659,Michigan
+2022,11/06,Michigan State Open,197,W,DEC,6 - 3,Cade Dallwitz,60002,Central Michigan,JT Correll,45659,Michigan
+2022,02/06,Edinboro Open,197,L,DEC,2 - 0,Bobby Striggow,51240,Michigan,Brendin Yatooma,66965,Michigan
+2022,02/06,Edinboro Open,197,L,MFOR,0 - 0,Conor Maslanek,71006,Campbell,Brendin Yatooma,66965,Michigan
+2022,01/16,Purple Raider Open,197,W,MD,9 - 1,Joey King,76337,Notre Dame,Brendin Yatooma,66965,Michigan
+2022,01/16,Purple Raider Open,197,W,FALL,0:55,Wennds Myrtil,65309,Notre Dame,Brendin Yatooma,66965,Michigan
+2022,01/16,Purple Raider Open,197,L,DEC,8 - 1,Jack Kilner,65375,Edinboro,Brendin Yatooma,66965,Michigan
+2022,01/16,Purple Raider Open,197,W,MFOR,0 - 0,Brett Wittmann,66633,Clarion,Brendin Yatooma,66965,Michigan
+2022,01/16,Purple Raider Open,197,L,DEC,2 - 1,Nicholas Boykin,65950,Ohio State,Brendin Yatooma,66965,Michigan
+2022,12/11,Cleveland State Open,197,L,DEC,3 - 1,Nick Willham,62447,Indiana,Brendin Yatooma,66965,Michigan
+2022,12/11,Cleveland State Open,197,L,DEC,3 - 0,Cade Dallwitz,60002,Central Michigan,Brendin Yatooma,66965,Michigan
+2022,11/20,Findlay Open,197,W,SV-1,3 - 1,Kolby Franklin,73803,High School,Brendin Yatooma,66965,Michigan
+2022,11/20,Findlay Open,197,L,TB-1,4 - 3,Tyler Stein,56778,Ohio State,Brendin Yatooma,66965,Michigan
+2022,11/20,Findlay Open,197,W,DEC,5 - 1,Nick Lodato,72606,Edinboro,Brendin Yatooma,66965,Michigan
+2022,11/20,Findlay Open,197,W,MD,10 - 1,Keaton Grider,74002,West Liberty University,Brendin Yatooma,66965,Michigan
+2022,11/20,Findlay Open,197,W,DEC,2 - 1,Kaine Morris,74688,Ashland,Brendin Yatooma,66965,Michigan
+2022,11/06,Michigan State Open,197,L,DEC,3 - 2,Matt Zuber,66265,Northern Illinois,Brendin Yatooma,66965,Michigan
+2022,11/06,Michigan State Open,197,L,DEC,3 - 2,Ryan Vasbinder,53358,Michigan State,Brendin Yatooma,66965,Michigan
+2022,03/17,NCAA Championships,285,W,DEC,8 - 5,Lucas Davison,51236,Northwestern,Mason Parris,51176,Michigan
+2022,03/17,NCAA Championships,285,L,DEC,6 - 1,Greg Kerkvliet,61842,Penn State,Mason Parris,51176,Michigan
+2022,03/17,NCAA Championships,285,W,DEC,11 - 5,Anthony Cassioppi,50650,Iowa,Mason Parris,51176,Michigan
+2022,03/17,NCAA Championships,285,W,MD,12 - 1,Tate Orndorff,50974,Ohio State,Mason Parris,51176,Michigan
+2022,03/17,NCAA Championships,285,L,DEC,6 - 5,Cohlton Schultz,56899,Arizona State,Mason Parris,51176,Michigan
+2022,03/17,NCAA Championships,285,W,DEC,7 - 3,Nathan Traxler,45395,Virginia Tech,Mason Parris,51176,Michigan
+2022,03/17,NCAA Championships,285,W,MD,17 - 5,Ben Goldin,50827,Pennsylvania,Mason Parris,51176,Michigan
+2022,03/05,Big Ten Championships,285,L,DEC,5 - 3,Greg Kerkvliet,61842,Penn State,Mason Parris,51176,Michigan
+2022,03/05,Big Ten Championships,285,W,DEC,8 - 2,Luke Luffman,56708,Illinois,Mason Parris,51176,Michigan
+2022,03/05,Big Ten Championships,285,W,DEC,7 - 2,Lucas Davison,51236,Northwestern,Mason Parris,51176,Michigan
+2022,03/05,Big Ten Championships,285,L,MD,14 - 6,Gable Steveson,50624,Minnesota,Mason Parris,51176,Michigan
+2022,03/05,Big Ten Championships,285,W,TF5,18 - 3 5:15,Brad Wilton,49187,Michigan State,Mason Parris,51176,Michigan
+2022,02/20,Michigan - Central Michigan Dual,285,W,DEC,7 - 4,Matt Stencel,44592,Central Michigan,Mason Parris,51176,Michigan
+2022,02/11,Michigan - Indiana Dual,285,W,FALL,0:25,Jacob Bullock,57724,Indiana,Mason Parris,51176,Michigan
+2022,02/04,Michigan - Nebraska Dual,285,W,DEC,4 - 1,Christian Lance,41064,Nebraska,Mason Parris,51176,Michigan
+2022,01/30,Michigan - Maryland Dual,285,W,TF5,21 - 4 4:56,Zach Schrader,45168,Maryland,Mason Parris,51176,Michigan
+2022,01/28,Minnesota - Michigan Dual,285,L,MD,18 - 8,Gable Steveson,50624,Minnesota,Mason Parris,51176,Michigan
+2022,01/23,Rutgers - Michigan Dual,285,W,FALL,5:00,Boone McDermott,56898,Rutgers,Mason Parris,51176,Michigan
+2022,01/21,Penn State - Michigan Dual,285,L,DEC,8 - 5,Greg Kerkvliet,61842,Penn State,Mason Parris,51176,Michigan
+2022,01/14,Michigan - Ohio State Dual,285,W,FALL,2:21,Tate Orndorff,50974,Ohio State,Mason Parris,51176,Michigan
+2022,01/09,Michigan - Pittsburgh Dual,285,W,MD,12 - 4,Jacob Slinger,57307,Pittsburgh,Mason Parris,51176,Michigan
+2022,12/11,Cleveland State Open,285,W,FALL,2:01,Andy Garcia,69566,Kent State,Mason Parris,51176,Michigan
+2022,12/11,Cleveland State Open,285,W,MD,14 - 1,Jacob Cover,57237,Kent State,Mason Parris,51176,Michigan
+2022,12/11,Cleveland State Open,285,W,MD,13 - 3,Andrew Irick,63716,Indiana,Mason Parris,51176,Michigan
+2022,12/11,Cleveland State Open,285,W,FALL,6:02,Jacob Bullock,57724,Indiana,Mason Parris,51176,Michigan
+2022,12/11,Cleveland State Open,285,W,TF5,21 - 6 7:00,John Kelbly,50329,Cleveland State,Mason Parris,51176,Michigan
+2022,12/03,CKLV Invitational,285,L,FALL,2:02,Lee Herrington,56179,Nebraska-Kearney,Blake Querio,62566,Michigan
+2022,12/03,CKLV Invitational,285,L,DEC,6 - 0,Brian Andrews,50489,Wyoming,Blake Querio,62566,Michigan
+2022,11/14,CSU Bakersfield - Michigan Dual,285,W,SV-1,5 - 3,Jake Andrews,73174,CSU Bakersfield,Blake Querio,62566,Michigan
+2022,11/06,Michigan State Open,285,W,FALL,4:56,Jacob Charette,70766,Findlay,Blake Querio,62566,Michigan
+2022,11/06,Michigan State Open,285,L,DEC,3 - 0,Peter Christensen,57076,Wisconsin,Blake Querio,62566,Michigan
+2022,11/06,Michigan State Open,285,W,FALL,5:08,Terrese Aaron,51827,Northern Illinois,Blake Querio,62566,Michigan
+2022,11/06,Michigan State Open,285,L,TF5,22 - 7 7:00,Jon Spaulding,50330,Edinboro,Blake Querio,62566,Michigan
+2022,02/13,Michigan - Michigan State Dual,285,L,FALL,1:36,Brad Wilton,49187,Michigan State,Zachery Nemec,49183,Michigan
+2022,02/06,Edinboro Open,285,L,DEC,3 - 2,Nick West,73022,Michigan State,Zachery Nemec,49183,Michigan
+2022,02/06,Edinboro Open,285,L,DEC,11 - 4,Nathan Taylor,73044,Lehigh,Zachery Nemec,49183,Michigan
+2022,02/06,Edinboro Open,285,W,FALL,0:43,Ethan Andersen,44788,Iowa State,Zachery Nemec,49183,Michigan
+2022,02/06,Edinboro Open,285,L,FALL,2:28,Michael Misita,72583,Ohio State,Keegan Nugent,71974,Michigan
+2022,02/06,Edinboro Open,285,W,DEC,7 - 3,Max Millin,66911,Edinboro,Keegan Nugent,71974,Michigan
+2022,02/06,Edinboro Open,285,L,FALL,5:54,Reynold Maines,39928,Clarion,Keegan Nugent,71974,Michigan
+2022,02/06,Edinboro Open,285,W,MD,8 - 0,Simon Lato,70019,Central Michigan,Keegan Nugent,71974,Michigan
+2022,01/16,Purple Raider Open,285,W,DEC,8 - 2,Jayson Roy,78108,Unattached,Keegan Nugent,71974,Michigan
+2022,01/16,Purple Raider Open,285,W,MFOR,0 - 0,Hogan Swenski,73186,Ohio State,Keegan Nugent,71974,Michigan
+2022,01/16,Purple Raider Open,285,W,DEC,6 - 2,Michael Misita,72583,Ohio State,Keegan Nugent,71974,Michigan
+2022,12/11,Cleveland State Open,285,L,MD,9 - 1,Dzhabrail Khurshidov,73465,Michigan,Keegan Nugent,71974,Michigan
+2022,12/11,Cleveland State Open,285,L,DEC,6 - 3,Blake Chrisman,65493,Kent State,Keegan Nugent,71974,Michigan
+2022,12/11,Cleveland State Open,285,W,DEC,6 - 2,Rager Els,71146,Cleveland State,Keegan Nugent,71974,Michigan
+2022,11/20,Findlay Open,285,L,DEC,1 - 0,Dzhabrail Khurshidov,73465,Michigan,Keegan Nugent,71974,Michigan
+2022,11/20,Findlay Open,285,L,FALL,2:07,Bryan Caves,71791,Central Michigan,Keegan Nugent,71974,Michigan
+2022,11/20,Findlay Open,285,W,FALL,3:50,Jacob Noon,67223,Tiffin University,Keegan Nugent,71974,Michigan
+2022,11/20,Findlay Open,285,W,FALL,4:08,Laron Parks,67092,Notre Dame,Keegan Nugent,71974,Michigan
+2022,11/06,Michigan State Open,285,W,FALL,4:38,Wyatt Bailey,74300,Ashland,Keegan Nugent,71974,Michigan
+2022,11/06,Michigan State Open,285,W,DEC,7 - 2,Jordan Schell,72218,Edinboro,Keegan Nugent,71974,Michigan
+2022,11/06,Michigan State Open,285,L,DEC,6 - 3,Mason Cover,72597,Cleveland State,Keegan Nugent,71974,Michigan
+2022,11/06,Michigan State Open,285,L,DEC,6 - 2,Bryan Caves,71791,Central Michigan,Keegan Nugent,71974,Michigan
+2022,12/11,Cleveland State Open,285,W,DEC,2 - 0,Nick West,73022,Michigan State,Dzhabrail Khurshidov,73465,Michigan
+2022,12/11,Cleveland State Open,285,W,MD,9 - 1,Keegan Nugent,71974,Michigan,Dzhabrail Khurshidov,73465,Michigan
+2022,12/11,Cleveland State Open,285,L,FALL,4:43,Jacob Bullock,57724,Indiana,Dzhabrail Khurshidov,73465,Michigan
+2022,12/11,Cleveland State Open,285,L,FALL,1:19,John Kelbly,50329,Cleveland State,Dzhabrail Khurshidov,73465,Michigan
+2022,12/11,Cleveland State Open,285,W,DEC,5 - 0,Simon Lato,70019,Central Michigan,Dzhabrail Khurshidov,73465,Michigan
+2022,11/20,Findlay Open,285,W,DEC,1 - 0,Keegan Nugent,71974,Michigan,Dzhabrail Khurshidov,73465,Michigan
+2022,11/20,Findlay Open,285,W,FALL,3:45,Nate Lloyd,57555,Wisconsin-Parkside,Dzhabrail Khurshidov,73465,Michigan
+2022,11/20,Findlay Open,285,W,MD,12 - 3,Clarouly Meca,70861,Wheeling,Dzhabrail Khurshidov,73465,Michigan
+2022,11/20,Findlay Open,285,L,MD,12 - 4,Laron Parks,67092,Notre Dame,Dzhabrail Khurshidov,73465,Michigan
+2022,11/20,Findlay Open,285,W,FALL,0:48,Michael DeLuca,71390,Mercyhurst,Dzhabrail Khurshidov,73465,Michigan
+2022,11/20,Findlay Open,285,L,DEC,3 - 2,Jay Thompson,67583,Indianapolis,Dzhabrail Khurshidov,73465,Michigan
+2022,02/06,Edinboro Open,285,L,TF5,16 - 0 2:48,Ryan Vasbinder,53358,Michigan State,Austin Jordan,73464,Michigan
+2022,02/06,Edinboro Open,285,W,DEC,5 - 2,Sam O'Brian,72104,Maryland,Austin Jordan,73464,Michigan
+2022,02/06,Edinboro Open,285,L,DEC,3 - 2,Simon Lato,70019,Central Michigan,Austin Jordan,73464,Michigan
+2022,01/16,Purple Raider Open,285,L,INJ,7:00,Jayson Roy,78108,Unattached,Austin Jordan,73464,Michigan
+2022,01/16,Purple Raider Open,285,W,DEC,8 - 3,Matt Micale,75983,Lake Erie College,Austin Jordan,73464,Michigan
+2022,01/16,Purple Raider Open,285,L,DEC,9 - 2,Laron Parks,67092,Notre Dame,Austin Jordan,73464,Michigan
+2022,01/16,Purple Raider Open,285,L,DEC,2 - 0,Robert Unruh,69772,Buffalo,Austin Jordan,73464,Michigan
+2022,12/11,Cleveland State Open,285,L,DEC,7 - 2,Mason Cover,72597,Cleveland State,Austin Jordan,73464,Michigan
+2022,12/11,Cleveland State Open,285,L,MD,9 - 1,Bryan Caves,71791,Central Michigan,Austin Jordan,73464,Michigan
+2022,12/11,Cleveland State Open,285,W,DEC,5 - 2,Simon Lato,70019,Central Michigan,Austin Jordan,73464,Michigan
+2022,11/06,Michigan State Open,285,W,FALL,0:07,Mario Harkonen,74302,Cornerstone,Austin Jordan,73464,Michigan
+2022,11/06,Michigan State Open,285,L,DEC,6 - 0,Jacob Christiansen,73347,Northern Illinois,Austin Jordan,73464,Michigan
+2022,11/06,Michigan State Open,285,L,DEC,5 - 4,Nick West,73022,Michigan State,Austin Jordan,73464,Michigan

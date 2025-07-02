@@ -1,0 +1,659 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2023,03/05,Big Ten True Matches,125,W,MD,8 - 0,Andre Gonzales,72135,Ohio State,Tristan Lujan,63015,Michigan State
+2023,03/05,Big Ten True Matches,125,W,DEC,6 - 5,Gary Steen,68731,Penn State,Tristan Lujan,63015,Michigan State
+2023,03/05,Big Ten True Matches,125,L,DEC,7 - 4,Braxton Brown,72103,Maryland,Tristan Lujan,63015,Michigan State
+2023,03/04,Big Ten Championships,125,W,DEC,4 - 1,Andre Gonzales,72135,Ohio State,Tristan Lujan,63015,Michigan State
+2023,03/04,Big Ten Championships,125,L,DEC,4 - 1,Eric Barnett,56753,Wisconsin,Tristan Lujan,63015,Michigan State
+2023,03/04,Big Ten Championships,125,L,DEC,5 - 1,Michael DeAugustino,56007,Northwestern,Tristan Lujan,63015,Michigan State
+2023,02/17,Michigan State - Central Michigan Dual,125,L,DEC,6 - 2,Sean Spidle,63063,Central Michigan,Tristan Lujan,63015,Michigan State
+2023,02/10,Indiana - Michigan State Dual,125,W,DEC,1 - 0,Jacob Moran,63550,Indiana,Tristan Lujan,63015,Michigan State
+2023,01/29,Michigan State - Ohio State Dual,125,L,DEC,3 - 2,Malik Heinselman,50611,Ohio State,Tristan Lujan,63015,Michigan State
+2023,01/27,Maryland - Michigan State Dual,125,L,DEC,4 - 1,Braxton Brown,72103,Maryland,Tristan Lujan,63015,Michigan State
+2023,01/22,Michigan State - Penn State Dual,125,L,SV-1,3 - 1,Gary Steen,68731,Penn State,Tristan Lujan,63015,Michigan State
+2023,01/20,Michigan State - Rutgers Dual,125,L,DEC,6 - 3,Dean Peterson,72936,Rutgers,Tristan Lujan,63015,Michigan State
+2023,01/15,Michigan State - Minnesota Dual,125,L,DEC,5 - 1,Patrick McKee,50594,Minnesota,Tristan Lujan,63015,Michigan State
+2023,01/13,Michigan - Michigan State Dual,125,L,DEC,6 - 3,Jack Medley,51392,Michigan,Tristan Lujan,63015,Michigan State
+2023,01/06,Bucknell - Michigan State Dual,125,W,MD,14 - 5,Grayson McLellan,79295,Bucknell,Tristan Lujan,63015,Michigan State
+2023,12/18,Reno TOC,125,W,TF5,18 - 2 7:00,Thomas Lavigne,77220,Clackamas Community College,Tristan Lujan,63015,Michigan State
+2023,12/18,Reno TOC,125,W,DEC,4 - 2,Esco Walker,75882,Grand View,Tristan Lujan,63015,Michigan State
+2023,12/18,Reno TOC,125,W,TF5,19 - 4 5:28,Christian Vasquez,75001,Menlo,Tristan Lujan,63015,Michigan State
+2023,12/18,Reno TOC,125,W,DEC,5 - 4,Jore Volk,72600,Wyoming,Tristan Lujan,63015,Michigan State
+2023,12/18,Reno TOC,125,L,DEC,5 - 2,Trevor Mastrogiovanni,57608,Oklahoma State,Tristan Lujan,63015,Michigan State
+2023,12/04,Michigan State - Binghamton Dual,125,W,DEC,2 - 1,Micah Roes,67299,Binghamton,Tristan Lujan,63015,Michigan State
+2023,11/19,Navy Classic,125,W,DEC,1 - 0,Oscar Sanchez,57320,Ohio,Tristan Lujan,63015,Michigan State
+2023,11/19,Navy Classic,125,W,MFOR,0 - 0,Jake Ferri,51179,Kent State,Tristan Lujan,63015,Michigan State
+2023,11/19,Navy Classic,125,W,DEC,3 - 1,Tucker Owens,71711,Air Force,Tristan Lujan,63015,Michigan State
+2023,11/19,Navy Classic,125,W,MD,8 - 0,Shamil Kalmatov,72680,American,Tristan Lujan,63015,Michigan State
+2023,11/18,Michigan State - American Dual,125,W,DEC,3 - 0,Raymond Lopez,71769,American,Tristan Lujan,63015,Michigan State
+2023,11/12,Michigan State - Presbyterian Dual,125,W,MD,15 - 5,Brayden Adams,78607,Presbyterian,Tristan Lujan,63015,Michigan State
+2023,11/11,Michigan State - Davidson Dual,125,W,FALL,4:52,Devon Diaco,78849,Davidson,Tristan Lujan,63015,Michigan State
+2023,02/05,Illinois - Michigan State Dual,125,L,DEC,5 - 1,Maximo Renteria,71870,Illinois,Benny Gomez,47503,Michigan State
+2023,12/18,Reno TOC,125,W,FALL,1:39,Sefton Douglass,78673,Western Wyoming College,Benny Gomez,47503,Michigan State
+2023,12/18,Reno TOC,125,W,FALL,1:47,Mikey Doerr,78671,Southwestern Oregon Community College,Benny Gomez,47503,Michigan State
+2023,12/18,Reno TOC,125,L,INJ,0:17,Jore Volk,72600,Wyoming,Benny Gomez,47503,Michigan State
+2023,12/18,Reno TOC,125,W,DEC,4 - 1,Jacob Moran,63550,Indiana,Benny Gomez,47503,Michigan State
+2023,12/18,Reno TOC,125,L,FALL,2:36,Trevor Mastrogiovanni,57608,Oklahoma State,Benny Gomez,47503,Michigan State
+2023,12/10,Michigan State - Brown Dual,125,W,MD,9 - 1,Shane Hanson-Ashworth,57718,Brown,Benny Gomez,47503,Michigan State
+2023,11/19,Navy Classic,125,W,DEC,2 - 0,Tommy Hoskins,50613,Ohio,Benny Gomez,47503,Michigan State
+2023,11/19,Navy Classic,125,L,DEC,8 - 3,Anthony Noto,64642,Lock Haven,Benny Gomez,47503,Michigan State
+2023,11/19,Navy Classic,125,L,MFOR,0 - 0,Quinn Melofchik,61895,Air Force,Benny Gomez,47503,Michigan State
+2023,11/05,Michigan State Open,125,L,TB-1,3 - 1,Blake West,73337,Northern Illinois,Benny Gomez,47503,Michigan State
+2023,11/05,Michigan State Open,125,W,SV-1,3 - 1,Andre Gonzales,72135,Ohio State,Benny Gomez,47503,Michigan State
+2023,11/05,Michigan State Open,125,L,MFOR,0 - 0,Brady Koontz,50853,Ohio State,Benny Gomez,47503,Michigan State
+2023,11/05,Michigan State Open,125,W,FALL,0:21,Tommy Hoskins,50613,Ohio,Benny Gomez,47503,Michigan State
+2023,11/05,Michigan State Open,125,L,TB-1,2 - 1,Joey Prata,44734,Oklahoma,Benny Gomez,47503,Michigan State
+2023,01/21,Alma College Open,125,W,FALL,4:52,Gage Houghtaling,83732,Ferris State,Andrew Hampton,73020,Michigan State
+2023,01/21,Alma College Open,125,W,DEC,5 - 0,Jacob Blawat,77105,Muskegon Community College,Andrew Hampton,73020,Michigan State
+2023,01/21,Alma College Open,125,W,DEC,7 - 1,Nick Corday,70986,Michigan State,Andrew Hampton,73020,Michigan State
+2023,01/15,Purple Raider Open,125,L,DEC,6 - 1,Cooper Flynn,72148,Virginia Tech,Andrew Hampton,73020,Michigan State
+2023,01/15,Purple Raider Open,125,W,FALL,1:56,Nick Corday,70986,Michigan State,Andrew Hampton,73020,Michigan State
+2023,01/15,Purple Raider Open,125,W,DEC,6 - 2,Colton Drousias,63171,West Virginia,Andrew Hampton,73020,Michigan State
+2023,01/15,Purple Raider Open,125,W,MD,14 - 4,Eamonn Jimenez,78779,Edinboro,Andrew Hampton,73020,Michigan State
+2023,12/11,Cleveland State Open,125,L,DEC,5 - 4,Nick Molchak,78590,Cleveland State,Andrew Hampton,73020,Michigan State
+2023,12/11,Cleveland State Open,125,L,DEC,9 - 5,Andre Gonzales,72135,Ohio State,Andrew Hampton,73020,Michigan State
+2023,12/11,Cleveland State Open,125,W,FALL,1:48,Ryan King,79437,King,Andrew Hampton,73020,Michigan State
+2023,11/05,Michigan State Open,125,W,TF5,16 - 1 7:00,Anthony Sagaris,72639,Lake Erie College,Andrew Hampton,73020,Michigan State
+2023,11/05,Michigan State Open,125,L,DEC,8 - 3,Sammie Hayes,73128,Illinois,Andrew Hampton,73020,Michigan State
+2023,11/05,Michigan State Open,125,L,DEC,12 - 10,Nick Molchak,78590,Cleveland State,Andrew Hampton,73020,Michigan State
+2023,02/05,Edinboro Open,125,W,DEC,7 - 3,Blake Sheppard,64638,Lake Erie College,Nick Corday,70986,Michigan State
+2023,02/05,Edinboro Open,125,L,TF5,21 - 3 4:42,Jax Forrest,81114,Unattached,Nick Corday,70986,Michigan State
+2023,02/05,Edinboro Open,125,W,DEC,2 - 1,Foster Cardinale,77874,Spartan Combat RTC,Nick Corday,70986,Michigan State
+2023,02/05,Edinboro Open,125,L,FALL,3:53,Sheldon Seymour,62339,Lehigh,Nick Corday,70986,Michigan State
+2023,01/21,Alma College Open,125,L,DEC,7 - 1,Andrew Hampton,73020,Michigan State,Nick Corday,70986,Michigan State
+2023,01/21,Alma College Open,125,W,MD,11 - 0,Michael Tharpe,82621,Indiana Tech,Nick Corday,70986,Michigan State
+2023,01/21,Alma College Open,125,W,MD,10 - 0,Tyler Demory,80748,Alma College,Nick Corday,70986,Michigan State
+2023,01/15,Purple Raider Open,125,L,FALL,1:56,Andrew Hampton,73020,Michigan State,Nick Corday,70986,Michigan State
+2023,01/15,Purple Raider Open,125,L,FALL,6:30,Jordan Rodriguez,69533,Lake Erie College,Nick Corday,70986,Michigan State
+2023,01/15,Purple Raider Open,125,W,DEC,9 - 2,Kyle Burkholder,60547,Seton Hill,Nick Corday,70986,Michigan State
+2023,01/15,Purple Raider Open,125,L,TF5,17 - 2 7:00,Nolan Wertanen,78523,Michigan,Nick Corday,70986,Michigan State
+2023,12/11,Cleveland State Open,125,L,FALL,6:58,Nick Molchak,78590,Cleveland State,Nick Corday,70986,Michigan State
+2023,12/11,Cleveland State Open,125,L,DEC,4 - 2,Kooper Loehr,62509,Purdue,Nick Corday,70986,Michigan State
+2023,11/05,Michigan State Open,125,L,DEC,4 - 1,Anthony Sagaris,72639,Lake Erie College,Nick Corday,70986,Michigan State
+2023,11/05,Michigan State Open,125,L,TF5,16 - 0 7:00,Nolan Wertanen,78523,Michigan,Nick Corday,70986,Michigan State
+2023,11/05,Michigan State Open,125,W,DEC,3 - 2,Nick Molchak,78590,Cleveland State,Nick Corday,70986,Michigan State
+2023,03/05,Big Ten True Matches,133,L,FALL,2:04,Dustin Norris,72154,Purdue,Rayvon Foley,50823,Michigan State
+2023,03/04,Big Ten Championships,133,L,DEC,5 - 2,Joe Heilmann,51223,Rutgers,Rayvon Foley,50823,Michigan State
+2023,03/04,Big Ten Championships,133,L,DEC,4 - 1,Brody Teske,52779,Iowa,Rayvon Foley,50823,Michigan State
+2023,02/17,Michigan State - Central Michigan Dual,133,W,MD,10 - 2,Vince Perez,60001,Central Michigan,Rayvon Foley,50823,Michigan State
+2023,02/10,Indiana - Michigan State Dual,133,L,DEC,10 - 5,Henry Porter,71920,Indiana,Rayvon Foley,50823,Michigan State
+2023,02/05,Illinois - Michigan State Dual,133,L,DEC,8 - 1,Lucas Byrd,56714,Illinois,Rayvon Foley,50823,Michigan State
+2023,01/29,Michigan State - Ohio State Dual,133,L,MD,10 - 2,Jesse Mendez,74054,Ohio State,Rayvon Foley,50823,Michigan State
+2023,01/27,Maryland - Michigan State Dual,133,W,TF5,17 - 2 7:00,Conner Quinn,72582,Maryland,Rayvon Foley,50823,Michigan State
+2023,01/22,Michigan State - Penn State Dual,133,L,FALL,6:26,Roman Bravo-Young,49665,Penn State,Rayvon Foley,50823,Michigan State
+2023,01/20,Michigan State - Rutgers Dual,133,L,DEC,4 - 3,Joe Heilmann,51223,Rutgers,Rayvon Foley,50823,Michigan State
+2023,01/15,Michigan State - Minnesota Dual,133,L,DEC,9 - 4,Aaron Nagao,63016,Minnesota,Rayvon Foley,50823,Michigan State
+2023,01/13,Michigan - Michigan State Dual,133,W,MD,12 - 4,Dylan Ragusin,63153,Michigan,Rayvon Foley,50823,Michigan State
+2023,01/06,Bucknell - Michigan State Dual,133,W,DEC,5 - 4,Kurt Phipps,63966,Bucknell,Rayvon Foley,50823,Michigan State
+2023,12/18,Reno TOC,133,L,DEC,8 - 3,Aden Valencia,83352,High School,Rayvon Foley,50823,Michigan State
+2023,12/18,Reno TOC,133,W,TF5,19 - 3 3:59,Isaiah Rubio,82333,Western Wyoming College,Rayvon Foley,50823,Michigan State
+2023,12/18,Reno TOC,133,W,TF5,15 - 0 4:01,Ricky Bell,67731,Oregon State,Rayvon Foley,50823,Michigan State
+2023,12/18,Reno TOC,133,L,FALL,2:51,Josh Kyle,67456,Wyoming,Rayvon Foley,50823,Michigan State
+2023,12/10,Michigan State - Brown Dual,133,W,MD,11 - 3,Hunter Adrian,65842,Brown,Rayvon Foley,50823,Michigan State
+2023,12/04,Michigan State - Princeton Dual,133,W,DEC,11 - 6,Sean Pierson,60443,Princeton,Rayvon Foley,50823,Michigan State
+2023,12/04,Michigan State - Binghamton Dual,133,W,MD,13 - 1,Anthony Sobotker,60378,Binghamton,Rayvon Foley,50823,Michigan State
+2023,11/18,Michigan State - American Dual,133,W,DEC,8 - 3,Jack Maida,72679,American,Rayvon Foley,50823,Michigan State
+2023,11/12,Michigan State - Presbyterian Dual,133,W,TF5,19 - 4 7:00,Jacob Brasseur,61212,Presbyterian,Rayvon Foley,50823,Michigan State
+2023,11/11,Michigan State - Davidson Dual,133,W,TF5,18 - 3 6:32,Jackson Sichelstiel,78851,Davidson,Rayvon Foley,50823,Michigan State
+2023,03/05,Big Ten True Matches,141,L,DEC,10 - 3,Cayden Rooks,56710,Indiana,Jordan Hamdan,57705,Michigan State
+2023,03/04,Big Ten Championships,141,L,SV-1,7 - 5,Jake Bergeland,49189,Minnesota,Jordan Hamdan,57705,Michigan State
+2023,03/04,Big Ten Championships,141,L,DEC,7 - 2,Cayden Rooks,56710,Indiana,Jordan Hamdan,57705,Michigan State
+2023,02/17,Michigan State - Central Michigan Dual,141,W,DEC,6 - 4,Mason Breece,57362,Central Michigan,Jordan Hamdan,57705,Michigan State
+2023,02/10,Indiana - Michigan State Dual,141,L,DEC,12 - 5,Cayden Rooks,56710,Indiana,Jordan Hamdan,57705,Michigan State
+2023,01/29,Michigan State - Ohio State Dual,141,L,FALL,6:23,Dylan D'Emilio,56726,Ohio State,Jordan Hamdan,57705,Michigan State
+2023,01/27,Maryland - Michigan State Dual,141,W,DEC,2 - 1,Kal Miller,72211,Maryland,Jordan Hamdan,57705,Michigan State
+2023,01/22,Michigan State - Penn State Dual,141,L,DEC,7 - 1,Beau Bartlett,62221,Penn State,Jordan Hamdan,57705,Michigan State
+2023,01/20,Michigan State - Rutgers Dual,141,L,MD,16 - 4,Joey Olivieri,67238,Rutgers,Jordan Hamdan,57705,Michigan State
+2023,01/15,Michigan State - Minnesota Dual,141,L,DEC,3 - 2,Jake Bergeland,49189,Minnesota,Jordan Hamdan,57705,Michigan State
+2023,01/13,Michigan - Michigan State Dual,141,L,MD,11 - 3,Cole Mattin,57715,Michigan,Jordan Hamdan,57705,Michigan State
+2023,01/06,Bucknell - Michigan State Dual,141,L,TB-2,2 - 1,Dylan Chappell,71754,Bucknell,Jordan Hamdan,57705,Michigan State
+2023,12/18,Reno TOC,141,W,DEC,7 - 3,Ben Murphy,76251,Grand View,Jordan Hamdan,57705,Michigan State
+2023,12/18,Reno TOC,141,W,DEC,4 - 0,Brennan Van Hoecke,74571,Little Rock,Jordan Hamdan,57705,Michigan State
+2023,12/18,Reno TOC,141,W,DEC,6 - 2,Louie Ramos,73173,CSU Bakersfield,Jordan Hamdan,57705,Michigan State
+2023,12/18,Reno TOC,141,W,DEC,6 - 2,Steven Kroesen,64293,Vanguard University,Jordan Hamdan,57705,Michigan State
+2023,12/18,Reno TOC,141,W,DEC,7 - 2,Chayse LaJoie,62878,Stanford,Jordan Hamdan,57705,Michigan State
+2023,12/18,Reno TOC,141,W,DEC,3 - 2,Andrew Bloemhof,62861,Oklahoma State,Jordan Hamdan,57705,Michigan State
+2023,12/10,Michigan State - Brown Dual,141,W,DEC,5 - 1,Nicky Cabanillas,57513,Brown,Jordan Hamdan,57705,Michigan State
+2023,12/04,Michigan State - Princeton Dual,141,W,DEC,11 - 4,Danny Coles,54117,Princeton,Jordan Hamdan,57705,Michigan State
+2023,12/04,Michigan State - Binghamton Dual,141,W,DEC,5 - 0,Nathan Lucier,71763,Binghamton,Jordan Hamdan,57705,Michigan State
+2023,11/19,Navy Classic,141,W,DEC,6 - 5,Luke Lucerne,67546,Navy,Jordan Hamdan,57705,Michigan State
+2023,11/19,Navy Classic,141,W,MD,9 - 1,Zackery Zeamer,57141,Lock Haven,Jordan Hamdan,57705,Michigan State
+2023,11/19,Navy Classic,141,L,INJ,5:00,Louis Newell,50916,Kent State,Jordan Hamdan,57705,Michigan State
+2023,11/19,Navy Classic,141,L,DEC,4 - 1,Dylan Chappell,71754,Bucknell,Jordan Hamdan,57705,Michigan State
+2023,11/19,Navy Classic,141,W,DEC,7 - 3,Jacob Silka,78557,The Citadel,Jordan Hamdan,57705,Michigan State
+2023,11/19,Navy Classic,141,L,MFOR,0 - 0,Garrett Kuchan,69522,Air Force,Jordan Hamdan,57705,Michigan State
+2023,11/18,Michigan State - American Dual,141,W,DEC,4 - 1,Elijah White,69903,American,Jordan Hamdan,57705,Michigan State
+2023,11/11,Michigan State - Davidson Dual,141,W,FALL,5:33,Matthew McLaughlin,70742,Davidson,Jordan Hamdan,57705,Michigan State
+2023,11/05,Michigan State Open,141,W,FALL,2:03,Jackson Oplotnik,69978,Oklahoma,Jordan Hamdan,57705,Michigan State
+2023,11/05,Michigan State Open,141,W,DEC,4 - 2,Blake Noonan,67008,Michigan State,Jordan Hamdan,57705,Michigan State
+2023,11/05,Michigan State Open,141,L,FALL,4:06,Jaivon Jones,62724,Northern Illinois,Jordan Hamdan,57705,Michigan State
+2023,11/05,Michigan State Open,141,L,DEC,3 - 1,Jordan Decatur,56727,Ohio State,Jordan Hamdan,57705,Michigan State
+2023,11/05,Michigan State Open,141,W,MFOR,0 - 0,Ty Smith,52110,Utah Valley,Jordan Hamdan,57705,Michigan State
+2023,11/05,Michigan State Open,141,W,MD,11 - 2,Hunter Olson,63530,Cleveland State,Jordan Hamdan,57705,Michigan State
+2023,11/05,Michigan State Open,141,W,DEC,7 - 4,Mason Breece,57362,Central Michigan,Jordan Hamdan,57705,Michigan State
+2023,02/05,Illinois - Michigan State Dual,141,L,TF5,23 - 8 6:15,Danny Pucino,66101,Illinois,Blake Noonan,67008,Michigan State
+2023,12/18,Reno TOC,141,L,DEC,2 - 1,Blake Runion,83351,Corban University,Blake Noonan,67008,Michigan State
+2023,12/18,Reno TOC,141,W,DEC,3 - 2,Cole Cross,78884,Eastern Oregon University,Blake Noonan,67008,Michigan State
+2023,12/18,Reno TOC,141,W,DEC,6 - 4,Amado Castellon,75886,Grand View,Blake Noonan,67008,Michigan State
+2023,12/18,Reno TOC,141,W,DEC,2 - 0,Dwayne Guerrero,74994,Menlo,Blake Noonan,67008,Michigan State
+2023,12/18,Reno TOC,141,W,DEC,6 - 4,Brennan Van Hoecke,74571,Little Rock,Blake Noonan,67008,Michigan State
+2023,12/18,Reno TOC,141,L,DEC,3 - 1,James Emmer,62436,Utah Valley,Blake Noonan,67008,Michigan State
+2023,11/19,Navy Classic,141,L,SV-1,4 - 2,Braden Bower,71756,Bucknell,Blake Noonan,67008,Michigan State
+2023,11/19,Navy Classic,141,L,DEC,5 - 0,Darren Miller,57210,Bucknell,Blake Noonan,67008,Michigan State
+2023,11/12,Michigan State - Presbyterian Dual,141,W,MD,9 - 1,Trenton Donahue,71638,Presbyterian,Blake Noonan,67008,Michigan State
+2023,11/05,Michigan State Open,141,L,DEC,4 - 2,Jordan Hamdan,57705,Michigan State,Blake Noonan,67008,Michigan State
+2023,11/05,Michigan State Open,141,W,DEC,4 - 0,Dylan Phelps,71151,Olivet,Blake Noonan,67008,Michigan State
+2023,11/05,Michigan State Open,141,W,MFOR,0 - 0,Dylan D'Emilio,56726,Ohio State,Blake Noonan,67008,Michigan State
+2023,11/05,Michigan State Open,141,L,DEC,11 - 4,Patrick Nolan,57652,Michigan,Blake Noonan,67008,Michigan State
+2023,11/05,Michigan State Open,141,W,FALL,1:52,Mason Breece,57362,Central Michigan,Blake Noonan,67008,Michigan State
+2023,03/04,Big Ten Championships,149,L,INJ,2:03,Max Murin,49148,Iowa,Peyton Omania,56081,Michigan State
+2023,03/04,Big Ten Championships,149,L,MFOR,0 - 0,Jake Harrier,70723,Illinois,Peyton Omania,56081,Michigan State
+2023,02/17,Michigan State - Central Michigan Dual,149,L,MD,12 - 4,Johnny Lovett,61935,Central Michigan,Peyton Omania,56081,Michigan State
+2023,02/10,Indiana - Michigan State Dual,149,L,MD,13 - 4,Graham Rooks,51283,Indiana,Peyton Omania,56081,Michigan State
+2023,02/05,Illinois - Michigan State Dual,149,L,DEC,8 - 4,Jake Harrier,70723,Illinois,Peyton Omania,56081,Michigan State
+2023,01/29,Michigan State - Ohio State Dual,149,L,FALL,4:35,Sammy Sasso,51143,Ohio State,Peyton Omania,56081,Michigan State
+2023,01/27,Maryland - Michigan State Dual,149,W,TF5,17 - 2 7:00,Joe Fisk,79088,Maryland,Peyton Omania,56081,Michigan State
+2023,01/20,Michigan State - Rutgers Dual,149,L,DEC,5 - 3,Anthony White,70924,Rutgers,Peyton Omania,56081,Michigan State
+2023,01/15,Michigan State - Minnesota Dual,149,L,DEC,8 - 2,Michael Blockhus,57163,Minnesota,Peyton Omania,56081,Michigan State
+2023,01/13,Michigan - Michigan State Dual,149,L,MD,10 - 2,Chance Lamer,70915,Michigan,Peyton Omania,56081,Michigan State
+2023,01/06,Bucknell - Michigan State Dual,149,L,DEC,3 - 1,Braden Bower,71756,Bucknell,Peyton Omania,56081,Michigan State
+2023,12/18,Reno TOC,149,W,TF5,16 - 0 2:15,Jordan Piercy,82201,Corban University,Peyton Omania,56081,Michigan State
+2023,12/18,Reno TOC,149,W,FALL,1:18,Jonah Chew,77695,Embry-Riddle,Peyton Omania,56081,Michigan State
+2023,12/18,Reno TOC,149,W,TF5,18 - 2 4:52,Jax Coburn,77320,Western Wyoming College,Peyton Omania,56081,Michigan State
+2023,12/18,Reno TOC,149,L,FALL,2:03,Jack Latimer,75866,Grand View,Peyton Omania,56081,Michigan State
+2023,12/18,Reno TOC,149,L,SV-1,3 - 1,Blake Gonzalez,75857,Grand View,Peyton Omania,56081,Michigan State
+2023,12/10,Michigan State - Brown Dual,149,W,DEC,6 - 4,Blake Saito,65874,Brown,Peyton Omania,56081,Michigan State
+2023,12/04,Michigan State - Princeton Dual,149,W,DEC,3 - 2,Rocco Camillaci,73321,Princeton,Peyton Omania,56081,Michigan State
+2023,12/04,Michigan State - Binghamton Dual,149,W,FALL,1:38,Michael Zarif,57277,Binghamton,Peyton Omania,56081,Michigan State
+2023,11/19,Navy Classic,149,L,DEC,7 - 3,Derek Raike,76503,Ohio,Peyton Omania,56081,Michigan State
+2023,11/19,Navy Classic,149,W,DEC,4 - 3,Eddie Homrock,62776,Michigan State,Peyton Omania,56081,Michigan State
+2023,11/19,Navy Classic,149,W,DEC,12 - 7,Ryan Vigil,63624,VMI,Peyton Omania,56081,Michigan State
+2023,11/19,Navy Classic,149,W,DEC,5 - 4,Dylan Martinez,51607,Air Force,Peyton Omania,56081,Michigan State
+2023,11/18,Michigan State - American Dual,149,W,DEC,6 - 1,Patrick Ryan,57253,American,Peyton Omania,56081,Michigan State
+2023,11/12,Michigan State - Presbyterian Dual,149,W,MD,10 - 0,Eli Holiday,73010,Presbyterian,Peyton Omania,56081,Michigan State
+2023,11/11,Michigan State - Davidson Dual,149,W,FALL,2:23,Noah Frack,71728,Davidson,Peyton Omania,56081,Michigan State
+2023,12/18,Reno TOC,149,W,DEC,7 - 0,Daniel Terronez,81366,St Ambrose,Eddie Homrock,62776,Michigan State
+2023,12/18,Reno TOC,149,W,TF5,16 - 0 6:44,Colton Erickson,78674,Western Wyoming College,Eddie Homrock,62776,Michigan State
+2023,12/18,Reno TOC,149,W,SV-1,8 - 6,Aaron Gandara,77215,Southern Oregon,Eddie Homrock,62776,Michigan State
+2023,12/18,Reno TOC,149,L,DEC,6 - 1,Blake Gonzalez,75857,Grand View,Eddie Homrock,62776,Michigan State
+2023,12/18,Reno TOC,149,W,FALL,2:18,Seth Johnson,65564,Marian University,Eddie Homrock,62776,Michigan State
+2023,12/18,Reno TOC,149,L,MD,10 - 0,Chase Zollmann,50917,Wyoming,Eddie Homrock,62776,Michigan State
+2023,11/19,Navy Classic,149,L,DEC,4 - 3,Peyton Omania,56081,Michigan State,Eddie Homrock,62776,Michigan State
+2023,11/19,Navy Classic,149,W,DEC,3 - 1,PJ Crane,50599,Navy,Eddie Homrock,62776,Michigan State
+2023,11/19,Navy Classic,149,L,FALL,5:51,Kody Komara,50094,Kent State,Eddie Homrock,62776,Michigan State
+2023,11/19,Navy Classic,149,W,DEC,5 - 3,Patrick Ryan,57253,American,Eddie Homrock,62776,Michigan State
+2023,02/05,Edinboro Open,149,L,MFOR,0 - 0,Vincenzo Napolitana,76001,Spartan Combat RTC,Braden Stauffenberg,78899,Michigan State
+2023,02/05,Edinboro Open,149,L,DEC,7 - 3,Mason Shrader,73720,Central Michigan,Braden Stauffenberg,78899,Michigan State
+2023,01/22,Michigan State - Penn State Dual,149,L,FALL,5:44,Shayne Van Ness,71588,Penn State,Braden Stauffenberg,78899,Michigan State
+2023,12/18,Reno TOC,149,W,MD,14 - 4,Tomas Jacobo,82246,Simpson,Braden Stauffenberg,78899,Michigan State
+2023,12/18,Reno TOC,149,L,FALL,0:52,Martin Wilkie,77229,Montana State-Northern,Braden Stauffenberg,78899,Michigan State
+2023,12/18,Reno TOC,149,L,DEC,4 - 0,Aaron Gandara,77215,Southern Oregon,Braden Stauffenberg,78899,Michigan State
+2023,12/18,Reno TOC,149,W,FALL,3:37,Thomas Chapman,61260,Menlo,Braden Stauffenberg,78899,Michigan State
+2023,11/19,Navy Classic,149,W,SV-1,6 - 4,PJ Crane,50599,Navy,Braden Stauffenberg,78899,Michigan State
+2023,11/19,Navy Classic,149,W,DEC,12 - 8,Nicholas Stonecheck,62691,Lock Haven,Braden Stauffenberg,78899,Michigan State
+2023,11/19,Navy Classic,149,W,DEC,4 - 3,Josh Yost,62379,VMI,Braden Stauffenberg,78899,Michigan State
+2023,11/19,Navy Classic,149,W,DEC,4 - 2,Noah Roulo,61776,VMI,Braden Stauffenberg,78899,Michigan State
+2023,11/19,Navy Classic,149,L,DEC,13 - 6,Dylan Martinez,51607,Air Force,Braden Stauffenberg,78899,Michigan State
+2023,11/19,Navy Classic,149,W,FALL,4:40,Noah Frack,71728,Davidson,Braden Stauffenberg,78899,Michigan State
+2023,11/05,Michigan State Open,149,W,FALL,0:46,Jay Shaull,76230,Olivet,Braden Stauffenberg,78899,Michigan State
+2023,11/05,Michigan State Open,149,W,FALL,1:57,David Shue,79451,Lake Erie College,Braden Stauffenberg,78899,Michigan State
+2023,11/05,Michigan State Open,149,L,FALL,3:49,Derek Raike,76503,Ohio,Braden Stauffenberg,78899,Michigan State
+2023,11/05,Michigan State Open,149,W,DEC,4 - 1,Grayson Sonntag,73857,Central Michigan,Braden Stauffenberg,78899,Michigan State
+2023,02/05,Edinboro Open,149,L,DEC,7 - 0,Carter Gill,78514,Buffalo,Luke Brydges,79313,Michigan State
+2023,02/05,Edinboro Open,149,L,MD,9 - 0,Gannon Jaquay,78780,Edinboro,Luke Brydges,79313,Michigan State
+2023,03/16,NCAA Championships,157,L,FALL,6:22,Bryce Andonian,56739,Virginia Tech,Chase Saldate,61118,Michigan State
+2023,03/16,NCAA Championships,157,W,DEC,8 - 5,Trevor Chumbley,57938,Northwestern,Chase Saldate,61118,Michigan State
+2023,03/16,NCAA Championships,157,W,DEC,6 - 4,Kendall Coleman,50626,Purdue,Chase Saldate,61118,Michigan State
+2023,03/16,NCAA Championships,157,W,FALL,3:00,Cesar Alvan,71732,Columbia,Chase Saldate,61118,Michigan State
+2023,03/16,NCAA Championships,157,L,DEC,4 - 3,Derek Holschlag,49238,Northern Iowa,Chase Saldate,61118,Michigan State
+2023,03/04,Big Ten Championships,157,W,DEC,6 - 1,Kendall Coleman,50626,Purdue,Chase Saldate,61118,Michigan State
+2023,03/04,Big Ten Championships,157,L,SV-1,3 - 1,Will Lewan,50934,Michigan,Chase Saldate,61118,Michigan State
+2023,03/04,Big Ten Championships,157,W,DEC,5 - 2,Andrew Clark,66883,Rutgers,Chase Saldate,61118,Michigan State
+2023,03/04,Big Ten Championships,157,L,DEC,4 - 3,Peyton Robb,56387,Nebraska,Chase Saldate,61118,Michigan State
+2023,03/04,Big Ten Championships,157,W,DEC,9 - 2,Cobe Siebrecht,60716,Iowa,Chase Saldate,61118,Michigan State
+2023,02/17,Michigan State - Central Michigan Dual,157,W,DEC,4 - 3,Corbyn Munson,51197,Central Michigan,Chase Saldate,61118,Michigan State
+2023,02/10,Indiana - Michigan State Dual,157,W,DEC,4 - 0,Derek Gilcher,62760,Indiana,Chase Saldate,61118,Michigan State
+2023,02/05,Illinois - Michigan State Dual,157,W,DEC,2 - 0,Anthony Federico,67140,Illinois,Chase Saldate,61118,Michigan State
+2023,01/29,Michigan State - Ohio State Dual,157,W,DEC,5 - 4,Paddy Gallagher,68724,Ohio State,Chase Saldate,61118,Michigan State
+2023,01/27,Maryland - Michigan State Dual,157,W,FALL,2:08,Kevin Schork,72105,Maryland,Chase Saldate,61118,Michigan State
+2023,01/22,Michigan State - Penn State Dual,157,W,DEC,6 - 2,Terrell Barraclough,62900,Penn State,Chase Saldate,61118,Michigan State
+2023,01/20,Michigan State - Rutgers Dual,157,W,DEC,5 - 0,Andrew Clark,66883,Rutgers,Chase Saldate,61118,Michigan State
+2023,01/15,Michigan State - Minnesota Dual,157,W,DEC,3 - 1,Brayton Lee,52079,Minnesota,Chase Saldate,61118,Michigan State
+2023,01/13,Michigan - Michigan State Dual,157,W,SV-1,3 - 1,Will Lewan,50934,Michigan,Chase Saldate,61118,Michigan State
+2023,01/06,Bucknell - Michigan State Dual,157,W,MD,8 - 0,Riley Bower,71755,Bucknell,Chase Saldate,61118,Michigan State
+2023,12/18,Reno TOC,157,W,FALL,3:00,Porter Craig,82179,North Idaho College,Chase Saldate,61118,Michigan State
+2023,12/18,Reno TOC,157,W,DEC,8 - 2,Kyle Dutton,73067,Little Rock,Chase Saldate,61118,Michigan State
+2023,12/18,Reno TOC,157,L,DEC,5 - 1,Charlie Darracott,62985,Stanford,Chase Saldate,61118,Michigan State
+2023,12/18,Reno TOC,157,W,FALL,4:46,Brock Rogers,62863,CSU Bakersfield,Chase Saldate,61118,Michigan State
+2023,12/18,Reno TOC,157,L,DEC,8 - 2,Derek Gilcher,62760,Indiana,Chase Saldate,61118,Michigan State
+2023,12/18,Reno TOC,157,W,TF5,18 - 1 5:54,Beau Blackham,59656,Embry-Riddle,Chase Saldate,61118,Michigan State
+2023,12/10,Michigan State - Brown Dual,157,W,FALL,6:17,Keegan Rothrock,67258,Brown,Chase Saldate,61118,Michigan State
+2023,12/04,Michigan State - Princeton Dual,157,L,DEC,5 - 0,Quincy Monday,53967,Princeton,Chase Saldate,61118,Michigan State
+2023,12/04,Michigan State - Binghamton Dual,157,W,MD,8 - 0,Conner Decker,71752,Binghamton,Chase Saldate,61118,Michigan State
+2023,11/19,Navy Classic,157,W,FALL,4:16,Antrell Taylor,72966,Nebraska,Chase Saldate,61118,Michigan State
+2023,11/19,Navy Classic,157,L,DEC,12 - 6,Peyton Robb,56387,Nebraska,Chase Saldate,61118,Michigan State
+2023,11/19,Navy Classic,157,W,FALL,6:42,Reagan LeFevre,72650,Air Force,Chase Saldate,61118,Michigan State
+2023,11/19,Navy Classic,157,W,MD,10 - 0,Jack Nies,69901,American,Chase Saldate,61118,Michigan State
+2023,11/18,Michigan State - American Dual,157,W,MD,10 - 2,Jack Nies,69901,American,Chase Saldate,61118,Michigan State
+2023,11/12,Michigan State - Presbyterian Dual,157,W,FALL,1:44,Brandon Jacoby,80039,Presbyterian,Chase Saldate,61118,Michigan State
+2023,11/11,Michigan State - Davidson Dual,157,W,MD,9 - 1,Marc Koch,73735,Davidson,Chase Saldate,61118,Michigan State
+2023,11/05,Michigan State Open,157,W,DEC,3 - 2,Logan Sanom,62487,Findlay,Skyler Crespo,63044,Michigan State
+2023,11/05,Michigan State Open,157,L,DEC,8 - 1,Isaac Wilcox,60592,Ohio State,Skyler Crespo,63044,Michigan State
+2023,11/05,Michigan State Open,157,L,FALL,3:48,Alec Rees,59684,Northern Illinois,Skyler Crespo,63044,Michigan State
+2023,11/05,Michigan State Open,157,W,DEC,4 - 2,Chase Moore,58142,Findlay,Cameron Monzadeh,62657,Michigan State
+2023,11/05,Michigan State Open,157,L,MD,15 - 2,Trenton Wachter,73721,Central Michigan,Cameron Monzadeh,62657,Michigan State
+2023,11/05,Michigan State Open,157,L,TF5,15 - 0 7:00,Corbyn Munson,51197,Central Michigan,Cameron Monzadeh,62657,Michigan State
+2023,03/16,NCAA Championships,165,L,DEC,12 - 6,Michael Caliendo,71699,North Dakota State,Caleb Fish,63045,Michigan State
+2023,03/16,NCAA Championships,165,L,DEC,10 - 4,Quincy Monday,53967,Princeton,Caleb Fish,63045,Michigan State
+2023,03/16,NCAA Championships,165,W,DEC,7 - 2,Holden Heller,50940,Pittsburgh,Caleb Fish,63045,Michigan State
+2023,03/16,NCAA Championships,165,W,DEC,8 - 4,Julian Ramirez,56706,Cornell,Caleb Fish,63045,Michigan State
+2023,03/05,Big Ten True Matches,165,L,DEC,4 - 3,Andrew Sparks,67049,Minnesota,Caleb Fish,63045,Michigan State
+2023,03/05,Big Ten True Matches,165,W,SV-1,3 - 1,John Martin Best,63025,Maryland,Caleb Fish,63045,Michigan State
+2023,03/04,Big Ten Championships,165,W,FALL,4:45,Bubba Wilson,57936,Nebraska,Caleb Fish,63045,Michigan State
+2023,03/04,Big Ten Championships,165,L,SV-1,4 - 2,Cameron Amine,57289,Michigan,Caleb Fish,63045,Michigan State
+2023,03/04,Big Ten Championships,165,L,FALL,6:00,Danny Braunagel,50926,Illinois,Caleb Fish,63045,Michigan State
+2023,02/17,Michigan State - Central Michigan Dual,165,W,DEC,4 - 2,Tracy Hubbard,57361,Central Michigan,Caleb Fish,63045,Michigan State
+2023,02/10,Indiana - Michigan State Dual,165,W,DEC,4 - 2,Nicholas South,56709,Indiana,Caleb Fish,63045,Michigan State
+2023,02/05,Illinois - Michigan State Dual,165,W,MD,12 - 4,Danny Braunagel,50926,Illinois,Caleb Fish,63045,Michigan State
+2023,01/29,Michigan State - Ohio State Dual,165,L,DEC,7 - 2,Carson Kharchla,57703,Ohio State,Caleb Fish,63045,Michigan State
+2023,01/27,Maryland - Michigan State Dual,165,W,DEC,3 - 1,John Martin Best,63025,Maryland,Caleb Fish,63045,Michigan State
+2023,01/22,Michigan State - Penn State Dual,165,L,SV-1,3 - 1,Alex Facundo,66706,Penn State,Caleb Fish,63045,Michigan State
+2023,01/20,Michigan State - Rutgers Dual,165,W,DEC,2 - 0,Connor O'Neill,62354,Rutgers,Caleb Fish,63045,Michigan State
+2023,01/15,Michigan State - Minnesota Dual,165,W,FALL,6:37,Andrew Sparks,67049,Minnesota,Caleb Fish,63045,Michigan State
+2023,01/13,Michigan - Michigan State Dual,165,L,DEC,3 - 2,Cameron Amine,57289,Michigan,Caleb Fish,63045,Michigan State
+2023,01/06,Bucknell - Michigan State Dual,165,W,DEC,5 - 3,Chase Barlow,78732,Bucknell,Caleb Fish,63045,Michigan State
+2023,12/18,Reno TOC,165,W,FALL,2:32,Keller Rock,77701,Embry-Riddle,Caleb Fish,63045,Michigan State
+2023,12/18,Reno TOC,165,W,DEC,6 - 1,Clayton Fielden,62325,Indiana,Caleb Fish,63045,Michigan State
+2023,12/18,Reno TOC,165,W,DEC,6 - 0,Jack Ervien,61608,Grand View,Caleb Fish,63045,Michigan State
+2023,12/18,Reno TOC,165,W,FALL,2:37,Cole Moody,57067,Wyoming,Caleb Fish,63045,Michigan State
+2023,12/18,Reno TOC,165,W,DEC,6 - 2,Jalin Harper,51618,Oklahoma State,Caleb Fish,63045,Michigan State
+2023,12/10,Michigan State - Brown Dual,165,W,TF5,16 - 1 2:47,Harrison Trahan,71760,Brown,Caleb Fish,63045,Michigan State
+2023,12/04,Michigan State - Princeton Dual,165,L,SV-1,6 - 4,Blaine Bergey,63157,Princeton,Caleb Fish,63045,Michigan State
+2023,12/04,Michigan State - Binghamton Dual,165,W,DEC,5 - 4,Dimitri Gamkrelidze,67295,Binghamton,Caleb Fish,63045,Michigan State
+2023,11/19,Navy Classic,165,W,DEC,5 - 3,Bubba Wilson,57936,Nebraska,Caleb Fish,63045,Michigan State
+2023,11/19,Navy Classic,165,L,DEC,4 - 3,Jordan Slivka,57602,Ohio,Caleb Fish,63045,Michigan State
+2023,11/19,Navy Classic,165,W,FALL,2:11,Tucker Allen,69724,The Citadel,Caleb Fish,63045,Michigan State
+2023,11/19,Navy Classic,165,W,DEC,4 - 1,Giano Petrucelli,62610,Air Force,Caleb Fish,63045,Michigan State
+2023,11/19,Navy Classic,165,W,FALL,5:51,Breon Phifer,72682,American,Caleb Fish,63045,Michigan State
+2023,11/18,Michigan State - American Dual,165,W,DEC,14 - 7,Caleb Campos,78804,American,Caleb Fish,63045,Michigan State
+2023,11/11,Michigan State - Davidson Dual,165,W,DEC,2 - 1,Jaden Hardrick,65048,Davidson,Caleb Fish,63045,Michigan State
+2023,11/05,Michigan State Open,165,W,FALL,4:11,Andrew Knick,70149,Findlay,Caleb Fish,63045,Michigan State
+2023,11/05,Michigan State Open,165,W,DEC,6 - 1,Sean O'dwyer,66628,Ohio,Caleb Fish,63045,Michigan State
+2023,11/05,Michigan State Open,165,W,MD,14 - 1,David Ferrante,57710,Northwestern,Caleb Fish,63045,Michigan State
+2023,11/05,Michigan State Open,165,L,DEC,6 - 4,Izzak Olejnik,56509,Northern Illinois,Caleb Fish,63045,Michigan State
+2023,11/05,Michigan State Open,165,W,FALL,3:26,Tracy Hubbard,57361,Central Michigan,Caleb Fish,63045,Michigan State
+2023,01/21,Penn State Michigan State ECM,165,L,DEC,7 - 2,Brian Borden,58228,Penn State,Miles Hoey,62655,Michigan State
+2023,12/18,Reno TOC,165,W,DEC,9 - 6,Zach Valdez,82825,Montana State-Northern,Miles Hoey,62655,Michigan State
+2023,12/18,Reno TOC,165,W,DEC,6 - 3,Luke Lussier,65914,Vanguard University,Miles Hoey,62655,Michigan State
+2023,12/18,Reno TOC,165,L,DEC,11 - 5,Michael Goldfeder,57128,North Carolina,Miles Hoey,62655,Michigan State
+2023,12/18,Reno TOC,165,L,DEC,2 - 0,Nicholas South,56709,Indiana,Miles Hoey,62655,Michigan State
+2023,11/19,Navy Classic,165,L,DEC,8 - 1,Bubba Wilson,57936,Nebraska,Miles Hoey,62655,Michigan State
+2023,11/19,Navy Classic,165,L,MD,14 - 2,Caleb Campos,78804,American,Miles Hoey,62655,Michigan State
+2023,11/19,Navy Classic,165,W,FALL,4:09,Breon Phifer,72682,American,Miles Hoey,62655,Michigan State
+2023,11/12,Michigan State - Presbyterian Dual,165,W,FALL,4:42,Ty Chittum,74566,Presbyterian,Miles Hoey,62655,Michigan State
+2023,11/05,Michigan State Open,165,W,DEC,8 - 7,Andrew Knick,70149,Findlay,Miles Hoey,62655,Michigan State
+2023,11/05,Michigan State Open,165,L,DEC,5 - 1,Sean O'dwyer,66628,Ohio,Miles Hoey,62655,Michigan State
+2023,11/05,Michigan State Open,165,W,DEC,7 - 6,Kevin Meicher,59548,Wisconsin,Miles Hoey,62655,Michigan State
+2023,11/05,Michigan State Open,165,L,DEC,6 - 4,Daniel Patten,62489,Cleveland State,Miles Hoey,62655,Michigan State
+2023,11/05,Michigan State Open,165,L,DEC,5 - 3,Sean O'dwyer,66628,Ohio,Colton Blaha,69872,Michigan State
+2023,11/05,Michigan State Open,165,W,DEC,7 - 2,Alex Isbrandt,52126,Findlay,Colton Blaha,69872,Michigan State
+2023,11/05,Michigan State Open,165,W,DEC,5 - 4,Kameron Bush,49080,Olivet,Colton Blaha,69872,Michigan State
+2023,11/05,Michigan State Open,165,L,DEC,8 - 3,Tracy Hubbard,57361,Central Michigan,Colton Blaha,69872,Michigan State
+2023,02/05,Edinboro Open,165,L,FALL,1:29,Max Kirby,78782,Edinboro,Konner Roche,79318,Michigan State
+2023,02/05,Edinboro Open,165,L,DEC,7 - 1,Ty Raines,57719,Buffalo,Konner Roche,79318,Michigan State
+2023,01/21,Alma College Open,165,L,MFOR,0 - 0,Andrew Howison,80632,St Clair Community College,Konner Roche,79318,Michigan State
+2023,01/21,Alma College Open,165,W,DEC,7 - 1,Colin Panoff,63250,Rochester Christian,Konner Roche,79318,Michigan State
+2023,01/21,Alma College Open,165,L,MFOR,0 - 0,Jacob Kasner,80116,Olivet,Konner Roche,79318,Michigan State
+2023,01/21,Alma College Open,165,W,DEC,4 - 2,Calvin Huggler,74039,Alma College,Konner Roche,79318,Michigan State
+2023,12/18,Reno TOC,165,L,DEC,5 - 1,Jordan Faifai,82298,Southern Oregon,Konner Roche,79318,Michigan State
+2023,12/18,Reno TOC,165,L,FALL,6:38,Jordan Fulks,76562,Marian University,Konner Roche,79318,Michigan State
+2023,12/11,Cleveland State Open,165,L,TF5,17 - 2 2:42,Caleb Cass,57214,Cleveland State,Konner Roche,79318,Michigan State
+2023,12/11,Cleveland State Open,165,L,FALL,5:31,Noah Grover,51227,Buffalo,Konner Roche,79318,Michigan State
+2023,11/05,Michigan State Open,165,L,TF5,16 - 0 7:00,Kenny Snyder,74312,Findlay,Konner Roche,79318,Michigan State
+2023,11/05,Michigan State Open,165,L,MD,13 - 5,Jack Lledo,78924,Ohio,Konner Roche,79318,Michigan State
+2023,11/05,Michigan State Open,165,W,DEC,8 - 4,Gary Nilson,74304,Findlay,Konner Roche,79318,Michigan State
+2023,03/04,Big Ten Championships,174,W,DEC,3 - 2,Cooper Noehre,65006,Purdue,Ceasar Garza,73104,Michigan State
+2023,03/04,Big Ten Championships,174,L,MD,8 - 0,Donnell Washington,57738,Indiana,Ceasar Garza,73104,Michigan State
+2023,03/04,Big Ten Championships,174,L,DEC,6 - 2,Edmond Ruth,51277,Illinois,Ceasar Garza,73104,Michigan State
+2023,02/17,Michigan State - Central Michigan Dual,174,L,DEC,3 - 0,Alex Cramer,56732,Central Michigan,Ceasar Garza,73104,Michigan State
+2023,02/10,Indiana - Michigan State Dual,174,L,DEC,4 - 0,Donnell Washington,57738,Indiana,Ceasar Garza,73104,Michigan State
+2023,02/05,Illinois - Michigan State Dual,174,L,DEC,13 - 7,Edmond Ruth,51277,Illinois,Ceasar Garza,73104,Michigan State
+2023,01/29,Michigan State - Ohio State Dual,174,L,TB-1,3 - 1,Isaac Wilcox,60592,Ohio State,Ceasar Garza,73104,Michigan State
+2023,01/27,Maryland - Michigan State Dual,174,W,DEC,5 - 3,Dominic Solis,66460,Maryland,Ceasar Garza,73104,Michigan State
+2023,01/22,Michigan State - Penn State Dual,174,L,TF5,19 - 4 6:39,Carter Starocci,58819,Penn State,Ceasar Garza,73104,Michigan State
+2023,01/20,Michigan State - Rutgers Dual,174,L,DEC,7 - 2,Jackson Turley,57636,Rutgers,Ceasar Garza,73104,Michigan State
+2023,01/15,Michigan State - Minnesota Dual,174,L,DEC,10 - 6,Bailee O'Reilly,50166,Minnesota,Ceasar Garza,73104,Michigan State
+2023,01/13,Michigan - Michigan State Dual,174,L,DEC,6 - 2,Max Maylor,56310,Michigan,Ceasar Garza,73104,Michigan State
+2023,01/06,Bucknell - Michigan State Dual,174,W,DEC,8 - 3,Sam Barnes,63005,Bucknell,Ceasar Garza,73104,Michigan State
+2023,12/18,Reno TOC,174,W,MD,12 - 2,Noah Hollendonner,83068,Marian University,Ceasar Garza,73104,Michigan State
+2023,12/18,Reno TOC,174,W,DEC,6 - 3,NaKoda Siegel,77367,Montana State-Northern,Ceasar Garza,73104,Michigan State
+2023,12/18,Reno TOC,174,L,DEC,3 - 2,Donnell Washington,57738,Indiana,Ceasar Garza,73104,Michigan State
+2023,12/18,Reno TOC,174,L,DEC,3 - 0,Hayden Hastings,49354,Wyoming,Ceasar Garza,73104,Michigan State
+2023,11/19,Navy Classic,174,L,DEC,5 - 1,Sammy Starr,73336,Navy,Ceasar Garza,73104,Michigan State
+2023,11/19,Navy Classic,174,W,FALL,4:42,Tyler Stoltzfus,65398,Lock Haven,Ceasar Garza,73104,Michigan State
+2023,11/19,Navy Classic,174,W,SV-1,6 - 4,Sam Barnes,63005,Bucknell,Ceasar Garza,73104,Michigan State
+2023,11/19,Navy Classic,174,W,SV-1,10 - 8,Vincent Andreano,61512,Bucknell,Ceasar Garza,73104,Michigan State
+2023,11/19,Navy Classic,174,W,DEC,3 - 1,Jon Hoover,57525,VMI,Ceasar Garza,73104,Michigan State
+2023,11/19,Navy Classic,174,W,DEC,5 - 4,Lucas White,72683,American,Ceasar Garza,73104,Michigan State
+2023,11/05,Michigan State Open,174,W,FALL,1:13,Andre Rocker,80173,Northwestern,Ceasar Garza,73104,Michigan State
+2023,11/05,Michigan State Open,174,W,DEC,9 - 5,Shane Moran,78605,Northern Illinois,Ceasar Garza,73104,Michigan State
+2023,11/05,Michigan State Open,174,W,DEC,9 - 2,Bryer Hall,71787,Ohio State,Ceasar Garza,73104,Michigan State
+2023,11/05,Michigan State Open,174,W,MD,9 - 1,JR Reed,78598,Cleveland State,Ceasar Garza,73104,Michigan State
+2023,11/05,Michigan State Open,174,L,MFOR,0 - 0,Hayden Pummel,73344,Northern Illinois,DJ Shannon,51137,Michigan State
+2023,11/05,Michigan State Open,174,L,SV-1,8 - 6,Caden Ernd,71871,Illinois,DJ Shannon,51137,Michigan State
+2023,02/05,Edinboro Open,184,L,MFOR,0 - 0,John Baker,78820,Binghamton,Ryan Boucher,79314,Michigan State
+2023,02/05,Edinboro Open,184,W,DEC,7 - 3,Cael Black,78740,Lock Haven,Ryan Boucher,79314,Michigan State
+2023,02/05,Edinboro Open,184,L,FALL,5:25,Shay Addison,78500,Arizona State,Ryan Boucher,79314,Michigan State
+2023,12/10,Michigan State - Brown Dual,174,L,DEC,7 - 4,Drew Clearie,71778,Brown,Ryan Boucher,79314,Michigan State
+2023,11/05,Michigan State Open,174,L,DEC,3 - 1,Shane Moran,78605,Northern Illinois,Ryan Boucher,79314,Michigan State
+2023,11/05,Michigan State Open,174,W,FALL,4:36,Bryer Hall,71787,Ohio State,Ryan Boucher,79314,Michigan State
+2023,11/05,Michigan State Open,174,W,MFOR,0 - 0,Josh Knudten,76949,Michigan,Ryan Boucher,79314,Michigan State
+2023,11/05,Michigan State Open,174,W,FALL,0:57,Lance Schyck,79056,Central Michigan,Ryan Boucher,79314,Michigan State
+2023,11/05,Michigan State Open,174,L,DEC,6 - 5,Lance Schyck,79056,Central Michigan,Ryan Boucher,79314,Michigan State
+2023,01/29,Michigan State - Ohio State Dual,184,L,TF5,21 - 6 7:00,Kaleb Romero,49252,Ohio State,Lucas Daly,71943,Michigan State
+2023,01/21,Alma College Open,174,W,FALL,5:00,Leonardo Galasso,73722,Central Michigan,Lucas Daly,71943,Michigan State
+2023,01/21,Alma College Open,174,L,DEC,8 - 4,Leonardo Galasso,73722,Central Michigan,Lucas Daly,71943,Michigan State
+2023,01/21,Alma College Open,174,L,DEC,7 - 2,Josh Kenny,69732,Grand Valley State University,Lucas Daly,71943,Michigan State
+2023,01/21,Alma College Open,174,W,MD,16 - 5,Will Vernier,70090,Alma College,Lucas Daly,71943,Michigan State
+2023,01/21,Alma College Open,174,W,DEC,9 - 2,Will Vernier,70090,Alma College,Lucas Daly,71943,Michigan State
+2023,12/18,Reno TOC,174,W,TF5,18 - 1 4:34,Ian Vasquez,83354,Warner Pacific,Lucas Daly,71943,Michigan State
+2023,12/18,Reno TOC,174,L,DEC,5 - 3,NaKoda Siegel,77367,Montana State-Northern,Lucas Daly,71943,Michigan State
+2023,12/18,Reno TOC,174,W,DEC,6 - 0,Sheldon Cole,65105,Embry-Riddle,Lucas Daly,71943,Michigan State
+2023,12/18,Reno TOC,174,W,DEC,3 - 2,Louis Rojas,62930,Cal Baptist,Lucas Daly,71943,Michigan State
+2023,12/18,Reno TOC,174,L,MD,14 - 0,Hayden Hastings,49354,Wyoming,Lucas Daly,71943,Michigan State
+2023,12/04,Michigan State - Princeton Dual,174,L,TF5,15 - 0 7:00,Kole Mulhauser,73135,Princeton,Lucas Daly,71943,Michigan State
+2023,12/04,Michigan State - Binghamton Dual,174,L,DEC,6 - 3,Sam DePrez,56480,Binghamton,Lucas Daly,71943,Michigan State
+2023,11/19,Navy Classic,174,L,DEC,2 - 0,Sammy Starr,73336,Navy,Lucas Daly,71943,Michigan State
+2023,11/19,Navy Classic,174,L,FALL,1:36,Michael Labriola,49207,Nebraska,Lucas Daly,71943,Michigan State
+2023,11/19,Navy Classic,174,W,DEC,4 - 1,River Carroll,72526,VMI,Lucas Daly,71943,Michigan State
+2023,11/19,Navy Classic,174,W,MD,13 - 4,Mervin Mancia,69907,American,Lucas Daly,71943,Michigan State
+2023,11/18,Michigan State - American Dual,174,W,DEC,4 - 3,Lucas White,72683,American,Lucas Daly,71943,Michigan State
+2023,11/11,Michigan State - Davidson Dual,174,W,MD,14 - 1,Brett Sanderlin,71729,Davidson,Lucas Daly,71943,Michigan State
+2023,11/05,Michigan State Open,174,W,DEC,3 - 2,Jake Evans,73345,Northern Illinois,Lucas Daly,71943,Michigan State
+2023,11/05,Michigan State Open,174,L,MD,12 - 0,Hayden Pummel,73344,Northern Illinois,Lucas Daly,71943,Michigan State
+2023,11/05,Michigan State Open,174,L,DEC,9 - 4,Troy Fisher,57601,Northwestern,Lucas Daly,71943,Michigan State
+2023,01/21,Alma College Open,174,W,FALL,2:33,Ronald Solis,74313,Rochester Christian,Marty Larkin,69873,Michigan State
+2023,01/21,Alma College Open,174,L,DEC,9 - 4,Josh Kenny,69732,Grand Valley State University,Marty Larkin,69873,Michigan State
+2023,01/21,Alma College Open,174,W,TF5,18 - 0 7:00,Trey Tobias,83076,Trine University,Marty Larkin,69873,Michigan State
+2023,01/21,Alma College Open,174,W,DEC,7 - 4,Eddie Williams,83535,Alma College,Marty Larkin,69873,Michigan State
+2023,01/15,Purple Raider Open,174,L,DEC,12 - 7,Brody Baumann,73558,Purdue,Marty Larkin,69873,Michigan State
+2023,01/15,Purple Raider Open,174,W,DEC,5 - 1,Brandon Matthews,57939,Seton Hill,Marty Larkin,69873,Michigan State
+2023,01/15,Purple Raider Open,174,W,DEC,9 - 3,Josh Knudten,76949,Michigan,Marty Larkin,69873,Michigan State
+2023,01/15,Purple Raider Open,174,W,TF5,17 - 2 7:00,Isiah Levitz,69356,Indiana,Marty Larkin,69873,Michigan State
+2023,01/15,Purple Raider Open,174,L,DEC,8 - 6,Ethan Wiant,63052,Clarion,Marty Larkin,69873,Michigan State
+2023,12/29,Midlands Championships,174,L,TF5,17 - 2 7:00,Thayne Lawrence,62598,Lehigh,Marty Larkin,69873,Michigan State
+2023,12/29,Midlands Championships,174,L,FALL,3:45,Noah Fox,67280,Franklin & Marshall,Marty Larkin,69873,Michigan State
+2023,12/11,Cleveland State Open,174,W,DEC,4 - 0,JR Reed,78598,Cleveland State,Marty Larkin,69873,Michigan State
+2023,12/11,Cleveland State Open,174,W,MD,9 - 0,Mitchell Broskie,75819,Kent State,Marty Larkin,69873,Michigan State
+2023,12/11,Cleveland State Open,174,L,FALL,6:00,Scott Joll,62424,West Virginia,Marty Larkin,69873,Michigan State
+2023,12/11,Cleveland State Open,174,L,MD,12 - 3,Max Maylor,56310,Michigan,Marty Larkin,69873,Michigan State
+2023,11/12,Michigan State - Presbyterian Dual,174,L,DEC,13 - 8,Reed Douglass,80038,Presbyterian,Marty Larkin,69873,Michigan State
+2023,11/05,Michigan State Open,174,W,FALL,2:10,Owen Guilford,63240,Olivet,Marty Larkin,69873,Michigan State
+2023,11/05,Michigan State Open,174,L,FALL,6:12,Darrien Roberts,60446,Oklahoma,Marty Larkin,69873,Michigan State
+2023,11/05,Michigan State Open,174,L,TF5,20 - 5 7:00,Ethan Smith,50025,Ohio State,Marty Larkin,69873,Michigan State
+2023,11/05,Michigan State Open,174,W,DEC,7 - 2,Cody Brenner,73723,Central Michigan,Marty Larkin,69873,Michigan State
+2023,12/18,Reno TOC,174,W,DEC,6 - 0,Noah Hollendonner,83068,Marian University,Rollie Denker,79315,Michigan State
+2023,12/18,Reno TOC,174,L,MD,10 - 2,Alex Reynolds,74751,Grand View,Rollie Denker,79315,Michigan State
+2023,12/18,Reno TOC,174,L,FALL,0:47,Mason Reiniche,67415,Oregon State,Rollie Denker,79315,Michigan State
+2023,12/11,Cleveland State Open,174,W,DEC,4 - 1,JR Reed,78598,Cleveland State,Rollie Denker,79315,Michigan State
+2023,12/11,Cleveland State Open,174,W,FALL,4:24,Mitchell Broskie,75819,Kent State,Rollie Denker,79315,Michigan State
+2023,12/11,Cleveland State Open,174,W,DEC,6 - 3,Leonardo Galasso,73722,Central Michigan,Rollie Denker,79315,Michigan State
+2023,12/11,Cleveland State Open,174,W,FALL,6:38,Skyler Lasure,64100,Notre Dame,Rollie Denker,79315,Michigan State
+2023,12/11,Cleveland State Open,174,L,DEC,12 - 7,Anthony Rice,61966,Unattached,Rollie Denker,79315,Michigan State
+2023,12/11,Cleveland State Open,174,W,MFOR,0 - 0,Marcus Petite,67407,Buffalo,Rollie Denker,79315,Michigan State
+2023,11/05,Michigan State Open,174,L,MD,13 - 5,Tate Geiser,78813,Cleveland State,Rollie Denker,79315,Michigan State
+2023,11/05,Michigan State Open,174,L,FALL,6:28,JR Reed,78598,Cleveland State,Rollie Denker,79315,Michigan State
+2023,01/21,Alma College Open,174,W,DEC,9 - 2,Ronald Solis,74313,Rochester Christian,Jacob Halsey,78505,Michigan State
+2023,01/21,Alma College Open,174,L,DEC,7 - 1,Leonardo Galasso,73722,Central Michigan,Jacob Halsey,78505,Michigan State
+2023,01/21,Alma College Open,174,L,DEC,7 - 1,Josh Kenny,69732,Grand Valley State University,Jacob Halsey,78505,Michigan State
+2023,12/11,Cleveland State Open,174,L,DEC,6 - 3,Tate Geiser,78813,Cleveland State,Jacob Halsey,78505,Michigan State
+2023,12/11,Cleveland State Open,174,L,MD,16 - 5,Max Maylor,56310,Michigan,Jacob Halsey,78505,Michigan State
+2023,12/11,Cleveland State Open,174,W,DEC,3 - 2,Chase Cordia,77719,Clarion,Jacob Halsey,78505,Michigan State
+2023,03/16,NCAA Championships,184,L,DEC,5 - 1,Tate Samuelson,57066,Lehigh,Layne Malczewski,51828,Michigan State
+2023,03/16,NCAA Championships,184,W,DEC,3 - 0,Zayne Lehman,71781,Ohio,Layne Malczewski,51828,Michigan State
+2023,03/16,NCAA Championships,184,L,FALL,1:40,Brian Soldano,67558,Rutgers,Layne Malczewski,51828,Michigan State
+2023,03/04,Big Ten Championships,184,L,MFOR,0 - 0,Abe Assad,56936,Iowa,Layne Malczewski,51828,Michigan State
+2023,03/04,Big Ten Championships,184,W,FALL,3:41,Evan Bates,72133,Northwestern,Layne Malczewski,51828,Michigan State
+2023,03/04,Big Ten Championships,184,W,DEC,6 - 2,Ben Vanadia,68732,Purdue,Layne Malczewski,51828,Michigan State
+2023,03/04,Big Ten Championships,184,L,MFOR,0 - 0,Lenny Pinto,63137,Nebraska,Layne Malczewski,51828,Michigan State
+2023,03/04,Big Ten Championships,184,L,DEC,8 - 5,Isaiah Salazar,62340,Minnesota,Layne Malczewski,51828,Michigan State
+2023,02/17,Michigan State - Central Michigan Dual,184,W,DEC,6 - 4,Ben Cushman,57359,Central Michigan,Layne Malczewski,51828,Michigan State
+2023,02/10,Indiana - Michigan State Dual,184,W,FALL,3:39,Clayton Fielden,62325,Indiana,Layne Malczewski,51828,Michigan State
+2023,02/05,Illinois - Michigan State Dual,184,W,DEC,2 - 0,Dylan Connell,67216,Illinois,Layne Malczewski,51828,Michigan State
+2023,01/27,Maryland - Michigan State Dual,184,W,FALL,2:48,Chase Mielnik,67431,Maryland,Layne Malczewski,51828,Michigan State
+2023,01/22,Michigan State - Penn State Dual,184,W,DEC,6 - 0,Donovan Ball,57646,Penn State,Layne Malczewski,51828,Michigan State
+2023,01/20,Michigan State - Rutgers Dual,184,W,MD,16 - 6,Brian Soldano,67558,Rutgers,Layne Malczewski,51828,Michigan State
+2023,01/15,Michigan State - Minnesota Dual,184,L,DEC,5 - 3,Isaiah Salazar,62340,Minnesota,Layne Malczewski,51828,Michigan State
+2023,01/13,Michigan - Michigan State Dual,184,L,DEC,10 - 4,Matt Finesilver,47770,Michigan,Layne Malczewski,51828,Michigan State
+2023,01/06,Bucknell - Michigan State Dual,184,W,FALL,3:17,Michael Bartush,72602,Bucknell,Layne Malczewski,51828,Michigan State
+2023,12/18,Reno TOC,184,W,FALL,4:31,Kyle Knudtson,77219,Eastern Oregon University,Layne Malczewski,51828,Michigan State
+2023,12/18,Reno TOC,184,W,FALL,1:14,Malachi Dowdell,75781,Simpson,Layne Malczewski,51828,Michigan State
+2023,12/18,Reno TOC,184,L,FALL,2:03,Quayin Short,70764,Wyoming,Layne Malczewski,51828,Michigan State
+2023,12/18,Reno TOC,184,W,FALL,2:23,Sam Osho,59291,Marian University,Layne Malczewski,51828,Michigan State
+2023,12/18,Reno TOC,184,W,MFOR,0 - 0,Peter Acciardi,51069,Cal Baptist,Layne Malczewski,51828,Michigan State
+2023,12/10,Michigan State - Brown Dual,184,W,DEC,8 - 2,James Araneo,71780,Brown,Layne Malczewski,51828,Michigan State
+2023,12/04,Michigan State - Princeton Dual,184,W,DEC,8 - 4,Nate Dugan,57662,Princeton,Layne Malczewski,51828,Michigan State
+2023,12/04,Michigan State - Binghamton Dual,184,W,DEC,1 - 0,Jacob Nolan,62415,Binghamton,Layne Malczewski,51828,Michigan State
+2023,11/19,Navy Classic,184,W,FALL,1:39,Lenny Pinto,63137,Nebraska,Layne Malczewski,51828,Michigan State
+2023,11/19,Navy Classic,184,W,MD,10 - 2,Nathan Haas,62341,Nebraska,Layne Malczewski,51828,Michigan State
+2023,11/19,Navy Classic,184,W,FALL,2:18,Mike Caniglia,63012,Kent State,Layne Malczewski,51828,Michigan State
+2023,11/19,Navy Classic,184,W,DEC,10 - 4,Logan Deacetis,71753,Bucknell,Layne Malczewski,51828,Michigan State
+2023,11/18,Michigan State - American Dual,184,W,DEC,7 - 2,Colin Shannon,50060,American,Layne Malczewski,51828,Michigan State
+2023,11/12,Michigan State - Presbyterian Dual,184,W,FALL,6:01,David Bertrand,73013,Presbyterian,Layne Malczewski,51828,Michigan State
+2023,11/11,Michigan State - Davidson Dual,184,W,FALL,1:53,Oliver Tipton,79057,Davidson,Layne Malczewski,51828,Michigan State
+2023,01/21,Alma College Open,184,W,FALL,1:53,Cayden Donnell,83731,Mott Community College,Jacob Munger,79316,Michigan State
+2023,01/21,Alma College Open,184,L,DEC,14 - 8,Jimmy Colley,80585,St Clair Community College,Jacob Munger,79316,Michigan State
+2023,01/21,Alma College Open,184,W,FALL,3:59,Cody Timmerman,76233,Indiana Tech,Jacob Munger,79316,Michigan State
+2023,01/21,Alma College Open,184,W,DEC,5 - 1,Kayleb Venema,75372,Muskegon Community College,Jacob Munger,79316,Michigan State
+2023,01/21,Alma College Open,184,W,FALL,2:20,Will Huyke,65563,Indiana Tech,Jacob Munger,79316,Michigan State
+2023,01/15,Purple Raider Open,184,W,DEC,7 - 0,Dakota Masho,83664,Unattached,Jacob Munger,79316,Michigan State
+2023,01/15,Purple Raider Open,184,L,TF5,16 - 1 7:00,Dennis Robin,69638,West Virginia,Jacob Munger,79316,Michigan State
+2023,01/15,Purple Raider Open,184,L,FALL,1:48,Chase Cordia,77719,Clarion,Jacob Munger,79316,Michigan State
+2023,12/11,Cleveland State Open,184,L,TF5,21 - 6 6:15,Rylan Rogers,72668,Michigan,Jacob Munger,79316,Michigan State
+2023,12/11,Cleveland State Open,184,L,DEC,10 - 3,Jon Halvorsen,62898,Northwestern,Jacob Munger,79316,Michigan State
+2023,11/05,Michigan State Open,184,L,DEC,5 - 2,Carter Grewe,78928,Northern Illinois,Jacob Munger,79316,Michigan State
+2023,11/05,Michigan State Open,184,W,SV-1,4 - 3,Charlie Heydorn,77870,Ohio,Jacob Munger,79316,Michigan State
+2023,11/05,Michigan State Open,184,L,MD,10 - 0,Mason Clem,72514,Ohio,Jacob Munger,79316,Michigan State
+2023,11/05,Michigan State Open,184,L,MD,10 - 2,Rylan Rogers,72668,Michigan,Jacob Munger,79316,Michigan State
+2023,03/16,NCAA Championships,197,L,DEC,3 - 2,Andrew Davison,49178,Northwestern,Cameron Caffey,50273,Michigan State
+2023,03/16,NCAA Championships,197,L,DEC,5 - 1,Jacob Warner,49151,Iowa,Cameron Caffey,50273,Michigan State
+2023,03/04,Big Ten Championships,197,L,MFOR,0 - 0,Jacob Warner,49151,Iowa,Cameron Caffey,50273,Michigan State
+2023,03/04,Big Ten Championships,197,L,INJ,6:17,Zach Braunagel,50925,Illinois,Cameron Caffey,50273,Michigan State
+2023,03/04,Big Ten Championships,197,W,DEC,10 - 7,Michial Foy,53189,Minnesota,Cameron Caffey,50273,Michigan State
+2023,03/04,Big Ten Championships,197,W,DEC,4 - 1,Billy Janzer,49473,Rutgers,Cameron Caffey,50273,Michigan State
+2023,03/04,Big Ten Championships,197,W,DEC,4 - 1,Brendin Yatooma,66965,Michigan,Cameron Caffey,50273,Michigan State
+2023,03/04,Big Ten Championships,197,L,DEC,3 - 2,Jacob Warner,49151,Iowa,Cameron Caffey,50273,Michigan State
+2023,02/17,Michigan State - Central Michigan Dual,197,W,MD,16 - 7,Cameron Wood,73724,Central Michigan,Cameron Caffey,50273,Michigan State
+2023,02/10,Indiana - Michigan State Dual,197,W,TF5,21 - 5 7:00,Drayton Harris,69357,Indiana,Cameron Caffey,50273,Michigan State
+2023,02/05,Illinois - Michigan State Dual,197,W,DEC,6 - 4,Zach Braunagel,50925,Illinois,Cameron Caffey,50273,Michigan State
+2023,01/29,Michigan State - Ohio State Dual,197,L,DEC,3 - 2,Gavin Hoffman,50609,Ohio State,Cameron Caffey,50273,Michigan State
+2023,01/22,Michigan State - Penn State Dual,197,L,DEC,4 - 0,Max Dean,46025,Penn State,Cameron Caffey,50273,Michigan State
+2023,01/20,Michigan State - Rutgers Dual,197,W,SV-1,3 - 1,Billy Janzer,49473,Rutgers,Cameron Caffey,50273,Michigan State
+2023,01/15,Michigan State - Minnesota Dual,197,W,DEC,3 - 2,Michial Foy,53189,Minnesota,Cameron Caffey,50273,Michigan State
+2023,01/13,Michigan - Michigan State Dual,197,W,TB-2,6 - 5,Brendin Yatooma,66965,Michigan,Cameron Caffey,50273,Michigan State
+2023,01/06,Bucknell - Michigan State Dual,197,W,TF5,19 - 2 7:00,Nolan Springer,71749,Bucknell,Cameron Caffey,50273,Michigan State
+2023,12/18,Reno TOC,197,W,FALL,2:20,Benjiman Hughes,82187,Southern Oregon,Cameron Caffey,50273,Michigan State
+2023,12/18,Reno TOC,197,W,FALL,2:08,Garavous Kouekabakilaho,77547,Grand View,Cameron Caffey,50273,Michigan State
+2023,12/18,Reno TOC,197,W,FALL,3:48,Talmage Carman,72146,Western Wyoming College,Cameron Caffey,50273,Michigan State
+2023,12/18,Reno TOC,197,W,TF5,18 - 2 6:38,Carl Hansen,63599,Montana State-Northern,Cameron Caffey,50273,Michigan State
+2023,12/18,Reno TOC,197,W,MD,12 - 3,Nick Willham,62447,Indiana,Cameron Caffey,50273,Michigan State
+2023,12/10,Michigan State - Brown Dual,197,W,MD,18 - 9,Aaron Wolk,62364,Brown,Cameron Caffey,50273,Michigan State
+2023,12/04,Michigan State - Princeton Dual,197,L,MD,11 - 3,Luke Stout,62599,Princeton,Cameron Caffey,50273,Michigan State
+2023,12/04,Michigan State - Binghamton Dual,197,W,TB-2,2 - 1,Louie DePrez,49046,Binghamton,Cameron Caffey,50273,Michigan State
+2023,11/18,Michigan State - American Dual,197,W,TF5,21 - 5 7:00,Liam Volk-Klos,78524,American,Cameron Caffey,50273,Michigan State
+2023,11/12,Michigan State - Presbyterian Dual,197,W,TF5,21  - 5 7:00,Malcolm Wiley,62915,Presbyterian,Cameron Caffey,50273,Michigan State
+2023,11/11,Michigan State - Davidson Dual,197,W,FALL,3:00,Gavin Henry,61929,Davidson,Cameron Caffey,50273,Michigan State
+2023,02/12,JCU Open,197,L,MFOR,0 - 0,Seth Konynenbelt,66076,Grand Valley State University,Kael Wisler,79317,Michigan State
+2023,02/12,JCU Open,197,W,FALL,2:56,Dwayne Johnson,63190,Alderson-Broaddus University,Kael Wisler,79317,Michigan State
+2023,02/12,JCU Open,197,W,DEC,6 - 5,Dwayne Johnson,63190,Alderson-Broaddus University,Kael Wisler,79317,Michigan State
+2023,02/12,JCU Open,197,W,FALL,2:56,Spencer Vos,79798,Kent State,Kael Wisler,79317,Michigan State
+2023,02/12,JCU Open,197,L,SV-1,3 - 1,Joey Lyons,72596,Cleveland State,Kael Wisler,79317,Michigan State
+2023,02/05,Edinboro Open,197,W,INJ,3:14,Mac Stout,72505,Pittsburgh,Kael Wisler,79317,Michigan State
+2023,02/05,Edinboro Open,197,W,FALL,1:33,Jacob Lee,72196,Michigan State,Kael Wisler,79317,Michigan State
+2023,02/05,Edinboro Open,197,W,MFOR,0 - 0,Tyler Bagoly,49098,Clarion,Kael Wisler,79317,Michigan State
+2023,02/05,Edinboro Open,197,L,DEC,10 - 4,Ben Smith,56236,Cleveland State,Kael Wisler,79317,Michigan State
+2023,01/21,Alma College Open,197,L,DEC,3 - 1,Nate Critchfield,82611,Indiana Tech,Kael Wisler,79317,Michigan State
+2023,01/21,Alma College Open,197,W,TF5,18 - 3 7:00,Jacob Skinner,82006,Rochester Christian,Kael Wisler,79317,Michigan State
+2023,01/21,Alma College Open,197,W,DEC,12 - 7,Dakota Veltman,80123,Muskegon Community College,Kael Wisler,79317,Michigan State
+2023,01/21,Alma College Open,197,W,FALL,2:18,Misha Lomboy,79319,Michigan State,Kael Wisler,79317,Michigan State
+2023,01/21,Alma College Open,197,W,DEC,11 - 6,Kyle Scott,63238,Rochester Christian,Kael Wisler,79317,Michigan State
+2023,01/21,Alma College Open,197,W,FALL,0:40,Colin Fluharty,80752,Alma College,Kael Wisler,79317,Michigan State
+2023,01/15,Purple Raider Open,197,W,FALL,1:50,Chase Blaney,81732,Fairmont State,Kael Wisler,79317,Michigan State
+2023,01/15,Purple Raider Open,197,W,MFOR,0 - 0,Nick Whittington,69616,Seton Hill,Kael Wisler,79317,Michigan State
+2023,01/15,Purple Raider Open,197,L,DEC,4 - 3,Brendan Finnerty,69613,Seton Hill,Kael Wisler,79317,Michigan State
+2023,01/15,Purple Raider Open,197,W,DEC,5 - 2,Dakota Howard,51202,Virginia Tech,Kael Wisler,79317,Michigan State
+2023,01/15,Purple Raider Open,197,L,DEC,18 - 11,Lonnell Owens-Pabon,78784,Edinboro,Kael Wisler,79317,Michigan State
+2023,12/18,Reno TOC,184,W,MD,10 - 0,Austin Vanek,83353,Montana State-Northern,Kael Wisler,79317,Michigan State
+2023,12/18,Reno TOC,184,W,DEC,11 - 7,Darion Johnson,78709,Western Wyoming College,Kael Wisler,79317,Michigan State
+2023,12/18,Reno TOC,184,L,MD,12 - 3,Jack Darrah,73242,Stanford,Kael Wisler,79317,Michigan State
+2023,12/18,Reno TOC,184,L,DEC,10 - 4,Gavin Stika,56258,Oklahoma State,Kael Wisler,79317,Michigan State
+2023,11/19,Navy Classic,184,L,DEC,7 - 2,Tyler Bates,56413,Kent State,Kael Wisler,79317,Michigan State
+2023,11/19,Navy Classic,184,W,DEC,7 - 4,Andrew Wenzel,71713,Air Force,Kael Wisler,79317,Michigan State
+2023,11/19,Navy Classic,184,L,MD,11 - 1,Colin Shannon,50060,American,Kael Wisler,79317,Michigan State
+2023,11/05,Michigan State Open,184,W,FALL,6:58,Carter Grewe,78928,Northern Illinois,Kael Wisler,79317,Michigan State
+2023,11/05,Michigan State Open,184,W,DEC,7 - 2,Mason Clem,72514,Ohio,Kael Wisler,79317,Michigan State
+2023,11/05,Michigan State Open,184,L,MD,13 - 5,Rylan Rogers,72668,Michigan,Kael Wisler,79317,Michigan State
+2023,02/05,Edinboro Open,197,L,FALL,1:33,Kael Wisler,79317,Michigan State,Jacob Lee,72196,Michigan State
+2023,02/05,Edinboro Open,197,W,MD,10 - 0,Jack Cummings,79007,Michigan,Jacob Lee,72196,Michigan State
+2023,02/05,Edinboro Open,197,W,SV-1,9 - 7,Damion Schunke,77761,Arizona State,Jacob Lee,72196,Michigan State
+2023,02/05,Edinboro Open,197,L,MFOR,0 - 0,Riley Godek,78722,Bucknell,Jacob Lee,72196,Michigan State
+2023,01/21,Alma College Open,197,W,FALL,3:27,Nate Critchfield,82611,Indiana Tech,Jacob Lee,72196,Michigan State
+2023,01/21,Alma College Open,197,W,TF5,16 - 0 7:00,Kyle Scott,63238,Rochester Christian,Jacob Lee,72196,Michigan State
+2023,01/21,Alma College Open,197,W,FALL,0:56,Jacob Saylor,76229,Trine University,Jacob Lee,72196,Michigan State
+2023,01/21,Alma College Open,197,W,TF5,16 - 0 7:00,Kody Krupp,75420,Olivet,Jacob Lee,72196,Michigan State
+2023,11/19,Navy Classic,197,L,FALL,2:48,Silas Allred,62343,Nebraska,Jacob Lee,72196,Michigan State
+2023,11/19,Navy Classic,197,W,FALL,4:54,Blake Schaffer,79797,Kent State,Jacob Lee,72196,Michigan State
+2023,11/19,Navy Classic,197,W,DEC,8 - 2,Riley Godek,78722,Bucknell,Jacob Lee,72196,Michigan State
+2023,11/19,Navy Classic,197,L,FALL,4:22,Nolan Springer,71749,Bucknell,Jacob Lee,72196,Michigan State
+2023,11/05,Michigan State Open,197,W,TF5,16 - 0 7:00,Ricky Legg,79578,Ashland,Jacob Lee,72196,Michigan State
+2023,11/05,Michigan State Open,197,W,DEC,7 - 4,Mike Tal-Shahar,78142,Wisconsin,Jacob Lee,72196,Michigan State
+2023,11/05,Michigan State Open,197,L,FALL,2:16,Austin Starr,76357,Ohio,Jacob Lee,72196,Michigan State
+2023,11/05,Michigan State Open,197,L,MD,14 - 3,Luke Geog,75490,Ohio State,Jacob Lee,72196,Michigan State
+2023,11/05,Michigan State Open,197,W,FALL,2:02,Jack Cummings,79007,Michigan,Jacob Lee,72196,Michigan State
+2023,02/05,Edinboro Open,197,W,INJ,1:58,Dante Hoose,81067,Lehigh,Misha Lomboy,79319,Michigan State
+2023,02/05,Edinboro Open,197,L,DEC,5 - 0,Tyler Stein,56778,Ohio State,Misha Lomboy,79319,Michigan State
+2023,02/05,Edinboro Open,197,L,DEC,6 - 0,Damion Schunke,77761,Arizona State,Misha Lomboy,79319,Michigan State
+2023,01/21,Alma College Open,197,L,FALL,2:18,Kael Wisler,79317,Michigan State,Misha Lomboy,79319,Michigan State
+2023,01/21,Alma College Open,197,L,SV-1,8 - 6,Dakota Veltman,80123,Muskegon Community College,Misha Lomboy,79319,Michigan State
+2023,01/21,Alma College Open,197,W,DEC,7 - 0,Durell Kline,74295,Rochester Christian,Misha Lomboy,79319,Michigan State
+2023,01/21,Alma College Open,197,W,DEC,5 - 2,Jacob Saylor,76229,Trine University,Misha Lomboy,79319,Michigan State
+2023,01/15,Purple Raider Open,197,L,MD,14 - 5,Dakota Howard,51202,Virginia Tech,Misha Lomboy,79319,Michigan State
+2023,01/15,Purple Raider Open,197,L,FALL,3:31,Noah Foltz,78741,Lock Haven,Misha Lomboy,79319,Michigan State
+2023,12/18,Reno TOC,197,W,MD,10 - 2,Tyson Stover,83250,Corban University,Misha Lomboy,79319,Michigan State
+2023,12/18,Reno TOC,197,L,MFOR,0 - 0,Talmage Carman,72146,Western Wyoming College,Misha Lomboy,79319,Michigan State
+2023,12/18,Reno TOC,197,L,FALL,3:35,Caden Gerlach,62931,Cal Baptist,Misha Lomboy,79319,Michigan State
+2023,11/05,Michigan State Open,197,L,DEC,7 - 4,Jack Cummings,79007,Michigan,Misha Lomboy,79319,Michigan State
+2023,11/05,Michigan State Open,197,L,DEC,4 - 2,Caden Ferris,79055,Central Michigan,Misha Lomboy,79319,Michigan State
+2023,03/05,Big Ten True Matches,285,L,DEC,7 - 4,Jacob Bullock,57724,Indiana,Ryan Vasbinder,53358,Michigan State
+2023,03/05,Big Ten True Matches,285,W,DEC,1 - 0,Matt Wroblewski,50019,Illinois,Ryan Vasbinder,53358,Michigan State
+2023,03/04,Big Ten Championships,285,L,DEC,4 - 0,Boone McDermott,56898,Rutgers,Ryan Vasbinder,53358,Michigan State
+2023,03/04,Big Ten Championships,285,L,FALL,3:50,Trent Hillger,49350,Wisconsin,Ryan Vasbinder,53358,Michigan State
+2023,03/04,Big Ten Championships,285,W,DEC,3 - 2,Matt Wroblewski,50019,Illinois,Ryan Vasbinder,53358,Michigan State
+2023,02/17,Michigan State - Central Michigan Dual,285,L,DEC,5 - 1,Bryan Caves,71791,Central Michigan,Ryan Vasbinder,53358,Michigan State
+2023,02/10,Indiana - Michigan State Dual,285,L,DEC,3 - 1,Jacob Bullock,57724,Indiana,Ryan Vasbinder,53358,Michigan State
+2023,02/05,Illinois - Michigan State Dual,285,W,DEC,1 - 0,Matt Wroblewski,50019,Illinois,Ryan Vasbinder,53358,Michigan State
+2023,01/29,Michigan State - Ohio State Dual,285,L,DEC,6 - 3,Tate Orndorff,50974,Ohio State,Ryan Vasbinder,53358,Michigan State
+2023,01/27,Maryland - Michigan State Dual,285,L,FALL,3:42,Jaron Smith,41353,Maryland,Ryan Vasbinder,53358,Michigan State
+2023,01/22,Michigan State - Penn State Dual,285,L,TF5,19 - 4 6:15,Greg Kerkvliet,61842,Penn State,Ryan Vasbinder,53358,Michigan State
+2023,01/20,Michigan State - Rutgers Dual,285,W,DEC,3 - 0,Kyle Epperly,62885,Rutgers,Ryan Vasbinder,53358,Michigan State
+2023,01/15,Michigan State - Minnesota Dual,285,L,DEC,4 - 3,Garrett Joles,50908,Minnesota,Ryan Vasbinder,53358,Michigan State
+2023,01/13,Michigan - Michigan State Dual,285,L,FALL,4:09,Mason Parris,51176,Michigan,Ryan Vasbinder,53358,Michigan State
+2023,01/06,Bucknell - Michigan State Dual,285,L,DEC,5 - 3,Dorian Crosby,62328,Bucknell,Ryan Vasbinder,53358,Michigan State
+2023,12/18,Reno TOC,285,W,FALL,0:55,Rylan Moldenhauer,83350,Montana State-Northern,Ryan Vasbinder,53358,Michigan State
+2023,12/18,Reno TOC,285,W,FALL,1:37,Antonio Garcia,82182,Southern Oregon,Ryan Vasbinder,53358,Michigan State
+2023,12/18,Reno TOC,285,W,DEC,1 - 0,Kevin Zimmer,72685,Wyoming,Ryan Vasbinder,53358,Michigan State
+2023,12/18,Reno TOC,285,W,FALL,3:58,Mason Ding,71706,Wyoming,Ryan Vasbinder,53358,Michigan State
+2023,12/18,Reno TOC,285,L,DEC,6 - 2,Jacob Bullock,57724,Indiana,Ryan Vasbinder,53358,Michigan State
+2023,12/10,Michigan State - Brown Dual,285,W,FALL,1:15,Alex Semenenko,79210,Brown,Ryan Vasbinder,53358,Michigan State
+2023,12/04,Michigan State - Princeton Dual,285,W,SV-1,8 - 6,Matthew Cover,57523,Princeton,Ryan Vasbinder,53358,Michigan State
+2023,12/04,Michigan State - Binghamton Dual,285,L,DEC,8 - 4,Cory Day,62418,Binghamton,Ryan Vasbinder,53358,Michigan State
+2023,11/19,Navy Classic,285,L,DEC,5 - 0,Grady Griess,63170,Navy,Ryan Vasbinder,53358,Michigan State
+2023,11/19,Navy Classic,285,L,MFOR,0 - 0,Cale Davidson,49353,Nebraska,Ryan Vasbinder,53358,Michigan State
+2023,11/19,Navy Classic,285,W,TF5,18 - 3 5:28,Ethan Miller,78742,Lock Haven,Ryan Vasbinder,53358,Michigan State
+2023,11/19,Navy Classic,285,W,DEC,4 - 1,Josh Evans,72531,VMI,Ryan Vasbinder,53358,Michigan State
+2023,11/18,Michigan State - American Dual,285,W,DEC,3 - 2,William Jarrell,62907,American,Ryan Vasbinder,53358,Michigan State
+2023,11/12,Michigan State - Presbyterian Dual,285,W,FALL,1:43,Will Leonard,61653,Presbyterian,Ryan Vasbinder,53358,Michigan State
+2023,11/05,Michigan State Open,285,W,FALL,1:37,Jacob Padilla,62517,Ohio,Ryan Vasbinder,53358,Michigan State
+2023,11/05,Michigan State Open,285,L,MD,13 - 3,Josh Heindselman,57311,Oklahoma,Ryan Vasbinder,53358,Michigan State
+2023,11/05,Michigan State Open,285,L,MFOR,0 - 0,Chase Trussell,57046,Utah Valley,Ryan Vasbinder,53358,Michigan State
+2023,11/05,Michigan State Open,285,W,DEC,6 - 3,Terrese Aaron,51827,Northern Illinois,Ryan Vasbinder,53358,Michigan State
+2023,11/05,Michigan State Open,285,W,DEC,7 - 2,Dzhabrail Khurshidov,73465,Michigan,Ryan Vasbinder,53358,Michigan State
+2023,11/05,Michigan State Open,285,L,MFOR,0 - 0,Daniel Bucknavich,62488,Cleveland State,Ryan Vasbinder,53358,Michigan State
+2023,02/05,Edinboro Open,285,W,MD,15 - 4,James Campbell,79321,Michigan State,Josh Terrill,79322,Michigan State
+2023,02/05,Edinboro Open,285,W,DEC,6 - 1,Charlie Tibbitts,78440,Binghamton,Josh Terrill,79322,Michigan State
+2023,02/05,Edinboro Open,285,L,DEC,3 - 2,John Meyers,69618,Seton Hill,Josh Terrill,79322,Michigan State
+2023,02/05,Edinboro Open,285,W,SV-1,9 - 3,TJ Moore,62573,Lehigh,Josh Terrill,79322,Michigan State
+2023,02/05,Edinboro Open,285,W,DEC,5 - 4,Reynold Maines,39928,Clarion,Josh Terrill,79322,Michigan State
+2023,01/15,Purple Raider Open,285,W,DEC,6 - 0,James Campbell,79321,Michigan State,Josh Terrill,79322,Michigan State
+2023,01/15,Purple Raider Open,285,W,DEC,4 - 0,Leo Muzika,78897,West Virginia,Josh Terrill,79322,Michigan State
+2023,01/15,Purple Raider Open,285,L,DEC,3 - 2,John Meyers,69618,Seton Hill,Josh Terrill,79322,Michigan State
+2023,01/15,Purple Raider Open,285,W,DEC,6 - 2,Mason Cover,72597,Cleveland State,Josh Terrill,79322,Michigan State
+2023,12/18,Reno TOC,285,W,SV-1,3 - 1,Antonio Dacosta,81153,Menlo,Josh Terrill,79322,Michigan State
+2023,12/18,Reno TOC,285,W,MD,11 - 1,Nicolas Rodriguez,79386,Utah Valley,Josh Terrill,79322,Michigan State
+2023,12/18,Reno TOC,285,W,MD,10 - 2,Excell Brooks,76530,Marian University,Josh Terrill,79322,Michigan State
+2023,12/18,Reno TOC,285,W,FALL,4:25,Keith Miley,73068,Little Rock,Josh Terrill,79322,Michigan State
+2023,12/18,Reno TOC,285,W,DEC,4 - 0,Mason Ding,71706,Wyoming,Josh Terrill,79322,Michigan State
+2023,12/18,Reno TOC,285,L,MD,12 - 1,Jacob Bullock,57724,Indiana,Josh Terrill,79322,Michigan State
+2023,11/05,Michigan State Open,285,W,FALL,0:54,Brett Boudreau,80176,Grand Valley State University,Josh Terrill,79322,Michigan State
+2023,11/05,Michigan State Open,285,W,DEC,5 - 0,Drew Harris,74323,Ohio,Josh Terrill,79322,Michigan State
+2023,11/05,Michigan State Open,285,L,DEC,6 - 1,Hogan Swenski,73186,Ohio State,Josh Terrill,79322,Michigan State
+2023,11/05,Michigan State Open,285,L,DEC,4 - 2,Jonah Schmidtke,67084,Wisconsin,Josh Terrill,79322,Michigan State
+2023,02/12,JCU Open,285,W,FALL,3:33,Wyatt Bailey,74300,Ashland,James Campbell,79321,Michigan State
+2023,02/12,JCU Open,285,W,MFOR,0 - 0,Dylan Norris,69541,Lake Erie College,James Campbell,79321,Michigan State
+2023,02/12,JCU Open,285,L,DEC,4 - 2,Laron Parks,67092,Notre Dame,James Campbell,79321,Michigan State
+2023,02/12,JCU Open,285,L,DEC,8 - 1,Max Millin,66911,Edinboro,James Campbell,79321,Michigan State
+2023,02/05,Edinboro Open,285,L,MD,15 - 4,Josh Terrill,79322,Michigan State,James Campbell,79321,Michigan State
+2023,02/05,Edinboro Open,285,W,DEC,2 - 0,Tristan Kemp,74521,West Virginia,James Campbell,79321,Michigan State
+2023,02/05,Edinboro Open,285,L,TF5,19 - 4 7:00,Isaac Reid,50915,Lock Haven,James Campbell,79321,Michigan State
+2023,01/21,Alma College Open,285,L,DEC,3 - 2,Carter Blough,79320,Michigan State,James Campbell,79321,Michigan State
+2023,01/21,Alma College Open,285,W,FALL,3:27,Ryan Latimore,81994,Indiana Tech,James Campbell,79321,Michigan State
+2023,01/21,Alma College Open,285,W,DEC,2 - 0,Isiah Pasik,76506,Michigan State,James Campbell,79321,Michigan State
+2023,01/21,Alma College Open,285,W,FALL,3:36,Boe Eckman,75415,Olivet,James Campbell,79321,Michigan State
+2023,01/21,Alma College Open,285,W,MD,12 - 0,Matt Johnson,83620,Alma College,James Campbell,79321,Michigan State
+2023,01/15,Purple Raider Open,285,L,DEC,6 - 0,Josh Terrill,79322,Michigan State,James Campbell,79321,Michigan State
+2023,01/15,Purple Raider Open,285,L,DEC,2 - 0,Carter Blough,79320,Michigan State,James Campbell,79321,Michigan State
+2023,01/15,Purple Raider Open,285,W,FALL,7:00,Caden Leighty,83663,Slippery Rock,James Campbell,79321,Michigan State
+2023,01/15,Purple Raider Open,285,W,FALL,0:59,Mason Atkinson,79992,Fairmont State,James Campbell,79321,Michigan State
+2023,01/15,Purple Raider Open,285,W,FALL,0:54,Justin Jaeckin,67043,Cleveland State,James Campbell,79321,Michigan State
+2023,11/05,Michigan State Open,285,L,MD,17 - 5,Gannon Rosenfeld,79252,Wisconsin,James Campbell,79321,Michigan State
+2023,11/05,Michigan State Open,285,L,MD,9 - 1,Hogan Swenski,73186,Ohio State,James Campbell,79321,Michigan State
+2023,02/05,Edinboro Open,285,L,DEC,3 - 1,Kade Sottolano,78785,Edinboro,Carter Blough,79320,Michigan State
+2023,02/05,Edinboro Open,285,L,TB-2,3 - 1,Caden Ferris,79055,Central Michigan,Carter Blough,79320,Michigan State
+2023,01/21,Alma College Open,285,W,FALL,3:57,Jackson Schenk,82790,Rochester Christian,Carter Blough,79320,Michigan State
+2023,01/21,Alma College Open,285,W,FALL,3:44,Paul Nadeau,82000,Rochester Christian,Carter Blough,79320,Michigan State
+2023,01/21,Alma College Open,285,W,FALL,1:05,Masen Joppich,80684,St Clair Community College,Carter Blough,79320,Michigan State
+2023,01/21,Alma College Open,285,W,DEC,3 - 2,James Campbell,79321,Michigan State,Carter Blough,79320,Michigan State
+2023,01/21,Alma College Open,285,W,DEC,4 - 0,Caden Ferris,79055,Central Michigan,Carter Blough,79320,Michigan State
+2023,01/15,Purple Raider Open,285,W,FALL,6:23,Corey Perkins-Willett,83653,Unattached,Carter Blough,79320,Michigan State
+2023,01/15,Purple Raider Open,285,W,FALL,6:08,Charlie Tamburin,79448,Glenville State University,Carter Blough,79320,Michigan State
+2023,01/15,Purple Raider Open,285,W,DEC,2 - 0,James Campbell,79321,Michigan State,Carter Blough,79320,Michigan State
+2023,01/15,Purple Raider Open,285,W,DEC,4 - 0,Leo Muzika,78897,West Virginia,Carter Blough,79320,Michigan State
+2023,01/15,Purple Raider Open,285,L,DEC,4 - 2,John Meyers,69618,Seton Hill,Carter Blough,79320,Michigan State
+2023,12/11,Cleveland State Open,285,L,DEC,3 - 1,Ashton Davis,77922,Spartan Combat RTC,Carter Blough,79320,Michigan State
+2023,12/11,Cleveland State Open,285,W,DEC,9 - 3,Tristan Kemp,74521,West Virginia,Carter Blough,79320,Michigan State
+2023,12/11,Cleveland State Open,285,L,MD,11 - 0,Daniel Bucknavich,62488,Cleveland State,Carter Blough,79320,Michigan State
+2023,11/05,Michigan State Open,285,L,DEC,3 - 1,Gannon Rosenfeld,79252,Wisconsin,Carter Blough,79320,Michigan State
+2023,11/05,Michigan State Open,285,L,DEC,4 - 1,Brooks Empey,72155,Wisconsin,Carter Blough,79320,Michigan State
+2023,12/04,Lake Erie Storm Open,285,L,DEC,7 - 2,Michael Misita,72583,Ohio State,Nick West,73022,Michigan State
+2023,12/04,Lake Erie Storm Open,285,W,SV-1,3 - 1,Demetrius Daniels,63185,Alderson-Broaddus University,Nick West,73022,Michigan State
+2023,12/04,Lake Erie Storm Open,285,W,DEC,3 - 0,Ty Petrey,57438,Ashland,Nick West,73022,Michigan State
+2023,12/04,Lake Erie Storm Open,285,L,DEC,6 - 4,Nick Lodato,72606,Edinboro,Nick West,73022,Michigan State
+2023,11/19,Navy Classic,285,L,DEC,5 - 2,Jacob Cover,57237,Kent State,Nick West,73022,Michigan State
+2023,11/19,Navy Classic,285,W,DEC,2 - 1,Ben Stemmet,65010,The Citadel,Nick West,73022,Michigan State
+2023,11/19,Navy Classic,285,L,TF5,17 - 1 1:13,Wyatt Hendrickson,56694,Air Force,Nick West,73022,Michigan State
+2023,11/05,Michigan State Open,285,L,FALL,1:19,Mason Parris,51176,Michigan,Nick West,73022,Michigan State
+2023,11/05,Michigan State Open,285,L,DEC,4 - 0,Matt Wroblewski,50019,Illinois,Nick West,73022,Michigan State
+2023,11/05,Michigan State Open,285,W,TB-1,2 - 1,Simon Lato,70019,Central Michigan,Nick West,73022,Michigan State
+2023,02/12,JCU Open,285,L,DEC,4 - 2,Tommy Graden,63107,Fairmont State,Isiah Pasik,76506,Michigan State
+2023,02/12,JCU Open,285,L,DEC,2 - 1,Mason Cover,72597,Cleveland State,Isiah Pasik,76506,Michigan State
+2023,01/21,Alma College Open,285,L,DEC,2 - 0,James Campbell,79321,Michigan State,Isiah Pasik,76506,Michigan State
+2023,01/21,Alma College Open,285,W,FALL,3:39,Donovan Litteral,83729,Ferris State,Isiah Pasik,76506,Michigan State
+2023,01/21,Alma College Open,285,L,SV-1,2 - 1,Jackson Schenk,82790,Rochester Christian,Isiah Pasik,76506,Michigan State
+2023,01/21,Alma College Open,285,W,FALL,1:02,Andre Penney,80686,St Clair Community College,Isiah Pasik,76506,Michigan State
+2023,01/21,Alma College Open,285,L,DEC,3 - 2,Caden Ferris,79055,Central Michigan,Isiah Pasik,76506,Michigan State
+2023,01/21,Alma College Open,285,W,DEC,6 - 1,Brett Boudreau,80176,Grand Valley State University,Isiah Pasik,76506,Michigan State
+2023,01/15,Purple Raider Open,285,L,DEC,8 - 2,Aiden Lacoma,78442,Southeast RTC,Isiah Pasik,76506,Michigan State
+2023,01/15,Purple Raider Open,285,L,DEC,3 - 1,Wyatt Bailey,74300,Ashland,Isiah Pasik,76506,Michigan State
+2023,12/11,Cleveland State Open,285,L,DEC,2 - 1,Ashton Davis,77922,Spartan Combat RTC,Isiah Pasik,76506,Michigan State
+2023,12/11,Cleveland State Open,285,L,DEC,2 - 0,Ira Jenkins,72919,Michigan,Isiah Pasik,76506,Michigan State
+2023,11/05,Michigan State Open,285,L,DEC,2 - 0,Drew Harris,74323,Ohio,Isiah Pasik,76506,Michigan State
+2023,11/05,Michigan State Open,285,L,DEC,1 - 0,Mason Cover,72597,Cleveland State,Isiah Pasik,76506,Michigan State

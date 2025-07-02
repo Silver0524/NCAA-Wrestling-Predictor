@@ -1,0 +1,562 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2023,03/16,NCAA Championships,125,L,MFOR,0 - 0,Liam Cronin,45061,Nebraska,Spencer Lee,49146,Iowa
+2023,03/16,NCAA Championships,125,L,MFOR,0 - 0,Brandon Courtney,50881,Arizona State,Spencer Lee,49146,Iowa
+2023,03/16,NCAA Championships,125,L,FALL,6:59,Matt Ramos,57134,Purdue,Spencer Lee,49146,Iowa
+2023,03/16,NCAA Championships,125,W,MD,14 - 4,Anthony Noto,64642,Lock Haven,Spencer Lee,49146,Iowa
+2023,03/16,NCAA Championships,125,W,TF5,17 - 0 2:30,Jack Medley,51392,Michigan,Spencer Lee,49146,Iowa
+2023,03/16,NCAA Championships,125,W,FALL,0:36,Tucker Owens,71711,Air Force,Spencer Lee,49146,Iowa
+2023,03/04,Big Ten Championships,125,W,DEC,8 - 2,Liam Cronin,45061,Nebraska,Spencer Lee,49146,Iowa
+2023,03/04,Big Ten Championships,125,W,TF5,17 - 0 5:00,Jack Medley,51392,Michigan,Spencer Lee,49146,Iowa
+2023,03/04,Big Ten Championships,125,W,TF5,20 - 2 6:51,Patrick McKee,50594,Minnesota,Spencer Lee,49146,Iowa
+2023,02/19,Oklahoma State - Iowa Dual,125,W,FALL,0:51,Reece Witcraft,57312,Oklahoma State,Spencer Lee,49146,Iowa
+2023,02/10,Michigan - Iowa Dual,125,W,MD,11 - 2,Jack Medley,51392,Michigan,Spencer Lee,49146,Iowa
+2023,02/03,Iowa - Minnesota Dual,125,W,DEC,7 - 1,Patrick McKee,50594,Minnesota,Spencer Lee,49146,Iowa
+2023,01/27,Iowa - Penn State Dual,125,W,TF5,18 - 2 2:14,Marco Vespa,66717,Penn State,Spencer Lee,49146,Iowa
+2023,01/22,Iowa - Wisconsin Dual,125,W,FALL,4:38,Eric Barnett,56753,Wisconsin,Spencer Lee,49146,Iowa
+2023,01/20,Nebraska - Iowa Dual,125,W,FALL,0:38,Liam Cronin,45061,Nebraska,Spencer Lee,49146,Iowa
+2023,01/13,Northwestern - Iowa Dual,125,W,FALL,2:01,Michael DeAugustino,56007,Northwestern,Spencer Lee,49146,Iowa
+2023,01/08,Iowa - Purdue Dual,125,W,FALL,2:56,Matt Ramos,57134,Purdue,Spencer Lee,49146,Iowa
+2023,01/06,Illinois - Iowa Dual,125,W,FALL,2:22,Maximo Renteria,71870,Illinois,Spencer Lee,49146,Iowa
+2023,12/29,Soldier Salute Open,125,W,FALL,1:24,Drake Ayala,66975,Iowa,Spencer Lee,49146,Iowa
+2023,12/29,Soldier Salute Open,125,W,TF5,19 - 1 4:28,Charlie Farmer,71771,Army West Point,Spencer Lee,49146,Iowa
+2023,12/29,Soldier Salute Open,125,W,FALL,0:54,Damion Ryan,78489,Bellarmine,Spencer Lee,49146,Iowa
+2023,12/29,Soldier Salute Open,125,W,MD,15 - 5,Jore Volk,72600,Wyoming,Spencer Lee,49146,Iowa
+2023,12/04,Iowa State - Iowa Dual,125,W,MD,16 - 5,Corey Cabanban,57236,Iowa State,Spencer Lee,49146,Iowa
+2023,02/04,Don Parker Open,133,W,TF5,25 - 10 7:00,Justin Fortugno,81005,Wisconsin-Whitewater,Drake Ayala,66975,Iowa
+2023,02/04,Don Parker Open,133,W,DEC,5 - 1,Nicolar Rivera,78438,Wisconsin,Drake Ayala,66975,Iowa
+2023,02/04,Don Parker Open,133,W,TF5,20 - 5 7:00,Matthew Chi,77507,Wisconsin-Parkside,Drake Ayala,66975,Iowa
+2023,02/04,Don Parker Open,133,W,MD,18 - 7,Robby Horsman,56904,St Cloud State,Drake Ayala,66975,Iowa
+2023,01/28,Flash Flanagan Open,133,W,FALL,0:47,Cory Hoyle,78963,Central,Drake Ayala,66975,Iowa
+2023,01/28,Flash Flanagan Open,133,W,TF5,20 - 4 7:00,Dylan Coy,77722,Wisconsin,Drake Ayala,66975,Iowa
+2023,01/28,Flash Flanagan Open,133,W,DEC,7 - 2,Cory Land,73283,Northern Iowa,Drake Ayala,66975,Iowa
+2023,01/28,Flash Flanagan Open,133,W,TF5,21 - 6 7:00,Denis Murphy,63506,Wisconsin-Oshkosh,Drake Ayala,66975,Iowa
+2023,12/29,Soldier Salute Open,125,L,FALL,1:24,Spencer Lee,49146,Iowa,Drake Ayala,66975,Iowa
+2023,12/29,Soldier Salute Open,125,W,DEC,5 - 2,Ethan Berginc,71779,Army West Point,Drake Ayala,66975,Iowa
+2023,12/29,Soldier Salute Open,125,W,TF5,23 - 8 6:06,Jack Parker,71291,Bellarmine,Drake Ayala,66975,Iowa
+2023,12/29,Soldier Salute Open,125,W,MD,20 - 6,Trever Anderson,76359,Northern Iowa,Drake Ayala,66975,Iowa
+2023,12/10,UNI Open,125,W,MD,16 - 6,Caleb Fuessley,62605,Iowa State,Drake Ayala,66975,Iowa
+2023,12/10,UNI Open,125,W,MD,11 - 3,Trever Anderson,76359,Northern Iowa,Drake Ayala,66975,Iowa
+2023,11/26,Pennsylvania - Iowa Dual,125,L,TF5,20 - 5 7:00,Ryan Miller,62350,Pennsylvania,Aidan Harris,71391,Iowa
+2023,11/18,Iowa - Sacred Heart Dual,125,L,DEC,5 - 1,Mike Manta,79721,Sacred Heart,Aidan Harris,71391,Iowa
+2023,11/17,Iowa - Army Dual,125,L,FALL,2:42,Ethan Berginc,71779,Army West Point,Aidan Harris,71391,Iowa
+2023,11/13,Cal Baptist - Iowa Dual,125,L,DEC,9 - 4,Eli Griffin,68743,Cal Baptist,Aidan Harris,71391,Iowa
+2023,01/28,Flash Flanagan Open,125,W,FALL,1:16,Dalton Koenig,82999,Iowa Wesleyan,Charles Matthews,67463,Iowa
+2023,01/28,Flash Flanagan Open,125,W,MD,14 - 5,Wiley Jessup,81923,Loras,Charles Matthews,67463,Iowa
+2023,01/28,Flash Flanagan Open,125,W,MD,11 - 2,Raul Romero,80905,Indian Hills,Charles Matthews,67463,Iowa
+2023,01/28,Flash Flanagan Open,125,W,DEC,7 - 6,Raul Romero,80905,Indian Hills,Charles Matthews,67463,Iowa
+2023,01/28,Flash Flanagan Open,125,W,MD,15 - 5,Colin Suyko,70121,Central,Charles Matthews,67463,Iowa
+2023,01/28,Flash Flanagan Open,125,L,DEC,5 - 0,Luc Valdez,63772,Wisconsin-Oshkosh,Charles Matthews,67463,Iowa
+2023,12/29,Soldier Salute Open,125,L,MD,12 - 1,Trever Anderson,76359,Northern Iowa,Charles Matthews,67463,Iowa
+2023,12/29,Soldier Salute Open,125,L,DEC,4 - 0,Blair Orr,55804,The Citadel,Charles Matthews,67463,Iowa
+2023,12/29,Soldier Salute Open,125,W,MFOR,0 - 0,Tony Burke,78464,VMI,Charles Matthews,67463,Iowa
+2023,12/29,Soldier Salute Open,125,L,TF5,16 - 0 3:00,Jore Volk,72600,Wyoming,Charles Matthews,67463,Iowa
+2023,12/29,Soldier Salute Open,125,L,MD,16 - 2,Garrett Ricks,67111,Wyoming,Charles Matthews,67463,Iowa
+2023,12/10,Iowa - Chattanooga Dual,125,L,DEC,1 - 0,Logan Ashton,57605,Chattanooga,Charles Matthews,67463,Iowa
+2023,11/18,Iowa - Buffalo Dual,125,L,MD,11 - 2,Patrick Adams,72223,Buffalo,Charles Matthews,67463,Iowa
+2023,03/16,NCAA Championships,133,L,DEC,4 - 1,Micky Phillippi,45230,Pittsburgh,Brody Teske,52779,Iowa
+2023,03/16,NCAA Championships,133,W,DEC,11 - 5,Connor Brown,49321,Missouri,Brody Teske,52779,Iowa
+2023,03/16,NCAA Championships,133,L,DEC,13 - 10,Lucas Byrd,56714,Illinois,Brody Teske,52779,Iowa
+2023,03/04,Big Ten Championships,133,W,DEC,8 - 4,Joe Heilmann,51223,Rutgers,Brody Teske,52779,Iowa
+2023,03/04,Big Ten Championships,133,L,DEC,9 - 4,Chris Cannon,62895,Northwestern,Brody Teske,52779,Iowa
+2023,03/04,Big Ten Championships,133,W,DEC,4 - 1,Rayvon Foley,50823,Michigan State,Brody Teske,52779,Iowa
+2023,03/04,Big Ten Championships,133,L,MD,13 - 2,Roman Bravo-Young,49665,Penn State,Brody Teske,52779,Iowa
+2023,03/04,Big Ten Championships,133,W,DEC,4 - 1,Taylor LaMont,44777,Wisconsin,Brody Teske,52779,Iowa
+2023,02/19,Oklahoma State - Iowa Dual,133,L,MD,11 - 3,Daton Fix,49263,Oklahoma State,Brody Teske,52779,Iowa
+2023,02/10,Michigan - Iowa Dual,133,W,TF5,19 - 3 4:09,Wilfred Tanefeu,73461,Michigan,Brody Teske,52779,Iowa
+2023,02/03,Iowa - Minnesota Dual,133,W,DEC,4 - 3,Jake Gliva,51241,Minnesota,Brody Teske,52779,Iowa
+2023,01/27,Iowa - Penn State Dual,133,L,FALL,6:49,Roman Bravo-Young,49665,Penn State,Brody Teske,52779,Iowa
+2023,01/22,Iowa - Wisconsin Dual,133,W,DEC,4 - 0,Taylor LaMont,44777,Wisconsin,Brody Teske,52779,Iowa
+2023,01/20,Nebraska - Iowa Dual,133,W,DEC,5 - 2,Kyle Burwick,57385,Nebraska,Brody Teske,52779,Iowa
+2023,01/08,Iowa - Purdue Dual,133,W,MD,16 - 4,Dustin Norris,72154,Purdue,Brody Teske,52779,Iowa
+2023,11/13,Cal Baptist - Iowa Dual,133,W,DEC,6 - 4,Hunter Leake,67190,Cal Baptist,Brody Teske,52779,Iowa
+2023,01/13,Northwestern - Iowa Dual,133,L,DEC,4 - 1,Chris Cannon,62895,Northwestern,Cullan Schriever,57331,Iowa
+2023,01/08,Iowa - Purdue Dual,141,L,DEC,6 - 2,Parker Filius,49302,Purdue,Cullan Schriever,57331,Iowa
+2023,01/06,Illinois - Iowa Dual,133,L,FALL,2:58,Lucas Byrd,56714,Illinois,Cullan Schriever,57331,Iowa
+2023,12/29,Soldier Salute Open,133,W,DEC,8 - 2,Ryan Franco,70909,Army West Point,Cullan Schriever,57331,Iowa
+2023,12/29,Soldier Salute Open,133,W,DEC,8 - 4,Richard Treanor,68698,Army West Point,Cullan Schriever,57331,Iowa
+2023,12/29,Soldier Salute Open,133,W,DEC,4 - 2,Angelo Rini,56766,Columbia,Cullan Schriever,57331,Iowa
+2023,12/29,Soldier Salute Open,133,W,DEC,9 - 2,Derrick Cardinal,68734,South Dakota State,Cullan Schriever,57331,Iowa
+2023,12/10,Iowa - Chattanooga Dual,133,L,SV-1,3 - 1,Brayden Palmer,59826,Chattanooga,Cullan Schriever,57331,Iowa
+2023,12/04,Iowa State - Iowa Dual,133,L,DEC,3 - 1,Ramazan Attasauov,58943,Iowa State,Cullan Schriever,57331,Iowa
+2023,11/26,Pennsylvania - Iowa Dual,133,L,DEC,6 - 0,Michael Colaiocco,56733,Pennsylvania,Cullan Schriever,57331,Iowa
+2023,11/18,Iowa - Buffalo Dual,133,W,TF5,23 - 8 6:39,Mason Bush,72224,Buffalo,Cullan Schriever,57331,Iowa
+2023,11/18,Iowa - Sacred Heart Dual,133,W,DEC,20 - 13,Andrew Fallon,69899,Sacred Heart,Cullan Schriever,57331,Iowa
+2023,11/17,Iowa - Army Dual,133,W,DEC,2 - 0,Richard Treanor,68698,Army West Point,Cullan Schriever,57331,Iowa
+2023,11/12,Luther Open,133,W,TF5,21 - 4 7:00,Denis Murphy,63506,Wisconsin-Oshkosh,Cullan Schriever,57331,Iowa
+2023,11/12,Luther Open,133,W,DEC,7 - 5,Cade Willis,76100,Augsburg,Cullan Schriever,57331,Iowa
+2023,11/12,Luther Open,133,W,TF5,19 - 2 7:00,Yousuf Zigan,70379,Luther,Cullan Schriever,57331,Iowa
+2023,11/12,Luther Open,133,W,MD,13 - 5,Kaden Anderlik,57708,Upper Iowa,Cullan Schriever,57331,Iowa
+2023,01/28,Flash Flanagan Open,133,W,MD,17 - 5,Te'Andre Allen,82529,Indian Hills,Jace Rhodes,73710,Iowa
+2023,01/28,Flash Flanagan Open,133,W,MFOR,0 - 0,Justin Bradford,80890,Indian Hills,Jace Rhodes,73710,Iowa
+2023,01/28,Flash Flanagan Open,133,L,DEC,9 - 2,Dylan Coy,77722,Wisconsin,Jace Rhodes,73710,Iowa
+2023,01/28,Flash Flanagan Open,133,L,DEC,8 - 2,Cory Land,73283,Northern Iowa,Jace Rhodes,73710,Iowa
+2023,12/29,Soldier Salute Open,133,W,DEC,5 - 2,Ryan Franco,70909,Army West Point,Jace Rhodes,73710,Iowa
+2023,12/29,Soldier Salute Open,133,L,DEC,9 - 6,Brendan Ferretti,72187,Navy,Jace Rhodes,73710,Iowa
+2023,12/29,Soldier Salute Open,133,L,DEC,6 - 4,Brendan Ferretti,72187,Navy,Jace Rhodes,73710,Iowa
+2023,12/29,Soldier Salute Open,133,W,SV-1,6 - 4,Derrick Cardinal,68734,South Dakota State,Jace Rhodes,73710,Iowa
+2023,12/29,Soldier Salute Open,133,W,DEC,6 - 2,Dylan Coy,77722,Wisconsin,Jace Rhodes,73710,Iowa
+2023,12/29,Soldier Salute Open,133,W,DEC,6 - 3,Aidan Noonan,70757,Wyoming,Jace Rhodes,73710,Iowa
+2023,12/10,UNI Open,133,L,DEC,8 - 1,Evan Frost,72948,Iowa State,Jace Rhodes,73710,Iowa
+2023,12/10,UNI Open,133,W,DEC,1 - 0,Jesse Ybarra,57333,Iowa,Jace Rhodes,73710,Iowa
+2023,12/10,UNI Open,133,W,DEC,4 - 0,Cory Land,73283,Northern Iowa,Jace Rhodes,73710,Iowa
+2023,12/10,UNI Open,133,L,DEC,7 - 2,Julian Farber,65843,Northern Iowa,Jace Rhodes,73710,Iowa
+2023,11/26,Cyclone Open,133,W,MFOR,0 - 0,Nicolar Rivera,78438,Wisconsin,Jace Rhodes,73710,Iowa
+2023,11/26,Cyclone Open,133,L,FALL,7:00,Brock Bobzien,71941,Badger RTC,Jace Rhodes,73710,Iowa
+2023,11/26,Cyclone Open,133,L,DEC,6 - 1,Garrett Funk,73284,Northern Iowa,Jace Rhodes,73710,Iowa
+2023,11/19,Lindenwood Open,133,W,TF5,17 - 0 7:00,Cedric Abney,81672,Jarvis Christian College,Jace Rhodes,73710,Iowa
+2023,11/19,Lindenwood Open,133,W,DEC,6 - 0,Elon Rodriguez,75370,Triton College,Jace Rhodes,73710,Iowa
+2023,11/19,Lindenwood Open,133,W,FALL,2:57,Kade Willis,74882,Maryville University,Jace Rhodes,73710,Iowa
+2023,11/19,Lindenwood Open,133,W,DEC,8 - 2,JP Homfeld,74854,Maryville University,Jace Rhodes,73710,Iowa
+2023,11/19,Lindenwood Open,133,W,FALL,2:20,Shay Korhorn,79324,Bellarmine,Jace Rhodes,73710,Iowa
+2023,11/12,Luther Open,133,W,MD,15 - 3,Nosa Egbon,81862,Loras,Jace Rhodes,73710,Iowa
+2023,11/12,Luther Open,133,W,DEC,8 - 3,Justin Fortugno,81005,Wisconsin-Whitewater,Jace Rhodes,73710,Iowa
+2023,11/12,Luther Open,133,W,MD,14 - 4,Jackson McCormick,80432,Rochester Community & Tech College,Jace Rhodes,73710,Iowa
+2023,11/12,Luther Open,133,W,DEC,9 - 5,Dominik Mallinder,80070,Wisconsin-Whitewater,Jace Rhodes,73710,Iowa
+2023,12/29,Soldier Salute Open,133,L,MFOR,0 - 0,George Rosas,78686,The Citadel,Jesse Ybarra,57333,Iowa
+2023,12/29,Soldier Salute Open,133,L,MFOR,0 - 0,Dylan Coy,77722,Wisconsin,Jesse Ybarra,57333,Iowa
+2023,12/10,UNI Open,133,L,DEC,1 - 0,Jace Rhodes,73710,Iowa,Jesse Ybarra,57333,Iowa
+2023,12/10,UNI Open,133,L,DEC,8 - 4,Evan Frost,72948,Iowa State,Jesse Ybarra,57333,Iowa
+2023,12/10,UNI Open,133,W,DEC,12 - 8,Cory Land,73283,Northern Iowa,Jesse Ybarra,57333,Iowa
+2023,12/10,UNI Open,133,L,DEC,8 - 4,Julian Farber,65843,Northern Iowa,Jesse Ybarra,57333,Iowa
+2023,03/16,NCAA Championships,141,L,DEC,6 - 4,Andrew Alirez,56723,Northern Colorado,Real Woods,50664,Iowa
+2023,03/16,NCAA Championships,141,W,MD,11 - 1,Brock Hardy,51242,Nebraska,Real Woods,50664,Iowa
+2023,03/16,NCAA Championships,141,W,MD,9 - 0,Allan Hart,49193,Missouri,Real Woods,50664,Iowa
+2023,03/16,NCAA Championships,141,W,DEC,7 - 5,Dylan D'Emilio,56726,Ohio State,Real Woods,50664,Iowa
+2023,03/16,NCAA Championships,141,W,MD,13 - 1,Kal Miller,72211,Maryland,Real Woods,50664,Iowa
+2023,03/04,Big Ten Championships,141,W,DEC,2 - 1,Brock Hardy,51242,Nebraska,Real Woods,50664,Iowa
+2023,03/04,Big Ten Championships,141,W,DEC,3 - 0,Frankie Tal-Shahar,64959,Northwestern,Real Woods,50664,Iowa
+2023,03/04,Big Ten Championships,141,W,FALL,2:08,Parker Filius,49302,Purdue,Real Woods,50664,Iowa
+2023,02/19,Oklahoma State - Iowa Dual,141,W,MD,11 - 0,Carter Young,71954,Oklahoma State,Real Woods,50664,Iowa
+2023,02/10,Michigan - Iowa Dual,141,W,MD,14 - 1,Patrick Nolan,57652,Michigan,Real Woods,50664,Iowa
+2023,02/03,Iowa - Minnesota Dual,141,W,DEC,8 - 1,Jake Bergeland,49189,Minnesota,Real Woods,50664,Iowa
+2023,01/27,Iowa - Penn State Dual,141,W,DEC,4 - 1,Beau Bartlett,62221,Penn State,Real Woods,50664,Iowa
+2023,01/22,Iowa - Wisconsin Dual,141,W,DEC,9 - 2,Joseph Zargo,62890,Wisconsin,Real Woods,50664,Iowa
+2023,01/20,Nebraska - Iowa Dual,141,W,DEC,6 - 4,Brock Hardy,51242,Nebraska,Real Woods,50664,Iowa
+2023,01/13,Northwestern - Iowa Dual,141,W,TF5,17 - 2 7:00,Frankie Tal-Shahar,64959,Northwestern,Real Woods,50664,Iowa
+2023,12/29,Soldier Salute Open,141,W,TF5,16 - 0 3:48,Shane Percelay,67033,Army West Point,Real Woods,50664,Iowa
+2023,12/29,Soldier Salute Open,141,W,FALL,2:43,Julian Sanchez,57318,Army West Point,Real Woods,50664,Iowa
+2023,12/29,Soldier Salute Open,141,W,TF5,17 - 1 3:25,Connor Thorpe,68862,Northern Iowa,Real Woods,50664,Iowa
+2023,12/29,Soldier Salute Open,141,W,MD,12 - 1,Caleb Gross,62668,South Dakota State,Real Woods,50664,Iowa
+2023,12/10,Iowa - Chattanooga Dual,141,W,TF5,16 - 0 2:58,Dayne Dalrymple,71790,Chattanooga,Real Woods,50664,Iowa
+2023,12/04,Iowa State - Iowa Dual,141,W,DEC,3 - 2,Casey Swiderski,71913,Iowa State,Real Woods,50664,Iowa
+2023,01/06,Illinois - Iowa Dual,141,L,MD,20 - 8,Danny Pucino,66101,Illinois,Drew Bennett,51142,Iowa
+2023,12/29,Soldier Salute Open,141,L,DEC,3 - 2,Julian Sanchez,57318,Army West Point,Drew Bennett,51142,Iowa
+2023,12/29,Soldier Salute Open,141,W,MD,14 - 5,Jager Eisch,72139,Minnesota,Drew Bennett,51142,Iowa
+2023,12/29,Soldier Salute Open,141,L,SV-1,8 - 6,Caleb Gross,62668,South Dakota State,Drew Bennett,51142,Iowa
+2023,12/29,Soldier Salute Open,141,W,FALL,3:45,Jason Garay,73358,The Citadel,Drew Bennett,51142,Iowa
+2023,12/29,Soldier Salute Open,141,W,SV-1,3 - 1,Darren Green,62886,Wyoming,Drew Bennett,51142,Iowa
+2023,12/29,Soldier Salute Open,141,W,DEC,9 - 5,Kainalu Estrella,57058,Utah Valley,Drew Bennett,51142,Iowa
+2023,11/26,Pennsylvania - Iowa Dual,141,L,DEC,4 - 1,Carmen Ferrante,50660,Pennsylvania,Drew Bennett,51142,Iowa
+2023,11/18,Iowa - Buffalo Dual,141,W,DEC,9 - 6,Matt Ryan,69769,Buffalo,Drew Bennett,51142,Iowa
+2023,11/18,Iowa - Sacred Heart Dual,141,W,DEC,12 - 8,Seth Brown,56585,Sacred Heart,Drew Bennett,51142,Iowa
+2023,11/17,Iowa - Army Dual,141,L,DEC,5 - 3,Julian Sanchez,57318,Army West Point,Drew Bennett,51142,Iowa
+2023,11/13,Cal Baptist - Iowa Dual,141,W,MD,16 - 5,Edison Alanis,62923,Cal Baptist,Drew Bennett,51142,Iowa
+2023,03/16,NCAA Championships,149,L,MD,12 - 3,Caleb Henson,72656,Virginia Tech,Max Murin,49148,Iowa
+2023,03/16,NCAA Championships,149,L,DEC,4 - 3,Kyle Parco,58562,Arizona State,Max Murin,49148,Iowa
+2023,03/16,NCAA Championships,149,W,SV-1,3 - 1,Michael Blockhus,57163,Minnesota,Max Murin,49148,Iowa
+2023,03/16,NCAA Championships,149,W,DEC,3 - 2,Chance Lamer,70915,Michigan,Max Murin,49148,Iowa
+2023,03/16,NCAA Championships,149,L,DEC,8 - 7,Yianni Diakomihalis,49110,Cornell,Max Murin,49148,Iowa
+2023,03/16,NCAA Championships,149,W,DEC,3 - 1,Jaden Abas,56738,Stanford,Max Murin,49148,Iowa
+2023,03/16,NCAA Championships,149,W,DEC,6 - 3,Caleb Tyus,72912,SIU Edwardsville,Max Murin,49148,Iowa
+2023,03/04,Big Ten Championships,149,W,DEC,3 - 2,Shayne Van Ness,71588,Penn State,Max Murin,49148,Iowa
+2023,03/04,Big Ten Championships,149,W,INJ,1:42,Yahya Thomas,49245,Northwestern,Max Murin,49148,Iowa
+2023,03/04,Big Ten Championships,149,W,DEC,4 - 2,Shayne Van Ness,71588,Penn State,Max Murin,49148,Iowa
+2023,03/04,Big Ten Championships,149,W,INJ,2:03,Peyton Omania,56081,Michigan State,Max Murin,49148,Iowa
+2023,03/04,Big Ten Championships,149,L,DEC,8 - 2,Sammy Sasso,51143,Ohio State,Max Murin,49148,Iowa
+2023,02/19,Oklahoma State - Iowa Dual,149,W,DEC,4 - 3,Victor Voinovich,67220,Oklahoma State,Max Murin,49148,Iowa
+2023,02/10,Michigan - Iowa Dual,149,W,DEC,10 - 4,Chance Lamer,70915,Michigan,Max Murin,49148,Iowa
+2023,02/03,Iowa - Minnesota Dual,149,W,DEC,11 - 7,Michael Blockhus,57163,Minnesota,Max Murin,49148,Iowa
+2023,01/27,Iowa - Penn State Dual,149,W,DEC,4 - 1,Shayne Van Ness,71588,Penn State,Max Murin,49148,Iowa
+2023,01/22,Iowa - Wisconsin Dual,149,L,DEC,5 - 3,Austin Gomez,49153,Wisconsin,Max Murin,49148,Iowa
+2023,01/20,Nebraska - Iowa Dual,149,W,FALL,3:47,Dayne Morton,56980,Nebraska,Max Murin,49148,Iowa
+2023,01/13,Northwestern - Iowa Dual,149,L,DEC,3 - 2,Yahya Thomas,49245,Northwestern,Max Murin,49148,Iowa
+2023,01/08,Iowa - Purdue Dual,149,W,TF5,22 - 7 5:37,Trey Kruse,67044,Purdue,Max Murin,49148,Iowa
+2023,01/06,Illinois - Iowa Dual,149,W,FALL,3:34,Kevon Davenport,57216,Illinois,Max Murin,49148,Iowa
+2023,12/29,Soldier Salute Open,149,W,DEC,8 - 3,Joel Jesuroga,74084,Iowa,Max Murin,49148,Iowa
+2023,12/29,Soldier Salute Open,149,W,DEC,7 - 4,Caleb Rathjen,63794,Iowa,Max Murin,49148,Iowa
+2023,12/29,Soldier Salute Open,149,W,FALL,2:59,Adam Allard,62777,Northern Iowa,Max Murin,49148,Iowa
+2023,12/29,Soldier Salute Open,149,W,TF5,20 - 4 5:19,Alek Martin,72167,South Dakota State,Max Murin,49148,Iowa
+2023,12/29,Soldier Salute Open,149,W,FALL,2:31,Ryan Vigil,63624,VMI,Max Murin,49148,Iowa
+2023,12/04,Iowa State - Iowa Dual,149,L,SV-1,3 - 1,Paniro Johnson,68708,Iowa State,Max Murin,49148,Iowa
+2023,11/26,Pennsylvania - Iowa Dual,149,W,SV-1,6 - 4,Doug Zapf,50656,Pennsylvania,Max Murin,49148,Iowa
+2023,11/18,Iowa - Buffalo Dual,149,W,MD,16 - 5,Kaleb Burgess,72225,Buffalo,Max Murin,49148,Iowa
+2023,11/18,Iowa - Sacred Heart Dual,149,W,TF5,20 - 5 4:00,Matt Laurie,62474,Sacred Heart,Max Murin,49148,Iowa
+2023,11/17,Iowa - Army Dual,149,W,MD,15 - 5,Matthew Williams,69376,Army West Point,Max Murin,49148,Iowa
+2023,11/13,Cal Baptist - Iowa Dual,149,W,TF5,24 - 9 6:56,Chaz Hallmark,62925,Cal Baptist,Max Murin,49148,Iowa
+2023,01/28,Flash Flanagan Open,149,W,FALL,1:09,Blake Swearingen,82520,Indian Hills,Joel Jesuroga,74084,Iowa
+2023,01/28,Flash Flanagan Open,149,W,DEC,4 - 2,Dustin Bohren,81865,Loras,Joel Jesuroga,74084,Iowa
+2023,01/28,Flash Flanagan Open,149,W,TF5,19 - 4 7:00,Luke Moczynski,80068,Wisconsin-Oshkosh,Joel Jesuroga,74084,Iowa
+2023,01/28,Flash Flanagan Open,149,L,TB-1,2 - 1,Ryder Downey,78639,Northern Iowa,Joel Jesuroga,74084,Iowa
+2023,12/29,Soldier Salute Open,149,L,DEC,8 - 3,Max Murin,49148,Iowa,Joel Jesuroga,74084,Iowa
+2023,12/29,Soldier Salute Open,149,W,SV-1,3 - 1,Zac Cowan,73532,Bellarmine,Joel Jesuroga,74084,Iowa
+2023,12/29,Soldier Salute Open,149,W,DEC,3 - 1,Danny Fongaro,51713,Columbia,Joel Jesuroga,74084,Iowa
+2023,12/29,Soldier Salute Open,149,L,TB-1,2 - 1,Danny Fongaro,51713,Columbia,Joel Jesuroga,74084,Iowa
+2023,12/29,Soldier Salute Open,149,L,DEC,8 - 1,Wil Guida,62410,North Carolina,Joel Jesuroga,74084,Iowa
+2023,12/10,Iowa - Chattanooga Dual,149,L,TB-1,3 - 2,Noah Castillo,67364,Chattanooga,Joel Jesuroga,74084,Iowa
+2023,11/26,Cyclone Open,149,W,FALL,1:47,Colton Cahill,82934,Unattached,Joel Jesuroga,74084,Iowa
+2023,11/26,Cyclone Open,149,W,MD,13 - 2,James Edwards,81846,Iowa State University Wrestling Club,Joel Jesuroga,74084,Iowa
+2023,11/26,Cyclone Open,149,W,DEC,3 - 2,Cody Goebel,79251,Wisconsin,Joel Jesuroga,74084,Iowa
+2023,11/26,Cyclone Open,149,W,TB-1,2 - 1,Aidan Medora,62360,Wisconsin,Joel Jesuroga,74084,Iowa
+2023,11/26,Cyclone Open,149,L,DEC,5 - 3,Ryder Downey,78639,Northern Iowa,Joel Jesuroga,74084,Iowa
+2023,11/26,Cyclone Open,149,W,DEC,3 - 2,Adam Allard,62777,Northern Iowa,Joel Jesuroga,74084,Iowa
+2023,11/19,Lindenwood Open,149,W,DEC,3 - 2,Paul West,82037,Unattached,Joel Jesuroga,74084,Iowa
+2023,11/19,Lindenwood Open,149,W,TF5,16 - 0 7:00,Ben Zeman,80443,Triton College,Joel Jesuroga,74084,Iowa
+2023,11/19,Lindenwood Open,149,W,DEC,3 - 1,Alec Peralta,78291,SIU Edwardsville,Joel Jesuroga,74084,Iowa
+2023,11/19,Lindenwood Open,149,W,DEC,4 - 1,Logan Rathjen,76507,McKendree University,Joel Jesuroga,74084,Iowa
+2023,11/19,Lindenwood Open,149,W,SV-1,3 - 1,Easton Hilton,73655,Missouri,Joel Jesuroga,74084,Iowa
+2023,12/29,Soldier Salute Open,149,W,DEC,10 - 3,Matthew Williams,69376,Army West Point,Leif Schroeder,63136,Iowa
+2023,12/29,Soldier Salute Open,149,W,DEC,6 - 2,Adam Allard,62777,Northern Iowa,Leif Schroeder,63136,Iowa
+2023,12/29,Soldier Salute Open,149,W,MFOR,0 - 0,Gable Fox,50832,Northern Iowa,Leif Schroeder,63136,Iowa
+2023,12/29,Soldier Salute Open,149,L,DEC,3 - 1,Alek Martin,72167,South Dakota State,Leif Schroeder,63136,Iowa
+2023,12/29,Soldier Salute Open,149,L,FALL,3:34,Chase Zollmann,50917,Wyoming,Leif Schroeder,63136,Iowa
+2023,11/19,Lindenwood Open,149,L,MD,10 - 2,Caleb Tyus,72912,SIU Edwardsville,Bretli Reyna,63152,Iowa
+2023,11/19,Lindenwood Open,149,L,MFOR,0 - 0,Brik Filippo,49388,Central Oklahoma,Bretli Reyna,63152,Iowa
+2023,12/29,Soldier Salute Open,149,W,DEC,5 - 3,Aidan Medora,62360,Wisconsin,Cade Siebrecht,78547,Iowa
+2023,12/29,Soldier Salute Open,149,L,MD,13 - 0,Logan Brown,53821,Army West Point,Cade Siebrecht,78547,Iowa
+2023,12/29,Soldier Salute Open,149,L,DEC,7 - 2,Zac Cowan,73532,Bellarmine,Cade Siebrecht,78547,Iowa
+2023,12/29,Soldier Salute Open,149,W,DEC,4 - 3,Carson DesRosier,78491,The Citadel,Cade Siebrecht,78547,Iowa
+2023,12/29,Soldier Salute Open,149,L,DEC,3 - 2,Aidan Medora,62360,Wisconsin,Cade Siebrecht,78547,Iowa
+2023,03/16,NCAA Championships,157,L,FALL,6:43,Trevor Chumbley,57938,Northwestern,Cobe Siebrecht,60716,Iowa
+2023,03/16,NCAA Championships,157,W,MD,10 - 2,Jared Hill,72164,Oklahoma,Cobe Siebrecht,60716,Iowa
+2023,03/16,NCAA Championships,157,L,DEC,10 - 5,Garrett Model,49351,Wisconsin,Cobe Siebrecht,60716,Iowa
+2023,03/04,Big Ten Championships,157,W,DEC,2 - 0,Derek Gilcher,62760,Indiana,Cobe Siebrecht,60716,Iowa
+2023,03/04,Big Ten Championships,157,W,MD,8 - 0,Paddy Gallagher,68724,Ohio State,Cobe Siebrecht,60716,Iowa
+2023,03/04,Big Ten Championships,157,L,DEC,9 - 2,Chase Saldate,61118,Michigan State,Cobe Siebrecht,60716,Iowa
+2023,03/04,Big Ten Championships,157,L,DEC,3 - 2,Trevor Chumbley,57938,Northwestern,Cobe Siebrecht,60716,Iowa
+2023,03/04,Big Ten Championships,157,W,FALL,3:33,Michael North,57335,Maryland,Cobe Siebrecht,60716,Iowa
+2023,02/19,Oklahoma State - Iowa Dual,157,L,TB-1,3 - 2,Kaden Gfeller,49261,Oklahoma State,Cobe Siebrecht,60716,Iowa
+2023,02/10,Michigan - Iowa Dual,157,W,SV-1,3 - 1,Will Lewan,50934,Michigan,Cobe Siebrecht,60716,Iowa
+2023,02/03,Iowa - Minnesota Dual,157,W,DEC,4 - 0,Brayton Lee,52079,Minnesota,Cobe Siebrecht,60716,Iowa
+2023,01/27,Iowa - Penn State Dual,157,L,DEC,3 - 2,Levi Haines,72657,Penn State,Cobe Siebrecht,60716,Iowa
+2023,01/22,Iowa - Wisconsin Dual,157,W,DEC,3 - 2,Garrett Model,49351,Wisconsin,Cobe Siebrecht,60716,Iowa
+2023,01/20,Nebraska - Iowa Dual,157,L,DEC,7 - 2,Peyton Robb,56387,Nebraska,Cobe Siebrecht,60716,Iowa
+2023,01/13,Northwestern - Iowa Dual,157,W,DEC,6 - 3,Trevor Chumbley,57938,Northwestern,Cobe Siebrecht,60716,Iowa
+2023,01/06,Illinois - Iowa Dual,157,L,DEC,12 - 7,Mike Carr,44645,Illinois,Cobe Siebrecht,60716,Iowa
+2023,12/10,Iowa - Chattanooga Dual,157,W,DEC,5 - 2,Lincoln Heck,66629,Chattanooga,Cobe Siebrecht,60716,Iowa
+2023,12/04,Iowa State - Iowa Dual,157,W,MD,10 - 2,Jason Kraisser,57287,Iowa State,Cobe Siebrecht,60716,Iowa
+2023,11/26,Pennsylvania - Iowa Dual,157,W,FALL,4:02,Anthony Artalona,51039,Pennsylvania,Cobe Siebrecht,60716,Iowa
+2023,11/18,Iowa - Buffalo Dual,165,W,MD,8 - 0,Noah Grover,51227,Buffalo,Cobe Siebrecht,60716,Iowa
+2023,11/17,Iowa - Army Dual,157,W,MD,8 - 0,Nathan Lukez,69377,Army West Point,Cobe Siebrecht,60716,Iowa
+2023,11/13,Cal Baptist - Iowa Dual,157,W,FALL,4:59,Joseph Mora,69368,Cal Baptist,Cobe Siebrecht,60716,Iowa
+2023,02/04,Don Parker Open,149,L,INJ,2:14,Daniel Sheen,78574,Wisconsin,Caleb Rathjen,63794,Iowa
+2023,02/04,Don Parker Open,149,L,MFOR,0 - 0,Jalin Conner,69991,Bryant & Stratton,Caleb Rathjen,63794,Iowa
+2023,01/08,Iowa - Purdue Dual,157,L,DEC,3 - 2,Kendall Coleman,50626,Purdue,Caleb Rathjen,63794,Iowa
+2023,12/29,Soldier Salute Open,149,L,DEC,7 - 4,Max Murin,49148,Iowa,Caleb Rathjen,63794,Iowa
+2023,12/29,Soldier Salute Open,149,W,DEC,4 - 3,Anthony Echemendia,62882,Unattached,Caleb Rathjen,63794,Iowa
+2023,12/29,Soldier Salute Open,149,W,MD,18 - 5,Logan Brown,53821,Army West Point,Caleb Rathjen,63794,Iowa
+2023,12/29,Soldier Salute Open,149,W,DEC,4 - 0,Chase Zollmann,50917,Wyoming,Caleb Rathjen,63794,Iowa
+2023,12/10,UNI Open,157,L,DEC,4 - 2,Jason Kraisser,57287,Iowa State,Caleb Rathjen,63794,Iowa
+2023,12/10,UNI Open,157,W,MD,11 - 3,Isaac Judge,51071,Iowa State,Caleb Rathjen,63794,Iowa
+2023,12/10,UNI Open,157,W,DEC,7 - 3,Evan Yant,69966,Northern Iowa,Caleb Rathjen,63794,Iowa
+2023,11/18,Iowa - Buffalo Dual,157,W,DEC,6 - 0,Nick Stampoulos,74398,Buffalo,Caleb Rathjen,63794,Iowa
+2023,11/18,Iowa - Sacred Heart Dual,157,L,DEC,8 - 4,Nick Palumbo,49068,Sacred Heart,Caleb Rathjen,63794,Iowa
+2023,01/28,Flash Flanagan Open,157,W,TF5,15 - 0 7:00,Kale Downey,78970,Central,Carter Martinson,73555,Iowa
+2023,01/28,Flash Flanagan Open,157,W,SV-1,3 - 1,Brody Hallin,78604,Northern Illinois,Carter Martinson,73555,Iowa
+2023,01/28,Flash Flanagan Open,157,W,MD,10 - 0,Ben Faber,69832,Loras,Carter Martinson,73555,Iowa
+2023,01/28,Flash Flanagan Open,157,W,MD,18 - 7,Isaac Riddle,69602,Wisconsin-Parkside,Carter Martinson,73555,Iowa
+2023,01/28,Flash Flanagan Open,157,W,MD,9 - 1,Dalton Schams,62225,Upper Iowa,Carter Martinson,73555,Iowa
+2023,01/28,Flash Flanagan Open,157,L,DEC,12 - 8,Chance Throndson,58459,Upper Iowa,Carter Martinson,73555,Iowa
+2023,12/10,UNI Open,157,L,DEC,6 - 2,Cameron Robinson,62108,Iowa State,Carter Martinson,73555,Iowa
+2023,12/10,UNI Open,157,L,DEC,4 - 0,Robert Weston,70922,Northern Iowa,Carter Martinson,73555,Iowa
+2023,12/10,UNI Open,157,W,DEC,6 - 3,Evan Yant,69966,Northern Iowa,Carter Martinson,73555,Iowa
+2023,12/10,UNI Open,157,W,MD,12 - 2,Rafael Romero,79288,Missouri,Carter Martinson,73555,Iowa
+2023,12/29,Soldier Salute Open,165,L,TB-1,5 - 2,Christian Minto,61841,Northern Iowa,Joe Kelly,54454,Iowa
+2023,12/29,Soldier Salute Open,165,L,DEC,5 - 4,Aidan Lenz,73359,The Citadel,Joe Kelly,54454,Iowa
+2023,11/18,Iowa - Buffalo Dual,174,L,DEC,2 - 0,Marcus Petite,67407,Buffalo,Joe Kelly,54454,Iowa
+2023,11/18,Iowa - Sacred Heart Dual,174,W,MD,17 - 7,Ryan Bolletino,69989,Sacred Heart,Joe Kelly,54454,Iowa
+2023,11/12,Luther Open,157,W,FALL,3:46,Travis Guzman,75223,Nebraska Wesleyan,Joe Kelly,54454,Iowa
+2023,11/12,Luther Open,157,W,DEC,6 - 3,Jackson Rolfs,74753,Upper Iowa,Joe Kelly,54454,Iowa
+2023,11/12,Luther Open,157,L,DEC,6 - 2,Drake Hayward,73237,Minnesota State Mankato,Joe Kelly,54454,Iowa
+2023,11/12,Luther Open,157,W,DEC,13 - 6,Dylan Falck,70228,Coe,Joe Kelly,54454,Iowa
+2023,11/12,Luther Open,157,L,DEC,7 - 4,Chance Throndson,58459,Upper Iowa,Joe Kelly,54454,Iowa
+2023,03/16,NCAA Championships,165,L,DEC,5 - 2,Julian Ramirez,56706,Cornell,Patrick Kennedy,56760,Iowa
+2023,03/16,NCAA Championships,165,W,DEC,6 - 3,Andrew Sparks,67049,Minnesota,Patrick Kennedy,56760,Iowa
+2023,03/16,NCAA Championships,165,L,DEC,3 - 2,Cameron Amine,57289,Michigan,Patrick Kennedy,56760,Iowa
+2023,03/16,NCAA Championships,165,W,DEC,7 - 2,William Formato,57034,Appalachian State,Patrick Kennedy,56760,Iowa
+2023,03/04,Big Ten Championships,165,L,DEC,9 - 6,Dean Hamiti,62894,Wisconsin,Patrick Kennedy,56760,Iowa
+2023,03/04,Big Ten Championships,165,W,MD,22 - 8,John Martin Best,63025,Maryland,Patrick Kennedy,56760,Iowa
+2023,03/04,Big Ten Championships,165,W,MD,11 - 3,Maxx Mayfield,62981,Northwestern,Patrick Kennedy,56760,Iowa
+2023,03/04,Big Ten Championships,165,W,DEC,3 - 2,Cameron Amine,57289,Michigan,Patrick Kennedy,56760,Iowa
+2023,02/19,Oklahoma State - Iowa Dual,165,W,DEC,7 - 4,Wyatt Sheets,44863,Oklahoma State,Patrick Kennedy,56760,Iowa
+2023,02/10,Michigan - Iowa Dual,165,W,FALL,2:31,Alex Wesselman,73463,Michigan,Patrick Kennedy,56760,Iowa
+2023,02/03,Iowa - Minnesota Dual,165,W,DEC,13 - 8,Cael Carlson,57337,Minnesota,Patrick Kennedy,56760,Iowa
+2023,01/27,Iowa - Penn State Dual,165,W,TB-1,2 - 1,Alex Facundo,66706,Penn State,Patrick Kennedy,56760,Iowa
+2023,01/22,Iowa - Wisconsin Dual,165,L,DEC,4 - 3,Dean Hamiti,62894,Wisconsin,Patrick Kennedy,56760,Iowa
+2023,01/20,Nebraska - Iowa Dual,165,W,MD,12 - 4,Bubba Wilson,57936,Nebraska,Patrick Kennedy,56760,Iowa
+2023,01/13,Northwestern - Iowa Dual,165,W,DEC,4 - 2,Maxx Mayfield,62981,Northwestern,Patrick Kennedy,56760,Iowa
+2023,01/06,Illinois - Iowa Dual,165,W,MD,15 - 4,Danny Braunagel,50926,Illinois,Patrick Kennedy,56760,Iowa
+2023,12/29,Soldier Salute Open,165,W,FALL,1:19,Raheem Rahamatulla,83389,Unattached,Patrick Kennedy,56760,Iowa
+2023,12/29,Soldier Salute Open,165,W,FALL,0:30,Cole Nance,73533,Bellarmine,Patrick Kennedy,56760,Iowa
+2023,12/29,Soldier Salute Open,165,W,DEC,10 - 5,Jack Thomsen,63138,South Dakota State,Patrick Kennedy,56760,Iowa
+2023,12/29,Soldier Salute Open,165,W,DEC,9 - 6,Cole Moody,57067,Wyoming,Patrick Kennedy,56760,Iowa
+2023,12/10,Iowa - Chattanooga Dual,165,W,TF5,23 - 8 7:00,Jackson Hurst,73352,Chattanooga,Patrick Kennedy,56760,Iowa
+2023,12/04,Iowa State - Iowa Dual,165,L,DEC,10 - 4,David Carr,51126,Iowa State,Patrick Kennedy,56760,Iowa
+2023,11/26,Pennsylvania - Iowa Dual,165,W,MD,14 - 5,Lucas Revano,56734,Pennsylvania,Patrick Kennedy,56760,Iowa
+2023,11/18,Iowa - Sacred Heart Dual,165,W,TF5,24 - 9 6:04,Aidan Zarrella,79730,Sacred Heart,Patrick Kennedy,56760,Iowa
+2023,11/17,Iowa - Army Dual,165,W,MD,22 - 9,Dalton Harkins,65872,Army West Point,Patrick Kennedy,56760,Iowa
+2023,11/13,Cal Baptist - Iowa Dual,165,W,TF5,20 - 5 7:00,Mateo de la Pena,79039,Cal Baptist,Patrick Kennedy,56760,Iowa
+2023,02/03,Iowa - Minnesota Dual,174,L,DEC,4 - 1,Bailee O'Reilly,50166,Minnesota,Aiden Riggins,73562,Iowa
+2023,01/28,Flash Flanagan Open,165,W,TF5,21 - 5 7:00,Connor Lezama,83725,Wisconsin-Parkside,Aiden Riggins,73562,Iowa
+2023,01/28,Flash Flanagan Open,165,W,FALL,1:18,Austin Stewart,79837,Northern Illinois,Aiden Riggins,73562,Iowa
+2023,01/28,Flash Flanagan Open,165,W,TF5,16 - 1 7:00,Spencer Daves,70125,Central,Aiden Riggins,73562,Iowa
+2023,01/28,Flash Flanagan Open,165,W,DEC,10 - 5,Gavin Model,63172,Wisconsin,Aiden Riggins,73562,Iowa
+2023,01/28,Flash Flanagan Open,165,W,MD,14 - 3,Matt Connolly,60651,Loras,Aiden Riggins,73562,Iowa
+2023,01/08,Iowa - Purdue Dual,165,W,DEC,9 - 4,Stoney Buell,72153,Purdue,Aiden Riggins,73562,Iowa
+2023,12/29,Soldier Salute Open,165,L,DEC,2 - 0,Drake Rhodes,73705,Iowa,Aiden Riggins,73562,Iowa
+2023,12/29,Soldier Salute Open,165,L,SV-1,6 - 4,Dalton Harkins,65872,Army West Point,Aiden Riggins,73562,Iowa
+2023,12/29,Soldier Salute Open,165,L,DEC,5 - 2,Dalton Harkins,65872,Army West Point,Aiden Riggins,73562,Iowa
+2023,12/29,Soldier Salute Open,165,W,DEC,8 - 4,Cole Nance,73533,Bellarmine,Aiden Riggins,73562,Iowa
+2023,12/29,Soldier Salute Open,165,W,DEC,8 - 3,Braxton Lewis,78474,VMI,Aiden Riggins,73562,Iowa
+2023,11/26,Cyclone Open,157,W,DEC,7 - 5,Brock Woodcock,78293,High School,Aiden Riggins,73562,Iowa
+2023,11/26,Cyclone Open,157,W,DEC,7 - 3,Andrew Huddleston,71153,Iowa State,Aiden Riggins,73562,Iowa
+2023,11/26,Cyclone Open,157,W,DEC,4 - 3,Drew Scharenbrock,59184,Wisconsin,Aiden Riggins,73562,Iowa
+2023,11/26,Cyclone Open,157,L,DEC,5 - 2,Dajun Johnson,67233,Northern Iowa,Aiden Riggins,73562,Iowa
+2023,01/28,Flash Flanagan Open,165,W,MD,11 - 1,Connor Lezama,83725,Wisconsin-Parkside,Carson Martinson,73560,Iowa
+2023,01/28,Flash Flanagan Open,165,W,DEC,6 - 1,Peyton Asbury,83025,Indian Hills,Carson Martinson,73560,Iowa
+2023,01/28,Flash Flanagan Open,165,L,SV-1,10 - 8,Allen Catour,81955,Loras,Carson Martinson,73560,Iowa
+2023,01/28,Flash Flanagan Open,165,L,DEC,8 - 7,Allen Catour,81955,Loras,Carson Martinson,73560,Iowa
+2023,01/28,Flash Flanagan Open,165,W,MD,11 - 3,Jason Hermann,73444,Central,Carson Martinson,73560,Iowa
+2023,12/29,Soldier Salute Open,165,W,MFOR,0 - 0,Raheem Rahamatulla,83389,Unattached,Carson Martinson,73560,Iowa
+2023,12/29,Soldier Salute Open,165,L,MD,10 - 1,Dalton Harkins,65872,Army West Point,Carson Martinson,73560,Iowa
+2023,12/29,Soldier Salute Open,165,L,DEC,6 - 4,Cole Nance,73533,Bellarmine,Carson Martinson,73560,Iowa
+2023,12/29,Soldier Salute Open,165,W,FALL,1:41,Alex Rivera,61865,Bellarmine,Carson Martinson,73560,Iowa
+2023,12/29,Soldier Salute Open,165,L,MD,14 - 5,Genaro Quodala,76008,Navy,Carson Martinson,73560,Iowa
+2023,11/17,Iowa - Army Dual,174,L,MD,15 - 4,Ben Pasiuk,57286,Army West Point,Carson Martinson,73560,Iowa
+2023,01/28,Flash Flanagan Open,165,W,DEC,3 - 2,Austin Stewart,79837,Northern Illinois,Sebastian Robles,72089,Iowa
+2023,01/28,Flash Flanagan Open,165,L,DEC,5 - 3,Brady Schuh,79608,Wisconsin-Parkside,Sebastian Robles,72089,Iowa
+2023,01/28,Flash Flanagan Open,165,L,DEC,7 - 6,Tommy Bennett,78096,Northern Illinois,Sebastian Robles,72089,Iowa
+2023,03/16,NCAA Championships,174,W,SV-1,4 - 2,Dustin Plott,57607,Oklahoma State,Nelson Brands,49994,Iowa
+2023,03/16,NCAA Championships,174,L,DEC,7 - 2,Chris Foca,56712,Cornell,Nelson Brands,49994,Iowa
+2023,03/16,NCAA Championships,174,W,DEC,6 - 1,Peyton Mocco,50635,Missouri,Nelson Brands,49994,Iowa
+2023,03/16,NCAA Championships,174,W,DEC,4 - 1,Edmond Ruth,51277,Illinois,Nelson Brands,49994,Iowa
+2023,03/16,NCAA Championships,174,L,DEC,2 - 0,Mekhi Lewis,49338,Virginia Tech,Nelson Brands,49994,Iowa
+2023,03/16,NCAA Championships,174,W,DEC,3 - 1,Ethan Smith,50025,Ohio State,Nelson Brands,49994,Iowa
+2023,03/16,NCAA Championships,174,W,DEC,6 - 3,Alex Faison,56428,NC State,Nelson Brands,49994,Iowa
+2023,03/04,Big Ten Championships,174,W,DEC,5 - 1,Edmond Ruth,51277,Illinois,Nelson Brands,49994,Iowa
+2023,03/04,Big Ten Championships,174,L,SV-1,3 - 1,Bailee O'Reilly,50166,Minnesota,Nelson Brands,49994,Iowa
+2023,03/04,Big Ten Championships,174,W,DEC,1 - 0,Jackson Turley,57636,Rutgers,Nelson Brands,49994,Iowa
+2023,03/04,Big Ten Championships,174,W,DEC,3 - 2,Max Maylor,56310,Michigan,Nelson Brands,49994,Iowa
+2023,03/04,Big Ten Championships,174,L,DEC,5 - 2,Michael Labriola,49207,Nebraska,Nelson Brands,49994,Iowa
+2023,03/04,Big Ten Championships,174,W,SV-1,3 - 1,Donnell Washington,57738,Indiana,Nelson Brands,49994,Iowa
+2023,02/19,Oklahoma State - Iowa Dual,174,W,DEC,3 - 2,Dustin Plott,57607,Oklahoma State,Nelson Brands,49994,Iowa
+2023,02/10,Michigan - Iowa Dual,174,W,DEC,5 - 1,Joseph Walker,63717,Michigan,Nelson Brands,49994,Iowa
+2023,01/27,Iowa - Penn State Dual,174,L,DEC,2 - 1,Carter Starocci,58819,Penn State,Nelson Brands,49994,Iowa
+2023,01/20,Nebraska - Iowa Dual,174,L,DEC,3 - 2,Michael Labriola,49207,Nebraska,Nelson Brands,49994,Iowa
+2023,01/13,Northwestern - Iowa Dual,174,W,DEC,8 - 2,Ankhaa Enkhmandakh,62897,Northwestern,Nelson Brands,49994,Iowa
+2023,01/08,Iowa - Purdue Dual,174,W,DEC,4 - 0,Cooper Noehre,65006,Purdue,Nelson Brands,49994,Iowa
+2023,01/06,Illinois - Iowa Dual,174,L,TB-1,2 - 1,Edmond Ruth,51277,Illinois,Nelson Brands,49994,Iowa
+2023,12/10,Iowa - Chattanooga Dual,174,L,DEC,3 - 1,Rocky Jordan,50928,Chattanooga,Nelson Brands,49994,Iowa
+2023,12/04,Iowa State - Iowa Dual,174,W,MD,13 - 5,MJ Gaitan,78494,Iowa State,Nelson Brands,49994,Iowa
+2023,11/26,Pennsylvania - Iowa Dual,174,W,DEC,5 - 1,Nick Incontrera,57070,Pennsylvania,Nelson Brands,49994,Iowa
+2023,12/29,Soldier Salute Open,174,L,MFOR,0 - 0,Ben Pasiuk,57286,Army West Point,Brennan Swafford,60101,Iowa
+2023,12/29,Soldier Salute Open,174,W,DEC,6 - 3,Devan Hendricks,62787,Bellarmine,Brennan Swafford,60101,Iowa
+2023,12/29,Soldier Salute Open,174,L,MFOR,0 - 0,Devan Hendricks,62787,Bellarmine,Brennan Swafford,60101,Iowa
+2023,12/29,Soldier Salute Open,174,W,DEC,9 - 6,Nick Fine,71734,Columbia,Brennan Swafford,60101,Iowa
+2023,12/29,Soldier Salute Open,174,L,MFOR,0 - 0,Graham Calhoun,65312,Wisconsin,Brennan Swafford,60101,Iowa
+2023,12/10,UNI Open,174,L,DEC,3 - 1,Manuel Rojas,71915,Iowa State,Jude Link,78702,Iowa
+2023,12/10,UNI Open,174,L,DEC,3 - 2,Carson Babcock,71944,Northern Iowa,Jude Link,78702,Iowa
+2023,03/16,NCAA Championships,184,L,DEC,4 - 3,Gavin Kane,62429,North Carolina,Abe Assad,56936,Iowa
+2023,03/16,NCAA Championships,184,L,TB-1,2 - 1,Marcus Coleman,49154,Iowa State,Abe Assad,56936,Iowa
+2023,03/16,NCAA Championships,184,W,DEC,6 - 2,Guiseppe Hoose,56371,Buffalo,Abe Assad,56936,Iowa
+2023,03/04,Big Ten Championships,184,W,MFOR,0 - 0,Layne Malczewski,51828,Michigan State,Abe Assad,56936,Iowa
+2023,03/04,Big Ten Championships,184,W,DEC,5 - 1,Evan Bates,72133,Northwestern,Abe Assad,56936,Iowa
+2023,03/04,Big Ten Championships,184,W,DEC,6 - 1,Ben Vanadia,68732,Purdue,Abe Assad,56936,Iowa
+2023,03/04,Big Ten Championships,184,L,FALL,0:54,Brian Soldano,67558,Rutgers,Abe Assad,56936,Iowa
+2023,03/04,Big Ten Championships,184,L,FALL,4:19,Matt Finesilver,47770,Michigan,Abe Assad,56936,Iowa
+2023,02/19,Oklahoma State - Iowa Dual,184,W,DEC,4 - 2,Travis Wittlake,50615,Oklahoma State,Abe Assad,56936,Iowa
+2023,01/22,Iowa - Wisconsin Dual,184,L,FALL,1:24,Tyler Dow,50622,Wisconsin,Abe Assad,56936,Iowa
+2023,01/20,Nebraska - Iowa Dual,184,W,DEC,6 - 5,Lenny Pinto,63137,Nebraska,Abe Assad,56936,Iowa
+2023,01/13,Northwestern - Iowa Dual,184,W,MD,10 - 2,Evan Bates,72133,Northwestern,Abe Assad,56936,Iowa
+2023,01/08,Iowa - Purdue Dual,184,W,FALL,4:15,Ben Vanadia,68732,Purdue,Abe Assad,56936,Iowa
+2023,01/06,Illinois - Iowa Dual,184,W,DEC,3 - 1,Dylan Connell,67216,Illinois,Abe Assad,56936,Iowa
+2023,12/29,Soldier Salute Open,184,W,SV-1,6 - 4,Bennett Berge,73099,South Dakota State,Abe Assad,56936,Iowa
+2023,12/29,Soldier Salute Open,184,W,DEC,9 - 6,Roman Rogotzke,70925,South Dakota State,Abe Assad,56936,Iowa
+2023,12/29,Soldier Salute Open,184,W,FALL,1:29,Micah Dicarlo,73053,The Citadel,Abe Assad,56936,Iowa
+2023,12/29,Soldier Salute Open,184,W,MD,14 - 4,Guillermo Escobedo,66969,Wyoming,Abe Assad,56936,Iowa
+2023,12/10,Iowa - Chattanooga Dual,184,W,MD,14 - 4,Matthew Waddell,49259,Chattanooga,Abe Assad,56936,Iowa
+2023,12/04,Iowa State - Iowa Dual,184,L,DEC,3 - 2,Marcus Coleman,49154,Iowa State,Abe Assad,56936,Iowa
+2023,11/26,Pennsylvania - Iowa Dual,184,W,DEC,5 - 0,Maximus Hale,63719,Pennsylvania,Abe Assad,56936,Iowa
+2023,11/18,Iowa - Buffalo Dual,184,W,TF5,22 - 7 7:00,Guiseppe Hoose,56371,Buffalo,Abe Assad,56936,Iowa
+2023,11/18,Iowa - Sacred Heart Dual,184,W,MD,22 - 9,Hunter Perez,79734,Sacred Heart,Abe Assad,56936,Iowa
+2023,11/17,Iowa - Army Dual,184,W,DEC,12 - 5,Sahm AbdulRazzaq,58214,Army West Point,Abe Assad,56936,Iowa
+2023,11/13,Cal Baptist - Iowa Dual,184,W,DEC,11 - 4,Peter Acciardi,51069,Cal Baptist,Abe Assad,56936,Iowa
+2023,02/10,Michigan - Iowa Dual,184,L,TF5,15 - 0 4:38,Matt Finesilver,47770,Michigan,Drake Rhodes,73705,Iowa
+2023,02/03,Iowa - Minnesota Dual,184,L,MD,13 - 5,Isaiah Salazar,62340,Minnesota,Drake Rhodes,73705,Iowa
+2023,01/27,Iowa - Penn State Dual,184,L,TF5,22 - 7 5:42,Aaron Brooks,54280,Penn State,Drake Rhodes,73705,Iowa
+2023,01/22,Iowa - Wisconsin Dual,174,L,DEC,6 - 5,Joshua Otto,56743,Wisconsin,Drake Rhodes,73705,Iowa
+2023,12/29,Soldier Salute Open,165,W,DEC,2 - 0,Aiden Riggins,73562,Iowa,Drake Rhodes,73705,Iowa
+2023,12/29,Soldier Salute Open,165,W,DEC,4 - 0,Genaro Quodala,76008,Navy,Drake Rhodes,73705,Iowa
+2023,12/29,Soldier Salute Open,165,L,DEC,12 - 9,Jack Thomsen,63138,South Dakota State,Drake Rhodes,73705,Iowa
+2023,12/29,Soldier Salute Open,165,W,FALL,6:07,Aidan Lenz,73359,The Citadel,Drake Rhodes,73705,Iowa
+2023,12/29,Soldier Salute Open,165,W,DEC,7 - 3,Braxton Lewis,78474,VMI,Drake Rhodes,73705,Iowa
+2023,12/29,Soldier Salute Open,165,L,DEC,8 - 7,Cole Moody,57067,Wyoming,Drake Rhodes,73705,Iowa
+2023,11/13,Cal Baptist - Iowa Dual,174,W,MD,13 - 4,Zachary Rowe,62929,Cal Baptist,Drake Rhodes,73705,Iowa
+2023,01/28,Flash Flanagan Open,184,W,DEC,8 - 5,Syrron White,80910,Indian Hills,Aidan McCain,82499,Iowa
+2023,01/28,Flash Flanagan Open,184,L,DEC,9 - 8,Syrron White,80910,Indian Hills,Aidan McCain,82499,Iowa
+2023,01/28,Flash Flanagan Open,184,L,FALL,2:39,Bennett Berge,73099,South Dakota State,Aidan McCain,82499,Iowa
+2023,01/28,Flash Flanagan Open,184,L,MD,11 - 2,Abe Michel,69836,Loras,Aidan McCain,82499,Iowa
+2023,12/29,Soldier Salute Open,184,L,FALL,1:09,Roman Rogotzke,70925,South Dakota State,Aidan McCain,82499,Iowa
+2023,12/29,Soldier Salute Open,184,L,DEC,7 - 3,Micah Dicarlo,73053,The Citadel,Aidan McCain,82499,Iowa
+2023,12/29,Soldier Salute Open,184,W,TF5,18 - 3 4:51,Isaac Dolph,67425,VMI,Aidan McCain,82499,Iowa
+2023,12/29,Soldier Salute Open,184,L,FALL,1:47,Guillermo Escobedo,66969,Wyoming,Aidan McCain,82499,Iowa
+2023,12/29,Soldier Salute Open,184,L,INJ,2:33,Eric Vermillion,58710,Indiana Tech,Mickey Griffith,73563,Iowa
+2023,12/29,Soldier Salute Open,184,W,FALL,0:24,Jai Sodhi,83280,Unattached,Mickey Griffith,73563,Iowa
+2023,12/29,Soldier Salute Open,184,W,MD,12 - 1,Kennedy Wyatt,79333,Bellarmine,Mickey Griffith,73563,Iowa
+2023,12/29,Soldier Salute Open,184,W,FALL,4:54,Kennedy Wyatt,79333,Bellarmine,Mickey Griffith,73563,Iowa
+2023,12/29,Soldier Salute Open,184,L,DEC,4 - 3,Quayin Short,70764,Wyoming,Mickey Griffith,73563,Iowa
+2023,12/29,Soldier Salute Open,184,L,DEC,5 - 3,Guillermo Escobedo,66969,Wyoming,Mickey Griffith,73563,Iowa
+2023,11/12,Luther Open,184,W,MD,13 - 3,Thomas Culp,74825,Eureka,Mickey Griffith,73563,Iowa
+2023,11/12,Luther Open,184,W,TF5,15 - 0 7:00,Colby Lape,73918,Augustana,Mickey Griffith,73563,Iowa
+2023,11/12,Luther Open,184,L,DEC,8 - 3,Shane Liegel,66103,Loras,Mickey Griffith,73563,Iowa
+2023,11/12,Luther Open,184,W,DEC,5 - 4,Bentley Schwanebeck-Ostermann,65153,Augsburg,Mickey Griffith,73563,Iowa
+2023,03/16,NCAA Championships,197,W,DEC,7 - 3,Ethan Laird,50134,Rider,Jacob Warner,49151,Iowa
+2023,03/16,NCAA Championships,197,L,DEC,3 - 1,Rocky Elam,62027,Missouri,Jacob Warner,49151,Iowa
+2023,03/16,NCAA Championships,197,W,DEC,4 - 2,Jacob Cardenas,56770,Cornell,Jacob Warner,49151,Iowa
+2023,03/16,NCAA Championships,197,W,DEC,1 - 0,Silas Allred,62343,Nebraska,Jacob Warner,49151,Iowa
+2023,03/16,NCAA Championships,197,W,DEC,9 - 3,Isaac Trumble,67131,NC State,Jacob Warner,49151,Iowa
+2023,03/16,NCAA Championships,197,W,FALL,1:59,Evan Bockman,57270,Utah Valley,Jacob Warner,49151,Iowa
+2023,03/16,NCAA Championships,197,L,DEC,6 - 2,Rocky Elam,62027,Missouri,Jacob Warner,49151,Iowa
+2023,03/16,NCAA Championships,197,W,DEC,5 - 1,Cameron Caffey,50273,Michigan State,Jacob Warner,49151,Iowa
+2023,03/04,Big Ten Championships,197,W,MFOR,0 - 0,Cameron Caffey,50273,Michigan State,Jacob Warner,49151,Iowa
+2023,03/04,Big Ten Championships,197,L,SV-1,3 - 1,Jaxon Smith,68714,Maryland,Jacob Warner,49151,Iowa
+2023,03/04,Big Ten Championships,197,W,DEC,3 - 2,Cameron Caffey,50273,Michigan State,Jacob Warner,49151,Iowa
+2023,03/04,Big Ten Championships,197,W,DEC,6 - 2,Andrew Davison,49178,Northwestern,Jacob Warner,49151,Iowa
+2023,03/04,Big Ten Championships,197,L,DEC,3 - 1,Max Dean,46025,Penn State,Jacob Warner,49151,Iowa
+2023,02/19,Oklahoma State - Iowa Dual,197,W,DEC,3 - 2,Luke Surber,62347,Oklahoma State,Jacob Warner,49151,Iowa
+2023,02/10,Michigan - Iowa Dual,197,W,TF5,16 - 1 2:25,Brendin Yatooma,66965,Michigan,Jacob Warner,49151,Iowa
+2023,02/03,Iowa - Minnesota Dual,197,L,DEC,2 - 1,Michial Foy,53189,Minnesota,Jacob Warner,49151,Iowa
+2023,01/27,Iowa - Penn State Dual,197,L,DEC,2 - 0,Max Dean,46025,Penn State,Jacob Warner,49151,Iowa
+2023,01/20,Nebraska - Iowa Dual,197,W,DEC,3 - 2,Silas Allred,62343,Nebraska,Jacob Warner,49151,Iowa
+2023,01/08,Iowa - Purdue Dual,197,W,MD,16 - 4,Hayden Filipovich,71689,Purdue,Jacob Warner,49151,Iowa
+2023,01/06,Illinois - Iowa Dual,197,L,DEC,3 - 1,Zach Braunagel,50925,Illinois,Jacob Warner,49151,Iowa
+2023,12/29,Soldier Salute Open,197,W,MD,10 - 2,Kolby Franklin,73803,Iowa,Jacob Warner,49151,Iowa
+2023,12/29,Soldier Salute Open,197,W,DEC,4 - 1,Wyatt Voelker,73956,Northern Iowa,Jacob Warner,49151,Iowa
+2023,12/29,Soldier Salute Open,197,W,TF5,17 - 2 5:07,Adam Ahrendson,68723,Northern Iowa,Jacob Warner,49151,Iowa
+2023,12/29,Soldier Salute Open,197,W,FALL,1:15,Tyce Raddon,67096,Wyoming,Jacob Warner,49151,Iowa
+2023,12/10,Iowa - Chattanooga Dual,197,W,MD,10 - 1,Jake Boyd,49260,Chattanooga,Jacob Warner,49151,Iowa
+2023,12/04,Iowa State - Iowa Dual,197,L,DEC,4 - 3,Yonger Bastida,70963,Iowa State,Jacob Warner,49151,Iowa
+2023,11/26,Pennsylvania - Iowa Dual,197,W,DEC,11 - 10,Cole Urbas,56773,Pennsylvania,Jacob Warner,49151,Iowa
+2023,11/18,Iowa - Buffalo Dual,197,W,TF5,26 - 8 3:59,Sam Mitchell,61028,Buffalo,Jacob Warner,49151,Iowa
+2023,11/17,Iowa - Army Dual,197,W,MD,20 - 6,Kyle Swartz,65875,Army West Point,Jacob Warner,49151,Iowa
+2023,11/13,Cal Baptist - Iowa Dual,197,W,FALL,0:38,Elijah Sobas,73374,Cal Baptist,Jacob Warner,49151,Iowa
+2023,01/13,Northwestern - Iowa Dual,197,L,DEC,7 - 6,Andrew Davison,49178,Northwestern,Zach Glazier,56767,Iowa
+2023,12/29,Soldier Salute Open,197,L,DEC,4 - 3,Kolby Franklin,73803,Iowa,Zach Glazier,56767,Iowa
+2023,12/29,Soldier Salute Open,197,W,MD,12 - 4,Jose Valdez,78054,Unattached,Zach Glazier,56767,Iowa
+2023,12/29,Soldier Salute Open,197,W,DEC,6 - 3,Jacob Lucas,72192,Navy,Zach Glazier,56767,Iowa
+2023,12/29,Soldier Salute Open,197,W,MD,12 - 3,Wyatt Voelker,73956,Northern Iowa,Zach Glazier,56767,Iowa
+2023,12/29,Soldier Salute Open,197,W,FALL,2:00,Tyler Mousaw,67432,VMI,Zach Glazier,56767,Iowa
+2023,12/10,UNI Open,197,L,MFOR,0 - 0,Wyatt Voelker,73956,Northern Iowa,Zach Glazier,56767,Iowa
+2023,12/10,UNI Open,197,W,DEC,4 - 3,Kalob Runyon,73006,Northern Iowa,Zach Glazier,56767,Iowa
+2023,12/10,UNI Open,197,W,MD,14 - 4,Adam Ahrendson,68723,Northern Iowa,Zach Glazier,56767,Iowa
+2023,11/18,Iowa - Sacred Heart Dual,197,W,TF5,18 - 3 4:51,Nick Copley,73491,Sacred Heart,Zach Glazier,56767,Iowa
+2023,02/04,Don Parker Open,197,W,MD,14 - 5,Jordan Lewis,81010,Wisconsin-Whitewater,Kolby Franklin,73803,Iowa
+2023,02/04,Don Parker Open,197,W,DEC,6 - 4,Cody Donnelly,75803,South Dakota State,Kolby Franklin,73803,Iowa
+2023,02/04,Don Parker Open,197,L,DEC,12 - 7,Roman Rogotzke,70925,South Dakota State,Kolby Franklin,73803,Iowa
+2023,02/04,Don Parker Open,197,W,DEC,3 - 2,Spencer Mooberry,69967,North Dakota State,Kolby Franklin,73803,Iowa
+2023,01/22,Iowa - Wisconsin Dual,197,L,DEC,4 - 0,Braxton Amos,62756,Wisconsin,Kolby Franklin,73803,Iowa
+2023,12/29,Soldier Salute Open,197,L,MD,10 - 2,Jacob Warner,49151,Iowa,Kolby Franklin,73803,Iowa
+2023,12/29,Soldier Salute Open,197,W,DEC,4 - 3,Zach Glazier,56767,Iowa,Kolby Franklin,73803,Iowa
+2023,12/29,Soldier Salute Open,197,W,DEC,11 - 4,Javen Jovero,70910,Columbia,Kolby Franklin,73803,Iowa
+2023,12/29,Soldier Salute Open,197,W,SV-1,6 - 4,Nic Casperson,51245,South Dakota State,Kolby Franklin,73803,Iowa
+2023,11/26,Cyclone Open,197,L,DEC,3 - 1,Wyatt Voelker,73956,Northern Iowa,Kolby Franklin,73803,Iowa
+2023,11/26,Cyclone Open,197,W,DEC,7 - 3,Kalob Runyon,73006,Northern Iowa,Kolby Franklin,73803,Iowa
+2023,11/19,Lindenwood Open,197,W,MD,11 - 2,Ryan Golnick,76563,Lindenwood,Kolby Franklin,73803,Iowa
+2023,11/19,Lindenwood Open,197,W,DEC,6 - 3,Jesse Cassat,73384,Missouri,Kolby Franklin,73803,Iowa
+2023,11/19,Lindenwood Open,197,W,DEC,5 - 2,Evan Bates,72133,Northwestern,Kolby Franklin,73803,Iowa
+2023,11/19,Lindenwood Open,197,L,DEC,5 - 2,Evan Bates,72133,Northwestern,Kolby Franklin,73803,Iowa
+2023,11/19,Lindenwood Open,197,W,MD,18 - 7,Ryan Yarnell,57006,SIU Edwardsville,Kolby Franklin,73803,Iowa
+2023,11/12,Luther Open,197,W,TF5,15 - 0 7:00,Mason Askelsen,73239,Minnesota State Mankato,Kolby Franklin,73803,Iowa
+2023,11/12,Luther Open,197,W,FALL,0:35,Mathieu Arsenault,76102,Coe,Kolby Franklin,73803,Iowa
+2023,11/12,Luther Open,197,W,MD,19 - 6,Jared Voss,76099,Coe,Kolby Franklin,73803,Iowa
+2023,11/12,Luther Open,197,L,DEC,9 - 4,Beau Yineman,58540,Wisconsin-Oshkosh,Kolby Franklin,73803,Iowa
+2023,03/16,NCAA Championships,285,L,FALL,4:16,Wyatt Hendrickson,56694,Air Force,Anthony Cassioppi,50650,Iowa
+2023,03/16,NCAA Championships,285,W,DEC,4 - 0,Zach Elam,51612,Missouri,Anthony Cassioppi,50650,Iowa
+2023,03/16,NCAA Championships,285,L,TF5,16 - 1 5:12,Mason Parris,51176,Michigan,Anthony Cassioppi,50650,Iowa
+2023,03/16,NCAA Championships,285,W,SV-1,3 - 1,Cohlton Schultz,56899,Arizona State,Anthony Cassioppi,50650,Iowa
+2023,03/16,NCAA Championships,285,W,MD,9 - 0,Tyrell Gordon,51694,Northern Iowa,Anthony Cassioppi,50650,Iowa
+2023,03/16,NCAA Championships,285,W,MD,10 - 0,Jaron Smith,41353,Maryland,Anthony Cassioppi,50650,Iowa
+2023,03/04,Big Ten Championships,285,W,MD,10 - 1,Tate Orndorff,50974,Ohio State,Anthony Cassioppi,50650,Iowa
+2023,03/04,Big Ten Championships,285,W,SV-1,4 - 2,Lucas Davison,51236,Northwestern,Anthony Cassioppi,50650,Iowa
+2023,03/04,Big Ten Championships,285,L,DEC,5 - 0,Greg Kerkvliet,61842,Penn State,Anthony Cassioppi,50650,Iowa
+2023,03/04,Big Ten Championships,285,W,FALL,2:54,Boone McDermott,56898,Rutgers,Anthony Cassioppi,50650,Iowa
+2023,03/04,Big Ten Championships,285,W,MD,10 - 0,Austin Emerson,56470,Nebraska,Anthony Cassioppi,50650,Iowa
+2023,02/19,Oklahoma State - Iowa Dual,285,W,DEC,4 - 0,Konner Doucet,57801,Oklahoma State,Anthony Cassioppi,50650,Iowa
+2023,02/10,Michigan - Iowa Dual,285,L,DEC,9 - 7,Mason Parris,51176,Michigan,Anthony Cassioppi,50650,Iowa
+2023,01/27,Iowa - Penn State Dual,285,L,DEC,4 - 1,Greg Kerkvliet,61842,Penn State,Anthony Cassioppi,50650,Iowa
+2023,01/22,Iowa - Wisconsin Dual,285,W,DEC,4 - 1,Trent Hillger,49350,Wisconsin,Anthony Cassioppi,50650,Iowa
+2023,01/20,Nebraska - Iowa Dual,285,W,FALL,6:40,Cale Davidson,49353,Nebraska,Anthony Cassioppi,50650,Iowa
+2023,01/13,Northwestern - Iowa Dual,285,W,DEC,3 - 2,Lucas Davison,51236,Northwestern,Anthony Cassioppi,50650,Iowa
+2023,01/06,Illinois - Iowa Dual,285,W,DQ,0 - 0,Matt Wroblewski,50019,Illinois,Anthony Cassioppi,50650,Iowa
+2023,12/29,Soldier Salute Open,285,W,FALL,2:11,Ryan Catka,72191,Navy,Anthony Cassioppi,50650,Iowa
+2023,12/29,Soldier Salute Open,285,W,FALL,2:17,Luke Rasmussen,72722,South Dakota State,Anthony Cassioppi,50650,Iowa
+2023,12/29,Soldier Salute Open,285,W,FALL,1:58,Ben Stemmet,65010,The Citadel,Anthony Cassioppi,50650,Iowa
+2023,12/29,Soldier Salute Open,285,W,FALL,1:12,Brooks Empey,72155,Wisconsin,Anthony Cassioppi,50650,Iowa
+2023,12/10,Iowa - Chattanooga Dual,285,W,FALL,1:16,Logan Andrew,59757,Chattanooga,Anthony Cassioppi,50650,Iowa
+2023,12/04,Iowa State - Iowa Dual,285,W,DEC,9 - 2,Sam Schuyler,50361,Iowa State,Anthony Cassioppi,50650,Iowa
+2023,11/26,Pennsylvania - Iowa Dual,285,W,MD,9 - 0,Ben Goldin,50827,Pennsylvania,Anthony Cassioppi,50650,Iowa
+2023,11/18,Iowa - Buffalo Dual,285,W,FALL,0:53,Greg Hodulick,49406,Buffalo,Anthony Cassioppi,50650,Iowa
+2023,11/18,Iowa - Sacred Heart Dual,285,W,FALL,1:28,Marc Berisha,79735,Sacred Heart,Anthony Cassioppi,50650,Iowa
+2023,11/17,Iowa - Army Dual,285,W,FALL,1:26,Kade Carlson,73370,Army West Point,Anthony Cassioppi,50650,Iowa
+2023,11/13,Cal Baptist - Iowa Dual,285,W,FALL,2:13,Christopher Island,69373,Cal Baptist,Anthony Cassioppi,50650,Iowa
+2023,02/03,Iowa - Minnesota Dual,285,L,DEC,5 - 0,Garrett Joles,50908,Minnesota,Bradley Hill,73708,Iowa
+2023,01/28,Flash Flanagan Open,285,W,FALL,1:29,Collin Feucht,83834,Wisconsin-Oshkosh,Bradley Hill,73708,Iowa
+2023,01/28,Flash Flanagan Open,285,W,FALL,1:53,Rudy Acedo,83269,Indian Hills,Bradley Hill,73708,Iowa
+2023,01/28,Flash Flanagan Open,285,W,DEC,3 - 1,Gannon Rosenfeld,79252,Wisconsin,Bradley Hill,73708,Iowa
+2023,01/28,Flash Flanagan Open,285,W,FALL,1:21,Jonah Schmidtke,67084,Wisconsin,Bradley Hill,73708,Iowa
+2023,01/28,Flash Flanagan Open,285,W,FALL,1:53,Nate Lloyd,57555,Wisconsin-Parkside,Bradley Hill,73708,Iowa
+2023,12/29,Soldier Salute Open,285,W,DEC,11 - 4,Kade Carlson,73370,Army West Point,Bradley Hill,73708,Iowa
+2023,12/29,Soldier Salute Open,285,L,DEC,9 - 4,Ryan Catka,72191,Navy,Bradley Hill,73708,Iowa
+2023,12/29,Soldier Salute Open,285,W,DEC,9 - 8,Jonathan Chesser,73052,The Citadel,Bradley Hill,73708,Iowa
+2023,12/29,Soldier Salute Open,285,W,DEC,5 - 1,Josh Evans,72531,VMI,Bradley Hill,73708,Iowa
+2023,12/29,Soldier Salute Open,285,L,DEC,9 - 5,Gannon Rosenfeld,79252,Wisconsin,Bradley Hill,73708,Iowa
+2023,12/29,Soldier Salute Open,285,W,DEC,3 - 2,Terren Swartz,57983,Wyoming,Bradley Hill,73708,Iowa
+2023,11/26,Cyclone Open,285,L,FALL,1:09,Gage Marty,78703,Iowa,Bradley Hill,73708,Iowa
+2023,11/26,Cyclone Open,285,L,DEC,5 - 3,Gannon Rosenfeld,79252,Wisconsin,Bradley Hill,73708,Iowa
+2023,11/26,Cyclone Open,285,W,DEC,7 - 2,Ryder Wiese,72166,Oklahoma,Bradley Hill,73708,Iowa
+2023,11/26,Cyclone Open,285,W,FALL,0:28,Jonah Schmidtke,67084,Wisconsin,Bradley Hill,73708,Iowa
+2023,11/12,Luther Open,285,W,FALL,0:39,Quinn Wilcoxen,73459,Cornell College,Bradley Hill,73708,Iowa
+2023,11/12,Luther Open,285,W,DEC,7 - 3,Walter West,70394,Luther,Bradley Hill,73708,Iowa
+2023,11/12,Luther Open,285,W,MFOR,0 - 0,Zach Ryg,62223,Upper Iowa,Bradley Hill,73708,Iowa
+2023,11/12,Luther Open,285,L,DEC,3 - 2,Tyler Kim,62032,Augsburg,Bradley Hill,73708,Iowa
+2023,12/29,Soldier Salute Open,285,L,DEC,2 - 0,Austin Kohlhofer,78530,Army West Point,Gage Marty,78703,Iowa
+2023,12/29,Soldier Salute Open,285,W,DEC,8 - 4,William Muckler,73536,Bellarmine,Gage Marty,78703,Iowa
+2023,12/29,Soldier Salute Open,285,L,MFOR,0 - 0,Daniel Conley,51103,Columbia,Gage Marty,78703,Iowa
+2023,12/29,Soldier Salute Open,285,W,DEC,9 - 6,Jonah Schmidtke,67084,Wisconsin,Gage Marty,78703,Iowa
+2023,12/29,Soldier Salute Open,285,L,DEC,6 - 0,Mason Ding,71706,Wyoming,Gage Marty,78703,Iowa
+2023,12/10,UNI Open,285,L,DEC,5 - 3,Cole Gripka,72177,Missouri,Gage Marty,78703,Iowa
+2023,12/10,UNI Open,285,L,MD,10 - 0,Seth Nitzel,66934,Missouri,Gage Marty,78703,Iowa
+2023,11/26,Cyclone Open,285,W,FALL,1:09,Bradley Hill,73708,Iowa,Gage Marty,78703,Iowa
+2023,11/26,Cyclone Open,285,W,DEC,3 - 1,Brooks Empey,72155,Wisconsin,Gage Marty,78703,Iowa
+2023,11/26,Cyclone Open,285,L,DEC,5 - 3,Peter Christensen,57076,Wisconsin,Gage Marty,78703,Iowa
+2023,11/19,Lindenwood Open,285,W,FALL,1:42,Allyn Johnson,82519,Triton College,Gage Marty,78703,Iowa
+2023,11/19,Lindenwood Open,285,W,FALL,1:57,Victor Vargas,80814,Morton College,Gage Marty,78703,Iowa
+2023,11/19,Lindenwood Open,285,W,FALL,1:06,Kyler Pouncil,79376,University of the Ozarks,Gage Marty,78703,Iowa
+2023,11/19,Lindenwood Open,285,L,DEC,5 - 3,Kale Schrader,74978,Northeastern Oklahoma,Gage Marty,78703,Iowa
+2023,11/19,Lindenwood Open,285,W,DEC,7 - 3,Keith Miley,73068,Little Rock,Gage Marty,78703,Iowa
+2023,11/19,Lindenwood Open,285,W,FALL,1:10,William Muckler,73536,Bellarmine,Gage Marty,78703,Iowa
+2023,11/12,Luther Open,285,W,MD,10 - 0,David Pierson,81864,Wartburg,Gage Marty,78703,Iowa
+2023,11/12,Luther Open,285,L,DEC,1 - 0,Robert Beese,81861,Augsburg,Gage Marty,78703,Iowa
+2023,11/12,Luther Open,285,W,SV-1,3 - 1,Jordan Lewis,81010,Wisconsin-Whitewater,Gage Marty,78703,Iowa
+2023,11/12,Luther Open,285,W,FALL,0:48,Kamond Manning,80875,North Iowa Area Community College,Gage Marty,78703,Iowa
+2023,01/28,Flash Flanagan Open,285,W,FALL,1:59,Kail Shannon,83669,Buena Vista,Easton Fleshman,73702,Iowa
+2023,01/28,Flash Flanagan Open,285,L,DEC,7 - 2,Gannon Rosenfeld,79252,Wisconsin,Easton Fleshman,73702,Iowa
+2023,01/28,Flash Flanagan Open,285,W,FALL,6:33,Hayden Hearne,78982,Central,Easton Fleshman,73702,Iowa
+2023,01/28,Flash Flanagan Open,285,W,DEC,4 - 2,Jordan Sommers,78631,Northern Illinois,Easton Fleshman,73702,Iowa
+2023,01/28,Flash Flanagan Open,285,W,DEC,2 - 0,Guyon Cyprian,68040,Wisconsin-Oshkosh,Easton Fleshman,73702,Iowa
+2023,12/29,Soldier Salute Open,285,W,DEC,3 - 1,Jonah Schmidtke,67084,Wisconsin,Easton Fleshman,73702,Iowa
+2023,12/29,Soldier Salute Open,285,L,DEC,3 - 1,Thadd Huff,79335,Bellarmine,Easton Fleshman,73702,Iowa
+2023,12/29,Soldier Salute Open,285,L,MD,10 - 0,Mason Ding,71706,Wyoming,Easton Fleshman,73702,Iowa
+2023,12/29,Soldier Salute Open,285,L,DEC,9 - 2,Terren Swartz,57983,Wyoming,Easton Fleshman,73702,Iowa
+2023,12/10,UNI Open,285,L,DEC,6 - 1,John Gunderson,73049,Northern Iowa,Easton Fleshman,73702,Iowa
+2023,12/10,UNI Open,285,W,MFOR,0 - 0,Chet Buss,71645,Northern Iowa,Easton Fleshman,73702,Iowa
+2023,12/10,UNI Open,285,L,DEC,6 - 0,Luke Rasmussen,72722,South Dakota State,Easton Fleshman,73702,Iowa
+2023,12/10,UNI Open,285,L,DEC,6 - 0,Bowen McConville,57175,South Dakota State,Easton Fleshman,73702,Iowa
+2023,11/19,Lindenwood Open,285,W,FALL,3:16,Helliot Santana-Guevara,81977,Joliet Junior College,Easton Fleshman,73702,Iowa
+2023,11/19,Lindenwood Open,285,W,DEC,3 - 0,Ronald Krewer,75398,Triton College,Easton Fleshman,73702,Iowa
+2023,11/19,Lindenwood Open,285,L,SV-1,2 - 1,Ka'Ron Lewis,73907,University of the Ozarks,Easton Fleshman,73702,Iowa
+2023,11/19,Lindenwood Open,285,L,FALL,9:00,Apollo Gothard,72124,Little Rock,Easton Fleshman,73702,Iowa
+2023,11/12,Luther Open,285,W,SV-1,3 - 1,Jacob Peacy,80985,Wisconsin-Whitewater,Easton Fleshman,73702,Iowa
+2023,11/12,Luther Open,285,L,DEC,8 - 3,Reed Parrish,80404,Rochester Community & Tech College,Easton Fleshman,73702,Iowa
+2023,11/12,Luther Open,285,W,DEC,1 - 0,Andrew Keeler,80385,Luther,Easton Fleshman,73702,Iowa
+2023,11/12,Luther Open,285,W,DEC,9 - 3,Landen Schemmel,78873,Cornell College,Easton Fleshman,73702,Iowa
+2023,11/12,Luther Open,285,W,FALL,2:35,Cayden Miller,78545,Iowa State,Easton Fleshman,73702,Iowa

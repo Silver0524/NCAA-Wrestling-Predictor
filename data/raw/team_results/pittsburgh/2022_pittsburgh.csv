@@ -1,0 +1,500 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2022,03/06,ACC Championships,125,L,DEC,8 - 3,Jakob Camacho,50655,NC State,Gage Curry,44583,Pittsburgh
+2022,03/06,ACC Championships,125,L,TB-2,3 - 2,Spencer Moore,68720,North Carolina,Gage Curry,44583,Pittsburgh
+2022,03/06,ACC Championships,125,W,DEC,3 - 0,Logan Agin,62979,Duke,Gage Curry,44583,Pittsburgh
+2022,02/18,Pittsburgh - Duke Dual,125,W,MD,8 - 0,Logan Agin,62979,Duke,Gage Curry,44583,Pittsburgh
+2022,02/11,Pittsburgh - North Carolina State Dual,125,L,MD,15 - 6,Jakob Camacho,50655,NC State,Gage Curry,44583,Pittsburgh
+2022,02/06,Columbia - Pittsburgh Dual,125,W,DEC,5 - 1,Joe Manchio,50937,Columbia,Gage Curry,44583,Pittsburgh
+2022,02/04,Pittsburgh - North Carolina Dual,125,W,SV-1,2 - 1,Spencer Moore,68720,North Carolina,Gage Curry,44583,Pittsburgh
+2022,01/30,Virginia Tech - Pittsburgh Dual,125,L,DEC,5 - 3,Sam Latona,56742,Virginia Tech,Gage Curry,44583,Pittsburgh
+2022,01/21,Virginia - Pittsburgh Dual,125,W,DEC,3 - 2,Patrick McCormick,57063,Virginia,Gage Curry,44583,Pittsburgh
+2022,01/14,Arizona State - Pittsburgh Dual,125,L,DEC,10 - 4,Brandon Courtney,50881,Arizona State,Gage Curry,44583,Pittsburgh
+2022,01/09,Michigan - Pittsburgh Dual,125,L,MD,18 - 7,Nick Suriano,44648,Michigan,Gage Curry,44583,Pittsburgh
+2022,01/09,Army - Pittsburgh Dual,125,W,MD,12 - 4,Ryan Chauvin,50835,Army West Point,Gage Curry,44583,Pittsburgh
+2022,12/29,Illinois Matmen Open,125,W,DEC,4 - 2,Lucian Brink,64945,Northern Illinois,Gage Curry,44583,Pittsburgh
+2022,12/29,Illinois Matmen Open,125,L,DEC,9 - 7,Sheldon Seymour,62339,Lehigh,Gage Curry,44583,Pittsburgh
+2022,12/29,Illinois Matmen Open,125,W,SV-1,5 - 4,Diego Sotelo,71874,Harvard,Gage Curry,44583,Pittsburgh
+2022,12/29,Illinois Matmen Open,125,L,SV-1,7 - 5,Antonio Lorenzo,57329,Cal Poly,Gage Curry,44583,Pittsburgh
+2022,12/29,Illinois Matmen Open,125,W,DEC,2 - 0,Brandon Seidman,56803,Bucknell,Gage Curry,44583,Pittsburgh
+2022,12/12,Pittsburgh - Ohio State Dual,125,L,DEC,5 - 2,Malik Heinselman,50611,Ohio State,Gage Curry,44583,Pittsburgh
+2022,11/22,Maryland - Pittsburgh Dual,125,W,TF5,17 - 2 6:06,Zach Spence,57519,Maryland,Gage Curry,44583,Pittsburgh
+2022,11/13,Pittsburgh - Edinboro Dual,125,W,DEC,3 - 1,Logan Jaquay,67227,Edinboro,Gage Curry,44583,Pittsburgh
+2022,11/07,Clarion Open,125,W,SV-1,3 - 1,Anthony Noto,64642,Lock Haven,Gage Curry,44583,Pittsburgh
+2022,11/07,Clarion Open,125,L,DEC,1 - 0,Carter Bailey,73039,Lehigh,Gage Curry,44583,Pittsburgh
+2022,11/07,Clarion Open,125,W,MD,11 - 0,Kade Orr,73311,Kent State,Gage Curry,44583,Pittsburgh
+2022,11/07,Clarion Open,125,W,FALL,2:12,Logan Mazzeo,65011,Clarion,Gage Curry,44583,Pittsburgh
+2022,11/07,Clarion Open,125,W,DEC,8 - 1,Bronson Garber,56759,Bloomsburg,Gage Curry,44583,Pittsburgh
+2022,12/29,Illinois Matmen Open,125,L,MD,12 - 4,Blair Orr,55804,Pennsylvania,Colton Camacho,58029,Pittsburgh
+2022,12/29,Illinois Matmen Open,125,W,FALL,3:12,Maximo Renteria,71870,Illinois,Colton Camacho,58029,Pittsburgh
+2022,12/29,Illinois Matmen Open,125,L,DEC,9 - 6,Diego Sotelo,71874,Harvard,Colton Camacho,58029,Pittsburgh
+2022,12/29,Illinois Matmen Open,125,W,MD,15 - 7,Hunter Adrian,65842,Brown,Colton Camacho,58029,Pittsburgh
+2022,12/11,Cleveland State Open,125,W,DEC,5 - 2,Brett Ungar,68705,Spartan Combat RTC,Colton Camacho,58029,Pittsburgh
+2022,12/11,Cleveland State Open,125,W,MD,10 - 0,Tommy Hoskins,50613,Ohio,Colton Camacho,58029,Pittsburgh
+2022,12/11,Cleveland State Open,125,W,MD,15 - 5,Christian Tanefeu,73460,Michigan,Colton Camacho,58029,Pittsburgh
+2022,12/11,Cleveland State Open,125,L,DEC,7 - 4,Jacob Moran,63550,Indiana,Colton Camacho,58029,Pittsburgh
+2022,12/11,Cleveland State Open,125,W,TF5,17 - 1 7:00,Trey Bates,71792,Central Michigan,Colton Camacho,58029,Pittsburgh
+2022,11/21,Pittsburgh - Lehigh Dual,125,L,DEC,4 - 1,Jaret Lane,50909,Lehigh,Colton Camacho,58029,Pittsburgh
+2022,11/12,Pittsburgh - Buffalo Dual,125,W,DEC,6 - 1,Tristan Daugherty,62877,Buffalo,Colton Camacho,58029,Pittsburgh
+2022,11/07,Clarion Open,125,L,DEC,6 - 5,Anthony Noto,64642,Lock Haven,Colton Camacho,58029,Pittsburgh
+2022,11/07,Clarion Open,125,W,TF5,16 - 0 3:48,Elijah Wallace,72669,Franklin & Marshall,Colton Camacho,58029,Pittsburgh
+2022,11/07,Clarion Open,125,W,FALL,1:22,Aiden Lewis,71750,Bucknell,Colton Camacho,58029,Pittsburgh
+2022,11/07,Clarion Open,125,W,DEC,5 - 2,Bronson Garber,56759,Bloomsburg,Colton Camacho,58029,Pittsburgh
+2022,11/07,Clarion Open,125,W,TF5,19 - 4 6:23,Shawn Orem,51045,Bloomsburg,Colton Camacho,58029,Pittsburgh
+2022,03/17,NCAA Championships,133,L,FALL,2:21,Chris Cannon,62895,Northwestern,Micky Phillippi,45230,Pittsburgh
+2022,03/17,NCAA Championships,133,W,DEC,9 - 8,Richie Koehler,51648,Rider,Micky Phillippi,45230,Pittsburgh
+2022,03/17,NCAA Championships,133,W,DEC,4 - 2,Joey Olivieri,67238,Rutgers,Micky Phillippi,45230,Pittsburgh
+2022,03/17,NCAA Championships,133,L,DEC,5 - 2,Austin DeSanto,49117,Iowa,Micky Phillippi,45230,Pittsburgh
+2022,03/17,NCAA Championships,133,W,DEC,4 - 0,Codi Russell,51113,Appalachian State,Micky Phillippi,45230,Pittsburgh
+2022,03/06,ACC Championships,133,L,DEC,4 - 2,Korbin Myers,39637,Virginia Tech,Micky Phillippi,45230,Pittsburgh
+2022,03/06,ACC Championships,133,W,DEC,3 - 1,Joe Heilmann,51223,North Carolina,Micky Phillippi,45230,Pittsburgh
+2022,03/06,ACC Championships,133,W,TF5,18 - 3 5:08,Drake Doolittle,62376,Duke,Micky Phillippi,45230,Pittsburgh
+2022,02/18,Pittsburgh - Duke Dual,133,W,FALL,4:29,Drake Doolittle,62376,Duke,Micky Phillippi,45230,Pittsburgh
+2022,02/11,Pittsburgh - North Carolina State Dual,133,W,DEC,4 - 1,Kai Orine,56908,NC State,Micky Phillippi,45230,Pittsburgh
+2022,02/06,Columbia - Pittsburgh Dual,133,W,DEC,9 - 3,Angelo Rini,56766,Columbia,Micky Phillippi,45230,Pittsburgh
+2022,02/04,Pittsburgh - North Carolina Dual,133,L,DEC,3 - 2,Joe Heilmann,51223,North Carolina,Micky Phillippi,45230,Pittsburgh
+2022,01/30,Virginia Tech - Pittsburgh Dual,133,L,DEC,2 - 1,Korbin Myers,39637,Virginia Tech,Micky Phillippi,45230,Pittsburgh
+2022,01/21,Virginia - Pittsburgh Dual,133,W,TF5,22 - 7 5:34,Trey Lane,62197,Virginia,Micky Phillippi,45230,Pittsburgh
+2022,01/14,Arizona State - Pittsburgh Dual,133,L,DEC,5 - 3,Michael McGee,49264,Arizona State,Micky Phillippi,45230,Pittsburgh
+2022,01/09,Michigan - Pittsburgh Dual,133,W,DEC,5 - 2,Jack Medley,51392,Michigan,Micky Phillippi,45230,Pittsburgh
+2022,01/09,Army - Pittsburgh Dual,133,W,MD,14 - 5,Mark Montgomery,60539,Army West Point,Micky Phillippi,45230,Pittsburgh
+2022,12/29,Illinois Matmen Open,133,L,DEC,5 - 4,Lucas Byrd,56714,Illinois,Micky Phillippi,45230,Pittsburgh
+2022,12/29,Illinois Matmen Open,133,W,DEC,2 - 0,Joey Olivieri,67238,Rutgers,Micky Phillippi,45230,Pittsburgh
+2022,12/29,Illinois Matmen Open,133,W,TB-3,7 - 6,Jack Wagner,44755,Northern Iowa,Micky Phillippi,45230,Pittsburgh
+2022,12/29,Illinois Matmen Open,133,W,MD,11 - 3,Carter Bailey,73039,Lehigh,Micky Phillippi,45230,Pittsburgh
+2022,12/12,Pittsburgh - Ohio State Dual,133,W,MD,14 - 3,Dylan Koontz,50854,Ohio State,Micky Phillippi,45230,Pittsburgh
+2022,11/22,Maryland - Pittsburgh Dual,133,W,DEC,5 - 0,King Sandoval,57116,Maryland,Micky Phillippi,45230,Pittsburgh
+2022,11/21,Pittsburgh - Lehigh Dual,133,L,FALL,6:57,Malyke Hines,56932,Lehigh,Micky Phillippi,45230,Pittsburgh
+2022,11/13,Pittsburgh - Edinboro Dual,133,W,TF5,17 - 2 3:14,Clayton Bashor,71840,Edinboro,Micky Phillippi,45230,Pittsburgh
+2022,11/12,Pittsburgh - Buffalo Dual,133,W,DEC,4 - 2,Derek Spann,45028,Buffalo,Micky Phillippi,45230,Pittsburgh
+2022,03/17,NCAA Championships,141,W,DEC,7 - 3,Real Woods,50664,Stanford,Cole Matthews,50936,Pittsburgh
+2022,03/17,NCAA Championships,141,L,DEC,4 - 3,Grant Willits,49273,Oregon State,Cole Matthews,50936,Pittsburgh
+2022,03/17,NCAA Championships,141,L,SV-3,3 - 2,Kizhan Clarke,44878,North Carolina,Cole Matthews,50936,Pittsburgh
+2022,03/17,NCAA Championships,141,W,DEC,7 - 5,Sebastian Rivera,44799,Rutgers,Cole Matthews,50936,Pittsburgh
+2022,03/17,NCAA Championships,141,W,TB-1,3 - 2,Matthew Kazimir,51644,Columbia,Cole Matthews,50936,Pittsburgh
+2022,03/17,NCAA Championships,141,W,DEC,12 - 8,Joseph Zargo,62890,Wisconsin,Cole Matthews,50936,Pittsburgh
+2022,03/06,ACC Championships,141,W,DEC,2 - 0,Collin Gerardi,51286,Virginia Tech,Cole Matthews,50936,Pittsburgh
+2022,03/06,ACC Championships,141,W,DEC,3 - 2,Ryan Jack,61122,NC State,Cole Matthews,50936,Pittsburgh
+2022,02/18,Pittsburgh - Duke Dual,141,W,MD,17 - 4,Patrick Rowland,60597,Duke,Cole Matthews,50936,Pittsburgh
+2022,02/11,Pittsburgh - North Carolina State Dual,141,W,DEC,3 - 1,Ryan Jack,61122,NC State,Cole Matthews,50936,Pittsburgh
+2022,02/06,Columbia - Pittsburgh Dual,141,W,FALL,0:36,Matthew Kazimir,51644,Columbia,Cole Matthews,50936,Pittsburgh
+2022,02/04,Pittsburgh - North Carolina Dual,141,W,DEC,3 - 2,Kizhan Clarke,44878,North Carolina,Cole Matthews,50936,Pittsburgh
+2022,01/30,Virginia Tech - Pittsburgh Dual,141,W,DEC,8 - 2,Collin Gerardi,51286,Virginia Tech,Cole Matthews,50936,Pittsburgh
+2022,01/21,Virginia - Pittsburgh Dual,141,W,MD,10 - 1,Evan Buchanan,66510,Virginia,Cole Matthews,50936,Pittsburgh
+2022,01/14,Arizona State - Pittsburgh Dual,141,W,FALL,1:44,Julian Chlebove,56769,Arizona State,Cole Matthews,50936,Pittsburgh
+2022,01/09,Michigan - Pittsburgh Dual,141,W,DEC,11 - 5,Stevan Micic,20223,Michigan,Cole Matthews,50936,Pittsburgh
+2022,01/09,Army - Pittsburgh Dual,141,W,FALL,3:00,Thomas Deck,69378,Army West Point,Cole Matthews,50936,Pittsburgh
+2022,12/29,Illinois Matmen Open,141,W,FALL,4:14,Joseph Zargo,62890,Wisconsin,Cole Matthews,50936,Pittsburgh
+2022,12/29,Illinois Matmen Open,141,W,FALL,0:55,McKenzie Bell,67375,Rider,Cole Matthews,50936,Pittsburgh
+2022,12/29,Illinois Matmen Open,141,L,DEC,7 - 5,CJ Composto,62430,Pennsylvania,Cole Matthews,50936,Pittsburgh
+2022,12/29,Illinois Matmen Open,141,W,DEC,9 - 2,Ethan Basile,62587,Northern Iowa,Cole Matthews,50936,Pittsburgh
+2022,12/29,Illinois Matmen Open,141,W,DEC,7 - 0,Noah Levett,50658,Bucknell,Cole Matthews,50936,Pittsburgh
+2022,12/12,Pittsburgh - Ohio State Dual,141,L,DEC,4 - 3,Dylan D'Emilio,56726,Ohio State,Cole Matthews,50936,Pittsburgh
+2022,11/22,Maryland - Pittsburgh Dual,141,W,SV-1,3 - 1,Danny Bertoni,49173,Maryland,Cole Matthews,50936,Pittsburgh
+2022,11/21,Pittsburgh - Lehigh Dual,141,W,DEC,7 - 4,Danny Moran,49162,Lehigh,Cole Matthews,50936,Pittsburgh
+2022,01/29,Mat Town Open II,141,W,DEC,6 - 4,Myles Griffin,71747,Spartan Combat RTC,Ryan Michaels,67121,Pittsburgh
+2022,01/29,Mat Town Open II,141,L,MFOR,0 - 0,Anthony Sciotto,51072,Navy,Ryan Michaels,67121,Pittsburgh
+2022,01/29,Mat Town Open II,141,L,DEC,2 - 1,Connor McGonagle,56713,Lehigh,Ryan Michaels,67121,Pittsburgh
+2022,01/29,Mat Town Open II,141,W,MD,12 - 0,Trey Trejo,73725,Bucknell,Ryan Michaels,67121,Pittsburgh
+2022,11/13,Pittsburgh - Edinboro Dual,141,L,FALL,6:12,Gabe Willochell,62335,Edinboro,Ryan Michaels,67121,Pittsburgh
+2022,11/12,Pittsburgh - Buffalo Dual,141,L,SV-1,6 - 4,Ben Freeman,49177,Buffalo,Ryan Michaels,67121,Pittsburgh
+2022,11/07,Clarion Open,141,L,DEC,5 - 3,Danny Bertoni,49173,Maryland,Ryan Michaels,67121,Pittsburgh
+2022,11/07,Clarion Open,141,W,DEC,4 - 3,Drew Munch,63142,Lehigh,Ryan Michaels,67121,Pittsburgh
+2022,11/07,Clarion Open,141,L,DEC,6 - 3,Louis Newell,50916,Kent State,Ryan Michaels,67121,Pittsburgh
+2022,11/07,Clarion Open,141,W,FALL,6:33,Kyle Schickel,67305,Clarion,Ryan Michaels,67121,Pittsburgh
+2022,11/07,Clarion Open,141,L,DEC,2 - 1,Ethen Miller,70914,Maryland,Jake Cherry,49288,Pittsburgh
+2022,11/07,Clarion Open,141,L,SV-1,8 - 6,Aaron Coleman,56856,Bloomsburg,Jake Cherry,49288,Pittsburgh
+2022,03/06,ACC Championships,149,L,DEC,4 - 1,Zach Sherman,49216,North Carolina,Dan Mancini,58612,Pittsburgh
+2022,03/06,ACC Championships,149,L,DEC,11 - 10,Josh Finesilver,46112,Duke,Dan Mancini,58612,Pittsburgh
+2022,02/18,Duke Pittsburgh ECM,165,W,FALL,3:52,Ty Mills,51081,Duke,Dan Mancini,58612,Pittsburgh
+2022,02/18,Pittsburgh - Duke Dual,149,L,MD,12 - 3,Josh Finesilver,46112,Duke,Dan Mancini,58612,Pittsburgh
+2022,02/11,Pittsburgh - North Carolina State Dual,149,L,DEC,6 - 3,Tariq Wilson,44862,NC State,Dan Mancini,58612,Pittsburgh
+2022,02/06,Columbia - Pittsburgh Dual,149,W,SV-1,3 - 1,Dominic Rossetti,71731,Columbia,Dan Mancini,58612,Pittsburgh
+2022,02/04,Pittsburgh - North Carolina Dual,149,L,DEC,8 - 2,Zach Sherman,49216,North Carolina,Dan Mancini,58612,Pittsburgh
+2022,01/14,Arizona State - Pittsburgh Dual,149,L,MD,16 - 2,Kyle Parco,58562,Arizona State,Dan Mancini,58612,Pittsburgh
+2022,01/09,Michigan - Pittsburgh Dual,149,L,DEC,9 - 4,Cole Mattin,57715,Michigan,Dan Mancini,58612,Pittsburgh
+2022,12/29,Illinois Matmen Open,149,W,TF5,17 - 1 5:00,Dillon Pousson,77965,Unattached,Dan Mancini,58612,Pittsburgh
+2022,12/29,Illinois Matmen Open,149,W,DEC,6 - 2,Kaya Sement,63454,Pennsylvania,Dan Mancini,58612,Pittsburgh
+2022,12/29,Illinois Matmen Open,149,L,DEC,10 - 4,Austin Gomez,49153,Wisconsin,Dan Mancini,58612,Pittsburgh
+2022,12/29,Illinois Matmen Open,149,L,DEC,7 - 5,Blake Saito,65874,Brown,Dan Mancini,58612,Pittsburgh
+2022,12/11,Cleveland State Open,149,W,MD,13 - 2,Vinny Catanzaro,56287,Mercyhurst,Dan Mancini,58612,Pittsburgh
+2022,12/11,Cleveland State Open,149,W,DEC,9 - 4,Alec Freeman,71686,Indiana,Dan Mancini,58612,Pittsburgh
+2022,12/11,Cleveland State Open,149,W,FALL,1:46,Jack Gorman,58613,Cleveland State,Dan Mancini,58612,Pittsburgh
+2022,12/11,Cleveland State Open,149,W,DEC,7 - 4,Kaleb Burgess,72225,Buffalo,Dan Mancini,58612,Pittsburgh
+2022,12/11,Cleveland State Open,149,L,DEC,4 - 2,Corbyn Munson,51197,Central Michigan,Dan Mancini,58612,Pittsburgh
+2022,11/13,Pittsburgh - Edinboro Dual,149,L,FALL,4:58,Ryan Burgos,63141,Edinboro,Dan Mancini,58612,Pittsburgh
+2022,11/12,Pittsburgh - Buffalo Dual,149,L,DEC,4 - 1,John Arceri,47552,Buffalo,Dan Mancini,58612,Pittsburgh
+2022,11/07,Clarion Open,149,W,DEC,4 - 2,Brayden Roberts,64960,West Virginia,Dan Mancini,58612,Pittsburgh
+2022,11/07,Clarion Open,149,W,DEC,7 - 4,Jeffrey Boyd,62594,West Virginia,Dan Mancini,58612,Pittsburgh
+2022,11/07,Clarion Open,149,W,MD,8 - 0,Anthony Micci,67283,Franklin & Marshall,Dan Mancini,58612,Pittsburgh
+2022,11/07,Clarion Open,149,W,MD,12 - 0,John Altieri,70738,Clarion,Dan Mancini,58612,Pittsburgh
+2022,11/07,Clarion Open,149,W,DEC,6 - 1,Payne Carr,72188,Navy,Dan Mancini,58612,Pittsburgh
+2022,11/07,Clarion Open,149,L,FALL,4:48,Kolby DePron,71751,Bucknell,Dan Mancini,58612,Pittsburgh
+2022,02/06,Edinboro Open,149,L,DEC,7 - 1,Chance Lamer,70915,Michigan,Brock McMillen,72116,Pittsburgh
+2022,02/06,Edinboro Open,149,W,DEC,6 - 5,Kanen Storr,44714,Michigan,Brock McMillen,72116,Pittsburgh
+2022,02/06,Edinboro Open,149,W,DEC,2 - 0,Ethen Miller,70914,Maryland,Brock McMillen,72116,Pittsburgh
+2022,02/06,Edinboro Open,149,W,FALL,5:12,Lavinsky Collins,51268,Clarion,Brock McMillen,72116,Pittsburgh
+2022,02/06,Edinboro Open,149,W,MD,14 - 4,Mason Shrader,73720,Central Michigan,Brock McMillen,72116,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,149,L,MFOR,0 - 0,Nate Wade,76000,Spartan Combat RTC,Brock McMillen,72116,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,149,W,DEC,7 - 5,Tommy Nichols,73541,American International College,Brock McMillen,72116,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,149,L,MFOR,0 - 0,Kyle Schickel,67305,Clarion,Brock McMillen,72116,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,149,W,MD,10 - 2,Matthew Williams,69376,Army West Point,Brock McMillen,72116,Pittsburgh
+2022,01/30,Virginia Tech - Pittsburgh Dual,149,L,DEC,5 - 2,Sam Hillegas,61125,Virginia Tech,Luke Kemerer,50929,Pittsburgh
+2022,01/21,Virginia - Pittsburgh Dual,149,L,DEC,7 - 2,Jarod Verkleeren,49156,Virginia,Luke Kemerer,50929,Pittsburgh
+2022,01/09,Pitt Michigan ECM,149,W,DEC,6 - 2,Nick Freeman,50641,Michigan,Luke Kemerer,50929,Pittsburgh
+2022,01/09,Army - Pittsburgh Dual,149,L,MD,14 - 5,Pj Ogunsanya,54496,Army West Point,Luke Kemerer,50929,Pittsburgh
+2022,01/07,David Lehman Open,149,W,DEC,8 - 3,Connor Eck,71824,Lock Haven,Luke Kemerer,50929,Pittsburgh
+2022,01/07,David Lehman Open,149,L,DEC,7 - 4,Ryan Burgos,63141,Edinboro,Luke Kemerer,50929,Pittsburgh
+2022,01/07,David Lehman Open,149,W,DEC,8 - 3,Logan Sanom,62487,Bucknell,Luke Kemerer,50929,Pittsburgh
+2022,01/07,David Lehman Open,149,W,FALL,1:03,Sam McMonagle,71762,Brown,Luke Kemerer,50929,Pittsburgh
+2022,01/07,David Lehman Open,149,W,DEC,3 - 2,Ricky Cabanillas,57514,Brown,Luke Kemerer,50929,Pittsburgh
+2022,12/29,Illinois Matmen Open,149,L,DEC,7 - 5,Al De Santis,67002,Rutgers,Luke Kemerer,50929,Pittsburgh
+2022,12/29,Illinois Matmen Open,149,L,SV-1,3 - 1,Anthony Cheloni,53565,Northern Illinois,Luke Kemerer,50929,Pittsburgh
+2022,12/12,Pittsburgh - Ohio State Dual,149,L,TF5,21 - 6 6:13,Sammy Sasso,51143,Ohio State,Luke Kemerer,50929,Pittsburgh
+2022,11/22,Maryland - Pittsburgh Dual,149,W,DEC,8 - 2,William Berkowitz,69776,Maryland,Luke Kemerer,50929,Pittsburgh
+2022,11/21,Pittsburgh - Lehigh Dual,149,L,MD,16 - 5,Manzona Bryant,63169,Lehigh,Luke Kemerer,50929,Pittsburgh
+2022,11/07,Clarion Open,149,W,DEC,10 - 3,Dashawn Farber,62823,Lock Haven,Luke Kemerer,50929,Pittsburgh
+2022,11/07,Clarion Open,149,L,FALL,2:03,Lavinsky Collins,51268,Clarion,Luke Kemerer,50929,Pittsburgh
+2022,11/07,Clarion Open,149,L,MFOR,0 - 0,Payne Carr,72188,Navy,Luke Kemerer,50929,Pittsburgh
+2022,02/06,Edinboro Open,149,W,MFOR,0 - 0,Dakota Asuncion,73481,Sacred Heart,Emory Taylor,72119,Pittsburgh
+2022,02/06,Edinboro Open,149,L,DEC,6 - 1,Jacob Mann,72935,Princeton,Emory Taylor,72119,Pittsburgh
+2022,02/06,Edinboro Open,149,W,TF5,18 - 3 3:36,Alex Wesselman,73463,Michigan,Emory Taylor,72119,Pittsburgh
+2022,02/06,Edinboro Open,149,L,DEC,10 - 5,Will Grater,67164,Central Michigan,Emory Taylor,72119,Pittsburgh
+2022,01/29,Mat Town Open II,149,L,FALL,5:27,Vincent Mannella,62892,Pennsylvania,Emory Taylor,72119,Pittsburgh
+2022,01/29,Mat Town Open II,149,L,DEC,6 - 0,Brock Herring,50233,Lehigh,Emory Taylor,72119,Pittsburgh
+2022,12/11,Cleveland State Open,149,L,DEC,5 - 2,Nate Wade,76000,Spartan Combat RTC,Emory Taylor,72119,Pittsburgh
+2022,12/11,Cleveland State Open,149,L,TF5,15 - 0 7:00,Brayden Roberts,64960,West Virginia,Emory Taylor,72119,Pittsburgh
+2022,12/11,Cleveland State Open,149,W,DEC,8 - 5,Ryan Granger,69360,Cleveland State,Emory Taylor,72119,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,149,L,DEC,3 - 2,Michael Cusick,57393,Kutztown,Emory Taylor,72119,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,149,W,DEC,6 - 4,George Johnson,74525,West Virginia,Emory Taylor,72119,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,149,L,DEC,4 - 3,Matthew Williams,69376,Army West Point,Emory Taylor,72119,Pittsburgh
+2022,11/07,Clarion Open,157,L,MD,12 - 1,Hunter Shaut,61754,Buffalo,Emory Taylor,72119,Pittsburgh
+2022,11/07,Clarion Open,157,L,DEC,4 - 3,Josh Bonomo,74512,Bloomsburg,Emory Taylor,72119,Pittsburgh
+2022,03/17,NCAA Championships,157,L,DEC,3 - 2,Jake Keating,50315,Virginia,Elijah Cleary,44828,Pittsburgh
+2022,03/17,NCAA Championships,157,W,DEC,3 - 2,Michael Petite,55596,Buffalo,Elijah Cleary,44828,Pittsburgh
+2022,03/17,NCAA Championships,157,L,DEC,6 - 5,Justin Thomas,44882,Oklahoma,Elijah Cleary,44828,Pittsburgh
+2022,03/06,ACC Championships,157,L,DEC,6 - 0,Jake Keating,50315,Virginia,Elijah Cleary,44828,Pittsburgh
+2022,03/06,ACC Championships,157,W,DEC,5 - 3,Wade Unger,63134,Duke,Elijah Cleary,44828,Pittsburgh
+2022,03/06,ACC Championships,157,L,DEC,3 - 2,Wade Unger,63134,Duke,Elijah Cleary,44828,Pittsburgh
+2022,02/18,Pittsburgh - Duke Dual,157,W,DEC,6 - 4,Wade Unger,63134,Duke,Elijah Cleary,44828,Pittsburgh
+2022,02/11,Pittsburgh - North Carolina State Dual,157,L,DEC,6 - 2,Ed Scott,64653,NC State,Elijah Cleary,44828,Pittsburgh
+2022,02/06,Columbia - Pittsburgh Dual,157,W,MD,14 - 2,Andrew Garr,57348,Columbia,Elijah Cleary,44828,Pittsburgh
+2022,02/04,Pittsburgh - North Carolina Dual,157,L,DEC,2 - 1,Austin O'Connor,49214,North Carolina,Elijah Cleary,44828,Pittsburgh
+2022,01/30,Virginia Tech - Pittsburgh Dual,157,W,SV-1,5 - 1,Connor Brady,56741,Virginia Tech,Elijah Cleary,44828,Pittsburgh
+2022,01/21,Virginia - Pittsburgh Dual,157,W,DEC,4 - 2,Jon Errico,45265,Virginia,Elijah Cleary,44828,Pittsburgh
+2022,01/14,Arizona State - Pittsburgh Dual,157,L,DEC,6 - 2,Jacori Teemer,50581,Arizona State,Elijah Cleary,44828,Pittsburgh
+2022,01/09,Michigan - Pittsburgh Dual,157,L,DEC,3 - 1,Will Lewan,50934,Michigan,Elijah Cleary,44828,Pittsburgh
+2022,01/09,Army - Pittsburgh Dual,157,W,DEC,4 - 2,Markus Hartman,50585,Army West Point,Elijah Cleary,44828,Pittsburgh
+2022,12/29,Illinois Matmen Open,157,W,DEC,9 - 8,Doug Zapf,50656,Pennsylvania,Elijah Cleary,44828,Pittsburgh
+2022,12/29,Illinois Matmen Open,157,W,MFOR,0 - 0,Kendall Coleman,50626,Purdue,Elijah Cleary,44828,Pittsburgh
+2022,12/29,Illinois Matmen Open,157,W,DEC,5 - 4,Brawley Lamer,50051,Cal Poly,Elijah Cleary,44828,Pittsburgh
+2022,12/29,Illinois Matmen Open,157,W,MD,17 - 6,Anthony Gibson,56508,Northern Illinois,Elijah Cleary,44828,Pittsburgh
+2022,12/12,Pittsburgh - Ohio State Dual,157,L,DEC,2 - 1,Jashon Hubbard,50610,Ohio State,Elijah Cleary,44828,Pittsburgh
+2022,11/22,Maryland - Pittsburgh Dual,157,W,SV-1,3 - 1,Lucas Cordio,57120,Maryland,Elijah Cleary,44828,Pittsburgh
+2022,11/21,Pittsburgh - Lehigh Dual,157,L,DEC,2 - 0,Josh Humphreys,55860,Lehigh,Elijah Cleary,44828,Pittsburgh
+2022,11/13,Pittsburgh - Edinboro Dual,157,W,FALL,2:47,Peter Pappas,49131,Edinboro,Elijah Cleary,44828,Pittsburgh
+2022,11/12,Pittsburgh - Buffalo Dual,157,W,SV-1,8 - 6,Michael Petite,55596,Buffalo,Elijah Cleary,44828,Pittsburgh
+2022,02/06,Edinboro Open,157,W,FALL,6:38,Robert Boley,72212,Gannon,Antonio Petrucelli,62351,Pittsburgh
+2022,02/06,Edinboro Open,157,W,DEC,8 - 4,Kyle Botelho,70219,San Francisco State,Antonio Petrucelli,62351,Pittsburgh
+2022,02/06,Edinboro Open,157,W,DEC,3 - 2,Skyler Crespo,63044,Michigan State,Antonio Petrucelli,62351,Pittsburgh
+2022,02/06,Edinboro Open,157,L,MD,13 - 2,Lucas Cordio,57120,Maryland,Antonio Petrucelli,62351,Pittsburgh
+2022,02/06,Edinboro Open,157,W,DEC,7 - 4,Trenton Wachter,73721,Central Michigan,Antonio Petrucelli,62351,Pittsburgh
+2022,02/06,Edinboro Open,157,L,DEC,10 - 5,Michael Petite,55596,Buffalo,Antonio Petrucelli,62351,Pittsburgh
+2022,01/29,Mat Town Open II,157,W,DEC,6 - 5,Collin McCorkle,73310,Pittsburgh,Antonio Petrucelli,62351,Pittsburgh
+2022,01/29,Mat Town Open II,157,L,DEC,3 - 1,Aurelius Dunbar,62422,Penn State,Antonio Petrucelli,62351,Pittsburgh
+2022,01/29,Mat Town Open II,157,W,MD,17 - 5,Connor Trowbridge,62818,Drexel,Antonio Petrucelli,62351,Pittsburgh
+2022,01/29,Mat Town Open II,157,W,FALL,4:30,Ty Raines,57719,Buffalo,Antonio Petrucelli,62351,Pittsburgh
+2022,01/29,Mat Town Open II,157,W,DEC,8 - 2,Antonio Amelio,71758,Bucknell,Antonio Petrucelli,62351,Pittsburgh
+2022,01/29,Mat Town Open II,157,W,MFOR,0 - 0,Benjamin Barton,44733,Lock Haven,Antonio Petrucelli,62351,Pittsburgh
+2022,01/07,David Lehman Open,157,L,FALL,6:47,Logan Sciotto,73332,Navy,Antonio Petrucelli,62351,Pittsburgh
+2022,01/07,David Lehman Open,157,L,MD,15 - 6,Trevor Tarsi,49140,Harvard,Antonio Petrucelli,62351,Pittsburgh
+2022,12/29,Illinois Matmen Open,157,L,MD,12 - 3,Garrett Model,49351,Wisconsin,Tyler Badgett,67118,Pittsburgh
+2022,12/29,Illinois Matmen Open,157,W,DEC,2 - 0,Kaleb Olejniczak,62607,Northern Iowa,Tyler Badgett,67118,Pittsburgh
+2022,12/29,Illinois Matmen Open,157,W,FALL,1:54,Matthew Dallara,51712,Campbell,Tyler Badgett,67118,Pittsburgh
+2022,12/29,Illinois Matmen Open,157,W,DEC,2 - 0,Nick Delp,62493,Bucknell,Tyler Badgett,67118,Pittsburgh
+2022,12/29,Illinois Matmen Open,157,L,FALL,5:29,Alex Carida,56789,Bloomsburg,Tyler Badgett,67118,Pittsburgh
+2022,12/11,Cleveland State Open,157,L,DEC,10 - 9,Paddy Gallagher,68724,Ohio State,Tyler Badgett,67118,Pittsburgh
+2022,12/11,Cleveland State Open,157,W,DEC,1 - 0,Garrett Thompson,73169,Ohio,Tyler Badgett,67118,Pittsburgh
+2022,12/11,Cleveland State Open,157,W,FALL,2:58,Skyler Crespo,63044,Michigan State,Tyler Badgett,67118,Pittsburgh
+2022,12/11,Cleveland State Open,157,L,DEC,5 - 3,Zack Rotkvich,73383,Indiana,Tyler Badgett,67118,Pittsburgh
+2022,12/11,Cleveland State Open,157,W,SV-1,3 - 1,Kasper McIntosh,50856,Indiana,Tyler Badgett,67118,Pittsburgh
+2022,11/07,Clarion Open,157,L,DEC,10 - 5,Caleb Dowling,62359,West Virginia,Tyler Badgett,67118,Pittsburgh
+2022,11/07,Clarion Open,157,W,FALL,3:18,Lucas Cordio,57120,Maryland,Tyler Badgett,67118,Pittsburgh
+2022,11/07,Clarion Open,157,W,DEC,7 - 2,Patrick Edmondson,73040,Lehigh,Tyler Badgett,67118,Pittsburgh
+2022,11/07,Clarion Open,157,W,DEC,2 - 1,Hunter Shaut,61754,Buffalo,Tyler Badgett,67118,Pittsburgh
+2022,11/07,Clarion Open,157,W,DEC,6 - 1,Antonio Amelio,71758,Bucknell,Tyler Badgett,67118,Pittsburgh
+2022,11/07,Clarion Open,157,L,SV-1,3 - 1,Alex Carida,56789,Bloomsburg,Tyler Badgett,67118,Pittsburgh
+2022,02/06,Edinboro Open,157,W,DEC,6 - 3,Noah Roulo,61776,VMI,Collin McCorkle,73310,Pittsburgh
+2022,02/06,Edinboro Open,157,L,DEC,9 - 2,Garrett Thompson,73169,Ohio,Collin McCorkle,73310,Pittsburgh
+2022,02/06,Edinboro Open,157,L,DEC,8 - 7,Trenton Wachter,73721,Central Michigan,Collin McCorkle,73310,Pittsburgh
+2022,01/29,Mat Town Open II,157,L,DEC,6 - 5,Antonio Petrucelli,62351,Pittsburgh,Collin McCorkle,73310,Pittsburgh
+2022,01/29,Mat Town Open II,157,W,MD,15 - 4,Hunter Horton,70996,Kutztown,Collin McCorkle,73310,Pittsburgh
+2022,01/29,Mat Town Open II,157,W,DEC,8 - 3,Kevin Schork,72105,Maryland,Collin McCorkle,73310,Pittsburgh
+2022,01/29,Mat Town Open II,157,L,DEC,5 - 3,Douglas Terry,70741,Cleveland State,Collin McCorkle,73310,Pittsburgh
+2022,12/11,Cleveland State Open,157,L,DEC,9 - 2,Paddy Gallagher,68724,Ohio State,Collin McCorkle,73310,Pittsburgh
+2022,12/11,Cleveland State Open,157,L,DEC,2 - 0,Aiden Vandenbush,73000,Northwestern,Collin McCorkle,73310,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,157,W,FALL,3:31,Dylan Kasperzyk,73542,American International College,Collin McCorkle,73310,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,157,W,MD,8 - 0,Kevin Schork,72105,Maryland,Collin McCorkle,73310,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,157,W,SV-1,3 - 1,Kaeden Berger,70740,Clarion,Collin McCorkle,73310,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,157,W,DEC,5 - 3,Logan Sanom,62487,Bucknell,Collin McCorkle,73310,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,157,L,FALL,2:05,Nathan Lukez,69377,Army West Point,Collin McCorkle,73310,Pittsburgh
+2022,11/07,Clarion Open,157,L,MD,10 - 2,Caleb Dowling,62359,West Virginia,Collin McCorkle,73310,Pittsburgh
+2022,11/07,Clarion Open,157,W,MD,10 - 2,Kevin Schork,72105,Maryland,Collin McCorkle,73310,Pittsburgh
+2022,11/07,Clarion Open,157,L,DEC,3 - 2,Hunter Shaut,61754,Buffalo,Collin McCorkle,73310,Pittsburgh
+2022,02/06,Edinboro Open,157,L,DEC,4 - 1,Kyle Botelho,70219,San Francisco State,Cooper Warshel,73309,Pittsburgh
+2022,02/06,Edinboro Open,157,W,DEC,4 - 2,Cole Hansen,69871,Michigan State,Cooper Warshel,73309,Pittsburgh
+2022,02/06,Edinboro Open,157,L,FALL,3:59,Michael Petite,55596,Buffalo,Cooper Warshel,73309,Pittsburgh
+2022,01/16,Purple Raider Open,157,L,MFOR,0 - 0,Tristan Pugh,62842,Glenville State University,Cooper Warshel,73309,Pittsburgh
+2022,01/16,Purple Raider Open,157,W,MD,13 - 1,Brock Holek,73021,Michigan State,Cooper Warshel,73309,Pittsburgh
+2022,01/16,Purple Raider Open,157,L,TF5,23 - 4 4:49,Paddy Gallagher,68724,Ohio State,Cooper Warshel,73309,Pittsburgh
+2022,01/16,Purple Raider Open,157,W,DEC,7 - 5,Nick Carbone,63205,Ashland,Cooper Warshel,73309,Pittsburgh
+2022,01/16,Purple Raider Open,157,W,DEC,11 - 8,Nick Carbone,63205,Ashland,Cooper Warshel,73309,Pittsburgh
+2022,01/16,Purple Raider Open,157,L,MFOR,0 - 0,Isaac Wilcox,60592,Ohio State,Cooper Warshel,73309,Pittsburgh
+2022,03/17,NCAA Championships,165,L,MD,8 - 0,Dean Hamiti,62894,Wisconsin,Jake Wentzel,45151,Pittsburgh
+2022,03/17,NCAA Championships,165,W,MD,13 - 2,Anthony Valencia,39500,Arizona State,Jake Wentzel,45151,Pittsburgh
+2022,03/17,NCAA Championships,165,W,DEC,2 - 0,Brevin Cassella,67293,Binghamton,Jake Wentzel,45151,Pittsburgh
+2022,03/17,NCAA Championships,165,L,DEC,7 - 1,Carson Kharchla,57703,Ohio State,Jake Wentzel,45151,Pittsburgh
+2022,03/17,NCAA Championships,165,W,FALL,2:56,Ashton Eyler,58037,Lock Haven,Jake Wentzel,45151,Pittsburgh
+2022,03/06,ACC Championships,165,W,DEC,3 - 0,Clayton Ulrey,62889,Virginia Tech,Jake Wentzel,45151,Pittsburgh
+2022,03/06,ACC Championships,165,W,DEC,7 - 0,Justin McCoy,50946,Virginia,Jake Wentzel,45151,Pittsburgh
+2022,02/18,Pittsburgh - Duke Dual,165,W,MD,9 - 1,Gabe Dinette,51191,Duke,Jake Wentzel,45151,Pittsburgh
+2022,02/11,Pittsburgh - North Carolina State Dual,165,W,TB-1,4 - 3,Thomas Bullard,44611,NC State,Jake Wentzel,45151,Pittsburgh
+2022,02/06,Columbia - Pittsburgh Dual,165,L,TB-1,4 - 3,Joshua Ogunsanya,66970,Columbia,Jake Wentzel,45151,Pittsburgh
+2022,02/04,Pittsburgh - North Carolina Dual,165,W,DEC,8 - 1,Michael Goldfeder,57128,North Carolina,Jake Wentzel,45151,Pittsburgh
+2022,01/30,Virginia Tech - Pittsburgh Dual,165,W,DEC,5 - 1,Clayton Ulrey,62889,Virginia Tech,Jake Wentzel,45151,Pittsburgh
+2022,01/21,Virginia - Pittsburgh Dual,165,W,MD,10 - 0,Jake Keating,50315,Virginia,Jake Wentzel,45151,Pittsburgh
+2022,01/14,Arizona State - Pittsburgh Dual,165,L,DEC,6 - 3,Anthony Valencia,39500,Arizona State,Jake Wentzel,45151,Pittsburgh
+2022,01/09,Army - Pittsburgh Dual,165,W,DEC,1 - 0,Dalton Harkins,65872,Army West Point,Jake Wentzel,45151,Pittsburgh
+2022,12/29,Illinois Matmen Open,165,W,DEC,3 - 0,Izzak Olejnik,56509,Northern Illinois,Jake Wentzel,45151,Pittsburgh
+2022,12/29,Illinois Matmen Open,165,W,DEC,4 - 0,Lucas Revano,56734,Pennsylvania,Jake Wentzel,45151,Pittsburgh
+2022,12/29,Illinois Matmen Open,165,W,MD,8 - 0,Jake Marsh,51129,Princeton,Jake Wentzel,45151,Pittsburgh
+2022,12/29,Illinois Matmen Open,165,W,DEC,5 - 2,Holden Heller,50940,Hofstra,Jake Wentzel,45151,Pittsburgh
+2022,12/29,Illinois Matmen Open,165,L,DEC,1 - 0,Phillip Conigliaro,51201,Harvard,Jake Wentzel,45151,Pittsburgh
+2022,12/12,Pittsburgh - Ohio State Dual,165,L,DEC,4 - 3,Carson Kharchla,57703,Ohio State,Jake Wentzel,45151,Pittsburgh
+2022,11/22,Maryland - Pittsburgh Dual,165,W,DEC,2 - 0,John Martin Best,63025,Maryland,Jake Wentzel,45151,Pittsburgh
+2022,11/21,Pittsburgh - Lehigh Dual,165,L,DEC,4 - 3,Brian Meyer,50941,Lehigh,Jake Wentzel,45151,Pittsburgh
+2022,11/13,Pittsburgh - Edinboro Dual,165,W,DEC,3 - 1,Dylan Kohn,71848,Edinboro,Jake Wentzel,45151,Pittsburgh
+2022,11/12,Pittsburgh - Buffalo Dual,165,W,DEC,3 - 0,Noah Grover,51227,Buffalo,Jake Wentzel,45151,Pittsburgh
+2022,01/29,Mat Town Open II,165,L,MD,20 - 7,Alex Facundo,66706,Penn State,Tye Weathersby,69570,Pittsburgh
+2022,01/29,Mat Town Open II,165,W,FALL,1:00,Mike Ponenti,73335,Navy,Tye Weathersby,69570,Pittsburgh
+2022,01/29,Mat Town Open II,165,L,DEC,9 - 6,Cody Walsh,71125,Drexel,Tye Weathersby,69570,Pittsburgh
+2022,01/29,Mat Town Open II,165,W,DEC,9 - 8,Eli Brinsky,67110,Clarion,Tye Weathersby,69570,Pittsburgh
+2022,01/29,Mat Town Open II,165,W,MD,13 - 4,Marcus Petite,67407,Buffalo,Tye Weathersby,69570,Pittsburgh
+2022,01/29,Mat Town Open II,165,W,DEC,7 - 4,Sammy Hepler,49169,Lock Haven,Tye Weathersby,69570,Pittsburgh
+2022,01/07,David Lehman Open,165,L,FALL,4:27,Sammy Starr,73336,Navy,Tye Weathersby,69570,Pittsburgh
+2022,01/07,David Lehman Open,165,W,DEC,10 - 5,Matthew Kidwell,70027,Bucknell,Tye Weathersby,69570,Pittsburgh
+2022,01/07,David Lehman Open,165,L,MD,12 - 2,Harrison Trahan,71760,Brown,Tye Weathersby,69570,Pittsburgh
+2022,12/11,Cleveland State Open,165,L,DEC,6 - 3,Guy DeLeonardis,67139,Millersville,Tye Weathersby,69570,Pittsburgh
+2022,12/11,Cleveland State Open,165,W,FALL,4:22,Sean Billups,63011,Kent State,Tye Weathersby,69570,Pittsburgh
+2022,12/11,Cleveland State Open,165,W,TF5,15 - 0 7:00,Ethan Ferro,71838,Edinboro,Tye Weathersby,69570,Pittsburgh
+2022,12/11,Cleveland State Open,165,W,DEC,9 - 4,Aaron McDaniel,69413,Edinboro,Tye Weathersby,69570,Pittsburgh
+2022,12/11,Cleveland State Open,165,L,SV-1,10 - 4,Marcus Petite,67407,Buffalo,Tye Weathersby,69570,Pittsburgh
+2022,11/28,Mat Town Open I,165,L,DEC,8 - 6,Ryan Weyandt,71826,Unattached,Tye Weathersby,69570,Pittsburgh
+2022,11/28,Mat Town Open I,165,L,DEC,7 - 4,Jack Janda,71665,Drexel,Tye Weathersby,69570,Pittsburgh
+2022,11/28,Mat Town Open I,165,W,MD,10 - 0,Gavin Hale,56791,Bloomsburg,Tye Weathersby,69570,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,165,W,DEC,3 - 1,Andrew Vogelbacher,72633,Millersville,Tye Weathersby,69570,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,165,W,DEC,11 - 5,Brandon Connor,57181,Millersville,Tye Weathersby,69570,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,165,L,DEC,10 - 4,Andrew Clark,66883,Rutgers,Tye Weathersby,69570,Pittsburgh
+2022,11/14,Jonathan Kaloust Bearcat Open,165,L,DEC,8 - 3,Tate Nichter,72623,Drexel,Tye Weathersby,69570,Pittsburgh
+2022,11/14,Jonathan Kaloust Bearcat Open,165,L,DEC,10 - 5,Angel Garcia,63066,Rider,Tye Weathersby,69570,Pittsburgh
+2022,11/14,Jonathan Kaloust Bearcat Open,165,W,DEC,10 - 8,Breon Phifer,72682,American,Tye Weathersby,69570,Pittsburgh
+2022,11/07,Clarion Open,165,W,TF5,16 - 0 2:53,Cole Haight,74528,Slippery Rock,Tye Weathersby,69570,Pittsburgh
+2022,11/07,Clarion Open,165,L,DEC,6 - 3,Patrick Daum,62591,West Virginia,Tye Weathersby,69570,Pittsburgh
+2022,11/07,Clarion Open,165,L,DEC,3 - 2,Eli Brinsky,67110,Clarion,Tye Weathersby,69570,Pittsburgh
+2022,03/06,ACC Championships,174,L,MD,16 - 4,Mekhi Lewis,49338,Virginia Tech,Hunter Kernan,57929,Pittsburgh
+2022,03/06,ACC Championships,174,L,FALL,2:47,Matt Finesilver,47770,Duke,Hunter Kernan,57929,Pittsburgh
+2022,02/18,Pittsburgh - Duke Dual,174,L,TF5,15 - 0 7:00,Matt Finesilver,47770,Duke,Hunter Kernan,57929,Pittsburgh
+2022,02/11,Pittsburgh - North Carolina State Dual,174,L,TF5,18 - 0 2:53,Hayden Hidlay,44595,NC State,Hunter Kernan,57929,Pittsburgh
+2022,02/06,Columbia - Pittsburgh Dual,174,W,DEC,2 - 0,Nick Fine,71734,Columbia,Hunter Kernan,57929,Pittsburgh
+2022,02/04,Pittsburgh - North Carolina Dual,174,L,DEC,4 - 2,Clay Lautt,49212,North Carolina,Hunter Kernan,57929,Pittsburgh
+2022,01/21,Pitt Virginia ECM,174,W,MD,10 - 2,Victor Marcelli,50587,Virginia,Hunter Kernan,57929,Pittsburgh
+2022,01/09,Michigan - Pittsburgh Dual,174,L,FALL,2:20,Logan Massa,39517,Michigan,Hunter Kernan,57929,Pittsburgh
+2022,01/09,Army - Pittsburgh Dual,174,L,FALL,4:38,Ben Pasiuk,57286,Army West Point,Hunter Kernan,57929,Pittsburgh
+2022,12/29,Illinois Matmen Open,174,L,DEC,6 - 1,Jackson Turley,57636,Rutgers,Hunter Kernan,57929,Pittsburgh
+2022,12/29,Illinois Matmen Open,174,L,DEC,5 - 1,Reece Heller,61961,Hofstra,Hunter Kernan,57929,Pittsburgh
+2022,12/12,Pittsburgh - Ohio State Dual,174,L,TF5,26 - 8 5:00,Ethan Smith,50025,Ohio State,Hunter Kernan,57929,Pittsburgh
+2022,11/22,Maryland - Pittsburgh Dual,174,L,MD,11 - 2,Dominic Solis,66460,Maryland,Hunter Kernan,57929,Pittsburgh
+2022,11/21,Pittsburgh - Lehigh Dual,174,L,DEC,5 - 4,Jake Logan,57185,Lehigh,Hunter Kernan,57929,Pittsburgh
+2022,11/13,Pittsburgh - Edinboro Dual,174,W,TF5,22 - 7 6:42,Joey Arnold,72215,Edinboro,Hunter Kernan,57929,Pittsburgh
+2022,11/12,Pittsburgh - Buffalo Dual,174,W,DEC,7 - 5,Guiseppe Hoose,56371,Buffalo,Hunter Kernan,57929,Pittsburgh
+2022,11/07,Clarion Open,174,W,DEC,3 - 2,Luca Augustine,68730,Pittsburgh,Hunter Kernan,57929,Pittsburgh
+2022,11/07,Clarion Open,174,W,DEC,9 - 6,John Worthing,61847,Clarion,Hunter Kernan,57929,Pittsburgh
+2022,11/07,Clarion Open,174,W,MD,16 - 5,Shane Finney,57371,Navy,Hunter Kernan,57929,Pittsburgh
+2022,11/07,Clarion Open,174,W,FALL,2:50,Jake Lanning,49069,Buffalo,Hunter Kernan,57929,Pittsburgh
+2022,11/07,Clarion Open,174,W,FALL,6:57,Reece Heller,61961,Hofstra,Hunter Kernan,57929,Pittsburgh
+2022,02/06,Edinboro Open,174,W,DEC,1 - 0,Cole Casilio,72201,Gannon,Luca Augustine,68730,Pittsburgh
+2022,02/06,Edinboro Open,174,W,DEC,3 - 2,Christian Hansen,71809,Spartan Combat RTC,Luca Augustine,68730,Pittsburgh
+2022,02/06,Edinboro Open,174,W,DEC,8 - 2,Lucas Daly,71943,Michigan State,Luca Augustine,68730,Pittsburgh
+2022,02/06,Edinboro Open,174,L,DEC,7 - 0,Max Maylor,56310,Michigan,Luca Augustine,68730,Pittsburgh
+2022,02/06,Edinboro Open,174,W,MFOR,0 - 0,Connor Herceg,63054,Lehigh,Luca Augustine,68730,Pittsburgh
+2022,12/11,Cleveland State Open,174,L,MFOR,0 - 0,Dennis Robin,69638,West Virginia,Luca Augustine,68730,Pittsburgh
+2022,12/11,Cleveland State Open,174,L,MD,13 - 3,Logan Massa,39517,Michigan,Luca Augustine,68730,Pittsburgh
+2022,12/11,Cleveland State Open,174,W,DEC,3 - 2,Anthony Rice,61966,Cleveland State,Luca Augustine,68730,Pittsburgh
+2022,12/11,Cleveland State Open,174,W,DEC,5 - 2,Leonardo Galasso,73722,Central Michigan,Luca Augustine,68730,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,174,W,MD,9 - 0,Tucker Nadeau,56465,West Virginia,Luca Augustine,68730,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,174,W,TB-2,2 - 1,Adrien Cramer,68713,Maryland,Luca Augustine,68730,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,174,W,SV-1,3 - 1,Justin Phillips,57093,Virginia,Luca Augustine,68730,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,174,W,DEC,4 - 2,Malachi Duvall,72189,George Mason,Luca Augustine,68730,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,174,L,SV-1,3 - 1,Ryan Ferro,50086,LIU,Luca Augustine,68730,Pittsburgh
+2022,11/07,Clarion Open,174,L,DEC,3 - 2,Hunter Kernan,57929,Pittsburgh,Luca Augustine,68730,Pittsburgh
+2022,11/07,Clarion Open,174,L,SV-1,4 - 3,Scott Joll,62424,West Virginia,Luca Augustine,68730,Pittsburgh
+2022,11/07,Clarion Open,174,W,DEC,3 - 2,Tyler Stoltzfus,65398,Lock Haven,Luca Augustine,68730,Pittsburgh
+2022,11/07,Clarion Open,174,W,DEC,10 - 9,Jaden Fisher,56900,Bucknell,Luca Augustine,68730,Pittsburgh
+2022,02/04,North Carolina Pitt ECM,174,L,MD,13 - 2,Clay Lautt,49212,North Carolina,James Lledo,69571,Pittsburgh
+2022,01/30,Virginia Tech - Pittsburgh Dual,174,L,TF5,21 - 5 7:00,Mekhi Lewis,49338,Virginia Tech,James Lledo,69571,Pittsburgh
+2022,01/21,Virginia - Pittsburgh Dual,174,L,MD,14 - 5,Justin Phillips,57093,Virginia,James Lledo,69571,Pittsburgh
+2022,01/16,Purple Raider Open,174,W,FALL,0:14,Josh Orlett,78101,Unattached,James Lledo,69571,Pittsburgh
+2022,01/16,Purple Raider Open,174,W,FALL,0:28,Parker Moore,75971,Notre Dame,James Lledo,69571,Pittsburgh
+2022,01/16,Purple Raider Open,174,L,DEC,14 - 12,Bryer Hall,71787,Ohio State,James Lledo,69571,Pittsburgh
+2022,01/16,Purple Raider Open,174,W,MD,16 - 3,Bryson Alsteen,63217,Buffalo,James Lledo,69571,Pittsburgh
+2022,01/16,Purple Raider Open,174,L,MFOR,0 - 0,Hunter DeLong,50972,Glenville State University,James Lledo,69571,Pittsburgh
+2022,01/16,Purple Raider Open,174,L,MFOR,0 - 0,Anthony Cicciarelli,50435,West Virginia,James Lledo,69571,Pittsburgh
+2022,01/14,Arizona State - Pittsburgh Dual,174,W,FALL,2:33,Zane Coleman,56907,Arizona State,James Lledo,69571,Pittsburgh
+2022,12/11,Cleveland State Open,184,L,MFOR,0 - 0,Cole Hivnor,72118,Pittsburgh,James Lledo,69571,Pittsburgh
+2022,12/11,Cleveland State Open,184,W,DEC,10 - 9,Jake Evans,70912,Indiana,James Lledo,69571,Pittsburgh
+2022,12/11,Cleveland State Open,184,L,MD,14 - 4,Ben Cushman,57359,Central Michigan,James Lledo,69571,Pittsburgh
+2022,11/28,Mat Town Open I,184,L,MD,14 - 5,Michael Battista,51672,Virginia,James Lledo,69571,Pittsburgh
+2022,11/28,Mat Town Open I,184,W,MD,14 - 0,Ethan Stern,61836,Navy,James Lledo,69571,Pittsburgh
+2022,11/28,Mat Town Open I,184,W,FALL,0:56,Wyatt Miller,71718,Appalachian State,James Lledo,69571,Pittsburgh
+2022,11/22,Maryland - Pittsburgh Dual,184,L,DEC,4 - 0,Kyle Cochran,49174,Maryland,James Lledo,69571,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,184,W,FALL,1:35,James Holder,70998,Kutztown,James Lledo,69571,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,184,W,FALL,0:51,Markys Lissaint,73547,American International College,James Lledo,69571,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,184,W,FALL,6:13,Harrison Shapiro,67284,Franklin & Marshall,James Lledo,69571,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,184,W,DEC,6 - 5,Sahm AbdulRazzaq,58214,Army West Point,James Lledo,69571,Pittsburgh
+2022,11/13,Pittsburgh - Edinboro Dual,184,L,DEC,6 - 3,Ethan Ducca,62334,Edinboro,James Lledo,69571,Pittsburgh
+2022,11/12,Pittsburgh - Buffalo Dual,184,L,SV-3,3 - 2,Peter Acciardi,51069,Buffalo,James Lledo,69571,Pittsburgh
+2022,11/07,Clarion Open,184,L,MD,14 - 6,Edmond Ruth,51277,Unattached,James Lledo,69571,Pittsburgh
+2022,11/07,Clarion Open,184,W,FALL,0:52,Chase Mielnik,67431,Maryland,James Lledo,69571,Pittsburgh
+2022,11/07,Clarion Open,184,W,DEC,4 - 3,Kyle Cochran,49174,Maryland,James Lledo,69571,Pittsburgh
+2022,11/07,Clarion Open,184,W,FALL,1:08,Colin Fegley,63035,Lock Haven,James Lledo,69571,Pittsburgh
+2022,11/07,Clarion Open,184,W,DEC,9 - 7,David Key,56717,Navy,James Lledo,69571,Pittsburgh
+2022,01/29,Mat Town Open II,174,L,DEC,3 - 1,Hampton Boyd,50008,Navy,Kolby Flank,67153,Pittsburgh
+2022,01/29,Mat Town Open II,174,L,TF5,16 - 0 7:00,Tyler Stoltzfus,65398,Lock Haven,Kolby Flank,67153,Pittsburgh
+2022,11/28,Mat Town Open I,174,L,DEC,3 - 2,Gary Eakin,60679,Navy,Kolby Flank,67153,Pittsburgh
+2022,11/28,Mat Town Open I,174,L,MD,12 - 1,Sam Barnes,63005,Bucknell,Kolby Flank,67153,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,174,L,DEC,6 - 3,Ethan Baney,63151,Kutztown,Kolby Flank,67153,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,174,W,FALL,0:56,Theran Vanase,73544,American International College,Kolby Flank,67153,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,174,L,SV-1,3 - 1,Bryson Alsteen,63217,Buffalo,Kolby Flank,67153,Pittsburgh
+2022,03/17,NCAA Championships,184,L,MD,17 - 3,Brit Wilson,49235,Northern Illinois,Gregg Harvey,45148,Pittsburgh
+2022,03/17,NCAA Championships,184,L,DEC,1 - 0,Bernie Truax,51133,Cal Poly,Gregg Harvey,45148,Pittsburgh
+2022,03/06,ACC Championships,184,W,DEC,7 - 2,Michael Battista,51672,Virginia,Gregg Harvey,45148,Pittsburgh
+2022,03/06,ACC Championships,184,L,FALL,1:42,Hunter Bolen,49335,Virginia Tech,Gregg Harvey,45148,Pittsburgh
+2022,03/06,ACC Championships,184,L,MD,19 - 5,Trent Hidlay,51224,NC State,Gregg Harvey,45148,Pittsburgh
+2022,03/06,ACC Championships,184,W,DEC,5 - 3,Vincent Baker,56930,Duke,Gregg Harvey,45148,Pittsburgh
+2022,02/18,Duke Pittsburgh ECM,184,W,MD,14 - 5,Vincent Baker,56930,Duke,Gregg Harvey,45148,Pittsburgh
+2022,02/18,Pittsburgh - Duke Dual,184,W,MD,10 - 2,Vincent Baker,56930,Duke,Gregg Harvey,45148,Pittsburgh
+2022,02/11,Pittsburgh - North Carolina State Dual,184,L,TF5,22 - 7 6:35,Trent Hidlay,51224,NC State,Gregg Harvey,45148,Pittsburgh
+2022,02/06,Columbia - Pittsburgh Dual,184,L,DEC,3 - 1,Brian Bonino,51034,Columbia,Gregg Harvey,45148,Pittsburgh
+2022,02/04,Pittsburgh - North Carolina Dual,184,L,MD,17 - 8,Gavin Kane,62429,North Carolina,Gregg Harvey,45148,Pittsburgh
+2022,01/30,Virginia Tech - Pittsburgh Dual,184,L,FALL,1:35,Hunter Bolen,49335,Virginia Tech,Gregg Harvey,45148,Pittsburgh
+2022,01/21,Virginia - Pittsburgh Dual,184,L,DEC,9 - 5,Michael Battista,51672,Virginia,Gregg Harvey,45148,Pittsburgh
+2022,01/14,Arizona State - Pittsburgh Dual,184,W,DQ,0 - 0,Josh Nummer,62766,Arizona State,Gregg Harvey,45148,Pittsburgh
+2022,01/09,Army - Pittsburgh Dual,184,W,DEC,6 - 4,Sahm AbdulRazzaq,58214,Army West Point,Gregg Harvey,45148,Pittsburgh
+2022,12/29,Illinois Matmen Open,184,W,DEC,8 - 3,Neil Antrassian,56202,Pennsylvania,Gregg Harvey,45148,Pittsburgh
+2022,12/29,Illinois Matmen Open,184,L,DEC,10 - 4,Mark Hall,77963,Unattached,Gregg Harvey,45148,Pittsburgh
+2022,12/29,Illinois Matmen Open,184,L,FALL,6:27,Zach Braunagel,50925,Illinois,Gregg Harvey,45148,Pittsburgh
+2022,12/29,Illinois Matmen Open,184,W,DEC,10 - 4,Leonardo Tarantino,51222,Harvard,Gregg Harvey,45148,Pittsburgh
+2022,12/29,Illinois Matmen Open,184,W,DEC,7 - 0,Logan Deacetis,71753,Bucknell,Gregg Harvey,45148,Pittsburgh
+2022,12/12,Pittsburgh - Ohio State Dual,184,L,MD,10 - 2,Kaleb Romero,49252,Ohio State,Gregg Harvey,45148,Pittsburgh
+2022,11/21,Pittsburgh - Lehigh Dual,184,W,DEC,5 - 2,AJ Burkhart,50632,Lehigh,Gregg Harvey,45148,Pittsburgh
+2022,02/06,Edinboro Open,184,W,MD,14 - 1,Kyle Myers,62590,West Virginia,Nick Meglino,62803,Pittsburgh
+2022,02/06,Edinboro Open,184,L,FALL,0:50,Gavin Bell,65314,Ohio State,Nick Meglino,62803,Pittsburgh
+2022,02/06,Edinboro Open,184,L,MD,15 - 4,Cole Rees,71005,Campbell,Nick Meglino,62803,Pittsburgh
+2022,02/04,North Carolina Pitt ECM,184,L,DEC,5 - 4,Hunter Queen,49219,North Carolina,Nick Meglino,62803,Pittsburgh
+2022,01/09,Michigan - Pittsburgh Dual,184,L,FALL,0:47,Myles Amine,39586,Michigan,Nick Meglino,62803,Pittsburgh
+2022,12/11,Cleveland State Open,184,W,FALL,1:18,Mitch Hutmacher,67388,Purdue,Nick Meglino,62803,Pittsburgh
+2022,12/11,Cleveland State Open,184,L,FALL,1:13,Donnell Washington,57738,Indiana,Nick Meglino,62803,Pittsburgh
+2022,12/11,Cleveland State Open,184,W,DEC,6 - 1,Gilbert Marquez,72226,Buffalo,Nick Meglino,62803,Pittsburgh
+2022,12/11,Cleveland State Open,184,L,MD,13 - 3,Ben Cushman,57359,Central Michigan,Nick Meglino,62803,Pittsburgh
+2022,11/07,Clarion Open,184,L,DEC,3 - 1,Anthony Carman,62423,West Virginia,Nick Meglino,62803,Pittsburgh
+2022,11/07,Clarion Open,184,L,DEC,5 - 1,Max Wohlabaugh,49096,Clarion,Nick Meglino,62803,Pittsburgh
+2022,02/13,John Carroll Open,184,L,INJ,3:53,Graham Carson,78388,Ohio State Wrestling Club,Cole Hivnor,72118,Pittsburgh
+2022,02/13,John Carroll Open,184,W,MD,10 - 1,Nick McCarthy,76315,Notre Dame,Cole Hivnor,72118,Pittsburgh
+2022,02/13,John Carroll Open,184,W,FALL,2:41,Sean McElhinny,71069,John Carroll,Cole Hivnor,72118,Pittsburgh
+2022,02/06,Edinboro Open,184,L,MD,8 - 0,Chase Mielnik,67431,Maryland,Cole Hivnor,72118,Pittsburgh
+2022,02/06,Edinboro Open,184,L,DEC,3 - 0,Jack Wilt,73042,Lehigh,Cole Hivnor,72118,Pittsburgh
+2022,12/11,Cleveland State Open,184,W,MFOR,0 - 0,James Lledo,69571,Pittsburgh,Cole Hivnor,72118,Pittsburgh
+2022,12/11,Cleveland State Open,184,L,FALL,0:39,Donnell Washington,57738,Indiana,Cole Hivnor,72118,Pittsburgh
+2022,12/11,Cleveland State Open,184,W,DEC,9 - 4,Joey Lyons,72596,Cleveland State,Cole Hivnor,72118,Pittsburgh
+2022,12/11,Cleveland State Open,184,L,DEC,3 - 2,Deandre Nassar,62202,Cleveland State,Cole Hivnor,72118,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,184,W,FALL,2:58,James Holder,70998,Kutztown,Cole Hivnor,72118,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,184,L,FALL,4:03,Chase Mielnik,67431,Maryland,Cole Hivnor,72118,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,184,W,FALL,2:46,Nathaniel Fossett,67020,Kutztown,Cole Hivnor,72118,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,184,L,DEC,6 - 1,Gavin Claro,73410,LIU,Cole Hivnor,72118,Pittsburgh
+2022,11/07,Clarion Open,184,L,DEC,6 - 1,Jack Wilt,73042,Lehigh,Cole Hivnor,72118,Pittsburgh
+2022,11/07,Clarion Open,184,W,DEC,3 - 0,Gilbert Marquez,72226,Buffalo,Cole Hivnor,72118,Pittsburgh
+2022,11/07,Clarion Open,184,L,FALL,2:05,Logan Deacetis,71753,Bucknell,Cole Hivnor,72118,Pittsburgh
+2022,03/17,NCAA Championships,197,L,DEC,6 - 1,Rocky Elam,62027,Missouri,Nino Bonaccorsi,49285,Pittsburgh
+2022,03/17,NCAA Championships,197,W,DEC,3 - 1,Patrick Brucki,49296,Michigan,Nino Bonaccorsi,49285,Pittsburgh
+2022,03/17,NCAA Championships,197,W,DEC,3 - 2,Owen Pentz,50250,North Dakota State,Nino Bonaccorsi,49285,Pittsburgh
+2022,03/17,NCAA Championships,197,L,SV-1,6 - 4,Gavin Hoffman,50609,Ohio State,Nino Bonaccorsi,49285,Pittsburgh
+2022,03/17,NCAA Championships,197,W,MD,9 - 0,Andrew Davison,49178,Northwestern,Nino Bonaccorsi,49285,Pittsburgh
+2022,03/06,ACC Championships,197,W,DEC,5 - 2,Jay Aiello,44667,Virginia,Nino Bonaccorsi,49285,Pittsburgh
+2022,03/06,ACC Championships,197,W,DEC,5 - 2,Isaac Trumble,67131,NC State,Nino Bonaccorsi,49285,Pittsburgh
+2022,02/18,Pittsburgh - Duke Dual,197,W,MD,11 - 2,Kaden Russell,49124,Duke,Nino Bonaccorsi,49285,Pittsburgh
+2022,02/11,Pittsburgh - North Carolina State Dual,197,L,DEC,2 - 0,Isaac Trumble,67131,NC State,Nino Bonaccorsi,49285,Pittsburgh
+2022,02/06,Columbia - Pittsburgh Dual,197,W,TF5,18 - 3 7:00,Joe Franzese,57273,Columbia,Nino Bonaccorsi,49285,Pittsburgh
+2022,02/04,Pittsburgh - North Carolina Dual,197,W,DEC,7 - 1,Max Shaw,61959,North Carolina,Nino Bonaccorsi,49285,Pittsburgh
+2022,01/30,Virginia Tech - Pittsburgh Dual,197,W,DEC,6 - 1,Dakota Howard,51202,Virginia Tech,Nino Bonaccorsi,49285,Pittsburgh
+2022,01/21,Virginia - Pittsburgh Dual,197,W,DEC,9 - 4,Jay Aiello,44667,Virginia,Nino Bonaccorsi,49285,Pittsburgh
+2022,01/14,Arizona State - Pittsburgh Dual,197,W,FALL,2:24,Jake Ortiz,73155,Arizona State,Nino Bonaccorsi,49285,Pittsburgh
+2022,01/09,Michigan - Pittsburgh Dual,197,L,DEC,6 - 3,Patrick Brucki,49296,Michigan,Nino Bonaccorsi,49285,Pittsburgh
+2022,01/09,Army - Pittsburgh Dual,197,W,DEC,8 - 4,Jack Brown,51262,Army West Point,Nino Bonaccorsi,49285,Pittsburgh
+2022,12/29,Illinois Matmen Open,197,L,DEC,3 - 2,Greg Bulsak,44655,Rutgers,Nino Bonaccorsi,49285,Pittsburgh
+2022,12/29,Illinois Matmen Open,197,W,MD,10 - 2,Ryan Reyes,57638,Oregon State,Nino Bonaccorsi,49285,Pittsburgh
+2022,12/29,Illinois Matmen Open,197,W,TF5,16 - 1 3:46,Nick Marcenelle,67358,Harvard,Nino Bonaccorsi,49285,Pittsburgh
+2022,12/29,Illinois Matmen Open,197,W,MD,11 - 3,Levi Hopkins,62508,Campbell,Nino Bonaccorsi,49285,Pittsburgh
+2022,12/12,Pittsburgh - Ohio State Dual,197,W,DEC,10 - 4,Gavin Hoffman,50609,Ohio State,Nino Bonaccorsi,49285,Pittsburgh
+2022,11/22,Maryland - Pittsburgh Dual,197,W,DEC,10 - 3,Jaron Smith,41353,Maryland,Nino Bonaccorsi,49285,Pittsburgh
+2022,11/21,Pittsburgh - Lehigh Dual,197,W,DEC,10 - 4,JT Davis,65763,Lehigh,Nino Bonaccorsi,49285,Pittsburgh
+2022,01/29,Mat Town Open II,197,W,MD,12 - 3,Nathan Wickersham,73381,West Virginia,Ethan Finch,72117,Pittsburgh
+2022,01/29,Mat Town Open II,197,L,FALL,3:57,Jaxon Smith,68714,Maryland,Ethan Finch,72117,Pittsburgh
+2022,01/29,Mat Town Open II,197,L,DEC,7 - 0,JT Davis,65763,Lehigh,Ethan Finch,72117,Pittsburgh
+2022,01/29,Mat Town Open II,197,W,FALL,1:30,Jack Kilner,65375,Edinboro,Ethan Finch,72117,Pittsburgh
+2022,12/11,Cleveland State Open,197,W,FALL,1:15,Jacob Lee,72196,Michigan State,Ethan Finch,72117,Pittsburgh
+2022,12/11,Cleveland State Open,197,L,SV-1,8 - 6,Bobby Striggow,51240,Michigan,Ethan Finch,72117,Pittsburgh
+2022,12/11,Cleveland State Open,197,L,DEC,3 - 0,Nick Lodato,72606,Edinboro,Ethan Finch,72117,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,197,W,TF5,18 - 0 3:22,Ian Gaburo,67016,Kutztown,Ethan Finch,72117,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,197,W,DEC,7 - 5,Brett Wittmann,66633,Clarion,Ethan Finch,72117,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,197,L,FALL,6:31,Will Feldkamp,51599,Clarion,Ethan Finch,72117,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,197,L,MD,13 - 1,Azeem Bell,67120,Rider,Ethan Finch,72117,Pittsburgh
+2022,11/20,Shorty Hitchcock Open,197,W,FALL,0:59,Karl Bouyer,67184,LIU,Ethan Finch,72117,Pittsburgh
+2022,11/07,Clarion Open,197,L,FALL,3:47,Lucas Cochran,71705,Penn State,Ethan Finch,72117,Pittsburgh
+2022,11/07,Clarion Open,197,L,FALL,2:52,Trey Rogers,51099,Hofstra,Ethan Finch,72117,Pittsburgh
+2022,01/07,David Lehman Open,197,L,MFOR,0 - 0,Colden Dorfman,73056,Virginia,Geoff Magin,62874,Pittsburgh
+2022,01/07,David Lehman Open,197,W,DEC,7 - 3,Channing Connors,63516,Virginia,Geoff Magin,62874,Pittsburgh
+2022,01/07,David Lehman Open,197,L,INJ,0:46,Max Shaw,61959,North Carolina,Geoff Magin,62874,Pittsburgh
+2022,01/07,David Lehman Open,197,W,DEC,5 - 3,Bobby Striggow,51240,Michigan,Geoff Magin,62874,Pittsburgh
+2022,11/28,Mat Town Open I,197,L,DEC,5 - 2,Kolby Franklin,73803,High School,Geoff Magin,62874,Pittsburgh
+2022,11/28,Mat Town Open I,197,W,DEC,10 - 5,Logan Flynn,67657,Bloomsburg,Geoff Magin,62874,Pittsburgh
+2022,11/28,Mat Town Open I,197,W,DEC,5 - 3,Eli Sheeran,71783,Buffalo,Geoff Magin,62874,Pittsburgh
+2022,11/28,Mat Town Open I,197,L,FALL,1:56,Eli Sheeran,71783,Buffalo,Geoff Magin,62874,Pittsburgh
+2022,11/13,Pittsburgh - Edinboro Dual,197,L,TF5,20 - 5 7:00,Cody Mulligan,50589,Edinboro,Geoff Magin,62874,Pittsburgh
+2022,11/12,Pittsburgh - Buffalo Dual,197,L,DEC,4 - 2,Sam Mitchell,61028,Buffalo,Geoff Magin,62874,Pittsburgh
+2022,11/07,Clarion Open,197,L,DEC,5 - 2,Jaxon Smith,68714,Maryland,Geoff Magin,62874,Pittsburgh
+2022,11/07,Clarion Open,197,W,MD,12 - 4,Brett Wittmann,66633,Clarion,Geoff Magin,62874,Pittsburgh
+2022,11/07,Clarion Open,197,L,MD,16 - 4,Trey Rogers,51099,Hofstra,Geoff Magin,62874,Pittsburgh
+2022,03/06,ACC Championships,285,L,MD,12 - 4,Quinn Miller,49333,Virginia,Jacob Slinger,57307,Pittsburgh
+2022,03/06,ACC Championships,285,L,DEC,3 - 2,Brandon Whitman,50602,North Carolina,Jacob Slinger,57307,Pittsburgh
+2022,02/18,Pittsburgh - Duke Dual,285,L,DEC,3 - 2,Jonah Niesenbaum,60444,Duke,Jacob Slinger,57307,Pittsburgh
+2022,02/11,Pittsburgh - North Carolina State Dual,285,L,DEC,9 - 4,Tyrie Houghton,51136,NC State,Jacob Slinger,57307,Pittsburgh
+2022,02/06,Columbia - Pittsburgh Dual,285,W,DEC,6 - 0,Daniel Conley,51103,Columbia,Jacob Slinger,57307,Pittsburgh
+2022,02/04,Pittsburgh - North Carolina Dual,285,L,DEC,4 - 3,Brandon Whitman,50602,North Carolina,Jacob Slinger,57307,Pittsburgh
+2022,01/30,Virginia Tech - Pittsburgh Dual,285,L,MD,12 - 0,Nathan Traxler,45395,Virginia Tech,Jacob Slinger,57307,Pittsburgh
+2022,01/21,Virginia - Pittsburgh Dual,285,W,DEC,4 - 1,Quinn Miller,49333,Virginia,Jacob Slinger,57307,Pittsburgh
+2022,01/14,Arizona State - Pittsburgh Dual,285,L,MD,18 - 5,Cohlton Schultz,56899,Arizona State,Jacob Slinger,57307,Pittsburgh
+2022,01/09,Michigan - Pittsburgh Dual,285,L,MD,12 - 4,Mason Parris,51176,Michigan,Jacob Slinger,57307,Pittsburgh
+2022,01/09,Army - Pittsburgh Dual,285,W,DEC,5 - 0,Brandon Phillips,51196,Army West Point,Jacob Slinger,57307,Pittsburgh
+2022,12/29,Illinois Matmen Open,285,L,DEC,8 - 4,Michael Woulfe,12693,Purdue,Jacob Slinger,57307,Pittsburgh
+2022,12/29,Illinois Matmen Open,285,W,FALL,0:49,Cam'Ron Harper,73777,Aurora University,Jacob Slinger,57307,Pittsburgh
+2022,12/29,Illinois Matmen Open,285,W,DEC,8 - 5,Boone McDermott,56898,Rutgers,Jacob Slinger,57307,Pittsburgh
+2022,12/29,Illinois Matmen Open,285,L,MD,10 - 2,Trent Hillger,49350,Wisconsin,Jacob Slinger,57307,Pittsburgh
+2022,12/29,Illinois Matmen Open,285,L,FALL,3:52,Nathan Taylor,73044,Lehigh,Jacob Slinger,57307,Pittsburgh
+2022,12/12,Pittsburgh - Ohio State Dual,285,L,MD,10 - 2,Tate Orndorff,50974,Ohio State,Jacob Slinger,57307,Pittsburgh
+2022,11/22,Maryland - Pittsburgh Dual,285,W,SV-1,3 - 1,Zach Schrader,45168,Maryland,Jacob Slinger,57307,Pittsburgh
+2022,11/21,Pittsburgh - Lehigh Dual,285,L,MD,13 - 3,Jordan Wood,45107,Lehigh,Jacob Slinger,57307,Pittsburgh
+2022,11/13,Pittsburgh - Edinboro Dual,285,W,FALL,3:54,Max Millin,66911,Edinboro,Jacob Slinger,57307,Pittsburgh
+2022,11/12,Pittsburgh - Buffalo Dual,285,W,FALL,3:32,Toby Cahill,49097,Buffalo,Jacob Slinger,57307,Pittsburgh
+2022,11/07,Clarion Open,285,L,MD,11 - 3,Nick Feldman,64017,High School,Jacob Slinger,57307,Pittsburgh
+2022,11/07,Clarion Open,285,W,FALL,4:27,Nathan Taylor,73044,Lehigh,Jacob Slinger,57307,Pittsburgh
+2022,11/07,Clarion Open,285,W,DEC,10 - 4,Grady Griess,63170,Navy,Jacob Slinger,57307,Pittsburgh
+2022,11/07,Clarion Open,285,W,TF5,16 - 0 2:21,Shane Noonan,58615,Bloomsburg,Jacob Slinger,57307,Pittsburgh

@@ -1,0 +1,615 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2023,03/16,NCAA Championships,125,L,DEC,11 - 6,Brandon Kaylor,51198,Oregon State,Jake Ferri,51179,Kent State
+2023,03/16,NCAA Championships,125,L,DEC,5 - 3,Brandon Courtney,50881,Arizona State,Jake Ferri,51179,Kent State
+2023,03/04,MAC True Matches,125,W,DEC,6 - 5,Blake West,73337,Northern Illinois,Jake Ferri,51179,Kent State
+2023,03/03,MAC Championships,125,L,MD,8 - 0,Anthony Noto,64642,Lock Haven,Jake Ferri,51179,Kent State
+2023,03/03,MAC Championships,125,W,DEC,4 - 2,Oscar Sanchez,57320,Ohio,Jake Ferri,51179,Kent State
+2023,03/03,MAC Championships,125,W,DEC,5 - 3,Joseph Fischer,68702,Clarion,Jake Ferri,51179,Kent State
+2023,02/16,Thursday Throw Down,125,W,TF5,19 - 3 7:00,Caleb Edwards,72216,Edinboro,Jake Ferri,51179,Kent State
+2023,02/16,Thursday Throw Down,125,W,MD,11 - 3,Lane Aikey,71975,Edinboro,Jake Ferri,51179,Kent State
+2023,02/12,Bloomsburg - Kent State Dual,125,W,MD,14 - 6,Bronson Garber,56759,Bloomsburg,Jake Ferri,51179,Kent State
+2023,02/09,Kent State - Cleveland State Dual,125,W,MD,15 - 4,Benjamin Aranda,71804,Cleveland State,Jake Ferri,51179,Kent State
+2023,02/05,Kent State - Central Michigan Dual,125,L,DEC,15 - 12,Sean Spidle,63063,Central Michigan,Jake Ferri,51179,Kent State
+2023,02/03,Kent State - Ohio Dual,125,W,DEC,3 - 2,Oscar Sanchez,57320,Ohio,Jake Ferri,51179,Kent State
+2023,01/29,Clarion - Kent State Dual,125,L,DEC,3 - 1,Joseph Fischer,68702,Clarion,Jake Ferri,51179,Kent State
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,125,W,TF5,24 - 5 6:01,Austin Macias,57088,SIU Edwardsville,Jake Ferri,51179,Kent State
+2023,01/22,Kent State - Buffalo Dual,125,W,MD,13 - 4,Mason Bush,72224,Buffalo,Jake Ferri,51179,Kent State
+2023,01/14,Kent State - Navy Dual,125,W,FALL,2:12,Matt Ricci,79431,Navy,Jake Ferri,51179,Kent State
+2023,01/14,Kent State - Virginia Dual,125,W,DEC,5 - 3,Patrick McCormick,57063,Virginia,Jake Ferri,51179,Kent State
+2023,01/13,South Dakota State - Kent State Dual,125,W,DEC,7 - 6,Tanner Jordan,57664,South Dakota State,Jake Ferri,51179,Kent State
+2023,01/13,Kent State - Campbell Dual,125,L,DEC,8 - 6,Anthony Molton,57207,Campbell,Jake Ferri,51179,Kent State
+2023,12/18,Northern Illinois - Kent State Dual,125,W,DEC,9 - 5,Blake West,73337,Northern Illinois,Jake Ferri,51179,Kent State
+2023,12/11,Kent State - Ohio State Dual,125,L,DEC,4 - 3,Malik Heinselman,50611,Ohio State,Jake Ferri,51179,Kent State
+2023,12/02,Cliff Keen Invitational,125,W,MD,18 - 5,Cole Bayless,63715,Harvard,Jake Ferri,51179,Kent State
+2023,12/02,Cliff Keen Invitational,125,L,DEC,6 - 2,Matt Ramos,57134,Purdue,Jake Ferri,51179,Kent State
+2023,12/02,Cliff Keen Invitational,125,L,DEC,7 - 4,Kurt McHenry,56182,Michigan,Jake Ferri,51179,Kent State
+2023,12/02,Cliff Keen Invitational,125,W,DEC,5 - 3,Jarrett Trombley,50807,NC State,Jake Ferri,51179,Kent State
+2023,11/19,Navy Classic,125,L,MFOR,0 - 0,Anthony Noto,64642,Lock Haven,Jake Ferri,51179,Kent State
+2023,11/19,Navy Classic,125,W,MD,12 - 3,Grant Treaster,63154,Navy,Jake Ferri,51179,Kent State
+2023,11/19,Navy Classic,125,L,MFOR,0 - 0,Tristan Lujan,63015,Michigan State,Jake Ferri,51179,Kent State
+2023,11/19,Navy Classic,125,W,DEC,12 - 11,Matt Maloney,62920,Lock Haven,Jake Ferri,51179,Kent State
+2023,11/12,Appalachian State Invitational,125,W,DEC,16 - 9,Nico Provo,65883,Stanford,Jake Ferri,51179,Kent State
+2023,11/12,Appalachian State Invitational,125,W,MD,14 - 3,Logan Jaquay,67227,Edinboro,Jake Ferri,51179,Kent State
+2023,11/12,Appalachian State Invitational,125,W,DEC,5 - 2,Caleb Smith,58559,Appalachian State,Jake Ferri,51179,Kent State
+2023,01/06,David Lehman Open,125,L,DEC,8 - 6,Robbie Sagaris,73406,LIU,Kade Orr,73311,Kent State
+2023,01/06,David Lehman Open,125,L,INJ,7:00,Cole Hunt,72654,North Carolina,Kade Orr,73311,Kent State
+2023,12/11,Cleveland State Open,125,L,DEC,6 - 1,Foster Cardinale,77874,Spartan Combat RTC,Kade Orr,73311,Kent State
+2023,12/11,Cleveland State Open,125,L,FALL,1:25,Brendan McCrone,76350,Ohio State,Kade Orr,73311,Kent State
+2023,12/11,Cleveland State Open,125,W,MFOR,0 - 0,Kooper Loehr,62509,Purdue,Kade Orr,73311,Kent State
+2023,11/19,Navy Classic,125,L,MD,14 - 2,Malik Hardy,73357,The Citadel,Kade Orr,73311,Kent State
+2023,11/19,Navy Classic,125,L,TF5,15 - 0 5:35,Tucker Owens,71711,Air Force,Kade Orr,73311,Kent State
+2023,11/12,Appalachian State Invitational,125,W,SV-1,3 - 1,Matthew Rowland,80035,Gardner-Webb,Kade Orr,73311,Kent State
+2023,11/12,Appalachian State Invitational,125,L,FALL,1:10,Drew West,50041,Gardner-Webb,Kade Orr,73311,Kent State
+2023,11/12,Appalachian State Invitational,125,L,FALL,6:50,Caleb Smith,58559,Appalachian State,Kade Orr,73311,Kent State
+2023,11/06,Clarion Open,125,W,DEC,3 - 2,Foster Cardinale,77874,Spartan Combat RTC,Kade Orr,73311,Kent State
+2023,11/06,Clarion Open,125,L,DEC,5 - 3,Matthew Rowland,80035,Gardner-Webb,Kade Orr,73311,Kent State
+2023,11/06,Clarion Open,125,L,DEC,2 - 0,Tyson Lane,75724,Gardner-Webb,Kade Orr,73311,Kent State
+2023,11/06,Clarion Open,125,W,DEC,3 - 2,Logan Mazzeo,65011,Clarion,Kade Orr,73311,Kent State
+2023,02/03,Kent State - Ohio Dual,133,W,DEC,4 - 2,Paul Woo,78922,Ohio,Jacob Houpt,75641,Kent State
+2023,01/29,Clarion - Kent State Dual,133,L,DEC,10 - 9,Mason Prinkey,72195,Clarion,Jacob Houpt,75641,Kent State
+2023,01/22,Kent State - Buffalo Dual,133,L,DEC,7 - 5,Tommy Maddox,63165,Buffalo,Jacob Houpt,75641,Kent State
+2023,11/19,Findlay Open,125,L,INJ,0:30,Braeden Davis,77952,High School,Jacob Houpt,75641,Kent State
+2023,11/19,Findlay Open,125,L,MFOR,0 - 0,Travis Browning,81781,Mercyhurst,Jacob Houpt,75641,Kent State
+2023,11/19,Findlay Open,125,W,DEC,7 - 0,Israel Gonzalez,79094,West Liberty University,Jacob Houpt,75641,Kent State
+2023,11/06,Clarion Open,125,L,MD,12 - 3,Colton Camacho,58029,Pittsburgh,Jacob Houpt,75641,Kent State
+2023,11/06,Clarion Open,125,L,DEC,9 - 4,Zach Espalin,72186,Navy,Jacob Houpt,75641,Kent State
+2023,11/06,Clarion Open,125,W,FALL,4:46,Jeffrey Jacome,73699,Gardner-Webb,Jacob Houpt,75641,Kent State
+2023,01/06,David Lehman Open,125,W,FALL,2:38,Dylan Acevedo-Switzer,73023,Hofstra,Nico Calello,73713,Kent State
+2023,01/06,David Lehman Open,125,L,MD,19 - 8,Jack Wagner,44755,North Carolina,Nico Calello,73713,Kent State
+2023,01/06,David Lehman Open,125,L,MD,8 - 0,Ben Monn,69708,George Mason,Nico Calello,73713,Kent State
+2023,11/06,Clarion Open,125,W,DEC,8 - 1,Zach Starr,79789,Kent State,Nico Calello,73713,Kent State
+2023,11/06,Clarion Open,125,L,DEC,10 - 8,Aiden Lewis,71750,Edinboro,Nico Calello,73713,Kent State
+2023,11/06,Clarion Open,125,L,FALL,0:52,Zach Espalin,72186,Navy,Nico Calello,73713,Kent State
+2023,11/19,Findlay Open,125,L,DEC,5 - 2,Dominic Ortlip,79095,West Liberty University,Zach Starr,79789,Kent State
+2023,11/19,Findlay Open,125,L,DEC,2 - 1,Noah Cantu,61519,Indianapolis,Zach Starr,79789,Kent State
+2023,11/06,Clarion Open,125,L,DEC,8 - 1,Nico Calello,73713,Kent State,Zach Starr,79789,Kent State
+2023,11/06,Clarion Open,125,L,DEC,6 - 1,Drew West,50041,Gardner-Webb,Zach Starr,79789,Kent State
+2023,03/03,MAC Championships,133,W,DEC,7 - 6,Jacob Manley,67785,Cleveland State,Louis Newell,50916,Kent State
+2023,03/03,MAC Championships,133,W,DEC,10 - 4,Aaron Schulist,57012,SIU Edwardsville,Louis Newell,50916,Kent State
+2023,03/03,MAC Championships,133,W,DEC,3 - 2,Lucian Brink,64945,Northern Illinois,Louis Newell,50916,Kent State
+2023,03/03,MAC Championships,133,L,DEC,7 - 6,Gable Strickland,71822,Lock Haven,Louis Newell,50916,Kent State
+2023,03/03,MAC Championships,133,W,DEC,5 - 0,Cameron Soda,72219,Edinboro,Louis Newell,50916,Kent State
+2023,03/03,MAC Championships,133,W,FALL,0:36,Tommy Maddox,63165,Buffalo,Louis Newell,50916,Kent State
+2023,02/12,Bloomsburg - Kent State Dual,133,W,DEC,7 - 3,Cole Rhone,62773,Bloomsburg,Louis Newell,50916,Kent State
+2023,02/09,Kent State - Cleveland State Dual,133,L,DEC,4 - 3,Jacob Manley,67785,Cleveland State,Louis Newell,50916,Kent State
+2023,02/05,Kent State - Central Michigan Dual,141,L,DEC,11 - 6,Mason Breece,57362,Central Michigan,Louis Newell,50916,Kent State
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,141,L,DEC,2 - 0,Saul Ervin,57010,SIU Edwardsville,Louis Newell,50916,Kent State
+2023,01/13,Kent State - Campbell Dual,141,L,FALL,4:10,Shannon Hanna,57654,Campbell,Louis Newell,50916,Kent State
+2023,12/18,Northern Illinois - Kent State Dual,141,L,DEC,3 - 1,Jaivon Jones,62724,Northern Illinois,Louis Newell,50916,Kent State
+2023,12/11,Kent State - Ohio State Dual,141,L,DEC,3 - 1,Dylan D'Emilio,56726,Ohio State,Louis Newell,50916,Kent State
+2023,12/02,Cliff Keen Invitational,141,L,DEC,3 - 0,Vince Cornella,71813,Cornell,Louis Newell,50916,Kent State
+2023,12/02,Cliff Keen Invitational,141,L,DEC,4 - 1,Jesse Vasquez,67152,Arizona State,Louis Newell,50916,Kent State
+2023,12/02,Cliff Keen Invitational,141,W,DEC,6 - 1,Edison Alanis,62923,Cal Baptist,Louis Newell,50916,Kent State
+2023,11/19,Navy Classic,141,W,DEC,7 - 2,Tyler Dilley,62919,Lock Haven,Louis Newell,50916,Kent State
+2023,11/19,Navy Classic,141,W,INJ,5:00,Jordan Hamdan,57705,Michigan State,Louis Newell,50916,Kent State
+2023,11/19,Navy Classic,141,L,FALL,0:58,Brock Hardy,51242,Nebraska,Louis Newell,50916,Kent State
+2023,11/19,Navy Classic,141,W,MD,12 - 1,Jacob Silka,78557,The Citadel,Louis Newell,50916,Kent State
+2023,11/19,Navy Classic,141,W,MD,13 - 2,Bryce Shelton,75097,Air Force,Louis Newell,50916,Kent State
+2023,11/12,Appalachian State Invitational,141,L,DEC,5 - 3,Kyren Butler,72944,Virginia,Louis Newell,50916,Kent State
+2023,11/12,Appalachian State Invitational,141,L,DEC,10 - 4,Garrett Kuchan,69522,Air Force,Louis Newell,50916,Kent State
+2023,01/14,Kent State - Navy Dual,133,L,DEC,5 - 3,Brendan Ferretti,72187,Navy,Brendon Fenton,50938,Kent State
+2023,01/14,Kent State - Virginia Dual,133,L,DEC,7 - 3,Garrett Grice,72957,Virginia,Brendon Fenton,50938,Kent State
+2023,01/13,South Dakota State - Kent State Dual,133,W,FALL,2:58,Derrick Cardinal,68734,South Dakota State,Brendon Fenton,50938,Kent State
+2023,01/13,Kent State - Campbell Dual,133,L,TF5,18 - 3 7:00,Gabe Hixenbaugh,57133,Campbell,Brendon Fenton,50938,Kent State
+2023,12/18,Northern Illinois - Kent State Dual,133,W,DEC,3 - 1,Lucian Brink,64945,Northern Illinois,Brendon Fenton,50938,Kent State
+2023,12/11,Kent State - Ohio State Dual,133,L,DEC,5 - 0,Nic Bouzakis,73468,Ohio State,Brendon Fenton,50938,Kent State
+2023,12/02,Cliff Keen Invitational,133,L,DEC,3 - 1,Hunter Leake,67190,Cal Baptist,Brendon Fenton,50938,Kent State
+2023,12/02,Cliff Keen Invitational,133,W,FALL,5:46,Ethan Rotondo,51219,Cal Poly,Brendon Fenton,50938,Kent State
+2023,12/02,Cliff Keen Invitational,133,L,FALL,2:55,Vitali Arujau,49108,Cornell,Brendon Fenton,50938,Kent State
+2023,11/19,Navy Classic,133,L,DEC,3 - 1,Tyler Hunt,55813,Navy,Brendon Fenton,50938,Kent State
+2023,11/19,Navy Classic,133,W,DEC,3 - 2,Dyson Dunham,73559,VMI,Brendon Fenton,50938,Kent State
+2023,11/19,Navy Classic,133,W,DEC,11 - 4,Dyson Dunham,73559,VMI,Brendon Fenton,50938,Kent State
+2023,11/19,Navy Classic,133,W,DEC,6 - 2,Brayton Killiri,75820,The Citadel,Brendon Fenton,50938,Kent State
+2023,11/19,Navy Classic,133,L,TF5,15 - 0 4:17,Cody Phippen,50644,Air Force,Brendon Fenton,50938,Kent State
+2023,11/12,Appalachian State Invitational,133,L,DEC,8 - 1,Sean Carter,62808,Appalachian State,Brendon Fenton,50938,Kent State
+2023,11/12,Appalachian State Invitational,133,L,DEC,7 - 5,Ethan Oakley,62754,Appalachian State,Brendon Fenton,50938,Kent State
+2023,02/05,Kent State - Central Michigan Dual,133,W,DEC,5 - 3,Vince Perez,60001,Central Michigan,Matt Ellis,75817,Kent State
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,133,L,DEC,3 - 2,Aaron Schulist,57012,SIU Edwardsville,Matt Ellis,75817,Kent State
+2023,01/06,David Lehman Open,133,L,DEC,4 - 2,Evan Mougalian,72984,Pennsylvania,Matt Ellis,75817,Kent State
+2023,01/06,David Lehman Open,133,L,DEC,2 - 1,Anthony Clark,62983,Princeton,Matt Ellis,75817,Kent State
+2023,12/11,Cleveland State Open,133,W,INJ,1:37,Landen Hacker,72945,Kent State,Matt Ellis,75817,Kent State
+2023,12/11,Cleveland State Open,133,L,SV-1,4 - 2,Cody Moosman,49103,Cleveland State,Matt Ellis,75817,Kent State
+2023,12/11,Cleveland State Open,133,L,DEC,7 - 3,Vince Perez,60001,Central Michigan,Matt Ellis,75817,Kent State
+2023,11/12,App State Open,133,W,MD,16 - 3,Christian Orozco,81380,Mount Olive,Matt Ellis,75817,Kent State
+2023,11/12,App State Open,133,L,DEC,8 - 2,Keyveon Roller,73139,Virginia,Matt Ellis,75817,Kent State
+2023,11/12,App State Open,133,W,MFOR,0 - 0,Erik Roggie,73059,Virginia,Matt Ellis,75817,Kent State
+2023,01/29,Clarion - Kent State Dual,141,L,MD,12 - 1,Seth Koleno,51157,Clarion,Landen Hacker,72945,Kent State
+2023,01/14,Kent State - Navy Dual,141,L,TF5,20 - 4 7:00,Joshua Koderhandt,70917,Navy,Landen Hacker,72945,Kent State
+2023,01/14,Kent State - Virginia Dual,141,L,TF5,18 - 2 7:00,Dylan Cedeno,63068,Virginia,Landen Hacker,72945,Kent State
+2023,01/13,South Dakota State - Kent State Dual,141,L,FALL,2:12,Clay Carlson,56441,South Dakota State,Landen Hacker,72945,Kent State
+2023,12/11,Cleveland State Open,133,L,INJ,1:37,Matt Ellis,75817,Kent State,Landen Hacker,72945,Kent State
+2023,12/11,Cleveland State Open,133,L,SV-1,5 - 3,Ethan Qureshi,81106,Spartan Combat RTC,Landen Hacker,72945,Kent State
+2023,12/11,Cleveland State Open,133,W,DEC,5 - 2,Jack Sparent,78766,Cleveland State,Landen Hacker,72945,Kent State
+2023,11/19,Findlay Open,133,W,FALL,1:34,Cody Castelline,17687,Unattached,Landen Hacker,72945,Kent State
+2023,11/19,Findlay Open,133,W,DEC,4 - 0,Maleec Griffin,79490,Indianapolis,Landen Hacker,72945,Kent State
+2023,11/19,Findlay Open,133,W,DEC,1 - 0,Matthew Chi,77507,Wisconsin-Parkside,Landen Hacker,72945,Kent State
+2023,11/19,Findlay Open,133,L,DEC,3 - 1,Matthew Chi,77507,Wisconsin-Parkside,Landen Hacker,72945,Kent State
+2023,11/19,Findlay Open,133,W,DEC,6 - 0,Steven Garty,66817,Indiana Tech,Landen Hacker,72945,Kent State
+2023,11/19,Findlay Open,133,L,DEC,9 - 5,Gavin Ritter,62537,Findlay,Landen Hacker,72945,Kent State
+2023,11/06,Clarion Open,133,W,FALL,5:00,George Arujau,81121,Spartan Combat RTC,Landen Hacker,72945,Kent State
+2023,11/06,Clarion Open,133,L,DEC,7 - 1,Clayton Bashor,71840,Clarion,Landen Hacker,72945,Kent State
+2023,11/06,Clarion Open,133,L,MFOR,0 - 0,Kurt Phipps,63966,Bucknell,Landen Hacker,72945,Kent State
+2023,11/06,Clarion Open,133,L,TF5,20 - 4 4:58,Todd Carter,69785,Gardner-Webb,Ryan Aquilani,77266,Kent State
+2023,11/06,Clarion Open,133,L,MD,12 - 2,Koen Kish,70988,Clarion,Ryan Aquilani,77266,Kent State
+2023,11/06,Clarion Open,133,W,DEC,10 - 4,Hunter Verge,63707,Clarion,Ryan Aquilani,77266,Kent State
+2023,03/03,MAC Championships,141,L,MD,8 - 0,McKenzie Bell,67375,Rider,Mason Lynch,73312,Kent State
+2023,03/03,MAC Championships,141,L,FALL,4:52,Jimmy Nugent,79053,Central Michigan,Mason Lynch,73312,Kent State
+2023,01/06,David Lehman Open,149,W,DEC,4 - 2,Greyson Harris,78610,Hofstra,Mason Lynch,73312,Kent State
+2023,01/06,David Lehman Open,149,L,DEC,6 - 2,Matt Hoelke,72512,Rider,Mason Lynch,73312,Kent State
+2023,01/06,David Lehman Open,149,L,DEC,8 - 2,Josh Tuckey,59672,Millersville,Mason Lynch,73312,Kent State
+2023,12/11,Cleveland State Open,149,L,FALL,6:50,Ethan Barr,76508,Kent State,Mason Lynch,73312,Kent State
+2023,12/11,Cleveland State Open,149,W,DEC,6 - 3,Evan Davis,78400,Ashland,Mason Lynch,73312,Kent State
+2023,12/11,Cleveland State Open,149,L,MD,13 - 3,Gavin Brown,72967,Ohio State,Mason Lynch,73312,Kent State
+2023,11/12,App State Open,141,L,MD,12 - 1,Billy Meiszner,75815,Kent State,Mason Lynch,73312,Kent State
+2023,11/12,App State Open,141,L,MD,14 - 2,Zach Price,50932,Gardner-Webb,Mason Lynch,73312,Kent State
+2023,11/12,App State Open,141,W,SV-1,3 - 1,Isaac Byers,62807,Appalachian State,Mason Lynch,73312,Kent State
+2023,11/06,Clarion Open,141,L,DEC,3 - 1,Alexander Blake,57720,Clarion,Mason Lynch,73312,Kent State
+2023,11/06,Clarion Open,141,L,DEC,2 - 1,Trevor Nugent,72511,Bucknell,Mason Lynch,73312,Kent State
+2023,02/05,Edinboro Open,141,L,FALL,1:21,George Arujau,81121,Spartan Combat RTC,Billy Meiszner,75815,Kent State
+2023,02/05,Edinboro Open,141,L,DEC,2 - 1,Kimo Leia,74055,Lehigh,Billy Meiszner,75815,Kent State
+2023,02/05,Edinboro Open,141,W,MD,8 - 0,Blake Boyers,73379,West Virginia,Billy Meiszner,75815,Kent State
+2023,02/05,Edinboro Open,141,W,DEC,8 - 2,Michael Dolan,73378,West Virginia,Billy Meiszner,75815,Kent State
+2023,02/05,Edinboro Open,141,W,MD,11 - 2,Seth Koleno,51157,Clarion,Billy Meiszner,75815,Kent State
+2023,01/06,David Lehman Open,141,L,DEC,5 - 0,Kai Owen,73196,Columbia,Billy Meiszner,75815,Kent State
+2023,01/06,David Lehman Open,141,L,DEC,10 - 4,Danny Coles,54117,Princeton,Billy Meiszner,75815,Kent State
+2023,12/11,Cleveland State Open,141,L,MD,13 - 3,Kyren Butler,72944,Virginia,Billy Meiszner,75815,Kent State
+2023,12/11,Cleveland State Open,141,L,TF5,16 - 1 2:57,Jordan Titus,68738,West Virginia,Billy Meiszner,75815,Kent State
+2023,12/11,Cleveland State Open,141,W,DEC,7 - 3,Aidan Waszak,73163,Ohio,Billy Meiszner,75815,Kent State
+2023,11/19,Findlay Open,141,W,DEC,8 - 3,Carson Johnson,79492,Indianapolis,Billy Meiszner,75815,Kent State
+2023,11/19,Findlay Open,141,L,DEC,10 - 3,Khyvon Grace,79098,West Liberty University,Billy Meiszner,75815,Kent State
+2023,11/19,Findlay Open,141,L,DEC,3 - 1,Alexander Blake,57720,Clarion,Billy Meiszner,75815,Kent State
+2023,11/19,Findlay Open,141,W,SV-1,10 - 8,Gavin Weaver,70285,Ashland,Billy Meiszner,75815,Kent State
+2023,11/12,App State Open,141,W,MD,12 - 1,Mason Lynch,73312,Kent State,Billy Meiszner,75815,Kent State
+2023,11/12,App State Open,141,L,DEC,7 - 6,Josh Wilson,69722,Greensboro,Billy Meiszner,75815,Kent State
+2023,11/12,App State Open,141,W,TF5,16 - 1 3:09,Khamani Harrison,79412,Gardner-Webb,Billy Meiszner,75815,Kent State
+2023,11/12,App State Open,141,L,DEC,6 - 1,Riley Edwards,71715,Appalachian State,Billy Meiszner,75815,Kent State
+2023,11/06,Clarion Open,141,L,FALL,4:41,Joshua Koderhandt,70917,Navy,Billy Meiszner,75815,Kent State
+2023,11/06,Clarion Open,141,W,DEC,6 - 0,Tyler Lamon,79479,Gardner-Webb,Billy Meiszner,75815,Kent State
+2023,11/06,Clarion Open,141,L,MD,13 - 3,Braden Bower,71756,Bucknell,Billy Meiszner,75815,Kent State
+2023,11/19,Navy Classic,141,L,MD,11 - 2,Dylan Chappell,71754,Bucknell,Casey Wiles,71969,Kent State
+2023,11/19,Navy Classic,141,W,FALL,5:28,Raymond Cmil,73243,VMI,Casey Wiles,71969,Kent State
+2023,11/19,Navy Classic,141,L,INJ,4:21,Jacob Silka,78557,The Citadel,Casey Wiles,71969,Kent State
+2023,11/06,Clarion Open,141,L,DEC,13 - 7,Amonn Ohl,71965,Edinboro,Casey Wiles,71969,Kent State
+2023,11/06,Clarion Open,141,L,DEC,7 - 2,Briar Priest,71951,Pittsburgh,Casey Wiles,71969,Kent State
+2023,11/06,Clarion Open,141,W,FALL,1:35,David Kreidler,73329,Navy,Casey Wiles,71969,Kent State
+2023,11/06,Clarion Open,141,W,DEC,3 - 2,Nate Burnett,71800,Clarion,Casey Wiles,71969,Kent State
+2023,02/12,Bloomsburg - Kent State Dual,141,L,DEC,3 - 2,Josh Mason,53817,Bloomsburg,Pablo Castro,79792,Kent State
+2023,02/09,Kent State - Cleveland State Dual,141,W,DEC,2 - 1,Cody Moosman,49103,Cleveland State,Pablo Castro,79792,Kent State
+2023,02/03,Kent State - Ohio Dual,141,L,DEC,6 - 0,Kyran Hagan,49247,Ohio,Pablo Castro,79792,Kent State
+2023,01/22,Kent State - Buffalo Dual,141,L,DEC,7 - 6,Jack Marlow,73355,Buffalo,Pablo Castro,79792,Kent State
+2023,01/06,David Lehman Open,141,L,DEC,5 - 3,Braden Basile,73707,United States Military Academy,Pablo Castro,79792,Kent State
+2023,01/06,David Lehman Open,141,W,FALL,4:14,Christopher Martino,72987,Princeton,Pablo Castro,79792,Kent State
+2023,01/06,David Lehman Open,141,L,DEC,7 - 1,Kyle Hauserman,68729,Pennsylvania,Pablo Castro,79792,Kent State
+2023,01/06,David Lehman Open,149,L,MD,10 - 1,James Latona,79382,Navy,Mikey Lewarchick,71832,Kent State
+2023,01/06,David Lehman Open,149,W,DEC,3 - 2,Nick Demarco,73476,Sacred Heart,Mikey Lewarchick,71832,Kent State
+2023,01/06,David Lehman Open,149,L,DEC,7 - 0,Marshall Keller,51509,Princeton,Mikey Lewarchick,71832,Kent State
+2023,12/11,Cleveland State Open,141,W,FALL,1:32,George Arujau,81121,Spartan Combat RTC,Mikey Lewarchick,71832,Kent State
+2023,12/11,Cleveland State Open,141,L,MD,12 - 3,Patrick Nolan,57652,Michigan,Mikey Lewarchick,71832,Kent State
+2023,12/11,Cleveland State Open,141,L,DEC,7 - 2,Christian White,72619,Purdue,Mikey Lewarchick,71832,Kent State
+2023,11/19,Navy Classic,141,L,DEC,8 - 5,Tyler Dilley,62919,Lock Haven,Mikey Lewarchick,71832,Kent State
+2023,11/19,Navy Classic,141,L,DEC,4 - 3,Bryce Shelton,75097,Air Force,Mikey Lewarchick,71832,Kent State
+2023,11/06,Clarion Open,141,W,MD,12 - 3,Kaden Setzer,79791,Kent State,Mikey Lewarchick,71832,Kent State
+2023,11/06,Clarion Open,141,L,DEC,6 - 0,Cameron Soda,72219,Edinboro,Mikey Lewarchick,71832,Kent State
+2023,11/06,Clarion Open,141,L,DEC,3 - 1,Braden Bower,71756,Bucknell,Mikey Lewarchick,71832,Kent State
+2023,02/12,JCU Open,149,W,FALL,1:25,David Shue,79451,Lake Erie College,Kaden Setzer,79791,Kent State
+2023,02/12,JCU Open,149,L,MFOR,0 - 0,Josh Howey,79449,Lake Erie College,Kaden Setzer,79791,Kent State
+2023,02/12,JCU Open,149,W,DEC,8 - 4,Evan Reid,79418,Gannon,Kaden Setzer,79791,Kent State
+2023,01/15,Purple Raider Open,149,L,DEC,8 - 2,Isaac Ruble,78710,Purdue,Kaden Setzer,79791,Kent State
+2023,01/15,Purple Raider Open,149,L,MD,8 - 0,Christian Navida,69601,Purdue,Kaden Setzer,79791,Kent State
+2023,11/19,Findlay Open,141,W,TF5,16 - 1 7:00,Luke Miller,73997,West Liberty University,Kaden Setzer,79791,Kent State
+2023,11/19,Findlay Open,141,L,FALL,0:34,Raymond Rioux,63721,Indianapolis,Kaden Setzer,79791,Kent State
+2023,11/19,Findlay Open,141,L,FALL,1:48,Gavin Weaver,70285,Ashland,Kaden Setzer,79791,Kent State
+2023,11/06,Clarion Open,141,L,MD,12 - 3,Mikey Lewarchick,71832,Kent State,Kaden Setzer,79791,Kent State
+2023,11/06,Clarion Open,141,L,TF5,19 - 2 6:53,Chad Ozias,78525,Pitt-Johnstown,Kaden Setzer,79791,Kent State
+2023,11/06,Clarion Open,141,W,FALL,1:25,Caden Reamer,74520,Slippery Rock,Kaden Setzer,79791,Kent State
+2023,03/03,MAC Championships,149,W,MFOR,0 - 0,Kyle Schickel,67305,Clarion,Kody Komara,50094,Kent State
+2023,03/03,MAC Championships,149,L,DEC,4 - 0,Quinn Kinner,51144,Rider,Kody Komara,50094,Kent State
+2023,03/03,MAC Championships,149,L,DEC,3 - 2,Ryan Burgos,63141,Edinboro,Kody Komara,50094,Kent State
+2023,03/03,MAC Championships,149,W,INJ,2:40,Douglas Terry,70741,Cleveland State,Kody Komara,50094,Kent State
+2023,03/03,MAC Championships,149,W,DEC,8 - 3,Cade Balestrini,62514,Bloomsburg,Kody Komara,50094,Kent State
+2023,02/12,Bloomsburg - Kent State Dual,149,W,DEC,3 - 2,Cade Balestrini,62514,Bloomsburg,Kody Komara,50094,Kent State
+2023,02/09,Kent State - Cleveland State Dual,149,W,DEC,3 - 2,Douglas Terry,70741,Cleveland State,Kody Komara,50094,Kent State
+2023,02/05,Kent State - Central Michigan Dual,149,L,MD,10 - 1,Johnny Lovett,61935,Central Michigan,Kody Komara,50094,Kent State
+2023,02/03,Kent State - Ohio Dual,149,L,SV-1,3 - 1,Alec Hagan,49248,Ohio,Kody Komara,50094,Kent State
+2023,01/29,Clarion - Kent State Dual,149,W,DEC,4 - 0,Kyle Schickel,67305,Clarion,Kody Komara,50094,Kent State
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,149,L,TB-2,3 - 1,Caleb Tyus,72912,SIU Edwardsville,Kody Komara,50094,Kent State
+2023,01/22,Kent State - Buffalo Dual,149,W,DEC,6 - 4,Matt Ryan,69769,Buffalo,Kody Komara,50094,Kent State
+2023,01/14,Kent State - Navy Dual,149,W,FALL,3:59,Kaemen Smith,78323,Navy,Kody Komara,50094,Kent State
+2023,01/14,Kent State - Virginia Dual,149,L,FALL,1:57,Michael Gioffre,73019,Virginia,Kody Komara,50094,Kent State
+2023,01/13,South Dakota State - Kent State Dual,149,L,DEC,9 - 3,Alek Martin,72167,South Dakota State,Kody Komara,50094,Kent State
+2023,01/13,Kent State - Campbell Dual,149,W,DEC,6 - 2,Chris Rivera,62331,Campbell,Kody Komara,50094,Kent State
+2023,12/18,Northern Illinois - Kent State Dual,149,W,DEC,13 - 6,Dillon Nichols,61650,Northern Illinois,Kody Komara,50094,Kent State
+2023,12/11,Kent State - Ohio State Dual,149,L,TF5,19 - 3 4:52,Sammy Sasso,51143,Ohio State,Kody Komara,50094,Kent State
+2023,12/02,Cliff Keen Invitational,149,W,MD,10 - 2,Noah Tolentino,74563,Oregon State,Kody Komara,50094,Kent State
+2023,12/02,Cliff Keen Invitational,149,L,FALL,1:01,Chance Lamer,70915,Michigan,Kody Komara,50094,Kent State
+2023,12/02,Cliff Keen Invitational,149,W,DEC,7 - 2,Chaz Hallmark,62925,Cal Baptist,Kody Komara,50094,Kent State
+2023,12/02,Cliff Keen Invitational,149,W,DEC,11 - 6,Matt Laurie,62474,Sacred Heart,Kody Komara,50094,Kent State
+2023,12/02,Cliff Keen Invitational,149,L,DEC,3 - 2,Alec Hagan,49248,Ohio,Kody Komara,50094,Kent State
+2023,11/19,Navy Classic,149,W,DEC,8 - 2,Kaiden Wagner,78521,Lock Haven,Kody Komara,50094,Kent State
+2023,11/19,Navy Classic,149,W,DEC,3 - 2,Connor Eck,71824,Lock Haven,Kody Komara,50094,Kent State
+2023,11/19,Navy Classic,149,W,FALL,5:51,Eddie Homrock,62776,Michigan State,Kody Komara,50094,Kent State
+2023,11/19,Navy Classic,149,L,SV-1,7 - 1,Alec Hagan,49248,Ohio,Kody Komara,50094,Kent State
+2023,11/19,Navy Classic,149,W,FALL,1:37,Noah Frack,71728,Davidson,Kody Komara,50094,Kent State
+2023,11/12,Appalachian State Invitational,149,W,MFOR,0 - 0,Jaden Abas,56738,Stanford,Kody Komara,50094,Kent State
+2023,11/12,Appalachian State Invitational,149,W,DEC,4 - 3,Alec Hagan,49248,Ohio,Kody Komara,50094,Kent State
+2023,11/12,Appalachian State Invitational,149,L,MD,8 - 0,Jarod Verkleeren,49156,Virginia,Kody Komara,50094,Kent State
+2023,11/12,Appalachian State Invitational,149,W,DEC,8 - 2,Jake Pail,62853,Edinboro,Kody Komara,50094,Kent State
+2023,11/12,Appalachian State Invitational,149,L,FALL,3:25,John Millner,50212,Appalachian State,Kody Komara,50094,Kent State
+2023,02/12,JCU Open,157,W,FALL,1:34,George Johnson,74525,West Virginia,Ethan Barr,76508,Kent State
+2023,02/12,JCU Open,157,W,FALL,3:55,Sully Allen,65014,Edinboro,Ethan Barr,76508,Kent State
+2023,02/12,JCU Open,157,L,MD,16 - 5,Shane Heil,72593,Cleveland State,Ethan Barr,76508,Kent State
+2023,02/05,Edinboro Open,157,W,DEC,8 - 5,Joseph Chiappazzi,78470,West Virginia,Ethan Barr,76508,Kent State
+2023,02/05,Edinboro Open,157,L,MD,11 - 1,Walker Heard,62592,West Virginia,Ethan Barr,76508,Kent State
+2023,02/05,Edinboro Open,157,L,MD,8 - 0,Ashton Eyler,58037,Lock Haven,Ethan Barr,76508,Kent State
+2023,01/14,Kent State - Navy Dual,157,W,FALL,2:08,Devon Deem,78466,Navy,Ethan Barr,76508,Kent State
+2023,01/14,Kent State - Virginia Dual,157,L,FALL,0:53,Denton Spencer,49134,Virginia,Ethan Barr,76508,Kent State
+2023,01/13,South Dakota State - Kent State Dual,157,L,FALL,3:41,Cael Swensen,70926,South Dakota State,Ethan Barr,76508,Kent State
+2023,01/13,Kent State - Campbell Dual,157,L,DEC,10 - 3,Hagen Heistand,76354,Campbell,Ethan Barr,76508,Kent State
+2023,01/06,David Lehman Open,149,L,DEC,12 - 5,Matt Hoelke,72512,Rider,Ethan Barr,76508,Kent State
+2023,01/06,David Lehman Open,149,W,DEC,5 - 2,Lucian Albanese,69713,Sacred Heart,Ethan Barr,76508,Kent State
+2023,01/06,David Lehman Open,149,W,DEC,5 - 0,Josh Tuckey,59672,Millersville,Ethan Barr,76508,Kent State
+2023,01/06,David Lehman Open,149,L,FALL,1:37,Jimmy Harrington,74567,Harvard,Ethan Barr,76508,Kent State
+2023,12/11,Cleveland State Open,149,W,FALL,3:31,Vincenzo Napolitana,76001,Spartan Combat RTC,Ethan Barr,76508,Kent State
+2023,12/11,Cleveland State Open,149,W,FALL,6:50,Mason Lynch,73312,Kent State,Ethan Barr,76508,Kent State
+2023,12/11,Cleveland State Open,149,L,MD,9 - 1,Jeffrey Boyd,62594,West Virginia,Ethan Barr,76508,Kent State
+2023,12/11,Cleveland State Open,149,W,FALL,3:49,Joseph Caprella,60287,Cleveland State,Ethan Barr,76508,Kent State
+2023,12/11,Cleveland State Open,149,L,FALL,1:24,Derek Raike,76503,Ohio,Ethan Barr,76508,Kent State
+2023,11/06,Clarion Open,149,W,FALL,2:29,Zachary Soda,72220,Edinboro,Ethan Barr,76508,Kent State
+2023,11/06,Clarion Open,149,L,TF5,15 - 0 6:14,Tyler Badgett,67118,Pittsburgh,Ethan Barr,76508,Kent State
+2023,11/06,Clarion Open,149,L,MD,17 - 3,Ricky Cabanillas,57514,Brown,Ethan Barr,76508,Kent State
+2023,02/05,Edinboro Open,149,W,DEC,6 - 4,Caleb Chaves,72199,Gannon,Eli Ashcroft,75644,Kent State
+2023,02/05,Edinboro Open,149,W,DEC,8 - 2,Hayden Butterfield,67032,Gannon,Eli Ashcroft,75644,Kent State
+2023,02/05,Edinboro Open,149,L,FALL,2:34,Luca Errico,64680,Cavalier Wrestling club,Eli Ashcroft,75644,Kent State
+2023,02/05,Edinboro Open,149,L,DEC,6 - 2,Matt Ryan,69769,Buffalo,Eli Ashcroft,75644,Kent State
+2023,01/15,Purple Raider Open,149,L,DEC,8 - 3,Jeffrey Boyd,62594,West Virginia,Eli Ashcroft,75644,Kent State
+2023,01/15,Purple Raider Open,149,L,DEC,8 - 1,Carter Gill,78514,Buffalo,Eli Ashcroft,75644,Kent State
+2023,12/11,Cleveland State Open,149,W,DEC,5 - 2,Noah Roulo,61776,VMI,Eli Ashcroft,75644,Kent State
+2023,12/11,Cleveland State Open,149,L,MD,11 - 0,Joseph Caprella,60287,Cleveland State,Eli Ashcroft,75644,Kent State
+2023,12/11,Cleveland State Open,149,L,DEC,2 - 0,Christian Navida,69601,Purdue,Eli Ashcroft,75644,Kent State
+2023,11/19,Findlay Open,149,L,DEC,2 - 1,Aiden Davis,82625,Unattached,Eli Ashcroft,75644,Kent State
+2023,11/19,Findlay Open,149,W,MD,12 - 4,Justin Smythe,79589,Tiffin University,Eli Ashcroft,75644,Kent State
+2023,11/19,Findlay Open,149,W,MD,11 - 3,Gavin Owens,79588,Tiffin University,Eli Ashcroft,75644,Kent State
+2023,11/19,Findlay Open,149,W,DEC,6 - 5,Nick Gates,65561,Indiana Tech,Eli Ashcroft,75644,Kent State
+2023,11/19,Findlay Open,149,L,DEC,7 - 3,Torry Early,65322,Wisconsin-Parkside,Eli Ashcroft,75644,Kent State
+2023,11/12,Appalachian State Invitational,149,L,FALL,2:37,Alec Hagan,49248,Ohio,Eli Ashcroft,75644,Kent State
+2023,11/12,Appalachian State Invitational,149,L,DEC,7 - 1,Jarod Verkleeren,49156,Virginia,Eli Ashcroft,75644,Kent State
+2023,12/11,Cleveland State Open,149,L,MD,12 - 4,Joseph Caprella,60287,Cleveland State,Tyler Johnson,69711,Kent State
+2023,12/11,Cleveland State Open,149,L,MD,8 - 0,Jaden Reynolds,72620,Purdue,Tyler Johnson,69711,Kent State
+2023,11/06,Clarion Open,149,L,FALL,3:57,Brock McMillen,72116,Pittsburgh,Tyler Johnson,69711,Kent State
+2023,11/06,Clarion Open,149,L,DEC,4 - 0,Jaden Reynolds,72620,Purdue,Tyler Johnson,69711,Kent State
+2023,03/03,MAC Championships,157,L,DEC,5 - 1,Trevor Elfvin,51017,Clarion,Keegan Knapp,79795,Kent State
+2023,03/03,MAC Championships,157,L,DEC,8 - 5,Corbyn Munson,51197,Central Michigan,Keegan Knapp,79795,Kent State
+2023,03/03,MAC Championships,157,W,MD,12 - 3,John Noah Reho,78635,Bloomsburg,Keegan Knapp,79795,Kent State
+2023,02/12,Bloomsburg - Kent State Dual,157,W,MD,18 - 7,John Noah Reho,78635,Bloomsburg,Keegan Knapp,79795,Kent State
+2023,02/09,Kent State - Cleveland State Dual,157,L,DEC,9 - 7,Marcus Robinson,56479,Cleveland State,Keegan Knapp,79795,Kent State
+2023,02/03,Kent State - Ohio Dual,157,L,MD,12 - 2,Peyten Kellar,73168,Ohio,Keegan Knapp,79795,Kent State
+2023,01/29,Clarion - Kent State Dual,157,W,DEC,13 - 8,Trevor Elfvin,51017,Clarion,Keegan Knapp,79795,Kent State
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,157,W,MD,11 - 3,Caine Tyus,72913,SIU Edwardsville,Keegan Knapp,79795,Kent State
+2023,01/22,Kent State - Buffalo Dual,157,L,DEC,8 - 5,Michael Petite,55596,Buffalo,Keegan Knapp,79795,Kent State
+2023,01/06,David Lehman Open,157,W,MD,15 - 5,Aiden Gaugler,78737,Lock Haven,Keegan Knapp,79795,Kent State
+2023,01/06,David Lehman Open,157,W,DEC,15 - 10,Ethan Wilson,76858,Drexel,Keegan Knapp,79795,Kent State
+2023,01/06,David Lehman Open,157,L,MD,12 - 0,Hudson Hightower,72934,Princeton,Keegan Knapp,79795,Kent State
+2023,01/06,David Lehman Open,157,W,DEC,7 - 3,Cole Spencer,68728,Pennsylvania,Keegan Knapp,79795,Kent State
+2023,01/06,David Lehman Open,157,L,DEC,2 - 1,Jack Ganos,68695,Air Force,Keegan Knapp,79795,Kent State
+2023,12/11,Kent State - Ohio State Dual,157,W,DEC,6 - 3,Isaac Wilcox,60592,Ohio State,Keegan Knapp,79795,Kent State
+2023,11/19,Navy Classic,157,L,DEC,10 - 3,Daniel Segura,65313,Ohio,Keegan Knapp,79795,Kent State
+2023,11/19,Navy Classic,157,W,INJ,2:16,Andrew Cerniglia,62439,Navy,Keegan Knapp,79795,Kent State
+2023,11/19,Navy Classic,157,L,DEC,9 - 2,Ashton Eyler,58037,Lock Haven,Keegan Knapp,79795,Kent State
+2023,11/19,Navy Classic,157,L,DEC,6 - 0,Nick Delp,62493,Bucknell,Keegan Knapp,79795,Kent State
+2023,11/19,Navy Classic,157,W,DEC,10 - 8,Jobe Chishko,56805,VMI,Keegan Knapp,79795,Kent State
+2023,02/12,JCU Open,165,W,FALL,4:46,Tyler Barry,74315,Ashland,Dillon Carlson,79794,Kent State
+2023,02/12,JCU Open,165,L,DEC,4 - 3,Patrick Daum,62591,West Virginia,Dillon Carlson,79794,Kent State
+2023,02/12,JCU Open,165,W,DEC,6 - 3,Max Kirby,78782,Edinboro,Dillon Carlson,79794,Kent State
+2023,01/22,Kent State - Buffalo Dual,165,L,MD,15 - 3,Noah Grover,51227,Buffalo,Dillon Carlson,79794,Kent State
+2023,01/06,David Lehman Open,157,W,FALL,2:15,David Turner,79298,Rider,Dillon Carlson,79794,Kent State
+2023,01/06,David Lehman Open,157,L,DEC,8 - 3,Ty Whalen,72988,Princeton,Dillon Carlson,79794,Kent State
+2023,01/06,David Lehman Open,157,W,DEC,8 - 2,Travis Tavoso,63146,Princeton,Dillon Carlson,79794,Kent State
+2023,01/06,David Lehman Open,157,L,FALL,3:37,Mark Metz,73368,Army West Point,Dillon Carlson,79794,Kent State
+2023,12/11,Cleveland State Open,157,L,SV-1,3 - 1,Cole McComas,62984,Rider,Dillon Carlson,79794,Kent State
+2023,12/11,Cleveland State Open,157,L,DEC,6 - 1,Luke Baughman,57288,Indiana,Dillon Carlson,79794,Kent State
+2023,12/11,Cleveland State Open,157,W,MD,14 - 5,Nick Abounader,78818,Cleveland State,Dillon Carlson,79794,Kent State
+2023,12/11,Cleveland State Open,157,W,MD,12 - 2,Clint Morrisette,76657,King,Dillon Carlson,79794,Kent State
+2023,11/19,Findlay Open,157,W,DEC,13 - 6,Brayden Johnson,73999,West Liberty University,Dillon Carlson,79794,Kent State
+2023,11/19,Findlay Open,157,L,DEC,3 - 2,Ben Durocher,69994,Wisconsin-Parkside,Dillon Carlson,79794,Kent State
+2023,11/19,Findlay Open,157,L,DEC,8 - 3,Logan Sanom,62487,Findlay,Dillon Carlson,79794,Kent State
+2023,01/06,David Lehman Open,157,L,INJ,7:00,Louis Colaiocco,72973,Pennsylvania,Aaron Ferguson,71721,Kent State
+2023,01/06,David Lehman Open,157,W,MD,8 - 0,Travis Tavoso,63146,Princeton,Aaron Ferguson,71721,Kent State
+2023,01/06,David Lehman Open,157,L,FALL,0:57,Ashton Eyler,58037,Lock Haven,Aaron Ferguson,71721,Kent State
+2023,12/18,Northern Illinois - Kent State Dual,157,L,MD,9 - 0,Anthony Gibson,56508,Northern Illinois,Aaron Ferguson,71721,Kent State
+2023,12/11,Cleveland State Open,157,W,FALL,2:22,Zach Snyder,77793,Toledo,Aaron Ferguson,71721,Kent State
+2023,12/11,Cleveland State Open,157,L,DEC,5 - 2,Caleb Dowling,62359,West Virginia,Aaron Ferguson,71721,Kent State
+2023,12/11,Cleveland State Open,157,L,DEC,5 - 2,Daniel Segura,65313,Ohio,Aaron Ferguson,71721,Kent State
+2023,12/02,Cliff Keen Invitational,157,L,FALL,6:32,Cesar Alvan,71732,Columbia,Aaron Ferguson,71721,Kent State
+2023,12/02,Cliff Keen Invitational,157,L,DEC,6 - 1,Kendall Coleman,50626,Purdue,Aaron Ferguson,71721,Kent State
+2023,12/02,Cliff Keen Invitational,157,W,MD,9 - 1,Eric Shindel,73026,Hofstra,Aaron Ferguson,71721,Kent State
+2023,12/11,Cleveland State Open,157,L,FALL,3:53,Benny Rodgers,81116,Spartan Combat RTC,Reece Goss,79793,Kent State
+2023,12/11,Cleveland State Open,157,L,FALL,3:48,Tim Bova,79255,Spartan Combat RTC,Reece Goss,79793,Kent State
+2023,12/11,Cleveland State Open,157,W,INJ,7:00,Colby Dalon,78655,Kent State,Reece Goss,79793,Kent State
+2023,12/11,Cleveland State Open,157,W,DEC,9 - 2,George Johnson,74525,West Virginia,Reece Goss,79793,Kent State
+2023,11/06,Clarion Open,157,L,FALL,4:02,Collin McCorkle,73310,Pittsburgh,Reece Goss,79793,Kent State
+2023,11/06,Clarion Open,157,L,MD,8 - 0,Tyler Brignola,73727,Gardner-Webb,Reece Goss,79793,Kent State
+2023,02/12,JCU Open,165,L,SV-1,7 - 5,Sevi Garza,74317,Ashland,Colby Dalon,78655,Kent State
+2023,02/12,JCU Open,165,L,DEC,8 - 6,Caleb Cass,57214,Cleveland State,Colby Dalon,78655,Kent State
+2023,01/29,Clarion - Kent State Dual,165,L,MD,12 - 1,Cameron Pine,57196,Clarion,Colby Dalon,78655,Kent State
+2023,12/11,Cleveland State Open,157,L,INJ,7:00,Reece Goss,79793,Kent State,Colby Dalon,78655,Kent State
+2023,12/11,Cleveland State Open,157,L,INJ,4:29,Shane Heil,72593,Cleveland State,Colby Dalon,78655,Kent State
+2023,11/19,Findlay Open,157,L,DEC,5 - 0,Nate Wheeler,66068,Indiana Tech,Colby Dalon,78655,Kent State
+2023,11/19,Findlay Open,157,W,DEC,2 - 1,Matthew Ferraro,62000,Mercyhurst,Colby Dalon,78655,Kent State
+2023,11/19,Findlay Open,157,L,DEC,5 - 2,Jamar Williams,55824,West Liberty University,Colby Dalon,78655,Kent State
+2023,11/19,Findlay Open,157,W,DEC,8 - 4,Jesse Bowers,70286,Ashland,Colby Dalon,78655,Kent State
+2023,03/03,MAC Championships,165,L,DEC,7 - 2,Izzak Olejnik,56509,Northern Illinois,Enrique Munguia,73500,Kent State
+2023,03/03,MAC Championships,165,W,DEC,11 - 5,Avery Bassett,71835,Lock Haven,Enrique Munguia,73500,Kent State
+2023,03/03,MAC Championships,165,W,DEC,5 - 4,Cameron Pine,57196,Clarion,Enrique Munguia,73500,Kent State
+2023,02/12,Bloomsburg - Kent State Dual,165,W,FALL,1:20,Trenton Harder,71680,Bloomsburg,Enrique Munguia,73500,Kent State
+2023,02/09,Kent State - Cleveland State Dual,165,L,DEC,3 - 1,Daniel Patten,62489,Cleveland State,Enrique Munguia,73500,Kent State
+2023,02/05,Kent State - Central Michigan Dual,165,L,FALL,2:56,Tracy Hubbard,57361,Central Michigan,Enrique Munguia,73500,Kent State
+2023,02/03,Kent State - Ohio Dual,165,L,TF5,18 - 1 6:55,Jordan Slivka,57602,Ohio,Enrique Munguia,73500,Kent State
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,165,L,FALL,4:15,Bradley Gillum,73397,SIU Edwardsville,Enrique Munguia,73500,Kent State
+2023,01/14,Kent State - Virginia Dual,165,L,MD,12 - 2,Nick Hamilton,73501,Virginia,Enrique Munguia,73500,Kent State
+2023,01/13,South Dakota State - Kent State Dual,165,L,DEC,15 - 11,Tanner Cook,51408,South Dakota State,Enrique Munguia,73500,Kent State
+2023,01/13,Kent State - Campbell Dual,165,W,FALL,3:42,Brant Cracraft,78636,Campbell,Enrique Munguia,73500,Kent State
+2023,12/18,Northern Illinois - Kent State Dual,165,L,MD,9 - 1,Izzak Olejnik,56509,Northern Illinois,Enrique Munguia,73500,Kent State
+2023,12/02,Cliff Keen Invitational,165,W,SV-1,13 - 11,David Ferrante,57710,Northwestern,Enrique Munguia,73500,Kent State
+2023,12/02,Cliff Keen Invitational,165,L,MD,17 - 6,Carson Kharchla,57703,Ohio State,Enrique Munguia,73500,Kent State
+2023,12/02,Cliff Keen Invitational,165,L,MD,12 - 4,Matthew Olguin,57218,Oregon State,Enrique Munguia,73500,Kent State
+2023,12/02,Cliff Keen Invitational,165,W,DEC,2 - 1,Drew Nicholson,49091,Virginia Tech,Enrique Munguia,73500,Kent State
+2023,12/02,Cliff Keen Invitational,165,W,DEC,5 - 3,Jurius Clark,78553,Hofstra,Enrique Munguia,73500,Kent State
+2023,11/19,Navy Classic,165,W,DEC,10 - 6,Bubba Wilson,57936,Nebraska,Enrique Munguia,73500,Kent State
+2023,11/19,Navy Classic,165,W,DEC,3 - 0,Jordan Slivka,57602,Ohio,Enrique Munguia,73500,Kent State
+2023,11/19,Navy Classic,165,W,DEC,8 - 3,Chase Barlow,78732,Bucknell,Enrique Munguia,73500,Kent State
+2023,11/19,Navy Classic,165,W,TF5,18 - 3 5:39,Brodie Porter,79293,The Citadel,Enrique Munguia,73500,Kent State
+2023,11/19,Navy Classic,165,W,MD,10 - 1,Jaden Hardrick,65048,Davidson,Enrique Munguia,73500,Kent State
+2023,11/12,Appalachian State Invitational,165,W,MFOR,0 - 0,Aidan Faria,73313,Kent State,Enrique Munguia,73500,Kent State
+2023,11/12,Appalachian State Invitational,165,W,FALL,3:57,Sean O'dwyer,66628,Ohio,Enrique Munguia,73500,Kent State
+2023,11/12,Appalachian State Invitational,165,W,DEC,6 - 3,Rodrick Mosley,50889,Gardner-Webb,Enrique Munguia,73500,Kent State
+2023,11/12,Appalachian State Invitational,165,L,DEC,6 - 4,Rodrick Mosley,50889,Gardner-Webb,Enrique Munguia,73500,Kent State
+2023,11/12,Appalachian State Invitational,165,W,MD,13 - 3,William Formato,57034,Appalachian State,Enrique Munguia,73500,Kent State
+2023,11/12,Appalachian State Invitational,165,W,DEC,7 - 4,Jack Ganos,68695,Air Force,Enrique Munguia,73500,Kent State
+2023,11/06,Clarion Open,165,W,DEC,6 - 3,Ben Shvartsman,78498,Spartan Combat RTC,Enrique Munguia,73500,Kent State
+2023,11/06,Clarion Open,165,W,DEC,6 - 4,Jon Park,60226,Navy,Enrique Munguia,73500,Kent State
+2023,11/06,Clarion Open,165,W,DEC,9 - 3,Gaven Bell,72136,Maryland,Enrique Munguia,73500,Kent State
+2023,11/06,Clarion Open,165,W,DEC,10 - 6,Stoney Buell,72153,Purdue,Enrique Munguia,73500,Kent State
+2023,02/12,JCU Open,174,L,SV-1,3 - 1,Josh Knudten,76949,Michigan,Aidan Faria,73313,Kent State
+2023,02/12,JCU Open,174,W,MD,9 - 0,Andrew Sharer,67440,West Virginia,Aidan Faria,73313,Kent State
+2023,02/12,JCU Open,174,L,FALL,5:40,Kamal Adewumi,60766,Ohio,Aidan Faria,73313,Kent State
+2023,01/06,David Lehman Open,165,L,MD,8 - 0,Dakota Morris,73960,United States Military Academy,Aidan Faria,73313,Kent State
+2023,01/06,David Lehman Open,165,L,DEC,4 - 0,Bryce Sanderlin,63711,Davidson,Aidan Faria,73313,Kent State
+2023,12/11,Cleveland State Open,165,L,DEC,8 - 7,Caleb Cass,57214,Cleveland State,Aidan Faria,73313,Kent State
+2023,12/11,Cleveland State Open,165,L,SV-1,8 - 6,Coy Bastian,71757,Bucknell,Aidan Faria,73313,Kent State
+2023,11/12,Appalachian State Invitational,165,L,MFOR,0 - 0,Enrique Munguia,73500,Kent State,Aidan Faria,73313,Kent State
+2023,11/12,Appalachian State Invitational,165,L,MD,13 - 1,William Formato,57034,Appalachian State,Aidan Faria,73313,Kent State
+2023,11/06,Clarion Open,165,L,MD,15 - 6,Stoney Buell,72153,Purdue,Aidan Faria,73313,Kent State
+2023,11/06,Clarion Open,165,L,DEC,9 - 3,Eli Brinsky,67110,Clarion,Aidan Faria,73313,Kent State
+2023,11/06,Clarion Open,165,W,DEC,7 - 1,Chase Barlow,78732,Bucknell,Aidan Faria,73313,Kent State
+2023,11/06,Clarion Open,165,W,FALL,1:35,Nicholas Arbes,72508,Bucknell,Aidan Faria,73313,Kent State
+2023,03/03,MAC Championships,174,L,MD,10 - 2,Logan Messer,71846,George Mason,Mason Karpinski,63010,Kent State
+2023,03/03,MAC Championships,174,L,FALL,4:47,JR Reed,78598,Cleveland State,Mason Karpinski,63010,Kent State
+2023,02/12,Bloomsburg - Kent State Dual,174,W,DEC,4 - 1,Anthony Derosa,74515,Bloomsburg,Mason Karpinski,63010,Kent State
+2023,01/06,David Lehman Open,174,L,DEC,11 - 5,Reed Douglass,80038,Presbyterian,Mason Karpinski,63010,Kent State
+2023,01/06,David Lehman Open,174,L,DEC,8 - 4,Zachary Wells,67829,Presbyterian,Mason Karpinski,63010,Kent State
+2023,01/06,David Lehman Open,174,W,DEC,9 - 3,Corey Connolly,62210,Rider,Mason Karpinski,63010,Kent State
+2023,11/19,Navy Classic,174,L,FALL,1:46,Tyler Stoltzfus,65398,Lock Haven,Mason Karpinski,63010,Kent State
+2023,11/19,Navy Classic,174,L,DEC,10 - 9,Kamal Adewumi,60766,Ohio,Mason Karpinski,63010,Kent State
+2023,11/12,Appalachian State Invitational,174,L,MD,12 - 1,Victor Marcelli,50587,Virginia,Mason Karpinski,63010,Kent State
+2023,11/12,Appalachian State Invitational,174,L,MD,14 - 4,Brett Mordecai,61869,Appalachian State,Mason Karpinski,63010,Kent State
+2023,02/09,Kent State - Cleveland State Dual,174,W,INJ,0:14,JR Reed,78598,Cleveland State,Michael Ferree,56368,Kent State
+2023,02/05,Kent State - Central Michigan Dual,174,L,DEC,9 - 6,Alex Cramer,56732,Central Michigan,Michael Ferree,56368,Kent State
+2023,02/03,Kent State - Ohio Dual,174,L,FALL,1:51,Garrett Thompson,73169,Ohio,Michael Ferree,56368,Kent State
+2023,01/22,Kent State - Buffalo Dual,174,L,SV-1,7 - 5,Jay Nivison,65850,Buffalo,Michael Ferree,56368,Kent State
+2023,01/14,Kent State - Navy Dual,174,L,FALL,2:44,Sammy Starr,73336,Navy,Michael Ferree,56368,Kent State
+2023,01/13,Kent State - Campbell Dual,174,W,DEC,3 - 2,Cole Rees,71005,Campbell,Michael Ferree,56368,Kent State
+2023,12/18,Northern Illinois - Kent State Dual,174,L,MD,16 - 5,Hayden Pummel,73344,Northern Illinois,Michael Ferree,56368,Kent State
+2023,12/11,Kent State - Ohio State Dual,174,L,TF5,21 - 6 7:00,Ethan Smith,50025,Ohio State,Michael Ferree,56368,Kent State
+2023,12/02,Cliff Keen Invitational,174,L,DEC,3 - 2,Gage Musser,71710,Air Force,Michael Ferree,56368,Kent State
+2023,12/02,Cliff Keen Invitational,174,L,FALL,4:18,Sam Barnes,63005,Bucknell,Michael Ferree,56368,Kent State
+2023,11/19,Navy Classic,174,L,DEC,7 - 3,Elise Brown Ton,67059,Nebraska,Michael Ferree,56368,Kent State
+2023,11/19,Navy Classic,174,L,DEC,8 - 2,Tyler Stoltzfus,65398,Lock Haven,Michael Ferree,56368,Kent State
+2023,11/19,Navy Classic,174,W,DEC,6 - 5,Sam Barnes,63005,Bucknell,Michael Ferree,56368,Kent State
+2023,11/12,Appalachian State Invitational,174,L,DEC,3 - 2,Sal Perrine,73171,Ohio,Michael Ferree,56368,Kent State
+2023,11/12,Appalachian State Invitational,174,L,DEC,13 - 7,Sam Wolf,66631,Air Force,Michael Ferree,56368,Kent State
+2023,02/12,JCU Open,174,L,MD,14 - 1,Josh Knudten,76949,Michigan,Mitchell Broskie,75819,Kent State
+2023,02/12,JCU Open,174,L,MD,12 - 1,Jared McGill,50995,Edinboro,Mitchell Broskie,75819,Kent State
+2023,02/05,Edinboro Open,174,W,DEC,7 - 4,Andrew Sharer,67440,West Virginia,Mitchell Broskie,75819,Kent State
+2023,02/05,Edinboro Open,174,L,MD,11 - 2,Will Ebert,76486,Binghamton,Mitchell Broskie,75819,Kent State
+2023,02/05,Edinboro Open,174,W,FALL,5:00,Angelo Esposito,77762,Rider,Mitchell Broskie,75819,Kent State
+2023,02/05,Edinboro Open,174,L,FALL,2:24,Tyler Stoltzfus,65398,Lock Haven,Mitchell Broskie,75819,Kent State
+2023,01/06,David Lehman Open,174,W,MD,9 - 0,Braden Newby,79561,Millersville,Mitchell Broskie,75819,Kent State
+2023,01/06,David Lehman Open,174,W,DEC,3 - 2,Andrew Vogelbacher,72633,Millersville,Mitchell Broskie,75819,Kent State
+2023,01/06,David Lehman Open,174,L,MD,11 - 0,Dylan Reinert,63029,NC State,Mitchell Broskie,75819,Kent State
+2023,01/06,David Lehman Open,174,L,MD,11 - 2,Alex Whitworth,71873,Harvard,Mitchell Broskie,75819,Kent State
+2023,12/11,Cleveland State Open,174,L,FALL,4:24,Rollie Denker,79315,Michigan State,Mitchell Broskie,75819,Kent State
+2023,12/11,Cleveland State Open,174,L,MD,9 - 0,Marty Larkin,69873,Michigan State,Mitchell Broskie,75819,Kent State
+2023,11/12,App State Open,174,W,DEC,12 - 5,Aaron Bancroft,71047,Mount Olive,Mitchell Broskie,75819,Kent State
+2023,11/12,App State Open,174,L,FALL,0:55,Aaron Bancroft,71047,Mount Olive,Mitchell Broskie,75819,Kent State
+2023,11/12,App State Open,174,W,DEC,12 - 7,Colby Teague,63521,Mount Olive,Mitchell Broskie,75819,Kent State
+2023,11/12,App State Open,174,L,TF5,16 - 0 4:20,Rocco Contino,70927,Virginia,Mitchell Broskie,75819,Kent State
+2023,01/29,Clarion - Kent State Dual,174,L,FALL,1:03,John Worthing,61847,Clarion,Ashton Breen,70281,Kent State
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,174,L,DEC,6 - 3,Chase Diehl,60388,SIU Edwardsville,Ashton Breen,70281,Kent State
+2023,01/14,Kent State - Virginia Dual,174,L,DEC,5 - 1,Victor Marcelli,50587,Virginia,Ashton Breen,70281,Kent State
+2023,01/13,South Dakota State - Kent State Dual,174,L,TF5,25 - 8 7:00,Cade DeVos,57072,South Dakota State,Ashton Breen,70281,Kent State
+2023,01/06,David Lehman Open,174,L,MD,14 - 3,Brock Delsignore,71935,NC State,Ashton Breen,70281,Kent State
+2023,01/06,David Lehman Open,174,L,MD,14 - 4,Michael Kistler,56735,Pennsylvania,Ashton Breen,70281,Kent State
+2023,01/06,David Lehman Open,174,W,DEC,3 - 2,Patrick Adams,73392,Campbell,Ashton Breen,70281,Kent State
+2023,12/11,Cleveland State Open,174,W,MD,12 - 0,Cole Tolley,83141,Unattached,Ashton Breen,70281,Kent State
+2023,12/11,Cleveland State Open,174,L,FALL,1:04,Max Maylor,56310,Michigan,Ashton Breen,70281,Kent State
+2023,12/11,Cleveland State Open,174,W,DEC,5 - 2,Ronald Dimmerling,78754,Cleveland State,Ashton Breen,70281,Kent State
+2023,12/11,Cleveland State Open,174,L,MD,12 - 2,Leonardo Galasso,73722,Central Michigan,Ashton Breen,70281,Kent State
+2023,11/19,Navy Classic,184,W,DEC,7 - 0,Mason Clem,72514,Ohio,Ashton Breen,70281,Kent State
+2023,11/19,Navy Classic,184,L,MD,19 - 7,Lenny Pinto,63137,Nebraska,Ashton Breen,70281,Kent State
+2023,11/19,Navy Classic,184,L,FALL,1:33,Hunter Johns,62914,Navy,Ashton Breen,70281,Kent State
+2023,11/12,Appalachian State Invitational,184,L,MD,14 - 6,Brook Byers,77775,Stanford,Ashton Breen,70281,Kent State
+2023,11/12,Appalachian State Invitational,184,L,FALL,4:51,Neil Antrassian,56202,Virginia,Ashton Breen,70281,Kent State
+2023,11/12,Appalachian State Invitational,184,W,DEC,8 - 4,Andrew Wenzel,71713,Air Force,Ashton Breen,70281,Kent State
+2023,11/06,Clarion Open,184,L,SV-1,9 - 7,Nick Meglino,62803,Pittsburgh,Ashton Breen,70281,Kent State
+2023,11/06,Clarion Open,184,L,FALL,1:02,David Key,56717,Navy,Ashton Breen,70281,Kent State
+2023,11/06,Clarion Open,184,W,DEC,8 - 2,Mitch Hutmacher,67388,Purdue,Ashton Breen,70281,Kent State
+2023,12/11,Cleveland State Open,174,L,FALL,0:41,Scott Joll,62424,West Virginia,Sean Billups,63011,Kent State
+2023,12/11,Cleveland State Open,174,L,FALL,4:15,Lance Schyck,79056,Central Michigan,Sean Billups,63011,Kent State
+2023,11/06,Clarion Open,174,L,DEC,7 - 5,Chase Cordia,77719,Clarion,Sean Billups,63011,Kent State
+2023,11/06,Clarion Open,174,L,FALL,7:00,John Worthing,61847,Clarion,Sean Billups,63011,Kent State
+2023,03/03,MAC Championships,184,L,DEC,4 - 2,Matt Zuber,66265,Northern Illinois,Tyler Bates,56413,Kent State
+2023,03/03,MAC Championships,184,L,MD,15 - 1,Malachi Duvall,72189,George Mason,Tyler Bates,56413,Kent State
+2023,02/12,Bloomsburg - Kent State Dual,184,W,DEC,6 - 0,Bruno Stolfi,60224,Bloomsburg,Tyler Bates,56413,Kent State
+2023,02/09,Kent State - Cleveland State Dual,184,L,DEC,5 - 2,Deandre Nassar,62202,Cleveland State,Tyler Bates,56413,Kent State
+2023,02/05,Kent State - Central Michigan Dual,184,L,SV-1,4 - 2,Ben Cushman,57359,Central Michigan,Tyler Bates,56413,Kent State
+2023,02/03,Kent State - Ohio Dual,184,L,DEC,9 - 3,Zayne Lehman,71781,Ohio,Tyler Bates,56413,Kent State
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,184,W,DEC,8 - 1,Sergio Villalobos,57005,SIU Edwardsville,Tyler Bates,56413,Kent State
+2023,01/22,Kent State - Buffalo Dual,184,L,DEC,14 - 8,Guiseppe Hoose,56371,Buffalo,Tyler Bates,56413,Kent State
+2023,01/14,Kent State - Navy Dual,184,L,DEC,6 - 1,David Key,56717,Navy,Tyler Bates,56413,Kent State
+2023,01/14,Kent State - Virginia Dual,184,L,DEC,9 - 2,Hadyn Danals,73055,Virginia,Tyler Bates,56413,Kent State
+2023,01/13,South Dakota State - Kent State Dual,184,L,DEC,6 - 3,Cade King,62671,South Dakota State,Tyler Bates,56413,Kent State
+2023,01/13,Kent State - Campbell Dual,184,L,DEC,6 - 2,Caleb Hopkins,56482,Campbell,Tyler Bates,56413,Kent State
+2023,12/18,Northern Illinois - Kent State Dual,184,L,DEC,2 - 0,Matt Zuber,66265,Northern Illinois,Tyler Bates,56413,Kent State
+2023,12/11,Kent State - Ohio State Dual,184,L,TF5,25 - 10 7:00,Kaleb Romero,49252,Ohio State,Tyler Bates,56413,Kent State
+2023,12/02,Cliff Keen Invitational,184,L,DEC,5 - 3,Trey Munoz,59555,Oregon State,Tyler Bates,56413,Kent State
+2023,12/02,Cliff Keen Invitational,184,L,FALL,6:09,David Key,56717,Navy,Tyler Bates,56413,Kent State
+2023,11/19,Navy Classic,184,W,DEC,7 - 2,Kael Wisler,79317,Michigan State,Tyler Bates,56413,Kent State
+2023,11/19,Navy Classic,184,L,SV-1,4 - 2,Colin Fegley,63035,Lock Haven,Tyler Bates,56413,Kent State
+2023,11/19,Navy Classic,184,L,DEC,5 - 2,Noah Blake,57245,Air Force,Tyler Bates,56413,Kent State
+2023,11/12,Appalachian State Invitational,184,L,FALL,6:33,Hadyn Danals,73055,Virginia,Tyler Bates,56413,Kent State
+2023,11/12,Appalachian State Invitational,184,L,DEC,5 - 0,Zayne Lehman,71781,Ohio,Tyler Bates,56413,Kent State
+2023,12/11,Cleveland State Open,184,L,TF5,16 - 0 1:56,Gavin Bell,65314,Ohio State,AJ Baxter,78105,Kent State
+2023,12/11,Cleveland State Open,184,L,MD,15 - 4,Krystian Kinsey,57061,Virginia,AJ Baxter,78105,Kent State
+2023,11/19,Findlay Open,184,L,MD,9 - 1,Dean Hetrick,79597,Tiffin University,AJ Baxter,78105,Kent State
+2023,11/19,Findlay Open,184,W,MD,10 - 2,Iran Love,71589,Tiffin University,AJ Baxter,78105,Kent State
+2023,11/19,Findlay Open,184,L,TF5,17 - 2 7:00,Eric Vermillion,58710,Indiana Tech,AJ Baxter,78105,Kent State
+2023,11/06,Clarion Open,184,L,MD,14 - 1,Noah Gnibus,79425,Pitt-Johnstown,AJ Baxter,78105,Kent State
+2023,11/06,Clarion Open,184,L,FALL,4:46,Ben Vanadia,68732,Purdue,AJ Baxter,78105,Kent State
+2023,02/16,Thursday Throw Down,184,W,DEC,7 - 5,Anthony Glessner,78665,Gannon,Mike Caniglia,63012,Kent State
+2023,02/16,Thursday Throw Down,184,W,FALL,4:32,Logan Gross,78638,Gannon,Mike Caniglia,63012,Kent State
+2023,01/29,Clarion - Kent State Dual,184,L,DEC,6 - 0,Will Feldkamp,51599,Clarion,Mike Caniglia,63012,Kent State
+2023,01/06,David Lehman Open,184,L,DEC,4 - 0,David Key,56717,Navy,Mike Caniglia,63012,Kent State
+2023,01/06,David Lehman Open,184,L,DEC,6 - 3,Drake Buchanan,79035,Air Force,Mike Caniglia,63012,Kent State
+2023,11/19,Navy Classic,184,L,FALL,2:18,Layne Malczewski,51828,Michigan State,Mike Caniglia,63012,Kent State
+2023,11/19,Navy Classic,184,W,DEC,10 - 5,Isaac Dolph,67425,VMI,Mike Caniglia,63012,Kent State
+2023,11/19,Navy Classic,184,L,DEC,4 - 1,Noah Blake,57245,Air Force,Mike Caniglia,63012,Kent State
+2023,11/06,Clarion Open,184,L,FALL,5:34,Hunter Johns,62914,Navy,Mike Caniglia,63012,Kent State
+2023,11/06,Clarion Open,184,L,MD,11 - 2,Will Feldkamp,51599,Clarion,Mike Caniglia,63012,Kent State
+2023,03/03,MAC Championships,197,L,DEC,8 - 7,Cameron Wood,73724,Central Michigan,Blake Schaffer,79797,Kent State
+2023,03/03,MAC Championships,197,L,DEC,12 - 7,Anthony Perrine,49135,Cleveland State,Blake Schaffer,79797,Kent State
+2023,03/03,MAC Championships,197,L,DEC,4 - 0,Tyler Bagoly,49098,Clarion,Blake Schaffer,79797,Kent State
+2023,03/03,MAC Championships,197,W,FALL,1:32,Tanner Culver,62461,Bloomsburg,Blake Schaffer,79797,Kent State
+2023,02/09,Kent State - Cleveland State Dual,197,L,DEC,3 - 1,Anthony Perrine,49135,Cleveland State,Blake Schaffer,79797,Kent State
+2023,02/05,Kent State - Central Michigan Dual,197,W,DEC,7 - 3,Cameron Wood,73724,Central Michigan,Blake Schaffer,79797,Kent State
+2023,02/03,Kent State - Ohio Dual,197,L,MD,12 - 2,Carson Brewer,60286,Ohio,Blake Schaffer,79797,Kent State
+2023,01/29,Clarion - Kent State Dual,197,L,DEC,5 - 1,Tyler Bagoly,49098,Clarion,Blake Schaffer,79797,Kent State
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,197,L,MD,14 - 3,Ryan Yarnell,57006,SIU Edwardsville,Blake Schaffer,79797,Kent State
+2023,01/22,Kent State - Buffalo Dual,197,W,FALL,5:52,Sam Mitchell,61028,Buffalo,Blake Schaffer,79797,Kent State
+2023,01/14,Kent State - Navy Dual,197,L,MD,15 - 2,Jake Koser,50890,Navy,Blake Schaffer,79797,Kent State
+2023,01/14,Kent State - Virginia Dual,197,L,DEC,12 - 8,Michael Battista,51672,Virginia,Blake Schaffer,79797,Kent State
+2023,01/13,South Dakota State - Kent State Dual,197,L,FALL,1:19,Tanner Sloan,56251,South Dakota State,Blake Schaffer,79797,Kent State
+2023,01/13,Kent State - Campbell Dual,197,L,FALL,6:05,Levi Hopkins,62508,Campbell,Blake Schaffer,79797,Kent State
+2023,01/06,David Lehman Open,197,W,MD,11 - 3,Brad Morrison,78739,Lock Haven,Blake Schaffer,79797,Kent State
+2023,01/06,David Lehman Open,197,W,DEC,9 - 3,Liam Volk-Klos,78524,American,Blake Schaffer,79797,Kent State
+2023,01/06,David Lehman Open,197,L,DEC,6 - 4,Jacob Lucas,72192,Navy,Blake Schaffer,79797,Kent State
+2023,01/06,David Lehman Open,197,W,DEC,12 - 5,Sungyup Ryu,62737,Unattached,Blake Schaffer,79797,Kent State
+2023,01/06,David Lehman Open,197,W,MFOR,0 - 0,Sean O'Malley,49121,Drexel,Blake Schaffer,79797,Kent State
+2023,01/06,David Lehman Open,197,W,MFOR,0 - 0,Gavin Henry,61929,Davidson,Blake Schaffer,79797,Kent State
+2023,01/06,David Lehman Open,197,L,FALL,0:38,Calvin Sund,57634,Air Force,Blake Schaffer,79797,Kent State
+2023,12/18,Northern Illinois - Kent State Dual,197,W,DEC,3 - 1,Jacob Christiansen,73347,Northern Illinois,Blake Schaffer,79797,Kent State
+2023,12/11,Cleveland State Open,197,W,TF5,20 - 5 6:57,Jai Sodhi,83280,Unattached,Blake Schaffer,79797,Kent State
+2023,12/11,Cleveland State Open,197,W,DEC,9 - 5,Geoff Magin,62874,Pittsburgh,Blake Schaffer,79797,Kent State
+2023,12/11,Cleveland State Open,197,L,DEC,6 - 5,Ben Smith,56236,Cleveland State,Blake Schaffer,79797,Kent State
+2023,12/11,Cleveland State Open,197,W,DEC,7 - 6,Cameron Wood,73724,Central Michigan,Blake Schaffer,79797,Kent State
+2023,12/11,Cleveland State Open,197,L,DEC,2 - 0,Cade Dallwitz,60002,Central Michigan,Blake Schaffer,79797,Kent State
+2023,12/02,Cliff Keen Invitational,197,L,DEC,12 - 6,Hayden Filipovich,71689,Purdue,Blake Schaffer,79797,Kent State
+2023,12/02,Cliff Keen Invitational,197,L,FALL,1:32,Tyler Bagoly,49098,Clarion,Blake Schaffer,79797,Kent State
+2023,11/19,Navy Classic,197,L,FALL,4:54,Jacob Lee,72196,Michigan State,Blake Schaffer,79797,Kent State
+2023,11/19,Navy Classic,197,W,DEC,7 - 3,Ryan Boyle,62134,Kent State,Blake Schaffer,79797,Kent State
+2023,11/19,Navy Classic,197,L,DEC,11 - 4,Mason McCready,57223,Bucknell,Blake Schaffer,79797,Kent State
+2023,11/19,Navy Classic,197,W,DEC,11 - 4,Patrick Brophy,78688,The Citadel,Blake Schaffer,79797,Kent State
+2023,11/12,Appalachian State Invitational,197,L,DEC,4 - 2,Austin Starr,76357,Ohio,Blake Schaffer,79797,Kent State
+2023,11/12,Appalachian State Invitational,197,W,DEC,6 - 1,Jack Kilner,65375,Edinboro,Blake Schaffer,79797,Kent State
+2023,11/12,Appalachian State Invitational,197,L,FALL,2:44,Calvin Sund,57634,Air Force,Blake Schaffer,79797,Kent State
+2023,11/12,Appalachian State Invitational,197,L,DEC,8 - 6,Calvin Sund,57634,Air Force,Blake Schaffer,79797,Kent State
+2023,01/06,David Lehman Open,197,W,MD,11 - 1,Larry Vola,79092,Maryland,Ryan Boyle,62134,Kent State
+2023,01/06,David Lehman Open,197,L,DEC,3 - 2,Sam Wustefeld,57272,Columbia,Ryan Boyle,62134,Kent State
+2023,01/06,David Lehman Open,197,L,DEC,3 - 2,Wolfgang Frable,78566,Army West Point,Ryan Boyle,62134,Kent State
+2023,12/11,Kent State - Ohio State Dual,197,L,TF5,21 - 6 5:48,Gavin Hoffman,50609,Ohio State,Ryan Boyle,62134,Kent State
+2023,11/19,Navy Classic,197,L,DEC,7 - 3,Blake Schaffer,79797,Kent State,Ryan Boyle,62134,Kent State
+2023,11/19,Navy Classic,197,L,DEC,2 - 0,Michael Bartush,72602,Bucknell,Ryan Boyle,62134,Kent State
+2023,11/12,Appalachian State Invitational,197,L,DEC,8 - 2,Nick Stemmet,63032,Stanford,Ryan Boyle,62134,Kent State
+2023,11/12,Appalachian State Invitational,197,L,DEC,6 - 4,Samuel Mora,62408,Gardner-Webb,Ryan Boyle,62134,Kent State
+2023,11/06,Clarion Open,197,L,MFOR,0 - 0,Geoff Magin,62874,Pittsburgh,Ryan Boyle,62134,Kent State
+2023,11/06,Clarion Open,197,L,DEC,10 - 4,Samuel Mora,62408,Gardner-Webb,Ryan Boyle,62134,Kent State
+2023,11/06,Clarion Open,197,W,DEC,3 - 2,Brett Wittmann,66633,Clarion,Ryan Boyle,62134,Kent State
+2023,02/16,Thursday Throw Down,197,L,FALL,0:52,Trent Tidball,67146,Gannon,Spencer Vos,79798,Kent State
+2023,02/16,Thursday Throw Down,197,L,DEC,3 - 2,Lonnell Owens-Pabon,78784,Edinboro,Spencer Vos,79798,Kent State
+2023,02/12,JCU Open,197,L,FALL,2:56,Kael Wisler,79317,Michigan State,Spencer Vos,79798,Kent State
+2023,02/12,JCU Open,197,W,DEC,5 - 3,Lance Trost,79006,Michigan,Spencer Vos,79798,Kent State
+2023,02/12,JCU Open,197,L,SV-1,3 - 1,Nathan Wickersham,73381,West Virginia,Spencer Vos,79798,Kent State
+2023,02/05,Edinboro Open,197,L,SV-1,4 - 2,Miles Ashbaugh,79796,Kent State,Spencer Vos,79798,Kent State
+2023,02/05,Edinboro Open,197,L,DEC,7 - 0,Tyler Bagoly,49098,Clarion,Spencer Vos,79798,Kent State
+2023,12/11,Cleveland State Open,197,W,DEC,8 - 3,Andrew Oster,80671,Toledo,Spencer Vos,79798,Kent State
+2023,12/11,Cleveland State Open,197,L,TF5,19 - 1 4:56,Evan Bates,72133,Northwestern,Spencer Vos,79798,Kent State
+2023,12/11,Cleveland State Open,197,L,DEC,6 - 4,Cade Dallwitz,60002,Central Michigan,Spencer Vos,79798,Kent State
+2023,11/19,Findlay Open,197,L,DEC,6 - 1,Nate Critchfield,82611,Indiana Tech,Spencer Vos,79798,Kent State
+2023,11/19,Findlay Open,197,L,DEC,3 - 2,Parker Bentley,79107,West Liberty University,Spencer Vos,79798,Kent State
+2023,11/06,Clarion Open,197,L,MD,11 - 3,Joshua McCutchen,75730,Gardner-Webb,Spencer Vos,79798,Kent State
+2023,11/06,Clarion Open,197,L,MD,10 - 2,Mason McCready,57223,Bucknell,Spencer Vos,79798,Kent State
+2023,02/12,JCU Open,197,L,DEC,7 - 1,Marvelous Rutledge,78402,Notre Dame,Miles Ashbaugh,79796,Kent State
+2023,02/12,JCU Open,197,L,DEC,3 - 2,Nathan Wickersham,73381,West Virginia,Miles Ashbaugh,79796,Kent State
+2023,02/05,Edinboro Open,197,L,DEC,3 - 2,Dante Hoose,81067,Lehigh,Miles Ashbaugh,79796,Kent State
+2023,02/05,Edinboro Open,197,W,SV-1,4 - 2,Spencer Vos,79798,Kent State,Miles Ashbaugh,79796,Kent State
+2023,02/05,Edinboro Open,197,L,MD,11 - 2,Hayden Linkerhof,78513,Bucknell,Miles Ashbaugh,79796,Kent State
+2023,01/15,Purple Raider Open,197,L,DEC,4 - 1,Jack Cummings,79007,Michigan,Miles Ashbaugh,79796,Kent State
+2023,01/15,Purple Raider Open,197,L,MD,12 - 2,Brendan Finnerty,69613,Seton Hill,Miles Ashbaugh,79796,Kent State
+2023,01/06,David Lehman Open,197,L,DEC,4 - 1,Nikolas Miller,73028,Hofstra,Miles Ashbaugh,79796,Kent State
+2023,01/06,David Lehman Open,197,W,DEC,5 - 3,Daniel Bittner,78814,Harvard,Miles Ashbaugh,79796,Kent State
+2023,01/06,David Lehman Open,197,L,MD,8 - 0,Gavin Henry,61929,Davidson,Miles Ashbaugh,79796,Kent State
+2023,12/11,Cleveland State Open,197,L,MD,14 - 5,Jai Sodhi,83280,Unattached,Miles Ashbaugh,79796,Kent State
+2023,12/11,Cleveland State Open,197,L,FALL,4:42,Anthony Perrine,49135,Cleveland State,Miles Ashbaugh,79796,Kent State
+2023,11/12,App State Open,197,L,FALL,1:32,Colden Dorfman,73056,Virginia,Miles Ashbaugh,79796,Kent State
+2023,11/12,App State Open,197,L,TF5,22 - 5 7:00,Joshua McCutchen,75730,Gardner-Webb,Miles Ashbaugh,79796,Kent State
+2023,11/06,Clarion Open,197,W,FALL,5:32,Andy Rosa,81117,Spartan Combat RTC,Miles Ashbaugh,79796,Kent State
+2023,11/06,Clarion Open,197,L,DEC,10 - 3,Jacob Lucas,72192,Navy,Miles Ashbaugh,79796,Kent State
+2023,11/06,Clarion Open,197,L,FALL,1:34,Aaron Wolk,62364,Brown,Miles Ashbaugh,79796,Kent State
+2023,03/03,MAC Championships,285,W,MFOR,0 - 0,Shane Noonan,58615,Bloomsburg,Jacob Cover,57237,Kent State
+2023,03/03,MAC Championships,285,L,DEC,4 - 1,Bryan Caves,71791,Central Michigan,Jacob Cover,57237,Kent State
+2023,03/03,MAC Championships,285,W,DEC,2 - 0,Donovan Sprouse,78363,George Mason,Jacob Cover,57237,Kent State
+2023,03/03,MAC Championships,285,L,DEC,6 - 3,Shane Noonan,58615,Bloomsburg,Jacob Cover,57237,Kent State
+2023,02/12,Bloomsburg - Kent State Dual,285,L,FALL,4:45,Shane Noonan,58615,Bloomsburg,Jacob Cover,57237,Kent State
+2023,02/09,Kent State - Cleveland State Dual,285,L,DEC,4 - 2,Daniel Bucknavich,62488,Cleveland State,Jacob Cover,57237,Kent State
+2023,02/05,Kent State - Central Michigan Dual,285,W,DEC,3 - 0,Simon Lato,70019,Central Michigan,Jacob Cover,57237,Kent State
+2023,02/03,Kent State - Ohio Dual,285,W,DEC,8 - 1,Jacob Padilla,62517,Ohio,Jacob Cover,57237,Kent State
+2023,01/29,Clarion - Kent State Dual,285,L,DEC,8 - 6,Austin Chapman,63708,Clarion,Jacob Cover,57237,Kent State
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,285,L,DEC,6 - 0,Colton McKiernan,57003,SIU Edwardsville,Jacob Cover,57237,Kent State
+2023,01/22,Kent State - Buffalo Dual,285,L,DEC,6 - 2,Eli Sheeran,71783,Buffalo,Jacob Cover,57237,Kent State
+2023,01/14,Kent State - Navy Dual,285,W,DEC,7 - 4,Ryan Catka,72191,Navy,Jacob Cover,57237,Kent State
+2023,01/14,Kent State - Virginia Dual,285,W,DEC,9 - 4,Ethan Weatherspoon,60762,Virginia,Jacob Cover,57237,Kent State
+2023,01/13,South Dakota State - Kent State Dual,285,L,FALL,4:38,AJ Nevills,47810,South Dakota State,Jacob Cover,57237,Kent State
+2023,01/13,Kent State - Campbell Dual,285,L,DEC,10 - 7,Taye Ghadiali,62500,Campbell,Jacob Cover,57237,Kent State
+2023,12/18,Northern Illinois - Kent State Dual,285,W,SV-1,4 - 2,Terrese Aaron,51827,Northern Illinois,Jacob Cover,57237,Kent State
+2023,12/11,Kent State - Ohio State Dual,285,L,DEC,9 - 2,Michael Misita,72583,Ohio State,Jacob Cover,57237,Kent State
+2023,12/02,Cliff Keen Invitational,285,W,DEC,3 - 0,Terren Swartz,57983,Wyoming,Jacob Cover,57237,Kent State
+2023,12/02,Cliff Keen Invitational,285,L,TF5,16 - 1 3:00,Wyatt Hendrickson,56694,Air Force,Jacob Cover,57237,Kent State
+2023,12/02,Cliff Keen Invitational,285,L,FALL,0:16,Tate Orndorff,50974,Ohio State,Jacob Cover,57237,Kent State
+2023,11/19,Navy Classic,285,W,DEC,5 - 2,Nick West,73022,Michigan State,Jacob Cover,57237,Kent State
+2023,11/19,Navy Classic,285,L,MD,16 - 3,Grady Griess,63170,Navy,Jacob Cover,57237,Kent State
+2023,11/19,Navy Classic,285,W,DEC,2 - 0,Luke Niemeyer,57205,Bucknell,Jacob Cover,57237,Kent State
+2023,11/19,Navy Classic,285,W,DEC,6 - 3,Jonathan Chesser,73052,The Citadel,Jacob Cover,57237,Kent State
+2023,11/19,Navy Classic,285,L,DEC,9 - 2,William Jarrell,62907,American,Jacob Cover,57237,Kent State
+2023,11/12,Appalachian State Invitational,285,W,DEC,7 - 2,Jacob Padilla,62517,Ohio,Jacob Cover,57237,Kent State
+2023,11/12,Appalachian State Invitational,285,L,DEC,6 - 2,Nick Lodato,72606,Edinboro,Jacob Cover,57237,Kent State
+2023,11/12,Appalachian State Invitational,285,L,SV-1,3 - 1,Jacob Sartorio,65393,Appalachian State,Jacob Cover,57237,Kent State
+2023,01/06,David Lehman Open,285,L,DEC,4 - 0,Vincenzo Pelusi,50112,Franklin & Marshall,Josh Boggan,79799,Kent State
+2023,01/06,David Lehman Open,285,L,DEC,8 - 1,Jake Fernicola,62822,Davidson,Josh Boggan,79799,Kent State
+2023,12/11,Cleveland State Open,285,L,MD,14 - 5,Jacob Bullock,57724,Indiana,Josh Boggan,79799,Kent State
+2023,12/11,Cleveland State Open,285,L,DEC,6 - 0,Simon Lato,70019,Central Michigan,Josh Boggan,79799,Kent State
+2023,11/19,Findlay Open,285,W,FALL,1:32,Ian Clifford,81987,Indiana Tech,Josh Boggan,79799,Kent State
+2023,11/19,Findlay Open,285,L,DEC,7 - 1,Clay Ours,74427,Tiffin University,Josh Boggan,79799,Kent State
+2023,11/19,Findlay Open,285,W,FALL,0:47,Jay Thompson,67583,Indianapolis,Josh Boggan,79799,Kent State
+2023,11/19,Findlay Open,285,L,DEC,3 - 1,Keigan Yuhas,58128,Findlay,Josh Boggan,79799,Kent State
+2023,11/06,Clarion Open,285,W,DEC,7 - 1,Shawn Loring,81119,Slippery Rock,Josh Boggan,79799,Kent State
+2023,11/06,Clarion Open,285,L,FALL,2:31,Ryan Ellefsen,81105,SUNY Sullivan,Josh Boggan,79799,Kent State
+2023,11/06,Clarion Open,285,W,TF5,20 - 5 7:00,Eric Gamble,74015,Pitt-Johnstown,Josh Boggan,79799,Kent State
+2023,11/06,Clarion Open,285,L,DEC,4 - 0,Kade Sottolano,78785,Edinboro,Josh Boggan,79799,Kent State
+2023,12/11,Cleveland State Open,285,L,DEC,5 - 2,Jacob Meek,69734,Toledo,Riley Ucker,79800,Kent State
+2023,12/11,Cleveland State Open,285,L,SV-1,3 - 1,Justin Jaeckin,67043,Cleveland State,Riley Ucker,79800,Kent State
+2023,11/19,Findlay Open,285,L,DEC,6 - 1,Cale Gray,67581,Indianapolis,Riley Ucker,79800,Kent State
+2023,11/19,Findlay Open,285,W,DEC,9 - 4,Jamie Kilmer,67230,West Liberty University,Riley Ucker,79800,Kent State
+2023,11/19,Findlay Open,285,L,DEC,5 - 2,Jacob Noon,67223,Tiffin University,Riley Ucker,79800,Kent State
+2023,11/19,Findlay Open,285,W,FALL,1:51,Joseph Chacon,64157,Indiana Tech,Riley Ucker,79800,Kent State
+2023,11/19,Findlay Open,285,W,DEC,8 - 4,Nate Lloyd,57555,Wisconsin-Parkside,Riley Ucker,79800,Kent State
+2023,11/06,Clarion Open,285,L,DEC,7 - 5,Reynold Maines,39928,Clarion,Riley Ucker,79800,Kent State
+2023,11/06,Clarion Open,285,L,SV-1,3 - 1,Logan Shephard,73758,Bucknell,Riley Ucker,79800,Kent State

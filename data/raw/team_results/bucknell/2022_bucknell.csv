@@ -1,0 +1,558 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2022,03/04,EIWA Championships,125,W,DEC,9 - 4,Reese Fry,56796,Brown,Brandon Seidman,56803,Bucknell
+2022,03/04,EIWA Championships,125,L,DEC,3 - 0,Beau Bayless,59670,Harvard,Brandon Seidman,56803,Bucknell
+2022,03/04,EIWA Championships,125,L,SV-1,3 - 1,Joe Manchio,50937,Columbia,Brandon Seidman,56803,Bucknell
+2022,03/04,EIWA Championships,125,W,DEC,11 - 4,Reese Fry,56796,Brown,Brandon Seidman,56803,Bucknell
+2022,03/04,EIWA Championships,125,W,TB-2,2 - 1,Maximillian Leete,72678,American,Brandon Seidman,56803,Bucknell
+2022,02/18,Bucknell - Oklahoma State Dual,125,L,DEC,3 - 0,Trevor Mastrogiovanni,57608,Oklahoma State,Brandon Seidman,56803,Bucknell
+2022,02/12,Bucknell - Lehigh Dual,125,L,DEC,2 - 1,Sheldon Seymour,62339,Lehigh,Brandon Seidman,56803,Bucknell
+2022,02/06,American - Bucknell Dual,125,L,DEC,4 - 2,Maximillian Leete,72678,American,Brandon Seidman,56803,Bucknell
+2022,02/04,Bucknell - Navy Dual,125,W,SV-1,3 - 1,Jacob Allen,50935,Navy,Brandon Seidman,56803,Bucknell
+2022,01/30,Rider - Bucknell Dual,125,W,DEC,8 - 2,Tyler Klinsky,62353,Rider,Brandon Seidman,56803,Bucknell
+2022,01/29,Army - Bucknell Dual,125,W,DEC,3 - 2,Ryan Chauvin,50835,Army West Point,Brandon Seidman,56803,Bucknell
+2022,01/23,Bucknell - Drexel Dual,125,W,DEC,6 - 2,Kyle Waterman,67256,Drexel,Brandon Seidman,56803,Bucknell
+2022,01/22,Sacred Heart - Bucknell Dual,125,W,MD,10 - 0,Jacob Venezia,75962,Sacred Heart,Brandon Seidman,56803,Bucknell
+2022,01/15,Bucknell - Brown Dual,125,L,DEC,5 - 2,Hunter Adrian,65842,Brown,Brandon Seidman,56803,Bucknell
+2022,01/14,Bucknell - Harvard Dual,125,W,DEC,5 - 2,Beau Bayless,59670,Harvard,Brandon Seidman,56803,Bucknell
+2022,01/08,Bucknell - Hofstra Dual,125,W,SV-1,3 - 1,Jacob Moon,73024,Hofstra,Brandon Seidman,56803,Bucknell
+2022,01/08,Bucknell - LIU Dual,125,W,DEC,3 - 2,Robbie Sagaris,73406,LIU,Brandon Seidman,56803,Bucknell
+2022,12/29,Illinois Matmen Open,125,W,DEC,2 - 1,Gio Diaz,67279,Franklin & Marshall,Brandon Seidman,56803,Bucknell
+2022,12/29,Illinois Matmen Open,125,W,DEC,4 - 3,Kyle Gollhofer,57224,Northern Iowa,Brandon Seidman,56803,Bucknell
+2022,12/29,Illinois Matmen Open,125,L,DEC,4 - 1,Drew West,50041,Northern Illinois,Brandon Seidman,56803,Bucknell
+2022,12/29,Illinois Matmen Open,125,L,DEC,2 - 0,Gage Curry,44583,Pittsburgh,Brandon Seidman,56803,Bucknell
+2022,12/18,Lock Haven - Bucknell Dual,125,L,FALL,4:48,Anthony Noto,64642,Lock Haven,Brandon Seidman,56803,Bucknell
+2022,12/18,Buffalo - Bucknell Dual,125,W,DEC,5 - 4,Tristan Daugherty,62877,Buffalo,Brandon Seidman,56803,Bucknell
+2022,12/03,Michigan State - Bucknell Dual,125,L,TB-2,4 - 2,Julian Saldaña,46483,Michigan State,Brandon Seidman,56803,Bucknell
+2022,11/20,Navy Classic,125,L,DEC,4 - 2,Jake Ferri,51179,Kent State,Brandon Seidman,56803,Bucknell
+2022,11/20,Navy Classic,125,W,DEC,10 - 5,Dayton DelViscio,73322,Navy,Brandon Seidman,56803,Bucknell
+2022,11/20,Navy Classic,125,L,DEC,5 - 3,Oscar Sanchez,57320,Ohio,Brandon Seidman,56803,Bucknell
+2022,11/20,Navy Classic,125,W,TF5,16 - 0 3:00,Malik Hardy,73357,The Citadel,Brandon Seidman,56803,Bucknell
+2022,11/20,Navy Classic,125,W,DEC,4 - 2,Maximillian Leete,72678,American,Brandon Seidman,56803,Bucknell
+2022,11/20,Navy Classic,125,L,DEC,4 - 3,Andrew Fallon,69899,American,Brandon Seidman,56803,Bucknell
+2022,11/13,Bucknell - Bellarmine Dual,125,W,MD,15 - 5,Jack Parker,71291,Bellarmine,Brandon Seidman,56803,Bucknell
+2022,11/13,Bucknell - George Mason Dual,125,W,DEC,4 - 3,Ben Monn,69708,George Mason,Brandon Seidman,56803,Bucknell
+2022,11/13,Averett University - Bucknell Dual,125,L,DEC,7 - 5,Samuel Braswell,52047,Averett University,Brandon Seidman,56803,Bucknell
+2022,02/06,American Bucknell ECM,133,W,DEC,8 - 2,Shamil Kalmatov,72680,American,Aiden Lewis,71750,Bucknell
+2022,01/29,Mat Town Open II,125,W,DEC,3 - 0,Calvin Dalton,72509,Bucknell,Aiden Lewis,71750,Bucknell
+2022,01/29,Mat Town Open II,125,W,MFOR,0 - 0,Braxton Brown,72103,Maryland,Aiden Lewis,71750,Bucknell
+2022,01/29,Mat Town Open II,125,W,DEC,7 - 3,Benjamin Aranda,71804,Cleveland State,Aiden Lewis,71750,Bucknell
+2022,01/29,Mat Town Open II,125,L,MD,9 - 0,Brett Ungar,68705,Spartan Combat RTC,Aiden Lewis,71750,Bucknell
+2022,01/29,Mat Town Open II,125,L,FALL,0:56,Nico Messina,67200,Rutgers,Aiden Lewis,71750,Bucknell
+2022,01/23,Drexel Bucknell ECM,125,L,FALL,2:00,Antonio Mininno,50806,Drexel,Aiden Lewis,71750,Bucknell
+2022,01/08,Bucknell Hofstra ECM,125,W,DEC,7 - 2,Dylan Acevedo-Switzer,73023,Hofstra,Aiden Lewis,71750,Bucknell
+2022,01/08,Bucknell LIU ECM,125,W,TF5,15 - 0 7:00,Kaelen Francois,73404,LIU,Aiden Lewis,71750,Bucknell
+2022,12/05,Patriot Open,125,W,DEC,7 - 3,Jace Schafer,73377,West Virginia,Aiden Lewis,71750,Bucknell
+2022,12/05,Patriot Open,125,W,DEC,7 - 2,Josh Pence,72942,George Mason,Aiden Lewis,71750,Bucknell
+2022,12/05,Patriot Open,125,L,SV-1,5 - 3,Cooper Flynn,72148,Virginia Tech,Aiden Lewis,71750,Bucknell
+2022,12/05,Patriot Open,125,L,DEC,6 - 5,Sean Seefeldt,70755,PRTC,Aiden Lewis,71750,Bucknell
+2022,12/05,Patriot Open,125,W,MFOR,0 - 0,Trey Lane,62197,Virginia,Aiden Lewis,71750,Bucknell
+2022,11/28,Mat Town Open I,125,W,FALL,0:40,Ishan Shah,76009,Spartan Combat RTC,Aiden Lewis,71750,Bucknell
+2022,11/28,Mat Town Open I,125,W,DEC,7 - 1,Desmond Pleasant,71583,Drexel,Aiden Lewis,71750,Bucknell
+2022,11/28,Mat Town Open I,125,L,TF5,15 - 0 5:41,Brett Ungar,68705,Spartan Combat RTC,Aiden Lewis,71750,Bucknell
+2022,11/28,Mat Town Open I,125,L,TF5,20 - 5 7:00,Anthony Noto,64642,Lock Haven,Aiden Lewis,71750,Bucknell
+2022,11/28,Mat Town Open I,125,W,DEC,4 - 3,Patrick McCormick,57063,Virginia,Aiden Lewis,71750,Bucknell
+2022,11/20,Navy Classic,125,L,FALL,5:49,Julian Saldaña,46483,Michigan State,Aiden Lewis,71750,Bucknell
+2022,11/20,Navy Classic,125,L,FALL,4:11,Maximillian Leete,72678,American,Aiden Lewis,71750,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,125,W,MD,13 - 0,Desmond Pleasant,71583,Drexel,Aiden Lewis,71750,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,125,W,FALL,5:56,Jose Diaz,57229,Franklin & Marshall,Aiden Lewis,71750,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,125,L,DEC,6 - 1,Hunter Adrian,65842,Brown,Aiden Lewis,71750,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,125,L,DEC,8 - 5,Micah Roes,67299,Binghamton,Aiden Lewis,71750,Bucknell
+2022,11/07,Clarion Open,125,W,TF5,19 - 1 4:30,Elijah Wallace,72669,Franklin & Marshall,Aiden Lewis,71750,Bucknell
+2022,11/07,Clarion Open,125,L,TF5,18 - 3 4:24,Anthony Noto,64642,Lock Haven,Aiden Lewis,71750,Bucknell
+2022,11/07,Clarion Open,125,W,DEC,9 - 3,Colton Drousias,63171,West Virginia,Aiden Lewis,71750,Bucknell
+2022,11/07,Clarion Open,125,L,FALL,1:22,Colton Camacho,58029,Pittsburgh,Aiden Lewis,71750,Bucknell
+2022,11/07,Clarion Open,125,W,DEC,8 - 3,Gary Steen,68731,Penn State,Aiden Lewis,71750,Bucknell
+2022,02/06,Edinboro Open,125,W,DEC,8 - 3,Trey Bates,71792,Central Michigan,Calvin Dalton,72509,Bucknell
+2022,02/06,Edinboro Open,125,L,MD,15 - 2,Ethan Berginc,71779,United States Military Academy,Calvin Dalton,72509,Bucknell
+2022,02/06,Edinboro Open,125,L,DEC,4 - 3,Charlie Farmer,71771,United States Military Academy,Calvin Dalton,72509,Bucknell
+2022,02/06,Edinboro Open,125,W,MD,12 - 4,Colton Drousias,63171,West Virginia,Calvin Dalton,72509,Bucknell
+2022,01/29,Mat Town Open II,125,L,DEC,3 - 0,Aiden Lewis,71750,Bucknell,Calvin Dalton,72509,Bucknell
+2022,01/29,Mat Town Open II,125,W,DEC,10 - 9,Desmond Pleasant,71583,Drexel,Calvin Dalton,72509,Bucknell
+2022,01/29,Mat Town Open II,125,L,DEC,6 - 4,Matt Maloney,62920,Lock Haven,Calvin Dalton,72509,Bucknell
+2022,01/22,Bucknell Sacred Heart ECM,133,W,FALL,1:23,John Lafferty,69700,Sacred Heart,Calvin Dalton,72509,Bucknell
+2022,01/07,David Lehman Open,125,L,FALL,5:38,Conor Knopick,72174,Iowa State,Calvin Dalton,72509,Bucknell
+2022,01/07,David Lehman Open,125,L,SV-1,3 - 1,Jacob Allen,50935,Navy,Calvin Dalton,72509,Bucknell
+2022,12/05,Patriot Open,125,W,FALL,4:10,Trent Proctor,74462,Ferrum,Calvin Dalton,72509,Bucknell
+2022,12/05,Patriot Open,125,W,MFOR,0 - 0,Cooper Flynn,72148,Virginia Tech,Calvin Dalton,72509,Bucknell
+2022,12/05,Patriot Open,125,L,TF5,16 - 0 2:04,Braxton Brown,72103,Maryland,Calvin Dalton,72509,Bucknell
+2022,12/05,Patriot Open,125,W,DEC,3 - 2,Ben Monn,69708,George Mason,Calvin Dalton,72509,Bucknell
+2022,12/05,Patriot Open,125,L,FALL,2:31,Nick Babin,65929,Columbia,Calvin Dalton,72509,Bucknell
+2022,11/28,Mat Town Open I,125,W,FALL,0:11,Ishan Shah,76009,Spartan Combat RTC,Calvin Dalton,72509,Bucknell
+2022,11/28,Mat Town Open I,125,L,MD,21 - 8,Desmond Pleasant,71583,Drexel,Calvin Dalton,72509,Bucknell
+2022,11/28,Mat Town Open I,125,L,TF5,15 - 0 5:32,Brett Ungar,68705,Spartan Combat RTC,Calvin Dalton,72509,Bucknell
+2022,11/20,Navy Classic,125,W,DEC,8 - 5,Logan Jaquay,67227,Edinboro,Calvin Dalton,72509,Bucknell
+2022,11/20,Navy Classic,125,L,FALL,0:27,Luke Werner,50282,Lock Haven,Calvin Dalton,72509,Bucknell
+2022,11/20,Navy Classic,125,L,SV-1,3 - 1,Julian Saldaña,46483,Michigan State,Calvin Dalton,72509,Bucknell
+2022,11/20,Navy Classic,125,W,DEC,7 - 3,Grant Treaster,63154,Navy,Calvin Dalton,72509,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,125,L,MD,24 - 10,Charlie Farmer,71771,United States Military Academy,Calvin Dalton,72509,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,125,W,TF5,17 - 1 3:09,David Colton,62821,Drexel,Calvin Dalton,72509,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,125,L,FALL,1:07,Micah Roes,67299,Binghamton,Calvin Dalton,72509,Bucknell
+2022,11/07,Clarion Open,125,L,MD,21 - 12,Dayton DelViscio,73322,Navy,Calvin Dalton,72509,Bucknell
+2022,11/07,Clarion Open,125,L,MD,11 - 3,Jacob Allen,50935,Navy,Calvin Dalton,72509,Bucknell
+2022,03/04,EIWA Championships,133,W,DEC,7 - 1,Pat Phillips,72671,Franklin & Marshall,Kurt Phipps,63966,Bucknell
+2022,03/04,EIWA Championships,133,L,DEC,2 - 1,Dominic LaJoie,49112,Cornell,Kurt Phipps,63966,Bucknell
+2022,03/04,EIWA Championships,133,L,SV-1,5 - 3,Jack Maida,72679,American,Kurt Phipps,63966,Bucknell
+2022,02/18,Bucknell - Oklahoma State Dual,133,L,TF5,21 - 6 7:00,Daton Fix,49263,Oklahoma State,Kurt Phipps,63966,Bucknell
+2022,02/12,Bucknell - Lehigh Dual,133,W,DEC,11 - 5,Satoshi Abe,49163,Lehigh,Kurt Phipps,63966,Bucknell
+2022,02/06,American - Bucknell Dual,133,W,DEC,7 - 4,Jack Maida,72679,American,Kurt Phipps,63966,Bucknell
+2022,02/04,Bucknell - Navy Dual,133,L,DEC,7 - 1,Joshua Koderhandt,70917,Navy,Kurt Phipps,63966,Bucknell
+2022,01/30,Rider - Bucknell Dual,133,L,DEC,7 - 5,Richie Koehler,51648,Rider,Kurt Phipps,63966,Bucknell
+2022,01/29,Army - Bucknell Dual,133,W,DEC,5 - 0,Dominic Carone,50845,Army West Point,Kurt Phipps,63966,Bucknell
+2022,01/23,Bucknell - Drexel Dual,133,W,MD,12 - 4,Deon Pleasant,71584,Drexel,Kurt Phipps,63966,Bucknell
+2022,01/22,Sacred Heart - Bucknell Dual,133,W,MD,13 - 2,Anthony Petrillo,56356,Sacred Heart,Kurt Phipps,63966,Bucknell
+2022,01/15,Bucknell - Brown Dual,133,W,MD,16 - 2,Reese Fry,56796,Brown,Kurt Phipps,63966,Bucknell
+2022,01/14,Bucknell - Harvard Dual,133,W,DEC,6 - 4,Dillon Murphy,60449,Harvard,Kurt Phipps,63966,Bucknell
+2022,01/08,Bucknell - Hofstra Dual,133,W,DEC,4 - 2,Ty Cymmerman,73027,Hofstra,Kurt Phipps,63966,Bucknell
+2022,01/08,Bucknell - LIU Dual,133,W,MD,10 - 0,Bryce Cockrell,65769,LIU,Kurt Phipps,63966,Bucknell
+2022,12/29,Illinois Matmen Open,133,L,DEC,8 - 4,Jack Wagner,44755,Northern Iowa,Kurt Phipps,63966,Bucknell
+2022,12/29,Illinois Matmen Open,133,W,DEC,9 - 4,Michael Colaiocco,56733,Pennsylvania,Kurt Phipps,63966,Bucknell
+2022,12/29,Illinois Matmen Open,133,W,TF5,16 - 0 3:41,Nathaniel Genobana,73338,Northern Illinois,Kurt Phipps,63966,Bucknell
+2022,12/29,Illinois Matmen Open,133,W,DEC,5 - 2,Dylan Chappell,71754,Bucknell,Kurt Phipps,63966,Bucknell
+2022,12/29,Illinois Matmen Open,133,L,DEC,5 - 1,Julian Farber,65843,Northern Iowa,Kurt Phipps,63966,Bucknell
+2022,12/29,Illinois Matmen Open,133,W,DEC,5 - 3,Sean Pierson,60443,NJRTC,Kurt Phipps,63966,Bucknell
+2022,12/29,Illinois Matmen Open,133,L,DEC,5 - 3,Cole Rhone,62773,Bloomsburg,Kurt Phipps,63966,Bucknell
+2022,12/18,Lock Haven - Bucknell Dual,133,W,MD,10 - 1,Matt Maloney,62920,Lock Haven,Kurt Phipps,63966,Bucknell
+2022,12/18,Buffalo - Bucknell Dual,133,W,DEC,9 - 5,Derek Spann,45028,Buffalo,Kurt Phipps,63966,Bucknell
+2022,12/03,Michigan State - Bucknell Dual,133,L,DEC,7 - 0,Rayvon Foley,50823,Michigan State,Kurt Phipps,63966,Bucknell
+2022,11/20,Navy Classic,133,W,DEC,3 - 0,Michael Cassidy,59534,Bloomsburg,Kurt Phipps,63966,Bucknell
+2022,11/20,Navy Classic,133,W,FALL,2:17,Clayton Bashor,71840,Edinboro,Kurt Phipps,63966,Bucknell
+2022,11/20,Navy Classic,133,L,DEC,4 - 3,Brendon Fenton,50938,Kent State,Kurt Phipps,63966,Bucknell
+2022,11/20,Navy Classic,133,L,SV-1,6 - 4,Joshua Koderhandt,70917,Navy,Kurt Phipps,63966,Bucknell
+2022,11/20,Navy Classic,133,W,DEC,1 - 0,Gio Disabato,50840,Ohio,Kurt Phipps,63966,Bucknell
+2022,11/13,Bucknell - Bellarmine Dual,133,W,FALL,1:33,Max Dansereau,62790,Bellarmine,Kurt Phipps,63966,Bucknell
+2022,11/13,Bucknell - George Mason Dual,133,W,DEC,6 - 1,Anthony Glasl,69714,George Mason,Kurt Phipps,63966,Bucknell
+2022,11/13,Averett University - Bucknell Dual,133,W,MD,11 - 3,Joseph Jones,65770,Averett University,Kurt Phipps,63966,Bucknell
+2022,02/13,John Carroll Open,133,W,FALL,0:57,Chris Rocha,76631,Gannon,Dylan Chappell,71754,Bucknell
+2022,02/13,John Carroll Open,133,W,MD,11 - 0,Michael Dolan,73378,West Virginia,Dylan Chappell,71754,Bucknell
+2022,02/13,John Carroll Open,133,W,MFOR,0 - 0,DeAnte Evans,61702,Toledo,Dylan Chappell,71754,Bucknell
+2022,02/06,Edinboro Open,133,L,SV-1,10 - 8,Carter Bailey,73039,Lehigh,Dylan Chappell,71754,Bucknell
+2022,02/06,Edinboro Open,133,W,FALL,3:24,Michael Catanzaro,72532,Ohio,Dylan Chappell,71754,Bucknell
+2022,02/06,Edinboro Open,133,L,DEC,3 - 1,Raymond Lopez,71769,United States Military Academy,Dylan Chappell,71754,Bucknell
+2022,02/06,Edinboro Open,133,W,FALL,2:49,Tommy Maddox,63165,Buffalo,Dylan Chappell,71754,Bucknell
+2022,01/29,Mat Town Open II,133,W,DEC,4 - 0,Dean Peterson,72936,Rutgers,Dylan Chappell,71754,Bucknell
+2022,01/29,Mat Town Open II,133,W,FALL,3:19,Ethan Fernandez,72088,Spartan Combat RTC,Dylan Chappell,71754,Bucknell
+2022,01/29,Mat Town Open II,133,W,TF5,18 - 3 7:00,Andy Lucinski,71745,Buffalo,Dylan Chappell,71754,Bucknell
+2022,01/29,Mat Town Open II,133,W,MD,10 - 1,Devon Britton,61762,Rutgers,Dylan Chappell,71754,Bucknell
+2022,01/29,Mat Town Open II,133,W,DEC,6 - 1,Gable Strickland,71822,Lock Haven,Dylan Chappell,71754,Bucknell
+2022,01/16,Purple Raider Open,133,W,FALL,3:50,Andrew Hampton,73020,Michigan State,Dylan Chappell,71754,Bucknell
+2022,01/16,Purple Raider Open,133,W,TF5,18 - 2 3:00,Mason Prinkey,72195,Clarion,Dylan Chappell,71754,Bucknell
+2022,01/16,Purple Raider Open,133,L,DEC,3 - 2,Andre Gonzales,72135,Ohio State,Dylan Chappell,71754,Bucknell
+2022,01/16,Purple Raider Open,133,W,DEC,6 - 1,Will Betancourt,67444,Ohio State,Dylan Chappell,71754,Bucknell
+2022,01/07,David Lehman Open,133,W,DEC,8 - 2,Michael Dolan,73378,West Virginia,Dylan Chappell,71754,Bucknell
+2022,01/07,David Lehman Open,133,W,DEC,9 - 8,Angelo Rini,56766,Columbia,Dylan Chappell,71754,Bucknell
+2022,01/07,David Lehman Open,133,W,MFOR,0 - 0,David Campbell,49061,Rutgers,Dylan Chappell,71754,Bucknell
+2022,01/07,David Lehman Open,133,L,DEC,4 - 3,Mark Montgomery,60539,Army West Point,Dylan Chappell,71754,Bucknell
+2022,12/29,Illinois Matmen Open,133,L,DEC,5 - 2,Kurt Phipps,63966,Bucknell,Dylan Chappell,71754,Bucknell
+2022,12/29,Illinois Matmen Open,133,W,MFOR,0 - 0,Pat Phillips,72671,Franklin & Marshall,Dylan Chappell,71754,Bucknell
+2022,12/29,Illinois Matmen Open,133,W,DEC,10 - 3,Dillon Murphy,60449,Harvard,Dylan Chappell,71754,Bucknell
+2022,12/29,Illinois Matmen Open,133,L,TF5,19 - 2 6:26,Lucas Byrd,56714,Illinois,Dylan Chappell,71754,Bucknell
+2022,12/05,Patriot Open,133,W,TF5,16 - 0 3:32,Brennen Retmier,77583,Unattached,Dylan Chappell,71754,Bucknell
+2022,12/05,Patriot Open,133,W,FALL,0:55,Mason Rogers,74453,Ferrum,Dylan Chappell,71754,Bucknell
+2022,12/05,Patriot Open,133,L,TF5,18 - 3 4:58,Carter Bailey,73039,Lehigh,Dylan Chappell,71754,Bucknell
+2022,12/05,Patriot Open,133,L,DEC,8 - 1,Jordan Titus,68738,West Virginia,Dylan Chappell,71754,Bucknell
+2022,12/05,Patriot Open,133,W,DEC,4 - 0,Luke Lucerne,67546,Navy,Dylan Chappell,71754,Bucknell
+2022,12/05,Patriot Open,133,W,DEC,10 - 3,Spencer Good,51030,Columbia,Dylan Chappell,71754,Bucknell
+2022,11/28,Mat Town Open I,133,W,DEC,3 - 1,Ivan Garcia,67298,Binghamton,Dylan Chappell,71754,Bucknell
+2022,11/28,Mat Town Open I,133,W,FALL,6:02,Cole Minnick,72222,Buffalo,Dylan Chappell,71754,Bucknell
+2022,03/04,EIWA Championships,141,W,TB-2,2 - 1,Ryan Anderson,57130,Binghamton,Darren Miller,57210,Bucknell
+2022,03/04,EIWA Championships,141,L,FALL,5:37,Wil Gil,51024,Franklin & Marshall,Darren Miller,57210,Bucknell
+2022,03/04,EIWA Championships,141,L,DEC,4 - 2,Matthew Kazimir,51644,Columbia,Darren Miller,57210,Bucknell
+2022,03/04,EIWA Championships,141,W,DEC,5 - 2,JJ Wilson,59823,Cornell,Darren Miller,57210,Bucknell
+2022,03/04,EIWA Championships,141,W,DEC,4 - 2,Connor McGonagle,56713,Lehigh,Darren Miller,57210,Bucknell
+2022,02/18,Bucknell - Oklahoma State Dual,141,L,DEC,8 - 3,Carter Young,71954,Oklahoma State,Darren Miller,57210,Bucknell
+2022,02/12,Bucknell - Lehigh Dual,141,W,DEC,8 - 2,Drew Munch,63142,Lehigh,Darren Miller,57210,Bucknell
+2022,02/06,American Bucknell ECM,141,W,TF5,20 - 5 7:00,Shamil Kalmatov,72680,American,Darren Miller,57210,Bucknell
+2022,02/06,American - Bucknell Dual,141,W,MD,14 - 2,Ethan Szerencsits,69902,American,Darren Miller,57210,Bucknell
+2022,02/04,Navy Bucknell ECM,141,W,DEC,2 - 1,David Kreidler,73329,Navy,Darren Miller,57210,Bucknell
+2022,02/04,Bucknell - Navy Dual,141,W,DEC,5 - 2,Tyler Hunt,55813,Navy,Darren Miller,57210,Bucknell
+2022,01/30,Rider - Bucknell Dual,141,L,DEC,2 - 1,Quinn Kinner,51144,Rider,Darren Miller,57210,Bucknell
+2022,01/29,Army - Bucknell Dual,141,L,DEC,7 - 2,Thomas Deck,69378,Army West Point,Darren Miller,57210,Bucknell
+2022,01/23,Bucknell - Drexel Dual,141,W,MD,10 - 2,Jared Donahue,52284,Drexel,Darren Miller,57210,Bucknell
+2022,01/22,Sacred Heart - Bucknell Dual,141,W,TF5,17 - 2 6:09,Jordan Carlucci,62475,Sacred Heart,Darren Miller,57210,Bucknell
+2022,11/20,Navy Classic,141,W,DEC,5 - 3,Louis Newell,50916,Kent State,Darren Miller,57210,Bucknell
+2022,11/20,Navy Classic,141,W,MD,8 - 0,River Curtis,56071,Navy,Darren Miller,57210,Bucknell
+2022,11/20,Navy Classic,141,L,MFOR,0 - 0,Tyler Hunt,55813,Navy,Darren Miller,57210,Bucknell
+2022,11/20,Navy Classic,141,W,MD,10 - 0,Michael Cetta,72114,Rutgers,Darren Miller,57210,Bucknell
+2022,11/13,Bucknell - Bellarmine Dual,141,W,MD,17 - 6,Logan Hoskins,67329,Bellarmine,Darren Miller,57210,Bucknell
+2022,11/13,Bucknell - George Mason Dual,141,W,DEC,6 - 0,Kaden Cassidy,65847,George Mason,Darren Miller,57210,Bucknell
+2022,11/13,Averett University - Bucknell Dual,141,W,MD,10 - 0,Brandon Woody,52612,Averett University,Darren Miller,57210,Bucknell
+2022,02/04,Navy Bucknell ECM,141,L,FALL,1:14,Gage Denatale,67547,Navy,Noah Levett,50658,Bucknell
+2022,01/15,Bucknell - Brown Dual,141,W,DEC,5 - 2,Timothy Levine,66415,Brown,Noah Levett,50658,Bucknell
+2022,01/14,Bucknell - Harvard Dual,141,L,DEC,6 - 1,Michael Jaffe,57702,Harvard,Noah Levett,50658,Bucknell
+2022,01/08,Bucknell - Hofstra Dual,141,L,DEC,8 - 6,Justin Hoyle,54220,Hofstra,Noah Levett,50658,Bucknell
+2022,01/08,Bucknell - LIU Dual,141,W,MD,12 - 1,Devin Matthews,70150,LIU,Noah Levett,50658,Bucknell
+2022,12/29,Illinois Matmen Open,141,W,FALL,1:43,Datrelle Kozeluh,77957,Unattached,Noah Levett,50658,Bucknell
+2022,12/29,Illinois Matmen Open,141,W,DEC,7 - 2,Garrett Moll,62608,Northern Iowa,Noah Levett,50658,Bucknell
+2022,12/29,Illinois Matmen Open,141,L,DEC,13 - 10,Wil Gil,51024,Franklin & Marshall,Noah Levett,50658,Bucknell
+2022,12/29,Illinois Matmen Open,141,L,DEC,7 - 0,Cole Matthews,50936,Pittsburgh,Noah Levett,50658,Bucknell
+2022,12/18,Lock Haven - Bucknell Dual,141,L,DEC,5 - 3,Nicholas Stonecheck,62691,Lock Haven,Noah Levett,50658,Bucknell
+2022,12/18,Buffalo - Bucknell Dual,141,L,DEC,6 - 4,Ben Freeman,49177,Buffalo,Noah Levett,50658,Bucknell
+2022,11/13,Bucknell - George Mason Dual,149,L,DEC,11 - 4,Alex Madrigal,39754,George Mason,Noah Levett,50658,Bucknell
+2022,11/13,Averett University - Bucknell Dual,149,W,MD,14 - 2,Hunter Campbell,72651,Averett University,Noah Levett,50658,Bucknell
+2022,12/03,Michigan State - Bucknell Dual,141,L,DEC,9 - 2,Matt Santos,44890,Michigan State,Chris Lanciano,57325,Bucknell
+2022,11/28,Mat Town Open I,141,L,DEC,8 - 4,Evan Buchanan,66510,Virginia,Chris Lanciano,57325,Bucknell
+2022,11/28,Mat Town Open I,141,L,MD,11 - 2,Tyler Dilley,62919,Lock Haven,Chris Lanciano,57325,Bucknell
+2022,11/20,Navy Classic,141,L,MD,13 - 1,Gabe Willochell,62335,Edinboro,Chris Lanciano,57325,Bucknell
+2022,11/20,Navy Classic,141,W,MD,8 - 0,Jackie Gold,54500,Edinboro,Chris Lanciano,57325,Bucknell
+2022,11/20,Navy Classic,141,L,DEC,6 - 4,Jordan Hamdan,57705,Michigan State,Chris Lanciano,57325,Bucknell
+2022,11/20,Navy Classic,141,W,DEC,4 - 3,Freddy Junko,67430,VMI,Chris Lanciano,57325,Bucknell
+2022,01/29,Mat Town Open II,141,L,TF5,16 - 1 7:00,Jordan Titus,68738,West Virginia,Trey Trejo,73725,Bucknell
+2022,01/29,Mat Town Open II,141,L,MD,12 - 0,Ryan Michaels,67121,Pittsburgh,Trey Trejo,73725,Bucknell
+2022,01/22,Bucknell Sacred Heart ECM,141,L,DEC,10 - 3,John Lafferty,69700,Sacred Heart,Trey Trejo,73725,Bucknell
+2022,03/04,EIWA Championships,149,L,DEC,16 - 12,Marshall Keller,51509,Princeton,Kolby DePron,71751,Bucknell
+2022,03/04,EIWA Championships,149,L,DEC,7 - 3,Nick Lombard,51422,Binghamton,Kolby DePron,71751,Bucknell
+2022,02/18,Bucknell - Oklahoma State Dual,149,L,DEC,9 - 3,Kaden Gfeller,49261,Oklahoma State,Kolby DePron,71751,Bucknell
+2022,02/12,Bucknell - Lehigh Dual,149,L,DEC,6 - 3,Max Brignola,73041,Lehigh,Kolby DePron,71751,Bucknell
+2022,02/06,American - Bucknell Dual,149,W,DEC,6 - 3,Patrick Ryan,57253,American,Kolby DePron,71751,Bucknell
+2022,02/04,Bucknell - Navy Dual,149,W,DEC,8 - 3,Jonathan Miranda,57367,Navy,Kolby DePron,71751,Bucknell
+2022,01/30,Rider - Bucknell Dual,149,W,MD,15 - 2,Bryan Miraglia,62187,Rider,Kolby DePron,71751,Bucknell
+2022,01/29,Army - Bucknell Dual,149,L,DEC,8 - 5,Matthew Williams,69376,Army West Point,Kolby DePron,71751,Bucknell
+2022,01/23,Bucknell - Drexel Dual,149,L,MD,15 - 5,Tyler Williams,59552,Drexel,Kolby DePron,71751,Bucknell
+2022,01/22,Sacred Heart - Bucknell Dual,149,W,FALL,1:57,Cole McGill,74326,Sacred Heart,Kolby DePron,71751,Bucknell
+2022,01/15,Bucknell - Brown Dual,149,W,DEC,9 - 4,Ricky Cabanillas,57514,Brown,Kolby DePron,71751,Bucknell
+2022,01/14,Bucknell - Harvard Dual,149,L,DEC,8 - 5,Lukus Stricker,49139,Harvard,Kolby DePron,71751,Bucknell
+2022,01/08,Bucknell - Hofstra Dual,149,W,FALL,2:20,Michael Leandrou,69906,Hofstra,Kolby DePron,71751,Bucknell
+2022,01/08,Bucknell - LIU Dual,149,W,MD,13 - 3,Drew Witham,70151,LIU,Kolby DePron,71751,Bucknell
+2022,12/29,Illinois Matmen Open,149,L,DEC,5 - 1,Anthony White,70924,Rutgers,Kolby DePron,71751,Bucknell
+2022,12/29,Illinois Matmen Open,149,L,DEC,7 - 6,Al De Santis,67002,Rutgers,Kolby DePron,71751,Bucknell
+2022,12/29,Illinois Matmen Open,149,W,FALL,4:16,Adam Allard,62777,Northern Iowa,Kolby DePron,71751,Bucknell
+2022,12/18,Lock Haven - Bucknell Dual,149,W,DEC,6 - 1,Connor Eck,71824,Lock Haven,Kolby DePron,71751,Bucknell
+2022,12/18,Buffalo - Bucknell Dual,149,L,SV-1,6 - 4,John Arceri,47552,Buffalo,Kolby DePron,71751,Bucknell
+2022,12/03,Michigan State - Bucknell Dual,149,W,DEC,16 - 12,Peyton Omania,56081,Michigan State,Kolby DePron,71751,Bucknell
+2022,11/20,Navy Classic,149,W,FALL,3:22,Jake Pail,62853,Edinboro,Kolby DePron,71751,Bucknell
+2022,11/20,Navy Classic,149,W,DEC,5 - 3,Eddie Homrock,62776,Michigan State,Kolby DePron,71751,Bucknell
+2022,11/20,Navy Classic,149,L,FALL,2:22,Peyton Omania,56081,Michigan State,Kolby DePron,71751,Bucknell
+2022,11/20,Navy Classic,149,W,DEC,7 - 6,Patrick Ryan,57253,American,Kolby DePron,71751,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,149,W,DEC,4 - 0,Michael Venosa,52043,Cornell,Kolby DePron,71751,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,149,W,DEC,9 - 3,Nate Wade,76000,Spartan Combat RTC,Kolby DePron,71751,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,149,W,DEC,10 - 9,Danny Fongaro,51713,Columbia,Kolby DePron,71751,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,149,L,DEC,8 - 4,Nick Lombard,51422,Binghamton,Kolby DePron,71751,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,149,W,DEC,4 - 1,Jack Nies,69901,American,Kolby DePron,71751,Bucknell
+2022,11/13,Bucknell - Bellarmine Dual,149,W,MD,13 - 3,Chase Yost,67330,Bellarmine,Kolby DePron,71751,Bucknell
+2022,11/07,Clarion Open,149,W,FALL,2:11,Tyler Johnson,69711,Kent State,Kolby DePron,71751,Bucknell
+2022,11/07,Clarion Open,149,W,DEC,7 - 5,Brayden Roberts,64960,West Virginia,Kolby DePron,71751,Bucknell
+2022,11/07,Clarion Open,149,W,FALL,4:48,Dan Mancini,58612,Pittsburgh,Kolby DePron,71751,Bucknell
+2022,11/07,Clarion Open,149,W,DEC,6 - 1,PJ Crane,50599,Navy,Kolby DePron,71751,Bucknell
+2022,11/07,Clarion Open,149,L,FALL,1:09,Brent Moore,44666,Clarion,Kolby DePron,71751,Bucknell
+2022,11/07,Clarion Open,149,W,MD,12 - 2,Marco Macrino,50359,Bloomsburg,Kolby DePron,71751,Bucknell
+2022,01/29,Mat Town Open II,149,L,MFOR,0 - 0,Kaleb Burgess,72225,Buffalo,Logan Sanom,62487,Bucknell
+2022,01/29,Mat Town Open II,149,L,TF5,19 - 4 7:00,Dashawn Farber,62823,Lock Haven,Logan Sanom,62487,Bucknell
+2022,01/07,David Lehman Open,149,W,TF5,18 - 2 3:00,Leo Maguigad,77994,North Carolina,Logan Sanom,62487,Bucknell
+2022,01/07,David Lehman Open,149,W,MD,14 - 6,River Curtis,56071,Navy,Logan Sanom,62487,Bucknell
+2022,01/07,David Lehman Open,149,L,DEC,8 - 3,Luke Kemerer,50929,Pittsburgh,Logan Sanom,62487,Bucknell
+2022,01/07,David Lehman Open,149,W,FALL,4:26,Blake Saito,65874,Brown,Logan Sanom,62487,Bucknell
+2022,01/07,David Lehman Open,149,L,DEC,4 - 1,Matthew Williams,69376,Army West Point,Logan Sanom,62487,Bucknell
+2022,12/05,Patriot Open,157,W,DEC,10 - 6,Colton Washleski,72909,Rider,Logan Sanom,62487,Bucknell
+2022,12/05,Patriot Open,157,L,DEC,7 - 4,Conner Decker,71752,Maryland,Logan Sanom,62487,Bucknell
+2022,12/05,Patriot Open,157,L,DEC,11 - 4,Jared Hopkins,71741,Campbell,Logan Sanom,62487,Bucknell
+2022,11/28,Mat Town Open I,157,W,TF5,20 - 4 6:00,Logan Scandlon,77340,Unattached,Logan Sanom,62487,Bucknell
+2022,11/28,Mat Town Open I,157,L,DEC,7 - 3,William George,77339,Lock Haven,Logan Sanom,62487,Bucknell
+2022,11/28,Mat Town Open I,157,L,DEC,8 - 4,Nick Sansone,62198,Virginia,Logan Sanom,62487,Bucknell
+2022,11/28,Mat Town Open I,157,W,TF5,20 - 4 7:00,Ruben Cruces,60732,Unattached,Logan Sanom,62487,Bucknell
+2022,11/28,Mat Town Open I,157,W,MD,14 - 6,Trenton Harder,71680,Bloomsburg,Logan Sanom,62487,Bucknell
+2022,11/20,Shorty Hitchcock Open,157,W,DEC,13 - 6,Ethan Wilson,76858,High School,Logan Sanom,62487,Bucknell
+2022,11/20,Shorty Hitchcock Open,157,W,FALL,2:57,Kyler Crawford,74006,Pitt-Johnstown,Logan Sanom,62487,Bucknell
+2022,11/20,Shorty Hitchcock Open,157,L,MD,17 - 6,Kolby Ho,55945,Clarion,Logan Sanom,62487,Bucknell
+2022,11/20,Shorty Hitchcock Open,157,L,DEC,5 - 3,Collin McCorkle,73310,Pittsburgh,Logan Sanom,62487,Bucknell
+2022,11/20,Shorty Hitchcock Open,157,W,DEC,6 - 0,Mike McGhee,73485,Sacred Heart,Logan Sanom,62487,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,157,L,DEC,8 - 6,Sam Beckett,76003,High School,Logan Sanom,62487,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,157,L,MD,11 - 2,Adam Santoro,46089,Cornell,Logan Sanom,62487,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,157,W,MD,14 - 4,Cole Painter,57256,American,Logan Sanom,62487,Bucknell
+2022,12/05,Patriot Open,149,L,DEC,8 - 3,Matt Hoelke,72512,Rider,Tyler Williams,51090,Bucknell
+2022,12/05,Patriot Open,149,L,DEC,6 - 1,Dominic Rossetti,71731,Columbia,Tyler Williams,51090,Bucknell
+2022,12/05,Patriot Open,149,W,DEC,12 - 5,Alexander Bendinelli,62872,Millersville,Tyler Williams,51090,Bucknell
+2022,12/05,Patriot Open,149,W,MD,9 - 0,Kalob Jewett,62505,George Mason,Tyler Williams,51090,Bucknell
+2022,03/04,EIWA Championships,157,W,DEC,3 - 1,Trevor Tarsi,49140,Harvard,Nick Delp,62493,Bucknell
+2022,03/04,EIWA Championships,157,L,DEC,9 - 8,Hunter Richard,49107,Cornell,Nick Delp,62493,Bucknell
+2022,03/04,EIWA Championships,157,L,DEC,9 - 5,Quincy Monday,53967,Princeton,Nick Delp,62493,Bucknell
+2022,03/04,EIWA Championships,157,W,DEC,3 - 1,Nick Palumbo,49068,Sacred Heart,Nick Delp,62493,Bucknell
+2022,03/04,EIWA Championships,157,W,DEC,7 - 0,Jack Bokina,56798,Brown,Nick Delp,62493,Bucknell
+2022,02/18,Bucknell - Oklahoma State Dual,157,W,DEC,7 - 5,Wyatt Sheets,44863,Oklahoma State,Nick Delp,62493,Bucknell
+2022,02/12,Bucknell - Lehigh Dual,157,W,DEC,2 - 0,Luca Frinzi,57518,Lehigh,Nick Delp,62493,Bucknell
+2022,02/06,American - Bucknell Dual,157,W,DEC,7 - 0,Ryan Zimmerman,69904,American,Nick Delp,62493,Bucknell
+2022,02/04,Bucknell - Navy Dual,157,L,DEC,9 - 3,Andrew Cerniglia,62439,Navy,Nick Delp,62493,Bucknell
+2022,01/30,Rider - Bucknell Dual,157,W,DEC,5 - 4,Alec Bobchin,62186,Rider,Nick Delp,62493,Bucknell
+2022,01/29,Army - Bucknell Dual,157,L,DEC,8 - 2,Markus Hartman,50585,Army West Point,Nick Delp,62493,Bucknell
+2022,01/23,Bucknell - Drexel Dual,157,W,SV-1,13 - 11,Parker Kropman,45187,Drexel,Nick Delp,62493,Bucknell
+2022,01/22,Sacred Heart - Bucknell Dual,157,L,DEC,4 - 2,Nick Palumbo,49068,Sacred Heart,Nick Delp,62493,Bucknell
+2022,01/15,Bucknell - Brown Dual,157,W,FALL,1:11,Mason Spears,71759,Brown,Nick Delp,62493,Bucknell
+2022,01/14,Bucknell - Harvard Dual,157,L,DEC,5 - 3,Trevor Tarsi,49140,Harvard,Nick Delp,62493,Bucknell
+2022,01/08,Bucknell - Hofstra Dual,157,W,DEC,5 - 1,Joe McGinty,69675,Hofstra,Nick Delp,62493,Bucknell
+2022,01/08,Bucknell - LIU Dual,157,W,FALL,2:09,James Johnston,73408,LIU,Nick Delp,62493,Bucknell
+2022,12/29,Illinois Matmen Open,157,L,DEC,2 - 0,Tyler Badgett,67118,Pittsburgh,Nick Delp,62493,Bucknell
+2022,12/29,Illinois Matmen Open,157,L,DEC,7 - 2,Anthony Gibson,56508,Northern Illinois,Nick Delp,62493,Bucknell
+2022,12/29,Illinois Matmen Open,157,W,DEC,9 - 4,Robert Kanniard,56136,Rutgers,Nick Delp,62493,Bucknell
+2022,12/18,Lock Haven - Bucknell Dual,157,L,DEC,5 - 1,Benjamin Barton,44733,Lock Haven,Nick Delp,62493,Bucknell
+2022,12/18,Buffalo - Bucknell Dual,157,L,DEC,4 - 2,Ty Raines,57719,Buffalo,Nick Delp,62493,Bucknell
+2022,12/03,Michigan State - Bucknell Dual,157,L,MD,11 - 1,Chase Saldate,61118,Michigan State,Nick Delp,62493,Bucknell
+2022,11/20,Navy Classic,157,W,FALL,1:35,Alex Carida,56789,Bloomsburg,Nick Delp,62493,Bucknell
+2022,11/20,Navy Classic,157,L,DEC,11 - 4,Enrique Munguia,73500,Kent State,Nick Delp,62493,Bucknell
+2022,11/20,Navy Classic,157,L,SV-1,3 - 1,AJ Tamburrino,63155,Navy,Nick Delp,62493,Bucknell
+2022,11/13,Bucknell - Bellarmine Dual,157,W,SV-1,5 - 3,Cole Nance,73533,Bellarmine,Nick Delp,62493,Bucknell
+2022,11/13,Bucknell - George Mason Dual,157,W,DEC,7 - 5,Avery Bassett,71835,George Mason,Nick Delp,62493,Bucknell
+2022,11/13,Averett University - Bucknell Dual,157,W,MD,11 - 0,Tommy Baldwin,70627,Averett University,Nick Delp,62493,Bucknell
+2022,01/29,Mat Town Open II,157,W,MD,12 - 4,Kevin Schork,72105,Maryland,Antonio Amelio,71758,Bucknell
+2022,01/29,Mat Town Open II,157,L,DEC,9 - 5,Douglas Terry,70741,Cleveland State,Antonio Amelio,71758,Bucknell
+2022,01/29,Mat Town Open II,157,W,MFOR,0 - 0,Aurelius Dunbar,62422,Penn State,Antonio Amelio,71758,Bucknell
+2022,01/29,Mat Town Open II,157,L,DEC,8 - 2,Antonio Petrucelli,62351,Pittsburgh,Antonio Amelio,71758,Bucknell
+2022,01/29,Mat Town Open II,157,W,DEC,8 - 5,Jimmy Hoffman,49165,Lehigh,Antonio Amelio,71758,Bucknell
+2022,01/29,Mat Town Open II,157,W,FALL,4:56,William George,77339,Lock Haven,Antonio Amelio,71758,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,157,L,DEC,8 - 4,Aurelius Dunbar,62422,Penn State,Antonio Amelio,71758,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,157,L,SV-1,11 - 7,Chase McCollum,54179,Franklin & Marshall,Antonio Amelio,71758,Bucknell
+2022,11/07,Clarion Open,157,W,MFOR,0 - 0,Enrique Munguia,73500,Kent State,Antonio Amelio,71758,Bucknell
+2022,11/07,Clarion Open,157,L,DEC,2 - 1,Kaeden Berger,70740,Clarion,Antonio Amelio,71758,Bucknell
+2022,11/07,Clarion Open,157,L,DEC,6 - 1,Tyler Badgett,67118,Pittsburgh,Antonio Amelio,71758,Bucknell
+2022,11/07,Clarion Open,157,W,DEC,9 - 6,Tyler Megonigal,57357,Lock Haven,Antonio Amelio,71758,Bucknell
+2022,11/07,Clarion Open,157,W,FALL,6:28,Bobby Pryhocki,50956,Kent State,Antonio Amelio,71758,Bucknell
+2022,03/17,NCAA Championships,165,L,FALL,2:48,Julian Ramirez,56706,Cornell,Zach Hartman,50586,Bucknell
+2022,03/17,NCAA Championships,165,W,MD,13 - 3,Bubba Wilson,57936,Nebraska,Zach Hartman,50586,Bucknell
+2022,03/17,NCAA Championships,165,L,DEC,7 - 3,Shane Griffith,49991,Stanford,Zach Hartman,50586,Bucknell
+2022,03/17,NCAA Championships,165,W,DEC,5 - 1,Thomas Bullard,44611,NC State,Zach Hartman,50586,Bucknell
+2022,03/04,EIWA Championships,165,W,MD,16 - 3,Julian Ramirez,56706,Cornell,Zach Hartman,50586,Bucknell
+2022,03/04,EIWA Championships,165,W,FALL,2:34,Brevin Cassella,67293,Binghamton,Zach Hartman,50586,Bucknell
+2022,03/04,EIWA Championships,165,L,DEC,5 - 2,Phillip Conigliaro,51201,Harvard,Zach Hartman,50586,Bucknell
+2022,03/04,EIWA Championships,165,W,DEC,9 - 5,Evan Barczak,49122,Drexel,Zach Hartman,50586,Bucknell
+2022,03/04,EIWA Championships,165,W,FALL,0:28,Keegan Rothrock,67258,Brown,Zach Hartman,50586,Bucknell
+2022,02/18,Bucknell - Oklahoma State Dual,165,W,DEC,5 - 0,Travis Wittlake,50615,Oklahoma State,Zach Hartman,50586,Bucknell
+2022,02/12,Bucknell - Lehigh Dual,165,W,DEC,10 - 3,Brian Meyer,50941,Lehigh,Zach Hartman,50586,Bucknell
+2022,02/06,American - Bucknell Dual,165,W,FALL,1:29,Breon Phifer,72682,American,Zach Hartman,50586,Bucknell
+2022,02/04,Bucknell - Navy Dual,165,W,DEC,7 - 1,Jon Park,60226,Navy,Zach Hartman,50586,Bucknell
+2022,01/30,Rider - Bucknell Dual,165,W,MD,10 - 1,Michael Wilson,62190,Rider,Zach Hartman,50586,Bucknell
+2022,01/29,Army - Bucknell Dual,165,W,DEC,6 - 2,Dalton Harkins,65872,Army West Point,Zach Hartman,50586,Bucknell
+2022,01/23,Bucknell - Drexel Dual,165,W,DEC,7 - 1,Evan Barczak,49122,Drexel,Zach Hartman,50586,Bucknell
+2022,01/22,Sacred Heart - Bucknell Dual,165,W,INJ,0:33,Scott Jarosz,62478,Sacred Heart,Zach Hartman,50586,Bucknell
+2022,01/15,Bucknell - Brown Dual,165,W,FALL,1:55,AJ Corrado,70731,Brown,Zach Hartman,50586,Bucknell
+2022,01/14,Bucknell - Harvard Dual,165,W,MD,10 - 2,Alex Whitworth,71873,Harvard,Zach Hartman,50586,Bucknell
+2022,12/29,Illinois Matmen Open,165,W,DEC,7 - 0,Lucas Revano,56734,Pennsylvania,Zach Hartman,50586,Bucknell
+2022,12/29,Illinois Matmen Open,165,W,MD,10 - 0,Andrew Clark,66883,Rutgers,Zach Hartman,50586,Bucknell
+2022,12/29,Illinois Matmen Open,165,L,FALL,5:51,Dean Hamiti,62894,Wisconsin,Zach Hartman,50586,Bucknell
+2022,12/29,Illinois Matmen Open,165,W,DEC,4 - 3,Lucas Revano,56734,Pennsylvania,Zach Hartman,50586,Bucknell
+2022,12/29,Illinois Matmen Open,165,L,DEC,7 - 3,Izzak Olejnik,56509,Northern Illinois,Zach Hartman,50586,Bucknell
+2022,12/18,Lock Haven - Bucknell Dual,165,W,TF5,20 - 4 4:47,Ashton Eyler,58037,Lock Haven,Zach Hartman,50586,Bucknell
+2022,12/18,Buffalo - Bucknell Dual,165,W,FALL,2:28,Noah Grover,51227,Buffalo,Zach Hartman,50586,Bucknell
+2022,12/03,Michigan State - Bucknell Dual,165,L,DEC,9 - 5,Caleb Fish,63045,Michigan State,Zach Hartman,50586,Bucknell
+2022,11/20,Navy Classic,165,W,FALL,1:34,Mason Karpinski,63010,Kent State,Zach Hartman,50586,Bucknell
+2022,11/20,Navy Classic,165,W,FALL,4:23,Ashton Eyler,58037,Lock Haven,Zach Hartman,50586,Bucknell
+2022,11/20,Navy Classic,165,W,FALL,2:17,Colt Yinger,50607,Ohio,Zach Hartman,50586,Bucknell
+2022,11/20,Navy Classic,165,W,TF5,16 - 1 6:29,Selwyn Porter,57380,The Citadel,Zach Hartman,50586,Bucknell
+2022,11/20,Navy Classic,165,W,MD,16 - 5,Timothy Fitzpatrick,57254,American,Zach Hartman,50586,Bucknell
+2022,11/13,Bucknell - Bellarmine Dual,165,W,FALL,2:34,Alex Rivera,61865,Bellarmine,Zach Hartman,50586,Bucknell
+2022,11/13,Bucknell - George Mason Dual,165,W,DEC,6 - 1,Tyler Kocak,69715,George Mason,Zach Hartman,50586,Bucknell
+2022,11/13,Averett University - Bucknell Dual,165,W,TF5,20 - 4 4:49,Alex Turley,68764,Averett University,Zach Hartman,50586,Bucknell
+2022,01/29,Mat Town Open II,165,L,MFOR,0 - 0,Mike Ponenti,73335,Navy,Matthew Kidwell,70027,Bucknell
+2022,01/29,Mat Town Open II,165,L,INJ,7:00,Ashton Eyler,58037,Lock Haven,Matthew Kidwell,70027,Bucknell
+2022,01/08,Bucknell - Hofstra Dual,165,L,DEC,7 - 3,Ricky Stamm,44699,Hofstra,Matthew Kidwell,70027,Bucknell
+2022,01/08,Bucknell - LIU Dual,165,L,DEC,7 - 3,Blake Bahna,72236,LIU,Matthew Kidwell,70027,Bucknell
+2022,01/07,David Lehman Open,165,W,TF5,16 - 1 2:34,Miles Bassett,70025,Bucknell,Matthew Kidwell,70027,Bucknell
+2022,01/07,David Lehman Open,165,L,DEC,10 - 5,Tye Weathersby,69570,Pittsburgh,Matthew Kidwell,70027,Bucknell
+2022,01/07,David Lehman Open,165,L,MFOR,0 - 0,Sammy Hepler,49169,Lock Haven,Matthew Kidwell,70027,Bucknell
+2022,11/20,Navy Classic,174,W,DEC,4 - 1,Mike Caniglia,63012,Kent State,Matthew Kidwell,70027,Bucknell
+2022,11/20,Navy Classic,174,L,MD,11 - 3,Michael Ferree,56368,Kent State,Matthew Kidwell,70027,Bucknell
+2022,11/20,Navy Classic,174,L,MD,12 - 4,Nate Jimenez,51688,Michigan State,Matthew Kidwell,70027,Bucknell
+2022,02/13,John Carroll Open,165,L,TF5,16 - 1 7:00,Marques McClorin,70305,Gannon,Nicholas Arbes,72508,Bucknell
+2022,02/13,John Carroll Open,165,L,FALL,1:41,Jack Blumer,62728,West Virginia,Nicholas Arbes,72508,Bucknell
+2022,01/07,David Lehman Open,165,L,DEC,9 - 2,Andrew Vogelbacher,72633,Millersville,Nicholas Arbes,72508,Bucknell
+2022,01/07,David Lehman Open,165,L,TF5,16 - 0 3:09,Thayne Lawrence,62598,Lehigh,Nicholas Arbes,72508,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,165,L,MD,11 - 0,Nate Camiscioli,76005,US Naval Academy Prep School,Nicholas Arbes,72508,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,165,L,MD,13 - 2,Jack Janda,71665,Drexel,Nicholas Arbes,72508,Bucknell
+2022,01/29,Mat Town Open II,165,L,FALL,2:05,Ethan Wiant,63052,Clarion,Miles Bassett,70025,Bucknell
+2022,01/29,Mat Town Open II,165,L,TF5,20 - 4 7:00,Sammy Hepler,49169,Lock Haven,Miles Bassett,70025,Bucknell
+2022,01/16,Purple Raider Open,165,L,DEC,8 - 3,Colton Blaha,69872,Michigan State,Miles Bassett,70025,Bucknell
+2022,01/16,Purple Raider Open,165,L,TF5,21 - 3 7:00,Aaron McDaniel,69413,Edinboro,Miles Bassett,70025,Bucknell
+2022,01/07,David Lehman Open,165,L,TF5,16 - 1 2:34,Matthew Kidwell,70027,Bucknell,Miles Bassett,70025,Bucknell
+2022,01/07,David Lehman Open,165,L,TF5,18 - 2 4:57,Connor Herceg,63054,Lehigh,Miles Bassett,70025,Bucknell
+2022,12/05,Patriot Open,165,L,TF5,16 - 1 2:55,Jacob Null,71933,NC State,Miles Bassett,70025,Bucknell
+2022,12/05,Patriot Open,165,L,MD,12 - 2,Jaden Hardrick,65048,Davidson,Miles Bassett,70025,Bucknell
+2022,11/28,Mat Town Open I,165,L,DEC,11 - 5,Brody Oleksak,76002,Spartan Combat RTC,Miles Bassett,70025,Bucknell
+2022,11/28,Mat Town Open I,165,L,FALL,0:49,Jack Janda,71665,Drexel,Miles Bassett,70025,Bucknell
+2022,11/20,Shorty Hitchcock Open,165,L,DEC,6 - 1,Andrew Vogelbacher,72633,Millersville,Miles Bassett,70025,Bucknell
+2022,11/20,Shorty Hitchcock Open,165,L,MD,16 - 5,Kyle Matthews,70152,LIU,Miles Bassett,70025,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,165,L,FALL,3:18,Angel Garcia,63066,Rider,Miles Bassett,70025,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,165,L,DEC,8 - 5,Breon Phifer,72682,American,Miles Bassett,70025,Bucknell
+2022,03/04,EIWA Championships,174,L,TF5,21 - 4 6:16,Nick Incontrera,57070,Pennsylvania,Sam Barnes,63005,Bucknell
+2022,03/04,EIWA Championships,174,L,DEC,8 - 2,Timothy Fitzpatrick,57254,American,Sam Barnes,63005,Bucknell
+2022,02/18,Bucknell - Oklahoma State Dual,174,L,FALL,1:44,Dustin Plott,57607,Oklahoma State,Sam Barnes,63005,Bucknell
+2022,02/12,Bucknell - Lehigh Dual,174,L,DEC,9 - 5,Jake Logan,57185,Lehigh,Sam Barnes,63005,Bucknell
+2022,02/06,American - Bucknell Dual,174,L,DEC,3 - 2,Timothy Fitzpatrick,57254,American,Sam Barnes,63005,Bucknell
+2022,02/04,Bucknell - Navy Dual,174,L,DEC,9 - 2,Cael Crebs,72190,Navy,Sam Barnes,63005,Bucknell
+2022,01/23,Bucknell - Drexel Dual,174,L,FALL,3:46,Michael O'Malley,50836,Drexel,Sam Barnes,63005,Bucknell
+2022,01/22,Sacred Heart - Bucknell Dual,174,L,FALL,0:39,Robert Hetherman,57209,Sacred Heart,Sam Barnes,63005,Bucknell
+2022,01/15,Bucknell - Brown Dual,184,L,DEC,13 - 6,James Araneo,71780,Brown,Sam Barnes,63005,Bucknell
+2022,01/14,Bucknell - Harvard Dual,174,W,DEC,5 - 0,Michael Doggett,62194,Harvard,Sam Barnes,63005,Bucknell
+2022,01/08,Bucknell - Hofstra Dual,174,W,INJ,6:13,Ross McFarland,62209,Hofstra,Sam Barnes,63005,Bucknell
+2022,01/08,Bucknell - LIU Dual,174,L,MD,11 - 3,Ryan Ferro,50086,LIU,Sam Barnes,63005,Bucknell
+2022,12/18,Lock Haven - Bucknell Dual,174,W,DEC,10 - 3,Tyler Stoltzfus,65398,Lock Haven,Sam Barnes,63005,Bucknell
+2022,12/05,Patriot Open,174,L,MD,12 - 2,Cael Crebs,72190,Navy,Sam Barnes,63005,Bucknell
+2022,12/05,Patriot Open,174,W,DEC,3 - 0,Dylan Reinert,63029,NC State,Sam Barnes,63005,Bucknell
+2022,12/05,Patriot Open,174,W,DEC,9 - 5,Gary Eakin,60679,Navy,Sam Barnes,63005,Bucknell
+2022,12/05,Patriot Open,174,L,DEC,5 - 3,Anthony Cicciarelli,50435,West Virginia,Sam Barnes,63005,Bucknell
+2022,11/28,Mat Town Open I,174,L,FALL,0:30,Peyton Craft,71812,Cornell,Sam Barnes,63005,Bucknell
+2022,11/28,Mat Town Open I,174,W,MD,12 - 1,Kolby Flank,67153,Pittsburgh,Sam Barnes,63005,Bucknell
+2022,11/28,Mat Town Open I,174,L,MD,14 - 2,Tyler Stoltzfus,65398,Lock Haven,Sam Barnes,63005,Bucknell
+2022,11/28,Mat Town Open I,174,W,DEC,6 - 0,Anthony Derosa,74515,Bloomsburg,Sam Barnes,63005,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,174,L,FALL,0:54,Jack Kelly,72086,Penn State,Sam Barnes,63005,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,174,L,FALL,0:52,Chris Foca,56712,Cornell,Sam Barnes,63005,Bucknell
+2022,11/07,Clarion Open,174,L,DEC,8 - 6,John Crawford,62873,Franklin & Marshall,Sam Barnes,63005,Bucknell
+2022,11/07,Clarion Open,174,L,FALL,1:22,Shane Finney,57371,Navy,Sam Barnes,63005,Bucknell
+2022,12/03,Michigan State - Bucknell Dual,174,W,MD,13 - 4,Nate Jimenez,51688,Michigan State,Jaden Fisher,56900,Bucknell
+2022,11/20,Navy Classic,174,W,DEC,8 - 7,James Limongi,57342,Kent State,Jaden Fisher,56900,Bucknell
+2022,11/20,Navy Classic,174,L,DEC,12 - 6,Sal Perrine,73171,Ohio,Jaden Fisher,56900,Bucknell
+2022,11/20,Navy Classic,174,W,FALL,4:20,Cole Burke,57379,The Citadel,Jaden Fisher,56900,Bucknell
+2022,11/20,Navy Classic,174,W,FALL,4:08,Colin Shannon,50060,American,Jaden Fisher,56900,Bucknell
+2022,11/13,Bucknell - George Mason Dual,174,W,DEC,5 - 1,Logan Messer,71846,George Mason,Jaden Fisher,56900,Bucknell
+2022,11/13,Averett University - Bucknell Dual,174,W,TF5,17 - 2 6:32,George Moseley,63494,Averett University,Jaden Fisher,56900,Bucknell
+2022,11/07,Clarion Open,174,W,FALL,1:18,Lincoln Eby,72193,Unattached,Jaden Fisher,56900,Bucknell
+2022,11/07,Clarion Open,174,L,DEC,10 - 9,Luca Augustine,68730,Pittsburgh,Jaden Fisher,56900,Bucknell
+2022,11/07,Clarion Open,174,W,DEC,11 - 4,John Worthing,61847,Clarion,Jaden Fisher,56900,Bucknell
+2022,11/07,Clarion Open,174,W,DEC,7 - 2,Shane Finney,57371,Navy,Jaden Fisher,56900,Bucknell
+2022,11/07,Clarion Open,174,W,DEC,8 - 6,Ross McFarland,62209,Hofstra,Jaden Fisher,56900,Bucknell
+2022,02/06,American Bucknell ECM,174,L,DEC,7 - 3,Timothy Fitzpatrick,57254,American,Nolan Springer,71749,Bucknell
+2022,01/30,Rider - Bucknell Dual,174,L,DEC,4 - 0,Shane Reitsma,63067,Rider,Nolan Springer,71749,Bucknell
+2022,01/29,Army - Bucknell Dual,174,L,FALL,4:16,Ben Pasiuk,57286,Army West Point,Nolan Springer,71749,Bucknell
+2022,01/22,Bucknell Sacred Heart ECM,174,W,DEC,6 - 1,Ryan Bolletino,69989,Sacred Heart,Nolan Springer,71749,Bucknell
+2022,12/18,Buffalo - Bucknell Dual,174,L,DEC,10 - 5,Guiseppe Hoose,56371,Buffalo,Nolan Springer,71749,Bucknell
+2022,12/05,Patriot Open,174,W,FALL,1:54,Zachary Burton,77582,Unattached,Nolan Springer,71749,Bucknell
+2022,12/05,Patriot Open,174,W,DEC,6 - 0,Nathaniel Lapinski,67252,Drexel,Nolan Springer,71749,Bucknell
+2022,12/05,Patriot Open,174,L,MD,12 - 1,Justin Phillips,57093,Virginia,Nolan Springer,71749,Bucknell
+2022,12/05,Patriot Open,174,L,MD,17 - 8,Alex Faison,56428,NC State,Nolan Springer,71749,Bucknell
+2022,12/03,Bucknell Mich St ECM,174,L,MD,12 - 4,Marty Larkin,69873,Michigan State,Nolan Springer,71749,Bucknell
+2022,11/28,Mat Town Open I,174,L,DEC,3 - 2,Evan Canoyer,71815,Spartan Combat RTC,Nolan Springer,71749,Bucknell
+2022,11/28,Mat Town Open I,174,W,FALL,2:28,Zander Manuel,70146,Navy,Nolan Springer,71749,Bucknell
+2022,11/28,Mat Town Open I,174,L,MD,10 - 1,Hudson Stewart,67386,Virginia,Nolan Springer,71749,Bucknell
+2022,11/28,Mat Town Open I,174,W,DEC,5 - 2,John Stawinski,49114,Cornell,Nolan Springer,71749,Bucknell
+2022,11/20,Navy Classic,174,W,FALL,4:25,Tanner Culver,62461,Bloomsburg,Nolan Springer,71749,Bucknell
+2022,11/20,Navy Classic,174,W,MD,8 - 0,Joey Arnold,72215,Edinboro,Nolan Springer,71749,Bucknell
+2022,11/20,Navy Classic,174,L,MD,15 - 4,Cael Crebs,72190,Navy,Nolan Springer,71749,Bucknell
+2022,11/20,Navy Classic,174,L,MD,20 - 7,Sal Perrine,73171,Ohio,Nolan Springer,71749,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,174,L,DEC,7 - 5,Justin Mayes,68706,Cornell,Nolan Springer,71749,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,174,L,MD,9 - 1,Harrison Trahan,71760,Brown,Nolan Springer,71749,Bucknell
+2022,11/13,Bucknell - Bellarmine Dual,174,L,DEC,5 - 4,Eric Beck,49377,Bellarmine,Nolan Springer,71749,Bucknell
+2022,11/07,Clarion Open,174,L,DEC,12 - 5,John Worthing,61847,Clarion,Nolan Springer,71749,Bucknell
+2022,11/07,Clarion Open,174,L,DEC,5 - 4,Tucker Nadeau,56465,West Virginia,Nolan Springer,71749,Bucknell
+2022,02/06,Edinboro Open,174,L,FALL,4:53,Bryer Hall,71787,Ohio State,Coy Bastian,71757,Bucknell
+2022,02/06,Edinboro Open,174,L,DEC,5 - 4,Sean Billups,63011,Kent State,Coy Bastian,71757,Bucknell
+2022,01/30,Rider Bucknell ECM,174,W,SV-1,6 - 4,Corey Connolly,62210,Rider,Coy Bastian,71757,Bucknell
+2022,01/29,Army Bucknell ECM,174,L,FALL,3:46,Ben Pasiuk,57286,Army West Point,Coy Bastian,71757,Bucknell
+2022,01/07,David Lehman Open,174,W,DEC,8 - 1,Matt McKenna,67334,Michigan,Coy Bastian,71757,Bucknell
+2022,01/07,David Lehman Open,174,L,FALL,4:37,Julien Broderson,57644,Iowa State,Coy Bastian,71757,Bucknell
+2022,01/07,David Lehman Open,174,L,FALL,1:57,Victor Marcelli,50587,Virginia,Coy Bastian,71757,Bucknell
+2022,12/11,Cleveland State Open,174,L,DEC,8 - 3,Jaden Bullock,67035,Michigan,Coy Bastian,71757,Bucknell
+2022,12/11,Cleveland State Open,174,L,FALL,2:46,Logan Massa,39517,Michigan,Coy Bastian,71757,Bucknell
+2022,12/05,Patriot Open,174,L,DEC,6 - 4,Jeremy Seymour,62586,George Mason,Coy Bastian,71757,Bucknell
+2022,12/05,Patriot Open,174,L,MD,9 - 1,Steven Newell,57721,Davidson,Coy Bastian,71757,Bucknell
+2022,11/20,Shorty Hitchcock Open,174,L,DEC,6 - 4,Tucker Nadeau,56465,West Virginia,Coy Bastian,71757,Bucknell
+2022,11/20,Shorty Hitchcock Open,174,L,TF5,19 - 4 6:51,Justin Phillips,57093,Virginia,Coy Bastian,71757,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,165,L,MD,16 - 6,Tate Nichter,72623,Drexel,Coy Bastian,71757,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,165,L,FALL,1:31,Crew Fullerton,57225,Franklin & Marshall,Coy Bastian,71757,Bucknell
+2022,03/04,EIWA Championships,184,L,DEC,5 - 2,Leonardo Tarantino,51222,Harvard,Logan Deacetis,71753,Bucknell
+2022,03/04,EIWA Championships,184,L,DEC,3 - 2,Brad Laughlin,51265,Army West Point,Logan Deacetis,71753,Bucknell
+2022,02/18,Bucknell - Oklahoma State Dual,184,L,MD,21 - 8,Dakota Geer,45373,Oklahoma State,Logan Deacetis,71753,Bucknell
+2022,02/12,Bucknell - Lehigh Dual,184,L,DEC,5 - 1,AJ Burkhart,50632,Lehigh,Logan Deacetis,71753,Bucknell
+2022,02/06,American - Bucknell Dual,184,W,FALL,1:33,Colin Shannon,50060,American,Logan Deacetis,71753,Bucknell
+2022,02/04,Bucknell - Navy Dual,184,L,DEC,6 - 2,Hunter Johns,62914,Navy,Logan Deacetis,71753,Bucknell
+2022,01/30,Rider - Bucknell Dual,184,L,DEC,8 - 7,Evan Vazquez,62576,Rider,Logan Deacetis,71753,Bucknell
+2022,01/29,Army - Bucknell Dual,184,L,DEC,5 - 3,Brad Laughlin,51265,Army West Point,Logan Deacetis,71753,Bucknell
+2022,01/23,Bucknell - Drexel Dual,184,L,DEC,6 - 4,Bryan McLaughlin,49120,Drexel,Logan Deacetis,71753,Bucknell
+2022,01/22,Sacred Heart - Bucknell Dual,184,W,FALL,2:28,Joseph Accousti,49034,Sacred Heart,Logan Deacetis,71753,Bucknell
+2022,01/14,Bucknell - Harvard Dual,184,W,MD,10 - 2,Luke Rada,67359,Harvard,Logan Deacetis,71753,Bucknell
+2022,01/08,Bucknell - Hofstra Dual,184,L,DEC,8 - 2,Charles Small,51398,Hofstra,Logan Deacetis,71753,Bucknell
+2022,01/08,Bucknell - LIU Dual,184,W,MD,9 - 1,TJ Franden,62125,LIU,Logan Deacetis,71753,Bucknell
+2022,12/29,Illinois Matmen Open,184,W,TF5,15 - 0 4:41,Devonjae Hudson,73346,Northern Illinois,Logan Deacetis,71753,Bucknell
+2022,12/29,Illinois Matmen Open,184,L,DEC,8 - 7,Zach Braunagel,50925,Illinois,Logan Deacetis,71753,Bucknell
+2022,12/29,Illinois Matmen Open,184,L,DEC,7 - 0,Gregg Harvey,45148,Pittsburgh,Logan Deacetis,71753,Bucknell
+2022,12/18,Lock Haven - Bucknell Dual,184,W,DEC,5 - 3,Colin Fegley,63035,Lock Haven,Logan Deacetis,71753,Bucknell
+2022,12/18,Buffalo - Bucknell Dual,184,L,DEC,9 - 8,Peter Acciardi,51069,Buffalo,Logan Deacetis,71753,Bucknell
+2022,12/03,Michigan State - Bucknell Dual,184,L,DEC,9 - 6,Layne Malczewski,51828,Michigan State,Logan Deacetis,71753,Bucknell
+2022,11/20,Navy Classic,184,L,DEC,8 - 3,Ethan Ducca,62334,Edinboro,Logan Deacetis,71753,Bucknell
+2022,11/20,Navy Classic,184,L,DEC,7 - 4,Ethan Ducca,62334,Edinboro,Logan Deacetis,71753,Bucknell
+2022,11/20,Navy Classic,184,W,DEC,10 - 5,Zayne Lehman,71781,Ohio,Logan Deacetis,71753,Bucknell
+2022,11/20,Navy Classic,184,W,FALL,2:01,William Rogers,71667,The Citadel,Logan Deacetis,71753,Bucknell
+2022,11/20,Navy Classic,184,W,MD,10 - 1,Max Gourley,72529,VMI,Logan Deacetis,71753,Bucknell
+2022,11/20,Navy Classic,184,W,FALL,2:09,Zach Brown,62390,VMI,Logan Deacetis,71753,Bucknell
+2022,11/13,Bucknell - Bellarmine Dual,184,W,FALL,3:20,Sam Schroeder,67333,Bellarmine,Logan Deacetis,71753,Bucknell
+2022,11/13,Bucknell - George Mason Dual,184,W,MD,8 - 0,Kyle Davis,50453,George Mason,Logan Deacetis,71753,Bucknell
+2022,11/13,Averett University - Bucknell Dual,184,W,TF5,16 - 0 6:15,Jamar Christian,68763,Averett University,Logan Deacetis,71753,Bucknell
+2022,11/07,Clarion Open,184,W,FALL,2:36,Joseph Beck,74517,Slippery Rock,Logan Deacetis,71753,Bucknell
+2022,11/07,Clarion Open,184,W,FALL,2:05,Cole Hivnor,72118,Pittsburgh,Logan Deacetis,71753,Bucknell
+2022,11/07,Clarion Open,184,W,DEC,8 - 4,Anthony D'Alesio,67000,West Virginia,Logan Deacetis,71753,Bucknell
+2022,11/07,Clarion Open,184,L,DEC,8 - 2,Anthony Carman,62423,West Virginia,Logan Deacetis,71753,Bucknell
+2022,11/07,Clarion Open,184,W,DEC,8 - 3,Max Wohlabaugh,49096,Clarion,Logan Deacetis,71753,Bucknell
+2022,11/07,Clarion Open,184,L,MD,10 - 2,Charles Small,51398,Hofstra,Logan Deacetis,71753,Bucknell
+2022,01/29,Mat Town Open II,184,L,MFOR,0 - 0,Maximus Hale,63719,Pennsylvania,Michael Giallorenzi,62246,Bucknell
+2022,01/29,Mat Town Open II,184,L,INJ,7:00,Maximus Hale,63719,Pennsylvania,Michael Giallorenzi,62246,Bucknell
+2022,01/29,Mat Town Open II,184,L,DEC,8 - 2,John Stout,60543,PRTC,Michael Giallorenzi,62246,Bucknell
+2022,01/07,David Lehman Open,184,W,TF5,17 - 0 2:54,Chris Salazar,77993,North Carolina,Michael Giallorenzi,62246,Bucknell
+2022,01/07,David Lehman Open,184,W,FALL,6:10,James Brown,74418,Virginia Tech,Michael Giallorenzi,62246,Bucknell
+2022,01/07,David Lehman Open,184,L,MD,10 - 2,Jack Wilt,73042,Lehigh,Michael Giallorenzi,62246,Bucknell
+2022,01/07,David Lehman Open,184,L,DEC,7 - 4,Anthony Giampietro,72634,Millersville,Michael Giallorenzi,62246,Bucknell
+2022,11/20,Shorty Hitchcock Open,184,W,FALL,6:22,Rajhan J lewis jr,76854,East Stroudsburg,Michael Giallorenzi,62246,Bucknell
+2022,11/20,Shorty Hitchcock Open,184,W,DEC,2 - 0,Declan Griffin,74439,United States Military Academy,Michael Giallorenzi,62246,Bucknell
+2022,11/20,Shorty Hitchcock Open,184,L,DEC,7 - 4,Dylan Bisel,62774,Clarion,Michael Giallorenzi,62246,Bucknell
+2022,11/20,Shorty Hitchcock Open,184,L,DEC,7 - 0,Andrew Berreyesa,49111,Cornell,Michael Giallorenzi,62246,Bucknell
+2022,03/04,EIWA Championships,197,L,SV-1,7 - 5,Sam Wustefeld,57272,Columbia,Mason McCready,57223,Bucknell
+2022,03/04,EIWA Championships,197,L,FALL,0:28,Jacob Cardenas,56770,Cornell,Mason McCready,57223,Bucknell
+2022,03/04,EIWA Championships,197,W,DEC,5 - 3,Nunzio Crowley,45185,LIU,Mason McCready,57223,Bucknell
+2022,02/18,Bucknell - Oklahoma State Dual,197,L,DEC,3 - 2,Gavin Stika,56258,Oklahoma State,Mason McCready,57223,Bucknell
+2022,02/12,Bucknell - Lehigh Dual,197,L,DEC,8 - 3,JT Davis,65763,Lehigh,Mason McCready,57223,Bucknell
+2022,02/06,American - Bucknell Dual,197,W,MD,13 - 3,Carston Rawls,72684,American,Mason McCready,57223,Bucknell
+2022,02/04,Bucknell - Navy Dual,197,L,FALL,3:49,Jake Koser,50890,Navy,Mason McCready,57223,Bucknell
+2022,01/30,Rider - Bucknell Dual,197,W,DEC,6 - 1,Matt Correnti,44705,Rider,Mason McCready,57223,Bucknell
+2022,01/29,Army - Bucknell Dual,197,L,DEC,6 - 1,Jack Brown,51262,Army West Point,Mason McCready,57223,Bucknell
+2022,01/23,Bucknell - Drexel Dual,197,W,MD,8 - 0,Santino Morina,62654,Drexel,Mason McCready,57223,Bucknell
+2022,01/22,Sacred Heart - Bucknell Dual,197,W,FALL,2:48,Logan Michael,69703,Sacred Heart,Mason McCready,57223,Bucknell
+2022,01/15,Bucknell - Brown Dual,197,L,DEC,6 - 2,Cade Wilson,56799,Brown,Mason McCready,57223,Bucknell
+2022,01/14,Bucknell - Harvard Dual,197,W,DEC,6 - 3,Nick Marcenelle,67358,Harvard,Mason McCready,57223,Bucknell
+2022,01/08,Bucknell - Hofstra Dual,197,L,DEC,3 - 2,Trey Rogers,51099,Hofstra,Mason McCready,57223,Bucknell
+2022,01/08,Bucknell - LIU Dual,197,W,MD,14 - 3,Karl Bouyer,67184,LIU,Mason McCready,57223,Bucknell
+2022,12/29,Illinois Matmen Open,197,W,DEC,3 - 1,Aidan Conner,57524,Princeton,Mason McCready,57223,Bucknell
+2022,12/29,Illinois Matmen Open,197,W,FALL,5:44,Brandon Hoselton,71740,Campbell,Mason McCready,57223,Bucknell
+2022,12/29,Illinois Matmen Open,197,L,DEC,3 - 1,Cody Baldridge,67627,North Central,Mason McCready,57223,Bucknell
+2022,12/29,Illinois Matmen Open,197,W,DEC,5 - 0,Matt Zuber,66265,Northern Illinois,Mason McCready,57223,Bucknell
+2022,12/29,Illinois Matmen Open,197,L,MD,11 - 3,Braxton Amos,62756,Wisconsin,Mason McCready,57223,Bucknell
+2022,12/18,Lock Haven - Bucknell Dual,197,W,SV-1,4 - 2,Parker McClellan,56598,Lock Haven,Mason McCready,57223,Bucknell
+2022,12/18,Buffalo - Bucknell Dual,197,L,DEC,2 - 0,Sam Mitchell,61028,Buffalo,Mason McCready,57223,Bucknell
+2022,12/03,Michigan State - Bucknell Dual,197,L,MD,12 - 3,Cameron Caffey,50273,Michigan State,Mason McCready,57223,Bucknell
+2022,11/20,Navy Classic,197,W,INJ,6:49,Tanner Clark,59094,Kent State,Mason McCready,57223,Bucknell
+2022,11/20,Navy Classic,197,L,DEC,2 - 0,Jake Koser,50890,Navy,Mason McCready,57223,Bucknell
+2022,11/20,Navy Classic,197,L,MD,10 - 0,Jordan Greer,62652,Ohio,Mason McCready,57223,Bucknell
+2022,11/20,Navy Classic,197,W,DEC,7 - 2,William Jarrell,62907,American,Mason McCready,57223,Bucknell
+2022,11/13,Bucknell - Bellarmine Dual,197,W,DEC,7 - 0,Bryant Wilkinson,73535,Bellarmine,Mason McCready,57223,Bucknell
+2022,11/13,Bucknell - George Mason Dual,197,L,DEC,10 - 4,Jon List,71833,George Mason,Mason McCready,57223,Bucknell
+2022,11/13,Averett University - Bucknell Dual,197,W,FALL,4:29,Billy Baldwin,57728,Averett University,Mason McCready,57223,Bucknell
+2022,03/04,EIWA Championships,285,L,SV-1,3 - 1,Daniel Conley,51103,Columbia,Luke Niemeyer,57205,Bucknell
+2022,03/04,EIWA Championships,285,L,FALL,3:33,Joe Doyle,49050,Binghamton,Luke Niemeyer,57205,Bucknell
+2022,02/18,Bucknell - Oklahoma State Dual,285,L,TF5,20 - 4 4:50,Luke Surber,62347,Oklahoma State,Luke Niemeyer,57205,Bucknell
+2022,02/12,Bucknell - Lehigh Dual,285,L,FALL,0:57,Jordan Wood,45107,Lehigh,Luke Niemeyer,57205,Bucknell
+2022,02/06,American - Bucknell Dual,285,L,DEC,8 - 1,Isaac Righter,62521,American,Luke Niemeyer,57205,Bucknell
+2022,02/04,Bucknell - Navy Dual,285,L,DEC,5 - 0,Ryan Catka,72191,Navy,Luke Niemeyer,57205,Bucknell
+2022,01/30,Rider - Bucknell Dual,285,L,DEC,11 - 6,David Szuba,72908,Rider,Luke Niemeyer,57205,Bucknell
+2022,01/29,Army - Bucknell Dual,285,W,DEC,4 - 3,Brandon Phillips,51196,Army West Point,Luke Niemeyer,57205,Bucknell
+2022,01/23,Bucknell - Drexel Dual,285,W,DEC,3 - 1,Elijah Anthony,67251,Drexel,Luke Niemeyer,57205,Bucknell
+2022,01/22,Sacred Heart - Bucknell Dual,285,W,FALL,1:49,Nick Copley,73491,Sacred Heart,Luke Niemeyer,57205,Bucknell
+2022,01/15,Bucknell - Brown Dual,285,W,DEC,5 - 3,Lear Quinton,62572,Brown,Luke Niemeyer,57205,Bucknell
+2022,01/14,Bucknell - Harvard Dual,285,L,DEC,3 - 2,Jeffrey Crooks,72111,Harvard,Luke Niemeyer,57205,Bucknell
+2022,01/08,Bucknell - Hofstra Dual,285,L,DEC,6 - 2,Zachary Knighton-Ward,53791,Hofstra,Luke Niemeyer,57205,Bucknell
+2022,01/08,Bucknell - LIU Dual,285,L,DEC,5 - 2,Tim Nagosky,57783,LIU,Luke Niemeyer,57205,Bucknell
+2022,12/18,Lock Haven - Bucknell Dual,285,L,MD,11 - 2,Isaac Reid,50915,Lock Haven,Luke Niemeyer,57205,Bucknell
+2022,12/18,Buffalo - Bucknell Dual,285,W,DEC,9 - 5,Toby Cahill,49097,Buffalo,Luke Niemeyer,57205,Bucknell
+2022,12/03,Michigan State - Bucknell Dual,285,W,DEC,11 - 5,Brad Wilton,49187,Michigan State,Luke Niemeyer,57205,Bucknell
+2022,11/20,Navy Classic,285,L,MD,13 - 3,Shane Noonan,58615,Bloomsburg,Luke Niemeyer,57205,Bucknell
+2022,11/20,Navy Classic,285,L,FALL,2:01,Jordan Earnest,51122,Ohio,Luke Niemeyer,57205,Bucknell
+2022,11/20,Navy Classic,285,W,DEC,5 - 3,Isaac Dolph,67425,VMI,Luke Niemeyer,57205,Bucknell
+2022,11/13,Bucknell - George Mason Dual,285,W,MD,10 - 0,Ramses Montalvo,55869,George Mason,Luke Niemeyer,57205,Bucknell
+2022,11/13,Averett University - Bucknell Dual,285,W,DEC,4 - 2,Trent Ragland,56588,Averett University,Luke Niemeyer,57205,Bucknell
+2022,02/04,Navy Bucknell ECM,285,L,FALL,5:11,Ryan Catka,72191,Navy,Max Harar,72510,Bucknell
+2022,01/29,Mat Town Open II,285,W,DEC,7 - 4,Sam O'Brian,72104,Maryland,Max Harar,72510,Bucknell
+2022,01/29,Mat Town Open II,285,L,FALL,1:27,Dustin Swanson,71671,Kutztown,Max Harar,72510,Bucknell
+2022,01/29,Mat Town Open II,285,L,FALL,4:15,Isaac Reid,50915,Lock Haven,Max Harar,72510,Bucknell
+2022,12/05,Patriot Open,285,W,FALL,6:49,Sam O'Brian,72104,Maryland,Max Harar,72510,Bucknell
+2022,12/05,Patriot Open,285,L,MD,14 - 6,Rayshawn Dixon,70075,Ferrum,Max Harar,72510,Bucknell
+2022,12/05,Patriot Open,285,W,FALL,6:29,Brian Jackson,67429,VMI,Max Harar,72510,Bucknell
+2022,12/05,Patriot Open,285,L,FALL,1:17,Grady Griess,63170,Navy,Max Harar,72510,Bucknell
+2022,11/28,Mat Town Open I,285,L,TF5,16 - 1 5:19,Nathan Taylor,73044,Lehigh,Max Harar,72510,Bucknell
+2022,11/28,Mat Town Open I,285,L,TF5,15 - 0 3:10,Quinn Miller,49333,Virginia,Max Harar,72510,Bucknell
+2022,11/20,Navy Classic,285,L,DEC,4 - 3,Shane Noonan,58615,Bloomsburg,Max Harar,72510,Bucknell
+2022,11/20,Navy Classic,285,L,FALL,2:25,Isaac Righter,62521,American,Max Harar,72510,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,285,L,FALL,1:10,Lewis Fernandes,56901,Cornell,Max Harar,72510,Bucknell
+2022,11/14,Jonathan Kaloust Bearcat Open,285,L,DEC,6 - 3,Collin Burns,66932,Binghamton,Max Harar,72510,Bucknell
+2022,11/13,Bucknell - Bellarmine Dual,285,W,DEC,8 - 2,Charlie Cadell,56942,Bellarmine,Max Harar,72510,Bucknell

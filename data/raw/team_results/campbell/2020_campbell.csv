@@ -1,0 +1,666 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2020,03/08,SoCon Championships,125,W,MD,10 - 2,Jordan White,62179,The Citadel,Korbin Meink,49074,Campbell
+2020,03/08,SoCon Championships,125,W,DEC,7 - 4,Fabian Gutierrez,45245,Chattanooga,Korbin Meink,49074,Campbell
+2020,03/08,SoCon Championships,125,W,DEC,5 - 3,Sean Carter,62808,Appalachian State,Korbin Meink,49074,Campbell
+2020,02/23,Campbell - Davidson Dual,125,W,DEC,9 - 3,Cian Fischer,57516,Davidson,Korbin Meink,49074,Campbell
+2020,02/15,Campbell - VMI Dual,125,W,TF5,17 - 0 2:42,John McGarry,62382,VMI,Korbin Meink,49074,Campbell
+2020,02/13,Appalachian State - Campbell Dual,125,L,DEC,6 - 4,Sean Carter,62808,Appalachian State,Korbin Meink,49074,Campbell
+2020,02/08,Chattanooga - Campbell Dual,125,L,SV-1,7 - 5,Fabian Gutierrez,45245,Chattanooga,Korbin Meink,49074,Campbell
+2020,01/25,Presbyterian - Campbell Dual,125,W,MD,11 - 2,Jacob Brasseur,61212,Presbyterian,Korbin Meink,49074,Campbell
+2020,01/25,Oregon State - Campbell Dual,125,L,FALL,1:21,Brandon Kaylor,51198,Oregon State,Korbin Meink,49074,Campbell
+2020,01/18,The Citadel - Campbell Dual,125,W,FALL,2:15,Jordan White,62179,The Citadel,Korbin Meink,49074,Campbell
+2020,01/11,Campbell - Harvard Dual,125,W,DEC,9 - 6,Beau Bayless,59670,Harvard,Korbin Meink,49074,Campbell
+2020,01/11,Campbell - Arizona State Dual,125,L,DEC,15 - 8,Brandon Courtney,50881,Arizona State,Korbin Meink,49074,Campbell
+2020,01/11,Campbell - Iowa State Dual,125,L,DEC,9 - 2,Alex Mackall,44577,Iowa State,Korbin Meink,49074,Campbell
+2020,12/29,Midlands Championships,125,L,MD,8 - 0,Drew Hildebrandt,44818,Central Michigan,Korbin Meink,49074,Campbell
+2020,12/29,Midlands Championships,125,W,MD,8 - 0,Gio Disabato,50840,Ohio,Korbin Meink,49074,Campbell
+2020,12/29,Midlands Championships,125,L,MD,15 - 6,Graham Shore,50580,Air Force,Korbin Meink,49074,Campbell
+2020,12/15,Reno Tournament of Champions,125,W,TF5,18 - 3 3:39,Sammuel Hyde,63954,Eastern Oregon University,Korbin Meink,49074,Campbell
+2020,12/15,Reno Tournament of Champions,125,W,MD,12 - 1,Gregory Viloria,63667,Menlo,Korbin Meink,49074,Campbell
+2020,12/15,Reno Tournament of Champions,125,W,MD,13 - 2,Antonio Lorenzo,57329,Cal Poly,Korbin Meink,49074,Campbell
+2020,12/15,Reno Tournament of Champions,125,W,DEC,7 - 5,Nick Raimo,56695,Arizona State,Korbin Meink,49074,Campbell
+2020,12/15,Reno Tournament of Champions,125,W,FALL,4:35,Jeremy Trihn,50849,Fresno State,Korbin Meink,49074,Campbell
+2020,11/23,Navy Classic,125,W,MFOR,0 - 0,Paxton Rosen,49072,Campbell,Korbin Meink,49074,Campbell
+2020,11/23,Navy Classic,125,W,FALL,4:42,Cameron Lathem,44691,Cleveland State,Korbin Meink,49074,Campbell
+2020,11/23,Navy Classic,125,W,DEC,6 - 3,Logan Treaster,49205,Navy,Korbin Meink,49074,Campbell
+2020,11/23,Navy Classic,125,L,MD,15 - 4,Nic Aguilar,51104,Rutgers,Korbin Meink,49074,Campbell
+2020,11/23,Navy Classic,125,W,MD,10 - 1,Reese Fry,56796,Brown,Korbin Meink,49074,Campbell
+2020,11/23,Navy Classic,125,L,DEC,11 - 6,Sidney Flores,49031,Air Force,Korbin Meink,49074,Campbell
+2020,11/10,Campbell - Ohio Dual,125,W,DEC,7 - 2,Gio Disabato,50840,Ohio,Korbin Meink,49074,Campbell
+2020,11/09,Campbell - Pittsburgh Dual,125,W,DEC,11 - 8,Louis Newell,50916,Pittsburgh,Korbin Meink,49074,Campbell
+2020,11/03,Southeast Open,125,W,DEC,8 - 2,Evan Carrigan,63515,Newberry,Korbin Meink,49074,Campbell
+2020,11/03,Southeast Open,125,W,DEC,6 - 0,Dack Punke,49195,Missouri,Korbin Meink,49074,Campbell
+2020,11/03,Southeast Open,125,L,FALL,3:43,Cameron Valdiviez,49029,Missouri,Korbin Meink,49074,Campbell
+2020,11/03,Southeast Open,125,L,DEC,3 - 2,Fabian Gutierrez,45245,Chattanooga,Korbin Meink,49074,Campbell
+2020,01/01,Southern Scuffle,125,W,DEC,10 - 4,Matt Maloney,62920,Lock Haven,Zurich Storm,50138,Campbell
+2020,01/01,Southern Scuffle,125,L,DEC,7 - 5,Sean Carter,62808,Appalachian State,Zurich Storm,50138,Campbell
+2020,01/01,Southern Scuffle,125,L,MD,12 - 1,McGwire Midkiff,49224,North Dakota State,Zurich Storm,50138,Campbell
+2020,01/01,Southern Scuffle,125,W,TB-2,3 - 2,Alejandro Hernandez-Figueroa,45325,CSU Bakersfield,Zurich Storm,50138,Campbell
+2020,01/01,Southern Scuffle,125,W,DEC,8 - 7,Sidney Flores,49031,Air Force,Zurich Storm,50138,Campbell
+2020,11/17,Wolfpack Open,125,L,DEC,3 - 2,Jakob Camacho,50655,NC State,Zurich Storm,50138,Campbell
+2020,11/17,Wolfpack Open,125,W,TF5,16 - 0 1:22,Alejandro Luna,63291,Spartanburg Methodist College,Zurich Storm,50138,Campbell
+2020,11/17,Wolfpack Open,125,W,DEC,10 - 4,Rylee Billings,57430,King,Zurich Storm,50138,Campbell
+2020,11/17,Wolfpack Open,125,W,DEC,8 - 3,Timothy Decatur,63018,North Carolina,Zurich Storm,50138,Campbell
+2020,11/17,Wolfpack Open,125,W,DEC,4 - 3,Sam Latona,56742,Virginia Tech,Zurich Storm,50138,Campbell
+2020,02/23,Campbell - Davidson Dual,133,L,DEC,4 - 0,Kyle Gorant,51686,Davidson,Paxton Rosen,49072,Campbell
+2020,01/31,Campbell - Gardner-Webb Dual,125,W,MD,10 - 2,Michael Pappaconstantinou,62404,Gardner-Webb,Paxton Rosen,49072,Campbell
+2020,11/23,Navy Classic,125,L,MFOR,0 - 0,Korbin Meink,49074,Campbell,Paxton Rosen,49072,Campbell
+2020,11/23,Navy Classic,125,W,TF5,16 - 0 4:49,Ryan Ocasio,63048,The Citadel,Paxton Rosen,49072,Campbell
+2020,11/23,Navy Classic,125,L,DEC,5 - 2,Gage Curry,44583,American,Paxton Rosen,49072,Campbell
+2020,11/03,Southeast Open,125,L,DEC,7 - 4,Sam Latona,56742,Virginia Tech,Paxton Rosen,49072,Campbell
+2020,11/03,Southeast Open,125,W,DEC,3 - 0,Dack Punke,49195,Missouri,Paxton Rosen,49072,Campbell
+2020,11/03,Southeast Open,125,L,DEC,4 - 2,Dack Punke,49195,Missouri,Paxton Rosen,49072,Campbell
+2020,11/03,Southeast Open,125,L,FALL,2:08,Cameron Valdiviez,49029,Missouri,Paxton Rosen,49072,Campbell
+2020,11/17,Wolfpack Open,125,W,MD,10 - 1,James Sass,64423,Limestone,Gavin Christ,62502,Campbell
+2020,11/17,Wolfpack Open,125,L,TF5,18 - 2 5:47,Tommy Cox,44623,NC State,Gavin Christ,62502,Campbell
+2020,11/17,Wolfpack Open,125,L,MD,10 - 2,Sam Latona,56742,Virginia Tech,Gavin Christ,62502,Campbell
+2020,11/17,Wolfpack Open,125,W,MD,12 - 1,Ryan More,45164,Virginia Tech,Gavin Christ,62502,Campbell
+2020,11/03,Southeast Open,125,L,DEC,7 - 4,Brandon Wittenberg,57647,Virginia Tech,Gavin Christ,62502,Campbell
+2020,11/03,Southeast Open,125,L,DEC,5 - 3,Hunter Graf,51359,Virginia Tech,Gavin Christ,62502,Campbell
+2020,11/03,Southeast Open,125,W,FALL,4:03,Talha Farooq,45317,George Mason,Gavin Christ,62502,Campbell
+2020,11/03,Southeast Open,125,W,FALL,0:32,Cameron Chicella,62394,VMI,Gavin Christ,62502,Campbell
+2020,11/03,Southeast Open,125,W,FALL,1:11,Anthony Rautmann,51175,Davidson,Gavin Christ,62502,Campbell
+2020,03/08,SoCon Championships,133,W,FALL,1:16,Will Edmiston,62402,Gardner-Webb,Noah Gonser,40087,Campbell
+2020,03/08,SoCon Championships,133,W,FALL,4:28,Kyle Gorant,51686,Davidson,Noah Gonser,40087,Campbell
+2020,03/08,SoCon Championships,133,W,DEC,4 - 1,Codi Russell,51113,Appalachian State,Noah Gonser,40087,Campbell
+2020,02/15,Campbell - VMI Dual,133,W,FALL,2:23,Cliff Conway,50304,VMI,Noah Gonser,40087,Campbell
+2020,02/13,Appalachian State - Campbell Dual,133,W,MD,11 - 2,Codi Russell,51113,Appalachian State,Noah Gonser,40087,Campbell
+2020,02/08,Chattanooga - Campbell Dual,133,W,FALL,4:26,Wade Cummings,44642,Chattanooga,Noah Gonser,40087,Campbell
+2020,01/31,Campbell - Gardner-Webb Dual,133,W,FALL,2:31,Trevon Majette,51364,Gardner-Webb,Noah Gonser,40087,Campbell
+2020,01/25,Presbyterian - Campbell Dual,133,W,FALL,2:45,Parker Corwin,63037,Presbyterian,Noah Gonser,40087,Campbell
+2020,01/25,Oregon State - Campbell Dual,133,W,DEC,4 - 2,Devan Turner,45397,Oregon State,Noah Gonser,40087,Campbell
+2020,01/18,The Citadel - Campbell Dual,133,W,FALL,2:44,Nathan Orosco,61817,The Citadel,Noah Gonser,40087,Campbell
+2020,01/11,Campbell - Harvard Dual,133,W,TF5,17 - 2 7:00,Michael Jaffe,57702,Harvard,Noah Gonser,40087,Campbell
+2020,01/11,Campbell - Arizona State Dual,133,W,FALL,5:48,Joshua Kramer,39736,Arizona State,Noah Gonser,40087,Campbell
+2020,01/11,Campbell - Iowa State Dual,133,W,SV-1,6 - 4,Todd Small,45992,Iowa State,Noah Gonser,40087,Campbell
+2020,12/29,Midlands Championships,133,L,DEC,6 - 3,Sebastian Rivera,44799,Northwestern,Noah Gonser,40087,Campbell
+2020,12/29,Midlands Championships,133,L,DEC,5 - 3,Travis Piotrowski,44646,Illinois,Noah Gonser,40087,Campbell
+2020,12/29,Midlands Championships,133,W,DEC,3 - 2,Louie Hayes,44641,Virginia,Noah Gonser,40087,Campbell
+2020,12/29,Midlands Championships,133,W,DEC,7 - 2,Michael Jaffe,57702,Harvard,Noah Gonser,40087,Campbell
+2020,12/29,Midlands Championships,133,W,DEC,5 - 3,Lane Peters,45639,Army West Point,Noah Gonser,40087,Campbell
+2020,12/29,Midlands Championships,133,W,FALL,1:19,Jonathan Moran,57078,Indiana,Noah Gonser,40087,Campbell
+2020,12/29,Midlands Championships,133,W,DEC,7 - 2,Joe Heilmann,51223,North Carolina,Noah Gonser,40087,Campbell
+2020,12/15,Reno Tournament of Champions,133,W,DEC,6 - 5,Isaha Perez,62563,Fresno State,Noah Gonser,40087,Campbell
+2020,12/15,Reno Tournament of Champions,133,W,DEC,6 - 0,Kobe Nelms,63874,Texas Wesleyan,Noah Gonser,40087,Campbell
+2020,12/15,Reno Tournament of Champions,133,W,FALL,0:36,Jason Shaner Jr,56244,Clackamas Community College,Noah Gonser,40087,Campbell
+2020,12/15,Reno Tournament of Champions,133,W,TB-2,6 - 2,Taylor LaMont,44777,Utah Valley,Noah Gonser,40087,Campbell
+2020,12/15,Reno Tournament of Champions,133,L,DEC,4 - 1,Montorie Bridges,44844,Wyoming,Noah Gonser,40087,Campbell
+2020,11/23,Navy Classic,133,W,DEC,5 - 4,Tim Rooney,39949,Kent State,Noah Gonser,40087,Campbell
+2020,11/23,Navy Classic,133,W,DEC,4 - 0,Casey Cobb,45566,Navy,Noah Gonser,40087,Campbell
+2020,11/23,Navy Classic,133,W,FALL,0:50,Nathan Orosco,61817,The Citadel,Noah Gonser,40087,Campbell
+2020,11/23,Navy Classic,133,W,DEC,5 - 2,Zach Firestone,45219,Rutgers,Noah Gonser,40087,Campbell
+2020,11/23,Navy Classic,133,W,FALL,1:23,Jared Van Vleet,51357,Air Force,Noah Gonser,40087,Campbell
+2020,11/10,Campbell - Ohio Dual,133,L,DEC,3 - 1,Mario Guillen,44618,Ohio,Noah Gonser,40087,Campbell
+2020,11/09,Campbell - Pittsburgh Dual,133,L,DEC,6 - 2,Micky Phillippi,45230,Pittsburgh,Noah Gonser,40087,Campbell
+2020,11/03,Southeast Open,133,W,DEC,7 - 0,Cliff Conway,50304,VMI,Noah Gonser,40087,Campbell
+2020,11/03,Southeast Open,133,W,DEC,5 - 3,Allan Hart,49193,Missouri,Noah Gonser,40087,Campbell
+2020,11/03,Southeast Open,133,W,MD,8 - 0,Francisco Valdes,49089,Chattanooga,Noah Gonser,40087,Campbell
+2020,01/01,Southern Scuffle,133,L,MD,11 - 3,Mosha Schwartz,55841,Northern Colorado,Gabe Hixenbaugh,57133,Campbell
+2020,01/01,Southern Scuffle,133,L,DEC,4 - 0,Cole Manley,49337,Lock Haven,Gabe Hixenbaugh,57133,Campbell
+2020,01/01,Southern Scuffle,133,W,DEC,10 - 3,Cameron Lathem,44691,Cleveland State,Gabe Hixenbaugh,57133,Campbell
+2020,01/01,Southern Scuffle,133,W,DEC,6 - 3,Kyle Gorant,51686,Davidson,Gabe Hixenbaugh,57133,Campbell
+2020,11/17,Wolfpack Open,133,W,MFOR,0 - 0,Kai Orine,56908,NC State,Gabe Hixenbaugh,57133,Campbell
+2020,11/17,Wolfpack Open,133,W,FALL,0:25,Preston Sartain,54987,Truett-McConnell,Gabe Hixenbaugh,57133,Campbell
+2020,11/17,Wolfpack Open,133,W,DEC,10 - 3,Sam Book,49332,Virginia,Gabe Hixenbaugh,57133,Campbell
+2020,11/17,Wolfpack Open,133,L,DEC,12 - 10,Sam Book,49332,Virginia,Gabe Hixenbaugh,57133,Campbell
+2020,11/17,Wolfpack Open,133,W,DEC,3 - 2,Shannon Hanna,57654,Old Dominion,Gabe Hixenbaugh,57133,Campbell
+2020,11/17,Wolfpack Open,133,W,MD,14 - 3,Tyler Delaware,51358,Old Dominion,Gabe Hixenbaugh,57133,Campbell
+2020,11/17,Wolfpack Open,133,W,DEC,6 - 5,Orion Anderson,56379,Maryland,Gabe Hixenbaugh,57133,Campbell
+2020,11/03,Southeast Open,133,L,DEC,11 - 4,Joe Heilmann,51223,North Carolina,Gabe Hixenbaugh,57133,Campbell
+2020,11/03,Southeast Open,133,L,DEC,6 - 0,Allan Hart,49193,Missouri,Gabe Hixenbaugh,57133,Campbell
+2020,01/25,Appalachian Open,141,L,FALL,0:44,Jarred Papscy,56827,NC State,Austin Almaguer,62503,Campbell
+2020,01/25,Appalachian Open,141,L,FALL,3:35,Dawson Bates,50914,Appalachian State,Austin Almaguer,62503,Campbell
+2020,01/04,Franklin & Marshall Open,133,L,MD,10 - 2,Charles Faber,49054,Brown,Austin Almaguer,62503,Campbell
+2020,01/04,Franklin & Marshall Open,133,L,TF5,16 - 0 7:00,Jordan Decatur,56727,Ohio State,Austin Almaguer,62503,Campbell
+2020,11/24,Tornado Open,133,L,MFOR,0 - 0,Landon Shuford,62504,Campbell,Austin Almaguer,62503,Campbell
+2020,11/24,Tornado Open,133,W,TF5,16 - 0 2:50,Ian Mcghee,64197,Brewton-Parker,Austin Almaguer,62503,Campbell
+2020,11/24,Tornado Open,133,W,TF5,16 - 0 3:53,Alex Wade Jr,61078,Allen University,Austin Almaguer,62503,Campbell
+2020,11/24,Tornado Open,133,W,DEC,8 - 4,Brandon Holt,63114,Lander,Austin Almaguer,62503,Campbell
+2020,11/24,Tornado Open,133,W,TF5,17 - 2 3:47,Elijah Hicks,57429,King,Austin Almaguer,62503,Campbell
+2020,11/24,Tornado Open,133,W,MD,13 - 2,Drake Doolittle,62376,Duke,Austin Almaguer,62503,Campbell
+2020,11/24,Tornado Open,133,L,FALL,6:24,Drake Doolittle,62376,Duke,Austin Almaguer,62503,Campbell
+2020,11/03,Southeast Open,133,W,FALL,4:46,Caleb Cavanaugh,66832,Newberry,Austin Almaguer,62503,Campbell
+2020,11/03,Southeast Open,133,L,FALL,2:26,Cole Rhone,62773,Virginia Tech,Austin Almaguer,62503,Campbell
+2020,11/03,Southeast Open,133,L,DEC,8 - 1,Kyle Gorant,51686,Davidson,Austin Almaguer,62503,Campbell
+2020,11/03,Southeast Open,133,W,DEC,7 - 4,Tyler Kellison,60765,Appalachian State,Austin Almaguer,62503,Campbell
+2020,01/25,Appalachian Open,133,W,DEC,6 - 3,Levi Smith,63102,Fairmont State,Landon Shuford,62504,Campbell
+2020,01/25,Appalachian Open,133,W,MFOR,0 - 0,Trevon Majette,51364,Gardner-Webb,Landon Shuford,62504,Campbell
+2020,01/25,Appalachian Open,133,L,TF5,18 - 3 5:16,Joe Heilmann,51223,North Carolina,Landon Shuford,62504,Campbell
+2020,01/25,Appalachian Open,133,L,MD,8 - 0,Wade Cummings,44642,Chattanooga,Landon Shuford,62504,Campbell
+2020,01/04,Franklin & Marshall Open,133,L,DEC,11 - 6,Justin Hoyle,54220,Hofstra,Landon Shuford,62504,Campbell
+2020,01/04,Franklin & Marshall Open,133,L,DEC,5 - 2,Mike Simonetti,51025,Franklin & Marshall,Landon Shuford,62504,Campbell
+2020,11/24,Tornado Open,133,L,DEC,7 - 1,Brent Newcomer,64173,Midway University,Landon Shuford,62504,Campbell
+2020,11/24,Tornado Open,133,W,MFOR,0 - 0,Ivan Arguello,63474,Reinhardt University,Landon Shuford,62504,Campbell
+2020,11/24,Tornado Open,133,W,DEC,6 - 0,Ivan Arguello,63474,Reinhardt University,Landon Shuford,62504,Campbell
+2020,11/24,Tornado Open,133,W,MFOR,0 - 0,Austin Almaguer,62503,Campbell,Landon Shuford,62504,Campbell
+2020,11/24,Tornado Open,133,W,DEC,4 - 2,Elijah Hicks,57429,King,Landon Shuford,62504,Campbell
+2020,03/08,SoCon Championships,141,W,MD,12 - 1,Jacob Dado,59673,The Citadel,Josh Heil,45100,Campbell
+2020,03/08,SoCon Championships,141,W,MD,14 - 1,David Loniewski,57701,Davidson,Josh Heil,45100,Campbell
+2020,03/08,SoCon Championships,141,W,DEC,6 - 4,Mason Wallace,49086,Chattanooga,Josh Heil,45100,Campbell
+2020,02/13,Appalachian State - Campbell Dual,141,W,DEC,8 - 5,Bradly Irwin,40555,Appalachian State,Josh Heil,45100,Campbell
+2020,02/08,Chattanooga - Campbell Dual,141,W,DEC,5 - 4,Mason Wallace,49086,Chattanooga,Josh Heil,45100,Campbell
+2020,01/25,Presbyterian - Campbell Dual,141,W,DEC,5 - 3,Reid Stewart,60680,Presbyterian,Josh Heil,45100,Campbell
+2020,01/25,Oregon State - Campbell Dual,141,L,DEC,7 - 1,Grant Willits,49273,Oregon State,Josh Heil,45100,Campbell
+2020,01/18,The Citadel - Campbell Dual,141,W,TF5,17 - 2 5:16,Ethan Willis,62074,The Citadel,Josh Heil,45100,Campbell
+2020,01/11,Campbell - Harvard Dual,141,W,DEC,6 - 1,Lukus Stricker,49139,Harvard,Josh Heil,45100,Campbell
+2020,01/11,Campbell - Arizona State Dual,141,W,DEC,6 - 1,Navonte Demison,49036,Arizona State,Josh Heil,45100,Campbell
+2020,01/11,Campbell - Iowa State Dual,141,L,DEC,3 - 1,Ian Parker,44732,Iowa State,Josh Heil,45100,Campbell
+2020,12/29,Midlands Championships,141,L,DEC,5 - 3,Max Murin,49148,Iowa,Josh Heil,45100,Campbell
+2020,12/29,Midlands Championships,141,W,SV-1,3 - 1,Carter Happel,44756,Iowa,Josh Heil,45100,Campbell
+2020,12/29,Midlands Championships,141,W,MD,13 - 4,Marshall Keller,51509,Princeton,Josh Heil,45100,Campbell
+2020,12/29,Midlands Championships,141,W,DEC,4 - 2,Tristan Moran,39545,Wisconsin,Josh Heil,45100,Campbell
+2020,12/29,Midlands Championships,141,W,TB-2,2 - 1,Salvatore Profaci,39825,American,Josh Heil,45100,Campbell
+2020,12/29,Midlands Championships,141,W,FALL,3:46,Nathan Swartz,57733,Northern Illinois,Josh Heil,45100,Campbell
+2020,12/15,Reno Tournament of Champions,141,W,TF5,16 - 1 4:09,Adrian Zubia,65079,Texas Wesleyan,Josh Heil,45100,Campbell
+2020,12/15,Reno Tournament of Champions,141,W,DEC,7 - 1,Kyle Parco,58562,Fresno State,Josh Heil,45100,Campbell
+2020,12/15,Reno Tournament of Champions,141,W,DEC,6 - 5,Durbin Lloren,44916,Fresno State,Josh Heil,45100,Campbell
+2020,12/15,Reno Tournament of Champions,141,W,FALL,3:28,Trent Dooley,62845,Little Rock,Josh Heil,45100,Campbell
+2020,12/15,Reno Tournament of Champions,141,W,DEC,4 - 0,Connor Noonan,45400,Oregon State,Josh Heil,45100,Campbell
+2020,12/15,Reno Tournament of Champions,141,W,DEC,2 - 1,Chase Zollmann,50917,Wyoming,Josh Heil,45100,Campbell
+2020,11/23,Navy Classic,141,W,SV-1,4 - 2,Carmine Ciotti,48218,Edinboro,Josh Heil,45100,Campbell
+2020,11/23,Navy Classic,141,W,DEC,2 - 1,Kyle Shoop,39682,Lock Haven,Josh Heil,45100,Campbell
+2020,11/23,Navy Classic,141,W,TB-3,5 - 3,Mitch Moore,50620,Virginia Tech,Josh Heil,45100,Campbell
+2020,11/23,Navy Classic,141,W,MFOR,0 - 0,Salvatore Profaci,39825,American,Josh Heil,45100,Campbell
+2020,11/10,Campbell - Ohio Dual,141,W,FALL,7:00,Trevor Giallombardo,45033,Ohio,Josh Heil,45100,Campbell
+2020,11/09,Campbell - Pittsburgh Dual,141,L,FALL,1:27,Cole Matthews,50936,Pittsburgh,Josh Heil,45100,Campbell
+2020,11/03,Southeast Open,141,W,DEC,6 - 0,Mario Vasquez,59082,Ferrum,Josh Heil,45100,Campbell
+2020,11/03,Southeast Open,141,W,DEC,5 - 4,Zach Sherman,49216,North Carolina,Josh Heil,45100,Campbell
+2020,11/03,Southeast Open,141,W,DEC,3 - 1,Danny Bertoni,49173,Maryland,Josh Heil,45100,Campbell
+2020,11/03,Southeast Open,141,W,DEC,3 - 2,Alex Madrigal,39754,George Mason,Josh Heil,45100,Campbell
+2020,01/01,Southern Scuffle,149,W,DEC,15 - 9,Josh Brown,62862,CSU Bakersfield,Spencer Leonhardt,63524,Campbell
+2020,01/01,Southern Scuffle,149,L,MD,12 - 0,Dawson Sihavong,56737,Stanford,Spencer Leonhardt,63524,Campbell
+2020,01/01,Southern Scuffle,149,L,FALL,4:09,Lane Stigall,49196,Oregon State,Spencer Leonhardt,63524,Campbell
+2020,11/17,Wolfpack Open,141,L,MD,11 - 2,Tariq Wilson,44862,NC State,Spencer Leonhardt,63524,Campbell
+2020,11/17,Wolfpack Open,141,W,DEC,5 - 2,Jack Darling,56765,Virginia Tech,Spencer Leonhardt,63524,Campbell
+2020,11/17,Wolfpack Open,141,W,SV-1,4 - 2,Dawson Bates,50914,Appalachian State,Spencer Leonhardt,63524,Campbell
+2020,11/17,Wolfpack Open,141,L,DEC,2 - 1,Anthony Brito,49035,Appalachian State,Spencer Leonhardt,63524,Campbell
+2020,11/03,Southeast Open,141,L,DEC,3 - 2,Jack Darling,56765,Virginia Tech,Spencer Leonhardt,63524,Campbell
+2020,11/03,Southeast Open,141,W,TF5,16 - 0 3:25,Conrad Schiess,57171,Gardner-Webb,Spencer Leonhardt,63524,Campbell
+2020,11/03,Southeast Open,141,L,SV-1,3 - 1,Dawson Bates,50914,Appalachian State,Spencer Leonhardt,63524,Campbell
+2020,01/25,Appalachian Open,141,W,DEC,6 - 4,Ethan Willis,62074,The Citadel,Jack Latimer,62506,Campbell
+2020,01/25,Appalachian Open,141,L,MD,16 - 3,Dawson Bates,50914,Appalachian State,Jack Latimer,62506,Campbell
+2020,01/25,Appalachian Open,141,L,TF5,15 - 0 6:04,Bradly Irwin,40555,Appalachian State,Jack Latimer,62506,Campbell
+2020,01/04,Franklin & Marshall Open,141,W,DEC,5 - 2,Garrett Rigg,57356,Lock Haven,Jack Latimer,62506,Campbell
+2020,01/04,Franklin & Marshall Open,141,L,DEC,4 - 1,Tucker Ribman,56815,Harvard,Jack Latimer,62506,Campbell
+2020,01/04,Franklin & Marshall Open,141,L,DEC,5 - 2,Pat D'arcy,43692,Princeton,Jack Latimer,62506,Campbell
+2020,11/17,Wolfpack Open,141,L,DEC,7 - 5,Ricardo Santana,64936,Newberry,Jack Latimer,62506,Campbell
+2020,11/17,Wolfpack Open,141,L,TF5,17 - 2 7:00,Tariq Wilson,44862,NC State,Jack Latimer,62506,Campbell
+2020,11/03,Southeast Open,141,W,DEC,5 - 2,Shawn Nonaka,62580,George Mason,Jack Latimer,62506,Campbell
+2020,11/03,Southeast Open,141,L,DEC,7 - 3,Connor Alexander,62464,North Carolina,Jack Latimer,62506,Campbell
+2020,01/25,Appalachian Open,149,L,MD,11 - 2,Gino Esposito,51329,North Carolina,Christopher Sanchez,62507,Campbell
+2020,01/25,Appalachian Open,149,L,MD,10 - 0,Matthew Grippi,50662,NC State,Christopher Sanchez,62507,Campbell
+2020,11/03,Southeast Open,141,L,DEC,7 - 2,Jack Darling,56765,Virginia Tech,Christopher Sanchez,62507,Campbell
+2020,11/03,Southeast Open,141,W,FALL,2:28,David Loniewski,57701,Davidson,Christopher Sanchez,62507,Campbell
+2020,11/03,Southeast Open,141,W,MD,14 - 6,Blake Baker,62806,Appalachian State,Christopher Sanchez,62507,Campbell
+2020,01/04,Franklin & Marshall Open,141,L,MFOR,0 - 0,Lukas Richie,63472,PRTC,Caleb Birdwell,57186,Campbell
+2020,01/04,Franklin & Marshall Open,141,L,INJ,7:00,Jonathan Miranda,57367,Navy,Caleb Birdwell,57186,Campbell
+2020,11/17,Wolfpack Open,141,L,DEC,8 - 2,Alex Urquiza,56828,NC State,Caleb Birdwell,57186,Campbell
+2020,11/17,Wolfpack Open,141,L,TF5,16 - 0 6:24,Ty Mills,51081,Duke,Caleb Birdwell,57186,Campbell
+2020,11/03,Southeast Open,141,W,DEC,9 - 5,Silas Shaw,62398,NC State,Caleb Birdwell,57186,Campbell
+2020,11/03,Southeast Open,141,L,DEC,8 - 2,Nick Coy,57075,Virginia,Caleb Birdwell,57186,Campbell
+2020,11/03,Southeast Open,141,L,DEC,8 - 2,Jack Darling,56765,Virginia Tech,Caleb Birdwell,57186,Campbell
+2020,02/23,Campbell - Davidson Dual,141,L,FALL,1:58,David Loniewski,57701,Davidson,Kyle Sams,57187,Campbell
+2020,02/15,Campbell - VMI Dual,141,L,DEC,7 - 6,Noah Roulo,61776,VMI,Kyle Sams,57187,Campbell
+2020,01/31,Campbell - Gardner-Webb Dual,141,L,TF5,15 - 0 3:07,Brandon Bright,51345,Gardner-Webb,Kyle Sams,57187,Campbell
+2020,01/04,Franklin & Marshall Open,141,L,DEC,8 - 3,Decklan Fischer,57117,Maryland,Kyle Sams,57187,Campbell
+2020,01/04,Franklin & Marshall Open,141,L,TF5,22 - 7 7:00,Nick Coy,57075,Virginia,Kyle Sams,57187,Campbell
+2020,11/17,Wolfpack Open,141,L,FALL,6:19,Silas Shaw,62398,NC State,Kyle Sams,57187,Campbell
+2020,11/17,Wolfpack Open,141,L,DEC,14 - 10,James Ruona,62700,Maryland,Kyle Sams,57187,Campbell
+2020,03/08,SoCon Championships,149,L,DEC,11 - 4,Selwyn Porter,57380,The Citadel,Jason Kraisser,57287,Campbell
+2020,03/08,SoCon Championships,149,W,MD,9 - 1,Will Baldwin,50967,Davidson,Jason Kraisser,57287,Campbell
+2020,03/08,SoCon Championships,149,L,DEC,6 - 4,Tanner Smith,49129,Chattanooga,Jason Kraisser,57287,Campbell
+2020,02/23,Campbell - Davidson Dual,149,W,MD,12 - 0,Will Baldwin,50967,Davidson,Jason Kraisser,57287,Campbell
+2020,02/15,Campbell - VMI Dual,149,W,FALL,4:25,Seth Fillers,57321,VMI,Jason Kraisser,57287,Campbell
+2020,02/13,Appalachian State - Campbell Dual,149,L,DEC,9 - 2,John Millner,50212,Appalachian State,Jason Kraisser,57287,Campbell
+2020,02/08,Chattanooga - Campbell Dual,149,L,MD,10 - 1,Tanner Smith,49129,Chattanooga,Jason Kraisser,57287,Campbell
+2020,01/31,Campbell - Gardner-Webb Dual,149,W,FALL,2:43,Anthony Schiess,57173,Gardner-Webb,Jason Kraisser,57287,Campbell
+2020,01/25,Presbyterian - Campbell Dual,149,W,FALL,0:58,Bryton Goering,61211,Presbyterian,Jason Kraisser,57287,Campbell
+2020,01/25,Oregon State - Campbell Dual,149,W,DEC,9 - 8,Lane Stigall,49196,Oregon State,Jason Kraisser,57287,Campbell
+2020,01/18,The Citadel - Campbell Dual,149,W,FALL,4:49,Selwyn Porter,57380,The Citadel,Jason Kraisser,57287,Campbell
+2020,01/11,Campbell - Harvard Dual,149,W,DEC,7 - 1,Aaron Kruk,44797,Harvard,Jason Kraisser,57287,Campbell
+2020,01/11,Campbell - Arizona State Dual,149,W,FALL,3:41,Dillon Ulrey,45848,Arizona State,Jason Kraisser,57287,Campbell
+2020,01/11,Campbell - Iowa State Dual,149,W,FALL,4:03,Ryan Leisure,49152,Iowa State,Jason Kraisser,57287,Campbell
+2020,01/01,Southern Scuffle,149,L,DEC,10 - 3,Jaden Abas,56738,Stanford,Jason Kraisser,57287,Campbell
+2020,01/01,Southern Scuffle,149,W,DEC,8 - 5,Luke Kemerer,50929,Pittsburgh,Jason Kraisser,57287,Campbell
+2020,01/01,Southern Scuffle,149,W,DEC,4 - 2,Gerard Angelo,50661,Rutgers,Jason Kraisser,57287,Campbell
+2020,01/01,Southern Scuffle,149,W,DEC,7 - 5,Jaden Van Maanen,49227,North Dakota State,Jason Kraisser,57287,Campbell
+2020,01/01,Southern Scuffle,149,L,DEC,7 - 0,Tanner Smith,49129,Chattanooga,Jason Kraisser,57287,Campbell
+2020,01/01,Southern Scuffle,149,W,FALL,2:48,Selwyn Porter,57380,The Citadel,Jason Kraisser,57287,Campbell
+2020,01/01,Southern Scuffle,149,W,DEC,6 - 4,Tyler Brennan,62844,Little Rock,Jason Kraisser,57287,Campbell
+2020,11/17,Wolfpack Open,149,W,FALL,1:49,Jacob Williams,63347,Truett-McConnell,Jason Kraisser,57287,Campbell
+2020,11/17,Wolfpack Open,149,W,FALL,3:00,Joey Hancock,62139,Queens,Jason Kraisser,57287,Campbell
+2020,11/17,Wolfpack Open,149,L,DEC,8 - 3,AJ Leitten,49221,NC State,Jason Kraisser,57287,Campbell
+2020,11/17,Wolfpack Open,149,W,FALL,3:58,Zach Barnes,49073,Campbell,Jason Kraisser,57287,Campbell
+2020,11/17,Wolfpack Open,149,L,DEC,8 - 4,John Millner,50212,Appalachian State,Jason Kraisser,57287,Campbell
+2020,11/17,Wolfpack Open,149,W,FALL,1:38,Selwyn Porter,57380,The Citadel,Jason Kraisser,57287,Campbell
+2020,11/03,Southeast Open,149,W,TF5,16 - 0 4:09,Grant Lundy,59756,Chattanooga,Jason Kraisser,57287,Campbell
+2020,11/03,Southeast Open,149,L,DEC,9 - 5,Jobe Chishko,56805,VMI,Jason Kraisser,57287,Campbell
+2020,11/03,Southeast Open,149,L,DEC,4 - 1,Jake Hart,55793,Virginia Tech,Jason Kraisser,57287,Campbell
+2020,12/29,Midlands Championships,149,L,DEC,2 - 1,Lucas Revano,56734,Pennsylvania,Mason Smith,39789,Campbell
+2020,12/29,Midlands Championships,149,L,MD,11 - 3,Patricio Lugo,39919,Iowa,Mason Smith,39789,Campbell
+2020,12/29,Midlands Championships,149,W,TF5,16 - 0 6:32,Joshua Cortez,40840,Cal Poly,Mason Smith,39789,Campbell
+2020,12/29,Midlands Championships,149,W,TF5,16 - 0 2:37,Colin Realbuto,56797,Unattached,Mason Smith,39789,Campbell
+2020,12/15,Reno Tournament of Champions,149,W,FALL,1:09,Wyatt Schrader,65828,Highline Community College,Mason Smith,39789,Campbell
+2020,12/15,Reno Tournament of Champions,149,W,TF5,16 - 0 3:45,Daniel Rodriguez,64920,Eastern Oregon University,Mason Smith,39789,Campbell
+2020,12/15,Reno Tournament of Champions,149,W,TF5,18 - 0 5:54,Daniel Vizcarra,59546,Cal Poly,Mason Smith,39789,Campbell
+2020,12/15,Reno Tournament of Champions,149,W,DEC,4 - 2,Joshua Cortez,40840,Cal Poly,Mason Smith,39789,Campbell
+2020,12/15,Reno Tournament of Champions,149,W,MD,9 - 0,Brevin Balmeceda,57352,Oklahoma State,Mason Smith,39789,Campbell
+2020,12/15,Reno Tournament of Champions,149,L,SV-1,6 - 4,Jaden Abas,56738,Stanford,Mason Smith,39789,Campbell
+2020,11/02,MSU Open,149,W,DEC,11 - 8,Anthony Gibson,56508,Northern Illinois,Mason Smith,39789,Campbell
+2020,11/02,MSU Open,149,W,DEC,5 - 1,Graham Rooks,51283,Indiana,Mason Smith,39789,Campbell
+2020,11/02,MSU Open,149,L,SV-1,4 - 2,Kanen Storr,44714,Michigan,Mason Smith,39789,Campbell
+2020,11/02,MSU Open,149,L,DEC,6 - 1,McCoy Kent,39791,Northern Illinois,Mason Smith,39789,Campbell
+2020,01/01,Southern Scuffle,149,W,DEC,5 - 2,Jobe Chishko,56805,VMI,Troy Nation,57189,Campbell
+2020,01/01,Southern Scuffle,149,W,DEC,8 - 4,Jake Hart,55793,Virginia Tech,Troy Nation,57189,Campbell
+2020,01/01,Southern Scuffle,149,W,DEC,5 - 3,Morgan Fuenffinger,54498,Navy,Troy Nation,57189,Campbell
+2020,01/01,Southern Scuffle,149,W,MD,16 - 4,Matthew Swanson,49887,Binghamton,Troy Nation,57189,Campbell
+2020,01/01,Southern Scuffle,149,L,TF5,15 - 0 3:17,Requir van der Merwe,45389,Stanford,Troy Nation,57189,Campbell
+2020,01/01,Southern Scuffle,149,L,FALL,1:16,Colston DiBlasi,39718,George Mason,Troy Nation,57189,Campbell
+2020,01/01,Southern Scuffle,149,W,DEC,7 - 3,Selwyn Porter,57380,The Citadel,Troy Nation,57189,Campbell
+2020,11/03,Southeast Open,149,L,MD,12 - 4,Jake Hart,55793,Virginia Tech,Troy Nation,57189,Campbell
+2020,11/03,Southeast Open,149,W,MD,11 - 0,Drew Dickson,62581,George Mason,Troy Nation,57189,Campbell
+2020,11/03,Southeast Open,149,W,MD,17 - 4,Anthony Schiess,57173,Gardner-Webb,Troy Nation,57189,Campbell
+2020,11/03,Southeast Open,149,W,DEC,7 - 3,Jacob Mariakis,57641,Chattanooga,Troy Nation,57189,Campbell
+2020,11/03,Southeast Open,149,W,DEC,3 - 1,Ryan Garlitz,62701,Maryland,Devin Rivet,56278,Campbell
+2020,11/03,Southeast Open,149,W,DEC,8 - 4,Grant Lundy,59756,Chattanooga,Devin Rivet,56278,Campbell
+2020,11/03,Southeast Open,149,W,DEC,3 - 1,Jobe Chishko,56805,VMI,Devin Rivet,56278,Campbell
+2020,11/03,Southeast Open,149,L,DEC,2 - 1,Jake Hart,55793,Virginia Tech,Devin Rivet,56278,Campbell
+2020,01/01,Southern Scuffle,149,W,DEC,6 - 4,Jon Park,60226,Navy,Zach Barnes,49073,Campbell
+2020,01/01,Southern Scuffle,149,L,TF5,20 - 5 6:33,Requir van der Merwe,45389,Stanford,Zach Barnes,49073,Campbell
+2020,01/01,Southern Scuffle,149,L,DEC,4 - 3,Seth Hogue,44668,West Virginia,Zach Barnes,49073,Campbell
+2020,01/01,Southern Scuffle,149,W,DEC,6 - 4,Garrett O'Shea,44711,Air Force,Zach Barnes,49073,Campbell
+2020,12/15,Reno Tournament of Champions,149,L,FALL,2:48,Dawson Sihavong,56737,Stanford,Zach Barnes,49073,Campbell
+2020,12/15,Reno Tournament of Champions,149,L,TF5,15 - 0 4:06,Jaron Jensen,44910,Wyoming,Zach Barnes,49073,Campbell
+2020,11/17,Wolfpack Open,149,L,FALL,3:58,Jason Kraisser,57287,Campbell,Zach Barnes,49073,Campbell
+2020,11/17,Wolfpack Open,149,W,FALL,0:38,Marcus Loving,62467,North Carolina,Zach Barnes,49073,Campbell
+2020,11/17,Wolfpack Open,149,L,MD,12 - 4,Matt Fields,51613,NC State,Zach Barnes,49073,Campbell
+2020,11/10,Campbell - Ohio Dual,149,L,MD,16 - 3,Alec Hagan,49248,Ohio,Zach Barnes,49073,Campbell
+2020,11/09,Campbell - Pittsburgh Dual,149,L,DEC,4 - 0,Luke Kemerer,50929,Pittsburgh,Zach Barnes,49073,Campbell
+2020,01/04,Franklin & Marshall Open,149,L,DEC,3 - 1,Joseph Caprella,60287,Old Dominion,Bobby Pryhocki,50956,Campbell
+2020,01/04,Franklin & Marshall Open,149,L,FALL,1:07,Andrew Pace,62195,Harvard,Bobby Pryhocki,50956,Campbell
+2020,12/29,Midlands Championships,149,L,DEC,10 - 5,Aaron Kruk,44797,Harvard,Bobby Pryhocki,50956,Campbell
+2020,12/29,Midlands Championships,149,L,FALL,4:10,Kanen Storr,44714,Michigan,Bobby Pryhocki,50956,Campbell
+2020,11/03,Southeast Open,149,L,FALL,2:26,Gray Hart,57062,Virginia,Bobby Pryhocki,50956,Campbell
+2020,11/03,Southeast Open,149,L,TF5,16 - 1 4:46,Tanner Smith,49129,Chattanooga,Bobby Pryhocki,50956,Campbell
+2020,03/08,SoCon Championships,157,W,DQ,0 - 0,Christian Trimble,56524,Gardner-Webb,Matthew Dallara,51712,Campbell
+2020,03/08,SoCon Championships,157,W,DEC,9 - 5,Tyler Shilson,49352,Chattanooga,Matthew Dallara,51712,Campbell
+2020,03/08,SoCon Championships,157,L,DEC,12 - 5,Matthew Zovistoski,40049,Appalachian State,Matthew Dallara,51712,Campbell
+2020,02/23,Campbell - Davidson Dual,157,W,MD,9 - 1,Hunter Costa,45247,Davidson,Matthew Dallara,51712,Campbell
+2020,02/15,Campbell - VMI Dual,157,W,DEC,8 - 2,William Lawrence,49340,VMI,Matthew Dallara,51712,Campbell
+2020,02/13,Appalachian State - Campbell Dual,157,L,MD,16 - 6,Matthew Zovistoski,40049,Appalachian State,Matthew Dallara,51712,Campbell
+2020,02/08,Chattanooga - Campbell Dual,157,W,DEC,14 - 7,Tyler Shilson,49352,Chattanooga,Matthew Dallara,51712,Campbell
+2020,01/31,Campbell - Gardner-Webb Dual,157,W,DEC,6 - 4,Taylor Parks,51306,Gardner-Webb,Matthew Dallara,51712,Campbell
+2020,01/25,Oregon State - Campbell Dual,157,W,MD,11 - 2,Michael Murphy,57316,Oregon State,Matthew Dallara,51712,Campbell
+2020,01/18,The Citadel - Campbell Dual,157,L,DEC,5 - 4,Douglas Gudenburr,45587,The Citadel,Matthew Dallara,51712,Campbell
+2020,01/11,Campbell - Harvard Dual,157,L,DEC,5 - 2,Hunter Ladnier,44784,Harvard,Matthew Dallara,51712,Campbell
+2020,01/11,Campbell - Arizona State Dual,157,L,DEC,8 - 3,Jacori Teemer,50581,Arizona State,Matthew Dallara,51712,Campbell
+2020,01/11,Campbell - Iowa State Dual,157,L,MD,18 - 5,David Carr,51126,Iowa State,Matthew Dallara,51712,Campbell
+2020,12/15,Reno Tournament of Champions,157,W,MFOR,0 - 0,Daniel Snediker,63557,Unattached,Matthew Dallara,51712,Campbell
+2020,12/15,Reno Tournament of Champions,157,L,MD,13 - 2,Payton Tawater,40578,Colorado Mesa,Matthew Dallara,51712,Campbell
+2020,12/15,Reno Tournament of Champions,157,L,DEC,7 - 1,Matthew Olguin,57218,Fresno State,Matthew Dallara,51712,Campbell
+2020,12/15,Reno Tournament of Champions,157,W,DEC,10 - 6,Ethan Woods,49329,Stanford,Matthew Dallara,51712,Campbell
+2020,12/15,Reno Tournament of Champions,157,W,FALL,3:46,Jerry Rubio,57051,Utah Valley,Matthew Dallara,51712,Campbell
+2020,11/23,Navy Classic,157,W,MD,12 - 4,Caleb Cass,57214,Cleveland State,Matthew Dallara,51712,Campbell
+2020,11/23,Navy Classic,157,L,DEC,3 - 1,Zac Carson,39692,Ohio,Matthew Dallara,51712,Campbell
+2020,11/23,Navy Classic,157,W,MD,11 - 2,Cole Smith,50659,Old Dominion,Matthew Dallara,51712,Campbell
+2020,11/23,Navy Classic,157,L,DEC,3 - 2,Jack Bokina,56798,Brown,Matthew Dallara,51712,Campbell
+2020,11/10,Campbell - Ohio Dual,157,W,DEC,7 - 5,Zac Carson,39692,Ohio,Matthew Dallara,51712,Campbell
+2020,11/09,Campbell - Pittsburgh Dual,157,L,DEC,6 - 4,Taleb Rahmani,40082,Pittsburgh,Matthew Dallara,51712,Campbell
+2020,11/03,Southeast Open,157,W,DEC,9 - 8,Weston Wichman,58537,Chattanooga,Matthew Dallara,51712,Campbell
+2020,11/03,Southeast Open,157,W,FALL,3:54,Justin Crawford,58145,Notre Dame,Matthew Dallara,51712,Campbell
+2020,11/03,Southeast Open,157,W,DEC,6 - 4,Alex Hornfeck,56494,West Virginia,Matthew Dallara,51712,Campbell
+2020,11/03,Southeast Open,157,W,DEC,8 - 3,Rodney Winston,62584,George Mason,Matthew Dallara,51712,Campbell
+2020,11/03,Southeast Open,157,W,FALL,2:23,Ethan Carpenter,62393,VMI,Matthew Dallara,51712,Campbell
+2020,01/01,Southern Scuffle,157,L,DEC,7 - 5,Alex Hornfeck,56494,West Virginia,Benjamin Barton,44733,Campbell
+2020,01/01,Southern Scuffle,157,W,FALL,6:23,Felix Belga,44764,Drexel,Benjamin Barton,44733,Campbell
+2020,01/01,Southern Scuffle,157,W,MD,11 - 1,Jimmy Fate,44736,Northern Colorado,Benjamin Barton,44733,Campbell
+2020,01/01,Southern Scuffle,157,W,DEC,8 - 3,Jacob Conrad,62406,Gardner-Webb,Benjamin Barton,44733,Campbell
+2020,01/01,Southern Scuffle,157,L,MD,11 - 1,Wyatt Pfau,63135,Duke,Benjamin Barton,44733,Campbell
+2020,02/09,Newberry Open,157,W,DEC,8 - 1,Josh Wynn,57428,King,Cameron Pine,57196,Campbell
+2020,02/09,Newberry Open,157,W,TF5,16 - 0 7:00,Will Evans,62232,Newberry,Cameron Pine,57196,Campbell
+2020,02/09,Newberry Open,157,L,MD,10 - 1,Josh McClure,44697,North Carolina,Cameron Pine,57196,Campbell
+2020,11/03,Southeast Open,157,L,DEC,9 - 2,Colby Teague,63521,Mount Olive,Cameron Pine,57196,Campbell
+2020,11/03,Southeast Open,157,W,DEC,14 - 10,Alec English,62582,George Mason,Cameron Pine,57196,Campbell
+2020,11/03,Southeast Open,157,L,DEC,9 - 8,Jacob Conrad,62406,Gardner-Webb,Cameron Pine,57196,Campbell
+2020,02/15,Campbell - VMI Dual,165,W,DEC,4 - 1,Jon Hoover,57525,VMI,Diavantae Reddick,50253,Campbell
+2020,01/25,Appalachian Open,157,L,DEC,9 - 6,Michael Goldfeder,57128,North Carolina,Diavantae Reddick,50253,Campbell
+2020,01/25,Appalachian Open,157,L,MD,14 - 1,Tyler Hazard,49164,Old Dominion,Diavantae Reddick,50253,Campbell
+2020,01/04,Franklin & Marshall Open,157,L,MD,9 - 1,Lucas Cordio,57120,Maryland,Diavantae Reddick,50253,Campbell
+2020,01/04,Franklin & Marshall Open,157,L,DEC,4 - 3,Leo Mushinsky,59543,Buffalo,Diavantae Reddick,50253,Campbell
+2020,12/14,Cleveland State Open,157,W,DEC,10 - 3,Peyton Hearn,62855,Thiel,Diavantae Reddick,50253,Campbell
+2020,12/14,Cleveland State Open,157,L,DEC,3 - 2,Matthew Dowler,44891,Edinboro,Diavantae Reddick,50253,Campbell
+2020,12/14,Cleveland State Open,157,L,TF5,19 - 1 7:00,Elijah Cleary,44828,Ohio State,Diavantae Reddick,50253,Campbell
+2020,11/23,Navy Classic,149,L,TF5,19 - 3 6:53,Morgan Fuenffinger,54498,Navy,Diavantae Reddick,50253,Campbell
+2020,11/23,Navy Classic,149,L,MD,21 - 7,Matt Kolonia,49066,Bucknell,Diavantae Reddick,50253,Campbell
+2020,11/03,Southeast Open,149,L,TF5,18 - 0 3:26,Alex Cruz,50942,Virginia,Diavantae Reddick,50253,Campbell
+2020,11/03,Southeast Open,149,L,MD,13 - 2,Mason Wallace,49086,Chattanooga,Diavantae Reddick,50253,Campbell
+2020,03/08,SoCon Championships,165,W,FALL,2:19,Parker Corwin,63037,Presbyterian,Quentin Perez,40421,Campbell
+2020,03/08,SoCon Championships,165,W,MD,14 - 4,Dazjon Casto,57183,The Citadel,Quentin Perez,40421,Campbell
+2020,03/08,SoCon Championships,165,W,MD,12 - 4,William Formato,57034,Appalachian State,Quentin Perez,40421,Campbell
+2020,02/23,Campbell - Davidson Dual,165,W,FALL,4:08,Noah Satterfield,44861,Davidson,Quentin Perez,40421,Campbell
+2020,02/13,Appalachian State - Campbell Dual,165,W,DEC,4 - 1,William Formato,57034,Appalachian State,Quentin Perez,40421,Campbell
+2020,02/08,Chattanooga - Campbell Dual,165,W,DEC,9 - 3,Drew Nicholson,49091,Chattanooga,Quentin Perez,40421,Campbell
+2020,01/31,Campbell - Gardner-Webb Dual,165,W,INJ,7:00,Rodrick Mosley,50889,Gardner-Webb,Quentin Perez,40421,Campbell
+2020,01/25,Oregon State - Campbell Dual,165,W,FALL,2:04,Aaron Olmos,50177,Oregon State,Quentin Perez,40421,Campbell
+2020,01/18,The Citadel - Campbell Dual,165,W,DEC,7 - 6,Dazjon Casto,57183,The Citadel,Quentin Perez,40421,Campbell
+2020,01/11,Campbell - Harvard Dual,165,W,DEC,4 - 2,Phillip Conigliaro,51201,Harvard,Quentin Perez,40421,Campbell
+2020,01/11,Campbell - Arizona State Dual,165,L,TB-1,5 - 4,Josh Shields,39511,Arizona State,Quentin Perez,40421,Campbell
+2020,01/11,Campbell - Iowa State Dual,165,W,MD,17 - 3,Chase Straw,39610,Iowa State,Quentin Perez,40421,Campbell
+2020,12/29,Midlands Championships,165,W,TF5,19 - 0 6:23,Grant Cuomo,50892,Princeton,Quentin Perez,40421,Campbell
+2020,12/29,Midlands Championships,165,L,SV-1,4 - 2,Evan Wick,44730,Wisconsin,Quentin Perez,40421,Campbell
+2020,12/29,Midlands Championships,165,W,MD,22 - 9,Pat Schoenfelder,50280,Northern Iowa,Quentin Perez,40421,Campbell
+2020,12/29,Midlands Championships,165,L,DEC,9 - 6,Kennedy Monday,45025,North Carolina,Quentin Perez,40421,Campbell
+2020,12/15,Reno Tournament of Champions,165,W,TF5,17 - 2 3:18,Navarro Nanpuya,65299,North Idaho College,Quentin Perez,40421,Campbell
+2020,12/15,Reno Tournament of Champions,165,W,TF5,20 - 4 4:51,Drake Engelking,56755,Northern Colorado,Quentin Perez,40421,Campbell
+2020,12/15,Reno Tournament of Champions,165,W,TF5,18 - 3 5:12,Cade Lindsey,59550,Oklahoma State,Quentin Perez,40421,Campbell
+2020,12/15,Reno Tournament of Champions,165,W,DEC,10 - 5,Cole Moody,57067,Wyoming,Quentin Perez,40421,Campbell
+2020,12/15,Reno Tournament of Champions,165,W,MD,14 - 2,Casey Randles,49355,Wyoming,Quentin Perez,40421,Campbell
+2020,11/23,Navy Classic,165,W,TF5,16 - 1 2:47,Kade Byland,45313,Kent State,Quentin Perez,40421,Campbell
+2020,11/23,Navy Classic,165,L,SV-1,5 - 3,Tanner Skidgel,49200,Navy,Quentin Perez,40421,Campbell
+2020,11/23,Navy Classic,165,W,FALL,2:39,Kellen Ekern,51041,Old Dominion,Quentin Perez,40421,Campbell
+2020,11/23,Navy Classic,165,W,MD,14 - 3,Vincent Andreano,61512,Bucknell,Quentin Perez,40421,Campbell
+2020,11/23,Navy Classic,165,L,FALL,6:06,Zach Hartman,50586,Bucknell,Quentin Perez,40421,Campbell
+2020,11/10,Campbell - Ohio Dual,165,W,TF5,16 - 1 7:00,Ben Schneider,45046,Ohio,Quentin Perez,40421,Campbell
+2020,11/09,Campbell - Pittsburgh Dual,165,L,MD,9 - 1,Jake Wentzel,45151,Pittsburgh,Quentin Perez,40421,Campbell
+2020,11/03,Southeast Open,165,W,TF5,22 - 5 2:40,Dominic Jacocks,63517,Notre Dame,Quentin Perez,40421,Campbell
+2020,11/03,Southeast Open,165,W,FALL,6:59,Kennedy Monday,45025,North Carolina,Quentin Perez,40421,Campbell
+2020,11/03,Southeast Open,165,W,TF5,16 - 0 6:14,Luke Fortuna,39654,Missouri,Quentin Perez,40421,Campbell
+2020,01/04,Franklin & Marshall Open,165,W,FALL,2:15,William MacDonald,44798,North Carolina,Jack Ervien,61608,Campbell
+2020,01/04,Franklin & Marshall Open,165,L,DEC,7 - 4,Brian Case,57343,Navy,Jack Ervien,61608,Campbell
+2020,01/04,Franklin & Marshall Open,165,W,DEC,15 - 8,Noah Grover,51227,Buffalo,Jack Ervien,61608,Campbell
+2020,01/04,Franklin & Marshall Open,165,L,DEC,7 - 3,Brandon Levesque,40048,Sacred Heart,Jack Ervien,61608,Campbell
+2020,11/09,Mountaineer Invitational,165,L,FALL,3:42,David Veltri,59635,Virginia,Jack Ervien,61608,Campbell
+2020,11/09,Mountaineer Invitational,165,L,MFOR,0 - 0,Christian Beach,45407,Appalachian State,Jack Ervien,61608,Campbell
+2020,11/03,Southeast Open,165,L,DEC,8 - 2,Jonathan Spadafora,62703,Maryland,Jack Ervien,61608,Campbell
+2020,11/03,Southeast Open,165,L,FALL,1:36,Tony Morales,57427,King,Jack Ervien,61608,Campbell
+2020,11/03,Southeast Open,165,W,DEC,5 - 3,Gaven Krazer,62400,NC State,Jack Ervien,61608,Campbell
+2020,11/03,Southeast Open,165,W,FALL,5:20,Jack Rogan,60241,Notre Dame,Jack Ervien,61608,Campbell
+2020,11/23,Navy Classic,165,L,INJ,7:00,Austin Hiles,44866,Michigan State,Michael Ferree,56368,Campbell
+2020,11/23,Navy Classic,165,W,DEC,8 - 5,Brian Case,57343,Navy,Michael Ferree,56368,Campbell
+2020,11/23,Navy Classic,165,W,DEC,10 - 8,Dillon Taylor,49202,Navy,Michael Ferree,56368,Campbell
+2020,11/23,Navy Classic,165,L,MD,12 - 2,Randy Meneweather II,44843,Air Force,Michael Ferree,56368,Campbell
+2020,11/03,Southeast Open,165,W,MD,17 - 8,Tony Morales,57427,King,Michael Ferree,56368,Campbell
+2020,11/03,Southeast Open,165,W,MD,18 - 5,Michael Blakemore,63514,Notre Dame,Michael Ferree,56368,Campbell
+2020,11/03,Southeast Open,165,W,DEC,6 - 3,Jonathan Spadafora,62703,Maryland,Michael Ferree,56368,Campbell
+2020,11/03,Southeast Open,165,W,DEC,8 - 4,Loranzo Rajaonarivelo,62067,George Mason,Michael Ferree,56368,Campbell
+2020,11/03,Southeast Open,165,W,MD,16 - 6,Jordan Florence,52574,Virginia Tech,Michael Ferree,56368,Campbell
+2020,03/08,SoCon Championships,174,L,DEC,5 - 2,Thomas Flitz,45410,Appalachian State,Austin Kraisser,44588,Campbell
+2020,03/08,SoCon Championships,174,W,FALL,4:35,Steven Newell,57721,Davidson,Austin Kraisser,44588,Campbell
+2020,03/08,SoCon Championships,174,W,DEC,6 - 5,Hunter Fortner,50952,Chattanooga,Austin Kraisser,44588,Campbell
+2020,03/08,SoCon Championships,174,W,FALL,3:52,Evan Schenk,49136,Gardner-Webb,Austin Kraisser,44588,Campbell
+2020,03/08,SoCon Championships,174,L,SV-1,3 - 1,Neal Richards,39991,VMI,Austin Kraisser,44588,Campbell
+2020,02/23,Campbell - Davidson Dual,174,W,FALL,2:24,Steven Newell,57721,Davidson,Austin Kraisser,44588,Campbell
+2020,02/15,Campbell - VMI Dual,174,L,DEC,4 - 1,Neal Richards,39991,VMI,Austin Kraisser,44588,Campbell
+2020,02/13,Appalachian State - Campbell Dual,174,L,DEC,6 - 3,Thomas Flitz,45410,Appalachian State,Austin Kraisser,44588,Campbell
+2020,02/08,Chattanooga - Campbell Dual,174,W,DEC,4 - 0,Hunter Fortner,50952,Chattanooga,Austin Kraisser,44588,Campbell
+2020,01/31,Campbell - Gardner-Webb Dual,174,W,DEC,3 - 0,Evan Schenk,49136,Gardner-Webb,Austin Kraisser,44588,Campbell
+2020,01/25,Oregon State - Campbell Dual,174,W,MD,10 - 2,Jackson McKinney,56781,Oregon State,Austin Kraisser,44588,Campbell
+2020,01/18,The Citadel - Campbell Dual,174,W,DEC,7 - 2,Kyle Kretzer,57184,The Citadel,Austin Kraisser,44588,Campbell
+2020,01/04,Franklin & Marshall Open,165,W,FALL,1:51,Donald Cates,64932,Unattached,Austin Kraisser,44588,Campbell
+2020,01/04,Franklin & Marshall Open,165,L,DEC,6 - 5,Jack Peura,44868,Clarion,Austin Kraisser,44588,Campbell
+2020,01/04,Franklin & Marshall Open,165,W,DEC,11 - 5,Jonathan Spadafora,62703,Maryland,Austin Kraisser,44588,Campbell
+2020,01/04,Franklin & Marshall Open,165,W,DEC,6 - 2,Brian Case,57343,Navy,Austin Kraisser,44588,Campbell
+2020,01/04,Franklin & Marshall Open,165,W,DEC,7 - 3,Kiran Srikanth,61025,Brown,Austin Kraisser,44588,Campbell
+2020,01/04,Franklin & Marshall Open,165,W,DQ,0 - 0,George Worthy,63465,Rider,Austin Kraisser,44588,Campbell
+2020,12/29,Midlands Championships,165,L,DEC,8 - 4,Adam Kemp,57045,Fresno State,Austin Kraisser,44588,Campbell
+2020,12/29,Midlands Championships,165,W,DEC,7 - 3,Christian Rodriguez,56745,Fresno State,Austin Kraisser,44588,Campbell
+2020,12/29,Midlands Championships,165,L,DEC,6 - 2,Cameron Amine,57289,Michigan,Austin Kraisser,44588,Campbell
+2020,12/29,Midlands Championships,165,W,FALL,1:49,Bernie Truax,51133,Cal Poly,Austin Kraisser,44588,Campbell
+2020,12/15,Reno Tournament of Champions,165,W,DEC,2 - 0,Alejandro Garcia,59706,Menlo,Austin Kraisser,44588,Campbell
+2020,12/15,Reno Tournament of Champions,165,L,DEC,5 - 2,Ricky Padilla,40631,Fresno State,Austin Kraisser,44588,Campbell
+2020,12/15,Reno Tournament of Champions,165,W,MD,11 - 0,Austin Matthews,22442,Northern Colorado,Austin Kraisser,44588,Campbell
+2020,12/15,Reno Tournament of Champions,165,W,DEC,5 - 2,RJ Bingham,63023,Utah Valley,Austin Kraisser,44588,Campbell
+2020,12/15,Reno Tournament of Champions,165,W,DEC,3 - 0,Kekana Fouret,61652,Utah Valley,Austin Kraisser,44588,Campbell
+2020,11/17,Wolfpack Open,174,W,FALL,6:11,Joey Mazzara,54232,North Carolina,Austin Kraisser,44588,Campbell
+2020,11/17,Wolfpack Open,174,W,DEC,4 - 3,Jack Bond,56516,Old Dominion,Austin Kraisser,44588,Campbell
+2020,11/17,Wolfpack Open,174,W,DEC,6 - 2,Luke Drugac,44767,Old Dominion,Austin Kraisser,44588,Campbell
+2020,11/17,Wolfpack Open,174,W,DEC,4 - 0,Colin Shannon,50060,American,Austin Kraisser,44588,Campbell
+2020,11/17,Wolfpack Open,174,L,DEC,6 - 3,Thomas Flitz,45410,Appalachian State,Austin Kraisser,44588,Campbell
+2020,01/11,Campbell - Harvard Dual,174,L,SV-1,7 - 1,Peter Ferraro,57713,Harvard,Austin Murphy,51608,Campbell
+2020,01/11,Campbell - Arizona State Dual,174,L,MD,17 - 5,Anthony Valencia,39500,Arizona State,Austin Murphy,51608,Campbell
+2020,01/11,Campbell - Iowa State Dual,174,L,MD,15 - 4,Samuel Colbray,44873,Iowa State,Austin Murphy,51608,Campbell
+2020,01/01,Southern Scuffle,174,L,FALL,2:01,Chris Foca,56712,Spartan Combat RTC,Austin Murphy,51608,Campbell
+2020,01/01,Southern Scuffle,174,W,DEC,9 - 6,Michael O'Malley,50836,Drexel,Austin Murphy,51608,Campbell
+2020,01/01,Southern Scuffle,174,W,DEC,11 - 4,Dean Caravela,44816,Navy,Austin Murphy,51608,Campbell
+2020,01/01,Southern Scuffle,174,L,MD,12 - 4,Dean Sherry,40019,Rider,Austin Murphy,51608,Campbell
+2020,01/01,Southern Scuffle,174,W,DEC,9 - 4,Dominic Lampe,39819,Chattanooga,Austin Murphy,51608,Campbell
+2020,01/01,Southern Scuffle,174,W,DEC,7 - 4,Christos Avgeros,56787,Old Dominion,Austin Murphy,51608,Campbell
+2020,11/23,Navy Classic,174,W,MD,13 - 3,Chase Archangelo,49104,Cleveland State,Austin Murphy,51608,Campbell
+2020,11/23,Navy Classic,174,L,MD,10 - 2,Andrew McNally,44610,Kent State,Austin Murphy,51608,Campbell
+2020,11/23,Navy Classic,174,W,FALL,1:32,Anthony Lombardo,19656,George Mason,Austin Murphy,51608,Campbell
+2020,11/23,Navy Classic,174,W,DEC,7 - 6,Logan Stanley,56204,Ohio,Austin Murphy,51608,Campbell
+2020,11/23,Navy Classic,174,L,DEC,5 - 2,Alex Cramer,56732,Old Dominion,Austin Murphy,51608,Campbell
+2020,11/23,Navy Classic,174,W,FALL,3:21,Benjamin Root,51221,American,Austin Murphy,51608,Campbell
+2020,11/23,Navy Classic,174,W,DEC,12 - 8,Cody Surratt,49030,Air Force,Austin Murphy,51608,Campbell
+2020,11/09,Campbell - Pittsburgh Dual,174,L,DEC,9 - 5,Gregg Harvey,45148,Pittsburgh,Austin Murphy,51608,Campbell
+2020,11/03,Southeast Open,174,L,DEC,8 - 3,Clay Lautt,49212,North Carolina,Austin Murphy,51608,Campbell
+2020,11/03,Southeast Open,174,L,DEC,4 - 0,Connor Flynn,39676,Missouri,Austin Murphy,51608,Campbell
+2020,01/01,Southern Scuffle,174,L,DEC,9 - 4,Dean Caravela,44816,Navy,Charlie Andrews,44940,Campbell
+2020,01/01,Southern Scuffle,174,L,TF5,16 - 0 2:09,Cody Surratt,49030,Air Force,Charlie Andrews,44940,Campbell
+2020,01/01,Southern Scuffle,174,W,FALL,5:14,Tristan Tadeo,62846,Little Rock,Charlie Andrews,44940,Campbell
+2020,12/15,Reno Tournament of Champions,174,L,MD,16 - 6,Brian Stanford,64058,Grand View,Charlie Andrews,44940,Campbell
+2020,12/15,Reno Tournament of Champions,174,L,DEC,6 - 1,Sethan Bogulski,45359,Northern Colorado,Charlie Andrews,44940,Campbell
+2020,12/15,Reno Tournament of Champions,174,W,DEC,10 - 9,Foster Karmon,46061,Stanford,Charlie Andrews,44940,Campbell
+2020,11/23,Navy Classic,174,L,TF5,22 - 7 7:00,Spencer Carey,44817,Navy,Charlie Andrews,44940,Campbell
+2020,11/23,Navy Classic,174,L,DEC,12 - 5,Cody Hughes,39608,Virginia Tech,Charlie Andrews,44940,Campbell
+2020,11/23,Navy Classic,174,W,FALL,4:22,Connor Bourne,57131,American,Charlie Andrews,44940,Campbell
+2020,11/23,Navy Classic,174,W,DEC,10 - 7,Bryce Dempsey,51011,American,Charlie Andrews,44940,Campbell
+2020,11/10,Campbell - Ohio Dual,174,L,FALL,7:00,Logan Stanley,56204,Ohio,Charlie Andrews,44940,Campbell
+2020,11/03,Southeast Open,174,W,TF5,16 - 1 4:22,Caleb Spears,63520,Newberry,Charlie Andrews,44940,Campbell
+2020,11/03,Southeast Open,174,L,DEC,8 - 5,Clay Lautt,49212,North Carolina,Charlie Andrews,44940,Campbell
+2020,11/03,Southeast Open,174,L,TF5,15 - 0 5:00,Anthony Lombardo,19656,George Mason,Charlie Andrews,44940,Campbell
+2020,11/10,UNCP Classic,174,W,SV-1,3 - 1,Jovaun Johnson,63318,UNC Pembroke,Nakoda Siegel,62501,Campbell
+2020,11/10,UNCP Classic,174,L,INJ,7:00,Angel Hernandez,63113,Lander,Nakoda Siegel,62501,Campbell
+2020,11/10,UNCP Classic,174,L,MFOR,0 - 0,Carlos Diaz,60057,Southeastern University,Nakoda Siegel,62501,Campbell
+2020,11/10,UNCP Classic,174,W,DEC,9 - 6,Mike Edouard,63380,Life University,Nakoda Siegel,62501,Campbell
+2020,11/10,UNCP Classic,174,L,DEC,10 - 5,Joey Mazzara,54232,North Carolina,Nakoda Siegel,62501,Campbell
+2020,11/03,Southeast Open,174,W,DEC,5 - 2,Tucker Nadeau,56465,West Virginia,Nakoda Siegel,62501,Campbell
+2020,11/03,Southeast Open,174,W,TF5,18 - 3 3:15,Camden Buckingham,63581,King,Nakoda Siegel,62501,Campbell
+2020,11/03,Southeast Open,174,L,FALL,0:35,Scott Joll,62424,West Virginia,Nakoda Siegel,62501,Campbell
+2020,11/03,Southeast Open,174,L,DEC,4 - 3,Samuel Mora,62408,Gardner-Webb,Nakoda Siegel,62501,Campbell
+2020,01/25,Appalachian Open,174,L,FALL,5:29,Channing Connors,63516,Virginia,Trent Knight,61400,Campbell
+2020,01/25,Appalachian Open,174,L,DEC,12 - 7,Kyle Homet,57168,Gardner-Webb,Trent Knight,61400,Campbell
+2020,01/25,Appalachian Open,174,W,DEC,8 - 2,Joshua Walker,45579,Gardner-Webb,Trent Knight,61400,Campbell
+2020,01/01,Southern Scuffle,174,L,TF5,18 - 1 3:44,Scott Joll,62424,West Virginia,Trent Knight,61400,Campbell
+2020,01/01,Southern Scuffle,174,L,MD,14 - 6,Foster Karmon,46061,Stanford,Trent Knight,61400,Campbell
+2020,11/24,Tornado Open,174,W,FALL,0:38,Joshua Gardner,64934,King,Trent Knight,61400,Campbell
+2020,11/24,Tornado Open,174,W,DEC,11 - 8,Sterling Griffin,59276,Midway University,Trent Knight,61400,Campbell
+2020,11/24,Tornado Open,174,L,INJ,7:00,Andrew Taylor,55006,Thomas More College,Trent Knight,61400,Campbell
+2020,11/24,Tornado Open,174,L,DEC,10 - 6,Noah Liles,51070,Chattanooga,Trent Knight,61400,Campbell
+2020,11/17,Wolfpack Open,174,W,FALL,4:34,Jake Cook,51285,NC State,Trent Knight,61400,Campbell
+2020,11/17,Wolfpack Open,174,L,FALL,1:36,Robert Patrick,50665,Virginia,Trent Knight,61400,Campbell
+2020,11/17,Wolfpack Open,174,L,DEC,11 - 6,Luke Drugac,44767,Old Dominion,Trent Knight,61400,Campbell
+2020,11/09,Mountaineer Invitational,174,L,MD,11 - 1,Caleb Hopkins,56482,Campbell,Trent Knight,61400,Campbell
+2020,11/03,Southeast Open,174,W,DEC,4 - 1,Tucker Nadeau,56465,West Virginia,Trent Knight,61400,Campbell
+2020,11/03,Southeast Open,174,W,FALL,1:31,Allen pyatte,61647,Mount Olive,Trent Knight,61400,Campbell
+2020,11/03,Southeast Open,174,W,INJ,7:00,Steven Newell,57721,Davidson,Trent Knight,61400,Campbell
+2020,11/03,Southeast Open,174,L,DEC,9 - 3,Barrett Blakely,54239,Appalachian State,Trent Knight,61400,Campbell
+2020,01/04,Franklin & Marshall Open,165,L,FALL,3:37,Emmett LiCastri,45213,Franklin & Marshall,Cameron Andrews,61898,Campbell
+2020,01/04,Franklin & Marshall Open,165,L,TF5,16 - 1 7:00,Brian Krasowski,44804,Pennsylvania,Cameron Andrews,61898,Campbell
+2020,01/04,Franklin & Marshall Open,165,W,DEC,5 - 3,David Veltri,59635,Virginia,Cameron Andrews,61898,Campbell
+2020,11/17,Wolfpack Open,165,L,DEC,4 - 1,Rodney Winston,62584,George Mason,Cameron Andrews,61898,Campbell
+2020,11/17,Wolfpack Open,165,L,DEC,5 - 2,Brett Mordecai,61869,Appalachian State,Cameron Andrews,61898,Campbell
+2020,11/03,Southeast Open,174,W,TF5,17 - 2 6:20,William Seymore,63519,King,Cameron Andrews,61898,Campbell
+2020,11/03,Southeast Open,174,W,DEC,8 - 5,Nikko DeAugustino,63513,Newberry,Cameron Andrews,61898,Campbell
+2020,11/03,Southeast Open,174,L,FALL,3:31,Steven Newell,57721,Davidson,Cameron Andrews,61898,Campbell
+2020,01/25,Appalachian Open,174,L,FALL,2:35,Kolton Clark,62772,Virginia Tech,Cole Maddox,57197,Campbell
+2020,01/25,Appalachian Open,174,W,FALL,1:01,Dalton Hardeman,59804,Truett-McConnell,Cole Maddox,57197,Campbell
+2020,01/25,Appalachian Open,174,L,MD,9 - 0,Hunter Fortner,50952,Chattanooga,Cole Maddox,57197,Campbell
+2020,01/04,Franklin & Marshall Open,174,L,DEC,5 - 2,Derek Yingling,60759,United States Military Academy,Cole Maddox,57197,Campbell
+2020,01/04,Franklin & Marshall Open,174,L,DEC,6 - 3,Jake Stefanowicz,57039,Pennsylvania,Cole Maddox,57197,Campbell
+2020,11/17,Wolfpack Open,174,L,DEC,7 - 3,Caleb Spears,63520,Newberry,Cole Maddox,57197,Campbell
+2020,11/17,Wolfpack Open,174,L,DEC,11 - 6,Channing Connors,63516,Virginia,Cole Maddox,57197,Campbell
+2020,11/03,Southeast Open,174,W,DEC,6 - 3,Channing Connors,63516,Virginia,Cole Maddox,57197,Campbell
+2020,11/03,Southeast Open,174,L,DEC,6 - 5,Jeremy Seymour,62586,George Mason,Cole Maddox,57197,Campbell
+2020,11/03,Southeast Open,174,L,MD,11 - 2,Steven Newell,57721,Davidson,Cole Maddox,57197,Campbell
+2020,03/08,SoCon Championships,184,W,FALL,4:52,Samuel Mora,62408,Gardner-Webb,Andrew Morgan,40250,Campbell
+2020,03/08,SoCon Championships,184,W,FALL,0:48,Cooper Youngblood,57376,The Citadel,Andrew Morgan,40250,Campbell
+2020,03/08,SoCon Championships,184,W,MD,10 - 2,Matthew Waddell,49259,Chattanooga,Andrew Morgan,40250,Campbell
+2020,02/23,Campbell - Davidson Dual,184,W,FALL,1:19,Gavin Henry,61929,Davidson,Andrew Morgan,40250,Campbell
+2020,02/15,Campbell - VMI Dual,184,W,FALL,1:29,Max Gallahan,45422,VMI,Andrew Morgan,40250,Campbell
+2020,02/13,Appalachian State - Campbell Dual,184,W,MD,12 - 3,Julian Gorring,62809,Appalachian State,Andrew Morgan,40250,Campbell
+2020,02/08,Chattanooga - Campbell Dual,184,W,DEC,5 - 0,Matthew Waddell,49259,Chattanooga,Andrew Morgan,40250,Campbell
+2020,01/25,Presbyterian - Campbell Dual,184,W,FALL,3:53,Austin Stith,61206,Presbyterian,Andrew Morgan,40250,Campbell
+2020,01/25,Oregon State - Campbell Dual,184,W,MD,17 - 4,Colton Beisley,52240,Oregon State,Andrew Morgan,40250,Campbell
+2020,01/18,The Citadel - Campbell Dual,184,W,TF5,22 - 6 3:00,Jared Zenie,57375,The Citadel,Andrew Morgan,40250,Campbell
+2020,01/11,Campbell - Harvard Dual,184,W,MD,11 - 0,Michael Doggett,62194,Harvard,Andrew Morgan,40250,Campbell
+2020,01/11,Campbell - Arizona State Dual,184,L,MD,18 - 7,Zahid Valencia,39501,Arizona State,Andrew Morgan,40250,Campbell
+2020,01/11,Campbell - Iowa State Dual,184,W,SV-2,8 - 6,Marcus Coleman,49154,Iowa State,Andrew Morgan,40250,Campbell
+2020,12/29,Midlands Championships,184,W,MD,11 - 3,Jack Jessen,50838,Northwestern,Andrew Morgan,40250,Campbell
+2020,12/29,Midlands Championships,184,L,DEC,7 - 4,Cash Wilcke,39502,Iowa,Andrew Morgan,40250,Campbell
+2020,12/29,Midlands Championships,184,L,MD,11 - 3,Taylor Lujan,39506,Northern Iowa,Andrew Morgan,40250,Campbell
+2020,12/29,Midlands Championships,184,W,DEC,6 - 4,Noah Stewart,44599,Army West Point,Andrew Morgan,40250,Campbell
+2020,12/29,Midlands Championships,184,W,DEC,5 - 3,Noah Stewart,44599,Army West Point,Andrew Morgan,40250,Campbell
+2020,12/29,Midlands Championships,184,W,DEC,6 - 1,Joey Mazzara,54232,North Carolina,Andrew Morgan,40250,Campbell
+2020,12/15,Reno Tournament of Champions,184,W,FALL,1:25,Hunter Morse,64816,Unattached,Andrew Morgan,40250,Campbell
+2020,12/15,Reno Tournament of Champions,184,W,DEC,8 - 1,Caden Gerlach,62931,Cal Baptist,Andrew Morgan,40250,Campbell
+2020,12/15,Reno Tournament of Champions,184,W,DEC,6 - 5,Anthony Orozco,52503,Menlo,Andrew Morgan,40250,Campbell
+2020,12/15,Reno Tournament of Champions,184,W,DEC,4 - 2,Brandon Martino,50244,Fresno State,Andrew Morgan,40250,Campbell
+2020,12/15,Reno Tournament of Champions,184,L,MD,10 - 2,Colt Doyle,48240,Oregon State,Andrew Morgan,40250,Campbell
+2020,11/23,Navy Classic,184,W,SV-1,6 - 4,Lane Hinkle,45314,Kent State,Andrew Morgan,40250,Campbell
+2020,11/23,Navy Classic,184,W,DEC,5 - 1,Corey Hazel,39756,Lock Haven,Andrew Morgan,40250,Campbell
+2020,11/23,Navy Classic,184,L,MD,12 - 4,Cameron Caffey,50273,Michigan State,Andrew Morgan,40250,Campbell
+2020,11/23,Navy Classic,184,W,MD,12 - 1,Dean Drugac,44766,Old Dominion,Andrew Morgan,40250,Campbell
+2020,11/23,Navy Classic,184,L,TB-2,11 - 10,Hunter Bolen,49335,Virginia Tech,Andrew Morgan,40250,Campbell
+2020,11/10,Campbell - Ohio Dual,184,W,MD,12 - 2,Mason Kroening,50158,Ohio,Andrew Morgan,40250,Campbell
+2020,11/09,Campbell - Pittsburgh Dual,184,W,DEC,11 - 8,Nino Bonaccorsi,49285,Pittsburgh,Andrew Morgan,40250,Campbell
+2020,11/03,Southeast Open,184,W,DEC,2 - 0,Michael Battista,51672,Virginia,Andrew Morgan,40250,Campbell
+2020,11/03,Southeast Open,184,W,MD,14 - 5,Matthew Waddell,49259,Chattanooga,Andrew Morgan,40250,Campbell
+2020,11/03,Southeast Open,184,W,DEC,7 - 0,Ben Stacey,44899,Chattanooga,Andrew Morgan,40250,Campbell
+2020,11/03,Southeast Open,184,W,DEC,3 - 1,Canten Marriott,44723,Missouri,Andrew Morgan,40250,Campbell
+2020,01/31,Campbell - Gardner-Webb Dual,184,W,FALL,1:54,Samuel Mora,62408,Gardner-Webb,Caleb Hopkins,56482,Campbell
+2020,01/04,Franklin & Marshall Open,184,W,MD,9 - 1,Tyler Lynde,60380,Nassau Community College,Caleb Hopkins,56482,Campbell
+2020,01/04,Franklin & Marshall Open,184,L,DEC,5 - 3,Dean Drugac,44766,Old Dominion,Caleb Hopkins,56482,Campbell
+2020,01/04,Franklin & Marshall Open,184,L,DEC,11 - 4,Michael Battista,51672,Virginia,Caleb Hopkins,56482,Campbell
+2020,01/04,Franklin & Marshall Open,184,W,DEC,9 - 3,Mason Fiscella,57035,Appalachian State,Caleb Hopkins,56482,Campbell
+2020,12/29,Midlands Championships,184,L,DEC,5 - 0,Anthony Orozco,52503,Menlo,Caleb Hopkins,56482,Campbell
+2020,12/29,Midlands Championships,184,L,DEC,15 - 9,Nelson Brands,49994,Iowa,Caleb Hopkins,56482,Campbell
+2020,12/29,Midlands Championships,184,W,DEC,6 - 5,Joey Mazzara,54232,North Carolina,Caleb Hopkins,56482,Campbell
+2020,12/29,Midlands Championships,184,W,MD,12 - 2,Peter Acciardi,51069,Buffalo,Caleb Hopkins,56482,Campbell
+2020,12/15,Reno Tournament of Champions,184,W,DEC,10 - 3,Adrian Chavez-Morales,62866,CSU Bakersfield,Caleb Hopkins,56482,Campbell
+2020,12/15,Reno Tournament of Champions,184,W,FALL,3:00,Hunter Gregerson,58667,North Idaho College,Caleb Hopkins,56482,Campbell
+2020,12/15,Reno Tournament of Champions,184,L,MD,16 - 2,Hunter Cruz,56318,Fresno State,Caleb Hopkins,56482,Campbell
+2020,12/15,Reno Tournament of Champions,184,W,FALL,4:39,Dominic Kincaid,45678,Fresno State,Caleb Hopkins,56482,Campbell
+2020,12/15,Reno Tournament of Champions,184,L,DEC,3 - 0,Tate Samuelson,57066,Wyoming,Caleb Hopkins,56482,Campbell
+2020,11/23,Navy Classic,184,W,DEC,5 - 4,Lane Hinkle,45314,Kent State,Caleb Hopkins,56482,Campbell
+2020,11/23,Navy Classic,184,W,MD,15 - 1,Ray Bernot,45102,Lock Haven,Caleb Hopkins,56482,Campbell
+2020,11/23,Navy Classic,184,L,MD,18 - 5,Billy Janzer,49473,Rutgers,Caleb Hopkins,56482,Campbell
+2020,11/23,Navy Classic,184,W,FALL,2:39,Brandon Stokes,44634,Bucknell,Caleb Hopkins,56482,Campbell
+2020,11/23,Navy Classic,184,L,MD,12 - 1,Tanner Harvey,48451,American,Caleb Hopkins,56482,Campbell
+2020,11/17,Wolfpack Open,174,W,FALL,0:40,Joshua Gardner,64934,King,Caleb Hopkins,56482,Campbell
+2020,11/17,Wolfpack Open,174,W,MD,8 - 0,Lance Andriani,59625,NC State,Caleb Hopkins,56482,Campbell
+2020,11/17,Wolfpack Open,174,L,DEC,10 - 7,Jack Bond,56516,Old Dominion,Caleb Hopkins,56482,Campbell
+2020,11/17,Wolfpack Open,174,L,DEC,6 - 0,Barrett Blakely,54239,Appalachian State,Caleb Hopkins,56482,Campbell
+2020,11/09,Mountaineer Invitational,174,W,MD,11 - 1,Trent Knight,61400,Campbell,Caleb Hopkins,56482,Campbell
+2020,11/09,Mountaineer Invitational,174,W,MD,12 - 0,Jack Walsh,44951,Virginia,Caleb Hopkins,56482,Campbell
+2020,11/03,Southeast Open,174,L,DEC,7 - 4,Hunter Fortner,50952,Chattanooga,Caleb Hopkins,56482,Campbell
+2020,11/03,Southeast Open,174,L,DEC,14 - 11,Jeremiah Kent,50824,Missouri,Caleb Hopkins,56482,Campbell
+2020,03/08,SoCon Championships,197,W,FALL,1:53,Martin Duane,45583,The Citadel,Chris Kober,50022,Campbell
+2020,03/08,SoCon Championships,197,W,DEC,4 - 3,Roderick Davis,39752,Gardner-Webb,Chris Kober,50022,Campbell
+2020,03/08,SoCon Championships,197,L,DEC,10 - 3,Demazio Samuel,45414,Appalachian State,Chris Kober,50022,Campbell
+2020,02/15,Campbell - VMI Dual,197,W,DEC,8 - 2,Zach Brown,62390,VMI,Chris Kober,50022,Campbell
+2020,02/13,Appalachian State - Campbell Dual,197,W,DEC,4 - 3,Demazio Samuel,45414,Appalachian State,Chris Kober,50022,Campbell
+2020,02/08,Chattanooga - Campbell Dual,197,L,MD,9 - 1,Rodney Jones,40212,Chattanooga,Chris Kober,50022,Campbell
+2020,01/31,Campbell - Gardner-Webb Dual,197,W,DEC,3 - 0,Roderick Davis,39752,Gardner-Webb,Chris Kober,50022,Campbell
+2020,01/25,Oregon State - Campbell Dual,197,L,DEC,15 - 8,Jj Dixon,56784,Oregon State,Chris Kober,50022,Campbell
+2020,01/18,The Citadel - Campbell Dual,197,W,TF5,18 - 3 2:25,Cooper Youngblood,57376,The Citadel,Chris Kober,50022,Campbell
+2020,01/11,Campbell - Arizona State Dual,197,L,MD,14 - 4,Kordell Norfleet,49038,Arizona State,Chris Kober,50022,Campbell
+2020,01/11,Campbell - Iowa State Dual,197,W,DEC,3 - 1,Joel Devine,50653,Iowa State,Chris Kober,50022,Campbell
+2020,01/01,Southern Scuffle,184,W,DEC,8 - 5,Noah Cressell,51692,North Dakota State,Chris Kober,50022,Campbell
+2020,01/01,Southern Scuffle,184,W,DEC,4 - 3,George Walton,49265,Rider,Chris Kober,50022,Campbell
+2020,01/01,Southern Scuffle,184,L,DEC,3 - 2,Matthew Waddell,49259,Chattanooga,Chris Kober,50022,Campbell
+2020,01/01,Southern Scuffle,184,L,MFOR,0 - 0,Colt Doyle,48240,Oregon State,Chris Kober,50022,Campbell
+2020,11/17,Wolfpack Open,184,W,FALL,2:37,Clay Ream,64933,Unattached,Chris Kober,50022,Campbell
+2020,11/17,Wolfpack Open,184,W,FALL,1:11,William Seymore,63519,King,Chris Kober,50022,Campbell
+2020,11/17,Wolfpack Open,184,W,DEC,6 - 5,Michael Battista,51672,Virginia,Chris Kober,50022,Campbell
+2020,11/17,Wolfpack Open,184,W,FALL,2:14,Jha'Quan Anderson,62407,Gardner-Webb,Chris Kober,50022,Campbell
+2020,11/03,Southeast Open,184,W,SV-1,9 - 7,Tony Vezzetti,46096,Notre Dame,Chris Kober,50022,Campbell
+2020,11/03,Southeast Open,184,W,DEC,4 - 1,Drew Peck,49055,Virginia,Chris Kober,50022,Campbell
+2020,11/03,Southeast Open,184,W,DEC,6 - 3,Hunter DeLong,50972,West Virginia,Chris Kober,50022,Campbell
+2020,11/03,Southeast Open,184,L,DEC,8 - 5,Matthew Waddell,49259,Chattanooga,Chris Kober,50022,Campbell
+2020,11/03,Southeast Open,184,W,FALL,3:33,Max Gallahan,45422,VMI,Chris Kober,50022,Campbell
+2020,12/15,Reno Tournament of Champions,197,L,DEC,8 - 6,Mark Cardwell,62864,CSU Bakersfield,Austin McNeil,40431,Campbell
+2020,12/15,Reno Tournament of Champions,197,L,MFOR,0 - 0,Brady Gilliland-Daniel,50884,Arizona State,Austin McNeil,40431,Campbell
+2020,12/15,Reno Tournament of Champions,197,W,TF5,20 - 2 6:32,Isaiah Perez,52109,Fresno State,Austin McNeil,40431,Campbell
+2020,12/15,Reno Tournament of Champions,197,W,DEC,4 - 1,Seamus O'Malley,57706,Stanford,Austin McNeil,40431,Campbell
+2020,11/23,Navy Classic,197,L,FALL,3:42,Blake Reynolds,49167,Lock Haven,Austin McNeil,40431,Campbell
+2020,11/23,Navy Classic,197,L,MD,13 - 5,Matt Correnti,44705,Rutgers,Austin McNeil,40431,Campbell
+2020,11/10,Campbell - Ohio Dual,197,L,DEC,7 - 0,Aaron Naples,51351,Ohio,Austin McNeil,40431,Campbell
+2020,11/09,Campbell - Pittsburgh Dual,197,L,DEC,4 - 0,Kellan Stout,39528,Pittsburgh,Austin McNeil,40431,Campbell
+2020,11/03,Southeast Open,197,W,DEC,8 - 5,Brandon Whitman,50602,North Carolina,Austin McNeil,40431,Campbell
+2020,11/03,Southeast Open,197,L,DEC,5 - 3,Rodney Jones,40212,Chattanooga,Austin McNeil,40431,Campbell
+2020,11/03,Southeast Open,197,L,FALL,1:15,Roderick Davis,39752,Gardner-Webb,Austin McNeil,40431,Campbell
+2020,01/01,Southern Scuffle,197,L,MFOR,0 - 0,Francis Duggan,51112,Iowa State,Taye Ghadiali,62500,Campbell
+2020,01/01,Southern Scuffle,197,L,TF5,20 - 5 5:58,Dakota Geer,45373,Oklahoma State,Taye Ghadiali,62500,Campbell
+2020,01/01,Southern Scuffle,197,W,DEC,6 - 3,River Henry,52834,Old Dominion,Taye Ghadiali,62500,Campbell
+2020,11/17,Wolfpack Open,197,W,MFOR,0 - 0,Tyrie Houghton,51136,NC State,Taye Ghadiali,62500,Campbell
+2020,11/17,Wolfpack Open,197,W,INJ,7:00,Tyrie Houghton,51136,NC State,Taye Ghadiali,62500,Campbell
+2020,11/17,Wolfpack Open,197,W,TF5,18 - 2 5:00,Jack Trautman,57165,Gardner-Webb,Taye Ghadiali,62500,Campbell
+2020,11/17,Wolfpack Open,197,W,MD,14 - 1,Ramon Rodriguez,51993,Appalachian State,Taye Ghadiali,62500,Campbell
+2020,11/17,Wolfpack Open,197,W,FALL,2:23,Montgomery Mills,62081,Presbyterian,Taye Ghadiali,62500,Campbell
+2020,11/17,Wolfpack Open,197,W,FALL,1:04,Connor Bowes,63140,Maryland,Taye Ghadiali,62500,Campbell
+2020,11/17,Wolfpack Open,197,L,DEC,2 - 1,Kevin Makosy,59551,Maryland,Taye Ghadiali,62500,Campbell
+2020,11/03,Southeast Open,197,W,FALL,0:12,Connor Bowes,63140,Maryland,Taye Ghadiali,62500,Campbell
+2020,11/03,Southeast Open,197,L,FALL,4:22,Zach Brown,62390,VMI,Taye Ghadiali,62500,Campbell
+2020,11/03,Southeast Open,197,L,SV-1,10 - 8,Kevin Makosy,59551,Maryland,Taye Ghadiali,62500,Campbell
+2020,11/03,Southeast Open,197,W,MD,22 - 8,Evan Clark,56336,Davidson,Taye Ghadiali,62500,Campbell
+2020,11/17,Wolfpack Open,197,W,MFOR,0 - 0,Marcus Bisono,64929,Newberry,Josiah McCallum,62499,Campbell
+2020,11/17,Wolfpack Open,197,L,DEC,5 - 4,Tyrie Houghton,51136,NC State,Josiah McCallum,62499,Campbell
+2020,11/17,Wolfpack Open,197,L,MD,9 - 1,Demazio Samuel,45414,Appalachian State,Josiah McCallum,62499,Campbell
+2020,11/03,Southeast Open,197,L,DEC,5 - 1,Michael Viramontes,58150,Notre Dame,Josiah McCallum,62499,Campbell
+2020,11/03,Southeast Open,197,L,DEC,8 - 2,Jack Trautman,57165,Gardner-Webb,Josiah McCallum,62499,Campbell
+2020,11/03,Southeast Open,174,L,FALL,2:14,Scott Joll,62424,West Virginia,Donovan McElligott,61515,Campbell
+2020,03/08,SoCon Championships,285,W,FALL,1:45,Michael McAleavey,45588,The Citadel,Jere Heino,40434,Campbell
+2020,03/08,SoCon Championships,285,W,FALL,1:17,Gabriel Pickett,57164,Gardner-Webb,Jere Heino,40434,Campbell
+2020,03/08,SoCon Championships,285,W,MD,13 - 4,Christopher Beck,45424,VMI,Jere Heino,40434,Campbell
+2020,03/08,SoCon Championships,285,L,SV-1,5 - 3,Cary Miller,39976,Appalachian State,Jere Heino,40434,Campbell
+2020,02/15,Campbell - VMI Dual,285,W,FALL,0:45,Robbie Adelstein,57294,VMI,Jere Heino,40434,Campbell
+2020,02/13,Appalachian State - Campbell Dual,285,W,DEC,3 - 2,Cary Miller,39976,Appalachian State,Jere Heino,40434,Campbell
+2020,02/08,Chattanooga - Campbell Dual,285,W,TF5,16 - 0 6:08,Grayson Walthall,62675,Chattanooga,Jere Heino,40434,Campbell
+2020,01/31,Campbell - Gardner-Webb Dual,285,W,FALL,0:57,Gabriel Pickett,57164,Gardner-Webb,Jere Heino,40434,Campbell
+2020,01/25,Presbyterian - Campbell Dual,285,W,FALL,2:28,Imani Heslop,61598,Presbyterian,Jere Heino,40434,Campbell
+2020,01/25,Oregon State - Campbell Dual,285,W,DEC,5 - 3,Jamarcus Grant,44974,Oregon State,Jere Heino,40434,Campbell
+2020,01/18,The Citadel - Campbell Dual,285,W,DEC,6 - 0,Michael McAleavey,45588,The Citadel,Jere Heino,40434,Campbell
+2020,01/11,Campbell - Harvard Dual,285,L,DEC,5 - 3,Yaraslau Slavikouski,62196,Harvard,Jere Heino,40434,Campbell
+2020,01/11,Campbell - Arizona State Dual,285,W,DEC,7 - 1,Cade Belshay,50175,Arizona State,Jere Heino,40434,Campbell
+2020,01/11,Campbell - Iowa State Dual,285,W,DEC,5 - 2,Gannon Gremmel,44856,Iowa State,Jere Heino,40434,Campbell
+2020,12/29,Midlands Championships,285,W,DEC,3 - 2,Aaron Costello,49149,Iowa,Jere Heino,40434,Campbell
+2020,12/29,Midlands Championships,285,L,DEC,8 - 3,Carter Isley,44719,Northern Iowa,Jere Heino,40434,Campbell
+2020,12/29,Midlands Championships,285,L,MD,10 - 2,Josh Hokit,44586,Fresno State,Jere Heino,40434,Campbell
+2020,12/29,Midlands Championships,285,W,SV-1,3 - 1,Vincenzo Pelusi,50112,Franklin & Marshall,Jere Heino,40434,Campbell
+2020,12/15,Reno Tournament of Champions,285,W,FALL,4:58,Jase Stokes,58260,Montana State-Northern,Jere Heino,40434,Campbell
+2020,12/15,Reno Tournament of Champions,285,W,DEC,3 - 2,Mathew Kent,52141,Grand View,Jere Heino,40434,Campbell
+2020,12/15,Reno Tournament of Champions,285,W,MD,12 - 4,Landon Brown,51556,Western Wyoming College,Jere Heino,40434,Campbell
+2020,12/15,Reno Tournament of Champions,285,W,DEC,3 - 2,Zach Schrader,45168,Cal Baptist,Jere Heino,40434,Campbell
+2020,12/15,Reno Tournament of Champions,285,W,DEC,3 - 2,Chase Trussell,57046,Utah Valley,Jere Heino,40434,Campbell
+2020,11/23,Navy Classic,285,W,MD,13 - 5,John Kelbly,50329,Cleveland State,Jere Heino,40434,Campbell
+2020,11/23,Navy Classic,285,W,FALL,2:55,Spencer Berthold,50157,Kent State,Jere Heino,40434,Campbell
+2020,11/23,Navy Classic,285,W,DEC,3 - 2,John Borst,49336,Virginia Tech,Jere Heino,40434,Campbell
+2020,11/23,Navy Classic,285,W,MD,10 - 1,Kayne Hutchison,49026,Air Force,Jere Heino,40434,Campbell
+2020,11/10,Campbell - Ohio Dual,285,W,MD,10 - 2,Jordan Earnest,51122,Ohio,Jere Heino,40434,Campbell
+2020,11/09,Campbell - Pittsburgh Dual,285,L,DEC,10 - 3,Demetrius Thomas,47357,Pittsburgh,Jere Heino,40434,Campbell
+2020,11/03,Southeast Open,285,W,FALL,2:20,Mark Chaid,51294,North Carolina,Odgerek Batkhishig,46249,Campbell
+2020,11/03,Southeast Open,285,W,DEC,8 - 4,Mark Chaid,51294,North Carolina,Odgerek Batkhishig,46249,Campbell
+2020,11/03,Southeast Open,285,L,TB-2,3 - 2,Brandon Ngati,45167,West Virginia,Odgerek Batkhishig,46249,Campbell
+2020,11/03,Southeast Open,285,L,DEC,8 - 4,Rodrigo Diaz,44851,Missouri,Odgerek Batkhishig,46249,Campbell
+2020,02/23,Campbell - Davidson Dual,285,L,MD,8 - 0,Mitchell Trigg,56339,Davidson,Calvin Hayford,57198,Campbell
+2020,01/04,Franklin & Marshall Open,285,L,MD,13 - 1,Benjamin Maack,51928,Ursinus,Calvin Hayford,57198,Campbell
+2020,01/04,Franklin & Marshall Open,285,L,FALL,6:49,Caleb Warner,48403,Millersville,Calvin Hayford,57198,Campbell
+2020,11/17,Wolfpack Open,285,L,DEC,3 - 0,Jacob Stanbro,64937,Newberry,Calvin Hayford,57198,Campbell
+2020,11/17,Wolfpack Open,285,L,MFOR,0 - 0,Mark Chaid,51294,North Carolina,Calvin Hayford,57198,Campbell
+2020,11/03,Southeast Open,285,W,FALL,5:41,Jarrett Tronge,62771,Virginia Tech,Calvin Hayford,57198,Campbell
+2020,11/03,Southeast Open,285,L,DEC,6 - 0,Jacob Slinger,57307,George Mason,Calvin Hayford,57198,Campbell
+2020,11/03,Southeast Open,285,L,MD,10 - 1,Finlay Holston,57215,Davidson,Calvin Hayford,57198,Campbell
+2020,01/25,Appalachian Open,285,L,FALL,2:17,Ethan Powell,63329,Truett-McConnell,Wade Wheeler,61813,Campbell
+2020,01/25,Appalachian Open,285,L,FALL,6:22,Tim Warren,57649,Appalachian State,Wade Wheeler,61813,Campbell
+2020,01/04,Franklin & Marshall Open,285,W,FALL,1:18,Gavin Range,65905,Ursinus,Wade Wheeler,61813,Campbell
+2020,01/04,Franklin & Marshall Open,285,L,FALL,4:39,Maguire Horl,51596,LIU,Wade Wheeler,61813,Campbell
+2020,01/04,Franklin & Marshall Open,285,L,FALL,2:51,Michael Burchell,57036,Appalachian State,Wade Wheeler,61813,Campbell
+2020,11/17,Wolfpack Open,285,W,FALL,5:49,Cameron Hamby,60754,Truett-McConnell,Wade Wheeler,61813,Campbell
+2020,11/17,Wolfpack Open,285,L,FALL,3:44,Danny Faulk,56392,Limestone,Wade Wheeler,61813,Campbell
+2020,11/17,Wolfpack Open,285,L,DEC,8 - 4,Tim Warren,57649,Appalachian State,Wade Wheeler,61813,Campbell
+2020,11/09,Mountaineer Invitational,285,L,TF5,18 - 3 3:47,Logan Andrew,59757,Chattanooga,Wade Wheeler,61813,Campbell
+2020,11/09,Mountaineer Invitational,285,W,DEC,4 - 2,Tim Warren,57649,Appalachian State,Wade Wheeler,61813,Campbell
+2020,11/09,Mountaineer Invitational,285,L,FALL,2:57,Michael Burchell,57036,Appalachian State,Wade Wheeler,61813,Campbell
+2020,11/03,Southeast Open,285,L,FALL,6:59,Logan Andrew,59757,Chattanooga,Wade Wheeler,61813,Campbell
+2020,11/03,Southeast Open,285,L,DEC,6 - 1,Ramses Montalvo,55869,George Mason,Wade Wheeler,61813,Campbell

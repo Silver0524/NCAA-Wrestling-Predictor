@@ -1,0 +1,621 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2015,01/31,Grand View Open,125,L,FALL,0:49,Andrew Gorman,24700,Roger Williams,Tirso Lara,16540,North Dakota State
+2015,01/31,Grand View Open,125,W,FALL,4:29,Jeremy Andujar,24699,Roger Williams,Tirso Lara,16540,North Dakota State
+2015,01/31,Grand View Open,125,L,FALL,5:39,Alfredo Rodriguez,41005,Oklahoma,Tirso Lara,16540,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,125,L,MD,13 - 5,Shane Novak,25184,Southwest Minnesota State,Tirso Lara,16540,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,125,W,FALL,1:42,Richy Soto,23488,Concordia,Tirso Lara,16540,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,125,L,FALL,0:53,Joel Salomon,23185,St Cloud State,Tirso Lara,16540,North Dakota State
+2015,11/08,Bison Open,125,W,DEC,13 - 6,Richy Soto,23488,Concordia,Tirso Lara,16540,North Dakota State
+2015,11/08,Bison Open,125,L,MFOR,0 - 0,Jordan Kingsley,12238,Minnesota,Tirso Lara,16540,North Dakota State
+2015,11/08,Bison Open,125,L,FALL,0:42,Sam Brancale,13257,Minnesota,Tirso Lara,16540,North Dakota State
+2015,11/02,Daktronics Open,125,L,FALL,2:58,Will Seydel,21080,Dakota Wesleyan,Tirso Lara,16540,North Dakota State
+2015,11/02,Daktronics Open,125,L,FALL,3:40,Nate Smith,23866,Iowa Central Community College,Tirso Lara,16540,North Dakota State
+2015,03/07,WWC Championships,133,L,DEC,5 - 0,Drew Templeman,15167,Wyoming,Kyle Gliva,13424,North Dakota State
+2015,03/07,WWC Championships,133,L,DEC,6 - 0,Anthony McHugh,13217,Air Force,Kyle Gliva,13424,North Dakota State
+2015,02/22,North Dakota State University - South Dakota State Dual,133,L,DEC,7 - 4,Brance Simms,11703,South Dakota State,Kyle Gliva,13424,North Dakota State
+2015,02/15,Minnesota - North Dakota State University Dual,133,L,DEC,11 - 6,Chris Dardanes,11676,Minnesota,Kyle Gliva,13424,North Dakota State
+2015,02/07,Utah Valley University - North Dakota State University Dual,133,L,MD,11 - 3,Jade Rauser,13291,Utah Valley,Kyle Gliva,13424,North Dakota State
+2015,01/30,North Dakota State - Air Force Dual,133,L,DEC,8 - 2,Anthony McHugh,13217,Air Force,Kyle Gliva,13424,North Dakota State
+2015,01/23,Cal Poly - North Dakota State Dual,133,L,DEC,9 - 7,Victor Trujillo,15661,Cal Poly,Kyle Gliva,13424,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,133,W,DEC,10 - 4,Ezekiel Salvo,22497,Brown,Kyle Gliva,13424,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,133,L,MD,18 - 5,Johnni DiJulius,14679,Ohio State,Kyle Gliva,13424,North Dakota State
+2015,11/30,Wisconsin - North Dakota State University Dual,133,L,FALL,6:13,Ryan Taylor,12219,Wisconsin,Kyle Gliva,13424,North Dakota State
+2015,11/02,Daktronics Open,133,L,FALL,3:58,Ben Morgan,20043,Minnesota,Kyle Gliva,13424,North Dakota State
+2015,11/02,Daktronics Open,133,L,DEC,10 - 5,Dalton Brady,20566,Arizona State,Kyle Gliva,13424,North Dakota State
+2015,11/02,Daktronics Open,133,W,DEC,6 - 1,Taylor Summers,21100,Chadron State,Kyle Gliva,13424,North Dakota State
+2015,11/02,Daktronics Open,133,W,TF4,20 - 5 4:56,Tyler Miler,21099,Iowa Central Community College,Kyle Gliva,13424,North Dakota State
+2015,11/02,Daktronics Open,133,W,DEC,3 - 0,Hunter Weber,13273,North Dakota State,Kyle Gliva,13424,North Dakota State
+2015,11/02,Daktronics Open,133,W,DEC,11 - 9,Justin Scherkenbach,13410,North Dakota State,Kyle Gliva,13424,North Dakota State
+2015,11/16,Gardner-Webb - North Dakota State University Dual,133,W,MD,9 - 1,Tyler Ziegler,13787,Gardner-Webb,Justin Scherkenbach,13410,North Dakota State
+2015,11/16,North Dakota State @ Virginia Tech,133,L,MFOR,0 - 0,Kevin Norstrem,11999,Virginia Tech,Justin Scherkenbach,13410,North Dakota State
+2015,11/15,North Dakota State University - Virginia Dual,133,L,MD,12 - 2,George DiCamillo,20426,Virginia,Justin Scherkenbach,13410,North Dakota State
+2015,11/08,Bison Open,133,W,MD,14 - 5,Ben Gillette,13275,South Dakota State,Justin Scherkenbach,13410,North Dakota State
+2015,11/08,Bison Open,133,W,SV-1,9 - 7,Blake Bosch,25199,Minnesota State Moorhead,Justin Scherkenbach,13410,North Dakota State
+2015,11/08,Bison Open,133,W,TF4,20 - 5 4:53,Tyler Pieper,20375,South Dakota State,Justin Scherkenbach,13410,North Dakota State
+2015,11/08,Bison Open,133,L,MD,15 - 4,Chris Dardanes,11676,Minnesota,Justin Scherkenbach,13410,North Dakota State
+2015,11/08,Bison Open,133,W,FALL,1:40,Ben Morgan,20043,Minnesota,Justin Scherkenbach,13410,North Dakota State
+2015,11/02,Daktronics Open,133,W,DEC,6 - 1,Hunter Weber,13273,North Dakota State,Justin Scherkenbach,13410,North Dakota State
+2015,11/02,Daktronics Open,133,L,DEC,5 - 3,Ben Morgan,20043,Minnesota,Justin Scherkenbach,13410,North Dakota State
+2015,11/02,Daktronics Open,133,W,FALL,6:59,Ben Gillette,13275,South Dakota State,Justin Scherkenbach,13410,North Dakota State
+2015,11/02,Daktronics Open,133,W,DEC,11 - 10,Quinn Smith,20376,South Dakota State,Justin Scherkenbach,13410,North Dakota State
+2015,11/02,Daktronics Open,133,L,DEC,11 - 9,Kyle Gliva,13424,North Dakota State,Justin Scherkenbach,13410,North Dakota State
+2015,11/02,Daktronics Open,133,W,TF4,21 - 4 4:55,Darrian Schwenke,20104,Nebraska,Justin Scherkenbach,13410,North Dakota State
+2015,11/02,Daktronics Open,133,W,FALL,3:26,Caleb Studebaker,21097,Iowa Central Community College,Justin Scherkenbach,13410,North Dakota State
+2015,01/31,Grand View Open,133,L,FALL,1:44,Hunter Genco,24693,Grand View,Nicholas O'Brien,21470,North Dakota State
+2015,01/31,Grand View Open,133,W,FALL,1:29,Ernesto Escobar,24692,Grand View,Nicholas O'Brien,21470,North Dakota State
+2015,01/31,Grand View Open,133,W,DEC,9 - 3,Mitch Funk,24711,Unattached,Nicholas O'Brien,21470,North Dakota State
+2015,01/31,Grand View Open,133,L,MD,12 - 4,Josh Alber,20208,Northern Iowa,Nicholas O'Brien,21470,North Dakota State
+2015,12/29,Midlands Championships,133,L,DEC,5 - 3,Ben Gillette,13275,South Dakota State,Nicholas O'Brien,21470,North Dakota State
+2015,12/29,Midlands Championships,133,L,FALL,1:14,Dominick Malone,12015,Northwestern,Nicholas O'Brien,21470,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,133,W,FALL,3:48,Joe Mosley,23212,St Cloud State,Nicholas O'Brien,21470,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,133,W,DEC,11 - 6,Kristian Vazquez,21468,Minnesota,Nicholas O'Brien,21470,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,133,W,DEC,13 - 12,Mason Moreno,23487,Rochester Community & Tech College,Nicholas O'Brien,21470,North Dakota State
+2015,11/22,Finn Grinaker Open,133,W,MD,12 - 4,Dawit Gebreab,23214,Concordia-Moorhead,Nicholas O'Brien,21470,North Dakota State
+2015,11/22,Finn Grinaker Open,133,W,TF4,16 - 1 5:22,Joseph Zapeda,23213,Jamestown,Nicholas O'Brien,21470,North Dakota State
+2015,11/22,Finn Grinaker Open,133,W,FALL,0:50,Joe Mosley,23212,St Cloud State,Nicholas O'Brien,21470,North Dakota State
+2015,11/22,Finn Grinaker Open,133,W,FALL,4:57,Chris Warf,23211,Minot State,Nicholas O'Brien,21470,North Dakota State
+2015,11/08,Bison Open,133,L,DEC,8 - 4,Blake Bosch,25199,Minnesota State Moorhead,Nicholas O'Brien,21470,North Dakota State
+2015,11/08,Bison Open,133,W,DEC,6 - 0,Logan Crosby,37482,Unattached,Nicholas O'Brien,21470,North Dakota State
+2015,11/08,Bison Open,133,W,FALL,1:25,Jaxon Fitzgerald,20371,South Dakota State,Nicholas O'Brien,21470,North Dakota State
+2015,11/08,Bison Open,133,L,TF4,19 - 4 6:48,Chris Dardanes,11676,Minnesota,Nicholas O'Brien,21470,North Dakota State
+2015,02/01,North Dakota State University - Wyoming Dual,133,L,MD,10 - 2,Drew Templeman,15167,Wyoming,Hunter Weber,13273,North Dakota State
+2015,01/18,Boise State - North Dakota State Dual,133,L,DEC,4 - 2,Michael Cook,19685,Boise State,Hunter Weber,13273,North Dakota State
+2015,01/16,Northern Colorado - North Dakota State University Dual,133,W,DEC,8 - 2,Michael Espinoza,21974,Northern Colorado,Hunter Weber,13273,North Dakota State
+2015,12/29,Midlands Championships,133,L,DEC,5 - 0,Josh Alber,20208,Northern Iowa,Hunter Weber,13273,North Dakota State
+2015,12/29,Midlands Championships,133,L,DEC,7 - 0,Kevin Norstrem,11999,Virginia Tech,Hunter Weber,13273,North Dakota State
+2015,12/14,South Dakota State - North Dakota State University Dual,133,L,MD,12 - 3,Brance Simms,11703,South Dakota State,Hunter Weber,13273,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,133,W,MFOR,0 - 0,Gabe Foltz,23492,Concordia-Moorhead,Hunter Weber,13273,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,133,L,FALL,3:15,Will Mccarthy,23188,Concordia-Moorhead,Hunter Weber,13273,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,133,L,DEC,7 - 1,Blake Bosch,25199,Minnesota State Moorhead,Hunter Weber,13273,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,133,W,DEC,5 - 2,Gabe Foltz,23492,Concordia-Moorhead,Hunter Weber,13273,North Dakota State
+2015,11/22,Finn Grinaker Open,133,L,DEC,7 - 0,Blake Bosch,25199,Minnesota State Moorhead,Hunter Weber,13273,North Dakota State
+2015,11/22,Finn Grinaker Open,133,W,FALL,4:43,Will Mccarthy,23188,Concordia-Moorhead,Hunter Weber,13273,North Dakota State
+2015,11/22,Finn Grinaker Open,133,W,DEC,6 - 3,Tanner Johnshoy,23215,St Cloud State,Hunter Weber,13273,North Dakota State
+2015,11/22,Finn Grinaker Open,133,L,DEC,3 - 2,Ben Morgan,20043,Minnesota,Hunter Weber,13273,North Dakota State
+2015,11/08,Bison Open,133,L,DEC,9 - 6,Kristian Vazquez,21468,Minnesota,Hunter Weber,13273,North Dakota State
+2015,11/08,Bison Open,133,L,MD,9 - 1,Brance Simms,11703,South Dakota State,Hunter Weber,13273,North Dakota State
+2015,11/08,Bison Open,133,W,FALL,1:34,Hunter Menendez,21188,Mary,Hunter Weber,13273,North Dakota State
+2015,11/02,Daktronics Open,133,L,DEC,3 - 0,Kyle Gliva,13424,North Dakota State,Hunter Weber,13273,North Dakota State
+2015,11/02,Daktronics Open,133,W,FALL,3:38,Brian Peska,20103,Nebraska,Hunter Weber,13273,North Dakota State
+2015,11/02,Daktronics Open,133,W,DEC,3 - 1,Cord Coronado,15172,Arizona State,Hunter Weber,13273,North Dakota State
+2015,11/02,Daktronics Open,133,L,DEC,6 - 0,Brance Simms,11703,South Dakota State,Hunter Weber,13273,North Dakota State
+2015,11/02,Daktronics Open,133,W,FALL,5:49,Quinn Smith,20376,South Dakota State,Hunter Weber,13273,North Dakota State
+2015,11/02,Daktronics Open,133,W,FALL,3:39,Donnell Rash,21098,Iowa Central Community College,Hunter Weber,13273,North Dakota State
+2015,11/02,Daktronics Open,133,L,DEC,6 - 1,Justin Scherkenbach,13410,North Dakota State,Hunter Weber,13273,North Dakota State
+2015,02/07,North Country Open,141,W,DEC,7 - 6,Gannon Volk,20051,Minnesota,Tom Walton,13406,North Dakota State
+2015,02/07,North Country Open,141,L,TF4,17 - 2 6:00,Thomas Thorn,21082,Minnesota,Tom Walton,13406,North Dakota State
+2015,01/31,Grand View Open,141,L,FALL,1:12,Walker Marshall,21404,Grand View,Tom Walton,13406,North Dakota State
+2015,01/31,Grand View Open,141,L,DEC,16 - 13,Tyler Willers,13399,Northern Iowa,Tom Walton,13406,North Dakota State
+2015,01/31,Grand View Open,141,W,DEC,7 - 5,Cristian Lopez,16585,Iowa State,Tom Walton,13406,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,141,L,FALL,5:00,Philippe Walker,25059,Southwest Minnesota State,Tom Walton,13406,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,141,W,FALL,3:51,Cameron Henning,23486,Augustana,Tom Walton,13406,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,141,L,DEC,7 - 2,Jacoby Bergeron,23189,Concordia,Tom Walton,13406,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,141,W,DEC,7 - 4,Tyler Frost,23485,Northern State University,Tom Walton,13406,North Dakota State
+2015,11/02,Daktronics Open,141,L,DEC,9 - 3,Coltan Laganiere,11578,South Dakota State,Tom Walton,13406,North Dakota State
+2015,11/02,Daktronics Open,141,W,FALL,5:39,Jacob Luning-Hoshino,11601,Midland,Tom Walton,13406,North Dakota State
+2015,11/02,Daktronics Open,141,L,DEC,10 - 7,Gannon Volk,20051,Minnesota,Tom Walton,13406,North Dakota State
+2015,03/19,NCAA Championships,141,L,MD,9 - 1,Jameson Oster,11659,Northwestern,Mitch Bengtson,11619,North Dakota State
+2015,03/19,NCAA Championships,141,L,MD,17 - 4,Mitchell Port,11732,Edinboro,Mitch Bengtson,11619,North Dakota State
+2015,03/07,WWC Championships,141,W,TB-2,7 - 6,Luke Zilverberg,13633,South Dakota State,Mitch Bengtson,11619,North Dakota State
+2015,03/07,WWC Championships,141,W,TB-1,5 - 4,Benjamin Polkowske,20556,Northern Colorado,Mitch Bengtson,11619,North Dakota State
+2015,02/22,North Dakota State University - South Dakota State Dual,141,W,DEC,5 - 3,Luke Zilverberg,13633,South Dakota State,Mitch Bengtson,11619,North Dakota State
+2015,02/15,Minnesota - North Dakota State University Dual,141,L,DEC,10 - 4,Nick Dardanes,13620,Minnesota,Mitch Bengtson,11619,North Dakota State
+2015,02/07,Utah Valley University - North Dakota State University Dual,141,W,DEC,10 - 5,Matthew Ontiveros,20417,Utah Valley,Mitch Bengtson,11619,North Dakota State
+2015,02/01,North Dakota State University - Wyoming Dual,141,W,FALL,4:57,Cole Mendenhall,11607,Wyoming,Mitch Bengtson,11619,North Dakota State
+2015,01/30,North Dakota State - Air Force Dual,141,W,MD,14 - 4,Cody Hancock,15686,Air Force,Mitch Bengtson,11619,North Dakota State
+2015,01/23,Cal Poly - North Dakota State Dual,141,W,DEC,6 - 0,Colton Schilling,12033,Cal Poly,Mitch Bengtson,11619,North Dakota State
+2015,01/18,Boise State - North Dakota State Dual,141,W,FALL,3:44,Jared Jonshoy,23076,Boise State,Mitch Bengtson,11619,North Dakota State
+2015,01/16,Northern Colorado - North Dakota State University Dual,141,L,DEC,3 - 2,Benjamin Polkowske,20556,Northern Colorado,Mitch Bengtson,11619,North Dakota State
+2015,12/29,Midlands Championships,141,L,DEC,9 - 4,Frank Goodwin,18169,Maryland,Mitch Bengtson,11619,North Dakota State
+2015,12/29,Midlands Championships,141,W,MD,9 - 0,Sammy Gross,20221,Northwestern,Mitch Bengtson,11619,North Dakota State
+2015,12/29,Midlands Championships,141,L,DEC,3 - 1,Luke Zilverberg,13633,South Dakota State,Mitch Bengtson,11619,North Dakota State
+2015,12/14,South Dakota State - North Dakota State University Dual,141,W,DEC,6 - 1,Alex Kocer,20562,South Dakota State,Mitch Bengtson,11619,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,L,DEC,5 - 2,Joe Spisak,11839,Virginia,Mitch Bengtson,11619,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,FALL,7:00,Logan Everett,12041,Army West Point,Mitch Bengtson,11619,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,FALL,7:00,Benjamin Polkowske,20556,Northern Colorado,Mitch Bengtson,11619,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,DEC,3 - 0,George Fisher,13432,Michigan,Mitch Bengtson,11619,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,L,DEC,4 - 3,Geordan Martinez,19690,Boise State,Mitch Bengtson,11619,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,141,L,DEC,8 - 7,Nick Dardanes,13620,Minnesota,Mitch Bengtson,11619,North Dakota State
+2015,11/30,Wisconsin - North Dakota State University Dual,141,L,DEC,7 - 5,Jesse Thielke,11772,Wisconsin,Mitch Bengtson,11619,North Dakota State
+2015,11/16,Gardner-Webb - North Dakota State University Dual,141,W,FALL,0:31,Ryan Hull,11660,Gardner-Webb,Mitch Bengtson,11619,North Dakota State
+2015,11/16,North Dakota State @ Virginia Tech,141,W,MD,14 - 1,Gerald Ronnau,22010,Virginia Tech,Mitch Bengtson,11619,North Dakota State
+2015,11/15,North Dakota State University - Virginia Dual,141,L,DEC,7 - 4,Joe Spisak,11839,Virginia,Mitch Bengtson,11619,North Dakota State
+2015,11/08,Bison Open,141,W,FALL,1:44,Austin Hjelle,21481,Unattached,Mitch Bengtson,11619,North Dakota State
+2015,11/08,Bison Open,141,L,DEC,8 - 4,Nick Dardanes,13620,Minnesota,Mitch Bengtson,11619,North Dakota State
+2015,11/08,Bison Open,141,W,FALL,1:03,Conrad Rangell,13634,Minnesota,Mitch Bengtson,11619,North Dakota State
+2015,11/08,Bison Open,141,W,TF4,20 - 5 6:55,Gannon Volk,20051,Minnesota,Mitch Bengtson,11619,North Dakota State
+2015,11/02,Daktronics Open,141,W,MFOR,0 - 0,Luke Zilverberg,13633,South Dakota State,Mitch Bengtson,11619,North Dakota State
+2015,11/02,Daktronics Open,141,W,TB-1,3 - 1,Demechino Spraggins,21083,Arizona State,Mitch Bengtson,11619,North Dakota State
+2015,11/02,Daktronics Open,141,W,DEC,3 - 2,Thomas Thorn,21082,Minnesota,Mitch Bengtson,11619,North Dakota State
+2015,11/02,Daktronics Open,141,W,FALL,2:52,Joshua Douglas,23186,Minot State,Mitch Bengtson,11619,North Dakota State
+2015,11/02,Daktronics Open,141,W,FALL,3:30,Jacob Luning-Hoshino,11601,Midland,Mitch Bengtson,11619,North Dakota State
+2015,12/29,Midlands Championships,141,L,DEC,13 - 10,Devin Tortorice,24207,Wisconsin-Whitewater,Clay Cathey,13421,North Dakota State
+2015,12/29,Midlands Championships,141,W,DEC,7 - 1,Matt conrad,24212,Harvard,Clay Cathey,13421,North Dakota State
+2015,12/29,Midlands Championships,141,L,MD,10 - 2,Jeff Canfora,11887,Pennsylvania,Clay Cathey,13421,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,141,L,DEC,4 - 3,Jacoby Bergeron,23189,Concordia,Clay Cathey,13421,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,141,W,DEC,4 - 3,Philippe Walker,25059,Southwest Minnesota State,Clay Cathey,13421,North Dakota State
+2015,11/08,Bison Open,141,L,DEC,4 - 2,Luke Zilverberg,13633,South Dakota State,Clay Cathey,13421,North Dakota State
+2015,11/08,Bison Open,141,W,FALL,5:24,Coltan Laganiere,11578,South Dakota State,Clay Cathey,13421,North Dakota State
+2015,11/08,Bison Open,141,W,DEC,5 - 0,Tanner Crissler,41794,Minot State,Clay Cathey,13421,North Dakota State
+2015,11/08,Bison Open,141,L,MD,13 - 4,Nick Dardanes,13620,Minnesota,Clay Cathey,13421,North Dakota State
+2015,11/02,Daktronics Open,141,W,FALL,2:23,Colton McCrystal,13191,Nebraska,Clay Cathey,13421,North Dakota State
+2015,11/02,Daktronics Open,141,L,FALL,3:54,Demechino Spraggins,21083,Arizona State,Clay Cathey,13421,North Dakota State
+2015,11/02,Daktronics Open,141,W,SV-1,8 - 6,Terrance McKinney,23962,Chadron State,Clay Cathey,13421,North Dakota State
+2015,11/02,Daktronics Open,141,W,FALL,4:28,Gannon Volk,20051,Minnesota,Clay Cathey,13421,North Dakota State
+2015,11/02,Daktronics Open,141,W,MD,11 - 2,Joshua Mora,20042,Minnesota,Clay Cathey,13421,North Dakota State
+2015,11/02,Daktronics Open,141,W,FALL,4:01,Tanner Crissler,41794,Minot State,Clay Cathey,13421,North Dakota State
+2015,11/02,Daktronics Open,141,L,DEC,3 - 2,Demechino Spraggins,21083,Arizona State,Clay Cathey,13421,North Dakota State
+2015,03/19,NCAA Championships,149,L,DEC,10 - 3,Christian Barber,13833,North Carolina,Clay Ream,13748,North Dakota State
+2015,03/19,NCAA Championships,149,W,INJ,7:00,Hunter Stieber,11785,Ohio State,Clay Ream,13748,North Dakota State
+2015,03/19,NCAA Championships,149,W,DEC,5 - 3,Josh Kindig,13908,Oklahoma State,Clay Ream,13748,North Dakota State
+2015,03/19,NCAA Championships,149,L,DEC,5 - 0,Brandon Sorensen,13456,Iowa,Clay Ream,13748,North Dakota State
+2015,03/07,WWC Championships,149,W,MD,12 - 2,Alex Kocer,20562,South Dakota State,Clay Ream,13748,North Dakota State
+2015,03/07,WWC Championships,149,W,DEC,4 - 0,Gerald McGinty,25203,Air Force,Clay Ream,13748,North Dakota State
+2015,02/22,North Dakota State University - South Dakota State Dual,149,W,DEC,7 - 5,Alex Kocer,20562,South Dakota State,Clay Ream,13748,North Dakota State
+2015,02/15,Minnesota - North Dakota State University Dual,149,L,DEC,10 - 5,Jake Short,13599,Minnesota,Clay Ream,13748,North Dakota State
+2015,02/07,Utah Valley University - North Dakota State University Dual,149,L,DEC,5 - 4,Trevor Willson,13714,Utah Valley,Clay Ream,13748,North Dakota State
+2015,02/01,North Dakota State University - Wyoming Dual,149,W,FALL,5:52,Jake Elliott,14663,Wyoming,Clay Ream,13748,North Dakota State
+2015,01/30,North Dakota State - Air Force Dual,149,W,DEC,3 - 0,Gerald McGinty,25203,Air Force,Clay Ream,13748,North Dakota State
+2015,01/23,Cal Poly - North Dakota State Dual,149,W,FALL,1:39,Jacob Leon,15710,Cal Poly,Clay Ream,13748,North Dakota State
+2015,01/16,Northern Colorado - North Dakota State University Dual,149,W,MD,13 - 1,Kyle Rodriguez,20192,Northern Colorado,Clay Ream,13748,North Dakota State
+2015,12/29,Midlands Championships,149,L,DEC,7 - 6,Rylan Lubeck,13818,Wisconsin,Clay Ream,13748,North Dakota State
+2015,12/29,Midlands Championships,149,W,DEC,12 - 7,Connor Sutton,11786,Columbia,Clay Ream,13748,North Dakota State
+2015,12/29,Midlands Championships,149,L,MD,12 - 1,Jason Tsirtsis,13629,Northwestern,Clay Ream,13748,North Dakota State
+2015,12/29,Midlands Championships,149,W,FALL,6:40,Kevin Johnson,15826,Old Dominion,Clay Ream,13748,North Dakota State
+2015,12/14,South Dakota State - North Dakota State University Dual,149,W,DEC,8 - 2,Colin Holler,13485,South Dakota State,Clay Ream,13748,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,149,L,DEC,6 - 4,Matt Frisch,13722,The Citadel,Clay Ream,13748,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,149,W,MD,14 - 1,Ezekiel Mamalis,21677,Western Colorado,Clay Ream,13748,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,149,W,FALL,7:00,Devon Zavala,22186,Western Colorado,Clay Ream,13748,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,149,L,MD,17 - 5,Sal Mastriani,13766,Virginia Tech,Clay Ream,13748,North Dakota State
+2015,11/30,Wisconsin - North Dakota State University Dual,149,W,DEC,8 - 7,Andrew Crone,13197,Wisconsin,Clay Ream,13748,North Dakota State
+2015,11/16,Gardner-Webb - North Dakota State University Dual,149,W,MD,9 - 1,Ryan Mosley,11753,Gardner-Webb,Clay Ream,13748,North Dakota State
+2015,11/16,North Dakota State @ Virginia Tech,149,L,FALL,4:35,Devin Carter,11609,Virginia Tech,Clay Ream,13748,North Dakota State
+2015,11/15,North Dakota State University - Virginia Dual,149,W,FALL,4:18,TJ Miller,13827,Virginia,Clay Ream,13748,North Dakota State
+2015,11/08,Bison Open,149,L,DEC,4 - 2,Colin Holler,13485,South Dakota State,Clay Ream,13748,North Dakota State
+2015,11/08,Bison Open,149,W,MD,13 - 2,Chase Austvold,21483,Unattached,Clay Ream,13748,North Dakota State
+2015,11/08,Bison Open,149,W,DEC,6 - 4,Mitchell Friedman,11668,North Dakota State,Clay Ream,13748,North Dakota State
+2015,11/08,Bison Open,149,W,FALL,5:58,Chase Austvold,21483,Unattached,Clay Ream,13748,North Dakota State
+2015,11/08,Bison Open,149,L,DEC,4 - 2,Jake Short,13599,Minnesota,Clay Ream,13748,North Dakota State
+2015,11/02,Daktronics Open,149,L,DEC,3 - 2,Christian Pagdilao,20575,Arizona State,Clay Ream,13748,North Dakota State
+2015,11/02,Daktronics Open,149,W,DEC,7 - 3,Tanner Carlisle,13651,North Dakota State,Clay Ream,13748,North Dakota State
+2015,11/02,Daktronics Open,149,L,DEC,8 - 2,Tyler Berger,20096,Nebraska,Clay Ream,13748,North Dakota State
+2015,11/02,Daktronics Open,149,W,DEC,7 - 3,Trevor Fiorucci,21062,Iowa Central Community College,Clay Ream,13748,North Dakota State
+2015,11/02,Daktronics Open,149,W,TF4,17 - 2 7:00,Zachary Cummings,23227,Minot State,Clay Ream,13748,North Dakota State
+2015,11/02,Daktronics Open,149,W,FALL,4:03,Jacob Anderson,23453,Augustana,Clay Ream,13748,North Dakota State
+2015,02/22,North Dakota State University - South Dakota State Dual,157,L,MD,16 - 7,Colin Holler,13485,South Dakota State,Mitchell Friedman,11668,North Dakota State
+2015,02/15,Minnesota - North Dakota State University Dual,157,L,FALL,1:11,Dylan Ness,13472,Minnesota,Mitchell Friedman,11668,North Dakota State
+2015,01/31,Grand View Open,149,W,MD,11 - 0,Mark Voss,20770,North Dakota State,Mitchell Friedman,11668,North Dakota State
+2015,01/31,Grand View Open,149,L,DEC,4 - 3,Gustavo Martinez,24216,Grand View,Mitchell Friedman,11668,North Dakota State
+2015,01/31,Grand View Open,149,W,FALL,0:45,Coltan Laganiere,11578,South Dakota State,Mitchell Friedman,11668,North Dakota State
+2015,01/31,Grand View Open,149,W,FALL,1:20,Pat Tangen,24702,Benedictine College,Mitchell Friedman,11668,North Dakota State
+2015,01/31,Grand View Open,149,W,DEC,6 - 1,Alex Hernandez,21352,Iowa State,Mitchell Friedman,11668,North Dakota State
+2015,01/31,Grand View Open,149,L,FALL,0:38,Blayne Briceno,13636,Iowa State,Mitchell Friedman,11668,North Dakota State
+2015,12/29,Midlands Championships,149,L,DEC,6 - 2,Rylan Lubeck,13818,Wisconsin,Mitchell Friedman,11668,North Dakota State
+2015,12/29,Midlands Championships,149,L,MD,14 - 5,Brandon Sorensen,13456,Iowa,Mitchell Friedman,11668,North Dakota State
+2015,12/13,Northern Iowa Open,149,L,DEC,5 - 3,Dakota Gray,23908,Luther,Mitchell Friedman,11668,North Dakota State
+2015,12/13,Northern Iowa Open,149,L,DEC,8 - 4,Zach Witte,16642,Northern Iowa,Mitchell Friedman,11668,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,W,FALL,2:42,Isaac Novacek,40522,Minnesota State Moorhead,Mitchell Friedman,11668,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,W,MD,9 - 1,Yonas Gebreab,23228,Concordia,Mitchell Friedman,11668,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,L,TB-1,5 - 3,Taner Trembley,23226,St Cloud State,Mitchell Friedman,11668,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,W,DEC,4 - 0,Grant Steen,23495,Northern State University,Mitchell Friedman,11668,North Dakota State
+2015,11/22,Finn Grinaker Open,149,W,MFOR,0 - 0,Isaac Novacek,40522,Minnesota State Moorhead,Mitchell Friedman,11668,North Dakota State
+2015,11/22,Finn Grinaker Open,149,W,DEC,8 - 6,Yonas Gebreab,23228,Concordia,Mitchell Friedman,11668,North Dakota State
+2015,11/22,Finn Grinaker Open,149,W,FALL,4:42,Zachary Cummings,23227,Minot State,Mitchell Friedman,11668,North Dakota State
+2015,11/22,Finn Grinaker Open,149,L,SV-1,9 - 4,Joe Umlauf,13582,North Dakota State,Mitchell Friedman,11668,North Dakota State
+2015,11/08,Bison Open,149,L,MFOR,0 - 0,Blake Yensen,23221,Northland Community & Technical College,Mitchell Friedman,11668,North Dakota State
+2015,11/08,Bison Open,149,W,DEC,5 - 0,Cody Haugen,41765,Minot State,Mitchell Friedman,11668,North Dakota State
+2015,11/08,Bison Open,149,L,DEC,6 - 4,Clay Ream,13748,North Dakota State,Mitchell Friedman,11668,North Dakota State
+2015,11/02,Daktronics Open,149,L,DEC,11 - 8,Tanner Carlisle,13651,North Dakota State,Mitchell Friedman,11668,North Dakota State
+2015,11/02,Daktronics Open,149,L,DEC,7 - 3,Preston McCalmon,13964,Arizona State,Mitchell Friedman,11668,North Dakota State
+2015,11/02,Daktronics Open,149,W,FALL,1:39,Lane Blasius,21063,Augustana,Mitchell Friedman,11668,North Dakota State
+2015,11/02,Daktronics Open,149,L,DEC,1 - 0,Preston McCalmon,13964,Arizona State,Tanner Carlisle,13651,North Dakota State
+2015,11/02,Daktronics Open,149,W,FALL,0:53,Jacob Anderson,23453,Augustana,Tanner Carlisle,13651,North Dakota State
+2015,11/02,Daktronics Open,149,W,FALL,1:59,Brandon Chesnut,40530,Augustana,Tanner Carlisle,13651,North Dakota State
+2015,11/02,Daktronics Open,149,W,FALL,3:17,Eddie Harvey,13704,Unattached,Tanner Carlisle,13651,North Dakota State
+2015,11/02,Daktronics Open,149,L,MD,14 - 5,Jacob Anderson,23453,Augustana,Tanner Carlisle,13651,North Dakota State
+2015,11/02,Daktronics Open,149,W,DEC,11 - 8,Mitchell Friedman,11668,North Dakota State,Tanner Carlisle,13651,North Dakota State
+2015,11/02,Daktronics Open,149,L,DEC,7 - 3,Clay Ream,13748,North Dakota State,Tanner Carlisle,13651,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,L,SV-1,7 - 5,Marcus Riggles,23493,Minnesota North-Itasca,Blake Carlisle,20761,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,L,DEC,8 - 1,Noah Cuzzetto,23497,St Cloud State,Blake Carlisle,20761,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,W,MD,12 - 1,Blake Yensen,23221,Northland Community & Technical College,Blake Carlisle,20761,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,W,DEC,5 - 1,Alex Stuhl,21058,North Dakota State,Blake Carlisle,20761,North Dakota State
+2015,11/22,Finn Grinaker Open,149,L,SV-1,3 - 1,Kaden Spurgeon,23218,St Cloud State,Blake Carlisle,20761,North Dakota State
+2015,11/22,Finn Grinaker Open,149,W,DEC,9 - 2,Blake Yensen,23221,Northland Community & Technical College,Blake Carlisle,20761,North Dakota State
+2015,11/22,Finn Grinaker Open,149,L,DEC,6 - 3,Larry Bomstad,23220,St Cloud State,Blake Carlisle,20761,North Dakota State
+2015,11/22,Finn Grinaker Open,149,W,FALL,2:29,Nathaniel Shenk,23219,Jamestown,Blake Carlisle,20761,North Dakota State
+2015,01/31,Grand View Open,149,W,DEC,3 - 1,Coltan Laganiere,11578,South Dakota State,Mark Voss,20770,North Dakota State
+2015,01/31,Grand View Open,149,W,DEC,10 - 8,Seth Ehlang,24679,Benedictine College,Mark Voss,20770,North Dakota State
+2015,01/31,Grand View Open,149,W,FALL,4:59,Marshawn Lacy,24680,Roger Williams,Mark Voss,20770,North Dakota State
+2015,01/31,Grand View Open,149,W,TF4,23 - 8 7:00,Pat Tangen,24702,Benedictine College,Mark Voss,20770,North Dakota State
+2015,01/31,Grand View Open,149,W,DEC,9 - 4,Payton Rice,24703,Unattached,Mark Voss,20770,North Dakota State
+2015,01/31,Grand View Open,149,W,FALL,4:08,David Moran,24704,Midland,Mark Voss,20770,North Dakota State
+2015,01/31,Grand View Open,149,L,MD,11 - 0,Mitchell Friedman,11668,North Dakota State,Mark Voss,20770,North Dakota State
+2015,01/31,Grand View Open,149,L,DEC,6 - 4,Alex Hernandez,21352,Iowa State,Mark Voss,20770,North Dakota State
+2015,02/07,North Country Open,157,L,FALL,1:35,Jack Bass,20031,Minnesota,Joe Umlauf,13582,North Dakota State
+2015,12/29,Midlands Championships,149,L,DEC,5 - 3,Connor Sutton,11786,Columbia,Joe Umlauf,13582,North Dakota State
+2015,12/29,Midlands Championships,149,L,DEC,5 - 2,Gerald McGinty,25203,Air Force,Joe Umlauf,13582,North Dakota State
+2015,11/22,Finn Grinaker Open,149,L,DEC,8 - 2,Taner Trembley,23226,St Cloud State,Joe Umlauf,13582,North Dakota State
+2015,11/22,Finn Grinaker Open,149,W,SV-1,9 - 4,Mitchell Friedman,11668,North Dakota State,Joe Umlauf,13582,North Dakota State
+2015,11/22,Finn Grinaker Open,149,W,DEC,7 - 3,Jake Kostik,23225,Concordia,Joe Umlauf,13582,North Dakota State
+2015,11/08,Bison Open,149,W,FALL,6:02,Chase Austvold,21483,Unattached,Joe Umlauf,13582,North Dakota State
+2015,11/08,Bison Open,149,L,MD,12 - 4,Colin Holler,13485,South Dakota State,Joe Umlauf,13582,North Dakota State
+2015,11/08,Bison Open,149,W,MD,9 - 1,Blake Yensen,23221,Northland Community & Technical College,Joe Umlauf,13582,North Dakota State
+2015,11/08,Bison Open,149,W,DEC,4 - 0,Alex Blaney,13649,North Dakota State,Joe Umlauf,13582,North Dakota State
+2015,11/08,Bison Open,149,W,MD,10 - 2,Zachary Cummings,23227,Minot State,Joe Umlauf,13582,North Dakota State
+2015,11/08,Bison Open,149,L,MD,15 - 4,Jake Short,13599,Minnesota,Joe Umlauf,13582,North Dakota State
+2015,11/02,Daktronics Open,149,L,FALL,3:47,Jacob Anderson,23453,Augustana,Joe Umlauf,13582,North Dakota State
+2015,11/02,Daktronics Open,149,L,SV-1,6 - 4,Preston McCalmon,13964,Arizona State,Joe Umlauf,13582,North Dakota State
+2015,01/31,Grand View Open,149,L,DEC,12 - 6,Pat Tangen,24702,Benedictine College,Alex Stuhl,21058,North Dakota State
+2015,01/31,Grand View Open,149,L,DEC,7 - 2,Tyler Sonnabend,24701,Hannibal-LaGrange,Alex Stuhl,21058,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,L,DEC,5 - 1,Blake Carlisle,20761,North Dakota State,Alex Stuhl,21058,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,L,DEC,11 - 4,Bryce Zdanovec,23494,Augustana,Alex Stuhl,21058,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,L,TF4,17 - 1 6:01,Kaden Spurgeon,23218,St Cloud State,Alex Stuhl,21058,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,W,SV-1,9 - 7,Marcus Riggles,23493,Minnesota North-Itasca,Alex Stuhl,21058,North Dakota State
+2015,11/22,Finn Grinaker Open,149,L,FALL,1:25,Kaden Spurgeon,23218,St Cloud State,Alex Stuhl,21058,North Dakota State
+2015,11/22,Finn Grinaker Open,149,L,TF4,15 - 0 4:38,Joseph Heinz,23217,Concordia-Moorhead,Alex Stuhl,21058,North Dakota State
+2015,11/08,Bison Open,149,L,FALL,2:06,Blake Yensen,23221,Northland Community & Technical College,Alex Stuhl,21058,North Dakota State
+2015,11/08,Bison Open,149,L,TF4,17 - 2 4:01,Seth Lange,20039,Minnesota,Alex Stuhl,21058,North Dakota State
+2015,11/02,Daktronics Open,149,L,MD,13 - 4,Brandon Chesnut,40530,Augustana,Alex Stuhl,21058,North Dakota State
+2015,11/02,Daktronics Open,149,W,DEC,3 - 2,Dimitri Grivas,41791,Minot State,Alex Stuhl,21058,North Dakota State
+2015,11/02,Daktronics Open,149,L,TF4,17 - 1 4:37,Colin Holler,13485,South Dakota State,Alex Stuhl,21058,North Dakota State
+2015,01/31,Grand View Open,149,L,DEC,7 - 6,Lane Colwell,24682,Roger Williams,Nate Rykerd,13703,North Dakota State
+2015,01/31,Grand View Open,149,L,FALL,1:51,Payton Rice,24703,Unattached,Nate Rykerd,13703,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,L,DEC,10 - 6,Yonas Gebreab,23228,Concordia,Nate Rykerd,13703,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,149,L,TF4,21 - 2 5:00,Josh Howk,23496,St Cloud State,Nate Rykerd,13703,North Dakota State
+2015,11/22,Finn Grinaker Open,149,L,DEC,5 - 4,Yonas Gebreab,23228,Concordia,Nate Rykerd,13703,North Dakota State
+2015,11/22,Finn Grinaker Open,149,L,TF4,20 - 3 6:11,Isaac Novacek,40522,Minnesota State Moorhead,Nate Rykerd,13703,North Dakota State
+2015,11/08,Bison Open,149,L,FALL,0:29,Chase Austvold,21483,Unattached,Nate Rykerd,13703,North Dakota State
+2015,11/08,Bison Open,149,W,DEC,10 - 4,Blake Yensen,23221,Northland Community & Technical College,Nate Rykerd,13703,North Dakota State
+2015,11/08,Bison Open,149,L,FALL,3:18,Seth Lange,20039,Minnesota,Nate Rykerd,13703,North Dakota State
+2015,11/02,Daktronics Open,149,L,DEC,15 - 11,Ruben Burrows,40868,Midland,Nate Rykerd,13703,North Dakota State
+2015,11/02,Daktronics Open,149,L,TF4,20 - 5 7:00,Tyler Berger,20096,Nebraska,Nate Rykerd,13703,North Dakota State
+2015,03/07,WWC Championships,165,L,DEC,5 - 3,Dakota Friesth,11519,Wyoming,Steven Keogh,20764,North Dakota State
+2015,03/07,WWC Championships,165,L,SV-1,6 - 4,John Nething II,12326,South Dakota State,Steven Keogh,20764,North Dakota State
+2015,02/22,North Dakota State University - South Dakota State Dual,165,L,DEC,8 - 5,Cody Pack,13498,South Dakota State,Steven Keogh,20764,North Dakota State
+2015,02/15,Minnesota - North Dakota State University Dual,165,L,MD,11 - 3,Nick Wanzek,11511,Minnesota,Steven Keogh,20764,North Dakota State
+2015,02/07,Utah Valley University - North Dakota State University Dual,165,W,DEC,1 - 0,Dalton Harmon,20411,Utah Valley,Steven Keogh,20764,North Dakota State
+2015,01/18,Boise State - North Dakota State Dual,157,L,DEC,11 - 5,Steven Hernandez,15477,Boise State,Steven Keogh,20764,North Dakota State
+2015,01/16,Northern Colorado - North Dakota State University Dual,157,L,DEC,7 - 0,Tyler Kinn,16786,Northern Colorado,Steven Keogh,20764,North Dakota State
+2015,12/29,Midlands Championships,157,L,DEC,11 - 4,Kevin Moylan,13952,Princeton,Steven Keogh,20764,North Dakota State
+2015,12/29,Midlands Championships,157,W,FALL,4:33,Mark Savenok,24312,Wisconsin-Whitewater,Steven Keogh,20764,North Dakota State
+2015,12/29,Midlands Championships,157,L,MD,13 - 3,Devin Geoghegan,14859,Old Dominion,Steven Keogh,20764,North Dakota State
+2015,12/14,South Dakota State - North Dakota State University Dual,157,L,MD,16 - 6,Cody Pack,13498,South Dakota State,Steven Keogh,20764,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,157,L,DEC,4 - 3,Tim Wheeling,20564,West Virginia,Steven Keogh,20764,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,157,L,DEC,10 - 3,Jarrett Jensen,13534,Northern Iowa,Steven Keogh,20764,North Dakota State
+2015,11/22,Finn Grinaker Open,157,L,MFOR,0 - 0,Jacob Paul,23223,Jamestown,Steven Keogh,20764,North Dakota State
+2015,11/22,Finn Grinaker Open,157,W,DEC,4 - 2,Ben Cousins,23193,Concordia-Moorhead,Steven Keogh,20764,North Dakota State
+2015,11/22,Finn Grinaker Open,157,L,MFOR,0 - 0,Dylan Urbach,20050,Minnesota,Steven Keogh,20764,North Dakota State
+2015,11/16,Gardner-Webb - North Dakota State University Dual,157,L,DEC,9 - 5,Kyle Ash,14921,Gardner-Webb,Steven Keogh,20764,North Dakota State
+2015,11/16,North Dakota State @ Virginia Tech,157,L,MD,14 - 4,Sal Mastriani,13766,Virginia Tech,Steven Keogh,20764,North Dakota State
+2015,11/15,North Dakota State University - Virginia Dual,157,L,SV-1,7 - 5,Andrew Atkinson,11982,Virginia,Steven Keogh,20764,North Dakota State
+2015,11/02,Daktronics Open,157,W,DEC,5 - 2,Jack Bass,20031,Minnesota,Steven Keogh,20764,North Dakota State
+2015,11/02,Daktronics Open,157,L,DEC,11 - 4,Joel Smith,14912,Arizona State,Steven Keogh,20764,North Dakota State
+2015,11/02,Daktronics Open,157,W,DEC,4 - 0,Shawn Hatlestad,23454,Augustana,Steven Keogh,20764,North Dakota State
+2015,11/02,Daktronics Open,157,L,SV-1,4 - 2,Richie Lewis,40042,Iowa Central Community College,Steven Keogh,20764,North Dakota State
+2015,11/02,Daktronics Open,157,W,FALL,0:30,Jacob Knudsvig,14667,Unattached,Steven Keogh,20764,North Dakota State
+2015,11/02,Daktronics Open,157,W,MD,15 - 2,Grant Nehring,13556,North Dakota State,Steven Keogh,20764,North Dakota State
+2015,03/07,WWC Championships,157,L,DEC,8 - 4,Beau Roberts,13806,Northern Colorado,Grant Nehring,13556,North Dakota State
+2015,03/07,WWC Championships,157,W,DEC,5 - 1,Logan Addis,11534,Utah Valley,Grant Nehring,13556,North Dakota State
+2015,03/07,WWC Championships,157,L,MD,17 - 5,Cody Pack,13498,South Dakota State,Grant Nehring,13556,North Dakota State
+2015,03/07,WWC Championships,157,W,FALL,1:53,Sam Kreimier,20709,Air Force,Grant Nehring,13556,North Dakota State
+2015,02/07,Utah Valley University - North Dakota State University Dual,157,W,MD,10 - 1,Jared Harris,20412,Utah Valley,Grant Nehring,13556,North Dakota State
+2015,02/01,North Dakota State University - Wyoming Dual,157,L,TF4,16 - 0 2:12,Archie Colgan,15555,Wyoming,Grant Nehring,13556,North Dakota State
+2015,01/30,North Dakota State - Air Force Dual,157,W,FALL,2:34,Sam Kreimier,20709,Air Force,Grant Nehring,13556,North Dakota State
+2015,01/23,Cal Poly - North Dakota State Dual,157,W,DEC,8 - 2,Colt Shorts,11611,Cal Poly,Grant Nehring,13556,North Dakota State
+2015,01/18,Boise State - North Dakota State Dual,165,L,DEC,7 - 3,Chris Castillo,14014,Boise State,Grant Nehring,13556,North Dakota State
+2015,01/16,Northern Colorado - North Dakota State University Dual,165,L,MD,15 - 2,Mitchell Polkowske,13749,Northern Colorado,Grant Nehring,13556,North Dakota State
+2015,12/29,Midlands Championships,157,L,DEC,10 - 6,Mark Savenok,24312,Wisconsin-Whitewater,Grant Nehring,13556,North Dakota State
+2015,12/29,Midlands Championships,157,L,DEC,7 - 2,Alex Gregory,18202,Indiana,Grant Nehring,13556,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,157,L,TF4,18 - 3 7:00,Clint Poster,23192,St Cloud State,Grant Nehring,13556,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,157,W,DEC,4 - 2,Garrett Hoffner,25191,Southwest Minnesota State,Grant Nehring,13556,North Dakota State
+2015,11/22,Finn Grinaker Open,157,L,DEC,3 - 2,Ben Cousins,23193,Concordia-Moorhead,Grant Nehring,13556,North Dakota State
+2015,11/22,Finn Grinaker Open,157,W,FALL,2:17,Jacob Paul,23223,Jamestown,Grant Nehring,13556,North Dakota State
+2015,11/22,Finn Grinaker Open,157,L,TF4,17 - 1 3:54,Jack Bass,20031,Minnesota,Grant Nehring,13556,North Dakota State
+2015,11/02,Daktronics Open,157,L,MD,15 - 2,Steven Keogh,20764,North Dakota State,Grant Nehring,13556,North Dakota State
+2015,11/02,Daktronics Open,157,W,TF4,20 - 4 5:31,Devin Combs,21071,Unattached,Grant Nehring,13556,North Dakota State
+2015,11/02,Daktronics Open,157,L,DEC,4 - 3,Austin Chauncey,20097,Nebraska,Grant Nehring,13556,North Dakota State
+2015,11/30,Wisconsin - North Dakota State University Dual,157,L,MD,9 - 0,Jarod Donar,13598,Wisconsin,Cole Sladek,13673,North Dakota State
+2015,11/02,Daktronics Open,157,L,FALL,1:46,Shawn Hatlestad,23454,Augustana,Cole Sladek,13673,North Dakota State
+2015,11/02,Daktronics Open,157,L,DEC,6 - 2,Oliver Pierce,20578,Arizona State,Cole Sladek,13673,North Dakota State
+2015,11/02,Daktronics Open,157,W,SV-1,6 - 4,CJ Clark,21067,Chadron State,Cole Sladek,13673,North Dakota State
+2015,01/31,Grand View Open,157,L,DEC,7 - 2,Sawyer Hoffman,23999,Southwest Minnesota State,Alex Blaney,13649,North Dakota State
+2015,01/31,Grand View Open,157,W,DEC,8 - 2,Travis Kephart,24705,Midland,Alex Blaney,13649,North Dakota State
+2015,01/31,Grand View Open,157,W,FALL,4:22,Jeremy Walters,24661,Roger Williams,Alex Blaney,13649,North Dakota State
+2015,01/31,Grand View Open,157,L,DEC,4 - 0,Logan Peterson,20374,South Dakota State,Alex Blaney,13649,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,157,L,DEC,6 - 1,Garrett Hoffner,25191,Southwest Minnesota State,Alex Blaney,13649,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,157,W,DEC,6 - 1,Jared Nickman,23498,Southwest Minnesota State,Alex Blaney,13649,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,157,L,TF4,18 - 2 6:19,Clint Poster,23192,St Cloud State,Alex Blaney,13649,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,157,W,DEC,3 - 2,Ben Cousins,23193,Concordia-Moorhead,Alex Blaney,13649,North Dakota State
+2015,11/22,Finn Grinaker Open,157,W,DEC,10 - 4,Jacob Paul,23223,Jamestown,Alex Blaney,13649,North Dakota State
+2015,11/22,Finn Grinaker Open,157,W,FALL,2:32,Jevon Schnaubert,23222,Jamestown,Alex Blaney,13649,North Dakota State
+2015,11/22,Finn Grinaker Open,157,L,DEC,14 - 8,Zane Zeman,13549,Minnesota,Alex Blaney,13649,North Dakota State
+2015,11/22,Finn Grinaker Open,157,W,DEC,9 - 4,Brad Dolezal,13566,Minnesota,Alex Blaney,13649,North Dakota State
+2015,11/22,Finn Grinaker Open,157,L,MD,12 - 1,Dylan Urbach,20050,Minnesota,Alex Blaney,13649,North Dakota State
+2015,11/22,Finn Grinaker Open,157,W,MFOR,0 - 0,Jack Bass,20031,Minnesota,Alex Blaney,13649,North Dakota State
+2015,11/08,Bison Open,149,W,FALL,2:28,Codie Nichols,15486,Unattached,Alex Blaney,13649,North Dakota State
+2015,11/08,Bison Open,149,L,MD,10 - 2,Colin Holler,13485,South Dakota State,Alex Blaney,13649,North Dakota State
+2015,11/08,Bison Open,149,L,DEC,4 - 0,Joe Umlauf,13582,North Dakota State,Alex Blaney,13649,North Dakota State
+2015,11/02,Daktronics Open,149,L,DEC,4 - 3,Lane Blasius,21063,Augustana,Alex Blaney,13649,North Dakota State
+2015,11/02,Daktronics Open,149,L,FALL,4:40,Trevor Fiorucci,21062,Iowa Central Community College,Alex Blaney,13649,North Dakota State
+2015,02/01,North Dakota State University - Wyoming Dual,165,L,TF4,18 - 2 6:13,Dakota Friesth,11519,Wyoming,Trevour Chavez,11546,North Dakota State
+2015,01/30,North Dakota State - Air Force Dual,165,L,TF4,17 - 0 5:00,Jesse Stafford,11518,Air Force,Trevour Chavez,11546,North Dakota State
+2015,01/23,Cal Poly - North Dakota State Dual,165,L,SV-1,3 - 1,Travis Berridge,14904,Cal Poly,Trevour Chavez,11546,North Dakota State
+2015,12/29,Midlands Championships,165,L,FALL,4:17,Nate Stadeker,24218,Grand View,Trevour Chavez,11546,North Dakota State
+2015,12/29,Midlands Championships,165,L,DEC,4 - 2,Mark Mabry,24219,Adams State,Trevour Chavez,11546,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,165,L,FALL,4:14,Gabe Fogarty,23502,St Cloud State,Trevour Chavez,11546,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,165,W,DEC,6 - 5,Casey Williams,23501,Southwest Minnesota State,Trevour Chavez,11546,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,165,W,DEC,4 - 3,Daniel Murakami,25077,Southwest Minnesota State,Trevour Chavez,11546,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,165,L,DEC,5 - 4,Josh Berg,23196,St Cloud State,Trevour Chavez,11546,North Dakota State
+2015,11/16,Gardner-Webb - North Dakota State University Dual,165,L,TF4,15 - 0 2:15,Austin Trott,14906,Gardner-Webb,Trevour Chavez,11546,North Dakota State
+2015,11/08,Bison Open,165,W,DEC,3 - 2,Zach Revier,13672,Unattached,Trevour Chavez,11546,North Dakota State
+2015,11/08,Bison Open,165,W,DEC,4 - 0,Zach Barber,23197,Concordia-Moorhead,Trevour Chavez,11546,North Dakota State
+2015,11/08,Bison Open,165,L,MD,11 - 1,Nick Wanzek,11511,Minnesota,Trevour Chavez,11546,North Dakota State
+2015,11/08,Bison Open,165,L,MD,10 - 0,Darius Wright,20052,Minnesota,Trevour Chavez,11546,North Dakota State
+2015,11/08,Bison Open,165,W,DEC,12 - 6,Jake Krogstad,11560,Unattached,Matthew Gray,13535,North Dakota State
+2015,11/08,Bison Open,165,W,MD,13 - 4,Jake Revier,21464,Unattached,Matthew Gray,13535,North Dakota State
+2015,11/08,Bison Open,165,W,MFOR,0 - 0,Anthony Caputo,13587,North Dakota State,Matthew Gray,13535,North Dakota State
+2015,11/08,Bison Open,165,L,DEC,5 - 2,Pat Smith,13550,Minnesota,Matthew Gray,13535,North Dakota State
+2015,11/08,Bison Open,165,L,MD,10 - 0,Nick Wanzek,11511,Minnesota,Matthew Gray,13535,North Dakota State
+2015,11/08,Bison Open,165,W,MD,13 - 3,Darius Wright,20052,Minnesota,Matthew Gray,13535,North Dakota State
+2015,11/02,Daktronics Open,165,W,DEC,10 - 7,Jacen Petersen,20577,Arizona State,Matthew Gray,13535,North Dakota State
+2015,11/02,Daktronics Open,165,L,DEC,7 - 3,Joe Brewster,11490,South Dakota State,Matthew Gray,13535,North Dakota State
+2015,11/02,Daktronics Open,165,W,DEC,6 - 0,Ryan Niven,22774,Iowa Central Community College,Matthew Gray,13535,North Dakota State
+2015,11/02,Daktronics Open,165,W,DEC,5 - 3,Darius Wright,20052,Minnesota,Matthew Gray,13535,North Dakota State
+2015,11/02,Daktronics Open,165,L,DEC,4 - 3,Dustin Williams,20108,Nebraska,Matthew Gray,13535,North Dakota State
+2015,11/02,Daktronics Open,165,W,TF4,20 - 5 7:00,Kyle Schultz,21089,Mary,Matthew Gray,13535,North Dakota State
+2015,12/14,South Dakota State - North Dakota State University Dual,165,L,DEC,12 - 6,John Nething II,12326,South Dakota State,Anthony Caputo,13587,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,165,L,DEC,13 - 7,Seth Thomas,18159,Oregon State,Anthony Caputo,13587,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,165,L,DEC,5 - 4,Nick Wanzek,11511,Minnesota,Anthony Caputo,13587,North Dakota State
+2015,11/30,Wisconsin - North Dakota State University Dual,165,L,MD,15 - 7,Isaac Jordan,13465,Wisconsin,Anthony Caputo,13587,North Dakota State
+2015,11/16,North Dakota State @ Virginia Tech,165,L,DEC,7 - 2,Chad Strube,13878,Virginia Tech,Anthony Caputo,13587,North Dakota State
+2015,11/15,North Dakota State University - Virginia Dual,165,L,MD,16 - 4,Nick Sulzer,11483,Virginia,Anthony Caputo,13587,North Dakota State
+2015,11/08,Bison Open,165,L,MFOR,0 - 0,Matthew Gray,13535,North Dakota State,Anthony Caputo,13587,North Dakota State
+2015,11/08,Bison Open,165,W,DEC,10 - 3,Kyle Schultz,21089,Mary,Anthony Caputo,13587,North Dakota State
+2015,11/08,Bison Open,165,W,DEC,3 - 1,Marcus Bausman,21461,Unattached,Anthony Caputo,13587,North Dakota State
+2015,11/08,Bison Open,165,W,DEC,6 - 4,Pat Smith,13550,Minnesota,Anthony Caputo,13587,North Dakota State
+2015,11/08,Bison Open,165,L,MD,17 - 3,Brandon Kingsley,13491,Minnesota,Anthony Caputo,13587,North Dakota State
+2015,11/08,Bison Open,165,L,MFOR,0 - 0,Darius Wright,20052,Minnesota,Anthony Caputo,13587,North Dakota State
+2015,11/02,Daktronics Open,165,L,FALL,1:56,Ryan Niven,22774,Iowa Central Community College,Anthony Caputo,13587,North Dakota State
+2015,11/02,Daktronics Open,165,W,DEC,13 - 9,Paul Michaelson,21087,Maryland,Anthony Caputo,13587,North Dakota State
+2015,11/02,Daktronics Open,165,L,MD,14 - 3,Joe Brewster,11490,South Dakota State,Anthony Caputo,13587,North Dakota State
+2015,02/07,North Country Open,165,L,FALL,0:44,Dylan Urbach,20050,Minnesota,Charley Popp,20768,North Dakota State
+2015,02/07,North Country Open,165,L,MD,11 - 3,Brandon Krone,20038,Minnesota,Charley Popp,20768,North Dakota State
+2015,01/31,Grand View Open,165,L,MD,18 - 4,Nate Stadeker,24218,Grand View,Charley Popp,20768,North Dakota State
+2015,01/31,Grand View Open,165,W,TF4,20 - 4 7:00,Skylar Sanford,24695,Briar Cliff,Charley Popp,20768,North Dakota State
+2015,01/31,Grand View Open,165,W,TF4,17 - 0 4:13,Jonah Hoshino,21360,Midland,Charley Popp,20768,North Dakota State
+2015,01/31,Grand View Open,165,W,FALL,2:06,Wesley Yoder,24706,Roger Williams,Charley Popp,20768,North Dakota State
+2015,01/31,Grand View Open,165,L,DEC,15 - 8,Logan Thompson,40883,Iowa,Charley Popp,20768,North Dakota State
+2015,11/22,Finn Grinaker Open,165,W,MD,17 - 5,Ryan DeSpain,23232,Jamestown,Charley Popp,20768,North Dakota State
+2015,11/22,Finn Grinaker Open,165,W,MD,11 - 2,Blake Bergeron,23231,Concordia-Moorhead,Charley Popp,20768,North Dakota State
+2015,11/22,Finn Grinaker Open,165,W,TF4,22 - 7 4:38,Jacoby Bergeron,23189,Concordia,Charley Popp,20768,North Dakota State
+2015,11/22,Finn Grinaker Open,165,L,FALL,4:20,Jake Johnson,23788,Northern Iowa,Charley Popp,20768,North Dakota State
+2015,11/08,Bison Open,165,L,DEC,3 - 0,Zach Revier,13672,Unattached,Charley Popp,20768,North Dakota State
+2015,11/08,Bison Open,165,W,DEC,6 - 2,Daniel Murakami,25077,Southwest Minnesota State,Charley Popp,20768,North Dakota State
+2015,11/08,Bison Open,165,L,DEC,4 - 3,Tanner Olson,11533,Unattached,Charley Popp,20768,North Dakota State
+2015,03/19,NCAA Championships,174,W,DEC,10 - 4,Joe Latham,18140,Oregon State,Kurtis Julson,12375,North Dakota State
+2015,03/19,NCAA Championships,174,W,DEC,5 - 1,Frank Cousins,11582,Wisconsin,Kurtis Julson,12375,North Dakota State
+2015,03/19,NCAA Championships,174,W,SV-1,4 - 2,Matt Reed,15381,Oklahoma,Kurtis Julson,12375,North Dakota State
+2015,03/19,NCAA Championships,174,L,MD,11 - 3,Robert Kokesh,12265,Nebraska,Kurtis Julson,12375,North Dakota State
+2015,03/19,NCAA Championships,174,L,DEC,3 - 2,Zach Epperly,12258,Virginia Tech,Kurtis Julson,12375,North Dakota State
+2015,03/19,NCAA Championships,174,L,DEC,5 - 3,Zach Epperly,12258,Virginia Tech,Kurtis Julson,12375,North Dakota State
+2015,03/19,NCAA Championships,174,W,TB-2,5 - 3,Mark Martin,12338,Ohio State,Kurtis Julson,12375,North Dakota State
+2015,03/07,WWC Championships,174,W,INJ,7:00,Ethan Smith,12482,Utah Valley,Kurtis Julson,12375,North Dakota State
+2015,03/07,WWC Championships,174,W,DEC,4 - 2,David Kocer,13612,South Dakota State,Kurtis Julson,12375,North Dakota State
+2015,02/22,North Dakota State University - South Dakota State Dual,174,W,DEC,4 - 1,David Kocer,13612,South Dakota State,Kurtis Julson,12375,North Dakota State
+2015,02/15,Minnesota - North Dakota State University Dual,174,W,DEC,5 - 2,Jordon Rothers,11571,Minnesota,Kurtis Julson,12375,North Dakota State
+2015,02/07,Utah Valley University - North Dakota State University Dual,174,W,DEC,8 - 2,Ethan Smith,12482,Utah Valley,Kurtis Julson,12375,North Dakota State
+2015,02/01,North Dakota State University - Wyoming Dual,174,L,DEC,4 - 1,Andy McCulley,13524,Wyoming,Kurtis Julson,12375,North Dakota State
+2015,01/30,North Dakota State - Air Force Dual,174,W,DEC,10 - 3,Adam Jackson,16161,Air Force,Kurtis Julson,12375,North Dakota State
+2015,01/23,Cal Poly - North Dakota State Dual,174,L,DEC,6 - 3,Dominic Kastl,14609,Cal Poly,Kurtis Julson,12375,North Dakota State
+2015,01/18,Boise State - North Dakota State Dual,174,W,DEC,3 - 2,Austin Dewey,12380,Boise State,Kurtis Julson,12375,North Dakota State
+2015,01/16,Northern Colorado - North Dakota State University Dual,174,W,DEC,7 - 4,Josh VanTine,12296,Northern Colorado,Kurtis Julson,12375,North Dakota State
+2015,12/29,Midlands Championships,174,W,TB-1,2 - 1,Ben Cox,14773,Wisconsin,Kurtis Julson,12375,North Dakota State
+2015,12/29,Midlands Championships,174,L,DEC,5 - 4,Josh Thomson,24321,Messiah,Kurtis Julson,12375,North Dakota State
+2015,12/29,Midlands Championships,174,L,DEC,3 - 2,Steve Schneider,19660,Binghamton,Kurtis Julson,12375,North Dakota State
+2015,12/14,South Dakota State - North Dakota State University Dual,174,W,DEC,8 - 2,David Kocer,13612,South Dakota State,Kurtis Julson,12375,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,174,W,DEC,6 - 4,Ricky McDonald,12789,Brown,Kurtis Julson,12375,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,174,W,DEC,8 - 1,Ethan Smith,12482,Utah Valley,Kurtis Julson,12375,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,174,W,MD,11 - 3,Christian Smith,21504,Cal Baptist,Kurtis Julson,12375,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,174,L,SV-2,7 - 5,Davonte Mahomes,20019,Michigan,Kurtis Julson,12375,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,174,L,DEC,5 - 2,Mark Martin,12338,Ohio State,Kurtis Julson,12375,North Dakota State
+2015,11/30,Wisconsin - North Dakota State University Dual,174,L,DEC,4 - 1,Frank Cousins,11582,Wisconsin,Kurtis Julson,12375,North Dakota State
+2015,11/16,Gardner-Webb - North Dakota State University Dual,174,W,FALL,2:09,Christian Maroni,20798,Gardner-Webb,Kurtis Julson,12375,North Dakota State
+2015,11/16,North Dakota State @ Virginia Tech,174,L,DEC,6 - 4,Zach Epperly,12258,Virginia Tech,Kurtis Julson,12375,North Dakota State
+2015,11/15,North Dakota State University - Virginia Dual,174,L,SV-1,3 - 1,Blaise Butler,13756,Virginia,Kurtis Julson,12375,North Dakota State
+2015,11/02,Daktronics Open,174,W,DEC,3 - 1,Ray Waters,15279,Arizona State,Kurtis Julson,12375,North Dakota State
+2015,11/02,Daktronics Open,174,W,DEC,6 - 3,David Kocer,13612,South Dakota State,Kurtis Julson,12375,North Dakota State
+2015,11/02,Daktronics Open,174,W,FALL,6:48,Ben Schwery,12454,South Dakota State,Kurtis Julson,12375,North Dakota State
+2015,11/02,Daktronics Open,174,W,DEC,5 - 0,Ben Goodwin,21073,Unattached,Kurtis Julson,12375,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,174,L,FALL,1:52,Austin Rake,23505,St Cloud State,Kade Johnson,20763,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,174,W,FALL,2:29,Kyle Sather,23504,Northland Community & Technical College,Kade Johnson,20763,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,174,L,DEC,15 - 10,Dorian Simpson,23503,Southwest Minnesota State,Kade Johnson,20763,North Dakota State
+2015,11/08,Bison Open,174,L,DEC,9 - 2,John Nething II,12326,South Dakota State,Kade Johnson,20763,North Dakota State
+2015,11/08,Bison Open,174,L,DEC,7 - 0,David Kocer,13612,South Dakota State,Kade Johnson,20763,North Dakota State
+2015,11/08,Bison Open,174,W,FALL,2:53,Spencer Folk,20372,South Dakota State,Kade Johnson,20763,North Dakota State
+2015,11/08,Bison Open,174,W,FALL,2:02,Jackson Barber,18036,Unattached,Kade Johnson,20763,North Dakota State
+2015,11/08,Bison Open,174,W,FALL,4:10,Colin Carr,20032,Minnesota,Kade Johnson,20763,North Dakota State
+2015,11/08,Bison Open,174,L,DEC,5 - 4,Colin Carr,20032,Minnesota,Kade Johnson,20763,North Dakota State
+2015,11/08,Bison Open,174,W,FALL,0:55,Jordon Rothers,11571,Minnesota,Kade Johnson,20763,North Dakota State
+2015,11/02,Daktronics Open,174,L,TF4,18 - 2 6:25,John Nething II,12326,South Dakota State,Kade Johnson,20763,North Dakota State
+2015,11/02,Daktronics Open,174,W,FALL,2:10,Jacob Meehan,23315,Iowa Central Community College,Kade Johnson,20763,North Dakota State
+2015,11/02,Daktronics Open,174,L,FALL,5:23,Corey Parsons,21074,Maryland,Kade Johnson,20763,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,174,W,DEC,10 - 6,Tim Moore,23507,St Cloud State,Tyler McNutt,20765,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,174,W,SV-1,2 - 1,Aaron Bates,23208,St Cloud State,Tyler McNutt,20765,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,174,W,MD,10 - 1,Austin Rake,23505,St Cloud State,Tyler McNutt,20765,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,174,W,DEC,11 - 7,Zach Doty,23506,Ridgewater College,Tyler McNutt,20765,North Dakota State
+2015,11/22,Finn Grinaker Open,174,L,DEC,11 - 4,Clayton Jennissen,23210,St Cloud State,Tyler McNutt,20765,North Dakota State
+2015,11/22,Finn Grinaker Open,174,L,DEC,4 - 2,Michael Nord,23209,Jamestown,Tyler McNutt,20765,North Dakota State
+2015,11/22,Finn Grinaker Open,174,L,DEC,5 - 1,Colin Carr,20032,Minnesota,Tyler McNutt,20765,North Dakota State
+2015,11/22,Finn Grinaker Open,174,W,MD,10 - 1,Tijani Karaborni,20037,Minnesota,Tyler McNutt,20765,North Dakota State
+2015,11/08,Bison Open,174,L,MD,16 - 3,Michael Joseph,25062,Southwest Minnesota State,Tyler McNutt,20765,North Dakota State
+2015,11/08,Bison Open,174,W,FALL,4:27,Jake Johnson,23788,Northern Iowa,Tyler McNutt,20765,North Dakota State
+2015,11/08,Bison Open,174,L,FALL,3:52,David Kocer,13612,South Dakota State,Tyler McNutt,20765,North Dakota State
+2015,11/08,Bison Open,174,W,MD,14 - 3,Dan Marquete,42985,Unattached,Tyler McNutt,20765,North Dakota State
+2015,11/02,Daktronics Open,174,L,DEC,5 - 1,Kyle Gerlach,21076,Dakota Wesleyan,Tyler McNutt,20765,North Dakota State
+2015,11/02,Daktronics Open,174,W,FALL,3:23,Jon Wilson,13682,Unattached,Tyler McNutt,20765,North Dakota State
+2015,11/02,Daktronics Open,174,L,FALL,5:20,Ray Waters,15279,Arizona State,Tyler McNutt,20765,North Dakota State
+2015,01/31,Grand View Open,174,L,FALL,1:25,Dylan Morris,20563,Stanford,Joseph Garner,25061,North Dakota State
+2015,03/19,NCAA Championships,184,W,DEC,3 - 2,Jack Dechow,12476,Old Dominion,Hayden Zillmer,12280,North Dakota State
+2015,03/19,NCAA Championships,184,W,DEC,3 - 2,TJ Dudley,12526,Nebraska,Hayden Zillmer,12280,North Dakota State
+2015,03/19,NCAA Championships,184,L,DEC,4 - 2,Vic Avery,12614,Edinboro,Hayden Zillmer,12280,North Dakota State
+2015,03/19,NCAA Championships,184,W,DEC,7 - 1,Max Thomusseit,12477,Pittsburgh,Hayden Zillmer,12280,North Dakota State
+2015,03/19,NCAA Championships,184,L,DEC,4 - 3,Kenny Courts,12279,Ohio State,Hayden Zillmer,12280,North Dakota State
+2015,03/19,NCAA Championships,184,L,SV-1,6 - 4,Kenny Courts,12279,Ohio State,Hayden Zillmer,12280,North Dakota State
+2015,03/19,NCAA Championships,184,W,DEC,4 - 3,Nolan Boyd,12399,Oklahoma State,Hayden Zillmer,12280,North Dakota State
+2015,03/19,NCAA Championships,184,W,DEC,7 - 6,Brett Pfarr,12441,Minnesota,Hayden Zillmer,12280,North Dakota State
+2015,03/07,WWC Championships,184,W,DEC,6 - 2,Benjamin Stroh,12647,Wyoming,Hayden Zillmer,12280,North Dakota State
+2015,03/07,WWC Championships,184,W,FALL,5:30,Zen Ikehara,20707,Air Force,Hayden Zillmer,12280,North Dakota State
+2015,02/22,North Dakota State University - South Dakota State Dual,184,W,MD,21 - 7,Brady Ayers,12290,South Dakota State,Hayden Zillmer,12280,North Dakota State
+2015,02/15,Minnesota - North Dakota State University Dual,184,W,DEC,6 - 5,Brett Pfarr,12441,Minnesota,Hayden Zillmer,12280,North Dakota State
+2015,02/07,Utah Valley University - North Dakota State University Dual,184,W,TF4,22 - 7 6:59,Ross Taylor,15548,Utah Valley,Hayden Zillmer,12280,North Dakota State
+2015,02/01,North Dakota State University - Wyoming Dual,184,W,DEC,10 - 4,Benjamin Stroh,12647,Wyoming,Hayden Zillmer,12280,North Dakota State
+2015,01/30,North Dakota State - Air Force Dual,184,W,FALL,0:40,Zen Ikehara,20707,Air Force,Hayden Zillmer,12280,North Dakota State
+2015,01/23,Cal Poly - North Dakota State Dual,184,W,DEC,9 - 3,Nick Fiegener,19738,Cal Poly,Hayden Zillmer,12280,North Dakota State
+2015,01/18,Boise State - North Dakota State Dual,184,W,FALL,1:25,Xavier Callejas,12333,Boise State,Hayden Zillmer,12280,North Dakota State
+2015,01/16,Northern Colorado - North Dakota State University Dual,184,W,FALL,4:12,Keith Johnson,20189,Northern Colorado,Hayden Zillmer,12280,North Dakota State
+2015,12/29,Midlands Championships,184,W,DEC,4 - 0,Nikko Reyes,12688,Illinois,Hayden Zillmer,12280,North Dakota State
+2015,12/29,Midlands Championships,184,W,TB-1,4 - 3,Ricky Robertson,14042,Wisconsin,Hayden Zillmer,12280,North Dakota State
+2015,12/29,Midlands Championships,184,L,DEC,7 - 5,Lorenzo Thomas,12543,Pennsylvania,Hayden Zillmer,12280,North Dakota State
+2015,12/29,Midlands Championships,184,L,DEC,3 - 1,Sammy Brooks,12589,Iowa,Hayden Zillmer,12280,North Dakota State
+2015,12/29,Midlands Championships,184,W,TF4,16 - 0 7:00,Quinton Rosser,20206,Northern Illinois,Hayden Zillmer,12280,North Dakota State
+2015,12/14,South Dakota State - North Dakota State University Dual,184,W,MD,14 - 5,Brady Ayers,12290,South Dakota State,Hayden Zillmer,12280,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,DEC,4 - 3,Bubba Scheffel,20475,West Virginia,Hayden Zillmer,12280,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,DEC,9 - 3,Tom Sleigh,19710,Bucknell,Hayden Zillmer,12280,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,DEC,4 - 3,Lelund Weatherspoon,12283,Iowa State,Hayden Zillmer,12280,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,DEC,6 - 1,Bubba Scheffel,20475,West Virginia,Hayden Zillmer,12280,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,DEC,8 - 3,Gabe Dean,12580,Cornell,Hayden Zillmer,12280,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,DEC,2 - 1,Brett Pfarr,12441,Minnesota,Hayden Zillmer,12280,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,184,L,DEC,4 - 2,Blake Stauffer,12447,Arizona State,Hayden Zillmer,12280,North Dakota State
+2015,11/30,Wisconsin - North Dakota State University Dual,184,W,DEC,8 - 7,Ricky Robertson,14042,Wisconsin,Hayden Zillmer,12280,North Dakota State
+2015,11/16,Gardner-Webb - North Dakota State University Dual,184,W,TF4,19 - 4 7:00,Gray Jones,12449,Gardner-Webb,Hayden Zillmer,12280,North Dakota State
+2015,11/16,North Dakota State @ Virginia Tech,184,W,DEC,3 - 1,Austin Gabel,12396,Virginia Tech,Hayden Zillmer,12280,North Dakota State
+2015,11/15,North Dakota State University - Virginia Dual,184,W,DEC,7 - 1,William Coggins,22006,Virginia,Hayden Zillmer,12280,North Dakota State
+2015,11/08,Bison Open,184,W,FALL,3:00,Trey Hable,14057,South Dakota State,Hayden Zillmer,12280,North Dakota State
+2015,11/08,Bison Open,184,W,FALL,1:15,Christopher Bascon,25065,Southwest Minnesota State,Hayden Zillmer,12280,North Dakota State
+2015,11/08,Bison Open,184,W,TF4,19 - 3 5:12,Hunter Weddington,12932,South Dakota State,Hayden Zillmer,12280,North Dakota State
+2015,11/08,Bison Open,184,W,SV-1,6 - 4,Brett Pfarr,12441,Minnesota,Hayden Zillmer,12280,North Dakota State
+2015,11/02,Daktronics Open,184,L,SV-2,4 - 2,Blake Stauffer,12447,Arizona State,Hayden Zillmer,12280,North Dakota State
+2015,11/02,Daktronics Open,184,W,DEC,3 - 1,Kevin Radford,12363,Arizona State,Hayden Zillmer,12280,North Dakota State
+2015,11/02,Daktronics Open,184,W,MD,16 - 5,Will Balow,20030,Minnesota,Hayden Zillmer,12280,North Dakota State
+2015,11/02,Daktronics Open,184,W,FALL,4:17,Clayton Wahlstrom,21078,Augustana,Hayden Zillmer,12280,North Dakota State
+2015,11/02,Daktronics Open,184,W,FALL,2:54,Jake Anderson,20093,Nebraska,Hayden Zillmer,12280,North Dakota State
+2015,11/22,Finn Grinaker Open,184,L,DEC,5 - 3,Uthman Rabiu,23201,St Cloud State,Collin Sohn,20769,North Dakota State
+2015,11/22,Finn Grinaker Open,184,L,FALL,5:27,Ryan Stottler,23205,St Cloud State,Collin Sohn,20769,North Dakota State
+2015,11/22,Finn Grinaker Open,184,W,DEC,4 - 1,Jonathon Gonzalez,23237,Jamestown,Collin Sohn,20769,North Dakota State
+2015,11/22,Finn Grinaker Open,184,W,FALL,3:56,Shawn Porter,25063,Southwest Minnesota State,Collin Sohn,20769,North Dakota State
+2015,11/22,Finn Grinaker Open,184,L,MD,15 - 5,Dylon Braun,23204,St Cloud State,Collin Sohn,20769,North Dakota State
+2015,11/16,Gardner-Webb - North Dakota State University Dual,197,W,FALL,4:30,Terry Henderson,12641,Gardner-Webb,Collin Sohn,20769,North Dakota State
+2015,11/16,North Dakota State @ Virginia Tech,197,L,TF4,17 - 1 6:31,Jared Haught,13085,Virginia Tech,Collin Sohn,20769,North Dakota State
+2015,11/15,North Dakota State University - Virginia Dual,197,L,DEC,7 - 4,James Suvak,12541,Virginia,Collin Sohn,20769,North Dakota State
+2015,11/08,Bison Open,184,L,TF4,20 - 3 7:00,Brett Pfarr,12441,Minnesota,Collin Sohn,20769,North Dakota State
+2015,11/08,Bison Open,184,L,SV-1,10 - 6,Dalton Lunde,20041,Minnesota,Collin Sohn,20769,North Dakota State
+2015,11/02,Daktronics Open,174,L,DEC,4 - 2,Aaron Schuette,21077,Augustana,Collin Sohn,20769,North Dakota State
+2015,11/02,Daktronics Open,174,L,DEC,6 - 2,Colin Carr,20032,Minnesota,Collin Sohn,20769,North Dakota State
+2015,03/07,WWC Championships,197,L,DEC,3 - 2,Jack Carda,13016,Air Force,Thomas Petersen,21090,North Dakota State
+2015,03/07,WWC Championships,197,L,DEC,9 - 2,Trent Noon,12471,Northern Colorado,Thomas Petersen,21090,North Dakota State
+2015,03/07,WWC Championships,197,W,DEC,5 - 3,Nate Rotert,12968,South Dakota State,Thomas Petersen,21090,North Dakota State
+2015,02/22,North Dakota State University - South Dakota State Dual,197,L,DEC,8 - 2,Nate Rotert,12968,South Dakota State,Thomas Petersen,21090,North Dakota State
+2015,02/15,Minnesota - North Dakota State University Dual,197,L,MD,12 - 3,Scott Schiller,12736,Minnesota,Thomas Petersen,21090,North Dakota State
+2015,02/07,Utah Valley University - North Dakota State University Dual,197,L,DEC,3 - 1,Derek Thomas,13020,Utah Valley,Thomas Petersen,21090,North Dakota State
+2015,02/01,North Dakota State University - Wyoming Dual,197,L,MD,12 - 1,Shane Woods,13015,Wyoming,Thomas Petersen,21090,North Dakota State
+2015,01/30,North Dakota State - Air Force Dual,197,L,SV-1,6 - 4,Jack Carda,13016,Air Force,Thomas Petersen,21090,North Dakota State
+2015,01/23,Cal Poly - North Dakota State Dual,197,W,DEC,14 - 12,JT Goodwin,19740,Cal Poly,Thomas Petersen,21090,North Dakota State
+2015,01/18,Boise State - North Dakota State Dual,197,L,DEC,9 - 4,Cody Dixon,19687,Boise State,Thomas Petersen,21090,North Dakota State
+2015,01/16,Northern Colorado - North Dakota State University Dual,197,L,DEC,9 - 2,Trent Noon,12471,Northern Colorado,Thomas Petersen,21090,North Dakota State
+2015,12/29,Midlands Championships,197,L,DEC,5 - 3,Jeff Koepke,12676,Illinois,Thomas Petersen,21090,North Dakota State
+2015,12/29,Midlands Championships,197,W,DEC,8 - 6,Joe Rau,24309,Southwest Minnesota State,Thomas Petersen,21090,North Dakota State
+2015,12/29,Midlands Championships,197,L,DEC,5 - 2,Kris Klapprodt,14496,Iowa,Thomas Petersen,21090,North Dakota State
+2015,12/14,South Dakota State - North Dakota State University Dual,197,L,DEC,8 - 5,Nate Rotert,12968,South Dakota State,Thomas Petersen,21090,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,197,L,DEC,10 - 4,Jake A Smith,23323,West Virginia,Thomas Petersen,21090,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,197,W,DEC,9 - 5,Tyler Lyster,13064,Bucknell,Thomas Petersen,21090,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,197,W,DEC,11 - 6,Jack Carda,13016,Air Force,Thomas Petersen,21090,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,197,L,MD,8 - 0,Jace Bennett,13106,Cornell,Thomas Petersen,21090,North Dakota State
+2015,11/08,Bison Open,197,W,MD,12 - 4,John Devito,12351,Unattached,Thomas Petersen,21090,North Dakota State
+2015,11/08,Bison Open,197,W,DEC,3 - 2,Joe Gomez,43186,Unattached,Thomas Petersen,21090,North Dakota State
+2015,11/08,Bison Open,197,L,DEC,11 - 9,Delson Saintal,23490,Concordia,Thomas Petersen,21090,North Dakota State
+2015,11/08,Bison Open,197,W,DEC,14 - 7,Nate Rose,20048,Minnesota,Thomas Petersen,21090,North Dakota State
+2015,11/02,Daktronics Open,197,L,DEC,7 - 3,Josh DaSilveira,13017,Arizona State,Thomas Petersen,21090,North Dakota State
+2015,11/02,Daktronics Open,197,W,FALL,6:59,Jayd Docken,21092,Augustana,Thomas Petersen,21090,North Dakota State
+2015,11/02,Daktronics Open,197,W,DEC,7 - 4,Kolton Kersten,21091,Midland,Thomas Petersen,21090,North Dakota State
+2015,11/02,Daktronics Open,197,L,DEC,11 - 4,Wesley Moore,12542,Arizona State,Thomas Petersen,21090,North Dakota State
+2015,11/02,Daktronics Open,197,L,MFOR,0 - 0,John Devito,12351,Unattached,Tyler Lehmann,16407,North Dakota State
+2015,11/02,Daktronics Open,197,L,FALL,5:31,Wesley Moore,12542,Arizona State,Tyler Lehmann,16407,North Dakota State
+2015,11/02,Daktronics Open,197,W,FALL,0:29,Kolton Kersten,21091,Midland,Tyler Lehmann,16407,North Dakota State
+2015,11/30,Wisconsin - North Dakota State University Dual,197,L,DEC,6 - 3,Timmy McCall,13109,Wisconsin,Tommy Petersen,12939,North Dakota State
+2015,03/19,NCAA Championships,285,W,DEC,4 - 0,Jacob Henderson,13099,Old Dominion,Evan Knutson,14327,North Dakota State
+2015,03/19,NCAA Championships,285,W,DEC,6 - 2,Jake Kettler,14191,George Mason,Evan Knutson,14327,North Dakota State
+2015,03/19,NCAA Championships,285,L,MD,14 - 1,Nick Gwiazdowski,14221,NC State,Evan Knutson,14327,North Dakota State
+2015,03/19,NCAA Championships,285,L,DEC,6 - 1,Michael Kroells,14331,Minnesota,Evan Knutson,14327,North Dakota State
+2015,03/07,WWC Championships,285,L,MFOR,0 - 0,Tanner Harms,14340,Wyoming,Evan Knutson,14327,North Dakota State
+2015,03/07,WWC Championships,285,L,DEC,5 - 3,JJ Everard,14324,South Dakota State,Evan Knutson,14327,North Dakota State
+2015,03/07,WWC Championships,285,W,DEC,4 - 2,Brian Macchione,13045,Northern Colorado,Evan Knutson,14327,North Dakota State
+2015,02/22,North Dakota State University - South Dakota State Dual,285,W,DEC,5 - 0,JJ Everard,14324,South Dakota State,Evan Knutson,14327,North Dakota State
+2015,02/15,Minnesota - North Dakota State University Dual,285,W,DEC,4 - 3,Michael Kroells,14331,Minnesota,Evan Knutson,14327,North Dakota State
+2015,02/07,Utah Valley University - North Dakota State University Dual,285,W,FALL,6:45,Jordan Karst,17060,Utah Valley,Evan Knutson,14327,North Dakota State
+2015,02/01,North Dakota State University - Wyoming Dual,285,W,DEC,6 - 4,Tanner Harms,14340,Wyoming,Evan Knutson,14327,North Dakota State
+2015,01/30,North Dakota State - Air Force Dual,285,W,DEC,3 - 1,Marcus Malecek,14376,Air Force,Evan Knutson,14327,North Dakota State
+2015,01/23,Cal Poly - North Dakota State Dual,285,W,DEC,8 - 3,Nicolas Johnson,14060,Cal Poly,Evan Knutson,14327,North Dakota State
+2015,01/18,Boise State - North Dakota State Dual,285,W,DEC,4 - 0,Gabriel Gonzalez,19688,Boise State,Evan Knutson,14327,North Dakota State
+2015,01/16,Northern Colorado - North Dakota State University Dual,285,W,DEC,3 - 1,Brian Macchione,13045,Northern Colorado,Evan Knutson,14327,North Dakota State
+2015,12/29,Midlands Championships,285,L,DEC,1 - 0,Dawson Peck,22445,Maryland,Evan Knutson,14327,North Dakota State
+2015,12/29,Midlands Championships,285,L,DEC,5 - 2,Connor Medbery,14314,Wisconsin,Evan Knutson,14327,North Dakota State
+2015,12/29,Midlands Championships,285,W,DEC,5 - 2,Warren Bosch,17928,Edinboro,Evan Knutson,14327,North Dakota State
+2015,12/29,Midlands Championships,285,L,TB-1,4 - 3,Ty Walz,14246,Virginia Tech,Evan Knutson,14327,North Dakota State
+2015,12/29,Midlands Championships,285,W,FALL,5:25,Sean Twigg,14162,Maryland,Evan Knutson,14327,North Dakota State
+2015,12/29,Midlands Championships,285,W,DEC,2 - 0,Garret Goldman,18200,Indiana,Evan Knutson,14327,North Dakota State
+2015,12/29,Midlands Championships,285,W,SV-1,3 - 1,Jacob Henderson,13099,Old Dominion,Evan Knutson,14327,North Dakota State
+2015,12/14,South Dakota State - North Dakota State University Dual,285,W,FALL,6:49,JJ Everard,14324,South Dakota State,Evan Knutson,14327,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,285,W,DEC,10 - 3,Jordan Karst,17060,Utah Valley,Evan Knutson,14327,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,285,W,DEC,5 - 2,Garrett Ryan,13538,Columbia,Evan Knutson,14327,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,285,W,SV-1,3 - 1,Collin Campbell,14197,Virginia,Evan Knutson,14327,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,285,W,DEC,4 - 1,Blaize Cabell,14147,Northern Iowa,Evan Knutson,14327,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,285,L,DEC,3 - 2,Ty Walz,14246,Virginia Tech,Evan Knutson,14327,North Dakota State
+2015,12/05,Cliff Keen Las Vegas Invitational,285,L,DEC,6 - 3,Michael Kroells,14331,Minnesota,Evan Knutson,14327,North Dakota State
+2015,11/30,Wisconsin - North Dakota State University Dual,285,L,DEC,4 - 0,Connor Medbery,14314,Wisconsin,Evan Knutson,14327,North Dakota State
+2015,11/16,Gardner-Webb - North Dakota State University Dual,285,W,DEC,9 - 3,Justin Kozera,14184,Gardner-Webb,Evan Knutson,14327,North Dakota State
+2015,11/16,North Dakota State @ Virginia Tech,285,L,DEC,3 - 2,Ty Walz,14246,Virginia Tech,Evan Knutson,14327,North Dakota State
+2015,11/15,North Dakota State University - Virginia Dual,285,W,DEC,9 - 2,Collin Campbell,14197,Virginia,Evan Knutson,14327,North Dakota State
+2015,11/02,Daktronics Open,285,W,DEC,6 - 1,JJ Everard,14324,South Dakota State,Evan Knutson,14327,North Dakota State
+2015,11/02,Daktronics Open,285,W,DEC,4 - 2,Michael Lowman,23458,Augustana,Evan Knutson,14327,North Dakota State
+2015,11/02,Daktronics Open,285,W,DEC,5 - 4,Jahsua Marsh,21094,Midland,Evan Knutson,14327,North Dakota State
+2015,11/02,Daktronics Open,285,W,DEC,4 - 1,Mitchell Eull,23470,Minot State,Evan Knutson,14327,North Dakota State
+2015,12/21,Reno Tournament of Champions,285,W,FALL,6:57,Sullivan Cauley,20567,Arizona State,Benjamin Tyanan,40498,North Dakota State
+2015,11/09,Mike Clock Open,285,W,DEC,5 - 3,Mick Dougharity,14446,Oregon State,Benjamin Tyanan,40498,North Dakota State
+2015,11/09,Mike Clock Open,285,W,DEC,6 - 1,Nate Keeve,13113,Oregon State,Benjamin Tyanan,40498,North Dakota State
+2015,01/31,Grand View Open,285,L,DEC,6 - 2,Dalton Presley,24691,Briar Cliff,Adam Freimund,20762,North Dakota State
+2015,01/31,Grand View Open,285,W,MFOR,0 - 0,Kyle Pacheo,24710,Midland,Adam Freimund,20762,North Dakota State
+2015,01/31,Grand View Open,285,W,FALL,4:27,Riley Prescott,24709,Iowa State,Adam Freimund,20762,North Dakota State
+2015,01/31,Grand View Open,285,L,FALL,3:07,Sam Stoll,19955,Iowa,Adam Freimund,20762,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,285,L,FALL,2:23,Mike Hobbs,23236,St Cloud State,Adam Freimund,20762,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,285,W,DEC,3 - 2,Tyler Hoffman,23233,Concordia-Moorhead,Adam Freimund,20762,North Dakota State
+2015,11/22,Finn Grinaker Open,285,L,DEC,5 - 0,Mike Hobbs,23236,St Cloud State,Adam Freimund,20762,North Dakota State
+2015,11/22,Finn Grinaker Open,285,W,DEC,2 - 1,Bryce Kirchner,23235,St Cloud State,Adam Freimund,20762,North Dakota State
+2015,11/22,Finn Grinaker Open,285,W,MD,8 - 0,Brendan Edner,23234,Northland Community & Technical College,Adam Freimund,20762,North Dakota State
+2015,11/08,Bison Open,285,L,DEC,4 - 1,Mitchell Eull,23470,Minot State,Adam Freimund,20762,North Dakota State
+2015,11/08,Bison Open,285,L,FALL,4:04,Justice Davis,23224,Concordia,Adam Freimund,20762,North Dakota State
+2015,11/08,Bison Open,285,W,FALL,5:47,Brendan Edner,23234,Northland Community & Technical College,Adam Freimund,20762,North Dakota State
+2015,11/02,Daktronics Open,285,L,DEC,2 - 0,Mitchell Eull,23470,Minot State,Adam Freimund,20762,North Dakota State
+2015,11/02,Daktronics Open,285,L,DEC,7 - 3,Jahsua Marsh,21094,Midland,Adam Freimund,20762,North Dakota State
+2015,01/31,Grand View Open,285,L,FALL,6:28,Dean Broghammer,21372,Grand View,Jerrad Nieland,17021,North Dakota State
+2015,01/31,Grand View Open,285,W,FALL,0:28,Ryan Paige,24708,Graceland University,Jerrad Nieland,17021,North Dakota State
+2015,01/31,Grand View Open,285,W,FALL,4:22,Aaron Rafalko,21373,Midland,Jerrad Nieland,17021,North Dakota State
+2015,01/31,Grand View Open,285,W,TF4,15 - 0 4:08,Cole Reeves,24707,Lindenwood - Belleville,Jerrad Nieland,17021,North Dakota State
+2015,01/31,Grand View Open,285,L,FALL,2:17,Tyler Swope,14297,Iowa State,Jerrad Nieland,17021,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,285,L,FALL,6:49,Caleb White,23491,St Cloud State,Jerrad Nieland,17021,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,285,W,MFOR,0 - 0,Delson Saintal,23490,Concordia,Jerrad Nieland,17021,North Dakota State
+2015,12/07,MSU Moorhead Dragon Open,285,L,FALL,4:52,Brandon Lontz,19675,Bloomsburg,Jerrad Nieland,17021,North Dakota State
+2015,11/22,Finn Grinaker Open,285,L,DEC,6 - 5,Travis Smith,21704,Maryland,Jerrad Nieland,17021,North Dakota State
+2015,11/22,Finn Grinaker Open,285,L,DEC,10 - 3,Justice Davis,23224,Concordia,Jerrad Nieland,17021,North Dakota State
+2015,11/08,Bison Open,285,L,DEC,4 - 1,Mitchell Eull,23470,Minot State,Jerrad Nieland,17021,North Dakota State
+2015,11/08,Bison Open,285,L,DEC,11 - 6,Tom DeVito,21476,Mary,Jerrad Nieland,17021,North Dakota State
+2015,11/08,Bison Open,285,W,MD,12 - 1,Luke Destiche,20034,Minnesota,Jerrad Nieland,17021,North Dakota State
+2015,11/02,Daktronics Open,285,L,MD,15 - 7,Jahsua Marsh,21094,Midland,Jerrad Nieland,17021,North Dakota State
+2015,11/02,Daktronics Open,285,W,FALL,4:44,Luke Destiche,20034,Minnesota,Jerrad Nieland,17021,North Dakota State
+2015,11/02,Daktronics Open,285,L,MD,10 - 1,Nyle Bartling,17013,Nebraska,Jerrad Nieland,17021,North Dakota State
+2015,11/22,Finn Grinaker Open,285,L,DEC,5 - 2,Tyler Hoffman,23233,Concordia-Moorhead,Daniel Pena,20767,North Dakota State
+2015,11/22,Finn Grinaker Open,285,L,DEC,6 - 2,Tom DeVito,21476,Mary,Daniel Pena,20767,North Dakota State
+2015,11/08,Bison Open,285,L,DEC,5 - 2,Tom DeVito,21476,Mary,Daniel Pena,20767,North Dakota State
+2015,11/08,Bison Open,285,L,DEC,6 - 1,Luke Destiche,20034,Minnesota,Daniel Pena,20767,North Dakota State
+2015,11/02,Daktronics Open,285,L,FALL,1:19,Chace Eskam,13040,Arizona State,Daniel Pena,20767,North Dakota State
+2015,11/02,Daktronics Open,285,W,DEC,5 - 0,Richard Gonzalez,21096,Iowa Central Community College,Daniel Pena,20767,North Dakota State
+2015,11/02,Daktronics Open,285,L,FALL,2:41,JJ Everard,14324,South Dakota State,Daniel Pena,20767,North Dakota State

@@ -1,0 +1,481 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2025,03/20,NCAA Championships,125,L,FALL,6:18,Luke Lilledahl,80223,Penn State,Matt Ramos,57134,Purdue
+2025,03/20,NCAA Championships,125,W,DEC,9 - 2,Sheldon Seymour,62339,Lehigh,Matt Ramos,57134,Purdue
+2025,03/20,NCAA Championships,125,W,DEC,5 - 4,Caleb Smith,58559,Nebraska,Matt Ramos,57134,Purdue
+2025,03/20,NCAA Championships,125,W,DEC,8 - 2,Trever Anderson,76359,Northern Iowa,Matt Ramos,57134,Purdue
+2025,03/20,NCAA Championships,125,L,DEC,5 - 2,Troy Spratley,73119,Oklahoma State,Matt Ramos,57134,Purdue
+2025,03/20,NCAA Championships,125,W,MD,8 - 0,Jacob Moran,63550,Indiana,Matt Ramos,57134,Purdue
+2025,03/20,NCAA Championships,125,W,MD,11 - 3,Richard Castro-Sandoval,69366,CSU Bakersfield,Matt Ramos,57134,Purdue
+2025,03/08,Big Ten Championships,125,W,DEC,8 - 5,Nicolar Rivera,78438,Wisconsin,Matt Ramos,57134,Purdue
+2025,03/08,Big Ten Championships,125,W,MD,9 - 0,Jacob Moran,63550,Indiana,Matt Ramos,57134,Purdue
+2025,03/08,Big Ten Championships,125,W,FALL,7:56,Nicolar Rivera,78438,Wisconsin,Matt Ramos,57134,Purdue
+2025,03/08,Big Ten Championships,125,L,MD,12 - 4,Luke Lilledahl,80223,Penn State,Matt Ramos,57134,Purdue
+2025,02/14,Maryland - Purdue Dual,125,W,TF5,17 - 1 3:29,Tyler Garvin,84590,Maryland,Matt Ramos,57134,Purdue
+2025,02/07,Purdue - Wisconsin Dual,125,W,MD,11 - 2,Nicolar Rivera,78438,Wisconsin,Matt Ramos,57134,Purdue
+2025,02/01,Purdue - Illinois Dual,125,W,TF5,19 - 1 2:32,Caelan Riley,73733,Illinois,Matt Ramos,57134,Purdue
+2025,01/19,Purdue - Ohio State Dual,125,W,DEC,3 - 0,Brendan McCrone,76350,Ohio State,Matt Ramos,57134,Purdue
+2025,01/17,Indiana - Purdue Dual,125,W,MD,11 - 2,Jacob Moran,63550,Indiana,Matt Ramos,57134,Purdue
+2025,01/12,Purdue - Northern Illinois Dual,125,W,DEC,5 - 4,Blake West,73337,Northern Illinois,Matt Ramos,57134,Purdue
+2025,01/10,Northwestern - Purdue Dual,125,W,TF5,20 - 4 5:00,Dedrick Navarro,84344,Northwestern,Matt Ramos,57134,Purdue
+2025,01/03,Purdue - Kent State Dual,125,W,MD,16 - 4,Nico Calello,73713,Kent State,Matt Ramos,57134,Purdue
+2025,12/18,Purdue - Cleveland State Dual,125,W,TF5,17 - 1 6:12,Benjamin Aranda,71804,Cleveland State,Matt Ramos,57134,Purdue
+2025,12/06,Cliff Keen Invitational,125,W,TF5,19 - 1 4:00,John Braman,92867,Wyoming,Matt Ramos,57134,Purdue
+2025,12/06,Cliff Keen Invitational,125,W,CMFF,0 - 0,Vincent Robinson,78062,NC State,Matt Ramos,57134,Purdue
+2025,12/06,Cliff Keen Invitational,125,W,DEC,5 - 2,Troy Spratley,73119,Oklahoma State,Matt Ramos,57134,Purdue
+2025,12/06,Cliff Keen Invitational,125,W,DEC,7 - 4,Eddie Ventresca,62357,Virginia Tech,Matt Ramos,57134,Purdue
+2025,12/06,Cliff Keen Invitational,125,W,TF5,17 - 2 3:22,Noah Luna,79081,Appalachian State,Matt Ramos,57134,Purdue
+2025,11/23,Purdue - Chattanooga Dual,125,W,TF5,19 - 4 3:33,Ty Tice,84391,Chattanooga,Matt Ramos,57134,Purdue
+2025,11/23,Purdue - Princeton Dual,125,W,MD,16 - 3,Ethan Rivera,84435,Princeton,Matt Ramos,57134,Purdue
+2025,11/17,Purdue - Buffalo Dual,125,W,TF5,18 - 1 3:00,Max Elton,79785,Buffalo,Matt Ramos,57134,Purdue
+2025,11/17,Purdue - Army West Point Dual,125,W,TF5,17 - 2 7:00,Charlie Farmer,71771,Army West Point,Matt Ramos,57134,Purdue
+2025,11/09,Tiger Style Invite,125,W,TF5,16 - 0 2:35,Davian Guanajuato,74863,SIU Edwardsville,Matt Ramos,57134,Purdue
+2025,11/09,Tiger Style Invite,125,W,TF5,17 - 2 3:45,Marcus Williams,84422,Little Rock,Matt Ramos,57134,Purdue
+2025,11/09,Tiger Style Invite,125,W,TF5,19 - 1 5:09,Koda Holeman,73792,Cal Poly,Matt Ramos,57134,Purdue
+2025,11/09,Tiger Style Invite,125,W,TF5,18 - 1 3:58,Mack Mauger,84326,Missouri,Matt Ramos,57134,Purdue
+2025,11/01,Purdue - Gardner-Webb Dual,125,W,FALL,4:51,Tyson Lane,75724,Gardner-Webb,Matt Ramos,57134,Purdue
+2025,02/09,Purdue - Minnesota Dual,125,L,DEC,5 - 2,Cooper Flynn,72148,Minnesota,Isaiah Quintero,81600,Purdue
+2025,01/19,Purple Raider Open,125,W,DEC,4 - 2,Aiden Shufelt,93809,Buffalo,Isaiah Quintero,81600,Purdue
+2025,01/19,Purple Raider Open,125,W,DEC,6 - 3,Colyn Limbert,85116,Pittsburgh,Isaiah Quintero,81600,Purdue
+2025,01/19,Purple Raider Open,125,L,DEC,5 - 2,Blaine Frazier,78575,Indiana,Isaiah Quintero,81600,Purdue
+2025,01/19,Purple Raider Open,125,W,FALL,4:27,Nick Corday,70986,Michigan State,Isaiah Quintero,81600,Purdue
+2025,01/19,Purple Raider Open,125,W,FALL,4:13,Kenny Schmitz,84914,Gannon,Isaiah Quintero,81600,Purdue
+2025,12/29,Midlands Championships,125,L,FALL,5:46,Max Gallagher,78893,Pennsylvania,Isaiah Quintero,81600,Purdue
+2025,12/29,Midlands Championships,125,L,DEC,10 - 5,Blaine Frazier,78575,Indiana,Isaiah Quintero,81600,Purdue
+2025,12/29,Midlands Championships,125,W,DEC,4 - 1,Kaden Chinavare,77647,Central Michigan,Isaiah Quintero,81600,Purdue
+2025,12/29,Midlands Championships,125,W,DEC,14 - 7,Talan Parsons,93524,Northern Illinois,Isaiah Quintero,81600,Purdue
+2025,11/09,Tiger Style Invite,125,W,DEC,10 - 3,Reid Nelson,72129,Little Rock,Isaiah Quintero,81600,Purdue
+2025,11/09,Tiger Style Invite,125,L,DEC,2 - 1,Koda Holeman,73792,Cal Poly,Isaiah Quintero,81600,Purdue
+2025,11/09,Tiger Style Invite,125,L,DEC,2 - 1,Gage Walker,84476,Missouri,Isaiah Quintero,81600,Purdue
+2025,11/09,Tiger Style Invite,125,W,DEC,7 - 2,Mack Mauger,84326,Missouri,Isaiah Quintero,81600,Purdue
+2025,11/09,Tiger Style Invite,125,W,FALL,1:47,Luqman Masud,76147,Missouri,Isaiah Quintero,81600,Purdue
+2025,02/23,Nebraska - Purdue Dual,125,L,TF5,21 - 5 6:22,Caleb Smith,58559,Nebraska,Ashton Jackson,81722,Purdue
+2025,02/09,Greyhound Open,125,W,FALL,1:55,George Wilmer,85935,Cornerstone,Ashton Jackson,81722,Purdue
+2025,02/09,Greyhound Open,125,W,DEC,6 - 0,Brayden Littell,62516,Unattached,Ashton Jackson,81722,Purdue
+2025,02/09,Greyhound Open,125,W,MD,12 - 0,Deion Johnson,84782,SIU Edwardsville,Ashton Jackson,81722,Purdue
+2025,02/09,Greyhound Open,125,W,MD,12 - 0,Davian Guanajuato,74863,SIU Edwardsville,Ashton Jackson,81722,Purdue
+2025,02/09,Greyhound Open,125,W,FALL,4:18,Simon Dominguez,97217,Grand Valley State University,Ashton Jackson,81722,Purdue
+2025,01/19,Purple Raider Open,125,W,DEC,5 - 0,Colyn Limbert,85116,Pittsburgh,Ashton Jackson,81722,Purdue
+2025,01/19,Purple Raider Open,125,W,DEC,5 - 0,JB Dragovich,78828,George Mason,Ashton Jackson,81722,Purdue
+2025,01/19,Purple Raider Open,125,W,TF5,16 - 0 7:00,Matthew Dolan,78805,West Virginia,Ashton Jackson,81722,Purdue
+2025,01/19,Purple Raider Open,125,W,FALL,1:23,Caleb Edwards,72216,Edinboro,Ashton Jackson,81722,Purdue
+2025,01/19,Purple Raider Open,125,L,DEC,10 - 7,Nick Babin,65929,Pittsburgh,Ashton Jackson,81722,Purdue
+2025,01/19,Purple Raider Open,125,W,TF5,15 - 0 7:00,Brent Bosley,92847,Wheeling,Ashton Jackson,81722,Purdue
+2025,12/29,Midlands Championships,125,L,DEC,3 - 2,Colyn Limbert,85116,Pittsburgh,Ashton Jackson,81722,Purdue
+2025,12/29,Midlands Championships,125,L,TF5,19 - 3 7:00,Jacob Moran,63550,Indiana,Ashton Jackson,81722,Purdue
+2025,12/29,Midlands Championships,125,W,MD,8 - 0,Caelan Riley,73733,Illinois,Ashton Jackson,81722,Purdue
+2025,12/20,Kent State Open,125,W,FALL,4:01,Jacob Sombronski,97667,Seton Hill,Ashton Jackson,81722,Purdue
+2025,12/20,Kent State Open,125,W,DEC,4 - 0,Talan Parsons,93524,Northern Illinois,Ashton Jackson,81722,Purdue
+2025,12/20,Kent State Open,125,W,DEC,2 - 0,Tyler Chappell,79287,Pittsburgh,Ashton Jackson,81722,Purdue
+2025,12/20,Kent State Open,125,L,DEC,3 - 1,Nico Calello,73713,Kent State,Ashton Jackson,81722,Purdue
+2025,12/07,Cleveland State Open,125,W,FALL,4:11,Leroy Steagall,99778,Wheeling,Ashton Jackson,81722,Purdue
+2025,12/07,Cleveland State Open,125,W,DEC,3 - 0,Robert Wright,81230,Air Force,Ashton Jackson,81722,Purdue
+2025,12/07,Cleveland State Open,125,L,SV-1,4 - 1,Matt Marlow,85117,Pittsburgh,Ashton Jackson,81722,Purdue
+2025,12/07,Cleveland State Open,125,W,DEC,6 - 4,Tyler Chappell,79287,Pittsburgh,Ashton Jackson,81722,Purdue
+2025,11/09,Michigan State Open,125,W,DEC,3 - 1,Ryan Meek,79652,Ohio,Ashton Jackson,81722,Purdue
+2025,11/09,Michigan State Open,125,L,TF5,21 - 4 7:00,Dedrick Navarro,84344,Northwestern,Ashton Jackson,81722,Purdue
+2025,11/09,Michigan State Open,125,W,DEC,4 - 0,Talan Parsons,93524,Northern Illinois,Ashton Jackson,81722,Purdue
+2025,11/09,Michigan State Open,125,L,FALL,4:41,Caleb Weiand,79429,Michigan State,Ashton Jackson,81722,Purdue
+2025,11/09,Michigan State Open,125,W,DEC,12 - 6,Nico Calello,73713,Kent State,Ashton Jackson,81722,Purdue
+2025,11/09,Michigan State Open,125,W,DEC,6 - 3,Landon Bainey,85070,Edinboro,Ashton Jackson,81722,Purdue
+2025,03/09,Big Ten Championships 9th place,133,L,MD,20 - 12,Nolan Wertanen,78523,Michigan,Dustin Norris,72154,Purdue
+2025,03/08,Big Ten Championships,133,L,TF5,17 - 2 2:03,Braeden Davis,77952,Penn State,Dustin Norris,72154,Purdue
+2025,03/08,Big Ten Championships,133,L,MD,12 - 4,Jacob Van Dee,73557,Nebraska,Dustin Norris,72154,Purdue
+2025,03/08,Big Ten Championships,133,W,DEC,8 - 1,Nolan Wertanen,78523,Michigan,Dustin Norris,72154,Purdue
+2025,02/23,Nebraska - Purdue Dual,133,L,MD,11 - 1,Jacob Van Dee,73557,Nebraska,Dustin Norris,72154,Purdue
+2025,02/14,Maryland - Purdue Dual,133,L,DEC,7 - 2,Braxton Brown,72103,Maryland,Dustin Norris,72154,Purdue
+2025,02/09,Purdue - Minnesota Dual,133,W,DEC,14 - 7,Brandon Morvari,81742,Minnesota,Dustin Norris,72154,Purdue
+2025,02/07,Purdue - Wisconsin Dual,133,L,DEC,6 - 5,Zan Fugitt,78091,Wisconsin,Dustin Norris,72154,Purdue
+2025,01/19,Purdue - Ohio State Dual,133,L,MD,15 - 3,Nic Bouzakis,73468,Ohio State,Dustin Norris,72154,Purdue
+2025,01/17,Indiana - Purdue Dual,133,L,TF5,20 - 5 7:00,Angelo Rini,56766,Indiana,Dustin Norris,72154,Purdue
+2025,01/12,Purdue - Northern Illinois Dual,133,W,DEC,9 - 5,Markel Baker,78892,Northern Illinois,Dustin Norris,72154,Purdue
+2025,01/10,Northwestern - Purdue Dual,133,W,DEC,13 - 7,Massey Odiotti,84345,Northwestern,Dustin Norris,72154,Purdue
+2025,01/03,Purdue - Kent State Dual,133,W,TF5,15 - 0 4:26,Adan Benavidez,84848,Kent State,Dustin Norris,72154,Purdue
+2025,12/18,Purdue - Cleveland State Dual,133,W,MD,11 - 0,Jacob Manley,67785,Cleveland State,Dustin Norris,72154,Purdue
+2025,11/23,Purdue - Chattanooga Dual,133,W,DEC,10 - 6,Bryce Luna,85039,Chattanooga,Dustin Norris,72154,Purdue
+2025,11/23,Purdue - Princeton Dual,133,L,DEC,3 - 2,Danny Jones,80085,Princeton,Dustin Norris,72154,Purdue
+2025,11/17,Purdue - Buffalo Dual,133,W,TF5,15 - 0 6:34,Troy Guerra,78599,Buffalo,Dustin Norris,72154,Purdue
+2025,11/17,Purdue - Army West Point Dual,133,L,DEC,4 - 2,Ethan Berginc,71779,Army West Point,Dustin Norris,72154,Purdue
+2025,11/09,Tiger Style Invite,133,W,MFOR,0 - 0,Jacob Macatangay,79062,Purdue,Dustin Norris,72154,Purdue
+2025,11/09,Tiger Style Invite,133,L,MD,10 - 2,Marcel Lopez,78290,SIU Edwardsville,Dustin Norris,72154,Purdue
+2025,11/09,Tiger Style Invite,133,L,DEC,4 - 2,Braxton Brown,72103,Maryland,Dustin Norris,72154,Purdue
+2025,11/01,Purdue - Gardner-Webb Dual,133,L,MD,14 - 4,TK Davis,84306,Gardner-Webb,Dustin Norris,72154,Purdue
+2025,02/01,Purdue - Illinois Dual,133,L,TF5,25 - 8 6:17,Lucas Byrd,56714,Illinois,Jacob Macatangay,79062,Purdue
+2025,01/19,Purple Raider Open,133,W,TF5,17 - 0 7:00,Logan Alexander,92569,West Virginia,Jacob Macatangay,79062,Purdue
+2025,01/19,Purple Raider Open,133,L,DEC,7 - 2,Dyson Dunham,73559,VMI,Jacob Macatangay,79062,Purdue
+2025,01/19,Purple Raider Open,133,W,TF5,16 - 1 7:00,Amarfio Reynolds,84917,Gannon,Jacob Macatangay,79062,Purdue
+2025,01/19,Purple Raider Open,133,W,TF5,20 - 5 7:00,Xavier Rodela,98438,West Liberty University,Jacob Macatangay,79062,Purdue
+2025,12/29,Midlands Championships,133,L,FALL,5:36,Massey Odiotti,84345,Northwestern,Jacob Macatangay,79062,Purdue
+2025,12/29,Midlands Championships,133,W,DEC,5 - 3,Nico Nardone,71688,Pennsylvania,Jacob Macatangay,79062,Purdue
+2025,12/29,Midlands Championships,133,L,TF5,21 - 6 7:00,Markel Baker,78892,Northern Illinois,Jacob Macatangay,79062,Purdue
+2025,12/20,Kent State Open,133,W,FALL,1:14,Peyton Costa,93253,Cleveland State,Jacob Macatangay,79062,Purdue
+2025,12/20,Kent State Open,133,W,TF5,15 - 0 5:24,Aiden Allen,92968,Virginia,Jacob Macatangay,79062,Purdue
+2025,12/20,Kent State Open,133,W,MD,15 - 1,Cooper Rider,79773,Purdue,Jacob Macatangay,79062,Purdue
+2025,12/20,Kent State Open,133,W,DEC,12 - 5,Timothy Levine,66415,Penn State,Jacob Macatangay,79062,Purdue
+2025,12/20,Kent State Open,133,L,MD,9 - 0,Sean Spidle,63063,Central Michigan,Jacob Macatangay,79062,Purdue
+2025,12/20,Kent State Open,133,W,TF5,17 - 2 5:50,Vince Perez,60001,Central Michigan,Jacob Macatangay,79062,Purdue
+2025,12/06,Cliff Keen Invitational,133,L,DEC,8 - 4,Stockton O'Brien,67451,Wyoming,Jacob Macatangay,79062,Purdue
+2025,12/06,Cliff Keen Invitational,133,L,TF5,21 - 4 4:49,Dylan Ragusin,63153,Michigan,Jacob Macatangay,79062,Purdue
+2025,11/09,Tiger Style Invite,133,L,MFOR,0 - 0,Dustin Norris,72154,Purdue,Jacob Macatangay,79062,Purdue
+2025,11/09,Tiger Style Invite,133,L,DEC,13 - 8,Jake Crapps,84932,Missouri,Jacob Macatangay,79062,Purdue
+2025,11/09,Tiger Style Invite,133,L,DEC,6 - 1,Kade Moore,73859,Missouri,Jacob Macatangay,79062,Purdue
+2025,02/09,Greyhound Open,133,L,DEC,18 - 11,Bryce Shingleton,84448,Michigan State,Cooper Rider,79773,Purdue
+2025,02/09,Greyhound Open,133,W,CMFF,0 - 0,Shay Korhorn,79324,Bellarmine,Cooper Rider,79773,Purdue
+2025,02/09,Greyhound Open,133,W,MFOR,0 - 0,DJ Smith,78320,Unattached,Cooper Rider,79773,Purdue
+2025,02/09,Greyhound Open,133,W,CMFF,0 - 0,Cody Phelps,77956,Michigan State,Cooper Rider,79773,Purdue
+2025,02/09,Greyhound Open,133,L,MD,11 - 0,Gio Diaz,67279,Glenville State University,Cooper Rider,79773,Purdue
+2025,02/09,Greyhound Open,133,W,DEC,8 - 6,Logan Klinge,80757,Grand Valley State University,Cooper Rider,79773,Purdue
+2025,02/09,Greyhound Open,133,W,DEC,6 - 2,Caleb Scott,93503,McKendree University,Cooper Rider,79773,Purdue
+2025,01/19,Purple Raider Open,133,L,FALL,5:49,Jonathan Baiano,100492,Seton Hill,Cooper Rider,79773,Purdue
+2025,01/19,Purple Raider Open,133,L,DEC,12 - 5,Parker Sentipal,93051,Edinboro,Cooper Rider,79773,Purdue
+2025,12/20,Kent State Open,133,L,MD,15 - 1,Jacob Macatangay,79062,Purdue,Cooper Rider,79773,Purdue
+2025,12/20,Kent State Open,133,L,MD,12 - 1,Joseph Fischer,68702,Clarion,Cooper Rider,79773,Purdue
+2025,12/07,Cleveland State Open,133,L,FALL,3:57,Gavin Caprella,83285,Air Force,Cooper Rider,79773,Purdue
+2025,12/07,Cleveland State Open,133,L,TF5,17 - 1 5:28,Joseph Fischer,68702,Clarion,Cooper Rider,79773,Purdue
+2025,11/09,Michigan State Open,133,L,DEC,4 - 1,Teddy Flores,92938,Michigan,Cooper Rider,79773,Purdue
+2025,11/09,Michigan State Open,133,L,DEC,7 - 2,Cameron Chinavare,92981,Central Michigan,Cooper Rider,79773,Purdue
+2025,11/09,Michigan State Open,133,W,FALL,0:39,Wyatt Dusseau-Garno,97218,Grand Valley State University,Cooper Rider,79773,Purdue
+2025,11/09,Michigan State Open,133,W,TF5,19 - 4 7:00,Jacob Harris,97211,Davenport,Cooper Rider,79773,Purdue
+2025,03/20,NCAA Championships,141,L,DEC,8 - 5,Dylan Chappell,71754,Bucknell,Greyson Clark,79389,Purdue
+2025,03/20,NCAA Championships,141,W,MD,13 - 3,Jordan Soriano,73711,Drexel,Greyson Clark,79389,Purdue
+2025,03/20,NCAA Championships,141,L,DEC,2 - 0,Vance Vombaur,68715,Minnesota,Greyson Clark,79389,Purdue
+2025,03/08,Big Ten Championships,141,W,DEC,7 - 1,Henry Porter,71920,Indiana,Greyson Clark,79389,Purdue
+2025,03/08,Big Ten Championships,141,L,MD,13 - 3,Beau Bartlett,62221,Penn State,Greyson Clark,79389,Purdue
+2025,03/08,Big Ten Championships,141,W,DEC,11 - 5,Chris Cannon,62895,Northwestern,Greyson Clark,79389,Purdue
+2025,03/08,Big Ten Championships,141,L,MD,12 - 2,Sergio Lemley,78641,Michigan,Greyson Clark,79389,Purdue
+2025,03/08,Big Ten Championships,141,W,TF5,16 - 1 6:05,Henry Porter,71920,Indiana,Greyson Clark,79389,Purdue
+2025,02/23,Nebraska - Purdue Dual,141,L,MD,15 - 4,Brock Hardy,51242,Nebraska,Greyson Clark,79389,Purdue
+2025,02/14,Maryland - Purdue Dual,141,W,DEC,9 - 4,Dario Lemus,78721,Maryland,Greyson Clark,79389,Purdue
+2025,02/07,Purdue - Wisconsin Dual,141,W,DEC,7 - 2,Brock Bobzien,71941,Wisconsin,Greyson Clark,79389,Purdue
+2025,01/19,Purdue - Ohio State Dual,141,L,MD,13 - 2,Jesse Mendez,74054,Ohio State,Greyson Clark,79389,Purdue
+2025,01/17,Indiana - Purdue Dual,141,L,DEC,6 - 3,Henry Porter,71920,Indiana,Greyson Clark,79389,Purdue
+2025,01/10,Northwestern - Purdue Dual,141,W,DEC,13 - 9,Chris Cannon,62895,Northwestern,Greyson Clark,79389,Purdue
+2025,01/03,Purdue - Kent State Dual,141,W,MD,11 - 2,Jordan Decatur,56727,Kent State,Greyson Clark,79389,Purdue
+2025,12/18,Purdue - Cleveland State Dual,141,W,TF5,18 - 3 3:45,Ethan Mitchell,82328,Cleveland State,Greyson Clark,79389,Purdue
+2025,12/06,Cliff Keen Invitational,141,W,TF5,16 - 0 6:37,Alek VanBebber,93038,Cal Poly,Greyson Clark,79389,Purdue
+2025,12/06,Cliff Keen Invitational,141,L,DEC,9 - 2,Joshua Koderhandt,70917,Navy,Greyson Clark,79389,Purdue
+2025,12/06,Cliff Keen Invitational,141,L,DEC,7 - 3,Cael Happel,62345,Northern Iowa,Greyson Clark,79389,Purdue
+2025,12/06,Cliff Keen Invitational,141,W,SV-1,5 - 2,Justin Hoyle,54220,Hofstra,Greyson Clark,79389,Purdue
+2025,11/23,Purdue - Chattanooga Dual,141,L,DEC,10 - 7,Eli Knight,73351,Chattanooga,Greyson Clark,79389,Purdue
+2025,11/23,Purdue - Princeton Dual,141,W,DEC,7 - 3,Eligh Rivera,77389,Princeton,Greyson Clark,79389,Purdue
+2025,11/17,Purdue - Buffalo Dual,141,W,TF5,18 - 3 6:30,Aaron Lanster,84537,Buffalo,Greyson Clark,79389,Purdue
+2025,11/17,Purdue - Army West Point Dual,141,L,DEC,10 - 8,Braden Basile,73707,Army West Point,Greyson Clark,79389,Purdue
+2025,11/09,Tiger Style Invite,141,W,FALL,1:51,Korbin Shepherd,72550,Cal Poly,Greyson Clark,79389,Purdue
+2025,11/09,Tiger Style Invite,141,W,DEC,7 - 3,Easton Hilton,73655,Missouri,Greyson Clark,79389,Purdue
+2025,11/09,Tiger Style Invite,141,L,SV-1,7 - 4,Josh Edmond,62704,Missouri,Greyson Clark,79389,Purdue
+2025,11/01,Purdue - Gardner-Webb Dual,141,L,DEC,8 - 7,Todd Carter,69785,Gardner-Webb,Greyson Clark,79389,Purdue
+2025,02/01,Purdue - Illinois Dual,141,L,TF5,20 - 4 6:18,Danny Pucino,66101,Illinois,Christian White,72619,Purdue
+2025,11/09,Tiger Style Invite,141,W,DEC,8 - 3,Michael Pizzuto,79485,Maryland,Christian White,72619,Purdue
+2025,11/09,Tiger Style Invite,141,L,MD,16 - 8,Clayton Gabrielson,79306,Maryland,Christian White,72619,Purdue
+2025,11/09,Tiger Style Invite,141,L,TF5,19 - 3 6:21,Josh Edmond,62704,Missouri,Christian White,72619,Purdue
+2025,02/09,Purdue - Minnesota Dual,141,L,TF5,22 - 6 6:12,Vance Vombaur,68715,Minnesota,Cole Solomey,81723,Purdue
+2025,01/12,Purdue - Northern Illinois Dual,141,L,DEC,6 - 1,Jacob Brya,73037,Northern Illinois,Cole Solomey,81723,Purdue
+2025,12/29,Midlands Championships,141,L,DEC,2 - 1,Kellan Aure,81789,Central Michigan,Cole Solomey,81723,Purdue
+2025,12/29,Midlands Championships,141,L,TF5,17 - 1 7:00,CJ Composto,62430,Pennsylvania,Cole Solomey,81723,Purdue
+2025,12/07,Cleveland State Open,141,L,DEC,11 - 6,Brogan Fielding,92840,Unattached,Cole Solomey,81723,Purdue
+2025,12/07,Cleveland State Open,141,W,FALL,1:27,Landen Duncan,84294,Cleveland State,Cole Solomey,81723,Purdue
+2025,12/07,Cleveland State Open,141,W,MD,11 - 0,Evan Herriman,81743,Michigan State,Cole Solomey,81723,Purdue
+2025,12/07,Cleveland State Open,141,L,MD,13 - 3,Andre Gonzales,72135,Ohio State,Cole Solomey,81723,Purdue
+2025,11/09,Michigan State Open,141,W,DEC,9 - 3,Simon Kruse,84672,Wisconsin,Cole Solomey,81723,Purdue
+2025,11/09,Michigan State Open,141,L,MD,10 - 2,Anthony Ferraro,79993,Edinboro,Cole Solomey,81723,Purdue
+2025,11/09,Michigan State Open,141,L,DEC,2 - 0,Anthony Ferraro,79993,Edinboro,Cole Solomey,81723,Purdue
+2025,11/09,Michigan State Open,141,L,DEC,4 - 2,Nick Blackburn,93815,Central Michigan,Cole Solomey,81723,Purdue
+2025,11/09,Michigan State Open,141,W,DEC,7 - 3,Colin Kacena,93814,Central Michigan,Cole Solomey,81723,Purdue
+2025,11/09,Michigan State Open,141,W,DEC,4 - 1,Colin Kacena,93814,Central Michigan,Cole Solomey,81723,Purdue
+2025,03/09,Big Ten Championships 9th place,149,W,FALL,5:22,Royce Nilo,84502,Wisconsin,Isaac Ruble,78710,Purdue
+2025,03/09,Big Ten Championships 9th place,149,L,TF5,19 - 4 3:58,Drew Roberts,72140,Minnesota,Isaac Ruble,78710,Purdue
+2025,03/08,Big Ten Championships,149,W,DEC,6 - 1,Royce Nilo,84502,Wisconsin,Isaac Ruble,78710,Purdue
+2025,03/08,Big Ten Championships,149,L,MD,13 - 2,Andrew Clark,66883,Rutgers,Isaac Ruble,78710,Purdue
+2025,03/08,Big Ten Championships,149,L,DEC,5 - 1,Dylan D'Emilio,56726,Ohio State,Isaac Ruble,78710,Purdue
+2025,02/23,Nebraska - Purdue Dual,149,L,TF5,21 - 5 2:57,Ridge Lovett,57520,Nebraska,Isaac Ruble,78710,Purdue
+2025,02/14,Maryland - Purdue Dual,149,L,DEC,3 - 0,Kal Miller,72211,Maryland,Isaac Ruble,78710,Purdue
+2025,02/09,Purdue - Minnesota Dual,149,L,MD,13 - 3,Drew Roberts,72140,Minnesota,Isaac Ruble,78710,Purdue
+2025,02/07,Purdue - Wisconsin Dual,149,W,MD,11 - 2,Royce Nilo,84502,Wisconsin,Isaac Ruble,78710,Purdue
+2025,02/01,Purdue - Illinois Dual,149,L,TF5,19 - 4 5:23,Kannon Webster,80230,Illinois,Isaac Ruble,78710,Purdue
+2025,01/19,Purdue - Ohio State Dual,149,L,FALL,4:51,Dylan D'Emilio,56726,Ohio State,Isaac Ruble,78710,Purdue
+2025,01/17,Indiana - Purdue Dual,149,W,DEC,12 - 5,Aiden Torres,84316,Indiana,Isaac Ruble,78710,Purdue
+2025,01/12,Purdue - Northern Illinois Dual,149,W,MD,14 - 3,Tommy Curran,77778,Northern Illinois,Isaac Ruble,78710,Purdue
+2025,01/10,Northwestern - Purdue Dual,149,L,MD,14 - 0,Sam Cartella,77873,Northwestern,Isaac Ruble,78710,Purdue
+2025,01/03,Purdue - Kent State Dual,149,L,DEC,9 - 5,Billy Meiszner,75815,Kent State,Isaac Ruble,78710,Purdue
+2025,12/18,Purdue - Cleveland State Dual,149,W,FALL,4:46,Connor Saylor,81719,Cleveland State,Isaac Ruble,78710,Purdue
+2025,12/06,Cliff Keen Invitational,149,L,TF5,20 - 3 4:28,Tanner Frothinger,79474,Utah Valley,Isaac Ruble,78710,Purdue
+2025,12/06,Cliff Keen Invitational,149,W,SV-1,9 - 6,Colin Dupill,78996,South Dakota State,Isaac Ruble,78710,Purdue
+2025,12/06,Cliff Keen Invitational,149,L,FALL,5:24,Cam Catrabone,73767,Michigan,Isaac Ruble,78710,Purdue
+2025,11/23,Purdue - Chattanooga Dual,149,W,DEC,3 - 0,Dayne Dalrymple,71790,Chattanooga,Isaac Ruble,78710,Purdue
+2025,11/23,Purdue - Princeton Dual,149,L,DEC,8 - 1,Ty Whalen,72988,Princeton,Isaac Ruble,78710,Purdue
+2025,11/17,Purdue - Buffalo Dual,149,W,MD,13 - 0,Sam Ewing,78842,Buffalo,Isaac Ruble,78710,Purdue
+2025,11/17,Purdue - Army West Point Dual,149,L,FALL,6:06,Trae McDaniel,71768,Army West Point,Isaac Ruble,78710,Purdue
+2025,11/01,Purdue - Gardner-Webb Dual,149,W,DEC,7 - 6,Joseph Giordano,84939,Gardner-Webb,Isaac Ruble,78710,Purdue
+2025,02/09,Purdue - Minnesota Dual,157,L,TF5,21 - 2 4:56,Tommy Askey,67040,Minnesota,Wyatt Krejsa,85123,Purdue
+2025,02/07,Purdue - Wisconsin Dual,157,L,MD,12 - 0,Luke Mechler,71940,Wisconsin,Wyatt Krejsa,85123,Purdue
+2025,01/19,Purple Raider Open,149,W,TF5,19 - 3 7:00,Sammy Agnello,93546,Michigan State,Wyatt Krejsa,85123,Purdue
+2025,01/19,Purple Raider Open,149,W,DEC,8 - 5,Matt Hart,79538,Indiana,Wyatt Krejsa,85123,Purdue
+2025,01/19,Purple Raider Open,149,W,TF5,19 - 1 7:00,Jake Necessary,78923,Ohio,Wyatt Krejsa,85123,Purdue
+2025,01/19,Purple Raider Open,149,L,DEC,5 - 4,Michael Dolan,73378,West Virginia,Wyatt Krejsa,85123,Purdue
+2025,01/19,Purple Raider Open,149,L,DEC,10 - 9,Dylan Layton,72925,Cleveland State,Wyatt Krejsa,85123,Purdue
+2025,12/29,Midlands Championships,149,W,CMFF,0 - 0,Dylan Gilcher,77964,Michigan,Wyatt Krejsa,85123,Purdue
+2025,12/29,Midlands Championships,149,L,TF5,15 - 0 7:00,Sam Cartella,77873,Northwestern,Wyatt Krejsa,85123,Purdue
+2025,12/29,Midlands Championships,149,L,DEC,12 - 5,Mason Shrader,73720,Central Michigan,Wyatt Krejsa,85123,Purdue
+2025,12/29,Midlands Championships,149,L,FALL,6:13,Finn Solomon,73123,Pittsburgh,Wyatt Krejsa,85123,Purdue
+2025,12/29,Midlands Championships,149,W,TF5,19 - 3 7:00,Christopher Martino,72987,Princeton,Wyatt Krejsa,85123,Purdue
+2025,12/29,Midlands Championships,149,W,DEC,6 - 4,Braden Bower,71756,Bucknell,Wyatt Krejsa,85123,Purdue
+2025,12/29,Midlands Championships,149,W,DEC,8 - 2,Sam Hillegas,61125,West Virginia,Wyatt Krejsa,85123,Purdue
+2025,12/20,Kent State Open,149,W,DEC,8 - 1,Daxton Chase,85105,Ohio State,Wyatt Krejsa,85123,Purdue
+2025,12/20,Kent State Open,149,W,DEC,9 - 2,Colin Roberts,73166,Edinboro,Wyatt Krejsa,85123,Purdue
+2025,12/20,Kent State Open,149,W,FALL,1:36,Chandler Ho,71799,Clarion,Wyatt Krejsa,85123,Purdue
+2025,12/20,Kent State Open,149,L,DEC,4 - 1,Kyle Schickel,67305,Clarion,Wyatt Krejsa,85123,Purdue
+2025,12/20,Kent State Open,149,L,MD,12 - 1,Jimmy Nugent,79053,Central Michigan,Wyatt Krejsa,85123,Purdue
+2025,12/29,Midlands Championships,149,L,MD,17 - 5,Cole Rhemrev,77875,Indiana,Jaden Reynolds,72620,Purdue
+2025,12/29,Midlands Championships,149,L,FALL,0:52,Sam Hillegas,61125,West Virginia,Jaden Reynolds,72620,Purdue
+2025,12/07,Cleveland State Open,149,L,DEC,12 - 5,Talan Hubbard,93738,High School,Jaden Reynolds,72620,Purdue
+2025,12/07,Cleveland State Open,149,L,DEC,5 - 0,Jimmy Nugent,79053,Central Michigan,Jaden Reynolds,72620,Purdue
+2025,11/09,Tiger Style Invite,149,W,DEC,6 - 2,Hayden Whidden,78758,SIU Edwardsville,Jaden Reynolds,72620,Purdue
+2025,11/09,Tiger Style Invite,149,W,DEC,5 - 4,Luke Jacobs,73075,Maryland,Jaden Reynolds,72620,Purdue
+2025,11/09,Tiger Style Invite,149,W,MFOR,0 - 0,Carter McCallister,73867,Missouri,Jaden Reynolds,72620,Purdue
+2025,11/09,Tiger Style Invite,149,L,FALL,5:41,Carter McCallister,73867,Missouri,Jaden Reynolds,72620,Purdue
+2025,11/09,Tiger Style Invite,149,L,TF5,21 - 5 5:26,Zeke Seltzer,72572,Missouri,Jaden Reynolds,72620,Purdue
+2025,03/20,NCAA Championships,157,L,DEC,4 - 2,Antrell Taylor,72966,Nebraska,Joey Blaze,73568,Purdue
+2025,03/20,NCAA Championships,157,W,DEC,4 - 2,Trevor Chumbley,57938,Northwestern,Joey Blaze,73568,Purdue
+2025,03/20,NCAA Championships,157,W,DEC,5 - 4,Tyler Kasak,78731,Penn State,Joey Blaze,73568,Purdue
+2025,03/20,NCAA Championships,157,W,TB-1,3 - 2,Tommy Askey,67040,Minnesota,Joey Blaze,73568,Purdue
+2025,03/20,NCAA Championships,157,W,DEC,7 - 0,Sonny Santiago,61113,North Carolina,Joey Blaze,73568,Purdue
+2025,03/08,Big Ten Championships,157,W,TB-1,3 - 2,Antrell Taylor,72966,Nebraska,Joey Blaze,73568,Purdue
+2025,03/08,Big Ten Championships,157,W,SV-1,4 - 1,Tommy Askey,67040,Minnesota,Joey Blaze,73568,Purdue
+2025,03/08,Big Ten Championships,157,W,DEC,5 - 1,Luke Mechler,71940,Wisconsin,Joey Blaze,73568,Purdue
+2025,03/08,Big Ten Championships,157,L,DEC,4 - 3,Antrell Taylor,72966,Nebraska,Joey Blaze,73568,Purdue
+2025,03/08,Big Ten Championships,157,W,DEC,5 - 1,Chase Saldate,61118,Michigan,Joey Blaze,73568,Purdue
+2025,03/08,Big Ten Championships,157,W,MD,13 - 0,Jason Kraisser,57287,Illinois,Joey Blaze,73568,Purdue
+2025,02/23,Nebraska - Purdue Dual,157,L,DEC,4 - 1,Antrell Taylor,72966,Nebraska,Joey Blaze,73568,Purdue
+2025,02/14,Maryland - Purdue Dual,157,W,TF5,21 - 6 4:25,Kevin Schork,72105,Maryland,Joey Blaze,73568,Purdue
+2025,02/01,Purdue - Illinois Dual,157,W,DEC,8 - 1,Jason Kraisser,57287,Illinois,Joey Blaze,73568,Purdue
+2025,01/19,Purdue - Ohio State Dual,157,W,DEC,5 - 1,Sammy Sasso,51143,Ohio State,Joey Blaze,73568,Purdue
+2025,01/17,Indiana - Purdue Dual,157,W,MD,11 - 2,Ryan Garvick,85076,Indiana,Joey Blaze,73568,Purdue
+2025,01/10,Northwestern - Purdue Dual,157,W,MD,11 - 3,Jacob Bostelman,82466,Northwestern,Joey Blaze,73568,Purdue
+2025,12/06,Cliff Keen Invitational,157,L,DEC,5 - 2,Ryder Downey,78639,Northern Iowa,Joey Blaze,73568,Purdue
+2025,12/06,Cliff Keen Invitational,157,W,DEC,2 - 0,Peyten Kellar,73168,Ohio,Joey Blaze,73568,Purdue
+2025,12/06,Cliff Keen Invitational,157,L,MFOR,0 - 0,Jared Hill,72164,Wyoming,Joey Blaze,73568,Purdue
+2025,12/06,Cliff Keen Invitational,157,L,CMFF,0 - 0,Caleb Fish,63045,Oklahoma State,Joey Blaze,73568,Purdue
+2025,12/06,Cliff Keen Invitational,157,W,TF5,17 - 2 7:00,Ethan Stiles,82465,Oregon State,Joey Blaze,73568,Purdue
+2025,12/06,Cliff Keen Invitational,157,W,MD,10 - 2,Felix Lettini,77386,Sacred Heart,Joey Blaze,73568,Purdue
+2025,11/23,Purdue - Chattanooga Dual,157,W,MD,11 - 3,Noah Castillo,67364,Chattanooga,Joey Blaze,73568,Purdue
+2025,11/23,Purdue - Princeton Dual,157,W,FALL,5:49,Christopher Martino,72987,Princeton,Joey Blaze,73568,Purdue
+2025,11/17,Purdue - Buffalo Dual,157,W,DEC,6 - 1,Kaleb Burgess,72225,Buffalo,Joey Blaze,73568,Purdue
+2025,11/17,Purdue - Army West Point Dual,157,W,MD,12 - 2,Dakota Morris,73960,Army West Point,Joey Blaze,73568,Purdue
+2025,11/09,Tiger Style Invite,157,W,TF5,20 - 3 3:50,Caine Tyus,72913,SIU Edwardsville,Joey Blaze,73568,Purdue
+2025,11/09,Tiger Style Invite,157,L,DEC,11 - 9,Ethen Miller,70914,Maryland,Joey Blaze,73568,Purdue
+2025,11/09,Tiger Style Invite,157,W,DEC,7 - 4,James Conway,73529,Missouri,Joey Blaze,73568,Purdue
+2025,11/01,Purdue - Gardner-Webb Dual,157,W,TF5,20 - 4 5:53,Drew Pepin,79394,Gardner-Webb,Joey Blaze,73568,Purdue
+2025,01/19,Purple Raider Open,157,L,DEC,4 - 1,Nick Cicciarelli,78896,West Virginia,Kade Law,79061,Purdue
+2025,01/19,Purple Raider Open,157,L,MD,14 - 3,Ryan Burgos,63141,Edinboro,Kade Law,79061,Purdue
+2025,01/19,Purple Raider Open,157,W,TF5,19 - 3 7:00,Chase Schepis,93362,West Liberty University,Kade Law,79061,Purdue
+2025,01/12,Purdue - Northern Illinois Dual,157,L,TF5,18 - 1 6:49,Landen Johnson,73502,Northern Illinois,Kade Law,79061,Purdue
+2025,01/03,Purdue - Kent State Dual,157,W,TF5,17 - 2 6:59,Dominic Paterra,84852,Kent State,Kade Law,79061,Purdue
+2025,12/29,Midlands Championships,157,L,DEC,5 - 1,Jack Pletcher,76351,Pittsburgh,Kade Law,79061,Purdue
+2025,12/29,Midlands Championships,157,L,DEC,7 - 4,Ryan Bennett,81725,Illinois,Kade Law,79061,Purdue
+2025,12/18,Purdue - Cleveland State Dual,157,L,DEC,6 - 0,Douglas Terry,70741,Cleveland State,Kade Law,79061,Purdue
+2025,03/09,Big Ten Championships 9th place,165,L,DEC,4 - 1,Anthony White,70924,Rutgers,Stoney Buell,72153,Purdue
+2025,03/09,Big Ten Championships 9th place,165,W,SV-1,4 - 1,Jay Nivison,65850,Michigan State,Stoney Buell,72153,Purdue
+2025,03/08,Big Ten Championships,165,L,DEC,12 - 5,Andrew Sparks,67049,Minnesota,Stoney Buell,72153,Purdue
+2025,03/08,Big Ten Championships,165,W,SV-1,8 - 5,Jay Nivison,65850,Michigan State,Stoney Buell,72153,Purdue
+2025,03/08,Big Ten Championships,165,L,FALL,4:59,Braeden Scoles,78917,Illinois,Stoney Buell,72153,Purdue
+2025,02/23,Nebraska - Purdue Dual,165,L,TF5,17 - 1 5:43,Christopher Minto,84337,Nebraska,Stoney Buell,72153,Purdue
+2025,02/14,Maryland - Purdue Dual,165,W,DEC,8 - 1,Alex Uryniak,84297,Maryland,Stoney Buell,72153,Purdue
+2025,02/09,Purdue - Minnesota Dual,165,L,TF5,20 - 4 6:32,Andrew Sparks,67049,Minnesota,Stoney Buell,72153,Purdue
+2025,02/07,Purdue - Wisconsin Dual,165,W,MD,16 - 4,Cale Anderson,72156,Wisconsin,Stoney Buell,72153,Purdue
+2025,02/01,Purdue - Illinois Dual,165,L,FALL,3:44,Braeden Scoles,78917,Illinois,Stoney Buell,72153,Purdue
+2025,01/19,Purdue - Ohio State Dual,165,L,FALL,2:58,Paddy Gallagher,68724,Ohio State,Stoney Buell,72153,Purdue
+2025,01/17,Indiana - Purdue Dual,165,L,DEC,5 - 2,Tyler Lillard,72963,Indiana,Stoney Buell,72153,Purdue
+2025,01/12,Purdue - Northern Illinois Dual,165,W,DEC,6 - 0,Brett Smith,83397,Northern Illinois,Stoney Buell,72153,Purdue
+2025,01/10,Northwestern - Purdue Dual,165,L,TF5,17 - 2 6:23,Maxx Mayfield,62981,Northwestern,Stoney Buell,72153,Purdue
+2025,01/03,Purdue - Kent State Dual,165,L,MD,12 - 1,Carson Miller,79338,Kent State,Stoney Buell,72153,Purdue
+2025,12/18,Purdue - Cleveland State Dual,165,W,TF5,17 - 2 4:37,Tate Geiser,78813,Cleveland State,Stoney Buell,72153,Purdue
+2025,12/06,Cliff Keen Invitational,165,W,MD,14 - 3,Tyler Sagi,84334,Navy,Stoney Buell,72153,Purdue
+2025,12/06,Cliff Keen Invitational,165,L,FALL,4:19,Drake Rhodes,73705,South Dakota State,Stoney Buell,72153,Purdue
+2025,12/06,Cliff Keen Invitational,165,L,DEC,8 - 1,Cesar Alvan,71732,Columbia,Stoney Buell,72153,Purdue
+2025,11/23,Purdue - Chattanooga Dual,165,W,MD,16 - 5,Jackson Hurst,73352,Chattanooga,Stoney Buell,72153,Purdue
+2025,11/23,Purdue - Princeton Dual,165,W,TF5,17 - 1 4:04,Cody Tavoso,84358,Princeton,Stoney Buell,72153,Purdue
+2025,11/17,Purdue - Buffalo Dual,165,W,MD,11 - 2,Hunter Shaut,61754,Buffalo,Stoney Buell,72153,Purdue
+2025,11/17,Purdue - Army West Point Dual,165,L,MD,17 - 4,Gunner Filipowicz,72974,Army West Point,Stoney Buell,72153,Purdue
+2025,11/09,Tiger Style Invite,165,W,MD,13 - 1,Bradley Gillum,73397,SIU Edwardsville,Stoney Buell,72153,Purdue
+2025,11/09,Tiger Style Invite,165,W,DEC,12 - 7,Gunner Holland,85139,Little Rock,Stoney Buell,72153,Purdue
+2025,11/09,Tiger Style Invite,165,W,DEC,10 - 7,Gunner Holland,85139,Little Rock,Stoney Buell,72153,Purdue
+2025,11/09,Tiger Style Invite,165,L,TF5,17 - 1 3:42,Brendon Abdon,73189,Little Rock,Stoney Buell,72153,Purdue
+2025,11/09,Tiger Style Invite,165,L,FALL,4:18,Luka Wick,71782,Cal Poly,Stoney Buell,72153,Purdue
+2025,11/01,Purdue - Gardner-Webb Dual,165,W,MD,15 - 5,Tyler Brignola,73727,Gardner-Webb,Stoney Buell,72153,Purdue
+2025,11/09,Michigan State Open,165,W,FALL,1:14,Isaiah Flores,97229,Bryant & Stratton,Delaney Ruhlman,81721,Purdue
+2025,11/09,Michigan State Open,165,L,TF5,17 - 1 7:00,Colin Young,93683,Oklahoma State,Delaney Ruhlman,81721,Purdue
+2025,11/09,Michigan State Open,165,L,FALL,2:23,Eddie Enright,93099,Northwestern,Delaney Ruhlman,81721,Purdue
+2025,11/09,Michigan State Open,165,W,FALL,1:31,Jake Jonker,93863,Kent State,Delaney Ruhlman,81721,Purdue
+2025,11/09,Michigan State Open,165,W,MD,15 - 5,Tyler Pressel,84999,Grand Valley State University,Delaney Ruhlman,81721,Purdue
+2025,03/20,NCAA Championships,174,L,DEC,6 - 5,Dalton Harkins,65872,Army West Point,Brody Baumann,73558,Purdue
+2025,03/20,NCAA Championships,174,W,DEC,3 - 2,Alex Cramer,56732,Central Michigan,Brody Baumann,73558,Purdue
+2025,03/20,NCAA Championships,174,L,TF5,15 - 0 6:41,Danny Wask,72981,Navy,Brody Baumann,73558,Purdue
+2025,03/08,Big Ten Championships,174,L,FALL,6:52,Clayton Whiting,72552,Minnesota,Brody Baumann,73558,Purdue
+2025,03/08,Big Ten Championships,174,W,DEC,14 - 7,Lucas Condon,79397,Wisconsin,Brody Baumann,73558,Purdue
+2025,03/08,Big Ten Championships,174,L,FALL,5:58,Levi Haines,72657,Penn State,Brody Baumann,73558,Purdue
+2025,03/08,Big Ten Championships,174,L,DEC,9 - 4,Branson John,92961,Maryland,Brody Baumann,73558,Purdue
+2025,03/08,Big Ten Championships,174,W,DEC,4 - 3,Derek Gilcher,62760,Indiana,Brody Baumann,73558,Purdue
+2025,02/23,Nebraska - Purdue Dual,174,L,TF5,21 - 6 6:46,Lenny Pinto,63137,Nebraska,Brody Baumann,73558,Purdue
+2025,02/14,Maryland - Purdue Dual,174,W,DEC,7 - 6,Branson John,92961,Maryland,Brody Baumann,73558,Purdue
+2025,02/09,Purdue - Minnesota Dual,174,L,SV-1,4 - 1,Clayton Whiting,72552,Minnesota,Brody Baumann,73558,Purdue
+2025,02/07,Purdue - Wisconsin Dual,174,W,SV-1,12 - 9,Lucas Condon,79397,Wisconsin,Brody Baumann,73558,Purdue
+2025,02/01,Purdue - Illinois Dual,174,L,DEC,15 - 8,Danny Braunagel,50926,Illinois,Brody Baumann,73558,Purdue
+2025,01/19,Purdue - Ohio State Dual,174,L,FALL,6:00,Carson Kharchla,57703,Ohio State,Brody Baumann,73558,Purdue
+2025,01/17,Indiana - Purdue Dual,174,L,DEC,2 - 1,Derek Gilcher,62760,Indiana,Brody Baumann,73558,Purdue
+2025,01/12,Purdue - Northern Illinois Dual,174,W,MD,19 - 9,Tommy Bennett,78096,Northern Illinois,Brody Baumann,73558,Purdue
+2025,01/10,Northwestern - Purdue Dual,174,W,TF5,17 - 2 3:35,Aiden Vandenbush,73000,Northwestern,Brody Baumann,73558,Purdue
+2025,01/03,Purdue - Kent State Dual,174,W,TF5,21 - 5 6:31,Hunter Andel,84319,Kent State,Brody Baumann,73558,Purdue
+2025,12/18,Purdue - Cleveland State Dual,174,W,TF5,19 - 3 2:06,Gavin Ricketts,84550,Cleveland State,Brody Baumann,73558,Purdue
+2025,12/06,Cliff Keen Invitational,174,L,DEC,9 - 5,Danny Wask,72981,Navy,Brody Baumann,73558,Purdue
+2025,12/06,Cliff Keen Invitational,174,W,DEC,4 - 2,Brody Conley,71814,West Virginia,Brody Baumann,73558,Purdue
+2025,12/06,Cliff Keen Invitational,174,L,TF5,15 - 0 4:20,Brevin Cassella,67293,Binghamton,Brody Baumann,73558,Purdue
+2025,12/06,Cliff Keen Invitational,174,W,FALL,3:29,Haden Bottiglieri,92953,Harvard,Brody Baumann,73558,Purdue
+2025,12/06,Cliff Keen Invitational,174,W,TF5,20 - 5 7:00,Carter Schmidt,62606,Cal Baptist,Brody Baumann,73558,Purdue
+2025,11/23,Purdue - Chattanooga Dual,174,W,FALL,3:56,Sergio Desiante,78495,Chattanooga,Brody Baumann,73558,Purdue
+2025,11/23,Purdue - Princeton Dual,174,W,TF5,20 - 3 5:55,Xavier Giles,85120,Princeton,Brody Baumann,73558,Purdue
+2025,11/17,Purdue - Buffalo Dual,174,W,TF5,19 - 4 5:44,Dylan Schell,78660,Buffalo,Brody Baumann,73558,Purdue
+2025,11/17,Purdue - Army West Point Dual,174,W,DEC,10 - 8,Dalton Harkins,65872,Army West Point,Brody Baumann,73558,Purdue
+2025,11/09,Tiger Style Invite,174,W,DEC,11 - 10,Branson John,92961,Maryland,Brody Baumann,73558,Purdue
+2025,11/09,Tiger Style Invite,174,W,DEC,1 - 0,Tyler Brennan,62844,Little Rock,Brody Baumann,73558,Purdue
+2025,11/09,Tiger Style Invite,174,L,TF5,21 - 4 5:09,Keegan O'Toole,61119,Missouri,Brody Baumann,73558,Purdue
+2025,11/01,Purdue - Gardner-Webb Dual,174,W,FALL,4:17,Andrew Wilson,73732,Gardner-Webb,Brody Baumann,73558,Purdue
+2025,02/09,Greyhound Open,174,L,FALL,2:08,Noah Clouser,93434,Indianapolis,Ethan Popp,93538,Purdue
+2025,02/09,Greyhound Open,174,L,TF5,21 - 6 7:00,Derek Gilcher,62760,Indiana,Ethan Popp,93538,Purdue
+2025,02/09,Greyhound Open,174,W,TF5,16 - 0 7:00,McCaden Skeens,99837,Mount St Joseph,Ethan Popp,93538,Purdue
+2025,02/01,Loras Duhawk Open,174,L,MD,13 - 2,Hesston Johnson,97270,Unattached,Ethan Popp,93538,Purdue
+2025,02/01,Loras Duhawk Open,174,W,DEC,4 - 2,David Mitrovich,92524,Wisconsin,Ethan Popp,93538,Purdue
+2025,02/01,Loras Duhawk Open,174,L,FALL,1:40,David Malin,85305,Wisconsin,Ethan Popp,93538,Purdue
+2025,02/01,Loras Duhawk Open,174,W,FALL,4:58,Jackson Gonzales,73450,Cornell College,Ethan Popp,93538,Purdue
+2025,02/01,Loras Duhawk Open,174,W,MD,11 - 3,Adler Osborn,95207,Wisconsin-Parkside,Ethan Popp,93538,Purdue
+2025,01/19,Purple Raider Open,174,L,TF5,19 - 3 7:00,Riley Hackworth,89482,George Mason,Ethan Popp,93538,Purdue
+2025,01/19,Purple Raider Open,174,L,MD,12 - 0,Logan Richey,84785,Duke,Ethan Popp,93538,Purdue
+2025,12/29,Midlands Championships,174,L,TF5,15 - 0 7:00,Marty Larkin,69873,Michigan State,Ethan Popp,93538,Purdue
+2025,12/29,Midlands Championships,174,L,TF5,19 - 4 7:00,Tommy Bennett,78096,Northern Illinois,Ethan Popp,93538,Purdue
+2025,12/29,Midlands Championships,174,W,DEC,2 - 1,Grant Hansen,73342,Northern Illinois,Ethan Popp,93538,Purdue
+2025,12/20,Kent State Open,174,L,DEC,7 - 1,Kyle Vencil,98403,Unattached,Ethan Popp,93538,Purdue
+2025,12/20,Kent State Open,174,L,MD,14 - 2,Gavin Ricketts,84550,Cleveland State,Ethan Popp,93538,Purdue
+2025,03/09,Big Ten Championships 9th place,184,L,SV-1,10 - 7,Lucas Daly,71943,Michigan State,Orlando Cruz,84359,Purdue
+2025,03/08,Big Ten Championships,184,L,DEC,5 - 4,Lucas Daly,71943,Michigan State,Orlando Cruz,84359,Purdue
+2025,03/08,Big Ten Championships,184,L,TF5,19 - 4 6:00,Gabe Arnold,77971,Iowa,Orlando Cruz,84359,Purdue
+2025,02/23,Nebraska - Purdue Dual,184,W,DEC,4 - 2,Ethan DeLeon,84338,Nebraska,Orlando Cruz,84359,Purdue
+2025,02/14,Maryland - Purdue Dual,184,L,TF5,21 - 6 4:44,Jaxon Smith,68714,Maryland,Orlando Cruz,84359,Purdue
+2025,02/09,Purdue - Minnesota Dual,184,L,TF5,20 - 4 5:39,Max McEnelly,78146,Minnesota,Orlando Cruz,84359,Purdue
+2025,02/07,Purdue - Wisconsin Dual,184,W,FALL,2:14,Dylan Russo,78663,Wisconsin,Orlando Cruz,84359,Purdue
+2025,02/01,Purdue - Illinois Dual,184,L,SV-1,5 - 2,Edmond Ruth,51277,Illinois,Orlando Cruz,84359,Purdue
+2025,01/19,Purdue - Ohio State Dual,184,L,DEC,7 - 1,Ryder Rogotzke,78083,Ohio State,Orlando Cruz,84359,Purdue
+2025,01/17,Indiana - Purdue Dual,184,L,TF5,19 - 4 5:27,Donnell Washington,57738,Indiana,Orlando Cruz,84359,Purdue
+2025,01/12,Purdue - Northern Illinois Dual,184,W,TF5,22 - 5 6:44,Jake Evans,73345,Northern Illinois,Orlando Cruz,84359,Purdue
+2025,01/10,Northwestern - Purdue Dual,184,W,TF5,19 - 4 6:04,Matt Kubas,93319,Northwestern,Orlando Cruz,84359,Purdue
+2025,01/03,Purdue - Kent State Dual,184,W,SV-1,4 - 1,Trent Thomas,86118,Kent State,Orlando Cruz,84359,Purdue
+2025,12/18,Purdue - Cleveland State Dual,184,L,DEC,4 - 3,JR Reed,78598,Cleveland State,Orlando Cruz,84359,Purdue
+2025,12/07,Cleveland State Open,174,W,DEC,8 - 2,Kyle Vencil,98403,Unattached,Orlando Cruz,84359,Purdue
+2025,12/07,Cleveland State Open,174,W,DEC,7 - 3,Gavin Ricketts,84550,Cleveland State,Orlando Cruz,84359,Purdue
+2025,12/07,Cleveland State Open,174,L,DEC,5 - 1,Chris Moore,79651,Illinois,Orlando Cruz,84359,Purdue
+2025,12/07,Cleveland State Open,174,W,MD,14 - 4,Ronald Dimmerling,78754,Cleveland State,Orlando Cruz,84359,Purdue
+2025,12/07,Cleveland State Open,174,W,TF5,17 - 2 3:21,Sean Divine,84998,Grand Valley State University,Orlando Cruz,84359,Purdue
+2025,11/09,Tiger Style Invite,174,L,MD,11 - 0,Branson John,92961,Maryland,Orlando Cruz,84359,Purdue
+2025,11/09,Tiger Style Invite,174,W,DEC,4 - 2,Blake Hinrichsen,80126,Cal Poly,Orlando Cruz,84359,Purdue
+2025,11/09,Tiger Style Invite,174,L,MD,14 - 6,Logan Cole,84962,Missouri,Orlando Cruz,84359,Purdue
+2025,11/09,Tiger Style Invite,174,L,TF5,19 - 0 3:58,Keegan O'Toole,61119,Missouri,Orlando Cruz,84359,Purdue
+2025,12/06,Cliff Keen Invitational,184,L,INJ,5:29,Jaden Bullock,67035,Michigan,James Rowley,73715,Purdue
+2025,12/06,Cliff Keen Invitational,184,W,DEC,6 - 4,Jon Halvorsen,62898,Northwestern,James Rowley,73715,Purdue
+2025,12/06,Cliff Keen Invitational,184,L,TF5,19 - 4 4:34,Dustin Plott,57607,Oklahoma State,James Rowley,73715,Purdue
+2025,12/06,Cliff Keen Invitational,184,W,DEC,5 - 2,Will Ebert,76486,Binghamton,James Rowley,73715,Purdue
+2025,11/23,Purdue - Chattanooga Dual,184,W,FALL,1:48,Logan Webster,78501,Chattanooga,James Rowley,73715,Purdue
+2025,11/23,Purdue - Princeton Dual,184,W,DEC,9 - 3,Mikey Squires,67290,Princeton,James Rowley,73715,Purdue
+2025,11/17,Purdue - Buffalo Dual,184,W,DEC,4 - 1,Marcus Petite,67407,Buffalo,James Rowley,73715,Purdue
+2025,11/17,Purdue - Army West Point Dual,184,W,MD,15 - 2,Cole Karpinski,78462,Army West Point,James Rowley,73715,Purdue
+2025,11/09,Tiger Style Invite,184,W,DEC,9 - 4,Branson Britten,71938,Little Rock,James Rowley,73715,Purdue
+2025,11/09,Tiger Style Invite,184,W,DEC,8 - 1,Triston Wills,58611,Little Rock,James Rowley,73715,Purdue
+2025,11/09,Tiger Style Invite,184,L,SV-1,8 - 5,Triston Wills,58611,Little Rock,James Rowley,73715,Purdue
+2025,11/09,Tiger Style Invite,184,W,DEC,4 - 2,Tommy Hagen,78444,Missouri,James Rowley,73715,Purdue
+2025,11/01,Purdue - Gardner-Webb Dual,184,W,FALL,4:40,Brixan Burgess,84942,Gardner-Webb,James Rowley,73715,Purdue
+2025,02/09,Greyhound Open,184,L,FALL,0:51,Michael Durham,87988,Indiana Tech,Quinn Herbert,93540,Purdue
+2025,02/09,Greyhound Open,184,L,DEC,4 - 3,Jack Ring,84845,Bellarmine,Quinn Herbert,93540,Purdue
+2025,02/09,Greyhound Open,184,L,DEC,6 - 2,Amare Overton,100984,SIU Edwardsville,Quinn Herbert,93540,Purdue
+2025,02/09,Greyhound Open,184,W,TF5,18 - 1 7:00,Ty Hafke,85003,Grand Valley State University,Quinn Herbert,93540,Purdue
+2025,02/09,Greyhound Open,184,W,TF5,18 - 3 7:00,Rhett Walters,94407,Montevallo,Quinn Herbert,93540,Purdue
+2025,02/09,Greyhound Open,184,W,DEC,5 - 3,Sammy Saunders,80649,Wabash,Quinn Herbert,93540,Purdue
+2025,01/19,Purple Raider Open,184,L,MD,18 - 9,Steven Duffy,93501,Cleveland State,Quinn Herbert,93540,Purdue
+2025,01/19,Purple Raider Open,184,L,MD,11 - 2,Drew Lincicome,84829,Ohio,Quinn Herbert,93540,Purdue
+2025,12/29,Midlands Championships,184,L,TF5,18 - 1 7:00,Abe Wojcikiewicz,78683,Stanford,Quinn Herbert,93540,Purdue
+2025,12/29,Midlands Championships,184,L,MD,17 - 5,Deron Pulliam,77410,SIU Edwardsville,Quinn Herbert,93540,Purdue
+2025,12/20,Kent State Open,184,L,SV-1,5 - 4,Vitali Daniels,93056,Edinboro,Quinn Herbert,93540,Purdue
+2025,12/20,Kent State Open,184,L,MD,11 - 2,Holden Martin,84487,Kent State,Quinn Herbert,93540,Purdue
+2025,12/20,Kent State Open,184,W,DEC,11 - 5,Austin Stewart,79837,Northern Illinois,Quinn Herbert,93540,Purdue
+2025,03/09,Big Ten Championships 9th place,197,W,DEC,11 - 4,PJ Casale,77312,Rutgers,Ben Vanadia,68732,Purdue
+2025,03/09,Big Ten Championships 9th place,197,W,TF5,17 - 2 5:32,Niccolo Colucci,67004,Wisconsin,Ben Vanadia,68732,Purdue
+2025,03/09,Big Ten Championships 9th place,197,L,DEC,13 - 6,Remy Cotton,79392,Michigan State,Ben Vanadia,68732,Purdue
+2025,03/08,Big Ten Championships,197,W,FALL,4:07,Niccolo Colucci,67004,Wisconsin,Ben Vanadia,68732,Purdue
+2025,03/08,Big Ten Championships,197,L,MD,10 - 0,Evan Bates,72133,Northwestern,Ben Vanadia,68732,Purdue
+2025,03/08,Big Ten Championships,197,L,MD,12 - 0,Isaiah Salazar,62340,Minnesota,Ben Vanadia,68732,Purdue
+2025,02/23,Nebraska - Purdue Dual,197,L,TF5,22 - 6 6:35,Camden McDanel,79473,Nebraska,Ben Vanadia,68732,Purdue
+2025,02/14,Maryland - Purdue Dual,197,W,MD,10 - 1,Jack Darrah,73242,Maryland,Ben Vanadia,68732,Purdue
+2025,02/09,Purdue - Minnesota Dual,197,W,DEC,7 - 1,Gabe Nagel,72141,Minnesota,Ben Vanadia,68732,Purdue
+2025,02/07,Purdue - Wisconsin Dual,197,W,DEC,10 - 8,Wyatt Ingham,84582,Wisconsin,Ben Vanadia,68732,Purdue
+2025,02/01,Purdue - Illinois Dual,197,L,MD,17 - 3,Zach Braunagel,50925,Illinois,Ben Vanadia,68732,Purdue
+2025,01/19,Purdue - Ohio State Dual,197,W,MD,17 - 5,Gavin Bell,65314,Ohio State,Ben Vanadia,68732,Purdue
+2025,01/17,Indiana - Purdue Dual,197,L,DEC,4 - 0,Gabe Sollars,77269,Indiana,Ben Vanadia,68732,Purdue
+2025,01/12,Purdue - Northern Illinois Dual,197,W,MD,12 - 4,Sean Carroll,81794,Northern Illinois,Ben Vanadia,68732,Purdue
+2025,01/10,Northwestern - Purdue Dual,197,L,MD,8 - 0,Evan Bates,72133,Northwestern,Ben Vanadia,68732,Purdue
+2025,01/03,Purdue - Kent State Dual,197,W,TF5,20 - 3 5:50,Corey Boerio,79396,Kent State,Ben Vanadia,68732,Purdue
+2025,12/18,Purdue - Cleveland State Dual,197,W,TF5,17 - 1 5:38,Joey Lyons,72596,Cleveland State,Ben Vanadia,68732,Purdue
+2025,12/06,Cliff Keen Invitational,197,W,MFOR,0 - 0,Luke Geog,75490,Ohio State,Ben Vanadia,68732,Purdue
+2025,12/06,Cliff Keen Invitational,197,W,FALL,2:41,Aiden Hanning,74562,Cornell,Ben Vanadia,68732,Purdue
+2025,12/06,Cliff Keen Invitational,197,L,MD,15 - 6,Christian Carroll,72558,Iowa State,Ben Vanadia,68732,Purdue
+2025,12/06,Cliff Keen Invitational,197,L,MD,8 - 0,Luke Surber,62347,Oklahoma State,Ben Vanadia,68732,Purdue
+2025,12/06,Cliff Keen Invitational,197,W,DEC,7 - 2,Carson Floyd,78561,Appalachian State,Ben Vanadia,68732,Purdue
+2025,11/23,Purdue - Chattanooga Dual,197,W,FALL,2:44,David Harper,72573,Chattanooga,Ben Vanadia,68732,Purdue
+2025,11/23,Purdue - Princeton Dual,197,L,TF5,17 - 2 6:13,Luke Stout,62599,Princeton,Ben Vanadia,68732,Purdue
+2025,11/17,Purdue - Buffalo Dual,197,W,TF5,19 - 4 6:52,Lonnell Owens-Pabon,78784,Buffalo,Ben Vanadia,68732,Purdue
+2025,11/17,Purdue - Army West Point Dual,197,W,DEC,8 - 2,Wolfgang Frable,78566,Army West Point,Ben Vanadia,68732,Purdue
+2025,11/09,Tiger Style Invite,197,L,MD,18 - 5,Stephen Little,73285,Little Rock,Ben Vanadia,68732,Purdue
+2025,11/09,Tiger Style Invite,197,W,TF5,19 - 4 6:07,Josh Harkey,64652,Cal Poly,Ben Vanadia,68732,Purdue
+2025,11/09,Tiger Style Invite,197,W,MD,11 - 1,Josh Harkey,64652,Cal Poly,Ben Vanadia,68732,Purdue
+2025,11/09,Tiger Style Invite,197,W,FALL,2:18,Jarad Priest,62329,Cal Poly,Ben Vanadia,68732,Purdue
+2025,11/01,Purdue - Gardner-Webb Dual,197,L,DEC,4 - 3,Joshua McCutchen,75730,Gardner-Webb,Ben Vanadia,68732,Purdue
+2025,03/20,NCAA Championships,285,L,DEC,4 - 2,Jake Andrews,73174,CSU Bakersfield,Hayden Filipovich,71689,Purdue
+2025,03/20,NCAA Championships,285,L,FALL,1:25,Gable Steveson,50624,Minnesota,Hayden Filipovich,71689,Purdue
+2025,03/20,NCAA Championships,285,W,MD,9 - 0,Stephan Monchery,90810,Appalachian State,Hayden Filipovich,71689,Purdue
+2025,03/09,Big Ten Championships 9th place,285,W,MD,16 - 3,Harley Andrews,72965,Nebraska,Hayden Filipovich,71689,Purdue
+2025,03/09,Big Ten Championships 9th place,285,L,DEC,5 - 2,Jacob Bullock,57724,Indiana,Hayden Filipovich,71689,Purdue
+2025,03/08,Big Ten Championships,285,L,DEC,5 - 0,Seth Nevills,50625,Maryland,Hayden Filipovich,71689,Purdue
+2025,03/08,Big Ten Championships,285,L,DEC,5 - 1,Ben Kueter,73504,Iowa,Hayden Filipovich,71689,Purdue
+2025,02/23,Nebraska - Purdue Dual,285,W,DEC,9 - 4,Harley Andrews,72965,Nebraska,Hayden Filipovich,71689,Purdue
+2025,02/14,Maryland - Purdue Dual,285,L,DEC,5 - 3,Seth Nevills,50625,Maryland,Hayden Filipovich,71689,Purdue
+2025,02/09,Purdue - Minnesota Dual,285,L,TF5,18 - 3 2:35,Gable Steveson,50624,Minnesota,Hayden Filipovich,71689,Purdue
+2025,02/07,Purdue - Wisconsin Dual,285,W,FALL,5:44,Gannon Rosenfeld,79252,Wisconsin,Hayden Filipovich,71689,Purdue
+2025,02/01,Purdue - Illinois Dual,285,L,MD,9 - 1,Luke Luffman,56708,Illinois,Hayden Filipovich,71689,Purdue
+2025,01/19,Purdue - Ohio State Dual,285,L,TF5,19 - 4 7:00,Nick Feldman,64017,Ohio State,Hayden Filipovich,71689,Purdue
+2025,01/17,Indiana - Purdue Dual,285,L,DEC,5 - 2,Jacob Bullock,57724,Indiana,Hayden Filipovich,71689,Purdue
+2025,01/12,Purdue - Northern Illinois Dual,285,W,DEC,7 - 2,Jacob Christiansen,73347,Northern Illinois,Hayden Filipovich,71689,Purdue
+2025,01/10,Northwestern - Purdue Dual,285,W,FALL,2:29,Dirk Morley,84347,Northwestern,Hayden Filipovich,71689,Purdue
+2025,01/03,Purdue - Kent State Dual,285,L,DEC,4 - 2,Brentan Simmerman,84855,Kent State,Hayden Filipovich,71689,Purdue
+2025,12/18,Purdue - Cleveland State Dual,285,L,DEC,6 - 1,Daniel Bucknavich,62488,Cleveland State,Hayden Filipovich,71689,Purdue
+2025,12/06,Cliff Keen Invitational,285,W,DEC,2 - 0,Jackson Mankowski,84623,Stanford,Hayden Filipovich,71689,Purdue
+2025,12/06,Cliff Keen Invitational,285,W,DEC,6 - 5,Aiden Compton,78711,Cornell,Hayden Filipovich,71689,Purdue
+2025,12/06,Cliff Keen Invitational,285,L,FALL,5:18,Trevor Tinker,66973,Cal Poly,Hayden Filipovich,71689,Purdue
+2025,12/06,Cliff Keen Invitational,285,L,FALL,1:13,Wyatt Hendrickson,56694,Oklahoma State,Hayden Filipovich,71689,Purdue
+2025,11/23,Purdue - Chattanooga Dual,285,W,MD,11 - 0,Ethan Vergara,82713,Chattanooga,Hayden Filipovich,71689,Purdue
+2025,11/23,Purdue - Princeton Dual,285,L,MD,8 - 0,Sebastian Garibaldi,72130,Princeton,Hayden Filipovich,71689,Purdue
+2025,11/17,Purdue - Buffalo Dual,285,W,INJ,2:00,Magnus Bibla,84535,Buffalo,Hayden Filipovich,71689,Purdue
+2025,11/17,Purdue - Army West Point Dual,285,L,DEC,7 - 4,Lucas Stoddard,78565,Army West Point,Hayden Filipovich,71689,Purdue
+2025,11/09,Tiger Style Invite,285,L,FALL,5:45,Seth Nevills,50625,Maryland,Hayden Filipovich,71689,Purdue
+2025,11/09,Tiger Style Invite,285,W,FALL,6:01,Keith Miley,73068,Little Rock,Hayden Filipovich,71689,Purdue
+2025,11/09,Tiger Style Invite,285,L,DEC,15 - 11,Trevor Tinker,66973,Cal Poly,Hayden Filipovich,71689,Purdue
+2025,11/09,Tiger Style Invite,285,W,DEC,10 - 3,Jarrett Stoner,84591,Missouri,Hayden Filipovich,71689,Purdue
+2025,11/01,Purdue - Gardner-Webb Dual,285,W,MD,10 - 0,Peyton McComas,71831,Gardner-Webb,Hayden Filipovich,71689,Purdue
+2025,12/07,Cleveland State Open,285,L,FALL,5:54,Shane Cook,84547,Cleveland State,Dominic Burgett,84360,Purdue
+2025,12/07,Cleveland State Open,285,L,MD,10 - 1,Juliano Marion,93023,Pittsburgh,Dominic Burgett,84360,Purdue
+2025,12/07,Cleveland State Open,285,W,FALL,4:46,Elijah Hunter,76870,West Virginia,Dominic Burgett,84360,Purdue
+2025,11/09,Michigan State Open,285,L,DEC,4 - 1,Wyatt Schmitt,92934,Ohio,Dominic Burgett,84360,Purdue
+2025,11/09,Michigan State Open,285,W,DEC,7 - 3,Dirk Morley,84347,Northwestern,Dominic Burgett,84360,Purdue
+2025,11/09,Michigan State Open,285,W,TF5,19 - 4 7:00,Bennett VandenBerg,93801,Michigan State,Dominic Burgett,84360,Purdue
+2025,11/09,Michigan State Open,285,L,MD,9 - 0,Kade Sottolano,78785,Edinboro,Dominic Burgett,84360,Purdue
+2025,02/09,Greyhound Open,285,W,FALL,0:30,Tj Olutayo,100990,Unattached,Keagan Martin,93539,Purdue
+2025,02/09,Greyhound Open,285,W,MD,15 - 5,Devan Gauldin,76903,Glenville State University,Keagan Martin,93539,Purdue
+2025,02/09,Greyhound Open,285,L,DEC,9 - 3,Isaac Lehman,97670,Tiffin University,Keagan Martin,93539,Purdue
+2025,02/09,Greyhound Open,285,L,MD,11 - 0,Elijah Hinshaw,86560,Indianapolis,Keagan Martin,93539,Purdue
+2025,12/29,Midlands Championships,285,L,FALL,2:49,Sebastian Garibaldi,72130,Princeton,Keagan Martin,93539,Purdue
+2025,12/29,Midlands Championships,285,L,MD,12 - 3,Michael Wolfgram,57526,West Virginia,Keagan Martin,93539,Purdue
+2025,12/20,Kent State Open,285,L,MD,11 - 3,Wilson Spires,84598,West Virginia,Keagan Martin,93539,Purdue
+2025,12/20,Kent State Open,285,L,MD,12 - 0,Ryan Boersma,72603,Triton College,Keagan Martin,93539,Purdue

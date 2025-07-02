@@ -1,0 +1,486 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2016,01/17,Virginia - North Carolina State Dual,125,L,DEC,8 - 4,Sean Fausz,20126,NC State,Will Mason,12187,Virginia
+2016,01/01,Southern Scuffle,125,W,DEC,7 - 4,Vito Pasone,12239,Appalachian State,Will Mason,12187,Virginia
+2016,01/01,Southern Scuffle,125,W,DEC,4 - 3,Cody Minnick,39943,Chattanooga,Will Mason,12187,Virginia
+2016,01/01,Southern Scuffle,125,L,DEC,4 - 2,Kenneth Yanovich,20308,Penn State,Will Mason,12187,Virginia
+2016,01/01,Southern Scuffle,125,W,DEC,3 - 2,Zack Fuentes,12061,Drexel,Will Mason,12187,Virginia
+2016,01/01,Southern Scuffle,125,L,DEC,7 - 5,Austin Assad,39516,Michigan,Will Mason,12187,Virginia
+2016,02/19,Virginia - Pittsburgh Dual,133,L,MD,17 - 5,Dom Forys,20323,Pittsburgh,Joseph Martinez,12044,Virginia
+2016,02/14,Chattanooga - Virginia Dual,133,W,DEC,7 - 0,Cody Hill,19772,Chattanooga,Joseph Martinez,12044,Virginia
+2016,01/08,VMI - Virginia Dual,125,L,MD,13 - 2,Dalton Henderson,22457,VMI,Joseph Martinez,12044,Virginia
+2016,01/01,Southern Scuffle,125,L,MFOR,0 - 0,Carter Ballinger,19748,Central Michigan,Joseph Martinez,12044,Virginia
+2016,01/01,Southern Scuffle,125,L,DEC,2 - 1,Cortez Starkes,12194,Gardner-Webb,Joseph Martinez,12044,Virginia
+2016,12/06,Nittany Lion Open,125,W,DEC,6 - 1,Michael Beck,19998,Maryland,Joseph Martinez,12044,Virginia
+2016,12/06,Nittany Lion Open,125,W,MD,14 - 0,Brendan Howard,39805,Clarion,Joseph Martinez,12044,Virginia
+2016,12/06,Nittany Lion Open,125,W,DEC,8 - 2,Kenneth Yanovich,20308,Penn State,Joseph Martinez,12044,Virginia
+2016,12/06,Nittany Lion Open,125,L,MD,16 - 4,Nico Megaludis,12051,Penn State,Joseph Martinez,12044,Virginia
+2016,12/06,Nittany Lion Open,125,W,MD,13 - 1,Patrick Higgins,40228,Penn State,Joseph Martinez,12044,Virginia
+2016,11/22,Mat Town Open,125,W,MFOR,0 - 0,Tanner Shoap,12205,Drexel,Joseph Martinez,12044,Virginia
+2016,11/22,Mat Town Open,125,W,MD,14 - 0,Jacob Martin,42329,Wyoming,Joseph Martinez,12044,Virginia
+2016,11/22,Mat Town Open,125,W,TF5,15 - 0 7:00,Jonathan Ragsdale,39630,West Virginia,Joseph Martinez,12044,Virginia
+2016,11/22,Mat Town Open,125,W,MD,13 - 3,Patrick Higgins,40228,Penn State,Joseph Martinez,12044,Virginia
+2016,11/06,Virginia - North Dakota State Dual,125,L,MD,8 - 0,Josh Rodriguez,13418,North Dakota State,Joseph Martinez,12044,Virginia
+2016,11/01,Clarion Open,125,W,TF5,18 - 2 7:00,Terrel Grant,41298,Unattached,Joseph Martinez,12044,Virginia
+2016,11/01,Clarion Open,125,W,DEC,3 - 1,Evan Link,41292,Pitt-Johnstown,Joseph Martinez,12044,Virginia
+2016,11/01,Clarion Open,125,W,DEC,10 - 4,Jabari Moody,39852,Virginia,Joseph Martinez,12044,Virginia
+2016,11/01,Clarion Open,125,L,DEC,5 - 2,Nick Herrmann,12144,Virginia,Joseph Martinez,12044,Virginia
+2016,11/01,Clarion Open,125,W,DEC,3 - 2,Evan Cheek,40190,Cleveland State,Joseph Martinez,12044,Virginia
+2016,11/01,Clarion Open,125,W,MD,15 - 4,Austin Griffiths,41236,Seton Hill,Jabari Moody,39852,Virginia
+2016,11/01,Clarion Open,125,L,DEC,10 - 4,Joseph Martinez,12044,Virginia,Jabari Moody,39852,Virginia
+2016,11/01,Clarion Open,125,W,DEC,7 - 6,Patrick Dewitt,21164,Clarion,Jabari Moody,39852,Virginia
+2016,11/01,Clarion Open,125,L,DEC,7 - 0,Jake Gromacki,20324,Pittsburgh,Jabari Moody,39852,Virginia
+2016,11/01,Clarion Open,125,W,MD,10 - 2,Sam Holandez,20745,Bloomsburg,Jabari Moody,39852,Virginia
+2016,11/01,Clarion Open,125,W,MD,12 - 3,Jake Field,12108,Lock Haven,Jabari Moody,39852,Virginia
+2016,12/30,Franklin & Marshall Open,133,L,FALL,0:56,Dan Martoccio,19891,Franklin & Marshall,Alex Uhre,12125,Virginia
+2016,12/30,Franklin & Marshall Open,133,L,DEC,10 - 7,Samuel Goldman,40158,Harvard,Alex Uhre,12125,Virginia
+2016,12/30,Franklin & Marshall Open,133,W,DEC,10 - 4,James Bell,22471,Brown,Alex Uhre,12125,Virginia
+2016,03/17,NCAA Championships,133,L,DEC,8 - 6,Jade Rauser,13291,Utah Valley,George DiCamillo,20426,Virginia
+2016,03/17,NCAA Championships,133,W,DEC,4 - 3,Dom Forys,20323,Pittsburgh,George DiCamillo,20426,Virginia
+2016,03/17,NCAA Championships,133,L,MD,12 - 4,Zane Richards,14736,Illinois,George DiCamillo,20426,Virginia
+2016,03/17,NCAA Championships,133,W,DEC,8 - 4,Dalton Brady,20566,Arizona State,George DiCamillo,20426,Virginia
+2016,03/06,ACC Championships,133,W,DEC,8 - 4,Dom Forys,20323,Pittsburgh,George DiCamillo,20426,Virginia
+2016,03/06,ACC Championships,133,W,DEC,14 - 13,Jamal Morris,20136,NC State,George DiCamillo,20426,Virginia
+2016,02/06,North Carolina - Virginia Dual,133,W,FALL,2:13,James Szymanski,39623,North Carolina,George DiCamillo,20426,Virginia
+2016,01/31,Virginia Tech - Virginia Dual,133,W,MD,14 - 4,Dennis Gustafson,11706,Virginia Tech,George DiCamillo,20426,Virginia
+2016,01/17,Virginia - North Carolina State Dual,133,W,TF5,17 - 2 7:00,Jamal Morris,20136,NC State,George DiCamillo,20426,Virginia
+2016,01/08,VMI - Virginia Dual,133,W,FALL,5:54,Bennie Pachello,39875,VMI,George DiCamillo,20426,Virginia
+2016,01/01,Southern Scuffle,133,W,DEC,6 - 3,Nathan Kraisser,20783,Campbell,George DiCamillo,20426,Virginia
+2016,01/01,Southern Scuffle,133,W,DEC,10 - 5,Josh Martinez,12145,Air Force,George DiCamillo,20426,Virginia
+2016,01/01,Southern Scuffle,133,L,DEC,6 - 5,Jordan Conaway,15981,Penn State,George DiCamillo,20426,Virginia
+2016,01/01,Southern Scuffle,133,W,MD,13 - 1,Zack Davis,20604,Navy,George DiCamillo,20426,Virginia
+2016,01/01,Southern Scuffle,133,W,TF5,17 - 2 7:00,Jacob Grigg,19620,Appalachian State,George DiCamillo,20426,Virginia
+2016,01/01,Southern Scuffle,133,W,FALL,1:57,John Twomey,40122,Air Force,George DiCamillo,20426,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,DEC,8 - 1,Daniel DeShazer,21395,Nebraska-Kearney,George DiCamillo,20426,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,133,L,DEC,11 - 5,Nahshon Garrett,12070,Cornell,George DiCamillo,20426,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,DEC,8 - 6,Joey Palmer,12152,Oregon State,George DiCamillo,20426,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,MD,12 - 4,Zach Synon,12142,Missouri,George DiCamillo,20426,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,MD,13 - 3,Earl Hall,12220,Iowa State,George DiCamillo,20426,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,MFOR,0 - 0,Johnni DiJulius,14679,Ohio State,George DiCamillo,20426,Virginia
+2016,11/15,Old Dominion - Virginia Dual,133,W,DEC,8 - 2,Emilio Saavedra,20285,Old Dominion,George DiCamillo,20426,Virginia
+2016,11/13,Virginia - Ohio State Dual,133,L,DEC,8 - 7,Johnni DiJulius,14679,Ohio State,George DiCamillo,20426,Virginia
+2016,11/07,Virginia - South Dakota State Dual,133,W,MD,13 - 5,Brance Simms,11703,South Dakota State,George DiCamillo,20426,Virginia
+2016,11/07,Virginia - Minnesota Dual,133,W,FALL,4:41,Sam Brancale,13257,Minnesota,George DiCamillo,20426,Virginia
+2016,11/06,Virginia - North Dakota State Dual,133,W,MD,16 - 6,Nicholas O'Brien,21470,North Dakota State,George DiCamillo,20426,Virginia
+2016,11/01,Clarion Open,133,W,TF5,15 - 0 4:25,Scott Lopez,41310,Wheeling,George DiCamillo,20426,Virginia
+2016,11/01,Clarion Open,133,W,TF5,17 - 2 7:00,Michael Bartolo,40462,Clarion,George DiCamillo,20426,Virginia
+2016,11/01,Clarion Open,133,W,FALL,2:19,Kyle Greenwald,19785,Clarion,George DiCamillo,20426,Virginia
+2016,11/01,Clarion Open,133,W,FALL,0:43,Lewis Williams,40291,Lock Haven,George DiCamillo,20426,Virginia
+2016,11/01,Clarion Open,133,W,FALL,4:01,Robert Rehm,21101,Lock Haven,George DiCamillo,20426,Virginia
+2016,03/06,ACC Championships,141,L,MD,8 - 0,Joey Ward,11615,North Carolina,Justin Van Hoose,11810,Virginia
+2016,03/06,ACC Championships,141,L,MD,13 - 3,Zach Finesilver,19862,Duke,Justin Van Hoose,11810,Virginia
+2016,02/19,Virginia - Pittsburgh Dual,141,W,DEC,11 - 4,Mike Racciato,13823,Pittsburgh,Justin Van Hoose,11810,Virginia
+2016,02/06,North Carolina - Virginia Dual,141,L,TF5,16 - 0 2:56,Joey Ward,11615,North Carolina,Zachary Watson,40812,Virginia
+2016,02/05,Duke - Virginia Dual,141,L,DEC,8 - 3,Zach Finesilver,19862,Duke,Zachary Watson,40812,Virginia
+2016,01/31,Virginia Tech - Virginia Dual,141,L,MD,14 - 3,Solomon Chishko,20440,Virginia Tech,Zachary Watson,40812,Virginia
+2016,01/17,Virginia - North Carolina State Dual,141,L,MD,10 - 0,Kevin Jack,20130,NC State,Zachary Watson,40812,Virginia
+2016,11/15,Old Dominion - Virginia Dual,141,L,DEC,4 - 0,Chris Mecate,11835,Old Dominion,Zachary Watson,40812,Virginia
+2016,11/13,Virginia - Ohio State Dual,141,L,MD,19 - 8,Micah Jordan,20557,Ohio State,Zachary Watson,40812,Virginia
+2016,11/07,Virginia - South Dakota State Dual,141,W,DEC,8 - 3,Seth Gross,19949,South Dakota State,Zachary Watson,40812,Virginia
+2016,11/07,Virginia - Minnesota Dual,141,L,MD,15 - 4,Thomas Thorn,21082,Minnesota,Zachary Watson,40812,Virginia
+2016,11/06,Virginia - North Dakota State Dual,141,W,DEC,11 - 5,Mitchell Friedman,11668,North Dakota State,Zachary Watson,40812,Virginia
+2016,11/01,Clarion Open,141,W,TF5,17 - 0 7:00,Justin Smith,41312,Seton Hill,Zachary Watson,40812,Virginia
+2016,11/01,Clarion Open,141,W,FALL,2:24,Tanner Stephens,20287,Old Dominion,Zachary Watson,40812,Virginia
+2016,11/01,Clarion Open,141,W,DEC,9 - 6,Ronnie Perry,12058,Lock Haven,Zachary Watson,40812,Virginia
+2016,02/14,Chattanooga - Virginia Dual,141,L,MD,10 - 0,Michael Pongracz,11726,Chattanooga,Emilio Martinez,11985,Virginia
+2016,01/08,VMI - Virginia Dual,141,W,MD,11 - 2,Hunter Starner,20701,VMI,Emilio Martinez,11985,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,141,L,DEC,12 - 8,Robert Mathers,40849,Arizona State,Emilio Martinez,11985,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,141,L,FALL,5:33,Dante Rodriguez,19964,Iowa State,Emilio Martinez,11985,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,141,W,FALL,2:08,Jamel Hudson,12024,Hofstra,Emilio Martinez,11985,Virginia
+2016,11/22,Mat Town Open,141,W,FALL,3:35,Matt Liggett,19781,Clarion,Emilio Martinez,11985,Virginia
+2016,11/22,Mat Town Open,141,L,DEC,8 - 2,Joe Ghione,20590,Lock Haven,Emilio Martinez,11985,Virginia
+2016,11/22,Mat Town Open,141,L,TF5,25 - 10 7:00,Ronnie Perry,12058,Lock Haven,Emilio Martinez,11985,Virginia
+2016,11/01,Clarion Open,141,W,MD,12 - 2,Spencer Rich,41294,United States Military Academy,Emilio Martinez,11985,Virginia
+2016,11/01,Clarion Open,141,L,DEC,10 - 8,Noah Hanau,41273,United States Military Academy,Emilio Martinez,11985,Virginia
+2016,11/01,Clarion Open,141,L,DEC,8 - 5,Chance Driscoll,11980,Kent State,Emilio Martinez,11985,Virginia
+2016,01/16,Shorty Hitchcock Classic,141,L,FALL,4:15,Patrick Quinlan,20543,Franklin & Marshall,Samuel Krivus,43190,Virginia
+2016,01/01,Southern Scuffle,141,W,MD,11 - 2,Sean Cannon,40053,Northern Colorado,Samuel Krivus,43190,Virginia
+2016,01/01,Southern Scuffle,141,L,DEC,5 - 1,Nicholas Gil,40255,Navy,Samuel Krivus,43190,Virginia
+2016,01/01,Southern Scuffle,141,L,DEC,4 - 2,Michael Carlone,11736,Cleveland State,Samuel Krivus,43190,Virginia
+2016,12/06,Nittany Lion Open,141,W,TF5,15 - 0 4:56,Ronald Smith,43206,Pennsylvania College of Technology,Samuel Krivus,43190,Virginia
+2016,12/06,Nittany Lion Open,141,W,MD,12 - 1,Mike Russo,42009,Spartan Combat RTC,Samuel Krivus,43190,Virginia
+2016,12/06,Nittany Lion Open,141,W,DEC,6 - 1,Christian Monserrat,20473,West Virginia,Samuel Krivus,43190,Virginia
+2016,12/06,Nittany Lion Open,141,W,DEC,9 - 2,Anthony Tutolo,19968,Kent State,Samuel Krivus,43190,Virginia
+2016,12/06,Nittany Lion Open,141,L,DEC,3 - 2,Kade Moss,15933,Penn State,Samuel Krivus,43190,Virginia
+2016,12/06,Nittany Lion Open,141,L,DEC,5 - 3,Jimmy Gulibon,13371,Penn State,Samuel Krivus,43190,Virginia
+2016,12/06,Nittany Lion Open,141,W,MFOR,0 - 0,Gary Dinmore,23397,Penn State,Samuel Krivus,43190,Virginia
+2016,11/22,Mat Town Open,141,W,DEC,4 - 0,Dom Giannangeli,40063,Penn State,Samuel Krivus,43190,Virginia
+2016,11/22,Mat Town Open,141,L,DEC,8 - 3,Matt Kolodzik,45071,Unattached,Samuel Krivus,43190,Virginia
+2016,11/22,Mat Town Open,141,W,MD,10 - 1,Russell Feye,39767,Sacred Heart,Samuel Krivus,43190,Virginia
+2016,11/22,Mat Town Open,141,W,DEC,7 - 0,Joe Ghione,20590,Lock Haven,Samuel Krivus,43190,Virginia
+2016,11/22,Mat Town Open,141,W,DEC,3 - 1,Joe Ghione,20590,Lock Haven,Samuel Krivus,43190,Virginia
+2016,11/08,Hokie Open,141,W,DEC,6 - 1,Tyler Scotton,11938,American,Samuel Krivus,43190,Virginia
+2016,11/08,Hokie Open,141,L,TF5,20 - 3 7:00,Zach Finesilver,19862,Duke,Samuel Krivus,43190,Virginia
+2016,11/08,Hokie Open,141,L,DEC,8 - 6,Joe Moita,15803,Columbia,Samuel Krivus,43190,Virginia
+2016,11/01,Clarion Open,141,W,DEC,4 - 0,George Weber,21024,Notre Dame,Samuel Krivus,43190,Virginia
+2016,11/01,Clarion Open,141,W,INJ,7:00,Ben Hutchins,20428,Virginia,Samuel Krivus,43190,Virginia
+2016,11/01,Clarion Open,141,L,DEC,6 - 1,Brock Zacherl,19787,Clarion,Samuel Krivus,43190,Virginia
+2016,11/01,Clarion Open,141,W,DEC,5 - 1,Grant Bond,40304,Bloomsburg,Samuel Krivus,43190,Virginia
+2016,11/01,Clarion Open,141,W,DEC,10 - 4,Jayce Carr,11983,Cleveland State,Samuel Krivus,43190,Virginia
+2016,11/01,Clarion Open,141,L,INJ,7:00,Samuel Krivus,43190,Virginia,Ben Hutchins,20428,Virginia
+2016,11/22,Mat Town Open,141,L,FALL,6:26,Zach Finesilver,19862,Duke,Brent Waterman,42853,Virginia
+2016,03/06,ACC Championships,149,W,SV-1,8 - 6,Beau Donahue,11933,NC State,Chris Yankowich,13786,Virginia
+2016,03/06,ACC Championships,149,W,DEC,4 - 3,Robert Lee,39975,Pittsburgh,Chris Yankowich,13786,Virginia
+2016,03/06,ACC Championships,149,L,DEC,4 - 0,Evan Henderson,11771,North Carolina,Chris Yankowich,13786,Virginia
+2016,03/06,ACC Championships,149,W,FALL,2:05,Beau Donahue,11933,NC State,Chris Yankowich,13786,Virginia
+2016,02/19,Virginia - Pittsburgh Dual,149,W,DEC,3 - 2,Robert Lee,39975,Pittsburgh,Chris Yankowich,13786,Virginia
+2016,02/14,Chattanooga - Virginia Dual,149,L,DEC,8 - 5,Chase Zemenak,19681,Chattanooga,Chris Yankowich,13786,Virginia
+2016,02/06,North Carolina - Virginia Dual,149,L,FALL,2:25,Evan Henderson,11771,North Carolina,Chris Yankowich,13786,Virginia
+2016,02/05,Duke - Virginia Dual,149,L,DEC,6 - 0,Mitch Finesilver,19861,Duke,Chris Yankowich,13786,Virginia
+2016,01/16,Shorty Hitchcock Classic,149,W,DEC,11 - 4,William Povalac,39531,Rutgers,Chris Yankowich,13786,Virginia
+2016,01/16,Shorty Hitchcock Classic,149,W,DEC,7 - 1,Kyle Shoop,39682,Lock Haven,Chris Yankowich,13786,Virginia
+2016,01/16,Shorty Hitchcock Classic,149,W,DEC,11 - 4,Samuel Butler,19886,Franklin & Marshall,Chris Yankowich,13786,Virginia
+2016,01/01,Southern Scuffle,149,L,MD,18 - 6,Anthony Collica,11723,Oklahoma State,Chris Yankowich,13786,Virginia
+2016,01/01,Southern Scuffle,149,L,DEC,4 - 2,Mark Marchetti,13931,Army West Point,Chris Yankowich,13786,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,149,L,DEC,4 - 1,Tom Page,11812,American,Chris Yankowich,13786,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,149,W,DEC,8 - 4,Alexis Martinez,42553,gateway international bible institute,Chris Yankowich,13786,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,149,L,FALL,5:00,Jake Short,13599,Minnesota,Chris Yankowich,13786,Virginia
+2016,11/22,Mat Town Open,149,L,DEC,4 - 0,Ken Theobold,11789,Rutgers,Chris Yankowich,13786,Virginia
+2016,11/22,Mat Town Open,149,W,TB-2,1 - 0,James Dekrone,20467,West Virginia,Chris Yankowich,13786,Virginia
+2016,11/22,Mat Town Open,149,W,MD,12 - 3,Chad Haegele,42008,Kutztown,Chris Yankowich,13786,Virginia
+2016,11/22,Mat Town Open,149,W,DEC,10 - 4,Ryan Lopez,41289,West Virginia,Chris Yankowich,13786,Virginia
+2016,11/22,Mat Town Open,149,W,MD,10 - 1,Samuel Butler,19886,Franklin & Marshall,Chris Yankowich,13786,Virginia
+2016,11/15,Old Dominion - Virginia Dual,149,L,FALL,4:07,Alexander Richardson,13802,Old Dominion,Chris Yankowich,13786,Virginia
+2016,01/16,Shorty Hitchcock Classic,165,W,MFOR,0 - 0,Willie Scott,39861,Rutgers,Cameron Harrell,39705,Virginia
+2016,01/16,Shorty Hitchcock Classic,165,W,DEC,10 - 5,Joey Krulock,12790,Bucknell,Cameron Harrell,39705,Virginia
+2016,01/16,Shorty Hitchcock Classic,165,L,DEC,2 - 0,Cole Walter,39722,Lehigh,Cameron Harrell,39705,Virginia
+2016,01/16,Shorty Hitchcock Classic,165,L,FALL,5:26,Jordan Pagano,20304,Rutgers,Cameron Harrell,39705,Virginia
+2016,01/01,Southern Scuffle,157,W,DEC,5 - 4,John Vaughn,40905,Cleveland State,Cameron Harrell,39705,Virginia
+2016,01/01,Southern Scuffle,157,L,FALL,3:56,Joe Smith,39786,Oklahoma State,Cameron Harrell,39705,Virginia
+2016,01/01,Southern Scuffle,157,L,DEC,11 - 9,Jordan Amine,20551,Michigan,Cameron Harrell,39705,Virginia
+2016,12/06,Nittany Lion Open,157,L,INJ,7:00,Ben Heyob,40178,Kent State,Cameron Harrell,39705,Virginia
+2016,12/06,Nittany Lion Open,157,L,DEC,6 - 2,Zach Elvin,43194,US Naval Academy Prep School,Cameron Harrell,39705,Virginia
+2016,12/06,Nittany Lion Open,157,W,DEC,9 - 3,Patrick Gerish,20005,Maryland,Cameron Harrell,39705,Virginia
+2016,11/01,Clarion Open,157,W,DEC,10 - 3,Terrell Forbes,12362,Old Dominion,Cameron Harrell,39705,Virginia
+2016,11/01,Clarion Open,157,W,DEC,10 - 7,Austin Eads,13790,Old Dominion,Cameron Harrell,39705,Virginia
+2016,11/01,Clarion Open,157,L,MD,11 - 2,Andrew Atkinson,11982,Virginia,Cameron Harrell,39705,Virginia
+2016,11/01,Clarion Open,157,W,DEC,6 - 4,Spencer Nagy,40444,Edinboro,Cameron Harrell,39705,Virginia
+2016,11/01,Clarion Open,157,W,DEC,5 - 3,Spencer Nagy,40444,Edinboro,Cameron Harrell,39705,Virginia
+2016,11/01,Clarion Open,157,W,DEC,8 - 2,Kevin Laubach,19674,Bloomsburg,Cameron Harrell,39705,Virginia
+2016,11/01,Clarion Open,157,W,DEC,4 - 2,Brendon Colbert,19667,Bloomsburg,Cameron Harrell,39705,Virginia
+2016,02/19,Virginia - Pittsburgh Dual,174,L,FALL,3:21,Te'Shan Campbell,40351,Pittsburgh,Drew Hull,13919,Virginia
+2016,01/17,Virginia - North Carolina State Dual,165,L,FALL,2:22,Max Rohskopf,13645,NC State,Drew Hull,13919,Virginia
+2016,03/17,NCAA Championships,157,L,DEC,7 - 3,Richie Lewis,40042,Rutgers,Andrew Atkinson,11982,Virginia
+2016,03/17,NCAA Championships,157,L,DEC,2 - 1,Spartak Chino,13542,Ohio,Andrew Atkinson,11982,Virginia
+2016,03/06,ACC Championships,157,L,FALL,3:38,Robert Henderson,14761,North Carolina,Andrew Atkinson,11982,Virginia
+2016,03/06,ACC Championships,157,W,TF5,17 - 0 4:48,Ronnie Garbinsky,15349,Pittsburgh,Andrew Atkinson,11982,Virginia
+2016,03/06,ACC Championships,157,L,DEC,6 - 4,Nick Brascetta,14786,Virginia Tech,Andrew Atkinson,11982,Virginia
+2016,02/19,Virginia - Pittsburgh Dual,157,W,MD,11 - 1,Ronnie Garbinsky,15349,Pittsburgh,Andrew Atkinson,11982,Virginia
+2016,02/14,Chattanooga - Virginia Dual,157,W,TF5,18 - 2 4:32,Andrew Webb,39820,Chattanooga,Andrew Atkinson,11982,Virginia
+2016,02/06,North Carolina - Virginia Dual,157,W,MD,12 - 2,Robert Henderson,14761,North Carolina,Andrew Atkinson,11982,Virginia
+2016,02/05,Duke - Virginia Dual,157,W,DEC,9 - 3,Connor Bass,13712,Duke,Andrew Atkinson,11982,Virginia
+2016,01/31,Virginia Tech - Virginia Dual,157,L,SV-1,11 - 9,Nick Brascetta,14786,Virginia Tech,Andrew Atkinson,11982,Virginia
+2016,01/17,Virginia - North Carolina State Dual,157,L,DEC,11 - 9,Thomas Gantt,40196,NC State,Andrew Atkinson,11982,Virginia
+2016,01/08,VMI - Virginia Dual,157,W,MD,16 - 2,Neal Richards,39991,VMI,Andrew Atkinson,11982,Virginia
+2016,01/01,Southern Scuffle,157,L,DEC,11 - 5,Robert Henderson,14761,North Carolina,Andrew Atkinson,11982,Virginia
+2016,01/01,Southern Scuffle,157,L,SV-1,3 - 2,Kamaal Shakur,19778,Chattanooga,Andrew Atkinson,11982,Virginia
+2016,01/01,Southern Scuffle,157,W,DEC,12 - 10,Zachary Stepan,41449,Air Force,Andrew Atkinson,11982,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,157,L,DEC,5 - 3,Dylan Cottrell,14019,West Virginia,Andrew Atkinson,11982,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,157,W,TF5,15 - 0 3:30,Alex Aguilar,43286,North Idaho College,Andrew Atkinson,11982,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,157,W,DEC,3 - 2,Abraham Rodriquez,42226,Oregon State,Andrew Atkinson,11982,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,157,W,TF5,15 - 0 2:54,Luke Fortuna,39654,Missouri,Andrew Atkinson,11982,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,157,W,DEC,8 - 2,Chris Dowdy,15303,Cornell,Andrew Atkinson,11982,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,157,L,DEC,4 - 2,Chris Castillo,14014,Boise State,Andrew Atkinson,11982,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,157,W,DEC,12 - 3,Chase White,24344,Nebraska-Kearney,Andrew Atkinson,11982,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,157,W,DEC,6 - 0,Markus Scheidel,13741,Columbia,Andrew Atkinson,11982,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,157,W,MD,12 - 0,Bryce Steiert,39504,Northern Iowa,Andrew Atkinson,11982,Virginia
+2016,11/15,Old Dominion - Virginia Dual,157,W,DEC,10 - 4,Austin Eads,13790,Old Dominion,Andrew Atkinson,11982,Virginia
+2016,11/13,Virginia - Ohio State Dual,157,L,DEC,3 - 2,Jake Ryan,20252,Ohio State,Andrew Atkinson,11982,Virginia
+2016,11/07,Virginia - South Dakota State Dual,157,W,DEC,7 - 4,Cody Pack,13498,South Dakota State,Andrew Atkinson,11982,Virginia
+2016,11/07,Virginia - Minnesota Dual,157,W,SV-1,6 - 4,Jack Bass,20031,Minnesota,Andrew Atkinson,11982,Virginia
+2016,11/06,Virginia - North Dakota State Dual,157,W,MD,12 - 3,Clay Ream,13748,North Dakota State,Andrew Atkinson,11982,Virginia
+2016,11/01,Clarion Open,157,W,FALL,2:59,Tevin Mostoller,41313,Pitt-Johnstown,Andrew Atkinson,11982,Virginia
+2016,11/01,Clarion Open,157,W,MD,11 - 2,Cameron Harrell,39705,Virginia,Andrew Atkinson,11982,Virginia
+2016,11/01,Clarion Open,157,W,DEC,7 - 0,Austin Eads,13790,Old Dominion,Andrew Atkinson,11982,Virginia
+2016,11/01,Clarion Open,157,W,MD,11 - 0,Ryan Dougherty,20744,Bloomsburg,Andrew Atkinson,11982,Virginia
+2016,11/01,Clarion Open,157,W,DEC,4 - 0,Aaron McKinney,14815,Lock Haven,Andrew Atkinson,11982,Virginia
+2016,01/16,Shorty Hitchcock Classic,157,L,DEC,11 - 5,Alex Klucker,40289,Lock Haven,Michael Roberson,20918,Virginia
+2016,12/30,Franklin & Marshall Open,157,W,DEC,6 - 5,Tj Duncan,43499,Shorter,Michael Roberson,20918,Virginia
+2016,12/30,Franklin & Marshall Open,157,L,DEC,12 - 8,Danny Boychuck,39658,Maryland,Michael Roberson,20918,Virginia
+2016,12/30,Franklin & Marshall Open,157,L,DEC,10 - 3,Justin Alexander,11801,Maryland,Michael Roberson,20918,Virginia
+2016,12/30,Franklin & Marshall Open,157,W,DEC,3 - 2,Michael Marano,19890,Franklin & Marshall,Michael Roberson,20918,Virginia
+2016,12/06,Nittany Lion Open,157,L,MD,12 - 4,Adam Krop,11814,Princeton,Michael Roberson,20918,Virginia
+2016,12/06,Nittany Lion Open,157,W,FALL,1:59,Aarif Asif,43221,Unattached,Michael Roberson,20918,Virginia
+2016,12/06,Nittany Lion Open,157,L,DEC,9 - 4,Taylor Simaz,13490,Cornell,Michael Roberson,20918,Virginia
+2016,11/22,Mat Town Open,157,L,DEC,6 - 5,Morgan Way,39932,Clarion,Michael Roberson,20918,Virginia
+2016,11/22,Mat Town Open,157,L,MD,15 - 1,Andrew Shomers,39642,Edinboro,Michael Roberson,20918,Virginia
+2016,11/01,Clarion Open,157,W,DEC,10 - 4,Tevin Mostoller,41313,Pitt-Johnstown,Michael Roberson,20918,Virginia
+2016,11/01,Clarion Open,157,L,DEC,5 - 3,Andrew Shomers,39642,Edinboro,Michael Roberson,20918,Virginia
+2016,11/01,Clarion Open,157,L,DEC,6 - 4,Ryan Dougherty,20744,Bloomsburg,Michael Roberson,20918,Virginia
+2016,03/06,ACC Championships,165,L,MD,12 - 4,John Michael Staudenmayer,11516,North Carolina,Garrett Peppelman,20431,Virginia
+2016,03/06,ACC Championships,165,L,DEC,11 - 4,Jake Faust,13643,Duke,Garrett Peppelman,20431,Virginia
+2016,03/06,ACC Championships,165,L,DEC,8 - 4,David McFadden,39633,Virginia Tech,Garrett Peppelman,20431,Virginia
+2016,02/19,Virginia - Pittsburgh Dual,165,L,DEC,12 - 6,Cody Wiercioch,14845,Pittsburgh,Garrett Peppelman,20431,Virginia
+2016,02/14,Chattanooga - Virginia Dual,165,W,DEC,19 - 13,Dominic Lampe,39819,Chattanooga,Garrett Peppelman,20431,Virginia
+2016,02/06,North Carolina - Virginia Dual,165,L,TF5,16 - 0 4:21,John Michael Staudenmayer,11516,North Carolina,Garrett Peppelman,20431,Virginia
+2016,01/31,Virginia Tech - Virginia Dual,165,L,MD,11 - 3,David McFadden,39633,Virginia Tech,Garrett Peppelman,20431,Virginia
+2016,01/01,Southern Scuffle,165,L,DEC,4 - 2,Jim Wilson,11535,Stanford,Garrett Peppelman,20431,Virginia
+2016,01/01,Southern Scuffle,165,W,TF5,16 - 0 2:24,Dean Vettese,22446,Michigan State,Garrett Peppelman,20431,Virginia
+2016,01/01,Southern Scuffle,165,W,TF5,16 - 0 2:17,Drew Barnes,20750,Michigan State,Garrett Peppelman,20431,Virginia
+2016,01/01,Southern Scuffle,165,L,MD,12 - 0,Brandon Krone,20038,Minnesota,Garrett Peppelman,20431,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,165,W,DEC,10 - 3,Tyler McNutt,20765,North Dakota State,Garrett Peppelman,20431,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,165,L,DEC,5 - 3,Brandon Krone,20038,Minnesota,Garrett Peppelman,20431,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,165,L,DEC,3 - 0,Justin Kresevic,14838,Ohio State,Garrett Peppelman,20431,Virginia
+2016,11/22,Mat Town Open,165,W,DEC,4 - 3,Jordan Pagano,20304,Rutgers,Garrett Peppelman,20431,Virginia
+2016,11/22,Mat Town Open,165,W,TF5,16 - 0 7:00,Dustin Roemer,16216,Virginia,Garrett Peppelman,20431,Virginia
+2016,11/22,Mat Town Open,165,L,DEC,10 - 6,Ty Schoffstall,15353,Edinboro,Garrett Peppelman,20431,Virginia
+2016,11/22,Mat Town Open,165,W,DEC,11 - 7,Jordan Pagano,20304,Rutgers,Garrett Peppelman,20431,Virginia
+2016,11/22,Mat Town Open,165,W,MD,13 - 3,Zachary Spira,19855,Drexel,Garrett Peppelman,20431,Virginia
+2016,11/15,Old Dominion - Virginia Dual,165,L,DEC,9 - 5,Seldon Wright,39604,Old Dominion,Garrett Peppelman,20431,Virginia
+2016,11/13,Virginia - Ohio State Dual,165,W,DEC,5 - 3,Justin Kresevic,14838,Ohio State,Garrett Peppelman,20431,Virginia
+2016,11/07,Virginia - South Dakota State Dual,165,W,SV-2,7 - 5,Luke Zilverberg,13633,South Dakota State,Garrett Peppelman,20431,Virginia
+2016,11/07,Virginia - Minnesota Dual,165,L,DEC,3 - 2,Dylan Urbach,20050,Minnesota,Garrett Peppelman,20431,Virginia
+2016,11/06,Virginia - North Dakota State Dual,165,W,TF5,19 - 0 2:05,Tyler McNutt,20765,North Dakota State,Garrett Peppelman,20431,Virginia
+2016,11/01,Clarion Open,165,W,TF5,17 - 2 7:00,Elisha Hays,41315,Notre Dame,Garrett Peppelman,20431,Virginia
+2016,11/01,Clarion Open,165,W,TF5,26 - 7 7:00,Sam Williams,41314,United States Military Academy,Garrett Peppelman,20431,Virginia
+2016,11/01,Clarion Open,165,W,MFOR,0 - 0,Zak DePasquale,20425,Virginia,Garrett Peppelman,20431,Virginia
+2016,11/01,Clarion Open,165,L,DEC,6 - 3,Evan DeLong,19790,Clarion,Garrett Peppelman,20431,Virginia
+2016,11/01,Clarion Open,165,W,DEC,8 - 1,Cody Cordes,39636,Lock Haven,Garrett Peppelman,20431,Virginia
+2016,01/16,Shorty Hitchcock Classic,174,W,FALL,7:00,Blaise Benderoth,39987,Binghamton,Corbin Allen,39719,Virginia
+2016,01/16,Shorty Hitchcock Classic,133,W,FALL,7:23,Blaise Benderoth,39987,Binghamton,Corbin Allen,39719,Virginia
+2016,12/30,Franklin & Marshall Open,174,L,TB-1,2 - 1,Wally Figaro,23446,Shorter,Corbin Allen,39719,Virginia
+2016,12/30,Franklin & Marshall Open,174,W,FALL,0:15,Andrew Price,39648,Lehigh,Corbin Allen,39719,Virginia
+2016,12/30,Franklin & Marshall Open,174,L,DEC,7 - 2,Gordon Wolf,19992,Lehigh,Corbin Allen,39719,Virginia
+2016,12/30,Franklin & Marshall Open,174,W,DEC,10 - 8,Robert Winning,12872,Navy,Corbin Allen,39719,Virginia
+2016,12/30,Franklin & Marshall Open,174,W,FALL,2:49,Spencer Kiehm,19915,Harvard,Corbin Allen,39719,Virginia
+2016,01/31,Virginia Tech - Virginia Dual,149,L,FALL,5:42,Sal Mastriani,13766,Virginia Tech,TJ Miller,13827,Virginia
+2016,01/17,Virginia - North Carolina State Dual,149,L,DEC,9 - 6,Beau Donahue,11933,NC State,TJ Miller,13827,Virginia
+2016,01/08,VMI - Virginia Dual,149,W,DEC,6 - 1,Darren Ostrander,39982,VMI,TJ Miller,13827,Virginia
+2016,01/01,Southern Scuffle,149,L,DEC,6 - 0,Evan Henderson,11771,North Carolina,TJ Miller,13827,Virginia
+2016,01/01,Southern Scuffle,149,W,SV-1,8 - 3,Zach Shareef,39565,Chattanooga,TJ Miller,13827,Virginia
+2016,01/01,Southern Scuffle,149,L,DEC,3 - 2,Laike Gardner,11748,Lehigh,TJ Miller,13827,Virginia
+2016,01/01,Southern Scuffle,149,W,DEC,6 - 5,Jake Elliott,14663,Wyoming,TJ Miller,13827,Virginia
+2016,01/01,Southern Scuffle,149,W,DEC,13 - 6,Mark Marchetti,13931,Army West Point,TJ Miller,13827,Virginia
+2016,11/13,Virginia - Ohio State Dual,149,L,FALL,4:06,Cody Burcher,20243,Ohio State,TJ Miller,13827,Virginia
+2016,11/07,Virginia - South Dakota State Dual,149,L,DEC,7 - 6,Alex Kocer,20562,South Dakota State,TJ Miller,13827,Virginia
+2016,11/07,Virginia - Minnesota Dual,149,W,DEC,15 - 9,Miles Patton,40129,Minnesota,TJ Miller,13827,Virginia
+2016,11/06,Virginia - North Dakota State Dual,149,L,SV-1,7 - 5,Mitch Bengtson,11619,North Dakota State,TJ Miller,13827,Virginia
+2016,11/01,Clarion Open,149,W,DEC,6 - 4,Luke Weiland,41243,United States Military Academy,TJ Miller,13827,Virginia
+2016,11/01,Clarion Open,149,W,FALL,0:45,Travis Shaffer,41288,Pitt-Johnstown,TJ Miller,13827,Virginia
+2016,11/01,Clarion Open,149,W,DEC,6 - 5,Isaac Dulgarian,41301,Notre Dame,TJ Miller,13827,Virginia
+2016,11/01,Clarion Open,149,W,DEC,5 - 2,Nick Montgomery,18225,Cleveland State,TJ Miller,13827,Virginia
+2016,11/01,Clarion Open,149,W,FALL,6:14,Kyle Shoop,39682,Lock Haven,TJ Miller,13827,Virginia
+2016,01/08,VMI - Virginia Dual,165,L,DEC,11 - 8,Shabaka Johns,13778,VMI,Dustin Roemer,16216,Virginia
+2016,12/06,Nittany Lion Open,165,W,DEC,16 - 10,Chase Gallik,39677,Lehigh,Dustin Roemer,16216,Virginia
+2016,12/06,Nittany Lion Open,165,L,DEC,14 - 13,Fritz Hoehn,39762,Edinboro,Dustin Roemer,16216,Virginia
+2016,12/06,Nittany Lion Open,165,L,FALL,1:25,Max Elling,39877,Columbia,Dustin Roemer,16216,Virginia
+2016,12/06,Nittany Lion Open,165,W,DEC,10 - 3,Mikey Simmons,14812,Rutgers,Dustin Roemer,16216,Virginia
+2016,11/22,Mat Town Open,165,W,DEC,4 - 0,Willie Scott,39861,Rutgers,Dustin Roemer,16216,Virginia
+2016,11/22,Mat Town Open,165,W,FALL,2:44,Nathan Hall,39876,Pittsburgh,Dustin Roemer,16216,Virginia
+2016,11/22,Mat Town Open,165,L,DEC,14 - 10,Caleb Livingston,13876,Penn State,Dustin Roemer,16216,Virginia
+2016,11/22,Mat Town Open,165,L,TF5,16 - 0 7:00,Garrett Peppelman,20431,Virginia,Dustin Roemer,16216,Virginia
+2016,11/22,Mat Town Open,165,W,FALL,4:04,Dom Lincalis,23400,Lock Haven,Dustin Roemer,16216,Virginia
+2016,11/01,Clarion Open,157,W,DEC,4 - 0,Devin Austin,41223,Pitt-Johnstown,Dustin Roemer,16216,Virginia
+2016,11/01,Clarion Open,157,L,DEC,8 - 6,Spencer Nagy,40444,Edinboro,Dustin Roemer,16216,Virginia
+2016,11/01,Clarion Open,157,L,TF5,15 - 0 3:00,Chas Busz,11902,Cleveland State,Dustin Roemer,16216,Virginia
+2016,11/22,Mat Town Open,165,L,INJ,7:00,Rob King,14814,Franklin & Marshall,Zak DePasquale,20425,Virginia
+2016,11/22,Mat Town Open,165,L,MFOR,0 - 0,Demetri Probst,40288,Lock Haven,Zak DePasquale,20425,Virginia
+2016,11/01,Clarion Open,165,W,DEC,8 - 6,Tim Harman,41295,US Naval Academy Prep School,Zak DePasquale,20425,Virginia
+2016,11/01,Clarion Open,165,L,MFOR,0 - 0,Garrett Peppelman,20431,Virginia,Zak DePasquale,20425,Virginia
+2016,11/01,Clarion Open,165,L,MFOR,0 - 0,Kenny Long,41248,US Naval Academy Prep School,Zak DePasquale,20425,Virginia
+2016,11/22,Mat Town Open,165,L,DEC,4 - 2,Michael Wright,15494,Duke,Paul Kalafos,42855,Virginia
+2016,03/06,ACC Championships,174,W,DEC,5 - 3,Nicky Hall,20129,NC State,Tyler Askey,12657,Virginia
+2016,03/06,ACC Championships,174,L,MD,14 - 5,Ethan Ramos,14560,North Carolina,Tyler Askey,12657,Virginia
+2016,03/06,ACC Championships,174,W,DEC,4 - 1,Nicky Hall,20129,NC State,Tyler Askey,12657,Virginia
+2016,03/06,ACC Championships,174,W,MD,12 - 3,Alec Schenk,19869,Duke,Tyler Askey,12657,Virginia
+2016,02/19,Virginia - Pittsburgh Dual,184,W,MD,13 - 3,Zach Bruce,20321,Pittsburgh,Tyler Askey,12657,Virginia
+2016,02/14,Chattanooga - Virginia Dual,174,W,DEC,7 - 3,Sean Mappes,19775,Chattanooga,Tyler Askey,12657,Virginia
+2016,02/06,North Carolina - Virginia Dual,174,L,MD,12 - 0,Ethan Ramos,14560,North Carolina,Tyler Askey,12657,Virginia
+2016,02/05,Duke - Virginia Dual,174,W,DEC,8 - 3,Brian Dorsey,14869,Duke,Tyler Askey,12657,Virginia
+2016,01/31,Virginia Tech - Virginia Dual,174,L,MD,15 - 5,Zach Epperly,12258,Virginia Tech,Tyler Askey,12657,Virginia
+2016,01/17,Virginia - North Carolina State Dual,184,L,FALL,2:09,Pete Renda,12371,NC State,Tyler Askey,12657,Virginia
+2016,01/01,Southern Scuffle,184,L,DEC,10 - 4,Ville Heino,12518,Campbell,Tyler Askey,12657,Virginia
+2016,01/01,Southern Scuffle,184,L,DEC,3 - 2,Alex Utley,12621,North Carolina,Tyler Askey,12657,Virginia
+2016,01/01,Southern Scuffle,184,W,DEC,8 - 5,Austin Severn,12293,Central Michigan,Tyler Askey,12657,Virginia
+2016,01/01,Southern Scuffle,184,W,TF5,16 - 0 3:47,Nick Corba,12817,Cleveland State,Tyler Askey,12657,Virginia
+2016,12/06,Nittany Lion Open,184,W,MFOR,0 - 0,Josh Llopez,43202,Unattached,Tyler Askey,12657,Virginia
+2016,12/06,Nittany Lion Open,184,W,TF5,15 - 0 1:34,Caleb Stockmaster,40177,Kent State,Tyler Askey,12657,Virginia
+2016,12/06,Nittany Lion Open,184,W,TF5,15 - 0 2:38,Jon Schmissrauter,41317,United States Military Academy,Tyler Askey,12657,Virginia
+2016,12/06,Nittany Lion Open,184,W,DEC,5 - 4,Jack Rozema,12582,Ohio State,Tyler Askey,12657,Virginia
+2016,12/06,Nittany Lion Open,184,L,DEC,4 - 1,Corey Hazel,39756,Lock Haven,Tyler Askey,12657,Virginia
+2016,12/06,Nittany Lion Open,184,W,MFOR,0 - 0,Adam Mackie,12802,Lock Haven,Tyler Askey,12657,Virginia
+2016,12/06,Nittany Lion Open,184,L,DEC,5 - 0,Kellan Stout,39528,Penn State,Tyler Askey,12657,Virginia
+2016,12/06,Nittany Lion Open,184,W,MFOR,0 - 0,Matt McCutcheon,12572,Penn State,Tyler Askey,12657,Virginia
+2016,11/22,Mat Town Open,184,L,DEC,6 - 4,Anthony Messner,12564,Rutgers,Tyler Askey,12657,Virginia
+2016,11/22,Mat Town Open,184,L,DEC,6 - 2,Kellan Stout,39528,Penn State,Tyler Askey,12657,Virginia
+2016,11/22,Mat Town Open,184,W,DEC,10 - 4,Dylan Dailey,12748,Penn State,Tyler Askey,12657,Virginia
+2016,11/15,Old Dominion - Virginia Dual,184,L,MD,14 - 2,Jack Dechow,12476,Old Dominion,Tyler Askey,12657,Virginia
+2016,11/13,Virginia - Ohio State Dual,184,L,DEC,11 - 5,Kenny Courts,12279,Ohio State,Tyler Askey,12657,Virginia
+2016,11/07,Virginia - Minnesota Dual,184,L,DEC,13 - 10,Chris Pfarr,11524,Minnesota,Tyler Askey,12657,Virginia
+2016,02/05,Duke - Virginia Dual,165,L,DEC,16 - 12,Jake Faust,13643,Duke,Fox Baldwin,39716,Virginia
+2016,01/17,Virginia - North Carolina State Dual,174,L,TF5,17 - 2 5:00,Nicky Hall,20129,NC State,Fox Baldwin,39716,Virginia
+2016,01/08,VMI - Virginia Dual,174,W,FALL,1:21,Calvin Lawson,43752,VMI,Fox Baldwin,39716,Virginia
+2016,01/01,Southern Scuffle,174,L,DEC,5 - 3,Ross Renzi,11474,West Virginia,Fox Baldwin,39716,Virginia
+2016,01/01,Southern Scuffle,174,W,DEC,9 - 6,Barrett Walthall,12370,Chattanooga,Fox Baldwin,39716,Virginia
+2016,01/01,Southern Scuffle,174,L,MD,15 - 6,Bo Nickal,20302,Penn State,Fox Baldwin,39716,Virginia
+2016,01/01,Southern Scuffle,174,W,FALL,1:56,Sean Mappes,19775,Chattanooga,Fox Baldwin,39716,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,174,W,MD,17 - 4,Chance Bila,24345,Nebraska-Kearney,Fox Baldwin,39716,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,174,W,DEC,6 - 5,Josef Johnson,19914,Harvard,Fox Baldwin,39716,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,174,L,DEC,10 - 6,Zack Hernandez,12618,Columbia,Fox Baldwin,39716,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,174,L,MD,11 - 3,Jack McKeever,12791,Binghamton,Fox Baldwin,39716,Virginia
+2016,11/15,Old Dominion - Virginia Dual,174,W,DEC,6 - 1,Brooks Climmons,20808,Old Dominion,Fox Baldwin,39716,Virginia
+2016,11/13,Virginia - Ohio State Dual,174,L,TF5,17 - 2 4:34,Bo Jordan,14840,Ohio State,Fox Baldwin,39716,Virginia
+2016,11/07,Virginia - South Dakota State Dual,174,W,DEC,6 - 5,David Kocer,13612,South Dakota State,Fox Baldwin,39716,Virginia
+2016,11/07,Virginia - Minnesota Dual,174,W,DEC,16 - 15,Nick Wanzek,11511,Minnesota,Fox Baldwin,39716,Virginia
+2016,11/06,Virginia - North Dakota State Dual,174,W,TF5,17 - 1 5:35,Blake Thompson,20422,North Dakota State,Fox Baldwin,39716,Virginia
+2016,11/01,Clarion Open,174,W,FALL,4:06,Ryan Patchin,41283,Notre Dame,Fox Baldwin,39716,Virginia
+2016,11/01,Clarion Open,174,W,FALL,1:04,Brennan Coles,41316,Seton Hill,Fox Baldwin,39716,Virginia
+2016,11/01,Clarion Open,174,W,DEC,7 - 6,Ben Harvey,40935,United States Military Academy,Fox Baldwin,39716,Virginia
+2016,11/01,Clarion Open,174,W,MD,17 - 3,Michael Pavasko,14800,Clarion,Fox Baldwin,39716,Virginia
+2016,11/01,Clarion Open,174,W,FALL,2:29,Jerald Spohn,12856,Kent State,Fox Baldwin,39716,Virginia
+2016,12/06,Nittany Lion Open,174,W,TF5,15 - 0 5:55,Quinton Hiles,15028,Pennsylvania,Dom Scalise,20434,Virginia
+2016,12/06,Nittany Lion Open,174,L,DEC,3 - 1,Nick Stephani,40369,Bucknell,Dom Scalise,20434,Virginia
+2016,12/06,Nittany Lion Open,174,W,MD,13 - 3,Josh Young,40386,Franklin & Marshall,Dom Scalise,20434,Virginia
+2016,12/06,Nittany Lion Open,174,L,MD,17 - 4,Brian Brill,40239,Penn State,Dom Scalise,20434,Virginia
+2016,03/06,ACC Championships,184,L,DEC,2 - 1,Alex Utley,12621,North Carolina,Will Schany,20435,Virginia
+2016,03/06,ACC Championships,184,L,DEC,5 - 2,Trey Adamson,12787,Duke,Will Schany,20435,Virginia
+2016,02/14,Chattanooga - Virginia Dual,184,L,DEC,5 - 2,John Lampe,12444,Chattanooga,Will Schany,20435,Virginia
+2016,02/06,North Carolina - Virginia Dual,184,L,MD,11 - 2,Alex Utley,12621,North Carolina,Will Schany,20435,Virginia
+2016,02/05,Duke - Virginia Dual,184,W,DEC,8 - 7,Trey Adamson,12787,Duke,Will Schany,20435,Virginia
+2016,01/31,Virginia Tech - Virginia Dual,184,L,MD,12 - 4,Austin Gabel,12396,Virginia Tech,Will Schany,20435,Virginia
+2016,01/08,VMI - Virginia Dual,184,W,MD,16 - 7,Derek Thurman,12406,VMI,Will Schany,20435,Virginia
+2016,01/01,Southern Scuffle,184,L,DEC,5 - 3,Anthony McLaughlin,23674,Air Force,Will Schany,20435,Virginia
+2016,01/01,Southern Scuffle,184,W,DEC,6 - 4,Jordan Ellingwood,14564,Central Michigan,Will Schany,20435,Virginia
+2016,01/01,Southern Scuffle,184,L,DEC,15 - 8,Jordan Rogers,12544,Oklahoma State,Will Schany,20435,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,184,W,DEC,9 - 7,Zach Stodden,22201,Nebraska-Kearney,Will Schany,20435,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,184,L,MD,16 - 5,Hayden Zillmer,12280,North Dakota State,Will Schany,20435,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,184,W,TF5,15 - 0 2:53,Xavier Cunningham,43294,gateway international bible institute,Will Schany,20435,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,184,W,MFOR,0 - 0,Dylan Gabel,20186,Northern Colorado,Will Schany,20435,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,184,L,DEC,6 - 4,Steve Schneider,19660,Binghamton,Will Schany,20435,Virginia
+2016,11/22,Mat Town Open,184,L,MD,9 - 1,Kellan Stout,39528,Penn State,Will Schany,20435,Virginia
+2016,11/22,Mat Town Open,184,W,DEC,8 - 4,Devon Van Cura,20306,Penn State,Will Schany,20435,Virginia
+2016,11/22,Mat Town Open,184,W,DEC,5 - 4,Anthony Messner,12564,Rutgers,Will Schany,20435,Virginia
+2016,11/07,Virginia - South Dakota State Dual,184,L,DEC,6 - 4,Brady Ayers,12290,South Dakota State,Will Schany,20435,Virginia
+2016,11/06,Virginia - North Dakota State Dual,184,L,MD,20 - 7,Hayden Zillmer,12280,North Dakota State,Will Schany,20435,Virginia
+2016,11/01,Clarion Open,184,W,FALL,0:48,Tige Woodson,41319,Pennsylvania State University - Dubois,Will Schany,20435,Virginia
+2016,11/01,Clarion Open,184,W,DEC,12 - 5,Conor Murray,22721,Notre Dame,Will Schany,20435,Virginia
+2016,11/01,Clarion Open,184,W,MD,16 - 4,Garrett Smead,23531,Mercyhurst,Will Schany,20435,Virginia
+2016,11/01,Clarion Open,184,L,FALL,7:19,Nick Corba,12817,Cleveland State,Will Schany,20435,Virginia
+2016,11/01,Clarion Open,184,L,DEC,11 - 6,Corey Hazel,39756,Lock Haven,Will Schany,20435,Virginia
+2016,11/22,Mat Town Open,184,L,MD,11 - 3,Anthony Messner,12564,Rutgers,Dustin Floyd,42334,Virginia
+2016,11/22,Mat Town Open,184,L,DEC,6 - 2,Devon Van Cura,20306,Penn State,Dustin Floyd,42334,Virginia
+2016,03/17,NCAA Championships,197,L,DEC,2 - 1,Jared Haught,13085,Virginia Tech,Zach Nye,13160,Virginia
+2016,03/17,NCAA Championships,197,L,MD,15 - 1,Brett Pfarr,12441,Minnesota,Zach Nye,13160,Virginia
+2016,03/17,NCAA Championships,197,W,DEC,6 - 3,Anthony Abro,12495,Eastern Michigan,Zach Nye,13160,Virginia
+2016,03/17,NCAA Championships,197,W,DEC,8 - 2,Owen Scott,12799,Cornell,Zach Nye,13160,Virginia
+2016,03/06,ACC Championships,197,L,SV-1,3 - 1,Michael Boykin,20123,NC State,Zach Nye,13160,Virginia
+2016,03/06,ACC Championships,197,W,DEC,8 - 2,Chip Ness,20118,North Carolina,Zach Nye,13160,Virginia
+2016,03/06,ACC Championships,197,W,TB-2,4 - 3,Nick Bonaccorsi,13141,Pittsburgh,Zach Nye,13160,Virginia
+2016,03/06,ACC Championships,197,L,DEC,9 - 3,Jared Haught,13085,Virginia Tech,Zach Nye,13160,Virginia
+2016,02/19,Virginia - Pittsburgh Dual,197,W,DEC,3 - 2,Nick Bonaccorsi,13141,Pittsburgh,Zach Nye,13160,Virginia
+2016,02/14,Chattanooga - Virginia Dual,197,L,DEC,7 - 3,Scottie Boykin,12756,Chattanooga,Zach Nye,13160,Virginia
+2016,02/06,North Carolina - Virginia Dual,197,L,DEC,6 - 5,Chip Ness,20118,North Carolina,Zach Nye,13160,Virginia
+2016,02/05,Duke - Virginia Dual,197,L,DEC,4 - 3,Conner Hartmann,13169,Duke,Zach Nye,13160,Virginia
+2016,01/31,Virginia Tech - Virginia Dual,197,W,DEC,8 - 2,Dylan Cook,42820,Virginia Tech,Zach Nye,13160,Virginia
+2016,01/17,Virginia - North Carolina State Dual,197,W,DEC,5 - 3,Michael Boykin,20123,NC State,Zach Nye,13160,Virginia
+2016,01/08,VMI - Virginia Dual,197,W,TF5,19 - 3 6:21,Taylor Thomas,20702,VMI,Zach Nye,13160,Virginia
+2016,01/01,Southern Scuffle,197,W,DEC,6 - 4,Trent Noon,12471,Northern Colorado,Zach Nye,13160,Virginia
+2016,01/01,Southern Scuffle,197,L,FALL,8:30,Jake A Smith,23323,West Virginia,Zach Nye,13160,Virginia
+2016,01/01,Southern Scuffle,197,W,DEC,3 - 1,Michael Woulfe,12693,Navy,Zach Nye,13160,Virginia
+2016,01/01,Southern Scuffle,197,W,DEC,3 - 2,Owen Scott,12799,Cornell,Zach Nye,13160,Virginia
+2016,01/01,Southern Scuffle,197,L,DEC,5 - 0,Conner Hartmann,13169,Duke,Zach Nye,13160,Virginia
+2016,01/01,Southern Scuffle,197,W,DEC,8 - 4,Ben Haas,11564,Lehigh,Zach Nye,13160,Virginia
+2016,01/01,Southern Scuffle,197,W,DEC,6 - 1,John Bolich,13056,Lehigh,Zach Nye,13160,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,197,W,DEC,8 - 6,Marshall Haas,13170,The Citadel,Zach Nye,13160,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,197,L,DEC,9 - 4,Reuben Franklin,13142,CSU Bakersfield,Zach Nye,13160,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,197,W,DEC,10 - 6,Cody Crawford,16468,Oregon State,Zach Nye,13160,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,197,L,DEC,16 - 10,Jared Haught,13085,Virginia Tech,Zach Nye,13160,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,197,W,DEC,5 - 0,Jared Bartel,12953,Northern Iowa,Zach Nye,13160,Virginia
+2016,11/15,Old Dominion - Virginia Dual,197,W,DEC,5 - 2,Austin Coburn,12273,Old Dominion,Zach Nye,13160,Virginia
+2016,11/13,Virginia - Ohio State Dual,197,W,DEC,10 - 6,Matthew O'Hara,20251,Ohio State,Zach Nye,13160,Virginia
+2016,11/07,Virginia - South Dakota State Dual,197,W,SV-1,4 - 3,Nate Rotert,12968,South Dakota State,Zach Nye,13160,Virginia
+2016,11/07,Virginia - Minnesota Dual,197,L,DEC,7 - 4,Brett Pfarr,12441,Minnesota,Zach Nye,13160,Virginia
+2016,11/06,Virginia - North Dakota State Dual,197,W,MD,11 - 3,Logan Paxton,40457,North Dakota State,Zach Nye,13160,Virginia
+2016,11/01,Clarion Open,197,W,TF5,15 - 0 2:29,Nate Rodgers,41320,Pennsylvania State University - Dubois,Zach Nye,13160,Virginia
+2016,11/01,Clarion Open,197,W,TF5,15 - 0 3:53,Jeremiah Imonode,41229,United States Military Academy,Zach Nye,13160,Virginia
+2016,11/01,Clarion Open,197,W,DEC,6 - 3,Garrett Lineberger,22678,Notre Dame,Zach Nye,13160,Virginia
+2016,11/01,Clarion Open,197,W,DEC,6 - 1,Shawn Reynolds,40439,Edinboro,Zach Nye,13160,Virginia
+2016,11/01,Clarion Open,197,W,DEC,2 - 1,Phil Sprenkle,13062,Lock Haven,Zach Nye,13160,Virginia
+2016,11/08,Hokie Open,197,W,MFOR,0 - 0,Justin Tribble,42901,Limestone,Chance McClure,20430,Virginia
+2016,11/08,Hokie Open,197,L,DEC,3 - 2,Chip Ness,20118,North Carolina,Chance McClure,20430,Virginia
+2016,11/08,Hokie Open,197,W,FALL,2:59,Scott Marmoll,12361,North Carolina,Chance McClure,20430,Virginia
+2016,11/08,Hokie Open,197,W,DEC,6 - 1,Ira Dent,12620,Chattanooga,Chance McClure,20430,Virginia
+2016,11/08,Hokie Open,197,L,DEC,6 - 3,Michael Sojka,12633,Stanford,Chance McClure,20430,Virginia
+2016,11/08,Hokie Open,197,W,DEC,3 - 1,Boomer Fleming,20389,Stanford,Chance McClure,20430,Virginia
+2016,01/16,Shorty Hitchcock Classic,197,W,TF5,16 - 1 5:00,Jack Argast,39869,Franklin & Marshall,Tyler Love,43203,Virginia
+2016,12/30,Franklin & Marshall Open,197,L,MFOR,0 - 0,Thomas Murray,19984,Lehigh,Tyler Love,43203,Virginia
+2016,12/30,Franklin & Marshall Open,197,W,MD,10 - 1,Charles Kerkesner,13158,Franklin & Marshall,Tyler Love,43203,Virginia
+2016,12/30,Franklin & Marshall Open,197,L,DEC,2 - 1,Brett Dempsey,12443,American,Tyler Love,43203,Virginia
+2016,12/30,Franklin & Marshall Open,197,W,DEC,5 - 3,Augustus Marker,13132,Brown,Tyler Love,43203,Virginia
+2016,12/28,Wilkes Open,197,W,MD,15 - 2,Nicholas Dawson,43595,Wilkes,Tyler Love,43203,Virginia
+2016,12/28,Wilkes Open,197,L,DEC,4 - 3,Randall Diabe,40409,Appalachian State,Tyler Love,43203,Virginia
+2016,12/28,Wilkes Open,197,L,DEC,7 - 3,Joshua Murphy,19853,Drexel,Tyler Love,43203,Virginia
+2016,12/28,Wilkes Open,197,W,FALL,0:31,Dominic Carfagno,19665,Bloomsburg,Tyler Love,43203,Virginia
+2016,12/28,Wilkes Open,197,W,DEC,7 - 3,Sasha Oliinyk,20833,Sacred Heart,Tyler Love,43203,Virginia
+2016,12/06,Nittany Lion Open,197,W,MD,8 - 0,Bryson Begley,20932,West Virginia,Tyler Love,43203,Virginia
+2016,12/06,Nittany Lion Open,197,W,FALL,0:56,Patrick Fitzgerald,43222,Pennsylvania College of Technology,Tyler Love,43203,Virginia
+2016,12/06,Nittany Lion Open,197,W,TF5,15 - 0 4:00,Reynold Maines,39928,Clarion,Tyler Love,43203,Virginia
+2016,12/06,Nittany Lion Open,197,W,TF5,15 - 0 2:16,Jack Argast,39869,Franklin & Marshall,Tyler Love,43203,Virginia
+2016,12/06,Nittany Lion Open,197,L,FALL,5:46,Frank Mattiace,13058,Pennsylvania,Tyler Love,43203,Virginia
+2016,12/06,Nittany Lion Open,197,L,DEC,6 - 0,Frank Mattiace,13058,Pennsylvania,Tyler Love,43203,Virginia
+2016,11/22,Mat Town Open,197,L,DEC,5 - 3,Kyle Kremiller,39532,Rutgers,Tyler Love,43203,Virginia
+2016,11/22,Mat Town Open,197,W,MD,16 - 5,Edgar Ruano,19798,Clarion,Tyler Love,43203,Virginia
+2016,11/22,Mat Town Open,197,L,DEC,2 - 0,Matt Moore,13071,Lock Haven,Tyler Love,43203,Virginia
+2016,11/08,Hokie Open,184,W,MD,14 - 3,Conor Murray,22721,Notre Dame,Tyler Love,43203,Virginia
+2016,11/08,Hokie Open,184,W,TF5,22 - 3 7:00,Bryce Walker,39588,Unattached,Tyler Love,43203,Virginia
+2016,11/08,Hokie Open,184,L,MD,8 - 0,Tyler Patrick,12553,Duke,Tyler Love,43203,Virginia
+2016,11/08,Hokie Open,184,L,DEC,5 - 3,Spencer Neff,14621,Duke,Tyler Love,43203,Virginia
+2016,11/01,Clarion Open,184,L,DEC,9 - 4,Travis Mckillop,41224,Pitt-Johnstown,Tyler Love,43203,Virginia
+2016,11/01,Clarion Open,184,W,TF5,15 - 0 3:00,Jon Schmissrauter,41317,United States Military Academy,Tyler Love,43203,Virginia
+2016,11/01,Clarion Open,184,L,DEC,6 - 1,Dominic Rigous,19793,Clarion,Tyler Love,43203,Virginia
+2016,03/17,NCAA Championships,285,L,DEC,9 - 4,William Smith,14207,Rutgers,Patrick Gillen,13125,Virginia
+2016,03/17,NCAA Championships,285,L,FALL,4:22,Adam Coon,14123,Michigan,Patrick Gillen,13125,Virginia
+2016,03/06,ACC Championships,285,L,FALL,4:23,Ryan Solomon,13146,Pittsburgh,Patrick Gillen,13125,Virginia
+2016,03/06,ACC Championships,285,W,FALL,4:56,Cory Gillilland-Daniel,22024,North Carolina,Patrick Gillen,13125,Virginia
+2016,03/06,ACC Championships,285,L,FALL,0:49,Nick Gwiazdowski,14221,NC State,Patrick Gillen,13125,Virginia
+2016,03/06,ACC Championships,285,W,MD,9 - 0,Brendan Walsh,14355,Duke,Patrick Gillen,13125,Virginia
+2016,02/19,Virginia - Pittsburgh Dual,285,L,DEC,3 - 2,Ryan Solomon,13146,Pittsburgh,Patrick Gillen,13125,Virginia
+2016,02/14,Chattanooga - Virginia Dual,285,L,FALL,4:38,Jared Johnson,19773,Chattanooga,Patrick Gillen,13125,Virginia
+2016,02/06,North Carolina - Virginia Dual,285,W,MD,11 - 2,Cory Gillilland-Daniel,22024,North Carolina,Patrick Gillen,13125,Virginia
+2016,02/05,Duke - Virginia Dual,285,W,DEC,7 - 3,Brendan Walsh,14355,Duke,Patrick Gillen,13125,Virginia
+2016,01/31,Virginia Tech - Virginia Dual,285,L,DEC,8 - 6,Ty Walz,14246,Virginia Tech,Patrick Gillen,13125,Virginia
+2016,01/17,Virginia - North Carolina State Dual,285,L,TF5,19 - 3 3:53,Nick Gwiazdowski,14221,NC State,Patrick Gillen,13125,Virginia
+2016,01/01,Southern Scuffle,285,L,MFOR,0 - 0,Marcus Malecek,14376,Air Force,Patrick Gillen,13125,Virginia
+2016,01/01,Southern Scuffle,285,L,DEC,2 - 1,Joe Bexley,14177,The Citadel,Patrick Gillen,13125,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,285,W,TF5,15 - 0 5:42,Payne Hayden,13174,Michigan,Patrick Gillen,13125,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,285,L,MD,13 - 5,Jeramy Sweany,40382,Cornell,Patrick Gillen,13125,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,285,W,DEC,10 - 5,Dustin Dennison,20409,Utah Valley,Patrick Gillen,13125,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,285,L,DEC,2 - 1,Nicholas Gajdzik,14240,Harvard,Patrick Gillen,13125,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,285,W,DEC,9 - 5,Garrett Ryan,13538,Columbia,Patrick Gillen,13125,Virginia
+2016,12/04,Cliff Keen Las Vegas Invitational,285,W,TF5,17 - 1 5:42,Payne Hayden,13174,Michigan,Patrick Gillen,13125,Virginia
+2016,11/22,Mat Town Open,285,W,DEC,5 - 3,Ethan Hayes,14225,Virginia,Patrick Gillen,13125,Virginia
+2016,11/22,Mat Town Open,285,W,DEC,5 - 4,Ralph Normandia,20363,Rutgers,Patrick Gillen,13125,Virginia
+2016,11/15,Old Dominion - Virginia Dual,285,W,FALL,3:22,John D'Agostino,23884,Old Dominion,Patrick Gillen,13125,Virginia
+2016,11/13,Virginia - Ohio State Dual,285,L,FALL,5:45,Nick Tavanello,14228,Ohio State,Patrick Gillen,13125,Virginia
+2016,11/07,Virginia - South Dakota State Dual,285,W,MD,12 - 0,Alex Macki,14278,South Dakota State,Patrick Gillen,13125,Virginia
+2016,11/07,Virginia - Minnesota Dual,285,L,DEC,12 - 6,Michael Kroells,14331,Minnesota,Patrick Gillen,13125,Virginia
+2016,11/06,Virginia - North Dakota State Dual,285,L,SV-1,7 - 5,Benjamin Tyanan,40498,North Dakota State,Patrick Gillen,13125,Virginia
+2016,11/01,Clarion Open,285,W,FALL,2:06,Soslan Khamitcaev,24775,American International College,Patrick Gillen,13125,Virginia
+2016,11/01,Clarion Open,285,W,FALL,0:40,Jack Luciano,41321,Mercyhurst Northeast,Patrick Gillen,13125,Virginia
+2016,11/01,Clarion Open,285,W,MD,8 - 0,Damon Sims,23559,Pitt-Johnstown,Patrick Gillen,13125,Virginia
+2016,11/01,Clarion Open,285,W,DEC,9 - 4,Evan Daley,14141,Clarion,Patrick Gillen,13125,Virginia
+2016,11/01,Clarion Open,285,W,MD,14 - 1,Evan Daley,14141,Clarion,Patrick Gillen,13125,Virginia
+2016,11/01,Clarion Open,285,L,DEC,3 - 2,Riley Shaw,14328,Cleveland State,Patrick Gillen,13125,Virginia
+2016,01/08,VMI - Virginia Dual,285,W,DEC,10 - 4,Tasi Mathias,14472,VMI,Ethan Hayes,14225,Virginia
+2016,01/01,Southern Scuffle,285,L,DEC,8 - 3,AJ Vizcarrondo,14266,West Virginia,Ethan Hayes,14225,Virginia
+2016,01/01,Southern Scuffle,285,W,DEC,5 - 2,Boyce Cornwell,13173,Gardner-Webb,Ethan Hayes,14225,Virginia
+2016,01/01,Southern Scuffle,285,L,DEC,12 - 6,Riley Shaw,14328,Cleveland State,Ethan Hayes,14225,Virginia
+2016,01/01,Southern Scuffle,285,W,MD,12 - 4,Dimitrus Renfroe,14495,Michigan State,Ethan Hayes,14225,Virginia
+2016,12/06,Nittany Lion Open,285,L,DEC,6 - 4,Austin Myers,39755,West Virginia,Ethan Hayes,14225,Virginia
+2016,12/06,Nittany Lion Open,285,L,MD,13 - 2,Thomas Haines,20247,Lock Haven,Ethan Hayes,14225,Virginia
+2016,12/06,Nittany Lion Open,285,W,FALL,1:08,Peter Strassfield,42006,Army West Point,Ethan Hayes,14225,Virginia
+2016,11/22,Mat Town Open,285,L,DEC,5 - 3,Patrick Gillen,13125,Virginia,Ethan Hayes,14225,Virginia
+2016,11/22,Mat Town Open,285,W,DEC,9 - 2,Brad Emerick,14170,Lock Haven,Ethan Hayes,14225,Virginia
+2016,12/30,Franklin & Marshall Open,285,W,FALL,1:44,John Barlow,42159,Kutztown,Austin Knies,40161,Virginia
+2016,12/30,Franklin & Marshall Open,285,L,DEC,5 - 0,Antonio Pelusi,19894,Franklin & Marshall,Austin Knies,40161,Virginia
+2016,12/30,Franklin & Marshall Open,285,L,DEC,3 - 2,Jake Scanlan,39921,American,Austin Knies,40161,Virginia
+2016,12/28,Wilkes Open,285,L,DEC,4 - 3,Kyle Foster,43578,Roger Williams,Austin Knies,40161,Virginia
+2016,12/28,Wilkes Open,285,W,FALL,2:24,Robert Cuomo,41340,SUNY Sullivan,Austin Knies,40161,Virginia
+2016,12/28,Wilkes Open,285,L,DEC,7 - 4,Jenard Rosemond,22930,Nassau Community College,Austin Knies,40161,Virginia
+2016,11/08,Hokie Open,285,L,DEC,5 - 3,Jackson Price,20801,Gardner-Webb,Austin Knies,40161,Virginia
+2016,11/08,Hokie Open,285,W,DEC,5 - 3,Byron Stephenson,40410,Appalachian State,Austin Knies,40161,Virginia
+2016,11/08,Hokie Open,285,L,FALL,1:32,Jake Scanlan,39921,American,Austin Knies,40161,Virginia
+2016,11/01,Clarion Open,285,W,FALL,1:14,Andrew Bigley,41309,Pennsylvania State University - Dubois,Austin Knies,40161,Virginia
+2016,11/01,Clarion Open,285,W,FALL,1:22,Andrew Snyder,39918,Old Dominion,Austin Knies,40161,Virginia
+2016,11/01,Clarion Open,285,L,MD,13 - 1,Evan Daley,14141,Clarion,Austin Knies,40161,Virginia
+2016,11/01,Clarion Open,285,L,DEC,7 - 1,Austin Myers,39755,West Virginia,Austin Knies,40161,Virginia
+2016,11/01,Clarion Open,285,W,FALL,2:45,Stephen Suglio,13094,Kent State,Austin Knies,40161,Virginia

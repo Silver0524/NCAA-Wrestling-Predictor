@@ -1,0 +1,606 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2024,03/21,NCAA Championships,125,L,FALL,5:34,Jakob Camacho,50655,NC State,Kysen Terukina,67143,Iowa State
+2024,03/21,NCAA Championships,125,W,DEC,4 - 2,Ethan Berginc,71779,Army West Point,Kysen Terukina,67143,Iowa State
+2024,03/21,NCAA Championships,125,L,DEC,9 - 4,Patrick McKee,50594,Minnesota,Kysen Terukina,67143,Iowa State
+2024,03/09,Big 12 Championships,125,L,FALL,4:58,Jett Strickenberger,74382,West Virginia,Kysen Terukina,67143,Iowa State
+2024,03/09,Big 12 Championships,125,W,DEC,10 - 6,Tanner Jordan,57664,South Dakota State,Kysen Terukina,67143,Iowa State
+2024,03/09,Big 12 Championships,125,W,DEC,6 - 2,Conrad Hendriksen,80186,Oklahoma,Kysen Terukina,67143,Iowa State
+2024,03/09,Big 12 Championships,125,L,SV-1,2 - 1,Troy Spratley,73119,Oklahoma State,Kysen Terukina,67143,Iowa State
+2024,03/09,Big 12 Championships,125,W,DEC,3 - 2,Stevo Poulin,71929,Northern Colorado,Kysen Terukina,67143,Iowa State
+2024,02/11,Northern Iowa - Iowa State Dual,125,L,TB-1,8 - 5,Trever Anderson,76359,Northern Iowa,Kysen Terukina,67143,Iowa State
+2024,02/02,West Virginia - Iowa State Dual,125,W,DEC,10 - 7,Jett Strickenberger,74382,West Virginia,Kysen Terukina,67143,Iowa State
+2024,01/27,Iowa State - Oklahoma State Dual,125,L,DEC,4 - 2,Troy Spratley,73119,Oklahoma State,Kysen Terukina,67143,Iowa State
+2024,01/26,Iowa State - Oklahoma Dual,125,W,SV-1,4 - 1,Conrad Hendriksen,80186,Oklahoma,Kysen Terukina,67143,Iowa State
+2024,01/12,Utah Valley - Iowa State Dual,125,W,MD,9 - 1,Yusief Lillie,72995,Utah Valley,Kysen Terukina,67143,Iowa State
+2024,01/07,Iowa State - Cal Baptist Dual,125,W,DEC,4 - 2,Eli Griffin,68743,Cal Baptist,Kysen Terukina,67143,Iowa State
+2024,01/05,Iowa State - Arizona State Dual,125,W,DEC,12 - 6,Tristan Mascarenas,70010,Arizona State,Kysen Terukina,67143,Iowa State
+2024,12/18,Iowa State - Cornell Dual,125,L,FALL,6:34,Greg Diakomihalis,61116,Cornell,Kysen Terukina,67143,Iowa State
+2024,12/18,Iowa State - Pittsburgh Dual,125,W,DEC,6 - 4,Colton Camacho,58029,Pittsburgh,Kysen Terukina,67143,Iowa State
+2024,12/01,Cliff Keen Invitational,125,L,DEC,12 - 5,Nico Provo,65883,Stanford,Kysen Terukina,67143,Iowa State
+2024,12/01,Cliff Keen Invitational,125,W,FALL,3:26,Massey Odiotti,84345,Northwestern,Kysen Terukina,67143,Iowa State
+2024,12/01,Cliff Keen Invitational,125,L,SV-1,7 - 4,Richard Castro-Sandoval,69366,CSU Bakersfield,Kysen Terukina,67143,Iowa State
+2024,11/26,Iowa - Iowa State Dual,125,L,DEC,7 - 2,Drake Ayala,66975,Iowa,Kysen Terukina,67143,Iowa State
+2024,11/19,Wisconsin - Iowa State Dual,125,W,MD,14 - 3,Eric Barnett,56753,Wisconsin,Kysen Terukina,67143,Iowa State
+2024,11/12,Davidson - Iowa State Dual,125,W,TF5,19 - 4 4:49,Enis Ljikovic,84455,Davidson,Kysen Terukina,67143,Iowa State
+2024,11/05,Iowa State - Cleveland State Dual,125,W,TF5,20 - 5 7:00,Benjamin Aranda,71804,Cleveland State,Kysen Terukina,67143,Iowa State
+2024,01/27,Loras College Open,125,W,TF5,16 - 1 7:00,Angel Banegas,89795,Iowa Central Community College,Ethan Perryman,78477,Iowa State
+2024,01/27,Loras College Open,125,W,TF5,17 - 2 7:00,Kentrell Delaney-Kinney,80892,Indian Hills,Ethan Perryman,78477,Iowa State
+2024,01/27,Loras College Open,125,W,MFOR,0 - 0,Blake Gioimo,78601,Iowa State,Ethan Perryman,78477,Iowa State
+2024,01/27,Loras College Open,125,L,DEC,5 - 2,Garret Rinken,78705,Northern Iowa,Ethan Perryman,78477,Iowa State
+2024,01/27,Loras College Open,125,L,DEC,2 - 1,Brady Roark,79469,South Dakota State,Ethan Perryman,78477,Iowa State
+2024,01/27,Loras College Open,125,W,MD,11 - 3,Carter Anderson,83213,Loras,Ethan Perryman,78477,Iowa State
+2024,01/07,Iowa State - Cal Baptist Dual,133,L,DEC,4 - 0,Hunter Leake,67190,Cal Baptist,Ethan Perryman,78477,Iowa State
+2024,01/05,Iowa State - Arizona State Dual,133,L,MD,13 - 3,Julian Chlebove,56769,Arizona State,Ethan Perryman,78477,Iowa State
+2024,12/29,Soldier Salute,125,L,FALL,1:20,Patrick McKee,50594,Minnesota,Ethan Perryman,78477,Iowa State
+2024,12/29,Soldier Salute,125,W,TF5,19 - 4 7:00,Hayden Benter,84926,Navy,Ethan Perryman,78477,Iowa State
+2024,12/29,Soldier Salute,125,W,MD,10 - 2,Marco Tocci,78821,North Carolina,Ethan Perryman,78477,Iowa State
+2024,12/29,Soldier Salute,125,W,FALL,1:48,Sulayman Bah,79305,Columbia,Ethan Perryman,78477,Iowa State
+2024,12/29,Soldier Salute,125,L,FALL,2:47,Nick Babin,65929,Columbia,Ethan Perryman,78477,Iowa State
+2024,12/29,Soldier Salute,125,W,FALL,3:41,Micah Medina,84265,Bellarmine,Ethan Perryman,78477,Iowa State
+2024,12/18,Iowa State - Little Rock Dual,125,W,DEC,10 - 9,Jeremiah Reno,62342,Little Rock,Ethan Perryman,78477,Iowa State
+2024,11/19,Daktronics Open,125,W,DEC,13 - 8,Garret Rinken,78705,Northern Iowa,Ethan Perryman,78477,Iowa State
+2024,11/19,Daktronics Open,125,L,TF5,18 - 3 7:00,Tanner Jordan,57664,South Dakota State,Ethan Perryman,78477,Iowa State
+2024,11/19,Daktronics Open,125,W,MD,18 - 4,Brandon Meredith,56935,South Dakota State,Ethan Perryman,78477,Iowa State
+2024,11/11,Grandview Open,125,W,DEC,7 - 4,Hunter Sparks,87593,Eastern Oregon University,Ethan Perryman,78477,Iowa State
+2024,11/11,Grandview Open,125,W,FALL,1:30,Elijah Asuncion,80271,Missouri Valley,Ethan Perryman,78477,Iowa State
+2024,11/11,Grandview Open,125,W,DEC,12 - 6,Braden Graff,78548,Grand View,Ethan Perryman,78477,Iowa State
+2024,11/11,Grandview Open,125,W,TF5,20 - 4 7:00,Tanner Cook,69801,Montana State-Northern,Ethan Perryman,78477,Iowa State
+2024,11/11,Grandview Open,125,W,MD,18 - 9,Aden Reeves,56711,Grand View,Ethan Perryman,78477,Iowa State
+2024,11/19,Daktronics Open,125,L,SV-1,12 - 9,Quincy Hulverson,78579,Minnesota,Caleb Fuessley,62605,Iowa State
+2024,11/19,Daktronics Open,125,L,TF5,15 - 0 7:00,Trever Anderson,76359,Northern Iowa,Caleb Fuessley,62605,Iowa State
+2024,11/11,Grandview Open,125,L,MFOR,0 - 0,Lucas Rodriguez,87588,Grand View,Caleb Fuessley,62605,Iowa State
+2024,11/11,Grandview Open,125,W,DEC,6 - 4,Gabe Gonzales,87572,Grand View,Caleb Fuessley,62605,Iowa State
+2024,11/11,Grandview Open,125,L,MFOR,0 - 0,Gabe Gonzales,87572,Grand View,Caleb Fuessley,62605,Iowa State
+2024,11/11,Grandview Open,125,W,TF5,20 - 5 7:00,Jeffery Myers,80313,William Penn,Caleb Fuessley,62605,Iowa State
+2024,11/11,Grandview Open,125,L,MFOR,0 - 0,Aden Reeves,56711,Grand View,Caleb Fuessley,62605,Iowa State
+2024,01/27,Loras College Open,125,L,MFOR,0 - 0,Ethan Perryman,78477,Iowa State,Blake Gioimo,78601,Iowa State
+2024,01/27,Loras College Open,125,W,TF5,17 - 1 7:00,Kaden Golder,86960,Iowa Central Community College,Blake Gioimo,78601,Iowa State
+2024,01/27,Loras College Open,125,W,TF5,15 - 0 7:00,Alexander Needham,84704,Dubuque Wrestling Club,Blake Gioimo,78601,Iowa State
+2024,01/27,Loras College Open,125,W,MFOR,0 - 0,Jaydale Whitlock,81036,Iowa Central Community College,Blake Gioimo,78601,Iowa State
+2024,01/27,Loras College Open,125,L,MFOR,0 - 0,Brandon Paez,82508,Northern Iowa,Blake Gioimo,78601,Iowa State
+2024,01/27,Loras College Open,125,L,DEC,5 - 1,Brandon Paez,82508,Northern Iowa,Blake Gioimo,78601,Iowa State
+2024,12/29,Soldier Salute,125,L,MD,16 - 5,Brandon Morvari,81742,Minnesota,Blake Gioimo,78601,Iowa State
+2024,12/29,Soldier Salute,125,W,DEC,10 - 5,Dayton DelViscio,73322,Navy,Blake Gioimo,78601,Iowa State
+2024,12/29,Soldier Salute,125,L,MD,10 - 0,Garret Rinken,78705,Northern Iowa,Blake Gioimo,78601,Iowa State
+2024,12/29,Soldier Salute,125,W,MD,10 - 1,Tony Burke,78464,VMI,Blake Gioimo,78601,Iowa State
+2024,11/11,Grandview Open,125,W,TF5,15 - 0 7:00,Corey Morabito,87583,Missouri Valley,Blake Gioimo,78601,Iowa State
+2024,11/11,Grandview Open,125,W,TF5,17 - 1 7:00,Jacob Campbell,87329,Benedictine College,Blake Gioimo,78601,Iowa State
+2024,11/11,Grandview Open,125,W,FALL,2:28,Clemente Delgado,86680,Graceland University,Blake Gioimo,78601,Iowa State
+2024,11/11,Grandview Open,125,W,DEC,10 - 6,Trentin Walker,81051,Iowa Central Community College,Blake Gioimo,78601,Iowa State
+2024,11/11,Grandview Open,125,L,MD,13 - 1,Brandon Paez,82508,Northern Iowa,Blake Gioimo,78601,Iowa State
+2024,03/21,NCAA Championships,133,L,MD,17 - 6,Dylan Ragusin,63153,Michigan,Evan Frost,72948,Iowa State
+2024,03/21,NCAA Championships,133,L,DEC,4 - 1,Ryan Crookham,73116,Lehigh,Evan Frost,72948,Iowa State
+2024,03/21,NCAA Championships,133,W,SV-1,9 - 6,Dylan Shawver,61767,Rutgers,Evan Frost,72948,Iowa State
+2024,03/21,NCAA Championships,133,W,DEC,2 - 1,Tyler Wells,79021,Minnesota,Evan Frost,72948,Iowa State
+2024,03/21,NCAA Championships,133,L,TB-1,2 - 1,Daton Fix,49263,Oklahoma State,Evan Frost,72948,Iowa State
+2024,03/21,NCAA Championships,133,W,DEC,4 - 1,Julian Chlebove,56769,Arizona State,Evan Frost,72948,Iowa State
+2024,03/21,NCAA Championships,133,W,DEC,8 - 5,Braden Basile,73707,Army West Point,Evan Frost,72948,Iowa State
+2024,03/09,Big 12 Championships,133,L,DEC,8 - 5,Daton Fix,49263,Oklahoma State,Evan Frost,72948,Iowa State
+2024,03/09,Big 12 Championships,133,W,MD,12 - 4,Dominick Serrano,61120,Northern Colorado,Evan Frost,72948,Iowa State
+2024,03/09,Big 12 Championships,133,W,MD,12 - 1,Jace Koelzer,50912,Oklahoma,Evan Frost,72948,Iowa State
+2024,03/09,Big 12 Championships,133,W,MD,18 - 5,Hunter Leake,67190,Cal Baptist,Evan Frost,72948,Iowa State
+2024,02/25,Missouri - Iowa State Dual,133,W,TF5,19 - 3 5:31,Drew Stanfield,80266,Missouri,Evan Frost,72948,Iowa State
+2024,02/11,Northern Iowa - Iowa State Dual,133,W,TF5,19 - 4 6:15,Julian Farber,65843,Northern Iowa,Evan Frost,72948,Iowa State
+2024,02/02,West Virginia - Iowa State Dual,133,W,TF5,17 - 1 3:54,Mason Mills,84408,West Virginia,Evan Frost,72948,Iowa State
+2024,01/27,Iowa State - Oklahoma State Dual,133,L,MD,11 - 3,Daton Fix,49263,Oklahoma State,Evan Frost,72948,Iowa State
+2024,01/26,Iowa State - Oklahoma Dual,133,W,MD,12 - 2,Jace Koelzer,50912,Oklahoma,Evan Frost,72948,Iowa State
+2024,01/12,Utah Valley - Iowa State Dual,133,W,TF5,17 - 2 5:21,Kase Mauger,65846,Utah Valley,Evan Frost,72948,Iowa State
+2024,12/18,Iowa State - Cornell Dual,133,W,DEC,12 - 5,Ethan Qureshi,81106,Cornell,Evan Frost,72948,Iowa State
+2024,12/18,Iowa State - Little Rock Dual,133,L,TF5,15 - 0 1:57,Nasir Bailey,79029,Little Rock,Evan Frost,72948,Iowa State
+2024,12/18,Iowa State - Pittsburgh Dual,133,W,SV-1,9 - 6,Vince Santaniello,72185,Pittsburgh,Evan Frost,72948,Iowa State
+2024,12/01,Cliff Keen Invitational,133,L,MD,12 - 4,Kai Orine,56908,NC State,Evan Frost,72948,Iowa State
+2024,12/01,Cliff Keen Invitational,133,W,MD,14 - 3,Julian Farber,65843,Northern Iowa,Evan Frost,72948,Iowa State
+2024,12/01,Cliff Keen Invitational,133,W,DEC,2 - 1,Tyler Knox,83265,Stanford,Evan Frost,72948,Iowa State
+2024,12/01,Cliff Keen Invitational,133,W,DEC,5 - 0,Micah Roes,67299,Binghamton,Evan Frost,72948,Iowa State
+2024,12/01,Cliff Keen Invitational,133,W,MD,16 - 3,Zeth Romney,73191,Cal Poly,Evan Frost,72948,Iowa State
+2024,11/26,Iowa - Iowa State Dual,133,W,DEC,8 - 1,Brody Teske,52779,Iowa,Evan Frost,72948,Iowa State
+2024,11/19,Wisconsin - Iowa State Dual,133,W,DEC,11 - 6,Nicolar Rivera,78438,Wisconsin,Evan Frost,72948,Iowa State
+2024,11/12,Davidson - Iowa State Dual,133,W,TF5,16 - 1 4:58,Jackson Sichelstiel,78851,Davidson,Evan Frost,72948,Iowa State
+2024,11/05,Iowa State - Cleveland State Dual,133,W,MD,17 - 3,Jacob Manley,67785,Cleveland State,Evan Frost,72948,Iowa State
+2024,11/19,Daktronics Open,133,L,TF5,18 - 0 6:54,Derrick Cardinal,68734,South Dakota State,Garrett Grice,72957,Iowa State
+2024,11/19,Daktronics Open,133,L,DEC,6 - 3,Julian Farber,65843,Northern Iowa,Garrett Grice,72957,Iowa State
+2024,11/19,Daktronics Open,133,L,DEC,10 - 4,Julian Tagg,58261,Jackrabbit Wrestling Club,Garrett Grice,72957,Iowa State
+2024,11/11,Grandview Open,133,W,DEC,5 - 1,Mario Sandoval,87589,Vanguard University,Garrett Grice,72957,Iowa State
+2024,11/11,Grandview Open,133,W,DEC,3 - 2,Cameron Clark,81828,Grand View,Garrett Grice,72957,Iowa State
+2024,11/11,Grandview Open,133,W,SV-1,4 - 1,Hayden Mills,78582,Nebraska,Garrett Grice,72957,Iowa State
+2024,11/11,Grandview Open,133,L,DEC,4 - 1,Carson Taylor,65768,Grand View,Garrett Grice,72957,Iowa State
+2024,11/11,Grandview Open,133,W,MD,16 - 6,Jackson Cockrell,63028,Grand View,Garrett Grice,72957,Iowa State
+2024,03/21,NCAA Championships,141,W,MFOR,0 - 0,Lachlan McNeil,62891,North Carolina,Anthony Echemendia,62882,Iowa State
+2024,03/21,NCAA Championships,141,L,DEC,4 - 0,Real Woods,50664,Iowa,Anthony Echemendia,62882,Iowa State
+2024,03/21,NCAA Championships,141,L,DEC,6 - 4,Jesse Mendez,74054,Ohio State,Anthony Echemendia,62882,Iowa State
+2024,03/21,NCAA Championships,141,W,DEC,5 - 3,Ryan Jack,61122,NC State,Anthony Echemendia,62882,Iowa State
+2024,03/21,NCAA Championships,141,W,DEC,8 - 2,Josh Edmond,62704,Missouri,Anthony Echemendia,62882,Iowa State
+2024,03/21,NCAA Championships,141,W,TF5,20 - 4 6:52,Greyson Clark,79389,Purdue,Anthony Echemendia,62882,Iowa State
+2024,03/09,Big 12 Championships,141,W,DEC,4 - 2,Cael Happel,62345,Northern Iowa,Anthony Echemendia,62882,Iowa State
+2024,03/09,Big 12 Championships,141,W,TF5,21 - 5 5:50,Cole Brooks,82044,Wyoming,Anthony Echemendia,62882,Iowa State
+2024,03/09,Big 12 Championships,141,W,MD,14 - 4,Jordan Titus,68738,West Virginia,Anthony Echemendia,62882,Iowa State
+2024,03/09,Big 12 Championships,141,W,TF5,17 - 2 3:22,Garrett Kuchan,69522,Air Force,Anthony Echemendia,62882,Iowa State
+2024,02/25,Missouri - Iowa State Dual,141,W,DEC,10 - 9,Josh Edmond,62704,Missouri,Anthony Echemendia,62882,Iowa State
+2024,02/11,Northern Iowa - Iowa State Dual,141,W,DEC,9 - 6,Cael Happel,62345,Northern Iowa,Anthony Echemendia,62882,Iowa State
+2024,01/27,Iowa State - Oklahoma State Dual,141,L,SV-1,4 - 1,Tagen Jamison,66962,Oklahoma State,Anthony Echemendia,62882,Iowa State
+2024,01/26,Iowa State - Oklahoma Dual,141,W,TF5,23 - 7 5:57,Kaden Smith,73706,Oklahoma,Anthony Echemendia,62882,Iowa State
+2024,01/12,Utah Valley - Iowa State Dual,141,W,MD,17 - 3,Haiden Drury,64645,Utah Valley,Anthony Echemendia,62882,Iowa State
+2024,01/07,Iowa State - Cal Baptist Dual,141,W,TF5,20 - 3 7:00,Emilio Trujillo-Deen,84890,Cal Baptist,Anthony Echemendia,62882,Iowa State
+2024,01/05,Iowa State - Arizona State Dual,141,W,TF5,20 - 4 4:51,Cody Foote,70013,Arizona State,Anthony Echemendia,62882,Iowa State
+2024,12/18,Iowa State - Cornell Dual,141,W,MD,13 - 4,Vince Cornella,71813,Cornell,Anthony Echemendia,62882,Iowa State
+2024,12/18,Iowa State - Little Rock Dual,141,W,MD,19 - 6,Brennan Van Hoecke,74571,Little Rock,Anthony Echemendia,62882,Iowa State
+2024,12/18,Iowa State - Pittsburgh Dual,141,W,MD,12 - 3,Cole Matthews,50936,Pittsburgh,Anthony Echemendia,62882,Iowa State
+2024,12/01,Cliff Keen Invitational,141,W,FALL,2:38,Cleveland Belton,57334,Oregon State,Anthony Echemendia,62882,Iowa State
+2024,12/01,Cliff Keen Invitational,141,W,MD,13 - 3,Vince Cornella,71813,Cornell,Anthony Echemendia,62882,Iowa State
+2024,12/01,Cliff Keen Invitational,141,L,DEC,9 - 3,Cael Happel,62345,Northern Iowa,Anthony Echemendia,62882,Iowa State
+2024,12/01,Cliff Keen Invitational,141,L,DEC,9 - 6,Lachlan McNeil,62891,North Carolina,Anthony Echemendia,62882,Iowa State
+2024,12/01,Cliff Keen Invitational,141,W,MD,17 - 3,Jason Miranda,64654,Stanford,Anthony Echemendia,62882,Iowa State
+2024,12/01,Cliff Keen Invitational,141,W,DEC,7 - 3,Devin Matthews,70150,LIU,Anthony Echemendia,62882,Iowa State
+2024,11/26,Iowa - Iowa State Dual,141,L,SV-1,4 - 1,Real Woods,50664,Iowa,Anthony Echemendia,62882,Iowa State
+2024,11/19,Wisconsin - Iowa State Dual,141,W,TF5,21 - 6 4:15,Felix Lettini,77386,Wisconsin,Anthony Echemendia,62882,Iowa State
+2024,11/12,Davidson - Iowa State Dual,149,W,TF5,22 - 5 3:48,Xavier McKnight,84300,Davidson,Anthony Echemendia,62882,Iowa State
+2024,11/05,Iowa State - Cleveland State Dual,149,W,TF5,24 - 7 5:00,Douglas Terry,70741,Cleveland State,Anthony Echemendia,62882,Iowa State
+2024,12/02,Oppenheim Invitational,141,L,DEC,10 - 8,Kyler Larkin,83096,High School,Jacob Frost,72949,Iowa State
+2024,12/02,Oppenheim Invitational,141,W,TF5,19 - 3 7:00,Donte Lopez,83038,Oklahoma Wesleyan,Jacob Frost,72949,Iowa State
+2024,12/02,Oppenheim Invitational,141,W,TF5,20 - 2 7:00,Ben Murphy,76251,Grand View,Jacob Frost,72949,Iowa State
+2024,12/02,Oppenheim Invitational,141,W,TF5,19 - 4 7:00,Dante Venema,65538,Dickinson State,Jacob Frost,72949,Iowa State
+2024,12/02,Oppenheim Invitational,141,W,MD,13 - 2,Creighton Baughman,63391,Concordia,Jacob Frost,72949,Iowa State
+2024,11/12,Davidson - Iowa State Dual,141,W,TF5,19 - 4 5:37,Joshua Viarengo,71129,Davidson,Jacob Frost,72949,Iowa State
+2024,11/05,Iowa State - Cleveland State Dual,141,L,DEC,22 - 18,Dylan Layton,72925,Cleveland State,Jacob Frost,72949,Iowa State
+2024,01/27,Loras College Open,141,W,FALL,0:37,Kaden Hawkins-Hinson,89788,Iowa Central Community College,Drew Woodley,62105,Iowa State
+2024,01/27,Loras College Open,141,W,INJ,5:42,Paul Ishikawa,86636,Indian Hills,Drew Woodley,62105,Iowa State
+2024,01/27,Loras College Open,141,W,MFOR,0 - 0,Justin Murray,69827,Loras,Drew Woodley,62105,Iowa State
+2024,01/27,Loras College Open,141,W,TF5,15 - 0 7:00,Charles Matthews,67463,Iowa,Drew Woodley,62105,Iowa State
+2024,01/27,Loras College Open,141,L,MD,12 - 3,Connor Thorpe,68862,Northern Iowa,Drew Woodley,62105,Iowa State
+2024,11/11,Grandview Open,141,L,TF5,22 - 6 7:00,Matrece Smith,87592,Unattached,Drew Woodley,62105,Iowa State
+2024,11/11,Grandview Open,141,W,TF5,16 - 1 7:00,Carson Jensen,87575,William Penn,Drew Woodley,62105,Iowa State
+2024,11/11,Grandview Open,141,L,DEC,8 - 5,Amado Castellon,75886,Grand View,Drew Woodley,62105,Iowa State
+2024,11/11,Grandview Open,141,W,DEC,11 - 7,Creighton Baughman,63391,Concordia,Drew Woodley,62105,Iowa State
+2024,02/02,West Virginia - Iowa State Dual,141,L,MD,11 - 3,Jordan Titus,68738,West Virginia,Sam Hrabovsky,70748,Iowa State
+2024,01/27,Loras College Open,141,W,MD,14 - 6,Benjamin Fosdick,89792,Iowa Central Community College,Sam Hrabovsky,70748,Iowa State
+2024,01/27,Loras College Open,141,L,DEC,13 - 9,Ben Murphy,76251,Grand View,Sam Hrabovsky,70748,Iowa State
+2024,01/27,Loras College Open,141,L,DEC,10 - 4,Connor Thorpe,68862,Northern Iowa,Sam Hrabovsky,70748,Iowa State
+2024,01/27,Loras College Open,141,W,TF5,17 - 2 7:00,Andrew Schad,86339,Wisconsin-Oshkosh,Sam Hrabovsky,70748,Iowa State
+2024,01/27,Loras College Open,141,W,TF5,19 - 3 7:00,Elliot Cooney,78865,Cornell College,Sam Hrabovsky,70748,Iowa State
+2024,11/11,Grandview Open,141,W,DEC,4 - 0,Jermiah Zuniga,87596,North Idaho College,Sam Hrabovsky,70748,Iowa State
+2024,11/11,Grandview Open,141,W,SV-1,7 - 4,Justin Rodriguez,87587,Pratt Community College,Sam Hrabovsky,70748,Iowa State
+2024,11/11,Grandview Open,141,W,MD,14 - 0,Nickolas Kuehn,87577,Southeast Community College,Sam Hrabovsky,70748,Iowa State
+2024,11/11,Grandview Open,141,W,MD,17 - 4,Jazen Brown,82515,Labette Community College,Sam Hrabovsky,70748,Iowa State
+2024,11/11,Grandview Open,141,W,DEC,4 - 1,Easton Taylor,80856,Pratt Community College,Sam Hrabovsky,70748,Iowa State
+2024,11/11,Grandview Open,141,W,TF5,15 - 0 7:00,Angelo Reyes,76798,Ottawa,Sam Hrabovsky,70748,Iowa State
+2024,01/27,Loras College Open,141,W,FALL,1:53,Jaxon Rolling,92525,Unattached,Damon Huston,71916,Iowa State
+2024,01/27,Loras College Open,141,L,MD,12 - 4,Charles Matthews,67463,Iowa,Damon Huston,71916,Iowa State
+2024,01/27,Loras College Open,141,L,MD,15 - 2,Avery Allen,84405,South Dakota State,Damon Huston,71916,Iowa State
+2024,01/27,Loras College Open,141,W,DEC,7 - 3,Wyatt Doty,85195,Upper Iowa,Damon Huston,71916,Iowa State
+2024,11/11,Grandview Open,141,L,DEC,8 - 5,Dominic Schiavone,86648,St Ambrose,Damon Huston,71916,Iowa State
+2024,11/11,Grandview Open,141,L,FALL,5:41,Easton Taylor,80856,Pratt Community College,Damon Huston,71916,Iowa State
+2024,11/11,Grandview Open,141,W,FALL,3:45,Angelo Reyes,76798,Ottawa,Damon Huston,71916,Iowa State
+2024,03/21,NCAA Championships,149,W,MD,19 - 8,Quinn Kinner,51144,Rider,Casey Swiderski,71913,Iowa State
+2024,03/21,NCAA Championships,149,L,MD,10 - 2,Ty Watters,73868,West Virginia,Casey Swiderski,71913,Iowa State
+2024,03/21,NCAA Championships,149,W,TB-1,2 - 1,Dylan D'Emilio,56726,Ohio State,Casey Swiderski,71913,Iowa State
+2024,03/21,NCAA Championships,149,L,MD,14 - 4,Ridge Lovett,57520,Nebraska,Casey Swiderski,71913,Iowa State
+2024,03/21,NCAA Championships,149,W,TB-1,8 - 5,Ethan Fernandez,72088,Cornell,Casey Swiderski,71913,Iowa State
+2024,03/21,NCAA Championships,149,W,DEC,2 - 1,Matthew Williams,69376,Army West Point,Casey Swiderski,71913,Iowa State
+2024,03/09,Big 12 Championships,149,W,MD,19 - 5,Willie McDougald,67042,Oklahoma,Casey Swiderski,71913,Iowa State
+2024,03/09,Big 12 Championships,149,W,TF5,22 - 6 6:18,Gabe Willochell,62335,Wyoming,Casey Swiderski,71913,Iowa State
+2024,03/09,Big 12 Championships,149,L,DEC,8 - 7,Jordan Williams,73709,Oklahoma State,Casey Swiderski,71913,Iowa State
+2024,03/09,Big 12 Championships,149,W,DEC,4 - 2,Logan Gioffre,66985,Missouri,Casey Swiderski,71913,Iowa State
+2024,02/25,Missouri - Iowa State Dual,149,W,TF5,20 - 4 6:41,Zeke Seltzer,72572,Missouri,Casey Swiderski,71913,Iowa State
+2024,02/11,Northern Iowa - Iowa State Dual,149,W,TF5,19 - 4 4:58,Cael Rahnavardi,73005,Northern Iowa,Casey Swiderski,71913,Iowa State
+2024,02/02,West Virginia - Iowa State Dual,149,W,SV-1,7 - 4,Ty Watters,73868,West Virginia,Casey Swiderski,71913,Iowa State
+2024,01/27,Iowa State - Oklahoma State Dual,149,W,DEC,8 - 2,Sammy Alvarez,56763,Oklahoma State,Casey Swiderski,71913,Iowa State
+2024,01/26,Iowa State - Oklahoma Dual,149,W,DEC,8 - 3,Willie McDougald,67042,Oklahoma,Casey Swiderski,71913,Iowa State
+2024,12/01,Cliff Keen Invitational,149,W,MD,16 - 4,Dylan Gilcher,77964,Michigan,Casey Swiderski,71913,Iowa State
+2024,12/01,Cliff Keen Invitational,149,W,MD,13 - 4,Nash Singleton,73038,Oregon State,Casey Swiderski,71913,Iowa State
+2024,12/01,Cliff Keen Invitational,149,L,DEC,13 - 10,Dylan D'Emilio,56726,Ohio State,Casey Swiderski,71913,Iowa State
+2024,12/01,Cliff Keen Invitational,149,L,DEC,4 - 2,Kyle Parco,58562,Arizona State,Casey Swiderski,71913,Iowa State
+2024,12/01,Cliff Keen Invitational,149,W,DEC,7 - 2,Jayden Scott,73860,North Carolina,Casey Swiderski,71913,Iowa State
+2024,12/01,Cliff Keen Invitational,149,W,DEC,14 - 11,Jaden Abas,56738,Stanford,Casey Swiderski,71913,Iowa State
+2024,12/01,Cliff Keen Invitational,149,W,MD,18 - 6,Gabe Willochell,62335,Wyoming,Casey Swiderski,71913,Iowa State
+2024,11/26,Iowa - Iowa State Dual,149,W,DEC,6 - 3,Victor Voinovich,67220,Iowa,Casey Swiderski,71913,Iowa State
+2024,11/19,Wisconsin - Iowa State Dual,149,W,DEC,9 - 4,Joseph Zargo,62890,Wisconsin,Casey Swiderski,71913,Iowa State
+2024,11/11,Grandview Open,149,W,TF5,19 - 4 7:00,Leonel Silvestre,87591,Truett-McConnell,Casey Swiderski,71913,Iowa State
+2024,11/11,Grandview Open,149,W,TF5,27 - 10 7:00,Matt Sarbo,80436,Iowa Central Community College,Casey Swiderski,71913,Iowa State
+2024,11/11,Grandview Open,149,W,TF5,18 - 3 7:00,Logan Johnson,76582,Avila University,Casey Swiderski,71913,Iowa State
+2024,11/11,Grandview Open,149,W,MD,10 - 2,Blake Gonzalez,75857,Grand View,Casey Swiderski,71913,Iowa State
+2024,11/11,Grandview Open,149,W,TF5,23 - 8 7:00,Ethan Basile,62587,Northern Iowa,Casey Swiderski,71913,Iowa State
+2024,01/12,Utah Valley - Iowa State Dual,149,W,DEC,4 - 1,Isaiah Delgado,57056,Utah Valley,Zach Redding,62726,Iowa State
+2024,01/07,Iowa State - Cal Baptist Dual,149,W,DEC,6 - 3,Dayne Morton,56980,Cal Baptist,Zach Redding,62726,Iowa State
+2024,01/05,Iowa State - Arizona State Dual,149,L,FALL,0:48,Kaleb Larkin,73106,Arizona State,Zach Redding,62726,Iowa State
+2024,12/18,Iowa State - Cornell Dual,149,W,DEC,5 - 1,Ethan Fernandez,72088,Cornell,Zach Redding,62726,Iowa State
+2024,12/18,Iowa State - Little Rock Dual,149,W,MD,9 - 1,Kyle Dutton,73067,Little Rock,Zach Redding,62726,Iowa State
+2024,12/18,Iowa State - Pittsburgh Dual,149,L,DEC,8 - 4,Finn Solomon,73123,Pittsburgh,Zach Redding,62726,Iowa State
+2024,11/19,Daktronics Open,141,W,TF5,18 - 3 7:00,Connor Thorpe,68862,Northern Iowa,Zach Redding,62726,Iowa State
+2024,11/19,Daktronics Open,141,L,FALL,3:54,Cael Happel,62345,Northern Iowa,Zach Redding,62726,Iowa State
+2024,11/11,Grandview Open,141,W,TF5,17 - 1 7:00,Marckis Branford,87568,Grand View,Zach Redding,62726,Iowa State
+2024,11/11,Grandview Open,141,W,MD,14 - 2,Kristofer Arrey,87563,Missouri Valley,Zach Redding,62726,Iowa State
+2024,11/11,Grandview Open,141,W,TF5,19 - 4 7:00,Tristan Bremer,81887,Providence,Zach Redding,62726,Iowa State
+2024,11/11,Grandview Open,141,W,TF5,20 - 4 7:00,Logan Wagner,77454,Marian University,Zach Redding,62726,Iowa State
+2024,01/27,Loras College Open,149,W,DEC,10 - 8,Elijah Larsen,87316,Grand View,Carter Fousek,73299,Iowa State
+2024,01/27,Loras College Open,149,W,SV-1,4 - 1,Cade Siebrecht,78547,Iowa,Carter Fousek,73299,Iowa State
+2024,01/27,Loras College Open,149,W,FALL,3:31,Joseph Mendoza,86346,Wisconsin-Oshkosh,Carter Fousek,73299,Iowa State
+2024,01/27,Loras College Open,149,W,DEC,14 - 11,Easton Worachek,85144,Wisconsin-Parkside,Carter Fousek,73299,Iowa State
+2024,11/11,Grandview Open,149,L,DEC,5 - 2,Evan Barajas,87565,North Idaho College,Thomas Freking,84512,Iowa State
+2024,11/11,Grandview Open,149,W,FALL,1:26,Bryan Perez,86699,Waldorf,Thomas Freking,84512,Iowa State
+2024,11/11,Grandview Open,149,W,DEC,10 - 4,Jaden Machado,86691,Graceland University,Thomas Freking,84512,Iowa State
+2024,11/11,Grandview Open,149,L,DEC,10 - 3,Drake Montelongo,82709,Lindsey Wilson,Thomas Freking,84512,Iowa State
+2024,03/21,NCAA Championships,157,L,DEC,14 - 13,Michael Blockhus,57163,Minnesota,Cody Chittum,60816,Iowa State
+2024,03/21,NCAA Championships,157,W,TF5,20 - 4 5:00,Colton Washleski,72909,Rider,Cody Chittum,60816,Iowa State
+2024,03/21,NCAA Championships,157,L,MD,17 - 6,Tommy Askey,67040,Appalachian State,Cody Chittum,60816,Iowa State
+2024,03/09,Big 12 Championships,157,L,TB-2,5 - 3,Ryder Downey,78639,Northern Iowa,Cody Chittum,60816,Iowa State
+2024,03/09,Big 12 Championships,157,W,DEC,6 - 0,Jared Hill,72164,Oklahoma,Cody Chittum,60816,Iowa State
+2024,03/09,Big 12 Championships,157,W,DEC,7 - 3,Brock Mauller,50596,Missouri,Cody Chittum,60816,Iowa State
+2024,03/09,Big 12 Championships,157,W,TF5,22 - 4 5:29,Brooks Gable,71707,Air Force,Cody Chittum,60816,Iowa State
+2024,02/25,Missouri - Iowa State Dual,157,W,DEC,11 - 4,James Conway,73529,Missouri,Cody Chittum,60816,Iowa State
+2024,02/11,Northern Iowa - Iowa State Dual,157,L,DEC,12 - 9,Ryder Downey,78639,Northern Iowa,Cody Chittum,60816,Iowa State
+2024,02/02,West Virginia - Iowa State Dual,157,W,MD,13 - 5,Caleb Dowling,62359,West Virginia,Cody Chittum,60816,Iowa State
+2024,01/12,Utah Valley - Iowa State Dual,157,W,TF5,17 - 2 4:45,Alex Emmer,72614,Utah Valley,Cody Chittum,60816,Iowa State
+2024,01/07,Iowa State - Cal Baptist Dual,157,W,TF5,31 - 11 7:00,Chaz Hallmark,62925,Cal Baptist,Cody Chittum,60816,Iowa State
+2024,01/05,Iowa State - Arizona State Dual,157,W,DEC,9 - 5,Jacori Teemer,50581,Arizona State,Cody Chittum,60816,Iowa State
+2024,12/18,Iowa State - Cornell Dual,157,W,MD,20 - 6,Cole Handlovic,65422,Cornell,Cody Chittum,60816,Iowa State
+2024,12/18,Iowa State - Little Rock Dual,157,W,DEC,10 - 6,Matt Bianchi,72120,Little Rock,Cody Chittum,60816,Iowa State
+2024,12/18,Iowa State - Pittsburgh Dual,157,W,MD,13 - 2,Jared Keslar,72953,Pittsburgh,Cody Chittum,60816,Iowa State
+2024,12/01,Cliff Keen Invitational,157,L,FALL,1:16,Bryce Andonian,56739,Virginia Tech,Cody Chittum,60816,Iowa State
+2024,12/01,Cliff Keen Invitational,157,W,DEC,11 - 5,Danny Nini,73105,North Carolina,Cody Chittum,60816,Iowa State
+2024,12/01,Cliff Keen Invitational,157,L,DEC,9 - 8,Daniel Cardenas,72978,Stanford,Cody Chittum,60816,Iowa State
+2024,12/01,Cliff Keen Invitational,157,W,TF5,21 - 2 6:39,Thomas Snipes,73714,The Citadel,Cody Chittum,60816,Iowa State
+2024,11/26,Iowa - Iowa State Dual,157,L,DEC,4 - 2,Jared Franek,50639,Iowa,Cody Chittum,60816,Iowa State
+2024,11/19,Wisconsin - Iowa State Dual,157,W,MD,15 - 2,Luke Mechler,71940,Wisconsin,Cody Chittum,60816,Iowa State
+2024,11/12,Davidson - Iowa State Dual,157,W,MD,13 - 3,Tanner Peake,78288,Davidson,Cody Chittum,60816,Iowa State
+2024,01/27,Loras College Open,157,W,MD,18 - 6,Christian Stanek,78844,Iowa State,Paniro Johnson,68708,Iowa State
+2024,01/27,Loras College Open,157,W,FALL,1:56,Slade Dias,78089,St Ambrose,Paniro Johnson,68708,Iowa State
+2024,01/27,Loras College Open,157,W,DEC,4 - 2,Cody Goebel,79251,Wisconsin,Paniro Johnson,68708,Iowa State
+2024,01/27,Loras College Open,157,W,TF5,21 - 4 7:00,Collin Altensey,85197,Upper Iowa,Paniro Johnson,68708,Iowa State
+2024,01/27,Loras College Open,157,W,FALL,1:02,Jack Yee,76119,Loras,Paniro Johnson,68708,Iowa State
+2024,12/29,Soldier Salute,157,W,TF5,23 - 7 7:00,Isaiah Fenton,84481,Iowa,Paniro Johnson,68708,Iowa State
+2024,12/29,Soldier Salute,157,W,DEC,7 - 3,Carter Martinson,73555,Iowa,Paniro Johnson,68708,Iowa State
+2024,12/29,Soldier Salute,157,W,DEC,11 - 6,Sonny Santiago,61113,North Carolina,Paniro Johnson,68708,Iowa State
+2024,12/29,Soldier Salute,157,L,SV-1,4 - 1,Cael Swensen,70926,South Dakota State,Paniro Johnson,68708,Iowa State
+2024,12/29,Soldier Salute,157,W,MD,19 - 6,Sloan Swan,78775,Wyoming,Paniro Johnson,68708,Iowa State
+2024,12/02,Oppenheim Invitational,157,W,TF5,22 - 6 7:00,Isaias Jimenez,89521,High School,Paniro Johnson,68708,Iowa State
+2024,12/02,Oppenheim Invitational,157,W,TF5,20 - 5 7:00,Ben Miller,81194,Doane College,Paniro Johnson,68708,Iowa State
+2024,12/02,Oppenheim Invitational,157,W,TF5,21 - 6 7:00,Invi Bella,74714,Graceland University,Paniro Johnson,68708,Iowa State
+2024,12/02,Oppenheim Invitational,157,W,TF5,20 - 5 7:00,Jason Kraisser,57287,Iowa State,Paniro Johnson,68708,Iowa State
+2024,01/27,Iowa State - Oklahoma State Dual,157,L,DEC,8 - 3,Teague Travis,63722,Oklahoma State,Jason Kraisser,57287,Iowa State
+2024,01/26,Iowa State - Oklahoma Dual,157,W,DEC,2 - 0,Jared Hill,72164,Oklahoma,Jason Kraisser,57287,Iowa State
+2024,12/29,Soldier Salute,157,W,DEC,9 - 2,Carter Martinson,73555,Iowa,Jason Kraisser,57287,Iowa State
+2024,12/29,Soldier Salute,157,L,MD,13 - 3,Jared Franek,50639,Iowa,Jason Kraisser,57287,Iowa State
+2024,12/29,Soldier Salute,157,W,FALL,6:28,Jonathan Ley,78350,Navy,Jason Kraisser,57287,Iowa State
+2024,12/29,Soldier Salute,157,L,MD,14 - 4,Sonny Santiago,61113,North Carolina,Jason Kraisser,57287,Iowa State
+2024,12/29,Soldier Salute,157,W,MD,9 - 0,Cooper Voorhees,67459,Wyoming,Jason Kraisser,57287,Iowa State
+2024,12/02,Oppenheim Invitational,157,L,TF5,20 - 5 7:00,Paniro Johnson,68708,Iowa State,Jason Kraisser,57287,Iowa State
+2024,12/02,Oppenheim Invitational,157,W,FALL,3:44,Jake Patterson,89522,Hastings,Jason Kraisser,57287,Iowa State
+2024,12/02,Oppenheim Invitational,157,W,MD,17 - 4,Dez Gartrell,75855,Unattached,Jason Kraisser,57287,Iowa State
+2024,12/02,Oppenheim Invitational,157,W,FALL,2:52,Tyson Johnson,74653,Dakota Wesleyan,Jason Kraisser,57287,Iowa State
+2024,11/19,Daktronics Open,157,W,FALL,1:29,Kyler Wong,87488,Minnesota,Jason Kraisser,57287,Iowa State
+2024,11/19,Daktronics Open,157,L,DEC,9 - 3,Ryder Downey,78639,Northern Iowa,Jason Kraisser,57287,Iowa State
+2024,11/19,Daktronics Open,157,W,FALL,2:44,Kaleb Olejniczak,62607,Northern Iowa,Jason Kraisser,57287,Iowa State
+2024,11/19,Daktronics Open,157,W,DEC,10 - 5,Boeden Greenley,79279,North Dakota State,Jason Kraisser,57287,Iowa State
+2024,11/11,Grandview Open,157,W,TF5,16 - 1 7:00,Jacob Knowles,87576,Friends University,Jason Kraisser,57287,Iowa State
+2024,11/11,Grandview Open,157,W,TF5,17 - 0 7:00,Alex Casarez,82558,Grand View,Jason Kraisser,57287,Iowa State
+2024,11/11,Grandview Open,157,W,DEC,7 - 3,Ethan Stiles,82465,Nebraska,Jason Kraisser,57287,Iowa State
+2024,11/11,Grandview Open,157,W,DEC,9 - 4,Thade Radosa,74318,Cornerstone,Jason Kraisser,57287,Iowa State
+2024,11/11,Grandview Open,157,W,TF5,19 - 0 7:00,Donald Griffin,70726,Central Methodist,Jason Kraisser,57287,Iowa State
+2024,11/11,Grandview Open,157,L,DEC,10 - 4,Robert Weston,70922,Northern Iowa,Jason Kraisser,57287,Iowa State
+2024,11/05,Iowa State - Cleveland State Dual,157,W,TF5,19 - 3 7:00,Shane Heil,72593,Cleveland State,Jason Kraisser,57287,Iowa State
+2024,01/27,Loras College Open,157,L,MD,18 - 6,Paniro Johnson,68708,Iowa State,Christian Stanek,78844,Iowa State
+2024,01/27,Loras College Open,157,W,TF5,19 - 3 7:00,Cael Grell,81832,St Ambrose,Christian Stanek,78844,Iowa State
+2024,01/27,Loras College Open,157,W,FALL,4:20,Traevin Osborn,75304,Loras,Christian Stanek,78844,Iowa State
+2024,01/27,Loras College Open,157,W,DEC,7 - 4,Kavan Troy,74321,Northern Illinois,Christian Stanek,78844,Iowa State
+2024,12/29,Soldier Salute,157,L,DEC,4 - 1,Carter Martinson,73555,Iowa,Christian Stanek,78844,Iowa State
+2024,12/29,Soldier Salute,157,L,SV-1,8 - 5,James Conway,73529,Missouri,Christian Stanek,78844,Iowa State
+2024,12/29,Soldier Salute,157,L,DEC,7 - 3,James Conway,73529,Missouri,Christian Stanek,78844,Iowa State
+2024,12/29,Soldier Salute,157,W,INJ,7:00,Jonathan Ley,78350,Navy,Christian Stanek,78844,Iowa State
+2024,12/29,Soldier Salute,157,W,DEC,4 - 2,Moses Espinoza-Owens,81796,South Dakota State,Christian Stanek,78844,Iowa State
+2024,12/29,Soldier Salute,157,W,DEC,8 - 6,Josh Yost,62379,VMI,Christian Stanek,78844,Iowa State
+2024,11/19,Daktronics Open,157,L,DEC,4 - 1,Kyler Wong,87488,Minnesota,Christian Stanek,78844,Iowa State
+2024,11/19,Daktronics Open,157,W,MD,11 - 3,Ryan Dolezal,79258,South Dakota State,Christian Stanek,78844,Iowa State
+2024,11/19,Daktronics Open,157,L,FALL,5:35,Robert Weston,70922,Northern Iowa,Christian Stanek,78844,Iowa State
+2024,11/11,Grandview Open,157,W,MD,10 - 2,Benjamin Mitchell,87582,Ottawa,Christian Stanek,78844,Iowa State
+2024,11/11,Grandview Open,157,W,MD,15 - 1,Ryan Fox,87571,Southeast Community College,Christian Stanek,78844,Iowa State
+2024,11/11,Grandview Open,157,W,TF5,17 - 2 7:00,Ethan Boles,87567,Barton,Christian Stanek,78844,Iowa State
+2024,11/11,Grandview Open,157,W,DEC,8 - 1,Michael Myers,87016,Iowa Central Community College,Christian Stanek,78844,Iowa State
+2024,11/11,Grandview Open,157,W,FALL,2:13,Nakkos Benton,81540,Baker,Christian Stanek,78844,Iowa State
+2024,11/11,Grandview Open,157,L,DEC,5 - 3,Darnai Heard,77336,Iowa Central Community College,Christian Stanek,78844,Iowa State
+2024,12/29,Soldier Salute,157,L,MFOR,0 - 0,Sebas Swiggum,57336,Minnesota,Logan Stotts,84510,Iowa State
+2024,12/29,Soldier Salute,157,L,MD,11 - 0,Sonny Santiago,61113,North Carolina,Logan Stotts,84510,Iowa State
+2024,12/29,Soldier Salute,157,L,DEC,9 - 5,Moses Espinoza-Owens,81796,South Dakota State,Logan Stotts,84510,Iowa State
+2024,12/29,Soldier Salute,157,L,INJ,7:00,Andrew Garr,57348,Columbia,Logan Stotts,84510,Iowa State
+2024,11/11,Grandview Open,157,W,DEC,15 - 10,Josiah Schaetzle,87590,Iowa Central Community College,Logan Stotts,84510,Iowa State
+2024,11/11,Grandview Open,157,W,FALL,1:56,Aaron Myers,87584,Missouri Valley,Logan Stotts,84510,Iowa State
+2024,11/11,Grandview Open,157,L,TF5,16 - 1 7:00,Brice Coleman,87570,Indian Hills,Logan Stotts,84510,Iowa State
+2024,11/11,Grandview Open,157,W,FALL,2:26,Luciano Benenati,87566,Missouri Valley,Logan Stotts,84510,Iowa State
+2024,11/11,Grandview Open,157,W,FALL,2:51,DominiK Gendreau,87339,Benedictine College,Logan Stotts,84510,Iowa State
+2024,11/11,Grandview Open,157,W,DEC,14 - 11,Makoa Goeas,74878,Missouri Valley,Logan Stotts,84510,Iowa State
+2024,03/21,NCAA Championships,165,W,DEC,9 - 8,Mitchell Mesenbrink,73197,Penn State,David Carr,51126,Iowa State
+2024,03/21,NCAA Championships,165,W,DEC,8 - 6,Keegan O'Toole,61119,Missouri,David Carr,51126,Iowa State
+2024,03/21,NCAA Championships,165,W,DEC,5 - 0,Dean Hamiti,62894,Wisconsin,David Carr,51126,Iowa State
+2024,03/21,NCAA Championships,165,W,MD,10 - 1,Hunter Garvin,73862,Stanford,David Carr,51126,Iowa State
+2024,03/21,NCAA Championships,165,W,TF5,18 - 2 4:52,Evan Maag,78473,George Mason,David Carr,51126,Iowa State
+2024,03/09,Big 12 Championships,165,L,DEC,8 - 2,Keegan O'Toole,61119,Missouri,David Carr,51126,Iowa State
+2024,03/09,Big 12 Championships,165,W,TF5,17 - 2 5:47,Jack Thomsen,63138,Northern Iowa,David Carr,51126,Iowa State
+2024,03/09,Big 12 Championships,165,W,DEC,5 - 1,Peyton Hall,57711,West Virginia,David Carr,51126,Iowa State
+2024,03/09,Big 12 Championships,165,W,FALL,2:07,Mateo de la Pena,79039,Cal Baptist,David Carr,51126,Iowa State
+2024,02/25,Missouri - Iowa State Dual,165,W,FALL,2:11,Jeremy Jakowitsch,73386,Missouri,David Carr,51126,Iowa State
+2024,02/11,Northern Iowa - Iowa State Dual,165,W,TF5,20 - 3 5:50,Jack Thomsen,63138,Northern Iowa,David Carr,51126,Iowa State
+2024,02/02,West Virginia - Iowa State Dual,165,W,DEC,10 - 5,Peyton Hall,57711,West Virginia,David Carr,51126,Iowa State
+2024,01/27,Iowa State - Oklahoma State Dual,165,W,DEC,8 - 1,Izzak Olejnik,56509,Oklahoma State,David Carr,51126,Iowa State
+2024,01/26,Iowa State - Oklahoma Dual,165,W,TF5,21 - 3 4:50,Mannix Morgan,72092,Oklahoma,David Carr,51126,Iowa State
+2024,01/12,Utah Valley - Iowa State Dual,165,W,FALL,2:28,Jaxon Garoutte,67450,Utah Valley,David Carr,51126,Iowa State
+2024,01/07,Iowa State - Cal Baptist Dual,165,W,FALL,2:02,Timothy Cowan,79040,Cal Baptist,David Carr,51126,Iowa State
+2024,01/05,Iowa State - Arizona State Dual,165,W,TF5,20 - 4 5:36,Nicco Ruiz,78681,Arizona State,David Carr,51126,Iowa State
+2024,12/18,Iowa State - Cornell Dual,165,W,FALL,2:57,Benny Rogers,74573,Cornell,David Carr,51126,Iowa State
+2024,12/18,Iowa State - Pittsburgh Dual,165,W,MD,9 - 1,Holden Heller,50940,Pittsburgh,David Carr,51126,Iowa State
+2024,12/01,Cliff Keen Invitational,165,W,DEC,3 - 1,Cameron Amine,57289,Michigan,David Carr,51126,Iowa State
+2024,12/01,Cliff Keen Invitational,165,L,DEC,4 - 3,Julian Ramirez,56706,Cornell,David Carr,51126,Iowa State
+2024,12/01,Cliff Keen Invitational,165,W,TF5,19 - 2 3:00,Evan Yant,69966,Northern Iowa,David Carr,51126,Iowa State
+2024,12/01,Cliff Keen Invitational,165,W,TF5,15 - 0 3:49,Hunter Garvin,73862,Stanford,David Carr,51126,Iowa State
+2024,12/01,Cliff Keen Invitational,165,W,MD,15 - 3,Garrett Thompson,73169,Ohio,David Carr,51126,Iowa State
+2024,12/01,Cliff Keen Invitational,165,W,TF5,20 - 3 4:10,Will Miller,73102,Appalachian State,David Carr,51126,Iowa State
+2024,11/26,Iowa - Iowa State Dual,165,W,MD,16 - 4,Michael Caliendo,71699,Iowa,David Carr,51126,Iowa State
+2024,11/19,Wisconsin - Iowa State Dual,165,W,DEC,2 - 0,Dean Hamiti,62894,Wisconsin,David Carr,51126,Iowa State
+2024,11/12,Davidson - Iowa State Dual,165,W,TF5,17 - 2 3:56,Marc Koch,73735,Davidson,David Carr,51126,Iowa State
+2024,11/05,Iowa State - Cleveland State Dual,165,W,FALL,1:47,Daniel Patten,62489,Cleveland State,David Carr,51126,Iowa State
+2024,01/27,Loras College Open,165,W,FALL,3:32,Garytt Ostrander,84708,Dubuque Wrestling Club,Connor Euton,74564,Iowa State
+2024,01/27,Loras College Open,165,L,DEC,12 - 8,Drake Rhodes,73705,Iowa,Connor Euton,74564,Iowa State
+2024,01/27,Loras College Open,165,L,MFOR,0 - 0,Izzy Moreno,84966,Northern Iowa,Connor Euton,74564,Iowa State
+2024,01/27,Loras College Open,165,W,TF5,16 - 1 7:00,Nolan Schuetz,84713,Cornell College,Connor Euton,74564,Iowa State
+2024,12/29,Soldier Salute,165,L,FALL,1:25,Patrick Kennedy,56760,Iowa,Connor Euton,74564,Iowa State
+2024,12/29,Soldier Salute,165,W,DEC,16 - 13,Blaine Brenner,72138,Minnesota,Connor Euton,74564,Iowa State
+2024,12/29,Soldier Salute,165,W,TF5,19 - 4 7:00,Isaias Estrada,72152,North Carolina,Connor Euton,74564,Iowa State
+2024,12/29,Soldier Salute,165,W,MD,14 - 2,Izzy Moreno,84966,Northern Iowa,Connor Euton,74564,Iowa State
+2024,12/29,Soldier Salute,165,W,TF5,19 - 3 7:00,Jack Thomsen,63138,Northern Iowa,Connor Euton,74564,Iowa State
+2024,12/29,Soldier Salute,165,W,MD,15 - 5,Marcus Espinoza-Owens,81795,South Dakota State,Connor Euton,74564,Iowa State
+2024,12/29,Soldier Salute,165,W,FALL,4:37,Grant O'Dell,78484,Bellarmine,Connor Euton,74564,Iowa State
+2024,12/18,Iowa State - Little Rock Dual,165,W,DEC,10 - 7,Joseph Bianchi,62836,Little Rock,Connor Euton,74564,Iowa State
+2024,12/02,Oppenheim Invitational,165,W,TF5,17 - 2 7:00,Nathaniel Martindale,83518,Grand View,Connor Euton,74564,Iowa State
+2024,12/02,Oppenheim Invitational,165,W,TF5,17 - 2 7:00,Justin McCunn,75894,Grand View,Connor Euton,74564,Iowa State
+2024,12/02,Oppenheim Invitational,165,W,TF5,26 - 8 7:00,Braeden Baller,70745,Texas Wesleyan,Connor Euton,74564,Iowa State
+2024,12/02,Oppenheim Invitational,165,W,TF5,20 - 3 7:00,Jack Ervien,61608,Grand View,Connor Euton,74564,Iowa State
+2024,11/19,Daktronics Open,165,W,MD,11 - 1,Izzy Moreno,84966,Northern Iowa,Connor Euton,74564,Iowa State
+2024,11/19,Daktronics Open,165,L,DEC,8 - 7,Hunter Lyden,72209,Minnesota,Connor Euton,74564,Iowa State
+2024,11/19,Daktronics Open,165,W,MD,12 - 4,Jack Thomsen,63138,Northern Iowa,Connor Euton,74564,Iowa State
+2024,11/19,Daktronics Open,165,W,DEC,4 - 0,Jack Thomsen,63138,Northern Iowa,Connor Euton,74564,Iowa State
+2024,11/11,Grandview Open,165,W,MD,17 - 3,Justin McCunn,75894,Grand View,Connor Euton,74564,Iowa State
+2024,11/11,Grandview Open,165,W,MD,14 - 1,Dez Gartrell,75855,Unattached,Connor Euton,74564,Iowa State
+2024,11/11,Grandview Open,165,W,TF5,23 - 7 7:00,Diego Machado,75333,St Ambrose,Connor Euton,74564,Iowa State
+2024,11/11,Grandview Open,165,W,TF5,16 - 1 7:00,Braeden Baller,70745,Texas Wesleyan,Connor Euton,74564,Iowa State
+2024,11/11,Grandview Open,165,W,FALL,1:37,Scott Betterton,64031,Grand View,Connor Euton,74564,Iowa State
+2024,11/19,Daktronics Open,165,W,DEC,9 - 5,Brock Fettig,78891,South Dakota State,Andrew Huddleston,71153,Iowa State
+2024,11/19,Daktronics Open,165,L,DEC,12 - 8,Evan Yant,69966,Northern Iowa,Andrew Huddleston,71153,Iowa State
+2024,11/19,Daktronics Open,165,L,DEC,10 - 4,Jack Thomsen,63138,Northern Iowa,Andrew Huddleston,71153,Iowa State
+2024,03/21,NCAA Championships,174,L,DEC,8 - 6,Edmond Ruth,51277,Illinois,MJ Gaitan,78494,Iowa State
+2024,03/21,NCAA Championships,174,W,DEC,13 - 8,Adam Kemp,57045,Cal Poly,MJ Gaitan,78494,Iowa State
+2024,03/21,NCAA Championships,174,W,MD,14 - 4,Jackson Turley,57636,Rutgers,MJ Gaitan,78494,Iowa State
+2024,03/21,NCAA Championships,174,W,FALL,4:11,Michael Wilson,62190,Rider,MJ Gaitan,78494,Iowa State
+2024,03/21,NCAA Championships,174,L,DEC,18 - 11,Ben Pasiuk,57286,Army West Point,MJ Gaitan,78494,Iowa State
+2024,03/09,Big 12 Championships,174,L,DEC,8 - 2,Brayden Thompson,78507,Oklahoma State,MJ Gaitan,78494,Iowa State
+2024,03/09,Big 12 Championships,174,W,MD,13 - 5,Peyton Mocco,50635,Missouri,MJ Gaitan,78494,Iowa State
+2024,03/09,Big 12 Championships,174,W,FALL,2:18,Mahonri Rushton,73063,Utah Valley,MJ Gaitan,78494,Iowa State
+2024,03/09,Big 12 Championships,174,W,FALL,1:43,Tate Picklo,72165,Oklahoma,MJ Gaitan,78494,Iowa State
+2024,03/09,Big 12 Championships,174,L,SV-1,6 - 3,Gaven Sax,65396,North Dakota State,MJ Gaitan,78494,Iowa State
+2024,02/25,Missouri - Iowa State Dual,174,W,FALL,5:35,Ellis Pfleger,64647,Missouri,MJ Gaitan,78494,Iowa State
+2024,02/11,Northern Iowa - Iowa State Dual,174,W,MD,10 - 2,Jared Simma,73007,Northern Iowa,MJ Gaitan,78494,Iowa State
+2024,02/02,West Virginia - Iowa State Dual,174,W,FALL,0:37,Brody Conley,71814,West Virginia,MJ Gaitan,78494,Iowa State
+2024,01/27,Iowa State - Oklahoma State Dual,174,W,SV-1,6 - 3,Brayden Thompson,78507,Oklahoma State,MJ Gaitan,78494,Iowa State
+2024,01/26,Iowa State - Oklahoma Dual,174,W,FALL,3:13,Tate Picklo,72165,Oklahoma,MJ Gaitan,78494,Iowa State
+2024,01/12,Utah Valley - Iowa State Dual,174,W,FALL,3:47,Caleb Uhlenhopp,79836,Utah Valley,MJ Gaitan,78494,Iowa State
+2024,01/07,Iowa State - Cal Baptist Dual,174,W,DEC,11 - 9,Justin Phillips,57093,Cal Baptist,MJ Gaitan,78494,Iowa State
+2024,01/05,Iowa State - Arizona State Dual,174,W,DEC,8 - 4,Cael Valencia,70908,Arizona State,MJ Gaitan,78494,Iowa State
+2024,12/18,Iowa State - Cornell Dual,174,W,DEC,10 - 7,Benny Baker,63471,Cornell,MJ Gaitan,78494,Iowa State
+2024,12/18,Iowa State - Little Rock Dual,174,W,MD,15 - 4,Kodiak Cannedy,73048,Little Rock,MJ Gaitan,78494,Iowa State
+2024,12/18,Iowa State - Pittsburgh Dual,174,L,DEC,5 - 4,Luca Augustine,68730,Pittsburgh,MJ Gaitan,78494,Iowa State
+2024,12/01,Cliff Keen Invitational,174,W,CMFF,0 - 0,Shane Griffith,49991,Michigan,MJ Gaitan,78494,Iowa State
+2024,12/01,Cliff Keen Invitational,174,L,DEC,10 - 5,Austin Murphy,51608,Campbell,MJ Gaitan,78494,Iowa State
+2024,12/01,Cliff Keen Invitational,174,L,MD,10 - 2,Cade DeVos,57072,South Dakota State,MJ Gaitan,78494,Iowa State
+2024,12/01,Cliff Keen Invitational,174,L,DEC,11 - 8,Lorenzo Norman,78822,Stanford,MJ Gaitan,78494,Iowa State
+2024,12/01,Cliff Keen Invitational,174,W,DEC,15 - 10,David Ferrante,57710,Northwestern,MJ Gaitan,78494,Iowa State
+2024,12/01,Cliff Keen Invitational,174,W,FALL,1:46,Blake Bahna,72236,LIU,MJ Gaitan,78494,Iowa State
+2024,11/26,Iowa - Iowa State Dual,174,L,DEC,14 - 13,Patrick Kennedy,56760,Iowa,MJ Gaitan,78494,Iowa State
+2024,11/19,Wisconsin - Iowa State Dual,174,W,FALL,2:25,Lucas Condon,79397,Wisconsin,MJ Gaitan,78494,Iowa State
+2024,11/12,Davidson - Iowa State Dual,174,W,FALL,3:38,Brett Sanderlin,71729,Davidson,MJ Gaitan,78494,Iowa State
+2024,11/05,Iowa State - Cleveland State Dual,174,W,TF5,19 - 3 3:38,Ronald Dimmerling,78754,Cleveland State,MJ Gaitan,78494,Iowa State
+2024,01/27,Loras College Open,174,W,DEC,5 - 4,Lawrence Rosario,86985,Iowa Central Community College,Caden Schmidt,82932,Iowa State
+2024,01/27,Loras College Open,174,L,DEC,7 - 3,Will Carano,71169,Iowa,Caden Schmidt,82932,Iowa State
+2024,01/27,Loras College Open,174,W,MD,8 - 0,Tyler Martinez,84342,Northern Illinois,Caden Schmidt,82932,Iowa State
+2024,01/27,Loras College Open,174,W,FALL,0:04,Tyler Martinez,84342,Northern Illinois,Caden Schmidt,82932,Iowa State
+2024,01/27,Loras College Open,174,W,FALL,3:54,Riggin Boger,84364,South Dakota State,Caden Schmidt,82932,Iowa State
+2024,12/29,Soldier Salute,174,L,DEC,7 - 1,Sean Harman,59678,Missouri,Caden Schmidt,82932,Iowa State
+2024,12/29,Soldier Salute,174,W,FALL,1:47,Luke LeClerc,78876,Bellarmine,Caden Schmidt,82932,Iowa State
+2024,12/29,Soldier Salute,174,L,TF5,17 - 2 7:00,Graham Gambrall,70752,Oregon State,Caden Schmidt,82932,Iowa State
+2024,11/19,Daktronics Open,174,W,FALL,1:12,Ethan Riddle,79016,Minnesota,Caden Schmidt,82932,Iowa State
+2024,11/19,Daktronics Open,174,W,SV-1,4 - 1,Spencer Steiner,72700,Unattached,Caden Schmidt,82932,Iowa State
+2024,11/19,Daktronics Open,174,L,SV-1,4 - 1,Carson Babcock,71944,Northern Iowa,Caden Schmidt,82932,Iowa State
+2024,11/19,Daktronics Open,174,W,MFOR,0 - 0,Carter Schmidt,62606,Iowa State,Caden Schmidt,82932,Iowa State
+2024,11/11,Grandview Open,174,W,FALL,3:30,Marquize Brown,87569,Vanguard University,Caden Schmidt,82932,Iowa State
+2024,11/11,Grandview Open,174,W,DEC,10 - 3,Marquize Brown,87569,Vanguard University,Caden Schmidt,82932,Iowa State
+2024,11/11,Grandview Open,174,W,MD,11 - 3,Paul Kadlec,86965,Joliet Junior College,Caden Schmidt,82932,Iowa State
+2024,11/11,Grandview Open,174,W,DEC,4 - 2,Jeraimiah Nyberg,80901,Graceland University,Caden Schmidt,82932,Iowa State
+2024,11/11,Grandview Open,174,L,MD,16 - 7,Nick Fox,84343,Northern Iowa,Caden Schmidt,82932,Iowa State
+2024,11/19,Daktronics Open,174,L,MFOR,0 - 0,Caden Schmidt,82932,Iowa State,Carter Schmidt,62606,Iowa State
+2024,11/19,Daktronics Open,174,W,MFOR,0 - 0,Nick Fox,84343,Northern Iowa,Carter Schmidt,62606,Iowa State
+2024,11/19,Daktronics Open,174,L,DEC,12 - 8,Jared Simma,73007,Northern Iowa,Carter Schmidt,62606,Iowa State
+2024,11/11,Grandview Open,174,W,TF5,21 - 5 7:00,Blaze Sumiye,87594,Providence,Carter Schmidt,62606,Iowa State
+2024,11/11,Grandview Open,174,W,MD,17 - 5,Wylee Lindeen,87578,Eastern Oregon University,Carter Schmidt,62606,Iowa State
+2024,11/11,Grandview Open,174,W,DEC,10 - 3,Jayden Terronez,78233,St Ambrose,Carter Schmidt,62606,Iowa State
+2024,11/11,Grandview Open,174,L,SV-1,4 - 1,NaKoda Siegel,77367,Montana State-Northern,Carter Schmidt,62606,Iowa State
+2024,11/11,Grandview Open,174,W,DEC,5 - 3,Elise Brown Ton,67059,Nebraska,Carter Schmidt,62606,Iowa State
+2024,11/11,Grandview Open,174,W,DEC,14 - 11,Hunter Hobbs,87573,Providence,Manuel Rojas,71915,Iowa State
+2024,11/11,Grandview Open,174,L,DEC,10 - 5,Christopher Minto,84337,Nebraska,Manuel Rojas,71915,Iowa State
+2024,11/11,Grandview Open,174,L,SV-1,8 - 5,NaKoda Siegel,77367,Montana State-Northern,Manuel Rojas,71915,Iowa State
+2024,11/11,Grandview Open,174,W,TF5,17 - 1 7:00,Tommy Even,67556,Grand View,Manuel Rojas,71915,Iowa State
+2024,03/21,NCAA Championships,184,L,DEC,4 - 2,Dylan Fishback,69792,NC State,Will Feldkamp,51599,Iowa State
+2024,03/21,NCAA Championships,184,W,MD,15 - 5,Reece Heller,61961,Pittsburgh,Will Feldkamp,51599,Iowa State
+2024,03/21,NCAA Championships,184,L,TF5,19 - 4 6:52,Parker Keckeisen,56724,Northern Iowa,Will Feldkamp,51599,Iowa State
+2024,03/21,NCAA Championships,184,W,FALL,2:29,Nate Dugan,57662,Princeton,Will Feldkamp,51599,Iowa State
+2024,03/09,Big 12 Championships,184,L,DEC,9 - 7,Colton Hawks,62375,Missouri,Will Feldkamp,51599,Iowa State
+2024,03/09,Big 12 Championships,184,L,DEC,17 - 11,Sam Wolf,66631,Air Force,Will Feldkamp,51599,Iowa State
+2024,03/09,Big 12 Championships,184,L,MD,13 - 2,Colton Hawks,62375,Missouri,Will Feldkamp,51599,Iowa State
+2024,03/09,Big 12 Championships,184,W,TF5,18 - 1 6:18,Ethan Ducca,62334,Wyoming,Will Feldkamp,51599,Iowa State
+2024,03/09,Big 12 Championships,184,W,FALL,7:00,Nathan Haas,62341,Cal Baptist,Will Feldkamp,51599,Iowa State
+2024,02/25,Missouri - Iowa State Dual,184,L,DEC,12 - 8,Colton Hawks,62375,Missouri,Will Feldkamp,51599,Iowa State
+2024,01/27,Iowa State - Oklahoma State Dual,184,L,MD,17 - 3,Dustin Plott,57607,Oklahoma State,Will Feldkamp,51599,Iowa State
+2024,01/26,Iowa State - Oklahoma Dual,184,W,MD,14 - 6,Guiseppe Hoose,56371,Oklahoma,Will Feldkamp,51599,Iowa State
+2024,01/12,Utah Valley - Iowa State Dual,184,W,TF5,19 - 4 7:00,Jacob Armstrong,40321,Utah Valley,Will Feldkamp,51599,Iowa State
+2024,01/07,Iowa State - Cal Baptist Dual,184,W,FALL,1:04,Nathan Haas,62341,Cal Baptist,Will Feldkamp,51599,Iowa State
+2024,01/05,Iowa State - Arizona State Dual,184,W,DEC,12 - 7,Tony Negron,58308,Arizona State,Will Feldkamp,51599,Iowa State
+2024,12/18,Iowa State - Cornell Dual,184,L,DEC,8 - 7,Chris Foca,56712,Cornell,Will Feldkamp,51599,Iowa State
+2024,12/18,Iowa State - Little Rock Dual,184,W,FALL,3:21,Triston Wills,58611,Little Rock,Will Feldkamp,51599,Iowa State
+2024,12/18,Iowa State - Pittsburgh Dual,184,L,MD,14 - 6,Reece Heller,61961,Pittsburgh,Will Feldkamp,51599,Iowa State
+2024,12/01,Cliff Keen Invitational,184,W,FALL,2:21,Trey Munoz,59555,Oregon State,Will Feldkamp,51599,Iowa State
+2024,12/01,Cliff Keen Invitational,184,L,MD,14 - 4,Parker Keckeisen,56724,Northern Iowa,Will Feldkamp,51599,Iowa State
+2024,12/01,Cliff Keen Invitational,184,W,TF5,22 - 7 7:00,David Key,56717,Navy,Will Feldkamp,51599,Iowa State
+2024,12/01,Cliff Keen Invitational,184,W,MD,10 - 0,Sam Wolf,66631,Air Force,Will Feldkamp,51599,Iowa State
+2024,12/01,Cliff Keen Invitational,184,W,DEC,7 - 5,Anthony D'Alesio,67000,LIU,Will Feldkamp,51599,Iowa State
+2024,11/26,Iowa - Iowa State Dual,184,L,DEC,3 - 2,Gabe Arnold,77971,Iowa,Will Feldkamp,51599,Iowa State
+2024,11/19,Wisconsin - Iowa State Dual,184,W,FALL,1:39,Shane Liegel,66103,Wisconsin,Will Feldkamp,51599,Iowa State
+2024,01/26,Iowa State - Oklahoma Dual,197,L,MD,18 - 5,Stephen Buchanan,60451,Oklahoma,Caleb Helgeson,71917,Iowa State
+2024,12/18,Iowa State - Little Rock Dual,197,L,MD,14 - 5,Stephen Little,73285,Little Rock,Caleb Helgeson,71917,Iowa State
+2024,11/12,Davidson - Iowa State Dual,184,W,MD,17 - 5,Wyatt Ferguson,84301,Davidson,Caleb Helgeson,71917,Iowa State
+2024,11/05,Iowa State - Cleveland State Dual,184,W,MD,14 - 3,Joey Lyons,72596,Cleveland State,Caleb Helgeson,71917,Iowa State
+2024,02/11,Northern Iowa - Iowa State Dual,184,L,TF5,21 - 6 6:41,Parker Keckeisen,56724,Northern Iowa,Tate Naaktgeboren,74574,Iowa State
+2024,02/02,West Virginia - Iowa State Dual,184,L,MD,15 - 5,Dennis Robin,69638,West Virginia,Tate Naaktgeboren,74574,Iowa State
+2024,01/27,Loras College Open,184,W,TF5,20 - 3 7:00,Shane McConville,87482,Jackrabbit Wrestling Club,Tate Naaktgeboren,74574,Iowa State
+2024,01/27,Loras College Open,184,W,FALL,1:17,Aidan McCain,82499,Iowa,Tate Naaktgeboren,74574,Iowa State
+2024,01/27,Loras College Open,184,W,FALL,4:39,Jameel Coles,81871,Grand View,Tate Naaktgeboren,74574,Iowa State
+2024,01/27,Loras College Open,184,L,FALL,6:44,Lucas Condon,79397,Wisconsin,Tate Naaktgeboren,74574,Iowa State
+2024,01/27,Loras College Open,184,W,TF5,20 - 4 7:00,Kam Royster,81929,Loras,Tate Naaktgeboren,74574,Iowa State
+2024,01/27,Loras College Open,184,W,TF5,19 - 4 7:00,Kam Royster,81929,Loras,Tate Naaktgeboren,74574,Iowa State
+2024,11/11,Grandview Open,184,W,MD,18 - 6,Alan Badley,87564,Providence,Tate Naaktgeboren,74574,Iowa State
+2024,11/11,Grandview Open,184,W,MD,21 - 8,Austin Vanek,83353,Montana State-Northern,Tate Naaktgeboren,74574,Iowa State
+2024,11/11,Grandview Open,184,W,TF5,19 - 4 7:00,Gus Davis,78066,Grand View,Tate Naaktgeboren,74574,Iowa State
+2024,11/11,Grandview Open,184,W,TF5,20 - 3 7:00,Rylin Burns,77378,Montana State-Northern,Tate Naaktgeboren,74574,Iowa State
+2024,11/11,Grandview Open,184,W,TF5,20 - 4 7:00,Brett Bober,65280,Baker,Tate Naaktgeboren,74574,Iowa State
+2024,11/11,Grandview Open,184,L,MD,17 - 3,Parker Keckeisen,56724,Northern Iowa,Tate Naaktgeboren,74574,Iowa State
+2024,03/09,Big 12 Championships,197,L,DEC,8 - 2,Luke Surber,62347,Oklahoma State,Julien Broderson,57644,Iowa State
+2024,03/09,Big 12 Championships,197,W,DEC,4 - 1,Austin Cooley,56772,West Virginia,Julien Broderson,57644,Iowa State
+2024,03/09,Big 12 Championships,197,L,FALL,1:47,Tanner Sloan,56251,South Dakota State,Julien Broderson,57644,Iowa State
+2024,02/25,Missouri - Iowa State Dual,197,W,DEC,7 - 2,Jesse Cassat,73384,Missouri,Julien Broderson,57644,Iowa State
+2024,02/11,Northern Iowa - Iowa State Dual,197,L,DEC,4 - 2,Wyatt Voelker,73956,Northern Iowa,Julien Broderson,57644,Iowa State
+2024,02/02,West Virginia - Iowa State Dual,197,L,DEC,10 - 4,Austin Cooley,56772,West Virginia,Julien Broderson,57644,Iowa State
+2024,01/27,Iowa State - Oklahoma State Dual,197,L,MD,15 - 6,Jersey Robb,75825,Oklahoma State,Julien Broderson,57644,Iowa State
+2024,01/12,Utah Valley - Iowa State Dual,197,L,DEC,6 - 1,Evan Bockman,57270,Utah Valley,Julien Broderson,57644,Iowa State
+2024,01/07,Iowa State - Cal Baptist Dual,197,W,DEC,7 - 2,Eli Sheeran,71783,Cal Baptist,Julien Broderson,57644,Iowa State
+2024,01/05,Iowa State - Arizona State Dual,197,W,DEC,11 - 4,Jacob Meissner,78354,Arizona State,Julien Broderson,57644,Iowa State
+2024,12/01,Cliff Keen Invitational,197,L,DEC,7 - 3,Luke Surber,62347,Oklahoma State,Julien Broderson,57644,Iowa State
+2024,12/01,Cliff Keen Invitational,197,L,DEC,6 - 1,Wyatt Voelker,73956,Northern Iowa,Julien Broderson,57644,Iowa State
+2024,12/01,Cliff Keen Invitational,197,W,FALL,0:40,Austin Starr,76357,Ohio,Julien Broderson,57644,Iowa State
+2024,12/01,Cliff Keen Invitational,197,W,TF5,20 - 3 5:21,Daniel Bittner,78814,Harvard,Julien Broderson,57644,Iowa State
+2024,11/26,Iowa - Iowa State Dual,197,L,DEC,7 - 3,Zach Glazier,56767,Iowa,Julien Broderson,57644,Iowa State
+2024,11/19,Wisconsin - Iowa State Dual,197,W,DEC,5 - 2,Joshua Otto,56743,Wisconsin,Julien Broderson,57644,Iowa State
+2024,11/12,Davidson - Iowa State Dual,197,W,FALL,0:46,Cameo Blankenship,79784,Davidson,Julien Broderson,57644,Iowa State
+2024,12/02,Oppenheim Invitational,197,W,MD,15 - 4,Luke MacDonald,86638,Iowa Western Community College,Fernando Villaescusa,78576,Iowa State
+2024,12/02,Oppenheim Invitational,197,L,MFOR,0 - 0,Colten Hink,80323,Dakota Wesleyan,Fernando Villaescusa,78576,Iowa State
+2024,12/02,Oppenheim Invitational,197,L,MFOR,0 - 0,Garavous Kouekabakilaho,77547,Grand View,Fernando Villaescusa,78576,Iowa State
+2024,11/05,Iowa State - Cleveland State Dual,197,W,MD,16 - 8,Ben Smith,56236,Cleveland State,Fernando Villaescusa,78576,Iowa State
+2024,01/27,Loras College Open,197,W,DEC,8 - 1,Thomas Dineen,78699,South Dakota State,McCrae Hagarty,79557,Iowa State
+2024,01/27,Loras College Open,197,W,FALL,4:35,Mike Tal-Shahar,78142,Wisconsin,McCrae Hagarty,79557,Iowa State
+2024,01/27,Loras College Open,197,W,FALL,1:24,Braydon Hoffman,84721,Cornell College,McCrae Hagarty,79557,Iowa State
+2024,01/27,Loras College Open,197,W,DEC,7 - 4,Chase Stegall,62746,Wisconsin-Parkside,McCrae Hagarty,79557,Iowa State
+2024,12/29,Soldier Salute,197,L,MD,12 - 2,Gavin Nelson,72648,Minnesota,McCrae Hagarty,79557,Iowa State
+2024,12/29,Soldier Salute,197,W,FALL,4:20,Colby Huynh,66564,Wyoming,McCrae Hagarty,79557,Iowa State
+2024,12/29,Soldier Salute,197,W,MFOR,0 - 0,Adam Haselius,78854,Columbia,McCrae Hagarty,79557,Iowa State
+2024,12/29,Soldier Salute,197,L,DEC,5 - 0,Brett Mower,77561,Oregon State,McCrae Hagarty,79557,Iowa State
+2024,12/18,Iowa State - Cornell Dual,197,L,FALL,3:19,Jacob Cardenas,56770,Cornell,McCrae Hagarty,79557,Iowa State
+2024,11/19,Daktronics Open,197,L,CMFF,0 - 0,Thomas Dineen,78699,South Dakota State,McCrae Hagarty,79557,Iowa State
+2024,11/19,Daktronics Open,197,L,FALL,6:38,Adam Ahrendson,68723,Northern Iowa,McCrae Hagarty,79557,Iowa State
+2024,11/11,Grandview Open,197,W,FALL,3:44,JaDontae Ray,87586,William Woods University,McCrae Hagarty,79557,Iowa State
+2024,11/11,Grandview Open,197,W,TF5,17 - 1 7:00,Matthew Marcum,87579,Labette Community College,McCrae Hagarty,79557,Iowa State
+2024,11/11,Grandview Open,197,W,TF5,19 - 4 7:00,Cooper Colson,83006,Iowa Central Community College,McCrae Hagarty,79557,Iowa State
+2024,11/11,Grandview Open,197,W,DEC,8 - 5,Rowan Udell,78845,Iowa State,McCrae Hagarty,79557,Iowa State
+2024,11/11,Grandview Open,197,W,FALL,1:38,Devin York,76553,Central Methodist,McCrae Hagarty,79557,Iowa State
+2024,12/29,Soldier Salute,197,L,TF5,21 - 4 5:58,AJ Ferrari,62936,Unattached,Cole Carlucci,78552,Iowa State
+2024,12/29,Soldier Salute,197,L,MD,9 - 0,Daniel Williams,84928,Navy,Cole Carlucci,78552,Iowa State
+2024,12/29,Soldier Salute,197,W,MD,11 - 1,Drew Fox,89450,Northern Iowa,Cole Carlucci,78552,Iowa State
+2024,12/29,Soldier Salute,197,L,FALL,2:08,Thomas Dineen,78699,South Dakota State,Cole Carlucci,78552,Iowa State
+2024,12/02,Oppenheim Invitational,197,W,FALL,4:22,Kanden Young,89523,Unattached,Cole Carlucci,78552,Iowa State
+2024,12/02,Oppenheim Invitational,197,W,INJ,7:00,Jett Swain,87390,Embry-Riddle,Cole Carlucci,78552,Iowa State
+2024,12/02,Oppenheim Invitational,197,L,DEC,8 - 4,Luke MacDonald,86638,Iowa Western Community College,Cole Carlucci,78552,Iowa State
+2024,12/02,Oppenheim Invitational,197,L,DEC,8 - 5,Kolton Kammeyer,86372,Doane College,Cole Carlucci,78552,Iowa State
+2024,11/19,Daktronics Open,197,L,DEC,10 - 5,Jared Thiry,84460,South Dakota State,Cole Carlucci,78552,Iowa State
+2024,11/19,Daktronics Open,197,L,TF5,20 - 4 5:13,Thomas Dineen,78699,South Dakota State,Cole Carlucci,78552,Iowa State
+2024,11/11,Grandview Open,197,L,TF5,16 - 0 7:00,Matthew Marcum,87579,Labette Community College,Cole Carlucci,78552,Iowa State
+2024,11/11,Grandview Open,197,W,TF5,19 - 4 7:00,Dustin Hurley,87574,Southeast Community College,Cole Carlucci,78552,Iowa State
+2024,11/11,Grandview Open,197,W,TF5,19 - 3 7:00,Earnest Taylor,86996,Iowa Central Community College,Cole Carlucci,78552,Iowa State
+2024,11/11,Grandview Open,197,W,SV-1,4 - 1,Tyler Casey,81769,St Ambrose,Cole Carlucci,78552,Iowa State
+2024,11/11,Grandview Open,197,W,MD,12 - 1,Ezra Mabe,80346,Jamestown,Cole Carlucci,78552,Iowa State
+2024,11/11,Grandview Open,197,W,DEC,9 - 2,Loic Tueguo,87595,Central Methodist,Colby Runner,84509,Iowa State
+2024,11/11,Grandview Open,197,W,DQ,0 - 0,Nehemiah Pemberton,87585,Waldorf,Colby Runner,84509,Iowa State
+2024,11/11,Grandview Open,197,W,DEC,3 - 1,Joshua McKelvin,87581,Marian University,Colby Runner,84509,Iowa State
+2024,11/11,Grandview Open,197,L,DEC,4 - 0,Matthew Marcum,87579,Labette Community College,Colby Runner,84509,Iowa State
+2024,11/11,Grandview Open,197,W,INJ,2:50,Cooper Colson,83006,Iowa Central Community College,Colby Runner,84509,Iowa State
+2024,11/11,Grandview Open,197,W,FALL,3:16,Jackson Rickter,80880,Waldorf,Colby Runner,84509,Iowa State
+2024,01/27,Loras College Open,197,L,MFOR,0 - 0,Joseph Lewis,86971,Iowa Central Community College,Rowan Udell,78845,Iowa State
+2024,01/27,Loras College Open,197,L,TF5,17 - 2 7:00,Thomas Dineen,78699,South Dakota State,Rowan Udell,78845,Iowa State
+2024,01/27,Loras College Open,197,W,TF5,19 - 3 7:00,Nick DeMunno,73456,Cornell College,Rowan Udell,78845,Iowa State
+2024,12/29,Soldier Salute,197,L,DEC,4 - 1,Jesse Cassat,73384,Missouri,Rowan Udell,78845,Iowa State
+2024,12/29,Soldier Salute,197,L,MD,15 - 7,Jack Wehmeyer,71793,Columbia,Rowan Udell,78845,Iowa State
+2024,12/29,Soldier Salute,197,L,DEC,7 - 5,Andrew Liber,84842,Bellarmine,Rowan Udell,78845,Iowa State
+2024,12/18,Iowa State - Pittsburgh Dual,197,L,MD,10 - 2,Mac Stout,72505,Pittsburgh,Rowan Udell,78845,Iowa State
+2024,11/19,Daktronics Open,197,L,TF5,18 - 3 4:08,Thomas Dineen,78699,South Dakota State,Rowan Udell,78845,Iowa State
+2024,11/19,Daktronics Open,197,L,MD,16 - 4,Wyatt Voelker,73956,Northern Iowa,Rowan Udell,78845,Iowa State
+2024,11/19,Daktronics Open,197,W,DEC,8 - 1,Macray Klohs,83083,North Dakota State,Rowan Udell,78845,Iowa State
+2024,11/11,Grandview Open,197,L,DEC,8 - 5,McCrae Hagarty,79557,Iowa State,Rowan Udell,78845,Iowa State
+2024,11/11,Grandview Open,197,W,FALL,1:16,Joshua Martinez,87580,Avila University,Rowan Udell,78845,Iowa State
+2024,11/11,Grandview Open,197,W,DEC,12 - 6,Carter Smuck,87355,Grand View,Rowan Udell,78845,Iowa State
+2024,11/11,Grandview Open,197,W,FALL,4:21,Tyler Casey,81769,St Ambrose,Rowan Udell,78845,Iowa State
+2024,01/27,Loras College Open,197,W,MFOR,0 - 0,Ansel Cervantes,90334,Indian Hills,Jacob Cates,78846,Iowa State
+2024,01/27,Loras College Open,197,L,TF5,21 - 6 7:00,Joseph Lewis,86971,Iowa Central Community College,Jacob Cates,78846,Iowa State
+2024,01/27,Loras College Open,197,L,TF5,18 - 2 7:00,Mike Tal-Shahar,78142,Wisconsin,Jacob Cates,78846,Iowa State
+2024,11/11,Grandview Open,197,W,FALL,6:32,Ethan Manning,87346,Ottawa,Jacob Cates,78846,Iowa State
+2024,11/11,Grandview Open,197,L,DEC,8 - 3,Aataeveon Jordan,85714,Marian University,Jacob Cates,78846,Iowa State
+2024,11/11,Grandview Open,197,L,DEC,10 - 3,Tyler Casey,81769,St Ambrose,Jacob Cates,78846,Iowa State
+2024,03/21,NCAA Championships,285,L,DEC,6 - 3,Yaraslau Slavikouski,62196,Rutgers,Yonger Bastida,70963,Iowa State
+2024,03/21,NCAA Championships,285,L,DEC,6 - 4,Lucas Davison,51236,Michigan,Yonger Bastida,70963,Iowa State
+2024,03/21,NCAA Championships,285,W,TF5,20 - 5 6:20,Lewis Fernandes,56901,Cornell,Yonger Bastida,70963,Iowa State
+2024,03/21,NCAA Championships,285,W,FALL,1:50,Bennett Tabor,72142,Minnesota,Yonger Bastida,70963,Iowa State
+2024,03/09,Big 12 Championships,285,W,DEC,10 - 7,Wyatt Hendrickson,56694,Air Force,Yonger Bastida,70963,Iowa State
+2024,03/09,Big 12 Championships,285,W,FALL,0:30,Xavier Doolin,70921,Northern Colorado,Yonger Bastida,70963,Iowa State
+2024,03/09,Big 12 Championships,285,W,FALL,2:17,Michael Wolfgram,57526,West Virginia,Yonger Bastida,70963,Iowa State
+2024,03/09,Big 12 Championships,285,W,MD,11 - 3,Zach Elam,51612,Missouri,Yonger Bastida,70963,Iowa State
+2024,02/25,Missouri - Iowa State Dual,285,W,MD,13 - 4,Zach Elam,51612,Missouri,Yonger Bastida,70963,Iowa State
+2024,02/11,Northern Iowa - Iowa State Dual,285,W,TF5,25 - 6 2:56,Adam Ahrendson,68723,Northern Iowa,Yonger Bastida,70963,Iowa State
+2024,02/02,West Virginia - Iowa State Dual,285,W,TF5,23 - 8 3:51,Michael Wolfgram,57526,West Virginia,Yonger Bastida,70963,Iowa State
+2024,01/27,Iowa State - Oklahoma State Dual,285,W,DEC,7 - 2,Konner Doucet,57801,Oklahoma State,Yonger Bastida,70963,Iowa State
+2024,01/26,Iowa State - Oklahoma Dual,285,W,MD,14 - 4,Josh Heindselman,57311,Oklahoma,Yonger Bastida,70963,Iowa State
+2024,01/07,Iowa State - Cal Baptist Dual,285,W,TF5,21 - 6 7:00,Max Acciardi,78995,Cal Baptist,Yonger Bastida,70963,Iowa State
+2024,01/05,Iowa State - Arizona State Dual,285,W,DEC,4 - 3,Cohlton Schultz,56899,Arizona State,Yonger Bastida,70963,Iowa State
+2024,12/18,Iowa State - Cornell Dual,285,W,DEC,6 - 3,Lewis Fernandes,56901,Cornell,Yonger Bastida,70963,Iowa State
+2024,12/18,Iowa State - Little Rock Dual,285,W,MD,14 - 4,Josiah Hill,65931,Little Rock,Yonger Bastida,70963,Iowa State
+2024,12/18,Iowa State - Pittsburgh Dual,285,W,DEC,6 - 3,Dayton Pitzer,72598,Pittsburgh,Yonger Bastida,70963,Iowa State
+2024,12/01,Cliff Keen Invitational,285,W,DEC,5 - 3,Lucas Davison,51236,Michigan,Yonger Bastida,70963,Iowa State
+2024,12/01,Cliff Keen Invitational,285,W,MD,13 - 5,Nick Feldman,64017,Ohio State,Yonger Bastida,70963,Iowa State
+2024,12/01,Cliff Keen Invitational,285,W,TF5,18 - 3 4:25,Grady Griess,63170,Navy,Yonger Bastida,70963,Iowa State
+2024,12/01,Cliff Keen Invitational,285,W,TF5,21 - 6 3:49,Peter Ming,62611,Stanford,Yonger Bastida,70963,Iowa State
+2024,12/01,Cliff Keen Invitational,285,W,DEC,11 - 4,Jack Jessen,50838,Northwestern,Yonger Bastida,70963,Iowa State
+2024,11/26,Iowa - Iowa State Dual,285,W,MD,17 - 6,Bradley Hill,73708,Iowa,Yonger Bastida,70963,Iowa State
+2024,11/19,Wisconsin - Iowa State Dual,285,W,TF5,19 - 4 2:57,Peter Christensen,57076,Wisconsin,Yonger Bastida,70963,Iowa State
+2024,11/12,Davidson - Iowa State Dual,285,W,TF5,19 - 4 3:14,Jake Fernicola,62822,Davidson,Yonger Bastida,70963,Iowa State
+2024,11/05,Iowa State - Cleveland State Dual,285,W,TF5,26 - 10 6:03,Daniel Bucknavich,62488,Cleveland State,Yonger Bastida,70963,Iowa State
+2024,01/27,Loras College Open,285,W,FALL,0:34,Evan Foreman,86591,Dubuque Wrestling Club,Nate Schon,70913,Iowa State
+2024,01/27,Loras College Open,285,W,DEC,10 - 6,Easton Fleshman,73702,Iowa,Nate Schon,70913,Iowa State
+2024,01/27,Loras College Open,285,W,MFOR,0 - 0,Noah Broderson,58060,York,Nate Schon,70913,Iowa State
+2024,01/27,Loras College Open,285,W,FALL,1:58,Landen Schemmel,78873,Cornell College,Nate Schon,70913,Iowa State
+2024,01/27,Loras College Open,285,W,TF5,19 - 4 7:00,Wyatt Smith,87509,Coe,Nate Schon,70913,Iowa State
+2024,12/29,Soldier Salute,285,W,MD,8 - 0,Gage Marty,78703,Iowa,Nate Schon,70913,Iowa State
+2024,12/29,Soldier Salute,285,L,DEC,6 - 4,Bradley Hill,73708,Iowa,Nate Schon,70913,Iowa State
+2024,12/29,Soldier Salute,285,W,FALL,3:28,Seth Nitzel,66934,Missouri,Nate Schon,70913,Iowa State
+2024,12/29,Soldier Salute,285,L,MD,21 - 13,Jamier Ferere,78581,Navy,Nate Schon,70913,Iowa State
+2024,12/29,Soldier Salute,285,W,FALL,2:24,Harley Andrews,72965,Nebraska,Nate Schon,70913,Iowa State
+2024,12/29,Soldier Salute,285,L,DEC,5 - 1,Bowen McConville,57175,South Dakota State,Nate Schon,70913,Iowa State
+2024,12/29,Soldier Salute,285,W,DEC,9 - 5,Kevin Zimmer,72685,Wyoming,Nate Schon,70913,Iowa State
+2024,12/02,Oppenheim Invitational,285,W,FALL,1:47,Chris Huslig,89520,St Mary,Nate Schon,70913,Iowa State
+2024,12/02,Oppenheim Invitational,285,W,FALL,1:52,Jesse Garcia,89519,Midland,Nate Schon,70913,Iowa State
+2024,12/02,Oppenheim Invitational,285,W,DEC,14 - 11,Kenneth Copley,89518,Embry-Riddle,Nate Schon,70913,Iowa State
+2024,12/02,Oppenheim Invitational,285,W,DEC,14 - 10,Brandyn Van Tassell,67259,Nebraska,Nate Schon,70913,Iowa State
+2024,01/27,Loras College Open,285,W,FALL,0:45,Raymond Hughes,92526,St Ambrose,Xavier Bruening,78960,Iowa State
+2024,01/27,Loras College Open,285,L,DEC,5 - 1,Easton Fleshman,73702,Iowa,Xavier Bruening,78960,Iowa State
+2024,01/27,Loras College Open,285,W,MFOR,0 - 0,Noah Broderson,58060,York,Xavier Bruening,78960,Iowa State
+2024,01/27,Loras College Open,285,W,FALL,1:31,Jordan Sommers,78631,Northern Illinois,Xavier Bruening,78960,Iowa State
+2024,01/27,Loras College Open,285,W,FALL,1:41,Wyatt Smith,87509,Coe,Xavier Bruening,78960,Iowa State
+2024,01/27,Loras College Open,285,W,TF5,19 - 4 7:00,Garvin Crews,87543,Loras,Xavier Bruening,78960,Iowa State
+2024,11/19,Daktronics Open,285,W,CMFF,0 - 0,Regan Bollweg,84823,South Dakota State,Xavier Bruening,78960,Iowa State
+2024,11/19,Daktronics Open,285,L,MD,14 - 4,Regan Bollweg,84823,South Dakota State,Xavier Bruening,78960,Iowa State
+2024,11/19,Daktronics Open,285,L,TF5,20 - 5 5:22,Bowen McConville,57175,South Dakota State,Xavier Bruening,78960,Iowa State
+2024,11/11,Grandview Open,285,W,DEC,7 - 3,Rodney Trotter,87460,Labette Community College,Xavier Bruening,78960,Iowa State
+2024,11/11,Grandview Open,285,L,SV-1,4 - 1,Rodney Trotter,87460,Labette Community College,Xavier Bruening,78960,Iowa State
+2024,11/11,Grandview Open,285,W,DEC,7 - 6,Jaxson Hildebrand,87314,Northwestern,Xavier Bruening,78960,Iowa State
+2024,11/11,Grandview Open,285,W,DEC,4 - 1,Kazz Hyson,86634,Southeast Community College,Xavier Bruening,78960,Iowa State
+2024,11/11,Grandview Open,285,W,MFOR,0 - 0,Wilbert Martin,85397,Texas Wesleyan,Xavier Bruening,78960,Iowa State
+2024,11/11,Grandview Open,285,W,FALL,2:01,Cy Renney,82571,Concordia,Xavier Bruening,78960,Iowa State
+2024,11/11,Grandview Open,285,W,DEC,4 - 2,Jacob Bader,81760,Missouri Baptist,Xavier Bruening,78960,Iowa State

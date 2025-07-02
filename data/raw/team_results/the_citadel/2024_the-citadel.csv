@@ -1,0 +1,530 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2024,03/09,SoCon Championships,125,L,FALL,1:21,Chad Bellis,71922,Appalachian State,Malik Hardy,73357,The Citadel
+2024,03/09,SoCon Championships,125,L,FALL,7:43,Drew West,50041,Gardner-Webb,Malik Hardy,73357,The Citadel
+2024,03/09,SoCon Championships,125,W,TF5,16 - 1 2:30,Trenton Dominguez,78608,Presbyterian,Malik Hardy,73357,The Citadel
+2024,02/22,Presbyterian - The Citadel Dual,125,W,TF5,15 - 0 1:54,Trenton Dominguez,78608,Presbyterian,Malik Hardy,73357,The Citadel
+2024,02/16,The Citadel - Gardner-Webb Dual,125,L,MD,9 - 0,Drew West,50041,Gardner-Webb,Malik Hardy,73357,The Citadel
+2024,02/09,The Citadel - Campbell Dual,125,L,FALL,2:54,Anthony Molton,57207,Campbell,Malik Hardy,73357,The Citadel
+2024,02/04,Bellarmine - The Citadel Dual,125,W,TB-1,5 - 1,Damion Ryan,78489,Bellarmine,Malik Hardy,73357,The Citadel
+2024,02/01,The Citadel - Chattanooga Dual,125,L,MD,8 - 0,Brayden Palmer,59826,Chattanooga,Malik Hardy,73357,The Citadel
+2024,01/28,VMI - The Citadel Dual,125,W,DEC,8 - 2,Tony Burke,78464,VMI,Malik Hardy,73357,The Citadel
+2024,01/21,The Citadel - Appalachian State Dual,125,L,MD,12 - 2,Chad Bellis,71922,Appalachian State,Malik Hardy,73357,The Citadel
+2024,01/12,Cleveland State - The Citadel Dual,125,W,DEC,8 - 1,Benjamin Aranda,71804,Cleveland State,Malik Hardy,73357,The Citadel
+2024,01/01,Southern Scuffle,125,W,TF5,16 - 1 5:46,Marcus Wright,84410,The Citadel,Malik Hardy,73357,The Citadel
+2024,01/01,Southern Scuffle,125,L,DEC,8 - 3,Noah Luna,79081,Appalachian State,Malik Hardy,73357,The Citadel
+2024,01/01,Southern Scuffle,125,L,FALL,2:04,Stevo Poulin,71929,Northern Colorado,Malik Hardy,73357,The Citadel
+2024,01/01,Southern Scuffle,125,W,DEC,6 - 2,Joseph Fischer,68702,Clarion,Malik Hardy,73357,The Citadel
+2024,12/19,The Citadel - Duke Dual,125,L,DEC,5 - 3,Logan Agin,62979,Duke,Malik Hardy,73357,The Citadel
+2024,12/19,The Citadel - Queens Dual,125,W,TF5,18 - 2 7:00,Daniel Graham,79815,Queens,Malik Hardy,73357,The Citadel
+2024,12/01,Cliff Keen Invitational,125,L,FALL,1:27,Brendan McCrone,76350,Ohio State,Malik Hardy,73357,The Citadel
+2024,12/01,Cliff Keen Invitational,125,L,FALL,1:02,Anthony Molton,57207,Campbell,Malik Hardy,73357,The Citadel
+2024,11/18,Navy Classic,125,W,TF5,19 - 1 4:57,Eamonn Jimenez,78779,Edinboro,Malik Hardy,73357,The Citadel
+2024,11/18,Navy Classic,125,L,FALL,1:57,Evan Tallmadge,73120,Navy,Malik Hardy,73357,The Citadel
+2024,11/18,Navy Classic,125,L,TF5,17 - 2 4:34,Caleb Smith,58559,Nebraska,Malik Hardy,73357,The Citadel
+2024,11/18,Navy Classic,125,W,DEC,8 - 2,Bronson Garber,56759,Bloomsburg,Malik Hardy,73357,The Citadel
+2024,11/11,Millersville - The Citadel Dual,125,W,FALL,1:56,Mason Beatty,84772,Millersville,Malik Hardy,73357,The Citadel
+2024,11/11,Williams College - The Citadel Dual,125,W,TF5,17 - 0 2:21,Lucas Johnson,77188,Williams College,Malik Hardy,73357,The Citadel
+2024,11/11,Clarion - The Citadel Dual,125,L,DEC,7 - 4,Joseph Fischer,68702,Clarion,Malik Hardy,73357,The Citadel
+2024,11/11,The Citadel - George Mason Dual,125,L,SV-1,4 - 1,Ben Monn,69708,George Mason,Malik Hardy,73357,The Citadel
+2024,11/05,Battle at The Citadel,125,W,INJ,5:00,Blaine Frazier,78575,Indiana,Malik Hardy,73357,The Citadel
+2024,11/05,Battle at The Citadel,125,W,DEC,10 - 7,Gabe Giampietro,72979,Drexel,Malik Hardy,73357,The Citadel
+2024,11/05,Battle at The Citadel,125,L,FALL,4:44,Desmond Pleasant,71583,Drexel,Malik Hardy,73357,The Citadel
+2024,11/05,Battle at The Citadel,125,L,FALL,3:00,Shamil Kalmatov,72680,American,Malik Hardy,73357,The Citadel
+2024,11/01,Allen University - The Citadel Dual,125,W,TF5,15 - 0 1:43,Reco Robinson,71522,Allen University,Malik Hardy,73357,The Citadel
+2024,11/12,Georgia Open,133,W,FALL,2:48,Gavin Qualls,82641,King,Genaro De La Garza,84461,The Citadel
+2024,11/12,Georgia Open,133,L,FALL,4:15,Kaden Ramos,78262,Life University,Genaro De La Garza,84461,The Citadel
+2024,11/12,Georgia Open,133,L,TF5,16 - 0 7:00,William Hamilton,75821,Lander,Genaro De La Garza,84461,The Citadel
+2024,11/05,Battle at The Citadel,125,L,FALL,6:46,Gunner Chambers,84437,George Mason,Genaro De La Garza,84461,The Citadel
+2024,11/05,Battle at The Citadel,125,L,TF5,15 - 0 2:22,Jack Maida,72679,American,Genaro De La Garza,84461,The Citadel
+2024,02/25,Wildcat Open,125,W,MD,11 - 1,Fernando Martinez,87132,UNC Pembroke,Marcus Wright,84410,The Citadel
+2024,02/25,Wildcat Open,125,L,TF5,19 - 4 4:56,Vincent Robinson,78062,NC State,Marcus Wright,84410,The Citadel
+2024,02/25,Wildcat Open,125,L,DEC,6 - 4,Bryson Terrell,79650,Appalachian State,Marcus Wright,84410,The Citadel
+2024,01/27,Appalachian Open,125,L,TF5,18 - 3 3:41,Troy Hohman,75816,NC State,Marcus Wright,84410,The Citadel
+2024,01/27,Appalachian Open,125,L,DEC,6 - 4,Bryson Terrell,79650,Appalachian State,Marcus Wright,84410,The Citadel
+2024,01/01,Southern Scuffle,125,L,TF5,16 - 1 5:46,Malik Hardy,73357,The Citadel,Marcus Wright,84410,The Citadel
+2024,01/01,Southern Scuffle,125,L,TF5,15 - 0 1:59,Nico Provo,65883,Stanford,Marcus Wright,84410,The Citadel
+2024,11/18,Club Lucha Open,125,W,MD,13 - 2,Ryker Smith,88599,Life University,Marcus Wright,84410,The Citadel
+2024,11/18,Club Lucha Open,125,W,DEC,5 - 4,Trevor Borom,82077,Southeastern University,Marcus Wright,84410,The Citadel
+2024,11/18,Club Lucha Open,125,L,TF5,21 - 5 7:00,Izaeah Beavers,80574,Campbellsville,Marcus Wright,84410,The Citadel
+2024,11/18,Club Lucha Open,125,L,MD,13 - 1,Chase Ayers,63284,Life University,Marcus Wright,84410,The Citadel
+2024,11/18,Club Lucha Open,125,W,DEC,15 - 8,Bryson Rowley,78371,Kentucky Wesleyan,Marcus Wright,84410,The Citadel
+2024,11/05,Battle at The Citadel,125,L,DEC,3 - 0,Ben Monn,69708,George Mason,Marcus Wright,84410,The Citadel
+2024,11/05,Battle at The Citadel,125,L,DEC,7 - 0,Gabe Giampietro,72979,Drexel,Marcus Wright,84410,The Citadel
+2024,03/09,SoCon Championships,133,L,DEC,6 - 0,Blake Boarman,70737,Chattanooga,George Rosas,78686,The Citadel
+2024,03/09,SoCon Championships,133,W,FALL,1:20,Hale Robinson,70746,Davidson,George Rosas,78686,The Citadel
+2024,03/09,SoCon Championships,133,L,DEC,4 - 1,Dyson Dunham,73559,VMI,George Rosas,78686,The Citadel
+2024,02/25,Wildcat Open,133,W,FALL,3:38,John Hager,84396,Davidson,George Rosas,78686,The Citadel
+2024,02/25,Wildcat Open,133,W,FALL,1:21,Hale Robinson,70746,Davidson,George Rosas,78686,The Citadel
+2024,02/25,Wildcat Open,133,L,DEC,5 - 4,Troy Hohman,75816,NC State,George Rosas,78686,The Citadel
+2024,02/25,Wildcat Open,133,L,DEC,6 - 4,TK Davis,84306,Gardner-Webb,George Rosas,78686,The Citadel
+2024,02/22,Presbyterian - The Citadel Dual,133,W,MD,15 - 1,Brayden Adams,78607,Presbyterian,George Rosas,78686,The Citadel
+2024,02/16,The Citadel - Gardner-Webb Dual,133,L,DEC,2 - 1,Tyson Lane,75724,Gardner-Webb,George Rosas,78686,The Citadel
+2024,02/11,Davidson - The Citadel Dual,133,W,TF5,17 - 1 4:52,Devon Diaco,78849,Davidson,George Rosas,78686,The Citadel
+2024,02/09,The Citadel - Campbell Dual,133,L,TF5,19 - 4 4:51,Domenic Zaccone,56926,Campbell,George Rosas,78686,The Citadel
+2024,02/04,Bellarmine - The Citadel Dual,133,L,DEC,3 - 2,Trayce Eckman,78874,Bellarmine,George Rosas,78686,The Citadel
+2024,02/01,The Citadel - Chattanooga Dual,133,L,MD,9 - 1,Blake Boarman,70737,Chattanooga,George Rosas,78686,The Citadel
+2024,01/28,VMI - The Citadel Dual,133,W,DEC,2 - 1,Dyson Dunham,73559,VMI,George Rosas,78686,The Citadel
+2024,01/21,The Citadel - Appalachian State Dual,133,L,DEC,4 - 1,Ethan Oakley,62754,Appalachian State,George Rosas,78686,The Citadel
+2024,01/01,Southern Scuffle,133,L,DQ,0 - 0,Braden Basile,73707,Army West Point,George Rosas,78686,The Citadel
+2024,01/01,Southern Scuffle,133,L,DQ,0 - 0,Dominic DiTomasso,73858,Chattanooga,George Rosas,78686,The Citadel
+2024,12/19,The Citadel - Duke Dual,133,W,DEC,11 - 6,Raymond Adams,84586,Duke,George Rosas,78686,The Citadel
+2024,12/01,Cliff Keen Invitational,133,W,FALL,2:10,Christopher Betancourt,84576,LIU,George Rosas,78686,The Citadel
+2024,12/01,Cliff Keen Invitational,133,L,MD,10 - 1,Ethan Qureshi,81106,Cornell,George Rosas,78686,The Citadel
+2024,12/01,Cliff Keen Invitational,133,L,DEC,6 - 2,Richie Koehler,51648,Rider,George Rosas,78686,The Citadel
+2024,11/18,Navy Classic,133,L,DEC,8 - 5,Jacob Brennaman,80127,Edinboro,George Rosas,78686,The Citadel
+2024,11/18,Navy Classic,133,W,TF5,16 - 0 5:13,Ryan Aquilani,77266,Kent State,George Rosas,78686,The Citadel
+2024,11/18,Navy Classic,133,L,DEC,5 - 0,Kyle Burwick,57385,Nebraska,George Rosas,78686,The Citadel
+2024,11/11,Millersville - The Citadel Dual,133,W,FALL,0:15,Dom Flatt,72628,Millersville,George Rosas,78686,The Citadel
+2024,11/11,Williams College - The Citadel Dual,133,W,FALL,3:32,Jack Napeloni,77192,Williams College,George Rosas,78686,The Citadel
+2024,11/11,Clarion - The Citadel Dual,133,L,DEC,7 - 2,Scott Johnson,78992,Clarion,George Rosas,78686,The Citadel
+2024,11/11,The Citadel - George Mason Dual,133,W,DEC,5 - 4,Shawn Nonaka,62580,George Mason,George Rosas,78686,The Citadel
+2024,11/05,Battle at The Citadel,133,W,MD,8 - 0,Shawn Nonaka,62580,George Mason,George Rosas,78686,The Citadel
+2024,11/05,Battle at The Citadel,133,W,MFOR,0 - 0,Brandon Wittenberg,57647,George Mason,George Rosas,78686,The Citadel
+2024,11/05,Battle at The Citadel,133,L,MD,11 - 0,Cayden Rooks,56710,Indiana,George Rosas,78686,The Citadel
+2024,11/05,Battle at The Citadel,133,W,MD,13 - 1,Ethan Shell,73190,Appalachian State,George Rosas,78686,The Citadel
+2024,11/05,Battle at The Citadel,133,L,DEC,8 - 3,Maximillian Leete,72678,American,George Rosas,78686,The Citadel
+2024,11/01,Allen University - The Citadel Dual,133,W,FALL,2:14,Nyshaad Hannon,71315,Allen University,George Rosas,78686,The Citadel
+2024,11/01,Montreat College - The Citadel Dual,133,W,FALL,1:04,Alexander Grabowski,80145,Montreat College,George Rosas,78686,The Citadel
+2024,02/25,Wildcat Open,133,W,MD,13 - 4,John Hager,84396,Davidson,Brayton Killiri,75820,The Citadel
+2024,02/25,Wildcat Open,133,L,TF5,24 - 8 5:41,TK Davis,84306,Gardner-Webb,Brayton Killiri,75820,The Citadel
+2024,02/25,Wildcat Open,133,L,FALL,1:05,Charlie Sly,79219,Gardner-Webb,Brayton Killiri,75820,The Citadel
+2024,01/12,Cleveland State - The Citadel Dual,133,W,DEC,11 - 6,Nick Molchak,78590,Cleveland State,Brayton Killiri,75820,The Citadel
+2024,01/12,Brown - The Citadel Dual,133,L,DEC,16 - 13,Hunter Adrian,65842,Brown,Brayton Killiri,75820,The Citadel
+2024,11/18,Club Lucha Open,141,W,FALL,2:45,Nolan Jones,83339,Midway University,Brayton Killiri,75820,The Citadel
+2024,11/18,Club Lucha Open,141,W,TF5,26 - 9 7:00,Jerry Molina,81398,St Thomas University,Brayton Killiri,75820,The Citadel
+2024,11/18,Club Lucha Open,141,W,TF5,18 - 3 7:00,Johnny Baldwin,66642,Williams Baptist,Brayton Killiri,75820,The Citadel
+2024,11/18,Club Lucha Open,141,W,FALL,1:52,Israel Schultz,63726,St Andrews,Brayton Killiri,75820,The Citadel
+2024,11/18,Club Lucha Open,141,W,TF5,18 - 0 7:00,River Scruggs,85328,Montevallo,Brayton Killiri,75820,The Citadel
+2024,11/18,Club Lucha Open,141,L,DEC,8 - 5,Taylor Robinson,81402,Mount Olive,Brayton Killiri,75820,The Citadel
+2024,11/18,Club Lucha Open,141,W,TF5,17 - 1 7:00,Hudson Andrews,88003,Huntingdon,Brayton Killiri,75820,The Citadel
+2024,11/05,Battle at The Citadel,141,L,MD,12 - 0,Jacob Silka,78557,The Citadel,Brayton Killiri,75820,The Citadel
+2024,11/05,Battle at The Citadel,141,L,MD,16 - 6,Aldo Hernandez,82481,Appalachian State,Brayton Killiri,75820,The Citadel
+2024,03/09,SoCon Championships,141,L,DEC,7 - 3,Wynton Denkins,78619,Campbell,Jacob Silka,78557,The Citadel
+2024,03/09,SoCon Championships,141,W,DEC,5 - 2,Isaac Byers,62807,Appalachian State,Jacob Silka,78557,The Citadel
+2024,03/09,SoCon Championships,141,W,DEC,4 - 0,Ryan Luna,72566,Presbyterian,Jacob Silka,78557,The Citadel
+2024,03/09,SoCon Championships,141,W,DEC,5 - 0,Patrick Jordon,79780,VMI,Jacob Silka,78557,The Citadel
+2024,02/22,Presbyterian - The Citadel Dual,141,W,MD,8 - 0,Ryan Luna,72566,Presbyterian,Jacob Silka,78557,The Citadel
+2024,02/16,The Citadel - Gardner-Webb Dual,141,L,DEC,4 - 2,Todd Carter,69785,Gardner-Webb,Jacob Silka,78557,The Citadel
+2024,02/11,Davidson - The Citadel Dual,141,W,FALL,4:37,Joshua Viarengo,71129,Davidson,Jacob Silka,78557,The Citadel
+2024,02/09,The Citadel - Campbell Dual,141,W,DEC,8 - 7,Wynton Denkins,78619,Campbell,Jacob Silka,78557,The Citadel
+2024,02/04,Bellarmine - The Citadel Dual,141,W,DEC,6 - 4,AJ Rallo,78712,Bellarmine,Jacob Silka,78557,The Citadel
+2024,02/01,The Citadel - Chattanooga Dual,141,L,MD,13 - 4,Isaiah Powe,84545,Chattanooga,Jacob Silka,78557,The Citadel
+2024,01/28,VMI - The Citadel Dual,141,W,TF5,17 - 0 4:14,Raymond Cmil,73243,VMI,Jacob Silka,78557,The Citadel
+2024,01/21,The Citadel - Appalachian State Dual,141,W,MD,10 - 2,Riley Edwards,71715,Appalachian State,Jacob Silka,78557,The Citadel
+2024,01/12,Cleveland State - The Citadel Dual,141,L,DEC,6 - 5,Dylan Layton,72925,Cleveland State,Jacob Silka,78557,The Citadel
+2024,01/12,Brown - The Citadel Dual,141,W,DEC,7 - 3,Justin Bierdumpfel,67257,Brown,Jacob Silka,78557,The Citadel
+2024,01/01,Southern Scuffle,141,W,DEC,4 - 3,Kaden Smith,73706,Oklahoma,Jacob Silka,78557,The Citadel
+2024,01/01,Southern Scuffle,141,W,MD,11 - 3,Ian Oswalt,71942,Brown,Jacob Silka,78557,The Citadel
+2024,01/01,Southern Scuffle,141,L,DEC,8 - 6,Todd Carter,69785,Gardner-Webb,Jacob Silka,78557,The Citadel
+2024,01/01,Southern Scuffle,141,W,DEC,2 - 1,Justin Bierdumpfel,67257,Brown,Jacob Silka,78557,The Citadel
+2024,01/01,Southern Scuffle,141,L,DEC,7 - 6,Jason Miranda,64654,Stanford,Jacob Silka,78557,The Citadel
+2024,01/01,Southern Scuffle,141,W,MD,10 - 0,Yuta Otera,84544,Chattanooga,Jacob Silka,78557,The Citadel
+2024,01/01,Southern Scuffle,141,W,DEC,3 - 1,Eli Knight,73351,Chattanooga,Jacob Silka,78557,The Citadel
+2024,12/19,The Citadel - Duke Dual,141,W,FALL,7:00,Christian Colman,71684,Duke,Jacob Silka,78557,The Citadel
+2024,12/19,The Citadel - Queens Dual,141,W,TF5,19 - 2 4:10,Connor Goodman,79821,Queens,Jacob Silka,78557,The Citadel
+2024,12/01,Cliff Keen Invitational,141,L,DEC,9 - 6,Abraham Hinrichsen,70734,Cal Poly,Jacob Silka,78557,The Citadel
+2024,12/01,Cliff Keen Invitational,141,L,MD,13 - 3,Chris Rivera,62331,Campbell,Jacob Silka,78557,The Citadel
+2024,11/18,Navy Classic,141,W,DEC,5 - 1,Aidan Waszak,73163,Ohio,Jacob Silka,78557,The Citadel
+2024,11/18,Navy Classic,141,L,DEC,9 - 6,Dylan Layton,72925,Cleveland State,Jacob Silka,78557,The Citadel
+2024,11/18,Navy Classic,141,W,DEC,7 - 4,Tyler Hunt,55813,Navy,Jacob Silka,78557,The Citadel
+2024,11/18,Navy Classic,141,L,DEC,11 - 5,Brock Hardy,51242,Nebraska,Jacob Silka,78557,The Citadel
+2024,11/11,Millersville - The Citadel Dual,141,W,FALL,2:57,Aidan Micheli,84774,Millersville,Jacob Silka,78557,The Citadel
+2024,11/11,Williams College - The Citadel Dual,141,W,FALL,4:46,Donnie Morton,79688,Williams College,Jacob Silka,78557,The Citadel
+2024,11/11,Clarion - The Citadel Dual,141,W,MD,16 - 3,Tye Varndell,55697,Clarion,Jacob Silka,78557,The Citadel
+2024,11/11,The Citadel - George Mason Dual,141,W,MD,12 - 1,Michael Rapuano,71926,George Mason,Jacob Silka,78557,The Citadel
+2024,11/05,Battle at The Citadel,141,W,MD,12 - 0,Brayton Killiri,75820,The Citadel,Jacob Silka,78557,The Citadel
+2024,11/05,Battle at The Citadel,141,W,DEC,8 - 7,Gabe Onorato,67006,Drexel,Jacob Silka,78557,The Citadel
+2024,11/05,Battle at The Citadel,141,L,MD,18 - 5,Kaden Keiser,75728,Appalachian State,Jacob Silka,78557,The Citadel
+2024,11/05,Battle at The Citadel,141,L,DEC,8 - 6,Isaac Byers,62807,Appalachian State,Jacob Silka,78557,The Citadel
+2024,02/25,Wildcat Open,141,W,SV-1,4 - 1,Jackson Sichelstiel,78851,Davidson,Thomas Termini,78550,The Citadel
+2024,02/25,Wildcat Open,141,W,TF5,17 - 1 5:31,Leo Maguigad,77994,North Carolina,Thomas Termini,78550,The Citadel
+2024,02/25,Wildcat Open,141,L,TF5,24 - 3 3:59,Koy Buesgens,75491,NC State,Thomas Termini,78550,The Citadel
+2024,02/25,Wildcat Open,141,L,TF5,18 - 0 5:17,Dayne Dalrymple,71790,Chattanooga,Thomas Termini,78550,The Citadel
+2024,01/27,Appalachian Open,141,L,MD,18 - 6,Josh Wilson,69722,Greensboro,Thomas Termini,78550,The Citadel
+2024,01/27,Appalachian Open,141,L,TF5,19 - 3 5:30,Sean Carter,62808,Appalachian State,Thomas Termini,78550,The Citadel
+2024,01/01,Southern Scuffle,141,L,TF5,17 - 1 4:59,Carter Schmidt,81746,Oklahoma,Thomas Termini,78550,The Citadel
+2024,01/01,Southern Scuffle,141,L,TF5,15 - 0 4:27,Isaiah Powe,84545,Chattanooga,Thomas Termini,78550,The Citadel
+2024,01/01,Southern Scuffle,141,W,DEC,7 - 4,Louie Ramos,73173,CSU Bakersfield,Thomas Termini,78550,The Citadel
+2024,11/18,Club Lucha Open,141,W,DEC,7 - 4,Brandon Lewis,88604,Keiser,Thomas Termini,78550,The Citadel
+2024,11/18,Club Lucha Open,141,L,DEC,3 - 2,Lucas Giles,88585,Lindsey Wilson,Thomas Termini,78550,The Citadel
+2024,11/18,Club Lucha Open,141,W,DEC,8 - 6,Dominic Giordano,88126,Florida State WC,Thomas Termini,78550,The Citadel
+2024,11/18,Club Lucha Open,141,L,TF5,19 - 4 7:00,Christian Gordon,87402,Emmanuel,Thomas Termini,78550,The Citadel
+2024,11/12,Georgia Open,141,L,MFOR,0 - 0,Avery Buonocore,88116,UNC Pembroke,Thomas Termini,78550,The Citadel
+2024,11/12,Georgia Open,141,W,FALL,1:45,Tyler Roth,87063,Truett-McConnell,Thomas Termini,78550,The Citadel
+2024,11/12,Georgia Open,141,W,MD,13 - 3,Jackson Crawford,83985,Southeastern University,Thomas Termini,78550,The Citadel
+2024,11/12,Georgia Open,141,W,DEC,10 - 9,Josiah Fernandez,76421,Life University,Thomas Termini,78550,The Citadel
+2024,11/12,Georgia Open,141,L,DEC,12 - 8,Travis Knowlton,76408,Life University,Thomas Termini,78550,The Citadel
+2024,11/05,Battle at The Citadel,141,L,TF5,19 - 4 4:48,Isaac Byers,62807,Appalachian State,Thomas Termini,78550,The Citadel
+2024,11/05,Battle at The Citadel,141,L,TF5,19 - 3 6:58,Heath Gonyer,62522,Appalachian State,Thomas Termini,78550,The Citadel
+2024,03/21,NCAA Championships,149,L,MD,11 - 1,Jude Swisher,73210,Pennsylvania,Jeffrey Boyd,62594,The Citadel
+2024,03/21,NCAA Championships,149,L,TB-1,8 - 5,Michael Cetta,72114,Rutgers,Jeffrey Boyd,62594,The Citadel
+2024,03/09,SoCon Championships,149,L,DEC,2 - 0,Cody Bond,50267,Appalachian State,Jeffrey Boyd,62594,The Citadel
+2024,03/09,SoCon Championships,149,W,DEC,4 - 1,Noah Castillo,67364,Chattanooga,Jeffrey Boyd,62594,The Citadel
+2024,03/09,SoCon Championships,149,W,TB-2,2 - 1,Xavier McKnight,84300,Davidson,Jeffrey Boyd,62594,The Citadel
+2024,02/16,The Citadel - Gardner-Webb Dual,149,W,SV-1,5 - 2,Zach Price,50932,Gardner-Webb,Jeffrey Boyd,62594,The Citadel
+2024,02/11,Davidson - The Citadel Dual,149,W,SV-1,4 - 1,Xavier McKnight,84300,Davidson,Jeffrey Boyd,62594,The Citadel
+2024,02/09,The Citadel - Campbell Dual,149,W,TB-1,2 - 1,Justin Rivera,61114,Campbell,Jeffrey Boyd,62594,The Citadel
+2024,02/04,Bellarmine - The Citadel Dual,149,W,SV-1,7 - 4,Zac Cowan,73532,Bellarmine,Jeffrey Boyd,62594,The Citadel
+2024,02/01,The Citadel - Chattanooga Dual,149,W,MD,18 - 4,Matthew Williams,69865,Chattanooga,Jeffrey Boyd,62594,The Citadel
+2024,01/28,VMI - The Citadel Dual,149,W,TF5,22 - 5 6:59,Ryan Vigil,63624,VMI,Jeffrey Boyd,62594,The Citadel
+2024,01/21,The Citadel - Appalachian State Dual,149,L,TB-1,2 - 1,Cody Bond,50267,Appalachian State,Jeffrey Boyd,62594,The Citadel
+2024,01/12,Cleveland State - The Citadel Dual,149,L,DEC,8 - 6,Douglas Terry,70741,Cleveland State,Jeffrey Boyd,62594,The Citadel
+2024,01/12,Brown - The Citadel Dual,149,W,MD,18 - 5,Sam McMonagle,71762,Brown,Jeffrey Boyd,62594,The Citadel
+2024,01/01,Southern Scuffle,149,L,DEC,9 - 8,Maxwell Petersen,73016,North Dakota State,Jeffrey Boyd,62594,The Citadel
+2024,01/01,Southern Scuffle,149,L,DEC,4 - 2,Benjamin Alanis,61438,Northern Colorado,Jeffrey Boyd,62594,The Citadel
+2024,12/19,The Citadel - Duke Dual,149,W,TF5,18 - 1 7:00,Jarred Papscy,56827,Duke,Jeffrey Boyd,62594,The Citadel
+2024,12/19,The Citadel - Queens Dual,149,W,TF5,17 - 2 7:00,Suhaib Hatamleh,84826,Queens,Jeffrey Boyd,62594,The Citadel
+2024,12/01,Cliff Keen Invitational,149,L,DEC,7 - 5,Noah Tapia,84311,Hofstra,Jeffrey Boyd,62594,The Citadel
+2024,12/01,Cliff Keen Invitational,149,L,DEC,4 - 2,Dylan Gilcher,77964,Michigan,Jeffrey Boyd,62594,The Citadel
+2024,11/18,Navy Classic,149,W,DEC,5 - 1,Aiden Davis,78724,Bucknell,Jeffrey Boyd,62594,The Citadel
+2024,11/18,Navy Classic,149,W,DEC,4 - 1,Eligh Rivera,77389,Princeton,Jeffrey Boyd,62594,The Citadel
+2024,11/18,Navy Classic,149,W,SV-1,7 - 4,Nicholas Stonecheck,62691,Lock Haven,Jeffrey Boyd,62594,The Citadel
+2024,11/18,Navy Classic,149,L,DEC,1 - 0,Ridge Lovett,57520,Nebraska,Jeffrey Boyd,62594,The Citadel
+2024,11/11,Millersville - The Citadel Dual,149,W,MD,14 - 3,Josh Tuckey,59672,Millersville,Jeffrey Boyd,62594,The Citadel
+2024,11/11,Clarion - The Citadel Dual,149,L,DEC,8 - 7,Kyle Schickel,67305,Clarion,Jeffrey Boyd,62594,The Citadel
+2024,11/05,Battle at The Citadel,149,W,DEC,6 - 4,Aiden Torres,84316,Indiana,Jeffrey Boyd,62594,The Citadel
+2024,11/05,Battle at The Citadel,149,L,MD,16 - 6,Anthony Bahl,79378,Indiana,Jeffrey Boyd,62594,The Citadel
+2024,11/05,Battle at The Citadel,149,W,MFOR,0 - 0,Hayden Watson,74085,The Citadel,Jeffrey Boyd,62594,The Citadel
+2024,11/05,Battle at The Citadel,149,W,TF5,18 - 2 6:44,Joe Clement,69605,The Citadel,Jeffrey Boyd,62594,The Citadel
+2024,11/05,Battle at The Citadel,149,L,MD,10 - 2,Jeremiah Price,76306,Appalachian State,Jeffrey Boyd,62594,The Citadel
+2024,02/25,Wildcat Open,149,W,FALL,4:54,Colin Nugent,84733,North Carolina,Carson DesRosier,78491,The Citadel
+2024,02/25,Wildcat Open,149,W,FALL,1:38,Matthew McLaughlin,70742,Davidson,Carson DesRosier,78491,The Citadel
+2024,02/25,Wildcat Open,149,W,DEC,8 - 3,Jeremiah Price,76306,Appalachian State,Carson DesRosier,78491,The Citadel
+2024,02/25,Wildcat Open,149,W,DEC,9 - 3,Eli Knight,73351,Chattanooga,Carson DesRosier,78491,The Citadel
+2024,01/27,Appalachian Open,149,W,FALL,1:23,Micah Porter,87134,King,Carson DesRosier,78491,The Citadel
+2024,01/27,Appalachian Open,149,W,TF5,16 - 1 6:38,Mitchell Johnson,82055,Greensboro,Carson DesRosier,78491,The Citadel
+2024,01/27,Appalachian Open,149,W,MD,11 - 3,Dillon Roman,78297,The Citadel,Carson DesRosier,78491,The Citadel
+2024,01/27,Appalachian Open,149,L,DEC,10 - 3,Jayden Scott,73860,North Carolina,Carson DesRosier,78491,The Citadel
+2024,01/27,Appalachian Open,149,L,MD,16 - 6,Cody Bond,50267,Appalachian State,Carson DesRosier,78491,The Citadel
+2024,01/01,Southern Scuffle,149,L,DEC,5 - 1,Graham Rooks,51283,Indiana,Carson DesRosier,78491,The Citadel
+2024,01/01,Southern Scuffle,149,L,DEC,4 - 1,Brock Rogers,62863,CSU Bakersfield,Carson DesRosier,78491,The Citadel
+2024,11/18,Navy Classic,149,L,DEC,19 - 17,Derek Raike,76503,Ohio,Carson DesRosier,78491,The Citadel
+2024,11/18,Navy Classic,149,L,MD,11 - 3,Nick Vafiadis,73121,Navy,Carson DesRosier,78491,The Citadel
+2024,11/18,Navy Classic,149,W,MD,9 - 1,Luke Lucerne,67546,Navy,Carson DesRosier,78491,The Citadel
+2024,11/18,Navy Classic,149,W,DEC,6 - 1,Alec Viduya,62759,Air Force,Carson DesRosier,78491,The Citadel
+2024,11/11,The Citadel - George Mason Dual,149,L,DEC,7 - 6,Kaden Cassidy,65847,George Mason,Carson DesRosier,78491,The Citadel
+2024,11/05,Battle at The Citadel,149,W,DEC,8 - 2,Cale Roggie,84307,George Mason,Carson DesRosier,78491,The Citadel
+2024,11/05,Battle at The Citadel,149,W,DEC,8 - 4,Anthony Bahl,79378,Indiana,Carson DesRosier,78491,The Citadel
+2024,11/05,Battle at The Citadel,149,L,MD,15 - 4,Dominic Findora,78518,Drexel,Carson DesRosier,78491,The Citadel
+2024,11/05,Battle at The Citadel,149,L,DEC,4 - 1,Dominic Findora,78518,Drexel,Carson DesRosier,78491,The Citadel
+2024,11/05,Battle at The Citadel,149,W,DEC,6 - 1,Gage Owen,78773,American,Carson DesRosier,78491,The Citadel
+2024,11/01,Montreat College - The Citadel Dual,149,W,TF5,15 - 0 3:46,Ethan Bennett,73982,Montreat College,Carson DesRosier,78491,The Citadel
+2024,01/27,Appalachian Open,149,L,MD,11 - 3,Carson DesRosier,78491,The Citadel,Dillon Roman,78297,The Citadel
+2024,01/27,Appalachian Open,149,W,SV-1,8 - 5,Brock Carey,79383,Davidson,Dillon Roman,78297,The Citadel
+2024,01/27,Appalachian Open,149,L,TF5,16 - 1 5:35,Jeremiah Price,76306,Appalachian State,Dillon Roman,78297,The Citadel
+2024,11/18,Club Lucha Open,149,L,MD,15 - 5,Junior Downy,88624,Unattached,Dillon Roman,78297,The Citadel
+2024,11/18,Club Lucha Open,149,W,TF5,20 - 3 7:00,Jermiah Dawson,88584,Life University,Dillon Roman,78297,The Citadel
+2024,11/18,Club Lucha Open,149,L,SV-1,4 - 1,Chris Kelly,77901,Southeastern University,Dillon Roman,78297,The Citadel
+2024,11/18,Club Lucha Open,149,W,DEC,9 - 2,Glenn Mayes,85265,Kentucky Wesleyan,Dillon Roman,78297,The Citadel
+2024,11/12,Georgia Open,149,W,TF5,17 - 1 7:00,Micah Porter,87134,King,Dillon Roman,78297,The Citadel
+2024,11/12,Georgia Open,149,L,FALL,0:56,Ronald Theilacker,85875,Emmanuel,Dillon Roman,78297,The Citadel
+2024,11/12,Georgia Open,149,L,MD,17 - 5,Avant Stepherson,85765,Life University,Dillon Roman,78297,The Citadel
+2024,11/12,Georgia Open,149,W,TF5,19 - 3 7:00,Bradley Owens,74699,Brewton-Parker,Dillon Roman,78297,The Citadel
+2024,11/05,Battle at The Citadel,149,L,TF5,19 - 4 4:29,Cale Roggie,84307,George Mason,Dillon Roman,78297,The Citadel
+2024,11/05,Battle at The Citadel,149,L,TF5,15 - 0 1:47,Kaden Cassidy,65847,George Mason,Dillon Roman,78297,The Citadel
+2024,11/05,Battle at The Citadel,149,W,SV-1,7 - 4,Devon Capato,78303,American,Dillon Roman,78297,The Citadel
+2024,11/05,Battle at The Citadel,149,L,TF5,18 - 2 6:44,Jeffrey Boyd,62594,The Citadel,Joe Clement,69605,The Citadel
+2024,11/05,Battle at The Citadel,149,L,FALL,3:40,Jeremiah Price,76306,Appalachian State,Joe Clement,69605,The Citadel
+2024,03/09,SoCon Championships,157,W,DEC,12 - 9,Chris Earnest,78840,Campbell,Hayden Watson,74085,The Citadel
+2024,03/09,SoCon Championships,157,L,MD,17 - 5,Lincoln Heck,66629,Chattanooga,Hayden Watson,74085,The Citadel
+2024,03/09,SoCon Championships,157,L,MD,16 - 8,Lincoln Heck,66629,Chattanooga,Hayden Watson,74085,The Citadel
+2024,03/09,SoCon Championships,157,W,FALL,5:40,Josh Yost,62379,VMI,Hayden Watson,74085,The Citadel
+2024,02/22,Presbyterian - The Citadel Dual,157,W,TF5,22 - 5 1:54,Dakota Price,73008,Presbyterian,Hayden Watson,74085,The Citadel
+2024,02/16,The Citadel - Gardner-Webb Dual,157,W,DEC,5 - 1,Drew Pepin,79394,Gardner-Webb,Hayden Watson,74085,The Citadel
+2024,02/11,Davidson - The Citadel Dual,157,L,DEC,9 - 4,Tanner Peake,78288,Davidson,Hayden Watson,74085,The Citadel
+2024,02/09,The Citadel - Campbell Dual,157,L,DEC,10 - 8,Chris Earnest,78840,Campbell,Hayden Watson,74085,The Citadel
+2024,02/04,Bellarmine - The Citadel Dual,157,W,DEC,2 - 0,Gray Ortis,78875,Bellarmine,Hayden Watson,74085,The Citadel
+2024,02/01,The Citadel - Chattanooga Dual,157,W,DEC,7 - 4,Lincoln Heck,66629,Chattanooga,Hayden Watson,74085,The Citadel
+2024,01/28,VMI - The Citadel Dual,157,W,DEC,2 - 0,Josh Yost,62379,VMI,Hayden Watson,74085,The Citadel
+2024,01/21,The Citadel - Appalachian State Dual,157,L,SV-1,12 - 9,Tommy Askey,67040,Appalachian State,Hayden Watson,74085,The Citadel
+2024,01/12,Cleveland State - The Citadel Dual,157,L,MD,15 - 6,Shane Heil,72593,Cleveland State,Hayden Watson,74085,The Citadel
+2024,01/12,Brown - The Citadel Dual,157,L,DEC,6 - 1,Blake Saito,65874,Brown,Hayden Watson,74085,The Citadel
+2024,01/01,Southern Scuffle,157,L,DEC,5 - 1,Logan Ferrero,74330,Duke,Hayden Watson,74085,The Citadel
+2024,01/01,Southern Scuffle,157,W,MD,18 - 6,Kolby DePron,71751,Bucknell,Hayden Watson,74085,The Citadel
+2024,01/01,Southern Scuffle,157,W,DEC,4 - 1,Lavinsky Collins,51268,Clarion,Hayden Watson,74085,The Citadel
+2024,01/01,Southern Scuffle,157,L,DEC,11 - 4,Jackson Hurst,73352,Chattanooga,Hayden Watson,74085,The Citadel
+2024,11/18,Navy Classic,149,L,SV-1,16 - 9,Lucas Kapusta,84439,Lock Haven,Hayden Watson,74085,The Citadel
+2024,11/18,Navy Classic,149,W,MD,9 - 1,Luke Lucerne,67546,Navy,Hayden Watson,74085,The Citadel
+2024,11/18,Navy Classic,149,L,TF5,18 - 1 2:47,Ridge Lovett,57520,Nebraska,Hayden Watson,74085,The Citadel
+2024,11/11,Williams College - The Citadel Dual,149,W,MD,18 - 8,Caleb Seyfried,79690,Williams College,Hayden Watson,74085,The Citadel
+2024,11/05,Battle at The Citadel,149,L,MFOR,0 - 0,Jeffrey Boyd,62594,The Citadel,Hayden Watson,74085,The Citadel
+2024,11/05,Battle at The Citadel,149,W,DEC,5 - 0,Cale Roggie,84307,George Mason,Hayden Watson,74085,The Citadel
+2024,11/05,Battle at The Citadel,149,L,MD,15 - 3,Graham Rooks,51283,Indiana,Hayden Watson,74085,The Citadel
+2024,11/05,Battle at The Citadel,149,W,DEC,5 - 3,Devon Capato,78303,American,Hayden Watson,74085,The Citadel
+2024,11/01,Allen University - The Citadel Dual,149,W,FALL,6:12,Drevon Wallace,71316,Allen University,Hayden Watson,74085,The Citadel
+2024,01/01,Southern Scuffle,157,L,DEC,2 - 1,Boeden Greenley,79279,North Dakota State,Thomas Snipes,73714,The Citadel
+2024,01/01,Southern Scuffle,157,L,DEC,9 - 3,Zach Hanson,74117,Stanford,Thomas Snipes,73714,The Citadel
+2024,01/01,Southern Scuffle,157,W,MD,10 - 1,Landen Johnson,73502,North Dakota State,Thomas Snipes,73714,The Citadel
+2024,01/01,Southern Scuffle,157,W,DEC,6 - 3,Chase Tebbets,62646,Little Rock,Thomas Snipes,73714,The Citadel
+2024,01/01,Southern Scuffle,157,W,DEC,5 - 0,Daniel Manibog,58564,Oklahoma State,Thomas Snipes,73714,The Citadel
+2024,12/19,The Citadel - Duke Dual,157,W,DEC,7 - 1,Logan Ferrero,74330,Duke,Thomas Snipes,73714,The Citadel
+2024,12/19,The Citadel - Queens Dual,157,W,TF5,15 - 0 4:04,Easton Tobia,67331,Queens,Thomas Snipes,73714,The Citadel
+2024,12/01,Cliff Keen Invitational,157,W,TF5,17 - 2 4:00,Devyn Flores-Che,79002,CSU Bakersfield,Thomas Snipes,73714,The Citadel
+2024,12/01,Cliff Keen Invitational,157,L,TF5,22 - 4 3:58,Ed Scott,64653,NC State,Thomas Snipes,73714,The Citadel
+2024,12/01,Cliff Keen Invitational,157,L,TF5,21 - 2 6:39,Cody Chittum,60816,Iowa State,Thomas Snipes,73714,The Citadel
+2024,11/18,Navy Classic,157,W,DEC,4 - 3,Keegan Knapp,79795,Kent State,Thomas Snipes,73714,The Citadel
+2024,11/18,Navy Classic,157,W,MD,11 - 2,Dillon Carlson,79794,Kent State,Thomas Snipes,73714,The Citadel
+2024,11/18,Navy Classic,157,W,DEC,4 - 2,William Morrow,79213,Bloomsburg,Thomas Snipes,73714,The Citadel
+2024,11/18,Navy Classic,157,W,DEC,5 - 1,James Hogan,78744,Lock Haven,Thomas Snipes,73714,The Citadel
+2024,11/18,Navy Classic,157,L,DEC,10 - 4,Daniel Segura,65313,Ohio,Thomas Snipes,73714,The Citadel
+2024,11/18,Navy Classic,157,L,DEC,6 - 3,Nick Delp,62493,Bucknell,Thomas Snipes,73714,The Citadel
+2024,11/11,Millersville - The Citadel Dual,157,W,MD,16 - 6,Nick Bennet,84776,Millersville,Thomas Snipes,73714,The Citadel
+2024,11/11,Williams College - The Citadel Dual,157,L,MD,11 - 3,Peter Kane,79689,Williams College,Thomas Snipes,73714,The Citadel
+2024,11/11,Clarion - The Citadel Dual,157,L,TF5,18 - 1 6:44,Alejandro Herrera-Rondon,68725,Clarion,Thomas Snipes,73714,The Citadel
+2024,11/11,The Citadel - George Mason Dual,157,L,DEC,4 - 2,DJ McGee,78901,George Mason,Thomas Snipes,73714,The Citadel
+2024,11/05,Battle at The Citadel,157,W,TF5,19 - 4 4:57,JT Chance,84412,George Mason,Thomas Snipes,73714,The Citadel
+2024,11/05,Battle at The Citadel,157,L,DEC,5 - 2,Nico Bolivar,62427,Indiana,Thomas Snipes,73714,The Citadel
+2024,11/05,Battle at The Citadel,157,L,DEC,4 - 1,Nico Bolivar,62427,Indiana,Thomas Snipes,73714,The Citadel
+2024,11/05,Battle at The Citadel,157,W,MD,15 - 4,Aboubakare Diaby,72624,Drexel,Thomas Snipes,73714,The Citadel
+2024,11/05,Battle at The Citadel,157,W,MD,17 - 5,Connor Trowbridge,62818,Drexel,Thomas Snipes,73714,The Citadel
+2024,11/05,Battle at The Citadel,157,W,DEC,8 - 2,Anthony Conetta,79084,Appalachian State,Thomas Snipes,73714,The Citadel
+2024,11/01,Allen University - The Citadel Dual,157,W,FALL,2:29,James Dagin,71319,Allen University,Thomas Snipes,73714,The Citadel
+2024,11/01,Montreat College - The Citadel Dual,157,W,MD,16 - 4,Daniel Bennett,74018,Montreat College,Thomas Snipes,73714,The Citadel
+2024,03/09,SoCon Championships,165,L,DEC,8 - 3,Domonic Baker,71742,Campbell,Benjamin Haubert,71286,The Citadel
+2024,03/09,SoCon Championships,165,L,MD,13 - 4,Kamdyn Munro,71789,Chattanooga,Benjamin Haubert,71286,The Citadel
+2024,03/09,SoCon Championships,165,W,TF5,20 - 4 5:52,Andrew Wilson,73732,Gardner-Webb,Benjamin Haubert,71286,The Citadel
+2024,02/22,Presbyterian - The Citadel Dual,165,W,MD,9 - 0,Michael Ramirez,69874,Presbyterian,Benjamin Haubert,71286,The Citadel
+2024,02/16,The Citadel - Gardner-Webb Dual,165,W,MD,13 - 1,Andrew Wilson,73732,Gardner-Webb,Benjamin Haubert,71286,The Citadel
+2024,02/11,Davidson - The Citadel Dual,165,W,DEC,11 - 5,Bryce Sanderlin,63711,Davidson,Benjamin Haubert,71286,The Citadel
+2024,02/09,The Citadel - Campbell Dual,165,L,DEC,8 - 5,Domonic Baker,71742,Campbell,Benjamin Haubert,71286,The Citadel
+2024,02/04,Bellarmine - The Citadel Dual,165,W,SV-1,3 - 2,Grant O'Dell,78484,Bellarmine,Benjamin Haubert,71286,The Citadel
+2024,02/01,The Citadel - Chattanooga Dual,165,W,MD,10 - 2,Kamdyn Munro,71789,Chattanooga,Benjamin Haubert,71286,The Citadel
+2024,01/28,VMI - The Citadel Dual,165,W,MD,11 - 2,Luke Hart,72524,VMI,Benjamin Haubert,71286,The Citadel
+2024,01/21,The Citadel - Appalachian State Dual,165,L,MD,8 - 0,Will Miller,73102,Appalachian State,Benjamin Haubert,71286,The Citadel
+2024,01/12,Cleveland State - The Citadel Dual,165,L,SV-1,4 - 1,Tate Geiser,78813,Cleveland State,Benjamin Haubert,71286,The Citadel
+2024,01/12,Brown - The Citadel Dual,165,W,DEC,3 - 0,Keegan Rothrock,67258,Brown,Benjamin Haubert,71286,The Citadel
+2024,01/01,Southern Scuffle,165,L,SV-1,4 - 1,Wesley Barnes,79466,Clarion,Benjamin Haubert,71286,The Citadel
+2024,01/01,Southern Scuffle,165,L,DEC,5 - 4,Noah Mulvaney,78676,Bucknell,Benjamin Haubert,71286,The Citadel
+2024,01/01,Southern Scuffle,165,W,MD,17 - 3,Eli Brinsky,67110,Clarion,Benjamin Haubert,71286,The Citadel
+2024,12/19,The Citadel - Duke Dual,165,L,SV-1,2 - 1,Gaetano Console,73305,Duke,Benjamin Haubert,71286,The Citadel
+2024,12/19,The Citadel - Queens Dual,165,W,DEC,4 - 0,Vladimir Sukhikh,79825,Queens,Benjamin Haubert,71286,The Citadel
+2024,12/01,Cliff Keen Invitational,165,W,DEC,8 - 2,Christian Hodges,67545,Navy,Benjamin Haubert,71286,The Citadel
+2024,12/01,Cliff Keen Invitational,165,L,DEC,4 - 2,Connor Brady,56741,Virginia Tech,Benjamin Haubert,71286,The Citadel
+2024,12/01,Cliff Keen Invitational,165,L,FALL,5:21,Izzak Olejnik,56509,Oklahoma State,Benjamin Haubert,71286,The Citadel
+2024,11/18,Navy Classic,165,L,SV-1,8 - 5,Tate Geiser,78813,Cleveland State,Benjamin Haubert,71286,The Citadel
+2024,11/18,Navy Classic,165,W,DEC,6 - 2,Max Kirby,78782,Edinboro,Benjamin Haubert,71286,The Citadel
+2024,11/18,Navy Classic,165,L,DEC,12 - 6,Garrett Thompson,73169,Ohio,Benjamin Haubert,71286,The Citadel
+2024,11/11,Clarion - The Citadel Dual,165,W,DEC,9 - 4,Eli Brinsky,67110,Clarion,Benjamin Haubert,71286,The Citadel
+2024,11/11,The Citadel - George Mason Dual,165,W,SV-1,8 - 5,Evan Maag,78473,George Mason,Benjamin Haubert,71286,The Citadel
+2024,11/05,Battle at The Citadel,165,L,DEC,10 - 8,Evan Maag,78473,George Mason,Benjamin Haubert,71286,The Citadel
+2024,11/05,Battle at The Citadel,165,L,MD,8 - 0,Cody Walsh,71125,Drexel,Benjamin Haubert,71286,The Citadel
+2024,11/05,Battle at The Citadel,165,W,MD,12 - 2,Nick Grizales,78634,Appalachian State,Benjamin Haubert,71286,The Citadel
+2024,11/05,Battle at The Citadel,165,W,DEC,7 - 3,Oren Bost,73101,Appalachian State,Benjamin Haubert,71286,The Citadel
+2024,11/05,Battle at The Citadel,165,W,MD,14 - 2,Breon Phifer,72682,American,Benjamin Haubert,71286,The Citadel
+2024,01/27,Appalachian Open,165,W,DEC,10 - 5,Aidan Lenz,73359,The Citadel,Justin Hayes,79292,The Citadel
+2024,01/27,Appalachian Open,165,L,DEC,14 - 10,Matt Karagias,84757,NC State,Justin Hayes,79292,The Citadel
+2024,01/27,Appalachian Open,165,W,FALL,2:02,Alex Hopper,84575,Appalachian State,Justin Hayes,79292,The Citadel
+2024,01/27,Appalachian Open,165,L,FALL,1:15,Jayden Dobeck,80125,Appalachian State,Justin Hayes,79292,The Citadel
+2024,11/18,Club Lucha Open,165,L,FALL,2:11,Grant Monroe,82721,Unattached,Justin Hayes,79292,The Citadel
+2024,11/18,Club Lucha Open,165,L,DEC,6 - 5,Sean Houston,76713,Brewton-Parker,Justin Hayes,79292,The Citadel
+2024,11/18,Club Lucha Open,165,W,DEC,6 - 3,Diego Guerrero,61393,Life University,Justin Hayes,79292,The Citadel
+2024,11/12,Georgia Open,165,W,FALL,1:26,Joaquin Chungata,88117,Florida A&M,Justin Hayes,79292,The Citadel
+2024,11/12,Georgia Open,165,L,DEC,10 - 8,Wyatt Higgins,87118,Reinhardt University,Justin Hayes,79292,The Citadel
+2024,11/12,Georgia Open,165,L,TB-1,11 - 10,Connor Smith,57823,Emmanuel,Justin Hayes,79292,The Citadel
+2024,11/05,Battle at The Citadel,165,L,MD,24 - 12,Evan Maag,78473,George Mason,Justin Hayes,79292,The Citadel
+2024,11/05,Battle at The Citadel,165,L,TF5,17 - 2 4:33,Drake Acklin,78476,Appalachian State,Justin Hayes,79292,The Citadel
+2024,11/01,Montreat College - The Citadel Dual,165,L,MD,12 - 2,Mohamed Ben Hafsia,83819,Montreat College,Justin Hayes,79292,The Citadel
+2024,01/27,Appalachian Open,165,L,DEC,10 - 5,Justin Hayes,79292,The Citadel,Aidan Lenz,73359,The Citadel
+2024,01/27,Appalachian Open,165,W,TF5,15 - 0 2:14,Nicholas Menjivar,85517,Greensboro,Aidan Lenz,73359,The Citadel
+2024,01/27,Appalachian Open,165,L,FALL,6:01,Oren Bost,73101,Appalachian State,Aidan Lenz,73359,The Citadel
+2024,01/01,Southern Scuffle,165,L,FALL,5:47,Robert Major,71685,Indiana,Aidan Lenz,73359,The Citadel
+2024,01/01,Southern Scuffle,165,L,FALL,4:29,Baylor Fernandes,57351,Northern Colorado,Aidan Lenz,73359,The Citadel
+2024,11/18,Navy Classic,165,L,FALL,2:42,Tyler Sagi,84334,Navy,Aidan Lenz,73359,The Citadel
+2024,11/18,Navy Classic,165,L,TF5,16 - 1 4:32,Bubba Wilson,57936,Nebraska,Aidan Lenz,73359,The Citadel
+2024,11/11,Millersville - The Citadel Dual,165,W,FALL,2:47,Tyler Stanton,66574,Millersville,Aidan Lenz,73359,The Citadel
+2024,11/11,Williams College - The Citadel Dual,165,W,DEC,10 - 4,Sean Tansey,87618,Williams College,Aidan Lenz,73359,The Citadel
+2024,11/05,Battle at The Citadel,165,L,FALL,2:30,Evan Maag,78473,George Mason,Aidan Lenz,73359,The Citadel
+2024,11/05,Battle at The Citadel,165,W,DEC,10 - 4,Alex Hopper,84575,Appalachian State,Aidan Lenz,73359,The Citadel
+2024,11/05,Battle at The Citadel,165,L,DEC,5 - 0,Jayden Dobeck,80125,Appalachian State,Aidan Lenz,73359,The Citadel
+2024,11/05,Battle at The Citadel,165,W,MD,11 - 3,Breon Phifer,72682,American,Aidan Lenz,73359,The Citadel
+2024,11/01,Allen University - The Citadel Dual,165,W,FALL,1:32,Ya'Donnis Hardaway,75018,Allen University,Aidan Lenz,73359,The Citadel
+2024,01/27,Appalachian Open,174,L,MD,20 - 6,Pierce-Tate Carpenter,84409,The Citadel,Ryan Duffelmeyer,73360,The Citadel
+2024,01/27,Appalachian Open,174,L,FALL,1:55,Lucas Uliano,71130,Appalachian State,Ryan Duffelmeyer,73360,The Citadel
+2024,11/05,Battle at The Citadel,165,L,FALL,4:18,Cody Walsh,71125,Drexel,Ryan Duffelmeyer,73360,The Citadel
+2024,11/05,Battle at The Citadel,165,L,TF5,15 - 0 5:07,Oren Bost,73101,Appalachian State,Ryan Duffelmeyer,73360,The Citadel
+2024,03/09,SoCon Championships,174,L,MD,12 - 2,Lucas Uliano,71130,Appalachian State,Brodie Porter,79293,The Citadel
+2024,03/09,SoCon Championships,174,W,FALL,1:54,Joshua Williams,83341,Presbyterian,Brodie Porter,79293,The Citadel
+2024,03/09,SoCon Championships,174,L,MD,14 - 3,Braxton Lewis,78474,VMI,Brodie Porter,79293,The Citadel
+2024,02/22,Presbyterian - The Citadel Dual,174,W,FALL,0:23,Joshua Williams,83341,Presbyterian,Brodie Porter,79293,The Citadel
+2024,02/16,The Citadel - Gardner-Webb Dual,174,W,DEC,8 - 5,Samuel Mora,62408,Gardner-Webb,Brodie Porter,79293,The Citadel
+2024,02/11,Davidson - The Citadel Dual,174,W,DEC,2 - 0,Jaden Hardrick,65048,Davidson,Brodie Porter,79293,The Citadel
+2024,02/09,The Citadel - Campbell Dual,174,L,MD,17 - 4,Austin Murphy,51608,Campbell,Brodie Porter,79293,The Citadel
+2024,02/04,Bellarmine - The Citadel Dual,174,W,DEC,9 - 8,Cole Nance,73533,Bellarmine,Brodie Porter,79293,The Citadel
+2024,02/01,The Citadel - Chattanooga Dual,174,L,DEC,8 - 6,Sergio Desiante,78495,Chattanooga,Brodie Porter,79293,The Citadel
+2024,01/28,VMI - The Citadel Dual,174,L,DEC,3 - 2,Braxton Lewis,78474,VMI,Brodie Porter,79293,The Citadel
+2024,01/21,The Citadel - Appalachian State Dual,174,L,TF5,16 - 0 5:59,Lucas Uliano,71130,Appalachian State,Brodie Porter,79293,The Citadel
+2024,01/12,Cleveland State - The Citadel Dual,174,W,DEC,4 - 2,Deandre Nassar,62202,Cleveland State,Brodie Porter,79293,The Citadel
+2024,01/12,Brown - The Citadel Dual,174,L,MD,18 - 5,Jonathan Conrad,73553,Brown,Brodie Porter,79293,The Citadel
+2024,01/01,Southern Scuffle,174,L,DEC,12 - 7,Tye Monteiro,79281,Stanford,Brodie Porter,79293,The Citadel
+2024,01/01,Southern Scuffle,174,W,TF5,17 - 2 6:10,Jack Wimmer,69859,Duke,Brodie Porter,79293,The Citadel
+2024,01/01,Southern Scuffle,174,L,TF5,17 - 0 6:16,Gaven Sax,65396,North Dakota State,Brodie Porter,79293,The Citadel
+2024,01/01,Southern Scuffle,174,W,DEC,5 - 1,Augustine Garcia,69363,CSU Bakersfield,Brodie Porter,79293,The Citadel
+2024,12/19,The Citadel - Duke Dual,174,W,DEC,7 - 2,Jack Wimmer,69859,Duke,Brodie Porter,79293,The Citadel
+2024,12/19,The Citadel - Queens Dual,174,W,MD,11 - 3,Greg Merriman,84827,Queens,Brodie Porter,79293,The Citadel
+2024,11/18,Navy Classic,174,L,DEC,8 - 6,Christopher Minto,84337,Nebraska,Brodie Porter,79293,The Citadel
+2024,11/18,Navy Classic,174,W,DEC,12 - 10,Sammy Starr,73336,Navy,Brodie Porter,79293,The Citadel
+2024,11/18,Navy Classic,174,W,DEC,10 - 8,Jack Ganos,68695,Air Force,Brodie Porter,79293,The Citadel
+2024,11/18,Navy Classic,174,L,DEC,10 - 9,Mikey Squires,67290,Princeton,Brodie Porter,79293,The Citadel
+2024,11/11,Williams College - The Citadel Dual,174,L,FALL,2:00,William Smith,65886,Williams College,Brodie Porter,79293,The Citadel
+2024,11/05,Battle at The Citadel,174,L,TF5,16 - 0 3:43,Josh Stillings,50895,The Citadel,Brodie Porter,79293,The Citadel
+2024,11/05,Battle at The Citadel,174,L,TB-2,10 - 9,Logan Eller,82482,Appalachian State,Brodie Porter,79293,The Citadel
+2024,11/01,Montreat College - The Citadel Dual,174,W,FALL,1:02,Zechariah Wallace-Turner,85400,Montreat College,Brodie Porter,79293,The Citadel
+2024,12/01,Cliff Keen Invitational,174,L,MFOR,0 - 0,Blake Bahna,72236,LIU,Josh Stillings,50895,The Citadel
+2024,12/01,Cliff Keen Invitational,174,L,INJ,2:05,David Ferrante,57710,Northwestern,Josh Stillings,50895,The Citadel
+2024,11/11,Clarion - The Citadel Dual,174,W,DEC,6 - 2,John Worthing,61847,Clarion,Josh Stillings,50895,The Citadel
+2024,11/11,The Citadel - George Mason Dual,174,W,MD,11 - 2,Sean Coughlin,77587,George Mason,Josh Stillings,50895,The Citadel
+2024,11/05,Battle at The Citadel,174,W,TF5,16 - 0 3:43,Brodie Porter,79293,The Citadel,Josh Stillings,50895,The Citadel
+2024,11/05,Battle at The Citadel,174,W,DEC,5 - 1,Nick Foster,78902,George Mason,Josh Stillings,50895,The Citadel
+2024,11/05,Battle at The Citadel,174,W,MD,15 - 6,Sean Coughlin,77587,George Mason,Josh Stillings,50895,The Citadel
+2024,11/05,Battle at The Citadel,174,W,MFOR,0 - 0,Paul Pierce,56165,George Mason,Josh Stillings,50895,The Citadel
+2024,11/05,Battle at The Citadel,174,W,TF5,17 - 0 4:38,George Rhodes,84619,Drexel,Josh Stillings,50895,The Citadel
+2024,11/05,Battle at The Citadel,174,L,DEC,3 - 2,Tanner Updegraff,67441,Drexel,Josh Stillings,50895,The Citadel
+2024,11/01,Allen University - The Citadel Dual,174,W,TF5,15 - 0 5:46,Micheal Jackson,71523,Allen University,Josh Stillings,50895,The Citadel
+2024,01/27,Appalachian Open,174,W,MD,20 - 6,Ryan Duffelmeyer,73360,The Citadel,Pierce-Tate Carpenter,84409,The Citadel
+2024,01/27,Appalachian Open,174,L,FALL,3:15,Tyler Hicks,84941,Gardner-Webb,Pierce-Tate Carpenter,84409,The Citadel
+2024,01/27,Appalachian Open,174,L,MD,14 - 5,Jaden Hardrick,65048,Davidson,Pierce-Tate Carpenter,84409,The Citadel
+2024,03/09,SoCon Championships,184,W,DEC,7 - 6,Jackson Hurst,73352,Chattanooga,Adam Ortega,78687,The Citadel
+2024,03/09,SoCon Championships,184,L,DEC,11 - 6,Wyatt Ferguson,84301,Davidson,Adam Ortega,78687,The Citadel
+2024,03/09,SoCon Championships,184,L,DEC,9 - 5,Caleb Roe,80041,Presbyterian,Adam Ortega,78687,The Citadel
+2024,02/22,Presbyterian - The Citadel Dual,184,W,TF5,16 - 1 3:25,Caleb Roe,80041,Presbyterian,Adam Ortega,78687,The Citadel
+2024,02/16,The Citadel - Gardner-Webb Dual,184,L,MD,12 - 1,Jha'Quan Anderson,62407,Gardner-Webb,Adam Ortega,78687,The Citadel
+2024,02/11,Davidson - The Citadel Dual,184,L,MD,12 - 2,Wyatt Ferguson,84301,Davidson,Adam Ortega,78687,The Citadel
+2024,02/09,The Citadel - Campbell Dual,184,L,FALL,2:36,Caleb Hopkins,56482,Campbell,Adam Ortega,78687,The Citadel
+2024,02/04,Bellarmine - The Citadel Dual,184,W,DEC,8 - 5,Sam Schroeder,67333,Bellarmine,Adam Ortega,78687,The Citadel
+2024,02/01,The Citadel - Chattanooga Dual,184,W,DEC,8 - 1,Ryan Stein,79015,Chattanooga,Adam Ortega,78687,The Citadel
+2024,01/28,VMI - The Citadel Dual,184,W,DEC,11 - 5,Toby Schoffstall,79340,VMI,Adam Ortega,78687,The Citadel
+2024,01/21,The Citadel - Appalachian State Dual,184,L,MD,12 - 4,Tomas Brooker,79391,Appalachian State,Adam Ortega,78687,The Citadel
+2024,01/12,Cleveland State - The Citadel Dual,184,W,DEC,8 - 2,Joey Lyons,72596,Cleveland State,Adam Ortega,78687,The Citadel
+2024,01/12,Brown - The Citadel Dual,184,W,MD,14 - 2,Nick Olivieri,76389,Brown,Adam Ortega,78687,The Citadel
+2024,01/01,Southern Scuffle,184,L,MD,13 - 4,Aidan Brenot,84734,North Dakota State,Adam Ortega,78687,The Citadel
+2024,01/01,Southern Scuffle,184,L,DEC,5 - 0,Michael Bartush,72602,Bucknell,Adam Ortega,78687,The Citadel
+2024,01/01,Southern Scuffle,184,W,DEC,2 - 1,Conor Becker,69858,Duke,Adam Ortega,78687,The Citadel
+2024,12/19,The Citadel - Duke Dual,184,W,DEC,2 - 0,Conor Becker,69858,Duke,Adam Ortega,78687,The Citadel
+2024,12/19,The Citadel - Queens Dual,184,W,MD,12 - 1,D'Andree Hunt,79826,Queens,Adam Ortega,78687,The Citadel
+2024,12/01,Cliff Keen Invitational,184,L,SV-1,4 - 1,Kingsley Menifee,84331,Morgan State,Adam Ortega,78687,The Citadel
+2024,12/01,Cliff Keen Invitational,184,L,DEC,9 - 3,Sam Fisher,62358,Virginia Tech,Adam Ortega,78687,The Citadel
+2024,11/18,Navy Classic,184,L,DEC,10 - 3,Daniel Williams,84928,Navy,Adam Ortega,78687,The Citadel
+2024,11/18,Navy Classic,184,L,DEC,10 - 4,Max Ray,84351,Ohio,Adam Ortega,78687,The Citadel
+2024,11/11,Millersville - The Citadel Dual,184,W,TF5,17 - 0 4:26,Tyler Hurst,84778,Millersville,Adam Ortega,78687,The Citadel
+2024,11/11,Williams College - The Citadel Dual,184,W,DEC,8 - 1,Dante Gutbrod,66039,Williams College,Adam Ortega,78687,The Citadel
+2024,11/11,Clarion - The Citadel Dual,184,L,SV-1,4 - 1,Cameron Pine,57196,Clarion,Adam Ortega,78687,The Citadel
+2024,11/11,The Citadel - George Mason Dual,184,L,FALL,3:31,Malachi Duvall,72189,George Mason,Adam Ortega,78687,The Citadel
+2024,11/05,Battle at The Citadel,184,W,DEC,7 - 1,Roy Price,79294,The Citadel,Adam Ortega,78687,The Citadel
+2024,11/05,Battle at The Citadel,184,L,DEC,2 - 0,Justin Griffith,79552,Drexel,Adam Ortega,78687,The Citadel
+2024,11/05,Battle at The Citadel,184,L,DEC,5 - 2,Dalton Battle,73100,Appalachian State,Adam Ortega,78687,The Citadel
+2024,11/01,Allen University - The Citadel Dual,184,W,FALL,5:44,Jerrel Baskins,85377,Allen University,Adam Ortega,78687,The Citadel
+2024,11/01,Montreat College - The Citadel Dual,184,W,FALL,2:41,Tyler McDonald,73985,Montreat College,Adam Ortega,78687,The Citadel
+2024,02/25,Wildcat Open,184,W,MD,12 - 4,Oliver Tipton,79057,Davidson,Micah Dicarlo,73053,The Citadel
+2024,02/25,Wildcat Open,184,W,MD,9 - 0,Chris Salazar,77993,North Carolina,Micah Dicarlo,73053,The Citadel
+2024,02/25,Wildcat Open,184,L,DEC,5 - 3,Gavin Kane,62429,North Carolina,Micah Dicarlo,73053,The Citadel
+2024,02/25,Wildcat Open,184,W,DEC,4 - 1,Tyler Hicks,84941,Gardner-Webb,Micah Dicarlo,73053,The Citadel
+2024,02/25,Wildcat Open,184,L,DEC,5 - 1,Dalton Battle,73100,Appalachian State,Micah Dicarlo,73053,The Citadel
+2024,01/27,Appalachian Open,184,W,TF5,15 - 0 4:18,Roy Price,79294,The Citadel,Micah Dicarlo,73053,The Citadel
+2024,01/27,Appalachian Open,184,L,DEC,8 - 5,Sam Fisher,62358,Virginia Tech,Micah Dicarlo,73053,The Citadel
+2024,01/27,Appalachian Open,184,L,MD,10 - 0,Dalton Battle,73100,Appalachian State,Micah Dicarlo,73053,The Citadel
+2024,02/25,Wildcat Open,184,L,MFOR,0 - 0,Anthony Crespo-Gonzalez,87056,UNC Pembroke,Roy Price,79294,The Citadel
+2024,02/25,Wildcat Open,184,L,MFOR,0 - 0,Tyler Hicks,84941,Gardner-Webb,Roy Price,79294,The Citadel
+2024,01/27,Appalachian Open,184,L,TF5,15 - 0 4:18,Micah Dicarlo,73053,The Citadel,Roy Price,79294,The Citadel
+2024,01/27,Appalachian Open,184,W,FALL,4:44,Andrew Macchiavello,77777,NC State,Roy Price,79294,The Citadel
+2024,01/27,Appalachian Open,184,L,FALL,2:26,Brock Delsignore,71935,NC State,Roy Price,79294,The Citadel
+2024,01/01,Southern Scuffle,184,L,TF5,20 - 4 6:28,Guiseppe Hoose,56371,Oklahoma,Roy Price,79294,The Citadel
+2024,01/01,Southern Scuffle,184,L,DEC,5 - 2,Wyatt Ferguson,84301,Davidson,Roy Price,79294,The Citadel
+2024,12/19,The Citadel - Duke Dual,197,W,DEC,9 - 6,Kwasi Bonsu,84783,Duke,Roy Price,79294,The Citadel
+2024,12/19,The Citadel - Queens Dual,197,L,DEC,13 - 8,Riley Kuhn,72235,Queens,Roy Price,79294,The Citadel
+2024,11/18,Club Lucha Open,184,W,FALL,4:15,Brayden Easton,88607,University of Rio Grande,Roy Price,79294,The Citadel
+2024,11/18,Club Lucha Open,184,W,FALL,1:48,Dominic Martinez,83319,Life University,Roy Price,79294,The Citadel
+2024,11/18,Club Lucha Open,184,L,FALL,1:11,Jeivan Ross,75405,St Thomas University,Roy Price,79294,The Citadel
+2024,11/18,Club Lucha Open,184,L,SV-1,8 - 5,Noah Gallardo,67393,Southeastern University,Roy Price,79294,The Citadel
+2024,11/18,Club Lucha Open,184,W,FALL,0:51,Jequez Robinson,85347,Montevallo,Roy Price,79294,The Citadel
+2024,11/12,Georgia Open,184,W,FALL,0:57,Walker Anthony,88115,Brewton-Parker,Roy Price,79294,The Citadel
+2024,11/12,Georgia Open,184,W,FALL,1:14,Anthony Crespo-Gonzalez,87056,UNC Pembroke,Roy Price,79294,The Citadel
+2024,11/12,Georgia Open,184,L,DEC,9 - 6,Savian Graham,85341,Montevallo,Roy Price,79294,The Citadel
+2024,11/12,Georgia Open,184,L,DEC,12 - 5,Jonathon Paramore,81460,Reinhardt University,Roy Price,79294,The Citadel
+2024,11/05,Battle at The Citadel,184,L,DEC,7 - 1,Adam Ortega,78687,The Citadel,Roy Price,79294,The Citadel
+2024,11/05,Battle at The Citadel,184,L,FALL,5:51,Joe Zovistoski,73103,Appalachian State,Roy Price,79294,The Citadel
+2024,03/09,SoCon Championships,197,W,DEC,14 - 10,Carson Floyd,78561,Appalachian State,Patrick Brophy,78688,The Citadel
+2024,03/09,SoCon Championships,197,L,FALL,0:30,Levi Hopkins,62508,Campbell,Patrick Brophy,78688,The Citadel
+2024,03/09,SoCon Championships,197,W,MD,8 - 0,Cameo Blankenship,79784,Davidson,Patrick Brophy,78688,The Citadel
+2024,02/25,Wildcat Open,197,W,MD,17 - 4,Dylan Smith,84397,Davidson,Patrick Brophy,78688,The Citadel
+2024,02/25,Wildcat Open,197,L,DEC,3 - 1,Christian Knop,57096,NC State,Patrick Brophy,78688,The Citadel
+2024,02/25,Wildcat Open,197,W,TF5,16 - 1 5:03,Gunnar Pool,82480,Appalachian State,Patrick Brophy,78688,The Citadel
+2024,02/22,Presbyterian - The Citadel Dual,197,W,TF5,17 - 0 5:14,George Hopkins,80040,Presbyterian,Patrick Brophy,78688,The Citadel
+2024,02/16,The Citadel - Gardner-Webb Dual,197,W,DEC,13 - 7,Joshua McCutchen,75730,Gardner-Webb,Patrick Brophy,78688,The Citadel
+2024,02/11,Davidson - The Citadel Dual,197,W,MD,15 - 6,Cameo Blankenship,79784,Davidson,Patrick Brophy,78688,The Citadel
+2024,02/09,The Citadel - Campbell Dual,197,L,DEC,9 - 4,Levi Hopkins,62508,Campbell,Patrick Brophy,78688,The Citadel
+2024,02/04,Bellarmine - The Citadel Dual,197,W,DEC,6 - 4,Andrew Liber,84842,Bellarmine,Patrick Brophy,78688,The Citadel
+2024,02/01,The Citadel - Chattanooga Dual,197,W,MD,20 - 11,David Harper,72573,Chattanooga,Patrick Brophy,78688,The Citadel
+2024,01/28,VMI - The Citadel Dual,197,W,DEC,5 - 2,Josh Evans,72531,VMI,Patrick Brophy,78688,The Citadel
+2024,01/21,The Citadel - Appalachian State Dual,197,L,DEC,8 - 1,Carson Floyd,78561,Appalachian State,Patrick Brophy,78688,The Citadel
+2024,01/12,Cleveland State - The Citadel Dual,197,L,FALL,1:42,Ben Smith,56236,Cleveland State,Patrick Brophy,78688,The Citadel
+2024,01/12,Brown - The Citadel Dual,197,W,DEC,11 - 6,James Araneo,71780,Brown,Patrick Brophy,78688,The Citadel
+2024,01/01,Southern Scuffle,197,L,CMFF,0 - 0,Joshua McCutchen,75730,Gardner-Webb,Patrick Brophy,78688,The Citadel
+2024,01/01,Southern Scuffle,197,L,DEC,3 - 2,Kyle Haas,67222,Oklahoma State,Patrick Brophy,78688,The Citadel
+2024,01/01,Southern Scuffle,197,W,DEC,9 - 4,Ethan Wiant,63052,Clarion,Patrick Brophy,78688,The Citadel
+2024,12/01,Cliff Keen Invitational,197,L,DEC,10 - 5,Evan Bates,72133,Northwestern,Patrick Brophy,78688,The Citadel
+2024,12/01,Cliff Keen Invitational,197,L,INJ,3:56,Jack Wehmeyer,71793,Columbia,Patrick Brophy,78688,The Citadel
+2024,12/01,Cliff Keen Invitational,197,W,DEC,11 - 4,Jake Trovato,84017,Sacred Heart,Patrick Brophy,78688,The Citadel
+2024,11/18,Navy Classic,197,L,FALL,6:23,Kolby Flank,67153,Bloomsburg,Patrick Brophy,78688,The Citadel
+2024,11/18,Navy Classic,197,L,MD,17 - 4,Silas Allred,62343,Nebraska,Patrick Brophy,78688,The Citadel
+2024,11/11,Williams College - The Citadel Dual,197,W,FALL,3:42,Wyatt Moyer,79692,Williams College,Patrick Brophy,78688,The Citadel
+2024,11/11,Clarion - The Citadel Dual,197,W,SV-1,7 - 4,Ethan Wiant,63052,Clarion,Patrick Brophy,78688,The Citadel
+2024,11/11,The Citadel - George Mason Dual,197,W,SV-1,7 - 4,Tyler Kocak,69715,George Mason,Patrick Brophy,78688,The Citadel
+2024,11/05,Battle at The Citadel,197,L,DEC,4 - 3,Tyler Kocak,69715,George Mason,Patrick Brophy,78688,The Citadel
+2024,11/05,Battle at The Citadel,197,W,MD,16 - 4,Ibrahim Ameer,75829,Drexel,Patrick Brophy,78688,The Citadel
+2024,11/05,Battle at The Citadel,197,W,MD,14 - 2,Liam Volk-Klos,78524,American,Patrick Brophy,78688,The Citadel
+2024,11/05,Battle at The Citadel,197,W,DEC,7 - 1,Carston Rawls,72684,American,Patrick Brophy,78688,The Citadel
+2024,11/01,Allen University - The Citadel Dual,197,W,TF5,17 - 2 5:45,Emmanuel Velazquez Alvarado,82220,Allen University,Patrick Brophy,78688,The Citadel
+2024,11/01,Montreat College - The Citadel Dual,197,W,TF5,19 - 4 4:32,Milosz Gargol,82133,Montreat College,Patrick Brophy,78688,The Citadel
+2024,01/27,Appalachian Open,197,L,FALL,7:00,Khalil Belk,71332,Greensboro,Mason Ayers,84451,The Citadel
+2024,01/27,Appalachian Open,197,L,TF5,16 - 0 4:01,Edison Flores,84943,Gardner-Webb,Mason Ayers,84451,The Citadel
+2024,11/12,Georgia Open,197,L,TF5,21 - 4 7:00,Eric Karas,88164,Life University,Mason Ayers,84451,The Citadel
+2024,11/12,Georgia Open,197,L,TF5,17 - 2 7:00,Bryan Canedo,75945,Life University,Mason Ayers,84451,The Citadel
+2024,11/12,Georgia Open,197,W,FALL,3:48,Emmanuel Deas,83391,Coker,Mason Ayers,84451,The Citadel
+2024,11/05,Battle at The Citadel,197,L,FALL,0:53,Gabe Sollars,77269,Indiana,Mason Ayers,84451,The Citadel
+2024,11/05,Battle at The Citadel,197,L,MD,14 - 2,Liam Volk-Klos,78524,American,Mason Ayers,84451,The Citadel
+2024,03/09,SoCon Championships,285,L,MD,11 - 3,Jacob Sartorio,65393,Appalachian State,Ben Stemmet,65010,The Citadel
+2024,03/09,SoCon Championships,285,W,DEC,5 - 1,Kaleb Snodgrass,64676,Chattanooga,Ben Stemmet,65010,The Citadel
+2024,03/09,SoCon Championships,285,W,SV-1,4 - 1,Jake Fernicola,62822,Davidson,Ben Stemmet,65010,The Citadel
+2024,03/09,SoCon Championships,285,W,DEC,9 - 5,Tyler Mousaw,67432,VMI,Ben Stemmet,65010,The Citadel
+2024,02/25,Wildcat Open,285,W,FALL,4:32,Alberto Hernandez,80211,North Carolina,Ben Stemmet,65010,The Citadel
+2024,02/25,Wildcat Open,285,W,DEC,2 - 0,John Domencic,87077,Mount Olive,Ben Stemmet,65010,The Citadel
+2024,02/25,Wildcat Open,285,L,DEC,7 - 2,Chase Horne,72952,NC State,Ben Stemmet,65010,The Citadel
+2024,02/25,Wildcat Open,285,W,DEC,4 - 2,Ethan Vergara,82713,Chattanooga,Ben Stemmet,65010,The Citadel
+2024,02/22,Presbyterian - The Citadel Dual,285,W,FALL,2:25,Morvens Saint Jean,78606,Presbyterian,Ben Stemmet,65010,The Citadel
+2024,02/16,The Citadel - Gardner-Webb Dual,285,W,DEC,6 - 3,Peyton McComas,71831,Gardner-Webb,Ben Stemmet,65010,The Citadel
+2024,02/11,Davidson - The Citadel Dual,285,W,FALL,2:58,Jake Fernicola,62822,Davidson,Ben Stemmet,65010,The Citadel
+2024,02/09,The Citadel - Campbell Dual,285,L,TF5,17 - 2 2:53,Taye Ghadiali,62500,Campbell,Ben Stemmet,65010,The Citadel
+2024,02/04,Bellarmine - The Citadel Dual,285,W,DEC,5 - 2,Thadd Huff,79335,Bellarmine,Ben Stemmet,65010,The Citadel
+2024,02/01,The Citadel - Chattanooga Dual,285,W,SV-1,4 - 1,Kaleb Snodgrass,64676,Chattanooga,Ben Stemmet,65010,The Citadel
+2024,01/28,VMI - The Citadel Dual,285,W,FALL,0:53,Tyler Mousaw,67432,VMI,Ben Stemmet,65010,The Citadel
+2024,01/21,The Citadel - Appalachian State Dual,285,L,MD,14 - 5,Jacob Sartorio,65393,Appalachian State,Ben Stemmet,65010,The Citadel
+2024,01/12,Cleveland State - The Citadel Dual,285,L,DEC,2 - 0,Daniel Bucknavich,62488,Cleveland State,Ben Stemmet,65010,The Citadel
+2024,01/12,Brown - The Citadel Dual,285,W,DEC,8 - 2,Alex Semenenko,79210,Brown,Ben Stemmet,65010,The Citadel
+2024,12/19,The Citadel - Duke Dual,285,L,DEC,7 - 2,Connor Barket,78767,Duke,Ben Stemmet,65010,The Citadel
+2024,12/19,The Citadel - Queens Dual,285,W,FALL,2:41,Jamikael Lytle,79829,Queens,Ben Stemmet,65010,The Citadel
+2024,12/01,Cliff Keen Invitational,285,L,FALL,0:57,Kevin Zimmer,72685,Wyoming,Ben Stemmet,65010,The Citadel
+2024,12/01,Cliff Keen Invitational,285,L,TF5,17 - 2 4:02,Nick Feldman,64017,Ohio State,Ben Stemmet,65010,The Citadel
+2024,11/18,Navy Classic,285,W,SV-1,4 - 1,Matthew Moore,84340,Nebraska,Ben Stemmet,65010,The Citadel
+2024,11/18,Navy Classic,285,W,MD,8 - 0,Corey Boerio,79396,Kent State,Ben Stemmet,65010,The Citadel
+2024,11/18,Navy Classic,285,W,FALL,0:54,Harley Andrews,72965,Nebraska,Ben Stemmet,65010,The Citadel
+2024,11/18,Navy Classic,285,L,MD,13 - 0,William Jarrell,62907,American,Ben Stemmet,65010,The Citadel
+2024,11/18,Navy Classic,285,L,TB-1,7 - 4,Matthew Cover,57523,Princeton,Ben Stemmet,65010,The Citadel
+2024,11/11,Williams College - The Citadel Dual,285,W,FALL,1:15,Tommy Goodwin,77172,Williams College,Ben Stemmet,65010,The Citadel
+2024,11/05,Battle at The Citadel,285,W,TF5,22 - 6 4:50,Donovan Sprouse,78363,George Mason,Ben Stemmet,65010,The Citadel
+2024,11/05,Battle at The Citadel,285,L,DEC,8 - 2,Chad Nix,64674,George Mason,Ben Stemmet,65010,The Citadel
+2024,11/05,Battle at The Citadel,285,L,SV-1,4 - 1,Santino Morina,62654,Drexel,Ben Stemmet,65010,The Citadel
+2024,11/05,Battle at The Citadel,285,W,DEC,4 - 2,James Bankston,84260,Appalachian State,Ben Stemmet,65010,The Citadel
+2024,11/01,Allen University - The Citadel Dual,285,W,FALL,2:20,Chandler Allen,85380,Allen University,Ben Stemmet,65010,The Citadel
+2024,11/18,Navy Classic,285,L,DEC,11 - 7,Jamier Ferere,78581,Navy,Jonathan Chesser,73052,The Citadel
+2024,11/18,Navy Classic,285,W,SV-1,9 - 6,Jordan Greer,62652,Ohio,Jonathan Chesser,73052,The Citadel
+2024,11/11,Clarion - The Citadel Dual,285,W,MD,12 - 4,John Meyers,69618,Clarion,Jonathan Chesser,73052,The Citadel
+2024,11/11,The Citadel - George Mason Dual,285,L,DEC,10 - 3,Chad Nix,64674,George Mason,Jonathan Chesser,73052,The Citadel
+2024,11/05,Battle at The Citadel,285,W,TF5,18 - 2 6:20,Colin Pederson,84696,George Mason,Jonathan Chesser,73052,The Citadel
+2024,11/05,Battle at The Citadel,285,L,DEC,10 - 6,Chad Nix,64674,George Mason,Jonathan Chesser,73052,The Citadel
+2024,11/05,Battle at The Citadel,285,W,TF5,18 - 2 6:33,Dom Petracci,79380,Drexel,Jonathan Chesser,73052,The Citadel
+2024,11/05,Battle at The Citadel,285,W,DEC,12 - 6,William Jarrell,62907,American,Jonathan Chesser,73052,The Citadel
+2024,11/01,Montreat College - The Citadel Dual,285,W,FALL,1:44,Lucian Thomas,85399,Montreat College,Jonathan Chesser,73052,The Citadel
+2024,01/27,Appalachian Open,197,L,FALL,6:03,Kendrick Curtis,84392,Chattanooga,Jet Galbreath,84837,The Citadel
+2024,01/27,Appalachian Open,197,L,TF5,15 - 0 2:36,Gunnar Pool,82480,Appalachian State,Jet Galbreath,84837,The Citadel
+2024,11/05,Battle at The Citadel,285,L,FALL,2:33,Santino Morina,62654,Drexel,Jet Galbreath,84837,The Citadel
+2024,11/05,Battle at The Citadel,285,L,FALL,2:08,Emmanuel Ulrich,79388,American,Jet Galbreath,84837,The Citadel

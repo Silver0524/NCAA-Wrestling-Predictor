@@ -1,0 +1,484 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2019,03/08,EIWA Championships,125,W,TB-2,8 - 1,Jacob Allen,50935,Navy,Trey Keeley,44696,Brown
+2019,03/08,EIWA Championships,125,L,TB-2,8 - 7,Jakob Campbell,49060,Bucknell,Trey Keeley,44696,Brown
+2019,03/08,EIWA Championships,125,L,MD,10 - 2,Gage Curry,44583,American,Trey Keeley,44696,Brown
+2019,02/23,Sacred Heart - Brown Dual,125,W,FALL,2:29,Ryan Burns,45113,Sacred Heart,Trey Keeley,44696,Brown
+2019,02/21,Brown - Harvard Dual,125,W,MD,14 - 6,Connor Sakmar,45144,Harvard,Trey Keeley,44696,Brown
+2019,02/16,Columbia - Brown Dual,125,W,DEC,8 - 6,Joe Manchio,50937,Columbia,Trey Keeley,44696,Brown
+2019,02/16,Hofstra - Brown Dual,125,W,DEC,7 - 6,Dylan Ryder,50876,Hofstra,Trey Keeley,44696,Brown
+2019,02/02,Brown - Princeton Dual,125,L,MD,15 - 2,Patrick Glory,51100,Princeton,Trey Keeley,44696,Brown
+2019,02/02,Brown - Pennsylvania Dual,125,L,MD,8 - 0,Carmen Ferrante,50660,Pennsylvania,Trey Keeley,44696,Brown
+2019,01/26,Binghamton - Brown Dual,125,W,DEC,4 - 3,Steven Bulzomi,40242,Binghamton,Trey Keeley,44696,Brown
+2019,01/26,Cornell - Brown Dual,125,L,MD,16 - 3,Vitali Arujau,49108,Cornell,Trey Keeley,44696,Brown
+2019,01/19,Bucknell - Brown Dual,125,L,DEC,2 - 0,Jakob Campbell,49060,Bucknell,Trey Keeley,44696,Brown
+2019,01/19,Franklin & Marshall - Brown Dual,125,W,DEC,8 - 5,Jose Diaz,57229,Franklin & Marshall,Trey Keeley,44696,Brown
+2019,01/17,Army - Brown Dual,125,L,DEC,4 - 1,Trey Chalifoux,44745,Army West Point,Trey Keeley,44696,Brown
+2019,01/12,Brown - Duke Dual,125,W,DEC,10 - 5,Harrison Campbell,49125,Duke,Trey Keeley,44696,Brown
+2019,01/12,Brown - North Carolina State Dual,125,W,DEC,8 - 4,Zurich Storm,50138,NC State,Trey Keeley,44696,Brown
+2019,01/11,Brown - Davidson Dual,125,W,DEC,6 - 2,Zamir Ode,40334,Davidson,Trey Keeley,44696,Brown
+2019,12/29,Midlands Championships,125,L,DEC,4 - 1,Jay Albis,57124,Johnson & Wales,Trey Keeley,44696,Brown
+2019,12/29,Midlands Championships,125,L,DEC,6 - 0,Kyle Biscoglia,51109,Northern Iowa,Trey Keeley,44696,Brown
+2019,12/29,Midlands Championships,125,W,DEC,4 - 0,Jeremy Trihn,50849,Fresno State,Trey Keeley,44696,Brown
+2019,11/30,Cliff Keen Invitational,125,L,DEC,13 - 7,Tyshawn White,45934,Clarion,Trey Keeley,44696,Brown
+2019,11/30,Cliff Keen Invitational,125,L,DEC,2 - 0,Drew Hildebrandt,44818,Central Michigan,Trey Keeley,44696,Brown
+2019,11/30,Cliff Keen Invitational,125,W,DEC,15 - 9,Cole Verner,41722,Wyoming,Trey Keeley,44696,Brown
+2019,11/30,Cliff Keen Invitational,125,W,MFOR,0 - 0,Christian Moody,39746,Oklahoma,Trey Keeley,44696,Brown
+2019,11/17,Navy Classic,125,W,TF5,17 - 2 4:49,Nick DeRosa,58156,Delaware Valley,Trey Keeley,44696,Brown
+2019,11/17,Navy Classic,125,W,DEC,9 - 4,Jake Ferri,51179,Kent State,Trey Keeley,44696,Brown
+2019,11/17,Navy Classic,125,L,FALL,6:57,Shakur Laney,39917,Ohio,Trey Keeley,44696,Brown
+2019,11/17,Navy Classic,125,L,DEC,11 - 7,Elijah Oliver,39583,Indiana,Trey Keeley,44696,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,125,W,FALL,0:38,Matia Rivera,58945,Unattached,Trey Keeley,44696,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,125,W,TF5,17 - 1 7:00,Reese Fry,56796,Brown,Trey Keeley,44696,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,125,W,MD,15 - 5,Aslan Kilic,45565,Navy,Trey Keeley,44696,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,125,W,MFOR,0 - 0,Nolan Hellickson,39558,Harvard,Trey Keeley,44696,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,125,L,DEC,8 - 5,Steven Bulzomi,40242,Binghamton,Trey Keeley,44696,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,125,L,DEC,5 - 4,Steven Bulzomi,40242,Binghamton,Trey Keeley,44696,Brown
+2019,02/16,Hofstra - Brown Dual,133,L,DEC,9 - 4,Jacob Martin,42329,Hofstra,Reese Fry,56796,Brown
+2019,02/02,Brown - Pennsylvania Dual,133,L,MD,12 - 4,Doug Zapf,50656,Pennsylvania,Reese Fry,56796,Brown
+2019,01/27,JWU Wildcat Open,125,W,FALL,0:41,Lucas Purpora,61273,Bridgewater State,Reese Fry,56796,Brown
+2019,01/27,JWU Wildcat Open,125,W,FALL,3:50,Robert Hartling,60024,Springfield,Reese Fry,56796,Brown
+2019,01/27,JWU Wildcat Open,125,W,DEC,5 - 1,Kyle Randall,56471,Sacred Heart,Reese Fry,56796,Brown
+2019,01/26,Cornell - Brown Dual,133,L,TF5,20 - 5 7:00,Chaz Tucker,39771,Cornell,Reese Fry,56796,Brown
+2019,01/19,Bucknell - Brown Dual,133,L,DEC,9 - 6,David Campbell,49061,Bucknell,Reese Fry,56796,Brown
+2019,01/19,Franklin & Marshall - Brown Dual,133,W,MD,13 - 4,Mike Simonetti,51025,Franklin & Marshall,Reese Fry,56796,Brown
+2019,01/17,Army - Brown Dual,133,L,TF5,16 - 0 7:00,Lane Peters,45639,Army West Point,Reese Fry,56796,Brown
+2019,01/12,Brown - North Carolina State Dual,133,L,TF5,17 - 2 5:14,Sean Fausz,20126,NC State,Reese Fry,56796,Brown
+2019,01/05,Franklin & Marshall Open,125,L,MD,13 - 0,King Sandoval,57116,Maryland,Reese Fry,56796,Brown
+2019,01/05,Franklin & Marshall Open,125,W,DEC,10 - 5,Paxton Rosen,49072,Campbell,Reese Fry,56796,Brown
+2019,01/05,Franklin & Marshall Open,125,L,TF5,18 - 2 7:00,Tommy Cox,44623,NC State,Reese Fry,56796,Brown
+2019,12/09,Patriots Open,125,W,FALL,4:02,Matthew Templeton,56397,Hofstra,Reese Fry,56796,Brown
+2019,12/09,Patriots Open,125,W,DEC,5 - 3,Blair Orr,55804,Pennsylvania,Reese Fry,56796,Brown
+2019,12/09,Patriots Open,125,L,DEC,9 - 2,Richie Koehler,51648,Rider,Reese Fry,56796,Brown
+2019,12/09,Patriots Open,125,W,MD,17 - 5,Talha Farooq,45317,George Mason,Reese Fry,56796,Brown
+2019,12/09,Patriots Open,125,L,DEC,7 - 0,Gage Curry,44583,American,Reese Fry,56796,Brown
+2019,11/17,Navy Classic,125,W,MD,13 - 3,Lucas Rodriguez,51061,Edinboro,Reese Fry,56796,Brown
+2019,11/17,Navy Classic,125,L,MD,16 - 5,Liam Cronin,45061,Indiana,Reese Fry,56796,Brown
+2019,11/17,Navy Classic,125,L,MD,9 - 1,Sidney Flores,49031,Air Force,Reese Fry,56796,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,125,L,TF5,17 - 1 7:00,Trey Keeley,44696,Brown,Reese Fry,56796,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,125,W,MD,13 - 3,Talha Farooq,45317,George Mason,Reese Fry,56796,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,125,L,TF5,19 - 1 7:00,Nolan Hellickson,39558,Harvard,Reese Fry,56796,Brown
+2019,03/08,EIWA Championships,133,W,DEC,3 - 2,Matthew Kazimir,51644,Columbia,Hunter Kosco,49058,Brown
+2019,03/08,EIWA Championships,133,W,FALL,3:48,Alex Salas,49662,Drexel,Hunter Kosco,49058,Brown
+2019,03/08,EIWA Championships,133,L,DEC,8 - 5,Casey Cobb,45566,Navy,Hunter Kosco,49058,Brown
+2019,03/08,EIWA Championships,133,L,DEC,4 - 3,Casey Cobb,45566,Navy,Hunter Kosco,49058,Brown
+2019,03/08,EIWA Championships,133,L,DEC,9 - 4,Zack Trampe,51913,Binghamton,Hunter Kosco,49058,Brown
+2019,02/23,Sacred Heart - Brown Dual,133,W,TF5,16 - 0 7:00,William Bianchi,56006,Sacred Heart,Hunter Kosco,49058,Brown
+2019,02/21,Brown - Harvard Dual,141,L,DEC,7 - 5,Ryan Friedman,39557,Harvard,Hunter Kosco,49058,Brown
+2019,01/26,Binghamton - Brown Dual,133,L,DEC,6 - 2,Zack Trampe,51913,Binghamton,Hunter Kosco,49058,Brown
+2019,12/29,Midlands Championships,133,W,INJ,7:00,Nathan Tomasello,60610,Titan Mercury Wrestling Club,Hunter Kosco,49058,Brown
+2019,12/29,Midlands Championships,133,W,DEC,9 - 7,Killian Cardinale,49268,Old Dominion,Hunter Kosco,49058,Brown
+2019,12/29,Midlands Championships,133,W,DEC,13 - 8,Tristin DeVincenzo,39730,Pennsylvania,Hunter Kosco,49058,Brown
+2019,12/29,Midlands Championships,133,L,DEC,4 - 0,Paul Glynn,39535,Iowa,Hunter Kosco,49058,Brown
+2019,12/29,Midlands Championships,133,L,DEC,9 - 6,Jens Lantz,20484,Wisconsin,Hunter Kosco,49058,Brown
+2019,11/30,Cliff Keen Invitational,133,L,DEC,4 - 3,Brian Courtney,49331,Virginia,Hunter Kosco,49058,Brown
+2019,11/30,Cliff Keen Invitational,133,L,FALL,1:49,John Erneste,20058,Missouri,Hunter Kosco,49058,Brown
+2019,11/17,Navy Classic,133,L,DEC,12 - 5,Mel Ortiz,56954,George Mason,Hunter Kosco,49058,Brown
+2019,11/17,Navy Classic,133,W,DEC,4 - 3,Kordell Rush,46501,Delaware Valley,Hunter Kosco,49058,Brown
+2019,11/17,Navy Classic,133,L,DEC,3 - 2,Casey Cobb,45566,Navy,Hunter Kosco,49058,Brown
+2019,11/17,Navy Classic,133,W,MD,13 - 3,Daniel Kidd,50026,American,Hunter Kosco,49058,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,133,L,FALL,5:59,Ramazan Attasauov,58943,Wyoming Seminary Prep,Hunter Kosco,49058,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,133,W,TF5,20 - 3 7:00,Jacob Zuller,51914,LIU,Hunter Kosco,49058,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,133,W,TF5,15 - 0 7:00,Enrique Sanchez,58940,Spartan Combat RTC,Hunter Kosco,49058,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,133,W,DEC,7 - 6,Mel Ortiz,56954,George Mason,Hunter Kosco,49058,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,133,L,DEC,11 - 5,Vitali Arujau,49108,Cornell,Hunter Kosco,49058,Brown
+2019,02/21,Brown - Harvard Dual,133,L,DEC,10 - 4,Lukus Stricker,49139,Harvard,Charles Faber,49054,Brown
+2019,02/16,Columbia - Brown Dual,133,L,FALL,6:05,Matthew Kazimir,51644,Columbia,Charles Faber,49054,Brown
+2019,02/02,Brown - Princeton Dual,133,L,DEC,5 - 4,Jonathan Gomez,49300,Princeton,Charles Faber,49054,Brown
+2019,01/11,Brown - Davidson Dual,133,L,DEC,8 - 2,Kyle Gorant,51686,Davidson,Charles Faber,49054,Brown
+2019,01/05,Franklin & Marshall Open,133,W,DEC,6 - 4,Kyle Gorant,51686,Davidson,Charles Faber,49054,Brown
+2019,01/05,Franklin & Marshall Open,133,L,MD,8 - 0,Cole Manley,49337,Lock Haven,Charles Faber,49054,Brown
+2019,01/05,Franklin & Marshall Open,133,L,MD,11 - 2,Sam Book,49332,Virginia,Charles Faber,49054,Brown
+2019,03/08,EIWA Championships,141,L,MD,15 - 3,Wil Gil,51024,Franklin & Marshall,Theo Powers,44793,Brown
+2019,03/08,EIWA Championships,141,L,DEC,4 - 0,Ryan Friedman,39557,Harvard,Theo Powers,44793,Brown
+2019,02/23,Sacred Heart - Brown Dual,141,W,DEC,12 - 7,Gerard Daly,40044,Sacred Heart,Theo Powers,44793,Brown
+2019,02/16,Columbia - Brown Dual,141,W,DEC,9 - 3,Danny Fongaro,51713,Columbia,Theo Powers,44793,Brown
+2019,02/02,Brown - Princeton Dual,141,L,DEC,7 - 1,Marshall Keller,51509,Princeton,Theo Powers,44793,Brown
+2019,01/27,JWU Wildcat Open,141,W,DEC,8 - 2,Andy Lombard,61272,Roger Williams,Theo Powers,44793,Brown
+2019,01/27,JWU Wildcat Open,141,W,DEC,3 - 2,Mike Vietri,58831,Springfield,Theo Powers,44793,Brown
+2019,01/27,JWU Wildcat Open,141,W,DEC,6 - 3,Craig Sampson,57859,Johnson & Wales,Theo Powers,44793,Brown
+2019,01/27,JWU Wildcat Open,141,L,DEC,4 - 2,Joseph Calderone,23481,LIU,Theo Powers,44793,Brown
+2019,01/05,Franklin & Marshall Open,141,L,TF5,18 - 3 7:00,Caleb Rea,56445,West Virginia,Theo Powers,44793,Brown
+2019,01/05,Franklin & Marshall Open,141,W,DEC,5 - 2,Dawson Bates,50914,Appalachian State,Theo Powers,44793,Brown
+2019,01/05,Franklin & Marshall Open,141,W,FALL,1:12,Calvin Call,45796,Sacred Heart,Theo Powers,44793,Brown
+2019,01/05,Franklin & Marshall Open,141,L,DEC,15 - 8,Dom Latona,45115,Virginia Tech,Theo Powers,44793,Brown
+2019,02/02,Brown - Pennsylvania Dual,141,L,MD,14 - 5,Grant Aronoff,50891,Pennsylvania,Colin Realbuto,56797,Brown
+2019,01/26,Binghamton - Brown Dual,141,L,TF5,22 - 7 5:42,Anthony Sparacio,47621,Binghamton,Colin Realbuto,56797,Brown
+2019,01/26,Cornell - Brown Dual,141,L,TF5,22 - 4 7:00,Yianni Diakomihalis,49110,Cornell,Colin Realbuto,56797,Brown
+2019,01/19,Bucknell - Brown Dual,141,L,FALL,6:54,Joey Gould,45221,Bucknell,Colin Realbuto,56797,Brown
+2019,01/19,Franklin & Marshall - Brown Dual,141,W,DEC,6 - 2,Patrick Quinlan,20543,Franklin & Marshall,Colin Realbuto,56797,Brown
+2019,01/17,Army - Brown Dual,141,L,MD,14 - 2,Corey Shie,51266,Army West Point,Colin Realbuto,56797,Brown
+2019,01/12,Brown - Duke Dual,141,L,DEC,4 - 2,Josh Finesilver,46112,Duke,Colin Realbuto,56797,Brown
+2019,01/12,Brown - North Carolina State Dual,141,L,TF5,16 - 0 2:46,Jamel Morris,43775,NC State,Colin Realbuto,56797,Brown
+2019,01/11,Brown - Davidson Dual,141,W,DEC,1 - 0,Caleb Ziebell,51121,Davidson,Colin Realbuto,56797,Brown
+2019,01/05,Franklin & Marshall Open,141,W,MD,10 - 2,Alex Urquiza,56828,NC State,Colin Realbuto,56797,Brown
+2019,01/05,Franklin & Marshall Open,141,W,DEC,11 - 8,Josh Breeding,50616,Princeton,Colin Realbuto,56797,Brown
+2019,01/05,Franklin & Marshall Open,141,L,FALL,1:44,Scott Kiyono,50458,Virginia,Colin Realbuto,56797,Brown
+2019,01/05,Franklin & Marshall Open,141,W,DEC,5 - 2,Danny Bertoni,49173,Maryland,Colin Realbuto,56797,Brown
+2019,01/05,Franklin & Marshall Open,141,W,DEC,6 - 3,Chris Crane,46234,Kutztown,Colin Realbuto,56797,Brown
+2019,01/05,Franklin & Marshall Open,141,L,DEC,9 - 5,Michael Doetsch,44919,Maryland,Colin Realbuto,56797,Brown
+2019,12/29,Midlands Championships,141,L,DEC,9 - 6,Wil Gil,51024,Franklin & Marshall,Colin Realbuto,56797,Brown
+2019,12/29,Midlands Championships,141,L,DEC,7 - 4,Yahya Thomas,49245,Northwestern,Colin Realbuto,56797,Brown
+2019,11/30,Cliff Keen Invitational,141,W,DEC,7 - 4,Trevor Tarsi,49140,Harvard,Colin Realbuto,56797,Brown
+2019,11/30,Cliff Keen Invitational,141,L,DEC,8 - 3,Mike Carr,44645,Illinois,Colin Realbuto,56797,Brown
+2019,11/30,Cliff Keen Invitational,141,L,MD,12 - 2,Nate Limmex,39663,Purdue,Colin Realbuto,56797,Brown
+2019,11/17,Navy Classic,141,L,MD,9 - 1,Grant Willits,49273,Oregon State,Colin Realbuto,56797,Brown
+2019,11/17,Navy Classic,141,L,FALL,1:47,Connor Noonan,45400,Oregon State,Colin Realbuto,56797,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,141,W,DEC,14 - 7,Bobby Groves,56816,Harvard,Colin Realbuto,56797,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,141,L,DEC,3 - 2,Michael Venosa,52043,Cornell,Colin Realbuto,56797,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,141,W,DEC,8 - 7,Trevor Tarsi,49140,Harvard,Colin Realbuto,56797,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,141,W,DEC,8 - 5,Pat D'arcy,43692,NJRTC,Colin Realbuto,56797,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,141,L,DEC,7 - 3,Nicholas Gil,40255,Navy,Colin Realbuto,56797,Brown
+2019,01/27,JWU Wildcat Open,141,W,MD,12 - 3,Andy Lombard,61272,Roger Williams,Ryan O'Grady,51131,Brown
+2019,01/27,JWU Wildcat Open,141,W,FALL,0:56,Andrew Valdina,54778,Bridgewater State,Ryan O'Grady,51131,Brown
+2019,01/27,JWU Wildcat Open,141,L,FALL,2:55,Logan Brown,53821,United States Military Academy,Ryan O'Grady,51131,Brown
+2019,01/27,JWU Wildcat Open,141,L,DEC,3 - 2,Logan Brown,53821,United States Military Academy,Ryan O'Grady,51131,Brown
+2019,01/27,JWU Wildcat Open,141,W,FALL,1:55,Donny Albach,50545,NYU,Ryan O'Grady,51131,Brown
+2019,01/27,JWU Wildcat Open,141,W,MD,18 - 5,Watna Cunha,41429,Johnson & Wales,Ryan O'Grady,51131,Brown
+2019,11/17,Navy Classic,141,W,TF5,18 - 3 3:37,PJ Gohn,51063,Edinboro,Ryan O'Grady,51131,Brown
+2019,11/17,Navy Classic,141,L,DEC,13 - 10,Sa'Derian Perry,40084,Old Dominion,Ryan O'Grady,51131,Brown
+2019,11/17,Navy Classic,141,L,SV-1,10 - 9,Garrett O'Shea,44711,Air Force,Ryan O'Grady,51131,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,141,L,DEC,3 - 0,JoJo Aragona,56736,Unattached,Ryan O'Grady,51131,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,141,L,DEC,6 - 2,Michael Venosa,52043,Cornell,Ryan O'Grady,51131,Brown
+2019,01/05,Franklin & Marshall Open,141,W,MD,18 - 6,Haroldo Nesbeth,50165,Franklin & Marshall,Jimmy Pawelski,44653,Brown
+2019,01/05,Franklin & Marshall Open,141,L,DEC,5 - 3,Danny Bertoni,49173,Maryland,Jimmy Pawelski,44653,Brown
+2019,01/05,Franklin & Marshall Open,141,L,DEC,9 - 5,Michael Doetsch,44919,Maryland,Jimmy Pawelski,44653,Brown
+2019,12/29,Midlands Championships,141,L,FALL,2:56,Max Murin,49148,Iowa,Jimmy Pawelski,44653,Brown
+2019,12/29,Midlands Championships,141,W,DEC,8 - 6,Trevor Tarsi,49140,Harvard,Jimmy Pawelski,44653,Brown
+2019,12/29,Midlands Championships,141,W,DEC,4 - 1,Connor Noonan,45400,Oregon State,Jimmy Pawelski,44653,Brown
+2019,12/29,Midlands Championships,141,L,DEC,8 - 2,Cory Crooks,45179,Arizona State,Jimmy Pawelski,44653,Brown
+2019,12/09,Patriots Open,141,W,DEC,6 - 0,Anthony Sountis,55915,Maryland,Jimmy Pawelski,44653,Brown
+2019,12/09,Patriots Open,141,L,DEC,8 - 5,Imran Heard,51595,Lock Haven,Jimmy Pawelski,44653,Brown
+2019,12/09,Patriots Open,141,L,DEC,7 - 3,Danny Bertoni,49173,Maryland,Jimmy Pawelski,44653,Brown
+2019,12/09,Patriots Open,141,W,DEC,10 - 5,Connor Mauriello,43876,Johns Hopkins,Jimmy Pawelski,44653,Brown
+2019,03/08,EIWA Championships,149,L,DEC,5 - 0,Jared Prince,41363,Navy,Zachary Krause,44980,Brown
+2019,03/08,EIWA Championships,149,L,DEC,6 - 0,Michael Sprague,19618,American,Zachary Krause,44980,Brown
+2019,02/23,Sacred Heart - Brown Dual,149,W,TF5,16 - 0 7:00,Chris Cornell,39731,Sacred Heart,Zachary Krause,44980,Brown
+2019,02/02,Brown - Princeton Dual,149,L,MD,18 - 4,Matt Kolodzik,45071,Princeton,Zachary Krause,44980,Brown
+2019,02/02,Brown - Pennsylvania Dual,149,L,DEC,8 - 4,Anthony Artalona,51039,Pennsylvania,Zachary Krause,44980,Brown
+2019,11/30,Cliff Keen Invitational,149,W,TF5,15 - 0 6:20,Ethan Wendell,60219,Highline Community College,Zachary Krause,44980,Brown
+2019,11/30,Cliff Keen Invitational,149,L,INJ,7:00,Daxton Gordon,44358,Cal Baptist,Zachary Krause,44980,Brown
+2019,11/30,Cliff Keen Invitational,149,L,DEC,9 - 5,Grant Leeth,19866,Missouri,Zachary Krause,44980,Brown
+2019,11/17,Navy Classic,149,W,MD,10 - 2,Chris Matzke,45369,Edinboro,Zachary Krause,44980,Brown
+2019,11/17,Navy Classic,149,L,FALL,1:47,Tejon Anthony,19896,George Mason,Zachary Krause,44980,Brown
+2019,11/17,Navy Classic,149,L,DEC,6 - 0,Michael Sprague,19618,American,Zachary Krause,44980,Brown
+2019,11/17,Navy Classic,149,W,DEC,5 - 3,Alec Opsal,44909,Air Force,Zachary Krause,44980,Brown
+2019,01/27,JWU Wildcat Open,149,L,DEC,6 - 0,Jack Bokina,56798,Brown,Samuel Lynch,51173,Brown
+2019,01/27,JWU Wildcat Open,149,W,TF5,19 - 4 7:00,Shaun Williams,51117,Sacred Heart,Samuel Lynch,51173,Brown
+2019,01/27,JWU Wildcat Open,149,W,DEC,4 - 3,PJ Crane,50599,US Naval Academy Prep School,Samuel Lynch,51173,Brown
+2019,01/27,JWU Wildcat Open,149,W,DEC,3 - 2,Marco Dominguez,50474,Coast Guard,Samuel Lynch,51173,Brown
+2019,01/26,Cornell - Brown Dual,149,L,FALL,7:00,Jonathan Furnas,39745,Cornell,Samuel Lynch,51173,Brown
+2019,01/19,Bucknell - Brown Dual,149,W,DEC,12 - 11,Matt Kolonia,49066,Bucknell,Samuel Lynch,51173,Brown
+2019,01/12,Brown - North Carolina State Dual,149,L,TF5,19 - 4 7:00,Justin Oliver,19758,NC State,Samuel Lynch,51173,Brown
+2019,01/05,Franklin & Marshall Open,149,L,DEC,14 - 8,Sam Emburgia,60669,Middlesex Community College,Samuel Lynch,51173,Brown
+2019,01/05,Franklin & Marshall Open,149,L,FALL,5:11,Imran Heard,51595,Lock Haven,Samuel Lynch,51173,Brown
+2019,01/05,Franklin & Marshall Open,149,W,TF5,20 - 3 7:00,Will Baldwin,50967,Davidson,Samuel Lynch,51173,Brown
+2019,01/05,Franklin & Marshall Open,149,W,FALL,6:22,Joey Blumer,49278,Penn State,Samuel Lynch,51173,Brown
+2019,12/09,Patriots Open,149,W,DEC,11 - 5,Jackson Wrobel,57154,West Virginia,Samuel Lynch,51173,Brown
+2019,12/09,Patriots Open,149,L,DEC,6 - 1,Justin Yorkdale,45347,George Mason,Samuel Lynch,51173,Brown
+2019,12/09,Patriots Open,149,L,FALL,2:48,Tejon Anthony,19896,George Mason,Samuel Lynch,51173,Brown
+2019,11/17,Navy Classic,141,L,DEC,6 - 2,Carmine Ciotti,48218,Edinboro,Samuel Lynch,51173,Brown
+2019,11/17,Navy Classic,141,L,FALL,4:27,Alex Hrisopoulos,45308,Michigan State,Samuel Lynch,51173,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,141,L,DEC,3 - 2,Michael Venosa,52043,Cornell,Samuel Lynch,51173,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,141,W,DEC,6 - 5,Trevor Tarsi,49140,Harvard,Samuel Lynch,51173,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,141,L,FALL,2:49,Brett Kulp,44906,Franklin & Marshall,Samuel Lynch,51173,Brown
+2019,02/21,Brown - Harvard Dual,149,L,DEC,5 - 2,Brock Wilson,49141,Harvard,Jack Bokina,56798,Brown
+2019,02/16,Columbia - Brown Dual,149,L,DEC,6 - 1,Cole Corrigan,57204,Columbia,Jack Bokina,56798,Brown
+2019,02/16,Hofstra - Brown Dual,149,L,DEC,11 - 4,Holden Heller,50940,Hofstra,Jack Bokina,56798,Brown
+2019,01/27,JWU Wildcat Open,149,W,FALL,5:26,Caden Mareno,58227,US Naval Academy Prep School,Jack Bokina,56798,Brown
+2019,01/27,JWU Wildcat Open,149,W,DEC,1 - 0,Jordan Robinson,53401,Johnson & Wales,Jack Bokina,56798,Brown
+2019,01/27,JWU Wildcat Open,149,W,DEC,6 - 0,Samuel Lynch,51173,Brown,Jack Bokina,56798,Brown
+2019,01/27,JWU Wildcat Open,149,W,MD,13 - 1,Calvin Call,45796,Sacred Heart,Jack Bokina,56798,Brown
+2019,01/26,Binghamton - Brown Dual,149,L,DEC,7 - 3,Frank Garcia,41394,Binghamton,Jack Bokina,56798,Brown
+2019,01/19,Franklin & Marshall - Brown Dual,149,L,DEC,9 - 8,Wil Gil,51024,Franklin & Marshall,Jack Bokina,56798,Brown
+2019,01/17,Army - Brown Dual,149,L,DEC,8 - 4,Noah Hanau,41273,Army West Point,Jack Bokina,56798,Brown
+2019,01/12,Brown - Duke Dual,149,L,TF5,19 - 4 6:12,Mitch Finesilver,19861,Duke,Jack Bokina,56798,Brown
+2019,01/11,Brown - Davidson Dual,149,W,MD,10 - 2,Aidan Conroy,39860,Davidson,Jack Bokina,56798,Brown
+2019,01/05,Franklin & Marshall Open,149,L,FALL,5:00,Chase Summer,57930,Pittsburgh,Jack Bokina,56798,Brown
+2019,01/05,Franklin & Marshall Open,149,W,MD,15 - 1,Douglas Mele,24229,Millersville,Jack Bokina,56798,Brown
+2019,01/05,Franklin & Marshall Open,149,L,DEC,10 - 8,Ryan Blees,20267,Virginia Tech,Jack Bokina,56798,Brown
+2019,12/09,Patriots Open,157,L,TF5,21 - 6 6:42,Kolby Ho,55945,George Mason,Jack Bokina,56798,Brown
+2019,12/09,Patriots Open,157,W,DEC,9 - 4,Riley Barth,40348,Pittsburgh,Jack Bokina,56798,Brown
+2019,12/09,Patriots Open,157,W,DEC,8 - 5,Joe Oliva,20318,Pennsylvania,Jack Bokina,56798,Brown
+2019,12/09,Patriots Open,157,W,MD,15 - 4,Elijah Murphy,45346,American,Jack Bokina,56798,Brown
+2019,12/09,Patriots Open,157,L,MD,10 - 2,Kizhan Clarke,44878,American,Jack Bokina,56798,Brown
+2019,11/17,Navy Classic,157,W,MD,8 - 0,Chase Archangelo,49104,Cleveland State,Jack Bokina,56798,Brown
+2019,11/17,Navy Classic,157,L,MD,14 - 6,Nick Vestal,44944,Ohio,Jack Bokina,56798,Brown
+2019,11/17,Navy Classic,157,L,TF5,19 - 2 4:53,Larry Early,39519,Old Dominion,Jack Bokina,56798,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,157,L,MD,13 - 2,Jack Stanton-Taddeo,44620,Navy,Jack Bokina,56798,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,157,L,TF5,16 - 0 7:00,Zach Elvin,43194,Navy,Jack Bokina,56798,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,157,W,INJ,7:00,Kyle Simaz,40378,Cornell,Jack Bokina,56798,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,157,W,DEC,8 - 2,Jack Fisher,58179,Army West Point,Jack Bokina,56798,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,157,W,FALL,4:24,Padraig Lupole,57276,Binghamton,Jack Bokina,56798,Brown
+2019,03/21,NCAA Championships,157,L,DEC,12 - 9,Zach Hartman,50586,Bucknell,Christian LaBrie,19701,Brown
+2019,03/21,NCAA Championships,157,W,MD,13 - 1,Alex Klucker,40289,Lock Haven,Christian LaBrie,19701,Brown
+2019,03/21,NCAA Championships,157,L,DEC,7 - 4,Ryan Deakin,44716,Northwestern,Christian LaBrie,19701,Brown
+2019,03/08,EIWA Championships,157,L,TF5,17 - 2 4:02,Quincy Monday,53967,Princeton,Christian LaBrie,19701,Brown
+2019,03/08,EIWA Championships,157,W,MFOR,0 - 0,Dan Reed,19818,Columbia,Christian LaBrie,19701,Brown
+2019,03/08,EIWA Championships,157,W,DEC,11 - 6,Dan Reed,19818,Columbia,Christian LaBrie,19701,Brown
+2019,03/08,EIWA Championships,157,W,DEC,7 - 2,Chris Barker,51233,Binghamton,Christian LaBrie,19701,Brown
+2019,03/08,EIWA Championships,157,L,SV-1,10 - 8,Luke Weiland,41243,Army West Point,Christian LaBrie,19701,Brown
+2019,03/08,EIWA Championships,157,W,DEC,10 - 7,Kizhan Clarke,44878,American,Christian LaBrie,19701,Brown
+2019,02/23,Sacred Heart - Brown Dual,157,W,DEC,9 - 2,TJ Calas,49309,Sacred Heart,Christian LaBrie,19701,Brown
+2019,02/21,Brown - Harvard Dual,157,W,TF5,16 - 0 2:55,Bobby Groves,56816,Harvard,Christian LaBrie,19701,Brown
+2019,02/16,Columbia - Brown Dual,157,L,DEC,3 - 2,Dan Reed,19818,Columbia,Christian LaBrie,19701,Brown
+2019,02/16,Hofstra - Brown Dual,157,W,DEC,5 - 1,Ryan Burkert,43280,Hofstra,Christian LaBrie,19701,Brown
+2019,02/02,Brown - Princeton Dual,157,L,DEC,10 - 4,Quincy Monday,53967,Princeton,Christian LaBrie,19701,Brown
+2019,02/02,Brown - Pennsylvania Dual,157,L,DEC,5 - 0,Joe Oliva,20318,Pennsylvania,Christian LaBrie,19701,Brown
+2019,01/26,Binghamton - Brown Dual,157,W,DEC,7 - 6,Chris Barker,51233,Binghamton,Christian LaBrie,19701,Brown
+2019,01/26,Cornell - Brown Dual,157,L,DEC,9 - 5,Adam Santoro,46089,Cornell,Christian LaBrie,19701,Brown
+2019,01/19,Bucknell - Brown Dual,157,L,DEC,7 - 2,Zach Hartman,50586,Bucknell,Christian LaBrie,19701,Brown
+2019,01/19,Franklin & Marshall - Brown Dual,157,L,DEC,9 - 3,Emmett LiCastri,45213,Franklin & Marshall,Christian LaBrie,19701,Brown
+2019,01/17,Army - Brown Dual,157,L,TF5,18 - 0 7:00,Luke Weiland,41243,Army West Point,Christian LaBrie,19701,Brown
+2019,01/12,Brown - Duke Dual,157,W,TF5,22 - 7 6:23,Brandon Leynaud,42790,Duke,Christian LaBrie,19701,Brown
+2019,01/12,Brown - North Carolina State Dual,157,L,MD,16 - 8,Hayden Hidlay,44595,NC State,Christian LaBrie,19701,Brown
+2019,01/11,Brown - Davidson Dual,157,W,DEC,2 - 1,Tony Palumbo,40330,Davidson,Christian LaBrie,19701,Brown
+2019,12/29,Midlands Championships,157,W,FALL,2:38,Jason Crary,53188,Chicago,Christian LaBrie,19701,Brown
+2019,12/29,Midlands Championships,157,L,DEC,15 - 10,Kendall Coleman,50626,Purdue,Christian LaBrie,19701,Brown
+2019,12/29,Midlands Championships,157,W,FALL,4:05,Aaron Kruk,44797,Harvard,Christian LaBrie,19701,Brown
+2019,12/29,Midlands Championships,157,L,MD,8 - 0,John Van Brill,20367,Rutgers,Christian LaBrie,19701,Brown
+2019,11/30,Cliff Keen Invitational,157,L,DEC,4 - 2,Dominick Mandarino,49324,Stanford,Christian LaBrie,19701,Brown
+2019,11/30,Cliff Keen Invitational,157,L,FALL,8:00,Eric Barone,39566,Illinois,Christian LaBrie,19701,Brown
+2019,11/30,Cliff Keen Invitational,157,W,MD,10 - 1,Kizhan Clarke,44878,American,Christian LaBrie,19701,Brown
+2019,11/17,Navy Classic,157,L,DEC,3 - 2,Nico Odor,45039,Cleveland State,Christian LaBrie,19701,Brown
+2019,11/17,Navy Classic,157,W,DEC,4 - 0,Matt Lattanze,44759,Brown,Christian LaBrie,19701,Brown
+2019,11/17,Navy Classic,157,L,DEC,8 - 4,Jacob Tucker,44639,Michigan State,Christian LaBrie,19701,Brown
+2019,11/17,Navy Classic,157,W,DEC,12 - 5,Trey Brisker,57545,Air Force,Christian LaBrie,19701,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,157,W,DEC,3 - 2,Micah Hoffman,58938,Spartan Combat RTC,Christian LaBrie,19701,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,157,L,DEC,3 - 1,Brian Meyer,50941,Lehigh,Christian LaBrie,19701,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,157,L,MD,12 - 3,Emmett LiCastri,45213,Franklin & Marshall,Christian LaBrie,19701,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,157,W,FALL,3:52,Nigel Ruiz,41222,Army West Point,Christian LaBrie,19701,Brown
+2019,01/05,Franklin & Marshall Open,157,L,TF5,18 - 3 7:00,Evan Barczak,49122,Drexel,Travis Vasquez,39776,Brown
+2019,01/05,Franklin & Marshall Open,157,L,FALL,1:44,Brian Friery,45073,Penn State,Travis Vasquez,39776,Brown
+2019,01/05,Franklin & Marshall Open,157,W,DEC,6 - 0,Tony Palumbo,40330,Davidson,Travis Vasquez,39776,Brown
+2019,01/05,Franklin & Marshall Open,157,L,INJ,7:00,Noah Chan,57227,Franklin & Marshall,Matt Lattanze,44759,Brown
+2019,01/05,Franklin & Marshall Open,157,L,MFOR,0 - 0,Chris Barker,51233,Binghamton,Matt Lattanze,44759,Brown
+2019,11/17,Navy Classic,157,L,DEC,4 - 0,Christian LaBrie,19701,Brown,Matt Lattanze,44759,Brown
+2019,11/17,Navy Classic,157,L,FALL,2:04,Zach Hartman,50586,Bucknell,Matt Lattanze,44759,Brown
+2019,11/17,Navy Classic,157,W,MD,12 - 4,Christian Bassolino,39775,Bucknell,Matt Lattanze,44759,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,157,L,FALL,1:22,Emmett LiCastri,45213,Franklin & Marshall,Matt Lattanze,44759,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,157,L,FALL,6:29,Zach Elvin,43194,Navy,Matt Lattanze,44759,Brown
+2019,03/21,NCAA Championships,165,L,DEC,3 - 1,Joe Smith,39786,Oklahoma State,Jonathan Viruet,39839,Brown
+2019,03/21,NCAA Championships,165,L,DEC,3 - 2,Thomas Bullard,44611,NC State,Jonathan Viruet,39839,Brown
+2019,03/08,EIWA Championships,165,W,DEC,7 - 4,Laurence Kosoy,45330,Columbia,Jonathan Viruet,39839,Brown
+2019,03/08,EIWA Championships,165,L,SV-1,9 - 7,Leonard Merkin,45014,Princeton,Jonathan Viruet,39839,Brown
+2019,03/08,EIWA Championships,165,L,INJ,7:00,Leonard Merkin,45014,Princeton,Jonathan Viruet,39839,Brown
+2019,03/08,EIWA Championships,165,L,DEC,6 - 5,Ebed Jarrell,40311,Drexel,Jonathan Viruet,39839,Brown
+2019,03/08,EIWA Championships,165,W,DEC,9 - 3,DJ Hollingshead,39672,Bucknell,Jonathan Viruet,39839,Brown
+2019,03/08,EIWA Championships,165,W,DEC,6 - 0,Tyler Tarsi,19922,Harvard,Jonathan Viruet,39839,Brown
+2019,02/23,Sacred Heart - Brown Dual,165,W,MD,16 - 4,Brandon Levesque,40048,Sacred Heart,Jonathan Viruet,39839,Brown
+2019,02/21,Brown - Harvard Dual,165,W,DEC,4 - 2,Tyler Tarsi,19922,Harvard,Jonathan Viruet,39839,Brown
+2019,02/16,Columbia - Brown Dual,165,W,DEC,6 - 1,Laurence Kosoy,45330,Columbia,Jonathan Viruet,39839,Brown
+2019,02/16,Hofstra - Brown Dual,165,W,FALL,1:54,Corey Langner,56917,Hofstra,Jonathan Viruet,39839,Brown
+2019,02/02,Brown - Princeton Dual,165,W,MD,11 - 3,Grant Cuomo,50892,Princeton,Jonathan Viruet,39839,Brown
+2019,02/02,Brown - Pennsylvania Dual,165,W,DEC,2 - 0,Evan DeLuise,52039,Pennsylvania,Jonathan Viruet,39839,Brown
+2019,01/26,Binghamton - Brown Dual,165,W,SV-1,3 - 1,Aidan Monteverdi,49048,Binghamton,Jonathan Viruet,39839,Brown
+2019,01/26,Cornell - Brown Dual,165,W,FALL,7:00,Andrew Berreyesa,49111,Cornell,Jonathan Viruet,39839,Brown
+2019,01/19,Bucknell - Brown Dual,165,W,MD,13 - 1,DJ Hollingshead,39672,Bucknell,Jonathan Viruet,39839,Brown
+2019,01/19,Franklin & Marshall - Brown Dual,165,W,FALL,0:57,Crew Fullerton,57225,Franklin & Marshall,Jonathan Viruet,39839,Brown
+2019,01/17,Army - Brown Dual,165,W,DEC,5 - 4,Cael McCormick,44622,Army West Point,Jonathan Viruet,39839,Brown
+2019,01/12,Brown - Duke Dual,165,W,DEC,8 - 2,Zach Finesilver,19862,Duke,Jonathan Viruet,39839,Brown
+2019,01/12,Brown - North Carolina State Dual,165,L,MD,17 - 5,Thomas Bullard,44611,NC State,Jonathan Viruet,39839,Brown
+2019,01/11,Brown - Davidson Dual,165,W,FALL,6:11,Hunter Costa,45247,Davidson,Jonathan Viruet,39839,Brown
+2019,12/29,Midlands Championships,165,W,DEC,8 - 3,Troy Keller,47129,Buffalo,Jonathan Viruet,39839,Brown
+2019,12/29,Midlands Championships,165,W,MD,8 - 0,Kenny Moore,46406,Northern Illinois,Jonathan Viruet,39839,Brown
+2019,12/29,Midlands Championships,165,W,MD,15 - 3,Blake Montrie,45047,Central Michigan,Jonathan Viruet,39839,Brown
+2019,12/29,Midlands Championships,165,L,SV-1,8 - 6,Alex Marinelli,44574,Iowa,Jonathan Viruet,39839,Brown
+2019,12/29,Midlands Championships,165,W,DEC,5 - 0,Caden McWhirter,40016,Northern Illinois,Jonathan Viruet,39839,Brown
+2019,12/29,Midlands Championships,165,W,DEC,3 - 0,Joey Gunther,39725,Illinois,Jonathan Viruet,39839,Brown
+2019,12/29,Midlands Championships,165,L,MD,14 - 2,Bryce Steiert,39504,Northern Iowa,Jonathan Viruet,39839,Brown
+2019,12/29,Midlands Championships,165,W,DEC,5 - 2,Logan Peterson,20374,South Dakota State,Jonathan Viruet,39839,Brown
+2019,11/30,Cliff Keen Invitational,165,L,DEC,6 - 4,Mekhi Lewis,49338,Virginia Tech,Jonathan Viruet,39839,Brown
+2019,11/30,Cliff Keen Invitational,165,W,MD,14 - 0,Tanner Skidgel,49200,Navy,Jonathan Viruet,39839,Brown
+2019,11/30,Cliff Keen Invitational,165,L,DEC,5 - 4,Josh McClure,44697,North Carolina,Jonathan Viruet,39839,Brown
+2019,11/17,Navy Classic,165,W,FALL,5:40,Jack Mulay,49063,Bucknell,Jonathan Viruet,39839,Brown
+2019,11/17,Navy Classic,165,W,TF5,15 - 0 3:15,Kade Byland,45313,Kent State,Jonathan Viruet,39839,Brown
+2019,11/17,Navy Classic,165,W,MD,10 - 2,Jonathan Carrera,40266,Navy,Jonathan Viruet,39839,Brown
+2019,11/17,Navy Classic,165,W,DEC,4 - 0,Colston DiBlasi,39718,George Mason,Jonathan Viruet,39839,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,165,W,TF5,17 - 0 7:00,Cornelius Schuster,55781,George Mason,Jonathan Viruet,39839,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,165,W,TB-1,6 - 4,Joshua Kim,51200,Harvard,Jonathan Viruet,39839,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,165,W,DEC,10 - 5,Jonathan Carrera,40266,Navy,Jonathan Viruet,39839,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,165,W,MD,11 - 0,Colston DiBlasi,39718,George Mason,Jonathan Viruet,39839,Brown
+2019,03/08,EIWA Championships,174,L,MD,11 - 3,Vincent DePrez,19651,Binghamton,AJ Pedro,49056,Brown
+2019,03/08,EIWA Championships,174,L,MFOR,0 - 0,Ben Harvey,40935,Army West Point,AJ Pedro,49056,Brown
+2019,03/08,EIWA Championships,174,W,DEC,15 - 11,Conner Allshouse,44877,American,AJ Pedro,49056,Brown
+2019,02/21,Brown - Harvard Dual,174,L,DEC,8 - 5,Joshua Kim,51200,Harvard,AJ Pedro,49056,Brown
+2019,02/16,Columbia - Brown Dual,174,L,FALL,2:57,Max Elling,39877,Columbia,AJ Pedro,49056,Brown
+2019,02/02,Brown - Princeton Dual,174,L,DEC,10 - 4,Travis Stefanik,49301,Princeton,AJ Pedro,49056,Brown
+2019,02/02,Brown - Pennsylvania Dual,174,W,DEC,7 - 1,Jake Hendricks,50657,Pennsylvania,AJ Pedro,49056,Brown
+2019,01/12,Brown - Duke Dual,174,L,MD,13 - 2,Matt Finesilver,47770,Duke,AJ Pedro,49056,Brown
+2019,01/12,Brown - North Carolina State Dual,174,L,DEC,5 - 2,Daniel Bullard,44612,NC State,AJ Pedro,49056,Brown
+2019,01/11,Brown - Davidson Dual,174,W,FALL,4:33,Noah Satterfield,44861,Davidson,AJ Pedro,49056,Brown
+2019,12/29,Midlands Championships,184,L,DEC,6 - 5,Christian LaFragola,40032,Brown,AJ Pedro,49056,Brown
+2019,12/29,Midlands Championships,184,W,MD,12 - 3,Robert Ng,39792,Pennsylvania,AJ Pedro,49056,Brown
+2019,12/29,Midlands Championships,184,L,DEC,5 - 0,Cash Wilcke,39502,Iowa,AJ Pedro,49056,Brown
+2019,12/09,Patriots Open,184,W,FALL,1:28,Bryan Martin,56433,Rider,AJ Pedro,49056,Brown
+2019,12/09,Patriots Open,184,W,MD,10 - 2,Paul Pierce,56165,George Mason,AJ Pedro,49056,Brown
+2019,12/09,Patriots Open,184,W,MD,14 - 3,Hunter DeLong,50972,West Virginia,AJ Pedro,49056,Brown
+2019,12/09,Patriots Open,184,W,MFOR,0 - 0,Jalen Laughlin,45266,Pennsylvania,AJ Pedro,49056,Brown
+2019,12/09,Patriots Open,184,W,MD,14 - 4,Jack Walsh,44951,Virginia,AJ Pedro,49056,Brown
+2019,12/09,Patriots Open,184,L,DEC,6 - 4,Billy Janzer,49473,Rutgers,AJ Pedro,49056,Brown
+2019,02/23,Sacred Heart - Brown Dual,174,L,DEC,7 - 4,Anthony Falbo,51716,Sacred Heart,Cade Wilson,56799,Brown
+2019,02/16,Hofstra - Brown Dual,174,L,DEC,12 - 5,Ricky Stamm,44699,Hofstra,Cade Wilson,56799,Brown
+2019,01/27,JWU Wildcat Open,174,W,MD,14 - 5,Gabriel Rodrigues,61845,NYU,Cade Wilson,56799,Brown
+2019,01/27,JWU Wildcat Open,174,W,DEC,6 - 3,Scott Dupont,61269,NYU,Cade Wilson,56799,Brown
+2019,01/27,JWU Wildcat Open,174,W,DEC,5 - 3,Sahm AbdulRazzaq,58214,United States Military Academy,Cade Wilson,56799,Brown
+2019,01/27,JWU Wildcat Open,174,W,FALL,6:30,Nick Caracappa,57874,Johnson & Wales,Cade Wilson,56799,Brown
+2019,01/27,JWU Wildcat Open,174,W,MFOR,0 - 0,Ryan DeVivo,57872,Johnson & Wales,Cade Wilson,56799,Brown
+2019,01/27,JWU Wildcat Open,174,L,DEC,8 - 4,Michael Gargano,49602,Johnson & Wales,Cade Wilson,56799,Brown
+2019,01/26,Binghamton - Brown Dual,174,L,MD,8 - 0,Vincent DePrez,19651,Binghamton,Cade Wilson,56799,Brown
+2019,01/26,Cornell - Brown Dual,174,L,DEC,8 - 5,Brandon Womack,40379,Cornell,Cade Wilson,56799,Brown
+2019,01/19,Bucknell - Brown Dual,174,W,MD,15 - 2,Nick Stephani,40369,Bucknell,Cade Wilson,56799,Brown
+2019,01/19,Franklin & Marshall - Brown Dual,174,L,DEC,5 - 2,Jacob Conners,19887,Franklin & Marshall,Cade Wilson,56799,Brown
+2019,01/17,Army - Brown Dual,174,L,MD,11 - 2,Ben Harvey,40935,Army West Point,Cade Wilson,56799,Brown
+2019,01/05,Franklin & Marshall Open,165,W,FALL,1:48,Erik Eva,51189,Davidson,Cade Wilson,56799,Brown
+2019,01/05,Franklin & Marshall Open,165,L,DEC,7 - 3,Larry Brown,50242,Lock Haven,Cade Wilson,56799,Brown
+2019,01/05,Franklin & Marshall Open,165,L,TF5,17 - 0 7:00,Ebed Jarrell,40311,Drexel,Cade Wilson,56799,Brown
+2019,11/17,Navy Classic,165,W,MD,10 - 2,Aaron Olmos,50177,Oregon State,Cade Wilson,56799,Brown
+2019,11/17,Navy Classic,165,L,DEC,15 - 9,Kade Byland,45313,Kent State,Cade Wilson,56799,Brown
+2019,11/17,Navy Classic,165,W,FALL,1:34,Anthony Synder,42276,Delaware Valley,Cade Wilson,56799,Brown
+2019,11/17,Navy Classic,165,L,MD,10 - 2,Isaac Bast,19972,Kent State,Cade Wilson,56799,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,165,L,MD,10 - 2,Dillon Taylor,49202,Navy,Cade Wilson,56799,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,165,L,DEC,5 - 1,Tyler Casamenti,40246,Lehigh,Cade Wilson,56799,Brown
+2019,03/21,NCAA Championships,184,L,SV-2,5 - 3,Mason Reinhardt,39748,Wisconsin,Christian LaFragola,40032,Brown
+2019,03/21,NCAA Championships,184,L,MD,10 - 0,Drew Foster,20212,Northern Iowa,Christian LaFragola,40032,Brown
+2019,03/08,EIWA Championships,184,W,DEC,7 - 2,Anthony Walters,50831,Drexel,Christian LaFragola,40032,Brown
+2019,03/08,EIWA Championships,184,L,DEC,8 - 4,Max Dean,46025,Cornell,Christian LaFragola,40032,Brown
+2019,03/08,EIWA Championships,184,W,TB-2,2 - 1,Noah Stewart,44599,Army West Point,Christian LaFragola,40032,Brown
+2019,03/08,EIWA Championships,184,W,DEC,3 - 2,Noah Stewart,44599,Army West Point,Christian LaFragola,40032,Brown
+2019,03/08,EIWA Championships,184,L,DEC,6 - 5,Tanner Harvey,48451,American,Christian LaFragola,40032,Brown
+2019,02/23,Sacred Heart - Brown Dual,184,W,DEC,11 - 5,Kyle Davis,50453,Sacred Heart,Christian LaFragola,40032,Brown
+2019,02/21,Brown - Harvard Dual,184,W,DEC,3 - 1,Leonardo Tarantino,51222,Harvard,Christian LaFragola,40032,Brown
+2019,02/16,Columbia - Brown Dual,184,W,SV-1,3 - 1,Brian Bonino,51034,Columbia,Christian LaFragola,40032,Brown
+2019,02/16,Hofstra - Brown Dual,184,W,DEC,10 - 4,Trey Rogers,51099,Hofstra,Christian LaFragola,40032,Brown
+2019,02/02,Brown - Princeton Dual,184,W,DEC,7 - 3,Kevin Parker,44710,Princeton,Christian LaFragola,40032,Brown
+2019,02/02,Brown - Pennsylvania Dual,184,W,MD,15 - 5,Jalen Laughlin,45266,Pennsylvania,Christian LaFragola,40032,Brown
+2019,01/26,Binghamton - Brown Dual,184,L,MD,10 - 2,Louie DePrez,49046,Binghamton,Christian LaFragola,40032,Brown
+2019,01/26,Cornell - Brown Dual,184,L,FALL,7:00,Max Dean,46025,Cornell,Christian LaFragola,40032,Brown
+2019,01/19,Bucknell - Brown Dual,184,W,DEC,3 - 1,Jacob Ferreira,56807,Bucknell,Christian LaFragola,40032,Brown
+2019,01/19,Franklin & Marshall - Brown Dual,184,W,TF5,24 - 9 7:00,Reid Robilotto,45211,Franklin & Marshall,Christian LaFragola,40032,Brown
+2019,01/17,Army - Brown Dual,184,W,DEC,5 - 2,Christopher Morgan,41225,Army West Point,Christian LaFragola,40032,Brown
+2019,01/12,Brown - Duke Dual,184,W,MD,16 - 7,Kaden Russell,49124,Duke,Christian LaFragola,40032,Brown
+2019,01/12,Brown - North Carolina State Dual,184,W,MD,14 - 5,Roderick Davis,39752,NC State,Christian LaFragola,40032,Brown
+2019,01/11,Brown - Davidson Dual,184,W,MD,15 - 5,Conor Fenn,45250,Davidson,Christian LaFragola,40032,Brown
+2019,12/29,Midlands Championships,184,W,DEC,10 - 3,Thomas Penola,57105,Purdue,Christian LaFragola,40032,Brown
+2019,12/29,Midlands Championships,184,L,DEC,4 - 3,Gavin Hoffman,50609,Ohio State,Christian LaFragola,40032,Brown
+2019,12/29,Midlands Championships,184,L,MD,12 - 2,Jackson Hemauer,49347,Fresno State,Christian LaFragola,40032,Brown
+2019,12/29,Midlands Championships,184,L,DEC,10 - 7,Jackson Hemauer,49347,Fresno State,Christian LaFragola,40032,Brown
+2019,12/29,Midlands Championships,184,W,DEC,6 - 5,AJ Pedro,49056,Brown,Christian LaFragola,40032,Brown
+2019,12/29,Midlands Championships,184,W,DEC,16 - 10,Kevin Parker,44710,Princeton,Christian LaFragola,40032,Brown
+2019,12/29,Midlands Championships,184,W,MD,12 - 3,Michael Aldrich,40014,Northern Illinois,Christian LaFragola,40032,Brown
+2019,12/29,Midlands Championships,184,W,DEC,9 - 7,Jordan Atienza,19747,Central Michigan,Christian LaFragola,40032,Brown
+2019,11/30,Cliff Keen Invitational,184,L,SV-1,3 - 1,Jackson Hemauer,49347,Fresno State,Christian LaFragola,40032,Brown
+2019,11/30,Cliff Keen Invitational,184,L,DEC,9 - 2,Will Schany,20435,Virginia,Christian LaFragola,40032,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,184,W,MD,12 - 3,Michael Waszen,51829,Franklin & Marshall,Christian LaFragola,40032,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,184,W,FALL,4:09,Cole Bateman,49142,Harvard,Christian LaFragola,40032,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,184,W,DEC,8 - 3,Anthony Cable,40260,Navy,Christian LaFragola,40032,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,184,W,DEC,6 - 4,Anthony Mancini,19889,Franklin & Marshall,Christian LaFragola,40032,Brown
+2019,01/27,JWU Wildcat Open,184,W,FALL,1:12,Robert Fryar II,61271,Bridgewater State,Nino Bastianelli,50818,Brown
+2019,01/27,JWU Wildcat Open,184,W,FALL,0:54,Izzy Fox,54226,NYU,Nino Bastianelli,50818,Brown
+2019,01/27,JWU Wildcat Open,184,W,DEC,9 - 4,Dan McClure,48406,LIU,Nino Bastianelli,50818,Brown
+2019,01/27,JWU Wildcat Open,184,W,DEC,7 - 4,Jackson Kligerman,47652,NYU,Nino Bastianelli,50818,Brown
+2019,01/26,Binghamton - Brown Dual,197,W,DEC,6 - 2,Alexander Melikian,45021,Binghamton,Nino Bastianelli,50818,Brown
+2019,01/19,Bucknell - Brown Dual,197,L,DEC,5 - 2,Drew Phipps,45224,Bucknell,Nino Bastianelli,50818,Brown
+2019,01/05,Franklin & Marshall Open,184,L,FALL,3:26,Jacob Ferreira,56807,Bucknell,Nino Bastianelli,50818,Brown
+2019,01/05,Franklin & Marshall Open,184,W,DEC,5 - 4,Edmond Ruth,51277,High School,Nino Bastianelli,50818,Brown
+2019,01/05,Franklin & Marshall Open,184,W,DEC,10 - 8,Edmond Ruth,51277,High School,Nino Bastianelli,50818,Brown
+2019,01/05,Franklin & Marshall Open,184,W,DEC,7 - 2,Cliffton Wang,50873,Harvard,Nino Bastianelli,50818,Brown
+2019,01/05,Franklin & Marshall Open,184,L,TF5,16 - 1 7:00,Kevin Parker,44710,Princeton,Nino Bastianelli,50818,Brown
+2019,11/17,Navy Classic,174,L,DEC,8 - 2,AJ Alford,45382,Navy,Nino Bastianelli,50818,Brown
+2019,11/17,Navy Classic,174,W,MD,16 - 4,Joseph DeMatteo,22452,Oregon State,Nino Bastianelli,50818,Brown
+2019,11/17,Navy Classic,174,W,FALL,4:34,Conner Allshouse,44877,American,Nino Bastianelli,50818,Brown
+2019,11/17,Navy Classic,174,L,MD,11 - 3,Cody Surratt,49030,Air Force,Nino Bastianelli,50818,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,174,L,DEC,8 - 4,Jonathan Loew,51080,Spartan Combat RTC,Nino Bastianelli,50818,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,174,L,MD,8 - 0,Brandon Womack,40379,Cornell,Nino Bastianelli,50818,Brown
+2019,03/08,EIWA Championships,197,W,MD,10 - 2,Pierce Bausano,56814,Harvard,Tucker Ziegler,39913,Brown
+2019,03/08,EIWA Championships,197,L,FALL,7:00,Jake Jakobsen,46924,Lehigh,Tucker Ziegler,39913,Brown
+2019,03/08,EIWA Championships,197,L,MD,8 - 0,Joshua Roetman,45378,Navy,Tucker Ziegler,39913,Brown
+2019,03/08,EIWA Championships,197,W,DEC,3 - 1,Nezar Haddad,19850,Hofstra,Tucker Ziegler,39913,Brown
+2019,03/08,EIWA Championships,197,L,SV-1,6 - 2,Rocco Caywood,22565,Army West Point,Tucker Ziegler,39913,Brown
+2019,02/23,Sacred Heart - Brown Dual,197,W,TF5,15 - 0 7:00,Connor Fredericks,52572,Sacred Heart,Tucker Ziegler,39913,Brown
+2019,02/21,Brown - Harvard Dual,197,W,INJ,7:00,Cole Bateman,49142,Harvard,Tucker Ziegler,39913,Brown
+2019,02/16,Columbia - Brown Dual,197,W,DEC,7 - 3,Sam Wustefeld,57272,Columbia,Tucker Ziegler,39913,Brown
+2019,02/16,Hofstra - Brown Dual,197,L,DEC,3 - 2,Nezar Haddad,19850,Hofstra,Tucker Ziegler,39913,Brown
+2019,02/02,Brown - Princeton Dual,197,L,TF5,20 - 4 5:13,Patrick Brucki,49296,Princeton,Tucker Ziegler,39913,Brown
+2019,02/02,Brown - Pennsylvania Dual,197,W,DEC,9 - 3,Patrik Garren,20313,Pennsylvania,Tucker Ziegler,39913,Brown
+2019,01/27,JWU Wildcat Open,197,W,MD,16 - 4,George McBurney,60255,Coast Guard,Tucker Ziegler,39913,Brown
+2019,01/27,JWU Wildcat Open,197,W,DEC,7 - 5,Joseph Miller,58218,United States Military Academy,Tucker Ziegler,39913,Brown
+2019,01/27,JWU Wildcat Open,197,W,MFOR,0 - 0,Jake Koser,50890,US Naval Academy Prep School,Tucker Ziegler,39913,Brown
+2019,01/26,Cornell - Brown Dual,197,L,MD,14 - 5,Benjamin Honis,43656,Cornell,Tucker Ziegler,39913,Brown
+2019,01/19,Franklin & Marshall - Brown Dual,197,L,FALL,2:40,Phillip Robilotto,12411,Franklin & Marshall,Tucker Ziegler,39913,Brown
+2019,01/17,Army - Brown Dual,197,L,MD,11 - 1,Rocco Caywood,22565,Army West Point,Tucker Ziegler,39913,Brown
+2019,01/12,Brown - Duke Dual,197,L,DEC,3 - 1,Alec Schenk,19869,Duke,Tucker Ziegler,39913,Brown
+2019,01/12,Brown - North Carolina State Dual,197,L,DEC,5 - 4,Malik McDonald,20133,NC State,Tucker Ziegler,39913,Brown
+2019,01/11,Brown - Davidson Dual,197,W,FALL,6:18,Lachlan Rosato,51609,Davidson,Tucker Ziegler,39913,Brown
+2019,01/05,Franklin & Marshall Open,197,W,INJ,7:00,Connor Fredericks,52572,Sacred Heart,Tucker Ziegler,39913,Brown
+2019,01/05,Franklin & Marshall Open,197,W,MD,13 - 4,Mark Blokh,51119,Sacred Heart,Tucker Ziegler,39913,Brown
+2019,01/05,Franklin & Marshall Open,197,W,DEC,7 - 0,Marquis Cobbs,49817,Campbell,Tucker Ziegler,39913,Brown
+2019,01/05,Franklin & Marshall Open,197,L,DEC,11 - 5,Noah Bushman,49266,Old Dominion,Tucker Ziegler,39913,Brown
+2019,01/05,Franklin & Marshall Open,197,L,DEC,9 - 8,Cole Nye,49185,Pittsburgh,Tucker Ziegler,39913,Brown
+2019,01/05,Franklin & Marshall Open,197,W,MD,11 - 1,Steven Mercadante,44803,Franklin & Marshall,Tucker Ziegler,39913,Brown
+2019,12/29,Midlands Championships,197,L,DEC,10 - 5,Joe Rau,60608,Chicago Regional Training Center,Tucker Ziegler,39913,Brown
+2019,12/29,Midlands Championships,197,L,FALL,3:49,Garrett Joles,50908,Minnesota,Tucker Ziegler,39913,Brown
+2019,11/17,Navy Classic,197,L,MD,18 - 8,Aaron Naples,51351,Ohio,Tucker Ziegler,39913,Brown
+2019,11/17,Navy Classic,197,W,DEC,4 - 3,David Heath,51172,Brown,Tucker Ziegler,39913,Brown
+2019,11/17,Navy Classic,197,L,DEC,4 - 2,Dylan Reynolds,45374,Edinboro,Tucker Ziegler,39913,Brown
+2019,11/17,Navy Classic,197,W,DEC,6 - 3,Joseph Scott,45069,Bucknell,Tucker Ziegler,39913,Brown
+2019,12/29,Midlands Championships,197,L,DEC,11 - 4,Andrew Davison,49178,Michigan,Andrew LaBrie,20582,Brown
+2019,12/29,Midlands Championships,197,L,DEC,4 - 1,Brett Perry,19726,Buffalo,Andrew LaBrie,20582,Brown
+2019,11/17,Navy Classic,197,W,DEC,14 - 10,Brad Wilton,49187,Michigan State,Andrew LaBrie,20582,Brown
+2019,11/17,Navy Classic,197,L,MFOR,0 - 0,Joshua Roetman,45378,Navy,Andrew LaBrie,20582,Brown
+2019,11/17,Navy Classic,197,W,MD,12 - 2,Nate Hall,41646,Ohio,Andrew LaBrie,20582,Brown
+2019,11/17,Navy Classic,197,W,MD,16 - 2,Casey Jumps,50817,Air Force,Andrew LaBrie,20582,Brown
+2019,11/17,Navy Classic,197,L,DEC,7 - 5,Anthony McLaughlin,23674,Air Force,Andrew LaBrie,20582,Brown
+2019,01/27,JWU Wildcat Open,197,W,DEC,7 - 0,Matt Froio,61270,Plymouth State,David Heath,51172,Brown
+2019,01/27,JWU Wildcat Open,197,W,DEC,4 - 2,Matt Froio,61270,Plymouth State,David Heath,51172,Brown
+2019,01/27,JWU Wildcat Open,197,W,DEC,7 - 0,Jessup Pawlczyk,50444,Coast Guard,David Heath,51172,Brown
+2019,01/27,JWU Wildcat Open,197,L,DEC,2 - 0,Joseph Miller,58218,United States Military Academy,David Heath,51172,Brown
+2019,01/27,JWU Wildcat Open,197,L,FALL,2:11,Jake Koser,50890,US Naval Academy Prep School,David Heath,51172,Brown
+2019,12/09,Patriots Open,197,L,MD,13 - 2,Parker McClellan,56598,Lock Haven,David Heath,51172,Brown
+2019,12/09,Patriots Open,197,L,MFOR,0 - 0,Gregory Bensley,56214,Pennsylvania,David Heath,51172,Brown
+2019,12/09,Patriots Open,197,L,MD,13 - 3,Eli Spencer,45318,George Mason,David Heath,51172,Brown
+2019,12/09,Patriots Open,197,W,DEC,7 - 6,Ray Bernot,45102,Lock Haven,David Heath,51172,Brown
+2019,12/09,Patriots Open,197,W,DEC,7 - 3,Prince Hyeamang,45349,American,David Heath,51172,Brown
+2019,11/17,Navy Classic,197,L,DEC,4 - 3,Tucker Ziegler,39913,Brown,David Heath,51172,Brown
+2019,11/17,Navy Classic,197,L,MD,12 - 3,Drew Phipps,45224,Bucknell,David Heath,51172,Brown
+2019,03/21,NCAA Championships,285,L,MD,13 - 3,Amarveer Dhesi,14223,Oregon State,Ian Butterbrodt,39770,Brown
+2019,03/21,NCAA Championships,285,W,DEC,2 - 0,Chase Singletary,49253,Ohio State,Ian Butterbrodt,39770,Brown
+2019,03/21,NCAA Championships,285,W,MD,15 - 7,Demetrius Thomas,47357,Pittsburgh,Ian Butterbrodt,39770,Brown
+2019,03/21,NCAA Championships,285,W,DEC,12 - 7,Jeramy Sweany,40382,Cornell,Ian Butterbrodt,39770,Brown
+2019,03/21,NCAA Championships,285,L,DEC,5 - 2,Trent Hillger,49350,Wisconsin,Ian Butterbrodt,39770,Brown
+2019,03/08,EIWA Championships,285,W,DEC,3 - 0,Daniel Herman,51035,Columbia,Ian Butterbrodt,39770,Brown
+2019,03/08,EIWA Championships,285,L,MFOR,0 - 0,Jordan Wood,45107,Lehigh,Ian Butterbrodt,39770,Brown
+2019,03/08,EIWA Championships,285,W,DEC,6 - 4,Jeramy Sweany,40382,Cornell,Ian Butterbrodt,39770,Brown
+2019,03/08,EIWA Championships,285,W,DEC,8 - 3,Antonio Pelusi,19894,Franklin & Marshall,Ian Butterbrodt,39770,Brown
+2019,02/23,Sacred Heart - Brown Dual,285,W,MD,11 - 0,Kyle Davis,50453,Sacred Heart,Ian Butterbrodt,39770,Brown
+2019,02/21,Brown - Harvard Dual,285,W,MD,12 - 0,Evan Callahan,50874,Harvard,Ian Butterbrodt,39770,Brown
+2019,02/16,Columbia - Brown Dual,285,W,MD,10 - 0,Daniel Conley,51103,Columbia,Ian Butterbrodt,39770,Brown
+2019,02/16,Hofstra - Brown Dual,285,W,DEC,2 - 0,Omar Haddad,40070,Hofstra,Ian Butterbrodt,39770,Brown
+2019,02/02,Brown - Princeton Dual,285,W,DEC,5 - 1,Kendall Elfstrum,49299,Princeton,Ian Butterbrodt,39770,Brown
+2019,02/02,Brown - Pennsylvania Dual,285,W,DEC,4 - 0,Ben Goldin,50827,Pennsylvania,Ian Butterbrodt,39770,Brown
+2019,01/26,Binghamton - Brown Dual,285,W,DEC,6 - 2,Joe Doyle,49050,Binghamton,Ian Butterbrodt,39770,Brown
+2019,01/19,Bucknell - Brown Dual,285,W,DQ,0 - 0,Brandon Stokes,44634,Bucknell,Ian Butterbrodt,39770,Brown
+2019,01/12,Brown - Duke Dual,285,W,DEC,6 - 0,Araad Fisher,40068,Duke,Ian Butterbrodt,39770,Brown
+2019,01/12,Brown - North Carolina State Dual,285,W,DEC,4 - 0,Colin Lawler,54114,NC State,Ian Butterbrodt,39770,Brown
+2019,01/11,Brown - Davidson Dual,285,W,MD,15 - 2,Mitchell Trigg,56339,Davidson,Ian Butterbrodt,39770,Brown
+2019,12/29,Midlands Championships,285,W,MD,12 - 0,Evan Callahan,50874,Harvard,Ian Butterbrodt,39770,Brown
+2019,12/29,Midlands Championships,285,L,DEC,4 - 1,Aaron Costello,49149,Iowa,Ian Butterbrodt,39770,Brown
+2019,12/29,Midlands Championships,285,L,DEC,7 - 5,Jere Heino,40434,Campbell,Ian Butterbrodt,39770,Brown
+2019,11/30,Cliff Keen Invitational,285,L,DEC,3 - 1,Zach Elam,51612,Missouri,Ian Butterbrodt,39770,Brown
+2019,11/30,Cliff Keen Invitational,285,L,DEC,8 - 1,AJ Nevills,47810,Fresno State,Ian Butterbrodt,39770,Brown
+2019,11/17,Navy Classic,285,W,TF5,15 - 0 4:49,Brandon Streck,56190,Indiana,Ian Butterbrodt,39770,Brown
+2019,11/17,Navy Classic,285,L,DEC,3 - 1,Laith Alsous,50004,Campbell,Ian Butterbrodt,39770,Brown
+2019,11/17,Navy Classic,285,W,DEC,5 - 3,Jamarcus Grant,44974,Oregon State,Ian Butterbrodt,39770,Brown
+2019,11/17,Navy Classic,285,L,DEC,5 - 4,Will Hilliard,44796,Old Dominion,Ian Butterbrodt,39770,Brown
+2019,11/17,Navy Classic,285,W,SV-1,3 - 1,Ali Wahab,44627,Old Dominion,Ian Butterbrodt,39770,Brown
+2019,01/26,Cornell - Brown Dual,285,L,INJ,7:00,Jeramy Sweany,40382,Cornell,James Valentino,49057,Brown
+2019,01/19,Franklin & Marshall - Brown Dual,285,L,DEC,1 - 0,Antonio Pelusi,19894,Franklin & Marshall,James Valentino,49057,Brown
+2019,01/17,Army - Brown Dual,285,L,MD,9 - 0,Ben Sullivan,49040,Army West Point,James Valentino,49057,Brown
+2019,12/29,Midlands Championships,285,L,FALL,1:29,Arthur Grubba,60609,Omega Training Center,James Valentino,49057,Brown
+2019,12/29,Midlands Championships,285,L,DQ,0 - 0,Aaron Costello,49149,Iowa,James Valentino,49057,Brown
+2019,11/17,Navy Classic,285,L,FALL,2:02,Chase Beard,51214,Michigan State,James Valentino,49057,Brown
+2019,11/17,Navy Classic,285,L,DEC,10 - 5,Christian Rebottaro,44850,Michigan State,James Valentino,49057,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,285,L,DEC,3 - 2,Brandon Phillips,51196,Army West Point,James Valentino,49057,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,285,L,DEC,6 - 4,Eric Keosseian,49044,Army West Point,James Valentino,49057,Brown
+2019,11/11,Jonathan Kaloust Bearcat Open,285,W,TB-1,5 - 3,Sean Dee,40026,Binghamton,James Valentino,49057,Brown

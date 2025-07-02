@@ -1,0 +1,763 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2019,03/21,NCAA Championships,125,L,DEC,6 - 1,Drew Mattin,49180,Michigan,Korbin Meink,49074,Campbell
+2019,03/21,NCAA Championships,125,W,DEC,5 - 4,Zeke Moisey,20472,Nebraska,Korbin Meink,49074,Campbell
+2019,03/21,NCAA Championships,125,L,FALL,1:43,Nick Piccininni,39547,Oklahoma State,Korbin Meink,49074,Campbell
+2019,03/10,SoCon Championships,125,W,DEC,6 - 0,Alonzo Allen,19765,Chattanooga,Korbin Meink,49074,Campbell
+2019,03/10,SoCon Championships,125,W,DEC,9 - 3,De'Andre Swinson,50576,Appalachian State,Korbin Meink,49074,Campbell
+2019,02/16,VMI - Campbell Dual,125,W,DEC,8 - 2,Derek Shockey,57301,VMI,Korbin Meink,49074,Campbell
+2019,02/10,Campbell - Chattanooga Dual,125,L,DEC,7 - 2,Alonzo Allen,19765,Chattanooga,Korbin Meink,49074,Campbell
+2019,02/03,Campbell - The Citadel Dual,125,W,FALL,4:53,Anthony New,57182,The Citadel,Korbin Meink,49074,Campbell
+2019,01/20,Campbell - Appalachian State Dual,125,W,SV-1,4 - 2,De'Andre Swinson,50576,Appalachian State,Korbin Meink,49074,Campbell
+2019,01/12,Campbell - Franklin & Marshall Dual,125,W,DEC,5 - 1,Jose Diaz,57229,Franklin & Marshall,Korbin Meink,49074,Campbell
+2019,01/05,Franklin & Marshall Open,125,W,DEC,8 - 4,Jarod Kosman,56590,Maryland,Korbin Meink,49074,Campbell
+2019,01/05,Franklin & Marshall Open,125,L,FALL,0:49,De'Andre Swinson,50576,Appalachian State,Korbin Meink,49074,Campbell
+2019,01/05,Franklin & Marshall Open,125,L,DEC,9 - 3,Andy Richard,50050,Appalachian State,Korbin Meink,49074,Campbell
+2019,12/29,Midlands Championships,125,L,MD,14 - 5,Joey Melendez,50805,North Carolina,Korbin Meink,49074,Campbell
+2019,12/29,Midlands Championships,125,L,DEC,4 - 1,Elijah Oliver,39583,Indiana,Korbin Meink,49074,Campbell
+2019,11/30,Cliff Keen Invitational,125,W,DEC,8 - 7,Brendon Fenton,50938,Pittsburgh,Korbin Meink,49074,Campbell
+2019,11/30,Cliff Keen Invitational,125,L,DEC,4 - 1,Brakan Mead,50226,Ohio State,Korbin Meink,49074,Campbell
+2019,11/30,Cliff Keen Invitational,125,L,FALL,3:29,Louie Hayes,44641,Virginia,Korbin Meink,49074,Campbell
+2019,11/17,Navy Classic,125,W,MD,10 - 2,Lucas Rodriguez,51061,Edinboro,Korbin Meink,49074,Campbell
+2019,11/17,Navy Classic,125,L,DEC,5 - 3,Killian Cardinale,49268,Old Dominion,Korbin Meink,49074,Campbell
+2019,11/17,Navy Classic,125,L,MD,17 - 8,Michael McGee,49264,Old Dominion,Korbin Meink,49074,Campbell
+2019,11/10,Ohio - Campbell Dual,125,W,DEC,4 - 1,Shakur Laney,39917,Ohio,Korbin Meink,49074,Campbell
+2019,11/04,Hokie Open,125,W,TF5,19 - 4 5:59,Michael Beets,54781,Campbellsville,Korbin Meink,49074,Campbell
+2019,11/04,Hokie Open,125,W,TF5,16 - 1 7:00,Paxton Rosen,49072,Campbell,Korbin Meink,49074,Campbell
+2019,11/04,Hokie Open,125,L,DEC,6 - 4,Fabian Gutierrez,45245,Chattanooga,Korbin Meink,49074,Campbell
+2019,11/04,Hokie Open,125,L,DEC,4 - 3,Liam Cronin,45061,Indiana,Korbin Meink,49074,Campbell
+2019,03/02,National Collegiate Open,125,W,MD,11 - 3,Sean Foley,57285,Rider,Paxton Rosen,49072,Campbell
+2019,03/02,National Collegiate Open,125,W,DEC,9 - 4,Ben Kamali,50947,Virginia,Paxton Rosen,49072,Campbell
+2019,03/02,National Collegiate Open,125,L,DEC,5 - 3,Joey Melendez,50805,North Carolina,Paxton Rosen,49072,Campbell
+2019,03/02,National Collegiate Open,125,L,DEC,5 - 0,Cody Phippen,50644,Air Force Prep,Paxton Rosen,49072,Campbell
+2019,03/02,National Collegiate Open,125,W,DEC,8 - 5,Graham Shore,50580,Air Force Prep,Paxton Rosen,49072,Campbell
+2019,01/26,Appalachian Open,125,W,DEC,4 - 1,Charlie Lenox,45032,NC State,Paxton Rosen,49072,Campbell
+2019,01/26,Appalachian Open,125,W,SV-1,8 - 6,Tommy Cox,44623,NC State,Paxton Rosen,49072,Campbell
+2019,01/26,Appalachian Open,125,L,TF5,18 - 1 7:00,Sean Fausz,20126,NC State,Paxton Rosen,49072,Campbell
+2019,01/05,Franklin & Marshall Open,125,L,MD,10 - 1,Joey Melendez,50805,North Carolina,Paxton Rosen,49072,Campbell
+2019,01/05,Franklin & Marshall Open,125,L,DEC,10 - 5,Reese Fry,56796,Brown,Paxton Rosen,49072,Campbell
+2019,01/01,Southern Scuffle,125,L,DEC,6 - 3,Brody Teske,52779,Penn State,Paxton Rosen,49072,Campbell
+2019,01/01,Southern Scuffle,125,L,DEC,4 - 2,Logan Treaster,49205,Navy,Paxton Rosen,49072,Campbell
+2019,01/01,Southern Scuffle,125,W,DEC,6 - 3,Arien Leigh,57136,Duke,Paxton Rosen,49072,Campbell
+2019,11/17,Navy Classic,125,W,DEC,4 - 1,Jacob Allen,50935,Navy,Paxton Rosen,49072,Campbell
+2019,11/17,Navy Classic,125,L,DEC,4 - 2,Killian Cardinale,49268,Old Dominion,Paxton Rosen,49072,Campbell
+2019,11/17,Navy Classic,125,W,FALL,1:36,Brandon Seidman,56803,Bucknell,Paxton Rosen,49072,Campbell
+2019,11/17,Navy Classic,125,L,DEC,3 - 2,Sidney Flores,49031,Air Force,Paxton Rosen,49072,Campbell
+2019,11/04,Hokie Open,125,L,TF5,16 - 1 7:00,Korbin Meink,49074,Campbell,Paxton Rosen,49072,Campbell
+2019,11/04,Hokie Open,125,W,DEC,9 - 5,Cliff Conway,50304,VMI,Paxton Rosen,49072,Campbell
+2019,11/04,Hokie Open,125,L,TF5,20 - 5 6:30,Alonzo Allen,19765,Chattanooga,Paxton Rosen,49072,Campbell
+2019,11/04,Hokie Open,125,L,MD,15 - 2,Joe Heilmann,51223,North Carolina,Aaron Burton,40429,Campbell
+2019,11/04,Hokie Open,125,L,DEC,8 - 4,Tommy Cox,44623,NC State,Aaron Burton,40429,Campbell
+2019,03/21,NCAA Championships,133,L,DEC,11 - 5,Montorie Bridges,44844,Wyoming,Noah Gonser,40087,Campbell
+2019,03/21,NCAA Championships,133,W,DEC,8 - 3,Anthony Cefolo,40284,Rider,Noah Gonser,40087,Campbell
+2019,03/21,NCAA Championships,133,L,DEC,5 - 0,Tariq Wilson,44862,NC State,Noah Gonser,40087,Campbell
+2019,03/10,SoCon Championships,133,W,MD,10 - 0,Jake Huffine,40207,Chattanooga,Noah Gonser,40087,Campbell
+2019,03/10,SoCon Championships,133,L,DEC,9 - 4,Codi Russell,51113,Appalachian State,Noah Gonser,40087,Campbell
+2019,02/24,Davidson - Campbell Dual,133,W,DEC,8 - 1,Kyle Gorant,51686,Davidson,Noah Gonser,40087,Campbell
+2019,02/16,VMI - Campbell Dual,133,W,FALL,2:16,Cliff Conway,50304,VMI,Noah Gonser,40087,Campbell
+2019,02/10,Campbell - Chattanooga Dual,133,W,DEC,5 - 2,Jake Huffine,40207,Chattanooga,Noah Gonser,40087,Campbell
+2019,02/05,Gardner-Webb - Campbell Dual,133,W,DEC,4 - 0,Brandon Bright,51345,Gardner-Webb,Noah Gonser,40087,Campbell
+2019,02/03,Campbell - The Citadel Dual,133,W,TF5,22 - 4 6:35,Charles Kearney,40372,The Citadel,Noah Gonser,40087,Campbell
+2019,01/20,Campbell - Appalachian State Dual,133,W,DEC,4 - 1,Codi Russell,51113,Appalachian State,Noah Gonser,40087,Campbell
+2019,01/12,Campbell - Franklin & Marshall Dual,133,W,TF5,22 - 6 6:47,Mike Simonetti,51025,Franklin & Marshall,Noah Gonser,40087,Campbell
+2019,12/29,Midlands Championships,133,W,DEC,13 - 8,Abdullah Assaf,50139,Illinois,Noah Gonser,40087,Campbell
+2019,12/29,Midlands Championships,133,W,DEC,4 - 2,Jack Skudlarczyk,49241,Northern Iowa,Noah Gonser,40087,Campbell
+2019,12/29,Midlands Championships,133,W,DEC,6 - 1,Zach Sherman,49216,North Carolina,Noah Gonser,40087,Campbell
+2019,12/29,Midlands Championships,133,L,MD,15 - 5,Austin DeSanto,49117,Iowa,Noah Gonser,40087,Campbell
+2019,12/29,Midlands Championships,133,W,DEC,1 - 0,Paul Glynn,39535,Iowa,Noah Gonser,40087,Campbell
+2019,12/29,Midlands Championships,133,W,MD,12 - 2,Kegan Calkins,20291,Oregon State,Noah Gonser,40087,Campbell
+2019,11/30,Cliff Keen Invitational,133,W,DEC,3 - 2,Casey Cobb,45566,Navy,Noah Gonser,40087,Campbell
+2019,11/30,Cliff Keen Invitational,133,W,DEC,4 - 0,Montorie Bridges,44844,Wyoming,Noah Gonser,40087,Campbell
+2019,11/30,Cliff Keen Invitational,133,L,DEC,6 - 5,Cameron Sykora,39757,North Dakota State,Noah Gonser,40087,Campbell
+2019,11/30,Cliff Keen Invitational,133,L,FALL,1:15,John Erneste,20058,Missouri,Noah Gonser,40087,Campbell
+2019,11/17,Navy Classic,133,W,FALL,1:59,Russell Benson,56325,Delaware Valley,Noah Gonser,40087,Campbell
+2019,11/17,Navy Classic,133,L,DEC,5 - 2,Casey Cobb,45566,Navy,Noah Gonser,40087,Campbell
+2019,11/17,Navy Classic,133,L,DEC,3 - 1,Garrett Pepple,39561,Indiana,Noah Gonser,40087,Campbell
+2019,11/10,Ohio - Campbell Dual,133,L,DEC,4 - 3,Mario Guillen,44618,Ohio,Noah Gonser,40087,Campbell
+2019,11/04,Hokie Open,133,W,MD,14 - 0,Kolten Radaz,54802,Campbellsville,Noah Gonser,40087,Campbell
+2019,11/04,Hokie Open,133,W,DEC,2 - 1,Zach Sherman,49216,North Carolina,Noah Gonser,40087,Campbell
+2019,11/04,Hokie Open,133,W,MFOR,0 - 0,Kellen Devlin,44615,NC State,Noah Gonser,40087,Campbell
+2019,11/04,Hokie Open,133,W,DEC,8 - 3,Korbin Myers,39637,Virginia Tech,Noah Gonser,40087,Campbell
+2019,11/04,Hokie Open,133,L,SV-1,6 - 3,Codi Russell,51113,Appalachian State,Noah Gonser,40087,Campbell
+2019,03/02,National Collegiate Open,133,L,MD,21 - 10,Chris Wright,51092,Rider,Austin Warner,51998,Campbell
+2019,03/02,National Collegiate Open,133,L,DEC,12 - 5,Andrew Wert,50945,United States Military Academy,Austin Warner,51998,Campbell
+2019,01/26,Appalachian Open,133,W,MD,16 - 5,Kyle Sams,57187,Campbell,Austin Warner,51998,Campbell
+2019,01/26,Appalachian Open,133,L,TF5,23 - 5 6:05,Codi Russell,51113,Appalachian State,Austin Warner,51998,Campbell
+2019,01/26,Appalachian Open,133,L,DEC,10 - 3,Patrick Washington,45406,Appalachian State,Austin Warner,51998,Campbell
+2019,11/11,Pembroke Classic,133,W,DEC,13 - 6,Kyle Sams,57187,Campbell,Austin Warner,51998,Campbell
+2019,11/11,Pembroke Classic,133,W,MD,16 - 3,Tanner Calloway,52014,Southeastern University,Austin Warner,51998,Campbell
+2019,11/11,Pembroke Classic,133,W,DEC,6 - 0,Ronnie Pietro,51690,UNC Pembroke,Austin Warner,51998,Campbell
+2019,11/11,Pembroke Classic,133,W,DEC,6 - 4,Dawson Bates,50914,Appalachian State,Austin Warner,51998,Campbell
+2019,11/11,Pembroke Classic,133,W,DEC,6 - 0,John Devine,50851,NC State,Austin Warner,51998,Campbell
+2019,11/11,Pembroke Classic,133,L,MD,15 - 4,Gary Wayne Harding,20270,North Carolina,Austin Warner,51998,Campbell
+2019,11/04,Hokie Open,133,L,MD,11 - 2,Jake Huffine,40207,Chattanooga,Austin Warner,51998,Campbell
+2019,11/04,Hokie Open,133,L,DEC,5 - 2,Korbin Myers,39637,Virginia Tech,Austin Warner,51998,Campbell
+2019,11/04,Hokie Open,133,W,DEC,9 - 4,Hunter Starner,20701,VMI,Austin Warner,51998,Campbell
+2019,11/18,Wolfpack Open,133,W,MD,11 - 2,Chace Curtis,59626,Limestone,Caleb Birdwell,57186,Campbell
+2019,11/18,Wolfpack Open,133,L,DEC,6 - 2,Patrick McCormick,57063,Virginia,Caleb Birdwell,57186,Campbell
+2019,11/18,Wolfpack Open,133,L,DEC,5 - 4,Dawson Bates,50914,Appalachian State,Caleb Birdwell,57186,Campbell
+2019,11/11,Pembroke Classic,133,W,DEC,7 - 1,Ayush Patel,58901,Unattached,Caleb Birdwell,57186,Campbell
+2019,11/11,Pembroke Classic,133,W,DEC,9 - 5,Armando Marquez,58899,Blue Lights College,Caleb Birdwell,57186,Campbell
+2019,11/11,Pembroke Classic,133,W,MD,13 - 2,Michael Bush,58892,Southeastern University,Caleb Birdwell,57186,Campbell
+2019,11/11,Pembroke Classic,133,L,DEC,4 - 3,Tramone Jenkins,52017,Spartanburg Methodist College,Caleb Birdwell,57186,Campbell
+2019,11/11,Pembroke Classic,133,L,DEC,3 - 2,Ronnie Pietro,51690,UNC Pembroke,Caleb Birdwell,57186,Campbell
+2019,11/11,Pembroke Classic,133,L,DEC,6 - 3,John Devine,50851,NC State,Caleb Birdwell,57186,Campbell
+2019,11/04,Hokie Open,133,W,DEC,8 - 2,Chase Clark,58303,Coker,Caleb Birdwell,57186,Campbell
+2019,11/04,Hokie Open,133,L,DEC,4 - 0,Patrick McCormick,57063,Virginia,Caleb Birdwell,57186,Campbell
+2019,11/04,Hokie Open,133,L,DEC,5 - 2,Mel Ortiz,56954,George Mason,Caleb Birdwell,57186,Campbell
+2019,11/04,Hokie Open,133,W,FALL,6:24,Chris Kelly,51985,UNC Pembroke,Caleb Birdwell,57186,Campbell
+2019,11/04,Hokie Open,133,W,DEC,7 - 6,Austin Neal,49795,Newberry,Caleb Birdwell,57186,Campbell
+2019,01/26,Appalachian Open,133,L,MD,16 - 5,Austin Warner,51998,Campbell,Kyle Sams,57187,Campbell
+2019,01/26,Appalachian Open,133,L,TF5,20 - 2 4:11,Collin Gerardi,51286,Virginia Tech,Kyle Sams,57187,Campbell
+2019,01/05,Franklin & Marshall Open,133,L,FALL,1:46,Cole Manley,49337,Lock Haven,Kyle Sams,57187,Campbell
+2019,01/05,Franklin & Marshall Open,133,L,MD,19 - 8,Scott Stossel,40229,Penn State,Kyle Sams,57187,Campbell
+2019,01/01,Southern Scuffle,133,L,FALL,1:48,Charles Kearney,40372,The Citadel,Kyle Sams,57187,Campbell
+2019,01/01,Southern Scuffle,133,L,MD,11 - 2,Jarrett Trombley,50807,NC State,Kyle Sams,57187,Campbell
+2019,11/18,Wolfpack Open,133,W,DEC,11 - 5,Armando Marquez,58899,Blue Lights College,Kyle Sams,57187,Campbell
+2019,11/18,Wolfpack Open,133,L,DEC,12 - 5,Tyler Delaware,51358,Old Dominion,Kyle Sams,57187,Campbell
+2019,11/18,Wolfpack Open,133,L,TF5,18 - 2 3:14,Gary Wayne Harding,20270,North Carolina,Kyle Sams,57187,Campbell
+2019,11/11,Pembroke Classic,133,L,DEC,13 - 6,Austin Warner,51998,Campbell,Kyle Sams,57187,Campbell
+2019,11/11,Pembroke Classic,133,W,DEC,10 - 9,Jayden Bradshaw,58891,Southeastern University,Kyle Sams,57187,Campbell
+2019,11/11,Pembroke Classic,133,L,DEC,7 - 3,John Devine,50851,NC State,Kyle Sams,57187,Campbell
+2019,11/04,Hokie Open,133,L,MD,10 - 2,Sha'Mun Smith,58311,Limestone,Kyle Sams,57187,Campbell
+2019,11/04,Hokie Open,133,L,DEC,6 - 5,Smaill Saint Pierre,58310,Limestone,Kyle Sams,57187,Campbell
+2019,03/10,SoCon Championships,141,L,DEC,7 - 4,Irvin Enriquez,40401,Appalachian State,Nathan Boston,19956,Campbell
+2019,03/10,SoCon Championships,141,W,DEC,3 - 1,Dominick Gallo,39739,VMI,Nathan Boston,19956,Campbell
+2019,03/10,SoCon Championships,141,W,FALL,0:47,Keegan Connolly,57382,The Citadel,Nathan Boston,19956,Campbell
+2019,03/10,SoCon Championships,141,W,DEC,3 - 2,Blake Mulkey,56348,Gardner-Webb,Nathan Boston,19956,Campbell
+2019,02/24,Davidson - Campbell Dual,141,W,MD,15 - 5,Caleb Ziebell,51121,Davidson,Nathan Boston,19956,Campbell
+2019,02/16,VMI - Campbell Dual,141,W,DEC,9 - 3,Dominick Gallo,39739,VMI,Nathan Boston,19956,Campbell
+2019,02/10,Campbell - Chattanooga Dual,141,L,DEC,6 - 2,Chris Debien,39720,Chattanooga,Nathan Boston,19956,Campbell
+2019,02/05,Gardner-Webb - Campbell Dual,141,W,DEC,4 - 3,Blake Mulkey,56348,Gardner-Webb,Nathan Boston,19956,Campbell
+2019,02/03,Campbell - The Citadel Dual,141,W,FALL,1:32,Keegan Connolly,57382,The Citadel,Nathan Boston,19956,Campbell
+2019,01/20,Campbell - Appalachian State Dual,141,W,FALL,1:36,Irvin Enriquez,40401,Appalachian State,Nathan Boston,19956,Campbell
+2019,01/05,Franklin & Marshall Open,141,W,FALL,1:47,John Goettee,54104,Princeton,Nathan Boston,19956,Campbell
+2019,01/05,Franklin & Marshall Open,141,L,FALL,4:48,Marshall Keller,51509,Princeton,Nathan Boston,19956,Campbell
+2019,01/05,Franklin & Marshall Open,141,L,DEC,3 - 0,Mitch Moore,50620,Virginia Tech,Nathan Boston,19956,Campbell
+2019,01/05,Franklin & Marshall Open,141,W,DEC,4 - 3,Scott Kiyono,50458,Virginia,Nathan Boston,19956,Campbell
+2019,01/05,Franklin & Marshall Open,141,W,MFOR,0 - 0,Anthony Duca,49206,Navy,Nathan Boston,19956,Campbell
+2019,12/29,Midlands Championships,141,W,TF5,18 - 1 7:00,Josh Breeding,50616,Princeton,Nathan Boston,19956,Campbell
+2019,12/29,Midlands Championships,141,L,DEC,6 - 1,Ben Freeman,49177,Michigan,Nathan Boston,19956,Campbell
+2019,12/29,Midlands Championships,141,W,SV-1,7 - 4,Justin Stickley,46895,Iowa,Nathan Boston,19956,Campbell
+2019,12/29,Midlands Championships,141,L,SV-1,5 - 3,Peter Lipari,39530,Rutgers,Nathan Boston,19956,Campbell
+2019,11/30,Cliff Keen Invitational,141,W,DEC,2 - 0,Chris Deloza,50399,Fresno State,Nathan Boston,19956,Campbell
+2019,11/30,Cliff Keen Invitational,141,W,MFOR,0 - 0,Matthew Findlay,45366,Utah Valley,Nathan Boston,19956,Campbell
+2019,11/30,Cliff Keen Invitational,141,L,MD,14 - 2,Dom Latona,45115,Virginia Tech,Nathan Boston,19956,Campbell
+2019,11/30,Cliff Keen Invitational,141,W,MD,13 - 0,Garrett Lambert,44698,Hofstra,Nathan Boston,19956,Campbell
+2019,11/30,Cliff Keen Invitational,141,L,DEC,1 - 0,Samuel Krivus,43190,Virginia,Nathan Boston,19956,Campbell
+2019,11/17,Navy Classic,141,W,DEC,6 - 1,Michael De La Peña,50427,Indiana,Nathan Boston,19956,Campbell
+2019,11/17,Navy Classic,141,W,DEC,6 - 1,Kyran Hagan,49247,Ohio,Nathan Boston,19956,Campbell
+2019,11/17,Navy Classic,141,W,DEC,4 - 2,Connor Noonan,45400,Oregon State,Nathan Boston,19956,Campbell
+2019,11/17,Navy Classic,141,L,DEC,4 - 3,Alex Hrisopoulos,45308,Michigan State,Nathan Boston,19956,Campbell
+2019,11/17,Navy Classic,141,L,DEC,4 - 0,Garrett O'Shea,44711,Air Force,Nathan Boston,19956,Campbell
+2019,11/10,Ohio - Campbell Dual,141,W,DEC,8 - 2,Kyran Hagan,49247,Ohio,Nathan Boston,19956,Campbell
+2019,11/04,Hokie Open,141,L,DEC,4 - 3,Paul Konrath,49348,Indiana,Nathan Boston,19956,Campbell
+2019,11/04,Hokie Open,141,L,DEC,4 - 1,Dom Latona,45115,Virginia Tech,Nathan Boston,19956,Campbell
+2019,11/04,Hokie Open,141,W,DEC,9 - 3,Dominick Gallo,39739,VMI,Nathan Boston,19956,Campbell
+2019,11/04,Hokie Open,141,L,TF5,16 - 1 2:21,Rustam Ampar,58291,Unattached,Jonathan Ryan,40425,Campbell
+2019,11/04,Hokie Open,141,L,FALL,2:56,Irvin Enriquez,40401,Appalachian State,Jonathan Ryan,40425,Campbell
+2019,01/01,Southern Scuffle,141,L,MD,14 - 1,Ryan Leisure,49152,Iowa State,Clayton Currier,50235,Campbell
+2019,01/01,Southern Scuffle,141,L,DEC,9 - 2,Travis Layton,49041,Rider,Clayton Currier,50235,Campbell
+2019,11/17,Navy Classic,141,L,TF5,17 - 2 5:27,Kyran Hagan,49247,Ohio,Clayton Currier,50235,Campbell
+2019,11/17,Navy Classic,141,L,TF5,19 - 4 7:00,Lenny Petersen,49024,Air Force,Clayton Currier,50235,Campbell
+2019,11/04,Hokie Open,141,L,TF5,17 - 2 3:44,Dom Latona,45115,Virginia Tech,Clayton Currier,50235,Campbell
+2019,11/04,Hokie Open,141,L,FALL,2:12,AC Headlee,39627,North Carolina,Clayton Currier,50235,Campbell
+2019,01/12,Campbell - Franklin & Marshall Dual,141,L,FALL,3:25,Patrick Quinlan,20543,Franklin & Marshall,Joshua Scott,57191,Campbell
+2019,01/05,Franklin & Marshall Open,141,L,FALL,2:53,Kyle Slendorn,60672,High School,Joshua Scott,57191,Campbell
+2019,01/05,Franklin & Marshall Open,141,L,DEC,5 - 0,Gray Hart,57062,Virginia,Joshua Scott,57191,Campbell
+2019,01/01,Southern Scuffle,141,L,DEC,9 - 8,George Coleman,56920,Chattanooga,Joshua Scott,57191,Campbell
+2019,01/01,Southern Scuffle,141,L,FALL,0:48,Cameron Kelly,39687,Ohio,Joshua Scott,57191,Campbell
+2019,11/11,Pembroke Classic,141,L,DEC,15 - 9,Jonathan Miller,40697,UNC Pembroke,Joshua Scott,57191,Campbell
+2019,11/11,Pembroke Classic,141,W,DEC,11 - 4,Nathan Buchanan,57829,UNC Pembroke,Joshua Scott,57191,Campbell
+2019,11/11,Pembroke Classic,141,W,FALL,1:55,Danielle Sanders,53653,UNC Pembroke,Joshua Scott,57191,Campbell
+2019,11/11,Pembroke Classic,141,W,DEC,6 - 1,Ethan Hnasko,51981,UNC Pembroke,Joshua Scott,57191,Campbell
+2019,03/21,NCAA Championships,149,L,TB-1,1 - 0,Michael Sprague,19618,American,Josh Heil,45100,Campbell
+2019,03/21,NCAA Championships,149,L,DEC,4 - 1,Austin O'Connor,49214,North Carolina,Josh Heil,45100,Campbell
+2019,03/21,NCAA Championships,149,W,FALL,4:59,Henry Pohlmeyer,39803,South Dakota State,Josh Heil,45100,Campbell
+2019,03/10,SoCon Championships,149,W,DEC,6 - 2,Tanner Smith,49129,Chattanooga,Josh Heil,45100,Campbell
+2019,03/10,SoCon Championships,149,W,TF5,16 - 1 4:37,Selwyn Porter,57380,The Citadel,Josh Heil,45100,Campbell
+2019,02/24,Davidson - Campbell Dual,149,W,MD,13 - 4,Will Baldwin,50967,Davidson,Josh Heil,45100,Campbell
+2019,02/16,VMI - Campbell Dual,149,W,FALL,2:39,Zach Schmitt,57300,VMI,Josh Heil,45100,Campbell
+2019,02/10,Campbell - Chattanooga Dual,149,W,DEC,7 - 4,Tanner Smith,49129,Chattanooga,Josh Heil,45100,Campbell
+2019,02/03,Campbell - The Citadel Dual,149,W,MD,14 - 3,Selwyn Porter,57380,The Citadel,Josh Heil,45100,Campbell
+2019,01/20,Campbell - Appalachian State Dual,149,W,SV-1,3 - 1,Matthew Zovistoski,40049,Appalachian State,Josh Heil,45100,Campbell
+2019,01/12,Campbell - Franklin & Marshall Dual,149,W,MD,16 - 4,Cole Aaron,44902,Franklin & Marshall,Josh Heil,45100,Campbell
+2019,12/29,Midlands Championships,149,W,FALL,3:31,Chase McCollum,54179,Franklin & Marshall,Josh Heil,45100,Campbell
+2019,12/29,Midlands Championships,149,L,MFOR,0 - 0,Sammy Sasso,51143,Ohio State,Josh Heil,45100,Campbell
+2019,12/29,Midlands Championships,149,W,FALL,5:59,Tres Leon,42941,Cumberlands,Josh Heil,45100,Campbell
+2019,12/29,Midlands Championships,149,L,INJ,7:00,Patricio Lugo,39919,Iowa,Josh Heil,45100,Campbell
+2019,11/30,Cliff Keen Invitational,149,W,MD,11 - 2,Bryce Parson,60220,North Idaho College,Josh Heil,45100,Campbell
+2019,11/30,Cliff Keen Invitational,149,L,FALL,1:39,Austin O'Connor,49214,North Carolina,Josh Heil,45100,Campbell
+2019,11/30,Cliff Keen Invitational,149,W,DEC,7 - 2,Requir van der Merwe,45389,Stanford,Josh Heil,45100,Campbell
+2019,11/30,Cliff Keen Invitational,149,W,SV-1,4 - 2,Max Thomsen,39503,Northern Iowa,Josh Heil,45100,Campbell
+2019,11/30,Cliff Keen Invitational,149,L,DEC,9 - 4,Mitch Finesilver,19861,Duke,Josh Heil,45100,Campbell
+2019,11/30,Cliff Keen Invitational,149,L,DEC,10 - 6,Brock Zacherl,19787,Clarion,Josh Heil,45100,Campbell
+2019,11/30,Cliff Keen Invitational,149,W,MFOR,0 - 0,Michael Sprague,19618,American,Josh Heil,45100,Campbell
+2019,11/30,Cliff Keen Invitational,149,W,MD,12 - 2,Alec Opsal,44909,Air Force,Josh Heil,45100,Campbell
+2019,11/17,Navy Classic,149,W,DEC,3 - 0,Alec Hagan,49248,Ohio,Josh Heil,45100,Campbell
+2019,11/17,Navy Classic,149,W,TF5,15 - 0 3:44,Justin Yorkdale,45347,George Mason,Josh Heil,45100,Campbell
+2019,11/17,Navy Classic,149,W,DEC,3 - 1,Tejon Anthony,19896,George Mason,Josh Heil,45100,Campbell
+2019,11/17,Navy Classic,149,W,MD,14 - 4,Kizhan Clarke,44878,American,Josh Heil,45100,Campbell
+2019,11/10,Ohio - Campbell Dual,149,W,DEC,8 - 2,Alec Hagan,49248,Ohio,Josh Heil,45100,Campbell
+2019,11/04,Hokie Open,149,W,TF5,18 - 0 5:29,Anthony DeMartino,51086,Duke,Josh Heil,45100,Campbell
+2019,11/04,Hokie Open,149,L,MD,13 - 2,Austin O'Connor,49214,North Carolina,Josh Heil,45100,Campbell
+2019,11/04,Hokie Open,149,W,DEC,9 - 5,Tanner Smith,49129,Chattanooga,Josh Heil,45100,Campbell
+2019,11/04,Hokie Open,149,L,DEC,5 - 1,Ryan Blees,20267,Virginia Tech,Josh Heil,45100,Campbell
+2019,01/05,Franklin & Marshall Open,149,L,FALL,1:27,Will Kaldes,50123,Pittsburgh,Devin Rivet,56278,Campbell
+2019,01/05,Franklin & Marshall Open,149,L,DEC,3 - 1,Sam Martino,45237,Virginia,Devin Rivet,56278,Campbell
+2019,01/01,Southern Scuffle,149,W,DEC,11 - 10,Frank Garcia,41394,Binghamton,Devin Rivet,56278,Campbell
+2019,01/01,Southern Scuffle,149,L,DEC,7 - 3,Douglas Gudenburr,45587,The Citadel,Devin Rivet,56278,Campbell
+2019,01/01,Southern Scuffle,149,L,FALL,6:59,Evan Fidelibus,44900,Rider,Devin Rivet,56278,Campbell
+2019,01/01,Southern Scuffle,149,W,MFOR,0 - 0,Mason Hulse,57109,Northern Colorado,Devin Rivet,56278,Campbell
+2019,11/18,Wolfpack Open,149,W,DEC,8 - 1,Tony Negron,58308,Wolfpack Wrestling Club,Devin Rivet,56278,Campbell
+2019,11/18,Wolfpack Open,149,W,DEC,9 - 7,Taylor Parks,51306,Gardner-Webb,Devin Rivet,56278,Campbell
+2019,11/18,Wolfpack Open,149,L,DEC,2 - 1,Sam Martino,45237,Virginia,Devin Rivet,56278,Campbell
+2019,11/18,Wolfpack Open,149,W,DEC,5 - 2,Brenden Ryan,42872,Virginia Tech,Devin Rivet,56278,Campbell
+2019,11/18,Wolfpack Open,149,L,MD,11 - 2,Zach Shareef,39565,Chattanooga,Devin Rivet,56278,Campbell
+2019,11/11,Pembroke Classic,149,W,DEC,11 - 6,Chris Hudgens,58896,Spartanburg Methodist College,Devin Rivet,56278,Campbell
+2019,11/11,Pembroke Classic,149,W,DEC,3 - 1,Douglas Gudenburr,45587,The Citadel,Devin Rivet,56278,Campbell
+2019,11/11,Pembroke Classic,149,L,DQ,0 - 0,Douglas Gudenburr,45587,The Citadel,Devin Rivet,56278,Campbell
+2019,11/11,Pembroke Classic,149,W,FALL,3:28,Brandon Harris,51980,Spartanburg Methodist College,Devin Rivet,56278,Campbell
+2019,11/11,Pembroke Classic,149,L,DEC,7 - 1,Denton Spencer,49134,Virginia,Devin Rivet,56278,Campbell
+2019,11/04,Hokie Open,149,W,DEC,5 - 3,Tony Negron,58308,Wolfpack Wrestling Club,Devin Rivet,56278,Campbell
+2019,11/04,Hokie Open,149,W,TF5,20 - 4 5:35,DeAndre Jackson,58307,Bluefield College,Devin Rivet,56278,Campbell
+2019,11/04,Hokie Open,149,W,DEC,8 - 3,Joey Perez,57830,UNC Pembroke,Devin Rivet,56278,Campbell
+2019,11/04,Hokie Open,149,L,MD,17 - 6,Caden Darber,50898,Virginia Tech,Devin Rivet,56278,Campbell
+2019,11/04,Hokie Open,149,L,DEC,6 - 5,Josh Baier,50897,Virginia Tech,Devin Rivet,56278,Campbell
+2019,01/26,Appalachian Open,149,L,MD,13 - 4,Caden Darber,50898,Virginia Tech,Bobby Pryhocki,50956,Campbell
+2019,01/26,Appalachian Open,149,L,FALL,2:22,John Millner,50212,Appalachian State,Bobby Pryhocki,50956,Campbell
+2019,11/18,Wolfpack Open,149,W,SV-1,4 - 2,Will Baldwin,50967,Davidson,Bobby Pryhocki,50956,Campbell
+2019,11/18,Wolfpack Open,149,L,MD,16 - 2,Douglas Gudenburr,45587,The Citadel,Bobby Pryhocki,50956,Campbell
+2019,11/11,Pembroke Classic,149,W,MD,15 - 3,Chris Hudgens,58896,Spartanburg Methodist College,Bobby Pryhocki,50956,Campbell
+2019,11/11,Pembroke Classic,149,L,FALL,1:06,Douglas Gudenburr,45587,The Citadel,Bobby Pryhocki,50956,Campbell
+2019,11/11,Pembroke Classic,149,W,DEC,6 - 2,Joey Perez,57830,UNC Pembroke,Bobby Pryhocki,50956,Campbell
+2019,11/11,Pembroke Classic,149,L,FALL,0:30,Denton Spencer,49134,Virginia,Bobby Pryhocki,50956,Campbell
+2019,11/04,Hokie Open,149,L,DEC,10 - 4,Selwyn Porter,57380,The Citadel,Bobby Pryhocki,50956,Campbell
+2019,11/04,Hokie Open,149,W,DEC,5 - 2,Julio Alegria,56956,George Mason,Bobby Pryhocki,50956,Campbell
+2019,11/04,Hokie Open,149,W,MFOR,0 - 0,Phil Ruiz,51389,Limestone,Bobby Pryhocki,50956,Campbell
+2019,11/04,Hokie Open,149,L,FALL,2:02,Mason Wallace,49086,Chattanooga,Bobby Pryhocki,50956,Campbell
+2019,03/02,National Collegiate Open,149,L,DEC,12 - 7,Peter Tedesco,45135,Maryland,Troy Nation,57189,Campbell
+2019,03/02,National Collegiate Open,149,L,MD,18 - 7,Matthew Grippi,50662,NC State,Troy Nation,57189,Campbell
+2019,01/26,Appalachian Open,149,W,FALL,1:45,Dorian Baker,61207,Clemson,Troy Nation,57189,Campbell
+2019,01/26,Appalachian Open,149,L,FALL,1:42,Josiah Rider,54920,NC State,Troy Nation,57189,Campbell
+2019,01/26,Appalachian Open,149,W,FALL,5:40,Cody Bond,50267,Appalachian State,Troy Nation,57189,Campbell
+2019,01/26,Appalachian Open,149,L,DEC,6 - 3,Matthew Zovistoski,40049,Appalachian State,Troy Nation,57189,Campbell
+2019,01/05,Franklin & Marshall Open,149,L,MD,15 - 2,Josiah Rider,54920,NC State,Troy Nation,57189,Campbell
+2019,01/05,Franklin & Marshall Open,149,W,FALL,5:21,Mitchell Camp,46213,Kutztown,Troy Nation,57189,Campbell
+2019,01/05,Franklin & Marshall Open,149,L,DEC,17 - 16,Ryan Blees,20267,Virginia Tech,Troy Nation,57189,Campbell
+2019,01/01,Southern Scuffle,149,L,FALL,3:25,Jonathan Ross,44894,Lock Haven,Troy Nation,57189,Campbell
+2019,01/01,Southern Scuffle,149,L,MD,15 - 7,Tejon Anthony,19896,George Mason,Troy Nation,57189,Campbell
+2019,11/18,Wolfpack Open,149,W,TF5,18 - 0 5:41,Christopher Linker,57169,Gardner-Webb,Troy Nation,57189,Campbell
+2019,11/18,Wolfpack Open,149,W,TF5,15 - 0 5:27,Micah Marcin,52203,Queens,Troy Nation,57189,Campbell
+2019,11/18,Wolfpack Open,149,L,DEC,4 - 2,Sam Martino,45237,Virginia,Troy Nation,57189,Campbell
+2019,11/18,Wolfpack Open,149,L,DEC,10 - 4,Zach Shareef,39565,Chattanooga,Troy Nation,57189,Campbell
+2019,11/11,Pembroke Classic,149,W,DEC,8 - 2,Tony Negron,58308,Wolfpack Wrestling Club,Troy Nation,57189,Campbell
+2019,11/11,Pembroke Classic,149,W,TF5,16 - 0 3:53,Lucas Langford,58898,UNC Pembroke,Troy Nation,57189,Campbell
+2019,11/11,Pembroke Classic,149,W,FALL,4:01,Christopher Linker,57169,Gardner-Webb,Troy Nation,57189,Campbell
+2019,11/11,Pembroke Classic,149,L,FALL,1:33,Denton Spencer,49134,Virginia,Troy Nation,57189,Campbell
+2019,11/04,Hokie Open,149,W,DEC,8 - 6,Selwyn Porter,57380,The Citadel,Troy Nation,57189,Campbell
+2019,11/04,Hokie Open,149,W,DEC,6 - 3,Wyatt Sladek,57192,Campbell,Troy Nation,57189,Campbell
+2019,11/04,Hokie Open,149,W,TF5,16 - 0 3:36,Will Baldwin,50967,Davidson,Troy Nation,57189,Campbell
+2019,11/04,Hokie Open,149,L,TF5,18 - 1 4:47,Mason Wallace,49086,Chattanooga,Troy Nation,57189,Campbell
+2019,11/04,Hokie Open,149,L,DEC,10 - 4,Mason Wallace,49086,Chattanooga,Troy Nation,57189,Campbell
+2019,01/26,Appalachian Open,149,W,FALL,2:29,Alex Kho,61208,Clemson,Wyatt Sladek,57192,Campbell
+2019,01/26,Appalachian Open,149,L,MD,14 - 3,Tony Negron,58308,Wolfpack Wrestling Club,Wyatt Sladek,57192,Campbell
+2019,01/26,Appalachian Open,149,W,DEC,8 - 4,Eric Carter,51085,Duke,Wyatt Sladek,57192,Campbell
+2019,01/26,Appalachian Open,149,L,TF5,19 - 2 4:24,AJ Leitten,49221,NC State,Wyatt Sladek,57192,Campbell
+2019,01/05,Franklin & Marshall Open,149,W,DEC,4 - 1,Chris Hisey,57368,Navy,Wyatt Sladek,57192,Campbell
+2019,01/05,Franklin & Marshall Open,149,L,DEC,6 - 0,Joey Blumer,49278,Penn State,Wyatt Sladek,57192,Campbell
+2019,01/05,Franklin & Marshall Open,149,W,FALL,3:39,Adrian Nelson,45299,Sacred Heart,Wyatt Sladek,57192,Campbell
+2019,01/05,Franklin & Marshall Open,149,L,INJ,7:00,Aidan Conroy,39860,Davidson,Wyatt Sladek,57192,Campbell
+2019,01/01,Southern Scuffle,149,L,MD,14 - 6,Matthew Swanson,49887,Binghamton,Wyatt Sladek,57192,Campbell
+2019,01/01,Southern Scuffle,149,L,TF5,24 - 9 4:40,Jarod Verkleeren,49156,Penn State,Wyatt Sladek,57192,Campbell
+2019,11/18,Wolfpack Open,149,L,MD,18 - 5,Garrett Burnham,51168,Maryland,Wyatt Sladek,57192,Campbell
+2019,11/18,Wolfpack Open,149,L,TF5,15 - 0 5:42,Douglas Gudenburr,45587,The Citadel,Wyatt Sladek,57192,Campbell
+2019,11/11,Pembroke Classic,149,W,FALL,3:22,Shawn Scribner,58903,Unattached,Wyatt Sladek,57192,Campbell
+2019,11/11,Pembroke Classic,149,L,DEC,9 - 6,Tony Negron,58308,Wolfpack Wrestling Club,Wyatt Sladek,57192,Campbell
+2019,11/11,Pembroke Classic,149,W,DEC,10 - 6,Brandon Harris,51980,Spartanburg Methodist College,Wyatt Sladek,57192,Campbell
+2019,11/11,Pembroke Classic,149,L,DEC,4 - 0,Brandon Harris,51980,Spartanburg Methodist College,Wyatt Sladek,57192,Campbell
+2019,11/04,Hokie Open,149,L,DEC,6 - 3,Troy Nation,57189,Campbell,Wyatt Sladek,57192,Campbell
+2019,11/04,Hokie Open,149,L,MD,11 - 0,Alex Cruz,50942,Virginia,Wyatt Sladek,57192,Campbell
+2019,03/21,NCAA Championships,157,L,TF5,18 - 1 6:58,Logan Parks,40153,Central Michigan,Benjamin Barton,44733,Campbell
+2019,03/21,NCAA Championships,157,L,TF5,16 - 1 7:00,Tyler Berger,20096,Nebraska,Benjamin Barton,44733,Campbell
+2019,03/10,SoCon Championships,157,W,DEC,8 - 2,Angel Najar,40406,Appalachian State,Benjamin Barton,44733,Campbell
+2019,03/10,SoCon Championships,157,W,DEC,4 - 1,Tony Palumbo,40330,Davidson,Benjamin Barton,44733,Campbell
+2019,02/24,Davidson - Campbell Dual,157,W,FALL,2:46,Tony Palumbo,40330,Davidson,Benjamin Barton,44733,Campbell
+2019,02/16,VMI - Campbell Dual,157,W,FALL,6:18,Darren Ostrander,39982,VMI,Benjamin Barton,44733,Campbell
+2019,02/10,Campbell - Chattanooga Dual,157,L,DEC,7 - 6,Ryan Resnick,49092,Chattanooga,Benjamin Barton,44733,Campbell
+2019,02/05,Gardner-Webb - Campbell Dual,157,W,DEC,6 - 1,Evan Schenk,49136,Gardner-Webb,Benjamin Barton,44733,Campbell
+2019,02/03,Campbell - The Citadel Dual,157,W,MD,21 - 7,Rian Burris,45586,The Citadel,Benjamin Barton,44733,Campbell
+2019,01/26,Appalachian Open,157,W,DEC,6 - 0,Jake Hart,55793,Virginia Tech,Benjamin Barton,44733,Campbell
+2019,01/26,Appalachian Open,157,L,DEC,7 - 5,Evan Barczak,49122,Drexel,Benjamin Barton,44733,Campbell
+2019,01/26,Appalachian Open,157,W,DEC,8 - 4,Nick Vestal,44944,Ohio,Benjamin Barton,44733,Campbell
+2019,01/26,Appalachian Open,157,W,DEC,6 - 2,William Formato,57034,Appalachian State,Benjamin Barton,44733,Campbell
+2019,11/18,Wolfpack Open,157,L,FALL,0:12,Zach Barnes,49073,Campbell,Benjamin Barton,44733,Campbell
+2019,11/18,Wolfpack Open,157,W,MD,10 - 1,Ali Salem,58299,George Mason,Benjamin Barton,44733,Campbell
+2019,11/18,Wolfpack Open,157,L,DEC,6 - 3,Justin McCoy,50946,Virginia,Benjamin Barton,44733,Campbell
+2019,11/18,Wolfpack Open,157,W,DEC,7 - 3,Christian Beach,45407,Appalachian State,Benjamin Barton,44733,Campbell
+2019,03/02,National Collegiate Open,157,L,DEC,5 - 4,Micah Hoffman,58938,Spartan Combat RTC,Zach Barnes,49073,Campbell
+2019,03/02,National Collegiate Open,157,W,DEC,6 - 3,Joe Casey,51145,Rider,Zach Barnes,49073,Campbell
+2019,03/02,National Collegiate Open,157,L,DEC,4 - 0,Markus Hartman,50585,Army West Point,Zach Barnes,49073,Campbell
+2019,02/17,Last Chance Open,157,L,DEC,4 - 2,Nick Knutson,45598,North Dakota State,Zach Barnes,49073,Campbell
+2019,02/17,Last Chance Open,157,W,DEC,3 - 1,Grant Stotts,51284,Iowa State,Zach Barnes,49073,Campbell
+2019,01/26,Appalachian Open,157,W,FALL,2:24,Nick Stacy,61205,Clemson,Zach Barnes,49073,Campbell
+2019,01/26,Appalachian Open,157,W,TF5,18 - 2 2:56,Grant Speer,57381,The Citadel,Zach Barnes,49073,Campbell
+2019,01/26,Appalachian Open,157,L,DEC,8 - 3,Justin McCoy,50946,Virginia,Zach Barnes,49073,Campbell
+2019,01/26,Appalachian Open,157,L,DEC,11 - 5,Nick Vestal,44944,Ohio,Zach Barnes,49073,Campbell
+2019,01/05,Franklin & Marshall Open,157,W,FALL,2:00,Noah Chan,57227,Franklin & Marshall,Zach Barnes,49073,Campbell
+2019,01/05,Franklin & Marshall Open,157,W,TF5,18 - 1 7:00,Chris Richardson,51281,Delaware Valley,Zach Barnes,49073,Campbell
+2019,01/05,Franklin & Marshall Open,157,W,FALL,3:11,Chase DeMaille,51165,Maryland,Zach Barnes,49073,Campbell
+2019,01/05,Franklin & Marshall Open,157,W,MD,20 - 6,Scout Skidgel,44939,Navy,Zach Barnes,49073,Campbell
+2019,01/05,Franklin & Marshall Open,157,L,MD,14 - 6,Hunter Ladnier,44784,Harvard,Zach Barnes,49073,Campbell
+2019,01/05,Franklin & Marshall Open,157,W,FALL,3:21,Riley Barth,40348,Pittsburgh,Zach Barnes,49073,Campbell
+2019,12/29,Midlands Championships,157,L,DEC,5 - 0,Quincy Monday,53967,Princeton,Zach Barnes,49073,Campbell
+2019,12/29,Midlands Championships,157,L,MD,12 - 4,Brawley Lamer,50051,Cal Poly,Zach Barnes,49073,Campbell
+2019,11/18,Wolfpack Open,157,L,DEC,10 - 7,William Formato,57034,Appalachian State,Zach Barnes,49073,Campbell
+2019,11/18,Wolfpack Open,157,W,DEC,10 - 7,Jake Hart,55793,Virginia Tech,Zach Barnes,49073,Campbell
+2019,11/18,Wolfpack Open,157,L,DEC,8 - 3,Rian Burris,45586,The Citadel,Zach Barnes,49073,Campbell
+2019,11/18,Wolfpack Open,157,W,FALL,0:12,Benjamin Barton,44733,Campbell,Zach Barnes,49073,Campbell
+2019,11/18,Wolfpack Open,157,W,DEC,7 - 3,Tony Palumbo,40330,Davidson,Zach Barnes,49073,Campbell
+2019,11/11,Pembroke Classic,157,W,DEC,5 - 3,Allen Swanson,57730,Campbell,Zach Barnes,49073,Campbell
+2019,11/11,Pembroke Classic,157,W,SV-1,8 - 6,Sawyer Davidson,45233,North Carolina,Zach Barnes,49073,Campbell
+2019,11/11,Pembroke Classic,157,L,DEC,12 - 5,Sawyer Davidson,45233,North Carolina,Zach Barnes,49073,Campbell
+2019,11/11,Pembroke Classic,157,L,DEC,5 - 2,Tyler Makosy,44452,UNC Pembroke,Zach Barnes,49073,Campbell
+2019,11/04,Hokie Open,157,W,FALL,3:35,Joseph MacLean,51318,VMI,Zach Barnes,49073,Campbell
+2019,11/04,Hokie Open,157,W,DEC,3 - 2,Hunter Jones,45169,West Virginia,Zach Barnes,49073,Campbell
+2019,11/04,Hokie Open,157,W,DEC,6 - 5,Tyler Makosy,44452,UNC Pembroke,Zach Barnes,49073,Campbell
+2019,11/04,Hokie Open,157,L,MD,14 - 1,Jake Danishek,20520,Indiana,Zach Barnes,49073,Campbell
+2019,11/04,Hokie Open,157,W,FALL,4:06,Christian Beach,45407,Appalachian State,Zach Barnes,49073,Campbell
+2019,11/04,Hokie Open,157,L,FALL,0:30,Angel Najar,40406,Appalachian State,Zach Barnes,49073,Campbell
+2019,02/09,Newberry Open,165,L,MFOR,0 - 0,Liam Kirkpatrick,57424,Queens,Matthew Dallara,51712,Campbell
+2019,02/09,Newberry Open,165,L,MFOR,0 - 0,Louis Wilson,46069,Newberry,Matthew Dallara,51712,Campbell
+2019,01/20,Campbell - Appalachian State Dual,157,L,MD,10 - 2,Angel Najar,40406,Appalachian State,Matthew Dallara,51712,Campbell
+2019,01/12,Campbell - Franklin & Marshall Dual,157,L,DEC,8 - 6,Emmett LiCastri,45213,Franklin & Marshall,Matthew Dallara,51712,Campbell
+2019,01/05,Franklin & Marshall Open,157,L,DEC,11 - 10,Lucas Cordio,60677,Unattached,Matthew Dallara,51712,Campbell
+2019,01/05,Franklin & Marshall Open,157,W,MFOR,0 - 0,Alex Rivera,52120,Campbell,Matthew Dallara,51712,Campbell
+2019,01/05,Franklin & Marshall Open,157,L,DEC,6 - 0,Justin McCoy,50946,Virginia,Matthew Dallara,51712,Campbell
+2019,01/05,Franklin & Marshall Open,157,W,DEC,4 - 0,Aaron Kruk,44797,Harvard,Matthew Dallara,51712,Campbell
+2019,12/29,Midlands Championships,157,L,DEC,5 - 1,Keone Derain,60605,Elmhurst,Matthew Dallara,51712,Campbell
+2019,12/29,Midlands Championships,157,L,DEC,9 - 7,Jahi Jones,41460,Maryland,Matthew Dallara,51712,Campbell
+2019,11/30,Cliff Keen Invitational,157,W,MD,12 - 4,Spencer Heywood,50977,Utah Valley,Matthew Dallara,51712,Campbell
+2019,11/30,Cliff Keen Invitational,157,L,FALL,6:11,Logan Parks,40153,Central Michigan,Matthew Dallara,51712,Campbell
+2019,11/30,Cliff Keen Invitational,157,L,FALL,3:31,Dewey Krueger,40144,Wyoming,Matthew Dallara,51712,Campbell
+2019,11/17,Navy Classic,157,W,DEC,13 - 6,Joseph Andrassy,57240,Kent State,Matthew Dallara,51712,Campbell
+2019,11/17,Navy Classic,157,L,DEC,5 - 1,Nick Vestal,44944,Ohio,Matthew Dallara,51712,Campbell
+2019,11/17,Navy Classic,157,L,DEC,5 - 0,Jacob Tucker,44639,Michigan State,Matthew Dallara,51712,Campbell
+2019,11/10,Ohio - Campbell Dual,157,L,DEC,6 - 3,Nick Vestal,44944,Ohio,Matthew Dallara,51712,Campbell
+2019,11/04,Hokie Open,157,W,DEC,7 - 2,Sawyer Davidson,45233,North Carolina,Matthew Dallara,51712,Campbell
+2019,11/04,Hokie Open,157,L,DEC,8 - 5,Hunter Jones,45169,West Virginia,Matthew Dallara,51712,Campbell
+2019,11/04,Hokie Open,157,L,FALL,0:40,Zachary Moore,39678,West Virginia,Matthew Dallara,51712,Campbell
+2019,11/18,Wolfpack Open,157,L,DEC,12 - 8,Allen Swanson,57730,Campbell,Oszkar Kasch,51592,Campbell
+2019,11/18,Wolfpack Open,157,W,FALL,3:23,Cole Burke,57379,The Citadel,Oszkar Kasch,51592,Campbell
+2019,11/18,Wolfpack Open,157,W,MFOR,0 - 0,Albert Rechenmacher,45104,North Carolina,Oszkar Kasch,51592,Campbell
+2019,11/18,Wolfpack Open,157,L,TF5,18 - 0 1:39,Adam Whitesell,20016,Maryland,Oszkar Kasch,51592,Campbell
+2019,11/11,Pembroke Classic,157,W,FALL,1:36,Sebastian Collazo,57377,The Citadel,Oszkar Kasch,51592,Campbell
+2019,11/11,Pembroke Classic,157,L,DEC,6 - 2,Sawyer Davidson,45233,North Carolina,Oszkar Kasch,51592,Campbell
+2019,11/11,Pembroke Classic,157,L,DEC,8 - 1,Tyler Makosy,44452,UNC Pembroke,Oszkar Kasch,51592,Campbell
+2019,11/04,Hokie Open,157,W,TF5,16 - 0 2:25,Ali Salem,58299,George Mason,Oszkar Kasch,51592,Campbell
+2019,11/04,Hokie Open,157,L,MD,20 - 8,Kolby Ho,55945,George Mason,Oszkar Kasch,51592,Campbell
+2019,11/04,Hokie Open,157,W,FALL,6:39,Jake Hart,55793,Virginia Tech,Oszkar Kasch,51592,Campbell
+2019,11/04,Hokie Open,157,L,DEC,5 - 2,William Formato,57034,Appalachian State,Oszkar Kasch,51592,Campbell
+2019,01/26,Appalachian Open,157,L,DEC,7 - 3,William Formato,57034,Appalachian State,Alex Rivera,52120,Campbell
+2019,01/26,Appalachian Open,157,L,FALL,5:13,Christian Beach,45407,Appalachian State,Alex Rivera,52120,Campbell
+2019,01/05,Franklin & Marshall Open,157,L,MFOR,0 - 0,Matthew Dallara,51712,Campbell,Alex Rivera,52120,Campbell
+2019,01/05,Franklin & Marshall Open,157,L,DEC,8 - 5,Hunter Jones,45169,West Virginia,Alex Rivera,52120,Campbell
+2019,01/01,Southern Scuffle,157,L,DEC,9 - 3,Zac Carson,39692,Ohio,Alex Rivera,52120,Campbell
+2019,01/01,Southern Scuffle,157,L,DEC,2 - 1,Evan Schenk,49136,Gardner-Webb,Alex Rivera,52120,Campbell
+2019,11/04,Hokie Open,157,W,FALL,6:22,Grant Speer,57381,The Citadel,Alex Rivera,52120,Campbell
+2019,11/04,Hokie Open,157,L,FALL,6:33,Jake Hart,55793,Virginia Tech,Alex Rivera,52120,Campbell
+2019,11/04,Hokie Open,157,W,DEC,8 - 7,Kevin Almond,51302,Emmanuel,Alex Rivera,52120,Campbell
+2019,11/04,Hokie Open,157,L,DEC,5 - 3,Ryan Resnick,49092,Chattanooga,Alex Rivera,52120,Campbell
+2019,03/10,SoCon Championships,165,L,MD,15 - 6,Dazjon Casto,57183,The Citadel,Cameron Pine,57196,Campbell
+2019,03/10,SoCon Championships,165,L,MD,15 - 3,Dazjon Casto,57183,The Citadel,Cameron Pine,57196,Campbell
+2019,03/10,SoCon Championships,165,W,DEC,6 - 3,Hunter Costa,45247,Davidson,Cameron Pine,57196,Campbell
+2019,02/24,Davidson - Campbell Dual,165,W,DEC,6 - 0,Hunter Costa,45247,Davidson,Cameron Pine,57196,Campbell
+2019,02/16,VMI - Campbell Dual,165,W,MD,10 - 2,Luke Nicksic,57295,VMI,Cameron Pine,57196,Campbell
+2019,02/10,Campbell - Chattanooga Dual,165,L,DEC,3 - 2,Drew Nicholson,49091,Chattanooga,Cameron Pine,57196,Campbell
+2019,02/05,Gardner-Webb - Campbell Dual,165,L,MD,9 - 1,Tyler Marinelli,20797,Gardner-Webb,Cameron Pine,57196,Campbell
+2019,02/03,Campbell - The Citadel Dual,165,L,DEC,6 - 4,Dazjon Casto,57183,The Citadel,Cameron Pine,57196,Campbell
+2019,01/26,Appalachian Open,165,W,DEC,6 - 2,Krystian Kinsey,57061,Virginia,Cameron Pine,57196,Campbell
+2019,01/26,Appalachian Open,165,W,DEC,7 - 3,Joey Mazzara,54232,North Carolina,Cameron Pine,57196,Campbell
+2019,01/26,Appalachian Open,165,W,DEC,4 - 2,Riley Smucker,56147,Appalachian State,Cameron Pine,57196,Campbell
+2019,01/26,Appalachian Open,165,L,DEC,11 - 7,Carl Guess,44907,Appalachian State,Cameron Pine,57196,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,TF5,19 - 3 7:00,Cole Painter,57256,American,Cameron Pine,57196,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,MD,10 - 1,Jake Marsh,51129,Princeton,Cameron Pine,57196,Campbell
+2019,01/05,Franklin & Marshall Open,165,L,SV-1,10 - 8,Dale Tiongson,49295,Princeton,Cameron Pine,57196,Campbell
+2019,01/05,Franklin & Marshall Open,165,L,MD,10 - 2,Rick Durso,48392,Malvern Wrestling Club,Cameron Pine,57196,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,FALL,3:57,Michael O'Brien,46220,Kutztown,Cameron Pine,57196,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,SV-1,7 - 5,Carl Guess,44907,Appalachian State,Cameron Pine,57196,Campbell
+2019,01/01,Southern Scuffle,165,L,DEC,11 - 5,Colt Yinger,50607,Ohio,Cameron Pine,57196,Campbell
+2019,01/01,Southern Scuffle,165,L,FALL,7:00,Michael Elliott,40404,Appalachian State,Cameron Pine,57196,Campbell
+2019,11/30,Cliff Keen Invitational,165,W,FALL,4:13,Maliik Marcin,51088,Duke,Cameron Pine,57196,Campbell
+2019,11/30,Cliff Keen Invitational,165,L,MD,11 - 2,Kaleb Romero,49252,Ohio State,Cameron Pine,57196,Campbell
+2019,11/30,Cliff Keen Invitational,165,L,MD,10 - 0,Josh McClure,44697,North Carolina,Cameron Pine,57196,Campbell
+2019,11/17,Navy Classic,165,L,DEC,8 - 5,Gary Ritchie,40448,Michigan State,Cameron Pine,57196,Campbell
+2019,11/17,Navy Classic,165,L,FALL,4:08,Colston DiBlasi,39718,George Mason,Cameron Pine,57196,Campbell
+2019,11/17,Navy Classic,165,W,FALL,1:32,Bryce Dempsey,51011,American,Cameron Pine,57196,Campbell
+2019,11/10,Ohio - Campbell Dual,165,L,MD,16 - 6,Colt Yinger,50607,Ohio,Cameron Pine,57196,Campbell
+2019,11/04,Hokie Open,165,L,DEC,10 - 4,Mekhi Lewis,49338,Virginia Tech,Cameron Pine,57196,Campbell
+2019,11/04,Hokie Open,165,W,FALL,2:57,Bret Shurina,46496,Coker,Cameron Pine,57196,Campbell
+2019,11/04,Hokie Open,165,W,FALL,2:40,William MacDonald,44798,North Carolina,Cameron Pine,57196,Campbell
+2019,11/04,Hokie Open,165,L,DEC,8 - 3,Josh McClure,44697,North Carolina,Cameron Pine,57196,Campbell
+2019,11/04,Hokie Open,165,W,DEC,9 - 8,Rodney Shepard,14784,UNC Pembroke,Cameron Pine,57196,Campbell
+2019,01/26,Appalachian Open,165,W,MD,11 - 1,William Lawrence,49340,VMI,Mason Smith,39789,Campbell
+2019,01/26,Appalachian Open,165,W,MD,14 - 2,Joey Mazzara,54232,North Carolina,Mason Smith,39789,Campbell
+2019,01/26,Appalachian Open,165,L,MD,10 - 2,Tyler Marinelli,20797,Gardner-Webb,Mason Smith,39789,Campbell
+2019,01/26,Appalachian Open,165,W,TF5,16 - 0 2:03,Michael Ferree,56368,Campbell,Mason Smith,39789,Campbell
+2019,01/20,Campbell - Appalachian State Dual,165,L,TB-1,9 - 5,Michael Elliott,40404,Appalachian State,Austin Murphy,51608,Campbell
+2019,01/12,Campbell - Franklin & Marshall Dual,165,W,TF5,17 - 1 5:29,Jacob Conners,19887,Franklin & Marshall,Austin Murphy,51608,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,FALL,0:55,Cade Hepner,49269,Ohio State,Austin Murphy,51608,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,MFOR,0 - 0,Michael Ferree,56368,Campbell,Austin Murphy,51608,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,FALL,1:59,William Schmidt,49605,Sacred Heart,Austin Murphy,51608,Campbell
+2019,01/05,Franklin & Marshall Open,165,L,FALL,6:40,Dale Tiongson,49295,Princeton,Austin Murphy,51608,Campbell
+2019,01/05,Franklin & Marshall Open,165,L,MD,19 - 5,Shane Ruhnke,24247,Millersville,Austin Murphy,51608,Campbell
+2019,12/29,Midlands Championships,165,L,DEC,6 - 1,Kenny Moore,46406,Northern Illinois,Austin Murphy,51608,Campbell
+2019,12/29,Midlands Championships,165,L,DEC,3 - 2,Logan Peterson,20374,South Dakota State,Austin Murphy,51608,Campbell
+2019,12/29,Midlands Championships,165,W,FALL,4:37,Harlan Steffensmeier,54231,Air Force,Austin Murphy,51608,Campbell
+2019,11/17,Navy Classic,165,W,FALL,0:51,Austin Hiles,44866,Michigan State,Austin Murphy,51608,Campbell
+2019,11/17,Navy Classic,165,L,FALL,6:55,John Vaughn,40905,Cleveland State,Austin Murphy,51608,Campbell
+2019,11/17,Navy Classic,165,W,MD,9 - 1,John Weiss,20790,Campbell,Austin Murphy,51608,Campbell
+2019,11/17,Navy Classic,165,L,DEC,2 - 1,Jack Mulay,49063,Bucknell,Austin Murphy,51608,Campbell
+2019,11/04,Hokie Open,165,W,TF5,16 - 1 6:28,Maliik Marcin,51088,Duke,Austin Murphy,51608,Campbell
+2019,11/04,Hokie Open,165,W,MFOR,0 - 0,Charlie Andrews,44940,Campbell,Austin Murphy,51608,Campbell
+2019,11/04,Hokie Open,165,L,DEC,8 - 6,Rodney Shepard,14784,UNC Pembroke,Austin Murphy,51608,Campbell
+2019,11/04,Hokie Open,165,W,DEC,5 - 3,Carl Guess,44907,Appalachian State,Austin Murphy,51608,Campbell
+2019,11/04,Hokie Open,165,L,DEC,3 - 1,Michael Elliott,40404,Appalachian State,Austin Murphy,51608,Campbell
+2019,02/24,Davidson - Campbell Dual,174,W,DEC,4 - 3,Noah Satterfield,44861,Davidson,John Weiss,20790,Campbell
+2019,01/26,Appalachian Open,174,L,DEC,11 - 9,Mason Eaglin,57137,Duke,John Weiss,20790,Campbell
+2019,01/26,Appalachian Open,174,L,DEC,3 - 0,Rodrick Mosley,50889,Gardner-Webb,John Weiss,20790,Campbell
+2019,01/26,Appalachian Open,174,W,DEC,5 - 4,Drew Peck,49055,Virginia,John Weiss,20790,Campbell
+2019,11/17,Navy Classic,165,L,MD,9 - 1,Austin Murphy,51608,Campbell,John Weiss,20790,Campbell
+2019,11/17,Navy Classic,165,W,DEC,4 - 2,Dillon Taylor,49202,Navy,John Weiss,20790,Campbell
+2019,11/17,Navy Classic,165,L,DEC,11 - 4,Anthony Wokasch,44729,American,John Weiss,20790,Campbell
+2019,11/04,Hokie Open,165,L,SV-1,6 - 4,Matthew Rodriquez-Kirkland,58309,Limestone,John Weiss,20790,Campbell
+2019,11/04,Hokie Open,165,L,DEC,6 - 2,Maliik Marcin,51088,Duke,John Weiss,20790,Campbell
+2019,03/02,National Collegiate Open,165,W,MFOR,0 - 0,Andrew Merola,50667,Spartan Combat RTC,Michael Ferree,56368,Campbell
+2019,03/02,National Collegiate Open,165,L,FALL,3:35,Jacob Garcia,50888,Air Force Prep,Michael Ferree,56368,Campbell
+2019,03/02,National Collegiate Open,165,L,FALL,1:10,Owen Brown,50437,Army West Point,Michael Ferree,56368,Campbell
+2019,01/26,Appalachian Open,165,L,TF5,16 - 0 2:03,Mason Smith,39789,Campbell,Michael Ferree,56368,Campbell
+2019,01/26,Appalachian Open,165,W,FALL,3:08,Trey Watson,42896,Chattanooga,Michael Ferree,56368,Campbell
+2019,01/26,Appalachian Open,165,W,DEC,6 - 5,Riley Smucker,56147,Appalachian State,Michael Ferree,56368,Campbell
+2019,01/26,Appalachian Open,165,L,DEC,11 - 8,Carl Guess,44907,Appalachian State,Michael Ferree,56368,Campbell
+2019,01/05,Franklin & Marshall Open,165,L,MFOR,0 - 0,Austin Murphy,51608,Campbell,Michael Ferree,56368,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,FALL,2:33,Aurelius Dunbar,60678,Mercersburg Academy,Michael Ferree,56368,Campbell
+2019,01/05,Franklin & Marshall Open,165,L,DEC,7 - 4,Timothy Fitzpatrick,57254,American,Michael Ferree,56368,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,DEC,5 - 2,Larry Brown,50242,Lock Haven,Michael Ferree,56368,Campbell
+2019,01/01,Southern Scuffle,165,L,FALL,2:07,Vincenzo Joseph,39542,Penn State,Michael Ferree,56368,Campbell
+2019,01/01,Southern Scuffle,165,L,FALL,0:37,Billy Higgins,50623,Northern Colorado,Michael Ferree,56368,Campbell
+2019,11/18,Wolfpack Open,165,L,DEC,5 - 4,Jack Bond,56516,Old Dominion,Michael Ferree,56368,Campbell
+2019,11/18,Wolfpack Open,165,W,DEC,10 - 6,Alex Faison,56428,NC State,Michael Ferree,56368,Campbell
+2019,11/18,Wolfpack Open,165,L,MD,15 - 5,Kellen Ekern,51041,Old Dominion,Michael Ferree,56368,Campbell
+2019,11/11,Pembroke Classic,165,W,DEC,7 - 2,Christian Trimble,56524,Gardner-Webb,Michael Ferree,56368,Campbell
+2019,11/11,Pembroke Classic,165,W,DEC,5 - 3,Christian Trimble,56524,Gardner-Webb,Michael Ferree,56368,Campbell
+2019,11/11,Pembroke Classic,165,L,DEC,8 - 5,Riley Smucker,56147,Appalachian State,Michael Ferree,56368,Campbell
+2019,11/11,Pembroke Classic,165,W,TF5,17 - 2 5:44,Chase Payne,52011,St Andrews,Michael Ferree,56368,Campbell
+2019,11/11,Pembroke Classic,165,W,DEC,4 - 3,Rodrick Mosley,50889,Gardner-Webb,Michael Ferree,56368,Campbell
+2019,11/04,Hokie Open,165,W,FALL,4:49,Billy Christie,58302,Newberry,Michael Ferree,56368,Campbell
+2019,11/04,Hokie Open,165,L,FALL,0:45,Garrett Beam,58300,Limestone,Michael Ferree,56368,Campbell
+2019,11/04,Hokie Open,165,W,DEC,11 - 6,Jordan Florence,58288,Unattached,Michael Ferree,56368,Campbell
+2019,11/04,Hokie Open,165,W,MD,19 - 7,Luke Nicksic,57295,VMI,Michael Ferree,56368,Campbell
+2019,11/04,Hokie Open,165,L,DEC,13 - 8,Tyler Barnes,50663,NC State,Michael Ferree,56368,Campbell
+2019,02/03,Campbell - The Citadel Dual,174,W,MD,8 - 0,Cooper Youngblood,57376,The Citadel,Charlie Andrews,44940,Campbell
+2019,01/26,Appalachian Open,174,W,FALL,5:30,Cooper Youngblood,57376,The Citadel,Charlie Andrews,44940,Campbell
+2019,01/26,Appalachian Open,174,L,FALL,2:01,Logan Stanley,56204,Ohio,Charlie Andrews,44940,Campbell
+2019,01/26,Appalachian Open,174,L,DEC,6 - 1,Joseph Accousti,49034,Appalachian State,Charlie Andrews,44940,Campbell
+2019,01/05,Franklin & Marshall Open,174,L,DEC,5 - 3,Caleb Hopkins,56482,Campbell,Charlie Andrews,44940,Campbell
+2019,01/05,Franklin & Marshall Open,174,W,DEC,3 - 1,Malik Jackson,60673,Millersville,Charlie Andrews,44940,Campbell
+2019,01/05,Franklin & Marshall Open,174,W,MFOR,0 - 0,Shae Bloom,56809,Clarion,Charlie Andrews,44940,Campbell
+2019,01/05,Franklin & Marshall Open,174,L,DEC,8 - 2,Christos Avgeros,56787,Old Dominion,Charlie Andrews,44940,Campbell
+2019,01/05,Franklin & Marshall Open,174,W,DEC,5 - 1,Tommy O'Brien,49289,Pittsburgh,Charlie Andrews,44940,Campbell
+2019,11/30,Cliff Keen Invitational,184,L,TF5,16 - 1 3:00,Max Dean,46025,Cornell,Charlie Andrews,44940,Campbell
+2019,11/30,Cliff Keen Invitational,184,L,FALL,1:52,Jordan Atienza,19747,Central Michigan,Charlie Andrews,44940,Campbell
+2019,11/04,Hokie Open,165,L,MFOR,0 - 0,Austin Murphy,51608,Campbell,Charlie Andrews,44940,Campbell
+2019,11/04,Hokie Open,165,L,MFOR,0 - 0,Nick Kiussis,49345,West Virginia,Charlie Andrews,44940,Campbell
+2019,01/05,Franklin & Marshall Open,165,L,DEC,6 - 3,Alex Faison,56428,NC State,Allen Swanson,57730,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,INJ,7:00,Michael O'Brien,46220,Kutztown,Allen Swanson,57730,Campbell
+2019,01/05,Franklin & Marshall Open,165,L,MD,15 - 3,Brandon Levesque,40048,Sacred Heart,Allen Swanson,57730,Campbell
+2019,01/01,Southern Scuffle,165,L,TF5,15 - 0 6:02,Jesse Dellavecchia,39574,Rider,Allen Swanson,57730,Campbell
+2019,01/01,Southern Scuffle,165,L,DEC,7 - 4,Macoy Flanagan,44926,Northern Colorado,Allen Swanson,57730,Campbell
+2019,11/18,Wolfpack Open,157,W,FALL,1:10,Grant Speer,57381,The Citadel,Allen Swanson,57730,Campbell
+2019,11/18,Wolfpack Open,157,W,FALL,6:22,Michael Goldfeder,57128,North Carolina,Allen Swanson,57730,Campbell
+2019,11/18,Wolfpack Open,157,L,DEC,3 - 0,William Formato,57034,Appalachian State,Allen Swanson,57730,Campbell
+2019,11/18,Wolfpack Open,157,W,DEC,12 - 8,Oszkar Kasch,51592,Campbell,Allen Swanson,57730,Campbell
+2019,11/18,Wolfpack Open,157,W,DEC,7 - 4,Cole Smith,50659,Old Dominion,Allen Swanson,57730,Campbell
+2019,11/18,Wolfpack Open,157,L,DEC,15 - 8,Jake Keating,50315,Virginia,Allen Swanson,57730,Campbell
+2019,11/11,Pembroke Classic,157,L,DEC,5 - 3,Zach Barnes,49073,Campbell,Allen Swanson,57730,Campbell
+2019,11/11,Pembroke Classic,157,W,FALL,2:17,Jerry Begera,58890,Central Florida,Allen Swanson,57730,Campbell
+2019,11/11,Pembroke Classic,157,W,DEC,8 - 2,Andrew Capul,58331,UNC Pembroke,Allen Swanson,57730,Campbell
+2019,11/11,Pembroke Classic,157,W,DEC,9 - 6,Kaleb Warner,53359,UNC Pembroke,Allen Swanson,57730,Campbell
+2019,11/11,Pembroke Classic,157,L,SV-1,4 - 2,Christian Beach,45407,Appalachian State,Allen Swanson,57730,Campbell
+2019,11/11,Pembroke Classic,157,L,DEC,9 - 2,Christian Beach,45407,Appalachian State,Allen Swanson,57730,Campbell
+2019,11/04,Hokie Open,157,W,FALL,0:40,Sebastian Collazo,57377,The Citadel,Allen Swanson,57730,Campbell
+2019,11/04,Hokie Open,157,W,MFOR,0 - 0,Michael Goldfeder,57128,North Carolina,Allen Swanson,57730,Campbell
+2019,11/04,Hokie Open,157,L,DQ,0 - 0,Justin McCoy,50946,Virginia,Allen Swanson,57730,Campbell
+2019,11/04,Hokie Open,157,L,DEC,4 - 3,Ryan Resnick,49092,Chattanooga,Allen Swanson,57730,Campbell
+2019,03/21,NCAA Championships,174,L,DEC,9 - 5,Brandon Womack,40379,Cornell,Andrew Morgan,40250,Campbell
+2019,03/21,NCAA Championships,174,W,DEC,8 - 4,Travis Stefanik,49301,Princeton,Andrew Morgan,40250,Campbell
+2019,03/21,NCAA Championships,174,L,DEC,4 - 0,Ryan Christensen,20481,Wisconsin,Andrew Morgan,40250,Campbell
+2019,03/10,SoCon Championships,174,W,DEC,8 - 3,Thomas Flitz,45410,Appalachian State,Andrew Morgan,40250,Campbell
+2019,03/10,SoCon Championships,174,L,MD,16 - 6,Neal Richards,39991,VMI,Andrew Morgan,40250,Campbell
+2019,03/10,SoCon Championships,174,W,FALL,2:05,Kyle Kretzer,57184,The Citadel,Andrew Morgan,40250,Campbell
+2019,02/16,VMI - Campbell Dual,174,L,DEC,14 - 7,Neal Richards,39991,VMI,Andrew Morgan,40250,Campbell
+2019,02/10,Campbell - Chattanooga Dual,174,W,DEC,9 - 4,Hunter Fortner,50952,Chattanooga,Andrew Morgan,40250,Campbell
+2019,02/05,Gardner-Webb - Campbell Dual,174,W,DEC,6 - 2,Kyle Homet,57168,Gardner-Webb,Andrew Morgan,40250,Campbell
+2019,01/20,Campbell - Appalachian State Dual,174,W,MD,15 - 4,Thomas Flitz,45410,Appalachian State,Andrew Morgan,40250,Campbell
+2019,01/12,Campbell - Franklin & Marshall Dual,174,W,FALL,3:26,Christopher Bolletino,54922,Franklin & Marshall,Andrew Morgan,40250,Campbell
+2019,12/29,Midlands Championships,174,W,MFOR,0 - 0,Caleb Hopkins,56482,Campbell,Andrew Morgan,40250,Campbell
+2019,12/29,Midlands Championships,174,L,DEC,11 - 5,Brit Wilson,49235,Northern Illinois,Andrew Morgan,40250,Campbell
+2019,12/29,Midlands Championships,174,W,FALL,4:31,Dominic Kincaid,45678,Fresno State,Andrew Morgan,40250,Campbell
+2019,12/29,Midlands Championships,174,W,DEC,3 - 2,Carver James,39662,Illinois,Andrew Morgan,40250,Campbell
+2019,12/29,Midlands Championships,174,L,DEC,8 - 7,Josh Ugalde,39515,Maryland,Andrew Morgan,40250,Campbell
+2019,12/29,Midlands Championships,174,W,INJ,7:00,Ryan Christensen,20481,Wisconsin,Andrew Morgan,40250,Campbell
+2019,12/29,Midlands Championships,174,W,DEC,10 - 7,Mitch Bowman,19946,Iowa,Andrew Morgan,40250,Campbell
+2019,12/29,Midlands Championships,174,W,DEC,8 - 5,Ben Harvey,40935,Army West Point,Andrew Morgan,40250,Campbell
+2019,11/30,Cliff Keen Invitational,174,W,DEC,13 - 11,Anthony Mantanona,49258,Oklahoma,Andrew Morgan,40250,Campbell
+2019,11/30,Cliff Keen Invitational,174,W,DEC,3 - 2,Joseph Grello,44858,Rutgers,Andrew Morgan,40250,Campbell
+2019,11/30,Cliff Keen Invitational,174,W,SV-1,6 - 4,Cody Hughes,39608,Virginia Tech,Andrew Morgan,40250,Campbell
+2019,11/30,Cliff Keen Invitational,174,L,DEC,10 - 4,Devin Skatzka,39603,Minnesota,Andrew Morgan,40250,Campbell
+2019,11/30,Cliff Keen Invitational,174,L,DEC,8 - 2,Myles Amine,39586,Michigan,Andrew Morgan,40250,Campbell
+2019,11/30,Cliff Keen Invitational,174,W,MD,12 - 4,Rico Stormer,19921,Stanford,Andrew Morgan,40250,Campbell
+2019,11/17,Navy Classic,174,W,FALL,3:18,Logan Stanley,56204,Ohio,Andrew Morgan,40250,Campbell
+2019,11/17,Navy Classic,174,W,DEC,4 - 0,Dillon Hoey,50239,Indiana,Andrew Morgan,40250,Campbell
+2019,11/17,Navy Classic,174,W,DEC,12 - 6,Jacob Oliver,49130,Edinboro,Andrew Morgan,40250,Campbell
+2019,11/17,Navy Classic,174,W,DEC,4 - 3,Nick Stephani,40369,Bucknell,Andrew Morgan,40250,Campbell
+2019,11/17,Navy Classic,174,W,DEC,7 - 4,Bryce Rogers,49052,Unattached,Andrew Morgan,40250,Campbell
+2019,11/10,Ohio - Campbell Dual,174,W,MD,8 - 0,Joseph Terry,45561,Ohio,Andrew Morgan,40250,Campbell
+2019,11/04,Hokie Open,174,L,MD,12 - 4,Clay Lautt,49212,North Carolina,Andrew Morgan,40250,Campbell
+2019,11/04,Hokie Open,174,L,DEC,8 - 2,Matt Finesilver,47770,Duke,Andrew Morgan,40250,Campbell
+2019,11/04,Hokie Open,174,W,DEC,3 - 2,Elijah Kerr-Brown,40327,North Carolina,Andrew Morgan,40250,Campbell
+2019,11/04,Hokie Open,174,W,DEC,5 - 2,Neal Richards,39991,VMI,Andrew Morgan,40250,Campbell
+2019,03/02,National Collegiate Open,174,W,TF5,18 - 2 3:37,Jackson Nevadomski,58153,Davenport,Quentin Perez,40421,Campbell
+2019,03/02,National Collegiate Open,174,W,DEC,5 - 1,Michael O'Malley,50836,Drexel,Quentin Perez,40421,Campbell
+2019,03/02,National Collegiate Open,174,W,TF5,16 - 1 5:59,Drew Peck,49055,Virginia,Quentin Perez,40421,Campbell
+2019,03/02,National Collegiate Open,174,W,TF5,15 - 0 3:11,Brad Laughlin,51265,Army West Point,Quentin Perez,40421,Campbell
+2019,01/26,Appalachian Open,174,W,TF5,18 - 3 2:14,Logan Stanley,56204,Ohio,Quentin Perez,40421,Campbell
+2019,01/26,Appalachian Open,174,W,TF5,24 - 5 2:44,Grant Jefferson,55411,North Carolina,Quentin Perez,40421,Campbell
+2019,01/26,Appalachian Open,174,W,DEC,7 - 6,Clay Lautt,49212,North Carolina,Quentin Perez,40421,Campbell
+2019,01/26,Appalachian Open,174,W,DEC,11 - 6,Thomas Flitz,45410,Appalachian State,Quentin Perez,40421,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,FALL,0:33,Alex Faison,56428,NC State,Quentin Perez,40421,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,TF5,21 - 5 7:00,Jordan Florence,52574,Virginia Tech,Quentin Perez,40421,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,TF5,18 - 3 7:00,Dale Tiongson,49295,Princeton,Quentin Perez,40421,Campbell
+2019,01/05,Franklin & Marshall Open,165,L,TF5,17 - 2 7:00,Rick Durso,48392,Malvern Wrestling Club,Quentin Perez,40421,Campbell
+2019,01/05,Franklin & Marshall Open,165,W,MFOR,0 - 0,Ebed Jarrell,40311,Drexel,Quentin Perez,40421,Campbell
+2019,12/29,Midlands Championships,165,W,MD,12 - 1,Kenny O'Neil,51243,South Dakota State,Quentin Perez,40421,Campbell
+2019,12/29,Midlands Championships,165,W,MD,12 - 2,Joshua Kim,51200,Harvard,Quentin Perez,40421,Campbell
+2019,12/29,Midlands Championships,165,L,DEC,9 - 6,Caden McWhirter,40016,Northern Illinois,Quentin Perez,40421,Campbell
+2019,12/29,Midlands Championships,165,W,DEC,8 - 7,Shane Jones,39984,Old Dominion,Quentin Perez,40421,Campbell
+2019,12/29,Midlands Championships,165,L,DEC,7 - 5,Tyler Tarsi,19922,Harvard,Quentin Perez,40421,Campbell
+2019,11/18,Wolfpack Open,174,W,TF5,16 - 1 2:31,Lance Andriani,59625,Unattached,Quentin Perez,40421,Campbell
+2019,11/18,Wolfpack Open,174,W,FALL,0:39,Garrett Beam,58300,Limestone,Quentin Perez,40421,Campbell
+2019,11/18,Wolfpack Open,174,W,TF5,19 - 1 4:26,Barrett Blakely,54239,Appalachian State,Quentin Perez,40421,Campbell
+2019,11/18,Wolfpack Open,174,L,MD,13 - 5,Trent Hidlay,51224,NC State,Quentin Perez,40421,Campbell
+2019,11/18,Wolfpack Open,174,W,TF5,19 - 4 3:36,Erik Eva,51189,Davidson,Quentin Perez,40421,Campbell
+2019,11/11,Pembroke Classic,174,W,TF5,22 - 6 5:27,Jack Hicks,57831,UNC Pembroke,Quentin Perez,40421,Campbell
+2019,11/11,Pembroke Classic,174,W,TF5,15 - 0 5:35,Caleb Hopkins,56482,Campbell,Quentin Perez,40421,Campbell
+2019,11/11,Pembroke Classic,174,W,TF5,18 - 0 3:56,Barrett Blakely,54239,Appalachian State,Quentin Perez,40421,Campbell
+2019,11/11,Pembroke Classic,174,W,TF5,18 - 3 4:21,Darian Edwards,51977,UNC Pembroke,Quentin Perez,40421,Campbell
+2019,11/04,Hokie Open,174,W,TF5,22 - 7 6:37,Anthony Collins,44444,Limestone,Quentin Perez,40421,Campbell
+2019,11/04,Hokie Open,174,W,MD,14 - 4,Clay Lautt,49212,North Carolina,Quentin Perez,40421,Campbell
+2019,11/04,Hokie Open,174,L,DEC,7 - 3,Clay Lautt,49212,North Carolina,Quentin Perez,40421,Campbell
+2019,11/04,Hokie Open,174,L,DEC,7 - 5,Devin Kane,44607,North Carolina,Quentin Perez,40421,Campbell
+2019,11/04,Hokie Open,174,W,DEC,6 - 2,Neal Richards,39991,VMI,Quentin Perez,40421,Campbell
+2019,03/02,National Collegiate Open,174,L,DEC,9 - 6,Thomas Poklikuha,61797,Unattached,Caleb Hopkins,56482,Campbell
+2019,03/02,National Collegiate Open,174,L,TF5,15 - 0 4:41,Brian Krasowski,44804,Pennsylvania,Caleb Hopkins,56482,Campbell
+2019,03/02,National Collegiate Open,174,W,DEC,6 - 2,Bryce Buckley,49895,Cal Baptist,Caleb Hopkins,56482,Campbell
+2019,01/26,Appalachian Open,174,L,DEC,9 - 5,Cody Hughes,39608,Virginia Tech,Caleb Hopkins,56482,Campbell
+2019,01/26,Appalachian Open,174,L,DEC,7 - 4,Barrett Blakely,54239,Appalachian State,Caleb Hopkins,56482,Campbell
+2019,01/05,Franklin & Marshall Open,174,W,DEC,9 - 2,Gary Eakin,60679,Unattached,Caleb Hopkins,56482,Campbell
+2019,01/05,Franklin & Marshall Open,174,W,MD,9 - 1,Kyle Hillermeier,58159,Delaware Valley,Caleb Hopkins,56482,Campbell
+2019,01/05,Franklin & Marshall Open,174,L,DEC,8 - 2,Shae Bloom,56809,Clarion,Caleb Hopkins,56482,Campbell
+2019,01/05,Franklin & Marshall Open,174,W,FALL,0:40,Grant Jefferson,55411,North Carolina,Caleb Hopkins,56482,Campbell
+2019,01/05,Franklin & Marshall Open,174,W,DEC,5 - 3,Charlie Andrews,44940,Campbell,Caleb Hopkins,56482,Campbell
+2019,01/05,Franklin & Marshall Open,174,W,DEC,8 - 4,Joseph Accousti,49034,Appalachian State,Caleb Hopkins,56482,Campbell
+2019,12/29,Midlands Championships,174,L,MFOR,0 - 0,Andrew Morgan,40250,Campbell,Caleb Hopkins,56482,Campbell
+2019,12/29,Midlands Championships,174,W,FALL,5:55,DJ Shannon,51137,Unattached,Caleb Hopkins,56482,Campbell
+2019,12/29,Midlands Championships,174,W,FALL,4:08,Jake DiBenedetto,50125,Illinois,Caleb Hopkins,56482,Campbell
+2019,12/29,Midlands Championships,174,L,FALL,4:02,Zahid Valencia,39501,Arizona State,Caleb Hopkins,56482,Campbell
+2019,12/20,Reno Tournament of Champions,174,L,DEC,7 - 2,Abner Romero,46088,Fresno City College,Caleb Hopkins,56482,Campbell
+2019,12/20,Reno Tournament of Champions,174,W,FALL,1:10,Adrian Rodriguez,58997,Southwestern Oregon Community College,Caleb Hopkins,56482,Campbell
+2019,12/20,Reno Tournament of Champions,174,W,FALL,2:06,Noe Garcia,45322,CSU Bakersfield,Caleb Hopkins,56482,Campbell
+2019,12/20,Reno Tournament of Champions,174,L,SV-1,6 - 4,Christian Bahl,49262,Oklahoma State,Caleb Hopkins,56482,Campbell
+2019,11/18,Wolfpack Open,174,W,FALL,6:41,Lance Andriani,59625,Unattached,Caleb Hopkins,56482,Campbell
+2019,11/18,Wolfpack Open,174,W,DEC,2 - 0,Ryan Karoly,52833,North Carolina,Caleb Hopkins,56482,Campbell
+2019,11/18,Wolfpack Open,174,W,FALL,2:11,Ethan Hoffman,51346,North Carolina,Caleb Hopkins,56482,Campbell
+2019,11/18,Wolfpack Open,174,L,DEC,9 - 5,Tommy O'Brien,49289,Pittsburgh,Caleb Hopkins,56482,Campbell
+2019,11/18,Wolfpack Open,174,L,DEC,4 - 3,Drew Peck,49055,Virginia,Caleb Hopkins,56482,Campbell
+2019,11/11,Pembroke Classic,174,L,TF5,15 - 0 5:35,Quentin Perez,40421,Campbell,Caleb Hopkins,56482,Campbell
+2019,11/11,Pembroke Classic,174,W,FALL,0:21,Emanuel Diaz,58894,Central Florida,Caleb Hopkins,56482,Campbell
+2019,11/11,Pembroke Classic,174,W,FALL,0:47,Clay Lautt,49212,North Carolina,Caleb Hopkins,56482,Campbell
+2019,11/04,Hokie Open,174,W,FALL,2:14,Myles Williams,57819,Emmanuel,Caleb Hopkins,56482,Campbell
+2019,11/04,Hokie Open,174,W,FALL,1:44,Cooper Youngblood,57376,The Citadel,Caleb Hopkins,56482,Campbell
+2019,11/04,Hokie Open,174,W,FALL,2:37,Josh Ramirez,57158,West Virginia,Caleb Hopkins,56482,Campbell
+2019,11/04,Hokie Open,174,L,MD,14 - 3,Trent Hidlay,51224,NC State,Caleb Hopkins,56482,Campbell
+2019,11/04,Hokie Open,174,W,DEC,2 - 1,Dillon Hoey,50239,Indiana,Caleb Hopkins,56482,Campbell
+2019,03/21,NCAA Championships,184,L,DEC,10 - 3,Dom Ducharme,45323,CSU Bakersfield,Chris Kober,50022,Campbell
+2019,03/21,NCAA Championships,184,L,MD,9 - 0,Bob Coleman,45118,Oregon State,Chris Kober,50022,Campbell
+2019,03/10,SoCon Championships,184,W,DEC,13 - 6,Dominic Lampe,39819,Chattanooga,Chris Kober,50022,Campbell
+2019,03/10,SoCon Championships,184,W,DEC,4 - 3,Alan Clothier,45412,Appalachian State,Chris Kober,50022,Campbell
+2019,03/10,SoCon Championships,184,W,FALL,0:30,Nathaniel Kale,45577,Gardner-Webb,Chris Kober,50022,Campbell
+2019,02/24,Davidson - Campbell Dual,184,W,DEC,7 - 2,Conor Fenn,45250,Davidson,Chris Kober,50022,Campbell
+2019,02/16,VMI - Campbell Dual,184,W,MD,11 - 3,Max Gallahan,45422,VMI,Chris Kober,50022,Campbell
+2019,02/10,Campbell - Chattanooga Dual,184,W,DEC,9 - 6,Dominic Lampe,39819,Chattanooga,Chris Kober,50022,Campbell
+2019,02/03,Campbell - The Citadel Dual,184,W,FALL,4:17,Martin Duane,45583,The Citadel,Chris Kober,50022,Campbell
+2019,01/20,Campbell - Appalachian State Dual,184,L,TB-1,5 - 4,Alan Clothier,45412,Appalachian State,Chris Kober,50022,Campbell
+2019,01/12,Campbell - Franklin & Marshall Dual,184,W,DEC,11 - 5,Reid Robilotto,45211,Franklin & Marshall,Chris Kober,50022,Campbell
+2019,01/05,Franklin & Marshall Open,184,W,MD,23 - 11,Austin Stith,61206,Presbyterian,Chris Kober,50022,Campbell
+2019,01/05,Franklin & Marshall Open,184,W,INJ,7:00,Ryan Kokawski,56074,Millersville,Chris Kober,50022,Campbell
+2019,01/05,Franklin & Marshall Open,184,W,DEC,11 - 5,David Crawford,51042,Pittsburgh,Chris Kober,50022,Campbell
+2019,01/05,Franklin & Marshall Open,184,L,FALL,5:32,Kyle Davis,50453,Sacred Heart,Chris Kober,50022,Campbell
+2019,01/05,Franklin & Marshall Open,184,L,DEC,8 - 2,Jacob Ferreira,56807,Bucknell,Chris Kober,50022,Campbell
+2019,12/29,Midlands Championships,184,W,DEC,5 - 2,Samuel Grove,49320,South Dakota State,Chris Kober,50022,Campbell
+2019,12/29,Midlands Championships,184,L,MD,11 - 2,Thomas Penola,57105,Purdue,Chris Kober,50022,Campbell
+2019,12/29,Midlands Championships,184,W,DEC,6 - 4,Austin Andres,57007,SIU Edwardsville,Chris Kober,50022,Campbell
+2019,12/29,Midlands Championships,184,W,INJ,7:00,Jack Jessen,50838,Northwestern,Chris Kober,50022,Campbell
+2019,12/29,Midlands Championships,184,L,DEC,7 - 3,Kendall Elfstrum,49299,Princeton,Chris Kober,50022,Campbell
+2019,11/17,Navy Classic,184,L,DEC,10 - 5,Bob Coleman,45118,Oregon State,Chris Kober,50022,Campbell
+2019,11/17,Navy Classic,184,L,FALL,4:30,Andrew McNally,44610,Kent State,Chris Kober,50022,Campbell
+2019,11/17,Navy Classic,184,W,FALL,3:39,David Furmato,42278,Delaware Valley,Chris Kober,50022,Campbell
+2019,11/10,Ohio - Campbell Dual,184,W,DEC,8 - 6,Hunter Yeargan,45564,Ohio,Chris Kober,50022,Campbell
+2019,11/04,Hokie Open,184,W,FALL,3:00,Hunter Queen,49219,North Carolina,Chris Kober,50022,Campbell
+2019,11/04,Hokie Open,184,L,MD,14 - 3,Kaden Russell,49124,Duke,Chris Kober,50022,Campbell
+2019,11/04,Hokie Open,184,W,DEC,3 - 2,Norman Conley,39929,Indiana,Chris Kober,50022,Campbell
+2019,11/04,Hokie Open,184,W,MFOR,0 - 0,Dominic Lampe,39819,Chattanooga,Chris Kober,50022,Campbell
+2019,01/26,Appalachian Open,184,W,FALL,3:31,Cole Maddox,57197,Campbell,Bradley Skinner,39844,Campbell
+2019,01/26,Appalachian Open,184,L,FALL,1:26,Jake Walker,45563,Ohio,Bradley Skinner,39844,Campbell
+2019,01/26,Appalachian Open,184,L,SV-1,7 - 5,Jack Walsh,44951,Virginia,Bradley Skinner,39844,Campbell
+2019,01/26,Appalachian Open,184,W,DEC,4 - 1,Ramon Rodriguez,51993,Appalachian State,Bradley Skinner,39844,Campbell
+2019,11/18,Wolfpack Open,184,L,DEC,7 - 2,Kenneth Prince,58314,Limestone,Bradley Skinner,39844,Campbell
+2019,11/18,Wolfpack Open,184,L,FALL,2:26,Conor Fenn,45250,Davidson,Bradley Skinner,39844,Campbell
+2019,01/26,Appalachian Open,184,L,FALL,3:31,Bradley Skinner,39844,Campbell,Cole Maddox,57197,Campbell
+2019,01/26,Appalachian Open,184,L,TF5,22 - 7 7:00,Trent Hidlay,51224,NC State,Cole Maddox,57197,Campbell
+2019,01/05,Franklin & Marshall Open,184,W,MFOR,0 - 0,Anthony Emig,58725,Kutztown,Cole Maddox,57197,Campbell
+2019,01/05,Franklin & Marshall Open,184,W,DEC,9 - 3,Chris Mittler,58161,Delaware Valley,Cole Maddox,57197,Campbell
+2019,01/05,Franklin & Marshall Open,184,W,FALL,1:51,Reece Muldoon,51830,Millersville,Cole Maddox,57197,Campbell
+2019,01/05,Franklin & Marshall Open,184,L,FALL,4:20,Kyle Davis,50453,Sacred Heart,Cole Maddox,57197,Campbell
+2019,01/05,Franklin & Marshall Open,184,L,DEC,9 - 4,Jacob Ferreira,56807,Bucknell,Cole Maddox,57197,Campbell
+2019,01/01,Southern Scuffle,184,W,FALL,1:40,Jacob Fereday,56921,Chattanooga,Cole Maddox,57197,Campbell
+2019,01/01,Southern Scuffle,184,L,FALL,1:22,Samuel Colbray,44873,Iowa State,Cole Maddox,57197,Campbell
+2019,01/01,Southern Scuffle,184,L,DEC,8 - 2,Colbey Harlan,51159,Stanford,Cole Maddox,57197,Campbell
+2019,11/18,Wolfpack Open,184,W,FALL,3:43,Jacob Fereday,56921,Chattanooga,Cole Maddox,57197,Campbell
+2019,11/18,Wolfpack Open,184,L,MD,18 - 5,Dominic Lampe,39819,Chattanooga,Cole Maddox,57197,Campbell
+2019,11/18,Wolfpack Open,184,L,FALL,4:15,Roderick Davis,39752,NC State,Cole Maddox,57197,Campbell
+2019,11/11,Pembroke Classic,184,L,MD,20 - 6,Jarrod Smiley,58904,Central Florida,Cole Maddox,57197,Campbell
+2019,11/11,Pembroke Classic,184,W,TF5,17 - 2 3:37,Ernesto Valentin,57834,UNC Pembroke,Cole Maddox,57197,Campbell
+2019,11/11,Pembroke Classic,184,W,INJ,7:00,Darrien Stutz,57833,UNC Pembroke,Cole Maddox,57197,Campbell
+2019,11/11,Pembroke Classic,184,W,FALL,2:53,Hunter Strickland,57832,UNC Pembroke,Cole Maddox,57197,Campbell
+2019,11/11,Pembroke Classic,184,W,MFOR,0 - 0,Garrett Church,45411,Appalachian State,Cole Maddox,57197,Campbell
+2019,11/11,Pembroke Classic,184,L,MD,12 - 2,Brandon Sloop,44458,UNC Pembroke,Cole Maddox,57197,Campbell
+2019,11/04,Hokie Open,184,L,DEC,6 - 2,Samuel Fisher,58305,Farmingdale State College,Cole Maddox,57197,Campbell
+2019,11/04,Hokie Open,184,W,FALL,3:49,Jacob Booth,58301,Bluefield College,Cole Maddox,57197,Campbell
+2019,11/04,Hokie Open,184,L,MD,13 - 4,D'Angelo DeWitt,57933,Virginia Tech,Cole Maddox,57197,Campbell
+2019,11/04,Hokie Open,184,W,DEC,7 - 4,Spencer Irick,45355,Indiana,Cole Maddox,57197,Campbell
+2019,03/10,SoCon Championships,197,L,DEC,5 - 4,Rodney Jones,40212,Chattanooga,Austin McNeil,40431,Campbell
+2019,03/10,SoCon Championships,197,L,DEC,11 - 5,Rodney Jones,40212,Chattanooga,Austin McNeil,40431,Campbell
+2019,03/10,SoCon Championships,197,W,DEC,6 - 4,Anthony Perrine,49135,Gardner-Webb,Austin McNeil,40431,Campbell
+2019,02/24,Davidson - Campbell Dual,197,W,FALL,2:04,Finlay Holston,57215,Davidson,Austin McNeil,40431,Campbell
+2019,02/16,VMI - Campbell Dual,197,W,DEC,3 - 1,Christopher Beck,45424,VMI,Austin McNeil,40431,Campbell
+2019,02/10,Campbell - Chattanooga Dual,197,L,DEC,6 - 5,Rodney Jones,40212,Chattanooga,Austin McNeil,40431,Campbell
+2019,02/05,Gardner-Webb - Campbell Dual,197,W,MD,10 - 2,Jack Trautman,57165,Gardner-Webb,Austin McNeil,40431,Campbell
+2019,02/03,Campbell - The Citadel Dual,197,L,DEC,3 - 1,Sawyer Root,39846,The Citadel,Austin McNeil,40431,Campbell
+2019,01/20,Campbell - Appalachian State Dual,197,L,DEC,3 - 1,Randall Diabe,40409,Appalachian State,Austin McNeil,40431,Campbell
+2019,01/12,Campbell - Franklin & Marshall Dual,197,W,DEC,10 - 6,Phillip Robilotto,12411,Franklin & Marshall,Austin McNeil,40431,Campbell
+2019,01/05,Franklin & Marshall Open,197,W,DEC,3 - 0,Alex Donahue,54386,George Mason,Austin McNeil,40431,Campbell
+2019,01/05,Franklin & Marshall Open,197,L,TF5,16 - 1 7:00,Michael Beard,50614,Unattached,Austin McNeil,40431,Campbell
+2019,01/05,Franklin & Marshall Open,197,L,DEC,13 - 6,Brandon Whitman,50602,North Carolina,Austin McNeil,40431,Campbell
+2019,01/05,Franklin & Marshall Open,197,W,DEC,2 - 0,Colton Dull,43163,Millersville,Austin McNeil,40431,Campbell
+2019,01/05,Franklin & Marshall Open,197,W,DEC,9 - 3,Alexander Melikian,45021,Binghamton,Austin McNeil,40431,Campbell
+2019,12/29,Midlands Championships,197,L,DEC,7 - 5,Josh Hokit,44586,Fresno State,Austin McNeil,40431,Campbell
+2019,12/29,Midlands Championships,197,L,MD,12 - 2,Andre Lee,19938,Illinois,Austin McNeil,40431,Campbell
+2019,11/30,Cliff Keen Invitational,197,L,DEC,3 - 1,Izaak Shedenhelm,48351,Northern Iowa,Austin McNeil,40431,Campbell
+2019,11/30,Cliff Keen Invitational,197,L,MD,15 - 4,Eric Schultz,44853,Nebraska,Austin McNeil,40431,Campbell
+2019,11/17,Navy Classic,197,L,TF5,17 - 2 3:55,Nick May,44742,Michigan State,Austin McNeil,40431,Campbell
+2019,11/17,Navy Classic,197,L,DEC,8 - 2,Drew Phipps,45224,Bucknell,Austin McNeil,40431,Campbell
+2019,11/17,Navy Classic,197,W,DEC,5 - 3,Joseph Scott,45069,Bucknell,Austin McNeil,40431,Campbell
+2019,11/17,Navy Classic,197,W,DEC,4 - 0,Sage Mosco,57252,American,Austin McNeil,40431,Campbell
+2019,11/10,Ohio - Campbell Dual,197,W,DEC,5 - 3,Aaron Naples,51351,Ohio,Austin McNeil,40431,Campbell
+2019,11/04,Hokie Open,197,L,FALL,5:29,Drake Pauwels,56416,Campbell,Austin McNeil,40431,Campbell
+2019,11/04,Hokie Open,197,W,SV-1,7 - 5,Alec Schenk,19869,Duke,Austin McNeil,40431,Campbell
+2019,11/04,Hokie Open,197,L,MD,10 - 2,Randall Diabe,40409,Appalachian State,Austin McNeil,40431,Campbell
+2019,11/04,Hokie Open,197,L,DEC,1 - 0,Mark Chaid,51294,North Carolina,Drake Pauwels,56416,Campbell
+2019,11/04,Hokie Open,197,W,FALL,5:29,Austin McNeil,40431,Campbell,Drake Pauwels,56416,Campbell
+2019,11/04,Hokie Open,197,L,DEC,5 - 4,Rodney Jones,40212,Chattanooga,Drake Pauwels,56416,Campbell
+2019,11/04,Hokie Open,197,W,DEC,6 - 3,Paul Carson,51334,Appalachian State,Drake Pauwels,56416,Campbell
+2019,01/26,Appalachian Open,197,L,TF5,20 - 5 5:07,Dakota Howard,51202,Virginia Tech,Brandon Skinner,39843,Campbell
+2019,01/26,Appalachian Open,197,L,MD,9 - 1,Matthew Rudy,42003,Limestone,Brandon Skinner,39843,Campbell
+2019,01/26,Appalachian Open,197,W,FALL,1:30,Nate Hall,41646,Ohio,Brandon Skinner,39843,Campbell
+2019,11/18,Wolfpack Open,197,L,DEC,9 - 3,Paul Carson,51334,Appalachian State,Brandon Skinner,39843,Campbell
+2019,11/18,Wolfpack Open,197,L,FALL,2:36,Noah Bushman,49266,Old Dominion,Brandon Skinner,39843,Campbell
+2019,11/11,Pembroke Classic,197,W,FALL,5:58,Cooper Kaminsky,58897,Spartanburg Methodist College,Brandon Skinner,39843,Campbell
+2019,11/11,Pembroke Classic,197,W,FALL,0:40,Mason Fiscella,57035,Appalachian State,Brandon Skinner,39843,Campbell
+2019,11/11,Pembroke Classic,197,L,FALL,2:19,Paul Carson,51334,Appalachian State,Brandon Skinner,39843,Campbell
+2019,11/11,Pembroke Classic,197,W,DEC,6 - 4,Zack Willard,45413,Appalachian State,Brandon Skinner,39843,Campbell
+2019,11/04,Hokie Open,197,L,TF5,16 - 1 1:49,Tyler Love,43203,Virginia,Brandon Skinner,39843,Campbell
+2019,11/04,Hokie Open,197,L,MD,11 - 2,Zack Willard,45413,Appalachian State,Brandon Skinner,39843,Campbell
+2019,01/26,Appalachian Open,197,W,FALL,0:55,Robert Tywater,51369,The Citadel,Marquis Cobbs,49817,Campbell
+2019,01/26,Appalachian Open,197,L,DEC,4 - 1,Mason Fiscella,57035,Appalachian State,Marquis Cobbs,49817,Campbell
+2019,01/26,Appalachian Open,197,L,MD,15 - 1,Paul Carson,51334,Appalachian State,Marquis Cobbs,49817,Campbell
+2019,01/05,Franklin & Marshall Open,197,L,FALL,2:16,Parker McClellan,56598,Lock Haven,Marquis Cobbs,49817,Campbell
+2019,01/05,Franklin & Marshall Open,197,W,FALL,2:56,Lachlan Rosato,51609,Davidson,Marquis Cobbs,49817,Campbell
+2019,01/05,Franklin & Marshall Open,197,L,DEC,7 - 0,Tucker Ziegler,39913,Brown,Marquis Cobbs,49817,Campbell
+2019,11/18,Wolfpack Open,197,W,FALL,0:41,Jake Johnson,56922,Chattanooga,Marquis Cobbs,49817,Campbell
+2019,11/18,Wolfpack Open,197,W,DEC,10 - 5,Lachlan Rosato,51609,Davidson,Marquis Cobbs,49817,Campbell
+2019,11/18,Wolfpack Open,197,L,MD,12 - 3,Tyler Love,43203,Virginia,Marquis Cobbs,49817,Campbell
+2019,11/18,Wolfpack Open,197,L,MD,10 - 2,Rodney Jones,40212,Chattanooga,Marquis Cobbs,49817,Campbell
+2019,11/11,Pembroke Classic,197,W,DEC,8 - 1,Cooper Kaminsky,58897,Spartanburg Methodist College,Marquis Cobbs,49817,Campbell
+2019,11/11,Pembroke Classic,197,W,FALL,2:13,Jordan Consillio,58893,Central Florida,Marquis Cobbs,49817,Campbell
+2019,11/11,Pembroke Classic,197,L,DEC,7 - 2,Mason Fiscella,57035,Appalachian State,Marquis Cobbs,49817,Campbell
+2019,11/11,Pembroke Classic,197,L,DEC,6 - 2,Zack Willard,45413,Appalachian State,Marquis Cobbs,49817,Campbell
+2019,11/04,Hokie Open,197,W,FALL,5:59,Cole Haile,58306,Newberry,Marquis Cobbs,49817,Campbell
+2019,11/04,Hokie Open,197,L,DEC,7 - 5,Andrew Colborn,51370,UNC Pembroke,Marquis Cobbs,49817,Campbell
+2019,11/04,Hokie Open,197,L,TB-2,7 - 5,Mason Fiscella,57035,Appalachian State,Marquis Cobbs,49817,Campbell
+2019,03/10,SoCon Championships,285,W,MD,21 - 9,Connor Tolley,19780,Chattanooga,Odgerek Batkhishig,46249,Campbell
+2019,03/10,SoCon Championships,285,L,DEC,8 - 1,Cary Miller,39976,Appalachian State,Odgerek Batkhishig,46249,Campbell
+2019,03/10,SoCon Championships,285,W,FALL,1:22,Jack Trautman,57165,Gardner-Webb,Odgerek Batkhishig,46249,Campbell
+2019,02/24,Davidson - Campbell Dual,285,W,MD,12 - 2,Mitchell Trigg,56339,Davidson,Odgerek Batkhishig,46249,Campbell
+2019,02/16,VMI - Campbell Dual,285,W,DEC,11 - 5,Trey Momon,56578,VMI,Odgerek Batkhishig,46249,Campbell
+2019,02/10,Campbell - Chattanooga Dual,285,L,DEC,7 - 4,Connor Tolley,19780,Chattanooga,Odgerek Batkhishig,46249,Campbell
+2019,02/05,Gardner-Webb - Campbell Dual,285,W,FALL,6:32,Jeffrey Linker,57166,Gardner-Webb,Odgerek Batkhishig,46249,Campbell
+2019,02/03,Campbell - The Citadel Dual,285,W,DEC,7 - 3,Michael McAleavey,45588,The Citadel,Odgerek Batkhishig,46249,Campbell
+2019,01/26,Appalachian Open,285,W,SV-1,4 - 2,Deonte Wilson,56403,NC State,Odgerek Batkhishig,46249,Campbell
+2019,01/26,Appalachian Open,285,W,DEC,4 - 2,Colin Lawler,54114,NC State,Odgerek Batkhishig,46249,Campbell
+2019,01/26,Appalachian Open,285,W,DEC,4 - 2,John Borst,49336,Virginia Tech,Odgerek Batkhishig,46249,Campbell
+2019,01/12,Campbell - Franklin & Marshall Dual,285,L,DEC,3 - 2,Antonio Pelusi,19894,Franklin & Marshall,Odgerek Batkhishig,46249,Campbell
+2019,01/05,Franklin & Marshall Open,285,W,DEC,3 - 2,Mitchell Trigg,56339,Davidson,Odgerek Batkhishig,46249,Campbell
+2019,01/05,Franklin & Marshall Open,285,W,MD,13 - 2,Zachary Knighton-Ward,53791,Hofstra,Odgerek Batkhishig,46249,Campbell
+2019,01/05,Franklin & Marshall Open,285,W,FALL,1:54,Cole Rickert,50864,Pittsburgh,Odgerek Batkhishig,46249,Campbell
+2019,01/05,Franklin & Marshall Open,285,L,MD,9 - 1,Seth Nevills,50625,High School,Odgerek Batkhishig,46249,Campbell
+2019,01/05,Franklin & Marshall Open,285,W,SV-1,3 - 1,Laith Alsous,50004,Campbell,Odgerek Batkhishig,46249,Campbell
+2019,01/05,Franklin & Marshall Open,285,W,FALL,3:36,John Barlow,42159,Kutztown,Odgerek Batkhishig,46249,Campbell
+2019,11/30,Cliff Keen Invitational,285,L,DEC,7 - 0,Tate Orndorff,50974,Utah Valley,Odgerek Batkhishig,46249,Campbell
+2019,11/30,Cliff Keen Invitational,285,L,DEC,5 - 2,Joey Goodhart,19849,Drexel,Odgerek Batkhishig,46249,Campbell
+2019,11/17,Navy Classic,285,W,FALL,6:53,Riley Smith,56459,Navy,Odgerek Batkhishig,46249,Campbell
+2019,11/17,Navy Classic,285,W,DEC,12 - 5,Billy Bolia,50176,Kent State,Odgerek Batkhishig,46249,Campbell
+2019,11/17,Navy Classic,285,W,DEC,5 - 2,Christian Rebottaro,44850,Michigan State,Odgerek Batkhishig,46249,Campbell
+2019,11/17,Navy Classic,285,L,DEC,3 - 2,Zack Parker,20235,Ohio,Odgerek Batkhishig,46249,Campbell
+2019,11/17,Navy Classic,285,W,MD,9 - 0,Nate Feyrer,50821,Bucknell,Odgerek Batkhishig,46249,Campbell
+2019,11/10,Ohio - Campbell Dual,285,L,DEC,9 - 6,Zack Parker,20235,Ohio,Odgerek Batkhishig,46249,Campbell
+2019,12/29,Midlands Championships,285,L,MFOR,0 - 0,Mason Parris,51176,Michigan,Jere Heino,40434,Campbell
+2019,12/29,Midlands Championships,285,W,MD,11 - 3,Anthony Cassioppi,50650,Iowa,Jere Heino,40434,Campbell
+2019,12/29,Midlands Championships,285,W,FALL,4:40,Alex Esposito,50637,Rutgers,Jere Heino,40434,Campbell
+2019,12/29,Midlands Championships,285,L,MFOR,0 - 0,AJ Nevills,47810,Fresno State,Jere Heino,40434,Campbell
+2019,12/29,Midlands Championships,285,W,DEC,7 - 5,Ian Butterbrodt,39770,Brown,Jere Heino,40434,Campbell
+2019,12/29,Midlands Championships,285,L,SV-1,3 - 1,Tanner Hall,40231,Arizona State,Jere Heino,40434,Campbell
+2019,01/20,Campbell - Appalachian State Dual,285,L,MD,11 - 3,Cary Miller,39976,Appalachian State,Laith Alsous,50004,Campbell
+2019,01/05,Franklin & Marshall Open,285,L,SV-1,3 - 1,Odgerek Batkhishig,46249,Campbell,Laith Alsous,50004,Campbell
+2019,01/05,Franklin & Marshall Open,285,W,FALL,4:51,Ramses Montalvo,55869,George Mason,Laith Alsous,50004,Campbell
+2019,01/05,Franklin & Marshall Open,285,W,FALL,1:27,Evan Callahan,50874,Harvard,Laith Alsous,50004,Campbell
+2019,01/05,Franklin & Marshall Open,285,L,DEC,4 - 2,Zach Bruce,20321,Pittsburgh,Laith Alsous,50004,Campbell
+2019,12/29,Midlands Championships,285,L,DEC,4 - 1,Trent Hillger,49350,Wisconsin,Laith Alsous,50004,Campbell
+2019,12/29,Midlands Championships,285,L,DEC,2 - 1,Blake Wolters,45289,South Dakota State,Laith Alsous,50004,Campbell
+2019,12/29,Midlands Championships,285,W,FALL,5:55,Antonio Pelusi,19894,Franklin & Marshall,Laith Alsous,50004,Campbell
+2019,11/17,Navy Classic,285,L,DEC,3 - 1,Zack Parker,20235,Ohio,Laith Alsous,50004,Campbell
+2019,11/17,Navy Classic,285,W,DEC,3 - 1,Ian Butterbrodt,39770,Brown,Laith Alsous,50004,Campbell
+2019,11/17,Navy Classic,285,W,DEC,3 - 1,Niko Camacho,49032,American,Laith Alsous,50004,Campbell
+2019,11/17,Navy Classic,285,W,FALL,4:31,Matt Wagner,40613,Air Force,Laith Alsous,50004,Campbell
+2019,11/04,Hokie Open,285,W,DEC,9 - 4,Michael McAleavey,45588,The Citadel,Laith Alsous,50004,Campbell
+2019,11/04,Hokie Open,285,L,DEC,2 - 1,Matthew Voss,19908,George Mason,Laith Alsous,50004,Campbell
+2019,11/04,Hokie Open,285,L,DEC,11 - 6,Connor Tolley,19780,Chattanooga,Laith Alsous,50004,Campbell
+2019,01/05,Franklin & Marshall Open,285,L,MD,8 - 0,Joshua Walls,56969,Millersville,Calvin Hayford,57198,Campbell
+2019,01/05,Franklin & Marshall Open,285,L,DEC,2 - 0,Dante DelBonis,56241,Sacred Heart,Calvin Hayford,57198,Campbell
+2019,11/11,Pembroke Classic,285,W,FALL,5:42,Zion Robinson-Kearse,58902,Spartanburg Methodist College,Calvin Hayford,57198,Campbell
+2019,11/11,Pembroke Classic,285,L,DEC,2 - 1,Jeffrey Linker,57166,Gardner-Webb,Calvin Hayford,57198,Campbell
+2019,11/11,Pembroke Classic,285,L,FALL,6:58,Keaton Kluever,50603,North Carolina,Calvin Hayford,57198,Campbell
+2019,11/04,Hokie Open,285,L,DEC,2 - 1,Dalton Haywood,58295,Coker,Calvin Hayford,57198,Campbell
+2019,11/04,Hokie Open,285,L,MD,15 - 7,Chris Vasquez,56604,King,Calvin Hayford,57198,Campbell

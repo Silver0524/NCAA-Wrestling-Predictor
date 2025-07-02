@@ -1,0 +1,810 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2020,03/07,MAC Championships,125,L,FALL,4:44,Luke Werner,50282,Lock Haven,Cameron Valdiviez,49029,Missouri
+2020,03/07,MAC Championships,125,W,FALL,1:17,Logan Heil,57515,Cleveland State,Cameron Valdiviez,49029,Missouri
+2020,03/07,MAC Championships,125,W,FALL,6:03,Bryce West,50039,Northern Illinois,Cameron Valdiviez,49029,Missouri
+2020,03/07,MAC Championships,125,W,TF5,16 - 0 5:09,Gage Datlovsky,45290,SIU Edwardsville,Cameron Valdiviez,49029,Missouri
+2020,03/07,MAC Championships,125,L,MD,11 - 2,Drew Hildebrandt,44818,Central Michigan,Cameron Valdiviez,49029,Missouri
+2020,02/22,Iowa State - Missouri Dual,125,L,DEC,9 - 5,Alex Mackall,44577,Iowa State,Cameron Valdiviez,49029,Missouri
+2020,02/12,Missouri - Southern Illinois Edwardsville Dual,125,W,FALL,0:47,Matt Malavsky,50962,SIU Edwardsville,Cameron Valdiviez,49029,Missouri
+2020,02/09,Arizona State - Missouri Dual,125,L,MD,17 - 6,Brandon Courtney,50881,Arizona State,Cameron Valdiviez,49029,Missouri
+2020,02/02,Oklahoma State - Missouri Dual,125,L,TF5,20 - 5 7:00,Nick Piccininni,39547,Oklahoma State,Cameron Valdiviez,49029,Missouri
+2020,01/25,Northern Illinois - Missouri Dual,125,W,FALL,3:43,Bryce West,50039,Northern Illinois,Cameron Valdiviez,49029,Missouri
+2020,01/25,Cleveland State - Missouri Dual,125,L,DEC,12 - 10,Logan Heil,57515,Cleveland State,Cameron Valdiviez,49029,Missouri
+2020,01/10,Ohio - Missouri Dual,133,W,DEC,8 - 2,Trevor Giallombardo,45033,Ohio,Cameron Valdiviez,49029,Missouri
+2020,12/29,South Beach College Individual,125,W,MD,12 - 2,Kahlen Morris,40278,South Dakota State,Cameron Valdiviez,49029,Missouri
+2020,12/29,South Beach College Individual,125,W,FALL,0:52,Ethan Curtin,45303,Michigan State,Cameron Valdiviez,49029,Missouri
+2020,12/29,Missouri - Wyoming Dual,133,L,MD,13 - 5,Montorie Bridges,44844,Wyoming,Cameron Valdiviez,49029,Missouri
+2020,12/29,Missouri - Old Dominion Dual,133,L,DEC,12 - 9,Shannon Hanna,57654,Old Dominion,Cameron Valdiviez,49029,Missouri
+2020,12/07,Cougar Clash,125,W,FALL,2:19,Reese Fry,56796,Brown,Cameron Valdiviez,49029,Missouri
+2020,12/07,Cougar Clash,125,L,MD,12 - 4,Julian Saldaña,46483,Michigan State,Cameron Valdiviez,49029,Missouri
+2020,12/07,Cougar Clash,125,L,MD,12 - 4,Trey Keeley,44696,Brown,Cameron Valdiviez,49029,Missouri
+2020,12/07,Cougar Clash,125,W,DEC,12 - 7,Gage Datlovsky,45290,SIU Edwardsville,Cameron Valdiviez,49029,Missouri
+2020,11/23,Lindenwood Open,125,W,MD,8 - 0,Matt Vinci,57087,Northwestern,Cameron Valdiviez,49029,Missouri
+2020,11/23,Lindenwood Open,125,W,DEC,5 - 0,Noah Surtin,56715,Missouri,Cameron Valdiviez,49029,Missouri
+2020,11/23,Lindenwood Open,125,W,MD,10 - 2,Cevion Severado,51610,Missouri,Cameron Valdiviez,49029,Missouri
+2020,11/23,Lindenwood Open,125,W,FALL,1:12,Corey Cabanban,57236,Iowa State,Cameron Valdiviez,49029,Missouri
+2020,11/23,Lindenwood Open,125,L,DEC,9 - 4,Corey Cabanban,57236,Iowa State,Cameron Valdiviez,49029,Missouri
+2020,11/21,Missouri Valley - Missouri Dual,125,W,DEC,7 - 0,Jacob Garrison,65034,Missouri Valley,Cameron Valdiviez,49029,Missouri
+2020,11/21,Central Missouri - Missouri Dual,133,W,FALL,3:51,John Feeney,48093,Central Missouri,Cameron Valdiviez,49029,Missouri
+2020,11/03,Southeast Open,125,W,FALL,4:59,Evan Carrigan,63515,Newberry,Cameron Valdiviez,49029,Missouri
+2020,11/03,Southeast Open,125,W,FALL,2:50,Robert Campos,47108,Notre Dame,Cameron Valdiviez,49029,Missouri
+2020,11/03,Southeast Open,125,L,DEC,9 - 5,Fabian Gutierrez,45245,Chattanooga,Cameron Valdiviez,49029,Missouri
+2020,11/03,Southeast Open,125,W,FALL,3:43,Korbin Meink,49074,Campbell,Cameron Valdiviez,49029,Missouri
+2020,11/03,Southeast Open,125,W,FALL,2:08,Paxton Rosen,49072,Campbell,Cameron Valdiviez,49029,Missouri
+2020,02/01,Missouri Valley Open,133,W,FALL,2:50,Hayden Williams,58779,Missouri Valley,Noah Surtin,56715,Missouri
+2020,02/01,Missouri Valley Open,133,L,DEC,4 - 3,Mikey Mascarenas,53303,Northeastern Oklahoma,Noah Surtin,56715,Missouri
+2020,02/01,Missouri Valley Open,133,W,TF5,19 - 2 7:00,Kalen Napier,62247,Lindenwood,Noah Surtin,56715,Missouri
+2020,02/01,Missouri Valley Open,133,W,FALL,1:01,Dy'juan Carney,42043,Fort Hays State,Noah Surtin,56715,Missouri
+2020,01/19,Roger Denker Open,125,W,FALL,2:39,Ray Hamilton,66432,Central Methodist,Noah Surtin,56715,Missouri
+2020,01/19,Roger Denker Open,125,W,TF5,16 - 0 7:00,Tommy Dineen,62937,SIU Edwardsville,Noah Surtin,56715,Missouri
+2020,01/19,Roger Denker Open,125,W,DEC,9 - 4,Cevion Severado,51610,Missouri,Noah Surtin,56715,Missouri
+2020,12/29,Midlands Championships,125,L,DEC,12 - 7,Sean Pierson,60443,Princeton,Noah Surtin,56715,Missouri
+2020,12/29,Midlands Championships,125,L,TF5,18 - 0 5:33,Patrick Glory,51100,Princeton,Noah Surtin,56715,Missouri
+2020,12/29,Midlands Championships,125,W,TF5,16 - 1 2:56,Tommy Dineen,62937,SIU Edwardsville,Noah Surtin,56715,Missouri
+2020,12/14,UNI Open,125,W,FALL,0:54,Corey Cabanban,57236,Iowa State,Noah Surtin,56715,Missouri
+2020,12/14,UNI Open,125,W,DEC,5 - 3,Cevion Severado,51610,Missouri,Noah Surtin,56715,Missouri
+2020,12/14,UNI Open,125,W,DEC,7 - 5,Kyle Biscoglia,51109,Northern Iowa,Noah Surtin,56715,Missouri
+2020,12/07,Drury Open,125,L,DEC,4 - 3,Cevion Severado,51610,Missouri,Noah Surtin,56715,Missouri
+2020,12/07,Drury Open,125,W,FALL,4:42,Gabe Eades,65162,Labette Community College,Noah Surtin,56715,Missouri
+2020,12/07,Drury Open,125,W,MD,9 - 0,Jacob Garrison,65034,Missouri Valley,Noah Surtin,56715,Missouri
+2020,12/07,Drury Open,125,W,TF5,20 - 2 7:00,Riley Weir,63837,Northeastern Oklahoma,Noah Surtin,56715,Missouri
+2020,12/07,Drury Open,125,W,TF5,19 - 0 7:00,Cody Hey,55336,Unattached,Noah Surtin,56715,Missouri
+2020,11/23,Lindenwood Open,125,L,DEC,5 - 0,Cameron Valdiviez,49029,Missouri,Noah Surtin,56715,Missouri
+2020,11/23,Lindenwood Open,125,W,MD,10 - 2,Dallas Wilson,52442,Oklahoma State,Noah Surtin,56715,Missouri
+2020,11/23,Lindenwood Open,125,L,DEC,3 - 1,Marcus Povlick,47368,McKendree University,Noah Surtin,56715,Missouri
+2020,11/09,Kaufman Brand Open,125,W,TF5,16 - 0 2:10,Carter Cox,64142,Cumberland,Noah Surtin,56715,Missouri
+2020,11/09,Kaufman Brand Open,125,W,DEC,8 - 2,Anthony Pisciotta,52536,Maryville University,Noah Surtin,56715,Missouri
+2020,11/09,Kaufman Brand Open,125,L,DEC,6 - 5,Tyler Kreith,51944,Maryville University,Noah Surtin,56715,Missouri
+2020,11/02,Central Methodist Open,125,W,FALL,6:27,Corwin Strachan,63747,Cowley College,Noah Surtin,56715,Missouri
+2020,11/02,Central Methodist Open,125,W,FALL,4:58,Blake Bills,58780,Missouri Valley,Noah Surtin,56715,Missouri
+2020,11/02,Central Methodist Open,125,W,MD,11 - 2,Taywone McNack,53049,Cowley College,Noah Surtin,56715,Missouri
+2020,02/12,Missouri - Southern Illinois Edwardsville Dual,133,W,TF5,22 - 7 5:52,Jacob Blaha,50963,SIU Edwardsville,Cevion Severado,51610,Missouri
+2020,02/01,Missouri Valley Open,125,W,TF5,24 - 9 7:00,Marcus Riedlinger,66663,William Penn,Cevion Severado,51610,Missouri
+2020,02/01,Missouri Valley Open,125,W,MD,12 - 1,Nadhelo Charles-Pierre,55550,William Penn,Cevion Severado,51610,Missouri
+2020,02/01,Missouri Valley Open,125,W,TF5,17 - 1 7:00,Tommy Dineen,62937,SIU Edwardsville,Cevion Severado,51610,Missouri
+2020,02/01,Missouri Valley Open,125,W,MD,16 - 6,Nick Lindley,62970,Lindenwood,Cevion Severado,51610,Missouri
+2020,01/19,Roger Denker Open,125,L,DEC,9 - 4,Noah Surtin,56715,Missouri,Cevion Severado,51610,Missouri
+2020,01/19,Roger Denker Open,125,W,FALL,1:17,Casey Baker,59536,Grand View,Cevion Severado,51610,Missouri
+2020,01/19,Roger Denker Open,125,W,TF5,20 - 3 7:00,Matt Malavsky,50962,SIU Edwardsville,Cevion Severado,51610,Missouri
+2020,12/29,South Beach College Individual,125,L,DEC,4 - 3,Phillip Moomey,56704,Cornell,Cevion Severado,51610,Missouri
+2020,12/29,South Beach College Individual,125,W,DEC,8 - 6,Danny Vega,45142,South Dakota State,Cevion Severado,51610,Missouri
+2020,12/29,South Beach College Individual,125,W,DEC,5 - 3,Kahlen Morris,40278,South Dakota State,Cevion Severado,51610,Missouri
+2020,12/29,South Beach College Individual,125,L,DEC,3 - 2,Logan Griffin,40454,Michigan State,Cevion Severado,51610,Missouri
+2020,12/14,UNI Open,125,L,DEC,5 - 3,Noah Surtin,56715,Missouri,Cevion Severado,51610,Missouri
+2020,12/14,UNI Open,125,W,DEC,9 - 7,Caleb Fuessley,62605,Iowa State,Cevion Severado,51610,Missouri
+2020,12/14,UNI Open,125,W,DEC,6 - 5,Aden Reeves,56711,Iowa State,Cevion Severado,51610,Missouri
+2020,12/07,Drury Open,125,W,FALL,4:35,Dalen Moore,63821,Northeastern Oklahoma,Cevion Severado,51610,Missouri
+2020,12/07,Drury Open,125,W,FALL,3:51,Ben Bohr,62969,Lindenwood,Cevion Severado,51610,Missouri
+2020,12/07,Drury Open,125,W,DEC,4 - 3,Noah Surtin,56715,Missouri,Cevion Severado,51610,Missouri
+2020,12/07,Drury Open,125,W,DEC,5 - 2,Tommy Hoskins,50613,Oklahoma,Cevion Severado,51610,Missouri
+2020,11/23,Lindenwood Open,125,L,MD,10 - 2,Cameron Valdiviez,49029,Missouri,Cevion Severado,51610,Missouri
+2020,11/23,Lindenwood Open,125,L,DEC,10 - 8,Chris Cannon,62895,Northwestern,Cevion Severado,51610,Missouri
+2020,11/23,Lindenwood Open,125,W,DEC,7 - 4,Nathan Cummings,51073,Purdue,Cevion Severado,51610,Missouri
+2020,11/23,Lindenwood Open,125,W,MFOR,0 - 0,Carlos Jacquez,41156,Lindenwood,Cevion Severado,51610,Missouri
+2020,11/23,Lindenwood Open,125,W,FALL,6:10,Cody Karstetter,40326,Central Oklahoma,Cevion Severado,51610,Missouri
+2020,11/21,Central Missouri - Missouri Dual,125,W,MD,14 - 5,Dakari Rivers,64843,Central Missouri,Cevion Severado,51610,Missouri
+2020,02/22,Last Chance Open,125,L,DEC,12 - 6,Tanner Jordan,57664,Jackrabbit Wrestling Club,Dack Punke,49195,Missouri
+2020,02/22,Last Chance Open,125,L,DEC,7 - 3,Corey Cabanban,57236,Iowa State,Dack Punke,49195,Missouri
+2020,01/19,Missouri - Kent State Dual,125,W,DEC,7 - 3,Tomas Gutierrez,45017,Kent State,Dack Punke,49195,Missouri
+2020,01/17,Missouri - Central Michigan Dual,125,L,FALL,4:40,Drew Hildebrandt,44818,Central Michigan,Dack Punke,49195,Missouri
+2020,01/12,Missouri - Northern Iowa Dual,125,L,DEC,3 - 0,Jacob Schwarm,39750,Northern Iowa,Dack Punke,49195,Missouri
+2020,01/10,Ohio - Missouri Dual,125,W,DEC,4 - 3,Gio Disabato,50840,Ohio,Dack Punke,49195,Missouri
+2020,12/30,Lehigh - Missouri Dual,125,L,DEC,5 - 2,Brandon Paetzell,44578,Lehigh,Dack Punke,49195,Missouri
+2020,12/30,Missouri - Cornell Dual,125,W,DEC,5 - 2,Dominic LaJoie,49112,Cornell,Dack Punke,49195,Missouri
+2020,12/29,South Beach College Individual,125,W,DEC,10 - 6,Kahlen Morris,40278,South Dakota State,Dack Punke,49195,Missouri
+2020,12/29,Missouri - Wyoming Dual,125,W,DEC,3 - 2,Doyle Trout,39591,Wyoming,Dack Punke,49195,Missouri
+2020,12/29,Missouri - Old Dominion Dual,125,L,DEC,4 - 3,Killian Cardinale,49268,Old Dominion,Dack Punke,49195,Missouri
+2020,12/15,Missouri - Buffalo Dual,125,W,DEC,8 - 3,Jordan Reyes,61394,Buffalo,Dack Punke,49195,Missouri
+2020,12/07,Cougar Clash,125,L,DEC,4 - 2,Jayden Carson,62838,Little Rock,Dack Punke,49195,Missouri
+2020,12/07,Cougar Clash,125,W,TF5,17 - 2 5:27,Reese Fry,56796,Brown,Dack Punke,49195,Missouri
+2020,12/07,Cougar Clash,125,W,SV-1,3 - 1,Trey Keeley,44696,Brown,Dack Punke,49195,Missouri
+2020,12/07,Cougar Clash,125,W,MD,10 - 1,Logan Griffin,40454,Michigan State,Dack Punke,49195,Missouri
+2020,11/21,Missouri Valley - Missouri Dual,133,W,DEC,3 - 1,Dequarius Millett,61361,Missouri Valley,Dack Punke,49195,Missouri
+2020,11/14,Illinois - Missouri Dual,125,L,DEC,4 - 0,Justin Cardani,51687,Illinois,Dack Punke,49195,Missouri
+2020,11/03,Southeast Open,125,W,DEC,6 - 0,Joey Thomas,51008,West Virginia,Dack Punke,49195,Missouri
+2020,11/03,Southeast Open,125,L,DEC,6 - 0,Korbin Meink,49074,Campbell,Dack Punke,49195,Missouri
+2020,11/03,Southeast Open,125,W,DEC,4 - 2,Paxton Rosen,49072,Campbell,Dack Punke,49195,Missouri
+2020,11/03,Southeast Open,125,L,DEC,3 - 0,Paxton Rosen,49072,Campbell,Dack Punke,49195,Missouri
+2020,11/02,Missouri - Virginia Tech Dual,125,L,DEC,2 - 0,Joey Prata,44734,Virginia Tech,Dack Punke,49195,Missouri
+2020,03/07,MAC Championships,133,L,SV-1,3 - 1,Tim Rooney,39949,Kent State,Allan Hart,49193,Missouri
+2020,03/07,MAC Championships,133,W,MD,12 - 1,Caleb Brooks,56507,Northern Illinois,Allan Hart,49193,Missouri
+2020,03/07,MAC Championships,133,W,DEC,10 - 4,Richie Koehler,51648,Rider,Allan Hart,49193,Missouri
+2020,03/07,MAC Championships,133,W,SV-1,5 - 3,Derek Spann,45028,Buffalo,Allan Hart,49193,Missouri
+2020,02/22,Iowa State - Missouri Dual,133,W,DEC,9 - 5,Todd Small,45992,Iowa State,Allan Hart,49193,Missouri
+2020,02/09,Arizona State - Missouri Dual,133,W,MD,14 - 4,Joshua Kramer,39736,Arizona State,Allan Hart,49193,Missouri
+2020,02/02,Oklahoma State - Missouri Dual,133,W,DEC,11 - 7,Reece Witcraft,57312,Oklahoma State,Allan Hart,49193,Missouri
+2020,01/25,Northern Illinois - Missouri Dual,133,W,FALL,1:32,Caleb Brooks,56507,Northern Illinois,Allan Hart,49193,Missouri
+2020,01/25,Cleveland State - Missouri Dual,133,W,DEC,6 - 1,Justin Patrick,39587,Cleveland State,Allan Hart,49193,Missouri
+2020,01/19,Missouri - Kent State Dual,133,L,FALL,6:44,Tim Rooney,39949,Kent State,Allan Hart,49193,Missouri
+2020,01/17,Missouri - Central Michigan Dual,133,W,MD,10 - 1,Drew Marten,49077,Central Michigan,Allan Hart,49193,Missouri
+2020,01/12,Missouri - Northern Iowa Dual,133,W,MD,14 - 2,Jack Skudlarczyk,49241,Northern Iowa,Allan Hart,49193,Missouri
+2020,12/30,Lehigh - Missouri Dual,133,L,DEC,6 - 3,Nick Farro,44590,Lehigh,Allan Hart,49193,Missouri
+2020,12/30,Missouri - Cornell Dual,133,L,DEC,6 - 3,Chaz Tucker,39771,Cornell,Allan Hart,49193,Missouri
+2020,12/29,South Beach College Individual,133,L,FALL,6:25,Zach Price,50932,South Dakota State,Allan Hart,49193,Missouri
+2020,12/29,South Beach College Individual,133,W,MD,10 - 0,Brent Jones,49188,Minnesota,Allan Hart,49193,Missouri
+2020,12/15,Missouri - Buffalo Dual,133,L,TF5,20 - 4 7:00,Derek Spann,45028,Buffalo,Allan Hart,49193,Missouri
+2020,12/07,Cougar Clash,133,W,DEC,6 - 0,Garrett Pepple,39561,Michigan State,Allan Hart,49193,Missouri
+2020,12/07,Cougar Clash,133,W,TF5,15 - 0 6:47,Dominic Dentino,56924,Wisconsin,Allan Hart,49193,Missouri
+2020,12/07,Cougar Clash,133,L,DEC,13 - 7,Seth Gross,19949,Wisconsin,Allan Hart,49193,Missouri
+2020,11/23,Lindenwood Open,133,W,FALL,2:36,Tyler Lawley,53047,Newman,Allan Hart,49193,Missouri
+2020,11/23,Lindenwood Open,133,W,FALL,5:31,Charles McNeal,47180,McKendree University,Allan Hart,49193,Missouri
+2020,11/23,Lindenwood Open,133,W,TF5,22 - 3 7:00,Dane Durlacher,56817,Illinois,Allan Hart,49193,Missouri
+2020,11/23,Lindenwood Open,133,W,FALL,2:20,Lucas Byrd,56714,Illinois,Allan Hart,49193,Missouri
+2020,11/14,Illinois - Missouri Dual,133,L,DEC,4 - 3,Travis Piotrowski,44646,Illinois,Allan Hart,49193,Missouri
+2020,11/03,Southeast Open,133,W,DEC,6 - 0,Gabe Hixenbaugh,57133,Campbell,Allan Hart,49193,Missouri
+2020,11/03,Southeast Open,133,W,FALL,5:22,Jaime Hernandez,49213,North Carolina,Allan Hart,49193,Missouri
+2020,11/03,Southeast Open,133,W,TF5,17 - 2 6:07,Colton Landers,50949,Chattanooga,Allan Hart,49193,Missouri
+2020,11/03,Southeast Open,133,L,DEC,5 - 3,Noah Gonser,40087,Campbell,Allan Hart,49193,Missouri
+2020,12/14,UNI Open,133,L,DEC,6 - 5,Ramazan Attasauov,58943,Iowa State,Connor Brown,49321,Missouri
+2020,12/14,UNI Open,133,W,DEC,10 - 3,Charlie Klepps,57235,Iowa State,Connor Brown,49321,Missouri
+2020,12/14,UNI Open,133,W,SV-1,9 - 7,Cayden Rooks,56710,Indiana,Connor Brown,49321,Missouri
+2020,12/14,UNI Open,133,W,DEC,7 - 2,Cayden Rooks,56710,Indiana,Connor Brown,49321,Missouri
+2020,12/07,Drury Open,133,W,FALL,2:03,Tanner Gregory,65065,Northeastern Oklahoma,Connor Brown,49321,Missouri
+2020,12/07,Drury Open,133,W,FALL,0:35,Jacob Roberson,59578,Labette Community College,Connor Brown,49321,Missouri
+2020,12/07,Drury Open,133,W,MD,16 - 3,Mikey Mascarenas,53303,Northeastern Oklahoma,Connor Brown,49321,Missouri
+2020,12/07,Drury Open,133,W,FALL,3:39,Isaac Jacquez,52532,Lindenwood,Connor Brown,49321,Missouri
+2020,11/02,Central Methodist Open,133,W,FALL,3:37,ANDREW GODIER,63739,Central Methodist,Connor Brown,49321,Missouri
+2020,11/02,Central Methodist Open,133,W,FALL,2:35,Dequarius Millett,61361,Missouri Valley,Connor Brown,49321,Missouri
+2020,11/02,Central Methodist Open,133,W,FALL,1:07,Eric Lopez,58697,Graceland University,Connor Brown,49321,Missouri
+2020,11/02,Central Methodist Open,133,W,FALL,0:37,Tommy Truong,63749,Central Methodist,Weston DiBlasi,50590,Missouri
+2020,11/02,Central Methodist Open,133,L,DEC,3 - 2,Dequarius Millett,61361,Missouri Valley,Weston DiBlasi,50590,Missouri
+2020,11/02,Central Methodist Open,133,W,FALL,0:19,Caden Emmot,60314,Central Christian College,Weston DiBlasi,50590,Missouri
+2020,11/02,Central Methodist Open,133,W,FALL,1:06,Nicholas Short,56511,Graceland University,Weston DiBlasi,50590,Missouri
+2020,11/02,Central Methodist Open,133,W,FALL,2:22,Eric Lopez,58697,Graceland University,Weston DiBlasi,50590,Missouri
+2020,03/07,MAC Championships,141,W,DEC,4 - 3,Sa'Derian Perry,40084,Old Dominion,Grant Leeth,19866,Missouri
+2020,03/07,MAC Championships,141,W,DEC,6 - 2,Alex Madrigal,39754,George Mason,Grant Leeth,19866,Missouri
+2020,03/07,MAC Championships,141,W,DEC,4 - 2,Kyle Shoop,39682,Lock Haven,Grant Leeth,19866,Missouri
+2020,03/07,MAC Championships,141,W,TF5,23 - 6 6:51,Alexander Blake,57720,Clarion,Grant Leeth,19866,Missouri
+2020,03/07,MAC Championships,141,L,TF5,18 - 3 6:48,Dresden Simon,44707,Central Michigan,Grant Leeth,19866,Missouri
+2020,02/22,Last Chance Open,141,W,DEC,4 - 2,Brent Jones,49188,Minnesota,Grant Leeth,19866,Missouri
+2020,02/22,Last Chance Open,141,W,FALL,5:36,Andrew Flora,61920,Iowa State,Grant Leeth,19866,Missouri
+2020,02/22,Last Chance Open,141,W,FALL,5:49,Charlie Klepps,57235,Iowa State,Grant Leeth,19866,Missouri
+2020,01/25,Northern Illinois - Missouri Dual,141,L,DEC,3 - 2,Anthony Gibson,56508,Northern Illinois,Grant Leeth,19866,Missouri
+2020,01/19,Missouri - Kent State Dual,141,W,FALL,2:28,Raphael Rodriguez,51180,Kent State,Grant Leeth,19866,Missouri
+2020,01/17,Missouri - Central Michigan Dual,141,L,MD,12 - 3,Dresden Simon,44707,Central Michigan,Grant Leeth,19866,Missouri
+2020,01/10,Ohio - Missouri Dual,141,W,DEC,8 - 4,Shakur Laney,39917,Ohio,Grant Leeth,19866,Missouri
+2020,12/30,Lehigh - Missouri Dual,141,W,DEC,5 - 3,Ryan Pomrinca,39667,Lehigh,Grant Leeth,19866,Missouri
+2020,12/30,Missouri - Cornell Dual,141,W,DEC,6 - 3,Noah Baughman,44749,Cornell,Grant Leeth,19866,Missouri
+2020,12/29,South Beach College Individual,141,W,DEC,9 - 3,Michael Venosa,52043,Cornell,Grant Leeth,19866,Missouri
+2020,12/29,Missouri - Wyoming Dual,141,W,DEC,4 - 3,Chase Zollmann,50917,Wyoming,Grant Leeth,19866,Missouri
+2020,12/29,Missouri - Old Dominion Dual,141,L,DEC,7 - 3,Sa'Derian Perry,40084,Old Dominion,Grant Leeth,19866,Missouri
+2020,12/07,Cougar Clash,141,W,FALL,3:26,Jimmy Pawelski,44653,Brown,Grant Leeth,19866,Missouri
+2020,12/07,Cougar Clash,141,L,DEC,3 - 2,Tristan Moran,39545,Wisconsin,Grant Leeth,19866,Missouri
+2020,11/14,Illinois - Missouri Dual,141,W,MD,10 - 2,We Rachal,56818,Illinois,Grant Leeth,19866,Missouri
+2020,02/22,Iowa State - Missouri Dual,141,W,DEC,4 - 3,Noah Nemer,57233,Iowa State,Alexander Butler,39647,Missouri
+2020,02/12,Missouri - Southern Illinois Edwardsville Dual,141,W,DEC,3 - 2,Saul Ervin,57010,SIU Edwardsville,Alexander Butler,39647,Missouri
+2020,02/09,Arizona State - Missouri Dual,141,W,DEC,4 - 2,Cory Crooks,45179,Arizona State,Alexander Butler,39647,Missouri
+2020,02/02,Oklahoma State - Missouri Dual,141,L,DEC,9 - 3,Dusty Hone,20271,Oklahoma State,Alexander Butler,39647,Missouri
+2020,01/25,Cleveland State - Missouri Dual,141,L,DEC,5 - 2,Evan Cheek,40190,Cleveland State,Alexander Butler,39647,Missouri
+2020,01/12,Missouri - Northern Iowa Dual,141,L,DEC,5 - 1,Michael Blockhus,57163,Northern Iowa,Alexander Butler,39647,Missouri
+2020,12/29,South Beach College Individual,141,W,DEC,9 - 5,Clay Carlson,56441,South Dakota State,Alexander Butler,39647,Missouri
+2020,12/29,South Beach College Individual,141,W,DEC,9 - 5,Aric Williams,51002,South Dakota State,Alexander Butler,39647,Missouri
+2020,12/29,South Beach College Individual,141,W,DEC,4 - 2,Mike Russo,42009,Cornell,Alexander Butler,39647,Missouri
+2020,12/15,Missouri - Buffalo Dual,141,L,DEC,4 - 3,Marcus Robinson,56479,Buffalo,Alexander Butler,39647,Missouri
+2020,11/23,Lindenwood Open,141,W,DEC,6 - 4,Saul Ervin,57010,SIU Edwardsville,Alexander Butler,39647,Missouri
+2020,11/23,Lindenwood Open,141,W,DEC,3 - 1,Justin Stickley,46895,Iowa,Alexander Butler,39647,Missouri
+2020,11/23,Lindenwood Open,141,W,DEC,5 - 3,Aaron Meyer,39779,Iowa,Alexander Butler,39647,Missouri
+2020,11/21,Missouri Valley - Missouri Dual,141,W,MD,13 - 3,Alexander Juarez,42185,Missouri Valley,Alexander Butler,39647,Missouri
+2020,11/21,Central Missouri - Missouri Dual,141,W,MD,15 - 5,Conner Dalton,59196,Central Missouri,Alexander Butler,39647,Missouri
+2020,11/03,Southeast Open,141,W,DEC,7 - 4,Josh Baier,50897,Virginia Tech,Alexander Butler,39647,Missouri
+2020,11/03,Southeast Open,141,L,MD,11 - 3,Zach Sherman,49216,North Carolina,Alexander Butler,39647,Missouri
+2020,11/03,Southeast Open,141,L,DEC,6 - 1,Alex Madrigal,39754,George Mason,Alexander Butler,39647,Missouri
+2020,11/03,Southeast Open,141,W,DEC,3 - 1,Chris Debien,39720,Chattanooga,Alexander Butler,39647,Missouri
+2020,11/02,Missouri - Virginia Tech Dual,141,L,FALL,0:26,Mitch Moore,50620,Virginia Tech,Alexander Butler,39647,Missouri
+2020,02/01,Missouri Valley Open,141,W,DEC,3 - 1,Nevertesonne Lahens,66657,Missouri Valley,Precious Essien,62663,Missouri
+2020,02/01,Missouri Valley Open,141,L,DEC,4 - 3,Blake Gonzalez,63860,Northeastern Oklahoma,Precious Essien,62663,Missouri
+2020,02/01,Missouri Valley Open,141,W,DEC,7 - 0,Kirkland Crocker,61480,William Penn,Precious Essien,62663,Missouri
+2020,02/01,Missouri Valley Open,141,W,DEC,5 - 1,Tristan Barr,55141,Maryville University,Precious Essien,62663,Missouri
+2020,01/19,Roger Denker Open,149,W,MD,13 - 1,Kadin Heacock,64848,Fort Hays State,Precious Essien,62663,Missouri
+2020,01/19,Roger Denker Open,149,L,FALL,1:07,Max Kristoff,63195,SIU Edwardsville,Precious Essien,62663,Missouri
+2020,01/19,Roger Denker Open,149,W,DEC,5 - 4,Armand Kenepaske,53475,Ottawa,Precious Essien,62663,Missouri
+2020,01/19,Roger Denker Open,149,L,TF5,22 - 4 7:00,Kyle Prewitt,60626,Little Rock,Precious Essien,62663,Missouri
+2020,12/07,Drury Open,141,L,INJ,7:00,Peter Kuster,57485,Drury University,Precious Essien,62663,Missouri
+2020,12/07,Drury Open,141,W,DEC,16 - 12,Robert Otero,53936,Ouachita Baptist University,Precious Essien,62663,Missouri
+2020,12/07,Drury Open,141,W,DEC,6 - 5,Jack Karstetter,53295,Labette Community College,Precious Essien,62663,Missouri
+2020,11/23,Lindenwood Open,141,W,MD,9 - 1,Dalton Hembree,65060,Northeastern Oklahoma,Precious Essien,62663,Missouri
+2020,11/23,Lindenwood Open,141,W,DEC,8 - 5,Kobey Kizarr,63865,Central Oklahoma,Precious Essien,62663,Missouri
+2020,11/23,Lindenwood Open,141,W,DEC,10 - 5,Von Gray,53289,Central Oklahoma,Precious Essien,62663,Missouri
+2020,11/23,Lindenwood Open,141,W,FALL,1:40,Noah Nemer,57233,Iowa State,Precious Essien,62663,Missouri
+2020,11/23,Lindenwood Open,141,L,DEC,4 - 0,Asa Garcia,57341,Indiana,Precious Essien,62663,Missouri
+2020,11/09,Kaufman Brand Open,141,W,MFOR,0 - 0,Trent Johnson,51238,Lindsey Wilson,Precious Essien,62663,Missouri
+2020,11/09,Kaufman Brand Open,141,L,FALL,6:40,Trent Johnson,51238,Lindsey Wilson,Precious Essien,62663,Missouri
+2020,11/09,Kaufman Brand Open,141,L,FALL,3:35,Matt McKinney,47522,Indianapolis,Precious Essien,62663,Missouri
+2020,11/09,Kaufman Brand Open,141,W,DEC,7 - 5,Bjorn Schroeder,54593,Purdue,Precious Essien,62663,Missouri
+2020,11/02,Central Methodist Open,141,W,FALL,2:53,Kyle Smart,63746,Benedictine College,Precious Essien,62663,Missouri
+2020,11/02,Central Methodist Open,141,W,FALL,1:09,MATHEW FLORES,63738,Central Methodist,Precious Essien,62663,Missouri
+2020,11/02,Central Methodist Open,141,L,FALL,0:55,KYLE CUTTRESS,63735,Central Methodist,Precious Essien,62663,Missouri
+2020,11/02,Central Methodist Open,141,W,FALL,2:12,Gage Kassing,58787,Missouri Valley,Precious Essien,62663,Missouri
+2020,11/02,Central Methodist Open,141,W,FALL,4:00,Zander Coakley,56426,Graceland University,Precious Essien,62663,Missouri
+2020,03/07,MAC Championships,149,W,DEC,5 - 2,Brock Zacherl,19787,Clarion,Brock Mauller,50596,Missouri
+2020,03/07,MAC Championships,149,W,DEC,6 - 4,Tyshawn Williams,40203,SIU Edwardsville,Brock Mauller,50596,Missouri
+2020,03/07,MAC Championships,149,W,DEC,4 - 0,Kody Komara,50094,Kent State,Brock Mauller,50596,Missouri
+2020,03/07,MAC Championships,149,W,DEC,10 - 4,Corbyn Munson,51197,Central Michigan,Brock Mauller,50596,Missouri
+2020,02/22,Iowa State - Missouri Dual,149,W,DEC,4 - 2,Ryan Leisure,49152,Iowa State,Brock Mauller,50596,Missouri
+2020,02/12,Missouri - Southern Illinois Edwardsville Dual,149,W,SV-1,5 - 3,Tyshawn Williams,40203,SIU Edwardsville,Brock Mauller,50596,Missouri
+2020,02/09,Arizona State - Missouri Dual,149,W,DEC,8 - 4,Josh Maruca,39512,Arizona State,Brock Mauller,50596,Missouri
+2020,02/02,Oklahoma State - Missouri Dual,149,W,SV-1,5 - 3,Boo Lewallen,39543,Oklahoma State,Brock Mauller,50596,Missouri
+2020,01/25,Northern Illinois - Missouri Dual,149,W,MD,10 - 1,McCoy Kent,39791,Northern Illinois,Brock Mauller,50596,Missouri
+2020,01/25,Cleveland State - Missouri Dual,149,W,MD,14 - 4,Gus Sutton,57330,Cleveland State,Brock Mauller,50596,Missouri
+2020,01/19,Missouri - Kent State Dual,149,W,DEC,6 - 4,Kody Komara,50094,Kent State,Brock Mauller,50596,Missouri
+2020,01/17,Missouri - Central Michigan Dual,149,W,DEC,10 - 4,Corbyn Munson,51197,Central Michigan,Brock Mauller,50596,Missouri
+2020,01/12,Missouri - Northern Iowa Dual,149,W,SV-1,3 - 1,Max Thomsen,39503,Northern Iowa,Brock Mauller,50596,Missouri
+2020,01/10,Ohio - Missouri Dual,149,W,DEC,2 - 0,Alec Hagan,49248,Ohio,Brock Mauller,50596,Missouri
+2020,12/30,Lehigh - Missouri Dual,149,W,DEC,8 - 2,Luke Karam,44703,Lehigh,Brock Mauller,50596,Missouri
+2020,12/30,Missouri - Cornell Dual,149,W,DEC,6 - 1,Hunter Richard,49107,Cornell,Brock Mauller,50596,Missouri
+2020,12/29,South Beach College Individual,149,W,DEC,8 - 3,Peyton Smith,51004,South Dakota State,Brock Mauller,50596,Missouri
+2020,12/29,Missouri - Wyoming Dual,149,L,DEC,6 - 5,Jaron Jensen,44910,Wyoming,Brock Mauller,50596,Missouri
+2020,12/29,Missouri - Old Dominion Dual,149,W,DEC,11 - 6,Kenan Carter,39560,Old Dominion,Brock Mauller,50596,Missouri
+2020,12/15,Missouri - Buffalo Dual,149,W,DEC,4 - 2,John Arceri,47552,Buffalo,Brock Mauller,50596,Missouri
+2020,12/07,Cougar Clash,149,W,DEC,5 - 2,Alex Hrisopoulos,45308,Michigan State,Brock Mauller,50596,Missouri
+2020,12/07,Cougar Clash,149,W,DEC,8 - 4,Tyshawn Williams,40203,SIU Edwardsville,Brock Mauller,50596,Missouri
+2020,12/07,Cougar Clash,149,W,MD,15 - 4,Daniel Stilling,62175,Wisconsin,Brock Mauller,50596,Missouri
+2020,11/21,Missouri Valley - Missouri Dual,149,W,TF5,21 - 6 7:00,Richard Pocock,61571,Missouri Valley,Brock Mauller,50596,Missouri
+2020,11/14,Illinois - Missouri Dual,149,W,MD,12 - 3,Mousa Jodeh,40308,Illinois,Brock Mauller,50596,Missouri
+2020,11/03,Southeast Open,149,W,TF5,21 - 5 7:00,Austin Smith,59079,Ferrum,Brock Mauller,50596,Missouri
+2020,11/03,Southeast Open,149,W,DEC,3 - 2,Seth Hogue,44668,West Virginia,Brock Mauller,50596,Missouri
+2020,11/03,Southeast Open,149,W,MD,15 - 6,Colston DiBlasi,39718,George Mason,Brock Mauller,50596,Missouri
+2020,11/03,Southeast Open,149,W,MD,10 - 2,Tanner Smith,49129,Chattanooga,Brock Mauller,50596,Missouri
+2020,11/02,Missouri - Virginia Tech Dual,149,W,DEC,6 - 0,Brent Moore,44666,Virginia Tech,Brock Mauller,50596,Missouri
+2020,02/01,Missouri Valley Open,149,W,DEC,7 - 0,Rhett Womack,63838,Williams Baptist,Mitchell Bohlken,62076,Missouri
+2020,02/01,Missouri Valley Open,149,W,DEC,8 - 3,Gage Hight,63815,Northeastern Oklahoma,Mitchell Bohlken,62076,Missouri
+2020,02/01,Missouri Valley Open,149,W,FALL,4:40,MATHEW FLORES,63738,Central Methodist,Mitchell Bohlken,62076,Missouri
+2020,02/01,Missouri Valley Open,149,L,DEC,9 - 6,Sean Sax,58774,Westminster,Mitchell Bohlken,62076,Missouri
+2020,02/01,Missouri Valley Open,149,W,DEC,5 - 4,Caleb Conedera,62732,Maryville University,Mitchell Bohlken,62076,Missouri
+2020,01/19,Roger Denker Open,149,W,DEC,4 - 2,Trenton Legrotte,66429,Central Methodist,Mitchell Bohlken,62076,Missouri
+2020,01/19,Roger Denker Open,149,L,DEC,6 - 5,Malik Johnson,66428,Unattached,Mitchell Bohlken,62076,Missouri
+2020,01/19,Roger Denker Open,149,W,FALL,5:55,Max Kristoff,63195,SIU Edwardsville,Mitchell Bohlken,62076,Missouri
+2020,01/19,Roger Denker Open,149,W,DEC,5 - 2,Dakota Thevel,54610,Central Missouri,Mitchell Bohlken,62076,Missouri
+2020,12/14,UNI Open,149,W,MD,11 - 1,Luke Baughman,57288,Indiana,Mitchell Bohlken,62076,Missouri
+2020,12/14,UNI Open,149,L,DEC,5 - 2,Graham Rooks,51283,Indiana,Mitchell Bohlken,62076,Missouri
+2020,12/14,UNI Open,149,L,DEC,3 - 1,Peyton Smith,51004,South Dakota State,Mitchell Bohlken,62076,Missouri
+2020,12/07,Drury Open,149,W,DEC,2 - 0,Malachi Tinnel,63887,Northeastern Oklahoma,Mitchell Bohlken,62076,Missouri
+2020,12/07,Drury Open,149,W,FALL,1:30,Gage Hight,63815,Northeastern Oklahoma,Mitchell Bohlken,62076,Missouri
+2020,12/07,Drury Open,149,L,DEC,5 - 3,Brady Mattioda,63343,Ouachita Baptist University,Mitchell Bohlken,62076,Missouri
+2020,12/07,Drury Open,149,W,DEC,9 - 2,Jake Turner,61849,Little Rock,Mitchell Bohlken,62076,Missouri
+2020,12/07,Drury Open,149,L,DEC,4 - 1,Zackery Zeamer,57141,Oklahoma,Mitchell Bohlken,62076,Missouri
+2020,11/23,Lindenwood Open,149,W,DEC,8 - 4,Joshua Ramos,64387,McKendree University,Mitchell Bohlken,62076,Missouri
+2020,11/23,Lindenwood Open,149,W,FALL,3:22,Michael Cassidy,63057,Missouri,Mitchell Bohlken,62076,Missouri
+2020,11/23,Lindenwood Open,149,W,FALL,2:27,Jarod Kadel,62750,Oklahoma State,Mitchell Bohlken,62076,Missouri
+2020,11/23,Lindenwood Open,149,L,DEC,7 - 5,Kyle Prewitt,60626,Little Rock,Mitchell Bohlken,62076,Missouri
+2020,11/23,Lindenwood Open,149,L,DEC,5 - 3,Kyle Prewitt,60626,Little Rock,Mitchell Bohlken,62076,Missouri
+2020,11/09,Kaufman Brand Open,149,W,DEC,8 - 6,Ethan Harsted,64145,Wheaton,Mitchell Bohlken,62076,Missouri
+2020,11/09,Kaufman Brand Open,149,W,DEC,6 - 3,Richard Pocock,61571,Missouri Valley,Mitchell Bohlken,62076,Missouri
+2020,11/09,Kaufman Brand Open,149,L,TB-1,8 - 5,Richard Pocock,61571,Missouri Valley,Mitchell Bohlken,62076,Missouri
+2020,11/09,Kaufman Brand Open,149,L,DEC,3 - 1,Jonathan Ball,50027,Fort Hays State,Mitchell Bohlken,62076,Missouri
+2020,11/09,Kaufman Brand Open,149,W,INJ,7:00,Frankie Falatico,49833,McKendree University,Mitchell Bohlken,62076,Missouri
+2020,11/09,Kaufman Brand Open,149,L,DEC,4 - 3,Kyle Barkovich,42244,Indianapolis,Mitchell Bohlken,62076,Missouri
+2020,11/02,Central Methodist Open,157,W,DEC,5 - 2,COREY WAIT,63751,Central Methodist,Mitchell Bohlken,62076,Missouri
+2020,11/02,Central Methodist Open,157,W,FALL,4:18,EZEKIEL JONES,63741,Central Methodist,Mitchell Bohlken,62076,Missouri
+2020,11/02,Central Methodist Open,157,W,DEC,3 - 2,Alejandro Godina,63740,Graceland University,Mitchell Bohlken,62076,Missouri
+2020,11/02,Central Methodist Open,157,L,DEC,9 - 2,Israel Casarez,60565,Clackamas Community College,Mitchell Bohlken,62076,Missouri
+2020,02/01,Missouri Valley Open,149,L,FALL,2:13,John Bindner,66646,Williams Baptist,Michael Cassidy,63057,Missouri
+2020,02/01,Missouri Valley Open,149,L,MD,12 - 1,Gage Kassing,58787,Missouri Valley,Michael Cassidy,63057,Missouri
+2020,01/19,Roger Denker Open,149,L,FALL,5:38,Trenton Legrotte,66429,Central Methodist,Michael Cassidy,63057,Missouri
+2020,01/19,Roger Denker Open,149,W,TF5,16 - 0 7:00,Kadin Heacock,64848,Fort Hays State,Michael Cassidy,63057,Missouri
+2020,01/19,Roger Denker Open,149,L,FALL,0:57,Max Kristoff,63195,SIU Edwardsville,Michael Cassidy,63057,Missouri
+2020,01/19,Roger Denker Open,149,W,DEC,3 - 2,Shawn Tillman,59447,Northeastern Oklahoma,Michael Cassidy,63057,Missouri
+2020,12/07,Drury Open,149,W,MD,17 - 6,Devan Colbert,65460,Unattached,Michael Cassidy,63057,Missouri
+2020,12/07,Drury Open,149,L,MFOR,0 - 0,Shawn Tillman,59447,Northeastern Oklahoma,Michael Cassidy,63057,Missouri
+2020,12/07,Drury Open,149,L,FALL,2:10,Zackery Zeamer,57141,Oklahoma,Michael Cassidy,63057,Missouri
+2020,12/07,Drury Open,149,W,DEC,2 - 1,Sam Ritchie,42233,Missouri,Michael Cassidy,63057,Missouri
+2020,11/23,Lindenwood Open,149,L,FALL,3:22,Mitchell Bohlken,62076,Missouri,Michael Cassidy,63057,Missouri
+2020,11/23,Lindenwood Open,149,W,DEC,4 - 2,Garrett Messimor,63871,Central Oklahoma,Michael Cassidy,63057,Missouri
+2020,11/23,Lindenwood Open,149,W,FALL,2:30,Luke Escalante,63286,Spartanburg Methodist College,Michael Cassidy,63057,Missouri
+2020,11/23,Lindenwood Open,149,L,DEC,6 - 2,Jake Turner,61849,Little Rock,Michael Cassidy,63057,Missouri
+2020,11/09,Kaufman Brand Open,157,L,DEC,4 - 3,Clark Leddon,64147,Cumberland,Michael Cassidy,63057,Missouri
+2020,11/09,Kaufman Brand Open,157,L,DEC,7 - 2,Christopher Viehmann,52544,Maryville University,Michael Cassidy,63057,Missouri
+2020,11/02,Central Methodist Open,157,L,FALL,4:18,COREY WAIT,63751,Central Methodist,Michael Cassidy,63057,Missouri
+2020,11/02,Central Methodist Open,157,W,DEC,8 - 3,Alejandro Godina,63740,Graceland University,Michael Cassidy,63057,Missouri
+2020,11/02,Central Methodist Open,157,L,FALL,2:57,Blake Hickerson,59424,Cowley College,Michael Cassidy,63057,Missouri
+2020,11/02,Central Methodist Open,157,W,DEC,11 - 8,Gabe Capp,58023,Cowley College,Michael Cassidy,63057,Missouri
+2020,01/19,Roger Denker Open,149,W,DEC,4 - 0,Tallon Heimbach,66433,Central Methodist,Sam Ritchie,42233,Missouri
+2020,01/19,Roger Denker Open,149,L,DEC,8 - 5,Austin Johnson,63816,Northeastern Oklahoma,Sam Ritchie,42233,Missouri
+2020,01/19,Roger Denker Open,149,L,DEC,6 - 4,Emmett Kuntz,62793,Central Missouri,Sam Ritchie,42233,Missouri
+2020,12/07,Drury Open,149,L,DEC,2 - 1,Michael Cassidy,63057,Missouri,Sam Ritchie,42233,Missouri
+2020,12/07,Drury Open,149,L,DEC,6 - 2,Brady Mattioda,63343,Ouachita Baptist University,Sam Ritchie,42233,Missouri
+2020,12/07,Drury Open,149,W,MD,8 - 0,Parker Price,58582,Labette Community College,Sam Ritchie,42233,Missouri
+2020,11/23,Lindenwood Open,149,W,DEC,3 - 2,Brendan Krask,60156,Lindenwood - Belleville,Sam Ritchie,42233,Missouri
+2020,11/23,Lindenwood Open,149,L,DEC,4 - 0,Brice O'Hara,57140,Oklahoma,Sam Ritchie,42233,Missouri
+2020,11/23,Lindenwood Open,149,L,DEC,6 - 1,Brik Filippo,49388,Central Oklahoma,Sam Ritchie,42233,Missouri
+2020,11/21,Central Missouri - Missouri Dual,149,L,SV-1,7 - 5,Emmett Kuntz,62793,Central Missouri,Sam Ritchie,42233,Missouri
+2020,11/09,Kaufman Brand Open,149,L,FALL,6:54,Richard Pocock,61571,Missouri Valley,Sam Ritchie,42233,Missouri
+2020,11/09,Kaufman Brand Open,149,L,MD,8 - 0,Matthew Rose,40272,Limestone,Sam Ritchie,42233,Missouri
+2020,11/02,Central Methodist Open,149,W,TF5,16 - 0 7:00,Colby Wilken,63753,Graceland University,Sam Ritchie,42233,Missouri
+2020,11/02,Central Methodist Open,149,W,DEC,5 - 2,Nick Vecci,63750,Central Methodist,Sam Ritchie,42233,Missouri
+2020,11/02,Central Methodist Open,149,L,DEC,5 - 3,Makana Tapia,63748,Cowley College,Sam Ritchie,42233,Missouri
+2020,11/02,Central Methodist Open,149,L,DEC,6 - 3,Beau Perez,63744,Cowley College,Sam Ritchie,42233,Missouri
+2020,11/02,Central Methodist Open,149,W,DEC,3 - 0,Jack O'Donnell,63742,Graceland University,Sam Ritchie,42233,Missouri
+2020,03/07,MAC Championships,157,L,DEC,4 - 0,Jesse Dellavecchia,39574,Rider,Jarrett Jacques,50597,Missouri
+2020,03/07,MAC Championships,157,W,FALL,4:57,Zac Carson,39692,Ohio,Jarrett Jacques,50597,Missouri
+2020,03/07,MAC Championships,157,W,DEC,7 - 4,Taylor Ortz,40103,Clarion,Jarrett Jacques,50597,Missouri
+2020,03/07,MAC Championships,157,W,MD,12 - 3,Logan Parks,40153,Central Michigan,Jarrett Jacques,50597,Missouri
+2020,02/22,Iowa State - Missouri Dual,157,W,DEC,7 - 3,Isaac Judge,51071,Iowa State,Jarrett Jacques,50597,Missouri
+2020,02/09,Arizona State - Missouri Dual,157,L,DEC,10 - 7,Jacori Teemer,50581,Arizona State,Jarrett Jacques,50597,Missouri
+2020,02/02,Oklahoma State - Missouri Dual,157,L,TB-1,8 - 6,Wyatt Sheets,44863,Oklahoma State,Jarrett Jacques,50597,Missouri
+2020,01/25,Northern Illinois - Missouri Dual,157,W,DEC,5 - 2,Dylan Thurston,44815,Northern Illinois,Jarrett Jacques,50597,Missouri
+2020,01/25,Cleveland State - Missouri Dual,157,W,DEC,6 - 1,Nico Odor,45039,Cleveland State,Jarrett Jacques,50597,Missouri
+2020,01/19,Missouri - Kent State Dual,157,W,TF5,18 - 1 4:21,Conan Becker,57242,Kent State,Jarrett Jacques,50597,Missouri
+2020,01/17,Missouri - Central Michigan Dual,157,W,DEC,5 - 4,Logan Parks,40153,Central Michigan,Jarrett Jacques,50597,Missouri
+2020,01/12,Missouri - Northern Iowa Dual,157,W,DEC,8 - 5,Keaton Geerts,49240,Northern Iowa,Jarrett Jacques,50597,Missouri
+2020,01/10,Ohio - Missouri Dual,157,L,DEC,3 - 2,Zac Carson,39692,Ohio,Jarrett Jacques,50597,Missouri
+2020,12/30,Lehigh - Missouri Dual,157,L,DEC,3 - 0,Josh Humphreys,55860,Lehigh,Jarrett Jacques,50597,Missouri
+2020,12/30,Missouri - Cornell Dual,157,W,DEC,8 - 5,Adam Santoro,46089,Cornell,Jarrett Jacques,50597,Missouri
+2020,12/29,South Beach College Individual,157,L,SV-2,5 - 4,Ryan Thomas,50839,Minnesota,Jarrett Jacques,50597,Missouri
+2020,12/29,Missouri - Wyoming Dual,157,W,DEC,10 - 5,Dewey Krueger,40144,Wyoming,Jarrett Jacques,50597,Missouri
+2020,12/29,Missouri - Old Dominion Dual,157,W,DEC,7 - 1,Larry Early,39519,Old Dominion,Jarrett Jacques,50597,Missouri
+2020,12/15,Missouri - Buffalo Dual,157,W,TF5,24 - 9 6:40,Hunter Shaut,61754,Buffalo,Jarrett Jacques,50597,Missouri
+2020,12/07,Cougar Clash,157,W,DEC,5 - 3,Jacob Tucker,44639,Michigan State,Jarrett Jacques,50597,Missouri
+2020,12/07,Cougar Clash,157,W,DEC,9 - 6,Drew Scharenbrock,59184,Wisconsin,Jarrett Jacques,50597,Missouri
+2020,12/07,Cougar Clash,157,W,MD,14 - 5,Garrett Model,49351,Wisconsin,Jarrett Jacques,50597,Missouri
+2020,11/23,Lindenwood Open,157,W,DEC,3 - 1,Justin Ruffin,57008,SIU Edwardsville,Jarrett Jacques,50597,Missouri
+2020,11/23,Lindenwood Open,157,W,MD,8 - 0,Tyler Lucas,53301,Central Oklahoma,Jarrett Jacques,50597,Missouri
+2020,11/23,Lindenwood Open,157,W,FALL,0:42,Mario Rodriguez,48155,Newman,Jarrett Jacques,50597,Missouri
+2020,11/23,Lindenwood Open,157,W,DEC,5 - 4,Johnny Mologousis,49144,Illinois,Jarrett Jacques,50597,Missouri
+2020,11/14,Illinois - Missouri Dual,157,W,DEC,7 - 2,Eric Barone,39566,Illinois,Jarrett Jacques,50597,Missouri
+2020,11/03,Southeast Open,157,W,MD,14 - 5,Phyllip DeLoach,40074,Missouri,Jarrett Jacques,50597,Missouri
+2020,11/03,Southeast Open,157,W,TF5,22 - 6 3:37,Kolby Ho,55945,George Mason,Jarrett Jacques,50597,Missouri
+2020,11/03,Southeast Open,157,W,TF5,26 - 7 5:47,Tyler Shilson,49352,Chattanooga,Jarrett Jacques,50597,Missouri
+2020,11/03,Southeast Open,157,W,MFOR,0 - 0,Hunter Costa,45247,Davidson,Jarrett Jacques,50597,Missouri
+2020,11/02,Missouri - Virginia Tech Dual,157,L,SV-1,3 - 1,Brian LaPrade,45112,Virginia Tech,Jarrett Jacques,50597,Missouri
+2020,02/12,Missouri - Southern Illinois Edwardsville Dual,157,L,MD,9 - 0,Justin Ruffin,57008,SIU Edwardsville,Phyllip DeLoach,40074,Missouri
+2020,12/29,South Beach College Individual,157,W,DEC,5 - 3,Ryan Thomas,50839,Minnesota,Phyllip DeLoach,40074,Missouri
+2020,12/29,South Beach College Individual,157,W,DEC,6 - 3,Colten Carlson,45286,South Dakota State,Phyllip DeLoach,40074,Missouri
+2020,12/29,South Beach College Individual,157,W,DEC,6 - 2,Micah Hoffman,58938,Cornell,Phyllip DeLoach,40074,Missouri
+2020,12/07,Cougar Clash,157,W,DEC,8 - 7,Jose Champagne,45138,Little Rock,Phyllip DeLoach,40074,Missouri
+2020,12/07,Cougar Clash,157,W,MD,13 - 5,Jack Bokina,56798,Brown,Phyllip DeLoach,40074,Missouri
+2020,12/07,Cougar Clash,157,L,DEC,2 - 0,Jacob Tucker,44639,Michigan State,Phyllip DeLoach,40074,Missouri
+2020,12/07,Cougar Clash,157,L,DEC,6 - 4,Devin Bahr,49349,Wisconsin,Phyllip DeLoach,40074,Missouri
+2020,11/23,Lindenwood Open,157,L,DEC,5 - 2,Justin Ruffin,57008,SIU Edwardsville,Phyllip DeLoach,40074,Missouri
+2020,11/23,Lindenwood Open,157,W,DEC,7 - 6,Jalin Harper,51618,Oklahoma State,Phyllip DeLoach,40074,Missouri
+2020,11/23,Lindenwood Open,157,W,DEC,4 - 2,Jalin Harper,51618,Oklahoma State,Phyllip DeLoach,40074,Missouri
+2020,11/23,Lindenwood Open,157,W,DEC,6 - 5,Grant Stotts,51284,Iowa State,Phyllip DeLoach,40074,Missouri
+2020,11/23,Lindenwood Open,157,L,DEC,4 - 2,Grant Stotts,51284,Iowa State,Phyllip DeLoach,40074,Missouri
+2020,11/21,Missouri Valley - Missouri Dual,157,W,TF5,20 - 4 7:00,Seth Johnson,64134,Missouri Valley,Phyllip DeLoach,40074,Missouri
+2020,11/21,Central Missouri - Missouri Dual,157,W,MD,10 - 2,Austin Morgan,51945,Central Missouri,Phyllip DeLoach,40074,Missouri
+2020,11/03,Southeast Open,157,L,MD,14 - 5,Jarrett Jacques,50597,Missouri,Phyllip DeLoach,40074,Missouri
+2020,11/03,Southeast Open,157,W,DEC,3 - 2,Connor Brady,56741,Virginia Tech,Phyllip DeLoach,40074,Missouri
+2020,11/03,Southeast Open,157,W,DEC,5 - 3,Hunter Jones,45169,West Virginia,Phyllip DeLoach,40074,Missouri
+2020,11/03,Southeast Open,157,W,FALL,11:00,AC Headlee,39627,North Carolina,Phyllip DeLoach,40074,Missouri
+2020,03/07,MAC Championships,165,W,MD,9 - 1,Joseph Terry,45561,Ohio,Peyton Mocco,50635,Missouri
+2020,03/07,MAC Championships,165,W,MD,10 - 1,Riley Smucker,56147,Cleveland State,Peyton Mocco,50635,Missouri
+2020,03/07,MAC Championships,165,L,DEC,6 - 3,Izzak Olejnik,56509,Northern Illinois,Peyton Mocco,50635,Missouri
+2020,03/07,MAC Championships,165,W,TF5,16 - 1 7:00,Kade Byland,45313,Kent State,Peyton Mocco,50635,Missouri
+2020,03/07,MAC Championships,165,W,DEC,7 - 4,Derek Ciavarro,45159,Edinboro,Peyton Mocco,50635,Missouri
+2020,02/22,Iowa State - Missouri Dual,165,W,DEC,5 - 3,Chase Straw,39610,Iowa State,Peyton Mocco,50635,Missouri
+2020,02/12,Missouri - Southern Illinois Edwardsville Dual,165,W,MD,12 - 3,Chase Diehl,60388,SIU Edwardsville,Peyton Mocco,50635,Missouri
+2020,02/09,Arizona State - Missouri Dual,165,L,MD,17 - 6,Josh Shields,39511,Arizona State,Peyton Mocco,50635,Missouri
+2020,02/02,Oklahoma State - Missouri Dual,165,L,DEC,11 - 6,Travis Wittlake,50615,Oklahoma State,Peyton Mocco,50635,Missouri
+2020,01/25,Northern Illinois - Missouri Dual,165,W,DEC,1 - 0,Izzak Olejnik,56509,Northern Illinois,Peyton Mocco,50635,Missouri
+2020,01/25,Cleveland State - Missouri Dual,165,W,DEC,6 - 3,Riley Smucker,56147,Cleveland State,Peyton Mocco,50635,Missouri
+2020,01/17,Missouri - Central Michigan Dual,165,W,MD,8 - 0,Tracy Hubbard,57361,Central Michigan,Peyton Mocco,50635,Missouri
+2020,01/12,Missouri - Northern Iowa Dual,165,L,TB-1,4 - 3,Austin Yant,50261,Northern Iowa,Peyton Mocco,50635,Missouri
+2020,01/10,Ohio - Missouri Dual,165,W,DEC,4 - 3,Nick Vestal,44944,Ohio,Peyton Mocco,50635,Missouri
+2020,12/30,Lehigh - Missouri Dual,165,W,DEC,3 - 2,Brian Meyer,50941,Lehigh,Peyton Mocco,50635,Missouri
+2020,12/30,Missouri - Cornell Dual,165,W,FALL,4:35,Milik Dawkins,41360,Cornell,Peyton Mocco,50635,Missouri
+2020,12/29,South Beach College Individual,165,W,DEC,9 - 3,Garrett Jordan,45287,South Dakota State,Peyton Mocco,50635,Missouri
+2020,12/29,Missouri - Wyoming Dual,165,W,DEC,14 - 7,Cole Moody,57067,Wyoming,Peyton Mocco,50635,Missouri
+2020,12/29,Missouri - Old Dominion Dual,165,W,DEC,10 - 6,Shane Jones,39984,Old Dominion,Peyton Mocco,50635,Missouri
+2020,12/14,UNI Open,165,W,TF5,16 - 1 7:00,Isaac Judge,51071,Iowa State,Peyton Mocco,50635,Missouri
+2020,12/14,UNI Open,165,W,MD,17 - 6,Isaac Judge,51071,Iowa State,Peyton Mocco,50635,Missouri
+2020,12/14,UNI Open,165,W,FALL,3:55,Davey Tunon,44908,Indiana,Peyton Mocco,50635,Missouri
+2020,12/14,UNI Open,165,L,DEC,6 - 5,Pat Schoenfelder,50280,Northern Iowa,Peyton Mocco,50635,Missouri
+2020,12/14,UNI Open,165,W,DEC,11 - 9,Austin Yant,50261,Northern Iowa,Peyton Mocco,50635,Missouri
+2020,12/07,Cougar Clash,165,L,DEC,3 - 2,Luke Fortuna,39654,Missouri,Peyton Mocco,50635,Missouri
+2020,12/07,Cougar Clash,165,W,TF5,19 - 4 4:14,Austin Hiles,44866,Michigan State,Peyton Mocco,50635,Missouri
+2020,12/07,Cougar Clash,165,W,MD,14 - 3,Chase Diehl,60388,SIU Edwardsville,Peyton Mocco,50635,Missouri
+2020,12/07,Cougar Clash,165,L,FALL,1:18,Evan Wick,44730,Wisconsin,Peyton Mocco,50635,Missouri
+2020,11/23,Lindenwood Open,165,W,FALL,6:13,Ankhaa Enkhmandakh,62897,Northwestern,Peyton Mocco,50635,Missouri
+2020,11/23,Lindenwood Open,165,W,DEC,6 - 1,Chase Diehl,60388,SIU Edwardsville,Peyton Mocco,50635,Missouri
+2020,11/23,Lindenwood Open,165,L,DEC,7 - 6,Elias Vaoifi,58778,Missouri Valley,Peyton Mocco,50635,Missouri
+2020,11/23,Lindenwood Open,165,W,FALL,1:26,Austin Stofer,50038,Lindenwood,Peyton Mocco,50635,Missouri
+2020,11/23,Lindenwood Open,165,L,MFOR,0 - 0,Dayton Garrett,45170,Central Oklahoma,Peyton Mocco,50635,Missouri
+2020,11/23,Lindenwood Open,165,L,MFOR,0 - 0,Qiante Wagner,42402,McKendree University,Peyton Mocco,50635,Missouri
+2020,11/21,Missouri Valley - Missouri Dual,165,W,FALL,3:21,Elias Vaoifi,58778,Missouri Valley,Peyton Mocco,50635,Missouri
+2020,11/14,Illinois - Missouri Dual,165,L,DEC,11 - 5,Danny Braunagel,50926,Illinois,Peyton Mocco,50635,Missouri
+2020,11/03,Southeast Open,165,L,FALL,1:11,Nick Kiussis,49345,West Virginia,Peyton Mocco,50635,Missouri
+2020,11/03,Southeast Open,165,L,MD,11 - 3,Kennedy Monday,45025,North Carolina,Peyton Mocco,50635,Missouri
+2020,11/03,Southeast Open,165,W,MD,14 - 4,Rodrick Mosley,50889,Gardner-Webb,Peyton Mocco,50635,Missouri
+2020,11/03,Southeast Open,165,W,FALL,2:46,Drew Nicholson,49091,Chattanooga,Peyton Mocco,50635,Missouri
+2020,11/02,Missouri - Virginia Tech Dual,165,L,MD,15 - 4,David McFadden,39633,Virginia Tech,Peyton Mocco,50635,Missouri
+2020,12/29,South Beach College Individual,165,L,FALL,0:13,Tanner Cook,51408,South Dakota State,Luke Fortuna,39654,Missouri
+2020,12/29,South Beach College Individual,165,L,DEC,4 - 3,Garrett Jordan,45287,South Dakota State,Luke Fortuna,39654,Missouri
+2020,12/29,South Beach College Individual,165,W,DEC,5 - 2,Kent Lane,39601,Lehigh,Luke Fortuna,39654,Missouri
+2020,12/29,South Beach College Individual,165,W,DEC,7 - 4,Andrew Merola,50667,Cornell,Luke Fortuna,39654,Missouri
+2020,12/29,South Beach College Individual,165,W,DEC,6 - 5,Jake Brindley,49109,Cornell,Luke Fortuna,39654,Missouri
+2020,12/15,Missouri - Buffalo Dual,165,L,DEC,6 - 4,Troy Keller,47129,Buffalo,Luke Fortuna,39654,Missouri
+2020,12/07,Cougar Clash,165,W,DEC,3 - 2,Peyton Mocco,50635,Missouri,Luke Fortuna,39654,Missouri
+2020,12/07,Cougar Clash,165,W,DEC,3 - 2,Austin Hiles,44866,Michigan State,Luke Fortuna,39654,Missouri
+2020,12/07,Cougar Clash,165,L,DEC,7 - 4,Drew Hughes,44802,Michigan State,Luke Fortuna,39654,Missouri
+2020,12/07,Cougar Clash,165,W,DEC,6 - 1,Chase Diehl,60388,SIU Edwardsville,Luke Fortuna,39654,Missouri
+2020,11/23,Lindenwood Open,165,W,DEC,6 - 3,Elias Vaoifi,58778,Missouri Valley,Luke Fortuna,39654,Missouri
+2020,11/23,Lindenwood Open,165,W,DEC,3 - 1,Dayton Garrett,45170,Central Oklahoma,Luke Fortuna,39654,Missouri
+2020,11/23,Lindenwood Open,165,W,DEC,3 - 1,Qiante Wagner,42402,McKendree University,Luke Fortuna,39654,Missouri
+2020,11/23,Lindenwood Open,165,W,DEC,3 - 2,Nicholas South,56709,Indiana,Luke Fortuna,39654,Missouri
+2020,11/21,Central Missouri - Missouri Dual,165,W,MD,21 - 7,Zion Vasquez,64756,Central Missouri,Luke Fortuna,39654,Missouri
+2020,11/03,Southeast Open,165,L,DEC,6 - 1,Nick Kiussis,49345,West Virginia,Luke Fortuna,39654,Missouri
+2020,11/03,Southeast Open,165,W,DEC,5 - 3,Sawyer Davidson,45233,North Carolina,Luke Fortuna,39654,Missouri
+2020,11/03,Southeast Open,165,W,DEC,5 - 4,Austin Palmer,44433,Newberry,Luke Fortuna,39654,Missouri
+2020,11/03,Southeast Open,165,W,DEC,3 - 2,Drew Nicholson,49091,Chattanooga,Luke Fortuna,39654,Missouri
+2020,11/03,Southeast Open,165,L,TF5,16 - 0 6:14,Quentin Perez,40421,Campbell,Luke Fortuna,39654,Missouri
+2020,02/01,Missouri Valley Open,165,W,DEC,13 - 6,Josh Milller,66653,Unattached,Martell Boone,58031,Missouri
+2020,02/01,Missouri Valley Open,165,W,DEC,5 - 3,Nolan Saale,63828,Northeastern Oklahoma,Martell Boone,58031,Missouri
+2020,02/01,Missouri Valley Open,165,W,MD,11 - 2,Dylan Shotwell,53351,Maryville University,Martell Boone,58031,Missouri
+2020,02/01,Missouri Valley Open,165,W,DEC,6 - 5,Tim Bogar,47169,Lindenwood,Martell Boone,58031,Missouri
+2020,02/01,Missouri Valley Open,165,L,DEC,4 - 3,Gavin Londoff,44823,Lindenwood,Martell Boone,58031,Missouri
+2020,01/19,Roger Denker Open,165,W,DEC,12 - 6,Nolan Saale,63828,Northeastern Oklahoma,Martell Boone,58031,Missouri
+2020,01/19,Roger Denker Open,165,W,TF5,23 - 8 7:00,John Ridle,62661,Central Missouri,Martell Boone,58031,Missouri
+2020,01/19,Roger Denker Open,165,W,MD,9 - 0,Tucker Caswell,57483,Drury University,Martell Boone,58031,Missouri
+2020,01/19,Roger Denker Open,165,L,DEC,11 - 5,Jacob Shoop,55226,Grand View,Martell Boone,58031,Missouri
+2020,12/14,UNI Open,165,W,MFOR,0 - 0,Tyler Harris,65269,Grand View,Martell Boone,58031,Missouri
+2020,12/14,UNI Open,165,W,DEC,5 - 2,Matt Ortiz,56762,Indiana,Martell Boone,58031,Missouri
+2020,12/14,UNI Open,165,L,DEC,8 - 1,Logan Schumacher,56307,Iowa State,Martell Boone,58031,Missouri
+2020,12/14,UNI Open,165,L,FALL,2:29,Isaac Judge,51071,Iowa State,Martell Boone,58031,Missouri
+2020,12/07,Drury Open,165,W,DEC,6 - 5,Nolan Saale,63828,Northeastern Oklahoma,Martell Boone,58031,Missouri
+2020,12/07,Drury Open,165,W,MFOR,0 - 0,Dakota Martin,63819,Labette Community College,Martell Boone,58031,Missouri
+2020,12/07,Drury Open,165,L,DEC,7 - 2,Jake Stiles,57290,Oklahoma,Martell Boone,58031,Missouri
+2020,11/23,Lindenwood Open,165,L,DEC,7 - 1,Chase Diehl,60388,SIU Edwardsville,Martell Boone,58031,Missouri
+2020,11/23,Lindenwood Open,165,L,FALL,3:45,Qiante Wagner,42402,McKendree University,Martell Boone,58031,Missouri
+2020,11/09,Kaufman Brand Open,165,W,MD,16 - 5,Dallas Miles,64148,Kentucky Wesleyan,Martell Boone,58031,Missouri
+2020,11/09,Kaufman Brand Open,165,W,TF5,22 - 7 6:25,Bryce Hoffman,41955,Lindsey Wilson,Martell Boone,58031,Missouri
+2020,11/09,Kaufman Brand Open,165,L,DEC,9 - 7,Jack Eiteljeorge,51657,Indianapolis,Martell Boone,58031,Missouri
+2020,11/09,Kaufman Brand Open,165,L,DEC,5 - 0,Nick Foster,47173,McKendree University,Martell Boone,58031,Missouri
+2020,11/02,Central Methodist Open,165,W,MFOR,0 - 0,CHARLIE PUMEL,63745,Central Methodist,Martell Boone,58031,Missouri
+2020,11/02,Central Methodist Open,165,L,FALL,2:17,Elias Vaoifi,58778,Missouri Valley,Martell Boone,58031,Missouri
+2020,11/02,Central Methodist Open,165,W,DEC,5 - 3,Jesus Nunez,58024,Cowley College,Martell Boone,58031,Missouri
+2020,03/07,MAC Championships,174,W,DEC,7 - 0,Kenny Moore,46406,Northern Illinois,Connor Flynn,39676,Missouri
+2020,03/07,MAC Championships,174,W,FALL,1:11,Dean Sherry,40019,Rider,Connor Flynn,39676,Missouri
+2020,03/07,MAC Championships,174,W,TF5,17 - 0 2:43,Jacob Oliver,49130,Edinboro,Connor Flynn,39676,Missouri
+2020,03/07,MAC Championships,174,W,MD,14 - 4,Kevin Gschwendtner,54028,SIU Edwardsville,Connor Flynn,39676,Missouri
+2020,03/07,MAC Championships,174,L,DEC,3 - 2,Jared Siegrist,45101,Lock Haven,Connor Flynn,39676,Missouri
+2020,03/07,MAC Championships,174,W,TF5,17 - 1 4:42,Bryson Alsteen,63217,Buffalo,Connor Flynn,39676,Missouri
+2020,02/22,Iowa State - Missouri Dual,174,W,DEC,3 - 0,Mac Southard,50986,Iowa State,Connor Flynn,39676,Missouri
+2020,02/12,Missouri - Southern Illinois Edwardsville Dual,174,W,MD,17 - 4,Kevin Gschwendtner,54028,SIU Edwardsville,Connor Flynn,39676,Missouri
+2020,02/09,Arizona State - Missouri Dual,174,L,MD,15 - 3,Anthony Valencia,39500,Arizona State,Connor Flynn,39676,Missouri
+2020,02/02,Oklahoma State - Missouri Dual,174,L,DEC,12 - 6,Joe Smith,39786,Oklahoma State,Connor Flynn,39676,Missouri
+2020,01/25,Cleveland State - Missouri Dual,174,W,MD,9 - 0,Chase Archangelo,49104,Cleveland State,Connor Flynn,39676,Missouri
+2020,01/19,Missouri - Kent State Dual,165,W,TF5,16 - 1 3:16,Kade Byland,45313,Kent State,Connor Flynn,39676,Missouri
+2020,01/01,Southern Scuffle,165,W,DEC,10 - 4,Tyler Barnes,50663,NC State,Connor Flynn,39676,Missouri
+2020,01/01,Southern Scuffle,165,L,FALL,2:17,Joe Lee,49666,Penn State,Connor Flynn,39676,Missouri
+2020,01/01,Southern Scuffle,165,L,DEC,5 - 2,Jake Wentzel,45151,Pittsburgh,Connor Flynn,39676,Missouri
+2020,01/01,Southern Scuffle,165,W,TF5,18 - 0 2:47,Jacob Thalin,40165,CSU Bakersfield,Connor Flynn,39676,Missouri
+2020,01/01,Southern Scuffle,165,W,DEC,8 - 2,Andrew Shomers,39642,Oklahoma State,Connor Flynn,39676,Missouri
+2020,12/07,Cougar Clash,174,L,FALL,1:37,Jeremiah Kent,50824,Missouri,Connor Flynn,39676,Missouri
+2020,12/07,Cougar Clash,174,W,DEC,5 - 2,Layne Malczewski,51828,Michigan State,Connor Flynn,39676,Missouri
+2020,12/07,Cougar Clash,174,W,TF5,16 - 1 3:00,Tyler Dow,50622,Wisconsin,Connor Flynn,39676,Missouri
+2020,11/23,Lindenwood Open,174,L,DEC,5 - 3,Jeremiah Kent,50824,Missouri,Connor Flynn,39676,Missouri
+2020,11/23,Lindenwood Open,174,W,TF5,20 - 4 7:00,Kevin Gschwendtner,54028,SIU Edwardsville,Connor Flynn,39676,Missouri
+2020,11/23,Lindenwood Open,174,W,FALL,0:56,Gage McBride,52412,Central Oklahoma,Connor Flynn,39676,Missouri
+2020,11/23,Lindenwood Open,174,W,TF5,18 - 1 7:00,DeMichael Franklin,50984,Iowa State,Connor Flynn,39676,Missouri
+2020,11/14,Illinois - Missouri Dual,174,L,SV-1,4 - 2,Joey Gunther,39725,Illinois,Connor Flynn,39676,Missouri
+2020,11/03,Southeast Open,174,W,MD,12 - 2,Philip Spadafora,51167,Maryland,Connor Flynn,39676,Missouri
+2020,11/03,Southeast Open,174,W,MD,11 - 0,Anthony Lombardo,19656,George Mason,Connor Flynn,39676,Missouri
+2020,11/03,Southeast Open,174,W,DEC,7 - 2,Neal Richards,39991,VMI,Connor Flynn,39676,Missouri
+2020,11/03,Southeast Open,174,W,DEC,4 - 0,Austin Murphy,51608,Campbell,Connor Flynn,39676,Missouri
+2020,11/02,Missouri - Virginia Tech Dual,174,W,MD,12 - 1,Cody Hughes,39608,Virginia Tech,Connor Flynn,39676,Missouri
+2020,02/22,Last Chance Open,174,L,MFOR,0 - 0,Logan Schumacher,56307,Iowa State,Jeremiah Kent,50824,Missouri
+2020,02/22,Last Chance Open,174,W,MD,11 - 0,DeMichael Franklin,50984,Iowa State,Jeremiah Kent,50824,Missouri
+2020,02/22,Last Chance Open,174,W,FALL,1:49,Taylan Entriken,50983,Iowa State,Jeremiah Kent,50824,Missouri
+2020,01/25,Northern Illinois - Missouri Dual,174,W,DEC,5 - 2,Kenny Moore,46406,Northern Illinois,Jeremiah Kent,50824,Missouri
+2020,01/19,Missouri - Kent State Dual,174,L,FALL,2:56,Andrew McNally,44610,Kent State,Jeremiah Kent,50824,Missouri
+2020,01/17,Missouri - Central Michigan Dual,174,W,MD,14 - 3,Jake Lowell,50530,Central Michigan,Jeremiah Kent,50824,Missouri
+2020,01/12,Missouri - Northern Iowa Dual,174,L,MD,10 - 1,Bryce Steiert,39504,Northern Iowa,Jeremiah Kent,50824,Missouri
+2020,01/10,Ohio - Missouri Dual,174,L,FALL,3:25,Logan Stanley,56204,Ohio,Jeremiah Kent,50824,Missouri
+2020,12/30,Lehigh - Missouri Dual,174,L,DEC,4 - 0,Jordan Kutler,39626,Lehigh,Jeremiah Kent,50824,Missouri
+2020,12/30,Missouri - Cornell Dual,174,L,DEC,10 - 8,Brandon Womack,40379,Cornell,Jeremiah Kent,50824,Missouri
+2020,12/29,South Beach College Individual,174,W,DEC,7 - 0,Kelby Hawkins,49318,South Dakota State,Jeremiah Kent,50824,Missouri
+2020,12/29,Missouri - Wyoming Dual,174,W,DEC,9 - 3,Casey Randles,49355,Wyoming,Jeremiah Kent,50824,Missouri
+2020,12/29,Missouri - Old Dominion Dual,174,W,TF5,16 - 0 7:00,Alex Cramer,56732,Old Dominion,Jeremiah Kent,50824,Missouri
+2020,12/15,Missouri - Buffalo Dual,174,W,TF5,18 - 2 5:31,Jake Lanning,49069,Buffalo,Jeremiah Kent,50824,Missouri
+2020,12/07,Cougar Clash,174,W,TF5,16 - 0 4:46,Cash Jones,52128,Little Rock,Jeremiah Kent,50824,Missouri
+2020,12/07,Cougar Clash,174,W,FALL,1:37,Connor Flynn,39676,Missouri,Jeremiah Kent,50824,Missouri
+2020,12/07,Cougar Clash,174,W,DEC,10 - 5,Jared Krattiger,50621,Wisconsin,Jeremiah Kent,50824,Missouri
+2020,11/23,Lindenwood Open,174,W,FALL,2:25,Elijah Joseph,57146,Oklahoma,Jeremiah Kent,50824,Missouri
+2020,11/23,Lindenwood Open,174,W,DEC,5 - 3,Connor Flynn,39676,Missouri,Jeremiah Kent,50824,Missouri
+2020,11/23,Lindenwood Open,174,W,MD,10 - 0,Mac Southard,50986,Iowa State,Jeremiah Kent,50824,Missouri
+2020,11/23,Lindenwood Open,174,W,TF5,16 - 0 7:00,Jake DiBenedetto,50125,Illinois,Jeremiah Kent,50824,Missouri
+2020,11/23,Lindenwood Open,174,W,FALL,2:55,Donnell Washington,57738,Indiana,Jeremiah Kent,50824,Missouri
+2020,11/21,Missouri Valley - Missouri Dual,174,W,FALL,1:02,Stetson Clary,49749,Missouri Valley,Jeremiah Kent,50824,Missouri
+2020,11/21,Central Missouri - Missouri Dual,174,W,TF5,18 - 1 7:00,Jack Goin,62796,Central Missouri,Jeremiah Kent,50824,Missouri
+2020,11/03,Southeast Open,174,L,MD,10 - 1,Clay Lautt,49212,North Carolina,Jeremiah Kent,50824,Missouri
+2020,11/03,Southeast Open,174,L,FALL,6:09,Philip Spadafora,51167,Maryland,Jeremiah Kent,50824,Missouri
+2020,11/03,Southeast Open,174,W,DEC,14 - 11,Caleb Hopkins,56482,Campbell,Jeremiah Kent,50824,Missouri
+2020,02/01,Missouri Valley Open,174,W,DQ,0 - 0,Ty Loethen,66652,Unattached,Sean Harman,59678,Missouri
+2020,02/01,Missouri Valley Open,174,W,FALL,1:45,Darwin Diaz,64841,William Penn,Sean Harman,59678,Missouri
+2020,02/01,Missouri Valley Open,174,W,TF5,20 - 4 7:00,Jayden Smith,63898,Northeastern Oklahoma,Sean Harman,59678,Missouri
+2020,02/01,Missouri Valley Open,174,W,DEC,8 - 2,Robert Weber,62665,Missouri,Sean Harman,59678,Missouri
+2020,01/19,Roger Denker Open,174,W,FALL,3:51,Adrian Rangel,66435,Central Methodist,Sean Harman,59678,Missouri
+2020,01/19,Roger Denker Open,174,W,MD,15 - 3,Jayden Smith,63898,Northeastern Oklahoma,Sean Harman,59678,Missouri
+2020,01/19,Roger Denker Open,174,W,FALL,2:11,Joe Brady,52311,Central Missouri,Sean Harman,59678,Missouri
+2020,12/14,UNI Open,174,W,FALL,4:45,Sean Grim,63021,Indiana,Sean Harman,59678,Missouri
+2020,12/14,UNI Open,174,W,SV-1,6 - 4,Donnell Washington,57738,Indiana,Sean Harman,59678,Missouri
+2020,12/14,UNI Open,174,W,DEC,7 - 5,Mac Southard,50986,Iowa State,Sean Harman,59678,Missouri
+2020,12/14,UNI Open,174,W,DEC,3 - 2,Keegan Moore,44872,Northern Iowa,Sean Harman,59678,Missouri
+2020,12/07,Drury Open,174,W,MD,21 - 8,Caleb Wise,65462,Labette Community College,Sean Harman,59678,Missouri
+2020,12/07,Drury Open,174,W,DEC,4 - 0,Robert Weber,62665,Missouri,Sean Harman,59678,Missouri
+2020,12/07,Drury Open,174,W,TF5,19 - 2 7:00,Grant Taylor,48368,Drury University,Sean Harman,59678,Missouri
+2020,11/23,Lindenwood Open,174,W,MD,15 - 7,James Anding,62730,Maryville University,Sean Harman,59678,Missouri
+2020,11/23,Lindenwood Open,174,W,DEC,9 - 2,Jayden Smith,63898,Northeastern Oklahoma,Sean Harman,59678,Missouri
+2020,11/23,Lindenwood Open,174,W,DEC,9 - 2,Daryus Webb,60351,Williams Baptist,Sean Harman,59678,Missouri
+2020,11/23,Lindenwood Open,174,W,DEC,8 - 6,Jack Servies,59594,Marian University,Sean Harman,59678,Missouri
+2020,11/23,Lindenwood Open,174,W,FALL,6:41,Sam Osho,59291,Marian University,Sean Harman,59678,Missouri
+2020,11/02,Central Methodist Open,174,L,MFOR,0 - 0,Tyler Estep,63737,Central Christian College,Sean Harman,59678,Missouri
+2020,11/02,Central Methodist Open,174,W,TF5,17 - 2 4:25,Tyler Bingham,63732,Cowley College,Sean Harman,59678,Missouri
+2020,11/02,Central Methodist Open,174,L,FALL,7:00,Jensen McDermott,58496,Benedictine College,Sean Harman,59678,Missouri
+2020,02/01,Missouri Valley Open,174,L,DEC,8 - 2,Sean Harman,59678,Missouri,Robert Weber,62665,Missouri
+2020,02/01,Missouri Valley Open,174,W,TF5,17 - 2 7:00,Arman Mansouri,66486,Lyon College,Robert Weber,62665,Missouri
+2020,02/01,Missouri Valley Open,174,W,FALL,2:39,Juleain Winters,58674,St Mary,Robert Weber,62665,Missouri
+2020,02/01,Missouri Valley Open,174,W,DEC,3 - 1,James Anding,62730,Maryville University,Robert Weber,62665,Missouri
+2020,01/19,Roger Denker Open,184,W,FALL,1:20,Nic Rocha,66436,St Mary,Robert Weber,62665,Missouri
+2020,01/19,Roger Denker Open,184,W,FALL,4:44,Dayton Fields,63895,Northeastern Oklahoma,Robert Weber,62665,Missouri
+2020,01/19,Roger Denker Open,184,L,DEC,5 - 0,Ryan Yarnell,57006,SIU Edwardsville,Robert Weber,62665,Missouri
+2020,01/19,Roger Denker Open,184,L,DEC,4 - 2,Sergio Villalobos,57005,SIU Edwardsville,Robert Weber,62665,Missouri
+2020,01/19,Roger Denker Open,184,L,DEC,5 - 4,Dominique Hampton,53335,Central Missouri,Robert Weber,62665,Missouri
+2020,12/14,UNI Open,174,W,FALL,0:37,Zach Lee,61367,Grand View,Robert Weber,62665,Missouri
+2020,12/14,UNI Open,174,L,DEC,3 - 0,Mac Southard,50986,Iowa State,Robert Weber,62665,Missouri
+2020,12/14,UNI Open,174,L,DEC,4 - 2,Taylan Entriken,50983,Iowa State,Robert Weber,62665,Missouri
+2020,12/14,UNI Open,174,W,MFOR,0 - 0,Samuel Grove,49320,South Dakota State,Robert Weber,62665,Missouri
+2020,12/07,Drury Open,174,L,DEC,4 - 0,Sean Harman,59678,Missouri,Robert Weber,62665,Missouri
+2020,12/07,Drury Open,174,W,FALL,2:05,Brian Flanagan,62975,Lindenwood,Robert Weber,62665,Missouri
+2020,12/07,Drury Open,174,W,MD,17 - 7,Stetson Clary,49749,Missouri Valley,Robert Weber,62665,Missouri
+2020,11/09,Kaufman Brand Open,174,W,FALL,1:01,Nolan Puletasi,64149,Missouri Valley,Robert Weber,62665,Missouri
+2020,11/09,Kaufman Brand Open,174,L,MFOR,0 - 0,Will Seibert,49755,Missouri Valley,Robert Weber,62665,Missouri
+2020,11/09,Kaufman Brand Open,174,L,MD,8 - 0,Natean Vandermeer,46568,Findlay,Robert Weber,62665,Missouri
+2020,11/02,Central Methodist Open,174,W,MD,14 - 4,David Bortz,63733,Missouri Valley,Robert Weber,62665,Missouri
+2020,11/02,Central Methodist Open,174,W,DEC,13 - 7,Robert Denny,61445,Graceland University,Robert Weber,62665,Missouri
+2020,11/02,Central Methodist Open,174,W,MD,17 - 7,Jensen McDermott,58496,Benedictine College,Robert Weber,62665,Missouri
+2020,03/07,MAC Championships,184,L,DEC,8 - 5,Brit Wilson,49235,Northern Illinois,Dylan Wisman,39507,Missouri
+2020,03/07,MAC Championships,184,W,DQ,0 - 0,George Walton,49265,Rider,Dylan Wisman,39507,Missouri
+2020,03/07,MAC Championships,184,W,FALL,4:55,Hunter Yeargan,45564,Ohio,Dylan Wisman,39507,Missouri
+2020,03/07,MAC Championships,184,W,FALL,6:18,Peter Acciardi,51069,Buffalo,Dylan Wisman,39507,Missouri
+2020,02/22,Iowa State - Missouri Dual,184,W,FALL,3:44,Harrison Swalla,44138,Iowa State,Dylan Wisman,39507,Missouri
+2020,02/12,Missouri - Southern Illinois Edwardsville Dual,184,W,TF5,20 - 4 3:53,Austin Andres,57007,SIU Edwardsville,Dylan Wisman,39507,Missouri
+2020,02/09,Arizona State - Missouri Dual,184,L,DEC,14 - 10,Zahid Valencia,39501,Arizona State,Dylan Wisman,39507,Missouri
+2020,02/02,Oklahoma State - Missouri Dual,184,L,DEC,9 - 5,Anthony Montalvo,51619,Oklahoma State,Dylan Wisman,39507,Missouri
+2020,01/25,Northern Illinois - Missouri Dual,184,W,MD,11 - 3,Brit Wilson,49235,Northern Illinois,Dylan Wisman,39507,Missouri
+2020,01/25,Cleveland State - Missouri Dual,184,W,DEC,6 - 2,Deandre Nassar,62202,Cleveland State,Dylan Wisman,39507,Missouri
+2020,01/19,Missouri - Kent State Dual,184,W,DEC,6 - 1,Shane Mast,39974,Kent State,Dylan Wisman,39507,Missouri
+2020,01/17,Missouri - Central Michigan Dual,184,W,MD,12 - 4,Ben Cushman,57359,Central Michigan,Dylan Wisman,39507,Missouri
+2020,01/12,Missouri - Northern Iowa Dual,184,L,DEC,13 - 8,Taylor Lujan,39506,Northern Iowa,Dylan Wisman,39507,Missouri
+2020,01/10,Ohio - Missouri Dual,184,W,MD,16 - 4,Hunter Yeargan,45564,Ohio,Dylan Wisman,39507,Missouri
+2020,12/30,Lehigh - Missouri Dual,184,L,DEC,13 - 6,Chris Weiler,45108,Lehigh,Dylan Wisman,39507,Missouri
+2020,12/30,Missouri - Cornell Dual,184,L,DEC,16 - 10,Jonathan Loew,51080,Cornell,Dylan Wisman,39507,Missouri
+2020,12/29,South Beach College Individual,184,W,DEC,7 - 2,Caden Steffen,51689,Minnesota,Dylan Wisman,39507,Missouri
+2020,12/29,Missouri - Wyoming Dual,184,W,DEC,3 - 1,Tate Samuelson,57066,Wyoming,Dylan Wisman,39507,Missouri
+2020,12/29,Missouri - Old Dominion Dual,184,W,MD,15 - 4,Antonio Agee,44635,Old Dominion,Dylan Wisman,39507,Missouri
+2020,12/15,Missouri - Buffalo Dual,184,W,DEC,7 - 3,Peter Acciardi,51069,Buffalo,Dylan Wisman,39507,Missouri
+2020,12/07,Cougar Clash,184,W,FALL,0:57,Matthew Muller,62816,Little Rock,Dylan Wisman,39507,Missouri
+2020,12/07,Cougar Clash,184,W,DEC,7 - 6,Cameron Caffey,50273,Michigan State,Dylan Wisman,39507,Missouri
+2020,12/07,Cougar Clash,184,W,MD,15 - 5,Ryan Yarnell,57006,SIU Edwardsville,Dylan Wisman,39507,Missouri
+2020,11/03,Southeast Open,184,W,DEC,7 - 1,Tony Vezzetti,46096,Notre Dame,Dylan Wisman,39507,Missouri
+2020,11/03,Southeast Open,184,W,FALL,1:45,Canten Marriott,44723,Missouri,Dylan Wisman,39507,Missouri
+2020,11/03,Southeast Open,184,L,DEC,8 - 5,Matthew Waddell,49259,Chattanooga,Dylan Wisman,39507,Missouri
+2020,11/02,Missouri - Virginia Tech Dual,184,L,DEC,10 - 9,Hunter Bolen,49335,Virginia Tech,Dylan Wisman,39507,Missouri
+2020,02/22,Iowa State - Missouri Dual,197,W,DEC,3 - 2,Joel Devine,50653,Iowa State,Canten Marriott,44723,Missouri
+2020,01/19,Roger Denker Open,184,W,MD,12 - 1,Clint Herrick,62624,Fort Hays State,Canten Marriott,44723,Missouri
+2020,01/19,Roger Denker Open,184,W,SV-1,3 - 1,Ryan Yarnell,57006,SIU Edwardsville,Canten Marriott,44723,Missouri
+2020,01/19,Roger Denker Open,184,W,FALL,3:26,Sergio Villalobos,57005,SIU Edwardsville,Canten Marriott,44723,Missouri
+2020,01/19,Roger Denker Open,184,W,FALL,1:39,Sidney Douglas,53086,St Mary,Canten Marriott,44723,Missouri
+2020,11/23,Lindenwood Open,184,W,FALL,4:54,Ryan Yarnell,57006,SIU Edwardsville,Canten Marriott,44723,Missouri
+2020,11/23,Lindenwood Open,184,W,DEC,4 - 3,Cordell Duhart,56938,Missouri,Canten Marriott,44723,Missouri
+2020,11/23,Lindenwood Open,184,W,FALL,5:53,Kevin Zange,52567,McKendree University,Canten Marriott,44723,Missouri
+2020,11/23,Lindenwood Open,184,L,DEC,2 - 0,Julien Broderson,57644,Iowa State,Canten Marriott,44723,Missouri
+2020,11/23,Lindenwood Open,184,L,DEC,3 - 2,Abe Assad,56936,Iowa,Canten Marriott,44723,Missouri
+2020,11/21,Missouri Valley - Missouri Dual,184,W,MD,10 - 1,Will Seibert,49755,Missouri Valley,Canten Marriott,44723,Missouri
+2020,11/14,Illinois - Missouri Dual,184,L,MD,15 - 6,Zach Braunagel,50925,Illinois,Canten Marriott,44723,Missouri
+2020,11/03,Southeast Open,184,L,FALL,1:45,Dylan Wisman,39507,Missouri,Canten Marriott,44723,Missouri
+2020,11/03,Southeast Open,184,W,DEC,7 - 0,Matthew Danner,53611,King,Canten Marriott,44723,Missouri
+2020,11/03,Southeast Open,184,W,DEC,6 - 1,Max Gallahan,45422,VMI,Canten Marriott,44723,Missouri
+2020,11/03,Southeast Open,184,L,DEC,3 - 1,Andrew Morgan,40250,Campbell,Canten Marriott,44723,Missouri
+2020,02/01,Missouri Valley Open,184,W,FALL,3:53,Pita Fanoula,66662,Unattached,Cordell Duhart,56938,Missouri
+2020,02/01,Missouri Valley Open,184,W,FALL,5:50,Joshua Molinar,59440,Northeastern Oklahoma,Cordell Duhart,56938,Missouri
+2020,02/01,Missouri Valley Open,184,L,DEC,4 - 0,Devin Winston,60717,SIU Edwardsville,Cordell Duhart,56938,Missouri
+2020,02/01,Missouri Valley Open,184,W,SV-1,5 - 3,Sergio Villalobos,57005,SIU Edwardsville,Cordell Duhart,56938,Missouri
+2020,01/19,Roger Denker Open,184,W,TF5,16 - 1 7:00,Nic Rocha,66436,St Mary,Cordell Duhart,56938,Missouri
+2020,01/19,Roger Denker Open,184,W,TF5,19 - 3 7:00,Alex Drmac,66431,Central Methodist,Cordell Duhart,56938,Missouri
+2020,01/19,Roger Denker Open,184,W,DEC,6 - 4,Sergio Villalobos,57005,SIU Edwardsville,Cordell Duhart,56938,Missouri
+2020,01/19,Roger Denker Open,184,L,SV-1,6 - 4,Sergio Villalobos,57005,SIU Edwardsville,Cordell Duhart,56938,Missouri
+2020,01/19,Roger Denker Open,184,W,MD,10 - 2,Dominique Hampton,53335,Central Missouri,Cordell Duhart,56938,Missouri
+2020,12/29,South Beach College Individual,184,L,TB-1,2 - 1,Caden Steffen,51689,Minnesota,Cordell Duhart,56938,Missouri
+2020,12/29,South Beach College Individual,184,W,DEC,3 - 1,Austen Malczewski,51213,Michigan State,Cordell Duhart,56938,Missouri
+2020,12/29,South Beach College Individual,184,W,DEC,3 - 1,Jonathan Fagen,57304,Cornell,Cordell Duhart,56938,Missouri
+2020,12/14,UNI Open,184,L,FALL,2:18,Julien Broderson,57644,Iowa State,Cordell Duhart,56938,Missouri
+2020,12/14,UNI Open,184,W,DEC,8 - 1,Zac Stork,49357,Grand View,Cordell Duhart,56938,Missouri
+2020,12/14,UNI Open,184,W,DEC,3 - 1,Harrison Swalla,44138,Iowa State,Cordell Duhart,56938,Missouri
+2020,12/14,UNI Open,184,W,DQ,0 - 0,Jakob Hinz,40067,Indiana,Cordell Duhart,56938,Missouri
+2020,12/07,Cougar Clash,184,W,TF5,16 - 0 3:00,Matthew Muller,62816,Little Rock,Cordell Duhart,56938,Missouri
+2020,12/07,Cougar Clash,184,L,TF5,21 - 6 6:44,Cameron Caffey,50273,Michigan State,Cordell Duhart,56938,Missouri
+2020,12/07,Cougar Clash,184,W,DEC,6 - 5,Ryan Yarnell,57006,SIU Edwardsville,Cordell Duhart,56938,Missouri
+2020,11/23,Lindenwood Open,184,L,DEC,4 - 3,Canten Marriott,44723,Missouri,Cordell Duhart,56938,Missouri
+2020,11/23,Lindenwood Open,184,W,DEC,6 - 3,Karim Shakur,65061,Unattached,Cordell Duhart,56938,Missouri
+2020,11/23,Lindenwood Open,184,L,DEC,5 - 0,Abe Assad,56936,Iowa,Cordell Duhart,56938,Missouri
+2020,11/21,Central Missouri - Missouri Dual,184,W,DEC,4 - 0,Dominique Hampton,53335,Central Missouri,Cordell Duhart,56938,Missouri
+2020,11/09,Kaufman Brand Open,184,W,MD,18 - 5,Tyler Crow,64143,Missouri Valley,Cordell Duhart,56938,Missouri
+2020,11/09,Kaufman Brand Open,184,W,DEC,3 - 1,Michael Aldrich,64141,McKendree University,Cordell Duhart,56938,Missouri
+2020,11/09,Kaufman Brand Open,184,L,DEC,5 - 4,Trevor Lawson,56200,Lindsey Wilson,Cordell Duhart,56938,Missouri
+2020,11/09,Kaufman Brand Open,184,W,INJ,7:00,Colton Clingenpeel,45590,Lindenwood,Cordell Duhart,56938,Missouri
+2020,11/09,Kaufman Brand Open,184,W,DEC,3 - 2,Brody Conner,42198,Indianapolis,Cordell Duhart,56938,Missouri
+2020,11/02,Central Methodist Open,184,W,FALL,2:58,Alex Drmac,66431,Central Methodist,Cordell Duhart,56938,Missouri
+2020,11/02,Central Methodist Open,184,W,DEC,7 - 5,Samuel East,62664,Missouri,Cordell Duhart,56938,Missouri
+2020,11/02,Central Methodist Open,184,W,MD,11 - 0,Lewis Caples,59406,Missouri Valley,Cordell Duhart,56938,Missouri
+2020,11/02,Central Methodist Open,184,W,SV-1,8 - 3,Jonathon Juarez,55768,Graceland University,Cordell Duhart,56938,Missouri
+2020,02/01,Missouri Valley Open,197,L,MD,14 - 2,Jack Flynn,51611,Missouri,Samuel East,62664,Missouri
+2020,02/01,Missouri Valley Open,197,L,MFOR,0 - 0,Owen Braungardt,66647,Unattached,Samuel East,62664,Missouri
+2020,02/01,Missouri Valley Open,197,L,DEC,9 - 3,Ryan Herman,62734,Maryville University,Samuel East,62664,Missouri
+2020,02/01,Missouri Valley Open,197,W,FALL,6:17,Evan Brooks,62731,Maryville University,Samuel East,62664,Missouri
+2020,02/01,Missouri Valley Open,197,W,FALL,1:49,Elias Robles,62626,Fort Hays State,Samuel East,62664,Missouri
+2020,01/19,Roger Denker Open,197,W,TF5,16 - 0 7:00,Max Knard,66434,Ottawa,Samuel East,62664,Missouri
+2020,01/19,Roger Denker Open,197,W,DEC,8 - 5,Zach Hazen,66202,Central Missouri,Samuel East,62664,Missouri
+2020,01/19,Roger Denker Open,197,W,FALL,1:28,Seth Sarasua,63829,Northeastern Oklahoma,Samuel East,62664,Missouri
+2020,01/19,Roger Denker Open,197,W,MFOR,0 - 0,Jace Punke,60411,Missouri,Samuel East,62664,Missouri
+2020,01/19,Roger Denker Open,197,L,DEC,12 - 9,Aric Bohn,57004,SIU Edwardsville,Samuel East,62664,Missouri
+2020,12/14,UNI Open,184,L,MD,14 - 5,Harrison Swalla,44138,Iowa State,Samuel East,62664,Missouri
+2020,12/14,UNI Open,184,L,FALL,1:20,Jakob Hinz,40067,Indiana,Samuel East,62664,Missouri
+2020,12/07,Drury Open,184,W,FALL,3:30,Branden Cardwell,64844,Neosho County Community College,Samuel East,62664,Missouri
+2020,12/07,Drury Open,184,W,FALL,4:44,Dayton Fields,63895,Northeastern Oklahoma,Samuel East,62664,Missouri
+2020,12/07,Drury Open,184,W,FALL,4:59,Seth Sarasua,63829,Northeastern Oklahoma,Samuel East,62664,Missouri
+2020,12/07,Drury Open,184,L,DEC,13 - 9,Carson Berryhill,61936,Oklahoma,Samuel East,62664,Missouri
+2020,12/07,Drury Open,184,W,FALL,4:52,Charley Genisio,53372,Drury University,Samuel East,62664,Missouri
+2020,11/23,Lindenwood Open,184,W,MFOR,0 - 0,Lewis Caples,59406,Missouri Valley,Samuel East,62664,Missouri
+2020,11/23,Lindenwood Open,184,L,DEC,4 - 0,Trevor Turiff,52651,Minnesota State Mankato,Samuel East,62664,Missouri
+2020,11/23,Lindenwood Open,184,L,DEC,11 - 6,Sam Karel,52226,Liberty University,Samuel East,62664,Missouri
+2020,11/23,Lindenwood Open,184,W,FALL,1:39,Isaiah Sellers,50367,Williams Baptist,Samuel East,62664,Missouri
+2020,11/02,Central Methodist Open,184,L,DEC,7 - 5,Cordell Duhart,56938,Missouri,Samuel East,62664,Missouri
+2020,11/02,Central Methodist Open,184,W,FALL,1:15,Eli White,63752,Benedictine College,Samuel East,62664,Missouri
+2020,11/02,Central Methodist Open,184,W,DEC,2 - 1,Eli White,63752,Benedictine College,Samuel East,62664,Missouri
+2020,11/02,Central Methodist Open,184,W,FALL,2:47,Korde Weber,59404,Missouri Valley,Samuel East,62664,Missouri
+2020,11/02,Central Methodist Open,184,W,FALL,0:31,Tyson Albright,58489,Benedictine College,Samuel East,62664,Missouri
+2020,03/07,MAC Championships,197,W,DEC,6 - 0,Aric Bohn,57004,SIU Edwardsville,Wyatt Koelling,44722,Missouri
+2020,03/07,MAC Championships,197,L,DEC,6 - 4,Timothy Young,40523,Old Dominion,Wyatt Koelling,44722,Missouri
+2020,03/07,MAC Championships,197,L,SV-1,3 - 1,Ben Smith,56236,Cleveland State,Wyatt Koelling,44722,Missouri
+2020,02/12,Missouri - Southern Illinois Edwardsville Dual,197,W,TF5,17 - 2 5:51,Aric Bohn,57004,SIU Edwardsville,Wyatt Koelling,44722,Missouri
+2020,02/09,Arizona State - Missouri Dual,197,W,DEC,3 - 1,Kordell Norfleet,49038,Arizona State,Wyatt Koelling,44722,Missouri
+2020,02/02,Oklahoma State - Missouri Dual,197,L,DEC,10 - 5,Dakota Geer,45373,Oklahoma State,Wyatt Koelling,44722,Missouri
+2020,01/25,Northern Illinois - Missouri Dual,197,W,DEC,9 - 3,Gage Braun,51647,Northern Illinois,Wyatt Koelling,44722,Missouri
+2020,01/25,Cleveland State - Missouri Dual,197,L,SV-1,3 - 1,Ben Smith,56236,Cleveland State,Wyatt Koelling,44722,Missouri
+2020,01/19,Missouri - Kent State Dual,197,W,DEC,3 - 2,Colin McCracken,50064,Kent State,Wyatt Koelling,44722,Missouri
+2020,01/17,Missouri - Central Michigan Dual,197,W,DEC,3 - 2,Landon Pelham,44838,Central Michigan,Wyatt Koelling,44722,Missouri
+2020,01/12,Missouri - Northern Iowa Dual,197,W,DEC,6 - 2,Noah Glaser,51108,Northern Iowa,Wyatt Koelling,44722,Missouri
+2020,01/10,Ohio - Missouri Dual,197,W,SV-1,3 - 1,Jake Walker,45563,Ohio,Wyatt Koelling,44722,Missouri
+2020,12/30,Lehigh - Missouri Dual,197,L,MD,12 - 2,Jake Jakobsen,46924,Lehigh,Wyatt Koelling,44722,Missouri
+2020,12/30,Missouri - Cornell Dual,197,L,FALL,1:11,Ben Darmstadt,45876,Cornell,Wyatt Koelling,44722,Missouri
+2020,12/29,Missouri - Wyoming Dual,197,W,MD,10 - 2,Stephen Buchanan,60451,Wyoming,Wyatt Koelling,44722,Missouri
+2020,12/29,Missouri - Old Dominion Dual,197,W,SV-1,3 - 1,Timothy Young,40523,Old Dominion,Wyatt Koelling,44722,Missouri
+2020,12/15,Missouri - Buffalo Dual,197,W,FALL,6:54,Sam Schuyler,50361,Buffalo,Wyatt Koelling,44722,Missouri
+2020,12/07,Cougar Clash,197,W,DEC,9 - 2,Jack Flynn,51611,Missouri,Wyatt Koelling,44722,Missouri
+2020,12/07,Cougar Clash,197,W,DEC,6 - 1,Nino Bastianelli,50818,Brown,Wyatt Koelling,44722,Missouri
+2020,12/07,Cougar Clash,197,W,DEC,5 - 3,Taylor Watkins,40180,Wisconsin,Wyatt Koelling,44722,Missouri
+2020,11/23,Lindenwood Open,197,W,MD,11 - 0,Drew Mccollum,52853,Hannibal-LaGrange,Wyatt Koelling,44722,Missouri
+2020,11/23,Lindenwood Open,197,W,DEC,10 - 4,Bear Hughes,52303,Oklahoma State,Wyatt Koelling,44722,Missouri
+2020,11/23,Lindenwood Open,197,L,DEC,5 - 2,Kalin Winkler,46346,Central Oklahoma,Wyatt Koelling,44722,Missouri
+2020,11/23,Lindenwood Open,197,W,DEC,6 - 2,Connor Corbin,50643,Iowa,Wyatt Koelling,44722,Missouri
+2020,11/23,Lindenwood Open,197,W,DEC,10 - 3,Connor Corbin,50643,Iowa,Wyatt Koelling,44722,Missouri
+2020,11/14,Illinois - Missouri Dual,197,W,DEC,6 - 2,Matt Wroblewski,50019,Illinois,Wyatt Koelling,44722,Missouri
+2020,11/02,Missouri - Virginia Tech Dual,197,W,DEC,8 - 1,Stanley Smeltzer,50902,Virginia Tech,Wyatt Koelling,44722,Missouri
+2020,02/01,Missouri Valley Open,197,W,DEC,7 - 4,Owen Braungardt,66647,Unattached,Jack Flynn,51611,Missouri
+2020,02/01,Missouri Valley Open,197,W,MD,14 - 2,Samuel East,62664,Missouri,Jack Flynn,51611,Missouri
+2020,02/01,Missouri Valley Open,197,W,FALL,0:30,Oliver Severance,59156,Benedictine College,Jack Flynn,51611,Missouri
+2020,02/01,Missouri Valley Open,197,W,DEC,9 - 5,Tereus Henry,62625,Fort Hays State,Jack Flynn,51611,Missouri
+2020,12/29,South Beach College Individual,197,L,FALL,3:42,Tanner Sloan,56251,South Dakota State,Jack Flynn,51611,Missouri
+2020,12/29,South Beach College Individual,197,W,DEC,12 - 6,Vincent Baker,56930,Duke,Jack Flynn,51611,Missouri
+2020,12/14,UNI Open,197,L,DEC,5 - 1,Nick Willham,62447,Indiana,Jack Flynn,51611,Missouri
+2020,12/14,UNI Open,197,L,MD,9 - 0,Jake Kleimola,44956,Indiana,Jack Flynn,51611,Missouri
+2020,12/14,UNI Open,197,W,FALL,2:08,Ben Stacey,44899,Chattanooga,Jack Flynn,51611,Missouri
+2020,12/14,UNI Open,197,L,DEC,4 - 0,Tyrell Gordon,51694,Northern Iowa,Jack Flynn,51611,Missouri
+2020,12/07,Cougar Clash,197,L,DEC,9 - 2,Wyatt Koelling,44722,Missouri,Jack Flynn,51611,Missouri
+2020,12/07,Cougar Clash,197,L,DEC,5 - 2,Nick May,44742,Michigan State,Jack Flynn,51611,Missouri
+2020,12/07,Cougar Clash,197,W,INJ,7:00,Austin Andres,57007,SIU Edwardsville,Jack Flynn,51611,Missouri
+2020,12/07,Cougar Clash,197,L,DEC,2 - 1,Peter Christensen,57076,Wisconsin,Jack Flynn,51611,Missouri
+2020,11/23,Lindenwood Open,197,L,DEC,7 - 0,Ryan Vasbinder,53358,McKendree University,Jack Flynn,51611,Missouri
+2020,11/23,Lindenwood Open,197,W,FALL,6:56,Bear Hughes,52303,Oklahoma State,Jack Flynn,51611,Missouri
+2020,11/23,Lindenwood Open,197,L,DEC,5 - 3,Connor Corbin,50643,Iowa,Jack Flynn,51611,Missouri
+2020,11/21,Missouri Valley - Missouri Dual,197,W,FALL,3:11,Dayton Brown,58765,Missouri Valley,Jack Flynn,51611,Missouri
+2020,11/03,Southeast Open,197,W,TF5,15 - 0 5:11,Ross Sealby,63532,Mount Olive,Jack Flynn,51611,Missouri
+2020,11/03,Southeast Open,197,L,MD,11 - 2,Stanley Smeltzer,50902,Virginia Tech,Jack Flynn,51611,Missouri
+2020,11/03,Southeast Open,197,L,DEC,5 - 2,Brandon Whitman,50602,North Carolina,Jack Flynn,51611,Missouri
+2020,11/03,Southeast Open,197,W,DEC,4 - 2,Elijah Seay,46139,King,Jack Flynn,51611,Missouri
+2020,02/01,Missouri Valley Open,197,W,DEC,5 - 3,Owen Braungardt,66647,Unattached,Jace Punke,60411,Missouri
+2020,02/01,Missouri Valley Open,197,W,DEC,3 - 2,Elijah Boulton,63918,Oklahoma,Jace Punke,60411,Missouri
+2020,02/01,Missouri Valley Open,197,W,DEC,6 - 1,Robert Strong,59399,Missouri Valley,Jace Punke,60411,Missouri
+2020,02/01,Missouri Valley Open,197,L,DEC,10 - 5,Tereus Henry,62625,Fort Hays State,Jace Punke,60411,Missouri
+2020,01/19,Roger Denker Open,197,L,MFOR,0 - 0,Samuel East,62664,Missouri,Jace Punke,60411,Missouri
+2020,01/19,Roger Denker Open,197,W,MD,9 - 1,Stephen Brady,66430,Central Methodist,Jace Punke,60411,Missouri
+2020,01/19,Roger Denker Open,197,L,MFOR,0 - 0,Jaden Davis,64728,Grand View,Jace Punke,60411,Missouri
+2020,01/19,Roger Denker Open,197,W,DEC,10 - 5,Seth Sarasua,63829,Northeastern Oklahoma,Jace Punke,60411,Missouri
+2020,01/19,Roger Denker Open,197,L,TB-2,8 - 6,Colben Dodson,59452,Northeastern Oklahoma,Jace Punke,60411,Missouri
+2020,12/14,UNI Open,197,L,DEC,4 - 2,Trent Allen,41965,Grand View,Jace Punke,60411,Missouri
+2020,12/14,UNI Open,197,L,DEC,2 - 0,Nick Willham,62447,Indiana,Jace Punke,60411,Missouri
+2020,12/07,Drury Open,197,W,TF5,22 - 7 7:00,Logan Hall,65461,Northeastern Oklahoma,Jace Punke,60411,Missouri
+2020,12/07,Drury Open,197,W,TF5,21 - 6 7:00,Brandon Barrager,65459,Neosho County Community College,Jace Punke,60411,Missouri
+2020,12/07,Drury Open,197,W,FALL,7:55,Dylan Newton,64850,Neosho County Community College,Jace Punke,60411,Missouri
+2020,12/07,Drury Open,197,L,INJ,7:00,Colben Dodson,59452,Northeastern Oklahoma,Jace Punke,60411,Missouri
+2020,12/07,Drury Open,197,L,DEC,8 - 1,Augustus Boyd,41475,Ouachita Baptist University,Jace Punke,60411,Missouri
+2020,11/02,Central Methodist Open,197,W,TF5,23 - 8 7:00,Anthony Opichka,63743,Benedictine College,Jace Punke,60411,Missouri
+2020,11/02,Central Methodist Open,197,W,FALL,3:28,Zachary Choate,59408,Cowley College,Jace Punke,60411,Missouri
+2020,11/02,Central Methodist Open,197,W,FALL,2:00,Oliver Severance,59156,Benedictine College,Jace Punke,60411,Missouri
+2020,03/07,MAC Championships,285,L,DEC,6 - 1,John Kelbly,50329,Cleveland State,Jacob Bohlken,44953,Missouri
+2020,03/07,MAC Championships,285,L,DEC,3 - 1,Colton McKiernan,57003,SIU Edwardsville,Jacob Bohlken,44953,Missouri
+2020,03/07,MAC Championships,285,W,DEC,3 - 2,Colton McKiernan,57003,SIU Edwardsville,Jacob Bohlken,44953,Missouri
+2020,03/07,MAC Championships,285,L,TB-2,2 - 1,Ryan Cloud,39972,Rider,Jacob Bohlken,44953,Missouri
+2020,03/07,MAC Championships,285,W,DEC,3 - 2,Jacob Slinger,57307,George Mason,Jacob Bohlken,44953,Missouri
+2020,02/22,Iowa State - Missouri Dual,285,L,DEC,6 - 2,Gannon Gremmel,44856,Iowa State,Jacob Bohlken,44953,Missouri
+2020,02/12,Missouri - Southern Illinois Edwardsville Dual,285,L,DEC,3 - 0,Colton McKiernan,57003,SIU Edwardsville,Jacob Bohlken,44953,Missouri
+2020,02/09,Arizona State - Missouri Dual,285,L,DEC,4 - 1,Tanner Hall,40231,Arizona State,Jacob Bohlken,44953,Missouri
+2020,02/02,Oklahoma State - Missouri Dual,285,L,TB-2,3 - 2,Cornelius Putnam,52368,Oklahoma State,Jacob Bohlken,44953,Missouri
+2020,01/25,Northern Illinois - Missouri Dual,285,L,SV-1,3 - 1,Max Ihry,44857,Northern Illinois,Jacob Bohlken,44953,Missouri
+2020,01/25,Cleveland State - Missouri Dual,285,L,TB-2,3 - 2,Collin Kelly,45338,Cleveland State,Jacob Bohlken,44953,Missouri
+2020,01/19,Missouri - Kent State Dual,285,W,SV-1,6 - 4,Spencer Berthold,50157,Kent State,Jacob Bohlken,44953,Missouri
+2020,01/17,Missouri - Central Michigan Dual,285,L,DEC,8 - 2,Matt Stencel,44592,Central Michigan,Jacob Bohlken,44953,Missouri
+2020,01/10,Ohio - Missouri Dual,285,L,DEC,4 - 3,Jordan Earnest,51122,Ohio,Jacob Bohlken,44953,Missouri
+2020,12/30,Lehigh - Missouri Dual,285,L,DEC,6 - 2,Jordan Wood,45107,Lehigh,Jacob Bohlken,44953,Missouri
+2020,12/29,South Beach College Individual,285,L,SV-1,3 - 1,Blake Wolters,45289,South Dakota State,Jacob Bohlken,44953,Missouri
+2020,12/29,Missouri - Wyoming Dual,285,L,DEC,4 - 1,Brian Andrews,50489,Wyoming,Jacob Bohlken,44953,Missouri
+2020,12/15,Missouri - Buffalo Dual,285,W,DEC,1 - 0,Nolan Terrance,39572,Buffalo,Jacob Bohlken,44953,Missouri
+2020,12/07,Cougar Clash,285,W,INJ,7:00,James Valentino,49057,Brown,Jacob Bohlken,44953,Missouri
+2020,12/07,Cougar Clash,285,W,DEC,1 - 0,Rodrigo Diaz,44851,Missouri,Jacob Bohlken,44953,Missouri
+2020,12/07,Cougar Clash,285,L,TB-1,2 - 1,Christian Rebottaro,44850,Michigan State,Jacob Bohlken,44953,Missouri
+2020,12/07,Cougar Clash,285,W,DEC,2 - 1,Tommy Helton,45298,SIU Edwardsville,Jacob Bohlken,44953,Missouri
+2020,11/23,Lindenwood Open,285,L,FALL,5:33,Colton McKiernan,57003,SIU Edwardsville,Jacob Bohlken,44953,Missouri
+2020,11/23,Lindenwood Open,285,W,DEC,9 - 6,Ethan Bunce,54528,Marian University,Jacob Bohlken,44953,Missouri
+2020,11/23,Lindenwood Open,285,W,DEC,3 - 2,Tage McNutt,52854,Lindenwood,Jacob Bohlken,44953,Missouri
+2020,11/23,Lindenwood Open,285,W,DEC,5 - 1,Vinnie Scalelta,52369,McKendree University,Jacob Bohlken,44953,Missouri
+2020,11/23,Lindenwood Open,285,W,DEC,3 - 0,Garrett Beier,40215,Central Oklahoma,Jacob Bohlken,44953,Missouri
+2020,11/21,Central Missouri - Missouri Dual,285,W,DEC,6 - 1,Chase Miller,53507,Central Missouri,Jacob Bohlken,44953,Missouri
+2020,02/01,Missouri Valley Open,285,L,MFOR,0 - 0,Rodrigo Diaz,44851,Missouri,Zach Elam,51612,Missouri
+2020,02/01,Missouri Valley Open,285,W,DEC,9 - 4,Dan Baker,63903,Northeastern Oklahoma,Zach Elam,51612,Missouri
+2020,02/01,Missouri Valley Open,285,W,FALL,0:29,Devohn Cruz,61576,Missouri Valley,Zach Elam,51612,Missouri
+2020,02/01,Missouri Valley Open,285,W,FALL,0:26,Cody Adams,55135,St Mary,Zach Elam,51612,Missouri
+2020,02/01,Missouri Valley Open,285,W,FALL,0:28,Jordan Davis,42257,Fort Hays State,Zach Elam,51612,Missouri
+2020,01/19,Roger Denker Open,285,W,FALL,1:14,Brendon Shelton,66437,Central Methodist,Zach Elam,51612,Missouri
+2020,01/19,Roger Denker Open,285,W,FALL,1:10,Dan Baker,63903,Northeastern Oklahoma,Zach Elam,51612,Missouri
+2020,01/19,Roger Denker Open,285,W,FALL,0:20,Cody Adams,55135,St Mary,Zach Elam,51612,Missouri
+2020,01/19,Roger Denker Open,285,W,FALL,3:34,Jared Rennick,47337,Drury University,Zach Elam,51612,Missouri
+2020,12/29,Midlands Championships,285,W,FALL,0:59,Luke Luffman,56708,Illinois,Zach Elam,51612,Missouri
+2020,12/29,Midlands Championships,285,L,DEC,6 - 0,Anthony Cassioppi,50650,Iowa,Zach Elam,51612,Missouri
+2020,12/29,Midlands Championships,285,W,DEC,4 - 3,Quinn Miller,49333,Virginia,Zach Elam,51612,Missouri
+2020,12/29,Midlands Championships,285,W,DEC,6 - 0,Bobby Heald,45649,Army West Point,Zach Elam,51612,Missouri
+2020,12/29,Midlands Championships,285,L,TB-2,6 - 4,Josh Hokit,44586,Fresno State,Zach Elam,51612,Missouri
+2020,12/29,Midlands Championships,285,W,DEC,2 - 0,Josiah Jones,51617,Oklahoma,Zach Elam,51612,Missouri
+2020,11/23,Lindenwood Open,285,W,FALL,2:36,Jordan Bills,64440,Unattached,Zach Elam,51612,Missouri
+2020,11/23,Lindenwood Open,285,W,DEC,15 - 8,Brandon Reed,49369,Lindsey Wilson,Zach Elam,51612,Missouri
+2020,11/23,Lindenwood Open,285,W,FALL,2:13,Logan Radik,47209,Maryville University,Zach Elam,51612,Missouri
+2020,11/23,Lindenwood Open,285,W,DEC,6 - 0,Aaron Costello,49149,Iowa,Zach Elam,51612,Missouri
+2020,11/23,Lindenwood Open,285,W,FALL,0:41,Vinnie Scalelta,52369,McKendree University,Austin Myers,39755,Missouri
+2020,11/23,Lindenwood Open,285,L,DEC,4 - 0,Logan Radik,47209,Maryville University,Austin Myers,39755,Missouri
+2020,11/23,Lindenwood Open,285,L,DEC,8 - 6,Aaron Costello,49149,Iowa,Austin Myers,39755,Missouri
+2020,02/01,Missouri Valley Open,285,W,FALL,0:39,Kevin Castro,66661,St Mary,Rodrigo Diaz,44851,Missouri
+2020,02/01,Missouri Valley Open,285,W,FALL,2:56,Maxwell Diaz,65118,William Penn,Rodrigo Diaz,44851,Missouri
+2020,02/01,Missouri Valley Open,285,W,DEC,3 - 1,Seth Seago,63882,Northeastern Oklahoma,Rodrigo Diaz,44851,Missouri
+2020,02/01,Missouri Valley Open,285,W,MFOR,0 - 0,Zach Elam,51612,Missouri,Rodrigo Diaz,44851,Missouri
+2020,02/01,Missouri Valley Open,285,W,DEC,2 - 0,Max Darrah,60652,Maryville University,Rodrigo Diaz,44851,Missouri
+2020,01/19,Roger Denker Open,285,L,DEC,6 - 1,Dan Baker,63903,Northeastern Oklahoma,Rodrigo Diaz,44851,Missouri
+2020,01/19,Roger Denker Open,285,W,DEC,7 - 1,Seth Seago,63882,Northeastern Oklahoma,Rodrigo Diaz,44851,Missouri
+2020,01/19,Roger Denker Open,285,L,MFOR,0 - 0,Seth Seago,63882,Northeastern Oklahoma,Rodrigo Diaz,44851,Missouri
+2020,01/19,Roger Denker Open,285,W,DQ,0 - 0,Darron Harvey,63706,Arkansas Baptist,Rodrigo Diaz,44851,Missouri
+2020,01/19,Roger Denker Open,285,L,MFOR,0 - 0,Jared Rennick,47337,Drury University,Rodrigo Diaz,44851,Missouri
+2020,01/12,Missouri - Northern Iowa Dual,285,L,MD,11 - 1,Carter Isley,44719,Northern Iowa,Rodrigo Diaz,44851,Missouri
+2020,12/30,Missouri - Cornell Dual,285,L,MD,14 - 6,Brendan Furman,49113,Cornell,Rodrigo Diaz,44851,Missouri
+2020,12/29,South Beach College Individual,285,L,DEC,5 - 3,Blake Wolters,45289,South Dakota State,Rodrigo Diaz,44851,Missouri
+2020,12/29,South Beach College Individual,285,W,DEC,3 - 2,Victor Lacombe,49659,Lehigh,Rodrigo Diaz,44851,Missouri
+2020,12/29,South Beach College Individual,285,W,DEC,4 - 0,Jonah Niesenbaum,60444,Duke,Rodrigo Diaz,44851,Missouri
+2020,12/29,Missouri - Old Dominion Dual,285,W,DEC,10 - 5,Will Hilliard,44796,Old Dominion,Rodrigo Diaz,44851,Missouri
+2020,12/14,UNI Open,285,W,DEC,12 - 8,Brandon Streck,56190,Indiana,Rodrigo Diaz,44851,Missouri
+2020,12/14,UNI Open,285,W,DEC,7 - 5,Spencer Trenary,57604,South Dakota State,Rodrigo Diaz,44851,Missouri
+2020,12/14,UNI Open,285,W,DEC,6 - 0,Logan Andrew,59757,Chattanooga,Rodrigo Diaz,44851,Missouri
+2020,12/14,UNI Open,285,L,DEC,12 - 8,Bryce Esmoil,57162,Northern Iowa,Rodrigo Diaz,44851,Missouri
+2020,12/07,Cougar Clash,285,L,DEC,1 - 0,Jacob Bohlken,44953,Missouri,Rodrigo Diaz,44851,Missouri
+2020,12/07,Cougar Clash,285,W,DEC,9 - 6,Gunner Cash,50306,Little Rock,Rodrigo Diaz,44851,Missouri
+2020,12/07,Cougar Clash,285,W,DEC,2 - 0,Tommy Helton,45298,SIU Edwardsville,Rodrigo Diaz,44851,Missouri
+2020,12/07,Cougar Clash,285,L,MD,9 - 1,Trent Hillger,49350,Wisconsin,Rodrigo Diaz,44851,Missouri
+2020,11/23,Lindenwood Open,285,W,DQ,0 - 0,Josh Heindselman,57311,Oklahoma,Rodrigo Diaz,44851,Missouri
+2020,11/23,Lindenwood Open,285,W,MFOR,0 - 0,Colton McKiernan,57003,SIU Edwardsville,Rodrigo Diaz,44851,Missouri
+2020,11/23,Lindenwood Open,285,L,MD,13 - 5,Brandon Reed,49369,Lindsey Wilson,Rodrigo Diaz,44851,Missouri
+2020,11/23,Lindenwood Open,285,W,MD,11 - 3,Caleb Gossett,40013,McKendree University,Rodrigo Diaz,44851,Missouri
+2020,11/23,Lindenwood Open,285,L,DEC,10 - 4,Aaron Costello,49149,Iowa,Rodrigo Diaz,44851,Missouri
+2020,11/21,Missouri Valley - Missouri Dual,285,W,DEC,4 - 1,Joshua Isaac,59392,Missouri Valley,Rodrigo Diaz,44851,Missouri
+2020,11/14,Illinois - Missouri Dual,285,L,DEC,9 - 7,Luke Luffman,56708,Illinois,Rodrigo Diaz,44851,Missouri
+2020,11/03,Southeast Open,285,W,DEC,10 - 4,Sean Mullican,49344,West Virginia,Rodrigo Diaz,44851,Missouri
+2020,11/03,Southeast Open,285,L,DEC,5 - 4,Andrew Gunning,44876,North Carolina,Rodrigo Diaz,44851,Missouri
+2020,11/03,Southeast Open,285,W,MD,14 - 4,Grayson Walthall,62675,Chattanooga,Rodrigo Diaz,44851,Missouri
+2020,11/03,Southeast Open,285,W,DEC,8 - 4,Odgerek Batkhishig,46249,Campbell,Rodrigo Diaz,44851,Missouri
+2020,11/02,Missouri - Virginia Tech Dual,285,L,MD,11 - 3,John Borst,49336,Virginia Tech,Rodrigo Diaz,44851,Missouri

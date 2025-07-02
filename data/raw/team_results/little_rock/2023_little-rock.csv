@@ -1,0 +1,518 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2023,03/05,PAC 12 Championships,125,L,DEC,4 - 1,Nico Provo,65883,Stanford,Jeremiah Reno,62342,Little Rock
+2023,03/05,PAC 12 Championships,125,L,DEC,10 - 5,Eddie Flores,51127,CSU Bakersfield,Jeremiah Reno,62342,Little Rock
+2023,03/05,PAC 12 Championships,125,L,MD,10 - 2,Antonio Lorenzo,57329,Cal Poly,Jeremiah Reno,62342,Little Rock
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,125,W,MD,15 - 7,Austin Macias,57088,SIU Edwardsville,Jeremiah Reno,62342,Little Rock
+2023,02/12,Little Rock - Ohio Dual,125,W,DEC,3 - 2,Oscar Sanchez,57320,Ohio,Jeremiah Reno,62342,Little Rock
+2023,02/05,Little Rock - CSU Bakersfield Dual,125,W,DEC,12 - 10,Eddie Flores,51127,CSU Bakersfield,Jeremiah Reno,62342,Little Rock
+2023,02/05,Little Rock - Cal Poly Dual,125,W,MD,14 - 6,Koda Holeman,73792,Cal Poly,Jeremiah Reno,62342,Little Rock
+2023,02/03,Little Rock - Arizona State Dual,125,L,MD,16 - 8,Brandon Courtney,50881,Arizona State,Jeremiah Reno,62342,Little Rock
+2023,01/22,Northern Colorado - Little Rock Dual,125,L,MD,11 - 1,Stevo Poulin,71929,Northern Colorado,Jeremiah Reno,62342,Little Rock
+2023,01/15,Oregon State - Little Rock Dual,125,L,MD,21 - 12,Brandon Kaylor,51198,Oregon State,Jeremiah Reno,62342,Little Rock
+2023,01/13,Lindenwood (Mo) - Little Rock Dual,125,W,FALL,3:54,Austin Kegley,70722,Lindenwood,Jeremiah Reno,62342,Little Rock
+2023,01/01,Southern Scuffle,125,L,DEC,9 - 4,Nico Provo,65883,Stanford,Jeremiah Reno,62342,Little Rock
+2023,01/01,Southern Scuffle,125,W,DEC,7 - 6,Caleb Fuessley,62605,Iowa State,Jeremiah Reno,62342,Little Rock
+2023,01/01,Southern Scuffle,125,W,TF5,15 - 0 3:18,Kenny Sailas,72179,Northern Colorado,Jeremiah Reno,62342,Little Rock
+2023,01/01,Southern Scuffle,125,W,FALL,3:13,Noah Luna,79081,Appalachian State,Jeremiah Reno,62342,Little Rock
+2023,01/01,Southern Scuffle,125,L,DEC,4 - 3,Caleb Smith,58559,Appalachian State,Jeremiah Reno,62342,Little Rock
+2023,12/18,North Dakota State - Little Rock Dual,125,W,DEC,8 - 3,Carlos Negrete Jr,67085,North Dakota State,Jeremiah Reno,62342,Little Rock
+2023,12/04,Cougar Clash Invite,125,W,TF5,20 - 2 7:00,Davian Guanajuato,74863,SIU Edwardsville,Jeremiah Reno,62342,Little Rock
+2023,12/04,Cougar Clash Invite,125,L,DEC,6 - 4,Blake West,73337,Northern Illinois,Jeremiah Reno,62342,Little Rock
+2023,12/04,Cougar Clash Invite,125,W,DEC,6 - 2,Jayden Carson,62838,Little Rock,Jeremiah Reno,62342,Little Rock
+2023,12/04,Cougar Clash Invite,125,W,FALL,0:53,Austin Macias,57088,SIU Edwardsville,Jeremiah Reno,62342,Little Rock
+2023,11/18,Little Rock - Oklahoma Dual,125,L,MD,10 - 1,Joey Prata,44734,Oklahoma,Jeremiah Reno,62342,Little Rock
+2023,11/05,Little Rock - Chattanooga Dual,125,W,DEC,6 - 1,Logan Ashton,57605,Chattanooga,Jeremiah Reno,62342,Little Rock
+2023,11/05,Iowa State - Little Rock Dual,125,W,MD,12 - 4,Caleb Fuessley,62605,Iowa State,Jeremiah Reno,62342,Little Rock
+2023,11/01,Ouachita Baptist University - Little Rock Dual,125,W,MD,17 - 5,Noah Yeamans,70037,Ouachita Baptist University,Jeremiah Reno,62342,Little Rock
+2023,02/05,Little Rock - CSU Bakersfield Dual,141,W,DEC,4 - 2,Louie Ramos,73173,CSU Bakersfield,Jayden Carson,62838,Little Rock
+2023,01/15,Oregon State - Little Rock Dual,141,L,TF5,16 - 1 5:09,Cleveland Belton,57334,Oregon State,Jayden Carson,62838,Little Rock
+2023,01/01,Southern Scuffle,133,L,TF5,17 - 0 6:45,Connor Brown,49321,Missouri,Jayden Carson,62838,Little Rock
+2023,01/01,Southern Scuffle,133,L,MD,10 - 2,Jake Gliva,51241,Minnesota,Jayden Carson,62838,Little Rock
+2023,01/01,Southern Scuffle,133,W,DEC,4 - 0,Chase Liardi,72134,Hofstra,Jayden Carson,62838,Little Rock
+2023,12/04,Cougar Clash Invite,125,L,DEC,6 - 2,Jeremiah Reno,62342,Little Rock,Jayden Carson,62838,Little Rock
+2023,12/04,Cougar Clash Invite,125,W,DEC,11 - 4,Davian Guanajuato,74863,SIU Edwardsville,Jayden Carson,62838,Little Rock
+2023,12/04,Cougar Clash Invite,125,L,MD,13 - 1,Stevo Poulin,71929,Northern Colorado,Jayden Carson,62838,Little Rock
+2023,12/04,Cougar Clash Invite,125,W,TF5,17 - 0 7:00,Austin Macias,57088,SIU Edwardsville,Jayden Carson,62838,Little Rock
+2023,11/19,Lindenwood Open,125,W,TF5,18 - 0 7:00,Davian Guanajuato,74863,SIU Edwardsville,Jayden Carson,62838,Little Rock
+2023,11/19,Lindenwood Open,125,W,TF5,18 - 0 7:00,Jaxson Roney,74263,University of the Ozarks,Jayden Carson,62838,Little Rock
+2023,11/19,Lindenwood Open,125,L,DEC,4 - 3,Studd Morris,63872,Central Oklahoma,Jayden Carson,62838,Little Rock
+2023,11/19,Lindenwood Open,125,L,DEC,6 - 4,Christian Mejia,56521,McKendree University,Jayden Carson,62838,Little Rock
+2023,11/12,Tiger Style Invite,125,W,DEC,8 - 4,Reid Nelson,72129,Little Rock,Jayden Carson,62838,Little Rock
+2023,11/12,Tiger Style Invite,125,L,MD,11 - 2,Noah Surtin,56715,Missouri,Jayden Carson,62838,Little Rock
+2023,11/12,Tiger Style Invite,125,L,DEC,6 - 4,Antonio Mininno,50806,Drexel,Jayden Carson,62838,Little Rock
+2023,11/12,Tiger Style Invite,125,W,DEC,8 - 6,Dominic Mendez,73704,Cal Poly,Jayden Carson,62838,Little Rock
+2023,11/05,Little Rock - Campbell Dual,125,W,DEC,9 - 6,Zak Thompson,71128,Campbell,Jayden Carson,62838,Little Rock
+2023,11/01,Little Rock Ouachita ECM,133,W,TF5,18 - 2 3:00,Cole McCartney,70040,Ouachita Baptist University,Jayden Carson,62838,Little Rock
+2023,01/01,Southern Scuffle,125,L,FALL,2:21,Anthony Sobotker,60378,Binghamton,Reid Nelson,72129,Little Rock
+2023,01/01,Southern Scuffle,125,L,DEC,7 - 3,Tyler Klinsky,62353,Rider,Reid Nelson,72129,Little Rock
+2023,01/01,Southern Scuffle,125,W,DEC,4 - 0,Logan Ashton,57605,Chattanooga,Reid Nelson,72129,Little Rock
+2023,11/19,Lindenwood Open,125,W,MD,13 - 5,Guy Clevenger,79121,Central Oklahoma,Reid Nelson,72129,Little Rock
+2023,11/19,Lindenwood Open,125,L,DEC,6 - 2,Riley Bettich,75412,Indian Hills,Reid Nelson,72129,Little Rock
+2023,11/19,Lindenwood Open,125,L,TF5,18 - 3 7:00,Anthony Schickel,80418,Triton College,Reid Nelson,72129,Little Rock
+2023,11/19,Lindenwood Open,125,W,DEC,6 - 4,Peyton Moore,77256,Missouri,Reid Nelson,72129,Little Rock
+2023,11/19,Lindenwood Open,125,W,DEC,5 - 0,Luqman Masud,76147,Joliet Junior College,Reid Nelson,72129,Little Rock
+2023,11/19,Lindenwood Open,125,W,FALL,1:54,Aidan Haggard,76086,Maryville University,Reid Nelson,72129,Little Rock
+2023,11/12,Tiger Style Invite,125,L,DEC,8 - 4,Jayden Carson,62838,Little Rock,Reid Nelson,72129,Little Rock
+2023,11/12,Tiger Style Invite,125,W,DEC,7 - 5,Peyton Moore,77256,Missouri,Reid Nelson,72129,Little Rock
+2023,11/12,Tiger Style Invite,125,L,DEC,5 - 3,Antonio Mininno,50806,Drexel,Reid Nelson,72129,Little Rock
+2023,11/12,Tiger Style Invite,125,W,MFOR,0 - 0,Dominic Mendez,73704,Cal Poly,Reid Nelson,72129,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,125,L,MD,11 - 3,Luke Lilledahl,80223,High School,Reid Nelson,72129,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,125,L,DEC,13 - 6,Davian Guanajuato,74863,SIU Edwardsville,Reid Nelson,72129,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,125,W,FALL,2:58,Noah Cantu,61519,Indianapolis,Reid Nelson,72129,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,125,W,FALL,2:30,Alec Bailey,70720,Lindenwood,Reid Nelson,72129,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,125,W,FALL,6:19,Ben Lindley,62972,Lindenwood,Reid Nelson,72129,Little Rock
+2023,03/05,PAC 12 Championships,133,W,MFOR,0 - 0,Chance Rich,50933,CSU Bakersfield,Joshua Sarpy,65932,Little Rock
+2023,03/05,PAC 12 Championships,133,L,DEC,7 - 2,Chance Rich,50933,CSU Bakersfield,Joshua Sarpy,65932,Little Rock
+2023,03/05,PAC 12 Championships,133,L,DEC,4 - 2,Ethan Rotondo,51219,Cal Poly,Joshua Sarpy,65932,Little Rock
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,133,L,MD,14 - 6,Aaron Schulist,57012,SIU Edwardsville,Joshua Sarpy,65932,Little Rock
+2023,02/12,Little Rock - Ohio Dual,133,W,MD,8 - 0,Nolan Frye,78918,Ohio,Joshua Sarpy,65932,Little Rock
+2023,02/05,Little Rock - CSU Bakersfield Dual,133,W,TF5,17 - 2 7:00,Romeo McNeil,63461,CSU Bakersfield,Joshua Sarpy,65932,Little Rock
+2023,02/05,Little Rock - Cal Poly Dual,133,L,DEC,7 - 2,Ethan Rotondo,51219,Cal Poly,Joshua Sarpy,65932,Little Rock
+2023,02/03,Little Rock - Arizona State Dual,133,L,TF5,17 - 1 5:00,Michael McGee,49264,Arizona State,Joshua Sarpy,65932,Little Rock
+2023,01/28,Stanford - Little Rock Dual,133,L,DEC,8 - 2,Jackson DiSario,57126,Stanford,Joshua Sarpy,65932,Little Rock
+2023,01/22,Northern Colorado - Little Rock Dual,133,L,MD,8 - 0,Jace Koelzer,50912,Northern Colorado,Joshua Sarpy,65932,Little Rock
+2023,01/15,Oregon State - Little Rock Dual,133,L,DEC,19 - 12,Jason Shaner Jr,56244,Oregon State,Joshua Sarpy,65932,Little Rock
+2023,01/13,Lindenwood (Mo) - Little Rock Dual,133,W,DEC,12 - 5,Ben Lindley,62972,Lindenwood,Joshua Sarpy,65932,Little Rock
+2023,01/01,Southern Scuffle,133,L,FALL,1:20,McGwire Midkiff,49224,North Dakota State,Joshua Sarpy,65932,Little Rock
+2023,01/01,Southern Scuffle,133,W,DEC,5 - 1,Conner Quinn,72582,Maryland,Joshua Sarpy,65932,Little Rock
+2023,01/01,Southern Scuffle,133,L,TF5,16 - 0 3:23,Kurt Phipps,63966,Bucknell,Joshua Sarpy,65932,Little Rock
+2023,12/18,North Dakota State - Little Rock Dual,133,L,DEC,9 - 5,McGwire Midkiff,49224,North Dakota State,Joshua Sarpy,65932,Little Rock
+2023,12/04,Cougar Clash Invite,133,W,DEC,8 - 1,Marcel Lopez,78290,SIU Edwardsville,Joshua Sarpy,65932,Little Rock
+2023,12/04,Cougar Clash Invite,133,L,DEC,6 - 4,Lucian Brink,64945,Northern Illinois,Joshua Sarpy,65932,Little Rock
+2023,12/04,Cougar Clash Invite,133,L,FALL,3:56,Aaron Schulist,57012,SIU Edwardsville,Joshua Sarpy,65932,Little Rock
+2023,12/04,Cougar Clash Invite,133,W,TF5,16 - 1 7:00,Caiden Pelc,79804,Lindenwood,Joshua Sarpy,65932,Little Rock
+2023,11/18,Little Rock - Oklahoma Dual,133,L,MD,16 - 3,Wyatt Henson,63069,Oklahoma,Joshua Sarpy,65932,Little Rock
+2023,11/05,Little Rock - Chattanooga Dual,133,L,TF5,15 - 0 7:00,Brayden Palmer,59826,Chattanooga,Joshua Sarpy,65932,Little Rock
+2023,11/05,Little Rock - Campbell Dual,133,L,TF5,22 - 7 7:00,Domenic Zaccone,56926,Campbell,Joshua Sarpy,65932,Little Rock
+2023,11/05,Iowa State - Little Rock Dual,133,L,MD,14 - 5,Zach Redding,62726,Iowa State,Joshua Sarpy,65932,Little Rock
+2023,11/01,Ouachita Baptist University - Little Rock Dual,133,W,DEC,13 - 7,James Anderson,79938,Ouachita Baptist University,Joshua Sarpy,65932,Little Rock
+2023,01/01,Southern Scuffle,133,L,DEC,6 - 0,McGwire Midkiff,49224,North Dakota State,Cael Keck,76500,Little Rock
+2023,01/01,Southern Scuffle,133,W,MFOR,0 - 0,Jackson Cockrell,63028,Maryland,Cael Keck,76500,Little Rock
+2023,01/01,Southern Scuffle,133,L,FALL,2:32,Kurt Phipps,63966,Bucknell,Cael Keck,76500,Little Rock
+2023,11/19,Lindenwood Open,133,W,FALL,0:37,Caydon Miller,81838,Unattached,Cael Keck,76500,Little Rock
+2023,11/19,Lindenwood Open,133,W,DEC,7 - 1,Lucas Laux,76566,Maryville University,Cael Keck,76500,Little Rock
+2023,11/19,Lindenwood Open,133,L,MFOR,0 - 0,JP Homfeld,74854,Maryville University,Cael Keck,76500,Little Rock
+2023,11/19,Lindenwood Open,133,W,DEC,9 - 4,Caiden Pelc,79804,Lindenwood,Cael Keck,76500,Little Rock
+2023,11/12,Tiger Style Invite,133,W,DEC,1 - 0,Conner Quinn,72582,Maryland,Cael Keck,76500,Little Rock
+2023,11/12,Tiger Style Invite,133,L,DEC,7 - 1,Zeke Seltzer,72572,Missouri,Cael Keck,76500,Little Rock
+2023,11/12,Tiger Style Invite,133,L,MD,9 - 0,Connor Brown,49321,Missouri,Cael Keck,76500,Little Rock
+2023,11/12,Tiger Style Invite,133,L,FALL,4:04,Kole Brower,73712,Illinois,Cael Keck,76500,Little Rock
+2023,11/12,Tiger Style Invite,133,W,MD,14 - 3,Jaxon Maroney,62880,Drexel,Cael Keck,76500,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,133,W,DEC,6 - 3,Joey Showalter,83718,Indiana,Khyler Brewer,67052,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,133,L,MFOR,0 - 0,Joey Showalter,83718,Indiana,Khyler Brewer,67052,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,133,L,INJ,4:18,Lucas Laux,76566,Maryville University,Khyler Brewer,67052,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,133,L,MFOR,0 - 0,Kade Willis,74882,Maryville University,Khyler Brewer,67052,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,133,W,DEC,7 - 0,Christian Cartright,67800,McKendree University,Khyler Brewer,67052,Little Rock
+2023,03/05,PAC 12 Championships,141,L,MD,17 - 3,Jason Miranda,64654,Stanford,Jaylen Carson,62839,Little Rock
+2023,03/05,PAC 12 Championships,141,W,MFOR,0 - 0,Angelo Martinoni,57199,CSU Bakersfield,Jaylen Carson,62839,Little Rock
+2023,03/05,PAC 12 Championships,141,L,MD,13 - 5,Emilio Ysaguirre,77145,Arizona State,Jaylen Carson,62839,Little Rock
+2023,01/22,Northern Colorado - Little Rock Dual,141,L,TF5,24 - 9 5:41,Andrew Alirez,56723,Northern Colorado,Jaylen Carson,62839,Little Rock
+2023,11/19,Lindenwood Open,141,L,FALL,6:35,Kade Moore,73859,Missouri,Jaylen Carson,62839,Little Rock
+2023,11/19,Lindenwood Open,141,L,DEC,4 - 2,Taylor Jokerst,47293,Maryville University,Jaylen Carson,62839,Little Rock
+2023,11/19,Lindenwood Open,141,W,DEC,17 - 11,Kalen Napier,62247,Lindenwood,Jaylen Carson,62839,Little Rock
+2023,11/12,Tiger Style Invite,141,L,DEC,3 - 2,Korbin Shepherd,72550,Missouri,Jaylen Carson,62839,Little Rock
+2023,11/12,Tiger Style Invite,141,L,MD,12 - 0,Jordan Soriano,73711,Drexel,Jaylen Carson,62839,Little Rock
+2023,11/12,Tiger Style Invite,141,L,DEC,8 - 3,Zeth Romney,73191,Cal Poly,Jaylen Carson,62839,Little Rock
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,141,L,FALL,7:25,Saul Ervin,57010,SIU Edwardsville,Brennan Van Hoecke,74571,Little Rock
+2023,02/12,Little Rock - Ohio Dual,141,W,DEC,7 - 1,Kyran Hagan,49247,Ohio,Brennan Van Hoecke,74571,Little Rock
+2023,01/28,Stanford - Little Rock Dual,141,L,DEC,15 - 10,Jason Miranda,64654,Stanford,Brennan Van Hoecke,74571,Little Rock
+2023,01/13,Lindenwood (Mo) - Little Rock Dual,141,W,TF5,19 - 3 5:30,Kalen Napier,62247,Lindenwood,Brennan Van Hoecke,74571,Little Rock
+2023,01/01,Southern Scuffle,141,L,DEC,16 - 15,Andrew Bloemhof,62861,Oklahoma State,Brennan Van Hoecke,74571,Little Rock
+2023,01/01,Southern Scuffle,141,L,MD,10 - 1,Allan Hart,49193,Missouri,Brennan Van Hoecke,74571,Little Rock
+2023,01/01,Southern Scuffle,141,W,FALL,2:19,Jose Landin,69362,CSU Bakersfield,Brennan Van Hoecke,74571,Little Rock
+2023,12/18,Reno TOC,141,L,DEC,6 - 4,Blake Noonan,67008,Michigan State,Brennan Van Hoecke,74571,Little Rock
+2023,12/18,Reno TOC,141,L,DEC,4 - 0,Jordan Hamdan,57705,Michigan State,Brennan Van Hoecke,74571,Little Rock
+2023,11/19,Lindenwood Open,141,W,DEC,8 - 4,Matthew Lewis,76560,Indian Hills,Brennan Van Hoecke,74571,Little Rock
+2023,11/19,Lindenwood Open,141,W,FALL,0:52,Grant Brammer,75458,Liberty University,Brennan Van Hoecke,74571,Little Rock
+2023,11/19,Lindenwood Open,141,W,FALL,1:27,Josh Taylor,74986,Central Oklahoma,Brennan Van Hoecke,74571,Little Rock
+2023,11/19,Lindenwood Open,141,W,MD,16 - 2,Owen Uhls,73701,Missouri,Brennan Van Hoecke,74571,Little Rock
+2023,11/19,Lindenwood Open,141,W,FALL,1:33,Ryder Ramsey,62986,Central Oklahoma,Brennan Van Hoecke,74571,Little Rock
+2023,11/12,Tiger Style Invite,141,L,DEC,3 - 1,Kal Miller,72211,Maryland,Brennan Van Hoecke,74571,Little Rock
+2023,11/12,Tiger Style Invite,141,W,MFOR,0 - 0,Allan Hart,49193,Missouri,Brennan Van Hoecke,74571,Little Rock
+2023,11/12,Tiger Style Invite,141,W,MD,15 - 6,Zeth Romney,73191,Cal Poly,Brennan Van Hoecke,74571,Little Rock
+2023,02/05,Little Rock - Cal Poly Dual,141,L,MD,11 - 3,Lawrence Saenz,56597,Cal Poly,Jayden Gomez,72122,Little Rock
+2023,02/03,Little Rock - Arizona State Dual,141,L,MD,19 - 6,Jesse Vasquez,67152,Arizona State,Jayden Gomez,72122,Little Rock
+2023,01/01,Southern Scuffle,141,W,DEC,6 - 5,Christian Colman,71684,Duke,Jayden Gomez,72122,Little Rock
+2023,01/01,Southern Scuffle,141,L,TF5,19 - 4 4:23,Andrew Alirez,56723,Northern Colorado,Jayden Gomez,72122,Little Rock
+2023,01/01,Southern Scuffle,141,W,SV-1,3 - 1,Francisco Valdes,49089,Chattanooga,Jayden Gomez,72122,Little Rock
+2023,01/01,Southern Scuffle,141,L,FALL,2:26,Jack Gioffre,73018,Virginia,Jayden Gomez,72122,Little Rock
+2023,12/18,North Dakota State - Little Rock Dual,141,L,DEC,6 - 1,Dylan Droegemueller,51082,North Dakota State,Jayden Gomez,72122,Little Rock
+2023,11/18,Little Rock - Oklahoma Dual,141,L,FALL,7:00,Mosha Schwartz,55841,Oklahoma,Jayden Gomez,72122,Little Rock
+2023,11/05,Little Rock - Chattanooga Dual,141,W,DEC,5 - 3,Francisco Valdes,49089,Chattanooga,Jayden Gomez,72122,Little Rock
+2023,11/05,Little Rock - Campbell Dual,141,L,DEC,6 - 2,Shannon Hanna,57654,Campbell,Jayden Gomez,72122,Little Rock
+2023,11/05,Iowa State - Little Rock Dual,141,L,DEC,6 - 2,Jacob Frost,72949,Iowa State,Jayden Gomez,72122,Little Rock
+2023,11/01,Ouachita Baptist University - Little Rock Dual,141,W,FALL,3:42,Hudson Herring,74252,Ouachita Baptist University,Jayden Gomez,72122,Little Rock
+2023,11/19,Lindenwood Open,141,L,DEC,8 - 5,Jacob Dado,59673,University of the Ozarks,Aidan Campbell,62837,Little Rock
+2023,11/19,Lindenwood Open,141,L,DEC,4 - 0,Nate Keim,52389,Central Oklahoma,Aidan Campbell,62837,Little Rock
+2023,11/19,Lindenwood Open,141,W,DEC,7 - 4,Kalen Napier,62247,Lindenwood,Aidan Campbell,62837,Little Rock
+2023,03/05,PAC 12 Championships,149,W,DEC,7 - 3,Riley Gurr,56785,Oregon State,Joseph Bianchi,62836,Little Rock
+2023,03/05,PAC 12 Championships,149,W,DEC,5 - 4,Josh Brown,62862,CSU Bakersfield,Joseph Bianchi,62836,Little Rock
+2023,03/05,PAC 12 Championships,149,L,DEC,7 - 3,Dominick Demas,49256,Cal Poly,Joseph Bianchi,62836,Little Rock
+2023,03/05,PAC 12 Championships,149,L,MD,13 - 3,Kyle Parco,58562,Arizona State,Joseph Bianchi,62836,Little Rock
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,149,L,DEC,6 - 2,Caleb Tyus,72912,SIU Edwardsville,Joseph Bianchi,62836,Little Rock
+2023,02/12,Little Rock - Ohio Dual,149,L,DEC,6 - 4,Alec Hagan,49248,Ohio,Joseph Bianchi,62836,Little Rock
+2023,02/05,Little Rock - CSU Bakersfield Dual,149,W,FALL,2:15,Josh Brown,62862,CSU Bakersfield,Joseph Bianchi,62836,Little Rock
+2023,02/05,Little Rock - Cal Poly Dual,149,L,DEC,6 - 4,Dominick Demas,49256,Cal Poly,Joseph Bianchi,62836,Little Rock
+2023,02/03,Little Rock - Arizona State Dual,149,L,TF5,20 - 2 6:51,Kyle Parco,58562,Arizona State,Joseph Bianchi,62836,Little Rock
+2023,01/28,Stanford - Little Rock Dual,149,W,DEC,11 - 6,Luciano Arroyo,57707,Stanford,Joseph Bianchi,62836,Little Rock
+2023,01/22,Northern Colorado - Little Rock Dual,149,L,MD,12 - 3,Chris Sandoval,49229,Northern Colorado,Joseph Bianchi,62836,Little Rock
+2023,01/15,Oregon State - Little Rock Dual,149,W,DEC,10 - 4,Riley Gurr,56785,Oregon State,Joseph Bianchi,62836,Little Rock
+2023,01/01,Southern Scuffle,149,L,DEC,7 - 6,Nathan Pulliam,70916,Missouri,Joseph Bianchi,62836,Little Rock
+2023,01/01,Southern Scuffle,149,L,DEC,5 - 4,Blaine Brenner,72138,Minnesota,Joseph Bianchi,62836,Little Rock
+2023,12/18,North Dakota State - Little Rock Dual,149,L,DEC,6 - 1,Kellyn March,63030,North Dakota State,Joseph Bianchi,62836,Little Rock
+2023,12/04,Cougar Clash Invite,149,L,DEC,8 - 5,Joel Mylin,73025,Missouri,Joseph Bianchi,62836,Little Rock
+2023,12/04,Cougar Clash Invite,149,W,DEC,8 - 5,Nathan Pulliam,70916,Missouri,Joseph Bianchi,62836,Little Rock
+2023,12/04,Cougar Clash Invite,149,W,DEC,3 - 2,Chase Tebbets,62646,Little Rock,Joseph Bianchi,62836,Little Rock
+2023,12/04,Cougar Clash Invite,149,W,DEC,6 - 4,Saul Ervin,57010,SIU Edwardsville,Joseph Bianchi,62836,Little Rock
+2023,12/04,Cougar Clash Invite,149,L,DEC,6 - 4,Chris Sandoval,49229,Northern Colorado,Joseph Bianchi,62836,Little Rock
+2023,11/18,Little Rock - Oklahoma Dual,149,L,DEC,4 - 3,Mitch Moore,50620,Oklahoma,Joseph Bianchi,62836,Little Rock
+2023,11/05,Little Rock - Chattanooga Dual,149,W,DEC,5 - 3,Grant Lundy,59756,Chattanooga,Joseph Bianchi,62836,Little Rock
+2023,11/05,Little Rock - Campbell Dual,149,W,DEC,5 - 1,Callum Sitek,73201,Campbell,Joseph Bianchi,62836,Little Rock
+2023,11/05,Iowa State - Little Rock Dual,149,L,DEC,3 - 2,Paniro Johnson,68708,Iowa State,Joseph Bianchi,62836,Little Rock
+2023,11/01,Ouachita Baptist University - Little Rock Dual,149,W,TF5,21 - 6 6:19,Zander Fields,74251,Ouachita Baptist University,Joseph Bianchi,62836,Little Rock
+2023,01/15,Roger Denker Open,149,W,FALL,1:44,Ethan Muir,83699,Central Missouri,Kyle Dutton,73067,Little Rock
+2023,01/15,Roger Denker Open,149,L,MFOR,0 - 0,Cutter Sheets,73396,Oklahoma State,Kyle Dutton,73067,Little Rock
+2023,01/15,Roger Denker Open,149,W,DEC,9 - 5,Blake Haney,65275,Grand View,Kyle Dutton,73067,Little Rock
+2023,01/15,Roger Denker Open,149,L,MD,18 - 10,Dusty Hone,20271,Oklahoma State,Kyle Dutton,73067,Little Rock
+2023,01/07,Bongo Bayly Open,149,W,FALL,4:48,John Wiley,73130,Oklahoma,Kyle Dutton,73067,Little Rock
+2023,01/07,Bongo Bayly Open,149,W,FALL,4:47,Kody Ketchum,79600,Maryville University,Kyle Dutton,73067,Little Rock
+2023,01/07,Bongo Bayly Open,149,W,DEC,10 - 6,Darick Lapaglia,74801,Central Missouri,Kyle Dutton,73067,Little Rock
+2023,12/18,Reno TOC,157,W,FALL,1:26,Connor Harris,77217,Montana State-Northern,Kyle Dutton,73067,Little Rock
+2023,12/18,Reno TOC,157,W,DEC,5 - 3,Israel Casarez,60565,Grand View,Kyle Dutton,73067,Little Rock
+2023,12/18,Reno TOC,157,W,DEC,4 - 2,Travis Mastrogiovanni,67221,Oklahoma State,Kyle Dutton,73067,Little Rock
+2023,12/18,Reno TOC,157,L,DEC,8 - 2,Chase Saldate,61118,Michigan State,Kyle Dutton,73067,Little Rock
+2023,01/13,Lindenwood (Mo) - Little Rock Dual,149,W,DEC,4 - 0,Ben Bohr,62969,Lindenwood,Chase Tebbets,62646,Little Rock
+2023,01/01,Southern Scuffle,149,L,DEC,4 - 2,Gabriel Schumm,71666,North Dakota State,Chase Tebbets,62646,Little Rock
+2023,01/01,Southern Scuffle,149,L,SV-1,4 - 2,Marcos Polanco,57653,Minnesota,Chase Tebbets,62646,Little Rock
+2023,12/04,Cougar Clash Invite,149,L,DEC,3 - 2,Joseph Bianchi,62836,Little Rock,Chase Tebbets,62646,Little Rock
+2023,12/04,Cougar Clash Invite,149,L,DEC,3 - 1,Caleb Tyus,72912,SIU Edwardsville,Chase Tebbets,62646,Little Rock
+2023,11/19,Lindenwood Open,149,W,FALL,4:37,Joel Mylin,73025,Missouri,Chase Tebbets,62646,Little Rock
+2023,11/19,Lindenwood Open,149,W,FALL,2:18,Trevor Christian,71225,Drury University,Chase Tebbets,62646,Little Rock
+2023,11/19,Lindenwood Open,149,L,DEC,7 - 1,Teague Travis,63722,Oklahoma State,Chase Tebbets,62646,Little Rock
+2023,11/19,Lindenwood Open,149,W,DEC,4 - 3,Tyler Stegall,49444,Maryville University,Chase Tebbets,62646,Little Rock
+2023,11/12,Tiger Style Invite,149,L,MD,9 - 1,Ethen Miller,70914,Maryland,Chase Tebbets,62646,Little Rock
+2023,11/12,Tiger Style Invite,149,W,DEC,4 - 2,Dominic Findora,78518,Drexel,Chase Tebbets,62646,Little Rock
+2023,11/12,Tiger Style Invite,149,W,INJ,6:14,Luke Nichter,67003,Drexel,Chase Tebbets,62646,Little Rock
+2023,11/12,Tiger Style Invite,149,L,DEC,5 - 3,Dominick Demas,49256,Cal Poly,Chase Tebbets,62646,Little Rock
+2023,01/01,Southern Scuffle,149,L,DEC,6 - 0,Kellyn March,63030,North Dakota State,Jake Adams,72126,Little Rock
+2023,01/01,Southern Scuffle,149,L,DEC,6 - 1,Kolby DePron,71751,Bucknell,Jake Adams,72126,Little Rock
+2023,11/19,Lindenwood Open,149,W,DEC,5 - 0,Bryson Anderson,80256,Missouri Valley,Jake Adams,72126,Little Rock
+2023,11/19,Lindenwood Open,149,L,DEC,3 - 2,Logan Rathjen,76507,McKendree University,Jake Adams,72126,Little Rock
+2023,11/19,Lindenwood Open,149,W,MD,9 - 1,Christian Laguerre,67797,McKendree University,Jake Adams,72126,Little Rock
+2023,11/19,Lindenwood Open,149,W,DEC,4 - 1,Charles Hudson,61296,Liberty University,Jake Adams,72126,Little Rock
+2023,11/12,Tiger Style Invite,149,L,TF5,16 - 1 2:12,Ethen Miller,70914,Maryland,Jake Adams,72126,Little Rock
+2023,11/12,Tiger Style Invite,149,L,FALL,0:20,Luke Nichter,67003,Drexel,Jake Adams,72126,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,149,W,DEC,7 - 0,Steven Aranda,76765,Midland,Jake Adams,72126,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,149,W,DEC,6 - 2,Christian Laguerre,67797,McKendree University,Jake Adams,72126,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,149,W,MD,8 - 0,Jaylen York,53906,University of the Ozarks,Jake Adams,72126,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,149,L,MD,12 - 4,Nico Bolivar,62427,Indiana,Jake Adams,72126,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,149,L,DEC,8 - 1,Luke Baughman,57288,Indiana,Jake Adams,72126,Little Rock
+2023,03/05,PAC 12 Championships,157,L,DEC,4 - 2,Daniel Cardenas,72978,Stanford,Matt Bianchi,72120,Little Rock
+2023,03/05,PAC 12 Championships,157,L,MD,16 - 7,Isaiah Crosby,65258,Oregon State,Matt Bianchi,72120,Little Rock
+2023,03/05,PAC 12 Championships,157,W,DEC,9 - 3,Brock Rogers,62863,CSU Bakersfield,Matt Bianchi,72120,Little Rock
+2023,03/05,PAC 12 Championships,157,W,DEC,6 - 2,Maxwell Wilner,63168,Arizona State,Matt Bianchi,72120,Little Rock
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,157,W,DEC,5 - 2,Caine Tyus,72913,SIU Edwardsville,Matt Bianchi,72120,Little Rock
+2023,02/12,Little Rock - Ohio Dual,157,W,INJ,0:42,Peyten Kellar,73168,Ohio,Matt Bianchi,72120,Little Rock
+2023,02/05,Little Rock - CSU Bakersfield Dual,157,W,MD,18 - 5,Tyler Deen,57770,CSU Bakersfield,Matt Bianchi,72120,Little Rock
+2023,02/05,Little Rock - Cal Poly Dual,157,L,DEC,8 - 5,Luka Wick,71782,Cal Poly,Matt Bianchi,72120,Little Rock
+2023,02/03,Little Rock - Arizona State Dual,157,W,DEC,4 - 3,Maxwell Wilner,63168,Arizona State,Matt Bianchi,72120,Little Rock
+2023,01/28,Stanford - Little Rock Dual,157,W,DEC,8 - 5,Charlie Darracott,62985,Stanford,Matt Bianchi,72120,Little Rock
+2023,01/22,Northern Colorado - Little Rock Dual,157,L,FALL,1:43,Nathan Moore,56919,Northern Colorado,Matt Bianchi,72120,Little Rock
+2023,01/15,Oregon State - Little Rock Dual,157,L,DEC,8 - 5,Isaiah Crosby,65258,Oregon State,Matt Bianchi,72120,Little Rock
+2023,01/13,Lindenwood (Mo) - Little Rock Dual,157,W,FALL,1:12,Alex Pitsch,79806,Lindenwood,Matt Bianchi,72120,Little Rock
+2023,01/01,Southern Scuffle,157,L,FALL,1:18,Travis Mastrogiovanni,67221,Oklahoma State,Matt Bianchi,72120,Little Rock
+2023,01/01,Southern Scuffle,157,W,DEC,3 - 1,Logan Gioffre,66985,Missouri,Matt Bianchi,72120,Little Rock
+2023,01/01,Southern Scuffle,157,W,MD,12 - 1,Logan Ferrero,74330,Duke,Matt Bianchi,72120,Little Rock
+2023,01/01,Southern Scuffle,157,L,DEC,3 - 1,Jason Kraisser,57287,Iowa State,Matt Bianchi,72120,Little Rock
+2023,01/01,Southern Scuffle,157,W,DEC,4 - 0,Riley Bower,71755,Bucknell,Matt Bianchi,72120,Little Rock
+2023,12/18,North Dakota State - Little Rock Dual,157,L,MD,9 - 0,Jared Franek,50639,North Dakota State,Matt Bianchi,72120,Little Rock
+2023,12/04,Cougar Clash Invite,157,W,DEC,5 - 4,Bilal Bailey,69728,Little Rock,Matt Bianchi,72120,Little Rock
+2023,12/04,Cougar Clash Invite,157,L,DEC,9 - 5,Munkhtulga Zuunbayan,64263,Northern Illinois,Matt Bianchi,72120,Little Rock
+2023,12/04,Cougar Clash Invite,157,L,DEC,5 - 4,Anthony Gibson,56508,Northern Illinois,Matt Bianchi,72120,Little Rock
+2023,11/18,Little Rock - Oklahoma Dual,157,L,DEC,7 - 5,Jacob Butler,57142,Oklahoma,Matt Bianchi,72120,Little Rock
+2023,11/05,Little Rock - Chattanooga Dual,157,W,DEC,5 - 2,Cole Cochran,73759,Chattanooga,Matt Bianchi,72120,Little Rock
+2023,11/05,Little Rock - Campbell Dual,157,L,DEC,5 - 3,Troy Nation,57189,Campbell,Matt Bianchi,72120,Little Rock
+2023,11/05,Iowa State - Little Rock Dual,157,W,DEC,4 - 1,Jason Kraisser,57287,Iowa State,Matt Bianchi,72120,Little Rock
+2023,11/01,Ouachita Baptist University - Little Rock Dual,157,W,MD,17 - 3,Jaylon Otero,70046,Ouachita Baptist University,Matt Bianchi,72120,Little Rock
+2023,01/22,Northern Colorado - Little Rock Dual,174,L,MD,16 - 4,Andrew Berreyesa,49111,Northern Colorado,Brendon Abdon,73189,Little Rock
+2023,01/01,Southern Scuffle,157,L,TF5,20 - 4 7:00,Sebas Swiggum,57336,Minnesota,Brendon Abdon,73189,Little Rock
+2023,01/01,Southern Scuffle,157,L,DEC,8 - 5,Ben Monroe,62083,Iowa State,Brendon Abdon,73189,Little Rock
+2023,12/18,Reno TOC,157,L,FALL,0:50,Jayden Luttrell,78806,Western Wyoming College,Brendon Abdon,73189,Little Rock
+2023,12/18,Reno TOC,157,W,TF5,17 - 2 3:49,Connor Harris,77217,Montana State-Northern,Brendon Abdon,73189,Little Rock
+2023,12/18,Reno TOC,157,W,MD,18 - 6,Abraham Del Toro,74473,Menlo,Brendon Abdon,73189,Little Rock
+2023,12/18,Reno TOC,157,L,DEC,7 - 2,Sonny Santiago,61113,North Carolina,Brendon Abdon,73189,Little Rock
+2023,11/18,Little Rock - Oklahoma Dual,165,L,MD,11 - 1,Gerrit Nijenhuis,62352,Oklahoma,Brendon Abdon,73189,Little Rock
+2023,11/12,Tiger Style Invite,157,W,DEC,7 - 2,Bilal Bailey,69728,Little Rock,Brendon Abdon,73189,Little Rock
+2023,11/12,Tiger Style Invite,157,L,DEC,6 - 2,Anthony Federico,67140,Illinois,Brendon Abdon,73189,Little Rock
+2023,11/12,Tiger Style Invite,157,W,FALL,1:31,Tyler Williams,59552,Drexel,Brendon Abdon,73189,Little Rock
+2023,11/12,Tiger Style Invite,157,L,MD,19 - 6,Tyler Williams,59552,Drexel,Brendon Abdon,73189,Little Rock
+2023,11/12,Tiger Style Invite,157,W,FALL,2:29,Daniel Vizcarra,59546,Cal Poly,Brendon Abdon,73189,Little Rock
+2023,12/18,North Dakota State - Little Rock Dual,165,L,FALL,6:57,Michael Caliendo,71699,North Dakota State,Bilal Bailey,69728,Little Rock
+2023,12/04,Cougar Clash Invite,157,L,DEC,5 - 4,Matt Bianchi,72120,Little Rock,Bilal Bailey,69728,Little Rock
+2023,12/04,Cougar Clash Invite,157,W,MFOR,0 - 0,Grant LaDuke,67276,SIU Edwardsville,Bilal Bailey,69728,Little Rock
+2023,12/04,Cougar Clash Invite,157,L,DEC,5 - 0,Munkhtulga Zuunbayan,64263,Northern Illinois,Bilal Bailey,69728,Little Rock
+2023,12/04,Cougar Clash Invite,157,W,DEC,5 - 2,Austin Keal,63055,Little Rock,Bilal Bailey,69728,Little Rock
+2023,11/19,Lindenwood Open,157,W,DEC,10 - 4,Jerrdon Fisher,78623,Missouri,Bilal Bailey,69728,Little Rock
+2023,11/19,Lindenwood Open,157,W,DEC,6 - 5,Aiden Vandenbush,73000,Northwestern,Bilal Bailey,69728,Little Rock
+2023,11/19,Lindenwood Open,157,W,DEC,8 - 3,Ryan Haynes,67795,McKendree University,Bilal Bailey,69728,Little Rock
+2023,11/19,Lindenwood Open,157,L,DEC,4 - 0,Logan Gioffre,66985,Missouri,Bilal Bailey,69728,Little Rock
+2023,11/19,Lindenwood Open,157,W,MD,14 - 4,Trenton Legrotte,66429,Unattached,Bilal Bailey,69728,Little Rock
+2023,11/12,Tiger Style Invite,157,L,DEC,7 - 2,Brendon Abdon,73189,Little Rock,Bilal Bailey,69728,Little Rock
+2023,11/12,Tiger Style Invite,157,L,DEC,8 - 2,Luka Wick,71782,Cal Poly,Bilal Bailey,69728,Little Rock
+2023,01/01,Southern Scuffle,157,L,FALL,7:17,Tim Stapleton,71026,Minnesota,Austin Keal,63055,Little Rock
+2023,01/01,Southern Scuffle,157,L,DEC,3 - 0,Jackson Spires,71788,Virginia Tech,Austin Keal,63055,Little Rock
+2023,12/04,Cougar Clash Invite,157,L,DEC,5 - 2,Bilal Bailey,69728,Little Rock,Austin Keal,63055,Little Rock
+2023,12/04,Cougar Clash Invite,157,L,DEC,3 - 2,Jerrdon Fisher,78623,Missouri,Austin Keal,63055,Little Rock
+2023,11/19,Lindenwood Open,157,L,DEC,9 - 5,Jerrdon Fisher,78623,Missouri,Austin Keal,63055,Little Rock
+2023,11/19,Lindenwood Open,157,W,DEC,6 - 1,Jacob Bornemann,73224,McKendree University,Austin Keal,63055,Little Rock
+2023,11/19,Lindenwood Open,157,L,DEC,6 - 2,Gabe Johnson,69912,Central Oklahoma,Austin Keal,63055,Little Rock
+2023,11/19,Lindenwood Open,157,W,DEC,4 - 3,Mitchell Bohlken,62076,Missouri,Austin Keal,63055,Little Rock
+2023,11/12,Tiger Style Invite,157,W,DEC,5 - 2,Kevin Schork,72105,Maryland,Austin Keal,63055,Little Rock
+2023,11/12,Tiger Style Invite,157,L,SV-1,3 - 1,Logan Gioffre,66985,Missouri,Austin Keal,63055,Little Rock
+2023,11/12,Tiger Style Invite,157,L,MD,8 - 0,Luke Odom,61117,Illinois,Austin Keal,63055,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,157,W,DEC,6 - 5,Gavin Morawitz,74889,Quincy,Austin Keal,63055,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,157,W,DEC,4 - 2,Gavin Morawitz,74889,Quincy,Austin Keal,63055,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,157,W,MD,11 - 3,Ryan Haynes,67795,McKendree University,Austin Keal,63055,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,157,L,DEC,4 - 3,Grant LaDuke,67276,SIU Edwardsville,Austin Keal,63055,Little Rock
+2023,03/05,PAC 12 Championships,165,L,MD,9 - 0,Matthew Olguin,57218,Oregon State,Tyler Brennan,62844,Little Rock
+2023,03/05,PAC 12 Championships,165,W,DEC,3 - 0,Braden Smelser,70199,CSU Bakersfield,Tyler Brennan,62844,Little Rock
+2023,03/05,PAC 12 Championships,165,L,MD,9 - 0,Legend Lamer,56776,Cal Poly,Tyler Brennan,62844,Little Rock
+2023,03/05,PAC 12 Championships,165,W,DEC,1 - 0,Tony Negron,58308,Arizona State,Tyler Brennan,62844,Little Rock
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,165,W,MD,11 - 0,Hayden Shepherd,78287,SIU Edwardsville,Tyler Brennan,62844,Little Rock
+2023,02/12,Little Rock - Ohio Dual,165,W,DEC,1 - 0,Jordan Slivka,57602,Ohio,Tyler Brennan,62844,Little Rock
+2023,02/05,Little Rock - CSU Bakersfield Dual,165,W,DEC,1 - 0,Braden Smelser,70199,CSU Bakersfield,Tyler Brennan,62844,Little Rock
+2023,02/05,Little Rock - Cal Poly Dual,165,L,DEC,2 - 1,Legend Lamer,56776,Cal Poly,Tyler Brennan,62844,Little Rock
+2023,02/03,Little Rock - Arizona State Dual,165,W,DEC,5 - 0,Tony Negron,58308,Arizona State,Tyler Brennan,62844,Little Rock
+2023,01/28,Stanford - Little Rock Dual,165,L,DEC,4 - 0,Shane Griffith,49991,Stanford,Tyler Brennan,62844,Little Rock
+2023,01/22,Northern Colorado - Little Rock Dual,165,L,DEC,2 - 1,Baylor Fernandes,57351,Northern Colorado,Tyler Brennan,62844,Little Rock
+2023,01/15,Oregon State - Little Rock Dual,165,L,DEC,4 - 0,Matthew Olguin,57218,Oregon State,Tyler Brennan,62844,Little Rock
+2023,01/13,Lindenwood (Mo) - Little Rock Dual,165,W,FALL,5:16,Kaden Charboneau,74823,Lindenwood,Tyler Brennan,62844,Little Rock
+2023,01/07,Bongo Bayly Open,165,W,FALL,3:30,Alex Vislosky,69979,Oklahoma,Tyler Brennan,62844,Little Rock
+2023,01/07,Bongo Bayly Open,165,W,TB-1,5 - 4,Donavan Whitted,83494,Maryville University,Tyler Brennan,62844,Little Rock
+2023,01/07,Bongo Bayly Open,165,W,MD,10 - 2,John Ridle,62661,Central Missouri,Tyler Brennan,62844,Little Rock
+2023,11/05,Little Rock - Chattanooga Dual,165,W,DEC,7 - 1,Weston Wichman,58537,Chattanooga,Tyler Brennan,62844,Little Rock
+2023,11/05,Little Rock - Campbell Dual,165,W,DEC,3 - 0,Domonic Baker,71742,Campbell,Tyler Brennan,62844,Little Rock
+2023,11/05,Iowa State - Little Rock Dual,165,L,MD,11 - 1,David Carr,51126,Iowa State,Tyler Brennan,62844,Little Rock
+2023,11/01,Ouachita Baptist University - Little Rock Dual,165,W,FALL,2:15,Adrian Salazar - Rivera,63374,Ouachita Baptist University,Tyler Brennan,62844,Little Rock
+2023,11/12,Tiger Style Invite,165,L,TF5,16 - 1 2:29,Lucas Cordio,57120,Maryland,Chance Davis,72127,Little Rock
+2023,11/12,Tiger Style Invite,165,W,FALL,1:56,Jake Reicin,62740,Illinois,Chance Davis,72127,Little Rock
+2023,11/12,Tiger Style Invite,165,L,TF5,18 - 1 2:50,Danny Braunagel,50926,Illinois,Chance Davis,72127,Little Rock
+2023,11/12,Tiger Style Invite,165,L,FALL,2:16,Evan Barczak,49122,Drexel,Chance Davis,72127,Little Rock
+2023,11/12,Tiger Style Invite,165,W,MFOR,0 - 0,Legend Lamer,56776,Cal Poly,Chance Davis,72127,Little Rock
+2023,12/04,Cougar Clash Invite,165,L,DEC,6 - 0,Jake Evans,73345,Northern Illinois,Kodiak Cannedy,73048,Little Rock
+2023,12/04,Cougar Clash Invite,165,L,MD,10 - 0,Izzak Olejnik,56509,Northern Illinois,Kodiak Cannedy,73048,Little Rock
+2023,11/12,Tiger Style Invite,165,L,TF5,16 - 0 4:28,Evan Barczak,49122,Drexel,Kodiak Cannedy,73048,Little Rock
+2023,11/12,Tiger Style Invite,165,L,DEC,7 - 1,Legend Lamer,56776,Cal Poly,Kodiak Cannedy,73048,Little Rock
+2023,03/05,PAC 12 Championships,174,L,MD,12 - 3,Tyler Eischens,51205,Stanford,Triston Wills,58611,Little Rock
+2023,03/05,PAC 12 Championships,174,W,MFOR,0 - 0,Albert Urias,57203,CSU Bakersfield,Triston Wills,58611,Little Rock
+2023,03/05,PAC 12 Championships,174,L,DEC,5 - 4,Brawley Lamer,50051,Cal Poly,Triston Wills,58611,Little Rock
+2023,03/05,PAC 12 Championships,174,W,DEC,9 - 2,Cael Valencia,70908,Arizona State,Triston Wills,58611,Little Rock
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,174,W,DEC,4 - 0,Chase Diehl,60388,SIU Edwardsville,Triston Wills,58611,Little Rock
+2023,02/12,Little Rock - Ohio Dual,174,L,FALL,4:20,Sal Perrine,73171,Ohio,Triston Wills,58611,Little Rock
+2023,02/05,Little Rock - CSU Bakersfield Dual,174,L,SV-1,5 - 3,Albert Urias,57203,CSU Bakersfield,Triston Wills,58611,Little Rock
+2023,02/05,Little Rock - Cal Poly Dual,174,L,DEC,6 - 3,Brawley Lamer,50051,Cal Poly,Triston Wills,58611,Little Rock
+2023,02/03,Little Rock - Arizona State Dual,174,L,DEC,5 - 1,Cael Valencia,70908,Arizona State,Triston Wills,58611,Little Rock
+2023,01/28,Stanford - Little Rock Dual,174,L,DEC,9 - 4,Tyler Eischens,51205,Stanford,Triston Wills,58611,Little Rock
+2023,01/15,Oregon State - Little Rock Dual,174,L,DEC,3 - 2,Aaron Olmos,50177,Oregon State,Triston Wills,58611,Little Rock
+2023,01/13,Lindenwood (Mo) - Little Rock Dual,174,W,TF5,16 - 0 2:56,Luke Dickhaus,70728,Lindenwood,Triston Wills,58611,Little Rock
+2023,01/01,Southern Scuffle,174,W,DEC,5 - 2,Riley Habisch,56722,North Dakota State,Triston Wills,58611,Little Rock
+2023,01/01,Southern Scuffle,174,W,MFOR,0 - 0,Jared Krattiger,50621,Minnesota,Triston Wills,58611,Little Rock
+2023,01/01,Southern Scuffle,174,W,MFOR,0 - 0,Bailee O'Reilly,50166,Minnesota,Triston Wills,58611,Little Rock
+2023,01/01,Southern Scuffle,174,L,DEC,3 - 2,Bailee O'Reilly,50166,Minnesota,Triston Wills,58611,Little Rock
+2023,01/01,Southern Scuffle,174,W,DEC,8 - 4,Julien Broderson,57644,Iowa State,Triston Wills,58611,Little Rock
+2023,01/01,Southern Scuffle,174,W,SV-1,6 - 5,Dominic Solis,66460,Maryland,Triston Wills,58611,Little Rock
+2023,12/18,North Dakota State - Little Rock Dual,174,L,MD,11 - 1,Gaven Sax,65396,North Dakota State,Triston Wills,58611,Little Rock
+2023,12/04,Cougar Clash Invite,174,W,DEC,6 - 3,Hayden Pummel,73344,Northern Illinois,Triston Wills,58611,Little Rock
+2023,12/04,Cougar Clash Invite,174,W,MD,16 - 2,Derek Matthews,73320,Northern Colorado,Triston Wills,58611,Little Rock
+2023,12/04,Cougar Clash Invite,174,W,DEC,6 - 5,Ellis Pfleger,64647,Missouri,Triston Wills,58611,Little Rock
+2023,12/04,Cougar Clash Invite,174,W,MD,10 - 1,Andrew Berreyesa,49111,Northern Colorado,Triston Wills,58611,Little Rock
+2023,11/18,Little Rock - Oklahoma Dual,174,L,DEC,3 - 2,Darrien Roberts,60446,Oklahoma,Triston Wills,58611,Little Rock
+2023,11/05,Little Rock - Chattanooga Dual,174,W,DEC,6 - 2,Thomas Sell,64478,Chattanooga,Triston Wills,58611,Little Rock
+2023,11/05,Little Rock - Campbell Dual,174,W,DEC,3 - 1,Cole Rees,71005,Campbell,Triston Wills,58611,Little Rock
+2023,11/05,Iowa State - Little Rock Dual,174,L,FALL,5:27,MJ Gaitan,78494,Iowa State,Triston Wills,58611,Little Rock
+2023,11/01,Ouachita Baptist University - Little Rock Dual,174,W,TF5,19 - 4 6:17,William Martin,70047,Ouachita Baptist University,Triston Wills,58611,Little Rock
+2023,11/12,Tiger Style Invite,174,L,MD,15 - 4,Ellis Pfleger,64647,Missouri,Zeke Beach,70159,Little Rock
+2023,11/12,Tiger Style Invite,174,L,FALL,3:41,Peyton Mocco,50635,Missouri,Zeke Beach,70159,Little Rock
+2023,11/12,Tiger Style Invite,174,W,MFOR,0 - 0,Michael O'Malley,50836,Drexel,Zeke Beach,70159,Little Rock
+2023,11/12,Tiger Style Invite,174,L,MD,12 - 3,Nathan Tausch,51102,Cal Poly,Zeke Beach,70159,Little Rock
+2023,01/01,Southern Scuffle,174,L,DEC,2 - 0,Riley Habisch,56722,North Dakota State,Warren Hoyt,72989,Little Rock
+2023,01/01,Southern Scuffle,174,L,DEC,7 - 2,Hudson Stewart,67386,Virginia,Warren Hoyt,72989,Little Rock
+2023,12/03,Drury Open,174,W,DEC,7 - 3,Justice Compton,81296,Northeastern Oklahoma,Warren Hoyt,72989,Little Rock
+2023,12/03,Drury Open,174,L,MD,12 - 0,Benjamin Mower,79261,Oklahoma State,Warren Hoyt,72989,Little Rock
+2023,12/03,Drury Open,174,L,FALL,2:14,Benjamin Mower,79261,Oklahoma State,Warren Hoyt,72989,Little Rock
+2023,12/03,Drury Open,174,W,DEC,6 - 2,Owian Ulven,74938,Drury University,Warren Hoyt,72989,Little Rock
+2023,12/03,Drury Open,174,W,MD,11 - 3,Connor Zimmermann,71230,Drury University,Warren Hoyt,72989,Little Rock
+2023,11/19,Lindenwood Open,174,L,FALL,3:19,Zeke Waltz,69545,McKendree University,Warren Hoyt,72989,Little Rock
+2023,11/19,Lindenwood Open,174,W,FALL,1:24,Zane Sims,64408,University of the Ozarks,Warren Hoyt,72989,Little Rock
+2023,11/19,Lindenwood Open,174,L,FALL,6:25,Zac Russell,62974,Lindenwood,Warren Hoyt,72989,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,174,W,FALL,6:31,Colton Horne,76791,Midland,Warren Hoyt,72989,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,174,L,MD,16 - 4,Zeke Waltz,69545,McKendree University,Warren Hoyt,72989,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,174,L,MFOR,0 - 0,Owen Butler,67578,Indianapolis,Warren Hoyt,72989,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,174,W,MD,15 - 2,Mohamadou Sene,65556,Unattached,Warren Hoyt,72989,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,174,L,FALL,1:08,Bret Heil,56271,Maryville University,Warren Hoyt,72989,Little Rock
+2023,03/05,PAC 12 Championships,184,L,MD,16 - 3,Brook Byers,77775,Stanford,Mason Diel,73207,Little Rock
+2023,03/05,PAC 12 Championships,184,L,FALL,0:56,Jacob Hansen,66542,CSU Bakersfield,Mason Diel,73207,Little Rock
+2023,03/05,PAC 12 Championships,184,L,DEC,8 - 6,Jarad Priest,62329,Cal Poly,Mason Diel,73207,Little Rock
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,184,L,DEC,3 - 2,Sergio Villalobos,57005,SIU Edwardsville,Mason Diel,73207,Little Rock
+2023,02/12,Little Rock - Ohio Dual,184,L,DEC,6 - 0,Zayne Lehman,71781,Ohio,Mason Diel,73207,Little Rock
+2023,02/05,Little Rock - CSU Bakersfield Dual,184,W,DEC,14 - 11,Jacob Hansen,66542,CSU Bakersfield,Mason Diel,73207,Little Rock
+2023,02/05,Little Rock - Cal Poly Dual,184,L,DEC,8 - 2,Jarad Priest,62329,Cal Poly,Mason Diel,73207,Little Rock
+2023,02/03,Little Rock - Arizona State Dual,184,L,MD,13 - 3,Anthony Montalvo,51619,Arizona State,Mason Diel,73207,Little Rock
+2023,01/28,Stanford - Little Rock Dual,184,L,MD,19 - 6,Brook Byers,77775,Stanford,Mason Diel,73207,Little Rock
+2023,01/22,Northern Colorado - Little Rock Dual,184,L,DEC,9 - 3,Branson Britten,71938,Northern Colorado,Mason Diel,73207,Little Rock
+2023,01/15,Oregon State - Little Rock Dual,184,L,TF5,17 - 2 3:59,Trey Munoz,59555,Oregon State,Mason Diel,73207,Little Rock
+2023,01/13,Lindenwood (Mo) - Little Rock Dual,184,W,TF5,20 - 5 7:00,Cody Thurston,72503,Lindenwood,Mason Diel,73207,Little Rock
+2023,01/01,Southern Scuffle,184,L,MD,16 - 6,Jack Darrah,73242,Stanford,Mason Diel,73207,Little Rock
+2023,01/01,Southern Scuffle,184,L,MD,13 - 1,Deanthony Parker,71644,North Dakota State,Mason Diel,73207,Little Rock
+2023,01/01,Southern Scuffle,184,W,MD,12 - 2,Joseph Pargoe,71973,Gardner-Webb,Mason Diel,73207,Little Rock
+2023,01/01,Southern Scuffle,184,W,DEC,6 - 4,Jha'Quan Anderson,62407,Gardner-Webb,Mason Diel,73207,Little Rock
+2023,12/18,North Dakota State - Little Rock Dual,184,L,MD,13 - 0,Deanthony Parker,71644,North Dakota State,Mason Diel,73207,Little Rock
+2023,12/04,Cougar Clash Invite,184,W,DEC,6 - 4,Micah Ervin,69866,SIU Edwardsville,Mason Diel,73207,Little Rock
+2023,12/04,Cougar Clash Invite,184,L,DEC,2 - 0,Matt Zuber,66265,Northern Illinois,Mason Diel,73207,Little Rock
+2023,12/04,Cougar Clash Invite,184,L,DEC,7 - 3,Sergio Villalobos,57005,SIU Edwardsville,Mason Diel,73207,Little Rock
+2023,11/18,Little Rock - Oklahoma Dual,184,L,DEC,5 - 3,Grayden Penner,62524,Oklahoma,Mason Diel,73207,Little Rock
+2023,11/05,Little Rock - Chattanooga Dual,184,W,DEC,6 - 3,Sergio Desiante,78495,Chattanooga,Mason Diel,73207,Little Rock
+2023,11/05,Little Rock - Campbell Dual,184,L,MD,10 - 2,Caleb Hopkins,56482,Campbell,Mason Diel,73207,Little Rock
+2023,11/05,Iowa State - Little Rock Dual,184,L,TF5,18 - 2 4:34,Marcus Coleman,49154,Iowa State,Mason Diel,73207,Little Rock
+2023,11/01,Ouachita Baptist University - Little Rock Dual,184,W,TF5,24 - 9 7:00,Cole Eason,79940,Ouachita Baptist University,Mason Diel,73207,Little Rock
+2023,01/01,Southern Scuffle,184,L,FALL,1:06,Kyle Haas,67222,Oklahoma State,Tanner Mendoza,65930,Little Rock
+2023,01/01,Southern Scuffle,184,L,MD,13 - 1,Lucas Uliano,71130,Appalachian State,Tanner Mendoza,65930,Little Rock
+2023,12/04,Cougar Clash Invite,184,W,DEC,10 - 4,Micah Ervin,69866,SIU Edwardsville,Tanner Mendoza,65930,Little Rock
+2023,12/04,Cougar Clash Invite,184,L,DEC,2 - 0,Matt Zuber,66265,Northern Illinois,Tanner Mendoza,65930,Little Rock
+2023,12/04,Cougar Clash Invite,184,W,MFOR,0 - 0,Damen Pape,62688,Northern Colorado,Tanner Mendoza,65930,Little Rock
+2023,12/04,Cougar Clash Invite,184,L,TF5,19 - 3 7:00,Sean Harman,59678,Missouri,Tanner Mendoza,65930,Little Rock
+2023,12/04,Cougar Clash Invite,184,L,SV-1,3 - 1,Sergio Villalobos,57005,SIU Edwardsville,Tanner Mendoza,65930,Little Rock
+2023,11/19,Lindenwood Open,184,W,FALL,1:36,Loic Tuego,82522,Central Methodist,Tanner Mendoza,65930,Little Rock
+2023,11/19,Lindenwood Open,184,L,DEC,9 - 6,Jackson White,71351,Northeastern Oklahoma,Tanner Mendoza,65930,Little Rock
+2023,11/19,Lindenwood Open,184,L,DEC,4 - 2,Joey Williams,54074,Maryville University,Tanner Mendoza,65930,Little Rock
+2023,11/19,Lindenwood Open,184,W,DEC,2 - 0,Brian Holloway,50047,Quincy,Tanner Mendoza,65930,Little Rock
+2023,12/03,Drury Open,184,W,FALL,4:20,Nawab Singh,80851,Schreiner,Brooks Sacharczyk,63033,Little Rock
+2023,12/03,Drury Open,184,W,FALL,5:54,Kael Lane,74924,Neosho County Community College,Brooks Sacharczyk,63033,Little Rock
+2023,12/03,Drury Open,184,W,DEC,7 - 6,Jackson White,71351,Northeastern Oklahoma,Brooks Sacharczyk,63033,Little Rock
+2023,12/03,Drury Open,184,L,DEC,6 - 2,JD Johnson,57465,Newman,Brooks Sacharczyk,63033,Little Rock
+2023,12/03,Drury Open,184,W,FALL,1:40,McKinley Kemper,70729,Lindenwood,Brooks Sacharczyk,63033,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,184,L,DEC,5 - 0,Tylynn Lukens,70993,Little Rock,Brooks Sacharczyk,63033,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,184,L,MD,11 - 2,Deron Pulliam,77410,SIU Edwardsville,Brooks Sacharczyk,63033,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,184,W,DEC,7 - 6,Robert Gurley,74827,Indianapolis,Brooks Sacharczyk,63033,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,184,W,DEC,12 - 10,Cody Everhart,59409,Maryville University,Brooks Sacharczyk,63033,Little Rock
+2023,11/12,Tiger Style Invite,184,L,MFOR,0 - 0,Tylynn Lukens,70993,Little Rock,Will Edgar,60624,Little Rock
+2023,11/12,Tiger Style Invite,184,L,INJ,3:00,Chase Mielnik,67431,Maryland,Will Edgar,60624,Little Rock
+2023,11/12,Tiger Style Invite,184,L,TF5,21 - 6 7:00,Sean Harman,59678,Missouri,Will Edgar,60624,Little Rock
+2023,03/05,PAC 12 Championships,197,L,FALL,1:41,Nick Stemmet,63032,Stanford,Matthew Weinert,74053,Little Rock
+2023,03/05,PAC 12 Championships,197,L,MD,15 - 4,Tanner Harvey,48451,Oregon State,Matthew Weinert,74053,Little Rock
+2023,03/05,PAC 12 Championships,197,W,MFOR,0 - 0,Kordell Norfleet,49038,Arizona State,Matthew Weinert,74053,Little Rock
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,197,L,DEC,6 - 0,Ryan Yarnell,57006,SIU Edwardsville,Matthew Weinert,74053,Little Rock
+2023,02/05,Little Rock - CSU Bakersfield Dual,197,L,TB-1,10 - 9,Mateo Morales,71495,CSU Bakersfield,Matthew Weinert,74053,Little Rock
+2023,02/03,Little Rock - Arizona State Dual,197,L,DEC,4 - 2,Josh Nummer,62766,Arizona State,Matthew Weinert,74053,Little Rock
+2023,01/22,Northern Colorado - Little Rock Dual,197,L,DEC,6 - 2,Xavier Vasquez,49233,Northern Colorado,Matthew Weinert,74053,Little Rock
+2023,12/04,Cougar Clash Invite,197,L,DEC,6 - 0,Tylynn Lukens,70993,Little Rock,Matthew Weinert,74053,Little Rock
+2023,12/04,Cougar Clash Invite,197,W,DEC,8 - 1,Tommy Hagen,78444,Missouri,Matthew Weinert,74053,Little Rock
+2023,12/04,Cougar Clash Invite,197,L,DEC,3 - 1,Jesse Cassat,73384,Missouri,Matthew Weinert,74053,Little Rock
+2023,11/19,Lindenwood Open,197,W,FALL,1:52,Jonathan Grame,81546,Labette Community College,Matthew Weinert,74053,Little Rock
+2023,11/19,Lindenwood Open,197,W,FALL,6:29,Bryson Buhk,78485,SIU Edwardsville,Matthew Weinert,74053,Little Rock
+2023,11/19,Lindenwood Open,197,L,FALL,2:01,Jack Kitchingham,75706,Oklahoma City,Matthew Weinert,74053,Little Rock
+2023,11/19,Lindenwood Open,197,W,DEC,6 - 2,Michaia Green,74919,Northeastern Oklahoma,Matthew Weinert,74053,Little Rock
+2023,11/19,Lindenwood Open,197,W,DEC,8 - 1,Sean Gillespie,65158,Liberty University,Matthew Weinert,74053,Little Rock
+2023,11/12,Tiger Style Invite,197,L,DEC,5 - 2,Tommy Hagen,78444,Missouri,Matthew Weinert,74053,Little Rock
+2023,11/12,Tiger Style Invite,197,L,DEC,8 - 2,Jesse Cassat,73384,Missouri,Matthew Weinert,74053,Little Rock
+2023,11/12,Tiger Style Invite,197,L,FALL,2:32,Jaxon Smith,68714,Maryland,Matthew Weinert,74053,Little Rock
+2023,11/01,Ouachita Baptist University - Little Rock Dual,197,L,DEC,5 - 0,Brooks Schrimsher,74265,Ouachita Baptist University,Matthew Weinert,74053,Little Rock
+2023,02/12,Little Rock - Ohio Dual,197,W,DEC,9 - 3,Carson Brewer,60286,Ohio,Stephen Little,73285,Little Rock
+2023,02/05,Little Rock - Cal Poly Dual,197,W,FALL,2:14,Wesley Wilson,73317,Cal Poly,Stephen Little,73285,Little Rock
+2023,01/28,Stanford - Little Rock Dual,197,W,DEC,7 - 5,Nick Stemmet,63032,Stanford,Stephen Little,73285,Little Rock
+2023,01/01,Southern Scuffle,197,W,DEC,9 - 4,Spencer Mooberry,69967,North Dakota State,Stephen Little,73285,Little Rock
+2023,01/01,Southern Scuffle,197,W,DEC,3 - 2,TJ Stewart,74569,Virginia Tech,Stephen Little,73285,Little Rock
+2023,01/01,Southern Scuffle,197,W,DEC,14 - 7,Hayden Filipovich,71689,Purdue,Stephen Little,73285,Little Rock
+2023,01/01,Southern Scuffle,197,L,DEC,6 - 1,Jaxon Smith,68714,Maryland,Stephen Little,73285,Little Rock
+2023,01/01,Southern Scuffle,197,W,MFOR,0 - 0,Ethan Laird,50134,Rider,Stephen Little,73285,Little Rock
+2023,01/01,Southern Scuffle,197,L,DEC,6 - 4,Ethan Laird,50134,Rider,Stephen Little,73285,Little Rock
+2023,01/01,Southern Scuffle,197,W,DEC,3 - 2,Mason McCready,57223,Bucknell,Stephen Little,73285,Little Rock
+2023,12/18,Reno TOC,197,W,MD,16 - 5,Andrew Herrera,82422,Southern Oregon,Stephen Little,73285,Little Rock
+2023,12/18,Reno TOC,197,W,MD,9 - 1,Hunter James,74485,Menlo,Stephen Little,73285,Little Rock
+2023,12/18,Reno TOC,197,W,MD,9 - 1,Talmage Carman,72146,Western Wyoming College,Stephen Little,73285,Little Rock
+2023,12/18,Reno TOC,197,W,DEC,6 - 2,Tyce Raddon,67096,Wyoming,Stephen Little,73285,Little Rock
+2023,12/18,Reno TOC,197,L,DEC,4 - 2,Nick Willham,62447,Indiana,Stephen Little,73285,Little Rock
+2023,11/05,Little Rock - Chattanooga Dual,197,W,MD,22 - 8,Landon Lewis,73353,Chattanooga,Stephen Little,73285,Little Rock
+2023,11/05,Little Rock - Campbell Dual,197,W,DEC,9 - 5,Levi Hopkins,62508,Campbell,Stephen Little,73285,Little Rock
+2023,11/05,Iowa State - Little Rock Dual,197,L,MD,11 - 3,Yonger Bastida,70963,Iowa State,Stephen Little,73285,Little Rock
+2023,01/15,Oregon State - Little Rock Dual,197,L,FALL,4:24,Tanner Harvey,48451,Oregon State,Tylynn Lukens,70993,Little Rock
+2023,01/13,Lindenwood (Mo) - Little Rock Dual,197,W,MD,13 - 5,Ryan Golnick,76563,Lindenwood,Tylynn Lukens,70993,Little Rock
+2023,01/01,Southern Scuffle,197,L,DEC,9 - 3,Luke Surber,62347,Oklahoma State,Tylynn Lukens,70993,Little Rock
+2023,01/01,Southern Scuffle,197,W,FALL,0:26,Logan Webster,78501,Chattanooga,Tylynn Lukens,70993,Little Rock
+2023,01/01,Southern Scuffle,197,L,DEC,2 - 0,Jake Boyd,49260,Chattanooga,Tylynn Lukens,70993,Little Rock
+2023,12/18,North Dakota State - Little Rock Dual,197,L,FALL,4:07,Owen Pentz,50250,North Dakota State,Tylynn Lukens,70993,Little Rock
+2023,12/04,Cougar Clash Invite,197,W,DEC,6 - 0,Matthew Weinert,74053,Little Rock,Tylynn Lukens,70993,Little Rock
+2023,12/04,Cougar Clash Invite,197,L,TF5,18 - 0 7:00,Ryan Yarnell,57006,SIU Edwardsville,Tylynn Lukens,70993,Little Rock
+2023,12/04,Cougar Clash Invite,197,L,SV-1,4 - 2,Xavier Vasquez,49233,Northern Colorado,Tylynn Lukens,70993,Little Rock
+2023,12/04,Cougar Clash Invite,197,W,FALL,5:48,Ryan Golnick,76563,Lindenwood,Tylynn Lukens,70993,Little Rock
+2023,11/18,Little Rock - Oklahoma Dual,197,L,DEC,8 - 4,Keegan Moore,44872,Oklahoma,Tylynn Lukens,70993,Little Rock
+2023,11/12,Tiger Style Invite,184,W,MFOR,0 - 0,Will Edgar,60624,Little Rock,Tylynn Lukens,70993,Little Rock
+2023,11/12,Tiger Style Invite,184,L,FALL,5:00,Dylan Connell,67216,Illinois,Tylynn Lukens,70993,Little Rock
+2023,11/12,Tiger Style Invite,184,L,DEC,9 - 2,Brian Bonino,51034,Drexel,Tylynn Lukens,70993,Little Rock
+2023,11/12,Tiger Style Invite,184,W,INJ,6:13,Josh Stillings,50895,Drexel,Tylynn Lukens,70993,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,184,L,DEC,12 - 5,Micah Ervin,69866,SIU Edwardsville,Tylynn Lukens,70993,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,184,W,DEC,7 - 2,Max Rinklin,67793,McKendree University,Tylynn Lukens,70993,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,184,W,DEC,11 - 4,Aj Carter,64424,Unattached,Tylynn Lukens,70993,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,184,W,TF5,17 - 0 7:00,Austin Antcliffe,64381,Cumberland,Tylynn Lukens,70993,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,184,W,DEC,5 - 0,Brooks Sacharczyk,63033,Little Rock,Tylynn Lukens,70993,Little Rock
+2023,11/05,Kaufman Brand Maryville Open,184,W,FALL,4:17,Joey Williams,54074,Maryville University,Tylynn Lukens,70993,Little Rock
+2023,03/05,PAC 12 Championships,285,W,FALL,5:00,Peter Ming,62611,Stanford,Josiah Hill,65931,Little Rock
+2023,03/05,PAC 12 Championships,285,W,DEC,3 - 2,Jj Dixon,56784,Oregon State,Josiah Hill,65931,Little Rock
+2023,03/05,PAC 12 Championships,285,W,MD,14 - 2,Jake Andrews,73174,CSU Bakersfield,Josiah Hill,65931,Little Rock
+2023,03/05,PAC 12 Championships,285,L,TF5,17 - 2 7:00,Cohlton Schultz,56899,Arizona State,Josiah Hill,65931,Little Rock
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,285,L,DEC,3 - 0,Colton McKiernan,57003,SIU Edwardsville,Josiah Hill,65931,Little Rock
+2023,02/12,Little Rock - Ohio Dual,285,W,FALL,4:21,Drew Harris,74323,Ohio,Josiah Hill,65931,Little Rock
+2023,02/05,Little Rock - CSU Bakersfield Dual,285,W,DEC,9 - 3,Jake Andrews,73174,CSU Bakersfield,Josiah Hill,65931,Little Rock
+2023,02/05,Little Rock - Cal Poly Dual,285,L,DEC,3 - 2,Trevor Tinker,66973,Cal Poly,Josiah Hill,65931,Little Rock
+2023,02/03,Little Rock - Arizona State Dual,285,L,DEC,4 - 2,Cohlton Schultz,56899,Arizona State,Josiah Hill,65931,Little Rock
+2023,01/28,Stanford - Little Rock Dual,285,L,DEC,5 - 1,Peter Ming,62611,Stanford,Josiah Hill,65931,Little Rock
+2023,01/22,Northern Colorado - Little Rock Dual,285,W,DEC,9 - 3,Xavier Doolin,70921,Northern Colorado,Josiah Hill,65931,Little Rock
+2023,01/15,Oregon State - Little Rock Dual,285,L,DEC,5 - 4,Jj Dixon,56784,Oregon State,Josiah Hill,65931,Little Rock
+2023,01/13,Lindenwood (Mo) - Little Rock Dual,285,W,FALL,2:06,David Hernandez,74864,Lindenwood,Josiah Hill,65931,Little Rock
+2023,01/01,Southern Scuffle,285,L,TB-2,3 - 2,Juan Mora,71675,North Dakota State,Josiah Hill,65931,Little Rock
+2023,01/01,Southern Scuffle,285,W,DEC,5 - 2,Peter Ming,62611,Stanford,Josiah Hill,65931,Little Rock
+2023,01/01,Southern Scuffle,285,L,FALL,0:22,Zach Elam,51612,Missouri,Josiah Hill,65931,Little Rock
+2023,01/01,Southern Scuffle,285,W,DEC,11 - 4,Charlie Tibbitts,78440,Binghamton,Josiah Hill,65931,Little Rock
+2023,01/01,Southern Scuffle,285,W,DEC,3 - 1,Zachary Knighton-Ward,53791,Hofstra,Josiah Hill,65931,Little Rock
+2023,01/01,Southern Scuffle,285,W,MD,13 - 2,David Szuba,72908,Rider,Josiah Hill,65931,Little Rock
+2023,12/18,North Dakota State - Little Rock Dual,285,W,DEC,3 - 2,Juan Mora,71675,North Dakota State,Josiah Hill,65931,Little Rock
+2023,12/04,Cougar Clash Invite,285,W,FALL,1:04,Dan McKiernan,72914,SIU Edwardsville,Josiah Hill,65931,Little Rock
+2023,12/04,Cougar Clash Invite,285,L,SV-1,3 - 1,Jacobi Jackson,72513,Northern Illinois,Josiah Hill,65931,Little Rock
+2023,12/04,Cougar Clash Invite,285,W,SV-1,7 - 5,Seth Nitzel,66934,Missouri,Josiah Hill,65931,Little Rock
+2023,12/04,Cougar Clash Invite,285,W,DEC,3 - 0,Terrese Aaron,51827,Northern Illinois,Josiah Hill,65931,Little Rock
+2023,11/18,Little Rock - Oklahoma Dual,285,L,MD,11 - 3,Josh Heindselman,57311,Oklahoma,Josiah Hill,65931,Little Rock
+2023,11/05,Little Rock - Chattanooga Dual,285,W,DEC,5 - 0,Logan Andrew,59757,Chattanooga,Josiah Hill,65931,Little Rock
+2023,11/05,Little Rock - Campbell Dual,285,L,DEC,10 - 4,Taye Ghadiali,62500,Campbell,Josiah Hill,65931,Little Rock
+2023,11/05,Iowa State - Little Rock Dual,285,L,MD,21 - 7,Sam Schuyler,50361,Iowa State,Josiah Hill,65931,Little Rock
+2023,11/01,Ouachita Baptist University - Little Rock Dual,285,W,DEC,7 - 4,Johnny Green,63312,Ouachita Baptist University,Josiah Hill,65931,Little Rock
+2023,01/01,Southern Scuffle,285,W,FALL,2:41,Seamus O'Malley,57706,Stanford,Apollo Gothard,72124,Little Rock
+2023,01/01,Southern Scuffle,285,L,DEC,6 - 2,Jonah Niesenbaum,60444,Duke,Apollo Gothard,72124,Little Rock
+2023,01/01,Southern Scuffle,285,L,DEC,3 - 1,Logan Andrew,59757,Chattanooga,Apollo Gothard,72124,Little Rock
+2023,11/19,Lindenwood Open,285,L,SV-1,3 - 1,Kale Schrader,74978,Northeastern Oklahoma,Apollo Gothard,72124,Little Rock
+2023,11/19,Lindenwood Open,285,W,SV-1,3 - 1,Micah Lieberman,74830,Labette Community College,Apollo Gothard,72124,Little Rock
+2023,11/19,Lindenwood Open,285,W,DEC,6 - 3,Dan McKiernan,72914,SIU Edwardsville,Apollo Gothard,72124,Little Rock
+2023,11/19,Lindenwood Open,285,W,MD,8 - 0,Rick Weaver,65005,Liberty University,Apollo Gothard,72124,Little Rock
+2023,11/19,Lindenwood Open,285,W,FALL,9:00,Easton Fleshman,73702,Iowa,Apollo Gothard,72124,Little Rock
+2023,11/12,Tiger Style Invite,285,W,DEC,4 - 3,Keith Miley,73068,Little Rock,Apollo Gothard,72124,Little Rock
+2023,11/12,Tiger Style Invite,285,L,FALL,0:39,Zach Elam,51612,Missouri,Apollo Gothard,72124,Little Rock
+2023,11/12,Tiger Style Invite,285,L,FALL,2:49,Matt Wroblewski,50019,Illinois,Apollo Gothard,72124,Little Rock
+2023,11/12,Tiger Style Invite,285,W,FALL,2:29,Elijah Anthony,67251,Drexel,Apollo Gothard,72124,Little Rock
+2023,01/15,Roger Denker Open,285,W,FALL,0:13,Christopher York,83701,Unattached,Keith Miley,73068,Little Rock
+2023,01/15,Roger Denker Open,285,W,FALL,1:11,Reidyn Serna-Ames,83528,Ellsworth CC,Keith Miley,73068,Little Rock
+2023,01/15,Roger Denker Open,285,W,FALL,0:53,Tegan Carson,83519,Ellsworth CC,Keith Miley,73068,Little Rock
+2023,01/15,Roger Denker Open,285,W,DEC,2 - 0,Matthias Ervin,69867,Central Missouri,Keith Miley,73068,Little Rock
+2023,01/15,Roger Denker Open,285,W,FALL,0:42,Jaydon Uptegrove,66484,Central Methodist,Keith Miley,73068,Little Rock
+2023,01/15,Roger Denker Open,285,L,MFOR,0 - 0,Kawaun DeBoe,61925,Indian Hills,Keith Miley,73068,Little Rock
+2023,01/15,Roger Denker Open,285,L,DEC,6 - 2,Kawaun DeBoe,61925,Indian Hills,Keith Miley,73068,Little Rock
+2023,12/18,Reno TOC,285,W,FALL,1:44,Jaden Martin,83366,Southern Oregon,Keith Miley,73068,Little Rock
+2023,12/18,Reno TOC,285,L,DEC,4 - 1,Nicolas Rodriguez,79386,Utah Valley,Keith Miley,73068,Little Rock
+2023,12/18,Reno TOC,285,L,FALL,4:25,Josh Terrill,79322,Michigan State,Keith Miley,73068,Little Rock
+2023,11/19,Lindenwood Open,285,W,DEC,6 - 1,Treyshawn White,82523,Indian Hills,Keith Miley,73068,Little Rock
+2023,11/19,Lindenwood Open,285,W,FALL,1:18,Franco Gonzalez,82521,Joliet Junior College,Keith Miley,73068,Little Rock
+2023,11/19,Lindenwood Open,285,W,DEC,7 - 1,Jason Love,82516,Labette Community College,Keith Miley,73068,Little Rock
+2023,11/19,Lindenwood Open,285,W,FALL,1:31,Kyler Pouncil,79376,University of the Ozarks,Keith Miley,73068,Little Rock
+2023,11/19,Lindenwood Open,285,L,DEC,5 - 2,Kale Schrader,74978,Northeastern Oklahoma,Keith Miley,73068,Little Rock
+2023,11/19,Lindenwood Open,285,L,DEC,7 - 3,Gage Marty,78703,Iowa,Keith Miley,73068,Little Rock
+2023,11/12,Tiger Style Invite,285,L,DEC,4 - 3,Apollo Gothard,72124,Little Rock,Keith Miley,73068,Little Rock
+2023,11/12,Tiger Style Invite,285,L,DEC,10 - 5,Steven Kolcheff,67050,Missouri,Keith Miley,73068,Little Rock
+2023,11/12,Tiger Style Invite,285,L,MD,12 - 2,Seth Nitzel,66934,Missouri,Keith Miley,73068,Little Rock

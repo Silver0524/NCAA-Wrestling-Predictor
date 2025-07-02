@@ -1,0 +1,663 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2024,03/21,NCAA Championships,125,L,DEC,4 - 0,Jore Volk,72600,Wyoming,Tanner Jordan,57664,South Dakota State
+2024,03/21,NCAA Championships,125,L,SV-1,5 - 2,Caleb Smith,58559,Nebraska,Tanner Jordan,57664,South Dakota State
+2024,03/21,NCAA Championships,125,W,DEC,9 - 3,Troy Spratley,73119,Oklahoma State,Tanner Jordan,57664,South Dakota State
+2024,03/21,NCAA Championships,125,W,DEC,3 - 0,Brett Ungar,68705,Cornell,Tanner Jordan,57664,South Dakota State
+2024,03/21,NCAA Championships,125,W,DEC,11 - 4,Patrick McKee,50594,Minnesota,Tanner Jordan,57664,South Dakota State
+2024,03/21,NCAA Championships,125,W,MD,16 - 2,Blake West,73337,Northern Illinois,Tanner Jordan,57664,South Dakota State
+2024,03/21,NCAA Championships,125,L,FALL,0:45,Eric Barnett,56753,Wisconsin,Tanner Jordan,57664,South Dakota State
+2024,03/09,Big 12 Championships,125,W,MFOR,0 - 0,Noah Surtin,56715,Missouri,Tanner Jordan,57664,South Dakota State
+2024,03/09,Big 12 Championships,125,L,DEC,10 - 6,Kysen Terukina,67143,Iowa State,Tanner Jordan,57664,South Dakota State
+2024,03/09,Big 12 Championships,125,W,DEC,4 - 0,Yusief Lillie,72995,Utah Valley,Tanner Jordan,57664,South Dakota State
+2024,03/09,Big 12 Championships,125,L,DEC,1 - 0,Jore Volk,72600,Wyoming,Tanner Jordan,57664,South Dakota State
+2024,03/09,Big 12 Championships,125,W,FALL,5:26,Ryan Henningson,67078,North Dakota State,Tanner Jordan,57664,South Dakota State
+2024,03/09,Big 12 Championships,125,W,MD,14 - 6,Eli Griffin,68743,Cal Baptist,Tanner Jordan,57664,South Dakota State
+2024,02/25,North Dakota State - South Dakota State Dual,125,W,MD,13 - 0,Ryan Henningson,67078,North Dakota State,Tanner Jordan,57664,South Dakota State
+2024,02/18,Missouri - South Dakota State Dual,125,L,MD,14 - 6,Noah Surtin,56715,Missouri,Tanner Jordan,57664,South Dakota State
+2024,02/10,South Dakota State - Oklahoma State Dual,125,L,DEC,7 - 3,Troy Spratley,73119,Oklahoma State,Tanner Jordan,57664,South Dakota State
+2024,02/09,South Dakota State - Oklahoma Dual,125,W,DEC,4 - 0,Conrad Hendriksen,80186,Oklahoma,Tanner Jordan,57664,South Dakota State
+2024,02/03,South Dakota State - Utah Valley Dual,125,W,DEC,5 - 0,Yusief Lillie,72995,Utah Valley,Tanner Jordan,57664,South Dakota State
+2024,02/01,South Dakota State - Wyoming Dual,125,W,DEC,2 - 1,Jore Volk,72600,Wyoming,Tanner Jordan,57664,South Dakota State
+2024,01/26,Air Force - South Dakota State Dual,125,W,DEC,5 - 3,Tucker Owens,71711,Air Force,Tanner Jordan,57664,South Dakota State
+2024,01/21,Cal Baptist - South Dakota State Dual,125,W,DEC,7 - 3,Eli Griffin,68743,Cal Baptist,Tanner Jordan,57664,South Dakota State
+2024,01/19,Northern Colorado - South Dakota State Dual,125,L,MD,14 - 6,Stevo Poulin,71929,Northern Colorado,Tanner Jordan,57664,South Dakota State
+2024,01/12,Navy - South Dakota State Dual,125,W,FALL,4:06,Hayden Benter,84926,Navy,Tanner Jordan,57664,South Dakota State
+2024,01/12,Kent State - South Dakota State Dual,125,W,TF5,17 - 0 7:00,Adan Benavidez,84848,Kent State,Tanner Jordan,57664,South Dakota State
+2024,01/04,Michigan - South Dakota State Dual,125,W,DEC,5 - 3,Christian Tanefeu,73460,Michigan,Tanner Jordan,57664,South Dakota State
+2024,12/16,South Dakota State - Nebraska Dual,125,L,DEC,6 - 4,Caleb Smith,58559,Nebraska,Tanner Jordan,57664,South Dakota State
+2024,12/01,Cliff Keen Invitational,125,L,DEC,6 - 3,Michael DeAugustino,56007,Michigan,Tanner Jordan,57664,South Dakota State
+2024,12/01,Cliff Keen Invitational,125,L,MD,12 - 4,Brandon Kaylor,51198,Oregon State,Tanner Jordan,57664,South Dakota State
+2024,12/01,Cliff Keen Invitational,125,W,DEC,9 - 8,Troy Spratley,73119,Oklahoma State,Tanner Jordan,57664,South Dakota State
+2024,12/01,Cliff Keen Invitational,125,W,DEC,11 - 7,Brendan McCrone,76350,Ohio State,Tanner Jordan,57664,South Dakota State
+2024,12/01,Cliff Keen Invitational,125,L,DEC,7 - 3,Matt Ramos,57134,Purdue,Tanner Jordan,57664,South Dakota State
+2024,12/01,Cliff Keen Invitational,125,W,MD,17 - 5,Richard Castro-Sandoval,69366,CSU Bakersfield,Tanner Jordan,57664,South Dakota State
+2024,11/26,South Dakota State - Minnesota Dual,125,W,DEC,9 - 4,Patrick McKee,50594,Minnesota,Tanner Jordan,57664,South Dakota State
+2024,11/19,Daktronics Open,125,W,MD,12 - 0,Brandon Paez,82508,Northern Iowa,Tanner Jordan,57664,South Dakota State
+2024,11/19,Daktronics Open,125,W,MD,8 - 0,Trever Anderson,76359,Northern Iowa,Tanner Jordan,57664,South Dakota State
+2024,11/19,Daktronics Open,125,W,TF5,18 - 3 7:00,Ethan Perryman,78477,Iowa State,Tanner Jordan,57664,South Dakota State
+2024,11/17,Northern State University - South Dakota State Dual,125,W,MD,17 - 6,Landen Fischer,62305,Northern State University,Tanner Jordan,57664,South Dakota State
+2024,11/17,Dakota Wesleyan - South Dakota State Dual,125,W,FALL,1:30,Kipp Cordes,87813,Dakota Wesleyan,Tanner Jordan,57664,South Dakota State
+2024,11/11,Bison Open,125,W,MD,11 - 0,Brandon Meredith,56935,South Dakota State,Tanner Jordan,57664,South Dakota State
+2024,11/11,Bison Open,125,W,SV-1,6 - 3,Carlos Negrete Jr,67085,North Dakota State,Tanner Jordan,57664,South Dakota State
+2024,11/11,Bison Open,125,W,TF5,15 - 0 7:00,Brandon Morvari,81742,Minnesota,Tanner Jordan,57664,South Dakota State
+2024,02/03,Don Parker Open,125,W,TF5,20 - 4 7:00,Julian Long,79965,Nebraska Wesleyan,Brady Roark,79469,South Dakota State
+2024,02/03,Don Parker Open,125,W,DEC,14 - 8,Wyatt Kaczrowski,76076,Augsburg,Brady Roark,79469,South Dakota State
+2024,02/03,Don Parker Open,125,W,TF5,19 - 3 7:00,Dominic Ducato,82512,St Cloud State,Brady Roark,79469,South Dakota State
+2024,02/03,Don Parker Open,125,W,TF5,18 - 2 7:00,Archer Heelan,76358,St Cloud State,Brady Roark,79469,South Dakota State
+2024,01/27,Loras College Open,125,W,DEC,7 - 1,Gabe Gonzales,87572,Grand View,Brady Roark,79469,South Dakota State
+2024,01/27,Loras College Open,125,W,DEC,5 - 0,Brandon Paez,82508,Northern Iowa,Brady Roark,79469,South Dakota State
+2024,01/27,Loras College Open,125,L,DEC,13 - 7,Garret Rinken,78705,Northern Iowa,Brady Roark,79469,South Dakota State
+2024,01/27,Loras College Open,125,W,DEC,2 - 1,Ethan Perryman,78477,Iowa State,Brady Roark,79469,South Dakota State
+2024,01/27,Loras College Open,125,W,TF5,17 - 2 7:00,Carter Anderson,83213,Loras,Brady Roark,79469,South Dakota State
+2024,01/20,Worthington Open,125,W,TF5,18 - 3 7:00,Angel Banegas,89795,Iowa Central Community College,Brady Roark,79469,South Dakota State
+2024,01/20,Worthington Open,125,W,TF5,17 - 2 7:00,Chris Compton,86945,Ellsworth CC,Brady Roark,79469,South Dakota State
+2024,01/20,Worthington Open,125,W,TF5,19 - 3 7:00,Dominic Ducato,82512,St Cloud State,Brady Roark,79469,South Dakota State
+2024,12/29,Soldier Salute,125,W,MFOR,0 - 0,Brandon Morvari,81742,Minnesota,Brady Roark,79469,South Dakota State
+2024,12/29,Soldier Salute,125,W,DEC,10 - 3,Garret Rinken,78705,Northern Iowa,Brady Roark,79469,South Dakota State
+2024,12/29,Soldier Salute,125,W,TF5,17 - 1 7:00,Quincy Hulverson,78579,Minnesota,Brady Roark,79469,South Dakota State
+2024,12/29,Soldier Salute,125,W,DEC,8 - 4,Joey Cruz,73188,Iowa,Brady Roark,79469,South Dakota State
+2024,12/29,Soldier Salute,125,L,MD,23 - 13,Patrick McKee,50594,Minnesota,Brady Roark,79469,South Dakota State
+2024,12/29,Soldier Salute,125,L,DEC,9 - 4,Patrick McKee,50594,Minnesota,Brady Roark,79469,South Dakota State
+2024,12/29,Soldier Salute,125,W,MD,18 - 6,Sulayman Bah,79305,Columbia,Brady Roark,79469,South Dakota State
+2024,02/18,Cowboy Shootout,141,W,DEC,6 - 3,Jakob Romero,75096,Utah Valley,Brandon Meredith,56935,South Dakota State
+2024,02/18,Cowboy Shootout,141,W,TF5,21 - 4 7:00,Dyson Kunz,71939,Northern Colorado,Brandon Meredith,56935,South Dakota State
+2024,02/18,Cowboy Shootout,141,L,DEC,12 - 9,Gavin Drexler,73017,North Dakota State,Brandon Meredith,56935,South Dakota State
+2024,02/18,Cowboy Shootout,141,L,FALL,4:56,Daniel Miranda,84525,Arizona State,Brandon Meredith,56935,South Dakota State
+2024,02/18,Cowboy Shootout,141,L,DEC,8 - 2,Jesse Vasquez,67152,Arizona State,Brandon Meredith,56935,South Dakota State
+2024,02/18,Cowboy Shootout,141,L,DEC,6 - 3,Stockton O'Brien,67451,Wyoming,Brandon Meredith,56935,South Dakota State
+2024,11/19,Daktronics Open,125,W,TF5,19 - 3 6:00,Bowen Downey,84485,Northern Iowa,Brandon Meredith,56935,South Dakota State
+2024,11/19,Daktronics Open,125,W,DEC,13 - 8,Brandon Paez,82508,Northern Iowa,Brandon Meredith,56935,South Dakota State
+2024,11/19,Daktronics Open,125,L,DEC,8 - 2,Trever Anderson,76359,Northern Iowa,Brandon Meredith,56935,South Dakota State
+2024,11/19,Daktronics Open,125,W,TF5,20 - 5 7:00,Quincy Hulverson,78579,Minnesota,Brandon Meredith,56935,South Dakota State
+2024,11/19,Daktronics Open,125,L,MD,18 - 4,Ethan Perryman,78477,Iowa State,Brandon Meredith,56935,South Dakota State
+2024,11/17,Augustana (SD) - South Dakota State Dual,125,W,MD,14 - 3,Jaxson Rohman,73229,Augustana,Brandon Meredith,56935,South Dakota State
+2024,11/17,Dakota Wesleyan - South Dakota State Dual,133,W,FALL,2:31,Temuujin Natsagdorj,80326,Dakota Wesleyan,Brandon Meredith,56935,South Dakota State
+2024,11/11,Bison Open,125,L,MD,11 - 0,Tanner Jordan,57664,South Dakota State,Brandon Meredith,56935,South Dakota State
+2024,11/11,Bison Open,125,L,DEC,6 - 2,Carlos Negrete Jr,67085,North Dakota State,Brandon Meredith,56935,South Dakota State
+2024,11/11,Bison Open,125,W,MD,17 - 4,Brandon Morvari,81742,Minnesota,Brandon Meredith,56935,South Dakota State
+2024,01/27,Loras College Open,125,L,MD,13 - 0,Bowen Downey,84485,Northern Iowa,Daniel Guanajuato,78629,South Dakota State
+2024,01/27,Loras College Open,125,W,MFOR,0 - 0,Raul Romero,80905,Indian Hills,Daniel Guanajuato,78629,South Dakota State
+2024,01/27,Loras College Open,125,W,TF5,16 - 1 7:00,Jp Culver,86343,Wisconsin-Oshkosh,Daniel Guanajuato,78629,South Dakota State
+2024,01/27,Loras College Open,125,W,DEC,5 - 2,Jackson Heaston,85191,Upper Iowa,Daniel Guanajuato,78629,South Dakota State
+2024,01/27,Loras College Open,125,W,FALL,0:53,Robert Vukobratovich,87547,Loras,Daniel Guanajuato,78629,South Dakota State
+2024,01/27,Loras College Open,125,W,MD,17 - 7,Wiley Jessup,81923,Loras,Daniel Guanajuato,78629,South Dakota State
+2024,03/21,NCAA Championships,133,L,DEC,14 - 8,Nic Bouzakis,73468,Ohio State,Derrick Cardinal,68734,South Dakota State
+2024,03/21,NCAA Championships,133,W,DEC,8 - 2,Maximillian Leete,72678,American,Derrick Cardinal,68734,South Dakota State
+2024,03/21,NCAA Championships,133,L,MD,12 - 4,Brody Teske,52779,Iowa,Derrick Cardinal,68734,South Dakota State
+2024,03/09,Big 12 Championships,133,L,DEC,6 - 1,Dominick Serrano,61120,Northern Colorado,Derrick Cardinal,68734,South Dakota State
+2024,03/09,Big 12 Championships,133,W,INJ,1:19,Hunter Leake,67190,Cal Baptist,Derrick Cardinal,68734,South Dakota State
+2024,03/09,Big 12 Championships,133,W,DEC,8 - 3,Kase Mauger,65846,Utah Valley,Derrick Cardinal,68734,South Dakota State
+2024,03/09,Big 12 Championships,133,L,DEC,4 - 0,Daton Fix,49263,Oklahoma State,Derrick Cardinal,68734,South Dakota State
+2024,03/09,Big 12 Championships,133,W,SV-1,4 - 1,Julian Farber,65843,Northern Iowa,Derrick Cardinal,68734,South Dakota State
+2024,02/25,North Dakota State - South Dakota State Dual,133,L,DEC,7 - 2,Fernando Barreto,77720,North Dakota State,Derrick Cardinal,68734,South Dakota State
+2024,02/18,Missouri - South Dakota State Dual,133,W,MD,14 - 5,Drew Stanfield,80266,Missouri,Derrick Cardinal,68734,South Dakota State
+2024,02/10,South Dakota State - Oklahoma State Dual,133,L,MD,15 - 4,Daton Fix,49263,Oklahoma State,Derrick Cardinal,68734,South Dakota State
+2024,02/09,South Dakota State - Oklahoma Dual,133,L,DEC,1 - 0,Jace Koelzer,50912,Oklahoma,Derrick Cardinal,68734,South Dakota State
+2024,02/03,South Dakota State - Utah Valley Dual,133,W,DEC,8 - 3,Kase Mauger,65846,Utah Valley,Derrick Cardinal,68734,South Dakota State
+2024,02/01,South Dakota State - Wyoming Dual,133,W,DEC,5 - 3,Cooper Birdwell,72143,Wyoming,Derrick Cardinal,68734,South Dakota State
+2024,01/19,Northern Colorado - South Dakota State Dual,133,L,DEC,6 - 2,Dominick Serrano,61120,Northern Colorado,Derrick Cardinal,68734,South Dakota State
+2024,01/12,Navy - South Dakota State Dual,133,W,MD,14 - 1,Garrett Totten,81066,Navy,Derrick Cardinal,68734,South Dakota State
+2024,01/12,Kent State - South Dakota State Dual,133,W,TF5,24 - 8 7:00,Pablo Castro,79792,Kent State,Derrick Cardinal,68734,South Dakota State
+2024,01/04,Michigan - South Dakota State Dual,133,W,FALL,6:39,Nolan Wertanen,78523,Michigan,Derrick Cardinal,68734,South Dakota State
+2024,12/16,South Dakota State - Nebraska Dual,133,W,DEC,6 - 1,Kyle Burwick,57385,Nebraska,Derrick Cardinal,68734,South Dakota State
+2024,12/01,Cliff Keen Invitational,133,W,MD,14 - 3,Domenic Zaccone,56926,Campbell,Derrick Cardinal,68734,South Dakota State
+2024,12/01,Cliff Keen Invitational,133,L,DEC,6 - 3,Kai Orine,56908,NC State,Derrick Cardinal,68734,South Dakota State
+2024,12/01,Cliff Keen Invitational,133,L,FALL,3:39,Nic Bouzakis,73468,Ohio State,Derrick Cardinal,68734,South Dakota State
+2024,12/01,Cliff Keen Invitational,133,W,DEC,7 - 2,Brendan Ferretti,72187,Navy,Derrick Cardinal,68734,South Dakota State
+2024,12/01,Cliff Keen Invitational,133,L,CMFF,0 - 0,Tyler Knox,83265,Stanford,Derrick Cardinal,68734,South Dakota State
+2024,12/01,Cliff Keen Invitational,133,W,FALL,1:55,Dylan Acevedo-Switzer,73023,Hofstra,Derrick Cardinal,68734,South Dakota State
+2024,11/26,South Dakota State - Minnesota Dual,133,W,DEC,5 - 3,Tyler Wells,79021,Minnesota,Derrick Cardinal,68734,South Dakota State
+2024,11/19,Daktronics Open,133,W,TF5,20 - 2 6:46,Julian Tagg,58261,Jackrabbit Wrestling Club,Derrick Cardinal,68734,South Dakota State
+2024,11/19,Daktronics Open,133,W,DEC,8 - 3,Julian Farber,65843,Northern Iowa,Derrick Cardinal,68734,South Dakota State
+2024,11/19,Daktronics Open,133,W,TF5,18 - 0 6:54,Garrett Grice,72957,Iowa State,Derrick Cardinal,68734,South Dakota State
+2024,11/17,Northern State University - South Dakota State Dual,133,W,TF5,19 - 4 6:38,Jason Henschel,74959,Northern State University,Derrick Cardinal,68734,South Dakota State
+2024,11/11,Bison Open,133,W,MD,11 - 0,Chase DeBlaere,72993,Oregon State,Derrick Cardinal,68734,South Dakota State
+2024,11/11,Bison Open,133,W,TF5,19 - 2 7:00,Amantee Mills,84417,North Dakota State,Derrick Cardinal,68734,South Dakota State
+2024,11/11,Bison Open,133,W,FALL,5:17,Ryan Henningson,67078,North Dakota State,Derrick Cardinal,68734,South Dakota State
+2024,11/11,Bison Open,133,L,TF5,19 - 4 7:00,Tyler Wells,79021,Minnesota,Derrick Cardinal,68734,South Dakota State
+2024,02/18,Cowboy Shootout,133,W,MD,13 - 3,Hayden Brady,84935,Northern Colorado,Logan Graf,79256,South Dakota State
+2024,02/18,Cowboy Shootout,133,W,MD,17 - 6,John Braman,92867,Wyoming,Logan Graf,79256,South Dakota State
+2024,02/18,Cowboy Shootout,133,W,MD,18 - 6,David Saenz,84616,Wyoming,Logan Graf,79256,South Dakota State
+2024,02/18,Cowboy Shootout,133,W,MD,15 - 7,Josh Kyle,67456,Wyoming,Logan Graf,79256,South Dakota State
+2024,01/26,Air Force - South Dakota State Dual,133,W,DEC,4 - 3,Brenden Barnes,71704,Air Force,Logan Graf,79256,South Dakota State
+2024,01/21,Cal Baptist - South Dakota State Dual,133,W,MD,10 - 1,Mitchell Neiner,83540,Cal Baptist,Logan Graf,79256,South Dakota State
+2024,01/20,Worthington Open,125,W,FALL,2:11,Justin Parsons,92404,Morningside,Logan Graf,79256,South Dakota State
+2024,01/20,Worthington Open,125,W,MFOR,0 - 0,Jaydale Whitlock,81036,Iowa Central Community College,Logan Graf,79256,South Dakota State
+2024,01/20,Worthington Open,125,W,TF5,18 - 2 7:00,Archer Heelan,76358,St Cloud State,Logan Graf,79256,South Dakota State
+2024,03/21,NCAA Championships,141,L,DEC,5 - 3,Jordan Titus,68738,West Virginia,Clay Carlson,56441,South Dakota State
+2024,03/21,NCAA Championships,141,L,DEC,8 - 3,Ryan Jack,61122,NC State,Clay Carlson,56441,South Dakota State
+2024,03/09,Big 12 Championships,141,W,MFOR,0 - 0,Jordan Titus,68738,West Virginia,Clay Carlson,56441,South Dakota State
+2024,03/09,Big 12 Championships,141,L,DEC,11 - 6,Tagen Jamison,66962,Oklahoma State,Clay Carlson,56441,South Dakota State
+2024,03/09,Big 12 Championships,141,W,DEC,8 - 4,Cole Brooks,82044,Wyoming,Clay Carlson,56441,South Dakota State
+2024,03/09,Big 12 Championships,141,L,DEC,6 - 5,Jordan Titus,68738,West Virginia,Clay Carlson,56441,South Dakota State
+2024,03/09,Big 12 Championships,141,W,DEC,10 - 6,Rudy Lopez,71937,Northern Colorado,Clay Carlson,56441,South Dakota State
+2024,02/25,North Dakota State - South Dakota State Dual,141,W,DEC,4 - 1,Gavin Drexler,73017,North Dakota State,Clay Carlson,56441,South Dakota State
+2024,02/18,Cowboy Shootout,141,W,FALL,4:37,Kobe Nelms,63874,Utah Valley,Clay Carlson,56441,South Dakota State
+2024,02/18,Cowboy Shootout,141,W,TF5,17 - 1 3:46,Brayden Sonnentag,78790,Wyoming,Clay Carlson,56441,South Dakota State
+2024,02/18,Cowboy Shootout,141,W,TF5,18 - 1 4:30,Stockton O'Brien,67451,Wyoming,Clay Carlson,56441,South Dakota State
+2024,02/10,South Dakota State - Oklahoma State Dual,141,L,SV-1,8 - 5,Tagen Jamison,66962,Oklahoma State,Clay Carlson,56441,South Dakota State
+2024,02/09,South Dakota State - Oklahoma Dual,141,W,TF5,15 - 0 3:00,Carter Schmidt,81746,Oklahoma,Clay Carlson,56441,South Dakota State
+2024,01/26,Air Force - South Dakota State Dual,141,W,DEC,10 - 7,Garrett Kuchan,69522,Air Force,Clay Carlson,56441,South Dakota State
+2024,01/21,Cal Baptist - South Dakota State Dual,141,W,DEC,8 - 2,Darren Green,62886,Cal Baptist,Clay Carlson,56441,South Dakota State
+2024,01/19,Northern Colorado - South Dakota State Dual,141,W,MD,14 - 3,Armando Garcia,73045,Northern Colorado,Clay Carlson,56441,South Dakota State
+2024,01/12,Navy - South Dakota State Dual,141,L,DEC,3 - 1,Joshua Koderhandt,70917,Navy,Clay Carlson,56441,South Dakota State
+2024,01/12,Kent State - South Dakota State Dual,141,W,DEC,5 - 2,Billy Meiszner,75815,Kent State,Clay Carlson,56441,South Dakota State
+2024,01/04,Michigan - South Dakota State Dual,141,L,DEC,6 - 4,Sergio Lemley,78641,Michigan,Clay Carlson,56441,South Dakota State
+2024,12/29,Soldier Salute,141,W,MFOR,0 - 0,Blake Cushing,73160,Nebraska,Clay Carlson,56441,South Dakota State
+2024,12/29,Soldier Salute,141,L,DEC,5 - 4,Zeke Seltzer,72572,Missouri,Clay Carlson,56441,South Dakota State
+2024,12/29,Soldier Salute,141,L,DEC,4 - 2,Vance Vombaur,68715,Minnesota,Clay Carlson,56441,South Dakota State
+2024,12/29,Soldier Salute,141,W,DEC,8 - 6,Ben Lunn,64637,Minnesota,Clay Carlson,56441,South Dakota State
+2024,12/29,Soldier Salute,141,W,DEC,8 - 4,Stockton O'Brien,67451,Wyoming,Clay Carlson,56441,South Dakota State
+2024,01/20,Worthington Open,141,W,TF5,19 - 1 7:00,Benjamin Fosdick,89792,Iowa Central Community College,Parker Janssen,84822,South Dakota State
+2024,01/20,Worthington Open,141,W,TF5,17 - 1 7:00,Aiden Crawley,86354,Iowa Lakes Community College,Parker Janssen,84822,South Dakota State
+2024,01/20,Worthington Open,141,W,SV-1,5 - 2,Phillip Kue,63244,St Cloud State,Parker Janssen,84822,South Dakota State
+2024,01/20,Worthington Open,141,W,TF5,17 - 2 7:00,Mitchell Koss,84516,Sioux Falls,Parker Janssen,84822,South Dakota State
+2024,12/29,Soldier Salute,141,W,TF5,19 - 4 7:00,Caden McCrary,70918,North Carolina,Parker Janssen,84822,South Dakota State
+2024,12/29,Soldier Salute,141,L,TF5,16 - 0 7:00,Ben Lunn,64637,Minnesota,Parker Janssen,84822,South Dakota State
+2024,12/29,Soldier Salute,141,L,TF5,16 - 0 7:00,Real Woods,50664,Iowa,Parker Janssen,84822,South Dakota State
+2024,12/29,Soldier Salute,141,L,MD,11 - 1,Stockton O'Brien,67451,Wyoming,Parker Janssen,84822,South Dakota State
+2024,12/29,Soldier Salute,141,W,TF5,18 - 2 7:00,Josh Sanders,84974,Bellarmine,Parker Janssen,84822,South Dakota State
+2024,12/29,Soldier Salute,141,W,FALL,1:59,Josh Sanders,84974,Bellarmine,Parker Janssen,84822,South Dakota State
+2024,12/03,Dragon Open,141,L,DEC,12 - 6,Sean Solis,78990,North Dakota State,Parker Janssen,84822,South Dakota State
+2024,12/03,Dragon Open,141,W,MD,16 - 5,Connor Krueger,87833,St Johns,Parker Janssen,84822,South Dakota State
+2024,12/03,Dragon Open,141,W,MD,12 - 1,Gabe Bellefeuille,71181,Concordia-Moorhead,Parker Janssen,84822,South Dakota State
+2024,11/19,Daktronics Open,141,L,DEC,5 - 0,Caleb Gross,62668,South Dakota State,Parker Janssen,84822,South Dakota State
+2024,11/19,Daktronics Open,141,L,TF5,17 - 2 4:10,Cael Happel,62345,Northern Iowa,Parker Janssen,84822,South Dakota State
+2024,11/19,Daktronics Open,141,L,DEC,6 - 0,Walker Bents,73549,North Dakota State,Parker Janssen,84822,South Dakota State
+2024,11/19,Daktronics Open,141,W,FALL,2:26,Calvin Empkey,84492,Sioux Falls,Parker Janssen,84822,South Dakota State
+2024,11/11,Bison Open,141,L,MD,8 - 0,Caleb Gross,62668,South Dakota State,Parker Janssen,84822,South Dakota State
+2024,11/11,Bison Open,141,W,DEC,5 - 1,Walker Bents,73549,North Dakota State,Parker Janssen,84822,South Dakota State
+2024,11/11,Bison Open,141,L,MD,10 - 1,Gavin Drexler,73017,North Dakota State,Parker Janssen,84822,South Dakota State
+2024,02/18,Missouri - South Dakota State Dual,141,L,DEC,3 - 2,Josh Edmond,62704,Missouri,Caleb Gross,62668,South Dakota State
+2024,02/03,South Dakota State - Utah Valley Dual,141,L,DEC,2 - 0,Haiden Drury,64645,Utah Valley,Caleb Gross,62668,South Dakota State
+2024,02/01,South Dakota State - Wyoming Dual,141,L,DEC,9 - 4,Cole Brooks,82044,Wyoming,Caleb Gross,62668,South Dakota State
+2024,12/16,South Dakota State - Nebraska Dual,141,L,FALL,2:06,Brock Hardy,51242,Nebraska,Caleb Gross,62668,South Dakota State
+2024,12/01,Cliff Keen Invitational,141,L,DEC,4 - 1,Ryan Jack,61122,NC State,Caleb Gross,62668,South Dakota State
+2024,12/01,Cliff Keen Invitational,141,L,MD,8 - 0,Jason Miranda,64654,Stanford,Caleb Gross,62668,South Dakota State
+2024,12/01,Cliff Keen Invitational,141,W,SV-1,4 - 1,Aidan Waszak,73163,Ohio,Caleb Gross,62668,South Dakota State
+2024,12/01,Cliff Keen Invitational,141,W,DEC,2 - 1,Jaden Pepe,84310,Harvard,Caleb Gross,62668,South Dakota State
+2024,11/26,South Dakota State - Minnesota Dual,141,L,DEC,5 - 2,Vance Vombaur,68715,Minnesota,Caleb Gross,62668,South Dakota State
+2024,11/19,Daktronics Open,141,W,DEC,5 - 0,Parker Janssen,84822,South Dakota State,Caleb Gross,62668,South Dakota State
+2024,11/19,Daktronics Open,141,W,DEC,5 - 4,Connor Thorpe,68862,Northern Iowa,Caleb Gross,62668,South Dakota State
+2024,11/19,Daktronics Open,141,L,SV-1,4 - 1,Connor Thorpe,68862,Northern Iowa,Caleb Gross,62668,South Dakota State
+2024,11/17,Northern State University - South Dakota State Dual,141,W,DEC,3 - 0,Braydon Mogle,73941,Northern State University,Caleb Gross,62668,South Dakota State
+2024,11/17,Dakota Wesleyan - South Dakota State Dual,141,W,DEC,8 - 2,Zach Zitek,74666,Dakota Wesleyan,Caleb Gross,62668,South Dakota State
+2024,11/11,Bison Open,141,W,MD,8 - 0,Parker Janssen,84822,South Dakota State,Caleb Gross,62668,South Dakota State
+2024,11/11,Bison Open,141,W,FALL,2:29,Thomas Moralez,87487,North Dakota State,Caleb Gross,62668,South Dakota State
+2024,11/11,Bison Open,141,L,DEC,4 - 1,Vance Vombaur,68715,Minnesota,Caleb Gross,62668,South Dakota State
+2024,02/03,Don Parker Open,141,W,MD,16 - 6,Evan Onstad,85446,Wisconsin-Whitewater,Avery Allen,84405,South Dakota State
+2024,02/03,Don Parker Open,141,W,DEC,11 - 8,Justin Fortugno,81005,Wisconsin-Whitewater,Avery Allen,84405,South Dakota State
+2024,02/03,Don Parker Open,141,W,TF5,18 - 2 7:00,Bo Niewiadomski,73840,Wisconsin-Eau Claire,Avery Allen,84405,South Dakota State
+2024,02/03,Don Parker Open,141,W,MD,21 - 7,Connor Krueger,87833,St Johns,Avery Allen,84405,South Dakota State
+2024,02/03,Don Parker Open,141,W,FALL,5:48,Alex Mentzer,81747,Augustana,Avery Allen,84405,South Dakota State
+2024,01/27,Loras College Open,141,W,FALL,1:03,Kaden Hawkins-Hinson,89788,Iowa Central Community College,Avery Allen,84405,South Dakota State
+2024,01/27,Loras College Open,141,W,MD,15 - 2,Damon Huston,71916,Iowa State,Avery Allen,84405,South Dakota State
+2024,01/27,Loras College Open,141,L,DEC,6 - 4,Connor Thorpe,68862,Northern Iowa,Avery Allen,84405,South Dakota State
+2024,01/27,Loras College Open,141,W,FALL,0:52,Elliot Cooney,78865,Cornell College,Avery Allen,84405,South Dakota State
+2024,01/27,Loras College Open,141,W,TF5,17 - 1 7:00,Nosa Egbon,81862,Loras,Avery Allen,84405,South Dakota State
+2024,01/20,Worthington Open,141,W,TF5,17 - 2 7:00,Hunter Flen,92401,Unattached,Avery Allen,84405,South Dakota State
+2024,01/20,Worthington Open,141,W,TF5,16 - 1 7:00,Nick Koch,86966,Ellsworth CC,Avery Allen,84405,South Dakota State
+2024,01/20,Worthington Open,141,W,MD,12 - 1,Tanner Frothinger,79474,Nebraska,Avery Allen,84405,South Dakota State
+2024,01/20,Worthington Open,141,W,TF5,19 - 4 7:00,Kaleb Horn,63932,St Cloud State,Avery Allen,84405,South Dakota State
+2024,03/21,NCAA Championships,149,L,INJ,2:37,Caleb Rathjen,63794,Iowa,Alek Martin,72167,South Dakota State
+2024,03/21,NCAA Championships,149,L,TF5,18 - 3 4:41,Caleb Henson,72656,Virginia Tech,Alek Martin,72167,South Dakota State
+2024,03/09,Big 12 Championships,149,W,DEC,5 - 2,Maxwell Petersen,73016,North Dakota State,Alek Martin,72167,South Dakota State
+2024,03/09,Big 12 Championships,149,L,DEC,13 - 8,Jordan Williams,73709,Oklahoma State,Alek Martin,72167,South Dakota State
+2024,03/09,Big 12 Championships,149,L,TB-1,2 - 1,Logan Gioffre,66985,Missouri,Alek Martin,72167,South Dakota State
+2024,03/09,Big 12 Championships,149,W,SV-2,2 - 1,Dayne Morton,56980,Cal Baptist,Alek Martin,72167,South Dakota State
+2024,03/09,Big 12 Championships,149,W,MD,11 - 2,Joe Fernau,79037,Air Force,Alek Martin,72167,South Dakota State
+2024,02/25,North Dakota State - South Dakota State Dual,149,W,DEC,8 - 7,Maxwell Petersen,73016,North Dakota State,Alek Martin,72167,South Dakota State
+2024,02/18,Missouri - South Dakota State Dual,149,W,DEC,5 - 0,Joel Mylin,73025,Missouri,Alek Martin,72167,South Dakota State
+2024,02/10,South Dakota State - Oklahoma State Dual,149,L,FALL,4:46,Jordan Williams,73709,Oklahoma State,Alek Martin,72167,South Dakota State
+2024,02/09,South Dakota State - Oklahoma Dual,149,L,DEC,4 - 1,Willie McDougald,67042,Oklahoma,Alek Martin,72167,South Dakota State
+2024,02/03,South Dakota State - Utah Valley Dual,149,W,DEC,7 - 3,Isaiah Delgado,57056,Utah Valley,Alek Martin,72167,South Dakota State
+2024,02/01,South Dakota State - Wyoming Dual,149,W,MD,12 - 2,Gabe Willochell,62335,Wyoming,Alek Martin,72167,South Dakota State
+2024,01/26,Air Force - South Dakota State Dual,149,W,MD,9 - 1,Joe Fernau,79037,Air Force,Alek Martin,72167,South Dakota State
+2024,01/21,Cal Baptist - South Dakota State Dual,149,W,DEC,5 - 1,Dayne Morton,56980,Cal Baptist,Alek Martin,72167,South Dakota State
+2024,01/19,Northern Colorado - South Dakota State Dual,149,W,TF5,15 - 0 7:00,Kilian Schultz,84797,Northern Colorado,Alek Martin,72167,South Dakota State
+2024,01/12,Navy - South Dakota State Dual,149,W,MD,8 - 0,Nick Vafiadis,73121,Navy,Alek Martin,72167,South Dakota State
+2024,01/12,Kent State - South Dakota State Dual,149,W,MD,16 - 4,Matt Ryan,69769,Kent State,Alek Martin,72167,South Dakota State
+2024,01/04,Michigan - South Dakota State Dual,149,L,DEC,10 - 4,Austin Gomez,49153,Michigan,Alek Martin,72167,South Dakota State
+2024,12/29,Soldier Salute,149,L,SV-1,5 - 2,Anthony Ferrari,73131,Unattached,Alek Martin,72167,South Dakota State
+2024,12/29,Soldier Salute,149,W,MD,18 - 8,Kaemen Smith,78323,Navy,Alek Martin,72167,South Dakota State
+2024,12/29,Soldier Salute,149,W,MD,11 - 2,Joel Jesuroga,74084,Iowa,Alek Martin,72167,South Dakota State
+2024,12/29,Soldier Salute,149,W,SV-1,7 - 4,Victor Voinovich,67220,Iowa,Alek Martin,72167,South Dakota State
+2024,12/29,Soldier Salute,149,W,DEC,6 - 4,Wil Guida,62410,North Carolina,Alek Martin,72167,South Dakota State
+2024,12/16,South Dakota State - Nebraska Dual,149,L,DEC,5 - 1,Ridge Lovett,57520,Nebraska,Alek Martin,72167,South Dakota State
+2024,12/01,Cliff Keen Invitational,149,L,MD,11 - 0,Jackson Arrington,72497,NC State,Alek Martin,72167,South Dakota State
+2024,12/01,Cliff Keen Invitational,149,L,MD,11 - 2,Caleb Henson,72656,Virginia Tech,Alek Martin,72167,South Dakota State
+2024,12/01,Cliff Keen Invitational,149,W,MD,13 - 2,Bryce Shelton,75097,Air Force,Alek Martin,72167,South Dakota State
+2024,12/01,Cliff Keen Invitational,149,W,DEC,5 - 0,Michael Zarif,57277,Binghamton,Alek Martin,72167,South Dakota State
+2024,12/01,Cliff Keen Invitational,149,W,DEC,7 - 0,Noah Tapia,84311,Hofstra,Alek Martin,72167,South Dakota State
+2024,11/26,South Dakota State - Minnesota Dual,149,L,DEC,7 - 1,Drew Roberts,72140,Minnesota,Alek Martin,72167,South Dakota State
+2024,11/17,Augustana (SD) - South Dakota State Dual,149,W,TF5,18 - 0 4:19,Kage Lenger,73231,Augustana,Alek Martin,72167,South Dakota State
+2024,12/29,Soldier Salute,149,W,DEC,5 - 4,Colin Dupill,78996,South Dakota State,Daniel Kimball,57663,South Dakota State
+2024,12/29,Soldier Salute,149,W,DEC,5 - 4,Joel Jesuroga,74084,Iowa,Daniel Kimball,57663,South Dakota State
+2024,12/29,Soldier Salute,149,W,SV-1,4 - 1,Easton Hilton,73655,Missouri,Daniel Kimball,57663,South Dakota State
+2024,12/29,Soldier Salute,149,W,DEC,4 - 2,Nick Vafiadis,73121,Navy,Daniel Kimball,57663,South Dakota State
+2024,12/29,Soldier Salute,149,L,DEC,9 - 3,Victor Voinovich,67220,Iowa,Daniel Kimball,57663,South Dakota State
+2024,12/29,Soldier Salute,149,L,MD,11 - 1,Caleb Rathjen,63794,Iowa,Daniel Kimball,57663,South Dakota State
+2024,12/29,Soldier Salute,149,W,DEC,5 - 2,Wil Guida,62410,North Carolina,Daniel Kimball,57663,South Dakota State
+2024,12/03,Patriot Open,149,W,DEC,11 - 4,Sean Seefeldt,70755,Pennsylvania,Daniel Kimball,57663,South Dakota State
+2024,12/03,Patriot Open,149,W,DEC,8 - 3,Hunter Gandy,70754,Pennsylvania,Daniel Kimball,57663,South Dakota State
+2024,12/03,Patriot Open,149,W,MD,12 - 3,Luke Lucerne,67546,Navy,Daniel Kimball,57663,South Dakota State
+2024,12/03,Patriot Open,149,W,DEC,8 - 5,Lucas Kapusta,84439,Lock Haven,Daniel Kimball,57663,South Dakota State
+2024,12/03,Patriot Open,149,L,DEC,5 - 1,Ty Linsenbigler,71825,Lock Haven,Daniel Kimball,57663,South Dakota State
+2024,12/03,Patriot Open,149,W,MD,11 - 3,Josh Hillard,78475,Franklin & Marshall,Daniel Kimball,57663,South Dakota State
+2024,11/17,Northern State University - South Dakota State Dual,149,W,DEC,11 - 8,Wyatt Turnquist,62306,Northern State University,Daniel Kimball,57663,South Dakota State
+2024,11/11,Bison Open,149,W,MD,11 - 1,Tanner Gerber,78989,North Dakota State,Daniel Kimball,57663,South Dakota State
+2024,11/11,Bison Open,149,W,DEC,7 - 1,Pedro Velazquez,72245,North Dakota State,Daniel Kimball,57663,South Dakota State
+2024,11/11,Bison Open,149,W,DEC,8 - 1,Clay Radenz,67446,North Dakota State,Daniel Kimball,57663,South Dakota State
+2024,11/11,Bison Open,149,L,DEC,7 - 5,Drew Roberts,72140,Minnesota,Daniel Kimball,57663,South Dakota State
+2024,01/20,Worthington Open,149,W,TF5,20 - 3 7:00,Ty Borge,87822,Minnesota West Comm & Tech,Colin Dupill,78996,South Dakota State
+2024,01/20,Worthington Open,149,W,SV-1,8 - 5,Matt Sarbo,80436,Iowa Central Community College,Colin Dupill,78996,South Dakota State
+2024,01/20,Worthington Open,149,W,MD,12 - 3,Aoci Bernard,79157,St Cloud State,Colin Dupill,78996,South Dakota State
+2024,01/20,Worthington Open,149,L,MFOR,0 - 0,Aoci Bernard,79157,St Cloud State,Colin Dupill,78996,South Dakota State
+2024,01/20,Worthington Open,149,L,MFOR,0 - 0,Davin Rose,81751,Augustana,Colin Dupill,78996,South Dakota State
+2024,01/20,Worthington Open,149,L,INJ,4:25,Lucas Jagodzinske,81940,Augsburg,Colin Dupill,78996,South Dakota State
+2024,12/29,Soldier Salute,149,L,DEC,5 - 4,Daniel Kimball,57663,South Dakota State,Colin Dupill,78996,South Dakota State
+2024,12/29,Soldier Salute,149,W,DEC,4 - 1,Nick Vafiadis,73121,Navy,Colin Dupill,78996,South Dakota State
+2024,12/29,Soldier Salute,149,W,DEC,5 - 2,Connor Alexander,62464,North Carolina,Colin Dupill,78996,South Dakota State
+2024,12/29,Soldier Salute,149,L,MD,12 - 0,Wil Guida,62410,North Carolina,Colin Dupill,78996,South Dakota State
+2024,12/29,Soldier Salute,149,W,DEC,7 - 2,Warren Carr,67457,Wyoming,Colin Dupill,78996,South Dakota State
+2024,12/29,Soldier Salute,149,W,DEC,12 - 6,Zac Cowan,73532,Bellarmine,Colin Dupill,78996,South Dakota State
+2024,11/19,Daktronics Open,149,L,DEC,5 - 4,Cael Rahnavardi,73005,Northern Iowa,Colin Dupill,78996,South Dakota State
+2024,11/19,Daktronics Open,149,L,MD,8 - 0,Ethan Basile,62587,Northern Iowa,Colin Dupill,78996,South Dakota State
+2024,11/19,Daktronics Open,149,W,DEC,8 - 2,Theo Cha,71025,Minnesota,Colin Dupill,78996,South Dakota State
+2024,11/19,Daktronics Open,149,W,SV-1,8 - 5,Trae Thilmony,78628,North Dakota State,Colin Dupill,78996,South Dakota State
+2024,11/17,Dakota Wesleyan - South Dakota State Dual,149,W,TF5,17 - 1 2:24,Zach Kolbe,82374,Dakota Wesleyan,Colin Dupill,78996,South Dakota State
+2024,03/21,NCAA Championships,157,L,DEC,1 - 0,Peyten Kellar,73168,Ohio,Cael Swensen,70926,South Dakota State
+2024,03/21,NCAA Championships,157,W,DEC,8 - 5,Isaac Wilcox,60592,Ohio State,Cael Swensen,70926,South Dakota State
+2024,03/21,NCAA Championships,157,L,SV-1,4 - 1,Jacori Teemer,50581,Arizona State,Cael Swensen,70926,South Dakota State
+2024,03/21,NCAA Championships,157,W,DEC,4 - 1,Vince Zerban,73032,Northern Colorado,Cael Swensen,70926,South Dakota State
+2024,03/09,Big 12 Championships,157,W,DEC,5 - 4,Teague Travis,63722,Oklahoma State,Cael Swensen,70926,South Dakota State
+2024,03/09,Big 12 Championships,157,W,DEC,4 - 3,Brock Mauller,50596,Missouri,Cael Swensen,70926,South Dakota State
+2024,03/09,Big 12 Championships,157,W,MD,13 - 5,Teague Travis,63722,Oklahoma State,Cael Swensen,70926,South Dakota State
+2024,03/09,Big 12 Championships,157,L,DEC,1 - 0,Ryder Downey,78639,Northern Iowa,Cael Swensen,70926,South Dakota State
+2024,02/25,North Dakota State - South Dakota State Dual,157,W,MD,10 - 1,Landen Johnson,73502,North Dakota State,Cael Swensen,70926,South Dakota State
+2024,02/18,Missouri - South Dakota State Dual,157,L,DEC,4 - 1,Brock Mauller,50596,Missouri,Cael Swensen,70926,South Dakota State
+2024,02/10,South Dakota State - Oklahoma State Dual,157,L,SV-1,4 - 1,Teague Travis,63722,Oklahoma State,Cael Swensen,70926,South Dakota State
+2024,02/09,South Dakota State - Oklahoma Dual,157,W,SV-1,4 - 1,Jared Hill,72164,Oklahoma,Cael Swensen,70926,South Dakota State
+2024,02/03,South Dakota State - Utah Valley Dual,157,W,DEC,5 - 1,Alex Emmer,72614,Utah Valley,Cael Swensen,70926,South Dakota State
+2024,02/01,South Dakota State - Wyoming Dual,157,W,DEC,7 - 2,Sloan Swan,78775,Wyoming,Cael Swensen,70926,South Dakota State
+2024,01/26,Air Force - South Dakota State Dual,157,W,TF5,17 - 2 5:23,Brooks Gable,71707,Air Force,Cael Swensen,70926,South Dakota State
+2024,01/21,Cal Baptist - South Dakota State Dual,157,W,MD,15 - 2,Chaz Hallmark,62925,Cal Baptist,Cael Swensen,70926,South Dakota State
+2024,01/19,Northern Colorado - South Dakota State Dual,157,W,TF5,18 - 1 4:17,Cameron Lucero,63642,Northern Colorado,Cael Swensen,70926,South Dakota State
+2024,01/12,Navy - South Dakota State Dual,157,W,TF5,20 - 4 7:00,Charlie Evans,82060,Navy,Cael Swensen,70926,South Dakota State
+2024,01/12,Kent State - South Dakota State Dual,157,W,TF5,17 - 2 7:00,Keegan Knapp,79795,Kent State,Cael Swensen,70926,South Dakota State
+2024,01/04,Michigan - South Dakota State Dual,157,W,MD,13 - 2,Zack Mattin,72210,Michigan,Cael Swensen,70926,South Dakota State
+2024,12/29,Soldier Salute,157,W,SV-1,4 - 1,Paniro Johnson,68708,Iowa State,Cael Swensen,70926,South Dakota State
+2024,12/29,Soldier Salute,157,W,DEC,8 - 2,Sonny Santiago,61113,North Carolina,Cael Swensen,70926,South Dakota State
+2024,12/29,Soldier Salute,157,L,DEC,4 - 1,Jared Franek,50639,Iowa,Cael Swensen,70926,South Dakota State
+2024,12/29,Soldier Salute,157,W,FALL,2:56,Josh Yost,62379,VMI,Cael Swensen,70926,South Dakota State
+2024,12/16,South Dakota State - Nebraska Dual,157,L,DEC,6 - 0,Peyton Robb,56387,Nebraska,Cael Swensen,70926,South Dakota State
+2024,12/01,Cliff Keen Invitational,157,L,MD,10 - 0,Peyton Robb,56387,Nebraska,Cael Swensen,70926,South Dakota State
+2024,12/01,Cliff Keen Invitational,157,L,DEC,7 - 3,Bryce Andonian,56739,Virginia Tech,Cael Swensen,70926,South Dakota State
+2024,12/01,Cliff Keen Invitational,157,W,SV-1,4 - 1,Joey Blaze,73568,Purdue,Cael Swensen,70926,South Dakota State
+2024,12/01,Cliff Keen Invitational,157,W,DEC,9 - 4,Rhise Royster,62049,LIU,Cael Swensen,70926,South Dakota State
+2024,11/26,South Dakota State - Minnesota Dual,157,L,SV-1,7 - 4,Michael Blockhus,57163,Minnesota,Cael Swensen,70926,South Dakota State
+2024,11/17,Augustana (SD) - South Dakota State Dual,157,W,DEC,6 - 3,Payton Handevidt,76392,Augustana,Cael Swensen,70926,South Dakota State
+2024,11/17,Northern State University - South Dakota State Dual,157,W,DEC,5 - 4,Devin Bahr,49349,Northern State University,Cael Swensen,70926,South Dakota State
+2024,02/03,Don Parker Open,157,W,DEC,7 - 2,Aden Byal,85455,Wisconsin-Whitewater,Moses Espinoza-Owens,81796,South Dakota State
+2024,02/03,Don Parker Open,157,W,FALL,4:16,Lowell Arnold,79607,Wisconsin-Parkside,Moses Espinoza-Owens,81796,South Dakota State
+2024,02/03,Don Parker Open,157,W,MD,14 - 3,Lukas Paulson,76078,Augsburg,Moses Espinoza-Owens,81796,South Dakota State
+2024,02/03,Don Parker Open,157,L,DEC,5 - 4,Kaden Reetz,71099,Augsburg,Moses Espinoza-Owens,81796,South Dakota State
+2024,02/03,Don Parker Open,157,W,MFOR,0 - 0,Colton Bornholdt,78675,St Cloud State,Moses Espinoza-Owens,81796,South Dakota State
+2024,01/20,Worthington Open,157,W,TF5,17 - 2 7:00,Aj Buzynski,92398,Ellsworth CC,Moses Espinoza-Owens,81796,South Dakota State
+2024,01/20,Worthington Open,157,W,DEC,13 - 9,Darnai Heard,77336,Iowa Central Community College,Moses Espinoza-Owens,81796,South Dakota State
+2024,01/20,Worthington Open,157,W,MFOR,0 - 0,Tanner Abbas,50943,Grand View,Moses Espinoza-Owens,81796,South Dakota State
+2024,01/20,Worthington Open,157,W,TF5,20 - 5 7:00,Lane Fink,84518,Sioux Falls,Moses Espinoza-Owens,81796,South Dakota State
+2024,01/20,Worthington Open,157,W,MD,15 - 5,Kaden Reetz,71099,Augsburg,Moses Espinoza-Owens,81796,South Dakota State
+2024,12/29,Soldier Salute,157,W,DEC,9 - 5,Logan Stotts,84510,Iowa State,Moses Espinoza-Owens,81796,South Dakota State
+2024,12/29,Soldier Salute,157,W,DEC,4 - 2,Isaiah Fenton,84481,Iowa,Moses Espinoza-Owens,81796,South Dakota State
+2024,12/29,Soldier Salute,157,L,DEC,4 - 2,Christian Stanek,78844,Iowa State,Moses Espinoza-Owens,81796,South Dakota State
+2024,12/29,Soldier Salute,157,L,DEC,2 - 0,Andrew Garr,57348,Columbia,Moses Espinoza-Owens,81796,South Dakota State
+2024,12/29,Soldier Salute,157,W,DEC,7 - 6,Gray Ortis,78875,Bellarmine,Moses Espinoza-Owens,81796,South Dakota State
+2024,12/03,Dragon Open,157,W,MD,16 - 5,Clay Radenz,67446,North Dakota State,Moses Espinoza-Owens,81796,South Dakota State
+2024,12/03,Dragon Open,157,W,TF5,20 - 5 5:53,Jacob Cole,74614,Minnesota State Moorhead,Moses Espinoza-Owens,81796,South Dakota State
+2024,12/03,Dragon Open,157,W,DEC,4 - 2,Colton Bornholdt,78675,St Cloud State,Moses Espinoza-Owens,81796,South Dakota State
+2024,11/19,Daktronics Open,157,L,TF5,15 - 0 3:52,Ryder Downey,78639,Northern Iowa,Moses Espinoza-Owens,81796,South Dakota State
+2024,11/19,Daktronics Open,157,L,DEC,5 - 4,Kaleb Olejniczak,62607,Northern Iowa,Moses Espinoza-Owens,81796,South Dakota State
+2024,11/11,Bison Open,157,L,MD,11 - 2,Landen Johnson,73502,North Dakota State,Moses Espinoza-Owens,81796,South Dakota State
+2024,11/11,Bison Open,157,L,FALL,5:45,Sebas Swiggum,57336,Minnesota,Moses Espinoza-Owens,81796,South Dakota State
+2024,02/03,Don Parker Open,165,W,FALL,4:55,Juan Pablo Garcia,86347,Luther,Ryan Dolezal,79258,South Dakota State
+2024,02/03,Don Parker Open,165,L,MD,11 - 0,Jon Harvey,79871,Wisconsin-Eau Claire,Ryan Dolezal,79258,South Dakota State
+2024,02/03,Don Parker Open,165,W,TF5,15 - 0 7:00,Logan Thorsten,75611,St Johns,Ryan Dolezal,79258,South Dakota State
+2024,02/03,Don Parker Open,165,L,MD,15 - 3,Tristan Massie,64228,Wisconsin-Eau Claire,Ryan Dolezal,79258,South Dakota State
+2024,02/03,Don Parker Open,165,L,MD,9 - 0,Gavin Model,63172,Wisconsin,Ryan Dolezal,79258,South Dakota State
+2024,12/03,Dragon Open,157,L,FALL,1:47,Clay Radenz,67446,North Dakota State,Ryan Dolezal,79258,South Dakota State
+2024,12/03,Dragon Open,157,L,FALL,5:40,Lane Ewing,85313,Mary,Ryan Dolezal,79258,South Dakota State
+2024,12/03,Dragon Open,157,W,FALL,2:47,Vontrell Calhoun,86480,Minot State,Ryan Dolezal,79258,South Dakota State
+2024,12/03,Dragon Open,157,W,DEC,11 - 9,Alexander McPhee,74617,Concordia-Moorhead,Ryan Dolezal,79258,South Dakota State
+2024,11/19,Daktronics Open,157,L,MD,13 - 4,Kaleb Olejniczak,62607,Northern Iowa,Ryan Dolezal,79258,South Dakota State
+2024,11/19,Daktronics Open,157,L,MD,11 - 3,Christian Stanek,78844,Iowa State,Ryan Dolezal,79258,South Dakota State
+2024,11/17,Dakota Wesleyan - South Dakota State Dual,157,W,DEC,14 - 11,Tyson Johnson,74653,Dakota Wesleyan,Ryan Dolezal,79258,South Dakota State
+2024,11/11,Bison Open,157,L,TF5,20 - 0 7:00,Landen Johnson,73502,North Dakota State,Ryan Dolezal,79258,South Dakota State
+2024,11/11,Bison Open,157,L,MD,13 - 0,Michael Weber,61992,North Dakota State,Ryan Dolezal,79258,South Dakota State
+2024,11/11,Bison Open,157,W,MD,13 - 5,Kyler Wong,87488,Minnesota,Ryan Dolezal,79258,South Dakota State
+2024,11/11,Bison Open,157,L,TF5,19 - 1 7:00,Michael Blockhus,57163,Minnesota,Ryan Dolezal,79258,South Dakota State
+2024,03/09,Big 12 Championships,165,L,DEC,6 - 3,Jack Thomsen,63138,Northern Iowa,Tanner Cook,51408,South Dakota State
+2024,03/09,Big 12 Championships,165,L,INJ,1:05,Mateo de la Pena,79039,Cal Baptist,Tanner Cook,51408,South Dakota State
+2024,02/25,North Dakota State - South Dakota State Dual,165,W,FALL,1:16,Brendan Howes,73498,North Dakota State,Tanner Cook,51408,South Dakota State
+2024,02/10,South Dakota State - Oklahoma State Dual,165,L,FALL,2:55,Izzak Olejnik,56509,Oklahoma State,Tanner Cook,51408,South Dakota State
+2024,02/03,South Dakota State - Utah Valley Dual,165,W,FALL,0:16,Tanner Lofthouse,67452,Utah Valley,Tanner Cook,51408,South Dakota State
+2024,02/01,South Dakota State - Wyoming Dual,165,W,SV-1,4 - 1,Cooper Voorhees,67459,Wyoming,Tanner Cook,51408,South Dakota State
+2024,01/26,Air Force - South Dakota State Dual,165,L,DEC,5 - 0,Giano Petrucelli,62610,Air Force,Tanner Cook,51408,South Dakota State
+2024,01/21,Cal Baptist - South Dakota State Dual,165,L,DEC,4 - 2,Drayden Morton,80401,Cal Baptist,Tanner Cook,51408,South Dakota State
+2024,01/19,Northern Colorado - South Dakota State Dual,165,L,FALL,1:00,Derek Matthews,73320,Northern Colorado,Tanner Cook,51408,South Dakota State
+2024,01/12,Navy - South Dakota State Dual,165,L,MD,10 - 2,Andrew Cerniglia,62439,Navy,Tanner Cook,51408,South Dakota State
+2024,01/12,Kent State - South Dakota State Dual,165,W,FALL,0:44,Aaron Ferguson,71721,Kent State,Tanner Cook,51408,South Dakota State
+2024,01/04,Michigan - South Dakota State Dual,165,L,DEC,4 - 2,Beau Mantanona,78420,Michigan,Tanner Cook,51408,South Dakota State
+2024,12/16,South Dakota State - Nebraska Dual,165,L,DEC,7 - 1,Antrell Taylor,72966,Nebraska,Tanner Cook,51408,South Dakota State
+2024,12/03,Patriot Open,165,W,DEC,9 - 7,Ty Finn,72150,Virginia Tech,Tanner Cook,51408,South Dakota State
+2024,12/03,Patriot Open,165,W,FALL,0:18,Kaya Sement,63454,Pennsylvania,Tanner Cook,51408,South Dakota State
+2024,12/03,Patriot Open,165,L,FALL,3:28,Derek Fields,71932,NC State,Tanner Cook,51408,South Dakota State
+2024,12/03,Patriot Open,165,W,FALL,0:21,Ryan Money,84579,Maryland,Tanner Cook,51408,South Dakota State
+2024,11/26,South Dakota State - Minnesota Dual,165,L,DEC,9 - 6,Blaine Brenner,72138,Minnesota,Tanner Cook,51408,South Dakota State
+2024,02/18,Missouri - South Dakota State Dual,165,L,TF5,22 - 5 5:21,Keegan O'Toole,61119,Missouri,Connor Gaynor,72168,South Dakota State
+2024,02/09,South Dakota State - Oklahoma Dual,165,L,DEC,6 - 4,Gerrit Nijenhuis,62352,Oklahoma,Connor Gaynor,72168,South Dakota State
+2024,12/01,Cliff Keen Invitational,165,L,DEC,8 - 5,Antrell Taylor,72966,Nebraska,Connor Gaynor,72168,South Dakota State
+2024,12/01,Cliff Keen Invitational,165,L,INJ,1:54,Chance McLane,57206,Arizona State,Connor Gaynor,72168,South Dakota State
+2024,11/26,South Dakota State - Minnesota Dual,184,L,MD,14 - 3,Isaiah Salazar,62340,Minnesota,Connor Gaynor,72168,South Dakota State
+2024,11/19,Daktronics Open,165,L,DEC,8 - 4,Izzy Moreno,84966,Northern Iowa,Connor Gaynor,72168,South Dakota State
+2024,11/19,Daktronics Open,165,L,DEC,8 - 4,Evan Yant,69966,Northern Iowa,Connor Gaynor,72168,South Dakota State
+2024,11/17,Augustana (SD) - South Dakota State Dual,165,L,DEC,6 - 3,Tyler Wagener,51651,Augustana,Connor Gaynor,72168,South Dakota State
+2024,02/03,Don Parker Open,165,L,SV-1,6 - 5,Tristan Massie,64228,Wisconsin-Eau Claire,Brock Fettig,78891,South Dakota State
+2024,02/03,Don Parker Open,165,W,DEC,8 - 5,Gavin Model,63172,Wisconsin,Brock Fettig,78891,South Dakota State
+2024,02/03,Don Parker Open,165,W,DEC,4 - 3,Ethan Hendrickson,73850,St Cloud State,Brock Fettig,78891,South Dakota State
+2024,01/20,Worthington Open,165,W,MD,10 - 2,Dawson Bond,92396,Unattached,Brock Fettig,78891,South Dakota State
+2024,01/20,Worthington Open,165,W,TF5,16 - 0 7:00,Cameron Shultz,87821,Morningside,Brock Fettig,78891,South Dakota State
+2024,01/20,Worthington Open,165,L,FALL,6:37,Michael Myers,87016,Iowa Central Community College,Brock Fettig,78891,South Dakota State
+2024,01/20,Worthington Open,165,W,DEC,13 - 7,Triston Barncastle,83525,Ellsworth CC,Brock Fettig,78891,South Dakota State
+2024,01/20,Worthington Open,165,W,DEC,12 - 5,Caden Young,84729,Southwest Minnesota State,Brock Fettig,78891,South Dakota State
+2024,12/29,Soldier Salute,165,L,MD,14 - 3,Drake Rhodes,73705,Iowa,Brock Fettig,78891,South Dakota State
+2024,12/29,Soldier Salute,165,W,DEC,5 - 4,Brant Whitaker,71934,Missouri,Brock Fettig,78891,South Dakota State
+2024,12/29,Soldier Salute,165,L,FALL,0:42,Andrew Cerniglia,62439,Navy,Brock Fettig,78891,South Dakota State
+2024,12/29,Soldier Salute,165,L,TF5,21 - 4 7:00,Patrick Kennedy,56760,Iowa,Brock Fettig,78891,South Dakota State
+2024,12/29,Soldier Salute,165,W,FALL,6:37,Luke Hart,72524,VMI,Brock Fettig,78891,South Dakota State
+2024,12/03,Dragon Open,165,W,DEC,4 - 2,Luke Barker,81793,North Dakota State,Brock Fettig,78891,South Dakota State
+2024,12/03,Dragon Open,165,L,DEC,5 - 1,Braydon Huber,51077,Mary,Brock Fettig,78891,South Dakota State
+2024,12/03,Dragon Open,165,W,SV-1,12 - 9,Derek Johnson,81815,St Cloud State,Brock Fettig,78891,South Dakota State
+2024,12/03,Dragon Open,165,L,FALL,4:16,James Burks,61957,St Cloud State,Brock Fettig,78891,South Dakota State
+2024,11/19,Daktronics Open,165,W,DEC,5 - 4,Izzy Moreno,84966,Northern Iowa,Brock Fettig,78891,South Dakota State
+2024,11/19,Daktronics Open,165,L,SV-1,4 - 1,Hunter Lyden,72209,Minnesota,Brock Fettig,78891,South Dakota State
+2024,11/19,Daktronics Open,165,L,DEC,9 - 5,Andrew Huddleston,71153,Iowa State,Brock Fettig,78891,South Dakota State
+2024,11/17,Northern State University - South Dakota State Dual,165,L,DEC,5 - 2,Chase Bloomquist,67516,Northern State University,Brock Fettig,78891,South Dakota State
+2024,11/17,Dakota Wesleyan - South Dakota State Dual,165,L,MD,13 - 2,Kaleb Bigelow,74677,Dakota Wesleyan,Brock Fettig,78891,South Dakota State
+2024,11/11,Bison Open,165,L,DEC,12 - 11,Marcus Espinoza-Owens,81795,South Dakota State,Brock Fettig,78891,South Dakota State
+2024,11/11,Bison Open,165,L,DEC,8 - 6,Blaine Brenner,72138,Minnesota,Brock Fettig,78891,South Dakota State
+2024,11/11,Bison Open,165,W,TB-1,6 - 1,Tim Stapleton,71026,Minnesota,Brock Fettig,78891,South Dakota State
+2024,11/11,Bison Open,165,W,FALL,6:54,Tim Stapleton,71026,Minnesota,Brock Fettig,78891,South Dakota State
+2024,02/03,Don Parker Open,165,W,TF5,18 - 2 7:00,Zach Eliszewski,88436,Wisconsin-La Crosse,Marcus Espinoza-Owens,81795,South Dakota State
+2024,02/03,Don Parker Open,165,W,TF5,22 - 4 7:00,Caden Kirchner,85456,Wisconsin-Whitewater,Marcus Espinoza-Owens,81795,South Dakota State
+2024,02/03,Don Parker Open,165,L,DEC,4 - 3,Daniel Sheen,78574,Wisconsin,Marcus Espinoza-Owens,81795,South Dakota State
+2024,02/03,Don Parker Open,165,W,MD,10 - 1,Derek Johnson,81815,St Cloud State,Marcus Espinoza-Owens,81795,South Dakota State
+2024,01/20,Worthington Open,165,W,TF5,17 - 2 7:00,Jake Licking,87597,Nebraska,Marcus Espinoza-Owens,81795,South Dakota State
+2024,01/20,Worthington Open,165,W,TF5,17 - 2 7:00,Bryce Dodge,87032,Iowa Central Community College,Marcus Espinoza-Owens,81795,South Dakota State
+2024,01/20,Worthington Open,165,W,DEC,10 - 4,Derek Johnson,81815,St Cloud State,Marcus Espinoza-Owens,81795,South Dakota State
+2024,01/20,Worthington Open,165,W,DEC,7 - 3,Ethan Hendrickson,73850,St Cloud State,Marcus Espinoza-Owens,81795,South Dakota State
+2024,12/29,Soldier Salute,165,W,TF5,17 - 2 7:00,Mason Collins,88470,Navy,Marcus Espinoza-Owens,81795,South Dakota State
+2024,12/29,Soldier Salute,165,L,MD,15 - 5,Connor Euton,74564,Iowa State,Marcus Espinoza-Owens,81795,South Dakota State
+2024,12/29,Soldier Salute,165,L,FALL,4:37,Isaias Estrada,72152,North Carolina,Marcus Espinoza-Owens,81795,South Dakota State
+2024,12/29,Soldier Salute,165,W,MD,17 - 8,Brant Whitaker,71934,Missouri,Marcus Espinoza-Owens,81795,South Dakota State
+2024,12/29,Soldier Salute,165,L,MD,8 - 0,Kyle Mosher,57125,Columbia,Marcus Espinoza-Owens,81795,South Dakota State
+2024,12/03,Dragon Open,165,W,MFOR,0 - 0,Braydon Huber,51077,Mary,Marcus Espinoza-Owens,81795,South Dakota State
+2024,12/03,Dragon Open,165,W,TF5,26 - 10 5:00,Izaak Hunsley,72580,Northern State University,Marcus Espinoza-Owens,81795,South Dakota State
+2024,12/03,Dragon Open,165,W,MD,13 - 3,James Burks,61957,St Cloud State,Marcus Espinoza-Owens,81795,South Dakota State
+2024,11/19,Daktronics Open,165,L,DEC,8 - 5,Jack Thomsen,63138,Northern Iowa,Marcus Espinoza-Owens,81795,South Dakota State
+2024,11/19,Daktronics Open,165,L,FALL,1:21,Christian Minto,61841,Northern Iowa,Marcus Espinoza-Owens,81795,South Dakota State
+2024,11/11,Bison Open,165,W,INJ,2:00,Jacob Fistler,87483,Jackrabbit Wrestling Club,Marcus Espinoza-Owens,81795,South Dakota State
+2024,11/11,Bison Open,165,W,DEC,12 - 11,Brock Fettig,78891,South Dakota State,Marcus Espinoza-Owens,81795,South Dakota State
+2024,11/11,Bison Open,165,L,DEC,14 - 7,Hunter Lyden,72209,Minnesota,Marcus Espinoza-Owens,81795,South Dakota State
+2024,11/11,Bison Open,165,L,DEC,10 - 7,Hunter Lyden,72209,Minnesota,Marcus Espinoza-Owens,81795,South Dakota State
+2024,03/21,NCAA Championships,174,W,DEC,5 - 0,Lennox Wolak,57767,Columbia,Cade DeVos,57072,South Dakota State
+2024,03/21,NCAA Championships,174,L,DEC,6 - 2,Shane Griffith,49991,Michigan,Cade DeVos,57072,South Dakota State
+2024,03/21,NCAA Championships,174,W,DEC,5 - 3,Edmond Ruth,51277,Illinois,Cade DeVos,57072,South Dakota State
+2024,03/21,NCAA Championships,174,W,DEC,6 - 3,Gaven Sax,65396,North Dakota State,Cade DeVos,57072,South Dakota State
+2024,03/21,NCAA Championships,174,L,DEC,4 - 2,Lennox Wolak,57767,Columbia,Cade DeVos,57072,South Dakota State
+2024,03/21,NCAA Championships,174,W,DEC,10 - 4,Ben Pasiuk,57286,Army West Point,Cade DeVos,57072,South Dakota State
+2024,03/21,NCAA Championships,174,W,TF5,15 - 0 4:43,Michael Wilson,62190,Rider,Cade DeVos,57072,South Dakota State
+2024,03/09,Big 12 Championships,174,W,DEC,6 - 4,Gaven Sax,65396,North Dakota State,Cade DeVos,57072,South Dakota State
+2024,03/09,Big 12 Championships,174,W,DEC,4 - 1,Brody Conley,71814,West Virginia,Cade DeVos,57072,South Dakota State
+2024,03/09,Big 12 Championships,174,W,DEC,2 - 0,Peyton Mocco,50635,Missouri,Cade DeVos,57072,South Dakota State
+2024,02/25,North Dakota State - South Dakota State Dual,174,W,DEC,6 - 2,Gaven Sax,65396,North Dakota State,Cade DeVos,57072,South Dakota State
+2024,02/18,Missouri - South Dakota State Dual,174,W,DEC,5 - 0,Peyton Mocco,50635,Missouri,Cade DeVos,57072,South Dakota State
+2024,02/10,South Dakota State - Oklahoma State Dual,174,W,DEC,9 - 3,Brayden Thompson,78507,Oklahoma State,Cade DeVos,57072,South Dakota State
+2024,02/09,South Dakota State - Oklahoma Dual,174,W,DEC,8 - 5,Tate Picklo,72165,Oklahoma,Cade DeVos,57072,South Dakota State
+2024,02/03,South Dakota State - Utah Valley Dual,174,W,TF5,18 - 2 6:06,Caleb Uhlenhopp,79836,Utah Valley,Cade DeVos,57072,South Dakota State
+2024,02/01,South Dakota State - Wyoming Dual,174,W,MD,15 - 3,Quayin Short,70764,Wyoming,Cade DeVos,57072,South Dakota State
+2024,01/26,Air Force - South Dakota State Dual,174,W,MD,14 - 4,Gage Musser,71710,Air Force,Cade DeVos,57072,South Dakota State
+2024,01/21,Cal Baptist - South Dakota State Dual,174,W,TF5,23 - 4 6:09,Justin Phillips,57093,Cal Baptist,Cade DeVos,57072,South Dakota State
+2024,01/19,Northern Colorado - South Dakota State Dual,174,W,TF5,16 - 0 5:00,Travis Mastrogiovanni,67221,Northern Colorado,Cade DeVos,57072,South Dakota State
+2024,01/12,Navy - South Dakota State Dual,174,W,DEC,5 - 0,Danny Wask,72981,Navy,Cade DeVos,57072,South Dakota State
+2024,01/12,Kent State - South Dakota State Dual,174,W,TF5,19 - 4 7:00,AJ Burkhart,50632,Kent State,Cade DeVos,57072,South Dakota State
+2024,01/04,Michigan - South Dakota State Dual,174,L,SV-1,4 - 1,Shane Griffith,49991,Michigan,Cade DeVos,57072,South Dakota State
+2024,12/16,South Dakota State - Nebraska Dual,174,W,DEC,4 - 2,Bubba Wilson,57936,Nebraska,Cade DeVos,57072,South Dakota State
+2024,12/01,Cliff Keen Invitational,174,W,MD,10 - 2,MJ Gaitan,78494,Iowa State,Cade DeVos,57072,South Dakota State
+2024,12/01,Cliff Keen Invitational,174,W,DEC,9 - 7,Travis Wittlake,50615,Oregon State,Cade DeVos,57072,South Dakota State
+2024,12/01,Cliff Keen Invitational,174,W,DEC,11 - 8,Carson Kharchla,57703,Ohio State,Cade DeVos,57072,South Dakota State
+2024,12/01,Cliff Keen Invitational,174,W,MD,9 - 0,Lucas Uliano,71130,Appalachian State,Cade DeVos,57072,South Dakota State
+2024,12/01,Cliff Keen Invitational,174,W,TF5,17 - 1 2:05,Ryder Dearborn,84963,CSU Bakersfield,Cade DeVos,57072,South Dakota State
+2024,11/26,South Dakota State - Minnesota Dual,174,W,DEC,4 - 1,Sam Skillings,67436,Minnesota,Cade DeVos,57072,South Dakota State
+2024,11/17,Augustana (SD) - South Dakota State Dual,174,W,TF5,21 - 6 5:48,Coy Gunderson,78798,Augustana,Cade DeVos,57072,South Dakota State
+2024,11/17,Northern State University - South Dakota State Dual,174,W,TF5,18 - 3 4:41,Sam Kruger,72106,Northern State University,Cade DeVos,57072,South Dakota State
+2024,02/03,Don Parker Open,174,W,TF5,15 - 0 7:00,Bryce Hampton,92708,Wisconsin-Eau Claire,Riggin Boger,84364,South Dakota State
+2024,02/03,Don Parker Open,174,W,MFOR,0 - 0,Andrew Johnson,87841,St Johns,Riggin Boger,84364,South Dakota State
+2024,02/03,Don Parker Open,174,L,FALL,1:09,Preston Carlisle,79870,Wisconsin-Eau Claire,Riggin Boger,84364,South Dakota State
+2024,02/03,Don Parker Open,174,W,TF5,19 - 3 7:00,Connor Thorsten,71100,Augsburg,Riggin Boger,84364,South Dakota State
+2024,02/03,Don Parker Open,174,L,DEC,6 - 1,Bryce Dagel,72175,St Cloud State,Riggin Boger,84364,South Dakota State
+2024,01/27,Loras College Open,174,W,FALL,1:18,Corbin Hood,89793,Iowa Central Community College,Riggin Boger,84364,South Dakota State
+2024,01/27,Loras College Open,174,W,DEC,9 - 3,Jaquan East,86625,Indian Hills,Riggin Boger,84364,South Dakota State
+2024,01/27,Loras College Open,174,L,MD,18 - 10,Nick Fox,84343,Northern Iowa,Riggin Boger,84364,South Dakota State
+2024,01/27,Loras College Open,174,L,FALL,3:54,Caden Schmidt,82932,Iowa State,Riggin Boger,84364,South Dakota State
+2024,01/27,Loras College Open,174,W,DEC,5 - 4,Austin Wilkins,78869,Cornell College,Riggin Boger,84364,South Dakota State
+2024,12/03,Dragon Open,174,W,TF5,17 - 2 5:56,Wayne Mellon,79149,Minnesota State Moorhead,Riggin Boger,84364,South Dakota State
+2024,12/03,Dragon Open,174,L,MFOR,0 - 0,Mason Fey,83734,Northern State University,Riggin Boger,84364,South Dakota State
+2024,12/03,Dragon Open,174,L,MD,10 - 0,Cole Glazier,82511,St Cloud State,Riggin Boger,84364,South Dakota State
+2024,12/03,Dragon Open,174,W,TF5,19 - 3 3:42,Noah Whitfield-Lopez,75629,St Johns,Riggin Boger,84364,South Dakota State
+2024,11/11,Bison Open,174,W,DEC,8 - 5,Mason Gode,72246,North Dakota State,Riggin Boger,84364,South Dakota State
+2024,11/11,Bison Open,174,L,MD,15 - 1,Ethan Riddle,79016,Minnesota,Riggin Boger,84364,South Dakota State
+2024,11/11,Bison Open,174,L,TF5,15 - 0 7:00,Andrew Sparks,67049,Minnesota,Riggin Boger,84364,South Dakota State
+2024,03/21,NCAA Championships,184,L,DEC,9 - 7,Trey Munoz,59555,Oregon State,Bennett Berge,73099,South Dakota State
+2024,03/21,NCAA Championships,184,W,DEC,3 - 2,Isaiah Salazar,62340,Minnesota,Bennett Berge,73099,South Dakota State
+2024,03/21,NCAA Championships,184,W,TF5,17 - 2 5:47,David Key,56717,Navy,Bennett Berge,73099,South Dakota State
+2024,03/21,NCAA Championships,184,W,DEC,13 - 8,Lenny Pinto,63137,Nebraska,Bennett Berge,73099,South Dakota State
+2024,03/21,NCAA Championships,184,W,DEC,14 - 7,Nate Dugan,57662,Princeton,Bennett Berge,73099,South Dakota State
+2024,03/21,NCAA Championships,184,W,DEC,7 - 6,Layne Malczewski,51828,Michigan State,Bennett Berge,73099,South Dakota State
+2024,03/21,NCAA Championships,184,W,MD,11 - 0,Sam Wolf,66631,Air Force,Bennett Berge,73099,South Dakota State
+2024,03/21,NCAA Championships,184,L,MD,9 - 1,Shane Liegel,66103,Wisconsin,Bennett Berge,73099,South Dakota State
+2024,03/09,Big 12 Championships,184,W,DEC,4 - 2,Colton Hawks,62375,Missouri,Bennett Berge,73099,South Dakota State
+2024,03/09,Big 12 Championships,184,L,DEC,4 - 3,Sam Wolf,66631,Air Force,Bennett Berge,73099,South Dakota State
+2024,03/09,Big 12 Championships,184,W,MD,16 - 5,Dennis Robin,69638,West Virginia,Bennett Berge,73099,South Dakota State
+2024,03/09,Big 12 Championships,184,W,MD,17 - 4,Adam Cherne,83374,North Dakota State,Bennett Berge,73099,South Dakota State
+2024,03/09,Big 12 Championships,184,W,DEC,9 - 6,Nathan Haas,62341,Cal Baptist,Bennett Berge,73099,South Dakota State
+2024,03/09,Big 12 Championships,184,L,DEC,4 - 1,Sam Wolf,66631,Air Force,Bennett Berge,73099,South Dakota State
+2024,02/25,North Dakota State - South Dakota State Dual,184,W,FALL,1:23,Adam Cherne,83374,North Dakota State,Bennett Berge,73099,South Dakota State
+2024,02/18,Missouri - South Dakota State Dual,184,W,DEC,10 - 6,Colton Hawks,62375,Missouri,Bennett Berge,73099,South Dakota State
+2024,02/10,South Dakota State - Oklahoma State Dual,184,L,SV-1,9 - 6,Dustin Plott,57607,Oklahoma State,Bennett Berge,73099,South Dakota State
+2024,02/09,South Dakota State - Oklahoma Dual,184,W,DEC,7 - 2,Guiseppe Hoose,56371,Oklahoma,Bennett Berge,73099,South Dakota State
+2024,02/03,South Dakota State - Utah Valley Dual,184,W,MD,14 - 4,Mahonri Rushton,73063,Utah Valley,Bennett Berge,73099,South Dakota State
+2024,02/01,South Dakota State - Wyoming Dual,184,W,MD,12 - 2,Ethan Ducca,62334,Wyoming,Bennett Berge,73099,South Dakota State
+2024,01/26,Air Force - South Dakota State Dual,184,W,MD,8 - 0,Sam Wolf,66631,Air Force,Bennett Berge,73099,South Dakota State
+2024,01/21,Cal Baptist - South Dakota State Dual,184,W,FALL,0:46,Nathan Haas,62341,Cal Baptist,Bennett Berge,73099,South Dakota State
+2024,01/19,Northern Colorado - South Dakota State Dual,184,W,TF5,18 - 3 5:44,Andrew Donahue,73503,Northern Colorado,Bennett Berge,73099,South Dakota State
+2024,01/12,Navy - South Dakota State Dual,184,W,DEC,9 - 6,David Key,56717,Navy,Bennett Berge,73099,South Dakota State
+2024,01/12,Kent State - South Dakota State Dual,184,W,TF5,17 - 2 7:00,Kyle Snider,78729,Kent State,Bennett Berge,73099,South Dakota State
+2024,01/04,Michigan - South Dakota State Dual,184,W,MD,14 - 5,Jaden Bullock,67035,Michigan,Bennett Berge,73099,South Dakota State
+2024,12/16,South Dakota State - Nebraska Dual,184,L,DEC,8 - 2,Lenny Pinto,63137,Nebraska,Bennett Berge,73099,South Dakota State
+2024,12/03,Patriot Open,184,W,TF5,17 - 1 4:42,Isaac Dean,72506,Rider,Bennett Berge,73099,South Dakota State
+2024,12/03,Patriot Open,184,L,MD,11 - 3,Brock Delsignore,71935,NC State,Bennett Berge,73099,South Dakota State
+2024,12/03,Patriot Open,184,W,MD,14 - 3,Daniel Williams,84928,Navy,Bennett Berge,73099,South Dakota State
+2024,12/03,Patriot Open,184,W,MD,11 - 2,Kevin Makosy,59551,Maryland,Bennett Berge,73099,South Dakota State
+2024,12/03,Patriot Open,184,W,TF5,21 - 6 5:50,Dalton Battle,73100,Appalachian State,Bennett Berge,73099,South Dakota State
+2024,02/03,Don Parker Open,184,L,DEC,4 - 1,Brandt Bombard,81933,Augsburg,Jared Thiry,84460,South Dakota State
+2024,02/03,Don Parker Open,184,W,DEC,10 - 4,Terry Smith,79872,Wisconsin-Eau Claire,Jared Thiry,84460,South Dakota State
+2024,02/03,Don Parker Open,184,W,MFOR,0 - 0,Ben Gilbertson,71111,St Johns,Jared Thiry,84460,South Dakota State
+2024,02/03,Don Parker Open,184,L,DEC,4 - 3,Mac Copeland,71289,St Cloud State,Jared Thiry,84460,South Dakota State
+2024,01/20,Worthington Open,184,L,DEC,8 - 6,Peyton Hermann,92403,Unattached,Jared Thiry,84460,South Dakota State
+2024,01/20,Worthington Open,184,L,SV-1,4 - 1,Ethan DeLeon,84338,Nebraska,Jared Thiry,84460,South Dakota State
+2024,01/20,Worthington Open,184,W,TB-2,2 - 1,Brandt Bombard,81933,Augsburg,Jared Thiry,84460,South Dakota State
+2024,12/29,Soldier Salute,184,L,TF5,23 - 2 7:00,Ethan DeLeon,84338,Nebraska,Jared Thiry,84460,South Dakota State
+2024,12/29,Soldier Salute,184,L,TF5,16 - 1 7:00,Aiden Riggins,73562,Iowa,Jared Thiry,84460,South Dakota State
+2024,12/29,Soldier Salute,184,L,TF5,16 - 1 7:00,Quayin Short,70764,Wyoming,Jared Thiry,84460,South Dakota State
+2024,12/29,Soldier Salute,184,L,TF5,21 - 5 7:00,Jack McGill,71733,Columbia,Jared Thiry,84460,South Dakota State
+2024,12/03,Dragon Open,197,L,SV-1,4 - 1,Macray Klohs,83083,North Dakota State,Jared Thiry,84460,South Dakota State
+2024,12/03,Dragon Open,197,L,TF5,18 - 1 4:54,Nathan Fury,85203,St Cloud State,Jared Thiry,84460,South Dakota State
+2024,11/19,Daktronics Open,197,L,MD,11 - 2,Adam Ahrendson,68723,Northern Iowa,Jared Thiry,84460,South Dakota State
+2024,11/19,Daktronics Open,197,W,DEC,10 - 5,Cole Carlucci,78552,Iowa State,Jared Thiry,84460,South Dakota State
+2024,11/19,Daktronics Open,197,L,MD,11 - 2,Lathan Duda,69968,North Dakota State,Jared Thiry,84460,South Dakota State
+2024,11/11,Bison Open,197,L,DEC,5 - 4,Spencer Mooberry,69967,North Dakota State,Jared Thiry,84460,South Dakota State
+2024,11/11,Bison Open,197,L,MD,13 - 1,Garrett Joles,50908,Minnesota,Jared Thiry,84460,South Dakota State
+2024,11/19,Daktronics Open,184,W,FALL,2:48,Shane McConville,87482,Jackrabbit Wrestling Club,Kalen Meyer,72171,South Dakota State
+2024,11/19,Daktronics Open,184,L,TF5,19 - 4 2:58,Max McEnelly,78146,Minnesota,Kalen Meyer,72171,South Dakota State
+2024,11/19,Daktronics Open,184,L,DEC,17 - 11,Aidan Brenot,84734,North Dakota State,Kalen Meyer,72171,South Dakota State
+2024,11/17,Augustana (SD) - South Dakota State Dual,184,L,FALL,1:37,Danny Reynolds,66897,Augustana,Kalen Meyer,72171,South Dakota State
+2024,01/20,Worthington Open,184,L,DEC,7 - 3,Ethan DeLeon,84338,Nebraska,Jaxon Bowes,79257,South Dakota State
+2024,01/20,Worthington Open,184,L,INJ,0:53,Mac Copeland,71289,St Cloud State,Jaxon Bowes,79257,South Dakota State
+2024,12/03,Dragon Open,184,L,DEC,6 - 3,Tyson Lien,72239,Northern State University,Jaxon Bowes,79257,South Dakota State
+2024,12/03,Dragon Open,184,W,TF5,19 - 3 5:28,Jacob Vaughan,82928,St Johns,Jaxon Bowes,79257,South Dakota State
+2024,11/19,Daktronics Open,184,W,FALL,4:07,Shane McConville,87482,Jackrabbit Wrestling Club,Jaxon Bowes,79257,South Dakota State
+2024,11/19,Daktronics Open,184,L,MD,17 - 5,Aidan Brenot,84734,North Dakota State,Jaxon Bowes,79257,South Dakota State
+2024,11/19,Daktronics Open,184,L,DEC,11 - 4,Aidan Brenot,84734,North Dakota State,Jaxon Bowes,79257,South Dakota State
+2024,11/17,Northern State University - South Dakota State Dual,184,L,DEC,10 - 4,Treyton Cacek,67519,Northern State University,Jaxon Bowes,79257,South Dakota State
+2024,11/11,Bison Open,184,W,DEC,9 - 2,Shane McConville,87482,Jackrabbit Wrestling Club,Jaxon Bowes,79257,South Dakota State
+2024,11/11,Bison Open,184,L,MD,13 - 5,Aidan Brenot,84734,North Dakota State,Jaxon Bowes,79257,South Dakota State
+2024,11/11,Bison Open,184,L,MD,13 - 4,Adam Cherne,83374,North Dakota State,Jaxon Bowes,79257,South Dakota State
+2024,11/11,Bison Open,184,L,TF5,21 - 6 7:00,Max McEnelly,78146,Minnesota,Jaxon Bowes,79257,South Dakota State
+2024,03/21,NCAA Championships,197,W,DEC,7 - 0,Rocky Elam,62027,Missouri,Tanner Sloan,56251,South Dakota State
+2024,03/21,NCAA Championships,197,L,DEC,6 - 2,Stephen Buchanan,60451,Oklahoma,Tanner Sloan,56251,South Dakota State
+2024,03/21,NCAA Championships,197,L,DEC,4 - 1,Trent Hidlay,51224,NC State,Tanner Sloan,56251,South Dakota State
+2024,03/21,NCAA Championships,197,W,TF5,16 - 1 7:00,Louie DePrez,49046,Binghamton,Tanner Sloan,56251,South Dakota State
+2024,03/21,NCAA Championships,197,W,MD,14 - 4,John Poznanski,61124,Rutgers,Tanner Sloan,56251,South Dakota State
+2024,03/21,NCAA Championships,197,W,FALL,5:26,Sam Mitchell,61028,Buffalo,Tanner Sloan,56251,South Dakota State
+2024,03/09,Big 12 Championships,197,W,DEC,1 - 0,Rocky Elam,62027,Missouri,Tanner Sloan,56251,South Dakota State
+2024,03/09,Big 12 Championships,197,W,TF5,15 - 0 5:27,Wyatt Voelker,73956,Northern Iowa,Tanner Sloan,56251,South Dakota State
+2024,03/09,Big 12 Championships,197,W,FALL,4:40,Xavier Vasquez,49233,Northern Colorado,Tanner Sloan,56251,South Dakota State
+2024,03/09,Big 12 Championships,197,W,FALL,1:47,Julien Broderson,57644,Iowa State,Tanner Sloan,56251,South Dakota State
+2024,02/25,North Dakota State - South Dakota State Dual,197,W,TF5,15 - 0 5:46,Spencer Mooberry,69967,North Dakota State,Tanner Sloan,56251,South Dakota State
+2024,02/18,Missouri - South Dakota State Dual,197,W,FALL,4:38,Rocky Elam,62027,Missouri,Tanner Sloan,56251,South Dakota State
+2024,02/10,South Dakota State - Oklahoma State Dual,197,W,DEC,3 - 0,Luke Surber,62347,Oklahoma State,Tanner Sloan,56251,South Dakota State
+2024,02/09,South Dakota State - Oklahoma Dual,197,W,DEC,4 - 1,Stephen Buchanan,60451,Oklahoma,Tanner Sloan,56251,South Dakota State
+2024,02/03,South Dakota State - Utah Valley Dual,197,W,DEC,5 - 0,Evan Bockman,57270,Utah Valley,Tanner Sloan,56251,South Dakota State
+2024,02/01,South Dakota State - Wyoming Dual,197,W,FALL,1:23,Tyce Raddon,67096,Wyoming,Tanner Sloan,56251,South Dakota State
+2024,01/26,Air Force - South Dakota State Dual,197,W,FALL,2:12,Calvin Sund,57634,Air Force,Tanner Sloan,56251,South Dakota State
+2024,01/21,Cal Baptist - South Dakota State Dual,197,W,TF5,17 - 1 4:19,Eli Sheeran,71783,Cal Baptist,Tanner Sloan,56251,South Dakota State
+2024,01/19,Northern Colorado - South Dakota State Dual,197,W,TF5,16 - 0 6:26,Xavier Vasquez,49233,Northern Colorado,Tanner Sloan,56251,South Dakota State
+2024,01/12,Navy - South Dakota State Dual,197,W,TF5,18 - 0 7:00,Cael Crebs,72190,Navy,Tanner Sloan,56251,South Dakota State
+2024,01/04,Michigan - South Dakota State Dual,197,W,TF5,17 - 1 3:18,Brendin Yatooma,66965,Michigan,Tanner Sloan,56251,South Dakota State
+2024,12/16,South Dakota State - Nebraska Dual,197,W,TF5,17 - 0 4:14,Brandyn Van Tassell,67259,Nebraska,Tanner Sloan,56251,South Dakota State
+2024,12/01,Cliff Keen Invitational,197,W,DEC,7 - 2,Jacob Cardenas,56770,Cornell,Tanner Sloan,56251,South Dakota State
+2024,12/01,Cliff Keen Invitational,197,L,DEC,8 - 2,Jaxon Smith,68714,Maryland,Tanner Sloan,56251,South Dakota State
+2024,12/01,Cliff Keen Invitational,197,W,MD,12 - 1,Silas Allred,62343,Nebraska,Tanner Sloan,56251,South Dakota State
+2024,12/01,Cliff Keen Invitational,197,W,TF5,17 - 1 5:40,Sonny Sasso,79220,Virginia Tech,Tanner Sloan,56251,South Dakota State
+2024,12/01,Cliff Keen Invitational,197,W,DEC,2 - 0,Max Shaw,61959,North Carolina,Tanner Sloan,56251,South Dakota State
+2024,12/01,Cliff Keen Invitational,197,W,MD,12 - 0,Jack Wehmeyer,71793,Columbia,Tanner Sloan,56251,South Dakota State
+2024,11/26,South Dakota State - Minnesota Dual,197,W,MD,11 - 2,Garrett Joles,50908,Minnesota,Tanner Sloan,56251,South Dakota State
+2024,11/17,Augustana (SD) - South Dakota State Dual,197,W,TF5,16 - 1 2:46,Max Ramberg,75722,Augustana,Tanner Sloan,56251,South Dakota State
+2024,02/03,Don Parker Open,197,W,MD,14 - 3,Quincy Klister,92703,Unattached,Thomas Dineen,78699,South Dakota State
+2024,02/03,Don Parker Open,197,W,TF5,19 - 4 7:00,Ryder Depies,86948,Wisconsin-Eau Claire,Thomas Dineen,78699,South Dakota State
+2024,02/03,Don Parker Open,197,W,DEC,5 - 0,Sam McEnelly,85234,Augustana,Thomas Dineen,78699,South Dakota State
+2024,02/03,Don Parker Open,197,W,TF5,17 - 2 7:00,Nathan Fury,85203,St Cloud State,Thomas Dineen,78699,South Dakota State
+2024,01/27,Loras College Open,197,W,TF5,17 - 2 7:00,Griffin Zegras,92402,Iowa Central Community College,Thomas Dineen,78699,South Dakota State
+2024,01/27,Loras College Open,197,L,DEC,8 - 1,McCrae Hagarty,79557,Iowa State,Thomas Dineen,78699,South Dakota State
+2024,01/27,Loras College Open,197,W,TF5,17 - 2 7:00,Rowan Udell,78845,Iowa State,Thomas Dineen,78699,South Dakota State
+2024,01/27,Loras College Open,197,W,DEC,6 - 5,Adam Ahrendson,68723,Northern Iowa,Thomas Dineen,78699,South Dakota State
+2024,01/20,Worthington Open,197,W,TF5,17 - 2 7:00,Alex Daugherty,92394,Unattached,Thomas Dineen,78699,South Dakota State
+2024,01/20,Worthington Open,197,W,FALL,4:46,Dominic Thebeau,84339,Nebraska,Thomas Dineen,78699,South Dakota State
+2024,01/20,Worthington Open,197,W,FALL,2:40,Sam McEnelly,85234,Augustana,Thomas Dineen,78699,South Dakota State
+2024,01/12,Kent State - South Dakota State Dual,197,W,FALL,6:12,Blake Schaffer,79797,Kent State,Thomas Dineen,78699,South Dakota State
+2024,12/29,Soldier Salute,197,W,TF5,21 - 4 7:00,Dominic Thebeau,84339,Nebraska,Thomas Dineen,78699,South Dakota State
+2024,12/29,Soldier Salute,197,W,FALL,2:08,Cole Carlucci,78552,Iowa State,Thomas Dineen,78699,South Dakota State
+2024,12/29,Soldier Salute,197,L,MD,13 - 4,Gavin Nelson,72648,Minnesota,Thomas Dineen,78699,South Dakota State
+2024,12/29,Soldier Salute,197,W,DEC,10 - 8,Jacob Lucas,72192,Navy,Thomas Dineen,78699,South Dakota State
+2024,12/29,Soldier Salute,197,L,MD,15 - 2,Garrett Joles,50908,Minnesota,Thomas Dineen,78699,South Dakota State
+2024,12/29,Soldier Salute,197,W,MD,19 - 9,Andrew Liber,84842,Bellarmine,Thomas Dineen,78699,South Dakota State
+2024,11/19,Daktronics Open,197,L,DEC,5 - 0,Kalob Runyon,73006,Northern Iowa,Thomas Dineen,78699,South Dakota State
+2024,11/19,Daktronics Open,197,L,INJ,4:10,Adam Ahrendson,68723,Northern Iowa,Thomas Dineen,78699,South Dakota State
+2024,11/19,Daktronics Open,197,W,CMFF,0 - 0,McCrae Hagarty,79557,Iowa State,Thomas Dineen,78699,South Dakota State
+2024,11/19,Daktronics Open,197,W,TF5,18 - 3 4:08,Rowan Udell,78845,Iowa State,Thomas Dineen,78699,South Dakota State
+2024,11/19,Daktronics Open,197,W,TF5,20 - 4 5:13,Cole Carlucci,78552,Iowa State,Thomas Dineen,78699,South Dakota State
+2024,11/19,Daktronics Open,197,L,MFOR,0 - 0,Lathan Duda,69968,North Dakota State,Thomas Dineen,78699,South Dakota State
+2024,11/17,Northern State University - South Dakota State Dual,197,W,FALL,2:53,Ryan Hirschkorn,78559,Northern State University,Thomas Dineen,78699,South Dakota State
+2024,11/17,Dakota Wesleyan - South Dakota State Dual,197,W,TF5,22 - 6 5:44,Colten Hink,80323,Dakota Wesleyan,Thomas Dineen,78699,South Dakota State
+2024,11/11,Bison Open,197,L,MD,8 - 0,Cody Donnelly,75803,South Dakota State,Thomas Dineen,78699,South Dakota State
+2024,11/11,Bison Open,197,L,SV-1,4 - 1,Rowan Morgan,57350,Minnesota,Thomas Dineen,78699,South Dakota State
+2024,02/03,Don Parker Open,197,W,TF5,17 - 2 7:00,Habeeb Raji,86702,Nebraska Wesleyan,Cody Donnelly,75803,South Dakota State
+2024,02/03,Don Parker Open,197,W,FALL,2:07,Zach Hunter,83629,St Johns,Cody Donnelly,75803,South Dakota State
+2024,02/03,Don Parker Open,197,W,DEC,5 - 0,Tyler Raway,76092,Augsburg,Cody Donnelly,75803,South Dakota State
+2024,02/03,Don Parker Open,197,W,TF5,16 - 0 7:00,Marcus Hankins,71309,Wisconsin-Eau Claire,Cody Donnelly,75803,South Dakota State
+2024,01/20,Worthington Open,197,W,MD,14 - 4,Brendan Lockart,85204,St Cloud State,Cody Donnelly,75803,South Dakota State
+2024,01/20,Worthington Open,197,W,TF5,17 - 1 7:00,Nathan Fury,85203,St Cloud State,Cody Donnelly,75803,South Dakota State
+2024,01/20,Worthington Open,197,W,TF5,17 - 2 7:00,Josh Piechowski,69809,Minnesota State Mankato,Cody Donnelly,75803,South Dakota State
+2024,11/11,Bison Open,197,W,MD,8 - 0,Thomas Dineen,78699,South Dakota State,Cody Donnelly,75803,South Dakota State
+2024,11/11,Bison Open,197,L,FALL,6:45,Brett Mower,77561,Oregon State,Cody Donnelly,75803,South Dakota State
+2024,11/11,Bison Open,197,L,DEC,7 - 2,Gavin Nelson,72648,Minnesota,Cody Donnelly,75803,South Dakota State
+2024,11/11,Bison Open,197,L,FALL,3:46,Rowan Morgan,57350,Minnesota,Cody Donnelly,75803,South Dakota State
+2024,03/09,Big 12 Championships,285,W,DEC,4 - 3,Chase Trussell,57046,Utah Valley,Luke Rasmussen,72722,South Dakota State
+2024,03/09,Big 12 Championships,285,W,DEC,7 - 5,Kevin Zimmer,72685,Wyoming,Luke Rasmussen,72722,South Dakota State
+2024,03/09,Big 12 Championships,285,L,DEC,2 - 0,Konner Doucet,57801,Oklahoma State,Luke Rasmussen,72722,South Dakota State
+2024,03/09,Big 12 Championships,285,W,FALL,6:34,Xavier Doolin,70921,Northern Colorado,Luke Rasmussen,72722,South Dakota State
+2024,03/09,Big 12 Championships,285,L,FALL,1:45,Wyatt Hendrickson,56694,Air Force,Luke Rasmussen,72722,South Dakota State
+2024,02/18,Missouri - South Dakota State Dual,285,L,FALL,0:33,Zach Elam,51612,Missouri,Luke Rasmussen,72722,South Dakota State
+2024,02/10,South Dakota State - Oklahoma State Dual,285,L,DEC,9 - 7,Konner Doucet,57801,Oklahoma State,Luke Rasmussen,72722,South Dakota State
+2024,02/09,South Dakota State - Oklahoma Dual,285,L,MD,14 - 6,Josh Heindselman,57311,Oklahoma,Luke Rasmussen,72722,South Dakota State
+2024,02/03,South Dakota State - Utah Valley Dual,285,W,DEC,4 - 2,Chase Trussell,57046,Utah Valley,Luke Rasmussen,72722,South Dakota State
+2024,02/01,South Dakota State - Wyoming Dual,285,W,DEC,8 - 4,Bradley Moore,75108,Wyoming,Luke Rasmussen,72722,South Dakota State
+2024,01/26,Air Force - South Dakota State Dual,285,L,FALL,2:01,Wyatt Hendrickson,56694,Air Force,Luke Rasmussen,72722,South Dakota State
+2024,01/21,Cal Baptist - South Dakota State Dual,285,W,FALL,2:59,Christopher Island,69373,Cal Baptist,Luke Rasmussen,72722,South Dakota State
+2024,01/19,Northern Colorado - South Dakota State Dual,285,L,DEC,14 - 7,Xavier Doolin,70921,Northern Colorado,Luke Rasmussen,72722,South Dakota State
+2024,01/12,Navy - South Dakota State Dual,285,L,FALL,6:08,Grady Griess,63170,Navy,Luke Rasmussen,72722,South Dakota State
+2024,01/12,Kent State - South Dakota State Dual,285,W,FALL,2:27,Josh Boggan,79799,Kent State,Luke Rasmussen,72722,South Dakota State
+2024,01/04,Michigan - South Dakota State Dual,285,L,TF5,20 - 4 5:57,Lucas Davison,51236,Michigan,Luke Rasmussen,72722,South Dakota State
+2024,12/29,Soldier Salute,285,W,FALL,2:19,Jamier Ferere,78581,Navy,Luke Rasmussen,72722,South Dakota State
+2024,12/29,Soldier Salute,285,L,DEC,7 - 2,Bennett Tabor,72142,Minnesota,Luke Rasmussen,72722,South Dakota State
+2024,12/29,Soldier Salute,285,W,DEC,17 - 13,Seth Nitzel,66934,Missouri,Luke Rasmussen,72722,South Dakota State
+2024,12/29,Soldier Salute,285,W,DEC,12 - 6,Tyler Mousaw,67432,VMI,Luke Rasmussen,72722,South Dakota State
+2024,12/01,Cliff Keen Invitational,285,L,TF5,17 - 0 3:57,Lewis Fernandes,56901,Cornell,Luke Rasmussen,72722,South Dakota State
+2024,12/01,Cliff Keen Invitational,285,L,MD,13 - 4,Jose Valdez,78054,Northern Iowa,Luke Rasmussen,72722,South Dakota State
+2024,12/01,Cliff Keen Invitational,285,W,MD,13 - 3,Jack Jessen,50838,Northwestern,Luke Rasmussen,72722,South Dakota State
+2024,12/01,Cliff Keen Invitational,285,W,FALL,2:43,Jake Andrews,73174,CSU Bakersfield,Luke Rasmussen,72722,South Dakota State
+2024,12/01,Cliff Keen Invitational,285,W,MD,13 - 0,Sam Alsheimer,89181,Morgan State,Luke Rasmussen,72722,South Dakota State
+2024,11/26,South Dakota State - Minnesota Dual,285,L,DEC,9 - 7,Bennett Tabor,72142,Minnesota,Luke Rasmussen,72722,South Dakota State
+2024,11/19,Daktronics Open,285,W,TF5,16 - 1 4:23,Regan Bollweg,84823,South Dakota State,Luke Rasmussen,72722,South Dakota State
+2024,11/19,Daktronics Open,285,W,FALL,3:14,Jose Valdez,78054,Northern Iowa,Luke Rasmussen,72722,South Dakota State
+2024,11/17,Northern State University - South Dakota State Dual,285,W,MD,14 - 0,Nathan Schauer,72241,Northern State University,Luke Rasmussen,72722,South Dakota State
+2024,02/25,North Dakota State - South Dakota State Dual,285,L,DEC,4 - 2,Devon Dawson,75888,North Dakota State,Bowen McConville,57175,South Dakota State
+2024,12/29,Soldier Salute,285,W,TF5,17 - 1 7:00,Jarrett Stoner,84591,Missouri,Bowen McConville,57175,South Dakota State
+2024,12/29,Soldier Salute,285,L,DEC,7 - 4,Bradley Hill,73708,Iowa,Bowen McConville,57175,South Dakota State
+2024,12/29,Soldier Salute,285,L,MD,11 - 3,Bennett Tabor,72142,Minnesota,Bowen McConville,57175,South Dakota State
+2024,12/29,Soldier Salute,285,W,DEC,5 - 1,Nate Schon,70913,Iowa State,Bowen McConville,57175,South Dakota State
+2024,12/29,Soldier Salute,285,W,INJ,7:00,Brandyn Van Tassell,67259,Nebraska,Bowen McConville,57175,South Dakota State
+2024,12/29,Soldier Salute,285,L,FALL,2:27,Seth Nitzel,66934,Missouri,Bowen McConville,57175,South Dakota State
+2024,11/19,Daktronics Open,285,W,DEC,5 - 2,Kail Wynia,73760,South Dakota State,Bowen McConville,57175,South Dakota State
+2024,11/19,Daktronics Open,285,L,DEC,4 - 2,Jose Valdez,78054,Northern Iowa,Bowen McConville,57175,South Dakota State
+2024,11/19,Daktronics Open,285,W,TF5,20 - 5 5:22,Xavier Bruening,78960,Iowa State,Bowen McConville,57175,South Dakota State
+2024,11/17,Augustana (SD) - South Dakota State Dual,285,W,DEC,7 - 3,Max Balow,76388,Augustana,Bowen McConville,57175,South Dakota State
+2024,11/11,Bison Open,285,W,MD,14 - 5,Regan Bollweg,84823,South Dakota State,Bowen McConville,57175,South Dakota State
+2024,11/11,Bison Open,285,W,DEC,4 - 1,Devon Dawson,75888,North Dakota State,Bowen McConville,57175,South Dakota State
+2024,11/11,Bison Open,285,L,DEC,4 - 0,Bennett Tabor,72142,Minnesota,Bowen McConville,57175,South Dakota State
+2024,02/03,Don Parker Open,285,W,TF5,21 - 6 7:00,William Russell,92382,Rochester Community & Tech College,Kail Wynia,73760,South Dakota State
+2024,02/03,Don Parker Open,285,W,FALL,2:36,Cody Kwak,88666,St Johns,Kail Wynia,73760,South Dakota State
+2024,02/03,Don Parker Open,285,W,TF5,18 - 3 7:00,Jason Guadarrama,74773,Wisconsin-Parkside,Kail Wynia,73760,South Dakota State
+2024,02/03,Don Parker Open,285,W,TB-1,2 - 1,Cullen Quick,70393,Luther,Kail Wynia,73760,South Dakota State
+2024,02/03,Don Parker Open,285,W,TF5,22 - 7 7:00,Dylan Bravo-Packer,85205,St Cloud State,Kail Wynia,73760,South Dakota State
+2024,01/20,Worthington Open,285,W,TF5,17 - 2 7:00,Joseph Sanders,87609,Iowa Central Community College,Kail Wynia,73760,South Dakota State
+2024,01/20,Worthington Open,285,W,TF5,22 - 6 7:00,Tucker Hugg,87039,Ridgewater College,Kail Wynia,73760,South Dakota State
+2024,01/20,Worthington Open,285,W,FALL,1:02,Dylan Bravo-Packer,85205,St Cloud State,Kail Wynia,73760,South Dakota State
+2024,11/19,Daktronics Open,285,L,DEC,5 - 2,Bowen McConville,57175,South Dakota State,Kail Wynia,73760,South Dakota State
+2024,11/19,Daktronics Open,285,W,TF5,18 - 2 3:18,Regan Bollweg,84823,South Dakota State,Kail Wynia,73760,South Dakota State
+2024,11/19,Daktronics Open,285,L,DEC,4 - 2,Jose Valdez,78054,Northern Iowa,Kail Wynia,73760,South Dakota State
+2024,11/11,Bison Open,285,W,FALL,8:00,Spencer Trenary,57604,South Dakota State,Kail Wynia,73760,South Dakota State
+2024,11/11,Bison Open,285,W,SV-1,4 - 1,Devon Dawson,75888,North Dakota State,Kail Wynia,73760,South Dakota State
+2024,11/11,Bison Open,285,L,MD,14 - 3,Bennett Tabor,72142,Minnesota,Kail Wynia,73760,South Dakota State
+2024,11/11,Bison Open,285,L,FALL,8:00,Kail Wynia,73760,South Dakota State,Spencer Trenary,57604,South Dakota State
+2024,11/11,Bison Open,285,W,FALL,4:15,Regan Bollweg,84823,South Dakota State,Spencer Trenary,57604,South Dakota State
+2024,11/11,Bison Open,285,L,DEC,4 - 1,Bennett Tabor,72142,Minnesota,Spencer Trenary,57604,South Dakota State
+2024,11/19,Daktronics Open,285,L,TF5,18 - 2 3:18,Kail Wynia,73760,South Dakota State,Regan Bollweg,84823,South Dakota State
+2024,11/19,Daktronics Open,285,L,TF5,16 - 1 4:23,Luke Rasmussen,72722,South Dakota State,Regan Bollweg,84823,South Dakota State
+2024,11/19,Daktronics Open,285,W,MD,14 - 4,Xavier Bruening,78960,Iowa State,Regan Bollweg,84823,South Dakota State
+2024,11/19,Daktronics Open,285,L,CMFF,0 - 0,Xavier Bruening,78960,Iowa State,Regan Bollweg,84823,South Dakota State
+2024,11/17,Dakota Wesleyan - South Dakota State Dual,285,W,FALL,4:05,Cole Hennings,82372,Dakota Wesleyan,Regan Bollweg,84823,South Dakota State
+2024,11/11,Bison Open,285,L,FALL,4:15,Spencer Trenary,57604,South Dakota State,Regan Bollweg,84823,South Dakota State
+2024,11/11,Bison Open,285,L,MD,14 - 5,Bowen McConville,57175,South Dakota State,Regan Bollweg,84823,South Dakota State
+2024,11/11,Bison Open,285,L,FALL,2:03,Devon Dawson,75888,North Dakota State,Regan Bollweg,84823,South Dakota State

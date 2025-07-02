@@ -1,0 +1,355 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2024,03/21,NCAA Championships,125,L,DEC,5 - 4,Jore Volk,72600,Wyoming,Nico Provo,65883,Stanford
+2024,03/21,NCAA Championships,125,W,DEC,12 - 6,Brendan McCrone,76350,Ohio State,Nico Provo,65883,Stanford
+2024,03/21,NCAA Championships,125,L,TF5,19 - 4 5:20,Drake Ayala,66975,Iowa,Nico Provo,65883,Stanford
+2024,03/21,NCAA Championships,125,W,MD,13 - 4,Jett Strickenberger,74382,West Virginia,Nico Provo,65883,Stanford
+2024,03/10,Pac 12 True,125,W,DEC,9 - 6,Brandon Kaylor,51198,Oregon State,Nico Provo,65883,Stanford
+2024,03/10,PAC 12 Championships,125,W,MD,12 - 2,Richard Castro-Sandoval,69366,CSU Bakersfield,Nico Provo,65883,Stanford
+2024,03/10,PAC 12 Championships,125,W,DEC,8 - 2,Dominic Mendez,73704,Cal Poly,Nico Provo,65883,Stanford
+2024,03/10,PAC 12 Championships,125,L,SV-1,4 - 1,Richard Figueroa,61129,Arizona State,Nico Provo,65883,Stanford
+2024,02/18,Oregon State - Stanford Dual,125,L,DEC,7 - 3,Brandon Kaylor,51198,Oregon State,Nico Provo,65883,Stanford
+2024,02/17,Stanford - Arizona State Dual,125,W,SV-1,13 - 8,Richard Figueroa,61129,Arizona State,Nico Provo,65883,Stanford
+2024,02/11,Cal Poly - Stanford Dual,125,W,DEC,8 - 2,Dominic Mendez,73704,Cal Poly,Nico Provo,65883,Stanford
+2024,01/28,Little Rock - Stanford Dual,125,W,DEC,13 - 11,Jeremiah Reno,62342,Little Rock,Nico Provo,65883,Stanford
+2024,01/21,Stanford - Drexel Dual,125,W,DEC,8 - 6,Desmond Pleasant,71583,Drexel,Nico Provo,65883,Stanford
+2024,01/21,Stanford - Pennsylvania Dual,125,L,SV-1,11 - 8,Max Gallagher,78893,Pennsylvania,Nico Provo,65883,Stanford
+2024,01/10,Missouri - Stanford Dual,125,L,MD,12 - 3,Noah Surtin,56715,Missouri,Nico Provo,65883,Stanford
+2024,01/01,Southern Scuffle,125,W,MD,8 - 0,Conrad Hendriksen,80186,Oklahoma,Nico Provo,65883,Stanford
+2024,01/01,Southern Scuffle,125,L,DEC,6 - 5,Stevo Poulin,71929,Northern Colorado,Nico Provo,65883,Stanford
+2024,01/01,Southern Scuffle,125,W,TF5,21 - 4 6:47,Matthew Rowland,80035,Gardner-Webb,Nico Provo,65883,Stanford
+2024,01/01,Southern Scuffle,125,W,TF5,15 - 0 1:59,Marcus Wright,84410,The Citadel,Nico Provo,65883,Stanford
+2024,01/01,Southern Scuffle,125,W,TF5,17 - 1 5:57,Desmond Pleasant,71583,Drexel,Nico Provo,65883,Stanford
+2024,12/17,Stanford - Virginia Tech Dual,125,L,DEC,5 - 2,Cooper Flynn,72148,Virginia Tech,Nico Provo,65883,Stanford
+2024,12/01,Cliff Keen Invitational,125,W,DEC,13 - 6,Trever Anderson,76359,Northern Iowa,Nico Provo,65883,Stanford
+2024,12/01,Cliff Keen Invitational,125,W,DEC,5 - 1,Brett Ungar,68705,Cornell,Nico Provo,65883,Stanford
+2024,12/01,Cliff Keen Invitational,125,W,DEC,12 - 5,Kysen Terukina,67143,Iowa State,Nico Provo,65883,Stanford
+2024,12/01,Cliff Keen Invitational,125,W,DEC,8 - 1,Jore Volk,72600,Wyoming,Nico Provo,65883,Stanford
+2024,12/01,Cliff Keen Invitational,125,W,DEC,8 - 1,Matt Ramos,57134,Purdue,Nico Provo,65883,Stanford
+2024,11/12,Nebraska-Kearney - Stanford Dual,125,W,MD,11 - 2,Zach Ourada,79179,Nebraska-Kearney,Nico Provo,65883,Stanford
+2024,11/04,Duke - Stanford Dual,125,W,DEC,8 - 1,Logan Agin,62979,Duke,Nico Provo,65883,Stanford
+2024,12/19,Purdue - Stanford Dual,125,L,FALL,1:40,Matt Ramos,57134,Purdue,Wyatt Richter,77773,Stanford
+2024,12/19,Stanford - Campbell Dual,125,L,TF5,25 - 8 4:14,Anthony Molton,57207,Campbell,Wyatt Richter,77773,Stanford
+2024,02/04,CSU Bakersfield - Stanford Dual,125,L,FALL,1:39,Richard Castro-Sandoval,69366,CSU Bakersfield,Suhas Chundi,69471,Stanford
+2024,03/10,PAC 12 Championships,133,L,FALL,0:45,Gabe Whisenhunt,67729,Oregon State,Dominic LaJoie,49112,Stanford
+2024,03/10,PAC 12 Championships,133,W,DEC,6 - 5,Santino Sanchez,79001,CSU Bakersfield,Dominic LaJoie,49112,Stanford
+2024,03/10,PAC 12 Championships,133,L,MD,16 - 4,Zeth Romney,73191,Cal Poly,Dominic LaJoie,49112,Stanford
+2024,02/18,Oregon State - Stanford Dual,133,L,FALL,2:02,Gabe Whisenhunt,67729,Oregon State,Dominic LaJoie,49112,Stanford
+2024,02/17,Stanford - Arizona State Dual,133,W,DEC,9 - 8,Carter Dibert,71775,Arizona State,Dominic LaJoie,49112,Stanford
+2024,02/11,Cal Poly - Stanford Dual,133,W,DEC,9 - 4,Ty Chandler,73187,Cal Poly,Dominic LaJoie,49112,Stanford
+2024,02/04,CSU Bakersfield - Stanford Dual,133,W,DEC,5 - 3,Romeo McNeil,63461,CSU Bakersfield,Dominic LaJoie,49112,Stanford
+2024,01/28,Little Rock - Stanford Dual,133,L,TF5,19 - 3 3:59,Nasir Bailey,79029,Little Rock,Dominic LaJoie,49112,Stanford
+2024,01/21,Stanford - Drexel Dual,133,W,DEC,9 - 3,Jaxon Maroney,62880,Drexel,Dominic LaJoie,49112,Stanford
+2024,01/21,Stanford - Pennsylvania Dual,133,L,MD,14 - 4,Michael Colaiocco,56733,Pennsylvania,Dominic LaJoie,49112,Stanford
+2024,01/10,Missouri - Stanford Dual,133,L,TF5,23 - 8 6:26,Kade Moore,73859,Missouri,Dominic LaJoie,49112,Stanford
+2024,01/01,Southern Scuffle,133,W,TF5,22 - 5 5:43,Joshua Sarpy,65932,Little Rock,Dominic LaJoie,49112,Stanford
+2024,01/01,Southern Scuffle,133,L,DEC,4 - 2,Jace Koelzer,50912,Oklahoma,Dominic LaJoie,49112,Stanford
+2024,01/01,Southern Scuffle,133,W,DEC,10 - 9,TJ England,63058,Clarion,Dominic LaJoie,49112,Stanford
+2024,01/01,Southern Scuffle,133,W,FALL,2:56,Tyson Lane,75724,Gardner-Webb,Dominic LaJoie,49112,Stanford
+2024,01/01,Southern Scuffle,133,L,TB-2,3 - 2,Hunter Adrian,65842,Brown,Dominic LaJoie,49112,Stanford
+2024,12/19,Purdue - Stanford Dual,133,W,DEC,13 - 10,Dustin Norris,72154,Purdue,Dominic LaJoie,49112,Stanford
+2024,12/19,Stanford - North Dakota State Dual,133,L,DEC,4 - 3,Fernando Barreto,77720,North Dakota State,Dominic LaJoie,49112,Stanford
+2024,12/19,Stanford - Campbell Dual,133,W,SV-1,8 - 5,Domenic Zaccone,56926,Campbell,Dominic LaJoie,49112,Stanford
+2024,11/19,Roadrunner Open,133,W,TF5,15 - 0 7:00,Allan Hendricks,80309,Embry-Riddle,Dominic LaJoie,49112,Stanford
+2024,11/19,Roadrunner Open,133,W,MD,12 - 3,Hayden Zinkin,78516,CSU Bakersfield,Dominic LaJoie,49112,Stanford
+2024,11/19,Roadrunner Open,133,L,TB-2,3 - 2,Hunter Leake,67190,Cal Baptist,Dominic LaJoie,49112,Stanford
+2024,01/01,Southern Scuffle,133,W,FALL,1:58,Raymond Adams,84586,Duke,Tyler Knox,83265,Stanford
+2024,01/01,Southern Scuffle,133,L,MD,15 - 1,Nasir Bailey,79029,Little Rock,Tyler Knox,83265,Stanford
+2024,01/01,Southern Scuffle,133,W,MD,10 - 1,Jace Koelzer,50912,Oklahoma,Tyler Knox,83265,Stanford
+2024,01/01,Southern Scuffle,133,W,DEC,10 - 6,Braden Basile,73707,Army West Point,Tyler Knox,83265,Stanford
+2024,01/01,Southern Scuffle,133,L,DEC,11 - 4,Blake Boarman,70737,Chattanooga,Tyler Knox,83265,Stanford
+2024,01/01,Southern Scuffle,133,W,FALL,3:00,John Hager,84396,Davidson,Tyler Knox,83265,Stanford
+2024,12/17,Stanford - Virginia Tech Dual,133,L,MD,12 - 3,Sam Latona,56742,Virginia Tech,Tyler Knox,83265,Stanford
+2024,12/01,Cliff Keen Invitational,133,W,MD,11 - 3,Nic Bouzakis,73468,Ohio State,Tyler Knox,83265,Stanford
+2024,12/01,Cliff Keen Invitational,133,L,DEC,2 - 1,Evan Frost,72948,Iowa State,Tyler Knox,83265,Stanford
+2024,12/01,Cliff Keen Invitational,133,W,CMFF,0 - 0,Derrick Cardinal,68734,South Dakota State,Tyler Knox,83265,Stanford
+2024,12/01,Cliff Keen Invitational,133,W,DEC,2 - 1,Reece Witcraft,57312,Oklahoma State,Tyler Knox,83265,Stanford
+2024,12/01,Cliff Keen Invitational,133,L,MD,16 - 6,Domenic Zaccone,56926,Campbell,Tyler Knox,83265,Stanford
+2024,12/01,Cliff Keen Invitational,133,W,DEC,8 - 4,Richie Koehler,51648,Rider,Tyler Knox,83265,Stanford
+2024,11/12,Nebraska-Kearney - Stanford Dual,133,W,TF5,16 - 0 4:48,Drew Arnold,76037,Nebraska-Kearney,Tyler Knox,83265,Stanford
+2024,11/04,Duke - Stanford Dual,133,W,TF5,21 - 5 4:37,Raymond Adams,84586,Duke,Tyler Knox,83265,Stanford
+2024,11/12,Nebraska-Kearney - Stanford Dual,141,W,DEC,19 - 14,Nick James,62636,Nebraska-Kearney,Jackson DiSario,57126,Stanford
+2024,03/10,PAC 12 Championships,141,W,FALL,2:32,Cael Keck,76500,Little Rock,Jason Miranda,64654,Stanford
+2024,03/10,PAC 12 Championships,141,W,FALL,1:30,Louie Ramos,73173,CSU Bakersfield,Jason Miranda,64654,Stanford
+2024,03/10,PAC 12 Championships,141,W,TF5,18 - 3 7:00,Abraham Hinrichsen,70734,Cal Poly,Jason Miranda,64654,Stanford
+2024,03/10,PAC 12 Championships,141,L,MD,11 - 2,Jesse Vasquez,67152,Arizona State,Jason Miranda,64654,Stanford
+2024,02/18,Oregon State - Stanford Dual,141,L,DEC,5 - 1,Cleveland Belton,57334,Oregon State,Jason Miranda,64654,Stanford
+2024,02/17,Stanford - Arizona State Dual,141,L,DEC,8 - 3,Jesse Vasquez,67152,Arizona State,Jason Miranda,64654,Stanford
+2024,02/11,Cal Poly - Stanford Dual,141,W,MD,12 - 0,Abraham Hinrichsen,70734,Cal Poly,Jason Miranda,64654,Stanford
+2024,02/04,CSU Bakersfield - Stanford Dual,141,W,FALL,1:09,Louie Ramos,73173,CSU Bakersfield,Jason Miranda,64654,Stanford
+2024,01/28,Little Rock - Stanford Dual,141,W,DEC,15 - 13,Brennan Van Hoecke,74571,Little Rock,Jason Miranda,64654,Stanford
+2024,01/21,Stanford - Drexel Dual,141,L,FALL,1:45,Jordan Soriano,73711,Drexel,Jason Miranda,64654,Stanford
+2024,01/21,Stanford - Pennsylvania Dual,141,L,DEC,7 - 2,CJ Composto,62430,Pennsylvania,Jason Miranda,64654,Stanford
+2024,01/10,Missouri - Stanford Dual,141,L,DEC,9 - 6,Zeke Seltzer,72572,Missouri,Jason Miranda,64654,Stanford
+2024,01/01,Southern Scuffle,141,W,DEC,2 - 0,Braden Bower,71756,Bucknell,Jason Miranda,64654,Stanford
+2024,01/01,Southern Scuffle,141,W,MD,10 - 1,Riley Edwards,71715,Appalachian State,Jason Miranda,64654,Stanford
+2024,01/01,Southern Scuffle,141,L,DEC,6 - 4,Danny Fongaro,51713,Indiana,Jason Miranda,64654,Stanford
+2024,01/01,Southern Scuffle,141,W,MD,12 - 4,Todd Carter,69785,Gardner-Webb,Jason Miranda,64654,Stanford
+2024,01/01,Southern Scuffle,141,W,DEC,7 - 6,Jacob Silka,78557,The Citadel,Jason Miranda,64654,Stanford
+2024,12/19,Purdue - Stanford Dual,141,L,MD,15 - 6,Greyson Clark,79389,Purdue,Jason Miranda,64654,Stanford
+2024,12/19,Stanford - North Dakota State Dual,141,W,FALL,2:30,Gavin Drexler,73017,North Dakota State,Jason Miranda,64654,Stanford
+2024,12/19,Stanford - Campbell Dual,141,W,DEC,5 - 2,Chris Rivera,62331,Campbell,Jason Miranda,64654,Stanford
+2024,12/17,Stanford - Virginia Tech Dual,141,W,DEC,3 - 0,Mac Church,73717,Virginia Tech,Jason Miranda,64654,Stanford
+2024,12/01,Cliff Keen Invitational,141,L,MD,12 - 0,Vince Cornella,71813,Cornell,Jason Miranda,64654,Stanford
+2024,12/01,Cliff Keen Invitational,141,L,MD,17 - 3,Anthony Echemendia,62882,Iowa State,Jason Miranda,64654,Stanford
+2024,12/01,Cliff Keen Invitational,141,W,MD,8 - 0,Caleb Gross,62668,South Dakota State,Jason Miranda,64654,Stanford
+2024,12/01,Cliff Keen Invitational,141,W,DEC,13 - 7,Kai Owen,73196,Columbia,Jason Miranda,64654,Stanford
+2024,12/01,Cliff Keen Invitational,141,W,FALL,0:51,Blake Bryant,84770,Morgan State,Jason Miranda,64654,Stanford
+2024,11/04,Duke - Stanford Dual,141,W,TF5,15 - 0 3:55,Peter Chacon,84784,Duke,Jason Miranda,64654,Stanford
+2024,03/21,NCAA Championships,149,L,FALL,3:29,Ty Watters,73868,West Virginia,Jaden Abas,56738,Stanford
+2024,03/21,NCAA Championships,149,W,DEC,10 - 5,Cody Bond,50267,Appalachian State,Jaden Abas,56738,Stanford
+2024,03/21,NCAA Championships,149,W,DEC,4 - 1,Caleb Tyus,72912,SIU Edwardsville,Jaden Abas,56738,Stanford
+2024,03/21,NCAA Championships,149,L,DEC,7 - 2,Chance Lamer,70915,Cal Poly,Jaden Abas,56738,Stanford
+2024,03/21,NCAA Championships,149,W,DEC,4 - 2,Tyler Kasak,78731,Penn State,Jaden Abas,56738,Stanford
+2024,03/10,PAC 12 Championships,149,W,DEC,8 - 2,Nash Singleton,73038,Oregon State,Jaden Abas,56738,Stanford
+2024,03/10,PAC 12 Championships,149,W,DEC,10 - 7,Kyle Dutton,73067,Little Rock,Jaden Abas,56738,Stanford
+2024,03/10,PAC 12 Championships,149,L,MD,11 - 3,Chance Lamer,70915,Cal Poly,Jaden Abas,56738,Stanford
+2024,02/18,Oregon State - Stanford Dual,149,W,MD,14 - 3,Nash Singleton,73038,Oregon State,Jaden Abas,56738,Stanford
+2024,02/17,Stanford - Arizona State Dual,149,L,DEC,5 - 1,Kyle Parco,58562,Arizona State,Jaden Abas,56738,Stanford
+2024,02/11,Cal Poly - Stanford Dual,149,W,DEC,4 - 3,Chance Lamer,70915,Cal Poly,Jaden Abas,56738,Stanford
+2024,02/04,CSU Bakersfield - Stanford Dual,149,W,DEC,12 - 6,Brock Rogers,62863,CSU Bakersfield,Jaden Abas,56738,Stanford
+2024,01/28,Little Rock - Stanford Dual,149,W,DEC,13 - 10,Kyle Dutton,73067,Little Rock,Jaden Abas,56738,Stanford
+2024,01/21,Stanford - Drexel Dual,149,W,MD,16 - 5,Dominic Findora,78518,Drexel,Jaden Abas,56738,Stanford
+2024,01/21,Stanford - Pennsylvania Dual,149,W,DEC,5 - 1,Andrew Troczynski,73134,Pennsylvania,Jaden Abas,56738,Stanford
+2024,01/10,Missouri - Stanford Dual,149,L,DEC,8 - 1,Logan Gioffre,66985,Missouri,Jaden Abas,56738,Stanford
+2024,01/01,Southern Scuffle,149,W,DEC,9 - 5,Kai O'Dell,79083,Appalachian State,Jaden Abas,56738,Stanford
+2024,01/01,Southern Scuffle,149,W,DEC,10 - 3,Aiden Davis,78724,Bucknell,Jaden Abas,56738,Stanford
+2024,01/01,Southern Scuffle,149,W,DEC,12 - 7,Jeremiah Price,76306,Appalachian State,Jaden Abas,56738,Stanford
+2024,01/01,Southern Scuffle,149,L,FALL,4:57,Cody Bond,50267,Appalachian State,Jaden Abas,56738,Stanford
+2024,01/01,Southern Scuffle,149,W,DEC,4 - 1,Noah Castillo,67364,Chattanooga,Jaden Abas,56738,Stanford
+2024,01/01,Southern Scuffle,149,W,MD,12 - 0,Xavier McKnight,84300,Davidson,Jaden Abas,56738,Stanford
+2024,12/01,Cliff Keen Invitational,149,L,CMFF,0 - 0,James Latona,79382,Navy,Jaden Abas,56738,Stanford
+2024,12/01,Cliff Keen Invitational,149,L,DEC,14 - 11,Casey Swiderski,71913,Iowa State,Jaden Abas,56738,Stanford
+2024,12/01,Cliff Keen Invitational,149,W,DEC,7 - 2,Adam Allard,62777,Northern Iowa,Jaden Abas,56738,Stanford
+2024,11/19,Roadrunner Open,149,L,MFOR,0 - 0,Cade White,73209,Oregon State,Jaden Abas,56738,Stanford
+2024,11/19,Roadrunner Open,149,L,INJ,2:54,Hunter Eveland,72990,Oregon State,Jaden Abas,56738,Stanford
+2024,11/12,Nebraska-Kearney - Stanford Dual,149,W,DEC,6 - 5,John Burger,51348,Nebraska-Kearney,Jaden Abas,56738,Stanford
+2024,11/04,Duke - Stanford Dual,149,W,DEC,12 - 7,Jarred Papscy,56827,Duke,Jaden Abas,56738,Stanford
+2024,12/19,Purdue - Stanford Dual,149,W,DEC,6 - 0,Marcos Polanco,57653,Purdue,Dawson Sihavong,56737,Stanford
+2024,12/19,Stanford - North Dakota State Dual,149,L,MD,17 - 3,Maxwell Petersen,73016,North Dakota State,Dawson Sihavong,56737,Stanford
+2024,12/19,Stanford - Campbell Dual,149,L,DEC,7 - 2,Justin Rivera,61114,Campbell,Dawson Sihavong,56737,Stanford
+2024,12/17,Stanford - Virginia Tech Dual,149,L,TF5,20 - 5 5:38,Caleb Henson,72656,Virginia Tech,Dawson Sihavong,56737,Stanford
+2024,03/21,NCAA Championships,157,L,DEC,10 - 4,Meyer Shapiro,78556,Cornell,Daniel Cardenas,72978,Stanford
+2024,03/21,NCAA Championships,157,W,FALL,1:20,Peyten Kellar,73168,Ohio,Daniel Cardenas,72978,Stanford
+2024,03/21,NCAA Championships,157,L,MD,12 - 2,Jacori Teemer,50581,Arizona State,Daniel Cardenas,72978,Stanford
+2024,03/21,NCAA Championships,157,W,DEC,5 - 4,Meyer Shapiro,78556,Cornell,Daniel Cardenas,72978,Stanford
+2024,03/21,NCAA Championships,157,W,MD,8 - 0,Brayton Lee,52079,Indiana,Daniel Cardenas,72978,Stanford
+2024,03/21,NCAA Championships,157,W,DEC,5 - 0,Sonny Santiago,61113,North Carolina,Daniel Cardenas,72978,Stanford
+2024,03/10,PAC 12 Championships,157,W,DEC,6 - 2,Matt Bianchi,72120,Little Rock,Daniel Cardenas,72978,Stanford
+2024,03/10,PAC 12 Championships,157,L,DEC,5 - 4,Jacori Teemer,50581,Arizona State,Daniel Cardenas,72978,Stanford
+2024,02/18,Oregon State - Stanford Dual,157,W,MD,14 - 5,Christopher Hamblin,77146,Oregon State,Daniel Cardenas,72978,Stanford
+2024,02/17,Stanford - Arizona State Dual,157,L,DEC,7 - 5,Jacori Teemer,50581,Arizona State,Daniel Cardenas,72978,Stanford
+2024,02/11,Cal Poly - Stanford Dual,157,W,MD,11 - 2,Legend Lamer,56776,Cal Poly,Daniel Cardenas,72978,Stanford
+2024,02/04,CSU Bakersfield - Stanford Dual,157,W,TF5,19 - 4 1:36,Devyn Flores-Che,79002,CSU Bakersfield,Daniel Cardenas,72978,Stanford
+2024,01/28,Little Rock - Stanford Dual,157,W,DEC,5 - 0,Matt Bianchi,72120,Little Rock,Daniel Cardenas,72978,Stanford
+2024,01/21,Stanford - Drexel Dual,157,W,TF5,21 - 5 5:21,Tyler Williams,59552,Drexel,Daniel Cardenas,72978,Stanford
+2024,01/21,Stanford - Pennsylvania Dual,157,W,MD,14 - 3,Lucas Revano,56734,Pennsylvania,Daniel Cardenas,72978,Stanford
+2024,01/10,Missouri - Stanford Dual,157,L,DEC,14 - 8,Brock Mauller,50596,Missouri,Daniel Cardenas,72978,Stanford
+2024,01/01,Southern Scuffle,157,W,FALL,4:39,John Wiley,73130,Oklahoma,Daniel Cardenas,72978,Stanford
+2024,01/01,Southern Scuffle,157,W,DEC,9 - 3,Nathan Lukez,69377,Army West Point,Daniel Cardenas,72978,Stanford
+2024,01/01,Southern Scuffle,157,L,SV-1,8 - 5,Vince Zerban,73032,Northern Colorado,Daniel Cardenas,72978,Stanford
+2024,01/01,Southern Scuffle,157,W,TF5,17 - 1 2:02,Tyler Brignola,73727,Gardner-Webb,Daniel Cardenas,72978,Stanford
+2024,01/01,Southern Scuffle,157,W,FALL,2:28,Gavin Cagle,73054,Virginia,Daniel Cardenas,72978,Stanford
+2024,12/19,Purdue - Stanford Dual,157,W,DEC,8 - 1,Joey Blaze,73568,Purdue,Daniel Cardenas,72978,Stanford
+2024,12/19,Stanford - North Dakota State Dual,157,W,MD,17 - 3,Landen Johnson,73502,North Dakota State,Daniel Cardenas,72978,Stanford
+2024,12/19,Stanford - Campbell Dual,157,W,TF5,19 - 4 4:10,Hagen Heistand,76354,Campbell,Daniel Cardenas,72978,Stanford
+2024,12/17,Stanford - Virginia Tech Dual,157,W,MD,15 - 7,Bryce Andonian,56739,Virginia Tech,Daniel Cardenas,72978,Stanford
+2024,12/01,Cliff Keen Invitational,157,W,DEC,8 - 5,Meyer Shapiro,78556,Cornell,Daniel Cardenas,72978,Stanford
+2024,12/01,Cliff Keen Invitational,157,W,DEC,9 - 8,Cody Chittum,60816,Iowa State,Daniel Cardenas,72978,Stanford
+2024,12/01,Cliff Keen Invitational,157,L,MD,17 - 7,Bryce Andonian,56739,Virginia Tech,Daniel Cardenas,72978,Stanford
+2024,12/01,Cliff Keen Invitational,157,W,DEC,12 - 10,Will Lewan,50934,Michigan,Daniel Cardenas,72978,Stanford
+2024,12/01,Cliff Keen Invitational,157,L,MD,14 - 6,Jacori Teemer,50581,Arizona State,Daniel Cardenas,72978,Stanford
+2024,12/01,Cliff Keen Invitational,157,W,TF5,17 - 2 4:50,Cooper Voorhees,67459,Wyoming,Daniel Cardenas,72978,Stanford
+2024,11/19,Roadrunner Open,157,W,TF5,17 - 2 7:00,Coen Quintana,84964,CSU Bakersfield,Daniel Cardenas,72978,Stanford
+2024,11/19,Roadrunner Open,157,W,TF5,17 - 2 7:00,Nolan Miller-Johnston,64040,Cal Baptist,Daniel Cardenas,72978,Stanford
+2024,11/19,Roadrunner Open,157,W,TF5,17 - 2 7:00,Chaz Hallmark,62925,Cal Baptist,Daniel Cardenas,72978,Stanford
+2024,11/12,Nebraska-Kearney - Stanford Dual,157,W,TF5,17 - 2 2:54,Nic Stoltenberg,67083,Nebraska-Kearney,Daniel Cardenas,72978,Stanford
+2024,11/04,Duke - Stanford Dual,157,W,TF5,19 - 4 5:00,Logan Ferrero,74330,Duke,Daniel Cardenas,72978,Stanford
+2024,02/04,CSU Bakersfield - Stanford Dual,174,W,TF5,19 - 4 2:44,Ryder Dearborn,84963,CSU Bakersfield,Zach Hanson,74117,Stanford
+2024,01/01,Southern Scuffle,157,W,DEC,5 - 4,John Wiley,73130,Oklahoma,Zach Hanson,74117,Stanford
+2024,01/01,Southern Scuffle,157,L,DEC,10 - 8,Nathan Lukez,69377,Army West Point,Zach Hanson,74117,Stanford
+2024,01/01,Southern Scuffle,157,L,MD,11 - 3,Vince Zerban,73032,Northern Colorado,Zach Hanson,74117,Stanford
+2024,01/01,Southern Scuffle,157,W,DEC,4 - 1,Jalin Harper,51618,Oklahoma State,Zach Hanson,74117,Stanford
+2024,01/01,Southern Scuffle,157,W,DEC,9 - 3,Thomas Snipes,73714,The Citadel,Zach Hanson,74117,Stanford
+2024,01/01,Southern Scuffle,157,W,MD,13 - 2,Jeremy Paradice,73957,Chattanooga,Zach Hanson,74117,Stanford
+2024,01/01,Southern Scuffle,157,W,MD,12 - 4,Jeremy Paradice,73957,Chattanooga,Zach Hanson,74117,Stanford
+2024,11/12,Nebraska-Kearney - Stanford Dual,165,W,FALL,4:23,Kaden Hart,77553,Nebraska-Kearney,Zach Hanson,74117,Stanford
+2024,11/04,Duke - Stanford Dual,165,W,DEC,10 - 3,Gaetano Console,73305,Duke,Zach Hanson,74117,Stanford
+2024,03/21,NCAA Championships,165,L,DEC,3 - 0,Izzak Olejnik,56509,Oklahoma State,Hunter Garvin,73862,Stanford
+2024,03/21,NCAA Championships,165,L,TF5,17 - 1 6:37,Keegan O'Toole,61119,Missouri,Hunter Garvin,73862,Stanford
+2024,03/21,NCAA Championships,165,W,MD,14 - 4,Peyton Hall,57711,West Virginia,Hunter Garvin,73862,Stanford
+2024,03/21,NCAA Championships,165,W,DEC,4 - 2,Cameron Amine,57289,Michigan,Hunter Garvin,73862,Stanford
+2024,03/21,NCAA Championships,165,W,TF5,19 - 2 6:18,Andrew Cerniglia,62439,Navy,Hunter Garvin,73862,Stanford
+2024,03/21,NCAA Championships,165,W,DEC,13 - 6,Nick Hamilton,73501,Virginia,Hunter Garvin,73862,Stanford
+2024,03/21,NCAA Championships,165,L,MD,10 - 1,David Carr,51126,Iowa State,Hunter Garvin,73862,Stanford
+2024,03/21,NCAA Championships,165,W,MD,11 - 0,Joseph Bianchi,62836,Little Rock,Hunter Garvin,73862,Stanford
+2024,03/10,PAC 12 Championships,165,L,DEC,2 - 1,Joseph Bianchi,62836,Little Rock,Hunter Garvin,73862,Stanford
+2024,03/10,PAC 12 Championships,165,W,DEC,11 - 4,Chance McLane,57206,Arizona State,Hunter Garvin,73862,Stanford
+2024,02/18,Oregon State - Stanford Dual,165,W,DEC,6 - 5,Kekana Fouret,61652,Oregon State,Hunter Garvin,73862,Stanford
+2024,02/17,Stanford - Arizona State Dual,165,W,SV-1,4 - 1,Chance McLane,57206,Arizona State,Hunter Garvin,73862,Stanford
+2024,02/11,Cal Poly - Stanford Dual,165,W,MD,17 - 3,Michael Goldfeder,57128,Cal Poly,Hunter Garvin,73862,Stanford
+2024,02/04,CSU Bakersfield - Stanford Dual,165,W,TF5,20 - 4 5:29,Guillermo Escobedo,66969,CSU Bakersfield,Hunter Garvin,73862,Stanford
+2024,01/28,Little Rock - Stanford Dual,165,W,FALL,2:09,Brendon Abdon,73189,Little Rock,Hunter Garvin,73862,Stanford
+2024,01/21,Stanford - Drexel Dual,165,W,MD,14 - 3,Cody Walsh,71125,Drexel,Hunter Garvin,73862,Stanford
+2024,01/21,Stanford - Pennsylvania Dual,165,W,DEC,11 - 4,Kaya Sement,63454,Pennsylvania,Hunter Garvin,73862,Stanford
+2024,01/10,Missouri - Stanford Dual,165,L,FALL,5:34,Keegan O'Toole,61119,Missouri,Hunter Garvin,73862,Stanford
+2024,01/01,Southern Scuffle,165,W,MD,10 - 2,Drake Acklin,78476,Appalachian State,Hunter Garvin,73862,Stanford
+2024,01/01,Southern Scuffle,165,W,DEC,9 - 3,Brendon Abdon,73189,Little Rock,Hunter Garvin,73862,Stanford
+2024,01/01,Southern Scuffle,165,W,MD,18 - 10,Mannix Morgan,72092,Oklahoma,Hunter Garvin,73862,Stanford
+2024,01/01,Southern Scuffle,165,L,MD,9 - 1,Joseph Bianchi,62836,Little Rock,Hunter Garvin,73862,Stanford
+2024,01/01,Southern Scuffle,165,W,CMFF,0 - 0,Baylor Fernandes,57351,Northern Colorado,Hunter Garvin,73862,Stanford
+2024,01/01,Southern Scuffle,165,L,TF5,21 - 5 6:39,Tyler Lillard,72963,Indiana,Hunter Garvin,73862,Stanford
+2024,01/01,Southern Scuffle,165,W,DEC,9 - 6,Keegan Rothrock,67258,Brown,Hunter Garvin,73862,Stanford
+2024,12/19,Purdue - Stanford Dual,165,W,DEC,6 - 3,Stoney Buell,72153,Purdue,Hunter Garvin,73862,Stanford
+2024,12/19,Stanford - North Dakota State Dual,165,W,DEC,8 - 2,Brendan Howes,73498,North Dakota State,Hunter Garvin,73862,Stanford
+2024,12/19,Stanford - Campbell Dual,165,L,DEC,13 - 7,Domonic Baker,71742,Campbell,Hunter Garvin,73862,Stanford
+2024,12/17,Stanford - Virginia Tech Dual,165,L,DEC,10 - 3,Connor Brady,56741,Virginia Tech,Hunter Garvin,73862,Stanford
+2024,12/01,Cliff Keen Invitational,165,W,MD,14 - 4,Giano Petrucelli,62610,Air Force,Hunter Garvin,73862,Stanford
+2024,12/01,Cliff Keen Invitational,165,W,DEC,7 - 1,AJ Kovacs,62442,NC State,Hunter Garvin,73862,Stanford
+2024,12/01,Cliff Keen Invitational,165,W,MD,16 - 6,Isaac Wilcox,60592,Ohio State,Hunter Garvin,73862,Stanford
+2024,12/01,Cliff Keen Invitational,165,L,TF5,18 - 1 6:25,Julian Ramirez,56706,Cornell,Hunter Garvin,73862,Stanford
+2024,12/01,Cliff Keen Invitational,165,L,TF5,15 - 0 3:49,David Carr,51126,Iowa State,Hunter Garvin,73862,Stanford
+2024,12/01,Cliff Keen Invitational,165,L,FALL,5:50,Garrett Thompson,73169,Ohio,Hunter Garvin,73862,Stanford
+2024,12/01,Cliff Keen Invitational,165,W,DEC,2 - 1,Brevin Cassella,67293,Binghamton,Hunter Garvin,73862,Stanford
+2024,12/01,Cliff Keen Invitational,165,W,FALL,4:21,Scott Jarosz,62478,Sacred Heart,Hunter Garvin,73862,Stanford
+2024,11/19,Roadrunner Open,165,W,INJ,6:04,Ryan Fillingame,88579,Unattached,Charlie Darracott,62985,Stanford
+2024,11/19,Roadrunner Open,165,L,DEC,4 - 3,Matthew Olguin,57218,Oregon State,Charlie Darracott,62985,Stanford
+2024,11/19,Roadrunner Open,165,W,MD,10 - 2,Guillermo Escobedo,66969,CSU Bakersfield,Charlie Darracott,62985,Stanford
+2024,11/19,Roadrunner Open,165,W,MD,11 - 0,Conrado Trevino-Oceguera,79192,San Francisco State,Charlie Darracott,62985,Stanford
+2024,03/10,PAC 12 Championships,174,L,DEC,1 - 0,Mason Reiniche,67415,Oregon State,Thor Michaelson,84365,Stanford
+2024,03/10,PAC 12 Championships,174,L,MD,16 - 5,Cael Valencia,70908,Arizona State,Thor Michaelson,84365,Stanford
+2024,01/21,Stanford - Drexel Dual,174,W,MD,20 - 8,Jasiah Queen,77621,Drexel,Lorenzo Norman,78822,Stanford
+2024,01/21,Stanford - Pennsylvania Dual,174,L,DEC,4 - 0,Nick Incontrera,57070,Pennsylvania,Lorenzo Norman,78822,Stanford
+2024,01/01,Southern Scuffle,174,L,DQ,0 - 0,Lucas Uliano,71130,Appalachian State,Lorenzo Norman,78822,Stanford
+2024,01/01,Southern Scuffle,174,W,MD,16 - 7,Gerrit Nijenhuis,62352,Oklahoma,Lorenzo Norman,78822,Stanford
+2024,01/01,Southern Scuffle,174,L,DQ,0 - 0,Ben Pasiuk,57286,Army West Point,Lorenzo Norman,78822,Stanford
+2024,01/01,Southern Scuffle,174,W,TF5,18 - 3 5:38,Mason Gode,72246,North Dakota State,Lorenzo Norman,78822,Stanford
+2024,01/01,Southern Scuffle,174,L,DQ,0 - 0,Gaven Sax,65396,North Dakota State,Lorenzo Norman,78822,Stanford
+2024,01/01,Southern Scuffle,174,W,MD,19 - 6,Jonathan Conrad,73553,Brown,Lorenzo Norman,78822,Stanford
+2024,12/17,Stanford - Virginia Tech Dual,174,L,MD,8 - 0,Mekhi Lewis,49338,Virginia Tech,Lorenzo Norman,78822,Stanford
+2024,12/01,Cliff Keen Invitational,174,W,DEC,14 - 7,Brayden Thompson,78507,Oklahoma State,Lorenzo Norman,78822,Stanford
+2024,12/01,Cliff Keen Invitational,174,W,DEC,11 - 8,MJ Gaitan,78494,Iowa State,Lorenzo Norman,78822,Stanford
+2024,12/01,Cliff Keen Invitational,174,L,DEC,5 - 0,Danny Wask,72981,Navy,Lorenzo Norman,78822,Stanford
+2024,12/01,Cliff Keen Invitational,174,W,DEC,4 - 2,Shane Griffith,49991,Michigan,Lorenzo Norman,78822,Stanford
+2024,12/01,Cliff Keen Invitational,174,L,DEC,5 - 4,Sal Perrine,73171,Ohio,Lorenzo Norman,78822,Stanford
+2024,12/01,Cliff Keen Invitational,174,W,DEC,5 - 1,Riley Davis,81798,Wyoming,Lorenzo Norman,78822,Stanford
+2024,11/04,Duke - Stanford Dual,174,W,TF5,20 - 3 3:41,Jack Wimmer,69859,Duke,Lorenzo Norman,78822,Stanford
+2024,02/17,Stanford - Arizona State Dual,174,W,DEC,9 - 4,Cael Valencia,70908,Arizona State,Tye Monteiro,79281,Stanford
+2024,01/28,Little Rock - Stanford Dual,174,W,DEC,5 - 2,Tyler Brennan,62844,Little Rock,Tye Monteiro,79281,Stanford
+2024,01/10,Missouri - Stanford Dual,174,L,MD,21 - 8,Peyton Mocco,50635,Missouri,Tye Monteiro,79281,Stanford
+2024,01/01,Southern Scuffle,174,L,TF5,19 - 3 6:33,Tate Picklo,72165,Oklahoma,Tye Monteiro,79281,Stanford
+2024,01/01,Southern Scuffle,174,L,MD,8 - 0,Lucas Uliano,71130,Appalachian State,Tye Monteiro,79281,Stanford
+2024,01/01,Southern Scuffle,174,W,DEC,7 - 3,Samuel Mora,62408,Gardner-Webb,Tye Monteiro,79281,Stanford
+2024,01/01,Southern Scuffle,174,W,DEC,12 - 7,Brodie Porter,79293,The Citadel,Tye Monteiro,79281,Stanford
+2024,01/01,Southern Scuffle,174,W,MD,13 - 1,Brett Sanderlin,71729,Davidson,Tye Monteiro,79281,Stanford
+2024,12/19,Purdue - Stanford Dual,174,L,SV-1,7 - 4,Brody Baumann,73558,Purdue,Tye Monteiro,79281,Stanford
+2024,12/19,Stanford - North Dakota State Dual,174,L,MD,16 - 8,Gaven Sax,65396,North Dakota State,Tye Monteiro,79281,Stanford
+2024,12/19,Stanford - Campbell Dual,174,L,DEC,6 - 3,Austin Murphy,51608,Campbell,Tye Monteiro,79281,Stanford
+2024,11/19,Roadrunner Open,184,W,TF5,15 - 0 7:00,Javier Gonzalez,77203,Vanguard University,Tye Monteiro,79281,Stanford
+2024,11/19,Roadrunner Open,184,W,MD,18 - 4,Braden Smelser,70199,CSU Bakersfield,Tye Monteiro,79281,Stanford
+2024,11/19,Roadrunner Open,184,W,MD,11 - 3,Braden Smelser,70199,CSU Bakersfield,Tye Monteiro,79281,Stanford
+2024,11/19,Roadrunner Open,184,L,MD,11 - 3,Nathan Haas,62341,Cal Baptist,Tye Monteiro,79281,Stanford
+2024,03/10,PAC 12 Championships,184,W,DEC,10 - 4,Triston Wills,58611,Little Rock,Jack Darrah,73242,Stanford
+2024,03/10,PAC 12 Championships,184,W,DEC,4 - 1,Braden Smelser,70199,CSU Bakersfield,Jack Darrah,73242,Stanford
+2024,03/10,PAC 12 Championships,184,W,DEC,3 - 2,Kendall LaRosa,66261,Cal Poly,Jack Darrah,73242,Stanford
+2024,03/10,PAC 12 Championships,184,L,DEC,3 - 0,Tony Negron,58308,Arizona State,Jack Darrah,73242,Stanford
+2024,02/18,Oregon State - Stanford Dual,184,L,DEC,5 - 1,Trey Munoz,59555,Oregon State,Jack Darrah,73242,Stanford
+2024,02/17,Stanford - Arizona State Dual,184,L,DEC,6 - 3,Tony Negron,58308,Arizona State,Jack Darrah,73242,Stanford
+2024,02/11,Cal Poly - Stanford Dual,184,W,FALL,4:19,Kendall LaRosa,66261,Cal Poly,Jack Darrah,73242,Stanford
+2024,02/04,CSU Bakersfield - Stanford Dual,184,W,TF5,15 - 0 5:37,Braden Smelser,70199,CSU Bakersfield,Jack Darrah,73242,Stanford
+2024,01/28,Little Rock - Stanford Dual,184,W,DEC,3 - 2,Triston Wills,58611,Little Rock,Jack Darrah,73242,Stanford
+2024,01/21,Stanford - Drexel Dual,184,W,DEC,2 - 1,Justin Griffith,79552,Drexel,Jack Darrah,73242,Stanford
+2024,01/21,Stanford - Pennsylvania Dual,184,L,DEC,8 - 2,Maximus Hale,63719,Pennsylvania,Jack Darrah,73242,Stanford
+2024,01/01,Southern Scuffle,184,W,DEC,6 - 0,Conor Becker,69858,Duke,Jack Darrah,73242,Stanford
+2024,01/01,Southern Scuffle,184,L,MD,11 - 2,Guiseppe Hoose,56371,Oklahoma,Jack Darrah,73242,Stanford
+2024,01/01,Southern Scuffle,184,W,DEC,7 - 0,Andrew Donahue,73503,Northern Colorado,Jack Darrah,73242,Stanford
+2024,01/01,Southern Scuffle,184,L,MD,13 - 2,Roman Rogotzke,70925,Indiana,Jack Darrah,73242,Stanford
+2024,01/01,Southern Scuffle,184,L,TB-2,3 - 2,Jha'Quan Anderson,62407,Gardner-Webb,Jack Darrah,73242,Stanford
+2024,01/01,Southern Scuffle,184,W,MD,11 - 0,Aidan Brenot,84734,North Dakota State,Jack Darrah,73242,Stanford
+2024,01/01,Southern Scuffle,184,W,TF5,19 - 3 6:17,Landon Lewis,73353,Chattanooga,Jack Darrah,73242,Stanford
+2024,12/19,Purdue - Stanford Dual,184,W,SV-1,4 - 1,James Rowley,73715,Purdue,Jack Darrah,73242,Stanford
+2024,12/19,Stanford - Campbell Dual,184,W,DEC,4 - 3,Caleb Hopkins,56482,Campbell,Jack Darrah,73242,Stanford
+2024,12/17,Stanford - Virginia Tech Dual,184,L,MD,13 - 3,Dakota Howard,51202,Virginia Tech,Jack Darrah,73242,Stanford
+2024,11/12,Nebraska-Kearney - Stanford Dual,184,W,TF5,19 - 4 7:00,Dylan Vodicka,76034,Nebraska-Kearney,Jack Darrah,73242,Stanford
+2024,11/04,Duke - Stanford Dual,184,W,DEC,4 - 2,Conor Becker,69858,Duke,Jack Darrah,73242,Stanford
+2024,02/18,Oregon State - Stanford Dual,174,L,MD,10 - 2,Matthew Olguin,57218,Oregon State,Abe Wojcikiewicz,78683,Stanford
+2024,01/10,Missouri - Stanford Dual,184,L,MD,18 - 5,Clayton Whiting,72552,Missouri,Abe Wojcikiewicz,78683,Stanford
+2024,01/01,Southern Scuffle,184,W,MD,12 - 4,Dalton Battle,73100,Appalachian State,Abe Wojcikiewicz,78683,Stanford
+2024,01/01,Southern Scuffle,184,L,MD,11 - 1,Michael Bartush,72602,Bucknell,Abe Wojcikiewicz,78683,Stanford
+2024,01/01,Southern Scuffle,184,L,DEC,8 - 6,Michael Bartush,72602,Bucknell,Abe Wojcikiewicz,78683,Stanford
+2024,01/01,Southern Scuffle,184,L,CMFF,0 - 0,Aidan Brenot,84734,North Dakota State,Abe Wojcikiewicz,78683,Stanford
+2024,01/01,Southern Scuffle,184,W,DEC,7 - 6,Nick Olivieri,76389,Brown,Abe Wojcikiewicz,78683,Stanford
+2024,01/01,Southern Scuffle,184,W,TF5,19 - 4 6:09,Landon Lewis,73353,Chattanooga,Abe Wojcikiewicz,78683,Stanford
+2024,12/19,Stanford - North Dakota State Dual,184,W,DEC,10 - 3,Aidan Brenot,84734,North Dakota State,Abe Wojcikiewicz,78683,Stanford
+2024,11/19,Roadrunner Open,184,W,SV-1,4 - 1,Isaiah Morales,81142,Menlo,Abe Wojcikiewicz,78683,Stanford
+2024,11/19,Roadrunner Open,184,W,FALL,2:25,Javier Gonzalez,77203,Vanguard University,Abe Wojcikiewicz,78683,Stanford
+2024,11/19,Roadrunner Open,184,W,FALL,2:02,Jonathan Moreno,74506,Menlo,Abe Wojcikiewicz,78683,Stanford
+2024,11/19,Roadrunner Open,184,L,DEC,14 - 11,Nathan Haas,62341,Cal Baptist,Abe Wojcikiewicz,78683,Stanford
+2024,03/21,NCAA Championships,197,L,DEC,8 - 2,Andy Smith,63528,Virginia Tech,Nick Stemmet,63032,Stanford
+2024,03/21,NCAA Championships,197,W,DEC,6 - 1,Luke Stout,62599,Princeton,Nick Stemmet,63032,Stanford
+2024,03/21,NCAA Championships,197,L,TF5,26 - 10 6:27,Trent Hidlay,51224,NC State,Nick Stemmet,63032,Stanford
+2024,03/21,NCAA Championships,197,W,DEC,6 - 4,Max Shaw,61959,North Carolina,Nick Stemmet,63032,Stanford
+2024,03/10,PAC 12 Championships,197,L,DEC,4 - 2,Justin Rademacher,78725,Oregon State,Nick Stemmet,63032,Stanford
+2024,03/10,PAC 12 Championships,197,W,DEC,3 - 0,Jarad Priest,62329,Cal Poly,Nick Stemmet,63032,Stanford
+2024,03/10,PAC 12 Championships,197,W,TF5,19 - 4 6:34,Jacob Meissner,78354,Arizona State,Nick Stemmet,63032,Stanford
+2024,02/18,Oregon State - Stanford Dual,197,L,MD,14 - 4,Justin Rademacher,78725,Oregon State,Nick Stemmet,63032,Stanford
+2024,02/17,Stanford - Arizona State Dual,197,W,TF5,20 - 3 5:49,Damion Schunke,77761,Arizona State,Nick Stemmet,63032,Stanford
+2024,02/11,Cal Poly - Stanford Dual,197,W,DEC,8 - 1,Jarad Priest,62329,Cal Poly,Nick Stemmet,63032,Stanford
+2024,02/04,CSU Bakersfield - Stanford Dual,197,W,FALL,0:49,Khristian Dove,79004,CSU Bakersfield,Nick Stemmet,63032,Stanford
+2024,02/03,Oaks Open,197,W,TF5,19 - 4 4:08,Diego Chaidez,92752,Menlo,Nick Stemmet,63032,Stanford
+2024,02/03,Oaks Open,197,W,FALL,2:34,Cameron Bauman,81135,Menlo,Nick Stemmet,63032,Stanford
+2024,02/03,Oaks Open,197,W,MD,13 - 5,Tyler Hodges,79302,Cal Poly,Nick Stemmet,63032,Stanford
+2024,01/28,Little Rock - Stanford Dual,197,L,FALL,0:51,Stephen Little,73285,Little Rock,Nick Stemmet,63032,Stanford
+2024,01/21,Stanford - Drexel Dual,197,W,TF5,17 - 2 3:21,Ibrahim Ameer,75829,Drexel,Nick Stemmet,63032,Stanford
+2024,01/21,Stanford - Pennsylvania Dual,197,W,MD,12 - 4,Martin Cosgrove,72983,Pennsylvania,Nick Stemmet,63032,Stanford
+2024,01/10,Missouri - Stanford Dual,197,L,MD,11 - 1,Rocky Elam,62027,Missouri,Nick Stemmet,63032,Stanford
+2024,01/01,Southern Scuffle,197,W,TF5,19 - 4 6:18,Thomas Godbee,71643,Army West Point,Nick Stemmet,63032,Stanford
+2024,01/01,Southern Scuffle,197,W,MD,15 - 7,Noah Pettigrew,72943,Northern Colorado,Nick Stemmet,63032,Stanford
+2024,01/01,Southern Scuffle,197,W,DEC,2 - 0,Xavier Vasquez,49233,Northern Colorado,Nick Stemmet,63032,Stanford
+2024,01/01,Southern Scuffle,197,W,MD,12 - 2,Gabe Sollars,77269,Indiana,Nick Stemmet,63032,Stanford
+2024,01/01,Southern Scuffle,197,L,DEC,7 - 4,Kyle Haas,67222,Oklahoma State,Nick Stemmet,63032,Stanford
+2024,12/19,Purdue - Stanford Dual,197,W,FALL,6:05,Ben Vanadia,68732,Purdue,Nick Stemmet,63032,Stanford
+2024,12/19,Stanford - North Dakota State Dual,197,W,MD,14 - 4,Lathan Duda,69968,North Dakota State,Nick Stemmet,63032,Stanford
+2024,12/19,Stanford - Campbell Dual,197,W,TF5,19 - 4 7:00,Levi Hopkins,62508,Campbell,Nick Stemmet,63032,Stanford
+2024,12/17,Stanford - Virginia Tech Dual,197,L,DEC,8 - 4,Sonny Sasso,79220,Virginia Tech,Nick Stemmet,63032,Stanford
+2024,12/01,Cliff Keen Invitational,197,L,FALL,2:44,Sonny Sasso,79220,Virginia Tech,Nick Stemmet,63032,Stanford
+2024,12/01,Cliff Keen Invitational,197,W,DEC,7 - 4,Justin Rademacher,78725,Oregon State,Nick Stemmet,63032,Stanford
+2024,12/01,Cliff Keen Invitational,197,W,DEC,7 - 3,Max Shaw,61959,North Carolina,Nick Stemmet,63032,Stanford
+2024,12/01,Cliff Keen Invitational,197,W,TF5,19 - 4 5:43,Calvin Sund,57634,Air Force,Nick Stemmet,63032,Stanford
+2024,12/01,Cliff Keen Invitational,197,W,FALL,2:38,Austin Starr,76357,Ohio,Nick Stemmet,63032,Stanford
+2024,12/01,Cliff Keen Invitational,197,W,DEC,14 - 7,Joey Novak,79289,Wyoming,Nick Stemmet,63032,Stanford
+2024,12/01,Cliff Keen Invitational,197,L,DEC,4 - 3,Evan Bockman,57270,Utah Valley,Nick Stemmet,63032,Stanford
+2024,12/01,Cliff Keen Invitational,197,W,TF5,21 - 5 3:23,Daniel Bittner,78814,Harvard,Nick Stemmet,63032,Stanford
+2024,11/19,Roadrunner Open,197,W,DEC,12 - 6,Asher Ruchti,71008,Oregon State,Nick Stemmet,63032,Stanford
+2024,11/19,Roadrunner Open,197,W,DEC,13 - 6,Mason Christiansen,67100,Oregon State,Nick Stemmet,63032,Stanford
+2024,11/19,Roadrunner Open,197,W,TF5,18 - 2 7:00,Jackson McKinney,56781,Oregon State,Nick Stemmet,63032,Stanford
+2024,11/19,Roadrunner Open,197,W,TF5,17 - 2 7:00,Jairo Rivera,78383,San Francisco State,Nick Stemmet,63032,Stanford
+2024,11/12,Nebraska-Kearney - Stanford Dual,197,W,MD,14 - 4,Jackson Kinsella,76024,Nebraska-Kearney,Nick Stemmet,63032,Stanford
+2024,11/04,Duke - Stanford Dual,197,W,TF5,18 - 3 2:05,Kwasi Bonsu,84783,Duke,Nick Stemmet,63032,Stanford
+2024,03/10,PAC 12 Championships,285,L,DEC,6 - 3,Josiah Hill,65931,Little Rock,Peter Ming,62611,Stanford
+2024,03/10,PAC 12 Championships,285,W,FALL,5:27,Jake Andrews,73174,CSU Bakersfield,Peter Ming,62611,Stanford
+2024,03/10,PAC 12 Championships,285,L,TF5,22 - 7 6:11,Trevor Tinker,66973,Cal Poly,Peter Ming,62611,Stanford
+2024,02/18,Oregon State - Stanford Dual,285,L,FALL,0:38,Boone McDermott,56898,Oregon State,Peter Ming,62611,Stanford
+2024,02/17,Stanford - Arizona State Dual,285,L,FALL,4:52,Cohlton Schultz,56899,Arizona State,Peter Ming,62611,Stanford
+2024,02/11,Cal Poly - Stanford Dual,285,L,SV-1,11 - 8,Trevor Tinker,66973,Cal Poly,Peter Ming,62611,Stanford
+2024,01/21,Stanford - Drexel Dual,285,W,DEC,4 - 1,Santino Morina,62654,Drexel,Peter Ming,62611,Stanford
+2024,01/21,Stanford - Pennsylvania Dual,285,W,FALL,3:50,John Stout,60543,Pennsylvania,Peter Ming,62611,Stanford
+2024,01/10,Missouri - Stanford Dual,285,L,DEC,8 - 1,Zach Elam,51612,Missouri,Peter Ming,62611,Stanford
+2024,01/01,Southern Scuffle,285,W,DEC,8 - 7,Josiah Hill,65931,Little Rock,Peter Ming,62611,Stanford
+2024,01/01,Southern Scuffle,285,W,FALL,1:50,Jacob Sartorio,65393,Appalachian State,Peter Ming,62611,Stanford
+2024,01/01,Southern Scuffle,285,L,MD,11 - 2,Dorian Crosby,62328,Bucknell,Peter Ming,62611,Stanford
+2024,01/01,Southern Scuffle,285,L,FALL,0:54,Lucas Stoddard,78565,Army West Point,Peter Ming,62611,Stanford
+2024,01/01,Southern Scuffle,285,W,FALL,4:36,Alex Hamrick,84453,Brown,Peter Ming,62611,Stanford
+2024,01/01,Southern Scuffle,285,W,FALL,4:28,Kaleb Snodgrass,64676,Chattanooga,Peter Ming,62611,Stanford
+2024,12/19,Purdue - Stanford Dual,285,W,DEC,10 - 3,Tristan Ruhlman,71690,Purdue,Peter Ming,62611,Stanford
+2024,12/19,Stanford - North Dakota State Dual,285,L,FALL,3:27,Devon Dawson,75888,North Dakota State,Peter Ming,62611,Stanford
+2024,12/19,Stanford - Campbell Dual,285,L,DEC,18 - 12,Taye Ghadiali,62500,Campbell,Peter Ming,62611,Stanford
+2024,12/17,Stanford - Virginia Tech Dual,285,L,DEC,8 - 4,Hunter Catka,62425,Virginia Tech,Peter Ming,62611,Stanford
+2024,12/01,Cliff Keen Invitational,285,L,TF5,21 - 6 3:49,Yonger Bastida,70963,Iowa State,Peter Ming,62611,Stanford
+2024,12/01,Cliff Keen Invitational,285,L,DEC,8 - 7,Cade Lautt,69676,North Carolina,Peter Ming,62611,Stanford
+2024,11/12,Nebraska-Kearney - Stanford Dual,285,L,DEC,6 - 3,Crew Howard,76022,Nebraska-Kearney,Peter Ming,62611,Stanford
+2024,11/04,Duke - Stanford Dual,285,W,MD,12 - 4,Connor Barket,78767,Duke,Peter Ming,62611,Stanford
+2024,02/04,CSU Bakersfield - Stanford Dual,285,L,DEC,6 - 0,Jake Andrews,73174,CSU Bakersfield,Jackson Mankowski,84623,Stanford
+2024,01/28,Little Rock - Stanford Dual,285,L,MD,15 - 5,Josiah Hill,65931,Little Rock,Jackson Mankowski,84623,Stanford
+2024,11/19,Roadrunner Open,285,W,DEC,8 - 4,Eric Mittlestead,62867,CSU Bakersfield,Jackson Mankowski,84623,Stanford
+2024,11/19,Roadrunner Open,285,L,SV-1,9 - 7,Luke Meyer,78082,Cal Poly,Jackson Mankowski,84623,Stanford
+2024,11/19,Roadrunner Open,285,L,MD,12 - 2,Cole Jackson,71581,Cal Poly,Jackson Mankowski,84623,Stanford

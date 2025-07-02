@@ -1,0 +1,392 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2024,03/21,NCAA Championships,125,W,DEC,7 - 2,Drake Ayala,66975,Iowa,Richard Figueroa,61129,Arizona State
+2024,03/21,NCAA Championships,125,W,DEC,4 - 3,Anthony Noto,64642,Lock Haven,Richard Figueroa,61129,Arizona State
+2024,03/21,NCAA Championships,125,W,DEC,3 - 2,Braeden Davis,77952,Penn State,Richard Figueroa,61129,Arizona State
+2024,03/21,NCAA Championships,125,W,MD,16 - 5,Patrick McKee,50594,Minnesota,Richard Figueroa,61129,Arizona State
+2024,03/21,NCAA Championships,125,W,MD,13 - 2,Ethan Berginc,71779,Army West Point,Richard Figueroa,61129,Arizona State
+2024,03/10,PAC 12 Championships,125,W,SV-1,4 - 1,Nico Provo,65883,Stanford,Richard Figueroa,61129,Arizona State
+2024,03/10,PAC 12 Championships,125,W,TF5,19 - 3 6:00,Jeremiah Reno,62342,Little Rock,Richard Figueroa,61129,Arizona State
+2024,03/10,PAC 12 Championships,125,W,DEC,2 - 1,Brandon Kaylor,51198,Oregon State,Richard Figueroa,61129,Arizona State
+2024,02/25,Nebraska - Arizona State Dual,125,W,DEC,4 - 3,Caleb Smith,58559,Nebraska,Richard Figueroa,61129,Arizona State
+2024,02/24,Lehigh - Arizona State Dual,125,W,DEC,5 - 3,Luke Stanich,78768,Lehigh,Richard Figueroa,61129,Arizona State
+2024,02/17,Stanford - Arizona State Dual,125,L,SV-1,13 - 8,Nico Provo,65883,Stanford,Richard Figueroa,61129,Arizona State
+2024,02/09,Arizona State - Cal Poly Dual,125,W,DEC,8 - 2,Dominic Mendez,73704,Cal Poly,Richard Figueroa,61129,Arizona State
+2024,02/04,Oregon State - Arizona State Dual,125,L,DEC,9 - 5,Maximo Renteria,71870,Oregon State,Richard Figueroa,61129,Arizona State
+2024,02/02,Arizona State - Oklahoma State Dual,125,L,MD,13 - 5,Troy Spratley,73119,Oklahoma State,Richard Figueroa,61129,Arizona State
+2024,01/21,Arizona State - Pittsburgh Dual,125,W,DEC,6 - 1,Colton Camacho,58029,Pittsburgh,Richard Figueroa,61129,Arizona State
+2024,01/19,Arizona State - Little Rock Dual,125,W,MD,18 - 5,Jeremiah Reno,62342,Little Rock,Richard Figueroa,61129,Arizona State
+2024,12/29,Midlands Championships,125,L,INJ,1:31,Ashton Jackson,81722,Purdue,Richard Figueroa,61129,Arizona State
+2024,12/29,Midlands Championships,125,L,MFOR,0 - 0,Nick Molchak,78590,Cleveland State,Richard Figueroa,61129,Arizona State
+2024,12/17,Reno TOC,125,W,TF5,21 - 6 4:51,Brayden Boyd,82295,Corban University,Richard Figueroa,61129,Arizona State
+2024,12/17,Reno TOC,125,W,TF5,18 - 3 6:54,Allan Hendricks,80309,Embry-Riddle,Richard Figueroa,61129,Arizona State
+2024,12/17,Reno TOC,125,W,DEC,7 - 4,Conrad Hendriksen,80186,Oklahoma,Richard Figueroa,61129,Arizona State
+2024,12/17,Reno TOC,125,L,DEC,6 - 4,Jore Volk,72600,Wyoming,Richard Figueroa,61129,Arizona State
+2024,12/17,Reno TOC,125,W,DEC,7 - 2,Caleb Coyle,69462,Oregon State,Richard Figueroa,61129,Arizona State
+2024,02/18,Cowboy Shootout,125,W,SV-1,4 - 1,Jacob Carson,84799,Utah Valley,Tristan Mascarenas,70010,Arizona State
+2024,02/18,Cowboy Shootout,125,L,CMFF,0 - 0,Dylan Catlin,77321,Wyoming,Tristan Mascarenas,70010,Arizona State
+2024,01/21,Arizona State - Pittsburgh Dual,133,L,DEC,5 - 0,Vince Santaniello,72185,Pittsburgh,Tristan Mascarenas,70010,Arizona State
+2024,01/07,Arizona State - CSU Bakersfield Dual,125,W,DEC,5 - 4,Richard Castro-Sandoval,69366,CSU Bakersfield,Tristan Mascarenas,70010,Arizona State
+2024,01/05,Iowa State - Arizona State Dual,125,L,DEC,12 - 6,Kysen Terukina,67143,Iowa State,Tristan Mascarenas,70010,Arizona State
+2024,12/29,Midlands Championships,125,L,FALL,5:31,Diego Sotelo,71874,Harvard,Tristan Mascarenas,70010,Arizona State
+2024,12/29,Midlands Championships,125,L,MD,15 - 4,Luqman Masud,76147,Missouri,Tristan Mascarenas,70010,Arizona State
+2024,02/10,Firestorm Open,125,W,TF5,18 - 1 7:00,Jason Walden,88088,Ottawa,Damian Moreno,84698,Arizona State
+2024,02/10,Firestorm Open,125,W,FALL,2:33,Ricardo Almodobar,88052,Grand Canyon,Damian Moreno,84698,Arizona State
+2024,02/10,Firestorm Open,125,W,DEC,6 - 2,Jaren Kimura,87372,Embry-Riddle,Damian Moreno,84698,Arizona State
+2024,11/19,Arizona State - Missouri Dual,125,L,FALL,1:38,Noah Surtin,56715,Missouri,Damian Moreno,84698,Arizona State
+2024,11/12,Journeymen Classic,125,L,DEC,5 - 3,Jared Chuqulin,87620,LIU,Damian Moreno,84698,Arizona State
+2024,11/12,Journeymen Classic,125,W,DEC,8 - 5,Kevin Riedinger,82736,Bloomsburg,Damian Moreno,84698,Arizona State
+2024,11/12,Journeymen Classic,125,L,MD,11 - 0,Max Elton,79785,Buffalo,Damian Moreno,84698,Arizona State
+2024,11/11,Arizona State - North Carolina Dual,125,L,TF5,17 - 2 7:00,Spencer Moore,68720,North Carolina,Damian Moreno,84698,Arizona State
+2024,12/01,Cliff Keen Invitational,125,L,TF5,19 - 4 2:43,Brandon Kaylor,51198,Oregon State,Max Brewster,78887,Arizona State
+2024,12/01,Cliff Keen Invitational,125,L,TF5,15 - 0 5:11,Tucker Owens,71711,Air Force,Max Brewster,78887,Arizona State
+2024,11/12,Journeymen Classic,125,L,MD,13 - 0,Jackson Baglio,77783,NC State,Max Brewster,78887,Arizona State
+2024,11/12,Journeymen Classic,125,L,MD,12 - 0,Trevon Gray,74004,Pitt-Johnstown,Max Brewster,78887,Arizona State
+2024,11/12,Journeymen Classic,125,L,DEC,8 - 3,Brady Pruett,73565,Pennsylvania,Max Brewster,78887,Arizona State
+2024,11/11,Arizona State - Lock Haven Dual,125,L,TF5,18 - 3 4:40,Anthony Noto,64642,Lock Haven,Max Brewster,78887,Arizona State
+2024,03/21,NCAA Championships,133,L,DEC,5 - 1,Aaron Nagao,63016,Penn State,Julian Chlebove,56769,Arizona State
+2024,03/21,NCAA Championships,133,L,DEC,4 - 1,Evan Frost,72948,Iowa State,Julian Chlebove,56769,Arizona State
+2024,03/21,NCAA Championships,133,W,DEC,4 - 1,Dominick Serrano,61120,Northern Colorado,Julian Chlebove,56769,Arizona State
+2024,03/10,PAC 12 Championships,133,L,DEC,8 - 3,Nasir Bailey,79029,Little Rock,Julian Chlebove,56769,Arizona State
+2024,03/10,PAC 12 Championships,133,W,FALL,6:15,Santino Sanchez,79001,CSU Bakersfield,Julian Chlebove,56769,Arizona State
+2024,03/10,PAC 12 Championships,133,W,DEC,4 - 2,Zeth Romney,73191,Cal Poly,Julian Chlebove,56769,Arizona State
+2024,02/25,Nebraska - Arizona State Dual,133,L,DEC,8 - 6,Jacob Van Dee,73557,Nebraska,Julian Chlebove,56769,Arizona State
+2024,02/24,Lehigh - Arizona State Dual,133,W,DEC,9 - 2,Sheldon Seymour,62339,Lehigh,Julian Chlebove,56769,Arizona State
+2024,02/09,Arizona State - Cal Poly Dual,133,W,TF5,18 - 2 2:32,Koda Holeman,73792,Cal Poly,Julian Chlebove,56769,Arizona State
+2024,02/04,Oregon State - Arizona State Dual,133,W,DEC,8 - 2,Gabe Whisenhunt,67729,Oregon State,Julian Chlebove,56769,Arizona State
+2024,02/02,Arizona State - Oklahoma State Dual,133,L,DEC,5 - 3,Daton Fix,49263,Oklahoma State,Julian Chlebove,56769,Arizona State
+2024,01/19,Arizona State - Little Rock Dual,133,L,DEC,7 - 2,Nasir Bailey,79029,Little Rock,Julian Chlebove,56769,Arizona State
+2024,01/07,Arizona State - CSU Bakersfield Dual,133,W,FALL,2:20,Santino Sanchez,79001,CSU Bakersfield,Julian Chlebove,56769,Arizona State
+2024,01/05,Iowa State - Arizona State Dual,133,W,MD,13 - 3,Ethan Perryman,78477,Iowa State,Julian Chlebove,56769,Arizona State
+2024,12/29,Midlands Championships,133,W,MD,15 - 3,Coleman Nogle,84309,Harvard,Julian Chlebove,56769,Arizona State
+2024,12/29,Midlands Championships,133,W,CMFF,0 - 0,Patrick Adams,72223,Northwestern,Julian Chlebove,56769,Arizona State
+2024,12/29,Midlands Championships,133,L,DEC,4 - 2,Sam Latona,56742,Virginia Tech,Julian Chlebove,56769,Arizona State
+2024,12/29,Midlands Championships,133,L,SV-1,8 - 1,Dylan Shawver,61767,Rutgers,Julian Chlebove,56769,Arizona State
+2024,12/29,Midlands Championships,133,W,MD,11 - 3,Hunter Leake,67190,Cal Baptist,Julian Chlebove,56769,Arizona State
+2024,12/29,Midlands Championships,133,W,DEC,5 - 1,Nathaniel Genobana,73338,Northern Illinois,Julian Chlebove,56769,Arizona State
+2024,12/29,Midlands Championships,133,W,CMFF,0 - 0,Marlon Yarbrough,72946,Virginia,Julian Chlebove,56769,Arizona State
+2024,12/01,Cliff Keen Invitational,133,L,DEC,7 - 3,Reece Witcraft,57312,Oklahoma State,Julian Chlebove,56769,Arizona State
+2024,12/01,Cliff Keen Invitational,133,W,TF5,16 - 1 5:42,King Sandoval,57116,Maryland,Julian Chlebove,56769,Arizona State
+2024,12/01,Cliff Keen Invitational,133,L,DEC,4 - 2,Domenic Zaccone,56926,Campbell,Julian Chlebove,56769,Arizona State
+2024,12/01,Cliff Keen Invitational,133,W,TF5,19 - 1 5:00,Patrick Adams,72223,Northwestern,Julian Chlebove,56769,Arizona State
+2024,12/01,Cliff Keen Invitational,133,W,MD,14 - 4,Richie Koehler,51648,Rider,Julian Chlebove,56769,Arizona State
+2024,12/01,Cliff Keen Invitational,133,W,TF5,15 - 0 1:48,Shawn Ryncarz,84327,Morgan State,Julian Chlebove,56769,Arizona State
+2024,11/19,Arizona State - Missouri Dual,133,W,DEC,6 - 4,Zeke Seltzer,72572,Missouri,Julian Chlebove,56769,Arizona State
+2024,11/11,Arizona State - North Carolina Dual,133,W,DEC,5 - 2,Caden McCrary,70918,North Carolina,Julian Chlebove,56769,Arizona State
+2024,02/17,Stanford - Arizona State Dual,133,L,DEC,9 - 8,Dominic LaJoie,49112,Stanford,Carter Dibert,71775,Arizona State
+2024,12/29,Midlands Championships,133,L,FALL,4:12,Mason Leiphart,73193,Franklin & Marshall,Carter Dibert,71775,Arizona State
+2024,12/29,Midlands Championships,133,L,FALL,5:44,Lucian Brink,64945,Northern Illinois,Carter Dibert,71775,Arizona State
+2024,12/01,Cliff Keen Invitational,141,L,MD,10 - 1,Tagen Jamison,66962,Oklahoma State,Carter Dibert,71775,Arizona State
+2024,12/01,Cliff Keen Invitational,141,L,DEC,2 - 1,Ivan Garcia,67298,Binghamton,Carter Dibert,71775,Arizona State
+2024,11/19,Arizona State - Missouri Dual,141,L,MD,14 - 3,Josh Edmond,62704,Missouri,Carter Dibert,71775,Arizona State
+2024,11/12,Journeymen Classic,133,W,DEC,6 - 4,Coleman Nogle,84309,Harvard,Carter Dibert,71775,Arizona State
+2024,11/12,Journeymen Classic,133,W,DEC,6 - 3,Jameson Garcia,84308,Harvard,Carter Dibert,71775,Arizona State
+2024,11/12,Journeymen Classic,133,W,TF5,16 - 1 3:27,Daniel Uhorchuk,71765,Army West Point,Carter Dibert,71775,Arizona State
+2024,11/11,Arizona State - Lock Haven Dual,133,L,DEC,8 - 2,Gable Strickland,71822,Lock Haven,Carter Dibert,71775,Arizona State
+2024,03/21,NCAA Championships,141,L,DEC,9 - 5,Joshua Koderhandt,70917,Navy,Jesse Vasquez,67152,Arizona State
+2024,03/21,NCAA Championships,141,W,FALL,6:26,Jordan Titus,68738,West Virginia,Jesse Vasquez,67152,Arizona State
+2024,03/21,NCAA Championships,141,L,MD,8 - 0,Real Woods,50664,Iowa,Jesse Vasquez,67152,Arizona State
+2024,03/21,NCAA Championships,141,W,DEC,5 - 2,Malyke Hines,56932,Lehigh,Jesse Vasquez,67152,Arizona State
+2024,03/10,PAC 12 Championships,141,W,MD,11 - 2,Jason Miranda,64654,Stanford,Jesse Vasquez,67152,Arizona State
+2024,03/10,PAC 12 Championships,141,W,DEC,5 - 2,Cleveland Belton,57334,Oregon State,Jesse Vasquez,67152,Arizona State
+2024,02/25,Nebraska - Arizona State Dual,141,L,DEC,6 - 1,Brock Hardy,51242,Nebraska,Jesse Vasquez,67152,Arizona State
+2024,02/24,Lehigh - Arizona State Dual,141,W,SV-1,5 - 2,Malyke Hines,56932,Lehigh,Jesse Vasquez,67152,Arizona State
+2024,02/18,Cowboy Shootout,141,W,TF5,18 - 2 4:24,Dyson Kunz,71939,Northern Colorado,Jesse Vasquez,67152,Arizona State
+2024,02/18,Cowboy Shootout,141,W,DEC,8 - 2,Brandon Meredith,56935,South Dakota State,Jesse Vasquez,67152,Arizona State
+2024,02/18,Cowboy Shootout,141,W,DEC,5 - 0,Stockton O'Brien,67451,Wyoming,Jesse Vasquez,67152,Arizona State
+2024,02/17,Stanford - Arizona State Dual,141,W,DEC,8 - 3,Jason Miranda,64654,Stanford,Jesse Vasquez,67152,Arizona State
+2024,02/09,Arizona State - Cal Poly Dual,141,W,TF5,20 - 4 5:28,Abraham Hinrichsen,70734,Cal Poly,Jesse Vasquez,67152,Arizona State
+2024,11/11,Arizona State - Lock Haven Dual,141,W,TF5,19 - 3 6:47,Conner Heckman,84588,Lock Haven,Jesse Vasquez,67152,Arizona State
+2024,11/11,Arizona State - North Carolina Dual,141,L,INJ,3:04,Lachlan McNeil,62891,North Carolina,Jesse Vasquez,67152,Arizona State
+2024,02/18,Cowboy Shootout,141,L,TF5,15 - 0 2:04,Cole Brooks,82044,Wyoming,Daniel Miranda,84525,Arizona State
+2024,02/18,Cowboy Shootout,141,L,DEC,5 - 3,Jakob Romero,75096,Utah Valley,Daniel Miranda,84525,Arizona State
+2024,02/18,Cowboy Shootout,141,L,FALL,6:59,Gavin Drexler,73017,North Dakota State,Daniel Miranda,84525,Arizona State
+2024,02/18,Cowboy Shootout,141,W,CMFF,0 - 0,Kobe Nelms,63874,Utah Valley,Daniel Miranda,84525,Arizona State
+2024,02/18,Cowboy Shootout,141,W,FALL,4:56,Brandon Meredith,56935,South Dakota State,Daniel Miranda,84525,Arizona State
+2024,02/10,Firestorm Open,141,W,DEC,6 - 5,Yoshiya Funakoshi,79038,Cal Baptist,Daniel Miranda,84525,Arizona State
+2024,02/10,Firestorm Open,141,W,DEC,8 - 5,Brady Hoshino,71744,Cal Baptist,Daniel Miranda,84525,Arizona State
+2024,11/12,Journeymen Classic,133,W,MFOR,0 - 0,Chad Ozias,78525,Pitt-Johnstown,Daniel Miranda,84525,Arizona State
+2024,11/12,Journeymen Classic,133,W,INJ,7:00,Chad Ozias,78525,Pitt-Johnstown,Daniel Miranda,84525,Arizona State
+2024,11/12,Journeymen Classic,133,W,FALL,0:55,Sean Wang,73199,Penn State,Daniel Miranda,84525,Arizona State
+2024,11/12,Journeymen Classic,133,L,DEC,12 - 5,Conor Collins,74086,Army West Point,Daniel Miranda,84525,Arizona State
+2024,02/10,Firestorm Open,149,W,MD,15 - 3,Kade Haselman,89495,Colorado State,Cody Foote,70013,Arizona State
+2024,02/10,Firestorm Open,149,W,MD,9 - 0,Anthony Pavlov-Ramirez,88082,Embry-Riddle,Cody Foote,70013,Arizona State
+2024,02/10,Firestorm Open,149,W,MD,11 - 3,Peyton Proper,88051,Embry-Riddle,Cody Foote,70013,Arizona State
+2024,02/10,Firestorm Open,149,W,TF5,20 - 1 7:00,Noah Valenzuela,66582,Grand Canyon,Cody Foote,70013,Arizona State
+2024,02/10,Firestorm Open,149,L,CMFF,0 - 0,Matthew Buck,82742,Cal Baptist,Cody Foote,70013,Arizona State
+2024,02/10,Firestorm Open,149,L,DEC,8 - 3,Matthew Buck,82742,Cal Baptist,Cody Foote,70013,Arizona State
+2024,02/04,Oregon State - Arizona State Dual,141,L,TF5,20 - 4 6:10,Cleveland Belton,57334,Oregon State,Cody Foote,70013,Arizona State
+2024,02/02,Arizona State - Oklahoma State Dual,141,L,MD,16 - 5,Tagen Jamison,66962,Oklahoma State,Cody Foote,70013,Arizona State
+2024,01/21,Arizona State - Pittsburgh Dual,141,L,MD,10 - 2,Cole Matthews,50936,Pittsburgh,Cody Foote,70013,Arizona State
+2024,01/19,Arizona State - Little Rock Dual,141,W,DEC,5 - 4,Brennan Van Hoecke,74571,Little Rock,Cody Foote,70013,Arizona State
+2024,01/07,Arizona State - CSU Bakersfield Dual,141,W,MD,12 - 1,Mikey Folch,84507,CSU Bakersfield,Cody Foote,70013,Arizona State
+2024,01/05,Iowa State - Arizona State Dual,141,L,TF5,20 - 4 4:51,Anthony Echemendia,62882,Iowa State,Cody Foote,70013,Arizona State
+2024,12/29,Midlands Championships,141,L,FALL,0:36,Tyler Vasquez,76366,Princeton,Cody Foote,70013,Arizona State
+2024,12/29,Midlands Championships,141,L,SV-1,4 - 1,Shannon Hanna,57654,Campbell,Cody Foote,70013,Arizona State
+2024,12/17,Reno TOC,141,W,TF5,15 - 0 5:48,Kellen Kolka,90499,Umpqua Community College,Cody Foote,70013,Arizona State
+2024,12/17,Reno TOC,141,L,DEC,9 - 3,Krayle Stormer,77904,Oregon State,Cody Foote,70013,Arizona State
+2024,12/17,Reno TOC,141,L,DEC,4 - 1,Andrew Bloemhof,62861,Oklahoma State,Cody Foote,70013,Arizona State
+2024,11/19,Roadrunner Open,141,W,DEC,5 - 4,DJ Gillett,78496,Oregon State,Cody Foote,70013,Arizona State
+2024,11/19,Roadrunner Open,141,L,FALL,1:59,Nathan Aguilar,77905,Oregon State,Cody Foote,70013,Arizona State
+2024,11/19,Roadrunner Open,141,W,DEC,11 - 6,Mikey Folch,84507,CSU Bakersfield,Cody Foote,70013,Arizona State
+2024,11/19,Roadrunner Open,141,W,INJ,3:31,Darren Green,62886,Cal Baptist,Cody Foote,70013,Arizona State
+2024,11/19,Roadrunner Open,141,L,MD,11 - 2,Darren Green,62886,Cal Baptist,Cody Foote,70013,Arizona State
+2024,11/12,Journeymen Classic,141,L,FALL,2:58,Jaden Pepe,84310,Harvard,Cody Foote,70013,Arizona State
+2024,11/12,Journeymen Classic,141,L,TF5,21 - 6 6:27,Nico Nardone,71688,Pennsylvania,Cody Foote,70013,Arizona State
+2024,11/12,Journeymen Classic,141,L,MD,14 - 3,Zach Keal,62496,Army West Point,Cody Foote,70013,Arizona State
+2024,03/21,NCAA Championships,149,W,DEC,3 - 1,Ridge Lovett,57520,Nebraska,Kyle Parco,58562,Arizona State
+2024,03/21,NCAA Championships,149,L,FALL,6:48,Ty Watters,73868,West Virginia,Kyle Parco,58562,Arizona State
+2024,03/21,NCAA Championships,149,L,DEC,11 - 7,Austin Gomez,49153,Michigan,Kyle Parco,58562,Arizona State
+2024,03/21,NCAA Championships,149,W,MD,14 - 4,Chance Lamer,70915,Cal Poly,Kyle Parco,58562,Arizona State
+2024,03/21,NCAA Championships,149,W,DEC,4 - 2,Cody Bond,50267,Appalachian State,Kyle Parco,58562,Arizona State
+2024,03/21,NCAA Championships,149,W,DEC,5 - 4,Finn Solomon,73123,Pittsburgh,Kyle Parco,58562,Arizona State
+2024,03/10,PAC 12 Championships,149,W,MD,12 - 4,Nash Singleton,73038,Oregon State,Kyle Parco,58562,Arizona State
+2024,03/10,PAC 12 Championships,149,W,DEC,5 - 1,Chance Lamer,70915,Cal Poly,Kyle Parco,58562,Arizona State
+2024,02/25,Nebraska - Arizona State Dual,149,W,DEC,4 - 3,Ridge Lovett,57520,Nebraska,Kyle Parco,58562,Arizona State
+2024,02/24,Lehigh - Arizona State Dual,149,W,TF5,15 - 0 3:13,Drew Munch,63142,Lehigh,Kyle Parco,58562,Arizona State
+2024,02/17,Stanford - Arizona State Dual,149,W,DEC,5 - 1,Jaden Abas,56738,Stanford,Kyle Parco,58562,Arizona State
+2024,02/09,Arizona State - Cal Poly Dual,149,W,DEC,4 - 3,Chance Lamer,70915,Cal Poly,Kyle Parco,58562,Arizona State
+2024,02/04,Oregon State - Arizona State Dual,149,W,DEC,9 - 3,Nash Singleton,73038,Oregon State,Kyle Parco,58562,Arizona State
+2024,02/02,Arizona State - Oklahoma State Dual,149,W,DEC,8 - 5,Jordan Williams,73709,Oklahoma State,Kyle Parco,58562,Arizona State
+2024,01/21,Arizona State - Pittsburgh Dual,149,W,DEC,9 - 2,Finn Solomon,73123,Pittsburgh,Kyle Parco,58562,Arizona State
+2024,01/19,Arizona State - Little Rock Dual,149,W,DEC,4 - 0,Kyle Dutton,73067,Little Rock,Kyle Parco,58562,Arizona State
+2024,12/29,Midlands Championships,149,L,CMFF,0 - 0,Kannon Webster,80230,Illinois,Kyle Parco,58562,Arizona State
+2024,12/29,Midlands Championships,149,W,DEC,8 - 1,Matthew Repos,78916,Lehigh,Kyle Parco,58562,Arizona State
+2024,12/29,Midlands Championships,149,W,DEC,4 - 2,Andrew Troczynski,73134,Pennsylvania,Kyle Parco,58562,Arizona State
+2024,12/29,Midlands Championships,149,L,DEC,4 - 1,Ty Whalen,72988,NJRTC,Kyle Parco,58562,Arizona State
+2024,12/29,Midlands Championships,149,W,DEC,4 - 1,Dayne Morton,56980,Cal Baptist,Kyle Parco,58562,Arizona State
+2024,12/01,Cliff Keen Invitational,149,W,MD,14 - 3,Nash Singleton,73038,Oregon State,Kyle Parco,58562,Arizona State
+2024,12/01,Cliff Keen Invitational,149,W,MD,11 - 1,Ethan Fernandez,72088,Cornell,Kyle Parco,58562,Arizona State
+2024,12/01,Cliff Keen Invitational,149,W,DEC,4 - 2,Casey Swiderski,71913,Iowa State,Kyle Parco,58562,Arizona State
+2024,12/01,Cliff Keen Invitational,149,W,MD,11 - 1,Dylan D'Emilio,56726,Ohio State,Kyle Parco,58562,Arizona State
+2024,12/01,Cliff Keen Invitational,149,L,DEC,5 - 0,Caleb Henson,72656,Virginia Tech,Kyle Parco,58562,Arizona State
+2024,12/01,Cliff Keen Invitational,149,W,MD,11 - 0,Marcos Polanco,57653,Purdue,Kyle Parco,58562,Arizona State
+2024,11/19,Arizona State - Missouri Dual,149,W,DEC,8 - 2,Logan Gioffre,66985,Missouri,Kyle Parco,58562,Arizona State
+2024,11/11,Arizona State - Lock Haven Dual,149,W,MD,15 - 6,Nicholas Stonecheck,62691,Lock Haven,Kyle Parco,58562,Arizona State
+2024,11/11,Arizona State - North Carolina Dual,149,W,DEC,4 - 1,Jayden Scott,73860,North Carolina,Kyle Parco,58562,Arizona State
+2024,01/07,Arizona State - CSU Bakersfield Dual,149,W,MD,10 - 1,Brock Rogers,62863,CSU Bakersfield,Kaleb Larkin,73106,Arizona State
+2024,01/05,Iowa State - Arizona State Dual,149,W,FALL,0:48,Zach Redding,62726,Iowa State,Kaleb Larkin,73106,Arizona State
+2024,02/18,Cowboy Shootout,149,W,FALL,6:57,James Emmer,62436,Utah Valley,Mykey Ramos,71774,Arizona State
+2024,02/18,Cowboy Shootout,149,W,DEC,4 - 2,Warren Carr,67457,Wyoming,Mykey Ramos,71774,Arizona State
+2024,12/29,Midlands Championships,149,W,DEC,4 - 2,Jackson Polo,72985,Pennsylvania,Mykey Ramos,71774,Arizona State
+2024,12/29,Midlands Championships,149,L,DEC,12 - 11,Michael Gioffre,73019,Virginia,Mykey Ramos,71774,Arizona State
+2024,12/29,Midlands Championships,149,L,DEC,5 - 3,Douglas Terry,70741,Cleveland State,Mykey Ramos,71774,Arizona State
+2024,12/17,Reno TOC,149,W,DEC,5 - 2,Jonah Chew,77695,Embry-Riddle,Mykey Ramos,71774,Arizona State
+2024,12/17,Reno TOC,149,W,TF5,19 - 2 3:36,Georgino Moraga,77359,Montana State-Northern,Mykey Ramos,71774,Arizona State
+2024,12/17,Reno TOC,149,W,CMFF,0 - 0,Carter Young,71954,Oklahoma State,Mykey Ramos,71774,Arizona State
+2024,12/17,Reno TOC,149,L,DEC,8 - 6,Willie McDougald,67042,Oklahoma,Mykey Ramos,71774,Arizona State
+2024,12/17,Reno TOC,149,W,FALL,0:58,Brock Rogers,62863,CSU Bakersfield,Mykey Ramos,71774,Arizona State
+2024,12/17,Reno TOC,149,W,FALL,1:43,Colton Silva,84889,Cal Baptist,Mykey Ramos,71774,Arizona State
+2024,11/11,ERAU Mile High Open,149,W,DEC,8 - 6,Peyton Proper,88051,Embry-Riddle,Mykey Ramos,71774,Arizona State
+2024,11/11,ERAU Mile High Open,149,W,FALL,0:39,Jasper Centeno,88049,Cerritos College,Mykey Ramos,71774,Arizona State
+2024,11/11,ERAU Mile High Open,149,W,MD,9 - 1,Tomas Jacobo,82246,Simpson,Mykey Ramos,71774,Arizona State
+2024,11/11,ERAU Mile High Open,149,L,DEC,7 - 6,Ezekiel Lara,85804,Menlo,Mykey Ramos,71774,Arizona State
+2024,11/11,ERAU Mile High Open,149,L,MFOR,0 - 0,Rico Robles,82100,Arizona Christian,Mykey Ramos,71774,Arizona State
+2024,11/11,ERAU Mile High Open,149,W,TF5,17 - 1 7:00,Matthew Buck,82742,Cal Baptist,Mykey Ramos,71774,Arizona State
+2024,03/21,NCAA Championships,157,L,DEC,5 - 0,Levi Haines,72657,Penn State,Jacori Teemer,50581,Arizona State
+2024,03/21,NCAA Championships,157,W,MD,12 - 2,Daniel Cardenas,72978,Stanford,Jacori Teemer,50581,Arizona State
+2024,03/21,NCAA Championships,157,W,DEC,5 - 2,Jared Franek,50639,Iowa,Jacori Teemer,50581,Arizona State
+2024,03/21,NCAA Championships,157,W,SV-1,4 - 1,Cael Swensen,70926,South Dakota State,Jacori Teemer,50581,Arizona State
+2024,03/21,NCAA Championships,157,W,DEC,7 - 3,Matt Bianchi,72120,Little Rock,Jacori Teemer,50581,Arizona State
+2024,03/10,PAC 12 Championships,157,W,DEC,5 - 4,Daniel Cardenas,72978,Stanford,Jacori Teemer,50581,Arizona State
+2024,03/10,PAC 12 Championships,157,W,FALL,3:26,Legend Lamer,56776,Cal Poly,Jacori Teemer,50581,Arizona State
+2024,02/25,Nebraska - Arizona State Dual,157,W,DEC,7 - 2,Ethan Stiles,82465,Nebraska,Jacori Teemer,50581,Arizona State
+2024,02/24,Lehigh - Arizona State Dual,157,W,DEC,7 - 2,Max Brignola,73041,Lehigh,Jacori Teemer,50581,Arizona State
+2024,02/17,Stanford - Arizona State Dual,157,W,DEC,7 - 5,Daniel Cardenas,72978,Stanford,Jacori Teemer,50581,Arizona State
+2024,02/09,Arizona State - Cal Poly Dual,157,W,DEC,10 - 7,Legend Lamer,56776,Cal Poly,Jacori Teemer,50581,Arizona State
+2024,02/04,Oregon State - Arizona State Dual,157,W,MD,20 - 6,Isaiah Crosby,65258,Oregon State,Jacori Teemer,50581,Arizona State
+2024,02/02,Arizona State - Oklahoma State Dual,157,W,DEC,7 - 3,Teague Travis,63722,Oklahoma State,Jacori Teemer,50581,Arizona State
+2024,01/21,Arizona State - Pittsburgh Dual,157,W,TF5,21 - 6 6:33,Jared Keslar,72953,Pittsburgh,Jacori Teemer,50581,Arizona State
+2024,01/19,Arizona State - Little Rock Dual,157,W,DEC,10 - 4,Matt Bianchi,72120,Little Rock,Jacori Teemer,50581,Arizona State
+2024,01/07,Arizona State - CSU Bakersfield Dual,157,W,FALL,0:16,Devyn Flores-Che,79002,CSU Bakersfield,Jacori Teemer,50581,Arizona State
+2024,01/05,Iowa State - Arizona State Dual,157,L,DEC,9 - 5,Cody Chittum,60816,Iowa State,Jacori Teemer,50581,Arizona State
+2024,12/29,Midlands Championships,157,W,DEC,11 - 6,Trevor Chumbley,57938,Northwestern,Jacori Teemer,50581,Arizona State
+2024,12/29,Midlands Championships,157,W,SV-1,4 - 1,DJ McGee,78901,George Mason,Jacori Teemer,50581,Arizona State
+2024,12/29,Midlands Championships,157,W,DEC,17 - 13,Colton Washleski,72909,Rider,Jacori Teemer,50581,Arizona State
+2024,12/29,Midlands Championships,157,W,DEC,8 - 4,Isaac Ruble,78710,Purdue,Jacori Teemer,50581,Arizona State
+2024,12/29,Midlands Championships,157,W,FALL,0:12,Shane Heil,72593,Cleveland State,Jacori Teemer,50581,Arizona State
+2024,12/29,Midlands Championships,157,W,DEC,17 - 12,Brock Woodcock,78293,SIU Edwardsville,Jacori Teemer,50581,Arizona State
+2024,12/01,Cliff Keen Invitational,157,W,DEC,6 - 3,Chris Earnest,78840,Campbell,Jacori Teemer,50581,Arizona State
+2024,12/01,Cliff Keen Invitational,157,W,DEC,7 - 2,Ryder Downey,78639,Northern Iowa,Jacori Teemer,50581,Arizona State
+2024,12/01,Cliff Keen Invitational,157,L,DEC,6 - 4,Peyton Robb,56387,Nebraska,Jacori Teemer,50581,Arizona State
+2024,12/01,Cliff Keen Invitational,157,W,TF5,19 - 3 3:54,Brooks Gable,71707,Air Force,Jacori Teemer,50581,Arizona State
+2024,12/01,Cliff Keen Invitational,157,W,MD,14 - 6,Daniel Cardenas,72978,Stanford,Jacori Teemer,50581,Arizona State
+2024,11/11,Arizona State - Lock Haven Dual,157,L,INJ,1:14,Eric Alderfer,78522,Lock Haven,Jacori Teemer,50581,Arizona State
+2024,12/29,Midlands Championships,157,L,DEC,4 - 1,Rocco Camillaci,73321,Princeton,Michael Kilic,72091,Arizona State
+2024,12/29,Midlands Championships,157,L,DEC,7 - 4,Colton Washleski,72909,Rider,Michael Kilic,72091,Arizona State
+2024,12/29,Midlands Championships,157,W,MD,17 - 3,Aiden Smith,78927,Northern Illinois,Michael Kilic,72091,Arizona State
+2024,12/29,Midlands Championships,157,W,DEC,10 - 3,Munkhtulga Zuunbayan,64263,Northern Illinois,Michael Kilic,72091,Arizona State
+2024,11/19,Arizona State - Missouri Dual,157,L,TF5,21 - 5 6:21,Brock Mauller,50596,Missouri,Michael Kilic,72091,Arizona State
+2024,11/12,Journeymen Classic,157,L,FALL,1:56,Jude Swisher,73210,Pennsylvania,Michael Kilic,72091,Arizona State
+2024,11/12,Journeymen Classic,157,W,SV-1,8 - 5,Rhise Royster,62049,LIU,Michael Kilic,72091,Arizona State
+2024,11/12,Journeymen Classic,157,L,DEC,4 - 2,Oscar Aranda,73958,Army West Point,Michael Kilic,72091,Arizona State
+2024,11/11,Arizona State - North Carolina Dual,157,L,MD,11 - 3,Sonny Santiago,61113,North Carolina,Michael Kilic,72091,Arizona State
+2024,12/29,Midlands Championships,157,L,MD,16 - 2,Gavin Model,63172,Wisconsin,Ricky Roberto,67287,Arizona State
+2024,12/29,Midlands Championships,157,L,MD,10 - 0,Dylan Cedeno,63068,Virginia,Ricky Roberto,67287,Arizona State
+2024,03/10,PAC 12 Championships,165,L,DEC,11 - 4,Hunter Garvin,73862,Stanford,Chance McLane,57206,Arizona State
+2024,03/10,PAC 12 Championships,165,W,DEC,4 - 2,Guillermo Escobedo,66969,CSU Bakersfield,Chance McLane,57206,Arizona State
+2024,03/10,PAC 12 Championships,165,W,MD,14 - 1,Kekana Fouret,61652,Oregon State,Chance McLane,57206,Arizona State
+2024,03/10,PAC 12 Championships,165,W,MD,12 - 2,Michael Goldfeder,57128,Cal Poly,Chance McLane,57206,Arizona State
+2024,02/25,Nebraska - Arizona State Dual,165,L,DEC,11 - 5,Antrell Taylor,72966,Nebraska,Chance McLane,57206,Arizona State
+2024,02/24,Lehigh - Arizona State Dual,165,W,DEC,8 - 1,Jake Logan,57185,Lehigh,Chance McLane,57206,Arizona State
+2024,02/17,Stanford - Arizona State Dual,165,L,SV-1,4 - 1,Hunter Garvin,73862,Stanford,Chance McLane,57206,Arizona State
+2024,02/09,Arizona State - Cal Poly Dual,165,W,MD,11 - 2,Michael Goldfeder,57128,Cal Poly,Chance McLane,57206,Arizona State
+2024,02/04,Oregon State - Arizona State Dual,165,W,DEC,5 - 1,Kekana Fouret,61652,Oregon State,Chance McLane,57206,Arizona State
+2024,02/02,Arizona State - Oklahoma State Dual,165,L,DEC,5 - 0,Izzak Olejnik,56509,Oklahoma State,Chance McLane,57206,Arizona State
+2024,01/21,Arizona State - Pittsburgh Dual,165,W,DEC,4 - 1,Holden Heller,50940,Pittsburgh,Chance McLane,57206,Arizona State
+2024,01/19,Arizona State - Little Rock Dual,165,L,SV-1,11 - 8,Joseph Bianchi,62836,Little Rock,Chance McLane,57206,Arizona State
+2024,12/01,Cliff Keen Invitational,165,W,INJ,1:54,Connor Gaynor,72168,South Dakota State,Chance McLane,57206,Arizona State
+2024,12/01,Cliff Keen Invitational,165,L,MD,8 - 0,Giano Petrucelli,62610,Air Force,Chance McLane,57206,Arizona State
+2024,12/01,Cliff Keen Invitational,165,L,DEC,12 - 7,Will Miller,73102,Appalachian State,Chance McLane,57206,Arizona State
+2024,11/19,Arizona State - Missouri Dual,165,L,MD,20 - 6,Keegan O'Toole,61119,Missouri,Chance McLane,57206,Arizona State
+2024,11/12,Journeymen Classic,165,L,MD,11 - 3,Derek Fields,71932,NC State,Chance McLane,57206,Arizona State
+2024,11/12,Journeymen Classic,165,W,DEC,7 - 1,AJ Kovacs,62442,NC State,Chance McLane,57206,Arizona State
+2024,11/12,Journeymen Classic,165,L,DEC,4 - 2,Jake Logan,57185,Lehigh,Chance McLane,57206,Arizona State
+2024,11/11,Arizona State - Lock Haven Dual,165,W,DEC,8 - 7,Avery Bassett,71835,Lock Haven,Chance McLane,57206,Arizona State
+2024,11/11,Arizona State - North Carolina Dual,165,W,MD,14 - 3,Isaias Estrada,72152,North Carolina,Chance McLane,57206,Arizona State
+2024,02/10,Firestorm Open,174,W,TF5,17 - 0 7:00,Zach Lange,92885,Grand Canyon,Nicco Ruiz,78681,Arizona State
+2024,02/10,Firestorm Open,174,W,TF5,16 - 0 7:00,Thomas Stadel,88390,Embry-Riddle,Nicco Ruiz,78681,Arizona State
+2024,02/10,Firestorm Open,174,W,FALL,1:56,Justin Phillips,57093,Cal Baptist,Nicco Ruiz,78681,Arizona State
+2024,02/04,Oregon State - Arizona State Dual,174,W,DEC,6 - 3,Matthew Olguin,57218,Oregon State,Nicco Ruiz,78681,Arizona State
+2024,01/05,Iowa State - Arizona State Dual,165,L,TF5,20 - 4 5:36,David Carr,51126,Iowa State,Nicco Ruiz,78681,Arizona State
+2024,12/17,Reno TOC,165,W,FALL,2:09,Isaiah Anderson,73132,Oregon State,Nicco Ruiz,78681,Arizona State
+2024,12/17,Reno TOC,165,W,DEC,8 - 1,Mannix Morgan,72092,Oklahoma,Nicco Ruiz,78681,Arizona State
+2024,12/17,Reno TOC,165,W,TF5,16 - 1 7:00,Brett McIntosh,62757,Wyoming,Nicco Ruiz,78681,Arizona State
+2024,12/17,Reno TOC,165,W,TF5,19 - 3 6:05,Devin Crawford,61979,Montana State-Northern,Nicco Ruiz,78681,Arizona State
+2024,12/17,Reno TOC,165,W,DEC,5 - 2,Cael Carlson,57337,Oklahoma,Nicco Ruiz,78681,Arizona State
+2024,11/12,Journeymen Classic,165,L,DEC,14 - 10,Mitchell Mesenbrink,73197,Penn State,Nicco Ruiz,78681,Arizona State
+2024,11/12,Journeymen Classic,165,W,TF5,19 - 3 6:06,Eric Shindel,73026,Hofstra,Nicco Ruiz,78681,Arizona State
+2024,11/12,Journeymen Classic,165,W,MD,11 - 0,Dakota Morris,73960,Army West Point,Nicco Ruiz,78681,Arizona State
+2024,03/21,NCAA Championships,174,L,DEC,14 - 9,Max Maylor,56310,Wisconsin,Cael Valencia,70908,Arizona State
+2024,03/21,NCAA Championships,174,L,MD,14 - 3,Mekhi Lewis,49338,Virginia Tech,Cael Valencia,70908,Arizona State
+2024,03/21,NCAA Championships,174,W,DEC,5 - 0,Brody Baumann,73558,Purdue,Cael Valencia,70908,Arizona State
+2024,03/10,PAC 12 Championships,174,W,MD,16 - 5,Thor Michaelson,84365,Stanford,Cael Valencia,70908,Arizona State
+2024,03/10,PAC 12 Championships,174,W,MD,16 - 4,Mason Reiniche,67415,Oregon State,Cael Valencia,70908,Arizona State
+2024,03/10,PAC 12 Championships,174,L,DEC,4 - 3,Adam Kemp,57045,Cal Poly,Cael Valencia,70908,Arizona State
+2024,02/25,Nebraska - Arizona State Dual,174,L,DEC,1 - 0,Bubba Wilson,57936,Nebraska,Cael Valencia,70908,Arizona State
+2024,02/24,Lehigh - Arizona State Dual,174,W,MD,8 - 0,Connor Herceg,63054,Lehigh,Cael Valencia,70908,Arizona State
+2024,02/17,Stanford - Arizona State Dual,174,L,DEC,9 - 4,Tye Monteiro,79281,Stanford,Cael Valencia,70908,Arizona State
+2024,02/09,Arizona State - Cal Poly Dual,174,W,MD,21 - 8,Daniel Vizcarra,59546,Cal Poly,Cael Valencia,70908,Arizona State
+2024,02/02,Arizona State - Oklahoma State Dual,174,L,MD,11 - 2,Brayden Thompson,78507,Oklahoma State,Cael Valencia,70908,Arizona State
+2024,01/21,Arizona State - Pittsburgh Dual,174,L,MD,14 - 2,Luca Augustine,68730,Pittsburgh,Cael Valencia,70908,Arizona State
+2024,01/19,Arizona State - Little Rock Dual,174,L,DEC,6 - 0,Tyler Brennan,62844,Little Rock,Cael Valencia,70908,Arizona State
+2024,01/07,Arizona State - CSU Bakersfield Dual,174,W,DEC,5 - 1,Augustine Garcia,69363,CSU Bakersfield,Cael Valencia,70908,Arizona State
+2024,01/05,Iowa State - Arizona State Dual,174,L,DEC,8 - 4,MJ Gaitan,78494,Iowa State,Cael Valencia,70908,Arizona State
+2024,12/29,Midlands Championships,174,W,DEC,10 - 7,Marty Larkin,69873,Michigan State,Cael Valencia,70908,Arizona State
+2024,12/29,Midlands Championships,174,L,SV-1,6 - 3,Alex Cramer,56732,Central Michigan,Cael Valencia,70908,Arizona State
+2024,12/29,Midlands Championships,174,W,MD,16 - 2,Dominic Lopez,85352,SIU Edwardsville,Cael Valencia,70908,Arizona State
+2024,12/29,Midlands Championships,174,L,MD,11 - 1,Jared Stricker,73852,Wisconsin-Eau Claire,Cael Valencia,70908,Arizona State
+2024,12/01,Cliff Keen Invitational,174,L,FALL,3:59,Austin Murphy,51608,Campbell,Cael Valencia,70908,Arizona State
+2024,12/01,Cliff Keen Invitational,174,L,SV-1,8 - 5,Sal Perrine,73171,Ohio,Cael Valencia,70908,Arizona State
+2024,12/01,Cliff Keen Invitational,174,W,DEC,9 - 4,Brody Baumann,73558,Purdue,Cael Valencia,70908,Arizona State
+2024,12/01,Cliff Keen Invitational,174,W,SV-1,11 - 8,Ross McFarland,62209,Hofstra,Cael Valencia,70908,Arizona State
+2024,11/12,Journeymen Classic,184,W,SV-1,9 - 6,James Rowley,73715,Purdue,Cael Valencia,70908,Arizona State
+2024,11/12,Journeymen Classic,184,L,FALL,4:35,Maximus Hale,63719,Pennsylvania,Cael Valencia,70908,Arizona State
+2024,11/12,Journeymen Classic,184,L,MD,17 - 4,Bernie Truax,51133,Penn State,Cael Valencia,70908,Arizona State
+2024,02/02,Arizona State - Oklahoma State Dual,184,L,FALL,2:33,Dustin Plott,57607,Oklahoma State,Maxwell Wilner,63168,Arizona State
+2024,01/07,Arizona State - CSU Bakersfield Dual,165,W,DEC,3 - 2,Guillermo Escobedo,66969,CSU Bakersfield,Maxwell Wilner,63168,Arizona State
+2024,11/19,Arizona State - Missouri Dual,174,L,TF5,20 - 5 4:24,Peyton Mocco,50635,Missouri,Maxwell Wilner,63168,Arizona State
+2024,11/12,Journeymen Classic,174,L,MFOR,0 - 0,Orlando Cruz,84359,Purdue,Maxwell Wilner,63168,Arizona State
+2024,11/12,Journeymen Classic,174,L,MFOR,0 - 0,Luke Rada,67359,Harvard,Maxwell Wilner,63168,Arizona State
+2024,11/12,Journeymen Classic,174,L,CMFF,0 - 0,Carter Starocci,58819,Penn State,Maxwell Wilner,63168,Arizona State
+2024,11/11,Arizona State - Lock Haven Dual,174,W,DEC,7 - 2,Johnny Miller,78738,Lock Haven,Maxwell Wilner,63168,Arizona State
+2024,11/11,Arizona State - North Carolina Dual,174,W,SV-1,4 - 1,Sabino Portella,78698,North Carolina,Maxwell Wilner,63168,Arizona State
+2024,03/21,NCAA Championships,184,L,FALL,5:00,Reece Heller,61961,Pittsburgh,Tony Negron,58308,Arizona State
+2024,03/21,NCAA Championships,184,L,DEC,2 - 1,Isaiah Salazar,62340,Minnesota,Tony Negron,58308,Arizona State
+2024,03/10,PAC 12 Championships,184,W,DEC,3 - 0,Jack Darrah,73242,Stanford,Tony Negron,58308,Arizona State
+2024,03/10,PAC 12 Championships,184,L,DEC,8 - 3,Trey Munoz,59555,Oregon State,Tony Negron,58308,Arizona State
+2024,02/25,Nebraska - Arizona State Dual,184,L,DEC,7 - 4,Lenny Pinto,63137,Nebraska,Tony Negron,58308,Arizona State
+2024,02/24,Lehigh - Arizona State Dual,184,L,DEC,10 - 5,Jack Wilt,73042,Lehigh,Tony Negron,58308,Arizona State
+2024,02/17,Stanford - Arizona State Dual,184,W,DEC,6 - 3,Jack Darrah,73242,Stanford,Tony Negron,58308,Arizona State
+2024,02/09,Arizona State - Cal Poly Dual,184,W,DEC,6 - 3,Kendall LaRosa,66261,Cal Poly,Tony Negron,58308,Arizona State
+2024,01/07,Arizona State - CSU Bakersfield Dual,184,W,FALL,3:49,Braden Smelser,70199,CSU Bakersfield,Tony Negron,58308,Arizona State
+2024,01/05,Iowa State - Arizona State Dual,184,L,DEC,12 - 7,Will Feldkamp,51599,Iowa State,Tony Negron,58308,Arizona State
+2024,12/29,Midlands Championships,184,W,MD,11 - 1,Misha Lomboy,79319,Michigan State,Tony Negron,58308,Arizona State
+2024,12/29,Midlands Championships,184,L,DEC,5 - 1,Shane Liegel,66103,Wisconsin,Tony Negron,58308,Arizona State
+2024,12/29,Midlands Championships,184,W,DEC,5 - 2,Leonardo Tarantino,51222,Harvard,Tony Negron,58308,Arizona State
+2024,12/29,Midlands Championships,184,L,MD,14 - 6,Dakota Howard,51202,Virginia Tech,Tony Negron,58308,Arizona State
+2024,12/29,Midlands Championships,184,W,DEC,2 - 1,Chase Kranitz,73700,Buffalo,Tony Negron,58308,Arizona State
+2024,12/01,Cliff Keen Invitational,184,W,DEC,4 - 1,Jaden Bullock,67035,Michigan,Tony Negron,58308,Arizona State
+2024,12/01,Cliff Keen Invitational,184,L,FALL,4:17,Trey Munoz,59555,Oregon State,Tony Negron,58308,Arizona State
+2024,12/01,Cliff Keen Invitational,184,L,DEC,12 - 6,Zayne Lehman,71781,Ohio,Tony Negron,58308,Arizona State
+2024,11/19,Arizona State - Missouri Dual,184,L,MD,16 - 3,Clayton Whiting,72552,Missouri,Tony Negron,58308,Arizona State
+2024,11/12,Journeymen Classic,184,W,MD,12 - 4,Aiden Hanning,74562,Cornell,Tony Negron,58308,Arizona State
+2024,11/12,Journeymen Classic,184,W,MD,12 - 2,Alex Whitworth,71873,Harvard,Tony Negron,58308,Arizona State
+2024,11/12,Journeymen Classic,184,W,DEC,5 - 1,Donovan Ball,57646,Penn State,Tony Negron,58308,Arizona State
+2024,11/11,Arizona State - Lock Haven Dual,184,W,TF5,18 - 3 6:40,Cael Black,78740,Lock Haven,Tony Negron,58308,Arizona State
+2024,11/11,Arizona State - North Carolina Dual,184,W,DEC,6 - 4,Gavin Kane,62429,North Carolina,Tony Negron,58308,Arizona State
+2024,02/04,Oregon State - Arizona State Dual,184,L,TF5,25 - 8 6:03,Trey Munoz,59555,Oregon State,Shay Addison,78500,Arizona State
+2024,01/21,Arizona State - Pittsburgh Dual,184,L,TF5,21 - 5 5:50,Reece Heller,61961,Pittsburgh,Shay Addison,78500,Arizona State
+2024,01/19,Arizona State - Little Rock Dual,184,L,MD,13 - 5,Triston Wills,58611,Little Rock,Shay Addison,78500,Arizona State
+2024,12/29,Midlands Championships,174,L,DEC,6 - 0,Phillip Conigliaro,51201,Harvard,Shay Addison,78500,Arizona State
+2024,12/29,Midlands Championships,174,L,DEC,9 - 5,Paul Pierce,56165,George Mason,Shay Addison,78500,Arizona State
+2024,12/17,Reno TOC,174,W,FALL,2:07,Tyson Stover,83250,Corban University,Shay Addison,78500,Arizona State
+2024,12/17,Reno TOC,174,W,TF5,17 - 2 4:55,Alex Hernandez,82185,Southern Oregon,Shay Addison,78500,Arizona State
+2024,12/17,Reno TOC,174,L,DEC,9 - 6,Alex Reynolds,74751,Grand View,Shay Addison,78500,Arizona State
+2024,12/17,Reno TOC,174,L,DEC,4 - 2,Gerrit Nijenhuis,62352,Oklahoma,Shay Addison,78500,Arizona State
+2024,02/10,Firestorm Open,197,L,DEC,11 - 8,Kai Argyros,81231,Arizona State,Luke Izaak,84524,Arizona State
+2024,02/10,Firestorm Open,197,W,TF5,20 - 4 7:00,Ryan Narrozzi,92886,Ottawa,Luke Izaak,84524,Arizona State
+2024,02/10,Firestorm Open,197,L,FALL,2:18,Jett Swain,87390,Embry-Riddle,Luke Izaak,84524,Arizona State
+2024,11/12,Journeymen Classic,184,L,MD,13 - 0,Will Conlon,84816,Hofstra,Luke Izaak,84524,Arizona State
+2024,11/12,Journeymen Classic,184,L,TF5,17 - 2 3:00,Jack Wilt,73042,Lehigh,Luke Izaak,84524,Arizona State
+2024,11/12,Journeymen Classic,184,L,TF5,19 - 4 5:00,Jake Stefanowicz,57039,Pennsylvania,Luke Izaak,84524,Arizona State
+2024,03/10,PAC 12 Championships,197,W,FALL,4:50,Ryan Arrington,79005,CSU Bakersfield,Jacob Meissner,78354,Arizona State
+2024,03/10,PAC 12 Championships,197,L,TF5,19 - 4 6:34,Nick Stemmet,63032,Stanford,Jacob Meissner,78354,Arizona State
+2024,03/10,PAC 12 Championships,197,L,SV-1,5 - 2,Jarad Priest,62329,Cal Poly,Jacob Meissner,78354,Arizona State
+2024,02/25,Nebraska - Arizona State Dual,197,L,TF5,21 - 6 4:35,Silas Allred,62343,Nebraska,Jacob Meissner,78354,Arizona State
+2024,02/09,Arizona State - Cal Poly Dual,197,L,MD,11 - 3,Jarad Priest,62329,Cal Poly,Jacob Meissner,78354,Arizona State
+2024,02/04,Oregon State - Arizona State Dual,197,L,MD,15 - 3,Justin Rademacher,78725,Oregon State,Jacob Meissner,78354,Arizona State
+2024,02/02,Arizona State - Oklahoma State Dual,197,L,MD,17 - 4,Luke Surber,62347,Oklahoma State,Jacob Meissner,78354,Arizona State
+2024,01/21,Arizona State - Pittsburgh Dual,197,L,MD,11 - 2,Mac Stout,72505,Pittsburgh,Jacob Meissner,78354,Arizona State
+2024,01/19,Arizona State - Little Rock Dual,197,L,TF5,25 - 10 7:00,Stephen Little,73285,Little Rock,Jacob Meissner,78354,Arizona State
+2024,01/07,Arizona State - CSU Bakersfield Dual,197,W,DEC,8 - 2,Ryan Arrington,79005,CSU Bakersfield,Jacob Meissner,78354,Arizona State
+2024,01/05,Iowa State - Arizona State Dual,197,L,DEC,11 - 4,Julien Broderson,57644,Iowa State,Jacob Meissner,78354,Arizona State
+2024,12/29,Midlands Championships,197,L,DEC,5 - 1,Andy Smith,63528,Virginia Tech,Jacob Meissner,78354,Arizona State
+2024,12/29,Midlands Championships,197,L,DEC,4 - 2,Sungyup Ryu,62737,Illinois,Jacob Meissner,78354,Arizona State
+2024,11/12,Journeymen Classic,197,L,CMFF,0 - 0,Ben Vanadia,68732,Purdue,Jacob Meissner,78354,Arizona State
+2024,11/12,Journeymen Classic,197,L,DEC,11 - 5,John Crawford,62873,Franklin & Marshall,Jacob Meissner,78354,Arizona State
+2024,11/12,Journeymen Classic,197,L,FALL,4:43,Aaron Brooks,54280,Penn State,Jacob Meissner,78354,Arizona State
+2024,11/11,Arizona State - Lock Haven Dual,197,W,DEC,5 - 3,Brad Morrison,78739,Lock Haven,Jacob Meissner,78354,Arizona State
+2024,11/11,Arizona State - North Carolina Dual,197,L,MD,9 - 1,Max Shaw,61959,North Carolina,Jacob Meissner,78354,Arizona State
+2024,02/10,Firestorm Open,197,W,FALL,1:20,Ryan Narrozzi,92886,Ottawa,Kai Argyros,81231,Arizona State
+2024,02/10,Firestorm Open,197,L,INJ,4:15,Jett Swain,87390,Embry-Riddle,Kai Argyros,81231,Arizona State
+2024,02/10,Firestorm Open,197,W,DEC,11 - 8,Luke Izaak,84524,Arizona State,Kai Argyros,81231,Arizona State
+2024,11/19,Arizona State - Missouri Dual,197,L,TF5,19 - 4 6:31,Colton Hawks,62375,Missouri,Kai Argyros,81231,Arizona State
+2024,11/11,ERAU Mile High Open,197,W,DEC,5 - 2,Rylee Creasey,88050,Snow College,Kai Argyros,81231,Arizona State
+2024,11/11,ERAU Mile High Open,197,L,MD,11 - 2,Jett Swain,87390,Embry-Riddle,Kai Argyros,81231,Arizona State
+2024,11/11,ERAU Mile High Open,197,L,FALL,2:41,Kolton Kammeyer,86372,Doane College,Kai Argyros,81231,Arizona State
+2024,11/11,ERAU Mile High Open,197,W,FALL,2:14,Ryan Nardozzi,77935,Ottawa,Kai Argyros,81231,Arizona State
+2024,11/11,ERAU Mile High Open,197,W,DEC,10 - 3,Michael Moreno,77698,Arizona Christian,Kai Argyros,81231,Arizona State
+2024,03/21,NCAA Championships,285,L,DEC,11 - 4,Nick Feldman,64017,Ohio State,Cohlton Schultz,56899,Arizona State
+2024,03/21,NCAA Championships,285,L,DEC,1 - 0,Zach Elam,51612,Missouri,Cohlton Schultz,56899,Arizona State
+2024,03/21,NCAA Championships,285,L,DEC,8 - 1,Greg Kerkvliet,61842,Penn State,Cohlton Schultz,56899,Arizona State
+2024,03/21,NCAA Championships,285,W,SV-1,4 - 1,Nathan Taylor,73044,Lehigh,Cohlton Schultz,56899,Arizona State
+2024,03/21,NCAA Championships,285,W,DEC,3 - 1,Yaraslau Slavikouski,62196,Rutgers,Cohlton Schultz,56899,Arizona State
+2024,03/21,NCAA Championships,285,W,DEC,10 - 3,Nash Hutmacher,92047,Nebraska,Cohlton Schultz,56899,Arizona State
+2024,03/10,PAC 12 Championships,285,W,FALL,1:05,Josiah Hill,65931,Little Rock,Cohlton Schultz,56899,Arizona State
+2024,03/10,PAC 12 Championships,285,W,FALL,1:01,Boone McDermott,56898,Oregon State,Cohlton Schultz,56899,Arizona State
+2024,02/17,Stanford - Arizona State Dual,285,W,FALL,4:52,Peter Ming,62611,Stanford,Cohlton Schultz,56899,Arizona State
+2024,02/09,Arizona State - Cal Poly Dual,285,W,MD,16 - 2,Cole Jackson,71581,Cal Poly,Cohlton Schultz,56899,Arizona State
+2024,02/04,Oregon State - Arizona State Dual,285,W,DEC,5 - 2,Boone McDermott,56898,Oregon State,Cohlton Schultz,56899,Arizona State
+2024,02/02,Arizona State - Oklahoma State Dual,285,W,SV-1,4 - 1,Konner Doucet,57801,Oklahoma State,Cohlton Schultz,56899,Arizona State
+2024,01/21,Arizona State - Pittsburgh Dual,285,W,INJ,6:30,Dayton Pitzer,72598,Pittsburgh,Cohlton Schultz,56899,Arizona State
+2024,01/19,Arizona State - Little Rock Dual,285,W,DEC,5 - 2,Josiah Hill,65931,Little Rock,Cohlton Schultz,56899,Arizona State
+2024,01/07,Arizona State - CSU Bakersfield Dual,285,W,TF5,17 - 2 3:00,Jake Andrews,73174,CSU Bakersfield,Cohlton Schultz,56899,Arizona State
+2024,01/05,Iowa State - Arizona State Dual,285,L,DEC,4 - 3,Yonger Bastida,70963,Iowa State,Cohlton Schultz,56899,Arizona State
+2024,02/24,Lehigh - Arizona State Dual,197,L,TF5,21 - 6 2:52,Michael Beard,50614,Lehigh,Damion Schunke,77761,Arizona State
+2024,02/17,Stanford - Arizona State Dual,197,L,TF5,20 - 3 5:49,Nick Stemmet,63032,Stanford,Damion Schunke,77761,Arizona State
+2024,12/29,Midlands Championships,197,L,TF5,18 - 2 7:00,Martin Cosgrove,72983,Pennsylvania,Damion Schunke,77761,Arizona State
+2024,12/29,Midlands Championships,197,L,FALL,4:54,JT Davis,65763,Lehigh,Damion Schunke,77761,Arizona State
+2024,12/29,Midlands Championships,197,W,DEC,12 - 8,Nick Nosler,83329,SIU Edwardsville,Damion Schunke,77761,Arizona State
+2024,12/01,Cliff Keen Invitational,285,L,DEC,6 - 2,Jose Valdez,78054,Northern Iowa,Damion Schunke,77761,Arizona State
+2024,12/01,Cliff Keen Invitational,285,L,FALL,0:40,Boone McDermott,56898,Oregon State,Damion Schunke,77761,Arizona State
+2024,11/19,Arizona State - Missouri Dual,285,L,FALL,1:28,Zach Elam,51612,Missouri,Damion Schunke,77761,Arizona State
+2024,11/12,Journeymen Classic,285,W,FALL,3:59,Tyler O'Boyle,78097,Franklin & Marshall,Damion Schunke,77761,Arizona State
+2024,11/12,Journeymen Classic,285,L,FALL,2:24,Isaiah Vance,74016,Pitt-Johnstown,Damion Schunke,77761,Arizona State
+2024,11/12,Journeymen Classic,285,L,DEC,1 - 0,Aeden Begue,72233,LIU,Damion Schunke,77761,Arizona State
+2024,11/11,Arizona State - North Carolina Dual,285,L,DEC,5 - 1,Cade Lautt,69676,North Carolina,Damion Schunke,77761,Arizona State
+2024,12/01,Cliff Keen Invitational,197,L,MD,11 - 3,Cael Crebs,72190,Navy,Tarik Sutkovic,64925,Arizona State
+2024,12/01,Cliff Keen Invitational,197,L,TF5,15 - 0 2:30,Max Shaw,61959,North Carolina,Tarik Sutkovic,64925,Arizona State
+2024,11/12,Journeymen Classic,285,W,DEC,10 - 6,Tyler McCatharn,79217,Bloomsburg,Tarik Sutkovic,64925,Arizona State
+2024,11/12,Journeymen Classic,285,W,TB-2,4 - 2,Adrian Sans,78803,Hofstra,Tarik Sutkovic,64925,Arizona State
+2024,11/12,Journeymen Classic,285,L,DEC,4 - 2,John Stout,60543,Pennsylvania,Tarik Sutkovic,64925,Arizona State
+2024,11/11,Arizona State - Lock Haven Dual,285,L,MD,9 - 1,Isaac Reid,50915,Lock Haven,Tarik Sutkovic,64925,Arizona State

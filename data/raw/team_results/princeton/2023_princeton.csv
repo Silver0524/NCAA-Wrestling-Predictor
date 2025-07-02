@@ -1,0 +1,420 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2023,03/16,NCAA Championships,125,W,DEC,4 - 1,Matt Ramos,57134,Purdue,Patrick Glory,51100,Princeton
+2023,03/16,NCAA Championships,125,W,DEC,8 - 2,Liam Cronin,45061,Nebraska,Patrick Glory,51100,Princeton
+2023,03/16,NCAA Championships,125,W,DEC,8 - 4,Brandon Courtney,50881,Arizona State,Patrick Glory,51100,Princeton
+2023,03/16,NCAA Championships,125,W,MD,10 - 0,Brett Ungar,68705,Cornell,Patrick Glory,51100,Princeton
+2023,03/16,NCAA Championships,125,W,FALL,0:32,Reece Witcraft,57312,Oklahoma State,Patrick Glory,51100,Princeton
+2023,03/04,EIWA Championships,125,W,MD,12 - 0,Ryan Miller,62350,Pennsylvania,Patrick Glory,51100,Princeton
+2023,03/04,EIWA Championships,125,W,DEC,2 - 0,Brett Ungar,68705,Cornell,Patrick Glory,51100,Princeton
+2023,03/04,EIWA Championships,125,W,FALL,1:36,Mike Manta,79721,Sacred Heart,Patrick Glory,51100,Princeton
+2023,03/04,EIWA Championships,125,W,MD,8 - 0,Carter Bailey,73039,Lehigh,Patrick Glory,51100,Princeton
+2023,02/11,Lehigh - Princeton Dual,125,W,DEC,12 - 5,Carter Bailey,73039,Lehigh,Patrick Glory,51100,Princeton
+2023,02/10,Princeton - Pennsylvania Dual,125,W,DEC,8 - 6,Ryan Miller,62350,Pennsylvania,Patrick Glory,51100,Princeton
+2023,02/04,Princeton - Binghamton Dual,125,W,MD,13 - 3,Micah Roes,67299,Binghamton,Patrick Glory,51100,Princeton
+2023,02/04,Princeton - Cornell Dual,125,W,MD,10 - 2,Brett Ungar,68705,Cornell,Patrick Glory,51100,Princeton
+2023,01/28,Brown - Princeton Dual,133,W,DEC,10 - 3,Hunter Adrian,65842,Brown,Patrick Glory,51100,Princeton
+2023,01/27,Harvard - Princeton Dual,133,W,FALL,5:24,Beau Bayless,59670,Harvard,Patrick Glory,51100,Princeton
+2023,01/21,Rider - Princeton Dual,133,W,DEC,9 - 4,Richie Koehler,51648,Rider,Patrick Glory,51100,Princeton
+2023,01/20,Princeton - Columbia Dual,133,W,DEC,7 - 3,Angelo Rini,56766,Columbia,Patrick Glory,51100,Princeton
+2023,01/15,Princeton - Arizona State Dual,125,W,DEC,8 - 3,Brandon Courtney,50881,Arizona State,Patrick Glory,51100,Princeton
+2023,01/13,Princeton - Oregon State Dual,125,W,DEC,7 - 2,Brandon Kaylor,51198,Oregon State,Patrick Glory,51100,Princeton
+2023,12/11,Rutgers - Princeton Dual,125,W,DEC,4 - 1,Dean Peterson,72936,Rutgers,Patrick Glory,51100,Princeton
+2023,11/06,Princeton Open,125,W,DEC,6 - 5,Dean Peterson,72936,Rutgers,Patrick Glory,51100,Princeton
+2023,11/06,Princeton Open,125,W,TF5,15 - 0 1:50,Nieko Malone,72910,Rider,Patrick Glory,51100,Princeton
+2023,11/06,Princeton Open,125,W,DEC,11 - 9,Dylan Shawver,61767,Rutgers,Patrick Glory,51100,Princeton
+2023,11/06,Princeton Open,125,W,TF5,15 - 0 6:08,Ben Monn,69708,George Mason,Patrick Glory,51100,Princeton
+2023,11/06,Princeton Open,125,W,FALL,1:48,D'angelo Pruitt,81060,Emmanuel,Patrick Glory,51100,Princeton
+2023,02/17,Princeton - Bucknell Dual,125,W,DEC,11 - 4,Grayson McLellan,79295,Bucknell,Nick Kayal,65849,Princeton
+2023,01/27,Harvard - Princeton Dual,125,L,DEC,6 - 0,Diego Sotelo,71874,Harvard,Nick Kayal,65849,Princeton
+2023,01/21,Rider - Princeton Dual,125,L,SV-1,6 - 4,Tyler Klinsky,62353,Rider,Nick Kayal,65849,Princeton
+2023,01/20,Princeton - Columbia Dual,125,L,FALL,1:59,Nick Babin,65929,Columbia,Nick Kayal,65849,Princeton
+2023,01/15,ASU Princeton ECM,125,L,DEC,9 - 5,Richard Figueroa,61129,Arizona State,Nick Kayal,65849,Princeton
+2023,01/06,David Lehman Open,125,L,SV-1,7 - 5,Spencer Moore,68720,North Carolina,Nick Kayal,65849,Princeton
+2023,01/06,David Lehman Open,125,L,MD,12 - 2,Jack Wagner,44755,North Carolina,Nick Kayal,65849,Princeton
+2023,01/06,David Lehman Open,125,W,DEC,5 - 2,Jaret Lane,50909,Lehigh,Nick Kayal,65849,Princeton
+2023,01/06,David Lehman Open,125,W,TF5,16 - 0 4:33,Hale Robinson,70746,Davidson,Nick Kayal,65849,Princeton
+2023,01/06,David Lehman Open,125,W,DEC,6 - 3,Quinn Melofchik,61895,Air Force,Nick Kayal,65849,Princeton
+2023,12/29,Midlands Championships,125,L,DEC,10 - 3,Killian Cardinale,49268,West Virginia,Nick Kayal,65849,Princeton
+2023,12/29,Midlands Championships,125,L,DEC,9 - 2,Dylan Shawver,61767,Rutgers,Nick Kayal,65849,Princeton
+2023,12/29,Midlands Championships,125,W,DEC,7 - 6,Michael Spangler,60212,Indiana,Nick Kayal,65849,Princeton
+2023,12/29,Midlands Championships,125,W,DEC,3 - 2,Jared Brunner,76391,Brown,Nick Kayal,65849,Princeton
+2023,03/04,EIWA Championships,133,L,MD,15 - 4,Michael Colaiocco,56733,Pennsylvania,Sean Pierson,60443,Princeton
+2023,03/04,EIWA Championships,133,L,DEC,8 - 4,Kaelen Francois,73404,LIU,Sean Pierson,60443,Princeton
+2023,01/21,Rider - Princeton Dual,141,L,MD,11 - 1,McKenzie Bell,67375,Rider,Sean Pierson,60443,Princeton
+2023,01/15,Princeton - Arizona State Dual,133,L,TF5,20 - 3 4:10,Michael McGee,49264,Arizona State,Sean Pierson,60443,Princeton
+2023,01/13,Princeton - Oregon State Dual,133,L,DEC,14 - 7,Jason Shaner Jr,56244,Oregon State,Sean Pierson,60443,Princeton
+2023,12/29,Midlands Championships,133,W,DEC,10 - 4,Dante Frinzi,74056,Harvard,Sean Pierson,60443,Princeton
+2023,12/29,Midlands Championships,133,L,DEC,10 - 5,Ryan Crookham,73116,Lehigh,Sean Pierson,60443,Princeton
+2023,12/29,Midlands Championships,133,W,MD,12 - 4,Bryce West,50039,Northern Illinois,Sean Pierson,60443,Princeton
+2023,12/29,Midlands Championships,133,L,DEC,4 - 2,Hunter Adrian,65842,Brown,Sean Pierson,60443,Princeton
+2023,12/29,Midlands Championships,133,W,DEC,7 - 0,Cody Moosman,49103,Cleveland State,Sean Pierson,60443,Princeton
+2023,12/11,Rutgers - Princeton Dual,133,L,DEC,9 - 3,Joe Heilmann,51223,Rutgers,Sean Pierson,60443,Princeton
+2023,12/04,Michigan State - Princeton Dual,133,L,DEC,11 - 6,Rayvon Foley,50823,Michigan State,Sean Pierson,60443,Princeton
+2023,12/04,Wisconsin - Princeton Dual,133,L,DEC,6 - 4,Taylor LaMont,44777,Wisconsin,Sean Pierson,60443,Princeton
+2023,11/18,Princeton - Indiana Dual,133,L,MD,12 - 4,Henry Porter,71920,Indiana,Sean Pierson,60443,Princeton
+2023,11/06,Princeton Open,133,W,DEC,6 - 5,Devon Britton,61762,Rutgers,Sean Pierson,60443,Princeton
+2023,11/06,Princeton Open,133,L,FALL,2:05,Ryan Luna,72566,Presbyterian,Sean Pierson,60443,Princeton
+2023,11/06,Princeton Open,133,L,DEC,7 - 3,Gable Strickland,71822,Lock Haven,Sean Pierson,60443,Princeton
+2023,11/06,Princeton Open,133,L,FALL,1:11,Garrett Totten,81066,Peddie School,Nick Masters,67288,Princeton
+2023,11/06,Princeton Open,133,L,MFOR,0 - 0,Devon Britton,61762,Rutgers,Nick Masters,67288,Princeton
+2023,02/17,Princeton - Bucknell Dual,133,L,DEC,4 - 0,Kurt Phipps,63966,Bucknell,Anthony Clark,62983,Princeton
+2023,02/11,Lehigh - Princeton Dual,133,L,DEC,7 - 1,Connor McGonagle,56713,Lehigh,Anthony Clark,62983,Princeton
+2023,02/10,Princeton - Pennsylvania Dual,133,L,DEC,7 - 5,Michael Colaiocco,56733,Pennsylvania,Anthony Clark,62983,Princeton
+2023,02/04,Princeton - Binghamton Dual,133,L,MD,11 - 3,Anthony Sobotker,60378,Binghamton,Anthony Clark,62983,Princeton
+2023,02/04,Princeton - Cornell Dual,133,L,TF5,20 - 5 6:27,Vitali Arujau,49108,Cornell,Anthony Clark,62983,Princeton
+2023,01/27,Harvard - Princeton Dual,141,L,MD,12 - 0,Joseph Cangro,73031,Harvard,Anthony Clark,62983,Princeton
+2023,01/06,David Lehman Open,133,L,DEC,7 - 1,Gable Strickland,71822,Lock Haven,Anthony Clark,62983,Princeton
+2023,01/06,David Lehman Open,133,W,MFOR,0 - 0,Andrew Fallon,69899,Sacred Heart,Anthony Clark,62983,Princeton
+2023,01/06,David Lehman Open,133,L,DEC,5 - 3,Joey Melendez,50805,North Carolina,Anthony Clark,62983,Princeton
+2023,01/06,David Lehman Open,133,W,DEC,2 - 1,Matt Ellis,75817,Kent State,Anthony Clark,62983,Princeton
+2023,01/06,David Lehman Open,133,W,MD,15 - 3,Noah Burstein,59677,Davidson,Anthony Clark,62983,Princeton
+2023,12/29,Midlands Championships,133,L,DEC,8 - 5,Nicolar Rivera,78438,Wisconsin,Anthony Clark,62983,Princeton
+2023,12/29,Midlands Championships,133,L,MD,10 - 2,Michael Colaiocco,56733,Pennsylvania,Anthony Clark,62983,Princeton
+2023,12/29,Midlands Championships,133,W,TF5,17 - 0 7:00,Gabe Vidlak,70293,Oklahoma,Anthony Clark,62983,Princeton
+2023,03/04,EIWA Championships,141,W,FALL,0:47,Vincent Milazzo,69698,Sacred Heart,Christopher Martino,72987,Princeton
+2023,03/04,EIWA Championships,141,L,DEC,11 - 4,Jordan Soriano,73711,Drexel,Christopher Martino,72987,Princeton
+2023,03/04,EIWA Championships,141,L,FALL,1:52,Vince Cornella,71813,Cornell,Christopher Martino,72987,Princeton
+2023,02/17,Princeton - Bucknell Dual,141,L,FALL,1:49,Darren Miller,57210,Bucknell,Christopher Martino,72987,Princeton
+2023,02/11,Lehigh - Princeton Dual,141,L,TF5,15 - 0 3:17,Malyke Hines,56932,Lehigh,Christopher Martino,72987,Princeton
+2023,02/10,Princeton - Pennsylvania Dual,141,L,MD,11 - 2,Carmen Ferrante,50660,Pennsylvania,Christopher Martino,72987,Princeton
+2023,02/04,Princeton - Binghamton Dual,141,W,DEC,8 - 4,Christian Gannone,62458,Binghamton,Christopher Martino,72987,Princeton
+2023,02/04,Princeton - Cornell Dual,141,L,DEC,8 - 2,Ethan Fernandez,72088,Cornell,Christopher Martino,72987,Princeton
+2023,01/28,Brown - Princeton Dual,141,L,DEC,5 - 2,Ian Oswalt,71942,Brown,Christopher Martino,72987,Princeton
+2023,01/06,David Lehman Open,141,W,FALL,1:21,Thomas Volpe,69699,Sacred Heart,Christopher Martino,72987,Princeton
+2023,01/06,David Lehman Open,141,W,FALL,1:06,Mario Biancamano,62603,Hofstra,Christopher Martino,72987,Princeton
+2023,01/06,David Lehman Open,141,L,FALL,4:14,Pablo Castro,79792,Kent State,Christopher Martino,72987,Princeton
+2023,01/06,David Lehman Open,141,L,DEC,10 - 6,Zach Keal,62496,Army West Point,Christopher Martino,72987,Princeton
+2023,01/20,Princeton - Columbia Dual,141,L,FALL,2:25,Matthew Kazimir,51644,Columbia,Danny Coles,54117,Princeton
+2023,01/15,Princeton - Arizona State Dual,141,L,MD,11 - 3,Jesse Vasquez,67152,Arizona State,Danny Coles,54117,Princeton
+2023,01/13,Princeton - Oregon State Dual,141,L,MD,11 - 2,Cleveland Belton,57334,Oregon State,Danny Coles,54117,Princeton
+2023,01/06,David Lehman Open,141,W,MD,13 - 2,Deon Pleasant,71584,Drexel,Danny Coles,54117,Princeton
+2023,01/06,David Lehman Open,141,W,DEC,3 - 1,Caden McCrary,70918,North Carolina,Danny Coles,54117,Princeton
+2023,01/06,David Lehman Open,141,L,DEC,6 - 0,Lachlan McNeil,62891,North Carolina,Danny Coles,54117,Princeton
+2023,01/06,David Lehman Open,141,W,MD,14 - 5,Malyke Hines,56932,Lehigh,Danny Coles,54117,Princeton
+2023,01/06,David Lehman Open,141,W,DEC,10 - 4,Billy Meiszner,75815,Kent State,Danny Coles,54117,Princeton
+2023,01/06,David Lehman Open,141,W,MD,14 - 5,Garrett Kuchan,69522,Air Force,Danny Coles,54117,Princeton
+2023,12/29,Midlands Championships,141,L,FALL,3:32,Ryan Michaels,67121,Pittsburgh,Danny Coles,54117,Princeton
+2023,12/29,Midlands Championships,141,L,DEC,1 - 0,Cole Matthews,50936,Pittsburgh,Danny Coles,54117,Princeton
+2023,12/11,Rutgers - Princeton Dual,141,W,DEC,4 - 3,Sammy Alvarez,56763,Rutgers,Danny Coles,54117,Princeton
+2023,12/04,Michigan State - Princeton Dual,141,L,DEC,11 - 4,Jordan Hamdan,57705,Michigan State,Danny Coles,54117,Princeton
+2023,12/04,Wisconsin - Princeton Dual,141,L,MD,14 - 4,Joseph Zargo,62890,Wisconsin,Danny Coles,54117,Princeton
+2023,11/18,Princeton - Indiana Dual,141,L,DEC,12 - 9,Cayden Rooks,56710,Indiana,Danny Coles,54117,Princeton
+2023,03/04,EIWA Championships,149,L,DEC,8 - 3,Max Brignola,73041,Lehigh,Marshall Keller,51509,Princeton
+2023,03/04,EIWA Championships,149,L,DEC,7 - 1,Trae McDaniel,71768,Army West Point,Marshall Keller,51509,Princeton
+2023,03/04,EIWA Championships,149,L,DEC,7 - 2,Max Brignola,73041,Lehigh,Marshall Keller,51509,Princeton
+2023,03/04,EIWA Championships,149,W,MD,12 - 3,Jack Crook,73703,Harvard,Marshall Keller,51509,Princeton
+2023,03/04,EIWA Championships,149,W,DEC,7 - 1,Blake Saito,65874,Brown,Marshall Keller,51509,Princeton
+2023,02/17,Princeton - Bucknell Dual,149,W,DEC,5 - 4,Dylan Chappell,71754,Bucknell,Marshall Keller,51509,Princeton
+2023,02/11,Lehigh - Princeton Dual,149,L,SV-1,4 - 2,Max Brignola,73041,Lehigh,Marshall Keller,51509,Princeton
+2023,02/10,Princeton - Pennsylvania Dual,149,L,DEC,10 - 4,Doug Zapf,50656,Pennsylvania,Marshall Keller,51509,Princeton
+2023,02/04,Princeton - Binghamton Dual,149,L,DEC,7 - 6,Michael Zarif,57277,Binghamton,Marshall Keller,51509,Princeton
+2023,02/04,Princeton - Cornell Dual,149,L,TF5,16 - 0 4:09,Yianni Diakomihalis,49110,Cornell,Marshall Keller,51509,Princeton
+2023,01/21,Rider - Princeton Dual,149,L,TF5,18 - 0 6:11,Quinn Kinner,51144,Rider,Marshall Keller,51509,Princeton
+2023,01/20,Princeton - Columbia Dual,149,L,DEC,5 - 3,Danny Fongaro,51713,Columbia,Marshall Keller,51509,Princeton
+2023,01/15,Princeton - Arizona State Dual,149,L,DEC,12 - 5,Kyle Parco,58562,Arizona State,Marshall Keller,51509,Princeton
+2023,01/06,David Lehman Open,149,W,DEC,5 - 1,Kaiden Wagner,78521,Lock Haven,Marshall Keller,51509,Princeton
+2023,01/06,David Lehman Open,149,W,FALL,2:40,Jude Swisher,73210,PRTC,Marshall Keller,51509,Princeton
+2023,01/06,David Lehman Open,149,W,MD,8 - 0,Jacob Mann,72935,NJRTC,Marshall Keller,51509,Princeton
+2023,01/06,David Lehman Open,149,L,FALL,4:33,Nicholas Stonecheck,62691,Lock Haven,Marshall Keller,51509,Princeton
+2023,01/06,David Lehman Open,149,W,DEC,7 - 0,Mikey Lewarchick,71832,Kent State,Marshall Keller,51509,Princeton
+2023,12/29,Midlands Championships,149,L,MD,10 - 2,Yahya Thomas,49245,Northwestern,Marshall Keller,51509,Princeton
+2023,12/29,Midlands Championships,149,W,DEC,3 - 0,Ricky Cabanillas,57514,Brown,Marshall Keller,51509,Princeton
+2023,12/29,Midlands Championships,149,L,DEC,10 - 5,Nathan Higley,71834,George Mason,Marshall Keller,51509,Princeton
+2023,11/06,Princeton Open,149,W,FALL,4:03,Greyson Harris,78610,Hofstra,Marshall Keller,51509,Princeton
+2023,11/06,Princeton Open,149,L,DEC,10 - 8,Connor Eck,71824,Lock Haven,Marshall Keller,51509,Princeton
+2023,11/06,Princeton Open,149,L,MFOR,0 - 0,Nicholas Stonecheck,62691,Lock Haven,Marshall Keller,51509,Princeton
+2023,02/25,Zingo National Collegiate open,157,W,MD,14 - 5,Kaleb Williams,81113,Spartan Combat RTC,Rocco Camillaci,73321,Princeton
+2023,02/25,Zingo National Collegiate open,157,W,MD,16 - 5,Nick Foster,78902,George Mason,Rocco Camillaci,73321,Princeton
+2023,02/25,Zingo National Collegiate open,157,W,DEC,3 - 1,Domenic D'Agostino,78471,Drexel,Rocco Camillaci,73321,Princeton
+2023,02/25,Zingo National Collegiate open,157,L,DEC,8 - 6,Jaden Le,66968,Columbia,Rocco Camillaci,73321,Princeton
+2023,02/25,Zingo National Collegiate open,157,L,DEC,5 - 0,Andrew Garr,57348,Columbia,Rocco Camillaci,73321,Princeton
+2023,02/25,Zingo National Collegiate open,157,W,MFOR,0 - 0,Fin Nadeau,73496,Binghamton,Rocco Camillaci,73321,Princeton
+2023,01/28,Brown - Princeton Dual,149,L,DEC,7 - 3,Ricky Cabanillas,57514,Brown,Rocco Camillaci,73321,Princeton
+2023,01/27,Harvard - Princeton Dual,149,L,DEC,4 - 3,Jack Crook,73703,Harvard,Rocco Camillaci,73321,Princeton
+2023,01/13,Princeton - Oregon State Dual,149,L,DEC,7 - 3,Riley Gurr,56785,Oregon State,Rocco Camillaci,73321,Princeton
+2023,12/29,Midlands Championships,149,W,DEC,10 - 8,Jack Crook,73703,Harvard,Rocco Camillaci,73321,Princeton
+2023,12/29,Midlands Championships,149,L,DEC,5 - 1,Tyler Badgett,67118,Pittsburgh,Rocco Camillaci,73321,Princeton
+2023,12/29,Midlands Championships,149,W,DEC,8 - 3,Vincent Mannella,62892,Pennsylvania,Rocco Camillaci,73321,Princeton
+2023,12/29,Midlands Championships,149,L,DEC,4 - 1,Johnny Lovett,61935,Central Michigan,Rocco Camillaci,73321,Princeton
+2023,12/29,Midlands Championships,149,W,DEC,8 - 5,Max Brignola,73041,Lehigh,Rocco Camillaci,73321,Princeton
+2023,12/11,Rutgers - Princeton Dual,149,L,DEC,4 - 1,Anthony White,70924,Rutgers,Rocco Camillaci,73321,Princeton
+2023,12/04,Michigan State - Princeton Dual,149,L,DEC,3 - 2,Peyton Omania,56081,Michigan State,Rocco Camillaci,73321,Princeton
+2023,12/04,Wisconsin - Princeton Dual,149,L,FALL,4:36,Austin Gomez,49153,Wisconsin,Rocco Camillaci,73321,Princeton
+2023,11/18,Princeton - Indiana Dual,149,L,DEC,4 - 1,Graham Rooks,51283,Indiana,Rocco Camillaci,73321,Princeton
+2023,11/06,Princeton Open,149,W,MD,16 - 6,Jacob Mann,72935,NJRTC,Rocco Camillaci,73321,Princeton
+2023,11/06,Princeton Open,149,L,DEC,5 - 3,Michael Cetta,72114,Rutgers,Rocco Camillaci,73321,Princeton
+2023,11/06,Princeton Open,149,W,TF5,20 - 5 2:28,Andrew Gapas,51204,Rutgers,Rocco Camillaci,73321,Princeton
+2023,11/06,Princeton Open,149,W,DEC,7 - 3,Nathan Higley,71834,George Mason,Rocco Camillaci,73321,Princeton
+2023,11/06,Princeton Open,149,W,TF5,19 - 4 5:53,Billy Talmadge,67442,Lock Haven,Rocco Camillaci,73321,Princeton
+2023,11/06,Princeton Open,149,L,DEC,8 - 7,Nicholas Stonecheck,62691,Lock Haven,Rocco Camillaci,73321,Princeton
+2023,01/06,David Lehman Open,149,W,FALL,0:40,Joe Fisk,79088,Maryland,Drew Lang,78706,Princeton
+2023,01/06,David Lehman Open,149,W,DEC,3 - 1,Bryce Kresho,78572,Franklin & Marshall,Drew Lang,78706,Princeton
+2023,01/06,David Lehman Open,149,L,DEC,5 - 3,Luca Errico,64680,Cavalier Wrestling club,Drew Lang,78706,Princeton
+2023,01/06,David Lehman Open,149,W,FALL,2:24,Patrick Ryan,57253,American,Drew Lang,78706,Princeton
+2023,01/06,David Lehman Open,149,L,MD,8 - 0,Craig Cook,63176,Millersville,Drew Lang,78706,Princeton
+2023,12/04,Wisconsin - Princeton Dual,157,L,TF5,18 - 2 4:34,Garrett Model,49351,Wisconsin,Drew Lang,78706,Princeton
+2023,11/06,Princeton Open,149,L,SV-1,3 - 1,Steven Storm,67261,Lehigh,Drew Lang,78706,Princeton
+2023,11/06,Princeton Open,149,W,DEC,4 - 1,Billy Talmadge,67442,Lock Haven,Drew Lang,78706,Princeton
+2023,11/06,Princeton Open,149,L,FALL,2:20,Hunter Gutierrez,66712,Stevens Tech,Drew Lang,78706,Princeton
+2023,03/04,EIWA Championships,157,W,DEC,6 - 0,Tyler Williams,59552,Drexel,Ty Whalen,72988,Princeton
+2023,03/04,EIWA Championships,157,L,DEC,9 - 2,Nick Delp,62493,Bucknell,Ty Whalen,72988,Princeton
+2023,03/04,EIWA Championships,157,L,FALL,6:15,Nick Palumbo,49068,Sacred Heart,Ty Whalen,72988,Princeton
+2023,03/04,EIWA Championships,157,W,MD,12 - 3,Nicolas Alvarez,78573,Franklin & Marshall,Ty Whalen,72988,Princeton
+2023,03/04,EIWA Championships,157,W,DEC,5 - 2,Cole Handlovic,65422,Cornell,Ty Whalen,72988,Princeton
+2023,02/17,Princeton - Bucknell Dual,157,W,DEC,6 - 5,Nick Delp,62493,Bucknell,Ty Whalen,72988,Princeton
+2023,02/11,Lehigh - Princeton Dual,157,L,MD,12 - 2,Josh Humphreys,55860,Lehigh,Ty Whalen,72988,Princeton
+2023,02/10,Princeton - Pennsylvania Dual,157,L,DEC,4 - 0,Anthony Artalona,51039,Pennsylvania,Ty Whalen,72988,Princeton
+2023,02/04,Princeton - Binghamton Dual,157,W,DEC,6 - 0,Conner Decker,71752,Binghamton,Ty Whalen,72988,Princeton
+2023,02/04,Princeton - Cornell Dual,157,L,DEC,7 - 1,Cole Handlovic,65422,Cornell,Ty Whalen,72988,Princeton
+2023,01/28,Brown - Princeton Dual,157,W,DEC,6 - 3,Sam McMonagle,71762,Brown,Ty Whalen,72988,Princeton
+2023,01/27,Harvard - Princeton Dual,157,L,MD,10 - 2,Trevor Tarsi,49140,Harvard,Ty Whalen,72988,Princeton
+2023,01/21,Rider - Princeton Dual,157,W,DEC,6 - 4,Colton Washleski,72909,Rider,Ty Whalen,72988,Princeton
+2023,01/20,Princeton - Columbia Dual,157,L,DEC,3 - 1,Cesar Alvan,71732,Columbia,Ty Whalen,72988,Princeton
+2023,01/15,Princeton - Arizona State Dual,157,W,DEC,7 - 3,Maxwell Wilner,63168,Arizona State,Ty Whalen,72988,Princeton
+2023,01/13,Princeton - Oregon State Dual,157,L,DEC,13 - 6,Isaiah Crosby,65258,Oregon State,Ty Whalen,72988,Princeton
+2023,01/06,David Lehman Open,157,W,TF5,15 - 0 5:43,Domenic D'Agostino,78471,Drexel,Ty Whalen,72988,Princeton
+2023,01/06,David Lehman Open,157,W,MD,15 - 6,Ethan Wilson,76858,Drexel,Ty Whalen,72988,Princeton
+2023,01/06,David Lehman Open,157,W,DEC,4 - 3,Tate Nichter,72623,Drexel,Ty Whalen,72988,Princeton
+2023,01/06,David Lehman Open,157,L,MD,13 - 4,Austin O'Connor,49214,North Carolina,Ty Whalen,72988,Princeton
+2023,01/06,David Lehman Open,157,W,DEC,8 - 3,Dillon Carlson,79794,Kent State,Ty Whalen,72988,Princeton
+2023,01/06,David Lehman Open,157,W,DEC,7 - 3,Marc Koch,73735,Davidson,Ty Whalen,72988,Princeton
+2023,12/29,Midlands Championships,157,W,DEC,10 - 7,Brock McMillen,72116,Pittsburgh,Ty Whalen,72988,Princeton
+2023,12/29,Midlands Championships,157,L,DEC,7 - 0,Dan Mancini,58612,Pittsburgh,Ty Whalen,72988,Princeton
+2023,12/29,Midlands Championships,157,L,MD,9 - 0,Alejandro Herrera-Rondon,68725,Oklahoma,Ty Whalen,72988,Princeton
+2023,11/06,Princeton Open,165,L,FALL,2:01,Luke Gayer,77388,Rutgers,Ty Whalen,72988,Princeton
+2023,11/06,Princeton Open,165,W,FALL,4:33,Oscar Aranda,73958,United States Military Academy,Ty Whalen,72988,Princeton
+2023,11/06,Princeton Open,165,L,MD,12 - 4,Hunter Mays,73136,Rider,Ty Whalen,72988,Princeton
+2023,11/06,Princeton Open,165,W,DEC,6 - 4,Connor Herceg,63054,Lehigh,Ty Whalen,72988,Princeton
+2023,02/25,Zingo National Collegiate open,157,L,MFOR,0 - 0,Jude Swisher,73210,PRTC,Hudson Hightower,72934,Princeton
+2023,02/25,Zingo National Collegiate open,157,W,FALL,1:43,Blaine Hammond,76865,Rider,Hudson Hightower,72934,Princeton
+2023,02/25,Zingo National Collegiate open,157,L,DEC,6 - 5,Aboubakare Diaby,72624,Drexel,Hudson Hightower,72934,Princeton
+2023,02/25,Zingo National Collegiate open,157,W,MD,10 - 2,Connor Trowbridge,62818,Drexel,Hudson Hightower,72934,Princeton
+2023,01/06,David Lehman Open,157,L,DEC,5 - 3,Luke Ahrberg,71931,NC State,Hudson Hightower,72934,Princeton
+2023,01/06,David Lehman Open,157,W,DEC,9 - 4,Cole McComas,62984,Rider,Hudson Hightower,72934,Princeton
+2023,01/06,David Lehman Open,157,L,INJ,2:25,Austin O'Connor,49214,North Carolina,Hudson Hightower,72934,Princeton
+2023,01/06,David Lehman Open,157,W,FALL,2:33,Patrick Tocci,63263,Millersville,Hudson Hightower,72934,Princeton
+2023,01/06,David Lehman Open,157,W,MD,12 - 0,Keegan Knapp,79795,Kent State,Hudson Hightower,72934,Princeton
+2023,01/06,David Lehman Open,157,W,MD,14 - 1,Alex Frowert,73435,George Mason,Hudson Hightower,72934,Princeton
+2023,11/06,Princeton Open,157,L,DEC,9 - 2,Al De Santis,67002,Rutgers,Hudson Hightower,72934,Princeton
+2023,11/06,Princeton Open,157,W,MD,8 - 0,Tyler Sung,64675,Lehigh,Hudson Hightower,72934,Princeton
+2023,11/06,Princeton Open,157,W,DEC,11 - 4,Paul Watkins,56931,Lehigh,Hudson Hightower,72934,Princeton
+2023,11/06,Princeton Open,157,L,TF5,18 - 2 7:00,Ashton Eyler,58037,Lock Haven,Hudson Hightower,72934,Princeton
+2023,01/06,David Lehman Open,157,W,DEC,10 - 4,Connor MacDonald,79723,Sacred Heart,Travis Tavoso,63146,Princeton
+2023,01/06,David Lehman Open,157,L,DEC,8 - 2,Dillon Carlson,79794,Kent State,Travis Tavoso,63146,Princeton
+2023,01/06,David Lehman Open,157,L,MD,8 - 0,Aaron Ferguson,71721,Kent State,Travis Tavoso,63146,Princeton
+2023,03/16,NCAA Championships,165,W,DEC,3 - 2,Cameron Amine,57289,Michigan,Quincy Monday,53967,Princeton
+2023,03/16,NCAA Championships,165,W,DEC,9 - 7,Dean Hamiti,62894,Wisconsin,Quincy Monday,53967,Princeton
+2023,03/16,NCAA Championships,165,L,DEC,6 - 5,David Carr,51126,Iowa State,Quincy Monday,53967,Princeton
+2023,03/16,NCAA Championships,165,W,DEC,10 - 4,Caleb Fish,63045,Michigan State,Quincy Monday,53967,Princeton
+2023,03/16,NCAA Championships,165,W,DEC,4 - 1,Izzak Olejnik,56509,Northern Illinois,Quincy Monday,53967,Princeton
+2023,03/16,NCAA Championships,165,W,MD,12 - 4,Andrew Sparks,67049,Minnesota,Quincy Monday,53967,Princeton
+2023,03/04,EIWA Championships,165,L,DEC,6 - 5,Julian Ramirez,56706,Cornell,Quincy Monday,53967,Princeton
+2023,03/04,EIWA Championships,165,W,DEC,8 - 2,Joshua Ogunsanya,66970,Columbia,Quincy Monday,53967,Princeton
+2023,03/04,EIWA Championships,165,W,TF5,17 - 2 6:45,Keegan Rothrock,67258,Brown,Quincy Monday,53967,Princeton
+2023,03/04,EIWA Championships,165,W,DEC,5 - 3,Dalton Harkins,65872,Army West Point,Quincy Monday,53967,Princeton
+2023,02/17,Princeton - Bucknell Dual,165,W,MD,15 - 4,Chase Barlow,78732,Bucknell,Quincy Monday,53967,Princeton
+2023,02/11,Lehigh - Princeton Dual,165,W,DEC,6 - 1,Luca Frinzi,57518,Lehigh,Quincy Monday,53967,Princeton
+2023,02/10,Princeton - Pennsylvania Dual,165,W,DEC,3 - 1,Lucas Revano,56734,Pennsylvania,Quincy Monday,53967,Princeton
+2023,02/04,Princeton - Binghamton Dual,165,W,FALL,2:09,Carter Baer,72615,Binghamton,Quincy Monday,53967,Princeton
+2023,02/04,Princeton - Cornell Dual,165,L,DEC,10 - 6,Julian Ramirez,56706,Cornell,Quincy Monday,53967,Princeton
+2023,01/28,Brown - Princeton Dual,165,W,INJ,0:34,Mason Spears,71759,Brown,Quincy Monday,53967,Princeton
+2023,01/27,Harvard - Princeton Dual,165,W,DEC,5 - 1,Joshua Kim,51200,Harvard,Quincy Monday,53967,Princeton
+2023,01/21,Rider - Princeton Dual,165,W,TF5,17 - 2 5:00,Hunter Mays,73136,Rider,Quincy Monday,53967,Princeton
+2023,01/20,Princeton - Columbia Dual,165,W,DEC,4 - 1,Joshua Ogunsanya,66970,Columbia,Quincy Monday,53967,Princeton
+2023,01/15,Princeton - Arizona State Dual,165,W,FALL,0:54,Rene Fragoso,78889,Arizona State,Quincy Monday,53967,Princeton
+2023,01/13,Princeton - Oregon State Dual,165,W,SV-1,5 - 3,Matthew Olguin,57218,Oregon State,Quincy Monday,53967,Princeton
+2023,12/29,Midlands Championships,165,W,DEC,4 - 3,Dean Hamiti,62894,Wisconsin,Quincy Monday,53967,Princeton
+2023,12/29,Midlands Championships,165,W,DEC,6 - 2,Holden Heller,50940,Pittsburgh,Quincy Monday,53967,Princeton
+2023,12/29,Midlands Championships,165,W,DEC,6 - 4,Danny Braunagel,50926,Illinois,Quincy Monday,53967,Princeton
+2023,12/29,Midlands Championships,165,W,DEC,10 - 3,James Conway,73529,Missouri,Quincy Monday,53967,Princeton
+2023,12/29,Midlands Championships,165,W,FALL,2:07,Derek Fields,71932,NC State,Quincy Monday,53967,Princeton
+2023,12/29,Midlands Championships,165,W,FALL,1:09,Tate Geiser,78813,Cleveland State,Quincy Monday,53967,Princeton
+2023,12/11,Rutgers - Princeton Dual,157,W,MD,13 - 3,Andrew Clark,66883,Rutgers,Quincy Monday,53967,Princeton
+2023,12/04,Michigan State - Princeton Dual,157,W,DEC,5 - 0,Chase Saldate,61118,Michigan State,Quincy Monday,53967,Princeton
+2023,11/18,Princeton - Indiana Dual,157,W,DEC,8 - 4,Derek Gilcher,62760,Indiana,Quincy Monday,53967,Princeton
+2023,02/04,Princeton - Cornell Dual,174,L,DEC,8 - 5,Chris Foca,56712,Cornell,Grant Cuomo,50892,Princeton
+2023,01/06,David Lehman Open,165,W,FALL,3:20,Makoa Niebel,73371,Franklin & Marshall,Grant Cuomo,50892,Princeton
+2023,01/06,David Lehman Open,165,L,DEC,8 - 1,Matthew Singleton,73015,NC State,Grant Cuomo,50892,Princeton
+2023,01/06,David Lehman Open,165,W,DEC,3 - 2,Gunner Filipowicz,72974,United States Military Academy,Grant Cuomo,50892,Princeton
+2023,01/06,David Lehman Open,165,W,MD,17 - 6,Gaven Bell,72136,Maryland,Grant Cuomo,50892,Princeton
+2023,01/06,David Lehman Open,165,W,DEC,8 - 1,Gino Esposito,51329,North Carolina,Grant Cuomo,50892,Princeton
+2023,12/29,Midlands Championships,165,L,DEC,5 - 2,Bradley Gillum,73397,SIU Edwardsville,Blaine Bergey,63157,Princeton
+2023,12/29,Midlands Championships,165,W,DEC,8 - 3,Connor O'Neill,62354,Rutgers,Blaine Bergey,63157,Princeton
+2023,12/29,Midlands Championships,165,L,FALL,2:07,Izzak Olejnik,56509,Northern Illinois,Blaine Bergey,63157,Princeton
+2023,12/11,Rutgers - Princeton Dual,165,W,DEC,8 - 4,Connor O'Neill,62354,Rutgers,Blaine Bergey,63157,Princeton
+2023,12/04,Michigan State - Princeton Dual,165,W,SV-1,6 - 4,Caleb Fish,63045,Michigan State,Blaine Bergey,63157,Princeton
+2023,12/04,Wisconsin - Princeton Dual,165,L,MD,13 - 5,Dean Hamiti,62894,Wisconsin,Blaine Bergey,63157,Princeton
+2023,11/18,Princeton - Indiana Dual,165,W,DEC,3 - 2,Tyler Lillard,72963,Indiana,Blaine Bergey,63157,Princeton
+2023,11/13,Jonathan Kaloust Bearcat Open,165,W,DEC,9 - 2,Oscar Aranda,73958,United States Military Academy,Blaine Bergey,63157,Princeton
+2023,11/13,Jonathan Kaloust Bearcat Open,165,L,DEC,6 - 5,Jack Blumer,62728,West Virginia,Blaine Bergey,63157,Princeton
+2023,11/13,Jonathan Kaloust Bearcat Open,165,L,DEC,7 - 2,Jon Park,60226,Navy,Blaine Bergey,63157,Princeton
+2023,11/13,Jonathan Kaloust Bearcat Open,165,W,TF5,20 - 5 5:40,Chimenum Tasie-Amadi,63449,Columbia,Blaine Bergey,63157,Princeton
+2023,11/13,Jonathan Kaloust Bearcat Open,165,W,DEC,9 - 7,Carter Baer,72615,Binghamton,Blaine Bergey,63157,Princeton
+2023,01/06,David Lehman Open,165,W,FALL,0:37,Noah Bash,72675,Franklin & Marshall,Luca Pontone,57725,Princeton
+2023,01/06,David Lehman Open,165,L,DEC,6 - 2,Harrison Trahan,71760,Brown,Luca Pontone,57725,Princeton
+2023,01/06,David Lehman Open,165,L,MD,17 - 3,Genaro Quodala,76008,Navy,Luca Pontone,57725,Princeton
+2023,11/06,Princeton Open,165,L,DEC,10 - 4,Oscar Aranda,73958,United States Military Academy,Nathan Stefanik,65832,Princeton
+2023,11/06,Princeton Open,165,L,FALL,4:18,Jurius Clark,78553,Hofstra,Nathan Stefanik,65832,Princeton
+2023,02/25,Zingo National Collegiate open,157,L,DEC,6 - 0,Tim Bova,79255,Spartan Combat RTC,Jack Lang,57726,Princeton
+2023,02/25,Zingo National Collegiate open,157,L,DEC,7 - 2,Nick Cicciarelli,78896,West Virginia,Jack Lang,57726,Princeton
+2023,01/06,David Lehman Open,165,L,MD,10 - 2,Matthew Singleton,73015,NC State,Jack Lang,57726,Princeton
+2023,01/06,David Lehman Open,165,L,DEC,9 - 5,Adam Thomson,78677,Pennsylvania,Jack Lang,57726,Princeton
+2023,03/04,EIWA Championships,174,L,DEC,3 - 2,Jake Logan,57185,Lehigh,Kole Mulhauser,73135,Princeton
+2023,03/04,EIWA Championships,174,L,DEC,6 - 2,Chris Foca,56712,Cornell,Kole Mulhauser,73135,Princeton
+2023,03/04,EIWA Championships,174,W,MD,14 - 2,Sam DePrez,56480,Binghamton,Kole Mulhauser,73135,Princeton
+2023,02/17,Princeton - Bucknell Dual,174,W,DEC,5 - 1,Sam Barnes,63005,Bucknell,Kole Mulhauser,73135,Princeton
+2023,02/11,Lehigh - Princeton Dual,174,W,FALL,6:29,Jake Logan,57185,Lehigh,Kole Mulhauser,73135,Princeton
+2023,02/10,Princeton - Pennsylvania Dual,174,L,DEC,7 - 0,Nick Incontrera,57070,Pennsylvania,Kole Mulhauser,73135,Princeton
+2023,02/04,Princeton - Binghamton Dual,174,W,DEC,6 - 0,Sam DePrez,56480,Binghamton,Kole Mulhauser,73135,Princeton
+2023,01/28,Brown - Princeton Dual,174,W,DEC,6 - 3,Drew Clearie,71778,Brown,Kole Mulhauser,73135,Princeton
+2023,01/27,Harvard - Princeton Dual,174,L,DEC,8 - 4,Phillip Conigliaro,51201,Harvard,Kole Mulhauser,73135,Princeton
+2023,01/21,Rider - Princeton Dual,174,L,DEC,3 - 1,Michael Wilson,62190,Rider,Kole Mulhauser,73135,Princeton
+2023,01/20,Princeton - Columbia Dual,174,L,DEC,3 - 1,Lennox Wolak,57767,Columbia,Kole Mulhauser,73135,Princeton
+2023,01/15,Princeton - Arizona State Dual,174,W,DEC,8 - 3,Cael Valencia,70908,Arizona State,Kole Mulhauser,73135,Princeton
+2023,01/13,Princeton - Oregon State Dual,174,L,DEC,6 - 2,Aaron Olmos,50177,Oregon State,Kole Mulhauser,73135,Princeton
+2023,12/29,Midlands Championships,174,W,SV-1,3 - 1,James Rowley,73715,Wisconsin,Kole Mulhauser,73135,Princeton
+2023,12/29,Midlands Championships,174,L,MD,8 - 0,Luca Augustine,68730,Pittsburgh,Kole Mulhauser,73135,Princeton
+2023,12/29,Midlands Championships,174,W,DEC,8 - 3,Ankhaa Enkhmandakh,62897,Northwestern,Kole Mulhauser,73135,Princeton
+2023,12/29,Midlands Championships,174,W,MD,12 - 2,Trey Sizemore,62241,Illinois,Kole Mulhauser,73135,Princeton
+2023,12/29,Midlands Championships,174,L,DEC,4 - 0,Alex Cramer,56732,Central Michigan,Kole Mulhauser,73135,Princeton
+2023,12/29,Midlands Championships,174,W,DEC,12 - 5,Noah Fox,67280,Franklin & Marshall,Kole Mulhauser,73135,Princeton
+2023,12/11,Rutgers - Princeton Dual,174,L,DEC,8 - 5,Jackson Turley,57636,Rutgers,Kole Mulhauser,73135,Princeton
+2023,12/04,Michigan State - Princeton Dual,174,W,TF5,15 - 0 7:00,Lucas Daly,71943,Michigan State,Kole Mulhauser,73135,Princeton
+2023,12/04,Wisconsin - Princeton Dual,174,W,DEC,4 - 2,Joshua Otto,56743,Wisconsin,Kole Mulhauser,73135,Princeton
+2023,11/18,Princeton - Indiana Dual,174,L,DEC,5 - 3,Donnell Washington,57738,Indiana,Kole Mulhauser,73135,Princeton
+2023,11/06,Princeton Open,174,W,TF5,17 - 1 5:23,Sean Kilrain,64015,Lehigh,Kole Mulhauser,73135,Princeton
+2023,11/06,Princeton Open,174,W,MFOR,0 - 0,Thayne Lawrence,62598,Lehigh,Kole Mulhauser,73135,Princeton
+2023,11/06,Princeton Open,174,W,DEC,10 - 3,Tyler Stoltzfus,65398,Lock Haven,Kole Mulhauser,73135,Princeton
+2023,03/04,EIWA Championships,184,L,DEC,11 - 4,David Key,56717,Navy,Nate Dugan,57662,Princeton
+2023,03/04,EIWA Championships,184,L,DEC,6 - 1,Tate Samuelson,57066,Lehigh,Nate Dugan,57662,Princeton
+2023,03/04,EIWA Championships,184,W,DEC,3 - 2,Jacob Ferreira,56807,Hofstra,Nate Dugan,57662,Princeton
+2023,03/04,EIWA Championships,184,W,DEC,8 - 3,Jacob Ferreira,56807,Hofstra,Nate Dugan,57662,Princeton
+2023,03/04,EIWA Championships,184,W,DEC,8 - 2,Colin Shannon,50060,American,Nate Dugan,57662,Princeton
+2023,02/17,Princeton - Bucknell Dual,184,W,DEC,5 - 3,Mason McCready,57223,Bucknell,Nate Dugan,57662,Princeton
+2023,02/11,Lehigh - Princeton Dual,184,L,DEC,6 - 1,Tate Samuelson,57066,Lehigh,Nate Dugan,57662,Princeton
+2023,02/10,Princeton - Pennsylvania Dual,184,L,DEC,4 - 0,Maximus Hale,63719,Pennsylvania,Nate Dugan,57662,Princeton
+2023,02/04,Princeton - Binghamton Dual,184,L,DEC,8 - 3,Jacob Nolan,62415,Binghamton,Nate Dugan,57662,Princeton
+2023,02/04,Princeton - Cornell Dual,184,W,DEC,4 - 3,Jonathan Loew,51080,Cornell,Nate Dugan,57662,Princeton
+2023,01/28,Brown - Princeton Dual,184,W,TF5,23 - 8 7:00,Nick Olivieri,76389,Brown,Nate Dugan,57662,Princeton
+2023,01/27,Harvard - Princeton Dual,184,W,DEC,5 - 4,Leonardo Tarantino,51222,Harvard,Nate Dugan,57662,Princeton
+2023,01/21,Rider - Princeton Dual,184,W,MD,19 - 6,Quinn Collins,79801,Rider,Nate Dugan,57662,Princeton
+2023,01/20,Princeton - Columbia Dual,184,L,FALL,4:44,Aaron Ayzerov,70911,Columbia,Nate Dugan,57662,Princeton
+2023,01/15,Princeton - Arizona State Dual,184,W,DEC,3 - 2,Anthony Montalvo,51619,Arizona State,Nate Dugan,57662,Princeton
+2023,01/13,Princeton - Oregon State Dual,184,L,DEC,6 - 3,Trey Munoz,59555,Oregon State,Nate Dugan,57662,Princeton
+2023,12/29,Midlands Championships,184,L,DEC,9 - 8,Reece Heller,61961,Pittsburgh,Nate Dugan,57662,Princeton
+2023,12/29,Midlands Championships,184,W,DEC,3 - 2,Tyler Dow,50622,Wisconsin,Nate Dugan,57662,Princeton
+2023,12/29,Midlands Championships,184,L,MD,8 - 0,Neil Antrassian,56202,Virginia,Nate Dugan,57662,Princeton
+2023,12/29,Midlands Championships,184,W,DEC,6 - 4,Dennis Robin,69638,West Virginia,Nate Dugan,57662,Princeton
+2023,12/29,Midlands Championships,184,W,MD,12 - 4,Maximus Hale,63719,Pennsylvania,Nate Dugan,57662,Princeton
+2023,12/29,Midlands Championships,184,W,DEC,8 - 2,Logan Badge,73550,Central Michigan,Nate Dugan,57662,Princeton
+2023,12/11,Rutgers - Princeton Dual,184,L,MD,10 - 1,Brian Soldano,67558,Rutgers,Nate Dugan,57662,Princeton
+2023,12/04,Michigan State - Princeton Dual,184,L,DEC,8 - 4,Layne Malczewski,51828,Michigan State,Nate Dugan,57662,Princeton
+2023,12/04,Wisconsin - Princeton Dual,184,L,DEC,6 - 5,Tyler Dow,50622,Wisconsin,Nate Dugan,57662,Princeton
+2023,11/18,Princeton - Indiana Dual,184,W,MD,12 - 4,Drayton Harris,69357,Indiana,Nate Dugan,57662,Princeton
+2023,11/06,Princeton Open,184,W,MD,14 - 5,Stratos Kantanas,78778,Rutgers,Nate Dugan,57662,Princeton
+2023,11/06,Princeton Open,184,L,DEC,7 - 0,John Poznanski,61124,Rutgers,Nate Dugan,57662,Princeton
+2023,11/06,Princeton Open,184,W,SV-1,8 - 4,Jack Wilt,73042,Lehigh,Nate Dugan,57662,Princeton
+2023,11/06,Princeton Open,184,W,DEC,11 - 8,Tyler Kocak,69715,George Mason,Nate Dugan,57662,Princeton
+2023,11/06,Princeton Open,184,W,MD,17 - 5,Cael Black,78740,Lock Haven,Nate Dugan,57662,Princeton
+2023,03/16,NCAA Championships,197,L,DEC,10 - 4,Gavin Hoffman,50609,Ohio State,Luke Stout,62599,Princeton
+2023,03/16,NCAA Championships,197,L,DEC,3 - 1,Jacob Cardenas,56770,Cornell,Luke Stout,62599,Princeton
+2023,03/04,EIWA Championships,197,W,FALL,3:36,Trey Rogers,51099,Hofstra,Luke Stout,62599,Princeton
+2023,03/04,EIWA Championships,197,W,MD,11 - 1,Jake Koser,50890,Navy,Luke Stout,62599,Princeton
+2023,03/04,EIWA Championships,197,L,DEC,8 - 1,Jacob Cardenas,56770,Cornell,Luke Stout,62599,Princeton
+2023,03/04,EIWA Championships,197,W,DEC,6 - 1,Jack Wehmeyer,71793,Columbia,Luke Stout,62599,Princeton
+2023,03/04,EIWA Championships,197,W,TF5,21 - 6 7:00,Aaron Wolk,62364,Brown,Luke Stout,62599,Princeton
+2023,02/11,Lehigh - Princeton Dual,197,L,DEC,11 - 4,Michael Beard,50614,Lehigh,Luke Stout,62599,Princeton
+2023,02/10,Princeton - Pennsylvania Dual,197,W,FALL,3:31,Cole Urbas,56773,Pennsylvania,Luke Stout,62599,Princeton
+2023,02/04,Princeton - Binghamton Dual,197,W,FALL,1:19,Cayden Bevis,78819,Binghamton,Luke Stout,62599,Princeton
+2023,02/04,Princeton - Cornell Dual,197,L,MD,8 - 0,Jacob Cardenas,56770,Cornell,Luke Stout,62599,Princeton
+2023,01/28,Brown - Princeton Dual,197,W,INJ,0:13,Lear Quinton,62572,Brown,Luke Stout,62599,Princeton
+2023,01/27,Harvard - Princeton Dual,197,W,FALL,4:04,Michael Doggett,62194,Harvard,Luke Stout,62599,Princeton
+2023,01/21,Rider - Princeton Dual,197,L,DEC,8 - 3,Ethan Laird,50134,Rider,Luke Stout,62599,Princeton
+2023,01/20,Princeton - Columbia Dual,197,W,MD,11 - 2,Jack Wehmeyer,71793,Columbia,Luke Stout,62599,Princeton
+2023,01/15,Princeton - Arizona State Dual,197,W,DEC,9 - 3,Jonathan Fagen,57304,Arizona State,Luke Stout,62599,Princeton
+2023,01/13,Princeton - Oregon State Dual,197,L,DEC,3 - 1,Tanner Harvey,48451,Oregon State,Luke Stout,62599,Princeton
+2023,12/29,Midlands Championships,197,W,FALL,2:00,Mike Tal-Shahar,78142,Wisconsin,Luke Stout,62599,Princeton
+2023,12/29,Midlands Championships,197,L,DEC,4 - 3,Zach Braunagel,50925,Illinois,Luke Stout,62599,Princeton
+2023,12/29,Midlands Championships,197,L,DEC,7 - 4,Andrew Davison,49178,Northwestern,Luke Stout,62599,Princeton
+2023,12/29,Midlands Championships,197,W,MD,12 - 3,Michael Battista,51672,Virginia,Luke Stout,62599,Princeton
+2023,12/29,Midlands Championships,197,W,TF5,20 - 4 7:00,Cole Urbas,56773,Pennsylvania,Luke Stout,62599,Princeton
+2023,12/29,Midlands Championships,197,W,FALL,5:17,Cameron Wood,73724,Central Michigan,Luke Stout,62599,Princeton
+2023,12/11,Rutgers - Princeton Dual,197,W,DEC,1 - 0,Billy Janzer,49473,Rutgers,Luke Stout,62599,Princeton
+2023,12/04,Michigan State - Princeton Dual,197,W,MD,11 - 3,Cameron Caffey,50273,Michigan State,Luke Stout,62599,Princeton
+2023,12/04,Wisconsin - Princeton Dual,197,L,SV-1,3 - 1,Braxton Amos,62756,Wisconsin,Luke Stout,62599,Princeton
+2023,11/18,Princeton - Indiana Dual,197,W,SV-1,3 - 1,Nick Willham,62447,Indiana,Luke Stout,62599,Princeton
+2023,11/06,Princeton Open,197,W,TF5,18 - 3 3:00,Mike Toranzo,70751,Rutgers,Luke Stout,62599,Princeton
+2023,11/06,Princeton Open,197,W,MD,19 - 5,Azeem Bell,67120,Rider,Luke Stout,62599,Princeton
+2023,11/06,Princeton Open,197,L,DEC,4 - 3,Ethan Laird,50134,Rider,Luke Stout,62599,Princeton
+2023,11/06,Princeton Open,197,W,MD,14 - 4,Nikolas Miller,73028,Hofstra,Luke Stout,62599,Princeton
+2023,02/17,Princeton - Bucknell Dual,197,L,DEC,6 - 0,Nolan Springer,71749,Bucknell,Aidan Conner,57524,Princeton
+2023,01/06,David Lehman Open,197,W,MD,10 - 0,Azeem Bell,67120,Rider,Aidan Conner,57524,Princeton
+2023,01/06,David Lehman Open,197,W,MFOR,0 - 0,Max Shaw,61959,North Carolina,Aidan Conner,57524,Princeton
+2023,01/06,David Lehman Open,197,L,DEC,6 - 1,Jake Koser,50890,Navy,Aidan Conner,57524,Princeton
+2023,01/06,David Lehman Open,197,W,FALL,6:19,Gavin Henry,61929,Davidson,Aidan Conner,57524,Princeton
+2023,01/06,David Lehman Open,197,W,DEC,6 - 0,Wolfgang Frable,78566,Army West Point,Aidan Conner,57524,Princeton
+2023,12/29,Midlands Championships,197,L,DEC,6 - 3,Andrew Davison,49178,Northwestern,Aidan Conner,57524,Princeton
+2023,12/29,Midlands Championships,197,L,MD,11 - 2,Austin Cooley,56772,West Virginia,Aidan Conner,57524,Princeton
+2023,11/06,Princeton Open,197,W,MD,14 - 0,Niccolo Colucci,67004,Rutgers,Aidan Conner,57524,Princeton
+2023,11/06,Princeton Open,197,L,MD,16 - 3,Ethan Laird,50134,Rider,Aidan Conner,57524,Princeton
+2023,11/06,Princeton Open,197,W,TF5,15 - 0 6:38,Nikolas Miller,73028,Hofstra,Aidan Conner,57524,Princeton
+2023,11/06,Princeton Open,197,W,MD,11 - 0,Jon List,71833,George Mason,Aidan Conner,57524,Princeton
+2023,03/16,NCAA Championships,285,L,SV-1,3 - 1,Hayden Copass,62893,Purdue,Travis Stefanik,49301,Princeton
+2023,03/16,NCAA Championships,285,L,DEC,4 - 1,Garrett Joles,50908,Minnesota,Travis Stefanik,49301,Princeton
+2023,03/04,EIWA Championships,285,L,MD,10 - 1,Grady Griess,63170,Navy,Travis Stefanik,49301,Princeton
+2023,03/04,EIWA Championships,285,W,TB-2,2 - 1,Vincenzo Pelusi,50112,Franklin & Marshall,Travis Stefanik,49301,Princeton
+2023,03/04,EIWA Championships,285,L,DEC,3 - 0,Austin Kohlhofer,78530,Army West Point,Travis Stefanik,49301,Princeton
+2023,02/17,Princeton - Bucknell Dual,285,W,SV-1,3 - 1,Luke Niemeyer,57205,Bucknell,Travis Stefanik,49301,Princeton
+2023,02/11,Lehigh - Princeton Dual,285,L,DEC,5 - 0,Nathan Taylor,73044,Lehigh,Travis Stefanik,49301,Princeton
+2023,02/10,Princeton - Pennsylvania Dual,285,W,SV-2,3 - 2,Ben Goldin,50827,Pennsylvania,Travis Stefanik,49301,Princeton
+2023,02/04,Princeton - Binghamton Dual,285,W,SV-1,5 - 3,Cory Day,62418,Binghamton,Travis Stefanik,49301,Princeton
+2023,02/04,Princeton - Cornell Dual,285,L,FALL,6:48,Brendan Furman,49113,Cornell,Travis Stefanik,49301,Princeton
+2023,01/28,Brown - Princeton Dual,285,W,MD,11 - 0,Alex Semenenko,79210,Brown,Travis Stefanik,49301,Princeton
+2023,01/27,Harvard - Princeton Dual,285,L,DEC,4 - 1,Yaraslau Slavikouski,62196,Harvard,Travis Stefanik,49301,Princeton
+2023,01/21,Rider - Princeton Dual,285,W,DEC,6 - 4,David Szuba,72908,Rider,Travis Stefanik,49301,Princeton
+2023,01/20,Princeton - Columbia Dual,285,W,DEC,3 - 1,William McChesney,78517,Columbia,Travis Stefanik,49301,Princeton
+2023,01/15,Princeton - Arizona State Dual,285,W,DEC,2 - 1,David Palosika,67286,Arizona State,Travis Stefanik,49301,Princeton
+2023,01/13,Princeton - Oregon State Dual,285,W,DEC,8 - 3,Jj Dixon,56784,Oregon State,Travis Stefanik,49301,Princeton
+2023,01/06,David Lehman Open,285,W,DEC,4 - 2,Chase Horne,72952,NC State,Travis Stefanik,49301,Princeton
+2023,01/06,David Lehman Open,285,W,TB-2,5 - 1,Aydin Guttridge,69794,North Carolina,Travis Stefanik,49301,Princeton
+2023,01/06,David Lehman Open,285,L,DEC,3 - 1,Grady Griess,63170,Navy,Travis Stefanik,49301,Princeton
+2023,01/06,David Lehman Open,285,L,SV-1,3 - 1,Nathan Taylor,73044,Lehigh,Travis Stefanik,49301,Princeton
+2023,01/06,David Lehman Open,285,W,DEC,5 - 3,Bishop McCoy,67185,Millersville,Travis Stefanik,49301,Princeton
+2023,01/06,David Lehman Open,285,W,DEC,6 - 1,Jake Fernicola,62822,Davidson,Travis Stefanik,49301,Princeton
+2023,12/29,Midlands Championships,285,L,DEC,3 - 2,Cohlton Schultz,56899,Arizona State,Travis Stefanik,49301,Princeton
+2023,12/29,Midlands Championships,285,W,DEC,3 - 1,Matt Wroblewski,50019,Illinois,Travis Stefanik,49301,Princeton
+2023,12/29,Midlands Championships,285,L,DEC,6 - 1,Michael Wolfgram,57526,West Virginia,Travis Stefanik,49301,Princeton
+2023,12/11,Rutgers - Princeton Dual,285,L,DEC,5 - 3,Boone McDermott,56898,Rutgers,Travis Stefanik,49301,Princeton
+2023,11/18,Princeton - Indiana Dual,285,L,DEC,3 - 1,Jacob Kaminski,79276,Indiana,Travis Stefanik,49301,Princeton
+2023,11/06,Princeton Open,285,L,TB-2,3 - 2,Matthew Cover,57523,Princeton,Travis Stefanik,49301,Princeton
+2023,11/06,Princeton Open,285,W,DEC,4 - 2,PJ Casale,77312,Rutgers,Travis Stefanik,49301,Princeton
+2023,11/06,Princeton Open,285,W,DEC,7 - 6,David Szuba,72908,Rider,Travis Stefanik,49301,Princeton
+2023,02/25,Zingo National Collegiate open,285,W,MD,9 - 1,Matthew Cruise,73551,Pennsylvania,Sebastian Garibaldi,72130,Princeton
+2023,02/25,Zingo National Collegiate open,285,W,DEC,5 - 3,Charlie Tibbitts,78440,Binghamton,Sebastian Garibaldi,72130,Princeton
+2023,02/25,Zingo National Collegiate open,285,L,DEC,6 - 1,Chase Horne,72952,NC State,Sebastian Garibaldi,72130,Princeton
+2023,01/06,David Lehman Open,285,W,TF5,15 - 0 5:25,Gage Cook,71772,United States Military Academy,Sebastian Garibaldi,72130,Princeton
+2023,01/06,David Lehman Open,285,W,FALL,1:57,Benjamin Somerville,62604,Hofstra,Sebastian Garibaldi,72130,Princeton
+2023,01/06,David Lehman Open,285,L,DEC,6 - 2,Tyrie Houghton,51136,NC State,Sebastian Garibaldi,72130,Princeton
+2023,01/06,David Lehman Open,285,W,SV-1,3 - 1,Brandon Whitman,50602,North Carolina,Sebastian Garibaldi,72130,Princeton
+2023,01/06,David Lehman Open,285,W,DEC,6 - 1,Nate Hoaglund,60537,Pennsylvania,Sebastian Garibaldi,72130,Princeton
+2023,01/06,David Lehman Open,285,W,DEC,8 - 2,Jeffrey Crooks,72111,Harvard,Sebastian Garibaldi,72130,Princeton
+2023,12/29,Midlands Championships,285,W,MFOR,0 - 0,Peter Christensen,57076,Wisconsin,Sebastian Garibaldi,72130,Princeton
+2023,12/29,Midlands Championships,285,L,DEC,5 - 0,Trent Hillger,49350,Wisconsin,Sebastian Garibaldi,72130,Princeton
+2023,12/29,Midlands Championships,285,W,MD,12 - 0,Thomas Mukai,62365,Brown,Sebastian Garibaldi,72130,Princeton
+2023,12/29,Midlands Championships,285,L,DEC,3 - 2,Aydin Guttridge,69794,North Carolina,Sebastian Garibaldi,72130,Princeton
+2023,11/13,Jonathan Kaloust Bearcat Open,285,W,FALL,2:23,Leo Muzika,78897,West Virginia,Sebastian Garibaldi,72130,Princeton
+2023,11/13,Jonathan Kaloust Bearcat Open,285,W,FALL,2:33,Evan Anderson,73959,NYU,Sebastian Garibaldi,72130,Princeton
+2023,11/13,Jonathan Kaloust Bearcat Open,285,L,DEC,5 - 3,Grady Griess,63170,Navy,Sebastian Garibaldi,72130,Princeton
+2023,11/13,Jonathan Kaloust Bearcat Open,285,W,MFOR,0 - 0,Lewis Fernandes,56901,Cornell,Sebastian Garibaldi,72130,Princeton
+2023,01/06,David Lehman Open,285,W,MD,9 - 0,Dom Petracci,79380,Drexel,Matthew Cover,57523,Princeton
+2023,01/06,David Lehman Open,285,L,DEC,2 - 0,William McChesney,78517,Columbia,Matthew Cover,57523,Princeton
+2023,01/06,David Lehman Open,285,L,DEC,3 - 0,Chase Horne,72952,NC State,Matthew Cover,57523,Princeton
+2023,01/06,David Lehman Open,285,W,FALL,4:19,Jeffrey Crooks,72111,Harvard,Matthew Cover,57523,Princeton
+2023,12/29,Midlands Championships,285,L,SV-1,3 - 1,Ben Goldin,50827,Pennsylvania,Matthew Cover,57523,Princeton
+2023,12/29,Midlands Championships,285,L,SV-1,6 - 4,Tyrie Houghton,51136,NC State,Matthew Cover,57523,Princeton
+2023,12/29,Midlands Championships,285,W,DEC,6 - 3,Dzhabrail Khurshidov,73465,Michigan,Matthew Cover,57523,Princeton
+2023,12/04,Michigan State - Princeton Dual,285,L,SV-1,8 - 6,Ryan Vasbinder,53358,Michigan State,Matthew Cover,57523,Princeton
+2023,12/04,Wisconsin - Princeton Dual,285,L,MD,10 - 1,Trent Hillger,49350,Wisconsin,Matthew Cover,57523,Princeton
+2023,11/06,Princeton Open,285,W,MD,11 - 2,Evan Anderson,73959,NYU,Matthew Cover,57523,Princeton
+2023,11/06,Princeton Open,285,W,TB-2,3 - 2,Travis Stefanik,49301,Princeton,Matthew Cover,57523,Princeton
+2023,11/06,Princeton Open,285,W,DEC,13 - 6,Karam Chakif,67262,Lehigh,Matthew Cover,57523,Princeton

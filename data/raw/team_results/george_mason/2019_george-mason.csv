@@ -1,0 +1,457 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2019,03/09,EWL Championships,125,L,TF5,17 - 2 5:07,Luke Werner,50282,Lock Haven,Talha Farooq,45317,George Mason
+2019,03/09,EWL Championships,125,L,DEC,11 - 5,Jonathon Tropea,46048,Rider,Talha Farooq,45317,George Mason
+2019,03/09,EWL Championships,125,W,INJ,7:00,Lucas Rodriguez,51061,Edinboro,Talha Farooq,45317,George Mason
+2019,03/09,EWL Championships,125,W,MFOR,0 - 0,Gavin Park,49094,Clarion,Talha Farooq,45317,George Mason
+2019,02/22,George Mason - Hofstra Dual,133,W,FALL,6:21,Jacob Martin,42329,Hofstra,Talha Farooq,45317,George Mason
+2019,02/17,Maryland - George Mason Dual,133,L,TF5,21 - 6 6:52,Orion Anderson,56379,Maryland,Talha Farooq,45317,George Mason
+2019,02/15,George Mason - American Dual,125,L,DEC,17 - 13,Gage Curry,44583,American,Talha Farooq,45317,George Mason
+2019,02/09,George Mason - Franklin & Marshall Dual,133,W,MD,9 - 1,Mike Simonetti,51025,Franklin & Marshall,Talha Farooq,45317,George Mason
+2019,01/31,George Mason - Rider Dual,125,L,DEC,15 - 9,Jonathon Tropea,46048,Rider,Talha Farooq,45317,George Mason
+2019,01/27,Edinboro - George Mason Dual,125,W,DEC,15 - 12,Arick Shankles,40004,Edinboro,Talha Farooq,45317,George Mason
+2019,01/17,George Mason - Clarion Dual,125,W,DEC,7 - 6,Gavin Park,49094,Clarion,Talha Farooq,45317,George Mason
+2019,01/13,The Citadel - George Mason Dual,133,L,FALL,0:22,Charles Kearney,40372,The Citadel,Talha Farooq,45317,George Mason
+2019,01/10,Columbia - George Mason Dual,125,L,TF5,17 - 2 4:29,Joe Manchio,50937,Columbia,Talha Farooq,45317,George Mason
+2019,01/10,Cleveland State - George Mason Dual,125,L,FALL,4:38,Cameron Lathem,44691,Cleveland State,Talha Farooq,45317,George Mason
+2019,12/20,George Mason - Davidson Dual,125,W,FALL,2:50,Zamir Ode,40334,Davidson,Talha Farooq,45317,George Mason
+2019,12/09,Patriots Open,125,L,MD,16 - 6,Jacob Martin,42329,Hofstra,Talha Farooq,45317,George Mason
+2019,12/09,Patriots Open,125,L,MD,17 - 5,Reese Fry,56796,Brown,Talha Farooq,45317,George Mason
+2019,12/08,Buffalo - George Mason Dual,125,L,TF5,19 - 3 0:18,Kyle Akins,19714,Buffalo,Talha Farooq,45317,George Mason
+2019,11/30,George Mason - Lock Haven Dual,125,L,TF5,18 - 1 6:23,Luke Werner,50282,Lock Haven,Talha Farooq,45317,George Mason
+2019,11/29,George Mason - Bloomsburg Dual,125,L,MD,16 - 7,Willy Girard,45191,Bloomsburg,Talha Farooq,45317,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,125,L,FALL,6:01,Jaret Lane,50909,Lehigh,Talha Farooq,45317,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,125,L,MD,13 - 3,Reese Fry,56796,Brown,Talha Farooq,45317,George Mason
+2019,11/04,Hokie Open,125,W,FALL,1:37,Avery Brown,58315,Bluefield College,Talha Farooq,45317,George Mason
+2019,11/04,Hokie Open,125,L,DEC,15 - 14,John Watts,56284,Coker,Talha Farooq,45317,George Mason
+2019,11/04,Hokie Open,125,L,MD,12 - 2,Joey Thomas,51008,West Virginia,Talha Farooq,45317,George Mason
+2019,11/02,George Mason - VMI Dual,125,L,DEC,2 - 1,Derek Shockey,57301,VMI,Talha Farooq,45317,George Mason
+2019,03/09,EWL Championships,133,L,TF5,17 - 0 4:56,Anthony Cefolo,40284,Rider,Spencer Reed,48319,George Mason
+2019,03/09,EWL Championships,133,L,FALL,1:57,Seth Koleno,51157,Clarion,Spencer Reed,48319,George Mason
+2019,02/17,Maryland - George Mason Dual,125,L,TF5,16 - 0 4:32,Brandon Cray,44681,Maryland,Spencer Reed,48319,George Mason
+2019,02/15,George Mason - American Dual,133,L,FALL,2:05,Josh Terao,20533,American,Spencer Reed,48319,George Mason
+2019,02/09,George Mason - Franklin & Marshall Dual,125,L,MD,13 - 3,Jose Diaz,57229,Franklin & Marshall,Spencer Reed,48319,George Mason
+2019,01/31,George Mason - Rider Dual,133,L,FALL,5:40,Anthony Cefolo,40284,Rider,Spencer Reed,48319,George Mason
+2019,01/17,George Mason - Clarion Dual,133,L,FALL,0:35,Seth Koleno,51157,Clarion,Spencer Reed,48319,George Mason
+2019,01/10,Cleveland State - George Mason Dual,133,L,FALL,0:57,Armando Torres,19876,Cleveland State,Spencer Reed,48319,George Mason
+2019,12/09,Patriots Open,125,L,DEC,13 - 6,Blair Orr,55804,Pennsylvania,Spencer Reed,48319,George Mason
+2019,12/09,Patriots Open,125,L,TF5,18 - 3 4:26,Nic Aguilar,51104,Rutgers,Spencer Reed,48319,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,125,L,DEC,7 - 5,Mike Simonetti,51025,Franklin & Marshall,Spencer Reed,48319,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,125,L,DEC,8 - 3,Carlos Aucancela,39967,Binghamton,Spencer Reed,48319,George Mason
+2019,11/04,Hokie Open,125,L,MD,17 - 5,Elijah Hicks,57429,King,Spencer Reed,48319,George Mason
+2019,11/04,Hokie Open,125,W,FALL,4:11,William Jacobs,51363,The Citadel,Spencer Reed,48319,George Mason
+2019,11/04,Hokie Open,125,L,FALL,0:45,Ryan More,45164,Virginia Tech,Spencer Reed,48319,George Mason
+2019,01/12,Shorty Hitchcock Open,141,W,DEC,11 - 4,Anthony Sountis,55915,Maryland,Mel Ortiz,56954,George Mason
+2019,01/12,Shorty Hitchcock Open,141,W,FALL,2:56,Chris Scorese,51031,Columbia,Mel Ortiz,56954,George Mason
+2019,01/12,Shorty Hitchcock Open,141,L,DEC,4 - 1,Marcus Robinson,56479,Buffalo,Mel Ortiz,56954,George Mason
+2019,01/12,Shorty Hitchcock Open,141,L,FALL,4:54,Pj Ogunsanya,54496,Army West Point,Mel Ortiz,56954,George Mason
+2019,12/20,George Mason - Davidson Dual,133,W,DEC,10 - 6,Kyle Gorant,51686,Davidson,Mel Ortiz,56954,George Mason
+2019,12/20,George Mason - Gardner-Webb Dual,133,W,DEC,11 - 4,Brandon Bright,51345,Gardner-Webb,Mel Ortiz,56954,George Mason
+2019,12/09,Patriots Open,133,W,DEC,10 - 3,Patrick McCormick,57063,Virginia,Mel Ortiz,56954,George Mason
+2019,12/09,Patriots Open,133,W,DEC,3 - 1,Hunter Graf,51359,Virginia Tech,Mel Ortiz,56954,George Mason
+2019,12/09,Patriots Open,133,W,DEC,6 - 3,Chris Wright,51092,Rider,Mel Ortiz,56954,George Mason
+2019,12/09,Patriots Open,133,L,DEC,6 - 4,Sam Book,49332,Virginia,Mel Ortiz,56954,George Mason
+2019,12/09,Patriots Open,133,L,DEC,6 - 4,Brandon Loperfido,44874,Lock Haven,Mel Ortiz,56954,George Mason
+2019,12/08,Buffalo - George Mason Dual,133,L,DEC,11 - 10,Derek Spann,45028,Buffalo,Mel Ortiz,56954,George Mason
+2019,11/30,George Mason - Lock Haven Dual,133,L,DEC,8 - 3,Dalton Rohrbaugh,51091,Lock Haven,Mel Ortiz,56954,George Mason
+2019,11/29,George Mason - Bloomsburg Dual,133,W,TB-1,5 - 4,Lewis Williams,40291,Bloomsburg,Mel Ortiz,56954,George Mason
+2019,11/17,Navy Classic,133,W,FALL,2:50,Russell Benson,56325,Delaware Valley,Mel Ortiz,56954,George Mason
+2019,11/17,Navy Classic,133,L,DEC,7 - 2,Anthony Tutolo,19968,Michigan State,Mel Ortiz,56954,George Mason
+2019,11/17,Navy Classic,133,L,DEC,5 - 2,Armando Torres,19876,Cleveland State,Mel Ortiz,56954,George Mason
+2019,11/17,Navy Classic,133,W,DEC,12 - 5,Hunter Kosco,49058,Brown,Mel Ortiz,56954,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,133,W,DEC,13 - 7,Mitchell Polito,54384,Lehigh,Mel Ortiz,56954,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,133,W,DEC,10 - 6,Anthony Duca,49206,Navy,Mel Ortiz,56954,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,133,L,DEC,3 - 2,Casey Cobb,45566,Navy,Mel Ortiz,56954,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,133,L,DEC,6 - 3,Chaz Tucker,39771,Cornell,Mel Ortiz,56954,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,133,L,DEC,7 - 6,Hunter Kosco,49058,Brown,Mel Ortiz,56954,George Mason
+2019,11/04,Hokie Open,133,W,MD,15 - 6,Cole Rhone,58322,Unattached,Mel Ortiz,56954,George Mason
+2019,11/04,Hokie Open,133,W,DEC,14 - 13,Trevor Mansfield,58321,Newberry,Mel Ortiz,56954,George Mason
+2019,11/04,Hokie Open,133,L,DEC,7 - 3,Collin Gerardi,51286,Virginia Tech,Mel Ortiz,56954,George Mason
+2019,11/04,Hokie Open,133,W,DEC,5 - 2,Caleb Birdwell,57186,Campbell,Mel Ortiz,56954,George Mason
+2019,11/02,George Mason - VMI Dual,133,L,DEC,6 - 3,Hunter Starner,20701,VMI,Mel Ortiz,56954,George Mason
+2019,03/09,EWL Championships,141,L,DEC,6 - 2,Travis Layton,49041,Rider,Julio Alegria,56956,George Mason
+2019,03/09,EWL Championships,141,L,TF5,16 - 0 2:14,Kyle Shoop,39682,Lock Haven,Julio Alegria,56956,George Mason
+2019,02/22,George Mason - Hofstra Dual,141,L,DEC,10 - 5,Garrett Lambert,44698,Hofstra,Julio Alegria,56956,George Mason
+2019,02/17,Maryland - George Mason Dual,141,L,MD,11 - 1,Danny Bertoni,49173,Maryland,Julio Alegria,56956,George Mason
+2019,02/15,George Mason - American Dual,141,L,FALL,2:38,Jack Mutchnik,13900,American,Julio Alegria,56956,George Mason
+2019,01/31,George Mason - Rider Dual,141,L,DEC,10 - 8,Travis Layton,49041,Rider,Julio Alegria,56956,George Mason
+2019,01/27,Edinboro - George Mason Dual,141,W,TF5,16 - 1 3:00,Avery Henry,20722,Edinboro,Julio Alegria,56956,George Mason
+2019,01/17,George Mason - Clarion Dual,141,W,FALL,3:22,Jalin Hankerson,49095,Clarion,Julio Alegria,56956,George Mason
+2019,01/13,The Citadel - George Mason Dual,141,W,FALL,1:24,Ethan Phillips,51220,The Citadel,Julio Alegria,56956,George Mason
+2019,01/10,Columbia - George Mason Dual,141,L,FALL,1:33,Danny Fongaro,51713,Columbia,Julio Alegria,56956,George Mason
+2019,01/10,Cleveland State - George Mason Dual,141,L,SV-1,4 - 2,Mike Santillo,51055,Cleveland State,Julio Alegria,56956,George Mason
+2019,12/20,George Mason - Davidson Dual,141,L,DEC,23 - 21,Caleb Ziebell,51121,Davidson,Julio Alegria,56956,George Mason
+2019,12/20,George Mason - Gardner-Webb Dual,141,L,DEC,12 - 7,Blake Mulkey,56348,Gardner-Webb,Julio Alegria,56956,George Mason
+2019,12/09,Patriots Open,141,L,DEC,9 - 2,Jake Cherry,49288,Pittsburgh,Julio Alegria,56956,George Mason
+2019,12/09,Patriots Open,141,L,DEC,7 - 1,Danny Bertoni,49173,Maryland,Julio Alegria,56956,George Mason
+2019,12/08,Buffalo - George Mason Dual,141,L,DEC,6 - 2,John Arceri,47552,Buffalo,Julio Alegria,56956,George Mason
+2019,11/30,George Mason - Lock Haven Dual,141,L,TF5,16 - 0 1:40,Kyle Shoop,39682,Lock Haven,Julio Alegria,56956,George Mason
+2019,11/29,George Mason - Bloomsburg Dual,141,L,DEC,8 - 5,Aaron Coleman,56856,Bloomsburg,Julio Alegria,56956,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,149,L,DEC,9 - 4,Zac Feight,55948,George Mason,Julio Alegria,56956,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,149,L,MD,14 - 4,AJ Burkhart,50632,Lehigh,Julio Alegria,56956,George Mason
+2019,11/04,Hokie Open,149,W,DEC,9 - 3,David Giantono,58320,Newberry,Julio Alegria,56956,George Mason
+2019,11/04,Hokie Open,149,L,DEC,8 - 5,Tony Negron,58308,Wolfpack Wrestling Club,Julio Alegria,56956,George Mason
+2019,11/04,Hokie Open,149,L,DEC,5 - 2,Bobby Pryhocki,50956,Campbell,Julio Alegria,56956,George Mason
+2019,11/04,Hokie Open,141,W,MD,16 - 4,William Deese,57828,UNC Pembroke,Lio Quezada,45062,George Mason
+2019,11/04,Hokie Open,141,W,DEC,8 - 2,Taquel Young,57822,Emmanuel,Lio Quezada,45062,George Mason
+2019,11/04,Hokie Open,141,W,FALL,2:04,Adrian Davenport,51356,UNC Pembroke,Lio Quezada,45062,George Mason
+2019,11/04,Hokie Open,141,W,DEC,4 - 1,Isiah Royal,51307,Newberry,Lio Quezada,45062,George Mason
+2019,11/04,Hokie Open,141,L,DEC,10 - 4,Aiden Murphy,50950,Chattanooga,Lio Quezada,45062,George Mason
+2019,11/04,Hokie Open,141,L,DEC,7 - 5,Davion Fairley,49087,Chattanooga,Lio Quezada,45062,George Mason
+2019,11/02,George Mason - VMI Dual,141,L,DEC,1 - 0,Dominick Gallo,39739,VMI,Lio Quezada,45062,George Mason
+2019,03/21,NCAA Championships,149,L,DEC,6 - 2,Brady Berge,49277,Penn State,Tejon Anthony,19896,George Mason
+2019,03/21,NCAA Championships,149,W,DEC,3 - 1,Henry Pohlmeyer,39803,South Dakota State,Tejon Anthony,19896,George Mason
+2019,03/21,NCAA Championships,149,L,DEC,3 - 1,Austin O'Connor,49214,North Carolina,Tejon Anthony,19896,George Mason
+2019,03/09,EWL Championships,149,W,DEC,5 - 2,Brock Port,49168,Lock Haven,Tejon Anthony,19896,George Mason
+2019,03/09,EWL Championships,149,W,DEC,13 - 6,Evan Fidelibus,44900,Rider,Tejon Anthony,19896,George Mason
+2019,03/09,EWL Championships,149,W,MD,10 - 2,Tyler Vath,40445,Edinboro,Tejon Anthony,19896,George Mason
+2019,02/22,George Mason - Hofstra Dual,149,W,DEC,10 - 4,Holden Heller,50940,Hofstra,Tejon Anthony,19896,George Mason
+2019,02/17,Maryland - George Mason Dual,149,L,SV-1,5 - 3,Alfred Bannister,19997,Maryland,Tejon Anthony,19896,George Mason
+2019,02/15,George Mason - American Dual,149,W,DEC,7 - 1,Michael Sprague,19618,American,Tejon Anthony,19896,George Mason
+2019,02/09,George Mason - Franklin & Marshall Dual,149,W,MD,15 - 4,Chris Martorello,40384,Franklin & Marshall,Tejon Anthony,19896,George Mason
+2019,01/31,George Mason - Rider Dual,149,W,DEC,8 - 4,Gary Dinmore,23397,Rider,Tejon Anthony,19896,George Mason
+2019,01/27,Edinboro - George Mason Dual,149,W,MD,12 - 4,Tyler Vath,40445,Edinboro,Tejon Anthony,19896,George Mason
+2019,01/17,George Mason - Clarion Dual,157,L,DEC,8 - 7,Michael Bartolo,40462,Clarion,Tejon Anthony,19896,George Mason
+2019,01/13,The Citadel - George Mason Dual,149,L,DEC,12 - 9,Selwyn Porter,57380,The Citadel,Tejon Anthony,19896,George Mason
+2019,01/10,Columbia - George Mason Dual,149,W,DEC,6 - 2,Riley Jacops,51032,Columbia,Tejon Anthony,19896,George Mason
+2019,01/10,Cleveland State - George Mason Dual,149,W,TF5,19 - 4 6:43,Grant Turnmire,39857,Cleveland State,Tejon Anthony,19896,George Mason
+2019,01/01,Southern Scuffle,149,W,SV-1,3 - 1,Alec Hagan,49248,Ohio,Tejon Anthony,19896,George Mason
+2019,01/01,Southern Scuffle,149,L,DEC,8 - 6,Jarrett Degen,44855,Iowa State,Tejon Anthony,19896,George Mason
+2019,01/01,Southern Scuffle,149,L,DEC,8 - 3,Jared Prince,41363,Navy,Tejon Anthony,19896,George Mason
+2019,01/01,Southern Scuffle,149,W,MD,15 - 7,Troy Nation,57189,Campbell,Tejon Anthony,19896,George Mason
+2019,01/01,Southern Scuffle,149,W,DEC,10 - 6,Douglas Gudenburr,45587,The Citadel,Tejon Anthony,19896,George Mason
+2019,01/01,Southern Scuffle,149,W,DEC,7 - 3,Thomas Stager,49028,Air Force,Tejon Anthony,19896,George Mason
+2019,12/20,George Mason - Davidson Dual,149,W,MD,16 - 5,Aidan Conroy,39860,Davidson,Tejon Anthony,19896,George Mason
+2019,12/20,George Mason - Gardner-Webb Dual,149,W,FALL,4:44,Conrad Schiess,57171,Gardner-Webb,Tejon Anthony,19896,George Mason
+2019,12/09,Patriots Open,149,W,SV-1,2 - 1,Luke Kemerer,50929,Pittsburgh,Tejon Anthony,19896,George Mason
+2019,12/09,Patriots Open,149,W,MD,13 - 4,Will Kaldes,50123,Pittsburgh,Tejon Anthony,19896,George Mason
+2019,12/09,Patriots Open,149,W,DEC,8 - 4,Brock Port,49168,Lock Haven,Tejon Anthony,19896,George Mason
+2019,12/09,Patriots Open,149,W,MFOR,0 - 0,Lucas Ortiz,45226,Lock Haven,Tejon Anthony,19896,George Mason
+2019,12/09,Patriots Open,149,W,FALL,2:48,Samuel Lynch,51173,Brown,Tejon Anthony,19896,George Mason
+2019,12/08,Buffalo - George Mason Dual,149,W,MD,12 - 3,Jason Estevez,17873,Buffalo,Tejon Anthony,19896,George Mason
+2019,11/30,George Mason - Lock Haven Dual,149,L,FALL,4:29,Jonathan Ross,44894,Lock Haven,Tejon Anthony,19896,George Mason
+2019,11/29,George Mason - Bloomsburg Dual,149,W,MD,16 - 4,Grant Bond,40304,Bloomsburg,Tejon Anthony,19896,George Mason
+2019,11/17,Navy Classic,149,W,FALL,6:34,Tristan Sellmer,51646,Indiana,Tejon Anthony,19896,George Mason
+2019,11/17,Navy Classic,149,W,DEC,8 - 4,Jaden Enriquez,49186,Michigan State,Tejon Anthony,19896,George Mason
+2019,11/17,Navy Classic,149,W,DEC,9 - 4,Kade Kowalski,41852,Ohio,Tejon Anthony,19896,George Mason
+2019,11/17,Navy Classic,149,L,DEC,3 - 1,Josh Heil,45100,Campbell,Tejon Anthony,19896,George Mason
+2019,11/17,Navy Classic,149,W,FALL,1:47,Zachary Krause,44980,Brown,Tejon Anthony,19896,George Mason
+2019,11/04,Hokie Open,149,L,DEC,4 - 1,Kyler Rea,44945,West Virginia,Tejon Anthony,19896,George Mason
+2019,11/04,Hokie Open,149,W,DEC,4 - 3,Christian Monserrat,20473,West Virginia,Tejon Anthony,19896,George Mason
+2019,11/04,Hokie Open,149,L,TF5,19 - 4 7:00,Mitch Finesilver,19861,Duke,Tejon Anthony,19896,George Mason
+2019,11/04,Hokie Open,149,W,MD,16 - 4,Aidan Conroy,39860,Davidson,Tejon Anthony,19896,George Mason
+2019,11/02,George Mason - VMI Dual,149,W,DEC,14 - 7,Darren Ostrander,39982,VMI,Tejon Anthony,19896,George Mason
+2019,02/24,Mat-Town Open II,157,L,DEC,7 - 3,Brian Borden,58228,Unattached,Zac Feight,55948,George Mason
+2019,02/24,Mat-Town Open II,157,W,DEC,5 - 4,Willy Kaiser,56008,Pennsylvania,Zac Feight,55948,George Mason
+2019,02/24,Mat-Town Open II,157,L,DEC,6 - 1,Alex Smythe,19730,Buffalo,Zac Feight,55948,George Mason
+2019,01/12,Shorty Hitchcock Open,157,W,DEC,4 - 3,Stefahn Mayo,58229,Unattached,Zac Feight,55948,George Mason
+2019,01/12,Shorty Hitchcock Open,157,W,DEC,4 - 0,Alex Carida,56789,Bloomsburg,Zac Feight,55948,George Mason
+2019,01/12,Shorty Hitchcock Open,157,L,FALL,1:32,Tanner Cook,51408,Spartan Combat RTC,Zac Feight,55948,George Mason
+2019,01/12,Shorty Hitchcock Open,157,L,FALL,0:40,Scout Skidgel,44939,Navy,Zac Feight,55948,George Mason
+2019,01/05,Franklin & Marshall Open,149,W,DEC,9 - 2,Bobby Groves,56816,Harvard,Zac Feight,55948,George Mason
+2019,01/05,Franklin & Marshall Open,149,L,DEC,10 - 5,Cole Aaron,44902,Franklin & Marshall,Zac Feight,55948,George Mason
+2019,01/05,Franklin & Marshall Open,149,L,DEC,4 - 2,Aidan Conroy,39860,Davidson,Zac Feight,55948,George Mason
+2019,12/09,Patriots Open,149,W,MFOR,0 - 0,Jamar Williams,55824,Maryland,Zac Feight,55948,George Mason
+2019,12/09,Patriots Open,149,L,SV-1,5 - 3,Chase Summer,57930,Pittsburgh,Zac Feight,55948,George Mason
+2019,12/09,Patriots Open,149,L,DEC,10 - 6,Will Kaldes,50123,Pittsburgh,Zac Feight,55948,George Mason
+2019,11/18,Wolfpack Open,149,L,FALL,2:13,Selwyn Porter,57380,The Citadel,Zac Feight,55948,George Mason
+2019,11/18,Wolfpack Open,149,L,DEC,7 - 1,Matt Fields,51613,NC State,Zac Feight,55948,George Mason
+2019,11/18,Wolfpack Open,149,W,DEC,7 - 1,Chase McKinney,57170,Gardner-Webb,Zac Feight,55948,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,149,W,DEC,9 - 4,Julio Alegria,56956,George Mason,Zac Feight,55948,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,149,L,MD,18 - 8,AJ Jaffe,44752,Unattached,Zac Feight,55948,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,149,L,MD,8 - 0,Noah Hanau,41273,Army West Point,Zac Feight,55948,George Mason
+2019,11/04,Hokie Open,149,L,FALL,3:26,David Giantono,58320,Newberry,Zac Feight,55948,George Mason
+2019,11/04,Hokie Open,149,L,DEC,12 - 6,Selwyn Porter,57380,The Citadel,Zac Feight,55948,George Mason
+2019,01/17,George Mason - Clarion Dual,149,L,DEC,4 - 3,Joe Sliwoski,44849,Clarion,Justin Yorkdale,45347,George Mason
+2019,01/13,The Citadel - George Mason Dual,157,L,TF5,17 - 0 4:59,Rian Burris,45586,The Citadel,Justin Yorkdale,45347,George Mason
+2019,01/01,Southern Scuffle,149,L,FALL,4:20,Kaden Gfeller,49261,Oklahoma State,Justin Yorkdale,45347,George Mason
+2019,01/01,Southern Scuffle,149,L,DEC,8 - 1,Douglas Gudenburr,45587,The Citadel,Justin Yorkdale,45347,George Mason
+2019,12/09,Patriots Open,149,W,FALL,3:43,Yosef Ellis-rech,60359,Johns Hopkins,Justin Yorkdale,45347,George Mason
+2019,12/09,Patriots Open,149,W,DEC,6 - 3,Jeremy Ridge,56192,Pennsylvania,Justin Yorkdale,45347,George Mason
+2019,12/09,Patriots Open,149,L,DEC,11 - 7,Will Kaldes,50123,Pittsburgh,Justin Yorkdale,45347,George Mason
+2019,12/09,Patriots Open,149,L,DEC,6 - 4,Dallas Bulsak,49286,Pittsburgh,Justin Yorkdale,45347,George Mason
+2019,12/09,Patriots Open,149,W,DEC,6 - 1,Samuel Lynch,51173,Brown,Justin Yorkdale,45347,George Mason
+2019,11/17,Navy Classic,149,W,DEC,7 - 4,Robert Duxbury,47797,Delaware Valley,Justin Yorkdale,45347,George Mason
+2019,11/17,Navy Classic,149,W,DEC,11 - 5,Sam Matzek,41219,Cleveland State,Justin Yorkdale,45347,George Mason
+2019,11/17,Navy Classic,149,W,DEC,9 - 5,Grant Turnmire,39857,Cleveland State,Justin Yorkdale,45347,George Mason
+2019,11/17,Navy Classic,149,L,TF5,15 - 0 3:44,Josh Heil,45100,Campbell,Justin Yorkdale,45347,George Mason
+2019,11/17,Navy Classic,149,L,DEC,9 - 3,Michael Sprague,19618,American,Justin Yorkdale,45347,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,149,L,FALL,3:25,Chase McCollum,54179,Franklin & Marshall,Justin Yorkdale,45347,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,149,L,DEC,7 - 2,Frank Garcia,41394,Binghamton,Justin Yorkdale,45347,George Mason
+2019,11/04,Hokie Open,149,L,FALL,1:51,Douglas Gudenburr,45587,The Citadel,Justin Yorkdale,45347,George Mason
+2019,11/04,Hokie Open,149,L,MD,14 - 2,Kyler Rea,44945,West Virginia,Justin Yorkdale,45347,George Mason
+2019,11/04,Hokie Open,149,W,DEC,13 - 6,Brenden Ryan,42872,Virginia Tech,Justin Yorkdale,45347,George Mason
+2019,03/09,EWL Championships,157,L,FALL,1:49,Alex Klucker,40289,Lock Haven,Kolby Ho,55945,George Mason
+2019,03/09,EWL Championships,157,W,DEC,8 - 5,Tim Suter,51064,Edinboro,Kolby Ho,55945,George Mason
+2019,03/09,EWL Championships,157,W,DEC,3 - 2,Nico Odor,45039,Cleveland State,Kolby Ho,55945,George Mason
+2019,02/22,George Mason - Hofstra Dual,157,W,DEC,8 - 2,Ryan Burkert,43280,Hofstra,Kolby Ho,55945,George Mason
+2019,02/17,Maryland - George Mason Dual,157,W,DEC,6 - 3,Ryan Diehl,40240,Maryland,Kolby Ho,55945,George Mason
+2019,02/15,George Mason - American Dual,157,L,FALL,2:29,Kizhan Clarke,44878,American,Kolby Ho,55945,George Mason
+2019,02/09,George Mason - Franklin & Marshall Dual,157,W,FALL,6:31,Patrick Quinlan,20543,Franklin & Marshall,Kolby Ho,55945,George Mason
+2019,01/31,George Mason - Rider Dual,157,L,DEC,6 - 5,Gino Fluri,40130,Rider,Kolby Ho,55945,George Mason
+2019,01/27,Edinboro - George Mason Dual,157,W,MD,12 - 4,Tim Suter,51064,Edinboro,Kolby Ho,55945,George Mason
+2019,01/10,Columbia - George Mason Dual,157,L,INJ,7:00,Dan Reed,19818,Columbia,Kolby Ho,55945,George Mason
+2019,01/10,Cleveland State - George Mason Dual,157,W,DEC,7 - 5,Nico Odor,45039,Cleveland State,Kolby Ho,55945,George Mason
+2019,01/01,Southern Scuffle,157,W,DEC,6 - 5,Quentin Hovis,49199,Navy,Kolby Ho,55945,George Mason
+2019,01/01,Southern Scuffle,157,W,DEC,10 - 5,William Formato,57034,Appalachian State,Kolby Ho,55945,George Mason
+2019,01/01,Southern Scuffle,157,L,DEC,10 - 6,Benjamin Anderson,51087,Duke,Kolby Ho,55945,George Mason
+2019,01/01,Southern Scuffle,157,L,DEC,8 - 3,Dan Reed,19818,Columbia,Kolby Ho,55945,George Mason
+2019,12/20,George Mason - Davidson Dual,157,W,DEC,5 - 2,Tony Palumbo,40330,Davidson,Kolby Ho,55945,George Mason
+2019,12/20,George Mason - Gardner-Webb Dual,157,W,TF5,20 - 5 5:59,Chase McKinney,57170,Gardner-Webb,Kolby Ho,55945,George Mason
+2019,12/09,Patriots Open,157,L,DEC,9 - 5,Justin McCoy,50946,Virginia,Kolby Ho,55945,George Mason
+2019,12/09,Patriots Open,157,W,DEC,8 - 6,Hunter Jones,45169,West Virginia,Kolby Ho,55945,George Mason
+2019,12/09,Patriots Open,157,W,FALL,2:54,Riley Barth,40348,Pittsburgh,Kolby Ho,55945,George Mason
+2019,12/09,Patriots Open,157,W,TF5,21 - 6 6:42,Jack Bokina,56798,Brown,Kolby Ho,55945,George Mason
+2019,12/08,Buffalo - George Mason Dual,157,L,SV-1,7 - 5,Alex Smythe,19730,Buffalo,Kolby Ho,55945,George Mason
+2019,11/30,George Mason - Lock Haven Dual,157,W,MD,11 - 3,Alex Klucker,40289,Lock Haven,Kolby Ho,55945,George Mason
+2019,11/29,George Mason - Bloomsburg Dual,157,W,MD,14 - 5,Nate Newberry,45190,Bloomsburg,Kolby Ho,55945,George Mason
+2019,11/17,Navy Classic,157,W,FALL,2:38,Daniel Colon,56116,Delaware Valley,Kolby Ho,55945,George Mason
+2019,11/17,Navy Classic,157,L,MD,13 - 4,Larry Early,39519,Old Dominion,Kolby Ho,55945,George Mason
+2019,11/17,Navy Classic,157,L,MD,8 - 0,Jake Danishek,20520,Indiana,Kolby Ho,55945,George Mason
+2019,11/17,Navy Classic,157,W,MD,16 - 6,Tim Suter,51064,Edinboro,Kolby Ho,55945,George Mason
+2019,11/04,Hokie Open,157,W,TF5,18 - 3 3:53,Kyle Daley,58317,Limestone,Kolby Ho,55945,George Mason
+2019,11/04,Hokie Open,157,L,DEC,9 - 7,Justin McCoy,50946,Virginia,Kolby Ho,55945,George Mason
+2019,11/04,Hokie Open,157,W,DEC,10 - 8,Ryan Resnick,49092,Chattanooga,Kolby Ho,55945,George Mason
+2019,11/04,Hokie Open,157,W,MD,20 - 8,Oszkar Kasch,51592,Campbell,Kolby Ho,55945,George Mason
+2019,11/02,George Mason - VMI Dual,157,W,TF5,27 - 10 6:07,Jerrod Hunziker,57298,VMI,Kolby Ho,55945,George Mason
+2019,01/31,George Mason - Rider Dual,165,L,TF5,15 - 0 4:59,Jesse Dellavecchia,39574,Rider,Ryan Yorkdale,45348,George Mason
+2019,12/09,Patriots Open,157,L,DEC,3 - 2,Tyler Megonigal,57357,Lock Haven,Ryan Yorkdale,45348,George Mason
+2019,12/09,Patriots Open,157,L,DEC,6 - 4,Willy Kaiser,56008,Pennsylvania,Ryan Yorkdale,45348,George Mason
+2019,11/18,Wolfpack Open,157,L,FALL,4:47,Rian Burris,45586,The Citadel,Ryan Yorkdale,45348,George Mason
+2019,11/18,Wolfpack Open,157,L,DEC,10 - 3,Tyler Makosy,44452,UNC Pembroke,Ryan Yorkdale,45348,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,157,L,FALL,4:02,Josh Humphreys,55860,Lehigh,Ryan Yorkdale,45348,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,157,L,DEC,12 - 6,Jack Fisher,58179,Army West Point,Ryan Yorkdale,45348,George Mason
+2019,11/04,Hokie Open,157,L,FALL,6:02,Rian Burris,45586,The Citadel,Ryan Yorkdale,45348,George Mason
+2019,11/04,Hokie Open,157,L,FALL,4:27,Kennedy Monday,45025,North Carolina,Ryan Yorkdale,45348,George Mason
+2019,02/24,Mat-Town Open II,165,W,MFOR,0 - 0,Tyler Hazard,49164,Old Dominion,Ali Salem,58299,George Mason
+2019,02/24,Mat-Town Open II,165,L,FALL,4:30,Jack Conway,44785,Pennsylvania,Ali Salem,58299,George Mason
+2019,02/24,Mat-Town Open II,165,L,FALL,1:37,Gordon Wolf,19992,Lehigh,Ali Salem,58299,George Mason
+2019,01/12,Shorty Hitchcock Open,165,L,DEC,10 - 4,Jack Bond,56516,Old Dominion,Ali Salem,58299,George Mason
+2019,01/12,Shorty Hitchcock Open,165,L,FALL,3:46,Neil Antrassian,56202,Pennsylvania,Ali Salem,58299,George Mason
+2019,12/09,Patriots Open,157,L,FALL,4:01,Justin McCoy,50946,Virginia,Ali Salem,58299,George Mason
+2019,12/09,Patriots Open,157,L,MD,10 - 1,Riley Barth,40348,Pittsburgh,Ali Salem,58299,George Mason
+2019,11/18,Wolfpack Open,157,W,FALL,2:52,Sebastian Collazo,57377,The Citadel,Ali Salem,58299,George Mason
+2019,11/18,Wolfpack Open,157,W,DEC,10 - 7,Liam Kirkpatrick,57424,Queens,Ali Salem,58299,George Mason
+2019,11/18,Wolfpack Open,157,L,MD,14 - 4,Christopher Cohens,57422,Queens,Ali Salem,58299,George Mason
+2019,11/18,Wolfpack Open,157,L,MD,10 - 1,Benjamin Barton,44733,Campbell,Ali Salem,58299,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,157,L,FALL,0:48,Connor Prince,41355,Navy,Ali Salem,58299,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,157,L,TF5,15 - 0 7:00,Noah Chan,57227,Franklin & Marshall,Ali Salem,58299,George Mason
+2019,11/04,Hokie Open,157,W,FALL,2:43,Sebastian Collazo,57377,The Citadel,Ali Salem,58299,George Mason
+2019,11/04,Hokie Open,157,L,DEC,12 - 6,Michael Goldfeder,57128,North Carolina,Ali Salem,58299,George Mason
+2019,11/04,Hokie Open,157,L,TF5,16 - 0 2:25,Oszkar Kasch,51592,Campbell,Ali Salem,58299,George Mason
+2019,03/21,NCAA Championships,165,L,DEC,5 - 1,Tyler Morland,49243,Northwestern,Colston DiBlasi,39718,George Mason
+2019,03/21,NCAA Championships,165,L,MD,14 - 4,Josh Shields,39511,Arizona State,Colston DiBlasi,39718,George Mason
+2019,03/09,EWL Championships,165,L,MD,14 - 6,Jesse Dellavecchia,39574,Rider,Colston DiBlasi,39718,George Mason
+2019,03/09,EWL Championships,165,W,SV-1,9 - 7,Fritz Hoehn,39762,Edinboro,Colston DiBlasi,39718,George Mason
+2019,03/09,EWL Championships,165,W,FALL,0:54,Ryan Ford,44594,Cleveland State,Colston DiBlasi,39718,George Mason
+2019,03/09,EWL Championships,165,L,DEC,3 - 1,Evan DeLong,19790,Clarion,Colston DiBlasi,39718,George Mason
+2019,02/22,George Mason - Hofstra Dual,165,W,SV-1,8 - 6,Chris Mauriello,44614,Hofstra,Colston DiBlasi,39718,George Mason
+2019,02/17,Maryland - George Mason Dual,165,W,MD,9 - 0,Philip Spadafora,51167,Maryland,Colston DiBlasi,39718,George Mason
+2019,02/15,George Mason - American Dual,165,W,FALL,2:18,Anthony Wokasch,44729,American,Colston DiBlasi,39718,George Mason
+2019,02/09,George Mason - Franklin & Marshall Dual,165,W,FALL,2:46,Crew Fullerton,57225,Franklin & Marshall,Colston DiBlasi,39718,George Mason
+2019,01/27,Edinboro - George Mason Dual,165,L,MD,13 - 3,Fritz Hoehn,39762,Edinboro,Colston DiBlasi,39718,George Mason
+2019,01/17,George Mason - Clarion Dual,165,W,DEC,4 - 2,Evan DeLong,19790,Clarion,Colston DiBlasi,39718,George Mason
+2019,01/13,The Citadel - George Mason Dual,165,W,FALL,6:05,Dazjon Casto,57183,The Citadel,Colston DiBlasi,39718,George Mason
+2019,01/10,Columbia - George Mason Dual,165,W,FALL,7:00,Laurence Kosoy,45330,Columbia,Colston DiBlasi,39718,George Mason
+2019,01/10,Cleveland State - George Mason Dual,165,W,MD,11 - 0,John Vaughn,40905,Cleveland State,Colston DiBlasi,39718,George Mason
+2019,01/01,Southern Scuffle,165,L,DEC,5 - 2,Tanner Skidgel,49200,Navy,Colston DiBlasi,39718,George Mason
+2019,01/01,Southern Scuffle,165,W,DEC,11 - 6,Trey Watson,42896,Chattanooga,Colston DiBlasi,39718,George Mason
+2019,01/01,Southern Scuffle,165,W,DEC,6 - 3,Riley Smucker,56147,Appalachian State,Colston DiBlasi,39718,George Mason
+2019,01/01,Southern Scuffle,165,W,FALL,1:23,Mason Eaglin,57137,Duke,Colston DiBlasi,39718,George Mason
+2019,01/01,Southern Scuffle,165,L,DEC,6 - 1,Zach Finesilver,19862,Duke,Colston DiBlasi,39718,George Mason
+2019,12/20,George Mason - Davidson Dual,165,W,FALL,2:34,Erik Eva,51189,Davidson,Colston DiBlasi,39718,George Mason
+2019,12/20,George Mason - Gardner-Webb Dual,165,L,DEC,5 - 0,Tyler Marinelli,20797,Gardner-Webb,Colston DiBlasi,39718,George Mason
+2019,12/09,Patriots Open,165,L,DEC,2 - 1,Caleb Clymer,56372,Lock Haven,Colston DiBlasi,39718,George Mason
+2019,12/09,Patriots Open,165,W,FALL,4:47,Jordan Florence,52574,Virginia Tech,Colston DiBlasi,39718,George Mason
+2019,12/09,Patriots Open,165,W,FALL,1:50,Jack Conway,44785,Pennsylvania,Colston DiBlasi,39718,George Mason
+2019,12/09,Patriots Open,165,W,FALL,3:47,Timothy Fitzpatrick,57254,American,Colston DiBlasi,39718,George Mason
+2019,12/09,Patriots Open,165,W,MD,11 - 3,Anthony Wokasch,44729,American,Colston DiBlasi,39718,George Mason
+2019,12/08,Buffalo - George Mason Dual,165,W,DEC,12 - 6,Noah Grover,51227,Buffalo,Colston DiBlasi,39718,George Mason
+2019,11/29,George Mason - Bloomsburg Dual,165,W,MD,15 - 4,Alex Carida,56789,Bloomsburg,Colston DiBlasi,39718,George Mason
+2019,11/17,Navy Classic,165,W,FALL,5:20,Aaron Olmos,50177,Oregon State,Colston DiBlasi,39718,George Mason
+2019,11/17,Navy Classic,165,W,FALL,2:20,Bryce Martin,20524,Indiana,Colston DiBlasi,39718,George Mason
+2019,11/17,Navy Classic,165,W,FALL,2:23,Isaac Bast,19972,Kent State,Colston DiBlasi,39718,George Mason
+2019,11/17,Navy Classic,165,W,FALL,4:08,Cameron Pine,57196,Campbell,Colston DiBlasi,39718,George Mason
+2019,11/17,Navy Classic,165,L,DEC,4 - 0,Jonathan Viruet,39839,Brown,Colston DiBlasi,39718,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,165,W,MD,10 - 2,Dillon Taylor,49202,Navy,Colston DiBlasi,39718,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,165,W,FALL,4:33,Tyler Casamenti,40246,Lehigh,Colston DiBlasi,39718,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,165,W,FALL,8:21,Milik Dawkins,41360,Cornell,Colston DiBlasi,39718,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,165,L,MD,11 - 0,Jonathan Viruet,39839,Brown,Colston DiBlasi,39718,George Mason
+2019,11/04,Hokie Open,165,L,FALL,1:02,Nick Kiussis,49345,West Virginia,Colston DiBlasi,39718,George Mason
+2019,11/04,Hokie Open,165,L,DEC,4 - 2,Bryce Martin,20524,Indiana,Colston DiBlasi,39718,George Mason
+2019,11/04,Hokie Open,165,W,DEC,7 - 4,Rodney Shepard,14784,UNC Pembroke,Colston DiBlasi,39718,George Mason
+2019,11/04,Hokie Open,165,W,FALL,4:43,Maliik Marcin,51088,Duke,Colston DiBlasi,39718,George Mason
+2019,11/02,George Mason - VMI Dual,174,L,TF5,19 - 4 7:00,Neal Richards,39991,VMI,Colston DiBlasi,39718,George Mason
+2019,03/09,EWL Championships,174,L,MD,15 - 6,Jacob Oliver,49130,Edinboro,Cornelius Schuster,55781,George Mason
+2019,03/09,EWL Championships,174,L,DEC,8 - 3,Taylor Cahill,39848,Clarion,Cornelius Schuster,55781,George Mason
+2019,02/22,George Mason - Hofstra Dual,174,L,DEC,6 - 3,Ricky Stamm,44699,Hofstra,Cornelius Schuster,55781,George Mason
+2019,02/17,Maryland - George Mason Dual,174,L,DEC,4 - 2,Josh Ugalde,39515,Maryland,Cornelius Schuster,55781,George Mason
+2019,02/15,George Mason - American Dual,174,L,DEC,2 - 1,Conner Allshouse,44877,American,Cornelius Schuster,55781,George Mason
+2019,02/09,George Mason - Franklin & Marshall Dual,174,W,DEC,5 - 0,Jacob Conners,19887,Franklin & Marshall,Cornelius Schuster,55781,George Mason
+2019,01/31,George Mason - Rider Dual,174,L,DEC,7 - 2,George Walton,49265,Rider,Cornelius Schuster,55781,George Mason
+2019,01/27,Edinboro - George Mason Dual,174,L,DEC,8 - 4,Jacob Oliver,49130,Edinboro,Cornelius Schuster,55781,George Mason
+2019,01/17,George Mason - Clarion Dual,174,L,DEC,3 - 2,Max Wohlabaugh,49096,Clarion,Cornelius Schuster,55781,George Mason
+2019,01/13,The Citadel - George Mason Dual,174,W,DEC,5 - 3,Kyle Kretzer,57184,The Citadel,Cornelius Schuster,55781,George Mason
+2019,01/10,Columbia - George Mason Dual,174,W,DEC,4 - 2,Max Elling,39877,Columbia,Cornelius Schuster,55781,George Mason
+2019,01/10,Cleveland State - George Mason Dual,174,W,FALL,1:22,Colton Carroll,45335,Cleveland State,Cornelius Schuster,55781,George Mason
+2019,12/20,George Mason - Davidson Dual,174,W,DEC,6 - 0,Noah Satterfield,44861,Davidson,Cornelius Schuster,55781,George Mason
+2019,12/20,George Mason - Gardner-Webb Dual,174,L,DEC,9 - 4,Kyle Homet,57168,Gardner-Webb,Cornelius Schuster,55781,George Mason
+2019,12/09,Patriots Open,174,W,DEC,5 - 2,Brinton Simington,57358,Lock Haven,Cornelius Schuster,55781,George Mason
+2019,12/09,Patriots Open,174,W,DEC,4 - 2,James Wujek,57159,West Virginia,Cornelius Schuster,55781,George Mason
+2019,12/09,Patriots Open,174,W,FALL,1:52,Colin Shannon,50060,American,Cornelius Schuster,55781,George Mason
+2019,12/08,Buffalo - George Mason Dual,174,L,DEC,6 - 4,Jake Lanning,49069,Buffalo,Cornelius Schuster,55781,George Mason
+2019,11/30,George Mason - Lock Haven Dual,165,W,DEC,2 - 0,Collin Glorioso,44819,Lock Haven,Cornelius Schuster,55781,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,165,L,FALL,1:08,Sammy Cokeley,50287,Spartan Combat RTC,Cornelius Schuster,55781,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,165,L,TF5,17 - 0 7:00,Jonathan Viruet,39839,Brown,Cornelius Schuster,55781,George Mason
+2019,11/04,Hokie Open,165,W,MD,14 - 0,Billy Christie,58302,Newberry,Cornelius Schuster,55781,George Mason
+2019,11/04,Hokie Open,165,W,MD,12 - 4,Joey Mazzara,54232,North Carolina,Cornelius Schuster,55781,George Mason
+2019,11/04,Hokie Open,165,L,SV-1,4 - 2,Riley Smucker,56147,Appalachian State,Cornelius Schuster,55781,George Mason
+2019,11/04,Hokie Open,165,W,DEC,4 - 1,Benjamin Root,51221,American,Cornelius Schuster,55781,George Mason
+2019,11/02,George Mason - VMI Dual,165,W,TF5,16 - 0 5:35,Luke Nicksic,57295,VMI,Cornelius Schuster,55781,George Mason
+2019,02/17,Maryland - George Mason Dual,184,L,DEC,6 - 4,Kyle Jasenski,51164,Maryland,Phillip Stolfi,44942,George Mason
+2019,01/17,George Mason - Clarion Dual,184,L,FALL,1:15,Tyler Bagoly,49098,Clarion,Phillip Stolfi,44942,George Mason
+2019,01/13,The Citadel - George Mason Dual,184,W,FALL,4:31,Jared Zenie,57375,The Citadel,Phillip Stolfi,44942,George Mason
+2019,01/10,Cleveland State - George Mason Dual,184,W,DEC,8 - 5,Chris Morrow,45336,Cleveland State,Phillip Stolfi,44942,George Mason
+2019,11/30,George Mason - Lock Haven Dual,174,L,DEC,4 - 2,Jared Siegrist,45101,Lock Haven,Phillip Stolfi,44942,George Mason
+2019,11/29,George Mason - Bloomsburg Dual,174,W,SV-1,8 - 6,Anthony Vetrano,45189,Bloomsburg,Phillip Stolfi,44942,George Mason
+2019,11/17,Navy Classic,174,L,DEC,8 - 4,Lane Hinkle,45314,Kent State,Phillip Stolfi,44942,George Mason
+2019,11/17,Navy Classic,174,L,MD,13 - 4,Nick Stephani,40369,Bucknell,Phillip Stolfi,44942,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,174,L,DEC,4 - 2,Jonah Barley,51013,Cornell,Phillip Stolfi,44942,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,174,L,MD,19 - 10,Jed Smith,45645,Army West Point,Phillip Stolfi,44942,George Mason
+2019,11/04,Hokie Open,174,W,TF5,17 - 2 7:00,Luke Young,58290,Bluefield College,Phillip Stolfi,44942,George Mason
+2019,11/04,Hokie Open,174,L,DEC,12 - 5,Josh Ramirez,57158,West Virginia,Phillip Stolfi,44942,George Mason
+2019,11/04,Hokie Open,174,W,MD,13 - 2,Melvin Nimely,51372,Emmanuel,Phillip Stolfi,44942,George Mason
+2019,11/04,Hokie Open,174,W,DEC,7 - 2,Michael Lopouchanski,51338,The Citadel,Phillip Stolfi,44942,George Mason
+2019,11/04,Hokie Open,174,L,FALL,4:22,Drew Peck,49055,Virginia,Phillip Stolfi,44942,George Mason
+2019,11/02,George Mason - VMI Dual,184,W,DEC,4 - 0,Max Gallahan,45422,VMI,Phillip Stolfi,44942,George Mason
+2019,03/09,EWL Championships,184,L,FALL,3:24,Michale Fagg-Daves,20352,Rider,Paul Pierce,56165,George Mason
+2019,03/09,EWL Championships,184,L,DEC,4 - 0,Zach Ancewicz,49132,Edinboro,Paul Pierce,56165,George Mason
+2019,03/09,EWL Championships,184,W,DEC,6 - 5,Tyler Bagoly,49098,Clarion,Paul Pierce,56165,George Mason
+2019,02/22,George Mason - Hofstra Dual,184,L,DEC,3 - 1,Trey Rogers,51099,Hofstra,Paul Pierce,56165,George Mason
+2019,02/15,George Mason - American Dual,184,L,TF5,23 - 7 6:38,Tanner Harvey,48451,American,Paul Pierce,56165,George Mason
+2019,02/09,George Mason - Franklin & Marshall Dual,184,W,DEC,6 - 2,Christopher Bolletino,54922,Franklin & Marshall,Paul Pierce,56165,George Mason
+2019,01/31,George Mason - Rider Dual,184,L,MD,14 - 6,Michale Fagg-Daves,20352,Rider,Paul Pierce,56165,George Mason
+2019,01/27,Edinboro - George Mason Dual,184,L,DEC,9 - 4,Zach Ancewicz,49132,Edinboro,Paul Pierce,56165,George Mason
+2019,01/10,Columbia - George Mason Dual,184,L,MD,13 - 4,Brian Bonino,51034,Columbia,Paul Pierce,56165,George Mason
+2019,12/20,George Mason - Davidson Dual,184,L,DEC,6 - 3,Conor Fenn,45250,Davidson,Paul Pierce,56165,George Mason
+2019,12/20,George Mason - Gardner-Webb Dual,184,W,MD,13 - 3,Christian Salter,51036,Gardner-Webb,Paul Pierce,56165,George Mason
+2019,12/09,Patriots Open,184,L,TF5,18 - 3 3:36,Victor Marcelli,50587,Virginia,Paul Pierce,56165,George Mason
+2019,12/09,Patriots Open,184,L,MD,10 - 2,AJ Pedro,49056,Brown,Paul Pierce,56165,George Mason
+2019,12/09,Patriots Open,184,W,DEC,3 - 1,Blake Barrick,51186,American,Paul Pierce,56165,George Mason
+2019,12/08,Buffalo - George Mason Dual,184,L,SV-1,3 - 1,Logan Rill,44775,Buffalo,Paul Pierce,56165,George Mason
+2019,11/30,George Mason - Lock Haven Dual,184,L,DEC,9 - 6,Corey Hazel,39756,Lock Haven,Paul Pierce,56165,George Mason
+2019,11/29,George Mason - Bloomsburg Dual,184,L,MD,12 - 4,Trevor Allard,40040,Bloomsburg,Paul Pierce,56165,George Mason
+2019,11/17,Navy Classic,184,L,MD,10 - 2,Connor Doyle,45379,Navy,Paul Pierce,56165,George Mason
+2019,11/17,Navy Classic,184,L,DEC,12 - 8,Bob Coleman,45118,Oregon State,Paul Pierce,56165,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,184,L,DEC,6 - 3,Elijah Jones,56940,Lehigh,Paul Pierce,56165,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,184,L,DEC,6 - 1,Cliffton Wang,50873,Harvard,Paul Pierce,56165,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,184,W,DEC,4 - 0,Jimmy Stillerman,45210,Franklin & Marshall,Paul Pierce,56165,George Mason
+2019,11/04,Hokie Open,184,L,DEC,8 - 6,ZeBrandon Gant,58319,Newberry,Paul Pierce,56165,George Mason
+2019,11/04,Hokie Open,184,L,DEC,7 - 3,Martin Duane,45583,The Citadel,Paul Pierce,56165,George Mason
+2019,11/04,Hokie Open,184,W,DEC,6 - 5,Spencer Irick,45355,Indiana,Paul Pierce,56165,George Mason
+2019,03/09,EWL Championships,197,W,FALL,2:39,Luke McGonigal,51040,Lock Haven,Eli Spencer,45318,George Mason
+2019,03/09,EWL Championships,197,L,DEC,6 - 2,Ethan Laird,50134,Rider,Eli Spencer,45318,George Mason
+2019,03/09,EWL Championships,197,W,TB-2,2 - 1,Dylan Reynolds,45374,Edinboro,Eli Spencer,45318,George Mason
+2019,02/22,George Mason - Hofstra Dual,197,W,SV-1,3 - 1,Nezar Haddad,19850,Hofstra,Eli Spencer,45318,George Mason
+2019,02/17,Maryland - George Mason Dual,197,W,TF5,15 - 0 7:00,Niko Cappello,44773,Maryland,Eli Spencer,45318,George Mason
+2019,02/15,George Mason - American Dual,197,W,DEC,7 - 0,Abraham Correa-Medina,45350,American,Eli Spencer,45318,George Mason
+2019,02/09,George Mason - Franklin & Marshall Dual,197,W,MD,14 - 5,Phillip Robilotto,12411,Franklin & Marshall,Eli Spencer,45318,George Mason
+2019,01/31,George Mason - Rider Dual,197,L,DEC,3 - 1,Ethan Laird,50134,Rider,Eli Spencer,45318,George Mason
+2019,01/27,Edinboro - George Mason Dual,197,L,DEC,4 - 2,Dylan Reynolds,45374,Edinboro,Eli Spencer,45318,George Mason
+2019,01/12,Shorty Hitchcock Open,197,W,FALL,4:11,Billy Baldwin,57728,Old Dominion,Eli Spencer,45318,George Mason
+2019,01/12,Shorty Hitchcock Open,197,W,TF5,16 - 1 6:30,Jake Koser,50890,US Naval Academy Prep School,Eli Spencer,45318,George Mason
+2019,01/12,Shorty Hitchcock Open,197,L,DEC,2 - 0,Alex Hopkins,45122,Army West Point,Eli Spencer,45318,George Mason
+2019,01/01,Southern Scuffle,197,W,FALL,3:42,Kaden Sauer,50987,Iowa State,Eli Spencer,45318,George Mason
+2019,01/01,Southern Scuffle,197,W,DEC,3 - 1,Anthony DePrez,19650,Binghamton,Eli Spencer,45318,George Mason
+2019,01/01,Southern Scuffle,197,L,DEC,9 - 4,Randall Diabe,40409,Appalachian State,Eli Spencer,45318,George Mason
+2019,01/01,Southern Scuffle,197,L,DEC,4 - 0,Tom Sleigh,19710,Virginia Tech,Eli Spencer,45318,George Mason
+2019,01/01,Southern Scuffle,197,W,MD,10 - 0,Sam Wustefeld,57272,Columbia,Eli Spencer,45318,George Mason
+2019,12/20,George Mason - Davidson Dual,197,W,FALL,2:32,Finlay Holston,57215,Davidson,Eli Spencer,45318,George Mason
+2019,12/20,George Mason - Gardner-Webb Dual,197,L,MD,12 - 4,Anthony Perrine,49135,Gardner-Webb,Eli Spencer,45318,George Mason
+2019,12/09,Patriots Open,197,W,FALL,1:33,Parker McClellan,56598,Lock Haven,Eli Spencer,45318,George Mason
+2019,12/09,Patriots Open,197,W,DEC,6 - 0,Gregory Bensley,56214,Pennsylvania,Eli Spencer,45318,George Mason
+2019,12/09,Patriots Open,197,W,DEC,2 - 1,Sam Schuyler,50361,Buffalo,Eli Spencer,45318,George Mason
+2019,12/09,Patriots Open,197,W,MD,13 - 3,David Heath,51172,Brown,Eli Spencer,45318,George Mason
+2019,12/08,Buffalo - George Mason Dual,197,L,SV-1,3 - 1,Sam Schuyler,50361,Buffalo,Eli Spencer,45318,George Mason
+2019,11/30,George Mason - Lock Haven Dual,197,L,DEC,10 - 4,Luke McGonigal,51040,Lock Haven,Eli Spencer,45318,George Mason
+2019,11/29,George Mason - Bloomsburg Dual,197,W,DEC,6 - 4,Kyle Murphy,44915,Bloomsburg,Eli Spencer,45318,George Mason
+2019,11/17,Navy Classic,197,W,FALL,6:08,Alex Donahue,54386,George Mason,Eli Spencer,45318,George Mason
+2019,11/17,Navy Classic,197,L,DEC,11 - 10,Joshua Roetman,45378,Navy,Eli Spencer,45318,George Mason
+2019,11/17,Navy Classic,197,W,FALL,2:16,Timothy Young,40523,Old Dominion,Eli Spencer,45318,George Mason
+2019,11/17,Navy Classic,197,L,DEC,3 - 2,Ben Smith,56236,Cleveland State,Eli Spencer,45318,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,197,W,TF5,22 - 6 7:00,Austin Cooley,56772,Wyoming Seminary Prep,Eli Spencer,45318,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,197,W,DEC,11 - 5,James Hoeg,50288,Penn State,Eli Spencer,45318,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,197,L,FALL,0:57,Bennett Paulson,45647,Army West Point,Eli Spencer,45318,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,197,W,DEC,8 - 6,Jack Buell,44737,Army West Point,Eli Spencer,45318,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,197,W,FALL,5:19,Anthony DePrez,19650,Binghamton,Eli Spencer,45318,George Mason
+2019,11/04,Hokie Open,197,W,FALL,0:35,Pedro Daher,58316,Coker,Eli Spencer,45318,George Mason
+2019,11/04,Hokie Open,197,W,FALL,0:21,Andrew Colborn,51370,UNC Pembroke,Eli Spencer,45318,George Mason
+2019,11/04,Hokie Open,197,W,FALL,0:33,Tyrie Houghton,51136,NC State,Eli Spencer,45318,George Mason
+2019,11/04,Hokie Open,197,L,MD,14 - 5,Noah Adams,49342,West Virginia,Eli Spencer,45318,George Mason
+2019,11/04,Hokie Open,197,W,FALL,0:55,Finlay Holston,57215,Davidson,Eli Spencer,45318,George Mason
+2019,02/09,George Mason - Franklin & Marshall Dual,285,L,FALL,1:56,Antonio Pelusi,19894,Franklin & Marshall,Alex Donahue,54386,George Mason
+2019,01/17,George Mason - Clarion Dual,197,L,FALL,1:15,Greg Bulsak,44655,Clarion,Alex Donahue,54386,George Mason
+2019,01/13,The Citadel - George Mason Dual,197,L,MD,17 - 4,Sawyer Root,39846,The Citadel,Alex Donahue,54386,George Mason
+2019,01/10,Columbia - George Mason Dual,197,L,DEC,5 - 1,Sam Wustefeld,57272,Columbia,Alex Donahue,54386,George Mason
+2019,01/10,Cleveland State - George Mason Dual,197,L,MD,12 - 4,Ben Smith,56236,Cleveland State,Alex Donahue,54386,George Mason
+2019,01/05,Franklin & Marshall Open,197,W,DEC,4 - 2,Billy Baldwin,57728,Old Dominion,Alex Donahue,54386,George Mason
+2019,01/05,Franklin & Marshall Open,197,W,MD,13 - 3,Matthew Savarese,56077,Sacred Heart,Alex Donahue,54386,George Mason
+2019,01/05,Franklin & Marshall Open,197,L,DEC,8 - 2,Cole Nye,49185,Pittsburgh,Alex Donahue,54386,George Mason
+2019,01/05,Franklin & Marshall Open,197,L,DEC,3 - 0,Austin McNeil,40431,Campbell,Alex Donahue,54386,George Mason
+2019,12/09,Patriots Open,197,L,MD,13 - 1,Gregory Bensley,56214,Pennsylvania,Alex Donahue,54386,George Mason
+2019,12/09,Patriots Open,197,L,DEC,6 - 3,Cole Nye,49185,Pittsburgh,Alex Donahue,54386,George Mason
+2019,11/17,Navy Classic,197,L,FALL,6:08,Eli Spencer,45318,George Mason,Alex Donahue,54386,George Mason
+2019,11/17,Navy Classic,197,L,FALL,2:08,Casey Jumps,50817,Air Force,Alex Donahue,54386,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,197,W,DEC,10 - 6,Johnny Santos,58949,Westchester Community College,Alex Donahue,54386,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,197,L,DEC,8 - 1,Gunnar Larson,51322,Army West Point,Alex Donahue,54386,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,197,L,DEC,8 - 2,Anthony DePrez,19650,Binghamton,Alex Donahue,54386,George Mason
+2019,11/04,Hokie Open,197,W,DEC,4 - 1,Andrew Colborn,51370,UNC Pembroke,Alex Donahue,54386,George Mason
+2019,11/04,Hokie Open,197,L,MD,11 - 2,Tyrie Houghton,51136,NC State,Alex Donahue,54386,George Mason
+2019,11/04,Hokie Open,197,L,FALL,2:02,Tony Wuest,50927,NC State,Alex Donahue,54386,George Mason
+2019,11/02,George Mason - VMI Dual,197,L,DEC,2 - 0,Christopher Beck,45424,VMI,Alex Donahue,54386,George Mason
+2019,03/21,NCAA Championships,285,L,MD,13 - 5,Mason Parris,51176,Michigan,Matthew Voss,19908,George Mason
+2019,03/21,NCAA Championships,285,W,DEC,11 - 4,Brian Andrews,50489,Wyoming,Matthew Voss,19908,George Mason
+2019,03/21,NCAA Championships,285,W,DEC,7 - 3,Colton McKiernan,57003,SIU Edwardsville,Matthew Voss,19908,George Mason
+2019,03/21,NCAA Championships,285,L,SV-1,3 - 1,Zach Elam,51612,Missouri,Matthew Voss,19908,George Mason
+2019,03/09,EWL Championships,285,W,MD,14 - 1,Ryan Cloud,39972,Rider,Matthew Voss,19908,George Mason
+2019,03/09,EWL Championships,285,L,DEC,7 - 4,Thomas Haines,20247,Lock Haven,Matthew Voss,19908,George Mason
+2019,03/09,EWL Championships,285,W,DEC,2 - 0,Jon Spaulding,50330,Edinboro,Matthew Voss,19908,George Mason
+2019,02/22,George Mason - Hofstra Dual,285,W,MD,10 - 1,Omar Haddad,40070,Hofstra,Matthew Voss,19908,George Mason
+2019,02/17,Maryland - George Mason Dual,285,L,SV-1,3 - 1,Youssif Hemida,39563,Maryland,Matthew Voss,19908,George Mason
+2019,02/15,George Mason - American Dual,285,W,DEC,5 - 0,Niko Camacho,49032,American,Matthew Voss,19908,George Mason
+2019,01/31,George Mason - Rider Dual,285,W,DEC,5 - 0,Ryan Cloud,39972,Rider,Matthew Voss,19908,George Mason
+2019,01/27,Edinboro - George Mason Dual,285,W,MD,11 - 2,Jon Spaulding,50330,Edinboro,Matthew Voss,19908,George Mason
+2019,01/17,George Mason - Clarion Dual,285,W,MD,14 - 6,Toby Cahill,49097,Clarion,Matthew Voss,19908,George Mason
+2019,01/13,The Citadel - George Mason Dual,285,W,MD,12 - 2,Michael McAleavey,45588,The Citadel,Matthew Voss,19908,George Mason
+2019,01/10,Columbia - George Mason Dual,285,W,DEC,3 - 2,Daniel Herman,51035,Columbia,Matthew Voss,19908,George Mason
+2019,01/10,Cleveland State - George Mason Dual,285,W,TF5,16 - 1 5:46,Collin Kelly,45338,Cleveland State,Matthew Voss,19908,George Mason
+2019,01/01,Southern Scuffle,285,W,DEC,7 - 2,Thomas Ott,40265,Navy,Matthew Voss,19908,George Mason
+2019,01/01,Southern Scuffle,285,L,DEC,2 - 1,Nick Nevills,20301,Penn State,Matthew Voss,19908,George Mason
+2019,01/01,Southern Scuffle,285,L,MD,14 - 6,Anthony Cassar,20299,Penn State,Matthew Voss,19908,George Mason
+2019,01/01,Southern Scuffle,285,W,DEC,6 - 0,Connor Tolley,19780,Chattanooga,Matthew Voss,19908,George Mason
+2019,01/01,Southern Scuffle,285,W,DEC,13 - 6,Joey Goodhart,19849,Drexel,Matthew Voss,19908,George Mason
+2019,01/01,Southern Scuffle,285,W,DEC,4 - 3,Billy Miller,20725,Virginia Tech,Matthew Voss,19908,George Mason
+2019,12/20,George Mason - Davidson Dual,285,W,DEC,10 - 4,Mitchell Trigg,56339,Davidson,Matthew Voss,19908,George Mason
+2019,12/20,George Mason - Gardner-Webb Dual,285,W,FALL,2:14,Jack Trautman,57165,Gardner-Webb,Matthew Voss,19908,George Mason
+2019,12/09,Patriots Open,285,W,FALL,2:40,Trent Ragland,56588,Virginia Tech,Matthew Voss,19908,George Mason
+2019,12/09,Patriots Open,285,L,DEC,3 - 2,Colin Lawler,54114,NC State,Matthew Voss,19908,George Mason
+2019,12/09,Patriots Open,285,W,DEC,4 - 3,Isaac Reid,50915,Lock Haven,Matthew Voss,19908,George Mason
+2019,12/09,Patriots Open,285,W,DEC,10 - 4,Cole Rickert,50864,Pittsburgh,Matthew Voss,19908,George Mason
+2019,12/08,Buffalo - George Mason Dual,285,L,SV-1,3 - 1,Jake Gunning,19718,Buffalo,Matthew Voss,19908,George Mason
+2019,11/30,George Mason - Lock Haven Dual,285,W,DEC,5 - 2,Thomas Haines,20247,Lock Haven,Matthew Voss,19908,George Mason
+2019,11/29,George Mason - Bloomsburg Dual,285,W,DEC,5 - 2,Bruce Graeber,45188,Bloomsburg,Matthew Voss,19908,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,285,W,TF5,18 - 0 7:00,Drew Flynn,58950,Spartan Combat RTC,Matthew Voss,19908,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,285,W,FALL,6:08,John Birchmeier,54075,US Naval Academy Prep School,Matthew Voss,19908,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,285,W,FALL,4:28,Steven Mercadante,44803,Franklin & Marshall,Matthew Voss,19908,George Mason
+2019,11/11,Jonathan Kaloust Bearcat Open,285,W,DEC,10 - 3,Eric Keosseian,49044,Army West Point,Matthew Voss,19908,George Mason
+2019,11/04,Hokie Open,285,W,DEC,3 - 2,John Borst,49336,Virginia Tech,Matthew Voss,19908,George Mason
+2019,11/04,Hokie Open,285,W,DEC,3 - 2,Cory Gillilland-Daniel,22024,North Carolina,Matthew Voss,19908,George Mason
+2019,11/04,Hokie Open,285,W,FALL,5:29,Nicholas Weldon,20307,Newberry,Matthew Voss,19908,George Mason
+2019,11/04,Hokie Open,285,W,DEC,2 - 1,Laith Alsous,50004,Campbell,Matthew Voss,19908,George Mason
+2019,11/02,George Mason - VMI Dual,285,W,TF5,20 - 3 2:37,Trey Momon,56578,VMI,Matthew Voss,19908,George Mason
+2019,01/12,Shorty Hitchcock Open,285,L,TF5,15 - 0 4:23,Ray Sherwood,42040,American International College,Ramses Montalvo,55869,George Mason
+2019,01/12,Shorty Hitchcock Open,285,L,MFOR,0 - 0,John Barlow,42159,Kutztown,Ramses Montalvo,55869,George Mason
+2019,01/05,Franklin & Marshall Open,285,L,DEC,9 - 4,Michael Okaro,54223,Middlesex Community College,Ramses Montalvo,55869,George Mason
+2019,01/05,Franklin & Marshall Open,285,L,FALL,4:51,Laith Alsous,50004,Campbell,Ramses Montalvo,55869,George Mason
+2019,12/09,Patriots Open,285,W,DEC,3 - 1,Trent Ragland,56588,Virginia Tech,Ramses Montalvo,55869,George Mason
+2019,12/09,Patriots Open,285,L,DEC,3 - 2,Parker Robinson,56203,Maryland,Ramses Montalvo,55869,George Mason
+2019,12/09,Patriots Open,285,L,DEC,6 - 1,Colin Lawler,54114,NC State,Ramses Montalvo,55869,George Mason

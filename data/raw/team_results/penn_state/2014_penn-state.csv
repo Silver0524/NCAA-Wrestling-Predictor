@@ -1,0 +1,668 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2014,03/20,NCAA Championships,133,L,DEC,4 - 0,Jonathon Morrison,37472,Oklahoma State,Jimmy Gulibon,13371,Penn State
+2014,03/20,NCAA Championships,133,L,DEC,4 - 3,Zane Richards,14736,Illinois,Jimmy Gulibon,13371,Penn State
+2014,03/20,NCAA Championships,133,W,MD,10 - 2,Vincent Pizzuto,13387,Eastern Michigan,Jimmy Gulibon,13371,Penn State
+2014,03/08,Big Ten Championships,133,L,DEC,8 - 1,Tyler Graff,37186,Wisconsin,Jimmy Gulibon,13371,Penn State
+2014,03/08,Big Ten Championships,133,W,MD,9 - 1,Dominick Malone,12015,Northwestern,Jimmy Gulibon,13371,Penn State
+2014,03/08,Big Ten Championships,133,L,DEC,6 - 1,Johnni DiJulius,14679,Ohio State,Jimmy Gulibon,13371,Penn State
+2014,03/08,Big Ten Championships,133,W,DEC,9 - 4,Shawn Nagel,13377,Nebraska,Jimmy Gulibon,13371,Penn State
+2014,03/08,Big Ten Championships,133,W,TF5,16 - 0 5:47,Dominick Malone,12015,Northwestern,Jimmy Gulibon,13371,Penn State
+2014,02/23,Penn State - Clarion Dual,133,W,TF5,16 - 0 3:00,Victor LiPari,19782,Clarion,Jimmy Gulibon,13371,Penn State
+2014,02/16,Penn State - Oklahoma State Dual,133,L,DEC,2 - 0,Jonathon Morrison,37472,Oklahoma State,Jimmy Gulibon,13371,Penn State
+2014,02/09,Penn State - Minnesota Dual,133,L,DEC,2 - 0,David Thorn,37473,Minnesota,Jimmy Gulibon,13371,Penn State
+2014,02/02,Penn State - Michigan Dual,133,W,MD,9 - 0,Rossi Bruno,15289,Michigan,Jimmy Gulibon,13371,Penn State
+2014,01/31,Penn State - Michigan State Dual,133,W,DEC,10 - 3,Garth Yenter,13374,Michigan State,Jimmy Gulibon,13371,Penn State
+2014,01/24,Penn State - Illinois Dual,133,L,SV-1,3 - 1,Zane Richards,14736,Illinois,Jimmy Gulibon,13371,Penn State
+2014,01/19,Penn State - Northwestern Dual,133,W,DEC,7 - 2,Dominick Malone,12015,Northwestern,Jimmy Gulibon,13371,Penn State
+2014,01/17,Penn State - Indiana Dual,133,W,TF5,15 - 0 2:57,Chris Caton,13376,Indiana,Jimmy Gulibon,13371,Penn State
+2014,01/12,Penn State - Purdue Dual,133,L,DEC,9 - 2,Cashé Quiroga,37185,Purdue,Jimmy Gulibon,13371,Penn State
+2014,01/01,Southern Scuffle,133,L,DEC,4 - 0,Jonathon Morrison,37472,Oklahoma State,Jimmy Gulibon,13371,Penn State
+2014,01/01,Southern Scuffle,133,W,DEC,4 - 3,David Thorn,37473,Minnesota,Jimmy Gulibon,13371,Penn State
+2014,01/01,Southern Scuffle,133,W,DEC,2 - 1,Ryan Mango,38291,Stanford,Jimmy Gulibon,13371,Penn State
+2014,01/01,Southern Scuffle,133,W,DEC,2 - 1,Nick Zanetta,15385,Pittsburgh,Jimmy Gulibon,13371,Penn State
+2014,01/01,Southern Scuffle,133,W,DEC,5 - 4,Joseph Martinez,12044,Virginia,Jimmy Gulibon,13371,Penn State
+2014,01/01,Southern Scuffle,133,W,DEC,6 - 1,Troy Heilmann,12036,North Carolina,Jimmy Gulibon,13371,Penn State
+2014,12/21,Penn State - Iowa Dual,133,L,FALL,5:22,Tony Ramos,37470,Iowa,Jimmy Gulibon,13371,Penn State
+2014,12/15,Penn State - Ohio State Dual,133,L,DEC,3 - 2,Johnni DiJulius,14679,Ohio State,Jimmy Gulibon,13371,Penn State
+2014,12/06,Penn State - Boston U Dual,133,L,DEC,1 - 0,Dane Harlowe,12042,Boston U,Jimmy Gulibon,13371,Penn State
+2014,11/17,Penn State - Lehigh Dual,133,L,DEC,7 - 6,Mason Beckman,12016,Lehigh,Jimmy Gulibon,13371,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,133,W,TF5,15 - 0 7:00,Nicholas Frank,15141,Army West Point,Jimmy Gulibon,13371,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,133,L,DEC,3 - 1,Jordan Conaway,15981,Penn State,Jimmy Gulibon,13371,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,133,W,TF5,15 - 0 3:05,Jalen Ramos,14713,Rutgers,Jimmy Gulibon,13371,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,133,W,TF5,16 - 1 7:00,Nicholas Frank,15141,Army West Point,Jimmy Gulibon,13371,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,133,W,FALL,2:01,Jeffrey Ott,15132,Harvard,Jimmy Gulibon,13371,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,133,L,FALL,0:19,Geoffrey Alexander,12022,Maryland,Jimmy Gulibon,13371,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,133,W,MD,13 - 0,Dane Harlowe,12042,Boston U,Jimmy Gulibon,13371,Penn State
+2014,02/02,Penn State - Michigan Dual,125,W,DEC,9 - 4,Conor Youtsey,13271,Michigan,Jordan Conaway,15981,Penn State
+2014,01/31,Penn State - Michigan State Dual,125,W,MD,15 - 4,Brenan Lyon,20027,Michigan State,Jordan Conaway,15981,Penn State
+2014,01/01,Southern Scuffle,133,L,DEC,8 - 6,Joe Roth,37254,Central Michigan,Jordan Conaway,15981,Penn State
+2014,01/01,Southern Scuffle,133,L,DEC,5 - 2,Joe Roth,37254,Central Michigan,Jordan Conaway,15981,Penn State
+2014,01/01,Southern Scuffle,133,W,DEC,5 - 3,Shelton Mack,37840,Pittsburgh,Jordan Conaway,15981,Penn State
+2014,01/01,Southern Scuffle,133,L,DEC,12 - 5,David Thorn,37473,Minnesota,Jordan Conaway,15981,Penn State
+2014,01/01,Southern Scuffle,133,L,DEC,7 - 6,Joe Roth,37254,Central Michigan,Jordan Conaway,15981,Penn State
+2014,01/01,Southern Scuffle,133,W,DEC,7 - 4,Mack McGuire,12004,Kent State,Jordan Conaway,15981,Penn State
+2014,01/01,Southern Scuffle,133,W,MD,10 - 0,Brian Crutchmer,13400,Oklahoma State,Jordan Conaway,15981,Penn State
+2014,01/01,Southern Scuffle,133,W,MD,9 - 1,Logan David,15774,Cornell,Jordan Conaway,15981,Penn State
+2014,12/08,Pittsburgh - Penn State Dual,133,L,DEC,5 - 2,Shelton Mack,37840,Pittsburgh,Jordan Conaway,15981,Penn State
+2014,12/07,Thunderwolve Open,133,W,FALL,4:29,Brett Himes,21165,Pennsylvania State University - Dubois,Jordan Conaway,15981,Penn State
+2014,12/07,Thunderwolve Open,133,W,MD,14 - 3,Eric Valez,17569,Niagara Community College,Jordan Conaway,15981,Penn State
+2014,12/07,Thunderwolve Open,133,W,DEC,12 - 5,Jayden Rice,15139,Buffalo,Jordan Conaway,15981,Penn State
+2014,11/24,Penn State - Lock Haven Dual,133,W,DEC,10 - 5,Matt Bryer,12020,Lock Haven,Jordan Conaway,15981,Penn State
+2014,11/16,Rider - Penn State Dual,133,W,MD,12 - 4,Chuck Zeisloft,15756,Rider,Jordan Conaway,15981,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,133,L,DEC,3 - 1,Mark Grey,12040,Cornell,Jordan Conaway,15981,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,133,W,DEC,3 - 1,Jimmy Gulibon,13371,Penn State,Jordan Conaway,15981,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,133,W,DEC,6 - 3,TJ Fabian,15144,Sacred Heart,Jordan Conaway,15981,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,133,W,DEC,1 - 0,Logan David,15774,Cornell,Jordan Conaway,15981,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,133,W,DEC,7 - 2,Grim Gonzalez,18150,Bucknell,Jordan Conaway,15981,Penn State
+2014,03/20,NCAA Championships,141,L,DEC,7 - 3,Logan Stieber,11610,Ohio State,Zain Retherford,11781,Penn State
+2014,03/20,NCAA Championships,141,W,MFOR,0 - 0,Joey Lazor,37146,Northern Iowa,Zain Retherford,11781,Penn State
+2014,03/20,NCAA Championships,141,W,DEC,5 - 2,Joey Lazor,37146,Northern Iowa,Zain Retherford,11781,Penn State
+2014,03/20,NCAA Championships,141,W,DEC,5 - 0,Undrakhbayar Khishignyam,18533,The Citadel,Zain Retherford,11781,Penn State
+2014,03/20,NCAA Championships,141,L,TB-2,3 - 1,Mitchell Port,11732,Edinboro,Zain Retherford,11781,Penn State
+2014,03/20,NCAA Championships,141,W,DEC,3 - 0,Edgar Bright,11820,Pittsburgh,Zain Retherford,11781,Penn State
+2014,03/20,NCAA Championships,141,W,DEC,4 - 0,Steve Dutton,11719,Michigan,Zain Retherford,11781,Penn State
+2014,03/08,Big Ten Championships,141,L,DEC,7 - 3,Logan Stieber,11610,Ohio State,Zain Retherford,11781,Penn State
+2014,03/08,Big Ten Championships,141,W,DEC,7 - 2,Jesse Thielke,11772,Wisconsin,Zain Retherford,11781,Penn State
+2014,03/08,Big Ten Championships,141,W,MD,8 - 0,Colton McCrystal,13191,Nebraska,Zain Retherford,11781,Penn State
+2014,02/23,Penn State - Clarion Dual,141,W,DEC,8 - 4,Tyler Bedelyon,37145,Clarion,Zain Retherford,11781,Penn State
+2014,02/16,Penn State - Oklahoma State Dual,141,W,DEC,2 - 0,Anthony Collica,11723,Oklahoma State,Zain Retherford,11781,Penn State
+2014,02/09,Penn State - Minnesota Dual,141,W,DEC,4 - 0,Chris Dardanes,11676,Minnesota,Zain Retherford,11781,Penn State
+2014,02/02,Penn State - Michigan Dual,141,W,DEC,7 - 1,Steve Dutton,11719,Michigan,Zain Retherford,11781,Penn State
+2014,01/31,Penn State - Michigan State Dual,141,W,FALL,4:42,Brian Gibbs,11600,Michigan State,Zain Retherford,11781,Penn State
+2014,01/24,Penn State - Illinois Dual,141,W,MD,15 - 3,John Fahy,11776,Illinois,Zain Retherford,11781,Penn State
+2014,01/19,Penn State - Northwestern Dual,141,W,MD,10 - 2,Pasquale Greco,11602,Northwestern,Zain Retherford,11781,Penn State
+2014,01/17,Penn State - Indiana Dual,141,W,MD,15 - 5,Trevor Moody,11769,Indiana,Zain Retherford,11781,Penn State
+2014,01/12,Penn State - Purdue Dual,141,W,MD,10 - 2,Danny Sabatello,11741,Purdue,Zain Retherford,11781,Penn State
+2014,01/01,Southern Scuffle,141,W,SV-1,6 - 4,Joe Spisak,11839,Virginia,Zain Retherford,11781,Penn State
+2014,01/01,Southern Scuffle,141,W,DEC,2 - 0,Chris Mecate,11835,Old Dominion,Zain Retherford,11781,Penn State
+2014,01/01,Southern Scuffle,141,W,DEC,2 - 0,Zach Horan,11624,Central Michigan,Zain Retherford,11781,Penn State
+2014,01/01,Southern Scuffle,141,W,FALL,2:30,Joe Moon,11646,North Carolina,Zain Retherford,11781,Penn State
+2014,01/01,Southern Scuffle,141,W,MD,14 - 4,Michael Carlone,11736,Cleveland State,Zain Retherford,11781,Penn State
+2014,12/21,Penn State - Iowa Dual,141,W,DEC,4 - 2,Josh Dziewa,11626,Iowa,Zain Retherford,11781,Penn State
+2014,12/15,Penn State - Ohio State Dual,141,W,SV-1,4 - 2,Logan Stieber,11610,Ohio State,Zain Retherford,11781,Penn State
+2014,12/08,Pittsburgh - Penn State Dual,141,W,DEC,3 - 2,Edgar Bright,11820,Pittsburgh,Zain Retherford,11781,Penn State
+2014,12/06,Penn State - Boston U Dual,141,W,TF5,17 - 2 4:48,Peter Ishiguro,11976,Boston U,Zain Retherford,11781,Penn State
+2014,11/24,Penn State - Lock Haven Dual,141,W,DEC,6 - 1,Dan Neff,11761,Lock Haven,Zain Retherford,11781,Penn State
+2014,11/17,Penn State - Lehigh Dual,141,W,DEC,10 - 4,Laike Gardner,11748,Lehigh,Zain Retherford,11781,Penn State
+2014,11/16,Rider - Penn State Dual,141,W,MD,12 - 3,Paul Kirchner,11780,Rider,Zain Retherford,11781,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,MD,10 - 0,Tyson Dippery,11750,Rutgers,Zain Retherford,11781,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,FALL,1:37,Will Switzer,11738,Lehigh,Zain Retherford,11781,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,TF5,15 - 0 5:56,Corey Stasenko,14712,Rutgers,Zain Retherford,11781,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,DEC,6 - 3,Adam Krop,11814,Princeton,Zain Retherford,11781,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,FALL,5:54,Eli Bienstock,11895,Cornell,Zain Retherford,11781,Penn State
+2014,01/01,Southern Scuffle,141,W,SV-1,3 - 1,Kyle Bauer,11922,Kent State,Nate Morgan,11891,Penn State
+2014,01/01,Southern Scuffle,141,L,DEC,7 - 2,Anthony Collica,11723,Oklahoma State,Nate Morgan,11891,Penn State
+2014,01/01,Southern Scuffle,141,L,DEC,6 - 4,Justin Van Hoose,11810,Virginia,Nate Morgan,11891,Penn State
+2014,12/07,Thunderwolve Open,141,W,DEC,1 - 0,Kade Moss,15933,Penn State,Nate Morgan,11891,Penn State
+2014,12/07,Thunderwolve Open,141,W,DEC,5 - 4,Michael Waters,11873,Penn State,Nate Morgan,11891,Penn State
+2014,12/07,Thunderwolve Open,141,W,MD,14 - 0,Joey Miller,23376,Mercyhurst,Nate Morgan,11891,Penn State
+2014,11/17,East Stroudsburg Open,141,W,DEC,10 - 5,Adam Swift,21979,Centenary,Nate Morgan,11891,Penn State
+2014,11/17,East Stroudsburg Open,141,W,FALL,3:53,Andrew Polidore,37191,Sacred Heart,Nate Morgan,11891,Penn State
+2014,11/17,East Stroudsburg Open,141,W,SV-1,3 - 1,James Carucci,11765,Lehigh,Nate Morgan,11891,Penn State
+2014,11/17,East Stroudsburg Open,141,L,DEC,3 - 2,Jeff Canfora,11887,Pennsylvania,Nate Morgan,11891,Penn State
+2014,11/17,East Stroudsburg Open,141,W,DEC,9 - 4,Connor Lapresi,11754,Bucknell,Nate Morgan,11891,Penn State
+2014,11/17,East Stroudsburg Open,141,W,FALL,3:39,Leonard Bird,11872,Sacred Heart,Nate Morgan,11891,Penn State
+2014,11/17,East Stroudsburg Open,141,W,TF5,16 - 1 5:43,Dison Myers,14737,Unattached,Nate Morgan,11891,Penn State
+2014,11/17,East Stroudsburg Open,141,L,TB-2,1 - 0,Jeff Canfora,11887,Pennsylvania,Nate Morgan,11891,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,DEC,10 - 4,Leonard Bird,11872,Sacred Heart,Nate Morgan,11891,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,MD,14 - 4,Tim Prescott,42113,Unattached,Nate Morgan,11891,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,DEC,10 - 3,Casey Paglia,11904,American,Nate Morgan,11891,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,L,DEC,5 - 4,Victor Lopez,11886,Bucknell,Nate Morgan,11891,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,L,DEC,12 - 5,Anthony Ashnault,11803,Rutgers,Nate Morgan,11891,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,DEC,10 - 4,Lenny Bird,14716,Unattached,Nate Morgan,11891,Penn State
+2014,02/08,Edinboro Open,141,L,MFOR,0 - 0,Randy Cruz,11853,Lehigh,Kade Moss,15933,Penn State
+2014,02/08,Edinboro Open,141,L,MFOR,0 - 0,Isaiah Deguzman,23370,Notre Dame,Kade Moss,15933,Penn State
+2014,12/07,Thunderwolve Open,141,L,DEC,1 - 0,Nate Morgan,11891,Penn State,Kade Moss,15933,Penn State
+2014,12/07,Thunderwolve Open,141,W,FALL,2:46,Nate Sylvan,17560,Unattached,Kade Moss,15933,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,L,DEC,7 - 6,Patrick Hogan,19913,Harvard,Kade Moss,15933,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,DEC,14 - 8,Drew Longo,18193,Lehigh,Kade Moss,15933,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,DEC,5 - 2,James Carucci,11765,Lehigh,Kade Moss,15933,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,FALL,0:50,Andrew Polidore,37191,Sacred Heart,Kade Moss,15933,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,L,DEC,5 - 2,Randy Cruz,11853,Lehigh,Kade Moss,15933,Penn State
+2014,01/19,Shorty Hitchcock Memorial,141,L,DEC,6 - 2,Jake Velarde,37183,Old Dominion,Michael Waters,11873,Penn State
+2014,01/19,Shorty Hitchcock Memorial,141,W,MD,15 - 7,Jerry Ronnau,11864,Virginia Tech,Michael Waters,11873,Penn State
+2014,01/19,Shorty Hitchcock Memorial,141,L,FALL,6:51,RJ DeGeorge,11804,Maryland,Michael Waters,11873,Penn State
+2014,12/07,Thunderwolve Open,141,W,FALL,2:43,Marcus Popp,15890,Niagara Community College,Michael Waters,11873,Penn State
+2014,12/07,Thunderwolve Open,141,W,FALL,1:34,Patrick Carey,15889,Brockport,Michael Waters,11873,Penn State
+2014,12/07,Thunderwolve Open,141,L,DEC,5 - 4,Nate Morgan,11891,Penn State,Michael Waters,11873,Penn State
+2014,12/07,Thunderwolve Open,141,W,MD,12 - 2,Brandon Muntz,11907,Buffalo,Michael Waters,11873,Penn State
+2014,11/17,East Stroudsburg Open,141,W,MD,9 - 1,Robert Davis,20074,Unattached,Michael Waters,11873,Penn State
+2014,11/17,East Stroudsburg Open,141,L,DEC,3 - 1,Jeff Canfora,11887,Pennsylvania,Michael Waters,11873,Penn State
+2014,11/17,East Stroudsburg Open,141,W,DEC,4 - 2,James Carucci,11765,Lehigh,Michael Waters,11873,Penn State
+2014,11/17,East Stroudsburg Open,141,W,DEC,5 - 3,Drew Longo,18193,Lehigh,Michael Waters,11873,Penn State
+2014,11/17,East Stroudsburg Open,141,L,FALL,1:19,Randy Cruz,11853,Lehigh,Michael Waters,11873,Penn State
+2014,11/17,East Stroudsburg Open,141,W,MD,18 - 5,Karl Lightner,24237,Shippensburg,Michael Waters,11873,Penn State
+2014,11/17,East Stroudsburg Open,141,W,DEC,7 - 1,Joseph Hoy,15888,East Stroudsburg,Michael Waters,11873,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,MD,12 - 4,Joe Florenzo,15684,Sacred Heart,Michael Waters,11873,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,L,DEC,8 - 3,Victor Lopez,11886,Bucknell,Michael Waters,11873,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,MD,12 - 4,Joseph Florenzo,11854,Unattached,Michael Waters,11873,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,L,DEC,6 - 5,Will Switzer,11738,Lehigh,Michael Waters,11873,Penn State
+2014,11/17,East Stroudsburg Open,141,L,DEC,9 - 4,Tanner Cahill,11840,Bloomsburg,Cameron Kelly,11855,Penn State
+2014,11/17,East Stroudsburg Open,141,L,DEC,3 - 2,Derek Goodwin,18181,Bloomsburg,Cameron Kelly,11855,Penn State
+2014,11/17,East Stroudsburg Open,141,W,FALL,1:48,William Duby,11915,Sacred Heart,Cameron Kelly,11855,Penn State
+2014,01/19,Shorty Hitchcock Memorial,141,L,DEC,8 - 3,Christian Stone,11908,West Virginia,Devon Bentley,11863,Penn State
+2014,01/19,Shorty Hitchcock Memorial,141,L,FALL,6:10,Tanner Cahill,11840,Bloomsburg,Devon Bentley,11863,Penn State
+2014,01/04,F&M Open,141,L,DEC,6 - 4,Patrick Prada,11878,Navy,Devon Bentley,11863,Penn State
+2014,01/04,F&M Open,141,W,DEC,2 - 1,Matt Benvenuto,22526,Kutztown,Devon Bentley,11863,Penn State
+2014,01/04,F&M Open,141,L,MD,9 - 0,Tanner Cahill,11840,Bloomsburg,Devon Bentley,11863,Penn State
+2014,12/01,Mat Town Open,141,W,FALL,2:43,Donald Minnier,24295,Millersville,Devon Bentley,11863,Penn State
+2014,12/01,Mat Town Open,141,L,DEC,10 - 3,Zachary Isenhour,11961,George Mason,Devon Bentley,11863,Penn State
+2014,12/01,Mat Town Open,141,L,FALL,0:53,Colt Cotten,11905,Bloomsburg,Devon Bentley,11863,Penn State
+2014,03/20,NCAA Championships,149,W,SV-1,6 - 4,Zach Neibert,37547,Virginia Tech,James English,37556,Penn State
+2014,03/20,NCAA Championships,149,W,TB-1,2 - 1,Kendric Maple,37534,Oklahoma,James English,37556,Penn State
+2014,03/20,NCAA Championships,149,W,DEC,4 - 3,Rylan Lubeck,13818,Wisconsin,James English,37556,Penn State
+2014,03/20,NCAA Championships,149,W,DEC,3 - 1,Christian Barber,13833,North Carolina,James English,37556,Penn State
+2014,03/20,NCAA Championships,149,L,DEC,4 - 3,Jason Tsirtsis,13629,Northwestern,James English,37556,Penn State
+2014,03/20,NCAA Championships,149,L,FALL,4:52,Dave Habat,13800,Edinboro,James English,37556,Penn State
+2014,03/20,NCAA Championships,149,W,TB-1,5 - 4,Dylan Cottrell,14019,Appalachian State,James English,37556,Penn State
+2014,03/08,Big Ten Championships,149,W,DEC,5 - 2,Ian Paddock,37533,Ohio State,James English,37556,Penn State
+2014,03/08,Big Ten Championships,149,L,MD,12 - 2,Eric Grajales,37515,Michigan,James English,37556,Penn State
+2014,03/08,Big Ten Championships,149,W,DEC,3 - 2,Rylan Lubeck,13818,Wisconsin,James English,37556,Penn State
+2014,03/08,Big Ten Championships,149,W,DEC,3 - 2,Brandon Nelsen,13725,Purdue,James English,37556,Penn State
+2014,03/08,Big Ten Championships,149,L,DEC,3 - 2,Nick Dardanes,13620,Minnesota,James English,37556,Penn State
+2014,02/23,Penn State - Clarion Dual,149,W,DEC,7 - 2,Justin Arthur,22462,Clarion,James English,37556,Penn State
+2014,02/08,Edinboro Open,149,W,TF5,15 - 0 7:00,AJ Murabito,11949,Pennsylvania,James English,37556,Penn State
+2014,02/08,Edinboro Open,149,W,MFOR,0 - 0,Macaulay Maldarelli,37170,Lock Haven,James English,37556,Penn State
+2014,02/08,Edinboro Open,149,W,TF5,17 - 0 7:00,AJ Murabito,11949,Pennsylvania,James English,37556,Penn State
+2014,02/08,Edinboro Open,149,W,DEC,3 - 1,Tyler Ponte,11946,Columbia,James English,37556,Penn State
+2014,02/08,Edinboro Open,149,W,TF5,15 - 0 7:00,Tanner Sutton,11843,Lock Haven,James English,37556,Penn State
+2014,02/08,Edinboro Open,149,L,DEC,3 - 2,Hunter Stieber,11785,Ohio State,James English,37556,Penn State
+2014,12/08,Pittsburgh - Penn State Dual,149,L,FALL,6:52,Mike Racciato,13823,Pittsburgh,James English,37556,Penn State
+2014,11/16,Rider - Penn State Dual,149,L,DEC,6 - 4,Curt Delia,13606,Rider,James English,37556,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,149,L,MFOR,0 - 0,Kevin Moylan,13952,Princeton,James English,37556,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,149,L,MFOR,0 - 0,Alex Cisneros,13916,Cornell,James English,37556,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,149,W,MD,11 - 0,Matt Hammerstone,13834,Bloomsburg,James English,37556,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,149,W,DEC,2 - 1,Robert Dierna,42374,Cortland State,James English,37556,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,149,W,MD,9 - 0,Kevin Moylan,13952,Princeton,James English,37556,Penn State
+2014,02/16,Penn State - Oklahoma State Dual,149,L,DEC,5 - 3,Josh Kindig,13908,Oklahoma State,Zack Beitz,11955,Penn State
+2014,02/09,Penn State - Minnesota Dual,149,L,SV-2,6 - 4,Nick Dardanes,13620,Minnesota,Zack Beitz,11955,Penn State
+2014,01/24,Penn State - Illinois Dual,149,W,DEC,4 - 2,Caleb Ervin,13932,Illinois,Zack Beitz,11955,Penn State
+2014,01/19,Penn State - Northwestern Dual,149,L,SV-1,5 - 3,Jason Tsirtsis,13629,Northwestern,Zack Beitz,11955,Penn State
+2014,01/17,Penn State - Indiana Dual,149,W,DEC,2 - 0,Eric Roach,13723,Indiana,Zack Beitz,11955,Penn State
+2014,01/01,Southern Scuffle,149,L,DEC,2 - 0,Luke Frey,14015,Penn State,Zack Beitz,11955,Penn State
+2014,01/01,Southern Scuffle,149,W,DEC,10 - 4,Scott Sakaguchi,18131,Oregon State,Zack Beitz,11955,Penn State
+2014,01/01,Southern Scuffle,149,L,DEC,3 - 1,Chris Villalonga,13906,Cornell,Zack Beitz,11955,Penn State
+2014,01/01,Southern Scuffle,149,W,DEC,5 - 3,Cody Ruggirello,13711,Hofstra,Zack Beitz,11955,Penn State
+2014,12/21,Penn State - Iowa Dual,149,W,DEC,6 - 1,Michael Kelly,13998,Iowa,Zack Beitz,11955,Penn State
+2014,12/15,Penn State - Ohio State Dual,149,W,DEC,5 - 3,Ian Paddock,37533,Ohio State,Zack Beitz,11955,Penn State
+2014,12/06,Penn State - Boston U Dual,149,W,DEC,9 - 3,Nick Tourville,13644,Boston U,Zack Beitz,11955,Penn State
+2014,11/24,Penn State - Lock Haven Dual,149,L,DEC,8 - 7,Macaulay Maldarelli,37170,Lock Haven,Zack Beitz,11955,Penn State
+2014,11/17,Penn State - Lehigh Dual,149,L,DEC,4 - 3,Mitch Minotti,13880,Lehigh,Zack Beitz,11955,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,TF5,15 - 0 7:00,Colby Knight,11815,Harvard,Zack Beitz,11955,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,FALL,2:52,Jayce Carr,11983,Cleveland State,Zack Beitz,11955,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,L,MD,10 - 2,Adam Krop,11814,Princeton,Zack Beitz,11955,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,DEC,3 - 1,Connor Lapresi,11754,Bucknell,Zack Beitz,11955,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,L,DEC,5 - 3,Will Switzer,11738,Lehigh,Zack Beitz,11955,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,TF5,16 - 0 7:00,Colby Knight,11815,Harvard,Zack Beitz,11955,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,141,W,DEC,10 - 4,Daniel Sanchez,11893,Maryland,Zack Beitz,11955,Penn State
+2014,02/02,Penn State - Michigan Dual,149,L,FALL,6:56,Eric Grajales,37515,Michigan,Andrew Alton,11792,Penn State
+2014,01/31,Penn State - Michigan State Dual,149,W,DEC,9 - 5,Nick Trimble,13665,Michigan State,Andrew Alton,11792,Penn State
+2014,01/19,Shorty Hitchcock Memorial,149,L,MFOR,0 - 0,Quinton Murphy,13776,Clarion,Andrew Alton,11792,Penn State
+2014,01/19,Shorty Hitchcock Memorial,149,W,MFOR,0 - 0,Macaulay Maldarelli,37170,Lock Haven,Andrew Alton,11792,Penn State
+2014,01/19,Shorty Hitchcock Memorial,149,W,TF5,17 - 2 6:05,Blake Peek,11798,Navy,Andrew Alton,11792,Penn State
+2014,01/19,Shorty Hitchcock Memorial,149,W,FALL,0:31,Connor Sutton,11786,Columbia,Andrew Alton,11792,Penn State
+2014,01/12,Penn State - Purdue Dual,149,W,DEC,7 - 6,Brandon Nelsen,13725,Purdue,Andrew Alton,11792,Penn State
+2014,12/28,Wilkes Open,149,L,MFOR,0 - 0,Quinton Murphy,13776,Clarion,Andrew Alton,11792,Penn State
+2014,12/28,Wilkes Open,149,L,MFOR,0 - 0,Travis Shaffer,11777,Pittsburgh,Andrew Alton,11792,Penn State
+2014,12/28,Wilkes Open,149,W,FALL,5:49,Gerard Mistretta,37583,Buffalo,Andrew Alton,11792,Penn State
+2014,12/28,Wilkes Open,149,W,TF5,19 - 4 5:10,Brendan Goldup,18132,Sacred Heart,Andrew Alton,11792,Penn State
+2014,12/28,Wilkes Open,149,W,DEC,5 - 2,Justin Alexander,11801,Maryland,Andrew Alton,11792,Penn State
+2014,01/01,Southern Scuffle,149,W,MD,9 - 1,Raymond Borja,20072,Navy,Luke Frey,14015,Penn State
+2014,01/01,Southern Scuffle,149,W,MFOR,0 - 0,Scott Mattingly,37168,Central Michigan,Luke Frey,14015,Penn State
+2014,01/01,Southern Scuffle,149,L,DEF,5:58,Alexander Richardson,13802,Old Dominion,Luke Frey,14015,Penn State
+2014,01/01,Southern Scuffle,149,L,DEC,5 - 3,Scott Sakaguchi,18131,Oregon State,Luke Frey,14015,Penn State
+2014,01/01,Southern Scuffle,149,L,DEC,6 - 2,Alexander Richardson,13802,Old Dominion,Luke Frey,14015,Penn State
+2014,01/01,Southern Scuffle,149,W,DEC,2 - 0,Zack Beitz,11955,Penn State,Luke Frey,14015,Penn State
+2014,01/01,Southern Scuffle,149,W,MD,8 - 0,Luke Goettl,18168,Iowa State,Luke Frey,14015,Penn State
+2014,01/01,Southern Scuffle,149,W,FALL,3:39,Beau Roberts,13806,Northern Colorado,Luke Frey,14015,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,149,L,MFOR,0 - 0,Brendan Goldup,18132,Sacred Heart,Luke Frey,14015,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,149,L,DEF,7:00,Matt Coppola,13872,Bucknell,Luke Frey,14015,Penn State
+2014,03/20,NCAA Championships,157,W,DEC,5 - 2,Immanuel Kerr-Brown,13770,Duke,Dylan Alton,16643,Penn State
+2014,03/20,NCAA Championships,157,L,SV-1,4 - 2,Luke Smith,13537,Central Michigan,Dylan Alton,16643,Penn State
+2014,03/20,NCAA Championships,157,L,DEC,4 - 1,Ian Miller,11851,Kent State,Dylan Alton,16643,Penn State
+2014,03/20,NCAA Championships,157,W,DEC,5 - 1,Brian Murphy,13518,Michigan,Dylan Alton,16643,Penn State
+2014,03/08,Big Ten Championships,157,L,DEC,4 - 1,Derek St John,37490,Iowa,Dylan Alton,16643,Penn State
+2014,03/08,Big Ten Championships,157,L,MD,13 - 4,Zac Brunson,15112,Illinois,Dylan Alton,16643,Penn State
+2014,03/08,Big Ten Championships,157,W,DEC,2 - 1,Randy Languis,13509,Ohio State,Dylan Alton,16643,Penn State
+2014,03/08,Big Ten Championships,157,L,DEC,3 - 1,Brian Murphy,13518,Michigan,Dylan Alton,16643,Penn State
+2014,03/08,Big Ten Championships,157,W,MD,12 - 3,Roger Wildmo,13469,Michigan State,Dylan Alton,16643,Penn State
+2014,02/23,Penn State - Clarion Dual,157,W,DEC,12 - 6,Austin Matthews,22442,Clarion,Dylan Alton,16643,Penn State
+2014,02/16,Penn State - Oklahoma State Dual,157,L,DEC,6 - 4,Alex Dieringer,13470,Oklahoma State,Dylan Alton,16643,Penn State
+2014,02/09,Penn State - Minnesota Dual,157,L,FALL,5:23,Dylan Ness,13472,Minnesota,Dylan Alton,16643,Penn State
+2014,02/02,Penn State - Michigan Dual,157,W,SV-2,3 - 1,Brian Murphy,13518,Michigan,Dylan Alton,16643,Penn State
+2014,01/31,Penn State - Michigan State Dual,157,W,DEC,8 - 3,Roger Wildmo,13469,Michigan State,Dylan Alton,16643,Penn State
+2014,01/24,Penn State - Illinois Dual,157,W,DEC,5 - 2,Zac Brunson,15112,Illinois,Dylan Alton,16643,Penn State
+2014,01/19,Shorty Hitchcock Memorial,157,W,DEC,4 - 2,Ronnie Garbinsky,15349,Pittsburgh,Dylan Alton,16643,Penn State
+2014,01/19,Shorty Hitchcock Memorial,157,W,MFOR,0 - 0,Lou Mascola,16743,Maryland,Dylan Alton,16643,Penn State
+2014,01/19,Shorty Hitchcock Memorial,157,W,FALL,4:15,Ray Schlitt,15153,Bucknell,Dylan Alton,16643,Penn State
+2014,01/19,Shorty Hitchcock Memorial,157,W,MD,10 - 1,Andrew Reca,17185,Rider,Dylan Alton,16643,Penn State
+2014,01/19,Shorty Hitchcock Memorial,157,W,DEC,8 - 3,Taylor Simaz,13490,Cornell,Dylan Alton,16643,Penn State
+2014,01/12,Penn State - Purdue Dual,157,W,DEC,6 - 1,Dustin Schultz,15211,Purdue,Dylan Alton,16643,Penn State
+2014,01/04,F&M Open,157,L,MFOR,0 - 0,Ronnie Garbinsky,15349,Pittsburgh,Dylan Alton,16643,Penn State
+2014,01/04,F&M Open,157,W,FALL,0:59,Ben Hunter,20076,Navy,Dylan Alton,16643,Penn State
+2014,01/04,F&M Open,157,W,DEC,4 - 0,John Boyle,13875,American,Dylan Alton,16643,Penn State
+2014,01/04,F&M Open,157,W,DEC,4 - 2,Jordan Marshall,15322,Old Dominion,Dylan Alton,16643,Penn State
+2014,01/04,F&M Open,157,W,DEC,8 - 1,Austin Rose,15461,Drexel,Dylan Alton,16643,Penn State
+2014,12/28,Wilkes Open,157,L,MFOR,0 - 0,Lou Mascola,16743,Maryland,Dylan Alton,16643,Penn State
+2014,12/28,Wilkes Open,157,L,MFOR,0 - 0,Ty Schoffstall,15353,Edinboro,Dylan Alton,16643,Penn State
+2014,12/28,Wilkes Open,157,W,DEC,10 - 5,Matthew Gancayco,15125,Princeton,Dylan Alton,16643,Penn State
+2014,12/28,Wilkes Open,157,W,FALL,5:21,Matt Fisher,15127,Sacred Heart,Dylan Alton,16643,Penn State
+2014,01/19,Penn State - Northwestern Dual,157,W,FALL,4:03,Ben Sullivan,13487,Northwestern,James Vollrath,37493,Penn State
+2014,01/17,Penn State - Indiana Dual,157,L,DEC,5 - 4,Taylor Walsh,13464,Indiana,James Vollrath,37493,Penn State
+2014,12/21,Penn State - Iowa Dual,157,L,DEC,10 - 4,Derek St John,37490,Iowa,James Vollrath,37493,Penn State
+2014,12/15,Penn State - Ohio State Dual,157,W,DEC,11 - 5,Randy Languis,13509,Ohio State,James Vollrath,37493,Penn State
+2014,12/08,Pittsburgh - Penn State Dual,157,W,DEC,7 - 2,Cole Sheptock,13771,Pittsburgh,James Vollrath,37493,Penn State
+2014,12/06,Penn State - Boston U Dual,157,L,DEC,5 - 4,Nestor Taffur,13505,Boston U,James Vollrath,37493,Penn State
+2014,11/24,Penn State - Lock Haven Dual,157,W,MD,12 - 4,William Randt,37738,Lock Haven,James Vollrath,37493,Penn State
+2014,11/17,Penn State - Lehigh Dual,157,L,DEC,4 - 3,Joseph Napoli,37541,Lehigh,James Vollrath,37493,Penn State
+2014,11/16,Rider - Penn State Dual,157,W,MD,10 - 2,Wayne Stinson,15117,Rider,James Vollrath,37493,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,157,W,MD,11 - 3,Leo Wortman,13499,Stevens Tech,James Vollrath,37493,Penn State
+2014,02/08,Edinboro Open,157,L,MFOR,0 - 0,Chase Delande,15217,Edinboro,Cody Law,15263,Penn State
+2014,02/08,Edinboro Open,157,L,MFOR,0 - 0,Nick Brascetta,14786,Virginia Tech,Cody Law,15263,Penn State
+2014,02/08,Edinboro Open,157,W,DEC,6 - 3,Matt Pasqualini,15825,Michigan State,Cody Law,15263,Penn State
+2014,02/08,Edinboro Open,157,W,MD,12 - 3,Mitchell Malott,15305,Eastern Michigan,Cody Law,15263,Penn State
+2014,02/08,Edinboro Open,157,W,DEC,5 - 2,Drew Hull,13919,Virginia,Cody Law,15263,Penn State
+2014,02/08,Edinboro Open,157,W,MFOR,0 - 0,Ty Schoffstall,15353,Edinboro,Cody Law,15263,Penn State
+2014,01/19,Shorty Hitchcock Memorial,157,L,DEC,3 - 1,Chad Walsh,13628,Rider,Cody Law,15263,Penn State
+2014,01/19,Shorty Hitchcock Memorial,157,W,DEC,7 - 6,Ray Schlitt,15153,Bucknell,Cody Law,15263,Penn State
+2014,01/19,Shorty Hitchcock Memorial,157,W,DEC,4 - 1,Chad Strube,13878,Virginia Tech,Cody Law,15263,Penn State
+2014,01/19,Shorty Hitchcock Memorial,157,W,DEC,5 - 4,Taylor Simaz,13490,Cornell,Cody Law,15263,Penn State
+2014,01/19,Shorty Hitchcock Memorial,157,W,DEC,6 - 3,Michael Roberson,20918,Virginia,Cody Law,15263,Penn State
+2014,01/19,Shorty Hitchcock Memorial,157,L,DEC,3 - 2,Steve Robertson,13923,Pennsylvania,Cody Law,15263,Penn State
+2014,01/19,Shorty Hitchcock Memorial,157,W,FALL,4:07,Keith Cays,16846,Stevens Tech,Cody Law,15263,Penn State
+2014,01/19,Shorty Hitchcock Memorial,157,W,DEC,8 - 3,Brandon Arnsberger,17268,Bloomsburg,Cody Law,15263,Penn State
+2014,01/04,F&M Open,157,W,DEC,10 - 6,Andrew Murano,37719,Franklin & Marshall,Cody Law,15263,Penn State
+2014,01/04,F&M Open,157,W,DEC,5 - 3,Sam Molina,16630,Pitt-Johnstown,Cody Law,15263,Penn State
+2014,01/04,F&M Open,157,W,MD,13 - 5,George Baker,24879,York,Cody Law,15263,Penn State
+2014,01/04,F&M Open,157,L,TB-1,2 - 1,Jordan Marshall,15322,Old Dominion,Cody Law,15263,Penn State
+2014,01/04,F&M Open,157,L,DEC,2 - 0,Ronnie Garbinsky,15349,Pittsburgh,Cody Law,15263,Penn State
+2014,01/19,Penn State - Northwestern Dual,149,L,SV-1,5 - 3,Jason Tsirtsis,13629,Northwestern,Seth Beitz,13903,Penn State
+2014,12/07,Thunderwolve Open,157,W,DEF,5:58,Muhamid McBryde,15128,Buffalo,Seth Beitz,13903,Penn State
+2014,12/07,Thunderwolve Open,157,W,DEF,7:00,Muhamid McBryde,15128,Buffalo,Seth Beitz,13903,Penn State
+2014,12/07,Thunderwolve Open,157,W,DEC,8 - 2,Cole Shirey,23528,Mercyhurst,Seth Beitz,13903,Penn State
+2014,12/07,Thunderwolve Open,157,W,DEC,11 - 4,Michael Griffith,23380,Mercyhurst,Seth Beitz,13903,Penn State
+2014,12/07,Thunderwolve Open,157,W,MD,12 - 3,Barry Hart,43040,Niagara Community College,Seth Beitz,13903,Penn State
+2014,02/08,Edinboro Open,157,L,MFOR,0 - 0,Ty Schoffstall,15353,Edinboro,Caleb Livingston,13876,Penn State
+2014,02/08,Edinboro Open,157,W,DEC,4 - 3,Zac Baumgartner,13558,Edinboro,Caleb Livingston,13876,Penn State
+2014,02/08,Edinboro Open,157,W,FALL,5:42,Kyle Braddock,14828,Clarion,Caleb Livingston,13876,Penn State
+2014,02/08,Edinboro Open,157,L,TF5,15 - 0 7:00,Nick Brascetta,14786,Virginia Tech,Caleb Livingston,13876,Penn State
+2014,01/04,F&M Open,157,L,DEC,9 - 4,Matt Hammerstone,13834,Bloomsburg,Caleb Livingston,13876,Penn State
+2014,01/04,F&M Open,157,L,DEC,2 - 1,Michael Roberson,20918,Virginia,Caleb Livingston,13876,Penn State
+2014,12/07,Thunderwolve Open,157,L,DEC,6 - 4,Cole Shirey,23528,Mercyhurst,Caleb Livingston,13876,Penn State
+2014,12/07,Thunderwolve Open,157,L,DEC,18 - 14,Michael Griffith,23380,Mercyhurst,Caleb Livingston,13876,Penn State
+2014,12/01,Mat Town Open,157,L,FALL,4:30,Ray Schlitt,15153,Bucknell,Caleb Livingston,13876,Penn State
+2014,12/01,Mat Town Open,157,L,MD,14 - 0,Chad Walsh,13628,Rider,Caleb Livingston,13876,Penn State
+2014,11/17,East Stroudsburg Open,157,W,DEC,7 - 6,Matt Martoccio,21287,Kutztown,Caleb Livingston,13876,Penn State
+2014,11/17,East Stroudsburg Open,157,L,MD,10 - 0,Matthew Gancayco,15125,Princeton,Caleb Livingston,13876,Penn State
+2014,11/17,East Stroudsburg Open,157,L,MD,11 - 2,Ray Bethea,13502,Pennsylvania,Caleb Livingston,13876,Penn State
+2014,11/17,East Stroudsburg Open,157,W,SV-1,6 - 4,Casey Mitchell,15264,Sacred Heart,Caleb Livingston,13876,Penn State
+2014,11/17,East Stroudsburg Open,157,W,DEC,10 - 5,Steminto Rowe,11499,Rowan College of South Jersey,Caleb Livingston,13876,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,157,W,DEC,6 - 4,Ethan Rheault,17208,Sacred Heart,Caleb Livingston,13876,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,157,L,FALL,6:00,Chris Dowdy,15303,Cornell,Caleb Livingston,13876,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,157,W,DEC,14 - 8,Billy Ramsey,15348,Lehigh,Caleb Livingston,13876,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,157,L,DEC,3 - 2,Ryan Hunsberger,13779,George Mason,Caleb Livingston,13876,Penn State
+2014,03/20,NCAA Championships,165,W,DEC,6 - 0,Tyler Caldwell,37122,Oklahoma State,David Taylor,37119,Penn State
+2014,03/20,NCAA Championships,165,W,MD,13 - 5,Steven Monk,37120,North Dakota State,David Taylor,37119,Penn State
+2014,03/20,NCAA Championships,165,W,FALL,3:19,Michael Moreno,11457,Iowa State,David Taylor,37119,Penn State
+2014,03/20,NCAA Championships,165,W,FALL,6:55,Jim Wilson,11535,Stanford,David Taylor,37119,Penn State
+2014,03/20,NCAA Championships,165,W,FALL,2:59,Joe Brewster,11490,South Dakota State,David Taylor,37119,Penn State
+2014,03/08,Big Ten Championships,165,W,MD,14 - 5,Nick Moore,11454,Iowa,David Taylor,37119,Penn State
+2014,03/08,Big Ten Championships,165,W,FALL,0:40,Jackson Morse,14762,Illinois,David Taylor,37119,Penn State
+2014,03/08,Big Ten Championships,165,W,TF5,22 - 4 7:00,Austin Wilson,11470,Nebraska,David Taylor,37119,Penn State
+2014,02/23,Penn State - Clarion Dual,165,W,FALL,0:11,Michael Pavasko,14800,Clarion,David Taylor,37119,Penn State
+2014,02/16,Penn State - Oklahoma State Dual,165,W,DEC,5 - 2,Tyler Caldwell,37122,Oklahoma State,David Taylor,37119,Penn State
+2014,02/09,Penn State - Minnesota Dual,165,W,MD,13 - 3,Daniel Zilverberg,37123,Minnesota,David Taylor,37119,Penn State
+2014,02/02,Penn State - Michigan Dual,165,W,TF5,17 - 2 5:14,Daniel Yates,37824,Michigan,David Taylor,37119,Penn State
+2014,01/31,Penn State - Michigan State Dual,165,W,FALL,1:53,Robert Nash,20029,Michigan State,David Taylor,37119,Penn State
+2014,01/24,Penn State - Illinois Dual,165,W,MD,11 - 3,Jackson Morse,14762,Illinois,David Taylor,37119,Penn State
+2014,01/19,Penn State - Northwestern Dual,165,W,TF5,17 - 2 4:47,Pierce Harger,11463,Northwestern,David Taylor,37119,Penn State
+2014,01/17,Penn State - Indiana Dual,165,W,TF5,15 - 0 7:00,Ryan LeBlanc,11469,Indiana,David Taylor,37119,Penn State
+2014,01/12,Penn State - Purdue Dual,165,W,FALL,2:23,Chad Welch,11543,Purdue,David Taylor,37119,Penn State
+2014,01/01,Southern Scuffle,165,W,FALL,5:00,Zach Toal,37134,Missouri,David Taylor,37119,Penn State
+2014,01/01,Southern Scuffle,165,W,MD,9 - 1,Tyler Caldwell,37122,Oklahoma State,David Taylor,37119,Penn State
+2014,01/01,Southern Scuffle,165,W,MD,17 - 6,Dylan Palacio,11481,Cornell,David Taylor,37119,Penn State
+2014,01/01,Southern Scuffle,165,W,TF5,21 - 5 5:24,Mitchell Wightman,14794,Boston U,David Taylor,37119,Penn State
+2014,01/01,Southern Scuffle,165,W,FALL,1:48,Jesse Stafford,11518,Air Force,David Taylor,37119,Penn State
+2014,12/21,Penn State - Iowa Dual,165,W,MD,12 - 3,Nick Moore,11454,Iowa,David Taylor,37119,Penn State
+2014,12/15,Penn State - Ohio State Dual,165,W,TF5,20 - 5 7:00,Joe Grandominico,11542,Ohio State,David Taylor,37119,Penn State
+2014,12/08,Pittsburgh - Penn State Dual,165,W,FALL,3:09,Geno Morelli,14816,Pittsburgh,David Taylor,37119,Penn State
+2014,12/06,Penn State - Boston U Dual,165,W,TF5,21 - 5 6:57,Mitchell Wightman,14794,Boston U,David Taylor,37119,Penn State
+2014,11/24,Penn State - Lock Haven Dual,165,W,FALL,6:09,Jacob Kemerer,37710,Lock Haven,David Taylor,37119,Penn State
+2014,11/17,Penn State - Lehigh Dual,165,W,MD,20 - 7,Brian Brill,12871,Lehigh,David Taylor,37119,Penn State
+2014,11/16,Rider - Penn State Dual,165,W,FALL,4:27,Ramon Santiago,38295,Rider,David Taylor,37119,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,165,W,FALL,1:13,Colin Navickas,14880,Stevens Tech,David Taylor,37119,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,165,W,FALL,1:51,Craig Eifert,14793,Cornell,David Taylor,37119,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,165,W,TF5,18 - 2 7:00,Nick Visicaro,11489,Rutgers,David Taylor,37119,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,165,W,FALL,2:41,Aaron McKinney,14815,Lock Haven,David Taylor,37119,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,165,W,FALL,2:00,Vincent Grella,11504,Binghamton,David Taylor,37119,Penn State
+2014,03/02,National Collegiate Open,165,L,MFOR,0 - 0,Michael Ceravalo,15273,NC State,Garett Hammond,14829,Penn State
+2014,03/02,National Collegiate Open,165,L,MFOR,0 - 0,Dillon Geoghegan,11478,Old Dominion,Garett Hammond,14829,Penn State
+2014,02/08,Edinboro Open,165,W,TF5,15 - 0 7:00,Nathan Hartless,15623,Edinboro,Garett Hammond,14829,Penn State
+2014,02/08,Edinboro Open,165,W,TF5,15 - 0 7:00,Connor Moynihan,14872,Central Michigan,Garett Hammond,14829,Penn State
+2014,02/08,Edinboro Open,165,L,MFOR,0 - 0,Connor Brancheau,15002,Michigan,Garett Hammond,14829,Penn State
+2014,02/08,Edinboro Open,165,W,MD,16 - 6,Austin Geerlings,14858,Eastern Michigan,Garett Hammond,14829,Penn State
+2014,02/08,Edinboro Open,165,W,TF5,17 - 1 7:00,Connor Moynihan,14872,Central Michigan,Garett Hammond,14829,Penn State
+2014,02/08,Edinboro Open,165,L,MD,12 - 2,Bo Jordan,14840,Ohio State,Garett Hammond,14829,Penn State
+2014,02/08,Edinboro Open,165,W,TF5,19 - 3 7:00,Nathan Hartless,15623,Edinboro,Garett Hammond,14829,Penn State
+2014,02/08,Edinboro Open,165,W,MFOR,0 - 0,Eric Burgey,17171,Notre Dame,Garett Hammond,14829,Penn State
+2014,01/19,Shorty Hitchcock Memorial,165,W,DEC,6 - 0,Andrew Roche,20085,Navy,Garett Hammond,14829,Penn State
+2014,01/19,Shorty Hitchcock Memorial,165,W,MFOR,0 - 0,Jacob Kemerer,37710,Lock Haven,Garett Hammond,14829,Penn State
+2014,01/19,Shorty Hitchcock Memorial,165,W,DEC,10 - 7,Cole Gracey,11479,Army West Point,Garett Hammond,14829,Penn State
+2014,01/19,Shorty Hitchcock Memorial,165,W,FALL,2:34,Ethan Orr,14895,Rutgers,Garett Hammond,14829,Penn State
+2014,01/19,Shorty Hitchcock Memorial,165,L,DEC,3 - 1,Craig Eifert,14793,Cornell,Garett Hammond,14829,Penn State
+2014,01/19,Shorty Hitchcock Memorial,165,W,MFOR,0 - 0,Tyler Manion,14894,Maryland,Garett Hammond,14829,Penn State
+2014,01/19,Shorty Hitchcock Memorial,165,W,DEC,11 - 5,Laurent Remillard,22484,Brown,Garett Hammond,14829,Penn State
+2014,01/01,Southern Scuffle,165,W,TF5,17 - 0 4:39,Nijel Jones,37761,NC State,Garett Hammond,14829,Penn State
+2014,01/01,Southern Scuffle,165,W,FALL,1:55,Zack Strickland,14892,Appalachian State,Garett Hammond,14829,Penn State
+2014,01/01,Southern Scuffle,165,W,DEC,13 - 7,Cole Gracey,11479,Army West Point,Garett Hammond,14829,Penn State
+2014,01/01,Southern Scuffle,165,L,MD,11 - 2,Nick Sulzer,11483,Virginia,Garett Hammond,14829,Penn State
+2014,01/01,Southern Scuffle,165,L,DEC,3 - 1,Jim Wilson,11535,Stanford,Garett Hammond,14829,Penn State
+2014,11/17,East Stroudsburg Open,165,W,TF5,15 - 0 7:00,Andrew Roche,20085,Navy,Garett Hammond,14829,Penn State
+2014,11/17,East Stroudsburg Open,165,W,TF5,16 - 1 7:00,Andrew Roche,20085,Navy,Garett Hammond,14829,Penn State
+2014,11/17,East Stroudsburg Open,165,W,MD,8 - 0,Braden Turner,14855,East Stroudsburg,Garett Hammond,14829,Penn State
+2014,11/17,East Stroudsburg Open,165,W,FALL,4:19,Justin Heller,14856,Kutztown,Garett Hammond,14829,Penn State
+2014,11/17,East Stroudsburg Open,165,W,MD,13 - 5,Andrew Kinney,12783,Kutztown,Garett Hammond,14829,Penn State
+2014,11/17,East Stroudsburg Open,165,W,FALL,4:57,Antonio Mancella,23289,The College of New Jersey,Garett Hammond,14829,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,165,W,TF5,15 - 0 7:00,Mikey Simmons,14812,Rutgers,Garett Hammond,14829,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,165,W,TF5,17 - 2 7:00,Mikey Simmons,14812,Rutgers,Garett Hammond,14829,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,165,W,FALL,6:00,Jacob George,42699,Cornell,Garett Hammond,14829,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,165,W,MD,16 - 5,Ben Haas,11564,Lehigh,Garett Hammond,14829,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,165,L,DEC,9 - 6,Devon Gobbo,18139,Harvard,Garett Hammond,14829,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,165,W,DEC,5 - 3,Mitchell Wightman,14794,Boston U,Garett Hammond,14829,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,165,W,TF5,16 - 1 5:44,Aaron McKinney,14815,Lock Haven,Garett Hammond,14829,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,165,W,FALL,2:50,Will Sullivan,14851,Lehigh,Garett Hammond,14829,Penn State
+2014,11/03,Knight Point Open,165,W,TF5,17 - 1 7:00,Connor Moynihan,14872,Central Michigan,Garett Hammond,14829,Penn State
+2014,11/03,Clarion Open,165,W,FALL,3:54,Troy Taylor,19644,United States Military Academy,Garett Hammond,14829,Penn State
+2014,11/03,Knight Point Open,165,L,DEC,7 - 2,Ryan LeBlanc,11469,Indiana,Garett Hammond,14829,Penn State
+2014,11/03,Clarion Open,165,W,TF5,15 - 0 7:00,TJ Guidice,14808,Maryland,Garett Hammond,14829,Penn State
+2014,11/03,Clarion Open,165,W,FALL,1:56,Jerald Spohn,12856,Kent State,Garett Hammond,14829,Penn State
+2014,11/03,Clarion Open,165,W,FALL,0:42,Hunter French,14889,Indiana,Garett Hammond,14829,Penn State
+2014,11/03,Clarion Open,165,L,DEC,8 - 4,Geno Morelli,14816,Pittsburgh,Garett Hammond,14829,Penn State
+2014,03/20,NCAA Championships,174,L,SV-1,3 - 1,Logan Storley,12266,Minnesota,Matt Brown,12256,Penn State
+2014,03/20,NCAA Championships,174,W,DEC,6 - 3,Mike Evans,12244,Iowa,Matt Brown,12256,Penn State
+2014,03/20,NCAA Championships,174,W,DEC,9 - 3,Bryce Hammond,12329,CSU Bakersfield,Matt Brown,12256,Penn State
+2014,03/20,NCAA Championships,174,W,DEC,10 - 6,Mathew Miller,12876,Navy,Matt Brown,12256,Penn State
+2014,03/20,NCAA Championships,174,L,TB-1,5 - 4,Mike Evans,12244,Iowa,Matt Brown,12256,Penn State
+2014,03/20,NCAA Championships,174,W,DEC,6 - 1,Tanner Weatherman,12253,Iowa State,Matt Brown,12256,Penn State
+2014,03/20,NCAA Championships,174,W,MD,17 - 3,Kyle Meyer,12318,Stanford,Matt Brown,12256,Penn State
+2014,03/08,Big Ten Championships,174,W,MD,16 - 5,Tony Dallago,38289,Illinois,Matt Brown,12256,Penn State
+2014,03/08,Big Ten Championships,174,W,MD,12 - 3,SCOTT LIEGEL,37260,Wisconsin,Matt Brown,12256,Penn State
+2014,03/08,Big Ten Championships,174,W,DEF,0:02,Kevin Bialka,37892,Northwestern,Matt Brown,12256,Penn State
+2014,03/08,Big Ten Championships,174,W,DEC,2 - 1,Logan Storley,12266,Minnesota,Matt Brown,12256,Penn State
+2014,03/08,Big Ten Championships,174,L,DEC,3 - 2,Mike Evans,12244,Iowa,Matt Brown,12256,Penn State
+2014,02/23,Penn State - Clarion Dual,174,W,FALL,2:51,Ryan Darch,12769,Clarion,Matt Brown,12256,Penn State
+2014,02/16,Penn State - Oklahoma State Dual,174,L,TB-2,4 - 3,Chris Perry,37263,Oklahoma State,Matt Brown,12256,Penn State
+2014,02/09,Penn State - Minnesota Dual,174,L,DEC,8 - 4,Logan Storley,12266,Minnesota,Matt Brown,12256,Penn State
+2014,02/02,Penn State - Michigan Dual,174,W,TF5,21 - 6 5:35,Collin Zeerip,37279,Michigan,Matt Brown,12256,Penn State
+2014,01/31,Penn State - Michigan State Dual,174,W,TF5,18 - 3 7:00,Nick Kaczanowski,20026,Michigan State,Matt Brown,12256,Penn State
+2014,01/24,Penn State - Illinois Dual,174,W,MD,12 - 2,Tony Dallago,38289,Illinois,Matt Brown,12256,Penn State
+2014,01/19,Penn State - Northwestern Dual,174,W,DEF,3:55,Leroy Munster,12899,Northwestern,Matt Brown,12256,Penn State
+2014,01/17,Penn State - Indiana Dual,174,W,MD,12 - 3,Matt Irick,12356,Indiana,Matt Brown,12256,Penn State
+2014,01/12,Penn State - Purdue Dual,174,W,MD,14 - 4,Patrick Kissel,12339,Purdue,Matt Brown,12256,Penn State
+2014,01/01,Southern Scuffle,174,L,DEC,4 - 0,Chris Perry,37263,Oklahoma State,Matt Brown,12256,Penn State
+2014,01/01,Southern Scuffle,174,W,DEC,3 - 2,Logan Storley,12266,Minnesota,Matt Brown,12256,Penn State
+2014,01/01,Southern Scuffle,174,W,FALL,4:25,Joe Latham,18140,Oregon State,Matt Brown,12256,Penn State
+2014,01/01,Southern Scuffle,174,W,MD,12 - 3,Scott Marmoll,12361,North Carolina,Matt Brown,12256,Penn State
+2014,01/01,Southern Scuffle,174,W,FALL,3:40,Joey Krulock,12790,Bucknell,Matt Brown,12256,Penn State
+2014,01/01,Southern Scuffle,174,W,MFOR,0 - 0,Carsten Kopp,12317,Campbell,Matt Brown,12256,Penn State
+2014,12/21,Penn State - Iowa Dual,174,W,DEC,4 - 1,Mike Evans,12244,Iowa,Matt Brown,12256,Penn State
+2014,12/15,Penn State - Ohio State Dual,174,W,MD,16 - 4,Mark Martin,12338,Ohio State,Matt Brown,12256,Penn State
+2014,12/08,Pittsburgh - Penn State Dual,174,W,DEC,9 - 3,Tyler Wilps,12287,Pittsburgh,Matt Brown,12256,Penn State
+2014,12/06,Penn State - Boston U Dual,174,W,TF4,22 - 7 6:04,Eric Des Lauriers,12319,Boston U,Matt Brown,12256,Penn State
+2014,11/24,Penn State - Lock Haven Dual,174,W,TF5,18 - 3 6:02,Adam Mackie,12802,Lock Haven,Matt Brown,12256,Penn State
+2014,11/17,Penn State - Lehigh Dual,174,W,DEC,8 - 5,Elliot Riddick,12793,Lehigh,Matt Brown,12256,Penn State
+2014,11/16,Rider - Penn State Dual,174,W,FALL,1:14,Connor Brennan,12786,Rider,Matt Brown,12256,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,174,W,MD,14 - 5,Brett Harner,12294,Princeton,Matt Brown,12256,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,174,W,MD,13 - 3,Eric Morris,12771,Harvard,Matt Brown,12256,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,174,W,FALL,2:02,Owen Scott,12799,Cornell,Matt Brown,12256,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,174,W,FALL,1:16,Austin Wetterau,12827,Bucknell,Matt Brown,12256,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,174,W,FALL,2:59,Taylor Jackson,12867,Rutgers,Matt Brown,12256,Penn State
+2014,02/08,Edinboro Open,174,L,FALL,6:24,Jordan Wohlfert,19762,Michigan State,Rex Lutz,12658,Penn State
+2014,02/08,Edinboro Open,174,W,DEC,10 - 5,Tim Schaefer,12837,Clarion,Rex Lutz,12658,Penn State
+2014,02/08,Edinboro Open,174,L,DEC,6 - 2,Brandon Hill,12900,Michigan,Rex Lutz,12658,Penn State
+2014,01/04,F&M Open,174,W,DEC,4 - 3,Adam Fondale,37311,Columbia,Rex Lutz,12658,Penn State
+2014,01/04,F&M Open,174,W,FALL,2:54,Tyler Askey,12657,Virginia,Rex Lutz,12658,Penn State
+2014,01/04,F&M Open,174,W,FALL,1:23,Coleman DeLude,12840,Drexel,Rex Lutz,12658,Penn State
+2014,01/04,F&M Open,174,W,FALL,2:53,Colin Gironda,12825,Franklin & Marshall,Rex Lutz,12658,Penn State
+2014,01/04,F&M Open,174,W,DEC,3 - 2,Samson Imonode,12655,Army West Point,Rex Lutz,12658,Penn State
+2014,01/04,F&M Open,174,W,DEC,5 - 0,Chris Amro,12839,NYU,Rex Lutz,12658,Penn State
+2014,01/04,F&M Open,174,W,DEC,5 - 2,Austin Coniker,12803,Columbia,Rex Lutz,12658,Penn State
+2014,01/04,F&M Open,174,L,DEC,9 - 3,Jeremy Bailes,24283,Messiah,Rex Lutz,12658,Penn State
+2014,12/07,Thunderwolve Open,174,W,DEC,12 - 7,Tim Schaefer,12837,Clarion,Rex Lutz,12658,Penn State
+2014,12/07,Thunderwolve Open,174,W,DEC,12 - 7,Tyler Rill,12862,Buffalo,Rex Lutz,12658,Penn State
+2014,12/07,Thunderwolve Open,174,W,DEC,3 - 2,Tim Schaefer,12837,Clarion,Rex Lutz,12658,Penn State
+2014,12/07,Thunderwolve Open,174,W,FALL,1:27,Joshua Grodesky,12590,Mercyhurst,Rex Lutz,12658,Penn State
+2014,12/07,Thunderwolve Open,174,W,DEC,5 - 2,Rrok Ndokaj,12255,Buffalo,Rex Lutz,12658,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,174,L,DEC,6 - 4,John Paris,37370,Binghamton,Rex Lutz,12658,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,174,W,DEC,6 - 1,Blaze Buckwalter,12778,Lock Haven,Rex Lutz,12658,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,174,L,DEC,4 - 3,Phillip Bakuckas,12289,Rutgers,Rex Lutz,12658,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,174,W,DEC,9 - 5,Lou Puca,12836,Cortland State,Rex Lutz,12658,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,174,W,DEC,6 - 5,Zack Zupan,12835,Binghamton,Rex Lutz,12658,Penn State
+2014,11/17,East Stroudsburg Open,174,L,DEC,6 - 4,Brendan McKeown,12797,East Stroudsburg,Andrew Church,37362,Penn State
+2014,11/17,East Stroudsburg Open,174,L,DEC,12 - 5,Brad Wukie,12796,Pennsylvania,Andrew Church,37362,Penn State
+2014,11/17,East Stroudsburg Open,174,W,DEC,2 - 0,Bionojel Candelaria,12795,Kutztown,Andrew Church,37362,Penn State
+2014,11/17,East Stroudsburg Open,174,W,DEC,4 - 2,Ryan Harman,12794,Navy,Andrew Church,37362,Penn State
+2014,11/03,Clarion Open,174,L,MD,10 - 2,Elliot Riddick,12793,Lehigh,Andrew Church,37362,Penn State
+2014,11/03,Clarion Open,174,W,DEC,4 - 1,Matt Irick,12356,Indiana,Andrew Church,37362,Penn State
+2014,11/03,Clarion Open,174,W,DEC,5 - 2,Travis Moyer,12792,Lock Haven,Andrew Church,37362,Penn State
+2014,11/03,Clarion Open,174,L,DEC,4 - 3,Jack McKeever,12791,Binghamton,Andrew Church,37362,Penn State
+2014,11/03,Clarion Open,174,W,DEC,2 - 0,Ryan Darch,12769,Clarion,Andrew Church,37362,Penn State
+2014,11/03,Clarion Open,174,W,DEC,8 - 1,Nikos Garofola,12770,Pitt-Johnstown,Andrew Church,37362,Penn State
+2014,03/20,NCAA Championships,184,W,DEC,7 - 2,Jimmy Sheptock,37313,Maryland,Edward Ruth,37312,Penn State
+2014,03/20,NCAA Championships,184,W,MD,10 - 2,Kevin Steinhaus,37302,Minnesota,Edward Ruth,37312,Penn State
+2014,03/20,NCAA Championships,184,W,FALL,1:59,Jackson Hein,37300,Wisconsin,Edward Ruth,37312,Penn State
+2014,03/20,NCAA Championships,184,W,DEC,5 - 3,Gabe Dean,12580,Cornell,Edward Ruth,37312,Penn State
+2014,03/20,NCAA Championships,184,W,TF5,15 - 0 7:00,Nikko Reyes,12688,Illinois,Edward Ruth,37312,Penn State
+2014,03/08,Big Ten Championships,184,W,MD,10 - 2,Ethen Lofthouse,37286,Iowa,Edward Ruth,37312,Penn State
+2014,03/08,Big Ten Championships,184,W,MD,9 - 1,Domenic Abounader,12523,Michigan,Edward Ruth,37312,Penn State
+2014,03/08,Big Ten Championships,184,W,DEC,4 - 1,Nikko Reyes,12688,Illinois,Edward Ruth,37312,Penn State
+2014,03/08,Big Ten Championships,184,W,MD,9 - 1,Tanner Lynde,12514,Purdue,Edward Ruth,37312,Penn State
+2014,02/23,Penn State - Clarion Dual,184,W,FALL,1:05,Dustin Conti,12468,Clarion,Edward Ruth,37312,Penn State
+2014,02/16,Penn State - Oklahoma State Dual,184,W,FALL,5:41,Nolan Boyd,12399,Oklahoma State,Edward Ruth,37312,Penn State
+2014,02/09,Penn State - Minnesota Dual,184,W,DEC,7 - 1,Kevin Steinhaus,37302,Minnesota,Edward Ruth,37312,Penn State
+2014,02/02,Penn State - Michigan Dual,184,W,TF5,17 - 2 5:39,Domenic Abounader,12523,Michigan,Edward Ruth,37312,Penn State
+2014,01/31,Penn State - Michigan State Dual,184,W,FALL,0:38,John Rizqallah,12403,Michigan State,Edward Ruth,37312,Penn State
+2014,01/24,Penn State - Illinois Dual,184,W,MD,14 - 3,Nikko Reyes,12688,Illinois,Edward Ruth,37312,Penn State
+2014,01/19,Penn State - Northwestern Dual,184,W,FALL,1:36,Jacob Berkowitz,12585,Northwestern,Edward Ruth,37312,Penn State
+2014,01/17,Penn State - Indiana Dual,184,W,TF5,18 - 3 5:12,Luke Sheridan,12459,Indiana,Edward Ruth,37312,Penn State
+2014,01/12,Penn State - Purdue Dual,184,W,MD,13 - 3,Tanner Lynde,12514,Purdue,Edward Ruth,37312,Penn State
+2014,01/01,Southern Scuffle,184,W,FALL,2:52,Ryan Garringer,37315,Ohio,Edward Ruth,37312,Penn State
+2014,01/01,Southern Scuffle,184,L,DEC,7 - 4,Gabe Dean,12580,Cornell,Edward Ruth,37312,Penn State
+2014,01/01,Southern Scuffle,184,W,TF5,23 - 7 6:46,Lorenzo Thomas,12543,Pennsylvania,Edward Ruth,37312,Penn State
+2014,01/01,Southern Scuffle,184,W,FALL,5:30,Ben Schwery,12454,South Dakota State,Edward Ruth,37312,Penn State
+2014,01/01,Southern Scuffle,184,W,FALL,1:07,Sam Wheeler,12456,Kent State,Edward Ruth,37312,Penn State
+2014,12/21,Penn State - Iowa Dual,184,W,MD,12 - 4,Ethen Lofthouse,37286,Iowa,Edward Ruth,37312,Penn State
+2014,12/15,Penn State - Ohio State Dual,184,W,MD,14 - 3,Kenny Courts,12279,Ohio State,Edward Ruth,37312,Penn State
+2014,12/01,Mat Town Open,184,W,TF5,15 - 0 7:00,tyler dibert,12496,Clarion,Edward Ruth,37312,Penn State
+2014,12/01,Mat Town Open,184,W,MD,20 - 6,Fred Garcia,12466,Lock Haven,Edward Ruth,37312,Penn State
+2014,12/01,Mat Town Open,184,W,MD,15 - 3,William George,12607,Cornell,Edward Ruth,37312,Penn State
+2014,12/01,Mat Town Open,184,W,TF5,18 - 3 7:00,tyler dibert,12496,Clarion,Edward Ruth,37312,Penn State
+2014,12/01,Mat Town Open,184,W,FALL,5:43,Mitchell Ball,16271,Millersville,Edward Ruth,37312,Penn State
+2014,12/01,Mat Town Open,184,W,FALL,0:58,Dalton Shoop,16270,Army West Point,Edward Ruth,37312,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,W,TF5,15 - 0 7:00,James Frascella,12578,Penn State,Edward Ruth,37312,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,W,TF5,15 - 0 7:00,Zach Diekel,12533,Lehigh,Edward Ruth,37312,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,W,TF5,15 - 0 7:00,Tyler Greene,12506,Bucknell,Edward Ruth,37312,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,W,FALL,1:24,Gabe Dean,12580,Cornell,Edward Ruth,37312,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,W,TF5,19 - 2 7:00,Tyler Greene,12506,Bucknell,Edward Ruth,37312,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,W,TF5,20 - 3 7:00,James Frascella,12578,Penn State,Edward Ruth,37312,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,W,TF5,16 - 1 3:30,Nickolas Bellanza,12704,Cortland State,Edward Ruth,37312,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,W,TF5,16 - 1 7:00,Zach Diekel,12533,Lehigh,Edward Ruth,37312,Penn State
+2014,02/08,Edinboro Open,184,W,FALL,1:07,Andrew Psomas,12410,Columbia,Matt McCutcheon,12572,Penn State
+2014,02/08,Edinboro Open,184,W,TF5,20 - 4 7:00,Conor Murray,22721,Notre Dame,Matt McCutcheon,12572,Penn State
+2014,02/08,Edinboro Open,184,W,FALL,1:07,Psomas Andrew,17908,Unattached,Matt McCutcheon,12572,Penn State
+2014,02/08,Edinboro Open,184,W,DEC,5 - 2,Nick Mitchell,12625,Edinboro,Matt McCutcheon,12572,Penn State
+2014,02/08,Edinboro Open,184,L,DEC,8 - 3,Vic Avery,12614,Edinboro,Matt McCutcheon,12572,Penn State
+2014,01/19,Shorty Hitchcock Memorial,184,L,DEC,4 - 3,Nathaniel Brown,12538,Lehigh,Matt McCutcheon,12572,Penn State
+2014,01/19,Shorty Hitchcock Memorial,184,W,DEC,6 - 1,William George,12607,Cornell,Matt McCutcheon,12572,Penn State
+2014,01/19,Shorty Hitchcock Memorial,184,W,FALL,3:35,Nathan Dow,12744,Army West Point,Matt McCutcheon,12572,Penn State
+2014,01/19,Shorty Hitchcock Memorial,184,W,FALL,3:15,Stevie Cervantes,12747,US Naval Academy Prep School,Matt McCutcheon,12572,Penn State
+2014,01/01,Southern Scuffle,184,L,DEC,4 - 2,Nolan Boyd,12399,Oklahoma State,Matt McCutcheon,12572,Penn State
+2014,01/01,Southern Scuffle,184,W,TB-1,3 - 2,William George,12607,Cornell,Matt McCutcheon,12572,Penn State
+2014,01/01,Southern Scuffle,184,L,DEC,4 - 2,Lorenzo Thomas,12543,Pennsylvania,Matt McCutcheon,12572,Penn State
+2014,01/01,Southern Scuffle,184,W,FALL,3:59,Dylan Ryan,12479,Duke,Matt McCutcheon,12572,Penn State
+2014,01/01,Southern Scuffle,184,W,DEC,5 - 4,Johnny Eblen,12537,Missouri,Matt McCutcheon,12572,Penn State
+2014,12/01,Mat Town Open,184,W,TB-2,1 - 0,William George,12607,Cornell,Matt McCutcheon,12572,Penn State
+2014,12/01,Mat Town Open,184,W,MD,12 - 2,Joe Rimel,12576,Lock Haven,Matt McCutcheon,12572,Penn State
+2014,12/01,Mat Town Open,184,L,TB-2,1 - 0,Fred Garcia,12466,Lock Haven,Matt McCutcheon,12572,Penn State
+2014,12/01,Mat Town Open,184,W,MD,17 - 4,Joe Ariola,12696,Buffalo,Matt McCutcheon,12572,Penn State
+2014,12/01,Mat Town Open,184,W,DEC,4 - 0,Joe Rimel,12576,Lock Haven,Matt McCutcheon,12572,Penn State
+2014,01/19,Shorty Hitchcock Memorial,184,L,DEC,8 - 2,Jadaen Bernstein,37322,US Naval Academy Prep School,James Frascella,12578,Penn State
+2014,01/19,Shorty Hitchcock Memorial,184,L,DEC,8 - 4,Jake Taylor,38248,Spartan Combat RTC,James Frascella,12578,Penn State
+2014,01/19,Shorty Hitchcock Memorial,184,W,DEC,9 - 4,Stevie Cervantes,12747,US Naval Academy Prep School,James Frascella,12578,Penn State
+2014,01/19,Shorty Hitchcock Memorial,184,W,DEC,11 - 5,Casey Hedash,12746,Shippensburg,James Frascella,12578,Penn State
+2014,01/19,Shorty Hitchcock Memorial,184,W,FALL,1:09,Anthony Messner,12564,Rutgers,James Frascella,12578,Penn State
+2014,11/17,Penn State - Lehigh Dual,184,L,DEC,9 - 6,Zach Diekel,12533,Lehigh,James Frascella,12578,Penn State
+2014,11/16,Rider - Penn State Dual,184,L,TF5,17 - 2 7:00,Clint Morrison,12584,Rider,James Frascella,12578,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,L,TF5,20 - 3 7:00,Edward Ruth,37312,Penn State,James Frascella,12578,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,L,TF5,15 - 0 7:00,Edward Ruth,37312,Penn State,James Frascella,12578,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,W,DEC,4 - 2,Michael Alexander,37352,Cornell,James Frascella,12578,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,L,DEC,9 - 3,Fred Garcia,12466,Lock Haven,James Frascella,12578,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,W,DEC,8 - 3,Troy Murtha,12413,Princeton,James Frascella,12578,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,W,DEC,2 - 0,Anthony Messner,12564,Rutgers,James Frascella,12578,Penn State
+2014,01/01,Southern Scuffle,184,W,DEC,13 - 8,Boaz Beard,37331,Iowa State,Wes Phipps,12596,Penn State
+2014,01/01,Southern Scuffle,184,L,DEC,5 - 0,Devin Hightower,12624,Air Force,Wes Phipps,12596,Penn State
+2014,01/01,Southern Scuffle,184,L,TF5,16 - 1 7:00,Nolan Boyd,12399,Oklahoma State,Wes Phipps,12596,Penn State
+2014,01/01,Southern Scuffle,184,W,DEC,9 - 4,William Miller,12648,Navy,Wes Phipps,12596,Penn State
+2014,01/01,Southern Scuffle,184,W,MD,10 - 1,Ben Schwery,12454,South Dakota State,Wes Phipps,12596,Penn State
+2014,12/15,Penn State - Ohio State Dual,197,L,DEC,3 - 1,Nick Heflin,37405,Ohio State,Wes Phipps,12596,Penn State
+2014,12/08,Pittsburgh - Penn State Dual,184,W,MD,13 - 3,Aaron Rothwell,12520,Pittsburgh,Wes Phipps,12596,Penn State
+2014,12/06,Penn State - Boston U Dual,184,W,MD,9 - 1,aaron conrad,12616,Boston U,Wes Phipps,12596,Penn State
+2014,11/24,Penn State - Lock Haven Dual,184,L,DEC,3 - 1,Fred Garcia,12466,Lock Haven,Wes Phipps,12596,Penn State
+2014,03/02,National Collegiate Open,184,L,DEC,4 - 0,Trent Noon,12471,Northern Colorado,BRANDON PHILLIPS,23593,Penn State
+2014,03/02,National Collegiate Open,184,W,DEC,4 - 3,Tyler Patrick,12553,Duke,BRANDON PHILLIPS,23593,Penn State
+2014,03/02,National Collegiate Open,184,W,DEC,2 - 1,Stacy Davis,22281,NC State,BRANDON PHILLIPS,23593,Penn State
+2014,03/02,National Collegiate Open,184,L,MFOR,0 - 0,Austin Severn,12293,Central Michigan,BRANDON PHILLIPS,23593,Penn State
+2014,03/02,National Collegiate Open,184,L,MD,9 - 1,Ethan Orr,14895,Rutgers,BRANDON PHILLIPS,23593,Penn State
+2014,02/08,Edinboro Open,197,L,FALL,1:33,Ray Stone,13175,Cleveland State,Dylan Dailey,12748,Penn State
+2014,02/08,Edinboro Open,197,L,FALL,4:20,Matt Patrick,13057,Pittsburgh,Dylan Dailey,12748,Penn State
+2014,01/04,F&M Open,184,L,DEC,7 - 2,Patrick Sheehan,22869,NYU,Dylan Dailey,12748,Penn State
+2014,01/04,F&M Open,184,L,DEC,6 - 4,Shane Gilmore,24286,Millersville,Dylan Dailey,12748,Penn State
+2014,11/17,East Stroudsburg Open,184,L,DEC,6 - 1,KEVIN DUFRESNE,12599,Unattached,Dylan Dailey,12748,Penn State
+2014,11/17,East Stroudsburg Open,184,W,TF5,19 - 3 4:37,RYAN BARRY,15025,Unattached,Dylan Dailey,12748,Penn State
+2014,11/17,East Stroudsburg Open,184,L,DEC,13 - 6,Andre Petroski,23319,Kutztown,Dylan Dailey,12748,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,L,FALL,2:13,Nathaniel Brown,12538,Lehigh,Dylan Dailey,12748,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,L,DEC,4 - 2,Anthony Messner,12564,Rutgers,Dylan Dailey,12748,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,184,W,FALL,1:04,Daniel Choi,13074,Cornell,Dylan Dailey,12748,Penn State
+2014,03/20,NCAA Championships,197,W,MD,13 - 4,Cody Reed,37418,Binghamton,Morgan McIntosh,13012,Penn State
+2014,03/20,NCAA Championships,197,W,DEC,6 - 4,Richard Perry,37404,Bloomsburg,Morgan McIntosh,13012,Penn State
+2014,03/20,NCAA Championships,197,W,MD,15 - 7,Daniel Mitchell,37411,American,Morgan McIntosh,13012,Penn State
+2014,03/20,NCAA Championships,197,L,DEC,3 - 2,Chris Penny,37423,Virginia Tech,Morgan McIntosh,13012,Penn State
+2014,03/20,NCAA Championships,197,L,DEC,5 - 3,Kyven Gadson,13104,Iowa State,Morgan McIntosh,13012,Penn State
+2014,03/20,NCAA Championships,197,W,DEC,3 - 1,Nathan Burak,13135,Iowa,Morgan McIntosh,13012,Penn State
+2014,03/20,NCAA Championships,197,W,DEC,5 - 0,John Bolich,13056,Lehigh,Morgan McIntosh,13012,Penn State
+2014,03/08,Big Ten Championships,197,L,SV-2,5 - 3,Nick Heflin,37405,Ohio State,Morgan McIntosh,13012,Penn State
+2014,03/08,Big Ten Championships,197,W,TB-1,3 - 2,Nathan Burak,13135,Iowa,Morgan McIntosh,13012,Penn State
+2014,03/08,Big Ten Championships,197,W,DEC,7 - 4,Timmy McCall,13109,Wisconsin,Morgan McIntosh,13012,Penn State
+2014,02/23,Penn State - Clarion Dual,197,W,FALL,3:11,Daniel Sutherland,12575,Clarion,Morgan McIntosh,13012,Penn State
+2014,02/16,Penn State - Oklahoma State Dual,197,W,MD,16 - 2,Kyle Crutchmer,12286,Oklahoma State,Morgan McIntosh,13012,Penn State
+2014,02/09,Penn State - Minnesota Dual,197,W,DEC,8 - 4,Scott Schiller,12736,Minnesota,Morgan McIntosh,13012,Penn State
+2014,02/02,Penn State - Michigan Dual,197,W,MD,17 - 7,Chris Heald,13011,Michigan,Morgan McIntosh,13012,Penn State
+2014,01/31,Penn State - Michigan State Dual,197,W,FALL,4:23,Nick McDiarmid,13013,Michigan State,Morgan McIntosh,13012,Penn State
+2014,01/24,Penn State - Illinois Dual,197,W,DEC,10 - 3,Jeff Koepke,12676,Illinois,Morgan McIntosh,13012,Penn State
+2014,01/19,Penn State - Northwestern Dual,197,W,MD,16 - 8,Alex Polizzi,13018,Northwestern,Morgan McIntosh,13012,Penn State
+2014,01/17,Penn State - Indiana Dual,197,W,MD,14 - 4,Garret Goldman,18200,Indiana,Morgan McIntosh,13012,Penn State
+2014,01/12,Penn State - Purdue Dual,197,W,DEC,6 - 4,Braden Atwood,13143,Purdue,Morgan McIntosh,13012,Penn State
+2014,01/01,Southern Scuffle,197,W,TB-1,2 - 1,Nick Bonaccorsi,13141,Pittsburgh,Morgan McIntosh,13012,Penn State
+2014,01/01,Southern Scuffle,197,L,DEC,8 - 2,J'den Cox,13114,Missouri,Morgan McIntosh,13012,Penn State
+2014,01/01,Southern Scuffle,197,W,DEF,1:35,Brandon Palik,13134,Drexel,Morgan McIntosh,13012,Penn State
+2014,01/01,Southern Scuffle,197,W,MFOR,0 - 0,Phil Wellington,13130,Ohio,Morgan McIntosh,13012,Penn State
+2014,01/01,Southern Scuffle,197,L,DEC,2 - 0,J'den Cox,13114,Missouri,Morgan McIntosh,13012,Penn State
+2014,01/01,Southern Scuffle,197,W,MD,17 - 4,Jace Bennett,13106,Cornell,Morgan McIntosh,13012,Penn State
+2014,01/01,Southern Scuffle,197,W,MD,12 - 3,Jackson Lewis,13107,Central Michigan,Morgan McIntosh,13012,Penn State
+2014,12/21,Penn State - Iowa Dual,197,W,MD,16 - 4,Sammy Brooks,12589,Iowa,Morgan McIntosh,13012,Penn State
+2014,12/08,Pittsburgh - Penn State Dual,197,W,TB-1,4 - 3,Nick Bonaccorsi,13141,Pittsburgh,Morgan McIntosh,13012,Penn State
+2014,11/24,Penn State - Lock Haven Dual,197,W,MD,15 - 3,Phil Sprenkle,13062,Lock Haven,Morgan McIntosh,13012,Penn State
+2014,11/17,Penn State - Lehigh Dual,197,W,MD,10 - 2,John Bolich,13056,Lehigh,Morgan McIntosh,13012,Penn State
+2014,11/16,Rider - Penn State Dual,197,W,DEC,8 - 2,Donald McNeil,13053,Rider,Morgan McIntosh,13012,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,197,W,FALL,5:42,Brandon Litten,13097,Drexel,Morgan McIntosh,13012,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,197,W,MD,13 - 3,Jace Bennett,13106,Cornell,Morgan McIntosh,13012,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,197,W,MD,12 - 3,Abram Ayala,13120,Princeton,Morgan McIntosh,13012,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,197,W,FALL,4:43,Matt Moore,13071,Lock Haven,Morgan McIntosh,13012,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,197,W,FALL,1:30,Hayden Hrymack,13118,Rutgers,Morgan McIntosh,13012,Penn State
+2014,02/08,Edinboro Open,197,L,DEC,8 - 7,Joe Ariola,12696,Buffalo,Josh Rogers,12741,Penn State
+2014,02/08,Edinboro Open,197,L,FALL,0:42,Warren Bosch,17928,Edinboro,Josh Rogers,12741,Penn State
+2014,01/19,Shorty Hitchcock Memorial,197,L,DEC,6 - 0,Luke Schaeffer,12508,Navy,Josh Rogers,12741,Penn State
+2014,01/19,Shorty Hitchcock Memorial,197,W,DEC,2 - 0,Padric Lynch,14230,Rutgers,Josh Rogers,12741,Penn State
+2014,01/19,Shorty Hitchcock Memorial,197,W,DEC,9 - 3,Pat Fitzgerald,14546,Unattached,Josh Rogers,12741,Penn State
+2014,01/19,Shorty Hitchcock Memorial,197,L,FALL,2:57,Austin Wilding,12511,Army West Point,Josh Rogers,12741,Penn State
+2014,01/19,Shorty Hitchcock Memorial,197,W,DEC,5 - 1,Matt Moore,13071,Lock Haven,Josh Rogers,12741,Penn State
+2014,01/04,F&M Open,197,L,DEC,12 - 6,Shaun Heist,13122,Bloomsburg,Josh Rogers,12741,Penn State
+2014,01/04,F&M Open,197,L,DEC,6 - 5,Henry Mauk,12499,Virginia Tech,Josh Rogers,12741,Penn State
+2014,12/07,Thunderwolve Open,197,W,FALL,2:14,brian kerwin,24484,Niagara Community College,Josh Rogers,12741,Penn State
+2014,12/07,Thunderwolve Open,197,W,FALL,4:00,Dustin Taubert,14479,Mercyhurst,Josh Rogers,12741,Penn State
+2014,12/07,Thunderwolve Open,197,W,DEC,4 - 1,Dustin Moss,16335,Niagara Community College,Josh Rogers,12741,Penn State
+2014,11/17,East Stroudsburg Open,197,L,DEC,7 - 2,Daniel Santoro,37425,Princeton,Josh Rogers,12741,Penn State
+2014,11/17,East Stroudsburg Open,197,W,DEC,4 - 3,Garrett Conner,20226,Rutgers,Josh Rogers,12741,Penn State
+2014,11/17,East Stroudsburg Open,197,L,DEC,5 - 2,Harrison Cook,12742,Pennsylvania,Josh Rogers,12741,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,197,L,DEC,9 - 3,Joe Giaramita,21588,Cortland State,Josh Rogers,12741,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,197,L,FALL,3:38,Raymond O'Donnell,37426,Princeton,Josh Rogers,12741,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,197,L,DEC,5 - 3,Abram Ayala,13120,Princeton,Scott Syrek,13129,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,197,L,DEF,6:30,McZiggy Richard,13185,Spartan Combat RTC,Scott Syrek,13129,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,197,W,DEC,8 - 2,Noah Santiago,18297,Bloomsburg,Scott Syrek,13129,Penn State
+2014,03/20,NCAA Championships,285,W,MD,12 - 4,David Devine,37625,SIU Edwardsville,Jon Gingrich,14213,Penn State
+2014,03/20,NCAA Championships,285,L,DEC,5 - 2,Adam Chalfant,19942,Indiana,Jon Gingrich,14213,Penn State
+2014,03/20,NCAA Championships,285,L,FALL,2:03,Ross Larson,14299,Oklahoma,Jon Gingrich,14213,Penn State
+2014,03/08,Big Ten Championships,285,L,FALL,4:53,Michael McClure,20028,Michigan State,Jon Gingrich,14213,Penn State
+2014,03/08,Big Ten Championships,285,L,FALL,1:58,Anthony Nelson,37611,Minnesota,Jon Gingrich,14213,Penn State
+2014,03/08,Big Ten Championships,285,W,SV-1,3 - 1,Adam Coon,14123,Michigan,Jon Gingrich,14213,Penn State
+2014,03/08,Big Ten Championships,285,W,MD,12 - 3,Collin Jensen,14132,Nebraska,Jon Gingrich,14213,Penn State
+2014,03/08,Big Ten Championships,285,L,DEC,8 - 2,Mike McMullan,14239,Northwestern,Jon Gingrich,14213,Penn State
+2014,02/16,Penn State - Oklahoma State Dual,285,W,MD,14 - 5,Ethan Driver,14383,Oklahoma State,Jon Gingrich,14213,Penn State
+2014,02/09,Penn State - Minnesota Dual,285,L,DEC,6 - 0,Anthony Nelson,37611,Minnesota,Jon Gingrich,14213,Penn State
+2014,02/02,Penn State - Michigan Dual,285,L,DEC,2 - 1,Adam Coon,14123,Michigan,Jon Gingrich,14213,Penn State
+2014,01/24,Penn State - Illinois Dual,285,W,DEC,6 - 1,Christopher Lopez,14226,Illinois,Jon Gingrich,14213,Penn State
+2014,01/01,Southern Scuffle,285,L,MFOR,0 - 0,Austin Marsden,14130,Oklahoma State,Jon Gingrich,14213,Penn State
+2014,01/01,Southern Scuffle,285,L,DEC,2 - 1,James Lawson,23404,Penn State,Jon Gingrich,14213,Penn State
+2014,01/01,Southern Scuffle,285,W,DEC,3 - 2,Ethan Hayes,14225,Virginia,Jon Gingrich,14213,Penn State
+2014,01/01,Southern Scuffle,285,W,MD,10 - 1,Steven Graziano,14215,Pennsylvania,Jon Gingrich,14213,Penn State
+2014,01/01,Southern Scuffle,285,W,DEC,5 - 1,Newton Smerchek,14224,Central Michigan,Jon Gingrich,14213,Penn State
+2014,01/01,Southern Scuffle,285,W,DEC,5 - 0,Amarveer Dhesi,14223,Oregon State,Jon Gingrich,14213,Penn State
+2014,01/01,Southern Scuffle,285,W,MD,11 - 1,Jacob Aiken-Phillips,14222,Cornell,Jon Gingrich,14213,Penn State
+2014,01/01,Southern Scuffle,285,L,DEC,4 - 2,Nick Gwiazdowski,14221,NC State,Jon Gingrich,14213,Penn State
+2014,12/07,Thunderwolve Open,285,W,FALL,1:01,Niall Loogen,14220,Unattached,Jon Gingrich,14213,Penn State
+2014,12/07,Thunderwolve Open,285,W,FALL,2:46,Mike Silvis,14180,Buffalo,Jon Gingrich,14213,Penn State
+2014,12/07,Thunderwolve Open,285,W,DEC,6 - 1,El Shadai VanHoesen,14140,Niagara Community College,Jon Gingrich,14213,Penn State
+2014,12/07,Thunderwolve Open,285,W,FALL,4:00,Jim Donner,14219,Niagara Community College,Jon Gingrich,14213,Penn State
+2014,12/07,Thunderwolve Open,285,W,FALL,0:58,Andrew Martin,14218,Unattached,Jon Gingrich,14213,Penn State
+2014,11/17,Penn State - Lehigh Dual,285,W,DEC,5 - 2,Doug Vollaro,14167,Lehigh,Jon Gingrich,14213,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,DEC,6 - 4,Tyler Deuel,19652,Binghamton,Jon Gingrich,14213,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,FALL,1:59,Chuck Boddy,14205,Bucknell,Jon Gingrich,14213,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,DEC,4 - 3,Nick Ruggear,14209,Penn State,Jon Gingrich,14213,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,FALL,1:24,Brad Emerick,14170,Lock Haven,Jon Gingrich,14213,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,L,DEC,2 - 1,William Smith,14207,Rutgers,Jon Gingrich,14213,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,DEC,8 - 1,Riley Shaw,14328,Cleveland State,Jon Gingrich,14213,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,MD,10 - 1,Daniel Hayden,14187,Sacred Heart,Jon Gingrich,14213,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,DEC,4 - 1,Jake Kettler,14191,George Mason,Jon Gingrich,14213,Penn State
+2014,02/23,Penn State - Clarion Dual,285,L,DEC,7 - 6,Evan Daley,14141,Clarion,James Lawson,23404,Penn State
+2014,01/19,Penn State - Northwestern Dual,285,L,DEF,2:43,Mike McMullan,14239,Northwestern,James Lawson,23404,Penn State
+2014,01/17,Penn State - Indiana Dual,285,L,DEC,9 - 4,Adam Chalfant,19942,Indiana,James Lawson,23404,Penn State
+2014,01/12,Penn State - Purdue Dual,285,W,DEC,8 - 1,Alex White,12229,Purdue,James Lawson,23404,Penn State
+2014,01/01,Southern Scuffle,285,W,MFOR,0 - 0,Jeremy Johnson,37616,Ohio,James Lawson,23404,Penn State
+2014,01/01,Southern Scuffle,285,L,DEC,3 - 1,Anthony Nelson,37611,Minnesota,James Lawson,23404,Penn State
+2014,01/01,Southern Scuffle,285,W,TB-2,3 - 2,Austin Marsden,14130,Oklahoma State,James Lawson,23404,Penn State
+2014,01/01,Southern Scuffle,285,W,DEC,3 - 2,Justin Heberlie,14238,Missouri,James Lawson,23404,Penn State
+2014,01/01,Southern Scuffle,285,W,DEC,4 - 1,Matt Tourdot,14237,Old Dominion,James Lawson,23404,Penn State
+2014,01/01,Southern Scuffle,285,W,DEC,2 - 1,Jon Gingrich,14213,Penn State,James Lawson,23404,Penn State
+2014,12/21,Penn State - Iowa Dual,285,L,DEC,3 - 2,Bobby Telford,14116,Iowa,James Lawson,23404,Penn State
+2014,12/15,Penn State - Ohio State Dual,285,W,MD,15 - 4,Nick Tavanello,14228,Ohio State,James Lawson,23404,Penn State
+2014,12/08,Pittsburgh - Penn State Dual,285,W,DEC,3 - 1,Patrick Tasser,37614,Pittsburgh,James Lawson,23404,Penn State
+2014,12/06,Penn State - Boston U Dual,285,W,DEC,10 - 3,Kevin Innis,14236,Boston U,James Lawson,23404,Penn State
+2014,11/24,Penn State - Lock Haven Dual,285,W,MD,14 - 4,Brad Emerick,14170,Lock Haven,James Lawson,23404,Penn State
+2014,11/16,Rider - Penn State Dual,285,W,MD,10 - 2,Greg Velasco,14233,Rider,James Lawson,23404,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,TF5,15 - 0 7:00,Ryan Kail,14182,Maryland,James Lawson,23404,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,DEC,5 - 2,Riley Shaw,14328,Cleveland State,James Lawson,23404,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,DEC,5 - 2,Riley Shaw,39291,CSU Bakersfield,James Lawson,23404,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,DEC,5 - 2,Tyler Deuel,19652,Binghamton,James Lawson,23404,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,DEC,3 - 1,Jake Kettler,14191,George Mason,James Lawson,23404,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,TF5,16 - 0 7:00,Ryan Kail,14182,Maryland,James Lawson,23404,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,DEC,3 - 1,William Smith,14207,Rutgers,James Lawson,23404,Penn State
+2014,01/31,Penn State - Michigan State Dual,285,L,DEC,5 - 1,Michael McClure,20028,Michigan State,Nick Ruggear,14209,Penn State
+2014,11/17,East Stroudsburg Open,285,W,MD,13 - 3,Zachery Roseberry,21575,Delaware Valley,Nick Ruggear,14209,Penn State
+2014,11/17,East Stroudsburg Open,285,L,FALL,0:16,Daniel Ortiz,14305,Kutztown,Nick Ruggear,14209,Penn State
+2014,11/17,East Stroudsburg Open,285,W,FALL,2:49,Mauro Correnti,14193,Lock Haven,Nick Ruggear,14209,Penn State
+2014,11/17,East Stroudsburg Open,285,W,TF5,21 - 5 7:00,DAVE RYNCAVAGE,17007,Unattached,Nick Ruggear,14209,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,MD,14 - 6,Sean Twigg,14162,Maryland,Nick Ruggear,14209,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,L,DEC,4 - 3,Jon Gingrich,14213,Penn State,Nick Ruggear,14209,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,L,DEC,6 - 4,William Smith,14207,Rutgers,Nick Ruggear,14209,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,TF5,17 - 0 7:00,Chris Florek,23245,Stevens Tech,Nick Ruggear,14209,Penn State
+2014,11/10,Jonathan Kaloust Bearcat Open,285,W,MD,16 - 4,Cole Lampman,14244,Princeton,Nick Ruggear,14209,Penn State

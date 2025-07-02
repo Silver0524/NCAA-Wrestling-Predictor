@@ -1,0 +1,499 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2023,03/03,MAC Championships,125,W,DEC,14 - 10,Sean Spidle,63063,Central Michigan,Tyler Klinsky,62353,Rider
+2023,03/03,MAC Championships,125,L,DEC,5 - 3,Blake West,73337,Northern Illinois,Tyler Klinsky,62353,Rider
+2023,03/03,MAC Championships,125,W,DEC,11 - 9,Austin Macias,57088,SIU Edwardsville,Tyler Klinsky,62353,Rider
+2023,03/03,MAC Championships,125,L,DEC,3 - 2,Anthony Noto,64642,Lock Haven,Tyler Klinsky,62353,Rider
+2023,02/18,Drexel - Rider Dual,125,W,MD,16 - 6,Desmond Pleasant,71583,Drexel,Tyler Klinsky,62353,Rider
+2023,02/18,Cleveland State - Rider Dual,125,W,DEC,10 - 8,Benjamin Aranda,71804,Cleveland State,Tyler Klinsky,62353,Rider
+2023,02/17,George Mason - Rider Dual,125,W,DEC,3 - 1,Markel Baker,78892,George Mason,Tyler Klinsky,62353,Rider
+2023,02/12,Rider - Clarion Dual,125,L,DEC,4 - 3,Joseph Fischer,68702,Clarion,Tyler Klinsky,62353,Rider
+2023,02/10,Rider - Edinboro Dual,125,W,TF5,23 - 8 7:00,Eamonn Jimenez,78779,Edinboro,Tyler Klinsky,62353,Rider
+2023,02/05,Rider - Oklahoma Dual,125,L,DEC,4 - 3,Joey Prata,44734,Oklahoma,Tyler Klinsky,62353,Rider
+2023,01/28,Bucknell - Rider Dual,125,W,TF5,21 - 6 6:26,Grayson McLellan,79295,Bucknell,Tyler Klinsky,62353,Rider
+2023,01/26,Rider - Lock Haven Dual,125,L,DEC,6 - 4,Anthony Noto,64642,Lock Haven,Tyler Klinsky,62353,Rider
+2023,01/21,Rider - Princeton Dual,125,W,SV-1,6 - 4,Nick Kayal,65849,Princeton,Tyler Klinsky,62353,Rider
+2023,01/13,Rider - Bloomsburg Dual,125,W,DEC,7 - 2,Bronson Garber,56759,Bloomsburg,Tyler Klinsky,62353,Rider
+2023,01/08,Rutgers - Rider Dual,125,L,DEC,2 - 0,Dean Peterson,72936,Rutgers,Tyler Klinsky,62353,Rider
+2023,01/01,Southern Scuffle,125,W,DEC,7 - 3,Reid Nelson,72129,Little Rock,Tyler Klinsky,62353,Rider
+2023,01/01,Southern Scuffle,125,L,DEC,7 - 3,Stevo Poulin,71929,Northern Colorado,Tyler Klinsky,62353,Rider
+2023,01/01,Southern Scuffle,125,L,DEC,3 - 2,Richard Castro-Sandoval,69366,CSU Bakersfield,Tyler Klinsky,62353,Rider
+2023,12/02,Penn State - Rider Dual,125,L,DEC,6 - 4,Gary Steen,68731,Penn State,Tyler Klinsky,62353,Rider
+2023,11/20,Keystone Classic,125,L,MD,12 - 4,Cooper Flynn,72148,Virginia Tech,Tyler Klinsky,62353,Rider
+2023,11/20,Keystone Classic,125,W,DEC,9 - 2,Gabe Giampietro,72979,Drexel,Tyler Klinsky,62353,Rider
+2023,11/20,Keystone Classic,125,W,DEC,9 - 2,Desmond Pleasant,71583,Drexel,Tyler Klinsky,62353,Rider
+2023,11/20,Keystone Classic,125,L,DEC,7 - 6,Antonio Mininno,50806,Drexel,Tyler Klinsky,62353,Rider
+2023,11/20,Keystone Classic,125,W,DEC,2 - 0,Tristan Mascarenas,70010,Arizona State,Tyler Klinsky,62353,Rider
+2023,11/20,Keystone Classic,125,W,FALL,6:05,Jack Bruce,62869,Franklin & Marshall,Tyler Klinsky,62353,Rider
+2023,11/13,Rider - Purdue Dual,125,L,DEC,12 - 5,Matt Ramos,57134,Purdue,Tyler Klinsky,62353,Rider
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,125,W,MD,18 - 6,Austin Macias,57088,SIU Edwardsville,Tyler Klinsky,62353,Rider
+2023,11/06,Princeton Open,125,W,TF5,18 - 3 4:20,Noah Tonsor,81065,United States Military Academy,Tyler Klinsky,62353,Rider
+2023,11/06,Princeton Open,125,L,DEC,6 - 3,Dylan Shawver,61767,Rutgers,Tyler Klinsky,62353,Rider
+2023,11/06,Princeton Open,125,L,FALL,6:12,Markel Baker,78892,George Mason,Tyler Klinsky,62353,Rider
+2023,11/06,Princeton Open,125,W,DEC,7 - 1,Gavin Hayes,75792,Emmanuel,Tyler Klinsky,62353,Rider
+2023,02/25,Zingo National Collegiate open,125,L,MFOR,0 - 0,JB Dragovich,78828,George Mason,Ethan Titus,78447,Rider
+2023,02/25,Zingo National Collegiate open,125,L,DEC,5 - 0,Jared Brunner,76391,Brown,Ethan Titus,78447,Rider
+2023,02/25,Zingo National Collegiate open,125,W,MD,14 - 4,Mathew Schreiber,62420,Binghamton,Ethan Titus,78447,Rider
+2023,02/17,Rider George Mason ECM,133,L,FALL,0:50,Ben Monn,69708,George Mason,Ethan Titus,78447,Rider
+2023,01/29,Mat-Town Open II,125,L,DEC,5 - 2,Karl Shindledecker,79050,Penn State,Ethan Titus,78447,Rider
+2023,01/29,Mat-Town Open II,125,W,DEC,5 - 2,JB Dragovich,78828,George Mason,Ethan Titus,78447,Rider
+2023,01/29,Mat-Town Open II,125,L,DEC,8 - 2,Bobby Gardner,78707,Clarion,Ethan Titus,78447,Rider
+2023,01/29,Mat-Town Open II,125,W,DEC,6 - 2,Zach Spence,57519,Maryland,Ethan Titus,78447,Rider
+2023,01/06,David Lehman Open,125,L,DEC,6 - 2,Jack Bruce,62869,Franklin & Marshall,Ethan Titus,78447,Rider
+2023,01/06,David Lehman Open,125,L,TF5,18 - 3 3:36,Jack Wagner,44755,North Carolina,Ethan Titus,78447,Rider
+2023,01/06,David Lehman Open,125,W,DEC,5 - 4,Zach Spence,57519,Maryland,Ethan Titus,78447,Rider
+2023,03/03,MAC Championships,133,L,DEC,3 - 2,Gable Strickland,71822,Lock Haven,Richie Koehler,51648,Rider
+2023,03/03,MAC Championships,133,W,MD,11 - 3,Jacob Manley,67785,Cleveland State,Richie Koehler,51648,Rider
+2023,03/03,MAC Championships,133,W,DEC,6 - 0,Tommy Maddox,63165,Buffalo,Richie Koehler,51648,Rider
+2023,02/18,Drexel - Rider Dual,133,W,DEC,5 - 3,Jaxon Maroney,62880,Drexel,Richie Koehler,51648,Rider
+2023,02/18,Cleveland State - Rider Dual,133,W,DEC,7 - 6,Jacob Manley,67785,Cleveland State,Richie Koehler,51648,Rider
+2023,02/17,George Mason - Rider Dual,133,W,MD,10 - 2,Patrick Schellpfeffer,69712,George Mason,Richie Koehler,51648,Rider
+2023,02/12,Rider - Clarion Dual,133,W,DEC,3 - 1,Mason Prinkey,72195,Clarion,Richie Koehler,51648,Rider
+2023,02/10,Rider - Edinboro Dual,133,W,DEC,4 - 1,Cameron Soda,72219,Edinboro,Richie Koehler,51648,Rider
+2023,02/05,Rider - Oklahoma Dual,133,L,FALL,5:59,Wyatt Henson,63069,Oklahoma,Richie Koehler,51648,Rider
+2023,01/28,Bucknell - Rider Dual,133,L,MD,12 - 4,Kurt Phipps,63966,Bucknell,Richie Koehler,51648,Rider
+2023,01/26,Rider - Lock Haven Dual,133,L,DEC,14 - 10,Gable Strickland,71822,Lock Haven,Richie Koehler,51648,Rider
+2023,01/21,Rider - Princeton Dual,133,L,DEC,9 - 4,Patrick Glory,51100,Princeton,Richie Koehler,51648,Rider
+2023,01/13,Rider - Bloomsburg Dual,133,L,DEC,8 - 1,Cole Rhone,62773,Bloomsburg,Richie Koehler,51648,Rider
+2023,01/08,Rutgers - Rider Dual,133,L,DEC,6 - 1,Joe Heilmann,51223,Rutgers,Richie Koehler,51648,Rider
+2023,12/02,Penn State - Rider Dual,133,L,MD,23 - 9,Roman Bravo-Young,49665,Penn State,Richie Koehler,51648,Rider
+2023,11/20,Keystone Classic,133,L,SV-1,3 - 1,Kyle Waterman,67256,Drexel,Richie Koehler,51648,Rider
+2023,11/20,Keystone Classic,133,W,DEC,7 - 2,Carter Dibert,71775,Arizona State,Richie Koehler,51648,Rider
+2023,11/20,Keystone Classic,133,L,MD,16 - 6,Evan Mougalian,72984,Pennsylvania,Richie Koehler,51648,Rider
+2023,11/20,Keystone Classic,133,L,MFOR,0 - 0,Ethan Oakley,62754,Appalachian State,Richie Koehler,51648,Rider
+2023,11/20,Keystone Classic,133,W,MD,19 - 8,John Lafferty,69700,Sacred Heart,Richie Koehler,51648,Rider
+2023,11/13,Rider - Purdue Dual,133,W,SV-1,10 - 8,Dustin Norris,72154,Purdue,Richie Koehler,51648,Rider
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,133,W,DEC,9 - 7,Aaron Schulist,57012,SIU Edwardsville,Richie Koehler,51648,Rider
+2023,02/25,Zingo National Collegiate open,133,L,DEC,7 - 4,Alex Turley,76502,Hofstra,Nieko Malone,72910,Rider
+2023,02/25,Zingo National Collegiate open,133,L,DEC,6 - 1,Yianni Vines,72655,Columbia,Nieko Malone,72910,Rider
+2023,01/29,Mat-Town Open II,133,L,DEC,8 - 3,Evan Tallmadge,73120,US Naval Academy Prep School,Nieko Malone,72910,Rider
+2023,01/29,Mat-Town Open II,133,W,FALL,2:14,Cole Minnick,72222,Buffalo,Nieko Malone,72910,Rider
+2023,01/29,Mat-Town Open II,133,W,DEC,3 - 1,Sean Seefeldt,70755,Pennsylvania,Nieko Malone,72910,Rider
+2023,01/29,Mat-Town Open II,133,L,DEC,1 - 0,Ryan Franco,70909,Army West Point,Nieko Malone,72910,Rider
+2023,11/20,Keystone Classic,125,L,DEC,5 - 3,Brady Pruett,73565,Pennsylvania,Nieko Malone,72910,Rider
+2023,11/20,Keystone Classic,125,L,DEC,5 - 1,Cole Bayless,63715,Harvard,Nieko Malone,72910,Rider
+2023,11/13,Rider Purdue ECM,125,L,DEC,7 - 3,Kooper Loehr,62509,Purdue,Nieko Malone,72910,Rider
+2023,11/06,Princeton Open,125,L,TF5,15 - 0 1:50,Patrick Glory,51100,Princeton,Nieko Malone,72910,Rider
+2023,11/06,Princeton Open,125,L,FALL,4:11,Killian Delaney,67443,Lehigh,Nieko Malone,72910,Rider
+2023,03/16,NCAA Championships,141,L,FALL,1:31,Cole Mattin,57715,Michigan,McKenzie Bell,67375,Rider
+2023,03/16,NCAA Championships,141,L,DEC,7 - 4,Vince Cornella,71813,Cornell,McKenzie Bell,67375,Rider
+2023,03/03,MAC Championships,141,L,DEC,6 - 4,Jaivon Jones,62724,Northern Illinois,McKenzie Bell,67375,Rider
+2023,03/03,MAC Championships,141,L,MFOR,0 - 0,Sean Logue,78512,Lock Haven,McKenzie Bell,67375,Rider
+2023,03/03,MAC Championships,141,W,MD,8 - 0,Mason Lynch,73312,Kent State,McKenzie Bell,67375,Rider
+2023,02/18,Cleveland State - Rider Dual,141,W,MD,13 - 0,Cody Moosman,49103,Cleveland State,McKenzie Bell,67375,Rider
+2023,02/17,George Mason - Rider Dual,141,W,MD,9 - 0,Anthony Glasl,69714,George Mason,McKenzie Bell,67375,Rider
+2023,02/12,Rider - Clarion Dual,141,W,MD,9 - 0,Seth Koleno,51157,Clarion,McKenzie Bell,67375,Rider
+2023,02/10,Rider - Edinboro Dual,141,W,MD,10 - 0,Zachary Soda,72220,Edinboro,McKenzie Bell,67375,Rider
+2023,02/05,Rider - Oklahoma Dual,141,W,MD,8 - 0,Gabe Vidlak,70293,Oklahoma,McKenzie Bell,67375,Rider
+2023,01/28,Bucknell - Rider Dual,141,W,DEC,8 - 5,Darren Miller,57210,Bucknell,McKenzie Bell,67375,Rider
+2023,01/26,Rider - Lock Haven Dual,141,W,MD,8 - 0,Ty Linsenbigler,71825,Lock Haven,McKenzie Bell,67375,Rider
+2023,01/21,Rider - Princeton Dual,141,W,MD,11 - 1,Sean Pierson,60443,Princeton,McKenzie Bell,67375,Rider
+2023,01/13,Rider - Bloomsburg Dual,141,W,SV-1,14 - 12,Josh Mason,53817,Bloomsburg,McKenzie Bell,67375,Rider
+2023,01/08,Rutgers - Rider Dual,141,L,DEC,7 - 4,Devon Britton,61762,Rutgers,McKenzie Bell,67375,Rider
+2023,01/01,Southern Scuffle,141,W,DEC,12 - 5,Gavin Drexler,73017,North Dakota State,McKenzie Bell,67375,Rider
+2023,01/01,Southern Scuffle,141,W,FALL,3:54,Kal Miller,72211,Maryland,McKenzie Bell,67375,Rider
+2023,01/01,Southern Scuffle,141,W,DEC,5 - 2,Carter Young,71954,Oklahoma State,McKenzie Bell,67375,Rider
+2023,01/01,Southern Scuffle,141,W,DEC,6 - 2,Drew Woodley,62105,Iowa State,McKenzie Bell,67375,Rider
+2023,01/01,Southern Scuffle,141,L,DEC,4 - 2,Collin Gerardi,51286,Virginia Tech,McKenzie Bell,67375,Rider
+2023,01/01,Southern Scuffle,141,L,DEC,7 - 1,Jake Bergeland,49189,Minnesota,McKenzie Bell,67375,Rider
+2023,01/01,Southern Scuffle,141,W,MFOR,0 - 0,Darren Miller,57210,Bucknell,McKenzie Bell,67375,Rider
+2023,01/01,Southern Scuffle,141,W,DEC,5 - 1,Dylan Cedeno,63068,Virginia,McKenzie Bell,67375,Rider
+2023,12/02,Penn State - Rider Dual,141,L,FALL,6:08,Beau Bartlett,62221,Penn State,McKenzie Bell,67375,Rider
+2023,11/20,Keystone Classic,141,L,MD,11 - 3,Collin Gerardi,51286,Virginia Tech,McKenzie Bell,67375,Rider
+2023,11/20,Keystone Classic,141,W,DEC,6 - 0,Emilio Ysaguirre,77145,Arizona State,McKenzie Bell,67375,Rider
+2023,11/20,Keystone Classic,141,W,DEC,6 - 4,Kyle Hauserman,68729,Pennsylvania,McKenzie Bell,67375,Rider
+2023,11/20,Keystone Classic,141,W,MD,11 - 2,Michael Rapuano,71926,George Mason,McKenzie Bell,67375,Rider
+2023,11/20,Keystone Classic,141,W,TF5,16 - 0 3:27,Sam Kotch,78646,Franklin & Marshall,McKenzie Bell,67375,Rider
+2023,11/13,Rider - Purdue Dual,141,W,DEC,9 - 6,Parker Filius,49302,Purdue,McKenzie Bell,67375,Rider
+2023,11/06,Princeton Open,141,L,DEC,9 - 7,Braden Basile,73707,United States Military Academy,McKenzie Bell,67375,Rider
+2023,11/06,Princeton Open,141,W,DEC,9 - 2,Trenton Donahue,71638,Presbyterian,McKenzie Bell,67375,Rider
+2023,11/06,Princeton Open,141,W,FALL,5:48,Kimo Leia,74055,Lehigh,McKenzie Bell,67375,Rider
+2023,11/06,Princeton Open,141,W,DEC,6 - 4,Dominic Hargrove,78900,George Mason,McKenzie Bell,67375,Rider
+2023,11/06,Princeton Open,141,L,TF5,20 - 4 4:21,Michael Rapuano,71926,George Mason,McKenzie Bell,67375,Rider
+2023,11/06,Princeton Open,141,W,MD,14 - 6,Tyler Dilley,62919,Lock Haven,McKenzie Bell,67375,Rider
+2023,01/08,Rutgers - Rider Dual,149,L,MD,11 - 2,Anthony White,70924,Rutgers,Bryan Miraglia,62187,Rider
+2023,11/20,Keystone Classic,141,L,MD,12 - 3,Carmen Ferrante,50660,Pennsylvania,Bryan Miraglia,62187,Rider
+2023,11/20,Keystone Classic,141,L,DEC,9 - 8,Riley Edwards,71715,Appalachian State,Bryan Miraglia,62187,Rider
+2023,11/13,Rider Purdue ECM,141,L,SV-1,3 - 1,Christian White,72619,Purdue,Bryan Miraglia,62187,Rider
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,141,L,MD,13 - 2,Caine Tyus,72913,SIU Edwardsville,Bryan Miraglia,62187,Rider
+2023,02/25,Zingo National Collegiate open,141,L,DEC,6 - 0,Deon Pleasant,71584,Drexel,D’Amani Almodovar,77346,Rider
+2023,02/25,Zingo National Collegiate open,141,L,MD,14 - 2,Mason Clarke,64646,Columbia,D’Amani Almodovar,77346,Rider
+2023,02/05,Edinboro Open,141,W,FALL,2:04,Emmanuel Willins,79839,Buffalo,D’Amani Almodovar,77346,Rider
+2023,02/05,Edinboro Open,141,L,DEC,5 - 4,Kimo Leia,74055,Lehigh,D’Amani Almodovar,77346,Rider
+2023,02/05,Edinboro Open,141,W,DEC,9 - 3,Zachary Soda,72220,Edinboro,D’Amani Almodovar,77346,Rider
+2023,02/05,Edinboro Open,141,L,DEC,10 - 4,Nathan Lucier,71763,Binghamton,D’Amani Almodovar,77346,Rider
+2023,02/05,Edinboro Open,141,W,MD,10 - 2,Parker Loera,67009,Gannon,D’Amani Almodovar,77346,Rider
+2023,11/06,Princeton Open,133,W,DEC,3 - 2,Khalid Brinkley,61614,Presbyterian,D’Amani Almodovar,77346,Rider
+2023,11/06,Princeton Open,133,L,DEC,4 - 3,Jacob Brasseur,61212,Presbyterian,D’Amani Almodovar,77346,Rider
+2023,11/06,Princeton Open,133,L,DEC,3 - 1,Joe Sparacio,78472,Hofstra,D’Amani Almodovar,77346,Rider
+2023,11/06,Princeton Open,133,W,FALL,0:24,Carson Bailey,81053,Emmanuel,D’Amani Almodovar,77346,Rider
+2023,03/16,NCAA Championships,149,L,DEC,8 - 2,Dominick Demas,49256,Cal Poly,Quinn Kinner,51144,Rider
+2023,03/16,NCAA Championships,149,L,SV-1,5 - 3,Jackson Arrington,72497,NC State,Quinn Kinner,51144,Rider
+2023,03/03,MAC Championships,149,W,MD,11 - 1,Ryan Burgos,63141,Edinboro,Quinn Kinner,51144,Rider
+2023,03/03,MAC Championships,149,W,DEC,4 - 0,Caleb Tyus,72912,SIU Edwardsville,Quinn Kinner,51144,Rider
+2023,03/03,MAC Championships,149,W,DEC,4 - 0,Kody Komara,50094,Kent State,Quinn Kinner,51144,Rider
+2023,03/03,MAC Championships,149,W,DEC,6 - 1,Anthony Cheloni,53565,Northern Illinois,Quinn Kinner,51144,Rider
+2023,03/03,MAC Championships,149,L,FALL,5:00,Nathan Higley,71834,George Mason,Quinn Kinner,51144,Rider
+2023,02/18,Drexel - Rider Dual,149,W,MD,8 - 0,Luke Nichter,67003,Drexel,Quinn Kinner,51144,Rider
+2023,02/18,Cleveland State - Rider Dual,149,W,DEC,3 - 0,Douglas Terry,70741,Cleveland State,Quinn Kinner,51144,Rider
+2023,02/17,George Mason - Rider Dual,149,W,FALL,2:23,Evan Maag,78473,George Mason,Quinn Kinner,51144,Rider
+2023,02/12,Rider - Clarion Dual,149,W,TF5,16 - 0 3:54,Kyle Schickel,67305,Clarion,Quinn Kinner,51144,Rider
+2023,02/10,Rider - Edinboro Dual,149,L,DEC,10 - 8,Ryan Burgos,63141,Edinboro,Quinn Kinner,51144,Rider
+2023,02/05,Rider - Oklahoma Dual,149,W,DEC,4 - 0,Mitch Moore,50620,Oklahoma,Quinn Kinner,51144,Rider
+2023,01/28,Bucknell - Rider Dual,149,W,DEC,4 - 2,Kolby DePron,71751,Bucknell,Quinn Kinner,51144,Rider
+2023,01/26,Rider - Lock Haven Dual,149,L,DEC,6 - 4,Nicholas Stonecheck,62691,Lock Haven,Quinn Kinner,51144,Rider
+2023,01/21,Rider - Princeton Dual,149,W,TF5,18 - 0 6:11,Marshall Keller,51509,Princeton,Quinn Kinner,51144,Rider
+2023,01/13,Rider - Bloomsburg Dual,149,W,MD,13 - 2,Cade Balestrini,62514,Bloomsburg,Quinn Kinner,51144,Rider
+2023,01/01,Southern Scuffle,149,W,DEC,8 - 2,Cutter Sheets,73396,Oklahoma State,Quinn Kinner,51144,Rider
+2023,01/01,Southern Scuffle,149,L,DEC,9 - 3,Kellyn March,63030,North Dakota State,Quinn Kinner,51144,Rider
+2023,01/01,Southern Scuffle,149,W,MD,10 - 0,Benjamin Alanis,61438,Northern Colorado,Quinn Kinner,51144,Rider
+2023,01/01,Southern Scuffle,149,L,MFOR,0 - 0,Jaden Abas,56738,Stanford,Quinn Kinner,51144,Rider
+2023,01/01,Southern Scuffle,149,W,FALL,4:22,Grant Lundy,59756,Chattanooga,Quinn Kinner,51144,Rider
+2023,01/01,Southern Scuffle,149,L,MFOR,0 - 0,Michael Gioffre,73019,Virginia,Quinn Kinner,51144,Rider
+2023,12/02,Penn State - Rider Dual,149,L,DEC,11 - 6,Shayne Van Ness,71588,Penn State,Quinn Kinner,51144,Rider
+2023,11/20,Keystone Classic,149,L,DEC,3 - 2,Caleb Henson,72656,Virginia Tech,Quinn Kinner,51144,Rider
+2023,11/20,Keystone Classic,149,W,FALL,2:21,Vincent Mannella,62892,Pennsylvania,Quinn Kinner,51144,Rider
+2023,11/20,Keystone Classic,149,L,MD,9 - 1,John Millner,50212,Appalachian State,Quinn Kinner,51144,Rider
+2023,11/20,Keystone Classic,149,W,TF5,16 - 0 6:04,DJ McGee,78901,George Mason,Quinn Kinner,51144,Rider
+2023,11/20,Keystone Classic,149,W,DEC,5 - 0,DJ McGee,78901,George Mason,Quinn Kinner,51144,Rider
+2023,11/13,Rider - Purdue Dual,149,W,MD,13 - 0,Trey Kruse,67044,Purdue,Quinn Kinner,51144,Rider
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,149,W,DEC,4 - 2,Saul Ervin,57010,SIU Edwardsville,Quinn Kinner,51144,Rider
+2023,11/06,Princeton Open,149,W,DEC,6 - 2,Jacob Mann,72935,NJRTC,Quinn Kinner,51144,Rider
+2023,11/06,Princeton Open,149,W,FALL,3:34,Eli Holiday,73010,Presbyterian,Quinn Kinner,51144,Rider
+2023,11/06,Princeton Open,149,W,MD,10 - 0,Drew Munch,63142,Lehigh,Quinn Kinner,51144,Rider
+2023,11/06,Princeton Open,149,W,TF5,15 - 0 5:15,Connor Eck,71824,Lock Haven,Quinn Kinner,51144,Rider
+2023,02/25,Zingo National Collegiate open,157,W,MD,12 - 4,Kaleb Williams,81113,Spartan Combat RTC,Matt Hoelke,72512,Rider
+2023,02/25,Zingo National Collegiate open,157,L,DEC,3 - 0,Hunter Gandy,70754,Pennsylvania,Matt Hoelke,72512,Rider
+2023,02/25,Zingo National Collegiate open,157,L,TF5,18 - 2 7:00,Richard Fedalen,72703,Columbia,Matt Hoelke,72512,Rider
+2023,02/05,Edinboro Open,157,L,DEC,5 - 3,Cole McComas,62984,Rider,Matt Hoelke,72512,Rider
+2023,02/05,Edinboro Open,157,W,DEC,3 - 2,Kaleb Williams,81113,Spartan Combat RTC,Matt Hoelke,72512,Rider
+2023,02/05,Edinboro Open,157,W,DEC,3 - 1,Joseph Chiappazzi,78470,West Virginia,Matt Hoelke,72512,Rider
+2023,02/05,Edinboro Open,157,L,DEC,8 - 1,Ashton Eyler,58037,Lock Haven,Matt Hoelke,72512,Rider
+2023,01/06,David Lehman Open,149,L,FALL,2:29,Drew Munch,63142,Lehigh,Matt Hoelke,72512,Rider
+2023,01/06,David Lehman Open,149,W,DEC,12 - 5,Ethan Barr,76508,Kent State,Matt Hoelke,72512,Rider
+2023,01/06,David Lehman Open,149,W,DEC,6 - 2,Mason Lynch,73312,Kent State,Matt Hoelke,72512,Rider
+2023,01/06,David Lehman Open,149,L,TF5,17 - 0 4:55,Dylan Martinez,51607,Air Force,Matt Hoelke,72512,Rider
+2023,11/20,Keystone Classic,149,L,FALL,6:45,Patrick Rowland,60597,Duke,Matt Hoelke,72512,Rider
+2023,11/20,Keystone Classic,149,L,DEC,11 - 6,Kaden Keiser,75728,Appalachian State,Matt Hoelke,72512,Rider
+2023,03/03,MAC Championships,157,L,DEC,8 - 4,Anthony Gibson,56508,Northern Illinois,Colton Washleski,72909,Rider
+2023,03/03,MAC Championships,157,W,MD,12 - 4,Luke Kemerer,50929,Edinboro,Colton Washleski,72909,Rider
+2023,03/03,MAC Championships,157,L,DEC,7 - 5,Michael Petite,55596,Buffalo,Colton Washleski,72909,Rider
+2023,02/18,Drexel - Rider Dual,157,L,DEC,12 - 11,Tate Nichter,72623,Drexel,Colton Washleski,72909,Rider
+2023,02/18,Cleveland State - Rider Dual,157,L,DEC,6 - 4,Marcus Robinson,56479,Cleveland State,Colton Washleski,72909,Rider
+2023,02/17,George Mason - Rider Dual,157,L,DEC,3 - 2,Peter Pappas,49131,George Mason,Colton Washleski,72909,Rider
+2023,02/12,Rider - Clarion Dual,157,W,DEC,4 - 3,Trevor Elfvin,51017,Clarion,Colton Washleski,72909,Rider
+2023,02/10,Rider - Edinboro Dual,157,L,DEC,3 - 2,Luke Kemerer,50929,Edinboro,Colton Washleski,72909,Rider
+2023,02/05,Rider - Oklahoma Dual,157,L,DEC,6 - 1,Jacob Butler,57142,Oklahoma,Colton Washleski,72909,Rider
+2023,01/28,Bucknell - Rider Dual,157,L,DEC,5 - 2,Riley Bower,71755,Bucknell,Colton Washleski,72909,Rider
+2023,01/26,Rider - Lock Haven Dual,157,L,DEC,10 - 8,Ashton Eyler,58037,Lock Haven,Colton Washleski,72909,Rider
+2023,01/21,Rider - Princeton Dual,157,L,DEC,6 - 4,Ty Whalen,72988,Princeton,Colton Washleski,72909,Rider
+2023,01/13,Rider - Bloomsburg Dual,157,W,FALL,4:26,John Noah Reho,78635,Bloomsburg,Colton Washleski,72909,Rider
+2023,01/08,Rutgers - Rider Dual,157,L,DEC,4 - 3,Andrew Clark,66883,Rutgers,Colton Washleski,72909,Rider
+2023,11/20,Keystone Classic,157,W,DEC,3 - 2,Tyler Williams,59552,Drexel,Colton Washleski,72909,Rider
+2023,11/20,Keystone Classic,157,L,MD,10 - 2,Cole Spencer,68728,Pennsylvania,Colton Washleski,72909,Rider
+2023,11/20,Keystone Classic,157,L,MD,12 - 3,Anthony Artalona,51039,Pennsylvania,Colton Washleski,72909,Rider
+2023,11/13,Rider Purdue ECM,157,L,FALL,2:19,Nate Camiscioli,76005,Purdue,Colton Washleski,72909,Rider
+2023,11/06,Princeton Open,157,W,SV-1,13 - 11,Dylan Weaver,67239,Rutgers,Colton Washleski,72909,Rider
+2023,11/06,Princeton Open,157,L,DEC,2 - 1,Andrew Clark,66883,Rutgers,Colton Washleski,72909,Rider
+2023,11/06,Princeton Open,157,W,DEC,9 - 7,Zac Martin,70749,Lehigh,Colton Washleski,72909,Rider
+2023,11/06,Princeton Open,157,L,DEC,9 - 2,Trevor Tarsi,83727,Unattached,Colton Washleski,72909,Rider
+2023,02/25,Zingo National Collegiate open,157,W,FALL,2:22,David Turner,79298,Rider,Cole McComas,62984,Rider
+2023,02/25,Zingo National Collegiate open,157,W,DEC,5 - 4,Nick Cicciarelli,78896,West Virginia,Cole McComas,62984,Rider
+2023,02/25,Zingo National Collegiate open,157,W,DEC,4 - 0,Aboubakare Diaby,72624,Drexel,Cole McComas,62984,Rider
+2023,02/25,Zingo National Collegiate open,157,W,DEC,3 - 2,Richard Fedalen,72703,Columbia,Cole McComas,62984,Rider
+2023,02/25,Zingo National Collegiate open,157,L,DEC,8 - 2,Jaden Le,66968,Columbia,Cole McComas,62984,Rider
+2023,02/05,Edinboro Open,157,W,DEC,12 - 8,Nick Cicciarelli,78896,West Virginia,Cole McComas,62984,Rider
+2023,02/05,Edinboro Open,157,W,MD,8 - 0,Hogan Horsey,78443,Rider,Cole McComas,62984,Rider
+2023,02/05,Edinboro Open,157,L,DEC,3 - 1,Gavin Cagle,73054,Virginia,Cole McComas,62984,Rider
+2023,02/05,Edinboro Open,157,W,DEC,5 - 3,Matt Hoelke,72512,Rider,Cole McComas,62984,Rider
+2023,02/05,Edinboro Open,157,W,MFOR,0 - 0,Walker Heard,62592,West Virginia,Cole McComas,62984,Rider
+2023,01/29,Mat-Town Open II,157,W,MFOR,0 - 0,James Hogan,78744,Lock Haven,Cole McComas,62984,Rider
+2023,01/29,Mat-Town Open II,157,W,MFOR,0 - 0,Nick Foster,78902,George Mason,Cole McComas,62984,Rider
+2023,01/29,Mat-Town Open II,157,L,DEC,2 - 1,Nick Vafiadis,73121,US Naval Academy Prep School,Cole McComas,62984,Rider
+2023,01/29,Mat-Town Open II,157,W,DEC,7 - 2,Hunter Gandy,70754,Pennsylvania,Cole McComas,62984,Rider
+2023,01/29,Mat-Town Open II,157,W,MD,10 - 2,George Johnson,74525,West Virginia,Cole McComas,62984,Rider
+2023,01/06,David Lehman Open,157,W,DEC,8 - 4,Oscar Aranda,73958,United States Military Academy,Cole McComas,62984,Rider
+2023,01/06,David Lehman Open,157,W,DEC,10 - 5,Sam McMonagle,71762,Brown,Cole McComas,62984,Rider
+2023,01/06,David Lehman Open,157,W,FALL,4:06,Keegan Rothrock,67258,Brown,Cole McComas,62984,Rider
+2023,01/06,David Lehman Open,157,L,DEC,9 - 4,Hudson Hightower,72934,Princeton,Cole McComas,62984,Rider
+2023,01/06,David Lehman Open,157,W,MFOR,0 - 0,Evan Gleason,71875,Harvard,Cole McComas,62984,Rider
+2023,01/06,David Lehman Open,157,W,MD,10 - 2,Matthew Smith,63968,Harvard,Cole McComas,62984,Rider
+2023,12/11,Cleveland State Open,157,W,MD,12 - 1,Zach Snyder,77793,Toledo,Cole McComas,62984,Rider
+2023,12/11,Cleveland State Open,157,L,DEC,3 - 1,Aiden Vandenbush,73000,Northwestern,Cole McComas,62984,Rider
+2023,12/11,Cleveland State Open,157,W,SV-1,3 - 1,Dillon Carlson,79794,Kent State,Cole McComas,62984,Rider
+2023,12/11,Cleveland State Open,157,W,MD,10 - 2,Shane Heil,72593,Cleveland State,Cole McComas,62984,Rider
+2023,12/11,Cleveland State Open,157,L,MD,10 - 1,Daniel Segura,65313,Ohio,Cole McComas,62984,Rider
+2023,12/11,Cleveland State Open,157,W,DEC,8 - 3,Brennan Doyle,74292,Purdue,Cole McComas,62984,Rider
+2023,11/19,Shorty Hitchcock Memorial Classic,157,W,MD,11 - 1,Jordan Habben,82603,US Naval Academy Prep School,Cole McComas,62984,Rider
+2023,11/19,Shorty Hitchcock Memorial Classic,157,W,MD,8 - 0,Cooper Warshel,73309,Pitt-Johnstown,Cole McComas,62984,Rider
+2023,11/19,Shorty Hitchcock Memorial Classic,157,L,DEC,4 - 1,Nick Vafiadis,73121,US Naval Academy Prep School,Cole McComas,62984,Rider
+2023,11/19,Shorty Hitchcock Memorial Classic,157,W,MFOR,0 - 0,Bailey Gimbor,72674,Kutztown,Cole McComas,62984,Rider
+2023,11/19,Shorty Hitchcock Memorial Classic,157,W,FALL,2:19,Joseph Casella,70657,Sussex County Community College,Cole McComas,62984,Rider
+2023,11/19,Shorty Hitchcock Memorial Classic,157,W,MD,17 - 3,Rhise Royster,62049,LIU,Cole McComas,62984,Rider
+2023,11/06,Princeton Open,157,L,DEC,9 - 3,Andrew Clark,66883,Rutgers,Cole McComas,62984,Rider
+2023,11/06,Princeton Open,157,W,DEC,5 - 3,Alec Bobchin,62186,Rider,Cole McComas,62984,Rider
+2023,11/06,Princeton Open,157,W,MD,12 - 3,Michael Ramirez,69874,Presbyterian,Cole McComas,62984,Rider
+2023,11/06,Princeton Open,157,W,DEC,3 - 2,Paul Watkins,56931,Lehigh,Cole McComas,62984,Rider
+2023,11/06,Princeton Open,157,L,DEC,14 - 10,Ashton Eyler,58037,Lock Haven,Cole McComas,62984,Rider
+2023,11/06,Princeton Open,157,W,TF5,15 - 0 5:28,Wilder Davis,81054,Emmanuel,Cole McComas,62984,Rider
+2023,02/05,Edinboro Open,157,L,MD,8 - 0,Cole McComas,62984,Rider,Hogan Horsey,78443,Rider
+2023,02/05,Edinboro Open,157,W,FALL,4:10,Jack Pletcher,76351,Pittsburgh,Hogan Horsey,78443,Rider
+2023,02/05,Edinboro Open,157,L,MD,13 - 2,George Johnson,74525,West Virginia,Hogan Horsey,78443,Rider
+2023,11/06,Princeton Open,157,L,DEC,5 - 3,Cole McComas,62984,Rider,Alec Bobchin,62186,Rider
+2023,11/06,Princeton Open,157,W,FALL,3:59,Loranzo Rajaonarivelo,62067,George Mason,Alec Bobchin,62186,Rider
+2023,11/06,Princeton Open,157,L,DEC,2 - 1,Ashton Eyler,58037,Lock Haven,Alec Bobchin,62186,Rider
+2023,01/01,Southern Scuffle,157,L,MFOR,0 - 0,Tim Stapleton,71026,Minnesota,Jake Silverstein,67370,Rider
+2023,01/01,Southern Scuffle,157,L,FALL,3:42,Jarrett Jacques,50597,Missouri,Jake Silverstein,67370,Rider
+2023,12/02,Penn State - Rider Dual,157,L,INJ,0:09,Terrell Barraclough,62900,Penn State,Jake Silverstein,67370,Rider
+2023,11/20,Keystone Classic,157,L,DEC,2 - 0,Jackson Spires,71788,Virginia Tech,Jake Silverstein,67370,Rider
+2023,11/20,Keystone Classic,157,W,DEC,8 - 2,Hunter Gandy,70754,Pennsylvania,Jake Silverstein,67370,Rider
+2023,11/20,Keystone Classic,157,L,MFOR,0 - 0,Nick Foster,78902,George Mason,Jake Silverstein,67370,Rider
+2023,11/13,Rider - Purdue Dual,157,L,DEC,9 - 3,Kendall Coleman,50626,Purdue,Jake Silverstein,67370,Rider
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,157,W,MD,10 - 2,Grant LaDuke,67276,SIU Edwardsville,Jake Silverstein,67370,Rider
+2023,11/20,Keystone Classic,157,L,TF5,16 - 0 6:29,Louis Colaiocco,72973,Pennsylvania,Wyatt McCarthy,62191,Rider
+2023,11/20,Keystone Classic,157,L,DEC,12 - 5,Evan Gleason,71875,Harvard,Wyatt McCarthy,62191,Rider
+2023,11/20,Keystone Classic,157,W,MD,9 - 1,Nick Foster,78902,George Mason,Wyatt McCarthy,62191,Rider
+2023,11/20,Keystone Classic,157,W,FALL,6:15,Jonathan Siemsen,78156,Sacred Heart,Wyatt McCarthy,62191,Rider
+2023,02/25,Zingo National Collegiate open,157,L,FALL,2:22,Cole McComas,62984,Rider,David Turner,79298,Rider
+2023,02/25,Zingo National Collegiate open,157,L,FALL,2:17,Connor Trowbridge,62818,Drexel,David Turner,79298,Rider
+2023,01/06,David Lehman Open,157,L,FALL,2:55,Connor Trowbridge,62818,Drexel,David Turner,79298,Rider
+2023,01/06,David Lehman Open,157,L,FALL,2:15,Dillon Carlson,79794,Kent State,David Turner,79298,Rider
+2023,01/06,David Lehman Open,157,W,DEC,5 - 4,Bobby Groves,56816,Harvard,David Turner,79298,Rider
+2023,02/25,Zingo National Collegiate open,157,L,FALL,1:43,Hudson Hightower,72934,Princeton,Blaine Hammond,76865,Rider
+2023,02/25,Zingo National Collegiate open,157,L,FALL,2:58,Ethan Wilson,76858,Drexel,Blaine Hammond,76865,Rider
+2023,03/03,MAC Championships,165,L,FALL,2:21,Izzak Olejnik,56509,Northern Illinois,Hunter Mays,73136,Rider
+2023,03/03,MAC Championships,165,W,DEC,10 - 7,Daniel Patten,62489,Cleveland State,Hunter Mays,73136,Rider
+2023,03/03,MAC Championships,165,L,DEC,6 - 2,Marcus Petite,67407,Buffalo,Hunter Mays,73136,Rider
+2023,02/18,Drexel - Rider Dual,165,L,DEC,6 - 1,Evan Barczak,49122,Drexel,Hunter Mays,73136,Rider
+2023,02/18,Cleveland State - Rider Dual,165,L,DEC,9 - 5,Daniel Patten,62489,Cleveland State,Hunter Mays,73136,Rider
+2023,02/17,George Mason - Rider Dual,165,L,DEC,8 - 5,Drew Dickson,62581,George Mason,Hunter Mays,73136,Rider
+2023,02/12,Rider - Clarion Dual,165,L,MD,9 - 0,Cameron Pine,57196,Clarion,Hunter Mays,73136,Rider
+2023,02/10,Rider - Edinboro Dual,165,W,DEC,8 - 6,Alex Garee,71817,Edinboro,Hunter Mays,73136,Rider
+2023,02/05,Rider - Oklahoma Dual,165,L,DEC,3 - 1,Gerrit Nijenhuis,62352,Oklahoma,Hunter Mays,73136,Rider
+2023,01/28,Bucknell - Rider Dual,165,L,DEC,7 - 6,Chase Barlow,78732,Bucknell,Hunter Mays,73136,Rider
+2023,01/26,Rider - Lock Haven Dual,165,W,MD,12 - 3,James Hogan,78744,Lock Haven,Hunter Mays,73136,Rider
+2023,01/21,Rider - Princeton Dual,165,L,TF5,17 - 2 5:00,Quincy Monday,53967,Princeton,Hunter Mays,73136,Rider
+2023,01/13,Rider - Bloomsburg Dual,165,W,MD,13 - 4,Trenton Harder,71680,Bloomsburg,Hunter Mays,73136,Rider
+2023,01/08,Rutgers - Rider Dual,165,L,DEC,8 - 6,Robert Kanniard,56136,Rutgers,Hunter Mays,73136,Rider
+2023,01/01,Southern Scuffle,165,W,DEC,10 - 4,Stoney Buell,72153,Purdue,Hunter Mays,73136,Rider
+2023,01/01,Southern Scuffle,165,L,DEC,5 - 2,Ty Finn,72150,Virginia Tech,Hunter Mays,73136,Rider
+2023,01/01,Southern Scuffle,165,W,DEC,12 - 9,Drew Nicholson,49091,Virginia Tech,Hunter Mays,73136,Rider
+2023,01/01,Southern Scuffle,165,L,MD,10 - 0,Wyatt Sheets,44863,Oklahoma State,Hunter Mays,73136,Rider
+2023,12/02,Penn State - Rider Dual,165,L,MD,13 - 4,Alex Facundo,66706,Penn State,Hunter Mays,73136,Rider
+2023,11/20,Keystone Classic,165,W,DEC,6 - 5,Drew Nicholson,49091,Virginia Tech,Hunter Mays,73136,Rider
+2023,11/20,Keystone Classic,165,W,TB-2,3 - 2,Lucas Revano,56734,Pennsylvania,Hunter Mays,73136,Rider
+2023,11/20,Keystone Classic,165,L,TB-2,6 - 5,Lucas Revano,56734,Pennsylvania,Hunter Mays,73136,Rider
+2023,11/20,Keystone Classic,165,W,DEC,14 - 7,Oren Bost,73101,Appalachian State,Hunter Mays,73136,Rider
+2023,11/20,Keystone Classic,165,L,DEC,6 - 1,William Formato,57034,Appalachian State,Hunter Mays,73136,Rider
+2023,11/20,Keystone Classic,165,W,MFOR,0 - 0,Paul Pierce,56165,George Mason,Hunter Mays,73136,Rider
+2023,11/20,Keystone Classic,165,W,DEC,9 - 3,Michel Ritacco,77849,Sacred Heart,Hunter Mays,73136,Rider
+2023,11/13,Rider - Purdue Dual,165,W,DEC,6 - 5,Cooper Noehre,65006,Purdue,Hunter Mays,73136,Rider
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,165,L,DEC,3 - 2,Cardeionte Wilson,67405,SIU Edwardsville,Hunter Mays,73136,Rider
+2023,11/06,Princeton Open,165,L,DEC,2 - 1,Simon Ruiz,78145,High School,Hunter Mays,73136,Rider
+2023,11/06,Princeton Open,165,W,DEC,5 - 4,Gunner Filipowicz,72974,United States Military Academy,Hunter Mays,73136,Rider
+2023,11/06,Princeton Open,165,W,DEC,12 - 5,Connor O'Neill,62354,Rutgers,Hunter Mays,73136,Rider
+2023,11/06,Princeton Open,165,W,MD,12 - 4,Ty Whalen,72988,Princeton,Hunter Mays,73136,Rider
+2023,11/06,Princeton Open,165,W,MD,18 - 8,Drew Dickson,62581,George Mason,Hunter Mays,73136,Rider
+2023,02/05,Edinboro Open,165,L,MD,10 - 0,Bobby Gaylord,73170,Ohio,Hunter Horsey,78503,Rider
+2023,02/05,Edinboro Open,165,L,FALL,2:10,Jack Blumer,62728,West Virginia,Hunter Horsey,78503,Rider
+2023,02/05,Edinboro Open,165,W,DEC,3 - 2,Nicholas Arbes,72508,Bucknell,Hunter Horsey,78503,Rider
+2023,03/04,MAC True Matches,174,L,SV-1,3 - 1,Sal Perrine,73171,Ohio,Michael Wilson,62190,Rider
+2023,03/03,MAC Championships,174,W,DEC,5 - 2,Logan Messer,71846,George Mason,Michael Wilson,62190,Rider
+2023,03/03,MAC Championships,174,L,DEC,9 - 4,Tyler Stoltzfus,65398,Lock Haven,Michael Wilson,62190,Rider
+2023,03/03,MAC Championships,174,W,DEC,3 - 2,Jay Nivison,65850,Buffalo,Michael Wilson,62190,Rider
+2023,03/03,MAC Championships,174,W,DEC,6 - 2,Hayden Pummel,73344,Northern Illinois,Michael Wilson,62190,Rider
+2023,03/03,MAC Championships,174,L,DEC,7 - 2,Logan Messer,71846,George Mason,Michael Wilson,62190,Rider
+2023,03/03,MAC Championships,174,W,FALL,6:40,JR Reed,78598,Cleveland State,Michael Wilson,62190,Rider
+2023,02/18,Cleveland State - Rider Dual,174,W,DEC,8 - 4,JR Reed,78598,Cleveland State,Michael Wilson,62190,Rider
+2023,02/17,George Mason - Rider Dual,174,W,DEC,3 - 1,Logan Messer,71846,George Mason,Michael Wilson,62190,Rider
+2023,02/12,Rider - Clarion Dual,174,W,DEC,7 - 3,John Worthing,61847,Clarion,Michael Wilson,62190,Rider
+2023,02/10,Rider - Edinboro Dual,174,W,DEC,2 - 0,Joey Arnold,72215,Edinboro,Michael Wilson,62190,Rider
+2023,02/05,Rider - Oklahoma Dual,174,W,DEC,3 - 1,Tate Picklo,72165,Oklahoma,Michael Wilson,62190,Rider
+2023,01/28,Bucknell - Rider Dual,174,L,DEC,6 - 2,Sam Barnes,63005,Bucknell,Michael Wilson,62190,Rider
+2023,01/26,Rider - Lock Haven Dual,184,L,DEC,5 - 2,Colin Fegley,63035,Lock Haven,Michael Wilson,62190,Rider
+2023,01/21,Rider - Princeton Dual,174,W,DEC,3 - 1,Kole Mulhauser,73135,Princeton,Michael Wilson,62190,Rider
+2023,01/13,Rider - Bloomsburg Dual,174,W,DEC,6 - 0,Anthony Derosa,74515,Bloomsburg,Michael Wilson,62190,Rider
+2023,01/06,David Lehman Open,174,W,DEC,8 - 3,Brock Delsignore,71935,NC State,Michael Wilson,62190,Rider
+2023,01/06,David Lehman Open,174,W,DEC,3 - 1,Dylan Reinert,63029,NC State,Michael Wilson,62190,Rider
+2023,01/06,David Lehman Open,174,W,MFOR,0 - 0,Michael O'Malley,50836,Drexel,Michael Wilson,62190,Rider
+2023,01/06,David Lehman Open,174,W,DEC,2 - 1,Sean Kilrain,64015,Lehigh,Michael Wilson,62190,Rider
+2023,01/06,David Lehman Open,174,W,DEC,3 - 2,Alex Whitworth,71873,Harvard,Michael Wilson,62190,Rider
+2023,12/04,ARMS Software Patriots Open,174,L,TF5,15 - 0 5:29,Tyler Stoltzfus,65398,Lock Haven,Michael Wilson,62190,Rider
+2023,12/04,ARMS Software Patriots Open,174,W,MD,10 - 2,Michael Parnell,62386,VMI,Michael Wilson,62190,Rider
+2023,12/04,ARMS Software Patriots Open,174,W,MD,8 - 0,Jeremy Seymour,62586,George Mason,Michael Wilson,62190,Rider
+2023,12/04,ARMS Software Patriots Open,174,W,MD,12 - 1,Noah Bash,72675,Franklin & Marshall,Michael Wilson,62190,Rider
+2023,12/04,ARMS Software Patriots Open,174,W,DEC,4 - 1,Lucas White,72683,American,Michael Wilson,62190,Rider
+2023,11/20,Keystone Classic,174,W,DEC,4 - 0,Jack Janda,71665,Drexel,Michael Wilson,62190,Rider
+2023,11/20,Keystone Classic,174,W,MD,11 - 1,Tanner Updegraff,67441,Drexel,Michael Wilson,62190,Rider
+2023,11/20,Keystone Classic,174,W,TF5,18 - 3 6:54,Josh Nummer,62766,Arizona State,Michael Wilson,62190,Rider
+2023,11/20,Keystone Classic,174,L,DEC,4 - 1,Brett Mordecai,61869,Appalachian State,Michael Wilson,62190,Rider
+2023,11/20,Keystone Classic,174,L,TF5,15 - 0 5:38,Logan Messer,71846,George Mason,Michael Wilson,62190,Rider
+2023,11/20,Keystone Classic,174,W,TF5,16 - 0 5:31,Ryan Bolletino,69989,Sacred Heart,Michael Wilson,62190,Rider
+2023,11/13,Rider - Purdue Dual,174,L,DEC,6 - 2,Macartney Parkinson,67304,Purdue,Michael Wilson,62190,Rider
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,174,W,DEC,4 - 1,Chase Diehl,60388,SIU Edwardsville,Michael Wilson,62190,Rider
+2023,11/06,Princeton Open,174,W,DEC,8 - 3,Reed Douglass,80038,Presbyterian,Michael Wilson,62190,Rider
+2023,11/06,Princeton Open,174,L,DEC,8 - 2,Thayne Lawrence,62598,Lehigh,Michael Wilson,62190,Rider
+2023,11/06,Princeton Open,174,W,SV-1,9 - 7,Logan Messer,71846,George Mason,Michael Wilson,62190,Rider
+2023,11/06,Princeton Open,174,L,TF5,16 - 0 3:00,Tyler Stoltzfus,65398,Lock Haven,Michael Wilson,62190,Rider
+2023,02/18,Drexel - Rider Dual,174,L,DEC,3 - 1,Michael O'Malley,50836,Drexel,Shane Reitsma,63067,Rider
+2023,02/05,Edinboro Open,174,W,MFOR,0 - 0,Blaine Wilson,83969,Unattached,Shane Reitsma,63067,Rider
+2023,02/05,Edinboro Open,174,L,SV-1,8 - 6,Will Ebert,76486,Binghamton,Shane Reitsma,63067,Rider
+2023,02/05,Edinboro Open,174,L,DEC,8 - 3,Will Ebert,76486,Binghamton,Shane Reitsma,63067,Rider
+2023,02/05,Edinboro Open,174,W,DEC,6 - 5,Ethan Wiant,63052,Clarion,Shane Reitsma,63067,Rider
+2023,02/05,Edinboro Open,174,W,MFOR,0 - 0,John Worthing,61847,Clarion,Shane Reitsma,63067,Rider
+2023,02/05,Edinboro Open,174,W,MFOR,0 - 0,Leonardo Galasso,73722,Central Michigan,Shane Reitsma,63067,Rider
+2023,02/05,Edinboro Open,174,W,DEC,5 - 3,Spencer Steiner,72700,Central Michigan,Shane Reitsma,63067,Rider
+2023,01/08,Rutgers - Rider Dual,174,L,DEC,11 - 5,Jackson Turley,57636,Rutgers,Shane Reitsma,63067,Rider
+2023,12/02,Penn State - Rider Dual,174,L,MD,18 - 6,Carter Starocci,58819,Penn State,Shane Reitsma,63067,Rider
+2023,11/20,Keystone Classic,174,W,DEC,5 - 3,Malachi Wiley,63787,Pennsylvania,Shane Reitsma,63067,Rider
+2023,11/20,Keystone Classic,174,L,DEC,6 - 0,Will Miller,73102,Appalachian State,Shane Reitsma,63067,Rider
+2023,11/20,Keystone Classic,174,W,DEC,8 - 3,Brett Mordecai,61869,Appalachian State,Shane Reitsma,63067,Rider
+2023,11/20,Keystone Classic,174,W,DEC,3 - 2,Logan Messer,71846,George Mason,Shane Reitsma,63067,Rider
+2023,01/06,David Lehman Open,174,W,TF5,15 - 0 6:46,Angelo Esposito,77762,Rider,Corey Connolly,62210,Rider
+2023,01/06,David Lehman Open,174,L,DEC,9 - 3,Mason Karpinski,63010,Kent State,Corey Connolly,62210,Rider
+2023,01/06,David Lehman Open,174,L,DEC,4 - 2,Gage Musser,71710,Air Force,Corey Connolly,62210,Rider
+2023,11/20,Keystone Classic,174,W,DEC,9 - 8,Nick Incontrera,57070,Pennsylvania,Corey Connolly,62210,Rider
+2023,11/20,Keystone Classic,174,L,DEC,4 - 0,Will Miller,73102,Appalachian State,Corey Connolly,62210,Rider
+2023,11/20,Keystone Classic,174,L,MD,9 - 0,Logan Messer,71846,George Mason,Corey Connolly,62210,Rider
+2023,11/20,Keystone Classic,174,W,DEC,4 - 3,Jeremy Seymour,62586,George Mason,Corey Connolly,62210,Rider
+2023,02/25,Zingo National Collegiate open,174,L,MD,14 - 4,Lance Urbas,71693,Pennsylvania,Angelo Esposito,77762,Rider
+2023,02/25,Zingo National Collegiate open,174,L,MD,18 - 6,Tanner Updegraff,67441,Drexel,Angelo Esposito,77762,Rider
+2023,02/05,Edinboro Open,174,L,FALL,6:28,Josh Knudten,76949,Michigan,Angelo Esposito,77762,Rider
+2023,02/05,Edinboro Open,174,L,FALL,5:00,Mitchell Broskie,75819,Kent State,Angelo Esposito,77762,Rider
+2023,01/06,David Lehman Open,174,L,TF5,15 - 0 6:46,Corey Connolly,62210,Rider,Angelo Esposito,77762,Rider
+2023,01/06,David Lehman Open,174,L,MD,12 - 3,Noah Fox,67280,Franklin & Marshall,Angelo Esposito,77762,Rider
+2023,03/03,MAC Championships,184,L,DEC,3 - 2,Will Feldkamp,51599,Clarion,Isaac Dean,72506,Rider
+2023,03/03,MAC Championships,184,L,DEC,4 - 1,Guiseppe Hoose,56371,Buffalo,Isaac Dean,72506,Rider
+2023,03/03,MAC Championships,184,W,DEC,7 - 4,Bruno Stolfi,60224,Bloomsburg,Isaac Dean,72506,Rider
+2023,02/18,Drexel - Rider Dual,184,L,TB-2,3 - 2,Brian Bonino,51034,Drexel,Isaac Dean,72506,Rider
+2023,02/18,Cleveland State - Rider Dual,184,L,TB-2,3 - 2,Deandre Nassar,62202,Cleveland State,Isaac Dean,72506,Rider
+2023,02/17,George Mason - Rider Dual,184,L,DEC,9 - 6,Malachi Duvall,72189,George Mason,Isaac Dean,72506,Rider
+2023,02/12,Rider - Clarion Dual,184,L,TF5,17 - 2 3:51,Will Feldkamp,51599,Clarion,Isaac Dean,72506,Rider
+2023,02/10,Rider - Edinboro Dual,184,W,SV-1,3 - 1,Jack Kilner,65375,Edinboro,Isaac Dean,72506,Rider
+2023,02/05,Rider - Oklahoma Dual,184,L,DEC,4 - 3,Keegan Moore,44872,Oklahoma,Isaac Dean,72506,Rider
+2023,01/26,Rider - Lock Haven Dual,174,L,DEC,5 - 2,Tyler Stoltzfus,65398,Lock Haven,Isaac Dean,72506,Rider
+2023,01/06,David Lehman Open,174,W,DEC,6 - 5,Reed Douglass,80038,Presbyterian,Isaac Dean,72506,Rider
+2023,01/06,David Lehman Open,174,L,DEC,3 - 2,Brock Delsignore,71935,NC State,Isaac Dean,72506,Rider
+2023,01/06,David Lehman Open,174,L,DEC,8 - 1,Dylan Reinert,63029,NC State,Isaac Dean,72506,Rider
+2023,01/06,David Lehman Open,174,W,DEC,3 - 2,Sammy Starr,73336,Navy,Isaac Dean,72506,Rider
+2023,12/04,ARMS Software Patriots Open,174,L,DEC,2 - 0,Tyler Stoltzfus,65398,Lock Haven,Isaac Dean,72506,Rider
+2023,12/04,ARMS Software Patriots Open,174,L,SV-1,3 - 1,Logan Messer,71846,George Mason,Isaac Dean,72506,Rider
+2023,12/04,ARMS Software Patriots Open,174,W,DEC,11 - 4,Andrew Wilson,73732,Gardner-Webb,Isaac Dean,72506,Rider
+2023,12/04,ARMS Software Patriots Open,174,W,DEC,6 - 4,Brett Sanderlin,71729,Davidson,Isaac Dean,72506,Rider
+2023,11/20,Keystone Classic,174,L,FALL,3:48,Josh Nummer,62766,Arizona State,Isaac Dean,72506,Rider
+2023,11/20,Keystone Classic,174,L,DEC,9 - 6,Michael Kistler,56735,Pennsylvania,Isaac Dean,72506,Rider
+2023,11/06,Princeton Open,174,L,FALL,4:09,Logan Messer,71846,George Mason,Isaac Dean,72506,Rider
+2023,11/06,Princeton Open,174,L,DEC,3 - 2,Tyler Stoltzfus,65398,Lock Haven,Isaac Dean,72506,Rider
+2023,11/06,Princeton Open,174,W,DEC,8 - 4,Grady Tisdale,81064,Emmanuel,Isaac Dean,72506,Rider
+2023,02/05,Edinboro Open,184,W,DEC,4 - 1,Gilbert Marquez,72226,Buffalo,Quinn Collins,79801,Rider
+2023,02/05,Edinboro Open,184,W,DEC,3 - 2,Matt McKenna,67334,Michigan,Quinn Collins,79801,Rider
+2023,02/05,Edinboro Open,184,L,FALL,0:45,Shay Addison,78500,Arizona State,Quinn Collins,79801,Rider
+2023,02/05,Edinboro Open,184,L,FALL,4:20,Michael Bartush,72602,Bucknell,Quinn Collins,79801,Rider
+2023,01/28,Bucknell - Rider Dual,184,L,DEC,5 - 1,Mason McCready,57223,Bucknell,Quinn Collins,79801,Rider
+2023,01/21,Rider - Princeton Dual,184,L,MD,19 - 6,Nate Dugan,57662,Princeton,Quinn Collins,79801,Rider
+2023,01/06,David Lehman Open,184,L,DEC,8 - 2,Gavin Kane,62429,North Carolina,Quinn Collins,79801,Rider
+2023,01/06,David Lehman Open,184,L,MD,13 - 4,Cordell Duhart,56938,Presbyterian,Quinn Collins,79801,Rider
+2023,01/06,David Lehman Open,184,W,DEC,5 - 3,Sebastian Ford,73489,Sacred Heart,Quinn Collins,79801,Rider
+2023,02/10,Edinboro Rider ECM,197,W,DEC,6 - 3,Lonnell Owens-Pabon,78784,Edinboro,Asa Terrell,69517,Rider
+2023,02/05,Rider - Oklahoma Dual,197,L,DEC,6 - 4,Carson Berryhill,61936,Oklahoma,Asa Terrell,69517,Rider
+2023,01/06,David Lehman Open,184,W,FALL,2:53,Owen Ayotte,73486,Sacred Heart,Asa Terrell,69517,Rider
+2023,01/06,David Lehman Open,184,L,MD,13 - 5,Hunter Johns,62914,Navy,Asa Terrell,69517,Rider
+2023,01/06,David Lehman Open,184,L,DEC,9 - 5,Noah Blake,57245,Air Force,Asa Terrell,69517,Rider
+2023,12/02,Penn State - Rider Dual,184,L,DEC,9 - 3,Donovan Ball,57646,Penn State,Asa Terrell,69517,Rider
+2023,11/20,Keystone Classic,184,L,DEC,4 - 3,Luke Chakonis,65933,Duke,Asa Terrell,69517,Rider
+2023,11/20,Keystone Classic,184,L,FALL,1:27,Malachi Duvall,72189,George Mason,Asa Terrell,69517,Rider
+2023,11/13,Rider - Purdue Dual,184,L,MD,12 - 2,Ben Vanadia,68732,Purdue,Asa Terrell,69517,Rider
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,184,L,FALL,4:05,Sergio Villalobos,57005,SIU Edwardsville,Asa Terrell,69517,Rider
+2023,11/06,Princeton Open,184,L,DEC,5 - 2,Caden Wright,63043,Lehigh,Asa Terrell,69517,Rider
+2023,11/06,Princeton Open,184,L,MD,12 - 4,Malachi Duvall,72189,George Mason,Asa Terrell,69517,Rider
+2023,02/25,Zingo National Collegiate open,184,W,FALL,6:51,Tj Dorceus,83147,PRTC,Raymond Weed,78449,Rider
+2023,02/25,Zingo National Collegiate open,184,L,MD,15 - 2,Mikey Squires,67290,NJRTC,Raymond Weed,78449,Rider
+2023,02/25,Zingo National Collegiate open,184,L,DEC,12 - 9,Connor Strong,62778,Pennsylvania,Raymond Weed,78449,Rider
+2023,02/05,Edinboro Open,184,W,TF5,16 - 0 2:46,John Baker,78820,Binghamton,Raymond Weed,78449,Rider
+2023,02/05,Edinboro Open,184,L,FALL,3:51,Patrick Cutchember,78460,Clarion,Raymond Weed,78449,Rider
+2023,02/05,Edinboro Open,184,L,DEC,4 - 2,Codei Khawaja,74572,Michigan,Raymond Weed,78449,Rider
+2023,02/05,Edinboro Open,184,W,DEC,8 - 7,Cael Black,78740,Lock Haven,Raymond Weed,78449,Rider
+2023,01/13,Rider - Bloomsburg Dual,184,L,DEC,6 - 3,Bruno Stolfi,60224,Bloomsburg,Raymond Weed,78449,Rider
+2023,01/08,Rutgers - Rider Dual,184,L,MD,14 - 3,Brian Soldano,67558,Rutgers,Raymond Weed,78449,Rider
+2023,11/06,Princeton Open,174,W,DEC,9 - 8,Sean Kilrain,64015,Lehigh,Raymond Weed,78449,Rider
+2023,11/06,Princeton Open,174,L,DEC,5 - 2,Thayne Lawrence,62598,Lehigh,Raymond Weed,78449,Rider
+2023,11/06,Princeton Open,174,L,SV-1,9 - 3,Logan Messer,71846,George Mason,Raymond Weed,78449,Rider
+2023,11/06,Princeton Open,174,W,FALL,1:06,Stefan Major,60768,Stevens Tech,Raymond Weed,78449,Rider
+2023,03/16,NCAA Championships,197,L,DEC,7 - 3,Jacob Warner,49151,Iowa,Ethan Laird,50134,Rider
+2023,03/16,NCAA Championships,197,L,DEC,5 - 2,Bernie Truax,51133,Cal Poly,Ethan Laird,50134,Rider
+2023,03/16,NCAA Championships,197,L,DEC,10 - 4,Nino Bonaccorsi,49285,Pittsburgh,Ethan Laird,50134,Rider
+2023,03/16,NCAA Championships,197,W,DEC,3 - 2,Zach Braunagel,50925,Illinois,Ethan Laird,50134,Rider
+2023,03/16,NCAA Championships,197,W,DEC,3 - 1,Yonger Bastida,70963,Iowa State,Ethan Laird,50134,Rider
+2023,03/16,NCAA Championships,197,W,DEC,10 - 5,Trey Rogers,51099,Hofstra,Ethan Laird,50134,Rider
+2023,03/03,MAC Championships,197,W,DEC,8 - 4,Carson Brewer,60286,Ohio,Ethan Laird,50134,Rider
+2023,03/03,MAC Championships,197,W,MD,12 - 3,Cody Mulligan,50589,Edinboro,Ethan Laird,50134,Rider
+2023,03/03,MAC Championships,197,W,DEC,5 - 2,Sam Mitchell,61028,Buffalo,Ethan Laird,50134,Rider
+2023,03/03,MAC Championships,197,W,FALL,4:36,Tanner Culver,62461,Bloomsburg,Ethan Laird,50134,Rider
+2023,02/18,Drexel - Rider Dual,197,W,DEC,8 - 2,Sean O'Malley,49121,Drexel,Ethan Laird,50134,Rider
+2023,02/18,Cleveland State - Rider Dual,197,W,DEC,3 - 1,Anthony Perrine,49135,Cleveland State,Ethan Laird,50134,Rider
+2023,02/17,George Mason - Rider Dual,197,W,MD,12 - 3,Tyler Kocak,69715,George Mason,Ethan Laird,50134,Rider
+2023,02/12,Rider - Clarion Dual,197,W,MD,13 - 5,Tyler Bagoly,49098,Clarion,Ethan Laird,50134,Rider
+2023,02/10,Rider - Edinboro Dual,197,W,DEC,5 - 3,Cody Mulligan,50589,Edinboro,Ethan Laird,50134,Rider
+2023,01/28,Bucknell - Rider Dual,197,W,MD,16 - 3,Nolan Springer,71749,Bucknell,Ethan Laird,50134,Rider
+2023,01/26,Rider - Lock Haven Dual,197,W,MD,16 - 5,Brad Morrison,78739,Lock Haven,Ethan Laird,50134,Rider
+2023,01/21,Rider - Princeton Dual,197,W,DEC,8 - 3,Luke Stout,62599,Princeton,Ethan Laird,50134,Rider
+2023,01/13,Rider - Bloomsburg Dual,197,W,TF5,18 - 3 5:43,Tanner Culver,62461,Bloomsburg,Ethan Laird,50134,Rider
+2023,01/08,Rutgers - Rider Dual,197,W,DEC,6 - 1,Billy Janzer,49473,Rutgers,Ethan Laird,50134,Rider
+2023,01/01,Southern Scuffle,197,W,DEC,6 - 4,Stephen Little,73285,Little Rock,Ethan Laird,50134,Rider
+2023,01/01,Southern Scuffle,197,L,MFOR,0 - 0,Stephen Little,73285,Little Rock,Ethan Laird,50134,Rider
+2023,01/01,Southern Scuffle,197,L,MFOR,0 - 0,Luke Surber,62347,Oklahoma State,Ethan Laird,50134,Rider
+2023,01/01,Southern Scuffle,197,W,MD,16 - 4,Vincent Baker,56930,Duke,Ethan Laird,50134,Rider
+2023,01/01,Southern Scuffle,197,L,FALL,6:03,Owen Pentz,50250,North Dakota State,Ethan Laird,50134,Rider
+2023,12/02,Penn State - Rider Dual,197,W,SV-1,3 - 1,Max Dean,46025,Penn State,Ethan Laird,50134,Rider
+2023,11/20,Keystone Classic,197,W,DEC,7 - 6,Kordell Norfleet,49038,Arizona State,Ethan Laird,50134,Rider
+2023,11/20,Keystone Classic,197,W,FALL,2:30,Cole Urbas,56773,Pennsylvania,Ethan Laird,50134,Rider
+2023,11/20,Keystone Classic,197,W,FALL,3:59,Jon List,71833,George Mason,Ethan Laird,50134,Rider
+2023,11/13,Rider - Purdue Dual,197,W,MD,17 - 6,Hayden Filipovich,71689,Purdue,Ethan Laird,50134,Rider
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,197,W,TF5,21 - 6 7:00,Ryan Yarnell,57006,SIU Edwardsville,Ethan Laird,50134,Rider
+2023,11/06,Princeton Open,197,W,MD,12 - 2,Kyle Epperly,62885,Rutgers,Ethan Laird,50134,Rider
+2023,11/06,Princeton Open,197,W,DEC,4 - 3,Luke Stout,62599,Princeton,Ethan Laird,50134,Rider
+2023,11/06,Princeton Open,197,W,MD,16 - 3,Aidan Conner,57524,Princeton,Ethan Laird,50134,Rider
+2023,01/06,David Lehman Open,197,W,DEC,5 - 4,Nikolas Miller,73028,Hofstra,Azeem Bell,67120,Rider
+2023,01/06,David Lehman Open,197,W,DEC,6 - 0,Harrison Shapiro,67284,Franklin & Marshall,Azeem Bell,67120,Rider
+2023,01/06,David Lehman Open,197,W,MD,11 - 2,Sam Wustefeld,57272,Columbia,Azeem Bell,67120,Rider
+2023,01/06,David Lehman Open,197,L,FALL,1:27,Sean O'Malley,49121,Drexel,Azeem Bell,67120,Rider
+2023,01/06,David Lehman Open,197,L,MD,10 - 0,Aidan Conner,57524,Princeton,Azeem Bell,67120,Rider
+2023,11/20,Keystone Classic,197,L,DEC,6 - 2,Jonathan Fagen,57304,Arizona State,Azeem Bell,67120,Rider
+2023,11/20,Keystone Classic,197,L,DEC,8 - 3,Kordell Norfleet,49038,Arizona State,Azeem Bell,67120,Rider
+2023,11/06,Princeton Open,197,L,MD,19 - 5,Luke Stout,62599,Princeton,Azeem Bell,67120,Rider
+2023,11/06,Princeton Open,197,L,DEC,5 - 2,Malcolm Wiley,62915,Presbyterian,Azeem Bell,67120,Rider
+2023,11/06,Princeton Open,197,W,DEC,7 - 4,Dante Hoose,81067,Lehigh,Azeem Bell,67120,Rider
+2023,11/06,Princeton Open,197,W,MD,14 - 6,Gavin Harper,81056,Emmanuel,Azeem Bell,67120,Rider
+2023,03/03,MAC Championships,285,W,MFOR,0 - 0,Isaac Reid,50915,Lock Haven,David Szuba,72908,Rider
+2023,03/03,MAC Championships,285,L,DEC,11 - 10,Daniel Bucknavich,62488,Cleveland State,David Szuba,72908,Rider
+2023,03/03,MAC Championships,285,W,FALL,0:46,Shane Noonan,58615,Bloomsburg,David Szuba,72908,Rider
+2023,03/03,MAC Championships,285,W,FALL,0:25,Jacob Padilla,62517,Ohio,David Szuba,72908,Rider
+2023,03/03,MAC Championships,285,L,DEC,8 - 6,Terrese Aaron,51827,Northern Illinois,David Szuba,72908,Rider
+2023,03/03,MAC Championships,285,W,DEC,7 - 0,Austin Chapman,63708,Clarion,David Szuba,72908,Rider
+2023,02/18,Drexel - Rider Dual,285,W,FALL,6:04,Dom Petracci,79380,Drexel,David Szuba,72908,Rider
+2023,02/18,Cleveland State - Rider Dual,285,W,FALL,1:02,Daniel Bucknavich,62488,Cleveland State,David Szuba,72908,Rider
+2023,02/17,George Mason - Rider Dual,285,W,DEC,4 - 2,Donovan Sprouse,78363,George Mason,David Szuba,72908,Rider
+2023,02/12,Rider - Clarion Dual,285,W,DEC,3 - 1,Austin Chapman,63708,Clarion,David Szuba,72908,Rider
+2023,02/10,Rider - Edinboro Dual,285,W,MD,13 - 1,Nick Lodato,72606,Edinboro,David Szuba,72908,Rider
+2023,02/05,Rider - Oklahoma Dual,285,L,DEC,8 - 3,Josh Heindselman,57311,Oklahoma,David Szuba,72908,Rider
+2023,01/28,Bucknell - Rider Dual,285,L,DEC,8 - 4,Dorian Crosby,62328,Bucknell,David Szuba,72908,Rider
+2023,01/26,Rider - Lock Haven Dual,285,L,DEC,2 - 0,Isaac Reid,50915,Lock Haven,David Szuba,72908,Rider
+2023,01/21,Rider - Princeton Dual,285,L,DEC,6 - 4,Travis Stefanik,49301,Princeton,David Szuba,72908,Rider
+2023,01/13,Rider - Bloomsburg Dual,285,W,MD,16 - 4,Shane Noonan,58615,Bloomsburg,David Szuba,72908,Rider
+2023,01/08,Rutgers - Rider Dual,285,W,INJ,5:00,Boone McDermott,56898,Rutgers,David Szuba,72908,Rider
+2023,01/01,Southern Scuffle,285,W,FALL,7:00,Jordan Gabriel,74518,Maryland,David Szuba,72908,Rider
+2023,01/01,Southern Scuffle,285,W,TF5,15 - 0 5:28,Tristan Ruhlman,71690,Purdue,David Szuba,72908,Rider
+2023,01/01,Southern Scuffle,285,L,MD,13 - 2,Josiah Hill,65931,Little Rock,David Szuba,72908,Rider
+2023,01/01,Southern Scuffle,285,L,DEC,4 - 0,Konner Doucet,57801,Oklahoma State,David Szuba,72908,Rider
+2023,01/01,Southern Scuffle,285,W,DEC,6 - 5,Triston Norris,71717,Appalachian State,David Szuba,72908,Rider
+2023,12/02,Penn State - Rider Dual,285,L,MD,11 - 1,Greg Kerkvliet,61842,Penn State,David Szuba,72908,Rider
+2023,11/20,Keystone Classic,285,L,DEC,8 - 2,Hunter Catka,62425,Virginia Tech,David Szuba,72908,Rider
+2023,11/20,Keystone Classic,285,L,SV-1,3 - 1,Ben Goldin,50827,Pennsylvania,David Szuba,72908,Rider
+2023,11/20,Keystone Classic,285,W,DEC,6 - 4,Jacob Sartorio,65393,Appalachian State,David Szuba,72908,Rider
+2023,11/20,Keystone Classic,285,W,FALL,0:48,Mason Fiscella,57035,Appalachian State,David Szuba,72908,Rider
+2023,11/13,Rider - Purdue Dual,285,W,FALL,1:13,Hayden Copass,62893,Purdue,David Szuba,72908,Rider
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,285,L,FALL,2:28,Colton McKiernan,57003,SIU Edwardsville,David Szuba,72908,Rider
+2023,11/06,Princeton Open,285,W,DEC,12 - 6,Lucas Stoddard,78565,United States Military Academy,David Szuba,72908,Rider
+2023,11/06,Princeton Open,285,L,DEC,7 - 6,Travis Stefanik,49301,Princeton,David Szuba,72908,Rider
+2023,11/06,Princeton Open,285,W,DEC,11 - 7,Karam Chakif,67262,Lehigh,David Szuba,72908,Rider
+2023,11/06,Princeton Open,285,W,FALL,0:23,Adrian Sans,78803,Hofstra,David Szuba,72908,Rider
+2023,11/06,Princeton Open,285,W,FALL,4:09,Ja'mon Goodwine,77880,Emmanuel,David Szuba,72908,Rider

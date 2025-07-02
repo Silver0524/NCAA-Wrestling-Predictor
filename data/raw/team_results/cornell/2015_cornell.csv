@@ -1,0 +1,592 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2015,03/19,NCAA Championships,125,W,DEC,9 - 3,Conor Youtsey,13271,Michigan,Nahshon Garrett,12070,Cornell
+2015,03/19,NCAA Championships,125,W,MD,11 - 0,Kory Mines,12134,Edinboro,Nahshon Garrett,12070,Cornell
+2015,03/19,NCAA Championships,125,W,MD,13 - 3,Ronnie Bresser,25183,Oregon State,Nahshon Garrett,12070,Cornell
+2015,03/19,NCAA Championships,125,W,DEC,10 - 6,Brandon Jeske,12133,Old Dominion,Nahshon Garrett,12070,Cornell
+2015,03/19,NCAA Championships,125,L,DEC,5 - 2,Zeke Moisey,20472,West Virginia,Nahshon Garrett,12070,Cornell
+2015,03/19,NCAA Championships,125,W,DEC,10 - 6,Tim Lambert,13256,Nebraska,Nahshon Garrett,12070,Cornell
+2015,03/19,NCAA Championships,125,W,MD,10 - 1,Jordan Conaway,15981,Penn State,Nahshon Garrett,12070,Cornell
+2015,03/19,NCAA Championships,125,L,FALL,6:25,Thomas Gilman,13245,Iowa,Nahshon Garrett,12070,Cornell
+2015,03/06,EIWA Championships,125,W,DEC,12 - 5,Scott Parker,19985,Lehigh,Nahshon Garrett,12070,Cornell
+2015,03/06,EIWA Championships,125,W,TF4,15 - 0 7:00,Zack Fuentes,12061,Drexel,Nahshon Garrett,12070,Cornell
+2015,03/06,EIWA Championships,125,W,FALL,1:41,Ryan Cash,12045,Princeton,Nahshon Garrett,12070,Cornell
+2015,03/06,EIWA Championships,125,W,DEC,9 - 5,David Terao,12068,American,Nahshon Garrett,12070,Cornell
+2015,02/21,Cornell - Iowa Dual (National Duals),125,L,DEC,3 - 1,Thomas Gilman,13245,Iowa,Nahshon Garrett,12070,Cornell
+2015,02/21,Minnesota - Cornell Dual (National Duals),125,W,TF5,18 - 2 7:00,Ethan Lizak,20040,Minnesota,Nahshon Garrett,12070,Cornell
+2015,02/15,Drexel - Cornell Dual,125,W,FALL,2:54,Zack Fuentes,12061,Drexel,Nahshon Garrett,12070,Cornell
+2015,02/07,Cornell - Hofstra Dual,125,W,FALL,4:56,Bryan Damon,19924,Hofstra,Nahshon Garrett,12070,Cornell
+2015,02/07,Cornell - Columbia Dual,125,W,MD,15 - 2,Johnson Mai,12151,Columbia,Nahshon Garrett,12070,Cornell
+2015,01/31,Lock Haven - Cornell Dual,125,W,TF4,16 - 0 7:00,Jake Field,12108,Lock Haven,Nahshon Garrett,12070,Cornell
+2015,01/30,Princeton - Cornell Dual,125,W,TF4,18 - 3 5:00,Ryan Cash,12045,Princeton,Nahshon Garrett,12070,Cornell
+2015,01/25,Cornell - Lehigh Dual,125,W,DEC,9 - 5,Scott Parker,19985,Lehigh,Nahshon Garrett,12070,Cornell
+2015,01/24,Pennsylvania - Cornell Dual,125,W,TF4,19 - 4 4:46,Jeremy Schwartz,12148,Pennsylvania,Nahshon Garrett,12070,Cornell
+2015,01/10,Missouri - Cornell Dual,133,L,DEC,6 - 2,Zach Synon,12142,Missouri,Nahshon Garrett,12070,Cornell
+2015,01/01,Southern Scuffle,125,W,MD,10 - 2,Tim Lambert,13256,Nebraska,Nahshon Garrett,12070,Cornell
+2015,01/01,Southern Scuffle,125,W,DEC,8 - 1,Edilberto Vinas,20938,Kent State,Nahshon Garrett,12070,Cornell
+2015,01/01,Southern Scuffle,125,W,FALL,5:06,Tyrone Klump,20115,North Carolina,Nahshon Garrett,12070,Cornell
+2015,01/01,Southern Scuffle,125,W,MD,11 - 3,Tyler Cox,13326,Wyoming,Nahshon Garrett,12070,Cornell
+2015,01/01,Southern Scuffle,125,L,DEC,3 - 1,Alan Waters,13372,Missouri,Nahshon Garrett,12070,Cornell
+2015,12/21,Northern Iowa - Cornell Dual,125,W,DEC,6 - 2,Dylan Peters,13253,Northern Iowa,Nahshon Garrett,12070,Cornell
+2015,12/21,Edinboro - Cornell Dual,125,W,DEC,8 - 1,Kory Mines,12134,Edinboro,Nahshon Garrett,12070,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,125,W,DEC,6 - 4,Joey Dance,12221,Virginia Tech,Nahshon Garrett,12070,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,125,W,TF4,19 - 3 7:00,Josh Martinez,12145,Air Force,Nahshon Garrett,12070,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,125,W,FALL,6:48,Paul Petrov,12116,Bucknell,Nahshon Garrett,12070,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,125,W,TF4,21 - 6 5:39,Joaquin Marquez,12146,The Citadel,Nahshon Garrett,12070,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,125,W,MD,15 - 2,Sean McCabe,12035,Rutgers,Nahshon Garrett,12070,Cornell
+2015,11/29,North Carolina State - Cornell Dual,125,W,MD,16 - 3,Jake DeAngelo,20554,NC State,Nahshon Garrett,12070,Cornell
+2015,11/29,Kutztown - Cornell Dual,125,W,TF4,17 - 0 4:30,Nick Demarco,21283,Kutztown,Nahshon Garrett,12070,Cornell
+2015,11/29,West Virginia - Cornell Dual,125,W,MD,19 - 8,Zeke Moisey,20472,West Virginia,Nahshon Garrett,12070,Cornell
+2015,11/22,Oklahoma - Cornell Dual,125,W,DEC,5 - 2,Sean Williams,16527,Oklahoma,Nahshon Garrett,12070,Cornell
+2015,03/19,NCAA Championships,133,L,DEC,5 - 1,Ryan Taylor,12219,Wisconsin,Mark Grey,12040,Cornell
+2015,03/19,NCAA Championships,133,W,FALL,2:53,Nick Soto,12005,Chattanooga,Mark Grey,12040,Cornell
+2015,03/19,NCAA Championships,133,L,DEC,6 - 1,Gary Wayne Harding,20270,Oklahoma State,Mark Grey,12040,Cornell
+2015,03/06,EIWA Championships,133,W,DEC,7 - 4,Angelo Amenta,12031,Columbia,Mark Grey,12040,Cornell
+2015,03/06,EIWA Championships,133,L,DEC,2 - 1,Mason Beckman,12016,Lehigh,Mark Grey,12040,Cornell
+2015,03/06,EIWA Championships,133,W,FALL,2:16,Tim Johnson,20831,Sacred Heart,Mark Grey,12040,Cornell
+2015,03/06,EIWA Championships,133,W,DEC,4 - 3,Grim Gonzalez,18150,Bucknell,Mark Grey,12040,Cornell
+2015,03/06,EIWA Championships,133,W,DEC,4 - 3,Josh Terao,20533,American,Mark Grey,12040,Cornell
+2015,02/22,Cornell - Lehigh Dual (National Duals),133,L,DEC,6 - 2,Mason Beckman,12016,Lehigh,Mark Grey,12040,Cornell
+2015,02/21,Cornell - Iowa Dual (National Duals),133,L,DEC,6 - 2,Cory Clark,13249,Iowa,Mark Grey,12040,Cornell
+2015,02/21,Minnesota - Cornell Dual (National Duals),133,L,DEC,7 - 4,Chris Dardanes,11676,Minnesota,Mark Grey,12040,Cornell
+2015,02/15,Drexel - Cornell Dual,133,L,DEC,3 - 2,Kevin Devoy Jr,12047,Drexel,Mark Grey,12040,Cornell
+2015,02/07,Cornell - Columbia Dual,133,W,DEC,11 - 6,Angelo Amenta,12031,Columbia,Mark Grey,12040,Cornell
+2015,01/30,Princeton - Cornell Dual,133,W,MD,15 - 5,Jordan Reich,20339,Princeton,Mark Grey,12040,Cornell
+2015,01/17,Brown - Cornell Dual,133,W,MD,20 - 10,Ezekiel Salvo,22497,Brown,Mark Grey,12040,Cornell
+2015,01/01,Southern Scuffle,133,L,DEC,6 - 2,Mack McGuire,12004,Kent State,Mark Grey,12040,Cornell
+2015,01/01,Southern Scuffle,133,W,MD,10 - 2,Michael Cook,19685,Boise State,Mark Grey,12040,Cornell
+2015,01/01,Southern Scuffle,133,W,DEC,4 - 2,Gary Wayne Harding,20270,Oklahoma State,Mark Grey,12040,Cornell
+2015,01/01,Southern Scuffle,133,L,TB-1,3 - 2,Mason Beckman,12016,Lehigh,Mark Grey,12040,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,141,W,DEC,8 - 1,Tom Page,11812,American,Mark Grey,12040,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,141,L,DEC,13 - 7,George Fisher,13432,Michigan,Mark Grey,12040,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,141,L,DEC,10 - 6,Dante Rodriguez,19964,Iowa State,Mark Grey,12040,Cornell
+2015,11/29,North Carolina State - Cornell Dual,141,W,SV-1,8 - 6,Sam Speno,11813,NC State,Mark Grey,12040,Cornell
+2015,11/29,Kutztown - Cornell Dual,141,W,DEC,11 - 4,Matt Benvenuto,22526,Kutztown,Mark Grey,12040,Cornell
+2015,11/29,West Virginia - Cornell Dual,141,L,DEC,11 - 7,Michael Morales,20474,West Virginia,Mark Grey,12040,Cornell
+2015,01/31,Lock Haven - Cornell Dual,133,L,DEC,3 - 2,Cody Wheeler,15130,Lock Haven,Bricker Dixon,13330,Cornell
+2015,01/25,Cornell - Lehigh Dual,133,L,DEC,9 - 4,Mason Beckman,12016,Lehigh,Bricker Dixon,13330,Cornell
+2015,01/24,Pennsylvania - Cornell Dual,133,L,DEC,4 - 3,Caleb Richardson,12113,Pennsylvania,Bricker Dixon,13330,Cornell
+2015,12/21,Northern Iowa - Cornell Dual,133,W,DEC,7 - 2,Leighton Gaul,15052,Northern Iowa,Bricker Dixon,13330,Cornell
+2015,12/21,Edinboro - Cornell Dual,133,L,TF4,17 - 0 7:00,AJ Schopp,12026,Edinboro,Bricker Dixon,13330,Cornell
+2015,11/29,North Carolina State - Cornell Dual,133,L,DEC,2 - 0,Bryce Meredith,20135,Wyoming,Bricker Dixon,13330,Cornell
+2015,11/29,Kutztown - Cornell Dual,133,W,MD,14 - 1,Trenton Clifford,22593,Kutztown,Bricker Dixon,13330,Cornell
+2015,11/29,West Virginia - Cornell Dual,133,L,DEC,9 - 4,Cory Stainbrook,12131,West Virginia,Bricker Dixon,13330,Cornell
+2015,11/23,New York State Championship,133,W,MFOR,0 - 0,Eric Velez,41367,Brockport,Bricker Dixon,13330,Cornell
+2015,11/23,New York State Championship,133,W,DEC,7 - 5,Sean Peacock,19725,Buffalo,Bricker Dixon,13330,Cornell
+2015,11/23,New York State Championship,133,W,MFOR,0 - 0,Maverick Passaro,20545,Hofstra,Bricker Dixon,13330,Cornell
+2015,11/23,New York State Championship,133,W,DEC,5 - 2,Anthony Messina,22847,Limestone,Bricker Dixon,13330,Cornell
+2015,11/23,New York State Championship,133,L,SV-1,6 - 4,Joe Russ,22848,Nassau Community College,Bricker Dixon,13330,Cornell
+2015,11/23,New York State Championship,133,L,DEC,4 - 1,Angelo Amenta,12031,Columbia,Bricker Dixon,13330,Cornell
+2015,11/22,Oklahoma - Cornell Dual,133,L,MD,12 - 4,Cody Brewer,12037,Oklahoma,Bricker Dixon,13330,Cornell
+2015,03/06,EIWA Championships,141,W,MFOR,0 - 0,Todd Preston,11608,Harvard,Dylan Realbuto,20539,Cornell
+2015,03/06,EIWA Championships,141,W,DEC,8 - 2,Robert Ruiz,14975,Franklin & Marshall,Dylan Realbuto,20539,Cornell
+2015,03/06,EIWA Championships,141,L,MD,13 - 5,Jamel Hudson,12024,Hofstra,Dylan Realbuto,20539,Cornell
+2015,03/06,EIWA Championships,141,W,DEC,12 - 5,Logan Everett,12041,Army West Point,Dylan Realbuto,20539,Cornell
+2015,03/06,EIWA Championships,141,L,DEC,2 - 0,Tyler Smith,22439,Bucknell,Dylan Realbuto,20539,Cornell
+2015,02/22,Cornell - Lehigh Dual (National Duals),141,L,DEC,8 - 6,Randy Cruz,11853,Lehigh,Dylan Realbuto,20539,Cornell
+2015,02/21,Cornell - Iowa Dual (National Duals),141,L,DEC,5 - 3,Josh Dziewa,11626,Iowa,Dylan Realbuto,20539,Cornell
+2015,02/07,Edinboro Open,141,W,DEC,3 - 2,Max Good,19671,Bloomsburg,Dylan Realbuto,20539,Cornell
+2015,02/07,Edinboro Open,141,W,DEC,7 - 1,Sammy Gross,20221,Northwestern,Dylan Realbuto,20539,Cornell
+2015,02/07,Edinboro Open,141,L,DEC,8 - 6,Dennis Gustafson,11706,Virginia Tech,Dylan Realbuto,20539,Cornell
+2015,02/07,Edinboro Open,141,L,DEC,10 - 5,Cortlandt Schuyler,19989,Lehigh,Dylan Realbuto,20539,Cornell
+2015,02/07,Edinboro Open,141,W,MD,14 - 6,Adam Nichols,15924,Central Michigan,Dylan Realbuto,20539,Cornell
+2015,02/07,Cornell - Columbia Dual,157,W,TF4,16 - 1 5:00,Tyler Zimmer,19821,Columbia,Dylan Realbuto,20539,Cornell
+2015,11/23,New York State Championship,149,W,MD,10 - 0,Ryan Snow,40301,Bloomsburg,Dylan Realbuto,20539,Cornell
+2015,11/23,New York State Championship,149,L,MD,15 - 6,Gary Dinmore,23397,Unattached,Dylan Realbuto,20539,Cornell
+2015,11/23,New York State Championship,149,W,DEC,3 - 1,Trevor Hoffmier,19719,Buffalo,Dylan Realbuto,20539,Cornell
+2015,11/23,New York State Championship,149,W,DEC,6 - 3,Connor Muli,19928,Hofstra,Dylan Realbuto,20539,Cornell
+2015,11/23,New York State Championship,149,W,DEC,5 - 0,Lincoln Mallinger,15912,Army West Point,Dylan Realbuto,20539,Cornell
+2015,02/07,Edinboro Open,141,L,DEC,7 - 5,Connor Lapresi,11754,Bucknell,Ryan Dunphy,23949,Cornell
+2015,02/07,Edinboro Open,141,L,DEC,10 - 5,Kyle Springer,37484,Eastern Michigan,Ryan Dunphy,23949,Cornell
+2015,02/07,Edinboro Open,141,W,FALL,1:27,Avery Henry,20722,Edinboro,Ryan Dunphy,23949,Cornell
+2015,02/07,Edinboro Open,141,W,SV-1,3 - 1,Matt Kraus,11779,Arizona State,Ryan Dunphy,23949,Cornell
+2015,01/31,Lock Haven - Cornell Dual,141,L,MD,15 - 6,Robert Rehm,21101,Lock Haven,Ryan Dunphy,23949,Cornell
+2015,01/24,Pennsylvania - Cornell Dual,141,L,DEC,9 - 2,Jeff Canfora,11887,Pennsylvania,Ryan Dunphy,23949,Cornell
+2015,01/17,Harvard - Cornell Dual,141,L,TF4,20 - 3 5:18,Todd Preston,11608,Harvard,Ryan Dunphy,23949,Cornell
+2015,01/17,Brown - Cornell Dual,141,W,DEC,7 - 0,Anthony Finocchiaro,15133,Brown,Ryan Dunphy,23949,Cornell
+2015,01/10,Missouri - Cornell Dual,141,L,MD,11 - 1,Lavion Mayes,11599,Missouri,Ryan Dunphy,23949,Cornell
+2015,01/01,Southern Scuffle,141,L,SV-1,3 - 1,Tyler Small,11836,Kent State,Ryan Dunphy,23949,Cornell
+2015,01/01,Southern Scuffle,141,W,MD,18 - 6,Taylor French,13280,Navy,Ryan Dunphy,23949,Cornell
+2015,01/01,Southern Scuffle,141,W,DEC,1 - 0,Kyle Bauer,11922,Kent State,Ryan Dunphy,23949,Cornell
+2015,01/01,Southern Scuffle,141,W,SV-1,12 - 10,Michael Carlone,11736,Cleveland State,Ryan Dunphy,23949,Cornell
+2015,01/01,Southern Scuffle,141,L,FALL,1:43,Kade Moss,15933,Penn State,Ryan Dunphy,23949,Cornell
+2015,12/21,Edinboro - Cornell Dual,141,L,FALL,4:06,Mitchell Port,11732,Edinboro,Ryan Dunphy,23949,Cornell
+2015,02/07,Cornell - Hofstra Dual,141,L,MD,18 - 8,Jamel Hudson,12024,Hofstra,Nick Arujau,19822,Cornell
+2015,02/07,Cornell - Columbia Dual,141,W,DEC,3 - 2,Jacob Macalolooy,19813,Columbia,Nick Arujau,19822,Cornell
+2015,01/01,Southern Scuffle,141,L,MFOR,0 - 0,Joey Ward,11615,North Carolina,Nick Arujau,19822,Cornell
+2015,01/01,Southern Scuffle,141,W,DEC,14 - 13,John Meeks,11597,Iowa State,Nick Arujau,19822,Cornell
+2015,01/01,Southern Scuffle,141,L,MFOR,0 - 0,Kade Moss,15933,Penn State,Nick Arujau,19822,Cornell
+2015,01/01,Southern Scuffle,141,W,MFOR,0 - 0,Joe Spisak,11839,Virginia,Nick Arujau,19822,Cornell
+2015,12/21,Northern Iowa - Cornell Dual,141,W,TF4,16 - 0 3:59,Jake Hodges,11666,Northern Iowa,Nick Arujau,19822,Cornell
+2015,11/22,Oklahoma - Cornell Dual,141,L,SV-1,7 - 6,Trae Blackwell,20807,Oklahoma,Nick Arujau,19822,Cornell
+2015,02/07,Edinboro Open,141,L,DEC,8 - 4,Dennis Gustafson,11706,Virginia Tech,Eli Bienstock,11895,Cornell
+2015,02/07,Edinboro Open,141,L,MD,10 - 1,Brock Zacherl,19787,Clarion,Eli Bienstock,11895,Cornell
+2015,02/07,Edinboro Open,141,W,FALL,3:46,Koby Reyes,20580,Arizona State,Eli Bienstock,11895,Cornell
+2015,11/30,Mat Town,141,L,DEC,10 - 6,Kyle Springer,37484,Eastern Michigan,Eli Bienstock,11895,Cornell
+2015,11/30,Mat Town,141,W,FALL,1:54,Joel Rosko,21119,Clarion,Eli Bienstock,11895,Cornell
+2015,11/30,Mat Town,141,L,DEC,5 - 1,Brandon Lapi,19724,Buffalo,Eli Bienstock,11895,Cornell
+2015,11/30,Mat Town,141,W,DEC,3 - 0,Robert Ruiz,14975,Franklin & Marshall,Eli Bienstock,11895,Cornell
+2015,02/21,Minnesota - Cornell Dual (National Duals),141,L,MD,19 - 10,Nick Dardanes,13620,Minnesota,Logan David,15774,Cornell
+2015,02/15,Drexel - Cornell Dual,141,L,DEC,3 - 0,David Pearce,13379,Drexel,Logan David,15774,Cornell
+2015,01/30,Princeton - Cornell Dual,141,L,DEC,8 - 5,Jordan Laster,11916,Princeton,Logan David,15774,Cornell
+2015,01/25,Cornell - Lehigh Dual,141,L,DEC,3 - 0,Randy Cruz,11853,Lehigh,Logan David,15774,Cornell
+2015,01/01,Southern Scuffle,141,L,DEC,6 - 2,Kade Moss,15933,Penn State,Logan David,15774,Cornell
+2015,01/01,Southern Scuffle,141,L,DEC,8 - 4,Cole Mendenhall,11607,Wyoming,Logan David,15774,Cornell
+2015,11/23,New York State Championship,141,L,DEC,10 - 7,Cary Palmer,24870,Mercyhurst,Logan David,15774,Cornell
+2015,11/23,New York State Championship,141,W,DEC,3 - 2,Mark West,22907,Nassau Community College,Logan David,15774,Cornell
+2015,11/23,New York State Championship,141,W,DEC,7 - 3,Nick Wahba,44110,Unattached,Logan David,15774,Cornell
+2015,11/23,New York State Championship,141,W,MD,11 - 0,Quamaine Thomas,22906,CSU Bakersfield,Logan David,15774,Cornell
+2015,11/23,New York State Championship,141,L,DEC,2 - 0,Vincent Turano,23482,LIU,Logan David,15774,Cornell
+2015,11/23,New York State Championship,141,W,MFOR,0 - 0,Logan Everett,12041,Army West Point,Logan David,15774,Cornell
+2015,11/23,New York State Championship,141,W,DEC,3 - 2,Dylan Caruana,11934,Binghamton,Logan David,15774,Cornell
+2015,03/19,NCAA Championships,149,L,DEC,4 - 0,Drake Houdashelt,13640,Missouri,Chris Villalonga,13906,Cornell
+2015,03/19,NCAA Championships,149,W,DEC,4 - 2,Marcus Cain,14796,Duke,Chris Villalonga,13906,Cornell
+2015,03/19,NCAA Championships,149,L,DEC,6 - 3,Bryant Clagon,18514,Rider,Chris Villalonga,13906,Cornell
+2015,03/19,NCAA Championships,149,W,SV-1,6 - 4,Zack Beitz,11955,Penn State,Chris Villalonga,13906,Cornell
+2015,03/19,NCAA Championships,149,W,DEC,4 - 1,CJ Cobb,24217,Pennsylvania,Chris Villalonga,13906,Cornell
+2015,03/19,NCAA Championships,149,L,DEC,6 - 2,Brandon Sorensen,13456,Iowa,Chris Villalonga,13906,Cornell
+2015,03/06,EIWA Championships,149,W,DEC,2 - 0,Chris Perez,12006,Princeton,Chris Villalonga,13906,Cornell
+2015,03/06,EIWA Championships,149,W,TB-2,3 - 1,Matthew Cimato,11725,Drexel,Chris Villalonga,13906,Cornell
+2015,03/06,EIWA Championships,149,W,DEC,3 - 1,Nick Tighe,11751,Binghamton,Chris Villalonga,13906,Cornell
+2015,03/06,EIWA Championships,149,W,DEC,8 - 2,Drew Longo,18193,Lehigh,Chris Villalonga,13906,Cornell
+2015,02/22,Cornell - Lehigh Dual (National Duals),149,W,MD,11 - 2,Drew Longo,18193,Lehigh,Chris Villalonga,13906,Cornell
+2015,02/21,Cornell - Iowa Dual (National Duals),149,L,DEC,4 - 1,Brandon Sorensen,13456,Iowa,Chris Villalonga,13906,Cornell
+2015,02/21,Minnesota - Cornell Dual (National Duals),149,W,DEC,2 - 1,Jake Short,13599,Minnesota,Chris Villalonga,13906,Cornell
+2015,02/15,Drexel - Cornell Dual,149,W,MD,14 - 0,Matthew Cimato,11725,Drexel,Chris Villalonga,13906,Cornell
+2015,01/31,Lock Haven - Cornell Dual,149,W,DEC,3 - 2,Dan Neff,11761,Lock Haven,Chris Villalonga,13906,Cornell
+2015,01/30,Princeton - Cornell Dual,149,W,TF4,17 - 0 5:00,Nick Maselli,11791,Princeton,Chris Villalonga,13906,Cornell
+2015,01/25,Cornell - Lehigh Dual,149,W,DEC,9 - 5,Drew Longo,18193,Lehigh,Chris Villalonga,13906,Cornell
+2015,01/24,Pennsylvania - Cornell Dual,149,L,SV-1,4 - 2,CJ Cobb,24217,Pennsylvania,Chris Villalonga,13906,Cornell
+2015,01/17,Harvard - Cornell Dual,149,W,TF4,17 - 0 4:58,Nicholas Stager,11947,Harvard,Chris Villalonga,13906,Cornell
+2015,01/17,Brown - Cornell Dual,149,W,DEC,9 - 3,Steven Galiardo,11797,Brown,Chris Villalonga,13906,Cornell
+2015,12/21,Northern Iowa - Cornell Dual,149,W,DEC,4 - 0,Gunnar Wolfensperger,13604,Northern Iowa,Chris Villalonga,13906,Cornell
+2015,12/21,Edinboro - Cornell Dual,149,L,DEC,5 - 4,Dave Habat,13800,Edinboro,Chris Villalonga,13906,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,149,W,DEC,4 - 0,Alec Pantaleo,20020,Michigan,Chris Villalonga,13906,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,149,W,MD,10 - 2,Gabe Moreno,11816,Iowa State,Chris Villalonga,13906,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,149,W,MD,10 - 2,Preston McCalmon,13964,Arizona State,Chris Villalonga,13906,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,149,W,DEC,4 - 3,James Dekrone,20467,West Virginia,Chris Villalonga,13906,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,149,W,DEC,2 - 0,Cole Moseley,13717,American,Chris Villalonga,13906,Cornell
+2015,11/29,North Carolina State - Cornell Dual,149,W,DEC,4 - 0,Rodney Shepard,14784,NC State,Chris Villalonga,13906,Cornell
+2015,11/29,Kutztown - Cornell Dual,149,W,MD,14 - 2,Stanley Proctor,23318,Kutztown,Chris Villalonga,13906,Cornell
+2015,11/29,West Virginia - Cornell Dual,149,W,DEC,9 - 2,James Dekrone,20467,West Virginia,Chris Villalonga,13906,Cornell
+2015,11/22,Oklahoma - Cornell Dual,149,W,MD,13 - 4,Shayne Tucker,14788,Oklahoma,Chris Villalonga,13906,Cornell
+2015,11/09,Bearcat Open,149,W,DEC,6 - 1,Aaron Hartman,19926,Hofstra,Chris Villalonga,13906,Cornell
+2015,11/09,Bearcat Open,149,W,DEC,8 - 5,Ian Brown,20549,Lehigh,Joseph Galasso,40376,Cornell
+2015,11/02,Clarion Open,149,W,DEC,8 - 2,Trevor Willson,13714,Utah Valley,Joseph Galasso,40376,Cornell
+2015,11/02,Clarion Open,149,W,DEC,3 - 1,Victor Lopez,11886,Bucknell,Joseph Galasso,40376,Cornell
+2015,11/23,New York State Championship,149,L,MFOR,0 - 0,Richard Dennison,22909,CSU Bakersfield,Griffin Higginbotham,19825,Cornell
+2015,11/23,New York State Championship,149,L,DEC,7 - 3,Laken Cook,23585,Spartan Combat RTC,Griffin Higginbotham,19825,Cornell
+2015,11/23,New York State Championship,149,W,TB-1,4 - 1,Cory Gillilland-Daniel,22024,North Carolina,Griffin Higginbotham,19825,Cornell
+2015,03/19,NCAA Championships,157,L,MD,10 - 2,Isaiah Martinez,13466,Illinois,Brian Realbuto,13519,Cornell
+2015,03/19,NCAA Championships,157,W,SV-1,11 - 9,Ian Miller,11851,Kent State,Brian Realbuto,13519,Cornell
+2015,03/19,NCAA Championships,157,W,MD,9 - 0,Oliver Pierce,20578,Arizona State,Brian Realbuto,13519,Cornell
+2015,03/19,NCAA Championships,157,W,TF4,17 - 0 5:47,Anthony Collica,11723,Oklahoma State,Brian Realbuto,13519,Cornell
+2015,03/19,NCAA Championships,157,W,INJ,7:00,Dylan Ness,13472,Minnesota,Brian Realbuto,13519,Cornell
+2015,03/06,EIWA Championships,157,W,MD,12 - 2,Brooks Martino,20316,Pennsylvania,Brian Realbuto,13519,Cornell
+2015,03/06,EIWA Championships,157,W,MD,12 - 3,Russell Parsons,19642,Army West Point,Brian Realbuto,13519,Cornell
+2015,03/06,EIWA Championships,157,W,DEC,6 - 3,Rustin Barrick,11515,Bucknell,Brian Realbuto,13519,Cornell
+2015,03/06,EIWA Championships,157,W,DEC,6 - 1,John Boyle,13875,American,Brian Realbuto,13519,Cornell
+2015,02/22,Cornell - Lehigh Dual (National Duals),157,W,DEC,5 - 3,Mitch Minotti,13880,Lehigh,Brian Realbuto,13519,Cornell
+2015,02/21,Cornell - Iowa Dual (National Duals),157,W,DEC,10 - 7,Michael Kelly,13998,Iowa,Brian Realbuto,13519,Cornell
+2015,02/21,Minnesota - Cornell Dual (National Duals),157,W,DEC,9 - 3,Dylan Ness,13472,Minnesota,Brian Realbuto,13519,Cornell
+2015,02/15,Drexel - Cornell Dual,157,W,MD,10 - 1,Noel Blanco,11950,Drexel,Brian Realbuto,13519,Cornell
+2015,02/07,Cornell - Hofstra Dual,157,W,MD,12 - 2,Jahlani Callender,13882,Hofstra,Brian Realbuto,13519,Cornell
+2015,01/30,Princeton - Cornell Dual,157,W,DEC,8 - 1,Rich Eva,20334,Princeton,Brian Realbuto,13519,Cornell
+2015,01/25,Cornell - Lehigh Dual,157,W,DEC,11 - 8,Mitch Minotti,13880,Lehigh,Brian Realbuto,13519,Cornell
+2015,01/24,Pennsylvania - Cornell Dual,157,W,DEC,7 - 2,Brooks Martino,20316,Pennsylvania,Brian Realbuto,13519,Cornell
+2015,01/17,Harvard - Cornell Dual,157,W,TF4,17 - 0 6:43,Tyler Tarsi,19922,Harvard,Brian Realbuto,13519,Cornell
+2015,01/17,Brown - Cornell Dual,157,W,DEC,3 - 0,Justin Staudenmayer,15115,Brown,Brian Realbuto,13519,Cornell
+2015,01/10,Missouri - Cornell Dual,157,W,DEC,6 - 4,Joey Lavallee,13513,Missouri,Brian Realbuto,13519,Cornell
+2015,01/01,Southern Scuffle,157,W,DEC,11 - 4,Austin Sams,14020,Chattanooga,Brian Realbuto,13519,Cornell
+2015,01/01,Southern Scuffle,157,W,DEC,5 - 4,Kamaal Shakur,19778,Chattanooga,Brian Realbuto,13519,Cornell
+2015,01/01,Southern Scuffle,157,L,DEC,7 - 4,Jason Nolf,20303,Penn State,Brian Realbuto,13519,Cornell
+2015,01/01,Southern Scuffle,157,L,FALL,1:17,Dylan Alton,16643,Penn State,Brian Realbuto,13519,Cornell
+2015,01/01,Southern Scuffle,157,W,DEC,7 - 1,Joey Lavallee,13513,Missouri,Brian Realbuto,13519,Cornell
+2015,02/07,Cornell - Columbia Dual,165,W,DEC,4 - 3,Tyrel White,19820,Columbia,Craig Eifert,14793,Cornell
+2015,01/31,Lock Haven - Cornell Dual,157,W,MD,13 - 0,Kyle Hammond,20591,Lock Haven,Craig Eifert,14793,Cornell
+2015,01/17,Harvard - Cornell Dual,174,W,DEC,10 - 9,Josef Johnson,19914,Harvard,Craig Eifert,14793,Cornell
+2015,01/01,Southern Scuffle,157,L,DEC,3 - 2,Chris Mears,20116,North Carolina,Craig Eifert,14793,Cornell
+2015,01/01,Southern Scuffle,157,L,MD,12 - 4,James Green,13471,Nebraska,Craig Eifert,14793,Cornell
+2015,01/01,Southern Scuffle,157,W,DEC,7 - 4,Cody Law,15263,Penn State,Craig Eifert,14793,Cornell
+2015,01/01,Southern Scuffle,157,W,DEC,6 - 3,Trevor Wiest,11640,Missouri,Craig Eifert,14793,Cornell
+2015,12/21,Northern Iowa - Cornell Dual,157,W,DEC,6 - 4,Jarrett Jensen,13534,Northern Iowa,Craig Eifert,14793,Cornell
+2015,12/21,Edinboro - Cornell Dual,157,W,DEC,6 - 4,Kasey Davis,14868,Edinboro,Craig Eifert,14793,Cornell
+2015,11/23,New York State Championship,157,L,DEC,8 - 7,Chris Dowdy,15303,Cornell,Craig Eifert,14793,Cornell
+2015,11/23,New York State Championship,157,W,FALL,5:00,Tyler Oberg,19816,Columbia,Craig Eifert,14793,Cornell
+2015,11/23,New York State Championship,157,W,FALL,1:23,Ben Villaret,14879,Columbia,Craig Eifert,14793,Cornell
+2015,11/09,Bearcat Open,157,W,MD,12 - 2,Cory Goshkagarian,18239,Hofstra,Craig Eifert,14793,Cornell
+2015,11/02,Michigan State Open,157,W,FALL,2:36,Doug Welch,14760,Purdue,Craig Eifert,14793,Cornell
+2015,11/02,Michigan State Open,157,W,MD,8 - 0,Justin Melick,15201,Eastern Michigan,Craig Eifert,14793,Cornell
+2015,11/02,Michigan State Open,157,L,DEC,1 - 0,Andrew Romanchik,13530,Ohio,Craig Eifert,14793,Cornell
+2015,11/02,Michigan State Open,157,L,DEC,5 - 0,Andrew Romanchik,13530,Ohio,Craig Eifert,14793,Cornell
+2015,11/02,Michigan State Open,157,W,MD,10 - 2,Robert Hughes,11553,Michigan State,Craig Eifert,14793,Cornell
+2015,01/01,Southern Scuffle,157,L,MD,13 - 1,Immanuel Kerr-Brown,13770,Duke,Chris Dowdy,15303,Cornell
+2015,01/01,Southern Scuffle,157,L,DEC,10 - 4,Archie Colgan,15555,Wyoming,Chris Dowdy,15303,Cornell
+2015,11/23,New York State Championship,157,W,MD,18 - 5,Kyle Simaz,40378,Spartan Combat RTC,Chris Dowdy,15303,Cornell
+2015,11/23,New York State Championship,157,W,DEC,8 - 7,Craig Eifert,14793,Cornell,Chris Dowdy,15303,Cornell
+2015,11/23,New York State Championship,157,W,DEC,6 - 1,Tyler Zimmer,19821,Columbia,Chris Dowdy,15303,Cornell
+2015,11/23,New York State Championship,157,W,TF4,16 - 1 7:00,Javier Rodriguez,14925,Army West Point,Chris Dowdy,15303,Cornell
+2015,11/23,New York State Championship,157,W,DEC,4 - 3,Joe Mastro,19657,Binghamton,Chris Dowdy,15303,Cornell
+2015,11/16,East Stroudsburg Open,157,W,TF4,15 - 0 7:00,Kyle Bova,20587,Lock Haven,David Cisneros,22518,Cornell
+2015,11/16,East Stroudsburg Open,157,L,DEC,5 - 3,Joe Mastro,19657,Binghamton,David Cisneros,22518,Cornell
+2015,11/15,East Stroudsburg Open,157,L,DEC,6 - 2,Jason Nolf,20303,Penn State,David Cisneros,22518,Cornell
+2015,11/15,East Stroudsburg Open,157,L,DEC,5 - 3,Joe Mastro,19657,Binghamton,David Cisneros,22518,Cornell
+2015,11/15,East Stroudsburg Open,157,W,DEC,2 - 0,Drew Daniels,20601,Navy,David Cisneros,22518,Cornell
+2015,11/15,East Stroudsburg Open,157,W,TF4,15 - 0 7:00,Justin Becker,14031,Unattached,David Cisneros,22518,Cornell
+2015,11/15,East Stroudsburg Open,157,W,TF4,15 - 0 7:00,Kyle Bova,20587,Lock Haven,David Cisneros,22518,Cornell
+2015,11/15,East Stroudsburg Open,157,W,DEC,5 - 4,Ray Bethea,13502,Pennsylvania,David Cisneros,22518,Cornell
+2015,02/07,Cornell - Hofstra Dual,149,W,FALL,2:27,Alex Mirante,15936,Hofstra,Taylor Simaz,13490,Cornell
+2015,02/07,Cornell - Columbia Dual,149,W,DEC,8 - 3,Connor Sutton,11786,Columbia,Taylor Simaz,13490,Cornell
+2015,01/10,Missouri - Cornell Dual,149,L,MD,10 - 0,Drake Houdashelt,13640,Missouri,Taylor Simaz,13490,Cornell
+2015,01/01,Southern Scuffle,149,L,DEC,4 - 3,Ryan Mosley,11753,Gardner-Webb,Taylor Simaz,13490,Cornell
+2015,01/01,Southern Scuffle,149,L,DEC,7 - 1,Drake Houdashelt,13640,Missouri,Taylor Simaz,13490,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,157,L,MD,13 - 3,Alex Elder,18158,Oregon State,Taylor Simaz,13490,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,MD,15 - 6,Nolan Kistler,21242,Cal Baptist,Taylor Simaz,13490,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,DEC,8 - 1,Luke Blanton,13850,Indiana,Taylor Simaz,13490,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,157,W,MD,13 - 1,Ryan Slaugh,21684,Western Colorado,Taylor Simaz,13490,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,157,L,DEC,2 - 0,Russell Parsons,19642,Army West Point,Taylor Simaz,13490,Cornell
+2015,11/29,North Carolina State - Cornell Dual,157,L,DEC,5 - 2,Chad Pyke,13555,NC State,Taylor Simaz,13490,Cornell
+2015,11/29,Kutztown - Cornell Dual,157,W,DEC,8 - 6,Matt Martoccio,21287,Kutztown,Taylor Simaz,13490,Cornell
+2015,11/29,West Virginia - Cornell Dual,157,W,MD,10 - 2,George Scheffel,13588,West Virginia,Taylor Simaz,13490,Cornell
+2015,11/23,New York State Championship,157,W,MFOR,0 - 0,Evan Wallace,22908,Limestone,Taylor Simaz,13490,Cornell
+2015,11/23,New York State Championship,157,W,DEC,9 - 2,Raymond Jazikoff,22892,New Mexico Highlands,Taylor Simaz,13490,Cornell
+2015,11/23,New York State Championship,157,W,MD,17 - 4,Alex Smythe,19730,Buffalo,Taylor Simaz,13490,Cornell
+2015,11/23,New York State Championship,157,L,DEC,4 - 1,Russell Parsons,19642,Army West Point,Taylor Simaz,13490,Cornell
+2015,11/23,New York State Championship,157,L,DEC,6 - 4,Vincent DePrez,19651,Binghamton,Taylor Simaz,13490,Cornell
+2015,11/22,Oklahoma - Cornell Dual,157,L,DEC,7 - 3,Justin DeAngelis,20257,Oklahoma,Taylor Simaz,13490,Cornell
+2015,03/19,NCAA Championships,165,L,DEC,7 - 6,Nick Sulzer,11483,Virginia,Dylan Palacio,11481,Cornell
+2015,03/19,NCAA Championships,165,W,DEC,8 - 6,Dakota Friesth,11519,Wyoming,Dylan Palacio,11481,Cornell
+2015,03/19,NCAA Championships,165,W,MD,14 - 4,Troy Reaghard,20328,Pittsburgh,Dylan Palacio,11481,Cornell
+2015,03/19,NCAA Championships,165,L,DEC,7 - 2,Bo Jordan,14840,Ohio State,Dylan Palacio,11481,Cornell
+2015,03/06,EIWA Championships,165,L,MFOR,0 - 0,Peyton Walsh,11485,Navy,Dylan Palacio,11481,Cornell
+2015,03/06,EIWA Championships,165,W,FALL,6:42,Devon Gobbo,18139,Harvard,Dylan Palacio,11481,Cornell
+2015,03/06,EIWA Championships,165,W,FALL,0:44,Andrew Francos,15154,Franklin & Marshall,Dylan Palacio,11481,Cornell
+2015,03/06,EIWA Championships,165,W,DEC,5 - 3,Cole Gracey,11479,Army West Point,Dylan Palacio,11481,Cornell
+2015,02/22,Cornell - Lehigh Dual (National Duals),165,W,DEC,6 - 4,Marshall Peppelman,22444,Lehigh,Dylan Palacio,11481,Cornell
+2015,02/21,Cornell - Iowa Dual (National Duals),165,W,DEC,5 - 4,Nick Moore,11454,Iowa,Dylan Palacio,11481,Cornell
+2015,02/21,Minnesota - Cornell Dual (National Duals),165,W,TF5,18 - 2 7:00,Nick Wanzek,11511,Minnesota,Dylan Palacio,11481,Cornell
+2015,02/15,Drexel - Cornell Dual,165,W,FALL,2:06,Nick Elmer,15530,Drexel,Dylan Palacio,11481,Cornell
+2015,02/07,Cornell - Hofstra Dual,165,W,FALL,3:51,Nick Terdick,14764,Hofstra,Dylan Palacio,11481,Cornell
+2015,01/30,Princeton - Cornell Dual,165,W,DEC,11 - 5,Jonathan Schleifer,20340,Princeton,Dylan Palacio,11481,Cornell
+2015,01/25,Cornell - Lehigh Dual,165,W,DEC,9 - 3,Marshall Peppelman,22444,Lehigh,Dylan Palacio,11481,Cornell
+2015,01/24,Pennsylvania - Cornell Dual,165,W,FALL,2:30,Ray Bethea,13502,Pennsylvania,Dylan Palacio,11481,Cornell
+2015,01/17,Harvard - Cornell Dual,165,W,TF4,20 - 4 4:38,Tyler Grimaldi,13501,Harvard,Dylan Palacio,11481,Cornell
+2015,01/17,Brown - Cornell Dual,165,W,FALL,4:30,Laurent Remillard,22484,Brown,Dylan Palacio,11481,Cornell
+2015,01/10,Missouri - Cornell Dual,165,W,DEC,9 - 4,Michael England,20057,Missouri,Dylan Palacio,11481,Cornell
+2015,01/01,Southern Scuffle,165,W,DEC,10 - 5,Dustin Williams,20108,Nebraska,Dylan Palacio,11481,Cornell
+2015,01/01,Southern Scuffle,165,W,DEC,8 - 2,Jordan Wohlfert,19762,Central Michigan,Dylan Palacio,11481,Cornell
+2015,01/01,Southern Scuffle,165,L,MD,13 - 5,Cole Gracey,11479,Army West Point,Dylan Palacio,11481,Cornell
+2015,01/01,Southern Scuffle,165,L,DEC,11 - 10,Chance Marsteller,47805,Oklahoma State,Dylan Palacio,11481,Cornell
+2015,01/01,Southern Scuffle,165,W,DEC,6 - 5,Marshall Peppelman,22444,Lehigh,Dylan Palacio,11481,Cornell
+2015,12/21,Edinboro - Cornell Dual,165,W,MD,13 - 4,Casey Fuller,14860,Edinboro,Dylan Palacio,11481,Cornell
+2015,01/31,Lock Haven - Cornell Dual,165,W,DEC,6 - 2,Dillon Gavlock,13920,Lock Haven,Jesse Shanaman,12299,Cornell
+2015,01/17,Brown - Cornell Dual,174,L,DEC,7 - 3,Ricky McDonald,12789,Brown,Jesse Shanaman,12299,Cornell
+2015,01/10,Missouri - Cornell Dual,174,L,DEC,7 - 0,Johnny Eblen,12537,Missouri,Jesse Shanaman,12299,Cornell
+2015,01/01,Southern Scuffle,165,W,DEC,2 - 0,Rrok Ndokaj,12255,Buffalo,Jesse Shanaman,12299,Cornell
+2015,01/01,Southern Scuffle,165,L,DEC,4 - 3,Garett Hammond,14829,Penn State,Jesse Shanaman,12299,Cornell
+2015,01/01,Southern Scuffle,165,L,DEC,4 - 0,Michael England,20057,Missouri,Jesse Shanaman,12299,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,165,L,MD,13 - 0,Nick Sulzer,11483,Virginia,Jesse Shanaman,12299,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,165,W,DEC,2 - 0,Terrell Forbes,12362,The Citadel,Jesse Shanaman,12299,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,165,L,MD,16 - 7,Jacen Petersen,20577,Arizona State,Jesse Shanaman,12299,Cornell
+2015,11/29,North Carolina State - Cornell Dual,165,L,DEC,6 - 2,Max Rohskopf,13645,NC State,Jesse Shanaman,12299,Cornell
+2015,11/29,Kutztown - Cornell Dual,165,W,FALL,4:17,Brandon Parker,22651,Kutztown,Jesse Shanaman,12299,Cornell
+2015,11/29,West Virginia - Cornell Dual,165,W,DEC,1 - 0,Tim Wheeling,20564,West Virginia,Jesse Shanaman,12299,Cornell
+2015,11/23,New York State Championship,157,L,MFOR,0 - 0,Nick Velez,42692,Unattached,Jesse Shanaman,12299,Cornell
+2015,11/23,New York State Championship,165,L,MFOR,0 - 0,Ryan Therrien,14813,Buffalo,Jesse Shanaman,12299,Cornell
+2015,11/23,New York State Championship,165,W,MD,8 - 0,Jesse Bader,21569,Unattached,Jesse Shanaman,12299,Cornell
+2015,11/23,New York State Championship,165,W,DEC,4 - 0,Austin Coniker,12803,Columbia,Jesse Shanaman,12299,Cornell
+2015,11/22,Oklahoma - Cornell Dual,165,W,DEC,4 - 1,Clark Glass,11488,Oklahoma,Jesse Shanaman,12299,Cornell
+2015,11/30,Mat Town,165,L,FALL,1:37,Dillon Gavlock,13920,Lock Haven,Matthew Russo,19828,Cornell
+2015,11/30,Mat Town,165,L,DEC,6 - 1,Colin Gironda,12825,Franklin & Marshall,Matthew Russo,19828,Cornell
+2015,11/23,New York State Championship,165,L,DEC,5 - 0,Codie Nichols,15486,Unattached,Matthew Russo,19828,Cornell
+2015,11/23,New York State Championship,165,W,DEC,7 - 4,Ryan Marriott,22913,Unattached,Matthew Russo,19828,Cornell
+2015,11/23,New York State Championship,165,L,MD,9 - 1,Anthony DePrez,19650,Binghamton,Matthew Russo,19828,Cornell
+2015,03/19,NCAA Championships,174,L,DEC,6 - 5,Matt Reed,15381,Oklahoma,Duke Pickett,12281,Cornell
+2015,03/19,NCAA Championships,174,L,TB-1,5 - 3,Cody Walters,12401,Ohio,Duke Pickett,12281,Cornell
+2015,03/06,EIWA Championships,174,W,DEC,7 - 1,Shane Hughes,12257,Columbia,Duke Pickett,12281,Cornell
+2015,03/06,EIWA Championships,174,L,DEC,3 - 2,Jadaen Bernstein,20595,Navy,Duke Pickett,12281,Cornell
+2015,03/06,EIWA Championships,174,W,TB-3,3 - 2,Brian Harvey,12302,Army West Point,Duke Pickett,12281,Cornell
+2015,03/06,EIWA Championships,174,W,MD,17 - 9,Jason Grimes,12276,American,Duke Pickett,12281,Cornell
+2015,03/06,EIWA Championships,174,W,DEC,5 - 4,Ricky McDonald,12789,Brown,Duke Pickett,12281,Cornell
+2015,02/22,Cornell - Lehigh Dual (National Duals),174,L,DEC,2 - 1,Santiago Martinez,19981,Lehigh,Duke Pickett,12281,Cornell
+2015,02/21,Cornell - Iowa Dual (National Duals),174,L,DEC,3 - 0,Mike Evans,12244,Iowa,Duke Pickett,12281,Cornell
+2015,02/21,Minnesota - Cornell Dual (National Duals),174,L,DEC,7 - 5,Logan Storley,12266,Minnesota,Duke Pickett,12281,Cornell
+2015,02/15,Drexel - Cornell Dual,174,W,DEC,4 - 1,Stephen Loiseau,19851,Drexel,Duke Pickett,12281,Cornell
+2015,02/07,Cornell - Hofstra Dual,174,W,DEC,3 - 0,Frank Affronti,12301,Hofstra,Duke Pickett,12281,Cornell
+2015,02/07,Cornell - Columbia Dual,174,W,DEC,7 - 2,Shane Hughes,12257,Columbia,Duke Pickett,12281,Cornell
+2015,01/31,Lock Haven - Cornell Dual,174,W,MD,13 - 2,Tyler Wood,12415,Lock Haven,Duke Pickett,12281,Cornell
+2015,01/30,Princeton - Cornell Dual,174,W,DEC,8 - 3,Judd Ziegler,11464,Princeton,Duke Pickett,12281,Cornell
+2015,01/25,Cornell - Lehigh Dual,174,W,DEC,5 - 4,Santiago Martinez,19981,Lehigh,Duke Pickett,12281,Cornell
+2015,01/24,Pennsylvania - Cornell Dual,174,W,SV-1,7 - 5,Brad Wukie,12796,Pennsylvania,Duke Pickett,12281,Cornell
+2015,01/01,Southern Scuffle,174,W,DEC,4 - 1,Michael Vollant,14777,Kent State,Duke Pickett,12281,Cornell
+2015,01/01,Southern Scuffle,174,L,MFOR,0 - 0,Brian Harvey,12302,Army West Point,Duke Pickett,12281,Cornell
+2015,01/01,Southern Scuffle,174,W,DEC,8 - 3,Forrest Przybysz,12877,Appalachian State,Duke Pickett,12281,Cornell
+2015,01/01,Southern Scuffle,174,W,SV-1,3 - 1,Cody Johnston,12284,Missouri,Duke Pickett,12281,Cornell
+2015,01/01,Southern Scuffle,174,L,FALL,2:10,Johnny Eblen,12537,Missouri,Duke Pickett,12281,Cornell
+2015,12/21,Northern Iowa - Cornell Dual,174,W,DEC,4 - 1,Curt Maas,11528,Northern Iowa,Duke Pickett,12281,Cornell
+2015,12/21,Edinboro - Cornell Dual,174,W,MD,13 - 2,Zach Towers,11458,Edinboro,Duke Pickett,12281,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,174,L,MD,11 - 0,Pete Renda,12371,NC State,Duke Pickett,12281,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,174,W,DEC,4 - 1,Brian Harvey,12302,Army West Point,Duke Pickett,12281,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,174,W,DEC,16 - 10,Jeric Kasunic,19615,American,Duke Pickett,12281,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,174,W,DEC,11 - 4,Kenneth Radford,11480,The Citadel,Duke Pickett,12281,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,174,L,DEC,1 - 0,Phillip Bakuckas,12289,Rutgers,Duke Pickett,12281,Cornell
+2015,11/29,North Carolina State - Cornell Dual,174,W,DEC,5 - 3,Pete Renda,12371,NC State,Duke Pickett,12281,Cornell
+2015,11/23,New York State Championship,174,W,DEC,4 - 1,Muhamid McBryde,15128,Buffalo,Duke Pickett,12281,Cornell
+2015,11/23,New York State Championship,174,W,MD,11 - 1,Zakaria Small,22910,Nassau Community College,Duke Pickett,12281,Cornell
+2015,11/23,New York State Championship,174,W,DEC,3 - 2,Brian Harvey,12302,Army West Point,Duke Pickett,12281,Cornell
+2015,11/23,New York State Championship,174,W,DEC,6 - 0,Steve Schneider,19660,Binghamton,Duke Pickett,12281,Cornell
+2015,11/09,Bearcat Open,174,W,DEC,9 - 3,Devon Van Cura,20306,Penn State,Duke Pickett,12281,Cornell
+2015,11/09,Bearcat Open,174,L,DEC,7 - 5,Bo Nickal,20302,Penn State,Duke Pickett,12281,Cornell
+2015,02/07,Edinboro Open,174,W,FALL,7:00,Antavian Leary,22352,Virginia Tech,Dillon Artigliere,24625,Cornell
+2015,02/07,Edinboro Open,174,W,FALL,1:55,Matt Lemanowicz,20061,Missouri,Dillon Artigliere,24625,Cornell
+2015,02/07,Edinboro Open,174,L,DEC,6 - 4,Ray Waters,15279,Arizona State,Dillon Artigliere,24625,Cornell
+2015,02/07,Edinboro Open,174,W,MFOR,0 - 0,Hunter Rollins,19760,Central Michigan,Dillon Artigliere,24625,Cornell
+2015,01/18,Shorty Hitchcock Memorial Open,174,W,MFOR,0 - 0,Ryan Wolfe,12552,Rider,Dillon Artigliere,24625,Cornell
+2015,12/13,Cleveland State Open,174,W,MD,14 - 4,Austin Weigel,15015,Buffalo,Dillon Artigliere,24625,Cornell
+2015,12/13,Cleveland State Open,174,L,DEC,8 - 3,Johnny Sebastian,20224,Northwestern,Dillon Artigliere,24625,Cornell
+2015,12/13,Cleveland State Open,174,L,DEC,9 - 4,Jacob Davis,11492,Eastern Michigan,Dillon Artigliere,24625,Cornell
+2015,12/07,Nittany Lion Open,174,W,DEC,8 - 4,Travis Moyer,12792,Lock Haven,Dillon Artigliere,24625,Cornell
+2015,12/07,Nittany Lion Open,174,L,DEC,6 - 2,Patrick Jennings,12254,Edinboro,Dillon Artigliere,24625,Cornell
+2015,11/30,Mat Town,174,W,FALL,6:45,Travis Moyer,12792,Lock Haven,Dillon Artigliere,24625,Cornell
+2015,11/30,Mat Town,174,L,DEC,12 - 10,David Fenton,12860,Rider,Dillon Artigliere,24625,Cornell
+2015,11/30,Mat Town,174,L,DEC,11 - 4,Jake Weber,19731,Buffalo,Dillon Artigliere,24625,Cornell
+2015,11/30,Mat Town,174,W,FALL,4:00,Gordon Bolig,18524,Franklin & Marshall,Dillon Artigliere,24625,Cornell
+2015,11/23,New York State Championship,174,W,MD,16 - 4,Jack Wedholm,19646,Army West Point,Dillon Artigliere,24625,Cornell
+2015,11/02,Clarion Open,174,W,DEC,1 - 0,Michale Fagg-Daves,20352,Rider,Dillon Artigliere,24625,Cornell
+2015,01/01,Southern Scuffle,174,L,DEC,9 - 5,Brett Stein,12807,Gardner-Webb,Ty Walter,40437,Cornell
+2015,01/01,Southern Scuffle,174,L,DEC,11 - 5,Randy Roden,19867,Duke,Ty Walter,40437,Cornell
+2015,01/01,Southern Scuffle,174,W,DEC,11 - 10,Gabe Stark,16682,Cleveland State,Ty Walter,40437,Cornell
+2015,12/07,Nittany Lion Open,174,W,FALL,4:12,Dom Lincalis,23400,Lock Haven,Ty Walter,40437,Cornell
+2015,12/07,Nittany Lion Open,174,W,DEC,12 - 8,Jack Wedholm,19646,Army West Point,Ty Walter,40437,Cornell
+2015,12/07,Nittany Lion Open,174,W,DEC,7 - 3,Rex Lutz,12658,Penn State,Ty Walter,40437,Cornell
+2015,12/07,Nittany Lion Open,174,L,FALL,2:40,Matt Brown,12256,Penn State,Ty Walter,40437,Cornell
+2015,12/07,Nittany Lion Open,174,W,DEC,6 - 4,Patrick Jennings,12254,Edinboro,Ty Walter,40437,Cornell
+2015,11/30,Mat Town,174,W,MD,14 - 6,Dontez King,12826,Lock Haven,Ty Walter,40437,Cornell
+2015,11/30,Mat Town,174,L,DEC,6 - 4,Tyler Wood,12415,Lock Haven,Ty Walter,40437,Cornell
+2015,11/30,Mat Town,174,L,MFOR,0 - 0,David Fenton,12860,Rider,Ty Walter,40437,Cornell
+2015,11/23,New York State Championship,184,W,TF4,16 - 1 2:13,Brett Perry,19726,Buffalo,Ty Walter,40437,Cornell
+2015,11/23,New York State Championship,184,L,DEC,5 - 2,William George,12607,Cornell,Ty Walter,40437,Cornell
+2015,11/23,New York State Championship,184,W,FALL,1:38,Daniel Choi,13074,Cornell,Ty Walter,40437,Cornell
+2015,11/23,New York State Championship,184,W,TF4,17 - 1 4:32,Chris Loew,22885,Columbia,Ty Walter,40437,Cornell
+2015,11/09,Bearcat Open,174,L,FALL,5:00,Bo Nickal,20302,Penn State,Ty Walter,40437,Cornell
+2015,11/02,Clarion Open,174,W,DEC,9 - 4,Joey Krulock,12790,Bucknell,Ty Walter,40437,Cornell
+2015,02/07,Edinboro Open,197,L,DEC,5 - 4,Jacob Berkowitz,12585,Northwestern,Jacob Taylor,41354,Cornell
+2015,02/07,Edinboro Open,197,L,DEC,5 - 4,Dustin Conti,12468,Clarion,Jacob Taylor,41354,Cornell
+2015,02/07,Edinboro Open,197,W,DEC,6 - 0,Regis Durbin,20220,Northwestern,Jacob Taylor,41354,Cornell
+2015,02/07,Edinboro Open,197,W,DEC,3 - 1,Matt Moore,13071,Lock Haven,Jacob Taylor,41354,Cornell
+2015,01/01,Southern Scuffle,174,L,FALL,0:56,Hunter Gamble,12878,Gardner-Webb,Jacob Taylor,41354,Cornell
+2015,01/01,Southern Scuffle,174,W,SV-1,3 - 1,John Keck,15495,Navy,Jacob Taylor,41354,Cornell
+2015,01/01,Southern Scuffle,174,L,DEC,14 - 9,McCoy Newberg,19777,Chattanooga,Jacob Taylor,41354,Cornell
+2015,11/29,Kutztown - Cornell Dual,174,W,FALL,4:48,Julio Arredondo,22504,Kutztown,Jacob Taylor,41354,Cornell
+2015,11/29,West Virginia - Cornell Dual,174,W,DEC,7 - 6,Ross Renzi,11474,West Virginia,Jacob Taylor,41354,Cornell
+2015,11/23,New York State Championship,174,W,DEC,3 - 2,Muhamid McBryde,15128,Buffalo,Jacob Taylor,41354,Cornell
+2015,11/23,New York State Championship,174,W,MD,11 - 3,Shaun Gillen,22911,Limestone,Jacob Taylor,41354,Cornell
+2015,11/23,New York State Championship,174,W,DEC,3 - 2,Frank Affronti,12301,Hofstra,Jacob Taylor,41354,Cornell
+2015,11/23,New York State Championship,174,L,MD,14 - 5,Brandon Womack,40379,Spartan Combat RTC,Jacob Taylor,41354,Cornell
+2015,11/23,New York State Championship,174,W,DEC,5 - 0,Dominic Holder,22903,Nassau Community College,Jacob Taylor,41354,Cornell
+2015,11/23,New York State Championship,174,W,DEC,8 - 2,Tim Byrnes,22902,CSU Bakersfield,Jacob Taylor,41354,Cornell
+2015,11/23,New York State Championship,174,L,DEC,6 - 3,James Shreck,41359,Brockport,Jacob Taylor,41354,Cornell
+2015,11/23,New York State Championship,174,L,MD,12 - 1,Brian Harvey,12302,Army West Point,Jacob Taylor,41354,Cornell
+2015,11/23,New York State Championship,174,W,DEC,3 - 1,Steve Schneider,19660,Binghamton,Jacob Taylor,41354,Cornell
+2015,11/16,East Stroudsburg Open,174,W,DEC,8 - 2,STEPHEN JARRELL,22594,Johnson & Wales,Jacob Taylor,41354,Cornell
+2015,11/15,East Stroudsburg Open,174,W,MFOR,0 - 0,Jason Fugiel,11472,Drexel,Jacob Taylor,41354,Cornell
+2015,11/15,East Stroudsburg Open,174,L,FALL,2:01,Seth Martin,23061,Unattached,Jacob Taylor,41354,Cornell
+2015,11/15,East Stroudsburg Open,174,W,DEC,8 - 2,STEPHEN JARRELL,22594,Johnson & Wales,Jacob Taylor,41354,Cornell
+2015,11/15,East Stroudsburg Open,174,W,FALL,7:00,Danny Moore,22560,Unattached,Jacob Taylor,41354,Cornell
+2015,11/15,East Stroudsburg Open,174,W,DEF,7:00,Jason Fugiel,11472,Drexel,Jacob Taylor,41354,Cornell
+2015,11/15,East Stroudsburg Open,174,L,DEC,8 - 6,Joe Heyob,20314,Pennsylvania,Jacob Taylor,41354,Cornell
+2015,11/15,East Stroudsburg Open,174,W,DEC,5 - 1,Jake Weber,19731,Buffalo,Jacob Taylor,41354,Cornell
+2015,11/15,East Stroudsburg Open,174,W,DEC,14 - 7,Domenico Celli,20826,Sacred Heart,Jacob Taylor,41354,Cornell
+2015,11/09,Bearcat Open,174,W,DEC,5 - 2,Jagger Rebozo,21593,CSU Bakersfield,Jacob George,42699,Cornell
+2015,03/19,NCAA Championships,184,W,DEC,6 - 2,Nathaniel Brown,12538,Lehigh,Gabe Dean,12580,Cornell
+2015,03/19,NCAA Championships,184,W,TB-2,4 - 3,Vic Avery,12614,Edinboro,Gabe Dean,12580,Cornell
+2015,03/19,NCAA Championships,184,W,DEC,9 - 8,TJ Dudley,12526,Nebraska,Gabe Dean,12580,Cornell
+2015,03/19,NCAA Championships,184,W,MD,10 - 1,Patrick Kissel,12339,Purdue,Gabe Dean,12580,Cornell
+2015,03/19,NCAA Championships,184,W,DEC,3 - 2,Sammy Brooks,12589,Iowa,Gabe Dean,12580,Cornell
+2015,03/06,EIWA Championships,184,W,DEC,8 - 2,Nathaniel Brown,12538,Lehigh,Gabe Dean,12580,Cornell
+2015,03/06,EIWA Championships,184,W,DEC,10 - 7,Lorenzo Thomas,12543,Pennsylvania,Gabe Dean,12580,Cornell
+2015,03/06,EIWA Championships,184,W,MD,20 - 7,Michael Woulfe,12693,Navy,Gabe Dean,12580,Cornell
+2015,03/06,EIWA Championships,184,W,FALL,1:22,Jermaine John,19927,Hofstra,Gabe Dean,12580,Cornell
+2015,02/22,Cornell - Lehigh Dual (National Duals),184,W,DEC,7 - 2,Nathaniel Brown,12538,Lehigh,Gabe Dean,12580,Cornell
+2015,02/21,Cornell - Iowa Dual (National Duals),184,W,DEC,6 - 2,Sammy Brooks,12589,Iowa,Gabe Dean,12580,Cornell
+2015,02/21,Minnesota - Cornell Dual (National Duals),184,W,DEC,10 - 4,Brett Pfarr,12441,Minnesota,Gabe Dean,12580,Cornell
+2015,02/15,Drexel - Cornell Dual,184,W,TF4,23 - 8 7:00,Alex DeCiantis,12387,Drexel,Gabe Dean,12580,Cornell
+2015,02/07,Cornell - Hofstra Dual,184,W,FALL,2:42,Jermaine John,19927,Hofstra,Gabe Dean,12580,Cornell
+2015,02/07,Cornell - Columbia Dual,184,W,TF4,23 - 7 7:00,Zack Hernandez,12618,Columbia,Gabe Dean,12580,Cornell
+2015,01/30,Princeton - Cornell Dual,184,W,FALL,3:00,Brett Harner,12294,Princeton,Gabe Dean,12580,Cornell
+2015,01/25,Cornell - Lehigh Dual,184,W,SV-1,3 - 1,Nathaniel Brown,12538,Lehigh,Gabe Dean,12580,Cornell
+2015,01/24,Pennsylvania - Cornell Dual,184,W,SV-1,3 - 1,Lorenzo Thomas,12543,Pennsylvania,Gabe Dean,12580,Cornell
+2015,01/17,Harvard - Cornell Dual,184,W,MD,16 - 6,Michael Mocco,19918,Harvard,Gabe Dean,12580,Cornell
+2015,01/17,Brown - Cornell Dual,184,W,FALL,3:45,Josh Durso-Finley,19697,Brown,Gabe Dean,12580,Cornell
+2015,01/10,Missouri - Cornell Dual,184,W,DEC,4 - 2,Willie Miklus,14058,Missouri,Gabe Dean,12580,Cornell
+2015,01/01,Southern Scuffle,184,W,MD,17 - 4,Michael Woulfe,12693,Navy,Gabe Dean,12580,Cornell
+2015,01/01,Southern Scuffle,184,W,FALL,2:15,Dominick Vetell,21228,Appalachian State,Gabe Dean,12580,Cornell
+2015,01/01,Southern Scuffle,184,W,FALL,3:55,Max Thomusseit,12477,Pittsburgh,Gabe Dean,12580,Cornell
+2015,01/01,Southern Scuffle,184,W,DEC,6 - 3,Willie Miklus,14058,Missouri,Gabe Dean,12580,Cornell
+2015,01/01,Southern Scuffle,184,W,MD,13 - 5,Domenic Abounader,12523,Michigan,Gabe Dean,12580,Cornell
+2015,12/21,Northern Iowa - Cornell Dual,184,W,FALL,4:17,Cody Caldwell,12376,Northern Iowa,Gabe Dean,12580,Cornell
+2015,12/21,Edinboro - Cornell Dual,184,W,SV-1,6 - 4,Vic Avery,12614,Edinboro,Gabe Dean,12580,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,184,L,DEC,8 - 3,Hayden Zillmer,12280,North Dakota State,Gabe Dean,12580,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,DEC,11 - 8,Ophir Bernstein,12567,Brown,Gabe Dean,12580,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,184,L,SV-1,4 - 3,Taylor Meeks,18155,Oregon State,Gabe Dean,12580,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,MD,14 - 3,Hayden Hrymack,13118,Rutgers,Gabe Dean,12580,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,DEC,9 - 4,Michael Woulfe,12693,Navy,Gabe Dean,12580,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,MD,12 - 2,Kyle Lux,12278,Northern Iowa,Gabe Dean,12580,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,184,W,TB-2,2 - 1,Brett Pfarr,12441,Minnesota,Gabe Dean,12580,Cornell
+2015,11/29,North Carolina State - Cornell Dual,184,W,MD,15 - 2,Michael Macchiavello,12532,NC State,Gabe Dean,12580,Cornell
+2015,11/29,Kutztown - Cornell Dual,184,W,FALL,2:15,Andre Petroski,23319,Kutztown,Gabe Dean,12580,Cornell
+2015,11/29,West Virginia - Cornell Dual,184,W,DEC,10 - 3,Bubba Scheffel,20475,West Virginia,Gabe Dean,12580,Cornell
+2015,11/23,New York State Championship,184,W,TF4,21 - 5 5:00,Jeff Palmieri,21967,Unattached,Gabe Dean,12580,Cornell
+2015,11/23,New York State Championship,184,W,TF4,25 - 10 6:37,Cory Damiana,19923,Hofstra,Gabe Dean,12580,Cornell
+2015,11/23,New York State Championship,184,W,MD,16 - 6,Patrick Rooney,24927,Merchant Marine,Gabe Dean,12580,Cornell
+2015,11/23,New York State Championship,184,W,TF4,23 - 8 6:16,Austin Wilding,12511,Army West Point,Gabe Dean,12580,Cornell
+2015,11/23,New York State Championship,184,W,MD,17 - 4,Samson Imonode,12655,Army West Point,Gabe Dean,12580,Cornell
+2015,11/22,Oklahoma - Cornell Dual,184,W,TF4,15 - 0 7:00,Greg Wilson,20822,Oklahoma,Gabe Dean,12580,Cornell
+2015,01/31,Lock Haven - Cornell Dual,184,L,DEC,3 - 0,Fred Garcia,12466,Lock Haven,William George,12607,Cornell
+2015,01/01,Southern Scuffle,184,L,MD,11 - 1,Jacob Kasper,12475,Duke,William George,12607,Cornell
+2015,01/01,Southern Scuffle,184,W,DEC,4 - 2,Ryan Hembury,12295,George Mason,William George,12607,Cornell
+2015,01/01,Southern Scuffle,184,L,MD,11 - 2,Aaron Studebaker,12422,Nebraska,William George,12607,Cornell
+2015,01/01,Southern Scuffle,184,W,DEC,9 - 2,Marcus Johnson,19622,Appalachian State,William George,12607,Cornell
+2015,11/23,New York State Championship,184,W,DEC,7 - 4,Austin Weigel,15015,Buffalo,William George,12607,Cornell
+2015,11/23,New York State Championship,184,W,DEC,9 - 8,Giovanni Santiago,22905,Nassau Community College,William George,12607,Cornell
+2015,11/23,New York State Championship,184,W,DEC,5 - 2,Ty Walter,40437,Cornell,William George,12607,Cornell
+2015,11/23,New York State Championship,184,W,FALL,0:38,Nick Burch,22904,Army West Point,William George,12607,Cornell
+2015,11/23,New York State Championship,184,W,DEC,12 - 5,Tyler McLees,12737,Army West Point,William George,12607,Cornell
+2015,11/09,Bearcat Open,184,L,FALL,0:30,Tyler Beckwith,21584,CSU Bakersfield,William George,12607,Cornell
+2015,11/30,Mat Town,184,L,MD,11 - 0,Scott Marmoll,12361,North Carolina,Daniel Choi,13074,Cornell
+2015,11/30,Mat Town,184,L,DEC,3 - 1,Brett Perry,19726,Buffalo,Daniel Choi,13074,Cornell
+2015,11/23,New York State Championship,184,L,FALL,1:38,Ty Walter,40437,Cornell,Daniel Choi,13074,Cornell
+2015,11/23,New York State Championship,184,W,FALL,2:15,Daniel Viera,42712,Merchant Marine,Daniel Choi,13074,Cornell
+2015,11/23,New York State Championship,184,W,DEC,12 - 5,Geoffrey Bilder,22861,Unattached,Daniel Choi,13074,Cornell
+2015,11/23,New York State Championship,184,L,DEC,6 - 4,Austin Weigel,15015,Buffalo,Daniel Choi,13074,Cornell
+2015,11/23,New York State Championship,184,W,DEC,9 - 4,Scott Votino,19645,Army West Point,Daniel Choi,13074,Cornell
+2015,11/09,Bearcat Open,184,L,DEC,8 - 3,Nicholas Weldon,20307,Penn State,Daniel Choi,13074,Cornell
+2015,03/19,NCAA Championships,197,L,FALL,6:12,Aaron Studebaker,12422,Nebraska,Jace Bennett,13106,Cornell
+2015,03/19,NCAA Championships,197,W,MD,12 - 1,Shawn Scott,13164,Northern Illinois,Jace Bennett,13106,Cornell
+2015,03/19,NCAA Championships,197,L,DEC,8 - 4,Trent Noon,12471,Northern Colorado,Jace Bennett,13106,Cornell
+2015,03/19,NCAA Championships,197,W,DEC,10 - 8,Abram Ayala,13120,Princeton,Jace Bennett,13106,Cornell
+2015,03/06,EIWA Championships,197,W,DEC,4 - 2,Canaan Bethea,12718,Pennsylvania,Jace Bennett,13106,Cornell
+2015,03/06,EIWA Championships,197,W,DEC,4 - 2,Elliot Riddick,12793,Lehigh,Jace Bennett,13106,Cornell
+2015,03/06,EIWA Championships,197,W,MD,8 - 0,Matt Idelson,13127,Columbia,Jace Bennett,13106,Cornell
+2015,03/06,EIWA Championships,197,W,FALL,3:57,Michael Oxley,19929,Hofstra,Jace Bennett,13106,Cornell
+2015,02/22,Cornell - Lehigh Dual (National Duals),197,W,DEC,4 - 1,Elliot Riddick,12793,Lehigh,Jace Bennett,13106,Cornell
+2015,02/21,Cornell - Iowa Dual (National Duals),197,L,DEC,3 - 2,Nathan Burak,13135,Iowa,Jace Bennett,13106,Cornell
+2015,02/21,Minnesota - Cornell Dual (National Duals),197,L,DEC,7 - 1,Scott Schiller,12736,Minnesota,Jace Bennett,13106,Cornell
+2015,02/15,Drexel - Cornell Dual,197,W,MD,13 - 5,Brandon Litten,13097,Drexel,Jace Bennett,13106,Cornell
+2015,02/07,Cornell - Hofstra Dual,197,W,MD,11 - 1,Michael Oxley,19929,Hofstra,Jace Bennett,13106,Cornell
+2015,02/07,Cornell - Columbia Dual,197,W,FALL,3:20,Troy Hembury,12412,Columbia,Jace Bennett,13106,Cornell
+2015,01/31,Lock Haven - Cornell Dual,197,W,DEC,7 - 6,Phil Sprenkle,13062,Lock Haven,Jace Bennett,13106,Cornell
+2015,01/30,Princeton - Cornell Dual,197,L,DEC,10 - 4,Abram Ayala,13120,Princeton,Jace Bennett,13106,Cornell
+2015,01/25,Cornell - Lehigh Dual,197,W,SV-2,2 - 1,Elliot Riddick,12793,Lehigh,Jace Bennett,13106,Cornell
+2015,01/24,Pennsylvania - Cornell Dual,197,W,DEC,3 - 2,Canaan Bethea,12718,Pennsylvania,Jace Bennett,13106,Cornell
+2015,01/17,Harvard - Cornell Dual,197,W,MD,11 - 0,James Fox,13052,Harvard,Jace Bennett,13106,Cornell
+2015,01/17,Brown - Cornell Dual,197,W,DEC,8 - 5,Augustus Marker,13132,Brown,Jace Bennett,13106,Cornell
+2015,01/10,Missouri - Cornell Dual,197,L,MD,11 - 0,J'den Cox,13114,Missouri,Jace Bennett,13106,Cornell
+2015,01/01,Southern Scuffle,197,W,DEC,9 - 2,Cole Baxter,13065,Kent State,Jace Bennett,13106,Cornell
+2015,01/01,Southern Scuffle,197,W,DEC,5 - 2,Derek White,20107,Nebraska,Jace Bennett,13106,Cornell
+2015,01/01,Southern Scuffle,197,W,DEC,7 - 0,Kanez Omar,19804,Cleveland State,Jace Bennett,13106,Cornell
+2015,01/01,Southern Scuffle,197,L,DEC,5 - 1,Jackson Lewis,13107,Central Michigan,Jace Bennett,13106,Cornell
+2015,01/01,Southern Scuffle,197,W,DEC,5 - 2,Bryce Barnes,13133,Army West Point,Jace Bennett,13106,Cornell
+2015,01/01,Southern Scuffle,197,L,FALL,1:38,Morgan McIntosh,13012,Penn State,Jace Bennett,13106,Cornell
+2015,01/01,Southern Scuffle,197,W,DEC,4 - 2,Shane Woods,13015,Wyoming,Jace Bennett,13106,Cornell
+2015,01/01,Southern Scuffle,197,W,MFOR,0 - 0,Max Huntley,12662,Michigan,Jace Bennett,13106,Cornell
+2015,01/01,Southern Scuffle,197,W,FALL,1:27,Chris Heald,13011,Michigan,Jace Bennett,13106,Cornell
+2015,12/21,Northern Iowa - Cornell Dual,197,W,DEC,7 - 0,Basil Minto,14056,Northern Iowa,Jace Bennett,13106,Cornell
+2015,12/21,Edinboro - Cornell Dual,197,W,DEC,5 - 0,Vince Pickett,13060,Edinboro,Jace Bennett,13106,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,197,W,FALL,4:00,Jared Haught,13085,Virginia Tech,Jace Bennett,13106,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,197,W,MD,8 - 0,Thomas Petersen,21090,North Dakota State,Jace Bennett,13106,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,197,W,FALL,1:49,Josh DaSilveira,13017,Arizona State,Jace Bennett,13106,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,197,W,FALL,0:49,Sebastien Levin,13150,Brown,Jace Bennett,13106,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,197,L,MD,18 - 7,Kyle Snyder,20253,Ohio State,Jace Bennett,13106,Cornell
+2015,12/05,Cliff Keen Las Vegas Invitational,197,L,FALL,4:16,Scott Schiller,12736,Minnesota,Jace Bennett,13106,Cornell
+2015,11/29,North Carolina State - Cornell Dual,197,W,DEC,1 - 0,Michael Boykin,20123,NC State,Jace Bennett,13106,Cornell
+2015,11/23,New York State Championship,197,W,DEC,5 - 2,Joe Ariola,12696,Buffalo,Jace Bennett,13106,Cornell
+2015,11/23,New York State Championship,197,W,DEC,6 - 4,Chad Obzud,22900,Limestone,Jace Bennett,13106,Cornell
+2015,11/23,New York State Championship,197,W,FALL,1:08,Dennis Melendez,24887,Mercyhurst,Jace Bennett,13106,Cornell
+2015,11/23,New York State Championship,197,W,FALL,1:53,Freddy Vidal,22912,Nassau Community College,Jace Bennett,13106,Cornell
+2015,11/09,Bearcat Open,197,W,MFOR,0 - 0,Joe Giaramita,21588,CSU Bakersfield,Jace Bennett,13106,Cornell
+2015,01/01,Southern Scuffle,197,W,DEC,3 - 0,Joe Ariola,12696,Buffalo,Owen Scott,12799,Cornell
+2015,01/01,Southern Scuffle,197,W,MD,10 - 0,James Benjamin,13108,Buffalo,Owen Scott,12799,Cornell
+2015,01/01,Southern Scuffle,197,W,MFOR,0 - 0,Jackson Lewis,13107,Central Michigan,Owen Scott,12799,Cornell
+2015,01/01,Southern Scuffle,197,W,MD,9 - 0,Marcus Harrington,19961,Iowa State,Owen Scott,12799,Cornell
+2015,01/01,Southern Scuffle,197,L,DEC,5 - 0,Morgan McIntosh,13012,Penn State,Owen Scott,12799,Cornell
+2015,01/01,Southern Scuffle,197,L,FALL,1:57,Zach Nye,13160,Virginia,Owen Scott,12799,Cornell
+2015,11/23,New York State Championship,197,W,DEC,7 - 5,Dennis Melendez,24887,Mercyhurst,Owen Scott,12799,Cornell
+2015,11/23,New York State Championship,197,L,DEC,8 - 3,Joe Ariola,12696,Buffalo,Owen Scott,12799,Cornell
+2015,11/23,New York State Championship,197,L,MFOR,0 - 0,Matt Idelson,13127,Columbia,Owen Scott,12799,Cornell
+2015,11/23,New York State Championship,197,W,DEC,7 - 5,Matt Idelson,13127,Columbia,Owen Scott,12799,Cornell
+2015,11/23,New York State Championship,197,W,FALL,3:00,Stephen Snyder,14378,Army West Point,Owen Scott,12799,Cornell
+2015,11/22,Oklahoma - Cornell Dual,197,W,DEC,6 - 5,Andrew Dixon,20809,Oklahoma,Owen Scott,12799,Cornell
+2015,11/09,Bearcat Open,197,W,FALL,1:36,Demetrius Zissimos,19930,Hofstra,Owen Scott,12799,Cornell
+2015,12/07,Nittany Lion Open,197,W,DEC,14 - 10,Tristan Sponseller,20593,Lock Haven,Steven Congenie,13079,Cornell
+2015,12/07,Nittany Lion Open,197,L,MD,9 - 1,Morgan McIntosh,13012,Penn State,Steven Congenie,13079,Cornell
+2015,12/07,Nittany Lion Open,197,W,DEC,11 - 6,Caleb Wallace,12416,Binghamton,Steven Congenie,13079,Cornell
+2015,12/07,Nittany Lion Open,197,L,MFOR,0 - 0,Anthony Cassar,20299,Penn State,Steven Congenie,13079,Cornell
+2015,11/30,Mat Town,197,W,FALL,1:44,Jake Anderson,23596,Spartan Combat RTC,Steven Congenie,13079,Cornell
+2015,11/30,Mat Town,197,W,MFOR,0 - 0,Phil Sprenkle,13062,Lock Haven,Steven Congenie,13079,Cornell
+2015,11/30,Mat Town,197,W,MD,16 - 6,Ben Honis,23243,Spartan Combat RTC,Steven Congenie,13079,Cornell
+2015,11/30,Mat Town,197,W,MD,20 - 8,Tristan Sponseller,20593,Lock Haven,Steven Congenie,13079,Cornell
+2015,11/30,Mat Town,197,W,FALL,1:39,Josh Rogers,12741,Penn State,Steven Congenie,13079,Cornell
+2015,11/30,Mat Town,197,L,FALL,4:59,Phil Sprenkle,13062,Lock Haven,Steven Congenie,13079,Cornell
+2015,11/29,Kutztown - Cornell Dual,197,W,FALL,1:48,Brandon Clark,21291,Kutztown,Steven Congenie,13079,Cornell
+2015,12/13,Cleveland State Open,285,L,MD,8 - 0,Conan Jennings,20222,Northwestern,McZiggy Richards,40436,Cornell
+2015,12/07,Nittany Lion Open,285,L,TF4,19 - 3 7:00,James Lawson,23404,Penn State,McZiggy Richards,40436,Cornell
+2015,12/07,Nittany Lion Open,285,W,FALL,2:17,Grady DiAntonio,20828,Sacred Heart,McZiggy Richards,40436,Cornell
+2015,12/07,Nittany Lion Open,285,W,DEC,3 - 2,Alex Foley,19848,Drexel,McZiggy Richards,40436,Cornell
+2015,11/30,Mat Town,197,L,DEC,3 - 2,Tyler Greene,12506,Bucknell,McZiggy Richards,40436,Cornell
+2015,11/30,Mat Town,197,W,SV-1,4 - 2,Charles Kerkesner,13158,Franklin & Marshall,McZiggy Richards,40436,Cornell
+2015,11/23,New York State Championship,197,L,FALL,0:13,James Benjamin,13108,Buffalo,Brian Curless,22927,Cornell
+2015,11/23,New York State Championship,197,W,DEC,6 - 2,Demetrius Zissimos,19930,Hofstra,Brian Curless,22927,Cornell
+2015,11/08,Mercyhurst Laker Open,197,L,DEC,7 - 4,Shawn Reynolds,19797,Clarion,Brian Curless,22927,Cornell
+2015,11/08,Mercyhurst Laker Open,197,W,FALL,4:07,Edgar Ruano,19798,Clarion,Brian Curless,22927,Cornell
+2015,03/19,NCAA Championships,285,L,DEC,10 - 4,Ty Walz,14246,Virginia Tech,Jacob Aiken-Phillips,14222,Cornell
+2015,03/19,NCAA Championships,285,W,DEC,4 - 0,David Ng,14206,Harvard,Jacob Aiken-Phillips,14222,Cornell
+2015,03/19,NCAA Championships,285,L,DEC,9 - 3,James Lawson,23404,Penn State,Jacob Aiken-Phillips,14222,Cornell
+2015,03/06,EIWA Championships,285,W,DEC,1 - 0,Doug Vollaro,14167,Lehigh,Jacob Aiken-Phillips,14222,Cornell
+2015,03/06,EIWA Championships,285,W,DEC,5 - 4,Garrett Ryan,13538,Columbia,Jacob Aiken-Phillips,14222,Cornell
+2015,03/06,EIWA Championships,285,W,TB-2,7 - 6,Michael Hughes,14198,Hofstra,Jacob Aiken-Phillips,14222,Cornell
+2015,03/06,EIWA Championships,285,W,MD,10 - 0,Colynn Cook,14176,Navy,Jacob Aiken-Phillips,14222,Cornell
+2015,03/06,EIWA Championships,285,W,DEC,8 - 3,Joey Goodhart,19849,Drexel,Jacob Aiken-Phillips,14222,Cornell
+2015,03/06,EIWA Championships,285,L,MD,12 - 2,Joe Stolfi,14234,Bucknell,Jacob Aiken-Phillips,14222,Cornell
+2015,02/21,Minnesota - Cornell Dual (National Duals),285,L,MD,10 - 1,Michael Kroells,14331,Minnesota,Jacob Aiken-Phillips,14222,Cornell
+2015,02/15,Drexel - Cornell Dual,285,W,DEC,7 - 6,Joey Goodhart,19849,Drexel,Jacob Aiken-Phillips,14222,Cornell
+2015,02/07,Cornell - Hofstra Dual,285,L,DEC,3 - 2,Michael Hughes,14198,Hofstra,Jacob Aiken-Phillips,14222,Cornell
+2015,02/07,Cornell - Columbia Dual,285,W,DEC,7 - 2,Garrett Ryan,13538,Columbia,Jacob Aiken-Phillips,14222,Cornell
+2015,01/30,Princeton - Cornell Dual,285,L,DEC,9 - 8,Raymond O'Donnell,37426,Princeton,Jacob Aiken-Phillips,14222,Cornell
+2015,01/25,Cornell - Lehigh Dual,285,L,SV-1,5 - 3,Doug Vollaro,14167,Lehigh,Jacob Aiken-Phillips,14222,Cornell
+2015,01/24,Pennsylvania - Cornell Dual,285,W,DEC,8 - 2,Patrik Garren,20313,Pennsylvania,Jacob Aiken-Phillips,14222,Cornell
+2015,01/17,Harvard - Cornell Dual,285,L,DEC,6 - 1,David Ng,14206,Harvard,Jacob Aiken-Phillips,14222,Cornell
+2015,01/17,Brown - Cornell Dual,285,W,TF4,18 - 0 7:00,Sebastien Levin,13150,Brown,Jacob Aiken-Phillips,14222,Cornell
+2015,01/10,Missouri - Cornell Dual,285,L,DEC,7 - 3,Devin Mellon,14302,Missouri,Jacob Aiken-Phillips,14222,Cornell
+2015,01/01,Southern Scuffle,285,L,DEC,8 - 2,Nick Ruggear,14209,Penn State,Jacob Aiken-Phillips,14222,Cornell
+2015,01/01,Southern Scuffle,285,L,FALL,2:13,Josh Marchok,14339,Stanford,Jacob Aiken-Phillips,14222,Cornell
+2015,12/21,Northern Iowa - Cornell Dual,285,L,MD,15 - 5,Blaize Cabell,14147,Northern Iowa,Jacob Aiken-Phillips,14222,Cornell
+2015,12/21,Edinboro - Cornell Dual,285,W,DEC,9 - 8,Warren Bosch,17928,Edinboro,Jacob Aiken-Phillips,14222,Cornell
+2015,11/29,North Carolina State - Cornell Dual,285,L,MD,12 - 2,Nick Gwiazdowski,14221,NC State,Jacob Aiken-Phillips,14222,Cornell
+2015,11/29,West Virginia - Cornell Dual,285,W,FALL,0:39,AJ Vizcarrondo,14266,West Virginia,Jacob Aiken-Phillips,14222,Cornell
+2015,11/23,New York State Championship,285,L,MD,12 - 4,Michael Hughes,14198,Hofstra,Jacob Aiken-Phillips,14222,Cornell
+2015,11/23,New York State Championship,285,W,DEC,8 - 5,James Bethel,22915,Limestone,Jacob Aiken-Phillips,14222,Cornell
+2015,11/23,New York State Championship,285,W,FALL,3:47,Daniel Glinko,22914,Unattached,Jacob Aiken-Phillips,14222,Cornell
+2015,11/23,New York State Championship,285,W,DEC,7 - 4,Garrett Ryan,13538,Columbia,Jacob Aiken-Phillips,14222,Cornell
+2015,11/22,Oklahoma - Cornell Dual,285,L,DEC,4 - 0,Zach Merrill,20262,Oklahoma,Jacob Aiken-Phillips,14222,Cornell
+2015,11/16,East Stroudsburg Open,285,L,DEC,3 - 2,Billy Miller,20725,Edinboro,Jacob Aiken-Phillips,14222,Cornell
+2015,11/15,East Stroudsburg Open,285,L,DEC,3 - 2,Billy Miller,20725,Edinboro,Jacob Aiken-Phillips,14222,Cornell
+2015,11/15,East Stroudsburg Open,285,W,DEC,7 - 5,Tyson Searer,43158,Unattached,Jacob Aiken-Phillips,14222,Cornell
+2015,11/15,East Stroudsburg Open,285,L,MFOR,0 - 0,Jake Gunning,19718,Buffalo,Jacob Aiken-Phillips,14222,Cornell
+2015,11/15,East Stroudsburg Open,285,W,DEC,7 - 5,Jake Gunning,19718,Buffalo,Jacob Aiken-Phillips,14222,Cornell
+2015,11/15,East Stroudsburg Open,285,W,DEC,7 - 0,Chuck Boddy,14205,Bucknell,Jacob Aiken-Phillips,14222,Cornell
+2015,11/15,East Stroudsburg Open,285,W,DEC,8 - 5,Colynn Cook,14176,Navy,Jacob Aiken-Phillips,14222,Cornell
+2015,11/30,Mat Town,285,L,FALL,1:00,Matt Moore,13071,Lock Haven,Robert Incorvaia,19826,Cornell
+2015,11/30,Mat Town,285,L,FALL,4:10,Isaiah Cromwell,16346,Franklin & Marshall,Robert Incorvaia,19826,Cornell
+2015,11/23,New York State Championship,285,L,FALL,1:55,Austin Buttry,22489,Army West Point,Robert Incorvaia,19826,Cornell
+2015,11/23,New York State Championship,285,W,DEC,9 - 4,Marvin Jean-Simon,22919,Nassau Community College,Robert Incorvaia,19826,Cornell
+2015,11/23,New York State Championship,285,W,FALL,1:12,Frankie Matos,22918,Unattached,Robert Incorvaia,19826,Cornell
+2015,11/23,New York State Championship,285,W,FALL,3:16,Ross Lapides,22917,Buffalo,Robert Incorvaia,19826,Cornell
+2015,11/23,New York State Championship,285,L,DEC,2 - 0,Adam Groesbeck,22916,Limestone,Robert Incorvaia,19826,Cornell
+2015,01/31,Lock Haven - Cornell Dual,285,L,DEC,5 - 0,Brad Emerick,14170,Lock Haven,George Famutimi,14161,Cornell
+2015,01/01,Southern Scuffle,285,L,DEC,5 - 1,Joe Scanlan,14338,Iowa State,George Famutimi,14161,Cornell
+2015,01/01,Southern Scuffle,285,L,MD,12 - 1,Jon Gingrich,14213,Penn State,George Famutimi,14161,Cornell
+2015,11/29,Kutztown - Cornell Dual,285,L,MD,12 - 0,Ziad Haddad,22804,Kutztown,George Famutimi,14161,Cornell
+2015,11/23,New York State Championship,285,W,MD,8 - 0,Adam Groesbeck,22916,Limestone,George Famutimi,14161,Cornell
+2015,11/23,New York State Championship,285,L,DEC,9 - 4,Jake Gunning,19718,Buffalo,George Famutimi,14161,Cornell
+2015,11/23,New York State Championship,285,W,TB-1,2 - 1,Drake Patrum,19627,Appalachian State,George Famutimi,14161,Cornell
+2015,11/23,New York State Championship,285,W,TB-1,2 - 1,Anthony Osman,22878,Unattached,George Famutimi,14161,Cornell

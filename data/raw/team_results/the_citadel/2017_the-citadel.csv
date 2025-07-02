@@ -1,0 +1,424 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2017,03/04,SoCon Championships,125,L,DEC,4 - 1,Landon LoAlbo,20795,Gardner-Webb,Charles Kearney,40372,The Citadel
+2017,03/04,SoCon Championships,125,L,MD,16 - 5,Alonzo Allen,19765,Chattanooga,Charles Kearney,40372,The Citadel
+2017,02/12,The Citadel - Chattanooga Dual,125,L,FALL,6:08,Alonzo Allen,19765,Chattanooga,Charles Kearney,40372,The Citadel
+2017,02/09,Southern Illinois Edwardsville - The Citadel Dual,125,L,MD,15 - 5,Alfredo Rodriguez,41005,SIU Edwardsville,Charles Kearney,40372,The Citadel
+2017,02/05,Campbell - The Citadel Dual,125,L,TF5,16 - 0 3:51,Nathan Kraisser,20783,Campbell,Charles Kearney,40372,The Citadel
+2017,01/29,All Academy Championships,125,L,DEC,9 - 8,Earl Roberts,44218,Coast Guard,Charles Kearney,40372,The Citadel
+2017,01/29,All Academy Championships,125,L,DEC,6 - 0,Dalton Henderson,22457,VMI,Charles Kearney,40372,The Citadel
+2017,01/27,The Citadel - VMI Dual,125,L,MD,10 - 1,Dalton Henderson,22457,VMI,Charles Kearney,40372,The Citadel
+2017,01/21,Gardner-Webb - The Citadel Dual,125,L,FALL,2:57,Landon LoAlbo,20795,Gardner-Webb,Charles Kearney,40372,The Citadel
+2017,01/14,The Citadel - Kent State Dual,125,W,FALL,1:44,Cory Simpson,45037,Kent State,Charles Kearney,40372,The Citadel
+2017,01/13,The Citadel - Old Dominion Dual,125,W,FALL,3:53,Steven Simpson,39905,Old Dominion,Charles Kearney,40372,The Citadel
+2017,01/13,The Citadel - Virginia Dual,125,L,FALL,5:37,Jack Mueller,45232,Virginia,Charles Kearney,40372,The Citadel
+2017,01/13,The Citadel - North Dakota State Dual,125,L,FALL,1:24,Josh Rodriguez,13418,North Dakota State,Charles Kearney,40372,The Citadel
+2017,01/08,The Citadel - Appalachian State Dual,125,L,DEC,10 - 3,Logan Durham,40399,Appalachian State,Charles Kearney,40372,The Citadel
+2017,01/01,Southern Scuffle,125,L,DEC,9 - 4,Gabe Townsell,45387,Stanford,Charles Kearney,40372,The Citadel
+2017,01/01,Southern Scuffle,125,W,DEC,10 - 3,John Martin,12102,Cleveland State,Charles Kearney,40372,The Citadel
+2017,01/01,Southern Scuffle,125,L,DEC,13 - 8,Fabian Gutierrez,45245,Chattanooga,Charles Kearney,40372,The Citadel
+2017,12/17,Northern Illinois - The Citadel Dual,125,L,DEC,8 - 2,Brock Hudkins,44808,Northern Illinois,Charles Kearney,40372,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,125,W,MD,19 - 7,Jacob Martin,42329,Hofstra,Charles Kearney,40372,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,125,L,DEC,9 - 4,Charlie Lenox,45032,NC State,Charles Kearney,40372,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,125,L,DEC,8 - 2,Sean McCabe,12035,Rutgers,Charles Kearney,40372,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,125,L,DEC,10 - 6,Trey Keeley,44696,Brown,Charles Kearney,40372,The Citadel
+2017,11/19,Navy Classic,125,W,DEC,13 - 6,Noah Sirianni,45386,Navy,Charles Kearney,40372,The Citadel
+2017,11/19,Navy Classic,125,L,MD,13 - 2,Cory Simpson,45037,Kent State,Charles Kearney,40372,The Citadel
+2017,11/19,Navy Classic,125,L,TF5,21 - 4 5:20,Elijah Oliver,39583,Indiana,Charles Kearney,40372,The Citadel
+2017,11/19,Navy Classic,125,W,FALL,3:38,Trevor Mello,44664,George Mason,Charles Kearney,40372,The Citadel
+2017,11/19,Navy Classic,125,L,DEC,14 - 9,Steven Bulzomi,40242,Binghamton,Charles Kearney,40372,The Citadel
+2017,11/19,Navy Classic,125,W,FALL,1:27,Trey Keeley,44696,Brown,Charles Kearney,40372,The Citadel
+2017,11/13,Journeyman Collegiate Classic,125,L,DEC,6 - 3,JR Wert,24310,Rider,Charles Kearney,40372,The Citadel
+2017,11/13,Journeyman Collegiate Classic,125,L,TF5,18 - 3 5:00,Jose Rodriguez,39639,Ohio State,Charles Kearney,40372,The Citadel
+2017,11/13,Journeyman Collegiate Classic,125,L,MD,10 - 2,Skyler Petry,20045,Minnesota,Charles Kearney,40372,The Citadel
+2017,11/09,Coker College - The Citadel Dual,125,W,MD,15 - 1,Frank Velez,44439,Coker,Charles Kearney,40372,The Citadel
+2017,03/04,SoCon Championships,133,W,DEC,7 - 3,Michael Hulcher,20697,VMI,Andy Szalwinski,25094,The Citadel
+2017,03/04,SoCon Championships,133,L,FALL,2:25,John Muldoon,20384,SIU Edwardsville,Andy Szalwinski,25094,The Citadel
+2017,03/04,SoCon Championships,133,L,MD,9 - 1,Colby Smith,44996,Appalachian State,Andy Szalwinski,25094,The Citadel
+2017,02/19,Davidson - The Citadel Dual,133,W,SV-2,3 - 1,Dustin Runzo,19843,Davidson,Andy Szalwinski,25094,The Citadel
+2017,02/12,The Citadel - Chattanooga Dual,133,L,FALL,1:33,Chris Debien,39720,Chattanooga,Andy Szalwinski,25094,The Citadel
+2017,02/09,Southern Illinois Edwardsville - The Citadel Dual,133,L,MD,16 - 3,John Muldoon,20384,SIU Edwardsville,Andy Szalwinski,25094,The Citadel
+2017,02/05,Campbell - The Citadel Dual,133,W,DEC,6 - 1,Collin Stewart,40428,Campbell,Andy Szalwinski,25094,The Citadel
+2017,01/29,All Academy Championships,133,W,DEC,6 - 2,Tyler Craig,49583,Merchant Marine,Andy Szalwinski,25094,The Citadel
+2017,01/29,All Academy Championships,133,W,DEC,5 - 3,Cody Lambert,40252,Navy,Andy Szalwinski,25094,The Citadel
+2017,01/29,All Academy Championships,133,L,FALL,3:36,Dylan Hyder,41723,Air Force,Andy Szalwinski,25094,The Citadel
+2017,01/27,The Citadel - VMI Dual,133,L,DEC,4 - 3,Michael Hulcher,20697,VMI,Andy Szalwinski,25094,The Citadel
+2017,01/21,Gardner-Webb - The Citadel Dual,133,L,FALL,2:53,Philip Anderson,22000,Gardner-Webb,Andy Szalwinski,25094,The Citadel
+2017,01/13,The Citadel - Old Dominion Dual,133,L,MD,12 - 4,Emilio Saavedra,20285,Old Dominion,Andy Szalwinski,25094,The Citadel
+2017,01/13,The Citadel - Virginia Dual,133,L,MD,17 - 7,Will Mason,12187,Virginia,Andy Szalwinski,25094,The Citadel
+2017,01/13,The Citadel - North Dakota State Dual,133,L,FALL,1:37,Cameron Sykora,39757,North Dakota State,Andy Szalwinski,25094,The Citadel
+2017,01/08,The Citadel - Appalachian State Dual,133,L,FALL,2:47,Colby Smith,44996,Appalachian State,Andy Szalwinski,25094,The Citadel
+2017,01/01,Southern Scuffle,133,L,FALL,5:28,Micky Phillippi,45230,Virginia,Andy Szalwinski,25094,The Citadel
+2017,01/01,Southern Scuffle,133,L,MD,10 - 2,Anthony Rivera,14699,Edinboro,Andy Szalwinski,25094,The Citadel
+2017,12/17,Northern Illinois - The Citadel Dual,133,L,FALL,0:48,Alijah Jeffery,20204,Northern Illinois,Andy Szalwinski,25094,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,133,W,DEC,9 - 4,Tristin DeVincenzo,39730,Pennsylvania,Andy Szalwinski,25094,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,133,W,DEC,2 - 0,Andrew Clayton,14759,The Citadel,Andy Szalwinski,25094,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,133,L,DEC,9 - 5,Theo Powers,44793,Brown,Andy Szalwinski,25094,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,133,L,FALL,1:21,Jimmy Pawelski,44653,Brown,Andy Szalwinski,25094,The Citadel
+2017,11/19,Navy Classic,133,W,DEC,8 - 1,Brandon Tran,47799,Johns Hopkins,Andy Szalwinski,25094,The Citadel
+2017,11/19,Navy Classic,133,L,FALL,1:18,Logan Harvich,40340,George Mason,Andy Szalwinski,25094,The Citadel
+2017,11/19,Navy Classic,133,W,DEC,2 - 1,Joey Gould,45221,Bucknell,Andy Szalwinski,25094,The Citadel
+2017,11/19,Navy Classic,133,L,MD,11 - 3,Zach Firestone,45219,Bucknell,Andy Szalwinski,25094,The Citadel
+2017,11/13,Journeyman Collegiate Classic,133,L,MD,12 - 2,Maverick Passaro,20545,Cortland State,Andy Szalwinski,25094,The Citadel
+2017,11/13,Journeyman Collegiate Classic,133,L,FALL,0:58,Sam Brancale,13257,Minnesota,Andy Szalwinski,25094,The Citadel
+2017,11/13,Journeyman Collegiate Classic,133,W,DEC,7 - 5,Lewis Williams,40291,Lock Haven,Andy Szalwinski,25094,The Citadel
+2017,11/13,Journeyman Collegiate Classic,133,L,FALL,4:49,Dean Somers,12153,Lehigh,Andy Szalwinski,25094,The Citadel
+2017,11/13,Journeyman Collegiate Classic,133,L,FALL,7:00,Dean Somers,12153,Lehigh,Andy Szalwinski,25094,The Citadel
+2017,11/09,Coker College - The Citadel Dual,133,W,MD,10 - 0,Dylan Barrett,46494,Coker,Andy Szalwinski,25094,The Citadel
+2017,11/06,Southeast Open,133,L,DEC,5 - 3,Caleb Richardson,12113,Pennsylvania,Andy Szalwinski,25094,The Citadel
+2017,11/06,Southeast Open,133,L,FALL,2:00,Tyler Walker,20789,Notre Dame,Andy Szalwinski,25094,The Citadel
+2017,11/06,Southeast Open,133,L,TF5,17 - 1 4:56,Jaquan Loney,40176,Old Dominion,Luke Tiscareno,20407,The Citadel
+2017,11/06,Southeast Open,133,L,TF5,17 - 1 7:00,Jaquan Loney,40176,Old Dominion,Luke Tiscareno,20407,The Citadel
+2017,11/06,Southeast Open,133,L,DEC,6 - 2,Jacob Adkins,39828,Princeton,Luke Tiscareno,20407,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,133,L,DEC,2 - 0,Andy Szalwinski,25094,The Citadel,Andrew Clayton,14759,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,133,L,DEC,4 - 0,Tristin DeVincenzo,39730,Pennsylvania,Andrew Clayton,14759,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,133,L,FALL,4:57,Theo Powers,44793,Brown,Andrew Clayton,14759,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,133,L,MD,18 - 5,Jimmy Pawelski,44653,Brown,Andrew Clayton,14759,The Citadel
+2017,11/19,Navy Classic,133,L,DEC,6 - 0,Garrett Pepple,39561,Indiana,Andrew Clayton,14759,The Citadel
+2017,11/19,Navy Classic,133,L,DEC,5 - 0,Joey Gould,45221,Bucknell,Andrew Clayton,14759,The Citadel
+2017,11/06,Southeast Open,133,W,TB-2,3 - 2,Sam Ring,45228,Old Dominion,Andrew Clayton,14759,The Citadel
+2017,11/06,Southeast Open,133,L,DEC,7 - 0,Marshall Brown,15069,NC State,Andrew Clayton,14759,The Citadel
+2017,11/06,Southeast Open,133,L,DEC,3 - 1,Anthony Rivera,14699,Edinboro,Andrew Clayton,14759,The Citadel
+2017,03/04,SoCon Championships,141,W,DEC,6 - 2,John Reed,39749,VMI,Douglas Gudenburr,45587,The Citadel
+2017,03/04,SoCon Championships,141,L,MD,15 - 6,Trevor Feagans,11644,SIU Edwardsville,Douglas Gudenburr,45587,The Citadel
+2017,03/04,SoCon Championships,141,W,FALL,1:23,Hunter Costa,45247,Davidson,Douglas Gudenburr,45587,The Citadel
+2017,03/04,SoCon Championships,141,L,MD,11 - 3,Chase Zemenak,19681,Chattanooga,Douglas Gudenburr,45587,The Citadel
+2017,02/19,Davidson - The Citadel Dual,141,W,MD,9 - 0,Hunter Costa,45247,Davidson,Douglas Gudenburr,45587,The Citadel
+2017,02/12,The Citadel - Chattanooga Dual,141,L,MD,13 - 4,Chase Zemenak,19681,Chattanooga,Douglas Gudenburr,45587,The Citadel
+2017,02/09,Southern Illinois Edwardsville - The Citadel Dual,141,W,DEC,6 - 4,Trevor Feagans,11644,SIU Edwardsville,Douglas Gudenburr,45587,The Citadel
+2017,02/05,Campbell - The Citadel Dual,141,L,DEC,9 - 8,Josh Heil,45100,Campbell,Douglas Gudenburr,45587,The Citadel
+2017,01/29,All Academy Championships,141,L,FALL,4:09,John Reed,39749,VMI,Douglas Gudenburr,45587,The Citadel
+2017,01/29,All Academy Championships,141,W,DEC,3 - 1,Matthew Mcallister,44228,Coast Guard,Douglas Gudenburr,45587,The Citadel
+2017,01/29,All Academy Championships,141,L,TF5,16 - 1 3:45,Logan Everett,12041,Army West Point,Douglas Gudenburr,45587,The Citadel
+2017,01/27,The Citadel - VMI Dual,141,W,DEC,10 - 6,John Reed,39749,VMI,Douglas Gudenburr,45587,The Citadel
+2017,01/21,Gardner-Webb - The Citadel Dual,141,W,DEC,7 - 4,Ryan Hull,11660,Gardner-Webb,Douglas Gudenburr,45587,The Citadel
+2017,01/14,The Citadel - Kent State Dual,141,L,DEC,7 - 1,Chance Driscoll,11980,Kent State,Douglas Gudenburr,45587,The Citadel
+2017,01/13,The Citadel - Old Dominion Dual,141,L,SV-1,7 - 5,Kevin Budock,44576,Old Dominion,Douglas Gudenburr,45587,The Citadel
+2017,01/13,The Citadel - Virginia Dual,141,L,FALL,1:16,George DiCamillo,20426,Virginia,Douglas Gudenburr,45587,The Citadel
+2017,01/13,The Citadel - North Dakota State Dual,141,L,DEC,8 - 2,Taylor Nein,45593,North Dakota State,Douglas Gudenburr,45587,The Citadel
+2017,01/08,The Citadel - Appalachian State Dual,141,L,DEC,6 - 2,Irvin Enriquez,40401,Appalachian State,Douglas Gudenburr,45587,The Citadel
+2017,01/01,Southern Scuffle,141,L,DEC,9 - 2,AC Headlee,39627,North Carolina,Douglas Gudenburr,45587,The Citadel
+2017,01/01,Southern Scuffle,141,L,FALL,7:00,Ryan Hull,11660,Gardner-Webb,Douglas Gudenburr,45587,The Citadel
+2017,12/17,Northern Illinois - The Citadel Dual,141,W,DEC,4 - 1,Anthony Rubino,45301,Northern Illinois,Douglas Gudenburr,45587,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,141,L,MD,8 - 0,Robbie Rizzolino,39794,NC State,Douglas Gudenburr,45587,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,141,W,DEC,5 - 2,Patrick Munn,45264,Pennsylvania,Douglas Gudenburr,45587,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,141,L,DEC,7 - 1,Josh Heil,45100,Campbell,Douglas Gudenburr,45587,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,141,L,MD,9 - 0,Robbie Rizzolino,39794,NC State,Douglas Gudenburr,45587,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,141,W,TF5,15 - 0 2:57,Charlie Banaszak,40147,Brown,Douglas Gudenburr,45587,The Citadel
+2017,11/19,Navy Classic,141,W,DEC,4 - 0,Tim Ambacher,40798,Delaware Valley,Douglas Gudenburr,45587,The Citadel
+2017,11/19,Navy Classic,141,L,DEC,6 - 0,Noah Forrider,11648,Ohio,Douglas Gudenburr,45587,The Citadel
+2017,11/19,Navy Classic,141,L,DEC,5 - 3,Nicholas Gil,40255,Navy,Douglas Gudenburr,45587,The Citadel
+2017,11/19,Navy Classic,141,W,MD,12 - 2,Cole Weaver,20529,Indiana,Douglas Gudenburr,45587,The Citadel
+2017,11/13,Journeyman Collegiate Classic,141,L,DEC,2 - 0,Nick Wahba,44110,Ithaca,Douglas Gudenburr,45587,The Citadel
+2017,11/13,Journeyman Collegiate Classic,141,W,DEC,5 - 4,Luke Rowh,20487,Wisconsin,Douglas Gudenburr,45587,The Citadel
+2017,11/13,Journeyman Collegiate Classic,141,W,DEC,5 - 2,Tyler Sage,42560,Arizona State,Douglas Gudenburr,45587,The Citadel
+2017,11/09,Coker College - The Citadel Dual,141,W,TF5,17 - 0 6:53,RaSean McArthur,46495,Coker,Douglas Gudenburr,45587,The Citadel
+2017,11/06,Southeast Open,141,W,DEC,5 - 4,Timmy Martinez,42840,Newberry,Douglas Gudenburr,45587,The Citadel
+2017,11/06,Southeast Open,141,W,FALL,2:51,Tyler Wicken,21838,Clackamas Community College,Douglas Gudenburr,45587,The Citadel
+2017,11/06,Southeast Open,141,W,MFOR,0 - 0,Chris Diaz,44621,NC State,Douglas Gudenburr,45587,The Citadel
+2017,11/06,Southeast Open,141,W,DEC,6 - 1,Logan Sims,44657,Chattanooga,Douglas Gudenburr,45587,The Citadel
+2017,11/06,Southeast Open,141,W,FALL,3:56,Steven Underwood,46110,Campbell,Douglas Gudenburr,45587,The Citadel
+2017,11/06,Southeast Open,141,W,DEC,16 - 11,Brandon Harris,45409,Appalachian State,Douglas Gudenburr,45587,The Citadel
+2017,11/06,Southeast Open,141,L,DEC,5 - 1,Jack Mutchnik,13900,American,Douglas Gudenburr,45587,The Citadel
+2017,11/06,Southeast Open,141,L,MFOR,0 - 0,Jack Mutchnik,13900,American,Douglas Gudenburr,45587,The Citadel
+2017,03/04,SoCon Championships,149,L,SV-1,10 - 8,John Fahy,11776,SIU Edwardsville,Ty Buckiso,20399,The Citadel
+2017,03/04,SoCon Championships,149,W,MD,9 - 1,Joby Armenta,20791,Gardner-Webb,Ty Buckiso,20399,The Citadel
+2017,03/04,SoCon Championships,149,W,DEC,7 - 3,Roman Boylen,39818,Chattanooga,Ty Buckiso,20399,The Citadel
+2017,03/04,SoCon Championships,149,L,SV-1,3 - 1,Benjamin Barton,44733,Campbell,Ty Buckiso,20399,The Citadel
+2017,02/19,Davidson - The Citadel Dual,149,W,TF5,15 - 0 5:12,Aidan Conroy,39860,Davidson,Ty Buckiso,20399,The Citadel
+2017,02/12,The Citadel - Chattanooga Dual,149,W,DEC,7 - 5,Roman Boylen,39818,Chattanooga,Ty Buckiso,20399,The Citadel
+2017,02/09,Southern Illinois Edwardsville - The Citadel Dual,149,L,DEC,6 - 2,John Fahy,11776,SIU Edwardsville,Ty Buckiso,20399,The Citadel
+2017,02/05,Campbell - The Citadel Dual,149,W,DEC,7 - 1,Luke Stewart,20788,Campbell,Ty Buckiso,20399,The Citadel
+2017,01/29,All Academy Championships,149,W,TF5,17 - 1 4:15,Tyler Ayers,49598,Norwich,Ty Buckiso,20399,The Citadel
+2017,01/29,All Academy Championships,149,W,DEC,3 - 2,Corey Wilding,20626,Navy,Ty Buckiso,20399,The Citadel
+2017,01/29,All Academy Championships,149,W,DEC,4 - 1,Gerald McGinty,25203,Air Force,Ty Buckiso,20399,The Citadel
+2017,01/27,The Citadel - VMI Dual,149,W,FALL,3:27,Alex Rinehart,20699,VMI,Ty Buckiso,20399,The Citadel
+2017,01/21,Gardner-Webb - The Citadel Dual,149,W,DEC,5 - 1,Chris Vassar,11981,Gardner-Webb,Ty Buckiso,20399,The Citadel
+2017,01/14,The Citadel - Kent State Dual,149,L,DEC,7 - 5,Tim Rooney,39949,Kent State,Ty Buckiso,20399,The Citadel
+2017,01/13,The Citadel - Old Dominion Dual,149,W,DEC,2 - 1,Michael Hayes,15134,Old Dominion,Ty Buckiso,20399,The Citadel
+2017,01/13,The Citadel - Virginia Dual,149,L,DEC,3 - 2,Samuel Krivus,43190,Virginia,Ty Buckiso,20399,The Citadel
+2017,01/13,The Citadel - North Dakota State Dual,149,W,DEC,5 - 4,Mitchell Friedman,11668,North Dakota State,Ty Buckiso,20399,The Citadel
+2017,01/08,The Citadel - Appalachian State Dual,149,W,FALL,2:30,Miller Clark,42795,Appalachian State,Ty Buckiso,20399,The Citadel
+2017,01/01,Southern Scuffle,149,L,SV-1,3 - 1,Matthew Zovistoski,40049,Appalachian State,Ty Buckiso,20399,The Citadel
+2017,01/01,Southern Scuffle,149,W,DEC,2 - 0,Gary Dinmore,23397,Rider,Ty Buckiso,20399,The Citadel
+2017,01/01,Southern Scuffle,149,W,SV-1,3 - 1,Samuel Krivus,43190,Virginia,Ty Buckiso,20399,The Citadel
+2017,01/01,Southern Scuffle,149,L,FALL,1:13,Lavion Mayes,11599,Missouri,Ty Buckiso,20399,The Citadel
+2017,12/17,Northern Illinois - The Citadel Dual,149,L,TF5,17 - 2 7:00,Steve Bleise,20195,Northern Illinois,Ty Buckiso,20399,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,149,L,FALL,3:46,Ryan Burkert,43280,Hofstra,Ty Buckiso,20399,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,149,L,DEC,6 - 4,Beau Donahue,11933,NC State,Ty Buckiso,20399,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,149,L,MD,11 - 2,Ken Theobold,11789,Rutgers,Ty Buckiso,20399,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,149,L,FALL,3:41,Ryan Burkert,43280,Hofstra,Ty Buckiso,20399,The Citadel
+2017,11/19,Navy Classic,149,W,MD,12 - 0,Robert Duxbury,47797,Delaware Valley,Ty Buckiso,20399,The Citadel
+2017,11/19,Navy Classic,149,W,TF5,16 - 0 5:49,Nick Steed,40363,Ohio,Ty Buckiso,20399,The Citadel
+2017,11/19,Navy Classic,149,W,SV-1,6 - 4,Tim Rooney,39949,Kent State,Ty Buckiso,20399,The Citadel
+2017,11/19,Navy Classic,149,W,TF5,16 - 1 2:57,Luke Blanton,13850,Indiana,Ty Buckiso,20399,The Citadel
+2017,11/19,Navy Classic,149,L,SV-1,8 - 6,Sahid Kargbo,11737,George Mason,Ty Buckiso,20399,The Citadel
+2017,11/13,Journeyman Collegiate Classic,149,L,DEC,2 - 1,Fredy Stroker,39520,Minnesota,Ty Buckiso,20399,The Citadel
+2017,11/13,Journeyman Collegiate Classic,149,L,DEC,5 - 0,Kyle Shoop,39682,Lock Haven,Ty Buckiso,20399,The Citadel
+2017,11/13,Journeyman Collegiate Classic,149,L,DEC,6 - 3,Josh Maruca,39512,Arizona State,Ty Buckiso,20399,The Citadel
+2017,11/09,Coker College - The Citadel Dual,149,W,DEC,9 - 6,Bret Shurina,46496,Coker,Ty Buckiso,20399,The Citadel
+2017,11/06,Southeast Open,149,L,DEC,7 - 3,Jordan Laster,11916,Princeton,Ty Buckiso,20399,The Citadel
+2017,11/06,Southeast Open,149,W,DEC,3 - 1,Jesse Rodgers,20354,Rider,Ty Buckiso,20399,The Citadel
+2017,11/06,Southeast Open,149,W,TF5,16 - 0 4:44,Joey Abbate,15939,Duke,Ty Buckiso,20399,The Citadel
+2017,11/06,Southeast Open,149,W,DEC,9 - 4,Xaviel Ramos,11838,Duke,Ty Buckiso,20399,The Citadel
+2017,11/06,Southeast Open,149,L,DEC,6 - 5,Matthew Zovistoski,40049,Appalachian State,Ty Buckiso,20399,The Citadel
+2017,11/06,Southeast Open,149,W,FALL,1:05,Tom Page,11812,American,Ty Buckiso,20399,The Citadel
+2017,02/04,Newberry Open,149,W,DEC,5 - 4,Jake Smith,42807,UNC Pembroke,Rian Burris,45586,The Citadel
+2017,02/04,Newberry Open,149,W,FALL,4:54,Noah Walker,49808,St Andrews,Rian Burris,45586,The Citadel
+2017,02/04,Newberry Open,149,W,MD,11 - 0,Brandon Leynaud,42790,Duke,Rian Burris,45586,The Citadel
+2017,01/28,Appalachian Open,149,L,DEC,4 - 3,Sawyer Davidson,45233,North Carolina,Rian Burris,45586,The Citadel
+2017,01/28,Appalachian Open,149,W,MD,17 - 4,Tanner Stephens,20287,Old Dominion,Rian Burris,45586,The Citadel
+2017,01/28,Appalachian Open,149,L,DEC,4 - 3,Kyler Rea,44945,West Virginia,Rian Burris,45586,The Citadel
+2017,01/01,Southern Scuffle,149,L,MD,16 - 6,Cortlandt Schuyler,19989,Lehigh,Rian Burris,45586,The Citadel
+2017,01/01,Southern Scuffle,149,W,MFOR,0 - 0,Michael Monica,42794,Duke,Rian Burris,45586,The Citadel
+2017,01/01,Southern Scuffle,149,W,DEC,3 - 2,Jonce Blaylock,20266,Oklahoma State,Rian Burris,45586,The Citadel
+2017,01/01,Southern Scuffle,149,L,MD,15 - 5,Troy Heilmann,12036,North Carolina,Rian Burris,45586,The Citadel
+2017,11/20,Wolfpack Open,149,L,DEC,9 - 8,Jarrett Degen,44855,Virginia Tech,Rian Burris,45586,The Citadel
+2017,11/20,Wolfpack Open,149,W,DEC,14 - 13,Zachary Moore,39678,West Virginia,Rian Burris,45586,The Citadel
+2017,11/20,Wolfpack Open,149,W,DEC,17 - 10,Tanner Stephens,20287,Old Dominion,Rian Burris,45586,The Citadel
+2017,11/20,Wolfpack Open,149,W,MD,14 - 3,Jacob Montes,45345,American,Rian Burris,45586,The Citadel
+2017,11/20,Wolfpack Open,149,L,DEC,13 - 6,Michael Sprague,19618,American,Rian Burris,45586,The Citadel
+2017,11/06,Southeast Open,149,L,DEC,4 - 0,Stevan Smith,39992,VMI,Rian Burris,45586,The Citadel
+2017,11/06,Southeast Open,149,L,DEC,6 - 4,Jon Errico,45265,Pennsylvania,Rian Burris,45586,The Citadel
+2017,11/06,Southeast Open,149,W,TF5,16 - 0 6:18,Dante Veltri,45234,North Carolina,Rian Burris,45586,The Citadel
+2017,11/06,Southeast Open,149,W,MD,16 - 6,Sawyer Davidson,45233,North Carolina,Rian Burris,45586,The Citadel
+2017,11/06,Southeast Open,149,W,TF5,16 - 0 4:16,Matthew Conte,46024,American,Rian Burris,45586,The Citadel
+2017,03/16,NCAA Championships,157,L,DEC,5 - 3,Casey Sparkman,19970,Kent State,Aaron Walker,13517,The Citadel
+2017,03/16,NCAA Championships,157,L,FALL,1:27,Joey Lavallee,13513,Missouri,Aaron Walker,13517,The Citadel
+2017,03/04,SoCon Championships,157,W,DEC,4 - 1,Neal Richards,39991,VMI,Aaron Walker,13517,The Citadel
+2017,03/04,SoCon Championships,157,W,MD,12 - 2,Karsten Van Velsor,13807,SIU Edwardsville,Aaron Walker,13517,The Citadel
+2017,03/04,SoCon Championships,157,L,SV-1,3 - 1,Ryan Mosley,11753,Gardner-Webb,Aaron Walker,13517,The Citadel
+2017,03/04,SoCon Championships,157,W,MD,14 - 2,Dylanger Potter,44789,Chattanooga,Aaron Walker,13517,The Citadel
+2017,03/04,SoCon Championships,157,W,DEC,7 - 4,Austin Kraisser,44588,Campbell,Aaron Walker,13517,The Citadel
+2017,02/19,Davidson - The Citadel Dual,157,W,FALL,2:58,Tony Palumbo,40330,Davidson,Aaron Walker,13517,The Citadel
+2017,02/12,The Citadel - Chattanooga Dual,157,W,MD,10 - 2,Dylanger Potter,44789,Chattanooga,Aaron Walker,13517,The Citadel
+2017,02/09,Southern Illinois Edwardsville - The Citadel Dual,157,W,DEC,10 - 5,Karsten Van Velsor,13807,SIU Edwardsville,Aaron Walker,13517,The Citadel
+2017,02/05,Campbell - The Citadel Dual,157,W,FALL,2:45,Jordan Eley,40052,Campbell,Aaron Walker,13517,The Citadel
+2017,01/29,All Academy Championships,157,W,DEC,6 - 0,Christopher Sullivan,49586,Coast Guard,Aaron Walker,13517,The Citadel
+2017,01/29,All Academy Championships,157,L,DEC,5 - 2,Neal Richards,39991,VMI,Aaron Walker,13517,The Citadel
+2017,01/29,All Academy Championships,157,W,DEC,4 - 0,Casey Cowan,20599,Navy,Aaron Walker,13517,The Citadel
+2017,01/29,All Academy Championships,157,L,MFOR,0 - 0,Alex Mossing,23680,Air Force,Aaron Walker,13517,The Citadel
+2017,01/27,The Citadel - VMI Dual,157,W,DEC,11 - 10,Neal Richards,39991,VMI,Aaron Walker,13517,The Citadel
+2017,01/21,Gardner-Webb - The Citadel Dual,157,W,DEC,4 - 3,Ryan Mosley,11753,Gardner-Webb,Aaron Walker,13517,The Citadel
+2017,01/14,The Citadel - Kent State Dual,157,W,DEC,10 - 6,Casey Sparkman,19970,Kent State,Aaron Walker,13517,The Citadel
+2017,01/13,The Citadel - Old Dominion Dual,157,W,FALL,4:51,Shane Jones,39984,Old Dominion,Aaron Walker,13517,The Citadel
+2017,01/13,The Citadel - Virginia Dual,157,L,DEC,14 - 13,Andrew Atkinson,11982,Virginia,Aaron Walker,13517,The Citadel
+2017,01/13,The Citadel - North Dakota State Dual,157,W,DEC,7 - 2,Kyle Gliva,13424,North Dakota State,Aaron Walker,13517,The Citadel
+2017,01/08,The Citadel - Appalachian State Dual,157,W,FALL,5:38,Gavin Londoff,44823,Appalachian State,Aaron Walker,13517,The Citadel
+2017,01/01,Southern Scuffle,157,W,DEC,6 - 3,Taylor Simaz,13490,Cornell,Aaron Walker,13517,The Citadel
+2017,01/01,Southern Scuffle,157,L,MD,19 - 6,Chase Delande,15217,Edinboro,Aaron Walker,13517,The Citadel
+2017,01/01,Southern Scuffle,157,L,DEC,7 - 2,Paden Moore,39541,Northern Iowa,Aaron Walker,13517,The Citadel
+2017,12/17,Northern Illinois - The Citadel Dual,157,L,DEC,15 - 11,Caden McWhirter,40016,Northern Illinois,Aaron Walker,13517,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,157,W,SV-1,12 - 10,John Van Brill,20367,Rutgers,Aaron Walker,13517,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,157,L,DEC,8 - 7,May Bethea,20309,Pennsylvania,Aaron Walker,13517,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,157,W,MFOR,0 - 0,Max Rohskopf,13645,NC State,Aaron Walker,13517,The Citadel
+2017,11/19,Navy Classic,157,W,FALL,6:28,Sekou Harris,21552,Delaware Valley,Aaron Walker,13517,The Citadel
+2017,11/19,Navy Classic,157,W,MD,17 - 7,Zach Elvin,43194,Navy,Aaron Walker,13517,The Citadel
+2017,11/19,Navy Classic,157,W,MD,12 - 3,Zach Elvin,43194,Navy,Aaron Walker,13517,The Citadel
+2017,11/19,Navy Classic,157,L,DEC,8 - 6,Casey Sparkman,19970,Kent State,Aaron Walker,13517,The Citadel
+2017,11/19,Navy Classic,157,W,DEC,5 - 3,Jake Danishek,20520,Indiana,Aaron Walker,13517,The Citadel
+2017,11/19,Navy Classic,157,W,FALL,4:03,William McDonald,15839,Brown,Aaron Walker,13517,The Citadel
+2017,11/13,Journeyman Collegiate Classic,157,W,DEC,5 - 3,Rylan Lubeck,13818,Wisconsin,Aaron Walker,13517,The Citadel
+2017,11/13,Journeyman Collegiate Classic,157,W,FALL,1:30,Carson Brolsma,39549,Minnesota,Aaron Walker,13517,The Citadel
+2017,11/13,Journeyman Collegiate Classic,157,W,DEC,7 - 6,Josh Shields,39511,Arizona State,Aaron Walker,13517,The Citadel
+2017,11/09,Coker College - The Citadel Dual,157,W,DEC,11 - 4,Jordon Tague,46497,Coker,Aaron Walker,13517,The Citadel
+2017,11/06,Southeast Open,157,L,DEC,5 - 2,Alex Rice,43297,Newberry,Aaron Walker,13517,The Citadel
+2017,11/06,Southeast Open,157,L,DEC,6 - 2,Russell Parsons,19642,Army West Point,Aaron Walker,13517,The Citadel
+2017,03/04,SoCon Championships,165,L,DEC,7 - 2,Cade Kiely,45419,VMI,Ruston Hill II,45585,The Citadel
+2017,03/04,SoCon Championships,165,L,TF5,16 - 0 3:49,Tyler Marinelli,20797,Gardner-Webb,Ruston Hill II,45585,The Citadel
+2017,02/19,Davidson - The Citadel Dual,165,W,DEC,10 - 5,Noah Satterfield,44861,Davidson,Ruston Hill II,45585,The Citadel
+2017,02/09,Southern Illinois Edwardsville - The Citadel Dual,165,L,FALL,4:23,Clayton Bass,20379,SIU Edwardsville,Ruston Hill II,45585,The Citadel
+2017,02/05,Campbell - The Citadel Dual,165,L,TF5,18 - 2 4:03,Quentin Perez,40421,Campbell,Ruston Hill II,45585,The Citadel
+2017,01/29,All Academy Championships,165,L,DEC,6 - 4,Nick Remke,49592,Coast Guard,Ruston Hill II,45585,The Citadel
+2017,01/29,All Academy Championships,165,L,MD,12 - 2,Tyler Wiederholt,44897,Air Force,Ruston Hill II,45585,The Citadel
+2017,01/27,The Citadel - VMI Dual,165,L,DEC,4 - 0,Cade Kiely,45419,VMI,Ruston Hill II,45585,The Citadel
+2017,01/13,The Citadel - Virginia Dual,165,L,MD,15 - 2,Ray Bethea,13502,Virginia,Ruston Hill II,45585,The Citadel
+2017,01/13,The Citadel - North Dakota State Dual,165,L,TF5,17 - 0 7:00,Andrew Fogarty,39706,North Dakota State,Ruston Hill II,45585,The Citadel
+2017,01/08,The Citadel - Appalachian State Dual,165,L,TF5,16 - 1 7:00,Forrest Przybysz,12877,Appalachian State,Ruston Hill II,45585,The Citadel
+2017,01/01,Southern Scuffle,165,L,FALL,3:57,Cole Walter,39722,Lehigh,Ruston Hill II,45585,The Citadel
+2017,01/01,Southern Scuffle,165,W,DEC,8 - 1,Jason Carr,17322,The Citadel,Ruston Hill II,45585,The Citadel
+2017,01/01,Southern Scuffle,165,L,DEC,9 - 2,Alexandre Lopouchanski,39855,Air Force,Ruston Hill II,45585,The Citadel
+2017,12/17,Northern Illinois - The Citadel Dual,165,L,DEC,6 - 3,Andrew Scott,40213,Northern Illinois,Ruston Hill II,45585,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,165,L,FALL,1:15,Joe Velliquette,20320,Pennsylvania,Ruston Hill II,45585,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,165,L,DEC,3 - 0,Anthony Pafumi,12873,Rutgers,Ruston Hill II,45585,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,165,L,DEC,4 - 2,Richard Muniz,15152,Brown,Ruston Hill II,45585,The Citadel
+2017,11/19,Navy Classic,165,L,DEC,12 - 5,Alexander Herringshaw,45275,Campbell,Ruston Hill II,45585,The Citadel
+2017,11/19,Navy Classic,165,L,DEC,10 - 3,Vincent DePrez,19651,Binghamton,Ruston Hill II,45585,The Citadel
+2017,11/13,Journeyman Collegiate Classic,165,W,DEC,5 - 4,Eduardo Ramirez,47151,LIU,Ruston Hill II,45585,The Citadel
+2017,11/13,Journeyman Collegiate Classic,165,L,FALL,2:49,Brendan Dent,40942,Cortland State,Ruston Hill II,45585,The Citadel
+2017,11/13,Journeyman Collegiate Classic,165,W,FALL,3:28,Ryan Therrien,14813,Buffalo,Ruston Hill II,45585,The Citadel
+2017,11/09,Coker College - The Citadel Dual,165,W,DEC,4 - 2,Marcus Bisono,46498,Coker,Ruston Hill II,45585,The Citadel
+2017,11/06,Southeast Open,165,L,DEC,6 - 2,Cade Kiely,45419,VMI,Ruston Hill II,45585,The Citadel
+2017,11/06,Southeast Open,165,W,MD,11 - 2,Robert Meadows,46137,Brewton-Parker,Ruston Hill II,45585,The Citadel
+2017,11/06,Southeast Open,165,L,DEC,2 - 0,Mitch Finesilver,19861,Duke,Ruston Hill II,45585,The Citadel
+2017,11/06,Southeast Open,165,W,MD,16 - 6,Nick Carey,19612,American,Ruston Hill II,45585,The Citadel
+2017,02/12,The Citadel - Chattanooga Dual,165,L,FALL,4:59,Justin Lampe,40210,Chattanooga,Jason Carr,17322,The Citadel
+2017,01/21,Gardner-Webb - The Citadel Dual,165,L,MD,16 - 4,Tyler Marinelli,20797,Gardner-Webb,Jason Carr,17322,The Citadel
+2017,01/14,The Citadel - Kent State Dual,165,L,DEC,5 - 0,Jared Walker,39690,Kent State,Jason Carr,17322,The Citadel
+2017,01/13,The Citadel - Old Dominion Dual,165,L,MD,14 - 5,Seldon Wright,39604,Old Dominion,Jason Carr,17322,The Citadel
+2017,01/01,Southern Scuffle,165,L,FALL,2:14,Bryce Steiert,39504,Northern Iowa,Jason Carr,17322,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,165,L,MD,15 - 2,Bobby Fehr,19925,Hofstra,Jason Carr,17322,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,165,L,TF5,16 - 1 2:12,Quentin Perez,40421,Campbell,Jason Carr,17322,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,165,L,TF5,15 - 0 5:05,Willie Scott,39861,Rutgers,Jason Carr,17322,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,165,L,MD,14 - 2,Bobby Fehr,19925,Hofstra,Jason Carr,17322,The Citadel
+2017,11/19,Navy Classic,165,W,FALL,4:34,Dane Morgan,46500,Johns Hopkins,Jason Carr,17322,The Citadel
+2017,11/19,Navy Classic,165,L,MFOR,0 - 0,Bryce Martin,20524,Indiana,Jason Carr,17322,The Citadel
+2017,11/19,Navy Classic,165,L,TF5,20 - 5 4:03,Logan Kerin,11850,Bucknell,Jason Carr,17322,The Citadel
+2017,11/13,Journeyman Collegiate Classic,165,L,MD,11 - 3,Justin Kresevic,14838,Ohio State,Jason Carr,17322,The Citadel
+2017,11/13,Journeyman Collegiate Classic,165,L,DEC,6 - 0,Jared Siegrist,45101,Lock Haven,Jason Carr,17322,The Citadel
+2017,11/13,Journeyman Collegiate Classic,165,L,MD,15 - 3,Derek Holcomb,19720,Buffalo,Jason Carr,17322,The Citadel
+2017,11/09,Coker College - The Citadel Dual,174,L,DEC,14 - 8,Jamal Lackey,42966,Coker,Jason Carr,17322,The Citadel
+2017,11/06,Southeast Open,165,L,TF5,18 - 0 5:00,Monte Britton,20778,Campbell,Jason Carr,17322,The Citadel
+2017,11/06,Southeast Open,165,L,TF5,16 - 1 2:53,Forrest Przybysz,12877,Appalachian State,Jason Carr,17322,The Citadel
+2017,03/04,SoCon Championships,174,L,FALL,2:07,Austin Trott,14906,Gardner-Webb,Martin Duane,45583,The Citadel
+2017,03/04,SoCon Championships,174,L,FALL,6:18,Conor Fenn,45250,Davidson,Martin Duane,45583,The Citadel
+2017,02/19,Davidson - The Citadel Dual,174,L,DEC,7 - 4,Conor Fenn,45250,Davidson,Martin Duane,45583,The Citadel
+2017,02/12,The Citadel - Chattanooga Dual,174,L,TF5,18 - 0 3:58,Sean Mappes,19775,Chattanooga,Martin Duane,45583,The Citadel
+2017,02/09,Southern Illinois Edwardsville - The Citadel Dual,174,L,TF5,18 - 0 5:00,Jake Residori,12297,SIU Edwardsville,Martin Duane,45583,The Citadel
+2017,02/05,Campbell - The Citadel Dual,174,L,DEC,8 - 2,John Weiss,20790,Campbell,Martin Duane,45583,The Citadel
+2017,01/29,All Academy Championships,174,L,FALL,5:35,Michael Palomba,49591,Coast Guard,Martin Duane,45583,The Citadel
+2017,01/29,All Academy Championships,174,L,FALL,1:35,Ben Harvey,40935,Army West Point,Martin Duane,45583,The Citadel
+2017,01/27,The Citadel - VMI Dual,174,L,DEC,4 - 2,Shabaka Johns,13778,VMI,Martin Duane,45583,The Citadel
+2017,01/21,Gardner-Webb - The Citadel Dual,174,L,FALL,1:29,Austin Trott,14906,Gardner-Webb,Martin Duane,45583,The Citadel
+2017,01/14,The Citadel - Kent State Dual,174,L,TF5,17 - 1 7:00,Jairod James,19971,Kent State,Martin Duane,45583,The Citadel
+2017,01/13,The Citadel - Old Dominion Dual,174,L,MD,11 - 0,Antonio Agee,44635,Old Dominion,Martin Duane,45583,The Citadel
+2017,01/13,The Citadel - Virginia Dual,174,L,TF5,16 - 1 7:00,Garrett Peppelman,20431,Virginia,Martin Duane,45583,The Citadel
+2017,01/13,The Citadel - North Dakota State Dual,174,L,TF5,16 - 0 7:00,Dylan Urbach,20050,North Dakota State,Martin Duane,45583,The Citadel
+2017,01/08,The Citadel - Appalachian State Dual,174,L,TF5,18 - 3 7:00,Nick Kee,14557,Appalachian State,Martin Duane,45583,The Citadel
+2017,01/01,Southern Scuffle,174,L,FALL,4:27,Mark Hall,44839,Penn State,Martin Duane,45583,The Citadel
+2017,01/01,Southern Scuffle,174,L,TF5,16 - 1 4:23,Drew Hull,13919,Virginia,Martin Duane,45583,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,184,L,TF5,23 - 7 6:29,Michael Macchiavello,12532,NC State,Martin Duane,45583,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,184,L,DEC,5 - 3,Christian LaFragola,40032,Brown,Martin Duane,45583,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,184,L,MD,12 - 3,Michael Oxley,19929,Hofstra,Martin Duane,45583,The Citadel
+2017,11/13,Journeyman Collegiate Classic,184,L,FALL,0:32,Deuly Espinal,47157,Cortland State,Martin Duane,45583,The Citadel
+2017,11/13,Journeyman Collegiate Classic,184,L,FALL,1:12,Jake Ashcraft,42671,Ithaca,Martin Duane,45583,The Citadel
+2017,11/13,Journeyman Collegiate Classic,184,L,TF5,21 - 6 5:00,Chris Pfarr,11524,Minnesota,Martin Duane,45583,The Citadel
+2017,11/06,Southeast Open,184,L,MD,12 - 3,Ryan Patchin,41283,Notre Dame,Martin Duane,45583,The Citadel
+2017,11/06,Southeast Open,184,L,DEC,9 - 2,Phillip Stolfi,44942,George Mason,Martin Duane,45583,The Citadel
+2017,02/04,Newberry Open,174,W,MFOR,0 - 0,Michael Carew,48479,Shorter,Michael Mewhorter,49812,The Citadel
+2017,02/04,Newberry Open,174,L,MD,12 - 3,Nathaniel Kale,45577,Gardner-Webb,Michael Mewhorter,49812,The Citadel
+2017,02/04,Newberry Open,174,W,MD,11 - 1,Chance Marriotti,40788,Shorter,Michael Mewhorter,49812,The Citadel
+2017,03/04,SoCon Championships,184,L,MD,14 - 3,Konner Pritchard,19842,Davidson,Chandler Sambets,20403,The Citadel
+2017,03/04,SoCon Championships,184,L,FALL,3:38,Ville Heino,12518,Campbell,Chandler Sambets,20403,The Citadel
+2017,02/19,Davidson - The Citadel Dual,184,L,FALL,5:44,Konner Pritchard,19842,Davidson,Chandler Sambets,20403,The Citadel
+2017,02/12,The Citadel - Chattanooga Dual,184,L,TF5,18 - 3 2:09,Bryce Carr,39936,Chattanooga,Chandler Sambets,20403,The Citadel
+2017,02/09,Southern Illinois Edwardsville - The Citadel Dual,184,L,FALL,7:00,Jacob Godinez,40204,SIU Edwardsville,Chandler Sambets,20403,The Citadel
+2017,02/05,Campbell - The Citadel Dual,184,L,FALL,2:18,Ville Heino,12518,Campbell,Chandler Sambets,20403,The Citadel
+2017,01/29,All Academy Championships,184,L,DEC,5 - 2,Dan Fiorvanti,49584,Coast Guard,Chandler Sambets,20403,The Citadel
+2017,01/29,All Academy Championships,184,L,MD,13 - 1,Joseph Hennessey,49585,Norwich,Chandler Sambets,20403,The Citadel
+2017,01/27,The Citadel - VMI Dual,184,L,DEC,3 - 0,Christopher Beck,45424,VMI,Chandler Sambets,20403,The Citadel
+2017,01/21,Gardner-Webb - The Citadel Dual,184,L,TF5,18 - 2 6:16,Hunter Gamble,12878,Gardner-Webb,Chandler Sambets,20403,The Citadel
+2017,01/14,The Citadel - Kent State Dual,184,L,DEC,6 - 0,Jerald Spohn,12856,Kent State,Chandler Sambets,20403,The Citadel
+2017,01/13,The Citadel - Old Dominion Dual,184,L,TF5,19 - 3 7:00,Jack Dechow,12476,Old Dominion,Chandler Sambets,20403,The Citadel
+2017,01/13,The Citadel - Virginia Dual,184,L,MD,18 - 5,Will Schany,20435,Virginia,Chandler Sambets,20403,The Citadel
+2017,01/13,The Citadel - North Dakota State Dual,184,L,TF5,16 - 0 7:00,Tyler McNutt,20765,North Dakota State,Chandler Sambets,20403,The Citadel
+2017,01/08,The Citadel - Appalachian State Dual,184,L,FALL,1:13,David Peters-Logue,19628,Appalachian State,Chandler Sambets,20403,The Citadel
+2017,12/17,Northern Illinois - The Citadel Dual,184,L,FALL,1:49,Bryce Gorman,20203,Northern Illinois,Chandler Sambets,20403,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,184,L,MD,12 - 0,Michael Oxley,19929,Hofstra,Chandler Sambets,20403,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,184,L,TF5,16 - 0 2:25,Nicky Hall,20129,NC State,Chandler Sambets,20403,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,184,L,TF5,18 - 3 7:00,Ville Heino,12518,Campbell,Chandler Sambets,20403,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,184,L,MD,11 - 0,Michael Oxley,19929,Hofstra,Chandler Sambets,20403,The Citadel
+2017,11/19,Navy Classic,184,L,MD,10 - 2,Gabe Dzuro,20228,Ohio,Chandler Sambets,20403,The Citadel
+2017,11/19,Navy Classic,184,L,SV-1,7 - 5,Daniel Mika,19904,George Mason,Chandler Sambets,20403,The Citadel
+2017,11/13,Journeyman Collegiate Classic,184,L,DEC,5 - 4,Colin Barber,42718,Cortland State,Chandler Sambets,20403,The Citadel
+2017,11/13,Journeyman Collegiate Classic,184,W,DEC,5 - 4,Logan Mcginn,41712,LIU,Chandler Sambets,20403,The Citadel
+2017,11/13,Journeyman Collegiate Classic,184,L,DEC,7 - 4,Conner Small,39747,Arizona State,Chandler Sambets,20403,The Citadel
+2017,11/09,Coker College - The Citadel Dual,184,W,FALL,1:53,Jordan Garlow,21638,Coker,Chandler Sambets,20403,The Citadel
+2017,11/06,Southeast Open,184,L,DEC,8 - 2,Tony Vezzetti,46096,Notre Dame,Chandler Sambets,20403,The Citadel
+2017,11/06,Southeast Open,184,L,TF5,16 - 0 3:00,Noah Stewart,44599,Army West Point,Chandler Sambets,20403,The Citadel
+2017,02/04,Newberry Open,184,L,FALL,3:11,Daniell Kembrell,49816,Limestone,Bradley Mewhorter,40711,The Citadel
+2017,02/04,Newberry Open,184,W,TF5,21 - 2 7:00,Robert Hardin,49784,Brewton-Parker,Bradley Mewhorter,40711,The Citadel
+2017,02/04,Newberry Open,184,L,DEC,10 - 3,Steven Decius,40719,Limestone,Bradley Mewhorter,40711,The Citadel
+2017,12/17,Northern Illinois - The Citadel Dual,174,L,FALL,1:59,Trace Engelkes,11506,Northern Illinois,Bradley Mewhorter,40711,The Citadel
+2017,03/04,SoCon Championships,197,L,DEC,11 - 4,Jake Tindle,12670,SIU Edwardsville,Sawyer Root,39846,The Citadel
+2017,03/04,SoCon Championships,197,W,FALL,5:29,Ryan Devlin,14848,Davidson,Sawyer Root,39846,The Citadel
+2017,03/04,SoCon Championships,197,W,MD,13 - 1,Randall Diabe,40409,Appalachian State,Sawyer Root,39846,The Citadel
+2017,02/19,Davidson - The Citadel Dual,197,W,MD,9 - 0,Ryan Devlin,14848,Davidson,Sawyer Root,39846,The Citadel
+2017,02/12,The Citadel - Chattanooga Dual,197,W,MD,13 - 1,Ira Dent,12620,Chattanooga,Sawyer Root,39846,The Citadel
+2017,02/09,Southern Illinois Edwardsville - The Citadel Dual,197,W,DEC,3 - 2,Jake Tindle,12670,SIU Edwardsville,Sawyer Root,39846,The Citadel
+2017,02/05,Campbell - The Citadel Dual,197,L,FALL,1:29,Willie Bivens,39741,Campbell,Sawyer Root,39846,The Citadel
+2017,01/29,All Academy Championships,197,W,DEC,4 - 0,Blake Bunce,42378,Merchant Marine,Sawyer Root,39846,The Citadel
+2017,01/29,All Academy Championships,197,W,DEC,8 - 7,Taylor Thomas,20702,VMI,Sawyer Root,39846,The Citadel
+2017,01/29,All Academy Championships,197,W,DEC,6 - 1,Blake Bunce,42378,Merchant Marine,Sawyer Root,39846,The Citadel
+2017,01/29,All Academy Championships,197,L,DEC,7 - 6,Anthony McLaughlin,23674,Air Force,Sawyer Root,39846,The Citadel
+2017,01/27,The Citadel - VMI Dual,197,W,MD,8 - 0,Taylor Thomas,20702,VMI,Sawyer Root,39846,The Citadel
+2017,01/21,Gardner-Webb - The Citadel Dual,197,W,MD,10 - 2,Payton Mills,20799,Gardner-Webb,Sawyer Root,39846,The Citadel
+2017,01/14,The Citadel - Kent State Dual,197,L,DEC,11 - 5,Stephen Suglio,13094,Kent State,Sawyer Root,39846,The Citadel
+2017,01/13,The Citadel - Old Dominion Dual,197,L,TF5,17 - 2 7:00,Kevin Beazley,12757,Old Dominion,Sawyer Root,39846,The Citadel
+2017,01/13,The Citadel - Virginia Dual,197,W,DEC,4 - 2,Chance McClure,20430,Virginia,Sawyer Root,39846,The Citadel
+2017,01/13,The Citadel - North Dakota State Dual,197,W,SV-1,7 - 5,Cordell Eaton,40458,North Dakota State,Sawyer Root,39846,The Citadel
+2017,01/08,The Citadel - Appalachian State Dual,197,W,DEC,7 - 2,Randall Diabe,40409,Appalachian State,Sawyer Root,39846,The Citadel
+2017,01/01,Southern Scuffle,197,L,TF5,18 - 3 7:00,J'den Cox,13114,Missouri,Sawyer Root,39846,The Citadel
+2017,01/01,Southern Scuffle,197,L,FALL,3:51,Joshua Murphy,19853,Drexel,Sawyer Root,39846,The Citadel
+2017,12/17,Northern Illinois - The Citadel Dual,197,L,DEC,2 - 1,Shawn Scott,13164,Northern Illinois,Sawyer Root,39846,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,197,W,DEC,6 - 1,Matt Correnti,44705,Rutgers,Sawyer Root,39846,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,197,L,DEC,6 - 2,Frank Mattiace,13058,Pennsylvania,Sawyer Root,39846,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,197,W,DEC,4 - 3,Nezar Haddad,19850,Hofstra,Sawyer Root,39846,The Citadel
+2017,11/19,Navy Classic,197,W,MD,11 - 3,Joshua Roetman,45378,Navy,Sawyer Root,39846,The Citadel
+2017,11/19,Navy Classic,197,L,DEC,5 - 2,Steban Cervantes,20597,Navy,Sawyer Root,39846,The Citadel
+2017,11/19,Navy Classic,197,L,TF5,17 - 2 4:51,Stephen Suglio,13094,Kent State,Sawyer Root,39846,The Citadel
+2017,11/19,Navy Classic,197,L,FALL,0:34,Jakob Hinz,40067,Indiana,Sawyer Root,39846,The Citadel
+2017,11/19,Navy Classic,197,W,DEC,4 - 2,Norman Conley,39929,Indiana,Sawyer Root,39846,The Citadel
+2017,11/19,Navy Classic,197,W,MD,10 - 1,Willie Bivens,39741,Campbell,Sawyer Root,39846,The Citadel
+2017,11/13,Journeyman Collegiate Classic,197,W,MD,11 - 3,Eric Peissig,16414,Wisconsin,Sawyer Root,39846,The Citadel
+2017,11/13,Journeyman Collegiate Classic,197,L,DEC,9 - 8,Daniel Chaid,45044,North Carolina,Sawyer Root,39846,The Citadel
+2017,11/13,Journeyman Collegiate Classic,197,L,TF5,19 - 4 7:00,Brett Pfarr,12441,Minnesota,Sawyer Root,39846,The Citadel
+2017,11/09,Coker College - The Citadel Dual,197,W,FALL,0:39,Temaris Dixon,43006,Coker,Sawyer Root,39846,The Citadel
+2017,11/06,Southeast Open,197,L,MD,18 - 8,Ben Darmstadt,45876,Spartan Combat RTC,Sawyer Root,39846,The Citadel
+2017,11/06,Southeast Open,197,W,DEC,7 - 4,Devaunje Franklin Smith,12635,Chattanooga,Sawyer Root,39846,The Citadel
+2017,11/06,Southeast Open,197,L,MD,10 - 1,Kevin Beazley,12757,Old Dominion,Sawyer Root,39846,The Citadel
+2017,11/06,Southeast Open,197,W,DEC,8 - 5,Daniel Chaid,45044,North Carolina,Sawyer Root,39846,The Citadel
+2017,03/04,SoCon Championships,285,W,DEC,6 - 4,Jake McKiernan,20382,SIU Edwardsville,Joe Bexley,14177,The Citadel
+2017,03/04,SoCon Championships,285,W,MD,11 - 3,Will Cooley,19839,Davidson,Joe Bexley,14177,The Citadel
+2017,03/04,SoCon Championships,285,L,DEC,6 - 1,Jared Johnson,19773,Chattanooga,Joe Bexley,14177,The Citadel
+2017,03/04,SoCon Championships,285,L,DEC,6 - 0,Jared Johnson,19773,Chattanooga,Joe Bexley,14177,The Citadel
+2017,02/19,Davidson - The Citadel Dual,285,W,MD,11 - 2,Will Cooley,19839,Davidson,Joe Bexley,14177,The Citadel
+2017,02/12,The Citadel - Chattanooga Dual,285,L,MD,9 - 0,Jared Johnson,19773,Chattanooga,Joe Bexley,14177,The Citadel
+2017,02/09,Southern Illinois Edwardsville - The Citadel Dual,285,L,DEC,4 - 3,Jake McKiernan,20382,SIU Edwardsville,Joe Bexley,14177,The Citadel
+2017,02/05,Campbell - The Citadel Dual,285,L,DEC,6 - 0,Jere Heino,40434,Campbell,Joe Bexley,14177,The Citadel
+2017,01/29,All Academy Championships,285,W,TF5,15 - 0 7:00,Thomas Shea-Roop,45425,VMI,Joe Bexley,14177,The Citadel
+2017,01/29,All Academy Championships,285,W,DEC,5 - 3,Victor Raigoza,47605,Merchant Marine,Joe Bexley,14177,The Citadel
+2017,01/29,All Academy Championships,285,L,DEC,3 - 0,Thomas Ott,40265,Navy,Joe Bexley,14177,The Citadel
+2017,01/29,All Academy Championships,285,L,DEC,7 - 0,Kerry Powers,42612,Air Force,Joe Bexley,14177,The Citadel
+2017,01/27,The Citadel - VMI Dual,285,W,DEC,5 - 1,Thomas Shea-Roop,45425,VMI,Joe Bexley,14177,The Citadel
+2017,01/21,Gardner-Webb - The Citadel Dual,285,L,MD,8 - 0,Boyce Cornwell,13173,Gardner-Webb,Joe Bexley,14177,The Citadel
+2017,01/14,The Citadel - Kent State Dual,285,L,FALL,3:42,Devin Nye,19975,Kent State,Joe Bexley,14177,The Citadel
+2017,01/13,The Citadel - Old Dominion Dual,285,W,SV-1,3 - 1,Will Hilliard,44796,Old Dominion,Joe Bexley,14177,The Citadel
+2017,01/13,The Citadel - Virginia Dual,285,L,DEC,8 - 6,Tyler Love,43203,Virginia,Joe Bexley,14177,The Citadel
+2017,01/13,The Citadel - North Dakota State Dual,285,L,FALL,3:52,Benjamin Tyanan,40498,North Dakota State,Joe Bexley,14177,The Citadel
+2017,01/08,The Citadel - Appalachian State Dual,285,L,FALL,2:11,Denzel Dejournette,14276,Appalachian State,Joe Bexley,14177,The Citadel
+2017,01/01,Southern Scuffle,285,L,FALL,3:00,Michael Hughes,14198,Hofstra,Joe Bexley,14177,The Citadel
+2017,01/01,Southern Scuffle,285,L,SV-1,5 - 3,Tanner Allen,20264,Oklahoma State,Joe Bexley,14177,The Citadel
+2017,12/17,Northern Illinois - The Citadel Dual,285,L,DEC,8 - 4,Caleb Gossett,40013,Northern Illinois,Joe Bexley,14177,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,285,L,DEC,2 - 1,Marc McDonald,43940,Rutgers,Joe Bexley,14177,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,285,L,DEC,4 - 2,Jere Heino,40434,Campbell,Joe Bexley,14177,The Citadel
+2017,12/04,Journeymen Tussle Hofstra Inv.,285,L,DEC,4 - 0,Ian Butterbrodt,39770,Brown,Joe Bexley,14177,The Citadel
+2017,11/19,Navy Classic,285,L,DEC,4 - 1,Zachery Roseberry,21575,Delaware Valley,Joe Bexley,14177,The Citadel
+2017,11/19,Navy Classic,285,L,FALL,3:46,Zack Parker,20235,Ohio,Joe Bexley,14177,The Citadel
+2017,11/19,Navy Classic,285,W,DEC,6 - 2,Andrew Piehl,44833,Navy,Joe Bexley,14177,The Citadel
+2017,11/19,Navy Classic,285,W,DEC,5 - 0,Thomas Ott,40265,Navy,Joe Bexley,14177,The Citadel
+2017,11/13,Journeyman Collegiate Classic,285,W,DEC,2 - 1,Michael Boykin,20123,NC State,Joe Bexley,14177,The Citadel
+2017,11/13,Journeyman Collegiate Classic,285,L,DEC,5 - 2,Doug Vollaro,14167,Lehigh,Joe Bexley,14177,The Citadel
+2017,11/09,Coker College - The Citadel Dual,285,W,FALL,3:56,Nathan Troutvine,46499,Coker,Joe Bexley,14177,The Citadel
+2017,11/06,Southeast Open,285,L,FALL,1:28,Patrik Garren,20313,Pennsylvania,Joe Bexley,14177,The Citadel
+2017,11/06,Southeast Open,285,W,TF5,16 - 1 7:00,Mashawn Knight,40728,Brewton-Parker,Joe Bexley,14177,The Citadel
+2017,11/06,Southeast Open,285,W,MD,18 - 4,Ali Wahab,44627,Old Dominion,Joe Bexley,14177,The Citadel
+2017,11/06,Southeast Open,285,L,SV-1,4 - 1,Trevor Smith,14210,Army West Point,Joe Bexley,14177,The Citadel
+2017,02/04,Newberry Open,285,W,DEC,3 - 2,Ameer Daniels,49781,Lindsey Wilson,Michael McAleavey,45588,The Citadel
+2017,02/04,Newberry Open,285,W,MD,15 - 7,Cory Brown,49804,UNC Pembroke,Michael McAleavey,45588,The Citadel
+2017,02/04,Newberry Open,285,W,FALL,0:36,Jordan Billings,49814,Spartanburg Methodist College,Michael McAleavey,45588,The Citadel
+2017,02/04,Newberry Open,285,W,DEC,5 - 4,Connor Tolley,19780,Chattanooga,Michael McAleavey,45588,The Citadel
+2017,02/04,Newberry Open,285,W,MD,18 - 5,Zack Willard,45413,Appalachian State,Michael McAleavey,45588,The Citadel
+2017,01/28,Appalachian Open,285,W,DEC,3 - 1,Cary Miller,39976,Appalachian State,Michael McAleavey,45588,The Citadel
+2017,01/28,Appalachian Open,285,W,DEC,4 - 1,Michael Johnson,44973,Duke,Michael McAleavey,45588,The Citadel
+2017,01/28,Appalachian Open,285,W,FALL,0:49,Anthony Brownridge,40430,Campbell,Michael McAleavey,45588,The Citadel
+2017,01/28,Appalachian Open,285,W,DEC,6 - 3,Connor Tolley,19780,Chattanooga,Michael McAleavey,45588,The Citadel
+2017,01/28,Appalachian Open,285,W,FALL,2:35,Andrew Wade,49520,Limestone,Michael McAleavey,45588,The Citadel
+2017,01/28,Appalachian Open,285,L,DEC,3 - 1,Andrew Dunn,45111,Virginia Tech,Michael McAleavey,45588,The Citadel
+2017,01/01,Southern Scuffle,285,L,TF5,15 - 0 5:55,Joey Goodhart,19849,Drexel,Michael McAleavey,45588,The Citadel
+2017,01/01,Southern Scuffle,285,L,DEC,5 - 2,Cory Gillilland-Daniel,22024,North Carolina,Michael McAleavey,45588,The Citadel
+2017,11/06,Southeast Open,285,W,SV-1,3 - 1,Courvoisier Morrow,41861,Notre Dame,Michael McAleavey,45588,The Citadel
+2017,11/06,Southeast Open,285,W,MD,16 - 6,Bret Winters,46134,Shorter,Michael McAleavey,45588,The Citadel
+2017,11/06,Southeast Open,285,W,FALL,6:19,Aaron Spires,46090,Emmanuel,Michael McAleavey,45588,The Citadel
+2017,11/06,Southeast Open,285,W,DEC,4 - 3,Majah Couzan,46166,Emmanuel,Michael McAleavey,45588,The Citadel
+2017,11/06,Southeast Open,285,W,SV-1,6 - 4,Mike Rogers,45302,NC State,Michael McAleavey,45588,The Citadel
+2017,11/06,Southeast Open,285,L,DEC,7 - 4,Mike Rogers,45302,NC State,Michael McAleavey,45588,The Citadel

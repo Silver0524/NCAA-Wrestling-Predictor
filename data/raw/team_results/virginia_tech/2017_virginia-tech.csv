@@ -1,0 +1,656 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2017,03/16,NCAA Championships,125,W,MFOR,0 - 0,Jack Mueller,45232,Virginia,Joey Dance,12221,Virginia Tech
+2017,03/16,NCAA Championships,125,L,DEC,5 - 2,Thomas Gilman,13245,Iowa,Joey Dance,12221,Virginia Tech
+2017,03/16,NCAA Championships,125,W,SV-1,3 - 1,Tim Lambert,13256,Nebraska,Joey Dance,12221,Virginia Tech
+2017,03/16,NCAA Championships,125,W,DEC,4 - 2,Nathan Kraisser,20783,Campbell,Joey Dance,12221,Virginia Tech
+2017,03/16,NCAA Championships,125,L,SV-1,4 - 2,Jack Mueller,45232,Virginia,Joey Dance,12221,Virginia Tech
+2017,03/16,NCAA Championships,125,W,MD,12 - 2,Drew Templeman,15167,Wyoming,Joey Dance,12221,Virginia Tech
+2017,03/16,NCAA Championships,125,W,TF5,17 - 2 4:20,Gabe Townsell,45387,Stanford,Joey Dance,12221,Virginia Tech
+2017,03/04,ACC Championships,125,W,MD,17 - 4,LJ Bentley,39598,Pittsburgh,Joey Dance,12221,Virginia Tech
+2017,03/04,ACC Championships,125,W,SV-1,3 - 1,Sean Fausz,20126,NC State,Joey Dance,12221,Virginia Tech
+2017,02/19,Nebraska - Virginia Tech Dual,125,W,DEC,7 - 4,Tim Lambert,13256,Nebraska,Joey Dance,12221,Virginia Tech
+2017,02/12,South Dakota State - Virginia Tech Dual,125,W,TF5,19 - 4 6:07,Ben Gillette,13275,South Dakota State,Joey Dance,12221,Virginia Tech
+2017,02/11,North Carolina State - Virginia Tech Dual,125,W,MD,12 - 3,Sean Fausz,20126,NC State,Joey Dance,12221,Virginia Tech
+2017,01/29,Duke - Virginia Tech Dual,125,W,MD,18 - 4,Thayer Atkins,19857,Duke,Joey Dance,12221,Virginia Tech
+2017,01/27,Virginia Tech - Lehigh Dual,125,L,DEC,4 - 2,Darian Cruz,12135,Lehigh,Joey Dance,12221,Virginia Tech
+2017,01/22,Virginia - Virginia Tech Dual,125,W,MD,11 - 3,Jack Mueller,45232,Virginia,Joey Dance,12221,Virginia Tech
+2017,01/14,Oklahoma - Virginia Tech Dual,125,W,FALL,5:48,Christian Moody,39746,Oklahoma,Joey Dance,12221,Virginia Tech
+2017,01/14,North Dakota State - Virginia Tech Dual,125,W,DEC,5 - 3,Josh Rodriguez,13418,North Dakota State,Joey Dance,12221,Virginia Tech
+2017,01/13,Lock Haven - Virginia Tech Dual,125,W,TF5,20 - 4 7:00,Jake Field,12108,Lock Haven,Joey Dance,12221,Virginia Tech
+2017,01/13,Kent State - Virginia Tech Dual,125,W,TF5,22 - 7 7:00,Cory Simpson,45037,Kent State,Joey Dance,12221,Virginia Tech
+2017,01/08,Virginia Tech - North Carolina Dual,125,W,MD,13 - 1,James Szymanski,39623,North Carolina,Joey Dance,12221,Virginia Tech
+2017,01/06,Virginia Tech - Princeton Dual,125,W,DEC,9 - 2,Matteo DeVincenzo,44772,Princeton,Joey Dance,12221,Virginia Tech
+2017,12/18,Virginia Tech - West Virginia Dual,125,W,FALL,4:32,Devin Brown,39619,West Virginia,Joey Dance,12221,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,125,W,FALL,4:07,Vlad Kazakov,46273,Nebraska-Kearney,Joey Dance,12221,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,125,W,TF5,19 - 4 5:48,Devin Brown,39619,West Virginia,Joey Dance,12221,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,125,W,DEC,4 - 3,Jose Rodriguez,39639,Ohio State,Joey Dance,12221,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,125,W,DEC,4 - 2,Sean Russell,20727,Edinboro,Joey Dance,12221,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,125,W,DEC,4 - 0,Markus Simmons,39505,Iowa State,Joey Dance,12221,Virginia Tech
+2017,11/20,Virginia Tech - Missouri Dual,125,W,DEC,8 - 4,Aaron Assad,15239,Missouri,Joey Dance,12221,Virginia Tech
+2017,11/18,Virginia Tech - Northern Iowa Dual,125,W,DEC,8 - 3,Dylan Peters,13253,Northern Iowa,Joey Dance,12221,Virginia Tech
+2017,11/13,Virginia Tech - Chattanooga Dual,125,W,MD,18 - 5,Alonzo Allen,19765,Chattanooga,Joey Dance,12221,Virginia Tech
+2017,11/05,VMI - Virginia Tech Dual,125,W,DEC,7 - 1,Dalton Henderson,22457,VMI,Joey Dance,12221,Virginia Tech
+2017,11/05,Edinboro - Virginia Tech Dual,125,W,DEC,3 - 1,Sean Russell,20727,Edinboro,Joey Dance,12221,Virginia Tech
+2017,01/28,Appalachian Open,125,W,DEC,9 - 7,Louie Hayes,44641,Virginia,Kyle Norstrem,45110,Virginia Tech
+2017,01/28,Appalachian Open,125,W,DEC,7 - 4,Charlie Lenox,45032,NC State,Kyle Norstrem,45110,Virginia Tech
+2017,01/28,Appalachian Open,125,L,DEC,2 - 1,Hayden Lee,40362,Ohio,Kyle Norstrem,45110,Virginia Tech
+2017,01/28,Appalachian Open,125,W,DEC,8 - 1,Fabian Gutierrez,45245,Chattanooga,Kyle Norstrem,45110,Virginia Tech
+2017,01/07,Franklin & Marshall Open,125,W,MD,16 - 3,Austin Camacci,23581,Millersville,Kyle Norstrem,45110,Virginia Tech
+2017,01/07,Franklin & Marshall Open,125,W,DEC,9 - 2,Tommy Cox,44623,NC State,Kyle Norstrem,45110,Virginia Tech
+2017,01/07,Franklin & Marshall Open,125,W,MFOR,0 - 0,Jake Field,12108,Lock Haven,Kyle Norstrem,45110,Virginia Tech
+2017,01/07,Franklin & Marshall Open,125,W,DEC,5 - 0,Michael Russo,19704,Brown,Kyle Norstrem,45110,Virginia Tech
+2017,01/07,Franklin & Marshall Open,125,L,DEC,7 - 3,Gage Curry,44583,American,Kyle Norstrem,45110,Virginia Tech
+2017,12/17,Cleveland State Open,125,W,FALL,3:32,Jake Ayers,41293,Notre Dame,Kyle Norstrem,45110,Virginia Tech
+2017,12/17,Cleveland State Open,125,L,DEC,4 - 3,Louie Hayes,44641,Virginia,Kyle Norstrem,45110,Virginia Tech
+2017,12/17,Cleveland State Open,125,L,DEC,7 - 6,Justin Patrick,39587,Buffalo,Kyle Norstrem,45110,Virginia Tech
+2017,12/17,Cleveland State Open,125,W,FALL,1:39,Spencer Dusi,44995,Cleveland State,Kyle Norstrem,45110,Virginia Tech
+2017,12/03,Storm Open,125,W,TF5,19 - 1 7:00,Louie Lachappelle,48050,Baldwin Wallace,Kyle Norstrem,45110,Virginia Tech
+2017,12/03,Storm Open,125,L,DEC,7 - 1,Ivan McClay,46063,Notre Dame,Kyle Norstrem,45110,Virginia Tech
+2017,12/03,Storm Open,125,W,FALL,3:00,Spencer Dusi,44995,Cleveland State,Kyle Norstrem,45110,Virginia Tech
+2017,12/03,Storm Open,125,W,MD,12 - 0,Anthony Jagel,41256,Notre Dame,Kyle Norstrem,45110,Virginia Tech
+2017,11/06,Southeast Open,125,W,DEC,3 - 1,Charlie Lenox,45032,NC State,Joey Prata,44734,Virginia Tech
+2017,11/06,Southeast Open,125,L,DEC,6 - 3,Alex Vargas,45133,Maryland,Joey Prata,44734,Virginia Tech
+2017,11/06,Southeast Open,125,L,MFOR,0 - 0,Fabian Gutierrez,45245,Chattanooga,Joey Prata,44734,Virginia Tech
+2017,12/17,Cleveland State Open,125,L,TF5,18 - 2 2:58,Ivan McClay,46063,Notre Dame,Ryan Burns,45113,Virginia Tech
+2017,12/17,Cleveland State Open,125,W,DEC,10 - 3,Ryan More,45164,VA/Southeast Regional Training,Ryan Burns,45113,Virginia Tech
+2017,12/17,Cleveland State Open,125,L,MD,12 - 4,Brendan Howard,39805,Clarion,Ryan Burns,45113,Virginia Tech
+2017,03/04,ACC Championships,133,W,MD,16 - 7,Will Mason,12187,Virginia,Dennis Gustafson,11706,Virginia Tech
+2017,03/04,ACC Championships,133,L,DEC,8 - 4,Dom Forys,20323,Pittsburgh,Dennis Gustafson,11706,Virginia Tech
+2017,03/04,ACC Championships,133,W,DEC,10 - 5,Nicholas Lirette,44921,North Carolina,Dennis Gustafson,11706,Virginia Tech
+2017,03/04,ACC Championships,133,W,MD,12 - 3,Cole Baumgartner,13425,Duke,Dennis Gustafson,11706,Virginia Tech
+2017,02/19,Nebraska - Virginia Tech Dual,133,L,DEC,6 - 2,Eric Montoya,13414,Nebraska,Dennis Gustafson,11706,Virginia Tech
+2017,02/12,South Dakota State - Virginia Tech Dual,133,L,FALL,6:35,Seth Gross,19949,South Dakota State,Dennis Gustafson,11706,Virginia Tech
+2017,02/11,North Carolina State - Virginia Tech Dual,133,L,DEC,5 - 4,Jamal Morris,20136,NC State,Dennis Gustafson,11706,Virginia Tech
+2017,02/05,Edinboro Open,133,W,TF5,18 - 3 5:27,Dom Latona,45115,Virginia Tech,Dennis Gustafson,11706,Virginia Tech
+2017,02/05,Edinboro Open,133,W,TF5,16 - 1 5:00,Lane Peters,45639,United States Military Academy,Dennis Gustafson,11706,Virginia Tech
+2017,02/05,Edinboro Open,133,L,DEC,9 - 6,Lucas Hall,44682,Michigan State,Dennis Gustafson,11706,Virginia Tech
+2017,02/05,Edinboro Open,133,W,FALL,1:58,Brennen Shankles,49828,Unattached,Dennis Gustafson,11706,Virginia Tech
+2017,01/29,Duke - Virginia Tech Dual,133,L,DEC,9 - 4,Cole Baumgartner,13425,Duke,Dennis Gustafson,11706,Virginia Tech
+2017,01/27,Virginia Tech - Lehigh Dual,133,W,DEC,4 - 0,Joe Lobeck,44686,Lehigh,Dennis Gustafson,11706,Virginia Tech
+2017,01/22,Virginia - Virginia Tech Dual,133,W,MD,8 - 0,Will Mason,12187,Virginia,Dennis Gustafson,11706,Virginia Tech
+2017,01/14,Oklahoma - Virginia Tech Dual,133,W,TB-1,3 - 2,Jacob Rubio,20816,Oklahoma,Dennis Gustafson,11706,Virginia Tech
+2017,01/14,North Dakota State - Virginia Tech Dual,133,L,DEC,10 - 8,Cameron Sykora,39757,North Dakota State,Dennis Gustafson,11706,Virginia Tech
+2017,01/13,Lock Haven - Virginia Tech Dual,133,W,MD,14 - 3,DJ Fehlman,39898,Lock Haven,Dennis Gustafson,11706,Virginia Tech
+2017,01/13,Kent State - Virginia Tech Dual,133,W,TF5,18 - 3 7:00,Ethan McCoy,44790,Kent State,Dennis Gustafson,11706,Virginia Tech
+2017,01/07,Franklin & Marshall Open,133,W,TF5,17 - 2 7:00,Nick Lattanze,44760,Brown,Dennis Gustafson,11706,Virginia Tech
+2017,01/07,Franklin & Marshall Open,133,W,TF5,25 - 2 7:00,Samuel Goldman,40158,Harvard,Dennis Gustafson,11706,Virginia Tech
+2017,01/07,Franklin & Marshall Open,133,W,TF5,16 - 0 7:00,Ronnie Howard,47773,Unattached,Dennis Gustafson,11706,Virginia Tech
+2017,01/07,Franklin & Marshall Open,133,W,MD,17 - 3,Tariq Wilson,44862,NC State,Dennis Gustafson,11706,Virginia Tech
+2017,01/07,Franklin & Marshall Open,133,W,TF5,25 - 2 6:59,Samuel Goldman,40158,Harvard,Dennis Gustafson,11706,Virginia Tech
+2017,01/07,Franklin & Marshall Open,133,W,TF5,17 - 2 5:00,Nick Lattanze,44760,Brown,Dennis Gustafson,11706,Virginia Tech
+2017,01/07,Franklin & Marshall Open,133,W,TB-1,6 - 5,Micky Phillippi,45230,Virginia,Dennis Gustafson,11706,Virginia Tech
+2017,11/20,Virginia Tech - Missouri Dual,141,L,DEC,2 - 0,Zach Synon,12142,Missouri,Dennis Gustafson,11706,Virginia Tech
+2017,11/18,Virginia Tech - Northern Iowa Dual,141,W,DEC,10 - 5,Jake Hodges,11666,Northern Iowa,Dennis Gustafson,11706,Virginia Tech
+2017,11/13,Virginia Tech - Chattanooga Dual,141,W,DEC,9 - 4,Roman Boylen,39818,Chattanooga,Dennis Gustafson,11706,Virginia Tech
+2017,11/05,VMI - Virginia Tech Dual,141,W,TF5,16 - 1 4:20,John Reed,39749,VMI,Dennis Gustafson,11706,Virginia Tech
+2017,11/05,Edinboro - Virginia Tech Dual,141,W,MD,12 - 3,Nate Hagan,39830,Edinboro,Dennis Gustafson,11706,Virginia Tech
+2017,02/05,Edinboro Open,133,L,TF5,18 - 3 5:27,Dennis Gustafson,11706,Virginia Tech,Dom Latona,45115,Virginia Tech
+2017,02/05,Edinboro Open,133,L,MD,11 - 2,Ben Lamantia,39644,Michigan,Dom Latona,45115,Virginia Tech
+2017,02/05,Edinboro Open,133,W,DEC,11 - 4,Anthony Rivera,14699,Edinboro,Dom Latona,45115,Virginia Tech
+2017,01/28,Appalachian Open,133,L,MD,16 - 3,Tariq Wilson,44862,NC State,Dom Latona,45115,Virginia Tech
+2017,01/28,Appalachian Open,133,W,DEC,7 - 6,Nathan Boston,19956,Campbell,Dom Latona,45115,Virginia Tech
+2017,01/28,Appalachian Open,133,W,MD,11 - 0,Josh Finesilver,46112,Unattached,Dom Latona,45115,Virginia Tech
+2017,01/28,Appalachian Open,133,W,DEC,5 - 1,Jaquan Loney,40176,Old Dominion,Dom Latona,45115,Virginia Tech
+2017,01/08,Virginia Tech - North Carolina Dual,133,W,DEC,6 - 5,Nicholas Lirette,44921,North Carolina,Dom Latona,45115,Virginia Tech
+2017,01/06,Virginia Tech - Princeton Dual,133,L,DEC,6 - 2,Pat D'arcy,43692,Princeton,Dom Latona,45115,Virginia Tech
+2017,12/18,Virginia Tech - West Virginia Dual,133,W,DEC,6 - 2,Cory Stainbrook,12131,West Virginia,Dom Latona,45115,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,133,L,TF5,22 - 7 6:18,Nathan Tomasello,14674,Ohio State,Dom Latona,45115,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,133,W,DEC,9 - 2,Cody Lambert,40252,Navy,Dom Latona,45115,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,133,L,DEC,9 - 2,Earl Hall,12220,Iowa State,Dom Latona,45115,Virginia Tech
+2017,11/20,Virginia Tech - Missouri Dual,133,L,FALL,2:55,Jaydin Eierman,39508,Missouri,Dom Latona,45115,Virginia Tech
+2017,11/18,Virginia Tech - Northern Iowa Dual,133,L,FALL,1:47,Josh Alber,20208,Northern Iowa,Dom Latona,45115,Virginia Tech
+2017,11/13,Virginia Tech - Chattanooga Dual,133,L,DEC,10 - 5,Chris Debien,39720,Chattanooga,Dom Latona,45115,Virginia Tech
+2017,11/05,VMI - Virginia Tech Dual,133,W,DEC,7 - 6,Hunter Starner,20701,VMI,Dom Latona,45115,Virginia Tech
+2017,11/05,Edinboro - Virginia Tech Dual,133,L,MD,15 - 2,Korbin Myers,39637,Edinboro,Dom Latona,45115,Virginia Tech
+2017,03/04,ACC Championships,141,L,SV-1,7 - 5,Nick Zanetta,15385,Pittsburgh,Kevin Norstrem,11999,Virginia Tech
+2017,03/04,ACC Championships,141,L,DEC,6 - 1,Joey Ward,11615,North Carolina,Kevin Norstrem,11999,Virginia Tech
+2017,02/19,Nebraska - Virginia Tech Dual,141,L,DEC,12 - 5,Colton McCrystal,13191,Nebraska,Kevin Norstrem,11999,Virginia Tech
+2017,01/13,Lock Haven - Virginia Tech Dual,141,L,FALL,0:24,Ronnie Perry,12058,Lock Haven,Kevin Norstrem,11999,Virginia Tech
+2017,01/13,Kent State - Virginia Tech Dual,141,L,DEC,3 - 2,Chance Driscoll,11980,Kent State,Kevin Norstrem,11999,Virginia Tech
+2017,01/07,Franklin & Marshall Open,141,W,FALL,5:56,Ronnie Perry,12058,Lock Haven,Kevin Norstrem,11999,Virginia Tech
+2017,01/07,Franklin & Marshall Open,141,W,MD,12 - 4,Robert Lee,39975,Pittsburgh,Kevin Norstrem,11999,Virginia Tech
+2017,01/07,Franklin & Marshall Open,141,W,DEC,6 - 3,Kellen Devlin,44615,NC State,Kevin Norstrem,11999,Virginia Tech
+2017,01/07,Franklin & Marshall Open,141,W,DEC,3 - 1,Nicholas Gil,40255,Navy,Kevin Norstrem,11999,Virginia Tech
+2017,01/07,Franklin & Marshall Open,141,W,DEC,11 - 7,Zack Davis,20604,Navy,Kevin Norstrem,11999,Virginia Tech
+2017,02/05,Edinboro Open,141,L,DEC,6 - 4,Collin Vargo,41588,Central Michigan,Brent Moore,44666,Virginia Tech
+2017,02/05,Edinboro Open,141,L,DEC,11 - 5,Dresden Simon,44707,Central Michigan,Brent Moore,44666,Virginia Tech
+2017,02/05,Edinboro Open,141,W,MD,11 - 3,Mitchel Hrnyak,44031,Central Michigan,Brent Moore,44666,Virginia Tech
+2017,02/05,Edinboro Open,141,W,MD,13 - 5,Joe Sliwoski,44849,Clarion,Brent Moore,44666,Virginia Tech
+2017,01/28,Appalachian Open,149,L,DEC,6 - 4,Nick Vestal,44944,Ohio,Brent Moore,44666,Virginia Tech
+2017,01/28,Appalachian Open,149,W,SV-1,3 - 1,Chris Yankowich,13786,Virginia,Brent Moore,44666,Virginia Tech
+2017,01/28,Appalachian Open,149,W,FALL,1:27,Josh McClure,44697,North Carolina,Brent Moore,44666,Virginia Tech
+2017,01/28,Appalachian Open,149,W,DEC,3 - 0,Sam Martino,45237,Virginia,Brent Moore,44666,Virginia Tech
+2017,01/28,Appalachian Open,149,W,DEC,3 - 1,William Verallis,44792,Old Dominion,Brent Moore,44666,Virginia Tech
+2017,01/28,Appalachian Open,149,W,FALL,1:23,Logan Wilson,45965,West Virginia,Brent Moore,44666,Virginia Tech
+2017,01/28,Appalachian Open,149,L,MD,11 - 1,Kennedy Monday,45025,North Carolina,Brent Moore,44666,Virginia Tech
+2017,01/28,Appalachian Open,149,W,DEC,5 - 2,Jordan Eley,40052,Campbell,Brent Moore,44666,Virginia Tech
+2017,01/07,Franklin & Marshall Open,141,W,DEC,6 - 1,Jamel Morris,43775,NC State,Brent Moore,44666,Virginia Tech
+2017,01/07,Franklin & Marshall Open,141,L,DEC,5 - 4,Nicholas Gil,40255,Navy,Brent Moore,44666,Virginia Tech
+2017,01/07,Franklin & Marshall Open,141,L,DEC,7 - 3,Zack Davis,20604,Navy,Brent Moore,44666,Virginia Tech
+2017,01/07,Franklin & Marshall Open,141,W,DEC,7 - 2,Jacob Nicholson,40186,Binghamton,Brent Moore,44666,Virginia Tech
+2017,01/07,Franklin & Marshall Open,141,W,FALL,4:02,William Kui,39784,Columbia,Brent Moore,44666,Virginia Tech
+2017,12/17,Cleveland State Open,141,W,DEC,5 - 3,Austin Shaw,47962,Seton Hill,Brent Moore,44666,Virginia Tech
+2017,12/17,Cleveland State Open,141,W,MFOR,0 - 0,Luke Pletcher,44636,Ohio State,Brent Moore,44666,Virginia Tech
+2017,12/17,Cleveland State Open,141,W,FALL,1:04,Collin Adkins,45315,Kent State,Brent Moore,44666,Virginia Tech
+2017,12/17,Cleveland State Open,141,W,TF5,16 - 0 2:51,Matthew Dowler,44891,Edinboro,Brent Moore,44666,Virginia Tech
+2017,12/17,Cleveland State Open,141,W,MD,11 - 2,Evan Cheek,40190,Cleveland State,Brent Moore,44666,Virginia Tech
+2017,12/03,Storm Open,141,W,DEC,3 - 0,Brandon Tenney,48068,Wheeling,Brent Moore,44666,Virginia Tech
+2017,12/03,Storm Open,141,L,DEC,7 - 4,Daniel Romero,47964,Wheeling,Brent Moore,44666,Virginia Tech
+2017,12/03,Storm Open,141,W,FALL,1:28,Anthony Foggia,45051,Cleveland State,Brent Moore,44666,Virginia Tech
+2017,12/03,Storm Open,141,W,FALL,1:37,Chayse Csongedi,41586,Lake Erie College,Brent Moore,44666,Virginia Tech
+2017,12/03,Storm Open,141,W,FALL,0:16,Josh Davis,41585,Lake Erie College,Brent Moore,44666,Virginia Tech
+2017,12/03,Storm Open,141,W,FALL,4:33,Kizhan Clarke,44878,American,Brent Moore,44666,Virginia Tech
+2017,11/06,Southeast Open,141,W,FALL,1:21,Evan Fidelibus,44900,Rider,Brent Moore,44666,Virginia Tech
+2017,11/06,Southeast Open,141,W,DEC,3 - 0,Kellen Devlin,44615,NC State,Brent Moore,44666,Virginia Tech
+2017,11/06,Southeast Open,141,W,DEC,5 - 1,Josh McClure,44697,North Carolina,Brent Moore,44666,Virginia Tech
+2017,11/06,Southeast Open,141,W,FALL,2:09,Samuel Drew,45278,Campbell,Brent Moore,44666,Virginia Tech
+2017,11/06,Southeast Open,141,W,MD,8 - 0,Nick Noel,44709,Army West Point,Brent Moore,44666,Virginia Tech
+2017,02/05,Edinboro Open,141,L,FALL,7:00,Alex Hrisopoulos,45308,Michigan State,Andrew Mehrholz,45163,Virginia Tech
+2017,02/05,Edinboro Open,141,L,FALL,3:23,Alex Hrisopoulos,45308,Michigan State,Andrew Mehrholz,45163,Virginia Tech
+2017,02/05,Edinboro Open,141,W,DEC,7 - 1,KJ Suitor,44885,Michigan,Andrew Mehrholz,45163,Virginia Tech
+2017,02/05,Edinboro Open,141,L,TF5,16 - 0 4:56,Luke Karam,44703,Lehigh,Andrew Mehrholz,45163,Virginia Tech
+2017,02/05,Edinboro Open,141,W,DEC,14 - 8,Nate Hagan,39830,Edinboro,Andrew Mehrholz,45163,Virginia Tech
+2017,01/28,Appalachian Open,141,L,TF5,15 - 0 7:00,Jamel Morris,43775,NC State,Andrew Mehrholz,45163,Virginia Tech
+2017,01/28,Appalachian Open,141,L,DEC,7 - 4,Will Clark,39681,NC State,Andrew Mehrholz,45163,Virginia Tech
+2017,01/28,Appalachian Open,141,W,TF5,15 - 0 7:00,Austin Gould,18294,Chattanooga,Andrew Mehrholz,45163,Virginia Tech
+2017,01/07,Franklin & Marshall Open,141,L,FALL,1:15,William Kui,39784,Columbia,Andrew Mehrholz,45163,Virginia Tech
+2017,01/07,Franklin & Marshall Open,141,L,SV-1,8 - 6,Zack Davis,20604,Navy,Andrew Mehrholz,45163,Virginia Tech
+2017,01/07,Franklin & Marshall Open,141,W,DEC,6 - 5,Luke Gardner,44743,Penn State,Andrew Mehrholz,45163,Virginia Tech
+2017,12/17,Cleveland State Open,141,L,DEC,8 - 4,Drew Walker,12118,Notre Dame,Andrew Mehrholz,45163,Virginia Tech
+2017,12/17,Cleveland State Open,141,W,TF5,18 - 3 5:44,Dallas Roemer,20803,Gardner-Webb,Andrew Mehrholz,45163,Virginia Tech
+2017,12/17,Cleveland State Open,141,W,DEC,12 - 8,Jackson Renicker,45310,Michigan State,Andrew Mehrholz,45163,Virginia Tech
+2017,12/17,Cleveland State Open,141,L,DEC,2 - 1,Alex Hrisopoulos,45308,Michigan State,Andrew Mehrholz,45163,Virginia Tech
+2017,11/06,Southeast Open,141,L,FALL,1:37,Chris Diaz,44621,NC State,Austin Lamrouex,46082,Virginia Tech
+2017,02/12,South Dakota State - Virginia Tech Dual,141,L,FALL,1:14,Henry Pohlmeyer,39803,South Dakota State,Brenden Ryan,42872,Virginia Tech
+2017,02/11,North Carolina State - Virginia Tech Dual,141,L,TF5,21 - 6 7:00,Kevin Jack,20130,NC State,Brenden Ryan,42872,Virginia Tech
+2017,01/29,Duke - Virginia Tech Dual,141,L,FALL,4:02,Zach Finesilver,19862,Duke,Brenden Ryan,42872,Virginia Tech
+2017,01/27,Virginia Tech - Lehigh Dual,141,L,FALL,0:37,Randy Cruz,11853,Lehigh,Brenden Ryan,42872,Virginia Tech
+2017,01/20,Pittsburgh - Virginia Tech Dual,141,L,MD,14 - 1,Robert Lee,39975,Pittsburgh,Brenden Ryan,42872,Virginia Tech
+2017,01/14,Oklahoma - Virginia Tech Dual,141,L,MD,10 - 2,Michael Longo,19624,Oklahoma,Brenden Ryan,42872,Virginia Tech
+2017,01/14,North Dakota State - Virginia Tech Dual,141,L,FALL,0:31,Taylor Nein,45593,North Dakota State,Brenden Ryan,42872,Virginia Tech
+2017,01/08,Virginia Tech - North Carolina Dual,141,L,TF5,16 - 0 4:48,Joey Ward,11615,North Carolina,Brenden Ryan,42872,Virginia Tech
+2017,01/06,Virginia Tech - Princeton Dual,141,L,TF5,26 - 11 7:00,Matt Kolodzik,45071,Princeton,Brenden Ryan,42872,Virginia Tech
+2017,12/18,Virginia Tech - West Virginia Dual,141,L,MD,13 - 2,Joe Wheeling,13551,West Virginia,Brenden Ryan,42872,Virginia Tech
+2017,12/17,Cleveland State Open,141,L,MFOR,0 - 0,Kole Krauss,45305,Michigan State,Brenden Ryan,42872,Virginia Tech
+2017,12/17,Cleveland State Open,141,L,MFOR,0 - 0,Anthony Foggia,45051,Cleveland State,Brenden Ryan,42872,Virginia Tech
+2017,12/03,Storm Open,141,W,DEC,5 - 2,Brad Kakos,48066,Wheeling,Brenden Ryan,42872,Virginia Tech
+2017,12/03,Storm Open,141,L,DEC,11 - 5,Anthony Foggia,45051,Cleveland State,Brenden Ryan,42872,Virginia Tech
+2017,12/03,Storm Open,141,L,MD,12 - 2,Ethan McCoy,44790,Kent State,Brenden Ryan,42872,Virginia Tech
+2017,11/20,Wolfpack Open,141,L,FALL,3:25,Dallas Roemer,20803,Gardner-Webb,Brenden Ryan,42872,Virginia Tech
+2017,11/20,Wolfpack Open,141,L,MD,15 - 4,Christian Beach,45407,Appalachian State,Brenden Ryan,42872,Virginia Tech
+2017,11/06,Southeast Open,141,W,DEC,3 - 1,Tyler Williams,46068,King,Brenden Ryan,42872,Virginia Tech
+2017,11/06,Southeast Open,141,L,FALL,2:07,Patrick Munn,45264,Pennsylvania,Brenden Ryan,42872,Virginia Tech
+2017,11/06,Southeast Open,141,L,MD,16 - 4,Jack Mutchnik,13900,American,Brenden Ryan,42872,Virginia Tech
+2017,03/16,NCAA Championships,149,L,DEC,10 - 4,Max Thomsen,39503,Northern Iowa,Solomon Chishko,20440,Virginia Tech
+2017,03/16,NCAA Championships,149,L,MD,8 - 0,Brandon Sorensen,13456,Iowa,Solomon Chishko,20440,Virginia Tech
+2017,03/16,NCAA Championships,149,W,DEC,7 - 5,Ken Theobold,11789,Rutgers,Solomon Chishko,20440,Virginia Tech
+2017,03/16,NCAA Championships,149,W,MD,12 - 2,Justin Oliver,19758,Central Michigan,Solomon Chishko,20440,Virginia Tech
+2017,03/16,NCAA Championships,149,L,DEC,4 - 2,Lavion Mayes,11599,Missouri,Solomon Chishko,20440,Virginia Tech
+2017,03/16,NCAA Championships,149,W,FALL,2:53,Joey Delgado,11620,Oregon State,Solomon Chishko,20440,Virginia Tech
+2017,03/16,NCAA Championships,149,W,DEC,9 - 3,Coleman Hammond,14011,CSU Bakersfield,Solomon Chishko,20440,Virginia Tech
+2017,03/04,ACC Championships,149,W,DEC,3 - 1,Samuel Krivus,43190,Virginia,Solomon Chishko,20440,Virginia Tech
+2017,03/04,ACC Championships,149,W,DEC,12 - 7,Troy Heilmann,12036,North Carolina,Solomon Chishko,20440,Virginia Tech
+2017,02/19,Nebraska - Virginia Tech Dual,149,W,DEC,8 - 5,Collin Purinton,40505,Nebraska,Solomon Chishko,20440,Virginia Tech
+2017,02/12,South Dakota State - Virginia Tech Dual,149,W,SV-1,8 - 6,Alex Kocer,20562,South Dakota State,Solomon Chishko,20440,Virginia Tech
+2017,02/11,North Carolina State - Virginia Tech Dual,149,W,DEC,8 - 3,Sam Speno,11813,NC State,Solomon Chishko,20440,Virginia Tech
+2017,01/29,Duke - Virginia Tech Dual,149,W,MD,22 - 9,Xaviel Ramos,11838,Duke,Solomon Chishko,20440,Virginia Tech
+2017,01/27,Virginia Tech - Lehigh Dual,149,W,SV-1,3 - 1,Laike Gardner,11748,Lehigh,Solomon Chishko,20440,Virginia Tech
+2017,01/14,Oklahoma - Virginia Tech Dual,149,W,DEC,5 - 3,Davion Jeffries,39653,Oklahoma,Solomon Chishko,20440,Virginia Tech
+2017,01/14,North Dakota State - Virginia Tech Dual,149,W,DEC,3 - 2,Mitchell Friedman,11668,North Dakota State,Solomon Chishko,20440,Virginia Tech
+2017,01/13,Lock Haven - Virginia Tech Dual,149,W,DEC,8 - 3,Kyle Shoop,39682,Lock Haven,Solomon Chishko,20440,Virginia Tech
+2017,01/13,Kent State - Virginia Tech Dual,149,W,DEC,7 - 3,Tim Rooney,39949,Kent State,Solomon Chishko,20440,Virginia Tech
+2017,01/08,Virginia Tech - North Carolina Dual,149,W,DEC,11 - 5,Troy Heilmann,12036,North Carolina,Solomon Chishko,20440,Virginia Tech
+2017,01/06,Virginia Tech - Princeton Dual,149,W,DEC,9 - 3,Jordan Laster,11916,Princeton,Solomon Chishko,20440,Virginia Tech
+2017,12/18,Virginia Tech - West Virginia Dual,149,W,DEC,10 - 5,Christian Monserrat,20473,West Virginia,Solomon Chishko,20440,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,149,L,FALL,5:29,Cole Mendenhall,11607,Wyoming,Solomon Chishko,20440,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,149,W,DEC,8 - 2,Joey Delgado,11620,Oregon State,Solomon Chishko,20440,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,149,L,MFOR,0 - 0,Joey Delgado,11620,Oregon State,Solomon Chishko,20440,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,149,W,MD,12 - 4,Corey Wilding,20626,Navy,Solomon Chishko,20440,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,149,L,SV-1,5 - 3,Patricio Lugo,39919,Edinboro,Solomon Chishko,20440,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,149,W,TF5,23 - 8 6:13,Michael Sprague,19618,American,Solomon Chishko,20440,Virginia Tech
+2017,11/20,Virginia Tech - Missouri Dual,149,L,DEC,6 - 3,Lavion Mayes,11599,Missouri,Solomon Chishko,20440,Virginia Tech
+2017,11/18,Virginia Tech - Northern Iowa Dual,149,W,DEC,6 - 2,Max Thomsen,39503,Northern Iowa,Solomon Chishko,20440,Virginia Tech
+2017,11/13,Virginia Tech - Chattanooga Dual,149,W,MD,15 - 3,Dylanger Potter,44789,Chattanooga,Solomon Chishko,20440,Virginia Tech
+2017,11/05,VMI - Virginia Tech Dual,149,W,TF5,23 - 3 4:22,Stevan Smith,39992,VMI,Solomon Chishko,20440,Virginia Tech
+2017,11/05,Edinboro - Virginia Tech Dual,149,W,SV-1,7 - 5,Patricio Lugo,39919,Edinboro,Solomon Chishko,20440,Virginia Tech
+2017,02/05,Edinboro Open,149,W,FALL,4:11,Justin Smith,41312,Pitt-Johnstown,Jarrett Degen,44855,Virginia Tech
+2017,02/05,Edinboro Open,149,L,DEC,11 - 7,Zac Hall,20017,Michigan,Jarrett Degen,44855,Virginia Tech
+2017,02/05,Edinboro Open,149,W,MD,18 - 6,Cortlandt Schuyler,19989,Lehigh,Jarrett Degen,44855,Virginia Tech
+2017,02/05,Edinboro Open,149,W,DEC,9 - 8,Alexander Butler,39647,Missouri,Jarrett Degen,44855,Virginia Tech
+2017,02/05,Edinboro Open,149,W,MD,18 - 4,JP Ascolese,19808,Columbia,Jarrett Degen,44855,Virginia Tech
+2017,01/28,Appalachian Open,149,L,DEC,5 - 2,Nick Vestal,44944,Ohio,Jarrett Degen,44855,Virginia Tech
+2017,01/28,Appalachian Open,149,W,DEC,6 - 5,Kyler Rea,44945,West Virginia,Jarrett Degen,44855,Virginia Tech
+2017,01/28,Appalachian Open,149,W,DEC,6 - 0,Luke Mullin,45244,Chattanooga,Jarrett Degen,44855,Virginia Tech
+2017,01/28,Appalachian Open,149,L,DEC,9 - 8,Beau Donahue,11933,NC State,Jarrett Degen,44855,Virginia Tech
+2017,01/28,Appalachian Open,149,W,MD,10 - 2,Joby Armenta,20791,Gardner-Webb,Jarrett Degen,44855,Virginia Tech
+2017,01/28,Appalachian Open,149,W,MD,14 - 2,Brandon Leynaud,42790,Duke,Jarrett Degen,44855,Virginia Tech
+2017,01/07,Franklin & Marshall Open,149,L,DEC,5 - 2,Travis Vasquez,39776,Brown,Jarrett Degen,44855,Virginia Tech
+2017,01/07,Franklin & Marshall Open,149,L,DEC,5 - 3,Ryan Kemmerer,46181,Temple,Jarrett Degen,44855,Virginia Tech
+2017,01/07,Franklin & Marshall Open,149,W,TF5,21 - 2 7:00,Curtis Decker,45153,Pittsburgh,Jarrett Degen,44855,Virginia Tech
+2017,12/03,Storm Open,149,W,TB-1,6 - 4,Dakotah Goff,48065,Wheeling,Jarrett Degen,44855,Virginia Tech
+2017,12/03,Storm Open,149,W,DEC,5 - 4,Tyler Brewer,47969,Davenport,Jarrett Degen,44855,Virginia Tech
+2017,12/03,Storm Open,149,W,MFOR,0 - 0,Skyler Terrell,47439,Wheeling,Jarrett Degen,44855,Virginia Tech
+2017,12/03,Storm Open,149,W,TF5,16 - 0 7:00,Gary Byas III,46448,Ashland,Jarrett Degen,44855,Virginia Tech
+2017,12/03,Storm Open,149,L,DEC,15 - 10,Ryan Ford,44594,Cleveland State,Jarrett Degen,44855,Virginia Tech
+2017,12/03,Storm Open,149,L,FALL,2:05,Dominick Nania,42494,Wheeling,Jarrett Degen,44855,Virginia Tech
+2017,12/03,Storm Open,149,W,TF5,15 - 0 7:00,Mattheos Lozier,14948,Virginia Tech,Jarrett Degen,44855,Virginia Tech
+2017,11/20,Wolfpack Open,149,W,DEC,7 - 6,Kevin Birmingham,47757,Greensboro,Jarrett Degen,44855,Virginia Tech
+2017,11/20,Wolfpack Open,149,W,DEC,9 - 8,Rian Burris,45586,The Citadel,Jarrett Degen,44855,Virginia Tech
+2017,11/20,Wolfpack Open,149,L,DEC,9 - 5,Beau Donahue,11933,NC State,Jarrett Degen,44855,Virginia Tech
+2017,11/20,Wolfpack Open,149,L,DEC,5 - 3,Chris Vassar,11981,Gardner-Webb,Jarrett Degen,44855,Virginia Tech
+2017,11/20,Wolfpack Open,149,W,FALL,3:00,Laken Cook,45408,Appalachian State,Jarrett Degen,44855,Virginia Tech
+2017,11/20,Wolfpack Open,149,W,FALL,4:31,Elijah Murphy,45346,American,Jarrett Degen,44855,Virginia Tech
+2017,11/06,Southeast Open,149,W,FALL,4:52,Fernie Silva,46045,Notre Dame,Jarrett Degen,44855,Virginia Tech
+2017,11/06,Southeast Open,149,W,TF5,17 - 0 3:37,Austin Palmer,44433,Newberry,Jarrett Degen,44855,Virginia Tech
+2017,11/06,Southeast Open,149,W,FALL,4:14,Luke Weiland,41243,Army West Point,Jarrett Degen,44855,Virginia Tech
+2017,11/06,Southeast Open,149,W,FALL,6:15,Ryan Yorkdale,45348,American,Jarrett Degen,44855,Virginia Tech
+2017,11/06,Southeast Open,149,L,DEC,5 - 2,Michael Sprague,19618,American,Jarrett Degen,44855,Virginia Tech
+2017,02/05,Edinboro Open,149,L,MD,15 - 3,Zack Davis,20604,Navy,Mattheos Lozier,14948,Virginia Tech
+2017,02/05,Edinboro Open,149,W,MD,14 - 5,Logan Wilson,45965,West Virginia,Mattheos Lozier,14948,Virginia Tech
+2017,02/05,Edinboro Open,149,L,FALL,2:08,Matt Russo,56810,Cornell,Mattheos Lozier,14948,Virginia Tech
+2017,01/28,Appalachian Open,149,L,FALL,4:38,Josh McClure,44697,North Carolina,Mattheos Lozier,14948,Virginia Tech
+2017,01/28,Appalachian Open,149,W,DEC,6 - 2,Dante Veltri,45234,North Carolina,Mattheos Lozier,14948,Virginia Tech
+2017,01/28,Appalachian Open,149,L,DEC,6 - 4,Nick Vestal,44944,Ohio,Mattheos Lozier,14948,Virginia Tech
+2017,01/22,Virginia - Virginia Tech Dual,149,L,MD,11 - 3,Samuel Krivus,43190,Virginia,Mattheos Lozier,14948,Virginia Tech
+2017,01/20,Pittsburgh - Virginia Tech Dual,149,W,DEC,10 - 6,Alesandro Murray,40349,Pittsburgh,Mattheos Lozier,14948,Virginia Tech
+2017,01/07,Franklin & Marshall Open,149,W,FALL,6:50,Lucas Ortiz,45226,Lock Haven,Mattheos Lozier,14948,Virginia Tech
+2017,01/07,Franklin & Marshall Open,149,W,DEC,5 - 2,Curtis Decker,45153,Pittsburgh,Mattheos Lozier,14948,Virginia Tech
+2017,01/07,Franklin & Marshall Open,149,W,DEC,6 - 1,Aaron Kruk,44797,Harvard,Mattheos Lozier,14948,Virginia Tech
+2017,01/07,Franklin & Marshall Open,149,W,MD,12 - 2,Ashby Diaz,45574,Clarion,Mattheos Lozier,14948,Virginia Tech
+2017,01/07,Franklin & Marshall Open,149,W,SV-2,4 - 2,Sam Martino,45237,Virginia,Mattheos Lozier,14948,Virginia Tech
+2017,01/07,Franklin & Marshall Open,149,L,FALL,1:26,Adam Whitesell,20016,Maryland,Mattheos Lozier,14948,Virginia Tech
+2017,01/07,Franklin & Marshall Open,149,L,DEC,14 - 12,Adam Whitesell,20016,Maryland,Mattheos Lozier,14948,Virginia Tech
+2017,12/17,Cleveland State Open,149,L,DEC,16 - 15,Tyler Meisinger,45010,Michigan,Mattheos Lozier,14948,Virginia Tech
+2017,12/17,Cleveland State Open,149,W,SV-1,8 - 6,Aaron Rehfeldt,45200,Ohio State,Mattheos Lozier,14948,Virginia Tech
+2017,12/17,Cleveland State Open,149,L,MD,15 - 5,Lucas Ortiz,45226,Lock Haven,Mattheos Lozier,14948,Virginia Tech
+2017,12/03,Storm Open,149,L,TF5,15 - 0 7:00,Jarrett Degen,44855,Virginia Tech,Mattheos Lozier,14948,Virginia Tech
+2017,12/03,Storm Open,149,W,FALL,1:05,Alexander Forrest,44041,Mercyhurst,Mattheos Lozier,14948,Virginia Tech
+2017,12/03,Storm Open,149,L,DEC,8 - 7,Ryan Ford,44594,Cleveland State,Mattheos Lozier,14948,Virginia Tech
+2017,12/03,Storm Open,149,W,SV-2,7 - 5,RJ LaBeef,11973,Cleveland State,Mattheos Lozier,14948,Virginia Tech
+2017,12/03,Storm Open,149,W,DEC,4 - 3,Nico Odor,45039,Kent State,Mattheos Lozier,14948,Virginia Tech
+2017,11/20,Wolfpack Open,149,L,DEC,6 - 3,Gabriel Grahek,11661,Wisconsin,Mattheos Lozier,14948,Virginia Tech
+2017,11/20,Wolfpack Open,149,L,DEC,10 - 9,Tanner Stephens,20287,Old Dominion,Mattheos Lozier,14948,Virginia Tech
+2017,11/20,Wolfpack Open,149,W,DEC,8 - 2,David Pipa,40245,Lehigh,Mattheos Lozier,14948,Virginia Tech
+2017,11/06,Southeast Open,149,W,FALL,6:46,Chris Mauriello,44614,Old Dominion,Mattheos Lozier,14948,Virginia Tech
+2017,11/06,Southeast Open,149,L,FALL,1:43,Max Rogers,46065,Princeton,Mattheos Lozier,14948,Virginia Tech
+2017,11/06,Southeast Open,149,L,TF5,17 - 1 4:47,Jordan Laster,11916,Princeton,Mattheos Lozier,14948,Virginia Tech
+2017,02/19,Nebraska - Virginia Tech Dual,165,L,FALL,5:45,Dustin Williams,20108,Nebraska,Ryan Blees,20267,Virginia Tech
+2017,02/05,Edinboro Open,157,W,FALL,2:23,Nick Helfer,49848,Unattached,Ryan Blees,20267,Virginia Tech
+2017,02/05,Edinboro Open,157,W,DEC,8 - 3,Ethan Karsten,44903,Missouri,Ryan Blees,20267,Virginia Tech
+2017,02/05,Edinboro Open,157,W,MD,14 - 1,Tyler Ponte,11946,Columbia,Ryan Blees,20267,Virginia Tech
+2017,02/05,Edinboro Open,157,W,DEC,3 - 2,Andrew Shomers,39642,Edinboro,Ryan Blees,20267,Virginia Tech
+2017,02/05,Edinboro Open,157,W,TF5,23 - 7 7:00,Sam Ziff,16706,Edinboro,Ryan Blees,20267,Virginia Tech
+2017,01/28,Appalachian Open,157,W,TF5,25 - 9 7:00,Angel Najar,40406,Appalachian State,Ryan Blees,20267,Virginia Tech
+2017,01/28,Appalachian Open,157,W,SV-1,6 - 4,Brian LaPrade,45112,Virginia Tech,Ryan Blees,20267,Virginia Tech
+2017,01/28,Appalachian Open,157,L,DEC,6 - 3,Larry Early,39519,Old Dominion,Ryan Blees,20267,Virginia Tech
+2017,01/28,Appalachian Open,157,W,TF5,18 - 3 7:00,Michael Elliott,40404,Appalachian State,Ryan Blees,20267,Virginia Tech
+2017,01/13,Kent State - Virginia Tech Dual,157,W,DEC,5 - 2,Casey Sparkman,19970,Kent State,Ryan Blees,20267,Virginia Tech
+2017,01/08,Virginia Tech - North Carolina Dual,157,W,DEC,6 - 5,Joe Moon,11646,North Carolina,Ryan Blees,20267,Virginia Tech
+2017,01/06,Virginia Tech - Princeton Dual,157,L,DEC,3 - 0,Mike D'angelo,43678,Princeton,Ryan Blees,20267,Virginia Tech
+2017,12/18,Virginia Tech - West Virginia Dual,157,W,MD,11 - 2,Dayton Garrett,45170,West Virginia,Ryan Blees,20267,Virginia Tech
+2017,11/06,Southeast Open,157,L,DEC,11 - 6,Alex Rice,43297,Newberry,Ryan Blees,20267,Virginia Tech
+2017,11/06,Southeast Open,157,L,MD,16 - 3,Mike D'angelo,43678,Princeton,Ryan Blees,20267,Virginia Tech
+2017,11/06,Southeast Open,157,W,TF5,19 - 4 5:56,Angel Najar,40406,Appalachian State,Ryan Blees,20267,Virginia Tech
+2017,03/16,NCAA Championships,157,L,FALL,5:00,Paul Fox,20390,Stanford,Sal Mastriani,13766,Virginia Tech
+2017,03/16,NCAA Championships,157,W,DEC,8 - 7,Bryant Clagon,18514,Rider,Sal Mastriani,13766,Virginia Tech
+2017,03/16,NCAA Championships,157,L,DEC,9 - 3,Joe Smith,39786,Oklahoma State,Sal Mastriani,13766,Virginia Tech
+2017,03/16,NCAA Championships,157,W,MD,10 - 2,John Van Brill,20367,Rutgers,Sal Mastriani,13766,Virginia Tech
+2017,03/16,NCAA Championships,157,W,DEC,8 - 5,Alex Griffin,13525,Purdue,Sal Mastriani,13766,Virginia Tech
+2017,03/16,NCAA Championships,157,L,FALL,7:27,Joey Lavallee,13513,Missouri,Sal Mastriani,13766,Virginia Tech
+2017,03/16,NCAA Championships,157,W,TF5,20 - 5 7:00,Casey Sparkman,19970,Kent State,Sal Mastriani,13766,Virginia Tech
+2017,03/04,ACC Championships,157,W,DEC,11 - 5,Andrew Atkinson,11982,Virginia,Sal Mastriani,13766,Virginia Tech
+2017,03/04,ACC Championships,157,L,MD,13 - 5,Taleb Rahmani,40082,Pittsburgh,Sal Mastriani,13766,Virginia Tech
+2017,02/19,Nebraska - Virginia Tech Dual,157,L,TB-1,2 - 1,Tyler Berger,20096,Nebraska,Sal Mastriani,13766,Virginia Tech
+2017,02/12,South Dakota State - Virginia Tech Dual,157,W,MD,14 - 4,Logan Peterson,20374,South Dakota State,Sal Mastriani,13766,Virginia Tech
+2017,02/11,North Carolina State - Virginia Tech Dual,157,W,DEC,12 - 6,Thomas Bullard,44611,NC State,Sal Mastriani,13766,Virginia Tech
+2017,01/29,Duke - Virginia Tech Dual,157,W,DEC,8 - 3,Jake Faust,13643,Duke,Sal Mastriani,13766,Virginia Tech
+2017,01/27,Virginia Tech - Lehigh Dual,157,W,DEC,13 - 7,Kent Lane,39601,Lehigh,Sal Mastriani,13766,Virginia Tech
+2017,01/22,Virginia - Virginia Tech Dual,157,W,DEC,9 - 8,Andrew Atkinson,11982,Virginia,Sal Mastriani,13766,Virginia Tech
+2017,01/20,Pittsburgh - Virginia Tech Dual,157,W,TF5,16 - 1 3:00,Nathan Russell,20772,Pittsburgh,Sal Mastriani,13766,Virginia Tech
+2017,01/14,Oklahoma - Virginia Tech Dual,157,L,DEC,5 - 4,Clark Glass,11488,Oklahoma,Sal Mastriani,13766,Virginia Tech
+2017,01/14,North Dakota State - Virginia Tech Dual,157,L,DEC,12 - 8,Clay Ream,13748,North Dakota State,Sal Mastriani,13766,Virginia Tech
+2017,01/13,Lock Haven - Virginia Tech Dual,157,W,MD,18 - 6,Kyle Hammond,20591,Lock Haven,Sal Mastriani,13766,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,157,L,MFOR,0 - 0,Archie Colgan,15555,Wyoming,Sal Mastriani,13766,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,157,L,INJ,7:00,Jake Short,13599,Minnesota,Sal Mastriani,13766,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,157,W,TF5,18 - 3 4:12,Zac Carson,39692,Eastern Michigan,Sal Mastriani,13766,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,157,W,DEC,10 - 3,Russell Parsons,19642,Army West Point,Sal Mastriani,13766,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,157,L,MFOR,0 - 0,Josh Shields,39511,Arizona State,Sal Mastriani,13766,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,157,W,TF5,18 - 2 5:00,Cole Moseley,13717,American,Sal Mastriani,13766,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,157,W,DEC,7 - 3,Colston DiBlasi,39718,Iowa State,Sal Mastriani,13766,Virginia Tech
+2017,11/20,Virginia Tech - Missouri Dual,157,L,MD,15 - 5,Joey Lavallee,13513,Missouri,Sal Mastriani,13766,Virginia Tech
+2017,11/18,Virginia Tech - Northern Iowa Dual,157,W,TF5,17 - 2 5:15,Paden Moore,39541,Northern Iowa,Sal Mastriani,13766,Virginia Tech
+2017,11/13,Virginia Tech - Chattanooga Dual,157,W,TF5,22 - 4 5:25,Trey Watson,42896,Chattanooga,Sal Mastriani,13766,Virginia Tech
+2017,11/05,VMI - Virginia Tech Dual,157,W,TF5,18 - 2 4:08,Alex Rinehart,20699,VMI,Sal Mastriani,13766,Virginia Tech
+2017,11/05,Edinboro - Virginia Tech Dual,157,W,DEC,15 - 10,Chase Delande,15217,Edinboro,Sal Mastriani,13766,Virginia Tech
+2017,02/05,Edinboro Open,157,W,DEC,4 - 3,Beau Guffey,45643,United States Military Academy,Brian LaPrade,45112,Virginia Tech
+2017,02/05,Edinboro Open,157,W,MD,14 - 4,James Saylor,45641,United States Military Academy,Brian LaPrade,45112,Virginia Tech
+2017,02/05,Edinboro Open,157,L,SV-1,11 - 9,TJ Ruschell,13839,Wisconsin,Brian LaPrade,45112,Virginia Tech
+2017,02/05,Edinboro Open,157,W,MD,16 - 4,Laurence Kosoy,45330,Columbia,Brian LaPrade,45112,Virginia Tech
+2017,02/05,Edinboro Open,157,W,DEC,7 - 3,Tyler Ponte,11946,Columbia,Brian LaPrade,45112,Virginia Tech
+2017,02/05,Edinboro Open,157,W,MD,12 - 4,Sam Ziff,16706,Edinboro,Brian LaPrade,45112,Virginia Tech
+2017,01/28,Appalachian Open,157,L,SV-1,6 - 4,Ryan Blees,20267,Virginia Tech,Brian LaPrade,45112,Virginia Tech
+2017,01/28,Appalachian Open,157,W,TF5,16 - 0 7:00,William Lewis,21600,Appalachian State,Brian LaPrade,45112,Virginia Tech
+2017,01/28,Appalachian Open,157,W,MD,12 - 1,Kt Forsythe,47784,Virginia Tech,Brian LaPrade,45112,Virginia Tech
+2017,01/28,Appalachian Open,157,L,FALL,4:08,Carl Guess,44907,Appalachian State,Brian LaPrade,45112,Virginia Tech
+2017,01/28,Appalachian Open,157,W,MD,10 - 2,Kaleb Warner,53359,Central Missouri,Brian LaPrade,45112,Virginia Tech
+2017,01/07,Franklin & Marshall Open,157,W,DEC,8 - 2,Wade Hodges,39698,Maryland,Brian LaPrade,45112,Virginia Tech
+2017,01/07,Franklin & Marshall Open,157,L,DEC,3 - 1,Justin Staudenmayer,15115,Brown,Brian LaPrade,45112,Virginia Tech
+2017,01/07,Franklin & Marshall Open,157,W,MD,13 - 3,Shane Jones,39984,Old Dominion,Brian LaPrade,45112,Virginia Tech
+2017,01/07,Franklin & Marshall Open,157,L,FALL,1:12,Laurence Kosoy,45330,Columbia,Brian LaPrade,45112,Virginia Tech
+2017,01/07,Franklin & Marshall Open,157,W,DEC,10 - 3,Emmett LiCastri,45213,Franklin & Marshall,Brian LaPrade,45112,Virginia Tech
+2017,12/17,Cleveland State Open,157,L,DEC,7 - 6,Seth Elwood,41286,Notre Dame,Brian LaPrade,45112,Virginia Tech
+2017,12/17,Cleveland State Open,157,L,FALL,1:59,Laken Cook,45408,Appalachian State,Brian LaPrade,45112,Virginia Tech
+2017,11/20,Wolfpack Open,157,W,FALL,5:34,Michael Murphy,45236,Virginia,Brian LaPrade,45112,Virginia Tech
+2017,11/20,Wolfpack Open,157,W,FALL,4:16,Jacob Curling,44675,Old Dominion,Brian LaPrade,45112,Virginia Tech
+2017,11/20,Wolfpack Open,157,L,DEC,7 - 4,Tony Palumbo,40330,Davidson,Brian LaPrade,45112,Virginia Tech
+2017,11/20,Wolfpack Open,157,L,FALL,2:05,Anthony Wokasch,44729,American,Brian LaPrade,45112,Virginia Tech
+2017,11/06,Southeast Open,157,W,DEC,7 - 1,Justin George,46078,Shorter,Brian LaPrade,45112,Virginia Tech
+2017,11/06,Southeast Open,157,W,FALL,3:54,Reese Ellis,46167,Emmanuel,Brian LaPrade,45112,Virginia Tech
+2017,11/06,Southeast Open,157,W,DEC,10 - 3,Danny Boychuck,39658,Maryland,Brian LaPrade,45112,Virginia Tech
+2017,11/06,Southeast Open,157,L,DEC,5 - 2,Andrew Shomers,39642,Edinboro,Brian LaPrade,45112,Virginia Tech
+2017,11/06,Southeast Open,157,W,DEC,2 - 1,Gavin Londoff,44823,Appalachian State,Brian LaPrade,45112,Virginia Tech
+2017,02/05,Edinboro Open,157,L,MFOR,0 - 0,Adam Santoro,46089,Spartan Combat RTC,Derek Ciavarro,45159,Virginia Tech
+2017,02/05,Edinboro Open,157,L,MFOR,0 - 0,Rami Pellumbi,45327,Cornell,Derek Ciavarro,45159,Virginia Tech
+2017,01/28,Appalachian Open,157,L,FALL,1:03,William Lewis,21600,Appalachian State,Derek Ciavarro,45159,Virginia Tech
+2017,01/28,Appalachian Open,157,L,MD,9 - 0,Laken Cook,45408,Appalachian State,Derek Ciavarro,45159,Virginia Tech
+2017,01/28,Appalachian Open,157,W,MD,16 - 6,Thomas Singley,44568,North Carolina,Derek Ciavarro,45159,Virginia Tech
+2017,01/07,Franklin & Marshall Open,157,W,DEC,8 - 3,John Nahkleh,46242,Rowan College of South Jersey,Derek Ciavarro,45159,Virginia Tech
+2017,01/07,Franklin & Marshall Open,157,L,DEC,7 - 2,Jack Conway,44785,Pennsylvania,Derek Ciavarro,45159,Virginia Tech
+2017,01/07,Franklin & Marshall Open,157,L,MD,13 - 2,Justin Staudenmayer,15115,Brown,Derek Ciavarro,45159,Virginia Tech
+2017,01/07,Franklin & Marshall Open,157,W,MD,18 - 7,Michael Marano,19890,Franklin & Marshall,Derek Ciavarro,45159,Virginia Tech
+2017,12/17,Cleveland State Open,157,W,FALL,1:44,Ricky Ratcliff,48237,Cumberlands,Derek Ciavarro,45159,Virginia Tech
+2017,12/17,Cleveland State Open,157,L,SV-1,3 - 1,Richard Jackson,45040,Kent State,Derek Ciavarro,45159,Virginia Tech
+2017,12/17,Cleveland State Open,157,L,DEC,4 - 0,Justin Alexander,11801,Maryland,Derek Ciavarro,45159,Virginia Tech
+2017,11/06,Southeast Open,157,L,FALL,4:57,Adam Santoro,46089,Spartan Combat RTC,Derek Ciavarro,45159,Virginia Tech
+2017,11/06,Southeast Open,157,L,DEC,8 - 6,William MacDonald,44798,North Carolina,Derek Ciavarro,45159,Virginia Tech
+2017,11/06,Southeast Open,157,W,DEC,5 - 2,Carl Guess,44907,Appalachian State,Derek Ciavarro,45159,Virginia Tech
+2017,02/05,Edinboro Open,157,W,TF5,18 - 0 3:00,Jordan Washam,49879,Unattached,Kt Forsythe,47784,Virginia Tech
+2017,02/05,Edinboro Open,157,L,DEC,6 - 0,Rami Pellumbi,45327,Cornell,Kt Forsythe,47784,Virginia Tech
+2017,02/05,Edinboro Open,157,L,DEC,1 - 0,Tyler Zimmer,19821,Columbia,Kt Forsythe,47784,Virginia Tech
+2017,01/28,Appalachian Open,157,L,MD,12 - 1,Brian LaPrade,45112,Virginia Tech,Kt Forsythe,47784,Virginia Tech
+2017,01/28,Appalachian Open,157,L,TF5,15 - 0 7:00,Larry Early,39519,Old Dominion,Kt Forsythe,47784,Virginia Tech
+2017,12/17,Cleveland State Open,157,L,DEC,4 - 3,Jacob Tucker,44639,Michigan State,Kt Forsythe,47784,Virginia Tech
+2017,12/17,Cleveland State Open,157,L,FALL,3:30,Jake Ryan,20252,Ohio State,Kt Forsythe,47784,Virginia Tech
+2017,12/03,Storm Open,157,W,DEC,3 - 2,Devin Austin,41223,Pitt-Johnstown,Kt Forsythe,47784,Virginia Tech
+2017,12/03,Storm Open,157,W,DEC,6 - 3,Greg Brusco,47966,Wheeling,Kt Forsythe,47784,Virginia Tech
+2017,12/03,Storm Open,157,W,DEC,5 - 3,Conner Nemec,46407,Lake Erie College,Kt Forsythe,47784,Virginia Tech
+2017,12/03,Storm Open,157,W,FALL,2:48,Hayden Cregg,41927,Davenport,Kt Forsythe,47784,Virginia Tech
+2017,11/20,Wolfpack Open,157,L,FALL,2:30,Hayden Hidlay,44595,NC State,Kt Forsythe,47784,Virginia Tech
+2017,11/20,Wolfpack Open,157,L,TF5,16 - 0 7:00,Sam Melikian,20134,NC State,Kt Forsythe,47784,Virginia Tech
+2017,11/20,Wolfpack Open,157,W,DEC,7 - 2,Thomas Singley,44568,North Carolina,Kt Forsythe,47784,Virginia Tech
+2017,03/04,ACC Championships,165,L,DEC,3 - 2,Ray Bethea,13502,Virginia,David Bergida,14803,Virginia Tech
+2017,03/04,ACC Championships,165,L,DEC,13 - 7,Devin Kane,44607,North Carolina,David Bergida,14803,Virginia Tech
+2017,02/19,Nebraska - Virginia Tech Dual,174,W,DEC,13 - 8,Justin Arthur,22462,Nebraska,David Bergida,14803,Virginia Tech
+2017,02/12,South Dakota State - Virginia Tech Dual,165,L,DEC,9 - 4,Luke Zilverberg,13633,South Dakota State,David Bergida,14803,Virginia Tech
+2017,02/11,North Carolina State - Virginia Tech Dual,165,L,DEC,13 - 7,Chad Pyke,13555,NC State,David Bergida,14803,Virginia Tech
+2017,01/29,Duke - Virginia Tech Dual,165,W,DEC,8 - 4,Garrett Neff,44769,Duke,David Bergida,14803,Virginia Tech
+2017,01/27,Virginia Tech - Lehigh Dual,165,L,DEC,9 - 6,Mitch Minotti,13880,Lehigh,David Bergida,14803,Virginia Tech
+2017,01/22,Virginia - Virginia Tech Dual,165,L,MD,14 - 4,Ray Bethea,13502,Virginia,David Bergida,14803,Virginia Tech
+2017,01/20,Pittsburgh - Virginia Tech Dual,165,L,TF5,17 - 1 4:30,Te'Shan Campbell,40351,Pittsburgh,David Bergida,14803,Virginia Tech
+2017,01/14,Oklahoma - Virginia Tech Dual,165,L,DEC,7 - 2,Yoanse Mejias,41470,Oklahoma,David Bergida,14803,Virginia Tech
+2017,01/14,North Dakota State - Virginia Tech Dual,165,L,DEC,9 - 7,Andrew Fogarty,39706,North Dakota State,David Bergida,14803,Virginia Tech
+2017,01/13,Lock Haven - Virginia Tech Dual,165,W,DEC,9 - 5,Jared Siegrist,45101,Lock Haven,David Bergida,14803,Virginia Tech
+2017,01/13,Kent State - Virginia Tech Dual,165,W,DEC,10 - 5,Jared Walker,39690,Kent State,David Bergida,14803,Virginia Tech
+2017,01/08,Virginia Tech - North Carolina Dual,165,L,DEC,8 - 4,Devin Kane,44607,North Carolina,David Bergida,14803,Virginia Tech
+2017,01/06,Virginia Tech - Princeton Dual,165,W,MD,11 - 2,Joe Tavoso,39570,Princeton,David Bergida,14803,Virginia Tech
+2017,12/18,Virginia Tech - West Virginia Dual,165,W,DEC,10 - 4,Ryan Lopez,41289,West Virginia,David Bergida,14803,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,165,L,DEC,8 - 6,Logan Parks,40153,Central Michigan,David Bergida,14803,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,165,W,DEC,6 - 3,Logan Kerin,11850,Bucknell,David Bergida,14803,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,165,L,DEC,8 - 3,Alexandre Lopouchanski,39855,Air Force,David Bergida,14803,Virginia Tech
+2017,11/20,Wolfpack Open,165,L,DEC,7 - 4,Brian Hamann,13788,NC State,David Bergida,14803,Virginia Tech
+2017,11/20,Wolfpack Open,165,W,DEC,8 - 4,Christian Maroni,20798,Gardner-Webb,David Bergida,14803,Virginia Tech
+2017,11/20,Wolfpack Open,165,W,MD,15 - 5,Noah Satterfield,44861,Davidson,David Bergida,14803,Virginia Tech
+2017,11/20,Wolfpack Open,165,W,FALL,5:32,Michael Eckhart,19614,American,David Bergida,14803,Virginia Tech
+2017,11/20,Wolfpack Open,165,L,DEC,5 - 0,Alexandre Lopouchanski,39855,Air Force,David Bergida,14803,Virginia Tech
+2017,11/06,Southeast Open,165,L,DEC,5 - 4,Abner Romero,46088,Old Dominion,David Bergida,14803,Virginia Tech
+2017,11/06,Southeast Open,165,W,DEC,6 - 2,Luke Drugac,44767,Old Dominion,David Bergida,14803,Virginia Tech
+2017,11/06,Southeast Open,165,W,DEC,10 - 6,Joe Tavoso,39570,Princeton,David Bergida,14803,Virginia Tech
+2017,11/06,Southeast Open,165,L,DEC,9 - 5,Forrest Przybysz,12877,Appalachian State,David Bergida,14803,Virginia Tech
+2017,02/05,Edinboro Open,165,W,DEC,10 - 3,Austin Hiles,44866,Michigan State,David McFadden,39633,Virginia Tech
+2017,02/05,Edinboro Open,165,W,MD,15 - 4,Gordon Wolf,19992,Lehigh,David McFadden,39633,Virginia Tech
+2017,02/05,Edinboro Open,165,L,DEC,4 - 3,Cole Walter,39722,Lehigh,David McFadden,39633,Virginia Tech
+2017,02/05,Edinboro Open,165,W,MD,17 - 7,Chase Gallik,39677,Lehigh,David McFadden,39633,Virginia Tech
+2017,01/28,Appalachian Open,165,L,DEC,8 - 2,Dylan Cottrell,14019,West Virginia,David McFadden,39633,Virginia Tech
+2017,01/28,Appalachian Open,165,W,FALL,0:58,Daniel Bullard,44612,NC State,David McFadden,39633,Virginia Tech
+2017,01/28,Appalachian Open,165,W,TF5,17 - 1 7:00,Michael Roberson,20918,Virginia,David McFadden,39633,Virginia Tech
+2017,01/28,Appalachian Open,165,W,FALL,3:43,David Bostian,49519,Unattached,David McFadden,39633,Virginia Tech
+2017,01/07,Franklin & Marshall Open,165,W,DEC,7 - 3,Chance Marsteller,47805,Unattached,David McFadden,39633,Virginia Tech
+2017,01/07,Franklin & Marshall Open,165,W,MD,14 - 3,Daniel Bullard,44612,NC State,David McFadden,39633,Virginia Tech
+2017,01/07,Franklin & Marshall Open,165,W,TF5,16 - 1 7:00,Shane Ruhnke,24247,Millersville,David McFadden,39633,Virginia Tech
+2017,01/07,Franklin & Marshall Open,165,W,DEC,3 - 2,Brian Hamann,13788,NC State,David McFadden,39633,Virginia Tech
+2017,01/07,Franklin & Marshall Open,165,W,TF5,16 - 1 2:51,Connor Wagh,19713,Bucknell,David McFadden,39633,Virginia Tech
+2017,12/17,Cleveland State Open,165,W,TF5,20 - 4 3:19,Jr Andrejcik,41274,Notre Dame,David McFadden,39633,Virginia Tech
+2017,12/17,Cleveland State Open,165,W,MD,11 - 1,Kyle Ash,14921,Gardner-Webb,David McFadden,39633,Virginia Tech
+2017,12/17,Cleveland State Open,165,W,TF5,16 - 1 3:10,DJ Hollingshead,39672,Bucknell,David McFadden,39633,Virginia Tech
+2017,12/17,Cleveland State Open,165,W,FALL,2:04,Devan Marry,14832,Eastern Michigan,David McFadden,39633,Virginia Tech
+2017,12/17,Cleveland State Open,165,W,FALL,2:03,Eric Fasnacht,44992,Buffalo,David McFadden,39633,Virginia Tech
+2017,11/20,Virginia Tech - Missouri Dual,165,L,MD,13 - 0,Daniel Lewis,20062,Missouri,Mike Ciavarro,20441,Virginia Tech
+2017,11/18,Virginia Tech - Northern Iowa Dual,165,L,MD,11 - 3,Bryce Steiert,39504,Northern Iowa,Mike Ciavarro,20441,Virginia Tech
+2017,11/13,Virginia Tech - Chattanooga Dual,165,L,DEC,3 - 1,Justin Lampe,40210,Chattanooga,Mike Ciavarro,20441,Virginia Tech
+2017,11/05,VMI - Virginia Tech Dual,165,W,DEC,9 - 4,Cade Kiely,45419,VMI,Mike Ciavarro,20441,Virginia Tech
+2017,11/05,Edinboro - Virginia Tech Dual,165,L,DEC,13 - 6,Austin Matthews,22442,Edinboro,Mike Ciavarro,20441,Virginia Tech
+2017,03/16,NCAA Championships,174,L,DEC,8 - 3,Jake Residori,12297,SIU Edwardsville,Zach Epperly,12258,Virginia Tech
+2017,03/16,NCAA Championships,174,L,MD,10 - 2,Mark Hall,44839,Penn State,Zach Epperly,12258,Virginia Tech
+2017,03/16,NCAA Championships,174,W,DEC,5 - 2,Taylor Lujan,39506,Northern Iowa,Zach Epperly,12258,Virginia Tech
+2017,03/16,NCAA Championships,174,W,DEC,8 - 1,Nick Reenan,45035,NC State,Zach Epperly,12258,Virginia Tech
+2017,03/04,ACC Championships,174,W,DEC,4 - 1,Nick Reenan,45035,NC State,Zach Epperly,12258,Virginia Tech
+2017,03/04,ACC Championships,174,W,DEC,4 - 3,Ethan Ramos,14560,North Carolina,Zach Epperly,12258,Virginia Tech
+2017,02/12,South Dakota State - Virginia Tech Dual,174,W,SV-1,3 - 1,David Kocer,13612,South Dakota State,Zach Epperly,12258,Virginia Tech
+2017,02/11,North Carolina State - Virginia Tech Dual,174,W,DEC,5 - 3,Nick Reenan,45035,NC State,Zach Epperly,12258,Virginia Tech
+2017,01/29,Duke - Virginia Tech Dual,174,W,DEC,3 - 1,Connor Bass,13712,Duke,Zach Epperly,12258,Virginia Tech
+2017,01/27,Virginia Tech - Lehigh Dual,174,L,DEC,3 - 1,Ryan Preisch,19987,Lehigh,Zach Epperly,12258,Virginia Tech
+2017,01/22,Virginia - Virginia Tech Dual,174,W,MD,11 - 3,Garrett Peppelman,20431,Virginia,Zach Epperly,12258,Virginia Tech
+2017,01/20,Pittsburgh - Virginia Tech Dual,174,W,FALL,6:38,Christian Dietrich,44717,Pittsburgh,Zach Epperly,12258,Virginia Tech
+2017,01/14,Oklahoma - Virginia Tech Dual,174,W,DEC,4 - 3,Matt Reed,15381,Oklahoma,Zach Epperly,12258,Virginia Tech
+2017,01/14,North Dakota State - Virginia Tech Dual,174,W,TF5,18 - 3 7:00,Dylan Urbach,20050,North Dakota State,Zach Epperly,12258,Virginia Tech
+2017,01/13,Lock Haven - Virginia Tech Dual,174,W,TF5,23 - 5 7:00,Adam Mackie,12802,Lock Haven,Zach Epperly,12258,Virginia Tech
+2017,01/13,Kent State - Virginia Tech Dual,174,W,FALL,6:55,Jairod James,19971,Kent State,Zach Epperly,12258,Virginia Tech
+2017,01/08,Virginia Tech - North Carolina Dual,174,W,DEC,8 - 2,Ethan Ramos,14560,North Carolina,Zach Epperly,12258,Virginia Tech
+2017,01/06,Virginia Tech - Princeton Dual,174,W,DEC,11 - 4,Jonathan Schleifer,20340,Princeton,Zach Epperly,12258,Virginia Tech
+2017,12/18,Virginia Tech - West Virginia Dual,174,W,TF5,21 - 6 5:35,Ty Millward,17929,West Virginia,Zach Epperly,12258,Virginia Tech
+2017,11/20,Virginia Tech - Missouri Dual,174,W,FALL,4:53,Dylan Wisman,39507,Missouri,Zach Epperly,12258,Virginia Tech
+2017,11/18,Virginia Tech - Northern Iowa Dual,174,W,DEC,9 - 7,Taylor Lujan,39506,Northern Iowa,Zach Epperly,12258,Virginia Tech
+2017,11/13,Virginia Tech - Chattanooga Dual,174,W,MD,14 - 6,Sean Mappes,19775,Chattanooga,Zach Epperly,12258,Virginia Tech
+2017,11/05,VMI - Virginia Tech Dual,174,W,FALL,1:30,Calvin Lawson,43752,VMI,Zach Epperly,12258,Virginia Tech
+2017,11/05,Edinboro - Virginia Tech Dual,174,W,MD,17 - 9,Ty Schoffstall,15353,Edinboro,Zach Epperly,12258,Virginia Tech
+2017,02/05,Edinboro Open,174,W,FALL,2:32,Nicholas Gallo,49830,Unattached,Cody Hughes,39608,Virginia Tech
+2017,02/05,Edinboro Open,174,W,DEC,7 - 5,Christopher Matthews,25164,Gannon,Cody Hughes,39608,Virginia Tech
+2017,02/05,Edinboro Open,174,W,SV-1,3 - 1,Canten Marriott,44723,Missouri,Cody Hughes,39608,Virginia Tech
+2017,02/05,Edinboro Open,174,L,DEC,2 - 1,Canten Marriott,44723,Missouri,Cody Hughes,39608,Virginia Tech
+2017,02/05,Edinboro Open,174,W,MD,8 - 0,Matt Mills,45393,Stanford,Cody Hughes,39608,Virginia Tech
+2017,02/05,Edinboro Open,174,W,DEC,5 - 3,Andrew Psomas,12410,Columbia,Cody Hughes,39608,Virginia Tech
+2017,02/05,Edinboro Open,174,W,MD,14 - 2,Max Elling,39877,Columbia,Cody Hughes,39608,Virginia Tech
+2017,01/28,Appalachian Open,174,W,SV-1,4 - 2,Stacy Davis,22281,NC State,Cody Hughes,39608,Virginia Tech
+2017,01/28,Appalachian Open,174,W,DEC,6 - 3,Abner Romero,46088,Old Dominion,Cody Hughes,39608,Virginia Tech
+2017,01/28,Appalachian Open,174,W,SV-1,4 - 0,Stacy Davis,22281,NC State,Cody Hughes,39608,Virginia Tech
+2017,01/28,Appalachian Open,174,W,MD,14 - 4,Blake Sutherland,40009,Old Dominion,Cody Hughes,39608,Virginia Tech
+2017,01/28,Appalachian Open,174,W,MD,13 - 4,Charlie Andrews,44940,Campbell,Cody Hughes,39608,Virginia Tech
+2017,01/07,Franklin & Marshall Open,174,W,DEC,5 - 3,Spencer Carey,44817,Navy,Cody Hughes,39608,Virginia Tech
+2017,01/07,Franklin & Marshall Open,174,W,DEC,10 - 6,Robert Winning,12872,Navy,Cody Hughes,39608,Virginia Tech
+2017,01/07,Franklin & Marshall Open,174,W,MD,16 - 7,Dylan Ammerman,45109,Lehigh,Cody Hughes,39608,Virginia Tech
+2017,01/07,Franklin & Marshall Open,174,L,DEC,4 - 0,Josef Johnson,19914,Harvard,Cody Hughes,39608,Virginia Tech
+2017,01/07,Franklin & Marshall Open,174,W,DEC,5 - 2,Adam Mackie,12802,Lock Haven,Cody Hughes,39608,Virginia Tech
+2017,01/07,Franklin & Marshall Open,174,W,MD,13 - 4,Melik Jimenez,40423,Campbell,Cody Hughes,39608,Virginia Tech
+2017,01/07,Franklin & Marshall Open,174,W,MD,13 - 4,Jake Kocsis,19655,Binghamton,Cody Hughes,39608,Virginia Tech
+2017,12/17,Cleveland State Open,174,W,DEC,9 - 5,Anthony Dailey,23386,Notre Dame,Cody Hughes,39608,Virginia Tech
+2017,12/17,Cleveland State Open,174,W,DEC,12 - 7,Danny Kruse,45311,Michigan State,Cody Hughes,39608,Virginia Tech
+2017,12/17,Cleveland State Open,174,L,DEC,14 - 9,Garrett Sutton,20024,Michigan,Cody Hughes,39608,Virginia Tech
+2017,12/17,Cleveland State Open,174,W,DEC,8 - 7,Dylan Barreiro,44632,Kent State,Cody Hughes,39608,Virginia Tech
+2017,12/17,Cleveland State Open,174,L,FALL,6:14,Jordan Pagano,20304,Rutgers,Cody Hughes,39608,Virginia Tech
+2017,12/03,Storm Open,174,W,TF5,18 - 0 7:00,Christopher Cooper,48063,Davenport,Cody Hughes,39608,Virginia Tech
+2017,12/03,Storm Open,174,W,MD,14 - 4,Christopher Cooper,48063,Davenport,Cody Hughes,39608,Virginia Tech
+2017,12/03,Storm Open,174,W,MD,17 - 5,Chris Morrow,45336,Cleveland State,Cody Hughes,39608,Virginia Tech
+2017,12/03,Storm Open,174,W,DEC,4 - 3,Roberto Rivera,43530,Notre Dame,Cody Hughes,39608,Virginia Tech
+2017,12/03,Storm Open,174,W,MFOR,0 - 0,Christian Price,41655,Ashland,Cody Hughes,39608,Virginia Tech
+2017,12/03,Storm Open,174,L,DEC,5 - 3,Jesse Palser,41631,Lake Erie College,Cody Hughes,39608,Virginia Tech
+2017,11/20,Wolfpack Open,174,W,MD,12 - 3,Kyle Rogers,40171,West Virginia,Cody Hughes,39608,Virginia Tech
+2017,11/20,Wolfpack Open,174,W,DEC,5 - 3,Antonio Agee,44635,Old Dominion,Cody Hughes,39608,Virginia Tech
+2017,11/20,Wolfpack Open,174,L,DEC,8 - 6,Nick Reenan,45035,NC State,Cody Hughes,39608,Virginia Tech
+2017,11/20,Wolfpack Open,174,L,DEC,7 - 2,Austin Trott,14906,Gardner-Webb,Cody Hughes,39608,Virginia Tech
+2017,11/06,Southeast Open,174,W,TF5,17 - 1 6:03,Stevenson Derival,44446,Brewton-Parker,Cody Hughes,39608,Virginia Tech
+2017,11/06,Southeast Open,174,W,DEC,7 - 1,Devin Kane,44607,North Carolina,Cody Hughes,39608,Virginia Tech
+2017,11/06,Southeast Open,174,W,DEC,4 - 1,Brendan Burnham,39821,Maryland,Cody Hughes,39608,Virginia Tech
+2017,11/06,Southeast Open,174,L,DEC,10 - 6,Ben Harvey,40935,Army West Point,Cody Hughes,39608,Virginia Tech
+2017,03/16,NCAA Championships,184,L,FALL,1:20,Hunter Gamble,12878,Gardner-Webb,Zack Zavatsky,20460,Virginia Tech
+2017,03/16,NCAA Championships,184,L,DEC,4 - 3,Drew Foster,20212,Northern Iowa,Zack Zavatsky,20460,Virginia Tech
+2017,03/16,NCAA Championships,184,W,DEC,10 - 5,Joe Heyob,20314,Pennsylvania,Zack Zavatsky,20460,Virginia Tech
+2017,03/04,ACC Championships,184,W,DEC,3 - 2,Michael Macchiavello,12532,NC State,Zack Zavatsky,20460,Virginia Tech
+2017,03/04,ACC Championships,184,W,MD,13 - 4,Alec Schenk,19869,Duke,Zack Zavatsky,20460,Virginia Tech
+2017,02/19,Nebraska - Virginia Tech Dual,184,W,FALL,4:44,Eric Engler,20098,Nebraska,Zack Zavatsky,20460,Virginia Tech
+2017,02/12,South Dakota State - Virginia Tech Dual,184,W,DEC,8 - 3,Martin Mueller,40281,South Dakota State,Zack Zavatsky,20460,Virginia Tech
+2017,02/11,North Carolina State - Virginia Tech Dual,184,L,DEC,9 - 3,Michael Macchiavello,12532,NC State,Zack Zavatsky,20460,Virginia Tech
+2017,01/29,Duke - Virginia Tech Dual,184,W,MD,13 - 3,Alec Schenk,19869,Duke,Zack Zavatsky,20460,Virginia Tech
+2017,01/27,Virginia Tech - Lehigh Dual,184,W,DEC,8 - 3,Andrew Price,39648,Lehigh,Zack Zavatsky,20460,Virginia Tech
+2017,01/22,Virginia - Virginia Tech Dual,184,W,MD,10 - 2,Will Schany,20435,Virginia,Zack Zavatsky,20460,Virginia Tech
+2017,01/20,Pittsburgh - Virginia Tech Dual,184,W,TF5,21 - 6 4:04,Matt Carr,45150,Pittsburgh,Zack Zavatsky,20460,Virginia Tech
+2017,01/14,Oklahoma - Virginia Tech Dual,184,W,DEC,4 - 2,Andrew Dixon,20809,Oklahoma,Zack Zavatsky,20460,Virginia Tech
+2017,01/14,North Dakota State - Virginia Tech Dual,184,W,DEC,4 - 1,Tyler McNutt,20765,North Dakota State,Zack Zavatsky,20460,Virginia Tech
+2017,01/13,Lock Haven - Virginia Tech Dual,184,W,DEC,4 - 2,Corey Hazel,39756,Lock Haven,Zack Zavatsky,20460,Virginia Tech
+2017,01/13,Kent State - Virginia Tech Dual,184,W,TF5,16 - 0 7:00,Jerald Spohn,12856,Kent State,Zack Zavatsky,20460,Virginia Tech
+2017,01/08,Virginia Tech - North Carolina Dual,184,W,TF5,20 - 5 2:54,Elijah Kerr-Brown,40327,North Carolina,Zack Zavatsky,20460,Virginia Tech
+2017,01/06,Virginia Tech - Princeton Dual,184,W,MD,10 - 2,Ian Baker,20332,Princeton,Zack Zavatsky,20460,Virginia Tech
+2017,12/18,Virginia Tech - West Virginia Dual,184,W,MD,16 - 8,Parker Von Egidy,12308,West Virginia,Zack Zavatsky,20460,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,184,L,TF5,19 - 4 5:00,Gabe Dean,12580,Cornell,Zack Zavatsky,20460,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,184,W,DEC,3 - 2,Hunter Ritter,39783,Wisconsin,Zack Zavatsky,20460,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,184,W,DEC,6 - 4,Myles Martin,39622,Ohio State,Zack Zavatsky,20460,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,184,W,DEC,9 - 5,Dylan Gabel,20186,Northern Colorado,Zack Zavatsky,20460,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,184,W,TF5,18 - 3 5:12,Ernest Battaglia,12891,Michigan,Zack Zavatsky,20460,Virginia Tech
+2017,11/20,Virginia Tech - Missouri Dual,184,W,INJ,1:23,Willie Miklus,14058,Missouri,Zack Zavatsky,20460,Virginia Tech
+2017,11/18,Virginia Tech - Northern Iowa Dual,184,W,DEC,9 - 7,Jacob Holschlag,39800,Northern Iowa,Zack Zavatsky,20460,Virginia Tech
+2017,11/13,Virginia Tech - Chattanooga Dual,184,W,DEC,2 - 1,Bryce Carr,39936,Chattanooga,Zack Zavatsky,20460,Virginia Tech
+2017,11/05,VMI - Virginia Tech Dual,184,W,FALL,3:26,Taylor Thomas,20702,VMI,Zack Zavatsky,20460,Virginia Tech
+2017,11/05,Edinboro - Virginia Tech Dual,184,W,DEC,9 - 4,Dakota Geer,45373,Edinboro,Zack Zavatsky,20460,Virginia Tech
+2017,02/05,Edinboro Open,184,L,DEC,8 - 3,Will Schany,20435,Virginia,Brooks Wilding,40356,Virginia Tech
+2017,02/05,Edinboro Open,184,L,MFOR,0 - 0,Chris Weiler,45108,Lehigh,Brooks Wilding,40356,Virginia Tech
+2017,01/07,Franklin & Marshall Open,184,L,MD,13 - 3,Tyler Askey,12657,Virginia,Brooks Wilding,40356,Virginia Tech
+2017,01/07,Franklin & Marshall Open,184,L,DEC,10 - 4,Anthony Mancini,19889,Franklin & Marshall,Brooks Wilding,40356,Virginia Tech
+2017,12/17,Cleveland State Open,184,W,MD,13 - 5,Brendan Winning,41662,Lake Erie College,Brooks Wilding,40356,Virginia Tech
+2017,12/17,Cleveland State Open,184,L,DEC,12 - 6,Will Schany,20435,Virginia,Brooks Wilding,40356,Virginia Tech
+2017,12/17,Cleveland State Open,184,W,MFOR,0 - 0,Hunter Gamble,12878,Gardner-Webb,Brooks Wilding,40356,Virginia Tech
+2017,12/17,Cleveland State Open,184,L,MD,12 - 2,Garrett Hoffman,44672,Bucknell,Brooks Wilding,40356,Virginia Tech
+2017,12/17,Cleveland State Open,184,W,DEC,4 - 2,Alan Clothier,45412,Appalachian State,Brooks Wilding,40356,Virginia Tech
+2017,11/20,Wolfpack Open,184,W,DEC,4 - 1,Mitch Jacobs,47771,St Andrews,Brooks Wilding,40356,Virginia Tech
+2017,11/20,Wolfpack Open,184,L,DEC,9 - 3,Chip Ness,20118,North Carolina,Brooks Wilding,40356,Virginia Tech
+2017,11/20,Wolfpack Open,184,W,MD,9 - 1,Roderick Davis,39752,NC State,Brooks Wilding,40356,Virginia Tech
+2017,11/20,Wolfpack Open,184,L,FALL,0:27,Hunter Gamble,12878,Gardner-Webb,Brooks Wilding,40356,Virginia Tech
+2017,11/20,Wolfpack Open,184,W,TF5,22 - 4 7:00,Jeffrey Burton,40329,Davidson,Brooks Wilding,40356,Virginia Tech
+2017,11/06,Southeast Open,174,W,FALL,3:00,Joey Mammolenti,42272,King,Brooks Wilding,40356,Virginia Tech
+2017,11/06,Southeast Open,174,W,DEC,8 - 1,Emilio Fowler,41290,Notre Dame,Brooks Wilding,40356,Virginia Tech
+2017,11/06,Southeast Open,174,W,DEC,5 - 1,Ben Wagner,42339,VMI,Brooks Wilding,40356,Virginia Tech
+2017,11/06,Southeast Open,174,W,DEC,5 - 4,Niko Cappello,44773,Maryland,Brooks Wilding,40356,Virginia Tech
+2017,11/06,Southeast Open,174,L,DEC,10 - 5,Ben Harvey,40935,Army West Point,Brooks Wilding,40356,Virginia Tech
+2017,11/06,Southeast Open,174,W,MFOR,0 - 0,Conner Allshouse,44877,American,Brooks Wilding,40356,Virginia Tech
+2017,02/05,Edinboro Open,184,L,MD,9 - 0,Jed Smith,45645,United States Military Academy,TJ Allen,44932,Virginia Tech
+2017,02/05,Edinboro Open,184,L,MD,12 - 3,Will Schany,20435,Virginia,TJ Allen,44932,Virginia Tech
+2017,02/05,Edinboro Open,184,W,DEC,9 - 7,Logan Rill,44775,Buffalo,TJ Allen,44932,Virginia Tech
+2017,01/28,Appalachian Open,184,L,SV-1,3 - 1,Hunter Yeargan,45564,Ohio,TJ Allen,44932,Virginia Tech
+2017,01/28,Appalachian Open,184,W,DEC,13 - 9,Nate Hall,41646,Ohio,TJ Allen,44932,Virginia Tech
+2017,01/28,Appalachian Open,184,L,MD,13 - 0,Nicky Hall,20129,NC State,TJ Allen,44932,Virginia Tech
+2017,01/07,Franklin & Marshall Open,184,W,DEC,4 - 3,Ray Bernot,45102,Lock Haven,TJ Allen,44932,Virginia Tech
+2017,01/07,Franklin & Marshall Open,184,L,FALL,4:17,Alex Benoit,41416,Navy,TJ Allen,44932,Virginia Tech
+2017,01/07,Franklin & Marshall Open,184,L,MD,13 - 1,Kanon Dean,19912,Harvard,TJ Allen,44932,Virginia Tech
+2017,12/17,Cleveland State Open,184,L,DEC,4 - 1,Morris Lawson,21159,Seton Hill,TJ Allen,44932,Virginia Tech
+2017,12/17,Cleveland State Open,184,L,DEC,8 - 1,Alan Clothier,45412,Appalachian State,TJ Allen,44932,Virginia Tech
+2017,11/20,Wolfpack Open,184,L,TF5,19 - 3 5:34,Chip Ness,20118,North Carolina,TJ Allen,44932,Virginia Tech
+2017,11/20,Wolfpack Open,184,L,TF5,19 - 3 7:00,Chip Ness,20118,North Carolina,TJ Allen,44932,Virginia Tech
+2017,11/20,Wolfpack Open,184,L,DEC,7 - 0,Taylor Jackson,12867,Appalachian State,TJ Allen,44932,Virginia Tech
+2017,11/06,Southeast Open,184,W,DEC,9 - 3,Hank Turner,46141,Shorter,TJ Allen,44932,Virginia Tech
+2017,11/06,Southeast Open,184,L,TF5,19 - 2 5:30,Noah Stewart,44599,Army West Point,TJ Allen,44932,Virginia Tech
+2017,11/06,Southeast Open,184,L,FALL,4:25,Luke Hodsden,45121,Army West Point,TJ Allen,44932,Virginia Tech
+2017,03/16,NCAA Championships,197,W,DEC,2 - 1,Preston Weigel,20278,Oklahoma State,Jared Haught,13085,Virginia Tech
+2017,03/16,NCAA Championships,197,L,FALL,2:27,Kollin Moore,39638,Ohio State,Jared Haught,13085,Virginia Tech
+2017,03/16,NCAA Championships,197,L,DEC,6 - 2,J'den Cox,13114,Missouri,Jared Haught,13085,Virginia Tech
+2017,03/16,NCAA Championships,197,W,DEC,7 - 3,Matt McCutcheon,12572,Penn State,Jared Haught,13085,Virginia Tech
+2017,03/16,NCAA Championships,197,W,DEC,4 - 1,Cash Wilcke,39502,Iowa,Jared Haught,13085,Virginia Tech
+2017,03/16,NCAA Championships,197,W,DEC,4 - 1,Matt Williams,16442,CSU Bakersfield,Jared Haught,13085,Virginia Tech
+2017,03/04,ACC Championships,197,W,TF5,22 - 6 6:31,Chance McClure,20430,Virginia,Jared Haught,13085,Virginia Tech
+2017,03/04,ACC Championships,197,W,DEC,6 - 3,Daniel Chaid,45044,North Carolina,Jared Haught,13085,Virginia Tech
+2017,02/19,Nebraska - Virginia Tech Dual,197,W,TB-1,3 - 2,Aaron Studebaker,12422,Nebraska,Jared Haught,13085,Virginia Tech
+2017,02/11,North Carolina State - Virginia Tech Dual,197,W,DEC,8 - 2,Malik McDonald,20133,NC State,Jared Haught,13085,Virginia Tech
+2017,01/29,Duke - Virginia Tech Dual,197,W,TF5,22 - 7 5:57,Luke Farinaro,19860,Duke,Jared Haught,13085,Virginia Tech
+2017,01/27,Virginia Tech - Lehigh Dual,197,W,INJ,6:23,Ben Haas,11564,Lehigh,Jared Haught,13085,Virginia Tech
+2017,01/22,Virginia - Virginia Tech Dual,197,W,FALL,6:43,Chance McClure,20430,Virginia,Jared Haught,13085,Virginia Tech
+2017,01/20,Pittsburgh - Virginia Tech Dual,197,W,MD,19 - 6,John Rizzo,20329,Pittsburgh,Jared Haught,13085,Virginia Tech
+2017,01/14,Oklahoma - Virginia Tech Dual,197,W,DEC,5 - 1,Brad Johnson,16410,Oklahoma,Jared Haught,13085,Virginia Tech
+2017,01/14,North Dakota State - Virginia Tech Dual,197,W,MD,13 - 1,Cordell Eaton,40458,North Dakota State,Jared Haught,13085,Virginia Tech
+2017,01/13,Lock Haven - Virginia Tech Dual,197,W,MD,16 - 5,Tristan Sponseller,20593,Lock Haven,Jared Haught,13085,Virginia Tech
+2017,01/13,Kent State - Virginia Tech Dual,197,W,FALL,2:49,Stephen Suglio,13094,Kent State,Jared Haught,13085,Virginia Tech
+2017,01/08,Virginia Tech - North Carolina Dual,197,W,DEC,8 - 2,Daniel Chaid,45044,North Carolina,Jared Haught,13085,Virginia Tech
+2017,01/06,Virginia Tech - Princeton Dual,197,W,FALL,4:17,Brett Harner,12294,Princeton,Jared Haught,13085,Virginia Tech
+2017,12/18,Virginia Tech - West Virginia Dual,197,W,TB-1,3 - 2,Jake A Smith,23323,West Virginia,Jared Haught,13085,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,197,W,SV-1,6 - 4,Jake A Smith,23323,West Virginia,Jared Haught,13085,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,197,W,DEC,4 - 2,Steban Cervantes,20597,Navy,Jared Haught,13085,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,197,L,MD,14 - 1,Brett Pfarr,12441,Minnesota,Jared Haught,13085,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,197,W,DEC,5 - 3,Matt Williams,16442,CSU Bakersfield,Jared Haught,13085,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,197,W,MD,20 - 6,Thomas Lane,39966,Cal Poly,Jared Haught,13085,Virginia Tech
+2017,11/20,Virginia Tech - Missouri Dual,197,L,DEC,2 - 0,J'den Cox,13114,Missouri,Jared Haught,13085,Virginia Tech
+2017,11/18,Virginia Tech - Northern Iowa Dual,197,W,DEC,6 - 2,Jared Bartel,12953,Northern Iowa,Jared Haught,13085,Virginia Tech
+2017,11/13,Virginia Tech - Chattanooga Dual,197,W,DEC,6 - 1,Ira Dent,12620,Chattanooga,Jared Haught,13085,Virginia Tech
+2017,11/05,VMI - Virginia Tech Dual,197,W,MD,14 - 3,Shawn Reynolds,45669,VMI,Jared Haught,13085,Virginia Tech
+2017,11/05,Edinboro - Virginia Tech Dual,197,W,MD,14 - 3,Shawn Reynolds,40439,Edinboro,Jared Haught,13085,Virginia Tech
+2017,02/05,Edinboro Open,197,W,MD,16 - 4,Steven Hoadley,45646,United States Military Academy,Dylan Cook,42820,Virginia Tech
+2017,02/05,Edinboro Open,197,L,TF5,16 - 0 4:26,Owen Scott,12799,Cornell,Dylan Cook,42820,Virginia Tech
+2017,02/05,Edinboro Open,197,L,FALL,1:47,Shawn Reynolds,40439,Edinboro,Dylan Cook,42820,Virginia Tech
+2017,01/28,Appalachian Open,197,L,FALL,2:48,Devin King,25087,Ohio,Dylan Cook,42820,Virginia Tech
+2017,01/28,Appalachian Open,197,W,MD,11 - 2,Ben Stacey,44899,Chattanooga,Dylan Cook,42820,Virginia Tech
+2017,01/28,Appalachian Open,197,L,DEC,2 - 1,Austin McNeil,40431,Campbell,Dylan Cook,42820,Virginia Tech
+2017,01/07,Franklin & Marshall Open,197,W,DEC,4 - 2,Nick McShea,44865,Maryland,Dylan Cook,42820,Virginia Tech
+2017,01/07,Franklin & Marshall Open,197,L,FALL,1:03,Tristan Sponseller,20593,Lock Haven,Dylan Cook,42820,Virginia Tech
+2017,01/07,Franklin & Marshall Open,197,L,DEC,6 - 3,Tucker Ziegler,39913,Brown,Dylan Cook,42820,Virginia Tech
+2017,01/07,Franklin & Marshall Open,197,W,FALL,6:37,Anthony Piscopo,44912,Columbia,Dylan Cook,42820,Virginia Tech
+2017,12/17,Cleveland State Open,197,L,MD,13 - 0,Owen Scott,12799,Cornell,Dylan Cook,42820,Virginia Tech
+2017,12/17,Cleveland State Open,197,W,INJ,7:00,Chance McClure,20430,Virginia,Dylan Cook,42820,Virginia Tech
+2017,12/17,Cleveland State Open,197,L,DEC,7 - 4,Drew Barrett,22019,Gardner-Webb,Dylan Cook,42820,Virginia Tech
+2017,11/20,Wolfpack Open,197,W,FALL,1:25,Jared Key,43001,St Andrews,Dylan Cook,42820,Virginia Tech
+2017,11/20,Wolfpack Open,197,L,DEC,9 - 3,Eric Peissig,16414,Wisconsin,Dylan Cook,42820,Virginia Tech
+2017,11/20,Wolfpack Open,197,W,MD,17 - 3,Terry Henderson,12641,Gardner-Webb,Dylan Cook,42820,Virginia Tech
+2017,11/20,Wolfpack Open,197,L,MD,15 - 6,Parker Hines,13041,Air Force,Dylan Cook,42820,Virginia Tech
+2017,03/16,NCAA Championships,285,W,DEC,5 - 3,Nick Nevills,20301,Penn State,Ty Walz,14246,Virginia Tech
+2017,03/16,NCAA Championships,285,L,TB-1,5 - 4,Tanner Hall,40231,Arizona State,Ty Walz,14246,Virginia Tech
+2017,03/16,NCAA Championships,285,L,DEC,4 - 3,Connor Medbery,14314,Wisconsin,Ty Walz,14246,Virginia Tech
+2017,03/16,NCAA Championships,285,W,MD,15 - 4,Conan Jennings,20222,Northwestern,Ty Walz,14246,Virginia Tech
+2017,03/16,NCAA Championships,285,W,DEC,9 - 5,Thomas Haines,20247,Lock Haven,Ty Walz,14246,Virginia Tech
+2017,03/16,NCAA Championships,285,W,DEC,11 - 4,Benjamin Tyanan,40498,North Dakota State,Ty Walz,14246,Virginia Tech
+2017,03/04,ACC Championships,285,W,MD,17 - 6,Cory Gillilland-Daniel,22024,North Carolina,Ty Walz,14246,Virginia Tech
+2017,03/04,ACC Championships,285,W,DEC,8 - 3,Jacob Kasper,12475,Duke,Ty Walz,14246,Virginia Tech
+2017,02/19,Nebraska - Virginia Tech Dual,285,W,MD,15 - 5,Collin Jensen,14132,Nebraska,Ty Walz,14246,Virginia Tech
+2017,02/12,South Dakota State - Virginia Tech Dual,285,W,TF5,20 - 5 5:49,Alex Macki,14278,South Dakota State,Ty Walz,14246,Virginia Tech
+2017,02/11,North Carolina State - Virginia Tech Dual,285,W,MD,13 - 4,Michael Boykin,20123,NC State,Ty Walz,14246,Virginia Tech
+2017,01/29,Duke - Virginia Tech Dual,285,L,MD,15 - 7,Jacob Kasper,12475,Duke,Ty Walz,14246,Virginia Tech
+2017,01/27,Virginia Tech - Lehigh Dual,285,W,DEC,12 - 5,Doug Vollaro,14167,Lehigh,Ty Walz,14246,Virginia Tech
+2017,01/22,Virginia - Virginia Tech Dual,285,W,MD,22 - 8,Tyler Love,43203,Virginia,Ty Walz,14246,Virginia Tech
+2017,01/20,Pittsburgh - Virginia Tech Dual,285,W,DEC,8 - 3,Ryan Solomon,13146,Pittsburgh,Ty Walz,14246,Virginia Tech
+2017,01/14,Oklahoma - Virginia Tech Dual,285,W,DEC,9 - 3,Ross Larson,14299,Oklahoma,Ty Walz,14246,Virginia Tech
+2017,01/14,North Dakota State - Virginia Tech Dual,285,W,MD,11 - 2,Benjamin Tyanan,40498,North Dakota State,Ty Walz,14246,Virginia Tech
+2017,01/13,Lock Haven - Virginia Tech Dual,285,W,MD,24 - 15,Thomas Haines,20247,Lock Haven,Ty Walz,14246,Virginia Tech
+2017,01/13,Kent State - Virginia Tech Dual,285,W,TF5,22 - 7 7:00,Devin Nye,19975,Kent State,Ty Walz,14246,Virginia Tech
+2017,01/08,Virginia Tech - North Carolina Dual,285,W,MD,14 - 4,Cory Gillilland-Daniel,22024,North Carolina,Ty Walz,14246,Virginia Tech
+2017,01/06,Virginia Tech - Princeton Dual,285,W,TF5,26 - 11 6:26,Raymond O'Donnell,37426,Princeton,Ty Walz,14246,Virginia Tech
+2017,12/18,Virginia Tech - West Virginia Dual,285,W,TF5,24 - 7 6:46,Brandon Ngati,45167,West Virginia,Ty Walz,14246,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,285,W,TF5,22 - 7 6:49,Cooper Thomas,44510,North Idaho College,Ty Walz,14246,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,285,L,SV-1,6 - 4,Connor Medbery,14314,Wisconsin,Ty Walz,14246,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,285,W,MD,17 - 7,Cody Crawford,16468,Oregon State,Ty Walz,14246,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,285,W,MD,19 - 8,Newton Smerchek,14224,Central Michigan,Ty Walz,14246,Virginia Tech
+2017,12/02,Cliff Keen Las Vegas Invite,285,W,DEC,5 - 3,Tanner Hall,40231,Arizona State,Ty Walz,14246,Virginia Tech
+2017,11/20,Virginia Tech - Missouri Dual,285,W,MD,18 - 6,Austin Myers,39755,Missouri,Ty Walz,14246,Virginia Tech
+2017,11/18,Virginia Tech - Northern Iowa Dual,285,W,MD,20 - 6,JJ Everard,14324,Northern Iowa,Ty Walz,14246,Virginia Tech
+2017,11/13,Virginia Tech - Chattanooga Dual,285,W,DEC,13 - 7,Jared Johnson,19773,Chattanooga,Ty Walz,14246,Virginia Tech
+2017,02/05,Edinboro Open,285,W,FALL,2:15,Luke Ready,47512,Unattached,Andrew Dunn,45111,Virginia Tech
+2017,02/05,Edinboro Open,285,W,DEC,3 - 1,Christian Rebottaro,44850,Michigan State,Andrew Dunn,45111,Virginia Tech
+2017,02/05,Edinboro Open,285,L,DEC,4 - 0,Nolan Terrance,39572,Buffalo,Andrew Dunn,45111,Virginia Tech
+2017,02/05,Edinboro Open,285,L,DEC,4 - 3,Ian James,19721,Buffalo,Andrew Dunn,45111,Virginia Tech
+2017,02/05,Edinboro Open,285,W,FALL,1:16,Zach Schrader,45168,West Virginia,Andrew Dunn,45111,Virginia Tech
+2017,01/28,Appalachian Open,285,L,DEC,5 - 4,Mike Rogers,45302,NC State,Andrew Dunn,45111,Virginia Tech
+2017,01/28,Appalachian Open,285,W,DEC,6 - 2,Michael Johnson,44973,Duke,Andrew Dunn,45111,Virginia Tech
+2017,01/28,Appalachian Open,285,W,FALL,1:10,Robert Scherer,44761,Virginia,Andrew Dunn,45111,Virginia Tech
+2017,01/28,Appalachian Open,285,W,DEC,3 - 1,Michael McAleavey,45588,The Citadel,Andrew Dunn,45111,Virginia Tech
+2017,12/17,Cleveland State Open,285,W,FALL,3:39,Jacob Robb,45929,Mercyhurst,Andrew Dunn,45111,Virginia Tech
+2017,12/17,Cleveland State Open,285,L,DEC,8 - 4,Jacob Robb,45929,Mercyhurst,Andrew Dunn,45111,Virginia Tech
+2017,12/17,Cleveland State Open,285,W,DEC,5 - 2,Tyler Love,43203,Virginia,Andrew Dunn,45111,Virginia Tech
+2017,12/17,Cleveland State Open,285,W,MD,11 - 1,Jackson Price,20801,Gardner-Webb,Andrew Dunn,45111,Virginia Tech
+2017,12/17,Cleveland State Open,285,W,DEC,7 - 5,Gary Traub,45199,Ohio State,Andrew Dunn,45111,Virginia Tech
+2017,12/17,Cleveland State Open,285,W,MD,16 - 6,Nick Shawley,14470,Clarion,Andrew Dunn,45111,Virginia Tech
+2017,12/03,Storm Open,285,W,FALL,5:50,Collin Shirley,48067,Baldwin Wallace,Andrew Dunn,45111,Virginia Tech
+2017,12/03,Storm Open,285,W,DEC,5 - 4,Maxwell Lacey,43498,Wheeling,Andrew Dunn,45111,Virginia Tech
+2017,12/03,Storm Open,285,W,FALL,1:33,Zach Wood,41659,Lake Erie College,Andrew Dunn,45111,Virginia Tech
+2017,12/03,Storm Open,285,W,SV-1,3 - 1,Jake Scanlan,39921,American,Andrew Dunn,45111,Virginia Tech

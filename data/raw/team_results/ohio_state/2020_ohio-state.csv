@@ -1,0 +1,641 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2020,03/07,Big Ten Championships,125,W,DEC,8 - 4,Logan Griffin,40454,Michigan State,Malik Heinselman,50611,Ohio State
+2020,03/07,Big Ten Championships,125,L,DEC,8 - 3,Liam Cronin,45061,Indiana,Malik Heinselman,50611,Ohio State
+2020,03/07,Big Ten Championships,125,W,DEC,4 - 0,Justin Cardani,51687,Illinois,Malik Heinselman,50611,Ohio State
+2020,03/07,Big Ten Championships,125,W,FALL,2:07,Patrick McKee,50594,Minnesota,Malik Heinselman,50611,Ohio State
+2020,03/07,Big Ten Championships,125,L,FALL,4:35,Michael DeAugustino,56007,Northwestern,Malik Heinselman,50611,Ohio State
+2020,02/15,Ohio State - Penn State Dual,125,W,DEC,5 - 3,Brandon Meredith,56935,Penn State,Malik Heinselman,50611,Ohio State
+2020,02/09,Greyhound Open,125,W,DEC,11 - 4,Kooper Loehr,62509,Purdue,Malik Heinselman,50611,Ohio State
+2020,02/09,Greyhound Open,125,W,FALL,1:23,Terence Brown,57542,Kentucky Wesleyan,Malik Heinselman,50611,Ohio State
+2020,02/09,Greyhound Open,125,W,MD,13 - 4,Nathan Cummings,51073,Purdue,Malik Heinselman,50611,Ohio State
+2020,02/09,Greyhound Open,125,W,TF5,18 - 1 7:00,Trever Skinner,41369,Davenport,Malik Heinselman,50611,Ohio State
+2020,02/02,Ohio State - Nebraska Dual,125,L,DEC,5 - 2,Alex Thomsen,50601,Nebraska,Malik Heinselman,50611,Ohio State
+2020,01/31,Maryland - Ohio State Dual,125,W,DEC,7 - 2,Brandon Cray,44681,Maryland,Malik Heinselman,50611,Ohio State
+2020,01/26,Ohio State - Minnesota Dual,125,L,DEC,5 - 1,Patrick McKee,50594,Minnesota,Malik Heinselman,50611,Ohio State
+2020,01/19,Illinois - Ohio State Dual,125,L,SV-1,8 - 6,Justin Cardani,51687,Illinois,Malik Heinselman,50611,Ohio State
+2020,01/17,Ohio State - Wisconsin Dual,125,L,DEC,8 - 6,Eric Barnett,56753,Wisconsin,Malik Heinselman,50611,Ohio State
+2020,01/10,Rutgers - Ohio State Dual,125,L,MD,14 - 1,Nic Aguilar,51104,Rutgers,Malik Heinselman,50611,Ohio State
+2020,01/06,Arizona State - Ohio State Dual,125,L,DEC,9 - 5,Brandon Courtney,50881,Arizona State,Malik Heinselman,50611,Ohio State
+2020,12/06,Cliff Keen Invitational,125,L,FALL,1:38,Jacob Schwarm,39750,Northern Iowa,Malik Heinselman,50611,Ohio State
+2020,12/06,Cliff Keen Invitational,125,W,INJ,7:00,Jace Koelzer,50912,Northern Colorado,Malik Heinselman,50611,Ohio State
+2020,12/06,Cliff Keen Invitational,125,L,FALL,1:42,Jack Mueller,45232,Virginia,Malik Heinselman,50611,Ohio State
+2020,12/06,Cliff Keen Invitational,125,L,DEC,4 - 2,Joey Prata,44734,Virginia Tech,Malik Heinselman,50611,Ohio State
+2020,12/06,Cliff Keen Invitational,125,W,DEC,7 - 3,Jack Medley,51392,Michigan,Malik Heinselman,50611,Ohio State
+2020,12/06,Cliff Keen Invitational,125,W,DEC,10 - 3,Kyle Randall,56471,Sacred Heart,Malik Heinselman,50611,Ohio State
+2020,12/01,Cornell - Ohio State Dual,125,W,DEC,8 - 4,Dominic LaJoie,49112,Cornell,Malik Heinselman,50611,Ohio State
+2020,11/17,Virginia Tech - Ohio State Dual,125,L,DEC,5 - 2,Joey Prata,44734,Virginia Tech,Malik Heinselman,50611,Ohio State
+2020,11/15,Ohio State - Pittsburgh Dual,125,W,DEC,12 - 7,Louis Newell,50916,Pittsburgh,Malik Heinselman,50611,Ohio State
+2020,11/10,Stanford - Ohio State Dual,125,W,DEC,6 - 3,Jackson DiSario,57126,Stanford,Malik Heinselman,50611,Ohio State
+2020,11/02,MSU Open,125,W,DEC,4 - 1,Tommy Hoskins,50613,Oklahoma,Malik Heinselman,50611,Ohio State
+2020,11/02,MSU Open,125,L,TF5,20 - 0 7:00,Devin Schroder,44591,Purdue,Malik Heinselman,50611,Ohio State
+2020,11/02,MSU Open,125,W,DEC,7 - 3,Bryce West,50039,Northern Illinois,Malik Heinselman,50611,Ohio State
+2020,11/02,MSU Open,125,L,FALL,1:36,Bryce West,50039,Northern Illinois,Malik Heinselman,50611,Ohio State
+2020,11/02,MSU Open,125,L,SV-1,7 - 5,Drew Hildebrandt,44818,Central Michigan,Malik Heinselman,50611,Ohio State
+2020,11/02,MSU Open,125,W,MD,18 - 5,Kevin Meloni,50549,Buffalo,Malik Heinselman,50611,Ohio State
+2020,02/09,Northwestern - Ohio State Dual,125,L,DEC,3 - 2,Michael DeAugustino,56007,Northwestern,Dylan Koontz,50854,Ohio State
+2020,02/01,Edinboro Open,125,W,DEC,6 - 4,Oscar Sanchez,57320,Ohio,Dylan Koontz,50854,Ohio State
+2020,02/01,Edinboro Open,125,W,MFOR,0 - 0,Brady Koontz,50853,Ohio State Wrestling Club,Dylan Koontz,50854,Ohio State
+2020,02/01,Edinboro Open,125,W,FALL,4:54,Kevin Meloni,50549,Buffalo,Dylan Koontz,50854,Ohio State
+2020,02/01,Edinboro Open,125,W,DEC,7 - 3,Jake Gromacki,20324,Clarion,Dylan Koontz,50854,Ohio State
+2020,12/06,Cliff Keen Invitational,133,L,DEC,6 - 5,Mosha Schwartz,55841,Northern Colorado,Dylan Koontz,50854,Ohio State
+2020,12/06,Cliff Keen Invitational,133,W,DEC,5 - 4,Jarrett Trombley,50807,NC State,Dylan Koontz,50854,Ohio State
+2020,12/06,Cliff Keen Invitational,133,L,DEC,5 - 3,Todd Small,45992,Iowa State,Dylan Koontz,50854,Ohio State
+2020,12/06,Cliff Keen Invitational,133,L,DEC,8 - 3,Chaz Tucker,39771,Cornell,Dylan Koontz,50854,Ohio State
+2020,12/06,Cliff Keen Invitational,133,W,SV-1,8 - 6,Joshua Kramer,39736,Arizona State,Dylan Koontz,50854,Ohio State
+2020,12/06,Cliff Keen Invitational,133,W,MD,12 - 1,Anthony Petrillo,56356,Sacred Heart,Dylan Koontz,50854,Ohio State
+2020,12/01,Cornell - Ohio State Dual,133,L,DEC,12 - 5,Chaz Tucker,39771,Cornell,Dylan Koontz,50854,Ohio State
+2020,11/24,Lake Erie Storm Open,133,W,MD,10 - 0,Richetshaye Puente,63241,Tiffin University,Dylan Koontz,50854,Ohio State
+2020,11/24,Lake Erie Storm Open,133,W,DEC,8 - 6,Michael Cassidy,59534,Edinboro,Dylan Koontz,50854,Ohio State
+2020,11/24,Lake Erie Storm Open,133,W,DEC,6 - 4,Austin Hertel,50211,Gannon,Dylan Koontz,50854,Ohio State
+2020,11/24,Lake Erie Storm Open,133,W,TB-1,4 - 1,Hunter Bray,47125,Notre Dame,Dylan Koontz,50854,Ohio State
+2020,11/10,Ohio Intercollegiate Open,133,L,DEC,3 - 2,Hunter Bray,47125,Notre Dame,Dylan Koontz,50854,Ohio State
+2020,11/10,Ohio Intercollegiate Open,133,L,DEC,3 - 2,Conor McCrone,57522,Ohio,Dylan Koontz,50854,Ohio State
+2020,11/02,MSU Open,133,L,TF5,16 - 1 7:00,Anthony Madrigal,50633,Oklahoma,Dylan Koontz,50854,Ohio State
+2020,11/02,MSU Open,133,L,DEC,12 - 8,We Rachal,56818,Illinois,Dylan Koontz,50854,Ohio State
+2020,11/02,MSU Open,133,W,DEC,5 - 4,Brock Bergelin,49078,Central Michigan,Dylan Koontz,50854,Ohio State
+2020,01/24,Ohio State - Iowa Dual,125,L,TF5,18 - 0 2:32,Spencer Lee,49146,Iowa,Hunter Lucas,45132,Ohio State
+2020,01/19,Purple Raider Open,125,W,MD,14 - 3,Rosendo Beltran,61031,Defiance College,Hunter Lucas,45132,Ohio State
+2020,01/19,Purple Raider Open,125,L,DEC,3 - 1,Oscar Sanchez,57320,Ohio,Hunter Lucas,45132,Ohio State
+2020,01/19,Purple Raider Open,125,W,DEC,10 - 9,Jake Ferri,51179,Kent State,Hunter Lucas,45132,Ohio State
+2020,01/19,Purple Raider Open,125,W,DEC,9 - 4,Nathan Cummings,51073,Purdue,Hunter Lucas,45132,Ohio State
+2020,11/10,Ohio Intercollegiate Open,125,L,DEC,5 - 3,Andrew Perelka,59022,John Carroll,Hunter Lucas,45132,Ohio State
+2020,11/10,Ohio Intercollegiate Open,125,W,TF5,16 - 0 2:35,Nathaniel Stubblefield,46566,Tiffin University,Hunter Lucas,45132,Ohio State
+2020,11/10,Ohio Intercollegiate Open,125,L,MFOR,0 - 0,Cody Moosman,49103,Cleveland State,Hunter Lucas,45132,Ohio State
+2020,11/02,MSU Open,125,W,DEC,3 - 2,Tommy Hoskins,50613,Oklahoma,Hunter Lucas,45132,Ohio State
+2020,11/02,MSU Open,125,L,TF5,18 - 0 7:00,Devin Schroder,44591,Purdue,Hunter Lucas,45132,Ohio State
+2020,11/02,MSU Open,125,W,DEC,8 - 4,Trevor Giallombardo,45033,Ohio,Hunter Lucas,45132,Ohio State
+2020,11/02,MSU Open,125,L,MD,9 - 0,Brock Hudkins,44808,Indiana,Hunter Lucas,45132,Ohio State
+2020,02/01,Edinboro Open,125,L,DEC,9 - 7,Brandon Spellman,63969,NJRTC,Jacob Decatur,56728,Ohio State
+2020,02/01,Edinboro Open,125,W,DEC,5 - 2,Richie Markulics,62849,Edinboro,Jacob Decatur,56728,Ohio State
+2020,02/01,Edinboro Open,125,W,DEC,4 - 2,Blake Jackson,58818,Clarion,Jacob Decatur,56728,Ohio State
+2020,02/01,Edinboro Open,125,L,DEC,2 - 0,Oscar Sanchez,57320,Ohio,Jacob Decatur,56728,Ohio State
+2020,02/01,Edinboro Open,125,W,MFOR,0 - 0,Gavin Park,49094,Clarion,Jacob Decatur,56728,Ohio State
+2020,01/19,Purple Raider Open,125,L,MFOR,0 - 0,Rosendo Beltran,61031,Defiance College,Jacob Decatur,56728,Ohio State
+2020,01/19,Purple Raider Open,125,L,MFOR,0 - 0,Oscar Sanchez,57320,Ohio,Jacob Decatur,56728,Ohio State
+2020,01/19,Purple Raider Open,125,W,DEC,5 - 2,Nathaniel Stubblefield,46566,Tiffin University,Jacob Decatur,56728,Ohio State
+2020,12/14,Cleveland State Open,125,W,DEC,11 - 5,Colin Yinger,63163,Ohio,Jacob Decatur,56728,Ohio State
+2020,12/14,Cleveland State Open,125,L,MFOR,0 - 0,Vince Perez,60001,Central Michigan,Jacob Decatur,56728,Ohio State
+2020,12/14,Cleveland State Open,125,W,MD,13 - 5,Derek Giallombardo,51614,Ohio,Jacob Decatur,56728,Ohio State
+2020,12/14,Cleveland State Open,125,L,DEC,3 - 2,Cody Moosman,49103,Cleveland State,Jacob Decatur,56728,Ohio State
+2020,11/24,Lake Erie Storm Open,125,W,TF5,23 - 7 7:00,Daniel Rehfeldt,63247,Unattached,Jacob Decatur,56728,Ohio State
+2020,11/24,Lake Erie Storm Open,125,W,MD,13 - 3,Noah Hodges,63188,Alderson-Broaddus University,Jacob Decatur,56728,Ohio State
+2020,11/24,Lake Erie Storm Open,125,W,SV-1,6 - 4,Andrew Ischo,63098,Gannon,Jacob Decatur,56728,Ohio State
+2020,11/24,Lake Erie Storm Open,125,L,MD,13 - 4,Rayvon Foley,50823,Michigan State,Jacob Decatur,56728,Ohio State
+2020,11/10,Ohio Intercollegiate Open,125,W,MD,23 - 9,Jacob Dehart,63998,Ohio Wesleyan,Jacob Decatur,56728,Ohio State
+2020,11/10,Ohio Intercollegiate Open,125,W,DEC,5 - 1,Kyle Murray,59021,John Carroll,Jacob Decatur,56728,Ohio State
+2020,11/10,Ohio Intercollegiate Open,125,W,DEC,3 - 2,Tyler Mitchell,56399,Mercyhurst,Jacob Decatur,56728,Ohio State
+2020,11/10,Ohio Intercollegiate Open,125,W,DEC,5 - 3,Jacob Sherman,57303,Kent State,Jacob Decatur,56728,Ohio State
+2020,11/02,MSU Open,125,L,TB-1,2 - 1,Colton Camacho,58029,Pittsburgh,Jacob Decatur,56728,Ohio State
+2020,11/02,MSU Open,125,W,MD,14 - 5,Colin Yinger,63163,Ohio,Jacob Decatur,56728,Ohio State
+2020,11/02,MSU Open,125,L,DEC,3 - 2,Oscar Sanchez,57320,Ohio,Jacob Decatur,56728,Ohio State
+2020,11/02,MSU Open,125,W,MD,13 - 4,Derek Giallombardo,51614,Ohio,Jacob Decatur,56728,Ohio State
+2020,11/02,MSU Open,125,W,DEC,5 - 3,Zach Shupp,51187,Central Michigan,Jacob Decatur,56728,Ohio State
+2020,11/02,MSU Open,125,W,DEC,5 - 3,Benjamin Martinez,56668,Cal Poly,Jacob Decatur,56728,Ohio State
+2020,03/07,Big Ten Championships,133,L,DEC,1 - 0,Boo Dryden,52313,Minnesota,Jordan Decatur,56727,Ohio State
+2020,03/07,Big Ten Championships,133,L,MD,17 - 3,Austin DeSanto,49117,Iowa,Jordan Decatur,56727,Ohio State
+2020,02/16,John Carroll Open,133,W,FALL,3:22,Conor McCrone,57522,Ohio,Jordan Decatur,56727,Ohio State
+2020,02/16,John Carroll Open,133,W,DEC,5 - 2,Jordan Hamdan,57705,Michigan State,Jordan Decatur,56727,Ohio State
+2020,02/16,John Carroll Open,133,W,DEC,8 - 4,Hunter Watts,60003,Central Michigan,Jordan Decatur,56727,Ohio State
+2020,02/15,Ohio State - Penn State Dual,133,L,DEC,10 - 4,Roman Bravo-Young,49665,Penn State,Jordan Decatur,56727,Ohio State
+2020,02/09,Northwestern - Ohio State Dual,133,W,MD,13 - 1,Dylan Utterback,51399,Northwestern,Jordan Decatur,56727,Ohio State
+2020,02/02,Ohio State - Nebraska Dual,133,L,DEC,6 - 5,Ridge Lovett,57520,Nebraska,Jordan Decatur,56727,Ohio State
+2020,01/31,Maryland - Ohio State Dual,133,L,DEC,10 - 8,King Sandoval,57116,Maryland,Jordan Decatur,56727,Ohio State
+2020,01/26,Ohio State - Minnesota Dual,133,W,MD,16 - 6,Jake Gliva,51241,Minnesota,Jordan Decatur,56727,Ohio State
+2020,01/24,Ohio State - Iowa Dual,133,L,TF5,27 - 12 5:59,Austin DeSanto,49117,Iowa,Jordan Decatur,56727,Ohio State
+2020,01/19,Illinois - Ohio State Dual,133,L,DEC,6 - 2,Travis Piotrowski,44646,Illinois,Jordan Decatur,56727,Ohio State
+2020,01/17,Ohio State - Wisconsin Dual,133,L,MD,15 - 6,Seth Gross,19949,Wisconsin,Jordan Decatur,56727,Ohio State
+2020,01/10,Rutgers - Ohio State Dual,133,L,DEC,6 - 1,Sammy Alvarez,56763,Rutgers,Jordan Decatur,56727,Ohio State
+2020,01/06,Arizona State - Ohio State Dual,133,W,DEC,5 - 3,Joshua Kramer,39736,Arizona State,Jordan Decatur,56727,Ohio State
+2020,01/04,Franklin & Marshall Open,133,W,TF5,16 - 0 7:00,Austin Almaguer,62503,Campbell,Jordan Decatur,56727,Ohio State
+2020,01/04,Franklin & Marshall Open,133,W,MFOR,0 - 0,Darby Diedrich,62363,Brown,Jordan Decatur,56727,Ohio State
+2020,01/04,Franklin & Marshall Open,133,W,MD,14 - 5,Sam Book,49332,Virginia,Jordan Decatur,56727,Ohio State
+2020,01/04,Franklin & Marshall Open,133,W,MFOR,0 - 0,Ty Agaisse,45131,Princeton,Jordan Decatur,56727,Ohio State
+2020,12/14,Cleveland State Open,141,W,FALL,6:10,Jack Gorman,58613,Cleveland State,Jordan Decatur,56727,Ohio State
+2020,12/14,Cleveland State Open,141,W,MFOR,0 - 0,Luke Wymer,57433,Ashland,Jordan Decatur,56727,Ohio State
+2020,12/14,Cleveland State Open,141,W,MD,15 - 2,Jarred Papscy,56827,NC State,Jordan Decatur,56727,Ohio State
+2020,12/14,Cleveland State Open,141,L,DEC,10 - 3,Evan Cheek,40190,Cleveland State,Jordan Decatur,56727,Ohio State
+2020,12/14,Cleveland State Open,141,W,DEC,11 - 4,Justin Benjamin,61997,Northwestern,Jordan Decatur,56727,Ohio State
+2020,02/09,Greyhound Open,133,W,DEC,7 - 0,Taylor Ticknor,63332,Middle Tennessee State,Nick Oldham,61941,Ohio State
+2020,02/09,Greyhound Open,133,W,MD,9 - 0,Armando Callejas,62538,Indianapolis,Nick Oldham,61941,Ohio State
+2020,02/09,Greyhound Open,133,W,DEC,5 - 3,Michael Leveille,57716,Purdue,Nick Oldham,61941,Ohio State
+2020,02/09,Greyhound Open,133,W,DEC,7 - 0,Jonathan Moran,57078,Indiana,Nick Oldham,61941,Ohio State
+2020,02/09,Greyhound Open,133,L,FALL,4:48,Jack Cheney,51721,Purdue,Nick Oldham,61941,Ohio State
+2020,02/09,Greyhound Open,133,L,MD,8 - 0,Marshall Craig,51419,Purdue,Nick Oldham,61941,Ohio State
+2020,02/01,Edinboro Open,125,L,MD,10 - 0,Connor Pierce,78997,High School,Nick Oldham,61941,Ohio State
+2020,02/01,Edinboro Open,125,W,DEC,6 - 2,Corey Morabito,65908,Wyoming Seminary Prep,Nick Oldham,61941,Ohio State
+2020,02/01,Edinboro Open,125,L,DEC,1 - 0,Gavin Park,49094,Clarion,Nick Oldham,61941,Ohio State
+2020,12/14,Cleveland State Open,133,L,MD,10 - 0,Drew Marten,49077,Central Michigan,Nick Oldham,61941,Ohio State
+2020,12/14,Cleveland State Open,133,L,DEC,7 - 6,Cameron Lathem,44691,Cleveland State,Nick Oldham,61941,Ohio State
+2020,11/24,Lake Erie Storm Open,133,W,DEC,5 - 2,Conor McCrone,57522,Ohio,Nick Oldham,61941,Ohio State
+2020,11/24,Lake Erie Storm Open,133,L,DEC,10 - 5,Eric Bartos,50271,Mercyhurst,Nick Oldham,61941,Ohio State
+2020,11/24,Lake Erie Storm Open,133,L,SV-1,5 - 3,Austin Hertel,50211,Gannon,Nick Oldham,61941,Ohio State
+2020,11/10,Ohio Intercollegiate Open,133,W,DEC,10 - 9,Nate Osborne,64001,Rochester Institute of Technology,Nick Oldham,61941,Ohio State
+2020,11/10,Ohio Intercollegiate Open,133,W,DEC,6 - 5,Donovan Ortiz,64000,Ohio Wesleyan,Nick Oldham,61941,Ohio State
+2020,11/10,Ohio Intercollegiate Open,133,L,DEC,3 - 1,Robert Altland,63996,Davenport,Nick Oldham,61941,Ohio State
+2020,11/10,Ohio Intercollegiate Open,133,L,DEC,8 - 4,Tommy Maddox,63165,Buffalo,Nick Oldham,61941,Ohio State
+2020,11/02,MSU Open,133,W,FALL,5:57,Garrett Kopp,58232,Rochester Christian,Nick Oldham,61941,Ohio State
+2020,11/02,MSU Open,133,L,MD,9 - 1,Jordan Hamdan,57705,Michigan State,Nick Oldham,61941,Ohio State
+2020,11/02,MSU Open,133,W,FALL,5:37,Jonathan Moran,57078,Indiana,Nick Oldham,61941,Ohio State
+2020,11/02,MSU Open,133,W,DEC,2 - 0,Jonathan Moran,57078,Indiana,Nick Oldham,61941,Ohio State
+2020,11/02,MSU Open,133,L,DEC,9 - 2,Cayden Rooks,56710,Indiana,Nick Oldham,61941,Ohio State
+2020,11/02,MSU Open,133,L,FALL,2:59,Jose Fernandez,62233,Cal Poly,Nick Oldham,61941,Ohio State
+2020,03/07,Big Ten Championships,141,W,DEC,6 - 5,Nick Lee,49276,Penn State,Luke Pletcher,44636,Ohio State
+2020,03/07,Big Ten Championships,141,W,MD,11 - 3,Mitch McKee,45139,Minnesota,Luke Pletcher,44636,Ohio State
+2020,03/07,Big Ten Championships,141,W,DEC,11 - 5,Dylan Duncan,44647,Illinois,Luke Pletcher,44636,Ohio State
+2020,02/15,Ohio State - Penn State Dual,141,L,DEC,8 - 4,Nick Lee,49276,Penn State,Luke Pletcher,44636,Ohio State
+2020,02/09,Northwestern - Ohio State Dual,141,W,MD,13 - 4,Alec McKenna,39584,Northwestern,Luke Pletcher,44636,Ohio State
+2020,02/02,Ohio State - Nebraska Dual,141,W,MD,10 - 1,Chad Red,44683,Nebraska,Luke Pletcher,44636,Ohio State
+2020,01/31,Maryland - Ohio State Dual,141,W,FALL,1:57,Hunter Baxter,49172,Maryland,Luke Pletcher,44636,Ohio State
+2020,01/26,Ohio State - Minnesota Dual,141,W,DEC,12 - 6,Mitch McKee,45139,Minnesota,Luke Pletcher,44636,Ohio State
+2020,01/24,Ohio State - Iowa Dual,141,W,MD,14 - 5,Carter Happel,44756,Iowa,Luke Pletcher,44636,Ohio State
+2020,01/19,Illinois - Ohio State Dual,141,W,DEC,12 - 5,Dylan Duncan,44647,Illinois,Luke Pletcher,44636,Ohio State
+2020,01/17,Ohio State - Wisconsin Dual,141,W,MD,11 - 3,Tristan Moran,39545,Wisconsin,Luke Pletcher,44636,Ohio State
+2020,01/10,Rutgers - Ohio State Dual,141,W,MD,12 - 4,JoJo Aragona,56736,Rutgers,Luke Pletcher,44636,Ohio State
+2020,01/06,Arizona State - Ohio State Dual,141,W,TF5,19 - 4 7:00,Navonte Demison,49036,Arizona State,Luke Pletcher,44636,Ohio State
+2020,12/06,Cliff Keen Invitational,141,W,MD,11 - 3,Chad Red,44683,Nebraska,Luke Pletcher,44636,Ohio State
+2020,12/06,Cliff Keen Invitational,141,W,DEC,10 - 6,Mitch McKee,45139,Minnesota,Luke Pletcher,44636,Ohio State
+2020,12/06,Cliff Keen Invitational,141,W,TF5,26 - 11 6:20,Cole Mattin,57715,Michigan,Luke Pletcher,44636,Ohio State
+2020,12/06,Cliff Keen Invitational,141,W,DEC,9 - 5,Lukus Stricker,49139,Harvard,Luke Pletcher,44636,Ohio State
+2020,12/06,Cliff Keen Invitational,141,W,DEC,9 - 2,Noah Baughman,44749,Cornell,Luke Pletcher,44636,Ohio State
+2020,12/01,Cornell - Ohio State Dual,141,W,DEC,8 - 6,Noah Baughman,44749,Cornell,Luke Pletcher,44636,Ohio State
+2020,11/17,Virginia Tech - Ohio State Dual,141,W,MD,13 - 4,Mitch Moore,50620,Virginia Tech,Luke Pletcher,44636,Ohio State
+2020,11/15,Ohio State - Pittsburgh Dual,141,W,MD,23 - 9,Cole Matthews,50936,Pittsburgh,Luke Pletcher,44636,Ohio State
+2020,11/10,Stanford - Ohio State Dual,141,W,SV-1,3 - 1,Real Woods,50664,Stanford,Luke Pletcher,44636,Ohio State
+2020,11/02,MSU Open,141,W,FALL,3:20,Bjorn Schroeder,54593,Purdue,Luke Pletcher,44636,Ohio State
+2020,11/02,MSU Open,141,W,FALL,6:56,Doug Zapf,50656,Pennsylvania,Luke Pletcher,44636,Ohio State
+2020,11/02,MSU Open,141,W,TB-1,2 - 1,Dominick Demas,49256,Oklahoma,Luke Pletcher,44636,Ohio State
+2020,11/02,MSU Open,141,W,MD,15 - 5,Dylan Duncan,44647,Illinois,Luke Pletcher,44636,Ohio State
+2020,11/02,MSU Open,141,W,MD,19 - 9,Dresden Simon,44707,Central Michigan,Luke Pletcher,44636,Ohio State
+2020,02/01,Edinboro Open,141,W,TF5,21 - 3 6:53,Lincoln Heck,66629,High School,Dylan D'Emilio,56726,Ohio State
+2020,02/01,Edinboro Open,141,W,MD,12 - 4,Brayden Palmer,59826,Clarion,Dylan D'Emilio,56726,Ohio State
+2020,02/01,Edinboro Open,141,W,MD,11 - 2,Earl Blake,59553,Kent State,Dylan D'Emilio,56726,Ohio State
+2020,02/01,Edinboro Open,141,W,DEC,8 - 3,Patrick Nolan,57652,Michigan,Dylan D'Emilio,56726,Ohio State
+2020,02/01,Edinboro Open,141,L,DEC,5 - 2,Julian Chlebove,56769,Arizona State,Dylan D'Emilio,56726,Ohio State
+2020,02/01,Edinboro Open,141,W,DEC,6 - 3,Jeffrey Boyd,62594,West Virginia,Dylan D'Emilio,56726,Ohio State
+2020,11/24,Lake Erie Storm Open,141,L,MFOR,0 - 0,Abraham Guarriello,47429,Gannon,Dylan D'Emilio,56726,Ohio State
+2020,11/24,Lake Erie Storm Open,141,W,MD,14 - 4,Dominic Williams,60229,Seton Hill,Dylan D'Emilio,56726,Ohio State
+2020,11/24,Lake Erie Storm Open,141,L,DEC,7 - 2,Kelan Mckenna,46038,Notre Dame,Dylan D'Emilio,56726,Ohio State
+2020,01/19,Purple Raider Open,149,W,MD,11 - 3,Darese Sparkman,63991,Notre Dame,JD Stickley,56400,Ohio State
+2020,01/19,Purple Raider Open,149,W,MD,10 - 1,Justin Rayner,59879,Mount Union,JD Stickley,56400,Ohio State
+2020,01/19,Purple Raider Open,149,L,DEC,4 - 3,Luke Baughman,57288,Indiana,JD Stickley,56400,Ohio State
+2020,01/19,Purple Raider Open,149,W,DEC,9 - 6,Sam Matzek,41219,Cleveland State,JD Stickley,56400,Ohio State
+2020,11/24,Lake Erie Storm Open,141,W,TF5,16 - 1 1:41,Chris Weiss,47961,Mercyhurst,JD Stickley,56400,Ohio State
+2020,11/24,Lake Erie Storm Open,141,W,TF5,18 - 3 4:52,Matt Zuckerman,62685,Tiffin University,JD Stickley,56400,Ohio State
+2020,11/24,Lake Erie Storm Open,141,W,MD,9 - 0,Abraham Guarriello,47429,Gannon,JD Stickley,56400,Ohio State
+2020,11/24,Lake Erie Storm Open,141,W,MD,15 - 3,Jeffrey Boyd,62594,West Virginia,JD Stickley,56400,Ohio State
+2020,11/24,Lake Erie Storm Open,141,L,DEC,10 - 8,Kelan Mckenna,46038,Notre Dame,JD Stickley,56400,Ohio State
+2020,11/02,MSU Open,141,L,MFOR,0 - 0,Jeffrey Leach,63216,Olivet,JD Stickley,56400,Ohio State
+2020,11/02,MSU Open,141,L,INJ,7:00,Joe Eisho,57083,Michigan State,JD Stickley,56400,Ohio State
+2020,02/01,Edinboro Open,149,L,DEC,2 - 1,Morgan Fuenffinger,54498,Navy,Klay Reeves,62470,Ohio State
+2020,02/01,Edinboro Open,149,L,FALL,1:41,Jake Benner,50617,Rutgers,Klay Reeves,62470,Ohio State
+2020,01/19,Purple Raider Open,141,L,DEC,4 - 0,Bjorn Schroeder,54593,Purdue,Klay Reeves,62470,Ohio State
+2020,01/19,Purple Raider Open,141,L,DEC,8 - 6,Justin Wilcox,49385,Ashland,Klay Reeves,62470,Ohio State
+2020,11/10,Ohio Intercollegiate Open,141,W,MD,11 - 2,Austin Bourgeois,63997,Rochester Institute of Technology,Klay Reeves,62470,Ohio State
+2020,11/10,Ohio Intercollegiate Open,141,L,DEC,5 - 1,Brady O’Connor,61607,Lake Erie College,Klay Reeves,62470,Ohio State
+2020,11/10,Ohio Intercollegiate Open,141,W,DEC,8 - 1,Dajauhn Hertzog,62994,Pitt-Johnstown,Klay Reeves,62470,Ohio State
+2020,11/10,Ohio Intercollegiate Open,141,L,DEC,7 - 2,Matt Zuckerman,62685,Tiffin University,Klay Reeves,62470,Ohio State
+2020,11/02,MSU Open,141,L,MD,12 - 3,Cole Mattin,57715,Michigan,Klay Reeves,62470,Ohio State
+2020,11/02,MSU Open,141,W,MFOR,0 - 0,Luke Wymer,57433,Ashland,Klay Reeves,62470,Ohio State
+2020,11/02,MSU Open,141,W,DEC,3 - 2,Dillon Nichols,61650,Northern Illinois,Klay Reeves,62470,Ohio State
+2020,11/02,MSU Open,141,W,DEC,5 - 1,Trey Piotrowski,62741,Illinois,Klay Reeves,62470,Ohio State
+2020,11/02,MSU Open,141,L,MD,12 - 4,Asa Garcia,57341,Indiana,Klay Reeves,62470,Ohio State
+2020,11/02,MSU Open,141,W,DEC,4 - 3,Riley Palm,56699,Buffalo,Klay Reeves,62470,Ohio State
+2020,03/07,Big Ten Championships,149,L,DEC,2 - 1,Patricio Lugo,39919,Iowa,Sammy Sasso,51143,Ohio State
+2020,03/07,Big Ten Championships,149,W,DEC,3 - 0,Kanen Storr,44714,Michigan,Sammy Sasso,51143,Ohio State
+2020,03/07,Big Ten Championships,149,W,TB-2,5 - 4,Yahya Thomas,49245,Northwestern,Sammy Sasso,51143,Ohio State
+2020,02/15,Ohio State - Penn State Dual,149,W,SV-1,3 - 1,Jarod Verkleeren,49156,Penn State,Sammy Sasso,51143,Ohio State
+2020,02/09,Northwestern - Ohio State Dual,149,W,DEC,9 - 3,Eric Yang,46554,Northwestern,Sammy Sasso,51143,Ohio State
+2020,02/02,Ohio State - Nebraska Dual,149,W,MD,13 - 4,Collin Purinton,40505,Nebraska,Sammy Sasso,51143,Ohio State
+2020,01/31,Maryland - Ohio State Dual,149,W,TF5,23 - 3 6:29,Ryan Garlitz,62701,Maryland,Sammy Sasso,51143,Ohio State
+2020,01/26,Ohio State - Minnesota Dual,149,W,DEC,4 - 2,Brayton Lee,52079,Minnesota,Sammy Sasso,51143,Ohio State
+2020,01/24,Ohio State - Iowa Dual,149,W,TB-1,2 - 1,Patricio Lugo,39919,Iowa,Sammy Sasso,51143,Ohio State
+2020,01/19,Illinois - Ohio State Dual,149,W,MD,13 - 3,Mousa Jodeh,40308,Illinois,Sammy Sasso,51143,Ohio State
+2020,01/17,Ohio State - Wisconsin Dual,149,W,MD,12 - 3,Cole Martin,39773,Wisconsin,Sammy Sasso,51143,Ohio State
+2020,01/10,Rutgers - Ohio State Dual,149,W,MD,16 - 7,Gerard Angelo,50661,Rutgers,Sammy Sasso,51143,Ohio State
+2020,01/06,Arizona State - Ohio State Dual,149,W,DEC,10 - 3,Josh Maruca,39512,Arizona State,Sammy Sasso,51143,Ohio State
+2020,12/06,Cliff Keen Invitational,149,W,FALL,4:49,Griffin Parriott,44608,Purdue,Sammy Sasso,51143,Ohio State
+2020,12/06,Cliff Keen Invitational,149,W,TF5,19 - 4 3:49,Brigg Hoopes,62434,Utah Valley,Sammy Sasso,51143,Ohio State
+2020,12/06,Cliff Keen Invitational,149,W,DEC,7 - 1,Brent Moore,44666,Virginia Tech,Sammy Sasso,51143,Ohio State
+2020,12/06,Cliff Keen Invitational,149,L,DEC,6 - 4,Brayton Lee,52079,Minnesota,Sammy Sasso,51143,Ohio State
+2020,12/06,Cliff Keen Invitational,149,W,MFOR,0 - 0,Jarrett Degen,44855,Iowa State,Sammy Sasso,51143,Ohio State
+2020,12/01,Cornell - Ohio State Dual,149,W,DEC,12 - 9,Hunter Richard,49107,Cornell,Sammy Sasso,51143,Ohio State
+2020,11/17,Virginia Tech - Ohio State Dual,149,L,FALL,1:16,Brent Moore,44666,Virginia Tech,Sammy Sasso,51143,Ohio State
+2020,11/15,Ohio State - Pittsburgh Dual,149,W,FALL,5:25,Luke Kemerer,50929,Pittsburgh,Sammy Sasso,51143,Ohio State
+2020,11/10,Stanford - Ohio State Dual,149,W,DEC,3 - 1,Requir van der Merwe,45389,Stanford,Sammy Sasso,51143,Ohio State
+2020,11/02,MSU Open,149,W,TF5,19 - 4 7:00,Kanen Storr,44714,Michigan,Sammy Sasso,51143,Ohio State
+2020,11/02,MSU Open,149,W,FALL,4:41,Nate Limmex,39663,Purdue,Sammy Sasso,51143,Ohio State
+2020,11/02,MSU Open,149,W,FALL,1:56,Ben Lamantia,39644,Michigan,Sammy Sasso,51143,Ohio State
+2020,11/02,MSU Open,149,W,FALL,4:31,Luke Raczkowski,50921,Central Michigan,Sammy Sasso,51143,Ohio State
+2020,11/02,MSU Open,149,W,TF5,24 - 6 7:00,Trevor Chumbley,57938,Northwestern,Sammy Sasso,51143,Ohio State
+2020,11/02,MSU Open,149,W,MD,13 - 4,Grant Aronoff,50891,Pennsylvania,Ke-Shawn Hayes,39609,Ohio State
+2020,11/02,MSU Open,149,L,TB-1,4 - 3,Kanen Storr,44714,Michigan,Ke-Shawn Hayes,39609,Ohio State
+2020,11/02,MSU Open,149,L,INJ,7:00,Ben Lamantia,39644,Michigan,Ke-Shawn Hayes,39609,Ohio State
+2020,11/02,MSU Open,149,W,DEC,5 - 1,Alec Hagan,49248,Ohio,Ke-Shawn Hayes,39609,Ohio State
+2020,11/02,MSU Open,149,W,TF5,21 - 3 7:00,Niko Derain,58140,Northern Illinois,Ke-Shawn Hayes,39609,Ohio State
+2020,11/02,MSU Open,149,L,INJ,7:00,Trevor Chumbley,57938,Northwestern,Ke-Shawn Hayes,39609,Ohio State
+2020,01/19,Purple Raider Open,141,W,DEC,8 - 4,Earl Blake,59553,Kent State,Clay Ragon,45201,Ohio State
+2020,01/19,Purple Raider Open,141,L,MFOR,0 - 0,Earl Blake,59553,Kent State,Clay Ragon,45201,Ohio State
+2020,01/19,Purple Raider Open,141,L,DEC,8 - 3,Luke Wymer,57433,Ashland,Clay Ragon,45201,Ohio State
+2020,01/19,Purple Raider Open,141,L,DEC,9 - 3,Jack Gorman,58613,Cleveland State,Clay Ragon,45201,Ohio State
+2020,12/14,Cleveland State Open,141,W,DEC,12 - 7,Peyton Blasko,62682,Cleveland State,Clay Ragon,45201,Ohio State
+2020,12/14,Cleveland State Open,141,L,DEC,7 - 0,Sal Jones,58952,Spartan Combat RTC,Clay Ragon,45201,Ohio State
+2020,12/14,Cleveland State Open,141,L,DEC,11 - 4,Sal Jones,58952,Spartan Combat RTC,Clay Ragon,45201,Ohio State
+2020,12/14,Cleveland State Open,141,W,FALL,2:15,Kyle French,58120,Notre Dame,Clay Ragon,45201,Ohio State
+2020,12/14,Cleveland State Open,141,W,DEC,3 - 2,Cory Simpson,45037,Kent State,Clay Ragon,45201,Ohio State
+2020,11/10,Ohio Intercollegiate Open,149,L,DEC,6 - 3,Trey Grenier,51969,Ohio State,Clay Ragon,45201,Ohio State
+2020,11/10,Ohio Intercollegiate Open,149,W,SV-1,6 - 4,Marcus Jean-Baptiste,63999,West Liberty University,Clay Ragon,45201,Ohio State
+2020,11/10,Ohio Intercollegiate Open,149,L,DEC,3 - 0,Dylan Mansor,59024,Tiffin University,Clay Ragon,45201,Ohio State
+2020,11/02,MSU Open,149,L,TF5,16 - 1 7:00,Kanen Storr,44714,Michigan,Clay Ragon,45201,Ohio State
+2020,11/02,MSU Open,149,W,DEC,8 - 4,Jackson Renicker,45310,Michigan State,Clay Ragon,45201,Ohio State
+2020,11/02,MSU Open,149,L,DEC,3 - 2,Mousa Jodeh,40308,Illinois,Clay Ragon,45201,Ohio State
+2020,12/14,Cleveland State Open,157,L,INJ,7:00,Miles Hoey,62655,Michigan State,Trey Grenier,51969,Ohio State
+2020,12/14,Cleveland State Open,157,L,MFOR,0 - 0,Joe Sliwoski,44849,Clarion,Trey Grenier,51969,Ohio State
+2020,11/10,Ohio Intercollegiate Open,149,W,TF5,17 - 1 4:22,Andrew Hoover,52904,Case Western Reserve,Trey Grenier,51969,Ohio State
+2020,11/10,Ohio Intercollegiate Open,149,L,FALL,3:23,Carson Speelman,51971,Ashland,Trey Grenier,51969,Ohio State
+2020,11/10,Ohio Intercollegiate Open,149,W,DEC,6 - 3,Clay Ragon,45201,Ohio State,Trey Grenier,51969,Ohio State
+2020,11/10,Ohio Intercollegiate Open,149,L,DEC,6 - 2,Luke Baughman,57288,Indiana,Trey Grenier,51969,Ohio State
+2020,11/02,MSU Open,149,W,MFOR,0 - 0,Griffin Parriott,44608,Purdue,Trey Grenier,51969,Ohio State
+2020,11/02,MSU Open,149,W,MD,15 - 4,Niko Derain,58140,Northern Illinois,Trey Grenier,51969,Ohio State
+2020,11/02,MSU Open,149,L,DEC,7 - 4,McCoy Kent,39791,Northern Illinois,Trey Grenier,51969,Ohio State
+2020,11/02,MSU Open,149,L,DEC,8 - 5,Kyle Todrank,40157,Buffalo,Trey Grenier,51969,Ohio State
+2020,03/07,Big Ten Championships,157,L,MD,10 - 2,Garrett Model,49351,Wisconsin,Elijah Cleary,44828,Ohio State
+2020,03/07,Big Ten Championships,157,L,DEC,3 - 2,Kendall Coleman,50626,Purdue,Elijah Cleary,44828,Ohio State
+2020,03/07,Big Ten Championships,157,W,DEC,5 - 1,Jacob Tucker,44639,Michigan State,Elijah Cleary,44828,Ohio State
+2020,02/23,Mat-Town Open II,157,W,DEC,8 - 1,Matt Lee,60835,Unattached,Elijah Cleary,44828,Ohio State
+2020,02/23,Mat-Town Open II,157,W,FALL,6:19,Garrett Fisk,63139,Maryland,Elijah Cleary,44828,Ohio State
+2020,02/23,Mat-Town Open II,157,W,MD,12 - 2,Patrick Evans,60441,Virginia,Elijah Cleary,44828,Ohio State
+2020,02/23,Mat-Town Open II,157,L,MFOR,0 - 0,Justin Phillips,57093,Virginia,Elijah Cleary,44828,Ohio State
+2020,02/23,Mat-Town Open II,157,W,DEC,4 - 2,Quinn Kinner,51144,Ohio State,Elijah Cleary,44828,Ohio State
+2020,02/09,Northwestern - Ohio State Dual,157,L,MD,11 - 2,Ryan Deakin,44716,Northwestern,Elijah Cleary,44828,Ohio State
+2020,01/26,Ohio State - Minnesota Dual,157,L,DEC,3 - 2,Ryan Thomas,50839,Minnesota,Elijah Cleary,44828,Ohio State
+2020,01/24,Ohio State - Iowa Dual,157,L,DEC,4 - 1,Kaleb Young,44572,Iowa,Elijah Cleary,44828,Ohio State
+2020,01/19,Illinois - Ohio State Dual,157,W,TB-1,4 - 3,Eric Barone,39566,Illinois,Elijah Cleary,44828,Ohio State
+2020,01/17,Ohio State - Wisconsin Dual,157,W,DEC,7 - 3,Drew Scharenbrock,59184,Wisconsin,Elijah Cleary,44828,Ohio State
+2020,01/10,Rutgers - Ohio State Dual,157,L,DEC,5 - 3,Mike Van Brill,44613,Rutgers,Elijah Cleary,44828,Ohio State
+2020,01/06,Arizona State - Ohio State Dual,157,L,DEC,6 - 2,Jacori Teemer,50581,Arizona State,Elijah Cleary,44828,Ohio State
+2020,12/14,Cleveland State Open,157,W,TB-1,4 - 2,Johnny Lovett,61935,Central Michigan,Elijah Cleary,44828,Ohio State
+2020,12/14,Cleveland State Open,157,W,MD,14 - 4,Brady Chrisman,51190,Kent State,Elijah Cleary,44828,Ohio State
+2020,12/14,Cleveland State Open,157,W,TF5,19 - 1 7:00,Diavantae Reddick,50253,Campbell,Elijah Cleary,44828,Ohio State
+2020,12/14,Cleveland State Open,157,W,MD,11 - 1,Will Kaldes,50123,Pittsburgh,Elijah Cleary,44828,Ohio State
+2020,12/14,Cleveland State Open,157,W,DEC,5 - 2,Nico Odor,45039,Cleveland State,Elijah Cleary,44828,Ohio State
+2020,12/01,Cornell - Ohio State Dual,157,L,TB-1,3 - 1,Colton Yapoujian,56705,Cornell,Elijah Cleary,44828,Ohio State
+2020,11/24,Lake Erie Storm Open,157,W,FALL,1:19,Samuel Lofaso Iii,63221,Tiffin University,Elijah Cleary,44828,Ohio State
+2020,11/24,Lake Erie Storm Open,157,W,TF5,16 - 0 7:00,Luke Sorboro,49343,West Virginia,Elijah Cleary,44828,Ohio State
+2020,11/24,Lake Erie Storm Open,157,W,FALL,2:32,Hunter Langeloh,46557,Tiffin University,Elijah Cleary,44828,Ohio State
+2020,11/24,Lake Erie Storm Open,157,W,DEC,5 - 3,Bryan LaVearn,46546,Tiffin University,Elijah Cleary,44828,Ohio State
+2020,11/17,Virginia Tech - Ohio State Dual,157,L,DEC,3 - 1,Brian LaPrade,45112,Virginia Tech,Elijah Cleary,44828,Ohio State
+2020,11/15,Ohio State - Pittsburgh Dual,157,L,DEC,6 - 1,Taleb Rahmani,40082,Pittsburgh,Elijah Cleary,44828,Ohio State
+2020,11/10,Stanford - Ohio State Dual,157,W,SV-1,10 - 8,Tyler Eischens,51205,Stanford,Elijah Cleary,44828,Ohio State
+2020,11/02,MSU Open,157,L,DEC,9 - 7,Tyler Meisinger,45010,Michigan,Elijah Cleary,44828,Ohio State
+2020,11/02,MSU Open,157,L,DEC,3 - 2,Zac Carson,39692,Ohio,Elijah Cleary,44828,Ohio State
+2020,11/02,MSU Open,157,W,DEC,2 - 0,Joey Sanchez,61029,Indiana,Elijah Cleary,44828,Ohio State
+2020,12/06,Cliff Keen Invitational,157,L,DEC,7 - 0,Justin Thomas,44882,Oklahoma,Jaden Mattox,50612,Ohio State
+2020,12/06,Cliff Keen Invitational,157,W,FALL,2:46,Colten Carlson,45286,South Dakota State,Jaden Mattox,50612,Ohio State
+2020,12/06,Cliff Keen Invitational,157,L,DEC,5 - 1,Carson Brolsma,39549,Minnesota,Jaden Mattox,50612,Ohio State
+2020,12/06,Cliff Keen Invitational,157,W,MFOR,0 - 0,Will Lewan,50934,Michigan,Jaden Mattox,50612,Ohio State
+2020,11/02,MSU Open,157,L,DEC,7 - 4,Anthony Artalona,51039,Pennsylvania,Jaden Mattox,50612,Ohio State
+2020,11/02,MSU Open,157,W,DEC,8 - 5,Bryan LaVearn,46546,Tiffin University,Jaden Mattox,50612,Ohio State
+2020,11/02,MSU Open,157,W,DEC,6 - 1,Mason Kauffman,49128,Northern Illinois,Jaden Mattox,50612,Ohio State
+2020,11/02,MSU Open,157,L,DEC,9 - 8,Jacob Tucker,44639,Michigan State,Jaden Mattox,50612,Ohio State
+2020,11/02,MSU Open,157,W,DEC,5 - 3,Joey Sanchez,61029,Indiana,Jaden Mattox,50612,Ohio State
+2020,02/23,Mat-Town Open II,157,L,DEC,4 - 2,Jonathan Ross,44894,Lock Haven,Quinn Kinner,51144,Ohio State
+2020,02/23,Mat-Town Open II,157,L,DEC,4 - 2,Elijah Cleary,44828,Ohio State,Quinn Kinner,51144,Ohio State
+2020,02/23,Mat-Town Open II,157,W,DEC,9 - 2,Chase Stephens,62917,Lock Haven,Quinn Kinner,51144,Ohio State
+2020,02/23,Mat-Town Open II,157,W,MD,10 - 2,Quentin Milliken,51594,Rider,Quinn Kinner,51144,Ohio State
+2020,02/16,John Carroll Open,157,W,MD,15 - 3,Justin West,58136,Findlay,Quinn Kinner,51144,Ohio State
+2020,02/16,John Carroll Open,157,W,MFOR,0 - 0,Josh Jaeckin,56158,Ashland,Quinn Kinner,51144,Ohio State
+2020,02/16,John Carroll Open,157,L,DEC,6 - 5,Tyler Griffiths,51160,Edinboro,Quinn Kinner,51144,Ohio State
+2020,02/16,John Carroll Open,157,W,FALL,3:43,Caleb Cass,57214,Cleveland State,Quinn Kinner,51144,Ohio State
+2020,02/16,John Carroll Open,157,W,FALL,2:40,Caleb Cass,57214,Cleveland State,Quinn Kinner,51144,Ohio State
+2020,02/16,John Carroll Open,157,W,TF5,21 - 6 7:00,Johnny Lovett,61935,Central Michigan,Quinn Kinner,51144,Ohio State
+2020,02/15,Ohio State - Penn State Dual,157,W,DEC,4 - 3,Brady Berge,49277,Penn State,Quinn Kinner,51144,Ohio State
+2020,02/09,Greyhound Open,157,W,TF5,17 - 0 7:00,Nick Gates,65561,Indiana Tech,Quinn Kinner,51144,Ohio State
+2020,02/09,Greyhound Open,157,W,DEC,9 - 2,Jordan Slivka,57602,Ohio,Quinn Kinner,51144,Ohio State
+2020,02/09,Greyhound Open,157,W,MD,14 - 2,Matt Ortiz,56762,Indiana,Quinn Kinner,51144,Ohio State
+2020,02/09,Greyhound Open,157,W,FALL,2:11,Elijah Davis,51421,Purdue,Quinn Kinner,51144,Ohio State
+2020,02/02,Ohio State - Nebraska Dual,157,L,DEC,8 - 3,Peyton Robb,56387,Nebraska,Quinn Kinner,51144,Ohio State
+2020,01/31,Maryland - Ohio State Dual,157,W,TF5,16 - 1 2:34,Lucas Cordio,57120,Maryland,Quinn Kinner,51144,Ohio State
+2020,01/19,Purple Raider Open,157,W,FALL,0:54,Coltin Jezioro,62046,Ohio,Quinn Kinner,51144,Ohio State
+2020,01/19,Purple Raider Open,157,W,FALL,0:55,Justin Crawford,58145,Notre Dame,Quinn Kinner,51144,Ohio State
+2020,01/19,Purple Raider Open,157,W,DEC,6 - 3,Matt Ortiz,56762,Indiana,Quinn Kinner,51144,Ohio State
+2020,01/19,Purple Raider Open,157,W,DEC,8 - 2,Brady Barnett,50220,Cleveland State,Quinn Kinner,51144,Ohio State
+2020,11/17,Virginia Tech - Ohio State Dual,133,L,DEC,7 - 1,Collin Gerardi,51286,Virginia Tech,Quinn Kinner,51144,Ohio State
+2020,11/15,Ohio State - Pittsburgh Dual,133,L,DEC,4 - 2,Micky Phillippi,45230,Pittsburgh,Quinn Kinner,51144,Ohio State
+2020,11/10,Stanford - Ohio State Dual,133,W,DEC,7 - 1,Brandon Kier,45388,Stanford,Quinn Kinner,51144,Ohio State
+2020,11/02,MSU Open,133,W,DEC,5 - 0,Carmen Ferrante,50660,Pennsylvania,Quinn Kinner,51144,Ohio State
+2020,11/02,MSU Open,133,L,DEC,6 - 4,Micky Phillippi,45230,Pittsburgh,Quinn Kinner,51144,Ohio State
+2020,11/02,MSU Open,133,W,DEC,6 - 4,Austin Assad,39516,Michigan,Quinn Kinner,51144,Ohio State
+2020,11/02,MSU Open,133,W,DEC,4 - 0,Mario Guillen,44618,Ohio,Quinn Kinner,51144,Ohio State
+2020,11/02,MSU Open,133,W,FALL,2:59,Jake Spiess,44748,Michigan State,Quinn Kinner,51144,Ohio State
+2020,11/02,MSU Open,133,L,DEC,4 - 1,Travis Piotrowski,44646,Illinois,Quinn Kinner,51144,Ohio State
+2020,11/24,Lake Erie Storm Open,157,L,FALL,2:10,Josh Laubach,57731,Alderson-Broaddus University,Aaron Rehfeldt,45200,Ohio State
+2020,11/24,Lake Erie Storm Open,157,L,MFOR,0 - 0,Dom Ferranti,56964,Mercyhurst,Aaron Rehfeldt,45200,Ohio State
+2020,11/10,Ohio Intercollegiate Open,157,L,FALL,3:12,Bryan LaVearn,46546,Tiffin University,Aaron Rehfeldt,45200,Ohio State
+2020,11/10,Ohio Intercollegiate Open,157,W,FALL,3:21,Tim Suter,51064,Edinboro,Aaron Rehfeldt,45200,Ohio State
+2020,11/10,Ohio Intercollegiate Open,157,L,FALL,1:07,Brady Barnett,50220,Cleveland State,Aaron Rehfeldt,45200,Ohio State
+2020,11/02,MSU Open,157,L,DEC,14 - 10,Anthony Collelo,62799,Pittsburgh,Aaron Rehfeldt,45200,Ohio State
+2020,11/02,MSU Open,157,L,MD,16 - 4,Fernie Silva,46045,Indiana,Aaron Rehfeldt,45200,Ohio State
+2020,02/01,Edinboro Open,157,L,DEC,11 - 7,Sebastian Corrales,62912,Navy,Kris Ketchum,62468,Ohio State
+2020,02/01,Edinboro Open,157,W,DEC,8 - 1,Alex Jacobs,62156,Central Michigan,Kris Ketchum,62468,Ohio State
+2020,02/01,Edinboro Open,157,L,DEC,4 - 1,Nathan Haubert,57091,Lehigh,Kris Ketchum,62468,Ohio State
+2020,12/14,Cleveland State Open,157,W,DEC,8 - 6,Anthony Sciuto,62802,Pittsburgh,Kris Ketchum,62468,Ohio State
+2020,12/14,Cleveland State Open,157,L,DEC,5 - 2,Jordan Slivka,57602,Ohio,Kris Ketchum,62468,Ohio State
+2020,12/14,Cleveland State Open,157,L,DEC,8 - 5,James Wimer,46493,Findlay,Kris Ketchum,62468,Ohio State
+2020,11/24,Lake Erie Storm Open,157,W,FALL,0:37,Samuel Lofaso Iii,63221,Tiffin University,Kris Ketchum,62468,Ohio State
+2020,11/24,Lake Erie Storm Open,157,W,FALL,4:21,Jordon Tague,63538,Notre Dame,Kris Ketchum,62468,Ohio State
+2020,11/24,Lake Erie Storm Open,157,W,DEC,9 - 4,Jordon Tague,63538,Notre Dame,Kris Ketchum,62468,Ohio State
+2020,11/24,Lake Erie Storm Open,157,W,FALL,0:59,Dalton Pearl,63192,Alderson-Broaddus University,Kris Ketchum,62468,Ohio State
+2020,11/24,Lake Erie Storm Open,157,W,MD,15 - 3,Anthony Chambers,55780,Edinboro,Kris Ketchum,62468,Ohio State
+2020,11/24,Lake Erie Storm Open,157,L,FALL,4:28,Luke Sorboro,49343,West Virginia,Kris Ketchum,62468,Ohio State
+2020,11/10,Ohio Intercollegiate Open,157,W,SV-1,5 - 3,Cole Luallen,59500,Reinhardt University,Kris Ketchum,62468,Ohio State
+2020,11/10,Ohio Intercollegiate Open,157,W,TF5,16 - 0 5:18,Dom Ferranti,56964,Mercyhurst,Kris Ketchum,62468,Ohio State
+2020,11/10,Ohio Intercollegiate Open,157,W,TF5,17 - 0 2:31,Andrew Benos,55210,John Carroll,Kris Ketchum,62468,Ohio State
+2020,11/10,Ohio Intercollegiate Open,157,W,DEC,7 - 2,Austin Victor,47461,John Carroll,Kris Ketchum,62468,Ohio State
+2020,11/10,Ohio Intercollegiate Open,157,L,DEC,9 - 7,Warren McDougald,61990,Buffalo,Kris Ketchum,62468,Ohio State
+2020,11/02,MSU Open,157,L,DEC,14 - 8,Austin Wolford,63230,Rochester Christian,Kris Ketchum,62468,Ohio State
+2020,11/02,MSU Open,157,W,DEC,7 - 4,Devin Trevino,63224,Findlay,Kris Ketchum,62468,Ohio State
+2020,11/02,MSU Open,157,L,DEC,5 - 2,Alec Rees,59684,Northern Illinois,Kris Ketchum,62468,Ohio State
+2020,11/02,MSU Open,157,W,DEC,6 - 4,Alex Jacobs,62156,Central Michigan,Kris Ketchum,62468,Ohio State
+2020,03/07,Big Ten Championships,165,L,DEC,3 - 2,Isaiah White,47106,Nebraska,Ethan Smith,50025,Ohio State
+2020,03/07,Big Ten Championships,165,W,MD,15 - 4,Shayne Oster,44820,Northwestern,Ethan Smith,50025,Ohio State
+2020,03/07,Big Ten Championships,165,W,DEC,10 - 4,Drew Hughes,44802,Michigan State,Ethan Smith,50025,Ohio State
+2020,03/07,Big Ten Championships,165,W,DEC,6 - 1,Brett Donner,44581,Rutgers,Ethan Smith,50025,Ohio State
+2020,03/07,Big Ten Championships,165,L,DEC,5 - 2,Isaiah White,47106,Nebraska,Ethan Smith,50025,Ohio State
+2020,03/07,Big Ten Championships,165,W,MD,18 - 4,Tyler Meisinger,45010,Michigan,Ethan Smith,50025,Ohio State
+2020,02/15,Ohio State - Penn State Dual,165,L,MD,13 - 5,Vincenzo Joseph,39542,Penn State,Ethan Smith,50025,Ohio State
+2020,02/09,Northwestern - Ohio State Dual,165,L,DEC,10 - 9,Shayne Oster,44820,Northwestern,Ethan Smith,50025,Ohio State
+2020,02/02,Ohio State - Nebraska Dual,165,L,FALL,6:58,Isaiah White,47106,Nebraska,Ethan Smith,50025,Ohio State
+2020,01/31,Maryland - Ohio State Dual,165,W,MD,20 - 7,Kyle Cochran,49174,Maryland,Ethan Smith,50025,Ohio State
+2020,01/26,Ohio State - Minnesota Dual,165,W,MD,12 - 4,Bailee O'Reilly,50166,Minnesota,Ethan Smith,50025,Ohio State
+2020,01/24,Ohio State - Iowa Dual,165,L,DEC,14 - 10,Alex Marinelli,44574,Iowa,Ethan Smith,50025,Ohio State
+2020,01/19,Illinois - Ohio State Dual,165,W,DEC,3 - 1,Danny Braunagel,50926,Illinois,Ethan Smith,50025,Ohio State
+2020,01/17,Ohio State - Wisconsin Dual,165,L,DEC,7 - 4,Evan Wick,44730,Wisconsin,Ethan Smith,50025,Ohio State
+2020,01/10,Rutgers - Ohio State Dual,165,W,MD,13 - 4,Brett Donner,44581,Rutgers,Ethan Smith,50025,Ohio State
+2020,01/06,Arizona State - Ohio State Dual,165,L,DEC,6 - 2,Josh Shields,39511,Arizona State,Ethan Smith,50025,Ohio State
+2020,12/06,Cliff Keen Invitational,165,W,DEC,5 - 4,Shayne Oster,44820,Northwestern,Ethan Smith,50025,Ohio State
+2020,12/06,Cliff Keen Invitational,165,W,DEC,12 - 6,Shayne Oster,44820,Northwestern,Ethan Smith,50025,Ohio State
+2020,12/06,Cliff Keen Invitational,165,L,TB-2,4 - 1,Isaiah White,47106,Nebraska,Ethan Smith,50025,Ohio State
+2020,12/06,Cliff Keen Invitational,165,W,DEC,4 - 3,Thomas Bullard,44611,NC State,Ethan Smith,50025,Ohio State
+2020,12/06,Cliff Keen Invitational,165,L,FALL,6:23,Thomas Bullard,44611,NC State,Ethan Smith,50025,Ohio State
+2020,12/06,Cliff Keen Invitational,165,W,DEC,9 - 5,Bernie Truax,51133,Cal Poly,Ethan Smith,50025,Ohio State
+2020,12/01,Cornell - Ohio State Dual,165,W,MD,12 - 4,Milik Dawkins,41360,Cornell,Ethan Smith,50025,Ohio State
+2020,11/17,Virginia Tech - Ohio State Dual,165,W,DEC,5 - 4,David McFadden,39633,Virginia Tech,Ethan Smith,50025,Ohio State
+2020,11/15,Ohio State - Pittsburgh Dual,165,L,DEC,3 - 2,Jake Wentzel,45151,Pittsburgh,Ethan Smith,50025,Ohio State
+2020,11/10,Stanford - Ohio State Dual,165,L,FALL,6:15,Shane Griffith,49991,Stanford,Ethan Smith,50025,Ohio State
+2020,11/02,MSU Open,165,L,DEC,6 - 4,Reece Hughes,49181,Michigan,Ethan Smith,50025,Ohio State
+2020,11/02,MSU Open,165,W,MFOR,0 - 0,Jake Wentzel,45151,Pittsburgh,Ethan Smith,50025,Ohio State
+2020,11/02,MSU Open,165,W,MD,14 - 6,Jacob Lizak,44795,Pennsylvania,Ethan Smith,50025,Ohio State
+2020,11/02,MSU Open,165,W,MFOR,0 - 0,Joseph Terry,45561,Ohio,Ethan Smith,50025,Ohio State
+2020,11/02,MSU Open,165,W,DEC,10 - 5,Bernie Truax,51133,Cal Poly,Ethan Smith,50025,Ohio State
+2020,11/02,MSU Open,165,W,DEC,5 - 4,Troy Keller,47129,Buffalo,Ethan Smith,50025,Ohio State
+2020,01/19,Purple Raider Open,174,W,FALL,1:57,Drake Kendrex,62243,West Liberty University,Carson Kharchla,57703,Ohio State
+2020,01/19,Purple Raider Open,174,W,FALL,2:19,John Mark Williams,61918,Ohio,Carson Kharchla,57703,Ohio State
+2020,01/19,Purple Raider Open,174,W,DEC,10 - 4,Fritz Schierl,44840,Ohio State,Carson Kharchla,57703,Ohio State
+2020,11/24,Lake Erie Storm Open,165,W,TF5,16 - 0 2:18,Jack Rogan,60241,Notre Dame,Carson Kharchla,57703,Ohio State
+2020,11/24,Lake Erie Storm Open,165,W,MD,14 - 0,Kamal Adewumi,60766,Ohio,Carson Kharchla,57703,Ohio State
+2020,11/24,Lake Erie Storm Open,165,W,DEC,11 - 5,Alex Farenchak,56175,Gannon,Carson Kharchla,57703,Ohio State
+2020,11/24,Lake Erie Storm Open,165,W,MD,12 - 3,Logan Grass,43410,Mercyhurst,Carson Kharchla,57703,Ohio State
+2020,11/10,Ohio Intercollegiate Open,165,W,MD,13 - 3,James Limongi,57342,Kent State,Carson Kharchla,57703,Ohio State
+2020,11/10,Ohio Intercollegiate Open,165,W,DEC,7 - 4,Nicholas South,56709,Indiana,Carson Kharchla,57703,Ohio State
+2020,11/10,Ohio Intercollegiate Open,165,W,DEC,7 - 2,Riley Smucker,56147,Cleveland State,Carson Kharchla,57703,Ohio State
+2020,11/10,Ohio Intercollegiate Open,165,W,DEC,8 - 1,Kameron Bush,49080,Central Michigan,Carson Kharchla,57703,Ohio State
+2020,11/02,MSU Open,165,W,DEC,3 - 2,Cameron Amine,57289,Michigan,Carson Kharchla,57703,Ohio State
+2020,11/02,MSU Open,165,W,DEC,6 - 0,Emil Soehnlen,52105,Purdue,Carson Kharchla,57703,Ohio State
+2020,11/02,MSU Open,165,W,TF5,20 - 3 7:00,Dillon Hoey,50239,Indiana,Carson Kharchla,57703,Ohio State
+2020,11/02,MSU Open,165,W,FALL,2:02,Bernie Truax,51133,Cal Poly,Carson Kharchla,57703,Ohio State
+2020,11/02,MSU Open,165,W,TF5,19 - 2 7:00,Troy Keller,47129,Buffalo,Carson Kharchla,57703,Ohio State
+2020,01/19,Purple Raider Open,165,W,FALL,0:40,Brendan Laird,62126,Mount Union,Jashon Hubbard,50610,Ohio State
+2020,01/19,Purple Raider Open,165,W,DEC,5 - 2,Cameron Amine,57289,Michigan,Jashon Hubbard,50610,Ohio State
+2020,01/19,Purple Raider Open,165,W,FALL,0:32,Ryan Ford,44594,Cleveland State,Jashon Hubbard,50610,Ohio State
+2020,02/01,Edinboro Open,165,W,DEC,12 - 5,Dillon Keane,62988,Pitt-Johnstown,Cade Hepner,49269,Ohio State
+2020,02/01,Edinboro Open,165,W,DEC,7 - 3,Vincent Andreano,61512,Bucknell,Cade Hepner,49269,Ohio State
+2020,02/01,Edinboro Open,165,W,DEC,8 - 4,James Weber,60007,Pitt-Johnstown,Cade Hepner,49269,Ohio State
+2020,02/01,Edinboro Open,165,L,FALL,4:12,Dustin Gross,57360,Central Michigan,Cade Hepner,49269,Ohio State
+2020,02/01,Edinboro Open,165,L,MD,11 - 2,Dazjon Casto,57183,The Citadel,Cade Hepner,49269,Ohio State
+2020,11/24,Lake Erie Storm Open,165,W,DEC,12 - 5,Patrick Daum,62591,West Virginia,Cade Hepner,49269,Ohio State
+2020,11/24,Lake Erie Storm Open,165,W,DEC,6 - 1,Jack Rogan,60241,Notre Dame,Cade Hepner,49269,Ohio State
+2020,11/24,Lake Erie Storm Open,165,W,MD,20 - 12,Derek Gross,52187,Tiffin University,Cade Hepner,49269,Ohio State
+2020,11/24,Lake Erie Storm Open,165,L,DEC,9 - 4,Logan Grass,43410,Mercyhurst,Cade Hepner,49269,Ohio State
+2020,11/10,Ohio Intercollegiate Open,165,W,TF5,24 - 9 6:11,John Mark Williams,61918,Ohio,Cade Hepner,49269,Ohio State
+2020,11/10,Ohio Intercollegiate Open,165,W,DEC,9 - 8,Sean Billups,63011,Kent State,Cade Hepner,49269,Ohio State
+2020,11/10,Ohio Intercollegiate Open,165,L,DEC,3 - 2,Nicholas South,56709,Indiana,Cade Hepner,49269,Ohio State
+2020,11/10,Ohio Intercollegiate Open,165,W,MD,16 - 8,Anthony Rice,61966,Cleveland State,Cade Hepner,49269,Ohio State
+2020,11/10,Ohio Intercollegiate Open,165,L,TF5,15 - 0 5:29,Riley Smucker,56147,Cleveland State,Cade Hepner,49269,Ohio State
+2020,03/07,Big Ten Championships,174,L,SV-1,3 - 1,Dylan Lydy,39998,Purdue,Kaleb Romero,49252,Ohio State
+2020,03/07,Big Ten Championships,174,W,DEC,6 - 5,Devin Skatzka,39603,Minnesota,Kaleb Romero,49252,Ohio State
+2020,03/07,Big Ten Championships,174,W,DEC,6 - 2,Joey Gunther,39725,Illinois,Kaleb Romero,49252,Ohio State
+2020,03/07,Big Ten Championships,174,W,MD,14 - 5,Max Maylor,56310,Michigan,Kaleb Romero,49252,Ohio State
+2020,03/07,Big Ten Championships,174,L,DEC,4 - 2,Dylan Lydy,39998,Purdue,Kaleb Romero,49252,Ohio State
+2020,03/07,Big Ten Championships,174,W,DEC,8 - 1,Willie Scott,39861,Rutgers,Kaleb Romero,49252,Ohio State
+2020,02/15,Ohio State - Penn State Dual,174,L,FALL,0:46,Mark Hall,44839,Penn State,Kaleb Romero,49252,Ohio State
+2020,02/02,Ohio State - Nebraska Dual,174,L,DEC,3 - 1,Michael Labriola,49207,Nebraska,Kaleb Romero,49252,Ohio State
+2020,01/31,Maryland - Ohio State Dual,174,W,MD,13 - 4,Philip Spadafora,51167,Maryland,Kaleb Romero,49252,Ohio State
+2020,01/26,Ohio State - Minnesota Dual,174,W,DEC,2 - 1,Devin Skatzka,39603,Minnesota,Kaleb Romero,49252,Ohio State
+2020,01/24,Ohio State - Iowa Dual,174,L,DEC,6 - 1,Michael Kemerer,39526,Iowa,Kaleb Romero,49252,Ohio State
+2020,01/19,Illinois - Ohio State Dual,174,W,DEC,6 - 3,Joey Gunther,39725,Illinois,Kaleb Romero,49252,Ohio State
+2020,01/17,Ohio State - Wisconsin Dual,174,W,DEC,7 - 3,Jared Krattiger,50621,Wisconsin,Kaleb Romero,49252,Ohio State
+2020,01/10,Rutgers - Ohio State Dual,174,W,DEC,9 - 2,Joseph Grello,44858,Rutgers,Kaleb Romero,49252,Ohio State
+2020,01/06,Arizona State - Ohio State Dual,174,W,DEC,7 - 3,Anthony Valencia,39500,Arizona State,Kaleb Romero,49252,Ohio State
+2020,12/06,Cliff Keen Invitational,174,W,DEC,5 - 2,Hayden Hastings,49354,Wyoming,Kaleb Romero,49252,Ohio State
+2020,12/06,Cliff Keen Invitational,174,L,DEC,2 - 1,Michael Labriola,49207,Nebraska,Kaleb Romero,49252,Ohio State
+2020,12/06,Cliff Keen Invitational,174,L,DEC,1 - 0,Devin Skatzka,39603,Minnesota,Kaleb Romero,49252,Ohio State
+2020,12/01,Cornell - Ohio State Dual,174,W,DEC,6 - 5,Brandon Womack,40379,Cornell,Kaleb Romero,49252,Ohio State
+2020,11/15,Ohio State - Pittsburgh Dual,174,W,DEC,7 - 2,Gregg Harvey,45148,Pittsburgh,Kaleb Romero,49252,Ohio State
+2020,11/10,Stanford - Ohio State Dual,174,W,MD,16 - 7,Foster Karmon,46061,Stanford,Kaleb Romero,49252,Ohio State
+2020,11/02,MSU Open,174,W,DEC,4 - 3,Gregg Harvey,45148,Pittsburgh,Kaleb Romero,49252,Ohio State
+2020,11/02,MSU Open,174,W,DEC,4 - 2,DJ Shannon,51137,Illinois,Kaleb Romero,49252,Ohio State
+2020,11/02,MSU Open,174,W,MFOR,0 - 0,Joey Gunther,39725,Illinois,Kaleb Romero,49252,Ohio State
+2020,11/02,MSU Open,174,W,DEC,3 - 1,Jacob Covaciu,44805,Indiana,Kaleb Romero,49252,Ohio State
+2020,11/02,MSU Open,174,W,TF5,22 - 7 7:00,Jake Lanning,49069,Buffalo,Kaleb Romero,49252,Ohio State
+2020,02/09,Northwestern - Ohio State Dual,174,W,FALL,6:15,Ankhaa Enkhmandakh,62897,Northwestern,Fritz Schierl,44840,Ohio State
+2020,02/01,Edinboro Open,174,W,FALL,0:55,Mike Caniglia,63012,Kent State,Fritz Schierl,44840,Ohio State
+2020,02/01,Edinboro Open,174,L,DEC,8 - 5,Edmond Ruth,51277,Lehigh,Fritz Schierl,44840,Ohio State
+2020,02/01,Edinboro Open,174,W,DEC,10 - 8,Max Wohlabaugh,49096,Clarion,Fritz Schierl,44840,Ohio State
+2020,02/01,Edinboro Open,174,L,MD,20 - 7,Carter Starocci,58819,Penn State,Fritz Schierl,44840,Ohio State
+2020,02/01,Edinboro Open,174,W,FALL,4:43,Curtis Decker,45153,Pittsburgh,Fritz Schierl,44840,Ohio State
+2020,01/19,Purple Raider Open,174,L,DEC,10 - 4,Carson Kharchla,57703,Ohio State,Fritz Schierl,44840,Ohio State
+2020,01/19,Purple Raider Open,174,W,DEC,10 - 3,Zachary Bierfeldt,46393,Tiffin University,Fritz Schierl,44840,Ohio State
+2020,01/19,Purple Raider Open,174,W,FALL,6:11,Donnell Washington,57738,Indiana,Fritz Schierl,44840,Ohio State
+2020,11/24,Lake Erie Storm Open,174,L,DEC,7 - 3,Rocky Jordan,50928,Ohio State,Fritz Schierl,44840,Ohio State
+2020,11/24,Lake Erie Storm Open,174,W,FALL,3:32,Trevor Johnson,52905,Mercyhurst,Fritz Schierl,44840,Ohio State
+2020,11/24,Lake Erie Storm Open,174,W,FALL,4:28,Owen Balas,51360,Gannon,Fritz Schierl,44840,Ohio State
+2020,11/24,Lake Erie Storm Open,174,W,MD,27 - 13,Connor Day,49407,Gannon,Fritz Schierl,44840,Ohio State
+2020,11/10,Ohio Intercollegiate Open,174,W,MFOR,0 - 0,Anthony Marra,58141,Notre Dame,Fritz Schierl,44840,Ohio State
+2020,11/10,Ohio Intercollegiate Open,174,W,DEC,8 - 4,Caleb Norris,41940,Davenport,Fritz Schierl,44840,Ohio State
+2020,11/10,Ohio Intercollegiate Open,174,L,MD,18 - 9,Donnell Washington,57738,Indiana,Fritz Schierl,44840,Ohio State
+2020,11/10,Ohio Intercollegiate Open,174,W,TF5,19 - 4 6:17,Cullen Wolford,45371,Edinboro,Fritz Schierl,44840,Ohio State
+2020,11/10,Ohio Intercollegiate Open,174,W,DEC,9 - 4,Deandre Nassar,62202,Cleveland State,Fritz Schierl,44840,Ohio State
+2020,11/02,MSU Open,174,L,DEC,9 - 5,Rocky Jordan,50928,Ohio State,Fritz Schierl,44840,Ohio State
+2020,11/02,MSU Open,174,W,FALL,6:09,Kenny Moore,46406,Northern Illinois,Fritz Schierl,44840,Ohio State
+2020,11/02,MSU Open,174,L,DEC,7 - 6,DJ Shannon,51137,Illinois,Fritz Schierl,44840,Ohio State
+2020,11/02,MSU Open,174,W,DEC,9 - 4,Sage Castillo,45270,Central Michigan,Fritz Schierl,44840,Ohio State
+2020,11/02,MSU Open,174,W,DEC,7 - 3,Jake Lanning,49069,Buffalo,Fritz Schierl,44840,Ohio State
+2020,03/07,Big Ten Championships,184,W,DEC,6 - 1,Max Lyon,49303,Purdue,Rocky Jordan,50928,Ohio State
+2020,03/07,Big Ten Championships,184,L,FALL,3:38,Taylor Venz,44854,Nebraska,Rocky Jordan,50928,Ohio State
+2020,03/07,Big Ten Championships,184,W,INJ,5:35,Johnny Sebastian,20224,Wisconsin,Rocky Jordan,50928,Ohio State
+2020,03/07,Big Ten Championships,184,W,MD,15 - 2,Jack Jessen,50838,Northwestern,Rocky Jordan,50928,Ohio State
+2020,03/07,Big Ten Championships,184,L,MD,8 - 0,Abe Assad,56936,Iowa,Rocky Jordan,50928,Ohio State
+2020,03/07,Big Ten Championships,184,W,DEC,7 - 1,Max Lyon,49303,Purdue,Rocky Jordan,50928,Ohio State
+2020,02/15,Ohio State - Penn State Dual,184,L,MD,15 - 4,Aaron Brooks,54280,Penn State,Rocky Jordan,50928,Ohio State
+2020,02/09,Northwestern - Ohio State Dual,184,W,MD,10 - 2,Jack Jessen,50838,Northwestern,Rocky Jordan,50928,Ohio State
+2020,02/02,Ohio State - Nebraska Dual,184,W,DEC,3 - 2,Taylor Venz,44854,Nebraska,Rocky Jordan,50928,Ohio State
+2020,01/31,Maryland - Ohio State Dual,184,W,TF5,18 - 2 4:55,Kyle Jasenski,51164,Maryland,Rocky Jordan,50928,Ohio State
+2020,01/26,Ohio State - Minnesota Dual,184,L,DEC,5 - 4,Owen Webster,48190,Minnesota,Rocky Jordan,50928,Ohio State
+2020,01/24,Ohio State - Iowa Dual,184,L,DEC,3 - 1,Abe Assad,56936,Iowa,Rocky Jordan,50928,Ohio State
+2020,01/19,Illinois - Ohio State Dual,184,W,DEC,6 - 4,Zach Braunagel,50925,Illinois,Rocky Jordan,50928,Ohio State
+2020,01/17,Ohio State - Wisconsin Dual,184,W,TF5,20 - 2 5:00,Tyler Dow,50622,Wisconsin,Rocky Jordan,50928,Ohio State
+2020,01/10,Rutgers - Ohio State Dual,184,L,DEC,5 - 4,Billy Janzer,49473,Rutgers,Rocky Jordan,50928,Ohio State
+2020,01/04,Franklin & Marshall Open,184,W,TF5,16 - 0 7:00,Dan Shafran,57782,LIU,Rocky Jordan,50928,Ohio State
+2020,01/04,Franklin & Marshall Open,184,W,TF5,15 - 0 7:00,Michael Battista,51672,Virginia,Rocky Jordan,50928,Ohio State
+2020,01/04,Franklin & Marshall Open,184,W,DEC,6 - 1,Brandon Kui,49105,Brown,Rocky Jordan,50928,Ohio State
+2020,01/04,Franklin & Marshall Open,184,W,INJ,7:00,Dan McClure,48406,LIU,Rocky Jordan,50928,Ohio State
+2020,01/04,Franklin & Marshall Open,184,W,TF5,17 - 2 7:00,Dean Drugac,44766,Old Dominion,Rocky Jordan,50928,Ohio State
+2020,12/14,Cleveland State Open,184,W,MFOR,0 - 0,Carson Brewer,60286,Ohio,Rocky Jordan,50928,Ohio State
+2020,12/14,Cleveland State Open,184,W,MD,13 - 0,Austen Malczewski,51213,Michigan State,Rocky Jordan,50928,Ohio State
+2020,12/14,Cleveland State Open,184,W,DEC,9 - 2,Anthony Carman,62423,West Virginia,Rocky Jordan,50928,Ohio State
+2020,12/14,Cleveland State Open,184,W,MD,12 - 1,Jack Jessen,50838,Northwestern,Rocky Jordan,50928,Ohio State
+2020,11/24,Lake Erie Storm Open,174,W,TF5,17 - 0 1:57,Nick Konyk,48055,Mercyhurst,Rocky Jordan,50928,Ohio State
+2020,11/24,Lake Erie Storm Open,174,W,TF5,19 - 4 6:29,Luigi Yates,51288,Gannon,Rocky Jordan,50928,Ohio State
+2020,11/24,Lake Erie Storm Open,174,W,DEC,9 - 3,Ty McGeary,62987,Pitt-Johnstown,Rocky Jordan,50928,Ohio State
+2020,11/24,Lake Erie Storm Open,174,W,DEC,7 - 3,Fritz Schierl,44840,Ohio State,Rocky Jordan,50928,Ohio State
+2020,11/17,Virginia Tech - Ohio State Dual,174,L,DEC,6 - 3,Cody Hughes,39608,Virginia Tech,Rocky Jordan,50928,Ohio State
+2020,11/10,Ohio Intercollegiate Open,174,W,DEC,7 - 1,Bret Romanzak,41599,Ashland,Rocky Jordan,50928,Ohio State
+2020,11/10,Ohio Intercollegiate Open,174,W,DEC,4 - 3,Donnell Washington,57738,Indiana,Rocky Jordan,50928,Ohio State
+2020,11/10,Ohio Intercollegiate Open,174,W,MD,12 - 2,Deandre Nassar,62202,Cleveland State,Rocky Jordan,50928,Ohio State
+2020,11/02,MSU Open,174,W,DEC,9 - 4,Neil Antrassian,56202,Pennsylvania,Rocky Jordan,50928,Ohio State
+2020,11/02,MSU Open,174,L,MD,17 - 7,Anthony Mantanona,49258,Oklahoma,Rocky Jordan,50928,Ohio State
+2020,11/02,MSU Open,174,W,DEC,9 - 5,Fritz Schierl,44840,Ohio State,Rocky Jordan,50928,Ohio State
+2020,11/02,MSU Open,174,W,DEC,7 - 0,Nate Jimenez,51688,Michigan State,Rocky Jordan,50928,Ohio State
+2020,11/02,MSU Open,174,W,DEC,8 - 2,Jake Lowell,50530,Central Michigan,Rocky Jordan,50928,Ohio State
+2020,11/02,MSU Open,174,L,DEC,6 - 2,Jacob Covaciu,44805,Indiana,Rocky Jordan,50928,Ohio State
+2020,11/24,Lake Erie Storm Open,184,L,MFOR,0 - 0,Joel Leise,50170,Gannon,Zach Steiner,49251,Ohio State
+2020,11/24,Lake Erie Storm Open,184,W,MD,14 - 4,Xavier Torres,61458,Kent State,Zach Steiner,49251,Ohio State
+2020,11/24,Lake Erie Storm Open,184,L,MFOR,0 - 0,Carson Brewer,60286,Ohio,Zach Steiner,49251,Ohio State
+2020,11/24,Lake Erie Storm Open,184,W,DEC,14 - 8,Gino Sita,52064,Alderson-Broaddus University,Zach Steiner,49251,Ohio State
+2020,11/17,Virginia Tech - Ohio State Dual,184,L,DEC,8 - 1,Hunter Bolen,49335,Virginia Tech,Zach Steiner,49251,Ohio State
+2020,11/10,Stanford - Ohio State Dual,184,W,DEC,9 - 6,Nick Addison,57655,Stanford,Zach Steiner,49251,Ohio State
+2020,03/07,Big Ten Championships,197,W,DEC,4 - 1,Eric Schultz,44853,Nebraska,Kollin Moore,39638,Ohio State
+2020,03/07,Big Ten Championships,197,W,MD,16 - 5,Lucas Davison,51236,Northwestern,Kollin Moore,39638,Ohio State
+2020,03/07,Big Ten Championships,197,W,MD,18 - 5,Jackson Striggow,39831,Michigan,Kollin Moore,39638,Ohio State
+2020,02/15,Ohio State - Penn State Dual,197,W,MD,14 - 6,Shakur Rasheed,20305,Penn State,Kollin Moore,39638,Ohio State
+2020,02/09,Northwestern - Ohio State Dual,197,W,DEC,14 - 9,Lucas Davison,51236,Northwestern,Kollin Moore,39638,Ohio State
+2020,02/02,Ohio State - Nebraska Dual,197,W,DEC,6 - 2,Eric Schultz,44853,Nebraska,Kollin Moore,39638,Ohio State
+2020,01/31,Maryland - Ohio State Dual,197,W,FALL,2:36,Niko Cappello,44773,Maryland,Kollin Moore,39638,Ohio State
+2020,01/26,Ohio State - Minnesota Dual,197,W,TF5,19 - 3 4:32,Hunter Ritter,39783,Minnesota,Kollin Moore,39638,Ohio State
+2020,01/24,Ohio State - Iowa Dual,197,W,DEC,8 - 3,Cash Wilcke,39502,Iowa,Kollin Moore,39638,Ohio State
+2020,01/19,Illinois - Ohio State Dual,197,W,FALL,4:35,Matt Wroblewski,50019,Illinois,Kollin Moore,39638,Ohio State
+2020,01/17,Ohio State - Wisconsin Dual,197,W,TF5,21 - 3 5:23,Peter Christensen,57076,Wisconsin,Kollin Moore,39638,Ohio State
+2020,01/10,Rutgers - Ohio State Dual,197,W,MD,20 - 9,Jordan Pagano,20304,Rutgers,Kollin Moore,39638,Ohio State
+2020,01/06,Arizona State - Ohio State Dual,197,W,DEC,11 - 9,Kordell Norfleet,49038,Arizona State,Kollin Moore,39638,Ohio State
+2020,12/06,Cliff Keen Invitational,197,W,FALL,0:34,Richardo Rodriguez,65427,Grand Canyon,Kollin Moore,39638,Ohio State
+2020,12/06,Cliff Keen Invitational,197,W,MD,16 - 6,Christian Brunner,44744,Purdue,Kollin Moore,39638,Ohio State
+2020,12/06,Cliff Keen Invitational,197,W,TF5,19 - 4 7:00,Stanley Smeltzer,50902,Virginia Tech,Kollin Moore,39638,Ohio State
+2020,12/06,Cliff Keen Invitational,197,W,TF5,16 - 1 3:16,Thomas Lane,39966,Cal Poly,Kollin Moore,39638,Ohio State
+2020,12/06,Cliff Keen Invitational,197,W,DEC,5 - 3,Kordell Norfleet,49038,Arizona State,Kollin Moore,39638,Ohio State
+2020,12/01,Cornell - Ohio State Dual,197,W,MD,18 - 6,Jonathan Loew,51080,Cornell,Kollin Moore,39638,Ohio State
+2020,11/17,Virginia Tech - Ohio State Dual,197,W,TF5,24 - 9 6:23,Stanley Smeltzer,50902,Virginia Tech,Kollin Moore,39638,Ohio State
+2020,11/15,Ohio State - Pittsburgh Dual,197,W,MD,12 - 3,Kellan Stout,39528,Pittsburgh,Kollin Moore,39638,Ohio State
+2020,11/10,Stanford - Ohio State Dual,197,W,MD,19 - 8,Nathan Traxler,45395,Stanford,Kollin Moore,39638,Ohio State
+2020,11/02,MSU Open,197,W,MD,18 - 7,Thomas Penola,57105,Purdue,Kollin Moore,39638,Ohio State
+2020,11/02,MSU Open,197,W,SV-1,6 - 4,Jake Woodley,49257,Oklahoma,Kollin Moore,39638,Ohio State
+2020,11/02,MSU Open,197,W,FALL,3:42,Cole Nye,49185,Pittsburgh,Kollin Moore,39638,Ohio State
+2020,11/02,MSU Open,197,W,MD,16 - 5,Matt Wroblewski,50019,Illinois,Kollin Moore,39638,Ohio State
+2020,11/02,MSU Open,197,W,TF5,21 - 5 7:00,Landon Pelham,44838,Central Michigan,Kollin Moore,39638,Ohio State
+2020,12/14,Cleveland State Open,197,W,DEC,11 - 5,Aaron Bolo,50919,Central Michigan,Kevin Snyder,44847,Ohio State
+2020,12/14,Cleveland State Open,197,W,DEC,3 - 1,Colin McCracken,50064,Kent State,Kevin Snyder,44847,Ohio State
+2020,12/14,Cleveland State Open,197,W,DEC,10 - 5,Danny Kruse,45311,Michigan State,Kevin Snyder,44847,Ohio State
+2020,11/02,MSU Open,197,L,DEC,4 - 2,Jackson Striggow,39831,Michigan,Kevin Snyder,44847,Ohio State
+2020,11/02,MSU Open,197,L,DEC,10 - 6,Aaron Naples,51351,Ohio,Kevin Snyder,44847,Ohio State
+2020,11/02,MSU Open,197,W,MD,12 - 4,Brad Wilton,49187,Michigan State,Kevin Snyder,44847,Ohio State
+2020,02/01,Edinboro Open,197,L,DEC,7 - 3,Luke Niemeyer,57205,Bucknell,Tyler Stein,56778,Ohio State
+2020,02/01,Edinboro Open,197,L,DEC,5 - 0,Blake Reynolds,49167,Lock Haven,Tyler Stein,56778,Ohio State
+2020,01/19,Purple Raider Open,197,L,DEC,7 - 5,Eldar Muradov,66176,Unattached,Tyler Stein,56778,Ohio State
+2020,01/19,Purple Raider Open,197,W,DEC,5 - 2,Kyler Slade,44023,Unattached,Tyler Stein,56778,Ohio State
+2020,12/14,Cleveland State Open,197,L,DEC,7 - 2,Cade Dallwitz,60002,Central Michigan,Tyler Stein,56778,Ohio State
+2020,12/14,Cleveland State Open,197,L,MD,8 - 0,Cole Nye,49185,Pittsburgh,Tyler Stein,56778,Ohio State
+2020,11/10,Ohio Intercollegiate Open,197,W,FALL,0:46,Eli Davenport,61683,John Carroll,Tyler Stein,56778,Ohio State
+2020,11/10,Ohio Intercollegiate Open,197,W,DEC,7 - 3,Brian Kent,52907,Case Western Reserve,Tyler Stein,56778,Ohio State
+2020,11/10,Ohio Intercollegiate Open,197,L,INJ,7:00,Cade Dallwitz,60002,Central Michigan,Tyler Stein,56778,Ohio State
+2020,11/10,Ohio Intercollegiate Open,197,L,DEC,7 - 2,Sam Mitchell,61028,Buffalo,Tyler Stein,56778,Ohio State
+2020,11/02,MSU Open,197,W,FALL,2:03,Anthony Filkins,63220,Rochester Christian,Tyler Stein,56778,Ohio State
+2020,11/02,MSU Open,197,W,FALL,1:58,Keigan Yuhas,58128,Findlay,Tyler Stein,56778,Ohio State
+2020,11/02,MSU Open,197,W,FALL,2:04,Austin Cooley,56772,Pittsburgh,Tyler Stein,56778,Ohio State
+2020,11/02,MSU Open,197,L,DEC,8 - 6,Cade Dallwitz,60002,Central Michigan,Tyler Stein,56778,Ohio State
+2020,03/07,Big Ten Championships,285,L,DEC,6 - 0,David Jensen,43467,Nebraska,Gary Traub,45199,Ohio State
+2020,03/07,Big Ten Championships,285,L,DEC,2 - 0,Trent Hillger,49350,Wisconsin,Gary Traub,45199,Ohio State
+2020,03/07,Big Ten Championships,285,W,DEC,3 - 2,Thomas Penola,57105,Purdue,Gary Traub,45199,Ohio State
+2020,03/07,Big Ten Championships,285,W,MD,14 - 5,Jack Heyob,55585,Northwestern,Gary Traub,45199,Ohio State
+2020,03/07,Big Ten Championships,285,L,DEC,4 - 0,Anthony Cassioppi,50650,Iowa,Gary Traub,45199,Ohio State
+2020,03/07,Big Ten Championships,285,W,MD,12 - 1,Christian Rebottaro,44850,Michigan State,Gary Traub,45199,Ohio State
+2020,02/15,Ohio State - Penn State Dual,285,W,DEC,5 - 4,Seth Nevills,50625,Penn State,Gary Traub,45199,Ohio State
+2020,02/09,Northwestern - Ohio State Dual,285,W,MD,13 - 3,Jack Heyob,55585,Northwestern,Gary Traub,45199,Ohio State
+2020,02/02,Ohio State - Nebraska Dual,285,L,DEC,8 - 3,David Jensen,43467,Nebraska,Gary Traub,45199,Ohio State
+2020,01/31,Maryland - Ohio State Dual,285,W,TF5,24 - 9 5:54,Parker Robinson,56203,Maryland,Gary Traub,45199,Ohio State
+2020,01/26,Ohio State - Minnesota Dual,285,L,MD,13 - 2,Gable Steveson,50624,Minnesota,Gary Traub,45199,Ohio State
+2020,01/24,Ohio State - Iowa Dual,285,L,DEC,9 - 3,Anthony Cassioppi,50650,Iowa,Gary Traub,45199,Ohio State
+2020,01/19,Illinois - Ohio State Dual,285,W,DEC,11 - 4,Luke Luffman,56708,Illinois,Gary Traub,45199,Ohio State
+2020,01/17,Ohio State - Wisconsin Dual,285,L,DEC,6 - 0,Trent Hillger,49350,Wisconsin,Gary Traub,45199,Ohio State
+2020,01/10,Rutgers - Ohio State Dual,285,W,SV-2,4 - 2,Matt Correnti,44705,Rutgers,Gary Traub,45199,Ohio State
+2020,01/06,Arizona State - Ohio State Dual,285,L,DEC,4 - 2,Tanner Hall,40231,Arizona State,Gary Traub,45199,Ohio State
+2020,12/14,Cleveland State Open,285,W,MFOR,0 - 0,Jared Campbell,59015,Notre Dame,Gary Traub,45199,Ohio State
+2020,12/14,Cleveland State Open,285,W,DEC,6 - 4,Lewis Fernandes,56901,Spartan Combat RTC,Gary Traub,45199,Ohio State
+2020,12/14,Cleveland State Open,285,W,MD,12 - 4,Cole Rickert,50864,Pittsburgh,Gary Traub,45199,Ohio State
+2020,12/14,Cleveland State Open,285,W,FALL,4:32,Spencer Berthold,50157,Kent State,Gary Traub,45199,Ohio State
+2020,12/01,Cornell - Ohio State Dual,285,W,DEC,4 - 3,Brendan Furman,49113,Cornell,Gary Traub,45199,Ohio State
+2020,11/24,Lake Erie Storm Open,285,W,DEC,9 - 3,Gaige Willis,51645,Unattached,Gary Traub,45199,Ohio State
+2020,11/24,Lake Erie Storm Open,285,W,FALL,1:01,Jackson Ross,51217,Michigan State,Gary Traub,45199,Ohio State
+2020,11/24,Lake Erie Storm Open,285,W,DEC,9 - 4,Jacob Robb,45929,Mercyhurst,Gary Traub,45199,Ohio State
+2020,11/24,Lake Erie Storm Open,285,W,FALL,1:19,Travis Schmeling,43494,Gannon,Gary Traub,45199,Ohio State
+2020,11/10,Stanford - Ohio State Dual,285,W,DEC,4 - 3,David Showunmi,39853,Stanford,Gary Traub,45199,Ohio State
+2020,11/02,MSU Open,285,W,DEC,7 - 4,Ben Goldin,50827,Pennsylvania,Gary Traub,45199,Ohio State
+2020,11/02,MSU Open,285,L,DEC,13 - 9,Demetrius Thomas,47357,Pittsburgh,Gary Traub,45199,Ohio State
+2020,11/02,MSU Open,285,W,FALL,2:42,David Henson,46560,Tiffin University,Gary Traub,45199,Ohio State
+2020,11/02,MSU Open,285,W,DEC,6 - 1,Terrese Aaron,51827,Northern Illinois,Gary Traub,45199,Ohio State
+2020,11/02,MSU Open,285,W,DEC,3 - 2,Christian Rebottaro,44850,Michigan State,Gary Traub,45199,Ohio State
+2020,11/02,MSU Open,285,W,FALL,6:50,Greg Hodulick,49406,Buffalo,Gary Traub,45199,Ohio State
+2020,12/06,Cliff Keen Invitational,285,L,MFOR,0 - 0,Thomas Penola,57105,Purdue,Chase Singletary,49253,Ohio State
+2020,12/06,Cliff Keen Invitational,285,W,DEC,2 - 1,Dalton Robertson,44695,Northern Colorado,Chase Singletary,49253,Ohio State
+2020,12/06,Cliff Keen Invitational,285,L,MFOR,0 - 0,Randy Gonzalez,62564,Fresno State,Chase Singletary,49253,Ohio State
+2020,11/17,Virginia Tech - Ohio State Dual,285,W,DEC,4 - 2,John Borst,49336,Virginia Tech,Chase Singletary,49253,Ohio State
+2020,11/15,Ohio State - Pittsburgh Dual,285,W,DEC,8 - 3,Demetrius Thomas,47357,Pittsburgh,Chase Singletary,49253,Ohio State
+2020,02/23,Mat-Town Open II,285,L,MD,21 - 9,Greg Kerkvliet,61842,Penn State,Gavin Hoffman,50609,Ohio State
+2020,02/23,Mat-Town Open II,285,L,DEC,3 - 2,Victor Lacombe,49659,Lehigh,Gavin Hoffman,50609,Ohio State
+2020,02/23,Mat-Town Open II,285,W,DEC,3 - 2,Cole Nye,49185,Pittsburgh,Gavin Hoffman,50609,Ohio State
+2020,02/23,Mat-Town Open II,285,W,MD,24 - 10,Trevor Burns,56923,George Mason,Gavin Hoffman,50609,Ohio State
+2020,02/16,John Carroll Open,285,W,TF5,26 - 10 5:29,Matt Long,63094,Gannon,Gavin Hoffman,50609,Ohio State
+2020,02/16,John Carroll Open,285,W,FALL,4:21,Brad Crislip,50388,Gannon,Gavin Hoffman,50609,Ohio State
+2020,02/16,John Carroll Open,285,W,MD,14 - 2,Shane Noonan,58615,Edinboro,Gavin Hoffman,50609,Ohio State
+2020,02/09,Greyhound Open,285,W,DEC,5 - 3,Garrett Clark,65580,Ancilla College,Gavin Hoffman,50609,Ohio State
+2020,02/09,Greyhound Open,285,W,FALL,5:00,Max Darrah,60652,Maryville University,Gavin Hoffman,50609,Ohio State
+2020,02/09,Greyhound Open,285,W,FALL,1:23,Vinnie Scalelta,52369,McKendree University,Gavin Hoffman,50609,Ohio State
+2020,02/09,Greyhound Open,285,W,TF5,18 - 3 7:00,Kobe Hicks,50174,Indiana Tech,Gavin Hoffman,50609,Ohio State
+2020,02/01,Edinboro Open,285,W,SV-1,5 - 3,Nicholas Cooper,57079,Michigan State,Gavin Hoffman,50609,Ohio State
+2020,02/01,Edinboro Open,285,W,MFOR,0 - 0,Jon Spaulding,50330,Edinboro,Gavin Hoffman,50609,Ohio State
+2020,02/01,Edinboro Open,285,L,DEC,5 - 2,Victor Lacombe,49659,Lehigh,Gavin Hoffman,50609,Ohio State
+2020,02/01,Edinboro Open,285,W,DEC,5 - 2,Toby Cahill,49097,Buffalo,Gavin Hoffman,50609,Ohio State
+2020,02/01,Edinboro Open,285,W,DEC,9 - 6,Cole Nye,49185,Pittsburgh,Gavin Hoffman,50609,Ohio State
+2020,01/19,Purple Raider Open,285,W,DEC,10 - 3,Matt Long,63094,Gannon,Gavin Hoffman,50609,Ohio State
+2020,01/19,Purple Raider Open,285,W,MD,18 - 6,David Eli,50318,Purdue,Gavin Hoffman,50609,Ohio State
+2020,01/19,Purple Raider Open,285,W,DEC,8 - 3,Chase Logan,42151,West Liberty University,Gavin Hoffman,50609,Ohio State
+2020,01/06,Arizona State - Ohio State Dual,184,L,MD,19 - 5,Zahid Valencia,39501,Arizona State,Gavin Hoffman,50609,Ohio State
+2020,12/06,Cliff Keen Invitational,184,L,DEC,6 - 3,Zach Carlson,40280,South Dakota State,Gavin Hoffman,50609,Ohio State
+2020,12/06,Cliff Keen Invitational,184,L,MD,10 - 1,Taylor Lujan,39506,Northern Iowa,Gavin Hoffman,50609,Ohio State
+2020,12/06,Cliff Keen Invitational,184,W,DEC,2 - 1,Tyler Bates,56413,Kent State,Gavin Hoffman,50609,Ohio State
+2020,12/06,Cliff Keen Invitational,184,W,DEC,6 - 2,Dominic Kincaid,45678,Fresno State,Gavin Hoffman,50609,Ohio State
+2020,12/01,Cornell - Ohio State Dual,184,L,DEC,5 - 0,Ben Darmstadt,45876,Cornell,Gavin Hoffman,50609,Ohio State
+2020,11/24,Lake Erie Storm Open,184,W,DEC,9 - 2,Cameron Page,51414,Gannon,Gavin Hoffman,50609,Ohio State
+2020,11/24,Lake Erie Storm Open,184,W,SV-1,3 - 1,Carson Brewer,60286,Ohio,Gavin Hoffman,50609,Ohio State
+2020,11/24,Lake Erie Storm Open,184,W,DEC,3 - 1,Joel Leise,50170,Gannon,Gavin Hoffman,50609,Ohio State
+2020,11/15,Ohio State - Pittsburgh Dual,184,L,DEC,10 - 5,Nino Bonaccorsi,49285,Pittsburgh,Gavin Hoffman,50609,Ohio State
+2020,11/10,Ohio Intercollegiate Open,184,W,DEC,7 - 0,Zane Lanham,63995,West Liberty University,Gavin Hoffman,50609,Ohio State
+2020,11/10,Ohio Intercollegiate Open,184,W,MFOR,0 - 0,Aidan Pasiuk,52981,Ashland,Gavin Hoffman,50609,Ohio State
+2020,11/10,Ohio Intercollegiate Open,184,W,MD,11 - 3,Logan Hall,50331,Notre Dame,Gavin Hoffman,50609,Ohio State
+2020,11/10,Ohio Intercollegiate Open,184,W,INJ,7:00,Tony Vezzetti,46096,Notre Dame,Gavin Hoffman,50609,Ohio State
+2020,11/02,MSU Open,184,W,FALL,4:06,Ryan Farber,49283,Pennsylvania,Gavin Hoffman,50609,Ohio State
+2020,11/02,MSU Open,184,L,DEC,10 - 5,Peter Acciardi,51069,Buffalo,Gavin Hoffman,50609,Ohio State
+2020,11/02,MSU Open,184,L,DEC,5 - 3,Taylor Cahill,39848,Buffalo,Gavin Hoffman,50609,Ohio State
+2020,02/01,Edinboro Open,285,W,DEC,8 - 5,Nicholas Cooper,57079,Michigan State,Nicholas Boykin,65950,Ohio State
+2020,02/01,Edinboro Open,285,L,FALL,4:39,Lewis Fernandes,56901,Spartan Combat RTC,Nicholas Boykin,65950,Ohio State
+2020,02/01,Edinboro Open,285,W,DEC,3 - 2,Victor Lacombe,49659,Lehigh,Nicholas Boykin,65950,Ohio State
+2020,02/01,Edinboro Open,285,W,DEC,3 - 2,Michael Wolfgram,57526,West Virginia,Nicholas Boykin,65950,Ohio State
+2020,01/19,Purple Raider Open,285,W,FALL,2:53,Christian Reynolds,66452,Unattached,Nicholas Boykin,65950,Ohio State

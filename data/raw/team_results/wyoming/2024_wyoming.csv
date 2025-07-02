@@ -1,0 +1,509 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2024,03/21,NCAA Championships,125,W,DEC,4 - 0,Tanner Jordan,57664,South Dakota State,Jore Volk,72600,Wyoming
+2024,03/21,NCAA Championships,125,L,MD,9 - 0,Luke Stanich,78768,Lehigh,Jore Volk,72600,Wyoming
+2024,03/21,NCAA Championships,125,W,SV-1,4 - 1,Braeden Davis,77952,Penn State,Jore Volk,72600,Wyoming
+2024,03/21,NCAA Championships,125,W,DEC,5 - 4,Nico Provo,65883,Stanford,Jore Volk,72600,Wyoming
+2024,03/21,NCAA Championships,125,W,DEC,5 - 1,Cooper Flynn,72148,Virginia Tech,Jore Volk,72600,Wyoming
+2024,03/21,NCAA Championships,125,W,DEC,2 - 0,Brandon Kaylor,51198,Oregon State,Jore Volk,72600,Wyoming
+2024,03/21,NCAA Championships,125,L,DEC,5 - 3,Diego Sotelo,71874,Harvard,Jore Volk,72600,Wyoming
+2024,03/09,Big 12 Championships,125,W,SV-2,3 - 2,Troy Spratley,73119,Oklahoma State,Jore Volk,72600,Wyoming
+2024,03/09,Big 12 Championships,125,W,DEC,1 - 0,Tanner Jordan,57664,South Dakota State,Jore Volk,72600,Wyoming
+2024,03/09,Big 12 Championships,125,W,DEC,6 - 5,Noah Surtin,56715,Missouri,Jore Volk,72600,Wyoming
+2024,02/04,North Dakota State - Wyoming Dual,125,W,TF5,21 - 5 2:50,Ryan Henningson,67078,North Dakota State,Jore Volk,72600,Wyoming
+2024,02/01,South Dakota State - Wyoming Dual,125,L,DEC,2 - 1,Tanner Jordan,57664,South Dakota State,Jore Volk,72600,Wyoming
+2024,01/26,Northern Colorado - Wyoming Dual,125,L,DEC,3 - 1,Stevo Poulin,71929,Northern Colorado,Jore Volk,72600,Wyoming
+2024,01/20,Wyoming - Utah Valley Dual,125,W,TF5,15 - 0 5:53,Yusief Lillie,72995,Utah Valley,Jore Volk,72600,Wyoming
+2024,01/12,Air Force - Wyoming Dual,125,W,DEC,11 - 6,Tucker Owens,71711,Air Force,Jore Volk,72600,Wyoming
+2024,01/06,Wyoming - Nebraska Dual,125,W,DEC,5 - 1,Caleb Smith,58559,Nebraska,Jore Volk,72600,Wyoming
+2024,01/06,Wyoming - Northern Iowa Dual,125,W,DEC,4 - 0,Trever Anderson,76359,Northern Iowa,Jore Volk,72600,Wyoming
+2024,12/29,Soldier Salute,125,W,MD,12 - 0,Brandon Paez,82508,Northern Iowa,Jore Volk,72600,Wyoming
+2024,12/29,Soldier Salute,125,W,DEC,2 - 0,Brandon Morvari,81742,Minnesota,Jore Volk,72600,Wyoming
+2024,12/29,Soldier Salute,125,L,DEC,4 - 2,Drake Ayala,66975,Iowa,Jore Volk,72600,Wyoming
+2024,12/29,Soldier Salute,125,W,TF5,21 - 4 7:00,Damion Ryan,78489,Bellarmine,Jore Volk,72600,Wyoming
+2024,12/19,Oklahoma State - Wyoming Dual,125,W,DEC,5 - 1,Troy Spratley,73119,Oklahoma State,Jore Volk,72600,Wyoming
+2024,12/17,Reno TOC,125,W,TF5,16 - 0 3:17,Gabe Gray,87934,Unattached,Jore Volk,72600,Wyoming
+2024,12/17,Reno TOC,125,W,TF5,21 - 5 6:01,Landon Smith,82104,Embry-Riddle,Jore Volk,72600,Wyoming
+2024,12/17,Reno TOC,125,W,DEC,9 - 4,Kael Lauridsen,78611,EAP,Jore Volk,72600,Wyoming
+2024,12/17,Reno TOC,125,W,DEC,3 - 1,Aden Reeves,56711,Grand View,Jore Volk,72600,Wyoming
+2024,12/17,Reno TOC,125,W,DEC,6 - 4,Richard Figueroa,61129,Arizona State,Jore Volk,72600,Wyoming
+2024,12/08,Wyoming - Missouri Dual,125,L,SV-1,7 - 4,Noah Surtin,56715,Missouri,Jore Volk,72600,Wyoming
+2024,12/01,Cliff Keen Invitational,125,W,DEC,4 - 2,Brendan McCrone,76350,Ohio State,Jore Volk,72600,Wyoming
+2024,12/01,Cliff Keen Invitational,125,L,DEC,8 - 1,Nico Provo,65883,Stanford,Jore Volk,72600,Wyoming
+2024,12/01,Cliff Keen Invitational,125,W,DEC,4 - 2,Caleb Smith,58559,Nebraska,Jore Volk,72600,Wyoming
+2024,12/01,Cliff Keen Invitational,125,W,DEC,5 - 0,Anthony Molton,57207,Campbell,Jore Volk,72600,Wyoming
+2024,12/01,Cliff Keen Invitational,125,W,MFOR,0 - 0,Michael DeAugustino,56007,Michigan,Jore Volk,72600,Wyoming
+2024,12/01,Cliff Keen Invitational,125,L,DEC,4 - 2,Brandon Kaylor,51198,Oregon State,Jore Volk,72600,Wyoming
+2024,11/17,Wyoming - Campbell Dual,125,W,DEC,12 - 5,Anthony Molton,57207,Campbell,Jore Volk,72600,Wyoming
+2024,11/05,Western Wyoming College - Wyoming Dual,125,W,TF5,19 - 0 5:44,Sefton Douglass,78673,Western Wyoming College,Jore Volk,72600,Wyoming
+2024,02/18,Cowboy Shootout,125,L,FALL,0:42,Jacob Carson,84799,Utah Valley,Dylan Catlin,77321,Wyoming
+2024,02/18,Cowboy Shootout,125,W,CMFF,0 - 0,Tristan Mascarenas,70010,Arizona State,Dylan Catlin,77321,Wyoming
+2024,02/10,Oregon State - Wyoming Dual,125,L,FALL,1:38,Maximo Renteria,71870,Oregon State,Dylan Catlin,77321,Wyoming
+2024,12/17,Reno TOC,125,L,DEC,4 - 0,Gabe Gray,87934,Unattached,Dylan Catlin,77321,Wyoming
+2024,12/17,Reno TOC,125,W,MD,13 - 1,Brayden Boyd,82295,Corban University,Dylan Catlin,77321,Wyoming
+2024,12/17,Reno TOC,125,L,MD,15 - 2,Allan Hendricks,80309,Embry-Riddle,Dylan Catlin,77321,Wyoming
+2024,03/09,Big 12 Championships,133,L,DQ,0 - 0,Jace Koelzer,50912,Oklahoma,Garrett Ricks,67111,Wyoming
+2024,03/09,Big 12 Championships,133,L,FALL,2:03,Daton Fix,49263,Oklahoma State,Garrett Ricks,67111,Wyoming
+2024,02/10,Oregon State - Wyoming Dual,133,L,DEC,12 - 9,Gabe Whisenhunt,67729,Oregon State,Garrett Ricks,67111,Wyoming
+2024,02/04,North Dakota State - Wyoming Dual,133,W,DEC,13 - 8,Fernando Barreto,77720,North Dakota State,Garrett Ricks,67111,Wyoming
+2024,01/26,Northern Colorado - Wyoming Dual,133,L,MD,14 - 6,Dominick Serrano,61120,Northern Colorado,Garrett Ricks,67111,Wyoming
+2024,01/20,Wyoming - Utah Valley Dual,133,W,MD,16 - 5,Kase Mauger,65846,Utah Valley,Garrett Ricks,67111,Wyoming
+2024,01/12,Air Force - Wyoming Dual,133,W,MD,15 - 1,Robert Wright,81230,Air Force,Garrett Ricks,67111,Wyoming
+2024,01/06,Wyoming - Northern Iowa Dual,133,L,SV-1,4 - 1,Julian Farber,65843,Northern Iowa,Garrett Ricks,67111,Wyoming
+2024,12/29,Soldier Salute,133,L,MD,15 - 7,Garrett Totten,81066,Navy,Garrett Ricks,67111,Wyoming
+2024,12/29,Soldier Salute,133,L,MD,10 - 2,Jake Gliva,51241,Minnesota,Garrett Ricks,67111,Wyoming
+2024,12/29,Soldier Salute,133,W,FALL,6:24,Ostin Blanchard,84266,Bellarmine,Garrett Ricks,67111,Wyoming
+2024,12/17,Reno TOC,133,L,MD,13 - 3,Kyler Larkin,83096,High School,Garrett Ricks,67111,Wyoming
+2024,12/17,Reno TOC,133,L,FALL,1:54,Carson Taylor,65768,Grand View,Garrett Ricks,67111,Wyoming
+2024,12/17,Reno TOC,133,W,MD,17 - 7,Jackson Cockrell,63028,Grand View,Garrett Ricks,67111,Wyoming
+2024,12/17,Reno TOC,133,W,DEC,4 - 2,Jace Koelzer,50912,Oklahoma,Garrett Ricks,67111,Wyoming
+2024,12/17,Reno TOC,133,W,TF5,17 - 1 6:57,Romeo McNeil,63461,CSU Bakersfield,Garrett Ricks,67111,Wyoming
+2024,11/11,Wyoming - Cal Baptist Dual,125,W,FALL,2:59,Eli Griffin,68743,Cal Baptist,Garrett Ricks,67111,Wyoming
+2024,11/10,Wyoming - CSU Bakersfield Dual,125,L,DEC,7 - 4,Richard Castro-Sandoval,69366,CSU Bakersfield,Garrett Ricks,67111,Wyoming
+2024,02/01,South Dakota State - Wyoming Dual,133,L,DEC,5 - 3,Derrick Cardinal,68734,South Dakota State,Cooper Birdwell,72143,Wyoming
+2024,01/06,Wyoming - Nebraska Dual,133,L,DEC,7 - 5,Jacob Van Dee,73557,Nebraska,Cooper Birdwell,72143,Wyoming
+2024,12/29,Soldier Salute,133,W,DEC,8 - 7,Jace Palmer,73198,North Carolina,Cooper Birdwell,72143,Wyoming
+2024,12/29,Soldier Salute,133,L,SV-1,8 - 5,Cullan Schriever,57331,Iowa,Cooper Birdwell,72143,Wyoming
+2024,12/29,Soldier Salute,133,L,MFOR,0 - 0,Jake Gliva,51241,Minnesota,Cooper Birdwell,72143,Wyoming
+2024,12/29,Soldier Salute,133,W,DEC,7 - 3,Ostin Blanchard,84266,Bellarmine,Cooper Birdwell,72143,Wyoming
+2024,12/29,Soldier Salute,133,W,DEC,8 - 5,Dyson Dunham,73559,VMI,Cooper Birdwell,72143,Wyoming
+2024,12/19,Oklahoma State - Wyoming Dual,133,L,DEC,8 - 2,Daton Fix,49263,Oklahoma State,Cooper Birdwell,72143,Wyoming
+2024,12/17,Reno TOC,133,W,FALL,4:12,Isaac Martinez,83668,St Ambrose,Cooper Birdwell,72143,Wyoming
+2024,12/17,Reno TOC,133,L,DEC,16 - 11,Kyler Larkin,83096,High School,Cooper Birdwell,72143,Wyoming
+2024,12/17,Reno TOC,133,W,MFOR,0 - 0,Cody Phelps,77956,Western Wyoming College,Cooper Birdwell,72143,Wyoming
+2024,12/17,Reno TOC,133,W,MD,20 - 6,Jace Koelzer,50912,Oklahoma,Cooper Birdwell,72143,Wyoming
+2024,12/17,Reno TOC,133,W,MD,12 - 1,Jakob Romero,75096,Utah Valley,Cooper Birdwell,72143,Wyoming
+2024,12/17,Reno TOC,133,W,CMFF,0 - 0,Zach Blankenship,78461,Oklahoma State,Cooper Birdwell,72143,Wyoming
+2024,12/08,Wyoming - Missouri Dual,133,L,DEC,8 - 3,Kade Moore,73859,Missouri,Cooper Birdwell,72143,Wyoming
+2024,12/01,Cliff Keen Invitational,133,L,DEC,9 - 6,Julian Farber,65843,Northern Iowa,Cooper Birdwell,72143,Wyoming
+2024,12/01,Cliff Keen Invitational,133,W,DEC,13 - 11,Micah Roes,67299,Binghamton,Cooper Birdwell,72143,Wyoming
+2024,12/01,Cliff Keen Invitational,133,L,SV-1,4 - 1,Ethan Oakley,62754,Appalachian State,Cooper Birdwell,72143,Wyoming
+2024,11/17,Wyoming - Campbell Dual,133,L,DEC,4 - 2,Domenic Zaccone,56926,Campbell,Cooper Birdwell,72143,Wyoming
+2024,11/11,Wyoming - Cal Baptist Dual,133,L,DEC,2 - 1,Hunter Leake,67190,Cal Baptist,Cooper Birdwell,72143,Wyoming
+2024,11/10,Wyoming - CSU Bakersfield Dual,133,W,MD,10 - 1,Santino Sanchez,79001,CSU Bakersfield,Cooper Birdwell,72143,Wyoming
+2024,11/05,Western Wyoming College - Wyoming Dual,133,L,DEC,7 - 6,Cody Phelps,77956,Western Wyoming College,Cooper Birdwell,72143,Wyoming
+2024,02/18,Cowboy Shootout,133,W,MD,17 - 8,John Braman,92867,Wyoming,David Saenz,84616,Wyoming
+2024,02/18,Cowboy Shootout,133,W,FALL,2:36,Hayden Brady,84935,Northern Colorado,David Saenz,84616,Wyoming
+2024,02/18,Cowboy Shootout,133,L,MD,18 - 6,Logan Graf,79256,South Dakota State,David Saenz,84616,Wyoming
+2024,02/18,Cowboy Shootout,133,W,DEC,12 - 8,Josh Kyle,67456,Wyoming,David Saenz,84616,Wyoming
+2024,12/29,Soldier Salute,133,W,MD,12 - 4,Josh Kyle,67456,Wyoming,David Saenz,84616,Wyoming
+2024,12/29,Soldier Salute,133,W,DEC,8 - 1,Drew Stanfield,80266,Missouri,David Saenz,84616,Wyoming
+2024,12/29,Soldier Salute,133,L,DEC,8 - 6,Jace Palmer,73198,North Carolina,David Saenz,84616,Wyoming
+2024,12/29,Soldier Salute,133,L,FALL,3:28,Angelo Rini,56766,Columbia,David Saenz,84616,Wyoming
+2024,12/29,Soldier Salute,133,W,DEC,3 - 1,Dyson Dunham,73559,VMI,David Saenz,84616,Wyoming
+2024,12/17,Reno TOC,133,W,FALL,2:47,Landon Bertsch,81886,Marian University,David Saenz,84616,Wyoming
+2024,12/17,Reno TOC,133,W,MD,13 - 0,Braden Carson,78885,Eastern Oregon University,David Saenz,84616,Wyoming
+2024,12/17,Reno TOC,133,L,MD,11 - 0,Carson Taylor,65768,Grand View,David Saenz,84616,Wyoming
+2024,12/17,Reno TOC,133,L,DEC,6 - 0,Zach Blankenship,78461,Oklahoma State,David Saenz,84616,Wyoming
+2024,12/02,Bob Smith Open,133,W,MD,12 - 1,Daniel Vines,87393,Cloud County Community College,David Saenz,84616,Wyoming
+2024,12/02,Bob Smith Open,133,W,TF5,17 - 2 7:00,Tyler Fields,86009,Colby Community College,David Saenz,84616,Wyoming
+2024,12/02,Bob Smith Open,133,W,TF5,17 - 0 7:00,Jarrdarrious Goolsby,85970,Colby Community College,David Saenz,84616,Wyoming
+2024,12/02,Bob Smith Open,133,W,MD,18 - 5,Cameron Moore,85414,Trinidad State,David Saenz,84616,Wyoming
+2024,12/02,Bob Smith Open,133,L,FALL,1:15,Zach Blankenship,78461,Oklahoma State,David Saenz,84616,Wyoming
+2024,12/02,Bob Smith Open,133,W,TF5,17 - 0 7:00,Kevin Honas,78593,Fort Hays State,David Saenz,84616,Wyoming
+2024,11/18,Younes Hospitality Open,133,W,DEC,6 - 3,Robert Wright,81230,Air Force,David Saenz,84616,Wyoming
+2024,11/18,Younes Hospitality Open,133,W,MD,20 - 7,Patrick Allis,62557,Western Colorado,David Saenz,84616,Wyoming
+2024,11/18,Younes Hospitality Open,133,L,DEC,9 - 4,Quentrevion Campbell,65436,Chadron State,David Saenz,84616,Wyoming
+2024,11/18,Younes Hospitality Open,133,W,FALL,4:35,Joseph Enockson,77709,Adams State,David Saenz,84616,Wyoming
+2024,02/18,Cowboy Shootout,133,L,DEC,12 - 8,David Saenz,84616,Wyoming,Josh Kyle,67456,Wyoming
+2024,02/18,Cowboy Shootout,133,W,DEC,8 - 6,John Braman,92867,Wyoming,Josh Kyle,67456,Wyoming
+2024,02/18,Cowboy Shootout,133,W,TF5,17 - 2 3:30,Hayden Brady,84935,Northern Colorado,Josh Kyle,67456,Wyoming
+2024,02/18,Cowboy Shootout,133,L,MD,15 - 7,Logan Graf,79256,South Dakota State,Josh Kyle,67456,Wyoming
+2024,12/29,Soldier Salute,133,L,MD,12 - 4,David Saenz,84616,Wyoming,Josh Kyle,67456,Wyoming
+2024,12/29,Soldier Salute,133,L,DEC,13 - 7,Jace Palmer,73198,North Carolina,Josh Kyle,67456,Wyoming
+2024,12/29,Soldier Salute,133,W,MD,9 - 0,Shay Korhorn,79324,Bellarmine,Josh Kyle,67456,Wyoming
+2024,12/29,Soldier Salute,133,L,DEC,20 - 17,Trayce Eckman,78874,Bellarmine,Josh Kyle,67456,Wyoming
+2024,12/17,Reno TOC,133,L,MD,12 - 1,Cody Phelps,77956,Western Wyoming College,Josh Kyle,67456,Wyoming
+2024,12/17,Reno TOC,133,L,FALL,6:59,Alex Pena,77364,Wayland Baptist,Josh Kyle,67456,Wyoming
+2024,12/17,Reno TOC,133,W,FALL,2:00,Romeo McNeil,63461,CSU Bakersfield,Josh Kyle,67456,Wyoming
+2024,12/17,Reno TOC,133,W,DEC,7 - 2,Spencer Von Savoye,82758,Cal Baptist,Josh Kyle,67456,Wyoming
+2024,11/18,Younes Hospitality Open,133,W,DEC,13 - 10,CaRon Watson,88719,Briar Cliff,Josh Kyle,67456,Wyoming
+2024,11/18,Younes Hospitality Open,133,L,MD,9 - 1,Kole Biscoe,78469,Air Force,Josh Kyle,67456,Wyoming
+2024,11/18,Younes Hospitality Open,133,W,FALL,1:09,John Finnegan,75652,Colorado Mesa,Josh Kyle,67456,Wyoming
+2024,11/18,Younes Hospitality Open,133,W,FALL,1:21,Colter Julian,71964,Chadron State,Josh Kyle,67456,Wyoming
+2024,11/18,Younes Hospitality Open,133,W,FALL,4:26,Joseph Enockson,77709,Adams State,Josh Kyle,67456,Wyoming
+2024,11/18,Younes Hospitality Open,133,W,MFOR,0 - 0,Dale Van Matre,75099,Adams State,Josh Kyle,67456,Wyoming
+2024,11/18,Younes Hospitality Open,133,W,FALL,0:44,Drew Arnold,76037,Nebraska-Kearney,Josh Kyle,67456,Wyoming
+2024,02/18,Cowboy Shootout,133,L,MD,17 - 8,David Saenz,84616,Wyoming,John Braman,92867,Wyoming
+2024,02/18,Cowboy Shootout,133,L,DEC,8 - 6,Josh Kyle,67456,Wyoming,John Braman,92867,Wyoming
+2024,02/18,Cowboy Shootout,133,W,FALL,2:26,Hayden Brady,84935,Northern Colorado,John Braman,92867,Wyoming
+2024,02/18,Cowboy Shootout,133,L,MD,17 - 6,Logan Graf,79256,South Dakota State,John Braman,92867,Wyoming
+2024,03/09,Big 12 Championships,141,L,DEC,6 - 1,Haiden Drury,64645,Utah Valley,Cole Brooks,82044,Wyoming
+2024,03/09,Big 12 Championships,141,L,DEC,8 - 4,Clay Carlson,56441,South Dakota State,Cole Brooks,82044,Wyoming
+2024,03/09,Big 12 Championships,141,W,MD,14 - 4,Gavin Drexler,73017,North Dakota State,Cole Brooks,82044,Wyoming
+2024,03/09,Big 12 Championships,141,L,TF5,21 - 5 5:50,Anthony Echemendia,62882,Iowa State,Cole Brooks,82044,Wyoming
+2024,02/18,Cowboy Shootout,141,W,MD,11 - 1,Kobe Nelms,63874,Utah Valley,Cole Brooks,82044,Wyoming
+2024,02/18,Cowboy Shootout,141,W,TF5,15 - 0 2:04,Daniel Miranda,84525,Arizona State,Cole Brooks,82044,Wyoming
+2024,02/10,Oregon State - Wyoming Dual,141,L,DEC,9 - 4,Cleveland Belton,57334,Oregon State,Cole Brooks,82044,Wyoming
+2024,02/04,North Dakota State - Wyoming Dual,141,W,TF5,17 - 2 3:59,Gavin Drexler,73017,North Dakota State,Cole Brooks,82044,Wyoming
+2024,02/01,South Dakota State - Wyoming Dual,141,W,DEC,9 - 4,Caleb Gross,62668,South Dakota State,Cole Brooks,82044,Wyoming
+2024,01/26,Northern Colorado - Wyoming Dual,141,W,MD,11 - 2,Rudy Lopez,71937,Northern Colorado,Cole Brooks,82044,Wyoming
+2024,01/20,Wyoming - Utah Valley Dual,141,L,DEC,2 - 0,Haiden Drury,64645,Utah Valley,Cole Brooks,82044,Wyoming
+2024,01/12,Air Force - Wyoming Dual,141,W,TF5,18 - 2 2:32,Garrett Kuchan,69522,Air Force,Cole Brooks,82044,Wyoming
+2024,01/06,Wyoming - Nebraska Dual,141,L,MD,15 - 3,Brock Hardy,51242,Nebraska,Cole Brooks,82044,Wyoming
+2024,12/08,Wyoming - Missouri Dual,141,W,FALL,2:40,Owen Uhls,73701,Missouri,Cole Brooks,82044,Wyoming
+2024,12/01,Cliff Keen Invitational,141,L,MD,18 - 7,Cael Happel,62345,Northern Iowa,Cole Brooks,82044,Wyoming
+2024,12/01,Cliff Keen Invitational,141,W,DEC,12 - 6,Chris Rivera,62331,Campbell,Cole Brooks,82044,Wyoming
+2024,12/01,Cliff Keen Invitational,141,L,FALL,2:47,Brock Hardy,51242,Nebraska,Cole Brooks,82044,Wyoming
+2024,12/01,Cliff Keen Invitational,141,W,MD,13 - 2,Devin Matthews,70150,LIU,Cole Brooks,82044,Wyoming
+2024,12/01,Cliff Keen Invitational,141,W,TF5,16 - 0 3:51,Chris Naegele,62477,Sacred Heart,Cole Brooks,82044,Wyoming
+2024,11/17,Wyoming - Campbell Dual,141,W,DEC,9 - 8,Chris Rivera,62331,Campbell,Cole Brooks,82044,Wyoming
+2024,11/11,Wyoming - Cal Baptist Dual,141,W,MD,16 - 4,Darren Green,62886,Cal Baptist,Cole Brooks,82044,Wyoming
+2024,11/10,Wyoming - CSU Bakersfield Dual,141,W,TF5,20 - 4 5:21,Louie Ramos,73173,CSU Bakersfield,Cole Brooks,82044,Wyoming
+2024,02/18,Cowboy Shootout,141,L,CMFF,0 - 0,Dyson Kunz,71939,Northern Colorado,Stockton O'Brien,67451,Wyoming
+2024,02/18,Cowboy Shootout,141,L,DEC,5 - 0,Jesse Vasquez,67152,Arizona State,Stockton O'Brien,67451,Wyoming
+2024,02/18,Cowboy Shootout,141,W,DEC,6 - 2,Kobe Nelms,63874,Utah Valley,Stockton O'Brien,67451,Wyoming
+2024,02/18,Cowboy Shootout,141,W,DEC,6 - 3,Brandon Meredith,56935,South Dakota State,Stockton O'Brien,67451,Wyoming
+2024,02/18,Cowboy Shootout,141,L,TF5,18 - 1 4:30,Clay Carlson,56441,South Dakota State,Stockton O'Brien,67451,Wyoming
+2024,01/06,Wyoming - Northern Iowa Dual,141,L,TF5,21 - 6 4:09,Cael Happel,62345,Northern Iowa,Stockton O'Brien,67451,Wyoming
+2024,12/29,Soldier Salute,141,W,MD,11 - 1,Parker Janssen,84822,South Dakota State,Stockton O'Brien,67451,Wyoming
+2024,12/29,Soldier Salute,141,W,MFOR,0 - 0,Blake Cushing,73160,Nebraska,Stockton O'Brien,67451,Wyoming
+2024,12/29,Soldier Salute,141,L,DEC,10 - 3,Zeke Seltzer,72572,Missouri,Stockton O'Brien,67451,Wyoming
+2024,12/29,Soldier Salute,141,L,DEC,5 - 2,Vance Vombaur,68715,Minnesota,Stockton O'Brien,67451,Wyoming
+2024,12/29,Soldier Salute,141,L,DEC,8 - 4,Clay Carlson,56441,South Dakota State,Stockton O'Brien,67451,Wyoming
+2024,12/29,Soldier Salute,141,W,FALL,1:07,Chase Hall,78650,Bellarmine,Stockton O'Brien,67451,Wyoming
+2024,12/29,Soldier Salute,141,W,TF5,16 - 1 7:00,Freddy Junko,67430,VMI,Stockton O'Brien,67451,Wyoming
+2024,12/19,Oklahoma State - Wyoming Dual,141,L,MD,14 - 3,Cael Hughes,78063,Oklahoma State,Stockton O'Brien,67451,Wyoming
+2024,12/17,Reno TOC,141,W,MD,19 - 5,Josh Collins,87405,Eastern Oregon University,Stockton O'Brien,67451,Wyoming
+2024,12/17,Reno TOC,141,W,MD,19 - 6,Logan Wagner,77454,Marian University,Stockton O'Brien,67451,Wyoming
+2024,12/17,Reno TOC,141,L,DEC,6 - 4,Haiden Drury,64645,Utah Valley,Stockton O'Brien,67451,Wyoming
+2024,12/17,Reno TOC,141,W,MD,11 - 1,DJ Gillett,78496,Oregon State,Stockton O'Brien,67451,Wyoming
+2024,12/17,Reno TOC,141,W,FALL,1:15,Andrew Bloemhof,62861,Oklahoma State,Stockton O'Brien,67451,Wyoming
+2024,11/18,Younes Hospitality Open,141,L,DEC,12 - 11,Blake Cushing,73160,Nebraska,Stockton O'Brien,67451,Wyoming
+2024,11/18,Younes Hospitality Open,141,W,MD,16 - 3,Grayston DiBlasi,73035,Colorado School Of Mines,Stockton O'Brien,67451,Wyoming
+2024,11/18,Younes Hospitality Open,141,W,TF5,17 - 2 7:00,Jacob McCarley,62552,Western Colorado,Stockton O'Brien,67451,Wyoming
+2024,11/18,Younes Hospitality Open,141,W,DEC,7 - 3,Nick James,62636,Nebraska-Kearney,Stockton O'Brien,67451,Wyoming
+2024,02/18,Cowboy Shootout,141,L,DEC,10 - 5,Dyson Kunz,71939,Northern Colorado,Brayden Sonnentag,78790,Wyoming
+2024,02/18,Cowboy Shootout,141,L,TF5,18 - 2 3:46,Haiden Drury,64645,Utah Valley,Brayden Sonnentag,78790,Wyoming
+2024,02/18,Cowboy Shootout,141,W,MFOR,0 - 0,Kobe Nelms,63874,Utah Valley,Brayden Sonnentag,78790,Wyoming
+2024,02/18,Cowboy Shootout,141,L,TF5,17 - 1 3:46,Clay Carlson,56441,South Dakota State,Brayden Sonnentag,78790,Wyoming
+2024,03/21,NCAA Championships,149,L,DEC,9 - 7,Dylan D'Emilio,56726,Ohio State,Gabe Willochell,62335,Wyoming
+2024,03/21,NCAA Championships,149,W,DEC,10 - 8,Ethen Miller,70914,Maryland,Gabe Willochell,62335,Wyoming
+2024,03/21,NCAA Championships,149,L,FALL,4:57,Austin Gomez,49153,Michigan,Gabe Willochell,62335,Wyoming
+2024,03/21,NCAA Championships,149,W,MD,8 - 0,Quinn Kinner,51144,Rider,Gabe Willochell,62335,Wyoming
+2024,03/09,Big 12 Championships,149,W,CMFF,0 - 0,Logan Gioffre,66985,Missouri,Gabe Willochell,62335,Wyoming
+2024,03/09,Big 12 Championships,149,L,TF5,22 - 6 6:18,Casey Swiderski,71913,Iowa State,Gabe Willochell,62335,Wyoming
+2024,03/09,Big 12 Championships,149,L,TF5,19 - 2 6:36,Ty Watters,73868,West Virginia,Gabe Willochell,62335,Wyoming
+2024,03/09,Big 12 Championships,149,W,FALL,2:11,Willie McDougald,67042,Oklahoma,Gabe Willochell,62335,Wyoming
+2024,02/10,Oregon State - Wyoming Dual,149,W,DEC,6 - 1,Nash Singleton,73038,Oregon State,Gabe Willochell,62335,Wyoming
+2024,02/04,North Dakota State - Wyoming Dual,149,L,TF5,19 - 4 5:17,Maxwell Petersen,73016,North Dakota State,Gabe Willochell,62335,Wyoming
+2024,02/01,South Dakota State - Wyoming Dual,149,L,MD,12 - 2,Alek Martin,72167,South Dakota State,Gabe Willochell,62335,Wyoming
+2024,01/26,Northern Colorado - Wyoming Dual,149,W,MD,10 - 1,Benjamin Alanis,61438,Northern Colorado,Gabe Willochell,62335,Wyoming
+2024,01/20,Wyoming - Utah Valley Dual,149,W,DEC,6 - 0,Isaiah Delgado,57056,Utah Valley,Gabe Willochell,62335,Wyoming
+2024,01/12,Air Force - Wyoming Dual,149,W,FALL,2:25,Joe Fernau,79037,Air Force,Gabe Willochell,62335,Wyoming
+2024,01/06,Wyoming - Nebraska Dual,149,L,FALL,1:25,Ridge Lovett,57520,Nebraska,Gabe Willochell,62335,Wyoming
+2024,01/06,Wyoming - Northern Iowa Dual,149,W,DEC,8 - 2,Adam Allard,62777,Northern Iowa,Gabe Willochell,62335,Wyoming
+2024,12/19,Oklahoma State - Wyoming Dual,149,L,DEC,13 - 11,Jordan Williams,73709,Oklahoma State,Gabe Willochell,62335,Wyoming
+2024,12/17,Reno TOC,149,W,FALL,2:36,Lucas Prinz,90505,Unattached,Gabe Willochell,62335,Wyoming
+2024,12/17,Reno TOC,149,W,TF5,16 - 1 5:59,Jonah Chew,77695,Embry-Riddle,Gabe Willochell,62335,Wyoming
+2024,12/17,Reno TOC,149,L,DEC,13 - 10,Blake Gonzalez,75857,Grand View,Gabe Willochell,62335,Wyoming
+2024,12/17,Reno TOC,149,W,FALL,4:25,Sammy Alvarez,56763,Oklahoma State,Gabe Willochell,62335,Wyoming
+2024,12/17,Reno TOC,149,W,FALL,6:18,Lawrence Saenz,56597,San Francisco State,Gabe Willochell,62335,Wyoming
+2024,12/17,Reno TOC,149,W,MD,14 - 5,Brock Rogers,62863,CSU Bakersfield,Gabe Willochell,62335,Wyoming
+2024,12/08,Wyoming - Missouri Dual,149,L,MD,21 - 10,Nathan Pulliam,70916,Missouri,Gabe Willochell,62335,Wyoming
+2024,12/01,Cliff Keen Invitational,149,W,DEC,4 - 1,Jayden Scott,73860,North Carolina,Gabe Willochell,62335,Wyoming
+2024,12/01,Cliff Keen Invitational,149,W,MFOR,0 - 0,Jackson Arrington,72497,NC State,Gabe Willochell,62335,Wyoming
+2024,12/01,Cliff Keen Invitational,149,L,TF5,20 - 4 3:56,Jackson Arrington,72497,NC State,Gabe Willochell,62335,Wyoming
+2024,12/01,Cliff Keen Invitational,149,L,MD,18 - 6,Casey Swiderski,71913,Iowa State,Gabe Willochell,62335,Wyoming
+2024,12/01,Cliff Keen Invitational,149,W,MD,15 - 1,Marcos Polanco,57653,Purdue,Gabe Willochell,62335,Wyoming
+2024,12/01,Cliff Keen Invitational,149,W,DEC,9 - 6,Isaiah Delgado,57056,Utah Valley,Gabe Willochell,62335,Wyoming
+2024,12/01,Cliff Keen Invitational,149,W,CMFF,0 - 0,Chance Lamer,70915,Cal Poly,Gabe Willochell,62335,Wyoming
+2024,11/17,Wyoming - Campbell Dual,149,W,DEC,5 - 4,Justin Rivera,61114,Campbell,Gabe Willochell,62335,Wyoming
+2024,11/11,Wyoming - Cal Baptist Dual,149,W,DEC,7 - 2,Dayne Morton,56980,Cal Baptist,Gabe Willochell,62335,Wyoming
+2024,11/05,Western Wyoming College - Wyoming Dual,141,W,FALL,2:32,River Wardle,71777,Western Wyoming College,Gabe Willochell,62335,Wyoming
+2024,02/18,Cowboy Shootout,149,L,DEC,4 - 2,Mykey Ramos,71774,Arizona State,Warren Carr,67457,Wyoming
+2024,02/18,Cowboy Shootout,149,W,CMFF,0 - 0,James Emmer,62436,Utah Valley,Warren Carr,67457,Wyoming
+2024,12/29,Soldier Salute,149,L,DEC,4 - 1,Scott Robertson,88395,Nebraska,Warren Carr,67457,Wyoming
+2024,12/29,Soldier Salute,149,L,DEC,7 - 2,Colin Dupill,78996,South Dakota State,Warren Carr,67457,Wyoming
+2024,12/29,Soldier Salute,149,L,SV-1,10 - 7,Cade Siebrecht,78547,Iowa,Warren Carr,67457,Wyoming
+2024,12/29,Soldier Salute,149,W,DEC,7 - 1,Jayden Scott,73860,North Carolina,Warren Carr,67457,Wyoming
+2024,12/29,Soldier Salute,149,W,DEC,7 - 3,Cael Rahnavardi,73005,Northern Iowa,Warren Carr,67457,Wyoming
+2024,12/17,Reno TOC,149,L,DEC,9 - 7,Abel Gaitan,83703,Grand View,Warren Carr,67457,Wyoming
+2024,12/17,Reno TOC,149,W,TF5,17 - 1 5:31,Zach Wilson,81914,Marian University,Warren Carr,67457,Wyoming
+2024,12/17,Reno TOC,149,L,DEC,13 - 10,Travis Thorpe,77894,Southern Oregon,Warren Carr,67457,Wyoming
+2024,11/18,Younes Hospitality Open,149,W,MD,16 - 6,Tyler Okada,75875,Waldorf,Warren Carr,67457,Wyoming
+2024,11/18,Younes Hospitality Open,149,W,DEC,10 - 6,Brody Lamb,57110,Chadron State,Warren Carr,67457,Wyoming
+2024,11/18,Younes Hospitality Open,149,L,DEC,10 - 8,Brady Collins,84895,Nebraska-Kearney,Warren Carr,67457,Wyoming
+2024,11/18,Younes Hospitality Open,149,W,INJ,1:54,Brody Arrants,76038,Nebraska-Kearney,Warren Carr,67457,Wyoming
+2024,11/18,Younes Hospitality Open,149,L,SV-1,4 - 1,John Burger,51348,Nebraska-Kearney,Warren Carr,67457,Wyoming
+2024,02/18,Cowboy Shootout,149,W,FALL,1:04,Q'veli Quintanilla,81877,Utah Valley,Aidan Noonan,70757,Wyoming
+2024,02/18,Cowboy Shootout,149,L,DEC,10 - 3,Maxwell Petersen,73016,North Dakota State,Aidan Noonan,70757,Wyoming
+2024,02/18,Cowboy Shootout,149,W,DEC,10 - 7,Brady Hankin,73003,Northern Colorado,Aidan Noonan,70757,Wyoming
+2024,12/29,Soldier Salute,149,W,DEC,5 - 2,Scott Robertson,88395,Nebraska,Aidan Noonan,70757,Wyoming
+2024,12/29,Soldier Salute,149,L,MD,11 - 2,Jayden Scott,73860,North Carolina,Aidan Noonan,70757,Wyoming
+2024,12/29,Soldier Salute,149,L,DEC,6 - 3,Easton Hilton,73655,Missouri,Aidan Noonan,70757,Wyoming
+2024,12/29,Soldier Salute,149,W,DEC,6 - 5,Luke Lucerne,67546,Navy,Aidan Noonan,70757,Wyoming
+2024,12/29,Soldier Salute,149,L,MD,14 - 4,Ethan Basile,62587,Northern Iowa,Aidan Noonan,70757,Wyoming
+2024,12/17,Reno TOC,149,W,TF5,15 - 0 4:41,Peyton Proper,88051,Embry-Riddle,Aidan Noonan,70757,Wyoming
+2024,12/17,Reno TOC,149,L,DEC,8 - 2,Cutter Sheets,73396,Oklahoma State,Aidan Noonan,70757,Wyoming
+2024,12/17,Reno TOC,149,L,TF5,18 - 1 4:59,Brock Rogers,62863,CSU Bakersfield,Aidan Noonan,70757,Wyoming
+2024,12/17,Reno TOC,149,W,FALL,2:58,Matthew Buck,82742,Cal Baptist,Aidan Noonan,70757,Wyoming
+2024,11/10,Wyoming - CSU Bakersfield Dual,149,W,MD,12 - 1,Johnathan Viveros,72229,CSU Bakersfield,Aidan Noonan,70757,Wyoming
+2024,11/05,Western Wyoming College - Wyoming Dual,149,W,DEC,5 - 4,Chris Lopez,79020,Western Wyoming College,Aidan Noonan,70757,Wyoming
+2024,03/09,Big 12 Championships,157,L,MD,14 - 3,Vince Zerban,73032,Northern Colorado,Sloan Swan,78775,Wyoming
+2024,03/09,Big 12 Championships,157,L,MD,9 - 1,Teague Travis,63722,Oklahoma State,Sloan Swan,78775,Wyoming
+2024,03/09,Big 12 Championships,157,L,DEC,9 - 3,Vince Zerban,73032,Northern Colorado,Sloan Swan,78775,Wyoming
+2024,03/09,Big 12 Championships,157,W,MD,11 - 0,Landen Johnson,73502,North Dakota State,Sloan Swan,78775,Wyoming
+2024,02/18,Cowboy Shootout,157,W,FALL,1:42,Tyler Jones,79384,Utah Valley,Sloan Swan,78775,Wyoming
+2024,02/18,Cowboy Shootout,157,W,MD,12 - 1,Roman Cruz,79044,Northern Colorado,Sloan Swan,78775,Wyoming
+2024,02/10,Oregon State - Wyoming Dual,157,L,DEC,13 - 9,Ayden Garver,78488,Oregon State,Sloan Swan,78775,Wyoming
+2024,02/04,North Dakota State - Wyoming Dual,157,W,FALL,2:06,Landen Johnson,73502,North Dakota State,Sloan Swan,78775,Wyoming
+2024,02/01,South Dakota State - Wyoming Dual,157,L,DEC,7 - 2,Cael Swensen,70926,South Dakota State,Sloan Swan,78775,Wyoming
+2024,01/26,Northern Colorado - Wyoming Dual,157,W,DEC,2 - 0,Roman Cruz,79044,Northern Colorado,Sloan Swan,78775,Wyoming
+2024,01/20,Wyoming - Utah Valley Dual,157,W,MD,17 - 7,Alex Emmer,72614,Utah Valley,Sloan Swan,78775,Wyoming
+2024,01/12,Air Force - Wyoming Dual,157,W,MD,12 - 0,Brooks Gable,71707,Air Force,Sloan Swan,78775,Wyoming
+2024,12/29,Soldier Salute,157,L,SV-1,6 - 3,James Conway,73529,Missouri,Sloan Swan,78775,Wyoming
+2024,12/29,Soldier Salute,157,L,MD,19 - 6,Paniro Johnson,68708,Iowa State,Sloan Swan,78775,Wyoming
+2024,12/29,Soldier Salute,157,W,DEC,5 - 0,Sebas Swiggum,57336,Minnesota,Sloan Swan,78775,Wyoming
+2024,12/29,Soldier Salute,157,W,TF5,23 - 8 7:00,Jaden Le,66968,Columbia,Sloan Swan,78775,Wyoming
+2024,12/29,Soldier Salute,157,W,TF5,19 - 4 7:00,Andrew Garr,57348,Columbia,Sloan Swan,78775,Wyoming
+2024,12/19,Oklahoma State - Wyoming Dual,157,L,DEC,6 - 2,Teague Travis,63722,Oklahoma State,Sloan Swan,78775,Wyoming
+2024,12/17,Reno TOC,157,W,TF5,16 - 0 6:06,Justin Windauer,90503,Montana State-Northern,Sloan Swan,78775,Wyoming
+2024,12/17,Reno TOC,157,W,MD,8 - 0,Anwar Alli,86004,EAP,Sloan Swan,78775,Wyoming
+2024,12/17,Reno TOC,157,W,FALL,3:43,Varrius Scanlan,83869,Umpqua Community College,Sloan Swan,78775,Wyoming
+2024,12/17,Reno TOC,157,W,TF5,16 - 1 6:03,John Wiley,73130,Oklahoma,Sloan Swan,78775,Wyoming
+2024,12/17,Reno TOC,157,L,DEC,6 - 1,Jared Hill,72164,Oklahoma,Sloan Swan,78775,Wyoming
+2024,02/18,Cowboy Shootout,157,W,FALL,2:17,Tyler Jones,79384,Utah Valley,Paolo Salminen,84640,Wyoming
+2024,02/18,Cowboy Shootout,157,W,DEC,4 - 1,Roman Cruz,79044,Northern Colorado,Paolo Salminen,84640,Wyoming
+2024,12/17,Reno TOC,157,L,MD,15 - 1,Cooper Voorhees,67459,Wyoming,Paolo Salminen,84640,Wyoming
+2024,12/17,Reno TOC,157,W,MD,14 - 5,Justin Windauer,90503,Montana State-Northern,Paolo Salminen,84640,Wyoming
+2024,12/17,Reno TOC,157,W,FALL,1:39,Michael Fox,78880,Eastern Oregon University,Paolo Salminen,84640,Wyoming
+2024,12/17,Reno TOC,157,L,TF5,20 - 5 6:20,John Wiley,73130,Oklahoma,Paolo Salminen,84640,Wyoming
+2024,12/17,Reno TOC,157,W,FALL,1:00,Kayd Craig,84406,Utah Valley,Paolo Salminen,84640,Wyoming
+2024,12/17,Reno TOC,157,W,FALL,2:30,Kydyn Lima,79191,San Francisco State,Paolo Salminen,84640,Wyoming
+2024,11/17,Wyoming - Campbell Dual,157,L,TF5,20 - 2 5:16,Chris Earnest,78840,Campbell,Paolo Salminen,84640,Wyoming
+2024,11/10,Wyoming - CSU Bakersfield Dual,157,W,FALL,1:32,Jacob Peralta,62860,CSU Bakersfield,Paolo Salminen,84640,Wyoming
+2024,11/18,Younes Hospitality Open,157,W,MD,17 - 8,Job Lee,85995,Northwest Kansas Technical College,Ridge Briggs,63589,Wyoming
+2024,11/18,Younes Hospitality Open,157,L,MD,10 - 2,Ethan Stiles,82465,Nebraska,Ridge Briggs,63589,Wyoming
+2024,11/18,Younes Hospitality Open,157,L,DEC,8 - 4,Keegan Luton,75703,Oklahoma City,Ridge Briggs,63589,Wyoming
+2024,11/18,Younes Hospitality Open,157,W,FALL,2:36,Evan Killgore,63577,New Mexico Highlands,Ridge Briggs,63589,Wyoming
+2024,11/18,Younes Hospitality Open,157,W,MD,10 - 2,Leo Mushinsky,59543,Mary,Ridge Briggs,63589,Wyoming
+2024,11/18,Younes Hospitality Open,157,W,SV-1,6 - 3,Tyler Collins,76019,Nebraska-Kearney,Ridge Briggs,63589,Wyoming
+2024,11/05,Western Wyoming College - Wyoming Dual,174,L,MD,9 - 1,Will Harmon,85944,Western Wyoming College,Ridge Briggs,63589,Wyoming
+2024,03/09,Big 12 Championships,165,L,DEC,2 - 1,Cael Carlson,57337,Oklahoma,Cooper Voorhees,67459,Wyoming
+2024,03/09,Big 12 Championships,165,W,DEC,11 - 7,Jaxon Garoutte,67450,Utah Valley,Cooper Voorhees,67459,Wyoming
+2024,03/09,Big 12 Championships,165,L,FALL,2:15,Keegan O'Toole,61119,Missouri,Cooper Voorhees,67459,Wyoming
+2024,03/09,Big 12 Championships,165,W,DEC,7 - 2,Mateo de la Pena,79039,Cal Baptist,Cooper Voorhees,67459,Wyoming
+2024,03/09,Big 12 Championships,165,L,MD,8 - 0,Giano Petrucelli,62610,Air Force,Cooper Voorhees,67459,Wyoming
+2024,02/18,Cowboy Shootout,165,W,DEC,4 - 2,Trevor Frank,84407,Utah Valley,Cooper Voorhees,67459,Wyoming
+2024,02/18,Cowboy Shootout,165,W,MD,17 - 5,Kayd Craig,84406,Utah Valley,Cooper Voorhees,67459,Wyoming
+2024,02/18,Cowboy Shootout,165,W,FALL,3:47,Ivan Morris,73046,Northern Colorado,Cooper Voorhees,67459,Wyoming
+2024,02/10,Oregon State - Wyoming Dual,165,W,DEC,4 - 1,Isaiah Crosby,65258,Oregon State,Cooper Voorhees,67459,Wyoming
+2024,02/04,North Dakota State - Wyoming Dual,165,W,DEC,9 - 5,Brendan Howes,73498,North Dakota State,Cooper Voorhees,67459,Wyoming
+2024,02/01,South Dakota State - Wyoming Dual,165,L,SV-1,4 - 1,Tanner Cook,51408,South Dakota State,Cooper Voorhees,67459,Wyoming
+2024,01/26,Northern Colorado - Wyoming Dual,165,W,DEC,6 - 2,Derek Matthews,73320,Northern Colorado,Cooper Voorhees,67459,Wyoming
+2024,01/20,Wyoming - Utah Valley Dual,165,W,DEC,12 - 10,Jaxon Garoutte,67450,Utah Valley,Cooper Voorhees,67459,Wyoming
+2024,01/12,Air Force - Wyoming Dual,165,L,MD,10 - 1,Giano Petrucelli,62610,Air Force,Cooper Voorhees,67459,Wyoming
+2024,01/06,Wyoming - Nebraska Dual,157,L,TF5,18 - 1 5:40,Peyton Robb,56387,Nebraska,Cooper Voorhees,67459,Wyoming
+2024,01/06,Wyoming - Northern Iowa Dual,157,L,TF5,16 - 0 5:17,Ryder Downey,78639,Northern Iowa,Cooper Voorhees,67459,Wyoming
+2024,12/29,Soldier Salute,157,L,DEC,9 - 5,Sebas Swiggum,57336,Minnesota,Cooper Voorhees,67459,Wyoming
+2024,12/29,Soldier Salute,157,L,MD,9 - 0,Jason Kraisser,57287,Iowa State,Cooper Voorhees,67459,Wyoming
+2024,12/29,Soldier Salute,157,L,FALL,2:58,Jaden Le,66968,Columbia,Cooper Voorhees,67459,Wyoming
+2024,12/29,Soldier Salute,157,W,MD,19 - 5,Jeb Prechtel,84844,Bellarmine,Cooper Voorhees,67459,Wyoming
+2024,12/29,Soldier Salute,157,W,DEC,7 - 1,Jeb Prechtel,84844,Bellarmine,Cooper Voorhees,67459,Wyoming
+2024,12/19,Oklahoma State - Wyoming Dual,165,L,TF5,20 - 4 6:15,Izzak Olejnik,56509,Oklahoma State,Cooper Voorhees,67459,Wyoming
+2024,12/17,Reno TOC,157,W,MD,15 - 1,Paolo Salminen,84640,Wyoming,Cooper Voorhees,67459,Wyoming
+2024,12/17,Reno TOC,157,L,DEC,8 - 3,Jared Hill,72164,Oklahoma,Cooper Voorhees,67459,Wyoming
+2024,12/17,Reno TOC,157,W,MFOR,0 - 0,Alex Ramirez,69971,Mt San Antonio Community College,Cooper Voorhees,67459,Wyoming
+2024,12/17,Reno TOC,157,W,FALL,4:55,Tyler Jones,79384,Utah Valley,Cooper Voorhees,67459,Wyoming
+2024,12/17,Reno TOC,157,W,DEC,4 - 1,Murphy Menke,79262,Oregon State,Cooper Voorhees,67459,Wyoming
+2024,12/17,Reno TOC,157,W,MD,16 - 6,Cade White,73209,Oregon State,Cooper Voorhees,67459,Wyoming
+2024,12/08,Wyoming - Missouri Dual,157,L,TF5,19 - 4 6:37,Brock Mauller,50596,Missouri,Cooper Voorhees,67459,Wyoming
+2024,12/01,Cliff Keen Invitational,157,L,DEC,4 - 2,Danny Nini,73105,North Carolina,Cooper Voorhees,67459,Wyoming
+2024,12/01,Cliff Keen Invitational,157,L,TF5,17 - 2 4:50,Daniel Cardenas,72978,Stanford,Cooper Voorhees,67459,Wyoming
+2024,11/11,Wyoming - Cal Baptist Dual,157,L,DEC,2 - 0,Carter Schubert,83539,Cal Baptist,Cooper Voorhees,67459,Wyoming
+2024,11/05,Western Wyoming College - Wyoming Dual,157,L,SV-1,13 - 10,Tristan Stafford,85943,Western Wyoming College,Cooper Voorhees,67459,Wyoming
+2024,02/18,Cowboy Shootout,165,L,SV-1,4 - 1,Brett McIntosh,62757,Wyoming,Seamus Casey,79036,Wyoming
+2024,02/18,Cowboy Shootout,165,L,DEC,5 - 0,Trevor Frank,84407,Utah Valley,Seamus Casey,79036,Wyoming
+2024,02/18,Cowboy Shootout,165,W,FALL,7:00,Mason Reiniche,67415,Oregon State,Seamus Casey,79036,Wyoming
+2024,02/18,Cowboy Shootout,165,L,SV-1,4 - 1,Mason Reiniche,67415,Oregon State,Seamus Casey,79036,Wyoming
+2024,02/18,Cowboy Shootout,165,L,FALL,3:54,Mason Reiniche,67415,Oregon State,Brett McIntosh,62757,Wyoming
+2024,02/18,Cowboy Shootout,165,W,SV-1,4 - 1,Seamus Casey,79036,Wyoming,Brett McIntosh,62757,Wyoming
+2024,01/06,Wyoming - Nebraska Dual,165,L,TF5,22 - 5 5:38,Antrell Taylor,72966,Nebraska,Brett McIntosh,62757,Wyoming
+2024,01/06,Wyoming - Northern Iowa Dual,165,L,FALL,6:22,Robert Weston,70922,Northern Iowa,Brett McIntosh,62757,Wyoming
+2024,12/29,Soldier Salute,165,L,TF5,20 - 3 7:00,Drake Rhodes,73705,Iowa,Brett McIntosh,62757,Wyoming
+2024,12/29,Soldier Salute,165,L,DEC,7 - 0,Blaine Brenner,72138,Minnesota,Brett McIntosh,62757,Wyoming
+2024,12/29,Soldier Salute,165,L,MD,14 - 0,Andrew Cerniglia,62439,Navy,Brett McIntosh,62757,Wyoming
+2024,12/29,Soldier Salute,165,W,MD,12 - 2,Luke Hart,72524,VMI,Brett McIntosh,62757,Wyoming
+2024,12/29,Soldier Salute,165,W,DEC,5 - 4,Luke Hart,72524,VMI,Brett McIntosh,62757,Wyoming
+2024,12/19,Oklahoma State - Wyoming Dual,174,L,MD,12 - 2,Brayden Thompson,78507,Oklahoma State,Brett McIntosh,62757,Wyoming
+2024,12/17,Reno TOC,165,W,FALL,1:10,Caleb McDonald,89782,Clackamas Community College,Brett McIntosh,62757,Wyoming
+2024,12/17,Reno TOC,165,W,FALL,6:28,Noah Hollendonner,83068,Marian University,Brett McIntosh,62757,Wyoming
+2024,12/17,Reno TOC,165,L,DEC,4 - 2,Jack Ervien,61608,Grand View,Brett McIntosh,62757,Wyoming
+2024,12/17,Reno TOC,165,L,TF5,16 - 1 7:00,Nicco Ruiz,78681,Arizona State,Brett McIntosh,62757,Wyoming
+2024,12/08,Wyoming - Missouri Dual,165,L,FALL,0:35,Keegan O'Toole,61119,Missouri,Brett McIntosh,62757,Wyoming
+2024,12/01,Cliff Keen Invitational,165,L,MD,15 - 2,Matthew Olguin,57218,Oregon State,Brett McIntosh,62757,Wyoming
+2024,12/01,Cliff Keen Invitational,165,L,MD,8 - 0,Jaxon Garoutte,67450,Utah Valley,Brett McIntosh,62757,Wyoming
+2024,11/17,Wyoming - Campbell Dual,165,W,DEC,6 - 5,Domonic Baker,71742,Campbell,Brett McIntosh,62757,Wyoming
+2024,11/11,Wyoming - Cal Baptist Dual,165,L,FALL,2:13,Mateo de la Pena,79039,Cal Baptist,Brett McIntosh,62757,Wyoming
+2024,11/10,Wyoming - CSU Bakersfield Dual,165,W,DEC,2 - 1,Guillermo Escobedo,66969,CSU Bakersfield,Brett McIntosh,62757,Wyoming
+2024,11/05,Western Wyoming College - Wyoming Dual,165,W,MD,17 - 6,Jayden Luttrell,78806,Western Wyoming College,Brett McIntosh,62757,Wyoming
+2024,03/09,Big 12 Championships,174,L,DEC,7 - 1,Brody Conley,71814,West Virginia,Quayin Short,70764,Wyoming
+2024,03/09,Big 12 Championships,174,L,TF5,15 - 0 2:12,Gaven Sax,65396,North Dakota State,Quayin Short,70764,Wyoming
+2024,02/18,Cowboy Shootout,174,W,MD,9 - 1,TJ McDonnell,79786,Oregon State,Quayin Short,70764,Wyoming
+2024,02/18,Cowboy Shootout,174,W,DEC,5 - 0,Bryce Garcia,78424,Northern Colorado,Quayin Short,70764,Wyoming
+2024,02/18,Cowboy Shootout,174,W,MD,14 - 2,Merrell Morley,73064,Utah Valley,Quayin Short,70764,Wyoming
+2024,02/10,Oregon State - Wyoming Dual,174,L,DEC,7 - 3,Matthew Olguin,57218,Oregon State,Quayin Short,70764,Wyoming
+2024,02/04,North Dakota State - Wyoming Dual,174,L,TF5,17 - 0 3:53,Gaven Sax,65396,North Dakota State,Quayin Short,70764,Wyoming
+2024,02/01,South Dakota State - Wyoming Dual,174,L,MD,15 - 3,Cade DeVos,57072,South Dakota State,Quayin Short,70764,Wyoming
+2024,01/26,Northern Colorado - Wyoming Dual,174,L,DEC,4 - 2,Travis Mastrogiovanni,67221,Northern Colorado,Quayin Short,70764,Wyoming
+2024,01/20,Wyoming - Utah Valley Dual,174,W,DEC,3 - 2,Caleb Uhlenhopp,79836,Utah Valley,Quayin Short,70764,Wyoming
+2024,01/12,Air Force - Wyoming Dual,174,W,DEC,5 - 1,Gage Musser,71710,Air Force,Quayin Short,70764,Wyoming
+2024,12/29,Soldier Salute,184,L,DEC,9 - 2,John Gunderson,73049,Unattached,Quayin Short,70764,Wyoming
+2024,12/29,Soldier Salute,184,W,TF5,16 - 1 7:00,Jared Thiry,84460,South Dakota State,Quayin Short,70764,Wyoming
+2024,12/29,Soldier Salute,184,W,TF5,18 - 2 7:00,Aidan McCain,82499,Iowa,Quayin Short,70764,Wyoming
+2024,12/29,Soldier Salute,184,L,DEC,5 - 4,Colton Hawks,62375,Missouri,Quayin Short,70764,Wyoming
+2024,12/29,Soldier Salute,184,L,DEC,4 - 1,Jack McGill,71733,Columbia,Quayin Short,70764,Wyoming
+2024,12/19,Oklahoma State - Wyoming Dual,184,L,FALL,1:31,Dustin Plott,57607,Oklahoma State,Quayin Short,70764,Wyoming
+2024,12/17,Reno TOC,184,W,FALL,0:23,Joseph Dervartanian,88392,Vanguard University,Quayin Short,70764,Wyoming
+2024,12/17,Reno TOC,184,L,MD,15 - 6,Isaiah Luellen,81851,Grand View,Quayin Short,70764,Wyoming
+2024,12/17,Reno TOC,184,W,DEC,6 - 3,Darion Johnson,78709,Western Wyoming College,Quayin Short,70764,Wyoming
+2024,12/17,Reno TOC,184,W,TF5,19 - 2 6:22,Ethan Miller,75839,Southern Oregon,Quayin Short,70764,Wyoming
+2024,12/17,Reno TOC,184,L,DEC,7 - 2,Guiseppe Hoose,56371,Oklahoma,Quayin Short,70764,Wyoming
+2024,12/08,Wyoming - Missouri Dual,184,L,MD,12 - 4,Clayton Whiting,72552,Missouri,Quayin Short,70764,Wyoming
+2024,12/01,Cliff Keen Invitational,184,W,SV-1,7 - 4,Chase Mielnik,67431,Maryland,Quayin Short,70764,Wyoming
+2024,12/01,Cliff Keen Invitational,184,L,FALL,0:50,Lenny Pinto,63137,Nebraska,Quayin Short,70764,Wyoming
+2024,12/01,Cliff Keen Invitational,184,L,DEC,4 - 3,Sam Fisher,62358,Virginia Tech,Quayin Short,70764,Wyoming
+2024,12/17,Reno TOC,174,W,DEC,7 - 2,Jordan Komac,90500,Providence,Riley Davis,81798,Wyoming
+2024,12/17,Reno TOC,174,L,DQ,0 - 0,Alex Hernandez,82185,Southern Oregon,Riley Davis,81798,Wyoming
+2024,12/17,Reno TOC,174,W,MD,13 - 1,Merrell Morley,73064,Utah Valley,Riley Davis,81798,Wyoming
+2024,12/17,Reno TOC,174,L,FALL,5:39,Benjamin Mower,79261,Oklahoma State,Riley Davis,81798,Wyoming
+2024,12/08,Wyoming - Missouri Dual,174,L,FALL,5:06,Peyton Mocco,50635,Missouri,Riley Davis,81798,Wyoming
+2024,12/01,Cliff Keen Invitational,174,W,DEC,4 - 1,Marcus Murabito,78999,North Carolina,Riley Davis,81798,Wyoming
+2024,12/01,Cliff Keen Invitational,174,L,DEC,5 - 1,Lorenzo Norman,78822,Stanford,Riley Davis,81798,Wyoming
+2024,12/01,Cliff Keen Invitational,174,L,DEC,11 - 10,Jared Simma,73007,Northern Iowa,Riley Davis,81798,Wyoming
+2024,12/01,Cliff Keen Invitational,174,W,DEC,4 - 1,Lucas Uliano,71130,Appalachian State,Riley Davis,81798,Wyoming
+2024,12/01,Cliff Keen Invitational,174,W,DEC,16 - 14,David Ferrante,57710,Northwestern,Riley Davis,81798,Wyoming
+2024,11/17,Wyoming - Campbell Dual,174,L,DEC,16 - 15,Austin Murphy,51608,Campbell,Riley Davis,81798,Wyoming
+2024,11/11,Wyoming - Cal Baptist Dual,174,W,DEC,4 - 1,Peter Acciardi,51069,Cal Baptist,Riley Davis,81798,Wyoming
+2024,11/10,Wyoming - CSU Bakersfield Dual,174,W,FALL,2:28,Evan Gilbert,82744,CSU Bakersfield,Riley Davis,81798,Wyoming
+2024,01/06,Wyoming - Nebraska Dual,174,L,FALL,0:50,Bubba Wilson,57936,Nebraska,Kevin Anderson,66453,Wyoming
+2024,01/06,Wyoming - Northern Iowa Dual,174,L,TF5,15 - 0 2:56,Jared Simma,73007,Northern Iowa,Kevin Anderson,66453,Wyoming
+2024,03/09,Big 12 Championships,184,L,FALL,2:32,Dennis Robin,69638,West Virginia,Ethan Ducca,62334,Wyoming
+2024,03/09,Big 12 Championships,184,W,SV-1,4 - 1,Guiseppe Hoose,56371,Oklahoma,Ethan Ducca,62334,Wyoming
+2024,03/09,Big 12 Championships,184,L,TF5,21 - 4 5:33,Parker Keckeisen,56724,Northern Iowa,Ethan Ducca,62334,Wyoming
+2024,03/09,Big 12 Championships,184,W,DEC,4 - 3,Branson Britten,71938,Northern Colorado,Ethan Ducca,62334,Wyoming
+2024,03/09,Big 12 Championships,184,L,TF5,18 - 1 6:18,Will Feldkamp,51599,Iowa State,Ethan Ducca,62334,Wyoming
+2024,02/18,Cowboy Shootout,184,W,MD,14 - 4,Radi Stafford,84801,Utah Valley,Ethan Ducca,62334,Wyoming
+2024,02/18,Cowboy Shootout,184,W,TF5,21 - 5 3:44,Hunter Morse,64816,Utah Valley,Ethan Ducca,62334,Wyoming
+2024,02/10,Oregon State - Wyoming Dual,184,L,TF5,20 - 1 5:00,Trey Munoz,59555,Oregon State,Ethan Ducca,62334,Wyoming
+2024,02/04,North Dakota State - Wyoming Dual,184,W,MD,12 - 3,Adam Cherne,83374,North Dakota State,Ethan Ducca,62334,Wyoming
+2024,02/01,South Dakota State - Wyoming Dual,184,L,MD,12 - 2,Bennett Berge,73099,South Dakota State,Ethan Ducca,62334,Wyoming
+2024,01/26,Northern Colorado - Wyoming Dual,184,W,DEC,8 - 3,Damen Pape,62688,Northern Colorado,Ethan Ducca,62334,Wyoming
+2024,11/17,Wyoming - Campbell Dual,184,L,DEC,4 - 3,Caleb Hopkins,56482,Campbell,Ethan Ducca,62334,Wyoming
+2024,11/11,Wyoming - Cal Baptist Dual,184,W,DEC,9 - 5,Nathan Haas,62341,Cal Baptist,Ethan Ducca,62334,Wyoming
+2024,11/10,Wyoming - CSU Bakersfield Dual,184,W,MD,14 - 3,Braden Smelser,70199,CSU Bakersfield,Ethan Ducca,62334,Wyoming
+2024,11/05,Western Wyoming College - Wyoming Dual,184,W,DEC,4 - 2,Darion Johnson,78709,Western Wyoming College,Ethan Ducca,62334,Wyoming
+2024,03/21,NCAA Championships,197,L,MD,13 - 5,Stephen Little,73285,Little Rock,Joey Novak,79289,Wyoming
+2024,03/21,NCAA Championships,197,W,DEC,9 - 5,Max Shaw,61959,North Carolina,Joey Novak,79289,Wyoming
+2024,03/21,NCAA Championships,197,L,FALL,2:21,Aaron Brooks,54280,Penn State,Joey Novak,79289,Wyoming
+2024,03/21,NCAA Championships,197,W,DEC,9 - 6,Luke Stout,62599,Princeton,Joey Novak,79289,Wyoming
+2024,03/09,Big 12 Championships,197,L,DEC,6 - 4,Stephen Buchanan,60451,Oklahoma,Joey Novak,79289,Wyoming
+2024,03/09,Big 12 Championships,197,W,DEC,10 - 8,Wyatt Voelker,73956,Northern Iowa,Joey Novak,79289,Wyoming
+2024,03/09,Big 12 Championships,197,W,FALL,5:18,Xavier Vasquez,49233,Northern Colorado,Joey Novak,79289,Wyoming
+2024,03/09,Big 12 Championships,197,L,DEC,5 - 1,Rocky Elam,62027,Missouri,Joey Novak,79289,Wyoming
+2024,03/09,Big 12 Championships,197,W,MD,12 - 4,Eli Sheeran,71783,Cal Baptist,Joey Novak,79289,Wyoming
+2024,03/09,Big 12 Championships,197,W,FALL,3:39,Calvin Sund,57634,Air Force,Joey Novak,79289,Wyoming
+2024,02/04,North Dakota State - Wyoming Dual,197,W,MD,13 - 1,Spencer Mooberry,69967,North Dakota State,Joey Novak,79289,Wyoming
+2024,01/26,Northern Colorado - Wyoming Dual,197,W,FALL,4:52,Xavier Vasquez,49233,Northern Colorado,Joey Novak,79289,Wyoming
+2024,01/20,Wyoming - Utah Valley Dual,197,L,SV-1,4 - 1,Evan Bockman,57270,Utah Valley,Joey Novak,79289,Wyoming
+2024,01/12,Air Force - Wyoming Dual,197,W,TF5,16 - 0 5:00,Calvin Sund,57634,Air Force,Joey Novak,79289,Wyoming
+2024,01/06,Wyoming - Nebraska Dual,197,L,FALL,2:15,Silas Allred,62343,Nebraska,Joey Novak,79289,Wyoming
+2024,01/06,Wyoming - Northern Iowa Dual,197,L,DEC,5 - 3,Wyatt Voelker,73956,Northern Iowa,Joey Novak,79289,Wyoming
+2024,12/29,Soldier Salute,197,L,DEC,7 - 2,AJ Ferrari,62936,Unattached,Joey Novak,79289,Wyoming
+2024,12/29,Soldier Salute,197,W,DEC,6 - 1,Gavin Nelson,72648,Minnesota,Joey Novak,79289,Wyoming
+2024,12/29,Soldier Salute,197,W,DEC,10 - 3,Gavin Nelson,72648,Minnesota,Joey Novak,79289,Wyoming
+2024,12/29,Soldier Salute,197,W,SV-1,4 - 1,Garrett Joles,50908,Minnesota,Joey Novak,79289,Wyoming
+2024,12/29,Soldier Salute,197,W,DEC,13 - 7,Jack Wehmeyer,71793,Columbia,Joey Novak,79289,Wyoming
+2024,12/19,Oklahoma State - Wyoming Dual,197,W,FALL,6:21,Jersey Robb,75825,Oklahoma State,Joey Novak,79289,Wyoming
+2024,12/17,Reno TOC,197,W,FALL,5:21,Wesley Reeves,85946,Western Wyoming College,Joey Novak,79289,Wyoming
+2024,12/17,Reno TOC,197,W,TF5,17 - 0 4:16,Jay Smith,77753,Eastern Oregon University,Joey Novak,79289,Wyoming
+2024,12/17,Reno TOC,197,L,DEC,11 - 4,Stephen Buchanan,60451,Oklahoma,Joey Novak,79289,Wyoming
+2024,12/17,Reno TOC,197,W,DEC,7 - 2,Justin Rademacher,78725,Oregon State,Joey Novak,79289,Wyoming
+2024,12/17,Reno TOC,197,W,TF5,22 - 3 6:09,Mason Christiansen,67100,Oregon State,Joey Novak,79289,Wyoming
+2024,12/08,Wyoming - Missouri Dual,197,L,DEC,5 - 3,Rocky Elam,62027,Missouri,Joey Novak,79289,Wyoming
+2024,12/01,Cliff Keen Invitational,197,W,FALL,5:58,Luke Geog,75490,Ohio State,Joey Novak,79289,Wyoming
+2024,12/01,Cliff Keen Invitational,197,L,DEC,14 - 7,Nick Stemmet,63032,Stanford,Joey Novak,79289,Wyoming
+2024,12/01,Cliff Keen Invitational,197,L,DEC,5 - 2,Levi Hopkins,62508,Campbell,Joey Novak,79289,Wyoming
+2024,12/01,Cliff Keen Invitational,197,L,FALL,4:57,Silas Allred,62343,Nebraska,Joey Novak,79289,Wyoming
+2024,12/01,Cliff Keen Invitational,197,W,SV-1,9 - 6,Evan Bockman,57270,Utah Valley,Joey Novak,79289,Wyoming
+2024,12/01,Cliff Keen Invitational,197,W,DEC,8 - 6,Jack Wehmeyer,71793,Columbia,Joey Novak,79289,Wyoming
+2024,12/01,Cliff Keen Invitational,197,W,TF5,15 - 0 4:53,Nathanic Kendricks,85304,Morgan State,Joey Novak,79289,Wyoming
+2024,11/17,Wyoming - Campbell Dual,197,L,DEC,2 - 0,Levi Hopkins,62508,Campbell,Joey Novak,79289,Wyoming
+2024,11/11,Wyoming - Cal Baptist Dual,197,W,FALL,6:09,Eli Sheeran,71783,Cal Baptist,Joey Novak,79289,Wyoming
+2024,11/10,Wyoming - CSU Bakersfield Dual,197,W,TF5,17 - 2 3:00,Khristian Dove,79004,CSU Bakersfield,Joey Novak,79289,Wyoming
+2024,02/18,Cowboy Shootout,197,W,CMFF,0 - 0,Kael Bennie,84802,Utah Valley,Tyce Raddon,67096,Wyoming
+2024,02/18,Cowboy Shootout,197,L,DEC,3 - 0,Kael Bennie,84802,Utah Valley,Tyce Raddon,67096,Wyoming
+2024,02/10,Oregon State - Wyoming Dual,197,L,TF5,20 - 4 3:39,Justin Rademacher,78725,Oregon State,Tyce Raddon,67096,Wyoming
+2024,02/01,South Dakota State - Wyoming Dual,197,L,FALL,1:23,Tanner Sloan,56251,South Dakota State,Tyce Raddon,67096,Wyoming
+2024,01/20,Wyoming - Utah Valley Dual,184,L,DEC,10 - 4,Mahonri Rushton,73063,Utah Valley,Tyce Raddon,67096,Wyoming
+2024,01/12,Air Force - Wyoming Dual,184,L,MD,15 - 4,Sam Wolf,66631,Air Force,Tyce Raddon,67096,Wyoming
+2024,01/06,Wyoming - Nebraska Dual,184,L,DEC,10 - 3,Elise Brown Ton,67059,Nebraska,Tyce Raddon,67096,Wyoming
+2024,01/06,Wyoming - Northern Iowa Dual,184,L,TF5,18 - 2 5:08,Parker Keckeisen,56724,Northern Iowa,Tyce Raddon,67096,Wyoming
+2024,12/29,Soldier Salute,184,L,DEC,7 - 6,Ethan DeLeon,84338,Nebraska,Tyce Raddon,67096,Wyoming
+2024,12/29,Soldier Salute,184,L,DEC,7 - 3,Aiden Riggins,73562,Iowa,Tyce Raddon,67096,Wyoming
+2024,12/29,Soldier Salute,184,L,TF5,17 - 1 7:00,Isaiah Salazar,62340,Minnesota,Tyce Raddon,67096,Wyoming
+2024,12/29,Soldier Salute,184,W,MD,17 - 6,Sam Schroeder,67333,Bellarmine,Tyce Raddon,67096,Wyoming
+2024,12/29,Soldier Salute,184,W,MD,15 - 6,Sam Schroeder,67333,Bellarmine,Tyce Raddon,67096,Wyoming
+2024,12/17,Reno TOC,184,W,DEC,9 - 2,John White,77909,Southern Oregon,Tyce Raddon,67096,Wyoming
+2024,12/17,Reno TOC,184,W,DEC,4 - 2,Rylin Burns,77378,Montana State-Northern,Tyce Raddon,67096,Wyoming
+2024,12/17,Reno TOC,184,W,TF5,15 - 0 7:00,Will Stewart,75880,Marian University,Tyce Raddon,67096,Wyoming
+2024,12/17,Reno TOC,184,L,DEC,6 - 2,Guiseppe Hoose,56371,Oklahoma,Tyce Raddon,67096,Wyoming
+2024,12/17,Reno TOC,184,L,TB-2,2 - 1,Mahonri Rushton,73063,Utah Valley,Tyce Raddon,67096,Wyoming
+2024,11/18,Younes Hospitality Open,197,W,TF5,19 - 2 7:00,Zach Ferris,75835,New Mexico Highlands,Tyce Raddon,67096,Wyoming
+2024,11/18,Younes Hospitality Open,197,W,DEC,8 - 4,Ryan Patterson,78667,Fort Hays State,Tyce Raddon,67096,Wyoming
+2024,11/18,Younes Hospitality Open,197,L,DEC,8 - 4,Gabriel Carranza,69562,Colorado Mesa,Tyce Raddon,67096,Wyoming
+2024,11/18,Younes Hospitality Open,197,L,DEC,8 - 3,Jackson Kinsella,76024,Nebraska-Kearney,Tyce Raddon,67096,Wyoming
+2024,11/05,Western Wyoming College - Wyoming Dual,197,W,FALL,1:38,Wesley Reeves,85946,Western Wyoming College,Tyce Raddon,67096,Wyoming
+2024,01/12,Air Force - Wyoming Dual,285,L,FALL,0:38,Wyatt Hendrickson,56694,Air Force,Colby Huynh,66564,Wyoming
+2024,12/29,Soldier Salute,197,L,FALL,4:20,McCrae Hagarty,79557,Iowa State,Colby Huynh,66564,Wyoming
+2024,12/29,Soldier Salute,197,L,DEC,6 - 1,Jesse Cassat,73384,Missouri,Colby Huynh,66564,Wyoming
+2024,12/29,Soldier Salute,197,W,DEC,4 - 3,Josh Evans,72531,VMI,Colby Huynh,66564,Wyoming
+2024,03/09,Big 12 Championships,285,L,DEC,6 - 4,Michael Wolfgram,57526,West Virginia,Kevin Zimmer,72685,Wyoming
+2024,03/09,Big 12 Championships,285,L,DEC,7 - 5,Luke Rasmussen,72722,South Dakota State,Kevin Zimmer,72685,Wyoming
+2024,02/18,Cowboy Shootout,285,W,DEC,8 - 5,Jack Forbes,71805,Utah Valley,Kevin Zimmer,72685,Wyoming
+2024,02/18,Cowboy Shootout,285,W,INJ,7:00,Tyler Perry,79045,Northern Colorado,Kevin Zimmer,72685,Wyoming
+2024,02/10,Oregon State - Wyoming Dual,285,L,FALL,5:55,Boone McDermott,56898,Oregon State,Kevin Zimmer,72685,Wyoming
+2024,02/04,North Dakota State - Wyoming Dual,285,L,DEC,9 - 4,Devon Dawson,75888,North Dakota State,Kevin Zimmer,72685,Wyoming
+2024,12/29,Soldier Salute,285,L,DEC,9 - 5,Nate Schon,70913,Iowa State,Kevin Zimmer,72685,Wyoming
+2024,12/29,Soldier Salute,285,L,MFOR,0 - 0,William Muckler,73536,Bellarmine,Kevin Zimmer,72685,Wyoming
+2024,12/19,Oklahoma State - Wyoming Dual,285,L,DEC,5 - 1,Konner Doucet,57801,Oklahoma State,Kevin Zimmer,72685,Wyoming
+2024,12/17,Reno TOC,285,L,SV-1,8 - 5,Kc Buday,90504,Providence,Kevin Zimmer,72685,Wyoming
+2024,12/17,Reno TOC,285,W,FALL,2:10,Corbin Hayes,86370,Embry-Riddle,Kevin Zimmer,72685,Wyoming
+2024,12/17,Reno TOC,285,W,DEC,6 - 4,Dmarian Lopez,85945,Western Wyoming College,Kevin Zimmer,72685,Wyoming
+2024,12/17,Reno TOC,285,W,DEC,5 - 3,Antonio Garcia,69667,Unattached,Kevin Zimmer,72685,Wyoming
+2024,12/17,Reno TOC,285,W,DEC,4 - 0,Jack Forbes,71805,Utah Valley,Kevin Zimmer,72685,Wyoming
+2024,12/17,Reno TOC,285,W,CMFF,0 - 0,Chase Trussell,57046,Utah Valley,Kevin Zimmer,72685,Wyoming
+2024,12/01,Cliff Keen Invitational,285,L,TF5,15 - 0 3:52,Hunter Catka,62425,Virginia Tech,Kevin Zimmer,72685,Wyoming
+2024,12/01,Cliff Keen Invitational,285,L,DEC,2 - 0,Seth Nevills,50625,Maryland,Kevin Zimmer,72685,Wyoming
+2024,12/01,Cliff Keen Invitational,285,W,FALL,0:57,Ben Stemmet,65010,The Citadel,Kevin Zimmer,72685,Wyoming
+2024,11/17,Wyoming - Campbell Dual,285,L,FALL,3:47,Taye Ghadiali,62500,Campbell,Kevin Zimmer,72685,Wyoming
+2024,11/11,Wyoming - Cal Baptist Dual,285,W,DEC,4 - 1,Max Acciardi,78995,Cal Baptist,Kevin Zimmer,72685,Wyoming
+2024,11/10,Wyoming - CSU Bakersfield Dual,285,W,DEC,4 - 1,Jake Andrews,73174,CSU Bakersfield,Kevin Zimmer,72685,Wyoming
+2024,11/05,Western Wyoming College - Wyoming Dual,285,W,MD,12 - 3,Dmarian Lopez,85945,Western Wyoming College,Kevin Zimmer,72685,Wyoming
+2024,02/18,Cowboy Shootout,285,L,DEC,2 - 1,Lane Caitlin,84599,Wyoming,Winston McBride,84600,Wyoming
+2024,02/18,Cowboy Shootout,285,L,MD,12 - 2,Tyler Perry,79045,Northern Colorado,Winston McBride,84600,Wyoming
+2024,02/18,Cowboy Shootout,285,W,FALL,1:29,Bradley Moore,75108,Wyoming,Winston McBride,84600,Wyoming
+2024,02/18,Cowboy Shootout,285,L,TF5,18 - 2 4:00,Jack Forbes,71805,Utah Valley,Winston McBride,84600,Wyoming
+2024,12/17,Reno TOC,285,W,TF5,15 - 0 7:00,Abdullah Razzak,73931,St Ambrose,Winston McBride,84600,Wyoming
+2024,12/17,Reno TOC,285,L,TF5,16 - 1 3:57,Antonio Garcia,69667,Unattached,Winston McBride,84600,Wyoming
+2024,12/17,Reno TOC,285,L,TF5,21 - 6 4:00,Josh Heindselman,57311,Oklahoma,Winston McBride,84600,Wyoming
+2024,01/20,Wyoming - Utah Valley Dual,285,L,DEC,8 - 3,Chase Trussell,57046,Utah Valley,Mason Ding,71706,Wyoming
+2024,01/06,Wyoming - Nebraska Dual,285,L,FALL,2:07,Nash Hutmacher,92047,Nebraska,Mason Ding,71706,Wyoming
+2024,01/06,Wyoming - Northern Iowa Dual,285,L,MD,9 - 0,Tyrell Gordon,51694,Northern Iowa,Mason Ding,71706,Wyoming
+2024,12/17,Reno TOC,285,W,FALL,1:32,Jeremiah Morris,82896,St Ambrose,Mason Ding,71706,Wyoming
+2024,12/17,Reno TOC,285,W,TF5,19 - 4 6:02,Sven Lukner,82194,Corban University,Mason Ding,71706,Wyoming
+2024,12/17,Reno TOC,285,L,FALL,4:02,Antonio Garcia,69667,Unattached,Mason Ding,71706,Wyoming
+2024,12/17,Reno TOC,285,L,DEC,10 - 5,Charles Hastriter,69318,Oregon State,Mason Ding,71706,Wyoming
+2024,12/08,Wyoming - Missouri Dual,285,L,FALL,0:40,Zach Elam,51612,Missouri,Mason Ding,71706,Wyoming
+2024,02/18,Cowboy Shootout,285,L,FALL,1:29,Winston McBride,84600,Wyoming,Bradley Moore,75108,Wyoming
+2024,02/18,Cowboy Shootout,285,W,TF5,17 - 2 4:44,Lane Caitlin,84599,Wyoming,Bradley Moore,75108,Wyoming
+2024,02/18,Cowboy Shootout,285,W,MFOR,0 - 0,Tyler Perry,79045,Northern Colorado,Bradley Moore,75108,Wyoming
+2024,02/18,Cowboy Shootout,285,L,MD,14 - 3,Jack Forbes,71805,Utah Valley,Bradley Moore,75108,Wyoming
+2024,02/01,South Dakota State - Wyoming Dual,285,L,DEC,8 - 4,Luke Rasmussen,72722,South Dakota State,Bradley Moore,75108,Wyoming
+2024,01/26,Northern Colorado - Wyoming Dual,285,L,FALL,1:17,Andrew Blackburn-Forst,78095,Northern Colorado,Bradley Moore,75108,Wyoming
+2024,02/18,Cowboy Shootout,285,L,TF5,17 - 2 4:44,Bradley Moore,75108,Wyoming,Lane Caitlin,84599,Wyoming
+2024,02/18,Cowboy Shootout,285,W,DEC,2 - 1,Winston McBride,84600,Wyoming,Lane Caitlin,84599,Wyoming
+2024,02/18,Cowboy Shootout,285,L,DEC,9 - 6,Tyler Perry,79045,Northern Colorado,Lane Caitlin,84599,Wyoming
+2024,02/18,Cowboy Shootout,285,L,TF5,19 - 3 6:05,Jack Forbes,71805,Utah Valley,Lane Caitlin,84599,Wyoming
+2024,12/17,Reno TOC,285,L,FALL,2:51,Kenneth Copley,89518,Embry-Riddle,Lane Caitlin,84599,Wyoming
+2024,12/17,Reno TOC,285,L,MD,15 - 7,Sebastian Echeverria,88333,Southern Oregon,Lane Caitlin,84599,Wyoming

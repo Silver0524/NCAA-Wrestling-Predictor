@@ -1,0 +1,519 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2023,03/03,MAC Championships,125,L,DEC,11 - 9,Tyler Klinsky,62353,Rider,Austin Macias,57088,Siu Edwardsville
+2023,03/03,MAC Championships,125,L,DEC,4 - 2,Oscar Sanchez,57320,Ohio,Austin Macias,57088,Siu Edwardsville
+2023,02/19,Northern Illinois - Southern Illinois Edwardsville Dual,125,L,MD,11 - 3,Blake West,73337,Northern Illinois,Austin Macias,57088,Siu Edwardsville
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,125,L,MD,15 - 7,Jeremiah Reno,62342,Little Rock,Austin Macias,57088,Siu Edwardsville
+2023,02/12,Ohio - Southern Illinois Edwardsville Dual,125,L,DEC,10 - 3,Oscar Sanchez,57320,Ohio,Austin Macias,57088,Siu Edwardsville
+2023,02/05,Greyhound Open,125,W,FALL,0:55,Taraen High,83577,Manchester,Austin Macias,57088,Siu Edwardsville
+2023,02/05,Greyhound Open,125,W,TF5,16 - 0 7:00,Atticus Waddell,80696,Wabash,Austin Macias,57088,Siu Edwardsville
+2023,02/05,Greyhound Open,125,L,MD,13 - 2,James Day,80659,Wabash,Austin Macias,57088,Siu Edwardsville
+2023,02/05,Greyhound Open,125,W,DEC,7 - 5,Alex Cottey,73350,Marian University,Austin Macias,57088,Siu Edwardsville
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,125,L,TF5,24 - 5 6:01,Jake Ferri,51179,Kent State,Austin Macias,57088,Siu Edwardsville
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,125,L,FALL,2:52,Drew West,50041,Gardner-Webb,Austin Macias,57088,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,125,L,DEC,11 - 5,Davian Guanajuato,74863,SIU Edwardsville,Austin Macias,57088,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,125,L,TF5,17 - 0 7:00,Jayden Carson,62838,Little Rock,Austin Macias,57088,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,125,L,FALL,0:53,Jeremiah Reno,62342,Little Rock,Austin Macias,57088,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,125,W,DEC,7 - 3,Ben Lindley,62972,Lindenwood,Austin Macias,57088,Siu Edwardsville
+2023,11/19,Lindenwood Open,125,L,FALL,5:49,Jaxson Roney,74263,University of the Ozarks,Austin Macias,57088,Siu Edwardsville
+2023,11/19,Lindenwood Open,125,L,FALL,4:57,Christian Mejia,56521,McKendree University,Austin Macias,57088,Siu Edwardsville
+2023,11/19,Lindenwood Open,125,W,DEC,8 - 1,Alec Bailey,70720,Lindenwood,Austin Macias,57088,Siu Edwardsville
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,125,L,MD,18 - 6,Tyler Klinsky,62353,Rider,Austin Macias,57088,Siu Edwardsville
+2023,11/04,Indiana - Southern Illinois Edwardsville Dual,125,L,MD,13 - 2,Jacob Moran,63550,Indiana,Austin Macias,57088,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - Cleveland State Dual,125,L,MD,11 - 3,Benjamin Aranda,71804,Cleveland State,Davian Guanajuato,74863,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - George Mason Dual,125,L,TF5,24 - 9 5:57,Markel Baker,78892,George Mason,Davian Guanajuato,74863,Siu Edwardsville
+2023,01/22,Lindenwood (Mo) - Southern Illinois Edwardsville Dual,125,W,DEC,8 - 6,Austin Kegley,70722,Lindenwood,Davian Guanajuato,74863,Siu Edwardsville
+2023,01/15,Southern Illinois Edwardsville - Central Michigan Dual,125,L,TF5,16 - 0 7:00,Sean Spidle,63063,Central Michigan,Davian Guanajuato,74863,Siu Edwardsville
+2023,01/08,Buffalo - Southern Illinois Edwardsville Dual,125,W,DEC,5 - 3,Mason Bush,72224,Buffalo,Davian Guanajuato,74863,Siu Edwardsville
+2023,12/29,Midlands Championships,125,L,TF5,16 - 0 7:00,Colton Camacho,58029,Pittsburgh,Davian Guanajuato,74863,Siu Edwardsville
+2023,12/29,Midlands Championships,125,L,FALL,3:46,Brandon Courtney,50881,Arizona State,Davian Guanajuato,74863,Siu Edwardsville
+2023,12/16,Clarion - Southern Illinois Edwardsville Dual,125,L,DEC,4 - 3,Joseph Fischer,68702,Clarion,Davian Guanajuato,74863,Siu Edwardsville
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,125,W,DEC,7 - 2,Logan Ashton,57605,Chattanooga,Davian Guanajuato,74863,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,125,W,DEC,11 - 5,Austin Macias,57088,SIU Edwardsville,Davian Guanajuato,74863,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,125,L,DEC,11 - 4,Jayden Carson,62838,Little Rock,Davian Guanajuato,74863,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,125,L,TF5,20 - 2 7:00,Jeremiah Reno,62342,Little Rock,Davian Guanajuato,74863,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,125,W,MD,13 - 3,Austin Kegley,70722,Lindenwood,Davian Guanajuato,74863,Siu Edwardsville
+2023,11/19,Lindenwood Open,125,L,FALL,3:49,Zach Blankenship,78461,Oklahoma State,Davian Guanajuato,74863,Siu Edwardsville
+2023,11/19,Lindenwood Open,125,W,DEC,7 - 2,Garrett Steidley,69908,Central Oklahoma,Davian Guanajuato,74863,Siu Edwardsville
+2023,11/19,Lindenwood Open,125,W,DEC,4 - 2,Garrett Steidley,69908,Central Oklahoma,Davian Guanajuato,74863,Siu Edwardsville
+2023,11/19,Lindenwood Open,125,L,TF5,18 - 0 7:00,Jayden Carson,62838,Little Rock,Davian Guanajuato,74863,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,125,W,DEC,4 - 0,Austin Pimentel,80235,Midland,Davian Guanajuato,74863,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,125,L,DEC,3 - 0,Luke Lilledahl,80223,High School,Davian Guanajuato,74863,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,125,L,SV-1,3 - 1,Christian Mejia,56521,McKendree University,Davian Guanajuato,74863,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,125,W,DEC,13 - 6,Reid Nelson,72129,Little Rock,Davian Guanajuato,74863,Siu Edwardsville
+2023,03/03,MAC Championships,133,W,DEC,10 - 5,Vince Perez,60001,Central Michigan,Aaron Schulist,57012,Siu Edwardsville
+2023,03/03,MAC Championships,133,L,DEC,10 - 4,Louis Newell,50916,Kent State,Aaron Schulist,57012,Siu Edwardsville
+2023,03/03,MAC Championships,133,L,MD,11 - 2,Gable Strickland,71822,Lock Haven,Aaron Schulist,57012,Siu Edwardsville
+2023,03/03,MAC Championships,133,W,FALL,1:26,Vince Perez,60001,Central Michigan,Aaron Schulist,57012,Siu Edwardsville
+2023,02/19,Northern Illinois - Southern Illinois Edwardsville Dual,133,L,DEC,8 - 7,Lucian Brink,64945,Northern Illinois,Aaron Schulist,57012,Siu Edwardsville
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,133,W,MD,14 - 6,Joshua Sarpy,65932,Little Rock,Aaron Schulist,57012,Siu Edwardsville
+2023,02/12,Ohio - Southern Illinois Edwardsville Dual,133,W,FALL,1:54,Nolan Frye,78918,Ohio,Aaron Schulist,57012,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - Cleveland State Dual,133,W,SV-1,11 - 9,Jacob Manley,67785,Cleveland State,Aaron Schulist,57012,Siu Edwardsville
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,133,W,DEC,3 - 2,Matt Ellis,75817,Kent State,Aaron Schulist,57012,Siu Edwardsville
+2023,01/22,Lindenwood (Mo) - Southern Illinois Edwardsville Dual,133,W,DEC,7 - 1,Ben Lindley,62972,Lindenwood,Aaron Schulist,57012,Siu Edwardsville
+2023,01/15,Southern Illinois Edwardsville - Central Michigan Dual,133,L,MD,13 - 5,Vince Perez,60001,Central Michigan,Aaron Schulist,57012,Siu Edwardsville
+2023,12/16,Clarion - Southern Illinois Edwardsville Dual,133,W,FALL,6:23,Koen Kish,70988,Clarion,Aaron Schulist,57012,Siu Edwardsville
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,133,L,MD,16 - 6,Todd Carter,69785,Gardner-Webb,Aaron Schulist,57012,Siu Edwardsville
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,133,L,TF5,16 - 0 6:36,Brayden Palmer,59826,Chattanooga,Aaron Schulist,57012,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,133,W,DEC,8 - 4,Lucian Brink,64945,Northern Illinois,Aaron Schulist,57012,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,133,L,MD,16 - 3,Zeke Seltzer,72572,Missouri,Aaron Schulist,57012,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,133,W,FALL,3:56,Joshua Sarpy,65932,Little Rock,Aaron Schulist,57012,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,133,W,FALL,4:44,Caiden Pelc,79804,Lindenwood,Aaron Schulist,57012,Siu Edwardsville
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,133,L,DEC,9 - 7,Richie Koehler,51648,Rider,Aaron Schulist,57012,Siu Edwardsville
+2023,11/04,Indiana - Southern Illinois Edwardsville Dual,133,L,FALL,5:22,Henry Porter,71920,Indiana,Aaron Schulist,57012,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - George Mason Dual,133,W,DEC,2 - 0,Josh Jones,57073,George Mason,Marcel Lopez,78290,Siu Edwardsville
+2023,01/21,Harper Open,133,W,TF5,18 - 3 7:00,Brian Wheatly,83723,Southwestern Michigan,Marcel Lopez,78290,Siu Edwardsville
+2023,01/21,Harper Open,133,W,TF5,20 - 5 7:00,Chris Bullock,83072,Ancilla College,Marcel Lopez,78290,Siu Edwardsville
+2023,01/21,Harper Open,133,W,DEC,5 - 2,Justin Fortugno,81005,Wisconsin-Whitewater,Marcel Lopez,78290,Siu Edwardsville
+2023,01/21,Harper Open,133,W,DEC,6 - 4,Tuvsin Zunnbayan,75276,Harper College,Marcel Lopez,78290,Siu Edwardsville
+2023,01/08,Buffalo - Southern Illinois Edwardsville Dual,133,W,DEC,7 - 2,Tommy Maddox,63165,Buffalo,Marcel Lopez,78290,Siu Edwardsville
+2023,12/29,Midlands Championships,133,L,DEC,8 - 5,Taylor LaMont,44777,Wisconsin,Marcel Lopez,78290,Siu Edwardsville
+2023,12/29,Midlands Championships,133,W,DEC,7 - 1,Blaine Frazier,78575,Indiana,Marcel Lopez,78290,Siu Edwardsville
+2023,12/29,Midlands Championships,133,W,DEC,3 - 2,Ian Oswalt,71942,Brown,Marcel Lopez,78290,Siu Edwardsville
+2023,12/29,Midlands Championships,133,L,DEC,3 - 2,Hunter Adrian,65842,Brown,Marcel Lopez,78290,Siu Edwardsville
+2023,12/29,Midlands Championships,133,W,DEC,3 - 0,Josh Jones,57073,George Mason,Marcel Lopez,78290,Siu Edwardsville
+2023,12/16,Clarion - Southern Illinois Edwardsville Dual,141,L,DEC,5 - 2,Seth Koleno,51157,Clarion,Marcel Lopez,78290,Siu Edwardsville
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,141,L,DEC,4 - 3,Zach Price,50932,Gardner-Webb,Marcel Lopez,78290,Siu Edwardsville
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,141,W,DEC,4 - 3,Francisco Valdes,49089,Chattanooga,Marcel Lopez,78290,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,133,W,DEC,3 - 2,Bryce West,50039,Northern Illinois,Marcel Lopez,78290,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,133,L,SV-1,7 - 5,Jace Koelzer,50912,Northern Colorado,Marcel Lopez,78290,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,133,L,DEC,8 - 1,Joshua Sarpy,65932,Little Rock,Marcel Lopez,78290,Siu Edwardsville
+2023,11/19,Lindenwood Open,133,W,DEC,7 - 1,Gaige Owens,80995,Eureka,Marcel Lopez,78290,Siu Edwardsville
+2023,11/19,Lindenwood Open,133,L,DEC,8 - 2,Dylan Lucas,79125,Central Oklahoma,Marcel Lopez,78290,Siu Edwardsville
+2023,11/19,Lindenwood Open,133,W,DEC,3 - 2,Joey Semerad,67798,McKendree University,Marcel Lopez,78290,Siu Edwardsville
+2023,11/19,Lindenwood Open,133,W,DEC,6 - 3,Ryan Ripplinger,57180,McKendree University,Marcel Lopez,78290,Siu Edwardsville
+2023,11/19,Lindenwood Open,133,L,FALL,1:59,Zeke Seltzer,72572,Missouri,Marcel Lopez,78290,Siu Edwardsville
+2023,03/16,NCAA Championships,141,L,DEC,3 - 2,Clay Carlson,56441,South Dakota State,Saul Ervin,57010,Siu Edwardsville
+2023,03/16,NCAA Championships,141,W,DEC,5 - 2,Cleveland Belton,57334,Oregon State,Saul Ervin,57010,Siu Edwardsville
+2023,03/16,NCAA Championships,141,L,DEC,3 - 2,Ryan Jack,61122,NC State,Saul Ervin,57010,Siu Edwardsville
+2023,03/03,MAC Championships,141,L,DEC,2 - 0,Jaivon Jones,62724,Northern Illinois,Saul Ervin,57010,Siu Edwardsville
+2023,03/03,MAC Championships,141,W,FALL,5:00,Caleb Rea,56445,Cleveland State,Saul Ervin,57010,Siu Edwardsville
+2023,03/03,MAC Championships,141,L,FALL,0:57,Seth Koleno,51157,Clarion,Saul Ervin,57010,Siu Edwardsville
+2023,03/03,MAC Championships,141,W,DEC,6 - 2,Jack Marlow,73355,Buffalo,Saul Ervin,57010,Siu Edwardsville
+2023,02/19,Northern Illinois - Southern Illinois Edwardsville Dual,141,W,DEC,2 - 0,Jaivon Jones,62724,Northern Illinois,Saul Ervin,57010,Siu Edwardsville
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,141,W,FALL,7:25,Brennan Van Hoecke,74571,Little Rock,Saul Ervin,57010,Siu Edwardsville
+2023,02/12,Ohio - Southern Illinois Edwardsville Dual,141,W,DEC,3 - 0,Kyran Hagan,49247,Ohio,Saul Ervin,57010,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - Cleveland State Dual,141,W,MD,10 - 0,Caleb Rea,56445,Cleveland State,Saul Ervin,57010,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - George Mason Dual,141,W,MD,10 - 2,Anthony Glasl,69714,George Mason,Saul Ervin,57010,Siu Edwardsville
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,141,W,DEC,2 - 0,Louis Newell,50916,Kent State,Saul Ervin,57010,Siu Edwardsville
+2023,01/22,Lindenwood (Mo) - Southern Illinois Edwardsville Dual,141,W,FALL,4:38,Kalen Napier,62247,Lindenwood,Saul Ervin,57010,Siu Edwardsville
+2023,01/15,Southern Illinois Edwardsville - Central Michigan Dual,141,W,DEC,3 - 1,Ja'Kerion Merritt,67176,Central Michigan,Saul Ervin,57010,Siu Edwardsville
+2023,01/08,Buffalo - Southern Illinois Edwardsville Dual,141,W,MD,10 - 2,Matt Ryan,69769,Buffalo,Saul Ervin,57010,Siu Edwardsville
+2023,12/29,Midlands Championships,141,W,DEC,6 - 3,Jesse Vasquez,67152,Arizona State,Saul Ervin,57010,Siu Edwardsville
+2023,12/29,Midlands Championships,141,W,DEC,9 - 4,Ryan Michaels,67121,Pittsburgh,Saul Ervin,57010,Siu Edwardsville
+2023,12/29,Midlands Championships,141,W,FALL,1:54,Joseph Zargo,62890,Wisconsin,Saul Ervin,57010,Siu Edwardsville
+2023,12/29,Midlands Championships,141,L,DEC,4 - 0,Cole Matthews,50936,Pittsburgh,Saul Ervin,57010,Siu Edwardsville
+2023,12/29,Midlands Championships,141,L,DEC,7 - 4,Brian Courtney,49331,Virginia,Saul Ervin,57010,Siu Edwardsville
+2023,12/29,Midlands Championships,141,W,DEC,7 - 4,Justin Bierdumpfel,67257,Brown,Saul Ervin,57010,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,149,W,DEC,5 - 0,Dillon Nichols,61650,Northern Illinois,Saul Ervin,57010,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,149,W,DEC,5 - 3,Rudy Lopez,71937,Northern Colorado,Saul Ervin,57010,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,149,W,DEC,7 - 0,Benjamin Alanis,61438,Northern Colorado,Saul Ervin,57010,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,149,L,DEC,7 - 2,Chris Sandoval,49229,Northern Colorado,Saul Ervin,57010,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,149,L,DEC,6 - 4,Joseph Bianchi,62836,Little Rock,Saul Ervin,57010,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,W,FALL,0:39,Jordan Williams,73709,Oklahoma State,Saul Ervin,57010,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,W,FALL,6:05,Xavian Jackson,70724,Central Methodist,Saul Ervin,57010,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,L,DEC,10 - 5,Teague Travis,63722,Oklahoma State,Saul Ervin,57010,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,L,DEC,11 - 4,Brik Filippo,49388,Central Oklahoma,Saul Ervin,57010,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,W,DEC,9 - 5,Nathan Pulliam,70916,Missouri,Saul Ervin,57010,Siu Edwardsville
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,149,L,DEC,4 - 2,Quinn Kinner,51144,Rider,Saul Ervin,57010,Siu Edwardsville
+2023,02/05,Greyhound Open,141,W,TF5,20 - 5 7:00,Landen Dilley,82007,Manchester,Eric Almarinez,80240,Siu Edwardsville
+2023,02/05,Greyhound Open,141,W,DEC,5 - 2,Hayden Halter,75859,Illinois,Eric Almarinez,80240,Siu Edwardsville
+2023,02/05,Greyhound Open,141,L,DEC,7 - 5,Kole Brower,73712,Illinois,Eric Almarinez,80240,Siu Edwardsville
+2023,02/05,Greyhound Open,141,W,DEC,3 - 2,Ronan Schuelke,69543,McKendree University,Eric Almarinez,80240,Siu Edwardsville
+2023,02/05,Greyhound Open,141,W,MD,19 - 6,Gabe Adams,67342,Kentucky Wesleyan,Eric Almarinez,80240,Siu Edwardsville
+2023,01/21,Harper Open,141,W,TF5,20 - 5 7:00,Bryan Chavero,83642,Ancilla College,Eric Almarinez,80240,Siu Edwardsville
+2023,01/21,Harper Open,141,W,DEC,3 - 2,Ethan Pogorzelski,71472,Wisconsin-Whitewater,Eric Almarinez,80240,Siu Edwardsville
+2023,01/21,Harper Open,141,W,DEC,4 - 3,Dylan Gvillo,78589,Northern Illinois,Eric Almarinez,80240,Siu Edwardsville
+2023,01/21,Harper Open,141,W,DEC,6 - 4,Mikey Kaminski,68722,Northern Illinois,Eric Almarinez,80240,Siu Edwardsville
+2023,11/19,Lindenwood Open,141,L,DEC,8 - 1,Taylor Jokerst,47293,Maryville University,Eric Almarinez,80240,Siu Edwardsville
+2023,11/19,Lindenwood Open,141,L,FALL,0:57,Peter Kuster,57485,Drury University,Eric Almarinez,80240,Siu Edwardsville
+2023,11/19,Lindenwood Open,141,W,MFOR,0 - 0,Korbin Shepherd,72550,Missouri,Eric Almarinez,80240,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,141,W,FALL,1:13,Ethan Flaherty,79533,William Jewell,Eric Almarinez,80240,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,141,W,DEC,8 - 5,Kody Ketchum,79600,Maryville University,Eric Almarinez,80240,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,141,W,DEC,3 - 2,Gavin Garcia,79491,Indianapolis,Eric Almarinez,80240,Siu Edwardsville
+2023,03/16,NCAA Championships,149,L,DEC,9 - 6,Michael Blockhus,57163,Minnesota,Caleb Tyus,72912,Siu Edwardsville
+2023,03/16,NCAA Championships,149,W,DEC,8 - 1,Ryan Burgos,63141,Edinboro,Caleb Tyus,72912,Siu Edwardsville
+2023,03/16,NCAA Championships,149,L,DEC,6 - 3,Max Murin,49148,Iowa,Caleb Tyus,72912,Siu Edwardsville
+2023,03/03,MAC Championships,149,L,DEC,4 - 3,Alec Hagan,49248,Ohio,Caleb Tyus,72912,Siu Edwardsville
+2023,03/03,MAC Championships,149,L,DEC,4 - 0,Quinn Kinner,51144,Rider,Caleb Tyus,72912,Siu Edwardsville
+2023,03/03,MAC Championships,149,W,DEC,6 - 0,Kyle Schickel,67305,Clarion,Caleb Tyus,72912,Siu Edwardsville
+2023,03/03,MAC Championships,149,L,DEC,5 - 4,Johnny Lovett,61935,Central Michigan,Caleb Tyus,72912,Siu Edwardsville
+2023,03/03,MAC Championships,149,W,FALL,5:24,Cade Balestrini,62514,Bloomsburg,Caleb Tyus,72912,Siu Edwardsville
+2023,02/19,Northern Illinois - Southern Illinois Edwardsville Dual,149,W,DEC,2 - 1,Anthony Cheloni,53565,Northern Illinois,Caleb Tyus,72912,Siu Edwardsville
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,149,W,DEC,6 - 2,Joseph Bianchi,62836,Little Rock,Caleb Tyus,72912,Siu Edwardsville
+2023,02/12,Ohio - Southern Illinois Edwardsville Dual,149,W,DEC,3 - 0,Alec Hagan,49248,Ohio,Caleb Tyus,72912,Siu Edwardsville
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,149,W,TB-2,3 - 1,Kody Komara,50094,Kent State,Caleb Tyus,72912,Siu Edwardsville
+2023,01/22,Lindenwood (Mo) - Southern Illinois Edwardsville Dual,149,W,TF5,23 - 6 6:53,Ben Bohr,62969,Lindenwood,Caleb Tyus,72912,Siu Edwardsville
+2023,01/15,Southern Illinois Edwardsville - Central Michigan Dual,149,W,DEC,5 - 4,Johnny Lovett,61935,Central Michigan,Caleb Tyus,72912,Siu Edwardsville
+2023,01/08,Buffalo - Southern Illinois Edwardsville Dual,149,W,DEC,4 - 2,Kaleb Burgess,72225,Buffalo,Caleb Tyus,72912,Siu Edwardsville
+2023,12/29,Midlands Championships,149,W,DEC,4 - 1,Tyler Badgett,67118,Pittsburgh,Caleb Tyus,72912,Siu Edwardsville
+2023,12/29,Midlands Championships,149,L,DEC,8 - 2,Kyle Parco,58562,Arizona State,Caleb Tyus,72912,Siu Edwardsville
+2023,12/29,Midlands Championships,149,W,DEC,4 - 2,Sam Hillegas,61125,West Virginia,Caleb Tyus,72912,Siu Edwardsville
+2023,12/29,Midlands Championships,149,L,DEC,6 - 2,Doug Zapf,50656,Pennsylvania,Caleb Tyus,72912,Siu Edwardsville
+2023,12/29,Midlands Championships,149,W,DEC,6 - 5,Graham Rooks,51283,Indiana,Caleb Tyus,72912,Siu Edwardsville
+2023,12/29,Midlands Championships,149,W,FALL,1:43,Ryan Fleck,60540,Chicago,Caleb Tyus,72912,Siu Edwardsville
+2023,12/16,Clarion - Southern Illinois Edwardsville Dual,149,W,DEC,7 - 6,Kyle Schickel,67305,Clarion,Caleb Tyus,72912,Siu Edwardsville
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,149,W,MD,12 - 4,Corbin Dion,69783,Gardner-Webb,Caleb Tyus,72912,Siu Edwardsville
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,149,W,TF5,17 - 0 5:19,Grant Lundy,59756,Chattanooga,Caleb Tyus,72912,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,149,W,DEC,4 - 1,Rudy Lopez,71937,Northern Colorado,Caleb Tyus,72912,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,149,W,DEC,2 - 1,Joel Mylin,73025,Missouri,Caleb Tyus,72912,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,149,W,DEC,5 - 4,Nathan Pulliam,70916,Missouri,Caleb Tyus,72912,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,149,W,DEC,3 - 1,Chase Tebbets,62646,Little Rock,Caleb Tyus,72912,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,W,DEC,9 - 6,Jordan Williams,73709,Oklahoma State,Caleb Tyus,72912,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,L,DEC,3 - 1,Teague Travis,63722,Oklahoma State,Caleb Tyus,72912,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,W,MD,10 - 2,Bretli Reyna,63152,Iowa,Caleb Tyus,72912,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,W,DEC,5 - 1,Jake Harrier,70723,Illinois,Caleb Tyus,72912,Siu Edwardsville
+2023,11/04,Indiana - Southern Illinois Edwardsville Dual,149,L,DEC,4 - 3,Graham Rooks,51283,Indiana,Caleb Tyus,72912,Siu Edwardsville
+2023,02/05,Greyhound Open,149,W,DEC,3 - 2,Ayden Lutes,82841,Wabash,Alec Peralta,78291,Siu Edwardsville
+2023,02/05,Greyhound Open,149,W,DEC,8 - 2,Zach Haughton,79493,Indianapolis,Alec Peralta,78291,Siu Edwardsville
+2023,02/05,Greyhound Open,149,W,DEC,6 - 2,Zach Haughton,79493,Indianapolis,Alec Peralta,78291,Siu Edwardsville
+2023,02/05,Greyhound Open,149,L,SV-1,7 - 5,Isaac Ruble,78710,Purdue,Alec Peralta,78291,Siu Edwardsville
+2023,02/05,Greyhound Open,149,W,TF5,19 - 1 7:00,Jeffrey Nixon,77459,Marian University,Alec Peralta,78291,Siu Edwardsville
+2023,02/05,Greyhound Open,149,L,DEC,8 - 1,Daniel Uribe,72013,Wabash,Alec Peralta,78291,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - Cleveland State Dual,149,L,DEC,6 - 4,Douglas Terry,70741,Cleveland State,Alec Peralta,78291,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - George Mason Dual,149,L,FALL,3:47,Nathan Higley,71834,George Mason,Alec Peralta,78291,Siu Edwardsville
+2023,01/21,Harper Open,149,W,SV-1,3 - 1,Charlie Fifield,79033,Illinois,Alec Peralta,78291,Siu Edwardsville
+2023,01/21,Harper Open,149,W,FALL,0:42,Dominic Delgado,78118,Henry Ford College,Alec Peralta,78291,Siu Edwardsville
+2023,01/21,Harper Open,149,W,FALL,3:32,Cameron Jacobs,75225,Harper College,Alec Peralta,78291,Siu Edwardsville
+2023,01/21,Harper Open,149,W,MD,15 - 2,Jalin Conner,69991,Bryant & Stratton,Alec Peralta,78291,Siu Edwardsville
+2023,12/29,Midlands Championships,157,L,DEC,5 - 2,Aiden Vandenbush,73000,Northwestern,Alec Peralta,78291,Siu Edwardsville
+2023,12/29,Midlands Championships,157,L,DEC,7 - 2,Anthony Artalona,51039,Pennsylvania,Alec Peralta,78291,Siu Edwardsville
+2023,12/16,Clarion - Southern Illinois Edwardsville Dual,157,L,MD,8 - 0,Trevor Elfvin,51017,Clarion,Alec Peralta,78291,Siu Edwardsville
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,157,W,FALL,4:45,Parker Corwin,63037,Gardner-Webb,Alec Peralta,78291,Siu Edwardsville
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,157,L,DEC,7 - 2,Lincoln Heck,66629,Chattanooga,Alec Peralta,78291,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,W,FALL,1:03,Ethan Hurt,80272,Missouri Valley,Alec Peralta,78291,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,W,MD,13 - 4,Javier Gutierrez,79601,Maryville University,Alec Peralta,78291,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,W,TF5,17 - 0 7:00,Jonathan Vincent,74840,Labette Community College,Alec Peralta,78291,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,W,DEC,9 - 5,Easton Hilton,73655,Missouri,Alec Peralta,78291,Siu Edwardsville
+2023,11/19,Lindenwood Open,149,L,DEC,3 - 1,Joel Jesuroga,74084,Iowa,Alec Peralta,78291,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,149,W,TF5,19 - 3 6:26,Javier Gutierrez,79601,Maryville University,Alec Peralta,78291,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,149,W,MD,15 - 4,Julian Solis,79525,Quincy,Alec Peralta,78291,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,149,W,FALL,3:12,Hayden Rofkahr,79368,University of the Ozarks,Alec Peralta,78291,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,149,W,DEC,11 - 4,Andrew Doehring,77717,SIU Edwardsville,Alec Peralta,78291,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,149,W,TF5,16 - 1 7:00,Alex Pitsch,79806,Lindenwood,Alec Peralta,78291,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,149,L,DEC,8 - 6,Daniel Sheen,78574,Wisconsin,Alec Peralta,78291,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,149,W,DEC,6 - 1,Javier Gutierrez,79601,Maryville University,Andrew Doehring,77717,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,149,L,DEC,5 - 3,Kody Ketchum,79600,Maryville University,Andrew Doehring,77717,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,149,L,FALL,2:29,Darick Lapaglia,74801,Central Missouri,Andrew Doehring,77717,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,149,L,DEC,11 - 4,Alec Peralta,78291,SIU Edwardsville,Andrew Doehring,77717,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,149,W,MFOR,0 - 0,Tyler Bierman,80232,Missouri Valley,Andrew Doehring,77717,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,149,W,DEC,12 - 10,Hayden Rofkahr,79368,University of the Ozarks,Andrew Doehring,77717,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,149,L,DEC,3 - 2,Ryan Schepers,79134,McKendree University,Andrew Doehring,77717,Siu Edwardsville
+2023,03/03,MAC Championships,157,L,DEC,7 - 1,Anthony Gibson,56508,Northern Illinois,Caine Tyus,72913,Siu Edwardsville
+2023,03/03,MAC Championships,157,L,DEC,8 - 4,Peter Pappas,49131,George Mason,Caine Tyus,72913,Siu Edwardsville
+2023,02/19,Northern Illinois - Southern Illinois Edwardsville Dual,157,L,FALL,0:57,Anthony Gibson,56508,Northern Illinois,Caine Tyus,72913,Siu Edwardsville
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,157,L,DEC,5 - 2,Matt Bianchi,72120,Little Rock,Caine Tyus,72913,Siu Edwardsville
+2023,02/12,Ohio - Southern Illinois Edwardsville Dual,157,L,DEC,9 - 3,Peyten Kellar,73168,Ohio,Caine Tyus,72913,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - Cleveland State Dual,157,L,DEC,8 - 2,Marcus Robinson,56479,Cleveland State,Caine Tyus,72913,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - George Mason Dual,157,L,DEC,8 - 2,Peter Pappas,49131,George Mason,Caine Tyus,72913,Siu Edwardsville
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,157,L,MD,11 - 3,Keegan Knapp,79795,Kent State,Caine Tyus,72913,Siu Edwardsville
+2023,01/22,Lindenwood (Mo) - Southern Illinois Edwardsville Dual,157,W,FALL,2:23,Alex Pitsch,79806,Lindenwood,Caine Tyus,72913,Siu Edwardsville
+2023,01/15,Southern Illinois Edwardsville - Central Michigan Dual,157,L,DEC,11 - 6,Corbyn Munson,51197,Central Michigan,Caine Tyus,72913,Siu Edwardsville
+2023,01/08,Buffalo - Southern Illinois Edwardsville Dual,157,L,DEC,10 - 6,Michael Petite,55596,Buffalo,Caine Tyus,72913,Siu Edwardsville
+2023,12/29,Midlands Championships,149,L,DEC,4 - 2,Tyler Badgett,67118,Pittsburgh,Caine Tyus,72913,Siu Edwardsville
+2023,12/29,Midlands Championships,149,W,DEC,4 - 2,Mason Shrader,73720,Central Michigan,Caine Tyus,72913,Siu Edwardsville
+2023,12/29,Midlands Championships,149,L,MD,13 - 0,Graham Rooks,51283,Indiana,Caine Tyus,72913,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,141,L,DEC,7 - 0,Jacob Brya,73037,Northern Illinois,Caine Tyus,72913,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,141,L,DEC,4 - 1,Jaivon Jones,62724,Northern Illinois,Caine Tyus,72913,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,141,W,DEC,9 - 4,Kalen Napier,62247,Lindenwood,Caine Tyus,72913,Siu Edwardsville
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,141,W,MD,13 - 2,Bryan Miraglia,62187,Rider,Caine Tyus,72913,Siu Edwardsville
+2023,11/04,Indiana - Southern Illinois Edwardsville Dual,141,L,DEC,9 - 3,Cayden Rooks,56710,Indiana,Caine Tyus,72913,Siu Edwardsville
+2023,11/19,Lindenwood Open,157,L,MD,11 - 0,Dylan Brown,71352,Northeastern Oklahoma,Max Kristoff,63195,Siu Edwardsville
+2023,11/19,Lindenwood Open,157,L,FALL,5:00,Ryan Haynes,67795,McKendree University,Max Kristoff,63195,Siu Edwardsville
+2023,11/04,Indiana - Southern Illinois Edwardsville Dual,157,L,MD,11 - 2,Derek Gilcher,62760,Indiana,Max Kristoff,63195,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,157,L,MFOR,0 - 0,Munkhtulga Zuunbayan,64263,Northern Illinois,Grant LaDuke,67276,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,157,L,TF5,17 - 0 7:00,Anthony Gibson,56508,Northern Illinois,Grant LaDuke,67276,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,157,L,MFOR,0 - 0,Bilal Bailey,69728,Little Rock,Grant LaDuke,67276,Siu Edwardsville
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,157,L,MD,10 - 2,Jake Silverstein,67370,Rider,Grant LaDuke,67276,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,157,W,MD,11 - 2,Will Keener,65164,Kentucky Wesleyan,Grant LaDuke,67276,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,157,W,DEC,4 - 3,Austin Keal,63055,Little Rock,Grant LaDuke,67276,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,157,L,DEC,6 - 1,Derek Gilcher,62760,Indiana,Grant LaDuke,67276,Siu Edwardsville
+2023,02/05,Greyhound Open,157,W,FALL,4:10,Zach Wilson,81914,Marian University,Damari Reed,78621,Siu Edwardsville
+2023,02/05,Greyhound Open,157,W,DEC,4 - 2,Grant O'Dell,78484,Bellarmine,Damari Reed,78621,Siu Edwardsville
+2023,02/05,Greyhound Open,157,L,DEC,3 - 2,Brennan Doyle,74292,Purdue,Damari Reed,78621,Siu Edwardsville
+2023,02/05,Greyhound Open,157,W,DEC,8 - 4,Jacob Bornemann,73224,McKendree University,Damari Reed,78621,Siu Edwardsville
+2023,02/05,Greyhound Open,157,W,DEC,11 - 4,Cade Johnson,73179,Kentucky Wesleyan,Damari Reed,78621,Siu Edwardsville
+2023,01/21,Harper Open,157,W,DEC,10 - 5,Cameron White,80458,Triton College,Damari Reed,78621,Siu Edwardsville
+2023,01/21,Harper Open,157,W,MD,12 - 4,Aiden Smith,78927,Northern Illinois,Damari Reed,78621,Siu Edwardsville
+2023,01/21,Harper Open,157,W,DEC,3 - 1,Brody Hallin,78604,Northern Illinois,Damari Reed,78621,Siu Edwardsville
+2023,01/21,Harper Open,157,W,DEC,8 - 6,Mason Alley,78985,Indiana,Damari Reed,78621,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,157,W,DEC,5 - 3,Jorden Johnson,80245,SIU Edwardsville,Damari Reed,78621,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,157,W,FALL,6:57,Luke Ebers,71358,Maryville University,Damari Reed,78621,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,157,W,DEC,5 - 4,Jon O'Connell,71357,Drury University,Damari Reed,78621,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,157,W,FALL,2:07,Anthony Erickson,74877,Central Missouri,Damari Reed,78621,Siu Edwardsville
+2023,02/05,Greyhound Open,157,W,FALL,1:08,Humberto Pintor,75319,Quincy,"Johnson, Jorden",80245,Siu Edwardsville
+2023,02/05,Greyhound Open,157,L,MD,9 - 0,Cade Johnson,73179,Kentucky Wesleyan,"Johnson, Jorden",80245,Siu Edwardsville
+2023,02/05,Greyhound Open,157,L,DEC,13 - 6,Tristan Pugh,62842,Glenville State University,"Johnson, Jorden",80245,Siu Edwardsville
+2023,01/21,Harper Open,157,L,MD,15 - 1,Cameron White,80458,Triton College,"Johnson, Jorden",80245,Siu Edwardsville
+2023,01/21,Harper Open,157,W,DEC,9 - 3,Nick Klug,75602,Wisconsin-Whitewater,"Johnson, Jorden",80245,Siu Edwardsville
+2023,01/21,Harper Open,157,W,MD,15 - 3,Jair Diaz,74581,Harper College,"Johnson, Jorden",80245,Siu Edwardsville
+2023,01/21,Harper Open,157,L,DEC,3 - 1,Brody Hallin,78604,Northern Illinois,"Johnson, Jorden",80245,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,157,L,DEC,5 - 3,Damari Reed,78621,SIU Edwardsville,"Johnson, Jorden",80245,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,157,L,DEC,4 - 3,Luke Ebers,71358,Maryville University,"Johnson, Jorden",80245,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,157,L,DEC,5 - 2,Jon O'Connell,71357,Drury University,"Johnson, Jorden",80245,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,157,L,FALL,2:09,Anthony Erickson,74877,Central Missouri,"Johnson, Jorden",80245,Siu Edwardsville
+2023,11/19,Lindenwood Open,157,L,DEC,4 - 3,Luke Ebers,71358,Maryville University,"Johnson, Jorden",80245,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,157,W,DEC,3 - 2,Joe Beck,74762,Fontbonne,"Johnson, Jorden",80245,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,157,L,DEC,3 - 2,Tyler Conley,72577,Indianapolis,"Johnson, Jorden",80245,Siu Edwardsville
+2023,03/03,MAC Championships,165,L,DEC,6 - 1,Jordan Slivka,57602,Ohio,Cardeionte Wilson,67405,Siu Edwardsville
+2023,03/03,MAC Championships,165,L,FALL,4:26,Tracy Hubbard,57361,Central Michigan,Cardeionte Wilson,67405,Siu Edwardsville
+2023,03/03,MAC Championships,165,W,DEC,7 - 3,Cameron Pine,57196,Clarion,Cardeionte Wilson,67405,Siu Edwardsville
+2023,03/03,MAC Championships,165,L,DEC,4 - 2,Avery Bassett,71835,Lock Haven,Cardeionte Wilson,67405,Siu Edwardsville
+2023,03/03,MAC Championships,165,W,DEC,8 - 3,Daniel Patten,62489,Cleveland State,Cardeionte Wilson,67405,Siu Edwardsville
+2023,03/03,MAC Championships,165,W,DEC,5 - 2,Marcus Petite,67407,Buffalo,Cardeionte Wilson,67405,Siu Edwardsville
+2023,02/19,Northern Illinois - Southern Illinois Edwardsville Dual,165,L,DEC,2 - 0,Izzak Olejnik,56509,Northern Illinois,Cardeionte Wilson,67405,Siu Edwardsville
+2023,02/12,Ohio - Southern Illinois Edwardsville Dual,165,L,SV-1,7 - 5,Jordan Slivka,57602,Ohio,Cardeionte Wilson,67405,Siu Edwardsville
+2023,12/29,Midlands Championships,165,L,MD,9 - 0,Dean Hamiti,62894,Wisconsin,Cardeionte Wilson,67405,Siu Edwardsville
+2023,12/29,Midlands Championships,165,W,DEC,3 - 2,Nick Hamilton,73501,Virginia,Cardeionte Wilson,67405,Siu Edwardsville
+2023,12/29,Midlands Championships,165,L,MD,9 - 1,Justin McCoy,50946,Virginia,Cardeionte Wilson,67405,Siu Edwardsville
+2023,12/29,Midlands Championships,165,L,INJ,2:15,Lucas Revano,56734,Pennsylvania,Cardeionte Wilson,67405,Siu Edwardsville
+2023,12/29,Midlands Championships,165,W,MD,12 - 3,Chandler Amaker,72571,Central Michigan,Cardeionte Wilson,67405,Siu Edwardsville
+2023,12/29,Midlands Championships,165,W,MD,10 - 2,Daniel Patten,62489,Cleveland State,Cardeionte Wilson,67405,Siu Edwardsville
+2023,12/16,Clarion - Southern Illinois Edwardsville Dual,165,W,DEC,7 - 3,Cameron Pine,57196,Clarion,Cardeionte Wilson,67405,Siu Edwardsville
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,165,W,MD,15 - 5,Tyler Brignola,73727,Gardner-Webb,Cardeionte Wilson,67405,Siu Edwardsville
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,165,W,DEC,6 - 2,Caleb Waddell,70021,Chattanooga,Cardeionte Wilson,67405,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,165,W,DEC,3 - 0,Jake Evans,73345,Northern Illinois,Cardeionte Wilson,67405,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,165,L,DEC,5 - 0,Izzak Olejnik,56509,Northern Illinois,Cardeionte Wilson,67405,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,165,W,DEC,6 - 5,Baylor Fernandes,57351,Northern Colorado,Cardeionte Wilson,67405,Siu Edwardsville
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,165,W,DEC,3 - 2,Hunter Mays,73136,Rider,Cardeionte Wilson,67405,Siu Edwardsville
+2023,11/04,Indiana - Southern Illinois Edwardsville Dual,165,W,DEC,4 - 2,Robert Major,71685,Indiana,Cardeionte Wilson,67405,Siu Edwardsville
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,165,W,FALL,4:15,Enrique Munguia,73500,Kent State,Bradley Gillum,73397,Siu Edwardsville
+2023,01/22,Lindenwood (Mo) - Southern Illinois Edwardsville Dual,165,W,MD,9 - 0,Kaden Charboneau,74823,Lindenwood,Bradley Gillum,73397,Siu Edwardsville
+2023,01/15,Southern Illinois Edwardsville - Central Michigan Dual,165,L,MD,12 - 2,Tracy Hubbard,57361,Central Michigan,Bradley Gillum,73397,Siu Edwardsville
+2023,01/08,Buffalo - Southern Illinois Edwardsville Dual,165,W,DEC,3 - 2,Noah Grover,51227,Buffalo,Bradley Gillum,73397,Siu Edwardsville
+2023,12/29,Midlands Championships,165,L,DEC,3 - 2,Maxx Mayfield,62981,Northwestern,Bradley Gillum,73397,Siu Edwardsville
+2023,12/29,Midlands Championships,165,W,DEC,5 - 2,Blaine Bergey,63157,Princeton,Bradley Gillum,73397,Siu Edwardsville
+2023,12/29,Midlands Championships,165,L,MD,8 - 0,Luke Gayer,77388,Rutgers,Bradley Gillum,73397,Siu Edwardsville
+2023,11/19,Lindenwood Open,165,W,MD,11 - 3,Aaron Taylor,67812,Quincy,Bradley Gillum,73397,Siu Edwardsville
+2023,11/19,Lindenwood Open,165,W,DEC,4 - 1,Tyler Lucas,53301,Central Oklahoma,Bradley Gillum,73397,Siu Edwardsville
+2023,11/19,Lindenwood Open,165,L,DEC,9 - 4,Maxx Mayfield,62981,Northwestern,Bradley Gillum,73397,Siu Edwardsville
+2023,11/19,Lindenwood Open,165,L,DEC,5 - 1,Maxx Mayfield,62981,Northwestern,Bradley Gillum,73397,Siu Edwardsville
+2023,11/19,Lindenwood Open,165,W,FALL,2:00,Brant Whitaker,71934,Missouri,Bradley Gillum,73397,Siu Edwardsville
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,165,L,MD,11 - 0,Tyler Brennan,62844,Little Rock,Hayden Shepherd,78287,Siu Edwardsville
+2023,02/05,Greyhound Open,165,W,TF5,16 - 1 7:00,Rylan Hendricks,80629,Wabash,Hayden Shepherd,78287,Siu Edwardsville
+2023,02/05,Greyhound Open,165,L,SV-1,3 - 1,Magnus Kuokkanen,78987,Indiana,Hayden Shepherd,78287,Siu Edwardsville
+2023,02/05,Greyhound Open,165,L,MD,13 - 4,Tyler Lillard,72963,Indiana,Hayden Shepherd,78287,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - Cleveland State Dual,165,L,DEC,7 - 1,Daniel Patten,62489,Cleveland State,Hayden Shepherd,78287,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - George Mason Dual,165,L,DEC,3 - 2,Paul Pierce,56165,George Mason,Hayden Shepherd,78287,Siu Edwardsville
+2023,01/21,Harper Open,165,W,FALL,2:18,Hunter Heath,80754,Southwestern Michigan,Hayden Shepherd,78287,Siu Edwardsville
+2023,01/21,Harper Open,165,W,DEC,7 - 4,Kent Beecham,80407,Rochester Community & Tech College,Hayden Shepherd,78287,Siu Edwardsville
+2023,01/21,Harper Open,165,L,DEC,3 - 2,Alonzo Smiley,75407,Triton College,Hayden Shepherd,78287,Siu Edwardsville
+2023,01/21,Harper Open,165,W,MD,8 - 0,Austin Stewart,79837,Northern Illinois,Hayden Shepherd,78287,Siu Edwardsville
+2023,01/21,Harper Open,165,L,DEC,5 - 1,Magnus Kuokkanen,78987,Indiana,Hayden Shepherd,78287,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,165,L,DEC,14 - 8,Alex Vislosky,69979,Oklahoma,Hayden Shepherd,78287,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,165,L,DEC,8 - 5,Donavan Whitted,83494,Maryville University,Hayden Shepherd,78287,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,165,L,TF5,15 - 0 7:00,Jake Evans,73345,Northern Illinois,Hayden Shepherd,78287,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,165,L,FALL,1:29,Izzak Olejnik,56509,Northern Illinois,Hayden Shepherd,78287,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,165,W,DQ,0 - 0,Baylor Fernandes,57351,Northern Colorado,Hayden Shepherd,78287,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,165,W,FALL,4:40,Brian Flanagan,62975,Lindenwood,Hayden Shepherd,78287,Siu Edwardsville
+2023,11/19,Lindenwood Open,165,L,MFOR,0 - 0,Cade Molyneux,82517,Indian Hills,Hayden Shepherd,78287,Siu Edwardsville
+2023,11/19,Lindenwood Open,165,W,FALL,6:18,Christopher Worhley,82040,Northeastern Oklahoma,Hayden Shepherd,78287,Siu Edwardsville
+2023,11/19,Lindenwood Open,165,L,DEC,6 - 2,Kaden Charboneau,74823,Lindenwood,Hayden Shepherd,78287,Siu Edwardsville
+2023,11/19,Lindenwood Open,165,W,TF5,17 - 2 7:00,Luke LeClerc,78876,Bellarmine,Hayden Shepherd,78287,Siu Edwardsville
+2023,03/03,MAC Championships,174,L,MD,11 - 0,Jared McGill,50995,Edinboro,Chase Diehl,60388,Siu Edwardsville
+2023,03/03,MAC Championships,174,L,DEC,3 - 2,Jay Nivison,65850,Buffalo,Chase Diehl,60388,Siu Edwardsville
+2023,02/19,Northern Illinois - Southern Illinois Edwardsville Dual,174,L,FALL,1:53,Hayden Pummel,73344,Northern Illinois,Chase Diehl,60388,Siu Edwardsville
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,174,L,DEC,4 - 0,Triston Wills,58611,Little Rock,Chase Diehl,60388,Siu Edwardsville
+2023,02/12,Ohio - Southern Illinois Edwardsville Dual,174,L,DEC,5 - 2,Sal Perrine,73171,Ohio,Chase Diehl,60388,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - Cleveland State Dual,174,W,DEC,8 - 1,JR Reed,78598,Cleveland State,Chase Diehl,60388,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - George Mason Dual,174,L,DEC,5 - 1,Logan Messer,71846,George Mason,Chase Diehl,60388,Siu Edwardsville
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,174,W,DEC,6 - 3,Ashton Breen,70281,Kent State,Chase Diehl,60388,Siu Edwardsville
+2023,01/22,Lindenwood (Mo) - Southern Illinois Edwardsville Dual,174,W,DEC,7 - 2,Luke Dickhaus,70728,Lindenwood,Chase Diehl,60388,Siu Edwardsville
+2023,01/15,Southern Illinois Edwardsville - Central Michigan Dual,174,L,MD,11 - 2,Alex Cramer,56732,Central Michigan,Chase Diehl,60388,Siu Edwardsville
+2023,01/08,Buffalo - Southern Illinois Edwardsville Dual,174,L,SV-1,3 - 1,Jay Nivison,65850,Buffalo,Chase Diehl,60388,Siu Edwardsville
+2023,12/29,Midlands Championships,174,L,DEC,6 - 1,Caden Ernd,71871,Illinois,Chase Diehl,60388,Siu Edwardsville
+2023,12/29,Midlands Championships,174,L,MD,11 - 1,Drew Clearie,71778,Brown,Chase Diehl,60388,Siu Edwardsville
+2023,12/16,Clarion - Southern Illinois Edwardsville Dual,174,L,FALL,1:38,John Worthing,61847,Clarion,Chase Diehl,60388,Siu Edwardsville
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,174,W,MD,8 - 0,Andrew Wilson,73732,Gardner-Webb,Chase Diehl,60388,Siu Edwardsville
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,174,W,DEC,2 - 1,Thomas Sell,64478,Chattanooga,Chase Diehl,60388,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,174,L,FALL,3:40,Hayden Pummel,73344,Northern Illinois,Chase Diehl,60388,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,174,W,DEC,11 - 5,Ayden Rix-McElhinney,79043,Northern Colorado,Chase Diehl,60388,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,174,L,DEC,6 - 2,Andrew Berreyesa,49111,Northern Colorado,Chase Diehl,60388,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,174,W,DEC,9 - 5,Ellis Pfleger,64647,Missouri,Chase Diehl,60388,Siu Edwardsville
+2023,11/19,Lindenwood Open,174,L,MFOR,0 - 0,Ethan Smith,62618,Drury University,Chase Diehl,60388,Siu Edwardsville
+2023,11/19,Lindenwood Open,174,W,DEC,7 - 6,Rozell Baker,61197,McKendree University,Chase Diehl,60388,Siu Edwardsville
+2023,11/19,Lindenwood Open,174,L,FALL,1:05,Bret Heil,56271,Maryville University,Chase Diehl,60388,Siu Edwardsville
+2023,11/19,Lindenwood Open,174,L,MFOR,0 - 0,Ellis Pfleger,64647,Missouri,Chase Diehl,60388,Siu Edwardsville
+2023,11/19,Lindenwood Open,174,W,DEC,12 - 5,Luke Dickhaus,70728,Lindenwood,Chase Diehl,60388,Siu Edwardsville
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,174,L,DEC,4 - 1,Michael Wilson,62190,Rider,Chase Diehl,60388,Siu Edwardsville
+2023,11/04,Indiana - Southern Illinois Edwardsville Dual,174,L,FALL,0:33,Donnell Washington,57738,Indiana,Chase Diehl,60388,Siu Edwardsville
+2023,11/19,Lindenwood Open,174,L,FALL,1:02,Jeivan Ross,80406,Triton College,Antonio Torres,78622,Siu Edwardsville
+2023,11/19,Lindenwood Open,174,L,MD,12 - 1,Lucas Henderson,76564,Indian Hills,Antonio Torres,78622,Siu Edwardsville
+2023,11/19,Lindenwood Open,174,W,MD,11 - 3,Sheldon Cherry,70386,Joliet Junior College,Antonio Torres,78622,Siu Edwardsville
+2023,03/03,MAC Championships,184,L,TF5,15 - 0 6:30,Zayne Lehman,71781,Ohio,Sergio Villalobos,57005,Siu Edwardsville
+2023,03/03,MAC Championships,184,L,FALL,1:16,Malachi Duvall,72189,George Mason,Sergio Villalobos,57005,Siu Edwardsville
+2023,02/19,Northern Illinois - Southern Illinois Edwardsville Dual,184,L,DEC,5 - 1,Matt Zuber,66265,Northern Illinois,Sergio Villalobos,57005,Siu Edwardsville
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,184,W,DEC,3 - 2,Mason Diel,73207,Little Rock,Sergio Villalobos,57005,Siu Edwardsville
+2023,02/12,Ohio - Southern Illinois Edwardsville Dual,184,L,DEC,6 - 2,Zayne Lehman,71781,Ohio,Sergio Villalobos,57005,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - Cleveland State Dual,184,L,DEC,3 - 2,Deandre Nassar,62202,Cleveland State,Sergio Villalobos,57005,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - George Mason Dual,184,L,SV-1,4 - 2,Tyler Kocak,69715,George Mason,Sergio Villalobos,57005,Siu Edwardsville
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,184,L,DEC,8 - 1,Tyler Bates,56413,Kent State,Sergio Villalobos,57005,Siu Edwardsville
+2023,01/22,Lindenwood (Mo) - Southern Illinois Edwardsville Dual,184,W,FALL,1:49,Cody Thurston,72503,Lindenwood,Sergio Villalobos,57005,Siu Edwardsville
+2023,01/15,Southern Illinois Edwardsville - Central Michigan Dual,184,L,FALL,2:30,Ben Cushman,57359,Central Michigan,Sergio Villalobos,57005,Siu Edwardsville
+2023,01/08,Buffalo - Southern Illinois Edwardsville Dual,184,L,DEC,9 - 4,Guiseppe Hoose,56371,Buffalo,Sergio Villalobos,57005,Siu Edwardsville
+2023,12/29,Midlands Championships,184,L,TF5,16 - 0 7:00,Mikey Squires,67290,NJRTC,Sergio Villalobos,57005,Siu Edwardsville
+2023,12/29,Midlands Championships,184,L,DEC,8 - 1,James Conway,72677,Franklin & Marshall,Sergio Villalobos,57005,Siu Edwardsville
+2023,12/16,Clarion - Southern Illinois Edwardsville Dual,184,L,DEC,5 - 2,Will Feldkamp,51599,Clarion,Sergio Villalobos,57005,Siu Edwardsville
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,184,L,MD,12 - 3,Matthew Waddell,49259,Chattanooga,Sergio Villalobos,57005,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,184,L,MD,14 - 2,Andrew Donahue,73503,Northern Colorado,Sergio Villalobos,57005,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,184,L,DEC,7 - 2,Andrew Donahue,73503,Northern Colorado,Sergio Villalobos,57005,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,184,W,DEC,3 - 1,Branson Britten,71938,Northern Colorado,Sergio Villalobos,57005,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,184,W,DEC,7 - 3,Mason Diel,73207,Little Rock,Sergio Villalobos,57005,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,184,W,SV-1,3 - 1,Tanner Mendoza,65930,Little Rock,Sergio Villalobos,57005,Siu Edwardsville
+2023,11/19,Lindenwood Open,184,W,DEC,3 - 2,Micah Ervin,69866,SIU Edwardsville,Sergio Villalobos,57005,Siu Edwardsville
+2023,11/19,Lindenwood Open,184,L,FALL,1:08,Kyle Haas,67222,Oklahoma State,Sergio Villalobos,57005,Siu Edwardsville
+2023,11/19,Lindenwood Open,184,L,DEC,7 - 4,Joshua Jones,57506,McKendree University,Sergio Villalobos,57005,Siu Edwardsville
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,184,W,FALL,4:05,Asa Terrell,69517,Rider,Sergio Villalobos,57005,Siu Edwardsville
+2023,11/04,Indiana - Southern Illinois Edwardsville Dual,184,W,DEC,4 - 0,Drayton Harris,69357,Indiana,Sergio Villalobos,57005,Siu Edwardsville
+2023,02/05,Greyhound Open,184,W,DEC,9 - 4,Ridge Schutte,79139,McKendree University,Deron Pulliam,77410,Siu Edwardsville
+2023,02/05,Greyhound Open,184,W,MD,12 - 2,Cody Timmerman,76233,Indiana Tech,Deron Pulliam,77410,Siu Edwardsville
+2023,02/05,Greyhound Open,184,W,TF5,17 - 1 7:00,Trescott Duffy,75138,Wabash,Deron Pulliam,77410,Siu Edwardsville
+2023,02/05,Greyhound Open,184,W,DEC,5 - 3,Charles Baczek,75124,Wabash,Deron Pulliam,77410,Siu Edwardsville
+2023,02/05,Greyhound Open,184,W,DEC,9 - 5,Aidan Petersen,74808,Indianapolis,Deron Pulliam,77410,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,184,W,DEC,5 - 2,McKinley Kemper,70729,Lindenwood,Deron Pulliam,77410,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,184,W,DEC,5 - 0,Dylan Shotwell,53351,Maryville University,Deron Pulliam,77410,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,184,W,MD,11 - 3,Jeremiah Halter,79455,Drury University,Deron Pulliam,77410,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,184,W,SV-1,3 - 1,Zach Hazen,66202,Central Missouri,Deron Pulliam,77410,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,184,W,DEC,2 - 0,Brayden Dillow,73208,Central Missouri,Deron Pulliam,77410,Siu Edwardsville
+2023,12/29,Midlands Championships,184,W,MFOR,0 - 0,Ermak Kardonov,83384,Unattached,Deron Pulliam,77410,Siu Edwardsville
+2023,12/29,Midlands Championships,184,W,DEC,9 - 3,Shane Moran,78605,Northern Illinois,Deron Pulliam,77410,Siu Edwardsville
+2023,12/29,Midlands Championships,184,L,SV-1,6 - 4,Leonardo Tarantino,51222,Harvard,Deron Pulliam,77410,Siu Edwardsville
+2023,12/29,Midlands Championships,184,L,DEC,2 - 0,Tyler Dow,50622,Wisconsin,Deron Pulliam,77410,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,184,W,DEC,3 - 2,Micah Ervin,69866,SIU Edwardsville,Deron Pulliam,77410,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,184,W,MD,11 - 1,Joshua Jones,57506,McKendree University,Deron Pulliam,77410,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,184,W,MD,11 - 2,Brooks Sacharczyk,63033,Little Rock,Deron Pulliam,77410,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,184,W,MD,12 - 4,Santos Cantu,64640,Indiana,Deron Pulliam,77410,Siu Edwardsville
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,184,L,SV-1,3 - 1,Jha'Quan Anderson,62407,Gardner-Webb,Micah Ervin,69866,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,184,L,DEC,4 - 2,Branson Britten,71938,Northern Colorado,Micah Ervin,69866,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,184,L,DEC,6 - 4,Mason Diel,73207,Little Rock,Micah Ervin,69866,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,184,L,DEC,10 - 4,Tanner Mendoza,65930,Little Rock,Micah Ervin,69866,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,184,W,MD,16 - 4,Cody Thurston,72503,Lindenwood,Micah Ervin,69866,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,184,W,DEC,5 - 3,Austin Raynor,72501,Lindenwood,Micah Ervin,69866,Siu Edwardsville
+2023,11/19,Lindenwood Open,184,L,DEC,3 - 2,Sergio Villalobos,57005,SIU Edwardsville,Micah Ervin,69866,Siu Edwardsville
+2023,11/19,Lindenwood Open,184,L,FALL,5:51,Jackson White,71351,Northeastern Oklahoma,Micah Ervin,69866,Siu Edwardsville
+2023,11/19,Lindenwood Open,184,W,DEC,11 - 7,Evan Shetley,70016,Oklahoma State,Micah Ervin,69866,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,184,L,DEC,3 - 2,Deron Pulliam,77410,SIU Edwardsville,Micah Ervin,69866,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,184,W,FALL,0:30,Aj Carter,64424,Unattached,Micah Ervin,69866,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,184,W,DEC,12 - 7,Joey Williams,54074,Maryville University,Micah Ervin,69866,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,184,W,DEC,12 - 5,Tylynn Lukens,70993,Little Rock,Micah Ervin,69866,Siu Edwardsville
+2023,03/03,MAC Championships,197,W,DEC,4 - 0,Jon List,71833,George Mason,Ryan Yarnell,57006,Siu Edwardsville
+2023,03/03,MAC Championships,197,L,SV-1,5 - 3,Cameron Wood,73724,Central Michigan,Ryan Yarnell,57006,Siu Edwardsville
+2023,03/03,MAC Championships,197,L,DEC,7 - 4,Sam Mitchell,61028,Buffalo,Ryan Yarnell,57006,Siu Edwardsville
+2023,02/19,Northern Illinois - Southern Illinois Edwardsville Dual,197,W,DEC,13 - 8,Devonjae Hudson,73346,Northern Illinois,Ryan Yarnell,57006,Siu Edwardsville
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,197,W,DEC,6 - 0,Matthew Weinert,74053,Little Rock,Ryan Yarnell,57006,Siu Edwardsville
+2023,02/12,Ohio - Southern Illinois Edwardsville Dual,197,W,DEC,2 - 0,Carson Brewer,60286,Ohio,Ryan Yarnell,57006,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - Cleveland State Dual,197,W,DEC,2 - 0,Joey Lyons,72596,Cleveland State,Ryan Yarnell,57006,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - George Mason Dual,197,W,DEC,2 - 1,Jon List,71833,George Mason,Ryan Yarnell,57006,Siu Edwardsville
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,197,W,MD,14 - 3,Blake Schaffer,79797,Kent State,Ryan Yarnell,57006,Siu Edwardsville
+2023,01/22,Lindenwood (Mo) - Southern Illinois Edwardsville Dual,197,W,FALL,4:26,Ryan Golnick,76563,Lindenwood,Ryan Yarnell,57006,Siu Edwardsville
+2023,01/15,Southern Illinois Edwardsville - Central Michigan Dual,197,W,DEC,9 - 2,Cameron Wood,73724,Central Michigan,Ryan Yarnell,57006,Siu Edwardsville
+2023,01/08,Buffalo - Southern Illinois Edwardsville Dual,197,L,DEC,4 - 2,Sam Mitchell,61028,Buffalo,Ryan Yarnell,57006,Siu Edwardsville
+2023,12/29,Midlands Championships,197,L,FALL,2:56,Braxton Amos,62756,Wisconsin,Ryan Yarnell,57006,Siu Edwardsville
+2023,12/29,Midlands Championships,197,W,INJ,7:00,Jonathan Fagen,57304,Arizona State,Ryan Yarnell,57006,Siu Edwardsville
+2023,12/29,Midlands Championships,197,L,MD,17 - 6,Andrew Davison,49178,Northwestern,Ryan Yarnell,57006,Siu Edwardsville
+2023,12/29,Midlands Championships,197,W,DEC,9 - 2,Joey Braunagel,71872,Illinois,Ryan Yarnell,57006,Siu Edwardsville
+2023,12/29,Midlands Championships,197,W,MFOR,0 - 0,Austin Cooley,56772,West Virginia,Ryan Yarnell,57006,Siu Edwardsville
+2023,12/29,Midlands Championships,197,L,FALL,1:00,Cole Urbas,56773,Pennsylvania,Ryan Yarnell,57006,Siu Edwardsville
+2023,12/16,Clarion - Southern Illinois Edwardsville Dual,197,L,FALL,1:43,Tyler Bagoly,49098,Clarion,Ryan Yarnell,57006,Siu Edwardsville
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,197,L,SV-1,10 - 8,Samuel Mora,62408,Gardner-Webb,Ryan Yarnell,57006,Siu Edwardsville
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,197,L,DEC,5 - 2,Jake Boyd,49260,Chattanooga,Ryan Yarnell,57006,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,197,W,DEC,6 - 0,Tommy Hagen,78444,Missouri,Ryan Yarnell,57006,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,197,L,DEC,5 - 4,Jesse Cassat,73384,Missouri,Ryan Yarnell,57006,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,197,W,TF5,18 - 0 7:00,Tylynn Lukens,70993,Little Rock,Ryan Yarnell,57006,Siu Edwardsville
+2023,11/19,Lindenwood Open,197,L,DEC,3 - 1,Tommy Hagen,78444,Missouri,Ryan Yarnell,57006,Siu Edwardsville
+2023,11/19,Lindenwood Open,197,L,MD,18 - 7,Kolby Franklin,73803,Iowa,Ryan Yarnell,57006,Siu Edwardsville
+2023,11/19,Lindenwood Open,197,W,DEC,10 - 5,Joey Braunagel,71872,Illinois,Ryan Yarnell,57006,Siu Edwardsville
+2023,11/19,Lindenwood Open,197,W,TF5,16 - 0 7:00,Chase Waggoner,62515,Illinois,Ryan Yarnell,57006,Siu Edwardsville
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,197,L,TF5,21 - 6 7:00,Ethan Laird,50134,Rider,Ryan Yarnell,57006,Siu Edwardsville
+2023,11/04,Indiana - Southern Illinois Edwardsville Dual,197,W,DEC,6 - 0,Gabe Sollars,77269,Indiana,Ryan Yarnell,57006,Siu Edwardsville
+2023,02/05,Greyhound Open,197,L,DEC,8 - 2,Gabe Sollars,77269,Indiana,Bryson Buhk,78485,Siu Edwardsville
+2023,02/05,Greyhound Open,197,L,DEC,6 - 3,Phoenix Rodgers,67580,Indianapolis,Bryson Buhk,78485,Siu Edwardsville
+2023,02/05,Greyhound Open,197,W,DEC,4 - 0,Alex Drmac,66431,McKendree University,Bryson Buhk,78485,Siu Edwardsville
+2023,02/05,Greyhound Open,197,W,MD,10 - 2,Griffin Stine,62525,Indianapolis,Bryson Buhk,78485,Siu Edwardsville
+2023,01/21,Harper Open,197,W,DEC,8 - 1,Diego Sanchez,81049,Triton College,Bryson Buhk,78485,Siu Edwardsville
+2023,01/21,Harper Open,197,W,DEC,4 - 3,Jordan Lewis,81010,Wisconsin-Whitewater,Bryson Buhk,78485,Siu Edwardsville
+2023,01/21,Harper Open,197,L,DEC,1 - 0,Jordan Lewis,81010,Wisconsin-Whitewater,Bryson Buhk,78485,Siu Edwardsville
+2023,01/21,Harper Open,197,W,FALL,2:06,Isaac Albor,78120,Morton College,Bryson Buhk,78485,Siu Edwardsville
+2023,01/21,Harper Open,197,W,MD,9 - 0,Isaiah Chukwu,77048,Joliet Junior College,Bryson Buhk,78485,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,197,L,DEC,3 - 1,Mohamed Elgouhari,79480,Oklahoma,Bryson Buhk,78485,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,197,W,DEC,5 - 2,BK Seago,79457,Drury University,Bryson Buhk,78485,Siu Edwardsville
+2023,01/07,Bongo Bayly Open,197,W,DEC,1 - 0,Trent Strong,75845,Central Missouri,Bryson Buhk,78485,Siu Edwardsville
+2023,12/29,Midlands Championships,197,L,DEC,3 - 2,Michael Doggett,62194,Harvard,Bryson Buhk,78485,Siu Edwardsville
+2023,12/29,Midlands Championships,197,L,DEC,5 - 3,Jonathan Fagen,57304,Arizona State,Bryson Buhk,78485,Siu Edwardsville
+2023,11/19,Lindenwood Open,197,W,DEC,4 - 0,Elijah Hynes,81548,Central Methodist,Bryson Buhk,78485,Siu Edwardsville
+2023,11/19,Lindenwood Open,197,L,MFOR,0 - 0,Connor DiCarlo,80009,Carl Albert State,Bryson Buhk,78485,Siu Edwardsville
+2023,11/19,Lindenwood Open,197,L,MFOR,0 - 0,Kayden Garrett,79530,Quincy,Bryson Buhk,78485,Siu Edwardsville
+2023,11/19,Lindenwood Open,197,W,DEC,2 - 0,Tobias Bel,77520,Indian Hills,Bryson Buhk,78485,Siu Edwardsville
+2023,11/19,Lindenwood Open,197,W,MD,13 - 3,Paul Garcia,74798,Missouri Valley,Bryson Buhk,78485,Siu Edwardsville
+2023,11/19,Lindenwood Open,197,L,FALL,6:29,Matthew Weinert,74053,Little Rock,Bryson Buhk,78485,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,197,W,TF5,15 - 0 7:00,Kadin Stutzman,80228,Cumberland,Bryson Buhk,78485,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,197,W,MD,11 - 2,Donnell Packer,79532,Quincy,Bryson Buhk,78485,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,197,W,MD,13 - 4,Kayden Garrett,79530,Quincy,Bryson Buhk,78485,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,197,L,FALL,1:17,Kayden Garrett,79530,Quincy,Bryson Buhk,78485,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,197,W,FALL,4:55,RC Morris,79374,University of the Ozarks,Bryson Buhk,78485,Siu Edwardsville
+2023,03/16,NCAA Championships,285,L,DEC,11 - 5,Zach Elam,51612,Missouri,Colton McKiernan,57003,Siu Edwardsville
+2023,03/16,NCAA Championships,285,W,DEC,2 - 1,Tyrell Gordon,51694,Northern Iowa,Colton McKiernan,57003,Siu Edwardsville
+2023,03/16,NCAA Championships,285,W,DEC,2 - 0,Ben Goldin,50827,Pennsylvania,Colton McKiernan,57003,Siu Edwardsville
+2023,03/16,NCAA Championships,285,L,FALL,6:10,Cohlton Schultz,56899,Arizona State,Colton McKiernan,57003,Siu Edwardsville
+2023,03/16,NCAA Championships,285,W,DEC,4 - 0,Nathan Taylor,73044,Lehigh,Colton McKiernan,57003,Siu Edwardsville
+2023,03/03,MAC Championships,285,W,DEC,2 - 0,Terrese Aaron,51827,Northern Illinois,Colton McKiernan,57003,Siu Edwardsville
+2023,03/03,MAC Championships,285,W,MD,10 - 0,Donovan Sprouse,78363,George Mason,Colton McKiernan,57003,Siu Edwardsville
+2023,03/03,MAC Championships,285,W,DEC,2 - 0,Daniel Bucknavich,62488,Cleveland State,Colton McKiernan,57003,Siu Edwardsville
+2023,02/19,Northern Illinois - Southern Illinois Edwardsville Dual,285,W,DEC,3 - 0,Terrese Aaron,51827,Northern Illinois,Colton McKiernan,57003,Siu Edwardsville
+2023,02/12,Little Rock - Southern Illinois Edwardsville Dual,285,W,DEC,3 - 0,Josiah Hill,65931,Little Rock,Colton McKiernan,57003,Siu Edwardsville
+2023,02/12,Ohio - Southern Illinois Edwardsville Dual,285,W,FALL,2:12,Jacob Padilla,62517,Ohio,Colton McKiernan,57003,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - Cleveland State Dual,285,W,DEC,3 - 1,Daniel Bucknavich,62488,Cleveland State,Colton McKiernan,57003,Siu Edwardsville
+2023,01/28,Southern Illinois Edwardsville - George Mason Dual,285,W,FALL,1:32,Donovan Sprouse,78363,George Mason,Colton McKiernan,57003,Siu Edwardsville
+2023,01/27,Southern Illinois Edwardsville - Kent State Dual,285,W,DEC,6 - 0,Jacob Cover,57237,Kent State,Colton McKiernan,57003,Siu Edwardsville
+2023,01/22,Lindenwood (Mo) - Southern Illinois Edwardsville Dual,285,W,TF5,18 - 3 7:00,David Hernandez,74864,Lindenwood,Colton McKiernan,57003,Siu Edwardsville
+2023,01/15,Southern Illinois Edwardsville - Central Michigan Dual,285,W,DEC,5 - 0,Bryan Caves,71791,Central Michigan,Colton McKiernan,57003,Siu Edwardsville
+2023,12/29,Midlands Championships,285,W,DEC,9 - 2,Yaraslau Slavikouski,62196,Harvard,Colton McKiernan,57003,Siu Edwardsville
+2023,12/29,Midlands Championships,285,L,DEC,4 - 2,Cohlton Schultz,56899,Arizona State,Colton McKiernan,57003,Siu Edwardsville
+2023,12/29,Midlands Championships,285,L,MD,8 - 0,Lucas Davison,51236,Northwestern,Colton McKiernan,57003,Siu Edwardsville
+2023,12/29,Midlands Championships,285,W,MFOR,0 - 0,Trent Hillger,49350,Wisconsin,Colton McKiernan,57003,Siu Edwardsville
+2023,12/29,Midlands Championships,285,W,DEC,4 - 0,Bryan Caves,71791,Central Michigan,Colton McKiernan,57003,Siu Edwardsville
+2023,12/29,Midlands Championships,285,W,DEC,3 - 0,Greg Hodulick,49406,Buffalo,Colton McKiernan,57003,Siu Edwardsville
+2023,12/16,Clarion - Southern Illinois Edwardsville Dual,285,W,TF5,15 - 0 6:15,Reynold Maines,39928,Clarion,Colton McKiernan,57003,Siu Edwardsville
+2023,12/16,Southern Illinois Edwardsville - Gardner-Webb Dual,285,W,MD,13 - 0,Abraham Preston,73731,Gardner-Webb,Colton McKiernan,57003,Siu Edwardsville
+2023,12/16,Chattanooga - Southern Illinois Edwardsville Dual,285,W,DEC,3 - 0,Logan Andrew,59757,Chattanooga,Colton McKiernan,57003,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,285,W,DEC,2 - 0,Jacobi Jackson,72513,Northern Illinois,Colton McKiernan,57003,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,285,W,DEC,1 - 0,Terrese Aaron,51827,Northern Illinois,Colton McKiernan,57003,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,285,W,DEC,1 - 0,Ryan Boersma,72603,Missouri,Colton McKiernan,57003,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,285,W,FALL,2:05,David Hernandez,74864,Lindenwood,Colton McKiernan,57003,Siu Edwardsville
+2023,11/19,Lindenwood Open,285,W,DEC,2 - 1,Ryan Boersma,72603,Missouri,Colton McKiernan,57003,Siu Edwardsville
+2023,11/19,Lindenwood Open,285,W,DEC,1 - 0,Ryan Boersma,72603,Missouri,Colton McKiernan,57003,Siu Edwardsville
+2023,11/19,Lindenwood Open,285,L,DEC,7 - 3,Seth Nitzel,66934,Missouri,Colton McKiernan,57003,Siu Edwardsville
+2023,11/19,Lindenwood Open,285,W,FALL,0:46,Daniel Renshaw,73203,Illinois,Colton McKiernan,57003,Siu Edwardsville
+2023,11/11,Rider - Southern Illinois Edwardsville Dual,285,W,FALL,2:28,David Szuba,72908,Rider,Colton McKiernan,57003,Siu Edwardsville
+2023,11/04,Indiana - Southern Illinois Edwardsville Dual,285,W,FALL,2:56,Jacob Bullock,57724,Indiana,Colton McKiernan,57003,Siu Edwardsville
+2023,11/19,Lindenwood Open,285,L,DEC,4 - 2,Brooks Baker,74818,Missouri Valley,Aric Bohn,57004,Siu Edwardsville
+2023,11/19,Lindenwood Open,285,W,MD,14 - 5,Dustin Olmstead,73227,McKendree University,Aric Bohn,57004,Siu Edwardsville
+2023,11/19,Lindenwood Open,285,L,DEC,6 - 3,Ryan Boersma,72603,Missouri,Aric Bohn,57004,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,285,W,MD,9 - 1,Dan McKiernan,72914,SIU Edwardsville,Aric Bohn,57004,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,285,W,DEC,3 - 2,Ryan Herman,62734,Maryville University,Aric Bohn,57004,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,285,L,FALL,4:03,Jacob Kaminski,79276,Indiana,Aric Bohn,57004,Siu Edwardsville
+2023,02/05,Greyhound Open,285,W,FALL,2:44,Ian Clifford,81987,Indiana Tech,Dan McKiernan,72914,Siu Edwardsville
+2023,02/05,Greyhound Open,285,L,FALL,1:36,Tyler Haynes,79142,McKendree University,Dan McKiernan,72914,Siu Edwardsville
+2023,02/05,Greyhound Open,285,L,SV-1,3 - 1,Jacob Telles,76819,King,Dan McKiernan,72914,Siu Edwardsville
+2023,02/05,Greyhound Open,285,W,MD,8 - 0,William Muckler,73536,Bellarmine,Dan McKiernan,72914,Siu Edwardsville
+2023,02/05,Greyhound Open,285,W,MD,9 - 0,Jay Thompson,67583,Indianapolis,Dan McKiernan,72914,Siu Edwardsville
+2023,01/21,Harper Open,285,W,MD,11 - 2,Cole Alsup,83722,Southwestern Michigan,Dan McKiernan,72914,Siu Edwardsville
+2023,01/21,Harper Open,285,W,FALL,3:45,Raymond Begay,81775,Morton College,Dan McKiernan,72914,Siu Edwardsville
+2023,01/21,Harper Open,285,W,FALL,5:12,Shane Edwards,80750,Southwestern Michigan,Dan McKiernan,72914,Siu Edwardsville
+2023,01/21,Harper Open,285,L,DEC,6 - 3,Nate Beberg,80396,Rochester Community & Tech College,Dan McKiernan,72914,Siu Edwardsville
+2023,01/08,Buffalo - Southern Illinois Edwardsville Dual,285,L,FALL,6:58,Greg Hodulick,49406,Buffalo,Dan McKiernan,72914,Siu Edwardsville
+2023,12/29,Midlands Championships,285,L,FALL,2:10,Cohlton Schultz,56899,Arizona State,Dan McKiernan,72914,Siu Edwardsville
+2023,12/29,Midlands Championships,285,L,DEC,3 - 1,Terrese Aaron,51827,Northern Illinois,Dan McKiernan,72914,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,285,L,DEC,4 - 2,Steven Kolcheff,67050,Missouri,Dan McKiernan,72914,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,285,L,DEC,8 - 2,Seth Nitzel,66934,Missouri,Dan McKiernan,72914,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,285,L,FALL,1:04,Josiah Hill,65931,Little Rock,Dan McKiernan,72914,Siu Edwardsville
+2023,12/04,Cougar Clash Invite,285,W,FALL,6:06,David Hernandez,74864,Lindenwood,Dan McKiernan,72914,Siu Edwardsville
+2023,11/19,Lindenwood Open,285,W,FALL,2:28,Raymond Begay,81775,Morton College,Dan McKiernan,72914,Siu Edwardsville
+2023,11/19,Lindenwood Open,285,W,FALL,0:11,Jayden Joseph,80246,Missouri Valley,Dan McKiernan,72914,Siu Edwardsville
+2023,11/19,Lindenwood Open,285,W,FALL,1:03,Ryan Blair,76529,Central Methodist,Dan McKiernan,72914,Siu Edwardsville
+2023,11/19,Lindenwood Open,285,W,DEC,3 - 1,Ka'Ron Lewis,73907,University of the Ozarks,Dan McKiernan,72914,Siu Edwardsville
+2023,11/19,Lindenwood Open,285,L,SV-1,3 - 1,Ka'Ron Lewis,73907,University of the Ozarks,Dan McKiernan,72914,Siu Edwardsville
+2023,11/19,Lindenwood Open,285,L,DEC,6 - 3,Apollo Gothard,72124,Little Rock,Dan McKiernan,72914,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,285,L,MD,9 - 1,Aric Bohn,57004,SIU Edwardsville,Dan McKiernan,72914,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,285,W,DEC,3 - 0,Matthew Johnston,80239,Midland,Dan McKiernan,72914,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,285,L,DEC,7 - 4,Ryan Herman,62734,Maryville University,Dan McKiernan,72914,Siu Edwardsville
+2023,11/05,Kaufman Brand Maryville Open,285,L,FALL,0:18,Joshua Isaac,59392,Missouri Valley,Dan McKiernan,72914,Siu Edwardsville

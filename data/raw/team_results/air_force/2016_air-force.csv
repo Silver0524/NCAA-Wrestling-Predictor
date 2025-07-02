@@ -1,0 +1,705 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2016,02/14,Air Force - Oregon State Dual,125,L,DEC,4 - 1,Ronnie Bresser,25183,Oregon State,Isaac Jimenez,22176,Air Force
+2016,02/11,New Mexico Highlands - Air Force Dual,125,W,DEC,4 - 1,Evan Perez,44423,New Mexico Highlands,Isaac Jimenez,22176,Air Force
+2016,01/09,Colorado Mesa University - Air Force Dual,125,W,MD,14 - 0,Jonathon Stelling,21918,Colorado Mesa,Isaac Jimenez,22176,Air Force
+2016,11/07,Cowboy Open,125,L,MFOR,0 - 0,Erick Rangel,41719,New Mexico Highlands,Isaac Jimenez,22176,Air Force
+2016,11/07,Cowboy Open,125,W,MD,9 - 0,Erick Rangel,41719,New Mexico Highlands,Isaac Jimenez,22176,Air Force
+2016,11/07,Cowboy Open,125,W,MD,19 - 5,Trey Andrews,13284,Northern Colorado,Isaac Jimenez,22176,Air Force
+2016,11/07,Cowboy Open,125,L,INJ,7:00,Rami Haddadin,16069,Boise State,Isaac Jimenez,22176,Air Force
+2016,03/17,NCAA Championships,125,W,DEC,9 - 4,Paul Petrov,12116,Bucknell,Drew Romero,20712,Air Force
+2016,03/17,NCAA Championships,125,L,DEC,6 - 0,Ryan Millhof,20815,Oklahoma,Drew Romero,20712,Air Force
+2016,03/17,NCAA Championships,125,L,FALL,4:49,Dalton Macri,42225,Cornell,Drew Romero,20712,Air Force
+2016,03/05,Big 12 Championships,125,L,DEC,6 - 2,Ryan Millhof,20815,Oklahoma,Drew Romero,20712,Air Force
+2016,03/05,Big 12 Championships,125,W,MFOR,0 - 0,Zeke Moisey,20472,West Virginia,Drew Romero,20712,Air Force
+2016,03/05,Big 12 Championships,125,W,MFOR,0 - 0,Chasen Tolbert,13373,Utah Valley,Drew Romero,20712,Air Force
+2016,03/05,Big 12 Championships,125,W,MD,13 - 3,Jesse Reed,40205,Northern Colorado,Drew Romero,20712,Air Force
+2016,03/05,Big 12 Championships,125,L,DEC,6 - 2,Drew Templeman,15167,Wyoming,Drew Romero,20712,Air Force
+2016,03/05,Big 12 Championships,125,W,SV-1,5 - 3,Kyle Larson,12069,Iowa State,Drew Romero,20712,Air Force
+2016,02/17,Air Force - Northern Colorado Dual,125,W,MD,14 - 4,Jesse Reed,40205,Northern Colorado,Drew Romero,20712,Air Force
+2016,02/11,Utah Valley - Air Force Dual,125,L,MD,8 - 0,Chasen Tolbert,13373,Utah Valley,Drew Romero,20712,Air Force
+2016,02/06,Stanford - Air Force Dual,125,L,DEC,8 - 4,Connor Schram,14982,Stanford,Drew Romero,20712,Air Force
+2016,01/30,All Academy Championships,125,W,FALL,3:53,Michael Mui,44234,Merchant Marine,Drew Romero,20712,Air Force
+2016,01/30,All Academy Championships,125,W,MD,15 - 6,Brant Leadbeter,20612,Navy,Drew Romero,20712,Air Force
+2016,01/30,All Academy Championships,125,L,DEC,12 - 6,Dalton Henderson,22457,VMI,Drew Romero,20712,Air Force
+2016,01/24,Air Force - South Dakota State Dual,125,L,MD,15 - 4,Ben Gillette,13275,South Dakota State,Drew Romero,20712,Air Force
+2016,01/22,Air Force - North Dakota State Dual,125,L,TF5,18 - 2 5:23,Josh Rodriguez,13418,North Dakota State,Drew Romero,20712,Air Force
+2016,01/17,Air Force - Grand Canyon Dual,125,W,DEC,11 - 5,Trayton Libolt,40387,Grand Canyon,Drew Romero,20712,Air Force
+2016,01/09,Western State Colorado University - Air Force Dual,125,W,DEC,7 - 4,Ronald Wardleigh,22175,Western Colorado,Drew Romero,20712,Air Force
+2016,01/01,Southern Scuffle,125,L,DEC,9 - 8,Dalton Macri,42225,Cornell,Drew Romero,20712,Air Force
+2016,01/01,Southern Scuffle,125,L,SV-1,4 - 2,Darian Cruz,12135,Lehigh,Drew Romero,20712,Air Force
+2016,01/01,Southern Scuffle,125,W,DEC,6 - 4,Skyler Petry,20045,Minnesota,Drew Romero,20712,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,125,W,MD,10 - 1,Landon Bailey,43282,North Idaho College,Drew Romero,20712,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,125,W,DEC,9 - 3,Ares Carpio,12143,Arizona State,Drew Romero,20712,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,125,L,DEC,7 - 4,Joey Dance,12221,Virginia Tech,Drew Romero,20712,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,125,L,DEC,10 - 8,Rami Haddadin,16069,Boise State,Drew Romero,20712,Air Force
+2016,11/21,Air Force - Wisconsin-La Crosse Dual,125,W,DEC,10 - 8,Ryan Weinmann,42586,Wisconsin-La Crosse,Drew Romero,20712,Air Force
+2016,11/21,Air Force - Minnesota Dual,125,L,DEC,9 - 7,Skyler Petry,20045,Minnesota,Drew Romero,20712,Air Force
+2016,11/13,Wyoming - Air Force Dual,125,L,DEC,8 - 1,Drew Templeman,15167,Wyoming,Drew Romero,20712,Air Force
+2016,11/07,Cowboy Open,125,L,FALL,5:30,Mitch Brown,40325,Utah Valley,Drew Romero,20712,Air Force
+2016,11/07,Cowboy Open,125,W,FALL,4:01,Channing Lewis,21906,Colorado Mesa,Drew Romero,20712,Air Force
+2016,11/07,Cowboy Open,125,W,DEC,5 - 1,Gunnar Woodburn,16526,Wyoming,Drew Romero,20712,Air Force
+2016,11/07,Cowboy Open,125,L,DEC,4 - 1,Drew Templeman,15167,Wyoming,Drew Romero,20712,Air Force
+2016,02/06,Rocky Mountain Open,125,L,DEC,8 - 5,Matthew Lavengood,44293,Colorado School Of Mines,Cassidy Oshiro,16913,Air Force
+2016,02/06,Rocky Mountain Open,125,W,DEC,7 - 5,Rocky Nava,40595,Colorado Mesa,Cassidy Oshiro,16913,Air Force
+2016,02/06,Rocky Mountain Open,125,L,DEC,8 - 3,Zachary Gracia,42581,Colorado School Of Mines,Cassidy Oshiro,16913,Air Force
+2016,02/06,Rocky Mountain Open,125,W,DEC,5 - 2,Sam Sandoval,40642,Colorado Mesa,Cassidy Oshiro,16913,Air Force
+2016,11/21,Holiday Inn Open,125,L,MD,12 - 0,Zachary Gracia,42581,Colorado School Of Mines,Daron Fanniel,40626,Air Force
+2016,11/21,Holiday Inn Open,125,L,DEC,4 - 2,Devin Phaly,42580,Morningside,Daron Fanniel,40626,Air Force
+2016,11/07,Cowboy Open,125,L,DEC,6 - 3,Aaron Beltran,41815,Northwest Kansas Technical College,Daron Fanniel,40626,Air Force
+2016,11/07,Cowboy Open,125,L,DEC,5 - 1,Jesse Reed,40205,Northern Colorado,Daron Fanniel,40626,Air Force
+2016,11/01,Northern Colorado Open,125,L,FALL,1:21,Rocky Nava,40595,Colorado Mesa,Daron Fanniel,40626,Air Force
+2016,11/01,Northern Colorado Open,125,L,TF5,16 - 0 2:58,Jonathon Stelling,21918,Colorado Mesa,Daron Fanniel,40626,Air Force
+2016,03/17,NCAA Championships,133,L,DEC,7 - 3,Mason Beckman,12016,Lehigh,Josh Martinez,12145,Air Force
+2016,03/17,NCAA Championships,133,W,DEC,13 - 8,Johnni DiJulius,14679,Ohio State,Josh Martinez,12145,Air Force
+2016,03/17,NCAA Championships,133,W,DEC,3 - 2,Rossi Bruno,15289,Michigan,Josh Martinez,12145,Air Force
+2016,03/17,NCAA Championships,133,L,DEC,6 - 3,Earl Hall,12220,Iowa State,Josh Martinez,12145,Air Force
+2016,03/05,Big 12 Championships,133,W,MD,10 - 2,Keegan Moore,39680,West Virginia,Josh Martinez,12145,Air Force
+2016,03/05,Big 12 Championships,133,L,DEC,10 - 6,Jade Rauser,13291,Utah Valley,Josh Martinez,12145,Air Force
+2016,03/05,Big 12 Championships,133,W,MD,11 - 2,Rico Montoya,39862,Northern Colorado,Josh Martinez,12145,Air Force
+2016,03/05,Big 12 Championships,133,L,DEC,12 - 9,Gary Wayne Harding,20270,Oklahoma State,Josh Martinez,12145,Air Force
+2016,02/17,Air Force - Northern Colorado Dual,133,W,DEC,7 - 4,Rico Montoya,39862,Northern Colorado,Josh Martinez,12145,Air Force
+2016,02/11,Utah Valley - Air Force Dual,133,W,DEC,4 - 3,Jade Rauser,13291,Utah Valley,Josh Martinez,12145,Air Force
+2016,02/06,Stanford - Air Force Dual,133,W,DEC,4 - 0,Brian Rossi,20394,Stanford,Josh Martinez,12145,Air Force
+2016,01/30,All Academy Championships,133,W,TF5,17 - 1 5:53,Caleb Smith,40371,The Citadel,Josh Martinez,12145,Air Force
+2016,01/30,All Academy Championships,133,L,DEC,7 - 4,Zack Davis,20604,Navy,Josh Martinez,12145,Air Force
+2016,01/30,All Academy Championships,133,W,FALL,4:36,Dominick Gallo,39739,VMI,Josh Martinez,12145,Air Force
+2016,01/24,Air Force - South Dakota State Dual,133,W,FALL,6:00,Brance Simms,11703,South Dakota State,Josh Martinez,12145,Air Force
+2016,01/22,Air Force - North Dakota State Dual,133,W,DEC,8 - 3,Nico Colunga,39981,North Dakota State,Josh Martinez,12145,Air Force
+2016,01/01,Southern Scuffle,133,W,DEC,8 - 5,Rico Montoya,39862,Northern Colorado,Josh Martinez,12145,Air Force
+2016,01/01,Southern Scuffle,133,L,DEC,10 - 5,George DiCamillo,20426,Virginia,Josh Martinez,12145,Air Force
+2016,01/01,Southern Scuffle,133,W,MD,14 - 3,Anthony Rivera,14699,Edinboro,Josh Martinez,12145,Air Force
+2016,01/01,Southern Scuffle,133,W,MFOR,0 - 0,Kaid Brock,39544,Oklahoma State,Josh Martinez,12145,Air Force
+2016,01/01,Southern Scuffle,133,L,DEC,10 - 6,Kaid Brock,39544,Oklahoma State,Josh Martinez,12145,Air Force
+2016,01/01,Southern Scuffle,133,W,DEC,8 - 5,Sam Brancale,13257,Minnesota,Josh Martinez,12145,Air Force
+2016,01/01,Southern Scuffle,133,W,MD,11 - 3,Austin Harry,22478,Army West Point,Josh Martinez,12145,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,133,L,DEC,5 - 3,Mack McGuire,12004,Kent State,Josh Martinez,12145,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,SV-1,1 - 0,Jade Rauser,13291,Utah Valley,Josh Martinez,12145,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,133,L,MD,11 - 3,Nahshon Garrett,12070,Cornell,Josh Martinez,12145,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,DEC,9 - 6,Joey Palmer,12152,Oregon State,Josh Martinez,12145,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,133,W,DEC,4 - 0,Carlos Herrera,40167,CSU Bakersfield,Josh Martinez,12145,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,133,L,DEC,3 - 2,Josh Alber,20208,Northern Iowa,Josh Martinez,12145,Air Force
+2016,11/21,Air Force - Wisconsin-La Crosse Dual,133,W,DEC,6 - 2,Dustin Weinmann,42587,Wisconsin-La Crosse,Josh Martinez,12145,Air Force
+2016,11/21,Air Force - Minnesota Dual,133,W,DEC,8 - 5,Sam Brancale,13257,Minnesota,Josh Martinez,12145,Air Force
+2016,11/07,Cowboy Open,133,W,DEC,2 - 1,Daniel DeShazer,21395,Nebraska-Kearney,Josh Martinez,12145,Air Force
+2016,11/07,Cowboy Open,133,W,DEC,10 - 5,Rico Montoya,39862,Northern Colorado,Josh Martinez,12145,Air Force
+2016,11/07,Cowboy Open,133,W,TF5,15 - 0 4:58,Abe Fox,20185,Northern Colorado,Josh Martinez,12145,Air Force
+2016,11/07,Cowboy Open,133,W,DEC,3 - 0,Josh Newburg,13286,Boise State,Josh Martinez,12145,Air Force
+2016,03/05,Big 12 Championships,141,L,DEC,6 - 2,Trae Blackwell,20807,Oklahoma,Dylan Hyder,41723,Air Force
+2016,03/05,Big 12 Championships,141,W,FALL,4:33,Benjamin Polkowske,20556,Northern Colorado,Dylan Hyder,41723,Air Force
+2016,03/05,Big 12 Championships,141,L,DEC,14 - 7,Bryce Meredith,20135,Wyoming,Dylan Hyder,41723,Air Force
+2016,03/05,Big 12 Championships,141,W,DEC,4 - 2,Nathan Boston,19956,Iowa State,Dylan Hyder,41723,Air Force
+2016,02/17,Air Force - Northern Colorado Dual,141,L,DEC,8 - 2,Benjamin Polkowske,20556,Northern Colorado,Dylan Hyder,41723,Air Force
+2016,02/14,Air Force - Oregon State Dual,141,L,DEC,5 - 3,Jack Hathaway,15765,Oregon State,Dylan Hyder,41723,Air Force
+2016,02/11,Utah Valley - Air Force Dual,141,L,DEC,4 - 3,Jarod Maynes,20416,Utah Valley,Dylan Hyder,41723,Air Force
+2016,02/06,Stanford - Air Force Dual,141,L,FALL,6:54,Joseph McKenna,24215,Stanford,Dylan Hyder,41723,Air Force
+2016,01/30,All Academy Championships,141,W,FALL,2:40,Daniel May,44237,Merchant Marine,Dylan Hyder,41723,Air Force
+2016,01/30,All Academy Championships,141,L,DEC,8 - 2,Ty Buckiso,20399,The Citadel,Dylan Hyder,41723,Air Force
+2016,01/30,All Academy Championships,141,L,DEC,7 - 4,Nicholas Gil,40255,Navy,Dylan Hyder,41723,Air Force
+2016,01/30,All Academy Championships,141,W,DEC,3 - 0,Hunter Starner,20701,VMI,Dylan Hyder,41723,Air Force
+2016,01/24,Air Force - South Dakota State Dual,141,L,FALL,2:49,Seth Gross,19949,South Dakota State,Dylan Hyder,41723,Air Force
+2016,01/22,Air Force - North Dakota State Dual,141,W,MD,12 - 2,Tom Walton,13406,North Dakota State,Dylan Hyder,41723,Air Force
+2016,11/07,Cowboy Open,133,L,MFOR,0 - 0,John Twomey,40122,Air Force,Dylan Hyder,41723,Air Force
+2016,11/07,Cowboy Open,133,L,DEC,7 - 4,Rico Montoya,39862,Northern Colorado,Dylan Hyder,41723,Air Force
+2016,11/07,Cowboy Open,133,W,DEC,2 - 1,PT Garcia,21671,Wyoming,Dylan Hyder,41723,Air Force
+2016,02/21,US Collegiate Championships,133,W,FALL,1:01,Ife Onigbanjo,40627,Air Force,John Twomey,40122,Air Force
+2016,02/21,US Collegiate Championships,133,L,FALL,1:51,Trey Andrews,13284,Northern Colorado,John Twomey,40122,Air Force
+2016,02/21,US Collegiate Championships,133,L,DEC,9 - 6,Dalton Brady,20566,Arizona State,John Twomey,40122,Air Force
+2016,02/21,US Collegiate Championships,133,W,DEC,7 - 0,Max Stevens,40143,Wyoming,John Twomey,40122,Air Force
+2016,02/14,Air Force - Oregon State Dual,133,L,MD,14 - 4,Joey Palmer,12152,Oregon State,John Twomey,40122,Air Force
+2016,02/11,New Mexico Highlands - Air Force Dual,133,W,FALL,4:03,Tre Humphrey,21254,New Mexico Highlands,John Twomey,40122,Air Force
+2016,02/06,Rocky Mountain Open,133,W,DEC,5 - 3,Noah Au-yeung,44295,Colorado School Of Mines,John Twomey,40122,Air Force
+2016,02/06,Rocky Mountain Open,133,W,DEC,5 - 2,Darek Huff,43394,Adams State,John Twomey,40122,Air Force
+2016,02/06,Rocky Mountain Open,133,W,MD,8 - 0,Ryan Waite,40647,Western Colorado,John Twomey,40122,Air Force
+2016,02/06,Rocky Mountain Open,133,W,FALL,1:10,Matthew Lewis,44294,Colorado School Of Mines,John Twomey,40122,Air Force
+2016,01/17,Air Force - Grand Canyon Dual,133,W,DEC,7 - 2,Juaquin Olivas,40388,Grand Canyon,John Twomey,40122,Air Force
+2016,01/09,Colorado State University - Pueblo - Air Force Dual,133,W,TF5,17 - 0 4:20,Thomas Hancock,43800,CSU-Pueblo,John Twomey,40122,Air Force
+2016,01/09,Colorado Mesa University - Air Force Dual,133,W,MD,11 - 3,Gambrell Madison,43633,Colorado Mesa,John Twomey,40122,Air Force
+2016,01/09,Western State Colorado University - Air Force Dual,133,W,DEC,6 - 2,Zach Shank,41447,Western Colorado,John Twomey,40122,Air Force
+2016,01/01,Southern Scuffle,133,L,MD,13 - 0,Nathan Kraisser,20783,Campbell,John Twomey,40122,Air Force
+2016,01/01,Southern Scuffle,133,L,FALL,1:57,George DiCamillo,20426,Virginia,John Twomey,40122,Air Force
+2016,01/01,Southern Scuffle,133,W,DEC,6 - 2,PT Garcia,21671,Wyoming,John Twomey,40122,Air Force
+2016,11/13,Wyoming - Air Force Dual,133,W,DEC,6 - 2,Gunnar Woodburn,16526,Wyoming,John Twomey,40122,Air Force
+2016,11/07,Cowboy Open,133,L,FALL,5:00,Daniel DeShazer,21395,Nebraska-Kearney,John Twomey,40122,Air Force
+2016,11/07,Cowboy Open,133,W,DEC,4 - 1,Joshua Miller,21506,Chadron State,John Twomey,40122,Air Force
+2016,11/07,Cowboy Open,133,W,MFOR,0 - 0,Dylan Hyder,41723,Air Force,John Twomey,40122,Air Force
+2016,11/07,Cowboy Open,133,L,DEC,4 - 3,Josh Newburg,13286,Boise State,John Twomey,40122,Air Force
+2016,11/01,Northern Colorado Open,133,W,MD,11 - 2,Michael Espinoza,21974,Northern Colorado,John Twomey,40122,Air Force
+2016,11/01,Northern Colorado Open,133,W,MD,9 - 0,Ruben Lucero,40599,CSU-Pueblo,John Twomey,40122,Air Force
+2016,11/01,Northern Colorado Open,133,L,DEC,9 - 2,Rico Montoya,39862,Northern Colorado,John Twomey,40122,Air Force
+2016,11/01,Northern Colorado Open,133,W,MD,12 - 1,Abe Fox,20185,Northern Colorado,John Twomey,40122,Air Force
+2016,11/01,Northern Colorado Open,133,W,TF5,16 - 0 3:19,Ife Onigbanjo,40627,Air Force,John Twomey,40122,Air Force
+2016,02/21,US Collegiate Championships,133,L,FALL,1:15,Trey Andrews,13284,Northern Colorado,Ife Onigbanjo,40627,Air Force
+2016,02/21,US Collegiate Championships,133,L,FALL,1:24,Dalton Brady,20566,Arizona State,Ife Onigbanjo,40627,Air Force
+2016,02/21,US Collegiate Championships,133,L,FALL,1:01,John Twomey,40122,Air Force,Ife Onigbanjo,40627,Air Force
+2016,11/01,Northern Colorado Open,133,L,TF5,16 - 0 3:19,John Twomey,40122,Air Force,Ife Onigbanjo,40627,Air Force
+2016,02/21,US Collegiate Championships,141,L,FALL,1:08,Ben Hornickle,42602,Wyoming,Anthony McHugh,13217,Air Force
+2016,02/21,US Collegiate Championships,141,W,FALL,7:33,Chase Call,40319,Utah Valley,Anthony McHugh,13217,Air Force
+2016,02/21,US Collegiate Championships,141,W,DEC,8 - 5,Kade Moss,15933,Penn State,Anthony McHugh,13217,Air Force
+2016,02/06,Rocky Mountain Open,141,L,MFOR,0 - 0,Jd Rader,43400,Nebraska-Kearney,Anthony McHugh,13217,Air Force
+2016,02/06,Rocky Mountain Open,141,L,FALL,3:00,Brandon Ball,42603,Fort Hays State,Anthony McHugh,13217,Air Force
+2016,02/06,Rocky Mountain Open,141,W,TF5,16 - 0 5:11,Brett Kasprzyk,22194,Colorado Mesa,Anthony McHugh,13217,Air Force
+2016,01/17,Air Force - Grand Canyon Dual,141,L,DEC,3 - 2,Uzo Owuama,22154,Grand Canyon,Anthony McHugh,13217,Air Force
+2016,01/09,Colorado Mesa University - Air Force Dual,141,L,DEC,5 - 0,Daniel Salazar,23989,Colorado Mesa,Anthony McHugh,13217,Air Force
+2016,01/09,Western State Colorado University - Air Force Dual,141,L,DEC,4 - 3,Corbin Bennetts,23798,Western Colorado,Anthony McHugh,13217,Air Force
+2016,01/01,Southern Scuffle,141,L,MD,12 - 3,Joey Ward,11615,North Carolina,Anthony McHugh,13217,Air Force
+2016,01/01,Southern Scuffle,141,W,FALL,4:54,Dylan Realbuto,20539,Cornell,Anthony McHugh,13217,Air Force
+2016,01/01,Southern Scuffle,141,L,MD,12 - 3,Jonathan Mele,12168,Lehigh,Anthony McHugh,13217,Air Force
+2016,11/07,Cowboy Open,141,W,MFOR,0 - 0,Daniel Salazar,23989,Colorado Mesa,Anthony McHugh,13217,Air Force
+2016,11/07,Cowboy Open,141,W,DEC,4 - 1,Dan Gaylor,24648,New Mexico Highlands,Anthony McHugh,13217,Air Force
+2016,11/07,Cowboy Open,141,W,FALL,1:29,Dillon Ouitygua,41816,Unattached,Anthony McHugh,13217,Air Force
+2016,11/07,Cowboy Open,141,W,FALL,6:14,Corbin Bennetts,23798,Western Colorado,Anthony McHugh,13217,Air Force
+2016,11/07,Cowboy Open,141,W,DEC,3 - 0,Lyle Plummer,20710,Air Force,Anthony McHugh,13217,Air Force
+2016,11/07,Cowboy Open,141,L,DEC,5 - 0,Daniel Salazar,23989,Colorado Mesa,Anthony McHugh,13217,Air Force
+2016,01/09,Colorado State University - Pueblo - Air Force Dual,141,W,DEC,5 - 1,Kyle Fantin,24060,CSU-Pueblo,Lyle Plummer,20710,Air Force
+2016,12/30,Franklin & Marshall Open,141,L,MD,10 - 1,Todd Preston,11608,Harvard,Lyle Plummer,20710,Air Force
+2016,12/30,Franklin & Marshall Open,141,W,DEC,6 - 5,Patrick Quinlan,20543,Franklin & Marshall,Lyle Plummer,20710,Air Force
+2016,12/30,Franklin & Marshall Open,141,W,DEC,8 - 3,John Kenyon,20609,Navy,Lyle Plummer,20710,Air Force
+2016,12/30,Franklin & Marshall Open,141,W,DEC,5 - 4,Nick Casella,39708,Maryland,Lyle Plummer,20710,Air Force
+2016,11/21,Holiday Inn Open,141,W,DEC,7 - 6,Kyle Fantin,24060,CSU-Pueblo,Lyle Plummer,20710,Air Force
+2016,11/21,Holiday Inn Open,141,L,SV-1,6 - 4,Dan Gaylor,24648,New Mexico Highlands,Lyle Plummer,20710,Air Force
+2016,11/21,Holiday Inn Open,141,W,DEC,3 - 2,Steve Turner,41817,Air Force,Lyle Plummer,20710,Air Force
+2016,11/21,Holiday Inn Open,141,W,DEC,2 - 1,Martin Ramirez,24051,Adams State,Lyle Plummer,20710,Air Force
+2016,11/21,Holiday Inn Open,141,L,MD,10 - 2,Daniel Salazar,23989,Colorado Mesa,Lyle Plummer,20710,Air Force
+2016,11/21,Holiday Inn Open,141,W,DEC,11 - 4,Kyle Fantin,24060,CSU-Pueblo,Lyle Plummer,20710,Air Force
+2016,11/07,Cowboy Open,141,W,FALL,2:07,Dillon Ouitygua,41816,Unattached,Lyle Plummer,20710,Air Force
+2016,11/07,Cowboy Open,141,W,DEC,2 - 1,Martin Ramirez,24051,Adams State,Lyle Plummer,20710,Air Force
+2016,11/07,Cowboy Open,141,L,DEC,3 - 0,Anthony McHugh,13217,Air Force,Lyle Plummer,20710,Air Force
+2016,11/07,Cowboy Open,141,L,FALL,3:17,Cole Mendenhall,11607,Wyoming,Lyle Plummer,20710,Air Force
+2016,11/01,Northern Colorado Open,141,W,DEC,5 - 4,Kyle Fantin,24060,CSU-Pueblo,Lyle Plummer,20710,Air Force
+2016,11/01,Northern Colorado Open,141,W,DEC,2 - 1,Colton Orrino,20191,Northern Colorado,Lyle Plummer,20710,Air Force
+2016,11/01,Northern Colorado Open,141,L,DEC,6 - 0,Daniel Salazar,23989,Colorado Mesa,Lyle Plummer,20710,Air Force
+2016,11/01,Northern Colorado Open,141,W,MD,16 - 3,Kyle Kintz,40619,Colorado Mesa,Lyle Plummer,20710,Air Force
+2016,11/01,Northern Colorado Open,141,L,DEC,6 - 4,Ben Hornickle,42602,Wyoming,Lyle Plummer,20710,Air Force
+2016,02/11,New Mexico Highlands - Air Force Dual,141,L,DEC,3 - 2,Dan Gaylor,24648,New Mexico Highlands,David Walker,11834,Air Force
+2016,02/06,Rocky Mountain Open,141,W,DEC,5 - 4,Steve Turner,41817,Air Force,David Walker,11834,Air Force
+2016,02/06,Rocky Mountain Open,141,W,FALL,5:00,Jacob Kay,43395,Fort Hays State,David Walker,11834,Air Force
+2016,02/06,Rocky Mountain Open,141,W,FALL,2:30,Randy Ridela,24831,Colorado Mesa,David Walker,11834,Air Force
+2016,02/06,Rocky Mountain Open,141,L,DEC,9 - 2,Sean Cannon,40053,Northern Colorado,David Walker,11834,Air Force
+2016,01/01,Southern Scuffle,141,L,DEC,5 - 2,Ty Buckiso,20399,The Citadel,David Walker,11834,Air Force
+2016,01/01,Southern Scuffle,141,L,FALL,6:07,Kade Moss,15933,Penn State,David Walker,11834,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,141,W,DEC,10 - 8,Josh Weinberg,42027,San Francisco State,David Walker,11834,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,141,L,MD,12 - 3,Thomas Thorn,21082,Minnesota,David Walker,11834,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,141,L,DEC,6 - 3,Joe Moita,15803,Columbia,David Walker,11834,Air Force
+2016,11/21,Air Force - Wisconsin-La Crosse Dual,141,W,DEC,5 - 3,Cody See,42588,Wisconsin-La Crosse,David Walker,11834,Air Force
+2016,11/21,Air Force - Minnesota Dual,141,L,DEC,12 - 7,Thomas Thorn,21082,Minnesota,David Walker,11834,Air Force
+2016,11/13,Wyoming - Air Force Dual,141,L,FALL,1:27,Bryce Meredith,20135,Wyoming,David Walker,11834,Air Force
+2016,11/07,Cowboy Open,141,W,DEC,5 - 3,Martin Ramirez,24051,Adams State,David Walker,11834,Air Force
+2016,11/07,Cowboy Open,141,L,MD,9 - 1,Daniel Salazar,23989,Colorado Mesa,David Walker,11834,Air Force
+2016,11/07,Cowboy Open,141,W,FALL,6:57,Zane Rich,22168,Western Colorado,David Walker,11834,Air Force
+2016,11/07,Cowboy Open,141,W,DEC,3 - 1,Bryce Shoemaker,42105,Nebraska-Kearney,David Walker,11834,Air Force
+2016,11/07,Cowboy Open,141,L,FALL,1:49,Cole Mendenhall,11607,Wyoming,David Walker,11834,Air Force
+2016,02/21,US Collegiate Championships,141,W,TF5,17 - 0 3:41,Colton Stowe,40148,Air Force,Joshua Giorgio,40580,Air Force
+2016,02/21,US Collegiate Championships,141,W,MD,14 - 6,Chase Call,40319,Utah Valley,Joshua Giorgio,40580,Air Force
+2016,02/21,US Collegiate Championships,141,L,FALL,1:21,Ben Hornickle,42602,Wyoming,Joshua Giorgio,40580,Air Force
+2016,02/06,Rocky Mountain Open,141,L,MD,8 - 0,Brandon Ball,42603,Fort Hays State,Joshua Giorgio,40580,Air Force
+2016,02/06,Rocky Mountain Open,141,W,DEC,13 - 6,Jacob Kay,43395,Fort Hays State,Joshua Giorgio,40580,Air Force
+2016,02/06,Rocky Mountain Open,141,W,FALL,2:49,Brett Kasprzyk,22194,Colorado Mesa,Joshua Giorgio,40580,Air Force
+2016,02/06,Rocky Mountain Open,141,W,FALL,1:33,Jd Rader,43400,Nebraska-Kearney,Joshua Giorgio,40580,Air Force
+2016,02/06,Rocky Mountain Open,141,L,DEC,5 - 3,Steve Turner,41817,Air Force,Joshua Giorgio,40580,Air Force
+2016,11/21,Holiday Inn Open,141,L,FALL,1:08,Luke Zeiger,42572,Chadron State,Joshua Giorgio,40580,Air Force
+2016,11/21,Holiday Inn Open,141,L,DEC,3 - 1,Brock Thumm,24143,Chadron State,Joshua Giorgio,40580,Air Force
+2016,11/21,Holiday Inn Open,141,W,DEC,3 - 2,Travis Torres,42571,Colorado School Of Mines,Joshua Giorgio,40580,Air Force
+2016,11/07,Cowboy Open,141,W,FALL,1:10,Seth Rich,40581,Western Colorado,Joshua Giorgio,40580,Air Force
+2016,11/07,Cowboy Open,141,L,DEC,12 - 7,Jeff Bizzle,41820,Nebraska-Kearney,Joshua Giorgio,40580,Air Force
+2016,11/07,Cowboy Open,141,W,TF5,15 - 0 2:11,Justin Chenoweth,41819,Western Colorado,Joshua Giorgio,40580,Air Force
+2016,11/07,Cowboy Open,141,W,DEC,5 - 2,Tel Kelley,40620,Unattached,Joshua Giorgio,40580,Air Force
+2016,11/07,Cowboy Open,141,W,DEC,8 - 1,Justin Ray,41818,Colorado School Of Mines,Joshua Giorgio,40580,Air Force
+2016,11/07,Cowboy Open,141,L,FALL,4:50,Ben Hornickle,42602,Wyoming,Joshua Giorgio,40580,Air Force
+2016,11/01,Northern Colorado Open,141,W,DEC,3 - 2,Kyle Kintz,40619,Colorado Mesa,Joshua Giorgio,40580,Air Force
+2016,11/01,Northern Colorado Open,141,L,DEC,13 - 12,Kyle Fantin,24060,CSU-Pueblo,Joshua Giorgio,40580,Air Force
+2016,11/01,Northern Colorado Open,141,L,DEC,6 - 4,Cole Mendenhall,11607,Wyoming,Joshua Giorgio,40580,Air Force
+2016,02/06,Rocky Mountain Open,141,L,FALL,5:00,Brandon Ball,42603,Fort Hays State,Steve Turner,41817,Air Force
+2016,02/06,Rocky Mountain Open,141,W,DEC,3 - 2,Jd Rader,43400,Nebraska-Kearney,Steve Turner,41817,Air Force
+2016,02/06,Rocky Mountain Open,141,W,DEC,5 - 3,Joshua Giorgio,40580,Air Force,Steve Turner,41817,Air Force
+2016,02/06,Rocky Mountain Open,141,L,DEC,5 - 4,David Walker,11834,Air Force,Steve Turner,41817,Air Force
+2016,11/21,Holiday Inn Open,141,W,FALL,1:30,Colby Watters,24587,Baker,Steve Turner,41817,Air Force
+2016,11/21,Holiday Inn Open,141,L,MD,13 - 1,Corbin Bennetts,23798,Western Colorado,Steve Turner,41817,Air Force
+2016,11/21,Holiday Inn Open,141,L,DEC,3 - 2,Lyle Plummer,20710,Air Force,Steve Turner,41817,Air Force
+2016,11/07,Cowboy Open,141,L,MD,10 - 2,Zane Rich,22168,Western Colorado,Steve Turner,41817,Air Force
+2016,11/07,Cowboy Open,141,L,DEC,6 - 2,Brett LaBudda,24004,Nebraska-Kearney,Steve Turner,41817,Air Force
+2016,02/21,US Collegiate Championships,149,W,MD,12 - 4,Ryan Nantuna,20573,Arizona State,Jonah Whitt,40149,Air Force
+2016,02/21,US Collegiate Championships,149,L,FALL,1:34,Grant LaMont,40320,Utah Valley,Jonah Whitt,40149,Air Force
+2016,02/21,US Collegiate Championships,149,L,DEC,11 - 6,Luke Boyle,40151,Air Force,Jonah Whitt,40149,Air Force
+2016,02/06,Rocky Mountain Open,149,L,FALL,2:57,Isaac Rider,40621,Colorado Mesa,Jonah Whitt,40149,Air Force
+2016,02/06,Rocky Mountain Open,149,W,FALL,4:20,Jaysen Yakobsen,44298,Unattached,Jonah Whitt,40149,Air Force
+2016,02/06,Rocky Mountain Open,149,L,FALL,3:37,Kyle Kintz,40619,Colorado Mesa,Jonah Whitt,40149,Air Force
+2016,02/21,US Collegiate Championships,141,W,MFOR,0 - 0,Kade Moss,15933,Penn State,Colton Stowe,40148,Air Force
+2016,02/21,US Collegiate Championships,141,L,TF5,16 - 0 2:20,Ben Hornickle,42602,Wyoming,Colton Stowe,40148,Air Force
+2016,02/21,US Collegiate Championships,141,L,TF5,17 - 0 3:41,Joshua Giorgio,40580,Air Force,Colton Stowe,40148,Air Force
+2016,02/06,Rocky Mountain Open,141,L,MD,15 - 1,Jd Rader,43400,Nebraska-Kearney,Colton Stowe,40148,Air Force
+2016,02/06,Rocky Mountain Open,141,W,FALL,3:38,Randy Ridela,24831,Colorado Mesa,Colton Stowe,40148,Air Force
+2016,02/06,Rocky Mountain Open,141,W,DEC,9 - 4,Riley Thomas,24850,Adams State,Colton Stowe,40148,Air Force
+2016,02/06,Rocky Mountain Open,141,L,TF5,17 - 2 4:05,Sean Cannon,40053,Northern Colorado,Colton Stowe,40148,Air Force
+2016,11/21,Holiday Inn Open,141,L,TF5,18 - 3 6:33,Sean Cannon,40053,Northern Colorado,Colton Stowe,40148,Air Force
+2016,11/21,Holiday Inn Open,141,W,FALL,3:56,Jaden Mcroberts,42573,Barton,Colton Stowe,40148,Air Force
+2016,11/21,Holiday Inn Open,141,L,DEC,8 - 1,Tyler Dickman,21211,Baker,Colton Stowe,40148,Air Force
+2016,11/07,Cowboy Open,141,L,FALL,1:05,Tel Kelley,40620,Unattached,Colton Stowe,40148,Air Force
+2016,11/07,Cowboy Open,141,W,FALL,4:55,Trevor Bisagno,41821,Sierra College,Colton Stowe,40148,Air Force
+2016,11/07,Cowboy Open,141,L,FALL,0:44,Ben Hornickle,42602,Wyoming,Colton Stowe,40148,Air Force
+2016,11/01,Northern Colorado Open,141,L,FALL,4:37,Tel Kelley,40620,Unattached,Colton Stowe,40148,Air Force
+2016,11/01,Northern Colorado Open,141,L,TF5,18 - 1 4:28,Sean Cannon,40053,Northern Colorado,Colton Stowe,40148,Air Force
+2016,02/21,US Collegiate Championships,157,L,DEC,6 - 5,Alex Mossing,23680,Air Force,Dane Robbins,20711,Air Force
+2016,02/21,US Collegiate Championships,157,W,DEC,8 - 3,Robert Walker,20716,Air Force,Dane Robbins,20711,Air Force
+2016,02/21,US Collegiate Championships,157,W,DEC,4 - 1,Joseph Grable,20188,Northern Colorado,Dane Robbins,20711,Air Force
+2016,02/06,Rocky Mountain Open,157,L,DEC,8 - 4,Payton Tawater,40578,Colorado Mesa,Dane Robbins,20711,Air Force
+2016,02/06,Rocky Mountain Open,157,W,DEC,11 - 10,Greg Tooley,42617,Fort Hays State,Dane Robbins,20711,Air Force
+2016,02/06,Rocky Mountain Open,157,L,DEC,9 - 7,Robert Walker,20716,Air Force,Dane Robbins,20711,Air Force
+2016,02/06,Rocky Mountain Open,157,W,MD,10 - 0,Robert Gambrell,41733,Colorado School Of Mines,Dane Robbins,20711,Air Force
+2016,02/06,Rocky Mountain Open,157,W,FALL,2:23,Ryan Johnson,44289,Unattached,Dane Robbins,20711,Air Force
+2016,11/21,Holiday Inn Open,149,L,DEC,6 - 4,Jacob Gerken,41448,Colorado School Of Mines,Dane Robbins,20711,Air Force
+2016,11/21,Holiday Inn Open,149,W,DEC,6 - 2,Tyler Adams,22189,Western Colorado,Dane Robbins,20711,Air Force
+2016,11/21,Holiday Inn Open,149,L,DEC,10 - 5,Austin Breckenridge,16769,Wyoming,Dane Robbins,20711,Air Force
+2016,11/21,Holiday Inn Open,149,W,DEC,7 - 4,Jacob Gerken,41448,Colorado School Of Mines,Dane Robbins,20711,Air Force
+2016,11/07,Cowboy Open,149,W,DEC,7 - 2,Clayton Steinmetz,21496,Chadron State,Dane Robbins,20711,Air Force
+2016,11/07,Cowboy Open,149,L,FALL,8:20,Tyler Adams,22189,Western Colorado,Dane Robbins,20711,Air Force
+2016,11/07,Cowboy Open,149,L,FALL,4:14,Destin McCauley,24006,Nebraska-Kearney,Dane Robbins,20711,Air Force
+2016,11/07,Cowboy Open,149,W,DEC,7 - 2,Conor O'Hara,13211,Air Force,Dane Robbins,20711,Air Force
+2016,11/07,Cowboy Open,149,W,DEC,8 - 3,Kyle Rodriguez,20192,Northern Colorado,Dane Robbins,20711,Air Force
+2016,11/07,Cowboy Open,149,W,DEC,7 - 1,Travis Himmelman,15646,Boise State,Dane Robbins,20711,Air Force
+2016,03/05,Big 12 Championships,149,W,DEC,6 - 2,Trevor Willson,13714,Utah Valley,Gerald McGinty,25203,Air Force
+2016,03/05,Big 12 Championships,149,L,DEC,8 - 6,Cole Mendenhall,11607,Wyoming,Gerald McGinty,25203,Air Force
+2016,03/05,Big 12 Championships,149,L,SV-1,3 - 1,John Meeks,11597,Iowa State,Gerald McGinty,25203,Air Force
+2016,02/17,Air Force - Northern Colorado Dual,149,L,DEC,9 - 4,Timmy Box,14724,Northern Colorado,Gerald McGinty,25203,Air Force
+2016,02/14,Air Force - Oregon State Dual,149,L,DEC,6 - 1,Joey Delgado,11620,Oregon State,Gerald McGinty,25203,Air Force
+2016,02/11,Utah Valley - Air Force Dual,149,W,DEC,9 - 3,Matthew Ontiveros,20417,Utah Valley,Gerald McGinty,25203,Air Force
+2016,02/06,Stanford - Air Force Dual,149,L,SV-1,3 - 1,Tommy Pawelski,12007,Stanford,Gerald McGinty,25203,Air Force
+2016,01/30,All Academy Championships,149,W,MD,12 - 4,Nathan Twito,44229,Merchant Marine,Gerald McGinty,25203,Air Force
+2016,01/30,All Academy Championships,149,L,DEC,3 - 2,Matt Frisch,13722,The Citadel,Gerald McGinty,25203,Air Force
+2016,01/30,All Academy Championships,149,W,MD,12 - 4,Javier Rodriguez,14925,Army West Point,Gerald McGinty,25203,Air Force
+2016,01/22,Air Force - North Dakota State Dual,149,L,DEC,2 - 0,Clay Ream,13748,North Dakota State,Gerald McGinty,25203,Air Force
+2016,01/17,Air Force - Grand Canyon Dual,149,W,DEC,8 - 4,Blake Monty,40392,Grand Canyon,Gerald McGinty,25203,Air Force
+2016,01/09,Colorado State University - Pueblo - Air Force Dual,149,W,MD,13 - 4,Dixon Richins,40636,CSU-Pueblo,Gerald McGinty,25203,Air Force
+2016,01/09,Colorado Mesa University - Air Force Dual,149,L,DEC,4 - 1,Drew Schumann,22786,Colorado Mesa,Gerald McGinty,25203,Air Force
+2016,01/09,Western State Colorado University - Air Force Dual,149,W,DEC,8 - 6,Tyler Adams,22189,Western Colorado,Gerald McGinty,25203,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,149,L,DEC,3 - 2,Tyler Ponte,11946,Columbia,Gerald McGinty,25203,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,149,L,MD,8 - 0,Gabe Moreno,11816,Iowa State,Gerald McGinty,25203,Air Force
+2016,11/21,Air Force - Wisconsin-La Crosse Dual,149,L,DEC,6 - 3,Mason Geary,42589,Wisconsin-La Crosse,Gerald McGinty,25203,Air Force
+2016,11/21,Air Force - Minnesota Dual,149,W,DEC,8 - 3,Miles Patton,40129,Minnesota,Gerald McGinty,25203,Air Force
+2016,11/13,Wyoming - Air Force Dual,149,W,DEC,6 - 4,Austin Breckenridge,16769,Wyoming,Gerald McGinty,25203,Air Force
+2016,11/07,Cowboy Open,149,W,TF5,15 - 0 4:41,Clayton Steinmetz,21496,Chadron State,Gerald McGinty,25203,Air Force
+2016,11/07,Cowboy Open,149,L,MFOR,0 - 0,Terrance McKinney,23962,Chadron State,Gerald McGinty,25203,Air Force
+2016,11/07,Cowboy Open,149,W,DEC,3 - 2,Timmy Box,14724,Northern Colorado,Gerald McGinty,25203,Air Force
+2016,11/07,Cowboy Open,149,W,DEC,6 - 4,Austin Breckenridge,16769,Wyoming,Gerald McGinty,25203,Air Force
+2016,02/11,New Mexico Highlands - Air Force Dual,149,L,FALL,5:00,Reis Humphrey,40990,New Mexico Highlands,Conor O'Hara,13211,Air Force
+2016,12/30,Franklin & Marshall Open,149,W,TF5,16 - 0 7:00,Christian Innarella,20336,Princeton,Conor O'Hara,13211,Air Force
+2016,12/30,Franklin & Marshall Open,149,L,DEC,12 - 6,Patrick Hogan,19913,Harvard,Conor O'Hara,13211,Air Force
+2016,12/30,Franklin & Marshall Open,149,W,TF5,16 - 0 3:20,Christian Innarella,20336,Princeton,Conor O'Hara,13211,Air Force
+2016,12/30,Franklin & Marshall Open,149,W,MD,11 - 2,Andrew Mauriello,11880,Drexel,Conor O'Hara,13211,Air Force
+2016,12/30,Franklin & Marshall Open,149,L,DEC,9 - 3,RJ DeGeorge,11804,Maryland,Conor O'Hara,13211,Air Force
+2016,11/21,Holiday Inn Open,149,W,DEC,5 - 1,Jacob Gerken,41448,Colorado School Of Mines,Conor O'Hara,13211,Air Force
+2016,11/21,Holiday Inn Open,149,L,DEC,6 - 0,Austin Breckenridge,16769,Wyoming,Conor O'Hara,13211,Air Force
+2016,11/21,Holiday Inn Open,149,W,MD,12 - 3,Kyle Wilson,24585,Baker,Conor O'Hara,13211,Air Force
+2016,11/21,Holiday Inn Open,149,W,DEC,7 - 4,Cody Cline,42574,Morningside,Conor O'Hara,13211,Air Force
+2016,11/21,Holiday Inn Open,149,L,FALL,0:59,Terrance McKinney,23962,Chadron State,Conor O'Hara,13211,Air Force
+2016,11/21,Holiday Inn Open,149,W,TF5,17 - 2 5:36,Matt Ziegler,42196,Fort Hays State,Conor O'Hara,13211,Air Force
+2016,11/14,Colorado Mesa Open,149,L,DEC,8 - 3,Tim Urenda,23687,CSU-Pueblo,Conor O'Hara,13211,Air Force
+2016,11/14,Colorado Mesa Open,149,W,FALL,6:57,Anthony Juckes,39990,Wyoming,Conor O'Hara,13211,Air Force
+2016,11/14,Colorado Mesa Open,149,W,MD,12 - 0,Ryan Pellow,23667,Western Colorado,Conor O'Hara,13211,Air Force
+2016,11/14,Colorado Mesa Open,149,L,TB-1,7 - 6,Branson Ashworth,21676,Wyoming,Conor O'Hara,13211,Air Force
+2016,11/07,Cowboy Open,149,L,DEC,7 - 2,Dane Robbins,20711,Air Force,Conor O'Hara,13211,Air Force
+2016,11/07,Cowboy Open,149,W,TF5,15 - 0 3:29,Anthony Munoz,41209,New Mexico Highlands,Conor O'Hara,13211,Air Force
+2016,11/07,Cowboy Open,149,L,FALL,6:51,Austin Breckenridge,16769,Wyoming,Conor O'Hara,13211,Air Force
+2016,11/01,Northern Colorado Open,149,L,MD,16 - 3,Timmy Box,14724,Northern Colorado,Conor O'Hara,13211,Air Force
+2016,11/01,Northern Colorado Open,149,W,TF5,16 - 0 2:58,Isaac Rider,40621,Colorado Mesa,Conor O'Hara,13211,Air Force
+2016,11/01,Northern Colorado Open,149,W,FALL,4:02,Nick Alspaugh,16925,Northern Colorado,Conor O'Hara,13211,Air Force
+2016,11/01,Northern Colorado Open,149,W,MD,14 - 4,Isaac Rider,40621,Colorado Mesa,Conor O'Hara,13211,Air Force
+2016,11/01,Northern Colorado Open,149,L,DEC,6 - 2,Branson Ashworth,21676,Wyoming,Conor O'Hara,13211,Air Force
+2016,02/21,US Collegiate Championships,157,L,DEC,6 - 1,Anthony Juckes,39990,Wyoming,Robert Walker,20716,Air Force
+2016,02/21,US Collegiate Championships,157,W,DEC,8 - 4,Austin Saunders,44290,Colorado School Of Mines,Robert Walker,20716,Air Force
+2016,02/21,US Collegiate Championships,157,L,DEC,8 - 3,Dane Robbins,20711,Air Force,Robert Walker,20716,Air Force
+2016,02/06,Rocky Mountain Open,157,W,DEC,9 - 2,Jason Slaughter,40590,Western Colorado,Robert Walker,20716,Air Force
+2016,02/06,Rocky Mountain Open,157,W,MD,14 - 4,Nick Babcock,42107,Nebraska-Kearney,Robert Walker,20716,Air Force
+2016,02/06,Rocky Mountain Open,157,W,DEC,9 - 7,Dane Robbins,20711,Air Force,Robert Walker,20716,Air Force
+2016,02/06,Rocky Mountain Open,157,W,MFOR,0 - 0,Connor Hedash,14797,Air Force,Robert Walker,20716,Air Force
+2016,11/21,Holiday Inn Open,149,L,DEC,3 - 2,Jacob Gerken,41448,Colorado School Of Mines,Robert Walker,20716,Air Force
+2016,11/21,Holiday Inn Open,149,L,TF5,18 - 2 6:45,Justin Arthur,22462,Nebraska,Robert Walker,20716,Air Force
+2016,11/21,Holiday Inn Open,149,W,DEC,3 - 2,Zack Denney,42575,Chadron State,Robert Walker,20716,Air Force
+2016,11/07,Cowboy Open,149,L,DEC,6 - 1,Grant LaMont,40320,Utah Valley,Robert Walker,20716,Air Force
+2016,11/07,Cowboy Open,149,L,DEC,7 - 1,Matthew Ontiveros,20417,Utah Valley,Robert Walker,20716,Air Force
+2016,11/07,Cowboy Open,149,W,DEC,3 - 0,Michael McDonald,16762,Boise State,Robert Walker,20716,Air Force
+2016,02/21,US Collegiate Championships,149,W,DEC,11 - 6,Jonah Whitt,40149,Air Force,Luke Boyle,40151,Air Force
+2016,02/21,US Collegiate Championships,149,W,DEC,8 - 7,Michael Oramas,20574,Arizona State,Luke Boyle,40151,Air Force
+2016,02/21,US Collegiate Championships,149,L,DEC,11 - 5,Nicholas Villarreal,42556,Arizona State,Luke Boyle,40151,Air Force
+2016,02/06,Rocky Mountain Open,149,L,MD,13 - 2,Walker Johnson,42132,Nebraska-Kearney,Luke Boyle,40151,Air Force
+2016,02/06,Rocky Mountain Open,149,W,TB-3,8 - 7,Santana Guerra,44297,New Mexico Highlands,Luke Boyle,40151,Air Force
+2016,02/06,Rocky Mountain Open,149,W,FALL,4:40,Isaac Rider,40621,Colorado Mesa,Luke Boyle,40151,Air Force
+2016,02/06,Rocky Mountain Open,149,W,DEC,11 - 4,Justin Chenoweth,41819,Western Colorado,Luke Boyle,40151,Air Force
+2016,02/06,Rocky Mountain Open,149,L,DEC,10 - 8,Beau Blackham,43899,Colorado Mesa,Luke Boyle,40151,Air Force
+2016,02/06,Rocky Mountain Open,149,W,MD,13 - 5,Carroll Conley,44296,Unattached,Luke Boyle,40151,Air Force
+2016,11/21,Holiday Inn Open,149,L,DEC,2 - 1,Robert Mata,42577,Concordia,Luke Boyle,40151,Air Force
+2016,11/21,Holiday Inn Open,149,L,TB-1,7 - 5,Dominque Evans,41729,Northwest Kansas Technical College,Luke Boyle,40151,Air Force
+2016,11/21,Holiday Inn Open,149,W,DEC,6 - 5,Daniel Melcher,41073,Concordia,Luke Boyle,40151,Air Force
+2016,11/07,Cowboy Open,149,L,MD,12 - 3,Ezekiel Mamalis,41730,Western Wyoming College,Luke Boyle,40151,Air Force
+2016,11/07,Cowboy Open,149,L,DEC,7 - 1,Roman Ortiz,40632,Unattached,Luke Boyle,40151,Air Force
+2016,11/01,Northern Colorado Open,149,L,DEC,9 - 2,Bronson Spies,40625,Western Colorado,Luke Boyle,40151,Air Force
+2016,11/01,Northern Colorado Open,149,W,DEC,6 - 3,Corey Coombs,40624,Northwest Kansas Technical College,Luke Boyle,40151,Air Force
+2016,11/01,Northern Colorado Open,149,L,DEC,12 - 5,Jordan Jimenez,40623,CSU-Pueblo,Luke Boyle,40151,Air Force
+2016,11/01,Northern Colorado Open,149,W,FALL,3:38,Ryan Arguello,40622,Northwest Kansas Technical College,Luke Boyle,40151,Air Force
+2016,03/05,Big 12 Championships,157,W,DEC,8 - 2,Brock Wingbermuehle,20823,Oklahoma,Zachary Stepan,41449,Air Force
+2016,03/05,Big 12 Championships,157,L,TF5,20 - 4 7:00,Raider Lofthouse,20414,Utah Valley,Zachary Stepan,41449,Air Force
+2016,03/05,Big 12 Championships,157,L,FALL,1:16,Joe Smith,39786,Oklahoma State,Zachary Stepan,41449,Air Force
+2016,02/17,Air Force - Northern Colorado Dual,157,L,DEC,4 - 3,Eleazar DeLuca,21757,Northern Colorado,Zachary Stepan,41449,Air Force
+2016,02/14,Air Force - Oregon State Dual,157,L,DEC,12 - 10,Abraham Rodriquez,42226,Oregon State,Zachary Stepan,41449,Air Force
+2016,02/11,Utah Valley - Air Force Dual,157,W,DEC,10 - 4,Raider Lofthouse,20414,Utah Valley,Zachary Stepan,41449,Air Force
+2016,01/30,All Academy Championships,157,W,MD,18 - 6,Erik Beshada,43069,Merchant Marine,Zachary Stepan,41449,Air Force
+2016,01/30,All Academy Championships,157,L,DEC,6 - 4,Christopher Sullivan,24925,Coast Guard,Zachary Stepan,41449,Air Force
+2016,01/30,All Academy Championships,157,L,MD,17 - 7,Neal Richards,39991,VMI,Zachary Stepan,41449,Air Force
+2016,01/24,Air Force - South Dakota State Dual,157,L,DEC,10 - 6,Cody Pack,13498,South Dakota State,Zachary Stepan,41449,Air Force
+2016,01/22,Air Force - North Dakota State Dual,157,W,DEC,7 - 3,Kyle Gliva,13424,North Dakota State,Zachary Stepan,41449,Air Force
+2016,01/17,Air Force - Grand Canyon Dual,157,W,DEC,3 - 1,Zackary Velasquez,40394,Grand Canyon,Zachary Stepan,41449,Air Force
+2016,01/09,Colorado State University - Pueblo - Air Force Dual,157,W,DEC,10 - 7,JaCobi Jones,24034,CSU-Pueblo,Zachary Stepan,41449,Air Force
+2016,01/09,Western State Colorado University - Air Force Dual,157,L,MD,17 - 8,Ian Steen,22187,Western Colorado,Zachary Stepan,41449,Air Force
+2016,01/01,Southern Scuffle,157,W,DEC,8 - 4,Drew Daniels,20601,Navy,Zachary Stepan,41449,Air Force
+2016,01/01,Southern Scuffle,157,L,DEC,12 - 10,Andrew Atkinson,11982,Virginia,Zachary Stepan,41449,Air Force
+2016,01/01,Southern Scuffle,157,W,DEC,10 - 7,Blake Kastl,11799,Cal Poly,Zachary Stepan,41449,Air Force
+2016,01/01,Southern Scuffle,157,L,DEC,6 - 5,Russell Parsons,19642,Army West Point,Zachary Stepan,41449,Air Force
+2016,11/21,Air Force - Wisconsin-La Crosse Dual,157,W,DEC,3 - 2,Austin Schoen,42590,Wisconsin-La Crosse,Zachary Stepan,41449,Air Force
+2016,11/21,Air Force - Minnesota Dual,157,L,FALL,0:49,Brandon Kingsley,13491,Minnesota,Zachary Stepan,41449,Air Force
+2016,11/13,Wyoming - Air Force Dual,157,L,DEC,6 - 5,Archie Colgan,15555,Wyoming,Zachary Stepan,41449,Air Force
+2016,11/07,Cowboy Open,157,W,DEC,5 - 2,Connor Hedash,14797,Air Force,Zachary Stepan,41449,Air Force
+2016,11/07,Cowboy Open,157,L,DEC,6 - 1,Eleazar DeLuca,21757,Northern Colorado,Zachary Stepan,41449,Air Force
+2016,11/07,Cowboy Open,157,W,DEC,6 - 4,Archie Colgan,15555,Wyoming,Zachary Stepan,41449,Air Force
+2016,11/07,Cowboy Open,157,W,DEC,6 - 5,Chris Castillo,14014,Boise State,Zachary Stepan,41449,Air Force
+2016,11/07,Cowboy Open,157,W,DEC,1 - 0,Chris Castillo,14014,Boise State,Zachary Stepan,41449,Air Force
+2016,02/21,US Collegiate Championships,157,W,TF5,16 - 0 1:56,Adam Pelter,40150,Air Force,Alex Mossing,23680,Air Force
+2016,02/21,US Collegiate Championships,157,W,TF5,16 - 1 3:00,Anthony Juckes,39990,Wyoming,Alex Mossing,23680,Air Force
+2016,02/21,US Collegiate Championships,157,W,DEC,6 - 5,Dane Robbins,20711,Air Force,Alex Mossing,23680,Air Force
+2016,02/11,New Mexico Highlands - Air Force Dual,157,W,DEC,11 - 5,Orlando Guerra,24014,New Mexico Highlands,Alex Mossing,23680,Air Force
+2016,01/24,Air Force - South Dakota State Dual,149,L,DEC,12 - 9,Alex Kocer,20562,South Dakota State,Alex Mossing,23680,Air Force
+2016,01/01,Southern Scuffle,149,L,DEC,3 - 2,Ryan Mosley,11753,Gardner-Webb,Alex Mossing,23680,Air Force
+2016,01/01,Southern Scuffle,149,L,DEC,3 - 2,CJ Cobb,24217,Pennsylvania,Alex Mossing,23680,Air Force
+2016,11/21,Holiday Inn Open,157,W,TB-1,7 - 6,Jonathan Blackwell,42585,Baker,Alex Mossing,23680,Air Force
+2016,11/21,Holiday Inn Open,157,W,FALL,4:57,JaCobi Jones,24034,CSU-Pueblo,Alex Mossing,23680,Air Force
+2016,11/21,Holiday Inn Open,157,W,DEC,3 - 2,Sam Kreimier,20709,Air Force,Alex Mossing,23680,Air Force
+2016,11/07,Cowboy Open,157,W,FALL,4:24,Chase White,24344,Nebraska-Kearney,Alex Mossing,23680,Air Force
+2016,11/07,Cowboy Open,157,L,DEC,3 - 2,Eleazar DeLuca,21757,Northern Colorado,Alex Mossing,23680,Air Force
+2016,11/07,Cowboy Open,157,L,DEC,3 - 1,Archie Colgan,15555,Wyoming,Alex Mossing,23680,Air Force
+2016,02/06,Rocky Mountain Open,157,L,MFOR,0 - 0,Robert Walker,20716,Air Force,Connor Hedash,14797,Air Force
+2016,02/06,Rocky Mountain Open,157,W,SV-1,3 - 1,Payton Tawater,40578,Colorado Mesa,Connor Hedash,14797,Air Force
+2016,02/06,Rocky Mountain Open,157,W,DEC,12 - 5,Joseph Prieto,40602,Unattached,Connor Hedash,14797,Air Force
+2016,02/06,Rocky Mountain Open,157,W,FALL,1:02,Austin Lininger,44547,Air Force Prep,Connor Hedash,14797,Air Force
+2016,01/09,Colorado Mesa University - Air Force Dual,157,L,FALL,4:19,Jason Buhr,21916,Colorado Mesa,Connor Hedash,14797,Air Force
+2016,01/01,Southern Scuffle,157,L,DEC,3 - 1,Brandon Kingsley,13491,Minnesota,Connor Hedash,14797,Air Force
+2016,01/01,Southern Scuffle,157,L,MD,13 - 2,Russell Parsons,19642,Army West Point,Connor Hedash,14797,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,157,L,FALL,5:00,Grant Nehring,13556,North Dakota State,Connor Hedash,14797,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,157,L,MD,13 - 3,Raider Lofthouse,20414,Utah Valley,Connor Hedash,14797,Air Force
+2016,11/07,Cowboy Open,157,L,DEC,5 - 2,Zachary Stepan,41449,Air Force,Connor Hedash,14797,Air Force
+2016,11/07,Cowboy Open,157,W,MD,12 - 3,Shawn Beiriger,24449,Western Colorado,Connor Hedash,14797,Air Force
+2016,11/07,Cowboy Open,157,W,DEC,3 - 1,Joseph Grable,20188,Northern Colorado,Connor Hedash,14797,Air Force
+2016,11/07,Cowboy Open,157,L,MD,14 - 2,Archie Colgan,15555,Wyoming,Connor Hedash,14797,Air Force
+2016,11/07,Cowboy Open,157,W,FALL,6:00,Chris Castillo,14014,Boise State,Connor Hedash,14797,Air Force
+2016,11/21,Holiday Inn Open,157,L,DEC,3 - 2,Alex Mossing,23680,Air Force,Sam Kreimier,20709,Air Force
+2016,11/21,Holiday Inn Open,157,W,DEC,12 - 7,Jason Buhr,21916,Colorado Mesa,Sam Kreimier,20709,Air Force
+2016,11/21,Holiday Inn Open,157,W,DEC,9 - 7,Joshua Thomas,22397,Baker,Sam Kreimier,20709,Air Force
+2016,11/21,Holiday Inn Open,157,W,DEC,9 - 6,Tyler Kinn,16786,Northern Colorado,Sam Kreimier,20709,Air Force
+2016,11/07,Cowboy Open,157,L,DEC,5 - 3,Joseph Grable,20188,Northern Colorado,Sam Kreimier,20709,Air Force
+2016,11/07,Cowboy Open,157,W,MD,12 - 3,Tyler Kinn,16786,Northern Colorado,Sam Kreimier,20709,Air Force
+2016,11/07,Cowboy Open,157,L,DEC,8 - 5,Jake Elliott,14663,Wyoming,Sam Kreimier,20709,Air Force
+2016,02/21,US Collegiate Championships,174,L,DEC,5 - 4,Connor McMahon,11496,SIU Edwardsville,Josh Mossing,39709,Air Force
+2016,02/21,US Collegiate Championships,174,W,DEC,6 - 4,Willy Cogdill,40142,Wyoming,Josh Mossing,39709,Air Force
+2016,02/21,US Collegiate Championships,174,L,DEC,9 - 2,Keaton Subjeck,14567,Stanford,Josh Mossing,39709,Air Force
+2016,11/21,Holiday Inn Open,157,L,MFOR,0 - 0,Monquez Townsend,42579,Colby Community College,Josh Mossing,39709,Air Force
+2016,11/21,Holiday Inn Open,157,L,MFOR,0 - 0,Dakota Drenth,42578,Morningside,Josh Mossing,39709,Air Force
+2016,11/07,Cowboy Open,157,L,MD,14 - 5,Jason Buhr,21916,Colorado Mesa,Josh Mossing,39709,Air Force
+2016,11/07,Cowboy Open,157,W,FALL,1:04,Brandon Gilham,41823,Montana State-Northern,Josh Mossing,39709,Air Force
+2016,11/07,Cowboy Open,157,W,DEC,4 - 2,Seth Harrington,22198,Nebraska-Kearney,Josh Mossing,39709,Air Force
+2016,11/07,Cowboy Open,157,W,FALL,0:37,John Peeden,41822,Colby Community College,Josh Mossing,39709,Air Force
+2016,11/07,Cowboy Open,157,L,DEC,7 - 1,Dewey Krueger,40144,Wyoming,Josh Mossing,39709,Air Force
+2016,11/01,Northern Colorado Open,157,L,DEC,6 - 1,Eleazar DeLuca,21757,Northern Colorado,Josh Mossing,39709,Air Force
+2016,11/01,Northern Colorado Open,157,W,DEC,6 - 0,Hunter Lucas,40617,Northwest Kansas Technical College,Josh Mossing,39709,Air Force
+2016,11/01,Northern Colorado Open,157,L,DEC,5 - 3,Dewey Krueger,40144,Wyoming,Josh Mossing,39709,Air Force
+2016,02/21,US Collegiate Championships,157,L,TF5,21 - 2 6:41,Anthony Juckes,39990,Wyoming,Adam Pelter,40150,Air Force
+2016,02/21,US Collegiate Championships,157,W,DEC,10 - 4,Austin Saunders,44290,Colorado School Of Mines,Adam Pelter,40150,Air Force
+2016,02/21,US Collegiate Championships,157,W,TF5,16 - 0 3:27,Austin Lininger,44547,Air Force Prep,Adam Pelter,40150,Air Force
+2016,02/21,US Collegiate Championships,157,L,TF5,16 - 0 1:56,Alex Mossing,23680,Air Force,Adam Pelter,40150,Air Force
+2016,02/06,Rocky Mountain Open,157,L,MD,14 - 6,Nick Babcock,42107,Nebraska-Kearney,Adam Pelter,40150,Air Force
+2016,02/06,Rocky Mountain Open,157,L,FALL,1:13,Payton Tawater,40578,Colorado Mesa,Adam Pelter,40150,Air Force
+2016,02/06,Rocky Mountain Open,157,W,DEC,5 - 2,Austin Saunders,44290,Colorado School Of Mines,Adam Pelter,40150,Air Force
+2016,11/07,Cowboy Open,165,W,DEC,2 - 0,Andrew Vonrein,41826,Northwest College,Adam Pelter,40150,Air Force
+2016,11/07,Cowboy Open,165,L,MD,16 - 6,Chance Helmick,24032,Chadron State,Adam Pelter,40150,Air Force
+2016,11/07,Cowboy Open,165,L,DEC,11 - 5,Joseph Prieto,40602,Unattached,Adam Pelter,40150,Air Force
+2016,02/17,Air Force - Northern Colorado Dual,165,W,DEC,3 - 2,Keilan Torres,18105,Northern Colorado,Alexandre Lopouchanski,39855,Air Force
+2016,02/11,Utah Valley - Air Force Dual,165,W,DEC,7 - 0,Brayden Humpherys,20413,Utah Valley,Alexandre Lopouchanski,39855,Air Force
+2016,02/06,Stanford - Air Force Dual,165,L,DEC,5 - 1,Jim Wilson,11535,Stanford,Alexandre Lopouchanski,39855,Air Force
+2016,01/30,All Academy Championships,165,W,MD,12 - 1,Michael Palomba,24980,Coast Guard,Alexandre Lopouchanski,39855,Air Force
+2016,01/30,All Academy Championships,165,W,FALL,1:35,Pat Mccurdy,44236,Norwich,Alexandre Lopouchanski,39855,Air Force
+2016,01/30,All Academy Championships,165,W,SV-1,7 - 5,John Keck,15495,Navy,Alexandre Lopouchanski,39855,Air Force
+2016,01/30,All Academy Championships,165,L,DEC,7 - 3,Andrew Mendel,19640,Army West Point,Alexandre Lopouchanski,39855,Air Force
+2016,01/24,Air Force - South Dakota State Dual,165,W,DEC,7 - 3,Logan Peterson,20374,South Dakota State,Alexandre Lopouchanski,39855,Air Force
+2016,01/22,Air Force - North Dakota State Dual,165,L,DEC,9 - 2,Grant Nehring,13556,North Dakota State,Alexandre Lopouchanski,39855,Air Force
+2016,01/17,Air Force - Grand Canyon Dual,165,W,TF5,17 - 2 6:40,Bobby Reece,40270,Grand Canyon,Alexandre Lopouchanski,39855,Air Force
+2016,01/09,Colorado State University - Pueblo - Air Force Dual,165,W,TF5,18 - 2 6:16,Kyle Bateman,40604,CSU-Pueblo,Alexandre Lopouchanski,39855,Air Force
+2016,01/09,Colorado Mesa University - Air Force Dual,165,W,SV-1,3 - 1,Jessie Hoffschneider,24043,Colorado Mesa,Alexandre Lopouchanski,39855,Air Force
+2016,01/09,Western State Colorado University - Air Force Dual,165,W,MD,10 - 1,Travis Bradford,24866,Western Colorado,Alexandre Lopouchanski,39855,Air Force
+2016,01/01,Southern Scuffle,165,W,DEC,6 - 1,Tyler Kinn,16786,Northern Colorado,Alexandre Lopouchanski,39855,Air Force
+2016,01/01,Southern Scuffle,165,L,DEC,6 - 4,Casey Fuller,14860,Edinboro,Alexandre Lopouchanski,39855,Air Force
+2016,01/01,Southern Scuffle,165,L,TF5,22 - 5 5:53,Logan Massa,39517,Michigan,Alexandre Lopouchanski,39855,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,165,L,DEC,5 - 2,Adam Fierro,15184,CSU Bakersfield,Alexandre Lopouchanski,39855,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,165,L,MD,11 - 2,Chad Welch,11543,Purdue,Alexandre Lopouchanski,39855,Air Force
+2016,11/21,Air Force - Wisconsin-La Crosse Dual,165,W,MD,13 - 4,Andrew Dayland,42591,Wisconsin-La Crosse,Alexandre Lopouchanski,39855,Air Force
+2016,11/21,Air Force - Minnesota Dual,165,W,DEC,3 - 1,Dylan Urbach,20050,Minnesota,Alexandre Lopouchanski,39855,Air Force
+2016,11/13,Wyoming - Air Force Dual,165,W,MD,10 - 1,Chaz Polson,17412,Wyoming,Alexandre Lopouchanski,39855,Air Force
+2016,11/07,Cowboy Open,165,W,DEC,3 - 1,Jessie Hoffschneider,24043,Colorado Mesa,Alexandre Lopouchanski,39855,Air Force
+2016,11/07,Cowboy Open,165,W,DEC,3 - 1,Kimball Bastian,40322,Utah Valley,Alexandre Lopouchanski,39855,Air Force
+2016,11/07,Cowboy Open,165,W,DEC,8 - 1,Jim Malone,41734,Montana State-Northern,Alexandre Lopouchanski,39855,Air Force
+2016,11/07,Cowboy Open,165,W,SV-1,1 - 0,Richard Miranda,41456,Nebraska-Kearney,Alexandre Lopouchanski,39855,Air Force
+2016,11/07,Cowboy Open,165,L,DEC,5 - 3,Keilan Torres,18105,Northern Colorado,Alexandre Lopouchanski,39855,Air Force
+2016,03/05,Big 12 Championships,165,L,FALL,1:45,Grant Nehring,13556,North Dakota State,Michael Billingsley,20704,Air Force
+2016,03/05,Big 12 Championships,165,L,DEC,7 - 3,Connor Flynn,39676,West Virginia,Michael Billingsley,20704,Air Force
+2016,03/05,Big 12 Championships,165,W,FALL,2:57,Keilan Torres,18105,Northern Colorado,Michael Billingsley,20704,Air Force
+2016,03/05,Big 12 Championships,165,L,SV-1,4 - 2,Luke Zilverberg,13633,South Dakota State,Michael Billingsley,20704,Air Force
+2016,03/05,Big 12 Championships,165,W,SV-1,10 - 8,Chaz Polson,17412,Wyoming,Michael Billingsley,20704,Air Force
+2016,02/14,Air Force - Oregon State Dual,165,L,FALL,5:30,Seth Thomas,18159,Oregon State,Michael Billingsley,20704,Air Force
+2016,02/11,New Mexico Highlands - Air Force Dual,165,W,DEC,7 - 2,Juan Alvarado,21262,New Mexico Highlands,Michael Billingsley,20704,Air Force
+2016,02/06,Rocky Mountain Open,165,L,DEC,7 - 1,Ricky Padilla,40631,Air Force,Michael Billingsley,20704,Air Force
+2016,02/06,Rocky Mountain Open,165,W,DEC,5 - 2,Christopher Cos,40152,Air Force,Michael Billingsley,20704,Air Force
+2016,02/06,Rocky Mountain Open,165,W,MD,9 - 1,Tony Silva-Bussey,24148,Colorado Mesa,Michael Billingsley,20704,Air Force
+2016,02/06,Rocky Mountain Open,165,W,DEC,4 - 3,Noah Irons,20708,Air Force,Michael Billingsley,20704,Air Force
+2016,11/21,Holiday Inn Open,165,L,MD,12 - 4,Kyle Pope,16072,Wyoming,Michael Billingsley,20704,Air Force
+2016,11/21,Holiday Inn Open,165,W,DEC,9 - 4,Kyle Bateman,40604,CSU-Pueblo,Michael Billingsley,20704,Air Force
+2016,11/21,Holiday Inn Open,165,W,DEC,4 - 3,Reed Burgener,41778,Chadron State,Michael Billingsley,20704,Air Force
+2016,11/21,Holiday Inn Open,165,W,SV-1,6 - 4,Travis Bradford,24866,Western Colorado,Michael Billingsley,20704,Air Force
+2016,11/21,Holiday Inn Open,165,L,FALL,2:01,Tyler Loethen,41185,Central Missouri,Michael Billingsley,20704,Air Force
+2016,11/21,Holiday Inn Open,165,W,FALL,2:02,Reed Burgener,41778,Chadron State,Michael Billingsley,20704,Air Force
+2016,11/13,Wyoming - Air Force Dual,174,L,MD,11 - 3,Benjamin Stroh,12647,Wyoming,Michael Billingsley,20704,Air Force
+2016,11/07,Cowboy Open,165,W,DEC,9 - 7,Dalton Harmon,20411,Utah Valley,Michael Billingsley,20704,Air Force
+2016,11/07,Cowboy Open,165,W,DEC,7 - 1,Richard Miranda,41456,Nebraska-Kearney,Michael Billingsley,20704,Air Force
+2016,11/07,Cowboy Open,165,L,TF5,15 - 0 3:52,Kyle Pope,16072,Wyoming,Michael Billingsley,20704,Air Force
+2016,11/07,Cowboy Open,165,L,DEC,7 - 4,Chaz Polson,17412,Wyoming,Michael Billingsley,20704,Air Force
+2016,11/07,Cowboy Open,165,W,MFOR,0 - 0,Tanner Miller,15111,Wyoming,Michael Billingsley,20704,Air Force
+2016,02/06,Rocky Mountain Open,165,L,INJ,7:00,Isaac Deaton,21410,Nebraska-Kearney,Toby Ryals,24846,Air Force
+2016,02/06,Rocky Mountain Open,165,W,TB-1,2 - 1,Jordan Wengreen,20717,Air Force,Toby Ryals,24846,Air Force
+2016,02/06,Rocky Mountain Open,165,W,DEC,3 - 0,Christopher Cos,40152,Air Force,Toby Ryals,24846,Air Force
+2016,02/06,Rocky Mountain Open,165,L,DEC,7 - 6,Isaac Deaton,21410,Nebraska-Kearney,Toby Ryals,24846,Air Force
+2016,11/07,Cowboy Open,165,L,FALL,3:45,Travis Bradford,24866,Western Colorado,Toby Ryals,24846,Air Force
+2016,11/07,Cowboy Open,165,L,DEC,5 - 1,Kimball Bastian,40322,Utah Valley,Toby Ryals,24846,Air Force
+2016,02/21,US Collegiate Championships,165,W,INJ,7:00,Cameron Loving,39634,Wyoming,Jordan Wengreen,20717,Air Force
+2016,02/21,US Collegiate Championships,165,W,DEC,5 - 2,Beau Billingsley,39953,Air Force,Jordan Wengreen,20717,Air Force
+2016,02/21,US Collegiate Championships,165,W,DEC,2 - 1,Christopher Cos,40152,Air Force,Jordan Wengreen,20717,Air Force
+2016,02/21,US Collegiate Championships,165,L,TF5,16 - 1 5:57,Josh Shields,39511,Arizona State,Jordan Wengreen,20717,Air Force
+2016,02/06,Rocky Mountain Open,165,W,MD,17 - 3,Mason Darveux,44309,Unattached,Jordan Wengreen,20717,Air Force
+2016,02/06,Rocky Mountain Open,165,W,TF5,17 - 1 5:00,Ben Peterson,44310,Unattached,Jordan Wengreen,20717,Air Force
+2016,02/06,Rocky Mountain Open,165,L,FALL,6:03,Brendan Gonzales,40577,Western Colorado,Jordan Wengreen,20717,Air Force
+2016,02/06,Rocky Mountain Open,165,L,TB-1,2 - 1,Toby Ryals,24846,Air Force,Jordan Wengreen,20717,Air Force
+2016,11/21,Holiday Inn Open,165,L,FALL,5:00,Richard Miranda,41456,Nebraska-Kearney,Jordan Wengreen,20717,Air Force
+2016,11/07,Cowboy Open,165,W,DEC,8 - 2,Reed Burgener,41778,Chadron State,Jordan Wengreen,20717,Air Force
+2016,11/07,Cowboy Open,165,L,TF5,15 - 0 6:54,Kyle Pope,16072,Wyoming,Jordan Wengreen,20717,Air Force
+2016,11/07,Cowboy Open,165,L,DEC,5 - 2,Taylor West,13744,Boise State,Jordan Wengreen,20717,Air Force
+2016,11/01,Northern Colorado Open,165,L,MFOR,0 - 0,Tyler Yoshikawa,40628,Colorado Mesa,Jordan Wengreen,20717,Air Force
+2016,11/01,Northern Colorado Open,165,L,MFOR,0 - 0,Chaz Polson,17412,Wyoming,Jordan Wengreen,20717,Air Force
+2016,02/21,US Collegiate Championships,184,L,FALL,2:26,John Hagey,20705,Air Force,Noah Irons,20708,Air Force
+2016,02/21,US Collegiate Championships,184,L,MD,15 - 2,Garet Krohn,12464,Stanford,Noah Irons,20708,Air Force
+2016,02/21,US Collegiate Championships,184,L,DEC,6 - 4,Zen Ikehara,20707,Air Force,Noah Irons,20708,Air Force
+2016,02/06,Rocky Mountain Open,165,W,MD,15 - 1,Isaac Deaton,21410,Nebraska-Kearney,Noah Irons,20708,Air Force
+2016,02/06,Rocky Mountain Open,165,W,FALL,5:28,Beau Billingsley,39953,Air Force,Noah Irons,20708,Air Force
+2016,02/06,Rocky Mountain Open,165,L,DEC,4 - 3,Michael Billingsley,20704,Air Force,Noah Irons,20708,Air Force
+2016,02/06,Rocky Mountain Open,165,W,FALL,3:46,Mason Darveux,44309,Unattached,Noah Irons,20708,Air Force
+2016,02/06,Rocky Mountain Open,165,W,FALL,2:40,Keenan Willits,41739,Colorado School Of Mines,Noah Irons,20708,Air Force
+2016,11/21,Holiday Inn Open,165,L,FALL,4:15,Paul Michaelson,41770,Mary,Noah Irons,20708,Air Force
+2016,11/21,Holiday Inn Open,165,W,DEC,4 - 3,Kregg Clarke,42576,Fort Hays State,Noah Irons,20708,Air Force
+2016,11/21,Holiday Inn Open,165,L,MD,11 - 2,Dustin Williams,20108,Nebraska,Noah Irons,20708,Air Force
+2016,11/21,Holiday Inn Open,165,W,FALL,5:57,Joseph Weber,24727,Briar Cliff,Noah Irons,20708,Air Force
+2016,11/07,Cowboy Open,165,W,FALL,0:50,Logan Foster,41735,Montana State-Northern,Noah Irons,20708,Air Force
+2016,11/07,Cowboy Open,165,L,DEC,11 - 5,Kimball Bastian,40322,Utah Valley,Noah Irons,20708,Air Force
+2016,11/07,Cowboy Open,165,W,MFOR,0 - 0,Tanner Miller,15111,Wyoming,Noah Irons,20708,Air Force
+2016,11/07,Cowboy Open,165,L,FALL,7:44,Taylor West,13744,Boise State,Noah Irons,20708,Air Force
+2016,02/21,US Collegiate Championships,165,L,FALL,0:52,Shakur Rasheed,20305,Penn State,Beau Billingsley,39953,Air Force
+2016,02/21,US Collegiate Championships,165,W,DEC,2 - 1,Cameron Loving,39634,Wyoming,Beau Billingsley,39953,Air Force
+2016,02/21,US Collegiate Championships,165,L,DEC,5 - 2,Jordan Wengreen,20717,Air Force,Beau Billingsley,39953,Air Force
+2016,02/06,Rocky Mountain Open,165,W,FALL,0:58,Keenan Willits,41739,Colorado School Of Mines,Beau Billingsley,39953,Air Force
+2016,02/06,Rocky Mountain Open,165,W,DEC,7 - 3,Tony Silva-Bussey,24148,Colorado Mesa,Beau Billingsley,39953,Air Force
+2016,02/06,Rocky Mountain Open,165,L,DEC,7 - 3,Isaac Deaton,21410,Nebraska-Kearney,Beau Billingsley,39953,Air Force
+2016,02/06,Rocky Mountain Open,165,L,FALL,5:28,Noah Irons,20708,Air Force,Beau Billingsley,39953,Air Force
+2016,11/21,Holiday Inn Open,165,L,FALL,4:18,Chance Helmick,24032,Chadron State,Beau Billingsley,39953,Air Force
+2016,11/21,Holiday Inn Open,165,W,DEC,3 - 2,Christopher Cos,40152,Air Force,Beau Billingsley,39953,Air Force
+2016,11/21,Holiday Inn Open,165,L,DEC,2 - 0,Isaac Deaton,21410,Nebraska-Kearney,Beau Billingsley,39953,Air Force
+2016,11/21,Holiday Inn Open,165,W,FALL,2:00,Hunter Lucas,40617,Northwest Kansas Technical College,Beau Billingsley,39953,Air Force
+2016,11/21,Holiday Inn Open,165,W,INJ,7:00,Marcus Nelson,23766,Morningside,Beau Billingsley,39953,Air Force
+2016,11/07,Cowboy Open,165,L,DEC,8 - 1,Andrew Bartel,41824,Montana State-Northern,Beau Billingsley,39953,Air Force
+2016,11/07,Cowboy Open,165,L,DEC,6 - 1,Isaac Deaton,21410,Nebraska-Kearney,Beau Billingsley,39953,Air Force
+2016,11/01,Northern Colorado Open,165,W,FALL,5:42,Tyler Yoshikawa,40628,Colorado Mesa,Beau Billingsley,39953,Air Force
+2016,11/01,Northern Colorado Open,165,W,DEC,8 - 3,John Lopez,40630,CSU-Pueblo,Beau Billingsley,39953,Air Force
+2016,11/01,Northern Colorado Open,165,W,TF5,17 - 2 5:48,Johnathon Hernandez,40629,Colby Community College,Beau Billingsley,39953,Air Force
+2016,11/01,Northern Colorado Open,165,L,FALL,6:02,JaCobi Jones,24034,CSU-Pueblo,Beau Billingsley,39953,Air Force
+2016,11/01,Northern Colorado Open,165,L,FALL,5:29,Lucas Lovvorn,42626,Wyoming,Beau Billingsley,39953,Air Force
+2016,02/21,US Collegiate Championships,165,W,DEC,11 - 5,Ryan Pellow,23667,Western Colorado,Christopher Cos,40152,Air Force
+2016,02/21,US Collegiate Championships,165,L,DEC,2 - 1,Ricky Padilla,40631,Air Force,Christopher Cos,40152,Air Force
+2016,02/21,US Collegiate Championships,165,L,DEC,2 - 1,Jordan Wengreen,20717,Air Force,Christopher Cos,40152,Air Force
+2016,02/06,Rocky Mountain Open,165,L,DEC,5 - 2,Michael Billingsley,20704,Air Force,Christopher Cos,40152,Air Force
+2016,02/06,Rocky Mountain Open,165,L,DEC,3 - 0,Toby Ryals,24846,Air Force,Christopher Cos,40152,Air Force
+2016,11/21,Holiday Inn Open,165,W,FALL,1:45,Christian Stutzman,42584,Hastings,Christopher Cos,40152,Air Force
+2016,11/21,Holiday Inn Open,165,W,FALL,4:31,Caleb Holt,42583,Hastings,Christopher Cos,40152,Air Force
+2016,11/21,Holiday Inn Open,165,W,FALL,2:25,Claude Shelby,42582,Barton,Christopher Cos,40152,Air Force
+2016,11/21,Holiday Inn Open,165,L,DEC,3 - 2,Tony Silva-Bussey,24148,Colorado Mesa,Christopher Cos,40152,Air Force
+2016,11/21,Holiday Inn Open,165,L,DEC,3 - 2,Beau Billingsley,39953,Air Force,Christopher Cos,40152,Air Force
+2016,11/07,Cowboy Open,165,W,FALL,5:26,Joseph Prieto,40602,Unattached,Christopher Cos,40152,Air Force
+2016,11/07,Cowboy Open,165,L,DEC,8 - 3,Chance Helmick,24032,Chadron State,Christopher Cos,40152,Air Force
+2016,11/07,Cowboy Open,165,W,TF5,15 - 0 4:01,Diego Trujillo,41825,New Mexico Highlands,Christopher Cos,40152,Air Force
+2016,11/07,Cowboy Open,165,L,DEC,3 - 0,Lucas Lovvorn,42626,Wyoming,Christopher Cos,40152,Air Force
+2016,03/05,Big 12 Championships,174,L,FALL,3:26,Matt Reed,15381,Oklahoma,Adam Jackson,16161,Air Force
+2016,03/05,Big 12 Championships,174,L,MD,11 - 3,Ross Renzi,11474,West Virginia,Adam Jackson,16161,Air Force
+2016,03/05,Big 12 Championships,174,W,SV-1,3 - 1,Tanner Davis,20184,Northern Colorado,Adam Jackson,16161,Air Force
+2016,03/05,Big 12 Championships,174,W,DEC,5 - 2,Jace Jensen,12336,Wyoming,Adam Jackson,16161,Air Force
+2016,02/17,Air Force - Northern Colorado Dual,174,W,DEC,6 - 3,Tanner Davis,20184,Northern Colorado,Adam Jackson,16161,Air Force
+2016,02/14,Air Force - Oregon State Dual,174,L,DEC,3 - 1,Tyler Chay,18454,Oregon State,Adam Jackson,16161,Air Force
+2016,02/11,Utah Valley - Air Force Dual,174,L,TB-1,4 - 1,Ross Taylor,15548,Utah Valley,Adam Jackson,16161,Air Force
+2016,02/06,Stanford - Air Force Dual,174,W,DEC,4 - 2,Peter Galli,15320,Stanford,Adam Jackson,16161,Air Force
+2016,01/30,All Academy Championships,174,W,DEC,7 - 5,Dan Fiorvanti,24981,Coast Guard,Adam Jackson,16161,Air Force
+2016,01/30,All Academy Championships,174,W,DEC,2 - 1,Tim Knipl,40028,The Citadel,Adam Jackson,16161,Air Force
+2016,01/30,All Academy Championships,174,W,TB-1,4 - 3,Mark Darr,11497,VMI,Adam Jackson,16161,Air Force
+2016,01/30,All Academy Championships,174,L,MD,19 - 8,Brian Harvey,12302,Army West Point,Adam Jackson,16161,Air Force
+2016,01/17,Air Force - Grand Canyon Dual,174,L,SV-1,3 - 1,Kenny Moore,46406,Grand Canyon,Adam Jackson,16161,Air Force
+2016,01/09,Western State Colorado University - Air Force Dual,174,L,DEC,6 - 4,Austin Harris,23904,Western Colorado,Adam Jackson,16161,Air Force
+2016,01/01,Southern Scuffle,174,W,DEC,5 - 2,Tim Knipl,40028,The Citadel,Adam Jackson,16161,Air Force
+2016,01/01,Southern Scuffle,174,W,DEC,6 - 2,Tanner Davis,20184,Northern Colorado,Adam Jackson,16161,Air Force
+2016,01/01,Southern Scuffle,174,L,DEC,9 - 4,Nick Kee,14557,Appalachian State,Adam Jackson,16161,Air Force
+2016,01/01,Southern Scuffle,174,L,DEC,10 - 4,Nick Wanzek,11511,Minnesota,Adam Jackson,16161,Air Force
+2016,11/21,Air Force - Wisconsin-La Crosse Dual,174,W,DEC,4 - 3,Tyler Schneider,42592,Wisconsin-La Crosse,Adam Jackson,16161,Air Force
+2016,11/21,Air Force - Minnesota Dual,174,W,DEC,5 - 1,Jordon Rothers,11571,Minnesota,Adam Jackson,16161,Air Force
+2016,11/07,Cowboy Open,174,W,DEC,3 - 1,Caleb Copeland,21176,Chadron State,Adam Jackson,16161,Air Force
+2016,11/07,Cowboy Open,174,L,FALL,6:52,Benjamin Stroh,12647,Wyoming,Adam Jackson,16161,Air Force
+2016,11/07,Cowboy Open,174,W,SV-1,1 - 0,Ryder Newman,40607,Wyoming,Adam Jackson,16161,Air Force
+2016,11/07,Cowboy Open,174,W,SV-1,3 - 1,Austin Dewey,12380,Boise State,Adam Jackson,16161,Air Force
+2016,11/07,Cowboy Open,174,W,SV-1,1 - 0,Austin Dewey,12380,Boise State,Adam Jackson,16161,Air Force
+2016,02/21,US Collegiate Championships,184,L,DEC,7 - 3,Garet Krohn,12464,Stanford,Zen Ikehara,20707,Air Force
+2016,02/21,US Collegiate Championships,184,W,FALL,2:29,John Hagey,20705,Air Force,Zen Ikehara,20707,Air Force
+2016,02/21,US Collegiate Championships,184,W,DEC,6 - 4,Noah Irons,20708,Air Force,Zen Ikehara,20707,Air Force
+2016,02/17,Air Force - Northern Colorado Dual,184,W,DEC,3 - 1,Horacio Vialpondo,20193,Northern Colorado,Zen Ikehara,20707,Air Force
+2016,02/11,New Mexico Highlands - Air Force Dual,174,W,DEC,3 - 1,Jonathan Bechtloff,41740,New Mexico Highlands,Zen Ikehara,20707,Air Force
+2016,02/06,Stanford - Air Force Dual,184,L,MD,12 - 2,Garet Krohn,12464,Stanford,Zen Ikehara,20707,Air Force
+2016,01/24,Air Force - South Dakota State Dual,174,L,MD,19 - 6,David Kocer,13612,South Dakota State,Zen Ikehara,20707,Air Force
+2016,01/22,Air Force - North Dakota State Dual,174,L,DEC,5 - 3,Blake Thompson,20422,North Dakota State,Zen Ikehara,20707,Air Force
+2016,01/09,Colorado Mesa University - Air Force Dual,174,W,DEC,7 - 4,Bruno Nicoletti,22793,Colorado Mesa,Zen Ikehara,20707,Air Force
+2016,01/01,Southern Scuffle,174,L,MD,9 - 1,Ethan Ramos,14560,North Carolina,Zen Ikehara,20707,Air Force
+2016,01/01,Southern Scuffle,174,W,DEC,8 - 2,Randy Roden,19867,Duke,Zen Ikehara,20707,Air Force
+2016,01/01,Southern Scuffle,174,L,DEC,5 - 3,Brian Dorsey,14869,Duke,Zen Ikehara,20707,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,174,L,SV-1,1 - 0,Ross Taylor,15548,Utah Valley,Zen Ikehara,20707,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,174,L,FALL,4:00,Zack Hernandez,12618,Columbia,Zen Ikehara,20707,Air Force
+2016,02/21,US Collegiate Championships,165,L,DEC,14 - 8,Josh Shields,39511,Arizona State,Ricky Padilla,40631,Air Force
+2016,02/21,US Collegiate Championships,165,W,DEC,2 - 1,Christopher Cos,40152,Air Force,Ricky Padilla,40631,Air Force
+2016,02/06,Rocky Mountain Open,165,W,DEC,7 - 1,Michael Billingsley,20704,Air Force,Ricky Padilla,40631,Air Force
+2016,11/21,Holiday Inn Open,165,W,DEC,7 - 4,Lucas Lovvorn,42626,Wyoming,Ricky Padilla,40631,Air Force
+2016,11/07,Cowboy Open,165,W,SV-1,1 - 0,Lucas Lovvorn,42626,Wyoming,Ricky Padilla,40631,Air Force
+2016,11/01,Northern Colorado Open,174,W,DEC,11 - 4,Horacio Vialpondo,20193,Northern Colorado,Ricky Padilla,40631,Air Force
+2016,11/01,Northern Colorado Open,174,W,DEC,7 - 4,John Hagey,20705,Air Force,Ricky Padilla,40631,Air Force
+2016,02/21,US Collegiate Championships,184,L,FALL,2:29,Zen Ikehara,20707,Air Force,John Hagey,20705,Air Force
+2016,02/21,US Collegiate Championships,184,L,MD,13 - 4,Garet Krohn,12464,Stanford,John Hagey,20705,Air Force
+2016,02/21,US Collegiate Championships,184,W,FALL,2:26,Noah Irons,20708,Air Force,John Hagey,20705,Air Force
+2016,02/06,Rocky Mountain Open,174,L,FALL,2:24,Bruno Nicoletti,22793,Colorado Mesa,John Hagey,20705,Air Force
+2016,02/06,Rocky Mountain Open,174,W,FALL,1:39,Ladd Bunker,40637,Western Colorado,John Hagey,20705,Air Force
+2016,02/06,Rocky Mountain Open,174,W,DEC,7 - 2,Garrett Miller,12248,Unattached,John Hagey,20705,Air Force
+2016,02/06,Rocky Mountain Open,174,W,FALL,3:40,Ethan Haddock,44292,Chadron State,John Hagey,20705,Air Force
+2016,02/06,Rocky Mountain Open,174,L,DEC,11 - 5,Bruno Nicoletti,22793,Colorado Mesa,John Hagey,20705,Air Force
+2016,02/06,Rocky Mountain Open,174,W,FALL,1:39,Luke Engler,44291,Unattached,John Hagey,20705,Air Force
+2016,11/21,Holiday Inn Open,174,L,DEC,6 - 4,Mario Garcia,23981,Adams State,John Hagey,20705,Air Force
+2016,11/21,Holiday Inn Open,174,L,DEC,7 - 3,Ryder Newman,40607,Wyoming,John Hagey,20705,Air Force
+2016,11/07,Cowboy Open,174,L,DEC,10 - 3,Austin Harris,23904,Western Colorado,John Hagey,20705,Air Force
+2016,11/07,Cowboy Open,174,L,FALL,4:04,Tanner Davis,20184,Northern Colorado,John Hagey,20705,Air Force
+2016,11/07,Cowboy Open,174,W,FALL,2:23,Horacio Vialpondo,20193,Northern Colorado,John Hagey,20705,Air Force
+2016,11/01,Northern Colorado Open,174,L,DEC,7 - 4,Ricky Padilla,40631,Air Force,John Hagey,20705,Air Force
+2016,11/01,Northern Colorado Open,174,W,DEC,2 - 1,Adam Visconti,24845,Colorado Mesa,John Hagey,20705,Air Force
+2016,11/01,Northern Colorado Open,174,W,FALL,4:27,Ryder Newman,40607,Wyoming,John Hagey,20705,Air Force
+2016,11/01,Northern Colorado Open,174,W,FALL,4:39,Trevor Graves,16171,Iowa,John Hagey,20705,Air Force
+2016,03/05,Big 12 Championships,184,L,FALL,1:55,Benjamin Stroh,12647,Wyoming,Anthony McLaughlin,23674,Air Force
+2016,03/05,Big 12 Championships,184,L,DEC,3 - 1,Dane Pestano,12943,Iowa State,Anthony McLaughlin,23674,Air Force
+2016,02/11,Utah Valley - Air Force Dual,184,W,DEC,9 - 3,Will Sumner,20419,Utah Valley,Anthony McLaughlin,23674,Air Force
+2016,01/24,Air Force - South Dakota State Dual,184,W,DEC,3 - 2,Brady Ayers,12290,South Dakota State,Anthony McLaughlin,23674,Air Force
+2016,01/22,Air Force - North Dakota State Dual,184,L,FALL,2:52,Hayden Zillmer,12280,North Dakota State,Anthony McLaughlin,23674,Air Force
+2016,01/17,Air Force - Grand Canyon Dual,184,W,SV-2,4 - 2,Austin Trujillo,23165,Grand Canyon,Anthony McLaughlin,23674,Air Force
+2016,01/09,Colorado Mesa University - Air Force Dual,184,W,MD,11 - 1,Adam Visconti,24845,Colorado Mesa,Anthony McLaughlin,23674,Air Force
+2016,01/09,Western State Colorado University - Air Force Dual,184,W,DEC,5 - 1,Brandon Supernaw,22206,Western Colorado,Anthony McLaughlin,23674,Air Force
+2016,01/01,Southern Scuffle,184,L,MD,9 - 1,Lorenzo Thomas,12543,Pennsylvania,Anthony McLaughlin,23674,Air Force
+2016,01/01,Southern Scuffle,184,L,DEC,5 - 1,Bubba Scheffel,20475,West Virginia,Anthony McLaughlin,23674,Air Force
+2016,01/01,Southern Scuffle,184,W,DEC,5 - 3,Will Schany,20435,Virginia,Anthony McLaughlin,23674,Air Force
+2016,01/01,Southern Scuffle,184,W,DEC,3 - 1,Xavier Dye,12515,Cleveland State,Anthony McLaughlin,23674,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,184,L,DEC,2 - 0,Ryan Christensen,20481,Wisconsin,Anthony McLaughlin,23674,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,184,L,DEC,10 - 3,Corey Griego,20292,Oregon State,Anthony McLaughlin,23674,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,184,W,DEC,6 - 5,Cory Damiana,19923,Hofstra,Anthony McLaughlin,23674,Air Force
+2016,11/21,Air Force - Minnesota Dual,184,L,TB-2,8 - 7,Chris Pfarr,11524,Minnesota,Anthony McLaughlin,23674,Air Force
+2016,11/13,Wyoming - Air Force Dual,184,W,DEC,7 - 4,Jace Jensen,12336,Wyoming,Anthony McLaughlin,23674,Air Force
+2016,11/07,Cowboy Open,184,W,FALL,6:58,Jaden Olearnick,22204,Western Colorado,Anthony McLaughlin,23674,Air Force
+2016,11/07,Cowboy Open,184,W,MD,16 - 4,Kolbjorn Skalestad,24647,Providence,Anthony McLaughlin,23674,Air Force
+2016,11/07,Cowboy Open,184,L,DEC,8 - 3,Nikko Reyes,12688,Northern Colorado,Anthony McLaughlin,23674,Air Force
+2016,11/07,Cowboy Open,184,W,DEC,5 - 2,Jace Jensen,12336,Wyoming,Anthony McLaughlin,23674,Air Force
+2016,02/14,Air Force - Oregon State Dual,184,L,MD,10 - 2,Corey Griego,20292,Oregon State,William Baker,41744,Air Force
+2016,02/11,New Mexico Highlands - Air Force Dual,184,L,TB-1,6 - 5,Luis Terrazas,44424,New Mexico Highlands,William Baker,41744,Air Force
+2016,01/30,All Academy Championships,184,W,FALL,4:44,David Rogers,24747,Norwich,William Baker,41744,Air Force
+2016,01/30,All Academy Championships,184,L,TB-1,5 - 2,Sawyer Root,39846,The Citadel,William Baker,41744,Air Force
+2016,01/30,All Academy Championships,184,W,DEC,5 - 2,Sawyer Root,39846,The Citadel,William Baker,41744,Air Force
+2016,01/30,All Academy Championships,184,L,MD,10 - 2,Samson Imonode,12655,Army West Point,William Baker,41744,Air Force
+2016,01/09,Colorado State University - Pueblo - Air Force Dual,184,W,DEC,3 - 1,Jakob Lund,24444,CSU-Pueblo,William Baker,41744,Air Force
+2016,11/21,Air Force - Wisconsin-La Crosse Dual,184,W,DEC,7 - 4,Alex Friedman,42593,Wisconsin-La Crosse,William Baker,41744,Air Force
+2016,11/07,Cowboy Open,184,L,MD,10 - 0,Dylan Gabel,20186,Northern Colorado,William Baker,41744,Air Force
+2016,11/07,Cowboy Open,184,L,DEC,6 - 2,Luke Paine,16192,Wyoming,William Baker,41744,Air Force
+2016,03/05,Big 12 Championships,197,L,DEC,7 - 4,Jake A Smith,23323,West Virginia,Parker Hines,13041,Air Force
+2016,03/05,Big 12 Championships,197,L,MD,9 - 0,Preston Weigel,20278,Oklahoma State,Parker Hines,13041,Air Force
+2016,02/17,Air Force - Northern Colorado Dual,197,L,DEC,8 - 6,Trent Noon,12471,Northern Colorado,Parker Hines,13041,Air Force
+2016,02/14,Air Force - Oregon State Dual,197,L,DEC,8 - 5,Cody Crawford,16468,Oregon State,Parker Hines,13041,Air Force
+2016,02/11,New Mexico Highlands - Air Force Dual,197,W,FALL,5:00,Antonio Navarrette,44425,New Mexico Highlands,Parker Hines,13041,Air Force
+2016,02/11,Utah Valley - Air Force Dual,197,W,TF5,22 - 4 5:39,Aryton Almberg,13048,Utah Valley,Parker Hines,13041,Air Force
+2016,02/06,Stanford - Air Force Dual,197,W,MD,14 - 6,Michael Sojka,12633,Stanford,Parker Hines,13041,Air Force
+2016,01/30,All Academy Championships,197,W,MD,15 - 2,Phil Azzari,24987,Coast Guard,Parker Hines,13041,Air Force
+2016,01/30,All Academy Championships,197,W,DEC,8 - 5,Michael Woulfe,12693,Navy,Parker Hines,13041,Air Force
+2016,01/30,All Academy Championships,197,L,DEC,6 - 2,Bryce Barnes,13133,Army West Point,Parker Hines,13041,Air Force
+2016,01/24,Air Force - South Dakota State Dual,197,L,DEC,8 - 7,Nate Rotert,12968,South Dakota State,Parker Hines,13041,Air Force
+2016,01/22,Air Force - North Dakota State Dual,197,W,MD,12 - 4,Logan Paxton,40457,North Dakota State,Parker Hines,13041,Air Force
+2016,01/17,Air Force - Grand Canyon Dual,197,W,DEC,3 - 1,Austin Gaun,23806,Grand Canyon,Parker Hines,13041,Air Force
+2016,01/09,Colorado State University - Pueblo - Air Force Dual,197,W,INJ,7:00,Augustine Desantis,43033,CSU-Pueblo,Parker Hines,13041,Air Force
+2016,01/09,Colorado Mesa University - Air Force Dual,197,W,DEC,8 - 1,Marcus Haughian,43630,Colorado Mesa,Parker Hines,13041,Air Force
+2016,01/09,Western State Colorado University - Air Force Dual,197,W,MD,16 - 6,Mick Dougharity,41753,Western Colorado,Parker Hines,13041,Air Force
+2016,01/01,Southern Scuffle,197,W,DEC,7 - 4,Chip Ness,20118,North Carolina,Parker Hines,13041,Air Force
+2016,01/01,Southern Scuffle,197,W,DEC,5 - 1,Marshall Haas,13170,The Citadel,Parker Hines,13041,Air Force
+2016,01/01,Southern Scuffle,197,W,SV-1,10 - 8,Scottie Boykin,12756,Chattanooga,Parker Hines,13041,Air Force
+2016,01/01,Southern Scuffle,197,W,DEC,11 - 5,Benjamin Honis,43656,Cornell,Parker Hines,13041,Air Force
+2016,01/01,Southern Scuffle,197,L,DEC,6 - 3,Trent Noon,12471,Northern Colorado,Parker Hines,13041,Air Force
+2016,01/01,Southern Scuffle,197,L,MD,13 - 0,Conner Hartmann,13169,Duke,Parker Hines,13041,Air Force
+2016,01/01,Southern Scuffle,197,L,DEC,4 - 3,John Bolich,13056,Lehigh,Parker Hines,13041,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,197,W,TF5,15 - 0 5:14,Chris Restad,24364,Western Wyoming College,Parker Hines,13041,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,197,L,DEC,7 - 1,Jake A Smith,23323,West Virginia,Parker Hines,13041,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,197,L,DEC,3 - 2,Cody Crawford,16468,Oregon State,Parker Hines,13041,Air Force
+2016,11/21,Air Force - Wisconsin-La Crosse Dual,197,W,MD,16 - 5,Zach Tooley,42594,Wisconsin-La Crosse,Parker Hines,13041,Air Force
+2016,11/21,Air Force - Minnesota Dual,197,L,MD,12 - 4,Brett Pfarr,12441,Minnesota,Parker Hines,13041,Air Force
+2016,11/13,Wyoming - Air Force Dual,197,W,DEC,5 - 4,Brandon Tribble,13038,Wyoming,Parker Hines,13041,Air Force
+2016,11/07,Cowboy Open,197,W,DEC,10 - 5,Garrett DeMers,23468,Montana State-Northern,Parker Hines,13041,Air Force
+2016,11/07,Cowboy Open,197,W,MD,12 - 4,Cody Marquez,41033,New Mexico Highlands,Parker Hines,13041,Air Force
+2016,11/07,Cowboy Open,197,L,DEC,5 - 3,Brandon Tribble,13038,Wyoming,Parker Hines,13041,Air Force
+2016,11/07,Cowboy Open,197,W,MD,18 - 5,Harley DiLulo,19686,Boise State,Parker Hines,13041,Air Force
+2016,11/01,Northern Colorado Open,197,L,FALL,0:33,Trent Noon,12471,Northern Colorado,Hunter Brown,40612,Air Force
+2016,11/01,Northern Colorado Open,197,L,FALL,1:36,Brandon Tribble,13038,Wyoming,Hunter Brown,40612,Air Force
+2016,02/06,Rocky Mountain Open,197,L,TF5,18 - 2 3:55,Jacob Seely,39665,Northern Colorado,Matt Wagner,40613,Air Force
+2016,12/06,Bob Smith Open,197,L,FALL,1:27,Andrew Marsden,39548,Oklahoma State,Matt Wagner,40613,Air Force
+2016,11/21,Holiday Inn Open,197,L,FALL,5:46,Cody Vigoren,39732,Wyoming,Matt Wagner,40613,Air Force
+2016,11/07,Cowboy Open,197,L,MD,14 - 4,Tanner Orndorff,40324,Utah Valley,Matt Wagner,40613,Air Force
+2016,11/01,Northern Colorado Open,197,L,DEC,6 - 5,Cody Vigoren,39732,Wyoming,Matt Wagner,40613,Air Force
+2016,03/05,Big 12 Championships,285,L,MD,12 - 0,Ross Larson,14299,Oklahoma,Marcus Malecek,14376,Air Force
+2016,03/05,Big 12 Championships,285,W,DEC,1 - 0,Jack Kuck,40206,Northern Colorado,Marcus Malecek,14376,Air Force
+2016,03/05,Big 12 Championships,285,W,DEC,1 - 0,Alex Macki,14278,South Dakota State,Marcus Malecek,14376,Air Force
+2016,03/05,Big 12 Championships,285,L,DEC,5 - 4,Joe Scanlan,14338,Iowa State,Marcus Malecek,14376,Air Force
+2016,02/17,Air Force - Northern Colorado Dual,285,W,DEC,3 - 0,Jack Kuck,40206,Northern Colorado,Marcus Malecek,14376,Air Force
+2016,02/14,Air Force - Oregon State Dual,285,L,MD,18 - 6,Amarveer Dhesi,14223,Oregon State,Marcus Malecek,14376,Air Force
+2016,02/11,Utah Valley - Air Force Dual,285,L,DEC,3 - 1,Dustin Dennison,20409,Utah Valley,Marcus Malecek,14376,Air Force
+2016,02/06,Stanford - Air Force Dual,285,L,MD,9 - 0,Nathan Butler,14443,Stanford,Marcus Malecek,14376,Air Force
+2016,01/30,All Academy Championships,285,W,FALL,2:27,Frank Girolamo,24414,Norwich,Marcus Malecek,14376,Air Force
+2016,01/30,All Academy Championships,285,W,DEC,9 - 3,Joe Bexley,14177,The Citadel,Marcus Malecek,14376,Air Force
+2016,01/30,All Academy Championships,285,W,DEC,4 - 0,Urayoan Garcia,13171,VMI,Marcus Malecek,14376,Air Force
+2016,01/24,Air Force - South Dakota State Dual,285,W,DEC,2 - 0,Alex Macki,14278,South Dakota State,Marcus Malecek,14376,Air Force
+2016,01/22,Air Force - North Dakota State Dual,285,L,DEC,4 - 1,Benjamin Tyanan,40498,North Dakota State,Marcus Malecek,14376,Air Force
+2016,01/17,Air Force - Grand Canyon Dual,285,L,DEC,5 - 1,Sean Medley,22161,Grand Canyon,Marcus Malecek,14376,Air Force
+2016,01/09,Western State Colorado University - Air Force Dual,285,W,DEC,6 - 0,Lewis Arendall,43797,Western Colorado,Marcus Malecek,14376,Air Force
+2016,01/01,Southern Scuffle,285,W,DEC,10 - 4,Connor Tolley,19780,Chattanooga,Marcus Malecek,14376,Air Force
+2016,01/01,Southern Scuffle,285,L,DEC,4 - 1,Jared Johnson,19773,Chattanooga,Marcus Malecek,14376,Air Force
+2016,01/01,Southern Scuffle,285,W,MFOR,0 - 0,McZiggy Richards,40436,Cornell,Marcus Malecek,14376,Air Force
+2016,01/01,Southern Scuffle,285,W,MFOR,0 - 0,Patrick Gillen,13125,Virginia,Marcus Malecek,14376,Air Force
+2016,01/01,Southern Scuffle,285,L,SV-2,4 - 2,Billy Miller,20725,Edinboro,Marcus Malecek,14376,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,285,L,DEC,7 - 3,Joe Scanlan,14338,Iowa State,Marcus Malecek,14376,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,285,W,MD,10 - 2,James Romero,40021,Missouri,Marcus Malecek,14376,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,285,W,MD,12 - 2,Damian Trujillo,43283,North Idaho College,Marcus Malecek,14376,Air Force
+2016,12/04,Cliff Keen Las Vegas Invitational,285,L,DEC,3 - 1,Michael Hughes,14198,Hofstra,Marcus Malecek,14376,Air Force
+2016,11/21,Air Force - Wisconsin-La Crosse Dual,285,W,DEC,7 - 3,Clay Broze,42595,Wisconsin-La Crosse,Marcus Malecek,14376,Air Force
+2016,11/21,Air Force - Minnesota Dual,285,L,DEC,9 - 3,Michael Kroells,14331,Minnesota,Marcus Malecek,14376,Air Force
+2016,11/13,Wyoming - Air Force Dual,285,L,FALL,0:57,Tanner Harms,14340,Wyoming,Marcus Malecek,14376,Air Force
+2016,11/07,Cowboy Open,285,W,DEC,6 - 0,Austin Abbey,21508,Chadron State,Marcus Malecek,14376,Air Force
+2016,11/07,Cowboy Open,285,L,SV-1,1 - 0,Taylor Kornoely,41754,Montana State-Northern,Marcus Malecek,14376,Air Force
+2016,11/07,Cowboy Open,285,L,MD,11 - 0,Tanner Harms,14340,Wyoming,Marcus Malecek,14376,Air Force
+2016,11/07,Cowboy Open,285,W,DEC,1 - 0,Sam Eagan,21507,Wyoming,Marcus Malecek,14376,Air Force
+2016,11/01,Northern Colorado Open,285,L,MFOR,0 - 0,Sam Eagan,21507,Wyoming,Kerry Underwood,40615,Air Force

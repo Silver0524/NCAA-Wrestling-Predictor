@@ -1,0 +1,656 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2017,03/03,EIWA Championships,125,W,DEC,20 - 14,Jacob Martin,42329,Hofstra,Noah Baughman,44749,Cornell
+2017,03/03,EIWA Championships,125,L,FALL,1:34,Darian Cruz,12135,Lehigh,Noah Baughman,44749,Cornell
+2017,03/03,EIWA Championships,125,W,FALL,6:58,Tanner Shoap,12205,Drexel,Noah Baughman,44749,Cornell
+2017,03/03,EIWA Championships,125,W,FALL,2:58,Jordan Gessner,45220,Bucknell,Noah Baughman,44749,Cornell
+2017,03/03,EIWA Championships,125,W,DEC,8 - 2,Steven Bulzomi,40242,Binghamton,Noah Baughman,44749,Cornell
+2017,02/19,Ohio State - Cornell Dual,125,W,DEC,4 - 0,Jose Rodriguez,39639,Ohio State,Noah Baughman,44749,Cornell
+2017,02/11,Princeton - Cornell Dual,125,W,SV-1,6 - 4,Ty Agaisse,45131,Princeton,Noah Baughman,44749,Cornell
+2017,02/10,Pennsylvania - Cornell Dual,125,W,DEC,5 - 1,Jeremy Schwartz,12148,Pennsylvania,Noah Baughman,44749,Cornell
+2017,02/04,Cornell - Columbia Dual,125,W,DEC,4 - 0,Johnson Mai,12151,Columbia,Noah Baughman,44749,Cornell
+2017,01/28,Cornell - Harvard Dual,125,W,FALL,4:00,Connor Sakmar,45144,Harvard,Noah Baughman,44749,Cornell
+2017,01/28,Cornell - Brown Dual,125,W,MD,12 - 3,Trey Keeley,44696,Brown,Noah Baughman,44749,Cornell
+2017,01/22,Lock Haven - Cornell Dual,125,W,FALL,6:12,Jake Field,12108,Lock Haven,Noah Baughman,44749,Cornell
+2017,01/21,Cornell - Lehigh Dual,125,L,TF5,17 - 1 4:02,Darian Cruz,12135,Lehigh,Noah Baughman,44749,Cornell
+2017,01/14,Missouri - Cornell Dual,125,L,DEC,3 - 0,Barlow McGhee,13251,Missouri,Noah Baughman,44749,Cornell
+2017,01/13,Drexel - Cornell Dual,125,L,TF5,22 - 2 7:00,Tanner Shoap,12205,Drexel,Noah Baughman,44749,Cornell
+2017,01/01,Southern Scuffle,125,L,TF5,16 - 0 4:05,Ethan Lizak,20040,Minnesota,Noah Baughman,44749,Cornell
+2017,01/01,Southern Scuffle,125,W,MD,13 - 4,Landon LoAlbo,20795,Gardner-Webb,Noah Baughman,44749,Cornell
+2017,01/01,Southern Scuffle,125,L,MD,15 - 4,Alonzo Allen,19765,Chattanooga,Noah Baughman,44749,Cornell
+2017,12/18,Cornell - Oklahoma Dual,125,L,FALL,1:38,Christian Moody,39746,Oklahoma,Noah Baughman,44749,Cornell
+2017,12/16,Cornell - Oklahoma State Dual,125,W,FALL,4:25,Nick Piccininni,39547,Oklahoma State,Noah Baughman,44749,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,125,L,MD,10 - 2,Abraham Rodriquez,42226,Oregon State,Noah Baughman,44749,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,125,W,TF5,16 - 1 4:36,Garrett White,47812,North Idaho College,Noah Baughman,44749,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,125,L,MD,10 - 2,Jose Rodriguez,39639,Ohio State,Noah Baughman,44749,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,125,W,SV-1,7 - 5,Josh Terao,20533,American,Noah Baughman,44749,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,125,L,DEC,5 - 0,Sean Nickell,11606,CSU Bakersfield,Noah Baughman,44749,Cornell
+2017,11/27,Hofstra - Cornell Dual,125,W,DEC,3 - 1,Jacob Martin,42329,Hofstra,Noah Baughman,44749,Cornell
+2017,11/27,Rutgers - Cornell Dual,125,W,DEC,3 - 1,Sean McCabe,12035,Rutgers,Noah Baughman,44749,Cornell
+2017,11/20,NYS Collegiate Championships,125,W,TF5,20 - 3 7:00,Jack DelDuca,47645,Oswego State,Noah Baughman,44749,Cornell
+2017,11/20,NYS Collegiate Championships,125,W,FALL,0:40,Dominic DeGraba,47644,Oneonta State,Noah Baughman,44749,Cornell
+2017,11/20,NYS Collegiate Championships,125,W,DEC,3 - 1,James Kaishian,43034,Ithaca,Noah Baughman,44749,Cornell
+2017,11/20,NYS Collegiate Championships,125,W,DEC,5 - 2,Sean Badua,19635,Army West Point,Noah Baughman,44749,Cornell
+2017,11/19,Buffalo - Cornell Dual,125,L,DEC,7 - 4,Derek Spann,45028,Buffalo,Noah Baughman,44749,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,125,W,TF5,19 - 4 3:00,Jonathon Tropea,46048,Rider,Noah Baughman,44749,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,125,W,FALL,3:31,Matthew Rodriguez,45145,Harvard,Noah Baughman,44749,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,125,W,DEC,5 - 0,Aaron Burkett,44628,Lehigh,Noah Baughman,44749,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,125,L,DEC,9 - 5,Shakur Laney,39917,Ohio,Noah Baughman,44749,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,125,W,TF5,17 - 2 3:00,Trey Keeley,44696,Brown,Noah Baughman,44749,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,125,W,MFOR,0 - 0,Michael Russo,19704,Brown,Noah Baughman,44749,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,125,L,SV-1,6 - 4,Steven Bulzomi,40242,Binghamton,Noah Baughman,44749,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,125,L,MFOR,0 - 0,Jeremy Puente,46138,Spartan Combat RTC,Dalton Macri,42225,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,125,L,DEC,8 - 3,Alex Vargas,45133,Maryland,Dalton Macri,42225,Cornell
+2017,02/10,Pennsylvania - Cornell Dual,133,L,MD,15 - 4,Carl Antrassian,45263,Pennsylvania,Jacob Lehr,44922,Cornell
+2017,02/04,Cornell - Columbia Dual,133,L,FALL,0:53,Alec Kelly,45328,Columbia,Jacob Lehr,44922,Cornell
+2017,01/28,Cornell - Harvard Dual,133,L,TF5,17 - 1 7:00,Samuel Goldman,40158,Harvard,Jacob Lehr,44922,Cornell
+2017,01/28,Cornell - Brown Dual,133,L,TF5,17 - 0 5:55,Nick Lattanze,44760,Brown,Jacob Lehr,44922,Cornell
+2017,01/14,Brockport Open,133,L,MD,11 - 0,Jon Lauricella,45909,Brockport,Jacob Lehr,44922,Cornell
+2017,01/14,Brockport Open,133,L,FALL,1:33,Freddy Eckles,47100,Niagara Community College,Jacob Lehr,44922,Cornell
+2017,01/14,Brockport Open,133,L,FALL,0:50,Dillon Stowell,42690,Brockport,Jacob Lehr,44922,Cornell
+2017,01/14,Brockport Open,133,L,FALL,0:41,Johhny Stramiello,46749,Spartan Combat RTC,Jacob Lehr,44922,Cornell
+2017,11/20,NYS Collegiate Championships,125,W,FALL,2:31,Benjarmin Llyod,47653,Cortland State,Jacob Lehr,44922,Cornell
+2017,11/20,NYS Collegiate Championships,125,W,MD,8 - 0,Jacoby Jones-Medious,47650,LIU,Jacob Lehr,44922,Cornell
+2017,11/20,NYS Collegiate Championships,125,L,TF5,16 - 1 7:00,Tito Colom,47643,Ithaca,Jacob Lehr,44922,Cornell
+2017,11/20,NYS Collegiate Championships,125,L,TF5,16 - 1 7:00,Jason Javier,44981,Binghamton,Jacob Lehr,44922,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,125,L,DEC,10 - 9,Noah Sirianni,45386,Navy,Jacob Lehr,44922,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,125,L,DEC,11 - 5,Joe Barber,40224,Maryland,Jacob Lehr,44922,Cornell
+2017,03/16,NCAA Championships,133,L,DEC,6 - 3,Scott Parker,19985,Lehigh,Mark Grey,12040,Cornell
+2017,03/16,NCAA Championships,133,W,MD,10 - 2,Jeffrey Ott,15132,Harvard,Mark Grey,12040,Cornell
+2017,03/16,NCAA Championships,133,L,DEC,6 - 1,Eric Montoya,13414,Nebraska,Mark Grey,12040,Cornell
+2017,03/16,NCAA Championships,133,W,MD,12 - 3,Anthony Tutolo,19968,Kent State,Mark Grey,12040,Cornell
+2017,03/03,EIWA Championships,133,W,FALL,1:16,Vincent Vespa,41322,Hofstra,Mark Grey,12040,Cornell
+2017,03/03,EIWA Championships,133,W,DEC,3 - 1,Pat D'arcy,43692,Princeton,Mark Grey,12040,Cornell
+2017,03/03,EIWA Championships,133,L,MD,10 - 2,Scott Parker,19985,Lehigh,Mark Grey,12040,Cornell
+2017,03/03,EIWA Championships,133,W,FALL,3:36,Vincent Vespa,41322,Hofstra,Mark Grey,12040,Cornell
+2017,03/03,EIWA Championships,133,W,DEC,8 - 3,Pat D'arcy,43692,Princeton,Mark Grey,12040,Cornell
+2017,02/19,Ohio State - Cornell Dual,133,L,TF5,19 - 4 5:00,Nathan Tomasello,14674,Ohio State,Mark Grey,12040,Cornell
+2017,02/11,Princeton - Cornell Dual,133,L,DEC,5 - 0,Pat D'arcy,43692,Princeton,Mark Grey,12040,Cornell
+2017,01/22,Lock Haven - Cornell Dual,133,L,DEC,3 - 0,DJ Fehlman,39898,Lock Haven,Mark Grey,12040,Cornell
+2017,01/21,Cornell - Lehigh Dual,133,W,DEC,6 - 4,Joe Lobeck,44686,Lehigh,Mark Grey,12040,Cornell
+2017,01/14,Missouri - Cornell Dual,133,L,DEC,8 - 2,John Erneste,20058,Missouri,Mark Grey,12040,Cornell
+2017,01/13,Drexel - Cornell Dual,133,W,FALL,2:31,Brendan Hasson,40314,Drexel,Mark Grey,12040,Cornell
+2017,01/01,Southern Scuffle,133,L,SV-2,7 - 1,Mitch McKee,45139,Minnesota,Mark Grey,12040,Cornell
+2017,01/01,Southern Scuffle,133,L,DEC,6 - 0,Korbin Myers,39637,Edinboro,Mark Grey,12040,Cornell
+2017,01/01,Southern Scuffle,133,W,MD,12 - 3,Cole Baumgartner,13425,Duke,Mark Grey,12040,Cornell
+2017,01/01,Southern Scuffle,133,W,MD,13 - 5,Chris Debien,39720,Chattanooga,Mark Grey,12040,Cornell
+2017,12/18,Cornell - Oklahoma Dual,133,W,DEC,8 - 5,Trae Blackwell,20807,Oklahoma,Mark Grey,12040,Cornell
+2017,12/16,Cornell - Oklahoma State Dual,133,L,MD,17 - 6,Kaid Brock,39544,Oklahoma State,Mark Grey,12040,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,133,W,DEC,2 - 0,Mitch McKee,45139,Minnesota,Mark Grey,12040,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,133,W,DEC,3 - 0,Mitch McKee,45139,Minnesota,Mark Grey,12040,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,133,W,FALL,1:48,Austin Harry,22478,Army West Point,Mark Grey,12040,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,133,W,FALL,4:50,Anthony Tutolo,19968,Kent State,Mark Grey,12040,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,133,L,DEC,8 - 3,Nathan Tomasello,14674,Ohio State,Mark Grey,12040,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,133,W,DEC,6 - 3,Cory Stainbrook,12131,West Virginia,Mark Grey,12040,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,133,W,DEC,6 - 2,Corey Keener,12111,Central Michigan,Mark Grey,12040,Cornell
+2017,11/27,Hofstra - Cornell Dual,133,W,DEC,14 - 12,Vincent Vespa,41322,Hofstra,Mark Grey,12040,Cornell
+2017,11/27,Rutgers - Cornell Dual,133,W,DEC,6 - 4,Tyson Dippery,11750,Rutgers,Mark Grey,12040,Cornell
+2017,11/19,Buffalo - Cornell Dual,133,L,DEC,4 - 2,Bryan Lantry,19723,Buffalo,Mark Grey,12040,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,133,W,FALL,2:11,Nick Farro,44590,Lehigh,Mark Grey,12040,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,133,W,DEC,9 - 5,Cameron Kelly,39687,Ohio,Mark Grey,12040,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,133,W,MD,18 - 5,Jeffrey Ott,15132,Harvard,Mark Grey,12040,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,133,W,MD,10 - 2,Josh Patrick,12056,Rutgers,Mark Grey,12040,Cornell
+2017,03/03,EIWA Championships,141,W,TF5,18 - 1 6:51,Connor Burkert,39712,Hofstra,William Koll,40375,Cornell
+2017,03/03,EIWA Championships,141,L,DEC,6 - 0,Randy Cruz,11853,Lehigh,William Koll,40375,Cornell
+2017,03/03,EIWA Championships,141,L,DEC,8 - 1,Dylan Caruana,11934,Binghamton,William Koll,40375,Cornell
+2017,02/19,Ohio State - Cornell Dual,141,L,DEC,5 - 2,Luke Pletcher,44636,Ohio State,William Koll,40375,Cornell
+2017,02/11,Princeton - Cornell Dual,141,L,DEC,5 - 3,Matt Kolodzik,45071,Princeton,William Koll,40375,Cornell
+2017,02/10,Pennsylvania - Cornell Dual,141,W,MD,10 - 1,AJ Vindici,39785,Pennsylvania,William Koll,40375,Cornell
+2017,02/04,Cornell - Columbia Dual,141,L,DEC,8 - 2,Jacob Macalolooy,19813,Columbia,William Koll,40375,Cornell
+2017,01/28,Cornell - Harvard Dual,141,L,SV-1,7 - 5,AJ Jaffe,44752,Harvard,William Koll,40375,Cornell
+2017,01/28,Cornell - Brown Dual,141,W,DEC,10 - 5,Ezekiel Salvo,22497,Brown,William Koll,40375,Cornell
+2017,01/22,Lock Haven - Cornell Dual,141,W,MD,12 - 0,Lewis Williams,40291,Lock Haven,William Koll,40375,Cornell
+2017,01/21,Cornell - Lehigh Dual,141,L,DEC,1 - 0,Randy Cruz,11853,Lehigh,William Koll,40375,Cornell
+2017,01/14,Missouri - Cornell Dual,141,L,MD,15 - 4,Jaydin Eierman,39508,Missouri,William Koll,40375,Cornell
+2017,01/13,Drexel - Cornell Dual,141,W,MD,11 - 2,Vincent Foggia,45252,Drexel,William Koll,40375,Cornell
+2017,12/18,Cornell - Oklahoma Dual,141,L,DEC,5 - 4,Michael Longo,19624,Oklahoma,William Koll,40375,Cornell
+2017,12/16,Cornell - Oklahoma State Dual,141,L,DEC,6 - 1,Dean Heil,15376,Oklahoma State,William Koll,40375,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,141,L,DEC,6 - 2,Mason Smith,39789,Central Michigan,William Koll,40375,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,141,W,DEC,12 - 10,Joey Palmer,12152,Oregon State,William Koll,40375,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,141,L,MD,12 - 4,Kyle Ayersman,11705,Purdue,William Koll,40375,Cornell
+2017,11/27,Hofstra - Cornell Dual,141,W,DEC,9 - 4,Connor Burkert,39712,Hofstra,William Koll,40375,Cornell
+2017,11/27,Rutgers - Cornell Dual,141,L,DEC,6 - 4,Anthony Ashnault,11803,Rutgers,William Koll,40375,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,MD,13 - 5,Sean Lyons,47634,NYU,William Koll,40375,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,DEC,10 - 5,Nick Wahba,44110,Ithaca,William Koll,40375,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,FALL,2:27,Donald Mccoy,41419,Brockport,William Koll,40375,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,DEC,4 - 1,Jacob Macalolooy,19813,Columbia,William Koll,40375,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,TF5,15 - 0 7:00,Joe Russ,22848,Binghamton,William Koll,40375,Cornell
+2017,11/19,Buffalo - Cornell Dual,141,L,DEC,3 - 2,Jason Estevez,17873,Buffalo,William Koll,40375,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,W,TF5,17 - 1 3:33,Charlie Kane,45049,Hofstra,William Koll,40375,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,W,DEC,4 - 3,AJ Jaffe,44752,Harvard,William Koll,40375,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,W,DEC,5 - 2,John Locksmith,44918,Navy,William Koll,40375,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,W,FALL,3:44,Camden Fischer,19978,Lehigh,William Koll,40375,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,L,TB-1,3 - 2,Noah Forrider,11648,Ohio,William Koll,40375,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,W,MD,12 - 1,Ezekiel Salvo,22497,Brown,William Koll,40375,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,W,MD,13 - 4,Dylan Caruana,11934,Binghamton,William Koll,40375,Cornell
+2017,01/21,Cornell - Lehigh Dual,149,L,TF5,16 - 1 6:09,Laike Gardner,11748,Lehigh,Dylan Realbuto,20539,Cornell
+2017,01/01,Southern Scuffle,141,W,DEC,12 - 6,Brandon Kier,45388,Stanford,Trence Gillem,44991,Cornell
+2017,01/01,Southern Scuffle,141,L,TF5,16 - 1 3:28,Jaydin Eierman,39508,Missouri,Trence Gillem,44991,Cornell
+2017,01/01,Southern Scuffle,141,L,MD,12 - 3,Ryan Pomrinca,39667,Lehigh,Trence Gillem,44991,Cornell
+2017,01/01,Southern Scuffle,141,W,DEC,3 - 2,Lyle Plummer,20710,Air Force,Trence Gillem,44991,Cornell
+2017,11/27,Mat-Town Open,141,W,FALL,6:32,Mike DeClario,45134,Maryland,Trence Gillem,44991,Cornell
+2017,11/27,Mat-Town Open,141,L,MD,12 - 1,Collin Glorioso,44819,Lock Haven,Trence Gillem,44991,Cornell
+2017,11/27,Mat-Town Open,141,L,DEC,4 - 1,Kevin Budock,44576,Old Dominion,Trence Gillem,44991,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,FALL,2:00,Kitan Salako,47654,Rensselaer Polytechnic Institute,Trence Gillem,44991,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,FALL,2:38,Max Kutsepau,47584,Oswego State,Trence Gillem,44991,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,TF5,20 - 5 7:00,Chris Meloni,42176,Nassau Community College,Trence Gillem,44991,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,SV-1,3 - 1,Eli Bienstock,11895,Cornell,Trence Gillem,44991,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,MD,15 - 7,Ryan Peters,45240,Buffalo,Trence Gillem,44991,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,L,DEC,7 - 2,Luke Karam,44703,Lehigh,Trence Gillem,44991,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,L,DEC,9 - 5,Taylor Ortz,40103,Clarion,Trence Gillem,44991,Cornell
+2017,11/05,Golden Eagle Open,141,W,DEC,20 - 13,Jake Smith,45914,Brockport,Trence Gillem,44991,Cornell
+2017,11/05,Golden Eagle Open,141,W,DEC,9 - 5,Bradley Bihler,45066,Buffalo,Trence Gillem,44991,Cornell
+2017,11/05,Golden Eagle Open,141,W,MD,14 - 5,Ryan Peters,45240,Buffalo,Trence Gillem,44991,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,TF5,16 - 0 7:00,Austin Wilson,43049,Rensselaer Polytechnic Institute,Griffin Higginbotham,19825,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,DEC,7 - 1,Chris Meloni,42176,Nassau Community College,Griffin Higginbotham,19825,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,DEC,4 - 0,Thomas Miers,39963,Columbia,Griffin Higginbotham,19825,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,DEC,2 - 0,Ryan Peters,45240,Buffalo,Griffin Higginbotham,19825,Cornell
+2017,11/20,NYS Collegiate Championships,141,L,DEC,8 - 2,Ryan Peters,45240,Buffalo,Griffin Higginbotham,19825,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,SV-1,5 - 3,Christian Doyle,15148,Army West Point,Griffin Higginbotham,19825,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,MFOR,0 - 0,Jacob Nicholson,40186,Binghamton,Griffin Higginbotham,19825,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,W,DEC,4 - 3,Mark McCormick,44597,Rider,Griffin Higginbotham,19825,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,L,DEC,8 - 2,Ezekiel Salvo,22497,Brown,Griffin Higginbotham,19825,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,W,DEC,4 - 2,Noah Hanau,41273,Army West Point,Griffin Higginbotham,19825,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,L,DEC,6 - 1,Mike Van Brill,44613,Rutgers,Griffin Higginbotham,19825,Cornell
+2017,02/05,Edinboro Open,141,L,MD,14 - 2,Kevin Kinyua,45923,Mercyhurst,Eli Bienstock,11895,Cornell
+2017,02/05,Edinboro Open,141,L,DEC,9 - 3,Reiley Brown,45273,Central Michigan,Eli Bienstock,11895,Cornell
+2017,11/20,NYS Collegiate Championships,141,L,SV-1,3 - 1,Trence Gillem,44991,Cornell,Eli Bienstock,11895,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,FALL,0:40,Chris Wymer,47609,Ithaca,Eli Bienstock,11895,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,DEC,4 - 2,Max Pickett,46041,Spartan Combat RTC,Eli Bienstock,11895,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,FALL,2:54,JP Ascolese,19808,Columbia,Eli Bienstock,11895,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,DEC,7 - 2,Jacob Nicholson,40186,Binghamton,Eli Bienstock,11895,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,L,DEC,8 - 6,Camden Fischer,19978,Lehigh,Eli Bienstock,11895,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,141,L,FALL,7:54,Noah Hanau,41273,Army West Point,Eli Bienstock,11895,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,FALL,2:34,Alex Brutcher,47642,Ithaca,Ian McNitt,45326,Cornell
+2017,11/20,NYS Collegiate Championships,141,W,DEC,5 - 1,Cole Murphy,42704,Rochester Institute of Technology,Ian McNitt,45326,Cornell
+2017,11/20,NYS Collegiate Championships,141,L,DEC,8 - 1,Thomas Miers,39963,Columbia,Ian McNitt,45326,Cornell
+2017,11/20,NYS Collegiate Championships,141,L,DEC,8 - 1,Ryan Peters,45240,Buffalo,Ian McNitt,45326,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,L,TF5,18 - 1 6:22,Hunter Ladnier,44784,Harvard,Ian McNitt,45326,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,L,DEC,6 - 0,Jason Bing,12124,Franklin & Marshall,Ian McNitt,45326,Cornell
+2017,03/03,EIWA Championships,149,W,MD,12 - 2,Corey Wilding,20626,Navy,Jonathan Furnas,39745,Cornell
+2017,03/03,EIWA Championships,149,L,DEC,3 - 2,Laike Gardner,11748,Lehigh,Jonathan Furnas,39745,Cornell
+2017,03/03,EIWA Championships,149,L,DEC,4 - 3,Dan Reed,19818,Columbia,Jonathan Furnas,39745,Cornell
+2017,03/03,EIWA Championships,149,W,MD,14 - 6,Seth Hogue,44668,Bucknell,Jonathan Furnas,39745,Cornell
+2017,03/03,EIWA Championships,149,W,DEC,9 - 4,Parker Kropman,45187,Binghamton,Jonathan Furnas,39745,Cornell
+2017,03/03,EIWA Championships,149,L,TB-2,4 - 3,Michael Sprague,19618,American,Jonathan Furnas,39745,Cornell
+2017,02/19,Ohio State - Cornell Dual,149,L,FALL,5:35,Micah Jordan,20557,Ohio State,Jonathan Furnas,39745,Cornell
+2017,02/04,Cornell - Columbia Dual,149,W,DEC,5 - 1,Sam Ward,39715,Columbia,Jonathan Furnas,39745,Cornell
+2017,01/28,Cornell - Harvard Dual,149,W,DEC,12 - 6,Hunter Ladnier,44784,Harvard,Jonathan Furnas,39745,Cornell
+2017,01/28,Cornell - Brown Dual,149,W,DEC,5 - 3,Travis Vasquez,39776,Brown,Jonathan Furnas,39745,Cornell
+2017,01/22,Lock Haven - Cornell Dual,149,L,DEC,7 - 2,Kyle Shoop,39682,Lock Haven,Jonathan Furnas,39745,Cornell
+2017,01/14,Missouri - Cornell Dual,149,L,MD,12 - 4,Lavion Mayes,11599,Missouri,Jonathan Furnas,39745,Cornell
+2017,01/13,Drexel - Cornell Dual,149,L,MD,8 - 0,Matthew Cimato,11725,Drexel,Jonathan Furnas,39745,Cornell
+2017,01/01,Southern Scuffle,149,L,DEC,4 - 0,Max Thomsen,39503,Northern Iowa,Jonathan Furnas,39745,Cornell
+2017,01/01,Southern Scuffle,149,L,DEC,3 - 2,Benjamin Polkowske,20556,Northern Colorado,Jonathan Furnas,39745,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,DEC,5 - 1,Ben Brisman,47641,Ithaca,Jonathan Furnas,39745,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,SV-1,5 - 4,Connor Lapresi,11754,Cornell,Jonathan Furnas,39745,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,FALL,4:25,Ian Burke,42365,NYU,Jonathan Furnas,39745,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,DEC,10 - 3,Derak Heyman,40941,Cortland State,Jonathan Furnas,39745,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,DEC,4 - 3,Matt Russo,56810,Cornell,Jonathan Furnas,39745,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,L,DEC,7 - 4,Max Rogers,46065,Princeton,Jonathan Furnas,39745,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,L,DEC,3 - 2,Max Rogers,46065,Princeton,Jonathan Furnas,39745,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,DEC,3 - 2,Hunter Ladnier,44784,Harvard,Jonathan Furnas,39745,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,DEC,10 - 3,Chris Schoenherr,41431,Cornell,Jonathan Furnas,39745,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,FALL,4:09,Adam Whitesell,20016,Maryland,Jonathan Furnas,39745,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,DEC,5 - 2,Jason Bing,12124,Franklin & Marshall,Jonathan Furnas,39745,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,MD,14 - 4,Lincoln Mallinger,15912,Army West Point,Jonathan Furnas,39745,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,DEC,12 - 5,Nicholas Ottaviano,20364,Rutgers,Jonathan Furnas,39745,Cornell
+2017,02/11,Princeton - Cornell Dual,149,L,DEC,9 - 5,Jordan Laster,11916,Princeton,Joseph Galasso,40376,Cornell
+2017,02/10,Pennsylvania - Cornell Dual,149,L,DEC,4 - 2,Joe Oliva,20318,Pennsylvania,Joseph Galasso,40376,Cornell
+2017,01/14,Missouri - Cornell Dual,165,L,TF5,17 - 0 7:00,Daniel Lewis,20062,Missouri,Joseph Galasso,40376,Cornell
+2017,12/18,Cornell - Oklahoma Dual,149,W,MD,11 - 3,Davion Jeffries,39653,Oklahoma,Joseph Galasso,40376,Cornell
+2017,12/16,Cornell - Oklahoma State Dual,149,L,FALL,3:31,Anthony Collica,11723,Oklahoma State,Joseph Galasso,40376,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,149,W,DEC,8 - 3,Nate Limmex,39663,Purdue,Joseph Galasso,40376,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,149,L,SV-1,10 - 8,Chase Straw,39610,Iowa State,Joseph Galasso,40376,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,149,W,DEC,7 - 4,Corey Wilding,20626,Navy,Joseph Galasso,40376,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,149,L,DEC,7 - 3,Cole Mendenhall,11607,Wyoming,Joseph Galasso,40376,Cornell
+2017,11/27,Hofstra - Cornell Dual,149,W,DEC,9 - 6,Ryan Burkert,43280,Hofstra,Joseph Galasso,40376,Cornell
+2017,11/27,Rutgers - Cornell Dual,149,L,DEC,6 - 0,Ken Theobold,11789,Rutgers,Joseph Galasso,40376,Cornell
+2017,11/19,Buffalo - Cornell Dual,149,W,DEC,10 - 4,Colt Cotten,11905,Buffalo,Joseph Galasso,40376,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,MD,19 - 6,Cole Aaron,44902,Franklin & Marshall,Joseph Galasso,40376,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,MD,18 - 9,Hunter Ladnier,44784,Harvard,Joseph Galasso,40376,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,TF5,17 - 0 3:34,Felix Belga,44764,Drexel,Joseph Galasso,40376,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,DEC,9 - 5,Gary Dinmore,23397,Rider,Joseph Galasso,40376,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,TF5,17 - 1 2:04,Dolan Walsh,45416,VMI,Joseph Galasso,40376,Cornell
+2017,02/05,Edinboro Open,149,L,DEC,11 - 6,Cortlandt Schuyler,19989,Lehigh,Matt Russo,56810,Cornell
+2017,02/05,Edinboro Open,149,W,TF5,16 - 1 3:00,Anthony Palmiotto,46766,Spartan Combat RTC,Matt Russo,56810,Cornell
+2017,02/05,Edinboro Open,149,W,DEC,5 - 3,Kyler Rea,44945,West Virginia,Matt Russo,56810,Cornell
+2017,02/05,Edinboro Open,149,W,FALL,2:08,Mattheos Lozier,14948,Virginia Tech,Matt Russo,56810,Cornell
+2017,02/05,Edinboro Open,149,W,MD,11 - 2,Jwan Britton,45307,Michigan State,Matt Russo,56810,Cornell
+2017,02/05,Edinboro Open,149,W,SV-1,5 - 1,James Devine,41337,Buffalo,Matt Russo,56810,Cornell
+2017,02/05,Edinboro Open,149,L,DEC,5 - 3,Alexander Butler,39647,Missouri,Matt Russo,56810,Cornell
+2017,01/14,Brockport Open,149,W,TB-2,7 - 6,Connor Lapresi,11754,Cornell,Matt Russo,56810,Cornell
+2017,01/14,Brockport Open,149,W,TF5,19 - 2 2:59,Aaron Wilkinson,48447,Brockport,Matt Russo,56810,Cornell
+2017,01/14,Brockport Open,149,L,DEC,4 - 2,Nate Skonieczny,42665,Jamestown Community College,Matt Russo,56810,Cornell
+2017,01/14,Brockport Open,149,W,DEC,4 - 0,Steve Garza,46030,Spartan Combat RTC,Matt Russo,56810,Cornell
+2017,11/20,NYS Collegiate Championships,149,L,DEC,4 - 3,Jonathan Furnas,39745,Cornell,Matt Russo,56810,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,FALL,1:17,Nick Swanson,47655,Oswego State,Matt Russo,56810,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,TF5,19 - 0 7:00,Justin Boone,47640,Farmingdale State College,Matt Russo,56810,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,FALL,2:18,Colin Hopkins,47582,NYU,Matt Russo,56810,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,DEC,6 - 2,Sam Ward,39715,Columbia,Matt Russo,56810,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,L,DEC,5 - 1,David Pipa,40245,Lehigh,Matt Russo,56810,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,L,DEC,7 - 2,Connor Muli,19928,Hofstra,Matt Russo,56810,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,TF5,18 - 1 7:00,Jordan Gonzalez,47648,Nassau Community College,Chris Schoenherr,41431,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,MD,15 - 2,Richard Dennison,43038,Oneonta State,Chris Schoenherr,41431,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,MD,14 - 3,Ben Brisman,47641,Ithaca,Chris Schoenherr,41431,Cornell
+2017,11/20,NYS Collegiate Championships,149,L,DEC,6 - 5,Connor Lapresi,11754,Cornell,Chris Schoenherr,41431,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,TF5,18 - 1 7:00,Anthony Palmiotto,46766,Spartan Combat RTC,Chris Schoenherr,41431,Cornell
+2017,11/20,NYS Collegiate Championships,149,W,MD,21 - 7,Ian Burke,42365,NYU,Chris Schoenherr,41431,Cornell
+2017,11/20,NYS Collegiate Championships,149,L,DEC,3 - 2,Sam Ward,39715,Columbia,Chris Schoenherr,41431,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,L,DEC,10 - 3,Jonathan Furnas,39745,Cornell,Chris Schoenherr,41431,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,DEC,11 - 9,Steve Garza,46030,Spartan Combat RTC,Chris Schoenherr,41431,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,L,MD,10 - 0,Max Rogers,46065,Princeton,Chris Schoenherr,41431,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,MD,12 - 2,Felix Belga,44764,Drexel,Chris Schoenherr,41431,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,149,W,DEC,16 - 10,Adam Whitesell,20016,Maryland,Chris Schoenherr,41431,Cornell
+2017,01/14,Brockport Open,149,L,TB-2,7 - 6,Matt Russo,56810,Cornell,"Lapresi, Connor",11754,Cornell
+2017,01/14,Brockport Open,149,W,TF5,17 - 2 4:04,Jordan Kayes,48443,Brockport,"Lapresi, Connor",11754,Cornell
+2017,01/14,Brockport Open,149,W,DEC,1 - 0,Steve Garza,46030,Spartan Combat RTC,"Lapresi, Connor",11754,Cornell
+2017,01/14,Brockport Open,149,L,MD,13 - 5,Nate Skonieczny,42665,Jamestown Community College,"Lapresi, Connor",11754,Cornell
+2017,01/14,Brockport Open,149,W,TF5,20 - 4 2:20,Aaron Wilkinson,48447,Brockport,"Lapresi, Connor",11754,Cornell
+2017,03/16,NCAA Championships,157,L,DEC,6 - 3,Tyler Berger,20096,Nebraska,Dylan Palacio,11481,Cornell
+2017,03/16,NCAA Championships,157,L,MD,10 - 0,Joe Smith,39786,Oklahoma State,Dylan Palacio,11481,Cornell
+2017,03/16,NCAA Championships,157,L,DEC,8 - 5,Joey Lavallee,13513,Missouri,Dylan Palacio,11481,Cornell
+2017,03/16,NCAA Championships,157,W,FALL,3:28,Michael Kemerer,39526,Iowa,Dylan Palacio,11481,Cornell
+2017,03/16,NCAA Championships,157,W,DEC,9 - 5,Colin Heffernan,13795,Central Michigan,Dylan Palacio,11481,Cornell
+2017,03/16,NCAA Championships,157,W,MD,9 - 1,Taleb Rahmani,40082,Pittsburgh,Dylan Palacio,11481,Cornell
+2017,03/03,EIWA Championships,157,W,FALL,0:15,Casey Mitchell,15264,Sacred Heart,Dylan Palacio,11481,Cornell
+2017,03/03,EIWA Championships,157,W,DEC,5 - 1,May Bethea,20309,Pennsylvania,Dylan Palacio,11481,Cornell
+2017,03/03,EIWA Championships,157,W,MD,11 - 2,Steven Galiardo,11797,Brown,Dylan Palacio,11481,Cornell
+2017,03/03,EIWA Championships,157,W,DEC,4 - 2,Russell Parsons,19642,Army West Point,Dylan Palacio,11481,Cornell
+2017,02/19,Ohio State - Cornell Dual,157,W,MD,19 - 8,Anthony DeCarlo,20244,Ohio State,Dylan Palacio,11481,Cornell
+2017,01/28,Cornell - Harvard Dual,165,W,MD,14 - 6,Kyle Bierdumpfel,44776,Harvard,Dylan Palacio,11481,Cornell
+2017,01/28,Cornell - Brown Dual,165,L,DEC,14 - 13,Jonathan Viruet,39839,Brown,Dylan Palacio,11481,Cornell
+2017,01/21,Cornell - Lehigh Dual,165,W,DEC,3 - 2,Cole Walter,39722,Lehigh,Dylan Palacio,11481,Cornell
+2017,01/13,Drexel - Cornell Dual,165,W,MD,12 - 2,Austin Rose,15461,Drexel,Dylan Palacio,11481,Cornell
+2017,02/11,Princeton - Cornell Dual,157,W,DEC,8 - 5,Mike D'angelo,43678,Princeton,Taylor Simaz,13490,Cornell
+2017,02/10,Pennsylvania - Cornell Dual,157,L,DEC,11 - 5,May Bethea,20309,Pennsylvania,Taylor Simaz,13490,Cornell
+2017,02/04,Cornell - Columbia Dual,157,W,FALL,1:55,Tyler Oberg,19816,Columbia,Taylor Simaz,13490,Cornell
+2017,01/28,Cornell - Harvard Dual,157,W,MD,18 - 5,Colby Knight,11815,Harvard,Taylor Simaz,13490,Cornell
+2017,01/28,Cornell - Brown Dual,157,W,FALL,1:49,William McDonald,15839,Brown,Taylor Simaz,13490,Cornell
+2017,01/22,Lock Haven - Cornell Dual,157,W,DQ,0 - 0,Kyle Hammond,20591,Lock Haven,Taylor Simaz,13490,Cornell
+2017,01/21,Cornell - Lehigh Dual,157,L,MD,13 - 4,Jordan Kutler,39626,Lehigh,Taylor Simaz,13490,Cornell
+2017,01/14,Missouri - Cornell Dual,157,L,DEC,5 - 3,Joey Lavallee,13513,Missouri,Taylor Simaz,13490,Cornell
+2017,01/13,Drexel - Cornell Dual,157,W,MD,13 - 4,Willie Davis,19845,Drexel,Taylor Simaz,13490,Cornell
+2017,01/01,Southern Scuffle,157,L,TF5,15 - 0 5:00,Andrew Atkinson,11982,Virginia,Taylor Simaz,13490,Cornell
+2017,01/01,Southern Scuffle,157,W,DEC,9 - 3,Davey Dolan,13223,Oklahoma State,Taylor Simaz,13490,Cornell
+2017,01/01,Southern Scuffle,157,W,DEC,6 - 3,Joe Moon,11646,North Carolina,Taylor Simaz,13490,Cornell
+2017,01/01,Southern Scuffle,157,L,DEC,6 - 2,Jake Short,13599,Minnesota,Taylor Simaz,13490,Cornell
+2017,01/01,Southern Scuffle,157,W,MFOR,0 - 0,Brandon Kingsley,13491,Minnesota,Taylor Simaz,13490,Cornell
+2017,01/01,Southern Scuffle,157,W,DEC,2 - 0,Chase Delande,15217,Edinboro,Taylor Simaz,13490,Cornell
+2017,01/01,Southern Scuffle,157,W,DEC,8 - 3,Gavin Londoff,44823,Appalachian State,Taylor Simaz,13490,Cornell
+2017,01/01,Southern Scuffle,157,L,DEC,6 - 3,Aaron Walker,13517,The Citadel,Taylor Simaz,13490,Cornell
+2017,12/16,Cornell - Oklahoma State Dual,157,L,MD,15 - 6,Joe Smith,39786,Oklahoma State,Taylor Simaz,13490,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,157,L,FALL,4:36,Colston DiBlasi,39718,Iowa State,Taylor Simaz,13490,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,157,W,MD,10 - 2,Archie Colgan,15555,Wyoming,Taylor Simaz,13490,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,157,L,MD,12 - 3,Colin Heffernan,13795,Central Michigan,Taylor Simaz,13490,Cornell
+2017,11/27,Hofstra - Cornell Dual,157,W,DEC,5 - 2,Jake Kaminsky,39940,Hofstra,Taylor Simaz,13490,Cornell
+2017,11/27,Rutgers - Cornell Dual,157,L,MD,8 - 0,John Van Brill,20367,Rutgers,Taylor Simaz,13490,Cornell
+2017,11/20,NYS Collegiate Championships,157,W,MD,11 - 1,Jake Kaminsky,39940,Hofstra,Taylor Simaz,13490,Cornell
+2017,11/20,NYS Collegiate Championships,157,W,DEC,5 - 1,Tyler Ponte,11946,Columbia,Taylor Simaz,13490,Cornell
+2017,11/20,NYS Collegiate Championships,157,W,MD,11 - 1,Kobe Garrehy,44963,Buffalo,Taylor Simaz,13490,Cornell
+2017,11/20,NYS Collegiate Championships,157,L,FALL,2:05,Cael McCormick,44622,Army West Point,Taylor Simaz,13490,Cornell
+2017,11/19,Buffalo - Cornell Dual,157,W,DEC,8 - 1,Kobe Garrehy,44963,Buffalo,Taylor Simaz,13490,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,W,INJ,7:00,Alex Sebahie,44979,Rider,Taylor Simaz,13490,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,W,MFOR,0 - 0,Kyle Simaz,40378,Cornell,Taylor Simaz,13490,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,W,DEC,11 - 5,Jakob Restrepo,39854,Maryland,Taylor Simaz,13490,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,L,DEC,4 - 0,Justin Staudenmayer,15115,Brown,Taylor Simaz,13490,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,W,INJ,7:00,Tristan Rifanburg,39674,Binghamton,Taylor Simaz,13490,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,W,DEC,5 - 0,Cael McCormick,44622,Army West Point,Taylor Simaz,13490,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,W,TF5,17 - 2 4:26,Jack Lucie,19639,Army West Point,Taylor Simaz,13490,Cornell
+2017,12/18,Cornell - Oklahoma Dual,157,L,MD,11 - 0,Dawaylon Barnes,22085,Oklahoma,Kyle Simaz,40378,Cornell
+2017,11/20,NYS Collegiate Championships,157,W,DEC,11 - 8,Adam Santoro,46089,Spartan Combat RTC,Kyle Simaz,40378,Cornell
+2017,11/20,NYS Collegiate Championships,157,W,FALL,2:47,Nathan Palmer,23515,Brockport,Kyle Simaz,40378,Cornell
+2017,11/20,NYS Collegiate Championships,157,L,DEC,8 - 3,Ricky Stamm,44699,Hofstra,Kyle Simaz,40378,Cornell
+2017,11/20,NYS Collegiate Championships,157,W,MD,14 - 1,Anthony Fano,42385,Ithaca,Kyle Simaz,40378,Cornell
+2017,11/20,NYS Collegiate Championships,157,W,DEC,5 - 2,Tyler Zimmer,19821,Columbia,Kyle Simaz,40378,Cornell
+2017,11/20,NYS Collegiate Championships,157,L,DEC,14 - 7,Tyler Zimmer,19821,Columbia,Kyle Simaz,40378,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,L,MFOR,0 - 0,Taylor Simaz,13490,Cornell,Kyle Simaz,40378,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,W,DEC,12 - 8,Adam Santoro,46089,Spartan Combat RTC,Kyle Simaz,40378,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,W,DEC,10 - 3,James Saylor,45641,United States Military Academy,Kyle Simaz,40378,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,W,FALL,6:14,Leonard Merkin,45014,Princeton,Kyle Simaz,40378,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,W,INJ,7:00,Jakob Restrepo,39854,Maryland,Kyle Simaz,40378,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,W,DEC,9 - 3,Kyle Kaminski,39774,Ohio,Kyle Simaz,40378,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,W,DEC,5 - 1,William McDonald,15839,Brown,Kyle Simaz,40378,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,L,DEC,7 - 6,Cael McCormick,44622,Army West Point,Kyle Simaz,40378,Cornell
+2017,02/05,Edinboro Open,157,L,MD,14 - 3,James Saylor,45641,United States Military Academy,Rami Pellumbi,45327,Cornell
+2017,02/05,Edinboro Open,157,L,TB-2,11 - 9,Jacob Spino,41637,Kent State,Rami Pellumbi,45327,Cornell
+2017,02/05,Edinboro Open,157,W,MFOR,0 - 0,Derek Ciavarro,45159,Virginia Tech,Rami Pellumbi,45327,Cornell
+2017,02/05,Edinboro Open,157,W,DEC,6 - 0,Kt Forsythe,47784,Virginia Tech,Rami Pellumbi,45327,Cornell
+2017,01/14,Brockport Open,157,L,SV-2,6 - 4,John Topf,48445,Brockport,Rami Pellumbi,45327,Cornell
+2017,01/14,Brockport Open,157,W,DEC,11 - 7,Howie Nolan,47598,Jamestown Community College,Rami Pellumbi,45327,Cornell
+2017,01/14,Brockport Open,157,L,DEC,4 - 3,Dan Reagan,47638,Brockport,Rami Pellumbi,45327,Cornell
+2017,01/14,Brockport Open,157,W,TF5,16 - 0 3:56,Casey Provost,45913,Brockport,Rami Pellumbi,45327,Cornell
+2017,11/20,NYS Collegiate Championships,157,W,DEC,4 - 1,Nicholas Heck,47649,Oneonta State,Rami Pellumbi,45327,Cornell
+2017,11/20,NYS Collegiate Championships,157,W,TF5,21 - 2 7:00,Dashea Edwards,47647,Oswego State,Rami Pellumbi,45327,Cornell
+2017,11/20,NYS Collegiate Championships,157,L,FALL,3:16,Adam Santoro,46089,Spartan Combat RTC,Rami Pellumbi,45327,Cornell
+2017,11/20,NYS Collegiate Championships,157,L,DEC,5 - 1,Beau Guffey,45643,United States Military Academy,Rami Pellumbi,45327,Cornell
+2017,11/20,NYS Collegiate Championships,157,W,FALL,2:32,Jackson Bell,43082,Brockport,Rami Pellumbi,45327,Cornell
+2017,11/20,NYS Collegiate Championships,157,L,DEC,7 - 4,Laurence Kosoy,45330,Columbia,Rami Pellumbi,45327,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,L,MD,14 - 1,Beau Guffey,45643,United States Military Academy,Rami Pellumbi,45327,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,W,DEC,1 - 0,Mike Berkowitz,45215,Franklin & Marshall,Rami Pellumbi,45327,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,L,TF5,20 - 2 4:44,Justin Staudenmayer,15115,Brown,Rami Pellumbi,45327,Cornell
+2017,11/20,NYS Collegiate Championships,157,W,FALL,0:23,Jaelen Jean,47128,Niagara Community College,Derek Krajewski,42158,Cornell
+2017,11/20,NYS Collegiate Championships,157,W,FALL,1:34,Troy Edwards,43098,NYU,Derek Krajewski,42158,Cornell
+2017,11/20,NYS Collegiate Championships,157,W,FALL,1:32,Eric Petrie,43055,Oneonta State,Derek Krajewski,42158,Cornell
+2017,11/20,NYS Collegiate Championships,157,L,FALL,1:42,Tyler Zimmer,19821,Columbia,Derek Krajewski,42158,Cornell
+2017,11/20,NYS Collegiate Championships,157,L,DEC,9 - 4,Jack Lucie,19639,Army West Point,Derek Krajewski,42158,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,L,MD,11 - 3,Jahi Jones,41460,Maryland,Derek Krajewski,42158,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,157,L,FALL,4:10,Isaac McMillan,45123,Army West Point,Derek Krajewski,42158,Cornell
+2017,03/16,NCAA Championships,165,L,DEC,8 - 5,Chad Walsh,13628,Rider,Brandon Womack,40379,Cornell
+2017,03/16,NCAA Championships,165,L,MD,10 - 0,Daniel Lewis,20062,Missouri,Brandon Womack,40379,Cornell
+2017,03/16,NCAA Championships,165,W,DEC,8 - 7,Anthony Valencia,39500,Arizona State,Brandon Womack,40379,Cornell
+2017,03/16,NCAA Championships,165,W,FALL,1:04,Austin Matthews,22442,Edinboro,Brandon Womack,40379,Cornell
+2017,03/16,NCAA Championships,165,W,DEC,7 - 2,Brian Hamann,13788,NC State,Brandon Womack,40379,Cornell
+2017,03/16,NCAA Championships,165,L,DEC,5 - 1,Isaac Jordan,13465,Wisconsin,Brandon Womack,40379,Cornell
+2017,03/16,NCAA Championships,165,W,MD,12 - 3,Joey Gunther,39725,Iowa,Brandon Womack,40379,Cornell
+2017,03/03,EIWA Championships,165,W,FALL,0:44,Matt Fisher,15127,Sacred Heart,Brandon Womack,40379,Cornell
+2017,03/03,EIWA Championships,165,W,DEC,3 - 0,Drew Daniels,20601,Navy,Brandon Womack,40379,Cornell
+2017,03/03,EIWA Championships,165,W,TF5,16 - 1 5:32,Brooks Martino,20316,Pennsylvania,Brandon Womack,40379,Cornell
+2017,03/03,EIWA Championships,165,W,DEC,6 - 1,Jonathan Viruet,39839,Brown,Brandon Womack,40379,Cornell
+2017,02/19,Ohio State - Cornell Dual,165,W,DEC,4 - 2,Cody Burcher,20243,Ohio State,Brandon Womack,40379,Cornell
+2017,02/11,Princeton - Cornell Dual,165,W,DEC,5 - 0,Matthew Gancayco,15125,Princeton,Brandon Womack,40379,Cornell
+2017,02/10,Pennsylvania - Cornell Dual,165,W,DEC,10 - 5,Brooks Martino,20316,Pennsylvania,Brandon Womack,40379,Cornell
+2017,02/04,Cornell - Columbia Dual,165,W,DEC,3 - 1,Tyrel White,19820,Columbia,Brandon Womack,40379,Cornell
+2017,01/22,Lock Haven - Cornell Dual,165,W,DEC,8 - 2,Jared Siegrist,45101,Lock Haven,Brandon Womack,40379,Cornell
+2017,01/14,Missouri - Cornell Dual,174,L,DEC,9 - 4,Dylan Wisman,39507,Missouri,Brandon Womack,40379,Cornell
+2017,01/13,Drexel - Cornell Dual,174,L,DEC,13 - 8,Ebed Jarrell,40311,Drexel,Brandon Womack,40379,Cornell
+2017,01/01,Southern Scuffle,165,W,MD,13 - 2,Peter Galli,15320,Stanford,Brandon Womack,40379,Cornell
+2017,01/01,Southern Scuffle,165,L,SV-1,5 - 1,Keilan Torres,18105,Northern Colorado,Brandon Womack,40379,Cornell
+2017,01/01,Southern Scuffle,165,W,DEC,9 - 6,Connor Flynn,39676,Missouri,Brandon Womack,40379,Cornell
+2017,01/01,Southern Scuffle,165,L,SV-1,7 - 5,Nick Wanzek,11511,Minnesota,Brandon Womack,40379,Cornell
+2017,01/01,Southern Scuffle,165,W,DEC,7 - 2,Tyler Marinelli,20797,Gardner-Webb,Brandon Womack,40379,Cornell
+2017,01/01,Southern Scuffle,165,W,FALL,1:53,Matt Finesilver,47770,Unattached,Brandon Womack,40379,Cornell
+2017,01/01,Southern Scuffle,165,W,FALL,0:56,Matt Finesilver,47770,Unattached,Brandon Womack,40379,Cornell
+2017,12/18,Cornell - Oklahoma Dual,165,L,DEC,3 - 1,Clark Glass,11488,Oklahoma,Brandon Womack,40379,Cornell
+2017,12/16,Cornell - Oklahoma State Dual,165,W,FALL,1:03,Chandler Rogers,20559,Oklahoma State,Brandon Womack,40379,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,165,W,SV-1,7 - 5,Cody Burcher,20243,Ohio State,Brandon Womack,40379,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,165,W,MD,10 - 2,Dane Pestano,12943,Iowa State,Brandon Womack,40379,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,165,W,FALL,2:00,Richard Miranda,41456,Nebraska-Kearney,Brandon Womack,40379,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,165,L,MD,18 - 6,Anthony Valencia,39500,Arizona State,Brandon Womack,40379,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,165,L,FALL,0:40,Anthony Valencia,39500,Arizona State,Brandon Womack,40379,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,165,L,SV-1,7 - 5,Austin Matthews,22442,Edinboro,Brandon Womack,40379,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,165,W,MD,9 - 0,Drew Daniels,20601,Navy,Brandon Womack,40379,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,165,W,FALL,1:26,Brandon Kingsley,13491,Minnesota,Brandon Womack,40379,Cornell
+2017,11/27,Hofstra - Cornell Dual,165,W,FALL,3:50,Bobby Fehr,19925,Hofstra,Brandon Womack,40379,Cornell
+2017,11/27,Rutgers - Cornell Dual,165,W,FALL,4:24,Willie Scott,39861,Rutgers,Brandon Womack,40379,Cornell
+2017,11/20,NYS Collegiate Championships,165,W,FALL,1:29,Christian Willoughby,43057,Merchant Marine,Brandon Womack,40379,Cornell
+2017,11/20,NYS Collegiate Championships,165,W,DEC,11 - 10,Troy Keller,47129,Niagara Community College,Brandon Womack,40379,Cornell
+2017,11/20,NYS Collegiate Championships,165,W,FALL,3:43,Nick Velez,42692,Ithaca,Brandon Womack,40379,Cornell
+2017,11/20,NYS Collegiate Championships,165,W,FALL,1:06,Dillon Artigliere,24625,Cornell,Brandon Womack,40379,Cornell
+2017,11/19,Buffalo - Cornell Dual,165,W,DEC,13 - 6,Derek Holcomb,19720,Buffalo,Brandon Womack,40379,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,165,W,DEC,4 - 2,Foster Karmon,46061,Spartan Combat RTC,Brandon Womack,40379,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,165,W,DEC,2 - 0,Dillon Artigliere,24625,Cornell,Brandon Womack,40379,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,165,W,DEC,7 - 0,Patrick Gerish,20005,Maryland,Brandon Womack,40379,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,165,W,MD,8 - 0,Christian LaBrie,19701,Brown,Brandon Womack,40379,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,165,W,MD,9 - 0,Vincent DePrez,19651,Binghamton,Brandon Womack,40379,Cornell
+2017,01/01,Southern Scuffle,165,L,MFOR,0 - 0,Isaiah Patton,39553,Northern Iowa,Dillon Artigliere,24625,Cornell
+2017,01/01,Southern Scuffle,165,L,INJ,7:00,Bryce Steiert,39504,Northern Iowa,Dillon Artigliere,24625,Cornell
+2017,01/01,Southern Scuffle,165,W,FALL,2:34,Fritz Hoehn,39762,Edinboro,Dillon Artigliere,24625,Cornell
+2017,11/20,NYS Collegiate Championships,165,L,FALL,1:06,Brandon Womack,40379,Cornell,Dillon Artigliere,24625,Cornell
+2017,11/20,NYS Collegiate Championships,165,W,MD,14 - 6,Brendan Dent,40942,Cortland State,Dillon Artigliere,24625,Cornell
+2017,11/20,NYS Collegiate Championships,165,W,DEC,8 - 5,Tyrel White,19820,Columbia,Dillon Artigliere,24625,Cornell
+2017,11/20,NYS Collegiate Championships,165,W,MD,17 - 8,Derek Holcomb,19720,Buffalo,Dillon Artigliere,24625,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,165,L,DEC,2 - 0,Brandon Womack,40379,Cornell,Dillon Artigliere,24625,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,165,W,DEC,5 - 1,Kyle Bierdumpfel,44776,Harvard,Dillon Artigliere,24625,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,165,W,TF5,16 - 1 7:00,Chase Piperato,39569,Princeton,Dillon Artigliere,24625,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,165,W,DEC,8 - 3,Rob King,14814,Franklin & Marshall,Dillon Artigliere,24625,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,165,W,DEC,4 - 1,DJ Hollingshead,39672,Bucknell,Dillon Artigliere,24625,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,165,W,FALL,2:16,Anthony Pafumi,12873,Rutgers,Dillon Artigliere,24625,Cornell
+2017,11/27,Mat-Town Open,165,L,FALL,2:56,Milik Dawkins,41360,Cornell,Matthew Russo,19828,Cornell
+2017,11/27,Mat-Town Open,165,W,DEC,11 - 8,Paul Zacherl,44986,Clarion,Matthew Russo,19828,Cornell
+2017,11/27,Mat-Town Open,165,L,MD,15 - 3,Rob King,14814,Franklin & Marshall,Matthew Russo,19828,Cornell
+2017,11/20,NYS Collegiate Championships,165,W,DEC,5 - 3,Thomas Follman,47611,Rochester Institute of Technology,Matthew Russo,19828,Cornell
+2017,11/20,NYS Collegiate Championships,165,W,DEC,5 - 4,Nick Carr,46770,Spartan Combat RTC,Matthew Russo,19828,Cornell
+2017,11/20,NYS Collegiate Championships,165,W,DEC,5 - 4,Anthony Oliveri,46765,Hofstra,Matthew Russo,19828,Cornell
+2017,11/20,NYS Collegiate Championships,165,L,DEC,8 - 2,Sam Williams,41314,Army West Point,Matthew Russo,19828,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,165,L,DEC,5 - 0,Nick Carr,46770,Spartan Combat RTC,Matthew Russo,19828,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,165,L,MD,10 - 0,Cam Shields,45255,Drexel,Matthew Russo,19828,Cornell
+2017,11/05,Golden Eagle Open,165,W,DEC,6 - 4,Joshua Oneil,45911,Alfred State,Matthew Russo,19828,Cornell
+2017,11/05,Golden Eagle Open,165,W,MD,13 - 5,Casey Provost,45913,Brockport,Matthew Russo,19828,Cornell
+2017,11/05,Golden Eagle Open,165,L,DEC,4 - 2,Tristan Almeter,45693,Alfred State,Matthew Russo,19828,Cornell
+2017,03/16,NCAA Championships,174,W,FALL,1:15,Zac Brunson,15112,Illinois,Brian Realbuto,13519,Cornell
+2017,03/16,NCAA Championships,174,L,FALL,4:16,Myles Amine,39586,Michigan,Brian Realbuto,13519,Cornell
+2017,03/16,NCAA Championships,174,L,DEC,11 - 7,Bo Jordan,14840,Ohio State,Brian Realbuto,13519,Cornell
+2017,03/16,NCAA Championships,174,W,FALL,1:12,Zac Brunson,15112,Illinois,Brian Realbuto,13519,Cornell
+2017,03/16,NCAA Championships,174,W,TF5,16 - 0 3:33,Trace Engelkes,11506,Northern Illinois,Brian Realbuto,13519,Cornell
+2017,03/16,NCAA Championships,174,W,TF5,19 - 4 3:12,Devin Skatzka,39603,Indiana,Brian Realbuto,13519,Cornell
+2017,03/03,EIWA Championships,174,W,FALL,0:24,Ebed Jarrell,40311,Drexel,Brian Realbuto,13519,Cornell
+2017,03/03,EIWA Championships,174,W,DEC,8 - 4,Jadaen Bernstein,20595,Navy,Brian Realbuto,13519,Cornell
+2017,03/03,EIWA Championships,174,W,DEC,3 - 2,Ryan Preisch,19987,Lehigh,Brian Realbuto,13519,Cornell
+2017,03/03,EIWA Championships,174,W,TF5,16 - 1 7:00,Andrew LaBrie,20582,Brown,Brian Realbuto,13519,Cornell
+2017,02/19,Ohio State - Cornell Dual,174,W,DEC,3 - 2,Bo Jordan,14840,Ohio State,Brian Realbuto,13519,Cornell
+2017,02/11,Princeton - Cornell Dual,174,W,MD,13 - 0,Jonathan Schleifer,20340,Princeton,Brian Realbuto,13519,Cornell
+2017,02/10,Pennsylvania - Cornell Dual,174,W,MD,11 - 3,Casey Kent,11517,Pennsylvania,Brian Realbuto,13519,Cornell
+2017,02/04,Cornell - Columbia Dual,174,W,FALL,4:01,Austin Coniker,12803,Columbia,Brian Realbuto,13519,Cornell
+2017,01/28,Cornell - Harvard Dual,174,W,MD,14 - 2,Josef Johnson,19914,Harvard,Brian Realbuto,13519,Cornell
+2017,01/28,Cornell - Brown Dual,174,W,TF5,16 - 0 5:00,Andrew LaBrie,20582,Brown,Brian Realbuto,13519,Cornell
+2017,01/22,Lock Haven - Cornell Dual,174,W,FALL,0:51,Adam Mackie,12802,Lock Haven,Brian Realbuto,13519,Cornell
+2017,01/21,Cornell - Lehigh Dual,174,W,FALL,6:15,Ryan Preisch,19987,Lehigh,Brian Realbuto,13519,Cornell
+2017,01/14,Missouri - Cornell Dual,184,W,MD,14 - 1,Matt Lemanowicz,20061,Missouri,Brian Realbuto,13519,Cornell
+2017,01/13,Drexel - Cornell Dual,184,W,FALL,4:19,Owen Brooks,45256,Drexel,Brian Realbuto,13519,Cornell
+2017,12/18,Cornell - Oklahoma Dual,174,W,TF5,16 - 0 6:01,Hayden Hansen,39613,Oklahoma,Brian Realbuto,13519,Cornell
+2017,12/16,Cornell - Oklahoma State Dual,174,W,DEC,3 - 2,Kyle Crutchmer,12286,Oklahoma State,Brian Realbuto,13519,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,174,L,DEC,3 - 2,Zahid Valencia,39501,Arizona State,Brian Realbuto,13519,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,174,W,DEC,3 - 2,Kimball Bastian,40322,Utah Valley,Brian Realbuto,13519,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,174,W,DEC,11 - 4,Travis Berridge,14904,Cal Poly,Brian Realbuto,13519,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,174,W,MD,13 - 5,Austin Dewey,12380,Boise State,Brian Realbuto,13519,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,174,W,DEC,12 - 5,Jim Wilson,11535,Stanford,Brian Realbuto,13519,Cornell
+2017,11/27,Hofstra - Cornell Dual,174,W,TF5,20 - 3 3:39,Sage Heller,44999,Hofstra,Brian Realbuto,13519,Cornell
+2017,11/27,Rutgers - Cornell Dual,174,W,DEC,4 - 2,Phillip Bakuckas,12289,Rutgers,Brian Realbuto,13519,Cornell
+2017,11/19,Buffalo - Cornell Dual,174,W,DEC,9 - 4,Muhamid McBryde,15128,Buffalo,Brian Realbuto,13519,Cornell
+2017,01/01,Southern Scuffle,165,W,SV-1,3 - 1,Joe Velliquette,20320,Pennsylvania,Milik Dawkins,41360,Cornell
+2017,01/01,Southern Scuffle,165,L,MD,12 - 2,Jack Clark,20111,North Carolina,Milik Dawkins,41360,Cornell
+2017,01/01,Southern Scuffle,165,W,MD,9 - 0,John Vaughn,40905,Cleveland State,Milik Dawkins,41360,Cornell
+2017,01/01,Southern Scuffle,165,L,DEC,3 - 2,Ray Bethea,13502,Virginia,Milik Dawkins,41360,Cornell
+2017,11/27,Mat-Town Open,165,W,DEC,12 - 6,Brett Donner,44581,Rutgers,Milik Dawkins,41360,Cornell
+2017,11/27,Mat-Town Open,165,W,SV-1,7 - 5,Michael Roberson,20918,Virginia,Milik Dawkins,41360,Cornell
+2017,11/27,Mat-Town Open,165,W,FALL,2:56,Matthew Russo,19828,Cornell,Milik Dawkins,41360,Cornell
+2017,11/27,Mat-Town Open,165,L,DEC,3 - 1,Ray Bethea,13502,Virginia,Milik Dawkins,41360,Cornell
+2017,11/27,Mat-Town Open,165,W,DEC,6 - 2,Anthony Pafumi,12873,Rutgers,Milik Dawkins,41360,Cornell
+2017,11/27,Mat-Town Open,165,W,MFOR,0 - 0,Rob King,14814,Franklin & Marshall,Milik Dawkins,41360,Cornell
+2017,11/20,NYS Collegiate Championships,174,W,DEC,6 - 2,Trevor Hoffmier,47581,Oswego State,Milik Dawkins,41360,Cornell
+2017,11/20,NYS Collegiate Championships,174,W,FALL,4:59,Sage Heller,44999,Hofstra,Milik Dawkins,41360,Cornell
+2017,11/20,NYS Collegiate Championships,174,L,FALL,1:03,Austin Coniker,12803,Columbia,Milik Dawkins,41360,Cornell
+2017,11/20,NYS Collegiate Championships,174,W,MD,19 - 6,Graham Ratermann,41385,Army West Point,Milik Dawkins,41360,Cornell
+2017,11/20,NYS Collegiate Championships,174,W,TF5,22 - 7 7:00,Jake Kocsis,19655,Binghamton,Milik Dawkins,41360,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,W,MD,21 - 9,Dylan Ammerman,45109,Lehigh,Milik Dawkins,41360,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,L,DQ,0 - 0,Sage Heller,44999,Hofstra,Milik Dawkins,41360,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,W,FALL,2:46,Spencer Kiehm,19915,Harvard,Milik Dawkins,41360,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,L,DEC,6 - 1,Jonathan Viruet,39839,Brown,Milik Dawkins,41360,Cornell
+2017,02/05,Edinboro Open,174,L,DEC,8 - 7,Robert Winning,12872,Navy,Andrew Garcia,40380,Cornell
+2017,02/05,Edinboro Open,174,L,DEC,9 - 3,Andrew McNally,44610,Eastern Michigan,Andrew Garcia,40380,Cornell
+2017,02/05,Edinboro Open,174,W,TF5,19 - 2 7:00,Zach Breeden,47445,Mercyhurst,Andrew Garcia,40380,Cornell
+2017,02/05,Edinboro Open,174,W,MD,16 - 2,Cameron Caldarelli,44952,Buffalo,Andrew Garcia,40380,Cornell
+2017,01/14,Brockport Open,174,L,DEC,7 - 2,Konnor Kremer,45686,Alfred State,Andrew Garcia,40380,Cornell
+2017,01/14,Brockport Open,174,W,INJ,7:00,Nick Carr,46770,Spartan Combat RTC,Andrew Garcia,40380,Cornell
+2017,11/20,NYS Collegiate Championships,174,W,MD,12 - 3,John Messinger,47591,NYU,Andrew Garcia,40380,Cornell
+2017,11/20,NYS Collegiate Championships,174,L,MFOR,0 - 0,Sage Heller,44999,Hofstra,Andrew Garcia,40380,Cornell
+2017,11/20,NYS Collegiate Championships,174,W,MD,10 - 2,Daniel Decarlo,42691,Oneonta State,Andrew Garcia,40380,Cornell
+2017,11/20,NYS Collegiate Championships,174,W,SV-1,10 - 6,Jaison White,42676,Ithaca,Andrew Garcia,40380,Cornell
+2017,11/20,NYS Collegiate Championships,174,L,DEC,2 - 0,Austin Coniker,12803,Columbia,Andrew Garcia,40380,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,L,DEC,1 - 0,Sam Rowell,40226,Maryland,Andrew Garcia,40380,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,W,DEC,10 - 5,Robert Winning,12872,Navy,Andrew Garcia,40380,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,W,FALL,0:58,Cochise Wanzer,44994,Clarion,Andrew Garcia,40380,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,W,MD,9 - 0,Galloway Thurston,16131,Brown,Andrew Garcia,40380,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,L,MD,8 - 0,Anthony DePrez,19650,Binghamton,Andrew Garcia,40380,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,W,DEC,5 - 4,Graham Ratermann,41385,Army West Point,Andrew Garcia,40380,Cornell
+2017,11/20,NYS Collegiate Championships,174,W,MFOR,0 - 0,Foster Karmon,46061,Spartan Combat RTC,Jacob George,42699,Cornell
+2017,11/20,NYS Collegiate Championships,174,W,FALL,6:34,Michael Southwick,47567,Oswego State,Jacob George,42699,Cornell
+2017,11/20,NYS Collegiate Championships,174,W,DEC,8 - 6,Maykel Dolorit,47555,NYU,Jacob George,42699,Cornell
+2017,11/20,NYS Collegiate Championships,174,L,FALL,3:48,Donny Donnelly,39666,Columbia,Jacob George,42699,Cornell
+2017,11/20,NYS Collegiate Championships,174,W,DEC,3 - 2,Cameron Caldarelli,44952,Buffalo,Jacob George,42699,Cornell
+2017,11/20,NYS Collegiate Championships,174,L,DEC,5 - 2,Nunzio Crowley,45185,Binghamton,Jacob George,42699,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,L,DEC,6 - 0,Spencer Woods,45137,Maryland,Jacob George,42699,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,W,MD,16 - 8,Dylan Ammerman,45109,Lehigh,Jacob George,42699,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,L,DEC,4 - 1,Niko Cappello,44773,Maryland,Jacob George,42699,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,174,W,DEC,6 - 1,Joseph Scott,45069,Bucknell,Jacob George,42699,Cornell
+2017,03/16,NCAA Championships,184,L,DEC,4 - 3,Bo Nickal,20302,Penn State,Gabe Dean,12580,Cornell
+2017,03/16,NCAA Championships,184,W,DEC,9 - 3,Nolan Boyd,12399,Oklahoma State,Gabe Dean,12580,Cornell
+2017,03/16,NCAA Championships,184,W,TB-1,4 - 3,Jack Dechow,12476,Old Dominion,Gabe Dean,12580,Cornell
+2017,03/16,NCAA Championships,184,W,MD,11 - 3,Jordan Ellingwood,14564,Central Michigan,Gabe Dean,12580,Cornell
+2017,03/16,NCAA Championships,184,W,MD,21 - 12,Michael Coleman,20598,Navy,Gabe Dean,12580,Cornell
+2017,03/03,EIWA Championships,184,W,FALL,0:36,Kevin Parker,44710,Princeton,Gabe Dean,12580,Cornell
+2017,03/03,EIWA Championships,184,W,TF5,21 - 6 6:01,Joe Heyob,20314,Pennsylvania,Gabe Dean,12580,Cornell
+2017,03/03,EIWA Championships,184,W,TF5,24 - 9 6:40,Michael Coleman,20598,Navy,Gabe Dean,12580,Cornell
+2017,03/03,EIWA Championships,184,W,FALL,4:24,Samson Imonode,12655,Army West Point,Gabe Dean,12580,Cornell
+2017,02/19,Ohio State - Cornell Dual,184,W,DEC,10 - 5,Myles Martin,39622,Ohio State,Gabe Dean,12580,Cornell
+2017,02/11,Princeton - Cornell Dual,184,W,TF5,20 - 5 6:13,Ian Baker,20332,Princeton,Gabe Dean,12580,Cornell
+2017,02/04,Cornell - Columbia Dual,184,W,FALL,0:38,Jacob Young,40233,Columbia,Gabe Dean,12580,Cornell
+2017,01/28,Cornell - Harvard Dual,184,W,FALL,4:16,Kanon Dean,19912,Harvard,Gabe Dean,12580,Cornell
+2017,01/28,Cornell - Brown Dual,184,W,FALL,1:41,Christian LaFragola,40032,Brown,Gabe Dean,12580,Cornell
+2017,01/22,Lock Haven - Cornell Dual,184,W,FALL,0:51,Gavin Caprio,40287,Lock Haven,Gabe Dean,12580,Cornell
+2017,01/21,Cornell - Lehigh Dual,184,W,FALL,3:22,Andrew Price,39648,Lehigh,Gabe Dean,12580,Cornell
+2017,01/01,Southern Scuffle,184,W,FALL,2:06,Will Sumner,20419,Utah Valley,Gabe Dean,12580,Cornell
+2017,01/01,Southern Scuffle,184,W,DEC,7 - 2,Nolan Boyd,12399,Oklahoma State,Gabe Dean,12580,Cornell
+2017,01/01,Southern Scuffle,184,W,FALL,4:36,Hunter Gamble,12878,Gardner-Webb,Gabe Dean,12580,Cornell
+2017,01/01,Southern Scuffle,184,W,MD,16 - 6,Dakota Geer,45373,Edinboro,Gabe Dean,12580,Cornell
+2017,12/18,Cornell - Oklahoma Dual,184,W,FALL,1:36,Andrew Dixon,20809,Oklahoma,Gabe Dean,12580,Cornell
+2017,12/16,Cornell - Oklahoma State Dual,184,W,MD,14 - 6,Nolan Boyd,12399,Oklahoma State,Gabe Dean,12580,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,184,W,TF5,19 - 4 5:00,Zack Zavatsky,20460,Virginia Tech,Gabe Dean,12580,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,184,W,FALL,2:13,Nicholas Fiegener,41681,Cal Baptist,Gabe Dean,12580,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,184,W,FALL,1:22,Mark Penyacsek,40163,CSU Bakersfield,Gabe Dean,12580,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,184,W,FALL,2:55,Jordan Ellingwood,14564,Central Michigan,Gabe Dean,12580,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,184,W,FALL,0:35,Ryan Harman,12794,Navy,Gabe Dean,12580,Cornell
+2017,11/27,Hofstra - Cornell Dual,184,W,FALL,0:33,Michael Oxley,19929,Hofstra,Gabe Dean,12580,Cornell
+2017,11/27,Rutgers - Cornell Dual,184,W,MD,16 - 3,Nicholas Gravina,20360,Rutgers,Gabe Dean,12580,Cornell
+2017,11/20,NYS Collegiate Championships,184,W,FALL,0:36,Jackson Kligerman,47652,NYU,Gabe Dean,12580,Cornell
+2017,11/20,NYS Collegiate Championships,184,W,FALL,5:20,Jake Ashcraft,42671,Ithaca,Gabe Dean,12580,Cornell
+2017,11/20,NYS Collegiate Championships,184,W,FALL,1:03,Logan Mcginn,41712,LIU,Gabe Dean,12580,Cornell
+2017,11/20,NYS Collegiate Championships,184,W,FALL,1:35,Christopher Morgan,41225,Army West Point,Gabe Dean,12580,Cornell
+2017,11/19,Buffalo - Cornell Dual,184,W,FALL,5:27,Brett Perry,19726,Buffalo,Gabe Dean,12580,Cornell
+2017,03/16,NCAA Championships,197,L,MD,9 - 1,Frank Mattiace,13058,Pennsylvania,Benjamin Honis,43656,Cornell
+2017,03/16,NCAA Championships,197,W,MD,11 - 2,Marcus Harrington,19961,Iowa State,Benjamin Honis,43656,Cornell
+2017,03/16,NCAA Championships,197,L,DEC,9 - 2,Shawn Scott,13164,Northern Illinois,Benjamin Honis,43656,Cornell
+2017,03/03,EIWA Championships,197,W,MD,12 - 3,Gordon Bolig,18524,Franklin & Marshall,Benjamin Honis,43656,Cornell
+2017,03/03,EIWA Championships,197,W,FALL,1:49,Logan Kirby,19916,Harvard,Benjamin Honis,43656,Cornell
+2017,03/03,EIWA Championships,197,W,FALL,4:12,Brett Harner,12294,Princeton,Benjamin Honis,43656,Cornell
+2017,03/03,EIWA Championships,197,W,MD,11 - 2,Mark Tracy,19662,Binghamton,Benjamin Honis,43656,Cornell
+2017,03/03,EIWA Championships,197,L,DEC,4 - 3,Rocco Caywood,22565,Army West Point,Benjamin Honis,43656,Cornell
+2017,03/03,EIWA Championships,197,W,SV-1,3 - 1,Jeric Kasunic,19615,American,Benjamin Honis,43656,Cornell
+2017,02/19,Ohio State - Cornell Dual,197,L,MD,20 - 9,Kollin Moore,39638,Ohio State,Benjamin Honis,43656,Cornell
+2017,02/11,Princeton - Cornell Dual,197,W,DEC,7 - 6,Brett Harner,12294,Princeton,Benjamin Honis,43656,Cornell
+2017,02/05,Edinboro Open,197,W,DEC,10 - 6,Steve Congenie,47571,Cornell,Benjamin Honis,43656,Cornell
+2017,02/05,Edinboro Open,197,W,DEC,10 - 5,Thomas Murray,19984,Lehigh,Benjamin Honis,43656,Cornell
+2017,02/05,Edinboro Open,197,W,DEC,13 - 9,Landon Pelham,44838,Central Michigan,Benjamin Honis,43656,Cornell
+2017,02/05,Edinboro Open,197,L,FALL,7:00,Joshua Roetman,45378,Navy,Benjamin Honis,43656,Cornell
+2017,02/05,Edinboro Open,197,W,TF5,16 - 1 4:56,Edgar Ruano,19798,Clarion,Benjamin Honis,43656,Cornell
+2017,01/28,Cornell - Harvard Dual,197,W,FALL,6:22,Logan Kirby,19916,Harvard,Benjamin Honis,43656,Cornell
+2017,01/22,Lock Haven - Cornell Dual,197,L,DEC,7 - 6,Tristan Sponseller,20593,Lock Haven,Benjamin Honis,43656,Cornell
+2017,01/21,Cornell - Lehigh Dual,197,W,DEC,2 - 1,Ben Haas,11564,Lehigh,Benjamin Honis,43656,Cornell
+2017,01/14,Missouri - Cornell Dual,197,W,MD,17 - 6,Jayden Bears,40182,Missouri,Benjamin Honis,43656,Cornell
+2017,01/13,Drexel - Cornell Dual,197,L,DEC,6 - 4,Joshua Murphy,19853,Drexel,Benjamin Honis,43656,Cornell
+2017,01/01,Southern Scuffle,197,W,DEC,8 - 4,Jacob Anderson,41386,Cornell,Benjamin Honis,43656,Cornell
+2017,01/01,Southern Scuffle,197,W,MD,14 - 5,Ben Darmstadt,45876,Spartan Combat RTC,Benjamin Honis,43656,Cornell
+2017,01/01,Southern Scuffle,197,L,DEC,3 - 2,Derek White,20107,Oklahoma State,Benjamin Honis,43656,Cornell
+2017,01/01,Southern Scuffle,197,W,DEC,7 - 6,Joshua Roetman,45378,Navy,Benjamin Honis,43656,Cornell
+2017,01/01,Southern Scuffle,197,L,MD,14 - 1,Brett Pfarr,12441,Minnesota,Benjamin Honis,43656,Cornell
+2017,01/01,Southern Scuffle,197,W,FALL,5:48,Ben Haas,11564,Lehigh,Benjamin Honis,43656,Cornell
+2017,01/01,Southern Scuffle,197,W,TF5,20 - 5 6:35,Tyler Patrick,12553,Duke,Benjamin Honis,43656,Cornell
+2017,12/18,Cornell - Oklahoma Dual,197,L,SV-1,5 - 3,Brad Johnson,16410,Oklahoma,Benjamin Honis,43656,Cornell
+2017,12/16,Cornell - Oklahoma State Dual,197,L,DEC,3 - 2,Preston Weigel,20278,Oklahoma State,Benjamin Honis,43656,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,197,W,DEC,4 - 3,Rocco Caywood,22565,Army West Point,Benjamin Honis,43656,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,197,W,MD,10 - 2,Jeric Kasunic,19615,American,Benjamin Honis,43656,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,197,L,DEC,2 - 0,Ricky Robertson,14042,Wisconsin,Benjamin Honis,43656,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,197,L,TF5,16 - 1 5:36,Brett Pfarr,12441,Minnesota,Benjamin Honis,43656,Cornell
+2017,11/27,Hofstra - Cornell Dual,197,W,MD,9 - 1,Nezar Haddad,19850,Hofstra,Benjamin Honis,43656,Cornell
+2017,11/27,Rutgers - Cornell Dual,197,W,DEC,4 - 0,Anthony Messner,12564,Rutgers,Benjamin Honis,43656,Cornell
+2017,11/20,NYS Collegiate Championships,197,W,TF5,18 - 0 7:00,Brandon Joest,44226,Merchant Marine,Benjamin Honis,43656,Cornell
+2017,11/20,NYS Collegiate Championships,197,W,MD,16 - 5,Triston Engle,41459,Brockport,Benjamin Honis,43656,Cornell
+2017,11/20,NYS Collegiate Championships,197,W,DEC,11 - 7,Jacob Anderson,41386,Cornell,Benjamin Honis,43656,Cornell
+2017,11/20,NYS Collegiate Championships,197,L,DEC,9 - 2,Nathanael Rose,39657,Buffalo,Benjamin Honis,43656,Cornell
+2017,11/19,Buffalo - Cornell Dual,197,L,DEC,4 - 3,James Benjamin,13108,Buffalo,Benjamin Honis,43656,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,197,L,DEC,8 - 2,Ben Darmstadt,45876,Spartan Combat RTC,Benjamin Honis,43656,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,197,W,TF5,16 - 0 3:21,Bennett Paulson,45647,United States Military Academy,Benjamin Honis,43656,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,197,W,DEC,4 - 2,Bailey Faust,39643,Ohio,Benjamin Honis,43656,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,197,W,DEC,8 - 2,Nezar Haddad,19850,Hofstra,Benjamin Honis,43656,Cornell
+2017,02/10,Pennsylvania - Cornell Dual,197,W,DEC,3 - 2,Frank Mattiace,13058,Pennsylvania,Owen Scott,12799,Cornell
+2017,02/05,Edinboro Open,197,W,MFOR,0 - 0,Joshua Roetman,45378,Navy,Owen Scott,12799,Cornell
+2017,02/05,Edinboro Open,197,W,TF5,16 - 0 4:26,Dylan Cook,42820,Virginia Tech,Owen Scott,12799,Cornell
+2017,02/05,Edinboro Open,197,W,MD,18 - 4,Thomas Murray,19984,Lehigh,Owen Scott,12799,Cornell
+2017,02/05,Edinboro Open,197,L,DEC,8 - 3,Josh Marchok,14339,Stanford,Owen Scott,12799,Cornell
+2017,01/28,Cornell - Brown Dual,197,W,TF5,18 - 2 4:32,Tucker Ziegler,39913,Brown,Owen Scott,12799,Cornell
+2017,01/01,Southern Scuffle,197,W,INJ,7:00,Ben Darmstadt,45876,Spartan Combat RTC,Owen Scott,12799,Cornell
+2017,01/01,Southern Scuffle,197,W,DEC,10 - 6,Tanner Orndorff,40324,Utah Valley,Owen Scott,12799,Cornell
+2017,01/01,Southern Scuffle,197,W,DEC,5 - 4,Josh Marchok,14339,Stanford,Owen Scott,12799,Cornell
+2017,01/01,Southern Scuffle,197,L,DEC,4 - 3,Frank Mattiace,13058,Pennsylvania,Owen Scott,12799,Cornell
+2017,01/01,Southern Scuffle,197,L,DEC,4 - 0,Preston Weigel,20278,Oklahoma State,Owen Scott,12799,Cornell
+2017,01/01,Southern Scuffle,197,L,TF5,22 - 7 6:06,J'den Cox,13114,Missouri,Owen Scott,12799,Cornell
+2017,01/01,Southern Scuffle,197,W,DEC,8 - 3,Anthony McLaughlin,23674,Air Force,Owen Scott,12799,Cornell
+2017,12/17,Cleveland State Open,197,W,DEC,7 - 3,Jay Aiello,44667,Virginia,Owen Scott,12799,Cornell
+2017,12/17,Cleveland State Open,197,W,MD,13 - 0,Dylan Cook,42820,Virginia Tech,Owen Scott,12799,Cornell
+2017,12/17,Cleveland State Open,197,L,DEC,4 - 1,Tom Sleigh,19710,Bucknell,Owen Scott,12799,Cornell
+2017,12/17,Cleveland State Open,197,W,DEC,6 - 0,Tyler Askey,12657,Virginia,Owen Scott,12799,Cornell
+2017,02/04,Cornell - Columbia Dual,197,W,MD,11 - 2,Michael Bulkin,45333,Columbia,Jacob Anderson,41386,Cornell
+2017,01/01,Southern Scuffle,197,L,DEC,8 - 4,Benjamin Honis,43656,Cornell,Jacob Anderson,41386,Cornell
+2017,01/01,Southern Scuffle,197,L,DEC,5 - 2,Preston Weigel,20278,Oklahoma State,Jacob Anderson,41386,Cornell
+2017,01/01,Southern Scuffle,197,W,MD,15 - 3,Scottie Boykin,12756,Chattanooga,Jacob Anderson,41386,Cornell
+2017,01/01,Southern Scuffle,197,W,DEC,6 - 0,Parker Hines,13041,Air Force,Jacob Anderson,41386,Cornell
+2017,11/20,NYS Collegiate Championships,197,L,DEC,11 - 7,Benjamin Honis,43656,Cornell,Jacob Anderson,41386,Cornell
+2017,11/20,NYS Collegiate Championships,197,W,FALL,2:03,Deny Travarez,47656,Nassau Community College,Jacob Anderson,41386,Cornell
+2017,11/20,NYS Collegiate Championships,197,W,MD,10 - 0,Daniel Smith,42681,Oswego State,Jacob Anderson,41386,Cornell
+2017,11/20,NYS Collegiate Championships,197,L,DEC,7 - 1,James Benjamin,13108,Buffalo,Jacob Anderson,41386,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,197,L,DEC,6 - 4,Ben Darmstadt,45876,Spartan Combat RTC,Jacob Anderson,41386,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,197,W,TF5,18 - 3 3:00,Steven Hoadley,45646,United States Military Academy,Jacob Anderson,41386,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,197,W,MD,13 - 2,Bailey Faust,39643,Ohio,Jacob Anderson,41386,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,197,W,MD,12 - 0,Mark Tracy,19662,Binghamton,Jacob Anderson,41386,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,197,W,MD,15 - 2,Jeremiah Imonode,41229,Army West Point,Jacob Anderson,41386,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,197,W,DEC,9 - 4,Kevin Mulligan,44814,Rutgers,Jacob Anderson,41386,Cornell
+2017,02/05,Edinboro Open,197,L,DEC,10 - 6,Benjamin Honis,43656,Cornell,Steve Congenie,47571,Cornell
+2017,02/05,Edinboro Open,197,W,DEC,12 - 8,JT Correll,45659,Wyoming Seminary Prep,Steve Congenie,47571,Cornell
+2017,02/05,Edinboro Open,197,W,FALL,1:33,Garrett Smead,49829,Unattached,Steve Congenie,47571,Cornell
+2017,02/05,Edinboro Open,197,L,DEC,11 - 5,Josh Marchok,14339,Stanford,Steve Congenie,47571,Cornell
+2017,02/05,Edinboro Open,197,W,FALL,2:35,Aaron Paddock,44685,Edinboro,Steve Congenie,47571,Cornell
+2017,02/05,Edinboro Open,197,W,MD,14 - 0,Shawn Reynolds,40439,Edinboro,Steve Congenie,47571,Cornell
+2017,01/14,Brockport Open,197,L,MFOR,0 - 0,Triston Engle,41459,Brockport,Steve Congenie,47571,Cornell
+2017,01/14,Brockport Open,197,W,FALL,4:51,Brandyn Whitacre,48446,Alfred State,Steve Congenie,47571,Cornell
+2017,01/14,Brockport Open,197,W,FALL,7:00,John Fuino,47989,Niagara Community College,Steve Congenie,47571,Cornell
+2017,01/14,Brockport Open,197,W,FALL,1:12,David Hernandez,48442,Niagara Community College,Steve Congenie,47571,Cornell
+2017,01/14,Brockport Open,197,W,FALL,2:09,Brandon Barbagelta,48441,Alfred State,Steve Congenie,47571,Cornell
+2017,11/20,NYS Collegiate Championships,197,W,MD,17 - 5,Jack Buell,44737,Army West Point,Steve Congenie,47571,Cornell
+2017,11/20,NYS Collegiate Championships,197,W,FALL,2:09,Michael Bulkin,45333,Columbia,Steve Congenie,47571,Cornell
+2017,03/03,EIWA Championships,285,W,DEC,4 - 1,Thomas Ott,40265,Navy,Craig Scott,14242,Cornell
+2017,03/03,EIWA Championships,285,W,DEC,3 - 2,Omar Haddad,40070,Hofstra,Craig Scott,14242,Cornell
+2017,03/03,EIWA Championships,285,W,MD,8 - 0,Nicholas Gajdzik,14240,Harvard,Craig Scott,14242,Cornell
+2017,03/03,EIWA Championships,285,L,INJ,7:00,Garrett Ryan,13538,Columbia,Craig Scott,14242,Cornell
+2017,03/03,EIWA Championships,285,L,FALL,2:39,Connor Calkins,19648,Binghamton,Craig Scott,14242,Cornell
+2017,02/11,Princeton - Cornell Dual,285,L,DEC,7 - 1,Raymond O'Donnell,37426,Princeton,Craig Scott,14242,Cornell
+2017,02/10,Pennsylvania - Cornell Dual,285,W,MD,16 - 3,Tyler Hall,39555,Pennsylvania,Craig Scott,14242,Cornell
+2017,02/04,Cornell - Columbia Dual,285,W,DEC,6 - 2,Garrett Ryan,13538,Columbia,Craig Scott,14242,Cornell
+2017,01/28,Cornell - Brown Dual,285,W,DEC,7 - 4,Ian Butterbrodt,39770,Brown,Craig Scott,14242,Cornell
+2017,01/01,Southern Scuffle,285,L,MFOR,0 - 0,Trevor Rasmussen,40001,Stanford,Craig Scott,14242,Cornell
+2017,01/01,Southern Scuffle,285,L,INJ,7:00,Jared Johnson,19773,Chattanooga,Craig Scott,14242,Cornell
+2017,01/01,Southern Scuffle,285,W,DEC,4 - 2,Chuck Boddy,14205,Virginia,Craig Scott,14242,Cornell
+2017,12/18,Cornell - Oklahoma Dual,285,W,DEC,9 - 7,Ross Larson,14299,Oklahoma,Craig Scott,14242,Cornell
+2017,12/16,Cornell - Oklahoma State Dual,285,L,DEC,7 - 3,Austin Schafer,13112,Oklahoma State,Craig Scott,14242,Cornell
+2017,11/27,Mat-Town Open,285,W,DEC,7 - 6,Mike Rogers,45302,NC State,Craig Scott,14242,Cornell
+2017,11/27,Mat-Town Open,285,W,TF5,16 - 0 7:00,Austin Knies,40161,Virginia,Craig Scott,14242,Cornell
+2017,11/27,Mat-Town Open,285,W,MD,10 - 2,Thomas Haines,20247,Lock Haven,Craig Scott,14242,Cornell
+2017,11/27,Mat-Town Open,285,L,INJ,7:00,Michael Hughes,14198,Hofstra,Craig Scott,14242,Cornell
+2017,11/19,Buffalo - Cornell Dual,285,L,DEC,5 - 4,Jake Gunning,19718,Buffalo,Craig Scott,14242,Cornell
+2017,02/19,Ohio State - Cornell Dual,285,W,DEC,4 - 0,Josh Fox,12555,Ohio State,Jeramy Sweany,40382,Cornell
+2017,02/05,Edinboro Open,285,L,FALL,2:56,James Romero,40021,Missouri,Jeramy Sweany,40382,Cornell
+2017,02/05,Edinboro Open,285,L,DEC,10 - 7,Christian Colucci,39851,Lehigh,Jeramy Sweany,40382,Cornell
+2017,02/05,Edinboro Open,285,W,DEC,6 - 1,Jacob Bohlken,44953,Missouri,Jeramy Sweany,40382,Cornell
+2017,02/05,Edinboro Open,285,W,DEC,11 - 8,Amos Mason,49825,Navy,Jeramy Sweany,40382,Cornell
+2017,02/05,Edinboro Open,285,W,FALL,6:49,Jacob Robb,45929,Mercyhurst,Jeramy Sweany,40382,Cornell
+2017,01/28,Cornell - Harvard Dual,285,L,DEC,7 - 4,Nicholas Gajdzik,14240,Harvard,Jeramy Sweany,40382,Cornell
+2017,01/22,Lock Haven - Cornell Dual,285,L,FALL,3:37,Thomas Haines,20247,Lock Haven,Jeramy Sweany,40382,Cornell
+2017,01/21,Cornell - Lehigh Dual,285,L,SV-1,3 - 1,Doug Vollaro,14167,Lehigh,Jeramy Sweany,40382,Cornell
+2017,01/14,Missouri - Cornell Dual,285,W,DEC,4 - 0,Austin Myers,39755,Missouri,Jeramy Sweany,40382,Cornell
+2017,01/13,Drexel - Cornell Dual,285,L,DEC,11 - 6,Joey Goodhart,19849,Drexel,Jeramy Sweany,40382,Cornell
+2017,01/01,Southern Scuffle,285,L,FALL,1:12,Carter Isley,44719,Northern Iowa,Jeramy Sweany,40382,Cornell
+2017,01/01,Southern Scuffle,285,W,DEC,4 - 1,Christian Colucci,39851,Lehigh,Jeramy Sweany,40382,Cornell
+2017,01/01,Southern Scuffle,285,L,FALL,1:50,Michael Hughes,14198,Hofstra,Jeramy Sweany,40382,Cornell
+2017,01/01,Southern Scuffle,285,W,DEC,3 - 1,Sam Breese,45375,Edinboro,Jeramy Sweany,40382,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,285,L,DEC,2 - 0,Spencer Empey,14403,Cal Poly,Jeramy Sweany,40382,Cornell
+2017,12/02,Cliff Keen Las Vegas Invite,285,L,DEC,7 - 4,Tyler Kral,14261,Purdue,Jeramy Sweany,40382,Cornell
+2017,11/27,Hofstra - Cornell Dual,285,W,DEC,6 - 2,Omar Haddad,40070,Hofstra,Jeramy Sweany,40382,Cornell
+2017,11/27,Rutgers - Cornell Dual,285,W,FALL,4:32,Razohnn Gross,45114,Rutgers,Jeramy Sweany,40382,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,285,W,DEC,4 - 3,Zack Parker,20235,Ohio,Jeramy Sweany,40382,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,285,L,TF5,15 - 0 4:18,Michael Hughes,14198,Hofstra,Jeramy Sweany,40382,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,285,W,DEC,8 - 2,Bruce Graeber,45188,Bloomsburg,Jeramy Sweany,40382,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,285,W,DEC,5 - 2,Connor Calkins,19648,Binghamton,Jeramy Sweany,40382,Cornell
+2017,11/20,NYS Collegiate Championships,285,L,MFOR,0 - 0,Jed Middleton,47562,Niagara Community College,McZiggy Richards,40436,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,285,L,DEC,4 - 3,Corey Kerkesner,40385,Franklin & Marshall,McZiggy Richards,40436,Cornell
+2017,11/13,Jonathan Kaloust Bearcat Open,285,L,TB-2,6 - 2,Saul Wilkins,40296,Bloomsburg,McZiggy Richards,40436,Cornell
+2017,11/20,NYS Collegiate Championships,285,L,DEC,2 - 0,Harryson Myrtil,47617,College of Mount Saint Vincent,Robert Incorvaia,19826,Cornell
+2017,11/20,NYS Collegiate Championships,285,L,DEC,5 - 1,Chance O'Mahony,47600,Cortland State,Robert Incorvaia,19826,Cornell

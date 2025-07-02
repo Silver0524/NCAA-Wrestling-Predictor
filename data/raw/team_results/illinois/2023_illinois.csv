@@ -1,0 +1,473 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2023,03/05,Big Ten True Matches,125,L,DEC,10 - 4,Jacob Moran,63550,Indiana,Maximo Renteria,71870,Illinois
+2023,03/04,Big Ten Championships,125,L,MD,18 - 7,Jacob Moran,63550,Indiana,Maximo Renteria,71870,Illinois
+2023,03/04,Big Ten Championships,125,L,FALL,4:09,Eric Barnett,56753,Wisconsin,Maximo Renteria,71870,Illinois
+2023,02/12,Illinois - Iowa State Dual,125,L,SV-1,6 - 4,Caleb Fuessley,62605,Iowa State,Maximo Renteria,71870,Illinois
+2023,02/05,Illinois - Michigan State Dual,125,W,DEC,5 - 1,Benny Gomez,47503,Michigan State,Maximo Renteria,71870,Illinois
+2023,02/03,Nebraska - Illinois Dual,125,L,MD,18 - 7,Liam Cronin,45061,Nebraska,Maximo Renteria,71870,Illinois
+2023,01/28,Illinois - Minnesota Dual,125,L,MD,14 - 2,Patrick McKee,50594,Minnesota,Maximo Renteria,71870,Illinois
+2023,01/22,Maryland - Illinois Dual,125,L,DEC,13 - 9,Braxton Brown,72103,Maryland,Maximo Renteria,71870,Illinois
+2023,01/20,Illinois - Northwestern Dual,125,L,MD,10 - 1,Michael DeAugustino,56007,Northwestern,Maximo Renteria,71870,Illinois
+2023,01/14,Purdue - Illinois Dual,125,L,DEC,3 - 2,Matt Ramos,57134,Purdue,Maximo Renteria,71870,Illinois
+2023,01/08,Wisconsin - Illinois Dual,125,L,DEC,7 - 1,Eric Barnett,56753,Wisconsin,Maximo Renteria,71870,Illinois
+2023,01/06,Illinois - Iowa Dual,125,L,FALL,2:22,Spencer Lee,49146,Iowa,Maximo Renteria,71870,Illinois
+2023,12/03,Pittsburgh - Illinois Dual,125,L,FALL,5:15,Colton Camacho,58029,Pittsburgh,Maximo Renteria,71870,Illinois
+2023,12/03,Chattanooga - Illinois Dual,125,W,FALL,5:40,Logan Ashton,57605,Chattanooga,Maximo Renteria,71870,Illinois
+2023,11/18,Illinois - North Carolina State Dual,125,L,DEC,3 - 1,Jarrett Trombley,50807,NC State,Maximo Renteria,71870,Illinois
+2023,11/18,Illinois - Buffalo Dual,125,W,DEC,7 - 4,Patrick Adams,72223,Buffalo,Maximo Renteria,71870,Illinois
+2023,11/05,Michigan State Open,125,L,MFOR,0 - 0,Christian Tanefeu,73460,Michigan,Maximo Renteria,71870,Illinois
+2023,11/05,Michigan State Open,125,W,DEC,4 - 2,Oscar Sanchez,57320,Ohio,Maximo Renteria,71870,Illinois
+2023,11/05,Michigan State Open,125,L,DEC,6 - 5,Joey Prata,44734,Oklahoma,Maximo Renteria,71870,Illinois
+2023,11/05,Michigan State Open,125,L,MFOR,0 - 0,Malachi O'Leary,78919,Ohio,Sammie Hayes,73128,Illinois
+2023,11/05,Michigan State Open,125,L,MFOR,0 - 0,Nolan Wertanen,78523,Michigan,Sammie Hayes,73128,Illinois
+2023,11/05,Michigan State Open,125,W,DEC,8 - 3,Andrew Hampton,73020,Michigan State,Sammie Hayes,73128,Illinois
+2023,11/05,Michigan State Open,125,L,MFOR,0 - 0,Anthony Walker,79052,Central Michigan,Sammie Hayes,73128,Illinois
+2023,03/16,NCAA Championships,133,L,TB-3,4 - 3,Jesse Mendez,74054,Ohio State,Lucas Byrd,56714,Illinois
+2023,03/16,NCAA Championships,133,L,DEC,3 - 2,Daton Fix,49263,Oklahoma State,Lucas Byrd,56714,Illinois
+2023,03/16,NCAA Championships,133,W,DEC,6 - 3,Michael Colaiocco,56733,Pennsylvania,Lucas Byrd,56714,Illinois
+2023,03/16,NCAA Championships,133,W,DEC,13 - 10,Brody Teske,52779,Iowa,Lucas Byrd,56714,Illinois
+2023,03/04,Big Ten Championships,133,W,SV-1,3 - 1,Chris Cannon,62895,Northwestern,Lucas Byrd,56714,Illinois
+2023,03/04,Big Ten Championships,133,W,DEC,6 - 1,Dylan Ragusin,63153,Michigan,Lucas Byrd,56714,Illinois
+2023,03/04,Big Ten Championships,133,W,DEC,7 - 3,Dustin Norris,72154,Purdue,Lucas Byrd,56714,Illinois
+2023,03/04,Big Ten Championships,133,W,FALL,4:12,Jackson Cockrell,63028,Maryland,Lucas Byrd,56714,Illinois
+2023,03/04,Big Ten Championships,133,L,SV-1,4 - 2,Aaron Nagao,63016,Minnesota,Lucas Byrd,56714,Illinois
+2023,03/04,Big Ten Championships,133,W,MD,8 - 0,Joe Heilmann,51223,Rutgers,Lucas Byrd,56714,Illinois
+2023,02/12,Illinois - Iowa State Dual,133,W,MD,13 - 3,Zach Redding,62726,Iowa State,Lucas Byrd,56714,Illinois
+2023,02/05,Illinois - Michigan State Dual,133,W,DEC,8 - 1,Rayvon Foley,50823,Michigan State,Lucas Byrd,56714,Illinois
+2023,02/03,Nebraska - Illinois Dual,133,W,DEC,3 - 0,Kyle Burwick,57385,Nebraska,Lucas Byrd,56714,Illinois
+2023,01/28,Illinois - Minnesota Dual,133,W,DEC,3 - 1,Jake Gliva,51241,Minnesota,Lucas Byrd,56714,Illinois
+2023,01/22,Maryland - Illinois Dual,133,W,TF5,22 - 7 7:00,Conner Quinn,72582,Maryland,Lucas Byrd,56714,Illinois
+2023,01/20,Illinois - Northwestern Dual,133,W,DEC,5 - 2,Chris Cannon,62895,Northwestern,Lucas Byrd,56714,Illinois
+2023,01/14,Purdue - Illinois Dual,133,W,MD,13 - 4,Dustin Norris,72154,Purdue,Lucas Byrd,56714,Illinois
+2023,01/08,Wisconsin - Illinois Dual,133,W,DEC,5 - 1,Taylor LaMont,44777,Wisconsin,Lucas Byrd,56714,Illinois
+2023,01/06,Illinois - Iowa Dual,133,W,FALL,2:58,Cullan Schriever,57331,Iowa,Lucas Byrd,56714,Illinois
+2023,12/29,Midlands Championships,133,W,DEC,4 - 0,Julian Chlebove,56769,Arizona State,Lucas Byrd,56714,Illinois
+2023,12/29,Midlands Championships,133,W,DEC,3 - 0,Julian Chlebove,56769,Arizona State,Lucas Byrd,56714,Illinois
+2023,12/29,Midlands Championships,133,W,DEC,8 - 1,Joe Heilmann,51223,Rutgers,Lucas Byrd,56714,Illinois
+2023,12/29,Midlands Championships,133,L,DEC,15 - 13,Michael Colaiocco,56733,Pennsylvania,Lucas Byrd,56714,Illinois
+2023,12/29,Midlands Championships,133,W,MD,9 - 1,Cole Rhone,62773,Bloomsburg,Lucas Byrd,56714,Illinois
+2023,12/29,Midlands Championships,133,W,MD,14 - 5,Ian Oswalt,71942,Brown,Lucas Byrd,56714,Illinois
+2023,12/29,Midlands Championships,133,W,MD,11 - 1,Jacob Manley,67785,Cleveland State,Lucas Byrd,56714,Illinois
+2023,12/03,Pittsburgh - Illinois Dual,133,L,DEC,4 - 3,Micky Phillippi,45230,Pittsburgh,Lucas Byrd,56714,Illinois
+2023,12/03,Chattanooga - Illinois Dual,133,W,DEC,5 - 0,Brayden Palmer,59826,Chattanooga,Lucas Byrd,56714,Illinois
+2023,11/18,Illinois - North Carolina State Dual,133,W,FALL,4:34,Troy Hohman,75816,NC State,Lucas Byrd,56714,Illinois
+2023,11/12,Tiger Style Invite,133,W,DEC,3 - 1,Zeke Seltzer,72572,Missouri,Lucas Byrd,56714,Illinois
+2023,11/12,Tiger Style Invite,133,W,DEC,7 - 3,Connor Brown,49321,Missouri,Lucas Byrd,56714,Illinois
+2023,11/12,Tiger Style Invite,133,W,DEC,8 - 4,Ethan Rotondo,51219,Cal Poly,Lucas Byrd,56714,Illinois
+2023,11/05,Michigan State Open,133,L,DEC,3 - 2,Jesse Mendez,74054,Ohio State,Lucas Byrd,56714,Illinois
+2023,11/05,Michigan State Open,133,W,DEC,8 - 1,Kobe Nelms,63874,Utah Valley,Lucas Byrd,56714,Illinois
+2023,11/05,Michigan State Open,133,W,DEC,8 - 3,Wyatt Henson,63069,Oklahoma,Lucas Byrd,56714,Illinois
+2023,11/05,Michigan State Open,133,W,FALL,0:36,Gavin Ritter,62537,Findlay,Lucas Byrd,56714,Illinois
+2023,02/05,Greyhound Open,141,W,TF5,16 - 1 7:00,Bryan Chavero,83642,Ancilla College,Kole Brower,73712,Illinois
+2023,02/05,Greyhound Open,141,W,MFOR,0 - 0,Logan Wagner,77454,Marian University,Kole Brower,73712,Illinois
+2023,02/05,Greyhound Open,141,W,FALL,3:39,Michael Leveille,57716,Purdue,Kole Brower,73712,Illinois
+2023,02/05,Greyhound Open,141,W,DEC,7 - 5,Eric Almarinez,80240,SIU Edwardsville,Kole Brower,73712,Illinois
+2023,11/18,Illinois - Buffalo Dual,133,W,DEC,11 - 7,Tommy Maddox,63165,Buffalo,Kole Brower,73712,Illinois
+2023,11/12,Tiger Style Invite,133,W,FALL,4:04,Cael Keck,76500,Little Rock,Kole Brower,73712,Illinois
+2023,11/12,Tiger Style Invite,133,W,MD,19 - 6,Conner Quinn,72582,Maryland,Kole Brower,73712,Illinois
+2023,11/12,Tiger Style Invite,133,L,FALL,2:31,Connor Brown,49321,Missouri,Kole Brower,73712,Illinois
+2023,11/12,Tiger Style Invite,133,L,DEC,3 - 1,Ethan Rotondo,51219,Cal Poly,Kole Brower,73712,Illinois
+2023,11/05,Michigan State Open,133,W,MD,8 - 0,Brian Beers,79032,Illinois,Kole Brower,73712,Illinois
+2023,11/05,Michigan State Open,133,L,FALL,1:18,Nic Bouzakis,73468,Ohio State,Kole Brower,73712,Illinois
+2023,11/05,Michigan State Open,133,W,FALL,3:07,Andrew Austin,79051,Central Michigan,Kole Brower,73712,Illinois
+2023,02/05,Greyhound Open,133,L,DEC,3 - 2,Hunter Vernon,79521,Quincy,Brian Beers,79032,Illinois
+2023,02/05,Greyhound Open,133,L,MD,11 - 2,David Medina,67559,King,Brian Beers,79032,Illinois
+2023,02/05,Greyhound Open,133,W,DEC,5 - 4,Nick Varanelli,62532,Indianapolis,Brian Beers,79032,Illinois
+2023,01/21,Harper Open,133,L,MFOR,0 - 0,Jack Connell,83724,Triton College,Brian Beers,79032,Illinois
+2023,01/21,Harper Open,133,L,DEC,6 - 1,Justin Fortugno,81005,Wisconsin-Whitewater,Brian Beers,79032,Illinois
+2023,01/21,Harper Open,133,W,DEC,7 - 0,Matthew Chi,77507,Wisconsin-Parkside,Brian Beers,79032,Illinois
+2023,12/29,Midlands Championships,133,L,DEC,4 - 2,Nathaniel Genobana,73338,Northern Illinois,Brian Beers,79032,Illinois
+2023,12/29,Midlands Championships,133,L,DEC,2 - 1,Lucian Brink,64945,Northern Illinois,Brian Beers,79032,Illinois
+2023,11/19,Lindenwood Open,133,W,MFOR,0 - 0,Arojae Hart,80893,Indian Hills,Brian Beers,79032,Illinois
+2023,11/19,Lindenwood Open,133,L,FALL,3:00,Caiden Pelc,79804,Lindenwood,Brian Beers,79032,Illinois
+2023,11/19,Lindenwood Open,133,W,DEC,6 - 5,Lucas Laux,76566,Maryville University,Brian Beers,79032,Illinois
+2023,11/19,Lindenwood Open,133,W,MD,10 - 2,Sam Smith,75242,Unattached,Brian Beers,79032,Illinois
+2023,11/19,Lindenwood Open,133,W,DEC,5 - 4,Michael Schiffhauer,79327,Bellarmine,Brian Beers,79032,Illinois
+2023,11/05,Michigan State Open,133,L,MD,8 - 0,Kole Brower,73712,Illinois,Brian Beers,79032,Illinois
+2023,11/05,Michigan State Open,133,L,DEC,6 - 0,Dylan Coy,77722,Wisconsin,Brian Beers,79032,Illinois
+2023,11/05,Michigan State Open,133,W,MFOR,0 - 0,Mason Brugh,76364,Ohio,Brian Beers,79032,Illinois
+2023,11/05,Michigan State Open,133,W,DEC,6 - 2,Garett Lautzenheiser,72996,Ohio State,Brian Beers,79032,Illinois
+2023,03/05,Big Ten True Matches,141,L,DEC,8 - 5,Kal Miller,72211,Maryland,Danny Pucino,66101,Illinois
+2023,03/04,Big Ten Championships,141,L,DEC,4 - 1,Kal Miller,72211,Maryland,Danny Pucino,66101,Illinois
+2023,03/04,Big Ten Championships,141,L,DEC,8 - 4,Joseph Zargo,62890,Wisconsin,Danny Pucino,66101,Illinois
+2023,02/12,Illinois - Iowa State Dual,141,L,DEC,10 - 7,Casey Swiderski,71913,Iowa State,Danny Pucino,66101,Illinois
+2023,02/05,Illinois - Michigan State Dual,141,W,TF5,23 - 8 6:15,Blake Noonan,67008,Michigan State,Danny Pucino,66101,Illinois
+2023,02/03,Nebraska - Illinois Dual,141,L,TF5,16 - 1 7:00,Brock Hardy,51242,Nebraska,Danny Pucino,66101,Illinois
+2023,01/28,Illinois - Minnesota Dual,141,L,MD,12 - 2,Jake Bergeland,49189,Minnesota,Danny Pucino,66101,Illinois
+2023,01/22,Maryland - Illinois Dual,141,W,DEC,5 - 2,Kal Miller,72211,Maryland,Danny Pucino,66101,Illinois
+2023,01/20,Illinois - Northwestern Dual,141,W,DEC,8 - 6,Frankie Tal-Shahar,64959,Northwestern,Danny Pucino,66101,Illinois
+2023,01/14,Purdue - Illinois Dual,141,W,FALL,3:35,Parker Filius,49302,Purdue,Danny Pucino,66101,Illinois
+2023,01/08,Wisconsin - Illinois Dual,141,W,FALL,5:40,Felix Lettini,77386,Wisconsin,Danny Pucino,66101,Illinois
+2023,01/06,Illinois - Iowa Dual,141,W,MD,20 - 8,Drew Bennett,51142,Iowa,Danny Pucino,66101,Illinois
+2023,12/29,Midlands Championships,141,L,FALL,6:42,Brian Courtney,49331,Virginia,Danny Pucino,66101,Illinois
+2023,12/29,Midlands Championships,141,L,MD,12 - 2,Sammy Alvarez,56763,Rutgers,Danny Pucino,66101,Illinois
+2023,12/29,Midlands Championships,141,W,DEC,10 - 5,Trey Crawford,62980,Missouri,Danny Pucino,66101,Illinois
+2023,12/29,Midlands Championships,141,W,DEC,4 - 1,Jaivon Jones,62724,Northern Illinois,Danny Pucino,66101,Illinois
+2023,12/29,Midlands Championships,141,W,MD,14 - 4,Josh Mason,53817,Bloomsburg,Danny Pucino,66101,Illinois
+2023,12/29,Midlands Championships,141,W,DEC,8 - 3,Michael Leveille,57716,Purdue,Danny Pucino,66101,Illinois
+2023,12/03,Pittsburgh - Illinois Dual,141,L,DEC,4 - 2,Cole Matthews,50936,Pittsburgh,Danny Pucino,66101,Illinois
+2023,12/03,Chattanooga - Illinois Dual,141,W,FALL,4:00,Dayne Dalrymple,71790,Chattanooga,Danny Pucino,66101,Illinois
+2023,11/18,Illinois - North Carolina State Dual,141,L,MD,14 - 4,Ryan Jack,61122,NC State,Danny Pucino,66101,Illinois
+2023,11/18,Illinois - Buffalo Dual,141,W,DEC,11 - 5,Jack Marlow,73355,Buffalo,Danny Pucino,66101,Illinois
+2023,11/05,Michigan State Open,141,W,FALL,1:37,Dylan Lorincz,77746,Grand Valley State University,Danny Pucino,66101,Illinois
+2023,11/05,Michigan State Open,141,L,MFOR,0 - 0,Jordan Decatur,56727,Ohio State,Danny Pucino,66101,Illinois
+2023,11/05,Michigan State Open,141,L,FALL,2:01,Mosha Schwartz,55841,Oklahoma,Danny Pucino,66101,Illinois
+2023,11/05,Michigan State Open,141,W,DEC,9 - 7,Will Grater,67164,Central Michigan,Danny Pucino,66101,Illinois
+2023,02/05,Greyhound Open,141,W,FALL,2:07,Lucas Laux,76566,Maryville University,Hayden Halter,75859,Illinois
+2023,02/05,Greyhound Open,141,L,FALL,1:50,Ronan Schuelke,69543,McKendree University,Hayden Halter,75859,Illinois
+2023,02/05,Greyhound Open,141,L,DEC,6 - 4,Evan Burge,64446,Wabash,Hayden Halter,75859,Illinois
+2023,02/05,Greyhound Open,141,W,DEC,6 - 5,Chase Hall,78650,Bellarmine,Hayden Halter,75859,Illinois
+2023,02/05,Greyhound Open,141,L,DEC,5 - 2,Eric Almarinez,80240,SIU Edwardsville,Hayden Halter,75859,Illinois
+2023,11/05,Michigan State Open,133,L,DEC,3 - 1,Paul Woo,78922,Ohio,Hayden Halter,75859,Illinois
+2023,11/05,Michigan State Open,133,W,TF5,22 - 2 7:00,Nolan Frye,78918,Ohio,Hayden Halter,75859,Illinois
+2023,11/05,Michigan State Open,133,L,FALL,2:02,Brock Bobzien,71941,Badger RTC,Hayden Halter,75859,Illinois
+2023,03/05,Big Ten True Matches,149,W,DEC,8 - 4,Jaden Reynolds,72620,Purdue,Jake Harrier,70723,Illinois
+2023,03/05,Big Ten True Matches,149,L,DEC,5 - 3,Anthony White,70924,Rutgers,Jake Harrier,70723,Illinois
+2023,03/04,Big Ten Championships,149,L,MD,16 - 4,Shayne Van Ness,71588,Penn State,Jake Harrier,70723,Illinois
+2023,03/04,Big Ten Championships,149,W,MFOR,0 - 0,Peyton Omania,56081,Michigan State,Jake Harrier,70723,Illinois
+2023,03/04,Big Ten Championships,149,L,DEC,8 - 3,Yahya Thomas,49245,Northwestern,Jake Harrier,70723,Illinois
+2023,02/12,Illinois - Iowa State Dual,149,L,DEC,12 - 6,Paniro Johnson,68708,Iowa State,Jake Harrier,70723,Illinois
+2023,02/05,Illinois - Michigan State Dual,149,W,DEC,8 - 4,Peyton Omania,56081,Michigan State,Jake Harrier,70723,Illinois
+2023,01/28,Illinois - Minnesota Dual,149,L,MD,14 - 4,Michael Blockhus,57163,Minnesota,Jake Harrier,70723,Illinois
+2023,01/22,Maryland - Illinois Dual,149,L,TF5,18 - 3 7:00,Ethen Miller,70914,Maryland,Jake Harrier,70723,Illinois
+2023,01/20,Illinois - Northwestern Dual,149,L,DEC,7 - 3,Yahya Thomas,49245,Northwestern,Jake Harrier,70723,Illinois
+2023,01/14,Purdue - Illinois Dual,149,W,MD,10 - 2,Jaden Reynolds,72620,Purdue,Jake Harrier,70723,Illinois
+2023,01/08,Wisconsin - Illinois Dual,149,L,DEC,9 - 7,Joseph Zargo,62890,Wisconsin,Jake Harrier,70723,Illinois
+2023,12/29,Midlands Championships,149,W,DEC,5 - 4,Ryan Moore,50654,Thomas More College,Jake Harrier,70723,Illinois
+2023,12/29,Midlands Championships,149,L,MD,13 - 2,Doug Zapf,50656,Pennsylvania,Jake Harrier,70723,Illinois
+2023,12/29,Midlands Championships,149,L,MD,12 - 3,Max Brignola,73041,Lehigh,Jake Harrier,70723,Illinois
+2023,12/29,Midlands Championships,149,W,DEC,9 - 4,Dillon Nichols,61650,Northern Illinois,Jake Harrier,70723,Illinois
+2023,11/19,Lindenwood Open,149,L,DEC,4 - 3,Joel Mylin,73025,Missouri,Jake Harrier,70723,Illinois
+2023,11/19,Lindenwood Open,149,L,DEC,5 - 1,Caleb Tyus,72912,SIU Edwardsville,Jake Harrier,70723,Illinois
+2023,11/12,Tiger Style Invite,149,L,DEC,7 - 6,Nathan Pulliam,70916,Missouri,Jake Harrier,70723,Illinois
+2023,11/12,Tiger Style Invite,149,L,MD,12 - 1,Ethen Miller,70914,Maryland,Jake Harrier,70723,Illinois
+2023,11/05,Michigan State Open,149,L,DEC,3 - 1,Tyson Humpherys,67449,Utah Valley,Jake Harrier,70723,Illinois
+2023,11/05,Michigan State Open,149,L,MD,14 - 1,Mitch Moore,50620,Oklahoma,Jake Harrier,70723,Illinois
+2023,11/05,Michigan State Open,149,W,DEC,9 - 8,Douglas Terry,70741,Cleveland State,Jake Harrier,70723,Illinois
+2023,01/06,Illinois - Iowa Dual,149,L,FALL,3:34,Max Murin,49148,Iowa,Kevon Davenport,57216,Illinois
+2023,12/03,Pittsburgh - Illinois Dual,149,L,DEC,4 - 2,Tyler Badgett,67118,Pittsburgh,Kevon Davenport,57216,Illinois
+2023,12/03,Chattanooga - Illinois Dual,149,L,FALL,3:28,Noah Castillo,67364,Chattanooga,Kevon Davenport,57216,Illinois
+2023,11/18,Illinois - North Carolina State Dual,149,L,MD,10 - 2,Jackson Arrington,72497,NC State,Kevon Davenport,57216,Illinois
+2023,11/18,Illinois - Buffalo Dual,149,W,DEC,5 - 3,Kaleb Burgess,72225,Buffalo,Kevon Davenport,57216,Illinois
+2023,11/12,Tiger Style Invite,149,L,DEC,3 - 2,Ethen Miller,70914,Maryland,Kevon Davenport,57216,Illinois
+2023,11/12,Tiger Style Invite,149,W,DEC,6 - 0,Dominic Findora,78518,Drexel,Kevon Davenport,57216,Illinois
+2023,11/12,Tiger Style Invite,149,W,FALL,0:52,Luke Nichter,67003,Drexel,Kevon Davenport,57216,Illinois
+2023,11/12,Tiger Style Invite,149,L,DEC,5 - 3,Dominick Demas,49256,Cal Poly,Kevon Davenport,57216,Illinois
+2023,11/05,Michigan State Open,149,W,DEC,6 - 2,Stockton O'Brien,67451,Utah Valley,Kevon Davenport,57216,Illinois
+2023,11/05,Michigan State Open,149,W,FALL,0:23,Jeffery Mullinax,58124,Findlay,Kevon Davenport,57216,Illinois
+2023,11/05,Michigan State Open,149,L,DEC,11 - 9,Isaiah Delgado,57056,Utah Valley,Kevon Davenport,57216,Illinois
+2023,11/05,Michigan State Open,149,L,TF5,25 - 9 7:00,Sammy Sasso,51143,Ohio State,Kevon Davenport,57216,Illinois
+2023,11/05,Michigan State Open,149,W,DEC,8 - 2,Douglas Terry,70741,Cleveland State,Kevon Davenport,57216,Illinois
+2023,11/13,Ohio Intercollegiate Open,149,W,FALL,2:05,Hayden Butterfield,67032,Gannon,Michael Gunther,62742,Illinois
+2023,11/13,Ohio Intercollegiate Open,149,L,DEC,6 - 0,Nico Bolivar,62427,Indiana,Michael Gunther,62742,Illinois
+2023,11/13,Ohio Intercollegiate Open,149,L,DEC,8 - 4,Jack Gorman,58613,Cleveland State,Michael Gunther,62742,Illinois
+2023,11/05,Michigan State Open,149,W,FALL,0:41,Kavan Troy,74321,Northern Illinois,Michael Gunther,62742,Illinois
+2023,11/05,Michigan State Open,149,W,FALL,1:19,Andrew Kakoos,64836,Grand Valley State University,Michael Gunther,62742,Illinois
+2023,11/05,Michigan State Open,149,L,FALL,2:07,Sammy Sasso,51143,Ohio State,Michael Gunther,62742,Illinois
+2023,11/05,Michigan State Open,149,L,FALL,4:22,Mason Shrader,73720,Central Michigan,Michael Gunther,62742,Illinois
+2023,02/05,Greyhound Open,149,W,FALL,2:34,Reese Hamblen,83073,Ancilla College,Charlie Fifield,79033,Illinois
+2023,02/05,Greyhound Open,149,L,DEC,4 - 3,Gavin Garcia,79491,Indianapolis,Charlie Fifield,79033,Illinois
+2023,02/05,Greyhound Open,149,L,DEC,7 - 0,Jackson Hoover,72578,Indianapolis,Charlie Fifield,79033,Illinois
+2023,01/21,Harper Open,149,W,MD,13 - 4,Lucio Morgan,80983,Wisconsin-Whitewater,Charlie Fifield,79033,Illinois
+2023,01/21,Harper Open,149,W,TF5,17 - 0 7:00,Omar Zamora,80460,Rochester Community & Tech College,Charlie Fifield,79033,Illinois
+2023,01/21,Harper Open,149,W,FALL,5:50,Ben Zeman,80443,Triton College,Charlie Fifield,79033,Illinois
+2023,01/21,Harper Open,149,L,SV-1,3 - 1,Alec Peralta,78291,SIU Edwardsville,Charlie Fifield,79033,Illinois
+2023,11/19,Lindenwood Open,149,L,FALL,6:04,Paul West,82037,Unattached,Charlie Fifield,79033,Illinois
+2023,11/19,Lindenwood Open,149,W,TF5,18 - 0 7:00,Clay Queen Jr,82032,Lyon College,Charlie Fifield,79033,Illinois
+2023,11/19,Lindenwood Open,149,W,FALL,5:00,Ryan Schepers,79134,McKendree University,Charlie Fifield,79033,Illinois
+2023,11/19,Lindenwood Open,149,W,TF5,16 - 1 7:00,Jonathan Vincent,74840,Labette Community College,Charlie Fifield,79033,Illinois
+2023,11/19,Lindenwood Open,149,L,DEC,7 - 1,Easton Hilton,73655,Missouri,Charlie Fifield,79033,Illinois
+2023,11/05,Michigan State Open,149,L,DEC,11 - 5,Josh Howey,79449,Lake Erie College,Charlie Fifield,79033,Illinois
+2023,11/05,Michigan State Open,149,L,FALL,2:34,Cody Goebel,79251,Wisconsin,Charlie Fifield,79033,Illinois
+2023,03/05,Big Ten True Matches,157,L,DEC,9 - 6,Andrew Clark,66883,Rutgers,Mike Carr,44645,Illinois
+2023,03/04,Big Ten Championships,157,L,MD,10 - 2,Derek Gilcher,62760,Indiana,Mike Carr,44645,Illinois
+2023,03/04,Big Ten Championships,157,L,DEC,2 - 1,Trevor Chumbley,57938,Northwestern,Mike Carr,44645,Illinois
+2023,02/12,Illinois - Iowa State Dual,157,W,DEC,10 - 8,Jason Kraisser,57287,Iowa State,Mike Carr,44645,Illinois
+2023,01/28,Illinois - Minnesota Dual,157,W,DEC,11 - 6,Sebas Swiggum,57336,Minnesota,Mike Carr,44645,Illinois
+2023,01/22,Maryland - Illinois Dual,157,W,TF5,22 - 7 7:00,Kevin Schork,72105,Maryland,Mike Carr,44645,Illinois
+2023,01/06,Illinois - Iowa Dual,157,W,DEC,12 - 7,Cobe Siebrecht,60716,Iowa,Mike Carr,44645,Illinois
+2023,02/12,Illinois - Iowa State Dual,165,L,MD,16 - 2,David Carr,51126,Iowa State,Anthony Federico,67140,Illinois
+2023,02/05,Illinois - Michigan State Dual,157,L,DEC,2 - 0,Chase Saldate,61118,Michigan State,Anthony Federico,67140,Illinois
+2023,02/03,Nebraska - Illinois Dual,157,L,FALL,4:08,Peyton Robb,56387,Nebraska,Anthony Federico,67140,Illinois
+2023,01/20,Illinois - Northwestern Dual,157,L,MD,10 - 2,Trevor Chumbley,57938,Northwestern,Anthony Federico,67140,Illinois
+2023,01/14,Purdue - Illinois Dual,157,L,DEC,8 - 2,Kendall Coleman,50626,Purdue,Anthony Federico,67140,Illinois
+2023,01/08,Wisconsin - Illinois Dual,157,L,DEC,5 - 1,Garrett Model,49351,Wisconsin,Anthony Federico,67140,Illinois
+2023,12/03,Chattanooga - Illinois Dual,157,L,DEC,3 - 2,Lincoln Heck,66629,Chattanooga,Anthony Federico,67140,Illinois
+2023,11/18,Illinois - North Carolina State Dual,157,L,MD,15 - 3,Ed Scott,64653,NC State,Anthony Federico,67140,Illinois
+2023,11/12,Tiger Style Invite,157,L,SV-1,7 - 5,Luke Odom,61117,Illinois,Anthony Federico,67140,Illinois
+2023,11/12,Tiger Style Invite,157,W,DEC,6 - 2,Brendon Abdon,73189,Little Rock,Anthony Federico,67140,Illinois
+2023,11/12,Tiger Style Invite,157,W,DEC,8 - 2,Kevin Schork,72105,Maryland,Anthony Federico,67140,Illinois
+2023,11/12,Tiger Style Invite,157,W,DEC,5 - 4,Logan Gioffre,66985,Missouri,Anthony Federico,67140,Illinois
+2023,11/12,Tiger Style Invite,157,L,MD,11 - 2,Michael North,57335,Maryland,Anthony Federico,67140,Illinois
+2023,11/12,Tiger Style Invite,157,L,DEC,3 - 1,Luka Wick,71782,Cal Poly,Anthony Federico,67140,Illinois
+2023,11/05,Michigan State Open,149,W,FALL,1:28,Mason Kleinberg,71252,Findlay,Anthony Federico,67140,Illinois
+2023,11/05,Michigan State Open,149,L,DEC,4 - 1,Isaiah Delgado,57056,Utah Valley,Anthony Federico,67140,Illinois
+2023,11/05,Michigan State Open,149,W,DEC,6 - 1,Jack Gorman,58613,Cleveland State,Anthony Federico,67140,Illinois
+2023,11/05,Michigan State Open,149,L,DEC,4 - 0,Johnny Lovett,61935,Central Michigan,Anthony Federico,67140,Illinois
+2023,11/05,Michigan State Open,157,L,DEC,7 - 6,Jaxon Garoutte,67450,Utah Valley,Joe Roberts,62344,Illinois
+2023,11/05,Michigan State Open,157,W,DEC,8 - 6,Cam Picklo,66941,Oklahoma,Joe Roberts,62344,Illinois
+2023,11/05,Michigan State Open,157,W,DEC,10 - 5,Logan Sanom,62487,Findlay,Joe Roberts,62344,Illinois
+2023,11/05,Michigan State Open,157,L,DEC,3 - 2,Isaac Wilcox,60592,Ohio State,Joe Roberts,62344,Illinois
+2023,11/05,Michigan State Open,157,W,DEC,12 - 5,Trenton Wachter,73721,Central Michigan,Joe Roberts,62344,Illinois
+2023,12/03,Pittsburgh - Illinois Dual,157,L,FALL,4:58,Dazjon Casto,57183,Pittsburgh,Luke Odom,61117,Illinois
+2023,11/18,Illinois - Buffalo Dual,157,L,FALL,5:40,Nick Stampoulos,74398,Buffalo,Luke Odom,61117,Illinois
+2023,11/12,Tiger Style Invite,157,W,SV-1,7 - 5,Anthony Federico,67140,Illinois,Luke Odom,61117,Illinois
+2023,11/12,Tiger Style Invite,157,L,DEC,6 - 2,Logan Gioffre,66985,Missouri,Luke Odom,61117,Illinois
+2023,11/12,Tiger Style Invite,157,W,MD,8 - 0,Austin Keal,63055,Little Rock,Luke Odom,61117,Illinois
+2023,11/12,Tiger Style Invite,157,L,TF5,20 - 5 7:00,Jarrett Jacques,50597,Missouri,Luke Odom,61117,Illinois
+2023,11/05,Michigan State Open,157,W,DEC,10 - 8,Cam Picklo,66941,Oklahoma,Luke Odom,61117,Illinois
+2023,11/05,Michigan State Open,157,L,DEC,6 - 1,Daniel Segura,65313,Ohio,Luke Odom,61117,Illinois
+2023,11/05,Michigan State Open,157,W,FALL,1:57,Ryan Granger,69360,Cleveland State,Luke Odom,61117,Illinois
+2023,11/05,Michigan State Open,157,L,MD,11 - 2,Corbyn Munson,51197,Central Michigan,Luke Odom,61117,Illinois
+2023,12/10,UNI Open,157,L,FALL,5:00,Jeremy Jakowitsch,73386,Missouri,Jake Reicin,62740,Illinois
+2023,12/10,UNI Open,157,L,MD,16 - 2,Wade Mitchell,62689,Northern Iowa,Jake Reicin,62740,Illinois
+2023,11/12,Tiger Style Invite,165,L,FALL,1:56,Chance Davis,72127,Little Rock,Jake Reicin,62740,Illinois
+2023,11/12,Tiger Style Invite,165,L,SV-1,3 - 1,Cash Stewart,77763,Cal Poly,Jake Reicin,62740,Illinois
+2023,11/05,Michigan State Open,157,L,DEC,7 - 1,Aiden Vandenbush,73000,Northwestern,Jake Reicin,62740,Illinois
+2023,11/05,Michigan State Open,157,L,MD,18 - 4,Maxx Mayfield,62981,Northwestern,Jake Reicin,62740,Illinois
+2023,03/16,NCAA Championships,165,L,DEC,17 - 15,Julian Ramirez,56706,Cornell,Danny Braunagel,50926,Illinois
+2023,03/16,NCAA Championships,165,L,FALL,2:47,Dean Hamiti,62894,Wisconsin,Danny Braunagel,50926,Illinois
+2023,03/16,NCAA Championships,165,W,MD,16 - 5,Peyton Hall,57711,West Virginia,Danny Braunagel,50926,Illinois
+2023,03/04,Big Ten Championships,165,L,DEC,3 - 1,Alex Facundo,66706,Penn State,Danny Braunagel,50926,Illinois
+2023,03/04,Big Ten Championships,165,L,DEC,2 - 0,Andrew Sparks,67049,Minnesota,Danny Braunagel,50926,Illinois
+2023,03/04,Big Ten Championships,165,W,FALL,6:00,Caleb Fish,63045,Michigan State,Danny Braunagel,50926,Illinois
+2023,03/04,Big Ten Championships,165,L,DEC,3 - 2,Maxx Mayfield,62981,Northwestern,Danny Braunagel,50926,Illinois
+2023,02/05,Illinois - Michigan State Dual,165,L,MD,12 - 4,Caleb Fish,63045,Michigan State,Danny Braunagel,50926,Illinois
+2023,02/03,Nebraska - Illinois Dual,165,W,MD,14 - 5,Adam Thebeau,72160,Nebraska,Danny Braunagel,50926,Illinois
+2023,01/28,Illinois - Minnesota Dual,165,L,DEC,2 - 1,Cael Carlson,57337,Minnesota,Danny Braunagel,50926,Illinois
+2023,01/22,Maryland - Illinois Dual,165,W,DEC,13 - 6,John Martin Best,63025,Maryland,Danny Braunagel,50926,Illinois
+2023,01/20,Illinois - Northwestern Dual,165,L,DEC,8 - 3,Maxx Mayfield,62981,Northwestern,Danny Braunagel,50926,Illinois
+2023,01/14,Purdue - Illinois Dual,165,W,FALL,4:02,Stoney Buell,72153,Purdue,Danny Braunagel,50926,Illinois
+2023,01/08,Wisconsin - Illinois Dual,165,L,TF5,15 - 0 7:00,Dean Hamiti,62894,Wisconsin,Danny Braunagel,50926,Illinois
+2023,01/06,Illinois - Iowa Dual,165,L,MD,15 - 4,Patrick Kennedy,56760,Iowa,Danny Braunagel,50926,Illinois
+2023,12/29,Midlands Championships,165,W,DEC,8 - 1,Maxx Mayfield,62981,Northwestern,Danny Braunagel,50926,Illinois
+2023,12/29,Midlands Championships,165,L,DEC,6 - 4,Quincy Monday,53967,Princeton,Danny Braunagel,50926,Illinois
+2023,12/29,Midlands Championships,165,W,DEC,10 - 4,Justin McCoy,50946,Virginia,Danny Braunagel,50926,Illinois
+2023,12/29,Midlands Championships,165,W,DEC,7 - 6,Peyton Hall,57711,West Virginia,Danny Braunagel,50926,Illinois
+2023,12/29,Midlands Championships,165,W,MD,14 - 4,Connor O'Neill,62354,Rutgers,Danny Braunagel,50926,Illinois
+2023,12/29,Midlands Championships,165,W,MFOR,0 - 0,Izzak Olejnik,56509,Northern Illinois,Danny Braunagel,50926,Illinois
+2023,12/03,Pittsburgh - Illinois Dual,165,W,SV-1,9 - 7,Holden Heller,50940,Pittsburgh,Danny Braunagel,50926,Illinois
+2023,12/03,Chattanooga - Illinois Dual,165,W,TF5,22 - 7 6:04,Jackson Hurst,73352,Chattanooga,Danny Braunagel,50926,Illinois
+2023,11/18,Illinois - North Carolina State Dual,165,W,DEC,9 - 3,Alex Faison,56428,NC State,Danny Braunagel,50926,Illinois
+2023,11/18,Illinois - Buffalo Dual,165,W,FALL,4:42,Noah Grover,51227,Buffalo,Danny Braunagel,50926,Illinois
+2023,11/12,Tiger Style Invite,165,W,MD,18 - 7,James Conway,73529,Missouri,Danny Braunagel,50926,Illinois
+2023,11/12,Tiger Style Invite,165,W,TF5,18 - 1 2:50,Chance Davis,72127,Little Rock,Danny Braunagel,50926,Illinois
+2023,11/12,Tiger Style Invite,165,L,FALL,6:11,Keegan O'Toole,61119,Missouri,Danny Braunagel,50926,Illinois
+2023,11/12,Tiger Style Invite,165,W,MD,10 - 2,Cody Walsh,71125,Drexel,Danny Braunagel,50926,Illinois
+2023,11/05,Michigan State Open,165,W,FALL,6:09,Gavin Model,63172,Wisconsin,Danny Braunagel,50926,Illinois
+2023,11/05,Michigan State Open,165,W,MD,11 - 2,Gerrit Nijenhuis,62352,Oklahoma,Danny Braunagel,50926,Illinois
+2023,11/05,Michigan State Open,165,L,DEC,6 - 2,Izzak Olejnik,56509,Northern Illinois,Danny Braunagel,50926,Illinois
+2023,11/05,Michigan State Open,165,W,FALL,4:21,Kameron Bush,49080,Olivet,Danny Braunagel,50926,Illinois
+2023,03/16,NCAA Championships,174,L,DEC,4 - 1,Nelson Brands,49994,Iowa,Edmond Ruth,51277,Illinois
+2023,03/16,NCAA Championships,174,W,DEC,6 - 5,Donnell Washington,57738,Indiana,Edmond Ruth,51277,Illinois
+2023,03/16,NCAA Championships,174,W,DEC,2 - 0,Rocky Jordan,50928,Chattanooga,Edmond Ruth,51277,Illinois
+2023,03/16,NCAA Championships,174,L,DEC,4 - 2,Bailee O'Reilly,50166,Minnesota,Edmond Ruth,51277,Illinois
+2023,03/16,NCAA Championships,174,W,MD,14 - 4,Phillip Conigliaro,51201,Harvard,Edmond Ruth,51277,Illinois
+2023,03/04,Big Ten Championships,174,L,DEC,5 - 1,Nelson Brands,49994,Iowa,Edmond Ruth,51277,Illinois
+2023,03/04,Big Ten Championships,174,L,DEC,4 - 2,Ethan Smith,50025,Ohio State,Edmond Ruth,51277,Illinois
+2023,03/04,Big Ten Championships,174,W,DEC,6 - 2,Ceasar Garza,73104,Michigan State,Edmond Ruth,51277,Illinois
+2023,03/04,Big Ten Championships,174,W,DEC,5 - 1,Dominic Solis,66460,Maryland,Edmond Ruth,51277,Illinois
+2023,03/04,Big Ten Championships,174,W,TB-1,4 - 3,Jackson Turley,57636,Rutgers,Edmond Ruth,51277,Illinois
+2023,03/04,Big Ten Championships,174,L,DEC,4 - 2,Bailee O'Reilly,50166,Minnesota,Edmond Ruth,51277,Illinois
+2023,02/12,Illinois - Iowa State Dual,174,W,DEC,3 - 2,Julien Broderson,57644,Iowa State,Edmond Ruth,51277,Illinois
+2023,02/05,Illinois - Michigan State Dual,174,W,DEC,13 - 7,Ceasar Garza,73104,Michigan State,Edmond Ruth,51277,Illinois
+2023,02/03,Nebraska - Illinois Dual,174,L,SV-1,8 - 6,Michael Labriola,49207,Nebraska,Edmond Ruth,51277,Illinois
+2023,01/28,Illinois - Minnesota Dual,174,L,DEC,6 - 4,Bailee O'Reilly,50166,Minnesota,Edmond Ruth,51277,Illinois
+2023,01/22,Maryland - Illinois Dual,174,W,DEC,2 - 0,Dominic Solis,66460,Maryland,Edmond Ruth,51277,Illinois
+2023,01/20,Illinois - Northwestern Dual,174,W,TF5,16 - 0 5:28,Ankhaa Enkhmandakh,62897,Northwestern,Edmond Ruth,51277,Illinois
+2023,01/14,Purdue - Illinois Dual,174,W,MD,12 - 4,Cooper Noehre,65006,Purdue,Edmond Ruth,51277,Illinois
+2023,01/08,Wisconsin - Illinois Dual,174,W,DEC,4 - 1,Joshua Otto,56743,Wisconsin,Edmond Ruth,51277,Illinois
+2023,01/06,Illinois - Iowa Dual,174,W,TB-1,2 - 1,Nelson Brands,49994,Iowa,Edmond Ruth,51277,Illinois
+2023,12/29,Midlands Championships,174,W,DEC,5 - 2,Alex Whitworth,71873,Harvard,Edmond Ruth,51277,Illinois
+2023,12/29,Midlands Championships,174,W,DEC,5 - 3,Luca Augustine,68730,Pittsburgh,Edmond Ruth,51277,Illinois
+2023,12/29,Midlands Championships,174,W,SV-1,3 - 1,Brody Conley,71814,West Virginia,Edmond Ruth,51277,Illinois
+2023,12/29,Midlands Championships,174,W,DEC,4 - 1,Nick Incontrera,57070,Pennsylvania,Edmond Ruth,51277,Illinois
+2023,12/29,Midlands Championships,174,W,DEC,10 - 4,Alex Cramer,56732,Central Michigan,Edmond Ruth,51277,Illinois
+2023,12/03,Pittsburgh - Illinois Dual,174,W,SV-1,3 - 1,Luca Augustine,68730,Pittsburgh,Edmond Ruth,51277,Illinois
+2023,12/03,Chattanooga - Illinois Dual,174,W,DEC,5 - 2,Rocky Jordan,50928,Chattanooga,Edmond Ruth,51277,Illinois
+2023,11/18,Illinois - North Carolina State Dual,174,W,DEC,7 - 3,Brock Delsignore,71935,NC State,Edmond Ruth,51277,Illinois
+2023,11/18,Illinois - Buffalo Dual,174,W,TB-2,2 - 1,Jay Nivison,65850,Buffalo,Edmond Ruth,51277,Illinois
+2023,11/12,Tiger Style Invite,174,W,MD,16 - 6,Ellis Pfleger,64647,Missouri,Edmond Ruth,51277,Illinois
+2023,11/12,Tiger Style Invite,174,W,DEC,6 - 2,Trey Sizemore,62241,Illinois,Edmond Ruth,51277,Illinois
+2023,11/12,Tiger Style Invite,174,W,DEC,7 - 5,Peyton Mocco,50635,Missouri,Edmond Ruth,51277,Illinois
+2023,11/12,Tiger Style Invite,174,W,MD,12 - 2,Nathan Tausch,51102,Cal Poly,Edmond Ruth,51277,Illinois
+2023,11/05,Michigan State Open,174,W,TF5,19 - 2 7:00,Steele Boysel,71992,Findlay,Edmond Ruth,51277,Illinois
+2023,11/05,Michigan State Open,174,W,SV-1,3 - 1,Darrien Roberts,60446,Oklahoma,Edmond Ruth,51277,Illinois
+2023,11/05,Michigan State Open,174,W,DEC,4 - 2,Darrien Roberts,60446,Oklahoma,Edmond Ruth,51277,Illinois
+2023,11/05,Michigan State Open,174,W,TF5,15 - 0 6:32,Max Maylor,56310,Michigan,Edmond Ruth,51277,Illinois
+2023,11/05,Michigan State Open,174,L,DEC,3 - 1,Ethan Smith,50025,Ohio State,Edmond Ruth,51277,Illinois
+2023,12/29,Midlands Championships,174,W,MFOR,0 - 0,Troy Fisher,57601,Northwestern,Trey Sizemore,62241,Illinois
+2023,12/29,Midlands Championships,174,L,MD,12 - 2,Kole Mulhauser,73135,Princeton,Trey Sizemore,62241,Illinois
+2023,12/29,Midlands Championships,174,W,DEC,9 - 2,Justin Phillips,57093,Virginia,Trey Sizemore,62241,Illinois
+2023,12/29,Midlands Championships,174,L,DEC,4 - 2,Brody Conley,71814,West Virginia,Trey Sizemore,62241,Illinois
+2023,12/29,Midlands Championships,174,L,DEC,7 - 2,Alex Cramer,56732,Central Michigan,Trey Sizemore,62241,Illinois
+2023,12/29,Midlands Championships,174,W,DEC,6 - 2,Hayden Pummel,73344,Northern Illinois,Trey Sizemore,62241,Illinois
+2023,12/29,Midlands Championships,174,W,MD,14 - 0,JR Reed,78598,Cleveland State,Trey Sizemore,62241,Illinois
+2023,11/12,Tiger Style Invite,174,L,DEC,6 - 2,Edmond Ruth,51277,Illinois,Trey Sizemore,62241,Illinois
+2023,11/12,Tiger Style Invite,174,W,SV-1,3 - 1,Caden Ernd,71871,Illinois,Trey Sizemore,62241,Illinois
+2023,11/12,Tiger Style Invite,174,W,MFOR,0 - 0,Michael O'Malley,50836,Drexel,Trey Sizemore,62241,Illinois
+2023,11/12,Tiger Style Invite,174,L,DEC,5 - 3,Kendall LaRosa,66261,Cal Poly,Trey Sizemore,62241,Illinois
+2023,11/05,Michigan State Open,174,W,DEC,7 - 0,Kamal Adewumi,60766,Ohio,Trey Sizemore,62241,Illinois
+2023,11/05,Michigan State Open,174,L,DEC,6 - 2,Darrien Roberts,60446,Oklahoma,Trey Sizemore,62241,Illinois
+2023,11/05,Michigan State Open,174,L,MD,15 - 3,Ethan Smith,50025,Ohio State,Trey Sizemore,62241,Illinois
+2023,11/05,Michigan State Open,174,W,DEC,9 - 2,Cody Brenner,73723,Central Michigan,Trey Sizemore,62241,Illinois
+2023,02/19,Last Chance Open,174,L,DEC,3 - 2,Devin Wasley,78580,Minnesota,Caden Ernd,71871,Illinois
+2023,02/19,Last Chance Open,174,L,DEC,2 - 0,Carter Schmidt,62606,Iowa State,Caden Ernd,71871,Illinois
+2023,02/19,Last Chance Open,174,L,DEC,5 - 0,Julien Broderson,57644,Iowa State,Caden Ernd,71871,Illinois
+2023,02/19,Last Chance Open,174,W,FALL,2:01,Jared Shafer,79809,Lindenwood,Caden Ernd,71871,Illinois
+2023,02/05,Greyhound Open,174,W,MD,11 - 2,Lucas Wendling,79135,McKendree University,Caden Ernd,71871,Illinois
+2023,02/05,Greyhound Open,174,W,FALL,3:56,Eero Gross,72016,Wabash,Caden Ernd,71871,Illinois
+2023,02/05,Greyhound Open,174,L,MD,11 - 2,Brody Baumann,73558,Purdue,Caden Ernd,71871,Illinois
+2023,02/05,Greyhound Open,174,W,SV-1,3 - 1,Isiah Levitz,69356,Indiana,Caden Ernd,71871,Illinois
+2023,02/05,Greyhound Open,174,W,DEC,4 - 3,Isiah Levitz,69356,Indiana,Caden Ernd,71871,Illinois
+2023,12/29,Midlands Championships,174,L,DEC,4 - 3,Danny Wask,72981,US Naval Academy Prep School,Caden Ernd,71871,Illinois
+2023,12/29,Midlands Championships,174,L,DEC,6 - 5,Cael Valencia,70908,Arizona State,Caden Ernd,71871,Illinois
+2023,12/29,Midlands Championships,174,W,DEC,6 - 1,Chase Diehl,60388,SIU Edwardsville,Caden Ernd,71871,Illinois
+2023,11/12,Tiger Style Invite,174,L,SV-1,3 - 1,Trey Sizemore,62241,Illinois,Caden Ernd,71871,Illinois
+2023,11/12,Tiger Style Invite,174,L,DEC,8 - 2,Peyton Mocco,50635,Missouri,Caden Ernd,71871,Illinois
+2023,11/12,Tiger Style Invite,174,W,DEC,7 - 5,Jack Janda,71665,Drexel,Caden Ernd,71871,Illinois
+2023,11/12,Tiger Style Invite,174,L,DEC,7 - 6,Nathan Tausch,51102,Cal Poly,Caden Ernd,71871,Illinois
+2023,11/05,Michigan State Open,174,W,DEC,9 - 8,Owen Guilford,63240,Olivet,Caden Ernd,71871,Illinois
+2023,11/05,Michigan State Open,174,L,DEC,7 - 4,Max Maylor,56310,Michigan,Caden Ernd,71871,Illinois
+2023,11/05,Michigan State Open,174,W,SV-1,8 - 6,DJ Shannon,51137,Michigan State,Caden Ernd,71871,Illinois
+2023,11/05,Michigan State Open,174,L,MD,10 - 2,Alex Cramer,56732,Central Michigan,Caden Ernd,71871,Illinois
+2023,03/16,NCAA Championships,184,L,DEC,8 - 4,David Key,56717,Navy,Dylan Connell,67216,Illinois
+2023,03/16,NCAA Championships,184,L,DEC,4 - 0,Travis Wittlake,50615,Oklahoma State,Dylan Connell,67216,Illinois
+2023,03/05,Big Ten True Matches,184,W,DEC,6 - 0,Evan Bates,72133,Northwestern,Dylan Connell,67216,Illinois
+2023,03/05,Big Ten True Matches,184,W,MD,8 - 0,Ben Vanadia,68732,Purdue,Dylan Connell,67216,Illinois
+2023,03/04,Big Ten Championships,184,L,SV-1,4 - 2,Brian Soldano,67558,Rutgers,Dylan Connell,67216,Illinois
+2023,03/04,Big Ten Championships,184,L,INJ,0:57,Lenny Pinto,63137,Nebraska,Dylan Connell,67216,Illinois
+2023,02/12,Illinois - Iowa State Dual,184,L,TF5,20 - 4 5:44,Marcus Coleman,49154,Iowa State,Dylan Connell,67216,Illinois
+2023,02/05,Illinois - Michigan State Dual,184,L,DEC,2 - 0,Layne Malczewski,51828,Michigan State,Dylan Connell,67216,Illinois
+2023,02/03,Nebraska - Illinois Dual,184,L,DEC,7 - 1,Lenny Pinto,63137,Nebraska,Dylan Connell,67216,Illinois
+2023,01/28,Illinois - Minnesota Dual,184,L,DEC,3 - 2,Isaiah Salazar,62340,Minnesota,Dylan Connell,67216,Illinois
+2023,01/22,Maryland - Illinois Dual,184,W,MD,11 - 2,Chase Mielnik,67431,Maryland,Dylan Connell,67216,Illinois
+2023,01/20,Illinois - Northwestern Dual,184,W,DEC,3 - 1,Jon Halvorsen,62898,Northwestern,Dylan Connell,67216,Illinois
+2023,01/14,Purdue - Illinois Dual,184,W,DEC,9 - 2,Ben Vanadia,68732,Purdue,Dylan Connell,67216,Illinois
+2023,01/08,Wisconsin - Illinois Dual,184,W,DEC,5 - 3,Tyler Dow,50622,Wisconsin,Dylan Connell,67216,Illinois
+2023,01/06,Illinois - Iowa Dual,184,L,DEC,3 - 1,Abe Assad,56936,Iowa,Dylan Connell,67216,Illinois
+2023,12/29,Midlands Championships,184,W,MD,10 - 2,Luke Rada,67359,Harvard,Dylan Connell,67216,Illinois
+2023,12/29,Midlands Championships,184,W,DEC,3 - 2,Jon Halvorsen,62898,Northwestern,Dylan Connell,67216,Illinois
+2023,12/29,Midlands Championships,184,L,SV-1,2 - 0,Reece Heller,61961,Pittsburgh,Dylan Connell,67216,Illinois
+2023,12/29,Midlands Championships,184,W,TF5,15 - 0 7:00,Leonardo Tarantino,51222,Harvard,Dylan Connell,67216,Illinois
+2023,12/29,Midlands Championships,184,W,FALL,0:30,Anthony Carman,62423,West Virginia,Dylan Connell,67216,Illinois
+2023,12/29,Midlands Championships,184,L,DEC,5 - 2,Brian Soldano,67558,Rutgers,Dylan Connell,67216,Illinois
+2023,12/29,Midlands Championships,184,W,DEC,6 - 2,Dylan Fishback,69792,NC State,Dylan Connell,67216,Illinois
+2023,12/29,Midlands Championships,184,W,DEC,3 - 1,Rylan Rogers,72668,Michigan,Dylan Connell,67216,Illinois
+2023,12/03,Pittsburgh - Illinois Dual,184,L,DEC,8 - 1,Reece Heller,61961,Pittsburgh,Dylan Connell,67216,Illinois
+2023,12/03,Chattanooga - Illinois Dual,184,W,DEC,3 - 1,Matthew Waddell,49259,Chattanooga,Dylan Connell,67216,Illinois
+2023,11/18,Illinois - North Carolina State Dual,184,L,TF5,23 - 7 5:37,Trent Hidlay,51224,NC State,Dylan Connell,67216,Illinois
+2023,11/18,Illinois - Buffalo Dual,184,L,DEC,4 - 3,Guiseppe Hoose,56371,Buffalo,Dylan Connell,67216,Illinois
+2023,11/12,Tiger Style Invite,184,L,DEC,5 - 4,Clayton Whiting,72552,Missouri,Dylan Connell,67216,Illinois
+2023,11/12,Tiger Style Invite,184,L,DEC,2 - 1,Clayton Whiting,72552,Missouri,Dylan Connell,67216,Illinois
+2023,11/12,Tiger Style Invite,184,W,FALL,5:00,Tylynn Lukens,70993,Little Rock,Dylan Connell,67216,Illinois
+2023,11/12,Tiger Style Invite,184,W,DEC,10 - 4,Brian Bonino,51034,Drexel,Dylan Connell,67216,Illinois
+2023,11/05,Michigan State Open,184,W,TF5,16 - 0 7:00,Devonjae Hudson,73346,Northern Illinois,Dylan Connell,67216,Illinois
+2023,11/05,Michigan State Open,184,W,MFOR,0 - 0,Jadon Martin,62982,Northwestern,Dylan Connell,67216,Illinois
+2023,11/05,Michigan State Open,184,L,DEC,3 - 2,Grayden Penner,62524,Oklahoma,Dylan Connell,67216,Illinois
+2023,11/05,Michigan State Open,184,W,DEC,9 - 3,Jack Jessen,50838,Northwestern,Dylan Connell,67216,Illinois
+2023,11/05,Michigan State Open,184,L,MD,18 - 5,Kaleb Romero,49252,Ohio State,Dylan Connell,67216,Illinois
+2023,03/16,NCAA Championships,197,L,DEC,6 - 4,Jacob Cardenas,56770,Cornell,Zach Braunagel,50925,Illinois
+2023,03/16,NCAA Championships,197,L,DEC,3 - 2,Ethan Laird,50134,Rider,Zach Braunagel,50925,Illinois
+2023,03/16,NCAA Championships,197,W,DEC,7 - 6,Michael Beard,50614,Lehigh,Zach Braunagel,50925,Illinois
+2023,03/16,NCAA Championships,197,W,FALL,3:59,Andy Smith,63528,Virginia Tech,Zach Braunagel,50925,Illinois
+2023,03/04,Big Ten Championships,197,L,SV-1,5 - 3,Jaxon Smith,68714,Maryland,Zach Braunagel,50925,Illinois
+2023,03/04,Big Ten Championships,197,W,INJ,6:17,Cameron Caffey,50273,Michigan State,Zach Braunagel,50925,Illinois
+2023,03/04,Big Ten Championships,197,W,MD,11 - 3,Hayden Filipovich,71689,Purdue,Zach Braunagel,50925,Illinois
+2023,03/04,Big Ten Championships,197,W,SV-1,6 - 4,Jaxon Smith,68714,Maryland,Zach Braunagel,50925,Illinois
+2023,03/04,Big Ten Championships,197,L,DEC,4 - 3,Silas Allred,62343,Nebraska,Zach Braunagel,50925,Illinois
+2023,02/12,Illinois - Iowa State Dual,197,W,DEC,5 - 3,Yonger Bastida,70963,Iowa State,Zach Braunagel,50925,Illinois
+2023,02/05,Illinois - Michigan State Dual,197,L,DEC,6 - 4,Cameron Caffey,50273,Michigan State,Zach Braunagel,50925,Illinois
+2023,02/03,Nebraska - Illinois Dual,197,L,FALL,5:28,Silas Allred,62343,Nebraska,Zach Braunagel,50925,Illinois
+2023,01/28,Illinois - Minnesota Dual,197,W,TB-1,5 - 4,Michial Foy,53189,Minnesota,Zach Braunagel,50925,Illinois
+2023,01/20,Illinois - Northwestern Dual,197,W,DEC,3 - 2,Andrew Davison,49178,Northwestern,Zach Braunagel,50925,Illinois
+2023,01/14,Purdue - Illinois Dual,197,W,MD,19 - 6,Hayden Filipovich,71689,Purdue,Zach Braunagel,50925,Illinois
+2023,01/08,Wisconsin - Illinois Dual,197,W,DEC,4 - 3,Braxton Amos,62756,Wisconsin,Zach Braunagel,50925,Illinois
+2023,01/06,Illinois - Iowa Dual,197,W,DEC,3 - 1,Jacob Warner,49151,Iowa,Zach Braunagel,50925,Illinois
+2023,12/29,Midlands Championships,197,W,TB-2,2 - 1,Braxton Amos,62756,Wisconsin,Zach Braunagel,50925,Illinois
+2023,12/29,Midlands Championships,197,W,MD,11 - 3,Jonathan Fagen,57304,Arizona State,Zach Braunagel,50925,Illinois
+2023,12/29,Midlands Championships,197,W,DEC,4 - 3,Luke Stout,62599,Princeton,Zach Braunagel,50925,Illinois
+2023,12/29,Midlands Championships,197,W,DEC,4 - 1,Michael Battista,51672,Virginia,Zach Braunagel,50925,Illinois
+2023,12/03,Pittsburgh - Illinois Dual,197,L,SV-1,3 - 1,Nino Bonaccorsi,49285,Pittsburgh,Zach Braunagel,50925,Illinois
+2023,12/03,Chattanooga - Illinois Dual,197,W,DEC,11 - 5,Jake Boyd,49260,Chattanooga,Zach Braunagel,50925,Illinois
+2023,11/18,Illinois - North Carolina State Dual,197,L,DEC,11 - 4,Isaac Trumble,67131,NC State,Zach Braunagel,50925,Illinois
+2023,11/18,Illinois - Buffalo Dual,197,W,DEC,12 - 5,Eli Sheeran,71783,Buffalo,Zach Braunagel,50925,Illinois
+2023,11/12,Tiger Style Invite,197,W,MD,19 - 6,Tommy Hagen,78444,Missouri,Zach Braunagel,50925,Illinois
+2023,11/12,Tiger Style Invite,197,W,MD,17 - 8,Joey Braunagel,71872,Illinois,Zach Braunagel,50925,Illinois
+2023,11/12,Tiger Style Invite,197,W,MFOR,0 - 0,Isaiah Pettigrew,69779,Illinois,Zach Braunagel,50925,Illinois
+2023,11/12,Tiger Style Invite,197,L,FALL,3:21,Jaxon Smith,68714,Maryland,Zach Braunagel,50925,Illinois
+2023,11/05,Michigan State Open,197,W,TF5,17 - 1 7:00,Seth Konynenbelt,66076,Grand Valley State University,Zach Braunagel,50925,Illinois
+2023,11/05,Michigan State Open,197,W,FALL,4:20,Gavin Hoffman,50609,Ohio State,Zach Braunagel,50925,Illinois
+2023,11/05,Michigan State Open,197,W,DEC,8 - 5,Andrew Davison,49178,Northwestern,Zach Braunagel,50925,Illinois
+2023,11/05,Michigan State Open,197,W,DEC,11 - 4,Anthony Perrine,49135,Cleveland State,Zach Braunagel,50925,Illinois
+2023,02/05,Greyhound Open,197,W,FALL,2:26,Devan Gauldin,76903,Glenville State University,Joey Braunagel,71872,Illinois
+2023,02/05,Greyhound Open,197,W,DEC,4 - 3,Phoenix Rodgers,67580,Indianapolis,Joey Braunagel,71872,Illinois
+2023,02/05,Greyhound Open,197,W,FALL,5:48,Grant Johnson,64466,Wabash,Joey Braunagel,71872,Illinois
+2023,02/05,Greyhound Open,197,L,DEC,9 - 7,Gabe Sollars,77269,Indiana,Joey Braunagel,71872,Illinois
+2023,12/29,Midlands Championships,197,L,DEC,9 - 2,Ryan Yarnell,57006,SIU Edwardsville,Joey Braunagel,71872,Illinois
+2023,12/29,Midlands Championships,197,L,MD,13 - 4,Nick Willham,62447,Indiana,Joey Braunagel,71872,Illinois
+2023,12/29,Midlands Championships,197,W,FALL,2:21,Aaron Wolk,62364,Brown,Joey Braunagel,71872,Illinois
+2023,12/29,Midlands Championships,197,W,DEC,6 - 4,Sam Mitchell,61028,Buffalo,Joey Braunagel,71872,Illinois
+2023,11/19,Lindenwood Open,197,W,TF5,22 - 7 7:00,Seth Sarasua,63829,Central Oklahoma,Joey Braunagel,71872,Illinois
+2023,11/19,Lindenwood Open,197,L,DEC,16 - 12,Logan Kvien,66766,McKendree University,Joey Braunagel,71872,Illinois
+2023,11/19,Lindenwood Open,197,W,FALL,2:38,Alex Drmac,66431,McKendree University,Joey Braunagel,71872,Illinois
+2023,11/19,Lindenwood Open,197,L,DEC,10 - 5,Ryan Yarnell,57006,SIU Edwardsville,Joey Braunagel,71872,Illinois
+2023,11/12,Tiger Style Invite,197,L,MD,17 - 8,Zach Braunagel,50925,Illinois,Joey Braunagel,71872,Illinois
+2023,11/12,Tiger Style Invite,197,W,FALL,4:21,Tommy Hagen,78444,Missouri,Joey Braunagel,71872,Illinois
+2023,11/12,Tiger Style Invite,197,W,FALL,2:08,Jesse Cassat,73384,Missouri,Joey Braunagel,71872,Illinois
+2023,11/12,Tiger Style Invite,197,L,FALL,0:55,Bernie Truax,51133,Cal Poly,Joey Braunagel,71872,Illinois
+2023,11/05,Michigan State Open,197,L,MD,13 - 2,Evan Bates,72133,Northwestern,Joey Braunagel,71872,Illinois
+2023,11/05,Michigan State Open,197,W,MD,14 - 6,Jack Forbes,71805,Utah Valley,Joey Braunagel,71872,Illinois
+2023,11/05,Michigan State Open,197,L,DEC,7 - 5,Seth Seago,63882,Oklahoma,Joey Braunagel,71872,Illinois
+2023,11/05,Michigan State Open,197,W,DEC,12 - 6,Cade Dallwitz,60002,Central Michigan,Joey Braunagel,71872,Illinois
+2023,11/12,Tiger Style Invite,197,L,MFOR,0 - 0,Zach Braunagel,50925,Illinois,Isaiah Pettigrew,69779,Illinois
+2023,11/12,Tiger Style Invite,197,W,DEC,10 - 6,Tommy Hagen,78444,Missouri,Isaiah Pettigrew,69779,Illinois
+2023,11/12,Tiger Style Invite,197,W,DEC,6 - 0,Jesse Cassat,73384,Missouri,Isaiah Pettigrew,69779,Illinois
+2023,11/12,Tiger Style Invite,197,L,MD,10 - 2,Bernie Truax,51133,Cal Poly,Isaiah Pettigrew,69779,Illinois
+2023,11/05,Michigan State Open,197,W,DEC,3 - 2,Brendin Yatooma,66965,Michigan,Isaiah Pettigrew,69779,Illinois
+2023,11/05,Michigan State Open,197,L,DEC,5 - 3,Seth Seago,63882,Oklahoma,Isaiah Pettigrew,69779,Illinois
+2023,11/05,Michigan State Open,197,L,DEC,9 - 2,Evan Bockman,57270,Utah Valley,Isaiah Pettigrew,69779,Illinois
+2023,12/29,Midlands Championships,197,L,DEC,2 - 0,Cade Dallwitz,60002,Central Michigan,Chase Waggoner,62515,Illinois
+2023,12/29,Midlands Championships,197,L,MD,10 - 0,Eli Sheeran,71783,Buffalo,Chase Waggoner,62515,Illinois
+2023,11/19,Lindenwood Open,197,L,DEC,3 - 1,Seth Sarasua,63829,Central Oklahoma,Chase Waggoner,62515,Illinois
+2023,11/19,Lindenwood Open,197,L,TF5,16 - 0 7:00,Ryan Yarnell,57006,SIU Edwardsville,Chase Waggoner,62515,Illinois
+2023,11/05,Michigan State Open,197,L,FALL,3:16,Carson Berryhill,61936,Oklahoma,Chase Waggoner,62515,Illinois
+2023,11/05,Michigan State Open,197,L,FALL,1:32,Bobby Striggow,51240,Michigan,Chase Waggoner,62515,Illinois
+2023,03/05,Big Ten True Matches,285,L,DEC,1 - 0,Ryan Vasbinder,53358,Michigan State,Matt Wroblewski,50019,Illinois
+2023,03/04,Big Ten Championships,285,L,DEC,3 - 2,Ryan Vasbinder,53358,Michigan State,Matt Wroblewski,50019,Illinois
+2023,03/04,Big Ten Championships,285,L,DEC,3 - 0,Lucas Davison,51236,Northwestern,Matt Wroblewski,50019,Illinois
+2023,02/12,Illinois - Iowa State Dual,285,L,DEC,5 - 3,Sam Schuyler,50361,Iowa State,Matt Wroblewski,50019,Illinois
+2023,02/05,Illinois - Michigan State Dual,285,L,DEC,1 - 0,Ryan Vasbinder,53358,Michigan State,Matt Wroblewski,50019,Illinois
+2023,02/03,Nebraska - Illinois Dual,285,W,FALL,5:35,Harley Andrews,72965,Nebraska,Matt Wroblewski,50019,Illinois
+2023,01/28,Illinois - Minnesota Dual,285,L,DEC,6 - 3,Garrett Joles,50908,Minnesota,Matt Wroblewski,50019,Illinois
+2023,01/22,Maryland - Illinois Dual,285,L,DEC,2 - 0,Jaron Smith,41353,Maryland,Matt Wroblewski,50019,Illinois
+2023,01/20,Illinois - Northwestern Dual,285,L,DEC,6 - 2,Lucas Davison,51236,Northwestern,Matt Wroblewski,50019,Illinois
+2023,01/14,Purdue - Illinois Dual,285,L,DEC,1 - 0,Hayden Copass,62893,Purdue,Matt Wroblewski,50019,Illinois
+2023,01/08,Wisconsin - Illinois Dual,285,L,DEC,3 - 0,Trent Hillger,49350,Wisconsin,Matt Wroblewski,50019,Illinois
+2023,01/06,Illinois - Iowa Dual,285,L,DQ,0 - 0,Anthony Cassioppi,50650,Iowa,Matt Wroblewski,50019,Illinois
+2023,12/29,Midlands Championships,285,L,DEC,3 - 1,Travis Stefanik,49301,Princeton,Matt Wroblewski,50019,Illinois
+2023,12/29,Midlands Championships,285,L,DEC,3 - 2,Terrese Aaron,51827,Northern Illinois,Matt Wroblewski,50019,Illinois
+2023,12/29,Midlands Championships,285,W,FALL,2:52,Alex Semenenko,79210,Brown,Matt Wroblewski,50019,Illinois
+2023,12/03,Pittsburgh - Illinois Dual,285,L,DEC,2 - 0,Jacob Slinger,57307,Pittsburgh,Matt Wroblewski,50019,Illinois
+2023,12/03,Chattanooga - Illinois Dual,285,W,DEC,2 - 1,Logan Andrew,59757,Chattanooga,Matt Wroblewski,50019,Illinois
+2023,11/18,Illinois - North Carolina State Dual,285,L,MD,10 - 2,Owen Trephan,56903,NC State,Matt Wroblewski,50019,Illinois
+2023,11/18,Illinois - Buffalo Dual,285,W,MD,10 - 2,Greg Hodulick,49406,Buffalo,Matt Wroblewski,50019,Illinois
+2023,11/12,Tiger Style Invite,285,W,FALL,2:49,Apollo Gothard,72124,Little Rock,Matt Wroblewski,50019,Illinois
+2023,11/12,Tiger Style Invite,285,W,DEC,6 - 1,Sam O'Brian,72104,Maryland,Matt Wroblewski,50019,Illinois
+2023,11/12,Tiger Style Invite,285,W,DEC,5 - 1,Steven Kolcheff,67050,Missouri,Matt Wroblewski,50019,Illinois
+2023,11/12,Tiger Style Invite,285,W,DEC,7 - 2,Seth Nitzel,66934,Missouri,Matt Wroblewski,50019,Illinois
+2023,11/12,Tiger Style Invite,285,L,DEC,4 - 0,Seth Nitzel,66934,Missouri,Matt Wroblewski,50019,Illinois
+2023,11/05,Michigan State Open,285,W,DEC,4 - 0,Nick West,73022,Michigan State,Matt Wroblewski,50019,Illinois
+2023,11/05,Michigan State Open,285,W,DEC,8 - 2,Blake Querio,62566,Michigan,Matt Wroblewski,50019,Illinois
+2023,11/05,Michigan State Open,285,W,MD,9 - 0,Jacob Padilla,62517,Ohio,Matt Wroblewski,50019,Illinois
+2023,11/05,Michigan State Open,285,L,TB-1,2 - 1,Chase Trussell,57046,Utah Valley,Matt Wroblewski,50019,Illinois
+2023,11/05,Michigan State Open,285,L,DEC,4 - 0,Daniel Bucknavich,62488,Cleveland State,Matt Wroblewski,50019,Illinois
+2023,02/05,Greyhound Open,285,L,DEC,2 - 0,Jacob Telles,76819,King,Daniel Renshaw,73203,Illinois
+2023,02/05,Greyhound Open,285,L,DEC,10 - 7,Excell Brooks,76530,Marian University,Daniel Renshaw,73203,Illinois
+2023,02/05,Greyhound Open,285,W,DEC,9 - 8,Dustin Olmstead,73227,McKendree University,Daniel Renshaw,73203,Illinois
+2023,11/19,Lindenwood Open,285,W,FALL,4:55,Brenden Shelton,74821,Central Methodist,Daniel Renshaw,73203,Illinois
+2023,11/19,Lindenwood Open,285,W,SV-1,2 - 0,Brooks Baker,74818,Missouri Valley,Daniel Renshaw,73203,Illinois
+2023,11/19,Lindenwood Open,285,W,FALL,3:38,Jaydon Uptegrove,66484,Central Methodist,Daniel Renshaw,73203,Illinois
+2023,11/19,Lindenwood Open,285,L,DEC,6 - 0,Ryan Herman,62734,Maryville University,Daniel Renshaw,73203,Illinois
+2023,11/19,Lindenwood Open,285,L,DEC,2 - 0,Ryan Herman,62734,Maryville University,Daniel Renshaw,73203,Illinois
+2023,11/19,Lindenwood Open,285,L,FALL,0:46,Colton McKiernan,57003,SIU Edwardsville,Daniel Renshaw,73203,Illinois

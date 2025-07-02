@@ -1,0 +1,662 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2023,03/04,EIWA Championships,125,L,MD,12 - 4,Antonio Mininno,50806,Drexel,Dayton DelViscio,73322,Navy
+2023,03/04,EIWA Championships,125,L,MD,8 - 0,Ethan Berginc,71779,Army West Point,Dayton DelViscio,73322,Navy
+2023,02/04,Navy - Bucknell Dual,125,W,MD,10 - 2,Grayson McLellan,79295,Bucknell,Dayton DelViscio,73322,Navy
+2023,02/03,Navy - Lock Haven Dual,125,L,TF5,19 - 4 7:00,Anthony Noto,64642,Lock Haven,Dayton DelViscio,73322,Navy
+2023,01/28,Navy - Hofstra Dual,125,W,FALL,4:19,Jacob Moon,73024,Hofstra,Dayton DelViscio,73322,Navy
+2023,01/13,Navy - Virginia Dual,125,L,DEC,6 - 1,Patrick McCormick,57063,Virginia,Dayton DelViscio,73322,Navy
+2023,01/13,South Dakota State - Navy Dual,125,L,MD,12 - 0,Tanner Jordan,57664,South Dakota State,Dayton DelViscio,73322,Navy
+2023,01/06,David Lehman Open,125,W,FALL,4:21,Benny Herrera,73473,Sacred Heart,Dayton DelViscio,73322,Navy
+2023,01/06,David Lehman Open,125,L,TF5,15 - 0 3:46,Mason Leiphart,73193,Franklin & Marshall,Dayton DelViscio,73322,Navy
+2023,01/06,David Lehman Open,125,L,DEC,4 - 0,Cole Hunt,72654,North Carolina,Dayton DelViscio,73322,Navy
+2023,11/06,Clarion Open,125,W,MD,11 - 3,Branton Rice,79422,Pitt-Johnstown,Dayton DelViscio,73322,Navy
+2023,11/06,Clarion Open,125,L,DEC,12 - 7,Aiden Lewis,71750,Edinboro,Dayton DelViscio,73322,Navy
+2023,11/06,Clarion Open,125,W,FALL,6:43,Tyson Lane,75724,Gardner-Webb,Dayton DelViscio,73322,Navy
+2023,11/06,Clarion Open,125,L,MFOR,0 - 0,Drew West,50041,Gardner-Webb,Dayton DelViscio,73322,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,125,W,INJ,7:00,Grant Treaster,63154,Navy,Zach Espalin,72186,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,125,L,DEC,6 - 2,Sheldon Seymour,62339,Lehigh,Zach Espalin,72186,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,125,L,FALL,3:16,Mason Leiphart,73193,Franklin & Marshall,Zach Espalin,72186,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,125,W,DEC,4 - 3,Yianni Vines,72655,Columbia,Zach Espalin,72186,Navy
+2023,11/06,Clarion Open,125,L,FALL,4:05,Jax Forrest,81114,Unattached,Zach Espalin,72186,Navy
+2023,11/06,Clarion Open,125,W,DEC,9 - 4,Jacob Houpt,75641,Kent State,Zach Espalin,72186,Navy
+2023,11/06,Clarion Open,125,W,FALL,0:52,Nico Calello,73713,Kent State,Zach Espalin,72186,Navy
+2023,11/06,Clarion Open,125,W,MD,12 - 4,Matthew Rowland,80035,Gardner-Webb,Zach Espalin,72186,Navy
+2023,11/06,Clarion Open,125,W,DEC,6 - 4,Drew West,50041,Gardner-Webb,Zach Espalin,72186,Navy
+2023,02/19,Navy - Army Dual,125,L,MD,12 - 4,Ethan Berginc,71779,Army West Point,Grant Treaster,63154,Navy
+2023,01/29,Navy - Binghamton Dual,125,L,FALL,0:38,Micah Roes,67299,Binghamton,Grant Treaster,63154,Navy
+2023,01/21,Navy - Lehigh Dual,125,L,MD,16 - 3,Carter Bailey,73039,Lehigh,Grant Treaster,63154,Navy
+2023,01/14,Oklahoma - Navy Dual,125,L,DEC,4 - 0,Joey Prata,44734,Oklahoma,Grant Treaster,63154,Navy
+2023,12/11,Navy - Maryland Dual,125,L,MD,13 - 1,Braxton Brown,72103,Maryland,Grant Treaster,63154,Navy
+2023,11/27,Mat-Town Open I,125,L,FALL,0:54,Foster Cardinale,77874,Spartan Combat RTC,Grant Treaster,63154,Navy
+2023,11/27,Mat-Town Open I,125,L,TB-2,4 - 3,Joseph Sciarrone,78914,Cornell,Grant Treaster,63154,Navy
+2023,11/27,Mat-Town Open I,125,L,FALL,4:39,Dominic LaJoie,49112,Cornell,Grant Treaster,63154,Navy
+2023,11/27,Mat-Town Open I,125,L,DEC,12 - 7,Matt Maloney,62920,Lock Haven,Grant Treaster,63154,Navy
+2023,11/19,Navy Classic,125,L,MD,12 - 3,Jake Ferri,51179,Kent State,Grant Treaster,63154,Navy
+2023,11/19,Navy Classic,125,L,DEC,6 - 3,Quinn Melofchik,61895,Air Force,Grant Treaster,63154,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,125,L,INJ,7:00,Zach Espalin,72186,Navy,Grant Treaster,63154,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,125,L,DEC,5 - 0,Joseph Sciarrone,78914,Cornell,Grant Treaster,63154,Navy
+2023,01/29,Mat-Town Open II,125,L,MFOR,0 - 0,Zach Spence,57519,Maryland,Matt Ricci,79431,Navy
+2023,01/29,Mat-Town Open II,125,L,MD,16 - 8,Nick Curley,73364,Binghamton,Matt Ricci,79431,Navy
+2023,01/14,Kent State - Navy Dual,125,L,FALL,2:12,Jake Ferri,51179,Kent State,Matt Ricci,79431,Navy
+2023,01/06,David Lehman Open,125,L,DEC,10 - 3,Jared Brunner,76391,Brown,Matt Ricci,79431,Navy
+2023,01/06,David Lehman Open,125,L,FALL,0:31,Brady Pruett,73565,Pennsylvania,Matt Ricci,79431,Navy
+2023,12/04,ARMS Software Patriots Open,125,L,TF5,19 - 3 5:53,Foster Cardinale,77874,Spartan Combat RTC,Matt Ricci,79431,Navy
+2023,12/04,ARMS Software Patriots Open,125,L,DEC,10 - 8,JB Dragovich,78828,George Mason,Matt Ricci,79431,Navy
+2023,03/16,NCAA Championships,133,L,DEC,14 - 9,Angelo Rini,56766,Columbia,Brendan Ferretti,72187,Navy
+2023,03/16,NCAA Championships,133,L,MD,12 - 4,Jesse Mendez,74054,Ohio State,Brendan Ferretti,72187,Navy
+2023,03/04,EIWA Championships,133,W,DEC,5 - 3,Jack Maida,72679,American,Brendan Ferretti,72187,Navy
+2023,03/04,EIWA Championships,133,L,MD,13 - 5,Vitali Arujau,49108,Cornell,Brendan Ferretti,72187,Navy
+2023,03/04,EIWA Championships,133,L,MD,11 - 2,Angelo Rini,56766,Columbia,Brendan Ferretti,72187,Navy
+2023,03/04,EIWA Championships,133,W,INJ,0:57,Connor McGonagle,56713,Lehigh,Brendan Ferretti,72187,Navy
+2023,03/04,EIWA Championships,133,W,FALL,6:09,Jack Maida,72679,American,Brendan Ferretti,72187,Navy
+2023,02/19,Navy - Army Dual,133,W,DEC,7 - 3,Richard Treanor,68698,Army West Point,Brendan Ferretti,72187,Navy
+2023,02/04,Navy - Bucknell Dual,133,L,DEC,4 - 0,Kurt Phipps,63966,Bucknell,Brendan Ferretti,72187,Navy
+2023,02/03,Navy - Lock Haven Dual,133,W,DEC,5 - 3,Gable Strickland,71822,Lock Haven,Brendan Ferretti,72187,Navy
+2023,01/29,Navy - Binghamton Dual,133,W,DEC,6 - 4,Ivan Garcia,67298,Binghamton,Brendan Ferretti,72187,Navy
+2023,01/28,Navy - Hofstra Dual,133,W,DEC,1 - 0,Chase Liardi,72134,Hofstra,Brendan Ferretti,72187,Navy
+2023,01/14,Oklahoma - Navy Dual,133,L,DEC,4 - 3,Wyatt Henson,63069,Oklahoma,Brendan Ferretti,72187,Navy
+2023,01/14,Kent State - Navy Dual,133,W,DEC,5 - 3,Brendon Fenton,50938,Kent State,Brendan Ferretti,72187,Navy
+2023,01/13,Navy - Virginia Dual,133,L,FALL,3:51,Garrett Grice,72957,Virginia,Brendan Ferretti,72187,Navy
+2023,01/13,South Dakota State - Navy Dual,133,W,DEC,4 - 3,Derrick Cardinal,68734,South Dakota State,Brendan Ferretti,72187,Navy
+2023,01/06,David Lehman Open,133,W,DEC,4 - 0,John Hildebrandt,78511,Drexel,Brendan Ferretti,72187,Navy
+2023,01/06,David Lehman Open,133,W,DEC,7 - 4,Nico Nardone,71688,Pennsylvania,Brendan Ferretti,72187,Navy
+2023,01/06,David Lehman Open,133,W,DEC,6 - 3,Andrew Fallon,69899,Sacred Heart,Brendan Ferretti,72187,Navy
+2023,01/06,David Lehman Open,133,W,FALL,4:52,Jackson Sichelstiel,78851,Davidson,Brendan Ferretti,72187,Navy
+2023,01/06,David Lehman Open,133,W,DEC,4 - 3,Gabe Hixenbaugh,57133,Campbell,Brendan Ferretti,72187,Navy
+2023,12/29,Soldier Salute Open,133,W,DEC,9 - 6,Jace Rhodes,73710,Iowa,Brendan Ferretti,72187,Navy
+2023,12/29,Soldier Salute Open,133,W,DEC,6 - 4,Jace Rhodes,73710,Iowa,Brendan Ferretti,72187,Navy
+2023,12/29,Soldier Salute Open,133,W,DEC,7 - 1,Zack Witmer,68704,Columbia,Brendan Ferretti,72187,Navy
+2023,12/29,Soldier Salute Open,133,W,SV-1,9 - 7,Richard Treanor,68698,Army West Point,Brendan Ferretti,72187,Navy
+2023,12/29,Soldier Salute Open,133,L,DEC,10 - 3,Angelo Rini,56766,Columbia,Brendan Ferretti,72187,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,133,L,FALL,6:10,Pat Phillips,72671,Franklin & Marshall,Brendan Ferretti,72187,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,133,L,MFOR,0 - 0,Ivan Garcia,67298,Binghamton,Brendan Ferretti,72187,Navy
+2023,11/06,Clarion Open,133,W,FALL,2:51,Ethan Qureshi,81106,Spartan Combat RTC,Brendan Ferretti,72187,Navy
+2023,11/06,Clarion Open,133,W,DEC,5 - 2,Todd Carter,69785,Gardner-Webb,Brendan Ferretti,72187,Navy
+2023,11/06,Clarion Open,133,W,DEC,11 - 4,Todd Carter,69785,Gardner-Webb,Brendan Ferretti,72187,Navy
+2023,11/06,Clarion Open,133,W,DEC,6 - 1,Mason Prinkey,72195,Clarion,Brendan Ferretti,72187,Navy
+2023,11/06,Clarion Open,133,L,DEC,9 - 6,Kurt Phipps,63966,Bucknell,Brendan Ferretti,72187,Navy
+2023,11/06,Clarion Open,133,L,DEC,3 - 2,Hunter Adrian,65842,Brown,Brendan Ferretti,72187,Navy
+2023,12/11,Navy - Maryland Dual,133,W,DEC,7 - 3,Jackson Cockrell,63028,Maryland,Tyler Hunt,55813,Navy
+2023,12/02,Cliff Keen Invitational,133,L,DEC,6 - 5,Chance Rich,50933,CSU Bakersfield,Tyler Hunt,55813,Navy
+2023,12/02,Cliff Keen Invitational,133,L,DEC,3 - 1,Cameron Soda,72219,Edinboro,Tyler Hunt,55813,Navy
+2023,11/19,Navy Classic,133,W,MD,16 - 2,Paul Woo,78922,Ohio,Tyler Hunt,55813,Navy
+2023,11/19,Navy Classic,133,W,DEC,3 - 1,Brendon Fenton,50938,Kent State,Tyler Hunt,55813,Navy
+2023,11/19,Navy Classic,133,L,DEC,7 - 2,Kurt Phipps,63966,Bucknell,Tyler Hunt,55813,Navy
+2023,11/19,Navy Classic,133,W,MD,14 - 2,George Rosas,78686,The Citadel,Tyler Hunt,55813,Navy
+2023,11/19,Navy Classic,133,W,DEC,4 - 2,George Rosas,78686,The Citadel,Tyler Hunt,55813,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,133,L,SV-1,6 - 4,Jace Koelzer,50912,Northern Colorado,Tyler Hunt,55813,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,133,W,MD,12 - 0,Jack Martinec,79832,Clarion,Tyler Hunt,55813,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,133,L,DEC,4 - 2,Ivan Garcia,67298,Binghamton,Tyler Hunt,55813,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,133,W,TF5,17 - 2 5:53,Tyler Kellison,60765,Binghamton,Tyler Hunt,55813,Navy
+2023,01/29,Mat-Town Open II,133,L,DEC,10 - 4,Bo DiJulius,78570,Edinboro,Venumadhava Mirel,79459,Navy
+2023,01/29,Mat-Town Open II,133,L,TF5,19 - 1 7:00,Nico Nardone,71688,Pennsylvania,Venumadhava Mirel,79459,Navy
+2023,01/06,David Lehman Open,133,W,DEC,5 - 3,Drew Currier,78643,Franklin & Marshall,Venumadhava Mirel,79459,Navy
+2023,01/06,David Lehman Open,133,L,DEC,8 - 1,Jake Ice,73474,Sacred Heart,Venumadhava Mirel,79459,Navy
+2023,01/06,David Lehman Open,133,L,DEC,4 - 0,Jaxon Maroney,62880,Drexel,Venumadhava Mirel,79459,Navy
+2023,01/06,David Lehman Open,133,W,DEC,5 - 2,Colin Higgins,79560,Millersville,Venumadhava Mirel,79459,Navy
+2023,12/04,ARMS Software Patriots Open,133,W,DEC,6 - 2,Brennen Retmier,77583,Unattached,Venumadhava Mirel,79459,Navy
+2023,12/04,ARMS Software Patriots Open,133,L,TF5,18 - 0 5:00,Gable Strickland,71822,Lock Haven,Venumadhava Mirel,79459,Navy
+2023,12/04,ARMS Software Patriots Open,133,L,DEC,9 - 3,Noah Burstein,59677,Davidson,Venumadhava Mirel,79459,Navy
+2023,11/27,Mat-Town Open I,133,L,TF5,17 - 1 5:53,Ethan Fernandez,72088,Cornell,Venumadhava Mirel,79459,Navy
+2023,11/27,Mat-Town Open I,133,W,FALL,4:01,Hunter Verge,63707,Clarion,Venumadhava Mirel,79459,Navy
+2023,11/27,Mat-Town Open I,133,L,TF5,20 - 5 7:00,Wyatt Fox,82939,Lock Haven,Venumadhava Mirel,79459,Navy
+2023,11/19,Navy Classic,133,L,FALL,1:14,Boo Dryden,52313,Nebraska,Venumadhava Mirel,79459,Navy
+2023,11/19,Navy Classic,133,L,MD,13 - 2,Dyson Dunham,73559,VMI,Venumadhava Mirel,79459,Navy
+2023,11/19,Navy Classic,133,W,FALL,1:19,Brayton Killiri,75820,The Citadel,Venumadhava Mirel,79459,Navy
+2023,11/06,Clarion Open,133,L,MD,13 - 3,Jacob Macatangay,79062,Purdue,Venumadhava Mirel,79459,Navy
+2023,11/06,Clarion Open,133,L,DEC,8 - 2,Todd Carter,69785,Gardner-Webb,Venumadhava Mirel,79459,Navy
+2023,03/16,NCAA Championships,141,L,DEC,5 - 3,Kal Miller,72211,Maryland,Joshua Koderhandt,70917,Navy
+2023,03/16,NCAA Championships,141,L,MD,10 - 1,Dylan D'Emilio,56726,Ohio State,Joshua Koderhandt,70917,Navy
+2023,03/04,EIWA Championships,141,W,FALL,2:28,Matthew Kazimir,51644,Columbia,Joshua Koderhandt,70917,Navy
+2023,03/04,EIWA Championships,141,W,DEC,7 - 6,Malyke Hines,56932,Lehigh,Joshua Koderhandt,70917,Navy
+2023,03/04,EIWA Championships,141,W,DEC,3 - 2,Julian Sanchez,57318,Army West Point,Joshua Koderhandt,70917,Navy
+2023,03/04,EIWA Championships,141,L,DEC,8 - 2,Carmen Ferrante,50660,Pennsylvania,Joshua Koderhandt,70917,Navy
+2023,03/04,EIWA Championships,141,W,TF5,18 - 3 6:08,Aidan O'Shea,78571,Franklin & Marshall,Joshua Koderhandt,70917,Navy
+2023,03/04,EIWA Championships,141,W,DEC,6 - 3,Jordan Soriano,73711,Drexel,Joshua Koderhandt,70917,Navy
+2023,02/19,Navy - Army Dual,141,W,DEC,4 - 1,Julian Sanchez,57318,Army West Point,Joshua Koderhandt,70917,Navy
+2023,02/04,Navy - Bucknell Dual,141,W,DEC,4 - 3,Darren Miller,57210,Bucknell,Joshua Koderhandt,70917,Navy
+2023,02/03,Navy - Lock Haven Dual,141,W,TF5,16 - 1 5:18,Ty Linsenbigler,71825,Lock Haven,Joshua Koderhandt,70917,Navy
+2023,01/29,Navy - Binghamton Dual,141,W,DEC,7 - 0,Christian Gannone,62458,Binghamton,Joshua Koderhandt,70917,Navy
+2023,01/28,Navy - Hofstra Dual,141,W,SV-1,10 - 6,Justin Hoyle,54220,Hofstra,Joshua Koderhandt,70917,Navy
+2023,01/21,Navy - Lehigh Dual,141,L,DEC,10 - 5,Malyke Hines,56932,Lehigh,Joshua Koderhandt,70917,Navy
+2023,01/14,Oklahoma - Navy Dual,141,L,FALL,1:34,Mosha Schwartz,55841,Oklahoma,Joshua Koderhandt,70917,Navy
+2023,01/14,Kent State - Navy Dual,141,W,TF5,20 - 4 7:00,Landen Hacker,72945,Kent State,Joshua Koderhandt,70917,Navy
+2023,01/13,Navy - Virginia Dual,141,L,DEC,4 - 2,Brian Courtney,49331,Virginia,Joshua Koderhandt,70917,Navy
+2023,01/13,South Dakota State - Navy Dual,141,L,DEC,11 - 6,Clay Carlson,56441,South Dakota State,Joshua Koderhandt,70917,Navy
+2023,12/11,Navy - Maryland Dual,141,W,DEC,5 - 1,Kal Miller,72211,Maryland,Joshua Koderhandt,70917,Navy
+2023,12/02,Cliff Keen Invitational,141,W,TF5,18 - 3 3:21,Joseph Mecham,63714,Western Wyoming College,Joshua Koderhandt,70917,Navy
+2023,12/02,Cliff Keen Invitational,141,L,FALL,5:16,Ryan Jack,61122,NC State,Joshua Koderhandt,70917,Navy
+2023,12/02,Cliff Keen Invitational,141,W,DEC,7 - 5,Dylan D'Emilio,56726,Ohio State,Joshua Koderhandt,70917,Navy
+2023,12/02,Cliff Keen Invitational,141,W,DEC,15 - 14,Cleveland Belton,57334,Oregon State,Joshua Koderhandt,70917,Navy
+2023,12/02,Cliff Keen Invitational,141,W,MFOR,0 - 0,Clay Carlson,56441,South Dakota State,Joshua Koderhandt,70917,Navy
+2023,12/02,Cliff Keen Invitational,141,L,FALL,6:12,Clay Carlson,56441,South Dakota State,Joshua Koderhandt,70917,Navy
+2023,12/02,Cliff Keen Invitational,141,W,DEC,7 - 6,Lawrence Saenz,56597,Cal Poly,Joshua Koderhandt,70917,Navy
+2023,12/02,Cliff Keen Invitational,141,W,DEC,6 - 4,Darren Miller,57210,Bucknell,Joshua Koderhandt,70917,Navy
+2023,11/19,Navy Classic,141,W,TF5,18 - 1 4:27,Stephen Lukas,78723,Bucknell,Joshua Koderhandt,70917,Navy
+2023,11/19,Navy Classic,141,W,MFOR,0 - 0,Dylan Chappell,71754,Bucknell,Joshua Koderhandt,70917,Navy
+2023,11/19,Navy Classic,141,L,DEC,5 - 3,Darren Miller,57210,Bucknell,Joshua Koderhandt,70917,Navy
+2023,11/19,Navy Classic,141,W,FALL,6:57,Garrett Kuchan,69522,Air Force,Joshua Koderhandt,70917,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,141,W,MD,11 - 2,Mark Botello,79254,Spartan Combat RTC,Joshua Koderhandt,70917,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,141,W,FALL,6:58,Michael Dolan,73378,West Virginia,Joshua Koderhandt,70917,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,141,L,MD,15 - 3,Vince Cornella,71813,Cornell,Joshua Koderhandt,70917,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,141,W,FALL,4:13,Mason Clarke,64646,Columbia,Joshua Koderhandt,70917,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,141,W,FALL,2:25,Trevor Nugent,72511,Bucknell,Joshua Koderhandt,70917,Navy
+2023,11/06,Clarion Open,141,W,FALL,4:41,Billy Meiszner,75815,Kent State,Joshua Koderhandt,70917,Navy
+2023,11/06,Clarion Open,141,W,MFOR,0 - 0,Cameron Soda,72219,Edinboro,Joshua Koderhandt,70917,Navy
+2023,11/06,Clarion Open,141,W,FALL,6:10,Emory Taylor,72119,Pittsburgh,Joshua Koderhandt,70917,Navy
+2023,11/06,Clarion Open,141,L,MD,18 - 10,Parker Filius,49302,Purdue,Joshua Koderhandt,70917,Navy
+2023,11/06,Clarion Open,141,W,MD,17 - 5,Seth Koleno,51157,Clarion,Joshua Koderhandt,70917,Navy
+2023,01/29,Mat-Town Open II,141,L,FALL,3:34,Kimo Leia,74055,Lehigh,Luke Lucerne,67546,Navy
+2023,01/29,Mat-Town Open II,141,L,DEC,7 - 1,Kelly Dunnigan,71694,PRTC,Luke Lucerne,67546,Navy
+2023,01/29,Mat-Town Open II,141,W,FALL,2:24,Zach Keal,62496,Army West Point,Luke Lucerne,67546,Navy
+2023,01/29,Mat-Town Open II,141,W,DEC,9 - 7,Stephen Lukas,78723,Bucknell,Luke Lucerne,67546,Navy
+2023,01/06,David Lehman Open,141,L,DQ,0 - 0,Matthew McLaughlin,70742,Davidson,Luke Lucerne,67546,Navy
+2023,01/06,David Lehman Open,141,L,DEC,6 - 1,Mark Montgomery,60539,Army West Point,Luke Lucerne,67546,Navy
+2023,12/29,Soldier Salute Open,141,L,DEC,7 - 6,Jager Eisch,72139,Minnesota,Luke Lucerne,67546,Navy
+2023,12/29,Soldier Salute Open,141,W,DEC,8 - 1,Kenny Duschek,71820,Columbia,Luke Lucerne,67546,Navy
+2023,12/29,Soldier Salute Open,141,W,DEC,10 - 6,Jacob Silka,78557,The Citadel,Luke Lucerne,67546,Navy
+2023,12/29,Soldier Salute Open,141,W,FALL,5:00,Jason Garay,73358,The Citadel,Luke Lucerne,67546,Navy
+2023,12/29,Soldier Salute Open,141,L,DEC,4 - 1,Darren Green,62886,Wyoming,Luke Lucerne,67546,Navy
+2023,11/27,Mat-Town Open I,141,W,DEC,3 - 2,Evan Buchanan,66510,Virginia,Luke Lucerne,67546,Navy
+2023,11/27,Mat-Town Open I,141,L,DEC,12 - 5,Braden Bower,71756,Bucknell,Luke Lucerne,67546,Navy
+2023,11/27,Mat-Town Open I,141,W,MFOR,0 - 0,Christian Gannone,62458,Binghamton,Luke Lucerne,67546,Navy
+2023,11/27,Mat-Town Open I,141,W,MD,14 - 2,Tyler Kellison,60765,Binghamton,Luke Lucerne,67546,Navy
+2023,11/27,Mat-Town Open I,141,L,FALL,2:15,Tyler Kellison,60765,Binghamton,Luke Lucerne,67546,Navy
+2023,11/19,Navy Classic,141,L,DEC,6 - 5,Jordan Hamdan,57705,Michigan State,Luke Lucerne,67546,Navy
+2023,11/19,Navy Classic,141,L,DEC,12 - 6,Tyler Dilley,62919,Lock Haven,Luke Lucerne,67546,Navy
+2023,11/19,Navy Classic,141,W,SV-1,12 - 10,Freddy Junko,67430,VMI,Luke Lucerne,67546,Navy
+2023,11/19,Navy Classic,141,W,MD,14 - 2,Elijah White,69903,American,Luke Lucerne,67546,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,141,L,DEC,5 - 3,Mark Botello,79254,Spartan Combat RTC,Luke Lucerne,67546,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,141,L,DEC,6 - 3,JJ Wilson,59823,Cornell,Luke Lucerne,67546,Navy
+2023,11/06,Clarion Open,141,W,FALL,4:01,Chad Ozias,78525,Pitt-Johnstown,Luke Lucerne,67546,Navy
+2023,11/06,Clarion Open,141,W,DEC,8 - 2,Emory Taylor,72119,Pittsburgh,Luke Lucerne,67546,Navy
+2023,11/06,Clarion Open,141,W,FALL,3:59,Amonn Ohl,71965,Edinboro,Luke Lucerne,67546,Navy
+2023,11/06,Clarion Open,141,W,TF5,15 - 0 4:11,Briar Priest,71951,Pittsburgh,Luke Lucerne,67546,Navy
+2023,11/06,Clarion Open,141,W,FALL,1:50,Sean Pitts,79834,Purdue,Luke Lucerne,67546,Navy
+2023,11/06,Clarion Open,141,L,MD,12 - 4,Braden Bower,71756,Bucknell,Luke Lucerne,67546,Navy
+2023,01/29,Mat-Town Open II,141,L,FALL,3:13,CJ Composto,62430,PRTC,Frank Antoelli,75998,Navy
+2023,01/29,Mat-Town Open II,141,L,DEC,11 - 5,Stephen Lukas,78723,Bucknell,Frank Antoelli,75998,Navy
+2023,01/06,David Lehman Open,141,L,DEC,9 - 5,Zackery Zeamer,57141,Lock Haven,Frank Antoelli,75998,Navy
+2023,01/06,David Lehman Open,141,W,FALL,2:07,Joshua Viarengo,71129,Davidson,Frank Antoelli,75998,Navy
+2023,01/06,David Lehman Open,141,L,DEC,9 - 4,Mark Montgomery,60539,Army West Point,Frank Antoelli,75998,Navy
+2023,12/04,ARMS Software Patriots Open,149,L,DEC,9 - 4,Luke Robie,78543,Southeast RTC,Frank Antoelli,75998,Navy
+2023,12/04,ARMS Software Patriots Open,149,W,MD,12 - 2,Devan Moore,63324,Newberry,Frank Antoelli,75998,Navy
+2023,12/04,ARMS Software Patriots Open,149,W,DEC,12 - 7,Noah Roulo,61776,VMI,Frank Antoelli,75998,Navy
+2023,12/04,ARMS Software Patriots Open,149,L,FALL,3:32,DJ McGee,78901,George Mason,Frank Antoelli,75998,Navy
+2023,12/04,ARMS Software Patriots Open,149,W,DEC,10 - 6,Colin Calvetti,73111,Columbia,Frank Antoelli,75998,Navy
+2023,11/27,Mat-Town Open I,141,L,MD,8 - 0,Mark Botello,79254,Spartan Combat RTC,Frank Antoelli,75998,Navy
+2023,11/27,Mat-Town Open I,141,L,DEC,4 - 0,Evan Buchanan,66510,Virginia,Frank Antoelli,75998,Navy
+2023,11/27,Mat-Town Open I,141,W,FALL,1:59,Carter Tate,78961,Cornell,Frank Antoelli,75998,Navy
+2023,12/04,ARMS Software Patriots Open,141,W,TF5,16 - 1 7:00,Mauricio Reyes,71325,Greensboro,David Kreidler,73329,Navy
+2023,12/04,ARMS Software Patriots Open,141,L,MD,13 - 2,Zackery Zeamer,57141,Lock Haven,David Kreidler,73329,Navy
+2023,12/04,ARMS Software Patriots Open,141,L,DEC,5 - 4,Kenny Duschek,71820,Columbia,David Kreidler,73329,Navy
+2023,11/27,Mat-Town Open I,141,L,MD,9 - 0,Mark Botello,79254,Spartan Combat RTC,David Kreidler,73329,Navy
+2023,11/27,Mat-Town Open I,141,L,MD,15 - 4,Christian Gannone,62458,Binghamton,David Kreidler,73329,Navy
+2023,11/19,Navy Classic,141,L,DEC,5 - 3,Zackery Zeamer,57141,Lock Haven,David Kreidler,73329,Navy
+2023,11/19,Navy Classic,141,L,MD,11 - 1,Darren Miller,57210,Bucknell,David Kreidler,73329,Navy
+2023,11/06,Clarion Open,141,L,FALL,1:35,Casey Wiles,71969,Kent State,David Kreidler,73329,Navy
+2023,11/06,Clarion Open,141,L,MD,12 - 2,Justin Bierdumpfel,67257,Brown,David Kreidler,73329,Navy
+2023,12/04,ARMS Software Patriots Open,141,W,TF5,15 - 0 5:00,Ethan Lopez,88876,Unattached,David Graves,73328,Navy
+2023,12/04,ARMS Software Patriots Open,141,L,TF5,15 - 0 2:18,Zach Price,50932,Gardner-Webb,David Graves,73328,Navy
+2023,12/04,ARMS Software Patriots Open,141,L,MD,14 - 2,Riley Edwards,71715,Appalachian State,David Graves,73328,Navy
+2023,12/04,ARMS Software Patriots Open,141,W,DEC,5 - 0,Joshua Viarengo,71129,Davidson,David Graves,73328,Navy
+2023,11/27,Mat-Town Open I,141,L,DEC,6 - 1,Evan Buchanan,66510,Virginia,David Graves,73328,Navy
+2023,11/27,Mat-Town Open I,141,L,DEC,14 - 12,Carter Tate,78961,Cornell,David Graves,73328,Navy
+2023,03/04,EIWA Championships,149,W,MD,15 - 3,Michael Leandrou,69906,Hofstra,Kaemen Smith,78323,Navy
+2023,03/04,EIWA Championships,149,L,DEC,12 - 7,Luke Nichter,67003,Drexel,Kaemen Smith,78323,Navy
+2023,03/04,EIWA Championships,149,L,FALL,6:31,Trae McDaniel,71768,Army West Point,Kaemen Smith,78323,Navy
+2023,02/19,Navy - Army Dual,149,L,DEC,9 - 4,Trae McDaniel,71768,Army West Point,Kaemen Smith,78323,Navy
+2023,02/04,Navy - Bucknell Dual,149,W,FALL,4:01,Dylan Chappell,71754,Bucknell,Kaemen Smith,78323,Navy
+2023,01/29,Navy - Binghamton Dual,149,L,DEC,8 - 3,Michael Zarif,57277,Binghamton,Kaemen Smith,78323,Navy
+2023,01/28,Navy - Hofstra Dual,149,W,DEC,10 - 5,Michael Leandrou,69906,Hofstra,Kaemen Smith,78323,Navy
+2023,01/21,Navy - Lehigh Dual,149,L,DEC,6 - 2,Manzona Bryant,63169,Lehigh,Kaemen Smith,78323,Navy
+2023,01/14,Oklahoma - Navy Dual,149,L,FALL,0:35,Mitch Moore,50620,Oklahoma,Kaemen Smith,78323,Navy
+2023,01/14,Kent State - Navy Dual,149,L,FALL,3:59,Kody Komara,50094,Kent State,Kaemen Smith,78323,Navy
+2023,01/13,South Dakota State - Navy Dual,149,L,DEC,12 - 5,Alek Martin,72167,South Dakota State,Kaemen Smith,78323,Navy
+2023,01/06,David Lehman Open,149,L,DEC,9 - 3,Wil Guida,62410,North Carolina,Kaemen Smith,78323,Navy
+2023,01/06,David Lehman Open,149,L,DEC,6 - 4,Evan Maag,78473,George Mason,Kaemen Smith,78323,Navy
+2023,12/02,Cliff Keen Invitational,149,W,MD,16 - 2,Colton Erickson,78674,Western Wyoming College,Kaemen Smith,78323,Navy
+2023,12/02,Cliff Keen Invitational,149,L,DEC,6 - 4,Danny Fongaro,51713,Columbia,Kaemen Smith,78323,Navy
+2023,12/02,Cliff Keen Invitational,149,L,TF5,23 - 7 5:57,Sammy Sasso,51143,Ohio State,Kaemen Smith,78323,Navy
+2023,11/19,Navy Classic,149,L,DEC,6 - 5,Nicholas Stonecheck,62691,Lock Haven,Kaemen Smith,78323,Navy
+2023,11/19,Navy Classic,149,L,DEC,13 - 10,Kolby DePron,71751,Bucknell,Kaemen Smith,78323,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,149,W,DEC,9 - 6,Kristopher Ketchum,82061,Nassau Community College,Kaemen Smith,78323,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,149,W,FALL,4:34,Sander Miller,78856,NYC RTC,Kaemen Smith,78323,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,149,L,DEC,13 - 10,Sam Hillegas,61125,West Virginia,Kaemen Smith,78323,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,149,L,DEC,10 - 5,Sal Jones,58952,Cornell,Kaemen Smith,78323,Navy
+2023,11/06,Clarion Open,149,W,DEC,9 - 3,Jake Pail,62853,Edinboro,Kaemen Smith,78323,Navy
+2023,11/06,Clarion Open,149,W,FALL,1:54,John Altieri,70738,Clarion,Kaemen Smith,78323,Navy
+2023,11/06,Clarion Open,149,W,FALL,5:10,Kyle Schickel,67305,Clarion,Kaemen Smith,78323,Navy
+2023,11/06,Clarion Open,149,W,FALL,6:21,Lavinsky Collins,51268,Clarion,Kaemen Smith,78323,Navy
+2023,11/06,Clarion Open,149,L,MD,15 - 4,Blake Saito,65874,Brown,Kaemen Smith,78323,Navy
+2023,01/29,Mat-Town Open II,149,L,FALL,2:50,Billy Talmadge,67442,Lock Haven,Christian Hodges,67545,Navy
+2023,01/29,Mat-Town Open II,149,L,FALL,3:37,Aliazer Alicea,78656,Kutztown,Christian Hodges,67545,Navy
+2023,12/04,ARMS Software Patriots Open,149,W,DEC,8 - 1,Chase Caprella,70143,Navy,Christian Hodges,67545,Navy
+2023,12/04,ARMS Software Patriots Open,149,L,DEC,5 - 1,Devan Moore,63324,Newberry,Christian Hodges,67545,Navy
+2023,12/04,ARMS Software Patriots Open,149,L,TF5,15 - 0 6:04,Kylan Montgomery,76528,Virginia Tech,Christian Hodges,67545,Navy
+2023,11/27,Mat-Town Open I,149,L,FALL,2:17,Brock McMillen,72116,Pittsburgh,Christian Hodges,67545,Navy
+2023,11/27,Mat-Town Open I,149,L,DEC,8 - 1,Billy Talmadge,67442,Lock Haven,Christian Hodges,67545,Navy
+2023,02/03,Navy - Lock Haven Dual,149,L,DEC,3 - 2,Nicholas Stonecheck,62691,Lock Haven,James Latona,79382,Navy
+2023,01/13,Navy - Virginia Dual,149,L,TF5,24 - 9 7:00,Michael Gioffre,73019,Virginia,James Latona,79382,Navy
+2023,01/06,David Lehman Open,149,L,DEC,9 - 5,Dominic Findora,78518,Drexel,James Latona,79382,Navy
+2023,01/06,David Lehman Open,149,W,TF5,15 - 0 3:12,Dakota Asuncion,73481,Sacred Heart,James Latona,79382,Navy
+2023,01/06,David Lehman Open,149,W,MFOR,0 - 0,Wil Gil,51024,Unattached,James Latona,79382,Navy
+2023,01/06,David Lehman Open,149,W,MD,10 - 1,Mikey Lewarchick,71832,Kent State,James Latona,79382,Navy
+2023,01/06,David Lehman Open,149,L,FALL,2:35,Thomas Deck,69378,Army West Point,James Latona,79382,Navy
+2023,12/29,Soldier Salute Open,149,L,MD,17 - 6,Zac Cowan,73532,Bellarmine,James Latona,79382,Navy
+2023,12/29,Soldier Salute Open,149,L,DEC,5 - 0,Zac Cowan,73532,Bellarmine,James Latona,79382,Navy
+2023,12/29,Soldier Salute Open,149,L,FALL,6:46,Trae McDaniel,71768,Army West Point,James Latona,79382,Navy
+2023,12/29,Soldier Salute Open,149,L,TF5,15 - 0 4:00,Ryder Downey,78639,Northern Iowa,James Latona,79382,Navy
+2023,12/29,Soldier Salute Open,149,W,FALL,3:38,Aidan Medora,62360,Wisconsin,James Latona,79382,Navy
+2023,12/11,Navy - Maryland Dual,149,L,MD,17 - 4,Ethen Miller,70914,Maryland,James Latona,79382,Navy
+2023,12/04,ARMS Software Patriots Open,149,W,TF5,17 - 2 3:46,Nick Antonelli,82940,Unattached,James Latona,79382,Navy
+2023,12/04,ARMS Software Patriots Open,149,L,FALL,1:19,Jude Swisher,73210,PRTC,James Latona,79382,Navy
+2023,12/04,ARMS Software Patriots Open,149,W,DEC,7 - 3,Ben Bancroft,70144,Navy,James Latona,79382,Navy
+2023,12/04,ARMS Software Patriots Open,149,L,DEC,5 - 4,Billy Talmadge,67442,Lock Haven,James Latona,79382,Navy
+2023,11/27,Mat-Town Open I,149,L,FALL,1:40,Meyer Shapiro,78556,Spartan Combat RTC,James Latona,79382,Navy
+2023,11/27,Mat-Town Open I,149,W,DEC,5 - 3,Nate Wade,76000,Cornell,James Latona,79382,Navy
+2023,11/27,Mat-Town Open I,149,W,DEC,6 - 2,Kaiden Wagner,78521,Lock Haven,James Latona,79382,Navy
+2023,11/27,Mat-Town Open I,149,W,DEC,6 - 5,Dashawn Farber,62823,Lock Haven,James Latona,79382,Navy
+2023,11/19,Navy Classic,149,L,DEC,4 - 0,Alec Hagan,49248,Ohio,James Latona,79382,Navy
+2023,11/19,Navy Classic,149,L,SV-1,5 - 3,Nicholas Stonecheck,62691,Lock Haven,James Latona,79382,Navy
+2023,11/19,Navy Classic,149,W,FALL,1:40,Ryan Vigil,63624,VMI,James Latona,79382,Navy
+2023,11/19,Navy Classic,149,W,TF5,15 - 0 4:38,Garrett Washington,79087,American,James Latona,79382,Navy
+2023,01/29,Mat-Town Open II,149,L,DEC,5 - 4,Jack Coulston,68185,Lock Haven,Chase Caprella,70143,Navy
+2023,01/29,Mat-Town Open II,149,L,DEC,6 - 2,Thomas Deck,69378,Army West Point,Chase Caprella,70143,Navy
+2023,01/14,Oklahoma - Navy Dual,157,L,MD,14 - 1,Jared Hill,72164,Oklahoma,Chase Caprella,70143,Navy
+2023,01/06,David Lehman Open,149,W,INJ,7:00,Eric Alderfer,78522,Lock Haven,Chase Caprella,70143,Navy
+2023,01/06,David Lehman Open,149,W,DEC,8 - 3,Colin Calvetti,73111,Columbia,Chase Caprella,70143,Navy
+2023,01/06,David Lehman Open,149,L,DEC,8 - 6,Jacob Mann,72935,NJRTC,Chase Caprella,70143,Navy
+2023,01/06,David Lehman Open,149,L,FALL,4:21,Wil Guida,62410,North Carolina,Chase Caprella,70143,Navy
+2023,01/06,David Lehman Open,149,W,FALL,4:05,Andrew Pace,62195,Harvard,Chase Caprella,70143,Navy
+2023,12/04,ARMS Software Patriots Open,149,L,DEC,8 - 1,Christian Hodges,67545,Navy,Chase Caprella,70143,Navy
+2023,12/04,ARMS Software Patriots Open,149,L,FALL,1:40,DJ McGee,78901,George Mason,Chase Caprella,70143,Navy
+2023,12/04,ARMS Software Patriots Open,149,W,DEC,6 - 5,David Loniewski,57701,Davidson,Chase Caprella,70143,Navy
+2023,11/27,Mat-Town Open I,149,L,DEC,4 - 2,Rei Yonamine,81573,Lackawanna College,Chase Caprella,70143,Navy
+2023,11/27,Mat-Town Open I,149,L,DEC,5 - 0,JJ Wilson,59823,Cornell,Chase Caprella,70143,Navy
+2023,11/27,Mat-Town Open I,149,W,TF5,17 - 2 3:24,CJ Fritz,79214,Bloomsburg,Chase Caprella,70143,Navy
+2023,11/19,Navy Classic,149,L,SV-1,6 - 4,Braden Stauffenberg,78899,Michigan State,PJ Crane,50599,Navy
+2023,11/19,Navy Classic,149,L,DEC,3 - 1,Eddie Homrock,62776,Michigan State,PJ Crane,50599,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,149,W,DEC,4 - 3,Kristopher Ketchum,82061,Nassau Community College,PJ Crane,50599,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,149,L,TB-2,6 - 5,Owen Finn,73204,Cornell,PJ Crane,50599,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,149,L,DEC,11 - 5,Fin Nadeau,73496,Binghamton,PJ Crane,50599,Navy
+2023,11/06,Clarion Open,149,L,DEC,8 - 1,Kelin Laffey,78143,Pittsburgh,PJ Crane,50599,Navy
+2023,11/06,Clarion Open,149,L,DEC,3 - 0,Tyler Badgett,67118,Pittsburgh,PJ Crane,50599,Navy
+2023,11/06,Clarion Open,149,W,DEC,8 - 4,John Altieri,70738,Clarion,PJ Crane,50599,Navy
+2023,11/06,Clarion Open,149,W,TF5,16 - 1 7:00,Emmanuel Willins,79839,Buffalo,PJ Crane,50599,Navy
+2023,12/04,ARMS Software Patriots Open,149,L,DEC,7 - 3,James Latona,79382,Navy,Ben Bancroft,70144,Navy
+2023,12/04,ARMS Software Patriots Open,149,L,DEC,10 - 3,Noah Roulo,61776,VMI,Ben Bancroft,70144,Navy
+2023,11/27,Mat-Town Open I,149,L,FALL,3:40,Meyer Shapiro,78556,Spartan Combat RTC,Ben Bancroft,70144,Navy
+2023,11/27,Mat-Town Open I,149,L,FALL,4:54,Nate Wade,76000,Cornell,Ben Bancroft,70144,Navy
+2023,11/27,Mat-Town Open I,149,W,DEC,6 - 5,Jack Coulston,68185,Lock Haven,Ben Bancroft,70144,Navy
+2023,12/04,ARMS Software Patriots Open,149,L,MD,17 - 8,Josh Scott,83148,Unattached,Marshall Hanson,73330,Navy
+2023,12/04,ARMS Software Patriots Open,149,L,FALL,0:42,Nathan Higley,71834,George Mason,Marshall Hanson,73330,Navy
+2023,03/04,EIWA Championships,157,W,DEC,4 - 3,Rhise Royster,62049,LIU,Andrew Cerniglia,62439,Navy
+2023,03/04,EIWA Championships,157,L,DEC,5 - 3,Nick Delp,62493,Bucknell,Andrew Cerniglia,62439,Navy
+2023,03/04,EIWA Championships,157,L,DEC,7 - 5,Nathan Lukez,69377,Army West Point,Andrew Cerniglia,62439,Navy
+2023,02/19,Navy - Army Dual,157,W,DEC,7 - 2,Nathan Lukez,69377,Army West Point,Andrew Cerniglia,62439,Navy
+2023,01/21,Navy - Lehigh Dual,157,W,DEC,4 - 1,Max Brignola,73041,Lehigh,Andrew Cerniglia,62439,Navy
+2023,12/29,Soldier Salute Open,157,L,MFOR,0 - 0,Andrew Garr,57348,Columbia,Andrew Cerniglia,62439,Navy
+2023,12/29,Soldier Salute Open,157,L,FALL,3:42,Tanner Craig,59533,Army West Point,Andrew Cerniglia,62439,Navy
+2023,12/29,Soldier Salute Open,157,L,MFOR,0 - 0,Wade Mitchell,62689,Northern Iowa,Andrew Cerniglia,62439,Navy
+2023,12/29,Soldier Salute Open,157,L,FALL,4:56,Bryce Dauphin,72102,Wyoming,Andrew Cerniglia,62439,Navy
+2023,12/11,Navy - Maryland Dual,157,L,DEC,2 - 0,Michael North,57335,Maryland,Andrew Cerniglia,62439,Navy
+2023,11/19,Navy Classic,157,W,MD,17 - 4,Garrett Thompson,73169,Ohio,Andrew Cerniglia,62439,Navy
+2023,11/19,Navy Classic,157,L,DEC,10 - 7,Antrell Taylor,72966,Nebraska,Andrew Cerniglia,62439,Navy
+2023,11/19,Navy Classic,157,L,INJ,2:16,Keegan Knapp,79795,Kent State,Andrew Cerniglia,62439,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,157,W,DEC,7 - 4,Vince Zerban,73032,Northern Colorado,Andrew Cerniglia,62439,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,157,W,DEC,4 - 3,Alex Hornfeck,56494,West Virginia,Andrew Cerniglia,62439,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,157,W,MD,10 - 0,Cole Handlovic,65422,Cornell,Andrew Cerniglia,62439,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,157,W,TF5,21 - 5 5:32,Conner Decker,71752,Binghamton,Andrew Cerniglia,62439,Navy
+2023,02/04,Navy - Bucknell Dual,157,L,DEC,7 - 2,Nick Delp,62493,Bucknell,Devon Deem,78466,Navy
+2023,02/03,Navy - Lock Haven Dual,157,L,TF5,16 - 0 5:55,Ashton Eyler,58037,Lock Haven,Devon Deem,78466,Navy
+2023,01/29,Navy - Binghamton Dual,157,L,DEC,4 - 0,Conner Decker,71752,Binghamton,Devon Deem,78466,Navy
+2023,01/28,Navy - Hofstra Dual,157,L,DEC,8 - 3,Joe McGinty,69675,Hofstra,Devon Deem,78466,Navy
+2023,01/14,Kent State - Navy Dual,157,L,FALL,2:08,Ethan Barr,76508,Kent State,Devon Deem,78466,Navy
+2023,01/13,Navy - Virginia Dual,157,L,FALL,1:54,Denton Spencer,49134,Virginia,Devon Deem,78466,Navy
+2023,01/13,South Dakota State - Navy Dual,157,L,MD,13 - 1,Cael Swensen,70926,South Dakota State,Devon Deem,78466,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,157,L,INJ,4:11,Joseph Chiappazzi,78470,West Virginia,Devon Deem,78466,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,157,L,MFOR,0 - 0,Joseph Chiappazzi,78470,West Virginia,Devon Deem,78466,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,157,L,MFOR,0 - 0,Walker Heard,62592,West Virginia,Devon Deem,78466,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,157,W,DEC,6 - 5,Logan Gumble,72616,Binghamton,Devon Deem,78466,Navy
+2023,11/06,Clarion Open,157,L,DEC,8 - 5,Collin McCorkle,73310,Pittsburgh,Devon Deem,78466,Navy
+2023,11/06,Clarion Open,157,L,FALL,3:54,Kendall Coleman,50626,Purdue,Devon Deem,78466,Navy
+2023,11/06,Clarion Open,157,W,FALL,6:28,Hunter Shaut,61754,Buffalo,Devon Deem,78466,Navy
+2023,12/02,Cliff Keen Invitational,157,L,FALL,1:13,Luka Wick,71782,Cal Poly,George Ruiz,68719,Navy
+2023,12/02,Cliff Keen Invitational,157,L,MD,9 - 1,Luke Kemerer,50929,Edinboro,George Ruiz,68719,Navy
+2023,12/02,Cliff Keen Invitational,157,W,MFOR,0 - 0,Nick Palumbo,49068,Sacred Heart,George Ruiz,68719,Navy
+2023,11/27,Mat-Town Open I,157,W,DEC,4 - 3,Tim Bova,79255,Spartan Combat RTC,George Ruiz,68719,Navy
+2023,11/27,Mat-Town Open I,157,W,DEC,4 - 1,Tim Bova,79255,Spartan Combat RTC,George Ruiz,68719,Navy
+2023,11/27,Mat-Town Open I,157,L,FALL,1:00,Colton Yapoujian,56705,Cornell,George Ruiz,68719,Navy
+2023,11/27,Mat-Town Open I,157,W,DEC,4 - 1,Conner Decker,71752,Binghamton,George Ruiz,68719,Navy
+2023,11/27,Mat-Town Open I,157,L,DEC,4 - 0,Conner Decker,71752,Binghamton,George Ruiz,68719,Navy
+2023,12/04,ARMS Software Patriots Open,157,L,TF5,15 - 0 4:00,Benny Rodgers,81116,Spartan Combat RTC,Mike Ponenti,73335,Navy
+2023,12/04,ARMS Software Patriots Open,157,W,DEC,8 - 3,Ethan Barrett,67423,VMI,Mike Ponenti,73335,Navy
+2023,12/04,ARMS Software Patriots Open,157,L,FALL,2:54,Peter Pappas,49131,George Mason,Mike Ponenti,73335,Navy
+2023,11/27,Mat-Town Open I,157,L,FALL,3:48,Jack Pletcher,76351,Pittsburgh,Mike Ponenti,73335,Navy
+2023,11/27,Mat-Town Open I,157,L,TF5,17 - 2 4:21,Conner Decker,71752,Binghamton,Mike Ponenti,73335,Navy
+2023,11/19,Navy Classic,157,L,TF5,16 - 1 3:35,Jobe Chishko,56805,VMI,Mike Ponenti,73335,Navy
+2023,11/19,Navy Classic,157,L,MD,11 - 1,Marc Koch,73735,Davidson,Mike Ponenti,73335,Navy
+2023,03/04,EIWA Championships,165,L,DEC,5 - 3,Lucas Revano,56734,Pennsylvania,Jon Park,60226,Navy
+2023,03/04,EIWA Championships,165,W,TF5,15 - 0 4:12,Matthew Rogers,67082,Hofstra,Jon Park,60226,Navy
+2023,03/04,EIWA Championships,165,L,FALL,7:26,Joshua Kim,51200,Harvard,Jon Park,60226,Navy
+2023,02/19,Navy - Army Dual,165,L,DEC,3 - 1,Dalton Harkins,65872,Army West Point,Jon Park,60226,Navy
+2023,02/04,Navy - Bucknell Dual,165,W,DEC,4 - 0,Riley Bower,71755,Bucknell,Jon Park,60226,Navy
+2023,02/03,Navy - Lock Haven Dual,165,L,SV-1,5 - 4,Avery Bassett,71835,Lock Haven,Jon Park,60226,Navy
+2023,01/29,Navy - Binghamton Dual,165,L,DEC,5 - 2,Brevin Cassella,67293,Binghamton,Jon Park,60226,Navy
+2023,01/28,Navy - Hofstra Dual,165,W,DEC,8 - 2,Matthew Rogers,67082,Hofstra,Jon Park,60226,Navy
+2023,01/21,Navy - Lehigh Dual,165,W,DEC,6 - 0,Luca Frinzi,57518,Lehigh,Jon Park,60226,Navy
+2023,01/14,Oklahoma - Navy Dual,165,L,SV-1,6 - 4,Alejandro Herrera-Rondon,68725,Oklahoma,Jon Park,60226,Navy
+2023,01/13,Navy - Virginia Dual,165,L,DEC,8 - 4,Nick Hamilton,73501,Virginia,Jon Park,60226,Navy
+2023,01/13,South Dakota State - Navy Dual,165,L,FALL,0:29,Tanner Cook,51408,South Dakota State,Jon Park,60226,Navy
+2023,01/06,David Lehman Open,165,W,DEC,6 - 0,Jonathan Conrad,73553,Brown,Jon Park,60226,Navy
+2023,01/06,David Lehman Open,165,W,FALL,4:18,Nico Bogardus,73477,Sacred Heart,Jon Park,60226,Navy
+2023,01/06,David Lehman Open,165,L,DEC,4 - 3,Matthew Singleton,73015,NC State,Jon Park,60226,Navy
+2023,01/06,David Lehman Open,165,W,DEC,5 - 2,Jonathan Parrilla,62455,Millersville,Jon Park,60226,Navy
+2023,01/06,David Lehman Open,165,L,MFOR,0 - 0,Bryce Sanderlin,63711,Davidson,Jon Park,60226,Navy
+2023,12/11,Navy - Maryland Dual,165,W,DEC,9 - 2,Lucas Cordio,57120,Maryland,Jon Park,60226,Navy
+2023,12/02,Cliff Keen Invitational,165,L,MD,13 - 0,Austin Yant,50261,Northern Iowa,Jon Park,60226,Navy
+2023,12/02,Cliff Keen Invitational,165,L,DEC,6 - 1,Drew Nicholson,49091,Virginia Tech,Jon Park,60226,Navy
+2023,12/02,Cliff Keen Invitational,165,W,MD,15 - 6,Blake Bahna,72236,LIU,Jon Park,60226,Navy
+2023,11/19,Navy Classic,165,L,DEC,7 - 5,Bubba Wilson,57936,Nebraska,Jon Park,60226,Navy
+2023,11/19,Navy Classic,165,W,MD,13 - 3,Chase Barlow,78732,Bucknell,Jon Park,60226,Navy
+2023,11/19,Navy Classic,165,W,MD,15 - 6,Braxton Lewis,78474,VMI,Jon Park,60226,Navy
+2023,11/19,Navy Classic,165,W,DEC,5 - 0,Luke Hart,72524,VMI,Jon Park,60226,Navy
+2023,11/19,Navy Classic,165,W,DEC,9 - 2,Giano Petrucelli,62610,Air Force,Jon Park,60226,Navy
+2023,11/19,Navy Classic,165,W,FALL,1:26,Caleb Campos,78804,American,Jon Park,60226,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,165,W,MD,14 - 6,Gunner Filipowicz,72974,United States Military Academy,Jon Park,60226,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,165,L,DEC,6 - 0,Peyton Hall,57711,West Virginia,Jon Park,60226,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,165,W,DEC,7 - 2,Blaine Bergey,63157,Princeton,Jon Park,60226,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,165,W,FALL,5:47,RJ Moore,78649,Franklin & Marshall,Jon Park,60226,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,165,W,DEC,9 - 2,Cameron Pine,57196,Clarion,Jon Park,60226,Navy
+2023,11/06,Clarion Open,165,W,FALL,2:54,Brock Salvatore,81112,Slippery Rock,Jon Park,60226,Navy
+2023,11/06,Clarion Open,165,L,DEC,6 - 4,Enrique Munguia,73500,Kent State,Jon Park,60226,Navy
+2023,11/06,Clarion Open,165,W,DEC,3 - 0,Cooper Noehre,65006,Purdue,Jon Park,60226,Navy
+2023,11/06,Clarion Open,165,W,MD,12 - 0,Eli Brinsky,67110,Clarion,Jon Park,60226,Navy
+2023,11/06,Clarion Open,165,W,DEC,5 - 1,Chase Barlow,78732,Bucknell,Jon Park,60226,Navy
+2023,02/04,Bucknell Navy ECM,165,W,TF5,16 - 1 7:00,Nicholas Arbes,72508,Bucknell,Henry Hague Jr,56716,Navy
+2023,01/29,Mat-Town Open II,165,L,TF5,21 - 3 7:00,Lucas Cordio,57120,Maryland,Genaro Quodala,76008,Navy
+2023,01/29,Mat-Town Open II,165,L,DEC,2 - 1,Collin McCorkle,73310,Pittsburgh,Genaro Quodala,76008,Navy
+2023,01/06,David Lehman Open,165,L,MFOR,0 - 0,Mason Stein,79089,Maryland,Genaro Quodala,76008,Navy
+2023,01/06,David Lehman Open,165,L,TF5,19 - 4 6:29,Gunner Filipowicz,72974,United States Military Academy,Genaro Quodala,76008,Navy
+2023,01/06,David Lehman Open,165,W,MD,17 - 3,Luca Pontone,57725,Princeton,Genaro Quodala,76008,Navy
+2023,01/06,David Lehman Open,165,W,MD,15 - 3,Nate Stephenson,71582,Davidson,Genaro Quodala,76008,Navy
+2023,12/29,Soldier Salute Open,165,W,FALL,2:34,Raheem Rahamatulla,83389,Unattached,Genaro Quodala,76008,Navy
+2023,12/29,Soldier Salute Open,165,L,DEC,4 - 0,Drake Rhodes,73705,Iowa,Genaro Quodala,76008,Navy
+2023,12/29,Soldier Salute Open,165,W,MD,14 - 5,Carson Martinson,73560,Iowa,Genaro Quodala,76008,Navy
+2023,12/29,Soldier Salute Open,165,L,DEC,4 - 0,Cole Nance,73533,Bellarmine,Genaro Quodala,76008,Navy
+2023,12/29,Soldier Salute Open,165,L,DEC,6 - 4,Braxton Lewis,78474,VMI,Genaro Quodala,76008,Navy
+2023,12/04,ARMS Software Patriots Open,165,L,DEC,9 - 4,Roberto Padilla,81108,Spartan Combat RTC,Genaro Quodala,76008,Navy
+2023,12/04,ARMS Software Patriots Open,165,W,FALL,3:50,Liam Finn,78568,Spartan Combat RTC,Genaro Quodala,76008,Navy
+2023,12/04,ARMS Software Patriots Open,165,W,DEC,6 - 5,Luke Hart,72524,VMI,Genaro Quodala,76008,Navy
+2023,12/04,ARMS Software Patriots Open,165,L,DEC,7 - 2,Oren Bost,73101,Appalachian State,Genaro Quodala,76008,Navy
+2023,12/04,ARMS Software Patriots Open,165,W,MD,16 - 4,Nate Stephenson,71582,Davidson,Genaro Quodala,76008,Navy
+2023,03/04,EIWA Championships,174,L,MD,14 - 5,Lennox Wolak,57767,Columbia,Sammy Starr,73336,Navy
+2023,03/04,EIWA Championships,174,W,INJ,7:00,Nick Incontrera,57070,Pennsylvania,Sammy Starr,73336,Navy
+2023,03/04,EIWA Championships,174,W,DEC,4 - 0,Ross McFarland,62209,Hofstra,Sammy Starr,73336,Navy
+2023,03/04,EIWA Championships,174,W,DEC,5 - 0,Sam DePrez,56480,Binghamton,Sammy Starr,73336,Navy
+2023,03/04,EIWA Championships,174,L,MD,11 - 3,Ben Pasiuk,57286,Army West Point,Sammy Starr,73336,Navy
+2023,03/04,EIWA Championships,174,W,DEC,5 - 0,Lucas White,72683,American,Sammy Starr,73336,Navy
+2023,02/19,Navy - Army Dual,174,L,DEC,8 - 5,Ben Pasiuk,57286,Army West Point,Sammy Starr,73336,Navy
+2023,02/04,Navy - Bucknell Dual,174,W,DEC,6 - 2,Sam Barnes,63005,Bucknell,Sammy Starr,73336,Navy
+2023,02/03,Navy - Lock Haven Dual,174,L,DEC,11 - 5,Tyler Stoltzfus,65398,Lock Haven,Sammy Starr,73336,Navy
+2023,01/29,Navy - Binghamton Dual,174,W,FALL,4:06,Sam DePrez,56480,Binghamton,Sammy Starr,73336,Navy
+2023,01/28,Navy - Hofstra Dual,174,L,DEC,7 - 3,Ross McFarland,62209,Hofstra,Sammy Starr,73336,Navy
+2023,01/21,Navy - Lehigh Dual,174,L,DEC,6 - 4,Jake Logan,57185,Lehigh,Sammy Starr,73336,Navy
+2023,01/14,Oklahoma - Navy Dual,174,W,SV-1,9 - 7,Tate Picklo,72165,Oklahoma,Sammy Starr,73336,Navy
+2023,01/14,Kent State - Navy Dual,174,W,FALL,2:44,Michael Ferree,56368,Kent State,Sammy Starr,73336,Navy
+2023,01/13,Navy - Virginia Dual,174,W,DEC,3 - 1,Justin Phillips,57093,Virginia,Sammy Starr,73336,Navy
+2023,01/13,South Dakota State - Navy Dual,174,L,MD,11 - 3,Cade DeVos,57072,South Dakota State,Sammy Starr,73336,Navy
+2023,01/06,David Lehman Open,174,L,DEC,3 - 2,Isaac Dean,72506,Rider,Sammy Starr,73336,Navy
+2023,01/06,David Lehman Open,174,W,MD,9 - 1,Garrett Bilgrav,59824,Columbia,Sammy Starr,73336,Navy
+2023,01/06,David Lehman Open,174,L,DEC,8 - 4,Michael Kistler,56735,Pennsylvania,Sammy Starr,73336,Navy
+2023,01/06,David Lehman Open,174,W,DEC,3 - 2,Gage Musser,71710,Air Force,Sammy Starr,73336,Navy
+2023,12/11,Navy - Maryland Dual,174,L,DEC,2 - 1,Dominic Solis,66460,Maryland,Sammy Starr,73336,Navy
+2023,12/02,Cliff Keen Invitational,174,W,MD,12 - 1,Will Miller,73102,Appalachian State,Sammy Starr,73336,Navy
+2023,12/02,Cliff Keen Invitational,174,L,DEC,5 - 1,Troy Fisher,57601,Northwestern,Sammy Starr,73336,Navy
+2023,12/02,Cliff Keen Invitational,174,L,DEC,10 - 4,Mekhi Lewis,49338,Virginia Tech,Sammy Starr,73336,Navy
+2023,12/02,Cliff Keen Invitational,174,W,DEC,5 - 2,Benjamin Haubert,71286,The Citadel,Sammy Starr,73336,Navy
+2023,11/19,Navy Classic,174,L,DEC,7 - 5,Sal Perrine,73171,Ohio,Sammy Starr,73336,Navy
+2023,11/19,Navy Classic,174,W,DEC,5 - 1,Ceasar Garza,73104,Michigan State,Sammy Starr,73336,Navy
+2023,11/19,Navy Classic,174,W,DEC,2 - 0,Lucas Daly,71943,Michigan State,Sammy Starr,73336,Navy
+2023,11/19,Navy Classic,174,W,SV-1,6 - 4,Tyler Stoltzfus,65398,Lock Haven,Sammy Starr,73336,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,174,W,FALL,3:17,Caden Stout,82065,US Naval Academy Prep School,Sammy Starr,73336,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,174,W,DEC,9 - 5,Andrew Berreyesa,49111,Northern Colorado,Sammy Starr,73336,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,174,W,DEC,6 - 0,Christian Hansen,71809,Cornell,Sammy Starr,73336,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,174,W,FALL,1:45,Aaron Ayzerov,70911,Columbia,Sammy Starr,73336,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,174,L,DEC,7 - 5,Lennox Wolak,57767,Columbia,Sammy Starr,73336,Navy
+2023,11/06,Clarion Open,174,W,FALL,3:49,Baren Berg,81110,NLWC,Sammy Starr,73336,Navy
+2023,11/06,Clarion Open,174,L,DEC,6 - 3,Jared McGill,50995,Edinboro,Sammy Starr,73336,Navy
+2023,11/06,Clarion Open,174,W,FALL,2:22,Andrew Wilson,73732,Gardner-Webb,Sammy Starr,73336,Navy
+2023,11/06,Clarion Open,174,W,DEC,6 - 2,Suds Dubler,78567,Clarion,Sammy Starr,73336,Navy
+2023,11/06,Clarion Open,174,L,DEC,7 - 4,Sam Barnes,63005,Bucknell,Sammy Starr,73336,Navy
+2023,12/04,ARMS Software Patriots Open,174,W,MD,12 - 4,Michael Parnell,62386,VMI,Zander Manuel,70146,Navy
+2023,12/04,ARMS Software Patriots Open,174,L,TF5,16 - 0 1:52,Logan Messer,71846,George Mason,Zander Manuel,70146,Navy
+2023,12/04,ARMS Software Patriots Open,174,L,TF5,18 - 2 4:44,Jeremy Seymour,62586,George Mason,Zander Manuel,70146,Navy
+2023,12/04,ARMS Software Patriots Open,174,W,DEC,11 - 4,Noah Bash,72675,Franklin & Marshall,Zander Manuel,70146,Navy
+2023,11/27,Mat-Town Open I,174,L,MD,20 - 7,Christian Hansen,71809,Cornell,Zander Manuel,70146,Navy
+2023,11/27,Mat-Town Open I,174,L,FALL,2:38,Luke Gorg,68401,Cornell,Zander Manuel,70146,Navy
+2023,11/19,Navy Classic,174,L,TF5,17 - 2 3:43,Michael Labriola,49207,Nebraska,Zander Manuel,70146,Navy
+2023,11/19,Navy Classic,174,L,FALL,5:46,Sam Wolf,66631,Air Force,Zander Manuel,70146,Navy
+2023,11/06,Clarion Open,174,L,FALL,4:22,Carson Miller,79338,Pittsburgh,Zander Manuel,70146,Navy
+2023,11/06,Clarion Open,174,L,DEC,6 - 4,Jake Sabol,74010,Pitt-Johnstown,Zander Manuel,70146,Navy
+2023,11/27,Mat-Town Open I,174,L,MFOR,0 - 0,Carson Miller,79338,Pittsburgh,Gervacio Gonzalez,79463,Navy
+2023,11/27,Mat-Town Open I,174,L,FALL,2:55,Tyler Stoltzfus,65398,Lock Haven,Gervacio Gonzalez,79463,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,174,L,DEC,9 - 3,Caden Stout,82065,US Naval Academy Prep School,Gervacio Gonzalez,79463,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,174,L,FALL,0:37,Andrew Berreyesa,49111,Northern Colorado,Gervacio Gonzalez,79463,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,174,W,DEC,10 - 3,Noah Bash,72675,Franklin & Marshall,Gervacio Gonzalez,79463,Navy
+2023,01/29,Mat-Town Open II,174,L,MD,9 - 1,Lance Urbas,71693,Pennsylvania,Orion Thivierge,79464,Navy
+2023,01/29,Mat-Town Open II,174,L,DEC,6 - 2,Sean Kilrain,64015,Lehigh,Orion Thivierge,79464,Navy
+2023,01/06,David Lehman Open,174,L,MD,10 - 2,Jack Janda,71665,Drexel,Orion Thivierge,79464,Navy
+2023,01/06,David Lehman Open,174,L,DEC,7 - 3,Jake Stefanowicz,57039,Pennsylvania,Orion Thivierge,79464,Navy
+2023,03/16,NCAA Championships,184,L,SV-1,3 - 1,Brian Bonino,51034,Drexel,David Key,56717,Navy
+2023,03/16,NCAA Championships,184,W,DEC,8 - 4,Dylan Connell,67216,Illinois,David Key,56717,Navy
+2023,03/16,NCAA Championships,184,L,DEC,3 - 2,Hunter Bolen,49335,Virginia Tech,David Key,56717,Navy
+2023,03/04,EIWA Championships,184,W,DEC,11 - 4,Nate Dugan,57662,Princeton,David Key,56717,Navy
+2023,03/04,EIWA Championships,184,W,DEC,8 - 3,Brian Bonino,51034,Drexel,David Key,56717,Navy
+2023,03/04,EIWA Championships,184,W,MD,13 - 3,Aaron Ayzerov,70911,Columbia,David Key,56717,Navy
+2023,03/04,EIWA Championships,184,W,SV-1,4 - 2,James Conway,72677,Franklin & Marshall,David Key,56717,Navy
+2023,03/04,EIWA Championships,184,L,DEC,3 - 2,Brian Bonino,51034,Drexel,David Key,56717,Navy
+2023,03/04,EIWA Championships,184,W,DEC,5 - 4,Sahm AbdulRazzaq,58214,Army West Point,David Key,56717,Navy
+2023,02/19,Navy - Army Dual,184,W,DEC,3 - 2,Sahm AbdulRazzaq,58214,Army West Point,David Key,56717,Navy
+2023,01/28,Navy - Hofstra Dual,184,L,DEC,10 - 5,Jacob Ferreira,56807,Hofstra,David Key,56717,Navy
+2023,01/21,Navy - Lehigh Dual,184,L,DEC,8 - 2,Tate Samuelson,57066,Lehigh,David Key,56717,Navy
+2023,01/14,Oklahoma - Navy Dual,184,W,FALL,1:08,Keegan Moore,44872,Oklahoma,David Key,56717,Navy
+2023,01/14,Kent State - Navy Dual,184,W,DEC,6 - 1,Tyler Bates,56413,Kent State,David Key,56717,Navy
+2023,01/13,Navy - Virginia Dual,184,W,DEC,8 - 6,Neil Antrassian,56202,Virginia,David Key,56717,Navy
+2023,01/06,David Lehman Open,184,W,DEC,6 - 0,Cael Crebs,72190,Navy,David Key,56717,Navy
+2023,01/06,David Lehman Open,184,L,DEC,7 - 3,Josh Stillings,50895,Drexel,David Key,56717,Navy
+2023,01/06,David Lehman Open,184,W,DEC,4 - 0,Mike Caniglia,63012,Kent State,David Key,56717,Navy
+2023,01/06,David Lehman Open,184,L,DEC,8 - 7,Luke Rada,67359,Harvard,David Key,56717,Navy
+2023,01/06,David Lehman Open,184,W,DEC,9 - 5,Noah Blake,57245,Air Force,David Key,56717,Navy
+2023,12/11,Navy - Maryland Dual,184,W,DEC,4 - 0,Chase Mielnik,67431,Maryland,David Key,56717,Navy
+2023,12/02,Cliff Keen Invitational,184,L,DEC,9 - 4,Cade King,62671,South Dakota State,David Key,56717,Navy
+2023,12/02,Cliff Keen Invitational,184,L,DEC,13 - 6,Peter Acciardi,51069,Cal Baptist,David Key,56717,Navy
+2023,12/02,Cliff Keen Invitational,184,W,DEC,9 - 3,Brett McIntosh,62757,Wyoming,David Key,56717,Navy
+2023,12/02,Cliff Keen Invitational,184,W,FALL,6:09,Tyler Bates,56413,Kent State,David Key,56717,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,184,W,DEC,5 - 3,Aiden Hanning,74562,Spartan Combat RTC,David Key,56717,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,184,W,MD,8 - 0,Andrew Donahue,73503,Northern Colorado,David Key,56717,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,184,W,TB-2,7 - 6,Anthony Carman,62423,West Virginia,David Key,56717,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,184,L,DEC,7 - 4,Jonathan Loew,51080,Cornell,David Key,56717,Navy
+2023,11/06,Clarion Open,184,W,DEC,7 - 3,Aiden Hanning,74562,Spartan Combat RTC,David Key,56717,Navy
+2023,11/06,Clarion Open,184,W,FALL,1:02,Ashton Breen,70281,Kent State,David Key,56717,Navy
+2023,11/06,Clarion Open,184,W,MD,13 - 4,Ethan Ducca,62334,Edinboro,David Key,56717,Navy
+2023,11/06,Clarion Open,184,L,DEC,10 - 5,Ben Vanadia,68732,Purdue,David Key,56717,Navy
+2023,11/06,Clarion Open,184,W,DEC,3 - 1,Jha'Quan Anderson,62407,Gardner-Webb,David Key,56717,Navy
+2023,02/04,Navy - Bucknell Dual,184,W,DEC,7 - 4,Mason McCready,57223,Bucknell,Cael Crebs,72190,Navy
+2023,02/03,Navy - Lock Haven Dual,184,L,FALL,3:35,Colin Fegley,63035,Lock Haven,Cael Crebs,72190,Navy
+2023,01/29,Navy - Binghamton Dual,184,L,DEC,4 - 0,Jacob Nolan,62415,Binghamton,Cael Crebs,72190,Navy
+2023,01/13,South Dakota State - Navy Dual,184,L,DEC,10 - 3,Cade King,62671,South Dakota State,Cael Crebs,72190,Navy
+2023,01/06,David Lehman Open,184,L,DEC,6 - 0,David Key,56717,Navy,Cael Crebs,72190,Navy
+2023,01/06,David Lehman Open,184,L,DEC,6 - 1,Dylan Fishback,69792,NC State,Cael Crebs,72190,Navy
+2023,01/06,David Lehman Open,184,L,DEC,10 - 4,James Conway,72677,Franklin & Marshall,Hunter Johns,62914,Navy
+2023,01/06,David Lehman Open,184,W,MD,13 - 5,Asa Terrell,69517,Rider,Hunter Johns,62914,Navy
+2023,01/06,David Lehman Open,184,L,DEC,4 - 2,Remy Brancato,73493,Lehigh,Hunter Johns,62914,Navy
+2023,01/06,David Lehman Open,184,W,DEC,10 - 9,Drake Buchanan,79035,Air Force,Hunter Johns,62914,Navy
+2023,11/19,Navy Classic,184,L,MD,11 - 0,Zayne Lehman,71781,Ohio,Hunter Johns,62914,Navy
+2023,11/19,Navy Classic,184,L,DEC,5 - 0,Zayne Lehman,71781,Ohio,Hunter Johns,62914,Navy
+2023,11/19,Navy Classic,184,W,FALL,1:33,Ashton Breen,70281,Kent State,Hunter Johns,62914,Navy
+2023,11/19,Navy Classic,184,W,FALL,1:25,William Rogers,71667,The Citadel,Hunter Johns,62914,Navy
+2023,11/19,Navy Classic,184,W,MD,14 - 2,Andrew Wenzel,71713,Air Force,Hunter Johns,62914,Navy
+2023,11/19,Navy Classic,184,L,DEC,8 - 5,Noah Blake,57245,Air Force,Hunter Johns,62914,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,184,L,DEC,8 - 2,Dennis Robin,69638,West Virginia,Hunter Johns,62914,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,184,L,DEC,9 - 4,JT Davis,65763,Lehigh,Hunter Johns,62914,Navy
+2023,11/06,Clarion Open,184,W,DEC,6 - 1,Noah Gnibus,79425,Pitt-Johnstown,Hunter Johns,62914,Navy
+2023,11/06,Clarion Open,184,L,MD,14 - 4,James Lledo,69571,Pittsburgh,Hunter Johns,62914,Navy
+2023,11/06,Clarion Open,184,W,FALL,5:34,Mike Caniglia,63012,Kent State,Hunter Johns,62914,Navy
+2023,11/06,Clarion Open,184,L,DEC,12 - 6,Ethan Ducca,62334,Edinboro,Hunter Johns,62914,Navy
+2023,03/16,NCAA Championships,197,L,SV-1,10 - 8,Isaac Trumble,67131,NC State,Jake Koser,50890,Navy
+2023,03/16,NCAA Championships,197,W,DEC,6 - 4,Andy Smith,63528,Virginia Tech,Jake Koser,50890,Navy
+2023,03/16,NCAA Championships,197,L,MD,11 - 1,Michael Beard,50614,Lehigh,Jake Koser,50890,Navy
+2023,03/04,EIWA Championships,197,W,DEC,6 - 2,Jack Wehmeyer,71793,Columbia,Jake Koser,50890,Navy
+2023,03/04,EIWA Championships,197,L,MD,11 - 1,Luke Stout,62599,Princeton,Jake Koser,50890,Navy
+2023,03/04,EIWA Championships,197,L,TF5,22 - 7 6:09,Michael Beard,50614,Lehigh,Jake Koser,50890,Navy
+2023,03/04,EIWA Championships,197,W,DEC,9 - 7,Trey Rogers,51099,Hofstra,Jake Koser,50890,Navy
+2023,03/04,EIWA Championships,197,W,FALL,4:55,Daniel Lawrence,69375,Army West Point,Jake Koser,50890,Navy
+2023,02/19,Navy - Army Dual,197,W,DEC,5 - 0,Kyle Swartz,65875,Army West Point,Jake Koser,50890,Navy
+2023,02/04,Navy - Bucknell Dual,197,W,DEC,6 - 0,Nolan Springer,71749,Bucknell,Jake Koser,50890,Navy
+2023,02/03,Navy - Lock Haven Dual,197,W,FALL,1:56,Brad Morrison,78739,Lock Haven,Jake Koser,50890,Navy
+2023,01/29,Navy - Binghamton Dual,197,W,MD,13 - 1,Cayden Bevis,78819,Binghamton,Jake Koser,50890,Navy
+2023,01/21,Navy - Lehigh Dual,197,L,TF5,21 - 6 6:33,Michael Beard,50614,Lehigh,Jake Koser,50890,Navy
+2023,01/14,Kent State - Navy Dual,197,W,MD,15 - 2,Blake Schaffer,79797,Kent State,Jake Koser,50890,Navy
+2023,01/13,Navy - Virginia Dual,197,L,DEC,7 - 6,Michael Battista,51672,Virginia,Jake Koser,50890,Navy
+2023,01/13,South Dakota State - Navy Dual,197,L,MD,11 - 0,Tanner Sloan,56251,South Dakota State,Jake Koser,50890,Navy
+2023,01/06,David Lehman Open,197,W,MD,10 - 2,John Crawford,62873,Franklin & Marshall,Jake Koser,50890,Navy
+2023,01/06,David Lehman Open,197,W,DEC,6 - 1,Aidan Conner,57524,Princeton,Jake Koser,50890,Navy
+2023,01/06,David Lehman Open,197,W,MD,13 - 3,Sean O'Malley,49121,Drexel,Jake Koser,50890,Navy
+2023,01/06,David Lehman Open,197,W,FALL,1:33,Conor Maslanek,71006,Campbell,Jake Koser,50890,Navy
+2023,01/06,David Lehman Open,197,W,TF5,17 - 2 4:00,Garrett Henigin,69523,Air Force,Jake Koser,50890,Navy
+2023,12/11,Navy - Maryland Dual,197,L,MD,10 - 2,Jaxon Smith,68714,Maryland,Jake Koser,50890,Navy
+2023,12/02,Cliff Keen Invitational,197,W,INJ,7:00,Kordell Norfleet,49038,Arizona State,Jake Koser,50890,Navy
+2023,12/02,Cliff Keen Invitational,197,L,FALL,5:49,Isaac Trumble,67131,NC State,Jake Koser,50890,Navy
+2023,12/02,Cliff Keen Invitational,197,L,DEC,7 - 4,Evan Bockman,57270,Utah Valley,Jake Koser,50890,Navy
+2023,12/02,Cliff Keen Invitational,197,W,DEC,6 - 0,Trey Rogers,51099,Hofstra,Jake Koser,50890,Navy
+2023,12/02,Cliff Keen Invitational,197,W,DEC,6 - 2,Nolan Springer,71749,Bucknell,Jake Koser,50890,Navy
+2023,11/19,Navy Classic,197,L,DEC,9 - 4,Silas Allred,62343,Nebraska,Jake Koser,50890,Navy
+2023,11/19,Navy Classic,197,W,FALL,4:25,Michael Bartush,72602,Bucknell,Jake Koser,50890,Navy
+2023,11/19,Navy Classic,197,W,DEC,10 - 3,Tyler Mousaw,67432,VMI,Jake Koser,50890,Navy
+2023,11/19,Navy Classic,197,W,TF5,18 - 3 5:38,Patrick Brophy,78688,The Citadel,Jake Koser,50890,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,197,W,FALL,0:38,Andy Rosa,81117,Spartan Combat RTC,Jake Koser,50890,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,197,W,TF5,17 - 2 6:59,Chibueze Chukwuezi,59011,Ithaca,Jake Koser,50890,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,197,W,DEC,11 - 5,Austin Cooley,56772,West Virginia,Jake Koser,50890,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,197,W,MD,12 - 0,Lucas Cochran,71705,Penn State,Jake Koser,50890,Navy
+2023,11/06,Clarion Open,197,L,DEC,4 - 2,Mac Stout,72505,Pittsburgh,Jake Koser,50890,Navy
+2023,11/06,Clarion Open,197,W,FALL,1:34,Samuel Mora,62408,Gardner-Webb,Jake Koser,50890,Navy
+2023,11/06,Clarion Open,197,W,FALL,1:55,Brett Wittmann,66633,Clarion,Jake Koser,50890,Navy
+2023,11/06,Clarion Open,197,W,MD,12 - 1,Mason McCready,57223,Bucknell,Jake Koser,50890,Navy
+2023,01/29,Mat-Town Open II,197,L,DEC,6 - 1,Martin Cosgrove,72983,PRTC,Jacob Lucas,72192,Navy
+2023,01/29,Mat-Town Open II,197,W,MD,13 - 4,Braydon Vandenberg,78715,Buffalo,Jacob Lucas,72192,Navy
+2023,01/29,Mat-Town Open II,197,W,DEC,9 - 3,Liam Volk-Klos,78524,American,Jacob Lucas,72192,Navy
+2023,01/29,Mat-Town Open II,197,W,DEC,5 - 2,Hayden Linkerhof,78513,Bucknell,Jacob Lucas,72192,Navy
+2023,01/28,Navy - Hofstra Dual,197,L,DEC,6 - 3,Trey Rogers,51099,Hofstra,Jacob Lucas,72192,Navy
+2023,01/14,Oklahoma - Navy Dual,197,W,SV-1,3 - 1,Seth Seago,63882,Oklahoma,Jacob Lucas,72192,Navy
+2023,01/06,David Lehman Open,197,L,DEC,4 - 1,Cade Lautt,69676,North Carolina,Jacob Lucas,72192,Navy
+2023,01/06,David Lehman Open,197,L,DEC,3 - 2,Max Shaw,61959,North Carolina,Jacob Lucas,72192,Navy
+2023,01/06,David Lehman Open,197,W,DEC,6 - 4,Blake Schaffer,79797,Kent State,Jacob Lucas,72192,Navy
+2023,01/06,David Lehman Open,197,W,FALL,2:32,Will Hoeft,67356,Harvard,Jacob Lucas,72192,Navy
+2023,12/29,Soldier Salute Open,197,W,DEC,8 - 6,Sungyup Ryu,62737,Unattached,Jacob Lucas,72192,Navy
+2023,12/29,Soldier Salute Open,197,L,DEC,6 - 3,Zach Glazier,56767,Iowa,Jacob Lucas,72192,Navy
+2023,12/29,Soldier Salute Open,197,L,SV-1,6 - 4,Wyatt Voelker,73956,Northern Iowa,Jacob Lucas,72192,Navy
+2023,12/29,Soldier Salute Open,197,W,MD,15 - 3,Patrick Brophy,78688,The Citadel,Jacob Lucas,72192,Navy
+2023,12/29,Soldier Salute Open,197,W,MFOR,0 - 0,Tyler Mousaw,67432,VMI,Jacob Lucas,72192,Navy
+2023,12/29,Soldier Salute Open,197,W,DEC,5 - 3,Tyce Raddon,67096,Wyoming,Jacob Lucas,72192,Navy
+2023,11/27,Mat-Town Open I,197,W,FALL,1:53,Michael Bartush,72602,Bucknell,Jacob Lucas,72192,Navy
+2023,11/27,Mat-Town Open I,197,W,FALL,4:02,Kaleb Snodgrass,64676,Lock Haven,Jacob Lucas,72192,Navy
+2023,11/19,Navy Classic,197,L,MD,14 - 4,Silas Allred,62343,Nebraska,Jacob Lucas,72192,Navy
+2023,11/19,Navy Classic,197,W,DEC,8 - 3,Kaleb Snodgrass,64676,Lock Haven,Jacob Lucas,72192,Navy
+2023,11/19,Navy Classic,197,W,DEC,4 - 2,Mason McCready,57223,Bucknell,Jacob Lucas,72192,Navy
+2023,11/19,Navy Classic,197,L,DEC,9 - 6,Tyler Mousaw,67432,VMI,Jacob Lucas,72192,Navy
+2023,11/19,Navy Classic,197,W,MD,12 - 3,Brian Jackson,67429,VMI,Jacob Lucas,72192,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,197,L,DEC,8 - 2,Austin Cooley,56772,West Virginia,Jacob Lucas,72192,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,197,L,DEC,9 - 2,Lucas Cochran,71705,Penn State,Jacob Lucas,72192,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,197,W,DEC,7 - 4,Levko Higgins,50870,Penn State,Jacob Lucas,72192,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,197,W,MD,12 - 3,Brett Wittmann,66633,Clarion,Jacob Lucas,72192,Navy
+2023,11/06,Clarion Open,197,W,DEC,10 - 3,Miles Ashbaugh,79796,Kent State,Jacob Lucas,72192,Navy
+2023,11/06,Clarion Open,197,L,DEC,7 - 5,Geoff Magin,62874,Pittsburgh,Jacob Lucas,72192,Navy
+2023,11/06,Clarion Open,197,W,MFOR,0 - 0,Jeffrey Geller,61952,Gardner-Webb,Jacob Lucas,72192,Navy
+2023,11/06,Clarion Open,197,L,DEC,5 - 4,Tyler Bagoly,49098,Clarion,Jacob Lucas,72192,Navy
+2023,12/04,ARMS Software Patriots Open,197,L,FALL,1:44,Brad Morrison,78739,Lock Haven,Paul Warner,70147,Navy
+2023,12/04,ARMS Software Patriots Open,197,L,TF5,17 - 1 6:47,Samuel Mora,62408,Gardner-Webb,Paul Warner,70147,Navy
+2023,11/27,Mat-Town Open I,197,L,MD,11 - 3,Riley Godek,78722,Bucknell,Paul Warner,70147,Navy
+2023,11/27,Mat-Town Open I,197,L,FALL,0:42,Michael Bartush,72602,Bucknell,Paul Warner,70147,Navy
+2023,03/16,NCAA Championships,285,L,DEC,4 - 1,Tate Orndorff,50974,Ohio State,Grady Griess,63170,Navy
+2023,03/16,NCAA Championships,285,L,MD,14 - 1,Wyatt Hendrickson,56694,Air Force,Grady Griess,63170,Navy
+2023,03/16,NCAA Championships,285,W,DEC,3 - 0,Josh Heindselman,57311,Oklahoma,Grady Griess,63170,Navy
+2023,03/04,EIWA Championships,285,W,SV-1,5 - 1,Nathan Taylor,73044,Lehigh,Grady Griess,63170,Navy
+2023,03/04,EIWA Championships,285,W,DEC,4 - 1,Cory Day,62418,Binghamton,Grady Griess,63170,Navy
+2023,03/04,EIWA Championships,285,W,MD,10 - 1,Travis Stefanik,49301,Princeton,Grady Griess,63170,Navy
+2023,03/04,EIWA Championships,285,W,MD,17 - 4,Santino Morina,62654,Drexel,Grady Griess,63170,Navy
+2023,02/19,Navy - Army Dual,285,W,DEC,4 - 0,Austin Kohlhofer,78530,Army West Point,Grady Griess,63170,Navy
+2023,02/04,Navy - Bucknell Dual,285,L,DEC,5 - 3,Dorian Crosby,62328,Bucknell,Grady Griess,63170,Navy
+2023,02/03,Navy - Lock Haven Dual,285,W,SV-1,3 - 1,Isaac Reid,50915,Lock Haven,Grady Griess,63170,Navy
+2023,01/29,Navy - Binghamton Dual,285,W,DEC,7 - 0,Cory Day,62418,Binghamton,Grady Griess,63170,Navy
+2023,01/28,Navy - Hofstra Dual,285,W,DEC,6 - 0,Zachary Knighton-Ward,53791,Hofstra,Grady Griess,63170,Navy
+2023,01/21,Navy - Lehigh Dual,285,W,MD,9 - 1,Nathan Taylor,73044,Lehigh,Grady Griess,63170,Navy
+2023,01/14,Oklahoma - Navy Dual,285,L,TB-1,2 - 1,Josh Heindselman,57311,Oklahoma,Grady Griess,63170,Navy
+2023,01/13,Navy - Virginia Dual,285,W,DEC,7 - 4,Ethan Weatherspoon,60762,Virginia,Grady Griess,63170,Navy
+2023,01/13,South Dakota State - Navy Dual,285,W,DEC,5 - 1,Bowen McConville,57175,South Dakota State,Grady Griess,63170,Navy
+2023,01/06,David Lehman Open,285,W,FALL,0:29,Matthew Cruise,73551,Pennsylvania,Grady Griess,63170,Navy
+2023,01/06,David Lehman Open,285,W,DQ,0 - 0,Isaac Righter,62521,American,Grady Griess,63170,Navy
+2023,01/06,David Lehman Open,285,W,DEC,8 - 1,Tyrie Houghton,51136,NC State,Grady Griess,63170,Navy
+2023,01/06,David Lehman Open,285,W,DEC,3 - 1,Brandon Whitman,50602,North Carolina,Grady Griess,63170,Navy
+2023,01/06,David Lehman Open,285,W,DEC,3 - 1,Travis Stefanik,49301,Princeton,Grady Griess,63170,Navy
+2023,01/06,David Lehman Open,285,W,FALL,2:01,Aeden Begue,72233,LIU,Grady Griess,63170,Navy
+2023,12/11,Navy - Maryland Dual,285,W,DEC,6 - 5,Jaron Smith,41353,Maryland,Grady Griess,63170,Navy
+2023,12/02,Cliff Keen Invitational,285,L,DEC,7 - 3,Yaraslau Slavikouski,62196,Harvard,Grady Griess,63170,Navy
+2023,12/02,Cliff Keen Invitational,285,W,DEC,2 - 0,Cale Davidson,49353,Nebraska,Grady Griess,63170,Navy
+2023,12/02,Cliff Keen Invitational,285,W,FALL,3:53,Ryan Reyes,57638,Oregon State,Grady Griess,63170,Navy
+2023,12/02,Cliff Keen Invitational,285,L,DEC,8 - 6,AJ Nevills,47810,South Dakota State,Grady Griess,63170,Navy
+2023,12/02,Cliff Keen Invitational,285,W,FALL,3:17,Drew Harris,74323,Ohio,Grady Griess,63170,Navy
+2023,11/19,Navy Classic,285,W,DEC,5 - 0,Ryan Vasbinder,53358,Michigan State,Grady Griess,63170,Navy
+2023,11/19,Navy Classic,285,W,MD,16 - 3,Jacob Cover,57237,Kent State,Grady Griess,63170,Navy
+2023,11/19,Navy Classic,285,L,DEC,4 - 1,Wyatt Hendrickson,56694,Air Force,Grady Griess,63170,Navy
+2023,11/19,Navy Classic,285,W,DEC,10 - 3,William Jarrell,62907,American,Grady Griess,63170,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,285,W,TF5,19 - 4 4:48,Gage Cook,71772,United States Military Academy,Grady Griess,63170,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,285,W,MD,10 - 2,Brendan Furman,49113,Cornell,Grady Griess,63170,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,285,W,DEC,6 - 4,Michael Wolfgram,57526,West Virginia,Grady Griess,63170,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,285,W,DEC,5 - 3,Sebastian Garibaldi,72130,Princeton,Grady Griess,63170,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,285,W,MD,15 - 5,Logan Shephard,73758,Bucknell,Grady Griess,63170,Navy
+2023,11/06,Clarion Open,285,W,FALL,4:03,Ryan Ellefsen,81105,SUNY Sullivan,Grady Griess,63170,Navy
+2023,11/06,Clarion Open,285,W,FALL,2:02,Kade Sottolano,78785,Edinboro,Grady Griess,63170,Navy
+2023,11/06,Clarion Open,285,W,DEC,8 - 7,Jacob Slinger,57307,Pittsburgh,Grady Griess,63170,Navy
+2023,11/06,Clarion Open,285,W,FALL,4:22,Tristan Ruhlman,71690,Purdue,Grady Griess,63170,Navy
+2023,11/06,Clarion Open,285,W,DEC,3 - 1,Hayden Copass,62893,Purdue,Grady Griess,63170,Navy
+2023,01/29,Mat-Town Open II,285,L,MFOR,0 - 0,Tristan Kemp,74521,West Virginia,Ryan Catka,72191,Navy
+2023,01/29,Mat-Town Open II,285,W,DEC,14 - 8,Matthew Cruise,73551,Pennsylvania,Ryan Catka,72191,Navy
+2023,01/29,Mat-Town Open II,285,W,DEC,4 - 3,Nolan Neves,72918,NYC RTC,Ryan Catka,72191,Navy
+2023,01/29,Mat-Town Open II,285,W,DEC,6 - 4,Max Millin,66911,Edinboro,Ryan Catka,72191,Navy
+2023,01/29,Mat-Town Open II,285,L,MD,12 - 4,Elijah Jones,56940,Lehigh,Ryan Catka,72191,Navy
+2023,01/14,Kent State - Navy Dual,285,L,DEC,7 - 4,Jacob Cover,57237,Kent State,Ryan Catka,72191,Navy
+2023,01/06,David Lehman Open,285,W,MD,23 - 9,Dom Petracci,79380,Drexel,Ryan Catka,72191,Navy
+2023,01/06,David Lehman Open,285,W,TF5,17 - 2 5:00,Ethan Miller,78742,Lock Haven,Ryan Catka,72191,Navy
+2023,01/06,David Lehman Open,285,L,MD,11 - 2,Chase Horne,72952,NC State,Ryan Catka,72191,Navy
+2023,01/06,David Lehman Open,285,L,FALL,6:08,Tyrie Houghton,51136,NC State,Ryan Catka,72191,Navy
+2023,01/06,David Lehman Open,285,W,MD,14 - 5,Chad Nix,64674,Campbell,Ryan Catka,72191,Navy
+2023,12/29,Soldier Salute Open,285,W,DEC,9 - 4,Bradley Hill,73708,Iowa,Ryan Catka,72191,Navy
+2023,12/29,Soldier Salute Open,285,L,FALL,2:11,Anthony Cassioppi,50650,Iowa,Ryan Catka,72191,Navy
+2023,12/29,Soldier Salute Open,285,W,SV-1,6 - 4,Jonathan Chesser,73052,The Citadel,Ryan Catka,72191,Navy
+2023,12/29,Soldier Salute Open,285,W,DEC,6 - 1,Gannon Rosenfeld,79252,Wisconsin,Ryan Catka,72191,Navy
+2023,01/29,Mat-Town Open II,285,W,DEC,4 - 3,Max Millin,66911,Edinboro,Jamier Ferere,78581,Navy
+2023,01/29,Mat-Town Open II,285,L,DEC,5 - 3,Elijah Jones,56940,Lehigh,Jamier Ferere,78581,Navy
+2023,01/29,Mat-Town Open II,285,L,FALL,2:47,Charlie Tibbitts,78440,Binghamton,Jamier Ferere,78581,Navy
+2023,01/06,David Lehman Open,285,L,DEC,8 - 3,Alex Semenenko,79210,Brown,Jamier Ferere,78581,Navy
+2023,01/06,David Lehman Open,285,W,MD,14 - 4,Thomas Mukai,62365,Brown,Jamier Ferere,78581,Navy
+2023,01/06,David Lehman Open,285,L,DEC,3 - 2,Vincenzo Pelusi,50112,Franklin & Marshall,Jamier Ferere,78581,Navy
+2023,01/06,David Lehman Open,285,W,DEC,5 - 3,Karam Chakif,67262,Lehigh,Jamier Ferere,78581,Navy
+2023,12/04,ARMS Software Patriots Open,285,W,FALL,1:58,Tanaka Mutumbuka,83149,Unattached,Jamier Ferere,78581,Navy
+2023,12/04,ARMS Software Patriots Open,285,W,DEC,6 - 2,Ethan Miller,78742,Lock Haven,Jamier Ferere,78581,Navy
+2023,12/04,ARMS Software Patriots Open,285,W,FALL,2:17,Aiden Lacoma,78442,Southeast RTC,Jamier Ferere,78581,Navy
+2023,12/04,ARMS Software Patriots Open,285,W,SV-1,3 - 1,Devon Rice,62683,Newberry,Jamier Ferere,78581,Navy
+2023,12/04,ARMS Software Patriots Open,285,L,MD,17 - 4,Isaac Righter,62521,American,Jamier Ferere,78581,Navy
+2023,11/19,Navy Classic,285,L,DEC,6 - 5,Logan Shephard,73758,Bucknell,Jamier Ferere,78581,Navy
+2023,11/19,Navy Classic,285,W,FALL,1:40,Josh Evans,72531,VMI,Jamier Ferere,78581,Navy
+2023,11/19,Navy Classic,285,W,FALL,5:39,Solomon Harris,62381,VMI,Jamier Ferere,78581,Navy
+2023,11/19,Navy Classic,285,W,SV-1,8 - 6,Jonathan Chesser,73052,The Citadel,Jamier Ferere,78581,Navy
+2023,11/19,Navy Classic,285,L,FALL,6:21,William Jarrell,62907,American,Jamier Ferere,78581,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,285,W,DEC,7 - 5,Ashton Davis,77922,Spartan Combat RTC,Jamier Ferere,78581,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,285,L,FALL,2:13,Brendan Furman,49113,Cornell,Jamier Ferere,78581,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,285,L,DEC,8 - 2,Dorian Crosby,62328,Bucknell,Jamier Ferere,78581,Navy
+2023,11/13,Jonathan Kaloust Bearcat Open,285,W,MFOR,0 - 0,Cory Day,62418,Binghamton,Jamier Ferere,78581,Navy
+2023,11/06,Clarion Open,285,W,FALL,1:44,Shawn Loring,81119,Slippery Rock,Jamier Ferere,78581,Navy
+2023,11/06,Clarion Open,285,L,DEC,9 - 3,Tristan Ruhlman,71690,Purdue,Jamier Ferere,78581,Navy
+2023,11/06,Clarion Open,285,L,TB-2,4 - 2,Austin Chapman,63708,Clarion,Jamier Ferere,78581,Navy

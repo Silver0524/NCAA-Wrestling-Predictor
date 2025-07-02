@@ -1,0 +1,604 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2019,03/09,Big 12 Championships,125,L,TF5,18 - 0 3:50,Cole Verner,41722,Wyoming,Devin Brown,39619,West Virginia
+2019,03/09,Big 12 Championships,125,L,TF5,18 - 1 4:55,Rico Montoya,39862,Northern Colorado,Devin Brown,39619,West Virginia
+2019,02/24,West Virginia - South Dakota State Dual,125,W,TF5,18 - 3 4:39,Gregory Coapstick,57179,South Dakota State,Devin Brown,39619,West Virginia
+2019,02/01,Army - West Virginia Dual,125,W,DEC,11 - 5,Ryan Hetrick,45638,Army West Point,Devin Brown,39619,West Virginia
+2019,01/05,Franklin & Marshall Open,125,L,DEC,8 - 3,Matt Wilde,57391,Kutztown,Devin Brown,39619,West Virginia
+2019,01/05,Franklin & Marshall Open,125,W,FALL,4:26,Tommy Cox,44623,NC State,Devin Brown,39619,West Virginia
+2019,01/05,Franklin & Marshall Open,125,L,MD,15 - 5,De'Andre Swinson,50576,Appalachian State,Devin Brown,39619,West Virginia
+2019,12/02,Storm Open,125,W,TF5,18 - 3 4:44,Derrick Christie,56607,Seton Hill,Devin Brown,39619,West Virginia
+2019,12/02,Storm Open,125,L,FALL,1:20,Hunter Lucas,45132,Ohio State,Devin Brown,39619,West Virginia
+2019,12/02,Storm Open,125,W,TF5,18 - 2 2:14,Derek Giallombardo,51614,Ohio,Devin Brown,39619,West Virginia
+2019,12/02,Storm Open,125,L,FALL,7:00,Hunter Lucas,45132,Ohio State,Devin Brown,39619,West Virginia
+2019,12/02,Storm Open,125,W,DEC,7 - 2,Austin Franco,57085,Michigan State,Devin Brown,39619,West Virginia
+2019,12/02,Storm Open,125,W,TF5,19 - 2 6:08,Ethan Curtin,45303,Michigan State,Devin Brown,39619,West Virginia
+2019,01/13,West Virginia - North Carolina State Dual,133,W,MD,10 - 2,John Devine,50851,NC State,KJ Fenstermacher,49290,West Virginia
+2019,12/19,Virginia Tech - West Virginia Dual,133,L,DEC,9 - 2,Kyle Norstrem,45110,Virginia Tech,KJ Fenstermacher,49290,West Virginia
+2019,11/18,Northern Iowa - West Virginia Dual,125,L,FALL,2:48,Jacob Schwarm,39750,Northern Iowa,KJ Fenstermacher,49290,West Virginia
+2019,11/17,West Virginia - Cornell Dual,125,W,DEC,7 - 3,Dominic LaJoie,49112,Cornell,KJ Fenstermacher,49290,West Virginia
+2019,11/11,Journeyman Open,125,W,MD,15 - 3,Zach Atencio,45258,Oklahoma,KJ Fenstermacher,49290,West Virginia
+2019,11/11,Journeyman Open,125,L,SV-1,6 - 4,Luke Werner,50282,Lock Haven,KJ Fenstermacher,49290,West Virginia
+2019,11/11,Journeyman Open,125,L,DEC,6 - 5,Willy Girard,45191,Bloomsburg,KJ Fenstermacher,49290,West Virginia
+2019,11/04,Hokie Open,125,W,DEC,10 - 7,Hunter Graf,51359,Virginia Tech,KJ Fenstermacher,49290,West Virginia
+2019,11/04,Hokie Open,125,W,DEC,7 - 5,Kyle Norstrem,45110,Virginia Tech,KJ Fenstermacher,49290,West Virginia
+2019,11/04,Hokie Open,125,W,DEC,6 - 3,Ben Kamali,50947,Virginia,KJ Fenstermacher,49290,West Virginia
+2019,11/04,Hokie Open,125,L,MD,16 - 3,Jakob Camacho,50655,NC State,KJ Fenstermacher,49290,West Virginia
+2019,11/01,Northern Colorado - West Virginia Dual,125,L,DEC,4 - 1,Sean Cannon,40053,Northern Colorado,KJ Fenstermacher,49290,West Virginia
+2019,01/25,West Virginia - Utah Valley Dual,125,W,MD,13 - 5,Josh Jensen,41784,Utah Valley,Joey Thomas,51008,West Virginia
+2019,01/25,West Virginia - CSU Bakersfield Dual,125,W,DEC,13 - 7,Eddie Flores,51127,CSU Bakersfield,Joey Thomas,51008,West Virginia
+2019,01/20,Iowa State - West Virginia Dual,125,L,DEC,8 - 2,Alex Mackall,44577,Iowa State,Joey Thomas,51008,West Virginia
+2019,01/18,Oklahoma State - West Virginia Dual,125,L,TF5,21 - 5 6:00,Nick Piccininni,39547,Oklahoma State,Joey Thomas,51008,West Virginia
+2019,01/13,West Virginia - North Carolina State Dual,125,L,MD,13 - 3,Zurich Storm,50138,NC State,Joey Thomas,51008,West Virginia
+2019,01/04,West Virginia - Oklahoma Dual,125,L,DEC,8 - 3,Christian Moody,39746,Oklahoma,Joey Thomas,51008,West Virginia
+2019,12/30,West Virginia - Purdue Dual,125,L,MD,11 - 3,Devin Schroder,44591,Purdue,Joey Thomas,51008,West Virginia
+2019,12/30,West Virginia - North Dakota State Dual,125,L,DEC,6 - 3,Paul Bianchi,45589,North Dakota State,Joey Thomas,51008,West Virginia
+2019,12/29,Michigan State - West Virginia Dual,125,L,TF5,19 - 4 7:00,Rayvon Foley,50823,Michigan State,Joey Thomas,51008,West Virginia
+2019,12/29,West Virginia - Virginia Dual,125,L,FALL,2:25,Jack Mueller,45232,Virginia,Joey Thomas,51008,West Virginia
+2019,12/19,Virginia Tech - West Virginia Dual,125,W,SV-1,4 - 2,Joey Prata,44734,Virginia Tech,Joey Thomas,51008,West Virginia
+2019,12/02,Storm Open,125,W,MD,10 - 2,Derrick Christie,56607,Seton Hill,Joey Thomas,51008,West Virginia
+2019,12/02,Storm Open,125,W,MD,16 - 5,Charles Maier,55949,Gannon,Joey Thomas,51008,West Virginia
+2019,12/02,Storm Open,125,W,FALL,1:06,Daniel Rehfeldt,57244,Kent State,Joey Thomas,51008,West Virginia
+2019,12/02,Storm Open,125,L,DEC,4 - 1,Brady Koontz,50853,Ohio State,Joey Thomas,51008,West Virginia
+2019,12/02,Storm Open,125,L,DEC,7 - 5,Hunter Lucas,45132,Ohio State,Joey Thomas,51008,West Virginia
+2019,11/11,Journeyman Open,125,W,TF5,17 - 2 6:17,Anthony New,57182,The Citadel,Joey Thomas,51008,West Virginia
+2019,11/11,Journeyman Open,125,L,DEC,7 - 2,Charlie Lenox,45032,NC State,Joey Thomas,51008,West Virginia
+2019,11/11,Journeyman Open,125,W,DEC,6 - 3,Andy Richard,50050,Appalachian State,Joey Thomas,51008,West Virginia
+2019,11/04,Hokie Open,125,W,DEC,6 - 3,Rylee Billings,57430,King,Joey Thomas,51008,West Virginia
+2019,11/04,Hokie Open,125,W,DEC,8 - 3,Nick Daggett,51295,UNC Pembroke,Joey Thomas,51008,West Virginia
+2019,11/04,Hokie Open,125,L,DEC,6 - 1,Kyle Norstrem,45110,Virginia Tech,Joey Thomas,51008,West Virginia
+2019,11/04,Hokie Open,125,W,DEC,11 - 6,Ben Kamali,50947,Virginia,Joey Thomas,51008,West Virginia
+2019,11/04,Hokie Open,125,W,MD,15 - 3,Jeremiah Derby,56331,North Carolina,Joey Thomas,51008,West Virginia
+2019,11/04,Hokie Open,125,W,MD,12 - 2,Talha Farooq,45317,George Mason,Joey Thomas,51008,West Virginia
+2019,03/21,NCAA Championships,133,L,DEC,4 - 3,Mason Pengilly,20392,Stanford,Matthew Schmitt,45171,West Virginia
+2019,03/21,NCAA Championships,133,L,DEC,9 - 3,Daton Fix,49263,Oklahoma State,Matthew Schmitt,45171,West Virginia
+2019,03/21,NCAA Championships,133,W,MD,9 - 1,Sean Nickell,11606,CSU Bakersfield,Matthew Schmitt,45171,West Virginia
+2019,03/09,Big 12 Championships,133,L,DEC,6 - 1,Daton Fix,49263,Oklahoma State,Matthew Schmitt,45171,West Virginia
+2019,03/09,Big 12 Championships,133,W,TF5,15 - 0 6:52,Jack Skudlarczyk,49241,Northern Iowa,Matthew Schmitt,45171,West Virginia
+2019,03/09,Big 12 Championships,133,W,MD,12 - 0,Sean Cannon,40053,Northern Colorado,Matthew Schmitt,45171,West Virginia
+2019,03/09,Big 12 Championships,133,W,DEC,9 - 6,Cameron Sykora,39757,North Dakota State,Matthew Schmitt,45171,West Virginia
+2019,03/09,Big 12 Championships,133,L,SV-1,5 - 3,Austin Gomez,49153,Iowa State,Matthew Schmitt,45171,West Virginia
+2019,02/24,West Virginia - South Dakota State Dual,133,W,MD,11 - 1,Rylee Molitor,49322,South Dakota State,Matthew Schmitt,45171,West Virginia
+2019,02/01,Army - West Virginia Dual,133,W,DEC,5 - 4,Lane Peters,45639,Army West Point,Matthew Schmitt,45171,West Virginia
+2019,01/27,West Virginia - Wyoming Dual,133,L,DEC,3 - 2,Montorie Bridges,44844,Wyoming,Matthew Schmitt,45171,West Virginia
+2019,01/25,West Virginia - Utah Valley Dual,133,W,MD,14 - 0,Dylan Gregerson,57053,Utah Valley,Matthew Schmitt,45171,West Virginia
+2019,01/25,West Virginia - CSU Bakersfield Dual,133,L,DEC,2 - 1,Sean Nickell,11606,CSU Bakersfield,Matthew Schmitt,45171,West Virginia
+2019,01/20,Iowa State - West Virginia Dual,133,L,DEC,8 - 4,Austin Gomez,49153,Iowa State,Matthew Schmitt,45171,West Virginia
+2019,01/18,Oklahoma State - West Virginia Dual,133,L,DEC,8 - 2,Daton Fix,49263,Oklahoma State,Matthew Schmitt,45171,West Virginia
+2019,01/04,West Virginia - Oklahoma Dual,133,W,TF5,20 - 1 4:32,Anthony Madrigal,50633,Oklahoma,Matthew Schmitt,45171,West Virginia
+2019,12/30,West Virginia - Purdue Dual,133,W,TF5,19 - 4 7:00,Bjorn Schroeder,54593,Purdue,Matthew Schmitt,45171,West Virginia
+2019,12/30,West Virginia - North Dakota State Dual,133,W,DEC,8 - 3,Cameron Sykora,39757,North Dakota State,Matthew Schmitt,45171,West Virginia
+2019,12/29,Michigan State - West Virginia Dual,133,W,DEC,3 - 2,Anthony Tutolo,19968,Michigan State,Matthew Schmitt,45171,West Virginia
+2019,12/29,West Virginia - Virginia Dual,133,W,DEC,5 - 2,Louie Hayes,44641,Virginia,Matthew Schmitt,45171,West Virginia
+2019,11/04,Hokie Open,133,W,MD,16 - 6,Sam Book,49332,Virginia,Matthew Schmitt,45171,West Virginia
+2019,11/04,Hokie Open,133,W,DEC,3 - 1,Zach Sherman,49216,North Carolina,Matthew Schmitt,45171,West Virginia
+2019,11/04,Hokie Open,133,W,DEC,6 - 3,Garrett Pepple,39561,Indiana,Matthew Schmitt,45171,West Virginia
+2019,11/04,Hokie Open,133,W,TF5,19 - 4 5:00,Colton Landers,50949,Chattanooga,Matthew Schmitt,45171,West Virginia
+2019,11/04,Hokie Open,133,W,MD,13 - 3,Codi Russell,51113,Appalachian State,Matthew Schmitt,45171,West Virginia
+2019,11/01,Northern Colorado - West Virginia Dual,133,W,MD,13 - 5,Chris Sandoval,49229,Northern Colorado,Matthew Schmitt,45171,West Virginia
+2019,02/24,Mat-Town Open II,133,L,DEC,10 - 4,Cole Manley,49337,Lock Haven,Wyatt Lutz,57147,West Virginia
+2019,02/24,Mat-Town Open II,133,L,TF5,19 - 2 6:45,DJ Fehlman,39898,Lock Haven,Wyatt Lutz,57147,West Virginia
+2019,02/24,Mat-Town Open II,133,W,DEC,8 - 7,Patrick Washington,45406,Appalachian State,Wyatt Lutz,57147,West Virginia
+2019,01/12,Shorty Hitchcock Open,133,W,TF5,23 - 8 6:20,Landon West,57399,Pitt-Johnstown,Wyatt Lutz,57147,West Virginia
+2019,01/12,Shorty Hitchcock Open,133,L,DEC,2 - 0,Ryan McGuire,51194,Millersville,Wyatt Lutz,57147,West Virginia
+2019,01/12,Shorty Hitchcock Open,133,L,FALL,3:12,Anthony Sciotto,51072,US Naval Academy Prep School,Wyatt Lutz,57147,West Virginia
+2019,12/02,Storm Open,133,L,MD,8 - 0,Collin Gerardi,51286,Virginia Tech,Wyatt Lutz,57147,West Virginia
+2019,12/02,Storm Open,133,L,FALL,4:17,Harry Feuer,47546,Kent State,Wyatt Lutz,57147,West Virginia
+2019,12/02,Storm Open,133,W,DEC,5 - 4,Joe Eisho,57083,Michigan State,Wyatt Lutz,57147,West Virginia
+2019,11/03,Clarion Open,133,L,DEC,6 - 3,Alexander Miscovich,57401,Pitt-Johnstown,Wyatt Lutz,57147,West Virginia
+2019,11/03,Clarion Open,133,L,DEC,5 - 3,Lucas Miller,46174,Kutztown,Wyatt Lutz,57147,West Virginia
+2019,02/10,JCU Open,133,W,FALL,2:37,Duncan Clayton,59253,Case Western Reserve,Lucas Seibert,56444,West Virginia
+2019,02/10,JCU Open,133,L,MD,13 - 2,Chad Craft,55241,Baldwin Wallace,Lucas Seibert,56444,West Virginia
+2019,02/10,JCU Open,133,W,FALL,0:35,Logan Munsee,50357,Gannon,Lucas Seibert,56444,West Virginia
+2019,01/04,NUWAY College Open,133,L,DEC,6 - 4,Brandon Orum,60820,Cumberlands,Lucas Seibert,56444,West Virginia
+2019,01/04,NUWAY College Open,133,W,MD,17 - 9,Sam Camacho,53187,Luther,Lucas Seibert,56444,West Virginia
+2019,01/04,NUWAY College Open,133,W,FALL,3:28,William Escobar,52450,Ithaca,Lucas Seibert,56444,West Virginia
+2019,01/04,NUWAY College Open,133,W,DEC,8 - 5,Cole Manion,42791,Grand View,Lucas Seibert,56444,West Virginia
+2019,01/04,NUWAY College Open,133,W,DEC,9 - 6,Tylan Tucker,56970,Indianapolis,Lucas Seibert,56444,West Virginia
+2019,01/04,NUWAY College Open,133,W,DEC,9 - 8,Asher Meekhof,57947,Davenport,Lucas Seibert,56444,West Virginia
+2019,12/15,West Virginia - Pittsburgh Dual,133,L,TF5,19 - 4 4:05,Micky Phillippi,45230,Pittsburgh,Lucas Seibert,56444,West Virginia
+2019,12/09,Patriots Open,133,L,DEC,8 - 2,Luke Ecklof,50471,Rutgers,Lucas Seibert,56444,West Virginia
+2019,12/09,Patriots Open,133,L,MD,15 - 6,Malcolm Robinson,49472,Rutgers,Lucas Seibert,56444,West Virginia
+2019,11/03,Clarion Open,133,W,DEC,5 - 2,Garrett Kopp,58232,Unattached,Lucas Seibert,56444,West Virginia
+2019,11/03,Clarion Open,133,L,TF5,20 - 5 4:03,Tim Rooney,39949,Kent State,Lucas Seibert,56444,West Virginia
+2019,11/03,Clarion Open,133,W,DEC,9 - 5,Anthony Schiess,57173,Gardner-Webb,Lucas Seibert,56444,West Virginia
+2019,11/03,Clarion Open,133,L,TF5,18 - 0 3:21,Armando Torres,19876,Cleveland State,Lucas Seibert,56444,West Virginia
+2019,02/24,West Virginia - South Dakota State Dual,141,L,DEC,7 - 4,Aric Williams,51002,South Dakota State,Lukas Martin,57150,West Virginia
+2019,02/01,Army - West Virginia Dual,141,L,FALL,4:13,Corey Shie,51266,Army West Point,Lukas Martin,57150,West Virginia
+2019,01/27,West Virginia - Wyoming Dual,141,L,FALL,1:33,Sam Turner,45009,Wyoming,Lukas Martin,57150,West Virginia
+2019,01/25,West Virginia - Utah Valley Dual,141,W,DEC,14 - 7,Isaiah Delgado,57056,Utah Valley,Lukas Martin,57150,West Virginia
+2019,01/04,West Virginia - Oklahoma Dual,141,L,TF5,18 - 1 5:57,Dominick Demas,49256,Oklahoma,Lukas Martin,57150,West Virginia
+2019,12/30,West Virginia - Purdue Dual,141,L,MD,14 - 4,Nate Limmex,39663,Purdue,Lukas Martin,57150,West Virginia
+2019,12/30,West Virginia - North Dakota State Dual,141,W,DEC,5 - 4,Taylor Nein,45593,North Dakota State,Lukas Martin,57150,West Virginia
+2019,12/29,Michigan State - West Virginia Dual,141,L,DEC,8 - 3,Austin Eicher,20200,Michigan State,Lukas Martin,57150,West Virginia
+2019,12/29,West Virginia - Virginia Dual,141,L,DEC,10 - 4,Samuel Krivus,43190,Virginia,Lukas Martin,57150,West Virginia
+2019,12/19,Virginia Tech - West Virginia Dual,141,W,DEC,8 - 7,Dom Latona,45115,Virginia Tech,Lukas Martin,57150,West Virginia
+2019,11/18,Northern Iowa - West Virginia Dual,141,L,DEC,6 - 3,Josh Alber,20208,Northern Iowa,Lukas Martin,57150,West Virginia
+2019,11/17,West Virginia - Cornell Dual,141,L,DEC,6 - 2,Chaz Tucker,39771,Cornell,Lukas Martin,57150,West Virginia
+2019,11/11,Journeyman Open,141,W,TF5,19 - 4 5:50,Ethan Phillips,51220,The Citadel,Lukas Martin,57150,West Virginia
+2019,11/11,Journeyman Open,141,W,DEC,7 - 5,Garrett Lambert,44698,Hofstra,Lukas Martin,57150,West Virginia
+2019,11/11,Journeyman Open,141,W,MD,10 - 2,Tim Kane,57650,Bloomsburg,Lukas Martin,57150,West Virginia
+2019,11/11,Journeyman Open,141,L,DEC,4 - 3,Anthony Brito,49035,Appalachian State,Lukas Martin,57150,West Virginia
+2019,11/03,Clarion Open,141,W,MD,19 - 5,Charlie Beatty,57405,Pitt-Johnstown,Lukas Martin,57150,West Virginia
+2019,11/03,Clarion Open,141,W,DEC,3 - 2,Caleb Morris,57151,West Virginia,Lukas Martin,57150,West Virginia
+2019,11/03,Clarion Open,141,L,FALL,4:01,Carmine Ciotti,48218,Edinboro,Lukas Martin,57150,West Virginia
+2019,11/03,Clarion Open,141,L,TF5,17 - 2 4:36,Taylor Ortz,40103,Clarion,Lukas Martin,57150,West Virginia
+2019,11/03,Clarion Open,141,W,DEC,8 - 2,Marcus Robinson,56479,Buffalo,Lukas Martin,57150,West Virginia
+2019,03/09,Big 12 Championships,141,L,FALL,2:07,Sam Turner,45009,Wyoming,Caleb Rea,56445,West Virginia
+2019,03/09,Big 12 Championships,141,L,FALL,1:56,Sam Turner,45009,Wyoming,Caleb Rea,56445,West Virginia
+2019,03/09,Big 12 Championships,141,W,MFOR,0 - 0,Matthew Findlay,45366,Utah Valley,Caleb Rea,56445,West Virginia
+2019,03/09,Big 12 Championships,141,L,DEC,10 - 3,Chris Sandoval,49229,Northern Colorado,Caleb Rea,56445,West Virginia
+2019,03/09,Big 12 Championships,141,L,MD,9 - 0,Ian Parker,44732,Iowa State,Caleb Rea,56445,West Virginia
+2019,03/09,Big 12 Championships,141,W,DEC,10 - 7,Garrett O'Shea,44711,Air Force,Caleb Rea,56445,West Virginia
+2019,03/02,National Collegiate Open,141,L,DEC,6 - 0,Chase Zollmann,50917,Wyoming,Caleb Rea,56445,West Virginia
+2019,03/02,National Collegiate Open,141,W,MD,10 - 1,Tucker Ribman,56815,Harvard,Caleb Rea,56445,West Virginia
+2019,03/02,National Collegiate Open,141,L,DEC,3 - 2,Mark Salvatore,57208,Franklin & Marshall,Caleb Rea,56445,West Virginia
+2019,02/02,Edinboro Open,141,W,MD,16 - 6,Logan Kissell,57188,Cleveland State,Caleb Rea,56445,West Virginia
+2019,02/02,Edinboro Open,141,W,DEC,4 - 2,Darius Bunch,46053,West Liberty University,Caleb Rea,56445,West Virginia
+2019,02/02,Edinboro Open,141,W,DEC,6 - 1,Jonathan Gabriel,44640,Navy,Caleb Rea,56445,West Virginia
+2019,02/02,Edinboro Open,141,L,FALL,4:15,Nicholas Lirette,44921,North Carolina,Caleb Rea,56445,West Virginia
+2019,02/02,Edinboro Open,141,L,DEC,8 - 2,Quinn Kinner,51144,Ohio State,Caleb Rea,56445,West Virginia
+2019,01/25,West Virginia - CSU Bakersfield Dual,141,L,DEC,17 - 12,Carlos Herrera,40167,CSU Bakersfield,Caleb Rea,56445,West Virginia
+2019,01/20,Iowa State - West Virginia Dual,141,L,DEC,14 - 9,Ian Parker,44732,Iowa State,Caleb Rea,56445,West Virginia
+2019,01/18,Oklahoma State - West Virginia Dual,141,L,FALL,2:43,Kaid Brock,39544,Oklahoma State,Caleb Rea,56445,West Virginia
+2019,01/13,West Virginia - North Carolina State Dual,141,L,TF5,16 - 0 5:00,Jamel Morris,43775,NC State,Caleb Rea,56445,West Virginia
+2019,01/05,Franklin & Marshall Open,141,W,DEC,4 - 2,Jake Cherry,49288,Pittsburgh,Caleb Rea,56445,West Virginia
+2019,01/05,Franklin & Marshall Open,141,W,DEC,11 - 4,Jonathan Gabriel,44640,Navy,Caleb Rea,56445,West Virginia
+2019,01/05,Franklin & Marshall Open,141,W,FALL,2:53,Michael Doetsch,44919,Maryland,Caleb Rea,56445,West Virginia
+2019,01/05,Franklin & Marshall Open,141,L,DEC,12 - 5,Patrick Quinlan,20543,Franklin & Marshall,Caleb Rea,56445,West Virginia
+2019,01/05,Franklin & Marshall Open,141,W,TF5,18 - 3 7:00,Theo Powers,44793,Brown,Caleb Rea,56445,West Virginia
+2019,11/18,Northern Iowa - West Virginia Dual,133,W,FALL,6:43,Jacob Schipper,50021,Northern Iowa,Caleb Rea,56445,West Virginia
+2019,11/17,West Virginia - Cornell Dual,133,L,MD,17 - 3,Vitali Arujau,49108,Cornell,Caleb Rea,56445,West Virginia
+2019,11/11,Journeyman Open,133,W,TF5,17 - 1 5:50,Tito Colom,47643,Ithaca,Caleb Rea,56445,West Virginia
+2019,11/11,Journeyman Open,133,W,DEC,7 - 4,Charles Kearney,40372,The Citadel,Caleb Rea,56445,West Virginia
+2019,11/11,Journeyman Open,133,W,TF5,19 - 3 4:58,Dalton Rohrbaugh,51091,Lock Haven,Caleb Rea,56445,West Virginia
+2019,11/11,Journeyman Open,133,W,TF5,16 - 0 3:35,Richie Gomez,51062,Edinboro,Caleb Rea,56445,West Virginia
+2019,11/03,Clarion Open,133,W,MD,14 - 6,Tim Rooney,39949,Kent State,Caleb Rea,56445,West Virginia
+2019,11/03,Clarion Open,133,L,DEC,6 - 1,Tim Rooney,39949,Kent State,Caleb Rea,56445,West Virginia
+2019,11/03,Clarion Open,133,W,MFOR,0 - 0,Seth Koleno,51157,Clarion,Caleb Rea,56445,West Virginia
+2019,11/03,Clarion Open,133,W,DEC,11 - 6,Cameron Butler,44660,Clarion,Caleb Rea,56445,West Virginia
+2019,11/03,Clarion Open,133,W,MD,17 - 3,Shawn Orem,51045,Bloomsburg,Caleb Rea,56445,West Virginia
+2019,11/03,Clarion Open,133,L,DEC,6 - 5,Lewis Williams,40291,Bloomsburg,Caleb Rea,56445,West Virginia
+2019,11/11,Journeyman Open,141,L,DEC,5 - 3,Alec White,49305,Purdue,Joe Wheeling,13551,West Virginia
+2019,11/11,Journeyman Open,141,L,DEC,4 - 1,Danny Moran,49162,Lehigh,Joe Wheeling,13551,West Virginia
+2019,11/11,Journeyman Open,141,L,SV-1,5 - 2,Carmine Ciotti,48218,Edinboro,Joe Wheeling,13551,West Virginia
+2019,11/11,Journeyman Open,141,L,DEC,4 - 0,Corey Shie,51266,Army West Point,Joe Wheeling,13551,West Virginia
+2019,11/01,Northern Colorado - West Virginia Dual,141,W,DEC,7 - 1,Owen Lamb,44967,Northern Colorado,Joe Wheeling,13551,West Virginia
+2019,02/02,Edinboro Open,141,W,TF5,17 - 2 3:50,Jaquan English,60812,Southeastern University,Caleb Morris,57151,West Virginia
+2019,02/02,Edinboro Open,141,W,TB-2,5 - 2,Jonathan Miranda,57367,Navy,Caleb Morris,57151,West Virginia
+2019,02/02,Edinboro Open,141,L,DEC,2 - 0,Carmine Ciotti,48218,Edinboro,Caleb Morris,57151,West Virginia
+2019,02/02,Edinboro Open,141,L,MD,13 - 2,Salvatore Profaci,39825,Michigan,Caleb Morris,57151,West Virginia
+2019,02/02,Edinboro Open,141,W,DEC,10 - 9,Moises Guillen,49249,Ohio,Caleb Morris,57151,West Virginia
+2019,12/22,Wilkes Open,141,W,DEC,8 - 3,Jake Taylor,60497,West Chester,Caleb Morris,57151,West Virginia
+2019,12/22,Wilkes Open,141,L,DEC,6 - 2,Ryan Pomrinca,39667,Lehigh,Caleb Morris,57151,West Virginia
+2019,12/22,Wilkes Open,141,L,DEC,8 - 4,Wil Gil,51024,Franklin & Marshall,Caleb Morris,57151,West Virginia
+2019,12/22,Wilkes Open,141,W,TB-2,2 - 1,John Arceri,47552,Buffalo,Caleb Morris,57151,West Virginia
+2019,12/02,Storm Open,141,L,DEC,12 - 8,Jose Rodriguez,39639,Notre Dame,Caleb Morris,57151,West Virginia
+2019,12/02,Storm Open,141,W,DEC,5 - 1,Joel Cawoski,50246,Seton Hill,Caleb Morris,57151,West Virginia
+2019,12/02,Storm Open,141,W,DEC,8 - 3,Kole Krauss,45305,Michigan State,Caleb Morris,57151,West Virginia
+2019,12/02,Storm Open,141,W,DEC,6 - 4,Forrest Glogouski,41619,Lake Erie College,Caleb Morris,57151,West Virginia
+2019,11/03,Clarion Open,141,L,DEC,3 - 2,Lukas Martin,57150,West Virginia,Caleb Morris,57151,West Virginia
+2019,11/03,Clarion Open,141,L,TF5,16 - 0 2:30,Kyle Shoop,39682,Lock Haven,Caleb Morris,57151,West Virginia
+2019,11/03,Clarion Open,141,W,DEC,6 - 4,Andrew Gapas,51204,Clarion,Caleb Morris,57151,West Virginia
+2019,02/10,JCU Open,141,L,DEC,5 - 4,Jeff Brichford,59027,John Carroll,Tim Hritsko,57149,West Virginia
+2019,02/10,JCU Open,141,W,DEC,1 - 0,Logan Kissell,57188,Cleveland State,Tim Hritsko,57149,West Virginia
+2019,02/10,JCU Open,141,L,MFOR,0 - 0,Logan Kissell,57188,Cleveland State,Tim Hritsko,57149,West Virginia
+2019,02/10,JCU Open,141,W,FALL,4:32,Trae Coopwood,52283,Ashland,Tim Hritsko,57149,West Virginia
+2019,12/22,Wilkes Open,141,W,MD,16 - 4,Calvin Call,45796,Sacred Heart,Tim Hritsko,57149,West Virginia
+2019,12/22,Wilkes Open,141,L,SV-1,3 - 1,Jarred Papscy,56827,NC State,Tim Hritsko,57149,West Virginia
+2019,12/22,Wilkes Open,141,L,MD,14 - 5,Kyle Todrank,40157,Buffalo,Tim Hritsko,57149,West Virginia
+2019,11/03,Clarion Open,141,L,DEC,6 - 3,Anthony Petril,40772,Kutztown,Tim Hritsko,57149,West Virginia
+2019,11/03,Clarion Open,141,L,DEC,8 - 3,Blake Mulkey,56348,Gardner-Webb,Tim Hritsko,57149,West Virginia
+2019,11/03,Clarion Open,141,L,TF5,18 - 0 2:22,Jake Cherry,49288,Pittsburgh,Marco Frederico,57148,West Virginia
+2019,11/03,Clarion Open,141,L,MD,12 - 4,Conrad Schiess,57171,Gardner-Webb,Marco Frederico,57148,West Virginia
+2019,03/21,NCAA Championships,149,L,DEC,9 - 3,Max Thomsen,39503,Northern Iowa,Christian Monserrat,20473,West Virginia
+2019,03/21,NCAA Championships,149,W,DEC,7 - 3,Malik Amine,14753,Michigan,Christian Monserrat,20473,West Virginia
+2019,03/21,NCAA Championships,149,L,DEC,2 - 1,Davion Jeffries,39653,Oklahoma,Christian Monserrat,20473,West Virginia
+2019,03/09,Big 12 Championships,149,W,DEC,6 - 2,Jaron Jensen,44910,Wyoming,Christian Monserrat,20473,West Virginia
+2019,03/09,Big 12 Championships,149,W,MD,9 - 1,Matthew Ontiveros,20417,Utah Valley,Christian Monserrat,20473,West Virginia
+2019,03/09,Big 12 Championships,149,W,DEC,4 - 1,Henry Pohlmeyer,39803,South Dakota State,Christian Monserrat,20473,West Virginia
+2019,03/09,Big 12 Championships,149,L,DEC,4 - 2,Davion Jeffries,39653,Oklahoma,Christian Monserrat,20473,West Virginia
+2019,03/09,Big 12 Championships,149,L,DEC,4 - 2,Khristian Olivas,40318,Fresno State,Christian Monserrat,20473,West Virginia
+2019,02/24,West Virginia - South Dakota State Dual,149,W,DEC,5 - 1,Henry Pohlmeyer,39803,South Dakota State,Christian Monserrat,20473,West Virginia
+2019,02/01,Army - West Virginia Dual,149,W,MD,13 - 3,Noah Hanau,41273,Army West Point,Christian Monserrat,20473,West Virginia
+2019,01/27,West Virginia - Wyoming Dual,149,W,DEC,8 - 4,Jaron Jensen,44910,Wyoming,Christian Monserrat,20473,West Virginia
+2019,01/25,West Virginia - Utah Valley Dual,149,W,DEC,10 - 5,Cameron Haddock,57050,Utah Valley,Christian Monserrat,20473,West Virginia
+2019,01/25,West Virginia - CSU Bakersfield Dual,149,W,DEC,6 - 1,Russell Rohlfing,40166,CSU Bakersfield,Christian Monserrat,20473,West Virginia
+2019,01/20,Iowa State - West Virginia Dual,149,L,DEC,6 - 3,Jarrett Degen,44855,Iowa State,Christian Monserrat,20473,West Virginia
+2019,01/18,Oklahoma State - West Virginia Dual,149,L,DEC,3 - 1,Kaden Gfeller,49261,Oklahoma State,Christian Monserrat,20473,West Virginia
+2019,01/13,West Virginia - North Carolina State Dual,149,W,DEC,3 - 1,Justin Oliver,19758,NC State,Christian Monserrat,20473,West Virginia
+2019,01/04,West Virginia - Oklahoma Dual,149,W,FALL,4:08,Davion Jeffries,39653,Oklahoma,Christian Monserrat,20473,West Virginia
+2019,12/30,West Virginia - Purdue Dual,149,W,DEC,10 - 3,Parker Filius,49302,Purdue,Christian Monserrat,20473,West Virginia
+2019,12/30,West Virginia - North Dakota State Dual,149,W,DEC,5 - 3,Jaden Van Maanen,49227,North Dakota State,Christian Monserrat,20473,West Virginia
+2019,12/29,Michigan State - West Virginia Dual,149,W,DEC,8 - 6,Jaden Enriquez,49186,Michigan State,Christian Monserrat,20473,West Virginia
+2019,12/19,Virginia Tech - West Virginia Dual,149,W,DEC,4 - 1,Ryan Blees,20267,Virginia Tech,Christian Monserrat,20473,West Virginia
+2019,12/15,West Virginia - Pittsburgh Dual,149,W,DEC,4 - 0,Robert Lee,39975,Pittsburgh,Christian Monserrat,20473,West Virginia
+2019,11/18,Northern Iowa - West Virginia Dual,149,W,MD,10 - 2,Derek Holschlag,49238,Northern Iowa,Christian Monserrat,20473,West Virginia
+2019,11/17,West Virginia - Cornell Dual,149,W,DEC,8 - 7,Hunter Richard,49107,Cornell,Christian Monserrat,20473,West Virginia
+2019,11/11,Journeyman Open,149,W,DEC,4 - 0,Matthew Ontiveros,20417,Utah Valley,Christian Monserrat,20473,West Virginia
+2019,11/11,Journeyman Open,149,L,TF5,18 - 3 6:23,Justin Oliver,19758,NC State,Christian Monserrat,20473,West Virginia
+2019,11/11,Journeyman Open,149,W,DEC,10 - 4,Jimmy Hoffman,49165,Lehigh,Christian Monserrat,20473,West Virginia
+2019,11/04,Hokie Open,149,W,DEC,6 - 2,Matthew Kieta,51304,Coker,Christian Monserrat,20473,West Virginia
+2019,11/04,Hokie Open,149,W,MD,14 - 6,Darren Ostrander,39982,VMI,Christian Monserrat,20473,West Virginia
+2019,11/04,Hokie Open,149,L,DEC,4 - 3,Tejon Anthony,19896,George Mason,Christian Monserrat,20473,West Virginia
+2019,11/04,Hokie Open,149,L,DEC,3 - 1,Matthew Zovistoski,40049,Appalachian State,Christian Monserrat,20473,West Virginia
+2019,11/01,Northern Colorado - West Virginia Dual,149,W,DEC,8 - 2,Mason Hulse,57109,Northern Colorado,Christian Monserrat,20473,West Virginia
+2019,01/27,West Virginia - Wyoming Dual,157,W,FALL,1:03,Jed Loveless,51516,Wyoming,Zachary Moore,39678,West Virginia
+2019,01/25,West Virginia - Utah Valley Dual,157,W,FALL,0:37,Landon Knutzen,45365,Utah Valley,Zachary Moore,39678,West Virginia
+2019,01/25,West Virginia - CSU Bakersfield Dual,157,W,DEC,11 - 6,Wyatt Gerl,57201,CSU Bakersfield,Zachary Moore,39678,West Virginia
+2019,01/20,Iowa State - West Virginia Dual,157,L,MD,13 - 4,Chase Straw,39610,Iowa State,Zachary Moore,39678,West Virginia
+2019,01/18,Oklahoma State - West Virginia Dual,157,L,DEC,3 - 0,Wyatt Sheets,44863,Oklahoma State,Zachary Moore,39678,West Virginia
+2019,01/13,West Virginia - North Carolina State Dual,157,L,FALL,3:00,Hayden Hidlay,44595,NC State,Zachary Moore,39678,West Virginia
+2019,01/04,West Virginia - Oklahoma Dual,157,L,DEC,7 - 4,Justin Thomas,44882,Oklahoma,Zachary Moore,39678,West Virginia
+2019,12/30,West Virginia - Purdue Dual,157,W,FALL,2:07,Austin Nash,39744,Purdue,Zachary Moore,39678,West Virginia
+2019,12/30,West Virginia - North Dakota State Dual,157,L,DEC,6 - 1,Nick Knutson,45598,North Dakota State,Zachary Moore,39678,West Virginia
+2019,12/29,Michigan State - West Virginia Dual,157,L,DEC,3 - 0,Jacob Tucker,44639,Michigan State,Zachary Moore,39678,West Virginia
+2019,12/29,West Virginia - Virginia Dual,157,L,TF5,16 - 1 7:00,Jake Keating,50315,Virginia,Zachary Moore,39678,West Virginia
+2019,12/19,Virginia Tech - West Virginia Dual,157,L,MD,14 - 2,Brian LaPrade,45112,Virginia Tech,Zachary Moore,39678,West Virginia
+2019,12/15,West Virginia - Pittsburgh Dual,157,L,DEC,3 - 1,Taleb Rahmani,40082,Pittsburgh,Zachary Moore,39678,West Virginia
+2019,11/18,Northern Iowa - West Virginia Dual,157,W,FALL,2:23,Pat Schoenfelder,50280,Northern Iowa,Zachary Moore,39678,West Virginia
+2019,11/11,Journeyman Open,157,W,FALL,0:53,Kent Lane,39601,Lehigh,Zachary Moore,39678,West Virginia
+2019,11/11,Journeyman Open,157,L,SV-1,4 - 2,Luke Weiland,41243,Army West Point,Zachary Moore,39678,West Virginia
+2019,11/11,Journeyman Open,157,W,DEC,5 - 3,Matthew Zovistoski,40049,Appalachian State,Zachary Moore,39678,West Virginia
+2019,11/04,Hokie Open,157,W,TF5,16 - 0 3:22,Joseph MacLean,51318,VMI,Zachary Moore,39678,West Virginia
+2019,11/04,Hokie Open,157,L,MD,13 - 4,Hayden Hidlay,44595,NC State,Zachary Moore,39678,West Virginia
+2019,11/04,Hokie Open,157,W,DEC,11 - 4,Jake Danishek,20520,Indiana,Zachary Moore,39678,West Virginia
+2019,11/04,Hokie Open,157,W,FALL,0:40,Matthew Dallara,51712,Campbell,Zachary Moore,39678,West Virginia
+2019,11/04,Hokie Open,157,W,FALL,0:29,Angel Najar,40406,Appalachian State,Zachary Moore,39678,West Virginia
+2019,11/01,Northern Colorado - West Virginia Dual,157,W,DEC,12 - 8,Jordan Robison,49232,Northern Colorado,Zachary Moore,39678,West Virginia
+2019,02/24,Mat-Town Open II,149,W,TF5,19 - 2 6:47,Danny Coles,54117,Unattached,Alex Hornfeck,56494,West Virginia
+2019,02/24,Mat-Town Open II,149,W,DEC,4 - 0,Jonathan Ross,44894,Lock Haven,Alex Hornfeck,56494,West Virginia
+2019,02/24,Mat-Town Open II,149,W,MFOR,0 - 0,Jonathan Furnas,39745,Cornell,Alex Hornfeck,56494,West Virginia
+2019,02/24,Mat-Town Open II,149,L,DEC,8 - 7,John Millner,50212,Appalachian State,Alex Hornfeck,56494,West Virginia
+2019,02/02,Edinboro Open,149,W,FALL,7:30,Will Kaldes,50123,Pittsburgh,Alex Hornfeck,56494,West Virginia
+2019,02/02,Edinboro Open,149,W,DQ,0 - 0,Peyton Omania,56081,Michigan State,Alex Hornfeck,56494,West Virginia
+2019,02/02,Edinboro Open,149,W,MD,8 - 0,Grant Turnmire,39857,Cleveland State,Alex Hornfeck,56494,West Virginia
+2019,02/02,Edinboro Open,149,W,MD,12 - 0,Nick Lombard,51422,Michigan,Alex Hornfeck,56494,West Virginia
+2019,02/02,Edinboro Open,149,L,DEC,6 - 2,Kenan Carter,39560,Old Dominion,Alex Hornfeck,56494,West Virginia
+2019,02/02,Edinboro Open,149,W,MD,14 - 2,Kade Kowalski,41852,Ohio,Alex Hornfeck,56494,West Virginia
+2019,01/05,Franklin & Marshall Open,149,L,DEC,5 - 2,Sam Martino,45237,Virginia,Alex Hornfeck,56494,West Virginia
+2019,01/05,Franklin & Marshall Open,149,W,DEC,5 - 2,Dallas Bulsak,49286,Pittsburgh,Alex Hornfeck,56494,West Virginia
+2019,01/05,Franklin & Marshall Open,149,W,DEC,6 - 3,Chris Hisey,57368,Navy,Alex Hornfeck,56494,West Virginia
+2019,01/05,Franklin & Marshall Open,149,L,DEC,2 - 1,Hunter Baxter,49172,Maryland,Alex Hornfeck,56494,West Virginia
+2019,12/15,Cleveland State Open,149,W,MD,14 - 0,Tanner Cook,51408,Spartan Combat RTC,Alex Hornfeck,56494,West Virginia
+2019,12/15,Cleveland State Open,149,L,DEC,4 - 3,Nick Steed,40363,Ohio,Alex Hornfeck,56494,West Virginia
+2019,12/15,Cleveland State Open,149,W,DEC,1 - 0,Kody Komara,50094,Kent State,Alex Hornfeck,56494,West Virginia
+2019,12/15,Cleveland State Open,149,L,DEC,7 - 4,Jonathan Furnas,39745,Cornell,Alex Hornfeck,56494,West Virginia
+2019,12/15,Cleveland State Open,149,W,DEC,6 - 2,Nick Lombard,51422,Michigan,Alex Hornfeck,56494,West Virginia
+2019,11/25,Mat Town Open I,149,W,TF5,17 - 2 7:00,Will Kaldes,50123,Pittsburgh,Alex Hornfeck,56494,West Virginia
+2019,11/25,Mat Town Open I,149,L,DEC,3 - 2,Hunter Baxter,49172,Maryland,Alex Hornfeck,56494,West Virginia
+2019,11/25,Mat Town Open I,149,W,DEC,6 - 5,Brock Port,49168,Lock Haven,Alex Hornfeck,56494,West Virginia
+2019,11/25,Mat Town Open I,149,W,MD,12 - 1,Riley Jacops,51032,Columbia,Alex Hornfeck,56494,West Virginia
+2019,11/03,Clarion Open,149,W,MD,11 - 2,Hunter Yackee,56305,Kent State,Alex Hornfeck,56494,West Virginia
+2019,11/03,Clarion Open,149,W,TF5,17 - 1 7:00,Taylor Parks,51306,Gardner-Webb,Alex Hornfeck,56494,West Virginia
+2019,11/03,Clarion Open,149,L,DEC,2 - 0,Denton Spencer,49134,Virginia,Alex Hornfeck,56494,West Virginia
+2019,11/03,Clarion Open,149,L,MD,12 - 3,Brady Barnett,50220,Cleveland State,Alex Hornfeck,56494,West Virginia
+2019,02/24,Mat-Town Open II,149,L,MFOR,0 - 0,Tyler Vath,40445,Edinboro,Keegan Moore,39680,West Virginia
+2019,02/24,Mat-Town Open II,149,W,FALL,0:43,Tyler Williams,51090,Bucknell,Keegan Moore,39680,West Virginia
+2019,02/24,Mat-Town Open II,149,L,INJ,7:00,John Millner,50212,Appalachian State,Keegan Moore,39680,West Virginia
+2019,03/09,Big 12 Championships,157,L,DEC,4 - 1,Dewey Krueger,40144,Wyoming,Kyler Rea,44945,West Virginia
+2019,03/09,Big 12 Championships,157,L,DEC,5 - 3,Wyatt Sheets,44863,Oklahoma State,Kyler Rea,44945,West Virginia
+2019,02/24,West Virginia - South Dakota State Dual,157,L,DEC,8 - 2,Colten Carlson,45286,South Dakota State,Kyler Rea,44945,West Virginia
+2019,02/02,Edinboro Open,149,W,DEC,8 - 3,Adam Davis,51128,Navy,Kyler Rea,44945,West Virginia
+2019,02/02,Edinboro Open,149,L,FALL,2:08,Evan Cheek,40190,Cleveland State,Kyler Rea,44945,West Virginia
+2019,02/02,Edinboro Open,149,W,TF5,15 - 0 3:54,Chris Matzke,45369,Edinboro,Kyler Rea,44945,West Virginia
+2019,02/02,Edinboro Open,149,L,DEC,4 - 1,Kevin Budock,44576,Old Dominion,Kyler Rea,44945,West Virginia
+2019,01/05,Franklin & Marshall Open,157,L,DEC,4 - 3,Seth Hogue,44668,West Virginia,Kyler Rea,44945,West Virginia
+2019,01/05,Franklin & Marshall Open,157,W,DEC,7 - 0,TJ Calas,49309,Sacred Heart,Kyler Rea,44945,West Virginia
+2019,01/05,Franklin & Marshall Open,157,W,TF5,16 - 0 7:00,Chase DeMaille,51165,Maryland,Kyler Rea,44945,West Virginia
+2019,01/05,Franklin & Marshall Open,157,L,MD,8 - 0,Hunter Ladnier,44784,Harvard,Kyler Rea,44945,West Virginia
+2019,12/29,South Beach Individual,149,W,MFOR,0 - 0,Hunter Richard,49107,Cornell,Kyler Rea,44945,West Virginia
+2019,12/29,South Beach Individual,149,L,FALL,7:13,Hunter Richard,49107,Cornell,Kyler Rea,44945,West Virginia
+2019,12/29,South Beach Individual,149,L,DEC,7 - 3,Jonathan Furnas,39745,Cornell,Kyler Rea,44945,West Virginia
+2019,12/29,West Virginia - Virginia Dual,149,W,MD,10 - 0,Michael Murphy,45236,Virginia,Kyler Rea,44945,West Virginia
+2019,11/04,Hokie Open,149,W,SV-1,3 - 1,Sam Martino,45237,Virginia,Kyler Rea,44945,West Virginia
+2019,11/04,Hokie Open,149,W,MD,14 - 2,Justin Yorkdale,45347,George Mason,Kyler Rea,44945,West Virginia
+2019,11/04,Hokie Open,149,W,DEC,4 - 1,Tejon Anthony,19896,George Mason,Kyler Rea,44945,West Virginia
+2019,11/04,Hokie Open,149,L,MD,8 - 0,Tanner Smith,49129,Chattanooga,Kyler Rea,44945,West Virginia
+2019,11/04,Hokie Open,149,L,DEC,4 - 3,Matthew Zovistoski,40049,Appalachian State,Kyler Rea,44945,West Virginia
+2019,03/02,National Collegiate Open,157,W,DEC,5 - 2,Christian Hunt,50638,United States Military Academy,Seth Hogue,44668,West Virginia
+2019,03/02,National Collegiate Open,157,L,TF5,19 - 4 7:00,Joe Casey,51145,Rider,Seth Hogue,44668,West Virginia
+2019,03/02,National Collegiate Open,157,L,FALL,4:17,Jacori Teemer,50581,Arizona State,Seth Hogue,44668,West Virginia
+2019,03/02,National Collegiate Open,157,W,DEC,3 - 0,Joey Schiele,49065,Bucknell,Seth Hogue,44668,West Virginia
+2019,03/02,National Collegiate Open,157,W,MD,12 - 1,Beau Guffey,45643,Army West Point,Seth Hogue,44668,West Virginia
+2019,02/02,Edinboro Open,157,L,FALL,2:59,Austin Wilson,56381,Lock Haven,Seth Hogue,44668,West Virginia
+2019,02/02,Edinboro Open,157,W,DEC,6 - 2,Michael Petite,55596,Buffalo,Seth Hogue,44668,West Virginia
+2019,02/02,Edinboro Open,157,L,DEC,13 - 9,Nick Vestal,44944,Ohio,Seth Hogue,44668,West Virginia
+2019,01/05,Franklin & Marshall Open,157,W,FALL,4:39,Daniel Colon,56116,Delaware Valley,Seth Hogue,44668,West Virginia
+2019,01/05,Franklin & Marshall Open,157,W,DEC,4 - 3,Kyler Rea,44945,West Virginia,Seth Hogue,44668,West Virginia
+2019,01/05,Franklin & Marshall Open,157,L,FALL,2:28,Riley Barth,40348,Pittsburgh,Seth Hogue,44668,West Virginia
+2019,01/05,Franklin & Marshall Open,157,L,FALL,2:43,Austin Wilson,56381,Lock Haven,Seth Hogue,44668,West Virginia
+2019,01/05,Franklin & Marshall Open,157,W,FALL,1:25,Christian Beach,45407,Appalachian State,Seth Hogue,44668,West Virginia
+2019,11/11,Ohio Intercollegiate Open,157,L,FALL,5:35,Chase Archangelo,49104,Cleveland State,Seth Hogue,44668,West Virginia
+2019,11/11,Ohio Intercollegiate Open,157,L,TF5,19 - 1 7:00,Ke-Shawn Hayes,39609,Ohio State,Seth Hogue,44668,West Virginia
+2019,11/03,Clarion Open,149,W,FALL,0:52,Danny Coles,54117,Unattached,Seth Hogue,44668,West Virginia
+2019,11/03,Clarion Open,149,W,MD,17 - 3,Chase Summer,57930,Pittsburgh,Seth Hogue,44668,West Virginia
+2019,11/03,Clarion Open,149,W,DEC,9 - 3,Luke Kemerer,50929,Pittsburgh,Seth Hogue,44668,West Virginia
+2019,11/03,Clarion Open,149,W,MFOR,0 - 0,Robert Lee,39975,Pittsburgh,Seth Hogue,44668,West Virginia
+2019,11/03,Clarion Open,149,W,FALL,3:18,Ian Senz,57241,Kent State,Seth Hogue,44668,West Virginia
+2019,11/03,Clarion Open,149,L,FALL,1:33,Kody Komara,50094,Kent State,Seth Hogue,44668,West Virginia
+2019,11/03,Clarion Open,149,L,DEC,10 - 5,Grant Bond,40304,Bloomsburg,Seth Hogue,44668,West Virginia
+2019,12/09,Patriots Open,149,L,TF5,16 - 0 6:34,Brock Port,49168,Lock Haven,Jackson Wrobel,57154,West Virginia
+2019,12/09,Patriots Open,149,L,DEC,11 - 5,Samuel Lynch,51173,Brown,Jackson Wrobel,57154,West Virginia
+2019,12/02,Storm Open,149,L,DEC,6 - 3,Cameron Jenkins,51483,Ashland,Jackson Wrobel,57154,West Virginia
+2019,12/02,Storm Open,149,W,DEC,7 - 1,Jake Simon,57365,Ohio,Jackson Wrobel,57154,West Virginia
+2019,12/02,Storm Open,149,W,DEC,11 - 10,Michael Zarif,57277,Binghamton,Jackson Wrobel,57154,West Virginia
+2019,12/02,Storm Open,149,W,DEC,6 - 4,Alex Lieb,51489,Lake Erie College,Jackson Wrobel,57154,West Virginia
+2019,02/02,Edinboro Open,149,L,FALL,4:38,Chase Summer,57930,Pittsburgh,Trey Anderson,57152,West Virginia
+2019,02/02,Edinboro Open,149,L,FALL,4:38,Corbyn Munson,51197,Central Michigan,Trey Anderson,57152,West Virginia
+2019,12/09,Patriots Open,149,L,DEC,6 - 5,Yosef Ellis-rech,60359,Johns Hopkins,Trey Anderson,57152,West Virginia
+2019,12/09,Patriots Open,149,W,DEC,6 - 2,Joe Paul,60358,Johns Hopkins,Trey Anderson,57152,West Virginia
+2019,12/09,Patriots Open,149,L,TF5,18 - 0 1:53,Holden Heller,50940,Hofstra,Trey Anderson,57152,West Virginia
+2019,11/03,Clarion Open,141,L,DEC,8 - 5,Marcus Baptiste,52280,Wheeling,Trey Anderson,57152,West Virginia
+2019,11/03,Clarion Open,141,L,TF5,16 - 1 2:35,Cole Matthews,50936,Pittsburgh,Trey Anderson,57152,West Virginia
+2019,02/01,Army - West Virginia Dual,157,L,MD,11 - 1,Luke Weiland,41243,Army West Point,Hunter Jones,45169,West Virginia
+2019,01/05,Franklin & Marshall Open,157,L,DEC,12 - 5,Daniel Contraguerro,50394,Pittsburgh,Hunter Jones,45169,West Virginia
+2019,01/05,Franklin & Marshall Open,157,W,SV-1,9 - 7,Brian Friery,45073,Penn State,Hunter Jones,45169,West Virginia
+2019,01/05,Franklin & Marshall Open,157,L,FALL,5:00,Scout Skidgel,44939,Navy,Hunter Jones,45169,West Virginia
+2019,01/05,Franklin & Marshall Open,157,W,DEC,8 - 5,Alex Rivera,52120,Campbell,Hunter Jones,45169,West Virginia
+2019,12/09,Patriots Open,157,W,MD,19 - 7,Bradlee Lamontagne,60361,Johns Hopkins,Hunter Jones,45169,West Virginia
+2019,12/09,Patriots Open,157,L,DEC,13 - 8,Riley Barth,40348,Pittsburgh,Hunter Jones,45169,West Virginia
+2019,12/09,Patriots Open,157,W,DEC,11 - 6,Carl Antrassian,45263,Pennsylvania,Hunter Jones,45169,West Virginia
+2019,12/09,Patriots Open,157,W,DEC,7 - 6,Tyler Megonigal,57357,Lock Haven,Hunter Jones,45169,West Virginia
+2019,12/09,Patriots Open,157,L,DEC,8 - 6,Kolby Ho,55945,George Mason,Hunter Jones,45169,West Virginia
+2019,12/09,Patriots Open,157,L,DEC,8 - 4,Kizhan Clarke,44878,American,Hunter Jones,45169,West Virginia
+2019,11/17,West Virginia - Cornell Dual,157,L,MD,11 - 1,Fredy Stroker,39520,Cornell,Hunter Jones,45169,West Virginia
+2019,11/11,Journeyman Open,157,W,MD,14 - 3,Alec Corrao,49822,Ithaca,Hunter Jones,45169,West Virginia
+2019,11/11,Journeyman Open,157,L,DEC,8 - 3,Jared Schieber,20817,Oklahoma,Hunter Jones,45169,West Virginia
+2019,11/11,Journeyman Open,157,W,MD,16 - 8,Tim Suter,51064,Edinboro,Hunter Jones,45169,West Virginia
+2019,11/04,Hokie Open,157,L,MD,12 - 4,Kaleb Warner,53359,UNC Pembroke,Hunter Jones,45169,West Virginia
+2019,11/04,Hokie Open,157,W,MD,15 - 7,Sean Glasgow,46337,Limestone,Hunter Jones,45169,West Virginia
+2019,11/04,Hokie Open,157,W,DEC,8 - 5,Matthew Dallara,51712,Campbell,Hunter Jones,45169,West Virginia
+2019,11/04,Hokie Open,157,L,DEC,3 - 2,Zach Barnes,49073,Campbell,Hunter Jones,45169,West Virginia
+2019,02/24,Mat-Town Open II,165,L,TF5,16 - 1 3:58,Kaleb Romero,49252,Ohio State,Brock Godzin,57156,West Virginia
+2019,02/24,Mat-Town Open II,165,L,TF5,18 - 0 2:52,Te'Shan Campbell,40351,Ohio State,Brock Godzin,57156,West Virginia
+2019,02/24,Mat-Town Open II,165,W,FALL,2:48,Bryce Dempsey,51011,American,Brock Godzin,57156,West Virginia
+2019,12/22,Wilkes Open,157,W,MD,11 - 0,Zachary Ford,48304,Rhode Island College,Brock Godzin,57156,West Virginia
+2019,12/22,Wilkes Open,157,L,DEC,7 - 3,Matthew Grippi,50662,NC State,Brock Godzin,57156,West Virginia
+2019,12/22,Wilkes Open,157,W,MFOR,0 - 0,Michael Petite,55596,Buffalo,Brock Godzin,57156,West Virginia
+2019,12/22,Wilkes Open,157,L,DEC,10 - 3,Alex Carida,56789,Bloomsburg,Brock Godzin,57156,West Virginia
+2019,11/03,Clarion Open,157,L,DEC,11 - 4,Daniel Contraguerro,50394,Pittsburgh,Brock Godzin,57156,West Virginia
+2019,11/03,Clarion Open,157,W,TF5,16 - 1 6:53,Joseph Andrassy,57240,Kent State,Brock Godzin,57156,West Virginia
+2019,11/03,Clarion Open,157,L,DEC,8 - 4,Nico Odor,45039,Cleveland State,Brock Godzin,57156,West Virginia
+2019,02/24,Mat-Town Open II,157,L,DEC,9 - 2,Brian Borden,58228,Unattached,Luke Sorboro,49343,West Virginia
+2019,02/24,Mat-Town Open II,157,W,FALL,2:42,Frank Houser,56806,Bucknell,Luke Sorboro,49343,West Virginia
+2019,02/24,Mat-Town Open II,157,L,TF5,20 - 3 7:00,Kizhan Clarke,44878,American,Luke Sorboro,49343,West Virginia
+2019,01/05,Franklin & Marshall Open,157,W,MD,16 - 5,Chris Richardson,51281,Delaware Valley,Luke Sorboro,49343,West Virginia
+2019,01/05,Franklin & Marshall Open,157,W,MFOR,0 - 0,Brendan O'Hara,55972,Princeton,Luke Sorboro,49343,West Virginia
+2019,01/05,Franklin & Marshall Open,157,L,DEC,6 - 2,Daniel Contraguerro,50394,Pittsburgh,Luke Sorboro,49343,West Virginia
+2019,01/05,Franklin & Marshall Open,157,L,FALL,0:52,Austin Wilson,56381,Lock Haven,Luke Sorboro,49343,West Virginia
+2019,12/02,Storm Open,157,L,DEC,7 - 1,Nick Steed,40363,Ohio,Luke Sorboro,49343,West Virginia
+2019,12/02,Storm Open,157,L,DEC,4 - 2,Caleb Cass,57214,Cleveland State,Luke Sorboro,49343,West Virginia
+2019,11/03,Clarion Open,157,L,DEC,6 - 3,Stefahn Mayo,58229,Unattached,Luke Sorboro,49343,West Virginia
+2019,11/03,Clarion Open,157,L,DEC,4 - 1,Caleb Hetrick,51135,Clarion,Luke Sorboro,49343,West Virginia
+2019,03/21,NCAA Championships,165,L,MD,14 - 6,Jesse Dellavecchia,39574,Rider,Nick Kiussis,49345,West Virginia
+2019,03/21,NCAA Championships,165,W,SV-1,3 - 1,Tyler Marinelli,20797,Gardner-Webb,Nick Kiussis,49345,West Virginia
+2019,03/21,NCAA Championships,165,L,MD,10 - 2,Evan Wick,44730,Wisconsin,Nick Kiussis,49345,West Virginia
+2019,03/09,Big 12 Championships,165,L,FALL,4:49,Andrew Fogarty,39706,North Dakota State,Nick Kiussis,49345,West Virginia
+2019,03/09,Big 12 Championships,165,L,DEC,6 - 5,Jacoby Ward,48102,Air Force,Nick Kiussis,49345,West Virginia
+2019,02/24,West Virginia - South Dakota State Dual,165,L,MD,15 - 6,Logan Peterson,20374,South Dakota State,Nick Kiussis,49345,West Virginia
+2019,02/01,Army - West Virginia Dual,165,L,DEC,2 - 1,Cael McCormick,44622,Army West Point,Nick Kiussis,49345,West Virginia
+2019,01/27,West Virginia - Wyoming Dual,165,L,DEC,2 - 0,Branson Ashworth,21676,Wyoming,Nick Kiussis,49345,West Virginia
+2019,01/25,West Virginia - Utah Valley Dual,165,W,DEC,4 - 2,Koy Wilkinson,45053,Utah Valley,Nick Kiussis,49345,West Virginia
+2019,01/25,West Virginia - CSU Bakersfield Dual,165,W,FALL,3:38,Jacob Thalin,40165,CSU Bakersfield,Nick Kiussis,49345,West Virginia
+2019,01/20,Iowa State - West Virginia Dual,165,W,DEC,3 - 2,Logan Schumacher,56307,Iowa State,Nick Kiussis,49345,West Virginia
+2019,01/18,Oklahoma State - West Virginia Dual,165,W,SV-1,6 - 4,Andrew Shomers,39642,Oklahoma State,Nick Kiussis,49345,West Virginia
+2019,01/13,West Virginia - North Carolina State Dual,165,L,DEC,9 - 5,Thomas Bullard,44611,NC State,Nick Kiussis,49345,West Virginia
+2019,01/04,West Virginia - Oklahoma Dual,165,W,DEC,5 - 3,Jeremy Thomas,44883,Oklahoma,Nick Kiussis,49345,West Virginia
+2019,12/30,West Virginia - Purdue Dual,165,W,SV-1,10 - 8,Cole Wysocki,39960,Purdue,Nick Kiussis,49345,West Virginia
+2019,12/30,West Virginia - North Dakota State Dual,165,W,MD,13 - 3,Andrew Fogarty,39706,North Dakota State,Nick Kiussis,49345,West Virginia
+2019,12/29,Michigan State - West Virginia Dual,165,W,DEC,5 - 1,Austin Hiles,44866,Michigan State,Nick Kiussis,49345,West Virginia
+2019,12/29,West Virginia - Virginia Dual,165,W,DEC,9 - 2,Cameron Coy,49330,Virginia,Nick Kiussis,49345,West Virginia
+2019,12/19,Virginia Tech - West Virginia Dual,165,L,MD,15 - 2,Mekhi Lewis,49338,Virginia Tech,Nick Kiussis,49345,West Virginia
+2019,12/15,West Virginia - Pittsburgh Dual,165,L,DEC,6 - 2,Jake Wentzel,45151,Pittsburgh,Nick Kiussis,49345,West Virginia
+2019,11/18,Northern Iowa - West Virginia Dual,165,L,DEC,9 - 6,Bryce Steiert,39504,Northern Iowa,Nick Kiussis,49345,West Virginia
+2019,11/17,West Virginia - Cornell Dual,165,W,DEC,7 - 1,Milik Dawkins,41360,Cornell,Nick Kiussis,49345,West Virginia
+2019,11/11,Journeyman Open,165,W,DEC,5 - 1,Jeremy Thomas,44883,Oklahoma,Nick Kiussis,49345,West Virginia
+2019,11/11,Journeyman Open,165,W,DEC,2 - 0,Owen Brown,50437,Army West Point,Nick Kiussis,49345,West Virginia
+2019,11/11,Journeyman Open,165,W,DEC,5 - 0,Carl Guess,44907,Appalachian State,Nick Kiussis,49345,West Virginia
+2019,11/04,Hokie Open,165,L,DEC,5 - 3,Mekhi Lewis,49338,Virginia Tech,Nick Kiussis,49345,West Virginia
+2019,11/04,Hokie Open,165,W,FALL,1:02,Colston DiBlasi,39718,George Mason,Nick Kiussis,49345,West Virginia
+2019,11/04,Hokie Open,165,W,MD,12 - 0,Hunter Costa,45247,Davidson,Nick Kiussis,49345,West Virginia
+2019,11/04,Hokie Open,165,W,FALL,2:10,Trey Watson,42896,Chattanooga,Nick Kiussis,49345,West Virginia
+2019,11/04,Hokie Open,165,W,MFOR,0 - 0,Charlie Andrews,44940,Campbell,Nick Kiussis,49345,West Virginia
+2019,11/01,Northern Colorado - West Virginia Dual,165,W,DEC,7 - 6,Macoy Flanagan,44926,Northern Colorado,Nick Kiussis,49345,West Virginia
+2019,03/09,Big 12 Championships,184,L,TF5,15 - 0 5:46,Will Sumner,20419,Utah Valley,Tucker Nadeau,56465,West Virginia
+2019,03/09,Big 12 Championships,184,L,TF5,16 - 1 3:45,Jackson Hemauer,49347,Fresno State,Tucker Nadeau,56465,West Virginia
+2019,02/10,JCU Open,165,W,DEC,6 - 2,Luke McKeon,59245,John Carroll,Tucker Nadeau,56465,West Virginia
+2019,02/10,JCU Open,165,W,DEC,3 - 2,Aidan Whitis,55223,John Carroll,Tucker Nadeau,56465,West Virginia
+2019,02/10,JCU Open,165,L,MD,16 - 2,Eric Fasnacht,44992,Ashland,Tucker Nadeau,56465,West Virginia
+2019,02/10,JCU Open,165,L,MFOR,0 - 0,Jacob Kallenborn,52118,Gannon,Tucker Nadeau,56465,West Virginia
+2019,02/10,JCU Open,165,W,TB-1,8 - 7,Jack Rogan,60241,Notre Dame,Tucker Nadeau,56465,West Virginia
+2019,02/02,Edinboro Open,165,L,FALL,6:15,Brady Chrisman,51190,Kent State,Tucker Nadeau,56465,West Virginia
+2019,02/02,Edinboro Open,165,L,DEC,4 - 0,Sage Castillo,45270,Central Michigan,Tucker Nadeau,56465,West Virginia
+2019,01/12,Shorty Hitchcock Open,165,L,MD,12 - 4,Brian Torres,60730,Nassau Community College,Tucker Nadeau,56465,West Virginia
+2019,01/12,Shorty Hitchcock Open,165,L,FALL,3:29,Benjamin Root,51221,American,Tucker Nadeau,56465,West Virginia
+2019,01/05,Franklin & Marshall Open,165,L,DEC,7 - 0,Aurelius Dunbar,60678,Mercersburg Academy,Tucker Nadeau,56465,West Virginia
+2019,01/05,Franklin & Marshall Open,165,L,DEC,3 - 2,Joseph Eiden,50301,Sacred Heart,Tucker Nadeau,56465,West Virginia
+2019,01/05,Franklin & Marshall Open,165,W,DEC,6 - 4,Joshua Kim,51200,Harvard,Tucker Nadeau,56465,West Virginia
+2019,12/09,Patriots Open,165,W,DEC,8 - 7,Jordan Florence,52574,Virginia Tech,Tucker Nadeau,56465,West Virginia
+2019,12/09,Patriots Open,165,L,DEC,6 - 2,Quentin Milliken,51594,Rider,Tucker Nadeau,56465,West Virginia
+2019,12/09,Patriots Open,165,L,DEC,4 - 0,Jack Conway,44785,Pennsylvania,Tucker Nadeau,56465,West Virginia
+2019,11/18,Wolfpack Open,165,W,DEC,10 - 3,Parker Grizzle,40715,Limestone,Tucker Nadeau,56465,West Virginia
+2019,11/18,Wolfpack Open,165,L,MFOR,0 - 0,Evan Schenk,49136,Gardner-Webb,Tucker Nadeau,56465,West Virginia
+2019,11/18,Wolfpack Open,165,L,DEC,9 - 5,John Dean,51670,Clarion,Tucker Nadeau,56465,West Virginia
+2019,11/11,Ohio Intercollegiate Open,165,W,MD,12 - 3,Dylan Knotts,57809,Urbana,Tucker Nadeau,56465,West Virginia
+2019,11/11,Ohio Intercollegiate Open,165,W,SV-1,6 - 4,Christian DeDi,49938,John Carroll,Tucker Nadeau,56465,West Virginia
+2019,11/11,Ohio Intercollegiate Open,165,L,DEC,4 - 3,Seth Winkle,49384,John Carroll,Tucker Nadeau,56465,West Virginia
+2019,11/11,Ohio Intercollegiate Open,165,L,DEC,9 - 2,Braeden Redlin,51123,Ohio State,Tucker Nadeau,56465,West Virginia
+2019,11/04,Hokie Open,165,W,MD,14 - 4,Kristian Scott,58334,Unattached,Tucker Nadeau,56465,West Virginia
+2019,11/04,Hokie Open,165,L,FALL,1:52,Garrett Beam,58300,Limestone,Tucker Nadeau,56465,West Virginia
+2019,11/04,Hokie Open,165,W,FALL,6:47,Leonardo Flores,58294,Limestone,Tucker Nadeau,56465,West Virginia
+2019,11/04,Hokie Open,165,L,DEC,11 - 9,Noah Reynolds,58289,Bluefield College,Tucker Nadeau,56465,West Virginia
+2019,02/10,JCU Open,165,L,INJ,7:00,Sam Gross,59039,John Carroll,Jacob Starkey,52846,West Virginia
+2019,02/10,JCU Open,165,W,FALL,1:09,Ryan Orr,53721,Baldwin Wallace,Jacob Starkey,52846,West Virginia
+2019,02/10,JCU Open,165,L,MFOR,0 - 0,Andrew Murphy,50274,Cleveland State,Jacob Starkey,52846,West Virginia
+2019,12/29,Lock Haven Classic,165,L,MD,13 - 5,John Vaughn,40905,Cleveland State,Jacob Starkey,52846,West Virginia
+2019,12/29,Lock Haven Classic,165,L,FALL,1:38,Jack Mulay,49063,Bucknell,Jacob Starkey,52846,West Virginia
+2019,12/09,Patriots Open,165,L,FALL,4:10,Jack Conway,44785,Pennsylvania,Jacob Starkey,52846,West Virginia
+2019,12/09,Patriots Open,165,L,DEC,10 - 4,Caleb Clymer,56372,Lock Haven,Jacob Starkey,52846,West Virginia
+2019,12/09,Patriots Open,165,W,FALL,5:32,Jacob Conners,19887,Franklin & Marshall,Jacob Starkey,52846,West Virginia
+2019,03/09,Big 12 Championships,174,L,FALL,0:45,Anthony Mantanona,49258,Oklahoma,James Wujek,57159,West Virginia
+2019,03/09,Big 12 Championships,174,L,TF5,18 - 0 2:56,Dominic Kincaid,45678,Fresno State,James Wujek,57159,West Virginia
+2019,02/24,West Virginia - South Dakota State Dual,174,L,FALL,4:38,Samuel Grove,49320,South Dakota State,James Wujek,57159,West Virginia
+2019,01/27,West Virginia - Wyoming Dual,174,L,FALL,2:50,Anthony Lombardo,19656,Wyoming,James Wujek,57159,West Virginia
+2019,01/25,West Virginia - Utah Valley Dual,174,L,MD,12 - 2,Kimball Bastian,40322,Utah Valley,James Wujek,57159,West Virginia
+2019,01/25,West Virginia - CSU Bakersfield Dual,174,L,MD,13 - 4,Bryan Battisto,19830,CSU Bakersfield,James Wujek,57159,West Virginia
+2019,01/20,Iowa State - West Virginia Dual,174,L,FALL,3:27,Marcus Coleman,49154,Iowa State,James Wujek,57159,West Virginia
+2019,01/18,Oklahoma State - West Virginia Dual,174,L,TF5,20 - 2 4:07,Joe Smith,39786,Oklahoma State,James Wujek,57159,West Virginia
+2019,01/13,West Virginia - North Carolina State Dual,174,L,TF5,18 - 0 3:45,Daniel Bullard,44612,NC State,James Wujek,57159,West Virginia
+2019,01/04,West Virginia - Oklahoma Dual,174,L,FALL,1:27,Anthony Mantanona,49258,Oklahoma,James Wujek,57159,West Virginia
+2019,12/09,Patriots Open,174,L,DEC,4 - 2,Cornelius Schuster,55781,George Mason,James Wujek,57159,West Virginia
+2019,12/02,Storm Open,174,L,TF5,15 - 0 4:52,Logan Stanley,56204,Ohio,James Wujek,57159,West Virginia
+2019,12/02,Storm Open,174,L,MD,16 - 5,Max Wohlabaugh,49096,Clarion,James Wujek,57159,West Virginia
+2019,11/03,Clarion Open,174,L,DEC,11 - 6,Andrew Todaro,57408,Pitt-Johnstown,James Wujek,57159,West Virginia
+2019,11/03,Clarion Open,174,L,TF5,16 - 0 2:05,Tommy O'Brien,49289,Pittsburgh,James Wujek,57159,West Virginia
+2019,11/03,Clarion Open,174,W,DEC,5 - 2,Cole Painter,57256,American,James Wujek,57159,West Virginia
+2019,02/01,Army - West Virginia Dual,174,L,MD,12 - 2,Ben Harvey,40935,Army West Point,Josh Ramirez,57158,West Virginia
+2019,12/29,Michigan State - West Virginia Dual,174,W,SV-1,4 - 2,Drew Hughes,44802,Michigan State,Josh Ramirez,57158,West Virginia
+2019,12/29,West Virginia - Virginia Dual,174,L,DEC,9 - 5,Robert Patrick,50665,Virginia,Josh Ramirez,57158,West Virginia
+2019,12/19,Virginia Tech - West Virginia Dual,174,L,DEC,8 - 2,David McFadden,39633,Virginia Tech,Josh Ramirez,57158,West Virginia
+2019,12/15,West Virginia - Pittsburgh Dual,174,L,DEC,5 - 3,Gregg Harvey,45148,Pittsburgh,Josh Ramirez,57158,West Virginia
+2019,11/18,Northern Iowa - West Virginia Dual,174,L,FALL,2:51,Taylor Lujan,39506,Northern Iowa,Josh Ramirez,57158,West Virginia
+2019,11/17,West Virginia - Cornell Dual,174,L,DEC,6 - 4,Brandon Womack,40379,Cornell,Josh Ramirez,57158,West Virginia
+2019,11/11,Journeyman Open,174,W,DEC,7 - 1,Dante Springsteen,50976,Utah Valley,Josh Ramirez,57158,West Virginia
+2019,11/11,Journeyman Open,174,L,DEC,6 - 2,Daniel Bullard,44612,NC State,Josh Ramirez,57158,West Virginia
+2019,11/11,Journeyman Open,174,W,FALL,2:06,Thomas Flitz,45410,Appalachian State,Josh Ramirez,57158,West Virginia
+2019,11/04,Hokie Open,174,W,FALL,0:51,Jay Dominguez,58332,Newberry,Josh Ramirez,57158,West Virginia
+2019,11/04,Hokie Open,174,W,DEC,12 - 5,Phillip Stolfi,44942,George Mason,Josh Ramirez,57158,West Virginia
+2019,11/04,Hokie Open,174,W,MD,14 - 0,Erik Eva,51189,Davidson,Josh Ramirez,57158,West Virginia
+2019,11/04,Hokie Open,174,L,FALL,2:37,Caleb Hopkins,56482,Campbell,Josh Ramirez,57158,West Virginia
+2019,11/04,Hokie Open,174,W,FALL,1:42,Colin Shannon,50060,American,Josh Ramirez,57158,West Virginia
+2019,11/01,Northern Colorado - West Virginia Dual,174,L,DEC,3 - 1,Sethan Bogulski,45359,Northern Colorado,Josh Ramirez,57158,West Virginia
+2019,11/03,Clarion Open,174,L,MD,12 - 2,Tyler Bates,56413,Kent State,Shane Connolly,57157,West Virginia
+2019,11/03,Clarion Open,174,L,MD,14 - 4,Kyle Homet,57168,Gardner-Webb,Shane Connolly,57157,West Virginia
+2019,02/24,West Virginia - South Dakota State Dual,184,L,FALL,2:49,Zach Carlson,40280,South Dakota State,Jackson Moomau,57161,West Virginia
+2019,02/01,Army - West Virginia Dual,184,L,TF5,16 - 0 4:52,Noah Stewart,44599,Army West Point,Jackson Moomau,57161,West Virginia
+2019,01/27,West Virginia - Wyoming Dual,184,L,FALL,1:50,Tate Samuelson,57066,Wyoming,Jackson Moomau,57161,West Virginia
+2019,01/25,West Virginia - Utah Valley Dual,184,L,FALL,1:26,Will Sumner,20419,Utah Valley,Jackson Moomau,57161,West Virginia
+2019,01/25,West Virginia - CSU Bakersfield Dual,184,L,FALL,1:24,Dom Ducharme,45323,CSU Bakersfield,Jackson Moomau,57161,West Virginia
+2019,01/20,Iowa State - West Virginia Dual,184,L,TF5,20 - 4 4:39,Samuel Colbray,44873,Iowa State,Jackson Moomau,57161,West Virginia
+2019,01/04,West Virginia - Oklahoma Dual,184,L,FALL,2:04,Kayne MacCallum,19874,Oklahoma,Jackson Moomau,57161,West Virginia
+2019,12/29,West Virginia - Virginia Dual,184,L,INJ,3:31,Will Schany,20435,Virginia,Jackson Moomau,57161,West Virginia
+2019,12/15,West Virginia - Pittsburgh Dual,184,L,TF5,16 - 1 3:21,Nino Bonaccorsi,49285,Pittsburgh,Jackson Moomau,57161,West Virginia
+2019,11/18,Northern Iowa - West Virginia Dual,184,L,TF5,19 - 0 2:57,Drew Foster,20212,Northern Iowa,Jackson Moomau,57161,West Virginia
+2019,11/17,West Virginia - Cornell Dual,184,L,FALL,2:46,Max Dean,46025,Cornell,Jackson Moomau,57161,West Virginia
+2019,11/11,Journeyman Open,184,L,DEC,10 - 4,Jared Florell,49304,Purdue,Jackson Moomau,57161,West Virginia
+2019,11/11,Journeyman Open,184,L,SV-1,4 - 3,Breylon Douglas,56388,Lock Haven,Jackson Moomau,57161,West Virginia
+2019,11/11,Journeyman Open,184,L,FALL,1:24,Cullen Wolford,45371,Edinboro,Jackson Moomau,57161,West Virginia
+2019,11/04,Hokie Open,184,L,TB-2,6 - 5,ZeBrandon Gant,58319,Newberry,Jackson Moomau,57161,West Virginia
+2019,11/04,Hokie Open,184,W,DEC,2 - 0,Jack Walsh,44951,Virginia,Jackson Moomau,57161,West Virginia
+2019,11/04,Hokie Open,184,W,TF5,16 - 0 5:17,Robert Tywater,51369,The Citadel,Jackson Moomau,57161,West Virginia
+2019,11/04,Hokie Open,184,L,DEC,5 - 1,Spencer Irick,45355,Indiana,Jackson Moomau,57161,West Virginia
+2019,11/04,Hokie Open,184,W,DEC,3 - 2,Blake Barrick,51186,American,Jackson Moomau,57161,West Virginia
+2019,11/01,Northern Colorado - West Virginia Dual,184,L,TF5,17 - 1 5:37,Dalton Robertson,44695,Northern Colorado,Jackson Moomau,57161,West Virginia
+2019,12/19,Virginia Tech - West Virginia Dual,184,L,MD,15 - 6,Zack Zavatsky,20460,Virginia Tech,Hunter DeLong,50972,West Virginia
+2019,12/09,Patriots Open,184,W,DEC,5 - 4,Isaac Morales,47790,Johns Hopkins,Hunter DeLong,50972,West Virginia
+2019,12/09,Patriots Open,184,L,MD,14 - 3,AJ Pedro,49056,Brown,Hunter DeLong,50972,West Virginia
+2019,12/09,Patriots Open,184,L,FALL,0:41,Tanner Harvey,48451,American,Hunter DeLong,50972,West Virginia
+2019,11/11,Journeyman Open,184,L,MD,8 - 0,Carless Looney,51511,Wyoming,Hunter DeLong,50972,West Virginia
+2019,11/11,Journeyman Open,184,L,DEC,10 - 4,Andrew Price,39648,Lehigh,Hunter DeLong,50972,West Virginia
+2019,11/11,Journeyman Open,184,L,MD,12 - 3,Zach Ancewicz,49132,Edinboro,Hunter DeLong,50972,West Virginia
+2019,11/04,Hokie Open,184,L,DEC,7 - 4,Samuel Fisher,58305,Farmingdale State College,Hunter DeLong,50972,West Virginia
+2019,11/04,Hokie Open,184,W,DEC,12 - 7,D'Angelo DeWitt,57933,Virginia Tech,Hunter DeLong,50972,West Virginia
+2019,11/04,Hokie Open,184,W,FALL,2:09,Robert Tywater,51369,The Citadel,Hunter DeLong,50972,West Virginia
+2019,11/04,Hokie Open,184,L,DEC,8 - 2,Martin Duane,45583,The Citadel,Hunter DeLong,50972,West Virginia
+2019,03/21,NCAA Championships,197,L,DEC,7 - 2,Eric Schultz,44853,Nebraska,Noah Adams,49342,West Virginia
+2019,03/21,NCAA Championships,197,W,DEC,8 - 3,Brandon Whitman,50602,North Carolina,Noah Adams,49342,West Virginia
+2019,03/21,NCAA Championships,197,L,DEC,8 - 3,Malik McDonald,20133,NC State,Noah Adams,49342,West Virginia
+2019,03/09,Big 12 Championships,197,W,DEC,10 - 7,Tanner Orndorff,40324,Utah Valley,Noah Adams,49342,West Virginia
+2019,03/09,Big 12 Championships,197,W,MFOR,0 - 0,Martin Mueller,40281,South Dakota State,Noah Adams,49342,West Virginia
+2019,03/09,Big 12 Championships,197,L,DEC,8 - 3,Jake Woodley,49257,Oklahoma,Noah Adams,49342,West Virginia
+2019,03/09,Big 12 Championships,197,W,MD,13 - 1,Jacob Seely,39665,Northern Colorado,Noah Adams,49342,West Virginia
+2019,03/09,Big 12 Championships,197,W,DEC,3 - 1,Cordell Eaton,40458,North Dakota State,Noah Adams,49342,West Virginia
+2019,03/09,Big 12 Championships,197,L,DEC,9 - 7,Josh Hokit,44586,Fresno State,Noah Adams,49342,West Virginia
+2019,02/24,West Virginia - South Dakota State Dual,197,W,MD,10 - 1,Martin Mueller,40281,South Dakota State,Noah Adams,49342,West Virginia
+2019,02/01,Army - West Virginia Dual,197,L,DEC,8 - 7,Rocco Caywood,22565,Army West Point,Noah Adams,49342,West Virginia
+2019,01/27,West Virginia - Wyoming Dual,197,W,FALL,4:17,Cale Davidson,49353,Wyoming,Noah Adams,49342,West Virginia
+2019,01/25,West Virginia - Utah Valley Dual,197,W,DEC,9 - 4,Ashton Seely,50975,Utah Valley,Noah Adams,49342,West Virginia
+2019,01/25,West Virginia - CSU Bakersfield Dual,197,W,DEC,9 - 2,Mark Penyacsek,40163,CSU Bakersfield,Noah Adams,49342,West Virginia
+2019,01/20,Iowa State - West Virginia Dual,197,L,FALL,4:37,Willie Miklus,14058,Iowa State,Noah Adams,49342,West Virginia
+2019,01/18,Oklahoma State - West Virginia Dual,197,L,DEC,10 - 6,Dakota Geer,45373,Oklahoma State,Noah Adams,49342,West Virginia
+2019,01/13,West Virginia - North Carolina State Dual,197,L,DEC,12 - 6,Malik McDonald,20133,NC State,Noah Adams,49342,West Virginia
+2019,01/04,West Virginia - Oklahoma Dual,197,L,DEC,5 - 3,Jake Woodley,49257,Oklahoma,Noah Adams,49342,West Virginia
+2019,12/30,West Virginia - Purdue Dual,197,L,DEC,9 - 7,Christian Brunner,44744,Purdue,Noah Adams,49342,West Virginia
+2019,12/30,West Virginia - North Dakota State Dual,197,W,DEC,5 - 2,Cordell Eaton,40458,North Dakota State,Noah Adams,49342,West Virginia
+2019,12/29,Michigan State - West Virginia Dual,197,W,MD,11 - 0,Brad Wilton,49187,Michigan State,Noah Adams,49342,West Virginia
+2019,12/29,West Virginia - Virginia Dual,197,L,DEC,9 - 5,Jay Aiello,44667,Virginia,Noah Adams,49342,West Virginia
+2019,12/19,Virginia Tech - West Virginia Dual,197,L,DEC,3 - 1,Tom Sleigh,19710,Virginia Tech,Noah Adams,49342,West Virginia
+2019,12/15,West Virginia - Pittsburgh Dual,197,L,DEC,5 - 3,Kellan Stout,39528,Pittsburgh,Noah Adams,49342,West Virginia
+2019,11/18,Northern Iowa - West Virginia Dual,197,W,DEC,12 - 5,Izaak Shedenhelm,48351,Northern Iowa,Noah Adams,49342,West Virginia
+2019,11/17,West Virginia - Cornell Dual,197,W,DEC,13 - 7,Benjamin Honis,43656,Cornell,Noah Adams,49342,West Virginia
+2019,11/11,Journeyman Open,197,W,FALL,3:20,Sawyer Root,39846,The Citadel,Noah Adams,49342,West Virginia
+2019,11/11,Journeyman Open,197,L,FALL,6:35,Jake Jakobsen,46924,Lehigh,Noah Adams,49342,West Virginia
+2019,11/11,Journeyman Open,197,W,SV-1,5 - 3,Kyle Gentile,44624,Lehigh,Noah Adams,49342,West Virginia
+2019,11/04,Hokie Open,197,W,MD,19 - 7,Tyrie Houghton,51136,NC State,Noah Adams,49342,West Virginia
+2019,11/04,Hokie Open,197,W,DEC,10 - 3,Tony Wuest,50927,NC State,Noah Adams,49342,West Virginia
+2019,11/04,Hokie Open,197,W,MD,14 - 5,Eli Spencer,45318,George Mason,Noah Adams,49342,West Virginia
+2019,11/04,Hokie Open,197,W,MD,12 - 3,Ben Stacey,44899,Chattanooga,Noah Adams,49342,West Virginia
+2019,11/01,Northern Colorado - West Virginia Dual,197,L,DEC,12 - 9,Jacob Seely,39665,Northern Colorado,Noah Adams,49342,West Virginia
+2019,02/10,JCU Open,197,W,FALL,1:36,Connor Bizjak,61687,John Carroll,Jack Malone,57160,West Virginia
+2019,02/10,JCU Open,197,W,FALL,3:37,Kyler Slade,44023,Unattached,Jack Malone,57160,West Virginia
+2019,02/10,JCU Open,197,W,TF5,18 - 1 3:33,Gehrig Hutchison,56076,Gannon,Jack Malone,57160,West Virginia
+2019,11/03,Clarion Open,197,L,TF5,16 - 1 0:57,Michael Beard,50614,Unattached,Jack Malone,57160,West Virginia
+2019,11/03,Clarion Open,197,L,FALL,6:14,John Kelbly,50329,Cleveland State,Jack Malone,57160,West Virginia
+2019,03/21,NCAA Championships,285,L,MD,10 - 0,David Jensen,43467,Nebraska,Brandon Ngati,45167,West Virginia
+2019,03/21,NCAA Championships,285,W,DEC,6 - 1,Jacob Aven,20343,Purdue,Brandon Ngati,45167,West Virginia
+2019,03/21,NCAA Championships,285,L,MD,10 - 2,Derek White,20107,Oklahoma State,Brandon Ngati,45167,West Virginia
+2019,03/09,Big 12 Championships,285,L,DEC,2 - 0,Tate Orndorff,50974,Utah Valley,Brandon Ngati,45167,West Virginia
+2019,03/09,Big 12 Championships,285,W,DEC,6 - 0,Blake Wolters,45289,South Dakota State,Brandon Ngati,45167,West Virginia
+2019,03/09,Big 12 Championships,285,W,DEC,2 - 1,Jake Boyd,49260,Oklahoma,Brandon Ngati,45167,West Virginia
+2019,03/09,Big 12 Championships,285,W,DEC,4 - 1,Robert Winters,44813,Northern Colorado,Brandon Ngati,45167,West Virginia
+2019,03/09,Big 12 Championships,285,L,DEC,2 - 0,Gannon Gremmel,44856,Iowa State,Brandon Ngati,45167,West Virginia
+2019,03/09,Big 12 Championships,285,L,DEC,4 - 2,AJ Nevills,47810,Fresno State,Brandon Ngati,45167,West Virginia
+2019,02/24,West Virginia - South Dakota State Dual,285,W,SV-2,5 - 3,Blake Wolters,45289,South Dakota State,Brandon Ngati,45167,West Virginia
+2019,02/01,Army - West Virginia Dual,285,L,DEC,7 - 2,Ben Sullivan,49040,Army West Point,Brandon Ngati,45167,West Virginia
+2019,01/27,West Virginia - Wyoming Dual,285,L,DEC,4 - 0,Brian Andrews,50489,Wyoming,Brandon Ngati,45167,West Virginia
+2019,01/25,West Virginia - Utah Valley Dual,285,L,DEC,4 - 2,Tate Orndorff,50974,Utah Valley,Brandon Ngati,45167,West Virginia
+2019,01/25,West Virginia - CSU Bakersfield Dual,285,W,DEC,2 - 1,Jarrod Snyder,45319,CSU Bakersfield,Brandon Ngati,45167,West Virginia
+2019,01/20,Iowa State - West Virginia Dual,285,L,DEC,2 - 0,Gannon Gremmel,44856,Iowa State,Brandon Ngati,45167,West Virginia
+2019,01/18,Oklahoma State - West Virginia Dual,285,L,FALL,2:23,Derek White,20107,Oklahoma State,Brandon Ngati,45167,West Virginia
+2019,01/13,West Virginia - North Carolina State Dual,285,W,DEC,3 - 2,Deonte Wilson,56403,NC State,Brandon Ngati,45167,West Virginia
+2019,01/04,West Virginia - Oklahoma Dual,285,W,DEC,5 - 1,Jake Boyd,49260,Oklahoma,Brandon Ngati,45167,West Virginia
+2019,12/30,West Virginia - Purdue Dual,285,W,DEC,6 - 5,Jacob Aven,20343,Purdue,Brandon Ngati,45167,West Virginia
+2019,12/30,West Virginia - North Dakota State Dual,285,W,DEC,8 - 7,Brandon Metz,49222,North Dakota State,Brandon Ngati,45167,West Virginia
+2019,12/29,West Virginia - Virginia Dual,285,W,DEC,1 - 0,Tyler Love,43203,Virginia,Brandon Ngati,45167,West Virginia
+2019,12/19,Virginia Tech - West Virginia Dual,285,L,DEC,4 - 0,Billy Miller,20725,Virginia Tech,Brandon Ngati,45167,West Virginia
+2019,12/15,West Virginia - Pittsburgh Dual,285,L,DEC,6 - 4,Demetrius Thomas,47357,Pittsburgh,Brandon Ngati,45167,West Virginia
+2019,11/25,Mat Town Open I,285,L,DEC,4 - 2,Isaac Reid,50915,Lock Haven,Brandon Ngati,45167,West Virginia
+2019,11/25,Mat Town Open I,285,W,TF5,22 - 7 7:00,Jarrett Walters,50871,Bloomsburg,Brandon Ngati,45167,West Virginia
+2019,11/25,Mat Town Open I,285,L,DEC,4 - 1,Daniel Conley,51103,Columbia,Brandon Ngati,45167,West Virginia
+2019,11/25,Mat Town Open I,285,W,DEC,4 - 1,Daniel Herman,51035,Columbia,Brandon Ngati,45167,West Virginia
+2019,11/04,Hokie Open,285,W,DEC,8 - 2,Robert Scherer,44761,Virginia,Brandon Ngati,45167,West Virginia
+2019,11/04,Hokie Open,285,W,TB-2,2 - 1,Andrew Gunning,44876,North Carolina,Brandon Ngati,45167,West Virginia
+2019,11/04,Hokie Open,285,L,DEC,4 - 3,Connor Tolley,19780,Chattanooga,Brandon Ngati,45167,West Virginia
+2019,11/04,Hokie Open,285,L,DEC,5 - 1,Cary Miller,39976,Appalachian State,Brandon Ngati,45167,West Virginia
+2019,12/29,Michigan State - West Virginia Dual,285,L,INJ,2:33,Chase Beard,51214,Michigan State,David Smith,50968,West Virginia
+2019,11/18,Northern Iowa - West Virginia Dual,285,L,MD,10 - 1,Carter Isley,44719,Northern Iowa,David Smith,50968,West Virginia
+2019,11/17,West Virginia - Cornell Dual,285,W,DEC,10 - 6,Brendan Furman,49113,Cornell,David Smith,50968,West Virginia
+2019,11/11,Journeyman Open,285,L,MD,10 - 0,Brian Andrews,50489,Wyoming,David Smith,50968,West Virginia
+2019,11/11,Journeyman Open,285,W,FALL,3:43,Jake Boyd,49260,Oklahoma,David Smith,50968,West Virginia
+2019,11/11,Journeyman Open,285,L,DEC,3 - 2,Tyler Johnson,39651,NC State,David Smith,50968,West Virginia
+2019,11/04,Hokie Open,285,W,FALL,1:19,Nicholas Weldon,20307,Newberry,David Smith,50968,West Virginia
+2019,11/04,Hokie Open,285,L,DEC,4 - 1,John Borst,49336,Virginia Tech,David Smith,50968,West Virginia
+2019,11/04,Hokie Open,285,W,FALL,2:25,Robert Scherer,44761,Virginia,David Smith,50968,West Virginia
+2019,11/04,Hokie Open,285,W,DEC,3 - 2,Andrew Gunning,44876,North Carolina,David Smith,50968,West Virginia
+2019,11/04,Hokie Open,285,W,FALL,1:32,Connor Tolley,19780,Chattanooga,David Smith,50968,West Virginia
+2019,11/01,Northern Colorado - West Virginia Dual,285,W,FALL,4:50,Robert Winters,44813,Northern Colorado,David Smith,50968,West Virginia
+2019,01/05,Franklin & Marshall Open,285,L,DEC,7 - 2,Caleb Warner,48403,Millersville,Sean Mullican,49344,West Virginia
+2019,01/05,Franklin & Marshall Open,285,L,DEC,6 - 3,Cole Rickert,50864,Pittsburgh,Sean Mullican,49344,West Virginia
+2019,12/15,Cleveland State Open,285,W,FALL,4:13,Joshua Pearson,59894,Notre Dame,Sean Mullican,49344,West Virginia
+2019,12/15,Cleveland State Open,285,W,DEC,6 - 1,Seth Bloor,44046,Wheeling,Sean Mullican,49344,West Virginia
+2019,12/15,Cleveland State Open,285,L,TB-2,4 - 1,Keaton Kluever,50603,North Carolina,Sean Mullican,49344,West Virginia
+2019,12/15,Cleveland State Open,285,L,DEC,7 - 2,Brylee Shumaker,45572,Clarion,Sean Mullican,49344,West Virginia
+2019,12/02,Storm Open,285,W,MFOR,0 - 0,Paul McKnight,59045,Notre Dame,Sean Mullican,49344,West Virginia
+2019,12/02,Storm Open,285,W,DEC,6 - 0,John Fulmer,56259,Seton Hill,Sean Mullican,49344,West Virginia
+2019,12/02,Storm Open,285,L,DEC,4 - 2,Jordan Earnest,51122,Ohio,Sean Mullican,49344,West Virginia
+2019,12/02,Storm Open,285,W,SV-2,4 - 3,Jacob Cover,57237,Kent State,Sean Mullican,49344,West Virginia
+2019,11/11,Ohio Intercollegiate Open,285,W,FALL,4:58,Nate Temple,53405,Otterbein University,Sean Mullican,49344,West Virginia
+2019,11/11,Ohio Intercollegiate Open,285,L,FALL,0:26,Spencer Berthold,50157,Kent State,Sean Mullican,49344,West Virginia
+2019,11/11,Ohio Intercollegiate Open,285,L,DEC,7 - 3,Gary Traub,45199,Ohio State,Sean Mullican,49344,West Virginia
+2019,11/04,Hokie Open,285,W,DQ,0 - 0,Chris Vasquez,56604,King,Sean Mullican,49344,West Virginia
+2019,11/04,Hokie Open,285,W,DEC,8 - 1,Cade Smith,50578,UNC Pembroke,Sean Mullican,49344,West Virginia
+2019,11/04,Hokie Open,285,W,DEC,4 - 3,Keaton Kluever,50603,North Carolina,Sean Mullican,49344,West Virginia
+2019,11/04,Hokie Open,285,L,DEC,9 - 6,Mitchell Trigg,56339,Davidson,Sean Mullican,49344,West Virginia
+2019,11/04,Hokie Open,285,W,MD,11 - 3,Trevor Burns,56923,Chattanooga,Sean Mullican,49344,West Virginia

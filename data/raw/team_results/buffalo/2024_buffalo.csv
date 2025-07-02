@@ -1,0 +1,733 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2024,03/08,MAC Championships,125,L,DEC,4 - 1,JB Dragovich,78828,George Mason,Max Elton,79785,Buffalo
+2024,03/08,MAC Championships,125,L,DEC,7 - 5,Davian Guanajuato,74863,SIU Edwardsville,Max Elton,79785,Buffalo
+2024,02/24,Buffalo - Ohio Dual,125,W,DEC,7 - 3,Ryan Meek,79652,Ohio,Max Elton,79785,Buffalo
+2024,02/11,Buffalo - Central Michigan Dual,125,L,MD,14 - 3,Sean Spidle,63063,Central Michigan,Max Elton,79785,Buffalo
+2024,02/08,Clarion - Buffalo Dual,125,L,DEC,7 - 1,Joseph Fischer,68702,Clarion,Max Elton,79785,Buffalo
+2024,02/03,Northern Illinois - Buffalo Dual,125,L,TF5,17 - 2 6:30,Blake West,73337,Northern Illinois,Max Elton,79785,Buffalo
+2024,01/19,Buffalo - Lock Haven Dual,125,W,MD,10 - 1,Logan Sallot,79291,Lock Haven,Max Elton,79785,Buffalo
+2024,01/13,Buffalo - Binghamton Dual,125,L,DEC,10 - 4,Carson Wagner,78720,Binghamton,Max Elton,79785,Buffalo
+2024,01/07,Southern Illinois Edwardsville - Buffalo Dual,125,L,DEC,7 - 2,Davian Guanajuato,74863,SIU Edwardsville,Max Elton,79785,Buffalo
+2024,12/29,Midlands Championships,125,W,MFOR,0 - 0,Nick Corday,70986,Michigan State,Max Elton,79785,Buffalo
+2024,12/29,Midlands Championships,125,L,FALL,4:45,Eli Griffin,68743,Cal Baptist,Max Elton,79785,Buffalo
+2024,12/29,Midlands Championships,125,L,MD,9 - 0,Vincent Kilkeary,74118,Ohio State,Max Elton,79785,Buffalo
+2024,12/29,Midlands Championships,125,W,DEC,7 - 4,Ethan Spacht,86340,North Central,Max Elton,79785,Buffalo
+2024,12/17,Buffalo - Bloomsburg Dual,125,W,MD,14 - 3,Bronson Garber,56759,Bloomsburg,Max Elton,79785,Buffalo
+2024,12/17,Buffalo - Bucknell Dual,125,W,DEC,6 - 1,Grayson McLellan,79295,Bucknell,Max Elton,79785,Buffalo
+2024,12/07,Michigan State - Buffalo Dual,125,L,MD,13 - 3,Caleb Weiand,79429,Michigan State,Max Elton,79785,Buffalo
+2024,12/02,Buffalo - Gardner-Webb Dual,125,L,TF5,17 - 1 6:38,Drew West,50041,Gardner-Webb,Max Elton,79785,Buffalo
+2024,12/02,Buffalo - Chattanooga Dual,125,L,MD,8 - 0,Brayden Palmer,59826,Chattanooga,Max Elton,79785,Buffalo
+2024,12/02,Buffalo - Kent State Dual,125,W,DEC,7 - 3,Adan Benavidez,84848,Kent State,Max Elton,79785,Buffalo
+2024,11/19,Black Knight Invitational,125,L,FALL,4:23,Gary Steen,68731,Penn State,Max Elton,79785,Buffalo
+2024,11/19,Black Knight Invitational,125,W,DEC,5 - 1,Ariel Waldman,84604,LIU,Max Elton,79785,Buffalo
+2024,11/19,Black Knight Invitational,125,L,MD,11 - 2,Charlie Farmer,71771,Army West Point,Max Elton,79785,Buffalo
+2024,11/17,Virginia - Buffalo Dual,125,W,DEC,3 - 2,Kyle Montaperto,73138,Virginia,Max Elton,79785,Buffalo
+2024,11/17,Northern Colorado - Buffalo Dual,125,L,TF5,20 - 5 6:01,Stevo Poulin,71929,Northern Colorado,Max Elton,79785,Buffalo
+2024,11/12,Journeymen Classic,125,W,FALL,2:19,Jared Chuqulin,87620,LIU,Max Elton,79785,Buffalo
+2024,11/12,Journeymen Classic,125,W,TF5,19 - 4 6:49,Kevin Riedinger,82736,Bloomsburg,Max Elton,79785,Buffalo
+2024,11/12,Journeymen Classic,125,W,MD,11 - 0,Damian Moreno,84698,Arizona State,Max Elton,79785,Buffalo
+2024,11/11,Buffalo - Long Island University  Dual,125,L,SV-1,4 - 1,Robbie Sagaris,73406,LIU,Max Elton,79785,Buffalo
+2024,11/05,Clarion Open,125,L,DEC,4 - 2,Caleb Weiand,79429,Michigan State,Max Elton,79785,Buffalo
+2024,11/05,Clarion Open,125,L,SV-1,7 - 4,Markel Baker,78892,George Mason,Max Elton,79785,Buffalo
+2024,11/01,Glenville State College - Buffalo Dual,125,W,TF5,18 - 2 3:33,Devin Easton,73212,Glenville State University,Tristan Daugherty,62877,Buffalo
+2024,11/01,Brockport - Buffalo Dual,125,W,FALL,4:09,Liam Bullock,80352,Brockport,Tristan Daugherty,62877,Buffalo
+2024,11/19,Black Knight Invitational,125,W,DEC,4 - 3,Jared Chuqulin,87620,LIU,Troy Guerra,78599,Buffalo
+2024,11/19,Black Knight Invitational,125,L,MD,16 - 3,Ethan Berginc,71779,Army West Point,Troy Guerra,78599,Buffalo
+2024,11/19,Black Knight Invitational,125,L,MD,11 - 3,Brandan Chletsos,72969,Rutgers,Troy Guerra,78599,Buffalo
+2024,11/11,North Carolina - Buffalo Dual,125,L,DEC,5 - 0,Spencer Moore,68720,North Carolina,Troy Guerra,78599,Buffalo
+2024,11/05,Clarion Open,125,L,DEC,6 - 3,Gunner Havens,84318,Kent State,Troy Guerra,78599,Buffalo
+2024,11/05,Clarion Open,125,L,SV-1,4 - 1,Matthew Rowland,80035,Gardner-Webb,Troy Guerra,78599,Buffalo
+2024,11/01,Niagara Community College - Buffalo Dual,125,W,MD,17 - 3,JR Leuer,85401,Niagara Community College,Troy Guerra,78599,Buffalo
+2024,11/01,Seton Hill - Buffalo Dual,125,L,MD,10 - 0,William Burgess,60442,Seton Hill,Troy Guerra,78599,Buffalo
+2024,12/10,Buffalo - Rutgers Dual,125,L,DEC,5 - 1,Brandan Chletsos,72969,Rutgers,Jordan Reyes,61394,Buffalo
+2024,03/08,MAC Championships,133,L,DEC,6 - 4,Marcel Lopez,78290,SIU Edwardsville,Tommy Maddox,63165,Buffalo
+2024,03/08,MAC Championships,133,W,DEC,9 - 6,Mikey Kaminski,68722,Northern Illinois,Tommy Maddox,63165,Buffalo
+2024,03/08,MAC Championships,133,W,FALL,6:54,Marcel Lopez,78290,SIU Edwardsville,Tommy Maddox,63165,Buffalo
+2024,03/08,MAC Championships,133,L,TF5,18 - 3 6:58,Gable Strickland,71822,Lock Haven,Tommy Maddox,63165,Buffalo
+2024,02/24,Buffalo - Ohio Dual,133,W,MD,14 - 3,Mason Brugh,76364,Ohio,Tommy Maddox,63165,Buffalo
+2024,02/11,Buffalo - Central Michigan Dual,133,W,DEC,9 - 2,Vince Perez,60001,Central Michigan,Tommy Maddox,63165,Buffalo
+2024,02/08,Clarion - Buffalo Dual,133,W,DEC,13 - 7,TJ England,63058,Clarion,Tommy Maddox,63165,Buffalo
+2024,02/03,Northern Illinois - Buffalo Dual,133,W,MD,17 - 9,Mikey Kaminski,68722,Northern Illinois,Tommy Maddox,63165,Buffalo
+2024,01/19,Buffalo - Lock Haven Dual,133,L,MD,16 - 4,Gable Strickland,71822,Lock Haven,Tommy Maddox,63165,Buffalo
+2024,01/13,Buffalo - Binghamton Dual,133,L,MD,14 - 5,Micah Roes,67299,Binghamton,Tommy Maddox,63165,Buffalo
+2024,01/07,Southern Illinois Edwardsville - Buffalo Dual,133,L,DEC,5 - 2,Marcel Lopez,78290,SIU Edwardsville,Tommy Maddox,63165,Buffalo
+2024,12/29,Midlands Championships,133,L,MD,16 - 3,Alex Almeyda,72982,Pennsylvania,Tommy Maddox,63165,Buffalo
+2024,12/29,Midlands Championships,133,L,DEC,6 - 5,Hunter Leake,67190,Cal Baptist,Tommy Maddox,63165,Buffalo
+2024,12/29,Midlands Championships,133,W,DEC,8 - 5,Gable Porter,78748,Virginia,Tommy Maddox,63165,Buffalo
+2024,12/17,Buffalo - Bloomsburg Dual,133,W,TF5,20 - 5 6:07,Major Lewis,84530,Bloomsburg,Tommy Maddox,63165,Buffalo
+2024,12/17,Buffalo - Bucknell Dual,133,L,DEC,9 - 4,Kurt Phipps,63966,Bucknell,Tommy Maddox,63165,Buffalo
+2024,12/10,Buffalo - Rutgers Dual,133,L,TF5,22 - 7 6:52,Dylan Shawver,61767,Rutgers,Tommy Maddox,63165,Buffalo
+2024,12/07,Michigan State - Buffalo Dual,133,W,DEC,3 - 1,Jaden Crumpler,84469,Michigan State,Tommy Maddox,63165,Buffalo
+2024,12/02,Buffalo - Gardner-Webb Dual,133,W,FALL,3:42,Tyson Lane,75724,Gardner-Webb,Tommy Maddox,63165,Buffalo
+2024,12/02,Buffalo - Chattanooga Dual,133,L,DEC,12 - 5,Blake Boarman,70737,Chattanooga,Tommy Maddox,63165,Buffalo
+2024,12/02,Buffalo - Kent State Dual,133,W,DEC,6 - 4,Pablo Castro,79792,Kent State,Tommy Maddox,63165,Buffalo
+2024,11/19,Black Knight Invitational,133,L,DEC,13 - 10,Dominick Serrano,61120,Northern Colorado,Tommy Maddox,63165,Buffalo
+2024,11/19,Black Knight Invitational,133,L,MD,15 - 7,Braden Basile,73707,Army West Point,Tommy Maddox,63165,Buffalo
+2024,11/17,Northern Colorado - Buffalo Dual,133,L,TF5,24 - 6 2:14,Dominick Serrano,61120,Northern Colorado,Tommy Maddox,63165,Buffalo
+2024,11/11,Buffalo - Long Island University  Dual,133,L,DEC,4 - 1,Christopher Betancourt,84576,LIU,Tommy Maddox,63165,Buffalo
+2024,11/05,Clarion Open,133,W,TF5,17 - 2 5:29,Ty Daugherty,80207,John Carroll,Tommy Maddox,63165,Buffalo
+2024,11/05,Clarion Open,133,L,DEC,7 - 6,Pablo Castro,79792,Kent State,Tommy Maddox,63165,Buffalo
+2024,11/05,Clarion Open,133,L,MD,17 - 3,Andre Gonzales,72135,Ohio State,Tommy Maddox,63165,Buffalo
+2024,11/01,Glenville State College - Buffalo Dual,133,L,FALL,4:18,Gavin Quiocho,73218,Glenville State University,Tommy Maddox,63165,Buffalo
+2024,11/01,Brockport - Buffalo Dual,133,W,TF5,17 - 1 4:51,Alexander Burroughs,85391,Brockport,Tommy Maddox,63165,Buffalo
+2024,01/28,Mat-Town Open II,133,W,MD,14 - 0,Keith Messner,92551,Unattached,Cole French,78180,Buffalo
+2024,01/28,Mat-Town Open II,133,L,DEC,8 - 2,Tyler Dekraker,92133,Unattached,Cole French,78180,Buffalo
+2024,01/28,Mat-Town Open II,133,W,TF5,15 - 0 7:00,Trey Friedman,82464,Drexel,Cole French,78180,Buffalo
+2024,01/28,Mat-Town Open II,133,L,MD,13 - 2,Ryan Miller,62350,Pennsylvania,Cole French,78180,Buffalo
+2024,01/20,NYS Collegiate Championships,133,W,DEC,11 - 4,Caleb Peralta,83303,Nassau Community College,Cole French,78180,Buffalo
+2024,01/20,NYS Collegiate Championships,133,W,DEC,8 - 7,Danny Poggi,75693,Oneonta State,Cole French,78180,Buffalo
+2024,01/20,NYS Collegiate Championships,133,L,MD,10 - 2,Isaias Torres,80500,Ithaca,Cole French,78180,Buffalo
+2024,01/20,NYS Collegiate Championships,133,W,MD,13 - 3,Elijah Moshenek,74026,Alfred State,Cole French,78180,Buffalo
+2024,01/14,Purple Raider Open,133,L,DEC,5 - 0,Vinnie D'Alessandro,83326,High School,Cole French,78180,Buffalo
+2024,01/14,Purple Raider Open,133,L,MD,14 - 5,Charlie Bunting,78811,George Mason,Cole French,78180,Buffalo
+2024,01/14,Purple Raider Open,133,W,CMFF,0 - 0,Wilfred Tanefeu,73461,Michigan,Cole French,78180,Buffalo
+2024,01/14,Purple Raider Open,133,W,DEC,9 - 7,Wilfred Tanefeu,73461,Michigan,Cole French,78180,Buffalo
+2024,12/03,Storm Open,133,L,MFOR,0 - 0,Vinnie Dallesandro,89448,Unattached,Cole French,78180,Buffalo
+2024,12/03,Storm Open,133,W,TF5,16 - 1 6:44,Elijah Rowdy,87705,Notre Dame,Cole French,78180,Buffalo
+2024,12/03,Storm Open,133,W,SV-1,13 - 8,Brock Christian,84919,Gannon,Cole French,78180,Buffalo
+2024,12/03,Storm Open,133,L,MD,10 - 0,Chase Mclaughlin,76633,Gannon,Cole French,78180,Buffalo
+2024,11/19,Black Knight Invitational,133,L,DEC,5 - 0,Andrew Hampton,73020,Michigan State,Cole French,78180,Buffalo
+2024,11/19,Black Knight Invitational,133,L,DEC,17 - 10,TK Davis,84306,Gardner-Webb,Cole French,78180,Buffalo
+2024,11/17,Virginia - Buffalo Dual,133,L,MD,9 - 0,Marlon Yarbrough,72946,Virginia,Cole French,78180,Buffalo
+2024,11/12,Journeymen Classic,133,L,SV-1,5 - 2,Mateo Costello,78829,LIU,Cole French,78180,Buffalo
+2024,11/12,Journeymen Classic,133,L,DEC,5 - 1,Bryon Daubert,62999,Pitt-Johnstown,Cole French,78180,Buffalo
+2024,11/12,Journeymen Classic,133,W,DEC,1 - 0,Michael Cassidy,59534,Bloomsburg,Cole French,78180,Buffalo
+2024,11/11,North Carolina - Buffalo Dual,133,L,FALL,2:29,Caden McCrary,70918,North Carolina,Cole French,78180,Buffalo
+2024,11/05,Clarion Open,133,L,SV-1,4 - 1,TK Davis,84306,Gardner-Webb,Cole French,78180,Buffalo
+2024,11/05,Clarion Open,133,L,MD,16 - 3,Andre Gonzales,72135,Ohio State,Cole French,78180,Buffalo
+2024,11/01,Niagara Community College - Buffalo Dual,133,W,DEC,6 - 0,Michael Catanzaro,72532,Niagara Community College,Cole French,78180,Buffalo
+2024,11/01,Seton Hill - Buffalo Dual,133,L,DEC,7 - 2,Kyle Burkholder,60547,Seton Hill,Cole French,78180,Buffalo
+2024,03/08,MAC Championships,141,W,DEC,11 - 5,Jacob Brennaman,80127,Edinboro,Caleb Brooks,56507,Buffalo
+2024,03/08,MAC Championships,141,L,DEC,2 - 1,Ryan Sullivan,56764,Clarion,Caleb Brooks,56507,Buffalo
+2024,03/08,MAC Championships,141,L,DEC,10 - 4,Jacob Brennaman,80127,Edinboro,Caleb Brooks,56507,Buffalo
+2024,03/08,MAC Championships,141,W,FALL,1:15,Billy Meiszner,75815,Kent State,Caleb Brooks,56507,Buffalo
+2024,02/24,Buffalo - Ohio Dual,141,W,DEC,5 - 1,Aidan Waszak,73163,Ohio,Caleb Brooks,56507,Buffalo
+2024,02/08,Clarion - Buffalo Dual,141,L,DEC,10 - 4,Ryan Sullivan,56764,Clarion,Caleb Brooks,56507,Buffalo
+2024,02/03,Northern Illinois - Buffalo Dual,141,L,DEC,4 - 0,Jacob Brya,73037,Northern Illinois,Caleb Brooks,56507,Buffalo
+2024,01/28,Mat-Town Open II,141,W,MD,14 - 6,Connor Swaim,78157,Pittsburgh,Caleb Brooks,56507,Buffalo
+2024,01/28,Mat-Town Open II,141,W,FALL,0:42,Zachary Ash,77684,Buffalo,Caleb Brooks,56507,Buffalo
+2024,01/28,Mat-Town Open II,141,W,FALL,2:18,Christopher Martino,72987,Princeton,Caleb Brooks,56507,Buffalo
+2024,01/28,Mat-Town Open II,141,L,DEC,6 - 5,Dylan Chappell,71754,Bucknell,Caleb Brooks,56507,Buffalo
+2024,01/28,Mat-Town Open II,141,W,MFOR,0 - 0,Gabe Onorato,67006,Drexel,Caleb Brooks,56507,Buffalo
+2024,01/28,Mat-Town Open II,141,L,DEC,8 - 1,Max Hermes,78841,Rutgers,Caleb Brooks,56507,Buffalo
+2024,01/19,Buffalo - Lock Haven Dual,141,L,TF5,22 - 6 4:10,Wyatt Henson,63069,Lock Haven,Caleb Brooks,56507,Buffalo
+2024,01/13,Buffalo - Binghamton Dual,141,L,TB-2,2 - 1,Nathan Lucier,71763,Binghamton,Caleb Brooks,56507,Buffalo
+2024,01/07,Southern Illinois Edwardsville - Buffalo Dual,141,L,MD,15 - 3,Eric Almarinez,80240,SIU Edwardsville,Caleb Brooks,56507,Buffalo
+2024,12/29,Midlands Championships,141,L,MD,13 - 5,Nico Nardone,71688,Pennsylvania,Caleb Brooks,56507,Buffalo
+2024,12/29,Midlands Championships,141,L,FALL,3:46,Christian White,72619,Purdue,Caleb Brooks,56507,Buffalo
+2024,12/17,Buffalo - Bloomsburg Dual,141,W,MD,9 - 0,Nik Antonelli,84527,Bloomsburg,Caleb Brooks,56507,Buffalo
+2024,12/17,Buffalo - Bucknell Dual,141,L,DEC,4 - 0,Braden Bower,71756,Bucknell,Caleb Brooks,56507,Buffalo
+2024,12/07,Michigan State - Buffalo Dual,141,L,MD,11 - 3,Jordan Hamdan,57705,Michigan State,Caleb Brooks,56507,Buffalo
+2024,12/02,Buffalo - Chattanooga Dual,141,L,MD,10 - 1,Isaiah Powe,84545,Chattanooga,Caleb Brooks,56507,Buffalo
+2024,02/25,Patriot Last Chance Open,141,L,MFOR,0 - 0,Ryan Sullivan,56764,Clarion,Sam Ewing,78842,Buffalo
+2024,02/25,Patriot Last Chance Open,141,L,INJ,1:16,Joey Buttler,84314,Indiana,Sam Ewing,78842,Buffalo
+2024,02/25,Patriot Last Chance Open,141,W,MD,13 - 3,Clayton Gabrielson,79306,Maryland,Sam Ewing,78842,Buffalo
+2024,02/11,Buffalo - Central Michigan Dual,141,L,DEC,7 - 3,Jimmy Nugent,79053,Central Michigan,Sam Ewing,78842,Buffalo
+2024,01/28,Mat-Town Open II,141,L,DEC,9 - 7,George Arujau,81121,Spartan Combat RTC,Sam Ewing,78842,Buffalo
+2024,01/28,Mat-Town Open II,141,W,DEC,11 - 7,Dylan Chappell,71754,Bucknell,Sam Ewing,78842,Buffalo
+2024,01/28,Mat-Town Open II,141,L,SV-1,8 - 5,Joey Olivieri,67238,Rutgers,Sam Ewing,78842,Buffalo
+2024,01/20,NYS Collegiate Championships,141,W,DEC,10 - 5,Kenny Duschek,71820,Columbia,Sam Ewing,78842,Buffalo
+2024,01/20,NYS Collegiate Championships,141,W,MD,20 - 6,Corey Haney,79677,Merchant Marine,Sam Ewing,78842,Buffalo
+2024,01/20,NYS Collegiate Championships,141,W,FALL,1:50,Dominick Vinci,80618,Alfred State,Sam Ewing,78842,Buffalo
+2024,01/20,NYS Collegiate Championships,141,W,FALL,2:38,Danny Lightfoot,74089,NYU,Sam Ewing,78842,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,141,L,MD,17 - 3,George Arujau,81121,Spartan Combat RTC,Sam Ewing,78842,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,141,W,FALL,2:32,Trevor Nugent,72511,Bucknell,Sam Ewing,78842,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,141,L,TF5,16 - 1 3:47,Braden Bower,71756,Bucknell,Sam Ewing,78842,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,141,W,FALL,6:05,Joey Sentipal,84322,Lock Haven,Sam Ewing,78842,Buffalo
+2024,12/29,Midlands Championships,141,L,FALL,2:45,Jimmy Nugent,79053,Central Michigan,Sam Ewing,78842,Buffalo
+2024,12/29,Midlands Championships,141,L,TF5,21 - 0 7:00,Jacob Brya,73037,Northern Illinois,Sam Ewing,78842,Buffalo
+2024,12/03,Storm Open,141,W,MD,15 - 3,Aaron Lanster,84537,Buffalo,Sam Ewing,78842,Buffalo
+2024,12/03,Storm Open,141,L,FALL,0:38,Sam Hillegas,61125,West Virginia,Sam Ewing,78842,Buffalo
+2024,12/03,Storm Open,141,W,MD,17 - 3,Jacob Wright,79417,Gannon,Sam Ewing,78842,Buffalo
+2024,12/03,Storm Open,141,W,FALL,1:36,Joel Huck,70304,Gannon,Sam Ewing,78842,Buffalo
+2024,12/03,Storm Open,141,L,DEC,14 - 8,Carsen Richards,79450,Lake Erie College,Sam Ewing,78842,Buffalo
+2024,11/05,Clarion Open,141,W,MD,12 - 0,Tyler Lamon,79479,Gardner-Webb,Sam Ewing,78842,Buffalo
+2024,11/05,Clarion Open,141,L,FALL,2:34,David McClelland,79303,Clarion,Sam Ewing,78842,Buffalo
+2024,11/05,Clarion Open,141,W,FALL,2:38,Americo Milani,74534,John Carroll,Sam Ewing,78842,Buffalo
+2024,11/05,Clarion Open,141,L,DEC,4 - 3,Michael Leveille,57716,Purdue,Sam Ewing,78842,Buffalo
+2024,12/10,Buffalo - Rutgers Dual,141,L,FALL,1:23,Mitch Moore,50620,Rutgers,Andy Lucinski,71745,Buffalo
+2024,12/02,Buffalo - Gardner-Webb Dual,141,L,DEC,11 - 4,Todd Carter,69785,Gardner-Webb,Andy Lucinski,71745,Buffalo
+2024,12/02,Buffalo - Kent State Dual,141,L,MD,9 - 1,Billy Meiszner,75815,Kent State,Andy Lucinski,71745,Buffalo
+2024,11/19,Black Knight Invitational,141,L,DEC,3 - 1,Ian Oswalt,71942,Brown,Andy Lucinski,71745,Buffalo
+2024,11/19,Black Knight Invitational,141,L,FALL,6:20,Ivan Garcia,67298,Binghamton,Andy Lucinski,71745,Buffalo
+2024,11/17,Virginia - Buffalo Dual,141,L,TF5,20 - 5 6:33,Jack Gioffre,73018,Virginia,Andy Lucinski,71745,Buffalo
+2024,11/17,Northern Colorado - Buffalo Dual,141,L,SV-1,8 - 5,Rudy Lopez,71937,Northern Colorado,Andy Lucinski,71745,Buffalo
+2024,11/11,North Carolina - Buffalo Dual,141,L,FALL,2:10,Lachlan McNeil,62891,North Carolina,Andy Lucinski,71745,Buffalo
+2024,11/11,Buffalo - Long Island University  Dual,141,L,FALL,2:53,Devin Matthews,70150,LIU,Andy Lucinski,71745,Buffalo
+2024,11/05,Clarion Open,141,W,DEC,7 - 5,Dakota King,86112,Unattached,Andy Lucinski,71745,Buffalo
+2024,11/05,Clarion Open,141,L,TF5,15 - 0 5:22,Anthony Santaniello,78001,Pittsburgh,Andy Lucinski,71745,Buffalo
+2024,11/05,Clarion Open,141,L,MD,13 - 2,Billy Meiszner,75815,Kent State,Andy Lucinski,71745,Buffalo
+2024,11/05,Clarion Open,141,W,DEC,5 - 0,Kenny Duschek,71820,Columbia,Andy Lucinski,71745,Buffalo
+2024,11/01,Seton Hill - Buffalo Dual,141,W,DEC,3 - 0,Niko Ferra,85395,Seton Hill,Andy Lucinski,71745,Buffalo
+2024,11/01,Brockport - Buffalo Dual,141,W,DEC,9 - 5,Francis Whitehouse,73661,Brockport,Andy Lucinski,71745,Buffalo
+2024,03/03,Zingo Nationals,141,L,TF5,16 - 0 3:16,Brandon Sauter,78642,Franklin & Marshall,Zachary Ash,77684,Buffalo
+2024,03/03,Zingo Nationals,141,L,DEC,21 - 14,Matt Ash,78189,Unattached,Zachary Ash,77684,Buffalo
+2024,02/25,Patriot Last Chance Open,141,W,MD,21 - 8,Nick Schaukowitsch,74079,Edinboro,Zachary Ash,77684,Buffalo
+2024,02/25,Patriot Last Chance Open,141,L,FALL,0:42,Conner Heckman,84588,Lock Haven,Zachary Ash,77684,Buffalo
+2024,02/11,JCU Open,141,W,DEC,15 - 13,Caleb Wetzel,87688,Ashland,Zachary Ash,77684,Buffalo
+2024,02/11,JCU Open,141,L,FALL,0:33,Zach Larue,62789,Wheeling,Zachary Ash,77684,Buffalo
+2024,02/11,JCU Open,141,L,FALL,1:07,Constantine Gehring,70301,Gannon,Zachary Ash,77684,Buffalo
+2024,01/28,Mat-Town Open II,141,L,FALL,0:42,Caleb Brooks,56507,Buffalo,Zachary Ash,77684,Buffalo
+2024,01/28,Mat-Town Open II,141,L,TF5,17 - 1 2:47,Zackery Zeamer,57141,Lock Haven,Zachary Ash,77684,Buffalo
+2024,01/20,NYS Collegiate Championships,141,L,FALL,2:45,Dominick Vinci,80618,Alfred State,Zachary Ash,77684,Buffalo
+2024,01/20,NYS Collegiate Championships,141,W,MD,15 - 6,Aiden Tak,86797,NYU,Zachary Ash,77684,Buffalo
+2024,01/20,NYS Collegiate Championships,141,L,DEC,12 - 7,Danny Lightfoot,74089,NYU,Zachary Ash,77684,Buffalo
+2024,01/14,Purple Raider Open,141,L,FALL,1:08,Bryson Neidigh,79101,West Liberty University,Zachary Ash,77684,Buffalo
+2024,01/14,Purple Raider Open,141,L,FALL,2:52,Americo Milani,74534,John Carroll,Zachary Ash,77684,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,141,W,DEC,12 - 10,Isaac Piatek,84924,Gannon,Zachary Ash,77684,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,141,L,FALL,3:27,Jacob Brennaman,80127,Edinboro,Zachary Ash,77684,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,141,L,DEC,13 - 8,Bo DiJulius,78570,LIU,Zachary Ash,77684,Buffalo
+2024,11/12,Ohio Intercollegiate Open,141,L,FALL,1:31,Gavin Garcia,79491,Indianapolis,Zachary Ash,77684,Buffalo
+2024,11/12,Ohio Intercollegiate Open,141,L,FALL,6:41,Parker Loera,67009,Gannon,Zachary Ash,77684,Buffalo
+2024,03/08,MAC Championships,149,L,DEC,8 - 5,Matt Ryan,69769,Kent State,Kaleb Burgess,72225,Buffalo
+2024,03/08,MAC Championships,149,L,FALL,1:32,Kaden Cassidy,65847,George Mason,Kaleb Burgess,72225,Buffalo
+2024,02/24,Buffalo - Ohio Dual,149,W,FALL,6:07,Derek Raike,76503,Ohio,Kaleb Burgess,72225,Buffalo
+2024,02/11,Buffalo - Central Michigan Dual,149,L,DEC,5 - 4,Corbyn Munson,51197,Central Michigan,Kaleb Burgess,72225,Buffalo
+2024,02/08,Clarion - Buffalo Dual,149,L,MD,10 - 1,Kyle Schickel,67305,Clarion,Kaleb Burgess,72225,Buffalo
+2024,02/03,Northern Illinois - Buffalo Dual,149,L,DEC,6 - 1,Jaivon Jones,62724,Northern Illinois,Kaleb Burgess,72225,Buffalo
+2024,01/19,Buffalo - Lock Haven Dual,149,L,DEC,6 - 4,Nicholas Stonecheck,62691,Lock Haven,Kaleb Burgess,72225,Buffalo
+2024,01/13,Buffalo - Binghamton Dual,149,L,DEC,2 - 1,Caleb Sweet,82503,Binghamton,Kaleb Burgess,72225,Buffalo
+2024,01/07,Southern Illinois Edwardsville - Buffalo Dual,149,L,DEC,5 - 0,Caleb Tyus,72912,SIU Edwardsville,Kaleb Burgess,72225,Buffalo
+2024,12/29,Midlands Championships,149,L,MD,18 - 4,Kannon Webster,80230,Illinois,Kaleb Burgess,72225,Buffalo
+2024,12/29,Midlands Championships,149,W,DEC,3 - 1,Sam Cartella,77873,Northwestern,Kaleb Burgess,72225,Buffalo
+2024,12/29,Midlands Championships,149,L,DEC,13 - 6,Cross Wasilewski,75492,PRTC,Kaleb Burgess,72225,Buffalo
+2024,12/29,Midlands Championships,149,L,MD,12 - 1,Ty Whalen,72988,NJRTC,Kaleb Burgess,72225,Buffalo
+2024,12/29,Midlands Championships,149,W,DEC,9 - 8,Joseph Zargo,62890,Wisconsin,Kaleb Burgess,72225,Buffalo
+2024,12/29,Midlands Championships,149,W,CMFF,0 - 0,Michael Cetta,72114,Rutgers,Kaleb Burgess,72225,Buffalo
+2024,12/29,Midlands Championships,149,W,DEC,4 - 3,Ryan Moore,50654,Thomas More College,Kaleb Burgess,72225,Buffalo
+2024,12/22,Wilkes Open,149,W,FALL,0:11,Jack Higuera Justo,89855,Union County College,Kaleb Burgess,72225,Buffalo
+2024,12/22,Wilkes Open,149,L,DEC,3 - 2,Michael Zarif,57277,Binghamton,Kaleb Burgess,72225,Buffalo
+2024,12/22,Wilkes Open,149,W,DEC,3 - 2,Sean O'Donnell,84398,Duke,Kaleb Burgess,72225,Buffalo
+2024,12/22,Wilkes Open,149,W,FALL,5:57,Thomas Monn,80929,McDaniel,Kaleb Burgess,72225,Buffalo
+2024,12/22,Wilkes Open,149,W,MFOR,0 - 0,Tj Martin,85671,Pennsylvania College of Technology,Kaleb Burgess,72225,Buffalo
+2024,12/22,Wilkes Open,149,W,TF5,15 - 0 2:40,Ryan Santiago,86788,Wilkes,Kaleb Burgess,72225,Buffalo
+2024,12/17,Buffalo - Bloomsburg Dual,149,W,MD,15 - 2,Cade Balestrini,62514,Bloomsburg,Kaleb Burgess,72225,Buffalo
+2024,11/17,Virginia - Buffalo Dual,149,L,TF5,20 - 5 6:35,Michael Gioffre,73019,Virginia,Kaleb Burgess,72225,Buffalo
+2024,11/17,Northern Colorado - Buffalo Dual,149,L,DEC,3 - 2,Benjamin Alanis,61438,Northern Colorado,Kaleb Burgess,72225,Buffalo
+2024,11/11,North Carolina - Buffalo Dual,149,L,DEC,6 - 4,Jayden Scott,73860,North Carolina,Kaleb Burgess,72225,Buffalo
+2024,11/11,Buffalo - Long Island University  Dual,149,W,DEC,14 - 10,Drew Witham,70151,LIU,Kaleb Burgess,72225,Buffalo
+2024,11/05,Clarion Open,149,W,FALL,5:56,Skyler King,86113,Unattached,Kaleb Burgess,72225,Buffalo
+2024,11/05,Clarion Open,149,L,SV-1,2 - 1,Jack Pletcher,76351,Pittsburgh,Kaleb Burgess,72225,Buffalo
+2024,11/05,Clarion Open,149,L,DEC,7 - 4,Finn Solomon,73123,Pittsburgh,Kaleb Burgess,72225,Buffalo
+2024,11/05,Clarion Open,149,W,DEC,6 - 4,Matt Ryan,69769,Kent State,Kaleb Burgess,72225,Buffalo
+2024,11/05,Clarion Open,149,W,SV-1,4 - 1,Kyle Schickel,67305,Clarion,Kaleb Burgess,72225,Buffalo
+2024,11/01,Glenville State College - Buffalo Dual,149,W,TF5,19 - 4 6:29,Ethan Hardy,73216,Glenville State University,Kaleb Burgess,72225,Buffalo
+2024,11/01,Seton Hill - Buffalo Dual,149,W,FALL,4:14,Braxton Miller,85396,Seton Hill,Kaleb Burgess,72225,Buffalo
+2024,12/22,Wilkes Open,149,W,TF5,18 - 3 1:27,Anthony Arias,90362,Union County College,Carter Gill,78514,Buffalo
+2024,12/22,Wilkes Open,149,L,DEC,10 - 7,Joey Sentipal,84322,Lock Haven,Carter Gill,78514,Buffalo
+2024,12/22,Wilkes Open,149,L,DEC,9 - 5,Shane Kibler,81495,King's,Carter Gill,78514,Buffalo
+2024,11/19,Black Knight Invitational,149,L,TF5,21 - 6 5:08,Nick Stampoulos,74398,Buffalo,Carter Gill,78514,Buffalo
+2024,11/19,Black Knight Invitational,149,W,MD,11 - 3,William McMullen,84607,LIU,Carter Gill,78514,Buffalo
+2024,11/19,Black Knight Invitational,149,L,TF5,17 - 2 5:46,Matthew Williams,69376,Army West Point,Carter Gill,78514,Buffalo
+2024,11/12,Ohio Intercollegiate Open,149,W,MD,8 - 0,Frank DiMarco,74532,John Carroll,Carter Gill,78514,Buffalo
+2024,11/12,Ohio Intercollegiate Open,149,L,DEC,7 - 4,Matthew Beyer,64540,Ithaca,Carter Gill,78514,Buffalo
+2024,11/12,Ohio Intercollegiate Open,149,W,DEC,6 - 4,Calvin Cai,73683,Case Western Reserve,Carter Gill,78514,Buffalo
+2024,11/12,Ohio Intercollegiate Open,149,W,DEC,4 - 2,Jake Pail,62853,Tiffin University,Carter Gill,78514,Buffalo
+2024,11/05,Clarion Open,149,L,TF5,18 - 3 6:48,Clayton Jones,84473,Michigan State,Carter Gill,78514,Buffalo
+2024,11/05,Clarion Open,149,W,DEC,12 - 6,Brady Worthing,66983,Clarion,Carter Gill,78514,Buffalo
+2024,11/05,Clarion Open,149,L,TF5,19 - 4 7:00,Marcos Polanco,57653,Purdue,Carter Gill,78514,Buffalo
+2024,11/01,Niagara Community College - Buffalo Dual,157,W,DEC,2 - 0,Kace Cook,85404,Niagara Community College,Carter Gill,78514,Buffalo
+2024,03/03,Zingo Nationals,149,W,TF5,19 - 4 5:57,Dylan Zenion,84501,Hofstra,Aaron Lanster,84537,Buffalo
+2024,03/03,Zingo Nationals,149,L,MD,12 - 0,Bryce Kresho,78572,Franklin & Marshall,Aaron Lanster,84537,Buffalo
+2024,03/03,Zingo Nationals,149,L,FALL,4:45,Christopher Martino,72987,Princeton,Aaron Lanster,84537,Buffalo
+2024,03/03,Zingo Nationals,149,W,TF5,18 - 3 5:33,Shane Lallkissoon,67245,Unattached,Aaron Lanster,84537,Buffalo
+2024,02/25,Patriot Last Chance Open,149,L,FALL,4:16,Kross Cassidy,89460,High School,Aaron Lanster,84537,Buffalo
+2024,02/25,Patriot Last Chance Open,149,L,INJ,5:00,Michael Zarif,57277,Binghamton,Aaron Lanster,84537,Buffalo
+2024,02/25,Patriot Last Chance Open,149,W,DEC,12 - 10,Chase Burke,84786,Lock Haven,Aaron Lanster,84537,Buffalo
+2024,02/25,Patriot Last Chance Open,149,L,FALL,1:57,Lucas Kapusta,84439,Lock Haven,Aaron Lanster,84537,Buffalo
+2024,02/03,Edinboro Open,149,W,DEC,5 - 3,Ethan Mitchell,82328,Cleveland State,Aaron Lanster,84537,Buffalo
+2024,02/03,Edinboro Open,149,L,DEC,3 - 0,Evan Herriman,81743,Michigan State,Aaron Lanster,84537,Buffalo
+2024,02/03,Edinboro Open,149,W,DEC,5 - 0,Joe Fisk,79088,Maryland,Aaron Lanster,84537,Buffalo
+2024,02/03,Edinboro Open,149,L,TF5,18 - 2 3:52,Ryan Burgos,63141,Edinboro,Aaron Lanster,84537,Buffalo
+2024,01/28,Mat-Town Open II,149,L,MD,15 - 2,Owen Reinsel,78519,Lehigh,Aaron Lanster,84537,Buffalo
+2024,01/28,Mat-Town Open II,149,L,MD,15 - 3,Nick Vafiadis,73121,Navy,Aaron Lanster,84537,Buffalo
+2024,01/28,Mat-Town Open II,149,W,FALL,0:30,Branden Palcko,85162,Rider,Aaron Lanster,84537,Buffalo
+2024,01/14,Purple Raider Open,149,W,FALL,1:16,Thomas Bock,92171,Unattached,Aaron Lanster,84537,Buffalo
+2024,01/14,Purple Raider Open,149,L,TF5,17 - 2 7:00,Dylan Gilcher,77964,Michigan,Aaron Lanster,84537,Buffalo
+2024,01/14,Purple Raider Open,149,L,MD,17 - 3,Jaden Reynolds,72620,Purdue,Aaron Lanster,84537,Buffalo
+2024,01/14,Purple Raider Open,149,W,MD,11 - 3,Frank DiMarco,74532,John Carroll,Aaron Lanster,84537,Buffalo
+2024,12/03,Storm Open,141,L,MD,15 - 3,Sam Ewing,78842,Buffalo,Aaron Lanster,84537,Buffalo
+2024,12/03,Storm Open,141,W,FALL,5:37,Caleb Wetzel,87688,Ashland,Aaron Lanster,84537,Buffalo
+2024,12/03,Storm Open,141,L,MD,16 - 4,Logan Cravatas,78920,Ohio,Aaron Lanster,84537,Buffalo
+2024,12/03,Storm Open,141,W,MD,16 - 3,Michael Louison,87981,Wilmington,Aaron Lanster,84537,Buffalo
+2024,11/05,Clarion Open,141,L,FALL,6:44,Billy Meiszner,75815,Kent State,Aaron Lanster,84537,Buffalo
+2024,11/05,Clarion Open,141,L,TF5,17 - 2 5:54,Kai Owen,73196,Columbia,Aaron Lanster,84537,Buffalo
+2024,11/01,Niagara Community College - Buffalo Dual,141,W,TF5,18 - 1 2:46,Kenny Blowers,85402,Niagara Community College,Aaron Lanster,84537,Buffalo
+2024,03/21,NCAA Championships,157,L,MD,12 - 4,Colton Washleski,72909,Rider,Nick Stampoulos,74398,Buffalo
+2024,03/21,NCAA Championships,157,L,DEC,8 - 2,Isaac Wilcox,60592,Ohio State,Nick Stampoulos,74398,Buffalo
+2024,03/08,MAC Championships,157,L,DEC,8 - 1,Johnny Lovett,61935,Central Michigan,Nick Stampoulos,74398,Buffalo
+2024,03/08,MAC Championships,157,W,MD,11 - 1,Marcus Robinson,56479,Cleveland State,Nick Stampoulos,74398,Buffalo
+2024,03/08,MAC Championships,157,L,FALL,3:59,Peyten Kellar,73168,Ohio,Nick Stampoulos,74398,Buffalo
+2024,03/08,MAC Championships,157,W,DEC,6 - 4,Colton Washleski,72909,Rider,Nick Stampoulos,74398,Buffalo
+2024,03/08,MAC Championships,157,W,DEC,7 - 4,Alejandro Herrera-Rondon,68725,Clarion,Nick Stampoulos,74398,Buffalo
+2024,02/24,Buffalo - Ohio Dual,157,L,DEC,4 - 0,Peyten Kellar,73168,Ohio,Nick Stampoulos,74398,Buffalo
+2024,02/11,Buffalo - Central Michigan Dual,157,L,DEC,6 - 0,Johnny Lovett,61935,Central Michigan,Nick Stampoulos,74398,Buffalo
+2024,02/08,Clarion - Buffalo Dual,157,W,TF5,19 - 4 4:44,John Altieri,70738,Clarion,Nick Stampoulos,74398,Buffalo
+2024,02/03,Northern Illinois - Buffalo Dual,157,W,DEC,7 - 2,Brett Smith,83397,Northern Illinois,Nick Stampoulos,74398,Buffalo
+2024,01/19,Buffalo - Lock Haven Dual,157,W,DEC,7 - 3,Connor Eck,71824,Lock Haven,Nick Stampoulos,74398,Buffalo
+2024,01/13,Buffalo - Binghamton Dual,157,L,DEC,4 - 0,Carter Baer,72615,Binghamton,Nick Stampoulos,74398,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,149,L,DEC,5 - 1,Lucas Kapusta,84439,Lock Haven,Nick Stampoulos,74398,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,149,W,MD,12 - 3,Aaron Turner,84328,Morgan State,Nick Stampoulos,74398,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,149,W,MD,19 - 5,Dominic Hoffarth,84349,Ohio,Nick Stampoulos,74398,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,149,W,DEC,3 - 2,Colin Roberts,73166,Edinboro,Nick Stampoulos,74398,Buffalo
+2024,12/29,Midlands Championships,149,L,DEC,2 - 0,Cross Wasilewski,75492,PRTC,Nick Stampoulos,74398,Buffalo
+2024,12/29,Midlands Championships,149,L,MD,12 - 1,Tommy Curran,77778,Northern Illinois,Nick Stampoulos,74398,Buffalo
+2024,12/17,Buffalo - Bucknell Dual,149,W,MD,20 - 10,Aiden Davis,78724,Bucknell,Nick Stampoulos,74398,Buffalo
+2024,12/10,Buffalo - Rutgers Dual,149,L,DEC,2 - 1,Michael Cetta,72114,Rutgers,Nick Stampoulos,74398,Buffalo
+2024,12/07,Michigan State - Buffalo Dual,149,L,DEC,6 - 4,Braden Stauffenberg,78899,Michigan State,Nick Stampoulos,74398,Buffalo
+2024,12/02,Buffalo - Gardner-Webb Dual,149,W,DEC,6 - 2,Zach Price,50932,Gardner-Webb,Nick Stampoulos,74398,Buffalo
+2024,12/02,Buffalo - Chattanooga Dual,149,L,DEC,11 - 5,Noah Castillo,67364,Chattanooga,Nick Stampoulos,74398,Buffalo
+2024,12/02,Buffalo - Kent State Dual,149,W,FALL,1:52,Kaden Setzer,79791,Kent State,Nick Stampoulos,74398,Buffalo
+2024,11/19,Black Knight Invitational,149,W,TF5,21 - 6 5:08,Carter Gill,78514,Buffalo,Nick Stampoulos,74398,Buffalo
+2024,11/19,Black Knight Invitational,149,W,MD,12 - 4,Michael Zarif,57277,Binghamton,Nick Stampoulos,74398,Buffalo
+2024,11/19,Black Knight Invitational,149,L,DEC,4 - 0,Thomas Deck,69378,Army West Point,Nick Stampoulos,74398,Buffalo
+2024,11/19,Black Knight Invitational,149,L,MD,11 - 3,Michael Cetta,72114,Rutgers,Nick Stampoulos,74398,Buffalo
+2024,11/12,Journeymen Classic,149,L,DEC,4 - 1,Ethan Fernandez,72088,Cornell,Nick Stampoulos,74398,Buffalo
+2024,11/12,Journeymen Classic,149,W,MD,17 - 5,Kenny Herrmann,65762,Harvard,Nick Stampoulos,74398,Buffalo
+2024,11/12,Journeymen Classic,149,W,DEC,4 - 2,Cole Handlovic,65422,Cornell,Nick Stampoulos,74398,Buffalo
+2024,11/05,Clarion Open,149,W,DEC,10 - 9,Ty Wilson,86115,High School,Nick Stampoulos,74398,Buffalo
+2024,11/05,Clarion Open,149,W,TF5,19 - 4 4:50,Daxton Chase,85105,High School,Nick Stampoulos,74398,Buffalo
+2024,11/05,Clarion Open,149,L,MD,12 - 0,Dylan Chappell,71754,Bucknell,Nick Stampoulos,74398,Buffalo
+2024,11/05,Clarion Open,149,W,DEC,11 - 7,Kyle Schickel,67305,Clarion,Nick Stampoulos,74398,Buffalo
+2024,11/05,Clarion Open,149,W,MFOR,0 - 0,Trey Kruse,67044,Purdue,Nick Stampoulos,74398,Buffalo
+2024,11/05,Clarion Open,149,W,DEC,7 - 2,Blake Noonan,67008,Michigan State,Nick Stampoulos,74398,Buffalo
+2024,11/05,Clarion Open,149,L,MD,11 - 0,Marcos Polanco,57653,Purdue,Nick Stampoulos,74398,Buffalo
+2024,11/01,Niagara Community College - Buffalo Dual,149,W,FALL,3:30,Antione Walker,85403,Niagara Community College,Nick Stampoulos,74398,Buffalo
+2024,11/01,Brockport - Buffalo Dual,149,W,TF5,20 - 4 3:50,Charles Loucks,82979,Brockport,Nick Stampoulos,74398,Buffalo
+2024,01/07,Southern Illinois Edwardsville - Buffalo Dual,157,L,INJ,2:00,Brock Woodcock,78293,SIU Edwardsville,Ty Raines,57719,Buffalo
+2024,12/29,Midlands Championships,157,L,TF5,18 - 1 7:00,Jude Swisher,73210,Pennsylvania,Ty Raines,57719,Buffalo
+2024,12/29,Midlands Championships,157,L,FALL,2:04,Chaz Hallmark,62925,Cal Baptist,Ty Raines,57719,Buffalo
+2024,12/17,Buffalo - Bloomsburg Dual,157,W,DEC,5 - 1,William Morrow,79213,Bloomsburg,Ty Raines,57719,Buffalo
+2024,12/17,Buffalo - Bucknell Dual,157,W,DEC,7 - 4,Nick Delp,62493,Bucknell,Ty Raines,57719,Buffalo
+2024,12/10,Buffalo - Rutgers Dual,157,L,DEC,8 - 2,Andrew Clark,66883,Rutgers,Ty Raines,57719,Buffalo
+2024,12/07,Michigan State - Buffalo Dual,157,L,DEC,1 - 0,Chase Saldate,61118,Michigan State,Ty Raines,57719,Buffalo
+2024,12/02,Buffalo - Gardner-Webb Dual,157,W,DEC,5 - 2,Tyler Brignola,73727,Gardner-Webb,Ty Raines,57719,Buffalo
+2024,12/02,Buffalo - Chattanooga Dual,157,W,DEC,8 - 6,Jackson Hurst,73352,Chattanooga,Ty Raines,57719,Buffalo
+2024,12/02,Buffalo - Kent State Dual,157,W,MD,14 - 4,Keegan Knapp,79795,Kent State,Ty Raines,57719,Buffalo
+2024,11/17,Virginia - Buffalo Dual,157,L,DEC,2 - 0,Dylan Cedeno,63068,Virginia,Ty Raines,57719,Buffalo
+2024,11/17,Northern Colorado - Buffalo Dual,157,L,MD,17 - 4,Vince Zerban,73032,Northern Colorado,Ty Raines,57719,Buffalo
+2024,11/11,North Carolina - Buffalo Dual,157,L,SV-1,7 - 4,Danny Nini,73105,North Carolina,Ty Raines,57719,Buffalo
+2024,11/11,Buffalo - Long Island University  Dual,157,W,DEC,6 - 5,Rhise Royster,62049,LIU,Ty Raines,57719,Buffalo
+2024,11/05,Clarion Open,157,L,DEC,4 - 2,Drew Pepin,79394,Gardner-Webb,Ty Raines,57719,Buffalo
+2024,11/05,Clarion Open,157,W,DEC,8 - 4,Carson Miller,79338,Pittsburgh,Ty Raines,57719,Buffalo
+2024,11/05,Clarion Open,157,W,TF5,15 - 0 6:09,Alex Garee,71817,Edinboro,Ty Raines,57719,Buffalo
+2024,11/05,Clarion Open,157,L,DEC,9 - 7,Jaden Le,66968,Columbia,Ty Raines,57719,Buffalo
+2024,11/05,Clarion Open,157,W,MD,10 - 2,Blake Saito,65874,Brown,Ty Raines,57719,Buffalo
+2024,11/01,Glenville State College - Buffalo Dual,157,W,FALL,2:16,William Houser,71295,Glenville State University,Ty Raines,57719,Buffalo
+2024,11/01,Brockport - Buffalo Dual,157,W,TF5,18 - 2 3:05,Logan Palmeri,82341,Brockport,Ty Raines,57719,Buffalo
+2024,02/25,Patriot Last Chance Open,157,L,MD,12 - 1,Kaden Milheim,78789,American,Eric Tigue,84574,Buffalo
+2024,02/25,Patriot Last Chance Open,157,L,TF5,22 - 6 4:46,Brayton Lee,52079,Indiana,Eric Tigue,84574,Buffalo
+2024,02/03,Edinboro Open,157,W,DEC,8 - 3,Daniel Bomberger,83493,Spartan Combat RTC,Eric Tigue,84574,Buffalo
+2024,02/03,Edinboro Open,157,L,DEC,11 - 4,Dylan Evans,78788,Pittsburgh,Eric Tigue,84574,Buffalo
+2024,02/03,Edinboro Open,157,W,DEC,4 - 3,Mike Zacur,77794,Mercyhurst,Eric Tigue,84574,Buffalo
+2024,02/03,Edinboro Open,157,L,DEC,8 - 2,Mason Shrader,73720,Central Michigan,Eric Tigue,84574,Buffalo
+2024,01/28,Mat-Town Open II,157,W,TF5,16 - 0 5:50,Justin Soriano,84835,Drexel,Eric Tigue,84574,Buffalo
+2024,01/28,Mat-Town Open II,157,W,MD,11 - 3,Griffin Gonzalez,84320,Lehigh,Eric Tigue,84574,Buffalo
+2024,01/28,Mat-Town Open II,157,L,DEC,4 - 1,Cade Wirnsberger,84272,Bucknell,Eric Tigue,84574,Buffalo
+2024,01/28,Mat-Town Open II,157,L,MD,13 - 5,Kelly Kakos,82505,Unattached,Eric Tigue,84574,Buffalo
+2024,01/20,NYS Collegiate Championships,165,L,FALL,3:55,Joe Russo,77835,Hofstra,Eric Tigue,84574,Buffalo
+2024,01/20,NYS Collegiate Championships,165,L,MD,10 - 2,Cooper Haase,73434,United States Military Academy,Eric Tigue,84574,Buffalo
+2024,01/20,NYS Collegiate Championships,165,W,DEC,7 - 2,Pedro Cruz,65733,Ithaca,Eric Tigue,84574,Buffalo
+2024,01/20,NYS Collegiate Championships,165,W,DEC,7 - 0,Justin Smith,70339,Alfred State,Eric Tigue,84574,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,157,W,MD,9 - 0,Daniel Bomberger,83493,Spartan Combat RTC,Eric Tigue,84574,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,157,L,DEC,11 - 4,Kolby DePron,71751,Bucknell,Eric Tigue,84574,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,157,W,TF5,16 - 0 3:26,John Altieri,70738,Clarion,Eric Tigue,84574,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,157,W,TF5,17 - 1 5:33,Shaymus MacIntosh,84459,Morgan State,Eric Tigue,84574,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,157,W,TF5,17 - 1 5:54,Dom Parker,84595,West Virginia,Eric Tigue,84574,Buffalo
+2024,12/22,Wilkes Open,157,W,MD,12 - 4,Owen Hicks,85948,United States Military Academy,Eric Tigue,84574,Buffalo
+2024,12/22,Wilkes Open,157,L,MFOR,0 - 0,Tyler Martin,67294,Binghamton,Eric Tigue,84574,Buffalo
+2024,12/22,Wilkes Open,157,L,MFOR,0 - 0,Seth Evans,71653,Waynesburg,Eric Tigue,84574,Buffalo
+2024,12/03,Storm Open,157,L,DEC,5 - 2,Daniel Segura,65313,Ohio,Eric Tigue,84574,Buffalo
+2024,12/03,Storm Open,157,W,DEC,3 - 2,Collin Clough,80356,Gannon,Eric Tigue,84574,Buffalo
+2024,12/03,Storm Open,157,W,TF5,17 - 2 6:02,Braxton Miller,85396,Seton Hill,Eric Tigue,84574,Buffalo
+2024,12/03,Storm Open,157,W,TF5,15 - 0 3:10,Seth Evans,71653,Waynesburg,Eric Tigue,84574,Buffalo
+2024,11/19,Black Knight Invitational,157,L,TF5,15 - 0 3:21,Vince Zerban,73032,Northern Colorado,Eric Tigue,84574,Buffalo
+2024,11/19,Black Knight Invitational,157,L,MD,9 - 0,Blake Saito,65874,Brown,Eric Tigue,84574,Buffalo
+2024,11/12,Journeymen Classic,157,W,DEC,7 - 3,Christopher Arciuolo,77872,Franklin & Marshall,Eric Tigue,84574,Buffalo
+2024,11/12,Journeymen Classic,157,L,DEC,7 - 2,Cooper Warshel,73309,Pitt-Johnstown,Eric Tigue,84574,Buffalo
+2024,11/12,Journeymen Classic,157,L,MD,11 - 0,Wyatt Yapoujian,73205,Cornell,Eric Tigue,84574,Buffalo
+2024,11/05,Clarion Open,157,W,MD,8 - 0,Tyler Sagi,84334,Navy,Eric Tigue,84574,Buffalo
+2024,11/05,Clarion Open,157,L,DEC,6 - 1,Carson Miller,79338,Pittsburgh,Eric Tigue,84574,Buffalo
+2024,11/05,Clarion Open,157,L,FALL,6:00,Joey Blaze,73568,Purdue,Eric Tigue,84574,Buffalo
+2024,11/01,Seton Hill - Buffalo Dual,157,W,MD,9 - 0,Nolan Daerr,75991,Seton Hill,Eric Tigue,84574,Buffalo
+2024,03/08,MAC Championships,165,L,DEC,7 - 2,Tate Geiser,78813,Cleveland State,Hunter Shaut,61754,Buffalo
+2024,03/08,MAC Championships,165,W,DEC,13 - 8,Tommy Bennett,78096,Northern Illinois,Hunter Shaut,61754,Buffalo
+2024,03/08,MAC Championships,165,W,SV-2,2 - 1,Eric Alderfer,78522,Lock Haven,Hunter Shaut,61754,Buffalo
+2024,03/08,MAC Championships,165,L,FALL,5:26,Evan Maag,78473,George Mason,Hunter Shaut,61754,Buffalo
+2024,03/08,MAC Championships,165,W,DEC,7 - 2,Tommy Bennett,78096,Northern Illinois,Hunter Shaut,61754,Buffalo
+2024,02/24,Buffalo - Ohio Dual,165,W,DEC,8 - 2,Jack Lledo,78924,Ohio,Hunter Shaut,61754,Buffalo
+2024,02/11,Buffalo - Central Michigan Dual,165,L,MD,14 - 4,Tyler Swiderski,75986,Central Michigan,Hunter Shaut,61754,Buffalo
+2024,02/08,Clarion - Buffalo Dual,165,L,DEC,4 - 1,Eli Brinsky,67110,Clarion,Hunter Shaut,61754,Buffalo
+2024,02/03,Northern Illinois - Buffalo Dual,165,W,DEC,4 - 2,Tommy Bennett,78096,Northern Illinois,Hunter Shaut,61754,Buffalo
+2024,01/19,Buffalo - Lock Haven Dual,165,W,SV-1,7 - 4,Eric Alderfer,78522,Lock Haven,Hunter Shaut,61754,Buffalo
+2024,01/13,Buffalo - Binghamton Dual,165,L,MD,8 - 0,Brevin Cassella,67293,Binghamton,Hunter Shaut,61754,Buffalo
+2024,01/07,Southern Illinois Edwardsville - Buffalo Dual,165,W,DEC,5 - 2,Bradley Gillum,73397,SIU Edwardsville,Hunter Shaut,61754,Buffalo
+2024,12/29,Midlands Championships,165,L,MD,13 - 4,Chris Moore,79651,Illinois,Hunter Shaut,61754,Buffalo
+2024,12/29,Midlands Championships,165,L,MD,11 - 1,Tyler Swiderski,75986,Central Michigan,Hunter Shaut,61754,Buffalo
+2024,12/17,Buffalo - Bloomsburg Dual,165,L,DEC,1 - 0,Caden Dobbins,81883,Bloomsburg,Hunter Shaut,61754,Buffalo
+2024,12/17,Buffalo - Bucknell Dual,165,L,DEC,4 - 0,Noah Mulvaney,78676,Bucknell,Hunter Shaut,61754,Buffalo
+2024,12/10,Buffalo - Rutgers Dual,165,L,DEC,2 - 1,Anthony White,70924,Rutgers,Hunter Shaut,61754,Buffalo
+2024,12/07,Michigan State - Buffalo Dual,165,L,MD,12 - 2,Caleb Fish,63045,Michigan State,Hunter Shaut,61754,Buffalo
+2024,12/02,Buffalo - Gardner-Webb Dual,165,W,TF5,21 - 5 5:03,Andrew Wilson,73732,Gardner-Webb,Hunter Shaut,61754,Buffalo
+2024,12/02,Buffalo - Chattanooga Dual,165,L,FALL,4:12,Kamdyn Munro,71789,Chattanooga,Hunter Shaut,61754,Buffalo
+2024,12/02,Buffalo - Kent State Dual,165,W,DEC,4 - 2,Aaron Ferguson,71721,Kent State,Hunter Shaut,61754,Buffalo
+2024,11/17,Virginia - Buffalo Dual,165,W,DEC,4 - 1,Nick Sanko,72927,Virginia,Hunter Shaut,61754,Buffalo
+2024,11/17,Northern Colorado - Buffalo Dual,165,L,MD,9 - 0,Derek Matthews,73320,Northern Colorado,Hunter Shaut,61754,Buffalo
+2024,11/11,North Carolina - Buffalo Dual,165,W,DEC,10 - 5,Isaias Estrada,72152,North Carolina,Hunter Shaut,61754,Buffalo
+2024,11/11,Buffalo - Long Island University  Dual,165,W,DEC,4 - 1,James Johnston,73408,LIU,Hunter Shaut,61754,Buffalo
+2024,11/05,Clarion Open,165,W,DEC,3 - 2,Ethan Birden jr,86108,Unattached,Hunter Shaut,61754,Buffalo
+2024,11/05,Clarion Open,165,W,DEC,7 - 1,Roberto Padilla,81108,Spartan Combat RTC,Hunter Shaut,61754,Buffalo
+2024,11/05,Clarion Open,165,W,DEC,4 - 1,Grant MacKay,73570,Pittsburgh,Hunter Shaut,61754,Buffalo
+2024,11/05,Clarion Open,165,W,DEC,4 - 1,Colton Blaha,69872,Michigan State,Hunter Shaut,61754,Buffalo
+2024,11/05,Clarion Open,165,L,MD,11 - 1,Isaac Wilcox,60592,Ohio State,Hunter Shaut,61754,Buffalo
+2024,11/05,Clarion Open,165,W,SV-1,6 - 3,Keegan Rothrock,67258,Brown,Hunter Shaut,61754,Buffalo
+2024,11/01,Glenville State College - Buffalo Dual,165,L,DEC,8 - 2,Guy DeLeonardis,67139,Glenville State University,Hunter Shaut,61754,Buffalo
+2024,11/01,Seton Hill - Buffalo Dual,165,W,TF5,20 - 4 6:36,Kane Kettering,79567,Seton Hill,Hunter Shaut,61754,Buffalo
+2024,03/03,Zingo Nationals,165,W,SV-1,4 - 1,Eric Broadie,85163,Rider,Rafael Knapp,84273,Buffalo
+2024,03/03,Zingo Nationals,165,L,DEC,13 - 8,Domenic D'Agostino,78471,Drexel,Rafael Knapp,84273,Buffalo
+2024,03/03,Zingo Nationals,165,L,DEC,8 - 5,Michael Leandrou,69906,Hofstra,Rafael Knapp,84273,Buffalo
+2024,02/25,Patriot Last Chance Open,165,L,TF5,18 - 2 2:55,Evan Maag,78473,George Mason,Rafael Knapp,84273,Buffalo
+2024,02/25,Patriot Last Chance Open,165,L,DEC,7 - 3,Michael Murphy,79310,Virginia,Rafael Knapp,84273,Buffalo
+2024,02/25,Patriot Last Chance Open,165,L,DEC,7 - 2,Domenic D'Agostino,78471,Drexel,Rafael Knapp,84273,Buffalo
+2024,02/11,JCU Open,165,W,DEC,10 - 6,Konner Roche,79318,Michigan State,Rafael Knapp,84273,Buffalo
+2024,02/11,JCU Open,165,W,DEC,14 - 8,Bobby Gaylord,73170,Ohio,Rafael Knapp,84273,Buffalo
+2024,02/11,JCU Open,165,W,DEC,4 - 2,George Johnson,74525,West Virginia,Rafael Knapp,84273,Buffalo
+2024,02/03,Edinboro Open,165,L,DEC,10 - 3,Shawn Taylor,92667,Unattached,Rafael Knapp,84273,Buffalo
+2024,02/03,Edinboro Open,165,W,MD,11 - 2,Kevin McBride,85160,Rider,Rafael Knapp,84273,Buffalo
+2024,02/03,Edinboro Open,165,L,DEC,12 - 5,Domenic D'Agostino,78471,Drexel,Rafael Knapp,84273,Buffalo
+2024,01/28,Mat-Town Open II,165,L,MD,11 - 2,Sean Degl,87246,Unattached,Rafael Knapp,84273,Buffalo
+2024,01/28,Mat-Town Open II,165,W,MFOR,0 - 0,Zander Silva,78817,Princeton,Rafael Knapp,84273,Buffalo
+2024,01/28,Mat-Town Open II,165,W,SV-1,4 - 1,Adam Thomson,78677,Pennsylvania,Rafael Knapp,84273,Buffalo
+2024,01/28,Mat-Town Open II,165,L,MD,14 - 4,Gunner Filipowicz,72974,Army West Point,Rafael Knapp,84273,Buffalo
+2024,01/20,NYS Collegiate Championships,165,W,DEC,11 - 5,Thomas Lascala,73409,LIU,Rafael Knapp,84273,Buffalo
+2024,01/20,NYS Collegiate Championships,165,L,DEC,9 - 7,Michael Leandrou,69906,Hofstra,Rafael Knapp,84273,Buffalo
+2024,01/20,NYS Collegiate Championships,165,L,TF5,17 - 2 7:00,Konrad Parker,80550,Ithaca,Rafael Knapp,84273,Buffalo
+2024,01/20,NYS Collegiate Championships,165,W,FALL,4:55,Josh Heisey,86758,NYU,Rafael Knapp,84273,Buffalo
+2024,01/14,Purple Raider Open,165,W,DEC,8 - 5,Logan Smalley,88536,Ashland,Rafael Knapp,84273,Buffalo
+2024,01/14,Purple Raider Open,165,W,SV-1,7 - 1,Brady Unger,79411,Buffalo,Rafael Knapp,84273,Buffalo
+2024,01/14,Purple Raider Open,165,L,MD,17 - 3,Grant MacKay,73570,Pittsburgh,Rafael Knapp,84273,Buffalo
+2024,01/14,Purple Raider Open,165,L,DEC,5 - 1,Sasha Gavronksy,84596,West Virginia,Rafael Knapp,84273,Buffalo
+2024,01/14,Purple Raider Open,165,W,DEC,4 - 1,George Johnson,74525,West Virginia,Rafael Knapp,84273,Buffalo
+2024,01/14,Purple Raider Open,165,W,TF5,19 - 4 7:00,Sam Partain,75729,John Carroll,Rafael Knapp,84273,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,165,W,DEC,2 - 1,Brady Unger,79411,Buffalo,Rafael Knapp,84273,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,165,W,TF5,20 - 5 5:41,Miles Bassett,70025,Bucknell,Rafael Knapp,84273,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,165,W,MD,17 - 4,Bobby Gaylord,73170,Ohio,Rafael Knapp,84273,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,165,L,MD,15 - 5,Bryce Hepner,64961,Ohio State,Rafael Knapp,84273,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,165,L,DEC,9 - 8,Sasha Gavronksy,84596,West Virginia,Rafael Knapp,84273,Buffalo
+2024,12/29,Midlands Championships,165,L,TF5,19 - 3 7:00,Maxx Mayfield,62981,Northwestern,Rafael Knapp,84273,Buffalo
+2024,12/29,Midlands Championships,165,L,MD,16 - 4,Tracy Hubbard,57361,Central Michigan,Rafael Knapp,84273,Buffalo
+2024,12/22,Wilkes Open,165,W,DEC,7 - 4,Macon Myers,84269,Bloomsburg,Rafael Knapp,84273,Buffalo
+2024,12/22,Wilkes Open,165,W,DEC,8 - 3,Ryan Alvarado,77593,Army West Point,Rafael Knapp,84273,Buffalo
+2024,12/22,Wilkes Open,165,W,FALL,4:06,Landon Kissell,76331,Apprentice School,Rafael Knapp,84273,Buffalo
+2024,12/22,Wilkes Open,165,L,FALL,0:51,Tanner Craig,59533,Army West Point,Rafael Knapp,84273,Buffalo
+2024,12/22,Wilkes Open,165,W,TF5,20 - 5 5:41,Nick Costello,89526,King's,Rafael Knapp,84273,Buffalo
+2024,11/05,Clarion Open,165,W,DEC,13 - 9,Owen Mcmullen,86114,Unattached,Rafael Knapp,84273,Buffalo
+2024,11/05,Clarion Open,165,L,FALL,4:39,Ethan Birden jr,86108,Unattached,Rafael Knapp,84273,Buffalo
+2024,11/05,Clarion Open,165,L,DEC,8 - 1,Stoney Buell,72153,Purdue,Rafael Knapp,84273,Buffalo
+2024,11/05,Clarion Open,165,W,MD,11 - 0,Miles Bassett,70025,Bucknell,Rafael Knapp,84273,Buffalo
+2024,11/01,Brockport - Buffalo Dual,165,W,FALL,4:11,Max Ebanks,73666,Brockport,Rafael Knapp,84273,Buffalo
+2024,03/03,Zingo Nationals,165,L,DEC,2 - 0,Dylan Elmore,78528,US Naval Academy Prep School,Brady Unger,79411,Buffalo
+2024,03/03,Zingo Nationals,165,L,DEC,4 - 2,Michael Leandrou,69906,Hofstra,Brady Unger,79411,Buffalo
+2024,03/03,Zingo Nationals,165,W,DEC,4 - 3,Damian Weaver,84503,Rutgers,Brady Unger,79411,Buffalo
+2024,02/25,Patriot Last Chance Open,165,W,MD,14 - 4,Zack Arsala,83138,Unattached,Brady Unger,79411,Buffalo
+2024,02/25,Patriot Last Chance Open,165,L,TF5,15 - 0 4:12,AJ Rodriguez,84414,Maryland,Brady Unger,79411,Buffalo
+2024,02/25,Patriot Last Chance Open,165,L,TF5,15 - 0 3:32,Gaven Bell,72136,Maryland,Brady Unger,79411,Buffalo
+2024,02/03,Edinboro Open,165,L,SV-1,8 - 5,Liam Scrivanich,84464,Rider,Brady Unger,79411,Buffalo
+2024,02/03,Edinboro Open,165,L,TF5,19 - 3 6:01,Tate Geiser,78813,Cleveland State,Brady Unger,79411,Buffalo
+2024,01/28,Mat-Town Open II,165,L,DEC,4 - 2,Michael Murphy,79310,Virginia,Brady Unger,79411,Buffalo
+2024,01/28,Mat-Town Open II,165,W,SV-1,2 - 1,Tyler Sagi,84334,Navy,Brady Unger,79411,Buffalo
+2024,01/28,Mat-Town Open II,165,W,DEC,6 - 4,Macon Myers,84269,Bloomsburg,Brady Unger,79411,Buffalo
+2024,01/28,Mat-Town Open II,165,L,TF5,15 - 0 3:00,Dakota Morris,73960,Army West Point,Brady Unger,79411,Buffalo
+2024,01/20,NYS Collegiate Championships,165,L,MD,14 - 0,Cooper Haase,73434,United States Military Academy,Brady Unger,79411,Buffalo
+2024,01/20,NYS Collegiate Championships,165,W,TF5,15 - 0 7:00,Steven Felice,74126,Oswego State,Brady Unger,79411,Buffalo
+2024,01/20,NYS Collegiate Championships,165,L,TF5,17 - 2 7:00,Konrad Parker,80550,Ithaca,Brady Unger,79411,Buffalo
+2024,01/20,NYS Collegiate Championships,165,W,DEC,10 - 3,Pedro Cruz,65733,Ithaca,Brady Unger,79411,Buffalo
+2024,01/20,NYS Collegiate Championships,165,W,SV-1,4 - 1,Rex Jacops,86761,NYU,Brady Unger,79411,Buffalo
+2024,01/14,Purple Raider Open,165,L,SV-1,7 - 1,Rafael Knapp,84273,Buffalo,Brady Unger,79411,Buffalo
+2024,01/14,Purple Raider Open,165,W,CMFF,0 - 0,Konner Roche,79318,Michigan State,Brady Unger,79411,Buffalo
+2024,01/14,Purple Raider Open,165,W,DEC,8 - 4,Josh Henderson,85775,Ohio,Brady Unger,79411,Buffalo
+2024,01/14,Purple Raider Open,165,W,DEC,12 - 7,Nick Carbone,63205,Ashland,Brady Unger,79411,Buffalo
+2024,01/14,Purple Raider Open,165,L,DEC,5 - 3,Nick Carbone,63205,Ashland,Brady Unger,79411,Buffalo
+2024,01/14,Purple Raider Open,165,W,DEC,10 - 3,Wills Bronson,86129,John Carroll,Brady Unger,79411,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,165,L,DEC,2 - 1,Rafael Knapp,84273,Buffalo,Brady Unger,79411,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,165,W,DEC,4 - 2,Caleb Butterfield,84911,Gannon,Brady Unger,79411,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,165,L,MD,12 - 0,Max Kirby,78782,Edinboro,Brady Unger,79411,Buffalo
+2024,12/29,Midlands Championships,165,L,MD,12 - 3,Holden Garcia,77148,Princeton,Brady Unger,79411,Buffalo
+2024,12/29,Midlands Championships,165,L,DEC,7 - 1,Jake Silverstein,67370,Rider,Brady Unger,79411,Buffalo
+2024,12/03,Storm Open,165,L,SV-1,4 - 1,Mason Alessio,84289,Central Michigan,Brady Unger,79411,Buffalo
+2024,12/03,Storm Open,165,W,DEC,13 - 7,Caleb Butterfield,84911,Gannon,Brady Unger,79411,Buffalo
+2024,12/03,Storm Open,165,W,FALL,1:42,Marques McClorin,70305,Gannon,Brady Unger,79411,Buffalo
+2024,12/03,Storm Open,165,W,TF5,17 - 2 4:09,Dakota Mascho,87703,Glenville State University,Brady Unger,79411,Buffalo
+2024,11/05,Clarion Open,165,W,DEC,9 - 3,Brady Benson,84462,Michigan State,Brady Unger,79411,Buffalo
+2024,11/05,Clarion Open,165,W,SV-1,8 - 5,Konner Roche,79318,Michigan State,Brady Unger,79411,Buffalo
+2024,11/05,Clarion Open,165,L,DEC,8 - 2,Carter Chase,78594,Ohio State,Brady Unger,79411,Buffalo
+2024,11/05,Clarion Open,165,L,FALL,6:44,Eli Brinsky,67110,Clarion,Brady Unger,79411,Buffalo
+2024,11/01,Niagara Community College - Buffalo Dual,165,W,TF5,21 - 6 5:50,Quinn Brown,85405,Niagara Community College,Brady Unger,79411,Buffalo
+2024,03/08,MAC Championships,174,W,DEC,7 - 3,Tyler Stoltzfus,65398,Lock Haven,Jay Nivison,65850,Buffalo
+2024,03/08,MAC Championships,174,L,SV-1,6 - 3,John Worthing,61847,Clarion,Jay Nivison,65850,Buffalo
+2024,03/08,MAC Championships,174,W,SV-1,4 - 1,AJ Burkhart,50632,Kent State,Jay Nivison,65850,Buffalo
+2024,03/08,MAC Championships,174,L,DEC,9 - 5,Michael Wilson,62190,Rider,Jay Nivison,65850,Buffalo
+2024,03/08,MAC Championships,174,W,DEC,7 - 3,Paul Pierce,56165,George Mason,Jay Nivison,65850,Buffalo
+2024,02/24,Buffalo - Ohio Dual,174,L,DEC,2 - 1,Sal Perrine,73171,Ohio,Jay Nivison,65850,Buffalo
+2024,02/11,Buffalo - Central Michigan Dual,174,L,TB-2,3 - 2,Alex Cramer,56732,Central Michigan,Jay Nivison,65850,Buffalo
+2024,02/08,Clarion - Buffalo Dual,174,W,MD,11 - 3,Suds Dubler,78567,Clarion,Jay Nivison,65850,Buffalo
+2024,02/03,Northern Illinois - Buffalo Dual,174,W,DEC,7 - 3,Ricardo Salin,73343,Northern Illinois,Jay Nivison,65850,Buffalo
+2024,01/19,Buffalo - Lock Haven Dual,174,W,DEC,3 - 2,Tyler Stoltzfus,65398,Lock Haven,Jay Nivison,65850,Buffalo
+2024,01/13,Buffalo - Binghamton Dual,174,W,SV-1,4 - 1,Dimitri Gamkrelidze,67295,Binghamton,Jay Nivison,65850,Buffalo
+2024,12/17,Buffalo - Bucknell Dual,174,L,DEC,8 - 1,Myles Takats,83325,Bucknell,Jay Nivison,65850,Buffalo
+2024,12/10,Buffalo - Rutgers Dual,174,L,DEC,10 - 5,Jackson Turley,57636,Rutgers,Jay Nivison,65850,Buffalo
+2024,12/07,Michigan State - Buffalo Dual,174,L,TB-1,3 - 2,DJ Shannon,51137,Michigan State,Jay Nivison,65850,Buffalo
+2024,12/02,Buffalo - Kent State Dual,174,W,DEC,4 - 1,Waylon Wehler,84854,Kent State,Jay Nivison,65850,Buffalo
+2024,11/01,Glenville State College - Buffalo Dual,174,W,MD,10 - 2,Cade Linn,69625,Glenville State University,Jay Nivison,65850,Buffalo
+2024,02/08,Clarion - Buffalo Dual,184,L,DEC,11 - 7,Cameron Pine,57196,Clarion,Marcus Petite,67407,Buffalo
+2024,01/28,Mat-Town Open II,174,W,DEC,5 - 0,Zeke Dubler,79059,Lehigh,Marcus Petite,67407,Buffalo
+2024,01/28,Mat-Town Open II,174,W,FALL,5:43,Hunter Mays,73136,Lehigh,Marcus Petite,67407,Buffalo
+2024,01/28,Mat-Town Open II,174,W,DEC,6 - 1,Nicolas Alvarez,78573,Franklin & Marshall,Marcus Petite,67407,Buffalo
+2024,01/28,Mat-Town Open II,174,W,DEC,10 - 5,Eric Freeman,78455,Rutgers,Marcus Petite,67407,Buffalo
+2024,01/07,Southern Illinois Edwardsville - Buffalo Dual,174,W,DEC,9 - 4,Dominic Lopez,85352,SIU Edwardsville,Marcus Petite,67407,Buffalo
+2024,12/29,Midlands Championships,174,L,MD,11 - 3,Adam Kemp,57045,Cal Poly,Marcus Petite,67407,Buffalo
+2024,12/29,Midlands Championships,174,L,FALL,1:29,Scott Joll,62424,UNC Pembroke,Marcus Petite,67407,Buffalo
+2024,12/22,Wilkes Open,174,W,TF5,15 - 0 7:00,Xavier Giles,90346,Unattached,Marcus Petite,67407,Buffalo
+2024,12/22,Wilkes Open,174,W,INJ,2:04,Will Ebert,76486,Binghamton,Marcus Petite,67407,Buffalo
+2024,12/22,Wilkes Open,174,W,MD,13 - 3,Eric Freeman,78455,Rutgers,Marcus Petite,67407,Buffalo
+2024,12/22,Wilkes Open,174,W,FALL,0:59,Eddries Nezam,87201,Marymount,Marcus Petite,67407,Buffalo
+2024,12/22,Wilkes Open,174,W,FALL,2:41,Zach Borzio,88652,Williams College,Marcus Petite,67407,Buffalo
+2024,12/17,Buffalo - Bloomsburg Dual,174,W,TF5,20 - 4 4:22,Josh Bonomo,74512,Bloomsburg,Marcus Petite,67407,Buffalo
+2024,12/02,Buffalo - Gardner-Webb Dual,174,L,DEC,12 - 8,Samuel Mora,62408,Gardner-Webb,Marcus Petite,67407,Buffalo
+2024,12/02,Buffalo - Chattanooga Dual,174,L,DEC,8 - 5,Sergio Desiante,78495,Chattanooga,Marcus Petite,67407,Buffalo
+2024,11/19,Black Knight Invitational,174,W,DEC,10 - 3,Brian Borden,58228,Penn State,Marcus Petite,67407,Buffalo
+2024,11/19,Black Knight Invitational,174,L,CMFF,0 - 0,DJ Shannon,51137,Michigan State,Marcus Petite,67407,Buffalo
+2024,11/19,Black Knight Invitational,174,W,FALL,5:21,Samuel Mora,62408,Gardner-Webb,Marcus Petite,67407,Buffalo
+2024,11/19,Black Knight Invitational,174,L,DEC,10 - 4,Shane Cartagena-Walsh,81579,Rutgers,Marcus Petite,67407,Buffalo
+2024,11/17,Northern Colorado - Buffalo Dual,174,L,TF5,19 - 4 6:07,Ayden Rix-McElhinney,79043,Northern Colorado,Marcus Petite,67407,Buffalo
+2024,11/12,Journeymen Classic,165,W,FALL,2:31,David Rozenblum,84810,Sacred Heart,Marcus Petite,67407,Buffalo
+2024,11/12,Journeymen Classic,165,W,MD,15 - 4,Jake Slotnick,84500,Hofstra,Marcus Petite,67407,Buffalo
+2024,11/12,Journeymen Classic,165,W,MD,11 - 0,Noah Bash,72675,Franklin & Marshall,Marcus Petite,67407,Buffalo
+2024,11/11,North Carolina - Buffalo Dual,174,W,MD,12 - 4,Sabino Portella,78698,North Carolina,Marcus Petite,67407,Buffalo
+2024,11/05,Clarion Open,165,L,DEC,7 - 3,Ethan Birden jr,86108,Unattached,Marcus Petite,67407,Buffalo
+2024,11/05,Clarion Open,165,L,DEC,11 - 7,Noah Mulvaney,78676,Bucknell,Marcus Petite,67407,Buffalo
+2024,11/05,Clarion Open,165,W,MD,11 - 2,Genaro Quodala,76008,Navy,Marcus Petite,67407,Buffalo
+2024,11/05,Clarion Open,165,W,DEC,6 - 0,Kaeden Berger,70740,Clarion,Marcus Petite,67407,Buffalo
+2024,02/03,Edinboro Open,174,W,MD,17 - 4,Luke Eschenheimer,84482,West Virginia,Dylan Schell,78660,Buffalo
+2024,02/03,Edinboro Open,174,W,DEC,7 - 3,Jagger Gray,84325,Maryland,Dylan Schell,78660,Buffalo
+2024,02/03,Edinboro Open,174,W,INJ,6:46,Zahir Mclean-Felix,83569,Spartan Combat RTC,Dylan Schell,78660,Buffalo
+2024,02/03,Edinboro Open,174,L,MD,9 - 1,Brian Borden,58228,Penn State,Dylan Schell,78660,Buffalo
+2024,02/03,Edinboro Open,174,L,DEC,7 - 1,Will Ebert,76486,Binghamton,Dylan Schell,78660,Buffalo
+2024,01/28,Mat-Town Open II,174,L,DEC,12 - 7,Ethan Wilson,76858,Drexel,Dylan Schell,78660,Buffalo
+2024,01/28,Mat-Town Open II,174,L,FALL,0:18,Gunner Spain,67255,Drexel,Dylan Schell,78660,Buffalo
+2024,01/20,NYS Collegiate Championships,174,W,TF5,19 - 4 7:00,Nicholas Sergi,75697,Oneonta State,Dylan Schell,78660,Buffalo
+2024,01/20,NYS Collegiate Championships,174,W,MD,14 - 3,Kenny Sauer,75696,Oneonta State,Dylan Schell,78660,Buffalo
+2024,01/20,NYS Collegiate Championships,174,L,DEC,12 - 7,Jackson Gray,67336,Ithaca,Dylan Schell,78660,Buffalo
+2024,01/14,Purple Raider Open,174,W,DEC,6 - 4,Oliver Byerly,87675,West Liberty University,Dylan Schell,78660,Buffalo
+2024,01/14,Purple Raider Open,174,L,FALL,2:04,Waylon Wehler,84854,Kent State,Dylan Schell,78660,Buffalo
+2024,01/14,Purple Raider Open,174,W,DEC,8 - 6,Hunter Hutcheson,84645,Edinboro,Dylan Schell,78660,Buffalo
+2024,01/14,Purple Raider Open,174,L,DEC,7 - 0,Jeremy Olszko,84350,Ohio,Dylan Schell,78660,Buffalo
+2024,01/14,Purple Raider Open,174,W,DEC,7 - 6,Jalen King,64834,West Liberty University,Dylan Schell,78660,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,174,L,DEC,8 - 3,Connor Owens,84625,Michigan,Dylan Schell,78660,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,174,W,DEC,8 - 5,Cort Vann,84330,Morgan State,Dylan Schell,78660,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,174,W,DEC,8 - 7,Hunter Hutcheson,84645,Edinboro,Dylan Schell,78660,Buffalo
+2024,12/29,Midlands Championships,174,L,TF5,20 - 5 7:00,Shane Cartagena-Walsh,81579,Rutgers,Dylan Schell,78660,Buffalo
+2024,12/29,Midlands Championships,174,L,DEC,5 - 3,Justin Phillips,57093,Cal Baptist,Dylan Schell,78660,Buffalo
+2024,12/22,Wilkes Open,174,L,MD,13 - 0,Logan Gumble,72616,Binghamton,Dylan Schell,78660,Buffalo
+2024,12/22,Wilkes Open,174,L,DEC,4 - 2,David Hussey,84302,Duke,Dylan Schell,78660,Buffalo
+2024,12/03,Storm Open,174,W,MD,14 - 3,Rodney Winston,62584,Notre Dame,Dylan Schell,78660,Buffalo
+2024,12/03,Storm Open,174,L,TB-2,3 - 2,Brayden Gautreau,84290,Central Michigan,Dylan Schell,78660,Buffalo
+2024,12/03,Storm Open,174,W,TF5,24 - 5 4:01,Hayden Flynn,79576,Ashland,Dylan Schell,78660,Buffalo
+2024,11/19,Black Knight Invitational,174,W,DEC,12 - 9,Ryan Boucher,79314,Michigan State,Dylan Schell,78660,Buffalo
+2024,11/19,Black Knight Invitational,174,L,DEC,4 - 1,Brian Borden,58228,Penn State,Dylan Schell,78660,Buffalo
+2024,11/19,Black Knight Invitational,174,L,DEC,13 - 6,Jonathan Conrad,73553,Brown,Dylan Schell,78660,Buffalo
+2024,11/17,Virginia - Buffalo Dual,174,L,DEC,9 - 2,Justin McCoy,50946,Virginia,Dylan Schell,78660,Buffalo
+2024,11/11,Buffalo - Long Island University  Dual,174,L,MD,10 - 1,Corey Connolly,62210,LIU,Dylan Schell,78660,Buffalo
+2024,11/05,Clarion Open,174,W,TF5,22 - 6 5:40,Deegan Ross,84673,Clarion,Dylan Schell,78660,Buffalo
+2024,11/05,Clarion Open,174,L,DEC,4 - 2,Orlando Cruz,84359,Purdue,Dylan Schell,78660,Buffalo
+2024,11/05,Clarion Open,174,W,DEC,8 - 6,Aiden Ashburn,80106,John Carroll,Dylan Schell,78660,Buffalo
+2024,11/05,Clarion Open,174,L,MD,8 - 0,John Worthing,61847,Clarion,Dylan Schell,78660,Buffalo
+2024,11/01,Niagara Community College - Buffalo Dual,174,W,TF5,19 - 4 4:36,Payton Grabowski,85406,Niagara Community College,Dylan Schell,78660,Buffalo
+2024,11/01,Brockport - Buffalo Dual,174,W,TF5,18 - 3 3:49,Michael Syposs,85392,Brockport,Dylan Schell,78660,Buffalo
+2024,03/08,MAC Championships,184,W,DEC,7 - 3,Matt Zuber,66265,Northern Illinois,Chase Kranitz,73700,Buffalo
+2024,03/08,MAC Championships,184,W,DEC,7 - 3,Colin Fegley,63035,Lock Haven,Chase Kranitz,73700,Buffalo
+2024,03/08,MAC Championships,184,W,MD,15 - 3,Joey Lyons,72596,Cleveland State,Chase Kranitz,73700,Buffalo
+2024,03/08,MAC Championships,184,W,DEC,12 - 5,Isaac Dean,72506,Rider,Chase Kranitz,73700,Buffalo
+2024,03/08,MAC Championships,184,L,DEC,13 - 8,Cameron Pine,57196,Clarion,Chase Kranitz,73700,Buffalo
+2024,02/24,Buffalo - Ohio Dual,184,W,FALL,4:07,Bobby Gaylord,73170,Ohio,Chase Kranitz,73700,Buffalo
+2024,02/11,Buffalo - Central Michigan Dual,184,L,DEC,4 - 1,Adrien Cramer,68713,Central Michigan,Chase Kranitz,73700,Buffalo
+2024,02/08,Clarion - Buffalo Dual,197,W,DEC,9 - 3,Connor Jacobs,79277,Clarion,Chase Kranitz,73700,Buffalo
+2024,02/03,Northern Illinois - Buffalo Dual,184,L,DEC,6 - 1,Matt Zuber,66265,Northern Illinois,Chase Kranitz,73700,Buffalo
+2024,01/19,Buffalo - Lock Haven Dual,184,W,DEC,7 - 5,Colin Fegley,63035,Lock Haven,Chase Kranitz,73700,Buffalo
+2024,01/13,Buffalo - Binghamton Dual,184,L,MD,11 - 0,Jacob Nolan,62415,Binghamton,Chase Kranitz,73700,Buffalo
+2024,01/07,Southern Illinois Edwardsville - Buffalo Dual,184,L,SV-1,4 - 1,Deron Pulliam,77410,SIU Edwardsville,Chase Kranitz,73700,Buffalo
+2024,12/29,Midlands Championships,184,W,TF5,16 - 0 7:00,Owen Heiser,84585,Air Force,Chase Kranitz,73700,Buffalo
+2024,12/29,Midlands Championships,184,W,DEC,4 - 2,Ian Bush,76349,West Virginia,Chase Kranitz,73700,Buffalo
+2024,12/29,Midlands Championships,184,L,DEC,2 - 1,Tony Negron,58308,Arizona State,Chase Kranitz,73700,Buffalo
+2024,12/29,Midlands Championships,184,W,DEC,6 - 3,Macartney Parkinson,67304,Purdue,Chase Kranitz,73700,Buffalo
+2024,12/29,Midlands Championships,184,L,FALL,2:15,Ryder Rogotzke,78083,Ohio State,Chase Kranitz,73700,Buffalo
+2024,12/17,Buffalo - Bloomsburg Dual,184,W,DEC,8 - 3,Tanner Culver,62461,Bloomsburg,Chase Kranitz,73700,Buffalo
+2024,12/17,Buffalo - Bucknell Dual,184,W,MD,17 - 6,Nolan Springer,71749,Bucknell,Chase Kranitz,73700,Buffalo
+2024,12/10,Buffalo - Rutgers Dual,184,L,FALL,0:56,Brian Soldano,67558,Rutgers,Chase Kranitz,73700,Buffalo
+2024,12/07,Michigan State - Buffalo Dual,184,W,DEC,13 - 6,Jacob Lee,72196,Michigan State,Chase Kranitz,73700,Buffalo
+2024,12/02,Buffalo - Gardner-Webb Dual,184,L,SV-1,4 - 1,Jha'Quan Anderson,62407,Gardner-Webb,Chase Kranitz,73700,Buffalo
+2024,12/02,Buffalo - Chattanooga Dual,184,W,FALL,1:41,Landon Lewis,73353,Chattanooga,Chase Kranitz,73700,Buffalo
+2024,12/02,Buffalo - Kent State Dual,184,W,DEC,5 - 1,Kyle Snider,78729,Kent State,Chase Kranitz,73700,Buffalo
+2024,11/19,Black Knight Invitational,184,L,SV-1,6 - 1,Josh Barr,77988,Penn State,Chase Kranitz,73700,Buffalo
+2024,11/19,Black Knight Invitational,184,W,INJ,1:05,Layne Malczewski,51828,Michigan State,Chase Kranitz,73700,Buffalo
+2024,11/19,Black Knight Invitational,184,W,TF5,15 - 0 1:08,Joseph LoPresti,70154,LIU,Chase Kranitz,73700,Buffalo
+2024,11/19,Black Knight Invitational,184,W,DEC,4 - 2,Jha'Quan Anderson,62407,Gardner-Webb,Chase Kranitz,73700,Buffalo
+2024,11/17,Virginia - Buffalo Dual,184,L,FALL,2:04,Hudson Stewart,67386,Virginia,Chase Kranitz,73700,Buffalo
+2024,11/17,Northern Colorado - Buffalo Dual,184,W,DEC,10 - 5,Branson Britten,71938,Northern Colorado,Chase Kranitz,73700,Buffalo
+2024,11/11,North Carolina - Buffalo Dual,184,L,DEC,5 - 0,Gavin Kane,62429,North Carolina,Chase Kranitz,73700,Buffalo
+2024,11/11,Buffalo - Long Island University  Dual,184,W,DEC,4 - 2,Anthony D'Alesio,67000,LIU,Chase Kranitz,73700,Buffalo
+2024,11/05,Clarion Open,184,W,TF5,17 - 2 3:20,Dustin Gue,83390,Clarion,Chase Kranitz,73700,Buffalo
+2024,11/05,Clarion Open,184,W,DEC,1 - 0,Misha Lomboy,79319,Michigan State,Chase Kranitz,73700,Buffalo
+2024,11/05,Clarion Open,184,L,FALL,3:59,Ryder Rogotzke,78083,Ohio State,Chase Kranitz,73700,Buffalo
+2024,11/05,Clarion Open,184,L,SV-1,4 - 1,Jha'Quan Anderson,62407,Gardner-Webb,Chase Kranitz,73700,Buffalo
+2024,11/01,Glenville State College - Buffalo Dual,184,W,TF5,17 - 2 5:52,Brady Ross,79447,Glenville State University,Chase Kranitz,73700,Buffalo
+2024,11/01,Seton Hill - Buffalo Dual,184,W,TF5,18 - 0 3:47,Riley O'Mara,62412,Seton Hill,Chase Kranitz,73700,Buffalo
+2024,11/01,Brockport - Buffalo Dual,184,W,FALL,0:51,Spencer Clements,85393,Brockport,Chase Kranitz,73700,Buffalo
+2024,03/21,NCAA Championships,197,L,TF5,19 - 3 6:22,Wyatt Voelker,73956,Northern Iowa,Sam Mitchell,61028,Buffalo
+2024,03/21,NCAA Championships,197,W,MD,14 - 4,John Crawford,62873,Franklin & Marshall,Sam Mitchell,61028,Buffalo
+2024,03/21,NCAA Championships,197,L,FALL,5:26,Tanner Sloan,56251,South Dakota State,Sam Mitchell,61028,Buffalo
+2024,03/08,MAC Championships True 2nd,197,W,DEC,5 - 3,Blake Schaffer,79797,Kent State,Sam Mitchell,61028,Buffalo
+2024,03/08,MAC Championships,197,L,DEC,8 - 3,Ben Smith,56236,Cleveland State,Sam Mitchell,61028,Buffalo
+2024,03/08,MAC Championships,197,W,DEC,3 - 0,Sean Carroll,81794,Northern Illinois,Sam Mitchell,61028,Buffalo
+2024,03/08,MAC Championships,197,W,MD,10 - 0,Cael Black,78740,Lock Haven,Sam Mitchell,61028,Buffalo
+2024,03/08,MAC Championships,197,W,MD,9 - 1,Cameron Wood,73724,Central Michigan,Sam Mitchell,61028,Buffalo
+2024,02/24,Buffalo - Ohio Dual,197,W,DEC,5 - 1,Austin Starr,76357,Ohio,Sam Mitchell,61028,Buffalo
+2024,02/11,Buffalo - Central Michigan Dual,197,W,DEC,5 - 2,Cameron Wood,73724,Central Michigan,Sam Mitchell,61028,Buffalo
+2024,02/08,Clarion - Buffalo Dual,285,W,DEC,9 - 5,John Meyers,69618,Clarion,Sam Mitchell,61028,Buffalo
+2024,02/03,Northern Illinois - Buffalo Dual,197,W,DEC,4 - 1,Sean Carroll,81794,Northern Illinois,Sam Mitchell,61028,Buffalo
+2024,01/19,Buffalo - Lock Haven Dual,197,W,MD,15 - 3,Cael Black,78740,Lock Haven,Sam Mitchell,61028,Buffalo
+2024,01/13,Buffalo - Binghamton Dual,197,L,DEC,8 - 2,Louie DePrez,49046,Binghamton,Sam Mitchell,61028,Buffalo
+2024,01/07,Southern Illinois Edwardsville - Buffalo Dual,197,W,DEC,7 - 4,Ryan Yarnell,57006,SIU Edwardsville,Sam Mitchell,61028,Buffalo
+2024,12/17,Buffalo - Bloomsburg Dual,197,W,DEC,5 - 1,David Tuttle,67654,Bloomsburg,Sam Mitchell,61028,Buffalo
+2024,12/17,Buffalo - Bucknell Dual,197,W,DEC,5 - 0,Logan Deacetis,71753,Bucknell,Sam Mitchell,61028,Buffalo
+2024,12/10,Buffalo - Rutgers Dual,197,L,MD,18 - 4,John Poznanski,61124,Rutgers,Sam Mitchell,61028,Buffalo
+2024,12/07,Michigan State - Buffalo Dual,197,W,DEC,8 - 3,Kael Wisler,79317,Michigan State,Sam Mitchell,61028,Buffalo
+2024,12/02,Buffalo - Gardner-Webb Dual,197,W,DEC,9 - 4,Joshua McCutchen,75730,Gardner-Webb,Sam Mitchell,61028,Buffalo
+2024,12/02,Buffalo - Chattanooga Dual,197,W,DEC,8 - 5,David Harper,72573,Chattanooga,Sam Mitchell,61028,Buffalo
+2024,11/17,Virginia - Buffalo Dual,197,L,INJ,2:03,Ethan Weatherspoon,60762,Virginia,Sam Mitchell,61028,Buffalo
+2024,11/17,Northern Colorado - Buffalo Dual,197,W,DEC,2 - 0,Noah Pettigrew,72943,Northern Colorado,Sam Mitchell,61028,Buffalo
+2024,11/11,North Carolina - Buffalo Dual,197,L,DEC,8 - 3,Max Shaw,61959,North Carolina,Sam Mitchell,61028,Buffalo
+2024,11/11,Buffalo - Long Island University  Dual,197,W,MD,13 - 2,John Dusza,74411,LIU,Sam Mitchell,61028,Buffalo
+2024,11/05,Clarion Open,197,W,DEC,6 - 4,Kael Wisler,79317,Michigan State,Sam Mitchell,61028,Buffalo
+2024,11/05,Clarion Open,197,W,MD,12 - 1,Nick Lodato,72606,Edinboro,Sam Mitchell,61028,Buffalo
+2024,11/05,Clarion Open,197,W,SV-1,11 - 6,Jacob Lee,72196,Michigan State,Sam Mitchell,61028,Buffalo
+2024,11/05,Clarion Open,197,L,DEC,5 - 4,Lucas Daly,71943,Michigan State,Sam Mitchell,61028,Buffalo
+2024,11/05,Clarion Open,197,W,DEC,5 - 1,Jack Kilner,65375,Edinboro,Sam Mitchell,61028,Buffalo
+2024,11/01,Glenville State College - Buffalo Dual,197,W,TF5,17 - 2 6:10,Nick Copley,73491,Glenville State University,Sam Mitchell,61028,Buffalo
+2024,11/01,Brockport - Buffalo Dual,197,W,FALL,2:38,Elijah Bonet,85394,Brockport,Sam Mitchell,61028,Buffalo
+2024,01/14,Purple Raider Open,197,W,DEC,4 - 2,Trent Thomas,86118,Kent State,Coen Grimm,82483,Buffalo
+2024,01/14,Purple Raider Open,197,W,DEC,13 - 6,Trent Thomas,86118,Kent State,Coen Grimm,82483,Buffalo
+2024,01/14,Purple Raider Open,197,L,DEC,2 - 1,Connor Jacobs,79277,Clarion,Coen Grimm,82483,Buffalo
+2024,01/14,Purple Raider Open,197,W,MD,15 - 5,Luke Justice,86495,West Liberty University,Coen Grimm,82483,Buffalo
+2024,01/14,Purple Raider Open,197,W,MD,19 - 6,Anthony Gencarelli,79106,West Liberty University,Coen Grimm,82483,Buffalo
+2024,03/08,MAC Championships,285,W,DEC,5 - 3,Donovan Sprouse,78363,George Mason,Lonnell Owens-Pabon,78784,Buffalo
+2024,03/08,MAC Championships,285,L,MD,11 - 3,Bryan Caves,71791,Central Michigan,Lonnell Owens-Pabon,78784,Buffalo
+2024,03/08,MAC Championships,285,W,DEC,7 - 2,John Meyers,69618,Clarion,Lonnell Owens-Pabon,78784,Buffalo
+2024,03/08,MAC Championships,285,W,DEC,8 - 5,Josh Boggan,79799,Kent State,Lonnell Owens-Pabon,78784,Buffalo
+2024,03/08,MAC Championships,285,L,MD,11 - 0,Daniel Bucknavich,62488,Cleveland State,Lonnell Owens-Pabon,78784,Buffalo
+2024,02/24,Buffalo - Ohio Dual,285,L,DEC,5 - 1,Jordan Greer,62652,Ohio,Lonnell Owens-Pabon,78784,Buffalo
+2024,02/11,Buffalo - Central Michigan Dual,285,L,TF5,16 - 1 7:00,Bryan Caves,71791,Central Michigan,Lonnell Owens-Pabon,78784,Buffalo
+2024,02/03,Northern Illinois - Buffalo Dual,285,L,MD,12 - 3,Jacobi Jackson,72513,Northern Illinois,Lonnell Owens-Pabon,78784,Buffalo
+2024,01/13,Buffalo - Binghamton Dual,285,L,MD,12 - 0,Cory Day,62418,Binghamton,Lonnell Owens-Pabon,78784,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,197,L,DEC,9 - 6,Logan Deacetis,71753,Bucknell,Lonnell Owens-Pabon,78784,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,197,W,FALL,4:00,Brett Wittmann,66633,Clarion,Lonnell Owens-Pabon,78784,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,197,W,DEC,6 - 2,Nathanic Kendricks,85304,Morgan State,Lonnell Owens-Pabon,78784,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,197,W,DEC,7 - 4,Nick Lodato,72606,Edinboro,Lonnell Owens-Pabon,78784,Buffalo
+2024,12/29,Midlands Championships,197,L,MD,17 - 3,Cameron Wood,73724,Central Michigan,Lonnell Owens-Pabon,78784,Buffalo
+2024,12/29,Midlands Championships,197,L,DEC,7 - 2,Andy Smith,63528,Virginia Tech,Lonnell Owens-Pabon,78784,Buffalo
+2024,12/22,Wilkes Open,197,L,DEC,7 - 4,Cayden Bevis,78819,Binghamton,Lonnell Owens-Pabon,78784,Buffalo
+2024,12/22,Wilkes Open,197,W,MFOR,0 - 0,Ethan Weatherspoon,60762,Virginia,Lonnell Owens-Pabon,78784,Buffalo
+2024,12/22,Wilkes Open,197,W,DEC,9 - 2,Rich Fronheiser,77945,King's,Lonnell Owens-Pabon,78784,Buffalo
+2024,12/22,Wilkes Open,197,L,MD,11 - 3,Cameron Butka,75559,Wilkes,Lonnell Owens-Pabon,78784,Buffalo
+2024,12/22,Wilkes Open,197,W,FALL,5:10,Dawson Tallant,65887,Wilkes,Lonnell Owens-Pabon,78784,Buffalo
+2024,12/02,Buffalo - Gardner-Webb Dual,285,L,DEC,6 - 1,Peyton McComas,71831,Gardner-Webb,Lonnell Owens-Pabon,78784,Buffalo
+2024,12/02,Buffalo - Kent State Dual,197,L,TF5,20 - 5 5:54,Blake Schaffer,79797,Kent State,Lonnell Owens-Pabon,78784,Buffalo
+2024,11/19,Black Knight Invitational,197,L,DEC,9 - 7,Kael Wisler,79317,Michigan State,Lonnell Owens-Pabon,78784,Buffalo
+2024,11/19,Black Knight Invitational,197,L,MD,12 - 4,Cayden Bevis,78819,Binghamton,Lonnell Owens-Pabon,78784,Buffalo
+2024,11/19,Black Knight Invitational,197,W,DEC,7 - 6,Joshua McCutchen,75730,Gardner-Webb,Lonnell Owens-Pabon,78784,Buffalo
+2024,11/12,Journeymen Classic,197,W,FALL,2:44,Jeffrey Miller,75963,Sacred Heart,Lonnell Owens-Pabon,78784,Buffalo
+2024,11/12,Journeymen Classic,197,W,DEC,8 - 2,Mason Rebuck,84812,Bloomsburg,Lonnell Owens-Pabon,78784,Buffalo
+2024,11/12,Journeymen Classic,197,W,FALL,1:38,Eli Pack,71767,Army West Point,Lonnell Owens-Pabon,78784,Buffalo
+2024,11/11,North Carolina - Buffalo Dual,285,L,TF5,27 - 8 7:00,Cade Lautt,69676,North Carolina,Lonnell Owens-Pabon,78784,Buffalo
+2024,11/05,Clarion Open,197,L,DEC,9 - 5,Kael Wisler,79317,Michigan State,Lonnell Owens-Pabon,78784,Buffalo
+2024,11/05,Clarion Open,197,W,MFOR,0 - 0,Michael Misita,72583,Ohio State,Lonnell Owens-Pabon,78784,Buffalo
+2024,11/05,Clarion Open,197,L,DEC,3 - 2,Jack Kilner,65375,Edinboro,Lonnell Owens-Pabon,78784,Buffalo
+2024,11/01,Niagara Community College - Buffalo Dual,197,W,FALL,1:18,Cameron Hall,85407,Niagara Community College,Lonnell Owens-Pabon,78784,Buffalo
+2024,11/01,Seton Hill - Buffalo Dual,197,W,DEC,10 - 3,Brendan Finnerty,69613,Seton Hill,Lonnell Owens-Pabon,78784,Buffalo
+2024,03/03,Zingo Nationals,285,L,DEC,5 - 0,Danny Church,84818,Hofstra,Magnus Bibla,84535,Buffalo
+2024,03/03,Zingo Nationals,285,W,FALL,4:08,Colin Pederson,84696,George Mason,Magnus Bibla,84535,Buffalo
+2024,03/03,Zingo Nationals,285,L,FALL,1:57,Shane Whitney,76170,Drexel,Magnus Bibla,84535,Buffalo
+2024,03/03,Zingo Nationals,285,L,DEC,4 - 1,Alex Hamrick,84453,Brown,Magnus Bibla,84535,Buffalo
+2024,02/25,Patriot Last Chance Open,285,W,DEC,8 - 5,Colin Pederson,84696,George Mason,Magnus Bibla,84535,Buffalo
+2024,02/25,Patriot Last Chance Open,285,L,TF5,17 - 0 2:47,Trevor Tinker,66973,Cal Poly,Magnus Bibla,84535,Buffalo
+2024,02/25,Patriot Last Chance Open,285,L,FALL,2:24,Shane Whitney,76170,Drexel,Magnus Bibla,84535,Buffalo
+2024,01/28,Mat-Town Open II,285,L,FALL,5:47,Charlie Tibbitts,78440,Binghamton,Magnus Bibla,84535,Buffalo
+2024,01/28,Mat-Town Open II,285,L,FALL,0:36,John O'Donnell,72115,Rutgers,Magnus Bibla,84535,Buffalo
+2024,01/19,Buffalo - Lock Haven Dual,285,W,DEC,11 - 6,Ethan Miller,78742,Lock Haven,Magnus Bibla,84535,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,285,W,FALL,0:42,Riley Godek,78722,Bucknell,Magnus Bibla,84535,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,285,L,MD,11 - 0,Ashton Davis,77922,Cornell,Magnus Bibla,84535,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,285,W,DEC,5 - 0,Lance Trost,79006,Michigan,Magnus Bibla,84535,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,285,L,DEC,5 - 2,Dzhabrail Khurshidov,73465,Michigan,Magnus Bibla,84535,Buffalo
+2024,12/29,Midlands Championships,285,L,DEC,6 - 3,Zach Delsanter,78837,Pennsylvania,Magnus Bibla,84535,Buffalo
+2024,12/29,Midlands Championships,285,L,MD,19 - 5,Jacob Christiansen,73347,Northern Illinois,Magnus Bibla,84535,Buffalo
+2024,12/02,Buffalo - Chattanooga Dual,285,L,MD,13 - 0,Kaleb Snodgrass,64676,Chattanooga,Magnus Bibla,84535,Buffalo
+2024,12/02,Buffalo - Kent State Dual,285,L,FALL,3:32,Josh Boggan,79799,Kent State,Magnus Bibla,84535,Buffalo
+2024,11/19,Black Knight Invitational,285,L,FALL,2:23,Cory Day,62418,Binghamton,Magnus Bibla,84535,Buffalo
+2024,11/19,Black Knight Invitational,285,L,DEC,6 - 4,Chris Murphy,78855,Army West Point,Magnus Bibla,84535,Buffalo
+2024,11/17,Northern Colorado - Buffalo Dual,285,L,FALL,0:41,Xavier Doolin,70921,Northern Colorado,Magnus Bibla,84535,Buffalo
+2024,11/05,Clarion Open,285,W,DEC,5 - 0,Dominic Burgett,84360,Purdue,Magnus Bibla,84535,Buffalo
+2024,11/05,Clarion Open,285,L,MD,16 - 5,William McChesney,78517,Columbia,Magnus Bibla,84535,Buffalo
+2024,11/05,Clarion Open,285,L,FALL,0:28,Nicholas Boykin,65950,Ohio State,Magnus Bibla,84535,Buffalo
+2024,01/28,Mat-Town Open II,285,W,DEC,12 - 6,Billy Brosko,84834,Drexel,Robert Unruh,69772,Buffalo
+2024,01/28,Mat-Town Open II,285,L,MD,12 - 3,Charlie Tibbitts,78440,Binghamton,Robert Unruh,69772,Buffalo
+2024,01/28,Mat-Town Open II,285,W,DEC,2 - 0,Shane Whitney,76170,Drexel,Robert Unruh,69772,Buffalo
+2024,01/28,Mat-Town Open II,285,L,DEC,7 - 2,Kyle Epperly,62885,Rutgers,Robert Unruh,69772,Buffalo
+2024,01/20,NYS Collegiate Championships,285,L,TF5,15 - 0 7:00,Chris Powell,80047,LIU,Robert Unruh,69772,Buffalo
+2024,01/20,NYS Collegiate Championships,285,L,FALL,0:13,Vincent Mueller,79467,Columbia,Robert Unruh,69772,Buffalo
+2024,01/20,NYS Collegiate Championships,285,W,FALL,3:27,Jhordyn Innocent,75677,Oneonta State,Robert Unruh,69772,Buffalo
+2024,01/20,NYS Collegiate Championships,285,W,FALL,5:44,Darius Green,69950,Elmira College,Robert Unruh,69772,Buffalo
+2024,01/20,NYS Collegiate Championships,285,W,DEC,2 - 0,Nicholas Barrett,66343,Alfred State,Robert Unruh,69772,Buffalo
+2024,01/07,Southern Illinois Edwardsville - Buffalo Dual,285,L,DEC,5 - 1,Bryson Buhk,78485,SIU Edwardsville,Robert Unruh,69772,Buffalo
+2024,12/29,Midlands Championships,285,L,DEC,7 - 3,Sebastian Garibaldi,72130,Princeton,Robert Unruh,69772,Buffalo
+2024,12/29,Midlands Championships,285,L,DEC,9 - 2,Cole Jackson,71581,Cal Poly,Robert Unruh,69772,Buffalo
+2024,12/17,Buffalo - Bloomsburg Dual,285,W,DEC,8 - 2,Tyler McCatharn,79217,Bloomsburg,Robert Unruh,69772,Buffalo
+2024,12/17,Buffalo - Bucknell Dual,285,L,TF5,18 - 3 4:13,Dorian Crosby,62328,Bucknell,Robert Unruh,69772,Buffalo
+2024,12/10,Buffalo - Rutgers Dual,285,L,MD,9 - 0,John O'Donnell,72115,Rutgers,Robert Unruh,69772,Buffalo
+2024,12/07,Michigan State - Buffalo Dual,285,L,TF5,19 - 4  5:45,Josh Terrill,79322,Michigan State,Robert Unruh,69772,Buffalo
+2024,11/19,Black Knight Invitational,285,L,MD,15 - 3,Xavier Doolin,70921,Northern Colorado,Robert Unruh,69772,Buffalo
+2024,11/19,Black Knight Invitational,285,L,DEC,10 - 3,Peyton McComas,71831,Gardner-Webb,Robert Unruh,69772,Buffalo
+2024,11/17,Virginia - Buffalo Dual,285,L,TF5,21 - 6 6:14,Ryan Catka,72191,Virginia,Robert Unruh,69772,Buffalo
+2024,11/11,Buffalo - Long Island University  Dual,285,L,DEC,6 - 3,Aeden Begue,72233,LIU,Robert Unruh,69772,Buffalo
+2024,11/05,Clarion Open,285,W,FALL,2:03,Tyson Carroll,86109,Spartan Combat RTC,Robert Unruh,69772,Buffalo
+2024,11/05,Clarion Open,285,W,DEC,9 - 3,Dominic Burgett,84360,Purdue,Robert Unruh,69772,Buffalo
+2024,11/05,Clarion Open,285,L,TF5,19 - 4 6:28,Josh Terrill,79322,Michigan State,Robert Unruh,69772,Buffalo
+2024,11/05,Clarion Open,285,L,TF5,21 - 6 7:00,Nolan Neves,72918,Columbia,Robert Unruh,69772,Buffalo
+2024,11/01,Seton Hill - Buffalo Dual,285,W,MD,8 - 0,Ethan Cain,69614,Seton Hill,Robert Unruh,69772,Buffalo
+2024,11/01,Brockport - Buffalo Dual,285,L,MD,12 - 1,Nick Franco,73672,Brockport,Robert Unruh,69772,Buffalo
+2024,03/03,Zingo Nationals,285,L,FALL,4:43,Thomas Grlic,87249,Unattached,Will Hotaling,84274,Buffalo
+2024,03/03,Zingo Nationals,285,L,TF5,18 - 1 1:48,Chris Powell,80047,LIU,Will Hotaling,84274,Buffalo
+2024,02/25,Patriot Last Chance Open,285,L,FALL,6:00,Donovan Sprouse,78363,George Mason,Will Hotaling,84274,Buffalo
+2024,02/25,Patriot Last Chance Open,285,L,DEC,4 - 0,Dom Petracci,79380,Drexel,Will Hotaling,84274,Buffalo
+2024,02/03,Edinboro Open,285,W,FALL,1:19,Parker Wood,87468,Mercyhurst,Will Hotaling,84274,Buffalo
+2024,02/03,Edinboro Open,285,L,FALL,4:55,Brentan Simmerman,84855,Kent State,Will Hotaling,84274,Buffalo
+2024,02/03,Edinboro Open,285,L,FALL,1:35,Charlie Tibbitts,78440,Binghamton,Will Hotaling,84274,Buffalo
+2024,01/28,Mat-Town Open II,285,L,FALL,1:54,Shane Whitney,76170,Drexel,Will Hotaling,84274,Buffalo
+2024,01/28,Mat-Town Open II,285,L,TF5,15 - 0 2:28,Logan Shephard,73758,Bucknell,Will Hotaling,84274,Buffalo
+2024,01/20,NYS Collegiate Championships,285,W,TF5,16 - 0 7:00,Luke Daniels,89817,SUNY Ulster,Will Hotaling,84274,Buffalo
+2024,01/20,NYS Collegiate Championships,285,W,FALL,1:06,Evan Cataldo,82850,Oswego State,Will Hotaling,84274,Buffalo
+2024,01/20,NYS Collegiate Championships,285,L,FALL,5:41,Kenny Jackson,82845,Oneonta State,Will Hotaling,84274,Buffalo
+2024,01/20,NYS Collegiate Championships,285,W,FALL,1:50,Luke Coffin,86533,Brockport,Will Hotaling,84274,Buffalo
+2024,01/14,Purple Raider Open,285,W,MD,11 - 2,Jacob Beeman,87169,Garrett College,Will Hotaling,84274,Buffalo
+2024,01/14,Purple Raider Open,285,L,FALL,2:37,Corey Boerio,79396,Kent State,Will Hotaling,84274,Buffalo
+2024,01/14,Purple Raider Open,285,L,FALL,1:59,Lance Trost,79006,Michigan,Will Hotaling,84274,Buffalo
+2024,01/14,Purple Raider Open,285,W,FALL,4:41,Donelle Taylor-Blackwell,87737,Mount Union,Will Hotaling,84274,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,285,L,TF5,19 - 4 2:28,Logan Shephard,73758,Bucknell,Will Hotaling,84274,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,285,W,DEC,4 - 3,Lance Trost,79006,Michigan,Will Hotaling,84274,Buffalo
+2024,01/07,Bobby Kauffman Memorial Open,285,L,FALL,4:02,Aden Roe,84465,Edinboro,Will Hotaling,84274,Buffalo
+2024,12/03,Storm Open,285,L,FALL,3:02,Tristan Kemp,74521,West Virginia,Will Hotaling,84274,Buffalo
+2024,12/03,Storm Open,285,W,FALL,2:01,Parker Wood,87468,Mercyhurst,Will Hotaling,84274,Buffalo
+2024,12/03,Storm Open,285,L,DEC,8 - 6,Jonathan Graham,88790,Seton Hill,Will Hotaling,84274,Buffalo
+2024,12/03,Storm Open,285,W,FALL,1:08,Aydan Holloway,89442,Waynesburg,Will Hotaling,84274,Buffalo
+2024,11/05,Clarion Open,285,L,FALL,1:19,Josh Boggan,79799,Kent State,Will Hotaling,84274,Buffalo
+2024,11/05,Clarion Open,285,L,FALL,1:53,Peyton McComas,71831,Gardner-Webb,Will Hotaling,84274,Buffalo
+2024,11/01,Glenville State College - Buffalo Dual,285,L,FALL,4:13,Gavin Shamblin,71204,Glenville State University,Will Hotaling,84274,Buffalo

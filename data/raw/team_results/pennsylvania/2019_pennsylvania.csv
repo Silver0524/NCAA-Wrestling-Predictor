@@ -1,0 +1,536 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2019,03/21,NCAA Championships,125,L,DEC,8 - 4,Rayvon Foley,50823,Michigan State,Carmen Ferrante,50660,Pennsylvania
+2019,03/21,NCAA Championships,125,W,SV-1,7 - 5,Alonzo Allen,19765,Chattanooga,Carmen Ferrante,50660,Pennsylvania
+2019,03/21,NCAA Championships,125,L,DEC,2 - 0,Brent Fleetwood,19750,North Dakota State,Carmen Ferrante,50660,Pennsylvania
+2019,03/08,EIWA Championships,125,L,DEC,9 - 4,Patrick Glory,51100,Princeton,Carmen Ferrante,50660,Pennsylvania
+2019,03/08,EIWA Championships,125,W,MD,10 - 0,Ryan Burns,45113,Sacred Heart,Carmen Ferrante,50660,Pennsylvania
+2019,03/08,EIWA Championships,125,W,DEC,6 - 2,Antonio Mininno,50806,Drexel,Carmen Ferrante,50660,Pennsylvania
+2019,03/08,EIWA Championships,125,W,DEC,10 - 5,Joe Manchio,50937,Columbia,Carmen Ferrante,50660,Pennsylvania
+2019,03/08,EIWA Championships,125,L,TB-2,2 - 1,Gage Curry,44583,American,Carmen Ferrante,50660,Pennsylvania
+2019,02/24,Pennsylvania - Lehigh Dual,125,W,DEC,4 - 3,Luke Resnick,51027,Lehigh,Carmen Ferrante,50660,Pennsylvania
+2019,02/17,Pennsylvania - Franklin & Marshall Dual,125,W,MD,16 - 5,Jose Diaz,57229,Franklin & Marshall,Carmen Ferrante,50660,Pennsylvania
+2019,02/17,California Baptist (Calif) - Pennsylvania Dual,125,W,TF5,15 - 0 5:21,Antonio Saldate,57263,Cal Baptist,Carmen Ferrante,50660,Pennsylvania
+2019,02/16,Princeton - Pennsylvania Dual,125,L,DEC,10 - 3,Patrick Glory,51100,Princeton,Carmen Ferrante,50660,Pennsylvania
+2019,02/02,Harvard - Pennsylvania Dual,125,W,MD,14 - 0,Nolan Hellickson,39558,Harvard,Carmen Ferrante,50660,Pennsylvania
+2019,02/02,Brown - Pennsylvania Dual,125,W,MD,8 - 0,Trey Keeley,44696,Brown,Carmen Ferrante,50660,Pennsylvania
+2019,01/20,Army - Pennsylvania Dual,125,W,INJ,7:00,Trey Chalifoux,44745,Army West Point,Carmen Ferrante,50660,Pennsylvania
+2019,01/18,Pennsylvania - Binghamton Dual,125,W,DEC,5 - 1,Audey Ashkar,44989,Binghamton,Carmen Ferrante,50660,Pennsylvania
+2019,01/13,Drexel - Pennsylvania Dual,125,W,DEC,8 - 4,Antonio Mininno,50806,Drexel,Carmen Ferrante,50660,Pennsylvania
+2019,01/06,Pennsylvania - Duke Dual,125,W,TF5,15 - 0 3:06,Harrison Campbell,49125,Duke,Carmen Ferrante,50660,Pennsylvania
+2019,12/29,Midlands Championships,125,W,DEC,5 - 3,Nic Aguilar,51104,Rutgers,Carmen Ferrante,50660,Pennsylvania
+2019,12/29,Midlands Championships,125,L,TF5,20 - 3 7:00,Sebastian Rivera,44799,Northwestern,Carmen Ferrante,50660,Pennsylvania
+2019,12/29,Midlands Championships,125,W,MD,12 - 2,Kyle Biscoglia,51109,Northern Iowa,Carmen Ferrante,50660,Pennsylvania
+2019,12/29,Midlands Championships,125,L,DEC,3 - 2,Elijah Oliver,39583,Indiana,Carmen Ferrante,50660,Pennsylvania
+2019,12/29,Midlands Championships,125,W,MD,10 - 0,Robert Garcia IV,49466,Fresno State,Carmen Ferrante,50660,Pennsylvania
+2019,12/02,Maryland - Pennsylvania Dual,125,W,MD,10 - 1,Brandon Cray,44681,Maryland,Carmen Ferrante,50660,Pennsylvania
+2019,11/29,Pennsylvania - Rider Dual,125,W,DEC,13 - 7,Jonathon Tropea,46048,Rider,Carmen Ferrante,50660,Pennsylvania
+2019,11/18,Keystone Classic,125,L,DEC,7 - 3,Jonathon Tropea,46048,Rider,Carmen Ferrante,50660,Pennsylvania
+2019,11/18,Keystone Classic,125,W,DEC,7 - 3,Nolan Hellickson,39558,Harvard,Carmen Ferrante,50660,Pennsylvania
+2019,11/18,Keystone Classic,125,W,FALL,2:14,Harrison Campbell,49125,Duke,Carmen Ferrante,50660,Pennsylvania
+2019,11/18,Keystone Classic,125,W,FALL,4:03,Dante Mininno,50646,Drexel,Carmen Ferrante,50660,Pennsylvania
+2019,11/03,Michigan State Open,125,W,DEC,5 - 3,Michael DeAugustino,56007,Northwestern,Carmen Ferrante,50660,Pennsylvania
+2019,11/03,Michigan State Open,125,W,MD,18 - 7,Bryce West,50039,Northern Illinois,Carmen Ferrante,50660,Pennsylvania
+2019,11/03,Michigan State Open,125,W,MD,11 - 1,Hunter Lucas,45132,Ohio State,Carmen Ferrante,50660,Pennsylvania
+2019,11/03,Michigan State Open,125,L,DEC,6 - 2,Drew Hildebrandt,44818,Central Michigan,Carmen Ferrante,50660,Pennsylvania
+2019,11/03,Michigan State Open,125,W,FALL,1:07,Kyle Quinn,41237,Notre Dame,Carmen Ferrante,50660,Pennsylvania
+2019,11/03,Michigan State Open,125,L,MD,16 - 7,Rayvon Foley,50823,Michigan State,Carmen Ferrante,50660,Pennsylvania
+2019,03/02,National Collegiate Open,125,L,FALL,0:52,Graham Shore,50580,Air Force Prep,Blair Orr,55804,Pennsylvania
+2019,03/02,National Collegiate Open,125,W,DEC,4 - 3,Jarod Kosman,56590,Maryland,Blair Orr,55804,Pennsylvania
+2019,03/02,National Collegiate Open,125,L,MD,13 - 3,Dalton Rohrbaugh,51091,Lock Haven,Blair Orr,55804,Pennsylvania
+2019,02/24,Mat-Town Open II,125,L,DEC,8 - 1,Dalton Rohrbaugh,51091,Lock Haven,Blair Orr,55804,Pennsylvania
+2019,02/24,Mat-Town Open II,125,L,FALL,3:44,Luke Werner,50282,Lock Haven,Blair Orr,55804,Pennsylvania
+2019,02/09,Pennsylvania - Columbia Dual,125,L,MD,10 - 2,Joe Manchio,50937,Columbia,Blair Orr,55804,Pennsylvania
+2019,02/08,Pennsylvania - Cornell Dual,125,L,TF5,19 - 4 7:00,Vitali Arujau,49108,Cornell,Blair Orr,55804,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,125,W,TF5,18 - 3 5:42,Dragos Robertson,60728,Unattached,Blair Orr,55804,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,125,W,FALL,4:09,Noah Sirianni,45386,Navy,Blair Orr,55804,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,125,L,MD,8 - 0,Dominic LaJoie,49112,Cornell,Blair Orr,55804,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,125,L,DEC,6 - 4,Ryan Hetrick,45638,Army West Point,Blair Orr,55804,Pennsylvania
+2019,01/05,Franklin & Marshall Open,125,W,FALL,1:44,Jerry Lleshi,60670,Middlesex Community College,Blair Orr,55804,Pennsylvania
+2019,01/05,Franklin & Marshall Open,125,L,FALL,5:34,Joey Prata,44734,Virginia Tech,Blair Orr,55804,Pennsylvania
+2019,01/05,Franklin & Marshall Open,125,L,FALL,6:23,Logan Treaster,49205,Navy,Blair Orr,55804,Pennsylvania
+2019,01/05,Franklin & Marshall Open,125,W,SV-1,7 - 1,Jarod Kosman,56590,Maryland,Blair Orr,55804,Pennsylvania
+2019,12/09,Patriots Open,125,L,MD,9 - 1,Sam Latona,56742,Unattached,Blair Orr,55804,Pennsylvania
+2019,12/09,Patriots Open,125,W,DEC,6 - 1,Sean Foley,57285,Rider,Blair Orr,55804,Pennsylvania
+2019,12/09,Patriots Open,125,W,DEC,5 - 4,Jarod Kosman,56590,Maryland,Blair Orr,55804,Pennsylvania
+2019,12/09,Patriots Open,125,W,DEC,13 - 6,Spencer Reed,48319,George Mason,Blair Orr,55804,Pennsylvania
+2019,12/09,Patriots Open,125,L,DEC,5 - 3,Reese Fry,56796,Brown,Blair Orr,55804,Pennsylvania
+2019,12/09,Patriots Open,125,L,DEC,8 - 3,Gage Curry,44583,American,Blair Orr,55804,Pennsylvania
+2019,11/18,Keystone Classic,125,L,DEC,11 - 5,Jonathon Tropea,46048,Rider,Blair Orr,55804,Pennsylvania
+2019,11/18,Keystone Classic,125,L,DEC,3 - 2,Justin Lopez,45141,Penn State,Blair Orr,55804,Pennsylvania
+2019,11/18,Keystone Classic,125,W,DEC,9 - 4,Jose Diaz,57229,Franklin & Marshall,Blair Orr,55804,Pennsylvania
+2019,11/03,Michigan State Open,125,L,DEC,6 - 3,Zach Shupp,51187,Central Michigan,Blair Orr,55804,Pennsylvania
+2019,11/03,Michigan State Open,125,L,MD,15 - 5,Malik Heinselman,50611,Ohio State,Blair Orr,55804,Pennsylvania
+2019,11/03,Michigan State Open,125,W,DEC,9 - 6,Julian Saldaña,46483,Michigan State,Blair Orr,55804,Pennsylvania
+2019,03/08,EIWA Championships,133,W,SV-1,5 - 3,Jonathan Gomez,49300,Princeton,Doug Zapf,50656,Pennsylvania
+2019,03/08,EIWA Championships,133,W,DEC,3 - 2,Casey Cobb,45566,Navy,Doug Zapf,50656,Pennsylvania
+2019,03/08,EIWA Championships,133,L,DEC,5 - 2,Brandon Paetzell,44578,Lehigh,Doug Zapf,50656,Pennsylvania
+2019,03/08,EIWA Championships,133,W,DEC,2 - 1,Lukus Stricker,49139,Harvard,Doug Zapf,50656,Pennsylvania
+2019,03/08,EIWA Championships,133,L,DEC,5 - 2,Chaz Tucker,39771,Cornell,Doug Zapf,50656,Pennsylvania
+2019,03/08,EIWA Championships,133,L,SV-1,7 - 5,Lane Peters,45639,Army West Point,Doug Zapf,50656,Pennsylvania
+2019,02/24,Pennsylvania - Lehigh Dual,133,L,DEC,3 - 0,Brandon Paetzell,44578,Lehigh,Doug Zapf,50656,Pennsylvania
+2019,02/17,Pennsylvania - Franklin & Marshall Dual,141,W,DEC,7 - 6,Haroldo Nesbeth,50165,Franklin & Marshall,Doug Zapf,50656,Pennsylvania
+2019,02/17,California Baptist (Calif) - Pennsylvania Dual,133,W,MD,12 - 4,Adam Velasquez,51704,Cal Baptist,Doug Zapf,50656,Pennsylvania
+2019,02/16,Princeton - Pennsylvania Dual,133,W,DEC,1 - 0,Jonathan Gomez,49300,Princeton,Doug Zapf,50656,Pennsylvania
+2019,02/09,Pennsylvania - Columbia Dual,133,W,DEC,4 - 1,Matthew Kazimir,51644,Columbia,Doug Zapf,50656,Pennsylvania
+2019,02/08,Pennsylvania - Cornell Dual,133,L,DEC,3 - 2,Chaz Tucker,39771,Cornell,Doug Zapf,50656,Pennsylvania
+2019,02/02,Harvard - Pennsylvania Dual,133,L,SV-1,5 - 3,Lukus Stricker,49139,Harvard,Doug Zapf,50656,Pennsylvania
+2019,02/02,Brown - Pennsylvania Dual,133,W,MD,12 - 4,Reese Fry,56796,Brown,Doug Zapf,50656,Pennsylvania
+2019,01/20,Army - Pennsylvania Dual,133,L,DEC,4 - 2,Lane Peters,45639,Army West Point,Doug Zapf,50656,Pennsylvania
+2019,01/18,Pennsylvania - Binghamton Dual,133,L,DEC,4 - 3,Zack Trampe,51913,Binghamton,Doug Zapf,50656,Pennsylvania
+2019,01/13,Drexel - Pennsylvania Dual,133,L,DEC,7 - 2,Chandler Olson,49119,Drexel,Doug Zapf,50656,Pennsylvania
+2019,12/29,Midlands Championships,133,W,DEC,3 - 1,Jens Lantz,20484,Wisconsin,Doug Zapf,50656,Pennsylvania
+2019,12/29,Midlands Championships,133,L,MD,13 - 3,Austin DeSanto,49117,Iowa,Doug Zapf,50656,Pennsylvania
+2019,12/29,Midlands Championships,133,W,DEC,3 - 1,Yoshito Funakoshi,19739,Cal Poly,Doug Zapf,50656,Pennsylvania
+2019,12/29,Midlands Championships,133,L,MD,10 - 2,Josiah Kline,45924,Arizona State,Doug Zapf,50656,Pennsylvania
+2019,12/02,Maryland - Pennsylvania Dual,133,W,MD,12 - 2,Orion Anderson,56379,Maryland,Doug Zapf,50656,Pennsylvania
+2019,11/29,Pennsylvania - Rider Dual,133,L,DEC,6 - 4,Anthony Cefolo,40284,Rider,Doug Zapf,50656,Pennsylvania
+2019,11/18,Keystone Classic,133,L,DEC,5 - 3,Hunter Starner,20701,VMI,Doug Zapf,50656,Pennsylvania
+2019,11/18,Keystone Classic,133,W,FALL,2:10,William Bianchi,56006,Sacred Heart,Doug Zapf,50656,Pennsylvania
+2019,11/18,Keystone Classic,133,W,DEC,5 - 4,Scott Stossel,40229,Penn State,Doug Zapf,50656,Pennsylvania
+2019,11/18,Keystone Classic,133,W,MFOR,0 - 0,Lukus Stricker,49139,Harvard,Doug Zapf,50656,Pennsylvania
+2019,11/03,Michigan State Open,133,W,MD,10 - 2,Moe Rahal,58133,Unattached,Doug Zapf,50656,Pennsylvania
+2019,11/03,Michigan State Open,133,L,DEC,5 - 4,Anthony Madrigal,50633,Oklahoma,Doug Zapf,50656,Pennsylvania
+2019,11/03,Michigan State Open,133,L,DEC,4 - 2,Brock Bergelin,49078,Central Michigan,Doug Zapf,50656,Pennsylvania
+2019,11/03,Michigan State Open,133,W,DEC,9 - 2,Tristin DeVincenzo,39730,Pennsylvania,Doug Zapf,50656,Pennsylvania
+2019,02/02,Messiah Open,133,W,FALL,5:51,Gerhardt Reiter,57675,East Stroudsburg,Jon Guevara,42363,Pennsylvania
+2019,02/02,Messiah Open,133,L,MD,16 - 4,Decklan Fischer,57117,Maryland,Jon Guevara,42363,Pennsylvania
+2019,02/02,Messiah Open,133,W,FALL,0:33,Daoud Ilayan,55645,York,Jon Guevara,42363,Pennsylvania
+2019,02/02,Messiah Open,133,L,MD,15 - 7,Jacob Falleni,55644,The College of New Jersey,Jon Guevara,42363,Pennsylvania
+2019,02/02,Messiah Open,133,L,MD,16 - 5,Verlensky Joachim,50403,York,Jon Guevara,42363,Pennsylvania
+2019,11/18,Keystone Classic,133,W,MD,13 - 1,William Bianchi,56006,Sacred Heart,Jon Guevara,42363,Pennsylvania
+2019,11/18,Keystone Classic,133,L,SV-1,7 - 5,Herbert Edwards,50630,Rider,Jon Guevara,42363,Pennsylvania
+2019,11/18,Keystone Classic,133,L,FALL,0:38,Roman Bravo-Young,49665,Penn State,Jon Guevara,42363,Pennsylvania
+2019,02/17,Pennsylvania - Franklin & Marshall Dual,133,W,DEC,8 - 3,Mike Simonetti,51025,Franklin & Marshall,Tristin DeVincenzo,39730,Pennsylvania
+2019,12/29,Midlands Championships,133,L,MD,13 - 5,Savion Haywood,50829,Old Dominion,Tristin DeVincenzo,39730,Pennsylvania
+2019,12/29,Midlands Championships,133,L,DEC,13 - 8,Hunter Kosco,49058,Brown,Tristin DeVincenzo,39730,Pennsylvania
+2019,12/09,Patriots Open,133,L,MD,9 - 0,Patrick McCormick,57063,Virginia,Tristin DeVincenzo,39730,Pennsylvania
+2019,12/09,Patriots Open,133,L,MD,11 - 3,Luke Ecklof,50471,Rutgers,Tristin DeVincenzo,39730,Pennsylvania
+2019,11/18,Keystone Classic,133,L,DEC,11 - 5,Herbert Edwards,50630,Rider,Tristin DeVincenzo,39730,Pennsylvania
+2019,11/18,Keystone Classic,133,L,MD,11 - 3,Scott Stossel,40229,Penn State,Tristin DeVincenzo,39730,Pennsylvania
+2019,11/03,Michigan State Open,133,L,DEC,9 - 2,Doug Zapf,50656,Pennsylvania,Tristin DeVincenzo,39730,Pennsylvania
+2019,11/03,Michigan State Open,133,L,DEC,12 - 6,Drew West,50041,Northern Illinois,Tristin DeVincenzo,39730,Pennsylvania
+2019,03/08,EIWA Championships,141,L,MD,13 - 3,Marshall Keller,51509,Princeton,AJ Vindici,39785,Pennsylvania
+2019,03/08,EIWA Championships,141,W,DEC,6 - 4,Gerard Daly,40044,Sacred Heart,AJ Vindici,39785,Pennsylvania
+2019,03/08,EIWA Championships,141,L,DEC,16 - 9,Wil Gil,51024,Franklin & Marshall,AJ Vindici,39785,Pennsylvania
+2019,02/24,Pennsylvania - Lehigh Dual,141,L,DEC,5 - 4,Ryan Pomrinca,39667,Lehigh,AJ Vindici,39785,Pennsylvania
+2019,02/17,California Baptist (Calif) - Pennsylvania Dual,141,W,INJ,7:00,Zander Silva,49071,Cal Baptist,AJ Vindici,39785,Pennsylvania
+2019,02/16,Princeton - Pennsylvania Dual,141,L,DEC,6 - 4,Marshall Keller,51509,Princeton,AJ Vindici,39785,Pennsylvania
+2019,02/09,Pennsylvania - Columbia Dual,141,W,DEC,10 - 6,Danny Fongaro,51713,Columbia,AJ Vindici,39785,Pennsylvania
+2019,02/08,Pennsylvania - Cornell Dual,141,L,TF5,16 - 1 1:46,Yianni Diakomihalis,49110,Cornell,AJ Vindici,39785,Pennsylvania
+2019,02/02,Harvard - Pennsylvania Dual,141,W,FALL,7:50,Ryan Friedman,39557,Harvard,AJ Vindici,39785,Pennsylvania
+2019,01/20,Army - Pennsylvania Dual,141,L,MD,16 - 7,Corey Shie,51266,Army West Point,AJ Vindici,39785,Pennsylvania
+2019,01/13,Drexel - Pennsylvania Dual,141,W,DEC,5 - 4,Nick Widmann,40313,Drexel,AJ Vindici,39785,Pennsylvania
+2019,12/29,Midlands Championships,141,W,MD,16 - 7,Jerad Karlen,60615,Omega Training Center,AJ Vindici,39785,Pennsylvania
+2019,12/29,Midlands Championships,141,L,DEC,7 - 3,Josh Alber,20208,Northern Iowa,AJ Vindici,39785,Pennsylvania
+2019,12/29,Midlands Championships,141,W,SV-1,7 - 4,Ryan Friedman,39557,Harvard,AJ Vindici,39785,Pennsylvania
+2019,12/29,Midlands Championships,141,L,DEC,7 - 5,Drew Marten,49077,Central Michigan,AJ Vindici,39785,Pennsylvania
+2019,11/18,Keystone Classic,141,L,MFOR,0 - 0,Grant Aronoff,50891,Pennsylvania,AJ Vindici,39785,Pennsylvania
+2019,11/18,Keystone Classic,141,W,DEC,10 - 4,Dom Giannangeli,40063,Penn State,AJ Vindici,39785,Pennsylvania
+2019,11/18,Keystone Classic,141,W,FALL,1:46,Trevor Tarsi,49140,Harvard,AJ Vindici,39785,Pennsylvania
+2019,11/18,Keystone Classic,141,W,DEC,8 - 1,Ryan Friedman,39557,Harvard,AJ Vindici,39785,Pennsylvania
+2019,11/18,Keystone Classic,141,L,MFOR,0 - 0,Anthony Brito,49035,Appalachian State,AJ Vindici,39785,Pennsylvania
+2019,11/18,Keystone Classic,141,L,DEC,10 - 5,Irvin Enriquez,40401,Appalachian State,AJ Vindici,39785,Pennsylvania
+2019,02/09,Pennsylvania - Columbia Dual,149,L,FALL,3:22,Cole Corrigan,57204,Columbia,Grant Aronoff,50891,Pennsylvania
+2019,02/02,Brown - Pennsylvania Dual,141,W,MD,14 - 5,Colin Realbuto,56797,Brown,Grant Aronoff,50891,Pennsylvania
+2019,01/18,Pennsylvania - Binghamton Dual,141,L,DEC,9 - 6,Anthony Sparacio,47621,Binghamton,Grant Aronoff,50891,Pennsylvania
+2019,01/06,Pennsylvania - Duke Dual,141,L,MD,14 - 6,Josh Finesilver,46112,Duke,Grant Aronoff,50891,Pennsylvania
+2019,12/02,Maryland - Pennsylvania Dual,141,W,DEC,4 - 1,Michael Doetsch,44919,Maryland,Grant Aronoff,50891,Pennsylvania
+2019,11/29,Pennsylvania - Rider Dual,141,W,FALL,1:22,Travis Layton,49041,Rider,Grant Aronoff,50891,Pennsylvania
+2019,11/18,Keystone Classic,141,W,TF5,16 - 0 3:46,Hunter Adams,51116,Sacred Heart,Grant Aronoff,50891,Pennsylvania
+2019,11/18,Keystone Classic,141,W,FALL,2:55,Travis Layton,49041,Rider,Grant Aronoff,50891,Pennsylvania
+2019,11/18,Keystone Classic,141,W,MFOR,0 - 0,AJ Vindici,39785,Pennsylvania,Grant Aronoff,50891,Pennsylvania
+2019,11/18,Keystone Classic,141,L,FALL,4:07,Nick Lee,49276,Penn State,Grant Aronoff,50891,Pennsylvania
+2019,11/18,Keystone Classic,141,W,DEC,9 - 2,Ryan Friedman,39557,Harvard,Grant Aronoff,50891,Pennsylvania
+2019,11/18,Keystone Classic,141,L,FALL,3:55,Irvin Enriquez,40401,Appalachian State,Grant Aronoff,50891,Pennsylvania
+2019,03/21,NCAA Championships,149,L,DEC,6 - 5,Jarrett Degen,44855,Iowa State,Anthony Artalona,51039,Pennsylvania
+2019,03/21,NCAA Championships,149,W,DEC,7 - 2,Cole Martin,39773,Wisconsin,Anthony Artalona,51039,Pennsylvania
+2019,03/21,NCAA Championships,149,W,SV-1,3 - 1,Michael Sprague,19618,American,Anthony Artalona,51039,Pennsylvania
+2019,03/21,NCAA Championships,149,W,TF5,16 - 1 4:17,Matthew Zovistoski,40049,Appalachian State,Anthony Artalona,51039,Pennsylvania
+2019,03/21,NCAA Championships,149,L,DEC,5 - 4,Thomas Thorn,21082,Minnesota,Anthony Artalona,51039,Pennsylvania
+2019,03/08,EIWA Championships,149,W,FALL,2:26,Seth Brown,56585,Sacred Heart,Anthony Artalona,51039,Pennsylvania
+2019,03/08,EIWA Championships,149,W,SV-1,3 - 1,Jared Prince,41363,Navy,Anthony Artalona,51039,Pennsylvania
+2019,03/08,EIWA Championships,149,W,DEC,6 - 3,Cortlandt Schuyler,19989,Lehigh,Anthony Artalona,51039,Pennsylvania
+2019,03/08,EIWA Championships,149,W,SV-1,3 - 1,Jonathan Furnas,39745,Cornell,Anthony Artalona,51039,Pennsylvania
+2019,02/24,Pennsylvania - Lehigh Dual,149,W,SV-1,5 - 4,Cortlandt Schuyler,19989,Lehigh,Anthony Artalona,51039,Pennsylvania
+2019,02/17,Pennsylvania - Franklin & Marshall Dual,149,W,DEC,9 - 6,Patrick Quinlan,20543,Franklin & Marshall,Anthony Artalona,51039,Pennsylvania
+2019,02/17,California Baptist (Calif) - Pennsylvania Dual,149,W,DEC,3 - 2,Daxton Gordon,44358,Cal Baptist,Anthony Artalona,51039,Pennsylvania
+2019,02/16,Princeton - Pennsylvania Dual,149,L,DEC,7 - 5,Matt Kolodzik,45071,Princeton,Anthony Artalona,51039,Pennsylvania
+2019,02/09,Pennsylvania - Columbia Dual,157,L,DEC,3 - 2,Dan Reed,19818,Columbia,Anthony Artalona,51039,Pennsylvania
+2019,02/08,Pennsylvania - Cornell Dual,149,W,SV-1,3 - 1,Jonathan Furnas,39745,Cornell,Anthony Artalona,51039,Pennsylvania
+2019,02/02,Harvard - Pennsylvania Dual,149,W,TF5,20 - 3 4:19,Bobby Groves,56816,Harvard,Anthony Artalona,51039,Pennsylvania
+2019,02/02,Brown - Pennsylvania Dual,149,W,DEC,8 - 4,Zachary Krause,44980,Brown,Anthony Artalona,51039,Pennsylvania
+2019,01/20,Army - Pennsylvania Dual,149,W,MD,13 - 3,Noah Hanau,41273,Army West Point,Anthony Artalona,51039,Pennsylvania
+2019,01/18,Pennsylvania - Binghamton Dual,149,W,FALL,4:15,Frank Garcia,41394,Binghamton,Anthony Artalona,51039,Pennsylvania
+2019,01/13,Drexel - Pennsylvania Dual,149,W,SV-1,6 - 4,Parker Kropman,45187,Drexel,Anthony Artalona,51039,Pennsylvania
+2019,01/06,Pennsylvania - Duke Dual,149,L,DEC,4 - 1,Mitch Finesilver,19861,Duke,Anthony Artalona,51039,Pennsylvania
+2019,12/29,Midlands Championships,149,L,MFOR,0 - 0,Nolan Baker,49234,Northern Illinois,Anthony Artalona,51039,Pennsylvania
+2019,12/29,Midlands Championships,149,L,DEC,5 - 3,Brayton Lee,52079,Minnesota,Anthony Artalona,51039,Pennsylvania
+2019,12/29,Midlands Championships,149,W,DEC,4 - 3,Brock Wilson,49141,Harvard,Anthony Artalona,51039,Pennsylvania
+2019,12/29,Midlands Championships,149,W,DEC,8 - 7,Dresden Simon,44707,Central Michigan,Anthony Artalona,51039,Pennsylvania
+2019,12/02,Maryland - Pennsylvania Dual,149,W,SV-1,5 - 3,Alfred Bannister,19997,Maryland,Anthony Artalona,51039,Pennsylvania
+2019,11/29,Pennsylvania - Rider Dual,149,W,FALL,4:59,Evan Fidelibus,44900,Rider,Anthony Artalona,51039,Pennsylvania
+2019,11/18,Keystone Classic,149,W,DEC,4 - 2,Jarod Verkleeren,49156,Penn State,Anthony Artalona,51039,Pennsylvania
+2019,11/18,Keystone Classic,149,W,DEC,3 - 1,Luke Gardner,44743,Penn State,Anthony Artalona,51039,Pennsylvania
+2019,11/18,Keystone Classic,149,W,TF5,17 - 2 4:52,Chris Martorello,40384,Franklin & Marshall,Anthony Artalona,51039,Pennsylvania
+2019,11/18,Keystone Classic,149,L,DEC,5 - 2,Mitch Finesilver,19861,Duke,Anthony Artalona,51039,Pennsylvania
+2019,11/18,Keystone Classic,149,W,DEC,6 - 3,Trevor Elfvin,51017,Drexel,Anthony Artalona,51039,Pennsylvania
+2019,11/18,Keystone Classic,149,W,TF5,19 - 4 5:59,John Millner,50212,Appalachian State,Anthony Artalona,51039,Pennsylvania
+2019,11/03,Michigan State Open,149,W,TF5,21 - 4 6:05,Breyden Bailey,49237,Indiana,Anthony Artalona,51039,Pennsylvania
+2019,11/03,Michigan State Open,149,W,DEC,9 - 3,AJ Jaffe,44752,Unattached,Anthony Artalona,51039,Pennsylvania
+2019,11/03,Michigan State Open,149,W,DEC,6 - 3,McCoy Kent,39791,Northern Illinois,Anthony Artalona,51039,Pennsylvania
+2019,11/03,Michigan State Open,149,W,DEC,6 - 3,Ben Lamantia,39644,Michigan,Anthony Artalona,51039,Pennsylvania
+2019,03/02,National Collegiate Open,149,L,DEC,5 - 1,PJ Crane,50599,US Naval Academy Prep School,Jeremy Ridge,56192,Pennsylvania
+2019,03/02,National Collegiate Open,149,L,FALL,1:16,AJ Jaffe,44752,Unattached,Jeremy Ridge,56192,Pennsylvania
+2019,03/02,National Collegiate Open,149,W,MD,10 - 0,Tahron Sheffield,57119,Maryland,Jeremy Ridge,56192,Pennsylvania
+2019,02/24,Mat-Town Open II,149,L,MFOR,0 - 0,Jonathan Ross,44894,Lock Haven,Jeremy Ridge,56192,Pennsylvania
+2019,02/24,Mat-Town Open II,149,W,MFOR,0 - 0,PJ Gohn,51063,Edinboro,Jeremy Ridge,56192,Pennsylvania
+2019,02/24,Mat-Town Open II,149,L,TF5,19 - 2 6:30,Jonathan Furnas,39745,Cornell,Jeremy Ridge,56192,Pennsylvania
+2019,02/02,Messiah Open,149,W,DEC,8 - 1,Dustin Kudrick,61468,Lycoming,Jeremy Ridge,56192,Pennsylvania
+2019,02/02,Messiah Open,149,L,DEC,7 - 3,Chad Cantroll,59584,Liberty University,Jeremy Ridge,56192,Pennsylvania
+2019,02/02,Messiah Open,149,L,SV-1,7 - 4,Max Livingston,51016,Drexel,Jeremy Ridge,56192,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,149,L,DEC,8 - 3,PJ Crane,50599,US Naval Academy Prep School,Jeremy Ridge,56192,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,149,W,DEC,3 - 1,Zackery Zeamer,57141,Oklahoma,Jeremy Ridge,56192,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,149,W,DEC,8 - 1,Sean Coakley,57228,Franklin & Marshall,Jeremy Ridge,56192,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,149,L,DEC,3 - 1,Chase McCollum,54179,Franklin & Marshall,Jeremy Ridge,56192,Pennsylvania
+2019,12/09,Patriots Open,149,W,DEC,6 - 1,Lucas Escobar,21274,Johns Hopkins,Jeremy Ridge,56192,Pennsylvania
+2019,12/09,Patriots Open,149,W,MFOR,0 - 0,Lucas Ortiz,45226,Lock Haven,Jeremy Ridge,56192,Pennsylvania
+2019,12/09,Patriots Open,149,L,DEC,6 - 3,Justin Yorkdale,45347,George Mason,Jeremy Ridge,56192,Pennsylvania
+2019,12/09,Patriots Open,149,L,DEC,7 - 5,Jake Benner,50617,Rutgers,Jeremy Ridge,56192,Pennsylvania
+2019,11/18,Keystone Classic,149,L,MD,13 - 0,Brock Wilson,49141,Harvard,Jeremy Ridge,56192,Pennsylvania
+2019,11/18,Keystone Classic,149,L,MD,10 - 2,John Millner,50212,Appalachian State,Jeremy Ridge,56192,Pennsylvania
+2019,03/08,EIWA Championships,157,L,FALL,1:26,Quentin Hovis,49199,Navy,Joe Oliva,20318,Pennsylvania
+2019,03/08,EIWA Championships,157,L,FALL,2:51,Josh Humphreys,55860,Lehigh,Joe Oliva,20318,Pennsylvania
+2019,03/08,EIWA Championships,157,W,DEC,7 - 6,Adam Santoro,46089,Cornell,Joe Oliva,20318,Pennsylvania
+2019,02/24,Pennsylvania - Lehigh Dual,157,L,DEC,5 - 3,Josh Humphreys,55860,Lehigh,Joe Oliva,20318,Pennsylvania
+2019,02/17,Pennsylvania - Franklin & Marshall Dual,157,W,MD,10 - 1,Cole Aaron,44902,Franklin & Marshall,Joe Oliva,20318,Pennsylvania
+2019,02/17,California Baptist (Calif) - Pennsylvania Dual,157,W,DEC,7 - 2,Jaron Pagaduan,52964,Cal Baptist,Joe Oliva,20318,Pennsylvania
+2019,02/16,Princeton - Pennsylvania Dual,157,L,DEC,10 - 5,Quincy Monday,53967,Princeton,Joe Oliva,20318,Pennsylvania
+2019,02/02,Brown - Pennsylvania Dual,157,W,DEC,5 - 0,Christian LaBrie,19701,Brown,Joe Oliva,20318,Pennsylvania
+2019,01/13,Drexel - Pennsylvania Dual,157,W,SV-1,7 - 5,Evan Barczak,49122,Drexel,Joe Oliva,20318,Pennsylvania
+2019,01/06,Pennsylvania - Duke Dual,157,W,MD,13 - 5,Benjamin Anderson,51087,Duke,Joe Oliva,20318,Pennsylvania
+2019,12/29,Midlands Championships,157,W,FALL,5:52,Patrick Spray,45008,Wisconsin,Joe Oliva,20318,Pennsylvania
+2019,12/29,Midlands Championships,157,W,DEC,8 - 2,Pat Schoenfelder,50280,Northern Iowa,Joe Oliva,20318,Pennsylvania
+2019,12/29,Midlands Championships,157,L,DEC,9 - 8,Eric Barone,39566,Illinois,Joe Oliva,20318,Pennsylvania
+2019,12/29,Midlands Championships,157,L,SV-1,8 - 6,Jacob Wright,49463,Fresno State,Joe Oliva,20318,Pennsylvania
+2019,12/09,Patriots Open,157,L,DEC,8 - 4,Tyler Megonigal,57357,Lock Haven,Joe Oliva,20318,Pennsylvania
+2019,12/09,Patriots Open,157,W,MD,8 - 0,Austin Wilson,56381,Lock Haven,Joe Oliva,20318,Pennsylvania
+2019,12/09,Patriots Open,157,L,DEC,8 - 5,Jack Bokina,56798,Brown,Joe Oliva,20318,Pennsylvania
+2019,12/02,Maryland - Pennsylvania Dual,157,L,DEC,12 - 10,Adam Whitesell,20016,Maryland,Joe Oliva,20318,Pennsylvania
+2019,11/29,Pennsylvania - Rider Dual,157,L,SV-1,7 - 5,Gino Fluri,40130,Rider,Joe Oliva,20318,Pennsylvania
+2019,11/18,Keystone Classic,157,L,MFOR,0 - 0,Jon Errico,45265,Pennsylvania,Joe Oliva,20318,Pennsylvania
+2019,11/18,Keystone Classic,157,L,SV-1,5 - 4,Hunter Ladnier,44784,Harvard,Joe Oliva,20318,Pennsylvania
+2019,11/18,Keystone Classic,157,W,TF5,17 - 0 4:23,Brandon Leynaud,42790,Duke,Joe Oliva,20318,Pennsylvania
+2019,12/29,Midlands Championships,157,W,MD,17 - 8,Anders Lantz,51005,Wisconsin,Jon Errico,45265,Pennsylvania
+2019,12/29,Midlands Championships,157,L,FALL,4:48,Ryan Deakin,44716,Northwestern,Jon Errico,45265,Pennsylvania
+2019,12/29,Midlands Championships,157,L,DEC,7 - 5,Tracy Hubbard,57361,Central Michigan,Jon Errico,45265,Pennsylvania
+2019,11/18,Keystone Classic,157,W,MFOR,0 - 0,Joe Oliva,20318,Pennsylvania,Jon Errico,45265,Pennsylvania
+2019,11/18,Keystone Classic,157,L,DEC,11 - 6,Hunter Ladnier,44784,Harvard,Jon Errico,45265,Pennsylvania
+2019,11/18,Keystone Classic,157,L,DEC,7 - 4,Emmett LiCastri,45213,Franklin & Marshall,Jon Errico,45265,Pennsylvania
+2019,11/18,Keystone Classic,157,W,DEC,6 - 0,Felix Belga,44764,Drexel,Jon Errico,45265,Pennsylvania
+2019,11/18,Keystone Classic,157,W,MD,13 - 2,Angel Najar,40406,Appalachian State,Jon Errico,45265,Pennsylvania
+2019,11/18,Keystone Classic,157,W,FALL,5:13,Matthew Zovistoski,40049,Appalachian State,Jon Errico,45265,Pennsylvania
+2019,01/20,Army - Pennsylvania Dual,157,L,DEC,7 - 0,Luke Weiland,41243,Army West Point,Jacob Lizak,44795,Pennsylvania
+2019,01/18,Pennsylvania - Binghamton Dual,157,L,DEC,7 - 5,Dylan Wood,51028,Binghamton,Jacob Lizak,44795,Pennsylvania
+2019,03/02,National Collegiate Open,157,L,DEC,12 - 6,Joe Casey,51145,Rider,Willy Kaiser,56008,Pennsylvania
+2019,03/02,National Collegiate Open,157,L,FALL,5:21,Hunter Michaels,51134,Clarion,Willy Kaiser,56008,Pennsylvania
+2019,02/24,Mat-Town Open II,157,W,DEC,4 - 2,Austin Wilson,56381,Lock Haven,Willy Kaiser,56008,Pennsylvania
+2019,02/24,Mat-Town Open II,157,L,DEC,5 - 4,Zac Feight,55948,George Mason,Willy Kaiser,56008,Pennsylvania
+2019,02/24,Mat-Town Open II,157,L,FALL,7:51,Matthew Dowler,44891,Edinboro,Willy Kaiser,56008,Pennsylvania
+2019,02/08,Pennsylvania - Cornell Dual,157,L,FALL,4:06,Adam Santoro,46089,Cornell,Willy Kaiser,56008,Pennsylvania
+2019,02/02,Harvard - Pennsylvania Dual,157,W,DEC,8 - 6,Aaron Kruk,44797,Harvard,Willy Kaiser,56008,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,157,W,MD,12 - 3,Anthony Patsy,52040,Pennsylvania,Willy Kaiser,56008,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,157,L,FALL,0:28,Tanner Cook,51408,Spartan Combat RTC,Willy Kaiser,56008,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,157,L,FALL,4:31,Cole Smith,50659,Old Dominion,Willy Kaiser,56008,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,157,W,DEC,5 - 3,Alex Carida,56789,Bloomsburg,Willy Kaiser,56008,Pennsylvania
+2019,01/05,Franklin & Marshall Open,157,W,DEC,7 - 2,Ali Salem,60682,Unattached,Willy Kaiser,56008,Pennsylvania
+2019,01/05,Franklin & Marshall Open,157,L,FALL,2:34,Stefahn Mayo,58229,Unattached,Willy Kaiser,56008,Pennsylvania
+2019,01/05,Franklin & Marshall Open,157,L,FALL,1:36,Quincy Monday,53967,Princeton,Willy Kaiser,56008,Pennsylvania
+2019,01/05,Franklin & Marshall Open,157,W,DEC,5 - 2,TJ Calas,49309,Sacred Heart,Willy Kaiser,56008,Pennsylvania
+2019,12/09,Patriots Open,157,L,DEC,11 - 4,Austin Wilson,56381,Lock Haven,Willy Kaiser,56008,Pennsylvania
+2019,12/09,Patriots Open,157,W,DEC,6 - 4,Ryan Yorkdale,45348,George Mason,Willy Kaiser,56008,Pennsylvania
+2019,12/09,Patriots Open,157,L,DEC,10 - 3,Kizhan Clarke,44878,American,Willy Kaiser,56008,Pennsylvania
+2019,11/18,Keystone Classic,157,W,DEC,3 - 2,Gary Dinmore,23397,Rider,Willy Kaiser,56008,Pennsylvania
+2019,11/18,Keystone Classic,157,L,DEC,5 - 4,Bo Pipher,45075,Penn State,Willy Kaiser,56008,Pennsylvania
+2019,11/18,Keystone Classic,157,W,DEC,8 - 5,Noah Chan,57227,Franklin & Marshall,Willy Kaiser,56008,Pennsylvania
+2019,11/18,Keystone Classic,157,L,FALL,4:37,Evan Barczak,49122,Drexel,Willy Kaiser,56008,Pennsylvania
+2019,11/03,Michigan State Open,157,W,DEC,4 - 3,Tracy Hubbard,57361,Central Michigan,Willy Kaiser,56008,Pennsylvania
+2019,11/03,Michigan State Open,157,L,SV-1,5 - 3,Izzak Olejnik,56509,Northern Illinois,Willy Kaiser,56008,Pennsylvania
+2019,11/03,Michigan State Open,157,W,TF5,17 - 2 4:26,Anthony Chambers,55780,Edinboro,Willy Kaiser,56008,Pennsylvania
+2019,11/03,Michigan State Open,157,L,DEC,7 - 3,Graham Rooks,51283,Indiana,Willy Kaiser,56008,Pennsylvania
+2019,03/02,National Collegiate Open,157,L,MD,10 - 1,Joe Casey,51145,Rider,Carl Antrassian,45263,Pennsylvania
+2019,03/02,National Collegiate Open,157,L,DEC,7 - 4,Lavinsky Collins,51268,Clarion,Carl Antrassian,45263,Pennsylvania
+2019,03/02,National Collegiate Open,157,W,DEC,9 - 8,Hunter Michaels,51134,Clarion,Carl Antrassian,45263,Pennsylvania
+2019,02/02,Messiah Open,157,W,FALL,4:54,Carter Ellis,61297,Liberty University,Carl Antrassian,45263,Pennsylvania
+2019,02/02,Messiah Open,157,W,DEC,6 - 4,Paul Feite,56605,Penn State,Carl Antrassian,45263,Pennsylvania
+2019,02/02,Messiah Open,157,W,DEC,5 - 0,Matt Pangle,53989,Messiah,Carl Antrassian,45263,Pennsylvania
+2019,02/02,Messiah Open,157,L,DEC,6 - 3,Matt Pangle,53989,Messiah,Carl Antrassian,45263,Pennsylvania
+2019,02/02,Messiah Open,157,W,DEC,11 - 6,Anthony Colello,51660,Pitt-Johnstown,Carl Antrassian,45263,Pennsylvania
+2019,02/02,Messiah Open,157,L,FALL,0:50,Trevor Elfvin,51017,Drexel,Carl Antrassian,45263,Pennsylvania
+2019,12/29,Midlands Championships,157,L,DEC,5 - 1,Erich Byelick,50837,Northwestern,Carl Antrassian,45263,Pennsylvania
+2019,12/29,Midlands Championships,157,L,FALL,2:38,Logan Parks,40153,Central Michigan,Carl Antrassian,45263,Pennsylvania
+2019,12/09,Patriots Open,157,L,DEC,7 - 1,Justin McCoy,50946,Virginia,Carl Antrassian,45263,Pennsylvania
+2019,12/09,Patriots Open,157,L,DEC,11 - 6,Hunter Jones,45169,West Virginia,Carl Antrassian,45263,Pennsylvania
+2019,11/18,Keystone Classic,157,L,MD,12 - 3,Gino Fluri,40130,Rider,Carl Antrassian,45263,Pennsylvania
+2019,11/18,Keystone Classic,157,L,FALL,2:15,Jason Nolf,20303,Penn State,Carl Antrassian,45263,Pennsylvania
+2019,11/03,Michigan State Open,157,L,MD,9 - 0,Erich Byelick,50837,Northwestern,Carl Antrassian,45263,Pennsylvania
+2019,11/03,Michigan State Open,157,L,DEC,8 - 1,Kameron Bush,49080,Central Michigan,Carl Antrassian,45263,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,157,L,MD,12 - 3,Willy Kaiser,56008,Pennsylvania,Anthony Patsy,52040,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,157,L,DEC,6 - 2,Gavin Leath,60458,Nassau Community College,Anthony Patsy,52040,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,157,W,MD,15 - 6,Alex Dilegge,55173,Nassau Community College,Anthony Patsy,52040,Pennsylvania
+2019,11/03,Michigan State Open,157,L,DEC,6 - 3,Elijah Davis,51421,Purdue,Anthony Patsy,52040,Pennsylvania
+2019,11/03,Michigan State Open,157,L,MD,18 - 7,Kendall Coleman,50626,Purdue,Anthony Patsy,52040,Pennsylvania
+2019,11/03,Michigan State Open,157,W,MD,11 - 3,Jimmy Muscato,51211,Michigan State,Anthony Patsy,52040,Pennsylvania
+2019,03/08,EIWA Championships,165,L,DEC,2 - 0,Tanner Skidgel,49200,Navy,Evan DeLuise,52039,Pennsylvania
+2019,03/08,EIWA Championships,165,L,DEC,6 - 3,Gordon Wolf,19992,Lehigh,Evan DeLuise,52039,Pennsylvania
+2019,03/08,EIWA Championships,165,W,DEC,4 - 1,Crew Fullerton,57225,Franklin & Marshall,Evan DeLuise,52039,Pennsylvania
+2019,02/17,Pennsylvania - Franklin & Marshall Dual,165,W,MD,10 - 2,Crew Fullerton,57225,Franklin & Marshall,Evan DeLuise,52039,Pennsylvania
+2019,02/17,California Baptist (Calif) - Pennsylvania Dual,165,W,DEC,3 - 2,Jacob Cooper,52270,Cal Baptist,Evan DeLuise,52039,Pennsylvania
+2019,02/16,Princeton - Pennsylvania Dual,165,L,DEC,2 - 1,Leonard Merkin,45014,Princeton,Evan DeLuise,52039,Pennsylvania
+2019,02/09,Pennsylvania - Columbia Dual,165,L,DEC,5 - 0,Laurence Kosoy,45330,Columbia,Evan DeLuise,52039,Pennsylvania
+2019,02/08,Pennsylvania - Cornell Dual,165,L,DEC,3 - 2,Andrew Berreyesa,49111,Cornell,Evan DeLuise,52039,Pennsylvania
+2019,02/02,Harvard - Pennsylvania Dual,165,W,DEC,5 - 4,Tyler Tarsi,19922,Harvard,Evan DeLuise,52039,Pennsylvania
+2019,02/02,Brown - Pennsylvania Dual,165,L,DEC,2 - 0,Jonathan Viruet,39839,Brown,Evan DeLuise,52039,Pennsylvania
+2019,01/18,Pennsylvania - Binghamton Dual,165,L,SV-1,10 - 8,Aidan Monteverdi,49048,Binghamton,Evan DeLuise,52039,Pennsylvania
+2019,01/13,Drexel - Pennsylvania Dual,165,L,DEC,4 - 2,Ebed Jarrell,40311,Drexel,Evan DeLuise,52039,Pennsylvania
+2019,01/06,Pennsylvania - Duke Dual,165,L,DEC,12 - 8,Zach Finesilver,19862,Duke,Evan DeLuise,52039,Pennsylvania
+2019,12/29,Midlands Championships,165,L,MD,15 - 4,Evan Wick,44730,Wisconsin,Evan DeLuise,52039,Pennsylvania
+2019,12/29,Midlands Championships,165,W,DEC,7 - 4,Jeremiah Moody,39968,Iowa,Evan DeLuise,52039,Pennsylvania
+2019,12/29,Midlands Championships,165,L,DEC,5 - 3,Troy Keller,47129,Buffalo,Evan DeLuise,52039,Pennsylvania
+2019,12/02,Maryland - Pennsylvania Dual,165,W,SV-1,3 - 1,Philip Spadafora,51167,Maryland,Evan DeLuise,52039,Pennsylvania
+2019,11/29,Pennsylvania - Rider Dual,165,L,MD,10 - 2,Jesse Dellavecchia,39574,Rider,Evan DeLuise,52039,Pennsylvania
+2019,11/18,Keystone Classic,165,W,FALL,1:27,Luke Nicksic,57295,VMI,Evan DeLuise,52039,Pennsylvania
+2019,11/18,Keystone Classic,165,W,FALL,1:17,Neil Antrassian,56202,Pennsylvania,Evan DeLuise,52039,Pennsylvania
+2019,11/18,Keystone Classic,165,W,MFOR,0 - 0,Jesse Dellavecchia,39574,Rider,Evan DeLuise,52039,Pennsylvania
+2019,11/18,Keystone Classic,165,L,FALL,4:29,Vincenzo Joseph,39542,Penn State,Evan DeLuise,52039,Pennsylvania
+2019,11/18,Keystone Classic,165,L,DEC,3 - 2,Joshua Kim,51200,Harvard,Evan DeLuise,52039,Pennsylvania
+2019,11/18,Keystone Classic,165,W,DEC,6 - 4,Joseph Accousti,49034,Appalachian State,Evan DeLuise,52039,Pennsylvania
+2019,11/03,Michigan State Open,165,L,DEC,3 - 2,Kenny Moore,46406,Northern Illinois,Evan DeLuise,52039,Pennsylvania
+2019,11/03,Michigan State Open,165,W,MD,16 - 4,Jr Andrejcik,41274,Notre Dame,Evan DeLuise,52039,Pennsylvania
+2019,11/03,Michigan State Open,165,L,DEC,5 - 3,Austin Hiles,44866,Michigan State,Evan DeLuise,52039,Pennsylvania
+2019,02/24,Mat-Town Open II,165,W,FALL,4:30,Ali Salem,58299,George Mason,Jack Conway,44785,Pennsylvania
+2019,02/24,Mat-Town Open II,165,W,DEC,5 - 2,Cole Painter,57256,American,Jack Conway,44785,Pennsylvania
+2019,02/24,Mat-Town Open II,165,L,DEC,8 - 4,Anthony Wokasch,44729,American,Jack Conway,44785,Pennsylvania
+2019,02/24,Mat-Town Open II,165,L,MFOR,0 - 0,Te'Shan Campbell,40351,Ohio State,Jack Conway,44785,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,165,W,DEC,9 - 2,Nathan Thacker,56186,Spartan Combat RTC,Jack Conway,44785,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,165,W,DEC,5 - 2,Crew Fullerton,57225,Franklin & Marshall,Jack Conway,44785,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,165,L,DEC,9 - 3,Mitchell Hartman,45921,Bucknell,Jack Conway,44785,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,165,L,DEC,6 - 2,Brad Laughlin,51265,Army West Point,Jack Conway,44785,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,165,W,DEC,7 - 2,Owen Brown,50437,Army West Point,Jack Conway,44785,Pennsylvania
+2019,12/29,Midlands Championships,165,W,MD,9 - 0,Jack Bond,56516,Old Dominion,Jack Conway,44785,Pennsylvania
+2019,12/29,Midlands Championships,165,L,FALL,3:40,Kellen Ekern,51041,Old Dominion,Jack Conway,44785,Pennsylvania
+2019,12/29,Midlands Championships,165,W,FALL,4:23,Anthony Petrone,39585,Northwestern,Jack Conway,44785,Pennsylvania
+2019,12/29,Midlands Championships,165,L,DEC,10 - 3,Tyler Tarsi,19922,Harvard,Jack Conway,44785,Pennsylvania
+2019,12/09,Patriots Open,165,L,DEC,7 - 3,Krystian Kinsey,57061,Virginia,Jack Conway,44785,Pennsylvania
+2019,12/09,Patriots Open,165,W,DEC,4 - 0,Tucker Nadeau,56465,West Virginia,Jack Conway,44785,Pennsylvania
+2019,12/09,Patriots Open,165,W,FALL,4:10,Jacob Starkey,52846,West Virginia,Jack Conway,44785,Pennsylvania
+2019,12/09,Patriots Open,165,W,DEC,14 - 11,Lucas Cordio,57120,Maryland,Jack Conway,44785,Pennsylvania
+2019,12/09,Patriots Open,165,L,FALL,1:50,Colston DiBlasi,39718,George Mason,Jack Conway,44785,Pennsylvania
+2019,12/09,Patriots Open,165,W,DEC,10 - 9,Anthony Wokasch,44729,American,Jack Conway,44785,Pennsylvania
+2019,03/02,National Collegiate Open,165,L,MD,15 - 6,Hadley Harrison,44268,Unattached,Neil Antrassian,56202,Pennsylvania
+2019,03/02,National Collegiate Open,165,L,FALL,1:57,Timothy Fitzpatrick,57254,American,Neil Antrassian,56202,Pennsylvania
+2019,03/02,National Collegiate Open,165,W,DEC,7 - 6,Jacob Cooper,52270,Cal Baptist,Neil Antrassian,56202,Pennsylvania
+2019,02/24,Pennsylvania - Lehigh Dual,165,L,DEC,4 - 3,Kent Lane,39601,Lehigh,Neil Antrassian,56202,Pennsylvania
+2019,01/20,Army - Pennsylvania Dual,165,L,DEC,12 - 6,Cael McCormick,44622,Army West Point,Neil Antrassian,56202,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,165,W,DEC,11 - 5,Andrew Merola,50667,Spartan Combat RTC,Neil Antrassian,56202,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,165,L,FALL,2:30,Shane Ruhnke,24247,Millersville,Neil Antrassian,56202,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,165,W,DEC,6 - 1,Dillon Taylor,49202,Navy,Neil Antrassian,56202,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,165,W,FALL,3:46,Ali Salem,58299,George Mason,Neil Antrassian,56202,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,165,W,DEC,4 - 3,Jack Mulay,49063,Bucknell,Neil Antrassian,56202,Pennsylvania
+2019,12/29,Midlands Championships,165,L,MD,13 - 4,Joey Gunther,39725,Illinois,Neil Antrassian,56202,Pennsylvania
+2019,12/29,Midlands Championships,165,L,DEC,7 - 2,Brad Laughlin,51265,Army West Point,Neil Antrassian,56202,Pennsylvania
+2019,12/09,Patriots Open,165,L,TF5,22 - 7 7:00,Hunter Kernan,57929,Pittsburgh,Neil Antrassian,56202,Pennsylvania
+2019,12/09,Patriots Open,165,W,DEC,3 - 1,Jacob Conners,19887,Franklin & Marshall,Neil Antrassian,56202,Pennsylvania
+2019,12/09,Patriots Open,165,W,DEC,8 - 5,Bryce Dempsey,51011,American,Neil Antrassian,56202,Pennsylvania
+2019,12/09,Patriots Open,165,L,FALL,2:37,Anthony Wokasch,44729,American,Neil Antrassian,56202,Pennsylvania
+2019,11/18,Keystone Classic,165,L,FALL,1:17,Evan DeLuise,52039,Pennsylvania,Neil Antrassian,56202,Pennsylvania
+2019,11/18,Keystone Classic,165,W,FALL,4:56,Joseph Eiden,50301,Sacred Heart,Neil Antrassian,56202,Pennsylvania
+2019,11/18,Keystone Classic,165,L,TF5,17 - 2 7:00,Jesse Dellavecchia,39574,Rider,Neil Antrassian,56202,Pennsylvania
+2019,11/18,Keystone Classic,165,W,TF5,15 - 0 6:03,Maliik Marcin,51088,Duke,Neil Antrassian,56202,Pennsylvania
+2019,11/03,Michigan State Open,165,L,DEC,5 - 3,Mike Carpenter,58129,Unattached,Neil Antrassian,56202,Pennsylvania
+2019,11/03,Michigan State Open,165,W,DEC,11 - 4,Hunter Reed,56437,Findlay,Neil Antrassian,56202,Pennsylvania
+2019,11/03,Michigan State Open,165,L,DEC,13 - 9,Laine Frazee,51722,Purdue,Neil Antrassian,56202,Pennsylvania
+2019,11/03,Michigan State Open,165,W,MD,14 - 2,Ian Burress,57081,Michigan State,Neil Antrassian,56202,Pennsylvania
+2019,11/18,Keystone Classic,165,L,TF5,18 - 3 6:04,Brandon Levesque,40048,Sacred Heart,AJ Geers,44806,Pennsylvania
+2019,11/18,Keystone Classic,165,L,FALL,1:21,Joshua Kim,51200,Harvard,AJ Geers,44806,Pennsylvania
+2019,03/02,National Collegiate Open,165,L,DEC,9 - 6,Jacob Garcia,50888,Air Force Prep,Josh Swanson,56157,Pennsylvania
+2019,03/02,National Collegiate Open,165,L,FALL,2:14,Jack Peura,44868,Clarion,Josh Swanson,56157,Pennsylvania
+2019,02/24,Mat-Town Open II,165,L,FALL,2:40,Kaleb Romero,49252,Ohio State,Josh Swanson,56157,Pennsylvania
+2019,02/24,Mat-Town Open II,165,L,MFOR,0 - 0,Bryce Dempsey,51011,American,Josh Swanson,56157,Pennsylvania
+2019,02/02,Messiah Open,165,L,TF5,18 - 0 4:19,Konner Kraeszig,57104,Penn State,Josh Swanson,56157,Pennsylvania
+2019,02/02,Messiah Open,165,W,MD,15 - 5,Kyle Strazdus,56550,York,Josh Swanson,56157,Pennsylvania
+2019,02/02,Messiah Open,165,W,SV-1,9 - 7,Logan Witwicki,51679,Pitt-Johnstown,Josh Swanson,56157,Pennsylvania
+2019,02/02,Messiah Open,165,L,FALL,1:05,Bryce Dempsey,51011,American,Josh Swanson,56157,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,165,L,TF5,17 - 2 5:05,Kellen Ekern,51041,Old Dominion,Josh Swanson,56157,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,165,L,TF5,16 - 1 6:07,Owen Brown,50437,Army West Point,Josh Swanson,56157,Pennsylvania
+2019,12/09,Patriots Open,165,L,DEC,5 - 3,Timothy Fitzpatrick,57254,American,Josh Swanson,56157,Pennsylvania
+2019,12/09,Patriots Open,165,L,DEC,11 - 4,Brett Donner,44581,Rutgers,Josh Swanson,56157,Pennsylvania
+2019,11/18,Keystone Classic,165,L,MD,15 - 3,Crew Fullerton,57225,Franklin & Marshall,Josh Swanson,56157,Pennsylvania
+2019,11/18,Keystone Classic,165,L,MD,9 - 1,Michael Manley,46182,Drexel,Josh Swanson,56157,Pennsylvania
+2019,11/03,Michigan State Open,165,L,FALL,2:09,Ryne Lewis,58131,Notre Dame,Josh Swanson,56157,Pennsylvania
+2019,11/03,Michigan State Open,165,L,MD,9 - 1,Hunter Reed,56437,Findlay,Josh Swanson,56157,Pennsylvania
+2019,03/08,EIWA Championships,174,W,DEC,6 - 2,Jacob Conners,19887,Franklin & Marshall,Jake Hendricks,50657,Pennsylvania
+2019,03/08,EIWA Championships,174,L,FALL,6:09,Vincent DePrez,19651,Binghamton,Jake Hendricks,50657,Pennsylvania
+2019,03/08,EIWA Championships,174,L,DEC,6 - 0,Ben Harvey,40935,Army West Point,Jake Hendricks,50657,Pennsylvania
+2019,02/24,Pennsylvania - Lehigh Dual,174,L,MD,14 - 4,Jordan Kutler,39626,Lehigh,Jake Hendricks,50657,Pennsylvania
+2019,02/17,Pennsylvania - Franklin & Marshall Dual,174,W,DEC,5 - 3,Jacob Conners,19887,Franklin & Marshall,Jake Hendricks,50657,Pennsylvania
+2019,02/17,California Baptist (Calif) - Pennsylvania Dual,174,W,DEC,7 - 4,Bryce Buckley,49895,Cal Baptist,Jake Hendricks,50657,Pennsylvania
+2019,02/16,Princeton - Pennsylvania Dual,174,L,MD,10 - 2,Travis Stefanik,49301,Princeton,Jake Hendricks,50657,Pennsylvania
+2019,02/09,Pennsylvania - Columbia Dual,174,L,FALL,8:48,Max Elling,39877,Columbia,Jake Hendricks,50657,Pennsylvania
+2019,02/08,Pennsylvania - Cornell Dual,174,L,FALL,1:01,Brandon Womack,40379,Cornell,Jake Hendricks,50657,Pennsylvania
+2019,02/02,Harvard - Pennsylvania Dual,174,L,DEC,3 - 2,Leonardo Tarantino,51222,Harvard,Jake Hendricks,50657,Pennsylvania
+2019,02/02,Brown - Pennsylvania Dual,174,L,DEC,7 - 1,AJ Pedro,49056,Brown,Jake Hendricks,50657,Pennsylvania
+2019,01/20,Army - Pennsylvania Dual,174,L,MD,11 - 1,Ben Harvey,40935,Army West Point,Jake Hendricks,50657,Pennsylvania
+2019,01/18,Pennsylvania - Binghamton Dual,174,L,MD,9 - 1,Vincent DePrez,19651,Binghamton,Jake Hendricks,50657,Pennsylvania
+2019,01/13,Drexel - Pennsylvania Dual,174,L,DEC,8 - 7,Bryan McLaughlin,49120,Drexel,Jake Hendricks,50657,Pennsylvania
+2019,12/29,Midlands Championships,174,W,DEC,11 - 7,Kyle Peisker,48299,Chicago,Jake Hendricks,50657,Pennsylvania
+2019,12/29,Midlands Championships,174,W,MFOR,0 - 0,Joseph Grello,44858,Rutgers,Jake Hendricks,50657,Pennsylvania
+2019,12/29,Midlands Championships,174,L,DEC,3 - 2,Willie Scott,39861,Rutgers,Jake Hendricks,50657,Pennsylvania
+2019,12/29,Midlands Championships,174,L,MD,10 - 1,Clay Lautt,49212,North Carolina,Jake Hendricks,50657,Pennsylvania
+2019,12/29,Midlands Championships,174,W,DEC,4 - 3,Collin Lieber,49084,Central Michigan,Jake Hendricks,50657,Pennsylvania
+2019,12/02,Maryland - Pennsylvania Dual,174,W,DEC,2 - 1,Josh Ugalde,39515,Maryland,Jake Hendricks,50657,Pennsylvania
+2019,11/29,Pennsylvania - Rider Dual,174,W,DEC,14 - 9,Dean Sherry,40019,Rider,Jake Hendricks,50657,Pennsylvania
+2019,11/18,Keystone Classic,174,L,DEC,4 - 1,Anthony Falbo,51716,Sacred Heart,Jake Hendricks,50657,Pennsylvania
+2019,11/18,Keystone Classic,174,L,MD,14 - 4,Neal Richards,39991,VMI,Jake Hendricks,50657,Pennsylvania
+2019,11/18,Keystone Classic,174,W,DEC,8 - 6,Thomas Flitz,45410,Appalachian State,Jake Hendricks,50657,Pennsylvania
+2019,11/03,Michigan State Open,174,W,TF5,19 - 4 6:26,Daniel Heintz,58130,Unattached,Jake Hendricks,50657,Pennsylvania
+2019,11/03,Michigan State Open,174,L,DEC,8 - 1,Anthony Mantanona,49258,Oklahoma,Jake Hendricks,50657,Pennsylvania
+2019,11/03,Michigan State Open,174,W,FALL,2:45,Emilio Fowler,41290,Notre Dame,Jake Hendricks,50657,Pennsylvania
+2019,11/03,Michigan State Open,174,L,DEC,8 - 3,Jairod James,19971,Mount Union,Jake Hendricks,50657,Pennsylvania
+2019,03/02,National Collegiate Open,174,W,TF5,16 - 1 3:14,Jackson Nevadomski,58153,Davenport,Brian Krasowski,44804,Pennsylvania
+2019,03/02,National Collegiate Open,174,W,TF5,15 - 0 4:41,Caleb Hopkins,56482,Campbell,Brian Krasowski,44804,Pennsylvania
+2019,03/02,National Collegiate Open,174,L,FALL,2:21,Evan Bockman,57270,Cal Baptist,Brian Krasowski,44804,Pennsylvania
+2019,03/02,National Collegiate Open,174,L,DEC,6 - 2,Brad Laughlin,51265,Army West Point,Brian Krasowski,44804,Pennsylvania
+2019,02/24,Mat-Town Open II,174,L,DEC,3 - 2,Brinton Simington,57358,Lock Haven,Brian Krasowski,44804,Pennsylvania
+2019,02/24,Mat-Town Open II,174,L,MD,10 - 2,Colin Shannon,50060,American,Brian Krasowski,44804,Pennsylvania
+2019,02/02,Messiah Open,174,W,TF5,16 - 0 2:22,Michael Salter,61469,Stony Brook,Brian Krasowski,44804,Pennsylvania
+2019,02/02,Messiah Open,174,W,TF5,17 - 2 4:17,Tadeo Arce,61466,Montclair State WC,Brian Krasowski,44804,Pennsylvania
+2019,02/02,Messiah Open,174,W,MD,13 - 1,Andrew Todaro,57408,Pitt-Johnstown,Brian Krasowski,44804,Pennsylvania
+2019,02/02,Messiah Open,174,W,TF5,17 - 1 3:16,Jake Nielson,57121,Maryland,Brian Krasowski,44804,Pennsylvania
+2019,02/02,Messiah Open,174,W,DEC,8 - 4,Christopher Bolletino,54922,Franklin & Marshall,Brian Krasowski,44804,Pennsylvania
+2019,02/02,Messiah Open,174,L,DEC,7 - 3,Colin Shannon,50060,American,Brian Krasowski,44804,Pennsylvania
+2019,01/06,Pennsylvania - Duke Dual,174,L,TF5,17 - 1 5:28,Matt Finesilver,47770,Duke,Brian Krasowski,44804,Pennsylvania
+2019,12/29,Midlands Championships,174,W,TF5,16 - 0 7:00,Devon Sievers,51006,South Dakota State,Brian Krasowski,44804,Pennsylvania
+2019,12/29,Midlands Championships,174,L,MD,16 - 5,Travis Stefanik,49301,Princeton,Brian Krasowski,44804,Pennsylvania
+2019,12/29,Midlands Championships,174,L,MD,14 - 4,Carver James,39662,Illinois,Brian Krasowski,44804,Pennsylvania
+2019,11/18,Keystone Classic,174,L,MD,18 - 9,Dean Sherry,40019,Rider,Brian Krasowski,44804,Pennsylvania
+2019,11/18,Keystone Classic,174,L,SV-1,6 - 4,Bryan McLaughlin,49120,Drexel,Brian Krasowski,44804,Pennsylvania
+2019,11/03,Michigan State Open,174,L,DEC,7 - 6,Max Maylor,56310,Michigan,Jason Montgomery,51110,Pennsylvania
+2019,11/03,Michigan State Open,174,W,FALL,2:58,Sebastian Rawls,57373,Michigan,Jason Montgomery,51110,Pennsylvania
+2019,11/03,Michigan State Open,174,W,DEC,7 - 4,Hayden Krein,51038,Northern Illinois,Jason Montgomery,51110,Pennsylvania
+2019,11/03,Michigan State Open,174,L,TF5,18 - 2 5:38,Layne Malczewski,51828,Michigan State,Jason Montgomery,51110,Pennsylvania
+2019,03/08,EIWA Championships,184,L,FALL,2:19,Ryan Preisch,19987,Lehigh,Robert Ng,39792,Pennsylvania
+2019,03/08,EIWA Championships,184,L,DEC,5 - 3,Trey Rogers,51099,Hofstra,Robert Ng,39792,Pennsylvania
+2019,02/17,California Baptist (Calif) - Pennsylvania Dual,184,W,SV-1,5 - 3,Garrett Strang,47064,Cal Baptist,Robert Ng,39792,Pennsylvania
+2019,02/16,Princeton - Pennsylvania Dual,184,L,MD,14 - 3,Kevin Parker,44710,Princeton,Robert Ng,39792,Pennsylvania
+2019,02/09,Pennsylvania - Columbia Dual,184,L,SV-1,7 - 1,Brian Bonino,51034,Columbia,Robert Ng,39792,Pennsylvania
+2019,02/08,Pennsylvania - Cornell Dual,184,L,MD,12 - 3,Jacob Taylor,41354,Cornell,Robert Ng,39792,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,184,W,MD,13 - 5,Blake Barrick,51186,American,Robert Ng,39792,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,184,W,MD,8 - 0,Nicholas Fierro,49314,Sacred Heart,Robert Ng,39792,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,184,L,DEC,11 - 10,Evan Morrill,48203,Millersville,Robert Ng,39792,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,184,L,FALL,4:27,Alex Benoit,41416,Navy,Robert Ng,39792,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,184,W,DEC,6 - 3,Jacob Young,40233,Columbia,Robert Ng,39792,Pennsylvania
+2019,01/06,Pennsylvania - Duke Dual,184,L,MD,12 - 4,Kaden Russell,49124,Duke,Robert Ng,39792,Pennsylvania
+2019,12/29,Midlands Championships,184,L,DEC,7 - 3,Kyle Jasenski,51164,Maryland,Robert Ng,39792,Pennsylvania
+2019,12/29,Midlands Championships,184,L,MD,12 - 3,AJ Pedro,49056,Brown,Robert Ng,39792,Pennsylvania
+2019,02/02,Harvard - Pennsylvania Dual,184,W,MD,11 - 3,Pierce Bausano,56814,Harvard,Jalen Laughlin,45266,Pennsylvania
+2019,02/02,Brown - Pennsylvania Dual,184,L,MD,15 - 5,Christian LaFragola,40032,Brown,Jalen Laughlin,45266,Pennsylvania
+2019,01/18,Pennsylvania - Binghamton Dual,184,L,TF5,15 - 0 7:00,Louie DePrez,49046,Binghamton,Jalen Laughlin,45266,Pennsylvania
+2019,01/13,Drexel - Pennsylvania Dual,184,L,DEC,10 - 5,Anthony Walters,50831,Drexel,Jalen Laughlin,45266,Pennsylvania
+2019,12/29,Midlands Championships,184,L,DEC,9 - 4,Bob Coleman,45118,Oregon State,Jalen Laughlin,45266,Pennsylvania
+2019,12/29,Midlands Championships,184,W,DEC,5 - 0,Brendan Devine,57086,Northwestern,Jalen Laughlin,45266,Pennsylvania
+2019,12/29,Midlands Championships,184,L,MD,14 - 6,Will Feldkamp,51599,Northern Illinois,Jalen Laughlin,45266,Pennsylvania
+2019,12/29,Midlands Championships,184,W,MFOR,0 - 0,Noah Stewart,44599,Army West Point,Jalen Laughlin,45266,Pennsylvania
+2019,12/09,Patriots Open,184,L,MFOR,0 - 0,Victor Marcelli,50587,Virginia,Jalen Laughlin,45266,Pennsylvania
+2019,12/09,Patriots Open,184,W,DEC,3 - 2,Cameron Caldarelli,44952,Buffalo,Jalen Laughlin,45266,Pennsylvania
+2019,12/09,Patriots Open,184,L,MFOR,0 - 0,AJ Pedro,49056,Brown,Jalen Laughlin,45266,Pennsylvania
+2019,12/09,Patriots Open,184,W,DEC,4 - 3,Blake Barrick,51186,American,Jalen Laughlin,45266,Pennsylvania
+2019,12/09,Patriots Open,184,L,MFOR,0 - 0,Billy Janzer,49473,Rutgers,Jalen Laughlin,45266,Pennsylvania
+2019,11/18,Keystone Classic,184,L,MFOR,0 - 0,Jacob Harrison,51831,Sacred Heart,Jalen Laughlin,45266,Pennsylvania
+2019,11/18,Keystone Classic,184,W,DEC,6 - 2,Jimmy Stillerman,45210,Franklin & Marshall,Jalen Laughlin,45266,Pennsylvania
+2019,11/18,Keystone Classic,184,L,MD,12 - 3,Alan Clothier,45412,Appalachian State,Jalen Laughlin,45266,Pennsylvania
+2019,03/02,National Collegiate Open,184,W,DEC,6 - 2,Garrett Niel,59653,Air Force Prep,Ryan Farber,49283,Pennsylvania
+2019,03/02,National Collegiate Open,184,L,TF5,19 - 3 6:56,Victor Marcelli,50587,Virginia,Ryan Farber,49283,Pennsylvania
+2019,03/02,National Collegiate Open,184,L,DEC,12 - 5,Connor Doyle,45379,Navy,Ryan Farber,49283,Pennsylvania
+2019,02/24,Pennsylvania - Lehigh Dual,184,L,FALL,4:37,Ryan Preisch,19987,Lehigh,Ryan Farber,49283,Pennsylvania
+2019,01/20,Army - Pennsylvania Dual,184,L,TF5,15 - 0 4:43,Noah Stewart,44599,Army West Point,Ryan Farber,49283,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,184,L,FALL,0:56,Adolfo Batista,60469,Nassau Community College,Ryan Farber,49283,Pennsylvania
+2019,01/12,Shorty Hitchcock Open,184,L,MD,20 - 6,Alex Benoit,41416,Navy,Ryan Farber,49283,Pennsylvania
+2019,12/29,Midlands Championships,184,L,DEC,9 - 2,Ben Cushman,57359,Central Michigan,Ryan Farber,49283,Pennsylvania
+2019,12/29,Midlands Championships,184,L,MD,14 - 1,Ethan Tursini,24437,Army West Point,Ryan Farber,49283,Pennsylvania
+2019,12/02,Maryland - Pennsylvania Dual,184,L,DEC,7 - 5,Kyle Jasenski,51164,Maryland,Ryan Farber,49283,Pennsylvania
+2019,11/29,Pennsylvania - Rider Dual,184,L,MD,17 - 6,Michale Fagg-Daves,20352,Rider,Ryan Farber,49283,Pennsylvania
+2019,11/18,Keystone Classic,184,L,MD,11 - 2,Francisco Bisono,40230,Penn State,Ryan Farber,49283,Pennsylvania
+2019,11/18,Keystone Classic,184,L,FALL,1:15,Kaden Russell,49124,Duke,Ryan Farber,49283,Pennsylvania
+2019,11/03,Michigan State Open,184,L,FALL,2:47,Ben Cushman,57359,Central Michigan,Ryan Farber,49283,Pennsylvania
+2019,11/03,Michigan State Open,184,L,MD,9 - 0,Thomas Penola,57105,Purdue,Ryan Farber,49283,Pennsylvania
+2019,11/03,Michigan State Open,184,L,FALL,4:33,Gavin Hoffman,50609,Ohio State,Ryan Farber,49283,Pennsylvania
+2019,11/03,Michigan State Open,184,W,DEC,10 - 4,Wyatt Cool,57080,Michigan State,Ryan Farber,49283,Pennsylvania
+2019,03/08,EIWA Championships,197,L,TF5,16 - 1 3:41,Patrick Brucki,49296,Princeton,Gregory Bensley,56214,Pennsylvania
+2019,03/08,EIWA Championships,197,L,FALL,3:20,Phillip Robilotto,12411,Franklin & Marshall,Gregory Bensley,56214,Pennsylvania
+2019,02/24,Pennsylvania - Lehigh Dual,197,L,FALL,1:19,Jake Jakobsen,46924,Lehigh,Gregory Bensley,56214,Pennsylvania
+2019,02/17,Pennsylvania - Franklin & Marshall Dual,197,L,DEC,9 - 3,Phillip Robilotto,12411,Franklin & Marshall,Gregory Bensley,56214,Pennsylvania
+2019,02/17,California Baptist (Calif) - Pennsylvania Dual,197,W,FALL,3:57,Ali'i Loyola,52963,Cal Baptist,Gregory Bensley,56214,Pennsylvania
+2019,02/16,Princeton - Pennsylvania Dual,197,L,TF5,17 - 2 4:02,Patrick Brucki,49296,Princeton,Gregory Bensley,56214,Pennsylvania
+2019,02/09,Pennsylvania - Columbia Dual,197,W,DEC,10 - 9,Sam Wustefeld,57272,Columbia,Gregory Bensley,56214,Pennsylvania
+2019,02/08,Pennsylvania - Cornell Dual,197,L,TF5,16 - 1 5:33,Benjamin Honis,43656,Cornell,Gregory Bensley,56214,Pennsylvania
+2019,02/02,Harvard - Pennsylvania Dual,197,W,MD,17 - 7,Cole Bateman,49142,Harvard,Gregory Bensley,56214,Pennsylvania
+2019,01/20,Army - Pennsylvania Dual,197,L,DEC,10 - 7,Rocco Caywood,22565,Army West Point,Gregory Bensley,56214,Pennsylvania
+2019,01/13,Drexel - Pennsylvania Dual,197,W,DEC,6 - 0,Owen Brooks,45256,Drexel,Gregory Bensley,56214,Pennsylvania
+2019,12/09,Patriots Open,197,L,DEC,4 - 1,Cole Nye,49185,Pittsburgh,Gregory Bensley,56214,Pennsylvania
+2019,12/09,Patriots Open,197,W,DEC,8 - 1,William Gilliam,43881,Johns Hopkins,Gregory Bensley,56214,Pennsylvania
+2019,12/09,Patriots Open,197,W,MD,13 - 1,Alex Donahue,54386,George Mason,Gregory Bensley,56214,Pennsylvania
+2019,12/09,Patriots Open,197,L,DEC,6 - 0,Eli Spencer,45318,George Mason,Gregory Bensley,56214,Pennsylvania
+2019,12/09,Patriots Open,197,W,MFOR,0 - 0,David Heath,51172,Brown,Gregory Bensley,56214,Pennsylvania
+2019,11/18,Keystone Classic,197,L,TF5,16 - 1 2:53,Ethan Laird,50134,Rider,Gregory Bensley,56214,Pennsylvania
+2019,11/18,Keystone Classic,197,L,FALL,4:44,Phillip Robilotto,12411,Franklin & Marshall,Gregory Bensley,56214,Pennsylvania
+2019,11/18,Keystone Classic,197,L,DEC,4 - 1,Stephen Loiseau,19851,Drexel,Gregory Bensley,56214,Pennsylvania
+2019,11/18,Keystone Classic,197,W,FALL,5:33,Demazio Samuel,45414,Appalachian State,Gregory Bensley,56214,Pennsylvania
+2019,11/03,Michigan State Open,197,W,FALL,2:39,Joe Marcano,58132,Notre Dame,Gregory Bensley,56214,Pennsylvania
+2019,11/03,Michigan State Open,197,L,MFOR,0 - 0,Dennis Whitehead,58127,Notre Dame,Gregory Bensley,56214,Pennsylvania
+2019,11/03,Michigan State Open,197,L,DEC,5 - 2,Gage Braun,51647,Northern Illinois,Gregory Bensley,56214,Pennsylvania
+2019,11/03,Michigan State Open,197,L,SV-1,9 - 7,Mason Kroening,50158,Ohio,Gregory Bensley,56214,Pennsylvania
+2019,02/02,Brown - Pennsylvania Dual,197,L,DEC,9 - 3,Tucker Ziegler,39913,Brown,Patrik Garren,20313,Pennsylvania
+2019,01/18,Pennsylvania - Binghamton Dual,197,W,DEC,13 - 7,Alexander Melikian,45021,Binghamton,Patrik Garren,20313,Pennsylvania
+2019,12/29,Midlands Championships,197,L,DEC,7 - 2,Brett Perry,19726,Buffalo,Patrik Garren,20313,Pennsylvania
+2019,12/29,Midlands Championships,197,L,DEC,4 - 0,Drew Phipps,45224,Bucknell,Patrik Garren,20313,Pennsylvania
+2019,12/02,Maryland - Pennsylvania Dual,197,W,DEC,8 - 3,David-Brian Whisler,40241,Maryland,Patrik Garren,20313,Pennsylvania
+2019,11/29,Pennsylvania - Rider Dual,197,L,DEC,6 - 1,Ethan Laird,50134,Rider,Patrik Garren,20313,Pennsylvania
+2019,11/18,Keystone Classic,197,L,MFOR,0 - 0,Tyler Hall,39555,Pennsylvania,Patrik Garren,20313,Pennsylvania
+2019,11/18,Keystone Classic,197,L,TF5,16 - 0 5:00,Ethan Laird,50134,Rider,Patrik Garren,20313,Pennsylvania
+2019,02/02,Messiah Open,197,W,FALL,1:26,Freddy Whippy,61470,Montclair State WC,Tyler Hall,39555,Pennsylvania
+2019,02/02,Messiah Open,197,W,FALL,1:43,Matt Cornely,61467,The College of New Jersey,Tyler Hall,39555,Pennsylvania
+2019,02/02,Messiah Open,197,W,FALL,3:06,Josiah Murphy,61163,Liberty University,Tyler Hall,39555,Pennsylvania
+2019,02/02,Messiah Open,197,L,DEC,8 - 2,Austin Amos,55193,Liberty University,Tyler Hall,39555,Pennsylvania
+2019,02/02,Messiah Open,197,W,FALL,2:39,Michael Reinhart,50420,York,Tyler Hall,39555,Pennsylvania
+2019,02/02,Messiah Open,197,W,MD,13 - 0,Abraham Correa-Medina,45350,American,Tyler Hall,39555,Pennsylvania
+2019,01/06,Pennsylvania - Duke Dual,197,L,FALL,0:55,Alec Schenk,19869,Duke,Tyler Hall,39555,Pennsylvania
+2019,12/29,Midlands Championships,197,L,FALL,4:28,Andre Lee,19938,Illinois,Tyler Hall,39555,Pennsylvania
+2019,12/29,Midlands Championships,197,L,TF5,18 - 0 7:00,Thomas Lane,39966,Cal Poly,Tyler Hall,39555,Pennsylvania
+2019,11/18,Keystone Classic,197,L,DEC,10 - 6,Mark Blokh,51119,Sacred Heart,Tyler Hall,39555,Pennsylvania
+2019,11/18,Keystone Classic,197,W,MFOR,0 - 0,Patrik Garren,20313,Pennsylvania,Tyler Hall,39555,Pennsylvania
+2019,11/18,Keystone Classic,197,L,FALL,0:39,Phillip Robilotto,12411,Franklin & Marshall,Tyler Hall,39555,Pennsylvania
+2019,03/08,EIWA Championships,285,W,DEC,2 - 0,Thomas Ott,40265,Navy,Ben Goldin,50827,Pennsylvania
+2019,03/08,EIWA Championships,285,L,DEC,4 - 0,Joey Goodhart,19849,Drexel,Ben Goldin,50827,Pennsylvania
+2019,03/08,EIWA Championships,285,L,TF5,18 - 0 2:46,Joe Doyle,49050,Binghamton,Ben Goldin,50827,Pennsylvania
+2019,02/24,Pennsylvania - Lehigh Dual,285,L,FALL,1:36,Jordan Wood,45107,Lehigh,Ben Goldin,50827,Pennsylvania
+2019,02/17,Pennsylvania - Franklin & Marshall Dual,285,L,DEC,3 - 2,Antonio Pelusi,19894,Franklin & Marshall,Ben Goldin,50827,Pennsylvania
+2019,02/17,California Baptist (Calif) - Pennsylvania Dual,285,W,DEC,2 - 0,Zach Schrader,45168,Cal Baptist,Ben Goldin,50827,Pennsylvania
+2019,02/16,Princeton - Pennsylvania Dual,285,W,DEC,4 - 0,Kendall Elfstrum,49299,Princeton,Ben Goldin,50827,Pennsylvania
+2019,02/09,Pennsylvania - Columbia Dual,285,W,DEC,3 - 1,Daniel Herman,51035,Columbia,Ben Goldin,50827,Pennsylvania
+2019,02/08,Pennsylvania - Cornell Dual,285,L,DEC,4 - 2,Jeramy Sweany,40382,Cornell,Ben Goldin,50827,Pennsylvania
+2019,02/02,Brown - Pennsylvania Dual,285,L,DEC,4 - 0,Ian Butterbrodt,39770,Brown,Ben Goldin,50827,Pennsylvania
+2019,01/20,Army - Pennsylvania Dual,285,L,DEC,2 - 0,Ben Sullivan,49040,Army West Point,Ben Goldin,50827,Pennsylvania
+2019,01/18,Pennsylvania - Binghamton Dual,285,L,DEC,5 - 2,Joe Doyle,49050,Binghamton,Ben Goldin,50827,Pennsylvania
+2019,01/13,Drexel - Pennsylvania Dual,285,L,MD,11 - 3,Joey Goodhart,19849,Drexel,Ben Goldin,50827,Pennsylvania
+2019,01/06,Pennsylvania - Duke Dual,285,W,DEC,5 - 2,Araad Fisher,40068,Duke,Ben Goldin,50827,Pennsylvania
+2019,12/29,Midlands Championships,285,L,DEC,7 - 4,Terrese Aaron,51827,Northern Illinois,Ben Goldin,50827,Pennsylvania
+2019,12/29,Midlands Championships,285,L,DEC,3 - 1,Caleb Gossett,40013,Northern Illinois,Ben Goldin,50827,Pennsylvania
+2019,12/02,Maryland - Pennsylvania Dual,285,W,DEC,9 - 3,Mansur Abdul-Malik,49171,Maryland,Ben Goldin,50827,Pennsylvania
+2019,11/29,Pennsylvania - Rider Dual,285,L,DEC,5 - 3,Ryan Cloud,39972,Rider,Ben Goldin,50827,Pennsylvania
+2019,11/18,Keystone Classic,285,W,DEC,4 - 2,James Brady,57279,Rider,Ben Goldin,50827,Pennsylvania
+2019,11/18,Keystone Classic,285,L,FALL,1:20,Anthony Cassar,20299,Penn State,Ben Goldin,50827,Pennsylvania
+2019,11/18,Keystone Classic,285,W,MFOR,0 - 0,Evan Callahan,50874,Harvard,Ben Goldin,50827,Pennsylvania
+2019,11/18,Keystone Classic,285,L,DEC,4 - 0,Cary Miller,39976,Appalachian State,Ben Goldin,50827,Pennsylvania
+2019,11/03,Michigan State Open,285,W,TB-1,3 - 2,Zachery Nemec,49183,Michigan,Ben Goldin,50827,Pennsylvania
+2019,11/03,Michigan State Open,285,L,MD,15 - 4,Chase Beard,51214,Michigan State,Ben Goldin,50827,Pennsylvania
+2019,11/03,Michigan State Open,285,L,DEC,2 - 1,Christian Rebottaro,44850,Michigan State,Ben Goldin,50827,Pennsylvania

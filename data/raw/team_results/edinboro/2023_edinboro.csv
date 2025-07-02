@@ -1,0 +1,569 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2023,01/27,Edinboro - Clarion Dual,125,L,DEC,2 - 0,Joseph Fischer,68702,Clarion,Aiden Lewis,71750,Edinboro
+2023,01/21,George Mason - Edinboro Dual,125,L,DEC,5 - 0,Markel Baker,78892,George Mason,Aiden Lewis,71750,Edinboro
+2023,01/14,Cleveland State - Edinboro Dual,125,W,DEC,8 - 1,Benjamin Aranda,71804,Cleveland State,Aiden Lewis,71750,Edinboro
+2023,01/07,Oklahoma - Edinboro Dual,125,L,DEC,5 - 4,Joey Prata,44734,Oklahoma,Aiden Lewis,71750,Edinboro
+2023,12/18,Bucknell - Edinboro Dual,125,W,MD,10 - 0,Grayson McLellan,79295,Bucknell,Aiden Lewis,71750,Edinboro
+2023,12/18,Edinboro - Buffalo Dual,125,L,DEC,6 - 5,Mason Bush,72224,Buffalo,Aiden Lewis,71750,Edinboro
+2023,12/10,Ohio - Edinboro Dual,125,L,DEC,8 - 3,Oscar Sanchez,57320,Ohio,Aiden Lewis,71750,Edinboro
+2023,12/02,Cliff Keen Invitational,125,L,FALL,1:30,Kase Mauger,65846,Utah Valley,Aiden Lewis,71750,Edinboro
+2023,12/02,Cliff Keen Invitational,125,L,DEC,8 - 4,Kurt McHenry,56182,Michigan,Aiden Lewis,71750,Edinboro
+2023,12/02,Cliff Keen Invitational,125,W,DEC,5 - 1,Blair Orr,55804,The Citadel,Aiden Lewis,71750,Edinboro
+2023,11/20,Northern Colorado - Edinboro Dual,125,L,MD,13 - 0,Stevo Poulin,71929,Northern Colorado,Aiden Lewis,71750,Edinboro
+2023,11/06,Clarion Open,125,L,MD,16 - 5,Jax Forrest,81114,Unattached,Aiden Lewis,71750,Edinboro
+2023,11/06,Clarion Open,125,W,DEC,10 - 8,Nico Calello,73713,Kent State,Aiden Lewis,71750,Edinboro
+2023,11/06,Clarion Open,125,L,DEC,4 - 1,Colton Camacho,58029,Pittsburgh,Aiden Lewis,71750,Edinboro
+2023,11/06,Clarion Open,125,W,DEC,12 - 7,Dayton DelViscio,73322,Navy,Aiden Lewis,71750,Edinboro
+2023,11/06,Clarion Open,125,W,MD,12 - 0,Matthew Rowland,80035,Gardner-Webb,Aiden Lewis,71750,Edinboro
+2023,02/16,Thursday Throw Down,125,W,TF5,16 - 0 7:00,Joey Gabler,70299,Gannon,Lane Aikey,71975,Edinboro
+2023,02/16,Thursday Throw Down,125,L,MD,11 - 3,Jake Ferri,51179,Kent State,Lane Aikey,71975,Edinboro
+2023,02/12,JCU Open,125,L,DEC,7 - 4,Anthony Aniciete,78617,Tiffin University,Lane Aikey,71975,Edinboro
+2023,02/12,JCU Open,125,W,FALL,0:57,Johnny Novak,74137,Baldwin Wallace,Lane Aikey,71975,Edinboro
+2023,02/25,Zingo National Collegiate open,125,L,MD,10 - 2,Brady Pruett,73565,Pennsylvania,Caleb Edwards,72216,Edinboro
+2023,02/25,Zingo National Collegiate open,125,L,INJ,1:27,Troy Hohman,75816,NC State,Caleb Edwards,72216,Edinboro
+2023,02/16,Thursday Throw Down,125,W,DEC,10 - 3,Joey Gabler,70299,Gannon,Caleb Edwards,72216,Edinboro
+2023,02/16,Thursday Throw Down,125,L,TF5,19 - 3 7:00,Jake Ferri,51179,Kent State,Caleb Edwards,72216,Edinboro
+2023,02/12,JCU Open,125,L,DEC,8 - 5,Anthony Sagaris,72639,Lake Erie College,Caleb Edwards,72216,Edinboro
+2023,02/12,JCU Open,125,L,DEC,4 - 3,Jordan Rodriguez,69533,Lake Erie College,Caleb Edwards,72216,Edinboro
+2023,02/05,Edinboro Open,125,L,DEC,4 - 3,Zach Bellissimo,79416,Gannon,Caleb Edwards,72216,Edinboro
+2023,02/05,Edinboro Open,125,L,FALL,0:18,Andre Gonzales,72135,Ohio State,Caleb Edwards,72216,Edinboro
+2023,01/17,Tuesday Throw Down II,125,W,FALL,1:47,Joey Gabler,70299,Gannon,Caleb Edwards,72216,Edinboro
+2023,01/17,Tuesday Throw Down II,125,W,DEC,8 - 2,Dylan Mayer,72203,Gannon,Caleb Edwards,72216,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,125,L,FALL,0:59,Jordan Rodriguez,69533,Lake Erie College,Caleb Edwards,72216,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,125,L,FALL,6:11,Andre Gonzales,72135,Ohio State,Caleb Edwards,72216,Edinboro
+2023,12/04,Lake Erie Storm Open,125,L,DEC,7 - 0,Anthony Aniciete,78617,Tiffin University,Caleb Edwards,72216,Edinboro
+2023,12/04,Lake Erie Storm Open,125,L,FALL,3:49,Jordan Rodriguez,69533,Lake Erie College,Caleb Edwards,72216,Edinboro
+2023,12/04,Lake Erie Storm Open,125,W,MFOR,0 - 0,Zach Bellissimo,79416,Gannon,Chris Merlo,69410,Edinboro
+2023,12/04,Lake Erie Storm Open,125,L,DEC,8 - 3,Anthony Aniciete,78617,Tiffin University,Chris Merlo,69410,Edinboro
+2023,12/04,Lake Erie Storm Open,125,L,MD,10 - 1,Benjamin Aranda,71804,Cleveland State,Chris Merlo,69410,Edinboro
+2023,11/12,App State Open,125,L,DEC,6 - 1,Aedyn Concepcion,69782,Gardner-Webb,Chris Merlo,69410,Edinboro
+2023,11/12,App State Open,125,W,DEC,3 - 2,Colby McBride,79082,Appalachian State,Chris Merlo,69410,Edinboro
+2023,11/12,App State Open,125,L,MD,10 - 0,Noah Luna,79081,Appalachian State,Chris Merlo,69410,Edinboro
+2023,11/06,Clarion Open,125,L,DEC,4 - 1,Foster Cardinale,77874,Spartan Combat RTC,Chris Merlo,69410,Edinboro
+2023,11/06,Clarion Open,125,L,TF5,20 - 3 6:57,Matt Ramos,57134,Purdue,Chris Merlo,69410,Edinboro
+2023,02/17,Edinboro - Bloomsburg Dual,125,L,MD,10 - 2,Bronson Garber,56759,Bloomsburg,Eamonn Jimenez,78779,Edinboro
+2023,02/16,Edinboro - Lock Haven Dual,125,L,FALL,2:46,Anthony Noto,64642,Lock Haven,Eamonn Jimenez,78779,Edinboro
+2023,02/12,JCU Open,125,L,DEC,5 - 2,Anthony Aniciete,78617,Tiffin University,Eamonn Jimenez,78779,Edinboro
+2023,02/12,JCU Open,125,W,DEC,8 - 5,Johnny Novak,74137,Baldwin Wallace,Eamonn Jimenez,78779,Edinboro
+2023,02/10,Rider - Edinboro Dual,125,L,TF5,23 - 8 7:00,Tyler Klinsky,62353,Rider,Eamonn Jimenez,78779,Edinboro
+2023,02/05,Edinboro Open,125,L,FALL,4:37,Jordan Rodriguez,69533,Lake Erie College,Eamonn Jimenez,78779,Edinboro
+2023,02/05,Edinboro Open,125,L,FALL,3:38,Colton Drousias,63171,West Virginia,Eamonn Jimenez,78779,Edinboro
+2023,01/29,Mat-Town Open II,125,L,DEC,8 - 3,JB Dragovich,78828,George Mason,Eamonn Jimenez,78779,Edinboro
+2023,01/29,Mat-Town Open II,125,L,FALL,3:14,Bobby Gardner,78707,Clarion,Eamonn Jimenez,78779,Edinboro
+2023,01/21,Edinboro George Mason ECM,125,L,DEC,7 - 6,JB Dragovich,78828,George Mason,Eamonn Jimenez,78779,Edinboro
+2023,01/17,Tuesday Throw Down II,125,W,MD,12 - 0,Dylan Mayer,72203,Gannon,Eamonn Jimenez,78779,Edinboro
+2023,01/15,Purple Raider Open,125,L,MD,14 - 4,Andrew Hampton,73020,Michigan State,Eamonn Jimenez,78779,Edinboro
+2023,01/15,Purple Raider Open,125,L,FALL,0:29,Declan Neville,73354,Buffalo,Eamonn Jimenez,78779,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,125,W,DEC,5 - 1,Bobby Gardner,78707,Clarion,Eamonn Jimenez,78779,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,125,W,DEC,6 - 2,Troy Guerra,78599,Buffalo,Eamonn Jimenez,78779,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,125,L,DEC,7 - 2,Jordan Rodriguez,69533,Lake Erie College,Eamonn Jimenez,78779,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,125,L,FALL,2:42,Joey Prata,44734,Oklahoma,Eamonn Jimenez,78779,Edinboro
+2023,11/12,App State Open,125,L,DEC,8 - 4,Colby McBride,79082,Appalachian State,Eamonn Jimenez,78779,Edinboro
+2023,11/12,App State Open,125,L,MD,11 - 3,Noah Luna,79081,Appalachian State,Eamonn Jimenez,78779,Edinboro
+2023,11/06,Clarion Open,125,L,TF5,18 - 2 1:28,Jax Forrest,81114,Unattached,Eamonn Jimenez,78779,Edinboro
+2023,11/06,Clarion Open,125,L,FALL,5:31,Branton Rice,79422,Pitt-Johnstown,Eamonn Jimenez,78779,Edinboro
+2023,03/03,MAC Championships,133,L,DEC,5 - 0,Louis Newell,50916,Kent State,Cameron Soda,72219,Edinboro
+2023,03/03,MAC Championships,133,L,MD,11 - 3,Gio Disabato,50840,Ohio,Cameron Soda,72219,Edinboro
+2023,02/17,Edinboro - Bloomsburg Dual,133,L,TF5,15 - 0 7:00,Cole Rhone,62773,Bloomsburg,Cameron Soda,72219,Edinboro
+2023,02/16,Edinboro - Lock Haven Dual,133,L,DEC,3 - 2,Gable Strickland,71822,Lock Haven,Cameron Soda,72219,Edinboro
+2023,02/10,Rider - Edinboro Dual,133,L,DEC,4 - 1,Richie Koehler,51648,Rider,Cameron Soda,72219,Edinboro
+2023,02/05,Edinboro Open,133,L,DEC,4 - 2,Ethan Qureshi,81106,Spartan Combat RTC,Cameron Soda,72219,Edinboro
+2023,02/05,Edinboro Open,133,W,MD,10 - 1,Jordan Villareal,79336,Pittsburgh,Cameron Soda,72219,Edinboro
+2023,02/05,Edinboro Open,133,W,MD,14 - 0,Cole French,78180,Buffalo,Cameron Soda,72219,Edinboro
+2023,02/05,Edinboro Open,133,W,MD,10 - 2,Ivan Garcia,67298,Binghamton,Cameron Soda,72219,Edinboro
+2023,01/14,Cleveland State - Edinboro Dual,133,L,MD,10 - 0,Jacob Manley,67785,Cleveland State,Cameron Soda,72219,Edinboro
+2023,01/07,Oklahoma - Edinboro Dual,133,L,DEC,11 - 8,Wyatt Henson,63069,Oklahoma,Cameron Soda,72219,Edinboro
+2023,12/18,Bucknell - Edinboro Dual,133,L,FALL,1:34,Kurt Phipps,63966,Bucknell,Cameron Soda,72219,Edinboro
+2023,12/18,Edinboro - Buffalo Dual,133,L,DEC,6 - 3,Tommy Maddox,63165,Buffalo,Cameron Soda,72219,Edinboro
+2023,12/10,Ohio - Edinboro Dual,133,L,MD,11 - 1,Gio Disabato,50840,Ohio,Cameron Soda,72219,Edinboro
+2023,12/02,Cliff Keen Invitational,133,L,DEC,8 - 4,Jason Shaner Jr,56244,Oregon State,Cameron Soda,72219,Edinboro
+2023,12/02,Cliff Keen Invitational,133,W,DEC,3 - 1,Tyler Hunt,55813,Navy,Cameron Soda,72219,Edinboro
+2023,12/02,Cliff Keen Invitational,133,L,FALL,1:59,Kyle Biscoglia,51109,Northern Iowa,Cameron Soda,72219,Edinboro
+2023,11/20,Northern Colorado - Edinboro Dual,133,L,DEC,6 - 3,Jace Koelzer,50912,Northern Colorado,Cameron Soda,72219,Edinboro
+2023,11/20,Edinboro - West Virginia Dual,133,W,DEC,8 - 2,Davin Rhoads,68739,West Virginia,Cameron Soda,72219,Edinboro
+2023,11/12,Appalachian State Invitational,133,L,DEC,10 - 7,Garrett Grice,72957,Virginia,Cameron Soda,72219,Edinboro
+2023,11/12,Appalachian State Invitational,133,W,FALL,2:59,Marlon Yarbrough,72946,Virginia,Cameron Soda,72219,Edinboro
+2023,11/12,Appalachian State Invitational,133,W,DEC,6 - 4,Jackson DiSario,57126,Stanford,Cameron Soda,72219,Edinboro
+2023,11/12,Appalachian State Invitational,133,L,DEC,4 - 1,Sean Carter,62808,Appalachian State,Cameron Soda,72219,Edinboro
+2023,11/06,Clarion Open,141,L,MFOR,0 - 0,Amonn Ohl,71965,Edinboro,Cameron Soda,72219,Edinboro
+2023,11/06,Clarion Open,141,W,DEC,6 - 0,Mikey Lewarchick,71832,Kent State,Cameron Soda,72219,Edinboro
+2023,11/06,Clarion Open,141,L,MFOR,0 - 0,Joshua Koderhandt,70917,Navy,Cameron Soda,72219,Edinboro
+2023,11/06,Clarion Open,141,W,SV-1,5 - 4,Sean Pitts,79834,Purdue,Cameron Soda,72219,Edinboro
+2023,02/05,Edinboro Open,133,W,FALL,0:24,Austin Dolan,83970,Unattached,Logan Jaquay,67227,Edinboro
+2023,02/05,Edinboro Open,133,L,FALL,0:50,Jordan Villareal,79336,Pittsburgh,Logan Jaquay,67227,Edinboro
+2023,02/05,Edinboro Open,133,L,MFOR,0 - 0,Cole French,78180,Buffalo,Logan Jaquay,67227,Edinboro
+2023,01/27,Edinboro - Clarion Dual,133,W,DEC,10 - 7,Mason Prinkey,72195,Clarion,Logan Jaquay,67227,Edinboro
+2023,01/21,George Mason - Edinboro Dual,133,L,DEC,6 - 4,Josh Jones,57073,George Mason,Logan Jaquay,67227,Edinboro
+2023,01/15,Purple Raider Open,133,L,FALL,4:01,Jacob Macatangay,79062,Purdue,Logan Jaquay,67227,Edinboro
+2023,01/15,Purple Raider Open,133,W,FALL,4:31,Nolan Frye,78918,Ohio,Logan Jaquay,67227,Edinboro
+2023,01/15,Purple Raider Open,133,L,DEC,2 - 0,William Burgess,60442,Seton Hill,Logan Jaquay,67227,Edinboro
+2023,01/15,Purple Raider Open,133,W,FALL,4:39,Clayton Bashor,71840,Clarion,Logan Jaquay,67227,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,133,L,SV-1,9 - 7,Cole Minnick,72222,Buffalo,Logan Jaquay,67227,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,133,W,MD,10 - 2,Daniel Adams,72591,Cleveland State,Logan Jaquay,67227,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,133,W,FALL,7:00,Jordan Villareal,79336,Pittsburgh,Logan Jaquay,67227,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,133,W,FALL,3:55,Paul Woo,78922,Ohio,Logan Jaquay,67227,Edinboro
+2023,12/18,Buffalo Edinboro ECM,133,W,DEC,6 - 3,Cole Minnick,72222,Buffalo,Logan Jaquay,67227,Edinboro
+2023,11/20,Edinboro - West Virginia Dual,125,L,DEC,7 - 4,Jace Schafer,73377,West Virginia,Logan Jaquay,67227,Edinboro
+2023,11/12,Appalachian State Invitational,125,L,MD,13 - 3,Matthew Rowland,80035,Gardner-Webb,Logan Jaquay,67227,Edinboro
+2023,11/12,Appalachian State Invitational,125,L,MD,14 - 3,Jake Ferri,51179,Kent State,Logan Jaquay,67227,Edinboro
+2023,11/12,Appalachian State Invitational,125,W,SV-1,10 - 8,Drew West,50041,Gardner-Webb,Logan Jaquay,67227,Edinboro
+2023,02/25,Zingo National Collegiate open,141,W,MD,12 - 1,Sander Miller,78856,NYC RTC,Bo DiJulius,78570,Edinboro
+2023,02/25,Zingo National Collegiate open,141,L,MD,12 - 2,Josh Hillard,78475,Franklin & Marshall,Bo DiJulius,78570,Edinboro
+2023,02/25,Zingo National Collegiate open,141,L,MD,9 - 0,Kai Owen,73196,Columbia,Bo DiJulius,78570,Edinboro
+2023,02/16,Thursday Throw Down,133,W,TF5,18 - 1 7:00,Constantine Gehring,70301,Gannon,Bo DiJulius,78570,Edinboro
+2023,02/12,JCU Open,133,W,MD,18 - 6,Ryan Yriart,83659,West Virginia,Bo DiJulius,78570,Edinboro
+2023,02/12,JCU Open,133,W,MD,14 - 2,Frankie Depinet,79584,Tiffin University,Bo DiJulius,78570,Edinboro
+2023,02/12,JCU Open,133,L,DEC,10 - 3,Daniel Adams,72591,Cleveland State,Bo DiJulius,78570,Edinboro
+2023,02/12,JCU Open,133,L,DEC,6 - 2,TJ England,63058,Clarion,Bo DiJulius,78570,Edinboro
+2023,02/05,Edinboro Open,133,L,DEC,8 - 2,Ethan Qureshi,81106,Spartan Combat RTC,Bo DiJulius,78570,Edinboro
+2023,02/05,Edinboro Open,133,L,MD,15 - 1,TJ England,63058,Clarion,Bo DiJulius,78570,Edinboro
+2023,01/29,Mat-Town Open II,133,L,DEC,6 - 0,Sean Logue,78512,Lock Haven,Bo DiJulius,78570,Edinboro
+2023,01/29,Mat-Town Open II,133,W,DEC,10 - 4,Venumadhava Mirel,79459,Navy,Bo DiJulius,78570,Edinboro
+2023,01/29,Mat-Town Open II,133,L,TF5,19 - 4 7:00,Ryan Franco,70909,Army West Point,Bo DiJulius,78570,Edinboro
+2023,03/03,MAC Championships,141,L,FALL,3:42,Caleb Rea,56445,Cleveland State,Amonn Ohl,71965,Edinboro
+2023,03/03,MAC Championships,141,L,FALL,2:40,Josh Mason,53817,Bloomsburg,Amonn Ohl,71965,Edinboro
+2023,02/17,Edinboro - Bloomsburg Dual,141,W,MD,14 - 4,Josh Mason,53817,Bloomsburg,Amonn Ohl,71965,Edinboro
+2023,02/16,Edinboro - Lock Haven Dual,141,L,MD,13 - 4,Sean Logue,78512,Lock Haven,Amonn Ohl,71965,Edinboro
+2023,01/27,Edinboro - Clarion Dual,141,L,FALL,3:00,Seth Koleno,51157,Clarion,Amonn Ohl,71965,Edinboro
+2023,01/21,George Mason - Edinboro Dual,141,L,DEC,13 - 8,Anthony Glasl,69714,George Mason,Amonn Ohl,71965,Edinboro
+2023,01/14,Cleveland State - Edinboro Dual,141,L,FALL,4:27,Dylan Layton,72925,Cleveland State,Amonn Ohl,71965,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,141,L,FALL,2:48,Carsen Richards,79450,Lake Erie College,Amonn Ohl,71965,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,141,W,FALL,2:02,Ibrahim Ahmed,79337,Pittsburgh,Amonn Ohl,71965,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,141,L,DEC,7 - 4,Aidan Waszak,73163,Ohio,Amonn Ohl,71965,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,141,W,FALL,1:24,Stephen Lukas,78723,Bucknell,Amonn Ohl,71965,Edinboro
+2023,01/07,Oklahoma - Edinboro Dual,141,W,FALL,1:35,Mosha Schwartz,55841,Oklahoma,Amonn Ohl,71965,Edinboro
+2023,12/18,Bucknell - Edinboro Dual,141,L,FALL,2:11,Darren Miller,57210,Bucknell,Amonn Ohl,71965,Edinboro
+2023,12/18,Edinboro - Buffalo Dual,141,L,DEC,7 - 3,Matt Ryan,69769,Buffalo,Amonn Ohl,71965,Edinboro
+2023,12/10,Ohio - Edinboro Dual,141,W,FALL,3:42,Kyran Hagan,49247,Ohio,Amonn Ohl,71965,Edinboro
+2023,12/02,Cliff Keen Invitational,141,L,MD,16 - 6,Cole Mattin,57715,Michigan,Amonn Ohl,71965,Edinboro
+2023,12/02,Cliff Keen Invitational,141,L,MD,13 - 3,Lawrence Saenz,56597,Cal Poly,Amonn Ohl,71965,Edinboro
+2023,11/12,Appalachian State Invitational,141,L,MFOR,0 - 0,Kyren Butler,72944,Virginia,Amonn Ohl,71965,Edinboro
+2023,11/12,Appalachian State Invitational,141,W,MFOR,0 - 0,Dylan Cedeno,63068,Virginia,Amonn Ohl,71965,Edinboro
+2023,11/12,Appalachian State Invitational,141,L,INJ,5:13,Chayse LaJoie,62878,Stanford,Amonn Ohl,71965,Edinboro
+2023,11/06,Clarion Open,141,W,MFOR,0 - 0,Cameron Soda,72219,Edinboro,Amonn Ohl,71965,Edinboro
+2023,11/06,Clarion Open,141,W,DEC,13 - 7,Casey Wiles,71969,Kent State,Amonn Ohl,71965,Edinboro
+2023,11/06,Clarion Open,141,L,FALL,3:59,Luke Lucerne,67546,Navy,Amonn Ohl,71965,Edinboro
+2023,11/06,Clarion Open,141,W,FALL,1:12,Trevor Nugent,72511,Bucknell,Amonn Ohl,71965,Edinboro
+2023,11/06,Clarion Open,141,L,FALL,3:27,Dylan Chappell,71754,Bucknell,Amonn Ohl,71965,Edinboro
+2023,11/06,Clarion Open,141,W,MD,11 - 0,Justin Bierdumpfel,67257,Brown,Amonn Ohl,71965,Edinboro
+2023,02/12,JCU Open,141,W,TF5,24 - 7 7:00,Mason Amadio,79586,Tiffin University,Zachary Soda,72220,Edinboro
+2023,02/12,JCU Open,141,L,FALL,4:04,Jimmy Carmany,66977,Unattached,Zachary Soda,72220,Edinboro
+2023,02/12,JCU Open,141,W,FALL,4:02,Andrew Kakoos,64836,Grand Valley State University,Zachary Soda,72220,Edinboro
+2023,02/10,Rider - Edinboro Dual,141,L,MD,10 - 0,McKenzie Bell,67375,Rider,Zachary Soda,72220,Edinboro
+2023,02/05,Edinboro Open,141,L,DEC,9 - 3,D’Amani Almodovar,77346,Rider,Zachary Soda,72220,Edinboro
+2023,02/05,Edinboro Open,141,L,DEC,6 - 0,Ja'Kerion Merritt,67176,Central Michigan,Zachary Soda,72220,Edinboro
+2023,01/21,Edinboro George Mason ECM,141,L,MD,11 - 2,Shawn Nonaka,62580,George Mason,Zachary Soda,72220,Edinboro
+2023,01/17,Tuesday Throw Down II,141,W,MD,11 - 3,Christopher Rocha-Perez,72206,Gannon,Zachary Soda,72220,Edinboro
+2023,01/17,Tuesday Throw Down II,141,W,MD,11 - 1,Parker Loera,67009,Gannon,Zachary Soda,72220,Edinboro
+2023,01/15,Purple Raider Open,141,W,TF5,18 - 2 7:00,Jacob Torres,79253,Lock Haven,Zachary Soda,72220,Edinboro
+2023,01/15,Purple Raider Open,141,L,FALL,1:24,Christian White,72619,Purdue,Zachary Soda,72220,Edinboro
+2023,01/15,Purple Raider Open,141,L,MD,14 - 2,Caden McCrary,70918,North Carolina,Zachary Soda,72220,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,141,L,FALL,0:41,Nathan Jerore,73494,Michigan,Zachary Soda,72220,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,141,W,MD,11 - 2,Andy Lucinski,71745,Buffalo,Zachary Soda,72220,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,141,L,MD,16 - 6,Mosha Schwartz,55841,Oklahoma,Zachary Soda,72220,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,141,W,DEC,7 - 5,Stephen Lukas,78723,Bucknell,Zachary Soda,72220,Edinboro
+2023,12/11,Cleveland State Open,141,L,DEC,6 - 2,George Arujau,81121,Spartan Combat RTC,Zachary Soda,72220,Edinboro
+2023,12/11,Cleveland State Open,141,W,DEC,5 - 0,Blake Boyers,73379,West Virginia,Zachary Soda,72220,Edinboro
+2023,12/11,Cleveland State Open,141,L,TF5,18 - 3 6:23,Ryan Michaels,67121,Pittsburgh,Zachary Soda,72220,Edinboro
+2023,11/20,Northern Colorado - Edinboro Dual,141,L,TF5,15 - 0 7:00,Andrew Alirez,56723,Northern Colorado,Zachary Soda,72220,Edinboro
+2023,11/20,Edinboro - West Virginia Dual,141,L,DEC,6 - 2,Jordan Titus,68738,West Virginia,Zachary Soda,72220,Edinboro
+2023,11/12,App State Open,149,L,DEC,4 - 3,Parker Corwin,63037,Gardner-Webb,Zachary Soda,72220,Edinboro
+2023,11/12,App State Open,149,L,FALL,3:24,Kaden Keiser,75728,Appalachian State,Zachary Soda,72220,Edinboro
+2023,11/06,Clarion Open,149,L,FALL,2:29,Ethan Barr,76508,Kent State,Zachary Soda,72220,Edinboro
+2023,11/06,Clarion Open,149,L,DEC,8 - 2,Chandler Ho,71799,Clarion,Zachary Soda,72220,Edinboro
+2023,03/16,NCAA Championships,149,L,DEC,8 - 1,Caleb Tyus,72912,SIU Edwardsville,Ryan Burgos,63141,Edinboro
+2023,03/16,NCAA Championships,149,L,FALL,2:56,Jaden Abas,56738,Stanford,Ryan Burgos,63141,Edinboro
+2023,03/03,MAC Championships,149,L,MD,11 - 1,Quinn Kinner,51144,Rider,Ryan Burgos,63141,Edinboro
+2023,03/03,MAC Championships,149,W,DEC,1 - 0,Alec Hagan,49248,Ohio,Ryan Burgos,63141,Edinboro
+2023,03/03,MAC Championships,149,L,FALL,4:23,Nathan Higley,71834,George Mason,Ryan Burgos,63141,Edinboro
+2023,03/03,MAC Championships,149,W,DEC,3 - 2,Kody Komara,50094,Kent State,Ryan Burgos,63141,Edinboro
+2023,03/03,MAC Championships,149,W,DEC,6 - 4,Kaleb Burgess,72225,Buffalo,Ryan Burgos,63141,Edinboro
+2023,02/17,Edinboro - Bloomsburg Dual,149,W,DEC,6 - 0,Cade Balestrini,62514,Bloomsburg,Ryan Burgos,63141,Edinboro
+2023,02/10,Rider - Edinboro Dual,149,W,DEC,10 - 8,Quinn Kinner,51144,Rider,Ryan Burgos,63141,Edinboro
+2023,01/27,Edinboro - Clarion Dual,149,W,DEC,7 - 4,Kyle Schickel,67305,Clarion,Ryan Burgos,63141,Edinboro
+2023,01/21,George Mason - Edinboro Dual,149,W,FALL,6:27,Nathan Higley,71834,George Mason,Ryan Burgos,63141,Edinboro
+2023,01/14,Cleveland State - Edinboro Dual,149,W,DEC,9 - 2,Douglas Terry,70741,Cleveland State,Ryan Burgos,63141,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,149,W,FALL,0:47,Brady Worthing,66983,Clarion,Ryan Burgos,63141,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,149,W,MD,10 - 0,Klay Reeves,62470,Ohio State,Ryan Burgos,63141,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,149,W,DEC,4 - 3,Willie McDougald,67042,Oklahoma,Ryan Burgos,63141,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,149,W,DEC,8 - 7,Kolby DePron,71751,Bucknell,Ryan Burgos,63141,Edinboro
+2023,01/07,Oklahoma - Edinboro Dual,149,L,DEC,6 - 4,Mitch Moore,50620,Oklahoma,Ryan Burgos,63141,Edinboro
+2023,11/12,Appalachian State Invitational,149,L,MFOR,0 - 0,Sam Harris,78672,Gardner-Webb,Ryan Burgos,63141,Edinboro
+2023,11/12,Appalachian State Invitational,149,L,TF5,18 - 3 5:50,Jaden Abas,56738,Stanford,Ryan Burgos,63141,Edinboro
+2023,11/06,Clarion Open,149,W,FALL,5:43,Mason Myers,70167,Pitt-Johnstown,Ryan Burgos,63141,Edinboro
+2023,11/06,Clarion Open,149,W,FALL,4:09,Kelin Laffey,78143,Pittsburgh,Ryan Burgos,63141,Edinboro
+2023,11/06,Clarion Open,149,L,DEC,7 - 4,Tyler Badgett,67118,Pittsburgh,Ryan Burgos,63141,Edinboro
+2023,11/06,Clarion Open,149,W,MD,10 - 1,Trey Kruse,67044,Purdue,Ryan Burgos,63141,Edinboro
+2023,11/06,Clarion Open,149,W,DEC,10 - 3,Blake Saito,65874,Brown,Ryan Burgos,63141,Edinboro
+2023,02/16,Edinboro - Lock Haven Dual,149,L,DEC,4 - 0,Nicholas Stonecheck,62691,Lock Haven,Jake Pail,62853,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,149,W,DEC,5 - 4,Shermuhammad Sadriddinov,79833,Clarion,Jake Pail,62853,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,149,W,DEC,5 - 1,Carter Gill,78514,Buffalo,Jake Pail,62853,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,149,L,SV-1,4 - 2,Chandler Ho,71799,Clarion,Jake Pail,62853,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,149,L,DEC,5 - 2,Jack Gorman,58613,Cleveland State,Jake Pail,62853,Edinboro
+2023,12/18,Bucknell - Edinboro Dual,149,L,FALL,1:36,Kolby DePron,71751,Bucknell,Jake Pail,62853,Edinboro
+2023,12/18,Edinboro - Buffalo Dual,149,L,MD,10 - 2,Kaleb Burgess,72225,Buffalo,Jake Pail,62853,Edinboro
+2023,12/10,Ohio - Edinboro Dual,149,W,SV-1,3 - 1,Alec Hagan,49248,Ohio,Jake Pail,62853,Edinboro
+2023,12/02,Cliff Keen Invitational,149,L,MD,12 - 4,Dayne Morton,56980,Nebraska,Jake Pail,62853,Edinboro
+2023,12/02,Cliff Keen Invitational,149,L,DEC,12 - 5,Danny Fongaro,51713,Columbia,Jake Pail,62853,Edinboro
+2023,11/20,Northern Colorado - Edinboro Dual,149,L,DEC,11 - 4,Benjamin Alanis,61438,Northern Colorado,Jake Pail,62853,Edinboro
+2023,11/20,Edinboro - West Virginia Dual,149,L,TF5,17 - 1 4:30,Sam Hillegas,61125,West Virginia,Jake Pail,62853,Edinboro
+2023,11/12,Appalachian State Invitational,149,L,DEC,8 - 2,Kody Komara,50094,Kent State,Jake Pail,62853,Edinboro
+2023,11/12,Appalachian State Invitational,149,L,MD,13 - 5,Jarod Verkleeren,49156,Virginia,Jake Pail,62853,Edinboro
+2023,11/06,Clarion Open,149,L,DEC,9 - 3,Kaemen Smith,78323,Navy,Jake Pail,62853,Edinboro
+2023,11/06,Clarion Open,149,L,DEC,3 - 2,Sam Harris,78672,Gardner-Webb,Jake Pail,62853,Edinboro
+2023,02/16,Thursday Throw Down,149,L,DEC,5 - 2,Austin Fietz,75980,Lake Erie College,Gannon Jaquay,78780,Edinboro
+2023,02/12,JCU Open,149,W,TF5,17 - 1 7:00,Sean Listerman,84030,Akron,Gannon Jaquay,78780,Edinboro
+2023,02/12,JCU Open,149,L,DEC,6 - 4,Bret Minnick,78684,Mercyhurst,Gannon Jaquay,78780,Edinboro
+2023,02/12,JCU Open,149,W,FALL,1:17,Americo Milani,74534,John Carroll,Gannon Jaquay,78780,Edinboro
+2023,02/12,JCU Open,149,W,FALL,3:19,Joey Murphy,66388,Grand Valley State University,Gannon Jaquay,78780,Edinboro
+2023,02/12,JCU Open,149,L,DEC,9 - 5,Conner Deboe,65223,Baldwin Wallace,Gannon Jaquay,78780,Edinboro
+2023,02/05,Edinboro Open,149,W,MD,9 - 0,Luke Brydges,79313,Michigan State,Gannon Jaquay,78780,Edinboro
+2023,02/05,Edinboro Open,149,L,FALL,1:11,Drew Munch,63142,Lehigh,Gannon Jaquay,78780,Edinboro
+2023,02/05,Edinboro Open,149,L,TF5,16 - 1 2:30,Connor Pierce,78997,Penn State,Gannon Jaquay,78780,Edinboro
+2023,01/29,Mat-Town Open II,149,L,TF5,17 - 0 7:00,Evan Maag,78473,George Mason,Gannon Jaquay,78780,Edinboro
+2023,01/29,Mat-Town Open II,149,L,DEC,5 - 0,Carter Gill,78514,Buffalo,Gannon Jaquay,78780,Edinboro
+2023,01/17,Tuesday Throw Down II,149,L,DEC,4 - 3,Carson Filer,72202,Gannon,Gannon Jaquay,78780,Edinboro
+2023,01/17,Tuesday Throw Down II,149,L,DEC,7 - 6,Caleb Chaves,72199,Gannon,Gannon Jaquay,78780,Edinboro
+2023,01/15,Purple Raider Open,149,L,FALL,2:10,Darese Sparkman,80372,Mount Union,Gannon Jaquay,78780,Edinboro
+2023,01/15,Purple Raider Open,149,L,DEC,7 - 6,Josh Howey,79449,Lake Erie College,Gannon Jaquay,78780,Edinboro
+2023,01/15,Purple Raider Open,149,W,DEC,12 - 6,TJ Daugherty,66899,Unattached,Gannon Jaquay,78780,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,149,W,DEC,8 - 4,David Shue,79451,Lake Erie College,Gannon Jaquay,78780,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,149,L,DEC,8 - 3,Killian Foy,78915,Pittsburgh,Gannon Jaquay,78780,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,149,L,FALL,2:50,Kolby DePron,71751,Bucknell,Gannon Jaquay,78780,Edinboro
+2023,11/12,App State Open,157,L,DEC,15 - 8,Gavin Cagle,73054,Virginia,Gannon Jaquay,78780,Edinboro
+2023,11/12,App State Open,157,L,FALL,1:36,Nick Sansone,62198,Virginia,Gannon Jaquay,78780,Edinboro
+2023,11/06,Clarion Open,157,L,TF5,15 - 0 3:35,Kendall Coleman,50626,Purdue,Gannon Jaquay,78780,Edinboro
+2023,11/06,Clarion Open,157,L,MD,12 - 2,Trevor Elfvin,51017,Clarion,Gannon Jaquay,78780,Edinboro
+2023,03/03,MAC Championships,157,L,MD,12 - 4,Colton Washleski,72909,Rider,Luke Kemerer,50929,Edinboro
+2023,03/03,MAC Championships,157,L,DEC,6 - 2,Marcus Robinson,56479,Cleveland State,Luke Kemerer,50929,Edinboro
+2023,02/17,Edinboro - Bloomsburg Dual,157,W,FALL,0:53,John Noah Reho,78635,Bloomsburg,Luke Kemerer,50929,Edinboro
+2023,02/16,Edinboro - Lock Haven Dual,157,L,DEC,4 - 2,Ashton Eyler,58037,Lock Haven,Luke Kemerer,50929,Edinboro
+2023,02/10,Rider - Edinboro Dual,157,W,DEC,3 - 2,Colton Washleski,72909,Rider,Luke Kemerer,50929,Edinboro
+2023,01/27,Edinboro - Clarion Dual,157,W,DEC,6 - 1,Trevor Elfvin,51017,Clarion,Luke Kemerer,50929,Edinboro
+2023,01/21,George Mason - Edinboro Dual,157,L,DEC,7 - 3,Peter Pappas,49131,George Mason,Luke Kemerer,50929,Edinboro
+2023,01/14,Cleveland State - Edinboro Dual,157,L,FALL,1:06,Marcus Robinson,56479,Cleveland State,Luke Kemerer,50929,Edinboro
+2023,01/07,Oklahoma - Edinboro Dual,157,W,SV-1,4 - 2,Jacob Butler,57142,Oklahoma,Luke Kemerer,50929,Edinboro
+2023,12/18,Bucknell - Edinboro Dual,157,L,DEC,6 - 2,Nick Delp,62493,Bucknell,Luke Kemerer,50929,Edinboro
+2023,12/18,Edinboro - Buffalo Dual,157,L,DEC,7 - 3,Michael Petite,55596,Buffalo,Luke Kemerer,50929,Edinboro
+2023,12/10,Ohio - Edinboro Dual,157,L,FALL,3:18,Peyten Kellar,73168,Ohio,Luke Kemerer,50929,Edinboro
+2023,12/02,Cliff Keen Invitational,157,L,DEC,5 - 2,Peyten Kellar,73168,Ohio,Luke Kemerer,50929,Edinboro
+2023,12/02,Cliff Keen Invitational,157,W,MD,9 - 1,George Ruiz,68719,Navy,Luke Kemerer,50929,Edinboro
+2023,12/02,Cliff Keen Invitational,157,L,DEC,4 - 0,Nick Delp,62493,Bucknell,Luke Kemerer,50929,Edinboro
+2023,12/02,Cliff Keen Invitational,157,W,DEC,6 - 3,Rhise Royster,62049,LIU,Luke Kemerer,50929,Edinboro
+2023,11/20,Edinboro - West Virginia Dual,157,L,INJ,0:12,Caleb Dowling,62359,West Virginia,Luke Kemerer,50929,Edinboro
+2023,11/20,Northern Colorado - Edinboro Dual,157,L,DEC,6 - 4,Vince Zerban,73032,Northern Colorado,Luke Kemerer,50929,Edinboro
+2023,11/12,Appalachian State Invitational,157,W,DEC,8 - 3,Tyler Brignola,73727,Gardner-Webb,Luke Kemerer,50929,Edinboro
+2023,11/12,Appalachian State Invitational,157,W,DEC,9 - 3,Garrett Thompson,73169,Ohio,Luke Kemerer,50929,Edinboro
+2023,11/12,Appalachian State Invitational,157,L,MD,8 - 0,Peyten Kellar,73168,Ohio,Luke Kemerer,50929,Edinboro
+2023,11/12,Appalachian State Invitational,157,W,FALL,4:30,Jake Keating,50315,Virginia,Luke Kemerer,50929,Edinboro
+2023,11/12,Appalachian State Invitational,157,L,DEC,6 - 3,Jake Keating,50315,Virginia,Luke Kemerer,50929,Edinboro
+2023,11/06,Clarion Open,157,W,DEC,3 - 2,Dylan Evans,78788,High School,Luke Kemerer,50929,Edinboro
+2023,11/06,Clarion Open,157,W,DEC,8 - 2,Brayden Johnson,73999,West Liberty University,Luke Kemerer,50929,Edinboro
+2023,11/06,Clarion Open,157,L,DEC,3 - 2,Nate Camiscioli,76005,Purdue,Luke Kemerer,50929,Edinboro
+2023,11/06,Clarion Open,157,W,MD,14 - 4,Corbin Dion,69783,Gardner-Webb,Luke Kemerer,50929,Edinboro
+2023,11/06,Clarion Open,157,W,DEC,9 - 6,Sam McMonagle,71762,Brown,Luke Kemerer,50929,Edinboro
+2023,02/12,JCU Open,157,L,FALL,3:55,Ethan Barr,76508,Kent State,Sully Allen,65014,Edinboro
+2023,02/12,JCU Open,157,W,DEC,7 - 1,Sam Partain,75729,Lake Erie College,Sully Allen,65014,Edinboro
+2023,02/12,JCU Open,157,L,MFOR,0 - 0,Mitchel Hrnyak,58134,Unattached,Sully Allen,65014,Edinboro
+2023,02/05,Edinboro Open,157,L,DEC,4 - 0,Nick Cicciarelli,78896,West Virginia,Sully Allen,65014,Edinboro
+2023,02/05,Edinboro Open,157,L,DEC,6 - 3,Gavin Cagle,73054,Virginia,Sully Allen,65014,Edinboro
+2023,01/29,Mat-Town Open II,157,L,FALL,0:36,Nick Foster,78902,George Mason,Sully Allen,65014,Edinboro
+2023,01/29,Mat-Town Open II,157,L,TF5,20 - 2 7:00,Caleb Dowling,62359,West Virginia,Sully Allen,65014,Edinboro
+2023,01/29,Mat-Town Open II,157,W,FALL,0:16,Bryce Strine,83862,Bloomsburg,Sully Allen,65014,Edinboro
+2023,01/15,Purple Raider Open,157,W,TF5,16 - 0 7:00,Jackson Lusk,83661,High School,Sully Allen,65014,Edinboro
+2023,01/15,Purple Raider Open,157,W,DEC,5 - 3,Sam Partain,75729,Lake Erie College,Sully Allen,65014,Edinboro
+2023,01/15,Purple Raider Open,157,W,FALL,4:58,Jimmy Baxter,69610,Seton Hill,Sully Allen,65014,Edinboro
+2023,01/15,Purple Raider Open,157,L,FALL,1:10,Nicholas Coreno,67141,Gannon,Sully Allen,65014,Edinboro
+2023,01/15,Purple Raider Open,157,L,TF5,16 - 0 7:00,Bryce Andonian,56739,Virginia Tech,Sully Allen,65014,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,157,W,MD,12 - 0,Tyler Barry,74315,Ashland,Sully Allen,65014,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,157,W,DEC,7 - 4,Shane Heil,72593,Cleveland State,Sully Allen,65014,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,157,L,FALL,5:45,Jacob Butler,57142,Oklahoma,Sully Allen,65014,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,157,L,FALL,1:18,Jack Pletcher,76351,Pittsburgh,Sully Allen,65014,Edinboro
+2023,12/04,Lake Erie Storm Open,157,W,FALL,2:55,Parker Moore,75971,Notre Dame,Sully Allen,65014,Edinboro
+2023,12/04,Lake Erie Storm Open,157,W,SV-1,3 - 1,Matthew Ferraro,62000,Mercyhurst,Sully Allen,65014,Edinboro
+2023,12/04,Lake Erie Storm Open,157,L,FALL,7:04,John Altieri,70738,Clarion,Sully Allen,65014,Edinboro
+2023,12/04,Lake Erie Storm Open,157,W,DEC,8 - 4,Nick Abounader,78818,Cleveland State,Sully Allen,65014,Edinboro
+2023,11/12,Appalachian State Invitational,157,L,FALL,5:13,Peyten Kellar,73168,Ohio,Sully Allen,65014,Edinboro
+2023,11/12,Appalachian State Invitational,157,L,MD,16 - 8,Charlie Darracott,62985,Stanford,Sully Allen,65014,Edinboro
+2023,11/06,Clarion Open,157,L,DEC,6 - 4,Tim Bova,79255,Spartan Combat RTC,Sully Allen,65014,Edinboro
+2023,11/06,Clarion Open,157,L,FALL,6:33,Trevor Elfvin,51017,Clarion,Sully Allen,65014,Edinboro
+2023,03/03,MAC Championships,165,L,FALL,2:50,Jordan Slivka,57602,Ohio,Alex Garee,71817,Edinboro
+2023,03/03,MAC Championships,165,L,MD,12 - 3,Cameron Pine,57196,Clarion,Alex Garee,71817,Edinboro
+2023,02/17,Edinboro - Bloomsburg Dual,165,W,DEC,6 - 2,Trenton Harder,71680,Bloomsburg,Alex Garee,71817,Edinboro
+2023,02/16,Edinboro - Lock Haven Dual,165,L,DEC,2 - 0,Avery Bassett,71835,Lock Haven,Alex Garee,71817,Edinboro
+2023,02/10,Rider - Edinboro Dual,165,L,DEC,8 - 6,Hunter Mays,73136,Rider,Alex Garee,71817,Edinboro
+2023,02/05,Edinboro Open,165,W,DEC,6 - 3,Tim Bova,79255,Spartan Combat RTC,Alex Garee,71817,Edinboro
+2023,02/05,Edinboro Open,165,W,DEC,8 - 3,Owen Quinn,73467,Lehigh,Alex Garee,71817,Edinboro
+2023,02/05,Edinboro Open,165,L,FALL,2:53,Connor Herceg,63054,Lehigh,Alex Garee,71817,Edinboro
+2023,02/05,Edinboro Open,165,L,FALL,4:27,Tyler Swiderski,75986,Central Michigan,Alex Garee,71817,Edinboro
+2023,01/27,Edinboro - Clarion Dual,165,L,FALL,7:00,Cameron Pine,57196,Clarion,Alex Garee,71817,Edinboro
+2023,01/14,Cleveland State - Edinboro Dual,165,L,DEC,4 - 1,Daniel Patten,62489,Cleveland State,Alex Garee,71817,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,165,L,DEC,8 - 6,Tate Geiser,78813,Cleveland State,Alex Garee,71817,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,165,W,DEC,8 - 5,Caleb Cass,57214,Cleveland State,Alex Garee,71817,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,165,L,DEC,9 - 2,Garrett Thompson,73169,Ohio,Alex Garee,71817,Edinboro
+2023,01/07,Oklahoma - Edinboro Dual,165,L,FALL,0:52,Gerrit Nijenhuis,62352,Oklahoma,Alex Garee,71817,Edinboro
+2023,12/10,Ohio - Edinboro Dual,165,L,FALL,6:39,Jordan Slivka,57602,Ohio,Alex Garee,71817,Edinboro
+2023,12/02,Cliff Keen Invitational,165,W,DEC,7 - 6,Kaden Hart,77553,Nebraska-Kearney,Alex Garee,71817,Edinboro
+2023,12/02,Cliff Keen Invitational,165,L,DEC,8 - 2,Giano Petrucelli,62610,Air Force,Alex Garee,71817,Edinboro
+2023,12/02,Cliff Keen Invitational,165,L,DEC,6 - 0,William Formato,57034,Appalachian State,Alex Garee,71817,Edinboro
+2023,11/20,Edinboro - West Virginia Dual,165,L,FALL,4:47,Peyton Hall,57711,West Virginia,Alex Garee,71817,Edinboro
+2023,11/12,Appalachian State Invitational,165,L,DEC,4 - 1,Sean O'dwyer,66628,Ohio,Alex Garee,71817,Edinboro
+2023,11/12,Appalachian State Invitational,165,L,FALL,5:46,Justin McCoy,50946,Virginia,Alex Garee,71817,Edinboro
+2023,11/06,Clarion Open,165,W,DEC,7 - 6,Immanuel Kerr-brown,81118,NLWC,Alex Garee,71817,Edinboro
+2023,11/06,Clarion Open,165,L,MD,18 - 5,Jared Keslar,72953,Pittsburgh,Alex Garee,71817,Edinboro
+2023,11/06,Clarion Open,165,W,DEC,9 - 4,Ayden Miller,72194,Clarion,Alex Garee,71817,Edinboro
+2023,11/06,Clarion Open,165,L,SV-1,2 - 1,Eli Brinsky,67110,Clarion,Alex Garee,71817,Edinboro
+2023,02/12,JCU Open,165,L,DEC,6 - 3,Dillon Carlson,79794,Kent State,Max Kirby,78782,Edinboro
+2023,02/12,JCU Open,165,W,DEC,8 - 3,Jack Lledo,78924,Ohio,Max Kirby,78782,Edinboro
+2023,02/12,JCU Open,165,L,DEC,10 - 6,Sevi Garza,74317,Ashland,Max Kirby,78782,Edinboro
+2023,02/12,JCU Open,165,W,MD,11 - 3,Caleb Cass,57214,Cleveland State,Max Kirby,78782,Edinboro
+2023,02/05,Edinboro Open,165,W,FALL,1:48,Logan Gumble,72616,Binghamton,Max Kirby,78782,Edinboro
+2023,02/05,Edinboro Open,165,W,DEC,10 - 4,Marques McClorin,70305,Gannon,Max Kirby,78782,Edinboro
+2023,02/05,Edinboro Open,165,L,DEC,7 - 2,Marcus Petite,67407,Buffalo,Max Kirby,78782,Edinboro
+2023,02/05,Edinboro Open,165,L,SV-1,4 - 2,Eli Brinsky,67110,Clarion,Max Kirby,78782,Edinboro
+2023,02/05,Edinboro Open,165,W,FALL,1:29,Konner Roche,79318,Michigan State,Max Kirby,78782,Edinboro
+2023,01/29,Mat-Town Open II,165,L,DEC,7 - 5,Owen Quinn,73467,Lehigh,Max Kirby,78782,Edinboro
+2023,01/29,Mat-Town Open II,165,L,DEC,3 - 1,Eli Brinsky,67110,Clarion,Max Kirby,78782,Edinboro
+2023,01/21,George Mason - Edinboro Dual,165,L,DEC,11 - 4,Drew Dickson,62581,George Mason,Max Kirby,78782,Edinboro
+2023,01/15,Purple Raider Open,165,W,TF5,16 - 1 7:00,Christian Dosch,83660,Slippery Rock,Max Kirby,78782,Edinboro
+2023,01/15,Purple Raider Open,165,W,FALL,1:13,Kane Kettering,79567,Seton Hill,Max Kirby,78782,Edinboro
+2023,01/15,Purple Raider Open,165,W,FALL,0:44,Jack Lledo,78924,Ohio,Max Kirby,78782,Edinboro
+2023,01/15,Purple Raider Open,165,W,FALL,1:15,Brayden Roberts,64960,West Virginia,Max Kirby,78782,Edinboro
+2023,01/15,Purple Raider Open,165,W,DEC,7 - 6,Patrick Daum,62591,West Virginia,Max Kirby,78782,Edinboro
+2023,01/15,Purple Raider Open,165,L,DEC,8 - 5,Tate Geiser,78813,Cleveland State,Max Kirby,78782,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,165,L,DEC,14 - 7,Eli Brinsky,67110,Clarion,Max Kirby,78782,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,165,L,DEC,3 - 1,Ty Raines,57719,Buffalo,Max Kirby,78782,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,165,W,FALL,1:47,Caleb Cass,57214,Cleveland State,Max Kirby,78782,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,165,W,DEC,9 - 7,Jack Lledo,78924,Ohio,Max Kirby,78782,Edinboro
+2023,12/18,Bucknell - Edinboro Dual,165,L,DEC,4 - 0,Chase Barlow,78732,Bucknell,Max Kirby,78782,Edinboro
+2023,12/18,Edinboro - Buffalo Dual,165,W,SV-1,3 - 1,Ty Raines,57719,Buffalo,Max Kirby,78782,Edinboro
+2023,11/20,Northern Colorado - Edinboro Dual,165,L,MD,19 - 8,Baylor Fernandes,57351,Northern Colorado,Max Kirby,78782,Edinboro
+2023,11/12,App State Open,165,W,FALL,3:27,Kalvin Khang,80555,Greensboro,Max Kirby,78782,Edinboro
+2023,11/12,App State Open,165,W,DEC,8 - 5,Jack Lledo,78924,Ohio,Max Kirby,78782,Edinboro
+2023,11/12,App State Open,165,W,DEC,6 - 4,Jack Lledo,78924,Ohio,Max Kirby,78782,Edinboro
+2023,11/12,App State Open,165,L,MD,16 - 5,Nick Hamilton,73501,Virginia,Max Kirby,78782,Edinboro
+2023,11/06,Clarion Open,165,L,MD,10 - 1,Rodrick Mosley,50889,Gardner-Webb,Max Kirby,78782,Edinboro
+2023,11/06,Clarion Open,165,L,DEC,7 - 6,Chase Barlow,78732,Bucknell,Max Kirby,78782,Edinboro
+2023,02/16,Thursday Throw Down,165,L,FALL,5:19,Ethan Richner,72169,Gannon,Andrew Pokalsky,78781,Edinboro
+2023,02/16,Thursday Throw Down,165,L,MD,10 - 2,Nicholas Coreno,67141,Gannon,Andrew Pokalsky,78781,Edinboro
+2023,02/12,JCU Open,157,L,DEC,6 - 1,Emmanuel Scordos,80498,Baldwin Wallace,Andrew Pokalsky,78781,Edinboro
+2023,02/12,JCU Open,157,W,FALL,1:49,Iain Escobar,79591,Tiffin University,Andrew Pokalsky,78781,Edinboro
+2023,02/12,JCU Open,157,W,DEC,10 - 5,Ryan Forrest,71379,John Carroll,Andrew Pokalsky,78781,Edinboro
+2023,02/12,JCU Open,157,W,FALL,5:21,Gustavo DeLima,63219,Grand Valley State University,Andrew Pokalsky,78781,Edinboro
+2023,02/05,Edinboro Open,165,L,FALL,5:45,Ethan Richner,72169,Gannon,Andrew Pokalsky,78781,Edinboro
+2023,02/05,Edinboro Open,165,L,MD,13 - 3,Cameron Pine,57196,Clarion,Andrew Pokalsky,78781,Edinboro
+2023,01/17,Tuesday Throw Down II,165,W,FALL,3:16,Mark McGonigal,82319,Mercyhurst,Andrew Pokalsky,78781,Edinboro
+2023,01/15,Purple Raider Open,165,W,DEC,8 - 3,Liam Harris,73165,Ohio,Andrew Pokalsky,78781,Edinboro
+2023,01/15,Purple Raider Open,165,L,DEC,7 - 4,Brayden Roberts,64960,West Virginia,Andrew Pokalsky,78781,Edinboro
+2023,01/15,Purple Raider Open,165,L,DEC,5 - 2,Patrick Daum,62591,West Virginia,Andrew Pokalsky,78781,Edinboro
+2023,03/03,MAC Championships,174,W,MD,8 - 0,Jay Nivison,65850,Buffalo,Jared McGill,50995,Edinboro
+2023,03/03,MAC Championships,174,L,DEC,4 - 3,Sal Perrine,73171,Ohio,Jared McGill,50995,Edinboro
+2023,03/03,MAC Championships,174,L,DEC,12 - 6,Tyler Stoltzfus,65398,Lock Haven,Jared McGill,50995,Edinboro
+2023,03/03,MAC Championships,174,W,MD,11 - 0,Chase Diehl,60388,SIU Edwardsville,Jared McGill,50995,Edinboro
+2023,03/03,MAC Championships,174,W,INJ,2:35,Anthony Derosa,74515,Bloomsburg,Jared McGill,50995,Edinboro
+2023,02/17,Edinboro - Bloomsburg Dual,174,W,DEC,8 - 2,Anthony Derosa,74515,Bloomsburg,Jared McGill,50995,Edinboro
+2023,02/16,Edinboro - Lock Haven Dual,174,W,DEC,4 - 2,Tyler Stoltzfus,65398,Lock Haven,Jared McGill,50995,Edinboro
+2023,02/12,JCU Open,174,W,MD,12 - 1,Mitchell Broskie,75819,Kent State,Jared McGill,50995,Edinboro
+2023,02/12,JCU Open,174,L,MFOR,0 - 0,Blake Dixon,61688,Unattached,Jared McGill,50995,Edinboro
+2023,02/12,JCU Open,174,L,MFOR,0 - 0,Tate Geiser,78813,Cleveland State,Jared McGill,50995,Edinboro
+2023,01/21,George Mason - Edinboro Dual,174,L,DEC,3 - 1,Logan Messer,71846,George Mason,Jared McGill,50995,Edinboro
+2023,01/14,Cleveland State - Edinboro Dual,174,W,DEC,7 - 3,JR Reed,78598,Cleveland State,Jared McGill,50995,Edinboro
+2023,01/07,Oklahoma - Edinboro Dual,174,W,DEC,4 - 0,Darrien Roberts,60446,Oklahoma,Jared McGill,50995,Edinboro
+2023,12/18,Bucknell - Edinboro Dual,174,W,DEC,6 - 2,Sam Barnes,63005,Bucknell,Jared McGill,50995,Edinboro
+2023,12/18,Edinboro - Buffalo Dual,174,W,DEC,4 - 2,Jay Nivison,65850,Buffalo,Jared McGill,50995,Edinboro
+2023,11/12,Appalachian State Invitational,174,W,DEC,4 - 1,Sal Perrine,73171,Ohio,Jared McGill,50995,Edinboro
+2023,11/12,Appalachian State Invitational,174,L,MFOR,0 - 0,Victor Marcelli,50587,Virginia,Jared McGill,50995,Edinboro
+2023,11/12,Appalachian State Invitational,174,L,MFOR,0 - 0,Brett Mordecai,61869,Appalachian State,Jared McGill,50995,Edinboro
+2023,11/12,Appalachian State Invitational,174,L,DEC,3 - 1,Sam Wolf,66631,Air Force,Jared McGill,50995,Edinboro
+2023,11/06,Clarion Open,174,W,MD,11 - 1,Kaeden Berger,70740,Clarion,Jared McGill,50995,Edinboro
+2023,11/06,Clarion Open,174,W,DEC,6 - 3,Sammy Starr,73336,Navy,Jared McGill,50995,Edinboro
+2023,11/06,Clarion Open,174,W,DEC,6 - 0,Brody Baumann,73558,Purdue,Jared McGill,50995,Edinboro
+2023,11/06,Clarion Open,174,W,MD,12 - 2,Chase Cordia,77719,Clarion,Jared McGill,50995,Edinboro
+2023,11/06,Clarion Open,174,W,INJ,2:17,John Worthing,61847,Clarion,Jared McGill,50995,Edinboro
+2023,02/12,JCU Open,174,W,DEC,3 - 0,Josh Knudten,76949,Michigan,Joey Arnold,72215,Edinboro
+2023,02/12,JCU Open,174,W,DEC,3 - 2,Kenny Snyder,74312,Findlay,Joey Arnold,72215,Edinboro
+2023,02/12,JCU Open,174,W,DEC,7 - 2,Rodney Winston,62584,Notre Dame,Joey Arnold,72215,Edinboro
+2023,02/12,JCU Open,174,L,DEC,5 - 4,Kamal Adewumi,60766,Ohio,Joey Arnold,72215,Edinboro
+2023,02/12,JCU Open,174,L,DEC,5 - 3,Tate Geiser,78813,Cleveland State,Joey Arnold,72215,Edinboro
+2023,02/10,Rider - Edinboro Dual,174,L,DEC,2 - 0,Michael Wilson,62190,Rider,Joey Arnold,72215,Edinboro
+2023,02/05,Edinboro Open,174,L,SV-1,5 - 3,Tye Weathersby,69570,Pittsburgh,Joey Arnold,72215,Edinboro
+2023,02/05,Edinboro Open,174,W,SV-1,3 - 1,Ethan Wiant,63052,Clarion,Joey Arnold,72215,Edinboro
+2023,02/05,Edinboro Open,174,L,FALL,1:56,Justin Phillips,57093,Virginia,Joey Arnold,72215,Edinboro
+2023,02/05,Edinboro Open,174,W,SV-1,5 - 3,Spencer Steiner,72700,Central Michigan,Joey Arnold,72215,Edinboro
+2023,02/05,Edinboro Open,174,W,TF5,15 - 0 5:33,Miles Bassett,70025,Bucknell,Joey Arnold,72215,Edinboro
+2023,01/29,Mat-Town Open II,174,L,DEC,8 - 2,Sean Kilrain,64015,Lehigh,Joey Arnold,72215,Edinboro
+2023,01/29,Mat-Town Open II,174,L,DEC,6 - 2,Lance Urbas,71693,Pennsylvania,Joey Arnold,72215,Edinboro
+2023,01/27,Edinboro - Clarion Dual,174,L,MD,12 - 2,John Worthing,61847,Clarion,Joey Arnold,72215,Edinboro
+2023,01/15,Purple Raider Open,174,W,MD,14 - 2,Carson Steinmetz,79595,Tiffin University,Joey Arnold,72215,Edinboro
+2023,01/15,Purple Raider Open,174,W,FALL,3:57,Hayden Flynn,79576,Ashland,Joey Arnold,72215,Edinboro
+2023,01/15,Purple Raider Open,174,W,DEC,3 - 2,Carson Tenold,78585,North Carolina,Joey Arnold,72215,Edinboro
+2023,01/15,Purple Raider Open,174,W,DEC,5 - 3,Andrew Sharer,67440,West Virginia,Joey Arnold,72215,Edinboro
+2023,01/15,Purple Raider Open,174,L,DEC,5 - 2,Macartney Parkinson,67304,Purdue,Joey Arnold,72215,Edinboro
+2023,01/15,Purple Raider Open,174,L,DEC,3 - 1,Chase Kranitz,73700,Buffalo,Joey Arnold,72215,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,174,L,DEC,5 - 3,Marcus Petite,67407,Buffalo,Joey Arnold,72215,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,174,W,SV-1,8 - 6,Ronald Dimmerling,78754,Cleveland State,Joey Arnold,72215,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,174,L,DEC,4 - 2,Kamal Adewumi,60766,Ohio,Joey Arnold,72215,Edinboro
+2023,12/18,Bucknell - Edinboro Dual,184,L,FALL,2:00,Logan Deacetis,71753,Bucknell,Joey Arnold,72215,Edinboro
+2023,12/18,Edinboro - Buffalo Dual,184,L,MD,18 - 7,Guiseppe Hoose,56371,Buffalo,Joey Arnold,72215,Edinboro
+2023,12/10,Ohio - Edinboro Dual,174,L,DEC,6 - 2,Sal Perrine,73171,Ohio,Joey Arnold,72215,Edinboro
+2023,12/02,Cliff Keen Invitational,174,L,TF5,22 - 6 7:00,Mekhi Lewis,49338,Virginia Tech,Joey Arnold,72215,Edinboro
+2023,12/02,Cliff Keen Invitational,174,L,DEC,4 - 3,Benjamin Haubert,71286,The Citadel,Joey Arnold,72215,Edinboro
+2023,11/20,Northern Colorado - Edinboro Dual,174,L,FALL,6:59,Andrew Berreyesa,49111,Northern Colorado,Joey Arnold,72215,Edinboro
+2023,11/20,Edinboro - West Virginia Dual,174,L,MD,10 - 1,Brody Conley,71814,West Virginia,Joey Arnold,72215,Edinboro
+2023,11/13,Ohio Intercollegiate Open,174,L,DEC,4 - 3,Luke Vanadia,79308,High School,Joey Arnold,72215,Edinboro
+2023,11/13,Ohio Intercollegiate Open,174,W,MD,16 - 5,Matt Gentry,79421,Gannon,Joey Arnold,72215,Edinboro
+2023,11/13,Ohio Intercollegiate Open,174,W,FALL,6:40,Tyler Balent,79272,Rochester Institute of Technology,Joey Arnold,72215,Edinboro
+2023,11/13,Ohio Intercollegiate Open,174,L,DEC,8 - 7,Leonardo Galasso,73722,Central Michigan,Joey Arnold,72215,Edinboro
+2023,11/13,Ohio Intercollegiate Open,174,W,DEC,10 - 8,Carson Smith,78776,Cleveland State,Joey Arnold,72215,Edinboro
+2023,11/06,Clarion Open,174,L,DEC,2 - 0,Macartney Parkinson,67304,Purdue,Joey Arnold,72215,Edinboro
+2023,11/06,Clarion Open,174,L,FALL,3:37,Suds Dubler,78567,Clarion,Joey Arnold,72215,Edinboro
+2023,11/06,Clarion Open,174,W,DEC,8 - 4,Nick Olivieri,76389,Brown,Joey Arnold,72215,Edinboro
+2023,03/03,MAC Championships,184,L,MD,8 - 0,Ben Cushman,57359,Central Michigan,Jack Kilner,65375,Edinboro
+2023,03/03,MAC Championships,184,L,DEC,3 - 1,Guiseppe Hoose,56371,Buffalo,Jack Kilner,65375,Edinboro
+2023,02/17,Edinboro - Bloomsburg Dual,184,L,DEC,4 - 0,Bruno Stolfi,60224,Bloomsburg,Jack Kilner,65375,Edinboro
+2023,02/16,Edinboro - Lock Haven Dual,184,L,DEC,6 - 0,Colin Fegley,63035,Lock Haven,Jack Kilner,65375,Edinboro
+2023,02/10,Rider - Edinboro Dual,184,L,SV-1,3 - 1,Isaac Dean,72506,Rider,Jack Kilner,65375,Edinboro
+2023,02/05,Edinboro Open,184,W,SV-1,7 - 5,Chase Cordia,77719,Clarion,Jack Kilner,65375,Edinboro
+2023,02/05,Edinboro Open,184,W,FALL,8:30,Ian Bush,76349,West Virginia,Jack Kilner,65375,Edinboro
+2023,02/05,Edinboro Open,184,L,DEC,5 - 0,Jack Wilt,73042,Lehigh,Jack Kilner,65375,Edinboro
+2023,02/05,Edinboro Open,184,W,DEC,4 - 0,Gilbert Marquez,72226,Buffalo,Jack Kilner,65375,Edinboro
+2023,02/05,Edinboro Open,184,W,DEC,5 - 2,Trever Begin,56281,Mercyhurst,Jack Kilner,65375,Edinboro
+2023,01/27,Edinboro - Clarion Dual,184,L,FALL,3:00,Will Feldkamp,51599,Clarion,Jack Kilner,65375,Edinboro
+2023,01/21,George Mason - Edinboro Dual,184,L,DEC,7 - 2,Tyler Kocak,69715,George Mason,Jack Kilner,65375,Edinboro
+2023,01/14,Cleveland State - Edinboro Dual,184,L,DEC,4 - 1,Deandre Nassar,62202,Cleveland State,Jack Kilner,65375,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,184,W,DEC,8 - 5,Patrick Cutchember,78460,Clarion,Jack Kilner,65375,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,184,W,DEC,3 - 0,Gilbert Marquez,72226,Buffalo,Jack Kilner,65375,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,184,W,DEC,4 - 3,Gabe Phillips,66972,Cleveland State,Jack Kilner,65375,Edinboro
+2023,01/07,Oklahoma - Edinboro Dual,184,L,DEC,3 - 1,Tate Picklo,72165,Oklahoma,Jack Kilner,65375,Edinboro
+2023,11/20,Northern Colorado - Edinboro Dual,197,W,DEC,5 - 3,Xavier Vasquez,49233,Northern Colorado,Jack Kilner,65375,Edinboro
+2023,11/20,Edinboro - West Virginia Dual,197,L,MD,11 - 3,Austin Cooley,56772,West Virginia,Jack Kilner,65375,Edinboro
+2023,11/12,Appalachian State Invitational,197,L,DEC,6 - 1,Blake Schaffer,79797,Kent State,Jack Kilner,65375,Edinboro
+2023,11/12,Appalachian State Invitational,197,L,MD,8 - 0,Michael Battista,51672,Virginia,Jack Kilner,65375,Edinboro
+2023,11/06,Clarion Open,184,W,DEC,7 - 1,Derek Yingling,60759,Slippery Rock,Ethan Ducca,62334,Edinboro
+2023,11/06,Clarion Open,184,L,DEC,6 - 1,Reece Heller,61961,Pittsburgh,Ethan Ducca,62334,Edinboro
+2023,11/06,Clarion Open,184,W,DEC,12 - 6,Hunter Johns,62914,Navy,Ethan Ducca,62334,Edinboro
+2023,11/06,Clarion Open,184,L,MD,13 - 4,David Key,56717,Navy,Ethan Ducca,62334,Edinboro
+2023,11/06,Clarion Open,184,W,DEC,10 - 3,Anthony Bradley,79091,Maryland,Ethan Ducca,62334,Edinboro
+2023,03/03,MAC Championships,197,L,TB-1,4 - 2,Sam Mitchell,61028,Buffalo,Cody Mulligan,50589,Edinboro
+2023,03/03,MAC Championships,197,W,DEC,5 - 0,Tyler Bagoly,49098,Clarion,Cody Mulligan,50589,Edinboro
+2023,03/03,MAC Championships,197,W,DEC,3 - 2,Cameron Wood,73724,Central Michigan,Cody Mulligan,50589,Edinboro
+2023,03/03,MAC Championships,197,W,MD,9 - 1,Brad Morrison,78739,Lock Haven,Cody Mulligan,50589,Edinboro
+2023,03/03,MAC Championships,197,L,MD,12 - 3,Ethan Laird,50134,Rider,Cody Mulligan,50589,Edinboro
+2023,02/17,Edinboro - Bloomsburg Dual,197,W,MD,12 - 2,Tanner Culver,62461,Bloomsburg,Cody Mulligan,50589,Edinboro
+2023,02/16,Edinboro - Lock Haven Dual,197,W,FALL,4:33,Johnny Miller,78738,Lock Haven,Cody Mulligan,50589,Edinboro
+2023,02/10,Rider - Edinboro Dual,197,L,DEC,5 - 3,Ethan Laird,50134,Rider,Cody Mulligan,50589,Edinboro
+2023,01/27,Edinboro - Clarion Dual,197,L,DEC,3 - 2,Tyler Bagoly,49098,Clarion,Cody Mulligan,50589,Edinboro
+2023,01/21,George Mason - Edinboro Dual,197,W,DEC,4 - 1,Jon List,71833,George Mason,Cody Mulligan,50589,Edinboro
+2023,01/14,Cleveland State - Edinboro Dual,197,L,DEC,3 - 2,Anthony Perrine,49135,Cleveland State,Cody Mulligan,50589,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,197,W,MD,10 - 2,Braydon Vandenberg,78715,Buffalo,Cody Mulligan,50589,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,197,W,DEC,4 - 0,Eli Sheeran,71783,Buffalo,Cody Mulligan,50589,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,197,W,FALL,2:55,Joey Lyons,72596,Cleveland State,Cody Mulligan,50589,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,197,W,DEC,7 - 0,Riley Godek,78722,Bucknell,Cody Mulligan,50589,Edinboro
+2023,01/07,Oklahoma - Edinboro Dual,197,W,DEC,8 - 2,Seth Seago,63882,Oklahoma,Cody Mulligan,50589,Edinboro
+2023,12/18,Bucknell - Edinboro Dual,197,L,SV-1,3 - 1,Nolan Springer,71749,Bucknell,Cody Mulligan,50589,Edinboro
+2023,12/18,Edinboro - Buffalo Dual,197,L,DEC,2 - 0,Sam Mitchell,61028,Buffalo,Cody Mulligan,50589,Edinboro
+2023,12/10,Ohio - Edinboro Dual,197,L,DEC,4 - 3,Carson Brewer,60286,Ohio,Cody Mulligan,50589,Edinboro
+2023,12/02,Cliff Keen Invitational,197,W,MFOR,0 - 0,Brendin Yatooma,66965,Michigan,Cody Mulligan,50589,Edinboro
+2023,12/02,Cliff Keen Invitational,197,W,DEC,2 - 1,Carson Brewer,60286,Ohio,Cody Mulligan,50589,Edinboro
+2023,12/02,Cliff Keen Invitational,197,L,MD,8 - 0,Tanner Sloan,56251,South Dakota State,Cody Mulligan,50589,Edinboro
+2023,12/02,Cliff Keen Invitational,197,L,DEC,4 - 2,Tanner Harvey,48451,Oregon State,Cody Mulligan,50589,Edinboro
+2023,02/16,Thursday Throw Down,197,W,DEC,3 - 2,Spencer Vos,79798,Kent State,Lonnell Owens-Pabon,78784,Edinboro
+2023,02/16,Thursday Throw Down,197,L,MD,16 - 5,Vinny Scaramuzzino,72110,Lake Erie College,Lonnell Owens-Pabon,78784,Edinboro
+2023,02/16,Thursday Throw Down,197,L,DEC,6 - 2,Brylan Clouse,64491,Lake Erie College,Lonnell Owens-Pabon,78784,Edinboro
+2023,02/12,JCU Open,197,W,MD,10 - 1,Evan Straub,79598,Tiffin University,Lonnell Owens-Pabon,78784,Edinboro
+2023,02/12,JCU Open,197,W,DEC,9 - 2,Matthew Abraham,75974,Toledo,Lonnell Owens-Pabon,78784,Edinboro
+2023,02/12,JCU Open,197,W,FALL,1:45,Sean McElhinny,71069,John Carroll,Lonnell Owens-Pabon,78784,Edinboro
+2023,02/10,Edinboro Rider ECM,197,L,DEC,6 - 3,Asa Terrell,69517,Rider,Lonnell Owens-Pabon,78784,Edinboro
+2023,02/05,Edinboro Open,197,W,DEC,6 - 4,Nathan Wickersham,73381,West Virginia,Lonnell Owens-Pabon,78784,Edinboro
+2023,02/05,Edinboro Open,197,L,DEC,7 - 3,Geoff Magin,62874,Pittsburgh,Lonnell Owens-Pabon,78784,Edinboro
+2023,02/05,Edinboro Open,197,L,DEC,5 - 3,Tyler Bagoly,49098,Clarion,Lonnell Owens-Pabon,78784,Edinboro
+2023,02/05,Edinboro Open,197,W,DEC,6 - 5,Riley Godek,78722,Bucknell,Lonnell Owens-Pabon,78784,Edinboro
+2023,02/05,Edinboro Open,197,W,MD,9 - 1,Hayden Linkerhof,78513,Bucknell,Lonnell Owens-Pabon,78784,Edinboro
+2023,01/29,Mat-Town Open II,197,L,DEC,9 - 4,Gabe Monroe,82063,US Naval Academy Prep School,Lonnell Owens-Pabon,78784,Edinboro
+2023,01/29,Mat-Town Open II,197,W,FALL,4:26,Noah Foltz,78741,Lock Haven,Lonnell Owens-Pabon,78784,Edinboro
+2023,01/29,Mat-Town Open II,197,L,DEC,5 - 4,Liam Volk-Klos,78524,American,Lonnell Owens-Pabon,78784,Edinboro
+2023,01/15,Purple Raider Open,197,W,DEC,18 - 11,Kael Wisler,79317,Michigan State,Lonnell Owens-Pabon,78784,Edinboro
+2023,01/15,Purple Raider Open,197,W,DEC,10 - 3,Lance Trost,79006,Michigan,Lonnell Owens-Pabon,78784,Edinboro
+2023,01/15,Purple Raider Open,197,L,TF5,21 - 4 7:00,TJ Stewart,74569,Virginia Tech,Lonnell Owens-Pabon,78784,Edinboro
+2023,01/15,Purple Raider Open,197,W,FALL,4:18,Nick Whittington,69616,Seton Hill,Lonnell Owens-Pabon,78784,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,197,L,FALL,6:11,Jack Cummings,79007,Michigan,Lonnell Owens-Pabon,78784,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,197,W,DEC,4 - 1,Joey Lyons,72596,Cleveland State,Lonnell Owens-Pabon,78784,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,197,L,FALL,2:56,Seth Seago,63882,Oklahoma,Lonnell Owens-Pabon,78784,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,197,W,FALL,2:03,Eric Gamble,74015,Pitt-Johnstown,Lonnell Owens-Pabon,78784,Edinboro
+2023,03/03,MAC Championships,285,L,SV-1,4 - 2,Donovan Sprouse,78363,George Mason,Nick Lodato,72606,Edinboro
+2023,03/03,MAC Championships,285,L,DEC,11 - 4,Shane Noonan,58615,Bloomsburg,Nick Lodato,72606,Edinboro
+2023,02/17,Edinboro - Bloomsburg Dual,285,L,FALL,3:45,Shane Noonan,58615,Bloomsburg,Nick Lodato,72606,Edinboro
+2023,02/16,Edinboro - Lock Haven Dual,285,L,MD,12 - 3,Isaac Reid,50915,Lock Haven,Nick Lodato,72606,Edinboro
+2023,02/10,Rider - Edinboro Dual,285,L,MD,13 - 1,David Szuba,72908,Rider,Nick Lodato,72606,Edinboro
+2023,01/27,Edinboro - Clarion Dual,285,W,DEC,3 - 1,Austin Chapman,63708,Clarion,Nick Lodato,72606,Edinboro
+2023,01/21,George Mason - Edinboro Dual,285,W,DEC,4 - 2,Donovan Sprouse,78363,George Mason,Nick Lodato,72606,Edinboro
+2023,01/14,Cleveland State - Edinboro Dual,285,W,DEC,6 - 5,Daniel Bucknavich,62488,Cleveland State,Nick Lodato,72606,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,285,W,FALL,3:57,Leo Muzika,78897,West Virginia,Nick Lodato,72606,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,285,L,DEC,11 - 4,Mason Cover,72597,Cleveland State,Nick Lodato,72606,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,285,L,MD,10 - 2,Michael Misita,72583,Ohio State,Nick Lodato,72606,Edinboro
+2023,01/07,Oklahoma - Edinboro Dual,285,L,MD,18 - 6,Josh Heindselman,57311,Oklahoma,Nick Lodato,72606,Edinboro
+2023,12/18,Edinboro Bucknell ECM,285,L,FALL,1:27,Luke Niemeyer,57205,Bucknell,Nick Lodato,72606,Edinboro
+2023,12/18,Edinboro - Buffalo Dual,285,L,DEC,6 - 3,Eli Sheeran,71783,Buffalo,Nick Lodato,72606,Edinboro
+2023,12/10,Ohio - Edinboro Dual,285,W,DEC,7 - 1,Drew Harris,74323,Ohio,Nick Lodato,72606,Edinboro
+2023,12/04,Lake Erie Storm Open,285,W,FALL,6:16,Michael DeLuca,71390,Mercyhurst,Nick Lodato,72606,Edinboro
+2023,12/04,Lake Erie Storm Open,285,W,DEC,6 - 4,Nick West,73022,Michigan State,Nick Lodato,72606,Edinboro
+2023,12/04,Lake Erie Storm Open,285,L,DEC,10 - 4,Laron Parks,67092,Notre Dame,Nick Lodato,72606,Edinboro
+2023,12/04,Lake Erie Storm Open,285,W,FALL,2:04,Kourdell Todd,63193,Alderson-Broaddus University,Nick Lodato,72606,Edinboro
+2023,11/12,Appalachian State Invitational,285,L,DEC,10 - 4,Gabe Christenson,61850,Virginia,Nick Lodato,72606,Edinboro
+2023,11/12,Appalachian State Invitational,285,W,DEC,6 - 2,Jacob Cover,57237,Kent State,Nick Lodato,72606,Edinboro
+2023,11/12,Appalachian State Invitational,285,L,FALL,1:50,Jacob Sartorio,65393,Appalachian State,Nick Lodato,72606,Edinboro
+2023,11/12,Appalachian State Invitational,285,L,FALL,1:49,Wyatt Hendrickson,56694,Air Force,Nick Lodato,72606,Edinboro
+2023,11/06,Clarion Open,285,W,MD,15 - 4,Abraham Preston,73731,Gardner-Webb,Nick Lodato,72606,Edinboro
+2023,11/06,Clarion Open,285,L,DEC,6 - 5,Robert Unruh,69772,Buffalo,Nick Lodato,72606,Edinboro
+2023,11/06,Clarion Open,285,L,DEC,6 - 5,Alex Semenenko,79210,Brown,Nick Lodato,72606,Edinboro
+2023,02/12,JCU Open,285,W,DEC,4 - 0,Tyler Cobb,82617,Findlay,Max Millin,66911,Edinboro
+2023,02/12,JCU Open,285,W,DEC,8 - 1,James Campbell,79321,Michigan State,Max Millin,66911,Edinboro
+2023,02/12,JCU Open,285,W,MD,12 - 1,Wyatt Bailey,74300,Ashland,Max Millin,66911,Edinboro
+2023,02/12,JCU Open,285,L,DEC,4 - 0,Laron Parks,67092,Notre Dame,Max Millin,66911,Edinboro
+2023,02/05,Edinboro Open,285,W,MD,10 - 1,Robert Unruh,69772,Buffalo,Max Millin,66911,Edinboro
+2023,02/05,Edinboro Open,285,L,DEC,4 - 1,TJ Moore,62573,Lehigh,Max Millin,66911,Edinboro
+2023,02/05,Edinboro Open,285,L,DEC,6 - 2,Elijah Jones,56940,Lehigh,Max Millin,66911,Edinboro
+2023,01/29,Mat-Town Open II,285,W,DEC,8 - 4,Ethan Miller,78742,Lock Haven,Max Millin,66911,Edinboro
+2023,01/29,Mat-Town Open II,285,L,DEC,4 - 3,Jamier Ferere,78581,Navy,Max Millin,66911,Edinboro
+2023,01/29,Mat-Town Open II,285,L,DEC,6 - 4,Ryan Catka,72191,Navy,Max Millin,66911,Edinboro
+2023,01/29,Mat-Town Open II,285,W,DEC,7 - 4,Tyler McCatharn,79217,Bloomsburg,Max Millin,66911,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,285,L,DEC,4 - 2,Nolan Neves,72918,NYC RTC,Max Millin,66911,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,285,W,DEC,8 - 3,Robert Unruh,69772,Buffalo,Max Millin,66911,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,285,W,MD,11 - 1,Mason Cover,72597,Cleveland State,Max Millin,66911,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,285,W,DEC,4 - 0,Justin Jaeckin,67043,Cleveland State,Max Millin,66911,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,285,W,MFOR,0 - 0,Hogan Swenski,73186,Ohio State,Max Millin,66911,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,285,L,DEC,5 - 3,Logan Shephard,73758,Bucknell,Max Millin,66911,Edinboro
+2023,12/18,Bucknell - Edinboro Dual,285,L,DEC,3 - 1,Logan Shephard,73758,Bucknell,Max Millin,66911,Edinboro
+2023,12/02,Cliff Keen Invitational,285,L,SV-1,3 - 1,Mason Fiscella,57035,Appalachian State,Max Millin,66911,Edinboro
+2023,12/02,Cliff Keen Invitational,285,L,MD,9 - 1,Lee Herrington,56179,Nebraska-Kearney,Max Millin,66911,Edinboro
+2023,12/02,Cliff Keen Invitational,285,W,DEC,3 - 2,Aeden Begue,72233,LIU,Max Millin,66911,Edinboro
+2023,11/20,Northern Colorado - Edinboro Dual,285,L,DEC,5 - 4,Xavier Doolin,70921,Northern Colorado,Max Millin,66911,Edinboro
+2023,11/20,Edinboro - West Virginia Dual,285,L,DEC,6 - 2,Michael Wolfgram,57526,West Virginia,Max Millin,66911,Edinboro
+2023,11/06,Clarion Open,285,L,SV-1,3 - 1,Brendan Furman,49113,Cornell,Max Millin,66911,Edinboro
+2023,11/06,Clarion Open,285,L,SV-1,3 - 1,Tristan Ruhlman,71690,Purdue,Max Millin,66911,Edinboro
+2023,02/16,Thursday Throw Down,285,W,DEC,3 - 1,Dylan Norris,69541,Lake Erie College,Kade Sottolano,78785,Edinboro
+2023,02/12,JCU Open,285,W,DEC,7 - 0,Dylan Norris,69541,Lake Erie College,Kade Sottolano,78785,Edinboro
+2023,02/12,JCU Open,285,L,DEC,2 - 1,Laron Parks,67092,Notre Dame,Kade Sottolano,78785,Edinboro
+2023,02/12,JCU Open,285,W,FALL,4:19,Demetrius Daniels,63185,Alderson-Broaddus University,Kade Sottolano,78785,Edinboro
+2023,02/05,Edinboro Open,285,W,DEC,8 - 1,Stephen Schott,83971,Unattached,Kade Sottolano,78785,Edinboro
+2023,02/05,Edinboro Open,285,W,DEC,6 - 3,Charlie Tibbitts,78440,Binghamton,Kade Sottolano,78785,Edinboro
+2023,02/05,Edinboro Open,285,L,FALL,0:26,Matt Long,63094,Gannon,Kade Sottolano,78785,Edinboro
+2023,02/05,Edinboro Open,285,L,DEC,5 - 3,Reynold Maines,39928,Clarion,Kade Sottolano,78785,Edinboro
+2023,02/05,Edinboro Open,285,W,DEC,3 - 1,Carter Blough,79320,Michigan State,Kade Sottolano,78785,Edinboro
+2023,01/29,Mat-Town Open II,285,L,DEC,4 - 1,Matthew Cruise,73551,Pennsylvania,Kade Sottolano,78785,Edinboro
+2023,01/29,Mat-Town Open II,285,L,DEC,3 - 2,Charlie Tibbitts,78440,Binghamton,Kade Sottolano,78785,Edinboro
+2023,01/17,Tuesday Throw Down II,285,W,FALL,2:47,Michael DeLuca,71390,Mercyhurst,Kade Sottolano,78785,Edinboro
+2023,01/17,Tuesday Throw Down II,285,L,FALL,2:25,Matt Long,63094,Gannon,Kade Sottolano,78785,Edinboro
+2023,01/15,Purple Raider Open,285,L,DEC,2 - 0,Keegan Nugent,71974,Michigan,Kade Sottolano,78785,Edinboro
+2023,01/15,Purple Raider Open,285,L,DEC,2 - 1,Justin Jaeckin,67043,Cleveland State,Kade Sottolano,78785,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,285,L,SV-1,3 - 1,Justin Jaeckin,67043,Cleveland State,Kade Sottolano,78785,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,285,L,DEC,4 - 0,Hogan Swenski,73186,Ohio State,Kade Sottolano,78785,Edinboro
+2023,01/08,Bobby Kauffman Memorial Open,285,W,DEC,4 - 1,Drew Harris,74323,Ohio,Kade Sottolano,78785,Edinboro
+2023,11/12,App State Open,285,W,DEC,9 - 3,Drew Harris,74323,Ohio,Kade Sottolano,78785,Edinboro
+2023,11/12,App State Open,285,W,DEC,4 - 3,Abraham Preston,73731,Gardner-Webb,Kade Sottolano,78785,Edinboro
+2023,11/12,App State Open,285,L,MD,15 - 2,Ethan Weatherspoon,60762,Virginia,Kade Sottolano,78785,Edinboro
+2023,11/12,App State Open,285,L,DEC,4 - 1,Ethan Weatherspoon,60762,Virginia,Kade Sottolano,78785,Edinboro
+2023,11/06,Clarion Open,285,W,DEC,4 - 0,Josh Boggan,79799,Kent State,Kade Sottolano,78785,Edinboro
+2023,11/06,Clarion Open,285,L,FALL,2:02,Grady Griess,63170,Navy,Kade Sottolano,78785,Edinboro
+2023,11/06,Clarion Open,285,L,DEC,7 - 0,Tristan Ruhlman,71690,Purdue,Kade Sottolano,78785,Edinboro
+2023,11/06,Clarion Open,285,W,DEC,6 - 2,Logan Shephard,73758,Bucknell,Kade Sottolano,78785,Edinboro

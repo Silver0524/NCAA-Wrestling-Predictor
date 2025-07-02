@@ -1,0 +1,702 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2025,03/07,MAC Championships,125,L,DEC,4 - 2,Tyeler Hagensen,90801,Kent State,Grant Stahl,84287,Central Michigan
+2025,03/07,MAC Championships,125,L,MD,13 - 2,Chris Vargo,85069,Edinboro,Grant Stahl,84287,Central Michigan
+2025,03/07,MAC Championships,125,W,FALL,6:50,Benjamin Aranda,71804,Cleveland State,Grant Stahl,84287,Central Michigan
+2025,02/23,Central Michigan - Michigan Dual,125,L,DEC,9 - 6,Christian Tanefeu,73460,Michigan,Grant Stahl,84287,Central Michigan
+2025,02/21,Michigan State - Central Michigan Dual,125,W,DEC,4 - 1,Caleb Weiand,79429,Michigan State,Grant Stahl,84287,Central Michigan
+2025,02/16,Southern Illinois Edwardsville - Central Michigan Dual,125,L,DEC,8 - 3,Drew Davis,84419,SIU Edwardsville,Grant Stahl,84287,Central Michigan
+2025,02/13,Kent State - Central Michigan Dual,125,W,DEC,9 - 8,Tyeler Hagensen,90801,Kent State,Grant Stahl,84287,Central Michigan
+2025,02/09,Central Michigan - Buffalo Dual,125,L,DEC,4 - 2,Max Elton,79785,Buffalo,Grant Stahl,84287,Central Michigan
+2025,02/07,Central Michigan - Edinboro Dual,125,L,SV-1,4 - 1,Chris Vargo,85069,Edinboro,Grant Stahl,84287,Central Michigan
+2025,02/02,Central Michigan - Ohio Dual,125,W,DEC,3 - 1,Ryan Meek,79652,Ohio,Grant Stahl,84287,Central Michigan
+2025,01/26,CSU Bakersfield - Central Michigan Dual,125,L,DEC,4 - 2,Richard Castro-Sandoval,69366,CSU Bakersfield,Grant Stahl,84287,Central Michigan
+2025,01/26,Campbell - Central Michigan Dual,125,L,MD,14 - 4,Anthony Molton,57207,Campbell,Grant Stahl,84287,Central Michigan
+2025,01/26,Central Michigan - American Dual,125,L,SV-1,4 - 1,JJ Peace,82775,American,Grant Stahl,84287,Central Michigan
+2025,01/19,Cleveland State - Central Michigan Dual,125,L,DEC,10 - 3,Benjamin Aranda,71804,Cleveland State,Grant Stahl,84287,Central Michigan
+2025,01/17,Northern Illinois - Central Michigan Dual,133,L,FALL,6:13,Markel Baker,78892,Northern Illinois,Grant Stahl,84287,Central Michigan
+2025,01/11,Central Michigan - Drexel Dual,125,L,DEC,10 - 4,Desmond Pleasant,71583,Drexel,Grant Stahl,84287,Central Michigan
+2025,01/11,Central Michigan - Wyoming Dual,125,L,DEC,10 - 5,Garrett Ricks,67111,Wyoming,Grant Stahl,84287,Central Michigan
+2025,12/29,Midlands Championships,125,L,MFOR,0 - 0,Kaden Chinavare,77647,Central Michigan,Grant Stahl,84287,Central Michigan
+2025,12/29,Midlands Championships,125,L,INJ,4:35,Jacob Moran,63550,Indiana,Grant Stahl,84287,Central Michigan
+2025,12/29,Midlands Championships,125,W,DEC,7 - 3,Talan Parsons,93524,Northern Illinois,Grant Stahl,84287,Central Michigan
+2025,11/24,Keystone Classic,125,L,DEC,4 - 2,Kaden Chinavare,77647,Central Michigan,Grant Stahl,84287,Central Michigan
+2025,11/24,Keystone Classic,125,L,DEC,4 - 2,Logan Brzozowski,85072,Harvard,Grant Stahl,84287,Central Michigan
+2025,11/24,Keystone Classic,125,W,DEC,5 - 1,Landon Bainey,85070,Edinboro,Grant Stahl,84287,Central Michigan
+2025,11/24,Keystone Classic,125,W,DEC,9 - 7,Chris Vargo,85069,Edinboro,Grant Stahl,84287,Central Michigan
+2025,11/24,Keystone Classic,125,L,FALL,4:28,Brady Pruett,73565,Pennsylvania,Grant Stahl,84287,Central Michigan
+2025,11/09,Michigan State Open,125,L,DEC,11 - 6,Kaden Chinavare,77647,Central Michigan,Grant Stahl,84287,Central Michigan
+2025,11/09,Michigan State Open,125,L,DEC,8 - 5,Nolan Wertanen,78523,Michigan,Grant Stahl,84287,Central Michigan
+2025,01/17,Northern Illinois - Central Michigan Dual,125,L,TF5,15 - 0 6:29,Blake West,73337,Northern Illinois,Kaden Chinavare,77647,Central Michigan
+2025,01/10,Ohio - Central Michigan Dual,125,W,DEC,9 - 4,Logan Dean,93528,Ohio,Kaden Chinavare,77647,Central Michigan
+2025,01/10,Central Michigan - South Dakota State Dual,125,L,TF5,15 - 0 7:00,Tanner Jordan,57664,South Dakota State,Kaden Chinavare,77647,Central Michigan
+2025,12/29,Midlands Championships,125,W,MFOR,0 - 0,Grant Stahl,84287,Central Michigan,Kaden Chinavare,77647,Central Michigan
+2025,12/29,Midlands Championships,125,L,SV-1,8 - 5,Brady Pruett,73565,Pennsylvania,Kaden Chinavare,77647,Central Michigan
+2025,12/29,Midlands Championships,125,L,DEC,4 - 1,Isaiah Quintero,81600,Purdue,Kaden Chinavare,77647,Central Michigan
+2025,12/29,Midlands Championships,125,W,DEC,8 - 6,Drew Davis,84419,SIU Edwardsville,Kaden Chinavare,77647,Central Michigan
+2025,12/08,Central Michigan - Little Rock Dual,125,W,DEC,9 - 6,Tyson Roach,93198,Little Rock,Kaden Chinavare,77647,Central Michigan
+2025,12/06,Central Michigan - Oklahoma Dual,125,L,DEC,9 - 6,Antonio Lorenzo,57329,Oklahoma,Kaden Chinavare,77647,Central Michigan
+2025,11/24,Keystone Classic,125,L,TF5,18 - 0 5:49,Dillon Campbell,84388,Virginia Tech,Kaden Chinavare,77647,Central Michigan
+2025,11/24,Keystone Classic,125,W,DEC,4 - 2,Grant Stahl,84287,Central Michigan,Kaden Chinavare,77647,Central Michigan
+2025,11/24,Keystone Classic,125,W,TF5,19 - 4 5:25,Jack Parker,83327,Franklin & Marshall,Kaden Chinavare,77647,Central Michigan
+2025,11/24,Keystone Classic,125,W,MD,14 - 2,Eamonn Jimenez,78779,Edinboro,Kaden Chinavare,77647,Central Michigan
+2025,11/24,Keystone Classic,125,L,DEC,8 - 3,Sean Logue,78512,Lock Haven,Kaden Chinavare,77647,Central Michigan
+2025,11/15,Indiana - Central Michigan Dual,125,L,DEC,8 - 2,Jacob Moran,63550,Indiana,Kaden Chinavare,77647,Central Michigan
+2025,11/09,Michigan State Open,125,L,DEC,11 - 7,Sam Smith,84592,Oklahoma State,Kaden Chinavare,77647,Central Michigan
+2025,11/09,Michigan State Open,125,W,DEC,11 - 6,Grant Stahl,84287,Central Michigan,Kaden Chinavare,77647,Central Michigan
+2025,11/09,Michigan State Open,125,L,DEC,12 - 8,Christian Tanefeu,73460,Michigan,Kaden Chinavare,77647,Central Michigan
+2025,03/20,NCAA Championships,133,L,DEC,9 - 3,Jacob Van Dee,73557,Nebraska,Sean Spidle,63063,Central Michigan
+2025,03/20,NCAA Championships,133,W,DEC,3 - 0,Kurt Phipps,63966,Bucknell,Sean Spidle,63063,Central Michigan
+2025,03/20,NCAA Championships,133,L,DEC,9 - 4,Nic Bouzakis,73468,Ohio State,Sean Spidle,63063,Central Michigan
+2025,03/20,NCAA Championships,133,W,DEC,4 - 1,Dylan Shawver,61767,Rutgers,Sean Spidle,63063,Central Michigan
+2025,03/07,MAC Championships,133,L,DEC,5 - 1,Anthony Noto,64642,Lock Haven,Sean Spidle,63063,Central Michigan
+2025,03/07,MAC Championships,133,W,DEC,3 - 2,Markel Baker,78892,Northern Illinois,Sean Spidle,63063,Central Michigan
+2025,03/07,MAC Championships,133,W,DEC,1 - 0,Will Betancourt,67444,Rider,Sean Spidle,63063,Central Michigan
+2025,03/07,MAC Championships,133,W,TF5,16 - 0 4:11,Troy Guerra,78599,Buffalo,Sean Spidle,63063,Central Michigan
+2025,02/23,Central Michigan - Michigan Dual,133,W,TF5,15 - 0 5:22,Nolan Wertanen,78523,Michigan,Sean Spidle,63063,Central Michigan
+2025,02/21,Michigan State - Central Michigan Dual,133,W,MD,10 - 0,Andrew Hampton,73020,Michigan State,Sean Spidle,63063,Central Michigan
+2025,02/16,Southern Illinois Edwardsville - Central Michigan Dual,133,W,DEC,1 - 0,Marcel Lopez,78290,SIU Edwardsville,Sean Spidle,63063,Central Michigan
+2025,02/13,Kent State - Central Michigan Dual,133,W,MD,12 - 0,Adan Benavidez,84848,Kent State,Sean Spidle,63063,Central Michigan
+2025,02/09,Central Michigan - Buffalo Dual,133,W,MD,9 - 0,Troy Guerra,78599,Buffalo,Sean Spidle,63063,Central Michigan
+2025,02/07,Central Michigan - Edinboro Dual,133,W,DEC,2 - 0,Colton Camacho,58029,Edinboro,Sean Spidle,63063,Central Michigan
+2025,02/02,Central Michigan - Ohio Dual,133,W,MD,12 - 1,Kolten Barker,92975,Ohio,Sean Spidle,63063,Central Michigan
+2025,01/11,Central Michigan - Drexel Dual,133,W,DEC,5 - 3,Kyle Waterman,67256,Drexel,Sean Spidle,63063,Central Michigan
+2025,01/11,Central Michigan - Wyoming Dual,133,W,DEC,6 - 1,Stockton O'Brien,67451,Wyoming,Sean Spidle,63063,Central Michigan
+2025,01/10,Ohio - Central Michigan Dual,133,W,TF5,16 - 1 7:00,TJ England,63058,Ohio,Sean Spidle,63063,Central Michigan
+2025,01/10,Central Michigan - South Dakota State Dual,133,W,DEC,10 - 3,Derrick Cardinal,68734,South Dakota State,Sean Spidle,63063,Central Michigan
+2025,12/29,Midlands Championships,133,W,MD,14 - 4,Massey Odiotti,84345,Northwestern,Sean Spidle,63063,Central Michigan
+2025,12/29,Midlands Championships,133,W,MD,12 - 0,Massey Odiotti,84345,Northwestern,Sean Spidle,63063,Central Michigan
+2025,12/29,Midlands Championships,133,W,DEC,1 - 0,Angelo Rini,56766,Indiana,Sean Spidle,63063,Central Michigan
+2025,12/29,Midlands Championships,133,L,DEC,4 - 0,Ryan Miller,62350,Pennsylvania,Sean Spidle,63063,Central Michigan
+2025,12/29,Midlands Championships,133,L,FALL,0:50,Ben Davino,84426,Ohio State,Sean Spidle,63063,Central Michigan
+2025,12/29,Midlands Championships,133,W,DEC,3 - 0,Marcel Lopez,78290,SIU Edwardsville,Sean Spidle,63063,Central Michigan
+2025,12/29,Midlands Championships,133,W,DEC,10 - 5,Colton Camacho,58029,Edinboro,Sean Spidle,63063,Central Michigan
+2025,12/20,Kent State Open,133,W,FALL,3:41,Aiden Allen,92968,Virginia,Sean Spidle,63063,Central Michigan
+2025,12/20,Kent State Open,133,W,TF5,17 - 0 5:00,Anthony Clem,85129,West Virginia,Sean Spidle,63063,Central Michigan
+2025,12/20,Kent State Open,133,W,MD,9 - 0,Jacob Macatangay,79062,Purdue,Sean Spidle,63063,Central Michigan
+2025,12/20,Kent State Open,133,W,DEC,6 - 1,Scott Johnson,78992,Clarion,Sean Spidle,63063,Central Michigan
+2025,12/20,Kent State Open,133,W,DEC,3 - 0,Joseph Fischer,68702,Clarion,Sean Spidle,63063,Central Michigan
+2025,12/08,Central Michigan - Little Rock Dual,133,L,FALL,1:24,Nasir Bailey,79029,Little Rock,Sean Spidle,63063,Central Michigan
+2025,12/06,Central Michigan - Oklahoma Dual,133,L,DEC,4 - 1,Cleveland Belton,57334,Oklahoma,Sean Spidle,63063,Central Michigan
+2025,11/24,Keystone Classic,133,L,MD,16 - 4,Ryan Miller,62350,Pennsylvania,Sean Spidle,63063,Central Michigan
+2025,11/24,Keystone Classic,133,L,FALL,1:14,Colton Camacho,58029,Edinboro,Sean Spidle,63063,Central Michigan
+2025,11/15,Indiana - Central Michigan Dual,133,L,DEC,13 - 6,Angelo Rini,56766,Indiana,Sean Spidle,63063,Central Michigan
+2025,11/09,Michigan State Open,133,W,SV-1,8 - 5,Zach Blankenship,78461,Oklahoma State,Sean Spidle,63063,Central Michigan
+2025,11/09,Michigan State Open,133,L,MD,11 - 2,Cael Hughes,78063,Oklahoma State,Sean Spidle,63063,Central Michigan
+2025,11/09,Michigan State Open,133,W,SV-1,10 - 7,Cody Phelps,77956,Michigan State,Sean Spidle,63063,Central Michigan
+2025,11/09,Michigan State Open,133,W,MD,8 - 0,Lucian Brink,64945,Northern Illinois,Sean Spidle,63063,Central Michigan
+2025,02/01,Edinboro Open,133,W,DEC,7 - 4,Camren French,93788,Northern Illinois,Vince Perez,60001,Central Michigan
+2025,02/01,Edinboro Open,133,W,DEC,8 - 3,Brycen Arbogast,93205,West Virginia,Vince Perez,60001,Central Michigan
+2025,02/01,Edinboro Open,133,W,DEC,13 - 8,Parker Sentipal,93051,Edinboro,Vince Perez,60001,Central Michigan
+2025,02/01,Edinboro Open,133,W,TF5,15 - 0 7:00,Aiden Allen,92968,Virginia,Vince Perez,60001,Central Michigan
+2025,02/01,Edinboro Open,133,L,DEC,2 - 1,Maximillian Leete,72678,American,Vince Perez,60001,Central Michigan
+2025,01/26,CSU Bakersfield - Central Michigan Dual,133,W,FALL,4:13,Santino Sanchez,79001,CSU Bakersfield,Vince Perez,60001,Central Michigan
+2025,01/26,Campbell - Central Michigan Dual,133,L,DEC,6 - 3,Logan Heil,57515,Campbell,Vince Perez,60001,Central Michigan
+2025,01/26,Central Michigan - American Dual,133,L,MD,16 - 7,Raymond Lopez,71769,American,Vince Perez,60001,Central Michigan
+2025,01/19,Cleveland State - Central Michigan Dual,133,W,MD,15 - 5,Nick Molchak,78590,Cleveland State,Vince Perez,60001,Central Michigan
+2025,12/29,Midlands Championships,133,L,MD,12 - 4,Massey Odiotti,84345,Northwestern,Vince Perez,60001,Central Michigan
+2025,12/29,Midlands Championships,133,L,DEC,4 - 3,Dylan Shawver,61767,Rutgers,Vince Perez,60001,Central Michigan
+2025,12/29,Midlands Championships,133,W,DEC,5 - 0,Lucian Brink,64945,Northern Illinois,Vince Perez,60001,Central Michigan
+2025,12/20,Kent State Open,133,W,MD,13 - 5,Calvin Werden,93525,Northern Illinois,Vince Perez,60001,Central Michigan
+2025,12/20,Kent State Open,133,W,TF5,18 - 2 4:42,Parker Sentipal,93051,Edinboro,Vince Perez,60001,Central Michigan
+2025,12/20,Kent State Open,133,W,TF5,15 - 0 3:41,Adan Benavidez,84848,Kent State,Vince Perez,60001,Central Michigan
+2025,12/20,Kent State Open,133,L,TF5,17 - 2 5:50,Jacob Macatangay,79062,Purdue,Vince Perez,60001,Central Michigan
+2025,12/20,Kent State Open,133,W,MD,21 - 9,Troy Guerra,78599,Buffalo,Vince Perez,60001,Central Michigan
+2025,12/20,Kent State Open,133,L,DEC,7 - 2,Nick Molchak,78590,Cleveland State,Vince Perez,60001,Central Michigan
+2025,12/07,Cleveland State Open,133,L,DEC,8 - 3,Andrew Austin,79051,Central Michigan,Vince Perez,60001,Central Michigan
+2025,12/07,Cleveland State Open,133,W,FALL,2:06,Gavin Caprella,83285,Air Force,Vince Perez,60001,Central Michigan
+2025,12/07,Cleveland State Open,133,W,DEC,5 - 4,Joseph Fischer,68702,Clarion,Vince Perez,60001,Central Michigan
+2025,12/07,Cleveland State Open,133,W,CMFF,0 - 0,Cody Phelps,77956,Michigan State,Vince Perez,60001,Central Michigan
+2025,11/09,Michigan State Open,133,L,DEC,6 - 4,Markel Baker,78892,Northern Illinois,Vince Perez,60001,Central Michigan
+2025,11/09,Michigan State Open,133,L,DEC,6 - 2,Cody Phelps,77956,Michigan State,Vince Perez,60001,Central Michigan
+2025,02/01,Edinboro Open,133,W,DEC,13 - 9,Parker Sentipal,93051,Edinboro,Cameron Chinavare,92981,Central Michigan
+2025,02/01,Edinboro Open,133,L,MD,21 - 13,Aiden Allen,92968,Virginia,Cameron Chinavare,92981,Central Michigan
+2025,02/01,Edinboro Open,133,W,FALL,1:41,Hunter Gould,85082,Lock Haven,Cameron Chinavare,92981,Central Michigan
+2025,02/01,Edinboro Open,133,W,DEC,8 - 2,Hunter Gould,85082,Lock Haven,Cameron Chinavare,92981,Central Michigan
+2025,02/01,Edinboro Open,133,L,DEC,13 - 8,Colton Camacho,58029,Edinboro,Cameron Chinavare,92981,Central Michigan
+2025,02/01,Edinboro Open,133,W,DEC,11 - 9,Dillon Arrick,92942,Binghamton,Cameron Chinavare,92981,Central Michigan
+2025,01/19,Alma Open,133,W,TF5,21 - 4 7:00,Alejandro Saldana,94398,Southwestern Michigan,Cameron Chinavare,92981,Central Michigan
+2025,01/19,Alma Open,133,W,FALL,1:10,Anthony Cage,94312,Muskegon Community College,Cameron Chinavare,92981,Central Michigan
+2025,01/19,Alma Open,133,W,TF5,21 - 6 7:00,Joe Perez,86197,Muskegon Community College,Cameron Chinavare,92981,Central Michigan
+2025,11/16,Findlay Open,133,W,FALL,4:44,Preston LeFevre,98430,Unattached,Cameron Chinavare,92981,Central Michigan
+2025,11/16,Findlay Open,133,L,FALL,2:27,Joey Roti,72929,Wisconsin-Parkside,Cameron Chinavare,92981,Central Michigan
+2025,11/16,Findlay Open,133,W,TF5,17 - 2 7:00,Brenden Hamilton,74533,Lake Erie College,Cameron Chinavare,92981,Central Michigan
+2025,11/16,Findlay Open,133,W,DEC,9 - 2,Anthony Sagaris,72639,Lake Erie College,Cameron Chinavare,92981,Central Michigan
+2025,11/16,Findlay Open,133,W,MD,20 - 7,Nate Knowlton,87467,Findlay,Cameron Chinavare,92981,Central Michigan
+2025,11/16,Findlay Open,133,L,DEC,13 - 6,Jaden Hinton,71372,Baldwin Wallace,Cameron Chinavare,92981,Central Michigan
+2025,11/09,Michigan State Open,133,W,SV-1,8 - 5,Parker Sentipal,93051,Edinboro,Cameron Chinavare,92981,Central Michigan
+2025,11/09,Michigan State Open,133,L,FALL,5:47,Teddy Flores,92938,Michigan,Cameron Chinavare,92981,Central Michigan
+2025,11/09,Michigan State Open,133,L,DEC,8 - 5,Luis Bazan,84930,Northwestern,Cameron Chinavare,92981,Central Michigan
+2025,11/09,Michigan State Open,133,W,DEC,7 - 2,Cooper Rider,79773,Purdue,Cameron Chinavare,92981,Central Michigan
+2025,11/09,Michigan State Open,133,W,DEC,7 - 3,Jak Keller,84990,Grand Valley State University,Cameron Chinavare,92981,Central Michigan
+2025,11/09,Michigan State Open,133,L,DEC,9 - 7,Nate Knowlton,87467,Findlay,Cameron Chinavare,92981,Central Michigan
+2025,03/07,MAC Championships,141,L,TF5,23 - 3 7:00,Wyatt Henson,63069,Lock Haven,Andrew Austin,79051,Central Michigan
+2025,03/07,MAC Championships,141,W,DEC,7 - 1,Kaden Jett,84348,Ohio,Andrew Austin,79051,Central Michigan
+2025,03/07,MAC Championships,141,W,DEC,12 - 6,Anthony Ferraro,79993,Edinboro,Andrew Austin,79051,Central Michigan
+2025,02/23,Central Michigan - Michigan Dual,141,L,TF5,26 - 11 6:33,Sergio Lemley,78641,Michigan,Andrew Austin,79051,Central Michigan
+2025,02/21,Michigan State - Central Michigan Dual,141,L,DEC,4 - 2,Jaden Crumpler,84469,Michigan State,Andrew Austin,79051,Central Michigan
+2025,02/16,Southern Illinois Edwardsville - Central Michigan Dual,141,W,DEC,12 - 6,Danny Martinez,83252,SIU Edwardsville,Andrew Austin,79051,Central Michigan
+2025,02/13,Kent State - Central Michigan Dual,141,W,DEC,4 - 3,Jordan Decatur,56727,Kent State,Andrew Austin,79051,Central Michigan
+2025,02/07,Central Michigan - Edinboro Dual,141,W,DEC,10 - 3,Anthony Ferraro,79993,Edinboro,Andrew Austin,79051,Central Michigan
+2025,02/02,Central Michigan - Ohio Dual,141,W,DEC,5 - 1,Kaden Jett,84348,Ohio,Andrew Austin,79051,Central Michigan
+2025,01/26,CSU Bakersfield - Central Michigan Dual,141,W,MD,9 - 0,Hayden Zinkin,78516,CSU Bakersfield,Andrew Austin,79051,Central Michigan
+2025,01/26,Central Michigan - American Dual,149,W,DEC,7 - 3,Gage Owen,78773,American,Andrew Austin,79051,Central Michigan
+2025,01/19,Cleveland State - Central Michigan Dual,141,L,MD,12 - 3,Landen Duncan,84294,Cleveland State,Andrew Austin,79051,Central Michigan
+2025,01/17,Northern Illinois - Central Michigan Dual,141,W,FALL,2:00,Jacob Brya,73037,Northern Illinois,Andrew Austin,79051,Central Michigan
+2025,01/11,Central Michigan - Drexel Dual,149,W,DEC,5 - 4,Dominic Findora,78518,Drexel,Andrew Austin,79051,Central Michigan
+2025,12/29,Midlands Championships,133,W,DEC,9 - 5,Drew Heethuis,78620,Princeton,Andrew Austin,79051,Central Michigan
+2025,12/29,Midlands Championships,133,L,MD,10 - 2,Ben Davino,84426,Ohio State,Andrew Austin,79051,Central Michigan
+2025,12/29,Midlands Championships,133,L,DEC,8 - 3,Marcel Lopez,78290,SIU Edwardsville,Andrew Austin,79051,Central Michigan
+2025,12/07,Cleveland State Open,133,W,DEC,8 - 3,Nate Knowlton,87467,Findlay,Andrew Austin,79051,Central Michigan
+2025,12/07,Cleveland State Open,133,W,DEC,8 - 3,Vince Perez,60001,Central Michigan,Andrew Austin,79051,Central Michigan
+2025,12/07,Cleveland State Open,133,L,DEC,6 - 3,Nick Molchak,78590,Cleveland State,Andrew Austin,79051,Central Michigan
+2025,12/07,Cleveland State Open,133,W,TF5,17 - 2 7:00,Bryce Shingleton,84448,Michigan State,Andrew Austin,79051,Central Michigan
+2025,11/24,Keystone Classic,133,W,MD,14 - 3,Chandler Sewell,92951,Drexel,Andrew Austin,79051,Central Michigan
+2025,11/24,Keystone Classic,133,W,DEC,12 - 10,Mason Leiphart,73193,Franklin & Marshall,Andrew Austin,79051,Central Michigan
+2025,11/24,Keystone Classic,133,L,DEC,8 - 6,Alex Almeyda,72982,Pennsylvania,Andrew Austin,79051,Central Michigan
+2025,11/24,Keystone Classic,133,W,FALL,4:23,Kyle Waterman,67256,Drexel,Andrew Austin,79051,Central Michigan
+2025,11/24,Keystone Classic,133,L,DEC,4 - 1,Ryan Miller,62350,Pennsylvania,Andrew Austin,79051,Central Michigan
+2025,11/09,Michigan State Open,133,L,DEC,6 - 1,Zach Blankenship,78461,Oklahoma State,Andrew Austin,79051,Central Michigan
+2025,11/09,Michigan State Open,133,L,DEC,6 - 1,Zan Fugitt,78091,Wisconsin,Andrew Austin,79051,Central Michigan
+2025,11/09,Michigan State Open,133,W,TF5,20 - 4 7:00,Andrew Hampton,73020,Michigan State,Andrew Austin,79051,Central Michigan
+2025,11/09,Michigan State Open,133,W,MD,14 - 2,Noah Mattin,53006,Unattached,Andrew Austin,79051,Central Michigan
+2025,02/01,Edinboro Open,141,W,TF5,17 - 2 5:07,Prestyn Parks,93851,Ohio,Nick Blackburn,93815,Central Michigan
+2025,02/01,Edinboro Open,141,W,MD,14 - 4,Connor Younts,93547,Michigan State,Nick Blackburn,93815,Central Michigan
+2025,02/01,Edinboro Open,141,W,DEC,11 - 4,Gavin Suica,93053,Edinboro,Nick Blackburn,93815,Central Michigan
+2025,02/01,Edinboro Open,141,W,TF5,18 - 3 3:32,Conner Heckman,84588,Lock Haven,Nick Blackburn,93815,Central Michigan
+2025,02/01,Edinboro Open,141,L,MD,12 - 4,Jacob Brennaman,80127,Edinboro,Nick Blackburn,93815,Central Michigan
+2025,02/01,Edinboro Open,141,L,MD,16 - 6,Andre Gonzales,72135,Ohio State,Nick Blackburn,93815,Central Michigan
+2025,01/19,Alma Open,141,W,TF5,20 - 3 7:00,Connor Babel,97747,Muskegon Community College,Nick Blackburn,93815,Central Michigan
+2025,01/19,Alma Open,141,W,TF5,24 - 9 7:00,Hunter Thomson,94401,Rochester Christian,Nick Blackburn,93815,Central Michigan
+2025,01/19,Alma Open,141,W,TF5,18 - 3 7:00,Kyron Zoet,94314,Muskegon Community College,Nick Blackburn,93815,Central Michigan
+2025,01/19,Alma Open,141,W,TF5,19 - 3 7:00,Brady Packer,86412,Adrian,Nick Blackburn,93815,Central Michigan
+2025,01/19,Alma Open,141,W,TF5,17 - 2 7:00,Stuart Donlan,75389,Olivet,Nick Blackburn,93815,Central Michigan
+2025,12/29,Midlands Championships,141,L,DEC,12 - 6,Nathan Jerore,73494,Michigan,Nick Blackburn,93815,Central Michigan
+2025,12/29,Midlands Championships,141,L,DEC,6 - 0,William Baysingar,78480,Illinois,Nick Blackburn,93815,Central Michigan
+2025,12/07,Cleveland State Open,141,W,DEC,5 - 4,Lincoln Gregerson,93025,Air Force,Nick Blackburn,93815,Central Michigan
+2025,12/07,Cleveland State Open,141,W,MD,8 - 0,Ethan Mitchell,82328,Cleveland State,Nick Blackburn,93815,Central Michigan
+2025,12/07,Cleveland State Open,141,W,DEC,11 - 5,Evan Herriman,81743,Michigan State,Nick Blackburn,93815,Central Michigan
+2025,12/07,Cleveland State Open,141,L,MD,11 - 2,Andre Gonzales,72135,Ohio State,Nick Blackburn,93815,Central Michigan
+2025,12/07,Cleveland State Open,141,W,TF5,20 - 5 7:00,Joseph Romano,97647,Lake Erie College,Nick Blackburn,93815,Central Michigan
+2025,11/15,Indiana - Central Michigan Dual,149,W,DEC,4 - 1,Anthony Bahl,79378,Indiana,Nick Blackburn,93815,Central Michigan
+2025,11/09,Michigan State Open,141,W,SV-1,7 - 4,Sammy Agnello,93546,Michigan State,Nick Blackburn,93815,Central Michigan
+2025,11/09,Michigan State Open,141,W,DEC,4 - 2,Carson Exferd,84686,Wisconsin,Nick Blackburn,93815,Central Michigan
+2025,11/09,Michigan State Open,141,W,DEC,7 - 2,Lucan O’Brien,84568,Northern Illinois,Nick Blackburn,93815,Central Michigan
+2025,11/09,Michigan State Open,141,W,DEC,5 - 2,Kaden Jett,84348,Ohio,Nick Blackburn,93815,Central Michigan
+2025,11/09,Michigan State Open,141,W,DEC,4 - 2,Cole Solomey,81723,Purdue,Nick Blackburn,93815,Central Michigan
+2025,11/09,Michigan State Open,141,L,DEC,7 - 2,Kolter Burton,79814,Oklahoma State,Nick Blackburn,93815,Central Michigan
+2025,02/09,Central Michigan - Buffalo Dual,141,W,DEC,1 - 0,Andy Lucinski,71745,Buffalo,Kellan Aure,81789,Central Michigan
+2025,02/02,Central Michigan - Ohio Dual,149,L,TF5,22 - 4 6:59,Derek Raike,76503,Ohio,Kellan Aure,81789,Central Michigan
+2025,01/26,CSU Bakersfield - Central Michigan Dual,149,L,SV-2,4 - 1,Brock Rogers,62863,CSU Bakersfield,Kellan Aure,81789,Central Michigan
+2025,01/26,Campbell - Central Michigan Dual,141,L,DEC,7 - 3,Shannon Hanna,57654,Campbell,Kellan Aure,81789,Central Michigan
+2025,01/26,Central Michigan - American Dual,141,L,SV-1,4 - 1,Elijah White,69903,American,Kellan Aure,81789,Central Michigan
+2025,01/11,Central Michigan - Drexel Dual,141,L,MD,12 - 2,Jordan Soriano,73711,Drexel,Kellan Aure,81789,Central Michigan
+2025,01/11,Central Michigan - Wyoming Dual,141,L,FALL,2:22,Cole Brooks,82044,Wyoming,Kellan Aure,81789,Central Michigan
+2025,01/10,Ohio - Central Michigan Dual,141,W,DEC,4 - 1,Kaden Jett,84348,Ohio,Kellan Aure,81789,Central Michigan
+2025,01/10,Central Michigan - South Dakota State Dual,141,L,DEC,5 - 0,Caleb Gross,62668,South Dakota State,Kellan Aure,81789,Central Michigan
+2025,12/29,Midlands Championships,141,L,TF5,15 - 0 7:00,Jason Miranda,64654,Stanford,Kellan Aure,81789,Central Michigan
+2025,12/29,Midlands Championships,141,L,DEC,8 - 2,Jameson Garcia,84308,Harvard,Kellan Aure,81789,Central Michigan
+2025,12/29,Midlands Championships,141,W,DEC,2 - 1,Cole Solomey,81723,Purdue,Kellan Aure,81789,Central Michigan
+2025,12/08,Central Michigan - Little Rock Dual,141,W,FALL,6:10,Cole Minnick,72222,Little Rock,Kellan Aure,81789,Central Michigan
+2025,12/06,Central Michigan - Oklahoma Dual,141,L,MD,11 - 3,Mosha Schwartz,55841,Oklahoma,Kellan Aure,81789,Central Michigan
+2025,11/24,Keystone Classic,141,W,MD,9 - 1,Jack Bastarrika,84366,Virginia Tech,Kellan Aure,81789,Central Michigan
+2025,11/24,Keystone Classic,141,L,MD,17 - 8,Jameson Garcia,84308,Harvard,Kellan Aure,81789,Central Michigan
+2025,11/24,Keystone Classic,141,L,DEC,9 - 5,Dante Frinzi,74056,Harvard,Kellan Aure,81789,Central Michigan
+2025,11/15,Indiana - Central Michigan Dual,141,L,DEC,8 - 3,Henry Porter,71920,Indiana,Kellan Aure,81789,Central Michigan
+2025,11/09,Michigan State Open,141,L,DEC,6 - 3,Joey Buttler,84314,Indiana,Kellan Aure,81789,Central Michigan
+2025,11/09,Michigan State Open,141,L,DEC,4 - 2,Joey Buttler,84314,Indiana,Kellan Aure,81789,Central Michigan
+2025,11/09,Michigan State Open,141,W,MD,14 - 3,Paul Woo,78922,Ohio,Kellan Aure,81789,Central Michigan
+2025,11/09,Michigan State Open,141,W,DEC,4 - 1,Nathan Jerore,73494,Michigan,Kellan Aure,81789,Central Michigan
+2025,11/09,Michigan State Open,141,W,DEC,4 - 1,Brock Bobzien,71941,Wisconsin,Kellan Aure,81789,Central Michigan
+2025,11/09,Michigan State Open,141,W,TF5,17 - 2 7:00,Gustavo DeLima,97216,Grand Valley State University,Kellan Aure,81789,Central Michigan
+2025,03/20,NCAA Championships,149,L,DEC,7 - 3,Malyke Hines,56932,Lehigh,Mason Shrader,73720,Central Michigan
+2025,03/20,NCAA Championships,149,L,FALL,6:04,Cross Wasilewski,75492,Pennsylvania,Mason Shrader,73720,Central Michigan
+2025,03/07,MAC Championships,149,L,MD,13 - 4,Sammy Alvarez,56763,Rider,Mason Shrader,73720,Central Michigan
+2025,03/07,MAC Championships,149,W,TF5,19 - 4 5:51,David McClelland,79303,Clarion,Mason Shrader,73720,Central Michigan
+2025,03/07,MAC Championships,149,W,DEC,2 - 0,Hayden Whidden,78758,SIU Edwardsville,Mason Shrader,73720,Central Michigan
+2025,03/07,MAC Championships,149,W,DEC,6 - 4,Derek Raike,76503,Ohio,Mason Shrader,73720,Central Michigan
+2025,02/23,Central Michigan - Michigan Dual,149,W,DEC,4 - 2,Dylan Gilcher,77964,Michigan,Mason Shrader,73720,Central Michigan
+2025,02/21,Michigan State - Central Michigan Dual,149,W,TF5,18 - 3 5:50,Clayton Jones,84473,Michigan State,Mason Shrader,73720,Central Michigan
+2025,02/16,Southern Illinois Edwardsville - Central Michigan Dual,149,W,DEC,5 - 3,Hayden Whidden,78758,SIU Edwardsville,Mason Shrader,73720,Central Michigan
+2025,02/13,Kent State - Central Michigan Dual,149,W,TF5,18 - 2 7:00,Cael Andrews,84849,Kent State,Mason Shrader,73720,Central Michigan
+2025,02/09,Central Michigan - Buffalo Dual,149,W,SV-1,6 - 3,Sam Ewing,78842,Buffalo,Mason Shrader,73720,Central Michigan
+2025,02/07,Central Michigan - Edinboro Dual,149,W,TF5,19 - 4 7:00,Colin Roberts,73166,Edinboro,Mason Shrader,73720,Central Michigan
+2025,01/26,Campbell - Central Michigan Dual,149,L,INJ,2:37,Wynton Denkins,78619,Campbell,Mason Shrader,73720,Central Michigan
+2025,01/19,Cleveland State - Central Michigan Dual,149,W,TF5,19 - 4 7:00,Connor Saylor,81719,Cleveland State,Mason Shrader,73720,Central Michigan
+2025,01/17,Northern Illinois - Central Michigan Dual,149,W,MD,17 - 8,Collin Arch,79060,Northern Illinois,Mason Shrader,73720,Central Michigan
+2025,01/11,Central Michigan - Wyoming Dual,149,W,SV-1,12 - 9,Gabe Willochell,62335,Wyoming,Mason Shrader,73720,Central Michigan
+2025,01/10,Ohio - Central Michigan Dual,149,W,FALL,2:27,Jake Necessary,78923,Ohio,Mason Shrader,73720,Central Michigan
+2025,01/10,Central Michigan - South Dakota State Dual,149,L,DEC,8 - 4,Avery Allen,84405,South Dakota State,Mason Shrader,73720,Central Michigan
+2025,12/29,Midlands Championships,149,L,DEC,7 - 4,Finn Solomon,73123,Pittsburgh,Mason Shrader,73720,Central Michigan
+2025,12/29,Midlands Championships,149,L,SV-1,4 - 1,Cross Wasilewski,75492,Pennsylvania,Mason Shrader,73720,Central Michigan
+2025,12/29,Midlands Championships,149,W,DEC,9 - 2,Jaden Pepe,84310,Harvard,Mason Shrader,73720,Central Michigan
+2025,12/29,Midlands Championships,149,W,DEC,7 - 0,Kelvin Griffin,78848,Lehigh,Mason Shrader,73720,Central Michigan
+2025,12/29,Midlands Championships,149,W,DEC,12 - 5,Wyatt Krejsa,85123,Purdue,Mason Shrader,73720,Central Michigan
+2025,12/29,Midlands Championships,149,W,MD,9 - 0,Tommy Curran,77778,Northern Illinois,Mason Shrader,73720,Central Michigan
+2025,12/06,Central Michigan - Oklahoma Dual,149,L,MD,14 - 4,Willie McDougald,67042,Oklahoma,Mason Shrader,73720,Central Michigan
+2025,11/24,Keystone Classic,149,W,DEC,8 - 2,Lucas Kapusta,84439,Lock Haven,Mason Shrader,73720,Central Michigan
+2025,11/24,Keystone Classic,149,W,MD,9 - 1,Dominic Findora,78518,Drexel,Mason Shrader,73720,Central Michigan
+2025,11/24,Keystone Classic,149,W,DEC,9 - 4,Dominic Findora,78518,Drexel,Mason Shrader,73720,Central Michigan
+2025,11/24,Keystone Classic,149,L,DEC,9 - 3,Kelly Dunnigan,71694,Pennsylvania,Mason Shrader,73720,Central Michigan
+2025,11/24,Keystone Classic,149,W,DEC,8 - 5,Nicholas Stonecheck,62691,Lock Haven,Mason Shrader,73720,Central Michigan
+2025,11/09,Michigan State Open,149,W,DEC,7 - 0,Aiden Torres,84316,Indiana,Mason Shrader,73720,Central Michigan
+2025,11/09,Michigan State Open,149,L,TF5,15 - 0 7:00,Jaxon Joy,82488,Spartan Combat RTC,Mason Shrader,73720,Central Michigan
+2025,11/09,Michigan State Open,149,W,DEC,15 - 11,Logan Cravatas,78920,Ohio,Mason Shrader,73720,Central Michigan
+2025,11/09,Michigan State Open,149,W,TF5,20 - 4 7:00,Cade Cass,80175,Findlay,Mason Shrader,73720,Central Michigan
+2025,02/01,Edinboro Open,149,L,CMFF,0 - 0,August Hibler,93097,Northwestern,Jimmy Nugent,79053,Central Michigan
+2025,02/01,Edinboro Open,149,L,DEC,7 - 5,August Hibler,93097,Northwestern,Jimmy Nugent,79053,Central Michigan
+2025,02/01,Edinboro Open,149,W,TF5,15 - 0 2:44,Jayden D’Ambrosio,93052,Edinboro,Jimmy Nugent,79053,Central Michigan
+2025,02/01,Edinboro Open,149,W,MD,12 - 3,Daxton Chase,85105,Ohio State,Jimmy Nugent,79053,Central Michigan
+2025,02/01,Edinboro Open,149,L,MFOR,0 - 0,Michael Dolan,73378,West Virginia,Jimmy Nugent,79053,Central Michigan
+2025,02/01,Edinboro Open,149,W,MD,19 - 6,Colin Roberts,73166,Edinboro,Jimmy Nugent,79053,Central Michigan
+2025,12/20,Kent State Open,149,W,TF5,18 - 3 4:33,Thomas Bock,92171,Kent State,Jimmy Nugent,79053,Central Michigan
+2025,12/20,Kent State Open,149,W,MD,12 - 1,Wyatt Krejsa,85123,Purdue,Jimmy Nugent,79053,Central Michigan
+2025,12/20,Kent State Open,149,W,INJ,1:47,Nick Schaukowitsch,74079,Edinboro,Jimmy Nugent,79053,Central Michigan
+2025,12/20,Kent State Open,149,W,TF5,19 - 2 4:03,Dylan Layton,72925,Cleveland State,Jimmy Nugent,79053,Central Michigan
+2025,12/07,Cleveland State Open,149,W,INJ,4:42,August Hibler,93097,Northwestern,Jimmy Nugent,79053,Central Michigan
+2025,12/07,Cleveland State Open,149,W,DEC,5 - 0,Tyler Guerra,92955,Unattached,Jimmy Nugent,79053,Central Michigan
+2025,12/07,Cleveland State Open,149,W,TF5,21 - 6 5:49,Nate Roth,84484,Kent State,Jimmy Nugent,79053,Central Michigan
+2025,12/07,Cleveland State Open,149,W,FALL,1:36,Dylan Layton,72925,Cleveland State,Jimmy Nugent,79053,Central Michigan
+2025,12/07,Cleveland State Open,149,W,DEC,5 - 0,Jaden Reynolds,72620,Purdue,Jimmy Nugent,79053,Central Michigan
+2025,11/09,Michigan State Open,149,L,TF5,18 - 3 7:00,Jaxon Joy,82488,Spartan Combat RTC,Jimmy Nugent,79053,Central Michigan
+2025,11/09,Michigan State Open,149,W,DEC,7 - 3,Aidan Medora,62360,Wisconsin,Jimmy Nugent,79053,Central Michigan
+2025,11/09,Michigan State Open,149,L,DEC,7 - 3,Aiden Davis,78724,Bucknell,Jimmy Nugent,79053,Central Michigan
+2025,02/01,Edinboro Open,149,W,MD,11 - 3,Ryder Yoshitake,93504,Spartan Combat RTC,Colin Kacena,93814,Central Michigan
+2025,02/01,Edinboro Open,149,L,DEC,9 - 4,August Hibler,93097,Northwestern,Colin Kacena,93814,Central Michigan
+2025,02/01,Edinboro Open,149,W,MD,8 - 0,Michael Dolan,73378,West Virginia,Colin Kacena,93814,Central Michigan
+2025,02/01,Edinboro Open,149,W,MD,12 - 3,Colin Roberts,73166,Edinboro,Colin Kacena,93814,Central Michigan
+2025,02/01,Edinboro Open,149,L,DEC,4 - 1,Kal Miller,72211,Maryland,Colin Kacena,93814,Central Michigan
+2025,01/19,Alma Open,149,W,TF5,21 - 5 7:00,Michael Gonyeau,94381,Unattached,Colin Kacena,93814,Central Michigan
+2025,01/19,Alma Open,149,W,TF5,18 - 2 7:00,Adam Polk,94154,Rochester Christian,Colin Kacena,93814,Central Michigan
+2025,01/19,Alma Open,149,W,TF5,20 - 4 7:00,Jager Kwiatkowski,87994,Rochester Christian,Colin Kacena,93814,Central Michigan
+2025,01/19,Alma Open,149,W,TF5,19 - 4 7:00,Jacob Boudreau,86206,Mott Community College,Colin Kacena,93814,Central Michigan
+2025,12/08,Central Michigan - Little Rock Dual,149,L,DEC,11 - 5,Brennan Van Hoecke,74571,Little Rock,Colin Kacena,93814,Central Michigan
+2025,11/09,Michigan State Open,141,W,FALL,2:59,Sean Larkin,93309,Michigan State,Colin Kacena,93814,Central Michigan
+2025,11/09,Michigan State Open,141,W,DEC,7 - 1,Giosue Hickman,93096,Northwestern,Colin Kacena,93814,Central Michigan
+2025,11/09,Michigan State Open,141,L,DEC,7 - 3,Cole Solomey,81723,Purdue,Colin Kacena,93814,Central Michigan
+2025,11/09,Michigan State Open,141,L,DEC,4 - 1,Cole Solomey,81723,Purdue,Colin Kacena,93814,Central Michigan
+2025,11/09,Michigan State Open,141,W,MD,8 - 0,Eli Ashcroft,75644,Kent State,Colin Kacena,93814,Central Michigan
+2025,11/09,Michigan State Open,141,W,FALL,5:23,Elijah Bunn,84988,Grand Valley State University,Colin Kacena,93814,Central Michigan
+2025,03/20,NCAA Championships,157,L,DEC,7 - 2,DJ McGee,78901,George Mason,Johnny Lovett,61935,Central Michigan
+2025,03/20,NCAA Championships,157,L,DEC,10 - 4,Meyer Shapiro,78556,Cornell,Johnny Lovett,61935,Central Michigan
+2025,03/20,NCAA Championships,157,W,MD,11 - 3,Jacori Teemer,50581,Iowa,Johnny Lovett,61935,Central Michigan
+2025,03/07,MAC Championships,157,L,SV-1,8 - 1,DJ McGee,78901,George Mason,Johnny Lovett,61935,Central Michigan
+2025,03/07,MAC Championships,157,W,DEC,5 - 2,Carson Miller,79338,Kent State,Johnny Lovett,61935,Central Michigan
+2025,03/07,MAC Championships,157,W,MD,9 - 1,Logan Cravatas,78920,Ohio,Johnny Lovett,61935,Central Michigan
+2025,03/07,MAC Championships,157,W,TF5,18 - 3 6:41,Landen Johnson,73502,Northern Illinois,Johnny Lovett,61935,Central Michigan
+2025,02/23,Central Michigan - Michigan Dual,157,W,DEC,9 - 3,Zack Mattin,72210,Michigan,Johnny Lovett,61935,Central Michigan
+2025,02/21,Michigan State - Central Michigan Dual,157,W,DEC,9 - 2,Braden Stauffenberg,78899,Michigan State,Johnny Lovett,61935,Central Michigan
+2025,02/16,Southern Illinois Edwardsville - Central Michigan Dual,157,W,DEC,7 - 3,Eric Almarinez,80240,SIU Edwardsville,Johnny Lovett,61935,Central Michigan
+2025,02/13,Kent State - Central Michigan Dual,157,W,MD,15 - 3,Carson Miller,79338,Kent State,Johnny Lovett,61935,Central Michigan
+2025,02/09,Central Michigan - Buffalo Dual,157,W,MD,14 - 2,Kaleb Burgess,72225,Buffalo,Johnny Lovett,61935,Central Michigan
+2025,02/07,Central Michigan - Edinboro Dual,157,W,DEC,13 - 10,Ryan Burgos,63141,Edinboro,Johnny Lovett,61935,Central Michigan
+2025,02/02,Central Michigan - Ohio Dual,157,W,DEC,8 - 2,Logan Cravatas,78920,Ohio,Johnny Lovett,61935,Central Michigan
+2025,01/26,CSU Bakersfield - Central Michigan Dual,157,W,TF5,19 - 3 4:20,Devyn Flores-Che,79002,CSU Bakersfield,Johnny Lovett,61935,Central Michigan
+2025,01/26,Campbell - Central Michigan Dual,157,W,DEC,7 - 3,Chris Earnest,78840,Campbell,Johnny Lovett,61935,Central Michigan
+2025,01/26,Central Michigan - American Dual,157,W,DEC,4 - 3,Jack Nies,69901,American,Johnny Lovett,61935,Central Michigan
+2025,01/19,Cleveland State - Central Michigan Dual,157,W,DEC,5 - 1,Reese Stephen,86117,Cleveland State,Johnny Lovett,61935,Central Michigan
+2025,01/17,Northern Illinois - Central Michigan Dual,157,W,MD,13 - 5,Landen Johnson,73502,Northern Illinois,Johnny Lovett,61935,Central Michigan
+2025,01/11,Central Michigan - Drexel Dual,157,W,MD,14 - 4,Aboubakare Diaby,72624,Drexel,Johnny Lovett,61935,Central Michigan
+2025,01/11,Central Michigan - Wyoming Dual,157,W,DEC,4 - 2,Jared Hill,72164,Wyoming,Johnny Lovett,61935,Central Michigan
+2025,01/10,Ohio - Central Michigan Dual,157,W,MD,19 - 7,Logan Cravatas,78920,Ohio,Johnny Lovett,61935,Central Michigan
+2025,01/10,Central Michigan - South Dakota State Dual,157,L,SV-1,5 - 2,Moses Espinoza-Owens,81796,South Dakota State,Johnny Lovett,61935,Central Michigan
+2025,12/29,Midlands Championships,157,W,MD,11 - 3,Cade Wirnsberger,84272,Bucknell,Johnny Lovett,61935,Central Michigan
+2025,12/29,Midlands Championships,157,W,DEC,5 - 2,Dylan Evans,78788,Pittsburgh,Johnny Lovett,61935,Central Michigan
+2025,12/29,Midlands Championships,157,W,MD,17 - 5,JT Chance,84412,George Mason,Johnny Lovett,61935,Central Michigan
+2025,12/29,Midlands Championships,157,W,TB-2,3 - 2,DJ McGee,78901,George Mason,Johnny Lovett,61935,Central Michigan
+2025,12/08,Central Michigan - Little Rock Dual,157,L,SV-1,4 - 1,Matt Bianchi,72120,Little Rock,Johnny Lovett,61935,Central Michigan
+2025,12/06,Central Michigan - Oklahoma Dual,157,W,SV-1,5 - 3,KJ Evans,73511,Oklahoma,Johnny Lovett,61935,Central Michigan
+2025,11/24,Keystone Classic,157,W,MD,19 - 6,Nolan Leiss,93197,Harvard,Johnny Lovett,61935,Central Michigan
+2025,11/24,Keystone Classic,157,W,DEC,8 - 1,Paul Ognissanti,84385,Pennsylvania,Johnny Lovett,61935,Central Michigan
+2025,11/24,Keystone Classic,157,W,DEC,1 - 0,Nick Stampoulos,74398,Lock Haven,Johnny Lovett,61935,Central Michigan
+2025,11/24,Keystone Classic,157,L,DEC,10 - 8,Jude Swisher,73210,Pennsylvania,Johnny Lovett,61935,Central Michigan
+2025,11/15,Indiana - Central Michigan Dual,157,W,DEC,7 - 1,Ryan Garvick,85076,Indiana,Johnny Lovett,61935,Central Michigan
+2025,11/09,Michigan State Open,157,W,DEC,10 - 6,Brody Hallin,78604,Northern Illinois,Johnny Lovett,61935,Central Michigan
+2025,11/09,Michigan State Open,157,L,DEC,6 - 4,Peyten Kellar,73168,Ohio,Johnny Lovett,61935,Central Michigan
+2025,11/09,Michigan State Open,157,W,MD,15 - 6,Ryan Michaels,67121,Edinboro,Johnny Lovett,61935,Central Michigan
+2025,11/09,Michigan State Open,157,W,DEC,4 - 2,Caleb Fish,63045,Oklahoma State,Johnny Lovett,61935,Central Michigan
+2025,03/20,NCAA Championships,165,L,TB-1,3 - 2,Maxx Mayfield,62981,Northwestern,Chandler Amaker,72571,Central Michigan
+2025,03/20,NCAA Championships,165,W,DEC,8 - 6,Noah Mulvaney,78676,Bucknell,Chandler Amaker,72571,Central Michigan
+2025,03/20,NCAA Championships,165,L,TF5,16 - 0 3:32,Mitchell Mesenbrink,73197,Penn State,Chandler Amaker,72571,Central Michigan
+2025,03/20,NCAA Championships,165,W,SV-1,8 - 5,Jared Keslar,72953,Pittsburgh,Chandler Amaker,72571,Central Michigan
+2025,03/07,MAC Championships True 2nd,165,W,DEC,2 - 0,Caden Dobbins,81883,Lock Haven,Chandler Amaker,72571,Central Michigan
+2025,03/07,MAC Championships,165,L,DEC,6 - 0,Enrique Munguia,73500,Rider,Chandler Amaker,72571,Central Michigan
+2025,03/07,MAC Championships,165,W,DEC,4 - 1,Wesley Barnes,79466,Clarion,Chandler Amaker,72571,Central Michigan
+2025,03/07,MAC Championships,165,W,DEC,4 - 2,Tate Geiser,78813,Cleveland State,Chandler Amaker,72571,Central Michigan
+2025,03/07,MAC Championships,165,W,INJ,3:05,Evan Maag,78473,George Mason,Chandler Amaker,72571,Central Michigan
+2025,02/23,Central Michigan - Michigan Dual,165,L,FALL,0:47,Beau Mantanona,78420,Michigan,Chandler Amaker,72571,Central Michigan
+2025,02/21,Michigan State - Central Michigan Dual,165,L,DEC,10 - 3,Jay Nivison,65850,Michigan State,Chandler Amaker,72571,Central Michigan
+2025,02/16,Southern Illinois Edwardsville - Central Michigan Dual,165,W,DEC,5 - 3,Bradley Gillum,73397,SIU Edwardsville,Chandler Amaker,72571,Central Michigan
+2025,02/13,Kent State - Central Michigan Dual,165,W,DEC,5 - 0,Hunter Andel,84319,Kent State,Chandler Amaker,72571,Central Michigan
+2025,02/09,Central Michigan - Buffalo Dual,165,W,DEC,6 - 0,Hunter Shaut,61754,Buffalo,Chandler Amaker,72571,Central Michigan
+2025,02/07,Central Michigan - Edinboro Dual,165,L,DEC,4 - 2,Max Kirby,78782,Edinboro,Chandler Amaker,72571,Central Michigan
+2025,02/02,Central Michigan - Ohio Dual,165,L,DEC,4 - 2,Jack Lledo,78924,Ohio,Chandler Amaker,72571,Central Michigan
+2025,12/29,Midlands Championships,165,L,MD,11 - 3,Cael Berg,71877,Harvard,Chandler Amaker,72571,Central Michigan
+2025,12/29,Midlands Championships,165,L,DEC,5 - 1,Bradley Gillum,73397,SIU Edwardsville,Chandler Amaker,72571,Central Michigan
+2025,12/08,Central Michigan - Little Rock Dual,165,L,SV-1,4 - 1,Brendon Abdon,73189,Little Rock,Chandler Amaker,72571,Central Michigan
+2025,12/06,Central Michigan - Oklahoma Dual,165,L,DEC,12 - 6,Tate Picklo,72165,Oklahoma,Chandler Amaker,72571,Central Michigan
+2025,11/24,Keystone Classic,165,W,SV-3,5 - 2,Caden Dobbins,81883,Lock Haven,Chandler Amaker,72571,Central Michigan
+2025,11/24,Keystone Classic,165,W,DEC,6 - 0,Kylan Montgomery,76528,Virginia Tech,Chandler Amaker,72571,Central Michigan
+2025,11/24,Keystone Classic,165,W,DEC,5 - 3,Jackson Spires,71788,Virginia Tech,Chandler Amaker,72571,Central Michigan
+2025,11/15,Indiana - Central Michigan Dual,165,L,MD,14 - 3,Tyler Lillard,72963,Indiana,Chandler Amaker,72571,Central Michigan
+2025,11/09,Michigan State Open,165,W,DEC,7 - 2,Louis Cerchio,84612,Spartan Combat RTC,Chandler Amaker,72571,Central Michigan
+2025,11/09,Michigan State Open,165,W,MD,13 - 5,Cody Goebel,79251,Wisconsin,Chandler Amaker,72571,Central Michigan
+2025,11/09,Michigan State Open,165,W,DEC,4 - 2,Tommy Bennett,78096,Northern Illinois,Chandler Amaker,72571,Central Michigan
+2025,11/09,Michigan State Open,165,L,FALL,1:55,Bryce Hepner,64961,Ohio State,Chandler Amaker,72571,Central Michigan
+2025,11/09,Michigan State Open,165,L,FALL,8:10,Maxx Mayfield,62981,Northwestern,Chandler Amaker,72571,Central Michigan
+2025,11/09,Michigan State Open,165,W,TF5,18 - 0 7:00,Andrew Knick,70149,Findlay,Chandler Amaker,72571,Central Michigan
+2025,01/26,CSU Bakersfield - Central Michigan Dual,165,L,MD,11 - 2,Guillermo Escobedo,66969,CSU Bakersfield,Tyler Swiderski,75986,Central Michigan
+2025,01/26,Campbell - Central Michigan Dual,165,L,DEC,5 - 1,Domonic Baker,71742,Campbell,Tyler Swiderski,75986,Central Michigan
+2025,01/26,Central Michigan - American Dual,165,L,MD,13 - 3,Kaden Milheim,78789,American,Tyler Swiderski,75986,Central Michigan
+2025,01/19,Cleveland State - Central Michigan Dual,165,W,TF5,20 - 4 7:00,Tate Geiser,78813,Cleveland State,Tyler Swiderski,75986,Central Michigan
+2025,01/17,Northern Illinois - Central Michigan Dual,165,W,DEC,4 - 1,Brett Smith,83397,Northern Illinois,Tyler Swiderski,75986,Central Michigan
+2025,01/11,Central Michigan - Drexel Dual,165,W,DEC,9 - 4,Cody Walsh,71125,Drexel,Tyler Swiderski,75986,Central Michigan
+2025,01/11,Central Michigan - Wyoming Dual,165,L,DEC,8 - 1,Cooper Voorhees,67459,Wyoming,Tyler Swiderski,75986,Central Michigan
+2025,01/10,Ohio - Central Michigan Dual,165,W,MD,12 - 4,Bobby Gaylord,73170,Ohio,Tyler Swiderski,75986,Central Michigan
+2025,01/10,Central Michigan - South Dakota State Dual,165,W,DEC,7 - 3,Marcus Espinoza-Owens,81795,South Dakota State,Tyler Swiderski,75986,Central Michigan
+2025,12/29,Midlands Championships,165,W,DEC,10 - 4,Andrew Barbosa,84441,Rutgers,Tyler Swiderski,75986,Central Michigan
+2025,12/29,Midlands Championships,165,L,MD,9 - 1,Hunter Garvin,73862,Stanford,Tyler Swiderski,75986,Central Michigan
+2025,12/29,Midlands Championships,165,W,DEC,7 - 2,Jared Keslar,72953,Pittsburgh,Tyler Swiderski,75986,Central Michigan
+2025,12/29,Midlands Championships,165,L,TB-1,2 - 1,Drayden Morton,80401,Cal Baptist,Tyler Swiderski,75986,Central Michigan
+2025,12/29,Midlands Championships,165,W,DEC,9 - 5,Andrew Troczynski,73134,Pennsylvania,Tyler Swiderski,75986,Central Michigan
+2025,12/29,Midlands Championships,165,W,TF5,19 - 3 7:00,Cael Berg,71877,Harvard,Tyler Swiderski,75986,Central Michigan
+2025,12/29,Midlands Championships,165,W,MFOR,0 - 0,Evan Maag,78473,George Mason,Tyler Swiderski,75986,Central Michigan
+2025,12/29,Midlands Championships,165,W,MD,11 - 3,Caden Ernd,71871,Illinois,Tyler Swiderski,75986,Central Michigan
+2025,11/09,Michigan State Open,165,L,MFOR,0 - 0,Kailan Keith,76134,Thomas More College,Tyler Swiderski,75986,Central Michigan
+2025,11/09,Michigan State Open,165,L,MD,10 - 2,Jack Haskin,76338,Lake Erie College,Tyler Swiderski,75986,Central Michigan
+2025,02/01,Edinboro Open,165,L,TF5,17 - 2 7:00,Nick Kunstek,79011,Lock Haven,Nick Marienfeld,79054,Central Michigan
+2025,02/01,Edinboro Open,165,L,MD,18 - 6,Kelin Laffey,78143,Pittsburgh,Nick Marienfeld,79054,Central Michigan
+2025,02/01,Edinboro Open,165,W,DEC,3 - 1,Ethan Barr,76508,Kent State,Nick Marienfeld,79054,Central Michigan
+2025,02/01,Edinboro Open,165,W,MD,9 - 0,Deakon Bailey,92941,Binghamton,Nick Marienfeld,79054,Central Michigan
+2025,01/19,Alma Open,165,W,MD,18 - 5,Garry JOHNSONlll,100545,Muskegon Community College,Nick Marienfeld,79054,Central Michigan
+2025,01/19,Alma Open,165,W,TF5,19 - 4 7:00,Noah Nichols,94318,Olivet,Nick Marienfeld,79054,Central Michigan
+2025,01/19,Alma Open,165,W,MFOR,0 - 0,Cole Hopkins,84291,Central Michigan,Nick Marienfeld,79054,Central Michigan
+2025,01/19,Alma Open,165,W,MD,14 - 2,Ryan Bergman,95185,Wisconsin-Oshkosh,Nick Marienfeld,79054,Central Michigan
+2025,12/20,Kent State Open,165,L,TF5,18 - 3 3:38,Christopher Minto,84337,Nebraska,Nick Marienfeld,79054,Central Michigan
+2025,12/20,Kent State Open,165,L,DEC,5 - 2,Dom Frontino,84271,Unattached,Nick Marienfeld,79054,Central Michigan
+2025,12/20,Kent State Open,165,W,TF5,19 - 3 5:30,Shermuhammad Sadriddinov,79833,Clarion,Nick Marienfeld,79054,Central Michigan
+2025,12/20,Kent State Open,165,W,MD,13 - 4,Joseph Chiappazzi,78470,West Virginia,Nick Marienfeld,79054,Central Michigan
+2025,12/07,Cleveland State Open,165,L,TF5,18 - 3 6:08,Eddie Enright,93099,Northwestern,Nick Marienfeld,79054,Central Michigan
+2025,12/07,Cleveland State Open,165,W,MD,12 - 0,Pat Downing,84794,Ohio State,Nick Marienfeld,79054,Central Michigan
+2025,12/07,Cleveland State Open,165,L,DEC,4 - 1,Connor Holm,93459,Cleveland State,Nick Marienfeld,79054,Central Michigan
+2025,12/07,Cleveland State Open,165,W,FALL,6:40,Noah Blough,97633,Lake Erie College,Nick Marienfeld,79054,Central Michigan
+2025,11/09,Michigan State Open,165,L,DEC,5 - 3,Brett Smith,83397,Northern Illinois,Nick Marienfeld,79054,Central Michigan
+2025,11/09,Michigan State Open,165,L,SV-1,4 - 1,Jay Nivison,65850,Michigan State,Nick Marienfeld,79054,Central Michigan
+2025,11/09,Michigan State Open,165,W,FALL,4:27,Nathan Mansor,97220,Grand Valley State University,Nick Marienfeld,79054,Central Michigan
+2025,02/01,Edinboro Open,165,L,DEC,9 - 7,Ryan Money,84579,Maryland,Cole Hopkins,84291,Central Michigan
+2025,02/01,Edinboro Open,165,W,DEC,8 - 6,Brett Barbush,82506,Lock Haven,Cole Hopkins,84291,Central Michigan
+2025,02/01,Edinboro Open,165,L,MD,15 - 6,Deakon Bailey,92941,Binghamton,Cole Hopkins,84291,Central Michigan
+2025,01/19,Alma Open,165,L,MFOR,0 - 0,Nick Marienfeld,79054,Central Michigan,Cole Hopkins,84291,Central Michigan
+2025,01/19,Alma Open,165,W,FALL,2:10,Colin Jewel,100544,Cleary,Cole Hopkins,84291,Central Michigan
+2025,01/19,Alma Open,165,W,TF5,19 - 3 7:00,Trenton Mansfield,97728,Southwestern Michigan,Cole Hopkins,84291,Central Michigan
+2025,01/19,Alma Open,165,W,TF5,15 - 0 7:00,Elan Bekker,94533,Henry Ford College,Cole Hopkins,84291,Central Michigan
+2025,12/07,Cleveland State Open,165,L,DEC,8 - 2,Andrew Harmon,79537,Air Force,Cole Hopkins,84291,Central Michigan
+2025,12/07,Cleveland State Open,165,W,DEC,10 - 3,Chase Leech,93313,Indiana,Cole Hopkins,84291,Central Michigan
+2025,12/07,Cleveland State Open,165,L,DEC,5 - 1,Jay Nivison,65850,Michigan State,Cole Hopkins,84291,Central Michigan
+2025,12/07,Cleveland State Open,165,W,DEC,5 - 1,George Johnson,74525,West Virginia,Cole Hopkins,84291,Central Michigan
+2025,11/16,Findlay Open,165,W,TF5,16 - 1 7:00,Kévon Russell,97744,Indiana Tech,Cole Hopkins,84291,Central Michigan
+2025,11/16,Findlay Open,165,L,MD,11 - 3,Jasitin Kubwimana,86497,Campbellsville,Cole Hopkins,84291,Central Michigan
+2025,11/16,Findlay Open,165,W,FALL,2:51,Kaden Lone,86575,Indianapolis,Cole Hopkins,84291,Central Michigan
+2025,11/16,Findlay Open,165,W,MD,12 - 2,Tyler Pressel,84999,Grand Valley State University,Cole Hopkins,84291,Central Michigan
+2025,11/16,Findlay Open,165,L,SV-1,4 - 1,Andrew Knick,70149,Findlay,Cole Hopkins,84291,Central Michigan
+2025,11/09,Michigan State Open,165,L,SV-1,8 - 5,Jack Lledo,78924,Ohio,Cole Hopkins,84291,Central Michigan
+2025,11/09,Michigan State Open,165,L,DEC,9 - 2,Max Kirby,78782,Edinboro,Cole Hopkins,84291,Central Michigan
+2025,03/20,NCAA Championships,174,L,DEC,3 - 2,Brody Baumann,73558,Purdue,Alex Cramer,56732,Central Michigan
+2025,03/20,NCAA Championships,174,L,MD,13 - 2,MJ Gaitan,78494,Iowa State,Alex Cramer,56732,Central Michigan
+2025,03/07,MAC Championships,174,L,MD,14 - 0,Garrett Thompson,73169,Ohio,Alex Cramer,56732,Central Michigan
+2025,03/07,MAC Championships,174,W,MD,10 - 0,Logan Messer,71846,George Mason,Alex Cramer,56732,Central Michigan
+2025,03/07,MAC Championships,174,W,DEC,6 - 1,Rafael Knapp,84273,Buffalo,Alex Cramer,56732,Central Michigan
+2025,02/23,Central Michigan - Michigan Dual,174,L,DEC,9 - 8,Brock Mantanona,79024,Michigan,Alex Cramer,56732,Central Michigan
+2025,02/21,Michigan State - Central Michigan Dual,174,W,MD,8 - 0,Ceasar Garza,73104,Michigan State,Alex Cramer,56732,Central Michigan
+2025,02/16,Southern Illinois Edwardsville - Central Michigan Dual,174,W,TF5,15 - 0 7:00,Luke Odom,61117,SIU Edwardsville,Alex Cramer,56732,Central Michigan
+2025,02/13,Kent State - Central Michigan Dual,174,W,MD,9 - 0,Waylon Wehler,84854,Kent State,Alex Cramer,56732,Central Michigan
+2025,02/09,Central Michigan - Buffalo Dual,174,W,DEC,4 - 3,Rafael Knapp,84273,Buffalo,Alex Cramer,56732,Central Michigan
+2025,02/07,Central Michigan - Edinboro Dual,174,W,DEC,5 - 3,Brody Evans,84305,Edinboro,Alex Cramer,56732,Central Michigan
+2025,02/02,Central Michigan - Ohio Dual,174,L,MD,13 - 1,Garrett Thompson,73169,Ohio,Alex Cramer,56732,Central Michigan
+2025,01/26,CSU Bakersfield - Central Michigan Dual,174,W,TF5,15 - 0 5:00,Chris Neal,84965,CSU Bakersfield,Alex Cramer,56732,Central Michigan
+2025,01/26,Campbell - Central Michigan Dual,174,W,MD,16 - 5,Riley Augustine,69727,Campbell,Alex Cramer,56732,Central Michigan
+2025,01/26,Central Michigan - American Dual,174,W,MD,12 - 1,Caleb Campos,78804,American,Alex Cramer,56732,Central Michigan
+2025,01/19,Cleveland State - Central Michigan Dual,174,W,TF5,19 - 4 7:00,Gavin Ricketts,84550,Cleveland State,Alex Cramer,56732,Central Michigan
+2025,01/17,Northern Illinois - Central Michigan Dual,174,W,DEC,9 - 5,Tommy Bennett,78096,Northern Illinois,Alex Cramer,56732,Central Michigan
+2025,01/11,Central Michigan - Drexel Dual,174,W,DEC,2 - 1,Jasiah Queen,77621,Drexel,Alex Cramer,56732,Central Michigan
+2025,01/11,Central Michigan - Wyoming Dual,174,W,SV-1,8 - 5,Ethan Ducca,62334,Wyoming,Alex Cramer,56732,Central Michigan
+2025,01/10,Ohio - Central Michigan Dual,174,W,DEC,1 - 0,Garrett Thompson,73169,Ohio,Alex Cramer,56732,Central Michigan
+2025,01/10,Central Michigan - South Dakota State Dual,174,W,DEC,4 - 1,Cade DeVos,57072,South Dakota State,Alex Cramer,56732,Central Michigan
+2025,12/29,Midlands Championships,174,W,DEC,5 - 2,Connor Owens,84625,Michigan,Alex Cramer,56732,Central Michigan
+2025,12/29,Midlands Championships,174,W,DEC,6 - 4,Myles Takats,83325,Bucknell,Alex Cramer,56732,Central Michigan
+2025,12/29,Midlands Championships,174,L,MD,16 - 2,Myles Takats,83325,Bucknell,Alex Cramer,56732,Central Michigan
+2025,12/29,Midlands Championships,174,L,DEC,3 - 1,Lorenzo Norman,78822,Stanford,Alex Cramer,56732,Central Michigan
+2025,12/29,Midlands Championships,174,W,DEC,14 - 13,Jackson Turley,57636,Rutgers,Alex Cramer,56732,Central Michigan
+2025,12/29,Midlands Championships,174,W,TF5,19 - 3 7:00,Jake Evans,73345,Northern Illinois,Alex Cramer,56732,Central Michigan
+2025,12/08,Central Michigan - Little Rock Dual,174,W,SV-1,4 - 1,Tyler Brennan,62844,Little Rock,Alex Cramer,56732,Central Michigan
+2025,12/06,Central Michigan - Oklahoma Dual,174,L,MD,9 - 1,Gaven Sax,65396,Oklahoma,Alex Cramer,56732,Central Michigan
+2025,11/15,Indiana - Central Michigan Dual,174,W,MD,12 - 3,Roman Rogotzke,70925,Indiana,Alex Cramer,56732,Central Michigan
+2025,11/09,Michigan State Open,174,W,MD,16 - 6,Ryan Boucher,79314,Michigan State,Alex Cramer,56732,Central Michigan
+2025,11/09,Michigan State Open,174,W,TF5,17 - 2 7:00,Joseph Martin,74570,Northwestern,Alex Cramer,56732,Central Michigan
+2025,11/09,Michigan State Open,174,W,SV-1,4 - 1,Garrett Thompson,73169,Ohio,Alex Cramer,56732,Central Michigan
+2025,11/09,Michigan State Open,174,W,FALL,2:09,Ceasar Garza,73104,Michigan State,Alex Cramer,56732,Central Michigan
+2025,02/23,Central Michigan - Michigan Dual,184,L,TF5,17 - 2 5:00,Jaden Bullock,67035,Michigan,Mason Alessio,84289,Central Michigan
+2025,01/19,Alma Open,174,W,MD,11 - 2,Harrison Meekhof,94319,Muskegon Community College,Mason Alessio,84289,Central Michigan
+2025,01/19,Alma Open,174,W,TF5,17 - 2 7:00,David Van Daele,88636,Rochester Christian,Mason Alessio,84289,Central Michigan
+2025,01/19,Alma Open,174,W,TF5,17 - 0 7:00,Blaise Armstead,90495,Alma College,Mason Alessio,84289,Central Michigan
+2025,01/19,Alma Open,174,W,FALL,1:08,Elijah Matzke,95243,Wisconsin-Oshkosh,Mason Alessio,84289,Central Michigan
+2025,12/29,Midlands Championships,174,L,MD,11 - 0,Myles Takats,83325,Bucknell,Mason Alessio,84289,Central Michigan
+2025,12/29,Midlands Championships,174,L,DEC,7 - 3,Collin Guffey,81726,Stanford,Mason Alessio,84289,Central Michigan
+2025,12/29,Midlands Championships,174,W,MD,16 - 2,Alex Whitworth,71873,Harvard,Mason Alessio,84289,Central Michigan
+2025,12/29,Midlands Championships,174,W,TF5,17 - 2 7:00,Riley Hackworth,89482,George Mason,Mason Alessio,84289,Central Michigan
+2025,12/29,Midlands Championships,174,W,DEC,10 - 8,Tommy Bennett,78096,Northern Illinois,Mason Alessio,84289,Central Michigan
+2025,11/24,Keystone Classic,174,W,DEC,4 - 3,Brody Evans,84305,Edinboro,Mason Alessio,84289,Central Michigan
+2025,11/24,Keystone Classic,174,W,DEC,8 - 4,Domenic D'Agostino,78471,Drexel,Mason Alessio,84289,Central Michigan
+2025,11/24,Keystone Classic,174,W,SV-3,4 - 1,Ty Finn,72150,Virginia Tech,Mason Alessio,84289,Central Michigan
+2025,11/24,Keystone Classic,174,W,DEC,4 - 2,Jack Janda,71665,Drexel,Mason Alessio,84289,Central Michigan
+2025,11/24,Keystone Classic,174,L,FALL,4:05,Tyler Stoltzfus,65398,Lock Haven,Mason Alessio,84289,Central Michigan
+2025,11/16,Findlay Open,174,L,DEC,14 - 9,Leonardo Galasso,73722,Indiana Tech,Mason Alessio,84289,Central Michigan
+2025,11/16,Findlay Open,174,W,TF5,15 - 0 7:00,Matthew Galemmo,97611,Tiffin University,Mason Alessio,84289,Central Michigan
+2025,11/16,Findlay Open,174,W,DEC,7 - 5,Bradley Mayse,85001,Grand Valley State University,Mason Alessio,84289,Central Michigan
+2025,11/16,Findlay Open,174,L,DEC,7 - 0,Hayden Pummel,73344,Glenville State University,Mason Alessio,84289,Central Michigan
+2025,11/09,Michigan State Open,174,W,TF5,17 - 1 7:00,Austin Stewart,79837,Northern Illinois,Mason Alessio,84289,Central Michigan
+2025,11/09,Michigan State Open,174,L,DEC,4 - 1,Lucas Condon,79397,Wisconsin,Mason Alessio,84289,Central Michigan
+2025,11/09,Michigan State Open,174,L,DEC,5 - 4,Aiden Vandenbush,73000,Northwestern,Mason Alessio,84289,Central Michigan
+2025,03/07,MAC Championships,184,L,DEC,7 - 3,Jeremy Olszko,84350,Ohio,Adrien Cramer,68713,Central Michigan
+2025,03/07,MAC Championships,184,L,DEC,4 - 1,Adrian Gacek,84293,Clarion,Adrien Cramer,68713,Central Michigan
+2025,02/21,Michigan State - Central Michigan Dual,184,L,DEC,6 - 0,Marty Larkin,69873,Michigan State,Adrien Cramer,68713,Central Michigan
+2025,02/16,Southern Illinois Edwardsville - Central Michigan Dual,184,L,SV-1,4 - 1,Deron Pulliam,77410,SIU Edwardsville,Adrien Cramer,68713,Central Michigan
+2025,02/13,Kent State - Central Michigan Dual,184,W,DEC,5 - 1,Kyle Snider,78729,Kent State,Adrien Cramer,68713,Central Michigan
+2025,02/09,Central Michigan - Buffalo Dual,184,L,DEC,9 - 3,Marcus Petite,67407,Buffalo,Adrien Cramer,68713,Central Michigan
+2025,02/02,Central Michigan - Ohio Dual,184,L,DEC,5 - 1,Jeremy Olszko,84350,Ohio,Adrien Cramer,68713,Central Michigan
+2025,01/26,CSU Bakersfield - Central Michigan Dual,184,L,DEC,4 - 2,Gerrit Nijenhuis,62352,CSU Bakersfield,Adrien Cramer,68713,Central Michigan
+2025,01/26,Campbell - Central Michigan Dual,184,W,DEC,5 - 1,Logan Heckert,84472,Campbell,Adrien Cramer,68713,Central Michigan
+2025,01/26,Central Michigan - American Dual,184,L,FALL,5:00,Lucas White,72683,American,Adrien Cramer,68713,Central Michigan
+2025,01/19,Cleveland State - Central Michigan Dual,184,W,MD,8 - 0,JR Reed,78598,Cleveland State,Adrien Cramer,68713,Central Michigan
+2025,01/17,Northern Illinois - Central Michigan Dual,184,W,DEC,8 - 1,Austin Stewart,79837,Northern Illinois,Adrien Cramer,68713,Central Michigan
+2025,01/11,Central Michigan - Drexel Dual,184,W,SV-1,4 - 1,Guiseppe Hoose,56371,Drexel,Adrien Cramer,68713,Central Michigan
+2025,01/11,Central Michigan - Wyoming Dual,184,W,DEC,4 - 2,Quayin Short,70764,Wyoming,Adrien Cramer,68713,Central Michigan
+2025,01/10,Ohio - Central Michigan Dual,184,W,DEC,4 - 3,Jeremy Olszko,84350,Ohio,Adrien Cramer,68713,Central Michigan
+2025,01/10,Central Michigan - South Dakota State Dual,184,L,DEC,11 - 5,Bennett Berge,73099,South Dakota State,Adrien Cramer,68713,Central Michigan
+2025,12/29,Midlands Championships,184,W,DEC,4 - 3,Sam Goin,78640,Indiana,Adrien Cramer,68713,Central Michigan
+2025,12/29,Midlands Championships,184,W,DEC,4 - 3,Chase Kranitz,73700,Pittsburgh,Adrien Cramer,68713,Central Michigan
+2025,12/29,Midlands Championships,184,L,DEC,7 - 1,Donnell Washington,57738,Indiana,Adrien Cramer,68713,Central Michigan
+2025,12/29,Midlands Championships,184,L,DEC,10 - 3,Nathan Haas,62341,Cal Baptist,Adrien Cramer,68713,Central Michigan
+2025,12/29,Midlands Championships,184,L,MD,12 - 3,Maximus Hale,63719,Pennsylvania,Adrien Cramer,68713,Central Michigan
+2025,12/29,Midlands Championships,184,W,MD,10 - 2,Lucas Daly,71943,Michigan State,Adrien Cramer,68713,Central Michigan
+2025,12/29,Midlands Championships,184,W,DEC,4 - 3,Matthew Walsh,84478,Harvard,Adrien Cramer,68713,Central Michigan
+2025,12/08,Central Michigan - Little Rock Dual,184,L,FALL,1:35,Brock Delsignore,71935,Little Rock,Adrien Cramer,68713,Central Michigan
+2025,12/06,Central Michigan - Oklahoma Dual,184,L,MD,12 - 1,Deanthony Parker,71644,Oklahoma,Adrien Cramer,68713,Central Michigan
+2025,11/24,Keystone Classic,184,W,TF5,16 - 0 5:59,Vitali Daniels,93056,Edinboro,Adrien Cramer,68713,Central Michigan
+2025,11/24,Keystone Classic,184,W,MD,16 - 6,Matthew Walsh,84478,Harvard,Adrien Cramer,68713,Central Michigan
+2025,11/24,Keystone Classic,184,W,MD,14 - 5,James Lledo,69571,Lock Haven,Adrien Cramer,68713,Central Michigan
+2025,11/24,Keystone Classic,184,L,SV-3,4 - 1,Colin Fegley,63035,Lock Haven,Adrien Cramer,68713,Central Michigan
+2025,11/15,Indiana - Central Michigan Dual,184,L,DEC,7 - 2,Donnell Washington,57738,Indiana,Adrien Cramer,68713,Central Michigan
+2025,11/09,Michigan State Open,184,L,DEC,5 - 3,Jersey Robb,75825,Oklahoma State,Adrien Cramer,68713,Central Michigan
+2025,11/09,Michigan State Open,184,W,CMFF,0 - 0,Jon Halvorsen,62898,Northwestern,Adrien Cramer,68713,Central Michigan
+2025,11/09,Michigan State Open,184,W,DEC,8 - 1,Brayden Mirjavadi,85006,Grand Valley State University,Adrien Cramer,68713,Central Michigan
+2025,02/07,Central Michigan - Edinboro Dual,184,L,MD,10 - 2,Jared McGill,50995,Edinboro,Cody Brenner,73723,Central Michigan
+2025,02/01,Edinboro Open,184,W,FALL,5:38,Tyler Lynde,92376,Unattached,Cody Brenner,73723,Central Michigan
+2025,02/01,Edinboro Open,184,W,MD,10 - 2,Carson Thomas,93224,High School,Cody Brenner,73723,Central Michigan
+2025,02/01,Edinboro Open,184,W,DEC,2 - 0,Ayden Miller,72194,Clarion,Cody Brenner,73723,Central Michigan
+2025,02/01,Edinboro Open,184,W,DEC,4 - 1,Tyler Bienus,84280,Bucknell,Cody Brenner,73723,Central Michigan
+2025,12/29,Midlands Championships,184,L,MD,15 - 5,Ian Bush,76349,West Virginia,Cody Brenner,73723,Central Michigan
+2025,12/29,Midlands Championships,184,L,FALL,2:03,Brian Soldano,67558,Rutgers,Cody Brenner,73723,Central Michigan
+2025,12/29,Midlands Championships,184,W,MD,11 - 1,Spencer Steiner,72700,Northern Illinois,Cody Brenner,73723,Central Michigan
+2025,12/20,Kent State Open,184,W,FALL,0:57,Vitali Daniels,93056,Edinboro,Cody Brenner,73723,Central Michigan
+2025,12/20,Kent State Open,184,W,DEC,5 - 0,Holden Martin,84487,Kent State,Cody Brenner,73723,Central Michigan
+2025,12/20,Kent State Open,184,W,MD,14 - 1,Spencer Steiner,72700,Northern Illinois,Cody Brenner,73723,Central Michigan
+2025,12/20,Kent State Open,184,L,TF5,19 - 4 6:12,Silas Allred,62343,Nebraska,Cody Brenner,73723,Central Michigan
+2025,12/20,Kent State Open,184,W,DEC,6 - 3,Fletcher Rose,97615,Ashland,Cody Brenner,73723,Central Michigan
+2025,12/07,Cleveland State Open,184,W,DEC,2 - 0,Trammel Robinson,85000,Grand Valley State University,Cody Brenner,73723,Central Michigan
+2025,12/07,Cleveland State Open,184,W,TB-2,3 - 2,Brayden Gautreau,84290,Central Michigan,Cody Brenner,73723,Central Michigan
+2025,12/07,Cleveland State Open,184,L,DEC,8 - 2,Ty McGeary,62987,West Liberty University,Cody Brenner,73723,Central Michigan
+2025,12/07,Cleveland State Open,184,W,DEC,5 - 3,Luke Vanadia,79308,Michigan State,Cody Brenner,73723,Central Michigan
+2025,12/07,Cleveland State Open,184,L,FALL,3:43,Rocco Welsh,73719,Ohio State,Cody Brenner,73723,Central Michigan
+2025,11/24,Keystone Classic,184,W,MD,10 - 2,George Rhodes,84619,Drexel,Cody Brenner,73723,Central Michigan
+2025,11/24,Keystone Classic,184,L,FALL,0:46,James Lledo,69571,Lock Haven,Cody Brenner,73723,Central Michigan
+2025,11/24,Keystone Classic,184,L,DEC,8 - 4,Luke Rada,67359,Harvard,Cody Brenner,73723,Central Michigan
+2025,11/24,Keystone Classic,184,L,DEC,2 - 1,Sam Fisher,62358,Virginia Tech,Cody Brenner,73723,Central Michigan
+2025,11/09,Michigan State Open,184,W,SV-1,4 - 1,Codei Khawaja,74572,Michigan,Cody Brenner,73723,Central Michigan
+2025,11/09,Michigan State Open,184,L,DEC,5 - 1,Jared McGill,50995,Edinboro,Cody Brenner,73723,Central Michigan
+2025,11/09,Michigan State Open,184,L,DEC,9 - 3,Darion Johnson,78709,McKendree University,Cody Brenner,73723,Central Michigan
+2025,02/01,Edinboro Open,184,L,DEC,7 - 3,Cory Thomas,93771,Michigan State,Wyatt Ferguson,84301,Central Michigan
+2025,02/01,Edinboro Open,184,W,DEC,7 - 3,Matt Kubas,93319,Northwestern,Wyatt Ferguson,84301,Central Michigan
+2025,02/01,Edinboro Open,184,W,MD,17 - 5,Nate Campbell,93104,US Naval Academy Prep School,Wyatt Ferguson,84301,Central Michigan
+2025,02/01,Edinboro Open,184,W,TF5,19 - 4 5:55,Vitali Daniels,93056,Edinboro,Wyatt Ferguson,84301,Central Michigan
+2025,02/01,Edinboro Open,184,W,MD,12 - 3,Zahir Mclean-Felix,83569,Cornell,Wyatt Ferguson,84301,Central Michigan
+2025,02/01,Edinboro Open,184,W,FALL,3:20,Skyler Lasure,64100,Unattached,Wyatt Ferguson,84301,Central Michigan
+2025,01/19,Alma Open,184,W,TF5,20 - 4 7:00,Jack Ward,94320,Olivet,Wyatt Ferguson,84301,Central Michigan
+2025,01/19,Alma Open,184,W,MD,15 - 2,Christian Byrne,89176,Henry Ford College,Wyatt Ferguson,84301,Central Michigan
+2025,01/19,Alma Open,184,W,TF5,17 - 2 7:00,Ashton Light,80602,St Clair Community College,Wyatt Ferguson,84301,Central Michigan
+2025,12/20,Kent State Open,184,W,MD,10 - 2,Logan Richey,84785,Duke,Wyatt Ferguson,84301,Central Michigan
+2025,12/20,Kent State Open,184,W,DEC,7 - 2,Patrick Cutchember,78460,Clarion,Wyatt Ferguson,84301,Central Michigan
+2025,12/20,Kent State Open,184,W,SV-1,4 - 1,Ayden Miller,72194,Clarion,Wyatt Ferguson,84301,Central Michigan
+2025,12/20,Kent State Open,184,L,TF5,21 - 6 4:32,Silas Allred,62343,Nebraska,Wyatt Ferguson,84301,Central Michigan
+2025,12/07,Cleveland State Open,184,W,SV-1,4 - 1,Brayden Gautreau,84290,Central Michigan,Wyatt Ferguson,84301,Central Michigan
+2025,12/07,Cleveland State Open,184,W,FALL,2:17,Jackson Glasgow,83279,Unattached,Wyatt Ferguson,84301,Central Michigan
+2025,12/07,Cleveland State Open,184,L,SV-1,4 - 1,Carson Thomas,93224,High School,Wyatt Ferguson,84301,Central Michigan
+2025,12/07,Cleveland State Open,184,L,DEC,4 - 2,Gage Musser,71710,Air Force,Wyatt Ferguson,84301,Central Michigan
+2025,11/09,Michigan State Open,184,W,TF5,22 - 6 7:00,Jack Cummings,79007,Michigan,Wyatt Ferguson,84301,Central Michigan
+2025,11/09,Michigan State Open,184,L,TF5,15 - 0 7:00,Codei Khawaja,74572,Michigan,Wyatt Ferguson,84301,Central Michigan
+2025,11/09,Michigan State Open,184,W,DEC,4 - 2,Lucas Daly,71943,Michigan State,Wyatt Ferguson,84301,Central Michigan
+2025,11/09,Michigan State Open,184,L,DEC,4 - 2,Jon Halvorsen,62898,Northwestern,Wyatt Ferguson,84301,Central Michigan
+2025,02/01,Edinboro Open,184,L,SV-1,5 - 2,Matt Kubas,93319,Northwestern,Brayden Gautreau,84290,Central Michigan
+2025,02/01,Edinboro Open,184,W,DEC,7 - 3,Hoke Hogan,85131,West Virginia,Brayden Gautreau,84290,Central Michigan
+2025,02/01,Edinboro Open,184,L,TB-2,3 - 2,Dominic Solis,66460,Maryland,Brayden Gautreau,84290,Central Michigan
+2025,01/19,Alma Open,184,W,TF5,20 - 4 7:00,Nick Eby,100554,Unattached,Brayden Gautreau,84290,Central Michigan
+2025,01/19,Alma Open,184,W,TF5,23 - 3 7:00,Rodney Winston,100547,Cleary,Brayden Gautreau,84290,Central Michigan
+2025,12/07,Cleveland State Open,184,L,SV-1,4 - 1,Wyatt Ferguson,84301,Central Michigan,Brayden Gautreau,84290,Central Michigan
+2025,12/07,Cleveland State Open,184,L,TB-2,3 - 2,Cody Brenner,73723,Central Michigan,Brayden Gautreau,84290,Central Michigan
+2025,12/07,Cleveland State Open,184,W,DEC,2 - 1,Matt Kubas,93319,Northwestern,Brayden Gautreau,84290,Central Michigan
+2025,12/07,Cleveland State Open,184,W,MD,8 - 0,Drew Lincicome,84829,Ohio,Brayden Gautreau,84290,Central Michigan
+2025,12/07,Cleveland State Open,184,W,DEC,9 - 6,Keenan Wyatt,79332,Bellarmine,Brayden Gautreau,84290,Central Michigan
+2025,11/16,Findlay Open,184,L,MD,15 - 3,Darion Johnson,78709,McKendree University,Brayden Gautreau,84290,Central Michigan
+2025,11/16,Findlay Open,184,W,DEC,8 - 1,Trammel Robinson,85000,Grand Valley State University,Brayden Gautreau,84290,Central Michigan
+2025,11/16,Findlay Open,184,W,DEC,5 - 2,Donavyn Watts,94873,Findlay,Brayden Gautreau,84290,Central Michigan
+2025,11/16,Findlay Open,184,W,INJ,5:29,Vaughn Petty,75212,Findlay,Brayden Gautreau,84290,Central Michigan
+2025,11/16,Findlay Open,184,L,DEC,9 - 6,Braden Welch,94874,Ashland,Brayden Gautreau,84290,Central Michigan
+2025,11/16,Findlay Open,184,W,MD,21 - 7,Ricky Legg,79578,Ashland,Brayden Gautreau,84290,Central Michigan
+2025,11/09,Michigan State Open,184,L,DEC,8 - 3,Lucas Daly,71943,Michigan State,Brayden Gautreau,84290,Central Michigan
+2025,11/09,Michigan State Open,184,L,MD,11 - 3,Jon Halvorsen,62898,Northwestern,Brayden Gautreau,84290,Central Michigan
+2025,02/01,Edinboro Open,184,W,FALL,2:22,Tyler Lynde,92376,Unattached,Trey Myers,92980,Central Michigan
+2025,02/01,Edinboro Open,184,W,DEC,15 - 9,Cooper Skelton,85790,Ohio,Trey Myers,92980,Central Michigan
+2025,02/01,Edinboro Open,184,L,FALL,4:46,Carson Thomas,93224,High School,Trey Myers,92980,Central Michigan
+2025,02/01,Edinboro Open,184,L,MD,15 - 1,Dominic Solis,66460,Maryland,Trey Myers,92980,Central Michigan
+2025,01/19,Alma Open,184,L,DEC,9 - 3,Nick Eby,100554,Unattached,Trey Myers,92980,Central Michigan
+2025,01/19,Alma Open,184,L,MFOR,0 - 0,Logan DeMarest,100542,Bobcat Wrestling,Trey Myers,92980,Central Michigan
+2025,01/19,Alma Open,184,W,FALL,4:14,Preston Calvert,75130,Adrian,Trey Myers,92980,Central Michigan
+2025,11/16,Findlay Open,184,L,DEC,7 - 3,Brice Parks,74834,Campbellsville,Trey Myers,92980,Central Michigan
+2025,11/16,Findlay Open,184,L,DEC,6 - 5,Shamon Handegan,97412,McKendree University,Trey Myers,92980,Central Michigan
+2025,11/16,Findlay Open,184,W,DEC,5 - 2,Matthew Morris,80784,Grand Valley State University,Trey Myers,92980,Central Michigan
+2025,03/07,MAC Championships,197,W,DEC,5 - 3,Blake Schaffer,79797,Kent State,Luke Cochran,82463,Central Michigan
+2025,03/07,MAC Championships,197,W,DEC,4 - 2,Joey Lyons,72596,Cleveland State,Luke Cochran,82463,Central Michigan
+2025,03/07,MAC Championships,197,W,DEC,5 - 2,Sean Carroll,81794,Northern Illinois,Luke Cochran,82463,Central Michigan
+2025,03/07,MAC Championships,197,L,DEC,8 - 1,Brock Zurawski,78679,Rider,Luke Cochran,82463,Central Michigan
+2025,03/07,MAC Championships,197,W,SV-1,2 - 1,Nick Lodato,72606,Edinboro,Luke Cochran,82463,Central Michigan
+2025,02/23,Central Michigan - Michigan Dual,197,L,MD,12 - 3,Jacob Cardenas,56770,Michigan,Luke Cochran,82463,Central Michigan
+2025,02/21,Michigan State - Central Michigan Dual,197,W,DEC,7 - 2,Lucas Daly,71943,Michigan State,Luke Cochran,82463,Central Michigan
+2025,02/16,Southern Illinois Edwardsville - Central Michigan Dual,197,W,DEC,9 - 3,Nick Nosler,83329,SIU Edwardsville,Luke Cochran,82463,Central Michigan
+2025,02/13,Kent State - Central Michigan Dual,197,W,DEC,4 - 1,Blake Schaffer,79797,Kent State,Luke Cochran,82463,Central Michigan
+2025,02/09,Central Michigan - Buffalo Dual,197,W,DEC,9 - 6,Lonnell Owens-Pabon,78784,Buffalo,Luke Cochran,82463,Central Michigan
+2025,02/07,Central Michigan - Edinboro Dual,197,W,SV-1,14 - 11,Nick Lodato,72606,Edinboro,Luke Cochran,82463,Central Michigan
+2025,02/02,Central Michigan - Ohio Dual,197,W,DEC,4 - 2,Austin Starr,76357,Ohio,Luke Cochran,82463,Central Michigan
+2025,01/26,CSU Bakersfield - Central Michigan Dual,197,L,MD,17 - 5,AJ Ferrari,62936,CSU Bakersfield,Luke Cochran,82463,Central Michigan
+2025,01/26,Campbell - Central Michigan Dual,197,L,DEC,5 - 1,Levi Hopkins,62508,Campbell,Luke Cochran,82463,Central Michigan
+2025,01/26,Central Michigan - American Dual,197,W,DEC,7 - 5,Carston Rawls,72684,American,Luke Cochran,82463,Central Michigan
+2025,01/19,Cleveland State - Central Michigan Dual,197,W,DEC,9 - 5,Joey Lyons,72596,Cleveland State,Luke Cochran,82463,Central Michigan
+2025,01/17,Northern Illinois - Central Michigan Dual,197,W,DEC,14 - 7,Sean Carroll,81794,Northern Illinois,Luke Cochran,82463,Central Michigan
+2025,01/11,Central Michigan - Drexel Dual,197,W,DEC,4 - 2,Ibrahim Ameer,75829,Drexel,Luke Cochran,82463,Central Michigan
+2025,01/11,Central Michigan - Wyoming Dual,197,L,SV-1,5 - 2,Joey Novak,79289,Wyoming,Luke Cochran,82463,Central Michigan
+2025,01/10,Ohio - Central Michigan Dual,197,W,DEC,4 - 2,Max Ray,84351,Ohio,Luke Cochran,82463,Central Michigan
+2025,01/10,Central Michigan - South Dakota State Dual,197,L,DEC,4 - 2,Thomas Dineen,78699,South Dakota State,Luke Cochran,82463,Central Michigan
+2025,12/29,Midlands Championships,197,L,DEC,8 - 7,Brook Byers,77775,Stanford,Luke Cochran,82463,Central Michigan
+2025,12/29,Midlands Championships,197,L,DEC,15 - 8,Mac Stout,72505,Pittsburgh,Luke Cochran,82463,Central Michigan
+2025,12/29,Midlands Championships,197,W,MD,18 - 6,Josh Labarbera,69261,Pennsylvania,Luke Cochran,82463,Central Michigan
+2025,12/08,Central Michigan - Little Rock Dual,197,L,FALL,2:28,Stephen Little,73285,Little Rock,Luke Cochran,82463,Central Michigan
+2025,12/06,Central Michigan - Oklahoma Dual,197,W,DEC,8 - 6,Bradley Hill,73708,Oklahoma,Luke Cochran,82463,Central Michigan
+2025,11/24,Keystone Classic,197,W,CMFF,0 - 0,Jackson Zimmerman,89447,Pennsylvania,Luke Cochran,82463,Central Michigan
+2025,11/24,Keystone Classic,197,L,MD,15 - 4,Tucker Hogan,85083,Lock Haven,Luke Cochran,82463,Central Michigan
+2025,11/24,Keystone Classic,197,W,DEC,11 - 7,Max Agresti,78895,Harvard,Luke Cochran,82463,Central Michigan
+2025,11/24,Keystone Classic,197,W,DEC,8 - 1,Cameron Wood,73724,Central Michigan,Luke Cochran,82463,Central Michigan
+2025,11/24,Keystone Classic,197,W,TF5,17 - 2 7:00,Josh Labarbera,69261,Pennsylvania,Luke Cochran,82463,Central Michigan
+2025,11/15,Indiana - Central Michigan Dual,197,W,DEC,5 - 2,Gabe Sollars,77269,Indiana,Luke Cochran,82463,Central Michigan
+2025,11/09,Michigan State Open,197,W,DEC,7 - 6,Karson Tompkins,85034,Air Force Prep,Luke Cochran,82463,Central Michigan
+2025,11/09,Michigan State Open,197,L,DEC,7 - 3,Kael Wisler,79317,Michigan State,Luke Cochran,82463,Central Michigan
+2025,11/09,Michigan State Open,197,L,DEC,4 - 2,Hayden Walters,78697,Michigan,Luke Cochran,82463,Central Michigan
+2025,02/01,Edinboro Open,197,L,DEC,9 - 5,Cole Robertson,84795,Ohio State,Cameron Wood,73724,Central Michigan
+2025,02/01,Edinboro Open,197,L,FALL,4:45,Max Shulaw,84563,Virginia,Cameron Wood,73724,Central Michigan
+2025,12/29,Midlands Championships,197,L,TF5,22 - 6 7:00,John Poznanski,61124,Rutgers,Cameron Wood,73724,Central Michigan
+2025,12/29,Midlands Championships,197,W,FALL,4:37,Mason Pellegri,93210,Harvard,Cameron Wood,73724,Central Michigan
+2025,12/29,Midlands Championships,197,W,SV-1,6 - 5,Hudson Skove,92952,Harvard,Cameron Wood,73724,Central Michigan
+2025,12/29,Midlands Championships,197,L,DEC,4 - 3,Tyler Kocak,69715,George Mason,Cameron Wood,73724,Central Michigan
+2025,11/24,Keystone Classic,197,L,DEC,8 - 1,Luke Cochran,82463,Central Michigan,Cameron Wood,73724,Central Michigan
+2025,11/24,Keystone Classic,197,L,FALL,5:26,Dan Rella,92950,Drexel,Cameron Wood,73724,Central Michigan
+2025,11/24,Keystone Classic,197,W,MD,9 - 1,Jackson Zimmerman,89447,Pennsylvania,Cameron Wood,73724,Central Michigan
+2025,11/24,Keystone Classic,197,W,SV-3,4 - 1,Max Agresti,78895,Harvard,Cameron Wood,73724,Central Michigan
+2025,11/09,Michigan State Open,197,W,TF5,15 - 0 7:00,Jackson Punzel,97221,Wheaton,Cameron Wood,73724,Central Michigan
+2025,11/09,Michigan State Open,197,L,MD,19 - 5,Cody Merrill,92927,Oklahoma State,Cameron Wood,73724,Central Michigan
+2025,11/09,Michigan State Open,197,W,DEC,9 - 5,Karson Tompkins,85034,Air Force Prep,Cameron Wood,73724,Central Michigan
+2025,11/09,Michigan State Open,197,L,CMFF,0 - 0,Kael Wisler,79317,Michigan State,Cameron Wood,73724,Central Michigan
+2025,11/09,Michigan State Open,197,L,MFOR,0 - 0,Hayden Walters,78697,Michigan,Cameron Wood,73724,Central Michigan
+2025,11/09,Michigan State Open,197,W,MD,9 - 0,Austin Starr,76357,Ohio,Cameron Wood,73724,Central Michigan
+2025,03/07,MAC Championships,285,W,TF5,16 - 1 7:00,Aden Roe,84465,Edinboro,Bryan Caves,71791,Central Michigan
+2025,03/07,MAC Championships,285,L,DEC,7 - 5,James Blackman,87621,George Mason,Bryan Caves,71791,Central Michigan
+2025,03/07,MAC Championships,285,W,TF5,18 - 3 7:00,Brentan Simmerman,84855,Kent State,Bryan Caves,71791,Central Michigan
+2025,03/07,MAC Championships,285,W,MD,11 - 2,Bryson Buhk,78485,SIU Edwardsville,Bryan Caves,71791,Central Michigan
+2025,03/07,MAC Championships,285,W,DEC,4 - 0,Jacob Christiansen,73347,Northern Illinois,Bryan Caves,71791,Central Michigan
+2025,03/07,MAC Championships,285,L,FALL,3:58,Daniel Bucknavich,62488,Cleveland State,Bryan Caves,71791,Central Michigan
+2025,02/23,Central Michigan - Michigan Dual,285,L,TF5,22 - 6 5:22,Josh Heindselman,57311,Michigan,Bryan Caves,71791,Central Michigan
+2025,02/21,Michigan State - Central Michigan Dual,285,L,DEC,5 - 3,Max Vanadia,79307,Michigan State,Bryan Caves,71791,Central Michigan
+2025,02/16,Southern Illinois Edwardsville - Central Michigan Dual,285,W,DEC,2 - 1,Bryson Buhk,78485,SIU Edwardsville,Bryan Caves,71791,Central Michigan
+2025,02/13,Kent State - Central Michigan Dual,285,W,MD,14 - 5,Brentan Simmerman,84855,Kent State,Bryan Caves,71791,Central Michigan
+2025,02/09,Central Michigan - Buffalo Dual,285,W,DEC,8 - 1,Robert Unruh,69772,Buffalo,Bryan Caves,71791,Central Michigan
+2025,02/07,Central Michigan - Edinboro Dual,285,W,SV-1,4 - 1,Kade Sottolano,78785,Edinboro,Bryan Caves,71791,Central Michigan
+2025,02/02,Central Michigan - Ohio Dual,285,L,DEC,4 - 1,Jordan Greer,62652,Ohio,Bryan Caves,71791,Central Michigan
+2025,01/26,CSU Bakersfield - Central Michigan Dual,285,L,SV-1,4 - 1,Jake Andrews,73174,CSU Bakersfield,Bryan Caves,71791,Central Michigan
+2025,01/26,Campbell - Central Michigan Dual,285,W,FALL,2:40,Landon Sargent,93074,Campbell,Bryan Caves,71791,Central Michigan
+2025,01/26,Central Michigan - American Dual,285,L,MD,10 - 2,William Jarrell,62907,American,Bryan Caves,71791,Central Michigan
+2025,01/19,Cleveland State - Central Michigan Dual,285,L,DEC,2 - 0,Daniel Bucknavich,62488,Cleveland State,Bryan Caves,71791,Central Michigan
+2025,01/17,Northern Illinois - Central Michigan Dual,285,W,DEC,8 - 1,Jacob Christiansen,73347,Northern Illinois,Bryan Caves,71791,Central Michigan
+2025,01/11,Central Michigan - Drexel Dual,285,W,DEC,5 - 0,Dom Petracci,79380,Drexel,Bryan Caves,71791,Central Michigan
+2025,01/11,Central Michigan - Wyoming Dual,285,L,TB-1,4 - 3,Sam Mitchell,61028,Wyoming,Bryan Caves,71791,Central Michigan
+2025,01/10,Ohio - Central Michigan Dual,285,L,DEC,4 - 1,Jordan Greer,62652,Ohio,Bryan Caves,71791,Central Michigan
+2025,01/10,Central Michigan - South Dakota State Dual,285,W,MD,14 - 1,Luke Rasmussen,72722,South Dakota State,Bryan Caves,71791,Central Michigan
+2025,12/29,Midlands Championships,285,L,DEC,9 - 3,Logan Shephard,73758,Bucknell,Bryan Caves,71791,Central Michigan
+2025,12/29,Midlands Championships,285,L,DEC,10 - 3,Max Vanadia,79307,Michigan State,Bryan Caves,71791,Central Michigan
+2025,12/29,Midlands Championships,285,W,MD,8 - 0,Bryson Buhk,78485,SIU Edwardsville,Bryan Caves,71791,Central Michigan
+2025,12/29,Midlands Championships,285,W,FALL,2:31,Cole Jackson,71581,Cal Poly,Bryan Caves,71791,Central Michigan
+2025,12/08,Central Michigan - Little Rock Dual,285,W,DEC,2 - 0,Apollo Gothard,72124,Little Rock,Bryan Caves,71791,Central Michigan
+2025,12/06,Central Michigan - Oklahoma Dual,285,L,DEC,8 - 3,Juan Mora,71675,Oklahoma,Bryan Caves,71791,Central Michigan
+2025,11/24,Keystone Classic,285,W,MD,12 - 0,Kade Sottolano,78785,Edinboro,Bryan Caves,71791,Central Michigan
+2025,11/24,Keystone Classic,285,W,DEC,5 - 0,Matthew Cruise,73551,Pennsylvania,Bryan Caves,71791,Central Michigan
+2025,11/24,Keystone Classic,285,L,TF5,19 - 4 6:01,Hunter Catka,62425,Virginia Tech,Bryan Caves,71791,Central Michigan
+2025,11/15,Indiana - Central Michigan Dual,285,W,DEC,7 - 2,Jacob Bullock,57724,Indiana,Bryan Caves,71791,Central Michigan
+2025,11/09,Michigan State Open,285,L,DEC,8 - 4,Nick Pavlechko,85077,Indiana,Bryan Caves,71791,Central Michigan
+2025,11/09,Michigan State Open,285,W,FALL,6:49,Jayson Roy,78108,Unattached,Bryan Caves,71791,Central Michigan
+2025,11/09,Michigan State Open,285,W,DEC,3 - 0,Austin Jordan,73464,Michigan,Bryan Caves,71791,Central Michigan
+2025,11/09,Michigan State Open,285,W,MD,9 - 1,Ira Jenkins,72919,Michigan,Bryan Caves,71791,Central Michigan
+2025,11/09,Michigan State Open,285,L,DEC,8 - 2,Carter Blough,79320,Grand Valley State University,Bryan Caves,71791,Central Michigan
+2025,02/01,Edinboro Open,285,W,MFOR,0 - 0,Spencer Lanogsa,85094,US Naval Academy Prep School,Aidan Fockler,79400,Central Michigan
+2025,02/01,Edinboro Open,285,W,DEC,9 - 8,Cash Henderson,84761,Spartan Combat RTC,Aidan Fockler,79400,Central Michigan
+2025,02/01,Edinboro Open,285,W,DEC,5 - 1,Joey Schneck,84581,Maryland,Aidan Fockler,79400,Central Michigan
+2025,02/01,Edinboro Open,285,W,CMFF,0 - 0,Brenan Morgan,84436,Virginia,Aidan Fockler,79400,Central Michigan
+2025,02/01,Edinboro Open,285,L,SV-1,2 - 1,Jack Kilner,65375,Unattached,Aidan Fockler,79400,Central Michigan
+2025,02/01,Edinboro Open,285,W,FALL,5:39,Luke Herendeen,92944,Buffalo,Aidan Fockler,79400,Central Michigan
+2025,01/19,Alma Open,285,W,FALL,0:41,Eli Marshall,95707,Muskegon Community College,Aidan Fockler,79400,Central Michigan
+2025,01/19,Alma Open,285,W,FALL,1:50,Jason Smith,95690,Grand Valley State Wrestling Club,Aidan Fockler,79400,Central Michigan
+2025,01/19,Alma Open,285,W,MFOR,0 - 0,Simon Lato,70019,Central Michigan,Aidan Fockler,79400,Central Michigan
+2025,01/19,Alma Open,285,W,FALL,1:10,Garth Martell,95283,Wisconsin-Oshkosh,Aidan Fockler,79400,Central Michigan
+2025,12/20,Kent State Open,285,W,DEC,8 - 3,Lucas Thomas,93001,Clarion,Aidan Fockler,79400,Central Michigan
+2025,12/20,Kent State Open,285,W,FALL,5:57,Wilson Spires,84598,West Virginia,Aidan Fockler,79400,Central Michigan
+2025,12/20,Kent State Open,285,W,MD,8 - 0,Kaiden Haines,84548,Cleveland State,Aidan Fockler,79400,Central Michigan
+2025,12/20,Kent State Open,285,W,DEC,11 - 6,Mason Cover,72597,Cleveland State,Aidan Fockler,79400,Central Michigan
+2025,12/20,Kent State Open,285,L,TF5,19 - 4 3:28,Josh Heindselman,57311,Michigan,Aidan Fockler,79400,Central Michigan
+2025,11/16,Findlay Open,285,W,FALL,6:52,Alex Holmes,97716,Indiana Tech,Aidan Fockler,79400,Central Michigan
+2025,11/16,Findlay Open,285,W,DEC,11 - 6,Lloyd Reynolds,69997,Wisconsin-Parkside,Aidan Fockler,79400,Central Michigan
+2025,11/16,Findlay Open,285,L,DEC,11 - 6,Cale Gray,67581,Indianapolis,Aidan Fockler,79400,Central Michigan
+2025,11/16,Findlay Open,285,L,DEC,6 - 5,Colby Whitehill,94857,Glenville State University,Aidan Fockler,79400,Central Michigan
+2025,11/16,Findlay Open,285,W,FALL,1:10,Sean House,97207,Davenport,Aidan Fockler,79400,Central Michigan
+2025,11/09,Michigan State Open,285,W,TB-1,2 - 1,Wyatt Schmitt,92934,Ohio,Aidan Fockler,79400,Central Michigan
+2025,11/09,Michigan State Open,285,W,MFOR,0 - 0,Aden Roe,84465,Edinboro,Aidan Fockler,79400,Central Michigan
+2025,11/09,Michigan State Open,285,L,TB-1,7 - 6,Aden Roe,84465,Edinboro,Aidan Fockler,79400,Central Michigan
+2025,11/09,Michigan State Open,285,W,MD,13 - 4,Dirk Morley,84347,Northwestern,Aidan Fockler,79400,Central Michigan
+2025,11/09,Michigan State Open,285,L,DEC,4 - 1,Kade Sottolano,78785,Edinboro,Aidan Fockler,79400,Central Michigan
+2025,11/09,Michigan State Open,285,W,FALL,1:45,Sean House,97207,Davenport,Aidan Fockler,79400,Central Michigan
+2025,02/01,Edinboro Open,285,L,MFOR,0 - 0,Cash Henderson,84761,Spartan Combat RTC,Simon Lato,70019,Central Michigan
+2025,02/01,Edinboro Open,285,L,FALL,2:12,Aden Roe,84465,Edinboro,Simon Lato,70019,Central Michigan
+2025,02/01,Edinboro Open,285,W,MD,14 - 3,Kyle Combs,78925,Ohio,Simon Lato,70019,Central Michigan
+2025,01/19,Alma Open,285,L,MFOR,0 - 0,Aidan Fockler,79400,Central Michigan,Simon Lato,70019,Central Michigan
+2025,01/19,Alma Open,285,W,INJ,3:21,Cristian Alcarez,99855,Southwestern Michigan,Simon Lato,70019,Central Michigan
+2025,01/19,Alma Open,285,W,TF5,18 - 3 7:00,Camden Harms,85747,Wisconsin-Oshkosh,Simon Lato,70019,Central Michigan
+2025,01/19,Alma Open,285,W,FALL,1:22,Scott Smith,94523,Adrian,Simon Lato,70019,Central Michigan
+2025,01/19,Alma Open,285,W,FALL,4:29,Brody Miskimon,70091,Alma College,Simon Lato,70019,Central Michigan
+2025,12/20,Kent State Open,285,W,DEC,8 - 2,Ryan Dimmick,93866,Kent State,Simon Lato,70019,Central Michigan
+2025,12/20,Kent State Open,285,W,DEC,6 - 0,Mason Cover,72597,Cleveland State,Simon Lato,70019,Central Michigan
+2025,12/20,Kent State Open,285,L,DEC,12 - 7,John Meyers,69618,Clarion,Simon Lato,70019,Central Michigan
+2025,12/20,Kent State Open,285,L,FALL,4:05,Austin Chapman,63708,Clarion,Simon Lato,70019,Central Michigan
+2025,12/07,Cleveland State Open,285,W,MD,15 - 2,Drew Harris,74323,Ohio,Simon Lato,70019,Central Michigan
+2025,12/07,Cleveland State Open,285,W,DEC,2 - 1,Mekhi Bradley,84546,Cleveland State,Simon Lato,70019,Central Michigan
+2025,12/07,Cleveland State Open,285,W,MD,11 - 0,Mason Cover,72597,Cleveland State,Simon Lato,70019,Central Michigan
+2025,12/07,Cleveland State Open,285,L,TF5,19 - 4 3:45,Josh Heindselman,57311,Michigan,Simon Lato,70019,Central Michigan
+2025,12/07,Cleveland State Open,285,L,CMFF,0 - 0,Bryce Harrington,93689,Pittsburgh,Simon Lato,70019,Central Michigan
+2025,12/07,Cleveland State Open,285,W,DEC,3 - 0,Juliano Marion,93023,Pittsburgh,Simon Lato,70019,Central Michigan
+2025,11/09,Michigan State Open,285,L,MD,14 - 4,Max Vanadia,79307,Michigan State,Simon Lato,70019,Central Michigan
+2025,11/09,Michigan State Open,285,W,DEC,8 - 2,Lance Trost,79006,Michigan,Simon Lato,70019,Central Michigan
+2025,11/09,Michigan State Open,285,W,DEC,10 - 9,Dzhabrail Khurshidov,73465,Michigan,Simon Lato,70019,Central Michigan
+2025,11/09,Michigan State Open,285,L,SV-1,6 - 3,Brooks Empey,72155,Wisconsin,Simon Lato,70019,Central Michigan
+2025,11/09,Michigan State Open,285,W,SV-1,4 - 1,Charles Hastriter,69318,Oregon State,Simon Lato,70019,Central Michigan

@@ -1,0 +1,810 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2020,03/06,EIWA Championships,125,W,DEC,10 - 4,Dominic LaJoie,49112,Cornell,Trey Chalifoux,44745,Army West Point
+2020,03/06,EIWA Championships,125,L,MD,12 - 3,Brandon Paetzell,44578,Lehigh,Trey Chalifoux,44745,Army West Point
+2020,03/06,EIWA Championships,125,L,MD,12 - 1,Patrick Glory,51100,Princeton,Trey Chalifoux,44745,Army West Point
+2020,03/06,EIWA Championships,125,W,DEC,3 - 2,Gage Curry,44583,American,Trey Chalifoux,44745,Army West Point
+2020,03/06,EIWA Championships,125,W,MD,11 - 3,Jose Diaz,57229,Franklin & Marshall,Trey Chalifoux,44745,Army West Point
+2020,02/22,Army - Navy Dual,125,W,DEC,5 - 2,Logan Treaster,49205,Navy,Trey Chalifoux,44745,Army West Point
+2020,02/16,Army - Bucknell Dual,125,W,MD,15 - 3,Geo Barzona,49064,Bucknell,Trey Chalifoux,44745,Army West Point
+2020,01/31,Lehigh - Army Dual,125,L,DEC,6 - 3,Brandon Paetzell,44578,Lehigh,Trey Chalifoux,44745,Army West Point
+2020,01/25,Army - Lock Haven Dual,125,L,DEC,7 - 0,Luke Werner,50282,Lock Haven,Trey Chalifoux,44745,Army West Point
+2020,01/04,American - Army Dual,125,W,DEC,5 - 3,Gage Curry,44583,American,Trey Chalifoux,44745,Army West Point
+2020,01/04,Wyoming - Army Dual,125,W,DEC,4 - 3,Doyle Trout,39591,Wyoming,Trey Chalifoux,44745,Army West Point
+2020,01/04,North Carolina - Army Dual,125,W,DEC,8 - 5,Timothy Decatur,63018,North Carolina,Trey Chalifoux,44745,Army West Point
+2020,12/07,Patriot Open,125,W,DEC,11 - 9,Jarod Kosman,56590,Maryland,Trey Chalifoux,44745,Army West Point
+2020,12/07,Patriot Open,125,W,DEC,3 - 2,Brandon Wittenberg,57647,Virginia Tech,Trey Chalifoux,44745,Army West Point
+2020,12/07,Patriot Open,125,L,DEC,5 - 4,Sam Latona,56742,Virginia Tech,Trey Chalifoux,44745,Army West Point
+2020,12/07,Patriot Open,125,L,DEC,8 - 2,Joe Manchio,50937,Columbia,Trey Chalifoux,44745,Army West Point
+2020,11/24,West Virginia - Army Dual,125,W,DEC,6 - 4,Joey Thomas,51008,West Virginia,Trey Chalifoux,44745,Army West Point
+2020,11/17,Black Knight Invitational,125,W,DEC,7 - 3,Jack Medley,51392,Michigan,Trey Chalifoux,44745,Army West Point
+2020,11/17,Black Knight Invitational,125,W,DEC,3 - 1,Devin Schnupp,45072,Penn State,Trey Chalifoux,44745,Army West Point
+2020,11/17,Black Knight Invitational,125,W,DEC,5 - 2,Liam Cronin,45061,Indiana,Trey Chalifoux,44745,Army West Point
+2020,11/17,Black Knight Invitational,125,L,DEC,7 - 5,Drew Hildebrandt,44818,Central Michigan,Trey Chalifoux,44745,Army West Point
+2020,11/10,Army - Chattanooga Dual,125,L,DEC,3 - 1,Fabian Gutierrez,45245,Chattanooga,Trey Chalifoux,44745,Army West Point
+2020,11/10,Army - Illinois Dual,125,W,DEC,7 - 2,Justin Cardani,51687,Illinois,Trey Chalifoux,44745,Army West Point
+2020,11/01,Army - Fresno State Dual,125,W,FALL,4:13,Jeremy Trihn,50849,Fresno State,Trey Chalifoux,44745,Army West Point
+2020,11/01,Army - Wisconsin Dual,125,L,DEC,3 - 1,Michael Cullen,39838,Wisconsin,Trey Chalifoux,44745,Army West Point
+2020,12/29,Midlands Championships,125,L,DEC,6 - 5,Justin Cardani,51687,Illinois,Ryan Chauvin,50835,Army West Point
+2020,12/29,Midlands Championships,125,L,DEC,8 - 5,Jose Diaz,57229,Franklin & Marshall,Ryan Chauvin,50835,Army West Point
+2020,12/07,Patriot Open,125,W,DEC,10 - 4,Matt Maloney,62920,Lock Haven,Ryan Chauvin,50835,Army West Point
+2020,12/07,Patriot Open,125,W,DEC,5 - 4,Michael Pappaconstantinou,62404,Gardner-Webb,Ryan Chauvin,50835,Army West Point
+2020,12/07,Patriot Open,125,L,DEC,3 - 1,Geo Barzona,49064,Bucknell,Ryan Chauvin,50835,Army West Point
+2020,12/07,Patriot Open,125,L,MD,14 - 1,Gage Curry,44583,American,Ryan Chauvin,50835,Army West Point
+2020,11/24,Cornell Open,125,W,TF5,18 - 2 7:00,Mathew Schreiber,62420,Binghamton,Ryan Chauvin,50835,Army West Point
+2020,11/24,Cornell Open,125,L,TB-1,7 - 5,Dominic LaJoie,49112,Cornell,Ryan Chauvin,50835,Army West Point
+2020,11/24,Cornell Open,125,L,MFOR,0 - 0,Luke Werner,50282,Lock Haven,Ryan Chauvin,50835,Army West Point
+2020,11/24,Cornell Open,125,L,MFOR,0 - 0,James Ryan,61391,LIU,Ryan Chauvin,50835,Army West Point
+2020,11/24,Cornell Open,125,L,MFOR,0 - 0,Jacob Brasseur,61212,Presbyterian,Ryan Chauvin,50835,Army West Point
+2020,11/17,Black Knight Invitational,125,L,TF5,22 - 7 6:23,Brandon Meredith,56935,Penn State,Ryan Chauvin,50835,Army West Point
+2020,11/17,Black Knight Invitational,125,W,DEC,4 - 3,Jarod Kosman,56590,Maryland,Ryan Chauvin,50835,Army West Point
+2020,11/17,Black Knight Invitational,125,L,MFOR,0 - 0,Brody Teske,52779,Penn State,Ryan Chauvin,50835,Army West Point
+2020,11/17,Black Knight Invitational,125,L,FALL,6:10,Brody Teske,52779,Penn State,Ryan Chauvin,50835,Army West Point
+2020,11/17,Black Knight Invitational,125,W,DEC,12 - 8,Liam Cronin,45061,Indiana,Ryan Chauvin,50835,Army West Point
+2020,11/03,Princeton Open,125,W,TF5,17 - 1 7:00,Romeo McNeil,63461,Spartan Combat RTC,Ryan Chauvin,50835,Army West Point
+2020,11/03,Princeton Open,125,L,DEC,3 - 2,Blair Orr,55804,Pennsylvania,Ryan Chauvin,50835,Army West Point
+2020,11/03,Princeton Open,125,L,DEC,10 - 4,Jonathon Tropea,46048,Rider,Ryan Chauvin,50835,Army West Point
+2020,03/06,EIWA Championships,133,W,MFOR,0 - 0,Carmen Ferrante,50660,Pennsylvania,Andrew Wert,50945,Army West Point
+2020,03/06,EIWA Championships,133,L,DEC,5 - 2,Casey Cobb,45566,Navy,Andrew Wert,50945,Army West Point
+2020,03/06,EIWA Championships,133,W,DEC,9 - 2,Michael Jaffe,57702,Harvard,Andrew Wert,50945,Army West Point
+2020,03/06,EIWA Championships,133,W,DEC,11 - 6,Justin Hoyle,54220,Hofstra,Andrew Wert,50945,Army West Point
+2020,03/06,EIWA Championships,133,L,FALL,6:59,Nick Farro,44590,Lehigh,Andrew Wert,50945,Army West Point
+2020,03/06,EIWA Championships,133,W,DEC,3 - 0,Ty Agaisse,45131,Princeton,Andrew Wert,50945,Army West Point
+2020,02/16,Army - Bucknell Dual,133,W,DEC,3 - 2,Darren Miller,57210,Bucknell,Andrew Wert,50945,Army West Point
+2020,01/31,Lehigh - Army Dual,133,W,DEC,5 - 3,Nick Farro,44590,Lehigh,Andrew Wert,50945,Army West Point
+2020,01/11,Shorty Hitchcock Classic,133,W,FALL,2:10,Jacob Lehman,62450,Millersville,Andrew Wert,50945,Army West Point
+2020,01/11,Shorty Hitchcock Classic,133,W,TF5,16 - 0 3:21,Bobby Demeter,57839,Centenary,Andrew Wert,50945,Army West Point
+2020,01/11,Shorty Hitchcock Classic,133,W,DEC,2 - 0,Ryan Hetrick,45638,Army West Point,Andrew Wert,50945,Army West Point
+2020,01/11,Shorty Hitchcock Classic,133,W,DEC,2 - 1,Jacob Allen,50935,Navy,Andrew Wert,50945,Army West Point
+2020,12/29,Midlands Championships,133,W,MD,10 - 2,Michael Jaffe,57702,Harvard,Andrew Wert,50945,Army West Point
+2020,12/29,Midlands Championships,133,L,DEC,6 - 0,Jack Skudlarczyk,49241,Northern Iowa,Andrew Wert,50945,Army West Point
+2020,12/29,Midlands Championships,133,L,TF5,17 - 2 3:59,Seth Gross,19949,Wisconsin,Andrew Wert,50945,Army West Point
+2020,12/07,Patriot Open,133,W,DEC,2 - 1,Brandon Loperfido,44874,Lock Haven,Andrew Wert,50945,Army West Point
+2020,12/07,Patriot Open,133,L,DEC,5 - 3,Steven Simpson,39905,Old Dominion,Andrew Wert,50945,Army West Point
+2020,12/07,Patriot Open,133,L,DEC,4 - 3,Anthony Cefolo,40284,Rider,Andrew Wert,50945,Army West Point
+2020,12/07,Patriot Open,133,W,DEC,5 - 2,Orion Anderson,56379,Maryland,Andrew Wert,50945,Army West Point
+2020,11/24,West Virginia - Army Dual,133,W,MD,10 - 0,Lucas Seibert,56444,West Virginia,Andrew Wert,50945,Army West Point
+2020,11/17,Black Knight Invitational,133,L,DEC,8 - 5,King Sandoval,57116,Maryland,Andrew Wert,50945,Army West Point
+2020,11/17,Black Knight Invitational,133,W,FALL,1:55,Vincent Miceli,52123,Bloomsburg,Andrew Wert,50945,Army West Point
+2020,11/17,Black Knight Invitational,133,L,DEC,9 - 4,Roman Bravo-Young,49665,Penn State,Andrew Wert,50945,Army West Point
+2020,11/17,Black Knight Invitational,133,W,DEC,7 - 1,Brock Bergelin,49078,Central Michigan,Andrew Wert,50945,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,133,W,TB-2,1 - 0,Kurt Phipps,63966,High School,Andrew Wert,50945,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,133,L,DEC,9 - 6,Zack Trampe,51913,Binghamton,Andrew Wert,50945,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,133,W,DEC,4 - 3,David Campbell,49061,Bucknell,Andrew Wert,50945,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,133,W,DEC,7 - 1,Dillon Murphy,60449,Harvard,Andrew Wert,50945,Army West Point
+2020,11/03,Princeton Open,133,L,SV-1,6 - 4,Richie Koehler,51648,Rider,Andrew Wert,50945,Army West Point
+2020,11/03,Princeton Open,133,L,TB-1,8 - 4,Garrett Lambert,44698,Hofstra,Andrew Wert,50945,Army West Point
+2020,02/22,Army - Navy Dual,133,W,DEC,3 - 1,Casey Cobb,45566,Navy,Lane Peters,45639,Army West Point
+2020,01/25,Army - Lock Haven Dual,133,L,DEC,7 - 1,DJ Fehlman,39898,Lock Haven,Lane Peters,45639,Army West Point
+2020,01/17,Pennsylvania - Army Dual,133,L,DEC,3 - 1,Carmen Ferrante,50660,Pennsylvania,Lane Peters,45639,Army West Point
+2020,01/04,American - Army Dual,133,W,TF5,15 - 0 7:00,Daniel Kidd,50026,American,Lane Peters,45639,Army West Point
+2020,01/04,Wyoming - Army Dual,133,L,DEC,7 - 5,Montorie Bridges,44844,Wyoming,Lane Peters,45639,Army West Point
+2020,01/04,North Carolina - Army Dual,133,L,DEC,11 - 8,Jaime Hernandez,49213,North Carolina,Lane Peters,45639,Army West Point
+2020,12/29,Midlands Championships,133,W,FALL,6:05,Dylan Utterback,51399,Northwestern,Lane Peters,45639,Army West Point
+2020,12/29,Midlands Championships,133,W,FALL,1:57,Drew Bennett,51142,Northern Iowa,Lane Peters,45639,Army West Point
+2020,12/29,Midlands Championships,133,L,DEC,8 - 6,Jack Skudlarczyk,49241,Northern Iowa,Lane Peters,45639,Army West Point
+2020,12/29,Midlands Championships,133,L,DEC,5 - 3,Noah Gonser,40087,Campbell,Lane Peters,45639,Army West Point
+2020,12/07,Patriot Open,133,L,DEC,5 - 4,Anthony Cefolo,40284,Rider,Lane Peters,45639,Army West Point
+2020,12/07,Patriot Open,133,W,FALL,4:12,Cole Rhone,62773,Virginia Tech,Lane Peters,45639,Army West Point
+2020,12/07,Patriot Open,133,W,DEC,6 - 3,Devon Britton,61762,Rutgers,Lane Peters,45639,Army West Point
+2020,12/07,Patriot Open,133,W,DEC,8 - 2,Trent Svingala,62568,Columbia,Lane Peters,45639,Army West Point
+2020,11/10,Army - Chattanooga Dual,133,W,DEC,8 - 4,Francisco Valdes,49089,Chattanooga,Lane Peters,45639,Army West Point
+2020,11/10,Army - Illinois Dual,133,L,DEC,5 - 1,Travis Piotrowski,44646,Illinois,Lane Peters,45639,Army West Point
+2020,11/01,Army - Wisconsin Dual,133,L,MD,12 - 0,Seth Gross,19949,Wisconsin,Lane Peters,45639,Army West Point
+2020,01/11,Shorty Hitchcock Classic,133,W,DEC,8 - 3,Craig Cook,63176,Davis & Elkins,Cole Wyman,57667,Army West Point
+2020,01/11,Shorty Hitchcock Classic,133,W,FALL,2:03,Bobby Demeter,57839,Centenary,Cole Wyman,57667,Army West Point
+2020,01/11,Shorty Hitchcock Classic,133,W,DEC,14 - 10,Jacy Jones,57838,Centenary,Cole Wyman,57667,Army West Point
+2020,01/11,Shorty Hitchcock Classic,133,W,MD,12 - 4,Bryan Miraglia,62187,Rider,Cole Wyman,57667,Army West Point
+2020,01/11,Shorty Hitchcock Classic,133,L,DEC,4 - 3,Brandon Loperfido,44874,Lock Haven,Cole Wyman,57667,Army West Point
+2020,11/17,Black Knight Invitational,133,W,SV-1,10 - 8,Kyle Luigs,50007,Indiana,Cole Wyman,57667,Army West Point
+2020,11/17,Black Knight Invitational,133,L,TF5,17 - 1 5:36,Brock Bergelin,49078,Central Michigan,Cole Wyman,57667,Army West Point
+2020,11/17,Black Knight Invitational,133,L,TF5,18 - 2 7:00,Austin Assad,39516,Michigan,Cole Wyman,57667,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,133,W,DEC,10 - 5,Ryan Hetrick,45638,Army West Point,Cole Wyman,57667,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,133,L,MD,13 - 0,Darren Miller,57210,Bucknell,Cole Wyman,57667,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,133,W,DEC,11 - 4,Phillip Moomey,56704,Cornell,Cole Wyman,57667,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,133,L,FALL,2:00,Michael Jaffe,57702,Harvard,Cole Wyman,57667,Army West Point
+2020,11/01,Army - Fresno State Dual,133,L,MD,10 - 2,Gary Joint,50163,Fresno State,Cole Wyman,57667,Army West Point
+2020,01/11,Shorty Hitchcock Classic,133,L,DEC,2 - 0,Andrew Wert,50945,Army West Point,Ryan Hetrick,45638,Army West Point
+2020,01/11,Shorty Hitchcock Classic,133,W,DEC,3 - 1,Thomas Fiero,66141,St Benedicts,Ryan Hetrick,45638,Army West Point
+2020,01/11,Shorty Hitchcock Classic,133,W,DEC,3 - 0,Bryan Miraglia,62187,Rider,Ryan Hetrick,45638,Army West Point
+2020,01/11,Shorty Hitchcock Classic,133,W,DEC,8 - 4,Brandon Loperfido,44874,Lock Haven,Ryan Hetrick,45638,Army West Point
+2020,12/07,Patriot Open,133,L,DEC,5 - 2,Steven Simpson,39905,Old Dominion,Ryan Hetrick,45638,Army West Point
+2020,12/07,Patriot Open,133,L,DEC,6 - 1,Angelo Rini,56766,Columbia,Ryan Hetrick,45638,Army West Point
+2020,11/24,Cornell Open,133,W,DEC,8 - 1,AJ Derosa,62419,Binghamton,Ryan Hetrick,45638,Army West Point
+2020,11/24,Cornell Open,133,W,DEC,9 - 2,Tommy Maddox,63165,Buffalo,Ryan Hetrick,45638,Army West Point
+2020,11/24,Cornell Open,133,L,DEC,9 - 3,Chaz Tucker,39771,Cornell,Ryan Hetrick,45638,Army West Point
+2020,11/24,Cornell Open,133,W,MFOR,0 - 0,Brandon Loperfido,44874,Lock Haven,Ryan Hetrick,45638,Army West Point
+2020,11/24,Cornell Open,133,W,DEC,9 - 8,Anthony Petrillo,56356,Sacred Heart,Ryan Hetrick,45638,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,133,L,DEC,10 - 5,Cole Wyman,57667,Army West Point,Ryan Hetrick,45638,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,133,L,DEC,7 - 5,Michael Jaffe,57702,Harvard,Ryan Hetrick,45638,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,133,W,DEC,6 - 2,Satoshi Abe,49163,Lehigh,Ryan Hetrick,45638,Army West Point
+2020,11/03,Princeton Open,133,W,DEC,6 - 0,AJ Derosa,62419,Binghamton,Ryan Hetrick,45638,Army West Point
+2020,11/03,Princeton Open,133,L,MD,14 - 6,Jaret Lane,50909,Lehigh,Ryan Hetrick,45638,Army West Point
+2020,11/03,Princeton Open,133,W,DEC,6 - 2,Brock Herring,50233,Lehigh,Ryan Hetrick,45638,Army West Point
+2020,11/03,Princeton Open,133,W,MFOR,0 - 0,Joe Lobeck,44686,Lehigh,Ryan Hetrick,45638,Army West Point
+2020,03/06,EIWA Championships,141,W,DEC,17 - 13,Wil Gil,51024,Franklin & Marshall,Corey Shie,51266,Army West Point
+2020,03/06,EIWA Championships,141,L,TB-2,7 - 4,Doug Zapf,50656,Pennsylvania,Corey Shie,51266,Army West Point
+2020,03/06,EIWA Championships,141,W,MD,17 - 3,Marshall Keller,51509,Princeton,Corey Shie,51266,Army West Point
+2020,03/06,EIWA Championships,141,W,SV-1,6 - 4,David Campbell,49061,Bucknell,Corey Shie,51266,Army West Point
+2020,03/06,EIWA Championships,141,L,DEC,4 - 3,Anthony Sparacio,47621,Binghamton,Corey Shie,51266,Army West Point
+2020,02/22,Army - Navy Dual,141,L,SV-1,3 - 1,Cody Trybus,45568,Navy,Corey Shie,51266,Army West Point
+2020,01/25,Army - Lock Haven Dual,141,L,SV-1,9 - 7,Kyle Shoop,39682,Lock Haven,Corey Shie,51266,Army West Point
+2020,01/17,Pennsylvania - Army Dual,141,L,DEC,7 - 5,Doug Zapf,50656,Pennsylvania,Corey Shie,51266,Army West Point
+2020,12/29,Midlands Championships,141,L,MD,17 - 8,Lawrence Saenz,56597,Fresno State,Corey Shie,51266,Army West Point
+2020,12/29,Midlands Championships,141,L,DEC,9 - 3,Justin Stickley,46895,Iowa,Corey Shie,51266,Army West Point
+2020,12/07,Patriot Open,141,W,FALL,1:19,Imran Heard,51595,Lock Haven,Corey Shie,51266,Army West Point
+2020,12/07,Patriot Open,141,W,FALL,0:58,Michael McAteer,50846,Army West Point,Corey Shie,51266,Army West Point
+2020,12/07,Patriot Open,141,W,MFOR,0 - 0,Danny Bertoni,49173,Maryland,Corey Shie,51266,Army West Point
+2020,12/07,Patriot Open,141,W,FALL,1:57,Beau Curtis,61867,Virginia Tech,Corey Shie,51266,Army West Point
+2020,12/07,Patriot Open,141,L,DEC,3 - 2,Matthew Kazimir,51644,Columbia,Corey Shie,51266,Army West Point
+2020,11/24,West Virginia - Army Dual,141,W,TF5,18 - 2 7:00,Caleb Rea,56445,West Virginia,Corey Shie,51266,Army West Point
+2020,11/17,Black Knight Invitational,141,W,DEC,12 - 9,Mitchell Christensen,57364,Central Michigan,Corey Shie,51266,Army West Point
+2020,11/17,Black Knight Invitational,141,W,FALL,1:09,Logan Brown,53821,Army West Point,Corey Shie,51266,Army West Point
+2020,11/17,Black Knight Invitational,141,W,INJ,7:00,Ben Freeman,49177,Michigan,Corey Shie,51266,Army West Point
+2020,11/17,Black Knight Invitational,141,W,DEC,8 - 5,Drew Marten,49077,Central Michigan,Corey Shie,51266,Army West Point
+2020,11/17,Black Knight Invitational,141,L,FALL,5:15,Dresden Simon,44707,Central Michigan,Corey Shie,51266,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,SV-1,6 - 4,David Campbell,49061,Bucknell,Corey Shie,51266,Army West Point
+2020,11/10,Army - Chattanooga Dual,141,W,DEC,5 - 2,Aiden Murphy,50950,Chattanooga,Corey Shie,51266,Army West Point
+2020,11/10,Army - Illinois Dual,141,W,FALL,0:42,We Rachal,56818,Illinois,Corey Shie,51266,Army West Point
+2020,11/01,Army - Fresno State Dual,141,W,DEC,7 - 1,Durbin Lloren,44916,Fresno State,Corey Shie,51266,Army West Point
+2020,11/01,Army - Wisconsin Dual,141,L,DEC,7 - 1,Tristan Moran,39545,Wisconsin,Corey Shie,51266,Army West Point
+2020,02/16,Army - Bucknell Dual,141,W,DEC,8 - 7,David Campbell,49061,Bucknell,Logan Brown,53821,Army West Point
+2020,01/31,Lehigh - Army Dual,141,W,DEC,6 - 5,Ryan Pomrinca,39667,Lehigh,Logan Brown,53821,Army West Point
+2020,01/04,American - Army Dual,141,L,MD,12 - 4,Salvatore Profaci,39825,American,Logan Brown,53821,Army West Point
+2020,01/04,Wyoming - Army Dual,141,L,DEC,10 - 6,Trevor Jeffries,57064,Wyoming,Logan Brown,53821,Army West Point
+2020,01/04,North Carolina - Army Dual,141,L,TF5,21 - 5 7:00,Zach Sherman,49216,North Carolina,Logan Brown,53821,Army West Point
+2020,12/29,Midlands Championships,141,L,MD,18 - 5,Michael Blockhus,57163,Northern Iowa,Logan Brown,53821,Army West Point
+2020,12/29,Midlands Championships,141,L,FALL,2:14,Nathan Swartz,57733,Northern Illinois,Logan Brown,53821,Army West Point
+2020,12/07,Patriot Open,141,W,DEC,3 - 1,Imran Heard,51595,Lock Haven,Logan Brown,53821,Army West Point
+2020,12/07,Patriot Open,141,W,FALL,2:41,Brandon Bright,51345,Gardner-Webb,Logan Brown,53821,Army West Point
+2020,12/07,Patriot Open,141,W,FALL,0:41,Michael McAteer,50846,Army West Point,Logan Brown,53821,Army West Point
+2020,12/07,Patriot Open,141,W,DEC,6 - 2,David Campbell,49061,Bucknell,Logan Brown,53821,Army West Point
+2020,12/07,Patriot Open,141,L,MD,10 - 1,Salvatore Profaci,39825,American,Logan Brown,53821,Army West Point
+2020,12/07,Patriot Open,141,W,TF5,17 - 2 5:09,Decklan Fischer,57117,Maryland,Logan Brown,53821,Army West Point
+2020,12/07,Patriot Open,141,L,MFOR,0 - 0,AJ Vindici,39785,Pennsylvania,Logan Brown,53821,Army West Point
+2020,11/24,Cornell Open,141,L,DEC,9 - 4,Noah Baughman,44749,Cornell,Logan Brown,53821,Army West Point
+2020,11/24,Cornell Open,141,W,MD,9 - 0,Imran Heard,51595,Lock Haven,Logan Brown,53821,Army West Point
+2020,11/24,Cornell Open,141,W,DEC,7 - 5,Reid Stewart,60680,Presbyterian,Logan Brown,53821,Army West Point
+2020,11/24,Cornell Open,141,W,MD,12 - 4,Andrew Gapas,51204,Rutgers,Logan Brown,53821,Army West Point
+2020,11/17,Black Knight Invitational,141,L,FALL,1:09,Corey Shie,51266,Army West Point,Logan Brown,53821,Army West Point
+2020,11/17,Black Knight Invitational,141,W,FALL,1:31,Marco Macrino,50359,Bloomsburg,Logan Brown,53821,Army West Point
+2020,11/17,Black Knight Invitational,141,W,MD,17 - 5,Hunter Baxter,49172,Maryland,Logan Brown,53821,Army West Point
+2020,11/17,Black Knight Invitational,141,L,DEC,8 - 2,Drew Marten,49077,Central Michigan,Logan Brown,53821,Army West Point
+2020,11/17,Black Knight Invitational,141,W,FALL,2:31,Dom Giannangeli,40063,Penn State,Logan Brown,53821,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,DEC,3 - 2,Dominic Carone,50845,Army West Point,Logan Brown,53821,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,SV-1,3 - 1,Michael Venosa,52043,Cornell,Logan Brown,53821,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,FALL,1:24,Jacob Lehr,44922,Cornell,Logan Brown,53821,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,DEC,2 - 0,Brett Kulp,44906,Franklin & Marshall,Logan Brown,53821,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,DEC,1 - 0,Lukus Stricker,49139,Harvard,Logan Brown,53821,Army West Point
+2020,11/03,Princeton Open,141,W,DEC,3 - 1,Beau Bartlett,62221,High School,Logan Brown,53821,Army West Point
+2020,11/03,Princeton Open,141,W,DEC,5 - 2,Dominic Carone,50845,Army West Point,Logan Brown,53821,Army West Point
+2020,11/03,Princeton Open,141,L,FALL,5:41,Matthew Kazimir,51644,Columbia,Logan Brown,53821,Army West Point
+2020,11/03,Princeton Open,141,W,FALL,2:51,Chris Scorese,51031,Columbia,Logan Brown,53821,Army West Point
+2020,11/24,Cornell Open,141,W,DEC,8 - 2,Sam Sallot,55944,Army West Point,Zach Glenn,50910,Army West Point
+2020,11/24,Cornell Open,141,L,DEC,7 - 1,Michael Venosa,52043,Cornell,Zach Glenn,50910,Army West Point
+2020,11/24,Cornell Open,141,W,INJ,7:00,Ryan Moore,50654,Cornell,Zach Glenn,50910,Army West Point
+2020,11/24,Cornell Open,141,W,DEC,5 - 2,Mike Russo,42009,Cornell,Zach Glenn,50910,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,DEC,10 - 3,Sal Jones,58952,Spartan Combat RTC,Zach Glenn,50910,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,MFOR,0 - 0,Bobby Groves,56816,Harvard,Zach Glenn,50910,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,FALL,0:30,William Bianchi,56006,Sacred Heart,Zach Glenn,50910,Army West Point
+2020,01/11,Shorty Hitchcock Classic,141,L,DEC,4 - 3,Jeffrey Boyd,62594,West Virginia,Dominic Carone,50845,Army West Point
+2020,01/11,Shorty Hitchcock Classic,141,W,DEC,4 - 3,Ryan McGuire,51194,Millersville,Dominic Carone,50845,Army West Point
+2020,01/11,Shorty Hitchcock Classic,141,W,DEC,3 - 1,Julian Flores,44791,Drexel,Dominic Carone,50845,Army West Point
+2020,01/11,Shorty Hitchcock Classic,141,W,MD,8 - 0,Tommy Maddox,63165,Buffalo,Dominic Carone,50845,Army West Point
+2020,01/11,Shorty Hitchcock Classic,141,L,DEC,14 - 7,Wil Gil,51024,Franklin & Marshall,Dominic Carone,50845,Army West Point
+2020,12/07,Patriot Open,141,L,DEC,12 - 5,Noah Levett,50658,Bucknell,Dominic Carone,50845,Army West Point
+2020,12/07,Patriot Open,141,W,DEC,3 - 2,Silas Shaw,62398,NC State,Dominic Carone,50845,Army West Point
+2020,12/07,Patriot Open,141,L,TF5,15 - 0 6:28,Matthew Kazimir,51644,Columbia,Dominic Carone,50845,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,DEC,3 - 2,Logan Brown,53821,Army West Point,Dominic Carone,50845,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,FALL,3:58,Ryan Moore,50654,Cornell,Dominic Carone,50845,Army West Point
+2020,11/03,Princeton Open,141,L,DEC,5 - 2,Logan Brown,53821,Army West Point,Dominic Carone,50845,Army West Point
+2020,11/03,Princeton Open,141,W,DEC,3 - 2,Alec Bobchin,62186,Rider,Dominic Carone,50845,Army West Point
+2020,11/03,Princeton Open,141,L,FALL,2:26,Marshall Keller,51509,Princeton,Dominic Carone,50845,Army West Point
+2020,12/07,Patriot Open,141,L,FALL,0:41,Logan Brown,53821,Army West Point,Michael McAteer,50846,Army West Point
+2020,12/07,Patriot Open,141,L,FALL,0:58,Corey Shie,51266,Army West Point,Michael McAteer,50846,Army West Point
+2020,12/07,Patriot Open,141,W,DEC,9 - 7,Silas Shaw,62398,NC State,Michael McAteer,50846,Army West Point
+2020,12/07,Patriot Open,141,W,FALL,4:33,Anthony Sountis,55915,Maryland,Michael McAteer,50846,Army West Point
+2020,12/07,Patriot Open,141,W,FALL,3:54,Chris Scorese,51031,Columbia,Michael McAteer,50846,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,FALL,1:33,Sam Sallot,55944,Army West Point,Michael McAteer,50846,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,TF5,22 - 5 7:00,Noah Baughman,44749,Cornell,Michael McAteer,50846,Army West Point
+2020,11/03,Princeton Open,141,W,FALL,1:14,Alec Bobchin,62186,Rider,Michael McAteer,50846,Army West Point
+2020,11/03,Princeton Open,141,L,FALL,4:10,Andrew Gapas,51204,Rutgers,Michael McAteer,50846,Army West Point
+2020,11/03,Princeton Open,141,L,DEC,10 - 6,Herbert Edwards,50630,Rider,Michael McAteer,50846,Army West Point
+2020,12/07,Patriot Open,141,L,DEC,9 - 5,AJ Vindici,39785,Pennsylvania,Sam Sallot,55944,Army West Point
+2020,12/07,Patriot Open,141,L,DEC,5 - 2,Jack Darling,56765,Virginia Tech,Sam Sallot,55944,Army West Point
+2020,11/24,Cornell Open,141,L,DEC,8 - 2,Zach Glenn,50910,Army West Point,Sam Sallot,55944,Army West Point
+2020,11/24,Cornell Open,141,L,DEC,6 - 3,Michael Venosa,52043,Cornell,Sam Sallot,55944,Army West Point
+2020,11/24,Cornell Open,141,W,INJ,7:00,Ryan Moore,50654,Cornell,Sam Sallot,55944,Army West Point
+2020,11/24,Cornell Open,141,L,DEC,11 - 4,Mike Russo,42009,Cornell,Sam Sallot,55944,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,FALL,1:33,Michael McAteer,50846,Army West Point,Sam Sallot,55944,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,MD,13 - 4,Anthony Sparacio,47621,Binghamton,Sam Sallot,55944,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,FALL,0:38,Jacob Hubbard,52714,Bucknell,Sam Sallot,55944,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,FALL,2:40,Mike Russo,42009,Cornell,Sam Sallot,55944,Army West Point
+2020,11/03,Princeton Open,141,L,DEC,8 - 2,Kaya Sement,63454,Unattached,Sam Sallot,55944,Army West Point
+2020,11/03,Princeton Open,141,L,FALL,3:47,Marshall Keller,51509,Princeton,Sam Sallot,55944,Army West Point
+2020,11/03,Princeton Open,141,W,DEC,6 - 0,Sean Fitzsimons,51327,Army West Point,Sam Sallot,55944,Army West Point
+2020,12/07,Patriot Open,141,L,MD,9 - 1,Tyler Dilley,62919,Lock Haven,Sean Fitzsimons,51327,Army West Point
+2020,12/07,Patriot Open,141,L,FALL,2:35,Noah Levett,50658,Bucknell,Sean Fitzsimons,51327,Army West Point
+2020,11/03,Princeton Open,141,L,DEC,6 - 0,Sam Sallot,55944,Army West Point,Sean Fitzsimons,51327,Army West Point
+2020,11/03,Princeton Open,141,L,FALL,5:00,Julian Sanchez,57318,United States Military Academy,Sean Fitzsimons,51327,Army West Point
+2020,03/06,EIWA Championships,149,W,DEC,3 - 2,Jimmy Hoffman,49165,Lehigh,Pj Ogunsanya,54496,Army West Point
+2020,03/06,EIWA Championships,149,L,DEC,1 - 0,Kizhan Clarke,44878,American,Pj Ogunsanya,54496,Army West Point
+2020,03/06,EIWA Championships,149,W,DEC,11 - 5,Ricky Cabanillas,57514,Brown,Pj Ogunsanya,54496,Army West Point
+2020,03/06,EIWA Championships,149,W,DEC,4 - 3,Rhise Royster,62049,LIU,Pj Ogunsanya,54496,Army West Point
+2020,03/06,EIWA Championships,149,L,DEC,2 - 1,Jimmy Hoffman,49165,Lehigh,Pj Ogunsanya,54496,Army West Point
+2020,03/06,EIWA Championships,149,W,MD,14 - 4,Nick Palumbo,49068,Sacred Heart,Pj Ogunsanya,54496,Army West Point
+2020,02/22,Army - Navy Dual,149,L,DEC,7 - 2,Jared Prince,41363,Navy,Pj Ogunsanya,54496,Army West Point
+2020,01/31,Lehigh - Army Dual,149,L,TB-1,6 - 5,Jimmy Hoffman,49165,Lehigh,Pj Ogunsanya,54496,Army West Point
+2020,01/25,Army - Lock Haven Dual,149,W,DEC,6 - 3,Brock Port,49168,Lock Haven,Pj Ogunsanya,54496,Army West Point
+2020,01/17,Pennsylvania - Army Dual,149,W,DEC,8 - 1,Lucas Revano,56734,Pennsylvania,Pj Ogunsanya,54496,Army West Point
+2020,01/04,American - Army Dual,149,L,DEC,6 - 0,Kizhan Clarke,44878,American,Pj Ogunsanya,54496,Army West Point
+2020,01/04,Wyoming - Army Dual,149,W,DEC,14 - 7,Jaron Jensen,44910,Wyoming,Pj Ogunsanya,54496,Army West Point
+2020,01/04,North Carolina - Army Dual,149,L,DEC,8 - 2,Austin O'Connor,49214,North Carolina,Pj Ogunsanya,54496,Army West Point
+2020,12/29,Midlands Championships,149,W,DEC,7 - 3,Josh Breeding,50616,Princeton,Pj Ogunsanya,54496,Army West Point
+2020,12/29,Midlands Championships,149,W,MD,13 - 4,Aaron Kruk,44797,Harvard,Pj Ogunsanya,54496,Army West Point
+2020,12/29,Midlands Championships,149,W,DEC,9 - 4,Patrick Ryan,57253,American,Pj Ogunsanya,54496,Army West Point
+2020,12/29,Midlands Championships,149,L,DEC,5 - 2,Tyshawn Williams,40203,SIU Edwardsville,Pj Ogunsanya,54496,Army West Point
+2020,12/29,Midlands Championships,149,L,DEC,5 - 2,Jacob Butler,57142,Oklahoma,Pj Ogunsanya,54496,Army West Point
+2020,12/07,Patriot Open,149,W,FALL,2:24,River Curtis,56071,Navy,Pj Ogunsanya,54496,Army West Point
+2020,12/07,Patriot Open,149,L,DEC,6 - 0,Kizhan Clarke,44878,American,Pj Ogunsanya,54496,Army West Point
+2020,12/07,Patriot Open,149,W,DEC,11 - 6,Josh Finesilver,46112,Duke,Pj Ogunsanya,54496,Army West Point
+2020,12/07,Patriot Open,149,W,TF5,18 - 1 4:58,Travis Layton,49041,Rider,Pj Ogunsanya,54496,Army West Point
+2020,11/24,West Virginia - Army Dual,149,W,FALL,4:09,Seth Hogue,44668,West Virginia,Pj Ogunsanya,54496,Army West Point
+2020,11/17,Black Knight Invitational,149,W,FALL,2:44,Corbyn Munson,51197,Central Michigan,Pj Ogunsanya,54496,Army West Point
+2020,11/17,Black Knight Invitational,149,W,DEC,9 - 6,Corbyn Munson,51197,Central Michigan,Pj Ogunsanya,54496,Army West Point
+2020,11/17,Black Knight Invitational,149,W,MD,12 - 2,Charlie Kane,45049,Hofstra,Pj Ogunsanya,54496,Army West Point
+2020,11/17,Black Knight Invitational,149,W,DEC,5 - 2,Michael Doetsch,44919,Maryland,Pj Ogunsanya,54496,Army West Point
+2020,11/17,Black Knight Invitational,149,L,DEC,3 - 0,Luke Gardner,44743,Penn State,Pj Ogunsanya,54496,Army West Point
+2020,11/10,Army - Chattanooga Dual,149,L,DEC,2 - 0,Tanner Smith,49129,Chattanooga,Pj Ogunsanya,54496,Army West Point
+2020,11/10,Army - Illinois Dual,149,W,MD,11 - 2,Mousa Jodeh,40308,Illinois,Pj Ogunsanya,54496,Army West Point
+2020,11/01,Army - Fresno State Dual,149,L,DEC,1 - 0,Greg Gaxiola,47675,Fresno State,Pj Ogunsanya,54496,Army West Point
+2020,11/01,Army - Wisconsin Dual,149,W,TB-2,6 - 3,Cole Martin,39773,Wisconsin,Pj Ogunsanya,54496,Army West Point
+2020,02/16,Army - Bucknell Dual,149,L,MD,15 - 3,Matt Kolonia,49066,Bucknell,Noah Hanau,41273,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,149,L,DEC,9 - 5,Tanner Craig,59533,United States Military Academy,Noah Hanau,41273,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,149,W,TF5,16 - 1 7:00,Caden Blust,57324,Army West Point,Noah Hanau,41273,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,149,W,MFOR,0 - 0,Jimmy Overhiser,41389,Cornell,Noah Hanau,41273,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,149,L,MD,13 - 3,Aaron Kruk,44797,Harvard,Noah Hanau,41273,Army West Point
+2020,11/03,Princeton Open,149,L,FALL,6:00,Tanner Craig,59533,United States Military Academy,Noah Hanau,41273,Army West Point
+2020,11/03,Princeton Open,149,L,DEC,8 - 2,Paul Watkins,56931,Lehigh,Noah Hanau,41273,Army West Point
+2020,03/06,EIWA Championships,157,W,DEC,5 - 4,Parker Kropman,45187,Drexel,Markus Hartman,50585,Army West Point
+2020,03/06,EIWA Championships,157,W,MD,8 - 0,Adam Santoro,46089,Cornell,Markus Hartman,50585,Army West Point
+2020,03/06,EIWA Championships,157,L,DEC,8 - 2,Josh Humphreys,55860,Lehigh,Markus Hartman,50585,Army West Point
+2020,03/06,EIWA Championships,157,W,DEC,6 - 3,Jaden Fisher,56900,Bucknell,Markus Hartman,50585,Army West Point
+2020,03/06,EIWA Championships,157,W,FALL,0:58,TJ Calas,49309,Sacred Heart,Markus Hartman,50585,Army West Point
+2020,02/16,Army - Bucknell Dual,157,W,DEC,8 - 2,Jaden Fisher,56900,Bucknell,Markus Hartman,50585,Army West Point
+2020,01/25,Army - Lock Haven Dual,157,W,MD,10 - 0,Alex Klucker,40289,Lock Haven,Markus Hartman,50585,Army West Point
+2020,01/04,American - Army Dual,157,W,FALL,5:00,Ethan Karsten,44903,American,Markus Hartman,50585,Army West Point
+2020,01/04,Wyoming - Army Dual,157,W,DEC,12 - 8,Dewey Krueger,40144,Wyoming,Markus Hartman,50585,Army West Point
+2020,01/04,North Carolina - Army Dual,157,L,DEC,3 - 2,AC Headlee,39627,North Carolina,Markus Hartman,50585,Army West Point
+2020,12/29,Midlands Championships,157,W,SV-1,4 - 2,Quincy Monday,53967,Princeton,Markus Hartman,50585,Army West Point
+2020,12/29,Midlands Championships,157,W,DEC,9 - 8,Anthony Artalona,51039,Pennsylvania,Markus Hartman,50585,Army West Point
+2020,12/29,Midlands Championships,157,L,SV-1,5 - 3,Kaleb Young,44572,Iowa,Markus Hartman,50585,Army West Point
+2020,12/29,Midlands Championships,157,W,FALL,4:07,Logan Parks,40153,Central Michigan,Markus Hartman,50585,Army West Point
+2020,12/29,Midlands Championships,157,W,DEC,4 - 2,Cade DeVos,57072,South Dakota State,Markus Hartman,50585,Army West Point
+2020,12/29,Midlands Championships,157,W,DEC,9 - 2,Jack Bokina,56798,Brown,Markus Hartman,50585,Army West Point
+2020,12/07,Patriot Open,157,W,FALL,3:00,Jaden Fisher,56900,Bucknell,Markus Hartman,50585,Army West Point
+2020,12/07,Patriot Open,157,W,TF5,15 - 0 5:32,Adam Davis,51128,Navy,Markus Hartman,50585,Army West Point
+2020,12/07,Patriot Open,157,W,TF5,16 - 0 3:57,Garrett Fisk,63139,Maryland,Markus Hartman,50585,Army West Point
+2020,12/07,Patriot Open,157,W,DEC,7 - 2,Robert Kanniard,56136,Rutgers,Markus Hartman,50585,Army West Point
+2020,11/17,Black Knight Invitational,157,W,DEC,3 - 0,Joey Sanchez,61029,Indiana,Markus Hartman,50585,Army West Point
+2020,11/17,Black Knight Invitational,157,W,DEC,10 - 8,Lucas Cordio,57120,Maryland,Markus Hartman,50585,Army West Point
+2020,11/17,Black Knight Invitational,157,L,FALL,0:49,Bo Pipher,45075,Penn State,Markus Hartman,50585,Army West Point
+2020,11/17,Black Knight Invitational,157,L,DEC,9 - 6,Tyler Meisinger,45010,Michigan,Markus Hartman,50585,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,W,DEC,7 - 2,Benny Baker,63471,Spartan Combat RTC,Markus Hartman,50585,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,W,MD,12 - 3,Julian Ramirez,56706,Spartan Combat RTC,Markus Hartman,50585,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,W,FALL,2:16,Christian Hunt,50638,Army West Point,Markus Hartman,50585,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,W,DEC,7 - 0,Zach Hartman,50586,Bucknell,Markus Hartman,50585,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,L,DEC,2 - 0,Colton Yapoujian,56705,Cornell,Markus Hartman,50585,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,W,MFOR,0 - 0,Cole Aaron,44902,Franklin & Marshall,Markus Hartman,50585,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,W,DEC,3 - 0,Farouq Muhammed,57645,Lock Haven,Markus Hartman,50585,Army West Point
+2020,11/03,Princeton Open,157,W,TF5,18 - 0 7:00,Michael Wilson,62190,Rider,Markus Hartman,50585,Army West Point
+2020,11/03,Princeton Open,157,W,DEC,6 - 4,Holden Heller,50940,Hofstra,Markus Hartman,50585,Army West Point
+2020,11/03,Princeton Open,157,W,MD,8 - 0,James Saylor,45641,Army West Point,Markus Hartman,50585,Army West Point
+2020,11/03,Princeton Open,157,L,DEC,8 - 2,Jesse Dellavecchia,39574,Rider,Markus Hartman,50585,Army West Point
+2020,11/03,Princeton Open,157,W,DEC,3 - 1,Gary Dinmore,23397,Rider,Markus Hartman,50585,Army West Point
+2020,11/03,Princeton Open,157,W,DEC,4 - 0,Riley Jacops,51032,Columbia,Markus Hartman,50585,Army West Point
+2020,02/22,Army - Navy Dual,157,W,DEC,4 - 0,Jon Park,60226,Navy,Luke Weiland,41243,Army West Point
+2020,01/31,Lehigh - Army Dual,157,L,DEC,3 - 0,Josh Humphreys,55860,Lehigh,Luke Weiland,41243,Army West Point
+2020,01/17,Pennsylvania - Army Dual,157,W,TF5,16 - 1 7:00,Jeremy Ridge,56192,Pennsylvania,Luke Weiland,41243,Army West Point
+2020,12/07,Patriot Open,157,W,TF5,15 - 0 4:36,Jacob Conrad,62406,Gardner-Webb,Luke Weiland,41243,Army West Point
+2020,12/07,Patriot Open,157,L,MFOR,0 - 0,Jaden Fisher,56900,Bucknell,Luke Weiland,41243,Army West Point
+2020,12/07,Patriot Open,157,W,MD,14 - 0,Brandon LaRue,63132,Duke,Luke Weiland,41243,Army West Point
+2020,12/07,Patriot Open,157,W,MD,15 - 4,Michael North,57335,Maryland,Luke Weiland,41243,Army West Point
+2020,12/07,Patriot Open,157,L,INJ,5:55,Robert Kanniard,56136,Rutgers,Luke Weiland,41243,Army West Point
+2020,11/24,West Virginia - Army Dual,157,W,DEC,4 - 1,Alex Hornfeck,56494,West Virginia,Luke Weiland,41243,Army West Point
+2020,11/17,Black Knight Invitational,157,L,DEC,5 - 2,Will Lewan,50934,Michigan,Luke Weiland,41243,Army West Point
+2020,11/17,Black Knight Invitational,157,W,DEC,5 - 0,Nate Newberry,45190,Bloomsburg,Luke Weiland,41243,Army West Point
+2020,11/17,Black Knight Invitational,157,W,DEC,6 - 1,Bo Pipher,45075,Penn State,Luke Weiland,41243,Army West Point
+2020,11/17,Black Knight Invitational,157,W,MD,13 - 3,Logan Parks,40153,Central Michigan,Luke Weiland,41243,Army West Point
+2020,11/10,Army - Chattanooga Dual,157,W,DEC,6 - 1,George Carpenter,20298,Chattanooga,Luke Weiland,41243,Army West Point
+2020,11/10,Army - Illinois Dual,157,W,DEC,8 - 3,Eric Barone,39566,Illinois,Luke Weiland,41243,Army West Point
+2020,11/01,Army - Fresno State Dual,157,L,DEC,7 - 2,Jacob Wright,49463,Fresno State,Luke Weiland,41243,Army West Point
+2020,11/01,Army - Wisconsin Dual,157,W,DEC,5 - 2,Garrett Model,49351,Wisconsin,Luke Weiland,41243,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,L,SV-1,9 - 7,Baltazar Gonzalez,53393,American International College,James Saylor,45641,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,W,FALL,0:59,Nick Encarnacion,65773,Greensboro,James Saylor,45641,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,L,DEC,8 - 2,Brandon Connor,57181,Millersville,James Saylor,45641,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,W,DEC,8 - 1,Adam Davis,51128,Navy,James Saylor,45641,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,W,DEC,5 - 1,Anthony Robinson,62583,George Mason,James Saylor,45641,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,W,MD,20 - 10,Trevor Elfvin,51017,Clarion,James Saylor,45641,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,L,DEC,5 - 2,Taylor Brown,51326,Army West Point,James Saylor,45641,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,L,MD,12 - 4,Julian Ramirez,56706,Spartan Combat RTC,James Saylor,45641,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,W,FALL,1:25,Eli Smith,45212,Franklin & Marshall,James Saylor,45641,Army West Point
+2020,11/03,Princeton Open,157,L,MD,8 - 0,Markus Hartman,50585,Army West Point,James Saylor,45641,Army West Point
+2020,11/03,Princeton Open,157,W,FALL,1:07,Caden Blust,57324,Army West Point,James Saylor,45641,Army West Point
+2020,11/03,Princeton Open,157,L,DEC,5 - 1,Robert Kanniard,56136,Rutgers,James Saylor,45641,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,W,DEC,12 - 5,Adam Kirsh,65087,Pennsylvania,Christian Hunt,50638,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,L,DEC,8 - 6,Brandon Connor,57181,Millersville,Christian Hunt,50638,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,W,FALL,0:59,Kenny Cooper,57778,LIU,Christian Hunt,50638,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,W,MD,18 - 5,Drew Dickson,62581,George Mason,Christian Hunt,50638,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,L,FALL,3:53,Cole Aaron,44902,Franklin & Marshall,Christian Hunt,50638,Army West Point
+2020,12/07,Patriot Open,157,W,DEC,9 - 2,Anthony Robinson,62583,George Mason,Christian Hunt,50638,Army West Point
+2020,12/07,Patriot Open,157,L,FALL,4:13,Jaden Fisher,56900,Bucknell,Christian Hunt,50638,Army West Point
+2020,12/07,Patriot Open,157,W,MD,10 - 2,Quentin Milliken,51594,Rider,Christian Hunt,50638,Army West Point
+2020,12/07,Patriot Open,157,L,DEC,4 - 2,Riley Jacops,51032,Columbia,Christian Hunt,50638,Army West Point
+2020,11/24,Cornell Open,157,W,DEC,6 - 3,Benny Baker,63471,Spartan Combat RTC,Christian Hunt,50638,Army West Point
+2020,11/24,Cornell Open,157,W,DEC,3 - 2,Taylor Brown,51326,Army West Point,Christian Hunt,50638,Army West Point
+2020,11/24,Cornell Open,157,W,MFOR,0 - 0,Warren McDougald,61990,Buffalo,Christian Hunt,50638,Army West Point
+2020,11/24,Cornell Open,157,W,MD,8 - 0,Leo Mushinsky,59543,Buffalo,Christian Hunt,50638,Army West Point
+2020,11/24,Cornell Open,157,L,FALL,1:35,Colton Yapoujian,56705,Cornell,Christian Hunt,50638,Army West Point
+2020,11/24,Cornell Open,157,L,TF5,17 - 0 7:00,Jonathan Ross,44894,Lock Haven,Christian Hunt,50638,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,L,FALL,2:16,Markus Hartman,50585,Army West Point,Christian Hunt,50638,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,L,TF5,15 - 0 7:00,Jonathan Ross,44894,Lock Haven,Christian Hunt,50638,Army West Point
+2020,11/03,Princeton Open,157,L,FALL,0:52,Anthony Ulaszek,63455,US Naval Academy Prep School,Christian Hunt,50638,Army West Point
+2020,11/03,Princeton Open,157,L,DEC,5 - 4,Jake Marsh,51129,Princeton,Christian Hunt,50638,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,W,TF5,19 - 4 3:33,Christian Carr,66126,Hempfield WC,Taylor Brown,51326,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,L,FALL,1:54,Anthony Ulaszek,63455,US Naval Academy Prep School,Taylor Brown,51326,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,W,MD,16 - 7,Stanley Wojoylak,57843,Centenary,Taylor Brown,51326,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,W,MD,17 - 6,Carl Antrassian,45263,Pennsylvania,Taylor Brown,51326,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,L,DEC,10 - 8,Jack Stanton-Taddeo,44620,Navy,Taylor Brown,51326,Army West Point
+2020,12/07,Patriot Open,157,W,DEC,10 - 5,Adam Davis,51128,Navy,Taylor Brown,51326,Army West Point
+2020,12/07,Patriot Open,157,W,DEC,8 - 2,Evan Schenk,49136,Gardner-Webb,Taylor Brown,51326,Army West Point
+2020,12/07,Patriot Open,157,W,INJ,7:00,Ryan Yorkdale,45348,George Mason,Taylor Brown,51326,Army West Point
+2020,12/07,Patriot Open,157,L,FALL,0:49,Jonathan Ross,44894,Lock Haven,Taylor Brown,51326,Army West Point
+2020,12/07,Patriot Open,157,W,FALL,7:17,Cody Harrison,61765,Rutgers,Taylor Brown,51326,Army West Point
+2020,12/07,Patriot Open,157,L,MD,17 - 6,Robert Kanniard,56136,Rutgers,Taylor Brown,51326,Army West Point
+2020,11/24,Cornell Open,157,L,DEC,3 - 2,Christian Hunt,50638,Army West Point,Taylor Brown,51326,Army West Point
+2020,11/24,Cornell Open,157,L,DEC,4 - 2,Benny Baker,63471,Spartan Combat RTC,Taylor Brown,51326,Army West Point
+2020,11/24,Cornell Open,157,W,MD,16 - 6,Warren McDougald,61990,Buffalo,Taylor Brown,51326,Army West Point
+2020,11/24,Cornell Open,157,W,INJ,7:00,Leo Mushinsky,59543,Buffalo,Taylor Brown,51326,Army West Point
+2020,11/24,Cornell Open,157,L,TF5,19 - 0 7:00,Colton Yapoujian,56705,Cornell,Taylor Brown,51326,Army West Point
+2020,11/24,Cornell Open,157,L,FALL,3:42,Jonathan Ross,44894,Lock Haven,Taylor Brown,51326,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,W,DEC,5 - 2,James Saylor,45641,Army West Point,Taylor Brown,51326,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,L,FALL,4:48,Zach Hartman,50586,Bucknell,Taylor Brown,51326,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,W,SV-1,7 - 5,Noah Chan,57227,Franklin & Marshall,Taylor Brown,51326,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,W,MD,19 - 5,Chase McCollum,54179,Franklin & Marshall,Taylor Brown,51326,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,157,L,TF5,15 - 0 7:00,Hunter Ladnier,44784,Harvard,Taylor Brown,51326,Army West Point
+2020,11/03,Princeton Open,157,L,FALL,0:26,Anthony Ulaszek,63455,US Naval Academy Prep School,Taylor Brown,51326,Army West Point
+2020,11/03,Princeton Open,157,L,TB-1,8 - 7,Jake Marsh,51129,Princeton,Taylor Brown,51326,Army West Point
+2020,11/03,Princeton Open,157,L,TF5,19 - 1 7:00,Quincy Monday,53967,Princeton,Beau Guffey,45643,Army West Point
+2020,11/03,Princeton Open,157,L,MFOR,0 - 0,AJ Burkhart,50632,Lehigh,Beau Guffey,45643,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,L,FALL,1:42,Carl Antrassian,45263,Pennsylvania,Caden Blust,57324,Army West Point
+2020,01/11,Shorty Hitchcock Classic,157,L,MD,14 - 0,Cole Aaron,44902,Franklin & Marshall,Caden Blust,57324,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,149,L,TF5,16 - 1 7:00,Noah Hanau,41273,Army West Point,Caden Blust,57324,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,149,L,DEC,4 - 0,Tyler Williams,51090,Bucknell,Caden Blust,57324,Army West Point
+2020,11/03,Princeton Open,157,L,FALL,1:07,James Saylor,45641,Army West Point,Caden Blust,57324,Army West Point
+2020,11/03,Princeton Open,157,L,MD,13 - 0,Jack Stanton-Taddeo,44620,Navy,Caden Blust,57324,Army West Point
+2020,03/06,EIWA Championships,165,L,TB-2,5 - 4,Phillip Conigliaro,51201,Harvard,Cael McCormick,44622,Army West Point
+2020,03/06,EIWA Championships,165,W,FALL,0:45,Grant Cuomo,50892,Princeton,Cael McCormick,44622,Army West Point
+2020,03/06,EIWA Championships,165,L,DEC,1 - 0,Tanner Skidgel,49200,Navy,Cael McCormick,44622,Army West Point
+2020,03/06,EIWA Championships,165,W,DEC,2 - 1,Ebed Jarrell,40311,Drexel,Cael McCormick,44622,Army West Point
+2020,03/06,EIWA Championships,165,W,DEC,5 - 2,Timothy Fitzpatrick,57254,American,Cael McCormick,44622,Army West Point
+2020,02/22,Army - Navy Dual,165,L,DEC,1 - 0,Tanner Skidgel,49200,Navy,Cael McCormick,44622,Army West Point
+2020,02/16,Army - Bucknell Dual,165,W,DEC,2 - 1,Zach Hartman,50586,Bucknell,Cael McCormick,44622,Army West Point
+2020,01/31,Lehigh - Army Dual,165,W,DEC,7 - 3,Brian Meyer,50941,Lehigh,Cael McCormick,44622,Army West Point
+2020,01/25,Army - Lock Haven Dual,165,W,DEC,5 - 2,Caleb Clymer,56372,Lock Haven,Cael McCormick,44622,Army West Point
+2020,01/17,Pennsylvania - Army Dual,165,W,DEC,7 - 2,Jacob Lizak,44795,Pennsylvania,Cael McCormick,44622,Army West Point
+2020,01/04,American - Army Dual,165,W,DEC,3 - 2,Timothy Fitzpatrick,57254,American,Cael McCormick,44622,Army West Point
+2020,01/04,Wyoming - Army Dual,165,W,DEC,5 - 2,Cole Moody,57067,Wyoming,Cael McCormick,44622,Army West Point
+2020,01/04,North Carolina - Army Dual,165,L,DEC,5 - 2,Kennedy Monday,45025,North Carolina,Cael McCormick,44622,Army West Point
+2020,12/29,Midlands Championships,165,W,DEC,3 - 1,Tim Noverini,65943,Omega Training Center,Cael McCormick,44622,Army West Point
+2020,12/29,Midlands Championships,165,W,FALL,2:30,Ankhaa Enkhmandakh,62897,Northwestern,Cael McCormick,44622,Army West Point
+2020,12/29,Midlands Championships,165,L,DEC,8 - 6,Jake Keating,50315,Virginia,Cael McCormick,44622,Army West Point
+2020,12/29,Midlands Championships,165,W,DEC,7 - 3,Conor Melbourne,49298,Princeton,Cael McCormick,44622,Army West Point
+2020,12/29,Midlands Championships,165,L,DEC,2 - 0,Cameron Amine,57289,Michigan,Cael McCormick,44622,Army West Point
+2020,12/07,Patriot Open,165,W,DEC,9 - 2,Rodrick Mosley,50889,Gardner-Webb,Cael McCormick,44622,Army West Point
+2020,12/07,Patriot Open,165,W,DEC,6 - 3,Evan Barczak,49122,Drexel,Cael McCormick,44622,Army West Point
+2020,12/07,Patriot Open,165,W,DEC,8 - 3,Joe Casey,51145,Rider,Cael McCormick,44622,Army West Point
+2020,12/07,Patriot Open,165,W,DEC,7 - 1,Mason Brestle,65456,Unattached,Cael McCormick,44622,Army West Point
+2020,11/24,West Virginia - Army Dual,165,W,DEC,3 - 1,Nick Kiussis,49345,West Virginia,Cael McCormick,44622,Army West Point
+2020,11/17,Black Knight Invitational,165,W,DEC,7 - 3,Konner Kraeszig,57104,Penn State,Cael McCormick,44622,Army West Point
+2020,11/17,Black Knight Invitational,165,W,DEC,11 - 4,Layne van Anrooy,49182,Michigan,Cael McCormick,44622,Army West Point
+2020,11/17,Black Knight Invitational,165,W,DEC,9 - 7,Ricky Stamm,44699,Hofstra,Cael McCormick,44622,Army West Point
+2020,11/01,Army - Fresno State Dual,165,W,SV-1,3 - 1,Adam Kemp,57045,Fresno State,Cael McCormick,44622,Army West Point
+2020,11/01,Army - Wisconsin Dual,165,L,DEC,9 - 2,Evan Wick,44730,Wisconsin,Cael McCormick,44622,Army West Point
+2020,12/29,Midlands Championships,165,L,FALL,4:27,Danny Braunagel,50926,Illinois,Mason Smith,50584,Army West Point
+2020,12/29,Midlands Championships,165,W,TF5,21 - 3 2:50,Joseph Terry,45561,Ohio,Mason Smith,50584,Army West Point
+2020,12/29,Midlands Championships,165,L,DEC,5 - 1,Zackary Velasquez,40394,Northern Illinois,Mason Smith,50584,Army West Point
+2020,12/07,Patriot Open,165,W,MD,19 - 5,George Worthy,63465,Rider,Mason Smith,50584,Army West Point
+2020,12/07,Patriot Open,165,W,DEC,4 - 1,Joey Schiele,49065,Bucknell,Mason Smith,50584,Army West Point
+2020,12/07,Patriot Open,165,L,FALL,4:28,Evan Barczak,49122,Drexel,Mason Smith,50584,Army West Point
+2020,12/07,Patriot Open,165,L,DEC,5 - 3,Joe Casey,51145,Rider,Mason Smith,50584,Army West Point
+2020,11/10,Army - Chattanooga Dual,165,L,DEC,5 - 4,Drew Nicholson,49091,Chattanooga,Mason Smith,50584,Army West Point
+2020,11/10,Army - Illinois Dual,165,L,DEC,12 - 5,Danny Braunagel,50926,Illinois,Mason Smith,50584,Army West Point
+2020,11/03,Princeton Open,165,L,FALL,2:42,Grant Cuomo,50892,Princeton,Mason Smith,50584,Army West Point
+2020,11/03,Princeton Open,165,L,DEC,11 - 7,Conor Melbourne,49298,Princeton,Mason Smith,50584,Army West Point
+2020,01/11,Shorty Hitchcock Classic,165,W,FALL,3:19,Scott Defex,65789,Nassau Community College,Will Lucie,45640,Army West Point
+2020,01/11,Shorty Hitchcock Classic,165,W,FALL,3:13,Jeremy Nurnberger,51279,Centenary,Will Lucie,45640,Army West Point
+2020,01/11,Shorty Hitchcock Classic,165,L,MD,13 - 5,Robert Patrick,50665,Virginia,Will Lucie,45640,Army West Point
+2020,01/11,Shorty Hitchcock Classic,165,W,FALL,0:39,Fabio Preka,63166,Buffalo,Will Lucie,45640,Army West Point
+2020,01/11,Shorty Hitchcock Classic,165,L,DEC,6 - 5,Emmett LiCastri,45213,Franklin & Marshall,Will Lucie,45640,Army West Point
+2020,12/07,Patriot Open,165,W,DEC,8 - 7,Rodney Winston,62584,George Mason,Will Lucie,45640,Army West Point
+2020,12/07,Patriot Open,165,W,FALL,2:10,Ali Salem,58299,George Mason,Will Lucie,45640,Army West Point
+2020,12/07,Patriot Open,165,L,DEC,13 - 6,Kellen Ekern,51041,Old Dominion,Will Lucie,45640,Army West Point
+2020,12/07,Patriot Open,165,L,DEC,2 - 1,Jonathan Spadafora,62703,Maryland,Will Lucie,45640,Army West Point
+2020,11/17,Black Knight Invitational,165,W,DEC,7 - 1,Tracy Hubbard,57361,Central Michigan,Will Lucie,45640,Army West Point
+2020,11/17,Black Knight Invitational,165,L,FALL,4:22,Tracy Hubbard,57361,Central Michigan,Will Lucie,45640,Army West Point
+2020,11/17,Black Knight Invitational,165,L,DEC,6 - 2,Layne van Anrooy,49182,Michigan,Will Lucie,45640,Army West Point
+2020,11/17,Black Knight Invitational,165,L,DEC,7 - 1,Ricky Stamm,44699,Hofstra,Will Lucie,45640,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,165,L,DEC,6 - 5,Aidan Monteverdi,49048,Binghamton,Will Lucie,45640,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,165,W,FALL,0:50,Joey Schiele,49065,Bucknell,Will Lucie,45640,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,165,L,DEC,13 - 7,Emmett LiCastri,45213,Franklin & Marshall,Will Lucie,45640,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,165,W,FALL,4:16,Trey Cornish,48467,Lehigh,Will Lucie,45640,Army West Point
+2020,11/03,Princeton Open,165,W,TF5,17 - 0 7:00,Corey Connolly,62210,Rider,Will Lucie,45640,Army West Point
+2020,11/03,Princeton Open,165,L,MD,12 - 2,Nick Incontrera,57070,PRTC,Will Lucie,45640,Army West Point
+2020,11/03,Princeton Open,165,L,FALL,3:46,Chase Gallik,39677,Lehigh,Will Lucie,45640,Army West Point
+2020,11/03,Princeton Open,165,W,FALL,0:43,Chimenum Tasie-Amadi,63449,Columbia,Will Lucie,45640,Army West Point
+2020,11/03,Princeton Open,165,W,DEC,7 - 3,Anthony Patsy,52040,Pennsylvania,Christian Walden,50433,Army West Point
+2020,11/03,Princeton Open,165,W,FALL,3:37,David Russell,51323,Army West Point,Christian Walden,50433,Army West Point
+2020,11/03,Princeton Open,165,L,DEC,11 - 7,Conor Melbourne,49298,Princeton,Christian Walden,50433,Army West Point
+2020,11/03,Princeton Open,165,L,TF5,16 - 0 7:00,Dale Tiongson,49295,Princeton,Christian Walden,50433,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,165,L,TF5,18 - 0 7:00,Emmett LiCastri,45213,Franklin & Marshall,David Russell,51323,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,165,L,DEC,11 - 5,Luca Frinzi,57518,Lehigh,David Russell,51323,Army West Point
+2020,11/03,Princeton Open,165,L,FALL,3:37,Christian Walden,50433,Army West Point,David Russell,51323,Army West Point
+2020,11/03,Princeton Open,165,L,MD,10 - 2,Ricky Stamm,44699,Hofstra,David Russell,51323,Army West Point
+2020,03/06,EIWA Championships,174,W,DEC,6 - 1,Michael O'Malley,50836,Drexel,Ben Harvey,40935,Army West Point
+2020,03/06,EIWA Championships,174,W,MD,11 - 0,Mitchell Hartman,45921,Bucknell,Ben Harvey,40935,Army West Point
+2020,03/06,EIWA Championships,174,L,DEC,5 - 2,Spencer Carey,44817,Navy,Ben Harvey,40935,Army West Point
+2020,03/06,EIWA Championships,174,W,FALL,3:42,Sage Heller,44999,Hofstra,Ben Harvey,40935,Army West Point
+2020,03/06,EIWA Championships,174,W,FALL,1:27,James Langan,57781,LIU,Ben Harvey,40935,Army West Point
+2020,02/22,Army - Navy Dual,174,L,DEC,3 - 1,Spencer Carey,44817,Navy,Ben Harvey,40935,Army West Point
+2020,02/16,Army - Bucknell Dual,174,W,MD,12 - 3,Mitchell Hartman,45921,Bucknell,Ben Harvey,40935,Army West Point
+2020,01/31,Lehigh - Army Dual,174,L,FALL,7:00,Jordan Kutler,39626,Lehigh,Ben Harvey,40935,Army West Point
+2020,01/25,Army - Lock Haven Dual,174,W,DEC,4 - 0,Jared Siegrist,45101,Lock Haven,Ben Harvey,40935,Army West Point
+2020,01/17,Pennsylvania - Army Dual,174,W,MD,16 - 2,Neil Antrassian,56202,Pennsylvania,Ben Harvey,40935,Army West Point
+2020,01/04,American - Army Dual,174,W,TF5,16 - 0 7:00,Connor Bourne,57131,American,Ben Harvey,40935,Army West Point
+2020,01/04,Wyoming - Army Dual,174,W,MD,11 - 2,Casey Randles,49355,Wyoming,Ben Harvey,40935,Army West Point
+2020,01/04,North Carolina - Army Dual,174,L,SV-1,3 - 1,Clay Lautt,49212,North Carolina,Ben Harvey,40935,Army West Point
+2020,12/29,Midlands Championships,174,W,DEC,6 - 1,Nate Dugan,57662,Princeton,Ben Harvey,40935,Army West Point
+2020,12/29,Midlands Championships,174,L,SV-1,3 - 1,Dylan Lydy,39998,Purdue,Ben Harvey,40935,Army West Point
+2020,12/29,Midlands Championships,174,L,DEC,4 - 2,Joey Gunther,39725,Illinois,Ben Harvey,40935,Army West Point
+2020,12/29,Midlands Championships,174,W,SV-1,3 - 1,Jacob Covaciu,44805,Indiana,Ben Harvey,40935,Army West Point
+2020,12/29,Midlands Championships,174,W,FALL,3:24,Donnell Washington,57738,Indiana,Ben Harvey,40935,Army West Point
+2020,12/29,Midlands Championships,174,W,DEC,6 - 0,Kenny Moore,46406,Northern Illinois,Ben Harvey,40935,Army West Point
+2020,12/07,Patriot Open,174,W,MD,10 - 2,Conner Allshouse,44877,American,Ben Harvey,40935,Army West Point
+2020,12/07,Patriot Open,174,W,DEC,5 - 2,Joshua Kim,51200,Boston RTC,Ben Harvey,40935,Army West Point
+2020,12/07,Patriot Open,174,L,DEC,3 - 2,Carter Starocci,58819,Penn State,Ben Harvey,40935,Army West Point
+2020,11/24,West Virginia - Army Dual,174,W,TF5,16 - 0 7:00,Scott Joll,62424,West Virginia,Ben Harvey,40935,Army West Point
+2020,11/17,Black Knight Invitational,174,L,DEC,5 - 3,Jacob Covaciu,44805,Indiana,Ben Harvey,40935,Army West Point
+2020,11/17,Black Knight Invitational,174,W,MD,10 - 2,Max Maylor,56310,Michigan,Ben Harvey,40935,Army West Point
+2020,11/17,Black Knight Invitational,174,W,MD,14 - 1,Brad Laughlin,51265,Army West Point,Ben Harvey,40935,Army West Point
+2020,11/17,Black Knight Invitational,174,L,DEC,9 - 6,Philip Spadafora,51167,Maryland,Ben Harvey,40935,Army West Point
+2020,11/10,Army - Chattanooga Dual,174,W,DEC,1 - 0,Hunter Fortner,50952,Chattanooga,Ben Harvey,40935,Army West Point
+2020,11/10,Army - Illinois Dual,174,W,DEC,7 - 3,Joey Gunther,39725,Illinois,Ben Harvey,40935,Army West Point
+2020,11/01,Army - Fresno State Dual,174,W,DEC,3 - 1,Jackson Hemauer,49347,Fresno State,Ben Harvey,40935,Army West Point
+2020,11/01,Army - Wisconsin Dual,174,W,DEC,4 - 2,Tyler Dow,50622,Wisconsin,Ben Harvey,40935,Army West Point
+2020,01/11,Shorty Hitchcock Classic,174,L,DEC,4 - 1,Mason Reiniche,67415,Spartan Combat RTC,Brad Laughlin,51265,Army West Point
+2020,01/11,Shorty Hitchcock Classic,174,W,DEC,6 - 0,Jason Montgomery,51110,Pennsylvania,Brad Laughlin,51265,Army West Point
+2020,01/11,Shorty Hitchcock Classic,174,L,DEC,4 - 1,Creighton Edsell,56934,Penn State,Brad Laughlin,51265,Army West Point
+2020,01/11,Shorty Hitchcock Classic,174,W,FALL,1:34,John Crawford,62873,Franklin & Marshall,Brad Laughlin,51265,Army West Point
+2020,01/11,Shorty Hitchcock Classic,174,W,MD,13 - 2,Crew Fullerton,57225,Franklin & Marshall,Brad Laughlin,51265,Army West Point
+2020,12/29,Midlands Championships,174,L,DEC,4 - 3,Brandon Martino,50244,Fresno State,Brad Laughlin,51265,Army West Point
+2020,12/29,Midlands Championships,174,L,DEC,5 - 3,Lennox Wolak,57767,Columbia,Brad Laughlin,51265,Army West Point
+2020,12/07,Patriot Open,174,W,DEC,4 - 3,Luke Drugac,44767,Old Dominion,Brad Laughlin,51265,Army West Point
+2020,12/07,Patriot Open,174,W,MD,12 - 0,Corey Connolly,62210,Rider,Brad Laughlin,51265,Army West Point
+2020,12/07,Patriot Open,174,L,DEC,7 - 3,Carter Starocci,58819,Penn State,Brad Laughlin,51265,Army West Point
+2020,12/07,Patriot Open,174,W,DEC,6 - 3,Jack Conway,44785,Pennsylvania,Brad Laughlin,51265,Army West Point
+2020,11/17,Black Knight Invitational,174,L,MD,14 - 1,Ben Harvey,40935,Army West Point,Brad Laughlin,51265,Army West Point
+2020,11/17,Black Knight Invitational,174,W,DEC,5 - 3,Justin Hayward,56792,Bloomsburg,Brad Laughlin,51265,Army West Point
+2020,11/17,Black Knight Invitational,174,W,DEC,8 - 2,Max Maylor,56310,Michigan,Brad Laughlin,51265,Army West Point
+2020,11/17,Black Knight Invitational,174,L,FALL,6:27,Philip Spadafora,51167,Maryland,Brad Laughlin,51265,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,174,W,DEC,4 - 0,Jacob Nolan,62415,Binghamton,Brad Laughlin,51265,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,174,W,DEC,4 - 1,Derek Yingling,60759,United States Military Academy,Brad Laughlin,51265,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,174,L,DEC,9 - 5,Chris Foca,56712,Spartan Combat RTC,Brad Laughlin,51265,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,174,W,DEC,9 - 4,Jarek Gozdieski,45222,Bucknell,Brad Laughlin,51265,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,174,L,DEC,3 - 2,Ben Pasiuk,57286,United States Military Academy,Sam Williams,41314,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,174,L,TF5,17 - 0 7:00,Chris Foca,56712,Spartan Combat RTC,Sam Williams,41314,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,174,W,FALL,4:47,Alexander Melikian,45021,Binghamton,Sam Williams,41314,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,174,W,MD,11 - 2,Christopher Bolletino,54922,Franklin & Marshall,Sam Williams,41314,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,174,W,INJ,7:00,Edmond Ruth,51277,Lehigh,Sam Williams,41314,Army West Point
+2020,11/03,Princeton Open,174,L,DEC,4 - 2,Ben Pasiuk,57286,United States Military Academy,Sam Williams,41314,Army West Point
+2020,11/03,Princeton Open,174,L,DEC,3 - 2,Edmond Ruth,51277,Lehigh,Sam Williams,41314,Army West Point
+2020,11/03,Princeton Open,174,W,MD,9 - 1,Derek Yingling,60759,United States Military Academy,Sam Williams,41314,Army West Point
+2020,11/03,Princeton Open,174,W,DEC,11 - 8,Forest Belli,58176,Princeton,Sam Williams,41314,Army West Point
+2020,01/11,Shorty Hitchcock Classic,174,L,FALL,4:41,John Crawford,62873,Franklin & Marshall,Brock Crawford,63457,Army West Point
+2020,01/11,Shorty Hitchcock Classic,174,L,FALL,2:26,Christopher Bolletino,54922,Franklin & Marshall,Brock Crawford,63457,Army West Point
+2020,12/07,Patriot Open,174,L,FALL,1:20,Luke Drugac,44767,Old Dominion,Brock Crawford,63457,Army West Point
+2020,12/07,Patriot Open,174,L,FALL,5:00,Lance Andriani,59625,NC State,Brock Crawford,63457,Army West Point
+2020,11/03,Princeton Open,174,L,FALL,1:18,Forest Belli,58176,Princeton,Brock Crawford,63457,Army West Point
+2020,11/03,Princeton Open,174,L,MD,9 - 1,Mason Reiniche,67415,Spartan Combat RTC,Brock Crawford,63457,Army West Point
+2020,03/06,EIWA Championships,184,L,DEC,9 - 3,Tanner Harvey,48451,American,Noah Stewart,44599,Army West Point
+2020,03/06,EIWA Championships,184,W,MD,14 - 4,Jonathan Loew,51080,Cornell,Noah Stewart,44599,Army West Point
+2020,03/06,EIWA Championships,184,L,DEC,8 - 6,Chris Weiler,45108,Lehigh,Noah Stewart,44599,Army West Point
+2020,03/06,EIWA Championships,184,W,DEC,9 - 5,Travis Stefanik,49301,Princeton,Noah Stewart,44599,Army West Point
+2020,03/06,EIWA Championships,184,W,TF5,16 - 0 5:35,Reid Robilotto,45211,Franklin & Marshall,Noah Stewart,44599,Army West Point
+2020,02/22,Army - Navy Dual,184,W,MD,11 - 3,Dean Caravela,44816,Navy,Noah Stewart,44599,Army West Point
+2020,02/16,Army - Bucknell Dual,184,W,FALL,5:00,Kyle Inlander,44835,Bucknell,Noah Stewart,44599,Army West Point
+2020,01/31,Lehigh - Army Dual,184,L,DEC,7 - 2,Chris Weiler,45108,Lehigh,Noah Stewart,44599,Army West Point
+2020,01/25,Army - Lock Haven Dual,184,W,TF5,16 - 0 5:40,Ray Bernot,45102,Lock Haven,Noah Stewart,44599,Army West Point
+2020,01/04,American - Army Dual,184,W,DEC,9 - 6,Tanner Harvey,48451,American,Noah Stewart,44599,Army West Point
+2020,01/04,North Carolina - Army Dual,184,W,DEC,12 - 6,Joey Mazzara,54232,North Carolina,Noah Stewart,44599,Army West Point
+2020,12/29,Midlands Championships,184,W,TF5,16 - 0 6:31,Hunter Cruz,56318,Fresno State,Noah Stewart,44599,Army West Point
+2020,12/29,Midlands Championships,184,W,SV-1,4 - 2,Michael Battista,51672,Virginia,Noah Stewart,44599,Army West Point
+2020,12/29,Midlands Championships,184,L,DEC,3 - 1,Zach Braunagel,50925,Illinois,Noah Stewart,44599,Army West Point
+2020,12/29,Midlands Championships,184,L,DEC,6 - 4,Andrew Morgan,40250,Campbell,Noah Stewart,44599,Army West Point
+2020,12/29,Midlands Championships,184,L,DEC,5 - 3,Andrew Morgan,40250,Campbell,Noah Stewart,44599,Army West Point
+2020,12/29,Midlands Championships,184,W,MFOR,0 - 0,Johnny Sebastian,20224,Wisconsin,Noah Stewart,44599,Army West Point
+2020,12/29,Midlands Championships,184,W,DEC,6 - 0,Bobby Striggow,51240,Michigan,Noah Stewart,44599,Army West Point
+2020,11/17,Black Knight Invitational,184,W,DEC,8 - 1,Bobby Striggow,51240,Michigan,Noah Stewart,44599,Army West Point
+2020,11/17,Black Knight Invitational,184,W,TF5,18 - 1 5:46,Kyle Jasenski,51164,Maryland,Noah Stewart,44599,Army West Point
+2020,11/17,Black Knight Invitational,184,W,TF5,16 - 0 1:55,Jakob Hinz,40067,Indiana,Noah Stewart,44599,Army West Point
+2020,11/17,Black Knight Invitational,184,W,DEC,6 - 2,Trevor Allard,40040,Bloomsburg,Noah Stewart,44599,Army West Point
+2020,11/01,Army - Fresno State Dual,184,W,DQ,0 - 0,Hunter Cruz,56318,Fresno State,Noah Stewart,44599,Army West Point
+2020,11/01,Army - Wisconsin Dual,184,W,DEC,3 - 1,Johnny Sebastian,20224,Wisconsin,Noah Stewart,44599,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,W,FALL,2:42,Colby Tennyson,62378,VMI,Luke Hodsden,45121,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,W,TF5,17 - 1 6:24,Isaiah Collins,53392,American International College,Luke Hodsden,45121,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,W,DEC,5 - 2,Jonah Barley,51013,Cornell,Luke Hodsden,45121,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,L,SV-1,5 - 3,Kendall Elfstrum,49299,NJRTC,Luke Hodsden,45121,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,W,MD,13 - 2,Evan Morrill,48203,Millersville,Luke Hodsden,45121,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,L,DEC,3 - 2,Jacob Ferreira,56807,NC State,Luke Hodsden,45121,Army West Point
+2020,11/10,Army - Chattanooga Dual,184,L,DEC,11 - 5,Matthew Waddell,49259,Chattanooga,Luke Hodsden,45121,Army West Point
+2020,11/10,Army - Illinois Dual,184,L,DEC,6 - 2,Zach Braunagel,50925,Illinois,Luke Hodsden,45121,Army West Point
+2020,11/03,Princeton Open,184,W,DEC,3 - 2,George Walton,49265,Rider,Luke Hodsden,45121,Army West Point
+2020,11/03,Princeton Open,184,W,MFOR,0 - 0,Andrew Shedleski,56939,Lehigh,Luke Hodsden,45121,Army West Point
+2020,11/03,Princeton Open,184,W,DEC,4 - 3,Chris Weiler,45108,Lehigh,Luke Hodsden,45121,Army West Point
+2020,01/17,Pennsylvania - Army Dual,184,W,DEC,7 - 5,Jake Hendricks,50657,Pennsylvania,Sahm AbdulRazzaq,58214,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,W,TF5,17 - 2 5:00,Alberto Vargas-Perez,63388,Spartanburg Methodist College,Sahm AbdulRazzaq,58214,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,W,DEC,14 - 8,Ethan Stern,61836,US Naval Academy Prep School,Sahm AbdulRazzaq,58214,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,L,DEC,9 - 4,David Key,56717,US Naval Academy Prep School,Sahm AbdulRazzaq,58214,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,W,DEC,4 - 2,Jed Smith,45645,Army West Point,Sahm AbdulRazzaq,58214,Army West Point
+2020,12/07,Patriot Open,184,W,DEC,9 - 8,Colin Fegley,63035,Lock Haven,Sahm AbdulRazzaq,58214,Army West Point
+2020,12/07,Patriot Open,184,W,TB-2,6 - 5,Bryan Martin,56433,Rider,Sahm AbdulRazzaq,58214,Army West Point
+2020,12/07,Patriot Open,184,W,INJ,7:00,John Stout,60543,Pennsylvania,Sahm AbdulRazzaq,58214,Army West Point
+2020,12/07,Patriot Open,184,W,DEC,4 - 3,Brian Bonino,51034,NYC RTC,Sahm AbdulRazzaq,58214,Army West Point
+2020,11/24,Cornell Open,184,W,DEC,7 - 3,Logan Rill,44775,Buffalo,Sahm AbdulRazzaq,58214,Army West Point
+2020,11/24,Cornell Open,184,W,MD,14 - 5,Jonah Barley,51013,Cornell,Sahm AbdulRazzaq,58214,Army West Point
+2020,11/24,Cornell Open,184,L,FALL,2:07,Ben Darmstadt,45876,Cornell,Sahm AbdulRazzaq,58214,Army West Point
+2020,11/24,Cornell Open,184,W,MFOR,0 - 0,TJ Franden,62125,LIU,Sahm AbdulRazzaq,58214,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,184,L,DEC,6 - 4,Jed Smith,45645,Army West Point,Sahm AbdulRazzaq,58214,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,184,L,TF5,16 - 0 7:00,Louie DePrez,49046,Binghamton,Sahm AbdulRazzaq,58214,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,184,W,DEC,8 - 3,Michael Doggett,62194,Harvard,Sahm AbdulRazzaq,58214,Army West Point
+2020,11/03,Princeton Open,184,W,DEC,11 - 6,TJ Franden,62125,LIU,Sahm AbdulRazzaq,58214,Army West Point
+2020,11/03,Princeton Open,184,L,SV-1,6 - 4,Kendall Elfstrum,49299,NJRTC,Sahm AbdulRazzaq,58214,Army West Point
+2020,11/03,Princeton Open,184,L,TF5,15 - 0 7:00,Chris Weiler,45108,Lehigh,Sahm AbdulRazzaq,58214,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,L,DEC,4 - 2,Sahm AbdulRazzaq,58214,Army West Point,Jed Smith,45645,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,L,DEC,5 - 4,Anthony Carman,62423,West Virginia,Jed Smith,45645,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,W,DEC,3 - 1,Evan Morrill,48203,Millersville,Jed Smith,45645,Army West Point
+2020,01/11,Shorty Hitchcock Classic,184,W,DEC,10 - 6,Kenny Long,41248,Centenary,Jed Smith,45645,Army West Point
+2020,01/04,Wyoming - Army Dual,184,L,MD,13 - 4,Tate Samuelson,57066,Wyoming,Jed Smith,45645,Army West Point
+2020,12/29,Midlands Championships,184,L,TF5,20 - 2 6:16,Zach Braunagel,50925,Illinois,Jed Smith,45645,Army West Point
+2020,12/29,Midlands Championships,184,L,DEC,2 - 0,Hunter Yeargan,45564,Ohio,Jed Smith,45645,Army West Point
+2020,12/07,Patriot Open,184,W,FALL,6:32,Christian Salter,51036,Gardner-Webb,Jed Smith,45645,Army West Point
+2020,12/07,Patriot Open,184,L,DEC,6 - 5,Leonardo Tarantino,51222,Boston RTC,Jed Smith,45645,Army West Point
+2020,12/07,Patriot Open,184,W,DEC,4 - 3,Chris Garrison,62401,NC State,Jed Smith,45645,Army West Point
+2020,12/07,Patriot Open,184,L,FALL,1:20,Bryan Martin,56433,Rider,Jed Smith,45645,Army West Point
+2020,11/24,West Virginia - Army Dual,184,W,DEC,7 - 3,Jackson Moomau,57161,West Virginia,Jed Smith,45645,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,184,W,FALL,6:18,Tyler Lynde,60380,Nassau Community College,Jed Smith,45645,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,184,W,DEC,6 - 4,Sahm AbdulRazzaq,58214,Army West Point,Jed Smith,45645,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,184,W,DEC,5 - 3,Kendall Elfstrum,49299,NJRTC,Jed Smith,45645,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,184,W,DEC,7 - 3,Brandon Stokes,44634,Bucknell,Jed Smith,45645,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,184,W,DEC,9 - 5,Jonah Barley,51013,Cornell,Jed Smith,45645,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,184,L,DEC,10 - 8,Ben Darmstadt,45876,Cornell,Jed Smith,45645,Army West Point
+2020,03/06,EIWA Championships,197,L,MD,10 - 2,Patrick Brucki,49296,Princeton,Jack Brown,51262,Army West Point
+2020,03/06,EIWA Championships,197,W,MD,11 - 0,Bryan McLaughlin,49120,Drexel,Jack Brown,51262,Army West Point
+2020,03/06,EIWA Championships,197,L,DEC,6 - 1,Ben Darmstadt,45876,Cornell,Jack Brown,51262,Army West Point
+2020,03/06,EIWA Championships,197,W,DEC,4 - 2,Jake Jakobsen,46924,Lehigh,Jack Brown,51262,Army West Point
+2020,03/06,EIWA Championships,197,W,DEC,7 - 3,Nino Bastianelli,50818,Brown,Jack Brown,51262,Army West Point
+2020,02/22,Army - Navy Dual,197,L,DEC,6 - 1,Jake Koser,50890,Navy,Jack Brown,51262,Army West Point
+2020,02/16,Army - Bucknell Dual,197,L,DEC,6 - 4,Drew Phipps,45224,Bucknell,Jack Brown,51262,Army West Point
+2020,01/25,Army - Lock Haven Dual,197,W,MD,8 - 0,Parker McClellan,56598,Lock Haven,Jack Brown,51262,Army West Point
+2020,01/17,Pennsylvania - Army Dual,197,L,DEC,6 - 2,Cole Urbas,56773,Pennsylvania,Jack Brown,51262,Army West Point
+2020,01/04,American - Army Dual,197,W,TF5,17 - 1 7:00,William Jarrell,62907,American,Jack Brown,51262,Army West Point
+2020,12/29,Midlands Championships,197,W,DEC,2 - 0,Zach Glazier,56767,Iowa,Jack Brown,51262,Army West Point
+2020,12/29,Midlands Championships,197,W,TB-2,5 - 4,Lucas Davison,51236,Northwestern,Jack Brown,51262,Army West Point
+2020,12/29,Midlands Championships,197,W,MFOR,0 - 0,Alex Hopkins,45122,Army West Point,Jack Brown,51262,Army West Point
+2020,12/29,Midlands Championships,197,L,DEC,5 - 3,Jay Aiello,44667,Virginia,Jack Brown,51262,Army West Point
+2020,12/29,Midlands Championships,197,L,DEC,4 - 2,Hunter Ritter,39783,Minnesota,Jack Brown,51262,Army West Point
+2020,12/29,Midlands Championships,197,W,FALL,0:45,Aric Bohn,57004,SIU Edwardsville,Jack Brown,51262,Army West Point
+2020,12/29,Midlands Championships,197,W,DEC,4 - 3,Thomas Lane,39966,Cal Poly,Jack Brown,51262,Army West Point
+2020,12/07,Patriot Open,197,W,MD,10 - 0,Roderick Davis,39752,Gardner-Webb,Jack Brown,51262,Army West Point
+2020,12/07,Patriot Open,197,W,DEC,6 - 5,Dakota Howard,51202,Virginia Tech,Jack Brown,51262,Army West Point
+2020,12/07,Patriot Open,197,W,DEC,9 - 3,Sam Wustefeld,57272,Columbia,Jack Brown,51262,Army West Point
+2020,11/24,West Virginia - Army Dual,197,L,MD,18 - 10,Noah Adams,49342,West Virginia,Jack Brown,51262,Army West Point
+2020,11/17,Black Knight Invitational,197,W,DEC,4 - 3,Aaron Bolo,50919,Central Michigan,Jack Brown,51262,Army West Point
+2020,11/17,Black Knight Invitational,197,W,DEC,2 - 1,Alex Hopkins,45122,Army West Point,Jack Brown,51262,Army West Point
+2020,11/17,Black Knight Invitational,197,W,DEC,3 - 1,Kyle Murphy,44915,Bloomsburg,Jack Brown,51262,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,TF5,19 - 1 7:00,Joseph Miller,58218,Army West Point,Jack Brown,51262,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,MD,12 - 3,Nico Manzonelli,51320,Army West Point,Jack Brown,51262,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,SV-1,3 - 1,Bennett Paulson,45647,Army West Point,Jack Brown,51262,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,L,DEC,5 - 3,Jonathan Loew,51080,Cornell,Jack Brown,51262,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,MD,12 - 0,Michael Waszen,51829,Franklin & Marshall,Jack Brown,51262,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,TF5,20 - 4 7:00,Jacob Harrison,51831,Sacred Heart,Jack Brown,51262,Army West Point
+2020,11/01,Army - Wisconsin Dual,197,W,DEC,9 - 2,Taylor Watkins,40180,Wisconsin,Jack Brown,51262,Army West Point
+2020,01/11,Shorty Hitchcock Classic,197,W,FALL,0:45,Charles Morrison,62165,Davis & Elkins,Bennett Paulson,45647,Army West Point
+2020,01/11,Shorty Hitchcock Classic,197,W,TF5,18 - 2 4:14,Justin Hopman,57847,Centenary,Bennett Paulson,45647,Army West Point
+2020,01/11,Shorty Hitchcock Classic,197,L,DEC,10 - 4,Jacob Cardenas,56770,Spartan Combat RTC,Bennett Paulson,45647,Army West Point
+2020,01/11,Shorty Hitchcock Classic,197,W,TF5,18 - 0 3:31,Gunnar Larson,51322,Army West Point,Bennett Paulson,45647,Army West Point
+2020,01/11,Shorty Hitchcock Classic,197,W,FALL,0:54,Austin Osumi,62817,Drexel,Bennett Paulson,45647,Army West Point
+2020,01/11,Shorty Hitchcock Classic,197,W,TF5,16 - 0 3:23,Sam Mitchell,61028,Buffalo,Bennett Paulson,45647,Army West Point
+2020,12/07,Patriot Open,197,L,DEC,5 - 2,Alex Hopkins,45122,Army West Point,Bennett Paulson,45647,Army West Point
+2020,12/07,Patriot Open,197,W,DEC,6 - 0,Mason McCready,57223,Bucknell,Bennett Paulson,45647,Army West Point
+2020,12/07,Patriot Open,197,W,MD,8 - 0,Roderick Davis,39752,Gardner-Webb,Bennett Paulson,45647,Army West Point
+2020,12/07,Patriot Open,197,W,FALL,4:03,Timothy Young,40523,Old Dominion,Bennett Paulson,45647,Army West Point
+2020,12/07,Patriot Open,197,W,DEC,7 - 0,Kevin Makosy,59551,Maryland,Bennett Paulson,45647,Army West Point
+2020,11/24,Cornell Open,197,W,DEC,12 - 5,Sam Mitchell,61028,Buffalo,Bennett Paulson,45647,Army West Point
+2020,11/24,Cornell Open,197,L,DEC,7 - 4,Jonathan Loew,51080,Cornell,Bennett Paulson,45647,Army West Point
+2020,11/24,Cornell Open,197,W,FALL,1:33,Dan Shafran,57782,LIU,Bennett Paulson,45647,Army West Point
+2020,11/24,Cornell Open,197,W,TF5,18 - 0 7:00,Jacob Harrison,51831,Sacred Heart,Bennett Paulson,45647,Army West Point
+2020,11/24,Cornell Open,197,W,TF5,17 - 2 7:00,Montgomery Mills,62081,Presbyterian,Bennett Paulson,45647,Army West Point
+2020,11/24,Cornell Open,197,W,TF5,18 - 0 7:00,Austin Stith,61206,Presbyterian,Bennett Paulson,45647,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,L,SV-1,3 - 1,Jack Brown,51262,Army West Point,Bennett Paulson,45647,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,INJ,7:00,Jacob Cardenas,56770,Spartan Combat RTC,Bennett Paulson,45647,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,TF5,16 - 0 7:00,Gunnar Larson,51322,Army West Point,Bennett Paulson,45647,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,TF5,15 - 0 7:00,Luke Niemeyer,57205,Bucknell,Bennett Paulson,45647,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,L,DEC,11 - 9,Jonathan Loew,51080,Cornell,Bennett Paulson,45647,Army West Point
+2020,11/03,Princeton Open,197,W,FALL,0:53,Anthony Burburija,63460,US Naval Academy Prep School,Bennett Paulson,45647,Army West Point
+2020,11/03,Princeton Open,197,W,TF5,16 - 0 7:00,Ryan Brazill,63459,Unattached,Bennett Paulson,45647,Army West Point
+2020,11/03,Princeton Open,197,W,MD,11 - 3,Matthew Cover,57523,Princeton,Bennett Paulson,45647,Army West Point
+2020,11/03,Princeton Open,197,L,DEC,4 - 3,Jake Jakobsen,46924,Lehigh,Bennett Paulson,45647,Army West Point
+2020,11/03,Princeton Open,197,W,FALL,0:44,Sam Wustefeld,57272,Columbia,Bennett Paulson,45647,Army West Point
+2020,01/31,Lehigh - Army Dual,197,L,DEC,4 - 1,Jake Jakobsen,46924,Lehigh,Alex Hopkins,45122,Army West Point
+2020,01/04,Wyoming - Army Dual,197,L,TB-3,11 - 10,Stephen Buchanan,60451,Wyoming,Alex Hopkins,45122,Army West Point
+2020,01/04,North Carolina - Army Dual,197,W,DEC,3 - 2,Brandon Whitman,50602,North Carolina,Alex Hopkins,45122,Army West Point
+2020,12/29,Midlands Championships,197,L,MFOR,0 - 0,Jack Brown,51262,Army West Point,Alex Hopkins,45122,Army West Point
+2020,12/29,Midlands Championships,197,W,FALL,4:33,Brendan Devine,57086,Northwestern,Alex Hopkins,45122,Army West Point
+2020,12/29,Midlands Championships,197,W,DEC,6 - 1,Matt Wroblewski,50019,Illinois,Alex Hopkins,45122,Army West Point
+2020,12/29,Midlands Championships,197,L,TB-2,6 - 5,Jay Aiello,44667,Virginia,Alex Hopkins,45122,Army West Point
+2020,12/29,Midlands Championships,197,W,DEC,6 - 1,Jake Kleimola,44956,Indiana,Alex Hopkins,45122,Army West Point
+2020,12/29,Midlands Championships,197,L,DEC,7 - 5,Gage Braun,51647,Northern Illinois,Alex Hopkins,45122,Army West Point
+2020,12/29,Midlands Championships,197,W,DEC,6 - 5,Thomas Lane,39966,Cal Poly,Alex Hopkins,45122,Army West Point
+2020,12/07,Patriot Open,197,W,MD,12 - 0,Gunnar Larson,51322,Army West Point,Alex Hopkins,45122,Army West Point
+2020,12/07,Patriot Open,197,W,DEC,5 - 2,Bennett Paulson,45647,Army West Point,Alex Hopkins,45122,Army West Point
+2020,12/07,Patriot Open,197,W,FALL,2:03,Eddie Smith,62902,Penn State,Alex Hopkins,45122,Army West Point
+2020,12/07,Patriot Open,197,W,TF5,15 - 0 5:35,Gregory Bensley,56214,Pennsylvania,Alex Hopkins,45122,Army West Point
+2020,11/17,Black Knight Invitational,197,L,DEC,2 - 1,Jack Brown,51262,Army West Point,Alex Hopkins,45122,Army West Point
+2020,11/17,Black Knight Invitational,197,W,FALL,9:00,Trey Rogers,51099,Hofstra,Alex Hopkins,45122,Army West Point
+2020,11/17,Black Knight Invitational,197,W,TF5,18 - 2 6:28,Landon Pelham,44838,Central Michigan,Alex Hopkins,45122,Army West Point
+2020,11/17,Black Knight Invitational,197,W,DEC,4 - 2,Jackson Striggow,39831,Michigan,Alex Hopkins,45122,Army West Point
+2020,11/10,Army - Chattanooga Dual,197,W,DEC,8 - 2,Rodney Jones,40212,Chattanooga,Alex Hopkins,45122,Army West Point
+2020,11/10,Army - Illinois Dual,197,L,SV-1,3 - 1,Matt Wroblewski,50019,Illinois,Alex Hopkins,45122,Army West Point
+2020,11/01,Army - Fresno State Dual,197,W,MD,8 - 0,Ryan Reyes,57638,Fresno State,Alex Hopkins,45122,Army West Point
+2020,01/11,Shorty Hitchcock Classic,197,W,FALL,3:30,Loic Tueguo,63698,Garrett College,Nico Manzonelli,51320,Army West Point
+2020,01/11,Shorty Hitchcock Classic,197,L,DEC,10 - 9,Anthony Burburija,63460,US Naval Academy Prep School,Nico Manzonelli,51320,Army West Point
+2020,01/11,Shorty Hitchcock Classic,197,L,FALL,0:45,Austin Osumi,62817,Drexel,Nico Manzonelli,51320,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,L,MD,12 - 3,Jack Brown,51262,Army West Point,Nico Manzonelli,51320,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,DEC,7 - 3,Gunnar Larson,51322,Army West Point,Nico Manzonelli,51320,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,FALL,6:45,Nunzio Crowley,45185,Binghamton,Nico Manzonelli,51320,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,L,FALL,0:41,Drew Phipps,45224,Bucknell,Nico Manzonelli,51320,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,MFOR,0 - 0,Evan Callahan,50874,Harvard,Nico Manzonelli,51320,Army West Point
+2020,11/03,Princeton Open,197,L,TF5,19 - 2 7:00,Patrick Brucki,49296,Princeton,Nico Manzonelli,51320,Army West Point
+2020,11/03,Princeton Open,197,L,FALL,6:56,Sam Wustefeld,57272,Columbia,Nico Manzonelli,51320,Army West Point
+2020,01/11,Shorty Hitchcock Classic,197,L,TF5,18 - 0 3:31,Bennett Paulson,45647,Army West Point,Gunnar Larson,51322,Army West Point
+2020,01/11,Shorty Hitchcock Classic,197,W,MD,16 - 7,Jack Files,62448,Millersville,Gunnar Larson,51322,Army West Point
+2020,01/11,Shorty Hitchcock Classic,197,L,DEC,9 - 7,Luke Niemeyer,57205,Bucknell,Gunnar Larson,51322,Army West Point
+2020,12/07,Patriot Open,197,L,MD,12 - 0,Alex Hopkins,45122,Army West Point,Gunnar Larson,51322,Army West Point
+2020,12/07,Patriot Open,197,W,SV-1,10 - 8,William Jarrell,62907,American,Gunnar Larson,51322,Army West Point
+2020,12/07,Patriot Open,197,L,MD,8 - 0,Timothy Young,40523,Old Dominion,Gunnar Larson,51322,Army West Point
+2020,12/07,Patriot Open,197,W,DEC,8 - 1,Zachary Scheffler,64022,Rider,Gunnar Larson,51322,Army West Point
+2020,12/07,Patriot Open,197,W,DEC,9 - 7,Sam Wustefeld,57272,Columbia,Gunnar Larson,51322,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,L,DEC,7 - 3,Nico Manzonelli,51320,Army West Point,Gunnar Larson,51322,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,L,TF5,16 - 0 7:00,Bennett Paulson,45647,Army West Point,Gunnar Larson,51322,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,DEC,9 - 7,Nunzio Crowley,45185,Binghamton,Gunnar Larson,51322,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,L,MD,12 - 2,Drew Phipps,45224,Bucknell,Gunnar Larson,51322,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,DEC,6 - 4,Ethan Seeley,62875,Franklin & Marshall,Gunnar Larson,51322,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,MD,17 - 8,Michael Waszen,51829,Franklin & Marshall,Gunnar Larson,51322,Army West Point
+2020,11/03,Princeton Open,197,L,DEC,14 - 7,Malcolm Wiley,62915,Navy,Gunnar Larson,51322,Army West Point
+2020,11/03,Princeton Open,197,W,MD,12 - 3,Andrew McDonald,46173,Lehigh,Gunnar Larson,51322,Army West Point
+2020,11/03,Princeton Open,197,L,DEC,10 - 4,Sam Wustefeld,57272,Columbia,Gunnar Larson,51322,Army West Point
+2020,11/03,Princeton Open,197,W,DEC,6 - 5,Anthony Burburija,63460,US Naval Academy Prep School,Jack Buell,44737,Army West Point
+2020,11/03,Princeton Open,197,L,INJ,7:00,Matthew Cover,57523,Princeton,Jack Buell,44737,Army West Point
+2020,11/03,Princeton Open,197,L,INJ,7:00,Ethan Laird,50134,Rider,Jack Buell,44737,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,L,TF5,19 - 1 7:00,Jack Brown,51262,Army West Point,Joseph Miller,58218,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,MFOR,0 - 0,Jacob Cardenas,56770,Spartan Combat RTC,Joseph Miller,58218,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,L,DEC,3 - 1,Nunzio Crowley,45185,Binghamton,Joseph Miller,58218,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,197,W,MFOR,0 - 0,Evan Callahan,50874,Harvard,Joseph Miller,58218,Army West Point
+2020,03/06,EIWA Championships,285,L,INJ,1:16,Brandon Stokes,44634,Bucknell,Ben Sullivan,49040,Army West Point
+2020,03/06,EIWA Championships,285,L,DEC,3 - 1,Brendan Furman,49113,Cornell,Ben Sullivan,49040,Army West Point
+2020,03/06,EIWA Championships,285,W,MD,10 - 2,Riley Smith,56459,Navy,Ben Sullivan,49040,Army West Point
+2020,02/22,Army - Navy Dual,285,W,DEC,1 - 0,Riley Smith,56459,Navy,Ben Sullivan,49040,Army West Point
+2020,01/31,Lehigh - Army Dual,285,L,DEC,4 - 0,Jordan Wood,45107,Lehigh,Ben Sullivan,49040,Army West Point
+2020,01/25,Army - Lock Haven Dual,285,W,MD,14 - 1,Trey Hartsock,44869,Lock Haven,Ben Sullivan,49040,Army West Point
+2020,01/04,Wyoming - Army Dual,285,W,DEC,5 - 0,Brian Andrews,50489,Wyoming,Ben Sullivan,49040,Army West Point
+2020,01/04,North Carolina - Army Dual,285,W,DEC,3 - 2,Andrew Gunning,44876,North Carolina,Ben Sullivan,49040,Army West Point
+2020,12/29,Midlands Championships,285,W,FALL,4:13,Joey Slackman,56929,Pennsylvania,Ben Sullivan,49040,Army West Point
+2020,12/29,Midlands Championships,285,W,DEC,3 - 1,Ben Goldin,50827,Pennsylvania,Ben Sullivan,49040,Army West Point
+2020,12/29,Midlands Championships,285,L,TB-2,2 - 1,Aaron Costello,49149,Iowa,Ben Sullivan,49040,Army West Point
+2020,12/29,Midlands Championships,285,L,DEC,3 - 2,Carter Isley,44719,Northern Iowa,Ben Sullivan,49040,Army West Point
+2020,12/07,Patriot Open,285,W,FALL,5:24,Jordan Espinosa,57637,Millersville,Ben Sullivan,49040,Army West Point
+2020,12/07,Patriot Open,285,W,DEC,2 - 0,Bobby Heald,45649,Army West Point,Ben Sullivan,49040,Army West Point
+2020,12/07,Patriot Open,285,W,DEC,2 - 0,Ben Goldin,50827,Pennsylvania,Ben Sullivan,49040,Army West Point
+2020,12/07,Patriot Open,285,W,DEC,4 - 1,Alex Esposito,50637,Rutgers,Ben Sullivan,49040,Army West Point
+2020,11/17,Black Knight Invitational,285,W,SV-1,6 - 4,Zachary Knighton-Ward,53791,Hofstra,Ben Sullivan,49040,Army West Point
+2020,11/17,Black Knight Invitational,285,W,TF5,15 - 0 4:03,Jarrett Walters,50871,Bloomsburg,Ben Sullivan,49040,Army West Point
+2020,11/17,Black Knight Invitational,285,W,TF5,17 - 2 5:14,Zachery Nemec,49183,Michigan,Ben Sullivan,49040,Army West Point
+2020,11/17,Black Knight Invitational,285,L,TB-2,2 - 1,Matt Stencel,44592,Central Michigan,Ben Sullivan,49040,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,L,MFOR,0 - 0,Seth Janney,49115,Cornell,Ben Sullivan,49040,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,W,DEC,3 - 1,Brendan Furman,49113,Cornell,Ben Sullivan,49040,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,L,DEC,3 - 2,Yaraslau Slavikouski,62196,Harvard,Ben Sullivan,49040,Army West Point
+2020,11/01,Army - Fresno State Dual,285,L,INJ,1:16,Brandon Stokes,44634,Bucknell,Ben Sullivan,49040,Army West Point
+2020,11/01,Army - Wisconsin Dual,285,L,DEC,7 - 0,Trent Hillger,49350,Wisconsin,Ben Sullivan,49040,Army West Point
+2020,02/16,Army - Bucknell Dual,285,W,DEC,4 - 1,Brandon Stokes,44634,Bucknell,Bobby Heald,45649,Army West Point
+2020,01/17,Pennsylvania - Army Dual,285,W,DEC,3 - 1,Ben Goldin,50827,Pennsylvania,Bobby Heald,45649,Army West Point
+2020,01/04,American - Army Dual,285,W,DEC,6 - 2,Niko Camacho,49032,American,Bobby Heald,45649,Army West Point
+2020,12/29,Midlands Championships,285,L,DEC,3 - 2,Yaraslau Slavikouski,62196,Harvard,Bobby Heald,45649,Army West Point
+2020,12/29,Midlands Championships,285,W,DEC,5 - 2,Thomas Penola,57105,Purdue,Bobby Heald,45649,Army West Point
+2020,12/29,Midlands Championships,285,L,MD,9 - 1,Trent Hillger,49350,Wisconsin,Bobby Heald,45649,Army West Point
+2020,12/29,Midlands Championships,285,W,DEC,5 - 4,Andrew Gunning,44876,North Carolina,Bobby Heald,45649,Army West Point
+2020,12/29,Midlands Championships,285,L,DEC,6 - 0,Zach Elam,51612,Missouri,Bobby Heald,45649,Army West Point
+2020,12/29,Midlands Championships,285,W,DEC,11 - 4,Colton McKiernan,57003,SIU Edwardsville,Bobby Heald,45649,Army West Point
+2020,12/07,Patriot Open,285,L,DEC,2 - 0,Ben Sullivan,49040,Army West Point,Bobby Heald,45649,Army West Point
+2020,12/07,Patriot Open,285,W,DEC,5 - 3,Andy Smith,63528,Southeast RTC,Bobby Heald,45649,Army West Point
+2020,12/07,Patriot Open,285,W,FALL,4:31,Gabriel Pickett,57164,Gardner-Webb,Bobby Heald,45649,Army West Point
+2020,12/07,Patriot Open,285,W,MD,12 - 4,Colin Lawler,54114,NC State,Bobby Heald,45649,Army West Point
+2020,12/07,Patriot Open,285,W,MD,14 - 4,Nate Hoaglund,60537,Pennsylvania,Bobby Heald,45649,Army West Point
+2020,11/24,West Virginia - Army Dual,285,W,DEC,5 - 2,Brandon Ngati,45167,West Virginia,Bobby Heald,45649,Army West Point
+2020,11/17,Black Knight Invitational,285,W,DEC,5 - 1,Drake Pauwels,56416,Central Michigan,Bobby Heald,45649,Army West Point
+2020,11/17,Black Knight Invitational,285,W,MD,10 - 2,Brandon Streck,56190,Indiana,Bobby Heald,45649,Army West Point
+2020,11/17,Black Knight Invitational,285,W,DEC,6 - 5,Zachary Knighton-Ward,53791,Hofstra,Bobby Heald,45649,Army West Point
+2020,11/17,Black Knight Invitational,285,L,MD,13 - 2,Mason Parris,51176,Michigan,Bobby Heald,45649,Army West Point
+2020,11/10,Army - Chattanooga Dual,285,W,DEC,5 - 3,Grayson Walthall,62675,Chattanooga,Bobby Heald,45649,Army West Point
+2020,11/10,Army - Illinois Dual,285,L,DEC,8 - 5,Luke Luffman,56708,Illinois,Bobby Heald,45649,Army West Point
+2020,11/01,Army - Fresno State Dual,285,W,MD,16 - 5,Randy Gonzalez,62564,Fresno State,Bobby Heald,45649,Army West Point
+2020,01/11,Shorty Hitchcock Classic,285,W,TF5,18 - 3 6:28,Raul Martinez,57791,American International College,Jeremiah Imonode,41229,Army West Point
+2020,01/11,Shorty Hitchcock Classic,285,W,DEC,10 - 3,Caleb Warner,48403,Millersville,Jeremiah Imonode,41229,Army West Point
+2020,01/11,Shorty Hitchcock Classic,285,W,FALL,1:45,Riley Smith,56459,Navy,Jeremiah Imonode,41229,Army West Point
+2020,01/11,Shorty Hitchcock Classic,285,W,DEC,8 - 3,Derek Rose,51019,Drexel,Jeremiah Imonode,41229,Army West Point
+2020,01/11,Shorty Hitchcock Classic,285,L,SV-1,6 - 4,Greg Hodulick,49406,Buffalo,Jeremiah Imonode,41229,Army West Point
+2020,11/17,Black Knight Invitational,285,W,DEC,12 - 5,Greg Hagan,57737,Indiana,Jeremiah Imonode,41229,Army West Point
+2020,11/17,Black Knight Invitational,285,W,DEC,3 - 2,Drake Pauwels,56416,Central Michigan,Jeremiah Imonode,41229,Army West Point
+2020,11/17,Black Knight Invitational,285,L,DEC,6 - 1,Zachary Knighton-Ward,53791,Hofstra,Jeremiah Imonode,41229,Army West Point
+2020,11/17,Black Knight Invitational,285,L,FALL,1:42,Mason Parris,51176,Michigan,Jeremiah Imonode,41229,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,L,DEC,9 - 2,Joe Doyle,49050,Binghamton,Jeremiah Imonode,41229,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,L,MFOR,0 - 0,Brendan Furman,49113,Cornell,Jeremiah Imonode,41229,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,W,SV-1,3 - 1,Vincenzo Pelusi,50112,Franklin & Marshall,Jeremiah Imonode,41229,Army West Point
+2020,11/03,Princeton Open,285,L,DEC,3 - 2,James Brady,57279,Rider,Jeremiah Imonode,41229,Army West Point
+2020,11/03,Princeton Open,285,W,DEC,9 - 4,Riley Smith,56459,Navy,Jeremiah Imonode,41229,Army West Point
+2020,11/03,Princeton Open,285,W,DEC,3 - 1,Paul Robinson,50583,Army West Point,Jeremiah Imonode,41229,Army West Point
+2020,11/03,Princeton Open,285,W,DEC,5 - 3,Obinna Ajah,46018,Princeton,Jeremiah Imonode,41229,Army West Point
+2020,11/03,Princeton Open,285,W,DEC,5 - 3,Daniel Conley,51103,Columbia,Jeremiah Imonode,41229,Army West Point
+2020,01/11,Shorty Hitchcock Classic,285,W,TF5,16 - 1 5:00,Mathew Angelov,57849,Centenary,Eric Keosseian,49044,Army West Point
+2020,01/11,Shorty Hitchcock Classic,285,L,FALL,4:29,Greg Kerkvliet,61842,Penn State,Eric Keosseian,49044,Army West Point
+2020,01/11,Shorty Hitchcock Classic,285,L,INJ,0:16,Riley Smith,56459,Navy,Eric Keosseian,49044,Army West Point
+2020,11/03,Princeton Open,285,L,MD,14 - 1,Lewis Fernandes,56901,Spartan Combat RTC,Eric Keosseian,49044,Army West Point
+2020,11/03,Princeton Open,285,W,MD,12 - 3,Reginald Poulin,56383,Hofstra,Eric Keosseian,49044,Army West Point
+2020,11/03,Princeton Open,285,L,FALL,3:45,Ryan Cloud,39972,Rider,Eric Keosseian,49044,Army West Point
+2020,12/07,Patriot Open,285,L,DEC,9 - 7,Riley Smith,56459,Navy,Paul Robinson,50583,Army West Point
+2020,12/07,Patriot Open,285,W,DEC,3 - 2,Billy Baldwin,57728,Old Dominion,Paul Robinson,50583,Army West Point
+2020,12/07,Patriot Open,285,W,DEC,4 - 0,Michael Tyle,59072,Rider,Paul Robinson,50583,Army West Point
+2020,12/07,Patriot Open,285,L,DEC,7 - 4,Alex Esposito,50637,Rutgers,Paul Robinson,50583,Army West Point
+2020,11/24,Cornell Open,285,W,FALL,1:45,Colton Crane,62003,Buffalo,Paul Robinson,50583,Army West Point
+2020,11/24,Cornell Open,285,L,DEC,4 - 0,Brendan Furman,49113,Cornell,Paul Robinson,50583,Army West Point
+2020,11/24,Cornell Open,285,W,DEC,6 - 2,Tim Nagosky,57783,LIU,Paul Robinson,50583,Army West Point
+2020,11/24,Cornell Open,285,W,FALL,2:06,Will Pontoon,63040,Presbyterian,Paul Robinson,50583,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,W,MFOR,0 - 0,Brandon Phillips,51196,Army West Point,Paul Robinson,50583,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,L,DEC,5 - 0,Joe Doyle,49050,Binghamton,Paul Robinson,50583,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,W,TB-1,3 - 2,Nate Feyrer,50821,Bucknell,Paul Robinson,50583,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,W,DEC,5 - 2,Seth Janney,49115,Cornell,Paul Robinson,50583,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,W,DEC,2 - 1,Dante DelBonis,56241,Sacred Heart,Paul Robinson,50583,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,L,DEC,4 - 2,Aidan Conner,57524,Princeton,Paul Robinson,50583,Army West Point
+2020,11/03,Princeton Open,285,L,DEC,3 - 1,Jeremiah Imonode,41229,Army West Point,Paul Robinson,50583,Army West Point
+2020,11/03,Princeton Open,285,L,FALL,2:13,Zachary Knighton-Ward,53791,Hofstra,Paul Robinson,50583,Army West Point
+2020,11/03,Princeton Open,285,W,TB-3,5 - 3,Obinna Ajah,46018,Princeton,Paul Robinson,50583,Army West Point
+2020,11/03,Princeton Open,285,W,FALL,7:00,Daniel Conley,51103,Columbia,Paul Robinson,50583,Army West Point
+2020,01/11,Shorty Hitchcock Classic,285,W,DEC,3 - 2,Brandon Williams,59083,Greensboro,Brandon Phillips,51196,Army West Point
+2020,01/11,Shorty Hitchcock Classic,285,W,FALL,3:31,Mathew Angelov,57849,Centenary,Brandon Phillips,51196,Army West Point
+2020,01/11,Shorty Hitchcock Classic,285,L,DEC,7 - 3,Michael Wolfgram,57526,West Virginia,Brandon Phillips,51196,Army West Point
+2020,01/11,Shorty Hitchcock Classic,285,W,DEC,12 - 6,Tim Nagosky,57783,LIU,Brandon Phillips,51196,Army West Point
+2020,01/11,Shorty Hitchcock Classic,285,W,FALL,4:50,Eric Chakonis,49059,Bucknell,Brandon Phillips,51196,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,L,MFOR,0 - 0,Paul Robinson,50583,Army West Point,Brandon Phillips,51196,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,L,MD,11 - 1,Brendan Furman,49113,Cornell,Brandon Phillips,51196,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,L,DEC,8 - 5,Yaraslau Slavikouski,62196,Harvard,Brandon Phillips,51196,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,W,SV-1,3 - 1,Dante DelBonis,56241,Sacred Heart,Brandon Phillips,51196,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,W,DEC,5 - 1,Obinna Ajah,46018,Princeton,Brandon Phillips,51196,Army West Point
+2020,11/03,Princeton Open,285,W,DEC,5 - 3,Aidan Conner,57524,Princeton,Brandon Phillips,51196,Army West Point
+2020,11/03,Princeton Open,285,L,DEC,9 - 3,Zachary Knighton-Ward,53791,Hofstra,Brandon Phillips,51196,Army West Point
+2020,11/03,Princeton Open,285,L,MD,12 - 0,Daniel Conley,51103,Columbia,Brandon Phillips,51196,Army West Point
+2020,12/07,Patriot Open,285,L,DEC,3 - 1,Jacob Bullock,57724,Old Dominion,Eldon Davis-Picou,51321,Army West Point
+2020,12/07,Patriot Open,285,L,FALL,3:07,Daniel Conley,51103,Columbia,Eldon Davis-Picou,51321,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,L,DEC,5 - 0,Brendan Furman,49113,Cornell,Eldon Davis-Picou,51321,Army West Point
+2020,11/10,Jonathan Kaloust Bearcat Open,285,L,DEC,3 - 1,Yaraslau Slavikouski,62196,Harvard,Eldon Davis-Picou,51321,Army West Point
+2020,11/03,Princeton Open,285,W,DEC,9 - 4,Nate Hoaglund,60537,Pennsylvania,Eldon Davis-Picou,51321,Army West Point
+2020,11/03,Princeton Open,285,L,DEC,4 - 1,Alex Esposito,50637,Rutgers,Eldon Davis-Picou,51321,Army West Point
+2020,11/03,Princeton Open,285,L,TB-1,2 - 1,Daniel Herman,51035,Columbia,Eldon Davis-Picou,51321,Army West Point

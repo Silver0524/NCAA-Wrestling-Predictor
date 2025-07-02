@@ -1,0 +1,614 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2020,03/06,EIWA Championships,125,W,DEC,4 - 1,Gage Curry,44583,American,Brandon Paetzell,44578,Lehigh
+2020,03/06,EIWA Championships,125,W,MD,12 - 3,Trey Chalifoux,44745,Army West Point,Brandon Paetzell,44578,Lehigh
+2020,03/06,EIWA Championships,125,W,FALL,2:39,Antonio Mininno,50806,Drexel,Brandon Paetzell,44578,Lehigh
+2020,03/06,EIWA Championships,125,W,TF5,20 - 5 7:00,Jose Diaz,57229,Franklin & Marshall,Brandon Paetzell,44578,Lehigh
+2020,03/06,EIWA Championships,125,L,FALL,4:13,Joe Manchio,50937,Columbia,Brandon Paetzell,44578,Lehigh
+2020,03/06,EIWA Championships,125,W,TF5,15 - 0 5:16,Kyle Randall,56471,Sacred Heart,Brandon Paetzell,44578,Lehigh
+2020,02/21,Arizona State - Lehigh Dual,125,W,DEC,6 - 1,Brandon Courtney,50881,Arizona State,Brandon Paetzell,44578,Lehigh
+2020,02/14,Lehigh - Bucknell Dual,125,W,DEC,9 - 4,Brandon Seidman,56803,Bucknell,Brandon Paetzell,44578,Lehigh
+2020,01/31,Lehigh - Army Dual,125,W,DEC,6 - 3,Trey Chalifoux,44745,Army West Point,Brandon Paetzell,44578,Lehigh
+2020,01/18,Navy - Lehigh Dual,125,W,DEC,5 - 1,Logan Treaster,49205,Navy,Brandon Paetzell,44578,Lehigh
+2020,01/17,American - Lehigh Dual,125,W,MD,13 - 4,Gage Curry,44583,American,Brandon Paetzell,44578,Lehigh
+2020,01/11,Lehigh - Cornell Dual,125,W,DEC,5 - 4,Dominic LaJoie,49112,Cornell,Brandon Paetzell,44578,Lehigh
+2020,01/10,Lehigh - Binghamton Dual,125,W,FALL,2:49,Carson Sauriol,62416,Binghamton,Brandon Paetzell,44578,Lehigh
+2020,12/30,Lehigh - Missouri Dual,125,W,DEC,5 - 2,Dack Punke,49195,Missouri,Brandon Paetzell,44578,Lehigh
+2020,12/29,Lehigh - Minnesota Dual,125,W,TF5,18 - 3 7:00,Patrick McKee,50594,Minnesota,Brandon Paetzell,44578,Lehigh
+2020,12/06,Penn State - Lehigh Dual,125,W,MD,15 - 5,Brandon Meredith,56935,Penn State,Brandon Paetzell,44578,Lehigh
+2020,11/24,Pittsburgh - Lehigh Dual,125,W,FALL,3:27,Louis Newell,50916,Pittsburgh,Brandon Paetzell,44578,Lehigh
+2020,11/23,Lehigh - Princeton Dual,125,L,SV-1,5 - 3,Patrick Glory,51100,Princeton,Brandon Paetzell,44578,Lehigh
+2020,11/16,Oklahoma State - Lehigh Dual,125,L,MD,11 - 3,Nick Piccininni,39547,Oklahoma State,Brandon Paetzell,44578,Lehigh
+2020,11/10,Journeyman Collegiate Classic,125,W,DEC,6 - 3,Alex Thomsen,50601,Nebraska,Brandon Paetzell,44578,Lehigh
+2020,11/10,Journeyman Collegiate Classic,125,W,DEC,5 - 3,Killian Cardinale,49268,Old Dominion,Brandon Paetzell,44578,Lehigh
+2020,11/10,Journeyman Collegiate Classic,125,W,TF5,17 - 2 6:41,Christian Moody,39746,Oklahoma,Brandon Paetzell,44578,Lehigh
+2020,02/23,Mat-Town Open II,141,L,DEC,4 - 1,Malyke Hines,56932,Lehigh,Mitchell Polito,54384,Lehigh
+2020,02/23,Mat-Town Open II,141,W,MD,11 - 3,Tyler Dilley,62919,Lock Haven,Mitchell Polito,54384,Lehigh
+2020,02/23,Mat-Town Open II,141,W,DEC,7 - 3,Nick Coy,57075,Virginia,Mitchell Polito,54384,Lehigh
+2020,02/23,Mat-Town Open II,141,L,FALL,0:55,Brian Courtney,49331,Virginia,Mitchell Polito,54384,Lehigh
+2020,02/23,Mat-Town Open II,141,W,FALL,5:53,Decklan Fischer,57117,Maryland,Mitchell Polito,54384,Lehigh
+2020,12/01,Mat-Town Open I,133,L,MFOR,0 - 0,Jaret Lane,50909,Lehigh,Mitchell Polito,54384,Lehigh
+2020,12/01,Mat-Town Open I,133,W,FALL,4:14,Tommy Maddox,63165,Buffalo,Mitchell Polito,54384,Lehigh
+2020,12/01,Mat-Town Open I,133,L,DEC,6 - 0,Cole Manley,49337,Lock Haven,Mitchell Polito,54384,Lehigh
+2020,11/03,Princeton Open,125,W,TF5,16 - 1 7:00,Brandon Spellman,63969,NJRTC,Mitchell Polito,54384,Lehigh
+2020,11/03,Princeton Open,125,W,DEC,4 - 2,Luke Resnick,51027,Lehigh,Mitchell Polito,54384,Lehigh
+2020,11/03,Princeton Open,125,W,DEC,5 - 3,Dylan Ryder,50876,Hofstra,Mitchell Polito,54384,Lehigh
+2020,11/03,Princeton Open,125,W,FALL,4:08,Carson Sauriol,62416,Binghamton,Mitchell Polito,54384,Lehigh
+2020,11/03,Princeton Open,125,L,DEC,6 - 5,Angelo Rini,56766,Columbia,Mitchell Polito,54384,Lehigh
+2020,11/03,Princeton Open,125,L,DEC,8 - 2,Joe Manchio,50937,Columbia,Mitchell Polito,54384,Lehigh
+2020,01/01,Southern Scuffle,125,L,DEC,4 - 3,Caleb Smith,58559,Appalachian State,Luke Resnick,51027,Lehigh
+2020,01/01,Southern Scuffle,125,L,DEC,3 - 2,Jakob Camacho,50655,NC State,Luke Resnick,51027,Lehigh
+2020,11/10,Journeyman Collegiate Classic,125,L,SV-1,3 - 1,Brendan Howard,39805,Pitt-Johnstown,Luke Resnick,51027,Lehigh
+2020,11/10,Journeyman Collegiate Classic,125,W,DEC,4 - 3,Christian Gannone,62458,Bloomsburg,Luke Resnick,51027,Lehigh
+2020,11/10,Journeyman Collegiate Classic,125,W,MD,15 - 4,Aaron Valenzuela,62770,Arizona State,Luke Resnick,51027,Lehigh
+2020,11/03,Princeton Open,125,L,DEC,4 - 2,Mitchell Polito,54384,Lehigh,Luke Resnick,51027,Lehigh
+2020,11/03,Princeton Open,125,W,TB-2,10 - 3,Sean Foley,57285,Rider,Luke Resnick,51027,Lehigh
+2020,11/03,Princeton Open,125,L,DEC,2 - 1,Nic Aguilar,51104,Rutgers,Luke Resnick,51027,Lehigh
+2020,11/03,Princeton Open,125,W,MD,10 - 0,Carson Sauriol,62416,Binghamton,Luke Resnick,51027,Lehigh
+2020,03/06,EIWA Championships,133,L,SV-1,3 - 1,Chaz Tucker,39771,Cornell,Nick Farro,44590,Lehigh
+2020,03/06,EIWA Championships,133,W,SV-1,4 - 2,Zack Trampe,51913,Binghamton,Nick Farro,44590,Lehigh
+2020,03/06,EIWA Championships,133,W,FALL,6:59,Andrew Wert,50945,Army West Point,Nick Farro,44590,Lehigh
+2020,03/06,EIWA Championships,133,W,TF5,21 - 6 4:59,Jack Bruce,62869,Franklin & Marshall,Nick Farro,44590,Lehigh
+2020,02/23,Mat-Town Open II,133,W,DEC,5 - 1,Jaret Lane,50909,Lehigh,Nick Farro,44590,Lehigh
+2020,02/23,Mat-Town Open II,133,W,DEC,3 - 2,Cole Manley,49337,Lock Haven,Nick Farro,44590,Lehigh
+2020,02/23,Mat-Town Open II,133,W,MFOR,0 - 0,Brandon Loperfido,44874,Lock Haven,Nick Farro,44590,Lehigh
+2020,02/14,Lehigh - Bucknell Dual,133,L,DEC,6 - 4,Darren Miller,57210,Bucknell,Nick Farro,44590,Lehigh
+2020,01/31,Lehigh - Army Dual,133,L,DEC,5 - 3,Andrew Wert,50945,Army West Point,Nick Farro,44590,Lehigh
+2020,01/18,Navy - Lehigh Dual,133,L,DEC,7 - 6,Jacob Allen,50935,Navy,Nick Farro,44590,Lehigh
+2020,01/11,Lehigh - Cornell Dual,133,L,SV-1,6 - 4,Chaz Tucker,39771,Cornell,Nick Farro,44590,Lehigh
+2020,01/10,Lehigh - Binghamton Dual,133,W,MD,15 - 5,Tommaso Frezza,62421,Binghamton,Nick Farro,44590,Lehigh
+2020,12/30,Lehigh - Missouri Dual,133,W,DEC,6 - 3,Allan Hart,49193,Missouri,Nick Farro,44590,Lehigh
+2020,12/30,Duke - Lehigh Dual,133,W,TF5,21 - 6 7:00,Harrison Campbell,49125,Duke,Nick Farro,44590,Lehigh
+2020,12/29,Lehigh - Minnesota Dual,133,W,MD,14 - 4,Jake Gliva,51241,Minnesota,Nick Farro,44590,Lehigh
+2020,11/24,Pittsburgh - Lehigh Dual,133,L,DEC,3 - 0,Micky Phillippi,45230,Pittsburgh,Nick Farro,44590,Lehigh
+2020,11/23,Lehigh - Princeton Dual,133,W,DEC,11 - 5,Sean Pierson,60443,Princeton,Nick Farro,44590,Lehigh
+2020,11/10,Journeyman Collegiate Classic,133,L,TB-2,6 - 3,Anthony Madrigal,50633,Oklahoma,Nick Farro,44590,Lehigh
+2020,11/10,Journeyman Collegiate Classic,133,W,DEC,5 - 3,DJ Fehlman,39898,Lock Haven,Nick Farro,44590,Lehigh
+2020,11/10,Journeyman Collegiate Classic,133,L,DEC,10 - 5,Joshua Kramer,39736,Arizona State,Nick Farro,44590,Lehigh
+2020,11/10,Journeyman Collegiate Classic,133,W,DEC,8 - 7,Sammy Alvarez,56763,Rutgers,Nick Farro,44590,Lehigh
+2020,11/03,Princeton Open,133,L,SV-1,3 - 1,Chaz Tucker,39771,Cornell,Nick Farro,44590,Lehigh
+2020,02/23,Mat-Town Open II,133,L,DEC,5 - 1,Nick Farro,44590,Lehigh,Jaret Lane,50909,Lehigh
+2020,02/23,Mat-Town Open II,133,W,FALL,2:21,Trey Lane,62197,Virginia,Jaret Lane,50909,Lehigh
+2020,02/23,Mat-Town Open II,133,W,DEC,10 - 4,Sam Book,49332,Virginia,Jaret Lane,50909,Lehigh
+2020,02/23,Mat-Town Open II,133,W,MFOR,0 - 0,Richie Koehler,51648,Rider,Jaret Lane,50909,Lehigh
+2020,02/23,Mat-Town Open II,133,W,FALL,2:01,PJ Truntich,63051,Maryland,Jaret Lane,50909,Lehigh
+2020,02/23,Mat-Town Open II,133,W,FALL,4:25,Chris Lanciano,57325,Bucknell,Jaret Lane,50909,Lehigh
+2020,02/21,Arizona State - Lehigh Dual,133,W,DEC,4 - 1,Joshua Kramer,39736,Arizona State,Jaret Lane,50909,Lehigh
+2020,02/01,Edinboro Open,133,W,FALL,1:20,Kenny Hayman,62998,Pitt-Johnstown,Jaret Lane,50909,Lehigh
+2020,02/01,Edinboro Open,133,W,FALL,1:21,Hunter Watts,60003,Central Michigan,Jaret Lane,50909,Lehigh
+2020,02/01,Edinboro Open,133,W,DEC,7 - 2,Brock Bergelin,49078,Central Michigan,Jaret Lane,50909,Lehigh
+2020,02/01,Edinboro Open,133,L,TB-2,5 - 3,DJ Fehlman,39898,Lock Haven,Jaret Lane,50909,Lehigh
+2020,01/17,American - Lehigh Dual,133,W,TF5,19 - 4 5:23,Daniel Kidd,50026,American,Jaret Lane,50909,Lehigh
+2020,01/01,Southern Scuffle,133,L,DEC,10 - 5,Kai Orine,56908,NC State,Jaret Lane,50909,Lehigh
+2020,01/01,Southern Scuffle,133,W,MD,12 - 3,Tyler Hunt,55813,US Naval Academy Prep School,Jaret Lane,50909,Lehigh
+2020,01/01,Southern Scuffle,133,W,DEC,10 - 4,Richie Koehler,51648,Rider,Jaret Lane,50909,Lehigh
+2020,01/01,Southern Scuffle,133,L,SV-1,6 - 4,Devan Turner,45397,Oregon State,Jaret Lane,50909,Lehigh
+2020,01/01,Southern Scuffle,133,W,FALL,2:12,Wade Cummings,44642,Chattanooga,Jaret Lane,50909,Lehigh
+2020,01/01,Southern Scuffle,133,W,MD,11 - 2,Jaylen Carson,62839,Little Rock,Jaret Lane,50909,Lehigh
+2020,12/22,Wilkes Open,133,W,TF5,16 - 1 4:26,Anthony Wiggins,59869,Millersville,Jaret Lane,50909,Lehigh
+2020,12/22,Wilkes Open,133,W,FALL,2:57,Daniel Kidd,50026,American,Jaret Lane,50909,Lehigh
+2020,12/22,Wilkes Open,133,W,DEC,5 - 1,Austin Clabaugh,51622,Penn State,Jaret Lane,50909,Lehigh
+2020,12/22,Wilkes Open,133,L,DEC,9 - 3,Roman Bravo-Young,49665,Penn State,Jaret Lane,50909,Lehigh
+2020,12/06,Penn State - Lehigh Dual,133,L,DEC,7 - 2,Roman Bravo-Young,49665,Penn State,Jaret Lane,50909,Lehigh
+2020,12/01,Mat-Town Open I,133,W,MFOR,0 - 0,Mitchell Polito,54384,Lehigh,Jaret Lane,50909,Lehigh
+2020,12/01,Mat-Town Open I,133,W,FALL,1:33,Tommy Maddox,63165,Buffalo,Jaret Lane,50909,Lehigh
+2020,12/01,Mat-Town Open I,133,L,DEC,4 - 3,Cole Manley,49337,Lock Haven,Jaret Lane,50909,Lehigh
+2020,11/03,Princeton Open,133,W,FALL,0:37,Tyler Hunt,55813,US Naval Academy Prep School,Jaret Lane,50909,Lehigh
+2020,11/03,Princeton Open,133,W,FALL,3:28,Richie Koehler,51648,Rider,Jaret Lane,50909,Lehigh
+2020,11/03,Princeton Open,133,W,DEC,3 - 0,Chris Wright,51092,Rider,Jaret Lane,50909,Lehigh
+2020,11/03,Princeton Open,133,W,MD,14 - 6,Ryan Hetrick,45638,Army West Point,Jaret Lane,50909,Lehigh
+2020,12/06,Penn State - Lehigh Dual,141,L,TF5,22 - 7 7:00,Nick Lee,49276,Penn State,Joe Lobeck,44686,Lehigh
+2020,11/03,Princeton Open,133,W,DEC,12 - 6,Mark Montgomery,60539,United States Military Academy,Joe Lobeck,44686,Lehigh
+2020,11/03,Princeton Open,133,W,FALL,0:55,Justin Hoyle,54220,Hofstra,Joe Lobeck,44686,Lehigh
+2020,11/03,Princeton Open,133,L,SV-1,12 - 10,Richie Koehler,51648,Rider,Joe Lobeck,44686,Lehigh
+2020,11/03,Princeton Open,133,L,MFOR,0 - 0,Ryan Hetrick,45638,Army West Point,Joe Lobeck,44686,Lehigh
+2020,01/01,Southern Scuffle,133,W,DEC,6 - 0,Francisco Valdes,49089,Chattanooga,Brock Herring,50233,Lehigh
+2020,01/01,Southern Scuffle,133,L,DEC,8 - 2,Jared Van Vleet,51357,Air Force,Brock Herring,50233,Lehigh
+2020,01/01,Southern Scuffle,133,L,DEC,3 - 1,Jaylen Carson,62839,Little Rock,Brock Herring,50233,Lehigh
+2020,11/03,Princeton Open,133,W,DEC,7 - 4,Bryan Miraglia,62187,Rider,Brock Herring,50233,Lehigh
+2020,11/03,Princeton Open,133,L,MD,11 - 1,Tyler Hunt,55813,US Naval Academy Prep School,Brock Herring,50233,Lehigh
+2020,11/03,Princeton Open,133,L,DEC,6 - 2,Ryan Hetrick,45638,Army West Point,Brock Herring,50233,Lehigh
+2020,02/01,Edinboro Open,133,L,DEC,6 - 5,Hunter Watts,60003,Central Michigan,Satoshi Abe,49163,Lehigh
+2020,02/01,Edinboro Open,133,L,FALL,0:43,Cameron Lathem,44691,Cleveland State,Satoshi Abe,49163,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,133,L,MD,19 - 5,Zack Trampe,51913,Binghamton,Satoshi Abe,49163,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,133,L,DEC,6 - 2,Ryan Hetrick,45638,Army West Point,Satoshi Abe,49163,Lehigh
+2020,03/06,EIWA Championships,141,L,SV-1,3 - 1,Noah Baughman,44749,Cornell,Ryan Pomrinca,39667,Lehigh
+2020,03/06,EIWA Championships,141,W,DEC,3 - 2,Anthony Sparacio,47621,Binghamton,Ryan Pomrinca,39667,Lehigh
+2020,03/06,EIWA Championships,141,L,DEC,9 - 2,Matthew Kazimir,51644,Columbia,Ryan Pomrinca,39667,Lehigh
+2020,03/06,EIWA Championships,141,W,DEC,4 - 3,Doug Zapf,50656,Pennsylvania,Ryan Pomrinca,39667,Lehigh
+2020,03/06,EIWA Championships,141,W,TB-2,4 - 1,Jimmy Pawelski,44653,Brown,Ryan Pomrinca,39667,Lehigh
+2020,02/23,Mat-Town Open II,141,L,MFOR,0 - 0,Malyke Hines,56932,Lehigh,Ryan Pomrinca,39667,Lehigh
+2020,02/23,Mat-Town Open II,141,W,DEC,5 - 2,Danny Moran,49162,Lehigh,Ryan Pomrinca,39667,Lehigh
+2020,02/23,Mat-Town Open II,141,W,MD,10 - 2,Bryan Miraglia,62187,Rider,Ryan Pomrinca,39667,Lehigh
+2020,02/23,Mat-Town Open II,141,W,DEC,8 - 3,Shawn Nonaka,62580,George Mason,Ryan Pomrinca,39667,Lehigh
+2020,02/21,Arizona State - Lehigh Dual,141,W,SV-1,3 - 1,Cory Crooks,45179,Arizona State,Ryan Pomrinca,39667,Lehigh
+2020,01/31,Lehigh - Army Dual,141,L,DEC,6 - 5,Logan Brown,53821,Army West Point,Ryan Pomrinca,39667,Lehigh
+2020,01/18,Navy - Lehigh Dual,141,W,SV-1,6 - 4,Cody Trybus,45568,Navy,Ryan Pomrinca,39667,Lehigh
+2020,12/30,Lehigh - Missouri Dual,141,L,DEC,5 - 3,Grant Leeth,19866,Missouri,Ryan Pomrinca,39667,Lehigh
+2020,12/29,Lehigh - Minnesota Dual,141,L,MD,10 - 0,Mitch McKee,45139,Minnesota,Ryan Pomrinca,39667,Lehigh
+2020,11/24,Pittsburgh - Lehigh Dual,141,W,SV-1,10 - 8,Cole Matthews,50936,Pittsburgh,Ryan Pomrinca,39667,Lehigh
+2020,11/23,Lehigh - Princeton Dual,141,L,DEC,2 - 1,Marshall Keller,51509,Princeton,Ryan Pomrinca,39667,Lehigh
+2020,11/16,Oklahoma State - Lehigh Dual,141,W,DEC,3 - 2,Dusty Hone,20271,Oklahoma State,Ryan Pomrinca,39667,Lehigh
+2020,11/10,Journeyman Collegiate Classic,141,L,DEC,3 - 2,Sa'Derian Perry,40084,Old Dominion,Ryan Pomrinca,39667,Lehigh
+2020,11/10,Journeyman Collegiate Classic,141,W,SV-1,7 - 5,Paul Konrath,49348,Indiana,Ryan Pomrinca,39667,Lehigh
+2020,11/10,Journeyman Collegiate Classic,141,W,DEC,9 - 4,Cory Crooks,45179,Arizona State,Ryan Pomrinca,39667,Lehigh
+2020,11/03,Princeton Open,141,L,SV-1,3 - 1,Noah Baughman,44749,Cornell,Ryan Pomrinca,39667,Lehigh
+2020,11/03,Princeton Open,141,W,TB-1,7 - 5,Beau Bartlett,62221,High School,Ryan Pomrinca,39667,Lehigh
+2020,11/03,Princeton Open,141,W,SV-1,4 - 1,Andrew Gapas,51204,Rutgers,Ryan Pomrinca,39667,Lehigh
+2020,11/03,Princeton Open,141,W,DEC,7 - 3,Pat D'arcy,43692,Princeton,Ryan Pomrinca,39667,Lehigh
+2020,11/03,Princeton Open,141,L,DEC,6 - 2,Matthew Kazimir,51644,Columbia,Ryan Pomrinca,39667,Lehigh
+2020,02/23,Mat-Town Open II,141,W,DEC,12 - 6,Lukas Richie,63472,PRTC,Malyke Hines,56932,Lehigh
+2020,02/23,Mat-Town Open II,141,W,DEC,4 - 1,Mitchell Polito,54384,Lehigh,Malyke Hines,56932,Lehigh
+2020,02/23,Mat-Town Open II,141,W,MFOR,0 - 0,Ryan Pomrinca,39667,Lehigh,Malyke Hines,56932,Lehigh
+2020,02/23,Mat-Town Open II,141,W,MD,14 - 2,Brian Courtney,49331,Virginia,Malyke Hines,56932,Lehigh
+2020,02/01,Edinboro Open,141,W,MD,17 - 3,Lincoln Heck,66629,High School,Malyke Hines,56932,Lehigh
+2020,02/01,Edinboro Open,141,W,FALL,1:44,Connor McGonagle,56713,Lehigh,Malyke Hines,56932,Lehigh
+2020,02/01,Edinboro Open,141,W,FALL,0:43,Jonathan Miranda,57367,Navy,Malyke Hines,56932,Lehigh
+2020,02/01,Edinboro Open,141,L,TF5,18 - 3 3:43,Danny Bertoni,49173,Maryland,Malyke Hines,56932,Lehigh
+2020,02/01,Edinboro Open,141,W,MD,10 - 2,Jeffrey Boyd,62594,West Virginia,Malyke Hines,56932,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,TB-2,4 - 2,Julian Sanchez,57318,United States Military Academy,Malyke Hines,56932,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,MFOR,0 - 0,Connor McGonagle,56713,Lehigh,Malyke Hines,56932,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,MD,8 - 0,Ryan Moore,50654,Cornell,Malyke Hines,56932,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,DEC,4 - 1,Brett Kulp,44906,Franklin & Marshall,Malyke Hines,56932,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,MD,10 - 0,Theo Powers,44793,Brown,Malyke Hines,56932,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,DEC,6 - 4,Mike Russo,42009,Cornell,Malyke Hines,56932,Lehigh
+2020,11/03,Princeton Open,141,L,DEC,5 - 1,Connor McGonagle,56713,Lehigh,Malyke Hines,56932,Lehigh
+2020,11/03,Princeton Open,141,W,TF5,16 - 1 7:00,Andrew Gapas,51204,Rutgers,Malyke Hines,56932,Lehigh
+2020,11/03,Princeton Open,141,W,FALL,5:27,Robert Cleary,49924,Rider,Malyke Hines,56932,Lehigh
+2020,11/03,Princeton Open,141,W,INJ,7:00,Vincent Vespa,41322,Hofstra,Malyke Hines,56932,Lehigh
+2020,11/03,Princeton Open,141,L,TF5,18 - 0 7:00,Matthew Kazimir,51644,Columbia,Malyke Hines,56932,Lehigh
+2020,02/23,Mat-Town Open II,141,L,DEC,5 - 2,Ryan Pomrinca,39667,Lehigh,Danny Moran,49162,Lehigh
+2020,02/23,Mat-Town Open II,141,W,MD,12 - 4,Scott Kiyono,50458,Virginia,Danny Moran,49162,Lehigh
+2020,02/23,Mat-Town Open II,141,L,INJ,7:00,Brian Courtney,49331,Virginia,Danny Moran,49162,Lehigh
+2020,02/23,Mat-Town Open II,141,W,TF5,19 - 2 7:00,Andrew Gapas,51204,Rutgers,Danny Moran,49162,Lehigh
+2020,02/20,Lehigh - Pennsylvania Dual,141,L,DEC,3 - 1,Doug Zapf,50656,Pennsylvania,Danny Moran,49162,Lehigh
+2020,02/14,Lehigh - Bucknell Dual,141,W,DEC,10 - 5,David Campbell,49061,Bucknell,Danny Moran,49162,Lehigh
+2020,01/18,Navy - Lehigh Dual,149,W,DEC,8 - 3,Wyatt Long,49201,Navy,Danny Moran,49162,Lehigh
+2020,01/17,American - Lehigh Dual,141,L,DEC,6 - 3,Salvatore Profaci,39825,American,Danny Moran,49162,Lehigh
+2020,01/11,Lehigh - Cornell Dual,141,W,DEC,2 - 1,Noah Baughman,44749,Cornell,Danny Moran,49162,Lehigh
+2020,01/10,Lehigh - Binghamton Dual,141,W,DEC,9 - 6,Anthony Sparacio,47621,Binghamton,Danny Moran,49162,Lehigh
+2020,01/01,Southern Scuffle,141,L,DEC,9 - 7,Angelo Martinoni,57199,CSU Bakersfield,Danny Moran,49162,Lehigh
+2020,01/01,Southern Scuffle,141,W,DEC,4 - 1,Caleb Rea,56445,West Virginia,Danny Moran,49162,Lehigh
+2020,01/01,Southern Scuffle,141,W,DEC,7 - 5,Bradly Irwin,40555,Appalachian State,Danny Moran,49162,Lehigh
+2020,01/01,Southern Scuffle,141,L,DEC,6 - 4,Alex Madrigal,39754,George Mason,Danny Moran,49162,Lehigh
+2020,01/01,Southern Scuffle,141,W,MD,13 - 2,Trent Dooley,62845,Little Rock,Danny Moran,49162,Lehigh
+2020,12/30,Duke - Lehigh Dual,141,W,TF5,22 - 7 7:00,Ty Mills,51081,Duke,Danny Moran,49162,Lehigh
+2020,12/22,Wilkes Open,141,W,MD,13 - 4,Tyler Dilley,62919,Lock Haven,Danny Moran,49162,Lehigh
+2020,12/22,Wilkes Open,141,W,DEC,3 - 1,Joseph Rossetti,54269,Williams College,Danny Moran,49162,Lehigh
+2020,12/22,Wilkes Open,141,W,DEC,5 - 1,Theo Powers,44793,Brown,Danny Moran,49162,Lehigh
+2020,12/22,Wilkes Open,141,W,MD,9 - 1,Marlon Argueta,59815,Bloomsburg,Danny Moran,49162,Lehigh
+2020,02/23,Mat-Town Open II,149,L,DEC,8 - 6,Kollin Myers,62918,Lock Haven,Connor McGonagle,56713,Lehigh
+2020,02/23,Mat-Town Open II,149,W,MD,12 - 2,Ray Costa,62199,Virginia,Connor McGonagle,56713,Lehigh
+2020,02/23,Mat-Town Open II,149,L,DEC,7 - 2,Denton Spencer,49134,Virginia,Connor McGonagle,56713,Lehigh
+2020,02/23,Mat-Town Open II,149,W,MFOR,0 - 0,Hunter Richard,49107,Cornell,Connor McGonagle,56713,Lehigh
+2020,02/23,Mat-Town Open II,149,W,FALL,1:29,Sam Mandelbraut,57281,Rider,Connor McGonagle,56713,Lehigh
+2020,02/23,Mat-Town Open II,149,W,DEC,7 - 0,Hunter Shaut,61754,Buffalo,Connor McGonagle,56713,Lehigh
+2020,02/23,Mat-Town Open II,149,W,FALL,4:24,Gavin Hale,56791,Bloomsburg,Connor McGonagle,56713,Lehigh
+2020,02/01,Edinboro Open,141,L,FALL,1:44,Malyke Hines,56932,Lehigh,Connor McGonagle,56713,Lehigh
+2020,02/01,Edinboro Open,141,W,MD,8 - 0,Preston Maucere,65907,Wyoming Seminary Prep,Connor McGonagle,56713,Lehigh
+2020,02/01,Edinboro Open,141,L,DEC,6 - 5,Julian Chlebove,56769,Arizona State,Connor McGonagle,56713,Lehigh
+2020,02/01,Edinboro Open,141,W,INJ,5:42,Drew Mattin,49180,Michigan,Connor McGonagle,56713,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,MFOR,0 - 0,Malyke Hines,56932,Lehigh,Connor McGonagle,56713,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,DEC,3 - 0,Michael Venosa,52043,Cornell,Connor McGonagle,56713,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,MFOR,0 - 0,Ryan Moore,50654,Cornell,Connor McGonagle,56713,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,DEC,5 - 0,Lukus Stricker,49139,Harvard,Connor McGonagle,56713,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,141,W,MD,10 - 1,Kevin Kelly,45186,Binghamton,Connor McGonagle,56713,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,141,L,DEC,4 - 3,Noah Baughman,44749,Cornell,Connor McGonagle,56713,Lehigh
+2020,11/03,Princeton Open,141,L,SV-1,8 - 6,Beau Bartlett,62221,High School,Connor McGonagle,56713,Lehigh
+2020,11/03,Princeton Open,141,W,DEC,3 - 0,Julian Sanchez,57318,United States Military Academy,Connor McGonagle,56713,Lehigh
+2020,11/03,Princeton Open,141,W,TF5,17 - 0 7:00,Charlie Peterson,57282,Rider,Connor McGonagle,56713,Lehigh
+2020,11/03,Princeton Open,141,W,DEC,5 - 1,Malyke Hines,56932,Lehigh,Connor McGonagle,56713,Lehigh
+2020,11/03,Princeton Open,141,W,DEC,8 - 3,Marshall Keller,51509,Princeton,Connor McGonagle,56713,Lehigh
+2020,11/03,Princeton Open,141,W,MFOR,0 - 0,Robert Cleary,49924,Rider,Connor McGonagle,56713,Lehigh
+2020,11/03,Princeton Open,141,W,MD,11 - 2,Pat D'arcy,43692,Princeton,Connor McGonagle,56713,Lehigh
+2020,03/06,EIWA Championships,149,L,DEC,3 - 2,Pj Ogunsanya,54496,Army West Point,Jimmy Hoffman,49165,Lehigh
+2020,03/06,EIWA Championships,149,L,TF5,20 - 4 7:00,Jared Prince,41363,Navy,Jimmy Hoffman,49165,Lehigh
+2020,03/06,EIWA Championships,149,L,DEC,7 - 5,Hunter Richard,49107,Cornell,Jimmy Hoffman,49165,Lehigh
+2020,03/06,EIWA Championships,149,W,DEC,2 - 1,Pj Ogunsanya,54496,Army West Point,Jimmy Hoffman,49165,Lehigh
+2020,03/06,EIWA Championships,149,W,MD,17 - 3,Vincent Foggia,45252,Drexel,Jimmy Hoffman,49165,Lehigh
+2020,02/21,Arizona State - Lehigh Dual,149,W,DEC,5 - 4,Josh Maruca,39512,Arizona State,Jimmy Hoffman,49165,Lehigh
+2020,02/20,Lehigh - Pennsylvania Dual,149,W,DEC,2 - 1,Lucas Revano,56734,Pennsylvania,Jimmy Hoffman,49165,Lehigh
+2020,02/14,Lehigh - Bucknell Dual,149,W,MD,10 - 1,Matt Kolonia,49066,Bucknell,Jimmy Hoffman,49165,Lehigh
+2020,01/31,Lehigh - Army Dual,149,W,TB-1,6 - 5,Pj Ogunsanya,54496,Army West Point,Jimmy Hoffman,49165,Lehigh
+2020,12/29,Lehigh - Minnesota Dual,149,W,DQ,0 - 0,Brayton Lee,52079,Minnesota,Jimmy Hoffman,49165,Lehigh
+2020,12/22,Wilkes Open,149,W,TF5,18 - 0 1:47,Christopher Mann,68316,Wilkes,Jimmy Hoffman,49165,Lehigh
+2020,12/22,Wilkes Open,149,W,TF5,18 - 0 1:47,Chris Mann,65903,Wilkes,Jimmy Hoffman,49165,Lehigh
+2020,12/22,Wilkes Open,149,W,FALL,0:39,Drew Graves,65855,Union County College,Jimmy Hoffman,49165,Lehigh
+2020,12/22,Wilkes Open,149,W,DEC,1 - 0,Luke Karam,44703,Lehigh,Jimmy Hoffman,49165,Lehigh
+2020,12/22,Wilkes Open,149,W,DEC,6 - 2,Terrell Barraclough,62900,Penn State,Jimmy Hoffman,49165,Lehigh
+2020,12/22,Wilkes Open,149,L,MFOR,0 - 0,Jarod Verkleeren,49156,Penn State,Jimmy Hoffman,49165,Lehigh
+2020,12/06,Penn State - Lehigh Dual,149,W,SV-1,3 - 1,Jarod Verkleeren,49156,Penn State,Jimmy Hoffman,49165,Lehigh
+2020,11/24,Pittsburgh - Lehigh Dual,149,W,DEC,6 - 1,Luke Kemerer,50929,Pittsburgh,Jimmy Hoffman,49165,Lehigh
+2020,11/23,Lehigh - Princeton Dual,149,L,DEC,6 - 5,Mike D'angelo,43678,Princeton,Jimmy Hoffman,49165,Lehigh
+2020,11/16,Oklahoma State - Lehigh Dual,149,L,DEC,4 - 0,Boo Lewallen,39543,Oklahoma State,Jimmy Hoffman,49165,Lehigh
+2020,11/10,Journeyman Collegiate Classic,149,W,DEC,6 - 2,Chris Eddins,45948,Pitt-Johnstown,Jimmy Hoffman,49165,Lehigh
+2020,11/10,Journeyman Collegiate Classic,149,L,DEC,4 - 3,Collin Purinton,40505,Nebraska,Jimmy Hoffman,49165,Lehigh
+2020,11/10,Journeyman Collegiate Classic,149,W,DEC,4 - 1,Josh Maruca,39512,Arizona State,Jimmy Hoffman,49165,Lehigh
+2020,11/03,Princeton Open,149,W,TF5,15 - 0 7:00,Joseph Zargo,62890,High School,Jimmy Hoffman,49165,Lehigh
+2020,11/03,Princeton Open,149,W,MD,10 - 0,Jake Benner,50617,Rutgers,Jimmy Hoffman,49165,Lehigh
+2020,11/03,Princeton Open,149,L,MD,12 - 4,Matt Kolodzik,66866,NJRTC,Jimmy Hoffman,49165,Lehigh
+2020,11/03,Princeton Open,149,W,TF5,16 - 0 7:00,Charlie Kane,45049,Hofstra,Jimmy Hoffman,49165,Lehigh
+2020,11/03,Princeton Open,149,W,FALL,1:45,Cole Corrigan,57204,Columbia,Jimmy Hoffman,49165,Lehigh
+2020,12/30,Lehigh - Missouri Dual,149,L,DEC,8 - 2,Brock Mauller,50596,Missouri,Luke Karam,44703,Lehigh
+2020,12/22,Wilkes Open,149,L,DEC,1 - 0,Jimmy Hoffman,49165,Lehigh,Luke Karam,44703,Lehigh
+2020,12/22,Wilkes Open,149,W,MD,9 - 0,Tyler Gazaway,60420,Roger Williams,Luke Karam,44703,Lehigh
+2020,12/22,Wilkes Open,149,W,DEC,4 - 0,Cristiaan Dailey,57226,Franklin & Marshall,Luke Karam,44703,Lehigh
+2020,12/22,Wilkes Open,149,W,TF5,15 - 0 7:00,Scott Obendorfer,50843,Penn State,Luke Karam,44703,Lehigh
+2020,12/01,Mat-Town Open I,149,W,TF5,16 - 0 3:10,Kyle Todrank,40157,Buffalo,Luke Karam,44703,Lehigh
+2020,12/01,Mat-Town Open I,149,W,TF5,16 - 0 3:20,Brock Port,49168,Lock Haven,Luke Karam,44703,Lehigh
+2020,12/01,Mat-Town Open I,149,W,DEC,6 - 1,Collin Glorioso,44819,Lock Haven,Luke Karam,44703,Lehigh
+2020,11/03,Princeton Open,149,L,INJ,7:00,Joseph Zargo,62890,High School,Luke Karam,44703,Lehigh
+2020,11/03,Princeton Open,149,L,MFOR,0 - 0,Devin Woodworth,63469,US Naval Academy Prep School,Luke Karam,44703,Lehigh
+2020,11/03,Princeton Open,149,W,DEC,7 - 2,Wyatt McCarthy,62191,Rider,Luke Karam,44703,Lehigh
+2020,02/23,Mat-Town Open II,149,L,DEC,6 - 2,Hunter Richard,49107,Cornell,Paul Watkins,56931,Lehigh
+2020,02/23,Mat-Town Open II,149,W,DEC,7 - 6,Alec Bobchin,62186,Rider,Paul Watkins,56931,Lehigh
+2020,02/23,Mat-Town Open II,149,L,MD,18 - 4,Gabe Miller,57338,Pennsylvania,Paul Watkins,56931,Lehigh
+2020,01/01,Southern Scuffle,149,W,DEC,5 - 2,Matt Fields,51613,NC State,Paul Watkins,56931,Lehigh
+2020,01/01,Southern Scuffle,149,L,MD,12 - 1,Dylan Martinez,51607,Air Force,Paul Watkins,56931,Lehigh
+2020,01/01,Southern Scuffle,149,L,FALL,3:28,Thomas Lisher,52421,Little Rock,Paul Watkins,56931,Lehigh
+2020,12/22,Wilkes Open,149,W,TF5,17 - 0 5:00,Mathew Castimore,56016,Muhlenberg,Paul Watkins,56931,Lehigh
+2020,12/22,Wilkes Open,149,W,TF5,17 - 0 5:00,Matt Castimore,65901,Muhlenberg,Paul Watkins,56931,Lehigh
+2020,12/22,Wilkes Open,149,L,MD,10 - 0,Tyler Gazaway,60420,Roger Williams,Paul Watkins,56931,Lehigh
+2020,12/22,Wilkes Open,149,W,DEC,4 - 0,JT Cooley,51026,Lehigh,Paul Watkins,56931,Lehigh
+2020,12/22,Wilkes Open,149,W,DEC,9 - 4,Cristiaan Dailey,57226,Franklin & Marshall,Paul Watkins,56931,Lehigh
+2020,12/22,Wilkes Open,149,L,MD,13 - 4,Terrell Barraclough,62900,Penn State,Paul Watkins,56931,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,149,W,DEC,4 - 2,Tyler Williams,51090,Bucknell,Paul Watkins,56931,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,149,L,DEC,12 - 6,Hunter Richard,49107,Cornell,Paul Watkins,56931,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,149,L,DEC,13 - 6,Chris Schoenherr,41431,Cornell,Paul Watkins,56931,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,149,W,FALL,7:30,Jimmy Overhiser,41389,Cornell,Paul Watkins,56931,Lehigh
+2020,11/03,Princeton Open,149,W,TF5,16 - 0 7:00,Sam Mandelbraut,57281,Rider,Paul Watkins,56931,Lehigh
+2020,11/03,Princeton Open,149,L,DEC,3 - 2,Jake Benner,50617,Rutgers,Paul Watkins,56931,Lehigh
+2020,11/03,Princeton Open,149,L,FALL,4:10,Reece Heller,61961,Hofstra,Paul Watkins,56931,Lehigh
+2020,11/03,Princeton Open,149,W,DEC,8 - 2,Noah Hanau,41273,Army West Point,Paul Watkins,56931,Lehigh
+2020,01/17,American - Lehigh Dual,149,L,TF5,20 - 5 7:00,Kizhan Clarke,44878,American,JT Cooley,51026,Lehigh
+2020,01/11,Lehigh - Cornell Dual,149,L,MD,13 - 3,Hunter Richard,49107,Cornell,JT Cooley,51026,Lehigh
+2020,01/10,Lehigh - Binghamton Dual,149,L,DEC,6 - 0,Matthew Swanson,49887,Binghamton,JT Cooley,51026,Lehigh
+2020,12/22,Wilkes Open,149,W,FALL,0:24,Christopher Mann,68316,Wilkes,JT Cooley,51026,Lehigh
+2020,12/22,Wilkes Open,149,L,DEC,4 - 0,Paul Watkins,56931,Lehigh,JT Cooley,51026,Lehigh
+2020,12/22,Wilkes Open,149,W,FALL,0:24,Chris Mann,65903,Wilkes,JT Cooley,51026,Lehigh
+2020,12/22,Wilkes Open,149,W,DEC,5 - 3,Jackson Erb,57322,Millersville,JT Cooley,51026,Lehigh
+2020,12/22,Wilkes Open,149,L,MD,16 - 6,Jarod Verkleeren,49156,Penn State,JT Cooley,51026,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,149,L,DEC,6 - 2,Jaden Fisher,56900,Bucknell,JT Cooley,51026,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,149,L,DEC,6 - 1,Matthew Swanson,49887,Binghamton,JT Cooley,51026,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,149,W,DEC,1 - 0,Ian McNitt,45326,Cornell,JT Cooley,51026,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,149,W,FALL,6:07,Shaun Williams,51117,Sacred Heart,JT Cooley,51026,Lehigh
+2020,11/03,Princeton Open,149,L,TF5,25 - 9 7:00,Tanner Craig,59533,United States Military Academy,JT Cooley,51026,Lehigh
+2020,11/03,Princeton Open,149,L,FALL,3:57,Reece Heller,61961,Hofstra,JT Cooley,51026,Lehigh
+2020,03/06,EIWA Championships,157,W,DEC,7 - 0,Quincy Monday,53967,Princeton,Josh Humphreys,55860,Lehigh
+2020,03/06,EIWA Championships,157,W,DEC,8 - 2,Markus Hartman,50585,Army West Point,Josh Humphreys,55860,Lehigh
+2020,03/06,EIWA Championships,157,W,MD,9 - 0,Hunter Ladnier,44784,Harvard,Josh Humphreys,55860,Lehigh
+2020,03/06,EIWA Championships,157,W,MD,12 - 1,Chris Barker,51233,Binghamton,Josh Humphreys,55860,Lehigh
+2020,02/21,Arizona State - Lehigh Dual,157,L,DEC,8 - 6,Jacori Teemer,50581,Arizona State,Josh Humphreys,55860,Lehigh
+2020,02/20,Lehigh - Pennsylvania Dual,157,W,MD,9 - 1,Jon Errico,45265,Pennsylvania,Josh Humphreys,55860,Lehigh
+2020,02/14,Lehigh - Bucknell Dual,157,W,DEC,9 - 3,Jaden Fisher,56900,Bucknell,Josh Humphreys,55860,Lehigh
+2020,01/31,Lehigh - Army Dual,157,W,DEC,3 - 0,Luke Weiland,41243,Army West Point,Josh Humphreys,55860,Lehigh
+2020,01/18,Navy - Lehigh Dual,157,W,TF5,17 - 2 5:26,Jack Stanton-Taddeo,44620,Navy,Josh Humphreys,55860,Lehigh
+2020,01/17,American - Lehigh Dual,157,W,DEC,5 - 2,Ethan Karsten,44903,American,Josh Humphreys,55860,Lehigh
+2020,01/11,Lehigh - Cornell Dual,157,W,DEC,6 - 2,Adam Santoro,46089,Cornell,Josh Humphreys,55860,Lehigh
+2020,01/10,Lehigh - Binghamton Dual,157,W,MD,8 - 0,Chris Barker,51233,Binghamton,Josh Humphreys,55860,Lehigh
+2020,12/30,Lehigh - Missouri Dual,157,W,DEC,3 - 0,Jarrett Jacques,50597,Missouri,Josh Humphreys,55860,Lehigh
+2020,12/30,Duke - Lehigh Dual,157,W,TF5,16 - 0 7:00,Eric Carter,51085,Duke,Josh Humphreys,55860,Lehigh
+2020,12/29,Lehigh - Minnesota Dual,157,W,MD,11 - 0,Carson Brolsma,39549,Minnesota,Josh Humphreys,55860,Lehigh
+2020,12/06,Penn State - Lehigh Dual,157,L,DEC,5 - 3,Brady Berge,49277,Penn State,Josh Humphreys,55860,Lehigh
+2020,11/24,Pittsburgh - Lehigh Dual,157,L,FALL,5:48,Taleb Rahmani,40082,Pittsburgh,Josh Humphreys,55860,Lehigh
+2020,11/23,Lehigh - Princeton Dual,157,L,DEC,8 - 6,Quincy Monday,53967,Princeton,Josh Humphreys,55860,Lehigh
+2020,11/16,Oklahoma State - Lehigh Dual,157,W,MD,16 - 2,Wyatt Sheets,44863,Oklahoma State,Josh Humphreys,55860,Lehigh
+2020,11/10,Journeyman Collegiate Classic,157,W,DEC,6 - 1,Alex Klucker,40289,Lock Haven,Josh Humphreys,55860,Lehigh
+2020,11/10,Journeyman Collegiate Classic,157,W,FALL,2:17,Hunter Costa,45247,Davidson,Josh Humphreys,55860,Lehigh
+2020,11/10,Journeyman Collegiate Classic,157,W,DEC,2 - 0,Mike Van Brill,44613,Rutgers,Josh Humphreys,55860,Lehigh
+2020,11/03,Princeton Open,157,W,FALL,1:34,Anthony Ulaszek,63455,US Naval Academy Prep School,Josh Humphreys,55860,Lehigh
+2020,11/03,Princeton Open,157,L,DEC,11 - 5,Quincy Monday,53967,Princeton,Josh Humphreys,55860,Lehigh
+2020,11/03,Princeton Open,157,L,MFOR,0 - 0,David Berkovich,62569,Columbia,Josh Humphreys,55860,Lehigh
+2020,11/03,Princeton Open,157,W,FALL,0:48,Riley Jacops,51032,Columbia,Josh Humphreys,55860,Lehigh
+2020,02/01,Edinboro Open,157,W,FALL,2:52,Benny Baker,63471,Spartan Combat RTC,AJ Burkhart,50632,Lehigh
+2020,02/01,Edinboro Open,157,W,DEC,10 - 6,John Worthing,61847,Clarion,AJ Burkhart,50632,Lehigh
+2020,02/01,Edinboro Open,157,W,DEC,8 - 6,Caleb Cass,57214,Cleveland State,AJ Burkhart,50632,Lehigh
+2020,02/01,Edinboro Open,157,W,INJ,7:00,Nathan Haubert,57091,Lehigh,AJ Burkhart,50632,Lehigh
+2020,02/01,Edinboro Open,157,L,DEC,7 - 3,Jonathan Ross,44894,Lock Haven,AJ Burkhart,50632,Lehigh
+2020,02/01,Edinboro Open,157,W,DEC,6 - 0,Garrett Fisk,63139,Maryland,AJ Burkhart,50632,Lehigh
+2020,01/01,Southern Scuffle,157,L,MD,12 - 1,Luke Weber,45050,North Dakota State,AJ Burkhart,50632,Lehigh
+2020,01/01,Southern Scuffle,157,W,DEC,4 - 3,Douglas Gudenburr,45587,The Citadel,AJ Burkhart,50632,Lehigh
+2020,01/01,Southern Scuffle,157,L,DEC,9 - 4,Jose Champagne,45138,Little Rock,AJ Burkhart,50632,Lehigh
+2020,12/22,Wilkes Open,157,W,DEC,11 - 6,Owen Davis,65902,Wyoming Seminary Prep,AJ Burkhart,50632,Lehigh
+2020,12/22,Wilkes Open,157,W,DEC,9 - 6,Scott Jarosz,62478,Sacred Heart,AJ Burkhart,50632,Lehigh
+2020,12/22,Wilkes Open,157,W,DEC,8 - 5,Noah Chan,57227,Franklin & Marshall,AJ Burkhart,50632,Lehigh
+2020,12/22,Wilkes Open,157,L,MFOR,0 - 0,Paul Feite,56605,Penn State,AJ Burkhart,50632,Lehigh
+2020,12/22,Wilkes Open,157,L,DEC,7 - 1,Bo Pipher,45075,Penn State,AJ Burkhart,50632,Lehigh
+2020,11/10,Journeyman Collegiate Classic,157,W,DEC,5 - 1,Scott Jarosz,62478,Sacred Heart,AJ Burkhart,50632,Lehigh
+2020,11/10,Journeyman Collegiate Classic,157,L,DEC,7 - 2,Kolby Ho,55945,George Mason,AJ Burkhart,50632,Lehigh
+2020,11/10,Journeyman Collegiate Classic,157,L,MD,9 - 0,Jack Bokina,56798,Brown,AJ Burkhart,50632,Lehigh
+2020,11/03,Princeton Open,157,W,DEC,11 - 5,Jack Stanton-Taddeo,44620,Navy,AJ Burkhart,50632,Lehigh
+2020,11/03,Princeton Open,157,L,DEC,8 - 2,Jesse Dellavecchia,39574,Rider,AJ Burkhart,50632,Lehigh
+2020,11/03,Princeton Open,157,W,MFOR,0 - 0,Beau Guffey,45643,Army West Point,AJ Burkhart,50632,Lehigh
+2020,11/03,Princeton Open,157,L,DEC,8 - 5,Riley Jacops,51032,Columbia,AJ Burkhart,50632,Lehigh
+2020,02/01,Edinboro Open,157,L,INJ,7:00,AJ Burkhart,50632,Lehigh,Nathan Haubert,57091,Lehigh
+2020,02/01,Edinboro Open,157,L,DEC,9 - 3,Trevor Elfvin,51017,Clarion,Nathan Haubert,57091,Lehigh
+2020,02/01,Edinboro Open,157,W,DEC,8 - 3,Miles Hoey,62655,Michigan State,Nathan Haubert,57091,Lehigh
+2020,02/01,Edinboro Open,157,W,DEC,4 - 1,Kris Ketchum,62468,Ohio State,Nathan Haubert,57091,Lehigh
+2020,02/01,Edinboro Open,157,W,DEC,9 - 2,Anthony Sciuto,62802,Pittsburgh,Nathan Haubert,57091,Lehigh
+2020,03/06,EIWA Championships,165,L,DEC,3 - 1,Grant Cuomo,50892,Princeton,Brian Meyer,50941,Lehigh
+2020,03/06,EIWA Championships,165,W,DEC,6 - 4,Ryan Ferro,50086,LIU,Brian Meyer,50941,Lehigh
+2020,03/06,EIWA Championships,165,L,SV-1,3 - 1,Milik Dawkins,41360,Cornell,Brian Meyer,50941,Lehigh
+2020,02/21,Arizona State - Lehigh Dual,165,L,TF5,19 - 4 6:50,Josh Shields,39511,Arizona State,Brian Meyer,50941,Lehigh
+2020,02/20,Lehigh - Pennsylvania Dual,165,W,MD,10 - 2,Jack Conway,44785,Pennsylvania,Brian Meyer,50941,Lehigh
+2020,02/14,Lehigh - Bucknell Dual,165,L,DEC,3 - 2,Zach Hartman,50586,Bucknell,Brian Meyer,50941,Lehigh
+2020,01/31,Lehigh - Army Dual,165,L,DEC,7 - 3,Cael McCormick,44622,Army West Point,Brian Meyer,50941,Lehigh
+2020,01/18,Navy - Lehigh Dual,165,L,DEC,2 - 0,Tanner Skidgel,49200,Navy,Brian Meyer,50941,Lehigh
+2020,01/17,American - Lehigh Dual,165,W,MD,13 - 3,Anthony Wokasch,44729,American,Brian Meyer,50941,Lehigh
+2020,01/11,Lehigh - Cornell Dual,165,W,DEC,3 - 1,Jake Brindley,49109,Cornell,Brian Meyer,50941,Lehigh
+2020,12/30,Lehigh - Missouri Dual,165,L,DEC,3 - 2,Peyton Mocco,50635,Missouri,Brian Meyer,50941,Lehigh
+2020,12/30,Duke - Lehigh Dual,165,W,DEC,8 - 7,Benjamin Anderson,51087,Duke,Brian Meyer,50941,Lehigh
+2020,12/29,Lehigh - Minnesota Dual,165,L,DEC,8 - 5,Bailee O'Reilly,50166,Minnesota,Brian Meyer,50941,Lehigh
+2020,12/22,Wilkes Open,165,W,DEC,3 - 2,Anthony Asatrian,66125,Lock Haven,Brian Meyer,50941,Lehigh
+2020,12/22,Wilkes Open,165,W,DEC,3 - 1,Luca Frinzi,57518,Lehigh,Brian Meyer,50941,Lehigh
+2020,12/22,Wilkes Open,165,W,FALL,7:54,Nate Newberry,45190,Bloomsburg,Brian Meyer,50941,Lehigh
+2020,12/22,Wilkes Open,165,L,DEC,6 - 3,Joe Lee,49666,Penn State,Brian Meyer,50941,Lehigh
+2020,12/06,Penn State - Lehigh Dual,165,L,DEC,7 - 4,Vincenzo Joseph,39542,Penn State,Brian Meyer,50941,Lehigh
+2020,11/24,Pittsburgh - Lehigh Dual,165,L,DEC,7 - 1,Jake Wentzel,45151,Pittsburgh,Brian Meyer,50941,Lehigh
+2020,11/23,Lehigh - Princeton Dual,165,L,DEC,4 - 2,Grant Cuomo,50892,Princeton,Brian Meyer,50941,Lehigh
+2020,11/16,Oklahoma State - Lehigh Dual,165,L,DEC,3 - 1,Travis Wittlake,50615,Oklahoma State,Brian Meyer,50941,Lehigh
+2020,11/10,Journeyman Collegiate Classic,165,L,DEC,4 - 3,Isaiah White,47106,Nebraska,Brian Meyer,50941,Lehigh
+2020,11/10,Journeyman Collegiate Classic,165,W,MFOR,0 - 0,Chase Gallik,39677,Lehigh,Brian Meyer,50941,Lehigh
+2020,11/10,Journeyman Collegiate Classic,165,L,DEC,5 - 4,Ricky Stamm,44699,Hofstra,Brian Meyer,50941,Lehigh
+2020,11/03,Princeton Open,165,L,DEC,5 - 3,Chase Gallik,39677,Lehigh,Brian Meyer,50941,Lehigh
+2020,11/03,Princeton Open,165,W,FALL,2:34,Rudy Rodriguez,63468,US Naval Academy Prep School,Brian Meyer,50941,Lehigh
+2020,11/03,Princeton Open,165,W,DEC,10 - 4,Shane Reitsma,63067,High School,Brian Meyer,50941,Lehigh
+2020,11/03,Princeton Open,165,W,DEC,3 - 2,Dale Tiongson,49295,Princeton,Brian Meyer,50941,Lehigh
+2020,11/03,Princeton Open,165,L,DEC,11 - 4,Kyle Mosher,57125,Columbia,Brian Meyer,50941,Lehigh
+2020,02/21,Arizona State - Lehigh Dual,197,L,DEC,12 - 6,Kordell Norfleet,49038,Arizona State,Chase Gallik,39677,Lehigh
+2020,02/14,Lehigh - Bucknell Dual,184,W,FALL,6:05,Kyle Inlander,44835,Bucknell,Chase Gallik,39677,Lehigh
+2020,11/10,Journeyman Collegiate Classic,165,L,MFOR,0 - 0,Brian Meyer,50941,Lehigh,Chase Gallik,39677,Lehigh
+2020,11/10,Journeyman Collegiate Classic,165,L,INJ,1:07,Shane Jones,39984,Old Dominion,Chase Gallik,39677,Lehigh
+2020,11/10,Journeyman Collegiate Classic,165,L,MD,12 - 2,Josh Shields,39511,Arizona State,Chase Gallik,39677,Lehigh
+2020,11/03,Princeton Open,165,W,FALL,1:08,George Worthy,63465,Rider,Chase Gallik,39677,Lehigh
+2020,11/03,Princeton Open,165,W,DEC,5 - 3,Brian Meyer,50941,Lehigh,Chase Gallik,39677,Lehigh
+2020,11/03,Princeton Open,165,W,FALL,1:28,Grant Cuomo,50892,Princeton,Chase Gallik,39677,Lehigh
+2020,11/03,Princeton Open,165,L,DEC,11 - 5,Ricky Stamm,44699,Hofstra,Chase Gallik,39677,Lehigh
+2020,11/03,Princeton Open,165,W,FALL,3:46,Will Lucie,45640,Army West Point,Chase Gallik,39677,Lehigh
+2020,02/23,Mat-Town Open II,165,L,DEC,6 - 2,Julian Ramirez,56706,Spartan Combat RTC,Luca Frinzi,57518,Lehigh
+2020,02/23,Mat-Town Open II,165,W,MD,12 - 2,Nick Sansone,62198,Virginia,Luca Frinzi,57518,Lehigh
+2020,02/23,Mat-Town Open II,165,W,DEC,8 - 7,Michael Wilson,62190,Rider,Luca Frinzi,57518,Lehigh
+2020,02/23,Mat-Town Open II,165,L,FALL,5:57,Jason Montgomery,51110,Pennsylvania,Luca Frinzi,57518,Lehigh
+2020,01/01,Southern Scuffle,165,L,DEC,8 - 4,Aaron Olmos,50177,Oregon State,Luca Frinzi,57518,Lehigh
+2020,01/01,Southern Scuffle,165,L,TF5,17 - 0 4:51,Andrew Shomers,39642,Oklahoma State,Luca Frinzi,57518,Lehigh
+2020,01/01,Southern Scuffle,165,W,MD,9 - 1,Christopher Fasano,62651,The Citadel,Luca Frinzi,57518,Lehigh
+2020,12/22,Wilkes Open,165,L,DEC,3 - 1,Brian Meyer,50941,Lehigh,Luca Frinzi,57518,Lehigh
+2020,12/22,Wilkes Open,165,W,DEC,7 - 1,Timothy Fitzpatrick,57254,American,Luca Frinzi,57518,Lehigh
+2020,12/22,Wilkes Open,165,W,SV-1,12 - 10,Konner Kraeszig,57104,Penn State,Luca Frinzi,57518,Lehigh
+2020,12/01,Mat-Town Open I,165,L,DEC,6 - 5,Dillon Ross,57213,Buffalo,Luca Frinzi,57518,Lehigh
+2020,12/01,Mat-Town Open I,165,L,DEC,6 - 1,Caleb Clymer,56372,Lock Haven,Luca Frinzi,57518,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,165,L,DEC,8 - 3,Vincent Andreano,61512,Bucknell,Luca Frinzi,57518,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,165,W,DEC,11 - 5,David Russell,51323,Army West Point,Luca Frinzi,57518,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,165,L,DEC,8 - 4,Adam Santoro,46089,Cornell,Luca Frinzi,57518,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,165,W,SV-1,3 - 1,Mitchell Hartman,45921,Bucknell,Luca Frinzi,57518,Lehigh
+2020,12/30,Duke - Lehigh Dual,174,L,MD,10 - 2,Mason Eaglin,57137,Duke,Kent Lane,39601,Lehigh
+2020,12/29,South Beach College Individual,165,L,DEC,5 - 2,Luke Fortuna,39654,Missouri,Kent Lane,39601,Lehigh
+2020,11/10,Journeyman Collegiate Classic,165,L,MFOR,0 - 0,Jose Lao Cooper,57145,Oklahoma,Kent Lane,39601,Lehigh
+2020,11/10,Journeyman Collegiate Classic,165,L,TF5,17 - 2 6:08,Cornelius Schuster,55781,George Mason,Kent Lane,39601,Lehigh
+2020,11/10,Journeyman Collegiate Classic,165,L,MFOR,0 - 0,Noah Satterfield,44861,Davidson,Kent Lane,39601,Lehigh
+2020,11/10,Journeyman Collegiate Classic,165,L,MFOR,0 - 0,Brett Donner,44581,Rutgers,Kent Lane,39601,Lehigh
+2020,11/03,Princeton Open,165,W,DEC,4 - 2,Evan Vazquez,62576,Rider,Kent Lane,39601,Lehigh
+2020,11/03,Princeton Open,165,L,FALL,4:46,Grant Cuomo,50892,Princeton,Kent Lane,39601,Lehigh
+2020,11/03,Princeton Open,165,W,FALL,1:40,Chimenum Tasie-Amadi,63449,Columbia,Kent Lane,39601,Lehigh
+2020,11/03,Princeton Open,165,L,FALL,0:51,Kyle Mosher,57125,Columbia,Kent Lane,39601,Lehigh
+2020,02/23,Mat-Town Open II,174,L,DEC,6 - 0,Nick Incontrera,57070,PRTC,Trey Cornish,48467,Lehigh
+2020,02/23,Mat-Town Open II,174,L,DEC,7 - 2,Victor Marcelli,50587,Virginia,Trey Cornish,48467,Lehigh
+2020,02/23,Mat-Town Open II,174,W,MFOR,0 - 0,Brandon Womack,40379,Cornell,Trey Cornish,48467,Lehigh
+2020,02/23,Mat-Town Open II,174,W,MD,14 - 4,Corey Connolly,62210,Rider,Trey Cornish,48467,Lehigh
+2020,02/23,Mat-Town Open II,174,W,MFOR,0 - 0,Dillon Ross,57213,Buffalo,Trey Cornish,48467,Lehigh
+2020,02/01,Edinboro Open,165,W,FALL,4:57,Fabio Preka,63166,Buffalo,Trey Cornish,48467,Lehigh
+2020,02/01,Edinboro Open,165,L,DEC,9 - 2,Vincent Andreano,61512,Bucknell,Trey Cornish,48467,Lehigh
+2020,02/01,Edinboro Open,165,L,DEC,5 - 2,Austin Bell,44596,Lock Haven,Trey Cornish,48467,Lehigh
+2020,01/01,Southern Scuffle,165,L,MD,10 - 2,Brett Donner,44581,Rutgers,Trey Cornish,48467,Lehigh
+2020,01/01,Southern Scuffle,165,L,TF5,19 - 4 7:00,Andrew Shomers,39642,Oklahoma State,Trey Cornish,48467,Lehigh
+2020,12/22,Wilkes Open,165,W,DEC,5 - 1,Scott Defex,65789,Nassau Community College,Trey Cornish,48467,Lehigh
+2020,12/22,Wilkes Open,165,W,SV-1,4 - 2,Nick Sansone,62198,Virginia,Trey Cornish,48467,Lehigh
+2020,12/22,Wilkes Open,165,L,TF5,31 - 16 6:25,Joe Lee,49666,Penn State,Trey Cornish,48467,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,165,L,DEC,13 - 6,Phillip Conigliaro,51201,Harvard,Trey Cornish,48467,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,165,L,FALL,4:16,Will Lucie,45640,Army West Point,Trey Cornish,48467,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,165,W,FALL,2:01,Alex Marciniak,62482,Sacred Heart,Trey Cornish,48467,Lehigh
+2020,11/03,Princeton Open,165,W,DEC,14 - 8,AJ Lonski,62266,Princeton,Trey Cornish,48467,Lehigh
+2020,11/03,Princeton Open,165,W,DEC,11 - 8,Michael Kistler,56735,Pennsylvania,Trey Cornish,48467,Lehigh
+2020,11/03,Princeton Open,165,L,DEC,9 - 2,Grant Cuomo,50892,Princeton,Trey Cornish,48467,Lehigh
+2020,11/03,Princeton Open,165,L,DEC,5 - 3,Ricky Stamm,44699,Hofstra,Trey Cornish,48467,Lehigh
+2020,03/06,EIWA Championships,174,W,DEC,5 - 0,Spencer Carey,44817,Navy,Jordan Kutler,39626,Lehigh
+2020,03/06,EIWA Championships,174,W,DEC,4 - 0,Michael O'Malley,50836,Drexel,Jordan Kutler,39626,Lehigh
+2020,03/06,EIWA Championships,174,W,TF5,16 - 0 5:42,Mitchell Hartman,45921,Bucknell,Jordan Kutler,39626,Lehigh
+2020,03/06,EIWA Championships,174,W,FALL,3:42,Aidan Monteverdi,49048,Binghamton,Jordan Kutler,39626,Lehigh
+2020,02/21,Arizona State - Lehigh Dual,174,W,DEC,9 - 4,Anthony Valencia,39500,Arizona State,Jordan Kutler,39626,Lehigh
+2020,02/20,Lehigh - Pennsylvania Dual,174,W,DEC,10 - 4,Neil Antrassian,56202,Pennsylvania,Jordan Kutler,39626,Lehigh
+2020,02/14,Lehigh - Bucknell Dual,174,W,FALL,2:44,Mitchell Hartman,45921,Bucknell,Jordan Kutler,39626,Lehigh
+2020,01/31,Lehigh - Army Dual,174,W,FALL,7:00,Ben Harvey,40935,Army West Point,Jordan Kutler,39626,Lehigh
+2020,01/18,Navy - Lehigh Dual,174,W,DEC,5 - 1,Spencer Carey,44817,Navy,Jordan Kutler,39626,Lehigh
+2020,01/17,American - Lehigh Dual,174,W,MD,11 - 2,Benjamin Root,51221,American,Jordan Kutler,39626,Lehigh
+2020,01/11,Lehigh - Cornell Dual,174,W,MD,9 - 1,Milik Dawkins,41360,Cornell,Jordan Kutler,39626,Lehigh
+2020,01/10,Lehigh - Binghamton Dual,174,W,DEC,6 - 1,Alexander Melikian,45021,Binghamton,Jordan Kutler,39626,Lehigh
+2020,12/30,Lehigh - Missouri Dual,174,W,DEC,4 - 0,Jeremiah Kent,50824,Missouri,Jordan Kutler,39626,Lehigh
+2020,12/29,Lehigh - Minnesota Dual,174,W,DEC,6 - 1,Devin Skatzka,39603,Minnesota,Jordan Kutler,39626,Lehigh
+2020,12/06,Penn State - Lehigh Dual,174,L,DEC,7 - 2,Mark Hall,44839,Penn State,Jordan Kutler,39626,Lehigh
+2020,11/24,Pittsburgh - Lehigh Dual,174,W,DEC,4 - 1,Gregg Harvey,45148,Pittsburgh,Jordan Kutler,39626,Lehigh
+2020,11/23,Lehigh - Princeton Dual,174,W,MD,16 - 6,Kevin Parker,44710,Princeton,Jordan Kutler,39626,Lehigh
+2020,11/16,Oklahoma State - Lehigh Dual,174,W,MD,20 - 6,Andrew Shomers,39642,Oklahoma State,Jordan Kutler,39626,Lehigh
+2020,11/10,Journeyman Collegiate Classic,174,W,DEC,4 - 1,Michael Labriola,49207,Nebraska,Jordan Kutler,39626,Lehigh
+2020,11/10,Journeyman Collegiate Classic,174,W,MD,8 - 0,Luke Drugac,44767,Old Dominion,Jordan Kutler,39626,Lehigh
+2020,11/10,Journeyman Collegiate Classic,174,W,FALL,0:58,Anthony Lombardo,19656,George Mason,Jordan Kutler,39626,Lehigh
+2020,11/10,Journeyman Collegiate Classic,174,W,FALL,6:54,Sage Heller,44999,Hofstra,Jordan Kutler,39626,Lehigh
+2020,02/23,Mat-Town Open II,174,W,DEC,4 - 1,Jake Logan,57185,Lehigh,Edmond Ruth,51277,Lehigh
+2020,02/23,Mat-Town Open II,174,W,MFOR,0 - 0,Brandon Womack,40379,Cornell,Edmond Ruth,51277,Lehigh
+2020,02/23,Mat-Town Open II,174,W,DEC,7 - 2,Colin Shannon,50060,American,Edmond Ruth,51277,Lehigh
+2020,02/23,Mat-Town Open II,174,W,MD,11 - 3,Tucker Nadeau,56465,West Virginia,Edmond Ruth,51277,Lehigh
+2020,02/01,Edinboro Open,174,W,TF5,20 - 3 6:09,Brinton Simington,57358,Lock Haven,Edmond Ruth,51277,Lehigh
+2020,02/01,Edinboro Open,174,L,DEC,10 - 7,Chris Foca,56712,Spartan Combat RTC,Edmond Ruth,51277,Lehigh
+2020,02/01,Edinboro Open,174,W,TF5,26 - 9 6:36,Owen Balas,51360,Gannon,Edmond Ruth,51277,Lehigh
+2020,02/01,Edinboro Open,174,L,DEC,5 - 3,Frankie Guida,50819,Bucknell,Edmond Ruth,51277,Lehigh
+2020,02/01,Edinboro Open,174,W,DEC,8 - 5,Fritz Schierl,44840,Ohio State,Edmond Ruth,51277,Lehigh
+2020,01/01,Southern Scuffle,174,L,DEC,11 - 6,Jared Siegrist,45101,Lock Haven,Edmond Ruth,51277,Lehigh
+2020,01/01,Southern Scuffle,174,L,DEC,6 - 1,Dean Sherry,40019,Rider,Edmond Ruth,51277,Lehigh
+2020,01/01,Southern Scuffle,174,W,DEC,7 - 4,Anthony Lombardo,19656,George Mason,Edmond Ruth,51277,Lehigh
+2020,01/01,Southern Scuffle,174,W,TF5,18 - 3 5:29,Steven Newell,57721,Davidson,Edmond Ruth,51277,Lehigh
+2020,12/22,Wilkes Open,174,W,FALL,0:51,Jose Torres,65859,Union County College,Edmond Ruth,51277,Lehigh
+2020,12/22,Wilkes Open,174,W,DEC,2 - 1,Jacob Nolan,62415,Binghamton,Edmond Ruth,51277,Lehigh
+2020,12/22,Wilkes Open,174,W,MD,10 - 1,Colin Shannon,50060,American,Edmond Ruth,51277,Lehigh
+2020,12/22,Wilkes Open,174,L,DEC,4 - 1,Creighton Edsell,56934,Penn State,Edmond Ruth,51277,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,174,L,MFOR,0 - 0,Crew Fullerton,57225,Franklin & Marshall,Edmond Ruth,51277,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,174,W,DEC,5 - 3,Alexander Melikian,45021,Binghamton,Edmond Ruth,51277,Lehigh
+2020,11/10,Jonathan Kaloust Bearcat Open,174,L,INJ,7:00,Sam Williams,41314,Army West Point,Edmond Ruth,51277,Lehigh
+2020,11/03,Princeton Open,174,W,MD,18 - 5,Jerry Andaluz,63061,Rider,Edmond Ruth,51277,Lehigh
+2020,11/03,Princeton Open,174,L,MD,14 - 0,Chris Foca,56712,Spartan Combat RTC,Edmond Ruth,51277,Lehigh
+2020,11/03,Princeton Open,174,W,MD,20 - 6,Mason Reiniche,67415,Spartan Combat RTC,Edmond Ruth,51277,Lehigh
+2020,11/03,Princeton Open,174,W,DEC,7 - 3,Jacob Nolan,62415,Binghamton,Edmond Ruth,51277,Lehigh
+2020,11/03,Princeton Open,174,W,DEC,3 - 2,Sam Williams,41314,Army West Point,Edmond Ruth,51277,Lehigh
+2020,03/06,EIWA Championships,184,L,DEC,4 - 0,Louie DePrez,49046,Binghamton,Chris Weiler,45108,Lehigh
+2020,03/06,EIWA Championships,184,W,DEC,8 - 6,Noah Stewart,44599,Army West Point,Chris Weiler,45108,Lehigh
+2020,03/06,EIWA Championships,184,W,MD,9 - 0,Charles Small,51398,Hofstra,Chris Weiler,45108,Lehigh
+2020,03/06,EIWA Championships,184,W,FALL,4:02,Owen Brooks,45256,Drexel,Chris Weiler,45108,Lehigh
+2020,02/21,Arizona State - Lehigh Dual,184,W,MD,10 - 0,Cade Belshay,50175,Arizona State,Chris Weiler,45108,Lehigh
+2020,02/20,Lehigh - Pennsylvania Dual,184,W,TF5,16 - 0 4:16,John Stout,60543,Pennsylvania,Chris Weiler,45108,Lehigh
+2020,01/31,Lehigh - Army Dual,184,W,DEC,7 - 2,Noah Stewart,44599,Army West Point,Chris Weiler,45108,Lehigh
+2020,01/17,American - Lehigh Dual,184,W,DEC,10 - 9,Tanner Harvey,48451,American,Chris Weiler,45108,Lehigh
+2020,01/11,Lehigh - Cornell Dual,184,L,DEC,8 - 6,Jonathan Loew,51080,Cornell,Chris Weiler,45108,Lehigh
+2020,01/10,Lehigh - Binghamton Dual,184,W,DEC,6 - 2,Louie DePrez,49046,Binghamton,Chris Weiler,45108,Lehigh
+2020,12/30,Lehigh - Missouri Dual,184,W,DEC,13 - 6,Dylan Wisman,39507,Missouri,Chris Weiler,45108,Lehigh
+2020,12/30,Duke - Lehigh Dual,184,W,TF5,16 - 0 7:00,Kai Blake,62377,Duke,Chris Weiler,45108,Lehigh
+2020,12/29,Lehigh - Minnesota Dual,184,W,DEC,9 - 3,Owen Webster,48190,Minnesota,Chris Weiler,45108,Lehigh
+2020,12/06,Penn State - Lehigh Dual,184,L,DEC,10 - 5,Aaron Brooks,54280,Penn State,Chris Weiler,45108,Lehigh
+2020,11/24,Pittsburgh - Lehigh Dual,184,L,DEC,8 - 3,Nino Bonaccorsi,49285,Pittsburgh,Chris Weiler,45108,Lehigh
+2020,11/23,Lehigh - Princeton Dual,184,W,DEC,11 - 4,Travis Stefanik,49301,Princeton,Chris Weiler,45108,Lehigh
+2020,11/16,Oklahoma State - Lehigh Dual,184,L,FALL,6:26,Anthony Montalvo,51619,Oklahoma State,Chris Weiler,45108,Lehigh
+2020,11/10,Journeyman Collegiate Classic,184,L,FALL,1:32,Taylor Venz,44854,Nebraska,Chris Weiler,45108,Lehigh
+2020,11/10,Journeyman Collegiate Classic,184,W,FALL,6:51,Corey Hazel,39756,Lock Haven,Chris Weiler,45108,Lehigh
+2020,11/10,Journeyman Collegiate Classic,184,W,DEC,6 - 1,Tanner Orndorff,40324,Utah Valley,Chris Weiler,45108,Lehigh
+2020,11/03,Princeton Open,184,W,INJ,6:57,Jake Logan,57185,Lehigh,Chris Weiler,45108,Lehigh
+2020,11/03,Princeton Open,184,L,DEC,4 - 3,Luke Hodsden,45121,Army West Point,Chris Weiler,45108,Lehigh
+2020,11/03,Princeton Open,184,W,MD,15 - 2,Charles Small,51398,Hofstra,Chris Weiler,45108,Lehigh
+2020,11/03,Princeton Open,184,W,TF5,15 - 0 7:00,Sahm AbdulRazzaq,58214,Army West Point,Chris Weiler,45108,Lehigh
+2020,02/23,Mat-Town Open II,174,L,DEC,4 - 1,Edmond Ruth,51277,Lehigh,Jake Logan,57185,Lehigh
+2020,02/23,Mat-Town Open II,174,W,DEC,4 - 3,Nick Incontrera,57070,PRTC,Jake Logan,57185,Lehigh
+2020,02/23,Mat-Town Open II,174,W,DEC,3 - 2,Creighton Edsell,56934,Penn State,Jake Logan,57185,Lehigh
+2020,02/23,Mat-Town Open II,174,W,DEC,7 - 5,Victor Marcelli,50587,Virginia,Jake Logan,57185,Lehigh
+2020,02/23,Mat-Town Open II,174,W,TB-1,6 - 5,Creighton Edsell,56934,Penn State,Jake Logan,57185,Lehigh
+2020,01/01,Southern Scuffle,174,W,DEC,10 - 3,Mac Southard,50986,Iowa State,Jake Logan,57185,Lehigh
+2020,01/01,Southern Scuffle,174,L,DEC,6 - 5,Thomas Flitz,45410,Appalachian State,Jake Logan,57185,Lehigh
+2020,01/01,Southern Scuffle,174,W,DEC,5 - 3,Jared Siegrist,45101,Lock Haven,Jake Logan,57185,Lehigh
+2020,01/01,Southern Scuffle,174,W,DEC,3 - 2,Joseph Grello,44858,Rutgers,Jake Logan,57185,Lehigh
+2020,01/01,Southern Scuffle,174,L,DEC,6 - 1,Daniel Bullard,44612,NC State,Jake Logan,57185,Lehigh
+2020,01/01,Southern Scuffle,174,W,DEC,8 - 7,Lorenzo De La Riva,40169,North Dakota State,Jake Logan,57185,Lehigh
+2020,01/01,Southern Scuffle,174,L,MD,12 - 4,Neal Richards,39991,VMI,Jake Logan,57185,Lehigh
+2020,12/22,Wilkes Open,174,W,DEC,12 - 6,Gary Nagle,65894,Ursinus,Jake Logan,57185,Lehigh
+2020,12/22,Wilkes Open,174,W,TF5,19 - 4 5:40,Malik Jackson,60673,Millersville,Jake Logan,57185,Lehigh
+2020,12/22,Wilkes Open,174,W,MD,13 - 4,Dalton Group,57412,Pitt-Johnstown,Jake Logan,57185,Lehigh
+2020,12/22,Wilkes Open,174,L,FALL,6:17,Mark Hall,44839,Penn State,Jake Logan,57185,Lehigh
+2020,11/03,Princeton Open,184,W,DEC,5 - 3,John Poznanski,61124,High School,Jake Logan,57185,Lehigh
+2020,11/03,Princeton Open,184,W,DEC,7 - 3,Nate Dugan,57662,Princeton,Jake Logan,57185,Lehigh
+2020,11/03,Princeton Open,184,W,DEC,7 - 3,Brian Bonino,51034,NYC RTC,Jake Logan,57185,Lehigh
+2020,11/03,Princeton Open,184,L,DEC,9 - 3,George Walton,49265,Rider,Jake Logan,57185,Lehigh
+2020,11/03,Princeton Open,184,L,INJ,6:57,Chris Weiler,45108,Lehigh,Jake Logan,57185,Lehigh
+2020,01/01,Southern Scuffle,184,L,DEC,7 - 5,Noah Cressell,51692,North Dakota State,Dylan Ammerman,45109,Lehigh
+2020,01/01,Southern Scuffle,184,L,MD,13 - 4,George Walton,49265,Rider,Dylan Ammerman,45109,Lehigh
+2020,11/10,Journeyman Collegiate Classic,184,W,FALL,5:57,Antonio Agee,44635,Old Dominion,Dylan Ammerman,45109,Lehigh
+2020,11/10,Journeyman Collegiate Classic,184,L,DEC,7 - 5,Trevor Allard,40040,Bloomsburg,Dylan Ammerman,45109,Lehigh
+2020,11/10,Journeyman Collegiate Classic,184,W,FALL,3:43,Gary Jantzer,44879,Utah Valley,Dylan Ammerman,45109,Lehigh
+2020,01/18,Navy - Lehigh Dual,184,W,DEC,9 - 5,Hunter Johns,62914,Navy,Eli Grape,49166,Lehigh
+2020,12/22,Wilkes Open,184,W,MD,10 - 2,Michael Cannon,54760,Muhlenberg,Eli Grape,49166,Lehigh
+2020,12/22,Wilkes Open,184,W,FALL,5:18,Ikenna Unachukwu,65862,Union County College,Eli Grape,49166,Lehigh
+2020,12/22,Wilkes Open,184,L,DEC,5 - 3,Gino Sita,52064,Alderson-Broaddus University,Eli Grape,49166,Lehigh
+2020,12/22,Wilkes Open,184,W,FALL,6:59,Jimmy Stillerman,45210,Franklin & Marshall,Eli Grape,49166,Lehigh
+2020,12/22,Wilkes Open,184,W,DEC,8 - 2,Jimmy Stillerman,45210,Franklin & Marshall,Eli Grape,49166,Lehigh
+2020,12/22,Wilkes Open,184,L,DEC,3 - 2,Cory Day,62418,Binghamton,Eli Grape,49166,Lehigh
+2020,11/03,Princeton Open,184,L,MD,18 - 6,John Poznanski,61124,High School,Eli Grape,49166,Lehigh
+2020,11/03,Princeton Open,184,W,MD,15 - 1,Ethan Stern,61836,US Naval Academy Prep School,Eli Grape,49166,Lehigh
+2020,11/03,Princeton Open,184,L,DEC,11 - 7,George Walton,49265,Rider,Eli Grape,49166,Lehigh
+2020,02/23,Mat-Town Open II,184,W,DEC,6 - 4,Dylan Bisel,62774,Clarion,Andrew Shedleski,56939,Lehigh
+2020,02/23,Mat-Town Open II,184,L,DEC,5 - 0,Ritchie Heywood,62901,Penn State,Andrew Shedleski,56939,Lehigh
+2020,02/23,Mat-Town Open II,184,L,DEC,6 - 2,Donovan Ball,57646,Penn State,Andrew Shedleski,56939,Lehigh
+2020,11/03,Princeton Open,184,W,DEC,7 - 3,Hunter Johns,62914,Navy,Andrew Shedleski,56939,Lehigh
+2020,11/03,Princeton Open,184,L,MFOR,0 - 0,Luke Hodsden,45121,Army West Point,Andrew Shedleski,56939,Lehigh
+2020,11/03,Princeton Open,184,L,MFOR,0 - 0,Carlin Powell,45068,Princeton,Andrew Shedleski,56939,Lehigh
+2020,11/03,Princeton Open,184,W,DEC,6 - 2,Joe Franzese,57273,Columbia,Andrew Shedleski,56939,Lehigh
+2020,03/06,EIWA Championships,197,W,MD,10 - 2,Bryan McLaughlin,49120,Drexel,Jake Jakobsen,46924,Lehigh
+2020,03/06,EIWA Championships,197,L,DEC,5 - 1,Patrick Brucki,49296,Princeton,Jake Jakobsen,46924,Lehigh
+2020,03/06,EIWA Championships,197,W,FALL,5:38,Cole Urbas,56773,Pennsylvania,Jake Jakobsen,46924,Lehigh
+2020,03/06,EIWA Championships,197,W,FALL,4:59,Trey Rogers,51099,Hofstra,Jake Jakobsen,46924,Lehigh
+2020,03/06,EIWA Championships,197,L,DEC,4 - 2,Jack Brown,51262,Army West Point,Jake Jakobsen,46924,Lehigh
+2020,03/06,EIWA Championships,197,W,FALL,1:47,Mark Malico,54338,LIU,Jake Jakobsen,46924,Lehigh
+2020,02/20,Lehigh - Pennsylvania Dual,197,L,INJ,7:00,Cole Urbas,56773,Pennsylvania,Jake Jakobsen,46924,Lehigh
+2020,02/14,Lehigh - Bucknell Dual,197,W,DEC,3 - 0,Drew Phipps,45224,Bucknell,Jake Jakobsen,46924,Lehigh
+2020,01/31,Lehigh - Army Dual,197,W,DEC,4 - 1,Alex Hopkins,45122,Army West Point,Jake Jakobsen,46924,Lehigh
+2020,01/18,Navy - Lehigh Dual,197,L,DEC,6 - 5,Jake Koser,50890,Navy,Jake Jakobsen,46924,Lehigh
+2020,01/17,American - Lehigh Dual,197,W,FALL,0:51,William Jarrell,62907,American,Jake Jakobsen,46924,Lehigh
+2020,01/11,Lehigh - Cornell Dual,197,L,MD,8 - 0,Ben Darmstadt,45876,Cornell,Jake Jakobsen,46924,Lehigh
+2020,01/10,Lehigh - Binghamton Dual,197,W,MD,15 - 1,Sam DePrez,56480,Binghamton,Jake Jakobsen,46924,Lehigh
+2020,12/30,Lehigh - Missouri Dual,197,W,MD,12 - 2,Wyatt Koelling,44722,Missouri,Jake Jakobsen,46924,Lehigh
+2020,12/30,Duke - Lehigh Dual,197,W,FALL,3:50,Vincent Baker,56930,Duke,Jake Jakobsen,46924,Lehigh
+2020,12/29,Lehigh - Minnesota Dual,197,W,MD,10 - 2,Garrett Joles,50908,Minnesota,Jake Jakobsen,46924,Lehigh
+2020,12/06,Penn State - Lehigh Dual,197,W,DEC,3 - 1,Kyle Conel,19973,Penn State,Jake Jakobsen,46924,Lehigh
+2020,11/24,Pittsburgh - Lehigh Dual,197,W,DEC,4 - 1,Kellan Stout,39528,Pittsburgh,Jake Jakobsen,46924,Lehigh
+2020,11/23,Lehigh - Princeton Dual,197,L,DEC,7 - 4,Patrick Brucki,49296,Princeton,Jake Jakobsen,46924,Lehigh
+2020,11/16,Oklahoma State - Lehigh Dual,197,L,MD,15 - 5,Dakota Geer,45373,Oklahoma State,Jake Jakobsen,46924,Lehigh
+2020,11/10,Journeyman Collegiate Classic,197,L,MFOR,0 - 0,Jake Woodley,49257,Oklahoma,Jake Jakobsen,46924,Lehigh
+2020,11/10,Journeyman Collegiate Classic,197,L,MFOR,0 - 0,Conor Fenn,45250,Davidson,Jake Jakobsen,46924,Lehigh
+2020,11/10,Journeyman Collegiate Classic,197,L,DEC,5 - 1,Jordan Pagano,20304,Rutgers,Jake Jakobsen,46924,Lehigh
+2020,11/03,Princeton Open,197,W,TF5,19 - 2 7:00,Malcolm Wiley,62915,Navy,Jake Jakobsen,46924,Lehigh
+2020,11/03,Princeton Open,197,W,MD,14 - 3,Matthew Cover,57523,Princeton,Jake Jakobsen,46924,Lehigh
+2020,11/03,Princeton Open,197,L,DEC,10 - 5,Ethan Laird,50134,Rider,Jake Jakobsen,46924,Lehigh
+2020,11/03,Princeton Open,197,W,DEC,4 - 3,Bennett Paulson,45647,Army West Point,Jake Jakobsen,46924,Lehigh
+2020,02/01,Edinboro Open,197,W,FALL,0:29,Brett Wittmann,66633,Clarion,Elijah Jones,56940,Lehigh
+2020,02/01,Edinboro Open,197,W,FALL,1:57,Cade Dallwitz,60002,Central Michigan,Elijah Jones,56940,Lehigh
+2020,02/01,Edinboro Open,197,L,DEC,3 - 1,Zach Ancewicz,49132,Edinboro,Elijah Jones,56940,Lehigh
+2020,02/01,Edinboro Open,197,L,TB-2,5 - 4,Nunzio Crowley,45185,Binghamton,Elijah Jones,56940,Lehigh
+2020,02/01,Edinboro Open,197,W,FALL,0:21,Connor Bowes,63140,Maryland,Elijah Jones,56940,Lehigh
+2020,12/22,Wilkes Open,197,W,FALL,1:09,Malcolm Hunt,65895,Ursinus,Elijah Jones,56940,Lehigh
+2020,12/22,Wilkes Open,197,W,DEC,8 - 2,Jack Files,62448,Millersville,Elijah Jones,56940,Lehigh
+2020,12/22,Wilkes Open,197,W,DEC,8 - 5,Austin Hoopes,57103,Penn State,Elijah Jones,56940,Lehigh
+2020,12/22,Wilkes Open,197,L,TF5,15 - 0 3:27,Michael Beard,50614,Penn State,Elijah Jones,56940,Lehigh
+2020,11/10,Journeyman Collegiate Classic,197,W,FALL,2:30,Martin Duane,45583,The Citadel,Elijah Jones,56940,Lehigh
+2020,11/10,Journeyman Collegiate Classic,197,L,DEC,9 - 3,Jake Kleimola,44956,Indiana,Elijah Jones,56940,Lehigh
+2020,11/10,Journeyman Collegiate Classic,197,L,DEC,11 - 8,Nino Bastianelli,50818,Brown,Elijah Jones,56940,Lehigh
+2020,11/03,Princeton Open,197,L,DEC,5 - 2,Anthony Burburija,63460,US Naval Academy Prep School,Elijah Jones,56940,Lehigh
+2020,11/03,Princeton Open,197,L,MD,14 - 4,Ethan Laird,50134,Rider,Elijah Jones,56940,Lehigh
+2020,11/03,Princeton Open,197,W,DEC,9 - 2,Sam Wustefeld,57272,Columbia,Elijah Jones,56940,Lehigh
+2020,11/03,Princeton Open,197,W,MFOR,0 - 0,Patrick Brucki,49296,Princeton,Andrew McDonald,46173,Lehigh
+2020,11/03,Princeton Open,197,W,MFOR,0 - 0,Sam DePrez,56480,Binghamton,Andrew McDonald,46173,Lehigh
+2020,11/03,Princeton Open,197,L,MD,12 - 3,Gunnar Larson,51322,Army West Point,Andrew McDonald,46173,Lehigh
+2020,11/03,Princeton Open,197,L,DEC,6 - 3,Sam Wustefeld,57272,Columbia,Andrew McDonald,46173,Lehigh
+2020,03/06,EIWA Championships,285,W,DEC,9 - 2,Yaraslau Slavikouski,62196,Harvard,Jordan Wood,45107,Lehigh
+2020,03/06,EIWA Championships,285,W,DEC,7 - 0,Brendan Furman,49113,Cornell,Jordan Wood,45107,Lehigh
+2020,03/06,EIWA Championships,285,W,DEC,11 - 4,Ben Goldin,50827,Pennsylvania,Jordan Wood,45107,Lehigh
+2020,03/06,EIWA Championships,285,W,FALL,4:42,Daniel Conley,51103,Columbia,Jordan Wood,45107,Lehigh
+2020,02/21,Arizona State - Lehigh Dual,285,L,DEC,5 - 2,Tanner Hall,40231,Arizona State,Jordan Wood,45107,Lehigh
+2020,02/20,Lehigh - Pennsylvania Dual,285,W,MD,14 - 3,Nate Hoaglund,60537,Pennsylvania,Jordan Wood,45107,Lehigh
+2020,02/14,Lehigh - Bucknell Dual,285,W,MD,12 - 0,Brandon Stokes,44634,Bucknell,Jordan Wood,45107,Lehigh
+2020,01/31,Lehigh - Army Dual,285,W,DEC,4 - 0,Ben Sullivan,49040,Army West Point,Jordan Wood,45107,Lehigh
+2020,01/18,Navy - Lehigh Dual,285,W,DEC,4 - 1,John Birchmeier,54075,Navy,Jordan Wood,45107,Lehigh
+2020,01/17,American - Lehigh Dual,285,W,MD,16 - 3,Niko Camacho,49032,American,Jordan Wood,45107,Lehigh
+2020,01/11,Lehigh - Cornell Dual,285,W,DEC,5 - 0,Brendan Furman,49113,Cornell,Jordan Wood,45107,Lehigh
+2020,01/10,Lehigh - Binghamton Dual,285,W,DEC,6 - 3,Joe Doyle,49050,Binghamton,Jordan Wood,45107,Lehigh
+2020,12/30,Lehigh - Missouri Dual,285,W,DEC,6 - 2,Jacob Bohlken,44953,Missouri,Jordan Wood,45107,Lehigh
+2020,12/30,Duke - Lehigh Dual,285,W,FALL,5:44,Jonah Niesenbaum,60444,Duke,Jordan Wood,45107,Lehigh
+2020,12/29,Lehigh - Minnesota Dual,285,L,MD,8 - 0,Gable Steveson,50624,Minnesota,Jordan Wood,45107,Lehigh
+2020,12/06,Penn State - Lehigh Dual,285,L,DEC,9 - 4,Anthony Cassar,20299,Penn State,Jordan Wood,45107,Lehigh
+2020,11/24,Pittsburgh - Lehigh Dual,285,L,DEC,10 - 6,Demetrius Thomas,47357,Pittsburgh,Jordan Wood,45107,Lehigh
+2020,11/23,Lehigh - Princeton Dual,285,W,MD,13 - 2,Aidan Conner,57524,Princeton,Jordan Wood,45107,Lehigh
+2020,11/16,Oklahoma State - Lehigh Dual,285,W,DEC,9 - 4,Austin Harris,52334,Oklahoma State,Jordan Wood,45107,Lehigh
+2020,11/10,Journeyman Collegiate Classic,285,W,DEC,8 - 3,Josiah Jones,51617,Oklahoma,Jordan Wood,45107,Lehigh
+2020,11/10,Journeyman Collegiate Classic,285,W,DEC,4 - 0,Connor Webb,50999,Oklahoma,Jordan Wood,45107,Lehigh
+2020,11/10,Journeyman Collegiate Classic,285,L,DEC,5 - 2,Tate Orndorff,50974,Utah Valley,Jordan Wood,45107,Lehigh
+2020,02/23,Mat-Town Open II,285,W,MFOR,0 - 0,Isaac Righter,62521,Unattached,Victor Lacombe,49659,Lehigh
+2020,02/23,Mat-Town Open II,285,W,DEC,8 - 4,Cole Nye,49185,Pittsburgh,Victor Lacombe,49659,Lehigh
+2020,02/23,Mat-Town Open II,285,L,DEC,3 - 2,Cole Nye,49185,Pittsburgh,Victor Lacombe,49659,Lehigh
+2020,02/23,Mat-Town Open II,285,W,MD,11 - 3,Greg Hodulick,49406,Buffalo,Victor Lacombe,49659,Lehigh
+2020,02/23,Mat-Town Open II,285,W,DEC,3 - 2,Gavin Hoffman,50609,Ohio State,Victor Lacombe,49659,Lehigh
+2020,02/23,Mat-Town Open II,285,W,FALL,1:04,Trevor Burns,56923,George Mason,Victor Lacombe,49659,Lehigh
+2020,02/01,Edinboro Open,285,W,DEC,8 - 3,Riley Smith,56459,Navy,Victor Lacombe,49659,Lehigh
+2020,02/01,Edinboro Open,285,L,DEC,3 - 2,Nicholas Boykin,65950,Ohio State,Victor Lacombe,49659,Lehigh
+2020,02/01,Edinboro Open,285,W,DEC,5 - 2,Gavin Hoffman,50609,Ohio State,Victor Lacombe,49659,Lehigh
+2020,02/01,Edinboro Open,285,L,DEC,3 - 1,Josh Heindselman,57311,Oklahoma,Victor Lacombe,49659,Lehigh
+2020,12/29,South Beach College Individual,285,L,DEC,3 - 2,Rodrigo Diaz,44851,Missouri,Victor Lacombe,49659,Lehigh
+2020,12/01,Mat-Town Open I,285,L,DEC,3 - 0,Seth Nevills,50625,Penn State,Victor Lacombe,49659,Lehigh
+2020,12/01,Mat-Town Open I,285,W,DEC,3 - 2,Sean Mullican,49344,West Virginia,Victor Lacombe,49659,Lehigh
+2020,12/01,Mat-Town Open I,285,W,DEC,3 - 2,Nolan Terrance,39572,Buffalo,Victor Lacombe,49659,Lehigh
+2020,11/10,Journeyman Collegiate Classic,285,L,SV-1,5 - 3,David Jensen,43467,Nebraska,Victor Lacombe,49659,Lehigh
+2020,11/10,Journeyman Collegiate Classic,285,W,DEC,7 - 3,Michael McAleavey,45588,The Citadel,Victor Lacombe,49659,Lehigh
+2020,11/10,Journeyman Collegiate Classic,285,L,DEC,3 - 2,Zachary Knighton-Ward,53791,Hofstra,Victor Lacombe,49659,Lehigh
+2020,11/03,Princeton Open,285,L,DEC,3 - 1,James Brady,57279,Rider,Victor Lacombe,49659,Lehigh
+2020,11/03,Princeton Open,285,L,DEC,6 - 1,Alex Esposito,50637,Rutgers,Victor Lacombe,49659,Lehigh
+2020,11/03,Princeton Open,285,W,FALL,1:28,Reginald Poulin,56383,Hofstra,Victor Lacombe,49659,Lehigh

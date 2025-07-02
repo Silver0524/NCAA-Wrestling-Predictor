@@ -1,0 +1,512 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2024,03/08,MAC Championships,125,L,MD,8 - 0,Benjamin Aranda,71804,Cleveland State,JB Dragovich,78828,George Mason
+2024,03/08,MAC Championships,125,L,FALL,2:19,Joseph Fischer,68702,Clarion,JB Dragovich,78828,George Mason
+2024,03/08,MAC Championships,125,W,DEC,4 - 1,Adan Benavidez,84848,Kent State,JB Dragovich,78828,George Mason
+2024,03/08,MAC Championships,125,L,FALL,4:00,Anthony Noto,64642,Lock Haven,JB Dragovich,78828,George Mason
+2024,03/08,MAC Championships,125,W,DEC,4 - 1,Max Elton,79785,Buffalo,JB Dragovich,78828,George Mason
+2024,02/18,Lindenwood - George Mason Dual,125,L,TF5,19 - 3 4:28,Austin Kegley,70722,Lindenwood,JB Dragovich,78828,George Mason
+2024,02/10,George Mason - Virginia Tech Dual,125,L,MD,14 - 3,Cooper Flynn,72148,Virginia Tech,JB Dragovich,78828,George Mason
+2024,02/04,Rider - George Mason Dual,125,L,TF5,18 - 3 5:00,Tyler Klinsky,62353,Rider,JB Dragovich,78828,George Mason
+2024,01/26,George Mason - Bloomsburg Dual,125,W,DEC,8 - 5,Bronson Garber,56759,Bloomsburg,JB Dragovich,78828,George Mason
+2024,01/25,George Mason - Lock Haven Dual,125,L,FALL,4:05,Anthony Noto,64642,Lock Haven,JB Dragovich,78828,George Mason
+2024,01/19,George Mason - Ohio Dual,125,L,DEC,7 - 0,Ryan Meek,79652,Ohio,JB Dragovich,78828,George Mason
+2024,01/14,Hofstra - George Mason Dual,125,L,DEC,4 - 2,Dylan Acevedo-Switzer,73023,Hofstra,JB Dragovich,78828,George Mason
+2024,01/13,Edinboro - George Mason Dual,125,W,MD,17 - 5,Caleb Edwards,72216,Edinboro,JB Dragovich,78828,George Mason
+2024,01/06,George Mason - Virginia Dual,125,L,DEC,3 - 0,Kyle Montaperto,73138,Virginia,JB Dragovich,78828,George Mason
+2024,12/21,George Mason - Queens Dual,125,W,TF5,24 - 7 2:52,Daniel Graham,79815,Queens,JB Dragovich,78828,George Mason
+2024,12/03,Patriot Open,125,L,MD,18 - 6,Dayton DelViscio,73322,Navy,JB Dragovich,78828,George Mason
+2024,12/03,Patriot Open,125,L,FALL,1:40,Jace Schafer,73377,West Virginia,JB Dragovich,78828,George Mason
+2024,11/21,George Mason - American Dual,125,L,FALL,3:33,Jack Maida,72679,American,JB Dragovich,78828,George Mason
+2024,11/11,Williams College - George Mason Dual,125,W,MD,19 - 9,Lucas Johnson,77188,Williams College,JB Dragovich,78828,George Mason
+2024,11/11,Millersville - George Mason Dual,125,W,MD,13 - 5,Dom Flatt,72628,Millersville,JB Dragovich,78828,George Mason
+2024,11/05,Battle at The Citadel,125,L,DEC,4 - 1,Ben Monn,69708,George Mason,JB Dragovich,78828,George Mason
+2024,11/05,Battle at The Citadel,125,L,FALL,2:56,Blaine Frazier,78575,Indiana,JB Dragovich,78828,George Mason
+2024,11/05,Battle at The Citadel,125,W,DEC,7 - 3,Shamil Kalmatov,72680,American,JB Dragovich,78828,George Mason
+2024,02/25,Patriot Last Chance Open,133,W,FALL,2:21,Xander Aguilar,92893,Unattached,Markel Baker,78892,George Mason
+2024,02/25,Patriot Last Chance Open,133,L,DEC,4 - 2,Micah Roes,67299,Binghamton,Markel Baker,78892,George Mason
+2024,02/25,Patriot Last Chance Open,133,W,TF5,21 - 5 6:08,Austin Pollard,84789,Lock Haven,Markel Baker,78892,George Mason
+2024,02/25,Patriot Last Chance Open,133,W,MFOR,0 - 0,Kyle Waterman,67256,Drexel,Markel Baker,78892,George Mason
+2024,11/05,Clarion Open,125,L,MD,14 - 5,Marcus Blaze,86124,High School,Markel Baker,78892,George Mason
+2024,11/05,Clarion Open,125,W,TF5,22 - 6 7:00,Hayden Benter,84926,Navy,Markel Baker,78892,George Mason
+2024,11/05,Clarion Open,125,W,DEC,9 - 7,Cael Nasdeo,77270,NLWC,Markel Baker,78892,George Mason
+2024,11/05,Clarion Open,125,L,DEC,9 - 8,Brendan McCrone,76350,Ohio State,Markel Baker,78892,George Mason
+2024,11/05,Clarion Open,125,W,MD,20 - 6,Nico Calello,73713,Kent State,Markel Baker,78892,George Mason
+2024,11/05,Clarion Open,125,W,SV-1,7 - 4,Max Elton,79785,Buffalo,Markel Baker,78892,George Mason
+2024,12/21,George Mason - Gardner-Webb Dual,125,L,INJ,4:23,Drew West,50041,Gardner-Webb,Ben Monn,69708,George Mason
+2024,12/03,Patriot Open,125,W,DEC,4 - 2,Nick Treaster,89471,Unattached,Ben Monn,69708,George Mason
+2024,12/03,Patriot Open,125,W,DEC,6 - 2,Hayden Benter,84926,Navy,Ben Monn,69708,George Mason
+2024,12/03,Patriot Open,125,L,MD,18 - 9,Ryan Miller,62350,Pennsylvania,Ben Monn,69708,George Mason
+2024,12/03,Patriot Open,125,L,DEC,9 - 2,Chad Bellis,71922,Appalachian State,Ben Monn,69708,George Mason
+2024,12/02,Cleveland State - George Mason Dual,125,L,DEC,4 - 1,Benjamin Aranda,71804,Cleveland State,Ben Monn,69708,George Mason
+2024,12/02,Davidson - George Mason Dual,125,W,DEC,3 - 0,Enis Ljikovic,84455,Davidson,Ben Monn,69708,George Mason
+2024,11/18,Minnesota - George Mason Dual,125,L,TF5,22 - 5 5:00,Patrick McKee,50594,Minnesota,Ben Monn,69708,George Mason
+2024,11/18,Morgan State - George Mason Dual,125,W,MD,8 - 0,Kevin Lopez,77599,Morgan State,Ben Monn,69708,George Mason
+2024,11/11,Clarion - George Mason Dual,125,W,TB-1,2 - 1,Joseph Fischer,68702,Clarion,Ben Monn,69708,George Mason
+2024,11/11,The Citadel - George Mason Dual,125,W,SV-1,4 - 1,Malik Hardy,73357,The Citadel,Ben Monn,69708,George Mason
+2024,11/05,Battle at The Citadel,125,W,FALL,2:58,Gunner Chambers,84437,George Mason,Ben Monn,69708,George Mason
+2024,11/05,Battle at The Citadel,125,W,DEC,4 - 1,JB Dragovich,78828,George Mason,Ben Monn,69708,George Mason
+2024,11/05,Battle at The Citadel,125,W,DEC,3 - 0,Marcus Wright,84410,The Citadel,Ben Monn,69708,George Mason
+2024,11/05,Battle at The Citadel,125,L,DEC,4 - 2,Desmond Pleasant,71583,Drexel,Ben Monn,69708,George Mason
+2024,11/05,Battle at The Citadel,125,L,MD,12 - 3,Chad Bellis,71922,Appalachian State,Ben Monn,69708,George Mason
+2024,03/03,Zingo Nationals,125,W,TF5,15 - 0 2:11,Kyle Hill,79296,Rider,Gunner Chambers,84437,George Mason
+2024,03/03,Zingo Nationals,125,L,FALL,2:21,Gabe Giampietro,72979,Drexel,Gunner Chambers,84437,George Mason
+2024,02/25,Patriot Last Chance Open,125,W,FALL,0:38,Kaleb Inzana,92896,Unattached,Gunner Chambers,84437,George Mason
+2024,02/25,Patriot Last Chance Open,125,L,DEC,7 - 4,Anthony Isek,85741,Unattached,Gunner Chambers,84437,George Mason
+2024,01/28,Mat-Town Open II,125,L,TF5,17 - 2 3:05,Matt Ricci,79431,Navy,Gunner Chambers,84437,George Mason
+2024,01/28,Mat-Town Open II,125,L,FALL,1:28,Gabe Giampietro,72979,Drexel,Gunner Chambers,84437,George Mason
+2024,01/05,David Lehman Open,125,W,DEC,16 - 9,Luke Sirianni,84262,United States Military Academy,Gunner Chambers,84437,George Mason
+2024,01/05,David Lehman Open,125,L,MD,15 - 6,Tommy Link,73764,United States Military Academy,Gunner Chambers,84437,George Mason
+2024,01/05,David Lehman Open,125,L,TF5,18 - 3 7:00,Nico Calello,73713,Kent State,Gunner Chambers,84437,George Mason
+2024,12/03,Patriot Open,125,L,TF5,18 - 2 3:17,Hayden Benter,84926,Navy,Gunner Chambers,84437,George Mason
+2024,12/03,Patriot Open,125,W,TF5,20 - 5 5:52,Jaden Felipe,84925,Navy,Gunner Chambers,84437,George Mason
+2024,12/03,Patriot Open,125,L,FALL,2:05,Colby McBride,79082,Appalachian State,Gunner Chambers,84437,George Mason
+2024,11/05,Battle at The Citadel,125,L,FALL,2:58,Ben Monn,69708,George Mason,Gunner Chambers,84437,George Mason
+2024,11/05,Battle at The Citadel,125,W,FALL,6:46,Genaro De La Garza,84461,The Citadel,Gunner Chambers,84437,George Mason
+2024,11/05,Battle at The Citadel,125,L,FALL,3:17,Gabe Giampietro,72979,Drexel,Gunner Chambers,84437,George Mason
+2024,03/08,MAC Championships,133,L,DEC,4 - 2,Mikey Kaminski,68722,Northern Illinois,Brandon Wittenberg,57647,George Mason
+2024,03/08,MAC Championships,133,L,DEC,10 - 7,Vince Perez,60001,Central Michigan,Brandon Wittenberg,57647,George Mason
+2024,03/08,MAC Championships,133,L,MD,8 - 0,Marcel Lopez,78290,SIU Edwardsville,Brandon Wittenberg,57647,George Mason
+2024,03/08,MAC Championships,133,W,DEC,8 - 3,Nick Molchak,78590,Cleveland State,Brandon Wittenberg,57647,George Mason
+2024,02/18,Lindenwood - George Mason Dual,133,W,TF5,20 - 4 7:00,Caiden Pelc,79804,Lindenwood,Brandon Wittenberg,57647,George Mason
+2024,02/10,George Mason - Virginia Tech Dual,133,L,MD,11 - 3,Sam Latona,56742,Virginia Tech,Brandon Wittenberg,57647,George Mason
+2024,02/04,Rider - George Mason Dual,133,L,FALL,1:34,Richie Koehler,51648,Rider,Brandon Wittenberg,57647,George Mason
+2024,01/26,George Mason - Bloomsburg Dual,133,W,TF5,20 - 3 4:41,Major Lewis,84530,Bloomsburg,Brandon Wittenberg,57647,George Mason
+2024,01/25,George Mason - Lock Haven Dual,133,L,DEC,4 - 2,Gable Strickland,71822,Lock Haven,Brandon Wittenberg,57647,George Mason
+2024,01/19,George Mason - Ohio Dual,133,L,DEC,8 - 5,Mason Brugh,76364,Ohio,Brandon Wittenberg,57647,George Mason
+2024,01/13,Edinboro - George Mason Dual,133,W,DEC,4 - 1,Lane Aikey,71975,Edinboro,Brandon Wittenberg,57647,George Mason
+2024,12/29,Midlands Championships,133,L,MD,12 - 4,Lucian Brink,64945,Northern Illinois,Brandon Wittenberg,57647,George Mason
+2024,12/29,Midlands Championships,133,L,SV-1,8 - 6,Gable Porter,78748,Virginia,Brandon Wittenberg,57647,George Mason
+2024,12/21,George Mason - Queens Dual,133,W,TF5,18 - 3 3:11,David Makupson,79818,Queens,Brandon Wittenberg,57647,George Mason
+2024,12/21,George Mason - Gardner-Webb Dual,133,L,MD,9 - 0,Tyson Lane,75724,Gardner-Webb,Brandon Wittenberg,57647,George Mason
+2024,11/05,Battle at The Citadel,133,W,MD,11 - 3,Isaac Thornton,78984,Indiana,Brandon Wittenberg,57647,George Mason
+2024,11/05,Battle at The Citadel,133,L,MFOR,0 - 0,George Rosas,78686,The Citadel,Brandon Wittenberg,57647,George Mason
+2024,11/05,Battle at The Citadel,133,L,INJ,6:42,Jaxon Maroney,62880,Drexel,Brandon Wittenberg,57647,George Mason
+2024,01/14,Hofstra - George Mason Dual,133,L,MD,9 - 1,Dylan Ryder,50876,Hofstra,Shawn Nonaka,62580,George Mason
+2024,01/06,George Mason - Virginia Dual,133,L,DEC,10 - 3,Keyveon Roller,73139,Virginia,Shawn Nonaka,62580,George Mason
+2024,12/02,Cleveland State - George Mason Dual,133,W,DEC,4 - 2,Canyon Wells,71802,Cleveland State,Shawn Nonaka,62580,George Mason
+2024,12/02,Davidson - George Mason Dual,133,W,DEC,8 - 2,Hale Robinson,70746,Davidson,Shawn Nonaka,62580,George Mason
+2024,11/21,George Mason - American Dual,133,L,DEC,4 - 2,Maximillian Leete,72678,American,Shawn Nonaka,62580,George Mason
+2024,11/11,Clarion - George Mason Dual,133,W,TB-1,2 - 1,Scott Johnson,78992,Clarion,Shawn Nonaka,62580,George Mason
+2024,11/11,The Citadel - George Mason Dual,133,L,DEC,5 - 4,George Rosas,78686,The Citadel,Shawn Nonaka,62580,George Mason
+2024,11/05,Battle at The Citadel,133,L,DEC,14 - 7,Cayden Rooks,56710,Indiana,Shawn Nonaka,62580,George Mason
+2024,11/05,Battle at The Citadel,133,L,MD,8 - 0,George Rosas,78686,The Citadel,Shawn Nonaka,62580,George Mason
+2024,11/05,Battle at The Citadel,133,W,DEC,2 - 0,John Hildebrandt,78511,Drexel,Shawn Nonaka,62580,George Mason
+2024,11/05,Battle at The Citadel,133,W,DEC,1 - 0,Cael McIntyre,84259,American,Shawn Nonaka,62580,George Mason
+2024,12/03,Patriot Open,133,W,TF5,15 - 0 3:19,Jimmie Jones,89451,Morgan State,Patrick Schellpfeffer,69712,George Mason
+2024,12/03,Patriot Open,133,L,DEC,4 - 2,Garrett Totten,81066,Navy,Patrick Schellpfeffer,69712,George Mason
+2024,12/03,Patriot Open,133,L,TF5,16 - 0 2:40,Braxton Brown,72103,Maryland,Patrick Schellpfeffer,69712,George Mason
+2024,11/18,Minnesota - George Mason Dual,133,L,TF5,18 - 2 4:36,Jager Eisch,72139,Minnesota,Patrick Schellpfeffer,69712,George Mason
+2024,11/18,Morgan State - George Mason Dual,133,L,DEC,9 - 6,Shawn Ryncarz,84327,Morgan State,Patrick Schellpfeffer,69712,George Mason
+2024,11/11,Williams College - George Mason Dual,133,W,DEC,15 - 14,Jack Napeloni,77192,Williams College,Patrick Schellpfeffer,69712,George Mason
+2024,11/11,Millersville - George Mason Dual,133,L,DEC,8 - 6,Devin Flannery,62457,Millersville,Patrick Schellpfeffer,69712,George Mason
+2024,11/05,Battle at The Citadel,133,L,DEC,12 - 8,John Hildebrandt,78511,Drexel,Patrick Schellpfeffer,69712,George Mason
+2024,11/05,Battle at The Citadel,133,L,MD,12 - 4,Jaxon Maroney,62880,Drexel,Patrick Schellpfeffer,69712,George Mason
+2024,11/05,Battle at The Citadel,133,W,MFOR,0 - 0,Ethan Shell,73190,Appalachian State,Patrick Schellpfeffer,69712,George Mason
+2024,01/28,Mat-Town Open II,133,L,MD,11 - 3,Vinnie D'Alessandro,83326,High School,Charlie Bunting,78811,George Mason
+2024,01/28,Mat-Town Open II,133,W,DEC,7 - 3,Joe Haynes,73057,Virginia,Charlie Bunting,78811,George Mason
+2024,01/28,Mat-Town Open II,133,L,DEC,8 - 2,Jake Gliva,51241,Minnesota,Charlie Bunting,78811,George Mason
+2024,01/14,Purple Raider Open,133,W,TF5,16 - 1 7:00,Matthew Lombardo,85755,Garrett College,Charlie Bunting,78811,George Mason
+2024,01/14,Purple Raider Open,133,W,MD,14 - 5,Cole French,78180,Buffalo,Charlie Bunting,78811,George Mason
+2024,01/14,Purple Raider Open,133,W,DEC,11 - 5,Landon Hoffman,86494,West Liberty University,Charlie Bunting,78811,George Mason
+2024,12/03,Patriot Open,133,W,MD,13 - 2,Caden Hagler,74459,Virginia Tech,Charlie Bunting,78811,George Mason
+2024,12/03,Patriot Open,133,L,MD,14 - 5,Garrett Totten,81066,Navy,Charlie Bunting,78811,George Mason
+2024,12/03,Patriot Open,133,L,DEC,4 - 1,Tyler Ferrera,78735,Spartan Combat RTC,Charlie Bunting,78811,George Mason
+2024,03/08,MAC Championships,141,W,FALL,2:28,Jacob Brennaman,80127,Edinboro,Dominic Hargrove,78900,George Mason
+2024,03/08,MAC Championships,141,W,CMFF,0 - 0,Ryan Sullivan,56764,Clarion,Dominic Hargrove,78900,George Mason
+2024,03/08,MAC Championships,141,L,FALL,4:19,Jimmy Nugent,79053,Central Michigan,Dominic Hargrove,78900,George Mason
+2024,03/08,MAC Championships,141,W,FALL,0:47,Dylan Layton,72925,Cleveland State,Dominic Hargrove,78900,George Mason
+2024,03/08,MAC Championships,141,L,MD,9 - 0,Ryan Sullivan,56764,Clarion,Dominic Hargrove,78900,George Mason
+2024,02/10,George Mason - Virginia Tech Dual,141,L,TF5,15 - 0 7:00,Tom Crook,75643,Virginia Tech,Dominic Hargrove,78900,George Mason
+2024,02/04,Rider - George Mason Dual,141,W,SV-1,4 - 1,Will Betancourt,67444,Rider,Dominic Hargrove,78900,George Mason
+2024,01/19,George Mason - Ohio Dual,141,L,DEC,6 - 3,Aidan Waszak,73163,Ohio,Dominic Hargrove,78900,George Mason
+2024,12/29,Midlands Championships,141,W,FALL,0:42,Hunter Mason,73569,Virginia Tech,Dominic Hargrove,78900,George Mason
+2024,12/29,Midlands Championships,141,L,DEC,3 - 2,Christian White,72619,Purdue,Dominic Hargrove,78900,George Mason
+2024,12/29,Midlands Championships,141,L,DEC,6 - 2,Dylan Layton,72925,Cleveland State,Dominic Hargrove,78900,George Mason
+2024,12/21,George Mason - Queens Dual,141,W,FALL,1:33,Ananth Manibushan,79816,Queens,Dominic Hargrove,78900,George Mason
+2024,12/21,George Mason - Gardner-Webb Dual,141,L,FALL,5:26,Todd Carter,69785,Gardner-Webb,Dominic Hargrove,78900,George Mason
+2024,12/03,Patriot Open,141,L,DEC,8 - 3,Tyler Tracy,84335,NC State,Dominic Hargrove,78900,George Mason
+2024,12/03,Patriot Open,141,W,DEC,8 - 1,Clayton Gabrielson,79306,Maryland,Dominic Hargrove,78900,George Mason
+2024,12/03,Patriot Open,141,W,TF5,16 - 1 7:00,Carter Tate,78961,Spartan Combat RTC,Dominic Hargrove,78900,George Mason
+2024,12/03,Patriot Open,141,L,DEC,10 - 3,Tyler Hunt,55813,Navy,Dominic Hargrove,78900,George Mason
+2024,11/21,George Mason - American Dual,141,L,DEC,4 - 2,Cael McIntyre,84259,American,Dominic Hargrove,78900,George Mason
+2024,11/18,Minnesota - George Mason Dual,141,L,MD,10 - 2,Vance Vombaur,68715,Minnesota,Dominic Hargrove,78900,George Mason
+2024,11/11,Williams College - George Mason Dual,141,W,MD,14 - 2,Tylor Stubbs,87617,Williams College,Dominic Hargrove,78900,George Mason
+2024,11/11,Millersville - George Mason Dual,141,W,TF5,20 - 5 7:00,Aidan Micheli,84774,Millersville,Dominic Hargrove,78900,George Mason
+2024,11/11,Clarion - George Mason Dual,141,L,SV-1,2 - 1,Tye Varndell,55697,Clarion,Dominic Hargrove,78900,George Mason
+2024,11/05,Battle at The Citadel,141,W,DEC,6 - 0,Ethan Renager,70396,George Mason,Dominic Hargrove,78900,George Mason
+2024,11/05,Battle at The Citadel,141,L,DEC,4 - 3,Gabe Onorato,67006,Drexel,Dominic Hargrove,78900,George Mason
+2024,11/05,Battle at The Citadel,141,L,DEC,5 - 3,Isaac Byers,62807,Appalachian State,Dominic Hargrove,78900,George Mason
+2024,01/25,George Mason - Lock Haven Dual,141,L,TF5,21 - 5 4:23,Wyatt Henson,63069,Lock Haven,Nathan Higley,71834,George Mason
+2024,01/14,Hofstra - George Mason Dual,141,W,DEC,6 - 5,Alex Turley,76502,Hofstra,Nathan Higley,71834,George Mason
+2024,01/13,Edinboro - George Mason Dual,141,W,TF5,17 - 0 4:37,Jacob Brennaman,80127,Edinboro,Nathan Higley,71834,George Mason
+2024,01/06,George Mason - Virginia Dual,141,L,MD,18 - 7,Kyren Butler,72944,Virginia,Nathan Higley,71834,George Mason
+2024,12/03,Patriot Open,141,W,FALL,1:47,Carter Nix,84769,Morgan State,Nathan Higley,71834,George Mason
+2024,12/03,Patriot Open,141,W,DEC,9 - 8,Michael Pizzuto,79485,Maryland,Nathan Higley,71834,George Mason
+2024,12/03,Patriot Open,141,W,FALL,0:24,Evan Mougalian,72984,PRTC,Nathan Higley,71834,George Mason
+2024,12/03,Patriot Open,141,W,DEC,7 - 4,Nico Nardone,71688,Pennsylvania,Nathan Higley,71834,George Mason
+2024,12/03,Patriot Open,141,W,MD,8 - 0,Cael McIntyre,84259,American,Nathan Higley,71834,George Mason
+2024,12/02,Davidson - George Mason Dual,141,W,MD,14 - 3,Joshua Viarengo,71129,Davidson,Nathan Higley,71834,George Mason
+2024,11/18,Morgan State - George Mason Dual,141,W,FALL,2:32,Blake Bryant,84770,Morgan State,Nathan Higley,71834,George Mason
+2024,02/10,George Mason - Virginia Tech Dual,149,L,TF5,20 - 4 4:08,Mac Church,73717,Virginia Tech,Michael Rapuano,71926,George Mason
+2024,12/03,Patriot Open,141,W,FALL,3:50,Donovan Chavis,84367,Virginia Tech,Michael Rapuano,71926,George Mason
+2024,12/03,Patriot Open,141,W,DEC,16 - 11,Tyler Tracy,84335,NC State,Michael Rapuano,71926,George Mason
+2024,12/03,Patriot Open,141,L,FALL,2:23,Frank Antoelli,75998,Navy,Michael Rapuano,71926,George Mason
+2024,12/03,Patriot Open,141,L,INJ,2:15,Kaden Keiser,75728,Appalachian State,Michael Rapuano,71926,George Mason
+2024,12/03,Patriot Open,141,W,TF5,22 - 4 6:02,Cael McIntyre,84259,American,Michael Rapuano,71926,George Mason
+2024,11/11,Williams College - George Mason Dual,149,L,FALL,1:12,Caleb Seyfried,79690,Williams College,Michael Rapuano,71926,George Mason
+2024,11/11,The Citadel - George Mason Dual,141,L,MD,12 - 1,Jacob Silka,78557,The Citadel,Michael Rapuano,71926,George Mason
+2024,11/05,Battle at The Citadel,141,L,DEC,3 - 2,Gabe Onorato,67006,Drexel,Michael Rapuano,71926,George Mason
+2024,11/05,Battle at The Citadel,141,L,TF5,20 - 5 5:54,Kaden Keiser,75728,Appalachian State,Michael Rapuano,71926,George Mason
+2024,11/05,Battle at The Citadel,141,L,DEC,6 - 0,Dominic Hargrove,78900,George Mason,Ethan Renager,70396,George Mason
+2024,11/05,Battle at The Citadel,141,L,TB-2,2 - 1,Heath Gonyer,62522,Appalachian State,Ethan Renager,70396,George Mason
+2024,03/08,MAC Championships,149,W,TF5,19 - 4 4:31,Derek Raike,76503,Ohio,Kaden Cassidy,65847,George Mason
+2024,03/08,MAC Championships,149,L,DEC,9 - 6,Caleb Tyus,72912,SIU Edwardsville,Kaden Cassidy,65847,George Mason
+2024,03/08,MAC Championships,149,W,DEC,8 - 2,Caleb Tyus,72912,SIU Edwardsville,Kaden Cassidy,65847,George Mason
+2024,03/08,MAC Championships,149,L,DEC,8 - 5,Quinn Kinner,51144,Rider,Kaden Cassidy,65847,George Mason
+2024,03/08,MAC Championships,149,W,FALL,1:32,Kaleb Burgess,72225,Buffalo,Kaden Cassidy,65847,George Mason
+2024,02/18,Lindenwood - George Mason Dual,149,W,TF5,15 - 0 0:49,Cruz Lara,71649,Lindenwood,Kaden Cassidy,65847,George Mason
+2024,02/04,Rider - George Mason Dual,149,L,DEC,4 - 0,Quinn Kinner,51144,Rider,Kaden Cassidy,65847,George Mason
+2024,01/26,George Mason - Bloomsburg Dual,149,W,MD,13 - 2,Cade Balestrini,62514,Bloomsburg,Kaden Cassidy,65847,George Mason
+2024,01/25,George Mason - Lock Haven Dual,149,L,FALL,1:44,Nicholas Stonecheck,62691,Lock Haven,Kaden Cassidy,65847,George Mason
+2024,01/19,George Mason - Ohio Dual,149,W,FALL,1:58,Dominic Hoffarth,84349,Ohio,Kaden Cassidy,65847,George Mason
+2024,01/14,Hofstra - George Mason Dual,149,L,FALL,6:15,Noah Tapia,84311,Hofstra,Kaden Cassidy,65847,George Mason
+2024,01/13,Edinboro - George Mason Dual,149,W,TF5,15 - 0 1:59,Colin Roberts,73166,Edinboro,Kaden Cassidy,65847,George Mason
+2024,01/06,George Mason - Virginia Dual,149,W,DEC,5 - 4,Erik Roggie,73059,Virginia,Kaden Cassidy,65847,George Mason
+2024,12/21,George Mason - Queens Dual,149,W,FALL,0:58,Suhaib Hatamleh,84826,Queens,Kaden Cassidy,65847,George Mason
+2024,12/21,George Mason - Gardner-Webb Dual,149,W,DEC,10 - 4,Zach Price,50932,Gardner-Webb,Kaden Cassidy,65847,George Mason
+2024,12/02,Cleveland State - George Mason Dual,149,L,DEC,9 - 4,Douglas Terry,70741,Cleveland State,Kaden Cassidy,65847,George Mason
+2024,12/02,Davidson - George Mason Dual,149,W,DEC,5 - 2,Xavier McKnight,84300,Davidson,Kaden Cassidy,65847,George Mason
+2024,11/21,George Mason - American Dual,149,W,TF5,15 - 0 1:38,Gage Owen,78773,American,Kaden Cassidy,65847,George Mason
+2024,11/18,Minnesota - George Mason Dual,149,L,MD,20 - 8,Drew Roberts,72140,Minnesota,Kaden Cassidy,65847,George Mason
+2024,11/18,Morgan State - George Mason Dual,149,W,TF5,16 - 1 4:38,Aaron Turner,84328,Morgan State,Kaden Cassidy,65847,George Mason
+2024,11/11,Millersville - George Mason Dual,149,W,MD,15 - 3,Craig Cook,63176,Millersville,Kaden Cassidy,65847,George Mason
+2024,11/11,Clarion - George Mason Dual,149,L,MD,10 - 0,Kyle Schickel,67305,Clarion,Kaden Cassidy,65847,George Mason
+2024,11/11,The Citadel - George Mason Dual,149,W,DEC,7 - 6,Carson DesRosier,78491,The Citadel,Kaden Cassidy,65847,George Mason
+2024,11/05,Battle at The Citadel,149,L,DEC,7 - 2,Graham Rooks,51283,Indiana,Kaden Cassidy,65847,George Mason
+2024,11/05,Battle at The Citadel,149,W,TF5,15 - 0 1:47,Dillon Roman,78297,The Citadel,Kaden Cassidy,65847,George Mason
+2024,11/05,Battle at The Citadel,149,W,DEC,11 - 9,Jeremiah Price,76306,Appalachian State,Kaden Cassidy,65847,George Mason
+2024,03/03,Zingo Nationals,149,L,MFOR,0 - 0,Cole Cifrodelli,85161,Rider,Cale Roggie,84307,George Mason
+2024,03/03,Zingo Nationals,149,L,MFOR,0 - 0,Gage Owen,78773,American,Cale Roggie,84307,George Mason
+2024,01/28,Mat-Town Open II,149,L,INJ,6:53,Jack Pletcher,76351,Pittsburgh,Cale Roggie,84307,George Mason
+2024,01/28,Mat-Town Open II,149,L,DEC,8 - 2,Gage Owen,78773,American,Cale Roggie,84307,George Mason
+2024,01/14,Purple Raider Open,149,W,TF5,17 - 2 7:00,Joey Fumic,87698,Unattached,Cale Roggie,84307,George Mason
+2024,01/14,Purple Raider Open,149,W,SV-1,4 - 1,Connor Saylor,81719,Cleveland State,Cale Roggie,84307,George Mason
+2024,01/14,Purple Raider Open,149,W,MD,11 - 2,Michael Dolan,73378,West Virginia,Cale Roggie,84307,George Mason
+2024,01/14,Purple Raider Open,149,W,TF5,20 - 3 7:00,Kyle Bizjak,86128,John Carroll,Cale Roggie,84307,George Mason
+2024,01/05,David Lehman Open,149,W,TF5,15 - 0 1:34,Dylan Zenion,84501,Hofstra,Cale Roggie,84307,George Mason
+2024,01/05,David Lehman Open,149,L,DEC,6 - 4,Noah Tapia,84311,Hofstra,Cale Roggie,84307,George Mason
+2024,01/05,David Lehman Open,149,L,TF5,17 - 1 3:14,Kelly Dunnigan,71694,Pennsylvania,Cale Roggie,84307,George Mason
+2024,01/05,David Lehman Open,149,W,MD,17 - 7,Cole Cifrodelli,85161,Rider,Cale Roggie,84307,George Mason
+2024,12/03,Patriot Open,149,L,MD,11 - 3,Lucas Kapusta,84439,Lock Haven,Cale Roggie,84307,George Mason
+2024,12/03,Patriot Open,149,L,DEC,4 - 2,Joe Fisk,79088,Maryland,Cale Roggie,84307,George Mason
+2024,12/03,Patriot Open,149,W,DEC,13 - 7,Luke Jacobs,73075,Maryland,Cale Roggie,84307,George Mason
+2024,11/05,Battle at The Citadel,149,L,DEC,8 - 2,Carson DesRosier,78491,The Citadel,Cale Roggie,84307,George Mason
+2024,11/05,Battle at The Citadel,149,W,TF5,19 - 4 4:29,Dillon Roman,78297,The Citadel,Cale Roggie,84307,George Mason
+2024,11/05,Battle at The Citadel,149,L,DEC,5 - 0,Hayden Watson,74085,The Citadel,Cale Roggie,84307,George Mason
+2024,03/03,Zingo Nationals,149,W,MFOR,0 - 0,Cody Tavoso,84358,Princeton,Cam McKay,84759,George Mason
+2024,03/03,Zingo Nationals,149,L,FALL,2:10,Kannon Webster,80230,Illinois,Cam McKay,84759,George Mason
+2024,03/03,Zingo Nationals,149,L,TF5,16 - 1 2:26,Christopher Martino,72987,Princeton,Cam McKay,84759,George Mason
+2024,02/25,Patriot Last Chance Open,149,W,CMFF,0 - 0,Amonn Ohl,71965,Edinboro,Cam McKay,84759,George Mason
+2024,02/25,Patriot Last Chance Open,149,L,TF5,15 - 0 3:00,Jude Swisher,73210,Pennsylvania,Cam McKay,84759,George Mason
+2024,02/25,Patriot Last Chance Open,149,L,TF5,17 - 2 6:29,Hagen Heistand,76354,Campbell,Cam McKay,84759,George Mason
+2024,01/28,Mat-Town Open II,149,L,FALL,1:00,Tyler Kasak,78731,Penn State,Cam McKay,84759,George Mason
+2024,01/28,Mat-Town Open II,149,W,DEC,6 - 3,Frank Antoelli,75998,Navy,Cam McKay,84759,George Mason
+2024,01/28,Mat-Town Open II,149,L,SV-1,4 - 1,Jack Marlow,73355,Pittsburgh,Cam McKay,84759,George Mason
+2024,01/05,David Lehman Open,149,L,MD,11 - 0,Craig Cook,63176,Millersville,Cam McKay,84759,George Mason
+2024,01/05,David Lehman Open,149,L,DEC,2 - 1,Antonio Segura,64117,American,Cam McKay,84759,George Mason
+2024,03/21,NCAA Championships,157,L,TF5,15 - 0 7:00,Ryder Downey,78639,Northern Iowa,DJ McGee,78901,George Mason
+2024,03/21,NCAA Championships,157,W,DEC,4 - 2,Sonny Santiago,61113,North Carolina,DJ McGee,78901,George Mason
+2024,03/21,NCAA Championships,157,L,SV-1,4 - 1,Brayton Lee,52079,Indiana,DJ McGee,78901,George Mason
+2024,03/08,MAC Championships,157,L,DEC,2 - 0,Peyten Kellar,73168,Ohio,DJ McGee,78901,George Mason
+2024,03/08,MAC Championships,157,W,DEC,4 - 3,Keegan Knapp,79795,Kent State,DJ McGee,78901,George Mason
+2024,03/08,MAC Championships,157,W,DEC,4 - 3,Johnny Lovett,61935,Central Michigan,DJ McGee,78901,George Mason
+2024,02/04,Rider - George Mason Dual,157,W,DEC,4 - 2,Colton Washleski,72909,Rider,DJ McGee,78901,George Mason
+2024,01/19,George Mason - Ohio Dual,157,L,DEC,3 - 0,Peyten Kellar,73168,Ohio,DJ McGee,78901,George Mason
+2024,01/14,Hofstra - George Mason Dual,157,W,SV-1,6 - 3,Jurius Clark,78553,Hofstra,DJ McGee,78901,George Mason
+2024,01/13,Edinboro - George Mason Dual,157,W,DEC,12 - 6,Steffan Lynch,84643,Edinboro,DJ McGee,78901,George Mason
+2024,01/06,George Mason - Virginia Dual,157,W,DEC,7 - 2,Nick Sanko,72927,Virginia,DJ McGee,78901,George Mason
+2024,12/29,Midlands Championships,157,W,FALL,1:02,Logan Swaw,79553,Illinois,DJ McGee,78901,George Mason
+2024,12/29,Midlands Championships,157,W,SV-1,4 - 1,Jimmy Harrington,74567,Harvard,DJ McGee,78901,George Mason
+2024,12/29,Midlands Championships,157,W,DEC,3 - 2,Rocco Camillaci,73321,Princeton,DJ McGee,78901,George Mason
+2024,12/29,Midlands Championships,157,W,MD,10 - 1,Gavin Model,63172,Wisconsin,DJ McGee,78901,George Mason
+2024,12/29,Midlands Championships,157,W,DEC,3 - 2,Johnny Lovett,61935,Central Michigan,DJ McGee,78901,George Mason
+2024,12/29,Midlands Championships,157,L,DEC,4 - 2,Lucas Revano,56734,Pennsylvania,DJ McGee,78901,George Mason
+2024,12/29,Midlands Championships,157,W,DEC,4 - 2,Alex Hornfeck,56494,West Virginia,DJ McGee,78901,George Mason
+2024,12/29,Midlands Championships,157,L,SV-1,4 - 1,Jacori Teemer,50581,Arizona State,DJ McGee,78901,George Mason
+2024,12/21,George Mason - Queens Dual,157,W,FALL,2:48,Easton Tobia,67331,Queens,DJ McGee,78901,George Mason
+2024,12/21,George Mason - Gardner-Webb Dual,157,W,DEC,4 - 2,Tyler Brignola,73727,Gardner-Webb,DJ McGee,78901,George Mason
+2024,12/02,Cleveland State - George Mason Dual,157,W,DEC,13 - 7,Shane Heil,72593,Cleveland State,DJ McGee,78901,George Mason
+2024,12/02,Davidson - George Mason Dual,157,L,TB-1,3 - 2,Tanner Peake,78288,Davidson,DJ McGee,78901,George Mason
+2024,11/21,George Mason - American Dual,157,W,DEC,7 - 6,Jack Nies,69901,American,DJ McGee,78901,George Mason
+2024,11/18,Minnesota - George Mason Dual,157,W,DEC,4 - 2,Michael Blockhus,57163,Minnesota,DJ McGee,78901,George Mason
+2024,11/18,Morgan State - George Mason Dual,157,W,MD,14 - 5,Shaymus MacIntosh,84459,Morgan State,DJ McGee,78901,George Mason
+2024,11/11,Clarion - George Mason Dual,157,W,DEC,4 - 2,Alejandro Herrera-Rondon,68725,Clarion,DJ McGee,78901,George Mason
+2024,11/11,The Citadel - George Mason Dual,157,W,DEC,4 - 2,Thomas Snipes,73714,The Citadel,DJ McGee,78901,George Mason
+2024,11/05,Battle at The Citadel,157,W,SV-1,4 - 1,Nico Bolivar,62427,Indiana,DJ McGee,78901,George Mason
+2024,11/05,Battle at The Citadel,157,W,DEC,4 - 2,Loranzo Rajaonarivelo,62067,George Mason,DJ McGee,78901,George Mason
+2024,11/05,Battle at The Citadel,157,W,MD,11 - 3,Connor Trowbridge,62818,Drexel,DJ McGee,78901,George Mason
+2024,03/03,Zingo Nationals,157,W,MFOR,0 - 0,Giovanni Alejandro,84361,Rider,JT Chance,84412,George Mason
+2024,03/03,Zingo Nationals,157,W,TF5,17 - 1 3:36,Billy Templeton,84633,Franklin & Marshall,JT Chance,84412,George Mason
+2024,03/03,Zingo Nationals,157,L,FALL,1:17,Luke Nichter,67003,Drexel,JT Chance,84412,George Mason
+2024,02/25,Patriot Last Chance Open,157,W,TF5,15 - 0 4:03,Dashawn Farber,62823,Lock Haven,JT Chance,84412,George Mason
+2024,02/25,Patriot Last Chance Open,157,W,DEC,4 - 0,Alex Hornfeck,56494,West Virginia,JT Chance,84412,George Mason
+2024,02/25,Patriot Last Chance Open,157,W,MD,10 - 2,Luke Nichter,67003,Drexel,JT Chance,84412,George Mason
+2024,01/26,George Mason - Bloomsburg Dual,157,W,DEC,2 - 1,William Morrow,79213,Bloomsburg,JT Chance,84412,George Mason
+2024,01/25,George Mason - Lock Haven Dual,157,L,DEC,15 - 11,Connor Eck,71824,Lock Haven,JT Chance,84412,George Mason
+2024,01/14,Purple Raider Open,157,W,DEC,4 - 2,Ethan Barr,76508,Kent State,JT Chance,84412,George Mason
+2024,01/14,Purple Raider Open,157,W,DEC,5 - 3,Dylan Evans,78788,Pittsburgh,JT Chance,84412,George Mason
+2024,01/14,Purple Raider Open,157,L,SV-1,5 - 2,Dylan Evans,78788,Pittsburgh,JT Chance,84412,George Mason
+2024,01/14,Purple Raider Open,157,W,DEC,4 - 0,Nick Cicciarelli,78896,West Virginia,JT Chance,84412,George Mason
+2024,01/14,Purple Raider Open,157,W,MFOR,0 - 0,Patrick McGraw,63200,John Carroll,JT Chance,84412,George Mason
+2024,01/14,Purple Raider Open,157,W,TF5,15 - 0 7:00,Maxwell Cooper,86490,Mount Union,JT Chance,84412,George Mason
+2024,01/05,David Lehman Open,157,L,SV-1,3 - 0,James Hogan,78744,Lock Haven,JT Chance,84412,George Mason
+2024,01/05,David Lehman Open,157,L,DEC,8 - 3,Jude Swisher,73210,Pennsylvania,JT Chance,84412,George Mason
+2024,01/05,David Lehman Open,157,W,FALL,4:17,Hudson Hightower,72934,Princeton,JT Chance,84412,George Mason
+2024,12/29,Midlands Championships,157,L,DEC,8 - 4,Munkhtulga Zuunbayan,64263,Northern Illinois,JT Chance,84412,George Mason
+2024,12/29,Midlands Championships,157,L,SV-1,9 - 6,Shane Heil,72593,Cleveland State,JT Chance,84412,George Mason
+2024,12/03,Patriot Open,157,W,FALL,3:56,Somnoma Zida,89476,Unattached,JT Chance,84412,George Mason
+2024,12/03,Patriot Open,157,W,FALL,4:19,Reed Fullmer,78627,PRTC,JT Chance,84412,George Mason
+2024,12/03,Patriot Open,157,W,TF5,16 - 1 2:44,Hogan Horsey,78443,Rider,JT Chance,84412,George Mason
+2024,12/03,Patriot Open,157,L,DEC,12 - 5,Colton Washleski,72909,Rider,JT Chance,84412,George Mason
+2024,12/03,Patriot Open,157,W,MD,14 - 3,Connor Eck,71824,Lock Haven,JT Chance,84412,George Mason
+2024,12/03,Patriot Open,157,W,MD,11 - 0,Devon Capato,78303,American,JT Chance,84412,George Mason
+2024,11/05,Battle at The Citadel,157,L,DEC,4 - 3,Loranzo Rajaonarivelo,62067,George Mason,JT Chance,84412,George Mason
+2024,11/05,Battle at The Citadel,157,L,TF5,19 - 4 4:57,Thomas Snipes,73714,The Citadel,JT Chance,84412,George Mason
+2024,11/05,Battle at The Citadel,157,W,DEC,8 - 4,Tyler Williams,59552,Drexel,JT Chance,84412,George Mason
+2024,03/03,Zingo Nationals,157,W,TF5,18 - 3 4:50,Justin Soriano,84835,Drexel,Loranzo Rajaonarivelo,62067,George Mason
+2024,03/03,Zingo Nationals,157,W,DEC,4 - 1,Giovanni Alejandro,84361,Rider,Loranzo Rajaonarivelo,62067,George Mason
+2024,03/03,Zingo Nationals,157,W,TF5,18 - 2 4:51,Tyler Shea,84670,Franklin & Marshall,Loranzo Rajaonarivelo,62067,George Mason
+2024,03/03,Zingo Nationals,157,L,TF5,16 - 0 2:43,Luke Nichter,67003,Drexel,Loranzo Rajaonarivelo,62067,George Mason
+2024,02/10,George Mason - Virginia Tech Dual,157,L,TF5,19 - 4 5:21,Clayton Ulrey,62889,Virginia Tech,Loranzo Rajaonarivelo,62067,George Mason
+2024,12/29,Midlands Championships,157,W,MD,10 - 0,Emmanuel Oliver,80791,Morton College,Loranzo Rajaonarivelo,62067,George Mason
+2024,12/29,Midlands Championships,157,L,MD,11 - 3,Jimmy Harrington,74567,Harvard,Loranzo Rajaonarivelo,62067,George Mason
+2024,12/29,Midlands Championships,157,L,DEC,8 - 3,Nick Sanko,72927,Virginia,Loranzo Rajaonarivelo,62067,George Mason
+2024,12/03,Patriot Open,157,L,MD,13 - 3,Colton Washleski,72909,Rider,Loranzo Rajaonarivelo,62067,George Mason
+2024,12/03,Patriot Open,157,L,DEC,5 - 3,Connor Eck,71824,Lock Haven,Loranzo Rajaonarivelo,62067,George Mason
+2024,12/03,Patriot Open,157,W,FALL,4:40,Gunner Endicott,78144,Campbell,Loranzo Rajaonarivelo,62067,George Mason
+2024,12/03,Patriot Open,157,W,DEC,17 - 10,Anthony Conetta,79084,Appalachian State,Loranzo Rajaonarivelo,62067,George Mason
+2024,12/03,Patriot Open,157,W,DEC,8 - 6,David Berkovich,62569,Columbia,Loranzo Rajaonarivelo,62067,George Mason
+2024,11/11,Williams College - George Mason Dual,165,L,FALL,5:00,Henry Forte,84304,Williams College,Loranzo Rajaonarivelo,62067,George Mason
+2024,11/11,Millersville - George Mason Dual,157,W,MD,13 - 2,Jonathan Parrilla,62455,Millersville,Loranzo Rajaonarivelo,62067,George Mason
+2024,11/05,Battle at The Citadel,157,L,DEC,4 - 2,DJ McGee,78901,George Mason,Loranzo Rajaonarivelo,62067,George Mason
+2024,11/05,Battle at The Citadel,157,W,DEC,4 - 3,JT Chance,84412,George Mason,Loranzo Rajaonarivelo,62067,George Mason
+2024,11/05,Battle at The Citadel,157,W,DEC,4 - 2,Zack Rotkvich,73383,Indiana,Loranzo Rajaonarivelo,62067,George Mason
+2024,11/05,Battle at The Citadel,157,W,DEC,4 - 2,Anthony Conetta,79084,Appalachian State,Loranzo Rajaonarivelo,62067,George Mason
+2024,03/21,NCAA Championships,165,L,TF5,15 - 0 7:00,Joseph Bianchi,62836,Little Rock,Evan Maag,78473,George Mason
+2024,03/21,NCAA Championships,165,L,TF5,18 - 2 4:52,David Carr,51126,Iowa State,Evan Maag,78473,George Mason
+2024,03/08,MAC Championships,165,W,FALL,2:49,Garrett Thompson,73169,Ohio,Evan Maag,78473,George Mason
+2024,03/08,MAC Championships,165,W,DEC,5 - 3,Tyler Swiderski,75986,Central Michigan,Evan Maag,78473,George Mason
+2024,03/08,MAC Championships,165,W,FALL,5:26,Hunter Shaut,61754,Buffalo,Evan Maag,78473,George Mason
+2024,02/25,Patriot Last Chance Open,165,W,TF5,18 - 2 2:55,Rafael Knapp,84273,Buffalo,Evan Maag,78473,George Mason
+2024,02/25,Patriot Last Chance Open,165,W,DEC,8 - 3,Michael Murphy,79310,Virginia,Evan Maag,78473,George Mason
+2024,02/25,Patriot Last Chance Open,165,W,FALL,2:12,Domenic D'Agostino,78471,Drexel,Evan Maag,78473,George Mason
+2024,02/18,Lindenwood - George Mason Dual,165,W,FALL,6:03,Kaleb Valdez-Lemos,84951,Lindenwood,Evan Maag,78473,George Mason
+2024,02/10,George Mason - Virginia Tech Dual,165,W,TF5,18 - 1 7:00,Kylan Montgomery,76528,Virginia Tech,Evan Maag,78473,George Mason
+2024,02/04,Rider - George Mason Dual,165,L,DEC,12 - 9,Jake Silverstein,67370,Rider,Evan Maag,78473,George Mason
+2024,01/26,George Mason - Bloomsburg Dual,165,W,DEC,13 - 9,Caden Dobbins,81883,Bloomsburg,Evan Maag,78473,George Mason
+2024,01/25,George Mason - Lock Haven Dual,165,W,DEC,8 - 3,Eric Alderfer,78522,Lock Haven,Evan Maag,78473,George Mason
+2024,01/19,George Mason - Ohio Dual,165,L,DEC,12 - 10,Garrett Thompson,73169,Ohio,Evan Maag,78473,George Mason
+2024,01/14,Hofstra - George Mason Dual,165,W,DEC,12 - 7,Jake Slotnick,84500,Hofstra,Evan Maag,78473,George Mason
+2024,01/13,Edinboro - George Mason Dual,165,W,FALL,2:44,Max Kirby,78782,Edinboro,Evan Maag,78473,George Mason
+2024,01/06,George Mason - Virginia Dual,165,W,DEC,13 - 7,Mason Stefanelli,79924,Virginia,Evan Maag,78473,George Mason
+2024,12/21,George Mason - Queens Dual,165,W,FALL,3:51,Vladimir Sukhikh,79825,Queens,Evan Maag,78473,George Mason
+2024,12/21,George Mason - Gardner-Webb Dual,165,W,FALL,1:53,Andrew Wilson,73732,Gardner-Webb,Evan Maag,78473,George Mason
+2024,12/03,Patriot Open,165,L,DEC,6 - 3,Liam Scrivanich,84464,Rider,Evan Maag,78473,George Mason
+2024,12/03,Patriot Open,165,W,TF5,17 - 2 4:03,Zack Arsala,83138,Unattached,Evan Maag,78473,George Mason
+2024,12/03,Patriot Open,165,W,FALL,2:47,Oren Bost,73101,Appalachian State,Evan Maag,78473,George Mason
+2024,12/03,Patriot Open,165,L,DEC,12 - 7,Drake Acklin,78476,Appalachian State,Evan Maag,78473,George Mason
+2024,12/02,Cleveland State - George Mason Dual,165,L,DEC,10 - 3,Tate Geiser,78813,Cleveland State,Evan Maag,78473,George Mason
+2024,12/02,Davidson - George Mason Dual,165,L,MD,12 - 2,Marc Koch,73735,Davidson,Evan Maag,78473,George Mason
+2024,11/21,George Mason - American Dual,165,W,MD,12 - 2,Kaden Milheim,78789,American,Evan Maag,78473,George Mason
+2024,11/18,Minnesota - George Mason Dual,165,L,TF5,20 - 3 3:00,Blaine Brenner,72138,Minnesota,Evan Maag,78473,George Mason
+2024,11/18,Morgan State - George Mason Dual,165,W,DEC,10 - 5,Jake Marsh,51129,Morgan State,Evan Maag,78473,George Mason
+2024,11/11,Millersville - George Mason Dual,165,W,DEC,7 - 6,Brandon Connor,57181,Millersville,Evan Maag,78473,George Mason
+2024,11/11,Clarion - George Mason Dual,165,W,DEC,8 - 5,Eli Brinsky,67110,Clarion,Evan Maag,78473,George Mason
+2024,11/11,The Citadel - George Mason Dual,165,L,SV-1,8 - 5,Benjamin Haubert,71286,The Citadel,Evan Maag,78473,George Mason
+2024,11/05,Battle at The Citadel,165,W,TF5,16 - 0 5:24,Robert Major,71685,Indiana,Evan Maag,78473,George Mason
+2024,11/05,Battle at The Citadel,165,L,DEC,7 - 5,Nicholas South,56709,Indiana,Evan Maag,78473,George Mason
+2024,11/05,Battle at The Citadel,165,W,MD,24 - 12,Justin Hayes,79292,The Citadel,Evan Maag,78473,George Mason
+2024,11/05,Battle at The Citadel,165,W,FALL,2:30,Aidan Lenz,73359,The Citadel,Evan Maag,78473,George Mason
+2024,11/05,Battle at The Citadel,165,W,DEC,10 - 8,Benjamin Haubert,71286,The Citadel,Evan Maag,78473,George Mason
+2024,11/05,Battle at The Citadel,165,W,FALL,6:37,Drake Acklin,78476,Appalachian State,Evan Maag,78473,George Mason
+2024,03/08,MAC Championships,174,L,SV-2,5 - 2,Tyler Stoltzfus,65398,Lock Haven,Paul Pierce,56165,George Mason
+2024,03/08,MAC Championships,174,L,DEC,7 - 3,Jay Nivison,65850,Buffalo,Paul Pierce,56165,George Mason
+2024,03/08,MAC Championships,174,W,MD,12 - 4,Nolen Zeigler,84532,Bloomsburg,Paul Pierce,56165,George Mason
+2024,02/18,Lindenwood - George Mason Dual,174,W,FALL,4:10,Kaden Charboneau,74823,Lindenwood,Paul Pierce,56165,George Mason
+2024,02/10,George Mason - Virginia Tech Dual,174,L,TF5,21 - 4 6:01,Mekhi Lewis,49338,Virginia Tech,Paul Pierce,56165,George Mason
+2024,02/04,Rider - George Mason Dual,174,L,DEC,9 - 7,Michael Wilson,62190,Rider,Paul Pierce,56165,George Mason
+2024,01/26,George Mason - Bloomsburg Dual,174,W,TF5,19 - 2 4:17,Nolen Zeigler,84532,Bloomsburg,Paul Pierce,56165,George Mason
+2024,01/25,George Mason - Lock Haven Dual,174,L,DEC,5 - 3,Tyler Stoltzfus,65398,Lock Haven,Paul Pierce,56165,George Mason
+2024,01/19,George Mason - Ohio Dual,174,L,DEC,4 - 2,Sal Perrine,73171,Ohio,Paul Pierce,56165,George Mason
+2024,01/13,Edinboro - George Mason Dual,174,W,SV-1,7 - 4,Joey Arnold,72215,Edinboro,Paul Pierce,56165,George Mason
+2024,01/06,George Mason - Virginia Dual,174,L,MD,9 - 1,Justin McCoy,50946,Virginia,Paul Pierce,56165,George Mason
+2024,12/29,Midlands Championships,174,W,DEC,9 - 5,Shay Addison,78500,Arizona State,Paul Pierce,56165,George Mason
+2024,12/29,Midlands Championships,174,L,MD,14 - 2,Brody Conley,71814,West Virginia,Paul Pierce,56165,George Mason
+2024,12/29,Midlands Championships,174,W,DEC,3 - 2,Justin Phillips,57093,Cal Baptist,Paul Pierce,56165,George Mason
+2024,12/29,Midlands Championships,174,L,DEC,5 - 4,Dominic Lopez,85352,SIU Edwardsville,Paul Pierce,56165,George Mason
+2024,12/29,Midlands Championships,174,W,MD,11 - 1,Hayden Trezek,78609,SIU Edwardsville,Paul Pierce,56165,George Mason
+2024,12/29,Midlands Championships,174,W,SV-1,4 - 1,Mason Reiniche,67415,Oregon State,Paul Pierce,56165,George Mason
+2024,12/21,George Mason - Queens Dual,174,W,MD,16 - 4,Greg Merriman,84827,Queens,Paul Pierce,56165,George Mason
+2024,12/03,Patriot Open,174,L,MD,14 - 6,Simon Ruiz,78145,Spartan Combat RTC,Paul Pierce,56165,George Mason
+2024,12/03,Patriot Open,174,W,DEC,4 - 2,Sammy Starr,73336,Navy,Paul Pierce,56165,George Mason
+2024,12/03,Patriot Open,174,W,DEC,11 - 5,Ryan Bolletino,69989,Sacred Heart,Paul Pierce,56165,George Mason
+2024,12/03,Patriot Open,174,W,TF5,17 - 1 4:34,RJ Moore,78649,Franklin & Marshall,Paul Pierce,56165,George Mason
+2024,12/02,Davidson - George Mason Dual,174,L,DEC,4 - 2,Bryce Sanderlin,63711,Davidson,Paul Pierce,56165,George Mason
+2024,11/21,George Mason - American Dual,174,L,DEC,4 - 0,Lucas White,72683,American,Paul Pierce,56165,George Mason
+2024,11/18,Morgan State - George Mason Dual,174,W,TF5,15 - 0 5:56,Cort Vann,84330,Morgan State,Paul Pierce,56165,George Mason
+2024,11/05,Battle at The Citadel,174,L,INJ,5:00,Lucas White,72683,American,Paul Pierce,56165,George Mason
+2024,11/05,Battle at The Citadel,174,L,MFOR,0 - 0,Josh Stillings,50895,The Citadel,Paul Pierce,56165,George Mason
+2024,11/05,Battle at The Citadel,174,W,MD,9 - 0,Logan Eller,82482,Appalachian State,Paul Pierce,56165,George Mason
+2024,02/25,Patriot Last Chance Open,174,L,MD,9 - 1,Sam Skillings,67436,Minnesota,Logan Messer,71846,George Mason
+2024,02/25,Patriot Last Chance Open,174,L,MD,17 - 4,Andrew Sparks,67049,Minnesota,Logan Messer,71846,George Mason
+2024,02/25,Patriot Last Chance Open,174,W,DEC,7 - 5,George Rhodes,84619,Drexel,Logan Messer,71846,George Mason
+2024,11/05,Clarion Open,174,L,INJ,4:13,Waylon Wehler,84854,Kent State,Logan Messer,71846,George Mason
+2024,11/05,Clarion Open,174,W,DEC,8 - 2,Marty Larkin,69873,Michigan State,Logan Messer,71846,George Mason
+2024,11/05,Clarion Open,174,L,MFOR,0 - 0,Casper Hinklie,63709,Clarion,Logan Messer,71846,George Mason
+2024,01/14,Hofstra - George Mason Dual,174,L,DEC,5 - 0,Ross McFarland,62209,Hofstra,Sean Coughlin,77587,George Mason
+2024,12/29,Midlands Championships,174,L,DEC,10 - 5,Joseph Martin,74570,Northwestern,Sean Coughlin,77587,George Mason
+2024,12/29,Midlands Championships,174,W,DEC,7 - 3,Blake Hinrichsen,80126,Cal Poly,Sean Coughlin,77587,George Mason
+2024,12/29,Midlands Championships,174,L,FALL,2:01,Jared Stricker,73852,Wisconsin-Eau Claire,Sean Coughlin,77587,George Mason
+2024,12/21,George Mason - Gardner-Webb Dual,174,L,DEC,8 - 6,Samuel Mora,62408,Gardner-Webb,Sean Coughlin,77587,George Mason
+2024,12/02,Cleveland State - George Mason Dual,174,W,DEC,7 - 2,Gavin Ricketts,84550,Cleveland State,Sean Coughlin,77587,George Mason
+2024,11/21,George Mason - American Dual,184,L,DEC,5 - 2,Connor Bourne,57131,American,Sean Coughlin,77587,George Mason
+2024,11/18,Minnesota - George Mason Dual,174,L,DEC,7 - 3,Sam Skillings,67436,Minnesota,Sean Coughlin,77587,George Mason
+2024,11/11,Williams College - George Mason Dual,174,W,DEC,4 - 1,William Smith,65886,Williams College,Sean Coughlin,77587,George Mason
+2024,11/11,Millersville - George Mason Dual,174,W,FALL,6:56,Andrew Vogelbacher,72633,Millersville,Sean Coughlin,77587,George Mason
+2024,11/11,Clarion - George Mason Dual,174,L,MD,8 - 0,John Worthing,61847,Clarion,Sean Coughlin,77587,George Mason
+2024,11/11,The Citadel - George Mason Dual,174,L,MD,11 - 2,Josh Stillings,50895,The Citadel,Sean Coughlin,77587,George Mason
+2024,11/05,Battle at The Citadel,174,L,FALL,3:44,Lucas White,72683,American,Sean Coughlin,77587,George Mason
+2024,11/05,Battle at The Citadel,174,L,MD,15 - 6,Josh Stillings,50895,The Citadel,Sean Coughlin,77587,George Mason
+2024,11/05,Battle at The Citadel,174,W,DEC,8 - 3,Tanner Updegraff,67441,Drexel,Sean Coughlin,77587,George Mason
+2024,11/05,Battle at The Citadel,174,W,MD,10 - 2,Logan Eller,82482,Appalachian State,Sean Coughlin,77587,George Mason
+2024,02/25,Patriot Last Chance Open,184,L,FALL,4:19,Joe Burch,85786,Unattached,Nick Foster,78902,George Mason
+2024,02/25,Patriot Last Chance Open,184,L,SV-1,8 - 5,Dustin Gue,83390,Clarion,Nick Foster,78902,George Mason
+2024,02/25,Patriot Last Chance Open,184,L,FALL,1:42,Tanner Updegraff,67441,Drexel,Nick Foster,78902,George Mason
+2024,02/10,George Mason - Virginia Tech Dual,197,L,FALL,1:04,Andy Smith,63528,Virginia Tech,Nick Foster,78902,George Mason
+2024,02/04,Rider - George Mason Dual,197,L,MD,14 - 4,Azeem Bell,67120,Rider,Nick Foster,78902,George Mason
+2024,01/05,David Lehman Open,174,L,FALL,3:39,Zeke Dubler,79059,Lehigh,Nick Foster,78902,George Mason
+2024,01/05,David Lehman Open,174,L,CMFF,0 - 0,Aidan Zarrella,79730,Sacred Heart,Nick Foster,78902,George Mason
+2024,12/03,Patriot Open,174,W,FALL,2:30,Liam Kilrain,84929,Navy,Nick Foster,78902,George Mason
+2024,12/03,Patriot Open,174,L,DEC,7 - 4,Zander Manuel,70146,Navy,Nick Foster,78902,George Mason
+2024,12/03,Patriot Open,174,L,TF5,19 - 4 3:33,Nolan O'Boyle,79776,North Carolina,Nick Foster,78902,George Mason
+2024,12/03,Patriot Open,174,W,DEC,8 - 2,Brett Sanderlin,71729,Davidson,Nick Foster,78902,George Mason
+2024,11/05,Battle at The Citadel,174,L,DEC,5 - 1,Josh Stillings,50895,The Citadel,Nick Foster,78902,George Mason
+2024,11/05,Battle at The Citadel,174,L,DEC,5 - 1,Logan Eller,82482,Appalachian State,Nick Foster,78902,George Mason
+2024,03/21,NCAA Championships,184,L,TF5,15 - 0 5:00,Chris Foca,56712,Cornell,Malachi Duvall,72189,George Mason
+2024,03/21,NCAA Championships,184,W,FALL,1:22,Tomas Brooker,79391,Appalachian State,Malachi Duvall,72189,George Mason
+2024,03/21,NCAA Championships,184,L,TF5,18 - 2 5:00,Dustin Plott,57607,Oklahoma State,Malachi Duvall,72189,George Mason
+2024,03/08,MAC Championships,184,W,DEC,7 - 4,Cameron Pine,57196,Clarion,Malachi Duvall,72189,George Mason
+2024,03/08,MAC Championships,184,W,FALL,4:15,Deron Pulliam,77410,SIU Edwardsville,Malachi Duvall,72189,George Mason
+2024,03/08,MAC Championships,184,W,DEC,6 - 4,Zayne Lehman,71781,Ohio,Malachi Duvall,72189,George Mason
+2024,03/08,MAC Championships,184,W,TF5,15 - 0 4:04,Anthony Derosa,74515,Bloomsburg,Malachi Duvall,72189,George Mason
+2024,02/18,Lindenwood - George Mason Dual,184,W,TF5,16 - 1 4:48,Luke Shaver,74934,Lindenwood,Malachi Duvall,72189,George Mason
+2024,02/10,George Mason - Virginia Tech Dual,184,L,DEC,12 - 6,TJ Stewart,74569,Virginia Tech,Malachi Duvall,72189,George Mason
+2024,02/04,Rider - George Mason Dual,184,W,SV-1,4 - 1,Isaac Dean,72506,Rider,Malachi Duvall,72189,George Mason
+2024,01/26,George Mason - Bloomsburg Dual,184,W,TF5,18 - 0 4:44,Matt Benedetti,67652,Bloomsburg,Malachi Duvall,72189,George Mason
+2024,01/25,George Mason - Lock Haven Dual,184,W,DEC,8 - 2,Colin Fegley,63035,Lock Haven,Malachi Duvall,72189,George Mason
+2024,01/19,George Mason - Ohio Dual,184,L,TF5,15 - 0 7:00,Zayne Lehman,71781,Ohio,Malachi Duvall,72189,George Mason
+2024,01/14,Hofstra - George Mason Dual,184,W,FALL,3:16,Will Conlon,84816,Hofstra,Malachi Duvall,72189,George Mason
+2024,01/13,Edinboro - George Mason Dual,184,W,FALL,2:26,Brody Evans,84305,Edinboro,Malachi Duvall,72189,George Mason
+2024,01/06,George Mason - Virginia Dual,184,W,FALL,7:00,Griffin Gammell,73398,Virginia,Malachi Duvall,72189,George Mason
+2024,12/29,Midlands Championships,184,L,MD,15 - 2,Niel Antrassian,92021,PRTC,Malachi Duvall,72189,George Mason
+2024,12/29,Midlands Championships,184,W,MD,12 - 3,Matt McKenna,67334,Michigan,Malachi Duvall,72189,George Mason
+2024,12/29,Midlands Championships,184,L,MD,16 - 4,James Conway,72677,Franklin & Marshall,Malachi Duvall,72189,George Mason
+2024,12/21,George Mason - Queens Dual,184,W,TF5,19 - 2 5:00,D'Andree Hunt,79826,Queens,Malachi Duvall,72189,George Mason
+2024,12/21,George Mason - Gardner-Webb Dual,184,L,SV-1,4 - 1,Jha'Quan Anderson,62407,Gardner-Webb,Malachi Duvall,72189,George Mason
+2024,12/02,Cleveland State - George Mason Dual,184,W,DEC,4 - 0,Joey Lyons,72596,Cleveland State,Malachi Duvall,72189,George Mason
+2024,12/02,Davidson - George Mason Dual,184,W,TF5,16 - 0 5:45,Wyatt Ferguson,84301,Davidson,Malachi Duvall,72189,George Mason
+2024,11/18,Minnesota - George Mason Dual,184,L,INJ,0:12,Isaiah Salazar,62340,Minnesota,Malachi Duvall,72189,George Mason
+2024,11/18,Morgan State - George Mason Dual,184,L,DEC,9 - 4,Kingsley Menifee,84331,Morgan State,Malachi Duvall,72189,George Mason
+2024,11/11,Williams College - George Mason Dual,184,W,FALL,2:15,Dante Gutbrod,66039,Williams College,Malachi Duvall,72189,George Mason
+2024,11/11,Millersville - George Mason Dual,184,W,FALL,3:56,Tyler Hurst,84778,Millersville,Malachi Duvall,72189,George Mason
+2024,11/11,Clarion - George Mason Dual,184,L,DEC,5 - 4,Cameron Pine,57196,Clarion,Malachi Duvall,72189,George Mason
+2024,11/11,The Citadel - George Mason Dual,184,W,FALL,3:31,Adam Ortega,78687,The Citadel,Malachi Duvall,72189,George Mason
+2024,11/05,Battle at The Citadel,184,L,FALL,4:40,Roman Rogotzke,70925,Indiana,Malachi Duvall,72189,George Mason
+2024,11/05,Battle at The Citadel,184,L,DEC,10 - 3,Tomas Brooker,79391,Appalachian State,Malachi Duvall,72189,George Mason
+2024,03/08,MAC Championships,197,L,MD,19 - 8,Blake Schaffer,79797,Kent State,Tyler Kocak,69715,George Mason
+2024,03/08,MAC Championships,197,L,DEC,8 - 2,Azeem Bell,67120,Rider,Tyler Kocak,69715,George Mason
+2024,03/08,MAC Championships,197,W,DEC,8 - 5,Ethan Wiant,63052,Clarion,Tyler Kocak,69715,George Mason
+2024,03/08,MAC Championships,197,W,DEC,4 - 2,Sean Carroll,81794,Northern Illinois,Tyler Kocak,69715,George Mason
+2024,03/08,MAC Championships,197,L,TF5,18 - 3 7:00,Ben Smith,56236,Cleveland State,Tyler Kocak,69715,George Mason
+2024,02/18,Lindenwood - George Mason Dual,197,W,DEC,7 - 5,Ryan Golnick,76563,Lindenwood,Tyler Kocak,69715,George Mason
+2024,01/14,Hofstra - George Mason Dual,197,L,FALL,0:45,Nikolas Miller,73028,Hofstra,Tyler Kocak,69715,George Mason
+2024,01/13,Edinboro - George Mason Dual,197,L,DEC,7 - 3,Jack Kilner,65375,Edinboro,Tyler Kocak,69715,George Mason
+2024,01/06,George Mason - Virginia Dual,197,W,DEC,15 - 10,Colden Dorfman,73056,Virginia,Tyler Kocak,69715,George Mason
+2024,12/21,George Mason - Queens Dual,197,W,MD,21 - 9,Riley Kuhn,72235,Queens,Tyler Kocak,69715,George Mason
+2024,12/21,George Mason - Gardner-Webb Dual,197,W,DEC,4 - 1,Joshua McCutchen,75730,Gardner-Webb,Tyler Kocak,69715,George Mason
+2024,11/11,Clarion - George Mason Dual,197,L,INJ,0:26,Ethan Wiant,63052,Clarion,Tyler Kocak,69715,George Mason
+2024,11/11,The Citadel - George Mason Dual,197,L,SV-1,7 - 4,Patrick Brophy,78688,The Citadel,Tyler Kocak,69715,George Mason
+2024,11/05,Battle at The Citadel,197,L,MD,12 - 2,Gabe Sollars,77269,Indiana,Tyler Kocak,69715,George Mason
+2024,11/05,Battle at The Citadel,197,W,DEC,4 - 3,Patrick Brophy,78688,The Citadel,Tyler Kocak,69715,George Mason
+2024,11/05,Battle at The Citadel,197,W,SV-1,8 - 5,Chase Levey,78569,Drexel,Tyler Kocak,69715,George Mason
+2024,02/25,Patriot Last Chance Open,197,W,FALL,4:38,Milan Noklin,92173,Unattached,Jon List,71833,George Mason
+2024,02/25,Patriot Last Chance Open,197,W,MD,8 - 0,Eli Makel,82774,Edinboro,Jon List,71833,George Mason
+2024,02/25,Patriot Last Chance Open,197,W,DEC,8 - 6,Chase Levey,78569,Drexel,Jon List,71833,George Mason
+2024,01/28,Mat-Town Open II,197,W,DEC,5 - 3,Hadyn Packer,84363,Rutgers,Jon List,71833,George Mason
+2024,01/28,Mat-Town Open II,197,L,MFOR,0 - 0,Lucas Cochran,71705,Penn State,Jon List,71833,George Mason
+2024,01/28,Mat-Town Open II,197,L,MFOR,0 - 0,Mike Toranzo,70751,Rutgers,Jon List,71833,George Mason
+2024,01/26,George Mason - Bloomsburg Dual,197,W,TB-1,2 - 1,David Tuttle,67654,Bloomsburg,Ruben Karapetyan,84697,George Mason
+2024,01/25,George Mason - Lock Haven Dual,197,L,MD,10 - 1,Brad Morrison,78739,Lock Haven,Ruben Karapetyan,84697,George Mason
+2024,01/19,George Mason - Ohio Dual,197,L,DEC,8 - 1,Austin Starr,76357,Ohio,Ruben Karapetyan,84697,George Mason
+2024,12/02,Cleveland State - George Mason Dual,197,L,TF5,19 - 4 7:00,Ben Smith,56236,Cleveland State,Ruben Karapetyan,84697,George Mason
+2024,12/02,Davidson - George Mason Dual,197,W,TB-1,3 - 2,Cameo Blankenship,79784,Davidson,Ruben Karapetyan,84697,George Mason
+2024,11/21,George Mason - American Dual,197,L,SV-1,4 - 1,Carston Rawls,72684,American,Ruben Karapetyan,84697,George Mason
+2024,11/18,Minnesota - George Mason Dual,197,L,TF5,19 - 4 4:53,Garrett Joles,50908,Minnesota,Ruben Karapetyan,84697,George Mason
+2024,11/18,Morgan State - George Mason Dual,197,W,DEC,5 - 4,Nathanic Kendricks,85304,Morgan State,Ruben Karapetyan,84697,George Mason
+2024,11/11,Williams College - George Mason Dual,197,W,DEC,10 - 4,Max Hall,79691,Williams College,Ruben Karapetyan,84697,George Mason
+2024,11/11,Millersville - George Mason Dual,197,L,DEC,9 - 6,Riley O'Boyle,84780,Millersville,Ruben Karapetyan,84697,George Mason
+2024,03/08,MAC Championships,285,L,TF5,16 - 0 5:26,Jordan Greer,62652,Ohio,Donovan Sprouse,78363,George Mason
+2024,03/08,MAC Championships,285,W,DEC,4 - 1,Nick Lodato,72606,Edinboro,Donovan Sprouse,78363,George Mason
+2024,03/08,MAC Championships,285,L,DEC,5 - 3,Lonnell Owens-Pabon,78784,Buffalo,Donovan Sprouse,78363,George Mason
+2024,03/08,MAC Championships,285,W,DEC,5 - 3,Ethan Miller,78742,Lock Haven,Donovan Sprouse,78363,George Mason
+2024,03/08,MAC Championships,285,L,TF5,21 - 6 7:00,David Szuba,72908,Rider,Donovan Sprouse,78363,George Mason
+2024,02/25,Patriot Last Chance Open,285,W,FALL,6:00,Will Hotaling,84274,Buffalo,Donovan Sprouse,78363,George Mason
+2024,02/25,Patriot Last Chance Open,285,W,DEC,8 - 1,Dom Petracci,79380,Drexel,Donovan Sprouse,78363,George Mason
+2024,02/18,Lindenwood - George Mason Dual,285,L,SV-1,4 - 1,David Hernandez,74864,Lindenwood,Donovan Sprouse,78363,George Mason
+2024,02/04,Rider - George Mason Dual,285,L,TF5,22 - 5 3:51,David Szuba,72908,Rider,Donovan Sprouse,78363,George Mason
+2024,01/26,George Mason - Bloomsburg Dual,285,L,DEC,7 - 3,Harrison Levans,73382,Bloomsburg,Donovan Sprouse,78363,George Mason
+2024,01/25,George Mason - Lock Haven Dual,285,L,DEC,8 - 2,Ethan Miller,78742,Lock Haven,Donovan Sprouse,78363,George Mason
+2024,01/05,David Lehman Open,285,L,DEC,8 - 4,Sam Sorenson,79465,United States Military Academy,Donovan Sprouse,78363,George Mason
+2024,01/05,David Lehman Open,285,L,FALL,4:33,Taye Ghadiali,62500,Campbell,Donovan Sprouse,78363,George Mason
+2024,01/05,David Lehman Open,285,W,FALL,4:34,Logan Marissal,84458,Harvard,Donovan Sprouse,78363,George Mason
+2024,12/29,Midlands Championships,285,L,FALL,1:07,Jim Mullen,79777,Virginia Tech,Donovan Sprouse,78363,George Mason
+2024,12/29,Midlands Championships,285,L,MD,15 - 3,Josh Terrill,79322,Michigan State,Donovan Sprouse,78363,George Mason
+2024,12/21,George Mason - Gardner-Webb Dual,285,L,DEC,5 - 4,Peyton McComas,71831,Gardner-Webb,Donovan Sprouse,78363,George Mason
+2024,12/03,Patriot Open,285,L,MD,16 - 4,Jamier Ferere,78581,Navy,Donovan Sprouse,78363,George Mason
+2024,12/03,Patriot Open,285,W,DEC,5 - 3,Levi Andrews,75727,Appalachian State,Donovan Sprouse,78363,George Mason
+2024,12/03,Patriot Open,285,L,MD,12 - 4,Logan Shephard,73758,Bucknell,Donovan Sprouse,78363,George Mason
+2024,12/03,Patriot Open,285,W,DEC,6 - 0,DJ Spring,84457,Davidson,Donovan Sprouse,78363,George Mason
+2024,11/11,Williams College - George Mason Dual,285,L,DEC,3 - 2,Tommy Goodwin,77172,Williams College,Donovan Sprouse,78363,George Mason
+2024,11/11,Millersville - George Mason Dual,285,L,DEC,2 - 1,Bishop McCoy,67185,Millersville,Donovan Sprouse,78363,George Mason
+2024,11/05,Battle at The Citadel,285,L,TF5,22 - 6 4:50,Ben Stemmet,65010,The Citadel,Donovan Sprouse,78363,George Mason
+2024,11/05,Battle at The Citadel,285,L,FALL,2:58,William Jarrell,62907,American,Donovan Sprouse,78363,George Mason
+2024,01/19,George Mason - Ohio Dual,285,L,DEC,4 - 2,Jordan Greer,62652,Ohio,Chad Nix,64674,George Mason
+2024,01/14,Hofstra - George Mason Dual,285,L,SV-1,4 - 1,Keaton Kluever,50603,Hofstra,Chad Nix,64674,George Mason
+2024,01/13,Edinboro - George Mason Dual,285,W,DEC,8 - 1,Nick Lodato,72606,Edinboro,Chad Nix,64674,George Mason
+2024,01/06,George Mason - Virginia Dual,285,L,DEC,7 - 3,Ryan Catka,72191,Virginia,Chad Nix,64674,George Mason
+2024,12/21,George Mason - Queens Dual,285,W,FALL,3:43,Darius Ward,79828,Queens,Chad Nix,64674,George Mason
+2024,12/02,Cleveland State - George Mason Dual,285,W,TF5,17 - 1 7:00,Mason Cover,72597,Cleveland State,Chad Nix,64674,George Mason
+2024,12/02,Davidson - George Mason Dual,285,W,DEC,3 - 0,Jake Fernicola,62822,Davidson,Chad Nix,64674,George Mason
+2024,11/21,George Mason - American Dual,285,W,DEC,9 - 7,William Jarrell,62907,American,Chad Nix,64674,George Mason
+2024,11/18,Minnesota - George Mason Dual,285,W,DEC,2 - 1,Bennett Tabor,72142,Minnesota,Chad Nix,64674,George Mason
+2024,11/11,Clarion - George Mason Dual,285,L,DEC,7 - 2,John Meyers,69618,Clarion,Chad Nix,64674,George Mason
+2024,11/11,The Citadel - George Mason Dual,285,W,DEC,10 - 3,Jonathan Chesser,73052,The Citadel,Chad Nix,64674,George Mason
+2024,11/05,Battle at The Citadel,285,W,INJ,1:15,Nick Willham,62447,Indiana,Chad Nix,64674,George Mason
+2024,11/05,Battle at The Citadel,285,W,DEC,10 - 6,Jonathan Chesser,73052,The Citadel,Chad Nix,64674,George Mason
+2024,11/05,Battle at The Citadel,285,W,DEC,8 - 2,Ben Stemmet,65010,The Citadel,Chad Nix,64674,George Mason
+2024,03/03,Zingo Nationals,285,L,TF5,15 - 0 3:52,Dom Petracci,79380,Drexel,Colin Pederson,84696,George Mason
+2024,03/03,Zingo Nationals,285,L,FALL,4:08,Magnus Bibla,84535,Buffalo,Colin Pederson,84696,George Mason
+2024,02/25,Patriot Last Chance Open,285,L,DEC,8 - 5,Magnus Bibla,84535,Buffalo,Colin Pederson,84696,George Mason
+2024,02/25,Patriot Last Chance Open,285,L,FALL,1:43,Trevor Tinker,66973,Cal Poly,Colin Pederson,84696,George Mason
+2024,02/25,Patriot Last Chance Open,285,L,TF5,17 - 2 4:50,Shane Whitney,76170,Drexel,Colin Pederson,84696,George Mason
+2024,02/10,George Mason - Virginia Tech Dual,285,L,TF5,21 - 5 1:55,Jim Mullen,79777,Virginia Tech,Colin Pederson,84696,George Mason
+2024,01/28,Mat-Town Open II,285,L,MD,12 - 1,Aden Roe,84465,Edinboro,Colin Pederson,84696,George Mason
+2024,01/28,Mat-Town Open II,285,L,TF5,20 - 4 4:29,Charlie Tibbitts,78440,Binghamton,Colin Pederson,84696,George Mason
+2024,01/14,Purple Raider Open,285,L,SV-1,4 - 1,Zach Kuneff,76265,Wheeling,Colin Pederson,84696,George Mason
+2024,01/14,Purple Raider Open,285,L,DEC,12 - 7,Jamie Kilmer,67230,West Liberty University,Colin Pederson,84696,George Mason
+2024,01/05,David Lehman Open,285,L,FALL,6:40,Brentan Simmerman,84855,Kent State,Colin Pederson,84696,George Mason
+2024,01/05,David Lehman Open,285,L,TF5,19 - 4 4:04,Chase Horne,72952,NC State,Colin Pederson,84696,George Mason
+2024,12/03,Patriot Open,285,L,DEC,5 - 2,James Blackman,87621,Unattached,Colin Pederson,84696,George Mason
+2024,12/03,Patriot Open,285,L,FALL,6:33,Levi Andrews,75727,Appalachian State,Colin Pederson,84696,George Mason
+2024,11/05,Battle at The Citadel,285,L,TF5,18 - 2 6:20,Jonathan Chesser,73052,The Citadel,Colin Pederson,84696,George Mason
+2024,11/05,Battle at The Citadel,285,L,DEC,2 - 0,Santino Morina,62654,Drexel,Colin Pederson,84696,George Mason

@@ -1,0 +1,481 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2022,03/04,MAC Championships,125,L,TB-1,4 - 3,Tristan Daugherty,62877,Buffalo,Oscar Sanchez,57320,Ohio
+2022,03/04,MAC Championships,125,W,DEC,11 - 4,Bryce West,50039,Northern Illinois,Oscar Sanchez,57320,Ohio
+2022,03/04,MAC Championships,125,L,DEC,3 - 2,Jake Ferri,51179,Kent State,Oscar Sanchez,57320,Ohio
+2022,03/04,MAC Championships,125,W,MD,8 - 0,Chris Merlo,69410,Edinboro,Oscar Sanchez,57320,Ohio
+2022,03/04,MAC Championships,125,L,DEC,2 - 1,Tristan Daugherty,62877,Buffalo,Oscar Sanchez,57320,Ohio
+2022,02/19,Buffalo - Ohio Dual,125,W,SV-1,3 - 1,Tristan Daugherty,62877,Buffalo,Oscar Sanchez,57320,Ohio
+2022,02/12,Southern Illinois Edwardsville - Ohio Dual,125,W,DEC,8 - 1,Austin Macias,57088,SIU Edwardsville,Oscar Sanchez,57320,Ohio
+2022,02/05,Ohio - Cleveland State Dual,125,L,DEC,1 - 0,Logan Heil,57515,Cleveland State,Oscar Sanchez,57320,Ohio
+2022,02/04,Ohio - Kent State Dual,125,L,DEC,8 - 3,Jake Ferri,51179,Kent State,Oscar Sanchez,57320,Ohio
+2022,01/30,Ohio - Central Michigan Dual,125,L,DEC,2 - 1,Brock Bergelin,49078,Central Michigan,Oscar Sanchez,57320,Ohio
+2022,01/23,Davidson - Ohio Dual,125,W,TF5,20 - 5 6:07,Hale Robinson,70746,Davidson,Oscar Sanchez,57320,Ohio
+2022,01/22,Navy - Ohio Dual,125,W,SV-1,3 - 1,Jacob Allen,50935,Navy,Oscar Sanchez,57320,Ohio
+2022,01/15,Ohio - Northern Illinois Dual,125,W,DEC,6 - 3,Bryce West,50039,Northern Illinois,Oscar Sanchez,57320,Ohio
+2022,01/04,Ohio Indiana Round Robin,125,W,DEC,4 - 3,Jacob Moran,63550,Indiana,Oscar Sanchez,57320,Ohio
+2022,12/19,Ohio - Gardner-Webb Dual,125,W,DEC,7 - 4,Aedyn Concepcion,69782,Gardner-Webb,Oscar Sanchez,57320,Ohio
+2022,12/19,George Mason - Ohio Dual,125,W,DEC,8 - 4,Ben Monn,69708,George Mason,Oscar Sanchez,57320,Ohio
+2022,12/05,West Virginia - Ohio Dual,125,W,MD,12 - 3,Colton Drousias,63171,West Virginia,Oscar Sanchez,57320,Ohio
+2022,12/03,Ohio - Clarion Dual,125,L,SV-1,3 - 1,Joseph Fischer,68702,Clarion,Oscar Sanchez,57320,Ohio
+2022,11/20,Navy Classic,125,W,DEC,5 - 3,Brandon Seidman,56803,Bucknell,Oscar Sanchez,57320,Ohio
+2022,11/20,Navy Classic,125,L,DEC,6 - 1,Luke Werner,50282,Lock Haven,Oscar Sanchez,57320,Ohio
+2022,11/20,Navy Classic,125,W,DEC,8 - 4,Julian Saldaña,46483,Michigan State,Oscar Sanchez,57320,Ohio
+2022,11/20,Navy Classic,125,W,DEC,6 - 3,Julian Saldaña,46483,Michigan State,Oscar Sanchez,57320,Ohio
+2022,11/20,Navy Classic,125,W,DEC,5 - 2,Maximillian Leete,72678,American,Oscar Sanchez,57320,Ohio
+2022,11/14,Ohio Intercollegiate Open,125,W,MD,8 - 0,Kade Orr,73311,Kent State,Oscar Sanchez,57320,Ohio
+2022,11/14,Ohio Intercollegiate Open,125,W,MFOR,0 - 0,Cole Laya,52575,West Liberty University,Oscar Sanchez,57320,Ohio
+2022,11/14,Ohio Intercollegiate Open,125,W,MD,11 - 3,Chris Merlo,69410,Edinboro,Oscar Sanchez,57320,Ohio
+2022,11/14,Ohio Intercollegiate Open,125,L,DEC,5 - 3,Malik Heinselman,50611,Ohio State,Oscar Sanchez,57320,Ohio
+2022,11/06,Michigan State Open,125,L,DEC,6 - 3,Tristan Lujan,63015,Michigan State,Oscar Sanchez,57320,Ohio
+2022,11/06,Michigan State Open,125,L,TB-1,2 - 1,Justin Cardani,51687,Illinois,Oscar Sanchez,57320,Ohio
+2022,02/13,John Carroll Open,125,W,DEC,13 - 6,Johnny Novak,74137,Baldwin Wallace,Dierre Clayton,72515,Ohio
+2022,02/13,John Carroll Open,125,W,DEC,2 - 0,Trevon Gray,74004,Pitt-Johnstown,Dierre Clayton,72515,Ohio
+2022,02/13,John Carroll Open,125,L,FALL,5:39,David Panda,71378,Baldwin Wallace,Dierre Clayton,72515,Ohio
+2022,02/13,John Carroll Open,125,W,FALL,2:58,Daniel Adams,72591,Cleveland State,Dierre Clayton,72515,Ohio
+2022,02/13,John Carroll Open,125,L,SV-1,4 - 2,Trey Bates,71792,Central Michigan,Dierre Clayton,72515,Ohio
+2022,12/11,Cleveland State Open,125,W,DEC,7 - 3,Daniel Adams,72591,Cleveland State,Dierre Clayton,72515,Ohio
+2022,12/11,Cleveland State Open,125,L,DEC,6 - 2,Trey Bates,71792,Central Michigan,Dierre Clayton,72515,Ohio
+2022,12/11,Cleveland State Open,125,L,MD,11 - 2,Brock Bergelin,49078,Central Michigan,Dierre Clayton,72515,Ohio
+2022,11/14,Ohio Intercollegiate Open,125,W,FALL,5:37,Robert Horan,75981,Rochester Institute of Technology,Dierre Clayton,72515,Ohio
+2022,11/14,Ohio Intercollegiate Open,125,W,DEC,1 - 0,Caden Crawford,74443,Tiffin University,Dierre Clayton,72515,Ohio
+2022,11/14,Ohio Intercollegiate Open,125,W,DEC,9 - 7,Logan Patterson,72039,Rochester Institute of Technology,Dierre Clayton,72515,Ohio
+2022,11/14,Ohio Intercollegiate Open,125,W,DEC,5 - 3,Logan Patterson,72039,Rochester Institute of Technology,Dierre Clayton,72515,Ohio
+2022,11/14,Ohio Intercollegiate Open,125,L,MD,9 - 1,Jace Schafer,73377,West Virginia,Dierre Clayton,72515,Ohio
+2022,11/06,Michigan State Open,125,L,DEC,8 - 4,Blake West,73337,Northern Illinois,Dierre Clayton,72515,Ohio
+2022,11/06,Michigan State Open,125,W,DEC,8 - 5,Andrew Hampton,73020,Michigan State,Dierre Clayton,72515,Ohio
+2022,11/06,Michigan State Open,125,W,DEC,13 - 9,Christian Tanefeu,73460,Michigan,Dierre Clayton,72515,Ohio
+2022,11/06,Michigan State Open,125,W,DEC,9 - 4,Logan Jaquay,67227,Edinboro,Dierre Clayton,72515,Ohio
+2022,11/06,Michigan State Open,125,L,MD,18 - 6,Logan Jaquay,67227,Edinboro,Dierre Clayton,72515,Ohio
+2022,01/15,Northern Ill Ohio ECM,125,L,DEC,2 - 0,Lucian Brink,64945,Northern Illinois,Tommy Hoskins,50613,Ohio
+2022,01/04,Ohio Indiana Round Robin,125,L,DEC,2 - 0,Noah Gochberg,71953,Indiana,Tommy Hoskins,50613,Ohio
+2022,12/11,Cleveland State Open,125,L,MD,10 - 0,Colton Camacho,58029,Pittsburgh,Tommy Hoskins,50613,Ohio
+2022,12/11,Cleveland State Open,125,W,DEC,4 - 0,Nathan Cummings,51073,Purdue,Tommy Hoskins,50613,Ohio
+2022,12/11,Cleveland State Open,125,W,DEC,6 - 0,Daniel Adams,72591,Cleveland State,Tommy Hoskins,50613,Ohio
+2022,12/11,Cleveland State Open,125,L,DEC,4 - 0,Sean Spidle,63063,Central Michigan,Tommy Hoskins,50613,Ohio
+2022,11/14,Ohio Intercollegiate Open,125,W,TF5,15 - 0 7:00,Kade Orr,73311,Kent State,Tommy Hoskins,50613,Ohio
+2022,11/14,Ohio Intercollegiate Open,125,L,DEC,6 - 4,Brandon Mendoza,69796,Tiffin University,Tommy Hoskins,50613,Ohio
+2022,11/14,Ohio Intercollegiate Open,125,L,DEC,3 - 1,Brady Koontz,50853,Ohio State,Tommy Hoskins,50613,Ohio
+2022,11/06,Michigan State Open,125,W,DEC,7 - 5,Brady Koontz,50853,Ohio State,Tommy Hoskins,50613,Ohio
+2022,11/06,Michigan State Open,125,W,DEC,4 - 1,Zach Collins,50325,Findlay,Tommy Hoskins,50613,Ohio
+2022,11/06,Michigan State Open,125,L,FALL,3:10,Drew West,50041,Northern Illinois,Tommy Hoskins,50613,Ohio
+2022,11/06,Michigan State Open,125,L,DEC,4 - 2,Dane Durlacher,56817,Illinois,Tommy Hoskins,50613,Ohio
+2022,03/04,MAC Championships,133,L,DEC,4 - 3,Gable Strickland,71822,Lock Haven,Gio Disabato,50840,Ohio
+2022,03/04,MAC Championships,133,W,DEC,10 - 6,Aaron Schulist,57012,SIU Edwardsville,Gio Disabato,50840,Ohio
+2022,03/04,MAC Championships,133,L,DEC,5 - 4,Derek Spann,45028,Buffalo,Gio Disabato,50840,Ohio
+2022,03/04,MAC Championships,133,W,SV-1,4 - 2,Cole Rhone,62773,Bloomsburg,Gio Disabato,50840,Ohio
+2022,02/19,Buffalo - Ohio Dual,133,L,DEC,6 - 4,Derek Spann,45028,Buffalo,Gio Disabato,50840,Ohio
+2022,02/05,Ohio - Cleveland State Dual,133,L,DEC,5 - 2,Jacob Manley,67785,Cleveland State,Gio Disabato,50840,Ohio
+2022,02/04,Ohio - Kent State Dual,133,W,DEC,4 - 2,Brendon Fenton,50938,Kent State,Gio Disabato,50840,Ohio
+2022,01/30,Ohio - Central Michigan Dual,133,W,MD,15 - 7,Ja'Kerion Merritt,67176,Central Michigan,Gio Disabato,50840,Ohio
+2022,01/23,Davidson - Ohio Dual,133,W,MD,19 - 7,Kyle Gorant,51686,Davidson,Gio Disabato,50840,Ohio
+2022,01/22,Navy - Ohio Dual,133,L,DEC,4 - 3,Joshua Koderhandt,70917,Navy,Gio Disabato,50840,Ohio
+2022,01/15,Ohio - Northern Illinois Dual,133,W,DEC,14 - 7,Mikey Kaminski,68722,Northern Illinois,Gio Disabato,50840,Ohio
+2022,01/04,Ohio Indiana Round Robin,133,L,DEC,6 - 2,Brock Hudkins,44808,Indiana,Gio Disabato,50840,Ohio
+2022,12/19,Ohio - Gardner-Webb Dual,133,L,DEC,7 - 5,Todd Carter,69785,Gardner-Webb,Gio Disabato,50840,Ohio
+2022,12/19,George Mason - Ohio Dual,133,W,MD,14 - 4,Michael Rapuano,71926,George Mason,Gio Disabato,50840,Ohio
+2022,12/11,Ohio - Bellarmine Dual,133,W,TF5,19 - 3 3:31,Max Dansereau,62790,Bellarmine,Gio Disabato,50840,Ohio
+2022,12/05,West Virginia - Ohio Dual,133,W,DEC,5 - 2,Garett Lautzenheiser,72996,West Virginia,Gio Disabato,50840,Ohio
+2022,12/03,Ohio - Clarion Dual,133,W,DEC,9 - 3,Alexander Blake,57720,Clarion,Gio Disabato,50840,Ohio
+2022,11/20,Navy Classic,133,W,DEC,4 - 3,Gable Strickland,71822,Lock Haven,Gio Disabato,50840,Ohio
+2022,11/20,Navy Classic,133,L,DEC,1 - 0,Kurt Phipps,63966,Bucknell,Gio Disabato,50840,Ohio
+2022,11/20,Navy Classic,133,L,DEC,2 - 1,Brendon Fenton,50938,Kent State,Gio Disabato,50840,Ohio
+2022,11/20,Navy Classic,133,W,DEC,5 - 3,Jake Rotunda,55953,The Citadel,Gio Disabato,50840,Ohio
+2022,11/20,Navy Classic,133,W,DEC,5 - 2,Jack Maida,72679,American,Gio Disabato,50840,Ohio
+2022,11/14,Ohio Intercollegiate Open,133,W,TF5,22 - 7 7:00,Dylan Burnoski,60435,Notre Dame,Gio Disabato,50840,Ohio
+2022,11/14,Ohio Intercollegiate Open,133,W,MD,11 - 0,Phillip Kue,63244,Ohio State,Gio Disabato,50840,Ohio
+2022,11/14,Ohio Intercollegiate Open,133,W,DEC,3 - 1,Dylan Koontz,50854,Ohio State,Gio Disabato,50840,Ohio
+2022,02/06,Edinboro Open,133,L,FALL,3:24,Dylan Chappell,71754,Bucknell,Michael Catanzaro,72532,Ohio
+2022,02/06,Edinboro Open,133,L,DEC,6 - 3,Cole Minnick,72222,Buffalo,Michael Catanzaro,72532,Ohio
+2022,01/29,Appalachain Open,133,W,FALL,5:58,Darrell Mims,76424,Life University,Michael Catanzaro,72532,Ohio
+2022,01/29,Appalachain Open,133,L,FALL,2:48,Erik Roggie,73059,Virginia,Michael Catanzaro,72532,Ohio
+2022,01/29,Appalachain Open,133,W,MFOR,0 - 0,Mario Guillen,44618,Ohio,Michael Catanzaro,72532,Ohio
+2022,01/29,Appalachain Open,133,L,FALL,1:54,Kobe Early,64656,Appalachian State,Michael Catanzaro,72532,Ohio
+2022,12/11,Cleveland State Open,133,L,DEC,2 - 0,Cameron Soda,72219,Edinboro,Michael Catanzaro,72532,Ohio
+2022,12/11,Cleveland State Open,133,L,DEC,3 - 1,Cole Minnick,72222,Buffalo,Michael Catanzaro,72532,Ohio
+2022,12/05,Storm Open,133,L,DEC,8 - 4,Ryan Wehner,66391,Lake Erie College,Michael Catanzaro,72532,Ohio
+2022,12/05,Storm Open,133,W,DEC,5 - 3,Manny Laguna,73516,Michigan State,Michael Catanzaro,72532,Ohio
+2022,12/05,Storm Open,133,L,DEC,6 - 1,Chase Liardi,72134,Ohio State,Michael Catanzaro,72532,Ohio
+2022,03/04,MAC Championships,141,L,DEC,6 - 3,Kaden Cassidy,65847,George Mason,Kyran Hagan,49247,Ohio
+2022,03/04,MAC Championships,141,L,DEC,5 - 2,Ben Freeman,49177,Buffalo,Kyran Hagan,49247,Ohio
+2022,02/04,Ohio - Kent State Dual,141,W,DEC,1 - 0,Louis Newell,50916,Kent State,Kyran Hagan,49247,Ohio
+2022,01/30,Ohio - Central Michigan Dual,141,L,MD,9 - 0,Dresden Simon,44707,Central Michigan,Kyran Hagan,49247,Ohio
+2022,01/23,Davidson - Ohio Dual,141,W,DEC,6 - 0,Nick Cambria,70989,Davidson,Kyran Hagan,49247,Ohio
+2022,01/04,Ohio Indiana Round Robin,141,W,DEC,5 - 2,Cayden Rooks,56710,Indiana,Kyran Hagan,49247,Ohio
+2022,12/19,George Mason - Ohio Dual,141,W,DEC,5 - 3,Kaden Cassidy,65847,George Mason,Kyran Hagan,49247,Ohio
+2022,12/05,West Virginia - Ohio Dual,141,W,FALL,1:41,Caleb Rea,56445,West Virginia,Kyran Hagan,49247,Ohio
+2022,12/03,Ohio - Clarion Dual,141,L,DEC,6 - 5,Seth Koleno,51157,Clarion,Kyran Hagan,49247,Ohio
+2022,11/20,Navy Classic,141,W,MD,13 - 2,Gabe Willochell,62335,Edinboro,Kyran Hagan,49247,Ohio
+2022,11/20,Navy Classic,141,L,SV-1,6 - 4,Gabe Willochell,62335,Edinboro,Kyran Hagan,49247,Ohio
+2022,11/20,Navy Classic,141,W,DEC,2 - 0,Jordan Hamdan,57705,Michigan State,Kyran Hagan,49247,Ohio
+2022,11/20,Navy Classic,141,W,DEC,6 - 1,River Curtis,56071,Navy,Kyran Hagan,49247,Ohio
+2022,11/20,Navy Classic,141,W,FALL,3:37,Josh Mason,53817,Bloomsburg,Kyran Hagan,49247,Ohio
+2022,11/20,Navy Classic,141,W,FALL,5:46,Louis Newell,50916,Kent State,Kyran Hagan,49247,Ohio
+2022,11/14,Ohio Intercollegiate Open,141,W,DEC,9 - 2,Matt Zuckerman,62685,Tiffin University,Kyran Hagan,49247,Ohio
+2022,11/14,Ohio Intercollegiate Open,141,W,DEC,3 - 0,Jackie Gold,54500,Edinboro,Kyran Hagan,49247,Ohio
+2022,11/14,Ohio Intercollegiate Open,141,L,DEC,5 - 2,Dylan D'Emilio,56726,Ohio State,Kyran Hagan,49247,Ohio
+2022,01/29,Appalachain Open,133,L,MFOR,0 - 0,Michael Catanzaro,72532,Ohio,Mario Guillen,44618,Ohio
+2022,01/29,Appalachain Open,133,W,MD,12 - 3,Joe Haynes,73057,Virginia,Mario Guillen,44618,Ohio
+2022,01/29,Appalachain Open,133,L,DEC,2 - 1,Joe Heilmann,51223,North Carolina,Mario Guillen,44618,Ohio
+2022,01/22,Navy - Ohio Dual,141,W,DEC,6 - 4,Tyler Hunt,55813,Navy,Mario Guillen,44618,Ohio
+2022,01/15,Ohio - Northern Illinois Dual,141,W,DEC,4 - 3,Jaivon Jones,62724,Northern Illinois,Mario Guillen,44618,Ohio
+2022,12/19,Ohio - Gardner-Webb Dual,141,W,DEC,7 - 0,Trevon Majette,51364,Gardner-Webb,Mario Guillen,44618,Ohio
+2022,02/19,Buffalo - Ohio Dual,141,L,MD,10 - 2,Ben Freeman,49177,Buffalo,Aidan Waszak,73163,Ohio
+2022,02/06,Greyhound Open,141,W,MD,16 - 7,Jared Brown,76531,Marian University,Aidan Waszak,73163,Ohio
+2022,02/06,Greyhound Open,141,L,SV-1,8 - 6,Hunter Cottingham,67573,Indianapolis,Aidan Waszak,73163,Ohio
+2022,02/06,Greyhound Open,141,L,DEC,9 - 2,Thomas Williams,66626,Davis & Elkins,Aidan Waszak,73163,Ohio
+2022,12/11,Cleveland State Open,141,W,FALL,2:04,Liam Schibi,76007,Spartan Combat RTC,Aidan Waszak,73163,Ohio
+2022,12/11,Cleveland State Open,141,L,DEC,6 - 1,Cayden Dotson,71839,Edinboro,Aidan Waszak,73163,Ohio
+2022,12/11,Cleveland State Open,141,L,DEC,7 - 2,Will Grater,67164,Central Michigan,Aidan Waszak,73163,Ohio
+2022,11/14,Ohio Intercollegiate Open,141,L,MFOR,0 - 0,Austin Fietz,75980,Lake Erie College,Aidan Waszak,73163,Ohio
+2022,11/14,Ohio Intercollegiate Open,141,L,INJ,0:25,Matthew Grant,72043,Rochester Institute of Technology,Aidan Waszak,73163,Ohio
+2022,11/06,Michigan State Open,141,L,MD,16 - 2,Noah Mis,73339,Northern Illinois,Aidan Waszak,73163,Ohio
+2022,11/06,Michigan State Open,141,L,DEC,8 - 5,Adam Jacob,67022,Cal Poly,Aidan Waszak,73163,Ohio
+2022,03/04,MAC Championships,149,W,DEC,4 - 3,Caleb Tyus,72912,SIU Edwardsville,Alec Hagan,49248,Ohio
+2022,03/04,MAC Championships,149,L,DEC,3 - 2,Dashawn Farber,62823,Lock Haven,Alec Hagan,49248,Ohio
+2022,03/04,MAC Championships,149,W,DEC,9 - 4,Bryan Miraglia,62187,Rider,Alec Hagan,49248,Ohio
+2022,03/04,MAC Championships,149,L,SV-1,6 - 4,Alex Madrigal,39754,George Mason,Alec Hagan,49248,Ohio
+2022,03/04,MAC Championships,149,W,DEC,9 - 3,Ryan Burgos,63141,Edinboro,Alec Hagan,49248,Ohio
+2022,02/19,Buffalo - Ohio Dual,149,L,DEC,3 - 2,John Arceri,47552,Buffalo,Alec Hagan,49248,Ohio
+2022,02/12,Southern Illinois Edwardsville - Ohio Dual,149,W,DEC,3 - 1,Caleb Tyus,72912,SIU Edwardsville,Alec Hagan,49248,Ohio
+2022,02/05,Ohio - Cleveland State Dual,149,W,SV-1,3 - 1,Marcus Robinson,56479,Cleveland State,Alec Hagan,49248,Ohio
+2022,02/04,Ohio - Kent State Dual,149,W,DEC,7 - 4,Kody Komara,50094,Kent State,Alec Hagan,49248,Ohio
+2022,01/30,Ohio - Central Michigan Dual,149,L,DEC,4 - 1,Corbyn Munson,51197,Central Michigan,Alec Hagan,49248,Ohio
+2022,01/23,Davidson - Ohio Dual,149,W,MD,11 - 0,David Loniewski,57701,Davidson,Alec Hagan,49248,Ohio
+2022,01/22,Navy - Ohio Dual,149,W,TF5,15 - 0 4:30,Jonathan Miranda,57367,Navy,Alec Hagan,49248,Ohio
+2022,01/15,Ohio - Northern Illinois Dual,149,W,DEC,2 - 1,Anthony Cheloni,53565,Northern Illinois,Alec Hagan,49248,Ohio
+2022,01/04,Ohio Indiana Round Robin,149,W,DEC,3 - 2,Graham Rooks,51283,Indiana,Alec Hagan,49248,Ohio
+2022,12/19,Ohio - Gardner-Webb Dual,149,W,FALL,0:16,Corbin Dion,69783,Gardner-Webb,Alec Hagan,49248,Ohio
+2022,12/19,George Mason - Ohio Dual,149,L,DEC,9 - 3,Alex Madrigal,39754,George Mason,Alec Hagan,49248,Ohio
+2022,12/11,Ohio - Bellarmine Dual,149,W,FALL,1:51,Mitch Collica,61644,Bellarmine,Alec Hagan,49248,Ohio
+2022,12/05,West Virginia - Ohio Dual,149,W,TF5,16 - 0 6:10,Brayden Roberts,64960,West Virginia,Alec Hagan,49248,Ohio
+2022,12/03,Ohio - Clarion Dual,149,L,FALL,0:59,Brent Moore,44666,Clarion,Alec Hagan,49248,Ohio
+2022,11/20,Navy Classic,149,W,TF5,16 - 1 2:42,Tyler Johnson,69711,Kent State,Alec Hagan,49248,Ohio
+2022,11/20,Navy Classic,149,L,DQ,0 - 0,Christian Hodges,67545,Navy,Alec Hagan,49248,Ohio
+2022,11/20,Navy Classic,149,W,DEC,4 - 0,Ryan Burgos,63141,Edinboro,Alec Hagan,49248,Ohio
+2022,11/20,Navy Classic,149,W,DEC,5 - 0,Eddie Homrock,62776,Michigan State,Alec Hagan,49248,Ohio
+2022,11/20,Navy Classic,149,W,DEC,4 - 2,Cade Balestrini,62514,Bloomsburg,Alec Hagan,49248,Ohio
+2022,11/20,Navy Classic,149,W,DEC,8 - 6,Ethan Willis,62074,The Citadel,Alec Hagan,49248,Ohio
+2022,11/14,Ohio Intercollegiate Open,149,W,DEC,3 - 1,Brayden Roberts,64960,West Virginia,Alec Hagan,49248,Ohio
+2022,11/14,Ohio Intercollegiate Open,149,W,DEC,7 - 0,Joey Sanchez,61029,Oklahoma State,Alec Hagan,49248,Ohio
+2022,11/14,Ohio Intercollegiate Open,149,W,SV-1,6 - 4,Klay Reeves,62470,Ohio State,Alec Hagan,49248,Ohio
+2022,11/14,Ohio Intercollegiate Open,149,L,MD,12 - 3,Sammy Sasso,51143,Ohio State,Alec Hagan,49248,Ohio
+2022,11/06,Michigan State Open,149,W,TF5,18 - 0 7:00,La'ron Ruffin,70772,Mott Community College,Alec Hagan,49248,Ohio
+2022,11/06,Michigan State Open,149,W,FALL,7:00,Niko Chavez,57139,Oklahoma,Alec Hagan,49248,Ohio
+2022,11/06,Michigan State Open,149,W,MFOR,0 - 0,Mitch Moore,50620,Oklahoma,Alec Hagan,49248,Ohio
+2022,11/06,Michigan State Open,149,W,SV-1,5 - 3,Ryan Burgos,63141,Edinboro,Alec Hagan,49248,Ohio
+2022,11/06,Michigan State Open,149,W,MFOR,0 - 0,Legend Lamer,56776,Cal Poly,Alec Hagan,49248,Ohio
+2022,02/06,Edinboro Open,149,L,DEC,1 - 0,Kaemen Smith,78323,High School,Colin Roberts,73166,Ohio
+2022,02/06,Edinboro Open,149,W,DEC,11 - 4,Carson Filer,72202,Gannon,Colin Roberts,73166,Ohio
+2022,02/06,Edinboro Open,149,L,FALL,4:29,Mitchell Christensen,57364,Central Michigan,Colin Roberts,73166,Ohio
+2022,03/17,NCAA Championships,157,L,DEC,6 - 5,Hunter Richard,49107,Cornell,Jordan Slivka,57602,Ohio
+2022,03/17,NCAA Championships,157,L,DEC,10 - 4,Derek Holschlag,49238,Northern Iowa,Jordan Slivka,57602,Ohio
+2022,03/04,MAC Championships,157,L,DEC,4 - 3,Michael Petite,55596,Buffalo,Jordan Slivka,57602,Ohio
+2022,03/04,MAC Championships,157,W,DEC,3 - 0,Alex Carida,56789,Bloomsburg,Jordan Slivka,57602,Ohio
+2022,03/04,MAC Championships,157,W,TF5,15 - 0 4:54,Max Kristoff,63195,SIU Edwardsville,Jordan Slivka,57602,Ohio
+2022,03/04,MAC Championships,157,W,DEC,5 - 0,Anthony Gibson,56508,Northern Illinois,Jordan Slivka,57602,Ohio
+2022,03/04,MAC Championships,157,L,SV-1,4 - 2,Benjamin Barton,44733,Lock Haven,Jordan Slivka,57602,Ohio
+2022,02/19,Buffalo - Ohio Dual,157,L,DEC,4 - 3,Michael Petite,55596,Buffalo,Jordan Slivka,57602,Ohio
+2022,02/12,Southern Illinois Edwardsville - Ohio Dual,157,W,FALL,7:00,Max Kristoff,63195,SIU Edwardsville,Jordan Slivka,57602,Ohio
+2022,02/04,Ohio - Kent State Dual,157,W,FALL,1:46,Bobby Pryhocki,50956,Kent State,Jordan Slivka,57602,Ohio
+2022,01/30,Ohio - Central Michigan Dual,157,L,DEC,9 - 5,Johnny Lovett,61935,Central Michigan,Jordan Slivka,57602,Ohio
+2022,01/23,Davidson - Ohio Dual,157,W,MD,8 - 0,Bryce Sanderlin,63711,Davidson,Jordan Slivka,57602,Ohio
+2022,01/22,Navy - Ohio Dual,157,L,DEC,5 - 4,Andrew Cerniglia,62439,Navy,Jordan Slivka,57602,Ohio
+2022,01/15,Ohio - Northern Illinois Dual,157,W,INJ,0:25,Munkhtulga Zuunbayan,64263,Northern Illinois,Jordan Slivka,57602,Ohio
+2022,12/19,Ohio - Gardner-Webb Dual,157,W,DEC,2 - 0,Taylor Parks,51306,Gardner-Webb,Jordan Slivka,57602,Ohio
+2022,12/19,George Mason - Ohio Dual,157,W,MD,8 - 0,Avery Bassett,71835,George Mason,Jordan Slivka,57602,Ohio
+2022,12/11,Ohio - Bellarmine Dual,157,W,FALL,4:28,Alex Rhine,49379,Bellarmine,Jordan Slivka,57602,Ohio
+2022,12/05,West Virginia - Ohio Dual,157,W,DEC,3 - 0,Alex Hornfeck,56494,West Virginia,Jordan Slivka,57602,Ohio
+2022,12/03,Ohio - Clarion Dual,157,W,DEC,8 - 2,Kolby Ho,55945,Clarion,Jordan Slivka,57602,Ohio
+2022,11/20,Navy Classic,157,W,INJ,5:33,AJ Tamburrino,63155,Navy,Jordan Slivka,57602,Ohio
+2022,11/20,Navy Classic,157,W,DEC,4 - 2,Chase Saldate,61118,Michigan State,Jordan Slivka,57602,Ohio
+2022,11/20,Navy Classic,157,W,DEC,6 - 2,Alex Carida,56789,Bloomsburg,Jordan Slivka,57602,Ohio
+2022,11/20,Navy Classic,157,W,DEC,2 - 0,Dazjon Casto,57183,The Citadel,Jordan Slivka,57602,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,W,TF5,17 - 2 7:00,Alec Cook,58618,West Liberty University,Jordan Slivka,57602,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,W,FALL,5:00,Gavin Quiocho,73218,Glenville State University,Jordan Slivka,57602,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,L,DEC,9 - 4,Bryce Hepner,64961,Ohio State,Jordan Slivka,57602,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,W,DEC,9 - 2,Kevon Freeman,56322,Ohio State,Jordan Slivka,57602,Ohio
+2022,11/06,Michigan State Open,157,W,DEC,7 - 2,Drew Scharenbrock,59184,Wisconsin,Jordan Slivka,57602,Ohio
+2022,11/06,Michigan State Open,157,W,FALL,3:35,Kevon Freeman,56322,Ohio State,Jordan Slivka,57602,Ohio
+2022,11/06,Michigan State Open,157,L,FALL,3:52,Chase Saldate,61118,Michigan State,Jordan Slivka,57602,Ohio
+2022,11/06,Michigan State Open,157,W,DEC,2 - 1,Joe Roberts,62344,Illinois,Jordan Slivka,57602,Ohio
+2022,11/06,Michigan State Open,157,W,DEC,8 - 4,Brawley Lamer,50051,Cal Poly,Jordan Slivka,57602,Ohio
+2022,01/29,Appalachain Open,157,W,MD,13 - 5,Kamdyn Munro,71789,Boom Ranch WC,Peyten Kellar,73168,Ohio
+2022,01/29,Appalachain Open,157,W,DEC,4 - 2,Garrett Thompson,73169,Ohio,Peyten Kellar,73168,Ohio
+2022,01/29,Appalachain Open,157,L,TF5,20 - 4 5:29,Austin O'Connor,49214,North Carolina,Peyten Kellar,73168,Ohio
+2022,01/29,Appalachain Open,157,W,FALL,4:04,Jackson Hurst,73352,Chattanooga,Peyten Kellar,73168,Ohio
+2022,01/29,Appalachain Open,157,W,DEC,7 - 4,Cayleb Atkins,71776,Appalachian State,Peyten Kellar,73168,Ohio
+2022,01/29,Appalachain Open,157,W,DEC,3 - 1,Tommy Askey,67040,Appalachian State,Peyten Kellar,73168,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,W,FALL,4:53,Melvin Patterson,75985,Notre Dame,Peyten Kellar,73168,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,W,FALL,4:05,Matt Leehan,75982,Mercyhurst,Peyten Kellar,73168,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,W,FALL,2:09,Micah Mydloski,68209,Heidelberg,Peyten Kellar,73168,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,L,DEC,7 - 5,Paddy Gallagher,68724,Ohio State,Peyten Kellar,73168,Ohio
+2022,11/06,Michigan State Open,157,L,DEC,5 - 3,Garrett Thompson,73169,Ohio,Peyten Kellar,73168,Ohio
+2022,11/06,Michigan State Open,157,W,DEC,8 - 4,Cody Anderson,67081,Wisconsin,Peyten Kellar,73168,Ohio
+2022,11/06,Michigan State Open,157,L,SV-1,6 - 4,Aiden Vandenbush,73000,Northwestern,Peyten Kellar,73168,Ohio
+2022,11/06,Michigan State Open,157,W,DEC,7 - 2,Skyler Crespo,63044,Michigan State,Peyten Kellar,73168,Ohio
+2022,11/06,Michigan State Open,157,W,DEC,11 - 5,Trenton Wachter,73721,Central Michigan,Peyten Kellar,73168,Ohio
+2022,11/06,Michigan State Open,157,W,DEC,11 - 7,Chandler Amaker,72571,Central Michigan,Peyten Kellar,73168,Ohio
+2022,02/06,Edinboro Open,157,L,FALL,4:54,Levi Haines,72657,High School,Garrett Thompson,73169,Ohio
+2022,02/06,Edinboro Open,157,W,DEC,9 - 2,Collin McCorkle,73310,Pittsburgh,Garrett Thompson,73169,Ohio
+2022,02/06,Edinboro Open,157,W,TF5,16 - 0 3:07,Ian Senz,57241,Kent State,Garrett Thompson,73169,Ohio
+2022,02/06,Edinboro Open,157,L,DEC,7 - 3,Cameron Robinson,62108,Iowa State,Garrett Thompson,73169,Ohio
+2022,02/06,Edinboro Open,157,W,FALL,0:55,Ethan Ferro,71838,Edinboro,Garrett Thompson,73169,Ohio
+2022,01/29,Appalachain Open,157,L,DEC,4 - 2,Peyten Kellar,73168,Ohio,Garrett Thompson,73169,Ohio
+2022,01/29,Appalachain Open,157,W,TF5,18 - 2 5:17,William Lowery,71171,UNC Pembroke,Garrett Thompson,73169,Ohio
+2022,01/29,Appalachain Open,157,L,DEC,6 - 3,Derek Fields,71932,NC State,Garrett Thompson,73169,Ohio
+2022,01/29,Appalachain Open,157,W,FALL,0:59,Avlyn Brook,78260,Appalachian State,Garrett Thompson,73169,Ohio
+2022,01/29,Appalachain Open,157,W,DEC,10 - 6,Cayleb Atkins,71776,Appalachian State,Garrett Thompson,73169,Ohio
+2022,12/11,Cleveland State Open,157,L,MD,15 - 4,Paddy Gallagher,68724,Ohio State,Garrett Thompson,73169,Ohio
+2022,12/11,Cleveland State Open,157,L,DEC,1 - 0,Tyler Badgett,67118,Pittsburgh,Garrett Thompson,73169,Ohio
+2022,12/11,Cleveland State Open,157,W,TF5,18 - 0 7:00,Ian Senz,57241,Kent State,Garrett Thompson,73169,Ohio
+2022,12/11,Cleveland State Open,157,W,DEC,8 - 1,Douglas Terry,70741,Cleveland State,Garrett Thompson,73169,Ohio
+2022,12/05,Storm Open,157,W,FALL,2:31,Nicholas Coreno,67141,Gannon,Garrett Thompson,73169,Ohio
+2022,12/05,Storm Open,157,W,DEC,8 - 1,Jacob Potok,64503,Lake Erie College,Garrett Thompson,73169,Ohio
+2022,12/05,Storm Open,157,L,MD,10 - 2,Isaac Wilcox,60592,Ohio State,Garrett Thompson,73169,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,W,MD,14 - 0,Tyler Swiderski,75986,Lake Erie College,Garrett Thompson,73169,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,W,MD,10 - 0,Matt Leehan,75982,Mercyhurst,Garrett Thompson,73169,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,L,MD,12 - 4,Paddy Gallagher,68724,Ohio State,Garrett Thompson,73169,Ohio
+2022,11/06,Michigan State Open,157,W,FALL,1:12,Cooper Mansfield,74324,Cornerstone,Garrett Thompson,73169,Ohio
+2022,11/06,Michigan State Open,157,W,FALL,3:55,Gary Nilson,74304,Findlay,Garrett Thompson,73169,Ohio
+2022,11/06,Michigan State Open,157,W,DEC,5 - 3,Peyten Kellar,73168,Ohio,Garrett Thompson,73169,Ohio
+2022,11/06,Michigan State Open,157,W,TF5,17 - 0 7:00,Liam Harris,73165,Ohio,Garrett Thompson,73169,Ohio
+2022,11/06,Michigan State Open,157,L,DEC,4 - 0,Alejandro Herrera-Rondon,68725,Oklahoma,Garrett Thompson,73169,Ohio
+2022,11/06,Michigan State Open,157,W,TF5,16 - 0 7:00,Aiden Vandenbush,73000,Northwestern,Garrett Thompson,73169,Ohio
+2022,01/29,Appalachain Open,157,W,MD,13 - 3,Brandon Irigoyen-Camero,76652,Life University,Liam Harris,73165,Ohio
+2022,01/29,Appalachain Open,157,L,TF5,17 - 1 3:49,Kamdyn Munro,71789,Boom Ranch WC,Liam Harris,73165,Ohio
+2022,01/29,Appalachain Open,157,L,DEC,7 - 2,Aidan Lenz,73359,The Citadel,Liam Harris,73165,Ohio
+2022,01/29,Appalachain Open,157,W,FALL,2:18,Avlyn Brook,78260,Appalachian State,Liam Harris,73165,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,L,FALL,6:49,Melvin Patterson,75985,Notre Dame,Liam Harris,73165,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,L,MD,10 - 0,Max Stedeford,71866,Mercyhurst,Liam Harris,73165,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,W,MD,13 - 3,Jake Justice,64518,Heidelberg,Liam Harris,73165,Ohio
+2022,11/06,Michigan State Open,157,L,TF5,17 - 0 7:00,Garrett Thompson,73169,Ohio,Liam Harris,73165,Ohio
+2022,11/06,Michigan State Open,157,L,MD,14 - 1,Gary Nilson,74304,Findlay,Liam Harris,73165,Ohio
+2022,11/06,Michigan State Open,157,W,DEC,6 - 4,Ethan Ferro,71838,Edinboro,Liam Harris,73165,Ohio
+2022,12/11,Cleveland State Open,165,L,MD,12 - 2,Stoney Buell,72153,Purdue,Coltin Jezioro,62046,Ohio
+2022,12/11,Cleveland State Open,165,L,DEC,10 - 3,Najee Hall,72638,Kent State,Coltin Jezioro,62046,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,L,DEC,4 - 1,Dylan Mansor,59024,Tiffin University,Coltin Jezioro,62046,Ohio
+2022,11/14,Ohio Intercollegiate Open,157,L,TF5,18 - 0 7:00,Kevon Freeman,56322,Ohio State,Coltin Jezioro,62046,Ohio
+2022,11/06,Michigan State Open,157,L,FALL,1:05,Fidel Mayora,62366,Michigan,Coltin Jezioro,62046,Ohio
+2022,11/06,Michigan State Open,157,L,DEC,7 - 2,Derek Gilcher,62760,Indiana,Coltin Jezioro,62046,Ohio
+2022,03/04,MAC Championships,165,L,DEC,10 - 3,Brady Chrisman,51190,Kent State,Sean O'dwyer,66628,Ohio
+2022,03/04,MAC Championships,165,L,FALL,2:18,Noah Grover,51227,Buffalo,Sean O'dwyer,66628,Ohio
+2022,02/19,Buffalo - Ohio Dual,165,L,DEC,8 - 2,Noah Grover,51227,Buffalo,Sean O'dwyer,66628,Ohio
+2022,02/12,Southern Illinois Edwardsville - Ohio Dual,165,L,DEC,6 - 3,Cardeionte Wilson,67405,SIU Edwardsville,Sean O'dwyer,66628,Ohio
+2022,02/05,Ohio - Cleveland State Dual,165,L,DEC,3 - 0,Riley Smucker,56147,Cleveland State,Sean O'dwyer,66628,Ohio
+2022,02/04,Ohio - Kent State Dual,165,L,MD,18 - 6,Brady Chrisman,51190,Kent State,Sean O'dwyer,66628,Ohio
+2022,01/30,Ohio - Central Michigan Dual,165,L,MD,14 - 2,Tracy Hubbard,57361,Central Michigan,Sean O'dwyer,66628,Ohio
+2022,01/23,Davidson - Ohio Dual,165,L,DEC,5 - 4,Jaden Hardrick,65048,Davidson,Sean O'dwyer,66628,Ohio
+2022,01/22,Navy - Ohio Dual,165,L,FALL,5:54,Sammy Starr,73336,Navy,Sean O'dwyer,66628,Ohio
+2022,01/15,Ohio - Northern Illinois Dual,165,W,DEC,6 - 3,Alec Rees,59684,Northern Illinois,Sean O'dwyer,66628,Ohio
+2022,01/04,Ohio Indiana Round Robin,165,W,DEC,7 - 4,Sammy Cokeley,50287,Indiana,Sean O'dwyer,66628,Ohio
+2022,12/19,George Mason - Ohio Dual,165,L,DEC,5 - 2,Tyler Kocak,69715,George Mason,Sean O'dwyer,66628,Ohio
+2022,12/11,Ohio - Bellarmine Dual,165,W,DEC,4 - 1,Devan Hendricks,62787,Bellarmine,Sean O'dwyer,66628,Ohio
+2022,12/05,West Virginia - Ohio Dual,165,L,FALL,2:05,Peyton Hall,57711,West Virginia,Sean O'dwyer,66628,Ohio
+2022,11/20,Navy Classic,165,W,MD,11 - 3,Dylan Kohn,71848,Edinboro,Colt Yinger,50607,Ohio
+2022,11/20,Navy Classic,165,W,DEC,14 - 7,Matt Benedetti,67652,Bloomsburg,Colt Yinger,50607,Ohio
+2022,11/20,Navy Classic,165,L,MFOR,0 - 0,Caleb Fish,63045,Michigan State,Colt Yinger,50607,Ohio
+2022,11/20,Navy Classic,165,W,DEC,6 - 5,Jon Park,60226,Navy,Colt Yinger,50607,Ohio
+2022,11/20,Navy Classic,165,L,FALL,2:17,Zach Hartman,50586,Bucknell,Colt Yinger,50607,Ohio
+2022,11/14,Ohio Intercollegiate Open,165,W,MD,17 - 4,Hunter Jones,73219,Glenville State University,Colt Yinger,50607,Ohio
+2022,11/14,Ohio Intercollegiate Open,165,W,DEC,7 - 4,Drew Wiechers,63629,Ashland,Colt Yinger,50607,Ohio
+2022,11/14,Ohio Intercollegiate Open,165,W,FALL,1:09,Isiah Levitz,69356,Indiana,Colt Yinger,50607,Ohio
+2022,11/14,Ohio Intercollegiate Open,165,L,DEC,3 - 1,Carson Kharchla,57703,Ohio State,Colt Yinger,50607,Ohio
+2022,11/06,Michigan State Open,165,L,DEC,7 - 4,Kevin Meicher,59548,Wisconsin,Colt Yinger,50607,Ohio
+2022,11/06,Michigan State Open,165,W,MD,14 - 4,Alex Isbrandt,52126,Findlay,Colt Yinger,50607,Ohio
+2022,11/06,Michigan State Open,165,L,FALL,2:09,Danny Braunagel,50926,Illinois,Colt Yinger,50607,Ohio
+2022,02/19,Buffalo Ohio ECM,165,L,DEC,6 - 4,Jay Nivison,65850,Buffalo,Kamal Adewumi,60766,Ohio
+2022,01/29,Appalachain Open,165,W,MD,15 - 3,Isaiah Poppe,71287,The Citadel,Kamal Adewumi,60766,Ohio
+2022,01/29,Appalachain Open,165,W,TF5,16 - 1 3:21,Loudon Hurt,67385,Virginia,Kamal Adewumi,60766,Ohio
+2022,01/29,Appalachain Open,165,W,DEC,8 - 5,Ray Costa,62199,Virginia,Kamal Adewumi,60766,Ohio
+2022,01/29,Appalachain Open,165,L,SV-1,9 - 4,Sonny Santiago,61113,North Carolina,Kamal Adewumi,60766,Ohio
+2022,01/29,Appalachain Open,165,L,FALL,7:32,Will Miller,73102,Appalachian State,Kamal Adewumi,60766,Ohio
+2022,12/19,Ohio - Gardner-Webb Dual,165,L,DEC,6 - 0,Rodrick Mosley,50889,Gardner-Webb,Kamal Adewumi,60766,Ohio
+2022,12/19,Ohio George Mason ECM,165,L,DEC,8 - 7,Drew Dickson,62581,George Mason,Kamal Adewumi,60766,Ohio
+2022,12/03,Ohio - Clarion Dual,165,L,MD,17 - 4,Cameron Pine,57196,Clarion,Kamal Adewumi,60766,Ohio
+2022,11/20,Navy Classic,165,L,DEC,10 - 6,Jon Park,60226,Navy,Kamal Adewumi,60766,Ohio
+2022,11/20,Navy Classic,165,W,MD,13 - 4,PJ Gohn,51063,Edinboro,Kamal Adewumi,60766,Ohio
+2022,11/20,Navy Classic,165,L,DEC,7 - 3,Timothy Fitzpatrick,57254,American,Kamal Adewumi,60766,Ohio
+2022,11/14,Ohio Intercollegiate Open,165,L,DEC,7 - 0,Austin Lamb,63981,Rochester Institute of Technology,Kamal Adewumi,60766,Ohio
+2022,11/14,Ohio Intercollegiate Open,165,W,DEC,12 - 5,Chase Morgan,50048,West Liberty University,Kamal Adewumi,60766,Ohio
+2022,11/14,Ohio Intercollegiate Open,165,L,TF5,18 - 3 7:00,Carson Kharchla,57703,Ohio State,Kamal Adewumi,60766,Ohio
+2022,11/06,Michigan State Open,165,W,DEC,6 - 3,Troy Mantanona,63763,Oklahoma,Kamal Adewumi,60766,Ohio
+2022,11/06,Michigan State Open,165,L,MD,9 - 1,David Ferrante,57710,Northwestern,Kamal Adewumi,60766,Ohio
+2022,11/06,Michigan State Open,165,L,DEC,6 - 5,PJ Gohn,51063,Edinboro,Kamal Adewumi,60766,Ohio
+2022,02/06,Greyhound Open,165,L,MD,9 - 1,Stoney Buell,72153,Purdue,Bobby Gaylord,73170,Ohio
+2022,02/06,Greyhound Open,165,L,DEC,6 - 3,William Houser,71295,Davis & Elkins,Bobby Gaylord,73170,Ohio
+2022,11/14,Ohio Intercollegiate Open,165,W,MD,10 - 1,Brady Salmons,69761,Heidelberg,Bobby Gaylord,73170,Ohio
+2022,11/14,Ohio Intercollegiate Open,165,W,DEC,5 - 0,Zac Samson,67149,West Liberty University,Bobby Gaylord,73170,Ohio
+2022,11/14,Ohio Intercollegiate Open,165,L,MD,11 - 0,James Ost,64572,Rochester Institute of Technology,Bobby Gaylord,73170,Ohio
+2022,11/14,Ohio Intercollegiate Open,165,W,DEC,7 - 4,Ian Houck,58549,Rochester Institute of Technology,Bobby Gaylord,73170,Ohio
+2022,11/06,Michigan State Open,165,L,TF5,16 - 1 7:00,Sevi Garza,74317,Ashland,Bobby Gaylord,73170,Ohio
+2022,11/06,Michigan State Open,165,L,MD,9 - 1,Ricardo Salin,73343,Northern Illinois,Bobby Gaylord,73170,Ohio
+2022,03/17,NCAA Championships,174,L,MD,15 - 6,Peyton Mocco,50635,Missouri,Sal Perrine,73171,Ohio
+2022,03/17,NCAA Championships,174,L,DEC,8 - 2,Dustin Plott,57607,Oklahoma State,Sal Perrine,73171,Ohio
+2022,03/04,MAC Championship True 2nd,174,L,DEC,3 - 2,Jay Nivison,65850,Buffalo,Sal Perrine,73171,Ohio
+2022,03/04,MAC Championships,174,L,DEC,7 - 5,Mason Kauffman,49128,Northern Illinois,Sal Perrine,73171,Ohio
+2022,03/04,MAC Championships,174,W,MD,13 - 5,Tyler Stoltzfus,65398,Lock Haven,Sal Perrine,73171,Ohio
+2022,03/04,MAC Championships,174,W,FALL,2:25,Anthony Rice,61966,Cleveland State,Sal Perrine,73171,Ohio
+2022,03/04,MAC Championships,174,W,DEC,4 - 3,John Worthing,61847,Clarion,Sal Perrine,73171,Ohio
+2022,02/19,Buffalo - Ohio Dual,174,W,DQ,0 - 0,Jake Lanning,49069,Buffalo,Sal Perrine,73171,Ohio
+2022,02/12,Southern Illinois Edwardsville - Ohio Dual,174,W,DEC,9 - 5,Kevin Gschwendtner,54028,SIU Edwardsville,Sal Perrine,73171,Ohio
+2022,02/05,Ohio - Cleveland State Dual,174,W,DEC,10 - 5,Anthony Rice,61966,Cleveland State,Sal Perrine,73171,Ohio
+2022,02/04,Ohio - Kent State Dual,174,W,DEC,13 - 8,Michael Ferree,56368,Kent State,Sal Perrine,73171,Ohio
+2022,01/30,Ohio - Central Michigan Dual,174,W,DEC,3 - 1,Bret Fedewa,50920,Central Michigan,Sal Perrine,73171,Ohio
+2022,01/22,Navy - Ohio Dual,174,W,DEC,8 - 5,Cael Crebs,72190,Navy,Sal Perrine,73171,Ohio
+2022,01/15,Ohio - Northern Illinois Dual,174,L,DEC,3 - 2,Mason Kauffman,49128,Northern Illinois,Sal Perrine,73171,Ohio
+2022,12/19,Ohio - Gardner-Webb Dual,174,W,FALL,3:57,Evan Schenk,49136,Gardner-Webb,Sal Perrine,73171,Ohio
+2022,12/19,George Mason - Ohio Dual,174,W,DEC,4 - 3,Logan Messer,71846,George Mason,Sal Perrine,73171,Ohio
+2022,12/11,Ohio - Bellarmine Dual,174,W,DEC,10 - 6,Eric Beck,49377,Bellarmine,Sal Perrine,73171,Ohio
+2022,12/05,West Virginia - Ohio Dual,174,W,DEC,11 - 6,Dennis Robin,69638,West Virginia,Sal Perrine,73171,Ohio
+2022,12/03,Ohio - Clarion Dual,174,W,DEC,12 - 5,John Worthing,61847,Clarion,Sal Perrine,73171,Ohio
+2022,11/20,Navy Classic,174,W,MD,20 - 7,Nolan Springer,71749,Bucknell,Sal Perrine,73171,Ohio
+2022,11/20,Navy Classic,174,W,DEC,12 - 6,Jaden Fisher,56900,Bucknell,Sal Perrine,73171,Ohio
+2022,11/20,Navy Classic,174,W,TB-2,8 - 6,Michael Ferree,56368,Kent State,Sal Perrine,73171,Ohio
+2022,11/20,Navy Classic,174,W,DEC,10 - 4,Benjamin Haubert,71286,The Citadel,Sal Perrine,73171,Ohio
+2022,11/14,Ohio Intercollegiate Open,174,W,MD,11 - 3,Thomas Schmitt,75976,Notre Dame,Sal Perrine,73171,Ohio
+2022,11/14,Ohio Intercollegiate Open,174,W,DEC,6 - 5,Scott Joll,62424,West Virginia,Sal Perrine,73171,Ohio
+2022,11/14,Ohio Intercollegiate Open,174,L,DEC,13 - 6,Ethan Smith,50025,Ohio State,Sal Perrine,73171,Ohio
+2022,11/06,Michigan State Open,174,W,DEC,4 - 3,Lucas Daly,71943,Michigan State,Sal Perrine,73171,Ohio
+2022,11/06,Michigan State Open,174,W,MD,13 - 5,Marty Larkin,69873,Michigan State,Sal Perrine,73171,Ohio
+2022,11/06,Michigan State Open,174,W,MD,12 - 3,Joey Arnold,72215,Edinboro,Sal Perrine,73171,Ohio
+2022,11/06,Michigan State Open,174,W,DEC,5 - 1,Jarad Priest,62329,Cal Poly,Sal Perrine,73171,Ohio
+2022,02/19,Buffalo - Ohio Dual,184,L,DEC,5 - 2,Peter Acciardi,51069,Buffalo,Logan Stanley,56204,Ohio
+2022,01/23,Davidson - Ohio Dual,174,W,FALL,4:05,Anthony Spera,62879,Davidson,Logan Stanley,56204,Ohio
+2022,01/04,Ohio Indiana Round Robin,184,W,FALL,5:00,Sean Grim,63021,Indiana,Logan Stanley,56204,Ohio
+2022,12/11,Ohio - Bellarmine Dual,184,W,DEC,5 - 3,Sam Schroeder,67333,Bellarmine,Logan Stanley,56204,Ohio
+2022,11/20,Navy Classic,174,L,DEC,4 - 2,Cael Crebs,72190,Navy,Logan Stanley,56204,Ohio
+2022,11/20,Navy Classic,174,W,DEC,10 - 3,Mike Caniglia,63012,Kent State,Logan Stanley,56204,Ohio
+2022,11/20,Navy Classic,174,L,DEC,9 - 4,Benjamin Haubert,71286,The Citadel,Logan Stanley,56204,Ohio
+2022,11/20,Navy Classic,174,W,DEC,8 - 2,Justin Hart,72530,VMI,Logan Stanley,56204,Ohio
+2022,11/20,Navy Classic,174,W,DEC,4 - 2,Jon Hoover,57525,VMI,Logan Stanley,56204,Ohio
+2022,11/14,Ohio Intercollegiate Open,174,W,FALL,0:58,Nicholas Smythe,59050,Tiffin University,Logan Stanley,56204,Ohio
+2022,11/14,Ohio Intercollegiate Open,174,L,MD,19 - 7,Ethan Smith,50025,Ohio State,Logan Stanley,56204,Ohio
+2022,11/14,Ohio Intercollegiate Open,174,L,DEC,6 - 3,Fritz Schierl,44840,Ohio State,Logan Stanley,56204,Ohio
+2022,11/06,Michigan State Open,174,L,DEC,5 - 3,Mason Kauffman,49128,Northern Illinois,Logan Stanley,56204,Ohio
+2022,11/06,Michigan State Open,174,W,DEC,10 - 3,Sean Grim,63021,Indiana,Logan Stanley,56204,Ohio
+2022,11/06,Michigan State Open,174,L,DEC,6 - 5,DJ Shannon,51137,Illinois,Logan Stanley,56204,Ohio
+2022,02/06,Greyhound Open,174,W,FALL,2:44,Marshall Whipkey,77456,West Liberty University,Mason Clem,72514,Ohio
+2022,02/06,Greyhound Open,174,L,FALL,6:00,Raymond Arebalo,75122,Wabash,Mason Clem,72514,Ohio
+2022,02/06,Greyhound Open,174,L,FALL,1:00,Bret Heil,56271,Maryville University,Mason Clem,72514,Ohio
+2022,02/06,Greyhound Open,174,W,MD,12 - 4,Darian Huff,67332,Bellarmine,Mason Clem,72514,Ohio
+2022,01/29,Appalachain Open,174,W,MFOR,0 - 0,David Veltri,59635,Virginia,Mason Clem,72514,Ohio
+2022,01/29,Appalachain Open,174,L,MD,13 - 2,Victor Marcelli,50587,Virginia,Mason Clem,72514,Ohio
+2022,01/29,Appalachain Open,174,L,MD,9 - 0,Brett Mordecai,61869,Appalachian State,Mason Clem,72514,Ohio
+2022,01/15,Ohio - Northern Illinois Dual,197,L,MD,12 - 2,Tristen Guaman,55424,Northern Illinois,John Mark Williams,61918,Ohio
+2022,11/06,Michigan State Open,174,L,FALL,5:30,Fritz Schierl,44840,Ohio State,John Mark Williams,61918,Ohio
+2022,11/06,Michigan State Open,174,L,MD,12 - 3,Ankhaa Enkhmandakh,62897,Northwestern,John Mark Williams,61918,Ohio
+2022,03/04,MAC Championships,184,L,DEC,5 - 2,Colin Fegley,63035,Lock Haven,Zayne Lehman,71781,Ohio
+2022,03/04,MAC Championships,184,L,DEC,3 - 2,Max Wohlabaugh,49096,Clarion,Zayne Lehman,71781,Ohio
+2022,02/12,Southern Illinois Edwardsville - Ohio Dual,184,W,MD,11 - 1,Sergio Villalobos,57005,SIU Edwardsville,Zayne Lehman,71781,Ohio
+2022,02/04,Ohio - Kent State Dual,184,L,DEC,4 - 1,Colin McCracken,50064,Kent State,Zayne Lehman,71781,Ohio
+2022,01/30,Ohio - Central Michigan Dual,184,W,DEC,3 - 2,Ben Cushman,57359,Central Michigan,Zayne Lehman,71781,Ohio
+2022,01/23,Davidson - Ohio Dual,184,L,FALL,4:07,Steven Newell,57721,Davidson,Zayne Lehman,71781,Ohio
+2022,01/22,Navy - Ohio Dual,184,L,DEC,5 - 2,David Key,56717,Navy,Zayne Lehman,71781,Ohio
+2022,01/04,Ohio Indiana Round Robin,184,L,MD,16 - 6,Donnell Washington,57738,Indiana,Zayne Lehman,71781,Ohio
+2022,12/19,Ohio - Gardner-Webb Dual,184,W,DEC,3 - 1,Jha'Quan Anderson,62407,Gardner-Webb,Zayne Lehman,71781,Ohio
+2022,12/19,George Mason - Ohio Dual,184,W,MD,10 - 2,Kyle Davis,50453,George Mason,Zayne Lehman,71781,Ohio
+2022,12/05,West Virginia - Ohio Dual,184,W,DEC,10 - 3,Anthony Carman,62423,West Virginia,Zayne Lehman,71781,Ohio
+2022,12/03,Ohio - Clarion Dual,184,W,MD,8 - 0,Ryan Weinzen,66964,Clarion,Zayne Lehman,71781,Ohio
+2022,11/20,Navy Classic,184,W,TF5,17 - 2 7:00,Tommy Dressler,71827,Lock Haven,Zayne Lehman,71781,Ohio
+2022,11/20,Navy Classic,184,L,DEC,10 - 5,Logan Deacetis,71753,Bucknell,Zayne Lehman,71781,Ohio
+2022,11/20,Navy Classic,184,W,MD,11 - 2,Hunter Johns,62914,Navy,Zayne Lehman,71781,Ohio
+2022,11/20,Navy Classic,184,L,DEC,4 - 1,Ethan Ducca,62334,Edinboro,Zayne Lehman,71781,Ohio
+2022,11/20,Navy Classic,184,W,MFOR,0 - 0,Zach Brown,62390,VMI,Zayne Lehman,71781,Ohio
+2022,11/20,Navy Classic,184,W,MFOR,0 - 0,Connor Bourne,57131,American,Zayne Lehman,71781,Ohio
+2022,11/14,Ohio Intercollegiate Open,184,W,TF5,16 - 0 7:00,Adam Medeiros,66161,Heidelberg,Zayne Lehman,71781,Ohio
+2022,11/14,Ohio Intercollegiate Open,184,W,MD,11 - 2,Cole Houser,57808,Glenville State University,Zayne Lehman,71781,Ohio
+2022,11/14,Ohio Intercollegiate Open,184,W,MD,10 - 2,Luke McGonigal,51040,Mercyhurst,Zayne Lehman,71781,Ohio
+2022,11/06,Michigan State Open,184,W,MD,16 - 4,Nate Barrett,74293,Ashland,Zayne Lehman,71781,Ohio
+2022,11/06,Michigan State Open,184,W,FALL,0:48,Justin Carnahan,71278,Olivet,Zayne Lehman,71781,Ohio
+2022,11/06,Michigan State Open,184,W,DEC,5 - 3,Dylan Connell,67216,Illinois,Zayne Lehman,71781,Ohio
+2022,11/06,Michigan State Open,184,W,MD,8 - 0,Mitch Hutmacher,67388,Purdue,Zayne Lehman,71781,Ohio
+2022,02/06,Edinboro Open,184,L,TF5,16 - 1 5:14,Jaden Bullock,67035,Michigan,Scott Schlett,77649,Ohio
+2022,02/06,Edinboro Open,184,L,MFOR,0 - 0,Joey Lyons,72596,Cleveland State,Scott Schlett,77649,Ohio
+2022,02/06,Edinboro Open,184,W,DEC,6 - 5,Gilbert Marquez,72226,Buffalo,Scott Schlett,77649,Ohio
+2022,01/29,Appalachain Open,184,W,DEC,11 - 4,Colin Pettine,75040,UNC Pembroke,Scott Schlett,77649,Ohio
+2022,01/29,Appalachain Open,184,L,MFOR,0 - 0,Brock Delsignore,71935,NC State,Scott Schlett,77649,Ohio
+2022,01/29,Appalachain Open,184,L,FALL,4:15,Joey Milano,70919,NC State,Scott Schlett,77649,Ohio
+2022,12/05,Storm Open,184,L,TF5,16 - 0 7:00,Logan Hall,50331,Notre Dame,Scott Schlett,77649,Ohio
+2022,12/05,Storm Open,184,L,DEC,5 - 1,Fabio Preka,63166,Buffalo,Scott Schlett,77649,Ohio
+2022,03/04,MAC Championships,197,L,DEC,5 - 1,Ryan Yarnell,57006,SIU Edwardsville,Carson Brewer,60286,Ohio
+2022,03/04,MAC Championships,197,L,MFOR,0 - 0,Parker McClellan,56598,Lock Haven,Carson Brewer,60286,Ohio
+2022,03/04,MAC Championships,197,W,DEC,9 - 5,Tristen Guaman,55424,Northern Illinois,Carson Brewer,60286,Ohio
+2022,03/04,MAC Championships,197,W,DEC,8 - 5,Jon List,71833,George Mason,Carson Brewer,60286,Ohio
+2022,03/04,MAC Championships,197,L,DEC,8 - 1,Will Feldkamp,51599,Clarion,Carson Brewer,60286,Ohio
+2022,02/19,Buffalo - Ohio Dual,197,L,DEC,6 - 5,Sam Mitchell,61028,Buffalo,Carson Brewer,60286,Ohio
+2022,02/12,Southern Illinois Edwardsville - Ohio Dual,197,W,DEC,6 - 0,Ryan Yarnell,57006,SIU Edwardsville,Carson Brewer,60286,Ohio
+2022,02/05,Ohio - Cleveland State Dual,197,L,DEC,12 - 11,Ben Smith,56236,Cleveland State,Carson Brewer,60286,Ohio
+2022,02/04,Ohio - Kent State Dual,197,W,MD,10 - 1,Tyler Bates,56413,Kent State,Carson Brewer,60286,Ohio
+2022,01/30,Central Michigan Ohio ECM,197,W,TF5,17 - 1 4:40,Cade Dallwitz,60002,Central Michigan,Carson Brewer,60286,Ohio
+2022,01/30,Ohio - Central Michigan Dual,197,L,DEC,8 - 4,Aaron Bolo,50919,Central Michigan,Carson Brewer,60286,Ohio
+2022,01/23,Davidson - Ohio Dual,197,W,MD,11 - 1,Finlay Holston,57215,Davidson,Carson Brewer,60286,Ohio
+2022,01/22,Navy - Ohio Dual,197,L,DEC,7 - 0,Jake Koser,50890,Navy,Carson Brewer,60286,Ohio
+2022,12/19,Ohio - Gardner-Webb Dual,197,L,DEC,4 - 3,Anthony Perrine,49135,Gardner-Webb,Carson Brewer,60286,Ohio
+2022,12/11,Ohio - Bellarmine Dual,197,W,FALL,1:27,Charlie Cadell,56942,Bellarmine,Carson Brewer,60286,Ohio
+2022,03/04,MAC Championships,285,L,FALL,1:07,Max Millin,66911,Edinboro,Jordan Greer,62652,Ohio
+2022,03/04,MAC Championships,285,L,DEC,3 - 2,Tyler Bagoly,49098,Clarion,Jordan Greer,62652,Ohio
+2022,03/04,MAC Championships,285,W,DEC,8 - 5,Shane Noonan,58615,Bloomsburg,Jordan Greer,62652,Ohio
+2022,02/19,Buffalo - Ohio Dual,285,L,DEC,8 - 1,Toby Cahill,49097,Buffalo,Jordan Greer,62652,Ohio
+2022,02/12,Southern Illinois Edwardsville - Ohio Dual,285,L,DEC,3 - 2,Colton McKiernan,57003,SIU Edwardsville,Jordan Greer,62652,Ohio
+2022,02/05,Ohio - Cleveland State Dual,285,W,DEC,8 - 3,John Kelbly,50329,Cleveland State,Jordan Greer,62652,Ohio
+2022,02/04,Ohio - Kent State Dual,285,W,DEC,6 - 3,Jacob Cover,57237,Kent State,Jordan Greer,62652,Ohio
+2022,01/29,Appalachain Open,285,W,FALL,1:53,Wade Wheeler,61813,Emory & Henry College,Jordan Greer,62652,Ohio
+2022,01/29,Appalachain Open,285,W,DEC,3 - 2,Brandon Whitman,50602,North Carolina,Jordan Greer,62652,Ohio
+2022,01/29,Appalachain Open,285,W,DEC,10 - 3,Jacob Sartorio,65393,Appalachian State,Jordan Greer,62652,Ohio
+2022,01/23,Davidson - Ohio Dual,285,W,DEC,5 - 3,Mitchell Trigg,56339,Davidson,Jordan Greer,62652,Ohio
+2022,01/22,Navy - Ohio Dual,285,L,DEC,5 - 3,Ryan Catka,72191,Navy,Jordan Greer,62652,Ohio
+2022,01/15,Ohio - Northern Illinois Dual,285,L,DEC,7 - 4,Terrese Aaron,51827,Northern Illinois,Jordan Greer,62652,Ohio
+2022,12/05,West Virginia - Ohio Dual,197,W,DEC,6 - 2,Jackson Moomau,57161,West Virginia,Jordan Greer,62652,Ohio
+2022,12/03,Ohio - Clarion Dual,197,L,FALL,3:31,Will Feldkamp,51599,Clarion,Jordan Greer,62652,Ohio
+2022,11/20,Navy Classic,197,W,MD,10 - 0,Mason McCready,57223,Bucknell,Jordan Greer,62652,Ohio
+2022,11/20,Navy Classic,197,W,SV-1,7 - 5,Parker McClellan,56598,Lock Haven,Jordan Greer,62652,Ohio
+2022,11/20,Navy Classic,197,L,FALL,2:08,Cody Mulligan,50589,Edinboro,Jordan Greer,62652,Ohio
+2022,11/20,Navy Classic,197,W,MD,12 - 3,Brad Wilton,49187,Michigan State,Jordan Greer,62652,Ohio
+2022,11/20,Navy Classic,197,W,DEC,7 - 0,Ben Stemmet,65010,The Citadel,Jordan Greer,62652,Ohio
+2022,11/20,Navy Classic,197,L,MD,14 - 6,Tyler Mousaw,67432,VMI,Jordan Greer,62652,Ohio
+2022,11/14,Ohio Intercollegiate Open,197,W,MFOR,0 - 0,Wennds Myrtil,65309,Notre Dame,Jordan Greer,62652,Ohio
+2022,11/14,Ohio Intercollegiate Open,197,W,MFOR,0 - 0,Logan Kemp,52919,West Liberty University,Jordan Greer,62652,Ohio
+2022,11/14,Ohio Intercollegiate Open,197,W,MD,8 - 0,Tyler Stein,56778,Ohio State,Jordan Greer,62652,Ohio
+2022,11/14,Ohio Intercollegiate Open,197,L,TF5,16 - 1 7:00,Gavin Hoffman,50609,Ohio State,Jordan Greer,62652,Ohio
+2022,11/06,Michigan State Open,197,W,MD,11 - 0,Brooks Empey,72155,Wisconsin,Jordan Greer,62652,Ohio
+2022,11/06,Michigan State Open,197,W,FALL,2:30,Kyle Scott,63238,Rochester Christian,Jordan Greer,62652,Ohio
+2022,11/06,Michigan State Open,197,W,MFOR,0 - 0,Jacob Lee,72196,Michigan State,Jordan Greer,62652,Ohio
+2022,11/06,Michigan State Open,197,L,FALL,2:42,Joey Braunagel,71872,Illinois,Jordan Greer,62652,Ohio
+2022,11/06,Michigan State Open,197,W,DEC,3 - 2,Cameron Wood,73724,Central Michigan,Jordan Greer,62652,Ohio
+2022,11/06,Michigan State Open,197,W,MD,11 - 2,Cole Jackson,71581,Cal Poly,Jordan Greer,62652,Ohio
+2022,02/12,Ohio SIUE ECM,285,W,FALL,1:55,Aric Bohn,57004,SIU Edwardsville,Jordan Earnest,51122,Ohio
+2022,02/05,Cleveland State Ohio ECM,285,W,DEC,8 - 1,Daniel Bucknavich,62488,Cleveland State,Jordan Earnest,51122,Ohio
+2022,01/30,Ohio - Central Michigan Dual,285,L,MD,10 - 0,Matt Stencel,44592,Central Michigan,Jordan Earnest,51122,Ohio
+2022,12/19,Ohio - Gardner-Webb Dual,285,W,DEC,4 - 2,Peyton McComas,71831,Gardner-Webb,Jordan Earnest,51122,Ohio
+2022,12/19,George Mason - Ohio Dual,285,L,SV-1,3 - 1,Austin Stith,61206,George Mason,Jordan Earnest,51122,Ohio
+2022,12/11,Ohio - Bellarmine Dual,285,W,FALL,2:24,Bryant Wilkinson,73535,Bellarmine,Jordan Earnest,51122,Ohio
+2022,12/05,West Virginia - Ohio Dual,285,L,DEC,12 - 7,Michael Wolfgram,57526,West Virginia,Jordan Earnest,51122,Ohio
+2022,12/03,Ohio - Clarion Dual,285,L,DEC,4 - 2,Austin Chapman,63708,Clarion,Jordan Earnest,51122,Ohio
+2022,11/20,Navy Classic,285,L,DEC,5 - 2,Max Millin,66911,Edinboro,Jordan Earnest,51122,Ohio
+2022,11/20,Navy Classic,285,L,DEC,3 - 1,Max Millin,66911,Edinboro,Jordan Earnest,51122,Ohio
+2022,11/20,Navy Classic,285,L,FALL,1:52,Grady Griess,63170,Navy,Jordan Earnest,51122,Ohio
+2022,11/20,Navy Classic,285,W,DEC,8 - 4,Jacob Cover,57237,Kent State,Jordan Earnest,51122,Ohio
+2022,11/20,Navy Classic,285,W,FALL,2:01,Luke Niemeyer,57205,Bucknell,Jordan Earnest,51122,Ohio
+2022,11/20,Navy Classic,285,W,DEC,8 - 5,Isaac Righter,62521,American,Jordan Earnest,51122,Ohio
+2022,11/14,Ohio Intercollegiate Open,285,W,DEC,7 - 0,Michael Viramontes,58150,Notre Dame,Jordan Earnest,51122,Ohio
+2022,11/14,Ohio Intercollegiate Open,285,W,DEC,2 - 0,Ty Petrey,57438,Ashland,Jordan Earnest,51122,Ohio
+2022,11/14,Ohio Intercollegiate Open,285,L,DEC,8 - 1,Tate Orndorff,50974,Ohio State,Jordan Earnest,51122,Ohio
+2022,11/06,Michigan State Open,285,L,DEC,5 - 2,Terrese Aaron,51827,Northern Illinois,Jordan Earnest,51122,Ohio
+2022,11/06,Michigan State Open,285,L,FALL,1:52,Trevor Tinker,66973,Cal Poly,Jordan Earnest,51122,Ohio
+2022,02/13,John Carroll Open,285,W,DEC,6 - 4,Dradyn Ray,78384,Ashland,Drew Harris,74323,Ohio
+2022,02/13,John Carroll Open,285,L,FALL,4:17,Benjamin DeGuzman,78021,Baldwin Wallace,Drew Harris,74323,Ohio
+2022,02/13,John Carroll Open,285,L,MD,16 - 3,Brayden Butzin,74301,Ashland,Drew Harris,74323,Ohio
+2022,02/06,Greyhound Open,285,L,DEC,7 - 2,Dustin Olmstead,73227,McKendree University,Drew Harris,74323,Ohio
+2022,02/06,Greyhound Open,285,L,MD,12 - 4,Andrew Irick,63716,Indiana,Drew Harris,74323,Ohio
+2022,01/29,Appalachain Open,285,L,FALL,1:16,Brandon Whitman,50602,North Carolina,Drew Harris,74323,Ohio
+2022,01/29,Appalachain Open,285,L,DEC,9 - 8,Jacob Barlow,69460,Appalachian State,Drew Harris,74323,Ohio
+2022,12/11,Cleveland State Open,285,L,MD,14 - 5,Andy Garcia,69566,Kent State,Drew Harris,74323,Ohio
+2022,12/11,Cleveland State Open,285,L,FALL,1:27,Andrew Irick,63716,Indiana,Drew Harris,74323,Ohio
+2022,12/05,Storm Open,285,L,FALL,2:25,Clarouly Meca,70861,Wheeling,Drew Harris,74323,Ohio
+2022,12/05,Storm Open,285,W,SV-1,11 - 9,Tommy Graden,63107,Fairmont State,Drew Harris,74323,Ohio
+2022,12/05,Storm Open,285,L,FALL,0:55,Michael Misita,72583,Ohio State,Drew Harris,74323,Ohio
+2022,11/14,Ohio Intercollegiate Open,285,L,DEC,5 - 2,Matt Micale,75983,Lake Erie College,Drew Harris,74323,Ohio
+2022,11/14,Ohio Intercollegiate Open,285,W,DEC,3 - 1,Devon Richard,75972,Unattached,Drew Harris,74323,Ohio
+2022,11/14,Ohio Intercollegiate Open,285,L,FALL,2:23,Tristan Kemp,74521,West Virginia,Drew Harris,74323,Ohio
+2022,11/06,Michigan State Open,285,L,FALL,2:28,Hogan Swenski,73186,Ohio State,Drew Harris,74323,Ohio
+2022,11/06,Michigan State Open,285,L,FALL,1:24,Michael Misita,72583,Ohio State,Drew Harris,74323,Ohio

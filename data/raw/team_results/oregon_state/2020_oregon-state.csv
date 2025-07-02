@@ -1,0 +1,522 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2020,03/07,PAC 12 Championships,125,L,DEC,10 - 3,Jackson DiSario,57126,Stanford,Brandon Kaylor,51198,Oregon State
+2020,03/07,PAC 12 Championships,125,W,DEC,9 - 5,Jayden Carson,62838,Little Rock,Brandon Kaylor,51198,Oregon State
+2020,03/07,PAC 12 Championships,125,W,DEC,7 - 3,Alejandro Hernandez-Figueroa,45325,CSU Bakersfield,Brandon Kaylor,51198,Oregon State
+2020,02/22,Cal Poly - Oregon State Dual,125,W,FALL,1:26,Benjamin Martinez,56668,Cal Poly,Brandon Kaylor,51198,Oregon State
+2020,02/15,Little Rock - Oregon State Dual,125,W,MD,15 - 4,Jayden Carson,62838,Little Rock,Brandon Kaylor,51198,Oregon State
+2020,02/14,California Baptist (Calif) - Oregon State Dual,125,W,MD,14 - 3,Dilan Atjun,57264,Cal Baptist,Brandon Kaylor,51198,Oregon State
+2020,02/09,Oregon State - Stanford Dual,125,W,DEC,8 - 7,Jackson DiSario,57126,Stanford,Brandon Kaylor,51198,Oregon State
+2020,02/07,Oregon State - CSU Bakersfield Dual,125,W,DEC,5 - 2,Alejandro Hernandez-Figueroa,45325,CSU Bakersfield,Brandon Kaylor,51198,Oregon State
+2020,01/31,Wyoming - Oregon State Dual,125,W,MD,15 - 7,Jake Svihel,59535,Wyoming,Brandon Kaylor,51198,Oregon State
+2020,01/25,Oregon State - Presbyterian Dual,125,W,MD,16 - 4,Jacob Brasseur,61212,Presbyterian,Brandon Kaylor,51198,Oregon State
+2020,01/25,Oregon State - Campbell Dual,125,W,FALL,1:21,Korbin Meink,49074,Campbell,Brandon Kaylor,51198,Oregon State
+2020,01/17,Oregon State - Arizona State Dual,125,L,DEC,14 - 8,Brandon Courtney,50881,Arizona State,Brandon Kaylor,51198,Oregon State
+2020,01/10,Northern Colorado - Oregon State Dual,125,W,DEC,8 - 4,Jace Koelzer,50912,Northern Colorado,Brandon Kaylor,51198,Oregon State
+2020,01/05,Oregon State - Michigan Dual,125,L,MD,11 - 0,Jack Medley,51392,Michigan,Brandon Kaylor,51198,Oregon State
+2020,11/23,Navy Classic,125,W,DEC,10 - 4,Logan Heil,57515,Cleveland State,Brandon Kaylor,51198,Oregon State
+2020,11/23,Navy Classic,125,W,DEC,4 - 3,Lucas Rodriguez,51061,Edinboro,Brandon Kaylor,51198,Oregon State
+2020,11/23,Navy Classic,125,L,DEC,4 - 0,Killian Cardinale,49268,Old Dominion,Brandon Kaylor,51198,Oregon State
+2020,11/23,Navy Classic,125,W,DEC,8 - 1,Logan Griffin,40454,Michigan State,Brandon Kaylor,51198,Oregon State
+2020,11/23,Navy Classic,125,W,MD,14 - 5,Graham Shore,50580,Air Force,Brandon Kaylor,51198,Oregon State
+2020,11/23,Navy Classic,125,W,MFOR,0 - 0,Sidney Flores,49031,Air Force,Brandon Kaylor,51198,Oregon State
+2020,11/21,Oregon State - George Mason Dual,125,W,TF5,24 - 5 5:20,Talha Farooq,45317,George Mason,Brandon Kaylor,51198,Oregon State
+2020,11/15,Oregon State - Simon Fraser (BC) Dual,125,W,TF5,16 - 0 3:00,Flixzl Reyes,57552,Simon Fraser,Brandon Kaylor,51198,Oregon State
+2020,11/09,Mountaineer Invitational,125,L,DEC,8 - 3,Joey Thomas,51008,West Virginia,Brandon Kaylor,51198,Oregon State
+2020,11/09,Mountaineer Invitational,125,W,FALL,2:09,John Jones,62403,Gardner-Webb,Brandon Kaylor,51198,Oregon State
+2020,11/09,Mountaineer Invitational,125,W,FALL,2:51,Patrick Washington,45406,Appalachian State,Brandon Kaylor,51198,Oregon State
+2020,11/09,Mountaineer Invitational,125,L,DEC,5 - 4,Sidney Flores,49031,Air Force,Brandon Kaylor,51198,Oregon State
+2020,11/17,Mike Clock Open,125,W,FALL,3:55,Hunter Nees,64917,Eastern Oregon University,Luciano Fusalo,63197,Oregon State
+2020,11/17,Mike Clock Open,125,W,FALL,2:08,Keleab Weldemariam,64337,Clackamas Community College,Luciano Fusalo,63197,Oregon State
+2020,11/17,Mike Clock Open,125,W,FALL,0:41,Ethan Howard,63953,Southwestern Oregon Community College,Luciano Fusalo,63197,Oregon State
+2020,11/17,Mike Clock Open,125,W,FALL,6:27,Josh Meyers,62642,Simon Fraser,Luciano Fusalo,63197,Oregon State
+2020,11/17,Mike Clock Open,125,L,TF5,21 - 5 7:00,Connor Finch,61101,Warner Pacific,Luciano Fusalo,63197,Oregon State
+2020,11/17,Mike Clock Open,125,L,DEC,9 - 8,Flixzl Reyes,57552,Simon Fraser,Luciano Fusalo,63197,Oregon State
+2020,11/09,Clackamas Open,125,L,DEC,8 - 7,Sammuel Hyde,63954,Eastern Oregon University,Luciano Fusalo,63197,Oregon State
+2020,11/09,Clackamas Open,125,L,DEC,15 - 12,Sammuel Hyde,63954,Eastern Oregon University,Luciano Fusalo,63197,Oregon State
+2020,11/09,Clackamas Open,125,W,FALL,1:53,Dylan Duggan,62641,Simon Fraser,Luciano Fusalo,63197,Oregon State
+2020,11/09,Clackamas Open,125,W,FALL,1:43,Connor Finch,61101,Warner Pacific,Luciano Fusalo,63197,Oregon State
+2020,11/09,Clackamas Open,125,W,FALL,0:54,Adzel Villanueva,60837,Clackamas Community College,Luciano Fusalo,63197,Oregon State
+2020,01/25,California Collegiate Open,125,L,FALL,5:47,Andrew Silva,64296,Vanguard University,Kade Uyesaka,62938,Oregon State
+2020,01/25,California Collegiate Open,125,L,DEC,9 - 2,Eddie Flores,51127,CSU Bakersfield,Kade Uyesaka,62938,Oregon State
+2020,12/15,Reno Tournament of Champions,125,L,TF5,15 - 0 7:00,William Edelblute,57059,Utah Valley,Kade Uyesaka,62938,Oregon State
+2020,12/15,Reno Tournament of Champions,125,L,DEC,7 - 3,Doyle Trout,39591,Wyoming,Kade Uyesaka,62938,Oregon State
+2020,11/17,Mike Clock Open,125,W,TF5,17 - 2 4:03,Flixzl Reyes,57552,Simon Fraser,Kade Uyesaka,62938,Oregon State
+2020,11/17,Mike Clock Open,125,W,DEC,8 - 2,Tanner Ulrey,64926,Umpqua Community College,Kade Uyesaka,62938,Oregon State
+2020,11/17,Mike Clock Open,125,L,DEC,7 - 3,Isaac Lopez,64916,North Idaho College,Kade Uyesaka,62938,Oregon State
+2020,11/17,Mike Clock Open,125,W,FALL,3:00,Connor Finch,61101,Warner Pacific,Kade Uyesaka,62938,Oregon State
+2020,11/17,Mike Clock Open,125,W,FALL,0:55,Connor Finch,61101,Warner Pacific,Kade Uyesaka,62938,Oregon State
+2020,11/09,Clackamas Open,125,W,TF5,16 - 0 7:00,Ethan Howard,63953,Southwestern Oregon Community College,Kade Uyesaka,62938,Oregon State
+2020,11/09,Clackamas Open,125,W,DEC,13 - 6,Connor Finch,61101,Warner Pacific,Kade Uyesaka,62938,Oregon State
+2020,11/09,Clackamas Open,125,W,DEC,4 - 3,Eddie Daniel,50539,Clackamas Community College,Kade Uyesaka,62938,Oregon State
+2020,03/07,PAC 12 Championships,133,W,DEC,5 - 3,Paul Bianchi,45589,Little Rock,Devan Turner,45397,Oregon State
+2020,03/07,PAC 12 Championships,133,W,DEC,11 - 5,Joshua Kramer,39736,Arizona State,Devan Turner,45397,Oregon State
+2020,02/22,Cal Poly - Oregon State Dual,133,W,DEC,10 - 4,Cole Reyes,56700,Cal Poly,Devan Turner,45397,Oregon State
+2020,02/15,Little Rock - Oregon State Dual,133,W,DEC,8 - 6,Paul Bianchi,45589,Little Rock,Devan Turner,45397,Oregon State
+2020,02/14,California Baptist (Calif) - Oregon State Dual,133,W,DEC,7 - 2,Christian Nunez,63215,Cal Baptist,Devan Turner,45397,Oregon State
+2020,02/09,Oregon State - Stanford Dual,133,W,SV-1,10 - 4,Gabe Townsell,45387,Stanford,Devan Turner,45397,Oregon State
+2020,02/07,Oregon State - CSU Bakersfield Dual,133,W,DEC,5 - 3,Chance Rich,50933,CSU Bakersfield,Devan Turner,45397,Oregon State
+2020,01/31,Wyoming - Oregon State Dual,133,L,DEC,7 - 4,Montorie Bridges,44844,Wyoming,Devan Turner,45397,Oregon State
+2020,01/25,Oregon State - Presbyterian Dual,133,W,TF5,17 - 0 3:36,Parker Corwin,63037,Presbyterian,Devan Turner,45397,Oregon State
+2020,01/25,Oregon State - Campbell Dual,133,L,DEC,4 - 2,Noah Gonser,40087,Campbell,Devan Turner,45397,Oregon State
+2020,01/17,Oregon State - Arizona State Dual,133,W,DEC,5 - 4,Joshua Kramer,39736,Arizona State,Devan Turner,45397,Oregon State
+2020,01/10,Northern Colorado - Oregon State Dual,133,W,DEC,7 - 3,Mosha Schwartz,55841,Northern Colorado,Devan Turner,45397,Oregon State
+2020,01/01,Southern Scuffle,133,W,DEC,4 - 3,Mosha Schwartz,55841,Northern Colorado,Devan Turner,45397,Oregon State
+2020,01/01,Southern Scuffle,133,L,TF5,19 - 1 4:43,Cameron Sykora,39757,North Dakota State,Devan Turner,45397,Oregon State
+2020,01/01,Southern Scuffle,133,L,FALL,4:32,Kai Orine,56908,NC State,Devan Turner,45397,Oregon State
+2020,01/01,Southern Scuffle,133,L,TB-2,7 - 4,Cole Manley,49337,Lock Haven,Devan Turner,45397,Oregon State
+2020,01/01,Southern Scuffle,133,W,DEC,3 - 1,Charlie Klepps,57235,Iowa State,Devan Turner,45397,Oregon State
+2020,01/01,Southern Scuffle,133,W,SV-1,6 - 4,Jaret Lane,50909,Lehigh,Devan Turner,45397,Oregon State
+2020,12/20,Oregon State - Nebraska Dual,133,W,DEC,6 - 2,Ridge Lovett,57520,Nebraska,Devan Turner,45397,Oregon State
+2020,12/15,Reno Tournament of Champions,133,W,FALL,2:36,John Geiger,65071,Texas Wesleyan,Devan Turner,45397,Oregon State
+2020,12/15,Reno Tournament of Champions,133,W,DEC,3 - 2,Brandon Paulson,58561,Cal Baptist,Devan Turner,45397,Oregon State
+2020,12/15,Reno Tournament of Champions,133,W,MD,12 - 2,Kyle Evans,56246,Western Wyoming College,Devan Turner,45397,Oregon State
+2020,12/15,Reno Tournament of Champions,133,L,DEC,2 - 1,Taylor LaMont,44777,Utah Valley,Devan Turner,45397,Oregon State
+2020,12/15,Reno Tournament of Champions,133,L,DEC,4 - 2,Montorie Bridges,44844,Wyoming,Devan Turner,45397,Oregon State
+2020,11/23,Navy Classic,133,L,INJ,1:36,Sammy Alvarez,56763,Rutgers,Devan Turner,45397,Oregon State
+2020,11/23,Navy Classic,133,W,DEC,9 - 4,Richie Gomez,51062,Edinboro,Devan Turner,45397,Oregon State
+2020,11/23,Navy Classic,133,L,SV-1,3 - 1,Tim Rooney,39949,Kent State,Devan Turner,45397,Oregon State
+2020,11/23,Navy Classic,133,W,FALL,0:54,Darren Miller,57210,Bucknell,Devan Turner,45397,Oregon State
+2020,11/23,Navy Classic,133,W,DEC,9 - 5,David Campbell,49061,Bucknell,Devan Turner,45397,Oregon State
+2020,11/21,Oregon State - George Mason Dual,133,W,DEC,5 - 0,Josh Jones,57073,George Mason,Devan Turner,45397,Oregon State
+2020,11/09,Mountaineer Invitational,133,W,DEC,9 - 3,Tim Rooney,39949,Kent State,Devan Turner,45397,Oregon State
+2020,11/09,Mountaineer Invitational,133,W,DEC,10 - 6,Codi Russell,51113,Appalachian State,Devan Turner,45397,Oregon State
+2020,11/09,Mountaineer Invitational,133,W,MD,14 - 4,Brock Bergelin,49078,Central Michigan,Devan Turner,45397,Oregon State
+2020,03/07,PAC 12 Championships,141,W,DEC,4 - 2,Cory Crooks,45179,Arizona State,Grant Willits,49273,Oregon State
+2020,03/07,PAC 12 Championships,141,L,MD,11 - 2,Real Woods,50664,Stanford,Grant Willits,49273,Oregon State
+2020,03/07,PAC 12 Championships,141,W,DEC,9 - 4,Angelo Martinoni,57199,CSU Bakersfield,Grant Willits,49273,Oregon State
+2020,02/22,Cal Poly - Oregon State Dual,141,W,FALL,3:56,Jake Ryan,50922,Cal Poly,Grant Willits,49273,Oregon State
+2020,02/15,Little Rock - Oregon State Dual,141,W,MD,10 - 0,Conner Ward,56587,Little Rock,Grant Willits,49273,Oregon State
+2020,02/14,California Baptist (Calif) - Oregon State Dual,141,W,DEC,8 - 2,Adam Velasquez,51704,Cal Baptist,Grant Willits,49273,Oregon State
+2020,02/09,Oregon State - Stanford Dual,141,L,MD,9 - 1,Real Woods,50664,Stanford,Grant Willits,49273,Oregon State
+2020,02/07,Oregon State - CSU Bakersfield Dual,141,W,MD,12 - 2,Angelo Martinoni,57199,CSU Bakersfield,Grant Willits,49273,Oregon State
+2020,01/31,Wyoming - Oregon State Dual,141,W,DEC,12 - 10,Trevor Jeffries,57064,Wyoming,Grant Willits,49273,Oregon State
+2020,01/25,Oregon State - Presbyterian Dual,141,W,DEC,6 - 1,Reid Stewart,60680,Presbyterian,Grant Willits,49273,Oregon State
+2020,01/25,Oregon State - Campbell Dual,141,W,DEC,7 - 1,Josh Heil,45100,Campbell,Grant Willits,49273,Oregon State
+2020,01/17,Oregon State - Arizona State Dual,141,W,DEC,8 - 2,Navonte Demison,49036,Arizona State,Grant Willits,49273,Oregon State
+2020,01/10,Northern Colorado - Oregon State Dual,141,W,DEC,7 - 5,Chris Sandoval,49229,Northern Colorado,Grant Willits,49273,Oregon State
+2020,01/05,Oregon State - Michigan Dual,141,W,DEC,6 - 5,Cole Mattin,57715,Michigan,Grant Willits,49273,Oregon State
+2020,01/01,Southern Scuffle,141,W,DEC,5 - 2,Riley Gurr,56785,Oregon State,Grant Willits,49273,Oregon State
+2020,01/01,Southern Scuffle,141,W,DEC,9 - 3,Dylan Droegemueller,51082,North Dakota State,Grant Willits,49273,Oregon State
+2020,01/01,Southern Scuffle,141,L,DEC,6 - 2,Kyle Shoop,39682,Lock Haven,Grant Willits,49273,Oregon State
+2020,01/01,Southern Scuffle,141,W,DEC,8 - 3,Mason Wallace,49086,Chattanooga,Grant Willits,49273,Oregon State
+2020,01/01,Southern Scuffle,141,L,MD,8 - 0,Evan Cheek,40190,Cleveland State,Grant Willits,49273,Oregon State
+2020,12/20,Oregon State - Nebraska Dual,141,L,DEC,6 - 2,Chad Red,44683,Nebraska,Grant Willits,49273,Oregon State
+2020,12/15,Reno Tournament of Champions,141,W,DEC,3 - 1,Kendon Lee,64064,Grand View,Grant Willits,49273,Oregon State
+2020,12/15,Reno Tournament of Champions,141,W,MD,13 - 0,Andrew Bloemhof,62861,CSU Bakersfield,Grant Willits,49273,Oregon State
+2020,12/15,Reno Tournament of Champions,141,L,DEC,7 - 4,Kyle Parco,58562,Fresno State,Grant Willits,49273,Oregon State
+2020,12/15,Reno Tournament of Champions,141,W,TF5,15 - 0 3:13,Lorenso De La Cruz,57261,Cal Baptist,Grant Willits,49273,Oregon State
+2020,12/15,Reno Tournament of Champions,141,W,DEC,10 - 4,Wyatt Cornelison,50514,Cal Poly,Grant Willits,49273,Oregon State
+2020,12/15,Reno Tournament of Champions,141,L,DEC,5 - 3,Durbin Lloren,44916,Fresno State,Grant Willits,49273,Oregon State
+2020,11/23,Navy Classic,141,W,FALL,5:15,Yarhoski Aldiva,51885,Old Dominion,Grant Willits,49273,Oregon State
+2020,11/23,Navy Classic,141,L,DEC,4 - 3,Shakur Laney,39917,Ohio,Grant Willits,49273,Oregon State
+2020,11/23,Navy Classic,141,L,DEC,7 - 5,Alex Madrigal,39754,George Mason,Grant Willits,49273,Oregon State
+2020,11/23,Navy Classic,141,W,TF5,16 - 1 7:00,Garrett O'Shea,44711,Air Force,Grant Willits,49273,Oregon State
+2020,11/21,Oregon State - George Mason Dual,141,W,TF5,16 - 0 6:20,Lukasz Walendzak,62579,George Mason,Grant Willits,49273,Oregon State
+2020,11/15,Oregon State - Simon Fraser (BC) Dual,141,W,MD,9 - 1,Randy MacDonald,52872,Simon Fraser,Grant Willits,49273,Oregon State
+2020,01/25,California Collegiate Open,141,W,MD,8 - 0,Jacob Peralta,62860,CSU Bakersfield,Connor Noonan,45400,Oregon State
+2020,01/25,California Collegiate Open,141,W,FALL,0:23,Daniel Shaharuddin,61375,Unattached,Connor Noonan,45400,Oregon State
+2020,01/25,California Collegiate Open,141,W,MFOR,0 - 0,Adam Velasquez,51704,Cal Baptist,Connor Noonan,45400,Oregon State
+2020,01/25,California Collegiate Open,141,W,TF5,16 - 0 7:00,Armand Molina,42025,Simpson,Connor Noonan,45400,Oregon State
+2020,01/25,California Collegiate Open,141,W,FALL,1:21,Noah Blakely-Beanes,40168,CSU Bakersfield,Connor Noonan,45400,Oregon State
+2020,01/25,California Collegiate Open,141,L,DEC,11 - 4,Kyle Parco,58562,Fresno State,Connor Noonan,45400,Oregon State
+2020,12/15,Reno Tournament of Champions,141,W,DEC,3 - 0,Andrew Bloemhof,62861,CSU Bakersfield,Connor Noonan,45400,Oregon State
+2020,12/15,Reno Tournament of Champions,141,W,TF5,16 - 0 2:17,Lucas Higginbotham,52866,Warner Pacific,Connor Noonan,45400,Oregon State
+2020,12/15,Reno Tournament of Champions,141,L,DEC,4 - 0,Josh Heil,45100,Campbell,Connor Noonan,45400,Oregon State
+2020,12/15,Reno Tournament of Champions,141,L,MD,11 - 2,Trevor Jeffries,57064,Wyoming,Connor Noonan,45400,Oregon State
+2020,11/23,Navy Classic,141,L,MD,10 - 0,Carmine Ciotti,48218,Edinboro,Connor Noonan,45400,Oregon State
+2020,11/23,Navy Classic,141,L,MD,11 - 3,Cody Trybus,45568,Navy,Connor Noonan,45400,Oregon State
+2020,11/17,Mike Clock Open,141,W,DEC,8 - 2,Joseph Foster,64317,Corban University,Connor Noonan,45400,Oregon State
+2020,11/17,Mike Clock Open,141,L,DEC,6 - 3,Marckis Branford,64309,Clackamas Community College,Connor Noonan,45400,Oregon State
+2020,11/17,Mike Clock Open,141,W,FALL,1:40,Gerardo Suarez,63963,Highline Community College,Connor Noonan,45400,Oregon State
+2020,11/17,Mike Clock Open,141,W,FALL,0:54,Ethan Martin,63955,Clackamas Community College,Connor Noonan,45400,Oregon State
+2020,11/17,Mike Clock Open,141,W,DEC,7 - 5,Noah Mirelez,62940,Oregon State,Connor Noonan,45400,Oregon State
+2020,11/17,Mike Clock Open,141,W,FALL,0:24,Sam Patton,62644,Simon Fraser,Connor Noonan,45400,Oregon State
+2020,11/09,Mountaineer Invitational,141,W,FALL,1:16,Ty Mills,51081,Duke,Connor Noonan,45400,Oregon State
+2020,11/09,Mountaineer Invitational,141,L,DEC,7 - 0,Dawson Bates,50914,Appalachian State,Connor Noonan,45400,Oregon State
+2020,11/09,Mountaineer Invitational,141,L,TF5,20 - 4 3:37,Dresden Simon,44707,Central Michigan,Connor Noonan,45400,Oregon State
+2020,01/01,Southern Scuffle,141,L,DEC,5 - 2,Grant Willits,49273,Oregon State,Riley Gurr,56785,Oregon State
+2020,01/01,Southern Scuffle,141,L,MD,13 - 1,Dusty Hone,20271,Oklahoma State,Riley Gurr,56785,Oregon State
+2020,01/01,Southern Scuffle,141,W,INJ,7:00,Fabian Santillan,59549,Stanford,Riley Gurr,56785,Oregon State
+2020,01/01,Southern Scuffle,141,W,DEC,6 - 1,Herbert Edwards,50630,Rider,Riley Gurr,56785,Oregon State
+2020,12/15,Reno Tournament of Champions,141,W,FALL,0:41,Cody Mirander,63841,Little Rock,Riley Gurr,56785,Oregon State
+2020,12/15,Reno Tournament of Champions,141,W,TF5,16 - 0 5:20,Edison Alanis,62923,Cal Baptist,Riley Gurr,56785,Oregon State
+2020,12/15,Reno Tournament of Champions,141,W,FALL,1:41,Trent Dooley,62845,Little Rock,Riley Gurr,56785,Oregon State
+2020,12/15,Reno Tournament of Champions,141,W,MD,11 - 0,Lorenso De La Cruz,57261,Cal Baptist,Riley Gurr,56785,Oregon State
+2020,12/15,Reno Tournament of Champions,141,L,MFOR,0 - 0,Brody Lamb,57110,Northern Colorado,Riley Gurr,56785,Oregon State
+2020,12/15,Reno Tournament of Champions,141,L,FALL,2:15,Brody Lamb,57110,Northern Colorado,Riley Gurr,56785,Oregon State
+2020,12/15,Reno Tournament of Champions,141,W,FALL,2:07,Kyle Kintz,40619,Colorado Mesa,Riley Gurr,56785,Oregon State
+2020,11/23,Navy Classic,141,L,FALL,5:28,Garrett Rigg,57356,Lock Haven,Riley Gurr,56785,Oregon State
+2020,11/23,Navy Classic,141,L,FALL,2:14,Mitch Moore,50620,Virginia Tech,Riley Gurr,56785,Oregon State
+2020,11/17,Mike Clock Open,141,L,MFOR,0 - 0,Alex Lopez,64915,North Idaho College,Riley Gurr,56785,Oregon State
+2020,11/17,Mike Clock Open,141,W,MD,18 - 4,Joseph Foster,64317,Corban University,Riley Gurr,56785,Oregon State
+2020,11/17,Mike Clock Open,141,W,TF5,19 - 1 7:00,Austin Cleland,64313,Highline Community College,Riley Gurr,56785,Oregon State
+2020,11/17,Mike Clock Open,141,L,MFOR,0 - 0,Sam Patton,62644,Simon Fraser,Riley Gurr,56785,Oregon State
+2020,01/19,Boxer Open,149,W,FALL,1:00,Dayne Tuahimaa,66444,Clackamas Community College,Wayne Newman,63196,Oregon State
+2020,01/19,Boxer Open,149,W,DEC,12 - 10,Cade Cox,66440,Big Bend Community College,Wayne Newman,63196,Oregon State
+2020,01/19,Boxer Open,149,L,FALL,5:30,Joey Moody,63958,Clackamas Community College,Wayne Newman,63196,Oregon State
+2020,01/19,Boxer Open,149,L,MD,14 - 5,Titus Mejia,63957,Umpqua Community College,Wayne Newman,63196,Oregon State
+2020,11/09,Clackamas Open,141,L,FALL,2:07,Gerardo Suarez,63963,Highline Community College,Wayne Newman,63196,Oregon State
+2020,11/09,Clackamas Open,141,W,FALL,2:20,Ethan Martin,63955,Clackamas Community College,Wayne Newman,63196,Oregon State
+2020,11/09,Clackamas Open,141,L,MD,16 - 8,Marco Ruffinelli,62544,San Francisco State,Wayne Newman,63196,Oregon State
+2020,01/25,California Collegiate Open,149,W,FALL,4:48,Samuel Hernandez,66549,Arizona Christian,Noah Mirelez,62940,Oregon State
+2020,01/25,California Collegiate Open,149,L,DEC,8 - 5,Adrain Marrufo,59711,Simpson,Noah Mirelez,62940,Oregon State
+2020,01/25,California Collegiate Open,149,L,DEC,6 - 2,Andrew Gomez,53413,Vanguard University,Noah Mirelez,62940,Oregon State
+2020,01/19,Boxer Open,149,W,FALL,2:53,Dayne Tuahimaa,66444,Clackamas Community College,Noah Mirelez,62940,Oregon State
+2020,01/19,Boxer Open,149,W,MD,12 - 2,Joey Moody,63958,Clackamas Community College,Noah Mirelez,62940,Oregon State
+2020,01/19,Boxer Open,149,L,MD,12 - 3,Chase Tebbets,62646,Simon Fraser,Noah Mirelez,62940,Oregon State
+2020,01/19,Boxer Open,149,W,DEC,5 - 2,Aj Lira,58979,Southwestern Oregon Community College,Noah Mirelez,62940,Oregon State
+2020,01/19,Boxer Open,149,W,DEC,4 - 3,Aj Lira,58979,Southwestern Oregon Community College,Noah Mirelez,62940,Oregon State
+2020,11/17,Mike Clock Open,141,L,DEC,7 - 5,Connor Noonan,45400,Oregon State,Noah Mirelez,62940,Oregon State
+2020,11/17,Mike Clock Open,141,W,FALL,4:49,Alex Lopez,64915,North Idaho College,Noah Mirelez,62940,Oregon State
+2020,11/17,Mike Clock Open,141,W,DEC,7 - 1,Gerardo Suarez,63963,Highline Community College,Noah Mirelez,62940,Oregon State
+2020,11/17,Mike Clock Open,141,L,DEC,10 - 7,Randy MacDonald,52872,Simon Fraser,Noah Mirelez,62940,Oregon State
+2020,03/07,PAC 12 Championships,149,W,DEC,4 - 0,Tyler Brennan,62844,Little Rock,Lane Stigall,49196,Oregon State
+2020,03/07,PAC 12 Championships,149,L,TB-1,2 - 1,Joshua Cortez,40840,Cal Poly,Lane Stigall,49196,Oregon State
+2020,03/07,PAC 12 Championships,149,L,DEC,3 - 1,Josh Maruca,39512,Arizona State,Lane Stigall,49196,Oregon State
+2020,02/22,Cal Poly - Oregon State Dual,149,L,DEC,3 - 2,Joshua Cortez,40840,Cal Poly,Lane Stigall,49196,Oregon State
+2020,02/15,Little Rock - Oregon State Dual,149,W,DEC,9 - 3,Tyler Brennan,62844,Little Rock,Lane Stigall,49196,Oregon State
+2020,02/14,California Baptist (Calif) - Oregon State Dual,149,L,DEC,8 - 4,A J Raya,51181,Cal Baptist,Lane Stigall,49196,Oregon State
+2020,02/09,Oregon State - Stanford Dual,149,W,DEC,8 - 2,Requir van der Merwe,45389,Stanford,Lane Stigall,49196,Oregon State
+2020,02/07,Oregon State - CSU Bakersfield Dual,149,L,MD,13 - 5,Russell Rohlfing,40166,CSU Bakersfield,Lane Stigall,49196,Oregon State
+2020,01/31,Wyoming - Oregon State Dual,149,W,DEC,9 - 3,Jaron Jensen,44910,Wyoming,Lane Stigall,49196,Oregon State
+2020,01/25,Oregon State - Presbyterian Dual,149,W,MD,11 - 0,Bryton Goering,61211,Presbyterian,Lane Stigall,49196,Oregon State
+2020,01/25,Oregon State - Campbell Dual,149,L,DEC,9 - 8,Jason Kraisser,57287,Campbell,Lane Stigall,49196,Oregon State
+2020,01/17,Oregon State - Arizona State Dual,149,W,DEC,5 - 3,Josh Maruca,39512,Arizona State,Lane Stigall,49196,Oregon State
+2020,01/10,Northern Colorado - Oregon State Dual,149,L,DEC,7 - 5,Andrew Alirez,56723,Northern Colorado,Lane Stigall,49196,Oregon State
+2020,01/05,Oregon State - Michigan Dual,149,W,DEC,5 - 2,Nick Freeman,50641,Michigan,Lane Stigall,49196,Oregon State
+2020,01/01,Southern Scuffle,149,L,DEC,5 - 3,Matthew Grippi,50662,NC State,Lane Stigall,49196,Oregon State
+2020,01/01,Southern Scuffle,149,L,SV-1,12 - 10,Seth Hogue,44668,West Virginia,Lane Stigall,49196,Oregon State
+2020,01/01,Southern Scuffle,149,W,FALL,4:09,Spencer Leonhardt,63524,Campbell,Lane Stigall,49196,Oregon State
+2020,12/20,Oregon State - Nebraska Dual,149,L,DEC,8 - 4,Collin Purinton,40505,Nebraska,Lane Stigall,49196,Oregon State
+2020,12/15,Reno Tournament of Champions,149,W,FALL,0:39,Maxwell Hammond,62926,Cal Baptist,Lane Stigall,49196,Oregon State
+2020,12/15,Reno Tournament of Champions,149,W,FALL,1:40,Lane Paulson,61977,Montana State-Northern,Lane Stigall,49196,Oregon State
+2020,12/15,Reno Tournament of Champions,149,W,TF5,16 - 1 6:09,Daniel Manibog,58564,Oklahoma State,Lane Stigall,49196,Oregon State
+2020,12/15,Reno Tournament of Champions,149,W,TB-2,11 - 7,A J Raya,51181,Cal Baptist,Lane Stigall,49196,Oregon State
+2020,12/15,Reno Tournament of Champions,149,W,DEC,7 - 4,Tanner Abbas,50943,Grand View,Lane Stigall,49196,Oregon State
+2020,12/15,Reno Tournament of Champions,149,L,DEC,10 - 4,Jaden Abas,56738,Stanford,Lane Stigall,49196,Oregon State
+2020,11/23,Navy Classic,149,W,MD,9 - 1,Jon Park,60226,Navy,Lane Stigall,49196,Oregon State
+2020,11/23,Navy Classic,149,W,FALL,6:40,Alex Hrisopoulos,45308,Michigan State,Lane Stigall,49196,Oregon State
+2020,11/23,Navy Classic,149,L,FALL,5:58,Matt Kolonia,49066,Bucknell,Lane Stigall,49196,Oregon State
+2020,11/23,Navy Classic,149,L,DEC,8 - 3,Kizhan Clarke,44878,American,Lane Stigall,49196,Oregon State
+2020,11/21,Oregon State - George Mason Dual,149,W,DEC,4 - 3,Colston DiBlasi,39718,George Mason,Lane Stigall,49196,Oregon State
+2020,11/09,Mountaineer Invitational,149,W,DEC,7 - 0,Ian Senz,57241,Kent State,Lane Stigall,49196,Oregon State
+2020,11/09,Mountaineer Invitational,149,L,DEC,12 - 6,Kody Komara,50094,Kent State,Lane Stigall,49196,Oregon State
+2020,11/09,Mountaineer Invitational,149,L,DEC,13 - 11,John Millner,50212,Appalachian State,Lane Stigall,49196,Oregon State
+2020,01/01,Southern Scuffle,149,L,FALL,4:41,Tanner Smith,49129,Chattanooga,Daxton Gordon,44358,Oregon State
+2020,01/01,Southern Scuffle,149,L,FALL,3:35,Seth Hogue,44668,West Virginia,Daxton Gordon,44358,Oregon State
+2020,12/15,Reno Tournament of Champions,149,W,MD,15 - 1,Jeramias Sandoval,64333,Highline Community College,Daxton Gordon,44358,Oregon State
+2020,12/15,Reno Tournament of Champions,149,W,FALL,4:57,Maxwell Hammond,62926,Cal Baptist,Daxton Gordon,44358,Oregon State
+2020,12/15,Reno Tournament of Champions,149,W,FALL,0:47,Josh Brown,62862,CSU Bakersfield,Daxton Gordon,44358,Oregon State
+2020,12/15,Reno Tournament of Champions,149,L,MFOR,0 - 0,A J Raya,51181,Cal Baptist,Daxton Gordon,44358,Oregon State
+2020,12/15,Reno Tournament of Champions,149,L,SV-1,6 - 4,Jaron Jensen,44910,Wyoming,Daxton Gordon,44358,Oregon State
+2020,12/15,Reno Tournament of Champions,141,L,TF5,16 - 1 3:27,Chaz Hallmark,62925,Cal Baptist,Peyton Bell,62939,Oregon State
+2020,12/15,Reno Tournament of Champions,141,L,MD,12 - 3,Trevor Jeffries,57064,Wyoming,Peyton Bell,62939,Oregon State
+2020,11/17,Mike Clock Open,149,L,DEC,7 - 4,Alex Rubio,64922,Grays Harbor,Peyton Bell,62939,Oregon State
+2020,11/17,Mike Clock Open,149,W,DEC,12 - 7,Daniel Rodriguez,64920,Eastern Oregon University,Peyton Bell,62939,Oregon State
+2020,11/17,Mike Clock Open,149,W,FALL,2:07,Zachary Granly,64914,North Idaho College,Peyton Bell,62939,Oregon State
+2020,11/17,Mike Clock Open,149,L,DEC,11 - 5,Jeramias Sandoval,64333,Highline Community College,Peyton Bell,62939,Oregon State
+2020,11/17,Mike Clock Open,149,W,FALL,1:04,Dally Ratcliff,60051,Eastern Oregon University,Peyton Bell,62939,Oregon State
+2020,12/15,Reno Tournament of Champions,149,L,FALL,3:13,Daniel Manibog,58564,Oklahoma State,Daniel McClung,62206,Oregon State
+2020,12/15,Reno Tournament of Champions,149,L,MD,10 - 2,Trevor Anderson,56166,Grand View,Daniel McClung,62206,Oregon State
+2020,11/09,Clackamas Open,149,W,MD,16 - 6,Wyatt Schrader,63961,Unattached,Daniel McClung,62206,Oregon State
+2020,11/09,Clackamas Open,149,L,MFOR,0 - 0,Joey Moody,63958,Clackamas Community College,Daniel McClung,62206,Oregon State
+2020,11/09,Clackamas Open,149,L,DEC,6 - 0,Titus Mejia,63957,Umpqua Community College,Daniel McClung,62206,Oregon State
+2020,03/07,PAC 12 Championships,157,L,FALL,1:26,Jose Champagne,45138,Little Rock,Logan Meek,56779,Oregon State
+2020,03/07,PAC 12 Championships,157,L,MFOR,0 - 0,Wyatt Gerl,57201,CSU Bakersfield,Logan Meek,56779,Oregon State
+2020,03/07,PAC 12 Championships,157,L,MD,15 - 4,Brawley Lamer,50051,Cal Poly,Logan Meek,56779,Oregon State
+2020,02/22,Cal Poly - Oregon State Dual,157,L,FALL,4:05,Brawley Lamer,50051,Cal Poly,Logan Meek,56779,Oregon State
+2020,02/15,Little Rock - Oregon State Dual,157,W,DEC,12 - 5,Jose Champagne,45138,Little Rock,Logan Meek,56779,Oregon State
+2020,02/14,California Baptist (Calif) - Oregon State Dual,157,W,DEC,11 - 6,Zachary Rowe,62929,Cal Baptist,Logan Meek,56779,Oregon State
+2020,02/09,Oregon State - Stanford Dual,157,L,FALL,0:21,Tyler Eischens,51205,Stanford,Logan Meek,56779,Oregon State
+2020,02/07,Oregon State - CSU Bakersfield Dual,157,L,FALL,5:27,Wyatt Gerl,57201,CSU Bakersfield,Logan Meek,56779,Oregon State
+2020,01/31,Wyoming - Oregon State Dual,157,L,DEC,8 - 3,Dewey Krueger,40144,Wyoming,Logan Meek,56779,Oregon State
+2020,01/10,Northern Colorado - Oregon State Dual,157,L,DEC,6 - 2,Nathan Moore,56919,Northern Colorado,Logan Meek,56779,Oregon State
+2020,01/05,Oregon State - Michigan Dual,157,L,DEC,11 - 5,Will Lewan,50934,Michigan,Logan Meek,56779,Oregon State
+2020,12/20,Oregon State - Nebraska Dual,157,L,TF5,17 - 1 5:14,Peyton Robb,56387,Nebraska,Logan Meek,56779,Oregon State
+2020,12/15,Reno Tournament of Champions,157,L,FALL,3:31,John Sowers,63962,Highline Community College,Logan Meek,56779,Oregon State
+2020,12/15,Reno Tournament of Champions,157,L,DEC,11 - 7,Max Anderson,59545,Cal Poly,Logan Meek,56779,Oregon State
+2020,11/23,Navy Classic,157,L,DEC,10 - 8,Kolby Ho,55945,George Mason,Logan Meek,56779,Oregon State
+2020,11/23,Navy Classic,157,W,FALL,4:43,Brady Barnett,50220,Cleveland State,Logan Meek,56779,Oregon State
+2020,11/23,Navy Classic,157,L,TF5,16 - 0 2:38,Alex Klucker,40289,Lock Haven,Logan Meek,56779,Oregon State
+2020,11/21,Oregon State - George Mason Dual,157,L,TF5,22 - 7 4:48,Kolby Ho,55945,George Mason,Logan Meek,56779,Oregon State
+2020,11/15,Oregon State - Simon Fraser (BC) Dual,157,W,MD,18 - 4,Trevor Weltzin,45853,Simon Fraser,Logan Meek,56779,Oregon State
+2020,11/09,Mountaineer Invitational,149,L,FALL,0:59,Kody Komara,50094,Kent State,Logan Meek,56779,Oregon State
+2020,11/09,Mountaineer Invitational,149,L,TF5,17 - 2 5:22,Wade Unger,63134,Duke,Logan Meek,56779,Oregon State
+2020,01/19,Boxer Open,165,W,TF5,16 - 1 2:37,Zach Stratton,62648,Simon Fraser,Hunter Willits,49272,Oregon State
+2020,01/19,Boxer Open,165,W,FALL,2:27,Edward Schmelzer,66442,Warner Pacific,Hunter Willits,49272,Oregon State
+2020,01/19,Boxer Open,165,W,TF5,16 - 1 7:00,Freddie Garcia,63643,Simpson,Hunter Willits,49272,Oregon State
+2020,01/19,Boxer Open,165,W,TF5,20 - 5 7:00,Caleb Werner,64306,Umpqua Community College,Hunter Willits,49272,Oregon State
+2020,01/19,Boxer Open,165,W,TF5,18 - 2 7:00,Noah Talavera,64305,Southern Oregon,Hunter Willits,49272,Oregon State
+2020,01/01,Southern Scuffle,157,L,FALL,1:45,Luke Weber,45050,North Dakota State,Hunter Willits,49272,Oregon State
+2020,01/01,Southern Scuffle,157,L,DEC,3 - 0,Luke Weber,45050,North Dakota State,Hunter Willits,49272,Oregon State
+2020,01/01,Southern Scuffle,157,L,MD,8 - 0,Wyatt Sheets,44863,Oklahoma State,Hunter Willits,49272,Oregon State
+2020,01/01,Southern Scuffle,157,W,DEC,8 - 1,Jack Stanton-Taddeo,44620,Navy,Hunter Willits,49272,Oregon State
+2020,01/01,Southern Scuffle,157,W,DEC,11 - 4,Taleb Rahmani,40082,Pittsburgh,Hunter Willits,49272,Oregon State
+2020,01/01,Southern Scuffle,157,W,DEC,5 - 2,Mike Van Brill,44613,Rutgers,Hunter Willits,49272,Oregon State
+2020,01/01,Southern Scuffle,157,W,MD,13 - 3,Tyler Shilson,49352,Chattanooga,Hunter Willits,49272,Oregon State
+2020,12/15,Reno Tournament of Champions,157,W,MD,10 - 0,Daniel Snediker,63557,Unattached,Hunter Willits,49272,Oregon State
+2020,12/15,Reno Tournament of Champions,157,W,TF5,16 - 0 3:00,Hunter Balk,62765,Arizona State,Hunter Willits,49272,Oregon State
+2020,12/15,Reno Tournament of Champions,157,W,TF5,15 - 0 4:33,Jacob Swift,50574,North Idaho College,Hunter Willits,49272,Oregon State
+2020,12/15,Reno Tournament of Champions,157,W,FALL,1:38,Payton Tawater,40578,Colorado Mesa,Hunter Willits,49272,Oregon State
+2020,12/15,Reno Tournament of Champions,157,L,SV-1,3 - 1,Dewey Krueger,40144,Wyoming,Hunter Willits,49272,Oregon State
+2020,11/17,Mike Clock Open,165,W,DEC,8 - 3,James Rowley,64921,Unattached,Hunter Willits,49272,Oregon State
+2020,11/17,Mike Clock Open,165,W,FALL,0:25,Matthew Bartlett,64909,Unattached,Hunter Willits,49272,Oregon State
+2020,11/17,Mike Clock Open,165,W,FALL,3:39,Matthew Roeser,64331,Southern Oregon,Hunter Willits,49272,Oregon State
+2020,11/17,Mike Clock Open,165,W,FALL,0:53,Noah Manibusan,64323,Southwestern Oregon Community College,Hunter Willits,49272,Oregon State
+2020,12/15,Reno Tournament of Champions,157,W,FALL,1:58,Estebon Molina,59730,Simpson,Robert Garcia,62204,Oregon State
+2020,12/15,Reno Tournament of Champions,157,W,MFOR,0 - 0,Dyllan Fuchs,62717,Colorado Mesa,Robert Garcia,62204,Oregon State
+2020,12/15,Reno Tournament of Champions,157,W,DEC,10 - 4,Max Anderson,59545,Cal Poly,Robert Garcia,62204,Oregon State
+2020,12/15,Reno Tournament of Champions,157,L,MD,12 - 3,Matthew Olguin,57218,Fresno State,Robert Garcia,62204,Oregon State
+2020,12/15,Reno Tournament of Champions,157,L,DEC,7 - 3,Joel Romero,56600,Clackamas Community College,Robert Garcia,62204,Oregon State
+2020,12/15,Reno Tournament of Champions,157,W,DEC,11 - 5,Logan Jensen,57065,Wyoming,Robert Garcia,62204,Oregon State
+2020,11/17,Mike Clock Open,157,W,TF5,15 - 0 7:00,Devon Salcedo,64923,Big Bend Community College,Robert Garcia,62204,Oregon State
+2020,11/17,Mike Clock Open,157,L,FALL,4:08,John Sowers,63962,Highline Community College,Robert Garcia,62204,Oregon State
+2020,11/17,Mike Clock Open,157,W,FALL,0:20,Kimani Samuel Johnson,59486,Grays Harbor,Robert Garcia,62204,Oregon State
+2020,11/17,Mike Clock Open,157,L,DEC,12 - 6,Taber Spray,45842,Simon Fraser,Robert Garcia,62204,Oregon State
+2020,11/09,Clackamas Open,157,L,DEC,10 - 4,John Sowers,63962,Highline Community College,Robert Garcia,62204,Oregon State
+2020,11/09,Clackamas Open,157,W,FALL,3:30,Erik Salcido,63960,Clackamas Community College,Robert Garcia,62204,Oregon State
+2020,11/09,Clackamas Open,157,W,MFOR,0 - 0,Andrew Ramirez,63959,Unattached,Robert Garcia,62204,Oregon State
+2020,11/09,Clackamas Open,157,W,FALL,2:02,Brent Hodgson,62643,Simon Fraser,Robert Garcia,62204,Oregon State
+2020,11/09,Clackamas Open,157,W,DEC,7 - 1,Jeremy Talavera,60404,Southern Oregon,Robert Garcia,62204,Oregon State
+2020,11/09,Clackamas Open,157,W,TF5,18 - 0 7:00,Ryan Ninman,54711,Eastern Oregon University,Robert Garcia,62204,Oregon State
+2020,11/09,Clackamas Open,157,W,FALL,2:15,Ryan Ninman,54711,Eastern Oregon University,Robert Garcia,62204,Oregon State
+2020,01/25,Oregon State - Presbyterian Dual,157,L,FALL,4:32,Zachary Phillips,65871,Presbyterian,Michael Murphy,57316,Oregon State
+2020,01/25,Oregon State - Campbell Dual,157,L,MD,11 - 2,Matthew Dallara,51712,Campbell,Michael Murphy,57316,Oregon State
+2020,01/17,Oregon State - Arizona State Dual,157,L,FALL,0:42,Jacori Teemer,50581,Arizona State,Michael Murphy,57316,Oregon State
+2020,11/09,Clackamas Open,157,W,MD,12 - 4,Caiden Cohen,63952,Clackamas Community College,Michael Murphy,57316,Oregon State
+2020,11/09,Clackamas Open,157,W,FALL,1:42,Aaron Anderson,63951,Unattached,Michael Murphy,57316,Oregon State
+2020,11/09,Clackamas Open,157,L,MD,16 - 5,Jeremy Talavera,60404,Southern Oregon,Michael Murphy,57316,Oregon State
+2020,11/09,Clackamas Open,157,L,MD,11 - 3,Jesse Camacho,58959,Eastern Oregon University,Michael Murphy,57316,Oregon State
+2020,03/07,PAC 12 Championships,165,W,DEC,6 - 2,Will Edgar,60624,Little Rock,Aaron Olmos,50177,Oregon State
+2020,03/07,PAC 12 Championships,165,L,DEC,4 - 3,Jacob Thalin,40165,CSU Bakersfield,Aaron Olmos,50177,Oregon State
+2020,03/07,PAC 12 Championships,165,L,DEC,9 - 3,Bernie Truax,51133,Cal Poly,Aaron Olmos,50177,Oregon State
+2020,02/22,Cal Poly - Oregon State Dual,165,L,DEC,8 - 7,Bernie Truax,51133,Cal Poly,Aaron Olmos,50177,Oregon State
+2020,02/15,Little Rock - Oregon State Dual,165,W,DEC,11 - 5,Will Edgar,60624,Little Rock,Aaron Olmos,50177,Oregon State
+2020,02/09,Oregon State - Stanford Dual,165,L,FALL,6:23,Shane Griffith,49991,Stanford,Aaron Olmos,50177,Oregon State
+2020,02/07,Oregon State - CSU Bakersfield Dual,165,L,DEC,7 - 5,Jacob Thalin,40165,CSU Bakersfield,Aaron Olmos,50177,Oregon State
+2020,01/31,Wyoming - Oregon State Dual,165,W,SV-1,6 - 4,Cole Moody,57067,Wyoming,Aaron Olmos,50177,Oregon State
+2020,01/25,Oregon State - Campbell Dual,165,L,FALL,2:04,Quentin Perez,40421,Campbell,Aaron Olmos,50177,Oregon State
+2020,01/17,Oregon State - Arizona State Dual,165,L,FALL,3:46,Josh Shields,39511,Arizona State,Aaron Olmos,50177,Oregon State
+2020,01/10,Northern Colorado - Oregon State Dual,165,W,DEC,9 - 3,Austin Matthews,22442,Northern Colorado,Aaron Olmos,50177,Oregon State
+2020,01/05,Oregon State - Michigan Dual,165,W,DEC,5 - 2,Tyler Meisinger,45010,Michigan,Aaron Olmos,50177,Oregon State
+2020,01/01,Southern Scuffle,165,L,DEC,7 - 4,Brett Donner,44581,Rutgers,Aaron Olmos,50177,Oregon State
+2020,01/01,Southern Scuffle,165,W,DEC,8 - 4,Luca Frinzi,57518,Lehigh,Aaron Olmos,50177,Oregon State
+2020,01/01,Southern Scuffle,165,L,SV-1,3 - 1,Randy Meneweather II,44843,Air Force,Aaron Olmos,50177,Oregon State
+2020,01/01,Southern Scuffle,165,W,DEC,10 - 6,Will Edgar,60624,Little Rock,Aaron Olmos,50177,Oregon State
+2020,12/20,Oregon State - Nebraska Dual,165,L,MD,10 - 2,Isaiah White,47106,Nebraska,Aaron Olmos,50177,Oregon State
+2020,12/15,Reno Tournament of Champions,165,L,MFOR,0 - 0,Beau Columbini,46727,Fresno State,Aaron Olmos,50177,Oregon State
+2020,12/15,Reno Tournament of Champions,165,W,DEC,6 - 4,RJ Bingham,63023,Utah Valley,Aaron Olmos,50177,Oregon State
+2020,11/23,Navy Classic,165,L,FALL,5:57,Dazjon Casto,57183,The Citadel,Aaron Olmos,50177,Oregon State
+2020,11/23,Navy Classic,165,W,DEC,4 - 1,Riley Smucker,56147,Cleveland State,Aaron Olmos,50177,Oregon State
+2020,11/23,Navy Classic,165,L,FALL,1:40,Zach Hartman,50586,Bucknell,Aaron Olmos,50177,Oregon State
+2020,11/21,Oregon State - George Mason Dual,165,L,FALL,2:15,Cornelius Schuster,55781,George Mason,Aaron Olmos,50177,Oregon State
+2020,11/15,Oregon State - Simon Fraser (BC) Dual,165,W,TF5,18 - 1 7:00,Zach Stratton,62648,Simon Fraser,Aaron Olmos,50177,Oregon State
+2020,03/07,PAC 12 Championships,174,W,SV-1,8 - 6,Albert Urias,57203,CSU Bakersfield,Jackson McKinney,56781,Oregon State
+2020,03/07,PAC 12 Championships,174,W,MD,10 - 1,Dylan Miracle,56311,Cal Poly,Jackson McKinney,56781,Oregon State
+2020,03/07,PAC 12 Championships,174,L,DEC,3 - 2,Dylan Miracle,56311,Cal Poly,Jackson McKinney,56781,Oregon State
+2020,02/22,Cal Poly - Oregon State Dual,174,W,DEC,6 - 0,Dylan Miracle,56311,Cal Poly,Jackson McKinney,56781,Oregon State
+2020,02/15,Little Rock - Oregon State Dual,174,W,TF5,15 - 0 4:54,Cash Jones,52128,Little Rock,Jackson McKinney,56781,Oregon State
+2020,02/14,California Baptist (Calif) - Oregon State Dual,174,L,DEC,5 - 2,Jacob Cooper,52270,Cal Baptist,Jackson McKinney,56781,Oregon State
+2020,02/09,Oregon State - Stanford Dual,174,L,DEC,3 - 2,Jared Hill,45390,Stanford,Jackson McKinney,56781,Oregon State
+2020,02/07,Oregon State - CSU Bakersfield Dual,174,L,FALL,6:14,Albert Urias,57203,CSU Bakersfield,Jackson McKinney,56781,Oregon State
+2020,01/31,Wyoming - Oregon State Dual,174,L,DEC,6 - 3,Hayden Hastings,49354,Wyoming,Jackson McKinney,56781,Oregon State
+2020,01/25,Oregon State - Campbell Dual,174,L,MD,10 - 2,Austin Kraisser,44588,Campbell,Jackson McKinney,56781,Oregon State
+2020,01/17,Oregon State - Arizona State Dual,174,L,TF5,20 - 4 5:58,Anthony Valencia,39500,Arizona State,Jackson McKinney,56781,Oregon State
+2020,01/10,Northern Colorado - Oregon State Dual,174,L,FALL,0:24,Billy Higgins,50623,Northern Colorado,Jackson McKinney,56781,Oregon State
+2020,01/05,Oregon State - Michigan Dual,174,L,MD,12 - 3,Max Maylor,56310,Michigan,Jackson McKinney,56781,Oregon State
+2020,01/01,Southern Scuffle,174,W,DEC,10 - 9,Mason Reiniche,67415,Spartan Combat RTC,Jackson McKinney,56781,Oregon State
+2020,01/01,Southern Scuffle,174,L,DEC,5 - 1,Billy Higgins,50623,Northern Colorado,Jackson McKinney,56781,Oregon State
+2020,01/01,Southern Scuffle,174,L,FALL,2:18,Joseph Grello,44858,Rutgers,Jackson McKinney,56781,Oregon State
+2020,01/01,Southern Scuffle,174,W,MD,10 - 2,Noah Liles,51070,Chattanooga,Jackson McKinney,56781,Oregon State
+2020,11/23,Navy Classic,184,L,DEC,3 - 2,Austen Malczewski,51213,Michigan State,Jackson McKinney,56781,Oregon State
+2020,11/23,Navy Classic,184,L,DEC,6 - 0,Antonio Agee,44635,Old Dominion,Jackson McKinney,56781,Oregon State
+2020,11/15,Oregon State - Simon Fraser (BC) Dual,184,W,TF5,16 - 1 7:00,Doug Peyser,52882,Simon Fraser,Jackson McKinney,56781,Oregon State
+2020,11/09,Mountaineer Invitational,184,L,DEC,3 - 2,Jackson Moomau,57161,West Virginia,Jackson McKinney,56781,Oregon State
+2020,11/09,Mountaineer Invitational,184,L,FALL,3:40,Lane Hinkle,45314,Kent State,Jackson McKinney,56781,Oregon State
+2020,01/19,Boxer Open,174,W,INJ,7:00,Brandon Bido,66439,Big Bend Community College,Brett Bell,56786,Oregon State
+2020,01/19,Boxer Open,174,W,FALL,4:59,Matthew Roeser,64331,Southern Oregon,Brett Bell,56786,Oregon State
+2020,01/19,Boxer Open,174,L,FALL,5:21,Fabian Miranda-Walls,64326,Southern Oregon,Brett Bell,56786,Oregon State
+2020,01/19,Boxer Open,174,L,DEC,8 - 7,Fabian Miranda-Walls,64326,Southern Oregon,Brett Bell,56786,Oregon State
+2020,01/19,Boxer Open,174,W,TF5,19 - 2 7:00,Brandon Bido,66439,Big Bend Community College,Ein Carlos,62208,Oregon State
+2020,01/19,Boxer Open,174,W,FALL,2:04,Jeremy DeVries,64969,Corban University,Ein Carlos,62208,Oregon State
+2020,01/19,Boxer Open,174,W,FALL,5:57,Levi Perry,64328,Corban University,Ein Carlos,62208,Oregon State
+2020,01/19,Boxer Open,174,W,FALL,3:27,Roman Porter,58992,Big Bend Community College,Ein Carlos,62208,Oregon State
+2020,03/07,PAC 12 Championships,184,L,DEC,7 - 3,Josh Loomer,51232,CSU Bakersfield,Colt Doyle,48240,Oregon State
+2020,03/07,PAC 12 Championships,184,W,DEC,6 - 3,Cade Belshay,50175,Arizona State,Colt Doyle,48240,Oregon State
+2020,02/22,Cal Poly - Oregon State Dual,184,W,DEC,9 - 3,Trent Tracy,56701,Cal Poly,Colt Doyle,48240,Oregon State
+2020,02/15,Little Rock - Oregon State Dual,184,W,TF5,16 - 0 2:30,Matthew Muller,62816,Little Rock,Colt Doyle,48240,Oregon State
+2020,02/14,California Baptist (Calif) - Oregon State Dual,184,W,DEC,2 - 0,Garrett Strang,47064,Cal Baptist,Colt Doyle,48240,Oregon State
+2020,02/09,Oregon State - Stanford Dual,184,W,DEC,9 - 3,Nick Addison,57655,Stanford,Colt Doyle,48240,Oregon State
+2020,02/07,Oregon State - CSU Bakersfield Dual,184,L,MD,12 - 4,Josh Loomer,51232,CSU Bakersfield,Colt Doyle,48240,Oregon State
+2020,01/17,Oregon State - Arizona State Dual,184,W,DEC,9 - 3,Austin Clayton,50883,Arizona State,Colt Doyle,48240,Oregon State
+2020,01/10,Northern Colorado - Oregon State Dual,184,W,DEC,4 - 2,Alan Clothier,45412,Northern Colorado,Colt Doyle,48240,Oregon State
+2020,01/05,Oregon State - Michigan Dual,184,W,DEC,8 - 2,Bobby Striggow,51240,Michigan,Colt Doyle,48240,Oregon State
+2020,01/01,Southern Scuffle,184,L,DEC,6 - 3,David Key,56717,US Naval Academy Prep School,Colt Doyle,48240,Oregon State
+2020,01/01,Southern Scuffle,184,L,MD,11 - 2,Alan Clothier,45412,Northern Colorado,Colt Doyle,48240,Oregon State
+2020,01/01,Southern Scuffle,184,L,DEC,5 - 1,Alan Clothier,45412,Northern Colorado,Colt Doyle,48240,Oregon State
+2020,01/01,Southern Scuffle,184,W,MD,10 - 0,Jacob Ferreira,56807,NC State,Colt Doyle,48240,Oregon State
+2020,01/01,Southern Scuffle,184,W,FALL,6:53,Nick Addison,57655,Stanford,Colt Doyle,48240,Oregon State
+2020,01/01,Southern Scuffle,184,W,MD,15 - 2,Mason Fiscella,57035,Appalachian State,Colt Doyle,48240,Oregon State
+2020,01/01,Southern Scuffle,184,W,MFOR,0 - 0,Chris Kober,50022,Campbell,Colt Doyle,48240,Oregon State
+2020,12/20,Oregon State - Nebraska Dual,184,L,MD,9 - 0,Taylor Venz,44854,Nebraska,Colt Doyle,48240,Oregon State
+2020,12/15,Reno Tournament of Champions,184,W,MD,12 - 1,Hunter Cruz,56318,Fresno State,Colt Doyle,48240,Oregon State
+2020,12/15,Reno Tournament of Champions,184,W,MD,13 - 1,Austin Clayton,50883,Arizona State,Colt Doyle,48240,Oregon State
+2020,12/15,Reno Tournament of Champions,184,W,FALL,1:53,Patrick Romero,40650,Colorado Mesa,Colt Doyle,48240,Oregon State
+2020,12/15,Reno Tournament of Champions,184,W,MD,10 - 2,Andrew Morgan,40250,Campbell,Colt Doyle,48240,Oregon State
+2020,12/15,Reno Tournament of Champions,184,L,SV-1,3 - 1,Tate Samuelson,57066,Wyoming,Colt Doyle,48240,Oregon State
+2020,11/21,Oregon State - George Mason Dual,184,W,DEC,6 - 1,Paul Pierce,56165,George Mason,Colt Doyle,48240,Oregon State
+2020,11/09,Mountaineer Invitational,184,W,DEC,5 - 1,Hunter DeLong,50972,West Virginia,Colt Doyle,48240,Oregon State
+2020,11/09,Mountaineer Invitational,184,L,DEC,3 - 2,Tyler Bates,56413,Kent State,Colt Doyle,48240,Oregon State
+2020,11/09,Mountaineer Invitational,184,W,DEC,7 - 3,Mason Fiscella,57035,Appalachian State,Colt Doyle,48240,Oregon State
+2020,11/09,Mountaineer Invitational,184,L,MFOR,0 - 0,Jacob Gray,50918,Central Michigan,Colt Doyle,48240,Oregon State
+2020,01/31,Wyoming - Oregon State Dual,184,L,DEC,8 - 3,Tate Samuelson,57066,Wyoming,Colton Beisley,52240,Oregon State
+2020,01/25,Oregon State - Presbyterian Dual,184,W,DEC,10 - 3,Austin Stith,61206,Presbyterian,Colton Beisley,52240,Oregon State
+2020,01/25,Oregon State - Campbell Dual,184,L,MD,17 - 4,Andrew Morgan,40250,Campbell,Colton Beisley,52240,Oregon State
+2020,01/01,Southern Scuffle,174,L,FALL,3:32,Billy Higgins,50623,Northern Colorado,Colton Beisley,52240,Oregon State
+2020,01/01,Southern Scuffle,174,L,FALL,0:56,AJ Alford,45382,The Citadel,Colton Beisley,52240,Oregon State
+2020,12/20,Oregon State - Nebraska Dual,174,L,TF5,20 - 5 4:11,Michael Labriola,49207,Nebraska,Colton Beisley,52240,Oregon State
+2020,11/23,Navy Classic,174,L,MFOR,0 - 0,Cody Hughes,39608,Virginia Tech,Colton Beisley,52240,Oregon State
+2020,11/23,Navy Classic,174,L,DEC,4 - 2,Cade Wilson,56799,Brown,Colton Beisley,52240,Oregon State
+2020,11/21,Oregon State - George Mason Dual,174,L,TF5,17 - 1 6:08,Anthony Lombardo,19656,George Mason,Colton Beisley,52240,Oregon State
+2020,11/15,Oregon State - Simon Fraser (BC) Dual,174,L,TF5,16 - 0 7:00,Logan Nelson,45832,Simon Fraser,Colton Beisley,52240,Oregon State
+2020,11/09,Mountaineer Invitational,174,W,FALL,3:57,Jacob Reames,45578,Gardner-Webb,Colton Beisley,52240,Oregon State
+2020,11/09,Mountaineer Invitational,174,L,MD,11 - 2,Thomas Flitz,45410,Appalachian State,Colton Beisley,52240,Oregon State
+2020,11/09,Mountaineer Invitational,174,L,FALL,2:26,Cody Surratt,49030,Air Force,Colton Beisley,52240,Oregon State
+2020,03/07,PAC 12 Championships,197,W,FALL,2:59,Dylan Johnson,63817,Little Rock,Jj Dixon,56784,Oregon State
+2020,03/07,PAC 12 Championships,197,W,TF5,16 - 1 3:14,Josh Annis,43313,CSU Bakersfield,Jj Dixon,56784,Oregon State
+2020,03/07,PAC 12 Championships,197,L,MD,11 - 3,Thomas Lane,39966,Cal Poly,Jj Dixon,56784,Oregon State
+2020,03/07,PAC 12 Championships,197,L,MD,11 - 3,Kordell Norfleet,49038,Arizona State,Jj Dixon,56784,Oregon State
+2020,02/22,Cal Poly - Oregon State Dual,197,L,DEC,9 - 7,Thomas Lane,39966,Cal Poly,Jj Dixon,56784,Oregon State
+2020,02/15,Little Rock - Oregon State Dual,197,W,FALL,4:10,Dylan Johnson,63817,Little Rock,Jj Dixon,56784,Oregon State
+2020,02/14,California Baptist (Calif) - Oregon State Dual,197,W,DEC,2 - 0,Arick Lopez,52962,Cal Baptist,Jj Dixon,56784,Oregon State
+2020,02/09,Oregon State - Stanford Dual,197,L,DEC,5 - 2,Nathan Traxler,45395,Stanford,Jj Dixon,56784,Oregon State
+2020,02/07,Oregon State - CSU Bakersfield Dual,197,W,INJ,7:00,Dom Ducharme,45323,CSU Bakersfield,Jj Dixon,56784,Oregon State
+2020,01/31,Wyoming - Oregon State Dual,197,L,DEC,9 - 5,Stephen Buchanan,60451,Wyoming,Jj Dixon,56784,Oregon State
+2020,01/25,Oregon State - Campbell Dual,197,W,DEC,15 - 8,Chris Kober,50022,Campbell,Jj Dixon,56784,Oregon State
+2020,01/17,Oregon State - Arizona State Dual,197,L,DEC,9 - 6,Kordell Norfleet,49038,Arizona State,Jj Dixon,56784,Oregon State
+2020,01/10,Northern Colorado - Oregon State Dual,197,W,DEC,6 - 1,Sethan Bogulski,45359,Northern Colorado,Jj Dixon,56784,Oregon State
+2020,01/05,Oregon State - Michigan Dual,197,W,DEC,4 - 3,Jackson Striggow,39831,Michigan,Jj Dixon,56784,Oregon State
+2020,01/01,Southern Scuffle,197,L,DEC,8 - 3,Paul Carson,51334,Appalachian State,Jj Dixon,56784,Oregon State
+2020,01/01,Southern Scuffle,197,L,MD,13 - 2,Noah Adams,49342,West Virginia,Jj Dixon,56784,Oregon State
+2020,12/20,Oregon State - Nebraska Dual,197,L,TF5,20 - 5 6:07,Eric Schultz,44853,Nebraska,Jj Dixon,56784,Oregon State
+2020,12/15,Reno Tournament of Champions,197,W,FALL,2:08,Malik Lewis,62932,Cal Baptist,Jj Dixon,56784,Oregon State
+2020,12/15,Reno Tournament of Champions,197,W,FALL,2:35,Ben Hughes,58974,Southwestern Oregon Community College,Jj Dixon,56784,Oregon State
+2020,12/15,Reno Tournament of Champions,197,L,DEC,4 - 2,Jake Boyd,49260,Oklahoma,Jj Dixon,56784,Oregon State
+2020,12/15,Reno Tournament of Champions,197,W,FALL,6:09,Donald Negus,47029,Colorado Mesa,Jj Dixon,56784,Oregon State
+2020,12/15,Reno Tournament of Champions,197,L,MD,11 - 1,Jayden Woodruff,54236,Utah Valley,Jj Dixon,56784,Oregon State
+2020,11/23,Navy Classic,197,L,MD,15 - 7,Dakota Howard,51202,Virginia Tech,Jj Dixon,56784,Oregon State
+2020,11/23,Navy Classic,197,L,DEC,3 - 2,Timothy Young,40523,Old Dominion,Jj Dixon,56784,Oregon State
+2020,11/21,Oregon State - George Mason Dual,197,W,MD,13 - 3,Jeremy Seymour,62586,George Mason,Jj Dixon,56784,Oregon State
+2020,11/15,Oregon State - Simon Fraser (BC) Dual,197,W,TF5,18 - 1 7:00,Nolan Badovinac,52239,Simon Fraser,Jj Dixon,56784,Oregon State
+2020,11/09,Mountaineer Invitational,197,L,DEC,7 - 2,Colin McCracken,50064,Kent State,Jj Dixon,56784,Oregon State
+2020,11/09,Mountaineer Invitational,197,L,FALL,4:41,Paul Carson,51334,Appalachian State,Jj Dixon,56784,Oregon State
+2020,11/09,Mountaineer Invitational,197,W,DEC,12 - 7,Demazio Samuel,45414,Appalachian State,Jj Dixon,56784,Oregon State
+2020,11/09,Mountaineer Invitational,197,W,TB-2,7 - 4,Casey Jumps,50817,Air Force,Jj Dixon,56784,Oregon State
+2020,01/25,California Collegiate Open,197,W,DEC,9 - 2,Jesus Hernandez,66548,Unattached,Max Gomez,62941,Oregon State
+2020,01/25,California Collegiate Open,197,W,FALL,3:15,David Berustein,66547,San Jose State,Max Gomez,62941,Oregon State
+2020,01/25,California Collegiate Open,197,L,MFOR,0 - 0,Afton Silvis,63766,Menlo,Max Gomez,62941,Oregon State
+2020,01/25,California Collegiate Open,197,L,FALL,3:15,Jacob Gonsalves,59709,Simpson,Max Gomez,62941,Oregon State
+2020,12/15,Reno Tournament of Champions,197,W,FALL,1:41,Corbin Black,65818,Treasure Valley Community College,Max Gomez,62941,Oregon State
+2020,12/15,Reno Tournament of Champions,197,L,DEC,3 - 2,Afton Silvis,63766,Menlo,Max Gomez,62941,Oregon State
+2020,12/15,Reno Tournament of Champions,197,L,MD,14 - 4,Brady Gilliland-Daniel,50884,Arizona State,Max Gomez,62941,Oregon State
+2020,11/17,Mike Clock Open,197,L,TF5,18 - 1 1:57,Nolan Badovinac,52239,Simon Fraser,Max Gomez,62941,Oregon State
+2020,11/17,Mike Clock Open,197,L,DEC,13 - 6,Falemalama Weggen,64927,Corban University,Max Gomez,62941,Oregon State
+2020,11/17,Mike Clock Open,197,W,DEC,5 - 1,Miguel Simon,64924,Warner Pacific,Max Gomez,62941,Oregon State
+2020,11/17,Mike Clock Open,197,W,FALL,4:17,Eric Orozco,64918,Clackamas Community College,Max Gomez,62941,Oregon State
+2020,11/17,Mike Clock Open,197,W,FALL,4:54,Mike Garrison,64913,Grays Harbor,Max Gomez,62941,Oregon State
+2020,11/17,Mike Clock Open,197,W,MD,10 - 0,Macoy Christman,64910,Umpqua Community College,Max Gomez,62941,Oregon State
+2020,01/19,Boxer Open,197,L,MFOR,0 - 0,Hunter Hillard,65830,Umpqua Community College,Adam Rateb,45404,Oregon State
+2020,01/19,Boxer Open,197,L,MFOR,0 - 0,Kyle Richards,62060,Clackamas Community College,Adam Rateb,45404,Oregon State
+2020,12/15,Reno Tournament of Champions,197,L,DEC,11 - 7,Tucker Tomlinson,52793,Western Wyoming College,Adam Rateb,45404,Oregon State
+2020,12/15,Reno Tournament of Champions,197,L,FALL,4:52,Bear Hughes,52303,Oklahoma State,Adam Rateb,45404,Oregon State
+2020,11/23,Navy Classic,197,L,TF5,21 - 6 6:07,Stanley Smeltzer,50902,Virginia Tech,Adam Rateb,45404,Oregon State
+2020,11/23,Navy Classic,197,L,TF5,18 - 2 6:52,Jake Walker,45563,Ohio,Adam Rateb,45404,Oregon State
+2020,11/17,Mike Clock Open,197,W,TF5,23 - 8 7:00,Falemalama Weggen,64927,Corban University,Adam Rateb,45404,Oregon State
+2020,11/17,Mike Clock Open,197,W,FALL,0:40,Romeo Hernandez,64301,Pacific,Adam Rateb,45404,Oregon State
+2020,11/17,Mike Clock Open,197,W,FALL,2:33,Abraham Mamizuka,59482,Southwestern Oregon Community College,Adam Rateb,45404,Oregon State
+2020,11/17,Mike Clock Open,197,W,FALL,6:24,Hunter Gregerson,58667,North Idaho College,Adam Rateb,45404,Oregon State
+2020,11/17,Mike Clock Open,197,W,FALL,1:16,Nolan Badovinac,52239,Simon Fraser,Adam Rateb,45404,Oregon State
+2020,11/09,Mountaineer Invitational,197,L,DEC,7 - 4,Paul Carson,51334,Appalachian State,Adam Rateb,45404,Oregon State
+2020,11/09,Mountaineer Invitational,197,L,FALL,1:49,Casey Jumps,50817,Air Force,Adam Rateb,45404,Oregon State
+2020,03/07,PAC 12 Championships,285,L,DEC,7 - 2,Jarrod Snyder,45319,CSU Bakersfield,Jamarcus Grant,44974,Oregon State
+2020,03/07,PAC 12 Championships,285,L,MD,9 - 0,Samuel Aguilar,49661,Cal Poly,Jamarcus Grant,44974,Oregon State
+2020,02/22,Cal Poly - Oregon State Dual,285,W,DEC,6 - 5,Samuel Aguilar,49661,Cal Poly,Jamarcus Grant,44974,Oregon State
+2020,02/14,California Baptist (Calif) - Oregon State Dual,285,W,TB-1,3 - 2,Zach Schrader,45168,Cal Baptist,Jamarcus Grant,44974,Oregon State
+2020,02/09,Oregon State - Stanford Dual,285,L,DEC,6 - 1,David Showunmi,39853,Stanford,Jamarcus Grant,44974,Oregon State
+2020,02/07,Oregon State - CSU Bakersfield Dual,285,L,DEC,9 - 6,Jarrod Snyder,45319,CSU Bakersfield,Jamarcus Grant,44974,Oregon State
+2020,01/31,Wyoming - Oregon State Dual,285,L,DEC,2 - 1,Brian Andrews,50489,Wyoming,Jamarcus Grant,44974,Oregon State
+2020,01/25,Oregon State - Presbyterian Dual,285,W,TB-1,2 - 1,Imani Heslop,61598,Presbyterian,Jamarcus Grant,44974,Oregon State
+2020,01/25,Oregon State - Campbell Dual,285,L,DEC,5 - 3,Jere Heino,40434,Campbell,Jamarcus Grant,44974,Oregon State
+2020,01/17,Oregon State - Arizona State Dual,285,L,DEC,9 - 2,Tanner Hall,40231,Arizona State,Jamarcus Grant,44974,Oregon State
+2020,01/10,Northern Colorado - Oregon State Dual,285,W,TB-3,4 - 1,Robert Winters,44813,Northern Colorado,Jamarcus Grant,44974,Oregon State
+2020,01/05,Oregon State - Michigan Dual,285,L,MD,15 - 5,Mason Parris,51176,Michigan,Jamarcus Grant,44974,Oregon State
+2020,01/01,Southern Scuffle,285,L,SV-1,6 - 4,Michael McAleavey,45588,The Citadel,Jamarcus Grant,44974,Oregon State
+2020,01/01,Southern Scuffle,285,L,DEC,6 - 4,Dan Stibral,39554,North Dakota State,Jamarcus Grant,44974,Oregon State
+2020,01/01,Southern Scuffle,285,W,SV-1,3 - 1,Collin Kelly,45338,Cleveland State,Jamarcus Grant,44974,Oregon State
+2020,01/01,Southern Scuffle,285,W,DEC,6 - 2,Matt Wagner,40613,Air Force,Jamarcus Grant,44974,Oregon State
+2020,12/20,Oregon State - Nebraska Dual,285,L,DEC,5 - 4,Christian Lance,41064,Nebraska,Jamarcus Grant,44974,Oregon State
+2020,12/15,Reno Tournament of Champions,285,W,DEC,8 - 1,Cohle Feliciano,64912,North Idaho College,Jamarcus Grant,44974,Oregon State
+2020,12/15,Reno Tournament of Champions,285,W,DEC,5 - 0,Kaden Montano,63549,Western Wyoming College,Jamarcus Grant,44974,Oregon State
+2020,12/15,Reno Tournament of Champions,285,L,DEC,2 - 1,Josh Hokit,44586,Fresno State,Jamarcus Grant,44974,Oregon State
+2020,12/15,Reno Tournament of Champions,285,L,DEC,4 - 0,Brian Andrews,50489,Wyoming,Jamarcus Grant,44974,Oregon State
+2020,11/23,Navy Classic,285,W,DEC,3 - 2,Christian Robertson,52887,Oregon State,Jamarcus Grant,44974,Oregon State
+2020,11/23,Navy Classic,285,L,DEC,6 - 3,Jordan Earnest,51122,Ohio,Jamarcus Grant,44974,Oregon State
+2020,11/23,Navy Classic,285,W,DEC,9 - 8,Spencer Berthold,50157,Kent State,Jamarcus Grant,44974,Oregon State
+2020,11/23,Navy Classic,285,W,DEC,3 - 2,Christian Rebottaro,44850,Michigan State,Jamarcus Grant,44974,Oregon State
+2020,11/23,Navy Classic,285,W,DEC,7 - 4,Eric Chakonis,49059,Bucknell,Jamarcus Grant,44974,Oregon State
+2020,11/23,Navy Classic,285,W,DEC,7 - 2,Niko Camacho,49032,American,Jamarcus Grant,44974,Oregon State
+2020,11/21,Oregon State - George Mason Dual,285,W,DEC,7 - 4,Jacob Slinger,57307,George Mason,Jamarcus Grant,44974,Oregon State
+2020,11/15,Oregon State - Simon Fraser (BC) Dual,285,L,SV-1,7 - 5,Taniela Feliciano-Takafua,57549,Simon Fraser,Jamarcus Grant,44974,Oregon State
+2020,11/09,Mountaineer Invitational,285,W,DEC,9 - 4,Sean Mullican,49344,West Virginia,Jamarcus Grant,44974,Oregon State
+2020,11/09,Mountaineer Invitational,285,L,DEC,4 - 1,Brandon Ngati,45167,West Virginia,Jamarcus Grant,44974,Oregon State
+2020,11/09,Mountaineer Invitational,285,L,DEC,3 - 2,Brandon Ngati,45167,West Virginia,Jamarcus Grant,44974,Oregon State
+2020,11/09,Mountaineer Invitational,285,W,FALL,6:41,Spencer Berthold,50157,Kent State,Jamarcus Grant,44974,Oregon State
+2020,11/09,Mountaineer Invitational,285,L,TB-2,3 - 2,Drake Pauwels,56416,Central Michigan,Jamarcus Grant,44974,Oregon State
+2020,01/19,Boxer Open,285,L,FALL,4:39,Caleb Sedlacek,66443,Unattached,Christian Robertson,52887,Oregon State
+2020,01/19,Boxer Open,285,W,FALL,2:20,Tanner Clark,65838,Southern Oregon,Christian Robertson,52887,Oregon State
+2020,01/19,Boxer Open,285,L,MFOR,0 - 0,Ismael DeLa Torre,64911,Southern Oregon,Christian Robertson,52887,Oregon State
+2020,01/19,Boxer Open,285,W,FALL,0:52,Juan Vallejo,63964,Warner Pacific,Christian Robertson,52887,Oregon State
+2020,12/15,Reno Tournament of Champions,285,L,FALL,2:40,Zach Schrader,45168,Cal Baptist,Christian Robertson,52887,Oregon State
+2020,12/15,Reno Tournament of Champions,285,L,FALL,1:58,Brian Andrews,50489,Wyoming,Christian Robertson,52887,Oregon State
+2020,11/23,Navy Classic,285,L,DEC,3 - 2,Jamarcus Grant,44974,Oregon State,Christian Robertson,52887,Oregon State
+2020,11/23,Navy Classic,285,W,TF5,17 - 2 5:16,Billy Baldwin,57728,Old Dominion,Christian Robertson,52887,Oregon State
+2020,11/23,Navy Classic,285,L,FALL,0:55,Alex Esposito,50637,Rutgers,Christian Robertson,52887,Oregon State
+2020,11/17,Mike Clock Open,285,W,DEC,5 - 3,Tarik Sutkovic,64925,Clackamas Community College,Christian Robertson,52887,Oregon State
+2020,11/17,Mike Clock Open,285,W,MD,20 - 8,Samuel Peterson,64919,North Idaho College,Christian Robertson,52887,Oregon State
+2020,11/17,Mike Clock Open,285,W,FALL,0:36,Juan Vallejo,63964,Warner Pacific,Christian Robertson,52887,Oregon State
+2020,11/17,Mike Clock Open,285,W,MFOR,0 - 0,Tommy Mommer,56594,Clackamas Community College,Christian Robertson,52887,Oregon State
+2020,11/17,Mike Clock Open,285,W,FALL,2:48,JJ Perez,52879,Southwestern Oregon Community College,Christian Robertson,52887,Oregon State
+2020,11/09,Mountaineer Invitational,285,W,DEC,6 - 1,Brian Barnes,49228,Oregon State,Christian Robertson,52887,Oregon State
+2020,11/09,Mountaineer Invitational,285,L,FALL,5:33,Drake Pauwels,56416,Central Michigan,Christian Robertson,52887,Oregon State
+2020,11/09,Mountaineer Invitational,285,L,FALL,0:37,Matt Stencel,44592,Central Michigan,Christian Robertson,52887,Oregon State
+2020,01/19,Boxer Open,285,W,TF5,15 - 0 7:00,Alvaro Venegas,66445,Unattached,Hayden Still,56782,Oregon State
+2020,01/19,Boxer Open,285,W,MD,14 - 0,Jack Farley,64316,Corban University,Hayden Still,56782,Oregon State
+2020,01/19,Boxer Open,285,W,FALL,6:57,Jayden De Fond,64314,Umpqua Community College,Hayden Still,56782,Oregon State
+2020,01/19,Boxer Open,285,L,FALL,2:50,Taniela Feliciano-Takafua,57549,Simon Fraser,Hayden Still,56782,Oregon State
+2020,12/15,Reno Tournament of Champions,285,W,DEC,7 - 0,Samuel Peterson,64919,North Idaho College,Hayden Still,56782,Oregon State
+2020,12/15,Reno Tournament of Champions,285,W,FALL,1:39,Nate Connelly,64845,Hastings,Hayden Still,56782,Oregon State
+2020,12/15,Reno Tournament of Champions,285,L,FALL,2:36,Mathew Kent,52141,Grand View,Hayden Still,56782,Oregon State
+2020,12/15,Reno Tournament of Champions,285,L,FALL,4:41,Landon Brown,51556,Western Wyoming College,Hayden Still,56782,Oregon State
+2020,11/17,Mike Clock Open,285,L,FALL,2:35,Mervyn Penniston-John,58989,Grays Harbor,Hayden Still,56782,Oregon State
+2020,11/17,Mike Clock Open,285,L,FALL,4:50,Taniela Feliciano-Takafua,57549,Simon Fraser,Hayden Still,56782,Oregon State
+2020,11/09,Clackamas Open,285,W,FALL,2:11,Juan Vallejo,63964,Warner Pacific,Hayden Still,56782,Oregon State
+2020,11/09,Clackamas Open,285,L,FALL,0:17,Cortez Rodelo,58996,Warner Pacific,Hayden Still,56782,Oregon State
+2020,11/09,Clackamas Open,285,W,FALL,2:48,Adam Lamb,58978,Umpqua Community College,Hayden Still,56782,Oregon State
+2020,11/09,Clackamas Open,285,L,FALL,3:55,Tommy Mommer,56594,Clackamas Community College,Hayden Still,56782,Oregon State
+2020,11/17,Mike Clock Open,285,L,DEC,5 - 2,Tarik Sutkovic,64925,Clackamas Community College,Brian Barnes,49228,Oregon State
+2020,11/17,Mike Clock Open,285,W,FALL,1:02,Cohle Feliciano,64912,North Idaho College,Brian Barnes,49228,Oregon State
+2020,11/17,Mike Clock Open,285,W,FALL,2:14,Jack Farley,64316,Corban University,Brian Barnes,49228,Oregon State
+2020,11/17,Mike Clock Open,285,W,FALL,0:57,Juan Vallejo,63964,Warner Pacific,Brian Barnes,49228,Oregon State
+2020,11/17,Mike Clock Open,285,W,DEC,7 - 1,Adam Lamb,58978,Umpqua Community College,Brian Barnes,49228,Oregon State
+2020,11/17,Mike Clock Open,285,L,FALL,2:48,Tommy Mommer,56594,Clackamas Community College,Brian Barnes,49228,Oregon State
+2020,11/09,Mountaineer Invitational,285,L,DEC,6 - 1,Christian Robertson,52887,Oregon State,Brian Barnes,49228,Oregon State
+2020,11/09,Mountaineer Invitational,285,W,FALL,3:30,Gabriel Pickett,57164,Gardner-Webb,Brian Barnes,49228,Oregon State
+2020,11/09,Mountaineer Invitational,285,L,MD,12 - 0,Cary Miller,39976,Appalachian State,Brian Barnes,49228,Oregon State
+2020,11/17,Mike Clock Open,285,W,MFOR,0 - 0,Justin Wilson,64928,Eastern Oregon University,Tristan Osborn,56783,Oregon State
+2020,11/17,Mike Clock Open,285,L,TF5,21 - 3 7:00,Cohle Feliciano,64912,North Idaho College,Tristan Osborn,56783,Oregon State
+2020,11/17,Mike Clock Open,285,W,DEC,7 - 1,Ismael DeLa Torre,64911,Southern Oregon,Tristan Osborn,56783,Oregon State
+2020,11/17,Mike Clock Open,285,L,DEC,6 - 2,Jayden De Fond,64314,Umpqua Community College,Tristan Osborn,56783,Oregon State
+2020,11/09,Clackamas Open,285,W,FALL,0:16,Tony McCaw,63956,Unattached,Tristan Osborn,56783,Oregon State
+2020,11/09,Clackamas Open,285,L,FALL,1:07,Cortez Rodelo,58996,Warner Pacific,Tristan Osborn,56783,Oregon State
+2020,11/09,Clackamas Open,285,W,DEC,4 - 1,Adam Lamb,58978,Umpqua Community College,Tristan Osborn,56783,Oregon State
+2020,11/09,Clackamas Open,285,L,FALL,5:40,JJ Perez,52879,Southwestern Oregon Community College,Tristan Osborn,56783,Oregon State

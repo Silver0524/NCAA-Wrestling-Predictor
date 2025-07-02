@@ -1,0 +1,524 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2019,03/09,EWL Championships,125,W,DEC,11 - 5,Talha Farooq,45317,George Mason,Jonathon Tropea,46048,Rider
+2019,03/09,EWL Championships,125,W,MD,12 - 1,Cameron Lathem,44691,Cleveland State,Jonathon Tropea,46048,Rider
+2019,03/09,EWL Championships,125,L,FALL,6:54,Willy Girard,45191,Bloomsburg,Jonathon Tropea,46048,Rider
+2019,02/24,Maryland - Rider Dual,125,L,DEC,11 - 10,Brandon Cray,44681,Maryland,Jonathon Tropea,46048,Rider
+2019,02/10,Rider - Bloomsburg Dual,125,W,DEC,9 - 8,Willy Girard,45191,Bloomsburg,Jonathon Tropea,46048,Rider
+2019,02/08,Rider - Lock Haven Dual,125,L,DEC,7 - 3,Luke Werner,50282,Lock Haven,Jonathon Tropea,46048,Rider
+2019,02/02,Clarion - Rider Dual,125,W,MD,12 - 4,Gavin Park,49094,Clarion,Jonathon Tropea,46048,Rider
+2019,01/31,George Mason - Rider Dual,125,W,DEC,15 - 9,Talha Farooq,45317,George Mason,Jonathon Tropea,46048,Rider
+2019,01/26,Rider - Hofstra Dual,125,L,FALL,4:00,Dylan Ryder,50876,Hofstra,Jonathon Tropea,46048,Rider
+2019,01/17,Iowa State - Rider Dual,125,L,FALL,5:36,Alex Mackall,44577,Iowa State,Jonathon Tropea,46048,Rider
+2019,01/12,Edinboro - Rider Dual,125,W,MD,14 - 5,Arick Shankles,40004,Edinboro,Jonathon Tropea,46048,Rider
+2019,01/11,Drexel - Rider Dual,125,W,DEC,12 - 6,Antonio Mininno,50806,Drexel,Jonathon Tropea,46048,Rider
+2019,01/11,Cleveland State - Rider Dual,125,W,DEC,11 - 8,Cameron Lathem,44691,Cleveland State,Jonathon Tropea,46048,Rider
+2019,01/01,Southern Scuffle,125,L,DEC,12 - 6,Sidney Flores,49031,Air Force,Jonathon Tropea,46048,Rider
+2019,01/01,Southern Scuffle,125,L,DEC,9 - 7,Jakob Camacho,50655,NC State,Jonathon Tropea,46048,Rider
+2019,12/20,Rider - Princeton Dual,125,L,FALL,1:59,Patrick Glory,51100,Princeton,Jonathon Tropea,46048,Rider
+2019,12/16,Rider - Rutgers Dual,125,W,DEC,5 - 3,Shane Metzler,49307,Rutgers,Jonathon Tropea,46048,Rider
+2019,11/29,Pennsylvania - Rider Dual,125,L,DEC,13 - 7,Carmen Ferrante,50660,Pennsylvania,Jonathon Tropea,46048,Rider
+2019,11/18,Keystone Classic,125,W,MD,16 - 6,Derek Shockey,57301,VMI,Jonathon Tropea,46048,Rider
+2019,11/18,Keystone Classic,125,W,DEC,11 - 5,Blair Orr,55804,Pennsylvania,Jonathon Tropea,46048,Rider
+2019,11/18,Keystone Classic,125,W,DEC,7 - 3,Carmen Ferrante,50660,Pennsylvania,Jonathon Tropea,46048,Rider
+2019,11/18,Keystone Classic,125,W,INJ,7:00,De'Andre Swinson,50576,Appalachian State,Jonathon Tropea,46048,Rider
+2019,11/04,Princeton Open,125,W,DEC,6 - 4,Nic Aguilar,51104,Rutgers,Jonathon Tropea,46048,Rider
+2019,11/04,Princeton Open,125,W,DEC,10 - 5,Jarod Kosman,56590,Maryland,Jonathon Tropea,46048,Rider
+2019,11/04,Princeton Open,125,W,MD,14 - 6,Conner Ziegler,43075,Army West Point,Jonathon Tropea,46048,Rider
+2019,11/04,Princeton Open,125,W,DEC,9 - 5,Joe Manchio,50937,Columbia,Jonathon Tropea,46048,Rider
+2019,11/04,Princeton Open,125,L,FALL,3:36,Patrick Glory,51100,Princeton,Jonathon Tropea,46048,Rider
+2019,03/02,National Collegiate Open,125,W,TF5,15 - 0 5:22,Kyle Randall,56471,Sacred Heart,Richie Koehler,51648,Rider
+2019,03/02,National Collegiate Open,125,L,DEC,11 - 5,Cody Phippen,50644,Air Force Prep,Richie Koehler,51648,Rider
+2019,03/02,National Collegiate Open,125,W,DEC,8 - 2,Matthew Cardello,50598,US Naval Academy Prep School,Richie Koehler,51648,Rider
+2019,03/02,National Collegiate Open,125,W,DEC,7 - 0,Matthew Templeton,56397,Hofstra,Richie Koehler,51648,Rider
+2019,03/02,National Collegiate Open,125,L,MD,17 - 7,Jakob Camacho,50655,NC State,Richie Koehler,51648,Rider
+2019,02/02,Edinboro Open,125,W,FALL,2:37,Jason Lella,57220,Edinboro,Richie Koehler,51648,Rider
+2019,02/02,Edinboro Open,125,L,TF5,18 - 3 3:57,Trevor Giallombardo,45033,Ohio,Richie Koehler,51648,Rider
+2019,02/02,Edinboro Open,125,L,TF5,23 - 7 5:50,Elijah Oliver,39583,Indiana,Richie Koehler,51648,Rider
+2019,01/01,Southern Scuffle,125,L,MD,12 - 4,Aslan Kilic,45565,Navy,Richie Koehler,51648,Rider
+2019,01/01,Southern Scuffle,125,W,DEC,11 - 4,Steven Bulzomi,40242,Binghamton,Richie Koehler,51648,Rider
+2019,01/01,Southern Scuffle,125,L,DEC,14 - 12,Alonzo Allen,19765,Chattanooga,Richie Koehler,51648,Rider
+2019,01/01,Southern Scuffle,125,W,DEC,7 - 6,Sidney Flores,49031,Air Force,Richie Koehler,51648,Rider
+2019,12/09,Patriots Open,125,L,MD,13 - 3,Sam Latona,56742,Unattached,Richie Koehler,51648,Rider
+2019,12/09,Patriots Open,125,W,TF5,16 - 0 5:23,Sean Foley,57285,Rider,Richie Koehler,51648,Rider
+2019,12/09,Patriots Open,125,W,INJ,7:00,Jacob Martin,42329,Hofstra,Richie Koehler,51648,Rider
+2019,12/09,Patriots Open,125,W,DEC,9 - 2,Reese Fry,56796,Brown,Richie Koehler,51648,Rider
+2019,12/09,Patriots Open,125,L,DEC,8 - 3,Nic Aguilar,51104,Rutgers,Richie Koehler,51648,Rider
+2019,11/10,East Stroudsburg Open,125,W,FALL,2:21,Tate Merlino,58756,Rowan College of South Jersey,Richie Koehler,51648,Rider
+2019,11/10,East Stroudsburg Open,125,W,TF5,17 - 2 7:00,Aaron Wildonger,47811,Millersville,Richie Koehler,51648,Rider
+2019,11/10,East Stroudsburg Open,125,W,DEC,5 - 0,Jarod Kosman,56590,Maryland,Richie Koehler,51648,Rider
+2019,11/10,East Stroudsburg Open,125,L,DEC,5 - 2,Gage Curry,44583,American,Richie Koehler,51648,Rider
+2019,11/04,Princeton Open,125,W,FALL,3:44,Christian Deehan,54954,The College of New Jersey,Richie Koehler,51648,Rider
+2019,11/04,Princeton Open,125,L,FALL,1:29,Jaret Lane,50909,Lehigh,Richie Koehler,51648,Rider
+2019,11/04,Princeton Open,125,W,DEC,8 - 4,Colton Cummings,49045,Army West Point,Richie Koehler,51648,Rider
+2019,11/04,Princeton Open,125,L,MD,11 - 1,Mike Kelly,57274,Columbia,Richie Koehler,51648,Rider
+2019,11/10,East Stroudsburg Open,125,L,DEC,16 - 10,Aaron Wildonger,47811,Millersville,Chase Mullarkey,57284,Rider
+2019,11/10,East Stroudsburg Open,125,W,FALL,4:19,Daniel Grobman,51015,Drexel,Chase Mullarkey,57284,Rider
+2019,11/10,East Stroudsburg Open,125,L,DEC,6 - 2,Brandon Seidman,56803,Bucknell,Chase Mullarkey,57284,Rider
+2019,11/04,Princeton Open,125,L,DEC,6 - 2,Ryan Burns,45113,Sacred Heart,Chase Mullarkey,57284,Rider
+2019,11/04,Princeton Open,125,L,FALL,1:26,King Sandoval,57116,Maryland,Chase Mullarkey,57284,Rider
+2019,11/10,East Stroudsburg Open,125,W,DEC,5 - 0,Robert Natelli,58757,Bergen Community College,Connor Mullarkey,57283,Rider
+2019,11/10,East Stroudsburg Open,125,L,MD,10 - 2,Jacy Jones,57838,Centenary,Connor Mullarkey,57283,Rider
+2019,11/10,East Stroudsburg Open,125,W,DEC,9 - 4,Alex Salas,49662,Drexel,Connor Mullarkey,57283,Rider
+2019,11/10,East Stroudsburg Open,125,L,DEC,6 - 1,Brandon Seidman,56803,Bucknell,Connor Mullarkey,57283,Rider
+2019,11/04,Princeton Open,125,L,MD,13 - 4,Ryan Burns,45113,Sacred Heart,Connor Mullarkey,57283,Rider
+2019,11/04,Princeton Open,125,L,TF5,21 - 5 7:00,Killian Cardinale,49268,Old Dominion,Connor Mullarkey,57283,Rider
+2019,03/02,National Collegiate Open,125,L,MD,11 - 3,Paxton Rosen,49072,Campbell,Sean Foley,57285,Rider
+2019,03/02,National Collegiate Open,125,L,MD,13 - 1,Tommy Cox,44623,NC State,Sean Foley,57285,Rider
+2019,02/02,Edinboro Open,125,L,FALL,4:04,Dylan Koontz,50854,Ohio State,Sean Foley,57285,Rider
+2019,02/02,Edinboro Open,125,L,DEC,6 - 1,Ethan Curtin,45303,Michigan State,Sean Foley,57285,Rider
+2019,12/09,Patriots Open,125,L,TF5,16 - 0 5:23,Richie Koehler,51648,Rider,Sean Foley,57285,Rider
+2019,12/09,Patriots Open,125,L,DEC,6 - 1,Blair Orr,55804,Pennsylvania,Sean Foley,57285,Rider
+2019,11/10,East Stroudsburg Open,125,L,SV-1,9 - 7,Robert Natelli,58757,Bergen Community College,Sean Foley,57285,Rider
+2019,11/10,East Stroudsburg Open,125,L,DEC,11 - 5,Jacy Jones,57838,Centenary,Sean Foley,57285,Rider
+2019,11/10,East Stroudsburg Open,125,W,DEC,9 - 2,Connor Yourkovitch,46226,Kutztown,Sean Foley,57285,Rider
+2019,11/04,Princeton Open,125,L,DEC,12 - 5,Jarod Kosman,56590,Maryland,Sean Foley,57285,Rider
+2019,11/04,Princeton Open,125,L,FALL,2:58,Mike Kelly,57274,Columbia,Sean Foley,57285,Rider
+2019,03/21,NCAA Championships,133,L,DEC,8 - 3,Noah Gonser,40087,Campbell,Anthony Cefolo,40284,Rider
+2019,03/21,NCAA Championships,133,L,DEC,3 - 1,Ethan Lizak,20040,Minnesota,Anthony Cefolo,40284,Rider
+2019,03/09,EWL Championships,133,L,DEC,3 - 2,DJ Fehlman,39898,Lock Haven,Anthony Cefolo,40284,Rider
+2019,03/09,EWL Championships,133,W,TF5,17 - 0 4:56,Spencer Reed,48319,George Mason,Anthony Cefolo,40284,Rider
+2019,03/09,EWL Championships,133,W,DEC,7 - 4,Richie Gomez,51062,Edinboro,Anthony Cefolo,40284,Rider
+2019,03/09,EWL Championships,133,W,FALL,1:42,Shawn Orem,51045,Bloomsburg,Anthony Cefolo,40284,Rider
+2019,02/24,Maryland - Rider Dual,133,W,SV-1,10 - 4,Orion Anderson,56379,Maryland,Anthony Cefolo,40284,Rider
+2019,02/17,Last Chance Open,133,W,FALL,2:41,Honor Nguyen,57013,SIU Edwardsville,Anthony Cefolo,40284,Rider
+2019,02/17,Last Chance Open,133,L,MFOR,0 - 0,Brody Teske,52779,Penn State,Anthony Cefolo,40284,Rider
+2019,02/17,Last Chance Open,133,W,MD,11 - 2,Sinjin Briggs,54314,Iowa State,Anthony Cefolo,40284,Rider
+2019,02/10,Rider - Bloomsburg Dual,133,L,DEC,12 - 7,Shawn Orem,51045,Bloomsburg,Anthony Cefolo,40284,Rider
+2019,02/08,Rider - Lock Haven Dual,133,L,DEC,6 - 4,DJ Fehlman,39898,Lock Haven,Anthony Cefolo,40284,Rider
+2019,02/02,Clarion - Rider Dual,133,W,MD,11 - 3,Seth Koleno,51157,Clarion,Anthony Cefolo,40284,Rider
+2019,01/31,George Mason - Rider Dual,133,W,FALL,5:40,Spencer Reed,48319,George Mason,Anthony Cefolo,40284,Rider
+2019,01/26,Rider - Hofstra Dual,133,W,FALL,4:16,Jacob Martin,42329,Hofstra,Anthony Cefolo,40284,Rider
+2019,01/17,Iowa State - Rider Dual,133,W,FALL,2:55,Austin Gomez,49153,Iowa State,Anthony Cefolo,40284,Rider
+2019,01/12,Edinboro - Rider Dual,133,W,FALL,2:28,Richie Gomez,51062,Edinboro,Anthony Cefolo,40284,Rider
+2019,01/11,Drexel - Rider Dual,133,W,DEC,4 - 3,Chandler Olson,49119,Drexel,Anthony Cefolo,40284,Rider
+2019,01/11,Cleveland State - Rider Dual,133,W,DEC,5 - 1,Armando Torres,19876,Cleveland State,Anthony Cefolo,40284,Rider
+2019,12/16,Rider - Rutgers Dual,133,L,MD,15 - 3,Nick Suriano,44648,Rutgers,Anthony Cefolo,40284,Rider
+2019,11/29,Pennsylvania - Rider Dual,133,W,DEC,6 - 4,Doug Zapf,50656,Pennsylvania,Anthony Cefolo,40284,Rider
+2019,11/10,East Stroudsburg Open,133,W,FALL,3:55,David Ott,58758,Camden County Community College,Anthony Cefolo,40284,Rider
+2019,11/10,East Stroudsburg Open,133,W,FALL,4:01,Gerhardt Reiter,57675,East Stroudsburg,Anthony Cefolo,40284,Rider
+2019,11/10,East Stroudsburg Open,133,W,TF5,18 - 2 4:03,Jared Altan,57671,East Stroudsburg,Anthony Cefolo,40284,Rider
+2019,11/10,East Stroudsburg Open,133,W,DEC,9 - 3,Anthony Zamora,57729,Old Dominion,Anthony Cefolo,40284,Rider
+2019,11/10,East Stroudsburg Open,133,L,MD,17 - 9,Trevon Majette,51364,Old Dominion,Anthony Cefolo,40284,Rider
+2019,11/10,East Stroudsburg Open,133,L,SV-1,3 - 1,Tyler Delaware,51358,Old Dominion,Anthony Cefolo,40284,Rider
+2019,03/02,National Collegiate Open,133,L,DEC,4 - 1,Chance Rich,50933,CSU Bakersfield,Chris Wright,51092,Rider
+2019,03/02,National Collegiate Open,133,L,MFOR,0 - 0,Brock Whorton,50666,Clarion,Chris Wright,51092,Rider
+2019,03/02,National Collegiate Open,133,W,MD,21 - 10,Austin Warner,51998,Campbell,Chris Wright,51092,Rider
+2019,02/02,Edinboro Open,133,W,FALL,1:45,Garrett Reinsfelder,57931,Pittsburgh,Chris Wright,51092,Rider
+2019,02/02,Edinboro Open,133,W,MD,11 - 2,Louis Newell,50916,Pittsburgh,Chris Wright,51092,Rider
+2019,02/02,Edinboro Open,133,W,MD,14 - 2,Anthony Duca,49206,Navy,Chris Wright,51092,Rider
+2019,02/02,Edinboro Open,133,L,DEC,3 - 1,Mario Guillen,44618,Ohio,Chris Wright,51092,Rider
+2019,01/01,Southern Scuffle,133,W,DEC,7 - 2,Ty Smith,52110,Drexel,Chris Wright,51092,Rider
+2019,01/01,Southern Scuffle,133,W,FALL,1:09,Dalton Rohrbaugh,51091,Lock Haven,Chris Wright,51092,Rider
+2019,01/01,Southern Scuffle,133,L,TF5,19 - 3 5:57,Daton Fix,49263,Oklahoma State,Chris Wright,51092,Rider
+2019,01/01,Southern Scuffle,133,W,TF5,16 - 0 2:46,Francisco Valdes,49089,Chattanooga,Chris Wright,51092,Rider
+2019,01/01,Southern Scuffle,133,L,DEC,9 - 5,Mason Pengilly,20392,Stanford,Chris Wright,51092,Rider
+2019,12/09,Patriots Open,133,L,MFOR,0 - 0,Brandon Loperfido,44874,Lock Haven,Chris Wright,51092,Rider
+2019,12/09,Patriots Open,133,L,DEC,6 - 3,Mel Ortiz,56954,George Mason,Chris Wright,51092,Rider
+2019,12/09,Patriots Open,133,L,MD,13 - 1,Josh Terao,20533,American,Chris Wright,51092,Rider
+2019,12/09,Patriots Open,133,W,DEC,6 - 3,Luke Ecklof,50471,Rutgers,Chris Wright,51092,Rider
+2019,11/04,Princeton Open,133,W,DEC,7 - 3,Luke Ecklof,50471,Rutgers,Chris Wright,51092,Rider
+2019,11/04,Princeton Open,133,L,MD,11 - 0,Ben Thornton,20350,Purdue,Chris Wright,51092,Rider
+2019,11/04,Princeton Open,133,W,FALL,6:17,Orion Anderson,56379,Maryland,Chris Wright,51092,Rider
+2019,11/04,Princeton Open,133,W,TF5,16 - 0 7:00,Sean Fitzsimons,51327,Army West Point,Chris Wright,51092,Rider
+2019,11/04,Princeton Open,133,W,DEC,8 - 1,Matthew Marino,49043,Army West Point,Chris Wright,51092,Rider
+2019,11/04,Princeton Open,133,W,FALL,4:14,Jonathan Gomez,49300,Princeton,Chris Wright,51092,Rider
+2019,11/18,Keystone Classic,133,L,DEC,8 - 6,Hunter Starner,20701,VMI,Herbert Edwards,50630,Rider
+2019,11/18,Keystone Classic,133,W,SV-1,7 - 5,Jon Guevara,42363,Pennsylvania,Herbert Edwards,50630,Rider
+2019,11/18,Keystone Classic,133,W,DEC,11 - 5,Tristin DeVincenzo,39730,Pennsylvania,Herbert Edwards,50630,Rider
+2019,11/18,Keystone Classic,133,W,MFOR,0 - 0,Lukus Stricker,49139,Harvard,Herbert Edwards,50630,Rider
+2019,11/18,Keystone Classic,133,L,DEC,3 - 0,Lukus Stricker,49139,Harvard,Herbert Edwards,50630,Rider
+2019,11/04,Princeton Open,133,W,DEC,8 - 7,Jacob Falleni,55644,The College of New Jersey,Herbert Edwards,50630,Rider
+2019,11/04,Princeton Open,133,L,DEC,8 - 3,Steven Simpson,39905,Old Dominion,Herbert Edwards,50630,Rider
+2019,11/04,Princeton Open,133,L,DEC,9 - 2,Mitchell Polito,54384,Lehigh,Herbert Edwards,50630,Rider
+2019,03/02,National Collegiate Open,133,L,DEC,11 - 6,Dominic Carone,50845,United States Military Academy,Charlie Peterson,57282,Rider
+2019,03/02,National Collegiate Open,133,L,TF5,24 - 9 6:10,Tucker Sjomeling,49209,Nebraska,Charlie Peterson,57282,Rider
+2019,11/04,Princeton Open,133,W,MD,10 - 0,William Bianchi,56006,Sacred Heart,Charlie Peterson,57282,Rider
+2019,11/04,Princeton Open,133,L,FALL,2:10,Savion Haywood,50829,Old Dominion,Charlie Peterson,57282,Rider
+2019,11/04,Princeton Open,133,L,MD,17 - 4,Jonathan Gomez,49300,Princeton,Charlie Peterson,57282,Rider
+2019,03/09,EWL Championships,141,W,DEC,6 - 2,Julio Alegria,56956,George Mason,Travis Layton,49041,Rider
+2019,03/09,EWL Championships,141,L,DEC,1 - 0,Carmine Ciotti,48218,Edinboro,Travis Layton,49041,Rider
+2019,03/09,EWL Championships,141,W,DEC,8 - 3,Sam Matzek,41219,Cleveland State,Travis Layton,49041,Rider
+2019,03/09,EWL Championships,141,W,FALL,2:57,Aaron Coleman,56856,Bloomsburg,Travis Layton,49041,Rider
+2019,02/24,Maryland - Rider Dual,141,L,FALL,2:59,Danny Bertoni,49173,Maryland,Travis Layton,49041,Rider
+2019,02/10,Rider - Bloomsburg Dual,141,W,INJ,7:00,Aaron Coleman,56856,Bloomsburg,Travis Layton,49041,Rider
+2019,02/08,Rider - Lock Haven Dual,141,L,TF5,15 - 0 3:41,Kyle Shoop,39682,Lock Haven,Travis Layton,49041,Rider
+2019,02/02,Clarion - Rider Dual,141,W,DEC,5 - 3,Jalin Hankerson,49095,Clarion,Travis Layton,49041,Rider
+2019,01/31,George Mason - Rider Dual,141,W,DEC,10 - 8,Julio Alegria,56956,George Mason,Travis Layton,49041,Rider
+2019,01/26,Rider - Hofstra Dual,141,L,MD,9 - 0,Garrett Lambert,44698,Hofstra,Travis Layton,49041,Rider
+2019,01/17,Iowa State - Rider Dual,141,L,FALL,5:20,Ian Parker,44732,Iowa State,Travis Layton,49041,Rider
+2019,01/12,Edinboro - Rider Dual,141,W,DEC,4 - 2,Carmine Ciotti,48218,Edinboro,Travis Layton,49041,Rider
+2019,01/11,Drexel - Rider Dual,141,W,DEC,4 - 2,Julian Flores,44791,Drexel,Travis Layton,49041,Rider
+2019,01/11,Cleveland State - Rider Dual,141,W,DEC,7 - 2,Mike Santillo,51055,Cleveland State,Travis Layton,49041,Rider
+2019,01/01,Southern Scuffle,141,W,DEC,9 - 2,Clayton Currier,50235,Campbell,Travis Layton,49041,Rider
+2019,01/01,Southern Scuffle,141,W,MFOR,0 - 0,Kyle Trybus,44659,Navy,Travis Layton,49041,Rider
+2019,01/01,Southern Scuffle,141,L,DEC,4 - 1,Nicholas Gil,40255,Navy,Travis Layton,49041,Rider
+2019,01/01,Southern Scuffle,141,L,DEC,8 - 2,Cameron Kelly,39687,Ohio,Travis Layton,49041,Rider
+2019,12/20,Rider - Princeton Dual,141,W,DEC,3 - 2,Marshall Keller,51509,Princeton,Travis Layton,49041,Rider
+2019,12/16,Rider - Rutgers Dual,141,L,DEC,6 - 2,Mike Van Brill,44613,Rutgers,Travis Layton,49041,Rider
+2019,11/29,Pennsylvania - Rider Dual,141,L,FALL,1:22,Grant Aronoff,50891,Pennsylvania,Travis Layton,49041,Rider
+2019,11/18,Keystone Classic,141,W,FALL,4:58,Gerard Daly,40044,Sacred Heart,Travis Layton,49041,Rider
+2019,11/18,Keystone Classic,141,L,FALL,2:55,Grant Aronoff,50891,Pennsylvania,Travis Layton,49041,Rider
+2019,11/18,Keystone Classic,141,W,DEC,6 - 2,Brett Kulp,44906,Franklin & Marshall,Travis Layton,49041,Rider
+2019,11/18,Keystone Classic,141,L,DEC,2 - 1,Anthony Brito,49035,Appalachian State,Travis Layton,49041,Rider
+2019,11/10,East Stroudsburg Open,141,W,TF5,18 - 1 4:08,Paul Miller,54429,Kutztown,Travis Layton,49041,Rider
+2019,11/10,East Stroudsburg Open,141,W,DEC,10 - 5,Michael McAteer,50846,United States Military Academy,Travis Layton,49041,Rider
+2019,11/10,East Stroudsburg Open,141,W,DEC,4 - 1,Dylan Nace,46184,East Stroudsburg,Travis Layton,49041,Rider
+2019,11/10,East Stroudsburg Open,141,W,FALL,4:02,Jamar Williams,55824,Maryland,Travis Layton,49041,Rider
+2019,11/10,East Stroudsburg Open,141,L,DEC,7 - 5,Patrick Ryan,57253,American,Travis Layton,49041,Rider
+2019,11/10,East Stroudsburg Open,141,L,TB-2,3 - 1,Jack Mutchnik,13900,American,Travis Layton,49041,Rider
+2019,03/02,National Collegiate Open,141,W,SV-1,13 - 11,Ryan Moore,50654,Spartan Combat RTC,Robert Cleary,49924,Rider
+2019,03/02,National Collegiate Open,141,W,DEC,8 - 5,Noah Caskey,58225,US Naval Academy Prep School,Robert Cleary,49924,Rider
+2019,03/02,National Collegiate Open,141,W,MD,13 - 0,Gray Hart,57062,Virginia,Robert Cleary,49924,Rider
+2019,03/02,National Collegiate Open,141,L,DEC,10 - 4,Chase Zollmann,50917,Wyoming,Robert Cleary,49924,Rider
+2019,03/02,National Collegiate Open,141,W,FALL,0:31,Noah Ajram,40011,Princeton,Robert Cleary,49924,Rider
+2019,03/02,National Collegiate Open,141,W,FALL,1:26,Quinn Devaney,49175,Maryland,Robert Cleary,49924,Rider
+2019,11/04,Princeton Open,141,L,MD,13 - 5,Troy Stanich,58216,Stevens Tech,Robert Cleary,49924,Rider
+2019,11/04,Princeton Open,141,W,DEC,6 - 5,Pat D'arcy,43692,NJRTC,Robert Cleary,49924,Rider
+2019,11/04,Princeton Open,141,W,DEC,8 - 3,Michael McAteer,50846,United States Military Academy,Robert Cleary,49924,Rider
+2019,11/04,Princeton Open,141,W,TF5,21 - 5 7:00,Anthony Sountis,55915,Maryland,Robert Cleary,49924,Rider
+2019,11/04,Princeton Open,141,L,DEC,6 - 4,Danny Moran,49162,Lehigh,Robert Cleary,49924,Rider
+2019,11/04,Princeton Open,141,W,FALL,3:44,JP Ascolese,19808,Columbia,Robert Cleary,49924,Rider
+2019,11/03,Centenary (NJ) - Rutgers Dual,141,W,FALL,5:50,Cameron Bruffy,57841,Centenary,Robert Cleary,49924,Rider
+2019,01/01,Southern Scuffle,149,L,MD,12 - 4,Brady Berge,49277,Penn State,Frankie Gissendanner,56276,Rider
+2019,01/01,Southern Scuffle,149,L,FALL,1:17,Cole Corrigan,57204,Columbia,Frankie Gissendanner,56276,Rider
+2019,11/10,East Stroudsburg Open,141,W,SV-1,4 - 2,Cary Palmer,51444,Bloomsburg,Frankie Gissendanner,56276,Rider
+2019,11/10,East Stroudsburg Open,141,W,DEC,7 - 4,Danny Bertoni,49173,Maryland,Frankie Gissendanner,56276,Rider
+2019,11/10,East Stroudsburg Open,141,W,DEC,6 - 3,Imran Heard,51595,Lock Haven,Frankie Gissendanner,56276,Rider
+2019,11/10,East Stroudsburg Open,141,W,TF5,16 - 0 1:49,Frank Houser,56806,Bucknell,Frankie Gissendanner,56276,Rider
+2019,11/10,East Stroudsburg Open,141,W,DEC,7 - 1,James Giaccia,40310,American,Frankie Gissendanner,56276,Rider
+2019,11/04,Princeton Open,141,L,MFOR,0 - 0,Danny Bertoni,49173,Maryland,Jesse Rodgers,20354,Rider
+2019,11/04,Princeton Open,141,L,FALL,6:29,Thomas Miers,39963,Columbia,Jesse Rodgers,20354,Rider
+2019,03/02,National Collegiate Open,141,L,TF5,16 - 0 2:33,James Giaccia,40310,American,Sam Mandelbraut,57281,Rider
+2019,03/02,National Collegiate Open,141,L,FALL,0:48,Jarred Papscy,56827,NC State,Sam Mandelbraut,57281,Rider
+2019,12/22,Wilkes Open,141,L,TF5,19 - 2 3:52,Gerard Daly,40044,Sacred Heart,Sam Mandelbraut,57281,Rider
+2019,12/22,Wilkes Open,141,L,FALL,2:52,Kyle DiNapoli,44982,Rutgers,Sam Mandelbraut,57281,Rider
+2019,12/09,Patriots Open,141,L,DEC,4 - 0,Gray Hart,57062,Virginia,Sam Mandelbraut,57281,Rider
+2019,12/09,Patriots Open,141,L,TF5,17 - 2 6:04,Anthony Sountis,55915,Maryland,Sam Mandelbraut,57281,Rider
+2019,11/10,East Stroudsburg Open,141,L,TF5,16 - 0 3:19,Anthony Petril,40772,Kutztown,Sam Mandelbraut,57281,Rider
+2019,11/10,East Stroudsburg Open,141,L,TF5,15 - 0 5:44,Braden Stahlnecker,51046,Bloomsburg,Sam Mandelbraut,57281,Rider
+2019,11/04,Princeton Open,141,L,TF5,16 - 0 7:00,Dalton Young,49328,Stanford,Sam Mandelbraut,57281,Rider
+2019,11/04,Princeton Open,141,L,FALL,1:22,Michael Doetsch,44919,Maryland,Sam Mandelbraut,57281,Rider
+2019,03/09,EWL Championships,149,L,DEC,13 - 6,Tejon Anthony,19896,George Mason,Evan Fidelibus,44900,Rider
+2019,03/09,EWL Championships,149,W,DEC,4 - 2,Avery Shay,50309,Clarion,Evan Fidelibus,44900,Rider
+2019,02/10,Rider - Bloomsburg Dual,149,W,INJ,7:00,Grant Bond,40304,Bloomsburg,Evan Fidelibus,44900,Rider
+2019,02/08,Rider - Lock Haven Dual,149,W,DEC,6 - 4,Brock Port,49168,Lock Haven,Evan Fidelibus,44900,Rider
+2019,02/02,Clarion - Rider Dual,149,L,MD,9 - 0,Avery Shay,50309,Clarion,Evan Fidelibus,44900,Rider
+2019,01/26,Rider - Hofstra Dual,149,L,DEC,14 - 13,Holden Heller,50940,Hofstra,Evan Fidelibus,44900,Rider
+2019,01/11,Drexel - Rider Dual,149,L,MD,16 - 3,Parker Kropman,45187,Drexel,Evan Fidelibus,44900,Rider
+2019,01/11,Cleveland State - Rider Dual,149,W,DEC,10 - 7,Brady Barnett,50220,Cleveland State,Evan Fidelibus,44900,Rider
+2019,01/01,Southern Scuffle,149,L,MD,15 - 6,Dusty Hone,20271,Oklahoma State,Evan Fidelibus,44900,Rider
+2019,01/01,Southern Scuffle,149,W,FALL,6:59,Devin Rivet,56278,Campbell,Evan Fidelibus,44900,Rider
+2019,01/01,Southern Scuffle,149,L,FALL,4:13,Kaden Gfeller,49261,Oklahoma State,Evan Fidelibus,44900,Rider
+2019,01/01,Southern Scuffle,149,W,DEC,7 - 3,Jonathan Ross,44894,Lock Haven,Evan Fidelibus,44900,Rider
+2019,12/20,Rider - Princeton Dual,149,L,TF5,18 - 3 7:00,Matt Kolodzik,45071,Princeton,Evan Fidelibus,44900,Rider
+2019,12/16,Rider - Rutgers Dual,149,L,FALL,3:33,Anthony Ashnault,11803,Rutgers,Evan Fidelibus,44900,Rider
+2019,11/29,Pennsylvania - Rider Dual,149,L,FALL,4:59,Anthony Artalona,51039,Pennsylvania,Evan Fidelibus,44900,Rider
+2019,11/18,Keystone Classic,149,L,MD,14 - 3,Jarod Verkleeren,49156,Penn State,Evan Fidelibus,44900,Rider
+2019,11/18,Keystone Classic,149,L,FALL,1:13,Luke Gardner,44743,Penn State,Evan Fidelibus,44900,Rider
+2019,11/18,Keystone Classic,149,W,DEC,10 - 4,Cole Aaron,44902,Franklin & Marshall,Evan Fidelibus,44900,Rider
+2019,11/18,Keystone Classic,149,W,TF5,16 - 1 3:22,Chris Martorello,40384,Franklin & Marshall,Evan Fidelibus,44900,Rider
+2019,11/10,East Stroudsburg Open,149,W,FALL,1:33,Evan Vandzura,58760,Rowan College of South Jersey,Evan Fidelibus,44900,Rider
+2019,11/10,East Stroudsburg Open,149,L,MFOR,0 - 0,Stanley Wojoylak,57843,Centenary,Evan Fidelibus,44900,Rider
+2019,11/10,East Stroudsburg Open,149,W,MFOR,0 - 0,Mitchell Camp,46213,Kutztown,Evan Fidelibus,44900,Rider
+2019,11/10,East Stroudsburg Open,149,W,MD,13 - 3,Dakota Roark,51010,American,Evan Fidelibus,44900,Rider
+2019,11/10,East Stroudsburg Open,149,L,DEC,11 - 4,Kizhan Clarke,44878,American,Evan Fidelibus,44900,Rider
+2019,02/24,Maryland - Rider Dual,149,L,SV-2,4 - 2,Alfred Bannister,19997,Maryland,Gary Dinmore,23397,Rider
+2019,01/31,George Mason - Rider Dual,149,L,DEC,8 - 4,Tejon Anthony,19896,George Mason,Gary Dinmore,23397,Rider
+2019,01/17,Iowa State - Rider Dual,149,L,MD,20 - 6,Jarrett Degen,44855,Iowa State,Gary Dinmore,23397,Rider
+2019,01/12,Edinboro - Rider Dual,149,W,DEC,3 - 1,Chris Matzke,45369,Edinboro,Gary Dinmore,23397,Rider
+2019,01/01,Southern Scuffle,149,L,DEC,3 - 2,John Millner,50212,Appalachian State,Gary Dinmore,23397,Rider
+2019,01/01,Southern Scuffle,149,W,DEC,4 - 1,Brock Port,49168,Lock Haven,Gary Dinmore,23397,Rider
+2019,01/01,Southern Scuffle,149,W,DEC,6 - 4,Luke Gardner,44743,Penn State,Gary Dinmore,23397,Rider
+2019,01/01,Southern Scuffle,149,L,DEC,4 - 0,Requir van der Merwe,45389,Stanford,Gary Dinmore,23397,Rider
+2019,11/18,Keystone Classic,157,L,DEC,3 - 2,Willy Kaiser,56008,Pennsylvania,Gary Dinmore,23397,Rider
+2019,11/18,Keystone Classic,157,L,MD,22 - 10,Jason Nolf,20303,Penn State,Gary Dinmore,23397,Rider
+2019,11/18,Keystone Classic,157,W,DEC,4 - 2,Aaron Kruk,44797,Harvard,Gary Dinmore,23397,Rider
+2019,11/04,Princeton Open,157,L,DEC,5 - 2,Mike D'angelo,43678,NJRTC,Gary Dinmore,23397,Rider
+2019,11/04,Princeton Open,157,L,DEC,5 - 4,Ethan Woods,49329,Stanford,Gary Dinmore,23397,Rider
+2019,03/02,National Collegiate Open,149,L,FALL,4:19,Nate Smith,57407,Pitt-Johnstown,Jovanni Gomez,43566,Rider
+2019,03/02,National Collegiate Open,149,L,MD,11 - 1,Eric Carter,51085,Duke,Jovanni Gomez,43566,Rider
+2019,03/09,EWL Championships,157,L,DEC,4 - 1,Alex Klucker,40289,Lock Haven,Gino Fluri,40130,Rider
+2019,03/09,EWL Championships,157,W,DEC,6 - 2,Michael Bartolo,40462,Clarion,Gino Fluri,40130,Rider
+2019,03/09,EWL Championships,157,W,DEC,4 - 3,Michael Bartolo,40462,Clarion,Gino Fluri,40130,Rider
+2019,03/09,EWL Championships,157,W,DEC,3 - 2,Nate Newberry,45190,Bloomsburg,Gino Fluri,40130,Rider
+2019,02/24,Maryland - Rider Dual,157,W,DEC,7 - 3,Adam Whitesell,20016,Maryland,Gino Fluri,40130,Rider
+2019,02/10,Rider - Bloomsburg Dual,157,L,DEC,5 - 4,Nate Newberry,45190,Bloomsburg,Gino Fluri,40130,Rider
+2019,02/08,Rider - Lock Haven Dual,157,L,DEC,8 - 4,Alex Klucker,40289,Lock Haven,Gino Fluri,40130,Rider
+2019,02/02,Clarion - Rider Dual,157,W,DEC,3 - 2,Michael Bartolo,40462,Clarion,Gino Fluri,40130,Rider
+2019,01/31,George Mason - Rider Dual,157,W,DEC,6 - 5,Kolby Ho,55945,George Mason,Gino Fluri,40130,Rider
+2019,01/26,Rider - Hofstra Dual,157,W,DEC,2 - 0,Chris Mauriello,44614,Hofstra,Gino Fluri,40130,Rider
+2019,01/17,Iowa State - Rider Dual,157,L,DEC,7 - 4,Chase Straw,39610,Iowa State,Gino Fluri,40130,Rider
+2019,01/12,Edinboro - Rider Dual,157,W,DEC,8 - 3,Tim Suter,51064,Edinboro,Gino Fluri,40130,Rider
+2019,01/11,Drexel - Rider Dual,157,W,DEC,5 - 3,Evan Barczak,49122,Drexel,Gino Fluri,40130,Rider
+2019,01/11,Cleveland State - Rider Dual,157,W,DEC,3 - 2,Nico Odor,45039,Cleveland State,Gino Fluri,40130,Rider
+2019,01/01,Southern Scuffle,157,L,DEC,3 - 2,Dominick Mandarino,49324,Stanford,Gino Fluri,40130,Rider
+2019,01/01,Southern Scuffle,157,W,MD,13 - 2,Josh Annis,43313,CSU Bakersfield,Gino Fluri,40130,Rider
+2019,01/01,Southern Scuffle,157,L,SV-1,6 - 4,Alex Mossing,23680,Air Force,Gino Fluri,40130,Rider
+2019,12/20,Rider - Princeton Dual,157,L,DEC,6 - 2,Quincy Monday,53967,Princeton,Gino Fluri,40130,Rider
+2019,12/16,Rider - Rutgers Dual,157,L,DEC,2 - 1,John Van Brill,20367,Rutgers,Gino Fluri,40130,Rider
+2019,11/29,Pennsylvania - Rider Dual,157,W,SV-1,7 - 5,Joe Oliva,20318,Pennsylvania,Gino Fluri,40130,Rider
+2019,11/18,Keystone Classic,157,W,MD,12 - 3,Carl Antrassian,45263,Pennsylvania,Gino Fluri,40130,Rider
+2019,11/18,Keystone Classic,157,L,SV-1,6 - 4,Bo Pipher,45075,Penn State,Gino Fluri,40130,Rider
+2019,11/18,Keystone Classic,157,W,DEC,3 - 2,Aaron Kruk,44797,Harvard,Gino Fluri,40130,Rider
+2019,11/18,Keystone Classic,157,L,DEC,5 - 4,Angel Najar,40406,Appalachian State,Gino Fluri,40130,Rider
+2019,11/04,Princeton Open,157,W,DEC,9 - 5,Jared Hill,45390,Stanford,Gino Fluri,40130,Rider
+2019,11/04,Princeton Open,157,W,FALL,5:00,Cole Smith,50659,Old Dominion,Gino Fluri,40130,Rider
+2019,11/04,Princeton Open,157,L,DEC,2 - 1,Larry Early,39519,Old Dominion,Gino Fluri,40130,Rider
+2019,11/04,Princeton Open,157,W,DEC,9 - 5,Brian Meyer,50941,Lehigh,Gino Fluri,40130,Rider
+2019,11/04,Princeton Open,157,W,MD,16 - 7,Sam Ward,39715,Columbia,Gino Fluri,40130,Rider
+2019,11/04,Princeton Open,157,L,DEC,9 - 5,Dan Reed,19818,Columbia,Gino Fluri,40130,Rider
+2019,03/02,National Collegiate Open,157,W,DEC,9 - 3,Jake Benner,50617,Rutgers,Joe Casey,51145,Rider
+2019,03/02,National Collegiate Open,157,W,TF5,19 - 4 7:00,Seth Hogue,44668,West Virginia,Joe Casey,51145,Rider
+2019,03/02,National Collegiate Open,157,W,DEC,12 - 6,Willy Kaiser,56008,Pennsylvania,Joe Casey,51145,Rider
+2019,03/02,National Collegiate Open,157,W,MD,10 - 1,Carl Antrassian,45263,Pennsylvania,Joe Casey,51145,Rider
+2019,03/02,National Collegiate Open,157,L,DEC,6 - 3,Zach Barnes,49073,Campbell,Joe Casey,51145,Rider
+2019,03/02,National Collegiate Open,157,W,DEC,10 - 3,Sam Webster,51158,Columbia,Joe Casey,51145,Rider
+2019,01/01,Southern Scuffle,157,L,SV-1,10 - 8,Felix Belga,44764,Drexel,Joe Casey,51145,Rider
+2019,01/01,Southern Scuffle,157,W,MD,14 - 3,Brandon Leynaud,42790,Duke,Joe Casey,51145,Rider
+2019,01/01,Southern Scuffle,157,L,FALL,2:10,Alex Mossing,23680,Air Force,Joe Casey,51145,Rider
+2019,11/10,East Stroudsburg Open,157,W,MFOR,0 - 0,Stephon Mayo,58741,Kutztown,Joe Casey,51145,Rider
+2019,11/10,East Stroudsburg Open,157,W,FALL,2:04,Jeremy Parkhurst,51276,Centenary,Joe Casey,51145,Rider
+2019,11/10,East Stroudsburg Open,157,L,SV-1,3 - 1,Chad Haegele,42008,Kutztown,Joe Casey,51145,Rider
+2019,11/10,East Stroudsburg Open,157,W,TF5,19 - 3 5:56,Lucas Cordio,57120,Maryland,Joe Casey,51145,Rider
+2019,11/04,Princeton Open,157,L,DEC,6 - 0,Luke Weiland,41243,Army West Point,Joe Casey,51145,Rider
+2019,11/04,Princeton Open,157,L,DEC,9 - 2,Dan Reed,19818,Columbia,Joe Casey,51145,Rider
+2019,03/21,NCAA Championships,165,L,MD,11 - 3,Logan Massa,39517,Michigan,Jesse Dellavecchia,39574,Rider
+2019,03/21,NCAA Championships,165,W,MD,14 - 6,Nick Kiussis,49345,West Virginia,Jesse Dellavecchia,39574,Rider
+2019,03/21,NCAA Championships,165,L,MD,10 - 2,Josh Shields,39511,Arizona State,Jesse Dellavecchia,39574,Rider
+2019,03/21,NCAA Championships,165,W,DEC,9 - 2,Tanner Skidgel,49200,Navy,Jesse Dellavecchia,39574,Rider
+2019,03/09,EWL Championships,165,L,MD,12 - 3,Chance Marsteller,47805,Lock Haven,Jesse Dellavecchia,39574,Rider
+2019,03/09,EWL Championships,165,W,MD,14 - 6,Colston DiBlasi,39718,George Mason,Jesse Dellavecchia,39574,Rider
+2019,03/09,EWL Championships,165,W,MD,10 - 0,Alex Carida,56789,Bloomsburg,Jesse Dellavecchia,39574,Rider
+2019,02/24,Maryland - Rider Dual,165,W,MD,10 - 1,Philip Spadafora,51167,Maryland,Jesse Dellavecchia,39574,Rider
+2019,02/10,Rider - Bloomsburg Dual,165,W,MD,10 - 2,Alex Carida,56789,Bloomsburg,Jesse Dellavecchia,39574,Rider
+2019,02/08,Rider - Lock Haven Dual,165,L,DEC,11 - 5,Chance Marsteller,47805,Lock Haven,Jesse Dellavecchia,39574,Rider
+2019,02/02,Clarion - Rider Dual,165,W,DEC,6 - 2,Evan DeLong,19790,Clarion,Jesse Dellavecchia,39574,Rider
+2019,01/31,George Mason - Rider Dual,165,W,TF5,15 - 0 4:59,Ryan Yorkdale,45348,George Mason,Jesse Dellavecchia,39574,Rider
+2019,01/17,Iowa State - Rider Dual,165,W,FALL,4:38,Logan Schumacher,56307,Iowa State,Jesse Dellavecchia,39574,Rider
+2019,01/12,Edinboro - Rider Dual,165,W,DEC,6 - 4,Fritz Hoehn,39762,Edinboro,Jesse Dellavecchia,39574,Rider
+2019,01/11,Drexel - Rider Dual,165,W,DEC,9 - 4,Ebed Jarrell,40311,Drexel,Jesse Dellavecchia,39574,Rider
+2019,01/11,Cleveland State - Rider Dual,165,W,FALL,3:40,John Vaughn,40905,Cleveland State,Jesse Dellavecchia,39574,Rider
+2019,01/01,Southern Scuffle,165,W,TF5,15 - 0 6:02,Allen Swanson,57730,Campbell,Jesse Dellavecchia,39574,Rider
+2019,01/01,Southern Scuffle,165,W,SV-1,7 - 3,Michael Elliott,40404,Appalachian State,Jesse Dellavecchia,39574,Rider
+2019,01/01,Southern Scuffle,165,L,MD,15 - 5,Vincenzo Joseph,39542,Penn State,Jesse Dellavecchia,39574,Rider
+2019,01/01,Southern Scuffle,165,W,FALL,2:45,Zach Finesilver,19862,Duke,Jesse Dellavecchia,39574,Rider
+2019,01/01,Southern Scuffle,165,L,DEC,7 - 2,Shane Griffith,49991,Stanford,Jesse Dellavecchia,39574,Rider
+2019,01/01,Southern Scuffle,165,W,DEC,4 - 1,Tyler Marinelli,20797,Gardner-Webb,Jesse Dellavecchia,39574,Rider
+2019,12/20,Rider - Princeton Dual,165,W,DEC,6 - 2,Dale Tiongson,49295,Princeton,Jesse Dellavecchia,39574,Rider
+2019,12/16,Rider - Rutgers Dual,165,W,DEC,5 - 4,Stephan Glasgow,49306,Rutgers,Jesse Dellavecchia,39574,Rider
+2019,11/29,Pennsylvania - Rider Dual,165,W,MD,10 - 2,Evan DeLuise,52039,Pennsylvania,Jesse Dellavecchia,39574,Rider
+2019,11/18,Keystone Classic,165,W,TF5,17 - 2 7:00,Neil Antrassian,56202,Pennsylvania,Jesse Dellavecchia,39574,Rider
+2019,11/18,Keystone Classic,165,L,MFOR,0 - 0,Evan DeLuise,52039,Pennsylvania,Jesse Dellavecchia,39574,Rider
+2019,11/18,Keystone Classic,165,L,DEC,5 - 2,Ebed Jarrell,40311,Drexel,Jesse Dellavecchia,39574,Rider
+2019,11/18,Keystone Classic,165,W,TF5,15 - 0 6:53,Michael Elliott,40404,Appalachian State,Jesse Dellavecchia,39574,Rider
+2019,11/18,Keystone Classic,165,L,MFOR,0 - 0,Michael Elliott,40404,Appalachian State,Jesse Dellavecchia,39574,Rider
+2019,11/10,East Stroudsburg Open,165,W,FALL,4:39,Reed Custer,54329,Kutztown,Jesse Dellavecchia,39574,Rider
+2019,11/10,East Stroudsburg Open,165,W,TF5,19 - 2 5:49,Mason Smith,50584,United States Military Academy,Jesse Dellavecchia,39574,Rider
+2019,11/10,East Stroudsburg Open,165,W,FALL,1:55,Jack Bond,56516,Old Dominion,Jesse Dellavecchia,39574,Rider
+2019,11/10,East Stroudsburg Open,165,W,MD,8 - 0,Juwan Robinson,50939,Old Dominion,Jesse Dellavecchia,39574,Rider
+2019,03/02,National Collegiate Open,157,L,DEC,6 - 2,Tyler Eischens,51205,Stanford,Quentin Milliken,51594,Rider
+2019,03/02,National Collegiate Open,157,L,DEC,4 - 0,Jaron Pagaduan,52964,Cal Baptist,Quentin Milliken,51594,Rider
+2019,02/02,Edinboro Open,165,L,DEC,8 - 2,Dillon Taylor,49202,Navy,Quentin Milliken,51594,Rider
+2019,02/02,Edinboro Open,165,L,MD,15 - 3,Sage Castillo,45270,Central Michigan,Quentin Milliken,51594,Rider
+2019,01/01,Southern Scuffle,165,L,FALL,6:43,Dazjon Casto,57183,The Citadel,Quentin Milliken,51594,Rider
+2019,01/01,Southern Scuffle,165,L,DEC,6 - 1,Aidan Monteverdi,49048,Binghamton,Quentin Milliken,51594,Rider
+2019,12/09,Patriots Open,165,W,DEC,6 - 2,Tucker Nadeau,56465,West Virginia,Quentin Milliken,51594,Rider
+2019,12/09,Patriots Open,165,L,DEC,6 - 4,Hunter Kernan,57929,Pittsburgh,Quentin Milliken,51594,Rider
+2019,12/09,Patriots Open,165,L,DEC,5 - 0,Caleb Clymer,56372,Lock Haven,Quentin Milliken,51594,Rider
+2019,12/09,Patriots Open,165,W,DEC,5 - 3,Corey Langner,56917,Hofstra,Quentin Milliken,51594,Rider
+2019,12/09,Patriots Open,165,W,FALL,4:07,Bryce Dempsey,51011,American,Quentin Milliken,51594,Rider
+2019,11/10,East Stroudsburg Open,165,L,MD,10 - 0,Caleb Clymer,56372,Lock Haven,Quentin Milliken,51594,Rider
+2019,11/10,East Stroudsburg Open,165,L,DEC,2 - 1,Timothy Fitzpatrick,57254,American,Quentin Milliken,51594,Rider
+2019,11/04,Princeton Open,157,L,FALL,2:42,Ethan Woods,49329,Stanford,Quentin Milliken,51594,Rider
+2019,11/04,Princeton Open,157,L,DEC,9 - 4,Brian Meyer,50941,Lehigh,Quentin Milliken,51594,Rider
+2019,03/21,NCAA Championships,174,W,FALL,6:49,Jacob Covaciu,44805,Indiana,Dean Sherry,40019,Rider
+2019,03/21,NCAA Championships,174,L,DEC,8 - 6,Ethan Smith,50025,Ohio State,Dean Sherry,40019,Rider
+2019,03/21,NCAA Championships,174,L,MD,11 - 2,Zahid Valencia,39501,Arizona State,Dean Sherry,40019,Rider
+2019,03/09,EWL Championships,174,W,FALL,4:18,Jacob Oliver,49130,Edinboro,Dean Sherry,40019,Rider
+2019,03/09,EWL Championships,174,W,FALL,2:51,Colton Carroll,45335,Cleveland State,Dean Sherry,40019,Rider
+2019,03/09,EWL Championships,174,W,DEC,9 - 3,Taylor Cahill,39848,Clarion,Dean Sherry,40019,Rider
+2019,02/24,Maryland - Rider Dual,174,L,MD,11 - 2,Josh Ugalde,39515,Maryland,Dean Sherry,40019,Rider
+2019,02/10,Rider - Bloomsburg Dual,174,W,FALL,2:29,Gavin Hale,56791,Bloomsburg,Dean Sherry,40019,Rider
+2019,02/08,Rider - Lock Haven Dual,174,W,DEC,18 - 16,Jared Siegrist,45101,Lock Haven,Dean Sherry,40019,Rider
+2019,02/02,Clarion - Rider Dual,174,L,DEC,6 - 2,Max Wohlabaugh,49096,Clarion,Dean Sherry,40019,Rider
+2019,01/01,Southern Scuffle,174,W,TF5,16 - 1 7:00,Barrett Blakely,54239,Appalachian State,Dean Sherry,40019,Rider
+2019,01/01,Southern Scuffle,174,L,DEC,10 - 8,Jacob Oliver,49130,Edinboro,Dean Sherry,40019,Rider
+2019,01/01,Southern Scuffle,174,L,MFOR,0 - 0,Austin Bell,44596,Lock Haven,Dean Sherry,40019,Rider
+2019,12/20,Rider - Princeton Dual,174,W,DEC,7 - 5,Travis Stefanik,49301,Princeton,Dean Sherry,40019,Rider
+2019,12/16,Rider - Rutgers Dual,174,L,DEC,7 - 6,Willie Scott,39861,Rutgers,Dean Sherry,40019,Rider
+2019,11/29,Pennsylvania - Rider Dual,174,L,DEC,14 - 9,Jake Hendricks,50657,Pennsylvania,Dean Sherry,40019,Rider
+2019,11/18,Keystone Classic,174,L,SV-1,6 - 4,George Walton,49265,Rider,Dean Sherry,40019,Rider
+2019,11/18,Keystone Classic,174,W,DEC,6 - 3,Anthony Falbo,51716,Sacred Heart,Dean Sherry,40019,Rider
+2019,11/18,Keystone Classic,174,W,MD,18 - 9,Brian Krasowski,44804,Pennsylvania,Dean Sherry,40019,Rider
+2019,11/18,Keystone Classic,174,L,DEC,5 - 4,Matt Finesilver,47770,Duke,Dean Sherry,40019,Rider
+2019,11/18,Keystone Classic,174,L,DEC,7 - 5,Bryan McLaughlin,49120,Drexel,Dean Sherry,40019,Rider
+2019,11/10,East Stroudsburg Open,174,W,TF5,16 - 0 2:22,Tony Prosperi,58759,Rowan College of South Jersey,Dean Sherry,40019,Rider
+2019,11/10,East Stroudsburg Open,174,L,MFOR,0 - 0,Michael Raccioppi,43155,East Stroudsburg,Dean Sherry,40019,Rider
+2019,11/10,East Stroudsburg Open,174,W,MD,11 - 3,Christos Avgeros,56787,Old Dominion,Dean Sherry,40019,Rider
+2019,11/10,East Stroudsburg Open,174,W,DEC,9 - 5,Michael O'Malley,50836,Drexel,Dean Sherry,40019,Rider
+2019,11/10,East Stroudsburg Open,174,W,MD,11 - 2,Conner Allshouse,44877,American,Dean Sherry,40019,Rider
+2019,01/31,George Mason - Rider Dual,174,W,DEC,7 - 2,Cornelius Schuster,55781,George Mason,George Walton,49265,Rider
+2019,01/26,Rider - Hofstra Dual,174,L,DEC,13 - 9,Ricky Stamm,44699,Hofstra,George Walton,49265,Rider
+2019,01/17,Iowa State - Rider Dual,174,L,MD,16 - 8,Marcus Coleman,49154,Iowa State,George Walton,49265,Rider
+2019,01/12,Edinboro - Rider Dual,174,L,TF5,19 - 4 3:26,Jacob Oliver,49130,Edinboro,George Walton,49265,Rider
+2019,01/11,Drexel - Rider Dual,174,L,TB-1,9 - 6,Bryan McLaughlin,49120,Drexel,George Walton,49265,Rider
+2019,01/11,Cleveland State - Rider Dual,174,W,FALL,1:04,Colton Carroll,45335,Cleveland State,George Walton,49265,Rider
+2019,01/01,Southern Scuffle,174,L,DEC,3 - 2,Michael O'Malley,50836,Drexel,George Walton,49265,Rider
+2019,01/01,Southern Scuffle,174,L,DEC,8 - 5,Jared Siegrist,45101,Lock Haven,George Walton,49265,Rider
+2019,01/01,Southern Scuffle,174,W,DEC,12 - 6,Bryan Battisto,19830,CSU Bakersfield,George Walton,49265,Rider
+2019,01/01,Southern Scuffle,174,W,MFOR,0 - 0,Nathaniel Kale,45577,Gardner-Webb,George Walton,49265,Rider
+2019,11/18,Keystone Classic,174,W,MFOR,0 - 0,Anthony Falbo,51716,Sacred Heart,George Walton,49265,Rider
+2019,11/18,Keystone Classic,174,W,SV-1,6 - 4,Dean Sherry,40019,Rider,George Walton,49265,Rider
+2019,11/18,Keystone Classic,174,L,FALL,2:51,Neal Richards,39991,VMI,George Walton,49265,Rider
+2019,11/18,Keystone Classic,174,L,FALL,3:35,Mark Hall,44839,Penn State,George Walton,49265,Rider
+2019,11/18,Keystone Classic,174,W,DEC,10 - 5,Leonardo Tarantino,51222,Harvard,George Walton,49265,Rider
+2019,11/10,East Stroudsburg Open,174,L,DEC,9 - 4,Michael Raccioppi,43155,East Stroudsburg,George Walton,49265,Rider
+2019,11/10,East Stroudsburg Open,174,W,DEC,7 - 6,Jordan Juliano,23278,Centenary,George Walton,49265,Rider
+2019,11/10,East Stroudsburg Open,174,W,SV-1,7 - 5,Jared Siegrist,45101,Lock Haven,George Walton,49265,Rider
+2019,11/10,East Stroudsburg Open,174,W,MFOR,0 - 0,Michael O'Malley,50836,Drexel,George Walton,49265,Rider
+2019,11/10,East Stroudsburg Open,174,W,MD,14 - 3,Cole Painter,57256,American,George Walton,49265,Rider
+2019,11/04,Princeton Open,174,W,FALL,1:51,Anthony Oliveri,46765,Rutgers,George Walton,49265,Rider
+2019,11/04,Princeton Open,174,L,SV-1,4 - 2,Willie Scott,39861,Rutgers,George Walton,49265,Rider
+2019,11/04,Princeton Open,174,W,MD,19 - 7,Corey Langner,56917,Hofstra,George Walton,49265,Rider
+2019,11/04,Princeton Open,174,W,SV-1,9 - 7,Jed Smith,45645,Army West Point,George Walton,49265,Rider
+2019,11/04,Princeton Open,174,L,DEC,3 - 2,Travis Stefanik,49301,Princeton,George Walton,49265,Rider
+2019,03/09,EWL Championships,184,L,DEC,5 - 1,Corey Hazel,39756,Lock Haven,Michale Fagg-Daves,20352,Rider
+2019,03/09,EWL Championships,184,W,FALL,3:24,Paul Pierce,56165,George Mason,Michale Fagg-Daves,20352,Rider
+2019,03/09,EWL Championships,184,W,DEC,6 - 3,Trevor Allard,40040,Bloomsburg,Michale Fagg-Daves,20352,Rider
+2019,02/24,Maryland - Rider Dual,184,W,DEC,14 - 7,Kyle Jasenski,51164,Maryland,Michale Fagg-Daves,20352,Rider
+2019,02/17,Last Chance Open,184,L,MFOR,0 - 0,Jared Krattiger,50621,Wisconsin,Michale Fagg-Daves,20352,Rider
+2019,02/17,Last Chance Open,184,W,DEC,9 - 4,TJ Pottinger,57098,North Dakota State,Michale Fagg-Daves,20352,Rider
+2019,02/17,Last Chance Open,184,L,FALL,1:57,Joel Devine,50653,Iowa State,Michale Fagg-Daves,20352,Rider
+2019,02/17,Last Chance Open,184,W,FALL,3:18,Alec McDowell,50262,Iowa State,Michale Fagg-Daves,20352,Rider
+2019,02/10,Rider - Bloomsburg Dual,184,L,DEC,4 - 3,Trevor Allard,40040,Bloomsburg,Michale Fagg-Daves,20352,Rider
+2019,02/08,Rider - Lock Haven Dual,184,L,DEC,8 - 5,Corey Hazel,39756,Lock Haven,Michale Fagg-Daves,20352,Rider
+2019,02/02,Clarion - Rider Dual,184,W,DEC,9 - 4,Tyler Bagoly,49098,Clarion,Michale Fagg-Daves,20352,Rider
+2019,01/31,George Mason - Rider Dual,184,W,MD,14 - 6,Paul Pierce,56165,George Mason,Michale Fagg-Daves,20352,Rider
+2019,01/26,Rider - Hofstra Dual,184,W,DEC,7 - 6,Trey Rogers,51099,Hofstra,Michale Fagg-Daves,20352,Rider
+2019,01/17,Iowa State - Rider Dual,184,L,MD,12 - 3,Samuel Colbray,44873,Iowa State,Michale Fagg-Daves,20352,Rider
+2019,01/12,Edinboro - Rider Dual,184,W,TB-2,7 - 6,Zach Ancewicz,49132,Edinboro,Michale Fagg-Daves,20352,Rider
+2019,01/11,Drexel - Rider Dual,184,W,DEC,4 - 2,Anthony Walters,50831,Drexel,Michale Fagg-Daves,20352,Rider
+2019,01/01,Southern Scuffle,184,L,FALL,4:33,Samuel Colbray,44873,Iowa State,Michale Fagg-Daves,20352,Rider
+2019,01/01,Southern Scuffle,184,W,DEC,10 - 6,Colbey Harlan,51159,Stanford,Michale Fagg-Daves,20352,Rider
+2019,01/01,Southern Scuffle,184,L,MFOR,0 - 0,Dalton Robertson,44695,Northern Colorado,Michale Fagg-Daves,20352,Rider
+2019,12/20,Rider - Princeton Dual,184,L,FALL,3:58,Kevin Parker,44710,Princeton,Michale Fagg-Daves,20352,Rider
+2019,12/16,Rider - Rutgers Dual,184,L,DEC,3 - 2,Nicholas Gravina,20360,Rutgers,Michale Fagg-Daves,20352,Rider
+2019,11/29,Pennsylvania - Rider Dual,184,W,MD,17 - 6,Ryan Farber,49283,Pennsylvania,Michale Fagg-Daves,20352,Rider
+2019,11/18,Keystone Classic,184,W,MD,15 - 5,Jacob Harrison,51831,Sacred Heart,Michale Fagg-Daves,20352,Rider
+2019,11/18,Keystone Classic,184,W,SV-1,4 - 2,Francisco Bisono,40230,Penn State,Michale Fagg-Daves,20352,Rider
+2019,11/18,Keystone Classic,184,W,DEC,5 - 3,Francisco Bisono,40230,Penn State,Michale Fagg-Daves,20352,Rider
+2019,11/18,Keystone Classic,184,L,DEC,4 - 2,Cliffton Wang,50873,Harvard,Michale Fagg-Daves,20352,Rider
+2019,11/18,Keystone Classic,184,L,FALL,2:15,Kaden Russell,49124,Duke,Michale Fagg-Daves,20352,Rider
+2019,11/18,Keystone Classic,184,W,MD,13 - 3,Owen Brooks,45256,Drexel,Michale Fagg-Daves,20352,Rider
+2019,11/04,Princeton Open,184,W,DEC,7 - 6,Max Lyon,49303,Purdue,Michale Fagg-Daves,20352,Rider
+2019,11/04,Princeton Open,184,W,MFOR,0 - 0,Jaron Smith,41353,Maryland,Michale Fagg-Daves,20352,Rider
+2019,11/04,Princeton Open,184,W,DEC,4 - 2,Noah Stewart,44599,Army West Point,Michale Fagg-Daves,20352,Rider
+2019,11/04,Princeton Open,184,L,DEC,9 - 2,Kevin Parker,44710,Princeton,Michale Fagg-Daves,20352,Rider
+2019,02/02,Edinboro Open,184,L,MFOR,0 - 0,Shane Finney,57371,Navy,Bryan Martin,56433,Rider
+2019,02/02,Edinboro Open,184,L,MFOR,0 - 0,Tim Wallace,50532,Kent State,Bryan Martin,56433,Rider
+2019,01/01,Southern Scuffle,184,L,MD,10 - 1,Louie DePrez,49046,Binghamton,Bryan Martin,56433,Rider
+2019,01/01,Southern Scuffle,184,L,DEC,8 - 5,Dominic Lampe,39819,Chattanooga,Bryan Martin,56433,Rider
+2019,01/01,Southern Scuffle,184,W,MFOR,0 - 0,Jake Mario,39939,North Carolina,Bryan Martin,56433,Rider
+2019,12/09,Patriots Open,184,W,FALL,2:04,D'Angelo DeWitt,57933,Virginia Tech,Bryan Martin,56433,Rider
+2019,12/09,Patriots Open,184,W,DEC,8 - 7,Victor Marcelli,50587,Virginia,Bryan Martin,56433,Rider
+2019,12/09,Patriots Open,184,L,DEC,8 - 7,Victor Marcelli,50587,Virginia,Bryan Martin,56433,Rider
+2019,12/09,Patriots Open,184,W,FALL,4:03,Cameron Caldarelli,44952,Buffalo,Bryan Martin,56433,Rider
+2019,12/09,Patriots Open,184,L,FALL,1:28,AJ Pedro,49056,Brown,Bryan Martin,56433,Rider
+2019,11/10,East Stroudsburg Open,184,W,FALL,2:02,Jalen Edwards,58754,Montgomery CCC,Bryan Martin,56433,Rider
+2019,11/10,East Stroudsburg Open,184,W,MD,14 - 3,Dean Drugac,44766,Old Dominion,Bryan Martin,56433,Rider
+2019,11/10,East Stroudsburg Open,184,L,DEC,8 - 5,Kyle Jasenski,51164,Maryland,Bryan Martin,56433,Rider
+2019,11/10,East Stroudsburg Open,184,W,MD,10 - 2,Niko Cappello,44773,Maryland,Bryan Martin,56433,Rider
+2019,11/10,East Stroudsburg Open,184,L,DEC,8 - 2,Jacob Ferreira,56807,Bucknell,Bryan Martin,56433,Rider
+2019,11/04,Princeton Open,184,L,TF5,21 - 3 7:00,Billy Janzer,49473,Rutgers,Bryan Martin,56433,Rider
+2019,11/04,Princeton Open,184,L,DEC,9 - 5,Chase Piperato,39569,Princeton,Bryan Martin,56433,Rider
+2019,02/02,Edinboro Open,184,L,TF5,16 - 0 7:00,Luigi Yates,51288,Gannon,Paul O'Neill,50640,Rider
+2019,02/02,Edinboro Open,184,L,DEC,3 - 1,Cameron Caldarelli,44952,Buffalo,Paul O'Neill,50640,Rider
+2019,11/10,East Stroudsburg Open,184,W,MD,12 - 1,Ronnie Simmons,57684,East Stroudsburg,Paul O'Neill,50640,Rider
+2019,11/10,East Stroudsburg Open,184,L,FALL,4:08,Jacob Ferreira,56807,Bucknell,Paul O'Neill,50640,Rider
+2019,11/10,East Stroudsburg Open,184,L,MD,12 - 1,Blake Barrick,51186,American,Paul O'Neill,50640,Rider
+2019,11/04,Princeton Open,184,L,TF5,17 - 1 7:00,Michael Oxley,19929,Hofstra,Paul O'Neill,50640,Rider
+2019,11/04,Princeton Open,184,L,DEC,10 - 4,Kendall Elfstrum,49299,Princeton,Paul O'Neill,50640,Rider
+2019,03/21,NCAA Championships,197,W,DEC,4 - 0,Jake Woodley,49257,Oklahoma,Ethan Laird,50134,Rider
+2019,03/21,NCAA Championships,197,L,DEC,10 - 5,Benjamin Honis,43656,Cornell,Ethan Laird,50134,Rider
+2019,03/21,NCAA Championships,197,W,DEC,7 - 1,Stephen Loiseau,19851,Drexel,Ethan Laird,50134,Rider
+2019,03/21,NCAA Championships,197,L,FALL,2:35,Bo Nickal,20302,Penn State,Ethan Laird,50134,Rider
+2019,03/21,NCAA Championships,197,W,SV-1,4 - 2,Rodney Jones,40212,Chattanooga,Ethan Laird,50134,Rider
+2019,03/09,EWL Championships,197,W,DEC,6 - 2,Eli Spencer,45318,George Mason,Ethan Laird,50134,Rider
+2019,03/09,EWL Championships,197,W,DEC,4 - 0,Kyle Murphy,44915,Bloomsburg,Ethan Laird,50134,Rider
+2019,02/24,Maryland - Rider Dual,197,W,DEC,5 - 1,Niko Cappello,44773,Maryland,Ethan Laird,50134,Rider
+2019,02/10,Rider - Bloomsburg Dual,197,W,TB-1,3 - 1,Kyle Murphy,44915,Bloomsburg,Ethan Laird,50134,Rider
+2019,02/08,Rider - Lock Haven Dual,197,W,DEC,7 - 2,Parker McClellan,56598,Lock Haven,Ethan Laird,50134,Rider
+2019,02/02,Clarion - Rider Dual,197,L,DEC,8 - 5,Greg Bulsak,44655,Clarion,Ethan Laird,50134,Rider
+2019,01/31,George Mason - Rider Dual,197,W,DEC,3 - 1,Eli Spencer,45318,George Mason,Ethan Laird,50134,Rider
+2019,01/26,Rider - Hofstra Dual,197,W,SV-1,3 - 1,Nezar Haddad,19850,Hofstra,Ethan Laird,50134,Rider
+2019,01/17,Iowa State - Rider Dual,197,L,DEC,11 - 4,Willie Miklus,14058,Iowa State,Ethan Laird,50134,Rider
+2019,01/12,Edinboro - Rider Dual,197,L,DEC,3 - 2,Dylan Reynolds,45374,Edinboro,Ethan Laird,50134,Rider
+2019,01/11,Drexel - Rider Dual,197,W,DEC,8 - 7,Owen Brooks,45256,Drexel,Ethan Laird,50134,Rider
+2019,01/11,Cleveland State - Rider Dual,197,W,DEC,6 - 4,Ben Smith,56236,Cleveland State,Ethan Laird,50134,Rider
+2019,01/01,Southern Scuffle,197,W,MD,10 - 1,Aaron Naples,51351,Ohio,Ethan Laird,50134,Rider
+2019,01/01,Southern Scuffle,197,W,FALL,1:15,Kaden Sauer,50987,Iowa State,Ethan Laird,50134,Rider
+2019,01/01,Southern Scuffle,197,L,MD,10 - 2,Joshua Roetman,45378,Navy,Ethan Laird,50134,Rider
+2019,01/01,Southern Scuffle,197,W,MD,13 - 5,Rodney Jones,40212,Chattanooga,Ethan Laird,50134,Rider
+2019,01/01,Southern Scuffle,197,L,TF5,15 - 0 5:53,Nathan Traxler,45395,Stanford,Ethan Laird,50134,Rider
+2019,12/20,Rider - Princeton Dual,197,L,DEC,12 - 5,Patrick Brucki,49296,Princeton,Ethan Laird,50134,Rider
+2019,12/16,Rider - Rutgers Dual,197,L,DEC,6 - 3,Matt Correnti,44705,Rutgers,Ethan Laird,50134,Rider
+2019,11/29,Pennsylvania - Rider Dual,197,W,DEC,6 - 1,Patrik Garren,20313,Pennsylvania,Ethan Laird,50134,Rider
+2019,11/18,Keystone Classic,197,W,TF5,16 - 1 2:53,Gregory Bensley,56214,Pennsylvania,Ethan Laird,50134,Rider
+2019,11/18,Keystone Classic,197,W,TF5,16 - 0 5:00,Patrik Garren,20313,Pennsylvania,Ethan Laird,50134,Rider
+2019,11/18,Keystone Classic,197,L,FALL,1:35,Bo Nickal,20302,Penn State,Ethan Laird,50134,Rider
+2019,11/18,Keystone Classic,197,W,MD,10 - 1,Demazio Samuel,45414,Appalachian State,Ethan Laird,50134,Rider
+2019,11/18,Keystone Classic,197,L,DEC,5 - 2,Randall Diabe,40409,Appalachian State,Ethan Laird,50134,Rider
+2019,11/04,Princeton Open,197,L,TF5,16 - 0 7:00,Nathan Traxler,45395,Stanford,Ethan Laird,50134,Rider
+2019,11/04,Princeton Open,197,W,DEC,7 - 5,Chris Weiler,45108,Lehigh,Ethan Laird,50134,Rider
+2019,11/04,Princeton Open,197,L,SV-1,3 - 1,Alex Hopkins,45122,Army West Point,Ethan Laird,50134,Rider
+2019,11/04,Princeton Open,197,W,FALL,6:22,Jack Buell,44737,Army West Point,Ethan Laird,50134,Rider
+2019,11/04,Princeton Open,197,W,MD,12 - 2,Sam Wustefeld,57272,Columbia,Ethan Laird,50134,Rider
+2019,03/09,EWL Championships,285,L,MD,14 - 1,Matthew Voss,19908,George Mason,Ryan Cloud,39972,Rider
+2019,03/09,EWL Championships,285,L,DEC,7 - 2,Jon Spaulding,50330,Edinboro,Ryan Cloud,39972,Rider
+2019,03/09,EWL Championships,285,W,DEC,8 - 3,Edgar Ruano,19798,Clarion,Ryan Cloud,39972,Rider
+2019,03/09,EWL Championships,285,W,MD,13 - 1,Jarrett Walters,50871,Bloomsburg,Ryan Cloud,39972,Rider
+2019,02/10,Rider - Bloomsburg Dual,285,L,FALL,6:20,Bruce Graeber,45188,Bloomsburg,Ryan Cloud,39972,Rider
+2019,02/08,Rider - Lock Haven Dual,285,L,DEC,4 - 0,Thomas Haines,20247,Lock Haven,Ryan Cloud,39972,Rider
+2019,02/02,Clarion - Rider Dual,285,W,DEC,7 - 2,Toby Cahill,49097,Clarion,Ryan Cloud,39972,Rider
+2019,01/31,George Mason - Rider Dual,285,L,DEC,5 - 0,Matthew Voss,19908,George Mason,Ryan Cloud,39972,Rider
+2019,01/26,Rider - Hofstra Dual,285,W,DEC,5 - 3,Omar Haddad,40070,Hofstra,Ryan Cloud,39972,Rider
+2019,01/17,Iowa State - Rider Dual,285,W,FALL,5:26,Gannon Gremmel,44856,Iowa State,Ryan Cloud,39972,Rider
+2019,01/12,Edinboro - Rider Dual,285,L,DEC,4 - 1,Jon Spaulding,50330,Edinboro,Ryan Cloud,39972,Rider
+2019,01/11,Drexel - Rider Dual,285,L,FALL,3:38,Joey Goodhart,19849,Drexel,Ryan Cloud,39972,Rider
+2019,01/11,Cleveland State - Rider Dual,285,W,DEC,5 - 1,Collin Kelly,45338,Cleveland State,Ryan Cloud,39972,Rider
+2019,01/01,Southern Scuffle,285,L,MD,16 - 4,Anthony Cassar,20299,Penn State,Ryan Cloud,39972,Rider
+2019,01/01,Southern Scuffle,285,L,MD,12 - 3,Daniel Herman,51035,Columbia,Ryan Cloud,39972,Rider
+2019,01/01,Southern Scuffle,285,W,FALL,2:50,Gabriel Pickett,57164,Gardner-Webb,Ryan Cloud,39972,Rider
+2019,12/20,Rider - Princeton Dual,285,W,FALL,1:46,Obinna Ajah,46018,Princeton,Ryan Cloud,39972,Rider
+2019,12/16,Rider - Rutgers Dual,285,L,DEC,2 - 0,Christian Colucci,39851,Rutgers,Ryan Cloud,39972,Rider
+2019,11/29,Pennsylvania - Rider Dual,285,W,DEC,5 - 3,Ben Goldin,50827,Pennsylvania,Ryan Cloud,39972,Rider
+2019,02/24,Maryland - Rider Dual,285,L,FALL,3:58,Youssif Hemida,39563,Maryland,James Brady,57279,Rider
+2019,02/02,Edinboro Open,285,W,SV-1,3 - 1,Morgan Smith,61523,Unattached,James Brady,57279,Rider
+2019,02/02,Edinboro Open,285,L,DEC,5 - 2,Cole Rickert,50864,Pittsburgh,James Brady,57279,Rider
+2019,02/02,Edinboro Open,285,L,DEC,7 - 3,Eric Keosseian,49044,Army West Point,James Brady,57279,Rider
+2019,02/02,Edinboro Open,285,W,FALL,2:25,Luke Ready,47512,Michigan,James Brady,57279,Rider
+2019,01/01,Southern Scuffle,285,L,FALL,4:09,Nick Nevills,20301,Penn State,James Brady,57279,Rider
+2019,01/01,Southern Scuffle,285,L,FALL,1:11,Trevor Rasmussen,40001,Stanford,James Brady,57279,Rider
+2019,11/18,Keystone Classic,285,L,DEC,4 - 2,Ben Goldin,50827,Pennsylvania,James Brady,57279,Rider
+2019,11/18,Keystone Classic,285,L,TF5,21 - 6 6:50,Nick Nevills,20301,Penn State,James Brady,57279,Rider
+2019,11/18,Keystone Classic,285,W,DEC,9 - 5,Steven Mercadante,44803,Franklin & Marshall,James Brady,57279,Rider
+2019,11/10,East Stroudsburg Open,285,W,FALL,1:13,John Fountain,58755,Rowan College of South Jersey,James Brady,57279,Rider
+2019,11/10,East Stroudsburg Open,285,W,FALL,0:57,Mathew Angelov,57849,Centenary,James Brady,57279,Rider
+2019,11/10,East Stroudsburg Open,285,L,FALL,6:59,Andrew Dunn,45111,Kutztown,James Brady,57279,Rider
+2019,11/10,East Stroudsburg Open,285,L,MFOR,0 - 0,John Barlow,42159,Kutztown,James Brady,57279,Rider
+2019,11/04,Princeton Open,285,L,DEC,9 - 2,Zachary Knighton-Ward,53791,Hofstra,James Brady,57279,Rider
+2019,11/04,Princeton Open,285,L,FALL,6:54,Bobby Heald,45649,Army West Point,James Brady,57279,Rider
+2019,03/02,National Collegiate Open,197,L,FALL,2:22,Chasen Blair,49217,North Carolina,Austin Scher,57280,Rider
+2019,03/02,National Collegiate Open,197,L,MFOR,0 - 0,Frank Wyshinski,52965,Cal Baptist,Austin Scher,57280,Rider
+2019,02/02,Edinboro Open,197,L,FALL,2:25,Dylan Reynolds,45374,Edinboro,Austin Scher,57280,Rider
+2019,02/02,Edinboro Open,197,L,FALL,2:06,Kevin Snyder,44847,Ohio State,Austin Scher,57280,Rider
+2019,02/02,Edinboro Open,197,L,FALL,7:00,Kevin Snyder,44847,Ohio State,Austin Scher,57280,Rider
+2019,12/09,Patriots Open,285,L,MD,9 - 0,Cole Rickert,50864,Pittsburgh,Austin Scher,57280,Rider
+2019,12/09,Patriots Open,285,L,DEC,2 - 1,Parker Robinson,56203,Maryland,Austin Scher,57280,Rider
+2019,12/09,Patriots Open,285,W,MFOR,0 - 0,Zachary Knighton-Ward,53791,Hofstra,Austin Scher,57280,Rider
+2019,11/10,East Stroudsburg Open,285,L,FALL,0:58,Kyle Lightner,50651,Rutgers,Austin Scher,57280,Rider
+2019,11/10,East Stroudsburg Open,285,L,DEC,3 - 1,Parker Robinson,56203,Maryland,Austin Scher,57280,Rider
+2019,11/04,Princeton Open,285,L,FALL,6:12,Will Hilliard,44796,Old Dominion,Austin Scher,57280,Rider
+2019,11/04,Princeton Open,285,L,DEC,6 - 2,Obinna Ajah,46018,Princeton,Austin Scher,57280,Rider
+2019,02/02,Edinboro Open,285,L,DEC,3 - 2,Jacob Cover,57237,Kent State,Sam Palumbo,46085,Rider
+2019,02/02,Edinboro Open,285,L,MD,9 - 1,Nick Jenkins,49079,Central Michigan,Sam Palumbo,46085,Rider

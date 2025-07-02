@@ -1,0 +1,515 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2025,03/20,NCAA Championships,125,L,DEC,5 - 1,Max Gallagher,78893,Pennsylvania,Marcello Milani,78106,Cornell
+2025,03/20,NCAA Championships,125,W,SV-1,4 - 1,Caleb Weiand,79429,Michigan State,Marcello Milani,78106,Cornell
+2025,03/20,NCAA Championships,125,L,TF5,19 - 4 4:25,Luke Lilledahl,80223,Penn State,Marcello Milani,78106,Cornell
+2025,03/09,Ivy Championships,125,W,DEC,5 - 2,Sulayman Bah,79305,Columbia,Marcello Milani,78106,Cornell
+2025,03/09,Ivy Championships,125,W,DEC,4 - 2,Diego Sotelo,71874,Harvard,Marcello Milani,78106,Cornell
+2025,03/09,Ivy Championships,125,L,SV-1,4 - 1,Sulayman Bah,79305,Columbia,Marcello Milani,78106,Cornell
+2025,02/15,Cornell - Arizona State Dual,125,L,DEC,10 - 7,Richard Figueroa,61129,Arizona State,Marcello Milani,78106,Cornell
+2025,02/09,Pennsylvania - Cornell Dual,125,L,MD,12 - 3,Max Gallagher,78893,Pennsylvania,Marcello Milani,78106,Cornell
+2025,02/08,Princeton - Cornell Dual,125,L,DEC,8 - 1,Ethan Rivera,84435,Princeton,Marcello Milani,78106,Cornell
+2025,02/02,Columbia - Cornell Dual,125,W,DEC,4 - 2,Sulayman Bah,79305,Columbia,Marcello Milani,78106,Cornell
+2025,02/01,Cornell - Binghamton Dual,125,W,MD,10 - 2,Carson Wagner,78720,Binghamton,Marcello Milani,78106,Cornell
+2025,01/25,Cornell - Brown Dual,125,W,MD,14 - 2,Jared Brunner,76391,Brown,Marcello Milani,78106,Cornell
+2025,01/25,Cornell - Harvard Dual,125,L,DEC,6 - 3,Diego Sotelo,71874,Harvard,Marcello Milani,78106,Cornell
+2025,01/12,Lehigh - Cornell Dual,125,L,DEC,3 - 2,Sheldon Seymour,62339,Lehigh,Marcello Milani,78106,Cornell
+2025,01/03,Cornell - Missouri Dual,125,L,FALL,6:14,Gage Walker,84476,Missouri,Marcello Milani,78106,Cornell
+2025,12/22,NC State - Cornell Dual,125,L,SV-1,5 - 2,Louie Gill,79342,NC State,Marcello Milani,78106,Cornell
+2025,12/06,Cliff Keen Invitational,125,W,MFOR,0 - 0,Vincent Robinson,78062,NC State,Marcello Milani,78106,Cornell
+2025,12/06,Cliff Keen Invitational,125,L,MD,8 - 0,Brendan McCrone,76350,Ohio State,Marcello Milani,78106,Cornell
+2025,12/06,Cliff Keen Invitational,125,L,MD,8 - 0,Tanner Jordan,57664,South Dakota State,Marcello Milani,78106,Cornell
+2025,12/06,Cliff Keen Invitational,125,W,SV-1,4 - 1,Jace Schafer,73377,West Virginia,Marcello Milani,78106,Cornell
+2025,12/06,Cliff Keen Invitational,125,L,DEC,9 - 5,Eddie Ventresca,62357,Virginia Tech,Marcello Milani,78106,Cornell
+2025,12/06,Cliff Keen Invitational,125,W,DEC,5 - 4,Dylan Acevedo-Switzer,73023,Hofstra,Marcello Milani,78106,Cornell
+2025,11/24,Big Red Invitational,125,L,SV-1,4 - 1,Greg Diakomihalis,61116,Cornell,Marcello Milani,78106,Cornell
+2025,11/24,Big Red Invitational,125,W,MD,14 - 3,Max Elton,79785,Buffalo,Marcello Milani,78106,Cornell
+2025,11/24,Big Red Invitational,125,W,DEC,4 - 2,Carson Wagner,78720,Binghamton,Marcello Milani,78106,Cornell
+2025,11/24,Big Red Invitational,125,W,MD,17 - 5,Bobby Gardner,78707,Clarion,Marcello Milani,78106,Cornell
+2025,11/24,Big Red Invitational,125,W,DEC,3 - 0,Jared Brunner,76391,Brown,Marcello Milani,78106,Cornell
+2025,11/10,Journeymen Classic,125,W,SV-1,8 - 5,Ayden Smith,92279,Rutgers,Marcello Milani,78106,Cornell
+2025,11/10,Journeymen Classic,125,W,DEC,6 - 5,Louie Gill,79342,NC State,Marcello Milani,78106,Cornell
+2025,11/10,Journeymen Classic,125,W,DEC,6 - 4,Luke Sirianni,84262,Army West Point,Marcello Milani,78106,Cornell
+2025,11/24,Big Red Invitational,125,W,DEC,4 - 3,Max Elton,79785,Buffalo,Greg Diakomihalis,61116,Cornell
+2025,11/24,Big Red Invitational,125,L,CMFF,0 - 0,Carson Wagner,78720,Binghamton,Greg Diakomihalis,61116,Cornell
+2025,11/24,Big Red Invitational,125,W,MD,17 - 3,Bobby Gardner,78707,Clarion,Greg Diakomihalis,61116,Cornell
+2025,11/24,Big Red Invitational,125,W,SV-1,4 - 1,Marcello Milani,78106,Cornell,Greg Diakomihalis,61116,Cornell
+2025,11/24,Big Red Invitational,125,W,TF5,21 - 5 7:00,Jared Brunner,76391,Brown,Greg Diakomihalis,61116,Cornell
+2025,11/23,Buffalo - Cornell Dual,125,W,MD,14 - 2,Max Elton,79785,Buffalo,Greg Diakomihalis,61116,Cornell
+2025,11/10,Journeymen Classic,125,W,DEC,10 - 3,Logan Brzozowski,85072,Harvard,Greg Diakomihalis,61116,Cornell
+2025,11/10,Journeymen Classic,125,W,DEC,8 - 6,Brady Pruett,73565,Pennsylvania,Greg Diakomihalis,61116,Cornell
+2025,11/10,Journeymen Classic,125,W,DEC,9 - 6,Carson Wagner,78720,Binghamton,Greg Diakomihalis,61116,Cornell
+2025,11/10,Journeymen Classic,125,W,FALL,2:55,Caleb Uhorchuk,79300,Army West Point,Greg Diakomihalis,61116,Cornell
+2025,02/22,Bucknell - Cornell Dual,133,L,TF5,18 - 3 7:00,Kurt Phipps,63966,Bucknell,Joseph Sciarrone,78914,Cornell
+2025,12/01,Mat-Town Open I,125,L,CMFF,0 - 0,Lucas Fye,85081,Lock Haven,Joseph Sciarrone,78914,Cornell
+2025,12/01,Mat-Town Open I,125,L,MD,12 - 2,Davis Motyka,81808,PRTC,Joseph Sciarrone,78914,Cornell
+2025,12/01,Mat-Town Open I,125,W,DEC,6 - 2,Nick Treaster,89471,Navy,Joseph Sciarrone,78914,Cornell
+2025,11/24,Big Red Invitational,125,W,FALL,3:50,Michael Baker,93968,Sacred Heart,Joseph Sciarrone,78914,Cornell
+2025,11/24,Big Red Invitational,125,W,FALL,4:54,Aiden Shufelt,93809,Buffalo,Joseph Sciarrone,78914,Cornell
+2025,11/24,Big Red Invitational,125,L,SV-1,6 - 3,Jay McDonnell,84446,Binghamton,Joseph Sciarrone,78914,Cornell
+2025,11/10,Journeymen Classic,125,L,DEC,9 - 4,Caelan Riley,73733,Illinois,Joseph Sciarrone,78914,Cornell
+2025,11/10,Journeymen Classic,125,W,DEC,8 - 5,Noah Tonsor,81065,Army West Point,Joseph Sciarrone,78914,Cornell
+2025,11/10,Journeymen Classic,125,W,MD,12 - 3,Cody Tanner,93674,VMI,Joseph Sciarrone,78914,Cornell
+2025,02/01,Edinboro Open,125,W,MD,8 - 0,Austin Zimmerman,93050,Edinboro,Ernie Perry,84553,Cornell
+2025,02/01,Edinboro Open,125,W,CMFF,0 - 0,Lucas Fye,85081,Lock Haven,Ernie Perry,84553,Cornell
+2025,02/01,Edinboro Open,125,L,DEC,4 - 2,Abram Cline,84637,Maryland,Ernie Perry,84553,Cornell
+2025,02/01,Edinboro Open,125,L,DEC,6 - 0,Nick Corday,70986,Michigan State,Ernie Perry,84553,Cornell
+2025,11/10,Journeymen Classic,125,L,TF5,18 - 1 3:37,Sawyer Ostroff,92990,LIU,Ernie Perry,84553,Cornell
+2025,11/10,Journeymen Classic,125,L,CMFF,0 - 0,Mitchell Neiner,83540,Cal Baptist,Ernie Perry,84553,Cornell
+2025,11/10,Journeymen Classic,125,W,TF5,17 - 2 7:00,Kyle Gibson,93267,VMI,Ernie Perry,84553,Cornell
+2025,03/20,NCAA Championships,133,L,DEC,2 - 1,Nasir Bailey,79029,Little Rock,Tyler Ferrera,78735,Cornell
+2025,03/20,NCAA Championships,133,W,DEC,5 - 3,Blake Boarman,70737,Chattanooga,Tyler Ferrera,78735,Cornell
+2025,03/20,NCAA Championships,133,L,DEC,7 - 3,Zeth Romney,73191,Cal Poly,Tyler Ferrera,78735,Cornell
+2025,03/09,Ivy Championships,133,L,DEC,4 - 2,Ryan Miller,62350,Pennsylvania,Tyler Ferrera,78735,Cornell
+2025,03/09,Ivy Championships,133,W,DEC,5 - 2,Danny Jones,80085,Princeton,Tyler Ferrera,78735,Cornell
+2025,02/15,Cornell - Arizona State Dual,133,L,DEC,5 - 2,Julian Chlebove,56769,Arizona State,Tyler Ferrera,78735,Cornell
+2025,02/09,Pennsylvania - Cornell Dual,133,W,DEC,2 - 1,Ryan Miller,62350,Pennsylvania,Tyler Ferrera,78735,Cornell
+2025,02/08,Princeton - Cornell Dual,133,W,DEC,5 - 1,Danny Jones,80085,Princeton,Tyler Ferrera,78735,Cornell
+2025,01/25,Cornell - Harvard Dual,133,W,MD,8 - 0,Logan Brzozowski,85072,Harvard,Tyler Ferrera,78735,Cornell
+2025,01/19,Cyclone Open,133,L,MFOR,0 - 0,Jake Crapps,84932,Missouri,Tyler Ferrera,78735,Cornell
+2025,01/19,Cyclone Open,133,L,INJ,4:42,Omar Ayoub,84377,Nebraska,Tyler Ferrera,78735,Cornell
+2025,01/19,Cyclone Open,133,W,DEC,10 - 7,Cory Land,73283,Northern Iowa,Tyler Ferrera,78735,Cornell
+2025,01/12,Lehigh - Cornell Dual,133,W,TF5,17 - 2 3:34,Logan Wadle,78658,Lehigh,Tyler Ferrera,78735,Cornell
+2025,01/03,Cornell - Missouri Dual,133,W,DEC,3 - 2,Kade Moore,73859,Missouri,Tyler Ferrera,78735,Cornell
+2025,12/22,NC State - Cornell Dual,133,L,FALL,6:00,Kai Orine,56908,NC State,Tyler Ferrera,78735,Cornell
+2025,11/24,Big Red Invitational,133,W,TF5,17 - 1 7:00,Ike Williams,93457,Clarion,Tyler Ferrera,78735,Cornell
+2025,11/24,Big Red Invitational,133,W,MD,12 - 2,Micah Roes,67299,Binghamton,Tyler Ferrera,78735,Cornell
+2025,11/24,Big Red Invitational,133,W,DEC,4 - 1,Hunter Adrian,65842,Brown,Tyler Ferrera,78735,Cornell
+2025,11/10,Journeymen Classic,133,W,DEC,4 - 1,Alex Almeyda,72982,Pennsylvania,Tyler Ferrera,78735,Cornell
+2025,11/10,Journeymen Classic,133,L,DEC,8 - 2,Lucas Byrd,56714,Illinois,Tyler Ferrera,78735,Cornell
+2025,11/10,Journeymen Classic,133,W,MD,16 - 7,Nain Vasquez,76010,Army West Point,Tyler Ferrera,78735,Cornell
+2025,12/06,Cliff Keen Invitational,133,L,DEC,4 - 0,Cory Land,73283,Northern Iowa,Brett Ungar,68705,Cornell
+2025,12/06,Cliff Keen Invitational,133,W,DEC,8 - 1,Brendan Ferretti,72187,Navy,Brett Ungar,68705,Cornell
+2025,12/06,Cliff Keen Invitational,133,W,DEC,6 - 3,Chase DeBlaere,72993,Oregon State,Brett Ungar,68705,Cornell
+2025,12/06,Cliff Keen Invitational,133,L,SV-1,4 - 1,Chad Bellis,71922,Appalachian State,Brett Ungar,68705,Cornell
+2025,11/23,Buffalo - Cornell Dual,133,W,TF5,15 - 0 3:00,Troy Guerra,78599,Buffalo,Brett Ungar,68705,Cornell
+2025,11/10,Journeymen Classic,133,W,DEC,8 - 6,Chase Liardi,72134,Hofstra,Brett Ungar,68705,Cornell
+2025,11/10,Journeymen Classic,133,L,DEC,2 - 0,Lucas Byrd,56714,Illinois,Brett Ungar,68705,Cornell
+2025,11/10,Journeymen Classic,133,W,MD,14 - 6,Nain Vasquez,76010,Army West Point,Brett Ungar,68705,Cornell
+2025,02/02,Columbia - Cornell Dual,133,W,TF5,19 - 3 5:00,Connor Smith,93075,Columbia,Ethan Qureshi,81106,Cornell
+2025,02/01,Cornell - Binghamton Dual,133,L,DEC,8 - 5,Micah Roes,67299,Binghamton,Ethan Qureshi,81106,Cornell
+2025,01/25,Cornell - Brown Dual,133,L,DEC,4 - 1,Jacob Joyce,77274,Brown,Ethan Qureshi,81106,Cornell
+2025,11/24,Big Red Invitational,133,W,DEC,9 - 5,Jack Kazalas,93763,Binghamton,Ethan Qureshi,81106,Cornell
+2025,11/24,Big Red Invitational,133,W,DEC,6 - 1,Dillon Arrick,92942,Binghamton,Ethan Qureshi,81106,Cornell
+2025,11/24,Big Red Invitational,133,W,FALL,4:04,Scott Johnson,78992,Clarion,Ethan Qureshi,81106,Cornell
+2025,11/24,Big Red Invitational,133,L,DEC,9 - 6,Scott Johnson,78992,Clarion,Ethan Qureshi,81106,Cornell
+2025,11/24,Big Red Invitational,133,W,FALL,4:02,Troy Guerra,78599,Buffalo,Ethan Qureshi,81106,Cornell
+2025,11/10,Journeymen Classic,133,W,MD,13 - 1,Raymond Adams,84586,Duke,Ethan Qureshi,81106,Cornell
+2025,11/10,Journeymen Classic,133,W,DEC,14 - 10,Spencer Barnhart,78836,Pennsylvania,Ethan Qureshi,81106,Cornell
+2025,11/10,Journeymen Classic,133,W,FALL,1:24,Jake Carlucci,73475,Sacred Heart,Ethan Qureshi,81106,Cornell
+2025,11/10,Journeymen Classic,133,W,DEC,11 - 6,Tyson Cook,93417,Pitt-Johnstown,Ethan Qureshi,81106,Cornell
+2025,11/10,Journeymen Classic,133,W,TF5,19 - 4 6:42,Clayton Carr,93364,Lock Haven,Foster Cardinale,77874,Cornell
+2025,11/10,Journeymen Classic,133,L,FALL,1:38,Braxton Appello,79010,Sacred Heart,Foster Cardinale,77874,Cornell
+2025,11/10,Journeymen Classic,133,W,DEC,7 - 1,Carter Dibert,71775,Arizona State,Foster Cardinale,77874,Cornell
+2025,03/20,NCAA Championships,141,L,DEC,13 - 8,Mosha Schwartz,55841,Oklahoma,Joshua Saunders,66947,Cornell
+2025,03/20,NCAA Championships,141,L,FALL,3:32,Joshua Koderhandt,70917,Navy,Joshua Saunders,66947,Cornell
+2025,03/20,NCAA Championships,141,W,DEC,8 - 2,Todd Carter,69785,Gardner-Webb,Joshua Saunders,66947,Cornell
+2025,03/09,Ivy Championships,141,W,DEC,8 - 4,Lorenzo Frezza,84295,Columbia,Joshua Saunders,66947,Cornell
+2025,03/09,Ivy Championships,141,W,DEC,6 - 1,Ian Oswalt,71942,Brown,Joshua Saunders,66947,Cornell
+2025,03/09,Ivy Championships,141,L,SV-1,4 - 1,Eligh Rivera,77389,Princeton,Joshua Saunders,66947,Cornell
+2025,02/23,Patriot Last Chance Open,141,W,FALL,4:35,Luis Bazan,84930,Northwestern,Joshua Saunders,66947,Cornell
+2025,02/23,Patriot Last Chance Open,141,W,DEC,6 - 2,Clayton Gabrielson,79306,Maryland,Joshua Saunders,66947,Cornell
+2025,02/23,Patriot Last Chance Open,141,W,CMFF,0 - 0,Chris Cannon,62895,Northwestern,Joshua Saunders,66947,Cornell
+2025,02/22,Bucknell - Cornell Dual,141,W,MD,11 - 1,Dylan Chappell,71754,Bucknell,Joshua Saunders,66947,Cornell
+2025,02/15,Cornell - Arizona State Dual,141,L,DEC,9 - 2,Emilio Ysaguirre,77145,Arizona State,Joshua Saunders,66947,Cornell
+2025,02/09,Pennsylvania - Cornell Dual,141,L,DEC,6 - 4,CJ Composto,62430,Pennsylvania,Joshua Saunders,66947,Cornell
+2025,02/08,Princeton - Cornell Dual,141,W,DEC,11 - 7,Eligh Rivera,77389,Princeton,Joshua Saunders,66947,Cornell
+2025,02/02,Columbia - Cornell Dual,141,W,MD,15 - 3,Cooper Hornack,93076,Columbia,Joshua Saunders,66947,Cornell
+2025,02/01,Cornell - Binghamton Dual,141,W,MD,13 - 1,Nathan Lucier,71763,Binghamton,Joshua Saunders,66947,Cornell
+2025,01/25,Cornell - Brown Dual,141,W,DEC,16 - 15,Joey Iamunno,85049,Brown,Joshua Saunders,66947,Cornell
+2025,01/25,Cornell - Harvard Dual,141,W,DEC,7 - 4,Dante Frinzi,74056,Harvard,Joshua Saunders,66947,Cornell
+2025,01/12,Lehigh - Cornell Dual,141,L,DEC,1 - 0,Carter Bailey,73039,Lehigh,Joshua Saunders,66947,Cornell
+2025,01/03,Cornell - Missouri Dual,141,W,MD,12 - 4,Josh Edmond,62704,Missouri,Joshua Saunders,66947,Cornell
+2025,12/22,NC State - Cornell Dual,141,W,DEC,4 - 3,Tyler Tracy,84335,NC State,Joshua Saunders,66947,Cornell
+2025,12/06,Cliff Keen Invitational,141,W,DEC,4 - 2,Haiden Drury,64645,Utah Valley,Joshua Saunders,66947,Cornell
+2025,12/06,Cliff Keen Invitational,141,L,DEC,7 - 2,Sam Latona,56742,Virginia Tech,Joshua Saunders,66947,Cornell
+2025,12/06,Cliff Keen Invitational,141,L,DEC,10 - 3,Kai Owen,73196,Columbia,Joshua Saunders,66947,Cornell
+2025,11/24,Big Red Invitational,141,W,TF5,18 - 3 7:00,Gianni Silvestri,93000,Clarion,Joshua Saunders,66947,Cornell
+2025,11/24,Big Red Invitational,141,W,FALL,2:41,Ryan Hartung,84444,Binghamton,Joshua Saunders,66947,Cornell
+2025,11/24,Big Red Invitational,141,W,MD,11 - 0,Austin McBurney,84270,Brown,Joshua Saunders,66947,Cornell
+2025,11/23,Buffalo - Cornell Dual,141,W,MD,11 - 2,Aaron Lanster,84537,Buffalo,Joshua Saunders,66947,Cornell
+2025,11/24,Big Red Invitational,141,L,FALL,2:02,Joey Iamunno,85049,Brown,Carter Tate,78961,Cornell
+2025,11/24,Big Red Invitational,141,W,SV-1,4 - 1,George Arujau,81121,Cornell,Carter Tate,78961,Cornell
+2025,11/24,Big Red Invitational,141,W,MD,9 - 0,Jake Ice,73474,Sacred Heart,Carter Tate,78961,Cornell
+2025,11/24,Big Red Invitational,141,W,TF5,15 - 0 7:00,Clayton Bashor,71840,Clarion,Carter Tate,78961,Cornell
+2025,11/24,Big Red Invitational,141,W,DEC,6 - 4,Andy Lucinski,71745,Buffalo,Carter Tate,78961,Cornell
+2025,11/10,Journeymen Classic,141,L,FALL,3:15,Gavin Linsman,92936,NC State,Carter Tate,78961,Cornell
+2025,11/10,Journeymen Classic,141,W,MD,14 - 3,Colt Schrader,84641,Army West Point,Carter Tate,78961,Cornell
+2025,11/10,Journeymen Classic,141,W,DEC,9 - 3,Phoenix Alyea,84648,VMI,Carter Tate,78961,Cornell
+2025,12/01,Mat-Town Open I,141,W,TF5,16 - 0 4:51,Jacob Torres,79253,Lock Haven,George Arujau,81121,Cornell
+2025,12/01,Mat-Town Open I,141,L,DEC,9 - 5,Ethan Lebin,78809,Bucknell,George Arujau,81121,Cornell
+2025,12/01,Mat-Town Open I,141,W,DEC,9 - 6,Ryan Hartung,84444,Binghamton,George Arujau,81121,Cornell
+2025,11/24,Big Red Invitational,141,L,SV-1,4 - 1,Carter Tate,78961,Cornell,George Arujau,81121,Cornell
+2025,11/24,Big Red Invitational,141,W,MD,10 - 1,Aaron Lanster,84537,Buffalo,George Arujau,81121,Cornell
+2025,11/24,Big Red Invitational,141,W,MD,15 - 4,Jake Ice,73474,Sacred Heart,George Arujau,81121,Cornell
+2025,11/24,Big Red Invitational,141,W,DEC,13 - 6,Clayton Bashor,71840,Clarion,George Arujau,81121,Cornell
+2025,11/24,Big Red Invitational,141,W,MFOR,0 - 0,Andy Lucinski,71745,Buffalo,George Arujau,81121,Cornell
+2025,11/10,Journeymen Classic,141,L,MD,17 - 3,Bryce Kresho,78572,Franklin & Marshall,Myles Griffin,71747,Cornell
+2025,11/10,Journeymen Classic,141,L,DEC,5 - 3,Christian Colman,71684,Duke,Myles Griffin,71747,Cornell
+2025,11/10,Journeymen Classic,141,L,MD,13 - 5,Nathan Lucier,71763,Binghamton,Myles Griffin,71747,Cornell
+2025,03/20,NCAA Championships,149,L,DEC,4 - 1,Cross Wasilewski,75492,Pennsylvania,Ethan Fernandez,72088,Cornell
+2025,03/20,NCAA Championships,149,W,FALL,1:21,Jaden Abas,56738,Stanford,Ethan Fernandez,72088,Cornell
+2025,03/20,NCAA Championships,149,W,DEC,3 - 2,Sam Cartella,77873,Northwestern,Ethan Fernandez,72088,Cornell
+2025,03/20,NCAA Championships,149,L,DEC,4 - 0,Ty Whalen,72988,Princeton,Ethan Fernandez,72088,Cornell
+2025,03/09,Ivy Championships,149,L,DEC,5 - 1,Cross Wasilewski,75492,Pennsylvania,Ethan Fernandez,72088,Cornell
+2025,03/09,Ivy Championships,149,W,DEC,8 - 6,Ty Whalen,72988,Princeton,Ethan Fernandez,72088,Cornell
+2025,02/22,Bucknell - Cornell Dual,149,W,DEC,5 - 1,Braden Bower,71756,Bucknell,Ethan Fernandez,72088,Cornell
+2025,02/15,Cornell - Arizona State Dual,149,W,TF5,20 - 4 6:28,Mykey Ramos,71774,Arizona State,Ethan Fernandez,72088,Cornell
+2025,02/09,Pennsylvania - Cornell Dual,149,L,DEC,5 - 4,Cross Wasilewski,75492,Pennsylvania,Ethan Fernandez,72088,Cornell
+2025,02/08,Princeton - Cornell Dual,149,W,MD,11 - 2,Christopher Martino,72987,Princeton,Ethan Fernandez,72088,Cornell
+2025,02/02,Columbia - Cornell Dual,149,W,DEC,10 - 3,Kai Owen,73196,Columbia,Ethan Fernandez,72088,Cornell
+2025,02/01,Cornell - Binghamton Dual,149,L,DEC,2 - 1,Ivan Garcia,67298,Binghamton,Ethan Fernandez,72088,Cornell
+2025,01/25,Cornell - Brown Dual,149,W,SV-1,4 - 1,Ethan Mojena,79344,Brown,Ethan Fernandez,72088,Cornell
+2025,01/25,Cornell - Harvard Dual,149,W,MD,10 - 2,Jaden Pepe,84310,Harvard,Ethan Fernandez,72088,Cornell
+2025,01/12,Lehigh - Cornell Dual,149,L,DEC,5 - 4,Malyke Hines,56932,Lehigh,Ethan Fernandez,72088,Cornell
+2025,12/22,NC State - Cornell Dual,149,W,DEC,5 - 3,Koy Buesgens,75491,NC State,Ethan Fernandez,72088,Cornell
+2025,12/06,Cliff Keen Invitational,149,L,DEC,14 - 7,Carter Young,71954,Oklahoma State,Ethan Fernandez,72088,Cornell
+2025,12/06,Cliff Keen Invitational,149,L,DEC,8 - 3,Colin Realbuto,56797,Northern Iowa,Ethan Fernandez,72088,Cornell
+2025,12/06,Cliff Keen Invitational,149,W,DEC,11 - 4,Jesse Vasquez,67152,Arizona State,Ethan Fernandez,72088,Cornell
+2025,12/06,Cliff Keen Invitational,149,W,DEC,5 - 2,Jagger French,93039,Cal Poly,Ethan Fernandez,72088,Cornell
+2025,12/06,Cliff Keen Invitational,149,L,DEC,5 - 4,Sammy Alvarez,56763,Rider,Ethan Fernandez,72088,Cornell
+2025,12/06,Cliff Keen Invitational,149,W,TF5,18 - 2 6:06,Vincent Milazzo,69698,Sacred Heart,Ethan Fernandez,72088,Cornell
+2025,11/24,Big Red Invitational,149,W,MD,14 - 1,Sam Ewing,78842,Buffalo,Ethan Fernandez,72088,Cornell
+2025,11/24,Big Red Invitational,149,W,TF5,19 - 4 7:00,Sam McMonagle,71762,Brown,Ethan Fernandez,72088,Cornell
+2025,11/24,Big Red Invitational,149,W,MD,10 - 1,Kyle Schickel,67305,Clarion,Ethan Fernandez,72088,Cornell
+2025,11/23,Buffalo - Cornell Dual,149,W,DEC,12 - 5,Sam Ewing,78842,Buffalo,Ethan Fernandez,72088,Cornell
+2025,11/10,Journeymen Classic,149,W,MD,15 - 6,Tyler Tracy,84335,NC State,Ethan Fernandez,72088,Cornell
+2025,11/10,Journeymen Classic,149,L,SV-1,9 - 6,Koy Buesgens,75491,NC State,Ethan Fernandez,72088,Cornell
+2025,11/10,Journeymen Classic,149,W,DEC,11 - 7,Zach Keal,62496,Army West Point,Ethan Fernandez,72088,Cornell
+2025,01/03,Cornell - Missouri Dual,149,L,DEC,4 - 1,Zeke Seltzer,72572,Missouri,Mark Botello,79254,Cornell
+2025,12/01,Mat-Town Open I,149,L,DEC,6 - 1,Joey Sentipal,84322,Lock Haven,Macario Calavitta,90309,Cornell
+2025,12/01,Mat-Town Open I,149,L,FALL,4:14,Wyatt Fox,82939,Lock Haven,Macario Calavitta,90309,Cornell
+2025,12/01,Mat-Town Open I,149,W,DEC,10 - 8,Venumadhava Mirel,79459,Navy,Macario Calavitta,90309,Cornell
+2025,11/24,Big Red Invitational,149,W,MD,10 - 0,Daniel Delusant,90811,Sacred Heart,Macario Calavitta,90309,Cornell
+2025,11/24,Big Red Invitational,149,W,TF5,19 - 3 7:00,Cael Raines,90804,Buffalo,Macario Calavitta,90309,Cornell
+2025,11/24,Big Red Invitational,149,L,FALL,6:03,Judah Aybar,85062,Clarion,Macario Calavitta,90309,Cornell
+2025,11/24,Big Red Invitational,149,L,DEC,7 - 5,Caleb Sweet,82503,Binghamton,Macario Calavitta,90309,Cornell
+2025,11/24,Big Red Invitational,149,L,MD,12 - 4,Chandler Ho,71799,Clarion,Macario Calavitta,90309,Cornell
+2025,11/10,Journeymen Classic,149,W,FALL,1:19,Jason Daleo,93970,Sacred Heart,Macario Calavitta,90309,Cornell
+2025,11/10,Journeymen Classic,149,L,DEC,8 - 4,Peter Chacon,84784,Duke,Macario Calavitta,90309,Cornell
+2025,11/10,Journeymen Classic,149,L,DEC,4 - 1,Cole Stone,81583,Army West Point,Macario Calavitta,90309,Cornell
+2025,11/10,Journeymen Classic,149,W,FALL,1:01,Carter Weaver,85294,Pitt-Johnstown,Macario Calavitta,90309,Cornell
+2025,03/20,NCAA Championships,157,W,MD,11 - 0,Vince Zerban,73032,Northern Colorado,Meyer Shapiro,78556,Cornell
+2025,03/20,NCAA Championships,157,L,DEC,4 - 2,Tyler Kasak,78731,Penn State,Meyer Shapiro,78556,Cornell
+2025,03/20,NCAA Championships,157,L,DEC,7 - 2,Antrell Taylor,72966,Nebraska,Meyer Shapiro,78556,Cornell
+2025,03/20,NCAA Championships,157,W,DEC,9 - 4,Vince Zerban,73032,Northern Colorado,Meyer Shapiro,78556,Cornell
+2025,03/20,NCAA Championships,157,W,DEC,10 - 4,Johnny Lovett,61935,Central Michigan,Meyer Shapiro,78556,Cornell
+2025,03/20,NCAA Championships,157,W,TF5,20 - 2 4:30,Noah Castillo,67364,Chattanooga,Meyer Shapiro,78556,Cornell
+2025,03/09,Ivy Championships,157,W,TF5,19 - 2 4:53,Jude Swisher,73210,Pennsylvania,Meyer Shapiro,78556,Cornell
+2025,03/09,Ivy Championships,157,W,MD,9 - 0,Jimmy Harrington,74567,Harvard,Meyer Shapiro,78556,Cornell
+2025,02/09,Pennsylvania - Cornell Dual,157,W,DEC,6 - 2,Jude Swisher,73210,Pennsylvania,Meyer Shapiro,78556,Cornell
+2025,02/08,Princeton - Cornell Dual,157,W,TF5,18 - 0 3:00,Jacob Mann,72935,Princeton,Meyer Shapiro,78556,Cornell
+2025,02/02,Columbia - Cornell Dual,157,W,TF5,16 - 0 3:20,Richard Fedalen,72703,Columbia,Meyer Shapiro,78556,Cornell
+2025,02/01,Cornell - Binghamton Dual,157,W,TF5,16 - 1 4:21,Fin Nadeau,73496,Binghamton,Meyer Shapiro,78556,Cornell
+2025,01/25,Cornell - Brown Dual,157,W,DEC,7 - 2,Blake Saito,65874,Brown,Meyer Shapiro,78556,Cornell
+2025,01/25,Cornell - Harvard Dual,157,W,TF5,18 - 3 3:22,Jimmy Harrington,74567,Harvard,Meyer Shapiro,78556,Cornell
+2025,01/12,Lehigh - Cornell Dual,157,W,FALL,1:29,Griffin Gonzalez,84320,Lehigh,Meyer Shapiro,78556,Cornell
+2025,01/03,Cornell - Missouri Dual,157,W,TF5,17 - 2 6:24,James Conway,73529,Missouri,Meyer Shapiro,78556,Cornell
+2025,12/22,NC State - Cornell Dual,157,W,DQ,0 - 0,Ed Scott,64653,NC State,Meyer Shapiro,78556,Cornell
+2025,11/10,Journeymen Classic,157,L,INJ,3:43,Jimmy Harrington,74567,Harvard,Meyer Shapiro,78556,Cornell
+2025,11/10,Journeymen Classic,157,L,MFOR,0 - 0,Jackson Arrington,72497,NC State,Meyer Shapiro,78556,Cornell
+2025,11/10,Journeymen Classic,157,L,MFOR,0 - 0,Jason Kraisser,57287,Illinois,Meyer Shapiro,78556,Cornell
+2025,02/16,Mat Town Open-II,157,W,DEC,7 - 6,Jackson Polo,72985,PRTC,Benny Rogers,74573,Cornell
+2025,02/16,Mat Town Open-II,157,W,DEC,5 - 1,Jackson Polo,72985,PRTC,Benny Rogers,74573,Cornell
+2025,02/16,Mat Town Open-II,157,W,FALL,4:36,Griffin Gonzalez,84320,Lehigh,Benny Rogers,74573,Cornell
+2025,02/16,Mat Town Open-II,157,W,DEC,8 - 2,Chase Burke,84786,Lock Haven,Benny Rogers,74573,Cornell
+2025,02/16,Mat Town Open-II,157,L,TF5,16 - 1 3:20,Brandon Cannon,84352,Ohio State,Benny Rogers,74573,Cornell
+2025,02/01,Edinboro Open,157,W,TF5,17 - 1 5:51,Hudson Ward,93632,Lock Haven,Benny Rogers,74573,Cornell
+2025,02/01,Edinboro Open,157,L,DEC,8 - 2,Landon Desselle,93093,Ohio State,Benny Rogers,74573,Cornell
+2025,02/01,Edinboro Open,157,L,DEC,12 - 7,Caleb Dowling,62359,West Virginia,Benny Rogers,74573,Cornell
+2025,01/19,Cyclone Open,157,L,FALL,4:31,Charlie Millard,81753,Minnesota,Benny Rogers,74573,Cornell
+2025,01/19,Cyclone Open,157,W,DEC,9 - 8,Ryker Fullmer,93481,Utah Valley,Benny Rogers,74573,Cornell
+2025,01/19,Cyclone Open,157,L,DEC,7 - 3,Moses Espinoza-Owens,81796,South Dakota State,Benny Rogers,74573,Cornell
+2025,01/04,Bobby Kauffman Open,157,W,TF5,16 - 1 5:31,Hudson Ward,93632,Lock Haven,Benny Rogers,74573,Cornell
+2025,01/04,Bobby Kauffman Open,157,W,DEC,13 - 8,Jadon Skellenger,85080,Lehigh,Benny Rogers,74573,Cornell
+2025,01/04,Bobby Kauffman Open,157,W,TF5,19 - 2 3:00,Justin Soriano,84835,Drexel,Benny Rogers,74573,Cornell
+2025,01/04,Bobby Kauffman Open,157,W,DEC,11 - 4,Nick Cicciarelli,78896,West Virginia,Benny Rogers,74573,Cornell
+2025,02/15,Cornell - Arizona State Dual,157,W,SV-1,12 - 9,Michael Kilic,72091,Arizona State,Nate Wade,76000,Cornell
+2025,12/06,Cliff Keen Invitational,157,L,DEC,5 - 1,Jared Hill,72164,Wyoming,Nate Wade,76000,Cornell
+2025,12/06,Cliff Keen Invitational,157,W,CMFF,0 - 0,Cobe Siebrecht,60716,South Dakota State,Nate Wade,76000,Cornell
+2025,12/06,Cliff Keen Invitational,157,L,DEC,8 - 7,Ethan Stiles,82465,Oregon State,Nate Wade,76000,Cornell
+2025,12/06,Cliff Keen Invitational,157,W,DEC,11 - 10,Felix Lettini,77386,Sacred Heart,Nate Wade,76000,Cornell
+2025,11/24,Big Red Invitational,157,W,DEC,12 - 9,Marco Albanese,84445,Binghamton,Nate Wade,76000,Cornell
+2025,11/24,Big Red Invitational,157,W,FALL,6:16,Nicholas Romero,79484,Brown,Nate Wade,76000,Cornell
+2025,11/24,Big Red Invitational,157,W,DEC,5 - 0,Brady Unger,79411,Buffalo,Nate Wade,76000,Cornell
+2025,11/24,Big Red Invitational,157,L,FALL,0:40,Kaleb Burgess,72225,Buffalo,Nate Wade,76000,Cornell
+2025,11/23,Buffalo - Cornell Dual,157,W,DEC,7 - 5,Kaleb Burgess,72225,Buffalo,Nate Wade,76000,Cornell
+2025,11/10,Journeymen Classic,149,W,MD,13 - 3,Drew Munch,63142,Lehigh,Nate Wade,76000,Cornell
+2025,11/10,Journeymen Classic,149,W,DEC,8 - 2,Caleb Sweet,82503,Binghamton,Nate Wade,76000,Cornell
+2025,11/10,Journeymen Classic,149,W,MD,18 - 7,Mason Barvitskie,85044,Army West Point,Nate Wade,76000,Cornell
+2025,02/22,Bucknell - Cornell Dual,157,L,FALL,1:09,Riley Bower,71755,Bucknell,Owen Finn,73204,Cornell
+2025,03/20,NCAA Championships,165,L,DEC,16 - 12,Hunter Garvin,73862,Stanford,Julian Ramirez,56706,Cornell
+2025,03/20,NCAA Championships,165,W,FALL,1:53,Aiden Riggins,73562,Iowa State,Julian Ramirez,56706,Cornell
+2025,03/20,NCAA Championships,165,W,DEC,6 - 1,Tyler Lillard,72963,Indiana,Julian Ramirez,56706,Cornell
+2025,03/20,NCAA Championships,165,L,MD,11 - 1,Christopher Minto,84337,Nebraska,Julian Ramirez,56706,Cornell
+2025,03/20,NCAA Championships,165,W,MD,11 - 2,Mac Church,73717,Virginia Tech,Julian Ramirez,56706,Cornell
+2025,03/09,Ivy Championships,165,W,DEC,8 - 6,Cesar Alvan,71732,Columbia,Julian Ramirez,56706,Cornell
+2025,03/09,Ivy Championships,165,W,FALL,0:35,Andrew Troczynski,73134,Pennsylvania,Julian Ramirez,56706,Cornell
+2025,02/22,Bucknell - Cornell Dual,165,W,DEC,10 - 4,Noah Mulvaney,78676,Bucknell,Julian Ramirez,56706,Cornell
+2025,02/15,Cornell - Arizona State Dual,165,W,FALL,0:59,Caleb Camp,93484,Arizona State,Julian Ramirez,56706,Cornell
+2025,02/09,Pennsylvania - Cornell Dual,165,W,TF5,17 - 1 3:55,Andrew Troczynski,73134,Pennsylvania,Julian Ramirez,56706,Cornell
+2025,02/08,Princeton - Cornell Dual,165,W,TF5,15 - 0 2:57,Zander Silva,78817,Princeton,Julian Ramirez,56706,Cornell
+2025,02/02,Columbia - Cornell Dual,165,W,MD,14 - 5,Cesar Alvan,71732,Columbia,Julian Ramirez,56706,Cornell
+2025,02/01,Cornell - Binghamton Dual,165,W,DEC,4 - 0,Carter Baer,72615,Binghamton,Julian Ramirez,56706,Cornell
+2025,01/25,Cornell - Brown Dual,165,W,MD,13 - 2,Keegan Rothrock,67258,Brown,Julian Ramirez,56706,Cornell
+2025,01/25,Cornell - Harvard Dual,165,W,FALL,1:47,Cael Berg,71877,Harvard,Julian Ramirez,56706,Cornell
+2025,01/12,Lehigh - Cornell Dual,165,W,TF5,18 - 1 2:22,Zeke Dubler,79059,Lehigh,Julian Ramirez,56706,Cornell
+2025,01/03,Cornell - Missouri Dual,165,W,DEC,8 - 2,Joel Mylin,73025,Missouri,Julian Ramirez,56706,Cornell
+2025,12/22,NC State - Cornell Dual,165,W,DEC,4 - 1,Derek Fields,71932,NC State,Julian Ramirez,56706,Cornell
+2025,12/08,A Better Way Athletics Patriot Open,165,W,FALL,6:33,Evan Maag,78473,George Mason,Julian Ramirez,56706,Cornell
+2025,12/08,A Better Way Athletics Patriot Open,165,W,MD,15 - 3,Sean Seefeldt,70755,PRTC,Julian Ramirez,56706,Cornell
+2025,12/08,A Better Way Athletics Patriot Open,165,W,TF5,15 - 0 1:15,Oren Bost,73101,Appalachian State,Julian Ramirez,56706,Cornell
+2025,12/08,A Better Way Athletics Patriot Open,165,W,TF5,18 - 1 1:44,John Martin Best,63025,Maryland,Julian Ramirez,56706,Cornell
+2025,12/01,Mat-Town Open I,165,W,TF5,15 - 0 1:09,Brett Barbush,82506,Lock Haven,Julian Ramirez,56706,Cornell
+2025,12/01,Mat-Town Open I,165,W,TF5,17 - 1 3:19,Eric Shindel,73026,Hofstra,Julian Ramirez,56706,Cornell
+2025,12/01,Mat-Town Open I,165,L,DEC,9 - 5,Max Brignola,73041,Lehigh,Julian Ramirez,56706,Cornell
+2025,12/01,Mat-Town Open I,165,W,TF5,17 - 0 4:17,Tyler Reed,84443,Binghamton,Julian Ramirez,56706,Cornell
+2025,12/06,Cliff Keen Invitational,165,L,DEC,4 - 0,Jack Thomsen,63138,Northern Iowa,Evan Canoyer,71815,Cornell
+2025,12/06,Cliff Keen Invitational,165,L,MD,14 - 4,Drake Rhodes,73705,South Dakota State,Evan Canoyer,71815,Cornell
+2025,12/06,Cliff Keen Invitational,165,W,TF5,17 - 2 3:37,Mike McGhee,73485,Sacred Heart,Evan Canoyer,71815,Cornell
+2025,11/24,Big Red Invitational,165,W,DEC,4 - 2,Roberto Padilla,81108,Binghamton,Evan Canoyer,71815,Cornell
+2025,11/24,Big Red Invitational,165,W,MD,11 - 3,Harrison Trahan,71760,Brown,Evan Canoyer,71815,Cornell
+2025,11/24,Big Red Invitational,165,W,TF5,18 - 3 7:00,Kaeden Berger,70740,Clarion,Evan Canoyer,71815,Cornell
+2025,11/24,Big Red Invitational,165,W,DEC,2 - 1,Hunter Shaut,61754,Buffalo,Evan Canoyer,71815,Cornell
+2025,11/23,Buffalo - Cornell Dual,165,W,DEC,9 - 2,Hunter Shaut,61754,Buffalo,Evan Canoyer,71815,Cornell
+2025,11/10,Journeymen Classic,165,L,TF5,19 - 4 6:45,Braeden Scoles,78917,Illinois,Evan Canoyer,71815,Cornell
+2025,11/10,Journeymen Classic,165,W,DEC,4 - 2,Gage McClenahan,62374,Cornell,Evan Canoyer,71815,Cornell
+2025,11/10,Journeymen Classic,165,L,CMFF,0 - 0,Drayden Morton,80401,Cal Baptist,Evan Canoyer,71815,Cornell
+2025,11/10,Journeymen Classic,165,L,DEC,4 - 2,Evan Canoyer,71815,Cornell,Gage McClenahan,62374,Cornell
+2025,11/10,Journeymen Classic,165,L,MD,16 - 4,Braeden Scoles,78917,Illinois,Gage McClenahan,62374,Cornell
+2025,11/10,Journeymen Classic,165,W,MFOR,0 - 0,Brody Oleksak,76002,Cornell,Gage McClenahan,62374,Cornell
+2025,02/01,Edinboro Open,165,L,FALL,2:25,Gunnar Myers,93100,Northwestern,Daniel Bomberger,83493,Cornell
+2025,02/01,Edinboro Open,165,L,MD,11 - 2,TJ Schierl,84793,Ohio State,Daniel Bomberger,83493,Cornell
+2025,12/01,Mat-Town Open I,157,L,MD,12 - 3,Kelly Kakos,82505,Lock Haven,Daniel Bomberger,83493,Cornell
+2025,12/01,Mat-Town Open I,157,W,FALL,4:22,James Hogan,78744,Lock Haven,Daniel Bomberger,83493,Cornell
+2025,12/01,Mat-Town Open I,157,L,SV-1,3 - 0,Cooper Rathburn,93102,Navy,Daniel Bomberger,83493,Cornell
+2025,11/24,Big Red Invitational,165,L,TF5,16 - 0 7:00,Ben Shvartsman,78498,Cornell,Daniel Bomberger,83493,Cornell
+2025,11/24,Big Red Invitational,165,W,TF5,17 - 1 7:00,Nicholas Mackland-Rivera,93974,Sacred Heart,Daniel Bomberger,83493,Cornell
+2025,11/24,Big Red Invitational,165,L,DEC,10 - 4,Timur Beksultan,93486,Binghamton,Daniel Bomberger,83493,Cornell
+2025,11/24,Big Red Invitational,165,W,FALL,2:35,Anthony Jacobsen,84809,Sacred Heart,Daniel Bomberger,83493,Cornell
+2025,11/24,Big Red Invitational,165,L,TF5,17 - 1 7:00,Brady Worthing,66983,Clarion,Daniel Bomberger,83493,Cornell
+2025,11/10,Journeymen Classic,165,W,DEC,11 - 4,Anthony Mann,93975,Sacred Heart,Daniel Bomberger,83493,Cornell
+2025,11/10,Journeymen Classic,165,L,TF5,20 - 4 5:54,James Johnston,73408,LIU,Daniel Bomberger,83493,Cornell
+2025,11/10,Journeymen Classic,165,L,DEC,9 - 3,Gavyn Beck,85295,Pitt-Johnstown,Daniel Bomberger,83493,Cornell
+2025,11/24,Big Red Invitational,165,W,TF5,18 - 2 7:00,Nicholas Mackland-Rivera,93974,Sacred Heart,Ben Shvartsman,78498,Cornell
+2025,11/24,Big Red Invitational,165,W,FALL,0:27,Timur Beksultan,93486,Binghamton,Ben Shvartsman,78498,Cornell
+2025,11/24,Big Red Invitational,165,W,TF5,17 - 2 7:00,Anthony Jacobsen,84809,Sacred Heart,Ben Shvartsman,78498,Cornell
+2025,11/24,Big Red Invitational,165,W,TF5,16 - 0 7:00,Daniel Bomberger,83493,Cornell,Ben Shvartsman,78498,Cornell
+2025,11/24,Big Red Invitational,165,W,CMFF,0 - 0,Brady Worthing,66983,Clarion,Ben Shvartsman,78498,Cornell
+2025,11/24,Big Red Invitational,165,W,TF5,19 - 4 7:00,Anthony Mann,93975,Sacred Heart,Kaleb Williams,81113,Cornell
+2025,11/24,Big Red Invitational,165,W,FALL,0:38,Deakon Bailey,92941,Binghamton,Kaleb Williams,81113,Cornell
+2025,11/24,Big Red Invitational,165,W,TF5,17 - 1 7:00,David Rozenblum,84810,Sacred Heart,Kaleb Williams,81113,Cornell
+2025,11/24,Big Red Invitational,165,W,DEC,8 - 7,Calvin Pineda,79727,Sacred Heart,Kaleb Williams,81113,Cornell
+2025,11/24,Big Red Invitational,165,L,SV-1,4 - 1,Wesley Barnes,79466,Clarion,Kaleb Williams,81113,Cornell
+2025,11/10,Journeymen Classic,165,L,SV-1,4 - 1,Grant MacKay,73570,Pittsburgh,Kaleb Williams,81113,Cornell
+2025,11/10,Journeymen Classic,165,W,SV-1,6 - 3,Roberto Padilla,81108,Binghamton,Kaleb Williams,81113,Cornell
+2025,11/10,Journeymen Classic,165,L,DEC,5 - 3,Joseph Manfredi,84611,Arizona State,Kaleb Williams,81113,Cornell
+2025,11/10,Journeymen Classic,165,L,MFOR,0 - 0,Gage McClenahan,62374,Cornell,Brody Oleksak,76002,Cornell
+2025,11/10,Journeymen Classic,165,L,MFOR,0 - 0,Luke Ahrberg,71931,NC State,Brody Oleksak,76002,Cornell
+2025,11/10,Journeymen Classic,165,L,INJ,3:18,Drayden Morton,80401,Cal Baptist,Brody Oleksak,76002,Cornell
+2025,03/20,NCAA Championships,174,W,DEC,2 - 1,Cade DeVos,57072,South Dakota State,Simon Ruiz,78145,Cornell
+2025,03/20,NCAA Championships,174,L,DEC,4 - 1,Levi Haines,72657,Penn State,Simon Ruiz,78145,Cornell
+2025,03/20,NCAA Championships,174,W,MD,10 - 0,Matthew Singleton,73015,NC State,Simon Ruiz,78145,Cornell
+2025,03/20,NCAA Championships,174,W,DEC,2 - 1,Lenny Pinto,63137,Nebraska,Simon Ruiz,78145,Cornell
+2025,03/20,NCAA Championships,174,L,DEC,4 - 3,Cade DeVos,57072,South Dakota State,Simon Ruiz,78145,Cornell
+2025,03/20,NCAA Championships,174,W,DEC,4 - 2,Joshua Ogunsanya,66970,North Carolina,Simon Ruiz,78145,Cornell
+2025,03/20,NCAA Championships,174,W,TF5,17 - 2 7:00,Clayton Whiting,72552,Minnesota,Simon Ruiz,78145,Cornell
+2025,03/09,Ivy Championships,174,W,MD,8 - 0,Jack McGill,71733,Columbia,Simon Ruiz,78145,Cornell
+2025,03/09,Ivy Championships,174,W,TF5,18 - 2 7:00,Drew Clearie,71778,Brown,Simon Ruiz,78145,Cornell
+2025,02/22,Bucknell - Cornell Dual,174,L,MD,11 - 3,Myles Takats,83325,Bucknell,Simon Ruiz,78145,Cornell
+2025,02/15,Cornell - Arizona State Dual,174,W,TF5,15 - 0 2:45,Arturo Anaya,84732,Arizona State,Simon Ruiz,78145,Cornell
+2025,02/09,Pennsylvania - Cornell Dual,174,W,DEC,4 - 3,Nick Incontrera,57070,Pennsylvania,Simon Ruiz,78145,Cornell
+2025,02/08,Princeton - Cornell Dual,174,W,TF5,17 - 2 3:40,Xavier Giles,85120,Princeton,Simon Ruiz,78145,Cornell
+2025,02/02,Columbia - Cornell Dual,174,W,DEC,10 - 8,Jack McGill,71733,Columbia,Simon Ruiz,78145,Cornell
+2025,02/01,Cornell - Binghamton Dual,174,W,TF5,16 - 0 4:49,Roberto Padilla,81108,Binghamton,Simon Ruiz,78145,Cornell
+2025,01/25,Cornell - Brown Dual,174,W,TF5,22 - 7 6:40,Drew Clearie,71778,Brown,Simon Ruiz,78145,Cornell
+2025,01/25,Cornell - Harvard Dual,174,W,TF5,17 - 1 3:27,Haden Bottiglieri,92953,Harvard,Simon Ruiz,78145,Cornell
+2025,01/12,Lehigh - Cornell Dual,174,W,MD,11 - 1,Rylan Rogers,72668,Lehigh,Simon Ruiz,78145,Cornell
+2025,01/03,Cornell - Missouri Dual,174,W,MD,17 - 3,Jake Stoffel,84474,Missouri,Simon Ruiz,78145,Cornell
+2025,12/22,NC State - Cornell Dual,174,L,DEC,6 - 5,Matthew Singleton,73015,NC State,Simon Ruiz,78145,Cornell
+2025,12/06,Cliff Keen Invitational,174,W,DEC,6 - 1,Matthew Singleton,73015,NC State,Simon Ruiz,78145,Cornell
+2025,12/06,Cliff Keen Invitational,174,L,MD,14 - 1,Dean Hamiti,62894,Oklahoma State,Simon Ruiz,78145,Cornell
+2025,12/06,Cliff Keen Invitational,174,L,SV-1,10 - 7,Garrett Thompson,73169,Ohio,Simon Ruiz,78145,Cornell
+2025,12/06,Cliff Keen Invitational,174,W,DEC,6 - 4,Lenny Pinto,63137,Nebraska,Simon Ruiz,78145,Cornell
+2025,12/06,Cliff Keen Invitational,174,W,MD,10 - 0,Mark Takara,79282,Utah Valley,Simon Ruiz,78145,Cornell
+2025,12/06,Cliff Keen Invitational,174,W,DEC,4 - 1,Danny Wask,72981,Navy,Simon Ruiz,78145,Cornell
+2025,11/24,Big Red Invitational,174,W,TF5,18 - 3 7:00,Dylan Schell,78660,Buffalo,Simon Ruiz,78145,Cornell
+2025,11/24,Big Red Invitational,174,W,DEC,7 - 5,Christian Hansen,71809,Cornell,Simon Ruiz,78145,Cornell
+2025,11/24,Big Red Invitational,174,W,MD,15 - 2,Drew Clearie,71778,Brown,Simon Ruiz,78145,Cornell
+2025,11/24,Big Red Invitational,174,W,DEC,5 - 3,Brevin Cassella,67293,Binghamton,Simon Ruiz,78145,Cornell
+2025,11/23,Buffalo - Cornell Dual,174,W,TF5,20 - 4 4:15,Dylan Schell,78660,Buffalo,Simon Ruiz,78145,Cornell
+2025,11/10,Journeymen Classic,174,W,TF5,19 - 4 3:51,Jared Schoppe,78670,Lehigh,Simon Ruiz,78145,Cornell
+2025,11/10,Journeymen Classic,174,W,DEC,2 - 1,Luca Augustine,68730,Pittsburgh,Simon Ruiz,78145,Cornell
+2025,11/10,Journeymen Classic,174,L,DEC,6 - 2,Nick Incontrera,57070,Pennsylvania,Simon Ruiz,78145,Cornell
+2025,11/24,Big Red Invitational,174,L,DEC,7 - 5,Simon Ruiz,78145,Cornell,Christian Hansen,71809,Cornell
+2025,11/24,Big Red Invitational,174,W,MD,17 - 7,Dylan Schell,78660,Buffalo,Christian Hansen,71809,Cornell
+2025,11/24,Big Red Invitational,174,W,FALL,1:25,Drew Clearie,71778,Brown,Christian Hansen,71809,Cornell
+2025,11/24,Big Red Invitational,174,L,DEC,11 - 6,Brevin Cassella,67293,Binghamton,Christian Hansen,71809,Cornell
+2025,11/10,Journeymen Classic,174,W,TF5,19 - 4 6:46,Haden Bottiglieri,92953,Harvard,Christian Hansen,71809,Cornell
+2025,11/10,Journeymen Classic,174,W,DEC,5 - 2,Cooper Haase,73434,Army West Point,Christian Hansen,71809,Cornell
+2025,11/10,Journeymen Classic,174,W,CMFF,0 - 0,Chance McLane,57206,Arizona State,Christian Hansen,71809,Cornell
+2025,03/20,NCAA Championships,184,W,DEC,7 - 4,Jaxon Smith,68714,Maryland,Chris Foca,56712,Cornell
+2025,03/20,NCAA Championships,184,L,DEC,2 - 1,Dustin Plott,57607,Oklahoma State,Chris Foca,56712,Cornell
+2025,03/20,NCAA Championships,184,W,TF5,20 - 4 4:32,Donnell Washington,57738,Indiana,Chris Foca,56712,Cornell
+2025,03/20,NCAA Championships,184,W,DEC,2 - 0,Aidan Brenot,84734,North Dakota State,Chris Foca,56712,Cornell
+2025,03/20,NCAA Championships,184,L,DEC,10 - 7,Max McEnelly,78146,Minnesota,Chris Foca,56712,Cornell
+2025,03/20,NCAA Championships,184,W,MD,12 - 1,Gabe Arnold,77971,Iowa,Chris Foca,56712,Cornell
+2025,03/20,NCAA Championships,184,W,DEC,5 - 3,Ross McFarland,62209,Hofstra,Chris Foca,56712,Cornell
+2025,03/09,Ivy Championships,184,W,SV-1,8 - 5,Maximus Hale,63719,Pennsylvania,Chris Foca,56712,Cornell
+2025,03/09,Ivy Championships,184,W,MD,11 - 2,Nick Fine,71734,Columbia,Chris Foca,56712,Cornell
+2025,02/22,Bucknell - Cornell Dual,184,W,TF5,16 - 1 3:56,Logan Deacetis,71753,Bucknell,Chris Foca,56712,Cornell
+2025,02/15,Cornell - Arizona State Dual,184,W,DEC,6 - 5,Cael Valencia,70908,Arizona State,Chris Foca,56712,Cornell
+2025,02/09,Pennsylvania - Cornell Dual,184,W,TF5,17 - 0 3:49,Maximus Hale,63719,Pennsylvania,Chris Foca,56712,Cornell
+2025,02/08,Princeton - Cornell Dual,184,W,MD,11 - 1,Kole Mulhauser,73135,Princeton,Chris Foca,56712,Cornell
+2025,02/02,Columbia - Cornell Dual,184,W,DEC,8 - 2,Nick Fine,71734,Columbia,Chris Foca,56712,Cornell
+2025,02/01,Cornell - Binghamton Dual,184,W,TF5,16 - 1 6:29,Will Ebert,76486,Binghamton,Chris Foca,56712,Cornell
+2025,01/25,Cornell - Brown Dual,184,W,MD,8 - 0,Andrew Reall,84430,Brown,Chris Foca,56712,Cornell
+2025,01/25,Cornell - Harvard Dual,184,W,TF5,16 - 1 5:11,Matthew Walsh,84478,Harvard,Chris Foca,56712,Cornell
+2025,01/12,Lehigh - Cornell Dual,184,W,DEC,2 - 0,Caden Rogers,64004,Lehigh,Chris Foca,56712,Cornell
+2025,01/03,Cornell - Missouri Dual,184,W,MD,9 - 1,Colton Hawks,62375,Missouri,Chris Foca,56712,Cornell
+2025,12/22,NC State - Cornell Dual,184,W,DEC,6 - 2,Dylan Fishback,69792,NC State,Chris Foca,56712,Cornell
+2025,12/08,A Better Way Athletics Patriot Open,184,W,TF5,18 - 3 4:35,Nate Campbell,93104,US Naval Academy Prep School,Chris Foca,56712,Cornell
+2025,12/08,A Better Way Athletics Patriot Open,184,W,SV-1,7 - 4,James Conway,72677,Unattached,Chris Foca,56712,Cornell
+2025,12/08,A Better Way Athletics Patriot Open,184,W,DEC,5 - 2,Maximus Hale,63719,Pennsylvania,Chris Foca,56712,Cornell
+2025,12/08,A Better Way Athletics Patriot Open,184,L,DEC,14 - 7,Jaxon Smith,68714,Maryland,Chris Foca,56712,Cornell
+2025,12/01,Mat-Town Open I,184,W,DEC,4 - 0,Cole Bartram,84636,Lock Haven,Chris Foca,56712,Cornell
+2025,12/01,Mat-Town Open I,184,W,FALL,0:37,Seth Hoodye,94772,Penn State Altoona,Chris Foca,56712,Cornell
+2025,12/01,Mat-Town Open I,184,W,TF5,16 - 1 2:25,Michael Bartush,72602,Bucknell,Chris Foca,56712,Cornell
+2025,12/06,Cliff Keen Invitational,184,L,DEC,8 - 2,Jaden Bullock,67035,Michigan,Colt Barley,73206,Cornell
+2025,12/06,Cliff Keen Invitational,184,L,DEC,4 - 1,Isaac Dean,72506,Rider,Colt Barley,73206,Cornell
+2025,11/24,Big Red Invitational,184,W,MD,15 - 3,Andrew Reall,84430,Brown,Colt Barley,73206,Cornell
+2025,11/24,Big Red Invitational,184,W,TF5,19 - 2 7:00,Adrian Gacek,84293,Clarion,Colt Barley,73206,Cornell
+2025,11/24,Big Red Invitational,184,L,DEC,12 - 7,Will Ebert,76486,Binghamton,Colt Barley,73206,Cornell
+2025,11/24,Big Red Invitational,184,W,DEC,8 - 4,Marcus Petite,67407,Buffalo,Colt Barley,73206,Cornell
+2025,11/23,Buffalo - Cornell Dual,184,W,DEC,7 - 2,Marcus Petite,67407,Buffalo,Colt Barley,73206,Cornell
+2025,11/10,Journeymen Classic,184,W,DEC,9 - 6,Ross McFarland,62209,Hofstra,Colt Barley,73206,Cornell
+2025,11/10,Journeymen Classic,184,W,SV-1,11 - 8,Cael Valencia,70908,Arizona State,Colt Barley,73206,Cornell
+2025,11/10,Journeymen Classic,184,W,CMFF,0 - 0,Braxton Lewis,78474,VMI,Colt Barley,73206,Cornell
+2025,11/24,Big Red Invitational,184,W,MD,16 - 3,Connor Scuilla,92943,Buffalo,Matt Furman,84298,Cornell
+2025,11/24,Big Red Invitational,184,W,SV-1,4 - 1,Zahir Mclean-Felix,83569,Cornell,Matt Furman,84298,Cornell
+2025,11/24,Big Red Invitational,184,W,TF5,19 - 4 7:00,John Baker,78820,Binghamton,Matt Furman,84298,Cornell
+2025,11/24,Big Red Invitational,184,W,FALL,1:41,Nick Olivieri,76389,Brown,Matt Furman,84298,Cornell
+2025,11/10,Journeymen Classic,184,W,DEC,4 - 2,Chase Kranitz,73700,Pittsburgh,Matt Furman,84298,Cornell
+2025,11/10,Journeymen Classic,184,L,DEC,4 - 1,Jack Wilt,73042,Lehigh,Matt Furman,84298,Cornell
+2025,11/10,Journeymen Classic,184,W,TF5,17 - 2 5:54,Doak Dean,72112,Harvard,Matt Furman,84298,Cornell
+2025,02/01,Edinboro Open,184,W,DEC,7 - 3,Logan Nicewanger,93853,Ohio,Zahir Mclean-Felix,83569,Cornell
+2025,02/01,Edinboro Open,184,W,DEC,7 - 3,Matt Kubas,93319,Northwestern,Zahir Mclean-Felix,83569,Cornell
+2025,02/01,Edinboro Open,184,L,MD,12 - 3,Wyatt Ferguson,84301,Central Michigan,Zahir Mclean-Felix,83569,Cornell
+2025,02/01,Edinboro Open,184,L,MD,9 - 0,Tyler Bienus,84280,Bucknell,Zahir Mclean-Felix,83569,Cornell
+2025,12/01,Mat-Town Open I,184,L,SV-1,4 - 1,Kyle Scott,99369,Unattached,Zahir Mclean-Felix,83569,Cornell
+2025,12/01,Mat-Town Open I,184,L,MD,13 - 1,Michael Bartush,72602,Bucknell,Zahir Mclean-Felix,83569,Cornell
+2025,11/24,Big Red Invitational,184,L,SV-1,4 - 1,Matt Furman,84298,Cornell,Zahir Mclean-Felix,83569,Cornell
+2025,11/24,Big Red Invitational,184,W,DEC,8 - 5,Connor Scuilla,92943,Buffalo,Zahir Mclean-Felix,83569,Cornell
+2025,11/24,Big Red Invitational,184,W,MD,17 - 4,John Baker,78820,Binghamton,Zahir Mclean-Felix,83569,Cornell
+2025,11/24,Big Red Invitational,184,W,DEC,5 - 1,Nick Olivieri,76389,Brown,Zahir Mclean-Felix,83569,Cornell
+2025,11/24,Big Red Invitational,184,W,DEC,7 - 2,Ayden Miller,72194,Clarion,Zahir Mclean-Felix,83569,Cornell
+2025,11/10,Journeymen Classic,184,L,DEC,6 - 4,Rylan Breen,93733,NC State,Zahir Mclean-Felix,83569,Cornell
+2025,11/10,Journeymen Classic,184,W,MD,14 - 5,Logan Richey,84785,Duke,Zahir Mclean-Felix,83569,Cornell
+2025,11/10,Journeymen Classic,184,W,INJ,3:06,Nico Bogardus,73477,Sacred Heart,Zahir Mclean-Felix,83569,Cornell
+2025,12/01,Mat-Town Open I,184,L,DEC,4 - 3,Cole Bartram,84636,Lock Haven,Justin Mayes,68706,Cornell
+2025,12/01,Mat-Town Open I,184,W,DEC,4 - 1,Cael Crebs,72190,Navy,Justin Mayes,68706,Cornell
+2025,12/01,Mat-Town Open I,184,L,MD,12 - 1,Michael Bartush,72602,Bucknell,Justin Mayes,68706,Cornell
+2025,11/24,Big Red Invitational,184,W,MFOR,0 - 0,Liam Finn,78568,Cornell,Justin Mayes,68706,Cornell
+2025,11/24,Big Red Invitational,184,W,DEC,4 - 1,Patrick Cutchember,78460,Clarion,Justin Mayes,68706,Cornell
+2025,11/24,Big Red Invitational,184,W,DEC,8 - 1,Owen Ayotte,73486,Sacred Heart,Justin Mayes,68706,Cornell
+2025,11/24,Big Red Invitational,184,W,DEC,8 - 2,Ayden Miller,72194,Clarion,Justin Mayes,68706,Cornell
+2025,11/10,Journeymen Classic,184,W,DEC,8 - 2,Luke Rada,67359,Harvard,Justin Mayes,68706,Cornell
+2025,11/10,Journeymen Classic,184,L,MD,15 - 1,Ross McFarland,62209,Hofstra,Justin Mayes,68706,Cornell
+2025,11/10,Journeymen Classic,184,W,MFOR,0 - 0,Braxton Lewis,78474,VMI,Justin Mayes,68706,Cornell
+2025,11/24,Big Red Invitational,184,L,MFOR,0 - 0,Justin Mayes,68706,Cornell,Liam Finn,78568,Cornell
+2025,11/24,Big Red Invitational,184,L,MFOR,0 - 0,John Baker,78820,Binghamton,Liam Finn,78568,Cornell
+2025,11/24,Big Red Invitational,184,L,MFOR,0 - 0,Patrick Cutchember,78460,Clarion,Liam Finn,78568,Cornell
+2025,11/24,Big Red Invitational,184,L,MFOR,0 - 0,Owen Ayotte,73486,Sacred Heart,Liam Finn,78568,Cornell
+2025,11/24,Big Red Invitational,184,L,INJ,4:21,Ayden Miller,72194,Clarion,Liam Finn,78568,Cornell
+2025,03/20,NCAA Championships,197,L,MD,12 - 0,Mac Stout,72505,Pittsburgh,Mikey Dellagatta,78704,Cornell
+2025,03/20,NCAA Championships,197,L,MD,16 - 5,Stephen Little,73285,Little Rock,Mikey Dellagatta,78704,Cornell
+2025,03/20,NCAA Championships,197,W,MD,10 - 0,Michael O'Malley,50836,Drexel,Mikey Dellagatta,78704,Cornell
+2025,03/09,Ivy Championships,197,L,TF5,20 - 5 6:18,Luke Stout,62599,Princeton,Mikey Dellagatta,78704,Cornell
+2025,03/09,Ivy Championships,197,W,FALL,0:51,Joe Curtis,84552,Columbia,Mikey Dellagatta,78704,Cornell
+2025,02/22,Bucknell - Cornell Dual,197,W,FALL,1:56,Michael Bartush,72602,Bucknell,Mikey Dellagatta,78704,Cornell
+2025,02/15,Cornell - Arizona State Dual,197,W,DEC,6 - 2,Max Acciardi,78995,Arizona State,Mikey Dellagatta,78704,Cornell
+2025,02/09,Pennsylvania - Cornell Dual,197,W,MD,10 - 0,Cole Spencer,68728,Pennsylvania,Mikey Dellagatta,78704,Cornell
+2025,02/08,Princeton - Cornell Dual,197,L,TF5,17 - 2 5:27,Luke Stout,62599,Princeton,Mikey Dellagatta,78704,Cornell
+2025,02/02,Columbia - Cornell Dual,197,W,FALL,4:22,Joe Curtis,84552,Columbia,Mikey Dellagatta,78704,Cornell
+2025,02/01,Cornell - Binghamton Dual,197,W,DEC,9 - 4,Cayden Bevis,78819,Binghamton,Mikey Dellagatta,78704,Cornell
+2025,01/25,Cornell - Brown Dual,197,W,FALL,4:40,Thomas Sandoval,85051,Brown,Mikey Dellagatta,78704,Cornell
+2025,01/25,Cornell - Harvard Dual,197,W,DEC,4 - 0,Hudson Skove,92952,Harvard,Mikey Dellagatta,78704,Cornell
+2025,01/19,Cyclone Open,197,W,DEC,1 - 0,Karson Tompkins,85034,Air Force Prep,Mikey Dellagatta,78704,Cornell
+2025,01/19,Cyclone Open,197,W,DEC,6 - 3,Carson Babcock,71944,Northern Iowa,Mikey Dellagatta,78704,Cornell
+2025,01/19,Cyclone Open,197,W,DEC,14 - 9,Sawyer Bartelt,83376,Iowa State,Mikey Dellagatta,78704,Cornell
+2025,01/04,Bobby Kauffman Open,197,L,CMFF,0 - 0,Hayden Walters,78697,Michigan,Mikey Dellagatta,78704,Cornell
+2025,01/04,Bobby Kauffman Open,197,L,MFOR,0 - 0,Joey Scaramuzzino,97629,Lake Erie College,Mikey Dellagatta,78704,Cornell
+2025,12/22,NC State - Cornell Dual,197,L,DEC,5 - 2,Christian Knop,57096,NC State,Mikey Dellagatta,78704,Cornell
+2025,11/23,Buffalo - Cornell Dual,197,W,MD,11 - 1,Lonnell Owens-Pabon,78784,Buffalo,Mikey Dellagatta,78704,Cornell
+2025,11/10,Journeymen Classic,197,W,DEC,9 - 6,Christian Knop,57096,NC State,Mikey Dellagatta,78704,Cornell
+2025,11/10,Journeymen Classic,197,W,TF5,15 - 0 7:00,Austin Kohlhofer,78530,Army West Point,Mikey Dellagatta,78704,Cornell
+2025,11/10,Journeymen Classic,197,W,FALL,1:44,Eli Pack,71767,Army West Point,Mikey Dellagatta,78704,Cornell
+2025,01/19,Cyclone Open,197,L,DEC,7 - 6,Karson Tompkins,85034,Air Force Prep,Aiden Hanning,74562,Cornell
+2025,01/19,Cyclone Open,197,W,TF5,15 - 0 7:00,Cooper Colson,83006,Nebraska,Aiden Hanning,74562,Cornell
+2025,01/19,Cyclone Open,197,W,DEC,3 - 1,Carson Babcock,71944,Northern Iowa,Aiden Hanning,74562,Cornell
+2025,01/19,Cyclone Open,197,W,MD,10 - 2,Nate Schon,70913,Iowa State,Aiden Hanning,74562,Cornell
+2025,01/12,Lehigh - Cornell Dual,197,L,TF5,22 - 5 3:51,Michael Beard,50614,Lehigh,Aiden Hanning,74562,Cornell
+2025,01/03,Cornell - Missouri Dual,197,W,DEC,2 - 0,Jesse Cassat,73384,Missouri,Aiden Hanning,74562,Cornell
+2025,12/20,Kent State Open,197,W,SV-1,4 - 1,Carson Thomas,93224,High School,Aiden Hanning,74562,Cornell
+2025,12/20,Kent State Open,197,W,DEC,6 - 0,Devonjae Hudson,73346,Northern Illinois,Aiden Hanning,74562,Cornell
+2025,12/20,Kent State Open,197,L,MD,22 - 8,Camden McDanel,79473,Nebraska,Aiden Hanning,74562,Cornell
+2025,12/20,Kent State Open,197,W,DEC,6 - 0,Corey Boerio,79396,Kent State,Aiden Hanning,74562,Cornell
+2025,12/06,Cliff Keen Invitational,197,L,MD,13 - 5,Camden McDanel,79473,Nebraska,Aiden Hanning,74562,Cornell
+2025,12/06,Cliff Keen Invitational,197,L,FALL,2:41,Ben Vanadia,68732,Purdue,Aiden Hanning,74562,Cornell
+2025,11/24,Big Red Invitational,197,W,MD,13 - 4,Quinn Funk,93487,Binghamton,Aiden Hanning,74562,Cornell
+2025,11/24,Big Red Invitational,197,W,TB-1,3 - 1,Thomas Sandoval,85051,Brown,Aiden Hanning,74562,Cornell
+2025,11/24,Big Red Invitational,197,W,MD,15 - 2,Andrew Bailey,84442,Binghamton,Aiden Hanning,74562,Cornell
+2025,11/24,Big Red Invitational,197,W,MD,13 - 3,Lonnell Owens-Pabon,78784,Buffalo,Aiden Hanning,74562,Cornell
+2025,12/01,Mat-Town Open I,197,L,TF5,20 - 5 7:00,Mason Ellis,94450,Pitt-Johnstown,Eric Carlson,84299,Cornell
+2025,12/01,Mat-Town Open I,197,W,DEC,7 - 2,AJ Fricchione,79312,Penn State,Eric Carlson,84299,Cornell
+2025,12/01,Mat-Town Open I,197,L,MD,9 - 1,Dillon Bechtold,84282,Bucknell,Eric Carlson,84299,Cornell
+2025,11/24,Big Red Invitational,197,W,DEC,5 - 4,Kevin Taylor,93979,Sacred Heart,Eric Carlson,84299,Cornell
+2025,11/24,Big Red Invitational,197,W,MD,12 - 2,Alex Hamrick,84453,Brown,Eric Carlson,84299,Cornell
+2025,11/24,Big Red Invitational,197,W,DEC,9 - 3,Connor Jacobs,79277,Clarion,Eric Carlson,84299,Cornell
+2025,11/24,Big Red Invitational,197,W,DEC,4 - 1,Ethan Wiant,63052,Clarion,Eric Carlson,84299,Cornell
+2025,11/10,Journeymen Classic,197,L,DEC,9 - 3,Andrew Macchiavello,77777,NC State,Eric Carlson,84299,Cornell
+2025,11/10,Journeymen Classic,197,W,FALL,4:25,Andrew Connelly,73133,Pennsylvania,Eric Carlson,84299,Cornell
+2025,11/10,Journeymen Classic,197,L,DEC,6 - 1,Max Acciardi,78995,Arizona State,Eric Carlson,84299,Cornell
+2025,03/20,NCAA Championships,285,L,MD,14 - 5,Gavin Hoffman,50609,Lock Haven,Ashton Davis,77922,Cornell
+2025,03/20,NCAA Championships,285,W,DEC,7 - 1,Jordan Greer,62652,Ohio,Ashton Davis,77922,Cornell
+2025,03/20,NCAA Championships,285,L,TF5,17 - 2 5:40,Owen Trephan,56903,Lehigh,Ashton Davis,77922,Cornell
+2025,03/09,Ivy Championships,285,W,DEC,6 - 1,Vincent Mueller,79467,Columbia,Ashton Davis,77922,Cornell
+2025,03/09,Ivy Championships,285,W,SV-1,8 - 1,Alex Semenenko,79210,Brown,Ashton Davis,77922,Cornell
+2025,02/15,Cornell - Arizona State Dual,285,L,DEC,6 - 0,Cohlton Schultz,56899,Arizona State,Ashton Davis,77922,Cornell
+2025,02/09,Pennsylvania - Cornell Dual,285,W,DEC,9 - 6,John Pardo,85115,Pennsylvania,Ashton Davis,77922,Cornell
+2025,02/08,Princeton - Cornell Dual,285,W,DEC,5 - 0,Sebastian Garibaldi,72130,Princeton,Ashton Davis,77922,Cornell
+2025,02/02,Columbia - Cornell Dual,285,W,MD,9 - 1,William McChesney,78517,Columbia,Ashton Davis,77922,Cornell
+2025,02/01,Cornell - Binghamton Dual,285,L,DEC,3 - 2,Cory Day,62418,Binghamton,Ashton Davis,77922,Cornell
+2025,01/25,Cornell - Brown Dual,285,W,SV-1,4 - 1,Alex Semenenko,79210,Brown,Ashton Davis,77922,Cornell
+2025,01/25,Cornell - Harvard Dual,285,W,MD,11 - 2,Jeffrey Crooks,72111,Harvard,Ashton Davis,77922,Cornell
+2025,01/19,Cyclone Open,285,W,TF5,18 - 3 7:00,Paul Ballard,99846,Iowa State University Wrestling Club,Ashton Davis,77922,Cornell
+2025,01/19,Cyclone Open,285,W,MD,8 - 0,Grant Stromberg,93571,Northern Iowa,Ashton Davis,77922,Cornell
+2025,01/19,Cyclone Open,285,W,DEC,5 - 0,Kaden Darwin,93518,Little Rock,Ashton Davis,77922,Cornell
+2025,01/19,Cyclone Open,285,L,MD,8 - 0,Jarrett Stoner,84591,Missouri,Ashton Davis,77922,Cornell
+2025,01/19,Cyclone Open,285,W,CMFF,0 - 0,Matthew Moore,84340,Nebraska,Ashton Davis,77922,Cornell
+2025,01/12,Lehigh - Cornell Dual,285,L,TF5,18 - 3 4:39,Owen Trephan,56903,Lehigh,Ashton Davis,77922,Cornell
+2025,01/04,Bobby Kauffman Open,285,W,TF5,17 - 2 2:49,Wilson Spires,84598,West Virginia,Ashton Davis,77922,Cornell
+2025,01/04,Bobby Kauffman Open,285,W,DEC,2 - 0,Kade Sottolano,78785,Edinboro,Ashton Davis,77922,Cornell
+2025,01/04,Bobby Kauffman Open,285,L,FALL,5:38,David Szuba,72908,Rider,Ashton Davis,77922,Cornell
+2025,01/04,Bobby Kauffman Open,285,W,DEC,6 - 3,Keegan Nugent,71974,Michigan,Ashton Davis,77922,Cornell
+2025,11/10,Journeymen Classic,285,W,TF5,17 - 2 2:44,Matt Walker,79720,Sacred Heart,Ashton Davis,77922,Cornell
+2025,11/10,Journeymen Classic,285,W,SV-1,4 - 1,Zach Delsanter,78837,Pennsylvania,Ashton Davis,77922,Cornell
+2025,11/10,Journeymen Classic,285,W,DEC,4 - 1,Josh Evans,72531,VMI,Ashton Davis,77922,Cornell
+2025,02/22,Bucknell - Cornell Dual,285,L,DEC,11 - 4,Logan Shephard,73758,Bucknell,Aiden Compton,78711,Cornell
+2025,02/01,Edinboro Open,285,W,DEC,4 - 2,Mason Ellis,94450,Pitt-Johnstown,Aiden Compton,78711,Cornell
+2025,02/01,Edinboro Open,285,W,TF5,17 - 2 6:09,Oscar Williams,85085,Maryland,Aiden Compton,78711,Cornell
+2025,02/01,Edinboro Open,285,W,DEC,4 - 0,Kade Sottolano,78785,Edinboro,Aiden Compton,78711,Cornell
+2025,02/01,Edinboro Open,285,L,DEC,2 - 1,Kade Sottolano,78785,Edinboro,Aiden Compton,78711,Cornell
+2025,02/01,Edinboro Open,285,W,DEC,4 - 2,Ethan Miller,78742,Lock Haven,Aiden Compton,78711,Cornell
+2025,02/01,Edinboro Open,285,W,DEC,1 - 0,Jack Kilner,65375,Unattached,Aiden Compton,78711,Cornell
+2025,01/03,Cornell - Missouri Dual,285,L,DEC,5 - 0,Jarrett Stoner,84591,Missouri,Aiden Compton,78711,Cornell
+2025,12/22,NC State - Cornell Dual,285,L,TF5,19 - 4 4:51,Isaac Trumble,67131,NC State,Aiden Compton,78711,Cornell
+2025,12/06,Cliff Keen Invitational,285,L,FALL,0:59,Isaac Trumble,67131,NC State,Aiden Compton,78711,Cornell
+2025,12/06,Cliff Keen Invitational,285,L,DEC,6 - 5,Hayden Filipovich,71689,Purdue,Aiden Compton,78711,Cornell
+2025,12/06,Cliff Keen Invitational,285,W,DEC,4 - 3,Danny Church,84818,Hofstra,Aiden Compton,78711,Cornell
+2025,11/24,Big Red Invitational,285,L,FALL,4:36,Alex Semenenko,79210,Brown,Aiden Compton,78711,Cornell
+2025,11/24,Big Red Invitational,285,L,DEC,4 - 2,Austin Chapman,63708,Clarion,Aiden Compton,78711,Cornell
+2025,11/24,Big Red Invitational,285,L,FALL,2:23,Cory Day,62418,Binghamton,Aiden Compton,78711,Cornell
+2025,11/23,Buffalo - Cornell Dual,285,W,DEC,2 - 0,Jack MacDonald,90809,Buffalo,Aiden Compton,78711,Cornell
+2025,11/10,Journeymen Classic,285,W,TF5,20 - 4 4:33,Connor White,93980,Sacred Heart,Aiden Compton,78711,Cornell
+2025,11/10,Journeymen Classic,285,W,DEC,8 - 2,Brody Kline,93015,Franklin & Marshall,Aiden Compton,78711,Cornell
+2025,11/10,Journeymen Classic,285,L,MD,11 - 2,Connor Barket,78767,Duke,Aiden Compton,78711,Cornell

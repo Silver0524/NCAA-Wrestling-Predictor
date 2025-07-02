@@ -1,0 +1,546 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2016,03/17,NCAA Championships,125,L,DEC,1 - 0,Ryan Millhof,20815,Oklahoma,Connor Schram,14982,Stanford
+2016,03/17,NCAA Championships,125,W,DEC,3 - 1,Ronnie Bresser,25183,Oregon State,Connor Schram,14982,Stanford
+2016,03/17,NCAA Championships,125,W,DEC,5 - 2,LJ Bentley,39598,Pittsburgh,Connor Schram,14982,Stanford
+2016,03/17,NCAA Championships,125,W,DEC,3 - 1,Darian Cruz,12135,Lehigh,Connor Schram,14982,Stanford
+2016,03/17,NCAA Championships,125,L,TB-2,4 - 3,Conor Youtsey,13271,Michigan,Connor Schram,14982,Stanford
+2016,03/17,NCAA Championships,125,L,FALL,5:41,David Terao,12068,American,Connor Schram,14982,Stanford
+2016,02/27,Pac 12 Championships,125,W,DEC,4 - 1,Ares Carpio,12143,Arizona State,Connor Schram,14982,Stanford
+2016,02/27,Pac 12 Championships,125,W,DEC,5 - 4,Rami Haddadin,16069,Boise State,Connor Schram,14982,Stanford
+2016,02/27,Pac 12 Championships,125,W,DEC,3 - 2,Ronnie Bresser,25183,Oregon State,Connor Schram,14982,Stanford
+2016,02/14,Stanford - Oklahoma State Dual,125,L,SV-1,3 - 1,Eddie Klimara,12136,Oklahoma State,Connor Schram,14982,Stanford
+2016,02/11,Boise State - Stanford Dual,125,W,DEC,9 - 4,Rami Haddadin,16069,Boise State,Connor Schram,14982,Stanford
+2016,02/06,Stanford - Air Force Dual,125,W,DEC,8 - 4,Drew Romero,20712,Air Force,Connor Schram,14982,Stanford
+2016,02/04,Oregon State - Stanford Dual,125,W,DEC,4 - 3,Ronnie Bresser,25183,Oregon State,Connor Schram,14982,Stanford
+2016,01/23,West Virginia - Stanford Dual,125,L,SV-1,3 - 1,Zeke Moisey,20472,West Virginia,Connor Schram,14982,Stanford
+2016,01/23,Stanford - Arizona State Dual,125,W,MD,10 - 2,Ares Carpio,12143,Arizona State,Connor Schram,14982,Stanford
+2016,01/16,Duke - Stanford Dual,133,W,DEC,10 - 3,Brandon Leynaud,42790,Duke,Connor Schram,14982,Stanford
+2016,01/15,Utah Valley - Stanford Dual,125,W,SV-1,3 - 1,Chasen Tolbert,13373,Utah Valley,Connor Schram,14982,Stanford
+2016,01/01,Southern Scuffle,125,W,DEC,3 - 1,Cortez Starkes,12194,Gardner-Webb,Connor Schram,14982,Stanford
+2016,01/01,Southern Scuffle,125,W,DEC,8 - 5,Alonzo Allen,19765,Chattanooga,Connor Schram,14982,Stanford
+2016,01/01,Southern Scuffle,125,L,SV-1,2 - 1,Zeke Moisey,20472,West Virginia,Connor Schram,14982,Stanford
+2016,01/01,Southern Scuffle,125,W,FALL,3:37,John Martin,12102,Cleveland State,Connor Schram,14982,Stanford
+2016,01/01,Southern Scuffle,125,W,DEC,7 - 3,Mitch Rogaliner,12203,Michigan State,Connor Schram,14982,Stanford
+2016,01/01,Southern Scuffle,125,L,MFOR,0 - 0,Eli Hale,15232,Oklahoma State,Connor Schram,14982,Stanford
+2016,01/01,Southern Scuffle,125,W,SV-1,6 - 4,Steve Polakowski,20046,Minnesota,Connor Schram,14982,Stanford
+2016,01/01,Southern Scuffle,125,L,DEC,8 - 2,Ethan Lizak,20040,Minnesota,Connor Schram,14982,Stanford
+2016,01/01,Southern Scuffle,125,W,DEC,6 - 2,Tanner Shoap,12205,Drexel,Connor Schram,14982,Stanford
+2016,11/22,Penn State - Stanford Dual,125,L,DEC,7 - 1,Nico Megaludis,12051,Penn State,Connor Schram,14982,Stanford
+2016,11/15,Roadrunner Open,125,W,TF5,16 - 0 2:13,Kyle Anderson,14677,CSU Bakersfield,Connor Schram,14982,Stanford
+2016,11/15,Roadrunner Open,125,W,FALL,1:46,Yoshito Funakoshi,19739,Cal Poly,Connor Schram,14982,Stanford
+2016,11/15,Roadrunner Open,125,W,TB-1,2 - 1,Sean Russell,20727,Edinboro,Connor Schram,14982,Stanford
+2016,11/15,Roadrunner Open,125,W,DEC,2 - 0,Zack Fuentes,12061,Drexel,Connor Schram,14982,Stanford
+2016,11/02,Stanford - Cal Poly Dual,125,W,MD,14 - 5,Yoshito Funakoshi,19739,Cal Poly,Connor Schram,14982,Stanford
+2016,02/06,Stanford - Air Force Dual,133,L,DEC,4 - 0,Josh Martinez,12145,Air Force,Brian Rossi,20394,Stanford
+2016,01/23,West Virginia - Stanford Dual,133,L,DEC,5 - 3,Keegan Moore,39680,West Virginia,Brian Rossi,20394,Stanford
+2016,01/23,Stanford - Arizona State Dual,133,W,DEC,7 - 1,Cord Coronado,15172,Arizona State,Brian Rossi,20394,Stanford
+2016,01/09,California Baptist (Calif.) - Stanford Dual,133,L,DEC,16 - 12,Anthony Racobaldo,41694,Cal Baptist,Brian Rossi,20394,Stanford
+2016,01/01,Southern Scuffle,125,W,DEC,5 - 2,Kenneth Yanovich,20308,Penn State,Brian Rossi,20394,Stanford
+2016,01/01,Southern Scuffle,125,W,TF5,18 - 2 6:09,John Martin,12102,Cleveland State,Brian Rossi,20394,Stanford
+2016,01/01,Southern Scuffle,125,L,MD,12 - 4,Sean Russell,20727,Edinboro,Brian Rossi,20394,Stanford
+2016,01/01,Southern Scuffle,125,L,DEC,5 - 4,Steve Polakowski,20046,Minnesota,Brian Rossi,20394,Stanford
+2016,12/20,Reno TOC,125,L,FALL,5:16,Michael Knoblauch,43549,Clackamas Community College,Brian Rossi,20394,Stanford
+2016,12/20,Reno TOC,125,W,MD,12 - 3,Casey Coulter,24090,Southern Oregon,Brian Rossi,20394,Stanford
+2016,12/20,Reno TOC,125,W,FALL,1:45,Josh Temple,20421,Utah Valley,Brian Rossi,20394,Stanford
+2016,12/20,Reno TOC,125,L,DEC,2 - 0,Brent Fleetwood,19750,Central Michigan,Brian Rossi,20394,Stanford
+2016,12/17,CSU Bakersfield - Stanford Dual,125,L,DEC,14 - 8,Sergio Mendez,15986,CSU Bakersfield,Brian Rossi,20394,Stanford
+2016,11/15,Roadrunner Open,125,L,DEC,3 - 0,Sean Nickell,11606,CSU Bakersfield,Brian Rossi,20394,Stanford
+2016,11/15,Roadrunner Open,125,W,DEC,7 - 6,David Gonzalez,40838,Cal Poly,Brian Rossi,20394,Stanford
+2016,11/15,Roadrunner Open,125,W,FALL,3:00,Isaac Blackburn,19734,Cal Poly,Brian Rossi,20394,Stanford
+2016,11/15,Roadrunner Open,125,L,MD,12 - 4,Sean Russell,20727,Edinboro,Brian Rossi,20394,Stanford
+2016,11/08,Hokie Open,125,W,FALL,2:06,Tyrone Klump,20115,North Carolina,Brian Rossi,20394,Stanford
+2016,11/08,Hokie Open,125,W,DEC,11 - 6,James Szymanski,39623,North Carolina,Brian Rossi,20394,Stanford
+2016,11/08,Hokie Open,125,W,FALL,4:41,Devin Brown,39619,West Virginia,Brian Rossi,20394,Stanford
+2016,11/08,Hokie Open,125,L,MD,12 - 4,Joey Dance,12221,Virginia Tech,Brian Rossi,20394,Stanford
+2016,11/07,Stanford - Chattanooga Dual,125,W,DEC,4 - 3,Alonzo Allen,19765,Chattanooga,Brian Rossi,20394,Stanford
+2016,11/02,Stanford - Cal Poly Dual,133,W,DEC,8 - 4,Jason DelaCruz,19736,Cal Poly,Brian Rossi,20394,Stanford
+2016,02/27,Pac 12 Championships,133,L,DEC,5 - 3,Dalton Brady,20566,Arizona State,Mason Pengilly,20392,Stanford
+2016,02/27,Pac 12 Championships,133,W,DEC,5 - 1,Carlos Herrera,40167,CSU Bakersfield,Mason Pengilly,20392,Stanford
+2016,02/27,Pac 12 Championships,133,L,DEC,3 - 1,Jason DelaCruz,19736,Cal Poly,Mason Pengilly,20392,Stanford
+2016,02/14,Stanford - Oklahoma State Dual,133,L,DEC,7 - 2,Gary Wayne Harding,20270,Oklahoma State,Mason Pengilly,20392,Stanford
+2016,02/11,Boise State - Stanford Dual,133,L,DEC,2 - 0,Carson Kuhn,16532,Boise State,Mason Pengilly,20392,Stanford
+2016,02/04,Oregon State - Stanford Dual,133,L,DEC,6 - 2,Joey Palmer,12152,Oregon State,Mason Pengilly,20392,Stanford
+2016,12/17,CSU Bakersfield - Stanford Dual,133,W,DEC,9 - 3,Carlos Herrera,40167,CSU Bakersfield,Mason Pengilly,20392,Stanford
+2016,11/22,Penn State - Stanford Dual,133,L,DEC,10 - 4,Jordan Conaway,15981,Penn State,Mason Pengilly,20392,Stanford
+2016,11/15,Roadrunner Open,133,W,DEC,2 - 1,Jason DelaCruz,19736,Cal Poly,Mason Pengilly,20392,Stanford
+2016,11/15,Roadrunner Open,133,W,FALL,2:19,Tony Recco,40442,Edinboro,Mason Pengilly,20392,Stanford
+2016,11/15,Roadrunner Open,133,L,DEC,4 - 3,David Pearce,13379,Drexel,Mason Pengilly,20392,Stanford
+2016,11/15,Roadrunner Open,133,W,DEC,8 - 4,Franco Ferraina,11997,Drexel,Mason Pengilly,20392,Stanford
+2016,11/08,Hokie Open,133,W,MD,14 - 1,Alex Rinaldi,20120,North Carolina,Mason Pengilly,20392,Stanford
+2016,11/08,Hokie Open,133,W,DEC,6 - 4,Keegan Moore,39680,West Virginia,Mason Pengilly,20392,Stanford
+2016,11/08,Hokie Open,133,W,DEC,9 - 2,Jonathan Ryan,40425,Campbell,Mason Pengilly,20392,Stanford
+2016,11/08,Hokie Open,133,L,DEC,6 - 3,Kevin Norstrem,11999,Virginia Tech,Mason Pengilly,20392,Stanford
+2016,11/07,Stanford - Chattanooga Dual,133,L,DEC,8 - 3,Chris Debien,39720,Chattanooga,Mason Pengilly,20392,Stanford
+2016,03/17,NCAA Championships,141,L,DEC,5 - 3,Bryce Meredith,20135,Wyoming,Joseph McKenna,24215,Stanford
+2016,03/17,NCAA Championships,141,W,DEC,6 - 1,Solomon Chishko,20440,Virginia Tech,Joseph McKenna,24215,Stanford
+2016,03/17,NCAA Championships,141,W,DEC,7 - 6,Anthony Ashnault,11803,Rutgers,Joseph McKenna,24215,Stanford
+2016,03/17,NCAA Championships,141,W,DEC,3 - 1,Chris Mecate,11835,Old Dominion,Joseph McKenna,24215,Stanford
+2016,03/17,NCAA Championships,141,W,TB-1,2 - 1,Zach Horan,11624,Central Michigan,Joseph McKenna,24215,Stanford
+2016,03/17,NCAA Championships,141,W,DEC,4 - 2,Brock Zacherl,19787,Clarion,Joseph McKenna,24215,Stanford
+2016,02/27,Pac 12 Championships,141,W,FALL,6:36,Josh Newburg,13286,Boise State,Joseph McKenna,24215,Stanford
+2016,02/27,Pac 12 Championships,141,W,DEC,6 - 0,Jack Hathaway,15765,Oregon State,Joseph McKenna,24215,Stanford
+2016,02/27,Pac 12 Championships,141,W,DEC,6 - 1,Ian Nickell,20540,CSU Bakersfield,Joseph McKenna,24215,Stanford
+2016,02/14,Stanford - Oklahoma State Dual,141,L,SV-1,3 - 1,Dean Heil,15376,Oklahoma State,Joseph McKenna,24215,Stanford
+2016,02/11,Boise State - Stanford Dual,141,W,DEC,4 - 0,Jake Velarde,19695,Boise State,Joseph McKenna,24215,Stanford
+2016,02/06,Stanford - Air Force Dual,141,W,FALL,6:54,Dylan Hyder,41723,Air Force,Joseph McKenna,24215,Stanford
+2016,02/04,Oregon State - Stanford Dual,141,W,MD,10 - 1,Jack Hathaway,15765,Oregon State,Joseph McKenna,24215,Stanford
+2016,01/23,West Virginia - Stanford Dual,141,W,MD,10 - 0,Tony DeAngelo,22458,West Virginia,Joseph McKenna,24215,Stanford
+2016,01/23,Stanford - Arizona State Dual,141,W,DEC,4 - 0,Robert Mathers,40849,Arizona State,Joseph McKenna,24215,Stanford
+2016,01/16,Duke - Stanford Dual,141,W,MD,9 - 1,Zach Finesilver,19862,Duke,Joseph McKenna,24215,Stanford
+2016,01/15,Utah Valley - Stanford Dual,141,W,MD,14 - 0,Jarod Maynes,20416,Utah Valley,Joseph McKenna,24215,Stanford
+2016,01/09,California Baptist (Calif.) - Stanford Dual,141,W,MD,12 - 4,Peter Cunningham,21239,Cal Baptist,Joseph McKenna,24215,Stanford
+2016,01/01,Southern Scuffle,141,W,DEC,4 - 2,Joey Ward,11615,North Carolina,Joseph McKenna,24215,Stanford
+2016,01/01,Southern Scuffle,141,W,DEC,4 - 2,Zach Horan,11624,Central Michigan,Joseph McKenna,24215,Stanford
+2016,01/01,Southern Scuffle,141,W,MFOR,0 - 0,Colton Schilling,12033,Cal Poly,Joseph McKenna,24215,Stanford
+2016,01/01,Southern Scuffle,141,L,TB-1,2 - 1,Dean Heil,15376,Oklahoma State,Joseph McKenna,24215,Stanford
+2016,01/01,Southern Scuffle,141,W,MD,12 - 0,Matthew Kelly,19637,Army West Point,Joseph McKenna,24215,Stanford
+2016,11/22,Penn State - Stanford Dual,141,W,DEC,7 - 3,Jimmy Gulibon,13371,Penn State,Joseph McKenna,24215,Stanford
+2016,11/08,Hokie Open,141,W,DEC,4 - 3,Evan Henderson,11771,North Carolina,Joseph McKenna,24215,Stanford
+2016,11/08,Hokie Open,141,W,FALL,2:47,Ross Benzel,42152,Limestone,Joseph McKenna,24215,Stanford
+2016,11/08,Hokie Open,141,W,TF5,17 - 1 7:00,Matt Williams,22448,North Carolina,Joseph McKenna,24215,Stanford
+2016,11/08,Hokie Open,141,W,FALL,3:00,Ross Benzel,42152,Limestone,Joseph McKenna,24215,Stanford
+2016,11/08,Hokie Open,141,W,FALL,3:00,Joe Moita,15803,Columbia,Joseph McKenna,24215,Stanford
+2016,11/07,Stanford - Chattanooga Dual,141,W,MD,10 - 2,Roman Boylen,39818,Chattanooga,Joseph McKenna,24215,Stanford
+2016,11/02,Stanford - Cal Poly Dual,141,W,FALL,1:07,Glenn Farina,25194,Cal Poly,Joseph McKenna,24215,Stanford
+2016,11/15,Roadrunner Open,141,L,DEC,4 - 0,Ian Nickell,20540,CSU Bakersfield,Isaiah Locsin,20391,Stanford
+2016,11/15,Roadrunner Open,141,W,MFOR,0 - 0,Steele Escobedo,22387,Menlo,Isaiah Locsin,20391,Stanford
+2016,11/15,Roadrunner Open,141,W,FALL,2:16,Alex Rich,40236,Oregon State,Isaiah Locsin,20391,Stanford
+2016,11/15,Roadrunner Open,141,W,FALL,1:23,Brian Ha,23968,Menlo,Isaiah Locsin,20391,Stanford
+2016,11/01,SFSU JC/College Open,141,W,MD,13 - 2,Casper Sherow,42073,Mt San Antonio Community College,Isaiah Locsin,20391,Stanford
+2016,11/01,SFSU JC/College Open,141,W,FALL,0:33,Brennan Gilligan,42776,Shasta Community College,Isaiah Locsin,20391,Stanford
+2016,11/01,SFSU JC/College Open,141,W,FALL,2:42,Ezra Clark,42775,Skyline College,Isaiah Locsin,20391,Stanford
+2016,11/01,SFSU JC/College Open,141,W,MD,9 - 1,Russell Rohlfing,40166,CSU Bakersfield,Isaiah Locsin,20391,Stanford
+2016,01/15,Utah Valley - Stanford Dual,133,L,TF5,20 - 1 7:00,Jade Rauser,13291,Utah Valley,Eric Cramer,14968,Stanford
+2016,01/10,Stanford - Menlo (Calif.) Dual,133,W,DEC,8 - 2,Logan Eaton,42137,Menlo,Eric Cramer,14968,Stanford
+2016,01/10,Stanford - San Francisco State Dual,133,L,TF5,17 - 0 6:33,Fernando Giron,43795,San Francisco State,Eric Cramer,14968,Stanford
+2016,12/17,CSU Bakersfield - Stanford Dual,141,L,TF5,19 - 0 7:00,Ian Nickell,20540,CSU Bakersfield,Eric Cramer,14968,Stanford
+2016,02/27,Pac 12 Championships,157,L,TF5,17 - 2 7:00,Chris Castillo,14014,Boise State,Peter Russo,15649,Stanford
+2016,02/27,Pac 12 Championships,157,L,FALL,2:10,Abraham Rodriquez,42226,Oregon State,Peter Russo,15649,Stanford
+2016,02/27,Pac 12 Championships,157,L,FALL,1:05,Colt Shorts,11611,Cal Poly,Peter Russo,15649,Stanford
+2016,02/04,Oregon State - Stanford Dual,149,L,MD,10 - 2,Joey Delgado,11620,Oregon State,Peter Russo,15649,Stanford
+2016,01/10,Stanford - Menlo (Calif.) Dual,141,W,FALL,2:30,Christian Racimo,42024,Menlo,Peter Russo,15649,Stanford
+2016,01/10,Stanford - San Francisco State Dual,141,W,DEC,3 - 2,Josh Weinberg,42027,San Francisco State,Peter Russo,15649,Stanford
+2016,11/15,Roadrunner Open,141,W,TB-2,8 - 2,Brian Ha,23968,Menlo,Peter Russo,15649,Stanford
+2016,11/15,Roadrunner Open,141,L,DEC,6 - 0,Jared Reis,13646,Oregon State,Peter Russo,15649,Stanford
+2016,11/15,Roadrunner Open,141,W,FALL,3:17,Ryan Feliciano,42080,San Francisco State,Peter Russo,15649,Stanford
+2016,11/15,Roadrunner Open,141,W,DEC,6 - 3,Victor Trujillo,15661,Cal Poly,Peter Russo,15649,Stanford
+2016,11/15,Roadrunner Open,141,L,FALL,2:30,Tyler Vath,40445,Edinboro,Peter Russo,15649,Stanford
+2016,11/01,SFSU JC/College Open,141,W,SV-1,3 - 1,Trevor Perez,42026,San Francisco State,Peter Russo,15649,Stanford
+2016,11/01,SFSU JC/College Open,141,W,DEC,2 - 1,Trevor Perez,42026,San Francisco State,Peter Russo,15649,Stanford
+2016,11/01,SFSU JC/College Open,141,W,FALL,0:52,Chris Gaetan,42778,Cuesta,Peter Russo,15649,Stanford
+2016,11/01,SFSU JC/College Open,141,W,FALL,2:24,Jose Perez,42777,East Los Angeles College,Peter Russo,15649,Stanford
+2016,11/01,SFSU JC/College Open,141,L,DEC,8 - 2,Russell Rohlfing,40166,CSU Bakersfield,Peter Russo,15649,Stanford
+2016,02/27,Pac 12 Championships,149,L,DEC,5 - 1,Coleman Hammond,14011,CSU Bakersfield,Tommy Pawelski,12007,Stanford
+2016,02/27,Pac 12 Championships,149,L,DEC,3 - 0,Joey Delgado,11620,Oregon State,Tommy Pawelski,12007,Stanford
+2016,02/27,Pac 12 Championships,149,L,DEC,6 - 4,Jacob Leon,15710,Cal Poly,Tommy Pawelski,12007,Stanford
+2016,02/14,Stanford - Oklahoma State Dual,149,L,FALL,2:19,Anthony Collica,11723,Oklahoma State,Tommy Pawelski,12007,Stanford
+2016,02/11,Boise State - Stanford Dual,149,L,DEC,2 - 0,Geordan Martinez,19690,Boise State,Tommy Pawelski,12007,Stanford
+2016,02/06,Stanford - Air Force Dual,149,W,SV-1,3 - 1,Gerald McGinty,25203,Air Force,Tommy Pawelski,12007,Stanford
+2016,01/23,West Virginia - Stanford Dual,149,L,DEC,10 - 5,Zachary Moore,39678,West Virginia,Tommy Pawelski,12007,Stanford
+2016,01/23,Stanford - Arizona State Dual,149,L,DEC,11 - 9,Christian Pagdilao,20575,Arizona State,Tommy Pawelski,12007,Stanford
+2016,01/10,Stanford - Menlo (Calif.) Dual,149,W,MD,16 - 4,Jeff Uyesaka,42735,Camden County Community College,Tommy Pawelski,12007,Stanford
+2016,01/10,Stanford - San Francisco State Dual,149,W,SV-1,6 - 4,Dylan Furtado,21756,San Francisco State,Tommy Pawelski,12007,Stanford
+2016,01/01,Southern Scuffle,149,W,DEC,8 - 6,Nick Montgomery,18225,Cleveland State,Tommy Pawelski,12007,Stanford
+2016,01/01,Southern Scuffle,149,L,DEC,12 - 7,Jonce Blaylock,20266,Oklahoma State,Tommy Pawelski,12007,Stanford
+2016,01/01,Southern Scuffle,149,L,DEC,5 - 2,Matthew Cimato,11725,Drexel,Tommy Pawelski,12007,Stanford
+2016,12/17,CSU Bakersfield - Stanford Dual,157,L,DEC,8 - 3,Andrew Fierro,37928,CSU Bakersfield,Tommy Pawelski,12007,Stanford
+2016,11/08,Hokie Open,149,L,DEC,7 - 5,Jake DeAngelo,20554,NC State,Tommy Pawelski,12007,Stanford
+2016,11/08,Hokie Open,149,L,DEC,6 - 4,Michael Dahlstrom,19613,American,Tommy Pawelski,12007,Stanford
+2016,11/08,Hokie Open,149,W,DEC,4 - 3,Joe Moon,11646,North Carolina,Tommy Pawelski,12007,Stanford
+2016,11/07,Stanford - Chattanooga Dual,149,L,SV-1,4 - 2,Michael Pongracz,11726,Chattanooga,Tommy Pawelski,12007,Stanford
+2016,01/16,Duke - Stanford Dual,149,L,INJ,7:00,Mitch Finesilver,19861,Duke,Paul Fox,20390,Stanford
+2016,01/15,Utah Valley - Stanford Dual,149,W,MD,15 - 3,Matthew Ontiveros,20417,Utah Valley,Paul Fox,20390,Stanford
+2016,01/09,California Baptist (Calif.) - Stanford Dual,149,W,DEC,6 - 1,Bradford Gerl,43291,Cal Baptist,Paul Fox,20390,Stanford
+2016,01/01,Southern Scuffle,149,W,SV-1,6 - 4,Chris Vassar,11981,Gardner-Webb,Paul Fox,20390,Stanford
+2016,01/01,Southern Scuffle,149,W,DEC,10 - 4,Troy Heilmann,12036,North Carolina,Paul Fox,20390,Stanford
+2016,01/01,Southern Scuffle,149,L,MD,17 - 5,Justin Oliver,19758,Central Michigan,Paul Fox,20390,Stanford
+2016,01/01,Southern Scuffle,149,L,TF5,22 - 6 6:48,Zain Retherford,11781,Penn State,Paul Fox,20390,Stanford
+2016,01/01,Southern Scuffle,149,W,MD,12 - 4,Timmy Box,14724,Northern Colorado,Paul Fox,20390,Stanford
+2016,01/01,Southern Scuffle,149,W,DEC,9 - 5,Laike Gardner,11748,Lehigh,Paul Fox,20390,Stanford
+2016,12/20,Reno TOC,149,W,INJ,7:00,Nicholas Barber,11739,Eastern Michigan,Paul Fox,20390,Stanford
+2016,12/20,Reno TOC,149,W,MD,11 - 3,Clay Ream,13748,North Dakota State,Paul Fox,20390,Stanford
+2016,12/20,Reno TOC,149,W,FALL,1:47,Timmy Box,14724,Northern Colorado,Paul Fox,20390,Stanford
+2016,12/20,Reno TOC,149,L,DEC,8 - 5,Colin Heffernan,13795,Central Michigan,Paul Fox,20390,Stanford
+2016,12/20,Reno TOC,149,W,DEC,5 - 3,Christian Pagdilao,20575,Arizona State,Paul Fox,20390,Stanford
+2016,12/20,Reno TOC,149,W,MD,11 - 3,Kyler Hansen,40249,Cal Poly,Paul Fox,20390,Stanford
+2016,12/20,Reno TOC,149,W,INJ,7:00,Khristian Olivas,40318,Utah Valley,Paul Fox,20390,Stanford
+2016,12/20,Reno TOC,149,W,MD,13 - 5,Matt Frisch,13722,The Citadel,Paul Fox,20390,Stanford
+2016,12/17,CSU Bakersfield - Stanford Dual,149,L,MD,12 - 3,Coleman Hammond,14011,CSU Bakersfield,Paul Fox,20390,Stanford
+2016,11/22,Penn State - Stanford Dual,149,L,FALL,6:35,Zain Retherford,11781,Penn State,Paul Fox,20390,Stanford
+2016,11/15,Roadrunner Open,149,W,TF5,17 - 2 4:34,Joel Palabrica,21744,Menlo,Paul Fox,20390,Stanford
+2016,11/15,Roadrunner Open,149,W,DEC,7 - 1,Joshua Cortez,40840,Cal Poly,Paul Fox,20390,Stanford
+2016,11/15,Roadrunner Open,149,L,DEC,7 - 6,Patricio Lugo,39919,Edinboro,Paul Fox,20390,Stanford
+2016,11/15,Roadrunner Open,149,W,DEC,7 - 6,Matthew Cimato,11725,Drexel,Paul Fox,20390,Stanford
+2016,11/15,Roadrunner Open,149,W,FALL,5:53,Matthew Ontiveros,20417,Utah Valley,Paul Fox,20390,Stanford
+2016,11/08,Hokie Open,149,W,DEC,5 - 2,Michael Dahlstrom,19613,American,Paul Fox,20390,Stanford
+2016,11/08,Hokie Open,149,W,DEC,6 - 5,Tom Page,11812,American,Paul Fox,20390,Stanford
+2016,11/08,Hokie Open,149,W,DEC,8 - 1,Michael Monica,42794,Duke,Paul Fox,20390,Stanford
+2016,11/08,Hokie Open,149,W,DEC,8 - 3,Matthew Leshinger,15713,Columbia,Paul Fox,20390,Stanford
+2016,11/08,Hokie Open,149,L,DEC,6 - 4,Konbeh Koroma,19902,George Mason,Paul Fox,20390,Stanford
+2016,11/02,Stanford - Cal Poly Dual,149,W,MD,12 - 4,Joshua Cortez,40840,Cal Poly,Paul Fox,20390,Stanford
+2016,02/04,Oregon State - Stanford Dual,157,L,TF5,26 - 11 7:00,Abraham Rodriquez,42226,Oregon State,Walker Dempsey,20388,Stanford
+2016,01/23,West Virginia - Stanford Dual,157,L,MD,16 - 5,Dylan Cottrell,14019,West Virginia,Walker Dempsey,20388,Stanford
+2016,01/23,Stanford - Arizona State Dual,157,L,MD,12 - 4,Matt Kraus,11779,Arizona State,Walker Dempsey,20388,Stanford
+2016,01/16,Duke - Stanford Dual,157,W,DEC,14 - 9,Connor Bass,13712,Duke,Walker Dempsey,20388,Stanford
+2016,01/15,Utah Valley - Stanford Dual,157,W,DEC,7 - 3,Raider Lofthouse,20414,Utah Valley,Walker Dempsey,20388,Stanford
+2016,01/10,Stanford - Menlo (Calif.) Dual,157,W,MD,13 - 3,James Luscombe,42060,Menlo,Walker Dempsey,20388,Stanford
+2016,01/10,Stanford - San Francisco State Dual,157,W,DEC,2 - 1,Tavis Ino,23833,San Francisco State,Walker Dempsey,20388,Stanford
+2016,01/09,California Baptist (Calif.) - Stanford Dual,157,L,MD,15 - 6,Brady Bersano,41695,Cal Baptist,Walker Dempsey,20388,Stanford
+2016,01/01,Southern Scuffle,157,L,TF5,25 - 10 6:28,Jason Nolf,20303,Penn State,Walker Dempsey,20388,Stanford
+2016,01/01,Southern Scuffle,157,W,DEC,8 - 4,John Vaughn,40905,Cleveland State,Walker Dempsey,20388,Stanford
+2016,01/01,Southern Scuffle,157,L,DEC,2 - 0,Spencer Nagy,40444,Edinboro,Walker Dempsey,20388,Stanford
+2016,12/20,Reno TOC,149,L,FALL,2:34,Bryce Parson,39600,Oregon State,Walker Dempsey,20388,Stanford
+2016,12/20,Reno TOC,149,L,MD,14 - 5,Geordan Martinez,19690,Boise State,Walker Dempsey,20388,Stanford
+2016,11/22,Penn State - Stanford Dual,157,L,FALL,5:24,Jason Nolf,20303,Penn State,Walker Dempsey,20388,Stanford
+2016,11/08,Hokie Open,157,L,FALL,3:47,Robert Henderson,14761,North Carolina,Maxwell Hvolbek,15823,Stanford
+2016,11/08,Hokie Open,157,W,MFOR,0 - 0,Brian Hamann,13788,NC State,Maxwell Hvolbek,15823,Stanford
+2016,11/08,Hokie Open,157,L,DEC,14 - 8,Dayton Racer,39978,VA/Southeast Regional Training,Maxwell Hvolbek,15823,Stanford
+2016,11/07,Stanford - Chattanooga Dual,157,W,MD,14 - 2,Andrew Webb,39820,Chattanooga,Maxwell Hvolbek,15823,Stanford
+2016,11/02,Stanford - Cal Poly Dual,157,W,DEC,5 - 3,Colt Shorts,11611,Cal Poly,Maxwell Hvolbek,15823,Stanford
+2016,02/14,Stanford - Oklahoma State Dual,157,L,FALL,1:37,Hestin Lamons,20272,Oklahoma State,Nainoa Calvo,44361,Stanford
+2016,02/11,Boise State - Stanford Dual,157,L,FALL,3:25,Chris Castillo,14014,Boise State,Nainoa Calvo,44361,Stanford
+2016,02/07,California Collegiate Open,165,L,FALL,2:47,Fred Green,39780,Boise State,Nainoa Calvo,44361,Stanford
+2016,02/07,California Collegiate Open,165,L,DEC,6 - 0,Brandon Brenenstahl,19683,Boise State,Nainoa Calvo,44361,Stanford
+2016,11/01,SFSU JC/College Open,157,L,FALL,6:50,Noor Hathem,42741,Modesto Junior College,Nainoa Calvo,44361,Stanford
+2016,11/01,SFSU JC/College Open,157,L,MD,9 - 0,Romeo Medina,42092,San Francisco State,Nainoa Calvo,44361,Stanford
+2016,03/17,NCAA Championships,165,W,DEC,3 - 2,John Michael Staudenmayer,11516,North Carolina,Jim Wilson,11535,Stanford
+2016,03/17,NCAA Championships,165,L,DEC,4 - 1,Austin Wilson,11470,Nebraska,Jim Wilson,11535,Stanford
+2016,03/17,NCAA Championships,165,W,DEC,6 - 5,Tyler Buckwalter,15498,Kent State,Jim Wilson,11535,Stanford
+2016,03/17,NCAA Championships,165,L,DEC,5 - 1,Daniel Lewis,20062,Missouri,Jim Wilson,11535,Stanford
+2016,03/17,NCAA Championships,165,W,DEC,12 - 7,Patrick Rhoads,13455,Iowa,Jim Wilson,11535,Stanford
+2016,02/27,Pac 12 Championships,165,W,DEC,8 - 2,Jacen Petersen,20577,Arizona State,Jim Wilson,11535,Stanford
+2016,02/27,Pac 12 Championships,165,W,DEC,9 - 3,Taylor West,13744,Boise State,Jim Wilson,11535,Stanford
+2016,02/27,Pac 12 Championships,165,W,DEC,2 - 1,Adam Fierro,15184,CSU Bakersfield,Jim Wilson,11535,Stanford
+2016,02/14,Stanford - Oklahoma State Dual,165,L,MD,13 - 5,Alex Dieringer,13470,Oklahoma State,Jim Wilson,11535,Stanford
+2016,02/11,Boise State - Stanford Dual,165,W,MD,11 - 1,Taylor West,13744,Boise State,Jim Wilson,11535,Stanford
+2016,02/06,Stanford - Air Force Dual,165,W,DEC,5 - 1,Alexandre Lopouchanski,39855,Air Force,Jim Wilson,11535,Stanford
+2016,02/04,Oregon State - Stanford Dual,165,W,DEC,7 - 6,Seth Thomas,18159,Oregon State,Jim Wilson,11535,Stanford
+2016,01/23,West Virginia - Stanford Dual,165,W,MD,13 - 4,Connor Flynn,39676,West Virginia,Jim Wilson,11535,Stanford
+2016,01/23,Stanford - Arizona State Dual,165,W,MD,10 - 2,Preston McCalmon,13964,Arizona State,Jim Wilson,11535,Stanford
+2016,01/16,Duke - Stanford Dual,165,L,DEC,9 - 4,Jake Faust,13643,Duke,Jim Wilson,11535,Stanford
+2016,01/10,Stanford - Menlo (Calif.) Dual,165,W,FALL,2:01,Joseph Jauregui,43610,Menlo,Jim Wilson,11535,Stanford
+2016,01/10,Stanford - San Francisco State Dual,165,W,TF5,18 - 2 5:29,Tyson Kuahine,40835,San Francisco State,Jim Wilson,11535,Stanford
+2016,01/01,Southern Scuffle,165,L,DEC,7 - 3,Tyler Marinelli,20797,Gardner-Webb,Jim Wilson,11535,Stanford
+2016,01/01,Southern Scuffle,165,W,DEC,4 - 2,Garrett Peppelman,20431,Virginia,Jim Wilson,11535,Stanford
+2016,01/01,Southern Scuffle,165,L,DEC,6 - 1,Jake Faust,13643,Duke,Jim Wilson,11535,Stanford
+2016,12/20,Reno TOC,165,L,DEC,3 - 2,Steven Rodrigues,11888,Illinois,Jim Wilson,11535,Stanford
+2016,12/20,Reno TOC,165,W,DEC,2 - 1,Bryce Martin,20524,Indiana,Jim Wilson,11535,Stanford
+2016,12/20,Reno TOC,165,W,MD,11 - 3,Kyle Pope,16072,Wyoming,Jim Wilson,11535,Stanford
+2016,12/20,Reno TOC,165,W,FALL,4:16,Volodymyr Kalinin,43619,Highline Community College,Jim Wilson,11535,Stanford
+2016,12/20,Reno TOC,165,W,DEC,3 - 1,Jordan Atienza,19747,Central Michigan,Jim Wilson,11535,Stanford
+2016,12/17,CSU Bakersfield - Stanford Dual,165,W,MD,10 - 1,Adam Fierro,15184,CSU Bakersfield,Jim Wilson,11535,Stanford
+2016,11/22,Penn State - Stanford Dual,165,W,DEC,6 - 3,Shakur Rasheed,20305,Penn State,Jim Wilson,11535,Stanford
+2016,11/08,Hokie Open,165,W,MD,11 - 1,Matthew Rundell,39872,North Carolina,Jim Wilson,11535,Stanford
+2016,11/08,Hokie Open,165,W,FALL,1:05,Joseph Palmer Begley,42018,West Virginia,Jim Wilson,11535,Stanford
+2016,11/08,Hokie Open,165,L,DEC,6 - 2,Jake Faust,13643,Duke,Jim Wilson,11535,Stanford
+2016,11/08,Hokie Open,165,W,DEC,3 - 2,David McFadden,39633,Virginia Tech,Jim Wilson,11535,Stanford
+2016,11/07,Stanford - Chattanooga Dual,165,W,MD,20 - 7,Dominic Lampe,39819,Chattanooga,Jim Wilson,11535,Stanford
+2016,11/02,Stanford - Cal Poly Dual,165,W,MD,12 - 4,Xavier Johnson,13743,Cal Poly,Jim Wilson,11535,Stanford
+2016,02/14,Stanford - Oklahoma State Dual,174,L,TF5,18 - 3 6:46,Chandler Rogers,20559,Oklahoma State,Dylan Morris,20563,Stanford
+2016,02/07,California Collegiate Open,174,L,DEC,12 - 5,Andrew Morgan,40250,Cal Poly,Dylan Morris,20563,Stanford
+2016,02/07,California Collegiate Open,174,W,FALL,1:37,Bryan Battisto,19830,CSU Bakersfield,Dylan Morris,20563,Stanford
+2016,02/07,California Collegiate Open,174,W,FALL,2:04,Alex Contini,44283,Menlo,Dylan Morris,20563,Stanford
+2016,02/07,California Collegiate Open,174,W,DEC,6 - 4,Mike Marshall,40836,San Francisco State,Dylan Morris,20563,Stanford
+2016,02/07,California Collegiate Open,174,L,DEC,8 - 3,Keaton Subjeck,14567,Stanford,Dylan Morris,20563,Stanford
+2016,01/10,Stanford - San Francisco State Dual,174,W,DEC,6 - 0,Mike Marshall,40836,San Francisco State,Dylan Morris,20563,Stanford
+2016,12/20,Reno TOC,174,L,MD,11 - 0,Dylan Wisman,39507,Missouri,Dylan Morris,20563,Stanford
+2016,12/20,Reno TOC,174,W,DEC,6 - 4,Weston Dobler,39614,Oregon State,Dylan Morris,20563,Stanford
+2016,12/20,Reno TOC,174,L,MD,15 - 7,Chandler Rogers,20559,Oklahoma State,Dylan Morris,20563,Stanford
+2016,12/20,Reno TOC,174,W,MD,14 - 4,Matthew Olauson,20786,Campbell,Dylan Morris,20563,Stanford
+2016,11/15,Roadrunner Open,174,L,DEC,6 - 5,Justin Lozano,21769,Menlo,Dylan Morris,20563,Stanford
+2016,11/15,Roadrunner Open,174,W,MD,12 - 4,Slater Johnson,42035,Cal Baptist,Dylan Morris,20563,Stanford
+2016,11/15,Roadrunner Open,174,W,DEC,8 - 2,Mike Marshall,40836,San Francisco State,Dylan Morris,20563,Stanford
+2016,11/15,Roadrunner Open,174,W,DEC,5 - 0,Gabriel Fuentes,21446,San Francisco State,Dylan Morris,20563,Stanford
+2016,11/15,Roadrunner Open,174,L,DEC,6 - 0,Andrew Morgan,40250,Cal Poly,Dylan Morris,20563,Stanford
+2016,11/15,Roadrunner Open,174,L,DEC,6 - 2,Sohrab Movahedi,11537,Cal Poly,Dylan Morris,20563,Stanford
+2016,11/08,Hokie Open,174,W,DEC,5 - 3,Adis Radoncic,39571,North Carolina,Dylan Morris,20563,Stanford
+2016,11/08,Hokie Open,174,L,MD,14 - 2,Sean Mappes,19775,Chattanooga,Dylan Morris,20563,Stanford
+2016,11/08,Hokie Open,174,W,FALL,1:59,Kyle Rogers,40171,West Virginia,Dylan Morris,20563,Stanford
+2016,11/08,Hokie Open,174,L,DEC,7 - 4,Randy Roden,19867,Duke,Dylan Morris,20563,Stanford
+2016,11/01,SFSU JC/College Open,174,L,DEC,6 - 1,Justin Lozano,42768,Camden County Community College,Dylan Morris,20563,Stanford
+2016,11/01,SFSU JC/College Open,174,W,FALL,1:55,Hayden Aubut,42781,Shasta Community College,Dylan Morris,20563,Stanford
+2016,11/01,SFSU JC/College Open,174,W,FALL,1:57,Nick Callendar,42780,Cuesta,Dylan Morris,20563,Stanford
+2016,11/01,SFSU JC/College Open,174,W,FALL,4:04,Andrew Morgan,40250,Cal Poly,Dylan Morris,20563,Stanford
+2016,03/17,NCAA Championships,174,W,DEC,9 - 4,Ricky Robertson,14042,Wisconsin,Keaton Subjeck,14567,Stanford
+2016,03/17,NCAA Championships,174,L,DEC,3 - 1,Zac Brunson,15112,Illinois,Keaton Subjeck,14567,Stanford
+2016,03/17,NCAA Championships,174,L,DEC,7 - 4,Michael Pavasko,14800,Clarion,Keaton Subjeck,14567,Stanford
+2016,02/27,Pac 12 Championships,174,L,DEC,4 - 2,Bryce Hammond,12329,CSU Bakersfield,Keaton Subjeck,14567,Stanford
+2016,02/27,Pac 12 Championships,174,W,DEC,7 - 2,Tyler Chay,18454,Oregon State,Keaton Subjeck,14567,Stanford
+2016,02/27,Pac 12 Championships,174,W,DEC,5 - 3,Travis Berridge,14904,Cal Poly,Keaton Subjeck,14567,Stanford
+2016,02/21,US Collegiate Championships,174,W,MD,11 - 2,Willy Cogdill,40142,Wyoming,Keaton Subjeck,14567,Stanford
+2016,02/21,US Collegiate Championships,174,W,DEC,5 - 2,Connor McMahon,11496,SIU Edwardsville,Keaton Subjeck,14567,Stanford
+2016,02/21,US Collegiate Championships,174,W,DEC,9 - 2,Josh Mossing,39709,Air Force,Keaton Subjeck,14567,Stanford
+2016,02/11,Boise State - Stanford Dual,174,L,DEC,10 - 4,Austin Dewey,12380,Boise State,Keaton Subjeck,14567,Stanford
+2016,02/07,California Collegiate Open,174,L,MFOR,0 - 0,Justin Lozano,21769,Menlo,Keaton Subjeck,14567,Stanford
+2016,02/07,California Collegiate Open,174,W,DEC,8 - 3,Dylan Morris,20563,Stanford,Keaton Subjeck,14567,Stanford
+2016,02/07,California Collegiate Open,174,W,DEC,4 - 1,Ali Alshujery,20290,Oregon State,Keaton Subjeck,14567,Stanford
+2016,02/07,California Collegiate Open,174,W,MD,11 - 1,Bryan Battisto,19830,CSU Bakersfield,Keaton Subjeck,14567,Stanford
+2016,01/10,Stanford - San Francisco State Dual,197,W,MD,14 - 0,Calvin Nicholls,22384,San Francisco State,Keaton Subjeck,14567,Stanford
+2016,12/20,Reno TOC,174,W,TF5,15 - 0 6:45,Dylan Wisman,39507,Missouri,Keaton Subjeck,14567,Stanford
+2016,12/20,Reno TOC,174,L,DEC,9 - 5,Chandler Rogers,20559,Oklahoma State,Keaton Subjeck,14567,Stanford
+2016,12/20,Reno TOC,174,W,FALL,2:21,Benjamin Stroh,12647,Wyoming,Keaton Subjeck,14567,Stanford
+2016,12/20,Reno TOC,174,W,FALL,0:49,Cody Johnston,12284,Missouri,Keaton Subjeck,14567,Stanford
+2016,12/20,Reno TOC,174,W,TF5,22 - 7 7:00,Dylan Wisman,39507,Missouri,Keaton Subjeck,14567,Stanford
+2016,12/20,Reno TOC,174,L,MD,8 - 0,Nate Jackson,12264,Indiana,Keaton Subjeck,14567,Stanford
+2016,12/20,Reno TOC,174,W,FALL,0:26,Jordan Luhrs,43620,Unattached,Keaton Subjeck,14567,Stanford
+2016,12/20,Reno TOC,174,W,MD,16 - 3,Ali Alshujery,20290,Oregon State,Keaton Subjeck,14567,Stanford
+2016,12/17,CSU Bakersfield - Stanford Dual,174,L,DEC,10 - 8,Bryce Hammond,12329,CSU Bakersfield,Keaton Subjeck,14567,Stanford
+2016,11/22,Penn State - Stanford Dual,174,L,MD,12 - 4,Bo Nickal,20302,Penn State,Keaton Subjeck,14567,Stanford
+2016,11/08,Hokie Open,174,W,FALL,0:34,Barrett Walthall,12370,Chattanooga,Keaton Subjeck,14567,Stanford
+2016,11/08,Hokie Open,174,W,FALL,1:05,Lance Armenta,40328,North Carolina,Keaton Subjeck,14567,Stanford
+2016,11/08,Hokie Open,174,L,DEC,3 - 1,Bryce Carr,39936,Chattanooga,Keaton Subjeck,14567,Stanford
+2016,11/08,Hokie Open,174,W,FALL,1:55,Randy Roden,19867,Duke,Keaton Subjeck,14567,Stanford
+2016,11/08,Hokie Open,174,W,FALL,0:40,Brian Dorsey,14869,Duke,Keaton Subjeck,14567,Stanford
+2016,11/07,Stanford - Chattanooga Dual,174,W,MD,14 - 4,Sean Mappes,19775,Chattanooga,Keaton Subjeck,14567,Stanford
+2016,11/02,Stanford - Cal Poly Dual,174,W,MD,9 - 1,Sohrab Movahedi,11537,Cal Poly,Keaton Subjeck,14567,Stanford
+2016,03/17,NCAA Championships,184,W,DEC,7 - 5,Ryan Christensen,20481,Wisconsin,Garet Krohn,12464,Stanford
+2016,03/17,NCAA Championships,184,L,DEC,11 - 4,Mathew Miller,12876,Navy,Garet Krohn,12464,Stanford
+2016,03/17,NCAA Championships,184,L,MD,10 - 2,TJ Dudley,12526,Nebraska,Garet Krohn,12464,Stanford
+2016,02/27,Pac 12 Championships,184,L,DEC,10 - 8,Corey Griego,20292,Oregon State,Garet Krohn,12464,Stanford
+2016,02/27,Pac 12 Championships,184,W,DEC,8 - 2,Jesus Ambriz,12379,CSU Bakersfield,Garet Krohn,12464,Stanford
+2016,02/27,Pac 12 Championships,184,W,MD,12 - 0,Zach Coffman,16305,Boise State,Garet Krohn,12464,Stanford
+2016,02/27,Pac 12 Championships,184,W,MD,14 - 0,Jesus Ambriz,12379,CSU Bakersfield,Garet Krohn,12464,Stanford
+2016,02/21,US Collegiate Championships,184,W,DEC,7 - 3,Zen Ikehara,20707,Air Force,Garet Krohn,12464,Stanford
+2016,02/21,US Collegiate Championships,184,W,MD,13 - 4,John Hagey,20705,Air Force,Garet Krohn,12464,Stanford
+2016,02/21,US Collegiate Championships,184,W,MD,15 - 2,Noah Irons,20708,Air Force,Garet Krohn,12464,Stanford
+2016,02/14,Stanford - Oklahoma State Dual,184,L,DEC,4 - 1,Nolan Boyd,12399,Oklahoma State,Garet Krohn,12464,Stanford
+2016,02/11,Boise State - Stanford Dual,184,W,DEC,6 - 2,Zach Coffman,16305,Boise State,Garet Krohn,12464,Stanford
+2016,02/06,Stanford - Air Force Dual,184,W,MD,12 - 2,Zen Ikehara,20707,Air Force,Garet Krohn,12464,Stanford
+2016,02/04,Oregon State - Stanford Dual,184,L,DEC,7 - 0,Corey Griego,20292,Oregon State,Garet Krohn,12464,Stanford
+2016,01/23,West Virginia - Stanford Dual,184,W,DEC,3 - 2,Bubba Scheffel,20475,West Virginia,Garet Krohn,12464,Stanford
+2016,01/23,Stanford - Arizona State Dual,184,L,DEC,6 - 2,Blake Stauffer,12447,Arizona State,Garet Krohn,12464,Stanford
+2016,01/16,Duke - Stanford Dual,184,W,DEC,9 - 4,Trey Adamson,12787,Duke,Garet Krohn,12464,Stanford
+2016,01/15,Utah Valley - Stanford Dual,184,W,MD,10 - 2,Will Sumner,20419,Utah Valley,Garet Krohn,12464,Stanford
+2016,01/01,Southern Scuffle,184,L,DEC,9 - 3,Alex Utley,12621,North Carolina,Garet Krohn,12464,Stanford
+2016,01/01,Southern Scuffle,184,W,DEC,5 - 3,John Lampe,12444,Chattanooga,Garet Krohn,12464,Stanford
+2016,01/01,Southern Scuffle,184,L,DEC,5 - 2,Lorenzo Thomas,12543,Pennsylvania,Garet Krohn,12464,Stanford
+2016,01/01,Southern Scuffle,184,W,DEC,8 - 5,Jordan Ellingwood,14564,Central Michigan,Garet Krohn,12464,Stanford
+2016,01/01,Southern Scuffle,184,W,MFOR,0 - 0,Matt McCutcheon,12572,Penn State,Garet Krohn,12464,Stanford
+2016,01/01,Southern Scuffle,184,W,DEC,8 - 3,Nick Corba,12817,Cleveland State,Garet Krohn,12464,Stanford
+2016,01/01,Southern Scuffle,184,W,MFOR,0 - 0,Shwan Shadaia,20759,Michigan State,Garet Krohn,12464,Stanford
+2016,01/01,Southern Scuffle,184,L,MD,13 - 4,Jordan Rogers,12544,Oklahoma State,Garet Krohn,12464,Stanford
+2016,11/22,Penn State - Stanford Dual,184,L,DEC,6 - 3,Matt McCutcheon,12572,Penn State,Garet Krohn,12464,Stanford
+2016,11/15,Roadrunner Open,184,W,DEC,5 - 2,Ryan Davies,12528,Stanford,Garet Krohn,12464,Stanford
+2016,11/15,Roadrunner Open,184,W,DEC,8 - 1,Jesus Ambriz,12379,CSU Bakersfield,Garet Krohn,12464,Stanford
+2016,11/15,Roadrunner Open,184,W,DEC,7 - 4,Mitch Woods,19746,Cal Poly,Garet Krohn,12464,Stanford
+2016,11/15,Roadrunner Open,184,W,DEC,5 - 1,Stephen Loiseau,19851,Drexel,Garet Krohn,12464,Stanford
+2016,02/06,Stanford - Air Force Dual,174,L,DEC,4 - 2,Adam Jackson,16161,Air Force,Peter Galli,15320,Stanford
+2016,02/04,Oregon State - Stanford Dual,174,W,DEC,8 - 5,Tyler Chay,18454,Oregon State,Peter Galli,15320,Stanford
+2016,01/23,West Virginia - Stanford Dual,174,W,FALL,4:30,Ross Renzi,11474,West Virginia,Peter Galli,15320,Stanford
+2016,01/23,Stanford - Arizona State Dual,174,W,FALL,5:36,Jacen Petersen,20577,Arizona State,Peter Galli,15320,Stanford
+2016,01/16,Duke - Stanford Dual,174,W,MD,10 - 2,Alec Schenk,19869,Duke,Peter Galli,15320,Stanford
+2016,01/15,Utah Valley - Stanford Dual,174,W,TF5,16 - 0 7:00,Ross Taylor,15548,Utah Valley,Peter Galli,15320,Stanford
+2016,01/09,California Baptist (Calif.) - Stanford Dual,174,W,DEC,5 - 2,Christian Smith,21504,Cal Baptist,Peter Galli,15320,Stanford
+2016,01/01,Southern Scuffle,174,W,DEC,2 - 1,Ryan Harman,12794,Navy,Peter Galli,15320,Stanford
+2016,01/01,Southern Scuffle,174,L,DEC,6 - 1,Mike Ottinger,12372,Central Michigan,Peter Galli,15320,Stanford
+2016,01/01,Southern Scuffle,174,L,DEC,7 - 1,Andrew Morgan,40250,Cal Poly,Peter Galli,15320,Stanford
+2016,12/20,Reno TOC,174,L,DEC,6 - 2,Austin Dewey,12380,Boise State,Peter Galli,15320,Stanford
+2016,12/20,Reno TOC,174,W,FALL,1:26,Stone Escobedo,42076,Menlo,Peter Galli,15320,Stanford
+2016,12/20,Reno TOC,174,L,DEC,4 - 3,Mike Ottinger,12372,Central Michigan,Peter Galli,15320,Stanford
+2016,11/15,Roadrunner Open,184,L,DEC,5 - 3,Thomas Kimbrell,12473,Stanford,Peter Galli,15320,Stanford
+2016,11/15,Roadrunner Open,184,W,DEC,8 - 3,Johnathon Costa,21778,San Francisco State,Peter Galli,15320,Stanford
+2016,11/15,Roadrunner Open,184,W,MD,10 - 2,Zach Nevills,12328,Stanford,Peter Galli,15320,Stanford
+2016,11/15,Roadrunner Open,184,W,MD,10 - 1,Dylan Bollinger,19831,CSU Bakersfield,Peter Galli,15320,Stanford
+2016,11/15,Roadrunner Open,184,L,DEC,4 - 2,Stephen Loiseau,19851,Drexel,Peter Galli,15320,Stanford
+2016,11/08,Hokie Open,184,W,DEC,7 - 2,Derek Thurman,12406,VMI,Peter Galli,15320,Stanford
+2016,11/08,Hokie Open,184,L,DEC,8 - 3,Alex Utley,12621,North Carolina,Peter Galli,15320,Stanford
+2016,11/08,Hokie Open,184,W,DEC,11 - 4,Conor Murray,22721,Notre Dame,Peter Galli,15320,Stanford
+2016,11/08,Hokie Open,184,W,DEC,6 - 4,Alex Belaia-Martiniouk,12640,Duke,Peter Galli,15320,Stanford
+2016,11/08,Hokie Open,184,L,FALL,0:33,Trey Adamson,12787,Duke,Peter Galli,15320,Stanford
+2016,11/02,Stanford - Cal Poly Dual,184,W,SV-1,12 - 10,Mitch Woods,19746,Cal Poly,Peter Galli,15320,Stanford
+2016,12/20,Reno TOC,184,L,FALL,0:46,Morgan Smith,21880,Simon Fraser,Thomas Kimbrell,12473,Stanford
+2016,12/20,Reno TOC,184,L,DEC,5 - 2,Derek Hillman,19872,Eastern Michigan,Thomas Kimbrell,12473,Stanford
+2016,12/20,Reno TOC,184,W,DEC,6 - 0,Mark Penyacsek,40163,CSU Bakersfield,Thomas Kimbrell,12473,Stanford
+2016,11/15,Roadrunner Open,184,W,DEC,5 - 3,Zach Nevills,12328,Stanford,Thomas Kimbrell,12473,Stanford
+2016,11/15,Roadrunner Open,184,W,DEC,3 - 1,Jesus Ambriz,12379,CSU Bakersfield,Thomas Kimbrell,12473,Stanford
+2016,11/15,Roadrunner Open,184,W,DEC,5 - 3,Peter Galli,15320,Stanford,Thomas Kimbrell,12473,Stanford
+2016,11/15,Roadrunner Open,184,W,DEC,6 - 3,Ryan Davies,12528,Stanford,Thomas Kimbrell,12473,Stanford
+2016,11/15,Roadrunner Open,184,W,MD,16 - 4,Jeff Sanchez,40234,Cal Poly,Thomas Kimbrell,12473,Stanford
+2016,11/15,Roadrunner Open,184,L,DEC,2 - 2,Stephen Loiseau,19851,Drexel,Thomas Kimbrell,12473,Stanford
+2016,02/27,Pac 12 Championships,197,L,MD,10 - 0,Cody Crawford,16468,Oregon State,Zach Nevills,12328,Stanford
+2016,02/27,Pac 12 Championships,197,W,FALL,4:38,Kadyn Del toro,44256,Boise State,Zach Nevills,12328,Stanford
+2016,02/27,Pac 12 Championships,197,L,DEC,11 - 4,JT Goodwin,19740,Cal Poly,Zach Nevills,12328,Stanford
+2016,02/14,Stanford - Oklahoma State Dual,197,L,TF5,17 - 0 6:17,Andrew Marsden,39548,Oklahoma State,Zach Nevills,12328,Stanford
+2016,02/07,California Collegiate Open,197,W,SV-1,4 - 0,Thomas Lane,39966,Cal Poly,Zach Nevills,12328,Stanford
+2016,02/07,California Collegiate Open,197,W,DEC,3 - 2,David Showunmi,39853,Stanford,Zach Nevills,12328,Stanford
+2016,02/07,California Collegiate Open,197,W,SV-2,6 - 4,Thomas Lane,39966,Cal Poly,Zach Nevills,12328,Stanford
+2016,02/07,California Collegiate Open,197,W,FALL,7:00,Kenneth Walther,43647,Clackamas Community College,Zach Nevills,12328,Stanford
+2016,02/04,Oregon State - Stanford Dual,197,L,DEC,11 - 7,Cody Crawford,16468,Oregon State,Zach Nevills,12328,Stanford
+2016,01/10,Stanford - Menlo (Calif.) Dual,184,W,TF5,18 - 2 7:00,Nick Karis,24048,Menlo,Zach Nevills,12328,Stanford
+2016,01/10,Stanford - San Francisco State Dual,184,W,TF5,17 - 0 5:29,Gabriel Fuentes,21446,San Francisco State,Zach Nevills,12328,Stanford
+2016,01/09,California Baptist (Calif.) - Stanford Dual,184,L,DEC,2 - 0,Jacob Waste,23461,Cal Baptist,Zach Nevills,12328,Stanford
+2016,01/01,Southern Scuffle,184,W,FALL,3:28,McCoy Newberg,19777,Chattanooga,Zach Nevills,12328,Stanford
+2016,01/01,Southern Scuffle,184,L,DEC,7 - 1,Hunter Gamble,12878,Gardner-Webb,Zach Nevills,12328,Stanford
+2016,01/01,Southern Scuffle,184,L,MD,11 - 1,Ville Heino,12518,Campbell,Zach Nevills,12328,Stanford
+2016,01/01,Southern Scuffle,184,W,FALL,4:52,Chris Laird,24761,Edinboro,Zach Nevills,12328,Stanford
+2016,12/20,Reno TOC,184,L,SV-1,1 - 0,Emery Parker,19939,Illinois,Zach Nevills,12328,Stanford
+2016,12/20,Reno TOC,184,L,DEC,3 - 1,Jace Jensen,12336,Wyoming,Zach Nevills,12328,Stanford
+2016,12/20,Reno TOC,184,W,DEC,3 - 2,Mitch Woods,19746,Cal Poly,Zach Nevills,12328,Stanford
+2016,12/20,Reno TOC,184,W,FALL,6:19,Cole DePasquale,39810,Stanford,Zach Nevills,12328,Stanford
+2016,12/20,Reno TOC,184,L,DEC,3 - 1,Emery Parker,19939,Illinois,Zach Nevills,12328,Stanford
+2016,12/20,Reno TOC,184,W,FALL,4:13,Nate Rodriguez,42077,Menlo,Zach Nevills,12328,Stanford
+2016,12/17,CSU Bakersfield - Stanford Dual,184,W,DEC,7 - 0,Dylan Bollinger,19831,CSU Bakersfield,Zach Nevills,12328,Stanford
+2016,11/15,Roadrunner Open,184,L,DEC,5 - 3,Thomas Kimbrell,12473,Stanford,Zach Nevills,12328,Stanford
+2016,11/15,Roadrunner Open,184,L,MD,10 - 2,Peter Galli,15320,Stanford,Zach Nevills,12328,Stanford
+2016,11/15,Roadrunner Open,184,W,DEC,2 - 0,Ryan Anderson,42078,Cal Poly,Zach Nevills,12328,Stanford
+2016,11/15,Roadrunner Open,184,W,DEC,6 - 2,Chris Laird,24761,Edinboro,Zach Nevills,12328,Stanford
+2016,12/20,Reno TOC,184,L,MD,11 - 3,Danny Hicks,16403,Illinois,Ryan Davies,12528,Stanford
+2016,12/20,Reno TOC,184,L,MD,16 - 4,Ville Heino,12518,Campbell,Ryan Davies,12528,Stanford
+2016,11/15,Roadrunner Open,184,L,FALL,3:22,Johnathon Costa,21778,San Francisco State,Ryan Davies,12528,Stanford
+2016,11/15,Roadrunner Open,184,L,DEC,6 - 3,Thomas Kimbrell,12473,Stanford,Ryan Davies,12528,Stanford
+2016,11/15,Roadrunner Open,184,W,DEC,3 - 2,Johnathon Costa,21778,San Francisco State,Ryan Davies,12528,Stanford
+2016,11/15,Roadrunner Open,184,L,DEC,5 - 2,Garet Krohn,12464,Stanford,Ryan Davies,12528,Stanford
+2016,11/15,Roadrunner Open,184,W,TF5,17 - 0 4:13,Chris Laird,24761,Edinboro,Ryan Davies,12528,Stanford
+2016,11/08,Hokie Open,184,L,FALL,5:58,John Lampe,12444,Chattanooga,Ryan Davies,12528,Stanford
+2016,11/08,Hokie Open,184,W,DEC,4 - 1,Albert Bryant,42886,Notre Dame,Ryan Davies,12528,Stanford
+2016,11/08,Hokie Open,184,W,MD,10 - 2,Spencer Neff,14621,Duke,Ryan Davies,12528,Stanford
+2016,11/08,Hokie Open,184,L,MD,14 - 3,Zack Zavatsky,20460,Virginia Tech,Ryan Davies,12528,Stanford
+2016,11/07,Stanford - Chattanooga Dual,184,L,MD,17 - 6,John Lampe,12444,Chattanooga,Ryan Davies,12528,Stanford
+2016,11/07,Bill Musick Open,184,L,MD,14 - 5,Nicholas Fiegener,41681,Cal Baptist,Austin Flores,39999,Stanford
+2016,11/07,Bill Musick Open,184,W,DEC,11 - 7,Nick Rohrer,41680,Sacramento City College,Austin Flores,39999,Stanford
+2016,11/07,Bill Musick Open,184,W,FALL,1:17,Robbie Nickerson,41679,Sacramento City College,Austin Flores,39999,Stanford
+2016,11/07,Bill Musick Open,184,W,FALL,1:08,Cameron Macleod,41678,Unattached,Austin Flores,39999,Stanford
+2016,11/01,SFSU JC/College Open,184,W,DEC,9 - 4,Stephen Martin,42782,Skyline College,Austin Flores,39999,Stanford
+2016,11/01,SFSU JC/College Open,184,W,TF5,17 - 0 7:00,Bill Robinson,42783,Shasta Community College,Austin Flores,39999,Stanford
+2016,11/01,SFSU JC/College Open,184,L,DEC,7 - 6,Dylan Bollinger,19831,CSU Bakersfield,Austin Flores,39999,Stanford
+2016,11/01,SFSU JC/College Open,184,W,MD,13 - 1,Mark Penyacsek,40163,CSU Bakersfield,Austin Flores,39999,Stanford
+2016,02/07,California Collegiate Open,184,L,MD,11 - 3,Morgan Smith,21880,Simon Fraser,Nathan Morris,15387,Stanford
+2016,02/07,California Collegiate Open,184,W,FALL,2:06,Matt Penyacsek,40164,CSU Bakersfield,Nathan Morris,15387,Stanford
+2016,02/07,California Collegiate Open,184,W,DEC,14 - 9,Nate Rodriguez,42077,Menlo,Nathan Morris,15387,Stanford
+2016,11/15,Roadrunner Open,184,L,MD,11 - 2,Johnathon Costa,21778,San Francisco State,Nathan Morris,15387,Stanford
+2016,11/15,Roadrunner Open,184,L,DEC,7 - 5,Chris Laird,24761,Edinboro,Nathan Morris,15387,Stanford
+2016,11/01,SFSU JC/College Open,184,W,FALL,1:12,Stephen Martin,42782,Skyline College,Nathan Morris,15387,Stanford
+2016,11/01,SFSU JC/College Open,184,W,FALL,1:09,Adam Darvish,42769,Modesto Junior College,Nathan Morris,15387,Stanford
+2016,11/01,SFSU JC/College Open,184,L,DEC,6 - 2,Tanner Reeves,42770,San Francisco State,Nathan Morris,15387,Stanford
+2016,11/01,SFSU JC/College Open,184,L,DEC,3 - 1,Jeff Sanchez,40234,Cal Poly,Nathan Morris,15387,Stanford
+2016,01/24,Clackamas Open,184,W,MD,10 - 1,Corson Davis,41558,Southern Oregon,Cole DePasquale,39810,Stanford
+2016,01/24,Clackamas Open,184,L,DEC,3 - 0,Morgan Smith,21880,Simon Fraser,Cole DePasquale,39810,Stanford
+2016,01/24,Clackamas Open,184,W,MD,10 - 1,Chase Anderson,41555,Southwestern Oregon Community College,Cole DePasquale,39810,Stanford
+2016,01/24,Clackamas Open,184,W,MD,8 - 0,Zachary Hammerschmith,44284,Southwestern Oregon Community College,Cole DePasquale,39810,Stanford
+2016,01/24,Clackamas Open,184,L,DEC,8 - 4,Haszell West,21887,Clackamas Community College,Cole DePasquale,39810,Stanford
+2016,12/20,Reno TOC,184,L,DEC,4 - 0,Brady Beamon,43621,Simpson,Cole DePasquale,39810,Stanford
+2016,12/20,Reno TOC,184,W,DEC,8 - 5,Zach Coffman,16305,Boise State,Cole DePasquale,39810,Stanford
+2016,12/20,Reno TOC,184,L,FALL,6:19,Zach Nevills,12328,Stanford,Cole DePasquale,39810,Stanford
+2016,02/11,Boise State - Stanford Dual,197,W,DEC,2 - 0,Kadyn Del toro,44256,Boise State,Michael Sojka,12633,Stanford
+2016,02/06,Stanford - Air Force Dual,197,L,MD,14 - 6,Parker Hines,13041,Air Force,Michael Sojka,12633,Stanford
+2016,01/23,West Virginia - Stanford Dual,197,L,DEC,7 - 0,Jake A Smith,23323,West Virginia,Michael Sojka,12633,Stanford
+2016,01/23,Stanford - Arizona State Dual,197,L,DEC,7 - 1,Josh DaSilveira,13017,Arizona State,Michael Sojka,12633,Stanford
+2016,01/16,Duke - Stanford Dual,197,L,FALL,4:36,Conner Hartmann,13169,Duke,Michael Sojka,12633,Stanford
+2016,01/15,Utah Valley - Stanford Dual,197,W,TF5,17 - 0 7:00,Aryton Almberg,13048,Utah Valley,Michael Sojka,12633,Stanford
+2016,01/10,Stanford - Menlo (Calif.) Dual,197,W,DEC,7 - 2,Erick Parsons,23983,Menlo,Michael Sojka,12633,Stanford
+2016,01/09,California Baptist (Calif.) - Stanford Dual,197,W,DEC,2 - 0,Bryce Benlian,42544,Cal Baptist,Michael Sojka,12633,Stanford
+2016,11/15,Roadrunner Open,197,L,MD,14 - 5,Reuben Franklin,13142,CSU Bakersfield,Michael Sojka,12633,Stanford
+2016,11/15,Roadrunner Open,197,W,TF5,18 - 1 6:22,Kaine Cole,42023,Menlo,Michael Sojka,12633,Stanford
+2016,11/15,Roadrunner Open,197,W,MD,11 - 0,Thomas Lane,39966,Cal Poly,Michael Sojka,12633,Stanford
+2016,11/15,Roadrunner Open,197,L,DEC,8 - 4,Vince Pickett,13060,Edinboro,Michael Sojka,12633,Stanford
+2016,11/15,Roadrunner Open,197,W,DEC,2 - 0,Nezar Haddad,19850,Drexel,Michael Sojka,12633,Stanford
+2016,11/08,Hokie Open,197,W,DEC,6 - 3,Chance McClure,20430,Virginia,Michael Sojka,12633,Stanford
+2016,11/08,Hokie Open,197,W,DEC,4 - 2,Brett Dempsey,12443,American,Michael Sojka,12633,Stanford
+2016,11/08,Hokie Open,197,W,MD,10 - 1,Connor O'Brien,39952,Old Dominion,Michael Sojka,12633,Stanford
+2016,11/08,Hokie Open,197,L,DEC,5 - 1,Chip Ness,20118,North Carolina,Michael Sojka,12633,Stanford
+2016,11/08,Hokie Open,197,W,DEC,1 - 0,Ira Dent,12620,Chattanooga,Michael Sojka,12633,Stanford
+2016,11/07,Stanford - Chattanooga Dual,197,L,DEC,8 - 3,Scottie Boykin,12756,Chattanooga,Michael Sojka,12633,Stanford
+2016,11/02,Stanford - Cal Poly Dual,197,L,FALL,2:03,JT Goodwin,19740,Cal Poly,Michael Sojka,12633,Stanford
+2016,02/07,California Collegiate Open,197,W,DEC,4 - 2,Mark Penyacsek,40163,CSU Bakersfield,David Showunmi,39853,Stanford
+2016,02/07,California Collegiate Open,197,W,DEC,8 - 3,Ciaran Ball,21890,Simon Fraser,David Showunmi,39853,Stanford
+2016,02/07,California Collegiate Open,197,L,DEC,3 - 2,Zach Nevills,12328,Stanford,David Showunmi,39853,Stanford
+2016,12/20,Reno TOC,197,L,INJ,7:00,Jackson Lewis,13107,Central Michigan,David Showunmi,39853,Stanford
+2016,12/20,Reno TOC,197,W,DEC,5 - 2,Ciaran Ball,21890,Simon Fraser,David Showunmi,39853,Stanford
+2016,12/20,Reno TOC,197,L,DEC,2 - 0,Thomas Lane,39966,Cal Poly,David Showunmi,39853,Stanford
+2016,11/01,SFSU JC/College Open,197,W,SV-1,8 - 6,Nate Rodriguez,42077,Menlo,David Showunmi,39853,Stanford
+2016,11/01,SFSU JC/College Open,197,W,INJ,7:00,Anthony Rivero,42786,Skyline College,David Showunmi,39853,Stanford
+2016,11/01,SFSU JC/College Open,197,L,DEC,8 - 4,Nick Karis,42753,Camden County Community College,David Showunmi,39853,Stanford
+2016,11/01,SFSU JC/College Open,197,W,FALL,2:41,Coleman Maher,42784,Skyline College,David Showunmi,39853,Stanford
+2016,11/01,SFSU JC/College Open,197,L,DEC,7 - 3,Thomas Lane,39966,Cal Poly,David Showunmi,39853,Stanford
+2016,12/20,Reno TOC,197,L,INJ,7:00,Adrian Salas,21792,Boise State,Boomer Fleming,20389,Stanford
+2016,12/20,Reno TOC,197,L,DEC,10 - 3,JT Goodwin,19740,Cal Poly,Boomer Fleming,20389,Stanford
+2016,12/20,Reno TOC,197,W,MFOR,0 - 0,Derek Thomas,13020,Utah Valley,Boomer Fleming,20389,Stanford
+2016,12/17,CSU Bakersfield - Stanford Dual,197,L,MD,11 - 2,Reuben Franklin,13142,CSU Bakersfield,Boomer Fleming,20389,Stanford
+2016,11/22,Penn State - Stanford Dual,197,L,FALL,4:11,Morgan McIntosh,13012,Penn State,Boomer Fleming,20389,Stanford
+2016,11/15,Roadrunner Open,197,W,FALL,1:36,Calvin Nicholls,22384,San Francisco State,Boomer Fleming,20389,Stanford
+2016,11/15,Roadrunner Open,197,W,FALL,5:21,Jason Snelson,42079,Simpson,Boomer Fleming,20389,Stanford
+2016,11/15,Roadrunner Open,197,L,MD,13 - 4,JT Goodwin,19740,Cal Poly,Boomer Fleming,20389,Stanford
+2016,11/15,Roadrunner Open,197,L,DEC,7 - 1,Nezar Haddad,19850,Drexel,Boomer Fleming,20389,Stanford
+2016,11/08,Hokie Open,197,L,DEC,3 - 1,Chance McClure,20430,Virginia,Boomer Fleming,20389,Stanford
+2016,11/08,Hokie Open,197,W,MFOR,0 - 0,Zach Bennett,12545,Gardner-Webb,Boomer Fleming,20389,Stanford
+2016,11/08,Hokie Open,197,L,TF5,16 - 0 7:00,Conner Hartmann,13169,Duke,Boomer Fleming,20389,Stanford
+2016,11/01,SFSU JC/College Open,197,W,DEC,2 - 1,Talyn Latour,42785,Camden County Community College,Boomer Fleming,20389,Stanford
+2016,11/01,SFSU JC/College Open,197,W,FALL,1:20,Coleman Maher,42784,Skyline College,Boomer Fleming,20389,Stanford
+2016,11/01,SFSU JC/College Open,197,L,DEC,7 - 2,Thomas Lane,39966,Cal Poly,Boomer Fleming,20389,Stanford
+2016,11/15,Roadrunner Open,197,L,MFOR,0 - 0,Calvin Nicholls,22384,San Francisco State,Cody Maly,40000,Stanford
+2016,11/15,Roadrunner Open,197,L,INJ,7:00,Richie Brandt,41836,Utah Valley,Cody Maly,40000,Stanford
+2016,03/17,NCAA Championships,285,W,DEC,7 - 0,Raymond O'Donnell,37426,Princeton,Nathan Butler,14443,Stanford
+2016,03/17,NCAA Championships,285,L,MD,16 - 4,Nick Gwiazdowski,14221,NC State,Nathan Butler,14443,Stanford
+2016,03/17,NCAA Championships,285,L,DEC,5 - 1,Michael Kroells,14331,Minnesota,Nathan Butler,14443,Stanford
+2016,03/17,NCAA Championships,285,W,DEC,1 - 0,Garrett Ryan,13538,Columbia,Nathan Butler,14443,Stanford
+2016,02/27,Pac 12 Championships,285,L,MD,19 - 5,Amarveer Dhesi,14223,Oregon State,Nathan Butler,14443,Stanford
+2016,02/27,Pac 12 Championships,285,W,DEC,5 - 3,Matt Williams,16442,CSU Bakersfield,Nathan Butler,14443,Stanford
+2016,02/27,Pac 12 Championships,285,W,DEC,4 - 2,Tanner Hall,40231,Arizona State,Nathan Butler,14443,Stanford
+2016,02/14,Stanford - Oklahoma State Dual,285,L,SV-1,3 - 1,Austin Marsden,14130,Oklahoma State,Nathan Butler,14443,Stanford
+2016,02/11,Boise State - Stanford Dual,285,W,FALL,5:31,Gabriel Gonzalez,19688,Boise State,Nathan Butler,14443,Stanford
+2016,02/06,Stanford - Air Force Dual,285,W,MD,9 - 0,Marcus Malecek,14376,Air Force,Nathan Butler,14443,Stanford
+2016,02/04,Oregon State - Stanford Dual,285,L,DEC,8 - 6,Amarveer Dhesi,14223,Oregon State,Nathan Butler,14443,Stanford
+2016,01/23,West Virginia - Stanford Dual,285,W,DEC,8 - 1,AJ Vizcarrondo,14266,West Virginia,Nathan Butler,14443,Stanford
+2016,01/23,Stanford - Arizona State Dual,285,W,DEC,1 - 0,Tanner Hall,40231,Arizona State,Nathan Butler,14443,Stanford
+2016,01/16,Duke - Stanford Dual,285,W,MD,13 - 0,Brendan Walsh,14355,Duke,Nathan Butler,14443,Stanford
+2016,01/15,Utah Valley - Stanford Dual,285,W,DEC,2 - 0,Dustin Dennison,20409,Utah Valley,Nathan Butler,14443,Stanford
+2016,01/10,Stanford - Menlo (Calif.) Dual,285,W,FALL,0:54,Brady Riveria,42038,Menlo,Nathan Butler,14443,Stanford
+2016,01/10,Stanford - San Francisco State Dual,285,W,MD,9 - 0,Sam Alnassiri,21439,San Francisco State,Nathan Butler,14443,Stanford
+2016,01/01,Southern Scuffle,285,W,SV-1,3 - 1,Newton Smerchek,14224,Central Michigan,Nathan Butler,14443,Stanford
+2016,01/01,Southern Scuffle,285,W,MD,9 - 1,Cary Miller,39976,Appalachian State,Nathan Butler,14443,Stanford
+2016,01/01,Southern Scuffle,285,L,DEC,2 - 1,Max Wessell,20550,Lehigh,Nathan Butler,14443,Stanford
+2016,01/01,Southern Scuffle,285,W,DEC,7 - 2,Billy Miller,20725,Edinboro,Nathan Butler,14443,Stanford
+2016,01/01,Southern Scuffle,285,W,DEC,3 - 1,Billy Miller,20725,Edinboro,Nathan Butler,14443,Stanford
+2016,01/01,Southern Scuffle,285,L,TB-1,4 - 1,Austin Marsden,14130,Oklahoma State,Nathan Butler,14443,Stanford
+2016,12/20,Reno TOC,285,W,FALL,2:13,Toby Cheff,43623,Montana State-Northern,Nathan Butler,14443,Stanford
+2016,12/20,Reno TOC,285,W,DEC,6 - 0,Chance Eskam,39923,Arizona State,Nathan Butler,14443,Stanford
+2016,12/20,Reno TOC,285,L,DEC,4 - 3,Tanner Harms,14340,Wyoming,Nathan Butler,14443,Stanford
+2016,12/20,Reno TOC,285,W,FALL,2:58,Jere Heino,40434,Campbell,Nathan Butler,14443,Stanford
+2016,12/20,Reno TOC,285,W,FALL,2:39,Sullivan Cauley,20567,Arizona State,Nathan Butler,14443,Stanford
+2016,12/20,Reno TOC,285,W,FALL,0:47,Mario Luevano,43622,Highline Community College,Nathan Butler,14443,Stanford
+2016,12/17,CSU Bakersfield - Stanford Dual,285,W,FALL,6:54,Matt Williams,16442,CSU Bakersfield,Nathan Butler,14443,Stanford
+2016,11/08,Hokie Open,285,W,TF5,18 - 1 7:00,Mitchel Thomas,15109,North Carolina,Nathan Butler,14443,Stanford
+2016,11/08,Hokie Open,285,W,FALL,1:05,Andrew Pacheco,39629,Old Dominion,Nathan Butler,14443,Stanford
+2016,11/08,Hokie Open,285,W,DEC,3 - 1,Dan Garwood,14293,Virginia Tech,Nathan Butler,14443,Stanford
+2016,11/08,Hokie Open,285,W,MFOR,0 - 0,Garrett Ryan,13538,Columbia,Nathan Butler,14443,Stanford
+2016,11/07,Stanford - Chattanooga Dual,285,L,DEC,4 - 2,Jared Johnson,19773,Chattanooga,Nathan Butler,14443,Stanford
+2016,01/01,Southern Scuffle,285,L,DEC,3 - 2,Jeramy Sweany,40382,Cornell,Josh Marchok,14339,Stanford
+2016,01/01,Southern Scuffle,285,L,MFOR,0 - 0,Cary Miller,39976,Appalachian State,Josh Marchok,14339,Stanford
+2016,01/01,Southern Scuffle,285,W,MFOR,0 - 0,Tanner Harms,14340,Wyoming,Josh Marchok,14339,Stanford
+2016,11/15,Roadrunner Open,285,L,MFOR,0 - 0,Sam Alnassiri,21439,San Francisco State,Josh Marchok,14339,Stanford
+2016,11/15,Roadrunner Open,285,L,MFOR,0 - 0,Trevor Rasmussen,40001,Stanford,Josh Marchok,14339,Stanford
+2016,11/15,Roadrunner Open,285,W,FALL,5:00,Alex Encarnarcion-Strand,16466,CSU Bakersfield,Josh Marchok,14339,Stanford
+2016,11/15,Roadrunner Open,285,W,FALL,3:24,Joshua Sapien,42081,Unattached,Josh Marchok,14339,Stanford
+2016,11/15,Roadrunner Open,285,L,INJ,7:00,Joey Goodhart,19849,Drexel,Josh Marchok,14339,Stanford
+2016,11/08,Hokie Open,285,W,DEC,3 - 2,Logan Rimmer,21030,Notre Dame,Josh Marchok,14339,Stanford
+2016,11/08,Hokie Open,285,W,DEC,8 - 4,Cary Miller,39976,Appalachian State,Josh Marchok,14339,Stanford
+2016,11/08,Hokie Open,285,W,DEC,3 - 2,Austin Myers,39755,West Virginia,Josh Marchok,14339,Stanford
+2016,11/08,Hokie Open,285,W,DEC,3 - 2,Andrew Lutterloh,40976,King,Josh Marchok,14339,Stanford
+2016,11/08,Hokie Open,285,L,DEC,3 - 2,Dan Garwood,14293,Virginia Tech,Josh Marchok,14339,Stanford
+2016,11/02,Stanford - Cal Poly Dual,285,W,MD,11 - 3,Cortes Morales,19743,Cal Poly,Josh Marchok,14339,Stanford
+2016,02/07,California Collegiate Open,285,W,DEC,2 - 1,Dominic Balmer,40162,CSU Bakersfield,Trevor Rasmussen,40001,Stanford
+2016,02/07,California Collegiate Open,285,W,DEC,12 - 10,Robert Enmon,42095,San Francisco State,Trevor Rasmussen,40001,Stanford
+2016,02/07,California Collegiate Open,285,L,DEC,9 - 3,Sean Molle,23995,Simon Fraser,Trevor Rasmussen,40001,Stanford
+2016,01/24,Clackamas Open,285,W,DEC,12 - 7,Damian Trujillo,43283,North Idaho College,Trevor Rasmussen,40001,Stanford
+2016,01/24,Clackamas Open,285,W,FALL,1:30,Armando Garcia,44286,North Idaho College,Trevor Rasmussen,40001,Stanford
+2016,01/24,Clackamas Open,285,W,FALL,2:24,Teban Mansaray,43649,Highline Community College,Trevor Rasmussen,40001,Stanford
+2016,01/24,Clackamas Open,285,W,FALL,2:15,Jimmy Millea,41565,Oregon State,Trevor Rasmussen,40001,Stanford
+2016,01/24,Clackamas Open,285,W,FALL,0:39,Timothy Smith,41564,Southwestern Oregon Community College,Trevor Rasmussen,40001,Stanford
+2016,01/24,Clackamas Open,285,L,MD,14 - 6,Nishawn Randhawa,44285,Simon Fraser,Trevor Rasmussen,40001,Stanford
+2016,12/20,Reno TOC,285,L,MD,17 - 3,Chance Eskam,39923,Arizona State,Trevor Rasmussen,40001,Stanford
+2016,12/20,Reno TOC,285,W,FALL,2:38,Zane Wardwell,43624,Southern Oregon,Trevor Rasmussen,40001,Stanford
+2016,12/20,Reno TOC,285,L,MD,15 - 5,Brandon Johnson,23828,Clackamas Community College,Trevor Rasmussen,40001,Stanford
+2016,11/15,Roadrunner Open,285,L,FALL,1:02,Matt Williams,16442,CSU Bakersfield,Trevor Rasmussen,40001,Stanford
+2016,11/15,Roadrunner Open,285,W,DEC,13 - 6,Austin Lobsinger,42037,Simpson,Trevor Rasmussen,40001,Stanford
+2016,11/15,Roadrunner Open,285,W,DEC,9 - 3,Dominic Balmer,40162,CSU Bakersfield,Trevor Rasmussen,40001,Stanford
+2016,11/15,Roadrunner Open,285,W,MFOR,0 - 0,Josh Marchok,14339,Stanford,Trevor Rasmussen,40001,Stanford
+2016,11/15,Roadrunner Open,285,L,MD,17 - 5,Billy Miller,20725,Edinboro,Trevor Rasmussen,40001,Stanford
+2016,11/15,Roadrunner Open,285,W,DEC,10 - 6,Alex Foley,19848,Drexel,Trevor Rasmussen,40001,Stanford
+2016,11/07,Bill Musick Open,285,L,DEC,7 - 4,Casey Jones,41683,Fresno City College,Trevor Rasmussen,40001,Stanford
+2016,11/07,Bill Musick Open,285,W,DEC,6 - 2,Rory Anderson,41684,Lassen College,Trevor Rasmussen,40001,Stanford
+2016,11/07,Bill Musick Open,285,L,DEC,12 - 7,Jesse Gomez,23107,Cerritos College,Trevor Rasmussen,40001,Stanford
+2016,11/07,Bill Musick Open,285,W,DEC,9 - 4,Casey Jones,41683,Fresno City College,Trevor Rasmussen,40001,Stanford
+2016,11/07,Bill Musick Open,285,W,DEC,9 - 2,Barry Gee,41682,Cerritos College,Trevor Rasmussen,40001,Stanford
+2016,11/01,SFSU JC/College Open,285,L,FALL,1:12,Robert Enmon,42095,San Francisco State,Trevor Rasmussen,40001,Stanford
+2016,11/01,SFSU JC/College Open,285,W,FALL,0:40,Jose Ayon,42787,Skyline College,Trevor Rasmussen,40001,Stanford
+2016,11/01,SFSU JC/College Open,285,L,DEC,11 - 5,Alex Encarnarcion-Strand,16466,CSU Bakersfield,Trevor Rasmussen,40001,Stanford

@@ -1,0 +1,721 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2020,03/07,Big 12 Championships,125,W,MD,12 - 4,Joey Thomas,51008,West Virginia,Danny Vega,45142,South Dakota State
+2020,03/07,Big 12 Championships,125,W,MFOR,0 - 0,Jeremy Trihn,50849,Fresno State,Danny Vega,45142,South Dakota State
+2020,03/07,Big 12 Championships,125,L,DEC,13 - 6,Alex Mackall,44577,Iowa State,Danny Vega,45142,South Dakota State
+2020,03/07,Big 12 Championships,125,L,DEC,7 - 3,Christian Moody,39746,Oklahoma,Danny Vega,45142,South Dakota State
+2020,03/07,Big 12 Championships,125,W,MD,8 - 0,Jake Svihel,59535,Wyoming,Danny Vega,45142,South Dakota State
+2020,02/21,North Dakota State - South Dakota State Dual,125,L,DEC,8 - 7,McGwire Midkiff,49224,North Dakota State,Danny Vega,45142,South Dakota State
+2020,02/16,Stanford - South Dakota State Dual,125,W,DEC,6 - 3,Jackson DiSario,57126,Stanford,Danny Vega,45142,South Dakota State
+2020,02/09,South Dakota State - Ohio Dual,125,W,TF5,20 - 3 7:00,Trevor Giallombardo,45033,Ohio,Danny Vega,45142,South Dakota State
+2020,02/07,South Dakota State - West Virginia Dual,125,W,DEC,15 - 10,Joey Thomas,51008,West Virginia,Danny Vega,45142,South Dakota State
+2020,02/02,South Dakota State - Little Rock Dual,125,W,TF5,18 - 3 7:00,Jayden Carson,62838,Little Rock,Danny Vega,45142,South Dakota State
+2020,01/31,South Dakota State - Oklahoma State Dual,125,L,TF5,17 - 1 6:28,Nick Piccininni,39547,Oklahoma State,Danny Vega,45142,South Dakota State
+2020,01/26,Oklahoma - South Dakota State Dual,125,W,MD,13 - 4,Christian Moody,39746,Oklahoma,Danny Vega,45142,South Dakota State
+2020,01/17,Iowa State - South Dakota State Dual,125,L,FALL,4:54,Alex Mackall,44577,Iowa State,Danny Vega,45142,South Dakota State
+2020,01/12,Wyoming - South Dakota State Dual,125,W,TF5,18 - 3 4:05,Jake Svihel,59535,Wyoming,Danny Vega,45142,South Dakota State
+2020,01/10,South Dakota State - Northern Iowa Dual,125,W,DEC,10 - 6,Jacob Schwarm,39750,Northern Iowa,Danny Vega,45142,South Dakota State
+2020,12/30,South Dakota State - Old Dominion Dual,125,W,FALL,0:39,Killian Cardinale,49268,Old Dominion,Danny Vega,45142,South Dakota State
+2020,12/30,South Dakota State - Michigan State Dual,125,W,MD,11 - 3,Julian Saldaña,46483,Michigan State,Danny Vega,45142,South Dakota State
+2020,12/29,South Beach College Individual,125,W,TF5,18 - 3 4:38,Ethan Curtin,45303,Michigan State,Danny Vega,45142,South Dakota State
+2020,12/29,South Beach College Individual,125,L,DEC,8 - 6,Cevion Severado,51610,Missouri,Danny Vega,45142,South Dakota State
+2020,12/29,South Dakota State - Cornell Dual,125,W,MD,14 - 6,Dominic LaJoie,49112,Cornell,Danny Vega,45142,South Dakota State
+2020,12/20,Minnesota - South Dakota State Dual,125,L,DEC,6 - 4,Patrick McKee,50594,Minnesota,Danny Vega,45142,South Dakota State
+2020,11/23,UNK Holiday Inn Open,125,W,FALL,5:19,Patrick Allis,62557,Western Colorado,Danny Vega,45142,South Dakota State
+2020,11/23,UNK Holiday Inn Open,125,W,DEC,5 - 3,Emmanuel Browne,60091,Baker,Danny Vega,45142,South Dakota State
+2020,11/23,UNK Holiday Inn Open,125,W,MD,22 - 10,Collin Metzgar,53448,Colorado Mesa,Danny Vega,45142,South Dakota State
+2020,11/17,Daktronics Open,125,W,DEC,6 - 0,Jonathon Ortegon,62142,Nebraska,Danny Vega,45142,South Dakota State
+2020,11/17,Daktronics Open,125,L,DEC,3 - 2,Alex Thomsen,50601,Nebraska,Danny Vega,45142,South Dakota State
+2020,11/17,Daktronics Open,125,W,MD,12 - 1,Audey Ashkar,44989,Binghamton,Danny Vega,45142,South Dakota State
+2020,11/17,Daktronics Open,125,W,DEC,9 - 4,Audey Ashkar,44989,Binghamton,Danny Vega,45142,South Dakota State
+2020,11/09,Bison Open,125,W,MFOR,0 - 0,Tanner Jordan,57664,Jackrabbit Wrestling Club,Danny Vega,45142,South Dakota State
+2020,11/09,Bison Open,125,W,DEC,5 - 4,Corey Gamet,57310,North Dakota State,Danny Vega,45142,South Dakota State
+2020,11/09,Bison Open,125,L,TF5,17 - 2 6:57,McGwire Midkiff,49224,North Dakota State,Danny Vega,45142,South Dakota State
+2020,11/09,Bison Open,125,L,FALL,5:30,Patrick McKee,50594,Minnesota,Danny Vega,45142,South Dakota State
+2020,12/29,South Beach College Individual,125,L,TF5,16 - 1 7:00,Philp Mommey,66494,Unattached,Kahlen Morris,40278,South Dakota State
+2020,12/29,South Beach College Individual,125,L,TF5,16 - 1 7:00,Phillip Moomey,56704,Cornell,Kahlen Morris,40278,South Dakota State
+2020,12/29,South Beach College Individual,125,L,DEC,5 - 3,Cevion Severado,51610,Missouri,Kahlen Morris,40278,South Dakota State
+2020,12/29,South Beach College Individual,125,L,DEC,10 - 6,Dack Punke,49195,Missouri,Kahlen Morris,40278,South Dakota State
+2020,12/29,South Beach College Individual,125,L,MD,12 - 2,Cameron Valdiviez,49029,Missouri,Kahlen Morris,40278,South Dakota State
+2020,12/06,Cliff Keen Invitational,125,L,TF5,19 - 2 4:56,Jack Mueller,45232,Virginia,Kahlen Morris,40278,South Dakota State
+2020,12/06,Cliff Keen Invitational,125,L,DEC,5 - 0,Lucas Rodriguez,51061,Edinboro,Kahlen Morris,40278,South Dakota State
+2020,12/06,Cliff Keen Invitational,125,W,DEC,5 - 3,Alejandro Hernandez-Figueroa,45325,CSU Bakersfield,Kahlen Morris,40278,South Dakota State
+2020,11/22,South Dakota State - Utah Valley Dual,125,W,DEC,4 - 2,Josiah Nava,57057,Utah Valley,Kahlen Morris,40278,South Dakota State
+2020,11/15,Binghamton - South Dakota State Dual,125,L,DEC,8 - 2,Audey Ashkar,44989,Binghamton,Kahlen Morris,40278,South Dakota State
+2020,02/22,Last Chance Open,125,L,FALL,1:47,Tanner Jordan,57664,Jackrabbit Wrestling Club,Gregory Coapstick,57179,South Dakota State
+2020,02/22,Last Chance Open,125,L,DEC,9 - 2,Ethan Rotondo,51219,Wisconsin,Gregory Coapstick,57179,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,125,W,DEC,9 - 3,Marcelo Perez,59943,Briar Cliff,Gregory Coapstick,57179,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,125,L,FALL,0:39,Braedon Clopton,55709,Briar Cliff,Gregory Coapstick,57179,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,125,L,FALL,0:52,Aden Reeves,56711,Iowa State,Gregory Coapstick,57179,South Dakota State
+2020,12/07,Buena Vista Open,125,W,FALL,4:34,Tyler Halloran,65451,Briar Cliff,Gregory Coapstick,57179,South Dakota State
+2020,12/07,Buena Vista Open,125,W,FALL,6:01,Anthony King,65169,Ellsworth CC,Gregory Coapstick,57179,South Dakota State
+2020,12/07,Buena Vista Open,125,W,FALL,4:28,Patrick Baumgardner,58461,Southwest Minnesota State,Gregory Coapstick,57179,South Dakota State
+2020,12/07,Buena Vista Open,125,W,MFOR,0 - 0,Kyle Gollhofer,57224,Northern Iowa,Gregory Coapstick,57179,South Dakota State
+2020,12/07,Buena Vista Open,125,L,FALL,1:06,Kyle Biscoglia,51109,Northern Iowa,Gregory Coapstick,57179,South Dakota State
+2020,11/17,Daktronics Open,125,L,MD,12 - 4,Jonathon Ortegon,62142,Nebraska,Gregory Coapstick,57179,South Dakota State
+2020,11/17,Daktronics Open,125,L,FALL,0:39,Patrick McKee,50594,Minnesota,Gregory Coapstick,57179,South Dakota State
+2020,11/09,Bison Open,125,L,TF5,17 - 0 3:17,McGwire Midkiff,49224,North Dakota State,Gregory Coapstick,57179,South Dakota State
+2020,11/09,Bison Open,125,L,FALL,2:50,Jake Gliva,51241,Minnesota,Gregory Coapstick,57179,South Dakota State
+2020,03/07,Big 12 Championships,133,L,DEC,8 - 6,Lawrence Saenz,56597,Fresno State,Zach Price,50932,South Dakota State
+2020,03/07,Big 12 Championships,133,L,DEC,8 - 3,Anthony Madrigal,50633,Oklahoma,Zach Price,50932,South Dakota State
+2020,03/07,Big 12 Championships,133,W,DEC,11 - 9,Todd Small,45992,Iowa State,Zach Price,50932,South Dakota State
+2020,03/07,Big 12 Championships,133,L,FALL,4:42,Taylor LaMont,44777,Utah Valley,Zach Price,50932,South Dakota State
+2020,02/21,North Dakota State - South Dakota State Dual,133,L,TF5,19 - 4 4:31,Cameron Sykora,39757,North Dakota State,Zach Price,50932,South Dakota State
+2020,02/16,Stanford - South Dakota State Dual,133,W,TF5,15 - 0 6:23,Luciano Arroyo,57707,Stanford,Zach Price,50932,South Dakota State
+2020,02/15,Fresno State - South Dakota State Dual,133,L,DEC,7 - 2,Lawrence Saenz,56597,Fresno State,Zach Price,50932,South Dakota State
+2020,02/09,South Dakota State - Ohio Dual,133,W,MD,13 - 2,Gio Disabato,50840,Ohio,Zach Price,50932,South Dakota State
+2020,02/07,South Dakota State - West Virginia Dual,133,W,DEC,6 - 4,Lucas Seibert,56444,West Virginia,Zach Price,50932,South Dakota State
+2020,02/02,South Dakota State - Little Rock Dual,133,W,DEC,10 - 7,Paul Bianchi,45589,Little Rock,Zach Price,50932,South Dakota State
+2020,01/31,South Dakota State - Oklahoma State Dual,133,L,DEC,9 - 4,Reece Witcraft,57312,Oklahoma State,Zach Price,50932,South Dakota State
+2020,01/26,Oklahoma - South Dakota State Dual,133,L,DEC,6 - 0,Anthony Madrigal,50633,Oklahoma,Zach Price,50932,South Dakota State
+2020,01/17,Iowa State - South Dakota State Dual,133,L,DEC,11 - 5,Todd Small,45992,Iowa State,Zach Price,50932,South Dakota State
+2020,01/12,Wyoming - South Dakota State Dual,133,L,DEC,5 - 1,Montorie Bridges,44844,Wyoming,Zach Price,50932,South Dakota State
+2020,01/10,South Dakota State - Northern Iowa Dual,133,W,DEC,11 - 4,Kyle Biscoglia,51109,Northern Iowa,Zach Price,50932,South Dakota State
+2020,12/30,South Dakota State - Old Dominion Dual,133,W,DEC,5 - 2,Shannon Hanna,57654,Old Dominion,Zach Price,50932,South Dakota State
+2020,12/30,South Dakota State - Michigan State Dual,133,L,DEC,4 - 2,Garrett Pepple,39561,Michigan State,Zach Price,50932,South Dakota State
+2020,12/29,South Beach College Individual,133,W,MD,17 - 7,Steven Simpson,39905,Old Dominion,Zach Price,50932,South Dakota State
+2020,12/29,South Beach College Individual,133,W,FALL,6:25,Allan Hart,49193,Missouri,Zach Price,50932,South Dakota State
+2020,12/29,South Dakota State - Duke Dual,133,W,TF5,18 - 3 7:00,Harrison Campbell,49125,Duke,Zach Price,50932,South Dakota State
+2020,12/29,South Dakota State - Cornell Dual,133,L,DEC,6 - 2,Chaz Tucker,39771,Cornell,Zach Price,50932,South Dakota State
+2020,12/20,Minnesota - South Dakota State Dual,133,W,MD,10 - 0,Brent Jones,49188,Minnesota,Zach Price,50932,South Dakota State
+2020,12/06,Cliff Keen Invitational,133,L,DEC,12 - 6,Todd Small,45992,Iowa State,Zach Price,50932,South Dakota State
+2020,12/06,Cliff Keen Invitational,133,L,DEC,8 - 5,Tye Varndell,55697,Edinboro,Zach Price,50932,South Dakota State
+2020,12/06,Cliff Keen Invitational,133,W,DEC,6 - 3,Chance Rich,50933,CSU Bakersfield,Zach Price,50932,South Dakota State
+2020,11/22,South Dakota State - Utah Valley Dual,133,L,DEC,7 - 4,Taylor LaMont,44777,Utah Valley,Zach Price,50932,South Dakota State
+2020,11/17,Daktronics Open,133,L,DEC,6 - 4,Ridge Lovett,57520,Nebraska,Zach Price,50932,South Dakota State
+2020,11/17,Daktronics Open,133,W,FALL,2:40,Tyler Jones,62600,North Dakota State,Zach Price,50932,South Dakota State
+2020,11/17,Daktronics Open,133,W,MD,12 - 3,Ryan Ripplinger,57180,North Dakota State,Zach Price,50932,South Dakota State
+2020,11/17,Daktronics Open,133,W,DEC,4 - 2,Tucker Sjomeling,49209,Nebraska,Zach Price,50932,South Dakota State
+2020,11/15,Binghamton - South Dakota State Dual,133,L,DEC,12 - 9,Zack Trampe,51913,Binghamton,Zach Price,50932,South Dakota State
+2020,02/22,Last Chance Open,133,L,DEC,2 - 0,Nate Hansen,53395,Unattached,Trayton Anderson,62667,South Dakota State
+2020,02/22,Last Chance Open,133,W,MFOR,0 - 0,Paul Bianchi,45589,Little Rock,Trayton Anderson,62667,South Dakota State
+2020,02/22,Last Chance Open,133,L,DEC,6 - 1,Paul Bianchi,45589,Little Rock,Trayton Anderson,62667,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,133,L,DEC,6 - 5,D'earion Stokes,66675,Unattached,Trayton Anderson,62667,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,133,L,DEC,3 - 2,D'earion Stokes,66675,Unattached,Trayton Anderson,62667,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,133,W,FALL,0:33,Grayson Fries,62274,Iowa Lakes Community College,Trayton Anderson,62667,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,133,W,FALL,5:19,Angel Morales,58286,Briar Cliff,Trayton Anderson,62667,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,133,W,TB-1,2 - 1,Daniel Kimball,57663,South Dakota State,Trayton Anderson,62667,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,133,W,TF5,17 - 2 7:00,Bailey Bright,45998,Briar Cliff,Trayton Anderson,62667,South Dakota State
+2020,01/11,Ridgewater Open,133,W,TF5,18 - 3 0:00,Sam Kulseth,66258,Concordia-Moorhead,Trayton Anderson,62667,South Dakota State
+2020,01/11,Ridgewater Open,133,W,TF5,18 - 3 7:00,Sam Kulseth,66258,Concordia-Moorhead,Trayton Anderson,62667,South Dakota State
+2020,01/11,Ridgewater Open,133,W,MD,12 - 1,Nic Cantu,63946,St Cloud State,Trayton Anderson,62667,South Dakota State
+2020,12/14,UNI Open,133,L,SV-1,7 - 5,Ramazan Attasauov,58943,Iowa State,Trayton Anderson,62667,South Dakota State
+2020,12/14,UNI Open,133,L,MD,9 - 1,Cayden Rooks,56710,Indiana,Trayton Anderson,62667,South Dakota State
+2020,02/22,Last Chance Open,133,L,INJ,0 - 0,Brian Zerr,66922,Dubuque,Daniel Kimball,57663,South Dakota State
+2020,02/22,Last Chance Open,133,L,INJ,7:00,Brian Zerr,66922,Dubuque,Daniel Kimball,57663,South Dakota State
+2020,02/22,Last Chance Open,133,W,DEC,3 - 1,Nate Hansen,53395,Unattached,Daniel Kimball,57663,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,133,L,TB-1,2 - 1,Trayton Anderson,62667,South Dakota State,Daniel Kimball,57663,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,133,W,INJ,7:00,Camden Russell,66674,Iowa Western Community College,Daniel Kimball,57663,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,133,W,FALL,3:28,Noah Kryfka,59928,Northwestern,Daniel Kimball,57663,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,133,L,DEC,7 - 3,Ramazan Attasauov,58943,Iowa State,Daniel Kimball,57663,South Dakota State
+2020,12/29,Midlands Championships,133,L,DEC,8 - 2,Michael Jaffe,57702,Harvard,Daniel Kimball,57663,South Dakota State
+2020,12/29,Midlands Championships,133,L,MD,14 - 4,Jaime Hernandez,49213,North Carolina,Daniel Kimball,57663,South Dakota State
+2020,12/07,Buena Vista Open,133,W,DEC,9 - 3,Joey Pins,64716,Wartburg,Daniel Kimball,57663,South Dakota State
+2020,12/07,Buena Vista Open,133,W,MD,19 - 7,Conrad Braswell,64053,Grand View,Daniel Kimball,57663,South Dakota State
+2020,12/07,Buena Vista Open,133,W,DEC,6 - 3,Dearion Stokes,59934,Unattached,Daniel Kimball,57663,South Dakota State
+2020,12/07,Buena Vista Open,133,W,MD,13 - 5,John Feeney,48093,Central Missouri,Daniel Kimball,57663,South Dakota State
+2020,12/07,Buena Vista Open,133,W,DEC,4 - 0,Brenden Baker,45217,Wartburg,Daniel Kimball,57663,South Dakota State
+2020,11/17,Daktronics Open,133,W,DEC,2 - 1,Caleb Gross,62668,South Dakota State,Daniel Kimball,57663,South Dakota State
+2020,11/17,Daktronics Open,133,W,DEC,9 - 2,Ryan Ripplinger,57180,North Dakota State,Daniel Kimball,57663,South Dakota State
+2020,11/17,Daktronics Open,133,W,MFOR,0 - 0,Tucker Sjomeling,49209,Nebraska,Daniel Kimball,57663,South Dakota State
+2020,11/17,Daktronics Open,133,L,DEC,6 - 0,Brent Jones,49188,Minnesota,Daniel Kimball,57663,South Dakota State
+2020,11/09,Bison Open,133,W,DEC,5 - 2,Nic Cantu,63946,St Cloud State,Daniel Kimball,57663,South Dakota State
+2020,11/09,Bison Open,133,W,DEC,4 - 2,Ryan Ripplinger,57180,North Dakota State,Daniel Kimball,57663,South Dakota State
+2020,11/09,Bison Open,133,L,DEC,6 - 0,Brent Jones,49188,Minnesota,Daniel Kimball,57663,South Dakota State
+2020,02/22,Last Chance Open,141,W,FALL,4:27,Marcos Gonzalez,61974,Dubuque,Caleb Gross,62668,South Dakota State
+2020,02/22,Last Chance Open,141,L,FALL,7:00,Brent Jones,49188,Minnesota,Caleb Gross,62668,South Dakota State
+2020,02/22,Last Chance Open,141,W,DEC,7 - 4,Andrew Flora,61920,Iowa State,Caleb Gross,62668,South Dakota State
+2020,02/22,Last Chance Open,141,W,DEC,6 - 0,Charlie Klepps,57235,Iowa State,Caleb Gross,62668,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,141,W,TF5,15 - 0 3:10,Trey Taylor,63295,Ouachita Baptist University,Caleb Gross,62668,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,141,W,TF5,15 - 0 3:17,Derek Anderson,64028,Grand View,Caleb Gross,62668,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,141,W,FALL,2:52,Derek Anderson,64028,Grand View,Caleb Gross,62668,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,141,W,DEC,6 - 1,Sam Loyd,51094,Grand View,Caleb Gross,62668,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,141,L,DEC,6 - 1,Jevon Parrish,51235,Nebraska,Caleb Gross,62668,South Dakota State
+2020,01/11,Ridgewater Open,141,W,MD,12 - 2,Jesus Murillo,53155,Jamestown,Caleb Gross,62668,South Dakota State
+2020,01/11,Ridgewater Open,141,W,DEC,3 - 2,Cameron Riggs,52578,St Cloud State,Caleb Gross,62668,South Dakota State
+2020,12/29,Midlands Championships,133,L,MD,14 - 6,Savion Haywood,65942,Omega Training Center,Caleb Gross,62668,South Dakota State
+2020,12/29,Midlands Championships,133,W,DEC,9 - 3,Dylan Utterback,51399,Northwestern,Caleb Gross,62668,South Dakota State
+2020,12/29,Midlands Championships,133,L,DEC,15 - 8,Gavin Teasdale,49471,Iowa,Caleb Gross,62668,South Dakota State
+2020,12/07,Buena Vista Open,141,W,FALL,2:50,Cody Lehman,65439,William Penn,Caleb Gross,62668,South Dakota State
+2020,12/07,Buena Vista Open,141,L,TB-1,11 - 7,Derek Anderson,64028,Grand View,Caleb Gross,62668,South Dakota State
+2020,12/07,Buena Vista Open,141,W,FALL,1:26,Tyler Fleetwood,60121,Wartburg,Caleb Gross,62668,South Dakota State
+2020,12/07,Buena Vista Open,141,L,DEC,3 - 2,Bailey Bright,45998,Briar Cliff,Caleb Gross,62668,South Dakota State
+2020,11/23,UNK Holiday Inn Open,141,W,FALL,1:41,Adrian Zubia,65079,Texas Wesleyan,Caleb Gross,62668,South Dakota State
+2020,11/23,UNK Holiday Inn Open,141,W,DEC,2 - 0,Asiel Flores,64872,Baker,Caleb Gross,62668,South Dakota State
+2020,11/23,UNK Holiday Inn Open,141,W,TF5,17 - 2 5:15,Conrad Braswell,64053,Grand View,Caleb Gross,62668,South Dakota State
+2020,11/23,UNK Holiday Inn Open,141,L,DEC,9 - 3,Nick James,62636,Nebraska-Kearney,Caleb Gross,62668,South Dakota State
+2020,11/17,Daktronics Open,133,L,DEC,2 - 1,Daniel Kimball,57663,South Dakota State,Caleb Gross,62668,South Dakota State
+2020,11/17,Daktronics Open,133,L,FALL,0:36,Ridge Lovett,57520,Nebraska,Caleb Gross,62668,South Dakota State
+2020,11/17,Daktronics Open,133,W,MD,10 - 1,Tyler Jones,62600,North Dakota State,Caleb Gross,62668,South Dakota State
+2020,11/09,Bison Open,133,W,FALL,4:43,Kash Kaufman,63947,Minot State,Caleb Gross,62668,South Dakota State
+2020,11/09,Bison Open,133,W,DEC,5 - 2,Nic Cantu,63946,St Cloud State,Caleb Gross,62668,South Dakota State
+2020,11/09,Bison Open,133,W,DEC,5 - 2,Laken Boese,62009,Mary,Caleb Gross,62668,South Dakota State
+2020,11/09,Bison Open,133,L,MD,11 - 3,Ryan Ripplinger,57180,North Dakota State,Caleb Gross,62668,South Dakota State
+2020,11/09,Bison Open,133,L,DEC,4 - 0,Brent Jones,49188,Minnesota,Caleb Gross,62668,South Dakota State
+2020,03/07,Big 12 Championships,141,L,DEC,4 - 2,Dusty Hone,20271,Oklahoma State,Clay Carlson,56441,South Dakota State
+2020,03/07,Big 12 Championships,141,L,DEC,6 - 5,Michael Blockhus,57163,Northern Iowa,Clay Carlson,56441,South Dakota State
+2020,03/07,Big 12 Championships,141,L,DEC,8 - 4,Ian Parker,44732,Iowa State,Clay Carlson,56441,South Dakota State
+2020,03/07,Big 12 Championships,141,W,TF5,16 - 1 4:32,Kainalu Estrella,57058,Utah Valley,Clay Carlson,56441,South Dakota State
+2020,03/07,Big 12 Championships,141,W,FALL,6:35,Caleb Rea,56445,West Virginia,Clay Carlson,56441,South Dakota State
+2020,02/21,North Dakota State - South Dakota State Dual,141,W,DEC,7 - 3,Dylan Droegemueller,51082,North Dakota State,Clay Carlson,56441,South Dakota State
+2020,02/16,Stanford - South Dakota State Dual,141,W,MD,10 - 2,Fabian Santillan,59549,Stanford,Clay Carlson,56441,South Dakota State
+2020,02/15,Fresno State - South Dakota State Dual,141,W,DEC,7 - 3,Gary Joint,50163,Fresno State,Clay Carlson,56441,South Dakota State
+2020,02/09,South Dakota State - Ohio Dual,141,L,MD,11 - 3,Shakur Laney,39917,Ohio,Clay Carlson,56441,South Dakota State
+2020,02/07,South Dakota State - West Virginia Dual,141,L,TB-2,2 - 1,Caleb Rea,56445,West Virginia,Clay Carlson,56441,South Dakota State
+2020,02/02,South Dakota State - Little Rock Dual,141,W,DEC,8 - 5,Conner Ward,56587,Little Rock,Clay Carlson,56441,South Dakota State
+2020,01/31,South Dakota State - Oklahoma State Dual,141,L,DEC,5 - 2,Dusty Hone,20271,Oklahoma State,Clay Carlson,56441,South Dakota State
+2020,01/26,Oklahoma - South Dakota State Dual,141,L,DEC,8 - 2,Dominick Demas,49256,Oklahoma,Clay Carlson,56441,South Dakota State
+2020,01/17,Iowa State - South Dakota State Dual,141,L,DEC,8 - 2,Ian Parker,44732,Iowa State,Clay Carlson,56441,South Dakota State
+2020,01/12,Wyoming - South Dakota State Dual,141,W,DEC,12 - 6,Trevor Jeffries,57064,Wyoming,Clay Carlson,56441,South Dakota State
+2020,01/10,South Dakota State - Northern Iowa Dual,141,L,DEC,7 - 5,Michael Blockhus,57163,Northern Iowa,Clay Carlson,56441,South Dakota State
+2020,12/30,South Dakota State - Old Dominion Dual,141,L,DEC,7 - 4,Sa'Derian Perry,40084,Old Dominion,Clay Carlson,56441,South Dakota State
+2020,12/30,South Dakota State - Michigan State Dual,141,W,DEC,6 - 2,Matt Santos,44890,Michigan State,Clay Carlson,56441,South Dakota State
+2020,12/29,South Beach College Individual,141,W,DEC,6 - 5,Trevor Jeffries,57064,Wyoming,Clay Carlson,56441,South Dakota State
+2020,12/29,South Beach College Individual,141,L,DEC,9 - 5,Alexander Butler,39647,Missouri,Clay Carlson,56441,South Dakota State
+2020,12/29,South Dakota State - Duke Dual,141,W,FALL,2:57,Ty Mills,51081,Duke,Clay Carlson,56441,South Dakota State
+2020,12/29,South Dakota State - Cornell Dual,141,W,DEC,6 - 4,Noah Baughman,44749,Cornell,Clay Carlson,56441,South Dakota State
+2020,12/20,Minnesota - South Dakota State Dual,141,L,DEC,6 - 1,Mitch McKee,45139,Minnesota,Clay Carlson,56441,South Dakota State
+2020,12/06,Cliff Keen Invitational,141,L,SV-1,8 - 7,Cameron Hunsaker,62438,Utah Valley,Clay Carlson,56441,South Dakota State
+2020,12/06,Cliff Keen Invitational,141,L,MD,14 - 3,Mitch Moore,50620,Virginia Tech,Clay Carlson,56441,South Dakota State
+2020,12/06,Cliff Keen Invitational,141,W,DEC,7 - 5,Taylor Ortz,40103,Clarion,Clay Carlson,56441,South Dakota State
+2020,11/22,South Dakota State - Utah Valley Dual,141,W,FALL,2:34,Cameron Hunsaker,62438,Utah Valley,Clay Carlson,56441,South Dakota State
+2020,11/17,Daktronics Open,141,W,TF5,19 - 4 5:59,Sebas Swiggum,57336,Minnesota,Clay Carlson,56441,South Dakota State
+2020,11/17,Daktronics Open,141,L,MD,9 - 0,Mitch McKee,45139,Minnesota,Clay Carlson,56441,South Dakota State
+2020,11/17,Daktronics Open,141,W,DEC,8 - 3,Ben Brancale,39822,Minnesota,Clay Carlson,56441,South Dakota State
+2020,11/17,Daktronics Open,141,W,FALL,5:48,Kevin Kelly,45186,Binghamton,Clay Carlson,56441,South Dakota State
+2020,11/15,Binghamton - South Dakota State Dual,141,W,TB-1,7 - 5,Anthony Sparacio,47621,Binghamton,Clay Carlson,56441,South Dakota State
+2020,11/09,Bison Open,141,W,DEC,6 - 4,Dylan Droegemueller,51082,North Dakota State,Clay Carlson,56441,South Dakota State
+2020,11/09,Bison Open,141,W,DEC,5 - 3,Dylan Droegemueller,51082,North Dakota State,Clay Carlson,56441,South Dakota State
+2020,11/09,Bison Open,141,W,DEC,5 - 0,Martin Wilkie,57661,Minnesota,Clay Carlson,56441,South Dakota State
+2020,11/09,Bison Open,141,L,FALL,1:02,Mitch McKee,45139,Minnesota,Clay Carlson,56441,South Dakota State
+2020,11/09,Bison Open,141,W,DEC,4 - 3,Ben Brancale,39822,Minnesota,Clay Carlson,56441,South Dakota State
+2020,01/11,Ridgewater Open,141,W,TF5,18 - 0 0:00,Cade Lundeen,63780,Concordia-Moorhead,Rylee Molitor,49322,South Dakota State
+2020,01/11,Ridgewater Open,141,W,FALL,4:40,Kaleb Horn,63932,St Cloud State,Rylee Molitor,49322,South Dakota State
+2020,01/11,Ridgewater Open,141,W,TF5,18 - 0 7:00,Cade Lundeen,63780,Concordia-Moorhead,Rylee Molitor,49322,South Dakota State
+2020,01/11,Ridgewater Open,141,W,MD,17 - 6,Wyatt Turnquist,62306,Northern State University,Rylee Molitor,49322,South Dakota State
+2020,12/29,South Beach College Individual,141,W,TF5,18 - 3 6:17,Ty Mills,51081,Duke,Rylee Molitor,49322,South Dakota State
+2020,12/29,South Beach College Individual,141,W,DEC,5 - 3,Trevor Jeffries,57064,Wyoming,Rylee Molitor,49322,South Dakota State
+2020,12/29,South Beach College Individual,141,W,MD,12 - 4,Yarhoski Aldiva,51885,Old Dominion,Rylee Molitor,49322,South Dakota State
+2020,12/29,South Beach College Individual,141,W,DEC,7 - 2,Michael Venosa,52043,Cornell,Rylee Molitor,49322,South Dakota State
+2020,12/29,South Beach College Individual,141,L,MD,9 - 1,Ryan Moore,50654,Cornell,Rylee Molitor,49322,South Dakota State
+2020,12/29,South Beach College Individual,141,L,FALL,2:44,Mike Russo,42009,Cornell,Rylee Molitor,49322,South Dakota State
+2020,12/14,UNI Open,141,W,DEC,5 - 2,Noah Nemer,57233,Iowa State,Rylee Molitor,49322,South Dakota State
+2020,12/14,UNI Open,141,L,FALL,4:29,Kyle Luigs,50007,Indiana,Rylee Molitor,49322,South Dakota State
+2020,11/17,Daktronics Open,141,W,DEC,10 - 4,Caden Lamer,62669,South Dakota State,Rylee Molitor,49322,South Dakota State
+2020,11/17,Daktronics Open,141,L,MD,13 - 5,Tyler Waterson,51430,Minnesota,Rylee Molitor,49322,South Dakota State
+2020,11/17,Daktronics Open,141,L,MD,12 - 3,Ben Brancale,39822,Minnesota,Rylee Molitor,49322,South Dakota State
+2020,11/09,Bison Open,141,W,FALL,3:58,Tayt Wolding,62014,Mary,Rylee Molitor,49322,South Dakota State
+2020,11/09,Bison Open,141,L,DEC,6 - 4,Sebas Swiggum,57336,Minnesota,Rylee Molitor,49322,South Dakota State
+2020,11/09,Bison Open,141,L,DEC,12 - 7,Tyler Waterson,51430,Minnesota,Rylee Molitor,49322,South Dakota State
+2020,02/22,Last Chance Open,149,W,TF5,18 - 3 4:15,Michael Mutton,52638,Dubuque,Aric Williams,51002,South Dakota State
+2020,02/22,Last Chance Open,149,W,MFOR,0 - 0,Aaron Steffensmeier,66921,Iowa State University Wrestling Club,Aric Williams,51002,South Dakota State
+2020,02/22,Last Chance Open,149,W,TF5,18 - 3 7:00,Michael Mutton,52638,Dubuque,Aric Williams,51002,South Dakota State
+2020,02/22,Last Chance Open,149,W,DEC,12 - 8,Sebas Swiggum,57336,Minnesota,Aric Williams,51002,South Dakota State
+2020,02/22,Last Chance Open,149,W,MFOR,0 - 0,Jarrett Degen,44855,Iowa State,Aric Williams,51002,South Dakota State
+2020,02/22,Last Chance Open,149,L,DEC,9 - 6,Jarrett Degen,44855,Iowa State,Aric Williams,51002,South Dakota State
+2020,12/29,South Beach College Individual,141,L,TF5,19 - 1 4:26,Ryan Moore,50654,Cornell,Aric Williams,51002,South Dakota State
+2020,12/29,South Beach College Individual,141,L,TF5,16 - 0 2:53,Mike Russo,42009,Cornell,Aric Williams,51002,South Dakota State
+2020,12/29,South Beach College Individual,141,L,DEC,7 - 2,Trevor Jeffries,57064,Wyoming,Aric Williams,51002,South Dakota State
+2020,12/29,South Beach College Individual,141,L,DEC,9 - 5,Alexander Butler,39647,Missouri,Aric Williams,51002,South Dakota State
+2020,12/29,South Beach College Individual,141,L,DEC,6 - 3,Michael Venosa,52043,Cornell,Aric Williams,51002,South Dakota State
+2020,12/14,UNI Open,141,W,DEC,7 - 4,Asa Garcia,57341,Indiana,Aric Williams,51002,South Dakota State
+2020,12/14,UNI Open,141,W,DEC,11 - 4,Noah Nemer,57233,Iowa State,Aric Williams,51002,South Dakota State
+2020,12/14,UNI Open,141,L,DEC,10 - 7,Kyle Luigs,50007,Indiana,Aric Williams,51002,South Dakota State
+2020,12/07,Buena Vista Open,141,W,FALL,6:00,Jackson Wenberg,65054,Ellsworth CC,Aric Williams,51002,South Dakota State
+2020,12/07,Buena Vista Open,141,W,DEC,5 - 1,Nicholas Meling,59207,Wartburg,Aric Williams,51002,South Dakota State
+2020,12/07,Buena Vista Open,141,L,DEC,2 - 1,Joseph Bianchini,56297,St Cloud State,Aric Williams,51002,South Dakota State
+2020,12/07,Buena Vista Open,141,W,FALL,4:14,Justin Sampson,57590,Southwest Minnesota State,Aric Williams,51002,South Dakota State
+2020,12/07,Buena Vista Open,141,W,MD,12 - 4,Killyan Green,51074,Grand View,Aric Williams,51002,South Dakota State
+2020,12/07,Buena Vista Open,141,W,SV-1,11 - 9,Jack Wagner,44755,Northern Iowa,Aric Williams,51002,South Dakota State
+2020,11/17,Daktronics Open,141,L,DEC,10 - 9,Martin Wilkie,57661,Minnesota,Aric Williams,51002,South Dakota State
+2020,11/17,Daktronics Open,141,L,DEC,7 - 1,Tyler Waterson,51430,Minnesota,Aric Williams,51002,South Dakota State
+2020,11/09,Bison Open,141,W,MD,17 - 4,Sam Stuhl,50642,North Dakota State,Aric Williams,51002,South Dakota State
+2020,11/09,Bison Open,141,L,DEC,8 - 6,Tyler Waterson,51430,Minnesota,Aric Williams,51002,South Dakota State
+2020,11/09,Bison Open,141,L,TF5,20 - 5 7:00,Mitch McKee,45139,Minnesota,Aric Williams,51002,South Dakota State
+2020,02/22,Last Chance Open,149,W,FALL,6:07,Aaron Steffensmeier,66921,Iowa State University Wrestling Club,Caden Lamer,62669,South Dakota State
+2020,02/22,Last Chance Open,149,W,DEC,8 - 3,Carter Weeks,58065,Iowa State University Wrestling Club,Caden Lamer,62669,South Dakota State
+2020,02/22,Last Chance Open,149,W,DEC,11 - 6,Sebas Swiggum,57336,Minnesota,Caden Lamer,62669,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,149,W,FALL,6:56,Anthony Fisher,66671,Morningside,Caden Lamer,62669,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,149,W,MFOR,0 - 0,Noah Styskal,65155,Morningside,Caden Lamer,62669,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,149,W,TF5,18 - 0 2:17,Austin Hendrickson,64350,Northwestern,Caden Lamer,62669,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,149,W,TF5,18 - 0 2:25,Colby Wilken,63753,Graceland University,Caden Lamer,62669,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,149,L,DEC,10 - 4,Cameron Devers,53467,Concordia,Caden Lamer,62669,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,149,L,FALL,4:08,Kevon Davenport,57216,Nebraska,Caden Lamer,62669,South Dakota State
+2020,12/07,Buena Vista Open,141,L,FALL,1:39,Michael Moore,64230,Iowa Lakes Community College,Caden Lamer,62669,South Dakota State
+2020,12/07,Buena Vista Open,141,L,DEC,9 - 6,Garrett Aldrich,49391,St Cloud State,Caden Lamer,62669,South Dakota State
+2020,11/23,UNK Holiday Inn Open,141,L,MD,11 - 2,Blake Haney,65275,Grand View,Caden Lamer,62669,South Dakota State
+2020,11/23,UNK Holiday Inn Open,141,L,FALL,1:59,Adrian Zubia,65079,Texas Wesleyan,Caden Lamer,62669,South Dakota State
+2020,11/23,UNK Holiday Inn Open,141,W,MD,19 - 8,Edrich Nortje,64290,Hastings,Caden Lamer,62669,South Dakota State
+2020,11/23,UNK Holiday Inn Open,141,W,FALL,0:51,Conrad Braswell,64053,Grand View,Caden Lamer,62669,South Dakota State
+2020,11/23,UNK Holiday Inn Open,141,W,MD,13 - 5,Parker Wright,63890,Ottawa,Caden Lamer,62669,South Dakota State
+2020,11/23,UNK Holiday Inn Open,141,W,FALL,4:09,Naikoa Simao,63883,Schreiner,Caden Lamer,62669,South Dakota State
+2020,11/17,Daktronics Open,141,L,DEC,10 - 4,Rylee Molitor,49322,South Dakota State,Caden Lamer,62669,South Dakota State
+2020,11/17,Daktronics Open,141,L,MD,12 - 2,Jevon Parrish,51235,Nebraska,Caden Lamer,62669,South Dakota State
+2020,03/07,Big 12 Championships,149,L,DEC,8 - 5,Boo Lewallen,39543,Oklahoma State,Henry Pohlmeyer,39803,South Dakota State
+2020,03/07,Big 12 Championships,149,W,DEC,4 - 1,Jaden Van Maanen,49227,North Dakota State,Henry Pohlmeyer,39803,South Dakota State
+2020,03/07,Big 12 Championships,149,W,DEC,1 - 0,Max Thomsen,39503,Northern Iowa,Henry Pohlmeyer,39803,South Dakota State
+2020,03/07,Big 12 Championships,149,W,FALL,6:09,Seth Hogue,44668,West Virginia,Henry Pohlmeyer,39803,South Dakota State
+2020,02/21,North Dakota State - South Dakota State Dual,149,W,DEC,3 - 0,Jaden Van Maanen,49227,North Dakota State,Henry Pohlmeyer,39803,South Dakota State
+2020,02/09,South Dakota State - Ohio Dual,149,W,DEC,7 - 0,Alec Hagan,49248,Ohio,Henry Pohlmeyer,39803,South Dakota State
+2020,02/07,South Dakota State - West Virginia Dual,149,W,FALL,2:08,Seth Hogue,44668,West Virginia,Henry Pohlmeyer,39803,South Dakota State
+2020,02/02,South Dakota State - Little Rock Dual,149,W,FALL,0:37,Tyler Brennan,62844,Little Rock,Henry Pohlmeyer,39803,South Dakota State
+2020,01/31,South Dakota State - Oklahoma State Dual,149,L,MD,10 - 0,Boo Lewallen,39543,Oklahoma State,Henry Pohlmeyer,39803,South Dakota State
+2020,01/26,Oklahoma - South Dakota State Dual,149,W,DEC,7 - 2,Jacob Butler,57142,Oklahoma,Henry Pohlmeyer,39803,South Dakota State
+2020,01/17,Iowa State - South Dakota State Dual,149,W,DEC,1 - 0,Ryan Leisure,49152,Iowa State,Henry Pohlmeyer,39803,South Dakota State
+2020,01/12,Wyoming - South Dakota State Dual,149,W,DEC,6 - 2,Jaron Jensen,44910,Wyoming,Henry Pohlmeyer,39803,South Dakota State
+2020,01/10,South Dakota State - Northern Iowa Dual,149,W,MD,9 - 1,Max Thomsen,39503,Northern Iowa,Henry Pohlmeyer,39803,South Dakota State
+2020,12/20,Minnesota - South Dakota State Dual,149,L,DEC,4 - 3,Brayton Lee,52079,Minnesota,Henry Pohlmeyer,39803,South Dakota State
+2020,11/22,South Dakota State - Utah Valley Dual,149,W,DEC,8 - 4,Landon Knutzen,45365,Utah Valley,Henry Pohlmeyer,39803,South Dakota State
+2020,11/17,Daktronics Open,149,L,FALL,2:24,Kevon Davenport,57216,Nebraska,Henry Pohlmeyer,39803,South Dakota State
+2020,11/17,Daktronics Open,149,W,MD,9 - 0,Austin Braun,51428,North Dakota State,Henry Pohlmeyer,39803,South Dakota State
+2020,11/17,Daktronics Open,149,W,DEC,7 - 5,Caleb Licking,45208,Nebraska,Henry Pohlmeyer,39803,South Dakota State
+2020,11/17,Daktronics Open,149,W,DEC,7 - 2,Jake Bergeland,49189,Minnesota,Henry Pohlmeyer,39803,South Dakota State
+2020,11/15,Binghamton - South Dakota State Dual,149,W,MD,8 - 0,Matthew Swanson,49887,Binghamton,Henry Pohlmeyer,39803,South Dakota State
+2020,11/09,Bison Open,149,W,TF5,15 - 0 7:00,Kai Stewart,63944,Minot State,Henry Pohlmeyer,39803,South Dakota State
+2020,11/09,Bison Open,149,W,FALL,3:32,Zachary Scott,63938,Minnesota State Moorhead,Henry Pohlmeyer,39803,South Dakota State
+2020,11/09,Bison Open,149,W,MD,13 - 0,Jacob Morgan,62021,Mary,Henry Pohlmeyer,39803,South Dakota State
+2020,11/09,Bison Open,149,W,TF5,23 - 7 5:31,Michael Weber,61992,North Dakota State,Henry Pohlmeyer,39803,South Dakota State
+2020,11/09,Bison Open,149,L,FALL,5:31,Jake Bergeland,49189,Minnesota,Henry Pohlmeyer,39803,South Dakota State
+2020,03/07,Big 12 Championships,157,L,MD,9 - 0,Jared Franek,50639,North Dakota State,Peyton Smith,51004,South Dakota State
+2020,03/07,Big 12 Championships,157,W,DEC,6 - 2,Jimmy Fate,44736,Northern Colorado,Peyton Smith,51004,South Dakota State
+2020,03/07,Big 12 Championships,157,L,FALL,5:57,Paden Moore,39541,Northern Iowa,Peyton Smith,51004,South Dakota State
+2020,02/15,Fresno State - South Dakota State Dual,157,L,SV-1,9 - 3,Jacob Wright,49463,Fresno State,Peyton Smith,51004,South Dakota State
+2020,02/09,South Dakota State - Ohio Dual,157,W,MD,9 - 0,Kade Kowalski,41852,Ohio,Peyton Smith,51004,South Dakota State
+2020,02/07,South Dakota State - West Virginia Dual,157,W,FALL,6:59,Alex Hornfeck,56494,West Virginia,Peyton Smith,51004,South Dakota State
+2020,02/02,South Dakota State - Little Rock Dual,157,W,DEC,1 - 0,Thomas Lisher,52421,Little Rock,Peyton Smith,51004,South Dakota State
+2020,01/31,South Dakota State - Oklahoma State Dual,157,L,MD,11 - 3,Wyatt Sheets,44863,Oklahoma State,Peyton Smith,51004,South Dakota State
+2020,12/30,South Dakota State - Old Dominion Dual,149,L,DEC,10 - 3,Kenan Carter,39560,Old Dominion,Peyton Smith,51004,South Dakota State
+2020,12/30,South Dakota State - Michigan State Dual,149,L,DEC,4 - 2,Alex Hrisopoulos,45308,Michigan State,Peyton Smith,51004,South Dakota State
+2020,12/29,South Beach College Individual,149,L,DEC,8 - 3,Brock Mauller,50596,Missouri,Peyton Smith,51004,South Dakota State
+2020,12/29,South Dakota State - Duke Dual,149,W,DEC,7 - 5,Wade Unger,63134,Duke,Peyton Smith,51004,South Dakota State
+2020,12/29,South Dakota State - Cornell Dual,149,L,DEC,7 - 6,Hunter Richard,49107,Cornell,Peyton Smith,51004,South Dakota State
+2020,12/14,UNI Open,149,W,DEC,3 - 1,Mitchell Bohlken,62076,Missouri,Peyton Smith,51004,South Dakota State
+2020,12/14,UNI Open,149,W,FALL,1:55,Kaleb Olejniczak,62607,Northern Iowa,Peyton Smith,51004,South Dakota State
+2020,12/14,UNI Open,149,L,DEC,4 - 2,Gable Fox,50832,Northern Iowa,Peyton Smith,51004,South Dakota State
+2020,12/14,UNI Open,149,L,MD,14 - 5,Tristan Lara,49239,Northern Iowa,Peyton Smith,51004,South Dakota State
+2020,12/07,Buena Vista Open,149,W,TF5,18 - 0 7:00,Dylan Downing,65132,Wartburg,Peyton Smith,51004,South Dakota State
+2020,12/07,Buena Vista Open,149,W,DEC,14 - 9,Dakota Thevel,54610,Central Missouri,Peyton Smith,51004,South Dakota State
+2020,12/07,Buena Vista Open,149,W,FALL,1:28,Tanner Pasvogel,52167,St Cloud State,Peyton Smith,51004,South Dakota State
+2020,12/07,Buena Vista Open,149,W,MD,12 - 1,Collin Stilson,46896,Buena Vista,Peyton Smith,51004,South Dakota State
+2020,12/07,Buena Vista Open,149,L,INJ,7:00,James Pleski,41880,St Cloud State,Peyton Smith,51004,South Dakota State
+2020,12/07,Buena Vista Open,149,L,MFOR,0 - 0,Kaleb Olejniczak,62607,Northern Iowa,Peyton Smith,51004,South Dakota State
+2020,11/09,Bison Open,149,L,MFOR,0 - 0,Zachary Scott,63938,Minnesota State Moorhead,Peyton Smith,51004,South Dakota State
+2020,11/09,Bison Open,149,L,MFOR,0 - 0,Chandler Mooney,62015,Mary,Peyton Smith,51004,South Dakota State
+2020,11/09,Bison Open,149,W,TF5,19 - 1 4:45,Shadi Mitwalli,57895,Minot State,Peyton Smith,51004,South Dakota State
+2020,11/09,Bison Open,149,W,FALL,4:55,Shadi Mitwalli,57895,Minot State,Peyton Smith,51004,South Dakota State
+2020,11/09,Bison Open,149,W,DEC,5 - 4,Michael Weber,61992,North Dakota State,Peyton Smith,51004,South Dakota State
+2020,02/22,Last Chance Open,157,W,TF5,18 - 2 7:00,Payton Sitzmann,66917,Iowa State University Wrestling Club,Cade DeVos,57072,South Dakota State
+2020,02/22,Last Chance Open,157,W,DEC,10 - 4,Cael Carlson,57337,Minnesota,Cade DeVos,57072,South Dakota State
+2020,02/22,Last Chance Open,157,W,DEC,3 - 2,Grant Stotts,51284,Iowa State,Cade DeVos,57072,South Dakota State
+2020,12/29,Midlands Championships,157,L,DEC,4 - 3,Quincy Monday,53967,Princeton,Cade DeVos,57072,South Dakota State
+2020,12/29,Midlands Championships,157,L,DEC,4 - 2,Markus Hartman,50585,Army West Point,Cade DeVos,57072,South Dakota State
+2020,12/29,Midlands Championships,157,W,DEC,8 - 4,Keaton Geerts,49240,Northern Iowa,Cade DeVos,57072,South Dakota State
+2020,12/29,Midlands Championships,157,W,DEC,9 - 3,Ethan Karsten,44903,American,Cade DeVos,57072,South Dakota State
+2020,12/29,Midlands Championships,157,W,DEC,6 - 3,AC Headlee,39627,North Carolina,Cade DeVos,57072,South Dakota State
+2020,12/29,Midlands Championships,157,W,DEC,3 - 2,Eric Barone,39566,Illinois,Cade DeVos,57072,South Dakota State
+2020,12/29,Midlands Championships,157,L,MFOR,0 - 0,Justin Ruffin,57008,SIU Edwardsville,Cade DeVos,57072,South Dakota State
+2020,12/29,Midlands Championships,157,W,DEC,6 - 2,Brawley Lamer,50051,Cal Poly,Cade DeVos,57072,South Dakota State
+2020,12/07,Buena Vista Open,157,W,TF5,19 - 3 7:00,Kyle Fowler,65447,Morningside,Cade DeVos,57072,South Dakota State
+2020,12/07,Buena Vista Open,157,W,TF5,22 - 7 7:00,Robert Silva,64696,Simpson,Cade DeVos,57072,South Dakota State
+2020,12/07,Buena Vista Open,157,W,DEC,5 - 2,Shea Hartzler,46859,Wartburg,Cade DeVos,57072,South Dakota State
+2020,12/07,Buena Vista Open,157,W,SV-1,6 - 5,Kasper McIntosh,50856,Minnesota,Cade DeVos,57072,South Dakota State
+2020,12/07,Buena Vista Open,157,W,DEC,5 - 1,Ryan Thomas,50839,Minnesota,Cade DeVos,57072,South Dakota State
+2020,11/17,Daktronics Open,157,W,MD,15 - 4,Kevin Meicher,59548,Minnesota,Cade DeVos,57072,South Dakota State
+2020,11/17,Daktronics Open,157,L,DEC,4 - 2,Baylor Fernandes,57351,Minnesota,Cade DeVos,57072,South Dakota State
+2020,11/17,Daktronics Open,157,W,INJ,7:00,Luke Weber,45050,North Dakota State,Cade DeVos,57072,South Dakota State
+2020,11/17,Daktronics Open,157,W,DEC,5 - 4,John Blankenship,45857,Nebraska,Cade DeVos,57072,South Dakota State
+2020,11/17,Daktronics Open,157,W,DEC,10 - 7,John Blankenship,45857,Nebraska,Cade DeVos,57072,South Dakota State
+2020,11/09,Bison Open,157,W,FALL,4:12,Tanner Eischens,57596,St Cloud State,Cade DeVos,57072,South Dakota State
+2020,11/09,Bison Open,157,W,MD,12 - 4,Brayden Ortloff,52568,Minnesota State Moorhead,Cade DeVos,57072,South Dakota State
+2020,11/09,Bison Open,157,L,DEC,6 - 4,Jared Franek,50639,North Dakota State,Cade DeVos,57072,South Dakota State
+2020,11/09,Bison Open,157,W,DEC,4 - 0,Dylan Martinez,62373,Minnesota,Cade DeVos,57072,South Dakota State
+2020,11/09,Bison Open,157,W,DEC,4 - 3,Baylor Fernandes,57351,Minnesota,Cade DeVos,57072,South Dakota State
+2020,11/09,Bison Open,157,W,SV-2,7 - 5,Kasper McIntosh,50856,Minnesota,Cade DeVos,57072,South Dakota State
+2020,01/26,Oklahoma - South Dakota State Dual,157,L,MD,16 - 3,Justin Thomas,44882,Oklahoma,Colten Carlson,45286,South Dakota State
+2020,01/17,Iowa State - South Dakota State Dual,157,L,MD,16 - 5,David Carr,51126,Iowa State,Colten Carlson,45286,South Dakota State
+2020,01/12,Wyoming - South Dakota State Dual,157,L,DEC,9 - 4,Dewey Krueger,40144,Wyoming,Colten Carlson,45286,South Dakota State
+2020,01/10,South Dakota State - Northern Iowa Dual,157,W,DEC,4 - 0,Derek Holschlag,49238,Northern Iowa,Colten Carlson,45286,South Dakota State
+2020,12/30,South Dakota State - Old Dominion Dual,157,L,DEC,6 - 4,Larry Early,39519,Old Dominion,Colten Carlson,45286,South Dakota State
+2020,12/30,South Dakota State - Michigan State Dual,157,L,MD,12 - 3,Jacob Tucker,44639,Michigan State,Colten Carlson,45286,South Dakota State
+2020,12/29,South Beach College Individual,157,L,DEC,6 - 3,Phyllip DeLoach,40074,Missouri,Colten Carlson,45286,South Dakota State
+2020,12/29,South Dakota State - Duke Dual,157,W,MD,10 - 2,Eric Carter,51085,Duke,Colten Carlson,45286,South Dakota State
+2020,12/29,South Dakota State - Cornell Dual,157,L,DEC,8 - 2,Adam Santoro,46089,Cornell,Colten Carlson,45286,South Dakota State
+2020,12/20,Minnesota - South Dakota State Dual,157,L,DEC,6 - 3,Carson Brolsma,39549,Minnesota,Colten Carlson,45286,South Dakota State
+2020,12/06,Cliff Keen Invitational,157,L,FALL,2:46,Jaden Mattox,50612,Ohio State,Colten Carlson,45286,South Dakota State
+2020,12/06,Cliff Keen Invitational,157,L,DEC,15 - 8,Jared Franek,50639,North Dakota State,Colten Carlson,45286,South Dakota State
+2020,12/06,Cliff Keen Invitational,157,W,DEC,6 - 4,Wyatt Gerl,57201,CSU Bakersfield,Colten Carlson,45286,South Dakota State
+2020,11/22,South Dakota State - Utah Valley Dual,157,W,DEC,13 - 6,Jed Loveless,51516,Utah Valley,Colten Carlson,45286,South Dakota State
+2020,11/15,Binghamton - South Dakota State Dual,157,L,INJ,7:00,Chris Barker,51233,Binghamton,Laken Cook,45408,South Dakota State
+2020,11/09,Bison Open,157,W,MD,15 - 3,Ezekial Williamson,57771,St Cloud State,Laken Cook,45408,South Dakota State
+2020,11/09,Bison Open,157,W,DEC,15 - 10,Braydon Huber,51077,Mary,Laken Cook,45408,South Dakota State
+2020,11/09,Bison Open,157,L,INJ,7:00,Braydon Huber,51077,Mary,Laken Cook,45408,South Dakota State
+2020,11/09,Bison Open,157,L,DEC,7 - 4,Carson Brolsma,39549,Minnesota,Laken Cook,45408,South Dakota State
+2020,02/22,Last Chance Open,157,L,MD,10 - 2,Carter Schmidt,62606,Iowa State,Dalton Lakmann,57177,South Dakota State
+2020,02/22,Last Chance Open,157,L,DEC,8 - 6,Eric Owens,62174,Iowa State,Dalton Lakmann,57177,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,157,W,DEC,7 - 1,Zachary Hamann,64811,Minnesota West Comm & Tech,Dalton Lakmann,57177,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,157,W,FALL,4:52,Kory Van Oort,65553,Morningside,Dalton Lakmann,57177,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,157,W,SV-1,10 - 8,Levi May,65082,Iowa Western Community College,Dalton Lakmann,57177,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,157,W,TF5,21 - 5 4:26,Sam Copley,64355,Northwestern,Dalton Lakmann,57177,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,157,W,FALL,5:28,Tavoris Smith,58475,Iowa Lakes Community College,Dalton Lakmann,57177,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,157,L,DEC,4 - 2,Tyler Wagener,51651,Augustana,Dalton Lakmann,57177,South Dakota State
+2020,01/11,Ridgewater Open,157,W,DEC,5 - 2,Spencer Miller,64255,St Cloud State,Dalton Lakmann,57177,South Dakota State
+2020,01/11,Ridgewater Open,157,W,DEC,4 - 2,Sean Howk,62829,Southwest Minnesota State,Dalton Lakmann,57177,South Dakota State
+2020,01/11,Ridgewater Open,157,W,DEC,7 - 5,Jake Mandt,52569,St Cloud State,Dalton Lakmann,57177,South Dakota State
+2020,12/14,UNI Open,157,W,TB-1,7 - 5,Carter Schmidt,62606,Iowa State,Dalton Lakmann,57177,South Dakota State
+2020,12/14,UNI Open,157,L,DEC,7 - 6,Joey Sanchez,61029,Indiana,Dalton Lakmann,57177,South Dakota State
+2020,12/14,UNI Open,157,L,DEC,5 - 2,Joey Sanchez,61029,Indiana,Dalton Lakmann,57177,South Dakota State
+2020,12/14,UNI Open,157,L,FALL,1:44,Keaton Geerts,49240,Northern Iowa,Dalton Lakmann,57177,South Dakota State
+2020,12/07,Buena Vista Open,157,L,MFOR,0 - 0,Mason Kruljac,65452,Simpson,Dalton Lakmann,57177,South Dakota State
+2020,12/07,Buena Vista Open,157,L,MFOR,0 - 0,Justin Stammer,65139,Wartburg,Dalton Lakmann,57177,South Dakota State
+2020,11/17,Daktronics Open,157,W,MFOR,0 - 0,Nick Knutson,45598,North Dakota State,Dalton Lakmann,57177,South Dakota State
+2020,11/17,Daktronics Open,157,L,MD,16 - 5,Luke Weber,45050,North Dakota State,Dalton Lakmann,57177,South Dakota State
+2020,11/17,Daktronics Open,157,L,SV-1,13 - 11,John Blankenship,45857,Nebraska,Dalton Lakmann,57177,South Dakota State
+2020,11/09,Bison Open,157,L,MD,12 - 2,Colby Njos,57727,St Cloud State,Dalton Lakmann,57177,South Dakota State
+2020,11/09,Bison Open,157,W,DEC,14 - 9,Joshua Irwin,63933,Minnesota State Moorhead,Dalton Lakmann,57177,South Dakota State
+2020,11/09,Bison Open,157,W,DEC,6 - 5,Zach Berry,51741,Minot State,Dalton Lakmann,57177,South Dakota State
+2020,11/09,Bison Open,157,L,MD,10 - 1,Luke Weber,45050,North Dakota State,Dalton Lakmann,57177,South Dakota State
+2020,03/07,Big 12 Championships,165,W,FALL,4:58,Chase Straw,39610,Iowa State,Tanner Cook,51408,South Dakota State
+2020,03/07,Big 12 Championships,165,W,FALL,1:03,Adam Kemp,57045,Fresno State,Tanner Cook,51408,South Dakota State
+2020,03/07,Big 12 Championships,165,L,DEC,10 - 3,Travis Wittlake,50615,Oklahoma State,Tanner Cook,51408,South Dakota State
+2020,03/07,Big 12 Championships,165,W,DEC,12 - 10,Cole Moody,57067,Wyoming,Tanner Cook,51408,South Dakota State
+2020,02/21,North Dakota State - South Dakota State Dual,174,W,MD,17 - 8,Luke Weber,45050,North Dakota State,Tanner Cook,51408,South Dakota State
+2020,02/16,Stanford - South Dakota State Dual,174,W,DEC,4 - 0,Gabe Dinette,51191,Stanford,Tanner Cook,51408,South Dakota State
+2020,02/15,Fresno State - South Dakota State Dual,165,W,DEC,18 - 12,Adam Kemp,57045,Fresno State,Tanner Cook,51408,South Dakota State
+2020,02/09,South Dakota State - Ohio Dual,165,W,DEC,7 - 1,Nick Vestal,44944,Ohio,Tanner Cook,51408,South Dakota State
+2020,02/07,South Dakota State - West Virginia Dual,165,W,FALL,4:25,Nick Kiussis,49345,West Virginia,Tanner Cook,51408,South Dakota State
+2020,02/02,South Dakota State - Little Rock Dual,165,W,DEC,10 - 7,Will Edgar,60624,Little Rock,Tanner Cook,51408,South Dakota State
+2020,01/31,South Dakota State - Oklahoma State Dual,165,L,MD,14 - 6,Travis Wittlake,50615,Oklahoma State,Tanner Cook,51408,South Dakota State
+2020,01/26,Oklahoma - South Dakota State Dual,165,W,FALL,0:40,Jose Lao Cooper,57145,Oklahoma,Tanner Cook,51408,South Dakota State
+2020,01/17,Iowa State - South Dakota State Dual,165,W,FALL,3:47,Chase Straw,39610,Iowa State,Tanner Cook,51408,South Dakota State
+2020,01/12,Wyoming - South Dakota State Dual,165,L,MD,13 - 3,Cole Moody,57067,Wyoming,Tanner Cook,51408,South Dakota State
+2020,01/10,South Dakota State - Northern Iowa Dual,165,W,FALL,6:11,Austin Yant,50261,Northern Iowa,Tanner Cook,51408,South Dakota State
+2020,12/30,South Dakota State - Old Dominion Dual,165,W,FALL,0:45,Shane Jones,39984,Old Dominion,Tanner Cook,51408,South Dakota State
+2020,12/30,South Dakota State - Michigan State Dual,165,W,FALL,5:33,Drew Hughes,44802,Michigan State,Tanner Cook,51408,South Dakota State
+2020,12/29,South Beach College Individual,165,W,TF5,18 - 1 3:00,Kellen Ekern,51041,Old Dominion,Tanner Cook,51408,South Dakota State
+2020,12/29,South Beach College Individual,165,W,FALL,0:13,Luke Fortuna,39654,Missouri,Tanner Cook,51408,South Dakota State
+2020,12/29,South Dakota State - Cornell Dual,165,W,FALL,1:13,Milik Dawkins,41360,Cornell,Tanner Cook,51408,South Dakota State
+2020,11/23,UNK Holiday Inn Open,165,L,FALL,2:50,Fred Green,39780,Colorado Mesa,Tanner Cook,51408,South Dakota State
+2020,11/23,UNK Holiday Inn Open,165,W,FALL,1:32,Hayden Harris,51562,Colorado Mesa,Tanner Cook,51408,South Dakota State
+2020,11/23,UNK Holiday Inn Open,165,W,FALL,4:25,Tate Allison,46245,Chadron State,Tanner Cook,51408,South Dakota State
+2020,11/23,UNK Holiday Inn Open,165,W,MFOR,0 - 0,Matthew Malcom,44715,Nebraska-Kearney,Tanner Cook,51408,South Dakota State
+2020,11/23,UNK Holiday Inn Open,165,W,FALL,1:14,Jake Silverstein,67370,Nebraska,Tanner Cook,51408,South Dakota State
+2020,11/23,UNK Holiday Inn Open,165,W,FALL,4:54,Jack Johnson,56538,Air Force,Tanner Cook,51408,South Dakota State
+2020,02/21,North Dakota State - South Dakota State Dual,157,L,TF5,18 - 3 7:00,Jared Franek,50639,North Dakota State,Garrett Jordan,45287,South Dakota State
+2020,02/16,Stanford - South Dakota State Dual,157,W,DEC,9 - 3,Ethan Woods,49329,Stanford,Garrett Jordan,45287,South Dakota State
+2020,12/29,South Beach College Individual,165,W,FALL,4:20,Kellen Ekern,51041,Old Dominion,Garrett Jordan,45287,South Dakota State
+2020,12/29,South Beach College Individual,165,L,DEC,9 - 3,Peyton Mocco,50635,Missouri,Garrett Jordan,45287,South Dakota State
+2020,12/29,South Beach College Individual,165,W,DEC,4 - 3,Luke Fortuna,39654,Missouri,Garrett Jordan,45287,South Dakota State
+2020,12/29,South Dakota State - Duke Dual,165,W,DEC,13 - 6,Benjamin Anderson,51087,Duke,Garrett Jordan,45287,South Dakota State
+2020,12/20,Minnesota - South Dakota State Dual,165,L,DEC,9 - 4,Bailee O'Reilly,50166,Minnesota,Garrett Jordan,45287,South Dakota State
+2020,12/06,Cliff Keen Invitational,165,L,DEC,4 - 1,Derek Ciavarro,45159,Edinboro,Garrett Jordan,45287,South Dakota State
+2020,12/06,Cliff Keen Invitational,165,L,DEC,4 - 2,Milik Dawkins,41360,Cornell,Garrett Jordan,45287,South Dakota State
+2020,11/22,South Dakota State - Utah Valley Dual,165,W,DEC,3 - 2,Koy Wilkinson,45053,Utah Valley,Garrett Jordan,45287,South Dakota State
+2020,11/17,Daktronics Open,165,W,DEC,9 - 3,John Henrich,57038,Nebraska,Garrett Jordan,45287,South Dakota State
+2020,11/17,Daktronics Open,165,W,FALL,5:55,Jake Silverstein,67370,Nebraska,Garrett Jordan,45287,South Dakota State
+2020,11/17,Daktronics Open,165,L,DEC,5 - 3,Bailee O'Reilly,50166,Minnesota,Garrett Jordan,45287,South Dakota State
+2020,11/17,Daktronics Open,165,W,TF5,18 - 0 3:36,Dylan Wood,51028,Binghamton,Garrett Jordan,45287,South Dakota State
+2020,11/09,Bison Open,165,W,TF5,18 - 2 5:00,Nathan Baca,57891,Minot State,Garrett Jordan,45287,South Dakota State
+2020,11/09,Bison Open,165,W,FALL,1:52,Brock Schlough,57328,St Cloud State,Garrett Jordan,45287,South Dakota State
+2020,11/09,Bison Open,165,L,DEC,8 - 6,Payton Hume,56159,Mary,Garrett Jordan,45287,South Dakota State
+2020,11/09,Bison Open,165,W,DEC,3 - 2,Dante Springsteen,50976,Mary,Garrett Jordan,45287,South Dakota State
+2020,11/09,Bison Open,165,L,DEC,3 - 2,Bailee O'Reilly,50166,Minnesota,Garrett Jordan,45287,South Dakota State
+2020,02/21,North Dakota State - South Dakota State Dual,165,L,DEC,9 - 3,Andrew Fogarty,39706,North Dakota State,Kenny O'Neil,51243,South Dakota State
+2020,02/16,Stanford - South Dakota State Dual,165,L,MD,16 - 5,Shane Griffith,49991,Stanford,Kenny O'Neil,51243,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,165,W,DEC,5 - 3,Jacob Shoop,55226,Grand View,Kenny O'Neil,51243,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,165,W,DEC,7 - 2,Issiah Burks,49437,Concordia,Kenny O'Neil,51243,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,165,L,DEC,7 - 1,Zane Mulder,51192,Iowa State,Kenny O'Neil,51243,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,165,L,DEC,3 - 1,Isaac Judge,51071,Iowa State,Kenny O'Neil,51243,South Dakota State
+2020,11/17,Daktronics Open,165,W,DEC,6 - 1,Jake Silverstein,67370,Nebraska,Kenny O'Neil,51243,South Dakota State
+2020,11/17,Daktronics Open,165,W,SV-1,6 - 4,Dalton Peters,45206,Nebraska,Kenny O'Neil,51243,South Dakota State
+2020,11/17,Daktronics Open,165,L,DEC,8 - 2,Bailee O'Reilly,50166,Minnesota,Kenny O'Neil,51243,South Dakota State
+2020,11/15,Binghamton - South Dakota State Dual,165,W,DEC,7 - 3,Dylan Wood,51028,Binghamton,Kenny O'Neil,51243,South Dakota State
+2020,11/09,Bison Open,165,W,FALL,0:49,Alex Sandoval,63408,Minot State,Kenny O'Neil,51243,South Dakota State
+2020,11/09,Bison Open,165,W,DEC,3 - 1,Skyler Noftsger,56909,South Dakota State,Kenny O'Neil,51243,South Dakota State
+2020,11/09,Bison Open,165,W,DEC,4 - 3,Brock Schlough,57328,St Cloud State,Kenny O'Neil,51243,South Dakota State
+2020,11/09,Bison Open,165,L,FALL,5:22,Payton Hume,56159,Mary,Kenny O'Neil,51243,South Dakota State
+2020,11/09,Bison Open,165,W,TF5,18 - 1 4:01,Stosh Sitkowski,54728,Minot State,Kenny O'Neil,51243,South Dakota State
+2020,11/09,Bison Open,165,L,TF5,17 - 0 5:33,Andrew Fogarty,39706,North Dakota State,Kenny O'Neil,51243,South Dakota State
+2020,02/22,Last Chance Open,174,L,SV-1,8 - 6,Taylan Entriken,50983,Iowa State,Skyler Noftsger,56909,South Dakota State
+2020,02/22,Last Chance Open,174,L,MD,12 - 2,Samuel Colbray,44873,Iowa State,Skyler Noftsger,56909,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,174,L,DEC,3 - 1,Chris Guest,60641,Grand View,Skyler Noftsger,56909,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,174,L,FALL,4:53,Anthony Sherry,50887,Iowa State,Skyler Noftsger,56909,South Dakota State
+2020,01/11,Ridgewater Open,174,W,DEC,9 - 2,Carter Marx,62831,Southwest Minnesota State,Skyler Noftsger,56909,South Dakota State
+2020,01/11,Ridgewater Open,174,W,MD,11 - 3,Luke Clark,52571,St Cloud State,Skyler Noftsger,56909,South Dakota State
+2020,01/11,Ridgewater Open,174,L,DEC,8 - 5,James Noel,51691,North Dakota State,Skyler Noftsger,56909,South Dakota State
+2020,12/14,UNI Open,174,L,DEC,7 - 4,Kelby Hawkins,49318,South Dakota State,Skyler Noftsger,56909,South Dakota State
+2020,12/14,UNI Open,174,W,DEC,10 - 4,Nolan Harsh,61910,Iowa State,Skyler Noftsger,56909,South Dakota State
+2020,12/14,UNI Open,174,L,FALL,0:59,Donnell Washington,57738,Indiana,Skyler Noftsger,56909,South Dakota State
+2020,12/07,Buena Vista Open,174,L,DEC,4 - 3,Luke Clark,52571,St Cloud State,Skyler Noftsger,56909,South Dakota State
+2020,12/07,Buena Vista Open,174,L,DEC,5 - 2,Josh Barzowski,49396,St Cloud State,Skyler Noftsger,56909,South Dakota State
+2020,11/23,UNK Holiday Inn Open,174,W,DEC,7 - 5,Misael Monarrez,65077,Pratt Community College,Skyler Noftsger,56909,South Dakota State
+2020,11/23,UNK Holiday Inn Open,174,L,DEC,10 - 4,Levi Farris,62314,Colorado School Of Mines,Skyler Noftsger,56909,South Dakota State
+2020,11/23,UNK Holiday Inn Open,174,W,MD,12 - 1,Jacob Viera,59374,New Mexico Highlands,Skyler Noftsger,56909,South Dakota State
+2020,11/23,UNK Holiday Inn Open,174,W,MD,9 - 1,Gavin Eason,56238,Chadron State,Skyler Noftsger,56909,South Dakota State
+2020,11/17,Daktronics Open,165,L,FALL,6:20,Jake Silverstein,67370,Nebraska,Skyler Noftsger,56909,South Dakota State
+2020,11/17,Daktronics Open,165,L,TF5,16 - 0 3:25,Dalton Peters,45206,Nebraska,Skyler Noftsger,56909,South Dakota State
+2020,11/09,Bison Open,165,L,DEC,3 - 1,Kenny O'Neil,51243,South Dakota State,Skyler Noftsger,56909,South Dakota State
+2020,11/09,Bison Open,165,W,FALL,2:59,Tony Raupp,63949,Minot State,Skyler Noftsger,56909,South Dakota State
+2020,11/09,Bison Open,165,L,DEC,8 - 3,Brock Schlough,57328,St Cloud State,Skyler Noftsger,56909,South Dakota State
+2020,11/09,Bison Open,165,W,DEC,4 - 2,Dante Springsteen,50976,Mary,Skyler Noftsger,56909,South Dakota State
+2020,03/07,Big 12 Championships,174,L,DEC,10 - 7,Anthony Mantanona,49258,Oklahoma,Cade King,62671,South Dakota State
+2020,03/07,Big 12 Championships,174,L,DEC,2 - 1,Kimball Bastian,40322,Utah Valley,Cade King,62671,South Dakota State
+2020,02/09,South Dakota State - Ohio Dual,174,L,DEC,12 - 10,Logan Stanley,56204,Ohio,Cade King,62671,South Dakota State
+2020,02/07,South Dakota State - West Virginia Dual,174,L,DEC,8 - 3,Scott Joll,62424,West Virginia,Cade King,62671,South Dakota State
+2020,02/02,South Dakota State - Little Rock Dual,174,W,TF5,19 - 2 5:25,Tristan Tadeo,62846,Little Rock,Cade King,62671,South Dakota State
+2020,01/26,Oklahoma - South Dakota State Dual,174,L,FALL,5:39,Anthony Mantanona,49258,Oklahoma,Cade King,62671,South Dakota State
+2020,01/17,Iowa State - South Dakota State Dual,174,L,DEC,6 - 1,Samuel Colbray,44873,Iowa State,Cade King,62671,South Dakota State
+2020,01/12,Wyoming - South Dakota State Dual,174,L,DEC,5 - 0,Hayden Hastings,49354,Wyoming,Cade King,62671,South Dakota State
+2020,01/10,South Dakota State - Northern Iowa Dual,174,L,MD,12 - 1,Bryce Steiert,39504,Northern Iowa,Cade King,62671,South Dakota State
+2020,12/30,South Dakota State - Old Dominion Dual,174,W,DEC,8 - 4,Alex Cramer,56732,Old Dominion,Cade King,62671,South Dakota State
+2020,12/30,South Dakota State - Michigan State Dual,174,L,TF5,17 - 1 7:00,Layne Malczewski,51828,Michigan State,Cade King,62671,South Dakota State
+2020,12/29,South Beach College Individual,174,L,DEC,5 - 2,Kelby Hawkins,49318,South Dakota State,Cade King,62671,South Dakota State
+2020,12/29,South Beach College Individual,174,L,SV-1,7 - 5,Alex Cramer,56732,Old Dominion,Cade King,62671,South Dakota State
+2020,12/29,South Dakota State - Duke Dual,174,L,DEC,9 - 4,Mason Eaglin,57137,Duke,Cade King,62671,South Dakota State
+2020,12/29,South Dakota State - Cornell Dual,174,L,DEC,10 - 3,Brandon Womack,40379,Cornell,Cade King,62671,South Dakota State
+2020,12/20,Minnesota - South Dakota State Dual,174,L,DEC,6 - 1,Devin Skatzka,39603,Minnesota,Cade King,62671,South Dakota State
+2020,11/22,South Dakota State - Utah Valley Dual,174,L,DEC,4 - 0,Kimball Bastian,40322,Utah Valley,Cade King,62671,South Dakota State
+2020,11/17,Daktronics Open,174,W,FALL,4:31,Isaiah Alford,57092,Nebraska,Cade King,62671,South Dakota State
+2020,11/17,Daktronics Open,174,W,FALL,6:11,Samuel Grove,49320,South Dakota State,Cade King,62671,South Dakota State
+2020,11/17,Daktronics Open,174,L,TF5,15 - 0 7:00,Devin Skatzka,39603,Minnesota,Cade King,62671,South Dakota State
+2020,11/17,Daktronics Open,174,L,DEC,6 - 4,Alexander Melikian,45021,Binghamton,Cade King,62671,South Dakota State
+2020,11/15,Binghamton - South Dakota State Dual,174,L,DEC,10 - 3,Alexander Melikian,45021,Binghamton,Cade King,62671,South Dakota State
+2020,11/09,Bison Open,174,W,DEC,9 - 8,Dominic Murphy,63942,St Cloud State,Cade King,62671,South Dakota State
+2020,11/09,Bison Open,174,W,DEC,10 - 8,Tyler Ryan,63937,St Cloud State,Cade King,62671,South Dakota State
+2020,11/09,Bison Open,174,W,MD,14 - 4,Luke Clark,52571,St Cloud State,Cade King,62671,South Dakota State
+2020,11/09,Bison Open,174,W,DEC,3 - 0,Josh Barzowski,49396,St Cloud State,Cade King,62671,South Dakota State
+2020,11/09,Bison Open,174,W,DEC,8 - 7,Austin Brenner,50879,North Dakota State,Cade King,62671,South Dakota State
+2020,11/09,Bison Open,174,L,FALL,2:55,Devin Skatzka,39603,Minnesota,Cade King,62671,South Dakota State
+2020,02/15,Fresno State - South Dakota State Dual,174,L,DEC,6 - 0,Jackson Hemauer,49347,Fresno State,Kelby Hawkins,49318,South Dakota State
+2020,02/02,South Dakota State - Little Rock Dual,197,W,DEC,6 - 3,Dylan Johnson,63817,Little Rock,Kelby Hawkins,49318,South Dakota State
+2020,01/31,South Dakota State - Oklahoma State Dual,174,L,DEC,9 - 3,Joe Smith,39786,Oklahoma State,Kelby Hawkins,49318,South Dakota State
+2020,12/29,South Beach College Individual,174,W,DEC,5 - 2,Cade King,62671,South Dakota State,Kelby Hawkins,49318,South Dakota State
+2020,12/29,South Beach College Individual,174,L,DEC,2 - 1,Alex Cramer,56732,Old Dominion,Kelby Hawkins,49318,South Dakota State
+2020,12/29,South Beach College Individual,174,L,DEC,7 - 0,Jeremiah Kent,50824,Missouri,Kelby Hawkins,49318,South Dakota State
+2020,12/14,UNI Open,174,W,MFOR,0 - 0,Sean Grim,63021,Indiana,Kelby Hawkins,49318,South Dakota State
+2020,12/14,UNI Open,174,W,DEC,7 - 4,Skyler Noftsger,56909,South Dakota State,Kelby Hawkins,49318,South Dakota State
+2020,12/14,UNI Open,174,W,TF5,18 - 0 7:00,Brandon Tessau,56317,Iowa State,Kelby Hawkins,49318,South Dakota State
+2020,12/14,UNI Open,174,L,DEC,3 - 1,Mac Southard,50986,Iowa State,Kelby Hawkins,49318,South Dakota State
+2020,12/14,UNI Open,174,L,DEC,3 - 2,Taylan Entriken,50983,Iowa State,Kelby Hawkins,49318,South Dakota State
+2020,12/14,UNI Open,174,L,DEC,6 - 5,Keegan Moore,44872,Northern Iowa,Kelby Hawkins,49318,South Dakota State
+2020,02/22,Last Chance Open,197,W,FALL,1:09,Nicholas Bailey,66919,Iowa State University Wrestling Club,Samuel Grove,49320,South Dakota State
+2020,02/22,Last Chance Open,197,W,FALL,0:31,Noah Wynbrandt,67806,Dubuque,Samuel Grove,49320,South Dakota State
+2020,02/22,Last Chance Open,197,L,DEC,4 - 0,Francis Duggan,51112,Iowa State,Samuel Grove,49320,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,FALL,0:27,Jonathan Sutter,65648,Briar Cliff,Samuel Grove,49320,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,FALL,1:44,Juan Bolanos,65450,Waldorf,Samuel Grove,49320,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,MFOR,0 - 0,Jacob Schoon,62672,South Dakota State,Samuel Grove,49320,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,L,DEC,3 - 2,Colton Wolfe,50184,Nebraska,Samuel Grove,49320,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,L,DEC,5 - 2,Julien Broderson,57644,Iowa State,Samuel Grove,49320,South Dakota State
+2020,12/14,UNI Open,174,L,MFOR,0 - 0,Robert Weber,62665,Missouri,Samuel Grove,49320,South Dakota State
+2020,12/14,UNI Open,174,L,DEC,5 - 2,Brandon Tessau,56317,Iowa State,Samuel Grove,49320,South Dakota State
+2020,12/07,Buena Vista Open,184,W,MD,13 - 0,Matt Onken,65453,Simpson,Samuel Grove,49320,South Dakota State
+2020,12/07,Buena Vista Open,184,L,MFOR,0 - 0,Juan Bolanos,65450,Waldorf,Samuel Grove,49320,South Dakota State
+2020,12/07,Buena Vista Open,184,L,DEC,4 - 0,William Pitzner,49392,St Cloud State,Samuel Grove,49320,South Dakota State
+2020,11/17,Daktronics Open,174,L,FALL,6:11,Cade King,62671,South Dakota State,Samuel Grove,49320,South Dakota State
+2020,11/17,Daktronics Open,174,W,MD,14 - 5,Isaiah Alford,57092,Nebraska,Samuel Grove,49320,South Dakota State
+2020,11/17,Daktronics Open,174,L,FALL,0:44,Devin Skatzka,39603,Minnesota,Samuel Grove,49320,South Dakota State
+2020,11/17,Daktronics Open,174,L,DEC,6 - 1,Alexander Melikian,45021,Binghamton,Samuel Grove,49320,South Dakota State
+2020,11/09,Bison Open,174,W,FALL,1:24,Drew Christensen,63931,Unattached,Samuel Grove,49320,South Dakota State
+2020,11/09,Bison Open,174,W,FALL,4:38,Marcio Fallah,57890,Minot State,Samuel Grove,49320,South Dakota State
+2020,11/09,Bison Open,174,L,DEC,3 - 2,Luke Clark,52571,St Cloud State,Samuel Grove,49320,South Dakota State
+2020,11/09,Bison Open,174,W,FALL,0:23,Joseph Lopez,51740,Minot State,Samuel Grove,49320,South Dakota State
+2020,11/09,Bison Open,174,W,DEC,5 - 4,Evan Foster,50337,Minnesota State Moorhead,Samuel Grove,49320,South Dakota State
+2020,11/09,Bison Open,174,L,DEC,9 - 2,Austin Brenner,50879,North Dakota State,Samuel Grove,49320,South Dakota State
+2020,03/07,Big 12 Championships,184,L,DEC,10 - 6,Taylor Lujan,39506,Northern Iowa,Zach Carlson,40280,South Dakota State
+2020,03/07,Big 12 Championships,184,W,DEC,8 - 2,Darrien Roberts,60446,Oklahoma,Zach Carlson,40280,South Dakota State
+2020,03/07,Big 12 Championships,184,W,DEC,3 - 2,Tate Samuelson,57066,Wyoming,Zach Carlson,40280,South Dakota State
+2020,02/21,North Dakota State - South Dakota State Dual,184,W,TF5,16 - 1 7:00,Noah Cressell,51692,North Dakota State,Zach Carlson,40280,South Dakota State
+2020,02/16,Stanford - South Dakota State Dual,184,W,MD,16 - 5,Jared Hill,45390,Stanford,Zach Carlson,40280,South Dakota State
+2020,02/15,Fresno State - South Dakota State Dual,184,W,MD,16 - 2,Hunter Cruz,56318,Fresno State,Zach Carlson,40280,South Dakota State
+2020,02/09,South Dakota State - Ohio Dual,184,W,TF5,16 - 0 7:00,Hunter Yeargan,45564,Ohio,Zach Carlson,40280,South Dakota State
+2020,02/07,South Dakota State - West Virginia Dual,184,W,TF5,18 - 3 7:00,Hunter DeLong,50972,West Virginia,Zach Carlson,40280,South Dakota State
+2020,02/02,South Dakota State - Little Rock Dual,184,W,TF5,19 - 2 3:00,Matthew Muller,62816,Little Rock,Zach Carlson,40280,South Dakota State
+2020,01/31,South Dakota State - Oklahoma State Dual,184,L,DEC,3 - 1,Anthony Montalvo,51619,Oklahoma State,Zach Carlson,40280,South Dakota State
+2020,01/26,Oklahoma - South Dakota State Dual,184,W,MD,10 - 0,Darrien Roberts,60446,Oklahoma,Zach Carlson,40280,South Dakota State
+2020,01/17,Iowa State - South Dakota State Dual,184,W,MD,8 - 0,Marcus Coleman,49154,Iowa State,Zach Carlson,40280,South Dakota State
+2020,01/12,Wyoming - South Dakota State Dual,184,W,DEC,3 - 2,Tate Samuelson,57066,Wyoming,Zach Carlson,40280,South Dakota State
+2020,01/10,South Dakota State - Northern Iowa Dual,184,L,DEC,10 - 3,Taylor Lujan,39506,Northern Iowa,Zach Carlson,40280,South Dakota State
+2020,12/30,South Dakota State - Old Dominion Dual,184,W,MD,15 - 3,Antonio Agee,44635,Old Dominion,Zach Carlson,40280,South Dakota State
+2020,12/30,South Dakota State - Michigan State Dual,184,W,DEC,7 - 6,Cameron Caffey,50273,Michigan State,Zach Carlson,40280,South Dakota State
+2020,12/29,South Dakota State - Duke Dual,184,W,FALL,0:58,Kai Blake,62377,Duke,Zach Carlson,40280,South Dakota State
+2020,12/29,South Dakota State - Cornell Dual,184,W,DEC,8 - 5,Jonathan Loew,51080,Cornell,Zach Carlson,40280,South Dakota State
+2020,12/20,Minnesota - South Dakota State Dual,184,W,DEC,4 - 1,Owen Webster,48190,Minnesota,Zach Carlson,40280,South Dakota State
+2020,12/06,Cliff Keen Invitational,184,W,DEC,6 - 3,Gavin Hoffman,50609,Ohio State,Zach Carlson,40280,South Dakota State
+2020,12/06,Cliff Keen Invitational,184,W,DEC,6 - 0,TJ Pottinger,57098,North Dakota State,Zach Carlson,40280,South Dakota State
+2020,12/06,Cliff Keen Invitational,184,L,DEC,10 - 5,Taylor Venz,44854,Nebraska,Zach Carlson,40280,South Dakota State
+2020,12/06,Cliff Keen Invitational,184,L,DEC,10 - 4,Hunter Bolen,49335,Virginia Tech,Zach Carlson,40280,South Dakota State
+2020,12/06,Cliff Keen Invitational,184,W,TF5,15 - 0 5:17,Luke Funck,50960,Clarion,Zach Carlson,40280,South Dakota State
+2020,11/22,South Dakota State - Utah Valley Dual,184,W,FALL,3:55,Gary Jantzer,44879,Utah Valley,Zach Carlson,40280,South Dakota State
+2020,11/17,Daktronics Open,184,W,MD,14 - 2,Colton Wolfe,50184,Nebraska,Zach Carlson,40280,South Dakota State
+2020,11/17,Daktronics Open,184,L,MFOR,0 - 0,Owen Webster,48190,Minnesota,Zach Carlson,40280,South Dakota State
+2020,11/17,Daktronics Open,184,W,FALL,2:28,Hunter Ritter,39783,Minnesota,Zach Carlson,40280,South Dakota State
+2020,11/15,Binghamton - South Dakota State Dual,184,L,MD,12 - 3,Louie DePrez,49046,Binghamton,Zach Carlson,40280,South Dakota State
+2020,11/09,Bison Open,184,W,MD,11 - 0,Noah Cressell,51692,North Dakota State,Zach Carlson,40280,South Dakota State
+2020,11/09,Bison Open,184,W,DEC,6 - 0,Caden Steffen,51689,Minnesota,Zach Carlson,40280,South Dakota State
+2020,11/09,Bison Open,184,W,DEC,3 - 1,Owen Webster,48190,Minnesota,Zach Carlson,40280,South Dakota State
+2020,11/09,Bison Open,184,W,MFOR,0 - 0,Hunter Ritter,39783,Minnesota,Zach Carlson,40280,South Dakota State
+2020,02/22,Last Chance Open,184,W,DEC,6 - 3,Caleb Orris,62673,South Dakota State,Jacob Schoon,62672,South Dakota State
+2020,02/22,Last Chance Open,184,L,MD,8 - 0,Caden Steffen,51689,Minnesota,Jacob Schoon,62672,South Dakota State
+2020,02/22,Last Chance Open,184,W,INJ,7:00,Julien Broderson,57644,Iowa State,Jacob Schoon,62672,South Dakota State
+2020,02/22,Last Chance Open,184,L,DEC,7 - 3,Tate Battani,57232,Iowa State,Jacob Schoon,62672,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,L,MFOR,0 - 0,Samuel Grove,49320,South Dakota State,Jacob Schoon,62672,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,DEC,12 - 6,Caleb Orris,62673,South Dakota State,Jacob Schoon,62672,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,L,DEC,15 - 9,Tanner Stamper-Smith,61452,Unattached,Jacob Schoon,62672,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,TF5,16 - 0 5:00,Jake Leicht,51695,Briar Cliff,Jacob Schoon,62672,South Dakota State
+2020,01/11,Ridgewater Open,184,W,FALL,2:46,Shane Gibson,65437,Minnesota State Mankato,Jacob Schoon,62672,South Dakota State
+2020,01/11,Ridgewater Open,184,L,DEC,9 - 5,Tyler Ryan,63937,St Cloud State,Jacob Schoon,62672,South Dakota State
+2020,01/11,Ridgewater Open,184,W,MD,12 - 4,Ayden Friese,63783,Concordia-Moorhead,Jacob Schoon,62672,South Dakota State
+2020,11/17,Daktronics Open,184,W,MFOR,0 - 0,Jacob Taylor,64943,Unattached,Jacob Schoon,62672,South Dakota State
+2020,11/17,Daktronics Open,184,W,DEC,6 - 4,Gary Wokojance,57132,North Dakota State,Jacob Schoon,62672,South Dakota State
+2020,11/17,Daktronics Open,184,L,TF5,16 - 1 7:00,Owen Webster,48190,Minnesota,Jacob Schoon,62672,South Dakota State
+2020,11/17,Daktronics Open,184,L,DEC,9 - 3,Hunter Ritter,39783,Minnesota,Jacob Schoon,62672,South Dakota State
+2020,11/09,Bison Open,184,W,TF5,15 - 0 3:28,Gabe Anderson,56189,Mary,Jacob Schoon,62672,South Dakota State
+2020,11/09,Bison Open,184,W,FALL,0:56,Gary Wokojance,57132,North Dakota State,Jacob Schoon,62672,South Dakota State
+2020,11/09,Bison Open,184,L,DEC,4 - 3,TJ Pottinger,57098,North Dakota State,Jacob Schoon,62672,South Dakota State
+2020,11/09,Bison Open,184,W,DEC,11 - 9,Noah Cressell,51692,North Dakota State,Jacob Schoon,62672,South Dakota State
+2020,11/09,Bison Open,184,L,DEC,3 - 0,Caden Steffen,51689,Minnesota,Jacob Schoon,62672,South Dakota State
+2020,11/09,Bison Open,184,L,DEC,9 - 5,Hunter Ritter,39783,Minnesota,Jacob Schoon,62672,South Dakota State
+2020,02/22,Last Chance Open,184,L,DEC,6 - 3,Jacob Schoon,62672,South Dakota State,Caleb Orris,62673,South Dakota State
+2020,02/22,Last Chance Open,184,W,MFOR,0 - 0,Johnny Sebastian,20224,Wisconsin,Caleb Orris,62673,South Dakota State
+2020,02/22,Last Chance Open,184,W,MFOR,0 - 0,Caleb Long,59679,Iowa State,Caleb Orris,62673,South Dakota State
+2020,02/22,Last Chance Open,184,L,DEC,4 - 3,Caleb Long,59679,Iowa State,Caleb Orris,62673,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,L,DEC,12 - 6,Jacob Schoon,62672,South Dakota State,Caleb Orris,62673,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,TF5,15 - 0 3:05,Henry Lutter,66682,Morningside,Caleb Orris,62673,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,TF5,20 - 3 6:59,Christian Balmer,66680,Briar Cliff,Caleb Orris,62673,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,W,FALL,5:47,Jonathan Garcia,58280,Briar Cliff,Caleb Orris,62673,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,184,L,MD,18 - 10,Tate Battani,57232,Iowa State,Caleb Orris,62673,South Dakota State
+2020,01/11,Ridgewater Open,184,W,DEC,2 - 1,Shane Gibson,65437,Minnesota State Mankato,Caleb Orris,62673,South Dakota State
+2020,01/11,Ridgewater Open,184,L,FALL,2:55,Tyler Ryan,63937,St Cloud State,Caleb Orris,62673,South Dakota State
+2020,01/11,Ridgewater Open,184,W,DEC,8 - 2,Ayden Friese,63783,Concordia-Moorhead,Caleb Orris,62673,South Dakota State
+2020,12/07,Buena Vista Open,184,W,DEC,2 - 1,Trevor Walton,52687,Wartburg,Caleb Orris,62673,South Dakota State
+2020,12/07,Buena Vista Open,184,W,TF5,18 - 0 7:00,Jake Leicht,51695,Briar Cliff,Caleb Orris,62673,South Dakota State
+2020,12/07,Buena Vista Open,184,L,DEC,4 - 1,William Pitzner,49392,St Cloud State,Caleb Orris,62673,South Dakota State
+2020,12/07,Buena Vista Open,184,L,FALL,0:46,Tyree Overton,47367,St Cloud State,Caleb Orris,62673,South Dakota State
+2020,11/23,UNK Holiday Inn Open,184,W,FALL,2:38,Seth Solano,65078,Doane College,Caleb Orris,62673,South Dakota State
+2020,11/23,UNK Holiday Inn Open,184,W,MD,10 - 2,Jayson Davis,63614,CSU-Pueblo,Caleb Orris,62673,South Dakota State
+2020,11/23,UNK Holiday Inn Open,184,W,FALL,1:43,Jacari Deal,63584,Northwest Kansas Technical College,Caleb Orris,62673,South Dakota State
+2020,11/23,UNK Holiday Inn Open,184,L,DEC,5 - 2,Joseph Reimers,62632,Nebraska-Kearney,Caleb Orris,62673,South Dakota State
+2020,11/23,UNK Holiday Inn Open,184,W,DEC,7 - 2,Lance Killgore,52693,New Mexico Highlands,Caleb Orris,62673,South Dakota State
+2020,11/17,Daktronics Open,184,L,DEC,4 - 2,Jacob Taylor,64943,Unattached,Caleb Orris,62673,South Dakota State
+2020,11/17,Daktronics Open,184,L,FALL,3:13,Hunter Ritter,39783,Minnesota,Caleb Orris,62673,South Dakota State
+2020,11/09,Bison Open,184,W,DEC,10 - 5,Mitchell Kotschevar,51763,Minnesota State Moorhead,Caleb Orris,62673,South Dakota State
+2020,11/09,Bison Open,184,L,DEC,12 - 5,Gary Wokojance,57132,North Dakota State,Caleb Orris,62673,South Dakota State
+2020,11/09,Bison Open,184,L,DEC,6 - 2,Caden Steffen,51689,Minnesota,Caleb Orris,62673,South Dakota State
+2020,03/07,Big 12 Championships,197,L,DEC,5 - 1,Noah Adams,49342,West Virginia,Tanner Sloan,56251,South Dakota State
+2020,03/07,Big 12 Championships,197,W,MD,9 - 0,Joel Devine,50653,Iowa State,Tanner Sloan,56251,South Dakota State
+2020,03/07,Big 12 Championships,197,W,MD,8 - 0,Jake Woodley,49257,Oklahoma,Tanner Sloan,56251,South Dakota State
+2020,03/07,Big 12 Championships,197,W,MD,11 - 1,Jacob Seely,39665,Northern Colorado,Tanner Sloan,56251,South Dakota State
+2020,02/21,North Dakota State - South Dakota State Dual,197,W,DEC,3 - 2,Cordell Eaton,40458,North Dakota State,Tanner Sloan,56251,South Dakota State
+2020,02/16,Stanford - South Dakota State Dual,197,W,DEC,7 - 2,Nathan Traxler,45395,Stanford,Tanner Sloan,56251,South Dakota State
+2020,02/15,Fresno State - South Dakota State Dual,197,W,MD,9 - 0,Dominic Kincaid,45678,Fresno State,Tanner Sloan,56251,South Dakota State
+2020,02/09,South Dakota State - Ohio Dual,197,W,TF5,16 - 1 7:00,Jake Walker,45563,Ohio,Tanner Sloan,56251,South Dakota State
+2020,01/31,South Dakota State - Oklahoma State Dual,197,L,INJ,7:00,Dakota Geer,45373,Oklahoma State,Tanner Sloan,56251,South Dakota State
+2020,01/26,Oklahoma - South Dakota State Dual,197,W,DEC,4 - 2,Jake Woodley,49257,Oklahoma,Tanner Sloan,56251,South Dakota State
+2020,01/17,Iowa State - South Dakota State Dual,197,W,MD,10 - 2,Joel Devine,50653,Iowa State,Tanner Sloan,56251,South Dakota State
+2020,01/12,Wyoming - South Dakota State Dual,197,W,DEC,6 - 3,Stephen Buchanan,60451,Wyoming,Tanner Sloan,56251,South Dakota State
+2020,01/10,South Dakota State - Northern Iowa Dual,197,W,FALL,1:42,Noah Glaser,51108,Northern Iowa,Tanner Sloan,56251,South Dakota State
+2020,12/30,South Dakota State - Old Dominion Dual,197,W,MD,13 - 0,Timothy Young,40523,Old Dominion,Tanner Sloan,56251,South Dakota State
+2020,12/30,South Dakota State - Michigan State Dual,197,W,DEC,7 - 0,Nick May,44742,Michigan State,Tanner Sloan,56251,South Dakota State
+2020,12/29,South Beach College Individual,197,W,FALL,3:42,Jack Flynn,51611,Missouri,Tanner Sloan,56251,South Dakota State
+2020,12/29,South Dakota State - Duke Dual,197,W,TF5,18 - 0 7:00,Vincent Baker,56930,Duke,Tanner Sloan,56251,South Dakota State
+2020,12/29,South Dakota State - Cornell Dual,197,L,DEC,5 - 4,Ben Darmstadt,45876,Cornell,Tanner Sloan,56251,South Dakota State
+2020,12/20,Minnesota - South Dakota State Dual,197,W,DEC,5 - 0,Hunter Ritter,39783,Minnesota,Tanner Sloan,56251,South Dakota State
+2020,12/06,Cliff Keen Invitational,197,L,DEC,5 - 3,Jake Woodley,49257,Oklahoma,Tanner Sloan,56251,South Dakota State
+2020,12/06,Cliff Keen Invitational,197,W,DEC,10 - 4,Jacob Seely,39665,Northern Colorado,Tanner Sloan,56251,South Dakota State
+2020,12/06,Cliff Keen Invitational,197,W,MD,10 - 1,Jonathan Loew,51080,Cornell,Tanner Sloan,56251,South Dakota State
+2020,12/06,Cliff Keen Invitational,197,L,FALL,4:23,Greg Bulsak,44655,Clarion,Tanner Sloan,56251,South Dakota State
+2020,11/22,South Dakota State - Utah Valley Dual,197,L,DEC,5 - 3,Tanner Orndorff,40324,Utah Valley,Tanner Sloan,56251,South Dakota State
+2020,11/17,Daktronics Open,197,W,FALL,2:41,Cole Witzig,45596,North Dakota State,Tanner Sloan,56251,South Dakota State
+2020,11/17,Daktronics Open,197,W,MD,16 - 3,Dylan Anderson,44970,Minnesota,Tanner Sloan,56251,South Dakota State
+2020,11/15,Binghamton - South Dakota State Dual,197,W,FALL,4:45,Nunzio Crowley,45185,Binghamton,Tanner Sloan,56251,South Dakota State
+2020,03/07,Big 12 Championships,285,L,FALL,1:44,Brandon Metz,49222,North Dakota State,Blake Wolters,45289,South Dakota State
+2020,03/07,Big 12 Championships,285,W,MD,8 - 0,Kayne Hutchison,49026,Air Force,Blake Wolters,45289,South Dakota State
+2020,03/07,Big 12 Championships,285,L,DEC,5 - 3,Carter Isley,44719,Northern Iowa,Blake Wolters,45289,South Dakota State
+2020,03/07,Big 12 Championships,285,L,MD,11 - 3,Tate Orndorff,50974,Utah Valley,Blake Wolters,45289,South Dakota State
+2020,03/07,Big 12 Championships,285,W,DEC,3 - 1,Brandon Ngati,45167,West Virginia,Blake Wolters,45289,South Dakota State
+2020,02/21,North Dakota State - South Dakota State Dual,285,L,DEC,3 - 2,Brandon Metz,49222,North Dakota State,Blake Wolters,45289,South Dakota State
+2020,02/16,Stanford - South Dakota State Dual,285,W,DEC,7 - 1,Trevor Rasmussen,40001,Stanford,Blake Wolters,45289,South Dakota State
+2020,02/15,Fresno State - South Dakota State Dual,285,L,DEC,5 - 2,Josh Hokit,44586,Fresno State,Blake Wolters,45289,South Dakota State
+2020,02/09,South Dakota State - Ohio Dual,285,L,DEC,8 - 3,Jordan Earnest,51122,Ohio,Blake Wolters,45289,South Dakota State
+2020,02/07,South Dakota State - West Virginia Dual,285,L,DEC,5 - 2,Sean Mullican,49344,West Virginia,Blake Wolters,45289,South Dakota State
+2020,01/31,South Dakota State - Oklahoma State Dual,285,W,DEC,4 - 3,Austin Harris,52334,Oklahoma State,Blake Wolters,45289,South Dakota State
+2020,01/26,Oklahoma - South Dakota State Dual,285,W,TB-2,4 - 3,Josiah Jones,51617,Oklahoma,Blake Wolters,45289,South Dakota State
+2020,01/17,Iowa State - South Dakota State Dual,285,L,DEC,4 - 3,Gannon Gremmel,44856,Iowa State,Blake Wolters,45289,South Dakota State
+2020,01/12,Wyoming - South Dakota State Dual,285,L,DEC,1 - 0,Brian Andrews,50489,Wyoming,Blake Wolters,45289,South Dakota State
+2020,01/10,South Dakota State - Northern Iowa Dual,285,L,SV-1,3 - 1,Carter Isley,44719,Northern Iowa,Blake Wolters,45289,South Dakota State
+2020,12/30,South Dakota State - Old Dominion Dual,285,W,DEC,7 - 4,Jacob Bullock,57724,Old Dominion,Blake Wolters,45289,South Dakota State
+2020,12/30,South Dakota State - Michigan State Dual,285,L,DEC,6 - 2,Christian Rebottaro,44850,Michigan State,Blake Wolters,45289,South Dakota State
+2020,12/29,South Beach College Individual,285,W,SV-1,3 - 1,Jacob Bohlken,44953,Missouri,Blake Wolters,45289,South Dakota State
+2020,12/29,South Beach College Individual,285,W,DEC,5 - 3,Rodrigo Diaz,44851,Missouri,Blake Wolters,45289,South Dakota State
+2020,12/29,South Dakota State - Duke Dual,285,W,DEC,3 - 2,Jonah Niesenbaum,60444,Duke,Blake Wolters,45289,South Dakota State
+2020,12/29,South Dakota State - Cornell Dual,285,L,DEC,5 - 0,Brendan Furman,49113,Cornell,Blake Wolters,45289,South Dakota State
+2020,12/20,Minnesota - South Dakota State Dual,285,L,MD,21 - 8,Gable Steveson,50624,Minnesota,Blake Wolters,45289,South Dakota State
+2020,12/06,Cliff Keen Invitational,285,L,FALL,0:56,Mason Parris,51176,Michigan,Blake Wolters,45289,South Dakota State
+2020,12/06,Cliff Keen Invitational,285,L,FALL,2:11,Spencer Berthold,50157,Kent State,Blake Wolters,45289,South Dakota State
+2020,12/06,Cliff Keen Invitational,285,W,SV-1,7 - 5,Lee Herrington,56179,Nebraska-Kearney,Blake Wolters,45289,South Dakota State
+2020,11/22,South Dakota State - Utah Valley Dual,285,L,SV-1,6 - 4,Tate Orndorff,50974,Utah Valley,Blake Wolters,45289,South Dakota State
+2020,11/17,Daktronics Open,285,W,DEC,5 - 2,Alex Aarsvold,51007,South Dakota State,Blake Wolters,45289,South Dakota State
+2020,11/17,Daktronics Open,285,W,DEC,8 - 4,Dan Stibral,39554,North Dakota State,Blake Wolters,45289,South Dakota State
+2020,11/17,Daktronics Open,285,L,DEC,5 - 3,Austin Emerson,56470,Nebraska,Blake Wolters,45289,South Dakota State
+2020,11/17,Daktronics Open,285,L,DEC,3 - 2,Austin Emerson,56470,Nebraska,Blake Wolters,45289,South Dakota State
+2020,11/15,Binghamton - South Dakota State Dual,285,L,FALL,1:15,Joe Doyle,49050,Binghamton,Blake Wolters,45289,South Dakota State
+2020,11/09,Bison Open,285,W,TF5,18 - 1 1:51,Delson Santel,63950,Unattached,Blake Wolters,45289,South Dakota State
+2020,11/09,Bison Open,285,W,MD,13 - 3,Nicholas Pierce,56774,St Cloud State,Blake Wolters,45289,South Dakota State
+2020,11/09,Bison Open,285,L,DEC,9 - 2,Brandon Metz,49222,North Dakota State,Blake Wolters,45289,South Dakota State
+2020,11/09,Bison Open,285,W,INJ,7:00,Chase O'Connor,43960,Minnesota,Blake Wolters,45289,South Dakota State
+2020,02/22,Last Chance Open,285,L,MFOR,0 - 0,Bowen McConville,57175,South Dakota State,Spencer Trenary,57604,South Dakota State
+2020,02/22,Last Chance Open,285,W,MFOR,0 - 0,Josh Cox,61816,Dubuque,Spencer Trenary,57604,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,285,W,DEC,8 - 1,Brandon Antesberger,66679,Doane College,Spencer Trenary,57604,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,285,L,DEC,6 - 0,Tanner Farmer,66201,Concordia,Spencer Trenary,57604,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,285,W,MFOR,0 - 0,Phil Rasmussen,52439,Morningside,Spencer Trenary,57604,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,285,W,TF5,16 - 0 1:46,Scott Dollison,46000,Briar Cliff,Spencer Trenary,57604,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,285,W,DEC,5 - 3,Cale Davidson,49353,Nebraska,Spencer Trenary,57604,South Dakota State
+2020,01/11,Ridgewater Open,285,W,TF5,17 - 0 7:00,Tyler Hugg,64221,St Cloud State,Spencer Trenary,57604,South Dakota State
+2020,12/29,Midlands Championships,285,L,DEC,2 - 1,Thomas Penola,57105,Purdue,Spencer Trenary,57604,South Dakota State
+2020,12/29,Midlands Championships,285,L,DEC,3 - 1,Tommy Helton,45298,SIU Edwardsville,Spencer Trenary,57604,South Dakota State
+2020,12/29,Midlands Championships,285,W,DEC,9 - 7,Greg Hodulick,49406,Buffalo,Spencer Trenary,57604,South Dakota State
+2020,12/29,Midlands Championships,285,W,FALL,1:45,James Valentino,49057,Brown,Spencer Trenary,57604,South Dakota State
+2020,12/14,UNI Open,285,W,FALL,5:59,Brandon Streck,56190,Indiana,Spencer Trenary,57604,South Dakota State
+2020,12/14,UNI Open,285,L,DEC,7 - 5,Rodrigo Diaz,44851,Missouri,Spencer Trenary,57604,South Dakota State
+2020,12/14,UNI Open,285,W,FALL,2:44,Logan Andrew,59757,Chattanooga,Spencer Trenary,57604,South Dakota State
+2020,12/14,UNI Open,285,W,FALL,0:35,Bryce Esmoil,57162,Northern Iowa,Spencer Trenary,57604,South Dakota State
+2020,12/07,Buena Vista Open,285,W,FALL,1:13,Maxwell Diaz,65118,William Penn,Spencer Trenary,57604,South Dakota State
+2020,12/07,Buena Vista Open,285,W,FALL,2:39,David Griffet,57570,Minnesota State Mankato,Spencer Trenary,57604,South Dakota State
+2020,12/07,Buena Vista Open,285,L,FALL,4:14,Boone McDermott,56898,Iowa Central Community College,Spencer Trenary,57604,South Dakota State
+2020,12/07,Buena Vista Open,285,W,MFOR,0 - 0,Darrell Mason,53770,Ellsworth CC,Spencer Trenary,57604,South Dakota State
+2020,12/07,Buena Vista Open,285,W,DEC,5 - 1,Phil Rasmussen,52439,Morningside,Spencer Trenary,57604,South Dakota State
+2020,11/23,UNK Holiday Inn Open,285,W,FALL,1:15,Jonathan Kellogg,65076,Schreiner,Spencer Trenary,57604,South Dakota State
+2020,11/23,UNK Holiday Inn Open,285,W,DEC,7 - 5,Dalton Sikes,61482,Ottawa,Spencer Trenary,57604,South Dakota State
+2020,11/23,UNK Holiday Inn Open,285,W,FALL,0:44,Terren Swartz,57983,Wyoming,Spencer Trenary,57604,South Dakota State
+2020,11/23,UNK Holiday Inn Open,285,W,FALL,6:08,Brooks Baker,57315,Wyoming,Spencer Trenary,57604,South Dakota State
+2020,11/23,UNK Holiday Inn Open,285,W,FALL,5:45,Mike True,57023,Colorado School Of Mines,Spencer Trenary,57604,South Dakota State
+2020,11/17,Daktronics Open,285,L,DEC,4 - 3,Bowen McConville,57175,South Dakota State,Spencer Trenary,57604,South Dakota State
+2020,11/17,Daktronics Open,285,L,DEC,11 - 8,Robert Steveson,39518,Minnesota,Spencer Trenary,57604,South Dakota State
+2020,11/09,Bison Open,285,L,DEC,3 - 2,Bowen McConville,57175,South Dakota State,Spencer Trenary,57604,South Dakota State
+2020,11/09,Bison Open,285,W,FALL,1:41,Emmitt Brooks,49441,Mary,Spencer Trenary,57604,South Dakota State
+2020,11/09,Bison Open,285,L,DEC,5 - 2,Dominic Tudor,45872,Mary,Spencer Trenary,57604,South Dakota State
+2020,11/17,Daktronics Open,285,L,DEC,5 - 2,Blake Wolters,45289,South Dakota State,Alex Aarsvold,51007,South Dakota State
+2020,11/17,Daktronics Open,285,L,FALL,1:28,Joe Doyle,49050,Binghamton,Alex Aarsvold,51007,South Dakota State
+2020,02/22,Last Chance Open,285,W,INJ,0 - 0,Josh Cox,61816,Dubuque,Bowen McConville,57175,South Dakota State
+2020,02/22,Last Chance Open,285,W,INJ,7:00,Josh Cox,61816,Dubuque,Bowen McConville,57175,South Dakota State
+2020,02/22,Last Chance Open,285,W,MFOR,0 - 0,Spencer Trenary,57604,South Dakota State,Bowen McConville,57175,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,285,W,DEC,9 - 2,Derrell Zagurski,66677,Morningside,Bowen McConville,57175,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,285,L,DEC,3 - 1,Tanner Farmer,66201,Concordia,Bowen McConville,57175,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,285,W,MFOR,0 - 0,David Griffet,57570,Minnesota State Mankato,Bowen McConville,57175,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,285,W,DEC,2 - 0,Wyatt Turner,54076,Briar Cliff,Bowen McConville,57175,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,285,W,FALL,3:53,Austin Emerson,56470,Nebraska,Bowen McConville,57175,South Dakota State
+2020,02/01,Sioux City Dave Edmonds Open,285,W,MFOR,0 - 0,Cale Davidson,49353,Nebraska,Bowen McConville,57175,South Dakota State
+2020,01/11,Ridgewater Open,285,W,FALL,2:47,Dillon McEachran,57554,Southwest Minnesota State,Bowen McConville,57175,South Dakota State
+2020,01/11,Ridgewater Open,285,W,FALL,6:00,Neil Hanson,57581,Southwest Minnesota State,Bowen McConville,57175,South Dakota State
+2020,12/07,Buena Vista Open,285,W,FALL,1:13,Adam Sepan,65454,Simpson,Bowen McConville,57175,South Dakota State
+2020,12/07,Buena Vista Open,285,W,MD,10 - 0,Mj Montgomery,65449,Briar Cliff,Bowen McConville,57175,South Dakota State
+2020,12/07,Buena Vista Open,285,W,FALL,3:24,Dillon McEachran,57554,Southwest Minnesota State,Bowen McConville,57175,South Dakota State
+2020,12/07,Buena Vista Open,285,L,FALL,1:22,Boone McDermott,56898,Iowa Central Community College,Bowen McConville,57175,South Dakota State
+2020,12/07,Buena Vista Open,285,W,MFOR,0 - 0,Darrell Mason,53770,Ellsworth CC,Bowen McConville,57175,South Dakota State
+2020,11/17,Daktronics Open,285,W,DEC,4 - 3,Spencer Trenary,57604,South Dakota State,Bowen McConville,57175,South Dakota State
+2020,11/17,Daktronics Open,285,L,FALL,2:07,Dan Stibral,39554,North Dakota State,Bowen McConville,57175,South Dakota State
+2020,11/17,Daktronics Open,285,L,DEC,6 - 3,Dan Stibral,39554,North Dakota State,Bowen McConville,57175,South Dakota State
+2020,11/17,Daktronics Open,285,L,DEC,5 - 2,Austin Emerson,56470,Nebraska,Bowen McConville,57175,South Dakota State
+2020,11/09,Bison Open,285,W,FALL,3:00,Delson Santel,63950,Unattached,Bowen McConville,57175,South Dakota State
+2020,11/09,Bison Open,285,W,DEC,3 - 2,Spencer Trenary,57604,South Dakota State,Bowen McConville,57175,South Dakota State
+2020,11/09,Bison Open,285,W,TB-2,3 - 2,Dominic Tudor,45872,Mary,Bowen McConville,57175,South Dakota State
+2020,11/09,Bison Open,285,L,DEC,4 - 2,Brandon Metz,49222,North Dakota State,Bowen McConville,57175,South Dakota State
+2020,11/09,Bison Open,285,W,MFOR,0 - 0,Chase O'Connor,43960,Minnesota,Bowen McConville,57175,South Dakota State

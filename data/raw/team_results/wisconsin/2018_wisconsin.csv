@@ -1,0 +1,622 @@
+season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
+2018,03/03,Big Ten Championships,125,L,MD,10 - 2,Luke Welch,13436,Purdue,Johnny Jimenez,20483,Wisconsin
+2018,03/03,Big Ten Championships,125,L,FALL,2:22,Carson Kuhn,16532,Penn State,Johnny Jimenez,20483,Wisconsin
+2018,03/03,Big Ten Championships,125,L,DEC,3 - 1,Ethan Lizak,20040,Minnesota,Johnny Jimenez,20483,Wisconsin
+2018,03/03,Big Ten Championships,125,W,DEC,7 - 4,Brandon Cray,44681,Maryland,Johnny Jimenez,20483,Wisconsin
+2018,03/03,Big Ten Championships,125,W,DEC,6 - 2,Brandon Cray,44681,Maryland,Johnny Jimenez,20483,Wisconsin
+2018,03/03,Big Ten Championships,125,L,MD,13 - 4,Travis Piotrowski,44646,Illinois,Johnny Jimenez,20483,Wisconsin
+2018,02/18,Purdue - Wisconsin Dual,125,L,MD,11 - 0,Luke Welch,13436,Purdue,Johnny Jimenez,20483,Wisconsin
+2018,02/16,Rutgers - Wisconsin Dual,125,L,FALL,1:00,Shane Metzler,49307,Rutgers,Johnny Jimenez,20483,Wisconsin
+2018,02/11,Wisconsin - Illinois Dual,125,W,DEC,1 - 0,Travis Piotrowski,44646,Illinois,Johnny Jimenez,20483,Wisconsin
+2018,02/09,Nebraska - Wisconsin Dual,125,L,DEC,5 - 2,Mitchell Maginnis,15418,Nebraska,Johnny Jimenez,20483,Wisconsin
+2018,01/21,Wisconsin - Michigan State Dual,125,L,DEC,8 - 4,Rayvon Foley,50823,Michigan State,Johnny Jimenez,20483,Wisconsin
+2018,01/19,Wisconsin - Michigan Dual,125,L,DEC,6 - 1,Drew Mattin,49180,Michigan,Johnny Jimenez,20483,Wisconsin
+2018,01/12,Wisconsin - Northwestern Dual,125,L,TF5,16 - 0 3:57,Sebastian Rivera,44799,Northwestern,Johnny Jimenez,20483,Wisconsin
+2018,12/29,Midlands Invitational,125,L,MD,10 - 2,Connor Brown,49321,South Dakota State,Johnny Jimenez,20483,Wisconsin
+2018,12/29,Midlands Invitational,125,L,MD,19 - 5,Sebastian Rivera,44799,Northwestern,Johnny Jimenez,20483,Wisconsin
+2018,12/29,Midlands Invitational,125,W,FALL,1:53,Bryce West,50039,Northern Illinois,Johnny Jimenez,20483,Wisconsin
+2018,12/09,UNI Open,125,W,DEC,16 - 9,Jeremiah Colon,45976,Iowa Central Community College,Johnny Jimenez,20483,Wisconsin
+2018,12/09,UNI Open,125,W,DEC,11 - 8,Tanner Rohweder,40370,Northern Iowa,Johnny Jimenez,20483,Wisconsin
+2018,12/09,UNI Open,125,L,MD,10 - 1,Aaron Assad,15239,Missouri,Johnny Jimenez,20483,Wisconsin
+2018,12/09,UNI Open,125,L,FALL,1:16,Spencer Lee,49146,Iowa,Johnny Jimenez,20483,Wisconsin
+2018,11/05,Michigan State Open,125,L,DEC,3 - 2,Drew Hildebrandt,44818,Central Michigan,Johnny Jimenez,20483,Wisconsin
+2018,11/05,Michigan State Open,125,L,DEC,7 - 2,Devin Schroder,44591,Purdue,Johnny Jimenez,20483,Wisconsin
+2018,02/03,Don Parker Blugold Open,125,W,DEC,8 - 2,Zyrik Rincon,53183,Luther,Ethan Rotondo,51219,Wisconsin
+2018,02/03,Don Parker Blugold Open,125,W,MD,11 - 1,Jake Nohre,53010,Concordia-Moorhead,Ethan Rotondo,51219,Wisconsin
+2018,02/03,Don Parker Blugold Open,125,W,DEC,5 - 2,Zach Hasselberger,51805,Wisconsin-Whitewater,Ethan Rotondo,51219,Wisconsin
+2018,01/26,Indiana - Wisconsin Dual,125,L,FALL,2:31,Elijah Oliver,39583,Indiana,Ethan Rotondo,51219,Wisconsin
+2018,01/20,Willie Myers Open,125,W,FALL,0:57,Matthew Saldana,55457,Concordia,Ethan Rotondo,51219,Wisconsin
+2018,01/20,Willie Myers Open,125,W,DEC,2 - 1,Zach Hasselberger,51805,Wisconsin-Whitewater,Ethan Rotondo,51219,Wisconsin
+2018,01/20,Willie Myers Open,125,W,MFOR,0 - 0,Justin Mitchell,54571,North Central,Ethan Rotondo,51219,Wisconsin
+2018,01/20,Willie Myers Open,125,W,MD,11 - 2,Shuji Mizoguchi,53196,North Central,Ethan Rotondo,51219,Wisconsin
+2018,01/20,Willie Myers Open,125,W,FALL,4:21,Jared Hensley,50234,Upper Iowa,Ethan Rotondo,51219,Wisconsin
+2018,12/29,Midlands Invitational,125,L,FALL,0:31,Ronnie Bresser,25183,Oregon State,Ethan Rotondo,51219,Wisconsin
+2018,12/29,Midlands Invitational,125,L,DEC,3 - 2,Matt Parker,49161,Lehigh,Ethan Rotondo,51219,Wisconsin
+2018,12/09,Wisconsin - Wisconsin-Whitewater Dual,125,W,SV-1,4 - 2,Mike Tortorice,49964,Wisconsin-Whitewater,Ethan Rotondo,51219,Wisconsin
+2018,12/07,Maryland - Wisconsin Dual,125,W,DEC,7 - 5,Brandon Cray,44681,Maryland,Ethan Rotondo,51219,Wisconsin
+2018,12/01,Cliff Keen Invitational,125,L,DEC,9 - 3,Trent Olson,44718,Wyoming,Ethan Rotondo,51219,Wisconsin
+2018,12/01,Cliff Keen Invitational,125,L,DEC,7 - 5,Gage Curry,44583,American,Ethan Rotondo,51219,Wisconsin
+2018,11/19,Roadrunner Open,125,W,DEC,3 - 2,Mikel Perales,52735,Unattached,Ethan Rotondo,51219,Wisconsin
+2018,11/19,Roadrunner Open,125,W,DEC,9 - 3,Logan Eaton,42137,Menlo,Ethan Rotondo,51219,Wisconsin
+2018,11/19,Roadrunner Open,125,L,DEC,4 - 0,Travis Piotrowski,44646,Illinois,Ethan Rotondo,51219,Wisconsin
+2018,11/19,Roadrunner Open,125,W,DEC,6 - 5,Robert Garcia IV,49466,Fresno State,Ethan Rotondo,51219,Wisconsin
+2018,11/19,Roadrunner Open,125,W,DEC,6 - 2,Alejandro Hernandez-Figueroa,45325,CSU Bakersfield,Ethan Rotondo,51219,Wisconsin
+2018,11/19,Roadrunner Open,125,L,MD,13 - 2,Joshua Kramer,39736,Arizona State,Ethan Rotondo,51219,Wisconsin
+2018,11/17,Pittsburgh - Wisconsin Dual,125,W,DEC,4 - 1,Brendan Price,20327,Pittsburgh,Ethan Rotondo,51219,Wisconsin
+2018,11/17,Wisconsin - CSU Bakersfield Dual,125,L,FALL,4:33,Sergio Mendez,15986,CSU Bakersfield,Ethan Rotondo,51219,Wisconsin
+2018,11/05,Michigan State Open,125,W,DEC,3 - 2,Donte River-Garcia,51497,Muskegon Community College,Ethan Rotondo,51219,Wisconsin
+2018,11/05,Michigan State Open,125,W,DEC,7 - 1,Joshua Stephenson,51494,Manchester,Ethan Rotondo,51219,Wisconsin
+2018,11/05,Michigan State Open,125,W,TF5,19 - 0 7:00,Gage Griffith,51485,Ashland,Ethan Rotondo,51219,Wisconsin
+2018,11/05,Michigan State Open,125,W,FALL,4:10,Zac Galvan,51391,Manchester,Ethan Rotondo,51219,Wisconsin
+2018,11/05,Michigan State Open,125,L,DEC,6 - 0,Rayvon Foley,50823,Michigan State,Ethan Rotondo,51219,Wisconsin
+2018,11/05,Michigan State Open,125,W,TB-1,4 - 1,Brock Bergelin,49078,Central Michigan,Ethan Rotondo,51219,Wisconsin
+2018,03/03,Big Ten Championships,133,L,DEC,3 - 1,Scott DelVecchio,12021,Rutgers,Jens Lantz,20484,Wisconsin
+2018,03/03,Big Ten Championships,133,L,FALL,3:43,Corey Keener,12111,Penn State,Jens Lantz,20484,Wisconsin
+2018,03/03,Big Ten Championships,133,W,DEC,3 - 0,Logan Griffin,40454,Michigan State,Jens Lantz,20484,Wisconsin
+2018,02/18,Purdue - Wisconsin Dual,133,L,DEC,7 - 3,Ben Thornton,20350,Purdue,Jens Lantz,20484,Wisconsin
+2018,02/16,Rutgers - Wisconsin Dual,133,L,DEC,6 - 1,Scott DelVecchio,12021,Rutgers,Jens Lantz,20484,Wisconsin
+2018,02/11,Wisconsin - Illinois Dual,133,L,DEC,5 - 2,Dylan Duncan,44647,Illinois,Jens Lantz,20484,Wisconsin
+2018,02/09,Nebraska - Wisconsin Dual,133,L,DEC,11 - 4,Jason Renteria,49208,Nebraska,Jens Lantz,20484,Wisconsin
+2018,01/26,Indiana - Wisconsin Dual,133,W,DEC,3 - 0,Garrett Pepple,39561,Indiana,Jens Lantz,20484,Wisconsin
+2018,01/21,Wisconsin - Michigan State Dual,133,W,MD,12 - 3,Matt Santos,44890,Michigan State,Jens Lantz,20484,Wisconsin
+2018,01/19,Wisconsin - Michigan Dual,133,L,MD,13 - 3,Stevan Micic,20223,Michigan,Jens Lantz,20484,Wisconsin
+2018,01/12,Wisconsin - Northwestern Dual,133,L,MD,13 - 4,Colin Valdiviez,49244,Northwestern,Jens Lantz,20484,Wisconsin
+2018,12/29,Midlands Invitational,133,W,DEC,2 - 1,Caleb Richardson,12113,Old Dominion,Jens Lantz,20484,Wisconsin
+2018,12/29,Midlands Invitational,133,W,SV-1,2 - 0,Alijah Jeffery,20204,Northern Illinois,Jens Lantz,20484,Wisconsin
+2018,12/29,Midlands Invitational,133,W,DEC,6 - 3,Danny Moran,49162,Lehigh,Jens Lantz,20484,Wisconsin
+2018,12/29,Midlands Invitational,133,L,DEC,3 - 2,Paul Glynn,39535,Iowa,Jens Lantz,20484,Wisconsin
+2018,12/29,Midlands Invitational,133,L,DEC,6 - 1,Korbin Myers,39637,Edinboro,Jens Lantz,20484,Wisconsin
+2018,12/09,Wisconsin - Wisconsin-Whitewater Dual,133,W,DEC,8 - 2,Hazen Rice,51804,Wisconsin-Whitewater,Jens Lantz,20484,Wisconsin
+2018,12/07,Maryland - Wisconsin Dual,133,W,DEC,7 - 2,Jhared Simmons,20012,Maryland,Jens Lantz,20484,Wisconsin
+2018,12/01,Cliff Keen Invitational,133,W,FALL,2:26,Austin Iorga,52787,North Idaho College,Jens Lantz,20484,Wisconsin
+2018,12/01,Cliff Keen Invitational,133,L,DEC,8 - 3,Matthew Schmitt,45171,West Virginia,Jens Lantz,20484,Wisconsin
+2018,12/01,Cliff Keen Invitational,133,L,MD,12 - 4,Stevan Micic,20223,Michigan,Jens Lantz,20484,Wisconsin
+2018,11/19,Roadrunner Open,133,W,DEC,4 - 3,Gabe Townsell,45387,Stanford,Jens Lantz,20484,Wisconsin
+2018,11/19,Roadrunner Open,133,W,DEC,2 - 1,Jacob Silzer,44889,Illinois,Jens Lantz,20484,Wisconsin
+2018,11/19,Roadrunner Open,133,W,SV-1,2 - 0,Gary Joint,50163,Fresno State,Jens Lantz,20484,Wisconsin
+2018,11/19,Roadrunner Open,133,L,DEC,7 - 0,Sean Nickell,11606,CSU Bakersfield,Jens Lantz,20484,Wisconsin
+2018,11/19,Roadrunner Open,133,W,TF5,17 - 2 5:12,Wyatt Cornelison,50514,Cal Poly,Jens Lantz,20484,Wisconsin
+2018,11/05,Michigan State Open,133,W,TB-1,2 - 1,Jerry Fenner III,46541,Ashland,Jens Lantz,20484,Wisconsin
+2018,11/05,Michigan State Open,133,W,DEC,8 - 4,Mike Volyanyuk,40460,Michigan,Jens Lantz,20484,Wisconsin
+2018,11/05,Michigan State Open,133,W,MD,14 - 5,Mike Volyanyuk,40460,Michigan,Jens Lantz,20484,Wisconsin
+2018,11/05,Michigan State Open,133,W,DEC,8 - 2,Deven Perez,45274,Central Michigan,Jens Lantz,20484,Wisconsin
+2018,11/05,Michigan State Open,133,L,DEC,3 - 1,Ben Thornton,20350,Purdue,Jens Lantz,20484,Wisconsin
+2018,11/05,Michigan State Open,133,L,DEC,3 - 2,Ali Naser,23812,Arizona State,Jens Lantz,20484,Wisconsin
+2018,02/03,Don Parker Blugold Open,133,W,TF5,22 - 7 6:55,Benjamin Bogart,55624,Concordia-Moorhead,Paul Konrath,49348,Wisconsin
+2018,02/03,Don Parker Blugold Open,133,W,TF5,20 - 5 2:51,Cody Pester,54072,Nebraska Wesleyan,Paul Konrath,49348,Wisconsin
+2018,02/03,Don Parker Blugold Open,133,W,TF5,22 - 7 4:14,Kyle Clough,53580,Luther,Paul Konrath,49348,Wisconsin
+2018,02/03,Don Parker Blugold Open,133,W,MD,15 - 6,Kolbe O'Brien,50132,Minnesota State Mankato,Paul Konrath,49348,Wisconsin
+2018,12/29,Midlands Invitational,133,W,DEC,3 - 2,Michael Cullen,39838,Wisconsin,Paul Konrath,49348,Wisconsin
+2018,12/29,Midlands Invitational,133,L,DEC,5 - 4,Colin Valdiviez,49244,Northwestern,Paul Konrath,49348,Wisconsin
+2018,12/29,Midlands Invitational,133,W,DEC,15 - 9,Joe Lobeck,44686,Lehigh,Paul Konrath,49348,Wisconsin
+2018,12/29,Midlands Invitational,133,W,TB-1,8 - 5,Paul Glynn,39535,Iowa,Paul Konrath,49348,Wisconsin
+2018,12/29,Midlands Invitational,133,W,DEC,3 - 2,Korbin Myers,39637,Edinboro,Paul Konrath,49348,Wisconsin
+2018,12/29,Midlands Invitational,133,L,DEC,3 - 1,Korbin Myers,39637,Edinboro,Paul Konrath,49348,Wisconsin
+2018,12/29,Midlands Invitational,133,W,DEC,11 - 7,Drew Marten,49077,Central Michigan,Paul Konrath,49348,Wisconsin
+2018,12/09,UNI Open,133,W,DEC,9 - 2,Cary Palmer,51444,Iowa Central Community College,Paul Konrath,49348,Wisconsin
+2018,12/09,UNI Open,133,W,FALL,0:43,Raymond Correa,51890,Iowa Central Community College,Paul Konrath,49348,Wisconsin
+2018,12/09,UNI Open,133,W,MD,14 - 5,Rylee Molitor,49322,South Dakota State,Paul Konrath,49348,Wisconsin
+2018,12/09,UNI Open,133,W,DEC,7 - 4,Jack Skudlarczyk,49241,Northern Iowa,Paul Konrath,49348,Wisconsin
+2018,12/09,UNI Open,133,L,DEC,11 - 7,Rudy Yates,44626,Northern Iowa,Paul Konrath,49348,Wisconsin
+2018,12/09,UNI Open,133,W,DEC,7 - 3,Abdullah Assaf,50139,Illinois,Paul Konrath,49348,Wisconsin
+2018,11/05,Michigan State Open,133,W,DEC,6 - 3,Kelan Mckenna,46038,Notre Dame,Paul Konrath,49348,Wisconsin
+2018,11/05,Michigan State Open,133,W,TF5,26 - 10 7:00,Tyler Albarez,51481,Davenport,Paul Konrath,49348,Wisconsin
+2018,11/05,Michigan State Open,133,W,TF5,22 - 6 7:00,Clay Vincent,45103,Oklahoma,Paul Konrath,49348,Wisconsin
+2018,11/05,Michigan State Open,133,W,DEC,11 - 4,Nathan Ellis,48561,Michigan State,Paul Konrath,49348,Wisconsin
+2018,12/29,Midlands Invitational,133,L,DEC,3 - 2,Paul Konrath,49348,Wisconsin,Michael Cullen,39838,Wisconsin
+2018,12/29,Midlands Invitational,133,W,DEC,3 - 1,Jhared Simmons,20012,Maryland,Michael Cullen,39838,Wisconsin
+2018,12/29,Midlands Invitational,133,L,MD,8 - 0,Ali Naser,23812,Arizona State,Michael Cullen,39838,Wisconsin
+2018,11/19,Roadrunner Open,133,L,MFOR,0 - 0,Elias Hernandez,52489,Menlo,Michael Cullen,39838,Wisconsin
+2018,11/19,Roadrunner Open,133,W,DEC,8 - 5,Ian Morken,52516,Menlo,Michael Cullen,39838,Wisconsin
+2018,11/19,Roadrunner Open,133,L,INJ,7:00,Gary Joint,50163,Fresno State,Michael Cullen,39838,Wisconsin
+2018,11/18,CUW Open,125,W,DEC,8 - 2,Sawyer Novara,54592,Wisconsin-Whitewater,Michael Cullen,39838,Wisconsin
+2018,11/18,CUW Open,125,W,INJ,7:00,Devan Richter,54579,Chicago,Michael Cullen,39838,Wisconsin
+2018,11/18,CUW Open,125,L,DEC,5 - 2,Kaleb Guzior,50441,Wabash,Michael Cullen,39838,Wisconsin
+2018,11/18,CUW Open,125,L,FALL,2:36,Carlos Fuentez,54553,Wheaton,Michael Cullen,39838,Wisconsin
+2018,11/18,CUW Open,125,W,FALL,6:00,Josh Olsen,53575,Wisconsin-Parkside,Michael Cullen,39838,Wisconsin
+2018,11/18,CUW Open,125,W,MD,12 - 4,Kory Cavanaugh,50069,Wabash,Michael Cullen,39838,Wisconsin
+2018,11/17,Pittsburgh - Wisconsin Dual,133,W,DEC,6 - 5,Jake Cherry,49288,Pittsburgh,Michael Cullen,39838,Wisconsin
+2018,11/17,Wisconsin - CSU Bakersfield Dual,133,L,DEC,6 - 0,Sean Nickell,11606,CSU Bakersfield,Michael Cullen,39838,Wisconsin
+2018,11/05,Michigan State Open,133,L,DEC,2 - 1,Jacob Rubio,20816,Oklahoma,Michael Cullen,39838,Wisconsin
+2018,11/05,Michigan State Open,133,L,DEC,7 - 0,Colin Valdiviez,49244,Northwestern,Michael Cullen,39838,Wisconsin
+2018,03/15,NCAA Championships,141,L,DEC,6 - 2,Cole Weaver,20529,Indiana,Eli Stickley,39697,Wisconsin
+2018,03/15,NCAA Championships,141,L,FALL,0:31,Jaydin Eierman,39508,Missouri,Eli Stickley,39697,Wisconsin
+2018,03/15,NCAA Championships,141,W,DEC,3 - 2,Nate Limmex,39663,Purdue,Eli Stickley,39697,Wisconsin
+2018,03/03,Big Ten Championships,141,L,DEC,4 - 1,Vincent Turk,39726,Iowa,Eli Stickley,39697,Wisconsin
+2018,03/03,Big Ten Championships,141,L,DEC,3 - 2,Nate Limmex,39663,Purdue,Eli Stickley,39697,Wisconsin
+2018,03/03,Big Ten Championships,141,W,DEC,7 - 0,Javier Gasca,13435,Michigan State,Eli Stickley,39697,Wisconsin
+2018,03/03,Big Ten Championships,141,W,DEC,6 - 4,Ryan Diehl,40240,Maryland,Eli Stickley,39697,Wisconsin
+2018,03/03,Big Ten Championships,141,L,DEC,6 - 0,Vincent Turk,39726,Iowa,Eli Stickley,39697,Wisconsin
+2018,03/03,Big Ten Championships,141,W,DEC,3 - 2,Cole Weaver,20529,Indiana,Eli Stickley,39697,Wisconsin
+2018,02/18,Purdue - Wisconsin Dual,141,L,DEC,6 - 4,Nate Limmex,39663,Purdue,Eli Stickley,39697,Wisconsin
+2018,02/16,Rutgers - Wisconsin Dual,141,W,DEC,3 - 2,Mike Van Brill,44613,Rutgers,Eli Stickley,39697,Wisconsin
+2018,02/11,Wisconsin - Illinois Dual,141,L,DEC,10 - 4,Mike Carr,44645,Illinois,Eli Stickley,39697,Wisconsin
+2018,02/09,Nebraska - Wisconsin Dual,141,L,DEC,6 - 3,Chad Red,44683,Nebraska,Eli Stickley,39697,Wisconsin
+2018,01/26,Indiana - Wisconsin Dual,141,L,FALL,0:34,Cole Weaver,20529,Indiana,Eli Stickley,39697,Wisconsin
+2018,01/21,Wisconsin - Michigan State Dual,141,W,DEC,6 - 2,Javier Gasca,13435,Michigan State,Eli Stickley,39697,Wisconsin
+2018,01/19,Wisconsin - Michigan Dual,141,L,DEC,8 - 2,Salvatore Profaci,39825,Michigan,Eli Stickley,39697,Wisconsin
+2018,01/12,Wisconsin - Northwestern Dual,141,W,DEC,6 - 0,Alec McKenna,39584,Northwestern,Eli Stickley,39697,Wisconsin
+2018,12/29,Midlands Invitational,141,L,MFOR,0 - 0,Pat D'arcy,43692,Princeton,Eli Stickley,39697,Wisconsin
+2018,12/29,Midlands Invitational,141,W,MD,16 - 2,Ryan Pomrinca,39667,Lehigh,Eli Stickley,39697,Wisconsin
+2018,12/29,Midlands Invitational,141,L,MFOR,0 - 0,Ryan Diehl,40240,Maryland,Eli Stickley,39697,Wisconsin
+2018,12/09,Wisconsin - Wisconsin-Whitewater Dual,141,W,DEC,11 - 4,Devin Tortorice,24207,Wisconsin-Whitewater,Eli Stickley,39697,Wisconsin
+2018,12/07,Maryland - Wisconsin Dual,141,W,MD,14 - 1,Ryan Diehl,40240,Maryland,Eli Stickley,39697,Wisconsin
+2018,12/01,Cliff Keen Invitational,141,L,DEC,7 - 5,Chad Red,44683,Nebraska,Eli Stickley,39697,Wisconsin
+2018,12/01,Cliff Keen Invitational,141,W,MD,13 - 3,Michael Longo,19624,Oklahoma,Eli Stickley,39697,Wisconsin
+2018,12/01,Cliff Keen Invitational,141,W,MD,8 - 0,Christian Monserrat,20473,West Virginia,Eli Stickley,39697,Wisconsin
+2018,12/01,Cliff Keen Invitational,141,L,TF5,18 - 3 7:00,Mason Smith,39789,Central Michigan,Eli Stickley,39697,Wisconsin
+2018,11/19,Roadrunner Open,141,W,DEC,6 - 3,Cole Martin,39773,Wisconsin,Eli Stickley,39697,Wisconsin
+2018,11/19,Roadrunner Open,141,W,DEC,5 - 1,Dylan Thurston,44815,Illinois,Eli Stickley,39697,Wisconsin
+2018,11/19,Roadrunner Open,141,W,DEC,8 - 1,Carlos Herrera,40167,CSU Bakersfield,Eli Stickley,39697,Wisconsin
+2018,11/19,Roadrunner Open,141,W,TF5,17 - 2 7:00,Zander Silva,49071,Cal Poly,Eli Stickley,39697,Wisconsin
+2018,11/17,Wisconsin - CSU Bakersfield Dual,141,W,MD,13 - 2,Russell Rohlfing,40166,CSU Bakersfield,Eli Stickley,39697,Wisconsin
+2018,11/05,Michigan State Open,141,W,DEC,4 - 1,Yahya Thomas,49245,Northwestern,Eli Stickley,39697,Wisconsin
+2018,11/05,Michigan State Open,141,L,DEC,9 - 6,Javier Gasca,13435,Michigan State,Eli Stickley,39697,Wisconsin
+2018,11/05,Michigan State Open,141,W,DEC,3 - 2,Ben Lamantia,39644,Michigan,Eli Stickley,39697,Wisconsin
+2018,11/05,Michigan State Open,141,L,MD,11 - 2,Mason Smith,39789,Central Michigan,Eli Stickley,39697,Wisconsin
+2018,11/05,Michigan State Open,141,W,DEC,6 - 3,Nate Limmex,39663,Purdue,Eli Stickley,39697,Wisconsin
+2018,11/05,Michigan State Open,141,W,DEC,4 - 2,Nicholas Villarreal,42556,Arizona State,Eli Stickley,39697,Wisconsin
+2018,03/15,NCAA Championships,149,L,DEC,6 - 3,Steve Bleise,20195,Minnesota,Cole Martin,39773,Wisconsin
+2018,03/15,NCAA Championships,149,L,SV-2,4 - 2,Beau Donahue,11933,NC State,Cole Martin,39773,Wisconsin
+2018,03/03,Big Ten Championships,149,L,DEC,3 - 1,Steve Bleise,20195,Minnesota,Cole Martin,39773,Wisconsin
+2018,03/03,Big Ten Championships,149,W,MD,15 - 3,Jwan Britton,45307,Michigan State,Cole Martin,39773,Wisconsin
+2018,03/03,Big Ten Championships,149,W,DEC,4 - 3,Malik Amine,14753,Michigan,Cole Martin,39773,Wisconsin
+2018,03/03,Big Ten Championships,149,L,MD,14 - 6,Alfred Bannister,19997,Maryland,Cole Martin,39773,Wisconsin
+2018,02/18,Purdue - Wisconsin Dual,149,W,TF5,15 - 0 7:00,Austin Nash,39744,Purdue,Cole Martin,39773,Wisconsin
+2018,02/16,Rutgers - Wisconsin Dual,149,L,DEC,6 - 2,Eleazar DeLuca,21757,Rutgers,Cole Martin,39773,Wisconsin
+2018,02/11,Wisconsin - Illinois Dual,149,W,FALL,5:16,Eric Barone,39566,Illinois,Cole Martin,39773,Wisconsin
+2018,02/09,Nebraska - Wisconsin Dual,149,L,DEC,7 - 4,Colton McCrystal,13191,Nebraska,Cole Martin,39773,Wisconsin
+2018,01/26,Indiana - Wisconsin Dual,149,W,TF5,15 - 0 5:49,A J Raya,51181,Indiana,Cole Martin,39773,Wisconsin
+2018,01/21,Wisconsin - Michigan State Dual,149,W,MD,13 - 5,Jwan Britton,45307,Michigan State,Cole Martin,39773,Wisconsin
+2018,01/19,Wisconsin - Michigan Dual,149,L,FALL,2:20,Malik Amine,14753,Michigan,Cole Martin,39773,Wisconsin
+2018,01/12,Wisconsin - Northwestern Dual,149,L,MD,19 - 7,Ryan Deakin,44716,Northwestern,Cole Martin,39773,Wisconsin
+2018,12/29,Midlands Invitational,141,L,MD,11 - 0,Nate Limmex,39663,Purdue,Cole Martin,39773,Wisconsin
+2018,12/29,Midlands Invitational,141,W,DEC,4 - 1,Dylan Thurston,44815,Illinois,Cole Martin,39773,Wisconsin
+2018,12/29,Midlands Invitational,141,W,DEC,8 - 7,AJ Jaffe,44752,Harvard,Cole Martin,39773,Wisconsin
+2018,12/29,Midlands Invitational,141,L,DEC,16 - 10,Ryan Diehl,40240,Maryland,Cole Martin,39773,Wisconsin
+2018,12/09,UNI Open,141,W,FALL,2:04,Yarhoski Aldiva,51885,Iowa Central Community College,Cole Martin,39773,Wisconsin
+2018,12/09,UNI Open,141,W,DEC,5 - 1,Parker Filius,49302,Purdue,Cole Martin,39773,Wisconsin
+2018,12/09,UNI Open,141,W,TF5,18 - 3 7:00,Brent Jones,49188,Minnesota,Cole Martin,39773,Wisconsin
+2018,12/09,UNI Open,141,W,DEC,4 - 2,Max Murin,49148,Iowa,Cole Martin,39773,Wisconsin
+2018,11/19,Roadrunner Open,141,W,FALL,2:31,Josh Villafior,42071,San Francisco State,Cole Martin,39773,Wisconsin
+2018,11/19,Roadrunner Open,141,L,DEC,6 - 3,Eli Stickley,39697,Wisconsin,Cole Martin,39773,Wisconsin
+2018,11/19,Roadrunner Open,141,W,DEC,10 - 3,Isaiah Locsin,20391,Stanford,Cole Martin,39773,Wisconsin
+2018,11/19,Roadrunner Open,141,W,FALL,2:53,Russell Rohlfing,40166,CSU Bakersfield,Cole Martin,39773,Wisconsin
+2018,11/17,Pittsburgh - Wisconsin Dual,141,L,DEC,7 - 3,Nick Zanetta,15385,Pittsburgh,Cole Martin,39773,Wisconsin
+2018,11/05,Michigan State Open,141,L,TB-1,7 - 5,Yahya Thomas,49245,Northwestern,Cole Martin,39773,Wisconsin
+2018,11/05,Michigan State Open,141,L,DEC,5 - 4,Salvatore Profaci,39825,Michigan,Cole Martin,39773,Wisconsin
+2018,11/05,Michigan State Open,141,W,DEC,7 - 2,Reiley Brown,45273,Central Michigan,Cole Martin,39773,Wisconsin
+2018,11/05,Michigan State Open,141,W,DEC,8 - 5,Cory Crooks,45179,Arizona State,Cole Martin,39773,Wisconsin
+2018,12/01,Cliff Keen Invitational,149,L,DEC,11 - 10,Colton McCrystal,13191,Nebraska,Zander Wick,44731,Wisconsin
+2018,12/01,Cliff Keen Invitational,149,W,DEC,8 - 2,Samuel Krivus,43190,Virginia,Zander Wick,44731,Wisconsin
+2018,12/01,Cliff Keen Invitational,149,W,TF5,22 - 7 5:41,Jarrett Degen,44855,Iowa State,Zander Wick,44731,Wisconsin
+2018,12/01,Cliff Keen Invitational,149,W,DEC,9 - 3,Kalani Tonge,45324,CSU Bakersfield,Zander Wick,44731,Wisconsin
+2018,12/01,Cliff Keen Invitational,149,L,DEC,7 - 3,Josh Maruca,39512,Arizona State,Zander Wick,44731,Wisconsin
+2018,12/01,Cliff Keen Invitational,149,W,DEC,7 - 5,Michael Sprague,19618,American,Zander Wick,44731,Wisconsin
+2018,11/19,Roadrunner Open,149,W,FALL,4:48,Robert Gonzalez,52721,Simpson,Zander Wick,44731,Wisconsin
+2018,11/19,Roadrunner Open,149,W,MFOR,0 - 0,Terrill Sidner,52727,Menlo,Zander Wick,44731,Wisconsin
+2018,11/19,Roadrunner Open,149,W,MD,12 - 3,Isiah Alva,51708,San Francisco State,Zander Wick,44731,Wisconsin
+2018,11/19,Roadrunner Open,149,W,FALL,2:06,Robert Gonzalez,52721,Simpson,Zander Wick,44731,Wisconsin
+2018,11/19,Roadrunner Open,149,W,FALL,4:48,Mario Lopez,52746,Unattached,Zander Wick,44731,Wisconsin
+2018,11/19,Roadrunner Open,149,W,DEC,4 - 2,Eric Barone,39566,Illinois,Zander Wick,44731,Wisconsin
+2018,11/17,Pittsburgh - Wisconsin Dual,149,W,DEC,6 - 3,Robert Lee,39975,Pittsburgh,Zander Wick,44731,Wisconsin
+2018,11/17,Wisconsin - CSU Bakersfield Dual,149,W,MD,10 - 1,Kalani Tonge,45324,CSU Bakersfield,Zander Wick,44731,Wisconsin
+2018,11/05,Michigan State Open,149,W,DEC,9 - 3,Noah Teaney,20819,Oklahoma,Zander Wick,44731,Wisconsin
+2018,11/05,Michigan State Open,149,L,DEC,6 - 2,Ryan Deakin,44716,Northwestern,Zander Wick,44731,Wisconsin
+2018,11/05,Michigan State Open,149,L,DEC,2 - 0,Josh Maruca,39512,Arizona State,Zander Wick,44731,Wisconsin
+2018,12/09,UNI Open,149,L,INJ,7:00,Garrett Model,49351,Wisconsin,Gabriel Grahek,11661,Wisconsin
+2018,12/09,UNI Open,149,L,DEC,3 - 1,Steve Bleise,20195,Minnesota,Gabriel Grahek,11661,Wisconsin
+2018,12/09,UNI Open,149,W,MD,9 - 0,Tanner Lundgren,50982,Iowa State,Gabriel Grahek,11661,Wisconsin
+2018,11/05,Michigan State Open,149,W,MD,13 - 0,Chayse Csongedi,41586,Lake Erie College,Gabriel Grahek,11661,Wisconsin
+2018,11/05,Michigan State Open,149,L,FALL,4:46,Austin Thompson,39737,Michigan State,Gabriel Grahek,11661,Wisconsin
+2018,11/05,Michigan State Open,149,L,TF5,16 - 1 7:00,Justin Oliver,19758,Central Michigan,Gabriel Grahek,11661,Wisconsin
+2018,11/05,Michigan State Open,149,W,DEC,5 - 1,Koby Reyes,51397,Purdue,Gabriel Grahek,11661,Wisconsin
+2018,11/05,Michigan State Open,149,W,DEC,4 - 2,Austin Nash,39744,Purdue,Gabriel Grahek,11661,Wisconsin
+2018,02/03,Don Parker Blugold Open,149,W,DEC,8 - 3,Chris Healy,55626,Wisconsin-La Crosse,Garrett Model,49351,Wisconsin
+2018,02/03,Don Parker Blugold Open,149,W,DEC,5 - 0,Tanner Day,46851,Augsburg,Garrett Model,49351,Wisconsin
+2018,02/03,Don Parker Blugold Open,149,W,FALL,2:58,Alexander Skaare,52177,Concordia-Moorhead,Garrett Model,49351,Wisconsin
+2018,02/03,Don Parker Blugold Open,149,W,MD,15 - 1,Gilbert Valadez,43456,Luther,Garrett Model,49351,Wisconsin
+2018,02/03,Don Parker Blugold Open,149,L,DEC,8 - 5,Tyler Waterson,51430,Minnesota,Garrett Model,49351,Wisconsin
+2018,01/06,Flash Flanagan Open,149,W,TF5,17 - 2 7:00,Tanner Lundgren,50982,Iowa State,Garrett Model,49351,Wisconsin
+2018,01/06,Flash Flanagan Open,149,L,INJ,7:00,Kristian Vasquez,50981,Iowa State,Garrett Model,49351,Wisconsin
+2018,01/06,Flash Flanagan Open,149,L,FALL,0:40,Keaton Geerts,49240,Northern Iowa,Garrett Model,49351,Wisconsin
+2018,01/06,Flash Flanagan Open,149,L,FALL,5:56,Tristan Lara,49239,Northern Iowa,Garrett Model,49351,Wisconsin
+2018,01/06,Flash Flanagan Open,149,W,DEC,7 - 1,Cole Menck,41911,Davenport,Garrett Model,49351,Wisconsin
+2018,12/09,UNI Open,149,W,INJ,7:00,Gabriel Grahek,11661,Wisconsin,Garrett Model,49351,Wisconsin
+2018,12/09,UNI Open,149,W,MFOR,0 - 0,Mitch Bengtson,11619,North Dakota State,Garrett Model,49351,Wisconsin
+2018,12/09,UNI Open,149,L,DEC,8 - 2,Jake Bergeland,49189,Minnesota,Garrett Model,49351,Wisconsin
+2018,12/09,UNI Open,149,L,TF5,15 - 0 7:00,Gavin DeWitt,44604,Maryville University,Garrett Model,49351,Wisconsin
+2018,12/09,UNI Open,149,W,MD,15 - 5,Stephen Alvarez,45651,Iowa,Garrett Model,49351,Wisconsin
+2018,12/02,Jim Koch Wisconsin Open,149,W,MD,12 - 0,Matt McGowan,49959,North Central,Garrett Model,49351,Wisconsin
+2018,12/02,Jim Koch Wisconsin Open,149,W,FALL,5:00,Jimmy Knapp,55463,Harper College,Garrett Model,49351,Wisconsin
+2018,12/02,Jim Koch Wisconsin Open,149,L,TF5,16 - 1 5:59,Keaton Geerts,49240,Northern Iowa,Garrett Model,49351,Wisconsin
+2018,12/02,Jim Koch Wisconsin Open,149,L,FALL,4:35,James Krischke,43455,Maryville University,Garrett Model,49351,Wisconsin
+2018,11/19,Lindenwood Open,149,W,FALL,4:02,Andrew Tujague,41169,Central Missouri,Garrett Model,49351,Wisconsin
+2018,11/19,Lindenwood Open,149,L,TF5,21 - 5 7:00,Boo Lewallen,39543,Oklahoma State,Garrett Model,49351,Wisconsin
+2018,11/19,Lindenwood Open,149,L,DEC,4 - 3,Phyllip DeLoach,40074,Missouri,Garrett Model,49351,Wisconsin
+2018,11/05,Michigan State Open,149,W,MD,18 - 5,Dustin Marteney,48566,Ashland,Garrett Model,49351,Wisconsin
+2018,11/05,Michigan State Open,149,W,FALL,0:46,Patrick Waugh,51500,Manchester,Garrett Model,49351,Wisconsin
+2018,11/05,Michigan State Open,149,W,DEC,10 - 3,Jimmy Muscato,51211,Michigan State,Garrett Model,49351,Wisconsin
+2018,11/05,Michigan State Open,149,L,DEC,10 - 4,Tanner Smith,49129,Eastern Michigan,Garrett Model,49351,Wisconsin
+2018,11/05,Michigan State Open,149,L,DEC,3 - 1,Nolan Saxton,49081,Central Michigan,Garrett Model,49351,Wisconsin
+2018,01/20,Willie Myers Open,149,W,DEC,9 - 7,Jimmy Knapp,55463,Harper College,Patrick Spray,45008,Wisconsin
+2018,01/20,Willie Myers Open,149,W,FALL,1:14,Kyle Meyers,49777,North Central,Patrick Spray,45008,Wisconsin
+2018,01/20,Willie Myers Open,149,W,DEC,7 - 3,Kristian Vasquez,50981,Iowa State,Patrick Spray,45008,Wisconsin
+2018,01/20,Willie Myers Open,149,L,MFOR,0 - 0,Ryan Leisure,49152,Iowa State,Patrick Spray,45008,Wisconsin
+2018,12/29,Midlands Invitational,149,L,MD,15 - 2,Davey Tunon,44908,Indiana,Patrick Spray,45008,Wisconsin
+2018,12/29,Midlands Invitational,149,L,FALL,1:55,Justin Oliver,19758,Central Michigan,Patrick Spray,45008,Wisconsin
+2018,12/09,Wisconsin - Wisconsin-Whitewater Dual,149,L,DEC,7 - 2,Wilder Wichman,52656,Wisconsin-Whitewater,Patrick Spray,45008,Wisconsin
+2018,12/07,Maryland - Wisconsin Dual,149,W,DEC,8 - 6,Peter Tedesco,45135,Maryland,Patrick Spray,45008,Wisconsin
+2018,11/05,Michigan State Open,149,L,MD,14 - 5,Devin Roger,51507,Findlay,Patrick Spray,45008,Wisconsin
+2018,11/05,Michigan State Open,149,L,DEC,7 - 3,Austin Thompson,39737,Michigan State,Patrick Spray,45008,Wisconsin
+2018,11/05,Michigan State Open,149,W,DEC,4 - 0,Kyle Todrank,40157,Purdue,Patrick Spray,45008,Wisconsin
+2018,02/03,Don Parker Blugold Open,149,W,DEC,8 - 3,Tanner Day,46851,Augsburg,Tyler Shilson,49352,Wisconsin
+2018,02/03,Don Parker Blugold Open,149,W,FALL,2:31,Cruze Hurlburt,55198,Augsburg,Tyler Shilson,49352,Wisconsin
+2018,02/03,Don Parker Blugold Open,149,L,FALL,1:19,Aaron Wilson,54043,Augsburg,Tyler Shilson,49352,Wisconsin
+2018,02/03,Don Parker Blugold Open,149,W,MD,19 - 5,Trace Thomas,53603,Wisconsin-Eau Claire,Tyler Shilson,49352,Wisconsin
+2018,01/20,Willie Myers Open,149,L,DEC,5 - 3,Wilder Wichman,52656,Wisconsin-Whitewater,Tyler Shilson,49352,Wisconsin
+2018,01/20,Willie Myers Open,149,L,DEC,8 - 5,Cal Hansen,55425,UW Wrestling Club,Tyler Shilson,49352,Wisconsin
+2018,01/20,Willie Myers Open,149,W,TF5,16 - 0 7:00,Miguel Betancourt,55417,Concordia,Tyler Shilson,49352,Wisconsin
+2018,01/20,Willie Myers Open,149,W,TF5,20 - 3 7:00,Subhan Umar,53577,Wisconsin-Parkside,Tyler Shilson,49352,Wisconsin
+2018,01/20,Willie Myers Open,149,W,TF5,19 - 1 7:00,Nathan Hensley,53571,Wisconsin-Parkside,Tyler Shilson,49352,Wisconsin
+2018,01/20,Willie Myers Open,149,W,DEC,10 - 5,Kristian Vasquez,50981,Iowa State,Tyler Shilson,49352,Wisconsin
+2018,01/06,Flash Flanagan Open,157,W,TF5,16 - 0 3:00,Christopher Viehmann,52544,Maryville University,Tyler Shilson,49352,Wisconsin
+2018,01/06,Flash Flanagan Open,157,W,TF5,16 - 1 7:00,Tony Bivens,54003,Wisconsin-Platteville,Tyler Shilson,49352,Wisconsin
+2018,01/06,Flash Flanagan Open,157,W,FALL,6:39,Nick Mcghee,42243,Maryville University,Tyler Shilson,49352,Wisconsin
+2018,01/06,Flash Flanagan Open,157,W,FALL,4:27,Nick Mcghee,42243,Maryville University,Tyler Shilson,49352,Wisconsin
+2018,01/06,Flash Flanagan Open,157,L,MD,13 - 4,Keegan Shaw,39536,Iowa,Tyler Shilson,49352,Wisconsin
+2018,12/02,Jim Koch Wisconsin Open,149,W,MD,15 - 2,Gilbert Valadez,43456,Luther,Tyler Shilson,49352,Wisconsin
+2018,12/02,Jim Koch Wisconsin Open,149,W,FALL,3:46,Mitchell Camper,53761,Luther,Tyler Shilson,49352,Wisconsin
+2018,12/02,Jim Koch Wisconsin Open,149,L,MD,11 - 0,Frank Yattoni,53583,Wisconsin-Parkside,Tyler Shilson,49352,Wisconsin
+2018,12/02,Jim Koch Wisconsin Open,149,L,DEC,9 - 6,Tyler Stegall,49444,Maryville University,Tyler Shilson,49352,Wisconsin
+2018,12/02,Jim Koch Wisconsin Open,149,W,TF5,22 - 4 5:00,Bryce Raphael,52340,Maryville University,Tyler Shilson,49352,Wisconsin
+2018,11/19,Lindenwood Open,149,L,TF5,15 - 0 7:00,James Krischke,43455,Maryville University,Tyler Shilson,49352,Wisconsin
+2018,11/19,Lindenwood Open,149,L,DEC,13 - 7,Phyllip DeLoach,40074,Missouri,Tyler Shilson,49352,Wisconsin
+2018,11/05,Michigan State Open,149,W,TF5,22 - 6 3:00,Antonio Mitchell,48039,Notre Dame,Tyler Shilson,49352,Wisconsin
+2018,11/05,Michigan State Open,149,L,DEC,7 - 4,Demarius Smith,50859,Illinois,Tyler Shilson,49352,Wisconsin
+2018,11/05,Michigan State Open,149,W,MD,14 - 4,Luke Raczkowski,50921,Central Michigan,Tyler Shilson,49352,Wisconsin
+2018,11/05,Michigan State Open,149,L,DEC,6 - 1,Nolan Saxton,49081,Central Michigan,Tyler Shilson,49352,Wisconsin
+2018,03/15,NCAA Championships,157,L,DEC,3 - 1,Jake Short,13599,Minnesota,Andrew Crone,13197,Wisconsin
+2018,03/15,NCAA Championships,157,L,DEC,6 - 1,Jason Nolf,20303,Penn State,Andrew Crone,13197,Wisconsin
+2018,03/15,NCAA Championships,157,W,FALL,6:46,Larry Early,39519,Old Dominion,Andrew Crone,13197,Wisconsin
+2018,03/03,Big Ten Championships,157,W,DEC,6 - 2,Tyler Berger,20096,Nebraska,Andrew Crone,13197,Wisconsin
+2018,03/03,Big Ten Championships,157,W,MFOR,0 - 0,Michael Kemerer,39526,Iowa,Andrew Crone,13197,Wisconsin
+2018,03/03,Big Ten Championships,157,W,DEC,6 - 2,Shayne Oster,44820,Northwestern,Andrew Crone,13197,Wisconsin
+2018,03/03,Big Ten Championships,157,W,DEC,8 - 4,Jake Short,13599,Minnesota,Andrew Crone,13197,Wisconsin
+2018,03/03,Big Ten Championships,157,L,DEC,7 - 3,Alec Pantaleo,20020,Michigan,Andrew Crone,13197,Wisconsin
+2018,03/03,Big Ten Championships,157,W,MD,10 - 1,Justin Alexander,11801,Maryland,Andrew Crone,13197,Wisconsin
+2018,02/18,Purdue - Wisconsin Dual,157,L,FALL,3:17,Griffin Parriott,44608,Purdue,Andrew Crone,13197,Wisconsin
+2018,02/16,Rutgers - Wisconsin Dual,157,L,DEC,6 - 2,John Van Brill,20367,Rutgers,Andrew Crone,13197,Wisconsin
+2018,02/11,Wisconsin - Illinois Dual,157,W,SV-1,8 - 2,Kyle Langenderfer,15698,Illinois,Andrew Crone,13197,Wisconsin
+2018,02/09,Nebraska - Wisconsin Dual,157,W,MD,11 - 3,Tyler Berger,20096,Nebraska,Andrew Crone,13197,Wisconsin
+2018,01/26,Indiana - Wisconsin Dual,157,W,MD,14 - 2,Austin Holmes,44701,Indiana,Andrew Crone,13197,Wisconsin
+2018,01/21,Wisconsin - Michigan State Dual,157,W,DEC,7 - 0,Jacob Tucker,44639,Michigan State,Andrew Crone,13197,Wisconsin
+2018,01/19,Wisconsin - Michigan Dual,157,W,DEC,3 - 0,Alec Pantaleo,20020,Michigan,Andrew Crone,13197,Wisconsin
+2018,01/12,Wisconsin - Northwestern Dual,157,W,DEC,7 - 5,Shayne Oster,44820,Northwestern,Andrew Crone,13197,Wisconsin
+2018,12/29,Midlands Invitational,157,L,DEC,6 - 2,Mike D'angelo,43678,Princeton,Andrew Crone,13197,Wisconsin
+2018,12/29,Midlands Invitational,157,W,DEC,7 - 2,Hunter Willits,49272,Oregon State,Andrew Crone,13197,Wisconsin
+2018,12/29,Midlands Invitational,157,W,DEC,7 - 1,Larry Early,39519,Old Dominion,Andrew Crone,13197,Wisconsin
+2018,12/29,Midlands Invitational,157,W,DEC,5 - 0,Caden McWhirter,40016,Northern Illinois,Andrew Crone,13197,Wisconsin
+2018,12/29,Midlands Invitational,157,W,FALL,1:08,Alex Smythe,19730,Buffalo,Andrew Crone,13197,Wisconsin
+2018,12/29,Midlands Invitational,157,L,DEC,3 - 1,Josh Shields,39511,Arizona State,Andrew Crone,13197,Wisconsin
+2018,12/29,Midlands Invitational,157,W,DEC,7 - 3,John Van Brill,20367,Rutgers,Andrew Crone,13197,Wisconsin
+2018,12/07,Maryland - Wisconsin Dual,157,W,MD,10 - 2,Justin Alexander,11801,Maryland,Andrew Crone,13197,Wisconsin
+2018,12/01,Cliff Keen Invitational,157,L,SV-1,3 - 1,Justin Thomas,44882,Oklahoma,Andrew Crone,13197,Wisconsin
+2018,12/01,Cliff Keen Invitational,157,W,FALL,4:44,Griffin Parriott,44608,Purdue,Andrew Crone,13197,Wisconsin
+2018,12/01,Cliff Keen Invitational,157,L,DEC,13 - 10,Taleb Rahmani,40082,Pittsburgh,Andrew Crone,13197,Wisconsin
+2018,12/01,Cliff Keen Invitational,157,W,DEC,12 - 6,Adam Santoro,46089,Cornell,Andrew Crone,13197,Wisconsin
+2018,11/19,Roadrunner Open,157,W,FALL,0:34,Deniz Ari,52770,Unattached,Andrew Crone,13197,Wisconsin
+2018,11/19,Roadrunner Open,157,L,DEC,9 - 4,Kyle Langenderfer,15698,Illinois,Andrew Crone,13197,Wisconsin
+2018,11/19,Roadrunner Open,157,W,MD,14 - 2,Nick Gasbarro,39724,Illinois,Andrew Crone,13197,Wisconsin
+2018,11/19,Roadrunner Open,157,W,DEC,8 - 1,Coleman Hammond,14011,CSU Bakersfield,Andrew Crone,13197,Wisconsin
+2018,11/17,Pittsburgh - Wisconsin Dual,157,W,DEC,3 - 1,Taleb Rahmani,40082,Pittsburgh,Andrew Crone,13197,Wisconsin
+2018,11/05,Michigan State Open,157,W,FALL,0:49,Cole Menck,41911,Davenport,Andrew Crone,13197,Wisconsin
+2018,11/05,Michigan State Open,157,L,DEC,8 - 6,Justin Thomas,44882,Oklahoma,Andrew Crone,13197,Wisconsin
+2018,11/05,Michigan State Open,157,W,DEC,9 - 6,Jacob Tucker,44639,Michigan State,Andrew Crone,13197,Wisconsin
+2018,11/05,Michigan State Open,157,W,MD,10 - 1,Blake Montrie,45047,Central Michigan,Andrew Crone,13197,Wisconsin
+2018,11/05,Michigan State Open,157,W,SV-1,8 - 6,Oliver Pierce,20578,Arizona State,Andrew Crone,13197,Wisconsin
+2018,11/05,Michigan State Open,157,L,DEC,5 - 2,Josh Shields,39511,Arizona State,Andrew Crone,13197,Wisconsin
+2018,12/09,Wisconsin - Wisconsin-Whitewater Dual,157,W,FALL,5:54,Isaiah Vela,41668,Wisconsin-Whitewater,Jared Scharenbrock,20488,Wisconsin
+2018,11/19,Roadrunner Open,157,W,MFOR,0 - 0,Justin Alexander,11801,Maryland,Jared Scharenbrock,20488,Wisconsin
+2018,11/19,Roadrunner Open,157,W,DEC,10 - 4,Justin Alexander,11801,Maryland,Jared Scharenbrock,20488,Wisconsin
+2018,11/19,Roadrunner Open,157,L,MD,12 - 2,Kyle Langenderfer,15698,Illinois,Jared Scharenbrock,20488,Wisconsin
+2018,11/19,Roadrunner Open,157,L,MFOR,0 - 0,Oliver Pierce,20578,Arizona State,Jared Scharenbrock,20488,Wisconsin
+2018,11/19,Roadrunner Open,157,W,DEC,5 - 0,Oliver Pierce,20578,Arizona State,Jared Scharenbrock,20488,Wisconsin
+2018,11/17,Wisconsin - CSU Bakersfield Dual,157,W,DEC,11 - 8,Coleman Hammond,14011,CSU Bakersfield,Jared Scharenbrock,20488,Wisconsin
+2018,11/05,Michigan State Open,157,W,TF5,18 - 0 7:00,Cole Menck,41911,Davenport,Jared Scharenbrock,20488,Wisconsin
+2018,11/05,Michigan State Open,157,L,DEC,8 - 3,Justin Thomas,44882,Oklahoma,Jared Scharenbrock,20488,Wisconsin
+2018,11/05,Michigan State Open,157,W,DEC,6 - 4,Layne van Anrooy,49182,Michigan,Jared Scharenbrock,20488,Wisconsin
+2018,11/05,Michigan State Open,157,W,DEC,6 - 2,Cole Wysocki,39960,Purdue,Jared Scharenbrock,20488,Wisconsin
+2018,11/05,Michigan State Open,157,L,DEC,8 - 3,Jason Tsirtsis,13629,Arizona State,Jared Scharenbrock,20488,Wisconsin
+2018,02/03,Don Parker Blugold Open,157,L,MFOR,0 - 0,Jacob Gille,53523,Wisconsin-La Crosse,Devin Bahr,49349,Wisconsin
+2018,02/03,Don Parker Blugold Open,157,L,MFOR,0 - 0,Josh Verbeten,48183,Augsburg,Devin Bahr,49349,Wisconsin
+2018,02/03,Don Parker Blugold Open,157,W,DEC,8 - 2,Logan Saltou,46887,Minnesota State Mankato,Devin Bahr,49349,Wisconsin
+2018,01/20,Willie Myers Open,157,W,DEC,8 - 2,Scott Schieldt,55435,UW Wrestling Club,Devin Bahr,49349,Wisconsin
+2018,01/20,Willie Myers Open,157,W,FALL,1:22,Michael Ordonez,45098,Wisconsin-Whitewater,Devin Bahr,49349,Wisconsin
+2018,01/20,Willie Myers Open,157,W,MFOR,0 - 0,Tristen Guaman,55424,Harper College,Devin Bahr,49349,Wisconsin
+2018,01/20,Willie Myers Open,157,W,FALL,0:58,Marcello Macellaio,45899,North Central,Devin Bahr,49349,Wisconsin
+2018,01/20,Willie Myers Open,157,L,FALL,2:00,Colston DiBlasi,39718,Iowa State,Devin Bahr,49349,Wisconsin
+2018,12/29,Midlands Invitational,157,L,DEC,10 - 7,Caden McWhirter,40016,Northern Illinois,Devin Bahr,49349,Wisconsin
+2018,12/29,Midlands Invitational,157,L,DEC,6 - 4,Jake Danishek,20520,Indiana,Devin Bahr,49349,Wisconsin
+2018,12/09,UNI Open,157,L,DEC,9 - 2,Logan Ryan,13992,Northern Iowa,Devin Bahr,49349,Wisconsin
+2018,12/09,UNI Open,157,W,DEC,4 - 3,Carson Brolsma,39549,Minnesota,Devin Bahr,49349,Wisconsin
+2018,12/09,UNI Open,157,W,DEC,3 - 0,Demarius Smith,50859,Illinois,Devin Bahr,49349,Wisconsin
+2018,12/09,UNI Open,157,L,MFOR,0 - 0,Dan Reed,19818,Columbia,Devin Bahr,49349,Wisconsin
+2018,12/02,Jim Koch Wisconsin Open,157,W,MD,11 - 2,Cameron Lopez,51602,Northern Iowa,Devin Bahr,49349,Wisconsin
+2018,12/02,Jim Koch Wisconsin Open,157,W,DEC,6 - 4,James Wimer,46493,Findlay,Devin Bahr,49349,Wisconsin
+2018,12/02,Jim Koch Wisconsin Open,157,W,FALL,1:08,Dylan Shotwell,53351,Maryville University,Devin Bahr,49349,Wisconsin
+2018,12/02,Jim Koch Wisconsin Open,157,W,DEC,5 - 3,Cole Wysocki,39960,Purdue,Devin Bahr,49349,Wisconsin
+2018,03/15,NCAA Championships,165,W,FALL,3:19,Chance Marsteller,47805,Lock Haven,Evan Wick,44730,Wisconsin
+2018,03/15,NCAA Championships,165,W,MD,16 - 3,Alex Marinelli,44574,Iowa,Evan Wick,44730,Wisconsin
+2018,03/15,NCAA Championships,165,L,DEC,3 - 0,David McFadden,39633,Virginia Tech,Evan Wick,44730,Wisconsin
+2018,03/15,NCAA Championships,165,W,FALL,3:17,Nick Wanzek,11511,Minnesota,Evan Wick,44730,Wisconsin
+2018,03/15,NCAA Championships,165,W,DEC,9 - 2,Jonathon Chavez,40377,Cornell,Evan Wick,44730,Wisconsin
+2018,03/15,NCAA Championships,165,W,DEC,9 - 6,Logan Massa,39517,Michigan,Evan Wick,44730,Wisconsin
+2018,03/15,NCAA Championships,165,W,DEC,11 - 4,Drew Daniels,20601,Navy,Evan Wick,44730,Wisconsin
+2018,03/03,Big Ten Championships,165,L,MFOR,0 - 0,Richie Lewis,40042,Rutgers,Evan Wick,44730,Wisconsin
+2018,03/03,Big Ten Championships,165,L,DEC,6 - 4,Richie Lewis,40042,Rutgers,Evan Wick,44730,Wisconsin
+2018,03/03,Big Ten Championships,165,W,DEC,3 - 1,Isaiah White,47106,Nebraska,Evan Wick,44730,Wisconsin
+2018,03/03,Big Ten Championships,165,W,FALL,0:32,Austin Hiles,44866,Michigan State,Evan Wick,44730,Wisconsin
+2018,03/03,Big Ten Championships,165,W,DEC,4 - 3,Logan Massa,39517,Michigan,Evan Wick,44730,Wisconsin
+2018,03/03,Big Ten Championships,165,W,DEC,8 - 2,Bryce Martin,20524,Indiana,Evan Wick,44730,Wisconsin
+2018,02/18,Purdue - Wisconsin Dual,165,W,FALL,1:07,Jacob Morrissey,12818,Purdue,Evan Wick,44730,Wisconsin
+2018,02/16,Rutgers - Wisconsin Dual,165,L,DEC,2 - 1,Richie Lewis,40042,Rutgers,Evan Wick,44730,Wisconsin
+2018,02/11,Wisconsin - Illinois Dual,165,L,MD,14 - 6,Isaiah Martinez,13466,Illinois,Evan Wick,44730,Wisconsin
+2018,02/09,Nebraska - Wisconsin Dual,165,L,DEC,6 - 3,Isaiah White,47106,Nebraska,Evan Wick,44730,Wisconsin
+2018,01/26,Indiana - Wisconsin Dual,165,W,TF5,23 - 8 6:42,Dillon Hoey,50239,Indiana,Evan Wick,44730,Wisconsin
+2018,01/21,Wisconsin - Michigan State Dual,165,W,TF5,19 - 4 7:00,Austin Hiles,44866,Michigan State,Evan Wick,44730,Wisconsin
+2018,01/19,Wisconsin - Michigan Dual,165,W,TF5,19 - 3 5:10,Reece Hughes,49181,Michigan,Evan Wick,44730,Wisconsin
+2018,01/12,Wisconsin - Northwestern Dual,165,W,MD,12 - 3,Michael Sepke,51503,Northwestern,Evan Wick,44730,Wisconsin
+2018,12/09,Wisconsin - Wisconsin-Whitewater Dual,165,W,FALL,2:58,Ryder Sigler,46893,Wisconsin-Whitewater,Evan Wick,44730,Wisconsin
+2018,12/07,Maryland - Wisconsin Dual,165,W,MD,13 - 3,Brendan Burnham,39821,Maryland,Evan Wick,44730,Wisconsin
+2018,12/01,Cliff Keen Invitational,165,L,FALL,2:58,David McFadden,39633,Virginia Tech,Evan Wick,44730,Wisconsin
+2018,12/01,Cliff Keen Invitational,165,W,DEC,10 - 4,Nick Wanzek,11511,Minnesota,Evan Wick,44730,Wisconsin
+2018,12/01,Cliff Keen Invitational,165,W,MD,11 - 3,Clay Lautt,49212,North Carolina,Evan Wick,44730,Wisconsin
+2018,12/01,Cliff Keen Invitational,165,W,DEC,8 - 4,Jonathan Viruet,39839,Brown,Evan Wick,44730,Wisconsin
+2018,12/01,Cliff Keen Invitational,165,W,DEC,8 - 4,Logan Massa,39517,Michigan,Evan Wick,44730,Wisconsin
+2018,11/19,Roadrunner Open,165,W,TF5,18 - 1 3:43,Alex Stuart,52769,San Francisco State,Evan Wick,44730,Wisconsin
+2018,11/19,Roadrunner Open,165,W,MD,9 - 1,Brandon Dallavia,45394,Stanford,Evan Wick,44730,Wisconsin
+2018,11/19,Roadrunner Open,165,W,TF5,18 - 2 4:32,Josh Annis,43313,CSU Bakersfield,Evan Wick,44730,Wisconsin
+2018,11/19,Roadrunner Open,165,W,MD,13 - 5,Lorenzo De La Riva,40169,CSU Bakersfield,Evan Wick,44730,Wisconsin
+2018,11/17,Pittsburgh - Wisconsin Dual,165,W,DEC,6 - 3,Jake Wentzel,45151,Pittsburgh,Evan Wick,44730,Wisconsin
+2018,11/17,Wisconsin - CSU Bakersfield Dual,165,W,DEC,7 - 1,Lorenzo De La Riva,40169,CSU Bakersfield,Evan Wick,44730,Wisconsin
+2018,11/05,Michigan State Open,165,W,TF5,20 - 5 4:44,Richard Screptock,46550,Tiffin University,Evan Wick,44730,Wisconsin
+2018,11/05,Michigan State Open,165,W,DEC,7 - 1,Dawaylon Barnes,22085,Oklahoma,Evan Wick,44730,Wisconsin
+2018,11/05,Michigan State Open,165,W,MD,12 - 3,Austin Reese,20240,Ohio,Evan Wick,44730,Wisconsin
+2018,11/05,Michigan State Open,165,L,MD,11 - 3,Logan Massa,39517,Michigan,Evan Wick,44730,Wisconsin
+2018,03/15,NCAA Championships,174,L,DEC,5 - 3,David Kocer,13612,South Dakota State,Ryan Christensen,20481,Wisconsin
+2018,03/15,NCAA Championships,174,W,DEC,8 - 1,Tyrel White,19820,Columbia,Ryan Christensen,20481,Wisconsin
+2018,03/15,NCAA Championships,174,L,DEC,7 - 2,Forrest Przybysz,12877,Appalachian State,Ryan Christensen,20481,Wisconsin
+2018,03/03,Big Ten Championships,174,L,DEC,2 - 1,Dylan Lydy,39998,Purdue,Ryan Christensen,20481,Wisconsin
+2018,03/03,Big Ten Championships,174,L,FALL,0:47,Mark Hall,44839,Penn State,Ryan Christensen,20481,Wisconsin
+2018,03/03,Big Ten Championships,174,W,DEC,4 - 0,Chris Pfarr,11524,Minnesota,Ryan Christensen,20481,Wisconsin
+2018,03/03,Big Ten Championships,174,W,DEC,6 - 0,Josh Ugalde,39515,Maryland,Ryan Christensen,20481,Wisconsin
+2018,03/03,Big Ten Championships,174,W,DEC,10 - 7,Devin Skatzka,39603,Indiana,Ryan Christensen,20481,Wisconsin
+2018,02/18,Purdue - Wisconsin Dual,174,L,DEC,6 - 3,Dylan Lydy,39998,Purdue,Ryan Christensen,20481,Wisconsin
+2018,02/16,Rutgers - Wisconsin Dual,174,W,DEC,2 - 1,Joseph Grello,44858,Rutgers,Ryan Christensen,20481,Wisconsin
+2018,02/11,Wisconsin - Illinois Dual,174,W,MD,17 - 4,David Riojas,50222,Illinois,Ryan Christensen,20481,Wisconsin
+2018,02/09,Nebraska - Wisconsin Dual,174,W,DEC,3 - 2,Beau Breske,44757,Nebraska,Ryan Christensen,20481,Wisconsin
+2018,01/26,Indiana - Wisconsin Dual,174,L,MD,9 - 1,Devin Skatzka,39603,Indiana,Ryan Christensen,20481,Wisconsin
+2018,01/21,Wisconsin - Michigan State Dual,174,W,DEC,3 - 1,Gary Ritchie,40448,Michigan State,Ryan Christensen,20481,Wisconsin
+2018,01/19,Wisconsin - Michigan Dual,174,L,DEC,6 - 2,Myles Amine,39586,Michigan,Ryan Christensen,20481,Wisconsin
+2018,01/12,Wisconsin - Northwestern Dual,174,L,DEC,2 - 1,Johnny Sebastian,20224,Northwestern,Ryan Christensen,20481,Wisconsin
+2018,12/29,Midlands Invitational,174,W,DEC,3 - 0,Khamari Whimper,49284,Pennsylvania,Ryan Christensen,20481,Wisconsin
+2018,12/29,Midlands Invitational,174,W,MFOR,0 - 0,Seldon Wright,39604,Old Dominion,Ryan Christensen,20481,Wisconsin
+2018,12/29,Midlands Invitational,174,L,MD,11 - 2,Tyler Morland,49243,Northwestern,Ryan Christensen,20481,Wisconsin
+2018,12/29,Midlands Invitational,174,L,MD,14 - 4,Johnny Sebastian,20224,Northwestern,Ryan Christensen,20481,Wisconsin
+2018,12/29,Midlands Invitational,174,W,TB-1,3 - 2,Zach Ancewicz,49132,Edinboro,Ryan Christensen,20481,Wisconsin
+2018,12/29,Midlands Invitational,174,W,DEC,9 - 2,AJ Pedro,49056,Brown,Ryan Christensen,20481,Wisconsin
+2018,12/09,Wisconsin - Wisconsin-Whitewater Dual,174,W,DEC,7 - 1,Nicholas Bonomo,52618,Wisconsin-Whitewater,Ryan Christensen,20481,Wisconsin
+2018,12/07,Maryland - Wisconsin Dual,174,W,MD,13 - 2,Josh Ugalde,39515,Maryland,Ryan Christensen,20481,Wisconsin
+2018,12/01,Cliff Keen Invitational,174,W,DEC,2 - 0,Drew Hughes,44802,Michigan State,Ryan Christensen,20481,Wisconsin
+2018,12/01,Cliff Keen Invitational,174,L,DEC,9 - 4,Yoanse Mejias,41470,Oklahoma,Ryan Christensen,20481,Wisconsin
+2018,12/01,Cliff Keen Invitational,174,W,DEC,5 - 1,Dylan Urbach,20050,North Dakota State,Ryan Christensen,20481,Wisconsin
+2018,12/01,Cliff Keen Invitational,174,L,DEC,7 - 2,Bo Jordan,14840,Ohio State,Ryan Christensen,20481,Wisconsin
+2018,12/01,Cliff Keen Invitational,174,W,DEC,2 - 0,Beau Breske,44757,Nebraska,Ryan Christensen,20481,Wisconsin
+2018,11/19,Roadrunner Open,174,W,DEC,2 - 1,Jacob Covaciu,44805,Wisconsin,Ryan Christensen,20481,Wisconsin
+2018,11/19,Roadrunner Open,174,W,TF5,15 - 0 5:03,Justin Pichedwatana,46704,San Francisco State,Ryan Christensen,20481,Wisconsin
+2018,11/19,Roadrunner Open,174,W,DEC,4 - 1,Tyler Noon,43629,Menlo,Ryan Christensen,20481,Wisconsin
+2018,11/19,Roadrunner Open,174,W,DEC,2 - 0,Brandon Martino,50244,Fresno State,Ryan Christensen,20481,Wisconsin
+2018,11/19,Roadrunner Open,174,W,DEC,6 - 0,Noe Garcia,45322,CSU Bakersfield,Ryan Christensen,20481,Wisconsin
+2018,11/17,Pittsburgh - Wisconsin Dual,174,W,MD,11 - 0,Tommy O'Brien,49289,Pittsburgh,Ryan Christensen,20481,Wisconsin
+2018,11/17,Wisconsin - CSU Bakersfield Dual,174,W,TF5,15 - 0 7:00,Bryan Battisto,19830,CSU Bakersfield,Ryan Christensen,20481,Wisconsin
+2018,11/05,Michigan State Open,174,L,DEC,9 - 3,Yoanse Mejias,41470,Oklahoma,Ryan Christensen,20481,Wisconsin
+2018,11/05,Michigan State Open,174,W,MFOR,0 - 0,Luke Norland,39578,Northwestern,Ryan Christensen,20481,Wisconsin
+2018,11/05,Michigan State Open,174,L,SV-1,3 - 1,Johnny Sebastian,20224,Northwestern,Ryan Christensen,20481,Wisconsin
+2018,11/05,Michigan State Open,174,L,SV-1,4 - 2,Drew Hughes,44802,Michigan State,Ryan Christensen,20481,Wisconsin
+2018,11/05,Michigan State Open,174,W,DEC,5 - 3,Garrett Sutton,20024,Michigan,Ryan Christensen,20481,Wisconsin
+2018,02/03,Don Parker Blugold Open,174,W,FALL,2:05,Jackson Graham,48177,Augsburg,Izaec Quintanilla,39605,Wisconsin
+2018,02/03,Don Parker Blugold Open,174,W,DEC,4 - 3,Tone Fuenffinger,44240,Augsburg,Izaec Quintanilla,39605,Wisconsin
+2018,02/03,Don Parker Blugold Open,174,W,FALL,1:32,Tyler Vogt,24969,Wisconsin-Eau Claire,Izaec Quintanilla,39605,Wisconsin
+2018,02/03,Don Parker Blugold Open,174,L,DEC,4 - 3,Bailee O'Reilly,50166,Minnesota,Izaec Quintanilla,39605,Wisconsin
+2018,01/20,Willie Myers Open,174,W,FALL,1:59,Placide Niyigena,55429,Harper College,Izaec Quintanilla,39605,Wisconsin
+2018,01/20,Willie Myers Open,174,W,MD,11 - 3,Nate Mlodzik,44160,Wisconsin-Whitewater,Izaec Quintanilla,39605,Wisconsin
+2018,01/20,Willie Myers Open,174,W,DEC,4 - 2,Tucker Morrison,50985,Iowa State,Izaec Quintanilla,39605,Wisconsin
+2018,01/20,Willie Myers Open,174,W,FALL,2:55,Randy Kline,49534,North Central,Izaec Quintanilla,39605,Wisconsin
+2018,01/20,Willie Myers Open,174,L,DEC,6 - 4,Harrison Swalla,44138,Iowa State,Izaec Quintanilla,39605,Wisconsin
+2018,01/20,Willie Myers Open,174,W,DEC,11 - 6,Luke Entzel,40219,Iowa State,Izaec Quintanilla,39605,Wisconsin
+2018,01/06,Flash Flanagan Open,174,W,FALL,3:31,Carter Rohweder,50988,Northern Iowa,Izaec Quintanilla,39605,Wisconsin
+2018,01/06,Flash Flanagan Open,174,W,DEC,4 - 1,Tucker Morrison,50985,Iowa State,Izaec Quintanilla,39605,Wisconsin
+2018,01/06,Flash Flanagan Open,174,L,DEC,6 - 0,Marcus Coleman,49154,Iowa State,Izaec Quintanilla,39605,Wisconsin
+2018,01/06,Flash Flanagan Open,174,W,FALL,0:37,Brody Beck,43819,Northern Iowa,Izaec Quintanilla,39605,Wisconsin
+2018,01/06,Flash Flanagan Open,174,W,MD,14 - 5,Colin Strickland,15199,Iowa State,Izaec Quintanilla,39605,Wisconsin
+2018,03/15,NCAA Championships,184,L,SV-1,3 - 1,Bryce Carr,39936,Chattanooga,Ricky Robertson,14042,Wisconsin
+2018,03/15,NCAA Championships,184,L,DEC,9 - 6,Zack Zavatsky,20460,Virginia Tech,Ricky Robertson,14042,Wisconsin
+2018,03/15,NCAA Championships,184,W,MD,13 - 2,Alex DeCiantis,12387,Drexel,Ricky Robertson,14042,Wisconsin
+2018,03/03,Big Ten Championships,184,L,TF5,23 - 8 7:00,Myles Martin,39622,Ohio State,Ricky Robertson,14042,Wisconsin
+2018,03/03,Big Ten Championships,184,W,DEC,5 - 0,Mitch Sliga,12522,Northwestern,Ricky Robertson,14042,Wisconsin
+2018,03/03,Big Ten Championships,184,L,MD,11 - 1,Taylor Venz,44854,Nebraska,Ricky Robertson,14042,Wisconsin
+2018,03/03,Big Ten Championships,184,W,TF5,16 - 1 7:00,Niko Cappello,44773,Maryland,Ricky Robertson,14042,Wisconsin
+2018,03/03,Big Ten Championships,184,W,DEC,9 - 4,Mitch Bowman,19946,Iowa,Ricky Robertson,14042,Wisconsin
+2018,02/18,Purdue - Wisconsin Dual,184,W,MD,13 - 5,Max Lyon,49303,Purdue,Ricky Robertson,14042,Wisconsin
+2018,02/16,Rutgers - Wisconsin Dual,184,L,DEC,5 - 3,Nicholas Gravina,20360,Rutgers,Ricky Robertson,14042,Wisconsin
+2018,02/11,Wisconsin - Illinois Dual,184,L,DEC,9 - 4,Emery Parker,19939,Illinois,Ricky Robertson,14042,Wisconsin
+2018,02/09,Nebraska - Wisconsin Dual,184,L,DEC,12 - 7,Taylor Venz,44854,Nebraska,Ricky Robertson,14042,Wisconsin
+2018,01/26,Indiana - Wisconsin Dual,184,W,MD,8 - 0,Norman Conley,39929,Indiana,Ricky Robertson,14042,Wisconsin
+2018,01/21,Wisconsin - Michigan State Dual,184,W,DEC,7 - 2,Shwan Shadaia,20759,Michigan State,Ricky Robertson,14042,Wisconsin
+2018,01/19,Wisconsin - Michigan Dual,184,L,MD,12 - 1,Domenic Abounader,12523,Michigan,Ricky Robertson,14042,Wisconsin
+2018,01/12,Wisconsin - Northwestern Dual,184,W,DEC,4 - 0,Mitch Sliga,12522,Northwestern,Ricky Robertson,14042,Wisconsin
+2018,12/09,Wisconsin - Wisconsin-Whitewater Dual,184,W,MD,12 - 4,Nick Stencel,49963,Wisconsin-Whitewater,Ricky Robertson,14042,Wisconsin
+2018,12/07,Maryland - Wisconsin Dual,184,W,DEC,6 - 0,Spencer Woods,45137,Maryland,Ricky Robertson,14042,Wisconsin
+2018,12/01,Cliff Keen Invitational,184,W,DEC,2 - 0,Drew Foster,20212,Northern Iowa,Ricky Robertson,14042,Wisconsin
+2018,12/01,Cliff Keen Invitational,184,W,DEC,5 - 0,Gregg Harvey,45148,Pittsburgh,Ricky Robertson,14042,Wisconsin
+2018,12/01,Cliff Keen Invitational,184,L,DEC,8 - 3,Taylor Venz,44854,Nebraska,Ricky Robertson,14042,Wisconsin
+2018,12/01,Cliff Keen Invitational,184,W,SV-1,3 - 1,Christian LaFragola,40032,Brown,Ricky Robertson,14042,Wisconsin
+2018,12/01,Cliff Keen Invitational,184,W,DEC,6 - 5,Drew Phipps,45224,Bucknell,Ricky Robertson,14042,Wisconsin
+2018,12/01,Cliff Keen Invitational,184,W,DEC,5 - 2,Steve Schneider,19660,Binghamton,Ricky Robertson,14042,Wisconsin
+2018,12/01,Cliff Keen Invitational,184,L,MD,8 - 0,Domenic Abounader,12523,Michigan,Ricky Robertson,14042,Wisconsin
+2018,11/19,Roadrunner Open,184,W,TF5,17 - 1 5:28,Isaac Rangel,24338,Unattached,Ricky Robertson,14042,Wisconsin
+2018,11/19,Roadrunner Open,184,W,FALL,1:35,Rory Macneil,52771,Unattached,Ricky Robertson,14042,Wisconsin
+2018,11/19,Roadrunner Open,184,W,FALL,1:49,Wilson Ramirez,52772,Unattached,Ricky Robertson,14042,Wisconsin
+2018,11/19,Roadrunner Open,184,W,FALL,2:24,Spencer Woods,45137,Maryland,Ricky Robertson,14042,Wisconsin
+2018,11/19,Roadrunner Open,184,W,SV-1,3 - 1,Emery Parker,19939,Illinois,Ricky Robertson,14042,Wisconsin
+2018,11/17,Pittsburgh - Wisconsin Dual,184,W,MD,9 - 1,Zach Bruce,20321,Pittsburgh,Ricky Robertson,14042,Wisconsin
+2018,11/17,Wisconsin - CSU Bakersfield Dual,184,W,DEC,7 - 2,Dom Ducharme,45323,CSU Bakersfield,Ricky Robertson,14042,Wisconsin
+2018,11/05,Michigan State Open,184,W,MD,14 - 2,Charles Wells iii,41624,Findlay,Ricky Robertson,14042,Wisconsin
+2018,11/05,Michigan State Open,184,W,MD,14 - 2,Charles Wells,51501,Findlay,Ricky Robertson,14042,Wisconsin
+2018,11/05,Michigan State Open,184,W,DEC,4 - 0,Mitch Sliga,12522,Northwestern,Ricky Robertson,14042,Wisconsin
+2018,11/05,Michigan State Open,184,W,TF5,16 - 0 7:00,Shwan Shadaia,20759,Michigan State,Ricky Robertson,14042,Wisconsin
+2018,11/05,Michigan State Open,184,L,DEC,8 - 3,Jordan Ellingwood,14564,Central Michigan,Ricky Robertson,14042,Wisconsin
+2018,11/05,Michigan State Open,184,W,FALL,2:00,Jonathan Morales,40023,Purdue,Ricky Robertson,14042,Wisconsin
+2018,12/29,Midlands Invitational,174,W,DEC,4 - 3,Parker Von Egidy,12308,West Virginia,Jacob Covaciu,44805,Wisconsin
+2018,12/29,Midlands Invitational,174,L,MD,9 - 0,Johnny Sebastian,20224,Northwestern,Jacob Covaciu,44805,Wisconsin
+2018,12/29,Midlands Invitational,174,W,DEC,10 - 3,Gabe Koontz,39694,Indiana,Jacob Covaciu,44805,Wisconsin
+2018,12/29,Midlands Invitational,174,L,TF5,16 - 1 7:00,Josh Ugalde,39515,Maryland,Jacob Covaciu,44805,Wisconsin
+2018,12/09,UNI Open,174,W,FALL,4:28,Brody Beck,43819,Northern Iowa,Jacob Covaciu,44805,Wisconsin
+2018,12/09,UNI Open,174,W,DEC,7 - 0,Jacob Meehan,23315,Northern Iowa,Jacob Covaciu,44805,Wisconsin
+2018,12/09,UNI Open,174,W,FALL,2:43,Carter Rohweder,50988,Northern Iowa,Jacob Covaciu,44805,Wisconsin
+2018,12/09,UNI Open,174,L,DEC,3 - 1,Colton Clingenpeel,45590,North Dakota State,Jacob Covaciu,44805,Wisconsin
+2018,12/09,UNI Open,174,W,DEC,4 - 2,Jesse Shearer,49225,North Dakota State,Jacob Covaciu,44805,Wisconsin
+2018,12/09,UNI Open,174,L,DEC,5 - 1,Marcus Coleman,49154,Iowa State,Jacob Covaciu,44805,Wisconsin
+2018,11/19,Roadrunner Open,174,L,DEC,2 - 1,Ryan Christensen,20481,Wisconsin,Jacob Covaciu,44805,Wisconsin
+2018,11/19,Roadrunner Open,174,W,FALL,1:16,Layten Briggs,52737,Simpson,Jacob Covaciu,44805,Wisconsin
+2018,11/19,Roadrunner Open,174,W,TF5,17 - 0 3:23,Maleselino Salt,52774,San Francisco State,Jacob Covaciu,44805,Wisconsin
+2018,11/19,Roadrunner Open,174,W,MFOR,0 - 0,Josh Ugalde,39515,Maryland,Jacob Covaciu,44805,Wisconsin
+2018,11/19,Roadrunner Open,174,W,DEC,4 - 2,David Riojas,50222,Illinois,Jacob Covaciu,44805,Wisconsin
+2018,11/05,Michigan State Open,174,W,DEC,2 - 0,Luke Norland,39578,Northwestern,Jacob Covaciu,44805,Wisconsin
+2018,11/05,Michigan State Open,174,L,MD,12 - 3,Myles Amine,39586,Michigan,Jacob Covaciu,44805,Wisconsin
+2018,11/05,Michigan State Open,174,L,SV-2,4 - 2,Dylan Lydy,39998,Purdue,Jacob Covaciu,44805,Wisconsin
+2018,12/09,Wisconsin - Wisconsin-Whitewater Dual,197,W,TF5,16 - 0 4:41,Nick Sundberg,49771,Wisconsin-Whitewater,Brady Wetter,44937,Wisconsin
+2018,11/05,Michigan State Open,184,L,FALL,2:08,Brendan Winning,41662,Lake Erie College,Brady Wetter,44937,Wisconsin
+2018,11/05,Michigan State Open,184,L,DEC,9 - 2,Shwan Shadaia,20759,Michigan State,Brady Wetter,44937,Wisconsin
+2018,03/15,NCAA Championships,197,L,DEC,4 - 2,Frank Mattiace,13058,Pennsylvania,Hunter Ritter,39783,Wisconsin
+2018,03/15,NCAA Championships,197,W,MFOR,0 - 0,Preston Weigel,20278,Oklahoma State,Hunter Ritter,39783,Wisconsin
+2018,03/15,NCAA Championships,197,L,DEC,6 - 2,Nate Rotert,12968,South Dakota State,Hunter Ritter,39783,Wisconsin
+2018,03/03,Big Ten Championships,197,W,INJ,7:00,Kevin Beazley,12757,Michigan,Hunter Ritter,39783,Wisconsin
+2018,03/03,Big Ten Championships,197,W,DEC,6 - 3,Christian Brunner,44744,Purdue,Hunter Ritter,39783,Wisconsin
+2018,03/03,Big Ten Championships,197,W,FALL,2:09,Eric Schultz,44853,Nebraska,Hunter Ritter,39783,Wisconsin
+2018,03/03,Big Ten Championships,197,L,FALL,6:29,Kevin Beazley,12757,Michigan,Hunter Ritter,39783,Wisconsin
+2018,03/03,Big Ten Championships,197,W,DEC,5 - 3,David-Brian Whisler,40241,Maryland,Hunter Ritter,39783,Wisconsin
+2018,03/03,Big Ten Championships,197,W,SV-1,3 - 1,Andre Lee,19938,Illinois,Hunter Ritter,39783,Wisconsin
+2018,02/18,Purdue - Wisconsin Dual,197,L,DEC,7 - 3,Christian Brunner,44744,Purdue,Hunter Ritter,39783,Wisconsin
+2018,02/16,Rutgers - Wisconsin Dual,197,W,FALL,2:53,Anthony Messner,12564,Rutgers,Hunter Ritter,39783,Wisconsin
+2018,02/11,Wisconsin - Illinois Dual,197,W,DEC,3 - 2,Andre Lee,19938,Illinois,Hunter Ritter,39783,Wisconsin
+2018,02/09,Nebraska - Wisconsin Dual,197,W,DEC,9 - 6,Eric Schultz,44853,Nebraska,Hunter Ritter,39783,Wisconsin
+2018,01/26,Indiana - Wisconsin Dual,197,W,DEC,6 - 5,Jake Kleimola,44956,Indiana,Hunter Ritter,39783,Wisconsin
+2018,01/21,Wisconsin - Michigan State Dual,197,W,DEC,6 - 2,Nick May,44742,Michigan State,Hunter Ritter,39783,Wisconsin
+2018,01/19,Wisconsin - Michigan Dual,197,W,DEC,3 - 2,Kevin Beazley,12757,Michigan,Hunter Ritter,39783,Wisconsin
+2018,01/12,Wisconsin - Northwestern Dual,197,W,DEC,3 - 1,Regis Durbin,20220,Northwestern,Hunter Ritter,39783,Wisconsin
+2018,12/29,Midlands Invitational,197,W,DEC,7 - 2,Mason Reinhardt,39748,Wisconsin,Hunter Ritter,39783,Wisconsin
+2018,12/29,Midlands Invitational,197,L,SV-1,5 - 1,Jake A Smith,23323,West Virginia,Hunter Ritter,39783,Wisconsin
+2018,12/29,Midlands Invitational,197,W,TF5,16 - 1 7:00,Donovan Doyle,44746,Harvard,Hunter Ritter,39783,Wisconsin
+2018,12/29,Midlands Invitational,197,L,DEC,7 - 5,Jordan Atienza,19747,Central Michigan,Hunter Ritter,39783,Wisconsin
+2018,12/29,Midlands Invitational,197,W,FALL,4:48,Sam Schuyler,50361,Buffalo,Hunter Ritter,39783,Wisconsin
+2018,12/07,Maryland - Wisconsin Dual,197,W,MD,10 - 0,Niko Cappello,44773,Maryland,Hunter Ritter,39783,Wisconsin
+2018,12/01,Cliff Keen Invitational,197,L,FALL,4:24,Jacob Holschlag,39800,Northern Iowa,Hunter Ritter,39783,Wisconsin
+2018,12/01,Cliff Keen Invitational,197,L,MD,20 - 7,Kollin Moore,39638,Ohio State,Hunter Ritter,39783,Wisconsin
+2018,12/01,Cliff Keen Invitational,197,W,DEC,3 - 2,Garrett Hoffman,44672,Bucknell,Hunter Ritter,39783,Wisconsin
+2018,12/01,Cliff Keen Invitational,197,W,DEC,3 - 2,Rocco Caywood,22565,Army West Point,Hunter Ritter,39783,Wisconsin
+2018,11/19,Roadrunner Open,197,W,DEC,4 - 0,Mason Reinhardt,39748,Wisconsin,Hunter Ritter,39783,Wisconsin
+2018,11/19,Roadrunner Open,197,W,DEC,8 - 1,Ryan Reyes,52773,Unattached,Hunter Ritter,39783,Wisconsin
+2018,11/19,Roadrunner Open,197,L,DEC,7 - 3,Nathan Traxler,45395,Stanford,Hunter Ritter,39783,Wisconsin
+2018,11/19,Roadrunner Open,197,W,MD,12 - 1,David Showunmi,39853,Stanford,Hunter Ritter,39783,Wisconsin
+2018,11/19,Roadrunner Open,197,W,DEC,3 - 2,Andre Lee,19938,Illinois,Hunter Ritter,39783,Wisconsin
+2018,11/17,Pittsburgh - Wisconsin Dual,197,W,DEC,5 - 4,Kellan Stout,39528,Pittsburgh,Hunter Ritter,39783,Wisconsin
+2018,11/17,Wisconsin - CSU Bakersfield Dual,197,L,DEC,4 - 0,Matt Williams,16442,CSU Bakersfield,Hunter Ritter,39783,Wisconsin
+2018,11/05,Michigan State Open,197,W,DEC,9 - 5,Armani Robinson,51502,Findlay,Hunter Ritter,39783,Wisconsin
+2018,11/05,Michigan State Open,197,L,FALL,1:37,Kevin Beazley,12757,Michigan,Hunter Ritter,39783,Wisconsin
+2018,11/05,Michigan State Open,197,W,DEC,7 - 4,Jackson Striggow,39831,Michigan,Hunter Ritter,39783,Wisconsin
+2018,11/05,Michigan State Open,197,W,DEC,5 - 3,Kobe Woods,44676,Purdue,Hunter Ritter,39783,Wisconsin
+2018,12/29,Midlands Invitational,197,L,DEC,7 - 2,Hunter Ritter,39783,Wisconsin,Mason Reinhardt,39748,Wisconsin
+2018,12/29,Midlands Invitational,197,W,FALL,6:10,Corey Griego,20292,Oregon State,Mason Reinhardt,39748,Wisconsin
+2018,12/29,Midlands Invitational,197,L,DEC,2 - 1,Kevin Mulligan,44814,Rutgers,Mason Reinhardt,39748,Wisconsin
+2018,12/29,Midlands Invitational,197,W,FALL,6:16,Anthony Messner,12564,Rutgers,Mason Reinhardt,39748,Wisconsin
+2018,11/19,Roadrunner Open,197,L,DEC,4 - 0,Hunter Ritter,39783,Wisconsin,Mason Reinhardt,39748,Wisconsin
+2018,11/19,Roadrunner Open,197,W,MFOR,0 - 0,Alex Cruz,45801,Unattached,Mason Reinhardt,39748,Wisconsin
+2018,11/19,Roadrunner Open,197,W,MD,13 - 0,Jovan Villalobos,21773,Menlo,Mason Reinhardt,39748,Wisconsin
+2018,11/19,Roadrunner Open,197,W,DEC,5 - 2,Max Bossert,52765,Unattached,Mason Reinhardt,39748,Wisconsin
+2018,11/19,Roadrunner Open,197,L,DEC,3 - 2,Alex Cruz,45801,Unattached,Mason Reinhardt,39748,Wisconsin
+2018,11/19,Roadrunner Open,197,W,DEC,9 - 3,Chad Porter,50885,Arizona State,Mason Reinhardt,39748,Wisconsin
+2018,11/05,Michigan State Open,197,W,DEC,7 - 0,Alex Roberts,51491,Manchester,Mason Reinhardt,39748,Wisconsin
+2018,11/05,Michigan State Open,197,W,DEC,2 - 1,Sebastian Silva,41969,Tiffin University,Mason Reinhardt,39748,Wisconsin
+2018,11/05,Michigan State Open,197,L,DEC,3 - 1,Andrew Dixon,20809,Oklahoma,Mason Reinhardt,39748,Wisconsin
+2018,11/05,Michigan State Open,197,W,DEC,6 - 2,Matthew Okaiye,20756,Michigan State,Mason Reinhardt,39748,Wisconsin
+2018,11/05,Michigan State Open,197,W,DEC,7 - 2,Keavon Buckley,19684,Arizona State,Mason Reinhardt,39748,Wisconsin
+2018,11/05,Michigan State Open,197,L,DEC,8 - 2,Jackson Striggow,39831,Michigan,Eric Peissig,16414,Wisconsin
+2018,11/05,Michigan State Open,197,L,DEC,7 - 4,Landon Pelham,44838,Central Michigan,Eric Peissig,16414,Wisconsin
+2018,11/05,Michigan State Open,197,L,FALL,1:29,Kevin Beazley,12757,Michigan,Jake Stilling,12923,Wisconsin
+2018,11/05,Michigan State Open,197,L,DEC,6 - 1,Austyn Harris,20571,Arizona State,Jake Stilling,12923,Wisconsin
+2018,03/03,Big Ten Championships,285,W,FALL,1:46,Razohnn Gross,45114,Rutgers,Ben Stone,40146,Wisconsin
+2018,03/03,Big Ten Championships,285,L,TF5,16 - 0 6:07,Conan Jennings,20222,Northwestern,Ben Stone,40146,Wisconsin
+2018,03/03,Big Ten Championships,285,L,DEC,8 - 3,Youssif Hemida,39563,Maryland,Ben Stone,40146,Wisconsin
+2018,02/18,Purdue - Wisconsin Dual,285,L,DEC,12 - 5,Shawn Streck,44822,Purdue,Ben Stone,40146,Wisconsin
+2018,02/16,Rutgers - Wisconsin Dual,285,L,DEC,5 - 3,Razohnn Gross,45114,Rutgers,Ben Stone,40146,Wisconsin
+2018,02/11,Wisconsin - Illinois Dual,285,L,DEC,7 - 5,Deuce Rachal,19940,Illinois,Ben Stone,40146,Wisconsin
+2018,02/09,Nebraska - Wisconsin Dual,285,L,FALL,1:33,David Jensen,43467,Nebraska,Ben Stone,40146,Wisconsin
+2018,01/26,Indiana - Wisconsin Dual,285,L,DEC,3 - 1,Fletcher Miller,20525,Indiana,Ben Stone,40146,Wisconsin
+2018,01/21,Wisconsin - Michigan State Dual,285,L,MD,15 - 4,Christian Rebottaro,44850,Michigan State,Ben Stone,40146,Wisconsin
+2018,01/19,Wisconsin - Michigan Dual,285,L,FALL,0:41,Adam Coon,14123,Michigan,Ben Stone,40146,Wisconsin
+2018,01/12,Wisconsin - Northwestern Dual,285,L,DEC,3 - 1,Conan Jennings,20222,Northwestern,Ben Stone,40146,Wisconsin
+2018,12/29,Midlands Invitational,285,W,DEC,9 - 4,Alex Macki,14278,South Dakota State,Ben Stone,40146,Wisconsin
+2018,12/29,Midlands Invitational,285,L,MD,20 - 8,Amarveer Dhesi,14223,Oregon State,Ben Stone,40146,Wisconsin
+2018,12/29,Midlands Invitational,285,L,TF5,15 - 0 7:00,Matt Stencel,44592,Central Michigan,Ben Stone,40146,Wisconsin
+2018,12/09,Wisconsin - Wisconsin-Whitewater Dual,285,W,TF5,15 - 0 6:07,Dylan Uzumecki,53800,Wisconsin-Whitewater,Ben Stone,40146,Wisconsin
+2018,12/07,Maryland - Wisconsin Dual,285,L,FALL,1:11,Youssif Hemida,39563,Maryland,Ben Stone,40146,Wisconsin
+2018,11/19,Roadrunner Open,285,W,TF5,15 - 0 3:20,Javier Gonzalez,46712,Menlo,Ben Stone,40146,Wisconsin
+2018,11/19,Roadrunner Open,285,W,FALL,1:17,Sergio Vargas,52752,University of Nevada Las Vegas,Ben Stone,40146,Wisconsin
+2018,11/19,Roadrunner Open,285,L,FALL,2:46,Youssif Hemida,39563,Maryland,Ben Stone,40146,Wisconsin
+2018,11/19,Roadrunner Open,285,W,MD,10 - 0,Dominic Balmer,40162,CSU Bakersfield,Ben Stone,40146,Wisconsin
+2018,11/19,Roadrunner Open,285,W,DEC,8 - 5,Jacob Sieder,45321,CSU Bakersfield,Ben Stone,40146,Wisconsin
+2018,11/17,Pittsburgh - Wisconsin Dual,285,L,DEC,4 - 0,Ryan Solomon,13146,Pittsburgh,Ben Stone,40146,Wisconsin
+2018,11/17,Wisconsin - CSU Bakersfield Dual,285,L,FALL,3:19,Mark Penyacsek,40163,CSU Bakersfield,Ben Stone,40146,Wisconsin
+2018,11/05,Michigan State Open,285,W,DEC,7 - 1,Connor Webb,50999,Oklahoma,Ben Stone,40146,Wisconsin
+2018,11/05,Michigan State Open,285,L,FALL,0:29,Matt Stencel,44592,Central Michigan,Ben Stone,40146,Wisconsin
+2018,11/05,Michigan State Open,285,L,DEC,8 - 5,Jacob Aven,20343,Purdue,Ben Stone,40146,Wisconsin
+2018,02/03,Don Parker Blugold Open,285,W,TF5,19 - 2 4:13,Nick Graziano,55267,Wisconsin-Whitewater,Trent Hillger,49350,Wisconsin
+2018,02/03,Don Parker Blugold Open,285,W,DEC,3 - 0,Manny Garcia,52798,Minnesota State Moorhead,Trent Hillger,49350,Wisconsin
+2018,02/03,Don Parker Blugold Open,285,W,FALL,2:38,Ethan Hofacker,49551,Augsburg,Trent Hillger,49350,Wisconsin
+2018,02/03,Don Parker Blugold Open,285,W,FALL,1:22,Quincy Spiering,48197,St Johns,Trent Hillger,49350,Wisconsin
+2018,02/03,Don Parker Blugold Open,285,W,MD,8 - 0,Justin Hennessy,47410,Nebraska Wesleyan,Trent Hillger,49350,Wisconsin
+2018,01/20,Willie Myers Open,285,W,FALL,1:57,Jordan Williams,55442,Harper College,Trent Hillger,49350,Wisconsin
+2018,01/20,Willie Myers Open,285,W,FALL,1:51,Justin Peete,55431,Unattached,Trent Hillger,49350,Wisconsin
+2018,01/20,Willie Myers Open,285,W,FALL,4:15,Gannon Gremmel,44856,Iowa State,Trent Hillger,49350,Wisconsin
+2018,01/20,Willie Myers Open,285,W,FALL,0:49,Nick Nolting,40216,Iowa State,Trent Hillger,49350,Wisconsin
+2018,01/06,Flash Flanagan Open,285,W,TF5,16 - 0 7:00,Weston DeHaven,51727,Davenport,Trent Hillger,49350,Wisconsin
+2018,01/06,Flash Flanagan Open,285,W,FALL,4:30,Nick Nolting,40216,Iowa State,Trent Hillger,49350,Wisconsin
+2018,01/06,Flash Flanagan Open,285,W,DEC,5 - 1,Aaron Costello,49149,Iowa,Trent Hillger,49350,Wisconsin
+2018,12/29,Midlands Invitational,285,L,DEC,3 - 2,Cody Crawford,16468,Oregon State,Trent Hillger,49350,Wisconsin
+2018,12/29,Midlands Invitational,285,L,DEC,5 - 0,Matt Correnti,44705,Rutgers,Trent Hillger,49350,Wisconsin
+2018,12/09,UNI Open,285,W,DEC,7 - 0,Blake Wolters,45289,South Dakota State,Trent Hillger,49350,Wisconsin
+2018,12/09,UNI Open,285,W,TB-2,4 - 3,Brandon Metz,49222,North Dakota State,Trent Hillger,49350,Wisconsin
+2018,12/09,UNI Open,285,W,TB-1,4 - 1,Rodrigo Diaz,44851,Missouri,Trent Hillger,49350,Wisconsin
+2018,12/09,UNI Open,285,L,DEC,4 - 2,Gannon Gremmel,44856,Iowa State,Trent Hillger,49350,Wisconsin
+2018,11/19,Lindenwood Open,285,L,DEC,7 - 3,Demetrius Thomas,47357,Williams Baptist,Trent Hillger,49350,Wisconsin
+2018,11/19,Lindenwood Open,285,W,DEC,9 - 5,Ethan Sherertz,47184,Maryville University,Trent Hillger,49350,Wisconsin
+2018,11/19,Lindenwood Open,285,L,DEC,4 - 2,Blake Andrews,45157,Oklahoma State,Trent Hillger,49350,Wisconsin
+2018,11/19,Lindenwood Open,285,W,DEC,5 - 3,Rodrigo Diaz,44851,Missouri,Trent Hillger,49350,Wisconsin
+2018,11/19,Lindenwood Open,285,W,MFOR,0 - 0,Gannon Gremmel,44856,Iowa State,Trent Hillger,49350,Wisconsin
+2018,11/19,Lindenwood Open,285,W,DEC,3 - 1,Marcus Harrington,19961,Iowa State,Trent Hillger,49350,Wisconsin
+2018,11/05,Michigan State Open,285,W,TF5,16 - 0 3:00,David Henson,46560,Tiffin University,Trent Hillger,49350,Wisconsin
+2018,11/05,Michigan State Open,285,L,DEC,9 - 4,Kam Teacher,48043,Notre Dame,Trent Hillger,49350,Wisconsin
+2018,11/05,Michigan State Open,285,W,DEC,6 - 0,Matt Lloyd,45312,Michigan State,Trent Hillger,49350,Wisconsin
+2018,11/05,Michigan State Open,285,W,DEC,5 - 2,Nick Jenkins,49079,Central Michigan,Trent Hillger,49350,Wisconsin
+2018,01/20,Willie Myers Open,285,W,FALL,3:46,Danny Fay,55448,Concordia,Ian Dretzka,51218,Wisconsin
+2018,01/20,Willie Myers Open,285,L,FALL,2:42,Jordan Williams,55442,Harper College,Ian Dretzka,51218,Wisconsin
+2018,01/20,Willie Myers Open,285,W,FALL,2:45,Adam Robison,55434,Upper Iowa,Ian Dretzka,51218,Wisconsin
+2018,01/20,Willie Myers Open,285,W,FALL,3:21,Nick Graziano,55267,Wisconsin-Whitewater,Ian Dretzka,51218,Wisconsin
+2018,01/20,Willie Myers Open,285,L,DEC,3 - 1,Jordan Festge,41676,Wisconsin-Whitewater,Ian Dretzka,51218,Wisconsin
+2018,12/09,UNI Open,285,W,FALL,4:29,Darrell Mason,53770,Ellsworth CC,Ian Dretzka,51218,Wisconsin
+2018,12/09,UNI Open,285,L,FALL,6:50,Blake Wolters,45289,South Dakota State,Ian Dretzka,51218,Wisconsin
+2018,12/09,UNI Open,285,L,FALL,2:43,Carter Isley,44719,Northern Iowa,Ian Dretzka,51218,Wisconsin
+2018,11/05,Michigan State Open,285,L,FALL,3:43,Mimmo Lytle,51423,Findlay,Ian Dretzka,51218,Wisconsin
+2018,11/05,Michigan State Open,285,L,SV-1,8 - 6,Chase Carter,46394,Tiffin University,Ian Dretzka,51218,Wisconsin
