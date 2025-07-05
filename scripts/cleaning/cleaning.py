@@ -1,14 +1,57 @@
+"""
+Wrestling Match Data Cleaner
+
+This module defines a `WrestlingDataCleaner` class that provides methods to clean and deduplicate 
+NCAA Division I wrestling match data collected from WrestleStat. The cleaner standardizes scores, 
+infers match durations, corrects weight class anomalies, formats dates, and generates stable unique 
+match identifiers to remove duplicate records.
+
+Intended use:
+- Process scraped match CSV files.
+- Generate clean and deduplicated datasets for analysis or modeling.
+- Save output to organized directories.
+
+Main Methods:
+- clean_data(df): Cleans and transforms the raw match data.
+- deduplicate_matches(df): Removes duplicate matches using a generated hash ID.
+- generate_match_id(row): Generates a stable ID for each match to aid in deduplication.
+- parse_score(row): Extracts the match score and duration from raw input strings.
+
+Example:
+    cleaner = WrestlingDataCleaner()
+    df_clean = cleaner.clean_data(df_raw)
+    df_dedup = cleaner.deduplicate_matches(df_clean)
+"""
+
 import pandas as pd
 import hashlib
 import os
 import re
+import tqdm
 import glob
 
 class WrestlingDataCleaner:
+    """A class to clean and deduplicate wrestling match data scraped from WrestleStat."""
+
     def __init__(self):
         pass
 
     def generate_match_id(self, row):
+        """
+        Generate a unique match identifier (MD5 hash) for deduplication.
+
+        The ID is based on season, date, event, weight class, wrestler/opponent IDs (ordered),
+        match duration, and normalized score. This allows duplicate matches (i.e., same match
+        recorded from both wrestlers' perspectives) to be identified.
+
+        Args:
+            row (pd.Series): A row of the DataFrame representing one match.
+
+        Returns:
+            str: A hexadecimal hash string uniquely identifying the match.
+        """
+
+        # If there is a score present, split the two values
         if ' - ' in str(row['score']):
             score1, score2 = row['score'].split(' - ')
             parts = [
@@ -22,6 +65,7 @@ class WrestlingDataCleaner:
                 str(min(int(score1), int(score2))), 
                 str(max(int(score1), int(score2)))
             ]
+        # Otherwise just use the string
         else:
             parts = [
                 str(row["season"]),
@@ -33,10 +77,23 @@ class WrestlingDataCleaner:
                 str(row["match_duration"]),
                 str(row['score'])
             ]
+            
         key = "_".join(parts).lower().replace(" ", "")
         return hashlib.md5(key.encode()).hexdigest()
 
     def parse_score(self, row):
+        """
+        Parses the 'score' column to extract the normalized score and match duration.
+
+        Args:
+            row (pd.Series): A match row from the dataset.
+
+        Returns:
+            pd.Series: A Series with two values:
+                - str: Cleaned score (e.g. '8 - 3')
+                - str or None: Match duration (e.g. '7:00', or None if not applicable)
+        """
+
         val = row['score']
         
         # Normalize spacing: "26 -10 6:40" → "26 - 10 6:40"
@@ -63,6 +120,24 @@ class WrestlingDataCleaner:
         return pd.Series([val, None])
 
     def clean_data(self, df):
+        """
+        Cleans and standardizes raw WrestleStat match data.
+
+        Steps include:
+        - Removing invalid weight classes
+        - Standardizing scores and match durations
+        - Converting match dates into full datetime objects
+        - Adjusting seasons to reflect academic years
+        - Normalizing perspective of scores (wrestler’s view)
+        - Reordering columns
+
+        Args:
+            df (pd.DataFrame): Raw wrestling match data.
+
+        Returns:
+            pd.DataFrame: Cleaned match data ready for analysis.
+        """
+
         # Removing rows labeled as incorrect weight class
         df = df[~((df['weight_class'] == 0) | (df['weight_class'] == 6))].copy()
 
@@ -122,6 +197,16 @@ class WrestlingDataCleaner:
         return df
     
     def deduplicate_matches(self, df):
+        """
+        Removes duplicate matches by computing a match hash and filtering unique entries.
+
+        Args:
+            df (pd.DataFrame): Cleaned wrestling match data.
+
+        Returns:
+            pd.DataFrame: Deduplicated dataset, sorted by date and weight class.
+        """
+
         # Generate a unique match identifier for each match
         df['match_id'] = df.apply(self.generate_match_id, axis=1)
 
@@ -137,6 +222,7 @@ class WrestlingDataCleaner:
         return df
 
 if __name__ == "__main__":
+    # Think about implementing team/year specific cleaning
     '''# Folder containing your raw CSV files in subfolders
     input_folder = 'data/raw/'
     output_folder = 'data/clean/'

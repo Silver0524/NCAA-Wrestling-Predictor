@@ -14,8 +14,8 @@ This project is the foundation for a long-term initiative to:
 
 Currently working on:
 
-- 🛠 Rescraping full dataset and cleaning data
-- 📒 Updating README to reflect new folder structure
+- 🔬 Exploratory data analysis to reveal trends
+- 🛠️ Feature engineering to prepare for predictive modeling
 
 ## 📌 Features
 
@@ -24,34 +24,36 @@ Currently working on:
 - 📄 Season and full-dataset CSV generation
 - 🔁 Multi-season scraping with parallel processing
 - 🗃️ Activity map support for defunct and newly added programs
-
-## 🧠 Key Functions
-
-| Function                  | Description                                                       |
-| ------------------------- | ----------------------------------------------------------------- |
-| `login`                   | Authenticates a user on WrestleStat                               |
-| `get_current_d1_teams`    | Retrieves active D1 team IDs and URL slugs                        |
-| `get_team_roster`         | Fetches a specific team’s roster for a given season               |
-| `scrape_wrestler_matches` | Scrapes an individual wrestler’s match history                    |
-| `scrape_team_matches`     | Scrapes all wrestler matches for a single team and season         |
-| `scrape_team_for_season`  | Wrapper function for scraping a team in a single browser instance |
-| `scrape_all_d1_teams`     | Multithreaded scraper across all teams and seasons (2014–2026)    |
+- 🧹 Cleaning pipeline to standardize data and prepare for future use
 
 ## 📁 Folder Structure
 
 ```Folder Structure
-├── Team Results/
-│   ├── Penn State/
-│   │   └── 2025_penn-state.csv
-│   └── ...
-├── Year Results/
-│   ├── 2014_matches.csv
-│   ├── 2015_matches.csv
-│   └── ...
-├── d1_all_match_results.csv
-├── scraper.py
+├── data/
+│   ├── clean/
+│   │   ├── d1_results_clean.csv
+│   │   └── d1_results_unique.csv
+│   └── raw/
+│       ├── team_results/
+│       │   ├── penn_state/
+│       │   │   └── 2025_penn-state.csv
+│       │   └── ...
+│       ├── year_results/
+│       │   ├── 2014_matches.csv
+│       │   ├── 2015_matches.csv
+│       │   └── ...
+│       └── d1_results_raw.csv
+├── notebooks/
+│   ├── cleaning.ipynb
+│   └── feature_engineering.ipynb
+├── scripts/
+│   ├── cleaning/
+│   │   └── cleaning.py
+│   └── scraping/
+│       └── scraper.py
 ├── .env
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ## 🛠 Requirements
@@ -86,26 +88,6 @@ WRESTLESTAT_PASSWORD=your_password
 
 These credentials are required to authenticate and access full wrestler match histories.
 
-## 🚀 Usage
-
-Run the scraper from the command line:
-
-```bash
-python scraper.py
-```
-
-This will:
-
-- Log into WrestleStat
-- Scrape every season from 2014 to 2026
-- Export team-level and season-level CSVs
-- Compile everything into `d1_all_match_results.csv`
-
-You can also modify scraper.py or use CLI options (**in development**) to:
-
-- Target specific seasons or teams
-- Control multithreading parameters for faster scraping
-
 ## ⏱ Runtime Note
 
 Full dataset scraping across all seasons may take **several hours**. It is recommended to:
@@ -113,7 +95,7 @@ Full dataset scraping across all seasons may take **several hours**. It is recom
 - Use a stable internet connection
 - Avoid power-intensive activities while scraping (gaming, video uploading, etc.)
 
-## 📊 Example Output
+## 📊 Example Output (Raw Data)
 
 A single match row includes:
 
