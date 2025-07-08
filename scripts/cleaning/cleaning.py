@@ -156,6 +156,7 @@ class WrestlingDataCleaner:
         df.loc[df['result_type'] == 'SV-3', 'match_duration'] = '13:00'
         df.loc[df['result_type'] == 'TB-3', 'match_duration'] = '14:00'
         df.loc[df['result_type'].isin(['MFOR', 'FOR', 'CMFF', 'DQ']), 'match_duration'] = '0:00'
+        df['match_duration'] = df['match_duration'].fillna('0:00')
 
         # Removing time from score for technical falls
         df.loc[df['result_type'].str.contains('TF'), 'score'] = df['score'].replace(r' \d{1}:\d{1,2}', '', regex=True)
