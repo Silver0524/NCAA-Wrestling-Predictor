@@ -192,6 +192,9 @@ class WrestlingDataCleaner:
         # Fill score column for matches where there is no score
         df.loc[df['result_type'].isin(['FALL', 'INJ', 'DEF']), 'score'] = df['result_type']
 
+        # Standardizing technical fall notation
+        df.loc[df['result_type'].str.contains('TF'), 'result_type'] = 'TF'
+
         # Reorder columns to match desired output
         df = df.iloc[:, [0, 1, 2, 3, 10, 11, 12, 7, 8, 9, 4, 5, 6, 13]].copy()
 
