@@ -1,18 +1,3 @@
-season,date,event,weight_class,result,result_type,score,opponent,opponent_id,opponent_school,wrestler,wrestler_id,wrestler_school
-2021,03/18,NCAA Championships,125,L,TF5,21 - 4 6:13,Danny Vega,45142,South Dakota State,Gage Curry,44583,American
-2021,03/18,NCAA Championships,125,L,MD,21 - 9,Jakob Camacho,50655,NC State,Gage Curry,44583,American
-2021,02/26,EIWA Championships,125,W,DEC,6 - 2,Micah Roes,67299,Binghamton,Gage Curry,44583,American
-2021,02/26,EIWA Championships,125,W,DEC,7 - 4,Brandon Seidman,56803,Bucknell,Gage Curry,44583,American
-2021,02/26,EIWA Championships,125,W,DEC,4 - 3,Dylan Ryder,50876,Hofstra,Gage Curry,44583,American
-2021,02/26,EIWA Championships,125,L,DEC,4 - 0,Logan Treaster,49205,Navy,Gage Curry,44583,American
-2021,02/26,EIWA Championships,141,L,MFOR,0 - 0,Kurt Phipps,63966,Bucknell,Patrick Ryan,57253,American
-2021,02/26,EIWA Championships,141,L,FALL,4:18,Kurt Phipps,63966,Bucknell,Patrick Ryan,57253,American
-2021,02/26,EIWA Championships,141,W,DEC,7 - 2,Dane Heberlein,49049,Binghamton,Patrick Ryan,57253,American
-2021,02/26,EIWA Championships,141,L,SV-1,6 - 4,Julian Flores,44791,Drexel,Patrick Ryan,57253,American
-2021,03/18,NCAA Championships,174,L,DEC,7 - 5,Jacob Oliver,49130,Edinboro,Timothy Fitzpatrick,57254,American
-2021,03/18,NCAA Championships,174,L,FALL,4:56,Logan Massa,39517,Michigan,Timothy Fitzpatrick,57254,American
-2021,02/26,EIWA Championships,174,W,DEC,5 - 3,Jacob Nolan,62415,Binghamton,Timothy Fitzpatrick,57254,American
-2021,02/26,EIWA Championships,174,W,DEC,4 - 3,Ross McFarland,62209,Hofstra,Timothy Fitzpatrick,57254,American
-2021,02/26,EIWA Championships,174,L,TF5,19 - 3 6:38,Ben Pasiuk,57286,Army West Point,Timothy Fitzpatrick,57254,American
-2021,02/26,EIWA Championships,174,W,MFOR,0 - 0,Jake Logan,57185,Lehigh,Timothy Fitzpatrick,57254,American
-2021,02/26,EIWA Championships,174,W,MD,11 - 1,Patrick O'Donnell,49310,Sacred Heart,Timothy Fitzpatrick,57254,American
+version https://git-lfs.github.com/spec/v1
+oid sha256:0460dd63a2476acf32bb1caababc6b64bc578c3b40436b67bc47b24f8b5cf410
+size 1954
