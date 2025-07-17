@@ -33,6 +33,8 @@ Currently working on:
 │   ├── clean/
 │   │   ├── d1_results_clean.csv
 │   │   └── d1_results_unique.csv
+│   ├── features/
+│   │   └── logistic_reg_features.csv
 │   └── raw/
 │       ├── team_results/
 │       │   ├── penn_state/
@@ -45,7 +47,9 @@ Currently working on:
 │       └── d1_results_raw.csv
 ├── notebooks/
 │   ├── cleaning.ipynb
-│   └── feature_engineering.ipynb
+│   ├── decision_tree.ipynb
+│   ├── logistic_reg.ipynb
+│   └── eda.ipynb
 ├── scripts/
 │   ├── cleaning/
 │   │   └── cleaning.py

@@ -1,8 +1,43 @@
+"""
+Feature Engineering for Logistic Regression
+
+This module generates engineered features from cleaned NCAA Division I wrestling match data
+for the purpose of modeling with logistic regression.
+
+The script is designed to be run as a standalone program. When executed directly,
+it reads a deduplicated match dataset, applies all transformations, and saves
+the resulting feature set to disk for use in machine learning pipelines.
+
+It includes functions to:
+- Convert and clean match metrics (e.g., score, duration)
+- Create base features like match outcomes and point differential
+- Generate advanced features such as rolling win rates, form differentials,
+  scoring/defensive advantages, experience gaps, and head-to-head history
+
+Expected input:
+- Cleaned and deduplicated match-level dataset: `data/clean/d1_results_unique.csv`
+
+Output:
+- Feature-enhanced dataset: `data/features/logistic_reg_features.csv`
+
+Usage:
+    python feature_eng_logistic.py
+"""
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import StandardScaler
+import os
 
 def duration_to_seconds(duration_str):
+    """
+    Converts a match duration string (e.g., "2:30") to total seconds.
+    
+    Parameters:
+        duration_str (str): Match duration in "mm:ss" format.
+        
+    Returns:
+        int or None: Duration in seconds, or None if parsing fails.
+    """
+
     try:
         minutes, seconds = map(int, duration_str.split(":"))
         return minutes * 60 + seconds
@@ -10,7 +45,21 @@ def duration_to_seconds(duration_str):
         return None
 
 def double_matches(df):
+    """
+    Creates a mirrored version of each match with roles reversed
+    (opponent becomes primary wrestler and vice versa).
+    
+    Parameters:
+        df (DataFrame): Original match data.
+        
+    Returns:
+        DataFrame: Dataset with both original and mirrored matches included.
+    """
+
+    # Create copy for reversal
     df_b = df.copy()
+
+    # Reverse wrestler and opponent in copy df
     df_b['wrestler_id'] = df['opponent_id']
     df_b['opponent_id'] = df['wrestler_id']
     df_b['wrestler'] = df['opponent']
@@ -21,10 +70,30 @@ def double_matches(df):
     df_b['opponent_score'] = df['wrestler_score']
     df_b['result'] = np.where(df['result'] == 'W', 'L', 'W')
 
+    # Combine and return df and copy
     result = pd.concat([df, df_b])
     return result.sort_values(['date', 'wrestler_id']).reset_index()
 
 def create_base_features(df):
+    """
+    Generates base match-level features from cleaned match data.
+    
+    Steps:
+    - Splits score into individual values
+    - Flags dual meets
+    - Removes forfeits/disqualifications
+    - Converts durations to seconds
+    - Identifies overtime matches
+    - Adds mirrored matches using `double_matches`
+    - Creates win/loss indicators and point differential
+    
+    Parameters:
+        df (DataFrame): Cleaned match dataset.
+        
+    Returns:
+        DataFrame: Base features with mirrored matches and core metrics.
+    """
+
     df[['wrestler_score', 'opponent_score']] = df['score'].str.split(' - ', expand=True)
     df.loc[df['result_type'] == 'FALL', ['wrestler_score', 'opponent_score']] = 0
     df = df.drop(['score'], axis=1)
@@ -47,8 +116,19 @@ def create_base_features(df):
     df['is_win'] = (df['result'] == 'W').astype(int)
     df['point_differential'] = df['wrestler_score'] - df['opponent_score']
 
+    return df
+
 def calculate_win_rate_last_5(df):
-    """Calculate win rate for last 5 matches for each wrestler"""
+    """
+    Calculates rolling win rate over the last 5 matches per wrestler (shifted to avoid leakage).
+    
+    Parameters:
+        df (DataFrame): Match data with 'is_win' column.
+        
+    Returns:
+        DataFrame: Updated with 'win_rate_last_5'.
+    """
+
     df = df.sort_values(['wrestler_id', 'date'])
     
     # Calculate rolling win rate for last 5 matches
@@ -62,7 +142,13 @@ def calculate_win_rate_last_5(df):
     return df
 
 def calculate_opponent_career_win_rate(df):
-    """Calculate opponent's career win rate at time of match"""
+    """
+    Calculates opponent's career win rate at the time of the match.
+    
+    Returns:
+        DataFrame: Updated with 'opponent_career_win_rate'.
+    """
+
     df = df.sort_values(['wrestler_id', 'date'])
     
     # Calculate cumulative win rate for each wrestler
@@ -86,7 +172,13 @@ def calculate_opponent_career_win_rate(df):
     return df
 
 def calculate_form_differential_5(df):
-    """Calculate form differential (own form - opponent form) over last 5 matches"""
+    """
+    Computes the difference in recent form (win rate over last 5 matches) between wrestler and opponent.
+    
+    Returns:
+        DataFrame: Updated with 'form_differential_5'.
+    """
+
     df = df.sort_values(['wrestler_id', 'date'])
     
     # Calculate form (win rate) for last 5 matches
@@ -113,7 +205,13 @@ def calculate_form_differential_5(df):
     return df
 
 def calculate_avg_point_differential_last_5(df):
-    """Calculate average point differential over last 5 matches"""
+    """
+    Computes average point differential over last 5 matches (shifted to avoid leakage).
+    
+    Returns:
+        DataFrame: Updated with 'avg_point_differential_last_5'.
+    """
+
     df = df.sort_values(['wrestler_id', 'date'])
     
     # Calculate rolling average point differential
@@ -127,7 +225,13 @@ def calculate_avg_point_differential_last_5(df):
     return df
 
 def calculate_h2h_win_rate(df):
-    """Calculate head-to-head win rate against specific opponent"""
+    """
+    Calculates experience differential as difference in total matches played up to match.
+    
+    Returns:
+        DataFrame: Updated with 'experience_differential'.
+    """
+    
     df = df.sort_values(['wrestler_id', 'date'])
     
     # Create head-to-head combinations
@@ -147,7 +251,13 @@ def calculate_h2h_win_rate(df):
     return df
 
 def calculate_experience_differential(df):
-    """Calculate experience differential (total matches played difference)"""
+    """
+    Calculates experience differential as difference in total matches played up to match.
+    
+    Returns:
+        DataFrame: Updated with 'experience_differential'.
+    """
+
     df = df.sort_values(['wrestler_id', 'date'])
 
     # Shift to get experience before current match
@@ -168,7 +278,13 @@ def calculate_experience_differential(df):
     return df
 
 def calculate_scoring_advantage_5(df):
-    """Calculate scoring advantage (avg points scored - league avg) over last 5 matches"""
+    """
+    Calculates scoring advantage over last 5 matches vs league average.
+    
+    Returns:
+        DataFrame: Updated with 'scoring_advantage_5'.
+    """
+
     df = df.sort_values(['wrestler_id', 'date'])
     
     # Calculate league average points scored by date
@@ -188,7 +304,13 @@ def calculate_scoring_advantage_5(df):
     return df
 
 def calculate_defensive_advantage_5(df):
-    """Calculate defensive advantage (league avg points allowed - avg points allowed) over last 5 matches"""
+    """
+    Calculates defensive advantage over last 5 matches vs league average points allowed.
+    
+    Returns:
+        DataFrame: Updated with 'defensive_advantage_5'.
+    """
+    
     df = df.sort_values(['wrestler_id', 'date'])
     
     # Calculate league average points allowed by date
@@ -208,12 +330,21 @@ def calculate_defensive_advantage_5(df):
     return df
 
 def calculate_dominant_win_rate_last_5(df, dominant_threshold=8):
-    """Calculate dominant win rate (wins by significant margin) over last 5 matches"""
+    """
+    Calculates dominant win rate over last 5 matches (e.g., wins by 8+ points).
+    
+    Parameters:
+        dominant_threshold (int): Point margin to define a dominant win.
+        
+    Returns:
+        DataFrame: Updated with 'dominant_win_rate_last_5'.
+    """
+
     df = df.sort_values(['wrestler_id', 'date'])
     
     # Define dominant wins (e.g., winning by 10+ points)
     df['dominant_win'] = ((df['is_win'] == 1) & 
-                         (df['wrestler_score'] - df['opponent_score'] >= dominant_threshold)).astype(int)
+                         (df['point_differential'] >= dominant_threshold)).astype(int)
     
     # Calculate rolling dominant win rate
     df['dominant_win_rate_last_5'] = df.groupby('wrestler_id')['dominant_win'].rolling(
@@ -226,8 +357,12 @@ def calculate_dominant_win_rate_last_5(df, dominant_threshold=8):
     return df
 
 def engineer_all_features(df):
-    """Apply all feature engineering functions"""
-    print("Engineering features...")
+    """
+    Applies all feature engineering functions to the dataset.
+    
+    Returns:
+        DataFrame: Fully featured dataset.
+    """
     
     # Apply all feature engineering functions
     df = calculate_win_rate_last_5(df)
@@ -242,36 +377,14 @@ def engineer_all_features(df):
     
     return df
 
-def prepare_data_for_modeling(df):
-    """Prepare data for logistic regression modeling"""
-    priority_features = [
-        'win_rate_last_5',
-        'opponent_career_win_rate', 
-        'form_differential_5',
-        'avg_point_differential_last_5',
-        'h2h_win_rate',
-        'experience_differential',
-        'scoring_advantage_5',
-        'defensive_advantage_5',
-        'dominant_win_rate_last_5'
-    ]
-    
-    # Remove rows with NaN values in priority features
-    df_clean = df.dropna(subset=priority_features + ['is_win'])
-    
-    # Separate features and target
-    X = df_clean[priority_features]
-    y = df_clean['is_win']
-    
-    # Scale features
-    scaler = StandardScaler()
-    X_scaled = scaler.fit_transform(X)
-    X_scaled = pd.DataFrame(X_scaled, columns=priority_features, index=X.index)
-    
-    return X_scaled, y, scaler
-
 if __name__ == '__main__':
-    raw = pd.read_csv('../data/clean/d1_results_unique.csv')
-    df = create_base_features(raw)
+    # Load cleaned, deduplicated match results
+    raw = pd.read_csv('data/clean/d1_results_unique.csv')
+    df = create_base_features(raw).drop(columns=['index'])
+
+    # Apply full feature engineering pipeline
     df_engineered = engineer_all_features(df)
-    X, y, scaler = prepare_data_for_modeling(df_engineered)
+
+    # Save output to disk
+    os.makedirs('data/features/', exist_ok=True)
+    df_engineered.to_csv('data/features/logistic_reg_features.csv', index=False)

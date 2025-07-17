@@ -18,9 +18,7 @@ Main Methods:
 - parse_score(row): Extracts the match score and duration from raw input strings.
 
 Example:
-    cleaner = WrestlingDataCleaner()
-    df_clean = cleaner.clean_data(df_raw)
-    df_dedup = cleaner.deduplicate_matches(df_clean)
+    python cleaning.py
 """
 
 import pandas as pd

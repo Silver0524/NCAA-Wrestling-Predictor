@@ -22,7 +22,7 @@ Requires a `.env` file with the following:
 
 Usage:
     Run as a script to scrape all D1 team data across seasons:
-    $ python scraper.py
+    python scraper.py
 """
 
 # import packages
