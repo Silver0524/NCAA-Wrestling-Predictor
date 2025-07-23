@@ -14,7 +14,6 @@ This project is the foundation for a long-term initiative to:
 
 Currently working on:
 
-- 🔬 Exploratory data analysis to reveal trends
 - 🛠️ Feature engineering to prepare for predictive modeling
 
 ## 📌 Features
@@ -26,41 +25,33 @@ Currently working on:
 - 🗃️ Activity map support for defunct and newly added programs
 - 🧹 Cleaning pipeline to standardize data and prepare for future use
 
-## 📁 Folder Structure
+## 📊 Exploratory Analysis Highlights
 
-```Folder Structure
-├── data/
-│   ├── clean/
-│   │   ├── d1_results_clean.csv
-│   │   └── d1_results_unique.csv
-│   ├── features/
-│   │   └── logistic_reg_features.csv
-│   └── raw/
-│       ├── team_results/
-│       │   ├── penn_state/
-│       │   │   └── 2025_penn-state.csv
-│       │   └── ...
-│       ├── year_results/
-│       │   ├── 2014_matches.csv
-│       │   ├── 2015_matches.csv
-│       │   └── ...
-│       └── d1_results_raw.csv
-├── notebooks/
-│   ├── cleaning.ipynb
-│   ├── decision_tree.ipynb
-│   ├── logistic_reg.ipynb
-│   └── eda.ipynb
-├── scripts/
-│   ├── cleaning/
-│   │   └── cleaning.py
-│   └── scraping/
-│       └── scraper.py
-├── .env
-├── README.md
-└── requirements.txt
-```
+After scraping and cleaning over 441,000 matches across 12 seasons (2013–2025), EDA has uncovered some key trends:
 
-## 🛠 Requirements
+### 🕒 Time-Period Analysis
+
+- 🎯 Decisions dominate: Over 50% of matches end in a decision (point differential <8)
+- ⏱ Overtime is rare: Fewer than 5% of matches (~12,000 total) went into OT
+
+📅 Season-by-Season Trends
+
+- 🔄 Steady match volume, except for a COVID-19 dip in 2020–21
+- 📊 Post-2023 result shifts: Technical falls increased following the 3-point takedown rule change
+
+🏟️ Team-Level Insights
+
+- 🏆 Bonus rate trends highlight aggressive programs like Penn State and Oklahoma State
+- 👑 Penn State’s dominance is clear — with the highest win rates and bonus point percentages in recent seasons
+
+💪 Wrestler-Level Performance
+Used **Bayesian-adjusted metrics** to compare wrestlers with different match counts:
+
+- 🧠 Win Rate Leaders: Yianni Diakomihalis, Zain Retherford
+- 🧨 Bonus Point Machines: Jason Nolf, Zahid Valencia
+- 🏋️ Workhorses: Parker Keckeisen — high consistency across 156 matches
+
+## 🛠 Scraping Requirements
 
 - Python 3.8+
 - [Playwright](https://playwright.dev/python/)
@@ -91,13 +82,6 @@ WRESTLESTAT_PASSWORD=your_password
 ```
 
 These credentials are required to authenticate and access full wrestler match histories.
-
-## ⏱ Runtime Note
-
-Full dataset scraping across all seasons may take **several hours**. It is recommended to:
-
-- Use a stable internet connection
-- Avoid power-intensive activities while scraping (gaming, video uploading, etc.)
 
 ## 📊 Example Output (Raw Data)
 
