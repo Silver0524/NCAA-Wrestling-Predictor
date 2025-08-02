@@ -1,29 +1,27 @@
 """
-logistic_regression.py
+decision_tree.py
 
-This module prepares engineered NCAA Division I wrestling data for logistic regression modeling,
-performs a temporal train-test split to avoid data leakage, scales feature values, and trains a
-logistic regression classifier to predict match outcomes.
+This module prepares engineered NCAA Division I wrestling data for decision tree modeling,
+performs a temporal train-test split to avoid data leakage and trains a
+decision tree classifier to predict match outcomes.
 
 Functions included:
 - prepare_data_for_modeling: filters and formats features/target for modeling
 - temporal_train_test_split: splits data into train and test sets based on match date
-- scale_features: standardizes numerical features using training set statistics
 - train_logistic_regression: executes the full modeling pipeline and returns predictions
 
 Expected input:
 - A feature-enhanced and deduplicated dataset including a 'date' column and binary 'is_win' label.
 
 Output:
-- Trained scikit-learn LogisticRegression model serialized via joblib
+- Trained scikit-learn DecisionTreeClassifier model serialized via joblib
 
 Usage:
-    python logistic_regression.py
+    python decision_tree.py
 """
 
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
-from sklearn.linear_model import LogisticRegression
+from sklearn.tree import DecisionTreeClassifier
 import joblib
 
 def prepare_data_for_modeling(df):
@@ -43,17 +41,16 @@ def prepare_data_for_modeling(df):
         priority_features (list): List of feature column names used in modeling.
     """
 
-    priority_features = [
-        'win_rate_last_5',
-        'opponent_career_win_rate', 
-        'form_differential_5',
-        'avg_point_differential_last_5',
-        'h2h_win_rate',
-        'experience_differential',
-        'scoring_advantage_5',
-        'defensive_advantage_5',
-        'dominant_win_rate_last_5'
+    non_feature_cols = [
+        'duration_seconds', 'point_differential',
+        'wrestler_score', 'opponent_score', 
+        'result', 'result_type', 'is_overtime', 
+        'bonus_win', 'close_match', 'h2h_key',
+        'season', 'year', 'wrestler', 'opponent', 
+        'event', 'wrestler_school', 'opponent_school'
     ]
+
+    priority_features = [col for col in df.columns if col not in non_feature_cols + ['is_win', 'date']]
     
     # Remove rows with NaN values in priority features
     df_clean = df.dropna(subset=priority_features + ['is_win'])
@@ -106,85 +103,58 @@ def temporal_train_test_split(X, y, test_size=0.2, split_date=None):
     
     return X_train, X_test, y_train, y_test, split_date
 
-def scale_features(X_train, X_test, feature_columns):
+def train_decision_tree(X, y, feature_columns, max_depth=10, min_samples_split=20, min_samples_leaf=10):
     """
-    Standardizes the feature columns using z-score normalization based on training data.
+    Trains a decision tree model on wrestling match data.
 
-    Scales both training and testing features using the mean and standard deviation
-    from the training set. The 'date' column is retained unscaled.
-
-    Args:
-        X_train (pd.DataFrame): Training features, including 'date'.
-        X_test (pd.DataFrame): Testing features, including 'date'.
-        feature_columns (list): List of column names to scale.
-
-    Returns:
-        X_train_scaled (pd.DataFrame): Scaled training features with date preserved.
-        X_test_scaled (pd.DataFrame): Scaled testing features with date preserved.
-    """
-
-    # Separate features from date
-    X_train_features = X_train[feature_columns]
-    X_test_features = X_test[feature_columns]
-    
-    # Scale features
-    scaler = StandardScaler()
-    X_train_scaled = scaler.fit_transform(X_train_features)
-    X_test_scaled = scaler.transform(X_test_features)
-    
-    # Convert back to DataFrame
-    X_train_scaled = pd.DataFrame(X_train_scaled, columns=feature_columns, index=X_train.index)
-    X_test_scaled = pd.DataFrame(X_test_scaled, columns=feature_columns, index=X_test.index)
-    
-    # Add back the date column
-    X_train_scaled['date'] = X_train['date']
-    X_test_scaled['date'] = X_test['date']
-    
-    return X_train_scaled, X_test_scaled
-
-def train_logistic_regression(X, y, feature_columns):
-    """
-    Trains a logistic regression model on wrestling match data.
-
-    Performs temporal splitting, feature scaling, model training, and prediction
+    Performs temporal splitting, model training, and prediction
     on the test set. Returns all components needed for evaluation or saving.
 
     Args:
         X (pd.DataFrame): Full feature set including 'date'.
         y (pd.Series): Binary match outcome labels (1 = win, 0 = loss).
         feature_columns (list): List of features to include in the model.
+        max_depth (int, optional): Maximum depth of the decision tree.
+        min_samples_split (int, optional): Minimum number of samples required to split an internal node.
+        min_samples_leaf (int, optional): Minimum number of samples required to be at a leaf node.
 
     Returns:
-        model (LogisticRegression): Trained logistic regression model.
-        X_test_scaled (pd.DataFrame): Scaled test features with date.
+        model (DecisionTreeClassifier): Trained decision tree model.
+        X_test_scaled (pd.DataFrame): Test features with date.
         y_test (pd.Series): True labels for test set.
         y_pred (np.ndarray): Binary predictions on test set.
         y_pred_proba (np.ndarray): Predicted probabilities for the positive class.
     """
-
+    
     # Temporal split
     X_train, X_test, y_train, y_test, split_date = temporal_train_test_split(X, y)
     
-    # Scale features
-    X_train_scaled, X_test_scaled = scale_features(X_train, X_test, feature_columns)
+    # Decision trees don't require feature scaling, but we'll keep dates separate
+    X_train_features = X_train[feature_columns]
+    X_test_features = X_test[feature_columns]
     
-    # Train model (only on feature columns, not date)
-    model = LogisticRegression(random_state=42)
-    model.fit(X_train_scaled[feature_columns], y_train)
+    # Train model
+    model = DecisionTreeClassifier(
+        max_depth=max_depth,
+        min_samples_split=min_samples_split,
+        min_samples_leaf=min_samples_leaf,
+        random_state=42
+    )
+    model.fit(X_train_features, y_train)
     
     # Make predictions
-    y_pred = model.predict(X_test_scaled[feature_columns])
-    y_pred_proba = model.predict_proba(X_test_scaled[feature_columns])[:, 1]
+    y_pred = model.predict(X_test_features)
+    y_pred_proba = model.predict_proba(X_test_features)[:, 1]
     
-    return model, X_test_scaled, y_test, y_pred, y_pred_proba
+    return model, X_test, y_test, y_pred, y_pred_proba
 
 if __name__ == "__main__":
     # Load the feature dataset
-    df = pd.read_csv('data/features/logistic_reg_features.csv')
+    df = pd.read_csv('data/features/decision_tree_features.csv')
 
     # Prepare data and train model
     X, y, feature_cols = prepare_data_for_modeling(df)
-    model, X_test, y_test, y_pred, y_pred_proba = train_logistic_regression(X, y, feature_cols)
+    model, X_test, y_test, y_pred, y_pred_proba = train_decision_tree(X, y, feature_cols)
 
     # Save the trained model
-    joblib.dump(model, 'models/logistic_regression_model.pkl')
+    joblib.dump(model, 'models/decision_tree_model.pkl')

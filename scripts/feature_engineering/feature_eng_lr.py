@@ -21,7 +21,7 @@ Output:
 - Feature-enhanced dataset: `data/features/logistic_reg_features.csv`
 
 Usage:
-    python feature_eng_logistic.py
+    python feature_eng_lr.py
 """
 import pandas as pd
 import numpy as np
