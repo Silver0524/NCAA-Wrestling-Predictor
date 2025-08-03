@@ -47,7 +47,8 @@ def prepare_data_for_modeling(df):
         'result', 'result_type', 'is_overtime', 
         'bonus_win', 'close_match', 'h2h_key',
         'season', 'year', 'wrestler', 'opponent', 
-        'event', 'wrestler_school', 'opponent_school'
+        'event', 'wrestler_school', 'opponent_school',
+        'close_match_win'
     ]
 
     priority_features = [col for col in df.columns if col not in non_feature_cols + ['is_win', 'date']]
