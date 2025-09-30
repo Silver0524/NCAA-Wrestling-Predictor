@@ -1,6 +1,6 @@
-# WrestleStat NCAA Division 1 Wrestling Data Scraper
+# WrestleStat NCAA Division 1 Wrestling Data Scraper/Predictor
 
-This project is a Python-based web scraping tool that compiles comprehensive NCAA Division I wrestling data from [WrestleStat.com](https://www.wrestlestat.com/). It retrieves detailed match histories, team rosters, and season-level results across all D1 wrestling programs from the 2013–2014 season through the 2025–2026 season.
+This project is a Python-based web scraping tool that compiles comprehensive NCAA Division I wrestling data from [WrestleStat.com](https://www.wrestlestat.com/). It retrieves detailed match histories, team rosters, and season-level results across all D1 wrestling programs from the 2013–2014 season through the 2025–2026 season. It also contains multiple machine learning models trained to predict the results of hypothetical matches based on previous data.
 
 ## 🎯 Goals
 
@@ -10,12 +10,6 @@ This project is the foundation for a long-term initiative to:
 - 🤖 **Develop machine learning models** to predict future match outcomes using historical performance data.
 - 🌐 **Scale into a full-stack web application** for fans, analysts, and recruiters to interactively explore wrestlers, teams, trends, and predictions.
 
-## 📍 In Progress
-
-Currently working on:
-
-- 🛠️ Feature engineering to prepare for predictive modeling
-
 ## 📌 Features
 
 - 🔐 User authentication to access full match data
@@ -24,6 +18,7 @@ Currently working on:
 - 🔁 Multi-season scraping with parallel processing
 - 🗃️ Activity map support for defunct and newly added programs
 - 🧹 Cleaning pipeline to standardize data and prepare for future use
+- 🤖 Machine learning models capable of predicting matches with 77% accuracy
 
 ## 📊 Exploratory Analysis Highlights
 
@@ -95,15 +90,6 @@ A single match row includes:
 
 - Occasional site structure changes may break scraping—update selectors accordingly.
 - Wrestlers with no matches or malformed data may be skipped silently.
-
-## 🧪 Future Improvements
-
-- Modularize scraper into a CLI-first package
-- Engineer additional features to improve ML model performance
-- Implement support for scraping newly added matches without full re-scraping
-- Build machine learning pipelines for outcome prediction
-- Develop front-end dashboard for interactive data exploration
-- Integrate cloud database support (e.g., Firebase, Supabase, or S3) for data storage and queries
 
 ## 📄 License
 
