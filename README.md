@@ -2,14 +2,6 @@
 
 This project is a Python-based web scraping tool that compiles comprehensive NCAA Division I wrestling data from [WrestleStat.com](https://www.wrestlestat.com/). It retrieves detailed match histories, team rosters, and season-level results across all D1 wrestling programs from the 2013–2014 season through the 2025–2026 season. It also contains multiple machine learning models trained to predict the results of hypothetical matches based on previous data.
 
-## 🎯 Goals
-
-This project is the foundation for a long-term initiative to:
-
-- 📂 **Build a clean, publicly available, and easy-to-use dataset** of NCAA Division I wrestling matches from 2013–2026.
-- 🤖 **Develop machine learning models** to predict future match outcomes using historical performance data.
-- 🌐 **Scale into a full-stack web application** for fans, analysts, and recruiters to interactively explore wrestlers, teams, trends, and predictions.
-
 ## 📌 Features
 
 - 🔐 User authentication to access full match data
@@ -29,17 +21,18 @@ After scraping and cleaning over 441,000 matches across 12 seasons (2013–2025)
 - 🎯 Decisions dominate: Over 50% of matches end in a decision (point differential <8)
 - ⏱ Overtime is rare: Fewer than 5% of matches (~12,000 total) went into OT
 
-📅 Season-by-Season Trends
+### 📅 Season-by-Season Trends
 
 - 🔄 Steady match volume, except for a COVID-19 dip in 2020–21
 - 📊 Post-2023 result shifts: Technical falls increased following the 3-point takedown rule change
 
-🏟️ Team-Level Insights
+### 🏟️ Team-Level Insights
 
 - 🏆 Bonus rate trends highlight aggressive programs like Penn State and Oklahoma State
 - 👑 Penn State’s dominance is clear — with the highest win rates and bonus point percentages in recent seasons
 
-💪 Wrestler-Level Performance
+### 💪 Wrestler-Level Performance
+
 Used **Bayesian-adjusted metrics** to compare wrestlers with different match counts:
 
 - 🧠 Win Rate Leaders: Yianni Diakomihalis, Zain Retherford
@@ -86,10 +79,9 @@ A single match row includes:
 | ------ | ----- | ---------------------- | ------------ | ------------ | ------ | ----------- | ------ | --------------- | ----------- | --------------- | --------------- | ----------- | --------------- |
 | 2024   | 02/09 | Penn State - Iowa Dual | True         | 174          | W      | MD          | 13 - 5 | Patrick Kennedy | 56760       | Iowa            | Carter Starocci | 58819       | Penn State      |
 
-## ⚠️ Known Issues
+## Future Development
 
-- Occasional site structure changes may break scraping—update selectors accordingly.
-- Wrestlers with no matches or malformed data may be skipped silently.
+At the moment I am currently developing a full-stack web application to create an interactive site that users can generate predictions through. This development will remain private for the moment, but this repo will be updated accordingly to reflect progress as the project continues.
 
 ## 📄 License
 
