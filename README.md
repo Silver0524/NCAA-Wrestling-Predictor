@@ -81,7 +81,7 @@ A single match row includes:
 
 ## Future Development
 
-At the moment I am currently developing a full-stack web application to create an interactive site that users can generate predictions through. This development will remain private for the moment, but this repo will be updated accordingly to reflect progress as the project continues.
+At the moment I am currently developing a full-stack web application to create an interactive site that users can generate predictions through. This development can be found in the following github repository: [MatPredict](https://github.com/Silver0524/MatPredict)
 
 ## 📄 License
 
